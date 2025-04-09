@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-04-09, 14:53:01",
-      "https://news.ycombinator.com/item?id=43632831"
+      "2025-04-09, 15:41:38",
+      "https://news.ycombinator.com/item?id=43633383"
     ],
     [
-      "Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity",
-      "https://productrank.ai/"
+      "Anthropic Education Report: How University Students Use Claude",
+      "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 15:34:27",
+      "https://news.ycombinator.com/item?id=43633298"
+    ],
+    [
+      "Show HN: I built an app to generate story relationships using Mermaidjs",
+      "https://github.com/herol3oy/austen"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 15:33:53",
+      "https://news.ycombinator.com/item?id=43633288"
+    ],
+    [
+      "AI coding mandates are driving developers to the brink",
+      "https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 15:31:16",
+      "https://news.ycombinator.com/item?id=43633256"
+    ],
+    [
+      "Bundeswehr to remove all Microsoft software from its systems",
+      "https://www.itprotoday.com/software-development/german-military-to-replace-microsoft-software"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "The chroot Technique – a Swiss army multitool for Linux systems",
       "https://livesys.se/posts/the-chroot-technique/"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 14:04:17",
+      "https://news.ycombinator.com/item?id=43632278"
+    ],
+    [
+      "Show HN: Fermi – A Wordle-style game for order-of-magnitude thinking",
+      "https://fermi-game.andrewnoble.me/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2025-04-09, 10:27:36",
-      "https://news.ycombinator.com/item?id=43630624"
-    ],
-    [
-      "How to lock down your phone if you're traveling to the U.S.",
-      "https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 09:34:16",
       "https://news.ycombinator.com/item?id=43630388"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2025-04-09, 06:02:01",
-      "https://news.ycombinator.com/item?id=43629307"
-    ],
-    [
-      "The best programmers I know",
-      "https://endler.dev/2025/best-programmers/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 03:00:01",
       "https://news.ycombinator.com/item?id=43628500"
     ],
     [
       "NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV",
       "https://github.com/DistroHopper39B/NTATV"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 01:21:22",
-      "https://news.ycombinator.com/item?id=43628037"
-    ],
-    [
-      "Dockerfmt: A Dockerfile Formatter",
-      "https://github.com/reteps/dockerfmt"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Apache ECharts",
       "https://echarts.apache.org/en/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 15:10:29",
-      "https://news.ycombinator.com/item?id=43622703"
-    ],
-    [
-      "Better typography with text-wrap pretty",
-      "https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/"
     ]
   ],
   [
