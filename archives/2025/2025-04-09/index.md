@@ -7,6 +7,7 @@
 * [2025-04-09, 18:19:13](https://news.ycombinator.com/item?id=43635460) - [MapStructur – Self-hosted map editor with draggable markers and Docker support](https://itfourall.com/mapstruct.php)
 * [2025-04-09, 18:07:24](https://news.ycombinator.com/item?id=43635296) - [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
+* [2025-04-09, 17:28:55](https://news.ycombinator.com/item?id=43634806) - [Trump temporarily drops tariffs to 10% for most countries](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html)
 * [2025-04-09, 17:28:55](https://news.ycombinator.com/item?id=43634806) - [Trump reduces tariffs to 10% for 90 days on all countries but China](https://www.cnbc.com/2025/04/09/trump-tariffs-live-updates.html)
 * [2025-04-09, 17:26:02](https://news.ycombinator.com/item?id=43634780) - [Vit D supplementation to prevent acute resp infections: review and meta-analysis](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00348-6/fulltext)
 * [2025-04-09, 17:26:02](https://news.ycombinator.com/item?id=43634778) - [Last Windows update creates C:\\inetpub](https://infosec.exchange/@wdormann/114308857330723919)
