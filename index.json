@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-04-09, 00:46:28",
-      "https://news.ycombinator.com/item?id=43627877"
+      "2025-04-09, 01:20:13",
+      "https://news.ycombinator.com/item?id=43628028"
     ],
     [
-      "Who isn't a big fan of \"impartial\" news? People who don't have power",
-      "https://www.niemanlab.org/2025/04/which-types-of-people-arent-big-fans-of-impartial-news-people-who-dont-have-power/"
+      "NNN: Next-Generation Neural Networks for Marketing Mix Modeling",
+      "https://arxiv.org/abs/2504.06212"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-04-08, 07:30:24",
-      "https://news.ycombinator.com/item?id=43619229"
-    ],
-    [
-      "Building the System/360 Mainframe Nearly Destroyed IBM",
-      "https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm"
-    ]
-  ],
-  [
-    [
       "2025-04-07, 21:03:16",
       "https://news.ycombinator.com/item?id=43615912"
     ],
@@ -247,6 +237,16 @@
     [
       "The Treachery of Image Files (2020)",
       "http://beyondloom.com/blog/images.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-06, 12:39:40",
+      "https://news.ycombinator.com/item?id=43601026"
+    ],
+    [
+      "The order of files in your ext4 filesystem does not matter",
+      "https://thewisenerd.com/blog/ext4-readdir/"
     ]
   ],
   [
