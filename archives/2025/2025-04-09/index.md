@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 15:41:38](https://news.ycombinator.com/item?id=43633383) - [Anthropic Education Report: How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
+* [2025-04-09, 15:34:27](https://news.ycombinator.com/item?id=43633298) - [Show HN: I built an app to generate story relationships using Mermaidjs](https://github.com/herol3oy/austen)
+* [2025-04-09, 15:33:53](https://news.ycombinator.com/item?id=43633288) - [AI coding mandates are driving developers to the brink](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink)
+* [2025-04-09, 15:31:16](https://news.ycombinator.com/item?id=43633256) - [Bundeswehr to remove all Microsoft software from its systems](https://www.itprotoday.com/software-development/german-military-to-replace-microsoft-software)
 * [2025-04-09, 14:53:01](https://news.ycombinator.com/item?id=43632831) - [Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity](https://productrank.ai/)
 * [2025-04-09, 14:25:08](https://news.ycombinator.com/item?id=43632516) - [Hidden social & emotional competencies in autism spectrum disorders:digital lens](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1559202/full)
 * [2025-04-09, 14:20:14](https://news.ycombinator.com/item?id=43632459) - [Small Town America vs. Big Box Stores](https://www.strongtowns.org/journal/2025/4/1/small-town-america-vs-big-box-stores)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
+* [2025-04-09, 14:04:17](https://news.ycombinator.com/item?id=43632278) - [Show HN: Fermi – A Wordle-style game for order-of-magnitude thinking](https://fermi-game.andrewnoble.me/)
 * [2025-04-09, 13:37:29](https://news.ycombinator.com/item?id=43631925) - [Ask HN: Are you interested in a text only browser that runs JavaScript?](https://news.ycombinator.com/item?id=43631925)
 * [2025-04-09, 13:30:30](https://news.ycombinator.com/item?id=43631854) - [EU member states agree first wave of retaliatory tariffs](https://www.euronews.com/my-europe/2025/04/09/eu-member-states-agree-first-wave-of-retaliatory-tariffs)
 * [2025-04-09, 13:27:30](https://news.ycombinator.com/item?id=43631822) - [SpacetimeDB](https://spacetimedb.com/)
