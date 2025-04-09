@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 13:10:44](https://news.ycombinator.com/item?id=43631656) - [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
+* [2025-04-09, 12:41:40](https://news.ycombinator.com/item?id=43631402) - [Tesla Solar Sales Declined for 4 Qtrs. Then Tesla Stopped Publishing the Numbers](https://cleantechnica.com/2025/04/07/tesla-solar-sales-declined-for-4-straight-quarters-then-tesla-stopped-publishing-the-numbers/)
+* [2025-04-09, 12:39:16](https://news.ycombinator.com/item?id=43631384) - [Fake job seekers are flooding US companies that are hiring for remote positions](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html)
+* [2025-04-09, 12:38:20](https://news.ycombinator.com/item?id=43631381) - [The Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 * [2025-04-09, 12:28:01](https://news.ycombinator.com/item?id=43631298) - [Treasury's OCC Says Hackers Had Access to 150k Emails](https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/)
 * [2025-04-09, 12:17:03](https://news.ycombinator.com/item?id=43631230) - [Whisky is no longer actively maintained](https://docs.getwhisky.app/maintenance-notice)
+* [2025-04-09, 12:01:24](https://news.ycombinator.com/item?id=43631147) - [Oil hits 4-year low, coffee falls as trade war escalates](https://www.reuters.com/markets/commodities/commodities-oil-suffers-biggest-5-day-drop-since-2022-metals-plunge-trade-war-2025-04-09/)
+* [2025-04-09, 11:26:02](https://news.ycombinator.com/item?id=43630957) - [CSS Naked Day](https://css-naked-day.org/)
+* [2025-04-09, 10:47:20](https://news.ycombinator.com/item?id=43630733) - [Show HN: I built a Yahoo Messenger-inspired web chat app – pure nostalgia](https://buzzed.chat)
 * [2025-04-09, 10:34:42](https://news.ycombinator.com/item?id=43630661) - [The guide to reduce screen time](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 * [2025-04-09, 08:01:38](https://news.ycombinator.com/item?id=43629887) - ['Sun-Like' Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
