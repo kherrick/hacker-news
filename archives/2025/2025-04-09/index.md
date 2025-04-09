@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 21:44:36](https://news.ycombinator.com/item?id=43638361) - [Show HN: Git Game Show – Multiplayer Game in Your Repo](https://justinpaulson.github.io/git_game_show/)
+* [2025-04-09, 21:40:23](https://news.ycombinator.com/item?id=43638323) - [\"It's not that bad\" they told me – Coreboot](https://lilysthings.org/blog/coreboot/)
 * [2025-04-09, 21:22:44](https://news.ycombinator.com/item?id=43638148) - [Bye bye 3 way handshake](https://billatnapier.medium.com/bye-bye-three-way-handshake-and-hello-to-0-rtt-d11d9c4f4fdf)
 * [2025-04-09, 20:51:35](https://news.ycombinator.com/item?id=43637819) - [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
 * [2025-04-09, 20:40:18](https://news.ycombinator.com/item?id=43637683) - [Dept of Homeland Security Says Social Media Will Be Screened for 'Antisemitism'](https://dashboard.stripe.com/login)
+* [2025-04-09, 20:34:49](https://news.ycombinator.com/item?id=43637622) - [Whistleblower tells senators that Meta undermined U.S. security, interests](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/)
 * [2025-04-09, 19:52:07](https://news.ycombinator.com/item?id=43636974) - [It's all fun and games until somebody loses their retirement savings](https://www.businesslawprofessors.com/2025/03/private-company-trading/)
 * [2025-04-09, 19:44:50](https://news.ycombinator.com/item?id=43636860) - [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
 * [2025-04-09, 19:37:31](https://news.ycombinator.com/item?id=43636757) - [The real effects of basic income](https://www.pilotprojekt-grundeinkommen.de/en)
@@ -15,6 +18,7 @@
 * [2025-04-09, 19:09:27](https://news.ycombinator.com/item?id=43636302) - [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission)
 * [2025-04-09, 19:04:12](https://news.ycombinator.com/item?id=43636230) - [Baking the Y Combinator from Scratch](https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/)
 * [2025-04-09, 18:43:09](https://news.ycombinator.com/item?id=43635855) - [Meta II (1963) a syntax-oriented compiler writing language](https://dl.acm.org/citation.cfm?doid=800257.808896)
+* [2025-04-09, 18:39:03](https://news.ycombinator.com/item?id=43635783) - [Firebase Studio](https://firebase.studio)
 * [2025-04-09, 18:19:13](https://news.ycombinator.com/item?id=43635460) - [MapStructur – Self-hosted map editor with draggable markers and Docker support](https://itfourall.com/mapstruct.php)
 * [2025-04-09, 18:07:24](https://news.ycombinator.com/item?id=43635296) - [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
