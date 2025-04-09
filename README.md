@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-09, 21:22:44](https://news.ycombinator.com/item?id=43638148) - [Bye bye 3 way handshake](https://billatnapier.medium.com/bye-bye-three-way-handshake-and-hello-to-0-rtt-d11d9c4f4fdf)
 * [2025-04-09, 20:51:35](https://news.ycombinator.com/item?id=43637819) - [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
 * [2025-04-09, 19:44:50](https://news.ycombinator.com/item?id=43636860) - [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
 * [2025-04-09, 19:37:31](https://news.ycombinator.com/item?id=43636757) - [Basic Income Pilot Project: Study results](https://www.pilotprojekt-grundeinkommen.de/en)
@@ -24,7 +25,6 @@
 * [2025-04-09, 12:38:20](https://news.ycombinator.com/item?id=43631381) - [The Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 * [2025-04-09, 12:24:19](https://news.ycombinator.com/item?id=43631274) - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
 * [2025-04-09, 12:20:06](https://news.ycombinator.com/item?id=43631251) - [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
-* [2025-04-09, 10:34:42](https://news.ycombinator.com/item?id=43630661) - [A guide to reduce screen time](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 * [2025-04-09, 08:58:12](https://news.ycombinator.com/item?id=43630208) - [Justice Dept. scales back crypto cases in line with Trump administration memo](https://www.washingtonpost.com/national-security/2025/04/08/trump-crypto-fraud-doj-enforcement)
 * [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best programmers I know](https://endler.dev/2025/best-programmers/)
