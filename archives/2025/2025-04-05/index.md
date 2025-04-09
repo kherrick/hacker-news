@@ -7,6 +7,7 @@
 * [2025-04-05, 23:48:21](https://news.ycombinator.com/item?id=43597790) - [Erica Synths DIY Eurorack Modules](https://github.com/erica-synths/diy-eurorack)
 * [2025-04-05, 23:46:19](https://news.ycombinator.com/item?id=43597778) - [Apple's Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-05, 22:45:03](https://news.ycombinator.com/item?id=43597425) - [The ADHD Body Double: A Unique Tool for Getting Things Done](https://add.org/the-body-double/)
+* [2025-04-05, 22:16:54](https://news.ycombinator.com/item?id=43597264) - [Linux Kernel Defence Map – Security Hardening Concepts](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 * [2025-04-05, 22:04:38](https://news.ycombinator.com/item?id=43597187) - [Setup QEMU Output to Serial Console and Automate Tests with Shell Scripts (2019)](https://fadeevab.com/how-to-setup-qemu-output-to-console-and-automate-using-shell-script/)
 * [2025-04-05, 21:15:00](https://news.ycombinator.com/item?id=43596864) - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [2025-04-05, 20:26:36](https://news.ycombinator.com/item?id=43596570) - [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
