@@ -26,7 +26,7 @@
 * [2025-04-06, 12:39:40](https://news.ycombinator.com/item?id=43601026) - [The order of files in your ext4 filesystem does not matter](https://thewisenerd.com/blog/ext4-readdir/)
 * [2025-04-05, 22:23:05](https://news.ycombinator.com/item?id=43597302) - [Deaf \"hearing\" companion- Alerts for people who can't hear sounds they should](https://apps.apple.com/us/app/taptic-d-deaf-support/id6478986437)
 * [2025-04-05, 22:16:54](https://news.ycombinator.com/item?id=43597264) - [Linux Kernel Defence Map – Security Hardening Concepts](https://github.com/a13xp0p0v/linux-kernel-defence-map)
-* [2025-04-05, 20:06:37](https://news.ycombinator.com/item?id=43596419) - [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust)
+* [2025-04-05, 20:06:37](https://news.ycombinator.com/item?id=43596419) - [A year of Rust in ClickHouse](https://clickhouse.com/blog/rust)
 * [2025-04-05, 17:47:10](https://news.ycombinator.com/item?id=43595193) - [A new way to make graphs more accessible to blind and low-vision readers](https://news.mit.edu/2025/making-graphs-more-accessible-blind-low-vision-readers-0325)
 * [2025-04-05, 15:08:28](https://news.ycombinator.com/item?id=43594059) - [DIY experimental reactor harnesses the Birkeland-Eyde process](https://blog.arduino.cc/2025/03/17/this-diy-experimental-reactor-harnesses-the-birkeland-eyde-process/)
 * [2025-04-05, 03:51:51](https://news.ycombinator.com/item?id=43590569) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
