@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-09, 07:32:44](https://news.ycombinator.com/item?id=43629732) - [Ask HN: Where do you reliably find worldwide remote jobs?](https://news.ycombinator.com/item?id=43629732)
+* [2025-04-09, 07:08:28](https://news.ycombinator.com/item?id=43629579) - [The New Legislators of Silicon Valley](https://www.theideasletter.org/essay/silicon-valleys-new-legislators/)
 * [2025-04-09, 06:30:21](https://news.ycombinator.com/item?id=43629442) - [Bond rout starting to sound market alarm bells](https://www.reuters.com/markets/global-markets-tariffs-bonds-2025-04-09/)
 * [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best programmers I know](https://endler.dev/2025/best-programmers/)
 * [2025-04-09, 03:00:01](https://news.ycombinator.com/item?id=43628500) - [NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
@@ -22,8 +24,6 @@
 * [2025-04-08, 10:36:07](https://news.ycombinator.com/item?id=43620141) - [Tailscale has raised $160M](https://tailscale.com/blog/series-c)
 * [2025-04-08, 09:23:18](https://news.ycombinator.com/item?id=43619768) - [Ask HN: Do you still use search engines?](https://news.ycombinator.com/item?id=43619768)
 * [2025-04-08, 09:22:23](https://news.ycombinator.com/item?id=43619759) - [An Overwhelmingly Negative and Demoralizing Force](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney)
-* [2025-04-08, 08:36:23](https://news.ycombinator.com/item?id=43619548) - [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/)
-* [2025-04-06, 20:21:04](https://news.ycombinator.com/item?id=43604640) - [CodeScientist: Automated scientific discovery system for code-based experiments](https://github.com/allenai/codescientist)
 * [2025-04-06, 12:39:40](https://news.ycombinator.com/item?id=43601026) - [The order of files in your ext4 filesystem does not matter](https://thewisenerd.com/blog/ext4-readdir/)
 * [2025-04-05, 22:16:54](https://news.ycombinator.com/item?id=43597264) - [Linux Kernel Defence Map – Security Hardening Concepts](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 * [2025-04-05, 20:06:37](https://news.ycombinator.com/item?id=43596419) - [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust)

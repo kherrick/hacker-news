@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 07:32:44](https://news.ycombinator.com/item?id=43629732) - [Ask HN: Where do you reliably find worldwide remote jobs?](https://news.ycombinator.com/item?id=43629732)
+* [2025-04-09, 07:08:28](https://news.ycombinator.com/item?id=43629579) - [The New Legislators of Silicon Valley](https://www.theideasletter.org/essay/silicon-valleys-new-legislators/)
 * [2025-04-09, 06:45:10](https://news.ycombinator.com/item?id=43629490) - [Toulouse University wants to host US researchers whose work is at risk](https://en.univ-toulouse.fr/news/toulouse-welcomes-us-researchers-facing-unprecedented-challenges)
 * [2025-04-09, 06:33:44](https://news.ycombinator.com/item?id=43629455) - [Domain Sniped on Launch Day](https://kill-saas.com/posts/domain-snipe)
 * [2025-04-09, 06:30:21](https://news.ycombinator.com/item?id=43629442) - [Bond rout starting to sound market alarm bells](https://www.reuters.com/markets/global-markets-tariffs-bonds-2025-04-09/)
