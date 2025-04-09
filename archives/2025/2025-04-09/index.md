@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 13:37:29](https://news.ycombinator.com/item?id=43631925) - [Ask HN: Are you interested in a text only browser that runs JavaScript?](https://news.ycombinator.com/item?id=43631925)
 * [2025-04-09, 13:30:30](https://news.ycombinator.com/item?id=43631854) - [EU member states agree first wave of retaliatory tariffs](https://www.euronews.com/my-europe/2025/04/09/eu-member-states-agree-first-wave-of-retaliatory-tariffs)
 * [2025-04-09, 13:11:50](https://news.ycombinator.com/item?id=43631672) - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 * [2025-04-09, 13:10:44](https://news.ycombinator.com/item?id=43631656) - [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
