@@ -17,6 +17,7 @@
 * [2025-04-05, 20:24:03](https://news.ycombinator.com/item?id=43596543) - [Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
 * [2025-04-05, 20:14:08](https://news.ycombinator.com/item?id=43596476) - [To Do Nothing](https://shilin.ca/to-do-nothing/)
 * [2025-04-05, 20:13:32](https://news.ycombinator.com/item?id=43596470) - [Llama 4 Now Live on Groq](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/)
+* [2025-04-05, 20:06:37](https://news.ycombinator.com/item?id=43596419) - [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust)
 * [2025-04-05, 19:25:24](https://news.ycombinator.com/item?id=43596133) - [Cardiac arrest deaths among marathoners have decreased, study finds](https://www.washingtonpost.com/health/2025/04/05/marathon-running-cardiac-arrest-cpr/)
 * [2025-04-05, 18:54:56](https://news.ycombinator.com/item?id=43595858) - [The Llama 4 Herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/?_fb_noscript=1)
 * [2025-04-05, 18:53:20](https://news.ycombinator.com/item?id=43595838) - [Trump Golf Track](https://trumpgolftrack.com/)
