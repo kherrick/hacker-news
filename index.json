@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-04-09, 19:44:50",
+      "https://news.ycombinator.com/item?id=43636860"
+    ],
+    [
+      "Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer",
+      "https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 19:37:31",
+      "https://news.ycombinator.com/item?id=43636757"
+    ],
+    [
+      "The real effects of basic income",
+      "https://www.pilotprojekt-grundeinkommen.de/en"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 19:26:22",
       "https://news.ycombinator.com/item?id=43636596"
     ],
     [
       "ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes",
       "https://arxiv.org/abs/2503.17486"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 19:24:40",
+      "https://news.ycombinator.com/item?id=43636568"
+    ],
+    [
+      "Show HN: Obelisk – a WASM-based deterministic workflow engine",
+      "https://obeli.sk/"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 19:09:27",
+      "https://news.ycombinator.com/item?id=43636302"
+    ],
+    [
+      "Antiviral chewing gum to reduce influenza and herpes simplex virus transmission",
+      "https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission"
     ]
   ],
   [
@@ -61,12 +101,12 @@
   ],
   [
     [
-      "2025-04-09, 17:04:53",
-      "https://news.ycombinator.com/item?id=43634517"
+      "2025-04-09, 16:31:06",
+      "https://news.ycombinator.com/item?id=43634005"
     ],
     [
-      "Ask HN: Why is uptalk intonation so prevalent in ChatGPT voices?",
-      "https://news.ycombinator.com/item?id=43634517"
+      "Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows",
+      "https://withaqua.com"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2025-04-09, 13:11:50",
-      "https://news.ycombinator.com/item?id=43631672"
-    ],
-    [
-      "Man pages are great, man readers are the problem",
-      "https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 13:10:44",
       "https://news.ycombinator.com/item?id=43631656"
     ],
@@ -167,16 +197,6 @@
     [
       "How much do you think it costs to make a pair of Nike shoes in Asia?",
       "https://threadreaderapp.com/thread/1909741170953273353.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 12:39:16",
-      "https://news.ycombinator.com/item?id=43631384"
-    ],
-    [
-      "Fake job seekers are flooding US companies that are hiring for remote positions",
-      "https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-04-09, 08:01:38",
-      "https://news.ycombinator.com/item?id=43629887"
-    ],
-    [
-      "'Sun-Like' Stars",
-      "https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 06:02:01",
       "https://news.ycombinator.com/item?id=43629307"
     ],
@@ -287,16 +297,6 @@
     [
       "Gaussian Splatting Alternative: WebGL Implementation of Nvidia's SVRaster",
       "https://github.com/samuelm2/svraster-webgl"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 16:23:53",
-      "https://news.ycombinator.com/item?id=43602652"
-    ],
-    [
-      "Microphone Input Noise Comparison",
-      "https://avisoft.com/recorder-tests/"
     ]
   ]
 ]
