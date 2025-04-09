@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-09, 21:54:42",
-      "https://news.ycombinator.com/item?id=43638441"
-    ],
-    [
-      "Run RISC-V Binaries on AMD Zen-Series CPUs via Microcode Modification",
-      "https://rvspoc.org/en/S2502/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 21:53:05",
       "https://news.ycombinator.com/item?id=43638422"
     ],
@@ -27,26 +17,6 @@
     [
       "Show HN: Git Game Show – Multiplayer Game in Your Repo",
       "https://justinpaulson.github.io/git_game_show/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 21:40:23",
-      "https://news.ycombinator.com/item?id=43638323"
-    ],
-    [
-      "\"It's not that bad\" they told me – Coreboot",
-      "https://lilysthings.org/blog/coreboot/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 21:22:44",
-      "https://news.ycombinator.com/item?id=43638148"
-    ],
-    [
-      "Bye bye 3 way handshake",
-      "https://billatnapier.medium.com/bye-bye-three-way-handshake-and-hello-to-0-rtt-d11d9c4f4fdf"
     ]
   ],
   [
@@ -131,6 +101,16 @@
   ],
   [
     [
+      "2025-04-09, 18:43:09",
+      "https://news.ycombinator.com/item?id=43635855"
+    ],
+    [
+      "Meta II a syntax-oriented compiler writing language (1964)",
+      "https://dl.acm.org/citation.cfm?doid=800257.808896"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 18:39:03",
       "https://news.ycombinator.com/item?id=43635783"
     ],
@@ -147,6 +127,16 @@
     [
       "GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better",
       "https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 17:28:55",
+      "https://news.ycombinator.com/item?id=43634806"
+    ],
+    [
+      "Trump temporarily drops tariffs to 10% for most countries",
+      "https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Hardening the Firefox Front End with Content Security Policies",
       "https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 22:40:05",
+      "https://news.ycombinator.com/item?id=43616711"
+    ],
+    [
+      "Gaussian Splatting Alternative: WebGL Implementation of Nvidia's SVRaster",
+      "https://github.com/samuelm2/svraster-webgl"
     ]
   ],
   [
