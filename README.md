@@ -15,6 +15,7 @@
 * [2025-04-09, 19:04:12](https://news.ycombinator.com/item?id=43636230) - [Baking the Y Combinator from Scratch](https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/)
 * [2025-04-09, 18:39:03](https://news.ycombinator.com/item?id=43635783) - [Firebase Studio](https://firebase.studio)
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
+* [2025-04-09, 17:28:55](https://news.ycombinator.com/item?id=43634806) - [Trump temporarily drops tariffs to 10% for most countries](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html)
 * [2025-04-09, 16:31:06](https://news.ycombinator.com/item?id=43634005) - [Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows](https://withaqua.com)
 * [2025-04-09, 15:58:30](https://news.ycombinator.com/item?id=43633568) - [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
 * [2025-04-09, 15:41:38](https://news.ycombinator.com/item?id=43633383) - [How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
@@ -28,7 +29,6 @@
 * [2025-04-09, 12:24:19](https://news.ycombinator.com/item?id=43631274) - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
 * [2025-04-09, 12:20:06](https://news.ycombinator.com/item?id=43631251) - [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
-* [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best programmers I know](https://endler.dev/2025/best-programmers/)
 * [2025-04-07, 03:25:13](https://news.ycombinator.com/item?id=43607325) - [Nix Derivations, Without Guessing](https://bernsteinbear.com/blog/nix-by-hand/)
 
 ## [Archives](archives/index.md)
