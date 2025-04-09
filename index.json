@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-08, 22:46:30",
-      "https://news.ycombinator.com/item?id=43627219"
+      "2025-04-09, 00:00:15",
+      "https://news.ycombinator.com/item?id=43627646"
     ],
     [
-      "Fictitious Name Permit",
-      "https://www.mbc.ca.gov/Licensing/Fictitious-Name-Permit/"
+      "PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)",
+      "https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 23:07:14",
+      "https://news.ycombinator.com/item?id=43627354"
+    ],
+    [
+      "Deep Research is now available on Gemini 2.5 Pro Experimental",
+      "https://blog.google/products/gemini/deep-research-gemini-2-5-pro-experimental/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "How Netflix Accurately Attributes eBPF Flow Logs",
       "https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 17:35:51",
-      "https://news.ycombinator.com/item?id=43624358"
-    ],
-    [
-      "Show HN: A website/app to help manage your game library",
-      "https://gamenode.app"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-04-05, 15:42:33",
+      "https://news.ycombinator.com/item?id=43594311"
+    ],
+    [
+      "AI hasn't killed radiology, but it is changing it",
+      "https://www.washingtonpost.com/health/2025/04/05/ai-machine-learning-radiology-software/"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 14:07:47",
       "https://news.ycombinator.com/item?id=43593651"
     ],
@@ -277,16 +287,6 @@
     [
       "What a refugee camp reveals about economics",
       "https://www.economist.com/finance-and-economics/2025/04/03/what-a-refugee-camp-reveals-about-economics"
-    ]
-  ],
-  [
-    [
-      "2025-04-04, 23:17:25",
-      "https://news.ycombinator.com/item?id=43588742"
-    ],
-    [
-      "Using Token Sequences to Iterate Ranges",
-      "https://brevzin.github.io/c++/2025/04/03/token-sequence-for/"
     ]
   ],
   [
