@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-04-08, 15:43:14",
-      "https://news.ycombinator.com/item?id=43623099"
-    ],
-    [
-      "Show HN: HNSW index for vector embeddings in approx 500 LOC",
-      "https://github.com/dicroce/hnsw"
-    ]
-  ],
-  [
-    [
       "2025-04-08, 15:11:26",
       "https://news.ycombinator.com/item?id=43622719"
     ],
@@ -247,6 +237,16 @@
     [
       "Linux Kernel Defence Map – Security Hardening Concepts",
       "https://github.com/a13xp0p0v/linux-kernel-defence-map"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 20:06:37",
+      "https://news.ycombinator.com/item?id=43596419"
+    ],
+    [
+      "A Year of Rust in ClickHouse",
+      "https://clickhouse.com/blog/rust"
     ]
   ],
   [
