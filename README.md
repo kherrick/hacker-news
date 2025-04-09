@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-09, 19:26:22](https://news.ycombinator.com/item?id=43636596) - [ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes](https://arxiv.org/abs/2503.17486)
+* [2025-04-09, 18:43:09](https://news.ycombinator.com/item?id=43635855) - [Meta II (1963) a syntax-oriented compiler writing language](https://dl.acm.org/citation.cfm?doid=800257.808896)
 * [2025-04-09, 18:07:24](https://news.ycombinator.com/item?id=43635296) - [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
 * [2025-04-09, 17:28:55](https://news.ycombinator.com/item?id=43634806) - [Trump temporarily drops tariffs to 10% for most countries](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html)
@@ -8,7 +9,6 @@
 * [2025-04-09, 17:04:53](https://news.ycombinator.com/item?id=43634517) - [Ask HN: Why is uptalk intonation so prevalent in ChatGPT voices?](https://news.ycombinator.com/item?id=43634517)
 * [2025-04-09, 15:58:30](https://news.ycombinator.com/item?id=43633568) - [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
 * [2025-04-09, 15:48:50](https://news.ycombinator.com/item?id=43633457) - [Doing the Prospero-Challenge in RPython](https://pypy.org/posts/2025/04/prospero-in-rpython.html)
-* [2025-04-09, 15:41:38](https://news.ycombinator.com/item?id=43633383) - [How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
 * [2025-04-09, 15:34:27](https://news.ycombinator.com/item?id=43633298) - [Show HN: I built an app to generate story relationships using Mermaidjs](https://github.com/herol3oy/austen)
 * [2025-04-09, 15:07:53](https://news.ycombinator.com/item?id=43633005) - [Rolex Caliber 7135: new indirect impulse escapement and high frequency movement](https://www.hodinkee.com/articles/introducing-rolex-land-dweller)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)

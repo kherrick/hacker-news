@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
 * [2025-04-09, 19:26:22](https://news.ycombinator.com/item?id=43636596) - [ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes](https://arxiv.org/abs/2503.17486)
+* [2025-04-09, 18:43:09](https://news.ycombinator.com/item?id=43635855) - [Meta II (1963) a syntax-oriented compiler writing language](https://dl.acm.org/citation.cfm?doid=800257.808896)
 * [2025-04-09, 18:19:13](https://news.ycombinator.com/item?id=43635460) - [MapStructur – Self-hosted map editor with draggable markers and Docker support](https://itfourall.com/mapstruct.php)
 * [2025-04-09, 18:07:24](https://news.ycombinator.com/item?id=43635296) - [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
