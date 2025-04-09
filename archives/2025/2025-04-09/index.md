@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 14:25:08](https://news.ycombinator.com/item?id=43632516) - [Hidden social & emotional competencies in autism spectrum disorders:digital lens](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1559202/full)
+* [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
 * [2025-04-09, 13:37:29](https://news.ycombinator.com/item?id=43631925) - [Ask HN: Are you interested in a text only browser that runs JavaScript?](https://news.ycombinator.com/item?id=43631925)
 * [2025-04-09, 13:30:30](https://news.ycombinator.com/item?id=43631854) - [EU member states agree first wave of retaliatory tariffs](https://www.euronews.com/my-europe/2025/04/09/eu-member-states-agree-first-wave-of-retaliatory-tariffs)
 * [2025-04-09, 13:24:51](https://news.ycombinator.com/item?id=43631793) - [Show HN: Dynomate– Fast, Git-Friendly DynamoDB GUI Client (Dynobase Alternative)](https://dynomate.io/)
@@ -16,6 +18,7 @@
 * [2025-04-09, 12:39:16](https://news.ycombinator.com/item?id=43631384) - [Fake job seekers are flooding US companies that are hiring for remote positions](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html)
 * [2025-04-09, 12:38:20](https://news.ycombinator.com/item?id=43631381) - [The Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 * [2025-04-09, 12:28:01](https://news.ycombinator.com/item?id=43631298) - [Treasury's OCC Says Hackers Had Access to 150k Emails](https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/)
+* [2025-04-09, 12:24:36](https://news.ycombinator.com/item?id=43631276) - [American Disruption](https://stratechery.com/2025/american-disruption/)
 * [2025-04-09, 12:24:19](https://news.ycombinator.com/item?id=43631274) - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
 * [2025-04-09, 12:17:03](https://news.ycombinator.com/item?id=43631230) - [Whisky is no longer actively maintained](https://docs.getwhisky.app/maintenance-notice)
 * [2025-04-09, 12:01:24](https://news.ycombinator.com/item?id=43631147) - [Oil hits 4-year low, coffee falls as trade war escalates](https://www.reuters.com/markets/commodities/commodities-oil-suffers-biggest-5-day-drop-since-2022-metals-plunge-trade-war-2025-04-09/)
@@ -23,6 +26,7 @@
 * [2025-04-09, 11:26:02](https://news.ycombinator.com/item?id=43630957) - [CSS Naked Day](https://css-naked-day.org/)
 * [2025-04-09, 10:47:20](https://news.ycombinator.com/item?id=43630733) - [Show HN: I built a Yahoo Messenger-inspired web chat app – pure nostalgia](https://buzzed.chat)
 * [2025-04-09, 10:34:42](https://news.ycombinator.com/item?id=43630661) - [The guide to reduce screen time](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/)
+* [2025-04-09, 10:27:36](https://news.ycombinator.com/item?id=43630624) - [How to lock down your phone if you're traveling to the U.S.](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 * [2025-04-09, 08:01:38](https://news.ycombinator.com/item?id=43629887) - ['Sun-Like' Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
 * [2025-04-09, 07:32:44](https://news.ycombinator.com/item?id=43629732) - [Ask HN: Where do you reliably find worldwide remote jobs?](https://news.ycombinator.com/item?id=43629732)
