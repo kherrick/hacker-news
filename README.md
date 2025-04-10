@@ -2,7 +2,6 @@
 
 * [2025-04-10, 03:55:07](https://news.ycombinator.com/item?id=43640480) - [Design System Options for Rails](https://businessclasskit.com/blog/design-system-options-for-rails)
 * [2025-04-10, 03:41:49](https://news.ycombinator.com/item?id=43640403) - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
-* [2025-04-10, 03:14:19](https://news.ycombinator.com/item?id=43640267) - [NIH freezes all research grants to Columbia University](https://www.science.org/content/article/nih-freezes-all-research-grants-columbia-university)
 * [2025-04-10, 02:48:08](https://news.ycombinator.com/item?id=43640166) - [Evidence suggesting Quasar Alpha is OpenAI's new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
 * [2025-04-10, 02:38:42](https://news.ycombinator.com/item?id=43640115) - [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
 * [2025-04-10, 01:51:24](https://news.ycombinator.com/item?id=43639871) - [No Pay, No Work; Early Career Lessons](https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/)
@@ -11,6 +10,7 @@
 * [2025-04-10, 00:00:34](https://news.ycombinator.com/item?id=43639280) - [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
 * [2025-04-09, 23:47:45](https://news.ycombinator.com/item?id=43639202) - [The Consequences of Limiting the Tax Deductibility of R&D](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998845)
 * [2025-04-09, 21:53:05](https://news.ycombinator.com/item?id=43638422) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
+* [2025-04-09, 20:34:49](https://news.ycombinator.com/item?id=43637622) - [Whistleblower tells senators that Meta undermined U.S. security, interests](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/)
 * [2025-04-09, 19:24:40](https://news.ycombinator.com/item?id=43636568) - [Show HN: Obelisk – a WASM-based deterministic workflow engine](https://obeli.sk/)
 * [2025-04-09, 19:09:27](https://news.ycombinator.com/item?id=43636302) - [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission)
 * [2025-04-09, 19:04:12](https://news.ycombinator.com/item?id=43636230) - [Baking the Y Combinator from Scratch](https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/)
@@ -28,8 +28,8 @@
 * [2025-04-09, 12:20:06](https://news.ycombinator.com/item?id=43631251) - [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
 * [2025-04-07, 20:51:02](https://news.ycombinator.com/item?id=43615805) - [Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)
 * [2025-04-07, 03:25:13](https://news.ycombinator.com/item?id=43607325) - [Nix Derivations, Without Guessing](https://bernsteinbear.com/blog/nix-by-hand/)
-* [2025-04-07, 00:02:54](https://news.ycombinator.com/item?id=43606126) - [Astrophotographers Help Scientists Solve Mystery of 'Sprite Fireworks'](https://petapixel.com/2025/04/01/astrophotographers-help-scientists-solve-mystery-of-sprite-fireworks/)
 * [2025-04-06, 21:00:14](https://news.ycombinator.com/item?id=43604921) - [Applying Pandas' Group_by on Videos](https://mixpeek.com/blog/turning-frames-into-dataframes)
+* [2025-04-06, 13:25:14](https://news.ycombinator.com/item?id=43601282) - [Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities](https://worldhistory.substack.com/p/how-strange-mens-weird-collections)
 
 ## [Archives](archives/index.md)
 
