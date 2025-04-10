@@ -6,6 +6,7 @@
 
 * [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 * [2025-04-10, 07:00:35](https://news.ycombinator.com/item?id=43641407) - [Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)](http://hi.telli.com/eng)
+* [2025-04-10, 06:59:55](https://news.ycombinator.com/item?id=43641402) - [ICE director envisions Amazon-like mass deportation system](https://azmirror.com/2025/04/08/ice-director-envisions-amazon-like-mass-deportation-system-prime-but-with-human-beings/)
 * [2025-04-10, 06:56:33](https://news.ycombinator.com/item?id=43641381) - [LLM Benchmark for 'Longform Creative Writing'](https://eqbench.com/creative_writing_longform.html)
 * [2025-04-10, 06:54:09](https://news.ycombinator.com/item?id=43641365) - [Trump only simulates madness [Stock Insider Trading]](https://robertreich.substack.com/p/trump-only-simulates-madness)
 * [2025-04-10, 06:42:42](https://news.ycombinator.com/item?id=43641300) - [France's new high-speed train has Americans asking: Why can't we have that?](https://grist.org/looking-forward/frances-new-high-speed-train-design-has-americans-asking-why-cant-we-have-that/)

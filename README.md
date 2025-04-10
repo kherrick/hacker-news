@@ -2,6 +2,7 @@
 
 * [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 * [2025-04-10, 07:00:35](https://news.ycombinator.com/item?id=43641407) - [Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)](http://hi.telli.com/eng)
+* [2025-04-10, 06:59:55](https://news.ycombinator.com/item?id=43641402) - [ICE director envisions Amazon-like mass deportation system](https://azmirror.com/2025/04/08/ice-director-envisions-amazon-like-mass-deportation-system-prime-but-with-human-beings/)
 * [2025-04-10, 06:56:33](https://news.ycombinator.com/item?id=43641381) - [LLM Benchmark for 'Longform Creative Writing'](https://eqbench.com/creative_writing_longform.html)
 * [2025-04-10, 06:42:42](https://news.ycombinator.com/item?id=43641300) - [France's new high-speed train has Americans asking: Why can't we have that?](https://grist.org/looking-forward/frances-new-high-speed-train-design-has-americans-asking-why-cant-we-have-that/)
 * [2025-04-10, 06:33:16](https://news.ycombinator.com/item?id=43641255) - [MusiCoT, a chain-of-thought (CoT) prompting technique for music generation [pdf]](https://musicot.github.io/MusiCoT_paper.pdf)
@@ -20,7 +21,6 @@
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
 * [2025-04-09, 16:31:06](https://news.ycombinator.com/item?id=43634005) - [Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows](https://withaqua.com)
 * [2025-04-09, 15:41:38](https://news.ycombinator.com/item?id=43633383) - [How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
-* [2025-04-09, 14:53:01](https://news.ycombinator.com/item?id=43632831) - [Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity](https://productrank.ai/)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
 * [2025-04-09, 13:27:30](https://news.ycombinator.com/item?id=43631822) - [SpacetimeDB](https://spacetimedb.com/)
 * [2025-04-09, 13:10:44](https://news.ycombinator.com/item?id=43631656) - [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
