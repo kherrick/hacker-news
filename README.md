@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-10, 20:24:01](https://news.ycombinator.com/item?id=43647716) - [PEP 750 – Template Strings has been accepted](https://peps.python.org/pep-0750/)
+* [2025-04-10, 20:37:21](https://news.ycombinator.com/item?id=43647812) - [Attorney representing a student protester detained by federal immigration agents](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/)
+* [2025-04-10, 20:24:01](https://news.ycombinator.com/item?id=43647716) - [PEP 750 – Template Strings (t-strings) have been accepted](https://peps.python.org/pep-0750/)
 * [2025-04-10, 20:09:23](https://news.ycombinator.com/item?id=43647598) - [What if your website had business hours? (2022)](https://bobbiechen.com/blog/2022/7/21/what-if-your-website-had-business-hours)
 * [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [2025-04-10, 19:24:25](https://news.ycombinator.com/item?id=43647237) - [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
-* [2025-04-10, 18:43:56](https://news.ycombinator.com/item?id=43646920) - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
 * [2025-04-10, 18:21:45](https://news.ycombinator.com/item?id=43646698) - [Demystifying the (Shebang): Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
 * [2025-04-10, 18:11:34](https://news.ycombinator.com/item?id=43646601) - [Suffering-Oriented Programming (2012)](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 * [2025-04-10, 17:58:02](https://news.ycombinator.com/item?id=43646466) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
