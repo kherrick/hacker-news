@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:16:37](https://news.ycombinator.com/item?id=43644714) - [Universal photonic artificial intelligence acceleration](https://www.nature.com/articles/s41586-025-08854-x)
 * [2025-04-10, 14:30:54](https://news.ycombinator.com/item?id=43644179) - [Isaac Asimov Describes How AI Will Liberate Humans and Their Creativity (1992)](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html)
 * [2025-04-10, 14:30:22](https://news.ycombinator.com/item?id=43644173) - [Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees](https://blog.cloudflare.com/r2-data-catalog-public-beta/)
@@ -33,6 +34,7 @@
 * [2025-04-10, 11:30:07](https://news.ycombinator.com/item?id=43642802) - [We've Been Conned: The Truth about Big LLM](https://www.dolthub.com/blog/2025-04-09-weve-been-conned-the-truth-about-llms/)
 * [2025-04-10, 09:52:48](https://news.ycombinator.com/item?id=43642351) - [Linux on Samsung Chromebook Plus (Kevin) with Rockchip RK3399 ARM SoC (2024)](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
 * [2025-04-10, 09:09:03](https://news.ycombinator.com/item?id=43642123) - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
+* [2025-04-10, 07:33:54](https://news.ycombinator.com/item?id=43641576) - [Show HN: Pledge – A Lightweight Reactive Framework for Swift (No Rx Overhead)](https://github.com/gokulnair2001/Pledge)
 * [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 * [2025-04-10, 07:00:35](https://news.ycombinator.com/item?id=43641407) - [Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)](http://hi.telli.com/eng)
 * [2025-04-10, 06:59:55](https://news.ycombinator.com/item?id=43641402) - [ICE director envisions Amazon-like mass deportation system](https://azmirror.com/2025/04/08/ice-director-envisions-amazon-like-mass-deportation-system-prime-but-with-human-beings/)
