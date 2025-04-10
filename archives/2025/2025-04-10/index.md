@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 12:48:16](https://news.ycombinator.com/item?id=43643243) - [America Is Backsliding Toward Its Most Polluted Era](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/)
+* [2025-04-10, 12:39:34](https://news.ycombinator.com/item?id=43643197) - [The Curious Case of Jupiter Ace](https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace)
+* [2025-04-10, 12:23:17](https://news.ycombinator.com/item?id=43643104) - [EGPU: Extending eBPF Programmability and Observability to GPUs](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HCDS25/10/13a8f7c0-0a7e-11f0-ada9-16bb50361d1f/OUT/hcds25-10.html)
 * [2025-04-10, 12:10:29](https://news.ycombinator.com/item?id=43643028) - [Are .NET 4.x and JDK 8.x the \"zombie\" runtimes of enterprise software?](https://news.ycombinator.com/item?id=43643028)
 * [2025-04-10, 11:30:07](https://news.ycombinator.com/item?id=43642802) - [We've Been Conned: The Truth about Big LLM](https://www.dolthub.com/blog/2025-04-09-weve-been-conned-the-truth-about-llms/)
 * [2025-04-10, 09:52:48](https://news.ycombinator.com/item?id=43642351) - [Linux on Samsung Chromebook Plus (Kevin) with Rockchip RK3399 ARM SoC (2024)](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
