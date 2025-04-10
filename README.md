@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [2025-04-10, 19:24:25](https://news.ycombinator.com/item?id=43647237) - [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
 * [2025-04-10, 18:43:56](https://news.ycombinator.com/item?id=43646920) - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
 * [2025-04-10, 18:21:45](https://news.ycombinator.com/item?id=43646698) - [Demystifying the (Shebang): Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
@@ -21,7 +22,6 @@
 * [2025-04-10, 12:53:56](https://news.ycombinator.com/item?id=43643292) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-10, 12:39:34](https://news.ycombinator.com/item?id=43643197) - [The Curious Case of Jupiter Ace](https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace)
 * [2025-04-10, 09:09:03](https://news.ycombinator.com/item?id=43642123) - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
-* [2025-04-10, 07:33:54](https://news.ycombinator.com/item?id=43641576) - [Show HN: Pledge – A Lightweight Reactive Framework for Swift (No Rx Overhead)](https://github.com/gokulnair2001/Pledge)
 * [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Colossus for Rapid Storage](https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage)
 * [2025-04-08, 09:43:11](https://news.ycombinator.com/item?id=43619884) - [smartfunc: Turn Docstrings into LLM-Functions](https://github.com/koaning/smartfunc)
