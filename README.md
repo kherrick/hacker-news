@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-10, 12:10:29](https://news.ycombinator.com/item?id=43643028) - [Are .NET 4.x and JDK 8.x the \"zombie\" runtimes of enterprise software?](https://news.ycombinator.com/item?id=43643028)
 * [2025-04-10, 09:52:48](https://news.ycombinator.com/item?id=43642351) - [Linux on Samsung Chromebook Plus (Kevin) with Rockchip RK3399 ARM SoC (2024)](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
 * [2025-04-10, 09:09:03](https://news.ycombinator.com/item?id=43642123) - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
 * [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
@@ -10,8 +11,8 @@
 * [2025-04-10, 03:41:49](https://news.ycombinator.com/item?id=43640403) - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
 * [2025-04-10, 02:38:42](https://news.ycombinator.com/item?id=43640115) - [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
-* [2025-04-09, 21:53:05](https://news.ycombinator.com/item?id=43638422) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-09, 19:24:40](https://news.ycombinator.com/item?id=43636568) - [Show HN: Obelisk – a WASM-based deterministic workflow engine](https://obeli.sk/)
+* [2025-04-09, 19:04:12](https://news.ycombinator.com/item?id=43636230) - [Baking the Y Combinator from Scratch](https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/)
 * [2025-04-09, 18:39:03](https://news.ycombinator.com/item?id=43635783) - [Firebase Studio](https://firebase.studio)
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
 * [2025-04-09, 16:31:06](https://news.ycombinator.com/item?id=43634005) - [Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows](https://withaqua.com)
@@ -23,13 +24,12 @@
 * [2025-04-09, 12:58:39](https://news.ycombinator.com/item?id=43631543) - [How much do you think it costs to make a pair of Nike shoes in Asia?](https://twitter.com/dieworkwear/status/1909741170953273353)
 * [2025-04-09, 12:24:19](https://news.ycombinator.com/item?id=43631274) - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
 * [2025-04-09, 12:20:06](https://news.ycombinator.com/item?id=43631251) - [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
+* [2025-04-09, 00:55:31](https://news.ycombinator.com/item?id=43627917) - [Cells are swapping their mitochondria. What does this mean for our health?](https://www.nature.com/articles/d41586-025-01064-5)
 * [2025-04-08, 08:10:06](https://news.ycombinator.com/item?id=43619437) - [Native frame transposition coming to Emacs 31](https://p.bauherren.ovh/blog/tech/new_window_cmds)
-* [2025-04-07, 23:36:24](https://news.ycombinator.com/item?id=43617022) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
 * [2025-04-07, 21:54:07](https://news.ycombinator.com/item?id=43616356) - [Like cursor, but for blogging: a weekend project](https://www.maximepeabody.com/blog/ai-tools-for-writing-blog-posts)
 * [2025-04-07, 20:51:02](https://news.ycombinator.com/item?id=43615805) - [Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)
 * [2025-04-07, 03:25:13](https://news.ycombinator.com/item?id=43607325) - [Nix Derivations, Without Guessing](https://bernsteinbear.com/blog/nix-by-hand/)
 * [2025-04-06, 13:40:56](https://news.ycombinator.com/item?id=43601356) - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
-* [2025-04-06, 13:25:14](https://news.ycombinator.com/item?id=43601282) - [Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities](https://worldhistory.substack.com/p/how-strange-mens-weird-collections)
 
 ## [Archives](archives/index.md)
 

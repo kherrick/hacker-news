@@ -88,6 +88,7 @@
 * [2025-04-09, 03:00:01](https://news.ycombinator.com/item?id=43628500) - [NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
 * [2025-04-09, 01:21:22](https://news.ycombinator.com/item?id=43628037) - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
 * [2025-04-09, 01:20:13](https://news.ycombinator.com/item?id=43628028) - [NNN: Next-Generation Neural Networks for Marketing Mix Modeling](https://arxiv.org/abs/2504.06212)
+* [2025-04-09, 00:55:31](https://news.ycombinator.com/item?id=43627917) - [Cells are swapping their mitochondria. What does this mean for our health?](https://www.nature.com/articles/d41586-025-01064-5)
 * [2025-04-09, 00:46:28](https://news.ycombinator.com/item?id=43627877) - [Who isn't a big fan of \"impartial\" news? People who don't have power](https://www.niemanlab.org/2025/04/which-types-of-people-arent-big-fans-of-impartial-news-people-who-dont-have-power/)
 * [2025-04-09, 00:44:22](https://news.ycombinator.com/item?id=43627864) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 * [2025-04-09, 00:20:18](https://news.ycombinator.com/item?id=43627758) - [Show HN: DrawDB – open-source online database diagram editor (a retro)](https://www.drawdb.app/)
