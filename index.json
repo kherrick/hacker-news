@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-10, 17:21:03",
+      "https://news.ycombinator.com/item?id=43646095"
+    ],
+    [
+      "Garfield Minus Garfield",
+      "https://garfieldminusgarfield.net"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 17:01:11",
       "https://news.ycombinator.com/item?id=43645901"
     ],
     [
       "Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI",
       "https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 16:09:12",
+      "https://news.ycombinator.com/item?id=43645331"
+    ],
+    [
+      "Blue Shield Data Breach (Google Ads)",
+      "https://news.blueshieldca.com/notice-of-data-breach"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-04-10, 03:55:07",
-      "https://news.ycombinator.com/item?id=43640480"
-    ],
-    [
-      "Design System Options for Rails",
-      "https://businessclasskit.com/blog/design-system-options-for-rails"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 03:41:49",
       "https://news.ycombinator.com/item?id=43640403"
     ],
@@ -195,28 +205,8 @@
       "https://news.ycombinator.com/item?id=43639642"
     ],
     [
-      "Google Cloud Rapid Storage",
-      "https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 18:39:03",
-      "https://news.ycombinator.com/item?id=43635783"
-    ],
-    [
-      "Firebase Studio",
-      "https://firebase.studio"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 18:07:14",
-      "https://news.ycombinator.com/item?id=43635295"
-    ],
-    [
-      "GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better",
-      "https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/"
+      "Colossus for Rapid Storage",
+      "https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "We Designed TigerBeetle's Docs from Scratch",
       "https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 06:27:03",
+      "https://news.ycombinator.com/item?id=43608422"
+    ],
+    [
+      "The Difference Between Municipal Fire Trucks and Airport Fire Trucks",
+      "https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks"
     ]
   ]
 ]
