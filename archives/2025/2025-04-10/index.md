@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 23:05:43](https://news.ycombinator.com/item?id=43648795) - [We quit our Big Tech jobs after hitting #1 on HN and Product Hunt](https://www.heyopenspot.com/)
 * [2025-04-10, 22:23:48](https://news.ycombinator.com/item?id=43648593) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-10, 22:17:43](https://news.ycombinator.com/item?id=43648559) - [The Russian Paradox: So Much Education, So Little Human Capital](https://theamericanenterprise.com/the-russian-paradox-so-much-education-so-little-human-capital/)
+* [2025-04-10, 22:11:53](https://news.ycombinator.com/item?id=43648526) - [this site uses cookies to store the fact you clicked \"Accept Cookies\"](https://rodyne.com/?p=2368)
 * [2025-04-10, 21:24:28](https://news.ycombinator.com/item?id=43648145) - [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [So, I Wrote a Book: The Story Behind \"100 Go Mistakes and How to Avoid Them\"](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-10, 20:37:21](https://news.ycombinator.com/item?id=43647812) - [Attorney representing a student protester detained by federal immigration agents](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/)
