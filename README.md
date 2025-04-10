@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-10, 19:24:25](https://news.ycombinator.com/item?id=43647237) - [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
+* [2025-04-10, 18:43:56](https://news.ycombinator.com/item?id=43646920) - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
 * [2025-04-10, 18:21:45](https://news.ycombinator.com/item?id=43646698) - [Demystifying the (Shebang): Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
 * [2025-04-10, 18:11:34](https://news.ycombinator.com/item?id=43646601) - [Suffering-Oriented Programming (2012)](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 * [2025-04-10, 17:58:02](https://news.ycombinator.com/item?id=43646466) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
@@ -15,8 +17,6 @@
 * [2025-04-10, 14:12:44](https://news.ycombinator.com/item?id=43643968) - [Arroyo (YC W23) has been acquired by Cloudflare](https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare)
 * [2025-04-10, 14:03:54](https://news.ycombinator.com/item?id=43643886) - [Usability Improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
 * [2025-04-10, 13:23:58](https://news.ycombinator.com/item?id=43643534) - [Busy Bar](https://busy.bar)
-* [2025-04-10, 13:13:34](https://news.ycombinator.com/item?id=43643441) - [TVMC: Time-Varying Mesh Compression](https://github.com/SINRG-Lab/TVMC)
-* [2025-04-10, 13:07:08](https://news.ycombinator.com/item?id=43643390) - [Sleep is essential – researchers are trying to work out why](https://www.nature.com/articles/d41586-025-00964-w)
 * [2025-04-10, 12:59:54](https://news.ycombinator.com/item?id=43643343) - [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/)
 * [2025-04-10, 12:53:56](https://news.ycombinator.com/item?id=43643292) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-10, 12:39:34](https://news.ycombinator.com/item?id=43643197) - [The Curious Case of Jupiter Ace](https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace)
