@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-04-10, 03:41:49",
-      "https://news.ycombinator.com/item?id=43640403"
-    ],
-    [
-      "Learning to Program with Haiku",
-      "https://www.haiku-os.org/development/learning_to_program_with_haiku"
-    ]
-  ],
-  [
-    [
       "2025-04-08, 09:43:11",
       "https://news.ycombinator.com/item?id=43619884"
     ],
@@ -277,6 +267,16 @@
     [
       "A surprising enum size optimization in the Rust compiler",
       "https://jpfennell.com/posts/enum-type-size/"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 16:53:08",
+      "https://news.ycombinator.com/item?id=43613463"
+    ],
+    [
+      "Gemini Live with camera and screen sharing capabilities",
+      "https://blog.google/products/gemini/gemini-live-android-tips/"
     ]
   ],
   [
