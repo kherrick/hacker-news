@@ -58,6 +58,7 @@
 * [2025-04-07, 10:09:17](https://news.ycombinator.com/item?id=43609661) - [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back)
 * [2025-04-07, 10:08:50](https://news.ycombinator.com/item?id=43609658) - [Bluesky's Quest to Build Nontoxic Social Media](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media)
 * [2025-04-07, 09:52:22](https://news.ycombinator.com/item?id=43609578) - [Classic HN: ITAPPMONROBOT](https://thedailywtf.com/articles/ITAPPMONROBOT)
+* [2025-04-07, 09:27:44](https://news.ycombinator.com/item?id=43609468) - [Your Mouse Is a Database (2012)](https://queue.acm.org/detail.cfm?id=2169076)
 * [2025-04-07, 08:42:43](https://news.ycombinator.com/item?id=43609242) - [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
 * [2025-04-07, 06:51:19](https://news.ycombinator.com/item?id=43608551) - [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 * [2025-04-07, 06:27:03](https://news.ycombinator.com/item?id=43608422) - [The Difference Between Municipal Fire Trucks and Airport Fire Trucks](https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks)
