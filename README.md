@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-10, 00:26:31](https://news.ycombinator.com/item?id=43639421) - [BS 1363 British Plugs and Sockets](https://www.plugsocketmuseum.nl/British1.html)
 * [2025-04-10, 00:00:34](https://news.ycombinator.com/item?id=43639280) - [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
 * [2025-04-09, 21:53:05](https://news.ycombinator.com/item?id=43638422) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-09, 21:44:36](https://news.ycombinator.com/item?id=43638361) - [Show HN: Git Game Show – Multiplayer Game in Your Repo](https://justinpaulson.github.io/git_game_show/)
@@ -7,7 +8,6 @@
 * [2025-04-09, 20:42:45](https://news.ycombinator.com/item?id=43637721) - [Show HN: LLM Based Spark Profiler](https://datasre.ai/)
 * [2025-04-09, 20:34:49](https://news.ycombinator.com/item?id=43637622) - [Whistleblower tells senators that Meta undermined U.S. security, interests](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/)
 * [2025-04-09, 19:44:50](https://news.ycombinator.com/item?id=43636860) - [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
-* [2025-04-09, 19:37:31](https://news.ycombinator.com/item?id=43636757) - [Basic Income Pilot Project: Study results](https://www.pilotprojekt-grundeinkommen.de/en)
 * [2025-04-09, 19:24:40](https://news.ycombinator.com/item?id=43636568) - [Show HN: Obelisk – a WASM-based deterministic workflow engine](https://obeli.sk/)
 * [2025-04-09, 19:09:27](https://news.ycombinator.com/item?id=43636302) - [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission)
 * [2025-04-09, 19:04:12](https://news.ycombinator.com/item?id=43636230) - [Baking the Y Combinator from Scratch](https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/)
@@ -22,14 +22,14 @@
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
 * [2025-04-09, 13:27:30](https://news.ycombinator.com/item?id=43631822) - [SpacetimeDB](https://spacetimedb.com/)
 * [2025-04-09, 13:10:44](https://news.ycombinator.com/item?id=43631656) - [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
-* [2025-04-09, 12:58:39](https://news.ycombinator.com/item?id=43631543) - [How much do you think it costs to make a pair of Nike shoes in Asia?](https://threadreaderapp.com/thread/1909741170953273353.html)
+* [2025-04-09, 12:58:39](https://news.ycombinator.com/item?id=43631543) - [How much do you think it costs to make a pair of Nike shoes in Asia?](https://twitter.com/dieworkwear/status/1909741170953273353)
 * [2025-04-09, 12:38:20](https://news.ycombinator.com/item?id=43631381) - [The Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 * [2025-04-09, 12:24:19](https://news.ycombinator.com/item?id=43631274) - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
 * [2025-04-09, 12:20:06](https://news.ycombinator.com/item?id=43631251) - [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
+* [2025-04-07, 20:51:02](https://news.ycombinator.com/item?id=43615805) - [Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)
 * [2025-04-07, 10:29:16](https://news.ycombinator.com/item?id=43609758) - [Show HN: I turned GitHub contributions into a retro battle game](https://epicdevbattlesofhistory.com)
 * [2025-04-07, 03:25:13](https://news.ycombinator.com/item?id=43607325) - [Nix Derivations, Without Guessing](https://bernsteinbear.com/blog/nix-by-hand/)
-* [2025-04-06, 17:43:02](https://news.ycombinator.com/item?id=43603275) - [Show HN: I turned my kid's worksheet into a math game in 10 minutes with Claude](https://mattsayar.com/how-i-vibe-coded-a-math-game-in-ten-minutes/)
 
 ## [Archives](archives/index.md)
 

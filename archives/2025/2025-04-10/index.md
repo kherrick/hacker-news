@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 00:26:31](https://news.ycombinator.com/item?id=43639421) - [BS 1363 British Plugs and Sockets](https://www.plugsocketmuseum.nl/British1.html)
 * [2025-04-10, 00:00:34](https://news.ycombinator.com/item?id=43639280) - [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)

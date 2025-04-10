@@ -53,6 +53,7 @@
 * [2025-04-09, 13:24:51](https://news.ycombinator.com/item?id=43631793) - [Show HN: Dynomate– Fast, Git-Friendly DynamoDB GUI Client (Dynobase Alternative)](https://dynomate.io/)
 * [2025-04-09, 13:11:50](https://news.ycombinator.com/item?id=43631672) - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 * [2025-04-09, 13:10:44](https://news.ycombinator.com/item?id=43631656) - [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
+* [2025-04-09, 12:58:39](https://news.ycombinator.com/item?id=43631543) - [How much do you think it costs to make a pair of Nike shoes in Asia?](https://twitter.com/dieworkwear/status/1909741170953273353)
 * [2025-04-09, 12:58:39](https://news.ycombinator.com/item?id=43631543) - [How much do you think it costs to make a pair of Nike shoes in Asia?](https://threadreaderapp.com/thread/1909741170953273353.html)
 * [2025-04-09, 12:46:59](https://news.ycombinator.com/item?id=43631450) - [An LLM Query Understanding Service](https://softwaredoug.com/blog/2025/04/08/llm-query-understand)
 * [2025-04-09, 12:46:22](https://news.ycombinator.com/item?id=43631444) - [Determining IaC ownership – a tag-based approach](https://www.token.security/blog/iac-ownership---tag-based-approach)
