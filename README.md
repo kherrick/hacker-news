@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
+* [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 * [2025-04-10, 07:00:35](https://news.ycombinator.com/item?id=43641407) - [Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)](http://hi.telli.com/eng)
-* [2025-04-10, 06:59:55](https://news.ycombinator.com/item?id=43641402) - [ICE director envisions Amazon-like mass deportation system](https://azmirror.com/2025/04/08/ice-director-envisions-amazon-like-mass-deportation-system-prime-but-with-human-beings/)
 * [2025-04-10, 06:56:33](https://news.ycombinator.com/item?id=43641381) - [LLM Benchmark for 'Longform Creative Writing'](https://eqbench.com/creative_writing_longform.html)
 * [2025-04-10, 06:33:16](https://news.ycombinator.com/item?id=43641255) - [MusiCoT, a chain-of-thought (CoT) prompting technique for music generation [pdf]](https://musicot.github.io/MusiCoT_paper.pdf)
 * [2025-04-10, 06:07:40](https://news.ycombinator.com/item?id=43641132) - [National Weather Service no longer translating products for non-English speakers](https://apnews.com/article/weather-spanish-translation-noaa-nws-trump-71c727dbe2e4956247c9d9152494f1dc)
@@ -27,6 +26,7 @@
 * [2025-04-09, 12:58:39](https://news.ycombinator.com/item?id=43631543) - [How much do you think it costs to make a pair of Nike shoes in Asia?](https://twitter.com/dieworkwear/status/1909741170953273353)
 * [2025-04-09, 12:24:19](https://news.ycombinator.com/item?id=43631274) - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
 * [2025-04-09, 12:20:06](https://news.ycombinator.com/item?id=43631251) - [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
+* [2025-04-07, 21:54:07](https://news.ycombinator.com/item?id=43616356) - [Like cursor, but for blogging: a weekend project](https://www.maximepeabody.com/blog/ai-tools-for-writing-blog-posts)
 * [2025-04-07, 20:51:02](https://news.ycombinator.com/item?id=43615805) - [Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)
 * [2025-04-07, 03:25:13](https://news.ycombinator.com/item?id=43607325) - [Nix Derivations, Without Guessing](https://bernsteinbear.com/blog/nix-by-hand/)
 * [2025-04-06, 13:25:14](https://news.ycombinator.com/item?id=43601282) - [Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities](https://worldhistory.substack.com/p/how-strange-mens-weird-collections)
