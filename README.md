@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-10, 23:24:51](https://news.ycombinator.com/item?id=43648890) - [Black Mirror's pessimism porn won't lead us to a better future](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism)
 * [2025-04-10, 23:05:43](https://news.ycombinator.com/item?id=43648795) - [We quit our Big Tech jobs after hitting #1 on HN and Product Hunt](https://www.heyopenspot.com/)
 * [2025-04-10, 22:23:48](https://news.ycombinator.com/item?id=43648593) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-10, 22:11:53](https://news.ycombinator.com/item?id=43648526) - [this site uses cookies to store the fact you clicked \"Accept Cookies\"](https://rodyne.com/?p=2368)
@@ -20,15 +21,14 @@
 * [2025-04-10, 14:30:54](https://news.ycombinator.com/item?id=43644179) - [Isaac Asimov describes how AI will liberate humans and their creativity (1992)](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html)
 * [2025-04-10, 14:12:44](https://news.ycombinator.com/item?id=43643968) - [Arroyo (YC W23) has been acquired by Cloudflare](https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare)
 * [2025-04-10, 14:03:54](https://news.ycombinator.com/item?id=43643886) - [Usability Improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
-* [2025-04-10, 13:23:58](https://news.ycombinator.com/item?id=43643534) - [Busy Bar](https://busy.bar)
 * [2025-04-10, 12:59:54](https://news.ycombinator.com/item?id=43643343) - [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/)
 * [2025-04-10, 12:53:56](https://news.ycombinator.com/item?id=43643292) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-10, 09:09:03](https://news.ycombinator.com/item?id=43642123) - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
-* [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 * [2025-04-08, 17:45:22](https://news.ycombinator.com/item?id=43624480) - [Pdeathsig is almost never what you want](https://www.recall.ai/post/pdeathsig-is-almost-never-what-you-want)
 * [2025-04-07, 22:30:45](https://news.ycombinator.com/item?id=43616649) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-07, 16:53:08](https://news.ycombinator.com/item?id=43613463) - [Gemini Live with camera and screen sharing capabilities](https://blog.google/products/gemini/gemini-live-android-tips/)
 * [2025-04-07, 12:35:03](https://news.ycombinator.com/item?id=43610566) - [We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
+* [2025-04-07, 10:34:06](https://news.ycombinator.com/item?id=43609786) - [A quarkless supercollider may finally shed light on dark matter](https://spectrum.ieee.org/supercolliders)
 * [2025-04-07, 06:51:51](https://news.ycombinator.com/item?id=43608555) - [Messier Marathon](https://en.wikipedia.org/wiki/Messier_marathon)
 
 ## [Archives](archives/index.md)

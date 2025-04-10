@@ -55,6 +55,7 @@
 * [2025-04-07, 11:54:48](https://news.ycombinator.com/item?id=43610255) - [GoboLinux 017.01: the most experimental Linux's first new release in about 5Y](https://gobolinux.org/release_notes_017.01.html)
 * [2025-04-07, 11:53:52](https://news.ycombinator.com/item?id=43610246) - [Fewer Foreign Passengers Are Flying to the US](https://jasher.substack.com/p/how-fewer-foreign-passengers-flying)
 * [2025-04-07, 11:43:46](https://news.ycombinator.com/item?id=43610187) - [Inside One of America's Last Pencil Factories (2018)](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
+* [2025-04-07, 10:34:06](https://news.ycombinator.com/item?id=43609786) - [A quarkless supercollider may finally shed light on dark matter](https://spectrum.ieee.org/supercolliders)
 * [2025-04-07, 10:29:16](https://news.ycombinator.com/item?id=43609758) - [Show HN: I turned GitHub contributions into a retro battle game](https://epicdevbattlesofhistory.com)
 * [2025-04-07, 10:09:17](https://news.ycombinator.com/item?id=43609661) - [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back)
 * [2025-04-07, 10:08:50](https://news.ycombinator.com/item?id=43609658) - [Bluesky's Quest to Build Nontoxic Social Media](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media)
