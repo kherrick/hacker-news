@@ -26,8 +26,8 @@
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Colossus for Rapid Storage](https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage)
 * [2025-04-08, 09:43:11](https://news.ycombinator.com/item?id=43619884) - [smartfunc: Turn Docstrings into LLM-Functions](https://github.com/koaning/smartfunc)
 * [2025-04-08, 08:10:06](https://news.ycombinator.com/item?id=43619437) - [Native frame transposition coming to Emacs 31](https://p.bauherren.ovh/blog/tech/new_window_cmds)
+* [2025-04-08, 04:12:07](https://news.ycombinator.com/item?id=43618286) - [\"The Form of a Demon and the Heart of a Person\"](https://publicdomainreview.org/collection/yamauba-and-kintaro/)
 * [2025-04-07, 22:30:45](https://news.ycombinator.com/item?id=43616649) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
-* [2025-04-07, 21:31:09](https://news.ycombinator.com/item?id=43616173) - [Saturn's moon Titan could harbor life, but only a tiny amount](https://news.arizona.edu/news/saturns-moon-titan-could-harbor-life-only-tiny-amount-study-finds)
 * [2025-04-07, 12:35:03](https://news.ycombinator.com/item?id=43610566) - [We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
 * [2025-04-07, 06:27:03](https://news.ycombinator.com/item?id=43608422) - [The Difference Between Municipal Fire Trucks and Airport Fire Trucks](https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks)
 
