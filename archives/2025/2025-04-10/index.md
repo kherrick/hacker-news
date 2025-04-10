@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 03:55:07](https://news.ycombinator.com/item?id=43640480) - [Design System Options for Rails](https://businessclasskit.com/blog/design-system-options-for-rails)
+* [2025-04-10, 03:41:49](https://news.ycombinator.com/item?id=43640403) - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
 * [2025-04-10, 03:14:19](https://news.ycombinator.com/item?id=43640267) - [NIH freezes all research grants to Columbia University](https://www.science.org/content/article/nih-freezes-all-research-grants-columbia-university)
 * [2025-04-10, 02:48:08](https://news.ycombinator.com/item?id=43640166) - [Evidence suggesting Quasar Alpha is OpenAI's new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
 * [2025-04-10, 02:38:42](https://news.ycombinator.com/item?id=43640115) - [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
