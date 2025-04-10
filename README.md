@@ -10,7 +10,7 @@
 * [2025-04-10, 02:38:42](https://news.ycombinator.com/item?id=43640115) - [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
 * [2025-04-10, 01:51:24](https://news.ycombinator.com/item?id=43639871) - [No Pay, No Work; Early Career Lessons](https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
-* [2025-04-10, 00:00:34](https://news.ycombinator.com/item?id=43639280) - [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
+* [2025-04-09, 21:53:05](https://news.ycombinator.com/item?id=43638422) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-09, 19:24:40](https://news.ycombinator.com/item?id=43636568) - [Show HN: Obelisk – a WASM-based deterministic workflow engine](https://obeli.sk/)
 * [2025-04-09, 19:04:12](https://news.ycombinator.com/item?id=43636230) - [Baking the Y Combinator from Scratch](https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/)
 * [2025-04-09, 18:39:03](https://news.ycombinator.com/item?id=43635783) - [Firebase Studio](https://firebase.studio)
