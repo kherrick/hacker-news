@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-10, 09:09:03",
+      "https://news.ycombinator.com/item?id=43642123"
+    ],
+    [
+      "Hacker News Hug of Deaf",
+      "https://susam.net/hn-bell.html"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 07:11:37",
       "https://news.ycombinator.com/item?id=43641469"
     ],
@@ -37,16 +47,6 @@
     [
       "MusiCoT, a chain-of-thought (CoT) prompting technique for music generation [pdf]",
       "https://musicot.github.io/MusiCoT_paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 06:07:40",
-      "https://news.ycombinator.com/item?id=43641132"
-    ],
-    [
-      "National Weather Service no longer translating products for non-English speakers",
-      "https://apnews.com/article/weather-spanish-translation-noaa-nws-trump-71c727dbe2e4956247c9d9152494f1dc"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-04-09, 21:53:05",
-      "https://news.ycombinator.com/item?id=43638422"
-    ],
-    [
-      "Parser Combinators Beat Regexes",
-      "https://entropicthoughts.com/parser-combinators-beat-regexes"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 19:24:40",
       "https://news.ycombinator.com/item?id=43636568"
     ],
@@ -187,6 +177,16 @@
     [
       "How University Students Use Claude",
       "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 14:53:01",
+      "https://news.ycombinator.com/item?id=43632831"
+    ],
+    [
+      "Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity",
+      "https://productrank.ai/"
     ]
   ],
   [
