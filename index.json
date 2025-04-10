@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-10, 14:30:54",
-      "https://news.ycombinator.com/item?id=43644179"
+      "2025-04-10, 15:16:37",
+      "https://news.ycombinator.com/item?id=43644714"
     ],
     [
-      "Isaac Asimov Describes How AI Will Liberate Humans and Their Creativity (1992)",
-      "https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html"
+      "Universal photonic artificial intelligence acceleration",
+      "https://www.nature.com/articles/s41586-025-08854-x"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Locating Stealth Fighters with Cheap Cameras Without Using AI or Radar [video]",
       "https://www.youtube.com/watch?v=m-b51C82-UE"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 12:40:38",
-      "https://news.ycombinator.com/item?id=43643204"
-    ],
-    [
-      "Show HN: Temp.pw",
-      "https://temp.pw/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Native frame transposition coming to Emacs 31",
       "https://p.bauherren.ovh/blog/tech/new_window_cmds"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 22:30:45",
+      "https://news.ycombinator.com/item?id=43616649"
+    ],
+    [
+      "A surprising enum size optimization in the Rust compiler",
+      "https://jpfennell.com/posts/enum-type-size/"
     ]
   ],
   [
