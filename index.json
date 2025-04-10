@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-04-10, 03:14:19",
+      "https://news.ycombinator.com/item?id=43640267"
+    ],
+    [
+      "NIH freezes all research grants to Columbia University",
+      "https://www.science.org/content/article/nih-freezes-all-research-grants-columbia-university"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 02:48:08",
+      "https://news.ycombinator.com/item?id=43640166"
+    ],
+    [
+      "Evidence suggesting Quasar Alpha is OpenAI's new model",
+      "https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 02:38:42",
+      "https://news.ycombinator.com/item?id=43640115"
+    ],
+    [
+      "Dice and Queues",
+      "https://justincartwright.com/2025/02/25/dice-and-queues.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 01:51:24",
+      "https://news.ycombinator.com/item?id=43639871"
+    ],
+    [
+      "No Pay, No Work; Early Career Lessons",
+      "https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 01:21:49",
       "https://news.ycombinator.com/item?id=43639734"
     ],
@@ -17,16 +57,6 @@
     [
       "Google Cloud Rapid Storage",
       "https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 00:42:34",
-      "https://news.ycombinator.com/item?id=43639508"
-    ],
-    [
-      "Enhancing Your MIDI Devices: Round II",
-      "https://www.perl.com/article/enhancing-your-midi-devices-round-ii/"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-04-09, 23:17:57",
-      "https://news.ycombinator.com/item?id=43639026"
-    ],
-    [
-      "Kamal Deployment: The Newest Form of Self-Torture",
-      "https://alec-c4.com/posts/2025-04-02-kamal/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 21:53:05",
       "https://news.ycombinator.com/item?id=43638422"
     ],
@@ -81,22 +101,22 @@
   ],
   [
     [
+      "2025-04-09, 20:51:35",
+      "https://news.ycombinator.com/item?id=43637819"
+    ],
+    [
+      "Do charity bookshops drive out other second-hand bookshops?",
+      "http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 20:34:49",
       "https://news.ycombinator.com/item?id=43637622"
     ],
     [
       "Whistleblower tells senators that Meta undermined U.S. security, interests",
       "https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 19:44:50",
-      "https://news.ycombinator.com/item?id=43636860"
-    ],
-    [
-      "Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer",
-      "https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-04-09, 15:58:30",
-      "https://news.ycombinator.com/item?id=43633568"
-    ],
-    [
-      "Visual Reasoning Is Coming Soon",
-      "http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 15:41:38",
       "https://news.ycombinator.com/item?id=43633383"
     ],
@@ -207,16 +217,6 @@
     [
       "The chroot Technique – a Swiss army multitool for Linux systems",
       "https://livesys.se/posts/the-chroot-technique/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 13:27:30",
-      "https://news.ycombinator.com/item?id=43631822"
-    ],
-    [
-      "SpacetimeDB",
-      "https://spacetimedb.com/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-04-06, 13:25:14",
-      "https://news.ycombinator.com/item?id=43601282"
+      "2025-04-07, 00:02:54",
+      "https://news.ycombinator.com/item?id=43606126"
     ],
     [
-      "Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities",
-      "https://worldhistory.substack.com/p/how-strange-mens-weird-collections"
+      "Astrophotographers Help Scientists Solve Mystery of 'Sprite Fireworks'",
+      "https://petapixel.com/2025/04/01/astrophotographers-help-scientists-solve-mystery-of-sprite-fireworks/"
     ]
   ]
 ]
