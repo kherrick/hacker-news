@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-10, 03:55:07",
+      "https://news.ycombinator.com/item?id=43640480"
+    ],
+    [
+      "Design System Options for Rails",
+      "https://businessclasskit.com/blog/design-system-options-for-rails"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 03:41:49",
+      "https://news.ycombinator.com/item?id=43640403"
+    ],
+    [
+      "Learning to Program with Haiku",
+      "https://www.haiku-os.org/development/learning_to_program_with_haiku"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 03:14:19",
       "https://news.ycombinator.com/item?id=43640267"
     ],
@@ -37,16 +57,6 @@
     [
       "No Pay, No Work; Early Career Lessons",
       "https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 01:21:49",
-      "https://news.ycombinator.com/item?id=43639734"
-    ],
-    [
-      "Rusty Cascading Style Sheets – Another CSS Preprocessor",
-      "https://github.com/ved-patel226/RCSS"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-04-09, 12:38:20",
-      "https://news.ycombinator.com/item?id=43631381"
-    ],
-    [
-      "The Agent2Agent Protocol (A2A)",
-      "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 12:24:19",
       "https://news.ycombinator.com/item?id=43631274"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-04-06, 13:25:14",
-      "https://news.ycombinator.com/item?id=43601282"
+      "2025-04-06, 21:00:14",
+      "https://news.ycombinator.com/item?id=43604921"
     ],
     [
-      "Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities",
-      "https://worldhistory.substack.com/p/how-strange-mens-weird-collections"
+      "Applying Pandas' Group_by on Videos",
+      "https://mixpeek.com/blog/turning-frames-into-dataframes"
     ]
   ]
 ]
