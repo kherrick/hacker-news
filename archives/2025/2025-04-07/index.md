@@ -60,6 +60,7 @@
 * [2025-04-07, 09:52:22](https://news.ycombinator.com/item?id=43609578) - [Classic HN: ITAPPMONROBOT](https://thedailywtf.com/articles/ITAPPMONROBOT)
 * [2025-04-07, 08:42:43](https://news.ycombinator.com/item?id=43609242) - [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
 * [2025-04-07, 06:51:19](https://news.ycombinator.com/item?id=43608551) - [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
+* [2025-04-07, 06:27:03](https://news.ycombinator.com/item?id=43608422) - [The Difference Between Municipal Fire Trucks and Airport Fire Trucks](https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks)
 * [2025-04-07, 05:08:05](https://news.ycombinator.com/item?id=43607929) - [CDC's top laboratory on STDs is shut by Trump administration](https://www.statnews.com/2025/04/05/cdc-sexually-transmitted-diseases-laboratory-closed-by-trump-administration/)
 * [2025-04-07, 05:03:45](https://news.ycombinator.com/item?id=43607906) - [PHP isn't dead. Laravel is just bloated. Here's what I made instead](https://github.com/jeremie5/dataphyre)
 * [2025-04-07, 05:01:58](https://news.ycombinator.com/item?id=43607893) - [Open-Source Is Just That](https://vale.rocks/posts/open-source-entitlement)

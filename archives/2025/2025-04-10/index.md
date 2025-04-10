@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 17:21:03](https://news.ycombinator.com/item?id=43646095) - [Garfield Minus Garfield](https://garfieldminusgarfield.net)
 * [2025-04-10, 17:01:11](https://news.ycombinator.com/item?id=43645901) - [Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr)
 * [2025-04-10, 16:45:30](https://news.ycombinator.com/item?id=43645724) - [OpenAI Pioneers Program](https://openai.com/index/openai-pioneers-program/)
+* [2025-04-10, 16:09:12](https://news.ycombinator.com/item?id=43645331) - [Blue Shield Data Breach (Google Ads)](https://news.blueshieldca.com/notice-of-data-breach)
 * [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:34:45](https://news.ycombinator.com/item?id=43644966) - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
 * [2025-04-10, 15:16:37](https://news.ycombinator.com/item?id=43644714) - [Universal photonic artificial intelligence acceleration](https://www.nature.com/articles/s41586-025-08854-x)
@@ -56,6 +58,7 @@
 * [2025-04-10, 01:51:24](https://news.ycombinator.com/item?id=43639871) - [No Pay, No Work; Early Career Lessons](https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/)
 * [2025-04-10, 01:21:49](https://news.ycombinator.com/item?id=43639734) - [Rusty Cascading Style Sheets – Another CSS Preprocessor](https://github.com/ved-patel226/RCSS)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
+* [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Colossus for Rapid Storage](https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage)
 * [2025-04-10, 00:42:34](https://news.ycombinator.com/item?id=43639508) - [Enhancing Your MIDI Devices: Round II](https://www.perl.com/article/enhancing-your-midi-devices-round-ii/)
 * [2025-04-10, 00:26:31](https://news.ycombinator.com/item?id=43639421) - [BS 1363 British Plugs and Sockets](https://www.plugsocketmuseum.nl/British1.html)
 * [2025-04-10, 00:00:34](https://news.ycombinator.com/item?id=43639280) - [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
