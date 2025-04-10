@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 23:36:24](https://news.ycombinator.com/item?id=43617022) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
 * [2025-04-07, 22:40:05](https://news.ycombinator.com/item?id=43616711) - [Gaussian Splatting Alternative: WebGL Implementation of Nvidia's SVRaster](https://github.com/samuelm2/svraster-webgl)
 * [2025-04-07, 22:24:16](https://news.ycombinator.com/item?id=43616604) - [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
 * [2025-04-07, 21:54:07](https://news.ycombinator.com/item?id=43616356) - [Like cursor, but for blogging: a weekend project](https://www.maximepeabody.com/blog/ai-tools-for-writing-blog-posts)
