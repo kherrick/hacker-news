@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-10, 16:45:30](https://news.ycombinator.com/item?id=43645724) - [OpenAI Pioneers Program](https://openai.com/index/openai-pioneers-program/)
+* [2025-04-10, 17:01:11](https://news.ycombinator.com/item?id=43645901) - [Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr)
 * [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:34:45](https://news.ycombinator.com/item?id=43644966) - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
 * [2025-04-10, 15:13:12](https://news.ycombinator.com/item?id=43644662) - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
@@ -16,7 +16,7 @@
 * [2025-04-10, 09:09:03](https://news.ycombinator.com/item?id=43642123) - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
 * [2025-04-10, 07:33:54](https://news.ycombinator.com/item?id=43641576) - [Show HN: Pledge – A Lightweight Reactive Framework for Swift (No Rx Overhead)](https://github.com/gokulnair2001/Pledge)
 * [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
-* [2025-04-10, 07:00:35](https://news.ycombinator.com/item?id=43641407) - [Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)](http://hi.telli.com/eng)
+* [2025-04-10, 03:55:07](https://news.ycombinator.com/item?id=43640480) - [Design System Options for Rails](https://businessclasskit.com/blog/design-system-options-for-rails)
 * [2025-04-10, 03:41:49](https://news.ycombinator.com/item?id=43640403) - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
 * [2025-04-09, 18:39:03](https://news.ycombinator.com/item?id=43635783) - [Firebase Studio](https://firebase.studio)
