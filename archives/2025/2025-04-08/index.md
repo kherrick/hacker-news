@@ -43,6 +43,7 @@
 * [2025-04-08, 08:42:02](https://news.ycombinator.com/item?id=43619581) - [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 * [2025-04-08, 08:40:34](https://news.ycombinator.com/item?id=43619571) - [American academic faces years in jail after charged with insulting Thai monarchy](https://www.cnn.com/2025/04/08/asia/thailand-lese-majeste-paul-chambers-intl-hnk/index.html)
 * [2025-04-08, 08:36:23](https://news.ycombinator.com/item?id=43619548) - [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/)
+* [2025-04-08, 08:10:06](https://news.ycombinator.com/item?id=43619437) - [Native frame transposition coming to Emacs 31](https://p.bauherren.ovh/blog/tech/new_window_cmds)
 * [2025-04-08, 07:51:50](https://news.ycombinator.com/item?id=43619346) - [Paradigm (YC W24) Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
 * [2025-04-08, 07:46:42](https://news.ycombinator.com/item?id=43619315) - [UK Effort to Keep Apple Encryption Fight Secret Is Blocked](https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD)
 * [2025-04-08, 07:30:24](https://news.ycombinator.com/item?id=43619229) - [Building the System/360 Mainframe Nearly Destroyed IBM](https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm)
