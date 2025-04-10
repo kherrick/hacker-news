@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 13:23:58](https://news.ycombinator.com/item?id=43643534) - [Busy Bar](https://busy.bar)
+* [2025-04-10, 13:13:34](https://news.ycombinator.com/item?id=43643441) - [TVMC: Time-Varying Mesh Compression](https://github.com/SINRG-Lab/TVMC)
+* [2025-04-10, 13:08:33](https://news.ycombinator.com/item?id=43643408) - [Amazon CEO Andy Jassy's 2024 Letter to Shareholders](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders)
+* [2025-04-10, 13:07:08](https://news.ycombinator.com/item?id=43643390) - [Sleep is essential – researchers are trying to work out why](https://www.nature.com/articles/d41586-025-00964-w)
+* [2025-04-10, 12:59:54](https://news.ycombinator.com/item?id=43643343) - [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/)
+* [2025-04-10, 12:59:52](https://news.ycombinator.com/item?id=43643342) - [CPI for all items falls 0.1% in March, up 2.4% YoY](https://www.bls.gov/news.release/archives/cpi_04102025.htm)
+* [2025-04-10, 12:56:05](https://news.ycombinator.com/item?id=43643312) - [Photon: Rust/WebAssembly image processing library faster than VIPs and PIL](https://github.com/silvia-odwyer/photon)
 * [2025-04-10, 12:48:16](https://news.ycombinator.com/item?id=43643243) - [America Is Backsliding Toward Its Most Polluted Era](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/)
 * [2025-04-10, 12:39:34](https://news.ycombinator.com/item?id=43643197) - [The Curious Case of Jupiter Ace](https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace)
 * [2025-04-10, 12:23:17](https://news.ycombinator.com/item?id=43643104) - [EGPU: Extending eBPF Programmability and Observability to GPUs](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HCDS25/10/13a8f7c0-0a7e-11f0-ada9-16bb50361d1f/OUT/hcds25-10.html)
