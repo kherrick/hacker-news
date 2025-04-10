@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-10, 22:23:48](https://news.ycombinator.com/item?id=43648593) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF)](https://www.ycombinator.com/companies/parity/jobs)
-* [2025-04-10, 22:17:43](https://news.ycombinator.com/item?id=43648559) - [The Russian Paradox: So Much Education, So Little Human Capital](https://theamericanenterprise.com/the-russian-paradox-so-much-education-so-little-human-capital/)
 * [2025-04-10, 21:24:28](https://news.ycombinator.com/item?id=43648145) - [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [So, I Wrote a Book: The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-10, 20:24:01](https://news.ycombinator.com/item?id=43647716) - [PEP 750 – Template Strings (t-strings) have been accepted](https://peps.python.org/pep-0750/)
@@ -25,6 +24,7 @@
 * [2025-04-10, 09:09:03](https://news.ycombinator.com/item?id=43642123) - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
 * [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 * [2025-04-08, 17:45:22](https://news.ycombinator.com/item?id=43624480) - [Pdeathsig is almost never what you want](https://www.recall.ai/post/pdeathsig-is-almost-never-what-you-want)
+* [2025-04-08, 09:43:11](https://news.ycombinator.com/item?id=43619884) - [Smartfunc: Turn Docstrings into LLM-Functions](https://github.com/koaning/smartfunc)
 * [2025-04-08, 08:10:06](https://news.ycombinator.com/item?id=43619437) - [Native frame transposition coming to Emacs 31](https://p.bauherren.ovh/blog/tech/new_window_cmds)
 * [2025-04-07, 22:30:45](https://news.ycombinator.com/item?id=43616649) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-07, 16:53:08](https://news.ycombinator.com/item?id=43613463) - [Gemini Live with camera and screen sharing capabilities](https://blog.google/products/gemini/gemini-live-android-tips/)
