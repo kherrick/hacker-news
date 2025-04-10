@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-04-10, 15:34:45",
+      "https://news.ycombinator.com/item?id=43644966"
+    ],
+    [
+      "ELD: A new open-source embedded linker tool for embedded systems",
+      "https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 14:30:22",
+      "https://news.ycombinator.com/item?id=43644173"
+    ],
+    [
+      "Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees",
+      "https://blog.cloudflare.com/r2-data-catalog-public-beta/"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 14:19:06",
       "https://news.ycombinator.com/item?id=43644043"
     ],
@@ -87,16 +107,6 @@
     [
       "Elliptical Python Programming",
       "https://susam.net/elliptical-python-programming.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 12:40:51",
-      "https://news.ycombinator.com/item?id=43643207"
-    ],
-    [
-      "Locating Stealth Fighters with Cheap Cameras Without Using AI or Radar [video]",
-      "https://www.youtube.com/watch?v=m-b51C82-UE"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2025-04-09, 13:27:30",
-      "https://news.ycombinator.com/item?id=43631822"
-    ],
-    [
-      "SpacetimeDB",
-      "https://spacetimedb.com/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 12:58:39",
-      "https://news.ycombinator.com/item?id=43631543"
-    ],
-    [
-      "How much do you think it costs to make a pair of Nike shoes in Asia?",
-      "https://twitter.com/dieworkwear/status/1909741170953273353"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 12:20:06",
       "https://news.ycombinator.com/item?id=43631251"
     ],
@@ -287,6 +277,16 @@
     [
       "Saturn's moon Titan could harbor life, but only a tiny amount",
       "https://news.arizona.edu/news/saturns-moon-titan-could-harbor-life-only-tiny-amount-study-finds"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 03:25:13",
+      "https://news.ycombinator.com/item?id=43607325"
+    ],
+    [
+      "Nix Derivations, Without Guessing",
+      "https://bernsteinbear.com/blog/nix-by-hand/"
     ]
   ],
   [
