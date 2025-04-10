@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-10, 14:30:54",
+      "https://news.ycombinator.com/item?id=43644179"
+    ],
+    [
+      "Isaac Asimov Describes How AI Will Liberate Humans and Their Creativity (1992)",
+      "https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 14:19:06",
       "https://news.ycombinator.com/item?id=43644043"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2025-04-10, 14:02:52",
-      "https://news.ycombinator.com/item?id=43643877"
+      "2025-04-10, 14:12:44",
+      "https://news.ycombinator.com/item?id=43643968"
     ],
     [
-      "Flying Somewhere? You May Need That Real ID.",
-      "https://www.nytimes.com/2025/04/09/travel/real-id-deadline-what-to-know.html"
+      "Arroyo (YC W23) has been acquired by Cloudflare",
+      "https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare"
     ]
   ],
   [
     [
-      "2025-04-10, 13:50:15",
-      "https://news.ycombinator.com/item?id=43643761"
+      "2025-04-10, 14:03:54",
+      "https://news.ycombinator.com/item?id=43643886"
     ],
     [
-      "Evidence of 22,000-year-old vehicles found at White Sands National Park",
-      "https://www.sfgate.com/national-parks/article/national-park-discovery-rewrites-human-history-20265734.php"
+      "Usability Improvements in GCC 15",
+      "https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Owning my own data, part 1: Integrating a self-hosted calendar solution",
       "https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 12:56:05",
-      "https://news.ycombinator.com/item?id=43643312"
-    ],
-    [
-      "Photon: Rust/WebAssembly image processing library",
-      "https://github.com/silvia-odwyer/photon"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-04-09, 13:27:30",
+      "https://news.ycombinator.com/item?id=43631822"
+    ],
+    [
+      "SpacetimeDB",
+      "https://spacetimedb.com/"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 12:58:39",
       "https://news.ycombinator.com/item?id=43631543"
     ],
@@ -267,16 +277,6 @@
     [
       "Saturn's moon Titan could harbor life, but only a tiny amount",
       "https://news.arizona.edu/news/saturns-moon-titan-could-harbor-life-only-tiny-amount-study-finds"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 20:51:02",
-      "https://news.ycombinator.com/item?id=43615805"
-    ],
-    [
-      "Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet",
-      "https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet"
     ]
   ],
   [
