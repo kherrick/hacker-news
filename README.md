@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-10, 16:45:30](https://news.ycombinator.com/item?id=43645724) - [OpenAI Pioneers Program](https://openai.com/index/openai-pioneers-program/)
 * [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:34:45](https://news.ycombinator.com/item?id=43644966) - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
 * [2025-04-10, 15:13:12](https://news.ycombinator.com/item?id=43644662) - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
@@ -12,12 +13,10 @@
 * [2025-04-10, 12:59:54](https://news.ycombinator.com/item?id=43643343) - [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/)
 * [2025-04-10, 12:53:56](https://news.ycombinator.com/item?id=43643292) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-10, 12:39:34](https://news.ycombinator.com/item?id=43643197) - [The Curious Case of Jupiter Ace](https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace)
-* [2025-04-10, 11:54:13](https://news.ycombinator.com/item?id=43642928) - [Are Americans Still Welcome in Europe?](https://blog.ricksteves.com/cameron/2025/03/americans-welcome-europe-2025/)
 * [2025-04-10, 09:09:03](https://news.ycombinator.com/item?id=43642123) - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
 * [2025-04-10, 07:33:54](https://news.ycombinator.com/item?id=43641576) - [Show HN: Pledge – A Lightweight Reactive Framework for Swift (No Rx Overhead)](https://github.com/gokulnair2001/Pledge)
 * [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 * [2025-04-10, 07:00:35](https://news.ycombinator.com/item?id=43641407) - [Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)](http://hi.telli.com/eng)
-* [2025-04-10, 03:55:07](https://news.ycombinator.com/item?id=43640480) - [Design System Options for Rails](https://businessclasskit.com/blog/design-system-options-for-rails)
 * [2025-04-10, 03:41:49](https://news.ycombinator.com/item?id=43640403) - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
 * [2025-04-09, 18:39:03](https://news.ycombinator.com/item?id=43635783) - [Firebase Studio](https://firebase.studio)
@@ -29,6 +28,7 @@
 * [2025-04-08, 08:10:06](https://news.ycombinator.com/item?id=43619437) - [Native frame transposition coming to Emacs 31](https://p.bauherren.ovh/blog/tech/new_window_cmds)
 * [2025-04-07, 22:30:45](https://news.ycombinator.com/item?id=43616649) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-07, 21:31:09](https://news.ycombinator.com/item?id=43616173) - [Saturn's moon Titan could harbor life, but only a tiny amount](https://news.arizona.edu/news/saturns-moon-titan-could-harbor-life-only-tiny-amount-study-finds)
+* [2025-04-07, 12:35:03](https://news.ycombinator.com/item?id=43610566) - [We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
 * [2025-04-06, 13:40:56](https://news.ycombinator.com/item?id=43601356) - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
 
 ## [Archives](archives/index.md)

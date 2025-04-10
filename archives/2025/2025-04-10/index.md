@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 16:45:30](https://news.ycombinator.com/item?id=43645724) - [OpenAI Pioneers Program](https://openai.com/index/openai-pioneers-program/)
 * [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:34:45](https://news.ycombinator.com/item?id=43644966) - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
 * [2025-04-10, 15:16:37](https://news.ycombinator.com/item?id=43644714) - [Universal photonic artificial intelligence acceleration](https://www.nature.com/articles/s41586-025-08854-x)
