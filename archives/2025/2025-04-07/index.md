@@ -20,6 +20,7 @@
 * [2025-04-07, 18:38:36](https://news.ycombinator.com/item?id=43614546) - [John Carmack on AI in game programming](https://twitter.com/ID_AA_Carmack/status/1909311174845329874)
 * [2025-04-07, 18:37:24](https://news.ycombinator.com/item?id=43614534) - [It would take three years to install a speed bump. So I bought my own](https://substack.com/home/post/p-160523691)
 * [2025-04-07, 18:34:46](https://news.ycombinator.com/item?id=43614505) - [Choviva: Chocolate replacement with less CO2 emissions](https://choviva.com/details)
+* [2025-04-07, 18:30:52](https://news.ycombinator.com/item?id=43614462) - [Hg-Git: Git back end for mercurial](https://foss.heptapod.net/mercurial/hg-git)
 * [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – a luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 18:04:22](https://news.ycombinator.com/item?id=43614199) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 * [2025-04-07, 17:52:53](https://news.ycombinator.com/item?id=43614081) - [The Troll Hole Adventure](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
