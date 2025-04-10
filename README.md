@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-10, 00:00:34](https://news.ycombinator.com/item?id=43639280) - [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
 * [2025-04-09, 21:53:05](https://news.ycombinator.com/item?id=43638422) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-09, 21:44:36](https://news.ycombinator.com/item?id=43638361) - [Show HN: Git Game Show – Multiplayer Game in Your Repo](https://justinpaulson.github.io/git_game_show/)
 * [2025-04-09, 20:51:35](https://news.ycombinator.com/item?id=43637819) - [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
@@ -10,7 +11,6 @@
 * [2025-04-09, 19:24:40](https://news.ycombinator.com/item?id=43636568) - [Show HN: Obelisk – a WASM-based deterministic workflow engine](https://obeli.sk/)
 * [2025-04-09, 19:09:27](https://news.ycombinator.com/item?id=43636302) - [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission)
 * [2025-04-09, 19:04:12](https://news.ycombinator.com/item?id=43636230) - [Baking the Y Combinator from Scratch](https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/)
-* [2025-04-09, 18:43:09](https://news.ycombinator.com/item?id=43635855) - [Meta II a syntax-oriented compiler writing language (1964)](https://dl.acm.org/citation.cfm?doid=800257.808896)
 * [2025-04-09, 18:39:03](https://news.ycombinator.com/item?id=43635783) - [Firebase Studio](https://firebase.studio)
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
 * [2025-04-09, 17:28:55](https://news.ycombinator.com/item?id=43634806) - [Trump temporarily drops tariffs to 10% for most countries](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html)
@@ -27,7 +27,7 @@
 * [2025-04-09, 12:24:19](https://news.ycombinator.com/item?id=43631274) - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
 * [2025-04-09, 12:20:06](https://news.ycombinator.com/item?id=43631251) - [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
-* [2025-04-07, 22:40:05](https://news.ycombinator.com/item?id=43616711) - [Gaussian Splatting Alternative: WebGL Implementation of Nvidia's SVRaster](https://github.com/samuelm2/svraster-webgl)
+* [2025-04-07, 10:29:16](https://news.ycombinator.com/item?id=43609758) - [Show HN: I turned GitHub contributions into a retro battle game](https://epicdevbattlesofhistory.com)
 * [2025-04-07, 03:25:13](https://news.ycombinator.com/item?id=43607325) - [Nix Derivations, Without Guessing](https://bernsteinbear.com/blog/nix-by-hand/)
 * [2025-04-06, 17:43:02](https://news.ycombinator.com/item?id=43603275) - [Show HN: I turned my kid's worksheet into a math game in 10 minutes with Claude](https://mattsayar.com/how-i-vibe-coded-a-math-game-in-ten-minutes/)
 
