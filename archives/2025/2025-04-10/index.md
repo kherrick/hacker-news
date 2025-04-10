@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 14:02:52](https://news.ycombinator.com/item?id=43643877) - [Flying Somewhere? You May Need That Real ID.](https://www.nytimes.com/2025/04/09/travel/real-id-deadline-what-to-know.html)
+* [2025-04-10, 13:50:15](https://news.ycombinator.com/item?id=43643761) - [Evidence of 22,000-year-old vehicles found at White Sands National Park](https://www.sfgate.com/national-parks/article/national-park-discovery-rewrites-human-history-20265734.php)
 * [2025-04-10, 13:23:58](https://news.ycombinator.com/item?id=43643534) - [Busy Bar](https://busy.bar)
 * [2025-04-10, 13:19:22](https://news.ycombinator.com/item?id=43643498) - [Kids can't use computers and this is why it should worry you (2013)](http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
 * [2025-04-10, 13:15:14](https://news.ycombinator.com/item?id=43643455) - [Google Releases Agent-to-Agent](https://google.github.io/A2A/#/)
@@ -15,6 +17,7 @@
 * [2025-04-10, 12:59:54](https://news.ycombinator.com/item?id=43643343) - [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/)
 * [2025-04-10, 12:59:52](https://news.ycombinator.com/item?id=43643342) - [CPI for all items falls 0.1% in March, up 2.4% YoY](https://www.bls.gov/news.release/archives/cpi_04102025.htm)
 * [2025-04-10, 12:56:05](https://news.ycombinator.com/item?id=43643312) - [Photon: Rust/WebAssembly image processing library faster than VIPs and PIL](https://github.com/silvia-odwyer/photon)
+* [2025-04-10, 12:53:56](https://news.ycombinator.com/item?id=43643292) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-10, 12:48:16](https://news.ycombinator.com/item?id=43643243) - [America Is Backsliding Toward Its Most Polluted Era](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/)
 * [2025-04-10, 12:40:51](https://news.ycombinator.com/item?id=43643207) - [Locating Stealth Fighters with Cheap Cameras Without Using AI or Radar [video]](https://www.youtube.com/watch?v=m-b51C82-UE)
 * [2025-04-10, 12:39:34](https://news.ycombinator.com/item?id=43643197) - [The Curious Case of Jupiter Ace](https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace)

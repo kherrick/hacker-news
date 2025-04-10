@@ -36,6 +36,7 @@
 * [2025-04-08, 10:36:07](https://news.ycombinator.com/item?id=43620141) - [Tailscale has raised $160M](https://tailscale.com/blog/series-c)
 * [2025-04-08, 10:32:48](https://news.ycombinator.com/item?id=43620125) - [LLM-hacker-news: LLM plugin for pulling content from Hacker News](https://github.com/simonw/llm-hacker-news)
 * [2025-04-08, 10:11:20](https://news.ycombinator.com/item?id=43620007) - ['Unstoppable force' of solar power propels world to 40% clean electricity](https://news.sky.com/story/unstoppable-force-of-solar-power-propels-world-to-40-clean-electricity-report-finds-13344230)
+* [2025-04-08, 09:43:11](https://news.ycombinator.com/item?id=43619884) - [smartfunc: Turn Docstrings into LLM-Functions](https://github.com/koaning/smartfunc)
 * [2025-04-08, 09:31:12](https://news.ycombinator.com/item?id=43619813) - [How Trump's second term just made digital sovereignty a European priority](https://xwiki.com/en/Blog/European-digital-sovereignty/)
 * [2025-04-08, 09:30:22](https://news.ycombinator.com/item?id=43619804) - [Microsoft ends employment of 2 workers who protested complicity of Gaza genocide](https://www.msn.com/en-us/money/other/report-microsoft-fires-two-employees-who-protested-inside-50th-anniversary-event/ar-AA1CtH32)
 * [2025-04-08, 09:23:18](https://news.ycombinator.com/item?id=43619768) - [Ask HN: Do you still use search engines?](https://news.ycombinator.com/item?id=43619768)
