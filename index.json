@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-04-10, 02:48:08",
-      "https://news.ycombinator.com/item?id=43640166"
-    ],
-    [
-      "Evidence suggesting Quasar Alpha is OpenAI's new model",
-      "https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 02:38:42",
       "https://news.ycombinator.com/item?id=43640115"
     ],
@@ -111,12 +101,12 @@
   ],
   [
     [
-      "2025-04-10, 00:00:34",
-      "https://news.ycombinator.com/item?id=43639280"
+      "2025-04-09, 21:53:05",
+      "https://news.ycombinator.com/item?id=43638422"
     ],
     [
-      "The Columbian Orator taught nineteenth-century Americans how to speak",
-      "https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak"
+      "Parser Combinators Beat Regexes",
+      "https://entropicthoughts.com/parser-combinators-beat-regexes"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Nix Derivations, Without Guessing",
       "https://bernsteinbear.com/blog/nix-by-hand/"
+    ]
+  ],
+  [
+    [
+      "2025-04-06, 13:40:56",
+      "https://news.ycombinator.com/item?id=43601356"
+    ],
+    [
+      "The next generation of Bazel builds",
+      "https://blogsystem5.substack.com/p/bazel-next-generation"
     ]
   ],
   [
