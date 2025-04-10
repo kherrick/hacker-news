@@ -4,6 +4,7 @@
 * [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:34:45](https://news.ycombinator.com/item?id=43644966) - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
 * [2025-04-10, 15:13:12](https://news.ycombinator.com/item?id=43644662) - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
+* [2025-04-10, 14:30:54](https://news.ycombinator.com/item?id=43644179) - [Isaac Asimov describes how AI will liberate humans and their creativity (1992)](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html)
 * [2025-04-10, 14:19:06](https://news.ycombinator.com/item?id=43644043) - [.localhost Domains](https://inclouds.space/localhost-domains)
 * [2025-04-10, 14:12:44](https://news.ycombinator.com/item?id=43643968) - [Arroyo (YC W23) has been acquired by Cloudflare](https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare)
 * [2025-04-10, 14:03:54](https://news.ycombinator.com/item?id=43643886) - [Usability Improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
@@ -29,7 +30,6 @@
 * [2025-04-07, 22:30:45](https://news.ycombinator.com/item?id=43616649) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-07, 21:31:09](https://news.ycombinator.com/item?id=43616173) - [Saturn's moon Titan could harbor life, but only a tiny amount](https://news.arizona.edu/news/saturns-moon-titan-could-harbor-life-only-tiny-amount-study-finds)
 * [2025-04-07, 12:35:03](https://news.ycombinator.com/item?id=43610566) - [We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
-* [2025-04-06, 13:40:56](https://news.ycombinator.com/item?id=43601356) - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
 
 ## [Archives](archives/index.md)
 
