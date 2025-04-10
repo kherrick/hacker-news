@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-04-10, 12:10:29",
-      "https://news.ycombinator.com/item?id=43643028"
+      "2025-04-10, 12:48:16",
+      "https://news.ycombinator.com/item?id=43643243"
     ],
     [
-      "Are .NET 4.x and JDK 8.x the \"zombie\" runtimes of enterprise software?",
-      "https://news.ycombinator.com/item?id=43643028"
+      "America Is Backsliding Toward Its Most Polluted Era",
+      "https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 12:39:34",
+      "https://news.ycombinator.com/item?id=43643197"
+    ],
+    [
+      "The Curious Case of Jupiter Ace",
+      "https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 12:23:17",
+      "https://news.ycombinator.com/item?id=43643104"
+    ],
+    [
+      "EGPU: Extending eBPF Programmability and Observability to GPUs",
+      "https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HCDS25/10/13a8f7c0-0a7e-11f0-ada9-16bb50361d1f/OUT/hcds25-10.html"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-04-09, 19:24:40",
-      "https://news.ycombinator.com/item?id=43636568"
-    ],
-    [
-      "Show HN: Obelisk – a WASM-based deterministic workflow engine",
-      "https://obeli.sk/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 19:04:12",
       "https://news.ycombinator.com/item?id=43636230"
     ],
@@ -217,16 +227,6 @@
     [
       "How much do you think it costs to make a pair of Nike shoes in Asia?",
       "https://twitter.com/dieworkwear/status/1909741170953273353"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 12:24:19",
-      "https://news.ycombinator.com/item?id=43631274"
-    ],
-    [
-      "Ironwood: The first Google TPU for the age of inference",
-      "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/"
     ]
   ],
   [
