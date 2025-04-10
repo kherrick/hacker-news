@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-10, 12:10:29",
+      "https://news.ycombinator.com/item?id=43643028"
+    ],
+    [
+      "Are .NET 4.x and JDK 8.x the \"zombie\" runtimes of enterprise software?",
+      "https://news.ycombinator.com/item?id=43643028"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 09:52:48",
       "https://news.ycombinator.com/item?id=43642351"
     ],
@@ -101,22 +111,22 @@
   ],
   [
     [
-      "2025-04-09, 21:53:05",
-      "https://news.ycombinator.com/item?id=43638422"
-    ],
-    [
-      "Parser Combinators Beat Regexes",
-      "https://entropicthoughts.com/parser-combinators-beat-regexes"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 19:24:40",
       "https://news.ycombinator.com/item?id=43636568"
     ],
     [
       "Show HN: Obelisk – a WASM-based deterministic workflow engine",
       "https://obeli.sk/"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 19:04:12",
+      "https://news.ycombinator.com/item?id=43636230"
+    ],
+    [
+      "Baking the Y Combinator from Scratch",
+      "https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2025-04-09, 00:55:31",
+      "https://news.ycombinator.com/item?id=43627917"
+    ],
+    [
+      "Cells are swapping their mitochondria. What does this mean for our health?",
+      "https://www.nature.com/articles/d41586-025-01064-5"
+    ]
+  ],
+  [
+    [
       "2025-04-08, 08:10:06",
       "https://news.ycombinator.com/item?id=43619437"
     ],
     [
       "Native frame transposition coming to Emacs 31",
       "https://p.bauherren.ovh/blog/tech/new_window_cmds"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 23:36:24",
-      "https://news.ycombinator.com/item?id=43617022"
-    ],
-    [
-      "Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language",
-      "https://raganwald.com/2020/05/03/fractran.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The next generation of Bazel builds",
       "https://blogsystem5.substack.com/p/bazel-next-generation"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 13:25:14",
-      "https://news.ycombinator.com/item?id=43601282"
-    ],
-    [
-      "Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities",
-      "https://worldhistory.substack.com/p/how-strange-mens-weird-collections"
     ]
   ]
 ]
