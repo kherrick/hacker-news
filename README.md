@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-10, 20:37:21](https://news.ycombinator.com/item?id=43647812) - [Attorney representing a student protester detained by federal immigration agents](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/)
+* [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [So, I Wrote a Book: The Story Behind \"100 Go Mistakes and How to Avoid Them\"](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-10, 20:24:01](https://news.ycombinator.com/item?id=43647716) - [PEP 750 – Template Strings (t-strings) have been accepted](https://peps.python.org/pep-0750/)
 * [2025-04-10, 20:09:23](https://news.ycombinator.com/item?id=43647598) - [What if your website had business hours? (2022)](https://bobbiechen.com/blog/2022/7/21/what-if-your-website-had-business-hours)
 * [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
@@ -13,6 +13,7 @@
 * [2025-04-10, 17:01:11](https://news.ycombinator.com/item?id=43645901) - [Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr)
 * [2025-04-10, 16:09:12](https://news.ycombinator.com/item?id=43645331) - [Blue Shield Data Breach (Google Ads)](https://news.blueshieldca.com/notice-of-data-breach)
 * [2025-04-10, 15:54:50](https://news.ycombinator.com/item?id=43645183) - [SDL2 for macOS 9 \"rough draft\"](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft)
+* [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:34:45](https://news.ycombinator.com/item?id=43644966) - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
 * [2025-04-10, 14:48:20](https://news.ycombinator.com/item?id=43644351) - [Show HN: Koreo – The platform engineering toolkit for Kubernetes](https://koreo.dev/)
 * [2025-04-10, 14:30:54](https://news.ycombinator.com/item?id=43644179) - [Isaac Asimov describes how AI will liberate humans and their creativity (1992)](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html)
@@ -25,7 +26,6 @@
 * [2025-04-10, 07:11:37](https://news.ycombinator.com/item?id=43641469) - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Colossus for Rapid Storage](https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage)
 * [2025-04-08, 09:43:11](https://news.ycombinator.com/item?id=43619884) - [smartfunc: Turn Docstrings into LLM-Functions](https://github.com/koaning/smartfunc)
-* [2025-04-08, 08:10:06](https://news.ycombinator.com/item?id=43619437) - [Native frame transposition coming to Emacs 31](https://p.bauherren.ovh/blog/tech/new_window_cmds)
 * [2025-04-07, 22:30:45](https://news.ycombinator.com/item?id=43616649) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-07, 12:35:03](https://news.ycombinator.com/item?id=43610566) - [We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
 * [2025-04-07, 09:27:44](https://news.ycombinator.com/item?id=43609468) - [Your Mouse Is a Database (2012)](https://queue.acm.org/detail.cfm?id=2169076)
