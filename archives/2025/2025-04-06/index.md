@@ -50,6 +50,7 @@
 * [2025-04-06, 14:14:48](https://news.ycombinator.com/item?id=43601551) - [Facebook Downloader](https://fload.app/)
 * [2025-04-06, 13:51:13](https://news.ycombinator.com/item?id=43601421) - [Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other](https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/)
 * [2025-04-06, 13:28:48](https://news.ycombinator.com/item?id=43601301) - [Show HN: I built a Rust crate for running unsafe code safely](https://github.com/brannondorsey/mem-isolate)
+* [2025-04-06, 13:25:14](https://news.ycombinator.com/item?id=43601282) - [Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities](https://worldhistory.substack.com/p/how-strange-mens-weird-collections)
 * [2025-04-06, 13:12:59](https://news.ycombinator.com/item?id=43601213) - [How the Atlantic's Jeffrey Goldberg Got Added to the White House Signal Chat](https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened)
 * [2025-04-06, 13:08:32](https://news.ycombinator.com/item?id=43601190) - [The Mensa Reading List for Grades 9-12](https://onepercentrule.substack.com/p/the-mensa-reading-list-for-grades)
 * [2025-04-06, 12:47:00](https://news.ycombinator.com/item?id=43601064) - [We're back: How tuberculosis is set to surge globally once again](https://thebulletin.org/2025/03/were-back-how-tuberculosis-is-set-to-surge-globally-once-again/)
