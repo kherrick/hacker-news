@@ -22,6 +22,7 @@
 * [2025-04-10, 12:53:56](https://news.ycombinator.com/item?id=43643292) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-10, 12:48:16](https://news.ycombinator.com/item?id=43643243) - [America Is Backsliding Toward Its Most Polluted Era](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/)
 * [2025-04-10, 12:40:51](https://news.ycombinator.com/item?id=43643207) - [Locating Stealth Fighters with Cheap Cameras Without Using AI or Radar [video]](https://www.youtube.com/watch?v=m-b51C82-UE)
+* [2025-04-10, 12:40:38](https://news.ycombinator.com/item?id=43643204) - [Show HN: Temp.pw](https://temp.pw/)
 * [2025-04-10, 12:39:34](https://news.ycombinator.com/item?id=43643197) - [The Curious Case of Jupiter Ace](https://nemanjatrifunovic.substack.com/p/the-curious-case-of-jupiter-ace)
 * [2025-04-10, 12:23:17](https://news.ycombinator.com/item?id=43643104) - [EGPU: Extending eBPF Programmability and Observability to GPUs](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HCDS25/10/13a8f7c0-0a7e-11f0-ada9-16bb50361d1f/OUT/hcds25-10.html)
 * [2025-04-10, 12:10:29](https://news.ycombinator.com/item?id=43643028) - [Are .NET 4.x and JDK 8.x the \"zombie\" runtimes of enterprise software?](https://news.ycombinator.com/item?id=43643028)
