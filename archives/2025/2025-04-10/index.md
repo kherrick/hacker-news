@@ -4,15 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 17:58:02](https://news.ycombinator.com/item?id=43646466) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
 * [2025-04-10, 17:34:19](https://news.ycombinator.com/item?id=43646219) - [Big Book of R](https://www.bigbookofr.com/)
 * [2025-04-10, 17:21:03](https://news.ycombinator.com/item?id=43646095) - [Garfield Minus Garfield](https://garfieldminusgarfield.net)
 * [2025-04-10, 17:01:11](https://news.ycombinator.com/item?id=43645901) - [Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr)
 * [2025-04-10, 16:45:30](https://news.ycombinator.com/item?id=43645724) - [OpenAI Pioneers Program](https://openai.com/index/openai-pioneers-program/)
 * [2025-04-10, 16:09:12](https://news.ycombinator.com/item?id=43645331) - [Blue Shield Data Breach (Google Ads)](https://news.blueshieldca.com/notice-of-data-breach)
+* [2025-04-10, 15:54:50](https://news.ycombinator.com/item?id=43645183) - [SDL2 for macOS 9 \"rough draft\"](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft)
 * [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:34:45](https://news.ycombinator.com/item?id=43644966) - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
 * [2025-04-10, 15:16:37](https://news.ycombinator.com/item?id=43644714) - [Universal photonic artificial intelligence acceleration](https://www.nature.com/articles/s41586-025-08854-x)
 * [2025-04-10, 15:13:12](https://news.ycombinator.com/item?id=43644662) - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
+* [2025-04-10, 14:48:20](https://news.ycombinator.com/item?id=43644351) - [Show HN: Koreo – The platform engineering toolkit for Kubernetes](https://koreo.dev/)
 * [2025-04-10, 14:30:54](https://news.ycombinator.com/item?id=43644179) - [Isaac Asimov Describes How AI Will Liberate Humans and Their Creativity (1992)](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html)
 * [2025-04-10, 14:30:22](https://news.ycombinator.com/item?id=43644173) - [Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees](https://blog.cloudflare.com/r2-data-catalog-public-beta/)
 * [2025-04-10, 14:19:06](https://news.ycombinator.com/item?id=43644043) - [.localhost Domains](https://inclouds.space/localhost-domains)
