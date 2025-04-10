@@ -1,6 +1,76 @@
 [
   [
     [
+      "2025-04-10, 13:23:58",
+      "https://news.ycombinator.com/item?id=43643534"
+    ],
+    [
+      "Busy Bar",
+      "https://busy.bar"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 13:13:34",
+      "https://news.ycombinator.com/item?id=43643441"
+    ],
+    [
+      "TVMC: Time-Varying Mesh Compression",
+      "https://github.com/SINRG-Lab/TVMC"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 13:08:33",
+      "https://news.ycombinator.com/item?id=43643408"
+    ],
+    [
+      "Amazon CEO Andy Jassy's 2024 Letter to Shareholders",
+      "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 13:07:08",
+      "https://news.ycombinator.com/item?id=43643390"
+    ],
+    [
+      "Sleep is essential – researchers are trying to work out why",
+      "https://www.nature.com/articles/d41586-025-00964-w"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 12:59:54",
+      "https://news.ycombinator.com/item?id=43643343"
+    ],
+    [
+      "Owning my own data, part 1: Integrating a self-hosted calendar solution",
+      "https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 12:59:52",
+      "https://news.ycombinator.com/item?id=43643342"
+    ],
+    [
+      "CPI for all items falls 0.1% in March, up 2.4% YoY",
+      "https://www.bls.gov/news.release/archives/cpi_04102025.htm"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 12:56:05",
+      "https://news.ycombinator.com/item?id=43643312"
+    ],
+    [
+      "Photon: Rust/WebAssembly image processing library faster than VIPs and PIL",
+      "https://github.com/silvia-odwyer/photon"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 12:48:16",
       "https://news.ycombinator.com/item?id=43643243"
     ],
@@ -27,16 +97,6 @@
     [
       "EGPU: Extending eBPF Programmability and Observability to GPUs",
       "https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HCDS25/10/13a8f7c0-0a7e-11f0-ada9-16bb50361d1f/OUT/hcds25-10.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 09:52:48",
-      "https://news.ycombinator.com/item?id=43642351"
-    ],
-    [
-      "Linux on Samsung Chromebook Plus (Kevin) with Rockchip RK3399 ARM SoC (2024)",
-      "https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/"
     ]
   ],
   [
@@ -71,26 +131,6 @@
   ],
   [
     [
-      "2025-04-10, 06:56:33",
-      "https://news.ycombinator.com/item?id=43641381"
-    ],
-    [
-      "LLM Benchmark for 'Longform Creative Writing'",
-      "https://eqbench.com/creative_writing_longform.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 06:33:16",
-      "https://news.ycombinator.com/item?id=43641255"
-    ],
-    [
-      "MusiCoT, a chain-of-thought (CoT) prompting technique for music generation [pdf]",
-      "https://musicot.github.io/MusiCoT_paper.pdf"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 03:55:07",
       "https://news.ycombinator.com/item?id=43640480"
     ],
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2025-04-10, 02:38:42",
-      "https://news.ycombinator.com/item?id=43640115"
-    ],
-    [
-      "Dice and Queues",
-      "https://justincartwright.com/2025/02/25/dice-and-queues.html"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 01:05:30",
       "https://news.ycombinator.com/item?id=43639642"
     ],
     [
       "Google Cloud Rapid Storage",
       "https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 19:04:12",
-      "https://news.ycombinator.com/item?id=43636230"
-    ],
-    [
-      "Baking the Y Combinator from Scratch",
-      "https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2025-04-09, 16:31:06",
-      "https://news.ycombinator.com/item?id=43634005"
-    ],
-    [
-      "Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows",
-      "https://withaqua.com"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 15:41:38",
       "https://news.ycombinator.com/item?id=43633383"
     ],
     [
       "How University Students Use Claude",
       "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 14:53:01",
-      "https://news.ycombinator.com/item?id=43632831"
-    ],
-    [
-      "Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity",
-      "https://productrank.ai/"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "SpacetimeDB",
       "https://spacetimedb.com/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 13:10:44",
-      "https://news.ycombinator.com/item?id=43631656"
-    ],
-    [
-      "Quality-of-Life in Tetris Games",
-      "https://jcarlosroldan.com/post/355"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Like cursor, but for blogging: a weekend project",
       "https://www.maximepeabody.com/blog/ai-tools-for-writing-blog-posts"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 21:31:09",
+      "https://news.ycombinator.com/item?id=43616173"
+    ],
+    [
+      "Saturn's moon Titan could harbor life, but only a tiny amount",
+      "https://news.arizona.edu/news/saturns-moon-titan-could-harbor-life-only-tiny-amount-study-finds"
     ]
   ],
   [
