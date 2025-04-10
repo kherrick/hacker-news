@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-10, 01:21:49",
+      "https://news.ycombinator.com/item?id=43639734"
+    ],
+    [
+      "Rusty Cascading Style Sheets – Another CSS Preprocessor",
+      "https://github.com/ved-patel226/RCSS"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 01:05:30",
+      "https://news.ycombinator.com/item?id=43639642"
+    ],
+    [
+      "Google Cloud Rapid Storage",
+      "https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 00:42:34",
+      "https://news.ycombinator.com/item?id=43639508"
+    ],
+    [
+      "Enhancing Your MIDI Devices: Round II",
+      "https://www.perl.com/article/enhancing-your-midi-devices-round-ii/"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 00:26:31",
       "https://news.ycombinator.com/item?id=43639421"
     ],
@@ -21,42 +51,32 @@
   ],
   [
     [
+      "2025-04-09, 23:47:45",
+      "https://news.ycombinator.com/item?id=43639202"
+    ],
+    [
+      "The Consequences of Limiting the Tax Deductibility of R&D",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998845"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 23:17:57",
+      "https://news.ycombinator.com/item?id=43639026"
+    ],
+    [
+      "Kamal Deployment: The Newest Form of Self-Torture",
+      "https://alec-c4.com/posts/2025-04-02-kamal/"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 21:53:05",
       "https://news.ycombinator.com/item?id=43638422"
     ],
     [
       "Parser Combinators Beat Regexes",
       "https://entropicthoughts.com/parser-combinators-beat-regexes"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 21:44:36",
-      "https://news.ycombinator.com/item?id=43638361"
-    ],
-    [
-      "Show HN: Git Game Show – Multiplayer Game in Your Repo",
-      "https://justinpaulson.github.io/git_game_show/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 20:51:35",
-      "https://news.ycombinator.com/item?id=43637819"
-    ],
-    [
-      "Do Charity Bookshops Drive Out Other Second-Hand Bookshops?",
-      "http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 20:42:45",
-      "https://news.ycombinator.com/item?id=43637721"
-    ],
-    [
-      "Show HN: LLM Based Spark Profiler",
-      "https://datasre.ai/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better",
       "https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 17:28:55",
-      "https://news.ycombinator.com/item?id=43634806"
-    ],
-    [
-      "Trump temporarily drops tariffs to 10% for most countries",
-      "https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-04-09, 09:34:16",
-      "https://news.ycombinator.com/item?id=43630388"
-    ],
-    [
-      "Hardening the Firefox Front End with Content Security Policies",
-      "https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html"
-    ]
-  ],
-  [
-    [
       "2025-04-07, 20:51:02",
       "https://news.ycombinator.com/item?id=43615805"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-04-07, 10:29:16",
-      "https://news.ycombinator.com/item?id=43609758"
-    ],
-    [
-      "Show HN: I turned GitHub contributions into a retro battle game",
-      "https://epicdevbattlesofhistory.com"
-    ]
-  ],
-  [
-    [
       "2025-04-07, 03:25:13",
       "https://news.ycombinator.com/item?id=43607325"
     ],
     [
       "Nix Derivations, Without Guessing",
       "https://bernsteinbear.com/blog/nix-by-hand/"
+    ]
+  ],
+  [
+    [
+      "2025-04-06, 13:25:14",
+      "https://news.ycombinator.com/item?id=43601282"
+    ],
+    [
+      "Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities",
+      "https://worldhistory.substack.com/p/how-strange-mens-weird-collections"
     ]
   ]
 ]
