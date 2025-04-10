@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-10, 18:21:45](https://news.ycombinator.com/item?id=43646698) - [Demystifying the (Shebang): Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
 * [2025-04-10, 17:58:02](https://news.ycombinator.com/item?id=43646466) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
 * [2025-04-10, 17:34:19](https://news.ycombinator.com/item?id=43646219) - [Big Book of R](https://www.bigbookofr.com/)
 * [2025-04-10, 17:21:03](https://news.ycombinator.com/item?id=43646095) - [Garfield Minus Garfield](https://garfieldminusgarfield.net)
@@ -10,7 +11,6 @@
 * [2025-04-10, 15:13:12](https://news.ycombinator.com/item?id=43644662) - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
 * [2025-04-10, 14:48:20](https://news.ycombinator.com/item?id=43644351) - [Show HN: Koreo – The platform engineering toolkit for Kubernetes](https://koreo.dev/)
 * [2025-04-10, 14:30:54](https://news.ycombinator.com/item?id=43644179) - [Isaac Asimov describes how AI will liberate humans and their creativity (1992)](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html)
-* [2025-04-10, 14:19:06](https://news.ycombinator.com/item?id=43644043) - [.localhost Domains](https://inclouds.space/localhost-domains)
 * [2025-04-10, 14:12:44](https://news.ycombinator.com/item?id=43643968) - [Arroyo (YC W23) has been acquired by Cloudflare](https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare)
 * [2025-04-10, 14:03:54](https://news.ycombinator.com/item?id=43643886) - [Usability Improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
 * [2025-04-10, 13:23:58](https://news.ycombinator.com/item?id=43643534) - [Busy Bar](https://busy.bar)
