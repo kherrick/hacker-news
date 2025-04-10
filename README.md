@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-10, 14:30:22](https://news.ycombinator.com/item?id=43644173) - [Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees](https://blog.cloudflare.com/r2-data-catalog-public-beta/)
+* [2025-04-10, 14:19:06](https://news.ycombinator.com/item?id=43644043) - [.localhost Domains](https://inclouds.space/localhost-domains)
 * [2025-04-10, 14:02:52](https://news.ycombinator.com/item?id=43643877) - [Flying Somewhere? You May Need That Real ID.](https://www.nytimes.com/2025/04/09/travel/real-id-deadline-what-to-know.html)
-* [2025-04-10, 13:50:15](https://news.ycombinator.com/item?id=43643761) - [Evidence of 22,000-year-old vehicles found at White Sands National Park](https://www.sfgate.com/national-parks/article/national-park-discovery-rewrites-human-history-20265734.php)
 * [2025-04-10, 13:23:58](https://news.ycombinator.com/item?id=43643534) - [Busy Bar](https://busy.bar)
 * [2025-04-10, 13:13:34](https://news.ycombinator.com/item?id=43643441) - [TVMC: Time-Varying Mesh Compression](https://github.com/SINRG-Lab/TVMC)
 * [2025-04-10, 13:07:08](https://news.ycombinator.com/item?id=43643390) - [Sleep is essential – researchers are trying to work out why](https://www.nature.com/articles/d41586-025-00964-w)
-* [2025-04-10, 13:06:41](https://news.ycombinator.com/item?id=43643387) - [Lawmakers are skeptical of Zuckerberg's commitment to free speech](https://www.theverge.com/news/646288/congress-zuckerberg-wynn-williams-careless-people)
 * [2025-04-10, 12:59:54](https://news.ycombinator.com/item?id=43643343) - [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/)
 * [2025-04-10, 12:56:05](https://news.ycombinator.com/item?id=43643312) - [Photon: Rust/WebAssembly image processing library](https://github.com/silvia-odwyer/photon)
 * [2025-04-10, 12:53:56](https://news.ycombinator.com/item?id=43643292) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
