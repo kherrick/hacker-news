@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-04-10, 13:15:14",
-      "https://news.ycombinator.com/item?id=43643455"
+      "2025-04-10, 14:02:52",
+      "https://news.ycombinator.com/item?id=43643877"
     ],
     [
-      "Google Releases Agent-to-Agent",
-      "https://google.github.io/A2A/#/"
+      "Flying Somewhere? You May Need That Real ID.",
+      "https://www.nytimes.com/2025/04/09/travel/real-id-deadline-what-to-know.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 13:50:15",
+      "https://news.ycombinator.com/item?id=43643761"
+    ],
+    [
+      "Evidence of 22,000-year-old vehicles found at White Sands National Park",
+      "https://www.sfgate.com/national-parks/article/national-park-discovery-rewrites-human-history-20265734.php"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 13:23:58",
+      "https://news.ycombinator.com/item?id=43643534"
+    ],
+    [
+      "Busy Bar",
+      "https://busy.bar"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Photon: Rust/WebAssembly image processing library",
       "https://github.com/silvia-odwyer/photon"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 12:53:56",
+      "https://news.ycombinator.com/item?id=43643292"
+    ],
+    [
+      "Elliptical Python Programming",
+      "https://susam.net/elliptical-python-programming.html"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-04-10, 02:38:42",
-      "https://news.ycombinator.com/item?id=43640115"
-    ],
-    [
-      "Dice and Queues",
-      "https://justincartwright.com/2025/02/25/dice-and-queues.html"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 01:05:30",
       "https://news.ycombinator.com/item?id=43639642"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2025-04-09, 14:12:47",
-      "https://news.ycombinator.com/item?id=43632379"
-    ],
-    [
-      "The chroot Technique – a Swiss army multitool for Linux systems",
-      "https://livesys.se/posts/the-chroot-technique/"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 13:27:30",
       "https://news.ycombinator.com/item?id=43631822"
     ],
     [
       "SpacetimeDB",
       "https://spacetimedb.com/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 13:10:44",
-      "https://news.ycombinator.com/item?id=43631656"
-    ],
-    [
-      "Quality-of-Life in Tetris Games",
-      "https://jcarlosroldan.com/post/355"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2025-04-08, 09:43:11",
+      "https://news.ycombinator.com/item?id=43619884"
+    ],
+    [
+      "smartfunc: Turn Docstrings into LLM-Functions",
+      "https://github.com/koaning/smartfunc"
+    ]
+  ],
+  [
+    [
       "2025-04-08, 08:10:06",
       "https://news.ycombinator.com/item?id=43619437"
     ],
     [
       "Native frame transposition coming to Emacs 31",
       "https://p.bauherren.ovh/blog/tech/new_window_cmds"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 21:54:07",
-      "https://news.ycombinator.com/item?id=43616356"
-    ],
-    [
-      "Like cursor, but for blogging: a weekend project",
-      "https://www.maximepeabody.com/blog/ai-tools-for-writing-blog-posts"
     ]
   ],
   [
