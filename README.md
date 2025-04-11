@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-11, 18:47:03](https://news.ycombinator.com/item?id=43657079) - [Social Security Administration Moving Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
 * [2025-04-11, 18:01:33](https://news.ycombinator.com/item?id=43656609) - [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
 * [2025-04-11, 17:27:39](https://news.ycombinator.com/item?id=43656279) - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
 * [2025-04-11, 17:00:43](https://news.ycombinator.com/item?id=43656007) - [Mosaic (YC W25) is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
@@ -8,7 +9,6 @@
 * [2025-04-11, 16:16:07](https://news.ycombinator.com/item?id=43655505) - [Ask HN: Has anyone quit their startup (VC-backed) over cofounder disagreements?](https://news.ycombinator.com/item?id=43655505)
 * [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh's Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
-* [2025-04-11, 15:26:53](https://news.ycombinator.com/item?id=43654932) - [Agency vs. Control vs. Reliability in Agent Design](https://fin.ai/research/agency-control-reliability-the-tradeoffs-in-customer-support-agents/)
 * [2025-04-11, 15:25:13](https://news.ycombinator.com/item?id=43654912) - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
 * [2025-04-11, 15:22:35](https://news.ycombinator.com/item?id=43654881) - [Rust CUDA Project](https://github.com/Rust-GPU/Rust-CUDA)
 * [2025-04-11, 15:18:21](https://news.ycombinator.com/item?id=43654813) - [WebRTC for the Curious](https://webrtcforthecurious.com)
