@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-11, 07:01:16](https://news.ycombinator.com/item?id=43651215) - [MediSearch (YC S23) Is Hiring a Founding Engineer in Central Europe](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack)
 * [2025-04-11, 05:37:46](https://news.ycombinator.com/item?id=43650792) - [Deno Under TinyKVM in Varnish](https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno)
 * [2025-04-11, 05:05:33](https://news.ycombinator.com/item?id=43650656) - [Playing in the Creek](https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek)
 * [2025-04-11, 02:14:13](https://news.ycombinator.com/item?id=43649853) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
@@ -8,7 +9,6 @@
 * [2025-04-11, 01:36:45](https://news.ycombinator.com/item?id=43649618) - [Crystal 1.16.0](https://crystal-lang.org/2025/04/09/1.16.0-released/)
 * [2025-04-10, 23:58:41](https://news.ycombinator.com/item?id=43649088) - [systemd ParticleOS](https://github.com/systemd/particleos)
 * [2025-04-10, 23:36:54](https://news.ycombinator.com/item?id=43648950) - [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
-* [2025-04-10, 22:23:48](https://news.ycombinator.com/item?id=43648593) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-10, 21:24:28](https://news.ycombinator.com/item?id=43648145) - [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
