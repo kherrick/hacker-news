@@ -15,6 +15,7 @@
 * [2025-04-07, 21:10:32](https://news.ycombinator.com/item?id=43615986) - [A Supermarket Bag and a Truckload of FOMO](https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend)
 * [2025-04-07, 21:04:03](https://news.ycombinator.com/item?id=43615925) - [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
 * [2025-04-07, 21:03:16](https://news.ycombinator.com/item?id=43615912) - [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
+* [2025-04-07, 20:55:27](https://news.ycombinator.com/item?id=43615844) - [The movie that's different every time you watch it](https://movieweb.com/eno-documentary-movie-different-every-time/)
 * [2025-04-07, 20:51:02](https://news.ycombinator.com/item?id=43615805) - [Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)
 * [2025-04-07, 20:28:59](https://news.ycombinator.com/item?id=43615624) - [In React {Transitions} = F(state)](https://jordaneldredge.com/blog/transitions-f-of-state/)
 * [2025-04-07, 20:03:08](https://news.ycombinator.com/item?id=43615346) - [Why Companies Don't Fix Bugs](https://idiallo.com/blog/companies-dont-fix-bugs)

@@ -4,4 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 02:14:13](https://news.ycombinator.com/item?id=43649853) - [Default styles for H1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
+* [2025-04-11, 01:42:51](https://news.ycombinator.com/item?id=43649665) - [Tesla Canada says its shady $43M incentive grab was a misunderstanding](https://electrek.co/2025/04/09/tesla-canada-says-its-shady-43-million-incentive-grab-was-a-misunderstanding/)
+* [2025-04-11, 01:36:45](https://news.ycombinator.com/item?id=43649618) - [Crystal 1.16.0 Is Released](https://crystal-lang.org/2025/04/09/1.16.0-released/)
 * [2025-04-11, 00:22:45](https://news.ycombinator.com/item?id=43649218) - [Eight or more drinks per week linked to brain lesions](https://www.aan.com/PressRoom/Home/PressRelease/5251)
