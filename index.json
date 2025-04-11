@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-11, 08:04:33",
+      "https://news.ycombinator.com/item?id=43651489"
+    ],
+    [
+      "The thing about Europe: it's the actual land of the free now",
+      "https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 07:59:23",
+      "https://news.ycombinator.com/item?id=43651458"
+    ],
+    [
+      "Mastodon Exit Interview",
+      "https://v.cx/2025/04/mastodon-exit-interview"
+    ]
+  ],
+  [
+    [
       "2025-04-11, 07:41:33",
       "https://news.ycombinator.com/item?id=43651390"
     ],
@@ -67,16 +87,6 @@
     [
       "Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC",
       "https://yomaq.github.io/posts/nvidia-on-nixos-wsl-ollama-up-24-7-on-your-gaming-pc/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 01:36:45",
-      "https://news.ycombinator.com/item?id=43649618"
-    ],
-    [
-      "Crystal 1.16.0",
-      "https://crystal-lang.org/2025/04/09/1.16.0-released/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-04-10, 15:54:50",
-      "https://news.ycombinator.com/item?id=43645183"
-    ],
-    [
-      "SDL2 for macOS 9 “rough draft”",
-      "https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 15:35:04",
       "https://news.ycombinator.com/item?id=43644970"
     ],
@@ -207,16 +207,6 @@
     [
       "Show HN: Koreo – A platform engineering toolkit for Kubernetes",
       "https://koreo.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 14:19:06",
-      "https://news.ycombinator.com/item?id=43644043"
-    ],
-    [
-      ".localhost Domains",
-      "https://inclouds.space/localhost-domains"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Levitating Bugs with Sound Could Transform Scientific Photography",
       "https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 12:00:51",
+      "https://news.ycombinator.com/item?id=43620676"
+    ],
+    [
+      "Remember FastCGI? (2021)",
+      "https://brokenco.de/2021/06/27/remember-fastcgi.html"
     ]
   ],
   [
