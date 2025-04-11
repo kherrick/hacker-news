@@ -6,6 +6,7 @@
 
 * [2025-04-11, 14:10:38](https://news.ycombinator.com/item?id=43653998) - [She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her](https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html)
 * [2025-04-11, 14:04:11](https://news.ycombinator.com/item?id=43653922) - [Browser extensions put 4M users at risk of cookie exposure](https://secureannex.com/blog/searching-for-something-unknow/)
+* [2025-04-11, 14:01:06](https://news.ycombinator.com/item?id=43653885) - [Adobe Deletes Bluesky Posts After Furious Backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
 * [2025-04-11, 13:40:26](https://news.ycombinator.com/item?id=43653672) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
 * [2025-04-11, 13:35:12](https://news.ycombinator.com/item?id=43653611) - [Carnegie Mellon student with one semester left learns his visa was revoked](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/)
 * [2025-04-11, 13:23:13](https://news.ycombinator.com/item?id=43653490) - [No code is dead. Long live vibe coding](https://kenneth.io/post/no-code-is-dead-long-live-vibe-coding)
