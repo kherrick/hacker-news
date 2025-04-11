@@ -86,6 +86,7 @@
 * [2025-04-09, 05:24:17](https://news.ycombinator.com/item?id=43629127) - [Nintendo confirms you will have to pay to use the Switch 2's C button](https://www.polygon.com/nintendo-switch-2/553458/switch-2-nintendo-confirms-c-button-price)
 * [2025-04-09, 05:08:58](https://news.ycombinator.com/item?id=43629058) - [DeepCoder: An Open-Source 14B Coder at O3-Mini Level](https://www.together.ai/blog/deepcoder)
 * [2025-04-09, 03:00:01](https://news.ycombinator.com/item?id=43628500) - [NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
+* [2025-04-09, 01:27:48](https://news.ycombinator.com/item?id=43628070) - [Blue Prince Is a Roguelike Puzzle Masterpiece](https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/)
 * [2025-04-09, 01:21:22](https://news.ycombinator.com/item?id=43628037) - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
 * [2025-04-09, 01:20:13](https://news.ycombinator.com/item?id=43628028) - [NNN: Next-Generation Neural Networks for Marketing Mix Modeling](https://arxiv.org/abs/2504.06212)
 * [2025-04-09, 00:55:31](https://news.ycombinator.com/item?id=43627917) - [Cells are swapping their mitochondria. What does this mean for our health?](https://www.nature.com/articles/d41586-025-01064-5)
