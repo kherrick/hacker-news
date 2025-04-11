@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-11, 14:01:06](https://news.ycombinator.com/item?id=43653885) - [Adobe Deletes Bluesky Posts After Furious Backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
+* [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh's Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
+* [2025-04-11, 14:10:38](https://news.ycombinator.com/item?id=43653998) - [She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her](https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html)
 * [2025-04-11, 13:40:26](https://news.ycombinator.com/item?id=43653672) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
 * [2025-04-11, 12:56:02](https://news.ycombinator.com/item?id=43653251) - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
 * [2025-04-11, 12:23:13](https://news.ycombinator.com/item?id=43653004) - [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)
@@ -21,7 +22,6 @@
 * [2025-04-10, 18:21:45](https://news.ycombinator.com/item?id=43646698) - [Demystifying the (Shebang): Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
 * [2025-04-10, 17:34:19](https://news.ycombinator.com/item?id=43646219) - [Big Book of R](https://www.bigbookofr.com/)
 * [2025-04-10, 17:21:03](https://news.ycombinator.com/item?id=43646095) - [Garfield Minus Garfield](https://garfieldminusgarfield.net)
-* [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:13:12](https://news.ycombinator.com/item?id=43644662) - [2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
 * [2025-04-08, 18:40:23](https://news.ycombinator.com/item?id=43625139) - [Clojure: Realtime collaborative web apps without ClojureScript](https://andersmurphy.com/2025/04/07/clojure-realtime-collaborative-web-apps-without-clojurescript.html)
 * [2025-04-08, 18:13:47](https://news.ycombinator.com/item?id=43624799) - [3D Army Land Navigation Courses](https://oe.tradoc.army.mil/oegames/landnav/index.html)
