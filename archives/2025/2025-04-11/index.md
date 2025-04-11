@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 14:10:38](https://news.ycombinator.com/item?id=43653998) - [She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her](https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html)
 * [2025-04-11, 13:35:12](https://news.ycombinator.com/item?id=43653611) - [Carnegie Mellon student with one semester left learns his visa was revoked](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/)
 * [2025-04-11, 13:23:13](https://news.ycombinator.com/item?id=43653490) - [No code is dead. Long live vibe coding](https://kenneth.io/post/no-code-is-dead-long-live-vibe-coding)
 * [2025-04-11, 12:56:02](https://news.ycombinator.com/item?id=43653251) - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
