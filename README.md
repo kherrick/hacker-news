@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-11, 08:15:57](https://news.ycombinator.com/item?id=43651532) - [Why lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
 * [2025-04-11, 07:59:23](https://news.ycombinator.com/item?id=43651458) - [Mastodon Exit Interview](https://v.cx/2025/04/mastodon-exit-interview)
 * [2025-04-11, 07:41:33](https://news.ycombinator.com/item?id=43651390) - [Live Map of the London Underground](https://www.londonunderground.live/)
 * [2025-04-11, 07:01:16](https://news.ycombinator.com/item?id=43651215) - [MediSearch (YC S23) Is Hiring a Founding Engineer in Central Europe](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack)
@@ -20,7 +21,6 @@
 * [2025-04-10, 15:35:04](https://news.ycombinator.com/item?id=43644970) - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
 * [2025-04-10, 15:13:12](https://news.ycombinator.com/item?id=43644662) - [2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
 * [2025-04-10, 14:48:20](https://news.ycombinator.com/item?id=43644351) - [Show HN: Koreo – A platform engineering toolkit for Kubernetes](https://koreo.dev/)
-* [2025-04-10, 14:19:06](https://news.ycombinator.com/item?id=43644043) - [.localhost Domains](https://inclouds.space/localhost-domains)
 * [2025-04-08, 18:40:23](https://news.ycombinator.com/item?id=43625139) - [Clojure: Realtime collaborative web apps without ClojureScript](https://andersmurphy.com/2025/04/07/clojure-realtime-collaborative-web-apps-without-clojurescript.html)
 * [2025-04-08, 18:13:47](https://news.ycombinator.com/item?id=43624799) - [3D Army Land Navigation Courses](https://oe.tradoc.army.mil/oegames/landnav/index.html)
 * [2025-04-08, 17:16:14](https://news.ycombinator.com/item?id=43624135) - [Researchers discover why plastic sheds dangerous fragments](https://www.sciencedaily.com/releases/2025/04/250407172923.htm)
