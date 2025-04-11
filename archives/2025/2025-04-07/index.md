@@ -66,6 +66,7 @@
 * [2025-04-07, 06:51:51](https://news.ycombinator.com/item?id=43608555) - [Messier Marathon](https://en.wikipedia.org/wiki/Messier_marathon)
 * [2025-04-07, 06:51:19](https://news.ycombinator.com/item?id=43608551) - [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 * [2025-04-07, 06:27:03](https://news.ycombinator.com/item?id=43608422) - [The Difference Between Municipal Fire Trucks and Airport Fire Trucks](https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks)
+* [2025-04-07, 06:18:10](https://news.ycombinator.com/item?id=43608377) - [Atari Missile Command Game Built Using AI Gemini 2.5 Pro](https://missile-command-game.centminmod.com/)
 * [2025-04-07, 05:08:05](https://news.ycombinator.com/item?id=43607929) - [CDC's top laboratory on STDs is shut by Trump administration](https://www.statnews.com/2025/04/05/cdc-sexually-transmitted-diseases-laboratory-closed-by-trump-administration/)
 * [2025-04-07, 05:03:45](https://news.ycombinator.com/item?id=43607906) - [PHP isn't dead. Laravel is just bloated. Here's what I made instead](https://github.com/jeremie5/dataphyre)
 * [2025-04-07, 05:01:58](https://news.ycombinator.com/item?id=43607893) - [Open-Source Is Just That](https://vale.rocks/posts/open-source-entitlement)
