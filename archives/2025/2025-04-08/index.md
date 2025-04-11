@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
 * [2025-04-08, 23:07:14](https://news.ycombinator.com/item?id=43627354) - [Deep Research is now available on Gemini 2.5 Pro Experimental](https://blog.google/products/gemini/deep-research-gemini-2-5-pro-experimental/)
+* [2025-04-08, 22:58:55](https://news.ycombinator.com/item?id=43627300) - [Titanic digital scan reveals new details of ship's final hours](https://www.bbc.com/news/articles/cwy6gjwd0g6o)
 * [2025-04-08, 22:46:30](https://news.ycombinator.com/item?id=43627219) - [Fictitious Name Permit](https://www.mbc.ca.gov/Licensing/Fictitious-Name-Permit/)
 * [2025-04-08, 22:25:43](https://news.ycombinator.com/item?id=43627075) - [Trump, Doge Are Trying to Get Around Privacy Laws to Gather Your Personal Info](https://www.rollingstone.com/politics/politics-features/trump-musk-doge-privacy-personal-info-data-social-security-1235312853/)
 * [2025-04-08, 22:24:53](https://news.ycombinator.com/item?id=43627072) - [Mario Kart $80 price isn't that high, historically](https://arstechnica.com/gaming/2025/04/will-mario-kart-worlds-80-price-become-gamings-new-normal/)

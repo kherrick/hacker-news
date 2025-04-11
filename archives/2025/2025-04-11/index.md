@@ -6,6 +6,8 @@
 
 * [2025-04-11, 17:27:39](https://news.ycombinator.com/item?id=43656279) - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
 * [2025-04-11, 17:00:43](https://news.ycombinator.com/item?id=43656007) - [Mosaic (YC W25) is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
+* [2025-04-11, 16:53:20](https://news.ycombinator.com/item?id=43655914) - [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
+* [2025-04-11, 16:24:58](https://news.ycombinator.com/item?id=43655603) - [Leaked Meta data reveals massive campaign to remove pro-Palestine posts](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta)
 * [2025-04-11, 16:16:07](https://news.ycombinator.com/item?id=43655505) - [Ask HN: Has anyone quit their startup (VC-backed) over cofounder disagreements?](https://news.ycombinator.com/item?id=43655505)
 * [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh's Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
