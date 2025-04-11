@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2025-04-11, 19:07:41",
+      "https://news.ycombinator.com/item?id=43657327"
+    ],
+    [
+      "Stop using e for compound interest",
+      "https://blog.danielh.cc/blog/e"
+    ]
+  ],
+  [
+    [
       "2025-04-11, 18:47:03",
       "https://news.ycombinator.com/item?id=43657079"
     ],
     [
       "Social Security Administration Moving Public Communications to X",
       "https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 18:16:27",
-      "https://news.ycombinator.com/item?id=43656725"
-    ],
-    [
-      "Show HN: Lunon – Instant model switching across LLMs",
-      "https://lunon.com/"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-04-11, 15:29:10",
-      "https://news.ycombinator.com/item?id=43654971"
-    ],
-    [
-      "Evelyn Waugh's Decadent Redemption",
-      "https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 15:25:13",
       "https://news.ycombinator.com/item?id=43654912"
     ],
@@ -145,8 +135,18 @@
       "https://news.ycombinator.com/item?id=43654279"
     ],
     [
-      "WordPress launches new free AI website builder",
+      "Our New AI Website Builder",
       "https://wordpress.com/blog/2025/04/09/ai-website-builder/"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 14:01:06",
+      "https://news.ycombinator.com/item?id=43653885"
+    ],
+    [
+      "Adobe deletes Bluesky posts after backlash",
+      "https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/"
     ]
   ],
   [
@@ -181,22 +181,32 @@
   ],
   [
     [
-      "2025-04-11, 09:49:56",
-      "https://news.ycombinator.com/item?id=43652160"
-    ],
-    [
-      "How to Make a Longbow",
-      "https://www.howtomakealongbow.co.uk"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 09:27:08",
       "https://news.ycombinator.com/item?id=43652024"
     ],
     [
       "Strengths Are Your Weaknesses",
       "https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 08:26:14",
+      "https://news.ycombinator.com/item?id=43651576"
+    ],
+    [
+      "Why I Program in Lisp",
+      "http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 08:15:57",
+      "https://news.ycombinator.com/item?id=43651532"
+    ],
+    [
+      "Lead is still bad for your brain",
+      "https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/"
     ]
   ],
   [
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2025-04-10, 22:48:37",
-      "https://news.ycombinator.com/item?id=43648713"
+      "2025-04-11, 02:14:13",
+      "https://news.ycombinator.com/item?id=43649853"
     ],
     [
-      "Show HN: Time Travel with Your SQL",
-      "https://news.ycombinator.com/item?id=43648713"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 20:47:01",
-      "https://news.ycombinator.com/item?id=43647880"
-    ],
-    [
-      "The Story Behind “100 Go Mistakes and How to Avoid Them”",
-      "https://www.thecoder.cafe/p/100-go-mistakes"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 17:34:19",
-      "https://news.ycombinator.com/item?id=43646219"
-    ],
-    [
-      "Big Book of R",
-      "https://www.bigbookofr.com/"
+      "Default styles for h1 elements are changing",
+      "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
     ]
   ],
   [
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=43622514"
     ],
     [
-      "We clone a running VM in 2 seconds",
+      "We clone a running VM in 2 seconds (2022)",
       "https://codesandbox.io/blog/how-we-clone-a-running-vm-in-2-seconds"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "A 32-bit processor made with an atomically thin semiconductor",
       "https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 06:54:36",
+      "https://news.ycombinator.com/item?id=43619032"
+    ],
+    [
+      "Intentionally Making Close Friends (2021)",
+      "https://www.neelnanda.io/blog/43-making-friends"
     ]
   ],
   [
