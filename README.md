@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-11, 20:23:21](https://news.ycombinator.com/item?id=43658119) - [The Mystery of ICE's Unidentifiable Arrests](https://www.newyorker.com/news/the-lede/the-mystery-of-ices-unidentifiable-arrests)
+* [2025-04-11, 20:52:39](https://news.ycombinator.com/item?id=43658420) - [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
 * [2025-04-11, 20:19:39](https://news.ycombinator.com/item?id=43658093) - [You Might Think of Shrimp as Bugs of the Sea: But Bugs Are Shrimp of the Land](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
 * [2025-04-11, 20:16:13](https://news.ycombinator.com/item?id=43658060) - [Germany creates 'super–high-tech ministry' for research, technology, aerospace](https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace)
 * [2025-04-11, 19:13:10](https://news.ycombinator.com/item?id=43657377) - [Mark Klein, a Whistleblower Who Revealed Domestic Spying, Dies at 79](https://www.wsj.com/us-news/mark-klein-whistleblower-dies-73f434c7)
-* [2025-04-11, 19:07:41](https://news.ycombinator.com/item?id=43657327) - [Stop using e for compound interest](https://blog.danielh.cc/blog/e)
 * [2025-04-11, 18:47:03](https://news.ycombinator.com/item?id=43657079) - [Social Security Administration Moving Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
 * [2025-04-11, 18:01:33](https://news.ycombinator.com/item?id=43656609) - [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
 * [2025-04-11, 17:27:39](https://news.ycombinator.com/item?id=43656279) - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
@@ -29,6 +28,7 @@
 * [2025-04-10, 13:16:25](https://news.ycombinator.com/item?id=43643467) - [Once Lush Sahara Was Home to a Surprisingly Unique Group of Humans](https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans)
 * [2025-04-09, 01:27:48](https://news.ycombinator.com/item?id=43628070) - [Blue Prince Is a Roguelike Puzzle Masterpiece](https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/)
 * [2025-04-08, 13:08:49](https://news.ycombinator.com/item?id=43621378) - [A 32-bit processor made with an atomically thin semiconductor](https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/)
+* [2025-04-08, 06:54:36](https://news.ycombinator.com/item?id=43619032) - [Intentionally Making Close Friends (2021)](https://www.neelnanda.io/blog/43-making-friends)
 * [2025-04-07, 15:51:21](https://news.ycombinator.com/item?id=43612835) - [Bonobos use a kind of syntax once thought to be unique to humans](https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 20:52:39](https://news.ycombinator.com/item?id=43658420) - [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
 * [2025-04-11, 20:23:21](https://news.ycombinator.com/item?id=43658119) - [The Mystery of ICE's Unidentifiable Arrests](https://www.newyorker.com/news/the-lede/the-mystery-of-ices-unidentifiable-arrests)
 * [2025-04-11, 20:19:39](https://news.ycombinator.com/item?id=43658093) - [You Might Think of Shrimp as Bugs of the Sea: But Bugs Are Shrimp of the Land](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
 * [2025-04-11, 20:16:13](https://news.ycombinator.com/item?id=43658060) - [Germany creates 'super–high-tech ministry' for research, technology, aerospace](https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace)
