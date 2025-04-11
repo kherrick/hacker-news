@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-11, 05:37:46",
+      "https://news.ycombinator.com/item?id=43650792"
+    ],
+    [
+      "Deno Under TinyKVM in Varnish",
+      "https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 05:05:33",
+      "https://news.ycombinator.com/item?id=43650656"
+    ],
+    [
+      "Playing in the Creek",
+      "https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek"
+    ]
+  ],
+  [
+    [
       "2025-04-11, 02:14:13",
       "https://news.ycombinator.com/item?id=43649853"
     ],
@@ -41,22 +61,22 @@
   ],
   [
     [
+      "2025-04-10, 23:58:41",
+      "https://news.ycombinator.com/item?id=43649088"
+    ],
+    [
+      "systemd ParticleOS",
+      "https://github.com/systemd/particleos"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 23:36:54",
       "https://news.ycombinator.com/item?id=43648950"
     ],
     [
       "Fintech founder charged with fraud; AI app found to be humans in the Philippines",
       "https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 23:24:51",
-      "https://news.ycombinator.com/item?id=43648890"
-    ],
-    [
-      "Black Mirror's pessimism porn won't lead us to a better future",
-      "https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-04-10, 12:53:56",
-      "https://news.ycombinator.com/item?id=43643292"
-    ],
-    [
-      "Elliptical Python Programming",
-      "https://susam.net/elliptical-python-programming.html"
-    ]
-  ],
-  [
-    [
       "2025-04-08, 18:40:23",
       "https://news.ycombinator.com/item?id=43625139"
     ],
@@ -257,16 +267,6 @@
     [
       "Levitating Bugs with Sound Could Transform Scientific Photography",
       "https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 22:30:45",
-      "https://news.ycombinator.com/item?id=43616649"
-    ],
-    [
-      "A surprising enum size optimization in the Rust compiler",
-      "https://jpfennell.com/posts/enum-type-size/"
     ]
   ],
   [
