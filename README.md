@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:25:13](https://news.ycombinator.com/item?id=43654912) - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
 * [2025-04-11, 13:40:26](https://news.ycombinator.com/item?id=43653672) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
-* [2025-04-11, 13:16:46](https://news.ycombinator.com/item?id=43653421) - [Windows 2000 Server named peak Microsoft. Readers say all downhill since Clippy](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/)
 * [2025-04-11, 12:56:02](https://news.ycombinator.com/item?id=43653251) - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
 * [2025-04-11, 12:23:13](https://news.ycombinator.com/item?id=43653004) - [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)
 * [2025-04-11, 12:01:12](https://news.ycombinator.com/item?id=43652865) - [Roame (YC S23) Is Hiring: Founding Product Designer](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer)
@@ -15,7 +15,6 @@
 * [2025-04-11, 05:05:33](https://news.ycombinator.com/item?id=43650656) - [Playing in the Creek](https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek)
 * [2025-04-11, 02:14:13](https://news.ycombinator.com/item?id=43649853) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 * [2025-04-11, 02:05:19](https://news.ycombinator.com/item?id=43649783) - [A port of Mbed-TLS for the Classic Macintosh OS 7/8/9](https://github.com/bbenchoff/MacSSL)
-* [2025-04-10, 23:36:54](https://news.ycombinator.com/item?id=43648950) - [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
 * [2025-04-10, 22:48:37](https://news.ycombinator.com/item?id=43648713) - [Show HN: Time Travel with Your SQL](https://news.ycombinator.com/item?id=43648713)
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
@@ -28,6 +27,7 @@
 * [2025-04-08, 17:41:24](https://news.ycombinator.com/item?id=43624430) - [DDoS Mitigation Leak](https://www.kentik.com/blog/beyond-their-intended-scope-ddos-mitigation-leak/)
 * [2025-04-08, 14:55:27](https://news.ycombinator.com/item?id=43622514) - [We clone a running VM in 2 seconds](https://codesandbox.io/blog/how-we-clone-a-running-vm-in-2-seconds)
 * [2025-04-08, 14:04:43](https://news.ycombinator.com/item?id=43621926) - [An unused nuclear power plant became home to a world-class acoustics lab](https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab)
+* [2025-04-07, 19:40:39](https://news.ycombinator.com/item?id=43615095) - [Severance: A closer look into the mid-century, brutalist universe of Lumon](https://www.designboom.com/design/severance-closer-look-mid-century-brutalist-retro-futuristic-universe-lumon-03-21-2025/)
 * [2025-04-07, 16:53:08](https://news.ycombinator.com/item?id=43613463) - [Gemini Live with camera and screen sharing capabilities](https://blog.google/products/gemini/gemini-live-android-tips/)
 * [2025-04-07, 15:51:21](https://news.ycombinator.com/item?id=43612835) - [Bonobos use a kind of syntax once thought to be unique to humans](https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/)
 

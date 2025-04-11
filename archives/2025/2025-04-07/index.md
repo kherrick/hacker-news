@@ -20,6 +20,7 @@
 * [2025-04-07, 20:28:59](https://news.ycombinator.com/item?id=43615624) - [In React {Transitions} = F(state)](https://jordaneldredge.com/blog/transitions-f-of-state/)
 * [2025-04-07, 20:03:08](https://news.ycombinator.com/item?id=43615346) - [Why Companies Don't Fix Bugs](https://idiallo.com/blog/companies-dont-fix-bugs)
 * [2025-04-07, 20:00:58](https://news.ycombinator.com/item?id=43615322) - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
+* [2025-04-07, 19:40:39](https://news.ycombinator.com/item?id=43615095) - [Severance: A closer look into the mid-century, brutalist universe of Lumon](https://www.designboom.com/design/severance-closer-look-mid-century-brutalist-retro-futuristic-universe-lumon-03-21-2025/)
 * [2025-04-07, 18:46:43](https://news.ycombinator.com/item?id=43614592) - [Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/)
 * [2025-04-07, 18:44:17](https://news.ycombinator.com/item?id=43614582) - [Show HN: Minimal MCP server in Go showcasing project architecture](https://github.com/TuanKiri/weather-mcp-server)
 * [2025-04-07, 18:38:36](https://news.ycombinator.com/item?id=43614546) - [John Carmack on AI in game programming](https://twitter.com/ID_AA_Carmack/status/1909311174845329874)

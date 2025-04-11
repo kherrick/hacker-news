@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh's Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
 * [2025-04-11, 15:25:13](https://news.ycombinator.com/item?id=43654912) - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
 * [2025-04-11, 14:10:38](https://news.ycombinator.com/item?id=43653998) - [She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her](https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html)
