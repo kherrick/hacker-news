@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-11, 07:41:33](https://news.ycombinator.com/item?id=43651390) - [Live Map of the London Underground](https://www.londonunderground.live/)
 * [2025-04-11, 07:01:16](https://news.ycombinator.com/item?id=43651215) - [MediSearch (YC S23) Is Hiring a Founding Engineer in Central Europe](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack)
 * [2025-04-11, 05:37:46](https://news.ycombinator.com/item?id=43650792) - [Deno Under TinyKVM in Varnish](https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno)
 * [2025-04-11, 05:05:33](https://news.ycombinator.com/item?id=43650656) - [Playing in the Creek](https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek)
@@ -14,7 +15,6 @@
 * [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [2025-04-10, 18:43:56](https://news.ycombinator.com/item?id=43646920) - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
 * [2025-04-10, 18:21:45](https://news.ycombinator.com/item?id=43646698) - [Demystifying the (Shebang): Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
-* [2025-04-10, 17:58:02](https://news.ycombinator.com/item?id=43646466) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
 * [2025-04-10, 17:34:19](https://news.ycombinator.com/item?id=43646219) - [Big Book of R](https://www.bigbookofr.com/)
 * [2025-04-10, 17:21:03](https://news.ycombinator.com/item?id=43646095) - [Garfield Minus Garfield](https://garfieldminusgarfield.net)
 * [2025-04-10, 15:54:50](https://news.ycombinator.com/item?id=43645183) - [SDL2 for macOS 9 “rough draft”](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft)
