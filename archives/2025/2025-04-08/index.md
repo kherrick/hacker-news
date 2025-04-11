@@ -32,6 +32,7 @@
 * [2025-04-08, 12:38:34](https://news.ycombinator.com/item?id=43621021) - [Levitating Bugs with Sound Could Transform Scientific Photography](https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/)
 * [2025-04-08, 12:36:53](https://news.ycombinator.com/item?id=43621007) - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
 * [2025-04-08, 12:21:48](https://news.ycombinator.com/item?id=43620859) - [Doge using AI to snoop on U.S. federal workers, sources say](https://www.reuters.com/technology/artificial-intelligence/musks-doge-using-ai-snoop-us-federal-workers-sources-say-2025-04-08/)
+* [2025-04-08, 12:00:51](https://news.ycombinator.com/item?id=43620676) - [Remember FastCGI? (2021)](https://brokenco.de/2021/06/27/remember-fastcgi.html)
 * [2025-04-08, 11:32:10](https://news.ycombinator.com/item?id=43620471) - [Show HN: Badgeify – Add Any App to Your Mac Menu Bar](https://badgeify.app/)
 * [2025-04-08, 11:29:07](https://news.ycombinator.com/item?id=43620452) - [Meta got caught gaming AI benchmarks](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming)
 * [2025-04-08, 11:23:02](https://news.ycombinator.com/item?id=43620407) - [What if we taxed advertising?](https://matthewsinclair.com/blog/0177-what-if-we-taxed-advertising)

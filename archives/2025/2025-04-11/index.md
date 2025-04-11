@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 08:04:33](https://news.ycombinator.com/item?id=43651489) - [The thing about Europe: it's the actual land of the free now](https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now)
+* [2025-04-11, 07:59:23](https://news.ycombinator.com/item?id=43651458) - [Mastodon Exit Interview](https://v.cx/2025/04/mastodon-exit-interview)
 * [2025-04-11, 07:41:33](https://news.ycombinator.com/item?id=43651390) - [Live Map of the London Underground](https://www.londonunderground.live/)
 * [2025-04-11, 07:01:16](https://news.ycombinator.com/item?id=43651215) - [MediSearch (YC S23) Is Hiring a Founding Engineer in Central Europe](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack)
 * [2025-04-11, 05:37:46](https://news.ycombinator.com/item?id=43650792) - [Deno Under TinyKVM in Varnish](https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno)
