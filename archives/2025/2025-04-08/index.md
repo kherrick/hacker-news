@@ -28,6 +28,7 @@
 * [2025-04-08, 15:10:29](https://news.ycombinator.com/item?id=43622703) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
 * [2025-04-08, 15:01:34](https://news.ycombinator.com/item?id=43622586) - [Nearly $13M stolen from Abracadabra Finance in crypto heist](https://therecord.media/nearly-thirteen-million-stolen-abracadabra)
 * [2025-04-08, 14:11:40](https://news.ycombinator.com/item?id=43622010) - [The Austrian Cigarette Collection](http://www.zigsam.at)
+* [2025-04-08, 14:04:43](https://news.ycombinator.com/item?id=43621926) - [An unused nuclear power plant became home to a world-class acoustics lab](https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab)
 * [2025-04-08, 13:07:02](https://news.ycombinator.com/item?id=43621350) - [Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles](https://gitmatcher.com/)
 * [2025-04-08, 12:38:34](https://news.ycombinator.com/item?id=43621021) - [Levitating Bugs with Sound Could Transform Scientific Photography](https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/)
 * [2025-04-08, 12:36:53](https://news.ycombinator.com/item?id=43621007) - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
