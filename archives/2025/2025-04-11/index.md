@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 19:20:30](https://news.ycombinator.com/item?id=43657465) - [Education Secretary Wants 'A1' in Classrooms](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380)
 * [2025-04-11, 19:13:10](https://news.ycombinator.com/item?id=43657377) - [Mark Klein, a Whistleblower Who Revealed Domestic Spying, Dies at 79](https://www.wsj.com/us-news/mark-klein-whistleblower-dies-73f434c7)
 * [2025-04-11, 18:47:03](https://news.ycombinator.com/item?id=43657079) - [Social Security Administration Moving Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
 * [2025-04-11, 18:31:20](https://news.ycombinator.com/item?id=43656893) - [US tells government employees to report on one another for \"anti-Christian bias\"](https://www.politico.com/news/2025/04/11/state-report-anti-christian-bias-033535)
 * [2025-04-11, 18:31:10](https://news.ycombinator.com/item?id=43656890) - [US President endorses bill to lock the clocks in current Daylight Savings Time](https://flvoicenews.com/trump-endorses-rick-scotts-bill-to-lock-the-clocks-in-current-daylight-savings-time/)
+* [2025-04-11, 18:16:27](https://news.ycombinator.com/item?id=43656725) - [Show HN: Lunon – Instant model switching across LLMs](https://lunon.com/)
 * [2025-04-11, 18:01:33](https://news.ycombinator.com/item?id=43656609) - [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
 * [2025-04-11, 17:27:39](https://news.ycombinator.com/item?id=43656279) - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
 * [2025-04-11, 17:00:43](https://news.ycombinator.com/item?id=43656007) - [Mosaic (YC W25) is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
