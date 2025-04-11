@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-11, 00:22:45",
+      "https://news.ycombinator.com/item?id=43649218"
+    ],
+    [
+      "Eight or more drinks per week linked to brain lesions",
+      "https://www.aan.com/PressRoom/Home/PressRelease/5251"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 23:36:54",
+      "https://news.ycombinator.com/item?id=43648950"
+    ],
+    [
+      "Fintech founder charged with fraud; AI app found to be humans in the Philippines",
+      "https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 23:24:51",
       "https://news.ycombinator.com/item?id=43648890"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2025-04-10, 23:05:43",
-      "https://news.ycombinator.com/item?id=43648795"
+      "2025-04-10, 23:08:06",
+      "https://news.ycombinator.com/item?id=43648806"
     ],
     [
-      "We quit our Big Tech jobs after hitting #1 on HN and Product Hunt",
-      "https://www.heyopenspot.com/"
+      "What Your Sleep Tracker Gets Wrong About Sleep",
+      "https://www.affectablesleep.com/blog/what-your-sleep-tracker-gets-wrong-about-sleep"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43647880"
     ],
     [
-      "So, I Wrote a Book: The Story Behind “100 Go Mistakes and How to Avoid Them”",
+      "The Story Behind “100 Go Mistakes and How to Avoid Them”",
       "https://www.thecoder.cafe/p/100-go-mistakes"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=43647716"
     ],
     [
-      "PEP 750 – Template Strings (t-strings) have been accepted",
+      "PEP 750 – Template Strings",
       "https://peps.python.org/pep-0750/"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules",
       "https://www.muppetlabs.com/~breadbox/txt/mopb.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 19:24:25",
-      "https://news.ycombinator.com/item?id=43647237"
-    ],
-    [
-      "Trustworthy AI Without Trusted Data",
-      "https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=43645183"
     ],
     [
-      "SDL2 for macOS 9 \"rough draft\"",
+      "SDL2 for macOS 9 “rough draft”",
       "https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft"
     ]
   ],
@@ -161,22 +171,22 @@
   ],
   [
     [
-      "2025-04-10, 15:34:45",
-      "https://news.ycombinator.com/item?id=43644966"
-    ],
-    [
-      "ELD: A new open-source embedded linker tool for embedded systems",
-      "https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 14:48:20",
       "https://news.ycombinator.com/item?id=43644351"
     ],
     [
-      "Show HN: Koreo – The platform engineering toolkit for Kubernetes",
+      "Show HN: Koreo – A platform engineering toolkit for Kubernetes",
       "https://koreo.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-04-10, 14:30:54",
+      "https://news.ycombinator.com/item?id=43644179"
+    ],
+    [
+      "Isaac Asimov describes how AI will liberate humans and their creativity (1992)",
+      "https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2025-04-10, 13:23:58",
+      "https://news.ycombinator.com/item?id=43643534"
+    ],
+    [
+      "Busy Bar",
+      "https://busy.bar"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 12:59:54",
       "https://news.ycombinator.com/item?id=43643343"
     ],
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2025-04-10, 09:09:03",
-      "https://news.ycombinator.com/item?id=43642123"
+      "2025-04-08, 18:40:23",
+      "https://news.ycombinator.com/item?id=43625139"
     ],
     [
-      "Hacker News Hug of Deaf",
-      "https://susam.net/hn-bell.html"
+      "Clojure: Realtime collaborative web apps without ClojureScript",
+      "https://andersmurphy.com/2025/04/07/clojure-realtime-collaborative-web-apps-without-clojurescript.html"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Gemini Live with camera and screen sharing capabilities",
       "https://blog.google/products/gemini/gemini-live-android-tips/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 12:35:03",
-      "https://news.ycombinator.com/item?id=43610566"
-    ],
-    [
-      "We Designed TigerBeetle's Docs from Scratch",
-      "https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 10:34:06",
-      "https://news.ycombinator.com/item?id=43609786"
-    ],
-    [
-      "A quarkless supercollider may finally shed light on dark matter",
-      "https://spectrum.ieee.org/supercolliders"
     ]
   ],
   [
