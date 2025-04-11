@@ -28,6 +28,7 @@
 * [2025-04-08, 15:11:26](https://news.ycombinator.com/item?id=43622719) - [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
 * [2025-04-08, 15:10:29](https://news.ycombinator.com/item?id=43622703) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
 * [2025-04-08, 15:01:34](https://news.ycombinator.com/item?id=43622586) - [Nearly $13M stolen from Abracadabra Finance in crypto heist](https://therecord.media/nearly-thirteen-million-stolen-abracadabra)
+* [2025-04-08, 14:55:27](https://news.ycombinator.com/item?id=43622514) - [We clone a running VM in 2 seconds](https://codesandbox.io/blog/how-we-clone-a-running-vm-in-2-seconds)
 * [2025-04-08, 14:11:40](https://news.ycombinator.com/item?id=43622010) - [The Austrian Cigarette Collection](http://www.zigsam.at)
 * [2025-04-08, 14:04:43](https://news.ycombinator.com/item?id=43621926) - [An unused nuclear power plant became home to a world-class acoustics lab](https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab)
 * [2025-04-08, 13:07:02](https://news.ycombinator.com/item?id=43621350) - [Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles](https://gitmatcher.com/)
