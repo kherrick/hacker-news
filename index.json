@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-11, 18:31:10",
-      "https://news.ycombinator.com/item?id=43656890"
-    ],
-    [
-      "US President endorses bill to lock the clocks in current Daylight Savings Time",
-      "https://flvoicenews.com/trump-endorses-rick-scotts-bill-to-lock-the-clocks-in-current-daylight-savings-time/"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 18:01:33",
       "https://news.ycombinator.com/item?id=43656609"
     ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2025-04-11, 05:37:46",
-      "https://news.ycombinator.com/item?id=43650792"
-    ],
-    [
-      "Deno Under TinyKVM in Varnish",
-      "https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 05:05:33",
       "https://news.ycombinator.com/item?id=43650656"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2025-04-09, 01:27:48",
+      "https://news.ycombinator.com/item?id=43628070"
+    ],
+    [
+      "Blue Prince Is a Roguelike Puzzle Masterpiece",
+      "https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/"
+    ]
+  ],
+  [
+    [
       "2025-04-08, 22:58:55",
       "https://news.ycombinator.com/item?id=43627300"
     ],
@@ -287,6 +277,16 @@
     [
       "We clone a running VM in 2 seconds",
       "https://codesandbox.io/blog/how-we-clone-a-running-vm-in-2-seconds"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 13:08:49",
+      "https://news.ycombinator.com/item?id=43621378"
+    ],
+    [
+      "A 32-bit processor made with an atomically thin semiconductor",
+      "https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/"
     ]
   ],
   [
