@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-11, 04:53:00",
-      "https://news.ycombinator.com/item?id=43650599"
-    ],
-    [
-      "I made a bot to spoil every book my girlfriend ever reads",
-      "https://www.olliechapman.com/blog/spoil-every-book"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 02:14:13",
       "https://news.ycombinator.com/item?id=43649853"
     ],
@@ -47,16 +37,6 @@
     [
       "Crystal 1.16.0",
       "https://crystal-lang.org/2025/04/09/1.16.0-released/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 00:22:45",
-      "https://news.ycombinator.com/item?id=43649218"
-    ],
-    [
-      "Eight or more drinks per week linked to brain lesions",
-      "https://www.aan.com/PressRoom/Home/PressRelease/5251"
     ]
   ],
   [
@@ -231,12 +211,12 @@
   ],
   [
     [
-      "2025-04-10, 12:59:54",
-      "https://news.ycombinator.com/item?id=43643343"
+      "2025-04-10, 12:53:56",
+      "https://news.ycombinator.com/item?id=43643292"
     ],
     [
-      "Owning my own data, part 1: Integrating a self-hosted calendar solution",
-      "https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/"
+      "Elliptical Python Programming",
+      "https://susam.net/elliptical-python-programming.html"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-04-07, 22:30:45",
+      "https://news.ycombinator.com/item?id=43616649"
+    ],
+    [
+      "A surprising enum size optimization in the Rust compiler",
+      "https://jpfennell.com/posts/enum-type-size/"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 20:55:27",
       "https://news.ycombinator.com/item?id=43615844"
     ],
@@ -297,6 +287,16 @@
     [
       "Gemini Live with camera and screen sharing capabilities",
       "https://blog.google/products/gemini/gemini-live-android-tips/"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 06:18:10",
+      "https://news.ycombinator.com/item?id=43608377"
+    ],
+    [
+      "Atari Missile Command Game Built Using AI Gemini 2.5 Pro",
+      "https://missile-command-game.centminmod.com/"
     ]
   ]
 ]
