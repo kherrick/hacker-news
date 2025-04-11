@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-11, 13:23:13](https://news.ycombinator.com/item?id=43653490) - [No code is dead. Long live vibe coding](https://kenneth.io/post/no-code-is-dead-long-live-vibe-coding)
 * [2025-04-11, 12:56:02](https://news.ycombinator.com/item?id=43653251) - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
 * [2025-04-11, 12:23:13](https://news.ycombinator.com/item?id=43653004) - [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)
 * [2025-04-11, 12:01:12](https://news.ycombinator.com/item?id=43652865) - [Roame (YC S23) Is Hiring: Founding Product Designer](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer)
@@ -15,6 +14,7 @@
 * [2025-04-11, 02:14:13](https://news.ycombinator.com/item?id=43649853) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 * [2025-04-11, 02:05:19](https://news.ycombinator.com/item?id=43649783) - [A port of Mbed-TLS for the Classic Macintosh OS 7/8/9](https://github.com/bbenchoff/MacSSL)
 * [2025-04-11, 01:50:09](https://news.ycombinator.com/item?id=43649711) - [Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC](https://yomaq.github.io/posts/nvidia-on-nixos-wsl-ollama-up-24-7-on-your-gaming-pc/)
+* [2025-04-10, 23:36:54](https://news.ycombinator.com/item?id=43648950) - [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [2025-04-10, 18:43:56](https://news.ycombinator.com/item?id=43646920) - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
