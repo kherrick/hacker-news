@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 13:23:13](https://news.ycombinator.com/item?id=43653490) - [No code is dead. Long live vibe coding](https://kenneth.io/post/no-code-is-dead-long-live-vibe-coding)
+* [2025-04-11, 12:56:02](https://news.ycombinator.com/item?id=43653251) - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
 * [2025-04-11, 12:23:13](https://news.ycombinator.com/item?id=43653004) - [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)
 * [2025-04-11, 12:01:12](https://news.ycombinator.com/item?id=43652865) - [Roame (YC S23) Is Hiring: Founding Product Designer](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer)
 * [2025-04-11, 11:39:18](https://news.ycombinator.com/item?id=43652723) - [But what if I want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse)
+* [2025-04-11, 11:23:37](https://news.ycombinator.com/item?id=43652643) - [Show HN: Free TI-84 Plus Online (No Signup, Runs in Browser)](https://www.ti84-online.com)
 * [2025-04-11, 09:49:56](https://news.ycombinator.com/item?id=43652160) - [How to Make a Longbow](https://www.howtomakealongbow.co.uk)
 * [2025-04-11, 09:27:08](https://news.ycombinator.com/item?id=43652024) - [Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
 * [2025-04-11, 08:26:14](https://news.ycombinator.com/item?id=43651576) - [Why I Program in Lisp](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html)
