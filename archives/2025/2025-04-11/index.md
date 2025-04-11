@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 17:00:43](https://news.ycombinator.com/item?id=43656007) - [Mosaic (YC W25) is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
+* [2025-04-11, 16:16:07](https://news.ycombinator.com/item?id=43655505) - [Ask HN: Has anyone quit their startup (VC-backed) over cofounder disagreements?](https://news.ycombinator.com/item?id=43655505)
 * [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh's Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
+* [2025-04-11, 15:26:53](https://news.ycombinator.com/item?id=43654932) - [Agency vs. Control vs. Reliability in Agent Design](https://fin.ai/research/agency-control-reliability-the-tradeoffs-in-customer-support-agents/)
 * [2025-04-11, 15:25:13](https://news.ycombinator.com/item?id=43654912) - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
+* [2025-04-11, 15:22:35](https://news.ycombinator.com/item?id=43654881) - [Rust CUDA Project](https://github.com/Rust-GPU/Rust-CUDA)
+* [2025-04-11, 15:18:21](https://news.ycombinator.com/item?id=43654813) - [WebRTC for the Curious](https://webrtcforthecurious.com)
+* [2025-04-11, 14:36:16](https://news.ycombinator.com/item?id=43654279) - [WordPress launches new free AI website builder](https://wordpress.com/blog/2025/04/09/ai-website-builder/)
 * [2025-04-11, 14:10:38](https://news.ycombinator.com/item?id=43653998) - [She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her](https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html)
 * [2025-04-11, 14:04:11](https://news.ycombinator.com/item?id=43653922) - [Browser extensions put 4M users at risk of cookie exposure](https://secureannex.com/blog/searching-for-something-unknow/)
 * [2025-04-11, 14:01:06](https://news.ycombinator.com/item?id=43653885) - [Adobe Deletes Bluesky Posts After Furious Backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
