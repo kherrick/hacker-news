@@ -64,6 +64,7 @@
 * [2025-04-08, 07:30:24](https://news.ycombinator.com/item?id=43619229) - [Building the System/360 Mainframe Nearly Destroyed IBM](https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm)
 * [2025-04-08, 07:22:16](https://news.ycombinator.com/item?id=43619178) - [Gazans tell BBC of torture in Israeli detention](https://www.bbc.co.uk/news/articles/cn7vje365rno)
 * [2025-04-08, 06:55:32](https://news.ycombinator.com/item?id=43619040) - [String Theorists Say Black Holes Are Multidimensional String 'Supermazes'](https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/)
+* [2025-04-08, 06:54:36](https://news.ycombinator.com/item?id=43619032) - [Intentionally Making Close Friends (2021)](https://www.neelnanda.io/blog/43-making-friends)
 * [2025-04-08, 05:34:51](https://news.ycombinator.com/item?id=43618617) - [EU offered 'zero-for-zero' deal to US weeks before tariff announcement](https://www.theguardian.com/world/2025/apr/07/eu-offered-zero-for-zero-deal-to-us-weeks-before-tariff-announcement)
 * [2025-04-08, 05:04:35](https://news.ycombinator.com/item?id=43618494) - [The Modern Struggle Is Fighting Weaponized Addiction (2020)](https://nav.al/addiction)
 * [2025-04-08, 04:56:40](https://news.ycombinator.com/item?id=43618458) - [Tom and Jerry One-Minute Video Generation with Test-Time Training](https://test-time-training.github.io/video-dit/)
