@@ -16,6 +16,7 @@
 * [2025-04-08, 18:13:47](https://news.ycombinator.com/item?id=43624799) - [3D Army Land Navigation Courses](https://oe.tradoc.army.mil/oegames/landnav/index.html)
 * [2025-04-08, 18:01:01](https://news.ycombinator.com/item?id=43624671) - [Preparation Kept Bomb Threats from Disrupting the 2024 Elections](https://www.brennancenter.org/our-work/analysis-opinion/preparation-kept-bomb-threats-disrupting-2024-elections)
 * [2025-04-08, 17:45:22](https://news.ycombinator.com/item?id=43624480) - [Pdeathsig is almost never what you want](https://www.recall.ai/post/pdeathsig-is-almost-never-what-you-want)
+* [2025-04-08, 17:41:24](https://news.ycombinator.com/item?id=43624430) - [DDoS Mitigation Leak](https://www.kentik.com/blog/beyond-their-intended-scope-ddos-mitigation-leak/)
 * [2025-04-08, 17:35:51](https://news.ycombinator.com/item?id=43624358) - [Show HN: A website/app to help manage your game library](https://gamenode.app)
 * [2025-04-08, 17:29:29](https://news.ycombinator.com/item?id=43624293) - [Analytic Combinatorics – A Worked Example](https://grossack.site/2025/04/08/analytic-combinatorics-example.html)
 * [2025-04-08, 17:23:29](https://news.ycombinator.com/item?id=43624220) - [Apache ECharts](https://echarts.apache.org/en/index.html)
