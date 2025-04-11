@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
 * [2025-04-11, 20:23:21](https://news.ycombinator.com/item?id=43658119) - [The Mystery of ICE's Unidentifiable Arrests](https://www.newyorker.com/news/the-lede/the-mystery-of-ices-unidentifiable-arrests)
+* [2025-04-11, 20:16:13](https://news.ycombinator.com/item?id=43658060) - [Germany creates 'super–high-tech ministry' for research, technology, aerospace](https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace)
 * [2025-04-11, 19:20:30](https://news.ycombinator.com/item?id=43657465) - [Education Secretary Wants 'A1' in Classrooms](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380)
 * [2025-04-11, 19:13:10](https://news.ycombinator.com/item?id=43657377) - [Mark Klein, a Whistleblower Who Revealed Domestic Spying, Dies at 79](https://www.wsj.com/us-news/mark-klein-whistleblower-dies-73f434c7)
 * [2025-04-11, 19:07:41](https://news.ycombinator.com/item?id=43657327) - [Stop using e for compound interest](https://blog.danielh.cc/blog/e)
