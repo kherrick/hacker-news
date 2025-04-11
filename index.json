@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-11, 18:31:20",
-      "https://news.ycombinator.com/item?id=43656893"
+      "2025-04-11, 18:31:10",
+      "https://news.ycombinator.com/item?id=43656890"
     ],
     [
-      "US tells government employees to report on one another for \"anti-Christian bias\"",
-      "https://www.politico.com/news/2025/04/11/state-report-anti-christian-bias-033535"
+      "US President endorses bill to lock the clocks in current Daylight Savings Time",
+      "https://flvoicenews.com/trump-endorses-rick-scotts-bill-to-lock-the-clocks-in-current-daylight-savings-time/"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 18:01:33",
+      "https://news.ycombinator.com/item?id=43656609"
+    ],
+    [
+      "Modern 6502",
+      "https://www.mikekohn.net/micro/modern_6502.php"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2025-04-11, 05:37:46",
+      "https://news.ycombinator.com/item?id=43650792"
+    ],
+    [
+      "Deno Under TinyKVM in Varnish",
+      "https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno"
+    ]
+  ],
+  [
+    [
       "2025-04-11, 05:05:33",
       "https://news.ycombinator.com/item?id=43650656"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-04-10, 19:29:46",
-      "https://news.ycombinator.com/item?id=43647294"
-    ],
-    [
-      "My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules",
-      "https://www.muppetlabs.com/~breadbox/txt/mopb.html"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 18:43:56",
       "https://news.ycombinator.com/item?id=43646920"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-04-10, 17:21:03",
-      "https://news.ycombinator.com/item?id=43646095"
+      "2025-04-10, 17:34:19",
+      "https://news.ycombinator.com/item?id=43646219"
     ],
     [
-      "Garfield Minus Garfield",
-      "https://garfieldminusgarfield.net"
+      "Big Book of R",
+      "https://www.bigbookofr.com/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Titanic digital scan reveals new details of ship's final hours",
       "https://www.bbc.com/news/articles/cwy6gjwd0g6o"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 17:41:24",
-      "https://news.ycombinator.com/item?id=43624430"
-    ],
-    [
-      "DDoS Mitigation Leak",
-      "https://www.kentik.com/blog/beyond-their-intended-scope-ddos-mitigation-leak/"
     ]
   ],
   [
