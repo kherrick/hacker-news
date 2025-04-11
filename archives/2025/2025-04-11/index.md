@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 03:59:04](https://news.ycombinator.com/item?id=43650391) - [The phony comforts of useful idiots](https://thetechbubble.substack.com/p/the-phony-comforts-of-useful-idiots)
 * [2025-04-11, 02:14:13](https://news.ycombinator.com/item?id=43649853) - [Default styles for H1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 * [2025-04-11, 02:07:53](https://news.ycombinator.com/item?id=43649811) - [Louisiana prison board uses algorithms to determine eligility for parole](https://www.propublica.org/article/tiger-algorithm-louisiana-parole-calvin-alexander)
 * [2025-04-11, 02:05:19](https://news.ycombinator.com/item?id=43649783) - [A port of Mbed-TLS for the Classic Macintosh OS 7/8/9](https://github.com/bbenchoff/MacSSL)

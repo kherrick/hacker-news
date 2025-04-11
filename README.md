@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-11, 03:59:04](https://news.ycombinator.com/item?id=43650391) - [The phony comforts of useful idiots](https://thetechbubble.substack.com/p/the-phony-comforts-of-useful-idiots)
 * [2025-04-11, 02:14:13](https://news.ycombinator.com/item?id=43649853) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 * [2025-04-11, 02:05:19](https://news.ycombinator.com/item?id=43649783) - [A port of Mbed-TLS for the Classic Macintosh OS 7/8/9](https://github.com/bbenchoff/MacSSL)
 * [2025-04-11, 01:50:09](https://news.ycombinator.com/item?id=43649711) - [Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC](https://yomaq.github.io/posts/nvidia-on-nixos-wsl-ollama-up-24-7-on-your-gaming-pc/)
@@ -9,7 +10,6 @@
 * [2025-04-10, 22:23:48](https://news.ycombinator.com/item?id=43648593) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-10, 21:24:28](https://news.ycombinator.com/item?id=43648145) - [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
-* [2025-04-10, 20:24:01](https://news.ycombinator.com/item?id=43647716) - [PEP 750 – Template Strings](https://peps.python.org/pep-0750/)
 * [2025-04-10, 20:09:23](https://news.ycombinator.com/item?id=43647598) - [What if your website had business hours? (2022)](https://bobbiechen.com/blog/2022/7/21/what-if-your-website-had-business-hours)
 * [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [2025-04-10, 18:43:56](https://news.ycombinator.com/item?id=43646920) - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
