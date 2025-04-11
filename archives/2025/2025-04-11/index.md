@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 13:35:12](https://news.ycombinator.com/item?id=43653611) - [Carnegie Mellon student with one semester left learns his visa was revoked](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/)
 * [2025-04-11, 13:23:13](https://news.ycombinator.com/item?id=43653490) - [No code is dead. Long live vibe coding](https://kenneth.io/post/no-code-is-dead-long-live-vibe-coding)
 * [2025-04-11, 12:56:02](https://news.ycombinator.com/item?id=43653251) - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
 * [2025-04-11, 12:23:13](https://news.ycombinator.com/item?id=43653004) - [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)

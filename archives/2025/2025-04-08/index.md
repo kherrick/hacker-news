@@ -7,6 +7,7 @@
 * [2025-04-08, 23:07:14](https://news.ycombinator.com/item?id=43627354) - [Deep Research is now available on Gemini 2.5 Pro Experimental](https://blog.google/products/gemini/deep-research-gemini-2-5-pro-experimental/)
 * [2025-04-08, 22:46:30](https://news.ycombinator.com/item?id=43627219) - [Fictitious Name Permit](https://www.mbc.ca.gov/Licensing/Fictitious-Name-Permit/)
 * [2025-04-08, 22:25:43](https://news.ycombinator.com/item?id=43627075) - [Trump, Doge Are Trying to Get Around Privacy Laws to Gather Your Personal Info](https://www.rollingstone.com/politics/politics-features/trump-musk-doge-privacy-personal-info-data-social-security-1235312853/)
+* [2025-04-08, 21:36:55](https://news.ycombinator.com/item?id=43626707) - [A16Z: AI Avatars](https://a16z.com/ai-avatars/)
 * [2025-04-08, 20:00:22](https://news.ycombinator.com/item?id=43625864) - [How to Recognize Woodpeckers by Their Drumming Sounds](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/)
 * [2025-04-08, 19:13:50](https://news.ycombinator.com/item?id=43625474) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 19:11:41](https://news.ycombinator.com/item?id=43625452) - [Solving a \"Layton Puzzle\" with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
