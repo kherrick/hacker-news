@@ -18,6 +18,7 @@
 * [2025-04-08, 17:35:51](https://news.ycombinator.com/item?id=43624358) - [Show HN: A website/app to help manage your game library](https://gamenode.app)
 * [2025-04-08, 17:29:29](https://news.ycombinator.com/item?id=43624293) - [Analytic Combinatorics – A Worked Example](https://grossack.site/2025/04/08/analytic-combinatorics-example.html)
 * [2025-04-08, 17:23:29](https://news.ycombinator.com/item?id=43624220) - [Apache ECharts](https://echarts.apache.org/en/index.html)
+* [2025-04-08, 17:16:14](https://news.ycombinator.com/item?id=43624135) - [Researchers discover why plastic sheds dangerous fragments](https://www.sciencedaily.com/releases/2025/04/250407172923.htm)
 * [2025-04-08, 17:14:10](https://news.ycombinator.com/item?id=43624111) - [Can reinforcement learning for LLMs scale beyond math and coding tasks? Probably](https://arxiv.org/abs/2503.23829)
 * [2025-04-08, 16:49:40](https://news.ycombinator.com/item?id=43623820) - [Show HN: Coroot – eBPF-based, open source observability with actionable insights](https://github.com/coroot/coroot)
 * [2025-04-08, 16:26:20](https://news.ycombinator.com/item?id=43623550) - [Sculptor: Catch and fix issues as you code](https://imbue.com/product/sculptor/)

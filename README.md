@@ -24,12 +24,12 @@
 * [2025-04-10, 12:59:54](https://news.ycombinator.com/item?id=43643343) - [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/)
 * [2025-04-10, 12:53:56](https://news.ycombinator.com/item?id=43643292) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-08, 18:40:23](https://news.ycombinator.com/item?id=43625139) - [Clojure: Realtime collaborative web apps without ClojureScript](https://andersmurphy.com/2025/04/07/clojure-realtime-collaborative-web-apps-without-clojurescript.html)
+* [2025-04-08, 17:16:14](https://news.ycombinator.com/item?id=43624135) - [Researchers discover why plastic sheds dangerous fragments](https://www.sciencedaily.com/releases/2025/04/250407172923.htm)
 * [2025-04-08, 14:11:40](https://news.ycombinator.com/item?id=43622010) - [The Austrian Cigarette Collection](http://www.zigsam.at)
 * [2025-04-08, 12:38:34](https://news.ycombinator.com/item?id=43621021) - [Levitating Bugs with Sound Could Transform Scientific Photography](https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/)
 * [2025-04-07, 22:30:45](https://news.ycombinator.com/item?id=43616649) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-07, 20:55:27](https://news.ycombinator.com/item?id=43615844) - [The movie that's different every time you watch it](https://movieweb.com/eno-documentary-movie-different-every-time/)
 * [2025-04-07, 16:53:08](https://news.ycombinator.com/item?id=43613463) - [Gemini Live with camera and screen sharing capabilities](https://blog.google/products/gemini/gemini-live-android-tips/)
-* [2025-04-07, 06:27:03](https://news.ycombinator.com/item?id=43608422) - [The Difference Between Municipal Fire Trucks and Airport Fire Trucks](https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks)
 
 ## [Archives](archives/index.md)
 
