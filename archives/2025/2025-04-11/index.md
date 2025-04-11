@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
 * [2025-04-11, 18:31:20](https://news.ycombinator.com/item?id=43656893) - [US tells government employees to report on one another for \"anti-Christian bias\"](https://www.politico.com/news/2025/04/11/state-report-anti-christian-bias-033535)
+* [2025-04-11, 18:31:10](https://news.ycombinator.com/item?id=43656890) - [US President endorses bill to lock the clocks in current Daylight Savings Time](https://flvoicenews.com/trump-endorses-rick-scotts-bill-to-lock-the-clocks-in-current-daylight-savings-time/)
+* [2025-04-11, 18:01:33](https://news.ycombinator.com/item?id=43656609) - [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
 * [2025-04-11, 17:27:39](https://news.ycombinator.com/item?id=43656279) - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
 * [2025-04-11, 17:00:43](https://news.ycombinator.com/item?id=43656007) - [Mosaic (YC W25) is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
 * [2025-04-11, 16:53:20](https://news.ycombinator.com/item?id=43655914) - [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
