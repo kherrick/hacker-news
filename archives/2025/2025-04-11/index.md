@@ -6,6 +6,7 @@
 
 * [2025-04-11, 22:57:16](https://news.ycombinator.com/item?id=43659581) - [RFK Jr says Deep State 'is real,' called FDA employees 'sock puppet' of industry](https://www.politico.com/news/2025/04/11/rfk-jr-hhs-fda-deep-state-00286826)
 * [2025-04-11, 22:27:16](https://news.ycombinator.com/item?id=43659370) - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
+* [2025-04-11, 22:26:41](https://news.ycombinator.com/item?id=43659365) - [Vacheron Constantin Breaks the World Record for Most Complicated Wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
 * [2025-04-11, 21:26:36](https://news.ycombinator.com/item?id=43658794) - [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
 * [2025-04-11, 20:52:39](https://news.ycombinator.com/item?id=43658420) - [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
 * [2025-04-11, 20:23:21](https://news.ycombinator.com/item?id=43658119) - [The Mystery of ICE's Unidentifiable Arrests](https://www.newyorker.com/news/the-lede/the-mystery-of-ices-unidentifiable-arrests)
