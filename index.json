@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-11, 14:10:38",
-      "https://news.ycombinator.com/item?id=43653998"
+      "2025-04-11, 14:04:11",
+      "https://news.ycombinator.com/item?id=43653922"
     ],
     [
-      "She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her",
-      "https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html"
+      "Browser extensions put 4M users at risk of cookie exposure",
+      "https://secureannex.com/blog/searching-for-something-unknow/"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 13:40:26",
+      "https://news.ycombinator.com/item?id=43653672"
+    ],
+    [
+      "Fedora change aims for 99% package reproducibility",
+      "https://lwn.net/Articles/1014979/"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "But what if I want a faster horse?",
       "https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 11:25:46",
+      "https://news.ycombinator.com/item?id=43652655"
+    ],
+    [
+      "FreeBSD Jails Security",
+      "https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-04-10, 23:36:54",
-      "https://news.ycombinator.com/item?id=43648950"
-    ],
-    [
-      "Fintech founder charged with fraud; AI app found to be humans in the Philippines",
-      "https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 20:47:01",
       "https://news.ycombinator.com/item?id=43647880"
     ],
@@ -167,16 +177,6 @@
     [
       "How a $2k 'Made in the USA' Phone Is Manufactured",
       "https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 18:21:45",
-      "https://news.ycombinator.com/item?id=43646698"
-    ],
-    [
-      "Demystifying the (Shebang): Kernel Adventures",
-      "https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=43626707"
     ],
     [
-      "A16Z: AI Avatars",
+      "AI Avatars Escape the Uncanny Valley",
       "https://a16z.com/ai-avatars/"
     ]
   ],
