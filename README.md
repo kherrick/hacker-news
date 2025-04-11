@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-11, 22:57:16](https://news.ycombinator.com/item?id=43659581) - [RFK Jr says Deep State 'is real,' called FDA employees 'sock puppet' of industry](https://www.politico.com/news/2025/04/11/rfk-jr-hhs-fda-deep-state-00286826)
 * [2025-04-11, 22:27:16](https://news.ycombinator.com/item?id=43659370) - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
 * [2025-04-11, 21:26:36](https://news.ycombinator.com/item?id=43658794) - [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
 * [2025-04-11, 20:52:39](https://news.ycombinator.com/item?id=43658420) - [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
 * [2025-04-11, 20:19:39](https://news.ycombinator.com/item?id=43658093) - [A recent study suggests that insects branched out from crustaceans](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
-* [2025-04-11, 20:16:13](https://news.ycombinator.com/item?id=43658060) - [Germany creates 'super–high-tech ministry' for research, technology, aerospace](https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace)
 * [2025-04-11, 18:01:33](https://news.ycombinator.com/item?id=43656609) - [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
 * [2025-04-11, 17:27:39](https://news.ycombinator.com/item?id=43656279) - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
 * [2025-04-11, 17:00:43](https://news.ycombinator.com/item?id=43656007) - [Mosaic (YC W25) is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
