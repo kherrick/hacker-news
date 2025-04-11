@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=43649853"
     ],
     [
-      "Default styles for H1 elements are changing",
+      "Default styles for h1 elements are changing",
       "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 02:07:53",
+      "https://news.ycombinator.com/item?id=43649811"
+    ],
+    [
+      "Louisiana prison board uses algorithms to determine eligility for parole",
+      "https://www.propublica.org/article/tiger-algorithm-louisiana-parole-calvin-alexander"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF)",
       "https://www.ycombinator.com/companies/parity/jobs"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 22:11:53",
-      "https://news.ycombinator.com/item?id=43648526"
-    ],
-    [
-      "This site uses cookies to store the fact you clicked “Accept Cookies”",
-      "https://rodyne.com/?p=2368"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Demystifying the (Shebang): Kernel Adventures",
       "https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 18:11:34",
-      "https://news.ycombinator.com/item?id=43646601"
-    ],
-    [
-      "Suffering-Oriented Programming (2012)",
-      "http://nathanmarz.com/blog/suffering-oriented-programming.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The movie that's different every time you watch it",
       "https://movieweb.com/eno-documentary-movie-different-every-time/"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 16:53:08",
+      "https://news.ycombinator.com/item?id=43613463"
+    ],
+    [
+      "Gemini Live with camera and screen sharing capabilities",
+      "https://blog.google/products/gemini/gemini-live-android-tips/"
     ]
   ],
   [
