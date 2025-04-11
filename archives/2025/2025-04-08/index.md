@@ -28,6 +28,7 @@
 * [2025-04-08, 16:49:40](https://news.ycombinator.com/item?id=43623820) - [Show HN: Coroot – eBPF-based, open source observability with actionable insights](https://github.com/coroot/coroot)
 * [2025-04-08, 16:26:20](https://news.ycombinator.com/item?id=43623550) - [Sculptor: Catch and fix issues as you code](https://imbue.com/product/sculptor/)
 * [2025-04-08, 15:43:14](https://news.ycombinator.com/item?id=43623099) - [Show HN: HNSW index for vector embeddings in approx 500 LOC](https://github.com/dicroce/hnsw)
+* [2025-04-08, 15:12:28](https://news.ycombinator.com/item?id=43622732) - [This Bench Does Not Exist](https://doesnotexist.openbenches.org/)
 * [2025-04-08, 15:11:26](https://news.ycombinator.com/item?id=43622719) - [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
 * [2025-04-08, 15:10:29](https://news.ycombinator.com/item?id=43622703) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
 * [2025-04-08, 15:01:34](https://news.ycombinator.com/item?id=43622586) - [Nearly $13M stolen from Abracadabra Finance in crypto heist](https://therecord.media/nearly-thirteen-million-stolen-abracadabra)
