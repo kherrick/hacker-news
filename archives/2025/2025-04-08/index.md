@@ -13,6 +13,7 @@
 * [2025-04-08, 18:40:23](https://news.ycombinator.com/item?id=43625139) - [Clojure: Realtime collaborative web apps without ClojureScript](https://andersmurphy.com/2025/04/07/clojure-realtime-collaborative-web-apps-without-clojurescript.html)
 * [2025-04-08, 18:28:06](https://news.ycombinator.com/item?id=43624977) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 * [2025-04-08, 18:21:49](https://news.ycombinator.com/item?id=43624888) - [How Netflix Accurately Attributes eBPF Flow Logs](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc)
+* [2025-04-08, 18:13:47](https://news.ycombinator.com/item?id=43624799) - [3D Army Land Navigation Courses](https://oe.tradoc.army.mil/oegames/landnav/index.html)
 * [2025-04-08, 18:01:01](https://news.ycombinator.com/item?id=43624671) - [Preparation Kept Bomb Threats from Disrupting the 2024 Elections](https://www.brennancenter.org/our-work/analysis-opinion/preparation-kept-bomb-threats-disrupting-2024-elections)
 * [2025-04-08, 17:45:22](https://news.ycombinator.com/item?id=43624480) - [Pdeathsig is almost never what you want](https://www.recall.ai/post/pdeathsig-is-almost-never-what-you-want)
 * [2025-04-08, 17:35:51](https://news.ycombinator.com/item?id=43624358) - [Show HN: A website/app to help manage your game library](https://gamenode.app)
