@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-11, 09:27:08](https://news.ycombinator.com/item?id=43652024) - [Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
 * [2025-04-11, 08:26:14](https://news.ycombinator.com/item?id=43651576) - [Why I Program in Lisp](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html)
 * [2025-04-11, 08:15:57](https://news.ycombinator.com/item?id=43651532) - [Why lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
 * [2025-04-11, 07:41:33](https://news.ycombinator.com/item?id=43651390) - [Live Map of the London Underground](https://www.londonunderground.live/)
@@ -24,7 +25,6 @@
 * [2025-04-10, 14:19:06](https://news.ycombinator.com/item?id=43644043) - [.localhost Domains](https://inclouds.space/localhost-domains)
 * [2025-04-08, 18:40:23](https://news.ycombinator.com/item?id=43625139) - [Clojure: Realtime collaborative web apps without ClojureScript](https://andersmurphy.com/2025/04/07/clojure-realtime-collaborative-web-apps-without-clojurescript.html)
 * [2025-04-08, 18:13:47](https://news.ycombinator.com/item?id=43624799) - [3D Army Land Navigation Courses](https://oe.tradoc.army.mil/oegames/landnav/index.html)
-* [2025-04-08, 14:11:40](https://news.ycombinator.com/item?id=43622010) - [The Austrian Cigarette Collection](http://www.zigsam.at)
 * [2025-04-08, 14:04:43](https://news.ycombinator.com/item?id=43621926) - [An unused nuclear power plant became home to a world-class acoustics lab](https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab)
 * [2025-04-08, 12:38:34](https://news.ycombinator.com/item?id=43621021) - [Levitating Bugs with Sound Could Transform Scientific Photography](https://petapixel.com/2025/03/25/levitating-bugs-with-sound-could-transform-scientific-photography/)
 * [2025-04-08, 12:00:51](https://news.ycombinator.com/item?id=43620676) - [Remember FastCGI? (2021)](https://brokenco.de/2021/06/27/remember-fastcgi.html)

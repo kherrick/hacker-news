@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 09:27:08](https://news.ycombinator.com/item?id=43652024) - [Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
 * [2025-04-11, 08:26:14](https://news.ycombinator.com/item?id=43651576) - [Why I Program in Lisp](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html)
 * [2025-04-11, 08:15:57](https://news.ycombinator.com/item?id=43651532) - [Why lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
 * [2025-04-11, 08:04:33](https://news.ycombinator.com/item?id=43651489) - [The thing about Europe: it's the actual land of the free now](https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now)
