@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 19:13:10](https://news.ycombinator.com/item?id=43657377) - [Mark Klein, a Whistleblower Who Revealed Domestic Spying, Dies at 79](https://www.wsj.com/us-news/mark-klein-whistleblower-dies-73f434c7)
 * [2025-04-11, 18:47:03](https://news.ycombinator.com/item?id=43657079) - [Social Security Administration Moving Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
 * [2025-04-11, 18:31:20](https://news.ycombinator.com/item?id=43656893) - [US tells government employees to report on one another for \"anti-Christian bias\"](https://www.politico.com/news/2025/04/11/state-report-anti-christian-bias-033535)
 * [2025-04-11, 18:31:10](https://news.ycombinator.com/item?id=43656890) - [US President endorses bill to lock the clocks in current Daylight Savings Time](https://flvoicenews.com/trump-endorses-rick-scotts-bill-to-lock-the-clocks-in-current-daylight-savings-time/)

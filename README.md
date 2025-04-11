@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-11, 19:13:10](https://news.ycombinator.com/item?id=43657377) - [Mark Klein, a Whistleblower Who Revealed Domestic Spying, Dies at 79](https://www.wsj.com/us-news/mark-klein-whistleblower-dies-73f434c7)
 * [2025-04-11, 18:47:03](https://news.ycombinator.com/item?id=43657079) - [Social Security Administration Moving Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
 * [2025-04-11, 18:01:33](https://news.ycombinator.com/item?id=43656609) - [Modern 6502](https://www.mikekohn.net/micro/modern_6502.php)
 * [2025-04-11, 17:27:39](https://news.ycombinator.com/item?id=43656279) - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
@@ -23,7 +24,6 @@
 * [2025-04-11, 05:05:33](https://news.ycombinator.com/item?id=43650656) - [Playing in the Creek](https://www.hgreer.com/PlayingInTheCreek/)
 * [2025-04-10, 22:48:37](https://news.ycombinator.com/item?id=43648713) - [Show HN: Time Travel with Your SQL](https://news.ycombinator.com/item?id=43648713)
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [The Story Behind “100 Go Mistakes and How to Avoid Them”](https://www.thecoder.cafe/p/100-go-mistakes)
-* [2025-04-10, 18:43:56](https://news.ycombinator.com/item?id=43646920) - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
 * [2025-04-10, 17:34:19](https://news.ycombinator.com/item?id=43646219) - [Big Book of R](https://www.bigbookofr.com/)
 * [2025-04-09, 01:27:48](https://news.ycombinator.com/item?id=43628070) - [Blue Prince Is a Roguelike Puzzle Masterpiece](https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/)
 * [2025-04-08, 22:58:55](https://news.ycombinator.com/item?id=43627300) - [Titanic digital scan reveals new details of ship's final hours](https://www.bbc.com/news/articles/cwy6gjwd0g6o)
