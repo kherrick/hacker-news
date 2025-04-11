@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 05:37:46](https://news.ycombinator.com/item?id=43650792) - [Deno Under TinyKVM in Varnish](https://info.varnish-software.com/blog/tinykvm-in-varnish-and-some-deno)
+* [2025-04-11, 05:05:33](https://news.ycombinator.com/item?id=43650656) - [Playing in the Creek](https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek)
 * [2025-04-11, 04:53:00](https://news.ycombinator.com/item?id=43650599) - [I made a bot to spoil every book my girlfriend ever reads](https://www.olliechapman.com/blog/spoil-every-book)
 * [2025-04-11, 03:59:04](https://news.ycombinator.com/item?id=43650391) - [The phony comforts of useful idiots](https://thetechbubble.substack.com/p/the-phony-comforts-of-useful-idiots)
 * [2025-04-11, 02:14:13](https://news.ycombinator.com/item?id=43649853) - [Default styles for H1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)

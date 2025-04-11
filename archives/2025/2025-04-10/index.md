@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 23:58:41](https://news.ycombinator.com/item?id=43649088) - [systemd ParticleOS](https://github.com/systemd/particleos)
 * [2025-04-10, 23:36:54](https://news.ycombinator.com/item?id=43648950) - [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
 * [2025-04-10, 23:24:51](https://news.ycombinator.com/item?id=43648890) - [Black Mirror's pessimism porn won't lead us to a better future](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism)
 * [2025-04-10, 23:08:06](https://news.ycombinator.com/item?id=43648806) - [What Your Sleep Tracker Gets Wrong About Sleep](https://www.affectablesleep.com/blog/what-your-sleep-tracker-gets-wrong-about-sleep)
