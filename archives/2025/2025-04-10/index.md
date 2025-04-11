@@ -46,6 +46,7 @@
 * [2025-04-10, 13:50:15](https://news.ycombinator.com/item?id=43643761) - [Evidence of 22,000-year-old vehicles found at White Sands National Park](https://www.sfgate.com/national-parks/article/national-park-discovery-rewrites-human-history-20265734.php)
 * [2025-04-10, 13:23:58](https://news.ycombinator.com/item?id=43643534) - [Busy Bar](https://busy.bar)
 * [2025-04-10, 13:19:22](https://news.ycombinator.com/item?id=43643498) - [Kids can't use computers and this is why it should worry you (2013)](http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
+* [2025-04-10, 13:16:25](https://news.ycombinator.com/item?id=43643467) - [Once Lush Sahara Was Home to a Surprisingly Unique Group of Humans](https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans)
 * [2025-04-10, 13:15:14](https://news.ycombinator.com/item?id=43643455) - [Google Releases Agent-to-Agent](https://google.github.io/A2A/#/)
 * [2025-04-10, 13:13:34](https://news.ycombinator.com/item?id=43643441) - [TVMC: Time-Varying Mesh Compression](https://github.com/SINRG-Lab/TVMC)
 * [2025-04-10, 13:08:33](https://news.ycombinator.com/item?id=43643408) - [Amazon CEO Andy Jassy's 2024 Letter to Shareholders](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders)
