@@ -37,6 +37,7 @@
 * [2025-04-10, 15:34:45](https://news.ycombinator.com/item?id=43644966) - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
 * [2025-04-10, 15:16:37](https://news.ycombinator.com/item?id=43644714) - [Universal photonic artificial intelligence acceleration](https://www.nature.com/articles/s41586-025-08854-x)
 * [2025-04-10, 15:13:12](https://news.ycombinator.com/item?id=43644662) - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
+* [2025-04-10, 15:02:09](https://news.ycombinator.com/item?id=43644534) - [Learning Assembly for Fun, Performance and Profit](https://thechipletter.substack.com/p/learning-assembly-for-fun-and-profit)
 * [2025-04-10, 14:48:20](https://news.ycombinator.com/item?id=43644351) - [Show HN: Koreo – The platform engineering toolkit for Kubernetes](https://koreo.dev/)
 * [2025-04-10, 14:30:54](https://news.ycombinator.com/item?id=43644179) - [Isaac Asimov Describes How AI Will Liberate Humans and Their Creativity (1992)](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html)
 * [2025-04-10, 14:30:22](https://news.ycombinator.com/item?id=43644173) - [Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees](https://blog.cloudflare.com/r2-data-catalog-public-beta/)

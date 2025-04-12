@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-12, 21:10:59](https://news.ycombinator.com/item?id=43667963) - [My prediction after GPT-4o image generation](https://arxiv.org/abs/2504.06256)
 * [2025-04-12, 21:03:17](https://news.ycombinator.com/item?id=43667925) - [Zod v4 Beta](https://v4.zod.dev/v4)
 * [2025-04-12, 20:56:48](https://news.ycombinator.com/item?id=43667887) - [Ask HN: How do you monetize personal code if it's not an \"app\"?](https://news.ycombinator.com/item?id=43667887)
+* [2025-04-12, 20:42:49](https://news.ycombinator.com/item?id=43667790) - [WTF Is Botmetr? The First Platform That Rewards You for Hunting Chatbots](https://www.botmetr.com/)
 * [2025-04-12, 20:00:12](https://news.ycombinator.com/item?id=43667494) - [The 5 levels of configuration languages](https://beza1e1.tuxen.de/config_levels.html)
 * [2025-04-12, 19:02:26](https://news.ycombinator.com/item?id=43667061) - [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
 * [2025-04-12, 18:55:17](https://news.ycombinator.com/item?id=43667010) - [Why is there a \"small house\" in IBM's Code page 437?](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/)
@@ -20,16 +22,14 @@
 * [2025-04-12, 03:58:50](https://news.ycombinator.com/item?id=43661235) - [Google is winning on every AI front](https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front)
 * [2025-04-11, 22:27:16](https://news.ycombinator.com/item?id=43659370) - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
 * [2025-04-11, 22:26:41](https://news.ycombinator.com/item?id=43659365) - [Vacheron Constantin breaks the world record for most complicated wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
-* [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing (2023)](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
-* [2025-04-11, 14:01:06](https://news.ycombinator.com/item?id=43653885) - [Adobe deletes Bluesky posts after backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
 * [2025-04-11, 13:40:26](https://news.ycombinator.com/item?id=43653672) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
+* [2025-04-10, 15:02:09](https://news.ycombinator.com/item?id=43644534) - [Learning Assembly for Fun, Performance and Profit](https://thechipletter.substack.com/p/learning-assembly-for-fun-and-profit)
 * [2025-04-10, 06:19:42](https://news.ycombinator.com/item?id=43641183) - [Rebuilding Prime Video UI with Rust and WebAssembly](https://www.infoq.com/presentations/prime-video-rust/)
 * [2025-04-09, 16:56:31](https://news.ycombinator.com/item?id=43634408) - [One Bug Wasn't Enough: Escalating Twice Through SAP's Setuid Landscape](https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html)
 * [2025-04-09, 15:48:30](https://news.ycombinator.com/item?id=43633455) - [Modern Babylon: Ziggurat Skyscrapers and Hugh Ferriss' Retrofuturism](https://publicdomainreview.org/essay/modern-babylon-ziggurat-skyscrapers-and-hugh-ferriss-retrofuturism)
 * [2025-04-09, 14:52:46](https://news.ycombinator.com/item?id=43632828) - [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
 * [2025-04-09, 13:38:39](https://news.ycombinator.com/item?id=43631931) - [The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience](https://blog.google/products/google-cloud/sphere-wizard-of-oz/)
-* [2025-04-08, 06:54:36](https://news.ycombinator.com/item?id=43619032) - [Intentionally Making Close Friends (2021)](https://www.neelnanda.io/blog/43-making-friends)
 
 ## [Archives](archives/index.md)
 

@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-04-12](index.md)
 
 * [2025-04-12, 21:19:03](https://news.ycombinator.com/item?id=43668019) - [Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'](https://www.bbc.com/news/articles/cj3xjrj7v78o)
+* [2025-04-12, 21:10:59](https://news.ycombinator.com/item?id=43667963) - [My prediction after GPT-4o image generation](https://arxiv.org/abs/2504.06256)
 * [2025-04-12, 21:03:17](https://news.ycombinator.com/item?id=43667925) - [Zod v4 Beta](https://v4.zod.dev/v4)
 * [2025-04-12, 20:56:48](https://news.ycombinator.com/item?id=43667887) - [Ask HN: How do you monetize personal code if it's not an \"app\"?](https://news.ycombinator.com/item?id=43667887)
+* [2025-04-12, 20:42:49](https://news.ycombinator.com/item?id=43667790) - [WTF Is Botmetr? The First Platform That Rewards You for Hunting Chatbots](https://www.botmetr.com/)
 * [2025-04-12, 20:20:37](https://news.ycombinator.com/item?id=43667630) - [It never happened–but the picture says it did: 28 fake images that fooled world](https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world)
 * [2025-04-12, 20:00:12](https://news.ycombinator.com/item?id=43667494) - [The 5 levels of configuration languages](https://beza1e1.tuxen.de/config_levels.html)
 * [2025-04-12, 19:59:30](https://news.ycombinator.com/item?id=43667488) - [Dear Big Tech, Stop Shoving AI into Operating Systems](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/)
