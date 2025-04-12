@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-11, 23:37:45](https://news.ycombinator.com/item?id=43659876) - [Dev Tools Honeytrap: Why We Can't Stop Building Tools Nobody Buys](https://substack.com/home/post/p-161145826)
+* [2025-04-12, 02:50:14](https://news.ycombinator.com/item?id=43660914) - [That groan you hear is users' reaction to Recall going back into Windows](https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/)
 * [2025-04-11, 22:27:16](https://news.ycombinator.com/item?id=43659370) - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
 * [2025-04-11, 22:26:41](https://news.ycombinator.com/item?id=43659365) - [Vacheron Constantin breaks the world record for most complicated wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
 * [2025-04-11, 21:26:36](https://news.ycombinator.com/item?id=43658794) - [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
@@ -13,7 +13,6 @@
 * [2025-04-11, 16:24:58](https://news.ycombinator.com/item?id=43655603) - [Leaked data reveals Israeli govt campaign to remove pro-Palestine posts on Meta](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta)
 * [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing (2023)](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:25:13](https://news.ycombinator.com/item?id=43654912) - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
-* [2025-04-11, 15:22:35](https://news.ycombinator.com/item?id=43654881) - [Rust CUDA Project](https://github.com/Rust-GPU/Rust-CUDA)
 * [2025-04-11, 15:18:21](https://news.ycombinator.com/item?id=43654813) - [WebRTC for the Curious](https://webrtcforthecurious.com)
 * [2025-04-11, 14:42:16](https://news.ycombinator.com/item?id=43654350) - [Show HN: Omiword – A daily, sector-based word puzzle](https://www.omiword.com/)
 * [2025-04-11, 14:01:06](https://news.ycombinator.com/item?id=43653885) - [Adobe deletes Bluesky posts after backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
@@ -24,6 +23,7 @@
 * [2025-04-11, 08:26:14](https://news.ycombinator.com/item?id=43651576) - [Why I Program in Lisp](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html)
 * [2025-04-11, 08:15:57](https://news.ycombinator.com/item?id=43651532) - [Lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
 * [2025-04-10, 13:16:25](https://news.ycombinator.com/item?id=43643467) - [Once lush Sahara was home to a surprisingly unique group of humans](https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans)
+* [2025-04-10, 08:35:17](https://news.ycombinator.com/item?id=43641958) - [Procedural Generation of Mammals and Locomotion](https://blog.runevision.com/2025/01/procedural-creature-progress-2021-2024.html)
 * [2025-04-09, 09:02:15](https://news.ycombinator.com/item?id=43630223) - [Grappling with Infinity in Constraint Solvers](https://tuzz.tech/blog/grappling-with-infinity)
 * [2025-04-09, 05:29:59](https://news.ycombinator.com/item?id=43629158) - [Pinball Brothers – A Swedish-Italian Pinball Company](https://www.pinballbrothers.com/)
 * [2025-04-09, 01:27:48](https://news.ycombinator.com/item?id=43628070) - [Blue Prince is a roguelike puzzle masterpiece](https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/)
