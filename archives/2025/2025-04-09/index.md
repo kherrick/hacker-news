@@ -51,6 +51,7 @@
 * [2025-04-09, 14:25:08](https://news.ycombinator.com/item?id=43632516) - [Hidden social & emotional competencies in autism spectrum disorders:digital lens](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1559202/full)
 * [2025-04-09, 14:20:14](https://news.ycombinator.com/item?id=43632459) - [Small Town America vs. Big Box Stores](https://www.strongtowns.org/journal/2025/4/1/small-town-america-vs-big-box-stores)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
+* [2025-04-09, 14:12:09](https://news.ycombinator.com/item?id=43632373) - [Show HN: Python at the Speed of Rust](https://blog.fxn.ai/python-at-the-speed-of-rust/)
 * [2025-04-09, 14:04:17](https://news.ycombinator.com/item?id=43632278) - [Show HN: Fermi – A Wordle-style game for order-of-magnitude thinking](https://fermi-game.andrewnoble.me/)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
 * [2025-04-09, 13:37:29](https://news.ycombinator.com/item?id=43631925) - [Ask HN: Are you interested in a text only browser that runs JavaScript?](https://news.ycombinator.com/item?id=43631925)
