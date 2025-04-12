@@ -26,6 +26,8 @@
 * [2025-04-12, 14:25:41](https://news.ycombinator.com/item?id=43664660) - [\"Slow Pay, Low Pay or No Pay\": Blue Cross Approved Surgeries Then Refused to Pay](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors)
 * [2025-04-12, 14:20:53](https://news.ycombinator.com/item?id=43664624) - [Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked](https://twitter.com/TradingThomas3/status/1911047516021281205)
 * [2025-04-12, 14:10:25](https://news.ycombinator.com/item?id=43664538) - [AI Hallucinations Are Fueling a New Class of Supply Chain Attacks](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
+* [2025-04-12, 14:01:31](https://news.ycombinator.com/item?id=43664455) - [Apache ECharts + Leaflet + shadcn for data viz](https://docs.evidence.dev/components/all-components/)
+* [2025-04-12, 13:18:04](https://news.ycombinator.com/item?id=43664121) - [Trump exempts phones, computers, chips from 'reciprocal' tariffs](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs)
 * [2025-04-12, 12:52:54](https://news.ycombinator.com/item?id=43663941) - [Why training AI can't be IP theft](https://blog.giovanh.com/blog/2025/04/03/why-training-ai-cant-be-ip-theft/)
 * [2025-04-12, 12:43:27](https://news.ycombinator.com/item?id=43663880) - [Charts.css](https://chartscss.org/)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)
