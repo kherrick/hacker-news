@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-12, 21:19:03](https://news.ycombinator.com/item?id=43668019) - [Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'](https://www.bbc.com/news/articles/cj3xjrj7v78o)
 * [2025-04-12, 21:03:17](https://news.ycombinator.com/item?id=43667925) - [Zod v4 Beta](https://v4.zod.dev/v4)
 * [2025-04-12, 19:02:26](https://news.ycombinator.com/item?id=43667061) - [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
 * [2025-04-12, 18:23:07](https://news.ycombinator.com/item?id=43666778) - [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
@@ -27,7 +28,6 @@
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
 * [2025-04-09, 13:38:39](https://news.ycombinator.com/item?id=43631931) - [The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience](https://blog.google/products/google-cloud/sphere-wizard-of-oz/)
 * [2025-04-09, 06:15:26](https://news.ycombinator.com/item?id=43629380) - [C++: terser (shorter) lambda == SHORTY (ab-use?)](https://github.com/hanickadot/shorty)
-* [2025-04-09, 01:27:48](https://news.ycombinator.com/item?id=43628070) - [Blue Prince is a roguelike puzzle masterpiece](https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/)
 * [2025-04-08, 13:08:49](https://news.ycombinator.com/item?id=43621378) - [A 32-bit processor made with an atomically thin semiconductor](https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/)
 * [2025-04-08, 06:54:36](https://news.ycombinator.com/item?id=43619032) - [Intentionally Making Close Friends (2021)](https://www.neelnanda.io/blog/43-making-friends)
 
