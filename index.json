@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-12, 14:45:01",
+      "https://news.ycombinator.com/item?id=43664820"
+    ],
+    [
+      "Benefits of Apache Iceberg for geospatial data analysis",
+      "https://wherobots.com/blog/benefits-of-apache-iceberg-for-geospatial-data-analysis/"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 14:26:14",
       "https://news.ycombinator.com/item?id=43664665"
     ],
@@ -17,6 +27,16 @@
     [
       "\"Slow Pay, Low Pay or No Pay\": Blue Cross Approved Surgeries Then Refused to Pay",
       "https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 14:10:25",
+      "https://news.ycombinator.com/item?id=43664538"
+    ],
+    [
+      "AI Hallucinations Are Fueling a New Class of Supply Chain Attacks",
+      "https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-04-11, 15:18:21",
-      "https://news.ycombinator.com/item?id=43654813"
-    ],
-    [
-      "WebRTC for the Curious",
-      "https://webrtcforthecurious.com"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 14:01:06",
       "https://news.ycombinator.com/item?id=43653885"
     ],
@@ -137,26 +147,6 @@
     [
       "Fedora change aims for 99% package reproducibility",
       "https://lwn.net/Articles/1014979/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 13:16:46",
-      "https://news.ycombinator.com/item?id=43653421"
-    ],
-    [
-      "Windows 2000 Server named peak Microsoft",
-      "https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 11:39:18",
-      "https://news.ycombinator.com/item?id=43652723"
-    ],
-    [
-      "But what if I want a faster horse?",
-      "https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Google will let companies run Gemini models in their own data centers",
       "https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 13:38:39",
+      "https://news.ycombinator.com/item?id=43631931"
+    ],
+    [
+      "The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience",
+      "https://blog.google/products/google-cloud/sphere-wizard-of-oz/"
     ]
   ],
   [
