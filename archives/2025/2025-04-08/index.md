@@ -12,6 +12,7 @@
 * [2025-04-08, 21:36:55](https://news.ycombinator.com/item?id=43626707) - [A16Z: AI Avatars](https://a16z.com/ai-avatars/)
 * [2025-04-08, 20:27:12](https://news.ycombinator.com/item?id=43626108) - [Yakread's Ranking Algorithm](https://obryant.dev/p/yakread-algorithm/)
 * [2025-04-08, 20:00:22](https://news.ycombinator.com/item?id=43625864) - [How to Recognize Woodpeckers by Their Drumming Sounds](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/)
+* [2025-04-08, 19:56:02](https://news.ycombinator.com/item?id=43625815) - [Stop Treating YAML Like a String](https://theyamlengineer.com/stop-treating-yaml-like-a-string)
 * [2025-04-08, 19:13:50](https://news.ycombinator.com/item?id=43625474) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 19:11:41](https://news.ycombinator.com/item?id=43625452) - [Solving a \"Layton Puzzle\" with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
 * [2025-04-08, 18:47:45](https://news.ycombinator.com/item?id=43625211) - [PyReason: Explainable inference for annotated, real valued, graph based and tem](https://github.com/lab-v2/pyreason)
