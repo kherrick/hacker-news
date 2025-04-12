@@ -67,6 +67,7 @@
 * [2025-04-10, 11:54:13](https://news.ycombinator.com/item?id=43642928) - [Are Americans Still Welcome in Europe?](https://blog.ricksteves.com/cameron/2025/03/americans-welcome-europe-2025/)
 * [2025-04-10, 11:30:07](https://news.ycombinator.com/item?id=43642802) - [We've Been Conned: The Truth about Big LLM](https://www.dolthub.com/blog/2025-04-09-weve-been-conned-the-truth-about-llms/)
 * [2025-04-10, 09:52:48](https://news.ycombinator.com/item?id=43642351) - [Linux on Samsung Chromebook Plus (Kevin) with Rockchip RK3399 ARM SoC (2024)](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
+* [2025-04-10, 09:22:44](https://news.ycombinator.com/item?id=43642212) - [Roo or Cline? We're building a superset](https://blog.kilocode.ai/p/roo-or-cline-were-building-a-superset)
 * [2025-04-10, 09:09:03](https://news.ycombinator.com/item?id=43642123) - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
 * [2025-04-10, 08:35:17](https://news.ycombinator.com/item?id=43641958) - [Procedural Generation of Mammals and Locomotion](https://blog.runevision.com/2025/01/procedural-creature-progress-2021-2024.html)
 * [2025-04-10, 07:47:46](https://news.ycombinator.com/item?id=43641649) - [Delusional themes may be more varied than we thought](https://www.bps.org.uk/research-digest/delusional-themes-may-be-more-varied-we-thought)
