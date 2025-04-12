@@ -6,6 +6,7 @@
 
 * [2025-04-09, 23:47:45](https://news.ycombinator.com/item?id=43639202) - [The Consequences of Limiting the Tax Deductibility of R&D](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998845)
 * [2025-04-09, 23:17:57](https://news.ycombinator.com/item?id=43639026) - [Kamal Deployment: The Newest Form of Self-Torture](https://alec-c4.com/posts/2025-04-02-kamal/)
+* [2025-04-09, 22:01:42](https://news.ycombinator.com/item?id=43638520) - [Every picture from Venus' surface, ever (2021)](https://www.planetary.org/articles/every-picture-from-venus-surface-ever)
 * [2025-04-09, 21:54:42](https://news.ycombinator.com/item?id=43638441) - [Run RISC-V Binaries on AMD Zen-Series CPUs via Microcode Modification](https://rvspoc.org/en/S2502/)
 * [2025-04-09, 21:53:05](https://news.ycombinator.com/item?id=43638422) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-09, 21:44:36](https://news.ycombinator.com/item?id=43638361) - [Show HN: Git Game Show – Multiplayer Game in Your Repo](https://justinpaulson.github.io/git_game_show/)
