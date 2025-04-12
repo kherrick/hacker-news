@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 23:37:45](https://news.ycombinator.com/item?id=43659876) - [Dev Tools Honeytrap: Why We Can't Stop Building Tools Nobody Buys](https://substack.com/home/post/p-161145826)
 * [2025-04-11, 22:57:16](https://news.ycombinator.com/item?id=43659581) - [RFK Jr says Deep State 'is real,' called FDA employees 'sock puppet' of industry](https://www.politico.com/news/2025/04/11/rfk-jr-hhs-fda-deep-state-00286826)
+* [2025-04-11, 22:46:25](https://news.ycombinator.com/item?id=43659505) - [Firecracker Entropy for VM Clones](https://github.com/firecracker-microvm/firecracker/blob/main/docs/snapshotting/random-for-clones.md)
 * [2025-04-11, 22:27:16](https://news.ycombinator.com/item?id=43659370) - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
 * [2025-04-11, 22:26:41](https://news.ycombinator.com/item?id=43659365) - [Vacheron Constantin Breaks the World Record for Most Complicated Wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
 * [2025-04-11, 21:26:36](https://news.ycombinator.com/item?id=43658794) - [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
@@ -32,6 +34,7 @@
 * [2025-04-11, 15:25:13](https://news.ycombinator.com/item?id=43654912) - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
 * [2025-04-11, 15:22:35](https://news.ycombinator.com/item?id=43654881) - [Rust CUDA Project](https://github.com/Rust-GPU/Rust-CUDA)
 * [2025-04-11, 15:18:21](https://news.ycombinator.com/item?id=43654813) - [WebRTC for the Curious](https://webrtcforthecurious.com)
+* [2025-04-11, 14:42:16](https://news.ycombinator.com/item?id=43654350) - [Show HN: Omiword – A daily, sector-based word puzzle](https://www.omiword.com/)
 * [2025-04-11, 14:36:16](https://news.ycombinator.com/item?id=43654279) - [WordPress launches new free AI website builder](https://wordpress.com/blog/2025/04/09/ai-website-builder/)
 * [2025-04-11, 14:10:38](https://news.ycombinator.com/item?id=43653998) - [She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her](https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html)
 * [2025-04-11, 14:04:11](https://news.ycombinator.com/item?id=43653922) - [Browser extensions put 4M users at risk of cookie exposure](https://secureannex.com/blog/searching-for-something-unknow/)

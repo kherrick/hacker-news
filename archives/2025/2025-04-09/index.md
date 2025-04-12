@@ -83,6 +83,7 @@
 * [2025-04-09, 06:30:21](https://news.ycombinator.com/item?id=43629442) - [Bond rout starting to sound market alarm bells](https://www.reuters.com/markets/global-markets-tariffs-bonds-2025-04-09/)
 * [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best Programmers I Know – Matthias Endler](https://endler.dev/2025/best-programmers/)
 * [2025-04-09, 05:58:49](https://news.ycombinator.com/item?id=43629294) - [Mississippi libraries ordered to delete research in response to state laws](https://mississippitoday.org/2025/04/08/mississippi-libraries-ordered-to-delete-academic-research-in-response-to-state-laws/)
+* [2025-04-09, 05:29:59](https://news.ycombinator.com/item?id=43629158) - [Pinball Brothers – A Swedish-Italian Pinball Company](https://www.pinballbrothers.com/)
 * [2025-04-09, 05:24:17](https://news.ycombinator.com/item?id=43629127) - [Nintendo confirms you will have to pay to use the Switch 2's C button](https://www.polygon.com/nintendo-switch-2/553458/switch-2-nintendo-confirms-c-button-price)
 * [2025-04-09, 05:08:58](https://news.ycombinator.com/item?id=43629058) - [DeepCoder: An Open-Source 14B Coder at O3-Mini Level](https://www.together.ai/blog/deepcoder)
 * [2025-04-09, 03:00:01](https://news.ycombinator.com/item?id=43628500) - [NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
