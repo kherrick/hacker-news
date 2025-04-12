@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-12, 14:26:14](https://news.ycombinator.com/item?id=43664665) - [Apple, Nvidia, Dell, and Others Get a Tariffs Exemption Under New Rules](https://www.barrons.com/articles/tariffs-exclusions-exemptions-apple-nvidia-dell-smartphones-pcs-b2e069ff)
-* [2025-04-12, 14:20:53](https://news.ycombinator.com/item?id=43664624) - [Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked](https://twitter.com/TradingThomas3/status/1911047516021281205)
 * [2025-04-12, 12:43:27](https://news.ycombinator.com/item?id=43663880) - [Charts.css](https://chartscss.org/)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)
 * [2025-04-12, 12:22:35](https://news.ycombinator.com/item?id=43663777) - [AI can't stop making up software dependencies and sabotaging everything](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
@@ -15,6 +14,7 @@
 * [2025-04-11, 14:01:06](https://news.ycombinator.com/item?id=43653885) - [Adobe deletes Bluesky posts after backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
 * [2025-04-11, 13:40:26](https://news.ycombinator.com/item?id=43653672) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
 * [2025-04-11, 13:16:46](https://news.ycombinator.com/item?id=43653421) - [Windows 2000 Server named peak Microsoft](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/)
+* [2025-04-11, 11:39:18](https://news.ycombinator.com/item?id=43652723) - [But what if I want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse)
 * [2025-04-11, 08:15:57](https://news.ycombinator.com/item?id=43651532) - [Lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
 * [2025-04-10, 13:16:25](https://news.ycombinator.com/item?id=43643467) - [Once lush Sahara was home to a surprisingly unique group of humans](https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans)
 * [2025-04-10, 07:47:46](https://news.ycombinator.com/item?id=43641649) - [Delusional themes may be more varied than we thought](https://www.bps.org.uk/research-digest/delusional-themes-may-be-more-varied-we-thought)
