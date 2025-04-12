@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-12, 21:19:03",
-      "https://news.ycombinator.com/item?id=43668019"
-    ],
-    [
-      "Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'",
-      "https://www.bbc.com/news/articles/cj3xjrj7v78o"
-    ]
-  ],
-  [
-    [
       "2025-04-12, 21:03:17",
       "https://news.ycombinator.com/item?id=43667925"
     ],
@@ -21,12 +11,42 @@
   ],
   [
     [
+      "2025-04-12, 20:56:48",
+      "https://news.ycombinator.com/item?id=43667887"
+    ],
+    [
+      "Ask HN: How do you monetize personal code if it's not an \"app\"?",
+      "https://news.ycombinator.com/item?id=43667887"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 20:00:12",
+      "https://news.ycombinator.com/item?id=43667494"
+    ],
+    [
+      "The 5 levels of configuration languages",
+      "https://beza1e1.tuxen.de/config_levels.html"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 19:02:26",
       "https://news.ycombinator.com/item?id=43667061"
     ],
     [
       "Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode",
       "https://gitea.bubbletea.dev/shibao/memex"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 18:55:17",
+      "https://news.ycombinator.com/item?id=43667010"
+    ],
+    [
+      "Why is there a \"small house\" in IBM's Code page 437?",
+      "https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience",
       "https://blog.google/products/google-cloud/sphere-wizard-of-oz/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 06:15:26",
-      "https://news.ycombinator.com/item?id=43629380"
-    ],
-    [
-      "C++: terser (shorter) lambda == SHORTY (ab-use?)",
-      "https://github.com/hanickadot/shorty"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 13:08:49",
-      "https://news.ycombinator.com/item?id=43621378"
-    ],
-    [
-      "A 32-bit processor made with an atomically thin semiconductor",
-      "https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/"
     ]
   ],
   [
