@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-12, 15:26:25](https://news.ycombinator.com/item?id=43665201) - [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
+* [2025-04-12, 15:03:45](https://news.ycombinator.com/item?id=43664996) - [Which countries would benefit most from an American brain drain?](https://www.economist.com/graphic-detail/2025/04/11/which-countries-would-benefit-most-from-an-american-brain-drain)
 * [2025-04-12, 14:26:14](https://news.ycombinator.com/item?id=43664665) - [Apple, Nvidia, Dell, and Others Get a Tariffs Exemption Under New Rules](https://www.barrons.com/articles/tariffs-exclusions-exemptions-apple-nvidia-dell-smartphones-pcs-b2e069ff)
 * [2025-04-12, 14:25:41](https://news.ycombinator.com/item?id=43664660) - [\"Slow Pay, Low Pay or No Pay\": Blue Cross Approved Surgeries Then Refused to Pay](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)
@@ -20,7 +21,6 @@
 * [2025-04-10, 07:47:46](https://news.ycombinator.com/item?id=43641649) - [Delusional themes may be more varied than we thought](https://www.bps.org.uk/research-digest/delusional-themes-may-be-more-varied-we-thought)
 * [2025-04-10, 03:31:17](https://news.ycombinator.com/item?id=43640345) - [Ames Shovel and Tool Catalog of Shovels, Spades and Scoops (1926) [pdf]](https://stonehill-website.s3.amazonaws.com/files/resources/1926-ames-catalog-2.pdf)
 * [2025-04-09, 23:55:12](https://news.ycombinator.com/item?id=43639253) - [Why 'Prince Rupert's Drop' Glass Is Strong Enough to Shatter a Bullet (2023)](https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/)
-* [2025-04-09, 22:01:42](https://news.ycombinator.com/item?id=43638520) - [Every picture from Venus' surface, ever (2021)](https://www.planetary.org/articles/every-picture-from-venus-surface-ever)
 * [2025-04-09, 16:56:31](https://news.ycombinator.com/item?id=43634408) - [One Bug Wasn't Enough: Escalating Twice Through SAP's Setuid Landscape](https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
 * [2025-04-09, 13:38:39](https://news.ycombinator.com/item?id=43631931) - [The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience](https://blog.google/products/google-cloud/sphere-wizard-of-oz/)
