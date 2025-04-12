@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-12, 02:50:14](https://news.ycombinator.com/item?id=43660914) - [That groan you hear is users' reaction to Recall going back into Windows](https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/)
+* [2025-04-12, 04:21:15](https://news.ycombinator.com/item?id=43661329) - [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
 * [2025-04-11, 22:27:16](https://news.ycombinator.com/item?id=43659370) - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
 * [2025-04-11, 22:26:41](https://news.ycombinator.com/item?id=43659365) - [Vacheron Constantin breaks the world record for most complicated wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
 * [2025-04-11, 21:26:36](https://news.ycombinator.com/item?id=43658794) - [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
@@ -22,7 +22,7 @@
 * [2025-04-11, 09:27:08](https://news.ycombinator.com/item?id=43652024) - [Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
 * [2025-04-11, 08:15:57](https://news.ycombinator.com/item?id=43651532) - [Lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
 * [2025-04-10, 13:16:25](https://news.ycombinator.com/item?id=43643467) - [Once lush Sahara was home to a surprisingly unique group of humans](https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans)
-* [2025-04-10, 08:35:17](https://news.ycombinator.com/item?id=43641958) - [Procedural Generation of Mammals and Locomotion](https://blog.runevision.com/2025/01/procedural-creature-progress-2021-2024.html)
+* [2025-04-09, 17:59:39](https://news.ycombinator.com/item?id=43635185) - [Soil from the moon's far side suggests drier conditions than side facing Earth](https://apnews.com/article/moon-far-side-near-side-water-18081418600ea93bac69ac6af86a761b)
 * [2025-04-09, 10:29:24](https://news.ycombinator.com/item?id=43630634) - [In Guatemala, painted altar found at Tikal adds new context to Maya history](https://phys.org/news/2025-04-guatemala-altar-tikal-context-mysterious.html)
 * [2025-04-09, 05:29:59](https://news.ycombinator.com/item?id=43629158) - [Pinball Brothers – A Swedish-Italian Pinball Company](https://www.pinballbrothers.com/)
 * [2025-04-09, 01:27:48](https://news.ycombinator.com/item?id=43628070) - [Blue Prince is a roguelike puzzle masterpiece](https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/)
