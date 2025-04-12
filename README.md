@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-12, 19:02:50](https://news.ycombinator.com/item?id=43667063) - [Florida's New Social Media Bill Explicitly Demands an Encryption Backdoor](https://www.eff.org/deeplinks/2025/04/floridas-new-social-media-bill-says-quiet-part-out-loud-and-demands-encryption)
+* [2025-04-12, 19:02:26](https://news.ycombinator.com/item?id=43667061) - [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
 * [2025-04-12, 18:23:07](https://news.ycombinator.com/item?id=43666778) - [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
 * [2025-04-12, 18:22:42](https://news.ycombinator.com/item?id=43666773) - [China Just Approved Flying Taxis – No Pilot Needed](https://engineerine.com/chinas-flying-taxis/)
 * [2025-04-12, 17:40:09](https://news.ycombinator.com/item?id=43666439) - [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
@@ -18,6 +18,7 @@
 * [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing (2023)](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 14:01:06](https://news.ycombinator.com/item?id=43653885) - [Adobe deletes Bluesky posts after backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
 * [2025-04-11, 13:40:26](https://news.ycombinator.com/item?id=43653672) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
+* [2025-04-10, 13:16:25](https://news.ycombinator.com/item?id=43643467) - [Once lush Sahara was home to a surprisingly unique group of humans](https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans)
 * [2025-04-10, 09:22:44](https://news.ycombinator.com/item?id=43642212) - [Roo or Cline? We're building a superset](https://blog.kilocode.ai/p/roo-or-cline-were-building-a-superset)
 * [2025-04-10, 07:47:46](https://news.ycombinator.com/item?id=43641649) - [Delusional themes may be more varied than we thought](https://www.bps.org.uk/research-digest/delusional-themes-may-be-more-varied-we-thought)
 * [2025-04-10, 06:19:42](https://news.ycombinator.com/item?id=43641183) - [Rebuilding Prime Video UI with Rust and WebAssembly](https://www.infoq.com/presentations/prime-video-rust/)
@@ -27,7 +28,6 @@
 * [2025-04-09, 13:38:39](https://news.ycombinator.com/item?id=43631931) - [The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience](https://blog.google/products/google-cloud/sphere-wizard-of-oz/)
 * [2025-04-09, 06:15:26](https://news.ycombinator.com/item?id=43629380) - [C++: terser (shorter) lambda == SHORTY (ab-use?)](https://github.com/hanickadot/shorty)
 * [2025-04-09, 01:27:48](https://news.ycombinator.com/item?id=43628070) - [Blue Prince is a roguelike puzzle masterpiece](https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/)
-* [2025-04-08, 19:56:02](https://news.ycombinator.com/item?id=43625815) - [Stop Treating YAML Like a String](https://theyamlengineer.com/stop-treating-yaml-like-a-string)
 * [2025-04-08, 13:08:49](https://news.ycombinator.com/item?id=43621378) - [A 32-bit processor made with an atomically thin semiconductor](https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/)
 * [2025-04-08, 06:54:36](https://news.ycombinator.com/item?id=43619032) - [Intentionally Making Close Friends (2021)](https://www.neelnanda.io/blog/43-making-friends)
 
