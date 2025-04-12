@@ -87,6 +87,7 @@
 * [2025-04-09, 06:45:10](https://news.ycombinator.com/item?id=43629490) - [Toulouse University wants to host US researchers whose work is at risk](https://en.univ-toulouse.fr/news/toulouse-welcomes-us-researchers-facing-unprecedented-challenges)
 * [2025-04-09, 06:33:44](https://news.ycombinator.com/item?id=43629455) - [Domain Sniped on Launch Day](https://kill-saas.com/posts/domain-snipe)
 * [2025-04-09, 06:30:21](https://news.ycombinator.com/item?id=43629442) - [Bond rout starting to sound market alarm bells](https://www.reuters.com/markets/global-markets-tariffs-bonds-2025-04-09/)
+* [2025-04-09, 06:15:26](https://news.ycombinator.com/item?id=43629380) - [C++: terser (shorter) lambda == SHORTY (ab-use?)](https://github.com/hanickadot/shorty)
 * [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best Programmers I Know – Matthias Endler](https://endler.dev/2025/best-programmers/)
 * [2025-04-09, 05:58:49](https://news.ycombinator.com/item?id=43629294) - [Mississippi libraries ordered to delete research in response to state laws](https://mississippitoday.org/2025/04/08/mississippi-libraries-ordered-to-delete-academic-research-in-response-to-state-laws/)
 * [2025-04-09, 05:29:59](https://news.ycombinator.com/item?id=43629158) - [Pinball Brothers – A Swedish-Italian Pinball Company](https://www.pinballbrothers.com/)
