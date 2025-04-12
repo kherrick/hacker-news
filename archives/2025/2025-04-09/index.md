@@ -50,6 +50,7 @@
 * [2025-04-09, 15:31:16](https://news.ycombinator.com/item?id=43633256) - [Bundeswehr to remove all Microsoft software from its systems](https://www.itprotoday.com/software-development/german-military-to-replace-microsoft-software)
 * [2025-04-09, 15:07:53](https://news.ycombinator.com/item?id=43633005) - [Rolex Caliber 7135: new indirect impulse escapement and high frequency movement](https://www.hodinkee.com/articles/introducing-rolex-land-dweller)
 * [2025-04-09, 14:53:01](https://news.ycombinator.com/item?id=43632831) - [Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity](https://productrank.ai/)
+* [2025-04-09, 14:52:46](https://news.ycombinator.com/item?id=43632828) - [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
 * [2025-04-09, 14:25:08](https://news.ycombinator.com/item?id=43632516) - [Hidden social & emotional competencies in autism spectrum disorders:digital lens](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1559202/full)
 * [2025-04-09, 14:20:14](https://news.ycombinator.com/item?id=43632459) - [Small Town America vs. Big Box Stores](https://www.strongtowns.org/journal/2025/4/1/small-town-america-vs-big-box-stores)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
