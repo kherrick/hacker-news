@@ -55,6 +55,7 @@
 * [2025-04-09, 14:12:09](https://news.ycombinator.com/item?id=43632373) - [Show HN: Python at the Speed of Rust](https://blog.fxn.ai/python-at-the-speed-of-rust/)
 * [2025-04-09, 14:04:17](https://news.ycombinator.com/item?id=43632278) - [Show HN: Fermi – A Wordle-style game for order-of-magnitude thinking](https://fermi-game.andrewnoble.me/)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
+* [2025-04-09, 13:38:39](https://news.ycombinator.com/item?id=43631931) - [The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience](https://blog.google/products/google-cloud/sphere-wizard-of-oz/)
 * [2025-04-09, 13:37:29](https://news.ycombinator.com/item?id=43631925) - [Ask HN: Are you interested in a text only browser that runs JavaScript?](https://news.ycombinator.com/item?id=43631925)
 * [2025-04-09, 13:30:30](https://news.ycombinator.com/item?id=43631854) - [EU member states agree first wave of retaliatory tariffs](https://www.euronews.com/my-europe/2025/04/09/eu-member-states-agree-first-wave-of-retaliatory-tariffs)
 * [2025-04-09, 13:27:30](https://news.ycombinator.com/item?id=43631822) - [SpacetimeDB](https://spacetimedb.com/)

@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-12](index.md)
 
+* [2025-04-12, 14:45:01](https://news.ycombinator.com/item?id=43664820) - [Benefits of Apache Iceberg for geospatial data analysis](https://wherobots.com/blog/benefits-of-apache-iceberg-for-geospatial-data-analysis/)
 * [2025-04-12, 14:26:14](https://news.ycombinator.com/item?id=43664665) - [Apple, Nvidia, Dell, and Others Get a Tariffs Exemption Under New Rules](https://www.barrons.com/articles/tariffs-exclusions-exemptions-apple-nvidia-dell-smartphones-pcs-b2e069ff)
 * [2025-04-12, 14:25:41](https://news.ycombinator.com/item?id=43664660) - [\"Slow Pay, Low Pay or No Pay\": Blue Cross Approved Surgeries Then Refused to Pay](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors)
 * [2025-04-12, 14:20:53](https://news.ycombinator.com/item?id=43664624) - [Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked](https://twitter.com/TradingThomas3/status/1911047516021281205)
+* [2025-04-12, 14:10:25](https://news.ycombinator.com/item?id=43664538) - [AI Hallucinations Are Fueling a New Class of Supply Chain Attacks](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
 * [2025-04-12, 12:52:54](https://news.ycombinator.com/item?id=43663941) - [Why training AI can't be IP theft](https://blog.giovanh.com/blog/2025/04/03/why-training-ai-cant-be-ip-theft/)
 * [2025-04-12, 12:43:27](https://news.ycombinator.com/item?id=43663880) - [Charts.css](https://chartscss.org/)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)
