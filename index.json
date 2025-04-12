@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-04-11, 15:22:35",
-      "https://news.ycombinator.com/item?id=43654881"
-    ],
-    [
-      "Rust CUDA Project",
-      "https://github.com/Rust-GPU/Rust-CUDA"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 15:18:21",
       "https://news.ycombinator.com/item?id=43654813"
     ],
@@ -267,6 +257,16 @@
     [
       "Blue Prince is a roguelike puzzle masterpiece",
       "https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 18:47:45",
+      "https://news.ycombinator.com/item?id=43625211"
+    ],
+    [
+      "PyReason: Explainable inference for annotated, real valued, graph based and tem",
+      "https://github.com/lab-v2/pyreason"
     ]
   ],
   [
