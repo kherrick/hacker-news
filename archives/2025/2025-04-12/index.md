@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-12](index.md)
 
+* [2025-04-12, 21:03:17](https://news.ycombinator.com/item?id=43667925) - [Zod v4 Beta](https://v4.zod.dev/v4)
 * [2025-04-12, 20:20:37](https://news.ycombinator.com/item?id=43667630) - [It never happened–but the picture says it did: 28 fake images that fooled world](https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world)
 * [2025-04-12, 19:59:30](https://news.ycombinator.com/item?id=43667488) - [Dear Big Tech, Stop Shoving AI into Operating Systems](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/)
 * [2025-04-12, 19:33:22](https://news.ycombinator.com/item?id=43667305) - [A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/)
