@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-12](index.md)
 
+* [2025-04-12, 14:20:53](https://news.ycombinator.com/item?id=43664624) - [Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked](https://twitter.com/TradingThomas3/status/1911047516021281205)
 * [2025-04-12, 12:52:54](https://news.ycombinator.com/item?id=43663941) - [Why training AI can't be IP theft](https://blog.giovanh.com/blog/2025/04/03/why-training-ai-cant-be-ip-theft/)
 * [2025-04-12, 12:43:27](https://news.ycombinator.com/item?id=43663880) - [Charts.css](https://chartscss.org/)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)

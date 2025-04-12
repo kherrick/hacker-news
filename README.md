@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-12, 12:52:54](https://news.ycombinator.com/item?id=43663941) - [Why training AI can't be IP theft](https://blog.giovanh.com/blog/2025/04/03/why-training-ai-cant-be-ip-theft/)
+* [2025-04-12, 14:20:53](https://news.ycombinator.com/item?id=43664624) - [Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked](https://twitter.com/TradingThomas3/status/1911047516021281205)
 * [2025-04-12, 12:43:27](https://news.ycombinator.com/item?id=43663880) - [Charts.css](https://chartscss.org/)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)
 * [2025-04-12, 12:22:35](https://news.ycombinator.com/item?id=43663777) - [AI can't stop making up software dependencies and sabotaging everything](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
@@ -9,7 +9,6 @@
 * [2025-04-12, 03:58:50](https://news.ycombinator.com/item?id=43661235) - [Google Is Winning on Every AI Front](https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front)
 * [2025-04-11, 22:27:16](https://news.ycombinator.com/item?id=43659370) - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
 * [2025-04-11, 22:26:41](https://news.ycombinator.com/item?id=43659365) - [Vacheron Constantin breaks the world record for most complicated wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
-* [2025-04-11, 16:53:20](https://news.ycombinator.com/item?id=43655914) - [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
 * [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing (2023)](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:18:21](https://news.ycombinator.com/item?id=43654813) - [WebRTC for the Curious](https://webrtcforthecurious.com)
 * [2025-04-11, 14:01:06](https://news.ycombinator.com/item?id=43653885) - [Adobe deletes Bluesky posts after backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
@@ -22,6 +21,7 @@
 * [2025-04-10, 03:31:17](https://news.ycombinator.com/item?id=43640345) - [Ames Shovel and Tool Catalog of Shovels, Spades and Scoops (1926) [pdf]](https://stonehill-website.s3.amazonaws.com/files/resources/1926-ames-catalog-2.pdf)
 * [2025-04-09, 23:55:12](https://news.ycombinator.com/item?id=43639253) - [Why 'Prince Rupert's Drop' Glass Is Strong Enough to Shatter a Bullet (2023)](https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/)
 * [2025-04-09, 22:01:42](https://news.ycombinator.com/item?id=43638520) - [Every picture from Venus' surface, ever (2021)](https://www.planetary.org/articles/every-picture-from-venus-surface-ever)
+* [2025-04-09, 16:56:31](https://news.ycombinator.com/item?id=43634408) - [One Bug Wasn't Enough: Escalating Twice Through SAP's Setuid Landscape](https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html)
 * [2025-04-09, 14:12:09](https://news.ycombinator.com/item?id=43632373) - [Show HN: Python at the Speed of Rust](https://blog.fxn.ai/python-at-the-speed-of-rust/)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
 * [2025-04-09, 06:15:26](https://news.ycombinator.com/item?id=43629380) - [C++: terser (shorter) lambda == SHORTY (ab-use?)](https://github.com/hanickadot/shorty)

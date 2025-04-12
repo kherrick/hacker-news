@@ -36,6 +36,7 @@
 * [2025-04-09, 17:26:02](https://news.ycombinator.com/item?id=43634778) - [Last Windows update creates C:\\inetpub](https://infosec.exchange/@wdormann/114308857330723919)
 * [2025-04-09, 17:10:24](https://news.ycombinator.com/item?id=43634582) - [Trump's DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
 * [2025-04-09, 17:04:53](https://news.ycombinator.com/item?id=43634517) - [Ask HN: Why is uptalk intonation so prevalent in ChatGPT voices?](https://news.ycombinator.com/item?id=43634517)
+* [2025-04-09, 16:56:31](https://news.ycombinator.com/item?id=43634408) - [One Bug Wasn't Enough: Escalating Twice Through SAP's Setuid Landscape](https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html)
 * [2025-04-09, 16:31:06](https://news.ycombinator.com/item?id=43634005) - [Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows](https://withaqua.com)
 * [2025-04-09, 16:10:13](https://news.ycombinator.com/item?id=43633692) - [The Dumbest Economic Policy in Modern History](https://www.theatlantic.com/economy/archive/2025/04/economic-policy-trump-tariffs/682369/)
 * [2025-04-09, 15:58:30](https://news.ycombinator.com/item?id=43633568) - [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
