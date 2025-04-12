@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-12, 16:26:42](https://news.ycombinator.com/item?id=43665793) - [Paris said au revoir to cars. Air pollution maps reveal a dramatic change](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/)
 * [2025-04-12, 15:26:25](https://news.ycombinator.com/item?id=43665201) - [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
 * [2025-04-12, 14:26:14](https://news.ycombinator.com/item?id=43664665) - [Apple, Nvidia, Dell, and Others Get a Tariffs Exemption Under New Rules](https://www.barrons.com/articles/tariffs-exclusions-exemptions-apple-nvidia-dell-smartphones-pcs-b2e069ff)
-* [2025-04-12, 14:25:41](https://news.ycombinator.com/item?id=43664660) - [\"Slow Pay, Low Pay or No Pay\": Blue Cross Approved Surgeries Then Refused to Pay](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)
 * [2025-04-12, 12:22:35](https://news.ycombinator.com/item?id=43663777) - [AI can't stop making up software dependencies and sabotaging everything](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
 * [2025-04-12, 12:00:15](https://news.ycombinator.com/item?id=43663658) - [Instant (YC S22) Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
