@@ -6,6 +6,7 @@
 
 * [2025-04-12, 17:00:38](https://news.ycombinator.com/item?id=43666112) - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer)
 * [2025-04-12, 16:26:42](https://news.ycombinator.com/item?id=43665793) - [Paris said au revoir to cars. Air pollution maps reveal a dramatic change](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/)
+* [2025-04-12, 16:01:34](https://news.ycombinator.com/item?id=43665540) - [ArkType: Ergonomic TS validator 100x faster than Zod](https://arktype.io/)
 * [2025-04-12, 15:26:25](https://news.ycombinator.com/item?id=43665201) - [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
 * [2025-04-12, 15:03:45](https://news.ycombinator.com/item?id=43664996) - [Which countries would benefit most from an American brain drain?](https://www.economist.com/graphic-detail/2025/04/11/which-countries-would-benefit-most-from-an-american-brain-drain)
 * [2025-04-12, 14:45:01](https://news.ycombinator.com/item?id=43664820) - [Benefits of Apache Iceberg for geospatial data analysis](https://wherobots.com/blog/benefits-of-apache-iceberg-for-geospatial-data-analysis/)
