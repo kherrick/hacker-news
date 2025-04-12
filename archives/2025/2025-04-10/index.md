@@ -84,6 +84,7 @@
 * [2025-04-10, 03:41:49](https://news.ycombinator.com/item?id=43640403) - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
 * [2025-04-10, 03:31:17](https://news.ycombinator.com/item?id=43640345) - [Ames Shovel and Tool Catalog of Shovels, Spades and Scoops (1926) [pdf]](https://stonehill-website.s3.amazonaws.com/files/resources/1926-ames-catalog-2.pdf)
 * [2025-04-10, 03:14:19](https://news.ycombinator.com/item?id=43640267) - [NIH freezes all research grants to Columbia University](https://www.science.org/content/article/nih-freezes-all-research-grants-columbia-university)
+* [2025-04-10, 02:57:43](https://news.ycombinator.com/item?id=43640204) - [Retro Computing Artifacts Stream](https://retro-computing-stream.onrender.com/)
 * [2025-04-10, 02:48:08](https://news.ycombinator.com/item?id=43640166) - [Evidence suggesting Quasar Alpha is OpenAI's new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
 * [2025-04-10, 02:38:42](https://news.ycombinator.com/item?id=43640115) - [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
 * [2025-04-10, 01:51:24](https://news.ycombinator.com/item?id=43639871) - [No Pay, No Work; Early Career Lessons](https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/)
