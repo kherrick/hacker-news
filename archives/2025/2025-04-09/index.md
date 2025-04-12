@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 23:55:12](https://news.ycombinator.com/item?id=43639253) - [Why 'Prince Rupert's Drop' Glass Is Strong Enough to Shatter a Bullet](https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/)
 * [2025-04-09, 23:47:45](https://news.ycombinator.com/item?id=43639202) - [The Consequences of Limiting the Tax Deductibility of R&D](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998845)
 * [2025-04-09, 23:17:57](https://news.ycombinator.com/item?id=43639026) - [Kamal Deployment: The Newest Form of Self-Torture](https://alec-c4.com/posts/2025-04-02-kamal/)
 * [2025-04-09, 22:01:42](https://news.ycombinator.com/item?id=43638520) - [Every picture from Venus' surface, ever (2021)](https://www.planetary.org/articles/every-picture-from-venus-surface-ever)
