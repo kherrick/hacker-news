@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-12, 10:41:56](https://news.ycombinator.com/item?id=43663219) - [What a digital coup looks like [video]](https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like)
 * [2025-04-12, 06:05:09](https://news.ycombinator.com/item?id=43661763) - [Why Your 'Harmonious' Team Is Failing](https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/)
 * [2025-04-12, 05:47:10](https://news.ycombinator.com/item?id=43661680) - [$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money](https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/)
 * [2025-04-12, 04:21:15](https://news.ycombinator.com/item?id=43661329) - [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
@@ -21,6 +20,7 @@
 * [2025-04-11, 11:39:18](https://news.ycombinator.com/item?id=43652723) - [But what if I want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse)
 * [2025-04-11, 08:15:57](https://news.ycombinator.com/item?id=43651532) - [Lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
 * [2025-04-10, 13:16:25](https://news.ycombinator.com/item?id=43643467) - [Once lush Sahara was home to a surprisingly unique group of humans](https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans)
+* [2025-04-10, 03:31:17](https://news.ycombinator.com/item?id=43640345) - [Ames Shovel and Tool Catalog of Shovels, Spades and Scoops (1926) [pdf]](https://stonehill-website.s3.amazonaws.com/files/resources/1926-ames-catalog-2.pdf)
 * [2025-04-09, 23:55:12](https://news.ycombinator.com/item?id=43639253) - [Why 'Prince Rupert's Drop' Glass Is Strong Enough to Shatter a Bullet](https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/)
 * [2025-04-09, 22:01:42](https://news.ycombinator.com/item?id=43638520) - [Every picture from Venus' surface, ever (2021)](https://www.planetary.org/articles/every-picture-from-venus-surface-ever)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
