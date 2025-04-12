@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-12, 22:32:19](https://news.ycombinator.com/item?id=43668433) - [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
 * [2025-04-12, 21:03:17](https://news.ycombinator.com/item?id=43667925) - [Zod v4 Beta](https://v4.zod.dev/v4)
 * [2025-04-12, 20:56:48](https://news.ycombinator.com/item?id=43667887) - [Ask HN: How do you monetize personal code if it's not an \"app\"?](https://news.ycombinator.com/item?id=43667887)
 * [2025-04-12, 20:27:28](https://news.ycombinator.com/item?id=43667693) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
@@ -26,7 +27,6 @@
 * [2025-04-10, 15:02:09](https://news.ycombinator.com/item?id=43644534) - [Learning Assembly for Fun, Performance and Profit](https://thechipletter.substack.com/p/learning-assembly-for-fun-and-profit)
 * [2025-04-10, 06:19:42](https://news.ycombinator.com/item?id=43641183) - [Rebuilding Prime Video UI with Rust and WebAssembly](https://www.infoq.com/presentations/prime-video-rust/)
 * [2025-04-09, 16:56:31](https://news.ycombinator.com/item?id=43634408) - [One Bug Wasn't Enough: Escalating Twice Through SAP's Setuid Landscape](https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html)
-* [2025-04-09, 15:48:30](https://news.ycombinator.com/item?id=43633455) - [Modern Babylon: Ziggurat Skyscrapers and Hugh Ferriss' Retrofuturism](https://publicdomainreview.org/essay/modern-babylon-ziggurat-skyscrapers-and-hugh-ferriss-retrofuturism)
 * [2025-04-09, 14:52:46](https://news.ycombinator.com/item?id=43632828) - [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
 * [2025-04-09, 13:38:39](https://news.ycombinator.com/item?id=43631931) - [The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience](https://blog.google/products/google-cloud/sphere-wizard-of-oz/)

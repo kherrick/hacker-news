@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-12](index.md)
 
+* [2025-04-12, 22:32:19](https://news.ycombinator.com/item?id=43668433) - [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
 * [2025-04-12, 21:19:03](https://news.ycombinator.com/item?id=43668019) - [Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'](https://www.bbc.com/news/articles/cj3xjrj7v78o)
 * [2025-04-12, 21:10:59](https://news.ycombinator.com/item?id=43667963) - [My prediction after GPT-4o image generation](https://arxiv.org/abs/2504.06256)
 * [2025-04-12, 21:03:17](https://news.ycombinator.com/item?id=43667925) - [Zod v4 Beta](https://v4.zod.dev/v4)
