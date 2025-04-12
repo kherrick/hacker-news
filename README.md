@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-12, 18:23:07](https://news.ycombinator.com/item?id=43666778) - [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
+* [2025-04-12, 18:22:42](https://news.ycombinator.com/item?id=43666773) - [China Just Approved Flying Taxis – No Pilot Needed](https://engineerine.com/chinas-flying-taxis/)
 * [2025-04-12, 17:40:09](https://news.ycombinator.com/item?id=43666439) - [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
 * [2025-04-12, 17:26:28](https://news.ycombinator.com/item?id=43666341) - [Dual Kickstart ROM Replacement for Amiga](https://github.com/cdhooper/kicksmash32)
 * [2025-04-12, 17:00:38](https://news.ycombinator.com/item?id=43666112) - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer)
@@ -20,8 +22,6 @@
 * [2025-04-10, 09:22:44](https://news.ycombinator.com/item?id=43642212) - [Roo or Cline? We're building a superset](https://blog.kilocode.ai/p/roo-or-cline-were-building-a-superset)
 * [2025-04-10, 07:47:46](https://news.ycombinator.com/item?id=43641649) - [Delusional themes may be more varied than we thought](https://www.bps.org.uk/research-digest/delusional-themes-may-be-more-varied-we-thought)
 * [2025-04-10, 06:19:42](https://news.ycombinator.com/item?id=43641183) - [Rebuilding Prime Video UI with Rust and WebAssembly](https://www.infoq.com/presentations/prime-video-rust/)
-* [2025-04-10, 03:31:17](https://news.ycombinator.com/item?id=43640345) - [Ames Shovel and Tool Catalog of Shovels, Spades and Scoops (1926) [pdf]](https://stonehill-website.s3.amazonaws.com/files/resources/1926-ames-catalog-2.pdf)
-* [2025-04-10, 02:57:43](https://news.ycombinator.com/item?id=43640204) - [Retro Computing Artifacts Stream](https://retro-computing-stream.onrender.com/)
 * [2025-04-09, 23:55:12](https://news.ycombinator.com/item?id=43639253) - [Why 'Prince Rupert's Drop' Glass Is Strong Enough to Shatter a Bullet (2023)](https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/)
 * [2025-04-09, 16:56:31](https://news.ycombinator.com/item?id=43634408) - [One Bug Wasn't Enough: Escalating Twice Through SAP's Setuid Landscape](https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
