@@ -79,6 +79,7 @@
 * [2025-04-10, 06:54:09](https://news.ycombinator.com/item?id=43641365) - [Trump only simulates madness [Stock Insider Trading]](https://robertreich.substack.com/p/trump-only-simulates-madness)
 * [2025-04-10, 06:42:42](https://news.ycombinator.com/item?id=43641300) - [France's new high-speed train has Americans asking: Why can't we have that?](https://grist.org/looking-forward/frances-new-high-speed-train-design-has-americans-asking-why-cant-we-have-that/)
 * [2025-04-10, 06:33:16](https://news.ycombinator.com/item?id=43641255) - [MusiCoT, a chain-of-thought (CoT) prompting technique for music generation [pdf]](https://musicot.github.io/MusiCoT_paper.pdf)
+* [2025-04-10, 06:19:42](https://news.ycombinator.com/item?id=43641183) - [Rebuilding Prime Video UI with Rust and WebAssembly](https://www.infoq.com/presentations/prime-video-rust/)
 * [2025-04-10, 06:07:40](https://news.ycombinator.com/item?id=43641132) - [National Weather Service no longer translating products for non-English speakers](https://apnews.com/article/weather-spanish-translation-noaa-nws-trump-71c727dbe2e4956247c9d9152494f1dc)
 * [2025-04-10, 03:55:07](https://news.ycombinator.com/item?id=43640480) - [Design System Options for Rails](https://businessclasskit.com/blog/design-system-options-for-rails)
 * [2025-04-10, 03:41:49](https://news.ycombinator.com/item?id=43640403) - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
