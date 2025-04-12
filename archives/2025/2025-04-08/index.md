@@ -13,6 +13,7 @@
 * [2025-04-08, 20:00:22](https://news.ycombinator.com/item?id=43625864) - [How to Recognize Woodpeckers by Their Drumming Sounds](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/)
 * [2025-04-08, 19:13:50](https://news.ycombinator.com/item?id=43625474) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 19:11:41](https://news.ycombinator.com/item?id=43625452) - [Solving a \"Layton Puzzle\" with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
+* [2025-04-08, 18:47:45](https://news.ycombinator.com/item?id=43625211) - [PyReason: Explainable inference for annotated, real valued, graph based and tem](https://github.com/lab-v2/pyreason)
 * [2025-04-08, 18:40:23](https://news.ycombinator.com/item?id=43625139) - [Clojure: Realtime collaborative web apps without ClojureScript](https://andersmurphy.com/2025/04/07/clojure-realtime-collaborative-web-apps-without-clojurescript.html)
 * [2025-04-08, 18:28:06](https://news.ycombinator.com/item?id=43624977) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 * [2025-04-08, 18:21:49](https://news.ycombinator.com/item?id=43624888) - [How Netflix Accurately Attributes eBPF Flow Logs](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc)
