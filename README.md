@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-12, 19:59:30](https://news.ycombinator.com/item?id=43667488) - [Dear Big Tech, Stop Shoving AI into Operating Systems](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/)
 * [2025-04-12, 19:33:22](https://news.ycombinator.com/item?id=43667305) - [A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/)
 * [2025-04-12, 19:29:46](https://news.ycombinator.com/item?id=43667282) - [CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP/)
 * [2025-04-12, 19:02:26](https://news.ycombinator.com/item?id=43667061) - [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
@@ -19,15 +20,14 @@
 * [2025-04-11, 15:50:49](https://news.ycombinator.com/item?id=43655221) - [Erlang's not about lightweight processes and message passing (2023)](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 14:01:06](https://news.ycombinator.com/item?id=43653885) - [Adobe deletes Bluesky posts after backlash](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/)
 * [2025-04-11, 13:40:26](https://news.ycombinator.com/item?id=43653672) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
-* [2025-04-10, 13:16:25](https://news.ycombinator.com/item?id=43643467) - [Once lush Sahara was home to a surprisingly unique group of humans](https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans)
 * [2025-04-10, 09:22:44](https://news.ycombinator.com/item?id=43642212) - [Roo or Cline? We're building a superset](https://blog.kilocode.ai/p/roo-or-cline-were-building-a-superset)
 * [2025-04-10, 06:19:42](https://news.ycombinator.com/item?id=43641183) - [Rebuilding Prime Video UI with Rust and WebAssembly](https://www.infoq.com/presentations/prime-video-rust/)
 * [2025-04-09, 23:55:12](https://news.ycombinator.com/item?id=43639253) - [Why 'Prince Rupert's Drop' Glass Is Strong Enough to Shatter a Bullet (2023)](https://www.popularmechanics.com/science/a40008994/why-the-prince-ruperts-drop-is-so-strong/)
 * [2025-04-09, 16:56:31](https://news.ycombinator.com/item?id=43634408) - [One Bug Wasn't Enough: Escalating Twice Through SAP's Setuid Landscape](https://www.anvilsecure.com/blog/one-bug-wasnt-enough-escalating-twice-through-saps-setuid-landscape.html)
+* [2025-04-09, 15:48:30](https://news.ycombinator.com/item?id=43633455) - [Modern Babylon: Ziggurat Skyscrapers and Hugh Ferriss' Retrofuturism](https://publicdomainreview.org/essay/modern-babylon-ziggurat-skyscrapers-and-hugh-ferriss-retrofuturism)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
 * [2025-04-09, 13:38:39](https://news.ycombinator.com/item?id=43631931) - [The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience](https://blog.google/products/google-cloud/sphere-wizard-of-oz/)
 * [2025-04-09, 06:15:26](https://news.ycombinator.com/item?id=43629380) - [C++: terser (shorter) lambda == SHORTY (ab-use?)](https://github.com/hanickadot/shorty)
-* [2025-04-09, 01:27:48](https://news.ycombinator.com/item?id=43628070) - [Blue Prince is a roguelike puzzle masterpiece](https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/)
 * [2025-04-08, 13:08:49](https://news.ycombinator.com/item?id=43621378) - [A 32-bit processor made with an atomically thin semiconductor](https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/)
 * [2025-04-08, 06:54:36](https://news.ycombinator.com/item?id=43619032) - [Intentionally Making Close Friends (2021)](https://www.neelnanda.io/blog/43-making-friends)
 

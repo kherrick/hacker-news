@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-12](index.md)
 
+* [2025-04-12, 19:59:30](https://news.ycombinator.com/item?id=43667488) - [Dear Big Tech, Stop Shoving AI into Operating Systems](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/)
 * [2025-04-12, 19:33:22](https://news.ycombinator.com/item?id=43667305) - [A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/)
 * [2025-04-12, 19:29:46](https://news.ycombinator.com/item?id=43667282) - [CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP/)
 * [2025-04-12, 19:02:50](https://news.ycombinator.com/item?id=43667063) - [Florida's New Social Media Bill Explicitly Demands an Encryption Backdoor](https://www.eff.org/deeplinks/2025/04/floridas-new-social-media-bill-says-quiet-part-out-loud-and-demands-encryption)
