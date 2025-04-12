@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-12, 21:19:03](https://news.ycombinator.com/item?id=43668019) - [Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'](https://www.bbc.com/news/articles/cj3xjrj7v78o)
 * [2025-04-12, 21:03:17](https://news.ycombinator.com/item?id=43667925) - [Zod v4 Beta](https://v4.zod.dev/v4)
+* [2025-04-12, 20:56:48](https://news.ycombinator.com/item?id=43667887) - [Ask HN: How do you monetize personal code if it's not an \"app\"?](https://news.ycombinator.com/item?id=43667887)
+* [2025-04-12, 20:00:12](https://news.ycombinator.com/item?id=43667494) - [The 5 levels of configuration languages](https://beza1e1.tuxen.de/config_levels.html)
 * [2025-04-12, 19:02:26](https://news.ycombinator.com/item?id=43667061) - [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
+* [2025-04-12, 18:55:17](https://news.ycombinator.com/item?id=43667010) - [Why is there a \"small house\" in IBM's Code page 437?](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/)
 * [2025-04-12, 18:23:07](https://news.ycombinator.com/item?id=43666778) - [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
 * [2025-04-12, 17:40:09](https://news.ycombinator.com/item?id=43666439) - [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
 * [2025-04-12, 17:26:28](https://news.ycombinator.com/item?id=43666341) - [Dual Kickstart ROM Replacement for Amiga](https://github.com/cdhooper/kicksmash32)
@@ -27,8 +29,6 @@
 * [2025-04-09, 14:52:46](https://news.ycombinator.com/item?id=43632828) - [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
 * [2025-04-09, 13:38:39](https://news.ycombinator.com/item?id=43631931) - [The AI magic behind Sphere's upcoming 'The Wizard of Oz' experience](https://blog.google/products/google-cloud/sphere-wizard-of-oz/)
-* [2025-04-09, 06:15:26](https://news.ycombinator.com/item?id=43629380) - [C++: terser (shorter) lambda == SHORTY (ab-use?)](https://github.com/hanickadot/shorty)
-* [2025-04-08, 13:08:49](https://news.ycombinator.com/item?id=43621378) - [A 32-bit processor made with an atomically thin semiconductor](https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/)
 * [2025-04-08, 06:54:36](https://news.ycombinator.com/item?id=43619032) - [Intentionally Making Close Friends (2021)](https://www.neelnanda.io/blog/43-making-friends)
 
 ## [Archives](archives/index.md)
