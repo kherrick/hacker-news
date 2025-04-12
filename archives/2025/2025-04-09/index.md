@@ -72,6 +72,7 @@
 * [2025-04-09, 11:26:02](https://news.ycombinator.com/item?id=43630957) - [CSS Naked Day](https://css-naked-day.org/)
 * [2025-04-09, 10:47:20](https://news.ycombinator.com/item?id=43630733) - [Show HN: I built a Yahoo Messenger-inspired web chat app – pure nostalgia](https://buzzed.chat)
 * [2025-04-09, 10:34:42](https://news.ycombinator.com/item?id=43630661) - [The guide to reduce screen time](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/)
+* [2025-04-09, 10:29:24](https://news.ycombinator.com/item?id=43630634) - [In Guatemala, painted altar found at Tikal adds new context to Maya history](https://phys.org/news/2025-04-guatemala-altar-tikal-context-mysterious.html)
 * [2025-04-09, 10:27:36](https://news.ycombinator.com/item?id=43630624) - [How to lock down your phone if you're traveling to the U.S.](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 * [2025-04-09, 09:02:15](https://news.ycombinator.com/item?id=43630223) - [Grappling with Infinity in Constraint Solvers](https://tuzz.tech/blog/grappling-with-infinity)
