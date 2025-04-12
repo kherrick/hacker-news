@@ -74,6 +74,7 @@
 * [2025-04-09, 10:34:42](https://news.ycombinator.com/item?id=43630661) - [The guide to reduce screen time](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/)
 * [2025-04-09, 10:27:36](https://news.ycombinator.com/item?id=43630624) - [How to lock down your phone if you're traveling to the U.S.](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
+* [2025-04-09, 09:02:15](https://news.ycombinator.com/item?id=43630223) - [Grappling with Infinity in Constraint Solvers](https://tuzz.tech/blog/grappling-with-infinity)
 * [2025-04-09, 08:58:12](https://news.ycombinator.com/item?id=43630208) - [Justice Dept. scales back crypto cases in line with Trump administration memo](https://www.washingtonpost.com/national-security/2025/04/08/trump-crypto-fraud-doj-enforcement)
 * [2025-04-09, 08:01:38](https://news.ycombinator.com/item?id=43629887) - ['Sun-Like' Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
 * [2025-04-09, 07:32:44](https://news.ycombinator.com/item?id=43629732) - [Ask HN: Where do you reliably find worldwide remote jobs?](https://news.ycombinator.com/item?id=43629732)
