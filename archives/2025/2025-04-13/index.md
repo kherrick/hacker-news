@@ -9,6 +9,7 @@
 * [2025-04-13, 08:28:35](https://news.ycombinator.com/item?id=43671098) - [My imaginary children aren't using your streaming service](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/)
 * [2025-04-13, 07:15:10](https://news.ycombinator.com/item?id=43670737) - [Too many adults are absolutely clueless](https://www.economist.com/culture/2025/04/10/too-many-adults-are-absolutely-clueless)
 * [2025-04-13, 06:23:24](https://news.ycombinator.com/item?id=43670527) - [Show HN: BSE – Semantic Zip Engine for Text, Image and Audio](https://news.ycombinator.com/item?id=43670527)
+* [2025-04-13, 05:43:15](https://news.ycombinator.com/item?id=43670373) - [Go channels are bad (2016)](https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/)
 * [2025-04-13, 05:10:02](https://news.ycombinator.com/item?id=43670238) - [33-year-old AmigaOS for Commodore computers gets an unexpected update News](https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update)
 * [2025-04-13, 04:48:48](https://news.ycombinator.com/item?id=43670171) - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
 * [2025-04-13, 04:02:47](https://news.ycombinator.com/item?id=43669990) - [A Farewell to the ArcoLinux University](https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/)
