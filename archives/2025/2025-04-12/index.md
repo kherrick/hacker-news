@@ -52,6 +52,7 @@
 * [2025-04-12, 10:41:56](https://news.ycombinator.com/item?id=43663219) - [What a digital coup looks like [video]](https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like)
 * [2025-04-12, 09:05:32](https://news.ycombinator.com/item?id=43662686) - [The Bitter Prediction](https://4zm.org/2025/04/05/bitter-prediction.html)
 * [2025-04-12, 07:02:35](https://news.ycombinator.com/item?id=43662035) - [U.S. cites its power to deport people for beliefs](https://apnews.com/article/mahmoud-khalil-columbia-university-trump-c60738368171289ae43177660def8d34)
+* [2025-04-12, 07:01:56](https://news.ycombinator.com/item?id=43662031) - [How I install personal versions of programs on Unix](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup)
 * [2025-04-12, 06:05:09](https://news.ycombinator.com/item?id=43661763) - [Why Your 'Harmonious' Team Is Failing](https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/)
 * [2025-04-12, 05:47:10](https://news.ycombinator.com/item?id=43661680) - [$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money](https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/)
 * [2025-04-12, 04:21:15](https://news.ycombinator.com/item?id=43661329) - [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
