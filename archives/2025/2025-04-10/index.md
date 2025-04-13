@@ -94,6 +94,7 @@
 * [2025-04-10, 02:57:43](https://news.ycombinator.com/item?id=43640204) - [Retro Computing Artifacts Stream](https://retro-computing-stream.onrender.com/)
 * [2025-04-10, 02:48:08](https://news.ycombinator.com/item?id=43640166) - [Evidence suggesting Quasar Alpha is OpenAI's new model](https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far)
 * [2025-04-10, 02:38:42](https://news.ycombinator.com/item?id=43640115) - [Dice and Queues](https://justincartwright.com/2025/02/25/dice-and-queues.html)
+* [2025-04-10, 02:17:08](https://news.ycombinator.com/item?id=43640013) - [Numbers and Unicorns](https://freedommathdance.blogspot.com/2025/01/on-numbers-and-unicorns.html)
 * [2025-04-10, 01:51:24](https://news.ycombinator.com/item?id=43639871) - [No Pay, No Work; Early Career Lessons](https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/)
 * [2025-04-10, 01:21:49](https://news.ycombinator.com/item?id=43639734) - [Rusty Cascading Style Sheets – Another CSS Preprocessor](https://github.com/ved-patel226/RCSS)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
