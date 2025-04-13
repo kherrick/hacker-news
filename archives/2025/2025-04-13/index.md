@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 05:10:02](https://news.ycombinator.com/item?id=43670238) - [33-year-old AmigaOS for Commodore computers gets an unexpected update News](https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update)
+* [2025-04-13, 04:02:47](https://news.ycombinator.com/item?id=43669990) - [A Farewell to the ArcoLinux University](https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/)
 * [2025-04-13, 04:00:28](https://news.ycombinator.com/item?id=43669981) - [How to NOT build a two stage model rocket](https://knowone08.gitbook.io/vgecrocketry)
 * [2025-04-13, 01:31:38](https://news.ycombinator.com/item?id=43669308) - [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
 * [2025-04-13, 01:05:31](https://news.ycombinator.com/item?id=43669185) - [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)

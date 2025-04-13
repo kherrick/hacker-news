@@ -18,6 +18,7 @@
 * [2025-04-09, 20:42:45](https://news.ycombinator.com/item?id=43637721) - [Show HN: LLM Based Spark Profiler](https://datasre.ai/)
 * [2025-04-09, 20:40:18](https://news.ycombinator.com/item?id=43637683) - [Dept of Homeland Security Says Social Media Will Be Screened for 'Antisemitism'](https://dashboard.stripe.com/login)
 * [2025-04-09, 20:34:49](https://news.ycombinator.com/item?id=43637622) - [Whistleblower tells senators that Meta undermined U.S. security, interests](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/)
+* [2025-04-09, 19:58:40](https://news.ycombinator.com/item?id=43637082) - [Monty Python and the Holy Grail became a comedy legend](https://www.bbc.com/culture/article/20250407-how-monty-python-and-the-holy-grail-became-a-comedy-legend)
 * [2025-04-09, 19:52:07](https://news.ycombinator.com/item?id=43636974) - [It's all fun and games until somebody loses their retirement savings](https://www.businesslawprofessors.com/2025/03/private-company-trading/)
 * [2025-04-09, 19:44:50](https://news.ycombinator.com/item?id=43636860) - [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
 * [2025-04-09, 19:37:31](https://news.ycombinator.com/item?id=43636757) - [The real effects of basic income](https://www.pilotprojekt-grundeinkommen.de/en)
