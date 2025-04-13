@@ -31,6 +31,7 @@
 * [2025-04-10, 17:43:28](https://news.ycombinator.com/item?id=43646323) - [Searchception](https://blog.mojeek.com/2025/04/searchception.html)
 * [2025-04-10, 17:34:19](https://news.ycombinator.com/item?id=43646219) - [Big Book of R](https://www.bigbookofr.com/)
 * [2025-04-10, 17:21:03](https://news.ycombinator.com/item?id=43646095) - [Garfield Minus Garfield](https://garfieldminusgarfield.net)
+* [2025-04-10, 17:03:37](https://news.ycombinator.com/item?id=43645925) - [RNA interference and nanomedicine team up to fight dangerous fungal infections](https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html)
 * [2025-04-10, 17:01:11](https://news.ycombinator.com/item?id=43645901) - [Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr)
 * [2025-04-10, 16:45:30](https://news.ycombinator.com/item?id=43645724) - [OpenAI Pioneers Program](https://openai.com/index/openai-pioneers-program/)
 * [2025-04-10, 16:09:12](https://news.ycombinator.com/item?id=43645331) - [Blue Shield Data Breach (Google Ads)](https://news.blueshieldca.com/notice-of-data-breach)
