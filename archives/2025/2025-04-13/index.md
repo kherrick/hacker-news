@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 15:40:21](https://news.ycombinator.com/item?id=43673575) - [Hunter-gatherer sea voyages extended to remotest Mediterranean islands](https://www.nature.com/articles/s41586-025-08780-y)
 * [2025-04-13, 15:32:25](https://news.ycombinator.com/item?id=43673518) - [Why Our Brains Crave Ideology](https://nautil.us/why-our-brains-crave-ideology-1203194/)
 * [2025-04-13, 15:06:50](https://news.ycombinator.com/item?id=43673327) - [US tech tariff exemption may only be temporary, says Lutnick](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b)
 * [2025-04-13, 15:01:48](https://news.ycombinator.com/item?id=43673297) - [The rise of end times fascism](https://www.theguardian.com/us-news/ng-interactive/2025/apr/13/end-times-fascism-far-right-trump-musk)
