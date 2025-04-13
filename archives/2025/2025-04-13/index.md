@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
 * [2025-04-13, 12:03:05](https://news.ycombinator.com/item?id=43672139) - [A Reddit Bot Drove Me Insane](https://posthuman.blog/this-reddit-post-fried-my-brain/)
+* [2025-04-13, 11:49:15](https://news.ycombinator.com/item?id=43672082) - [DragonFlyBSD Lands \"Next-Gen\" Disk Encryption Code](https://www.phoronix.com/news/DragonFlyBSD-DM-Crypt-NG)
+* [2025-04-13, 11:31:50](https://news.ycombinator.com/item?id=43671994) - [Facebook is just Craigslist now](https://www.theatlantic.com/newsletters/archive/2025/04/facebook-marketplace-craiglist-buy-sell/682420/)
 * [2025-04-13, 09:12:19](https://news.ycombinator.com/item?id=43671308) - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 * [2025-04-13, 08:50:31](https://news.ycombinator.com/item?id=43671196) - [Universal basic income: German experiment bring surprising results](https://www.ctvnews.ca/lifestyle/article/a-german-experiment-gave-people-a-basic-monthly-income-the-effect-on-their-work-ethic-was-surprising/)
 * [2025-04-13, 08:28:35](https://news.ycombinator.com/item?id=43671098) - [My imaginary children aren't using your streaming service](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/)
