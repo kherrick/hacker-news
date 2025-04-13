@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-04-13, 04:48:48",
+      "https://news.ycombinator.com/item?id=43670171"
+    ],
+    [
+      "Cross-Entropy and KL Divergence",
+      "https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/"
+    ]
+  ],
+  [
+    [
       "2025-04-13, 04:02:47",
       "https://news.ycombinator.com/item?id=43669990"
     ],
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2025-04-12, 20:00:12",
-      "https://news.ycombinator.com/item?id=43667494"
+      "2025-04-12, 20:27:28",
+      "https://news.ycombinator.com/item?id=43667693"
     ],
     [
-      "Levels of configuration languages",
-      "https://beza1e1.tuxen.de/config_levels.html"
+      "Shadertoys Ported to Rust GPU",
+      "https://rust-gpu.github.io/blog/2025/04/10/shadertoys/"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=43667010"
     ],
     [
-      "Why is there a \"small house\" in IBM's Code page 437?",
+      "Why is there a “small house” in IBM's Code page 437?",
       "https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Nice things with SVG",
       "https://fuma-nama.vercel.app/blog/svg-art"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 17:00:38",
-      "https://news.ycombinator.com/item?id=43666112"
-    ],
-    [
-      "Artie (YC S23) Is Hiring Engineer #3",
-      "https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=43664121"
     ],
     [
-      "Trump exempts phones, computers, chips from 'reciprocal' tariffs",
+      "Trump exempts phones, computers, chips from ‘reciprocal’ tariffs",
       "https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs"
     ]
   ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-04-10, 15:02:09",
-      "https://news.ycombinator.com/item?id=43644534"
+      "2025-04-11, 12:18:39",
+      "https://news.ycombinator.com/item?id=43652968"
     ],
     [
-      "Learning Assembly for Fun, Performance and Profit",
-      "https://thechipletter.substack.com/p/learning-assembly-for-fun-and-profit"
+      "Show HN: Chonky – a neural approach for text semantic chunking",
+      "https://github.com/mirth/chonky"
     ]
   ],
   [
