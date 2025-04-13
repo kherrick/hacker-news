@@ -11,6 +11,7 @@
 * [2025-04-13, 11:31:50](https://news.ycombinator.com/item?id=43671994) - [Facebook is just Craigslist now](https://www.theatlantic.com/newsletters/archive/2025/04/facebook-marketplace-craiglist-buy-sell/682420/)
 * [2025-04-13, 11:16:18](https://news.ycombinator.com/item?id=43671940) - [AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf)
 * [2025-04-13, 11:03:41](https://news.ycombinator.com/item?id=43671871) - [Osprey – Browser extension that protects you from malicious websites](https://github.com/Foulest/Osprey)
+* [2025-04-13, 11:01:16](https://news.ycombinator.com/item?id=43671861) - [Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing](https://www.computesgazette.com/)
 * [2025-04-13, 09:12:19](https://news.ycombinator.com/item?id=43671308) - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 * [2025-04-13, 08:50:31](https://news.ycombinator.com/item?id=43671196) - [Universal basic income: German experiment bring surprising results](https://www.ctvnews.ca/lifestyle/article/a-german-experiment-gave-people-a-basic-monthly-income-the-effect-on-their-work-ethic-was-surprising/)
 * [2025-04-13, 08:28:35](https://news.ycombinator.com/item?id=43671098) - [My imaginary children aren't using your streaming service](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/)

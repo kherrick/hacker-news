@@ -4,6 +4,7 @@
 * [2025-04-13, 13:15:57](https://news.ycombinator.com/item?id=43672593) - [The Dark Side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
 * [2025-04-13, 11:16:18](https://news.ycombinator.com/item?id=43671940) - [AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf)
 * [2025-04-13, 11:03:41](https://news.ycombinator.com/item?id=43671871) - [Osprey – Browser extension that protects you from malicious websites](https://github.com/Foulest/Osprey)
+* [2025-04-13, 11:01:16](https://news.ycombinator.com/item?id=43671861) - [Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing](https://www.computesgazette.com/)
 * [2025-04-13, 09:12:19](https://news.ycombinator.com/item?id=43671308) - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 * [2025-04-13, 05:43:15](https://news.ycombinator.com/item?id=43670373) - [Go channels are bad (2016)](https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/)
 * [2025-04-13, 04:48:48](https://news.ycombinator.com/item?id=43670171) - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
@@ -18,7 +19,6 @@
 * [2025-04-12, 18:55:17](https://news.ycombinator.com/item?id=43667010) - [Why is there a “small house” in IBM's Code page 437?](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/)
 * [2025-04-12, 17:40:09](https://news.ycombinator.com/item?id=43666439) - [Nice things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
 * [2025-04-12, 16:01:34](https://news.ycombinator.com/item?id=43665540) - [ArkType: Ergonomic TS validator 100x faster than Zod](https://arktype.io/)
-* [2025-04-12, 15:26:25](https://news.ycombinator.com/item?id=43665201) - [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
 * [2025-04-12, 15:09:14](https://news.ycombinator.com/item?id=43665046) - [Emacs Lisp Elements](https://protesilaos.com/emacs/emacs-lisp-elements)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)
 * [2025-04-12, 09:05:32](https://news.ycombinator.com/item?id=43662686) - [The Bitter Prediction](https://4zm.org/2025/04/05/bitter-prediction.html)
@@ -28,8 +28,8 @@
 * [2025-04-10, 22:12:47](https://news.ycombinator.com/item?id=43648536) - [Nominal Aphasia: Problems in Name Retrieval](https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval)
 * [2025-04-10, 21:57:17](https://news.ycombinator.com/item?id=43648423) - [Microgravity 101](https://sparkgravity.com/journal/microgravity-101/)
 * [2025-04-10, 17:03:37](https://news.ycombinator.com/item?id=43645925) - [RNA interference and nanomedicine team up to fight dangerous fungal infections](https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html)
+* [2025-04-09, 19:49:37](https://news.ycombinator.com/item?id=43636948) - [Telling the Bees](https://emergencemagazine.org/essay/telling-the-bees/)
 * [2025-04-09, 14:52:46](https://news.ycombinator.com/item?id=43632828) - [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
-* [2025-04-09, 12:40:57](https://news.ycombinator.com/item?id=43631398) - [Dust in the wind: How cities alter natural airborne particles](https://phys.org/news/2025-04-cities-natural-airborne-particles.html)
 
 ## [Archives](archives/index.md)
 
