@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-04-13, 19:43:03",
+      "https://news.ycombinator.com/item?id=43675309"
+    ],
+    [
+      "Writing my own dithering algorithm in Racket",
+      "https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket"
+    ]
+  ],
+  [
+    [
       "2025-04-13, 19:20:10",
       "https://news.ycombinator.com/item?id=43675166"
     ],
     [
       "The self-castrated hatmaker who killed John Wilkes Booth (2015)",
       "https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/"
+    ]
+  ],
+  [
+    [
+      "2025-04-13, 19:13:37",
+      "https://news.ycombinator.com/item?id=43675126"
+    ],
+    [
+      "The Open Guide to Equity Compensation",
+      "https://github.com/jlevy/og-equity-compensation"
+    ]
+  ],
+  [
+    [
+      "2025-04-13, 18:30:52",
+      "https://news.ycombinator.com/item?id=43674805"
+    ],
+    [
+      "South Korea Is over [video]",
+      "https://www.youtube.com/watch?v=Ufmu1WD2TSk"
     ]
   ],
   [
@@ -111,6 +141,16 @@
   ],
   [
     [
+      "2025-04-13, 12:03:05",
+      "https://news.ycombinator.com/item?id=43672139"
+    ],
+    [
+      "A Reddit bot drove me insane",
+      "https://posthuman.blog/this-reddit-post-fried-my-brain/"
+    ]
+  ],
+  [
+    [
       "2025-04-13, 11:16:18",
       "https://news.ycombinator.com/item?id=43671940"
     ],
@@ -181,36 +221,6 @@
   ],
   [
     [
-      "2025-04-12, 21:50:39",
-      "https://news.ycombinator.com/item?id=43668192"
-    ],
-    [
-      "I ditched my laptop for a pocketable mini PC and a pair of AR glasses",
-      "https://www.tomsguide.com/computing/i-ditched-my-laptop-for-a-pocketable-mini-pc-and-a-pair-of-ar-glasses-heres-what-happened"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 17:40:09",
-      "https://news.ycombinator.com/item?id=43666439"
-    ],
-    [
-      "Nice things with SVG",
-      "https://fuma-nama.vercel.app/blog/svg-art"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 07:01:56",
-      "https://news.ycombinator.com/item?id=43662031"
-    ],
-    [
-      "How I install personal versions of programs on Unix",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup"
-    ]
-  ],
-  [
-    [
       "2025-04-12, 01:31:45",
       "https://news.ycombinator.com/item?id=43660520"
     ],
@@ -227,16 +237,6 @@
     [
       "Show HN: Chonky – a neural approach for text semantic chunking",
       "https://github.com/mirth/chonky"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 22:12:47",
-      "https://news.ycombinator.com/item?id=43648536"
-    ],
-    [
-      "Nominal Aphasia: Problems in Name Retrieval",
-      "https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval"
     ]
   ],
   [
