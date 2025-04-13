@@ -15,6 +15,7 @@
 * [2025-04-10, 22:12:47](https://news.ycombinator.com/item?id=43648536) - [Nominal Aphasia: Problems in Name Retrieval](https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval)
 * [2025-04-10, 22:11:53](https://news.ycombinator.com/item?id=43648526) - [this site uses cookies to store the fact you clicked \"Accept Cookies\"](https://rodyne.com/?p=2368)
 * [2025-04-10, 21:57:17](https://news.ycombinator.com/item?id=43648423) - [Microgravity 101](https://sparkgravity.com/journal/microgravity-101/)
+* [2025-04-10, 21:53:56](https://news.ycombinator.com/item?id=43648401) - [Structural Optimization of I-Beams via Typographical Analysis](https://www.researchgate.net/publication/390635826_Structural_Optimization_of_I-Beams_via_Typographical_Analysis_A_Comparative_Study_of_Alphabetical_Cross-Sections)
 * [2025-04-10, 21:24:28](https://news.ycombinator.com/item?id=43648145) - [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [So, I Wrote a Book: The Story Behind \"100 Go Mistakes and How to Avoid Them\"](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-10, 20:37:21](https://news.ycombinator.com/item?id=43647812) - [Attorney representing a student protester detained by federal immigration agents](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/)
