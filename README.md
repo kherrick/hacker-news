@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-13, 09:12:19](https://news.ycombinator.com/item?id=43671308) - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
-* [2025-04-13, 08:28:35](https://news.ycombinator.com/item?id=43671098) - [My imaginary children aren't using your streaming service](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/)
 * [2025-04-13, 05:43:15](https://news.ycombinator.com/item?id=43670373) - [Go channels are bad (2016)](https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/)
 * [2025-04-13, 05:10:02](https://news.ycombinator.com/item?id=43670238) - [33-year-old AmigaOS for Commodore computers gets an unexpected update News](https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update)
 * [2025-04-13, 04:48:48](https://news.ycombinator.com/item?id=43670171) - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
@@ -20,6 +19,7 @@
 * [2025-04-12, 16:01:34](https://news.ycombinator.com/item?id=43665540) - [ArkType: Ergonomic TS validator 100x faster than Zod](https://arktype.io/)
 * [2025-04-12, 15:26:25](https://news.ycombinator.com/item?id=43665201) - [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
 * [2025-04-12, 15:09:14](https://news.ycombinator.com/item?id=43665046) - [Emacs Lisp Elements](https://protesilaos.com/emacs/emacs-lisp-elements)
+* [2025-04-12, 13:18:04](https://news.ycombinator.com/item?id=43664121) - [Trump exempts phones, computers, chips from ‘reciprocal’ tariffs](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)
 * [2025-04-12, 09:05:32](https://news.ycombinator.com/item?id=43662686) - [The Bitter Prediction](https://4zm.org/2025/04/05/bitter-prediction.html)
 * [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
