@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-12](index.md)
 
+* [2025-04-12, 23:51:41](https://news.ycombinator.com/item?id=43668876) - [How to Structure a B2B Marketplace Venture](https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/)
+* [2025-04-12, 23:22:37](https://news.ycombinator.com/item?id=43668725) - [Minestom – An open-source, lightweight Minecraft server built from the ground up](https://minestom.net)
+* [2025-04-12, 23:10:40](https://news.ycombinator.com/item?id=43668661) - [P2Panda: Building blocks for peer-to-peer applications](https://p2panda.org/)
 * [2025-04-12, 22:32:19](https://news.ycombinator.com/item?id=43668433) - [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
+* [2025-04-12, 22:15:56](https://news.ycombinator.com/item?id=43668333) - [Battle of the Mallocators](http://smalldatum.blogspot.com/2025/04/battle-of-mallocators.html)
+* [2025-04-12, 22:10:35](https://news.ycombinator.com/item?id=43668290) - [YAML: The Norway Problem (2022)](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
+* [2025-04-12, 22:02:58](https://news.ycombinator.com/item?id=43668250) - [WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser](https://webtui.ironclad.sh)
+* [2025-04-12, 21:50:39](https://news.ycombinator.com/item?id=43668192) - [I ditched my laptop for a pocketable mini PC and a pair of AR glasses](https://www.tomsguide.com/computing/i-ditched-my-laptop-for-a-pocketable-mini-pc-and-a-pair-of-ar-glasses-heres-what-happened)
 * [2025-04-12, 21:19:03](https://news.ycombinator.com/item?id=43668019) - [Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'](https://www.bbc.com/news/articles/cj3xjrj7v78o)
 * [2025-04-12, 21:10:59](https://news.ycombinator.com/item?id=43667963) - [My prediction after GPT-4o image generation](https://arxiv.org/abs/2504.06256)
 * [2025-04-12, 21:03:17](https://news.ycombinator.com/item?id=43667925) - [Zod v4 Beta](https://v4.zod.dev/v4)
