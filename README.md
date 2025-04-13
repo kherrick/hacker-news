@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-13, 21:42:27](https://news.ycombinator.com/item?id=43676075) - [What Is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)
+* [2025-04-13, 21:42:27](https://news.ycombinator.com/item?id=43676075) - [What is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)
 * [2025-04-13, 19:43:11](https://news.ycombinator.com/item?id=43675310) - [An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 * [2025-04-13, 19:43:03](https://news.ycombinator.com/item?id=43675309) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 * [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
@@ -26,10 +26,10 @@
 * [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
 * [2025-04-10, 21:53:56](https://news.ycombinator.com/item?id=43648401) - [Structural Optimization of I-Beams via Typographical Analysis](https://www.researchgate.net/publication/390635826_Structural_Optimization_of_I-Beams_via_Typographical_Analysis_A_Comparative_Study_of_Alphabetical_Cross-Sections)
 * [2025-04-10, 20:10:14](https://news.ycombinator.com/item?id=43647605) - [Cargo-mutants:zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
+* [2025-04-10, 19:28:05](https://news.ycombinator.com/item?id=43647275) - [Lotka–Volterra Equations](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
 * [2025-04-10, 17:08:50](https://news.ycombinator.com/item?id=43645984) - [Mistakes and cool things to do with arena allocators](https://zylinski.se/posts/dynamic-arrays-and-arenas/)
 * [2025-04-10, 17:03:37](https://news.ycombinator.com/item?id=43645925) - [RNA interference and nanomedicine team up to fight dangerous fungal infections](https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html)
 * [2025-04-10, 01:01:43](https://news.ycombinator.com/item?id=43639617) - [The Manicule: The little hand that's everywhere](https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/)
-* [2025-04-09, 19:58:40](https://news.ycombinator.com/item?id=43637082) - [How Monty Python and the Holy Grail became a comedy legend](https://www.bbc.com/culture/article/20250407-how-monty-python-and-the-holy-grail-became-a-comedy-legend)
 
 ## [Archives](archives/index.md)
 

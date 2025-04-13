@@ -23,6 +23,7 @@
 * [2025-04-10, 20:10:14](https://news.ycombinator.com/item?id=43647605) - [Cargo-mutants:zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 20:09:23](https://news.ycombinator.com/item?id=43647598) - [What if your website had business hours? (2022)](https://bobbiechen.com/blog/2022/7/21/what-if-your-website-had-business-hours)
 * [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
+* [2025-04-10, 19:28:05](https://news.ycombinator.com/item?id=43647275) - [Lotka–Volterra Equations](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
 * [2025-04-10, 19:24:25](https://news.ycombinator.com/item?id=43647237) - [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
 * [2025-04-10, 19:12:14](https://news.ycombinator.com/item?id=43647143) - [Ask HN: Why do some links start out [dead]?](https://news.ycombinator.com/item?id=43647143)
 * [2025-04-10, 18:43:56](https://news.ycombinator.com/item?id=43646920) - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
