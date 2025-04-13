@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-13, 17:13:09](https://news.ycombinator.com/item?id=43674267) - [Please Don't Sell Space in Your Homelab (2023)](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/)
 * [2025-04-13, 16:39:08](https://news.ycombinator.com/item?id=43674016) - [Show HN: Gatehouse-TS – TypeScript port of Rust's authorization policy framework](https://github.com/9Morello/gatehouse-ts)
 * [2025-04-13, 16:24:28](https://news.ycombinator.com/item?id=43673921) - [Amazon Turned Drivers into First Responders in Europe Experiment](https://www.bloomberg.com/news/articles/2025-04-10/amazon-turned-drivers-into-first-responders-in-europe-experiment)
 * [2025-04-13, 16:15:00](https://news.ycombinator.com/item?id=43673862) - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
 * [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
-* [2025-04-13, 14:57:37](https://news.ycombinator.com/item?id=43673262) - [Using bad hardware: why I work in the terminal (2024)](https://colean.cc/journal/2024/08sep.html)
 * [2025-04-13, 14:42:16](https://news.ycombinator.com/item?id=43673151) - [Skywork-OR1: new SOTA 32B thinking model with open weight](https://github.com/SkyworkAI/Skywork-OR1)
 * [2025-04-13, 14:21:48](https://news.ycombinator.com/item?id=43673011) - [Making SNES ROMs using C#](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX)
 * [2025-04-13, 14:16:20](https://news.ycombinator.com/item?id=43672975) - [Why Pascal Is Not My Favorite Programming Language (1981) [pdf]](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf)
