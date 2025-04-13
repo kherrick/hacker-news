@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
+* [2025-04-13, 18:23:34](https://news.ycombinator.com/item?id=43674764) - [Show HN: Crystal, the most accurate U.S. gov't data search tool](https://askcrystal.info/)
 * [2025-04-13, 18:12:55](https://news.ycombinator.com/item?id=43674682) - [Few build Hypervisors. We're one of them](https://virtualize.sh/blog/few-build-hypervisors-were-one-of-them/)
 * [2025-04-13, 17:13:09](https://news.ycombinator.com/item?id=43674267) - [Please Don't Sell Space in Your Homelab (2023)](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/)
+* [2025-04-13, 17:08:49](https://news.ycombinator.com/item?id=43674233) - [Exwm: Emacs X Window Manager](https://github.com/emacs-exwm/exwm)
 * [2025-04-13, 16:39:08](https://news.ycombinator.com/item?id=43674016) - [Show HN: Gatehouse-TS – TypeScript port of Rust's authorization policy framework](https://github.com/9Morello/gatehouse-ts)
 * [2025-04-13, 16:24:28](https://news.ycombinator.com/item?id=43673921) - [Amazon Turned Drivers into First Responders in Europe Experiment](https://www.bloomberg.com/news/articles/2025-04-10/amazon-turned-drivers-into-first-responders-in-europe-experiment)
 * [2025-04-13, 16:15:00](https://news.ycombinator.com/item?id=43673862) - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
