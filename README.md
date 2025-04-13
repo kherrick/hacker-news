@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-13, 21:42:27](https://news.ycombinator.com/item?id=43676075) - [What is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)
 * [2025-04-13, 19:43:11](https://news.ycombinator.com/item?id=43675310) - [An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 * [2025-04-13, 19:43:03](https://news.ycombinator.com/item?id=43675309) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 * [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
@@ -24,6 +23,7 @@
 * [2025-04-12, 22:32:19](https://news.ycombinator.com/item?id=43668433) - [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
 * [2025-04-12, 12:29:48](https://news.ycombinator.com/item?id=43663817) - [Peering into the Linux Kernel with Trace](https://alexdowad.github.io/peering-in-the-kernel-with-trace/)
 * [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
+* [2025-04-11, 12:34:31](https://news.ycombinator.com/item?id=43653078) - [GeoDeep's AI Detection on Maxar's Satellite Imagery](https://tech.marksblogg.com/geodeep-maxar-ai-detection.html)
 * [2025-04-10, 21:53:56](https://news.ycombinator.com/item?id=43648401) - [Structural Optimization of I-Beams via Typographical Analysis](https://www.researchgate.net/publication/390635826_Structural_Optimization_of_I-Beams_via_Typographical_Analysis_A_Comparative_Study_of_Alphabetical_Cross-Sections)
 * [2025-04-10, 20:10:14](https://news.ycombinator.com/item?id=43647605) - [Cargo-mutants:zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 19:28:05](https://news.ycombinator.com/item?id=43647275) - [Lotka–Volterra Equations](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
