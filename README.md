@@ -28,8 +28,8 @@
 * [2025-04-10, 20:10:14](https://news.ycombinator.com/item?id=43647605) - [Cargo-mutants:zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 19:28:05](https://news.ycombinator.com/item?id=43647275) - [Lotka–Volterra Equations](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
 * [2025-04-10, 17:08:50](https://news.ycombinator.com/item?id=43645984) - [Mistakes and cool things to do with arena allocators](https://zylinski.se/posts/dynamic-arrays-and-arenas/)
-* [2025-04-10, 17:03:37](https://news.ycombinator.com/item?id=43645925) - [RNA interference and nanomedicine team up to fight dangerous fungal infections](https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html)
 * [2025-04-10, 01:01:43](https://news.ycombinator.com/item?id=43639617) - [The Manicule: The little hand that's everywhere](https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/)
+* [2025-04-09, 19:58:40](https://news.ycombinator.com/item?id=43637082) - [How Monty Python and the Holy Grail became a comedy legend](https://www.bbc.com/culture/article/20250407-how-monty-python-and-the-holy-grail-became-a-comedy-legend)
 
 ## [Archives](archives/index.md)
 
