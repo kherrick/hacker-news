@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-13, 15:06:50](https://news.ycombinator.com/item?id=43673327) - [US tech tariff exemption may only be temporary, says Lutnick](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b)
 * [2025-04-13, 14:57:37](https://news.ycombinator.com/item?id=43673262) - [Using bad hardware: why I work in the terminal (2024)](https://colean.cc/journal/2024/08sep.html)
+* [2025-04-13, 14:42:16](https://news.ycombinator.com/item?id=43673151) - [Skywork-OR1: new SOTA 32B thinking model with open weight](https://github.com/SkyworkAI/Skywork-OR1)
 * [2025-04-13, 14:36:36](https://news.ycombinator.com/item?id=43673125) - [Half the men in Seattle are never-married singles, census data shows](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/)
 * [2025-04-13, 14:21:48](https://news.ycombinator.com/item?id=43673011) - [Making SNES ROMs using C#](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX)
+* [2025-04-13, 14:16:20](https://news.ycombinator.com/item?id=43672975) - [Why Pascal Is Not My Favorite Programming Language (1981) [pdf]](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf)
 * [2025-04-13, 13:36:17](https://news.ycombinator.com/item?id=43672712) - [Wasting Inferences with Aider](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider)
 * [2025-04-13, 13:15:57](https://news.ycombinator.com/item?id=43672593) - [The Dark Side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
 * [2025-04-13, 11:16:18](https://news.ycombinator.com/item?id=43671940) - [AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf)
@@ -29,7 +30,6 @@
 * [2025-04-10, 20:10:14](https://news.ycombinator.com/item?id=43647605) - [Cargo-mutants:zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 17:03:37](https://news.ycombinator.com/item?id=43645925) - [RNA interference and nanomedicine team up to fight dangerous fungal infections](https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html)
 * [2025-04-09, 19:49:37](https://news.ycombinator.com/item?id=43636948) - [Telling the Bees](https://emergencemagazine.org/essay/telling-the-bees/)
-* [2025-04-09, 14:52:46](https://news.ycombinator.com/item?id=43632828) - [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
 
 ## [Archives](archives/index.md)
 
