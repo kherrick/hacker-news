@@ -12,6 +12,7 @@
 * [2025-04-10, 22:48:37](https://news.ycombinator.com/item?id=43648713) - [Show HN: Time Travel with Your SQL](https://news.ycombinator.com/item?id=43648713)
 * [2025-04-10, 22:23:48](https://news.ycombinator.com/item?id=43648593) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-10, 22:17:43](https://news.ycombinator.com/item?id=43648559) - [The Russian Paradox: So Much Education, So Little Human Capital](https://theamericanenterprise.com/the-russian-paradox-so-much-education-so-little-human-capital/)
+* [2025-04-10, 22:12:47](https://news.ycombinator.com/item?id=43648536) - [Nominal Aphasia: Problems in Name Retrieval](https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval)
 * [2025-04-10, 22:11:53](https://news.ycombinator.com/item?id=43648526) - [this site uses cookies to store the fact you clicked \"Accept Cookies\"](https://rodyne.com/?p=2368)
 * [2025-04-10, 21:57:17](https://news.ycombinator.com/item?id=43648423) - [Microgravity 101](https://sparkgravity.com/journal/microgravity-101/)
 * [2025-04-10, 21:24:28](https://news.ycombinator.com/item?id=43648145) - [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
