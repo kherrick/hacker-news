@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 21:43:36](https://news.ycombinator.com/item?id=43676084) - [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
 * [2025-04-13, 21:42:27](https://news.ycombinator.com/item?id=43676075) - [What Is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)
 * [2025-04-13, 21:10:54](https://news.ycombinator.com/item?id=43675891) - [Revolt brews against RFK Jr. as experts pen rally cries in top medical journal](https://arstechnica.com/health/2025/04/revolt-brews-against-rfk-jr-as-experts-pen-rally-cries-in-top-medical-journal/)
+* [2025-04-13, 20:15:34](https://news.ycombinator.com/item?id=43675519) - [Regime Change in the West](https://www.lrb.co.uk/the-paper/v47/n06/perry-anderson/regime-change-in-the-west)
 * [2025-04-13, 19:43:11](https://news.ycombinator.com/item?id=43675310) - [An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 * [2025-04-13, 19:43:03](https://news.ycombinator.com/item?id=43675309) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 * [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
@@ -51,6 +53,7 @@
 * [2025-04-13, 04:00:28](https://news.ycombinator.com/item?id=43669981) - [How to NOT build a two stage model rocket](https://knowone08.gitbook.io/vgecrocketry)
 * [2025-04-13, 03:32:18](https://news.ycombinator.com/item?id=43669887) - [How to repair the parts that explode in Lenovo Yoga laptops](http://adammunich.com/how-to-repair-the-parts-that-explode-in-lenovo-yoga-laptops/)
 * [2025-04-13, 01:31:38](https://news.ycombinator.com/item?id=43669308) - [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
+* [2025-04-13, 01:30:23](https://news.ycombinator.com/item?id=43669301) - [Are Plants Farming Us?](https://inleo.io/@gentleshaid/are-plants-farming-us-a-thoughtful-look-at-natures-silent-masters-jx9)
 * [2025-04-13, 01:05:31](https://news.ycombinator.com/item?id=43669185) - [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
 * [2025-04-13, 00:33:47](https://news.ycombinator.com/item?id=43669065) - [Hunger shifts attention towards less healthy food options, study finds](https://medicalxpress.com/news/2025-03-hunger-shifts-attention-healthy-food.html)
 * [2025-04-13, 00:10:57](https://news.ycombinator.com/item?id=43668957) - [New urinal designs prevent 265,000 gallons of urine splashing onto the floor](https://www.livescience.com/technology/engineering/new-urinal-designs-could-prevent-up-to-265-000-gallons-of-urine-from-spilling-onto-the-floor-each-day)
