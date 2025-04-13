@@ -3,7 +3,6 @@
 * [2025-04-13, 19:43:03](https://news.ycombinator.com/item?id=43675309) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 * [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
 * [2025-04-13, 19:13:37](https://news.ycombinator.com/item?id=43675126) - [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
-* [2025-04-13, 18:30:52](https://news.ycombinator.com/item?id=43674805) - [South Korea Is over [video]](https://www.youtube.com/watch?v=Ufmu1WD2TSk)
 * [2025-04-13, 18:23:34](https://news.ycombinator.com/item?id=43674764) - [Show HN: Crystal, the most accurate U.S. gov't data search tool](https://askcrystal.info/)
 * [2025-04-13, 17:13:09](https://news.ycombinator.com/item?id=43674267) - [Don't sell space in your homelab (2023)](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/)
 * [2025-04-13, 17:08:49](https://news.ycombinator.com/item?id=43674233) - [Exwm: Emacs X Window Manager](https://github.com/emacs-exwm/exwm)
@@ -19,9 +18,11 @@
 * [2025-04-13, 11:01:16](https://news.ycombinator.com/item?id=43671861) - [Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing](https://www.computesgazette.com/)
 * [2025-04-13, 09:12:19](https://news.ycombinator.com/item?id=43671308) - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 * [2025-04-13, 05:43:15](https://news.ycombinator.com/item?id=43670373) - [Problems with Go channels (2016)](https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/)
-* [2025-04-13, 04:00:28](https://news.ycombinator.com/item?id=43669981) - [How to not build a two stage model rocket](https://knowone08.gitbook.io/vgecrocketry)
 * [2025-04-13, 01:31:38](https://news.ycombinator.com/item?id=43669308) - [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
+* [2025-04-13, 01:05:31](https://news.ycombinator.com/item?id=43669185) - [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
+* [2025-04-12, 22:32:19](https://news.ycombinator.com/item?id=43668433) - [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
 * [2025-04-12, 22:02:58](https://news.ycombinator.com/item?id=43668250) - [WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser](https://webtui.ironclad.sh)
+* [2025-04-12, 12:29:48](https://news.ycombinator.com/item?id=43663817) - [Peering into the Linux Kernel with Trace](https://alexdowad.github.io/peering-in-the-kernel-with-trace/)
 * [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
 * [2025-04-11, 12:18:39](https://news.ycombinator.com/item?id=43652968) - [Show HN: Chonky – a neural approach for text semantic chunking](https://github.com/mirth/chonky)
 * [2025-04-10, 20:10:14](https://news.ycombinator.com/item?id=43647605) - [Cargo-mutants:zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
@@ -29,7 +30,6 @@
 * [2025-04-10, 17:03:37](https://news.ycombinator.com/item?id=43645925) - [RNA interference and nanomedicine team up to fight dangerous fungal infections](https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html)
 * [2025-04-10, 01:01:43](https://news.ycombinator.com/item?id=43639617) - [The Manicule: The little hand that's everywhere](https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/)
 * [2025-04-09, 19:58:40](https://news.ycombinator.com/item?id=43637082) - [How Monty Python and the Holy Grail became a comedy legend](https://www.bbc.com/culture/article/20250407-how-monty-python-and-the-holy-grail-became-a-comedy-legend)
-* [2025-04-09, 17:33:05](https://news.ycombinator.com/item?id=43634853) - [More than 1,500 new fonts – including all-time favorites – come to Adobe Fonts](https://blog.adobe.com/en/publish/2025/04/08/more-than-1500-new-fonts-including-all-time-favorites-come-to-adobe-fonts)
 
 ## [Archives](archives/index.md)
 
