@@ -6,6 +6,7 @@
 
 * [2025-04-13, 06:23:24](https://news.ycombinator.com/item?id=43670527) - [Show HN: BSE – Semantic Zip Engine for Text, Image and Audio](https://news.ycombinator.com/item?id=43670527)
 * [2025-04-13, 05:10:02](https://news.ycombinator.com/item?id=43670238) - [33-year-old AmigaOS for Commodore computers gets an unexpected update News](https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update)
+* [2025-04-13, 04:48:48](https://news.ycombinator.com/item?id=43670171) - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
 * [2025-04-13, 04:02:47](https://news.ycombinator.com/item?id=43669990) - [A Farewell to the ArcoLinux University](https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/)
 * [2025-04-13, 04:00:28](https://news.ycombinator.com/item?id=43669981) - [How to NOT build a two stage model rocket](https://knowone08.gitbook.io/vgecrocketry)
 * [2025-04-13, 03:32:18](https://news.ycombinator.com/item?id=43669887) - [How to repair the parts that explode in Lenovo Yoga laptops](http://adammunich.com/how-to-repair-the-parts-that-explode-in-lenovo-yoga-laptops/)
