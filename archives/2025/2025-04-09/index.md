@@ -70,6 +70,7 @@
 * [2025-04-09, 12:46:59](https://news.ycombinator.com/item?id=43631450) - [An LLM Query Understanding Service](https://softwaredoug.com/blog/2025/04/08/llm-query-understand)
 * [2025-04-09, 12:46:22](https://news.ycombinator.com/item?id=43631444) - [Determining IaC ownership – a tag-based approach](https://www.token.security/blog/iac-ownership---tag-based-approach)
 * [2025-04-09, 12:41:40](https://news.ycombinator.com/item?id=43631402) - [Tesla Solar Sales Declined for 4 Qtrs. Then Tesla Stopped Publishing the Numbers](https://cleantechnica.com/2025/04/07/tesla-solar-sales-declined-for-4-straight-quarters-then-tesla-stopped-publishing-the-numbers/)
+* [2025-04-09, 12:40:57](https://news.ycombinator.com/item?id=43631398) - [Dust in the wind: How cities alter natural airborne particles](https://phys.org/news/2025-04-cities-natural-airborne-particles.html)
 * [2025-04-09, 12:39:16](https://news.ycombinator.com/item?id=43631384) - [Fake job seekers are flooding US companies that are hiring for remote positions](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html)
 * [2025-04-09, 12:38:20](https://news.ycombinator.com/item?id=43631381) - [The Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 * [2025-04-09, 12:28:01](https://news.ycombinator.com/item?id=43631298) - [Treasury's OCC Says Hackers Had Access to 150k Emails](https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/)

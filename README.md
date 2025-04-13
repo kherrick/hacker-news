@@ -13,7 +13,7 @@
 * [2025-04-12, 20:27:28](https://news.ycombinator.com/item?id=43667693) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
 * [2025-04-12, 19:02:26](https://news.ycombinator.com/item?id=43667061) - [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
 * [2025-04-12, 18:55:17](https://news.ycombinator.com/item?id=43667010) - [Why is there a \"small house\" in IBM's Code page 437?](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/)
-* [2025-04-12, 17:40:09](https://news.ycombinator.com/item?id=43666439) - [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
+* [2025-04-12, 17:40:09](https://news.ycombinator.com/item?id=43666439) - [Nice things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
 * [2025-04-12, 17:00:38](https://news.ycombinator.com/item?id=43666112) - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer)
 * [2025-04-12, 16:01:34](https://news.ycombinator.com/item?id=43665540) - [ArkType: Ergonomic TS validator 100x faster than Zod](https://arktype.io/)
 * [2025-04-12, 15:26:25](https://news.ycombinator.com/item?id=43665201) - [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
@@ -22,7 +22,6 @@
 * [2025-04-12, 13:18:04](https://news.ycombinator.com/item?id=43664121) - [Trump exempts phones, computers, chips from 'reciprocal' tariffs](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs)
 * [2025-04-12, 12:40:13](https://news.ycombinator.com/item?id=43663865) - [Open source and self hostable/private file converter](https://vert.sh)
 * [2025-04-12, 03:58:50](https://news.ycombinator.com/item?id=43661235) - [Google is winning on every AI front](https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front)
-* [2025-04-11, 13:40:26](https://news.ycombinator.com/item?id=43653672) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
 * [2025-04-10, 15:02:09](https://news.ycombinator.com/item?id=43644534) - [Learning Assembly for Fun, Performance and Profit](https://thechipletter.substack.com/p/learning-assembly-for-fun-and-profit)
 * [2025-04-10, 13:47:19](https://news.ycombinator.com/item?id=43643730) - [Demystifying Development: Does It Pencil?](https://www.ternercenter.app/demystifying-development-math#simulation)
 * [2025-04-10, 12:26:05](https://news.ycombinator.com/item?id=43643120) - [Ambient music on iOS 18.4 and the return to the Apple's Music app](https://manualdousuario.net/en/ambient-music-ios-18-4/)
@@ -30,6 +29,7 @@
 * [2025-04-09, 23:15:34](https://news.ycombinator.com/item?id=43639016) - [Mammoth genetic diversity throughout the last million years](https://www.sciencedaily.com/releases/2025/04/250409114704.htm)
 * [2025-04-09, 14:52:46](https://news.ycombinator.com/item?id=43632828) - [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
 * [2025-04-09, 13:47:27](https://news.ycombinator.com/item?id=43632049) - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
+* [2025-04-09, 12:40:57](https://news.ycombinator.com/item?id=43631398) - [Dust in the wind: How cities alter natural airborne particles](https://phys.org/news/2025-04-cities-natural-airborne-particles.html)
 
 ## [Archives](archives/index.md)
 
