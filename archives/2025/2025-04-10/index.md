@@ -102,6 +102,7 @@
 * [2025-04-10, 01:21:49](https://news.ycombinator.com/item?id=43639734) - [Rusty Cascading Style Sheets – Another CSS Preprocessor](https://github.com/ved-patel226/RCSS)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Google Cloud Rapid Storage](https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer)
 * [2025-04-10, 01:05:30](https://news.ycombinator.com/item?id=43639642) - [Colossus for Rapid Storage](https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage)
+* [2025-04-10, 01:01:43](https://news.ycombinator.com/item?id=43639617) - [The Secret History of the Manicule, the Little Hand That's Everywhere](https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/)
 * [2025-04-10, 00:42:34](https://news.ycombinator.com/item?id=43639508) - [Enhancing Your MIDI Devices: Round II](https://www.perl.com/article/enhancing-your-midi-devices-round-ii/)
 * [2025-04-10, 00:26:31](https://news.ycombinator.com/item?id=43639421) - [BS 1363 British Plugs and Sockets](https://www.plugsocketmuseum.nl/British1.html)
 * [2025-04-10, 00:00:34](https://news.ycombinator.com/item?id=43639280) - [The Columbian Orator taught nineteenth-century Americans how to speak](https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak)
