@@ -2,6 +2,7 @@
 
 * [2025-04-13, 19:43:11](https://news.ycombinator.com/item?id=43675310) - [An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 * [2025-04-13, 19:43:03](https://news.ycombinator.com/item?id=43675309) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
+* [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
 * [2025-04-13, 19:13:37](https://news.ycombinator.com/item?id=43675126) - [Open guide to equity compensation](https://github.com/jlevy/og-equity-compensation)
 * [2025-04-13, 18:33:05](https://news.ycombinator.com/item?id=43674825) - [Implementing DeepSeek R1's GRPO algorithm from scratch](https://github.com/policy-gradient/GRPO-Zero)
 * [2025-04-13, 17:13:09](https://news.ycombinator.com/item?id=43674267) - [Don't sell space in your homelab (2023)](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/)
@@ -21,7 +22,6 @@
 * [2025-04-13, 01:31:38](https://news.ycombinator.com/item?id=43669308) - [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
 * [2025-04-13, 01:05:31](https://news.ycombinator.com/item?id=43669185) - [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
 * [2025-04-12, 22:32:19](https://news.ycombinator.com/item?id=43668433) - [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
-* [2025-04-12, 22:02:58](https://news.ycombinator.com/item?id=43668250) - [WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser](https://webtui.ironclad.sh)
 * [2025-04-12, 12:29:48](https://news.ycombinator.com/item?id=43663817) - [Peering into the Linux Kernel with Trace](https://alexdowad.github.io/peering-in-the-kernel-with-trace/)
 * [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
 * [2025-04-11, 12:18:39](https://news.ycombinator.com/item?id=43652968) - [Show HN: Chonky – a neural approach for text semantic chunking](https://github.com/mirth/chonky)
