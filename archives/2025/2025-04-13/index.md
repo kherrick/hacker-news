@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 21:10:54](https://news.ycombinator.com/item?id=43675891) - [Revolt brews against RFK Jr. as experts pen rally cries in top medical journal](https://arstechnica.com/health/2025/04/revolt-brews-against-rfk-jr-as-experts-pen-rally-cries-in-top-medical-journal/)
 * [2025-04-13, 19:43:11](https://news.ycombinator.com/item?id=43675310) - [An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 * [2025-04-13, 19:43:03](https://news.ycombinator.com/item?id=43675309) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 * [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
