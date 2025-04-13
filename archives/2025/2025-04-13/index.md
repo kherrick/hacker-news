@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 19:43:11](https://news.ycombinator.com/item?id=43675310) - [An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 * [2025-04-13, 19:43:03](https://news.ycombinator.com/item?id=43675309) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 * [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
 * [2025-04-13, 19:13:37](https://news.ycombinator.com/item?id=43675126) - [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
+* [2025-04-13, 18:33:05](https://news.ycombinator.com/item?id=43674825) - [Implementing DeepSeek R1's GRPO algorithm from scratch](https://github.com/policy-gradient/GRPO-Zero)
 * [2025-04-13, 18:30:52](https://news.ycombinator.com/item?id=43674805) - [South Korea Is over [video]](https://www.youtube.com/watch?v=Ufmu1WD2TSk)
 * [2025-04-13, 18:23:34](https://news.ycombinator.com/item?id=43674764) - [Show HN: Crystal, the most accurate U.S. gov't data search tool](https://askcrystal.info/)
 * [2025-04-13, 18:12:55](https://news.ycombinator.com/item?id=43674682) - [Few build Hypervisors. We're one of them](https://virtualize.sh/blog/few-build-hypervisors-were-one-of-them/)
