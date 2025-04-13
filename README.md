@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-13, 15:06:50](https://news.ycombinator.com/item?id=43673327) - [US tech tariff exemption may only be temporary, says Lutnick](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b)
-* [2025-04-13, 15:01:48](https://news.ycombinator.com/item?id=43673297) - [The rise of end times fascism](https://www.theguardian.com/us-news/ng-interactive/2025/apr/13/end-times-fascism-far-right-trump-musk)
 * [2025-04-13, 14:57:37](https://news.ycombinator.com/item?id=43673262) - [Using bad hardware: why I work in the terminal (2024)](https://colean.cc/journal/2024/08sep.html)
 * [2025-04-13, 14:36:36](https://news.ycombinator.com/item?id=43673125) - [Half the men in Seattle are never-married singles, census data shows](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/)
 * [2025-04-13, 14:21:48](https://news.ycombinator.com/item?id=43673011) - [Making SNES ROMs using C#](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX)
@@ -12,10 +11,10 @@
 * [2025-04-13, 11:01:16](https://news.ycombinator.com/item?id=43671861) - [Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing](https://www.computesgazette.com/)
 * [2025-04-13, 09:12:19](https://news.ycombinator.com/item?id=43671308) - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 * [2025-04-13, 04:48:48](https://news.ycombinator.com/item?id=43670171) - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
-* [2025-04-13, 04:02:47](https://news.ycombinator.com/item?id=43669990) - [A Farewell to the ArcoLinux University](https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/)
 * [2025-04-13, 04:00:28](https://news.ycombinator.com/item?id=43669981) - [How to not build a two stage model rocket](https://knowone08.gitbook.io/vgecrocketry)
 * [2025-04-13, 01:31:38](https://news.ycombinator.com/item?id=43669308) - [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
 * [2025-04-13, 01:05:31](https://news.ycombinator.com/item?id=43669185) - [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
+* [2025-04-12, 22:10:35](https://news.ycombinator.com/item?id=43668290) - [YAML: The Norway Problem (2022)](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
 * [2025-04-12, 22:02:58](https://news.ycombinator.com/item?id=43668250) - [WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser](https://webtui.ironclad.sh)
 * [2025-04-12, 21:50:39](https://news.ycombinator.com/item?id=43668192) - [I ditched my laptop for a pocketable mini PC and a pair of AR glasses](https://www.tomsguide.com/computing/i-ditched-my-laptop-for-a-pocketable-mini-pc-and-a-pair-of-ar-glasses-heres-what-happened)
 * [2025-04-12, 19:02:26](https://news.ycombinator.com/item?id=43667061) - [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
@@ -30,6 +29,7 @@
 * [2025-04-10, 20:10:14](https://news.ycombinator.com/item?id=43647605) - [Cargo-mutants:zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 17:03:37](https://news.ycombinator.com/item?id=43645925) - [RNA interference and nanomedicine team up to fight dangerous fungal infections](https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html)
 * [2025-04-09, 19:49:37](https://news.ycombinator.com/item?id=43636948) - [Telling the Bees](https://emergencemagazine.org/essay/telling-the-bees/)
+* [2025-04-09, 14:52:46](https://news.ycombinator.com/item?id=43632828) - [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
 
 ## [Archives](archives/index.md)
 
