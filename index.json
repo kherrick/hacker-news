@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-13, 19:43:11",
+      "https://news.ycombinator.com/item?id=43675310"
+    ],
+    [
+      "An Introduction to Abstract Mathematics [pdf]",
+      "https://www.math.uci.edu/~ndonalds/math13/notes.pdf"
+    ]
+  ],
+  [
+    [
       "2025-04-13, 19:43:03",
       "https://news.ycombinator.com/item?id=43675309"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2025-04-13, 19:20:10",
-      "https://news.ycombinator.com/item?id=43675166"
-    ],
-    [
-      "The self-castrated hatmaker who killed John Wilkes Booth (2015)",
-      "https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/"
-    ]
-  ],
-  [
-    [
       "2025-04-13, 19:13:37",
       "https://news.ycombinator.com/item?id=43675126"
     ],
     [
       "Open guide to equity compensation",
       "https://github.com/jlevy/og-equity-compensation"
+    ]
+  ],
+  [
+    [
+      "2025-04-13, 18:33:05",
+      "https://news.ycombinator.com/item?id=43674825"
+    ],
+    [
+      "Implementing DeepSeek R1's GRPO algorithm from scratch",
+      "https://github.com/policy-gradient/GRPO-Zero"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Show HN: Chonky – a neural approach for text semantic chunking",
       "https://github.com/mirth/chonky"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 22:12:47",
-      "https://news.ycombinator.com/item?id=43648536"
-    ],
-    [
-      "Nominal Aphasia: Problems in Name Retrieval",
-      "https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval"
     ]
   ],
   [
