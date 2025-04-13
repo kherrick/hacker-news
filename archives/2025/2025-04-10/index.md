@@ -67,6 +67,7 @@
 * [2025-04-10, 12:26:05](https://news.ycombinator.com/item?id=43643120) - [Ambient music on iOS 18.4 and the return to the Apple's Music app](https://manualdousuario.net/en/ambient-music-ios-18-4/)
 * [2025-04-10, 12:23:17](https://news.ycombinator.com/item?id=43643104) - [EGPU: Extending eBPF Programmability and Observability to GPUs](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/HCDS25/10/13a8f7c0-0a7e-11f0-ada9-16bb50361d1f/OUT/hcds25-10.html)
 * [2025-04-10, 12:10:29](https://news.ycombinator.com/item?id=43643028) - [Are .NET 4.x and JDK 8.x the \"zombie\" runtimes of enterprise software?](https://news.ycombinator.com/item?id=43643028)
+* [2025-04-10, 11:59:24](https://news.ycombinator.com/item?id=43642959) - [ESA has a commercial launch strategy, but will member states pay?](https://arstechnica.com/space/2025/03/esa-finally-has-a-commercial-launch-strategy-but-will-member-states-pay/)
 * [2025-04-10, 11:54:13](https://news.ycombinator.com/item?id=43642928) - [Are Americans Still Welcome in Europe?](https://blog.ricksteves.com/cameron/2025/03/americans-welcome-europe-2025/)
 * [2025-04-10, 11:30:07](https://news.ycombinator.com/item?id=43642802) - [We've Been Conned: The Truth about Big LLM](https://www.dolthub.com/blog/2025-04-09-weve-been-conned-the-truth-about-llms/)
 * [2025-04-10, 09:52:48](https://news.ycombinator.com/item?id=43642351) - [Linux on Samsung Chromebook Plus (Kevin) with Rockchip RK3399 ARM SoC (2024)](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
