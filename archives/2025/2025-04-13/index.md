@@ -15,6 +15,7 @@
 * [2025-04-13, 15:06:50](https://news.ycombinator.com/item?id=43673327) - [US tech tariff exemption may only be temporary, says Lutnick](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b)
 * [2025-04-13, 15:01:48](https://news.ycombinator.com/item?id=43673297) - [The rise of end times fascism](https://www.theguardian.com/us-news/ng-interactive/2025/apr/13/end-times-fascism-far-right-trump-musk)
 * [2025-04-13, 14:57:37](https://news.ycombinator.com/item?id=43673262) - [Using bad hardware: why I work in the terminal (2024)](https://colean.cc/journal/2024/08sep.html)
+* [2025-04-13, 14:55:02](https://news.ycombinator.com/item?id=43673235) - [Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money](https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/)
 * [2025-04-13, 14:42:16](https://news.ycombinator.com/item?id=43673151) - [Skywork-OR1: new SOTA 32B thinking model with open weight](https://github.com/SkyworkAI/Skywork-OR1)
 * [2025-04-13, 14:36:36](https://news.ycombinator.com/item?id=43673125) - [Half the men in Seattle are never-married singles, census data shows](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/)
 * [2025-04-13, 14:21:48](https://news.ycombinator.com/item?id=43673011) - [Making SNES ROMs using C#](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX)
