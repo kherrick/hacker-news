@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 07:15:10](https://news.ycombinator.com/item?id=43670737) - [Too many adults are absolutely clueless](https://www.economist.com/culture/2025/04/10/too-many-adults-are-absolutely-clueless)
 * [2025-04-13, 06:23:24](https://news.ycombinator.com/item?id=43670527) - [Show HN: BSE – Semantic Zip Engine for Text, Image and Audio](https://news.ycombinator.com/item?id=43670527)
 * [2025-04-13, 05:10:02](https://news.ycombinator.com/item?id=43670238) - [33-year-old AmigaOS for Commodore computers gets an unexpected update News](https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update)
 * [2025-04-13, 04:48:48](https://news.ycombinator.com/item?id=43670171) - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
