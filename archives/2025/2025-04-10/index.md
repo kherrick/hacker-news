@@ -19,6 +19,7 @@
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [So, I Wrote a Book: The Story Behind \"100 Go Mistakes and How to Avoid Them\"](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-10, 20:37:21](https://news.ycombinator.com/item?id=43647812) - [Attorney representing a student protester detained by federal immigration agents](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/)
 * [2025-04-10, 20:24:01](https://news.ycombinator.com/item?id=43647716) - [PEP 750 – Template Strings has been accepted](https://peps.python.org/pep-0750/)
+* [2025-04-10, 20:10:14](https://news.ycombinator.com/item?id=43647605) - [Cargo-mutants:zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 20:09:23](https://news.ycombinator.com/item?id=43647598) - [What if your website had business hours? (2022)](https://bobbiechen.com/blog/2022/7/21/what-if-your-website-had-business-hours)
 * [2025-04-10, 19:29:46](https://news.ycombinator.com/item?id=43647294) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [2025-04-10, 19:24:25](https://news.ycombinator.com/item?id=43647237) - [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
