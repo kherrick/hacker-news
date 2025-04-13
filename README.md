@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-13, 15:40:21](https://news.ycombinator.com/item?id=43673575) - [Hunter-gatherer sea voyages extended to remotest Mediterranean islands](https://www.nature.com/articles/s41586-025-08780-y)
-* [2025-04-13, 14:57:37](https://news.ycombinator.com/item?id=43673262) - [Using bad hardware: why I work in the terminal (2024)](https://colean.cc/journal/2024/08sep.html)
+* [2025-04-13, 16:39:08](https://news.ycombinator.com/item?id=43674016) - [Show HN: Gatehouse-TS – TypeScript port of Rust's authorization policy framework](https://github.com/9Morello/gatehouse-ts)
+* [2025-04-13, 16:24:28](https://news.ycombinator.com/item?id=43673921) - [Amazon Turned Drivers into First Responders in Europe Experiment](https://www.bloomberg.com/news/articles/2025-04-10/amazon-turned-drivers-into-first-responders-in-europe-experiment)
+* [2025-04-13, 16:15:00](https://news.ycombinator.com/item?id=43673862) - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
+* [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2025-04-13, 14:42:16](https://news.ycombinator.com/item?id=43673151) - [Skywork-OR1: new SOTA 32B thinking model with open weight](https://github.com/SkyworkAI/Skywork-OR1)
 * [2025-04-13, 14:21:48](https://news.ycombinator.com/item?id=43673011) - [Making SNES ROMs using C#](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX)
 * [2025-04-13, 14:16:20](https://news.ycombinator.com/item?id=43672975) - [Why Pascal Is Not My Favorite Programming Language (1981) [pdf]](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf)
@@ -17,12 +19,9 @@
 * [2025-04-13, 01:05:31](https://news.ycombinator.com/item?id=43669185) - [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
 * [2025-04-12, 22:02:58](https://news.ycombinator.com/item?id=43668250) - [WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser](https://webtui.ironclad.sh)
 * [2025-04-12, 21:50:39](https://news.ycombinator.com/item?id=43668192) - [I ditched my laptop for a pocketable mini PC and a pair of AR glasses](https://www.tomsguide.com/computing/i-ditched-my-laptop-for-a-pocketable-mini-pc-and-a-pair-of-ar-glasses-heres-what-happened)
-* [2025-04-12, 19:02:26](https://news.ycombinator.com/item?id=43667061) - [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
 * [2025-04-12, 18:55:17](https://news.ycombinator.com/item?id=43667010) - [Why is there a “small house” in IBM's Code page 437?](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/)
 * [2025-04-12, 17:40:09](https://news.ycombinator.com/item?id=43666439) - [Nice things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
 * [2025-04-12, 15:09:14](https://news.ycombinator.com/item?id=43665046) - [Emacs Lisp Elements](https://protesilaos.com/emacs/emacs-lisp-elements)
-* [2025-04-12, 09:05:32](https://news.ycombinator.com/item?id=43662686) - [The Bitter Prediction](https://4zm.org/2025/04/05/bitter-prediction.html)
-* [2025-04-12, 07:56:52](https://news.ycombinator.com/item?id=43662339) - [Fake images that fooled the world](https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world)
 * [2025-04-12, 07:01:56](https://news.ycombinator.com/item?id=43662031) - [How I install personal versions of programs on Unix](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup)
 * [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
 * [2025-04-11, 12:18:39](https://news.ycombinator.com/item?id=43652968) - [Show HN: Chonky – a neural approach for text semantic chunking](https://github.com/mirth/chonky)
@@ -30,6 +29,7 @@
 * [2025-04-10, 20:10:14](https://news.ycombinator.com/item?id=43647605) - [Cargo-mutants:zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 17:03:37](https://news.ycombinator.com/item?id=43645925) - [RNA interference and nanomedicine team up to fight dangerous fungal infections](https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html)
 * [2025-04-09, 19:49:37](https://news.ycombinator.com/item?id=43636948) - [Telling the Bees](https://emergencemagazine.org/essay/telling-the-bees/)
+* [2025-04-09, 17:33:05](https://news.ycombinator.com/item?id=43634853) - [More than 1,500 new fonts – including all-time favorites – come to Adobe Fonts](https://blog.adobe.com/en/publish/2025/04/08/more-than-1500-new-fonts-including-all-time-favorites-come-to-adobe-fonts)
 
 ## [Archives](archives/index.md)
 

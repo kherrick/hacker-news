@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 16:39:08](https://news.ycombinator.com/item?id=43674016) - [Show HN: Gatehouse-TS – TypeScript port of Rust's authorization policy framework](https://github.com/9Morello/gatehouse-ts)
+* [2025-04-13, 16:24:28](https://news.ycombinator.com/item?id=43673921) - [Amazon Turned Drivers into First Responders in Europe Experiment](https://www.bloomberg.com/news/articles/2025-04-10/amazon-turned-drivers-into-first-responders-in-europe-experiment)
+* [2025-04-13, 16:15:00](https://news.ycombinator.com/item?id=43673862) - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
 * [2025-04-13, 15:40:21](https://news.ycombinator.com/item?id=43673575) - [Hunter-gatherer sea voyages extended to remotest Mediterranean islands](https://www.nature.com/articles/s41586-025-08780-y)
+* [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2025-04-13, 15:32:25](https://news.ycombinator.com/item?id=43673518) - [Why Our Brains Crave Ideology](https://nautil.us/why-our-brains-crave-ideology-1203194/)
 * [2025-04-13, 15:06:50](https://news.ycombinator.com/item?id=43673327) - [US tech tariff exemption may only be temporary, says Lutnick](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b)
 * [2025-04-13, 15:01:48](https://news.ycombinator.com/item?id=43673297) - [The rise of end times fascism](https://www.theguardian.com/us-news/ng-interactive/2025/apr/13/end-times-fascism-far-right-trump-musk)
