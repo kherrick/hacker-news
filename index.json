@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-13, 18:12:55",
-      "https://news.ycombinator.com/item?id=43674682"
+      "2025-04-13, 17:13:09",
+      "https://news.ycombinator.com/item?id=43674267"
     ],
     [
-      "Few build Hypervisors. We're one of them",
-      "https://virtualize.sh/blog/few-build-hypervisors-were-one-of-them/"
+      "Don't sell space in your homelab (2023)",
+      "https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Using bad hardware: why I work in the terminal (2024)",
       "https://colean.cc/journal/2024/08sep.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-13, 14:55:02",
-      "https://news.ycombinator.com/item?id=43673235"
-    ],
-    [
-      "Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money",
-      "https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-04-10, 17:08:50",
+      "https://news.ycombinator.com/item?id=43645984"
+    ],
+    [
+      "Mistakes and cool things to do with arena allocators",
+      "https://zylinski.se/posts/dynamic-arrays-and-arenas/"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 17:03:37",
       "https://news.ycombinator.com/item?id=43645925"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43639617"
     ],
     [
-      "The Secret History of the Manicule, the Little Hand That's Everywhere",
+      "The Manicule: The little hand that's everywhere",
       "https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/"
     ]
   ],
