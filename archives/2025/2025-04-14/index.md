@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 15:29:00](https://news.ycombinator.com/item?id=43682378) - [Target suffers 10th consecutive week of foot traffic decline since caving on DEI](https://www.retailbrew.com/stories/2025/04/11/target-suffers-10th-consecutive-week-of-foot-traffic-declines-sinking-stock-prices-since-caving-on-dei)
+* [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
+* [2025-04-14, 14:49:42](https://news.ycombinator.com/item?id=43681936) - [How to Bike Across the Country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
 * [2025-04-14, 14:33:05](https://news.ycombinator.com/item?id=43681758) - [Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg's voices](https://techcrunch.com/2025/04/14/silicon-valley-crosswalk-buttons-hacked-to-imitate-musk-zuckerberg-voices/)
 * [2025-04-14, 14:23:22](https://news.ycombinator.com/item?id=43681679) - [Dead trees keep surprisingly large amounts of carbon out of atmosphere](https://phys.org/news/2025-03-dead-trees-large-amounts-carbon.html)
 * [2025-04-14, 14:21:36](https://news.ycombinator.com/item?id=43681658) - [Canadian math prodigy allegedly stole US$65M in crypto](https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/)
@@ -12,6 +15,7 @@
 * [2025-04-14, 13:50:55](https://news.ycombinator.com/item?id=43681267) - [Gleam v1.10.0 Released](https://gleam.run/news/global-rename-and-find-references/)
 * [2025-04-14, 13:43:59](https://news.ycombinator.com/item?id=43681195) - [One of the country's leading Alzheimer's projects is in jeopardy](https://www.nbcnews.com/health/health-news/one-countrys-leading-alzheimers-projects-jeopardy-rcna199788)
 * [2025-04-14, 13:12:07](https://news.ycombinator.com/item?id=43680900) - [Political beliefs affect patients' trust in doctors, study finds](https://news.uoregon.edu/political-beliefs-affect-patients-trust-doctors-study-finds)
+* [2025-04-14, 13:12:00](https://news.ycombinator.com/item?id=43680899) - [DolphinGemma: How Google AI is helping decode dolphin communication](https://blog.google/technology/ai/dolphingemma/)
 * [2025-04-14, 12:58:13](https://news.ycombinator.com/item?id=43680788) - [AWS announces 85% price reductions for S3 Express One Zone](https://aws.amazon.com/blogs/aws/up-to-85-price-reductions-for-amazon-s3-express-one-zone/)
 * [2025-04-14, 12:46:45](https://news.ycombinator.com/item?id=43680699) - [Meilisearch – search engine API bringing AI-powered hybrid search](https://github.com/meilisearch/meilisearch)
 * [2025-04-14, 12:44:33](https://news.ycombinator.com/item?id=43680685) - [Kotlin, Swift, and Ruby losing popularity](https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html)
