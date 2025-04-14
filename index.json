@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-04-14, 11:42:13",
+      "https://news.ycombinator.com/item?id=43680232"
+    ],
+    [
+      "Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]",
+      "https://omnom.zone/?src=hn"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 11:11:29",
       "https://news.ycombinator.com/item?id=43680039"
     ],
     [
       "She was chatting with friends in a Lyft. Then someone texted her what they said",
       "https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 10:52:52",
+      "https://news.ycombinator.com/item?id=43679943"
+    ],
+    [
+      "Zotero Fullscreen Mode by Script",
+      "https://github.com/windingwind/zotero-actions-tags/discussions/385"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 10:20:42",
+      "https://news.ycombinator.com/item?id=43679781"
+    ],
+    [
+      "Hacktical C: practical hacker's guide to the C programming language",
+      "https://github.com/codr7/hacktical-c"
     ]
   ],
   [
@@ -31,11 +61,21 @@
   ],
   [
     [
+      "2025-04-14, 07:27:27",
+      "https://news.ycombinator.com/item?id=43678914"
+    ],
+    [
+      "Engineers Who Won't Commit",
+      "https://www.seangoedecke.com/taking-a-position/"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 05:22:44",
       "https://news.ycombinator.com/item?id=43678312"
     ],
     [
-      "Albert Einstein's theory of relativity in words of four letters or less",
+      "Albert Einstein's theory of relativity in words of four letters or less (1999)",
       "https://www.muppetlabs.com/~breadbox/txt/al.html"
     ]
   ],
@@ -71,32 +111,12 @@
   ],
   [
     [
-      "2025-04-14, 01:30:22",
-      "https://news.ycombinator.com/item?id=43677265"
-    ],
-    [
-      "Calypso: LLMs as Dungeon Masters' Assistants [pdf]",
-      "https://andrewhead.info/assets/pdf/calypso.pdf"
-    ]
-  ],
-  [
-    [
       "2025-04-14, 01:25:57",
       "https://news.ycombinator.com/item?id=43677232"
     ],
     [
       "Why Everything in the Universe Turns More Complex",
       "https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 01:11:19",
-      "https://news.ycombinator.com/item?id=43677165"
-    ],
-    [
-      "I bought a Mac",
-      "https://loganius.org/2025/04/i-bought-a-mac/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Math 13 – An Introduction to Abstract Mathematics [pdf]",
       "https://www.math.uci.edu/~ndonalds/math13/notes.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-13, 19:43:03",
-      "https://news.ycombinator.com/item?id=43675309"
-    ],
-    [
-      "Writing my own dithering algorithm in Racket",
-      "https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The dark side of the Moomins",
       "https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 09:01:29",
-      "https://news.ycombinator.com/item?id=43662665"
-    ],
-    [
-      "Shadertoys Ported to Rust GPU",
-      "https://rust-gpu.github.io/blog/2025/04/10/shadertoys/"
     ]
   ],
   [
