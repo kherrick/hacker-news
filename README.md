@@ -4,6 +4,7 @@
 * [2025-04-14, 19:14:17](https://news.ycombinator.com/item?id=43685018) - [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 * [2025-04-14, 18:28:50](https://news.ycombinator.com/item?id=43684536) - [Harvard's response to federal government letter demanding changes](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/)
+* [2025-04-14, 18:23:30](https://news.ycombinator.com/item?id=43684492) - [Censors Ignore Unencrypted HTTP/2 Traffic (2024)](https://upb-syssec.github.io/blog/2024/http2/)
 * [2025-04-14, 17:59:11](https://news.ycombinator.com/item?id=43684225) - [KaiPod Learning (YC S21) Is Hiring a PM](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
 * [2025-04-14, 17:43:32](https://news.ycombinator.com/item?id=43684009) - [Simple Web Server](https://simplewebserver.org/)
 * [2025-04-14, 17:35:11](https://news.ycombinator.com/item?id=43683907) - [AudioX: Diffusion Transformer for Anything-to-Audio Generation](https://zeyuet.github.io/AudioX/)
@@ -28,7 +29,6 @@
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
 * [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh’s Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
 * [2025-04-11, 02:04:52](https://news.ycombinator.com/item?id=43649781) - [How Janet's PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
-* [2025-04-10, 22:34:54](https://news.ycombinator.com/item?id=43648649) - [Cure ID App Lets Clinicians Report Novel Uses of Existing Drugs](https://www.fda.gov/drugs/science-and-research-drugs/cure-id-app-lets-clinicians-report-novel-uses-existing-drugs)
 * [2025-04-10, 17:34:40](https://news.ycombinator.com/item?id=43646227) - [Hassabis Says Google DeepMind to Support Anthropic's MCP for Gemini and SDK](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
 
 ## [Archives](archives/index.md)

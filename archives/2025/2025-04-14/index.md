@@ -10,6 +10,7 @@
 * [2025-04-14, 18:40:53](https://news.ycombinator.com/item?id=43684638) - [Mathematical Reasoning and Proofs [pdf]](https://alistairsavage.ca/mat1362/notes/MAT1362-Mathematical_reasoning_and_proofs.pdf)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 * [2025-04-14, 18:28:50](https://news.ycombinator.com/item?id=43684536) - [Harvard's response to federal government letter demanding changes](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/)
+* [2025-04-14, 18:23:30](https://news.ycombinator.com/item?id=43684492) - [Censors Ignore Unencrypted HTTP/2 Traffic (2024)](https://upb-syssec.github.io/blog/2024/http2/)
 * [2025-04-14, 17:59:11](https://news.ycombinator.com/item?id=43684225) - [KaiPod Learning (YC S21) Is Hiring](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
 * [2025-04-14, 17:43:32](https://news.ycombinator.com/item?id=43684009) - [Simple Web Server](https://simplewebserver.org/)
 * [2025-04-14, 17:35:11](https://news.ycombinator.com/item?id=43683907) - [AudioX: Diffusion Transformer for Anything-to-Audio Generation](https://zeyuet.github.io/AudioX/)
