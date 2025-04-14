@@ -22,12 +22,12 @@
 * [2025-04-13, 16:02:28](https://news.ycombinator.com/item?id=43673761) - [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
 * [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2025-04-13, 13:15:57](https://news.ycombinator.com/item?id=43672593) - [The dark side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
+* [2025-04-12, 09:01:29](https://news.ycombinator.com/item?id=43662665) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
 * [2025-04-12, 02:58:26](https://news.ycombinator.com/item?id=43660952) - [Transformer Lab](https://transformerlab.ai/)
 * [2025-04-11, 23:28:50](https://news.ycombinator.com/item?id=43659814) - [The Ford Executive Who Kept Score of Colleagues' Verbal Flubs](https://www.wsj.com/lifestyle/ford-motor-mike-obrien-malaprops-6e560520)
 * [2025-04-11, 21:40:43](https://news.ycombinator.com/item?id=43658923) - [Writing Cursor rules with a Cursor rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
 * [2025-04-11, 20:19:11](https://news.ycombinator.com/item?id=43658089) - [Googler... ex-Googler](https://nerdy.dev/ex-googler)
 * [2025-04-10, 23:31:48](https://news.ycombinator.com/item?id=43648922) - [Neutrinos' maximum possible mass shrinks further](https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron)
-* [2025-04-10, 20:47:28](https://news.ycombinator.com/item?id=43647885) - [Bicycle riders' knowledge and experience of structural weakness in bicycles](https://injuryprevention.bmj.com/content/early/2025/03/31/ip-2024-045518)
 * [2025-04-10, 14:10:28](https://news.ycombinator.com/item?id=43643944) - [Docker Model Runner](https://www.docker.com/blog/introducing-docker-model-runner/)
 * [2025-04-10, 10:35:32](https://news.ycombinator.com/item?id=43642568) - [Comparing economic inequality between the Roman Empire and the Han Dynasty](https://phys.org/news/2025-04-economic-inequality-roman-empire-han.html)
 
