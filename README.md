@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-14, 13:52:59](https://news.ycombinator.com/item?id=43681289) - [A 42,600-ton Chinese ship will drill 7 miles (ca. 11 km) under the ocean floor](https://farmingdale-observer.com/2025/04/12/weighing-42600-tons-this-new-chinese-monster-was-built-for-one-purpose-to-break-the-world-record-for-the-deepest-drill-at-7-miles/)
+* [2025-04-14, 13:50:55](https://news.ycombinator.com/item?id=43681267) - [Gleam v1.10.0 Released](https://gleam.run/news/global-rename-and-find-references/)
 * [2025-04-14, 13:43:59](https://news.ycombinator.com/item?id=43681195) - [One of the country's leading Alzheimer's projects is in jeopardy](https://www.nbcnews.com/health/health-news/one-countrys-leading-alzheimers-projects-jeopardy-rcna199788)
-* [2025-04-14, 13:12:07](https://news.ycombinator.com/item?id=43680900) - [Political beliefs affect patients' trust in doctors, study finds](https://news.uoregon.edu/political-beliefs-affect-patients-trust-doctors-study-finds)
 * [2025-04-14, 12:46:45](https://news.ycombinator.com/item?id=43680699) - [Meilisearch – search engine API bringing AI-powered hybrid search](https://github.com/meilisearch/meilisearch)
-* [2025-04-14, 12:29:09](https://news.ycombinator.com/item?id=43680575) - [I Fought the IRS for Over $12K and won](https://www.mikekasberg.com/blog/2025/04/13/i-fought-the-irs-for-over-12k-and-won.html)
+* [2025-04-14, 12:26:33](https://news.ycombinator.com/item?id=43680556) - [EU issues US-bound staff with burner phones over spying fears](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b)
+* [2025-04-14, 12:04:22](https://news.ycombinator.com/item?id=43680367) - [SSH Keys Don't Scale. SSH Certificates Do](https://infisical.com/blog/ssh-keys-dont-scale)
 * [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
-* [2025-04-14, 10:52:52](https://news.ycombinator.com/item?id=43679943) - [Zotero Fullscreen Mode by Script](https://github.com/windingwind/zotero-actions-tags/discussions/385)
 * [2025-04-14, 10:20:42](https://news.ycombinator.com/item?id=43679781) - [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
 * [2025-04-14, 10:06:33](https://news.ycombinator.com/item?id=43679707) - [Zig's new LinkedList API (it's time to learn fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 07:47:18](https://news.ycombinator.com/item?id=43679004) - [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
@@ -29,7 +30,6 @@
 * [2025-04-11, 07:51:30](https://news.ycombinator.com/item?id=43651428) - [I built an app to organize Kindle highlights (and physical book quotes too)](https://apps.apple.com/es/app/book-highlights/id6504406544)
 * [2025-04-10, 23:31:48](https://news.ycombinator.com/item?id=43648922) - [Neutrinos' maximum possible mass shrinks further](https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron)
 * [2025-04-10, 14:10:28](https://news.ycombinator.com/item?id=43643944) - [Docker Model Runner](https://www.docker.com/blog/introducing-docker-model-runner/)
-* [2025-04-10, 10:35:32](https://news.ycombinator.com/item?id=43642568) - [Comparing economic inequality between the Roman Empire and the Han Dynasty](https://phys.org/news/2025-04-economic-inequality-roman-empire-han.html)
 
 ## [Archives](archives/index.md)
 
