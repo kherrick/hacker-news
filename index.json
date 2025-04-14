@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-04-14, 22:22:52",
+      "https://news.ycombinator.com/item?id=43686936"
+    ],
+    [
+      "Tomb Engine",
+      "https://tombengine.com/"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 21:59:13",
       "https://news.ycombinator.com/item?id=43686773"
     ],
     [
-      "Intel sells 51% stake in Altera to private equity firm with a valuation $8.75B",
+      "Intel sells 51% stake in Altera to private equity firm with a $8.75B valuation",
       "https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy",
       "https://machinelearning.apple.com/research/differential-privacy-aggregate-trends"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 19:35:04",
-      "https://news.ycombinator.com/item?id=43685304"
-    ],
-    [
-      "Watermark segmentation",
-      "https://github.com/Diffusion-Dynamics/watermark-segmentation"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "GPT-4.1 in the API",
       "https://openai.com/index/gpt-4-1/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 15:54:10",
-      "https://news.ycombinator.com/item?id=43682686"
-    ],
-    [
-      "Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety",
-      "https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "AI used for skin cancer checks at London hospital",
       "https://www.bbc.com/news/articles/czd3ygd7mrno"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 06:11:43",
+      "https://news.ycombinator.com/item?id=43661799"
+    ],
+    [
+      "Lost City of the Samurai",
+      "https://archaeology.org/issues/may-june-2025/features/lost-city-of-the-samurai/"
     ]
   ],
   [
