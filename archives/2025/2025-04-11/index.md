@@ -30,6 +30,7 @@
 * [2025-04-11, 17:50:10](https://news.ycombinator.com/item?id=43656487) - [When Microsoft retired Clippy](https://dfarq.homeip.net/when-microsoft-retired-clippy/)
 * [2025-04-11, 17:49:32](https://news.ycombinator.com/item?id=43656481) - [A balanced review of Math Academy](https://newsletter.ozwrites.com/p/a-balanced-review-of-math-academy)
 * [2025-04-11, 17:27:39](https://news.ycombinator.com/item?id=43656279) - [The PS3 Licked the Many Cookie](https://darkcephas.github.io/ps3_failed/ps3_failed.html)
+* [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
 * [2025-04-11, 17:00:43](https://news.ycombinator.com/item?id=43656007) - [Mosaic (YC W25) is building a general purpose agent for video editing](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer)
 * [2025-04-11, 16:53:28](https://news.ycombinator.com/item?id=43655917) - [The Heir Conditioner](https://lareviewofbooks.org/article/the-heir-conditioner/)
 * [2025-04-11, 16:53:20](https://news.ycombinator.com/item?id=43655914) - [Datastar: Web Framework for the Future?](https://chrismalek.me/posts/data-star-first-impressions/)
