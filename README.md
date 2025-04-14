@@ -21,7 +21,7 @@
 * [2025-04-13, 16:02:28](https://news.ycombinator.com/item?id=43673761) - [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
 * [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2025-04-13, 13:15:57](https://news.ycombinator.com/item?id=43672593) - [The dark side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
-* [2025-04-12, 09:01:29](https://news.ycombinator.com/item?id=43662665) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
+* [2025-04-12, 13:51:57](https://news.ycombinator.com/item?id=43664367) - [A multilayered approach: what's next for carton packaging?](https://www.ft.com/partnercontent/tetra-pak/a-multilayered-approach-whats-next-for-carton-packaging.html)
 * [2025-04-12, 02:58:26](https://news.ycombinator.com/item?id=43660952) - [Transformer Lab](https://transformerlab.ai/)
 * [2025-04-12, 02:38:58](https://news.ycombinator.com/item?id=43660844) - [Emily Dickinson's Playful Letterlocking](https://thereader.mitpress.mit.edu/emily-dickinsons-playful-letterlocking/)
 * [2025-04-11, 21:40:43](https://news.ycombinator.com/item?id=43658923) - [Writing Cursor rules with a Cursor rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
