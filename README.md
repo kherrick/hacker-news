@@ -27,9 +27,9 @@
 * [2025-04-11, 21:40:43](https://news.ycombinator.com/item?id=43658923) - [Writing Cursor rules with a Cursor rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
 * [2025-04-11, 20:19:11](https://news.ycombinator.com/item?id=43658089) - [Googler... ex-Googler](https://nerdy.dev/ex-googler)
 * [2025-04-10, 23:31:48](https://news.ycombinator.com/item?id=43648922) - [Neutrinos' maximum possible mass shrinks further](https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron)
+* [2025-04-10, 20:47:28](https://news.ycombinator.com/item?id=43647885) - [Bicycle riders' knowledge and experience of structural weakness in bicycles](https://injuryprevention.bmj.com/content/early/2025/03/31/ip-2024-045518)
 * [2025-04-10, 14:10:28](https://news.ycombinator.com/item?id=43643944) - [Docker Model Runner](https://www.docker.com/blog/introducing-docker-model-runner/)
 * [2025-04-10, 10:35:32](https://news.ycombinator.com/item?id=43642568) - [Comparing economic inequality between the Roman Empire and the Han Dynasty](https://phys.org/news/2025-04-economic-inequality-roman-empire-han.html)
-* [2025-04-09, 23:46:29](https://news.ycombinator.com/item?id=43639194) - [Super Rat: the record-setting rodent sniffing out landmines and saving lives](https://www.cnn.com/2025/04/07/asia/cambodia-rat-ronin-guinness-record-intl-hnk/index.html)
 
 ## [Archives](archives/index.md)
 

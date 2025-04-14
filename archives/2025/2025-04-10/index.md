@@ -18,6 +18,7 @@
 * [2025-04-10, 21:57:17](https://news.ycombinator.com/item?id=43648423) - [Microgravity 101](https://sparkgravity.com/journal/microgravity-101/)
 * [2025-04-10, 21:53:56](https://news.ycombinator.com/item?id=43648401) - [Structural Optimization of I-Beams via Typographical Analysis](https://www.researchgate.net/publication/390635826_Structural_Optimization_of_I-Beams_via_Typographical_Analysis_A_Comparative_Study_of_Alphabetical_Cross-Sections)
 * [2025-04-10, 21:24:28](https://news.ycombinator.com/item?id=43648145) - [Show HN: I built a tool to manage and compare credit card rewards](https://rewards.getonecard.io)
+* [2025-04-10, 20:47:28](https://news.ycombinator.com/item?id=43647885) - [Bicycle riders' knowledge and experience of structural weakness in bicycles](https://injuryprevention.bmj.com/content/early/2025/03/31/ip-2024-045518)
 * [2025-04-10, 20:47:01](https://news.ycombinator.com/item?id=43647880) - [So, I Wrote a Book: The Story Behind \"100 Go Mistakes and How to Avoid Them\"](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-10, 20:37:21](https://news.ycombinator.com/item?id=43647812) - [Attorney representing a student protester detained by federal immigration agents](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/)
 * [2025-04-10, 20:24:01](https://news.ycombinator.com/item?id=43647716) - [PEP 750 – Template Strings has been accepted](https://peps.python.org/pep-0750/)
