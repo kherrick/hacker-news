@@ -69,3 +69,4 @@
 * [2025-04-12, 02:38:58](https://news.ycombinator.com/item?id=43660844) - [Emily Dickinson's Playful Letterlocking](https://thereader.mitpress.mit.edu/emily-dickinsons-playful-letterlocking/)
 * [2025-04-12, 01:49:36](https://news.ycombinator.com/item?id=43660617) - [Splash-free urinals: Design through physics and differential equations](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
 * [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
+* [2025-04-12, 01:25:13](https://news.ycombinator.com/item?id=43660478) - [Sheet Mewsic: Moritz von Schwind's Katzensymphonie (1868)](https://publicdomainreview.org/collection/katzensymphonie/)
