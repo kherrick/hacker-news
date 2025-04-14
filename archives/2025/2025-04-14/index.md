@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 17:59:11](https://news.ycombinator.com/item?id=43684225) - [KaiPod Learning (YC S21) Is Hiring](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
+* [2025-04-14, 17:43:32](https://news.ycombinator.com/item?id=43684009) - [Simple Web Server](https://simplewebserver.org/)
+* [2025-04-14, 17:35:11](https://news.ycombinator.com/item?id=43683907) - [AudioX: Diffusion Transformer for Anything-to-Audio Generation](https://zeyuet.github.io/AudioX/)
 * [2025-04-14, 17:08:24](https://news.ycombinator.com/item?id=43683497) - [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
 * [2025-04-14, 16:28:53](https://news.ycombinator.com/item?id=43683071) - [OpenAI Is a Systemic Risk to the Tech Industry](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/)
@@ -15,6 +18,7 @@
 * [2025-04-14, 15:28:07](https://news.ycombinator.com/item?id=43682369) - [AES and ChaCha](https://phase.dev/blog/chacha-and-aes-simplicity-in-cryptography/)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 14:55:57](https://news.ycombinator.com/item?id=43682006) - [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
+* [2025-04-14, 14:54:51](https://news.ycombinator.com/item?id=43681990) - [Monte Carlo Crash Course: Sampling](https://thenumb.at/Sampling/)
 * [2025-04-14, 14:49:42](https://news.ycombinator.com/item?id=43681936) - [How to Bike Across the Country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
 * [2025-04-14, 14:33:05](https://news.ycombinator.com/item?id=43681758) - [Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg's voices](https://techcrunch.com/2025/04/14/silicon-valley-crosswalk-buttons-hacked-to-imitate-musk-zuckerberg-voices/)
 * [2025-04-14, 14:23:22](https://news.ycombinator.com/item?id=43681679) - [Dead trees keep surprisingly large amounts of carbon out of atmosphere](https://phys.org/news/2025-03-dead-trees-large-amounts-carbon.html)
