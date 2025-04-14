@@ -62,6 +62,7 @@
 * [2025-04-12, 06:11:43](https://news.ycombinator.com/item?id=43661799) - [Lost City of the Samurai](https://archaeology.org/issues/may-june-2025/features/lost-city-of-the-samurai/)
 * [2025-04-12, 06:05:09](https://news.ycombinator.com/item?id=43661763) - [Why Your 'Harmonious' Team Is Failing](https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/)
 * [2025-04-12, 05:47:10](https://news.ycombinator.com/item?id=43661680) - [$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money](https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/)
+* [2025-04-12, 04:53:39](https://news.ycombinator.com/item?id=43661461) - [TTRPG Roots in the Game Battleship](http://playingattheworld.blogspot.com/2018/10/subterranean-chainmail-mines-and.html)
 * [2025-04-12, 04:21:15](https://news.ycombinator.com/item?id=43661329) - [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
 * [2025-04-12, 03:58:50](https://news.ycombinator.com/item?id=43661235) - [Google Is Winning on Every AI Front](https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front)
 * [2025-04-12, 03:49:49](https://news.ycombinator.com/item?id=43661181) - [Vertical Sharding Sucks](https://pgdog.dev/blog/vertical-sharding-sucks)
