@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-14, 21:59:13](https://news.ycombinator.com/item?id=43686773) - [Intel sells Altera to private equity firm for $8.75B](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
+* [2025-04-14, 21:59:13](https://news.ycombinator.com/item?id=43686773) - [Intel sells 51% stake in Altera to private equity firm for $8.75B](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
+* [2025-04-14, 21:52:49](https://news.ycombinator.com/item?id=43686715) - [Show HN: ClipCapsule – A Clipboard Manager for Linux (Built with Go and Wails)](https://github.com/Victor-Evogor/clipcapsule)
 * [2025-04-14, 20:04:58](https://news.ycombinator.com/item?id=43685714) - [Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)
 * [2025-04-14, 19:35:04](https://news.ycombinator.com/item?id=43685304) - [Watermark segmentation](https://github.com/Diffusion-Dynamics/watermark-segmentation)
 * [2025-04-14, 19:14:17](https://news.ycombinator.com/item?id=43685018) - [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
@@ -25,7 +26,6 @@
 * [2025-04-14, 07:47:18](https://news.ycombinator.com/item?id=43679004) - [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
 * [2025-04-14, 07:43:12](https://news.ycombinator.com/item?id=43678988) - [The Whimsical Investor](https://fi-le.net/stonks/)
 * [2025-04-12, 07:43:47](https://news.ycombinator.com/item?id=43662263) - [AI used for skin cancer checks at London hospital](https://www.bbc.com/news/articles/czd3ygd7mrno)
-* [2025-04-12, 01:25:13](https://news.ycombinator.com/item?id=43660478) - [Sheet Mewsic: Moritz von Schwind's Katzensymphonie (1868)](https://publicdomainreview.org/collection/katzensymphonie/)
 * [2025-04-11, 20:52:32](https://news.ycombinator.com/item?id=43658417) - [W65C832 in an FPGA](https://www.mikekohn.net/micro/w65c832_fpga.php)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
 * [2025-04-11, 02:04:52](https://news.ycombinator.com/item?id=43649781) - [How Janet's PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
