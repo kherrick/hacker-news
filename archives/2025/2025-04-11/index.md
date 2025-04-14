@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
 * [2025-04-11, 23:37:45](https://news.ycombinator.com/item?id=43659876) - [Dev Tools Honeytrap: Why We Can't Stop Building Tools Nobody Buys](https://substack.com/home/post/p-161145826)
+* [2025-04-11, 23:28:50](https://news.ycombinator.com/item?id=43659814) - [The Ford Executive Who Kept Score of Colleagues' Verbal Flubs](https://www.wsj.com/lifestyle/ford-motor-mike-obrien-malaprops-6e560520)
 * [2025-04-11, 22:57:16](https://news.ycombinator.com/item?id=43659581) - [RFK Jr says Deep State 'is real,' called FDA employees 'sock puppet' of industry](https://www.politico.com/news/2025/04/11/rfk-jr-hhs-fda-deep-state-00286826)
 * [2025-04-11, 22:46:25](https://news.ycombinator.com/item?id=43659505) - [Firecracker Entropy for VM Clones](https://github.com/firecracker-microvm/firecracker/blob/main/docs/snapshotting/random-for-clones.md)
 * [2025-04-11, 22:27:16](https://news.ycombinator.com/item?id=43659370) - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
