@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 22:22:52](https://news.ycombinator.com/item?id=43686936) - [Tomb Engine](https://tombengine.com/)
 * [2025-04-14, 21:59:13](https://news.ycombinator.com/item?id=43686773) - [Intel sells Altera to private equity firm for $8.75B](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
 * [2025-04-14, 21:52:49](https://news.ycombinator.com/item?id=43686715) - [Show HN: ClipCapsule – A Clipboard Manager for Linux (Built with Go and Wails)](https://github.com/Victor-Evogor/clipcapsule)
 * [2025-04-14, 20:04:58](https://news.ycombinator.com/item?id=43685714) - [Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)
