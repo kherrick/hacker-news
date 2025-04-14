@@ -4,8 +4,9 @@
 * [2025-04-14, 04:45:21](https://news.ycombinator.com/item?id=43678123) - [Wiz's $32B GTM Playbook: Unpacking the Formula (Part I)](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
 * [2025-04-14, 03:51:55](https://news.ycombinator.com/item?id=43677909) - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
 * [2025-04-14, 02:42:27](https://news.ycombinator.com/item?id=43677610) - [Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own](https://kevintechnology.com/posts/leaf-widget/)
+* [2025-04-14, 01:48:15](https://news.ycombinator.com/item?id=43677365) - [Small Towns in Japan](https://japanstartshere.com/2020/04/06/small-towns-in-japan/)
 * [2025-04-14, 01:30:22](https://news.ycombinator.com/item?id=43677265) - [Calypso: LLMs as Dungeon Masters' Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
-* [2025-04-14, 01:25:57](https://news.ycombinator.com/item?id=43677232) - [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
+* [2025-04-14, 01:25:57](https://news.ycombinator.com/item?id=43677232) - [Why Everything in the Universe Turns More Complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
 * [2025-04-14, 01:11:19](https://news.ycombinator.com/item?id=43677165) - [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
 * [2025-04-14, 00:51:42](https://news.ycombinator.com/item?id=43677067) - [New Vulnerability in GitHub Copilot, Cursor: Hackers Can Weaponize Code Agents](https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents)
 * [2025-04-14, 00:03:51](https://news.ycombinator.com/item?id=43676837) - [NoProp: Training neural networks without back-propagation or forward-propagation](https://arxiv.org/abs/2503.24322)
@@ -25,11 +26,10 @@
 * [2025-04-12, 02:38:58](https://news.ycombinator.com/item?id=43660844) - [Emily Dickinson's Playful Letterlocking](https://thereader.mitpress.mit.edu/emily-dickinsons-playful-letterlocking/)
 * [2025-04-11, 21:40:43](https://news.ycombinator.com/item?id=43658923) - [Writing Cursor rules with a Cursor rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
 * [2025-04-11, 20:19:11](https://news.ycombinator.com/item?id=43658089) - [Googler... ex-Googler](https://nerdy.dev/ex-googler)
-* [2025-04-11, 12:34:31](https://news.ycombinator.com/item?id=43653078) - [GeoDeep's AI Detection on Maxar's Satellite Imagery](https://tech.marksblogg.com/geodeep-maxar-ai-detection.html)
+* [2025-04-11, 07:19:04](https://news.ycombinator.com/item?id=43651295) - [Organised gangs behind rise in QR 'quishing' scams](https://www.bbc.com/news/articles/cq6yznmv3gzo)
 * [2025-04-10, 23:31:48](https://news.ycombinator.com/item?id=43648922) - [Neutrinos' maximum possible mass shrinks further](https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron)
 * [2025-04-10, 16:07:26](https://news.ycombinator.com/item?id=43645315) - [PHP Core Security Audit Results](https://thephp.foundation/blog/2025/04/10/php-core-security-audit-results/)
 * [2025-04-10, 14:10:28](https://news.ycombinator.com/item?id=43643944) - [Docker Model Runner](https://www.docker.com/blog/introducing-docker-model-runner/)
-* [2025-04-09, 23:46:29](https://news.ycombinator.com/item?id=43639194) - [Super Rat: the record-setting rodent sniffing out landmines and saving lives](https://www.cnn.com/2025/04/07/asia/cambodia-rat-ronin-guinness-record-intl-hnk/index.html)
 
 ## [Archives](archives/index.md)
 
