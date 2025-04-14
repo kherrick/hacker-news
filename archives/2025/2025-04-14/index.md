@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
 * [2025-04-14, 13:12:07](https://news.ycombinator.com/item?id=43680900) - [Political beliefs affect patients' trust in doctors, study finds](https://news.uoregon.edu/political-beliefs-affect-patients-trust-doctors-study-finds)
+* [2025-04-14, 12:58:13](https://news.ycombinator.com/item?id=43680788) - [AWS announces 85% price reductions for S3 Express One Zone](https://aws.amazon.com/blogs/aws/up-to-85-price-reductions-for-amazon-s3-express-one-zone/)
 * [2025-04-14, 12:44:33](https://news.ycombinator.com/item?id=43680685) - [Kotlin, Swift, and Ruby losing popularity](https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html)
+* [2025-04-14, 12:29:09](https://news.ycombinator.com/item?id=43680575) - [I Fought the IRS for Over $12K and won](https://www.mikekasberg.com/blog/2025/04/13/i-fought-the-irs-for-over-12k-and-won.html)
 * [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
 * [2025-04-14, 11:11:29](https://news.ycombinator.com/item?id=43680039) - [She was chatting with friends in a Lyft. Then someone texted her what they said](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106)
 * [2025-04-14, 10:52:52](https://news.ycombinator.com/item?id=43679943) - [Zotero Fullscreen Mode by Script](https://github.com/windingwind/zotero-actions-tags/discussions/385)
