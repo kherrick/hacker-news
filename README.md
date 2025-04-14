@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-14, 05:44:07](https://news.ycombinator.com/item?id=43678401) - [Tariffs, Saving, and Investment](https://www.grumpy-economist.com/p/tariffs-saving-and-investment)
 * [2025-04-14, 05:22:44](https://news.ycombinator.com/item?id=43678312) - [Albert Einstein's theory of relativity in words of four letters or less](https://www.muppetlabs.com/~breadbox/txt/al.html)
 * [2025-04-14, 04:45:21](https://news.ycombinator.com/item?id=43678123) - [Wiz's $32B GTM Playbook](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
 * [2025-04-14, 03:52:56](https://news.ycombinator.com/item?id=43677917) - [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
@@ -17,7 +18,6 @@
 * [2025-04-13, 19:33:24](https://news.ycombinator.com/item?id=43675248) - [Show HN: I made a free tool that analyzes SEC filings and posts detailed reports](https://www.signalbloom.ai/news/)
 * [2025-04-13, 19:13:37](https://news.ycombinator.com/item?id=43675126) - [Open guide to equity compensation](https://github.com/jlevy/og-equity-compensation)
 * [2025-04-13, 18:33:05](https://news.ycombinator.com/item?id=43674825) - [Implementing DeepSeek R1's GRPO algorithm from scratch](https://github.com/policy-gradient/GRPO-Zero)
-* [2025-04-13, 16:02:28](https://news.ycombinator.com/item?id=43673761) - [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
 * [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2025-04-13, 13:15:57](https://news.ycombinator.com/item?id=43672593) - [The dark side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
 * [2025-04-12, 09:01:29](https://news.ycombinator.com/item?id=43662665) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
