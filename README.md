@@ -9,7 +9,7 @@
 * [2025-04-14, 15:45:45](https://news.ycombinator.com/item?id=43682615) - [Socketcluster: Highly scalable pub/sub and RPC SDK](https://socketcluster.io)
 * [2025-04-14, 15:41:03](https://news.ycombinator.com/item?id=43682547) - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
 * [2025-04-14, 15:40:40](https://news.ycombinator.com/item?id=43682541) - [Functional Programming Lessons Conclusion](https://jerf.org/iri/post/2025/fp_lessons_conclusion/)
-* [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
+* [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 14:55:57](https://news.ycombinator.com/item?id=43682006) - [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
 * [2025-04-14, 14:54:51](https://news.ycombinator.com/item?id=43681990) - [Monte Carlo Crash Course: Sampling](https://thenumb.at/Sampling/)
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
