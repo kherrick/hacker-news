@@ -13,6 +13,7 @@
 * [2025-04-11, 21:40:43](https://news.ycombinator.com/item?id=43658923) - [Writing Cursor rules with a Cursor rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
 * [2025-04-11, 21:26:36](https://news.ycombinator.com/item?id=43658794) - [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
 * [2025-04-11, 20:52:39](https://news.ycombinator.com/item?id=43658420) - [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
+* [2025-04-11, 20:52:32](https://news.ycombinator.com/item?id=43658417) - [W65C832 in an FPGA](https://www.mikekohn.net/micro/w65c832_fpga.php)
 * [2025-04-11, 20:23:21](https://news.ycombinator.com/item?id=43658119) - [The Mystery of ICE's Unidentifiable Arrests](https://www.newyorker.com/news/the-lede/the-mystery-of-ices-unidentifiable-arrests)
 * [2025-04-11, 20:19:39](https://news.ycombinator.com/item?id=43658093) - [You Might Think of Shrimp as Bugs of the Sea: But Bugs Are Shrimp of the Land](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
 * [2025-04-11, 20:19:11](https://news.ycombinator.com/item?id=43658089) - [Googler... ex-Googler](https://nerdy.dev/ex-googler)
