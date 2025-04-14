@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 19:35:04](https://news.ycombinator.com/item?id=43685304) - [Watermark segmentation](https://github.com/Diffusion-Dynamics/watermark-segmentation)
 * [2025-04-14, 19:14:17](https://news.ycombinator.com/item?id=43685018) - [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
 * [2025-04-14, 18:59:02](https://news.ycombinator.com/item?id=43684828) - [Will Peak Demand Roil Global Oil Markets?](https://libertystreeteconomics.newyorkfed.org/2025/04/will-peak-demand-roil-global-oil-markets/)
 * [2025-04-14, 18:40:53](https://news.ycombinator.com/item?id=43684638) - [Mathematical Reasoning and Proofs [pdf]](https://alistairsavage.ca/mat1362/notes/MAT1362-Mathematical_reasoning_and_proofs.pdf)

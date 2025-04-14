@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-14, 19:35:04](https://news.ycombinator.com/item?id=43685304) - [Watermark segmentation](https://github.com/Diffusion-Dynamics/watermark-segmentation)
 * [2025-04-14, 19:14:17](https://news.ycombinator.com/item?id=43685018) - [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 * [2025-04-14, 18:28:50](https://news.ycombinator.com/item?id=43684536) - [Harvard's response to federal government letter demanding changes](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/)
@@ -23,7 +24,6 @@
 * [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
 * [2025-04-14, 07:47:18](https://news.ycombinator.com/item?id=43679004) - [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
 * [2025-04-14, 07:43:12](https://news.ycombinator.com/item?id=43678988) - [The Whimsical Investor](https://fi-le.net/stonks/)
-* [2025-04-13, 23:53:35](https://news.ycombinator.com/item?id=43676771) - [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
 * [2025-04-12, 07:43:47](https://news.ycombinator.com/item?id=43662263) - [AI used for skin cancer checks at London hospital](https://www.bbc.com/news/articles/czd3ygd7mrno)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
 * [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh’s Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
