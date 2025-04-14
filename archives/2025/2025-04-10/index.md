@@ -50,6 +50,7 @@
 * [2025-04-10, 14:30:22](https://news.ycombinator.com/item?id=43644173) - [Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees](https://blog.cloudflare.com/r2-data-catalog-public-beta/)
 * [2025-04-10, 14:19:06](https://news.ycombinator.com/item?id=43644043) - [.localhost Domains](https://inclouds.space/localhost-domains)
 * [2025-04-10, 14:12:44](https://news.ycombinator.com/item?id=43643968) - [Arroyo (YC W23) has been acquired by Cloudflare](https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare)
+* [2025-04-10, 14:10:28](https://news.ycombinator.com/item?id=43643944) - [Docker Model Runner](https://www.docker.com/blog/introducing-docker-model-runner/)
 * [2025-04-10, 14:03:54](https://news.ycombinator.com/item?id=43643886) - [Usability Improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
 * [2025-04-10, 14:02:52](https://news.ycombinator.com/item?id=43643877) - [Flying Somewhere? You May Need That Real ID.](https://www.nytimes.com/2025/04/09/travel/real-id-deadline-what-to-know.html)
 * [2025-04-10, 13:50:15](https://news.ycombinator.com/item?id=43643761) - [Evidence of 22,000-year-old vehicles found at White Sands National Park](https://www.sfgate.com/national-parks/article/national-park-discovery-rewrites-human-history-20265734.php)

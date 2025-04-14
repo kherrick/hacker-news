@@ -52,6 +52,7 @@
 * [2025-04-12, 12:00:15](https://news.ycombinator.com/item?id=43663658) - [Instant (YC S22) Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
 * [2025-04-12, 10:41:56](https://news.ycombinator.com/item?id=43663219) - [What a digital coup looks like [video]](https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like)
 * [2025-04-12, 09:05:32](https://news.ycombinator.com/item?id=43662686) - [The Bitter Prediction](https://4zm.org/2025/04/05/bitter-prediction.html)
+* [2025-04-12, 09:01:29](https://news.ycombinator.com/item?id=43662665) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
 * [2025-04-12, 07:56:52](https://news.ycombinator.com/item?id=43662339) - [Fake images that fooled the world](https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world)
 * [2025-04-12, 07:02:35](https://news.ycombinator.com/item?id=43662035) - [U.S. cites its power to deport people for beliefs](https://apnews.com/article/mahmoud-khalil-columbia-university-trump-c60738368171289ae43177660def8d34)
 * [2025-04-12, 07:01:56](https://news.ycombinator.com/item?id=43662031) - [How I install personal versions of programs on Unix](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup)

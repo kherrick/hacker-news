@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 23:53:35](https://news.ycombinator.com/item?id=43676771) - [Everything Wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
 * [2025-04-13, 21:43:36](https://news.ycombinator.com/item?id=43676084) - [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
 * [2025-04-13, 21:42:27](https://news.ycombinator.com/item?id=43676075) - [What Is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)
 * [2025-04-13, 21:10:54](https://news.ycombinator.com/item?id=43675891) - [Revolt brews against RFK Jr. as experts pen rally cries in top medical journal](https://arstechnica.com/health/2025/04/revolt-brews-against-rfk-jr-as-experts-pen-rally-cries-in-top-medical-journal/)
 * [2025-04-13, 20:15:34](https://news.ycombinator.com/item?id=43675519) - [Regime Change in the West](https://www.lrb.co.uk/the-paper/v47/n06/perry-anderson/regime-change-in-the-west)
 * [2025-04-13, 19:43:11](https://news.ycombinator.com/item?id=43675310) - [An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
 * [2025-04-13, 19:43:03](https://news.ycombinator.com/item?id=43675309) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
+* [2025-04-13, 19:33:24](https://news.ycombinator.com/item?id=43675248) - [Show HN: I made a free tool that analyzes SEC filings and posts detailed reports](https://www.signalbloom.ai/news/)
 * [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
 * [2025-04-13, 19:13:37](https://news.ycombinator.com/item?id=43675126) - [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
 * [2025-04-13, 18:33:05](https://news.ycombinator.com/item?id=43674825) - [Implementing DeepSeek R1's GRPO algorithm from scratch](https://github.com/policy-gradient/GRPO-Zero)
