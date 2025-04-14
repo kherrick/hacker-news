@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-04-14, 15:40:40",
+      "https://news.ycombinator.com/item?id=43682541"
+    ],
+    [
+      "Functional Programming Lessons Conclusion",
+      "https://jerf.org/iri/post/2025/fp_lessons_conclusion/"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 15:03:10",
       "https://news.ycombinator.com/item?id=43682088"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-04-14, 01:25:57",
-      "https://news.ycombinator.com/item?id=43677232"
-    ],
-    [
-      "Why Everything in the Universe Turns More Complex",
-      "https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/"
-    ]
-  ],
-  [
-    [
       "2025-04-14, 00:51:42",
       "https://news.ycombinator.com/item?id=43677067"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-04-13, 18:33:05",
-      "https://news.ycombinator.com/item?id=43674825"
-    ],
-    [
-      "Implementing DeepSeek R1's GRPO algorithm from scratch",
-      "https://github.com/policy-gradient/GRPO-Zero"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 21:40:43",
       "https://news.ycombinator.com/item?id=43658923"
     ],
@@ -277,6 +267,16 @@
     [
       "Googler... ex-Googler",
       "https://nerdy.dev/ex-googler"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 02:04:52",
+      "https://news.ycombinator.com/item?id=43649781"
+    ],
+    [
+      "How Janet's PEG module works",
+      "https://bakpakin.com/writing/how-janets-peg-works.html"
     ]
   ],
   [
