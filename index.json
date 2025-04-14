@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-04-14, 02:42:27",
+      "https://news.ycombinator.com/item?id=43677610"
+    ],
+    [
+      "Show HN: Nissan's Leaf App Doesn't Have a Home Screen Widget So I Made My Own",
+      "https://kevintechnology.com/posts/leaf-widget/"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 01:30:22",
+      "https://news.ycombinator.com/item?id=43677265"
+    ],
+    [
+      "Calypso: LLMs as Dungeon Masters' Assistants [pdf]",
+      "https://andrewhead.info/assets/pdf/calypso.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 01:25:57",
+      "https://news.ycombinator.com/item?id=43677232"
+    ],
+    [
+      "Why-everything-in-the-universe-turns-more-complex",
+      "https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 01:12:44",
+      "https://news.ycombinator.com/item?id=43677174"
+    ],
+    [
+      "Local CI. Sign off on your own work",
+      "https://github.com/basecamp/gh-signoff"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 01:11:19",
+      "https://news.ycombinator.com/item?id=43677165"
+    ],
+    [
+      "I bought a Mac",
+      "https://loganius.org/2025/04/i-bought-a-mac/"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 00:47:12",
+      "https://news.ycombinator.com/item?id=43677046"
+    ],
+    [
+      "Cognitive abilities predict performance in everyday computer tasks",
+      "https://www.sciencedirect.com/science/article/pii/S107158192400137X"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 00:03:51",
       "https://news.ycombinator.com/item?id=43676837"
     ],
@@ -15,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43676771"
     ],
     [
-      "Everything Wrong with MCP",
+      "Everything wrong with MCP",
       "https://blog.sshh.io/p/everything-wrong-with-mcp"
     ]
   ],
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2025-04-13, 16:15:00",
-      "https://news.ycombinator.com/item?id=43673862"
-    ],
-    [
-      "A tricky Commodore PET repair: tracking down 6 1/2 bad chips",
-      "http://www.righto.com/2025/04/commodore-pet-repair.html"
-    ]
-  ],
-  [
-    [
       "2025-04-13, 16:02:28",
       "https://news.ycombinator.com/item?id=43673761"
     ],
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2025-04-13, 12:03:05",
-      "https://news.ycombinator.com/item?id=43672139"
-    ],
-    [
-      "A Reddit bot drove me insane",
-      "https://posthuman.blog/this-reddit-post-fried-my-brain/"
-    ]
-  ],
-  [
-    [
       "2025-04-13, 09:12:19",
       "https://news.ycombinator.com/item?id=43671308"
     ],
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2025-04-12, 12:29:48",
-      "https://news.ycombinator.com/item?id=43663817"
-    ],
-    [
-      "Peering into the Linux Kernel with Trace",
-      "https://alexdowad.github.io/peering-in-the-kernel-with-trace/"
-    ]
-  ],
-  [
-    [
       "2025-04-12, 09:01:29",
       "https://news.ycombinator.com/item?id=43662665"
     ],
@@ -191,12 +221,22 @@
   ],
   [
     [
-      "2025-04-12, 03:49:49",
-      "https://news.ycombinator.com/item?id=43661181"
+      "2025-04-12, 02:58:26",
+      "https://news.ycombinator.com/item?id=43660952"
     ],
     [
-      "Vertical Sharding Sucks",
-      "https://pgdog.dev/blog/vertical-sharding-sucks"
+      "Transformer Lab",
+      "https://transformerlab.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 01:49:36",
+      "https://news.ycombinator.com/item?id=43660617"
+    ],
+    [
+      "Splash-free urinals: Design through physics and differential equations",
+      "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false"
     ]
   ],
   [
@@ -205,7 +245,7 @@
       "https://news.ycombinator.com/item?id=43660520"
     ],
     [
-      "Philip K. Dick: Stanisław Lem Is a Communist Committee",
+      "Philip K. Dick: Stanisław Lem Is a Communist Committee (2015)",
       "https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee"
     ]
   ],
@@ -231,32 +271,12 @@
   ],
   [
     [
-      "2025-04-11, 16:06:55",
-      "https://news.ycombinator.com/item?id=43655409"
-    ],
-    [
-      "Unlocking Sudoku's Secrets",
-      "https://chalkdustmagazine.com/features/unlocking-sudokus-secrets/"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 12:34:31",
       "https://news.ycombinator.com/item?id=43653078"
     ],
     [
       "GeoDeep's AI Detection on Maxar's Satellite Imagery",
       "https://tech.marksblogg.com/geodeep-maxar-ai-detection.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 20:10:14",
-      "https://news.ycombinator.com/item?id=43647605"
-    ],
-    [
-      "Cargo-mutants:zombie: Inject bugs and see if your tests catch them",
-      "https://github.com/sourcefrog/cargo-mutants"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-04-10, 17:08:50",
-      "https://news.ycombinator.com/item?id=43645984"
-    ],
-    [
-      "Mistakes and cool things to do with arena allocators",
-      "https://zylinski.se/posts/dynamic-arrays-and-arenas/"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 14:10:28",
       "https://news.ycombinator.com/item?id=43643944"
     ],
     [
       "Docker Model Runner",
       "https://www.docker.com/blog/introducing-docker-model-runner/"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 01:01:43",
-      "https://news.ycombinator.com/item?id=43639617"
-    ],
-    [
-      "The Manicule: The little hand that's everywhere",
-      "https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/"
     ]
   ]
 ]
