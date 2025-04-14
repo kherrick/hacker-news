@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-14, 18:40:53](https://news.ycombinator.com/item?id=43684638) - [Mathematical Reasoning and Proofs [pdf]](https://alistairsavage.ca/mat1362/notes/MAT1362-Mathematical_reasoning_and_proofs.pdf)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 * [2025-04-14, 18:28:50](https://news.ycombinator.com/item?id=43684536) - [Harvard's response to federal government letter demanding changes](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/)
 * [2025-04-14, 17:59:11](https://news.ycombinator.com/item?id=43684225) - [KaiPod Learning (YC S21) Is Hiring](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
@@ -17,6 +16,7 @@
 * [2025-04-14, 14:55:57](https://news.ycombinator.com/item?id=43682006) - [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
 * [2025-04-14, 14:54:51](https://news.ycombinator.com/item?id=43681990) - [Monte Carlo Crash Course: Sampling](https://thenumb.at/Sampling/)
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
+* [2025-04-14, 13:18:19](https://news.ycombinator.com/item?id=43680957) - [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
 * [2025-04-14, 13:12:00](https://news.ycombinator.com/item?id=43680899) - [DolphinGemma: How Google AI is helping decode dolphin communication](https://blog.google/technology/ai/dolphingemma/)
 * [2025-04-14, 12:46:45](https://news.ycombinator.com/item?id=43680699) - [Meilisearch – search engine API bringing AI-powered hybrid search](https://github.com/meilisearch/meilisearch)
 * [2025-04-14, 12:16:03](https://news.ycombinator.com/item?id=43680477) - [Show HN: Single-Header Profiler for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md)

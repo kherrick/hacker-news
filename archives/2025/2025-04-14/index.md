@@ -31,6 +31,7 @@
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 * [2025-04-14, 13:50:55](https://news.ycombinator.com/item?id=43681267) - [Gleam v1.10.0 Released](https://gleam.run/news/global-rename-and-find-references/)
 * [2025-04-14, 13:43:59](https://news.ycombinator.com/item?id=43681195) - [One of the country's leading Alzheimer's projects is in jeopardy](https://www.nbcnews.com/health/health-news/one-countrys-leading-alzheimers-projects-jeopardy-rcna199788)
+* [2025-04-14, 13:18:19](https://news.ycombinator.com/item?id=43680957) - [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
 * [2025-04-14, 13:12:07](https://news.ycombinator.com/item?id=43680900) - [Political beliefs affect patients' trust in doctors, study finds](https://news.uoregon.edu/political-beliefs-affect-patients-trust-doctors-study-finds)
 * [2025-04-14, 13:12:00](https://news.ycombinator.com/item?id=43680899) - [DolphinGemma: How Google AI is helping decode dolphin communication](https://blog.google/technology/ai/dolphingemma/)
 * [2025-04-14, 12:58:13](https://news.ycombinator.com/item?id=43680788) - [AWS announces 85% price reductions for S3 Express One Zone](https://aws.amazon.com/blogs/aws/up-to-85-price-reductions-for-amazon-s3-express-one-zone/)
