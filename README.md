@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-14, 21:59:13](https://news.ycombinator.com/item?id=43686773) - [Intel sells 51% stake in Altera to private equity firm for $8.75B](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
+* [2025-04-14, 21:59:13](https://news.ycombinator.com/item?id=43686773) - [Intel sells 51% stake in Altera to private equity firm with a valuation $8.75B](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
 * [2025-04-14, 21:52:49](https://news.ycombinator.com/item?id=43686715) - [Show HN: ClipCapsule – A Clipboard Manager for Linux (Built with Go and Wails)](https://github.com/Victor-Evogor/clipcapsule)
 * [2025-04-14, 20:04:58](https://news.ycombinator.com/item?id=43685714) - [Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)
 * [2025-04-14, 19:35:04](https://news.ycombinator.com/item?id=43685304) - [Watermark segmentation](https://github.com/Diffusion-Dynamics/watermark-segmentation)
