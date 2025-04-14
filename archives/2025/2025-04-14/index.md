@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
 * [2025-04-14, 19:14:17](https://news.ycombinator.com/item?id=43685018) - [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
+* [2025-04-14, 18:59:02](https://news.ycombinator.com/item?id=43684828) - [Will Peak Demand Roil Global Oil Markets?](https://libertystreeteconomics.newyorkfed.org/2025/04/will-peak-demand-roil-global-oil-markets/)
 * [2025-04-14, 18:40:53](https://news.ycombinator.com/item?id=43684638) - [Mathematical Reasoning and Proofs [pdf]](https://alistairsavage.ca/mat1362/notes/MAT1362-Mathematical_reasoning_and_proofs.pdf)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 * [2025-04-14, 18:28:50](https://news.ycombinator.com/item?id=43684536) - [Harvard's response to federal government letter demanding changes](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/)
