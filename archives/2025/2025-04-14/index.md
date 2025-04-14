@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 16:28:53](https://news.ycombinator.com/item?id=43683071) - [OpenAI Is a Systemic Risk to the Tech Industry](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/)
 * [2025-04-14, 15:54:10](https://news.ycombinator.com/item?id=43682686) - [Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety](https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html)
+* [2025-04-14, 15:45:45](https://news.ycombinator.com/item?id=43682615) - [Socketcluster: Highly scalable pub/sub and RPC SDK](https://socketcluster.io)
 * [2025-04-14, 15:41:03](https://news.ycombinator.com/item?id=43682547) - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
 * [2025-04-14, 15:29:00](https://news.ycombinator.com/item?id=43682378) - [Target suffers 10th consecutive week of foot traffic decline since caving on DEI](https://www.retailbrew.com/stories/2025/04/11/target-suffers-10th-consecutive-week-of-foot-traffic-declines-sinking-stock-prices-since-caving-on-dei)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
@@ -24,6 +26,7 @@
 * [2025-04-14, 12:44:33](https://news.ycombinator.com/item?id=43680685) - [Kotlin, Swift, and Ruby losing popularity](https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html)
 * [2025-04-14, 12:29:09](https://news.ycombinator.com/item?id=43680575) - [I Fought the IRS for Over $12K and won](https://www.mikekasberg.com/blog/2025/04/13/i-fought-the-irs-for-over-12k-and-won.html)
 * [2025-04-14, 12:26:33](https://news.ycombinator.com/item?id=43680556) - [EU issues US-bound staff with burner phones over spying fears](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b)
+* [2025-04-14, 12:16:03](https://news.ycombinator.com/item?id=43680477) - [Show HN: Single-Header Profiler for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md)
 * [2025-04-14, 12:04:22](https://news.ycombinator.com/item?id=43680367) - [SSH Keys Don't Scale. SSH Certificates Do](https://infisical.com/blog/ssh-keys-dont-scale)
 * [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
 * [2025-04-14, 11:11:29](https://news.ycombinator.com/item?id=43680039) - [She was chatting with friends in a Lyft. Then someone texted her what they said](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106)
