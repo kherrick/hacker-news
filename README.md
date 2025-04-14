@@ -24,11 +24,11 @@
 * [2025-04-12, 09:01:29](https://news.ycombinator.com/item?id=43662665) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
 * [2025-04-12, 02:58:26](https://news.ycombinator.com/item?id=43660952) - [Transformer Lab](https://transformerlab.ai/)
 * [2025-04-12, 01:49:36](https://news.ycombinator.com/item?id=43660617) - [Splash-free urinals: Design through physics and differential equations](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
-* [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee (2015)](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
 * [2025-04-11, 21:40:43](https://news.ycombinator.com/item?id=43658923) - [Writing Cursor rules with a Cursor rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
 * [2025-04-11, 17:49:32](https://news.ycombinator.com/item?id=43656481) - [A balanced review of Math Academy](https://newsletter.ozwrites.com/p/a-balanced-review-of-math-academy)
 * [2025-04-11, 12:34:31](https://news.ycombinator.com/item?id=43653078) - [GeoDeep's AI Detection on Maxar's Satellite Imagery](https://tech.marksblogg.com/geodeep-maxar-ai-detection.html)
 * [2025-04-10, 19:28:05](https://news.ycombinator.com/item?id=43647275) - [Lotka–Volterra Equations](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
+* [2025-04-10, 16:07:26](https://news.ycombinator.com/item?id=43645315) - [PHP Core Security Audit Results](https://thephp.foundation/blog/2025/04/10/php-core-security-audit-results/)
 * [2025-04-10, 14:10:28](https://news.ycombinator.com/item?id=43643944) - [Docker Model Runner](https://www.docker.com/blog/introducing-docker-model-runner/)
 
 ## [Archives](archives/index.md)
