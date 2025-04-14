@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-14, 20:04:58",
+      "https://news.ycombinator.com/item?id=43685714"
+    ],
+    [
+      "Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy",
+      "https://machinelearning.apple.com/research/differential-privacy-aggregate-trends"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 19:35:04",
       "https://news.ycombinator.com/item?id=43685304"
     ],
@@ -197,16 +207,6 @@
     [
       "Meilisearch – search engine API bringing AI-powered hybrid search",
       "https://github.com/meilisearch/meilisearch"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 12:16:03",
-      "https://news.ycombinator.com/item?id=43680477"
-    ],
-    [
-      "Show HN: Single-Header Profiler for C++17",
-      "https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md"
     ]
   ],
   [
