@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-14, 19:14:17](https://news.ycombinator.com/item?id=43685018) - [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 * [2025-04-14, 18:28:50](https://news.ycombinator.com/item?id=43684536) - [Harvard's response to federal government letter demanding changes](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/)
 * [2025-04-14, 17:59:11](https://news.ycombinator.com/item?id=43684225) - [KaiPod Learning (YC S21) Is Hiring](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
@@ -9,7 +10,6 @@
 * [2025-04-14, 17:08:24](https://news.ycombinator.com/item?id=43683497) - [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
 * [2025-04-14, 15:54:10](https://news.ycombinator.com/item?id=43682686) - [Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety](https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html)
-* [2025-04-14, 15:45:45](https://news.ycombinator.com/item?id=43682615) - [Socketcluster: Highly scalable pub/sub and RPC SDK](https://socketcluster.io)
 * [2025-04-14, 15:41:03](https://news.ycombinator.com/item?id=43682547) - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
 * [2025-04-14, 15:40:40](https://news.ycombinator.com/item?id=43682541) - [Functional Programming Lessons Conclusion](https://jerf.org/iri/post/2025/fp_lessons_conclusion/)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
@@ -26,7 +26,7 @@
 * [2025-04-13, 23:53:35](https://news.ycombinator.com/item?id=43676771) - [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
 * [2025-04-13, 19:13:37](https://news.ycombinator.com/item?id=43675126) - [Open guide to equity compensation](https://github.com/jlevy/og-equity-compensation)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
-* [2025-04-11, 14:35:35](https://news.ycombinator.com/item?id=43654267) - [Deciphering the spectra of flowers to map landscape-scale blooming dynamics](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70127)
+* [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh’s Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
 * [2025-04-11, 02:04:52](https://news.ycombinator.com/item?id=43649781) - [How Janet's PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
 * [2025-04-10, 22:34:54](https://news.ycombinator.com/item?id=43648649) - [Cure ID App Lets Clinicians Report Novel Uses of Existing Drugs](https://www.fda.gov/drugs/science-and-research-drugs/cure-id-app-lets-clinicians-report-novel-uses-existing-drugs)
 * [2025-04-10, 17:34:40](https://news.ycombinator.com/item?id=43646227) - [Hassabis Says Google DeepMind to Support Anthropic's MCP for Gemini and SDK](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
