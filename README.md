@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-14, 17:08:24](https://news.ycombinator.com/item?id=43683497) - [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
 * [2025-04-14, 16:28:53](https://news.ycombinator.com/item?id=43683071) - [OpenAI Is a Systemic Risk to the Tech Industry](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/)
 * [2025-04-14, 15:54:10](https://news.ycombinator.com/item?id=43682686) - [Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety](https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html)
@@ -17,7 +18,6 @@
 * [2025-04-14, 12:16:03](https://news.ycombinator.com/item?id=43680477) - [Show HN: Single-Header Profiler for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md)
 * [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
 * [2025-04-14, 10:20:42](https://news.ycombinator.com/item?id=43679781) - [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
-* [2025-04-14, 10:06:33](https://news.ycombinator.com/item?id=43679707) - [Zig's new LinkedList API (it's time to learn fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 07:47:18](https://news.ycombinator.com/item?id=43679004) - [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
 * [2025-04-14, 03:52:56](https://news.ycombinator.com/item?id=43677917) - [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
 * [2025-04-14, 03:51:55](https://news.ycombinator.com/item?id=43677909) - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)

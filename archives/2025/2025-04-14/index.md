@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 17:08:24](https://news.ycombinator.com/item?id=43683497) - [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
 * [2025-04-14, 16:28:53](https://news.ycombinator.com/item?id=43683071) - [OpenAI Is a Systemic Risk to the Tech Industry](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/)
 * [2025-04-14, 15:54:10](https://news.ycombinator.com/item?id=43682686) - [Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety](https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html)
