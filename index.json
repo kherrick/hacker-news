@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-14, 16:28:53",
+      "https://news.ycombinator.com/item?id=43683071"
+    ],
+    [
+      "OpenAI Is a Systemic Risk to the Tech Industry",
+      "https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 15:54:10",
       "https://news.ycombinator.com/item?id=43682686"
     ],
     [
       "Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety",
       "https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 15:45:45",
+      "https://news.ycombinator.com/item?id=43682615"
+    ],
+    [
+      "Socketcluster: Highly scalable pub/sub and RPC SDK",
+      "https://socketcluster.io"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Meilisearch – search engine API bringing AI-powered hybrid search",
       "https://github.com/meilisearch/meilisearch"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 12:16:03",
+      "https://news.ycombinator.com/item?id=43680477"
+    ],
+    [
+      "Show HN: Single-Header Profiler for C++17",
+      "https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md"
     ]
   ],
   [
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2025-04-13, 15:37:05",
-      "https://news.ycombinator.com/item?id=43673551"
-    ],
-    [
-      "Why Fennel?",
-      "https://fennel-lang.org/rationale"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 02:58:26",
-      "https://news.ycombinator.com/item?id=43660952"
-    ],
-    [
-      "Transformer Lab",
-      "https://transformerlab.ai/"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 21:40:43",
       "https://news.ycombinator.com/item?id=43658923"
     ],
@@ -267,16 +277,6 @@
     [
       "Googler... ex-Googler",
       "https://nerdy.dev/ex-googler"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 23:31:48",
-      "https://news.ycombinator.com/item?id=43648922"
-    ],
-    [
-      "Neutrinos' maximum possible mass shrinks further",
-      "https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron"
     ]
   ],
   [
