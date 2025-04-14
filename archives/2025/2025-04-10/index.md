@@ -11,6 +11,7 @@
 * [2025-04-10, 23:08:06](https://news.ycombinator.com/item?id=43648806) - [What Your Sleep Tracker Gets Wrong About Sleep](https://www.affectablesleep.com/blog/what-your-sleep-tracker-gets-wrong-about-sleep)
 * [2025-04-10, 23:05:43](https://news.ycombinator.com/item?id=43648795) - [We quit our Big Tech jobs after hitting #1 on HN and Product Hunt](https://www.heyopenspot.com/)
 * [2025-04-10, 22:48:37](https://news.ycombinator.com/item?id=43648713) - [Show HN: Time Travel with Your SQL](https://news.ycombinator.com/item?id=43648713)
+* [2025-04-10, 22:34:54](https://news.ycombinator.com/item?id=43648649) - [Cure ID App Lets Clinicians Report Novel Uses of Existing Drugs](https://www.fda.gov/drugs/science-and-research-drugs/cure-id-app-lets-clinicians-report-novel-uses-existing-drugs)
 * [2025-04-10, 22:23:48](https://news.ycombinator.com/item?id=43648593) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-10, 22:17:43](https://news.ycombinator.com/item?id=43648559) - [The Russian Paradox: So Much Education, So Little Human Capital](https://theamericanenterprise.com/the-russian-paradox-so-much-education-so-little-human-capital/)
 * [2025-04-10, 22:12:47](https://news.ycombinator.com/item?id=43648536) - [Nominal Aphasia: Problems in Name Retrieval](https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval)

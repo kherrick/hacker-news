@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 14:23:22](https://news.ycombinator.com/item?id=43681679) - [Dead trees keep surprisingly large amounts of carbon out of atmosphere](https://phys.org/news/2025-03-dead-trees-large-amounts-carbon.html)
+* [2025-04-14, 14:21:36](https://news.ycombinator.com/item?id=43681658) - [Canadian math prodigy allegedly stole US$65M in crypto](https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/)
 * [2025-04-14, 13:52:59](https://news.ycombinator.com/item?id=43681289) - [A 42,600-ton Chinese ship will drill 7 miles (ca. 11 km) under the ocean floor](https://farmingdale-observer.com/2025/04/12/weighing-42600-tons-this-new-chinese-monster-was-built-for-one-purpose-to-break-the-world-record-for-the-deepest-drill-at-7-miles/)
+* [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 * [2025-04-14, 13:50:55](https://news.ycombinator.com/item?id=43681267) - [Gleam v1.10.0 Released](https://gleam.run/news/global-rename-and-find-references/)
 * [2025-04-14, 13:43:59](https://news.ycombinator.com/item?id=43681195) - [One of the country's leading Alzheimer's projects is in jeopardy](https://www.nbcnews.com/health/health-news/one-countrys-leading-alzheimers-projects-jeopardy-rcna199788)
 * [2025-04-14, 13:12:07](https://news.ycombinator.com/item?id=43680900) - [Political beliefs affect patients' trust in doctors, study finds](https://news.uoregon.edu/political-beliefs-affect-patients-trust-doctors-study-finds)
