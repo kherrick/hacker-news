@@ -61,5 +61,7 @@
 * [2025-04-12, 04:21:15](https://news.ycombinator.com/item?id=43661329) - [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
 * [2025-04-12, 03:58:50](https://news.ycombinator.com/item?id=43661235) - [Google Is Winning on Every AI Front](https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front)
 * [2025-04-12, 03:49:49](https://news.ycombinator.com/item?id=43661181) - [Vertical Sharding Sucks](https://pgdog.dev/blog/vertical-sharding-sucks)
+* [2025-04-12, 02:58:26](https://news.ycombinator.com/item?id=43660952) - [Transformer Lab](https://transformerlab.ai/)
 * [2025-04-12, 02:50:14](https://news.ycombinator.com/item?id=43660914) - [That groan you hear is users' reaction to Recall going back into Windows](https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/)
+* [2025-04-12, 01:49:36](https://news.ycombinator.com/item?id=43660617) - [Splash-free urinals: Design through physics and differential equations](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
 * [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
