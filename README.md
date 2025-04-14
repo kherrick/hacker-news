@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-14, 05:22:44](https://news.ycombinator.com/item?id=43678312) - [Albert Einstein's Theory of Relativity in Words of Four Letters or Less](https://www.muppetlabs.com/~breadbox/txt/al.html)
-* [2025-04-14, 04:45:21](https://news.ycombinator.com/item?id=43678123) - [Wiz's $32B GTM Playbook: Unpacking the Formula (Part I)](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
+* [2025-04-14, 05:22:44](https://news.ycombinator.com/item?id=43678312) - [Albert Einstein's theory of relativity in words of four letters or less](https://www.muppetlabs.com/~breadbox/txt/al.html)
+* [2025-04-14, 04:45:21](https://news.ycombinator.com/item?id=43678123) - [Wiz's $32B GTM Playbook](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
+* [2025-04-14, 03:52:56](https://news.ycombinator.com/item?id=43677917) - [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
 * [2025-04-14, 03:51:55](https://news.ycombinator.com/item?id=43677909) - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
 * [2025-04-14, 02:42:27](https://news.ycombinator.com/item?id=43677610) - [Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own](https://kevintechnology.com/posts/leaf-widget/)
-* [2025-04-14, 01:48:15](https://news.ycombinator.com/item?id=43677365) - [Small Towns in Japan](https://japanstartshere.com/2020/04/06/small-towns-in-japan/)
 * [2025-04-14, 01:30:22](https://news.ycombinator.com/item?id=43677265) - [Calypso: LLMs as Dungeon Masters' Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
 * [2025-04-14, 01:25:57](https://news.ycombinator.com/item?id=43677232) - [Why Everything in the Universe Turns More Complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
 * [2025-04-14, 01:11:19](https://news.ycombinator.com/item?id=43677165) - [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
@@ -17,7 +17,6 @@
 * [2025-04-13, 19:33:24](https://news.ycombinator.com/item?id=43675248) - [Show HN: I made a free tool that analyzes SEC filings and posts detailed reports](https://www.signalbloom.ai/news/)
 * [2025-04-13, 19:13:37](https://news.ycombinator.com/item?id=43675126) - [Open guide to equity compensation](https://github.com/jlevy/og-equity-compensation)
 * [2025-04-13, 18:33:05](https://news.ycombinator.com/item?id=43674825) - [Implementing DeepSeek R1's GRPO algorithm from scratch](https://github.com/policy-gradient/GRPO-Zero)
-* [2025-04-13, 17:08:49](https://news.ycombinator.com/item?id=43674233) - [Exwm: Emacs X Window Manager](https://github.com/emacs-exwm/exwm)
 * [2025-04-13, 16:02:28](https://news.ycombinator.com/item?id=43673761) - [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
 * [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2025-04-13, 13:15:57](https://news.ycombinator.com/item?id=43672593) - [The dark side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
@@ -30,6 +29,7 @@
 * [2025-04-10, 23:31:48](https://news.ycombinator.com/item?id=43648922) - [Neutrinos' maximum possible mass shrinks further](https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron)
 * [2025-04-10, 16:07:26](https://news.ycombinator.com/item?id=43645315) - [PHP Core Security Audit Results](https://thephp.foundation/blog/2025/04/10/php-core-security-audit-results/)
 * [2025-04-10, 14:10:28](https://news.ycombinator.com/item?id=43643944) - [Docker Model Runner](https://www.docker.com/blog/introducing-docker-model-runner/)
+* [2025-04-09, 23:46:29](https://news.ycombinator.com/item?id=43639194) - [Super Rat: the record-setting rodent sniffing out landmines and saving lives](https://www.cnn.com/2025/04/07/asia/cambodia-rat-ronin-guinness-record-intl-hnk/index.html)
 
 ## [Archives](archives/index.md)
 
