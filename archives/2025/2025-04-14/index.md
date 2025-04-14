@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
 * [2025-04-14, 11:11:29](https://news.ycombinator.com/item?id=43680039) - [She was chatting with friends in a Lyft. Then someone texted her what they said](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106)
+* [2025-04-14, 10:52:52](https://news.ycombinator.com/item?id=43679943) - [Zotero Fullscreen Mode by Script](https://github.com/windingwind/zotero-actions-tags/discussions/385)
+* [2025-04-14, 10:20:42](https://news.ycombinator.com/item?id=43679781) - [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
 * [2025-04-14, 10:06:33](https://news.ycombinator.com/item?id=43679707) - [Zig's new LinkedList API (it's time to learn fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 07:47:18](https://news.ycombinator.com/item?id=43679004) - [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
+* [2025-04-14, 07:27:27](https://news.ycombinator.com/item?id=43678914) - [Engineers Who Won't Commit](https://www.seangoedecke.com/taking-a-position/)
 * [2025-04-14, 05:44:07](https://news.ycombinator.com/item?id=43678401) - [Tariffs, Saving, and Investment](https://www.grumpy-economist.com/p/tariffs-saving-and-investment)
 * [2025-04-14, 05:22:44](https://news.ycombinator.com/item?id=43678312) - [Albert Einstein's Theory of Relativity in Words of Four Letters or Less](https://www.muppetlabs.com/~breadbox/txt/al.html)
 * [2025-04-14, 04:45:21](https://news.ycombinator.com/item?id=43678123) - [Wiz's $32B GTM Playbook: Unpacking the Formula (Part I)](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
