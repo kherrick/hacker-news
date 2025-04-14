@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-14, 05:22:44](https://news.ycombinator.com/item?id=43678312) - [Albert Einstein's Theory of Relativity in Words of Four Letters or Less](https://www.muppetlabs.com/~breadbox/txt/al.html)
 * [2025-04-14, 04:45:21](https://news.ycombinator.com/item?id=43678123) - [Wiz's $32B GTM Playbook: Unpacking the Formula (Part I)](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
 * [2025-04-14, 03:51:55](https://news.ycombinator.com/item?id=43677909) - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
 * [2025-04-14, 02:42:27](https://news.ycombinator.com/item?id=43677610) - [Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own](https://kevintechnology.com/posts/leaf-widget/)
@@ -19,7 +20,6 @@
 * [2025-04-13, 16:02:28](https://news.ycombinator.com/item?id=43673761) - [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
 * [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2025-04-13, 13:15:57](https://news.ycombinator.com/item?id=43672593) - [The dark side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
-* [2025-04-13, 01:30:23](https://news.ycombinator.com/item?id=43669301) - [Are Plants Farming Us?](https://inleo.io/@gentleshaid/are-plants-farming-us-a-thoughtful-look-at-natures-silent-masters-jx9)
 * [2025-04-12, 09:01:29](https://news.ycombinator.com/item?id=43662665) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
 * [2025-04-12, 02:58:26](https://news.ycombinator.com/item?id=43660952) - [Transformer Lab](https://transformerlab.ai/)
 * [2025-04-12, 02:38:58](https://news.ycombinator.com/item?id=43660844) - [Emily Dickinson's Playful Letterlocking](https://thereader.mitpress.mit.edu/emily-dickinsons-playful-letterlocking/)

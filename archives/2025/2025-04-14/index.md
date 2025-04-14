@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 05:22:44](https://news.ycombinator.com/item?id=43678312) - [Albert Einstein's Theory of Relativity in Words of Four Letters or Less](https://www.muppetlabs.com/~breadbox/txt/al.html)
 * [2025-04-14, 04:45:21](https://news.ycombinator.com/item?id=43678123) - [Wiz's $32B GTM Playbook: Unpacking the Formula (Part I)](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
 * [2025-04-14, 03:52:56](https://news.ycombinator.com/item?id=43677917) - [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
 * [2025-04-14, 03:51:55](https://news.ycombinator.com/item?id=43677909) - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
