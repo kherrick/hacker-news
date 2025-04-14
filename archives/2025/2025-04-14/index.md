@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 13:43:59](https://news.ycombinator.com/item?id=43681195) - [One of the country's leading Alzheimer's projects is in jeopardy](https://www.nbcnews.com/health/health-news/one-countrys-leading-alzheimers-projects-jeopardy-rcna199788)
 * [2025-04-14, 13:12:07](https://news.ycombinator.com/item?id=43680900) - [Political beliefs affect patients' trust in doctors, study finds](https://news.uoregon.edu/political-beliefs-affect-patients-trust-doctors-study-finds)
 * [2025-04-14, 12:58:13](https://news.ycombinator.com/item?id=43680788) - [AWS announces 85% price reductions for S3 Express One Zone](https://aws.amazon.com/blogs/aws/up-to-85-price-reductions-for-amazon-s3-express-one-zone/)
+* [2025-04-14, 12:46:45](https://news.ycombinator.com/item?id=43680699) - [Meilisearch – search engine API bringing AI-powered hybrid search](https://github.com/meilisearch/meilisearch)
 * [2025-04-14, 12:44:33](https://news.ycombinator.com/item?id=43680685) - [Kotlin, Swift, and Ruby losing popularity](https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html)
 * [2025-04-14, 12:29:09](https://news.ycombinator.com/item?id=43680575) - [I Fought the IRS for Over $12K and won](https://www.mikekasberg.com/blog/2025/04/13/i-fought-the-irs-for-over-12k-and-won.html)
 * [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
