@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-14, 15:29:00](https://news.ycombinator.com/item?id=43682378) - [Target suffers 10th consecutive week of foot traffic decline since caving on DEI](https://www.retailbrew.com/stories/2025/04/11/target-suffers-10th-consecutive-week-of-foot-traffic-declines-sinking-stock-prices-since-caving-on-dei)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 14:49:42](https://news.ycombinator.com/item?id=43681936) - [How to Bike Across the Country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
 * [2025-04-14, 14:23:22](https://news.ycombinator.com/item?id=43681679) - [Dead trees keep surprisingly large amounts of carbon out of atmosphere](https://phys.org/news/2025-03-dead-trees-large-amounts-carbon.html)
@@ -29,6 +28,7 @@
 * [2025-04-11, 20:19:11](https://news.ycombinator.com/item?id=43658089) - [Googler... ex-Googler](https://nerdy.dev/ex-googler)
 * [2025-04-10, 23:31:48](https://news.ycombinator.com/item?id=43648922) - [Neutrinos' maximum possible mass shrinks further](https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron)
 * [2025-04-10, 22:34:54](https://news.ycombinator.com/item?id=43648649) - [Cure ID App Lets Clinicians Report Novel Uses of Existing Drugs](https://www.fda.gov/drugs/science-and-research-drugs/cure-id-app-lets-clinicians-report-novel-uses-existing-drugs)
+* [2025-04-10, 17:34:40](https://news.ycombinator.com/item?id=43646227) - [Hassabis Says Google DeepMind to Support Anthropic's MCP for Gemini and SDK](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
 * [2025-04-10, 14:10:28](https://news.ycombinator.com/item?id=43643944) - [Docker Model Runner](https://www.docker.com/blog/introducing-docker-model-runner/)
 
 ## [Archives](archives/index.md)

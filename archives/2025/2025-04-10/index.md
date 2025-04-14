@@ -35,6 +35,7 @@
 * [2025-04-10, 17:58:02](https://news.ycombinator.com/item?id=43646466) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
 * [2025-04-10, 17:53:30](https://news.ycombinator.com/item?id=43646430) - [Solid (formerly Wise) files for bankruptcy](https://techcrunch.com/2025/04/09/solid-which-claimed-to-be-the-aws-of-fintech-files-for-bankruptcy-after-raising-nearly-81m-in-funding/)
 * [2025-04-10, 17:43:28](https://news.ycombinator.com/item?id=43646323) - [Searchception](https://blog.mojeek.com/2025/04/searchception.html)
+* [2025-04-10, 17:34:40](https://news.ycombinator.com/item?id=43646227) - [Hassabis Says Google DeepMind to Support Anthropic's MCP for Gemini and SDK](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
 * [2025-04-10, 17:34:19](https://news.ycombinator.com/item?id=43646219) - [Big Book of R](https://www.bigbookofr.com/)
 * [2025-04-10, 17:21:03](https://news.ycombinator.com/item?id=43646095) - [Garfield Minus Garfield](https://garfieldminusgarfield.net)
 * [2025-04-10, 17:08:50](https://news.ycombinator.com/item?id=43645984) - [Mistakes and cool things to do with arena allocators](https://zylinski.se/posts/dynamic-arrays-and-arenas/)
