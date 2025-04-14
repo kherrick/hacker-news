@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-14, 03:52:56](https://news.ycombinator.com/item?id=43677917) - [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
 * [2025-04-14, 03:51:55](https://news.ycombinator.com/item?id=43677909) - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
 * [2025-04-14, 02:42:27](https://news.ycombinator.com/item?id=43677610) - [Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own](https://kevintechnology.com/posts/leaf-widget/)
 * [2025-04-14, 01:48:15](https://news.ycombinator.com/item?id=43677365) - [Small Towns in Japan](https://japanstartshere.com/2020/04/06/small-towns-in-japan/)
@@ -8,7 +9,6 @@
 * [2025-04-14, 01:12:44](https://news.ycombinator.com/item?id=43677174) - [Local CI. Sign off on your own work](https://github.com/basecamp/gh-signoff)
 * [2025-04-14, 01:11:19](https://news.ycombinator.com/item?id=43677165) - [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
 * [2025-04-14, 00:51:42](https://news.ycombinator.com/item?id=43677067) - [New Vulnerability in GitHub Copilot, Cursor: Hackers Can Weaponize Code Agents](https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents)
-* [2025-04-14, 00:47:12](https://news.ycombinator.com/item?id=43677046) - [Cognitive abilities predict performance in everyday computer tasks](https://www.sciencedirect.com/science/article/pii/S107158192400137X)
 * [2025-04-14, 00:03:51](https://news.ycombinator.com/item?id=43676837) - [NoProp: Training neural networks without back-propagation or forward-propagation](https://arxiv.org/abs/2503.24322)
 * [2025-04-13, 23:53:35](https://news.ycombinator.com/item?id=43676771) - [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
 * [2025-04-13, 21:43:36](https://news.ycombinator.com/item?id=43676084) - [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
@@ -17,7 +17,6 @@
 * [2025-04-13, 19:33:24](https://news.ycombinator.com/item?id=43675248) - [Show HN: I made a free tool that analyzes SEC filings and posts detailed reports](https://www.signalbloom.ai/news/)
 * [2025-04-13, 19:13:37](https://news.ycombinator.com/item?id=43675126) - [Open guide to equity compensation](https://github.com/jlevy/og-equity-compensation)
 * [2025-04-13, 18:33:05](https://news.ycombinator.com/item?id=43674825) - [Implementing DeepSeek R1's GRPO algorithm from scratch](https://github.com/policy-gradient/GRPO-Zero)
-* [2025-04-13, 17:08:49](https://news.ycombinator.com/item?id=43674233) - [Exwm: Emacs X Window Manager](https://github.com/emacs-exwm/exwm)
 * [2025-04-13, 16:02:28](https://news.ycombinator.com/item?id=43673761) - [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
 * [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2025-04-13, 13:15:57](https://news.ycombinator.com/item?id=43672593) - [The dark side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
@@ -25,11 +24,12 @@
 * [2025-04-12, 09:01:29](https://news.ycombinator.com/item?id=43662665) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
 * [2025-04-12, 02:58:26](https://news.ycombinator.com/item?id=43660952) - [Transformer Lab](https://transformerlab.ai/)
 * [2025-04-11, 21:40:43](https://news.ycombinator.com/item?id=43658923) - [Writing Cursor rules with a Cursor rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
+* [2025-04-11, 20:19:11](https://news.ycombinator.com/item?id=43658089) - [Googler... ex-Googler](https://nerdy.dev/ex-googler)
 * [2025-04-11, 17:49:32](https://news.ycombinator.com/item?id=43656481) - [A balanced review of Math Academy](https://newsletter.ozwrites.com/p/a-balanced-review-of-math-academy)
 * [2025-04-11, 12:34:31](https://news.ycombinator.com/item?id=43653078) - [GeoDeep's AI Detection on Maxar's Satellite Imagery](https://tech.marksblogg.com/geodeep-maxar-ai-detection.html)
-* [2025-04-10, 19:28:05](https://news.ycombinator.com/item?id=43647275) - [Lotka–Volterra Equations](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
 * [2025-04-10, 16:07:26](https://news.ycombinator.com/item?id=43645315) - [PHP Core Security Audit Results](https://thephp.foundation/blog/2025/04/10/php-core-security-audit-results/)
 * [2025-04-10, 14:10:28](https://news.ycombinator.com/item?id=43643944) - [Docker Model Runner](https://www.docker.com/blog/introducing-docker-model-runner/)
+* [2025-04-09, 23:46:29](https://news.ycombinator.com/item?id=43639194) - [Super Rat: the record-setting rodent sniffing out landmines and saving lives](https://www.cnn.com/2025/04/07/asia/cambodia-rat-ronin-guinness-record-intl-hnk/index.html)
 
 ## [Archives](archives/index.md)
 
