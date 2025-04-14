@@ -8,6 +8,7 @@
 * [2025-04-14, 15:54:10](https://news.ycombinator.com/item?id=43682686) - [Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety](https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html)
 * [2025-04-14, 15:45:45](https://news.ycombinator.com/item?id=43682615) - [Socketcluster: Highly scalable pub/sub and RPC SDK](https://socketcluster.io)
 * [2025-04-14, 15:41:03](https://news.ycombinator.com/item?id=43682547) - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
+* [2025-04-14, 15:40:40](https://news.ycombinator.com/item?id=43682541) - [Functional Programming Lessons Conclusion](https://jerf.org/iri/post/2025/fp_lessons_conclusion/)
 * [2025-04-14, 15:29:00](https://news.ycombinator.com/item?id=43682378) - [Target suffers 10th consecutive week of foot traffic decline since caving on DEI](https://www.retailbrew.com/stories/2025/04/11/target-suffers-10th-consecutive-week-of-foot-traffic-declines-sinking-stock-prices-since-caving-on-dei)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 14:55:57](https://news.ycombinator.com/item?id=43682006) - [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
