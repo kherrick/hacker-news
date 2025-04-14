@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-14, 17:08:24",
+      "https://news.ycombinator.com/item?id=43683497"
+    ],
+    [
+      "SSD1306 display drivers and font rendering",
+      "https://subalpinecircuits.com/ssd1306-and-font-rendering/"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 17:01:45",
       "https://news.ycombinator.com/item?id=43683410"
     ],
@@ -167,16 +177,6 @@
     [
       "Hacktical C: practical hacker's guide to the C programming language",
       "https://github.com/codr7/hacktical-c"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 10:06:33",
-      "https://news.ycombinator.com/item?id=43679707"
-    ],
-    [
-      "Zig's new LinkedList API (it's time to learn fieldParentPtr)",
-      "https://www.openmymind.net/Zigs-New-LinkedList-API/"
     ]
   ],
   [
