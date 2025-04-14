@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 14:33:05](https://news.ycombinator.com/item?id=43681758) - [Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg's voices](https://techcrunch.com/2025/04/14/silicon-valley-crosswalk-buttons-hacked-to-imitate-musk-zuckerberg-voices/)
 * [2025-04-14, 14:23:22](https://news.ycombinator.com/item?id=43681679) - [Dead trees keep surprisingly large amounts of carbon out of atmosphere](https://phys.org/news/2025-03-dead-trees-large-amounts-carbon.html)
 * [2025-04-14, 14:21:36](https://news.ycombinator.com/item?id=43681658) - [Canadian math prodigy allegedly stole US$65M in crypto](https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/)
 * [2025-04-14, 13:52:59](https://news.ycombinator.com/item?id=43681289) - [A 42,600-ton Chinese ship will drill 7 miles (ca. 11 km) under the ocean floor](https://farmingdale-observer.com/2025/04/12/weighing-42600-tons-this-new-chinese-monster-was-built-for-one-purpose-to-break-the-world-record-for-the-deepest-drill-at-7-miles/)
