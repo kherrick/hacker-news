@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 21:59:13](https://news.ycombinator.com/item?id=43686773) - [Intel sells Altera to private equity firm for $8.75B](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
 * [2025-04-14, 20:04:58](https://news.ycombinator.com/item?id=43685714) - [Understanding Aggregate Trends for Apple Intelligence Using Differential Privacy](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)
 * [2025-04-14, 19:35:04](https://news.ycombinator.com/item?id=43685304) - [Watermark segmentation](https://github.com/Diffusion-Dynamics/watermark-segmentation)
 * [2025-04-14, 19:14:17](https://news.ycombinator.com/item?id=43685018) - [Shame and Revolution: Vietnam’s potent and storied anticolonialism](https://aeon.co/essays/how-vietnam-earned-its-world-renowned-anticolonial-standing)
