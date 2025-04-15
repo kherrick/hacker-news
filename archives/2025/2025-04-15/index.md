@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 18:35:05](https://news.ycombinator.com/item?id=43696756) - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
+* [2025-04-15, 18:17:06](https://news.ycombinator.com/item?id=43696544) - [METS, the Middle English Texts Series](https://metseditions.org)
 * [2025-04-15, 18:00:17](https://news.ycombinator.com/item?id=43696334) - ['End of an era': The last RadioShack in Maryland is closing its doors](https://marylandmatters.org/2025/04/14/end-of-an-era-the-last-radioshack-in-maryland-is-closing-its-doors/)
 * [2025-04-15, 17:38:01](https://news.ycombinator.com/item?id=43696050) - [Whistleblower says DOGE may have caused 'significant cyber breach'](https://www.reuters.com/technology/cybersecurity/whistleblower-org-says-doge-may-have-caused-significant-cyber-breach-us-labor-2025-04-15/)
 * [2025-04-15, 17:35:10](https://news.ycombinator.com/item?id=43696010) - [I speak at Harvard as it faces its biggest crisis since 1636](https://scottaaronson.blog/?p=8805)
@@ -16,6 +18,7 @@
 * [2025-04-15, 16:37:47](https://news.ycombinator.com/item?id=43695285) - [Fun ways of deciding authorship order](https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/)
 * [2025-04-15, 16:21:51](https://news.ycombinator.com/item?id=43695069) - [Show HN: I made a tool to send a letter now people use it to just print](https://www.pieterpost.com/)
 * [2025-04-15, 15:56:18](https://news.ycombinator.com/item?id=43694681) - [JSX over the Wire](https://overreacted.io/jsx-over-the-wire/)
+* [2025-04-15, 15:48:59](https://news.ycombinator.com/item?id=43694549) - [Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
 * [2025-04-15, 15:48:41](https://news.ycombinator.com/item?id=43694546) - [Cohere Launches Embed 4](https://cohere.com/blog/embed-4)
 * [2025-04-15, 15:42:04](https://news.ycombinator.com/item?id=43694431) - [Isolated Execution Environment for eBPF](https://ebpf.foundation/research-update-isolated-execution-environment-for-ebpf/)
 * [2025-04-15, 15:34:47](https://news.ycombinator.com/item?id=43694310) - [Notion Mail Is Out](https://www.notion.com/product/mail)
