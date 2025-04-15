@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43696756"
     ],
     [
-      "What the Hell Is a Target Triple?",
+      "What the hell is a target triple?",
       "https://mcyoung.xyz/2025/04/14/target-triples/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=43696334"
     ],
     [
-      "'End of an era': The last RadioShack in Maryland is closing its doors",
+      "The last RadioShack in Maryland is closing",
       "https://marylandmatters.org/2025/04/14/end-of-an-era-the-last-radioshack-in-maryland-is-closing-its-doors/"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "The case of the UI thread that hung in a kernel call",
       "https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 17:12:22",
+      "https://news.ycombinator.com/item?id=43695701"
+    ],
+    [
+      "It's easier than ever to de-censor videos",
+      "https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-04-15, 15:42:04",
-      "https://news.ycombinator.com/item?id=43694431"
-    ],
-    [
-      "Isolated Execution Environment for eBPF",
-      "https://ebpf.foundation/research-update-isolated-execution-environment-for-ebpf/"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 15:26:13",
       "https://news.ycombinator.com/item?id=43694157"
     ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=43693402"
     ],
     [
-      "How to Win an Argument with a Toddler",
+      "How to win an argument with a toddler",
       "https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=43693326"
     ],
     [
-      "Hacking the Postgres Wire Protocol",
+      "Hacking the Postgres wire protocol",
       "https://pgdog.dev/blog/hacking-postgres-wire-protocol"
     ]
   ],
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2025-04-15, 07:00:37",
-      "https://news.ycombinator.com/item?id=43689801"
-    ],
-    [
-      "Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)",
-      "https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 03:12:55",
       "https://news.ycombinator.com/item?id=43688658"
     ],
     [
       "Hacking a Smart Home Device (2024)",
       "https://jmswrnr.com/blog/hacking-a-smart-home-device"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 23:43:56",
+      "https://news.ycombinator.com/item?id=43687495"
+    ],
+    [
+      "Temu pulls its U.S. Google Shopping ads",
+      "https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-04-11, 22:19:26",
-      "https://news.ycombinator.com/item?id=43659302"
+      "2025-04-11, 13:06:17",
+      "https://news.ycombinator.com/item?id=43653322"
     ],
     [
-      "A Woman Who Turned a Hospital into a Crime Scene",
-      "https://thartribune.com/the-woman-who-turned-a-hospital-into-a-crime-scene-gloria-ramirez/"
+      "Behind the 6-digit code: Building HOTP and TOTP from scratch",
+      "https://blog.dogac.dev/how-do-one-time-passwords-work/"
     ]
   ]
 ]
