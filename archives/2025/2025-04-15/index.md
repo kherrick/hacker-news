@@ -46,6 +46,7 @@
 * [2025-04-15, 12:38:54](https://news.ycombinator.com/item?id=43691856) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 11:31:26](https://news.ycombinator.com/item?id=43691339) - [GitHub suffers a cascading supply chain attack compromising CI/CD secrets](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html)
 * [2025-04-15, 11:30:56](https://news.ycombinator.com/item?id=43691334) - [4chan hacked. Hacker reopens /QA/ and leaks all admins emails](https://old.reddit.com/r/4chan/comments/1jzkjlg/4chan_hacked_hacker_reopens_qa_and_leaks_all/)
+* [2025-04-15, 11:30:56](https://news.ycombinator.com/item?id=43691334) - [4chan Sharty Hack And Janitor Email Leak](https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak)
 * [2025-04-15, 11:17:02](https://news.ycombinator.com/item?id=43691268) - [JEP 506: Scoped Values final for Java 25](https://openjdk.org/jeps/506)
 * [2025-04-15, 10:55:41](https://news.ycombinator.com/item?id=43691142) - [Whistleblower details how DOGE may have taken sensitive NLRB data](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security)
 * [2025-04-15, 10:17:17](https://news.ycombinator.com/item?id=43690955) - [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
