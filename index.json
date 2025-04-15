@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-15, 22:50:37",
+      "https://news.ycombinator.com/item?id=43699371"
+    ],
+    [
+      "OpenAI announces nonprofit commission advisors",
+      "https://openai.com/index/nonprofit-commission-advisors/"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 22:26:35",
       "https://news.ycombinator.com/item?id=43699188"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2025-04-15, 16:37:47",
-      "https://news.ycombinator.com/item?id=43695285"
+      "2025-04-15, 16:47:20",
+      "https://news.ycombinator.com/item?id=43695401"
     ],
     [
-      "Fun ways of deciding authorship order",
-      "https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/"
+      "Benn Jordan's AI poison pill and the weird world of adversarial noise",
+      "https://cdm.link/benn-jordan-ai-poison-pill/"
     ]
   ],
   [
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2025-04-15, 15:48:59",
-      "https://news.ycombinator.com/item?id=43694549"
+      "2025-04-15, 15:56:18",
+      "https://news.ycombinator.com/item?id=43694681"
     ],
     [
-      "Modern CMake",
-      "https://cliutils.gitlab.io/modern-cmake/README.html"
+      "JSX over the Wire",
+      "https://overreacted.io/jsx-over-the-wire/"
     ]
   ],
   [
@@ -137,26 +147,6 @@
     [
       "Cohere Launches Embed 4",
       "https://cohere.com/blog/embed-4"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 15:26:13",
-      "https://news.ycombinator.com/item?id=43694157"
-    ],
-    [
-      "Show HN: Resonate – real-time high temporal resolution spectral analysis",
-      "https://alexandrefrancois.org/Resonate/"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 14:38:58",
-      "https://news.ycombinator.com/item?id=43693406"
-    ],
-    [
-      "MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios",
-      "https://github.com/ripplebiz/MeshCore"
     ]
   ],
   [
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2025-04-14, 07:43:12",
-      "https://news.ycombinator.com/item?id=43678988"
-    ],
-    [
-      "The Whimsical Investor",
-      "https://fi-le.net/stonks/"
-    ]
-  ],
-  [
-    [
       "2025-04-12, 10:54:53",
       "https://news.ycombinator.com/item?id=43663290"
     ],
     [
       "A flowing WebGL gradient, deconstructed",
       "https://alexharri.com/blog/webgl-gradients"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 07:56:52",
+      "https://news.ycombinator.com/item?id=43662339"
+    ],
+    [
+      "Fake images that fooled the world",
+      "https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Amazfit activity tracker and watch face asset generation",
       "https://blog.gingerbeardman.com/2025/04/11/amazfit-activity-tracker-and-watch-face-asset-generation/"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 12:41:36",
+      "https://news.ycombinator.com/item?id=43653129"
+    ],
+    [
+      "Unusual Shop Tips [video]",
+      "https://www.youtube.com/watch?v=OuZjjActWmQ"
     ]
   ]
 ]
