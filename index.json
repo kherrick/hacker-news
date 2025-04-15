@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-04-15, 02:27:10",
+      "https://news.ycombinator.com/item?id=43688460"
+    ],
+    [
+      "Some features that every JavaScript developer should know in 2025",
+      "https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 02:26:19",
+      "https://news.ycombinator.com/item?id=43688456"
+    ],
+    [
+      "USL – A Universal Scripting Language That Outputs to 111 Programming Languages",
+      "https://townsendatomics.gumroad.com/l/usl"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 02:15:09",
+      "https://news.ycombinator.com/item?id=43688395"
+    ],
+    [
+      "Overuse of CT scans could cause 100k extra cancers in US",
+      "https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 00:26:53",
+      "https://news.ycombinator.com/item?id=43687767"
+    ],
+    [
+      "The Problem with \"Vibe Coding\"",
+      "https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 23:33:38",
       "https://news.ycombinator.com/item?id=43687431"
     ],
@@ -57,16 +97,6 @@
     [
       "What Is Entropy?",
       "https://jasonfantl.com/posts/What-is-Entropy/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 18:28:50",
-      "https://news.ycombinator.com/item?id=43684536"
-    ],
-    [
-      "Harvard's response to federal government letter demanding changes",
-      "https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/"
     ]
   ],
   [
@@ -161,12 +191,12 @@
   ],
   [
     [
-      "2025-04-14, 14:54:51",
-      "https://news.ycombinator.com/item?id=43681990"
+      "2025-04-14, 14:49:42",
+      "https://news.ycombinator.com/item?id=43681936"
     ],
     [
-      "Monte Carlo Crash Course: Sampling",
-      "https://thenumb.at/Sampling/"
+      "How to Bike Across the Country",
+      "https://www.brooks.team/posts/how-to-bike-across-the-country/"
     ]
   ],
   [
@@ -197,26 +227,6 @@
     [
       "DolphinGemma: How Google AI is helping decode dolphin communication",
       "https://blog.google/technology/ai/dolphingemma/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 12:46:45",
-      "https://news.ycombinator.com/item?id=43680699"
-    ],
-    [
-      "Meilisearch – search engine API bringing AI-powered hybrid search",
-      "https://github.com/meilisearch/meilisearch"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 07:43:12",
-      "https://news.ycombinator.com/item?id=43678988"
-    ],
-    [
-      "The Whimsical Investor",
-      "https://fi-le.net/stonks/"
     ]
   ],
   [
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2025-04-11, 02:04:52",
-      "https://news.ycombinator.com/item?id=43649781"
-    ],
-    [
-      "How Janet's PEG module works",
-      "https://bakpakin.com/writing/how-janets-peg-works.html"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 17:34:40",
       "https://news.ycombinator.com/item?id=43646227"
     ],
     [
-      "Hassabis Says Google DeepMind to Support Anthropic's MCP for Gemini and SDK",
+      "Google to embrace MCP",
       "https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/"
     ]
   ]
