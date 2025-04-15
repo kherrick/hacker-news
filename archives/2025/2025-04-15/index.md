@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 15:09:22](https://news.ycombinator.com/item?id=43693900) - [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
 * [2025-04-15, 14:47:10](https://news.ycombinator.com/item?id=43693531) - [ICE Agents Realize They Arrested Wrong Teen, Say 'Take Him Anyway'](https://www.newsweek.com/merwil-gutierrez-ice-wrong-teen-el-salvador-2059783)
+* [2025-04-15, 14:38:58](https://news.ycombinator.com/item?id=43693406) - [MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios](https://github.com/ripplebiz/MeshCore)
 * [2025-04-15, 14:38:25](https://news.ycombinator.com/item?id=43693402) - [How to Win an Argument with a Toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)
 * [2025-04-15, 14:33:10](https://news.ycombinator.com/item?id=43693326) - [Hacking the Postgres Wire Protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
 * [2025-04-15, 14:13:19](https://news.ycombinator.com/item?id=43692998) - [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
@@ -12,7 +14,11 @@
 * [2025-04-15, 13:50:49](https://news.ycombinator.com/item?id=43692677) - [America Underestimates the Difficulty of Bringing Manufacturing Back](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back)
 * [2025-04-15, 13:34:21](https://news.ycombinator.com/item?id=43692476) - [Launch HN: Mrge.io (YC X25) – Cursor for code review](https://news.ycombinator.com/item?id=43692476)
 * [2025-04-15, 13:26:59](https://news.ycombinator.com/item?id=43692390) - [CT scans could cause 5% of cancers, study finds; experts note uncertainty](https://arstechnica.com/health/2025/04/ct-scans-could-cause-5-of-cancers-study-finds-experts-note-uncertainty/)
+* [2025-04-15, 13:24:39](https://news.ycombinator.com/item?id=43692360) - [How the U.S. Became a Science Superpower](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/)
 * [2025-04-15, 13:10:41](https://news.ycombinator.com/item?id=43692165) - [Google Search to redirect its country level TLDs to Google.com](https://searchengineland.com/google-search-to-redirect-its-country-level-tlds-to-google-com-454289)
+* [2025-04-15, 13:04:26](https://news.ycombinator.com/item?id=43692089) - [Chroma, Ubisoft's internal tool used to simulate color-blindness, open sourced](https://github.com/ubisoft/Chroma)
+* [2025-04-15, 12:57:34](https://news.ycombinator.com/item?id=43692009) - [LightlyTrain: Better Vision Models, Faster – No Labels Needed](https://github.com/lightly-ai/lightly-train)
+* [2025-04-15, 12:42:54](https://news.ycombinator.com/item?id=43691891) - [WEIRD – a way to be on the web](https://a.weird.one)
 * [2025-04-15, 12:38:54](https://news.ycombinator.com/item?id=43691856) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 11:31:26](https://news.ycombinator.com/item?id=43691339) - [GitHub suffers a cascading supply chain attack compromising CI/CD secrets](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html)
 * [2025-04-15, 11:30:56](https://news.ycombinator.com/item?id=43691334) - [4chan hacked. Hacker reopens /QA/ and leaks all admins emails](https://old.reddit.com/r/4chan/comments/1jzkjlg/4chan_hacked_hacker_reopens_qa_and_leaks_all/)
