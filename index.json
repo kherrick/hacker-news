@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-15, 17:13:31",
+      "https://news.ycombinator.com/item?id=43695723"
+    ],
+    [
+      "The case of the UI thread that hung in a kernel call",
+      "https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 17:04:47",
       "https://news.ycombinator.com/item?id=43695620"
     ],
@@ -197,16 +207,6 @@
     [
       "GPT-4.1 in the API",
       "https://openai.com/index/gpt-4-1/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 15:03:10",
-      "https://news.ycombinator.com/item?id=43682088"
-    ],
-    [
-      "The path to open-sourcing the DeepSeek inference engine",
-      "https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine"
     ]
   ],
   [
