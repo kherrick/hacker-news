@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-15, 13:51:43](https://news.ycombinator.com/item?id=43692690) - [I'm getting fed up of making the rich, richer](https://bell.bz/im-getting-fed-up-of-making-the-rich-richer/)
 * [2025-04-15, 13:50:49](https://news.ycombinator.com/item?id=43692677) - [America Underestimates the Difficulty of Bringing Manufacturing Back](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back)
-* [2025-04-15, 13:34:21](https://news.ycombinator.com/item?id=43692476) - [Launch HN: Mrge.io (YC X25) – Cursor for code review](https://news.ycombinator.com/item?id=43692476)
+* [2025-04-15, 13:34:21](https://news.ycombinator.com/item?id=43692476) - [Launch HN: mrge.io (YC X25) – Cursor for code review](https://news.ycombinator.com/item?id=43692476)
 * [2025-04-15, 13:26:59](https://news.ycombinator.com/item?id=43692390) - [CT scans could cause 5% of cancers, study finds; experts note uncertainty](https://arstechnica.com/health/2025/04/ct-scans-could-cause-5-of-cancers-study-finds-experts-note-uncertainty/)
 * [2025-04-15, 13:10:41](https://news.ycombinator.com/item?id=43692165) - [Google Search to redirect its country level TLDs to Google.com](https://searchengineland.com/google-search-to-redirect-its-country-level-tlds-to-google-com-454289)
 * [2025-04-15, 12:38:54](https://news.ycombinator.com/item?id=43691856) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
@@ -16,6 +15,7 @@
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 * [2025-04-14, 18:04:07](https://news.ycombinator.com/item?id=43684286) - [Ask HN: Why is there no P2P streaming protocol like BitTorrent?](https://news.ycombinator.com/item?id=43684286)
 * [2025-04-14, 17:43:32](https://news.ycombinator.com/item?id=43684009) - [Simple Web Server](https://simplewebserver.org/)
+* [2025-04-14, 17:16:51](https://news.ycombinator.com/item?id=43683641) - [Podman Quadlets with Podman Desktop](https://podman-desktop.io/blog/podman-quadlet)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
