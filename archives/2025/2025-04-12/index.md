@@ -76,3 +76,4 @@
 * [2025-04-12, 01:49:36](https://news.ycombinator.com/item?id=43660617) - [Splash-free urinals: Design through physics and differential equations](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
 * [2025-04-12, 01:31:45](https://news.ycombinator.com/item?id=43660520) - [Philip K. Dick: Stanisław Lem Is a Communist Committee](https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee)
 * [2025-04-12, 01:25:13](https://news.ycombinator.com/item?id=43660478) - [Sheet Mewsic: Moritz von Schwind's Katzensymphonie (1868)](https://publicdomainreview.org/collection/katzensymphonie/)
+* [2025-04-12, 01:14:45](https://news.ycombinator.com/item?id=43660419) - [45-year mystery behind eerie photo from The Shining is believed to be solved](https://www.cbc.ca/lite/story/1.7507349)
