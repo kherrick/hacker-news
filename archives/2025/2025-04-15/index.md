@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 11:31:26](https://news.ycombinator.com/item?id=43691339) - [GitHub suffers a cascading supply chain attack compromising CI/CD secrets](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html)
+* [2025-04-15, 11:30:56](https://news.ycombinator.com/item?id=43691334) - [4chan hacked. Hacker reopens /QA/ and leaks all admins emails](https://old.reddit.com/r/4chan/comments/1jzkjlg/4chan_hacked_hacker_reopens_qa_and_leaks_all/)
 * [2025-04-15, 10:55:41](https://news.ycombinator.com/item?id=43691142) - [Whistleblower details how DOGE may have taken sensitive NLRB data](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security)
+* [2025-04-15, 10:17:17](https://news.ycombinator.com/item?id=43690955) - [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
 * [2025-04-15, 09:34:01](https://news.ycombinator.com/item?id=43690732) - [Understanding US Power Outages – By Brian Potter](https://www.construction-physics.com/p/understanding-us-power-outages)
 * [2025-04-15, 08:06:18](https://news.ycombinator.com/item?id=43690184) - [EC issues burner phones for visits to US](https://www.theregister.com/2025/04/15/ec_burner_devices/)
 * [2025-04-15, 07:00:37](https://news.ycombinator.com/item?id=43689801) - [Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
