@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-15, 05:15:01](https://news.ycombinator.com/item?id=43689178) - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
+* [2025-04-15, 04:24:26](https://news.ycombinator.com/item?id=43688962) - [The Industrialization of IT](https://benn.substack.com/p/the-industrialization-of-it)
 * [2025-04-15, 04:10:14](https://news.ycombinator.com/item?id=43688900) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
 * [2025-04-15, 00:26:53](https://news.ycombinator.com/item?id=43687767) - [The problem with \"vibe coding\"](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
@@ -25,10 +26,9 @@
 * [2025-04-14, 13:12:00](https://news.ycombinator.com/item?id=43680899) - [DolphinGemma: How Google AI is helping decode dolphin communication](https://blog.google/technology/ai/dolphingemma/)
 * [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots](https://omnom.zone/?src=hn)
 * [2025-04-14, 06:27:48](https://news.ycombinator.com/item?id=43678590) - [JSLinux](https://www.bellard.org/jslinux/)
-* [2025-04-11, 20:52:32](https://news.ycombinator.com/item?id=43658417) - [W65C832 in an FPGA](https://www.mikekohn.net/micro/w65c832_fpga.php)
+* [2025-04-12, 06:12:09](https://news.ycombinator.com/item?id=43661801) - [ASCII Lookup Utility in Ada](https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
 * [2025-04-11, 13:06:17](https://news.ycombinator.com/item?id=43653322) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
-* [2025-04-11, 03:50:33](https://news.ycombinator.com/item?id=43650344) - [How to speed up US passenger rail, without bullet trains](https://www.bloomberg.com/news/articles/2025-04-10/how-to-speed-up-us-passenger-rail-without-bullet-trains)
 * [2025-04-10, 17:34:40](https://news.ycombinator.com/item?id=43646227) - [Google to embrace MCP](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
 
 ## [Archives](archives/index.md)
