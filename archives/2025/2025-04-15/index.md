@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 04:10:14](https://news.ycombinator.com/item?id=43688900) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Cloud-free connection of ESP32-based air purifier to Home Assistant (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
 * [2025-04-15, 02:27:10](https://news.ycombinator.com/item?id=43688460) - [Some features that every JavaScript developer should know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025)
 * [2025-04-15, 02:26:19](https://news.ycombinator.com/item?id=43688456) - [USL – A Universal Scripting Language That Outputs to 111 Programming Languages](https://townsendatomics.gumroad.com/l/usl)
