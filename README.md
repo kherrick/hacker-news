@@ -23,7 +23,7 @@
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 * [2025-04-14, 13:18:19](https://news.ycombinator.com/item?id=43680957) - [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
 * [2025-04-14, 13:12:00](https://news.ycombinator.com/item?id=43680899) - [DolphinGemma: How Google AI is helping decode dolphin communication](https://blog.google/technology/ai/dolphingemma/)
-* [2025-04-14, 12:46:45](https://news.ycombinator.com/item?id=43680699) - [Meilisearch – search engine API bringing AI-powered hybrid search](https://github.com/meilisearch/meilisearch)
+* [2025-04-14, 07:43:12](https://news.ycombinator.com/item?id=43678988) - [The Whimsical Investor](https://fi-le.net/stonks/)
 * [2025-04-11, 20:52:32](https://news.ycombinator.com/item?id=43658417) - [W65C832 in an FPGA](https://www.mikekohn.net/micro/w65c832_fpga.php)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
 * [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh’s Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
