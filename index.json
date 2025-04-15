@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-04-15, 15:09:22",
-      "https://news.ycombinator.com/item?id=43693900"
-    ],
-    [
-      "TLS Certificate Lifetimes Will Officially Reduce to 47 Days",
-      "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 14:38:58",
       "https://news.ycombinator.com/item?id=43693406"
     ],
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2025-04-15, 11:17:02",
-      "https://news.ycombinator.com/item?id=43691268"
-    ],
-    [
-      "JEP 506: Scoped Values final for Java 25",
-      "https://openjdk.org/jeps/506"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 10:17:17",
       "https://news.ycombinator.com/item?id=43690955"
     ],
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2025-04-14, 17:43:32",
+      "https://news.ycombinator.com/item?id=43684009"
+    ],
+    [
+      "Simple Web Server",
+      "https://simplewebserver.org/"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 17:01:45",
       "https://news.ycombinator.com/item?id=43683410"
     ],
@@ -247,6 +237,16 @@
     [
       "In Its Purest Form",
       "https://lareviewofbooks.org/article/in-its-purest-form/"
+    ]
+  ],
+  [
+    [
+      "2025-04-13, 00:30:22",
+      "https://news.ycombinator.com/item?id=43669057"
+    ],
+    [
+      "RNG and Cosine in Nix",
+      "https://unnamed.website/posts/rng-cosine-nix/"
     ]
   ],
   [
