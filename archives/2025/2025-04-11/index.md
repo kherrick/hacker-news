@@ -10,6 +10,7 @@
 * [2025-04-11, 22:46:25](https://news.ycombinator.com/item?id=43659505) - [Firecracker Entropy for VM Clones](https://github.com/firecracker-microvm/firecracker/blob/main/docs/snapshotting/random-for-clones.md)
 * [2025-04-11, 22:27:16](https://news.ycombinator.com/item?id=43659370) - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
 * [2025-04-11, 22:26:41](https://news.ycombinator.com/item?id=43659365) - [Vacheron Constantin Breaks the World Record for Most Complicated Wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
+* [2025-04-11, 22:19:26](https://news.ycombinator.com/item?id=43659302) - [The unsolved death of Gloria Ramirez](https://en.wikipedia.org/wiki/Death_of_Gloria_Ramirez)
 * [2025-04-11, 22:19:26](https://news.ycombinator.com/item?id=43659302) - [A Woman Who Turned a Hospital into a Crime Scene](https://thartribune.com/the-woman-who-turned-a-hospital-into-a-crime-scene-gloria-ramirez/)
 * [2025-04-11, 21:40:43](https://news.ycombinator.com/item?id=43658923) - [Writing Cursor rules with a Cursor rule](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule)
 * [2025-04-11, 21:26:36](https://news.ycombinator.com/item?id=43658794) - [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)

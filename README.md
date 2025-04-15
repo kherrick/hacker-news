@@ -21,15 +21,15 @@
 * [2025-04-15, 13:04:26](https://news.ycombinator.com/item?id=43692089) - [Chroma, Ubisoft's internal tool used to simulate color-blindness, open sourced](https://github.com/ubisoft/Chroma)
 * [2025-04-15, 12:42:54](https://news.ycombinator.com/item?id=43691891) - [WEIRD – a way to be on the web](https://a.weird.one)
 * [2025-04-15, 10:17:17](https://news.ycombinator.com/item?id=43690955) - [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
+* [2025-04-15, 07:00:37](https://news.ycombinator.com/item?id=43689801) - [Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
-* [2025-04-14, 23:43:56](https://news.ycombinator.com/item?id=43687495) - [Temu pulls its U.S. Google Shopping ads](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
 * [2025-04-14, 06:27:48](https://news.ycombinator.com/item?id=43678590) - [JSLinux](https://www.bellard.org/jslinux/)
 * [2025-04-14, 05:05:45](https://news.ycombinator.com/item?id=43678231) - [A Passion for Fruit](https://archaeology.org/collection/a-passion-for-fruit/)
 * [2025-04-13, 00:30:22](https://news.ycombinator.com/item?id=43669057) - [RNG and Cosine in Nix](https://unnamed.website/posts/rng-cosine-nix/)
 * [2025-04-12, 12:11:46](https://news.ycombinator.com/item?id=43663713) - [7k-Year-Old Skeletons from the Green Sahara Reveal a Mysterious Human Lineage](https://www.smithsonianmag.com/smart-news/7000-year-old-skeletons-from-the-green-sahara-reveal-a-previously-unknown-human-lineage-180986403/)
 * [2025-04-12, 06:48:19](https://news.ycombinator.com/item?id=43661954) - [Wait. HOW MANY supernova explode every year?](https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode)
-* [2025-04-11, 13:06:17](https://news.ycombinator.com/item?id=43653322) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
+* [2025-04-11, 22:19:26](https://news.ycombinator.com/item?id=43659302) - [The unsolved death of Gloria Ramirez](https://en.wikipedia.org/wiki/Death_of_Gloria_Ramirez)
 
 ## [Archives](archives/index.md)
 
