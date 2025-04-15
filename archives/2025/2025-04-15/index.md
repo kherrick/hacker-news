@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 19:46:14](https://news.ycombinator.com/item?id=43697532) - [Liquid: Language Models Are Scalable and Unified Multi-Modal Generators](https://foundationvision.github.io/Liquid/)
 * [2025-04-15, 18:38:52](https://news.ycombinator.com/item?id=43696798) - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
 * [2025-04-15, 18:35:05](https://news.ycombinator.com/item?id=43696756) - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 * [2025-04-15, 18:17:06](https://news.ycombinator.com/item?id=43696544) - [METS, the Middle English Texts Series](https://metseditions.org)

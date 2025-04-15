@@ -72,6 +72,7 @@
 * [2025-04-14, 01:48:15](https://news.ycombinator.com/item?id=43677365) - [Small Towns in Japan](https://japanstartshere.com/2020/04/06/small-towns-in-japan/)
 * [2025-04-14, 01:30:22](https://news.ycombinator.com/item?id=43677265) - [Calypso: LLMs as Dungeon Masters' Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
 * [2025-04-14, 01:25:57](https://news.ycombinator.com/item?id=43677232) - [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
+* [2025-04-14, 01:18:06](https://news.ycombinator.com/item?id=43677196) - [$3 Trader Joe's tote bags resell for more than $1,500](https://qz.com/trader-joes-mini-canvas-tote-bags-easter-resale-1851775664)
 * [2025-04-14, 01:12:44](https://news.ycombinator.com/item?id=43677174) - [Local CI. Sign off on your own work](https://github.com/basecamp/gh-signoff)
 * [2025-04-14, 01:11:19](https://news.ycombinator.com/item?id=43677165) - [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
 * [2025-04-14, 00:51:42](https://news.ycombinator.com/item?id=43677067) - [New Vulnerability in GitHub Copilot, Cursor: Hackers Can Weaponize Code Agents](https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents)
