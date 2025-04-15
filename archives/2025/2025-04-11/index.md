@@ -61,6 +61,7 @@
 * [2025-04-11, 13:16:46](https://news.ycombinator.com/item?id=43653421) - [Windows 2000 Server named peak Microsoft. Readers say all downhill since Clippy](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/)
 * [2025-04-11, 13:06:17](https://news.ycombinator.com/item?id=43653322) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
 * [2025-04-11, 12:56:02](https://news.ycombinator.com/item?id=43653251) - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
+* [2025-04-11, 12:41:36](https://news.ycombinator.com/item?id=43653129) - [Unusual Shop Tips [video]](https://www.youtube.com/watch?v=OuZjjActWmQ)
 * [2025-04-11, 12:34:31](https://news.ycombinator.com/item?id=43653078) - [GeoDeep's AI Detection on Maxar's Satellite Imagery](https://tech.marksblogg.com/geodeep-maxar-ai-detection.html)
 * [2025-04-11, 12:23:13](https://news.ycombinator.com/item?id=43653004) - [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)
 * [2025-04-11, 12:18:39](https://news.ycombinator.com/item?id=43652968) - [Show HN: Chonky – a neural approach for text semantic chunking](https://github.com/mirth/chonky)

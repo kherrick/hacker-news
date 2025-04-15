@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 22:50:37](https://news.ycombinator.com/item?id=43699371) - [OpenAI announces nonprofit commission advisors](https://openai.com/index/nonprofit-commission-advisors/)
 * [2025-04-15, 22:26:35](https://news.ycombinator.com/item?id=43699188) - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
 * [2025-04-15, 19:46:14](https://news.ycombinator.com/item?id=43697532) - [Liquid: Language Models Are Scalable and Unified Multi-Modal Generators](https://foundationvision.github.io/Liquid/)
 * [2025-04-15, 19:36:48](https://news.ycombinator.com/item?id=43697445) - [Somehash: A Blurhash-Inspired Exploration](https://travisbumgarner.dev/blog/somehash)
