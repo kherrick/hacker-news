@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 15:31:28](https://news.ycombinator.com/item?id=43694252) - [\"We have no bros and no oligarchs\" EU President Ursula von der Leyen](https://www.zeit.de/politik/2025-04/ursula-von-der-leyen-eu-usa-donald-trump-english)
+* [2025-04-15, 15:26:13](https://news.ycombinator.com/item?id=43694157) - [Show HN: Resonate – real-time high temporal resolution spectral analysis](https://alexandrefrancois.org/Resonate/)
 * [2025-04-15, 15:09:22](https://news.ycombinator.com/item?id=43693900) - [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
 * [2025-04-15, 14:47:10](https://news.ycombinator.com/item?id=43693531) - [ICE Agents Realize They Arrested Wrong Teen, Say 'Take Him Anyway'](https://www.newsweek.com/merwil-gutierrez-ice-wrong-teen-el-salvador-2059783)
 * [2025-04-15, 14:38:58](https://news.ycombinator.com/item?id=43693406) - [MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios](https://github.com/ripplebiz/MeshCore)
