@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-15, 17:38:01](https://news.ycombinator.com/item?id=43696050) - [Whistleblower says DOGE may have caused 'significant cyber breach'](https://www.reuters.com/technology/cybersecurity/whistleblower-org-says-doge-may-have-caused-significant-cyber-breach-us-labor-2025-04-15/)
+* [2025-04-15, 17:35:10](https://news.ycombinator.com/item?id=43696010) - [I speak at Harvard as it faces its biggest crisis since 1636](https://scottaaronson.blog/?p=8805)
 * [2025-04-15, 17:13:31](https://news.ycombinator.com/item?id=43695723) - [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
 * [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
@@ -21,14 +23,12 @@
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
 * [2025-04-14, 23:43:56](https://news.ycombinator.com/item?id=43687495) - [Temu pulls its U.S. Google Shopping ads](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
-* [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 * [2025-04-14, 06:27:48](https://news.ycombinator.com/item?id=43678590) - [JSLinux](https://www.bellard.org/jslinux/)
 * [2025-04-13, 00:30:22](https://news.ycombinator.com/item?id=43669057) - [RNG and Cosine in Nix](https://unnamed.website/posts/rng-cosine-nix/)
 * [2025-04-12, 17:59:27](https://news.ycombinator.com/item?id=43666588) - [Getting a Signal on the Moon: 4G network for lunar missions](https://spectrum.ieee.org/nokia-4g-cellular-network-moon)
 * [2025-04-12, 16:57:25](https://news.ycombinator.com/item?id=43666083) - [Rotatum of Light](https://www.science.org/doi/10.1126/sciadv.adr9092)
 * [2025-04-12, 12:11:46](https://news.ycombinator.com/item?id=43663713) - [7k-Year-Old Skeletons from the Green Sahara Reveal a Mysterious Human Lineage](https://www.smithsonianmag.com/smart-news/7000-year-old-skeletons-from-the-green-sahara-reveal-a-previously-unknown-human-lineage-180986403/)
 * [2025-04-12, 06:48:19](https://news.ycombinator.com/item?id=43661954) - [Wait. HOW MANY supernova explode every year?](https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode)
-* [2025-04-12, 01:14:45](https://news.ycombinator.com/item?id=43660419) - [45-year mystery behind eerie photo from The Shining is believed to be solved](https://www.cbc.ca/lite/story/1.7507349)
 * [2025-04-11, 13:06:17](https://news.ycombinator.com/item?id=43653322) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
 
 ## [Archives](archives/index.md)
