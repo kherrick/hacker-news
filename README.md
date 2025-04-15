@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-15, 10:55:41](https://news.ycombinator.com/item?id=43691142) - [Whistleblower details how DOGE may have taken sensitive NLRB data](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security)
 * [2025-04-15, 07:00:37](https://news.ycombinator.com/item?id=43689801) - [Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
 * [2025-04-15, 05:15:01](https://news.ycombinator.com/item?id=43689178) - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
@@ -16,7 +17,6 @@
 * [2025-04-14, 15:41:03](https://news.ycombinator.com/item?id=43682547) - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 14:55:57](https://news.ycombinator.com/item?id=43682006) - [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
-* [2025-04-14, 14:49:42](https://news.ycombinator.com/item?id=43681936) - [How to bike across the country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 * [2025-04-14, 13:18:19](https://news.ycombinator.com/item?id=43680957) - [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
 * [2025-04-14, 13:12:00](https://news.ycombinator.com/item?id=43680899) - [DolphinGemma: How Google AI is helping decode dolphin communication](https://blog.google/technology/ai/dolphingemma/)
