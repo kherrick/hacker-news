@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-15, 22:50:37",
-      "https://news.ycombinator.com/item?id=43699371"
-    ],
-    [
-      "OpenAI announces nonprofit commission advisors",
-      "https://openai.com/index/nonprofit-commission-advisors/"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 22:26:35",
       "https://news.ycombinator.com/item?id=43699188"
     ],
@@ -27,6 +17,16 @@
     [
       "Liquid: Language models are scalable and unified multi-modal generators",
       "https://foundationvision.github.io/Liquid/"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 19:36:48",
+      "https://news.ycombinator.com/item?id=43697445"
+    ],
+    [
+      "Somehash: A Blurhash-Inspired Exploration",
+      "https://travisbumgarner.dev/blog/somehash"
     ]
   ],
   [
@@ -61,32 +61,12 @@
   ],
   [
     [
-      "2025-04-15, 17:21:51",
-      "https://news.ycombinator.com/item?id=43695834"
-    ],
-    [
-      "Post-Silicon Validation of Static Lockstep Mode",
-      "https://www.intel.com/content/www/us/en/content-details/851929/post-silicon-validation-of-static-lockstep-mode-on-intel-xeon-6-processor-e-core-architecture.html"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 17:13:31",
       "https://news.ycombinator.com/item?id=43695723"
     ],
     [
       "The case of the UI thread that hung in a kernel call",
       "https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 17:12:22",
-      "https://news.ycombinator.com/item?id=43695701"
-    ],
-    [
-      "It's easier than ever to de-censor videos",
-      "https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos"
     ]
   ],
   [
@@ -121,6 +101,16 @@
   ],
   [
     [
+      "2025-04-15, 16:37:47",
+      "https://news.ycombinator.com/item?id=43695285"
+    ],
+    [
+      "Fun ways of deciding authorship order (2016)",
+      "https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 16:08:29",
       "https://news.ycombinator.com/item?id=43694877"
     ],
@@ -147,6 +137,16 @@
     [
       "Cohere Launches Embed 4",
       "https://cohere.com/blog/embed-4"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 15:26:13",
+      "https://news.ycombinator.com/item?id=43694157"
+    ],
+    [
+      "Show HN: Resonate – real-time high temporal resolution spectral analysis",
+      "https://alexandrefrancois.org/Resonate/"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=43692089"
     ],
     [
-      "Chroma, Ubisoft's internal tool used to simulate color-blindness, open sourced",
+      "Chroma: Ubisoft's internal tool used to simulate color-blindness",
       "https://github.com/ubisoft/Chroma"
     ]
   ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2025-04-15, 10:17:17",
-      "https://news.ycombinator.com/item?id=43690955"
+      "2025-04-15, 10:55:41",
+      "https://news.ycombinator.com/item?id=43691142"
     ],
     [
-      "Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs",
-      "https://arxiv.org/abs/2410.03730"
+      "Whistleblower details how DOGE may have taken sensitive NLRB data",
+      "https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security"
     ]
   ],
   [
