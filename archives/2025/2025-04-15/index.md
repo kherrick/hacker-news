@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 18:00:17](https://news.ycombinator.com/item?id=43696334) - ['End of an era': The last RadioShack in Maryland is closing its doors](https://marylandmatters.org/2025/04/14/end-of-an-era-the-last-radioshack-in-maryland-is-closing-its-doors/)
 * [2025-04-15, 17:38:01](https://news.ycombinator.com/item?id=43696050) - [Whistleblower says DOGE may have caused 'significant cyber breach'](https://www.reuters.com/technology/cybersecurity/whistleblower-org-says-doge-may-have-caused-significant-cyber-breach-us-labor-2025-04-15/)
 * [2025-04-15, 17:35:10](https://news.ycombinator.com/item?id=43696010) - [I speak at Harvard as it faces its biggest crisis since 1636](https://scottaaronson.blog/?p=8805)
+* [2025-04-15, 17:21:51](https://news.ycombinator.com/item?id=43695834) - [Post-Silicon Validation of Static Lockstep Mode](https://www.intel.com/content/www/us/en/content-details/851929/post-silicon-validation-of-static-lockstep-mode-on-intel-xeon-6-processor-e-core-architecture.html)
 * [2025-04-15, 17:13:31](https://news.ycombinator.com/item?id=43695723) - [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
 * [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
