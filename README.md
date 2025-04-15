@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-15, 15:31:28](https://news.ycombinator.com/item?id=43694252) - [\"We have no bros and no oligarchs\" EU President Ursula von der Leyen](https://www.zeit.de/politik/2025-04/ursula-von-der-leyen-eu-usa-donald-trump-english)
+* [2025-04-15, 15:34:47](https://news.ycombinator.com/item?id=43694310) - [Notion Mail Is Out](https://www.notion.com/product/mail)
 * [2025-04-15, 15:26:13](https://news.ycombinator.com/item?id=43694157) - [Show HN: Resonate – real-time high temporal resolution spectral analysis](https://alexandrefrancois.org/Resonate/)
 * [2025-04-15, 15:09:22](https://news.ycombinator.com/item?id=43693900) - [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
 * [2025-04-15, 14:38:58](https://news.ycombinator.com/item?id=43693406) - [MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios](https://github.com/ripplebiz/MeshCore)
@@ -11,6 +11,7 @@
 * [2025-04-15, 13:24:39](https://news.ycombinator.com/item?id=43692360) - [How the U.S. Became a Science Superpower](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/)
 * [2025-04-15, 13:04:26](https://news.ycombinator.com/item?id=43692089) - [Chroma, Ubisoft's internal tool used to simulate color-blindness, open sourced](https://github.com/ubisoft/Chroma)
 * [2025-04-15, 12:42:54](https://news.ycombinator.com/item?id=43691891) - [WEIRD – a way to be on the web](https://a.weird.one)
+* [2025-04-15, 11:17:02](https://news.ycombinator.com/item?id=43691268) - [JEP 506: Scoped Values final for Java 25](https://openjdk.org/jeps/506)
 * [2025-04-15, 10:17:17](https://news.ycombinator.com/item?id=43690955) - [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
 * [2025-04-15, 07:00:37](https://news.ycombinator.com/item?id=43689801) - [Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
 * [2025-04-15, 05:15:01](https://news.ycombinator.com/item?id=43689178) - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
@@ -18,7 +19,6 @@
 * [2025-04-14, 23:43:56](https://news.ycombinator.com/item?id=43687495) - [Temu pulls its U.S. Google Shopping ads](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 * [2025-04-14, 18:04:07](https://news.ycombinator.com/item?id=43684286) - [Ask HN: Why is there no P2P streaming protocol like BitTorrent?](https://news.ycombinator.com/item?id=43684286)
-* [2025-04-14, 17:43:32](https://news.ycombinator.com/item?id=43684009) - [Simple Web Server](https://simplewebserver.org/)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
