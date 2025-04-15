@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-15, 22:26:35](https://news.ycombinator.com/item?id=43699188) - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
 * [2025-04-15, 19:46:14](https://news.ycombinator.com/item?id=43697532) - [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/)
 * [2025-04-15, 18:38:52](https://news.ycombinator.com/item?id=43696798) - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
 * [2025-04-15, 18:35:05](https://news.ycombinator.com/item?id=43696756) - [What the hell is a target triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
@@ -9,7 +10,6 @@
 * [2025-04-15, 17:12:22](https://news.ycombinator.com/item?id=43695701) - [It's easier than ever to de-censor videos](https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos)
 * [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
-* [2025-04-15, 17:00:18](https://news.ycombinator.com/item?id=43695562) - [M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://arxiv.org/abs/2504.10449)
 * [2025-04-15, 16:37:47](https://news.ycombinator.com/item?id=43695285) - [Fun ways of deciding authorship order](https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/)
 * [2025-04-15, 16:08:29](https://news.ycombinator.com/item?id=43694877) - [OpenAI is building a social network?](https://www.theverge.com/openai/648130/openai-social-network-x-competitor)
 * [2025-04-15, 15:48:59](https://news.ycombinator.com/item?id=43694549) - [Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
