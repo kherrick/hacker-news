@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
+* [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
+* [2025-04-15, 16:49:20](https://news.ycombinator.com/item?id=43695424) - [Japanese Typography Essentials: Japanese Type Between Japanese and Latin](https://www.researchgate.net/publication/383515797_JAPANESE_TYPOGRAPHY_ESSENTIALS_JAPANESE_TYPE_BETWEEN_JAPANESE_LATIN_CHARACTER)
 * [2025-04-15, 16:47:20](https://news.ycombinator.com/item?id=43695401) - [Benn Jordan's AI poison pill and the weird world of adversarial noise](https://cdm.link/benn-jordan-ai-poison-pill/)
 * [2025-04-15, 16:37:47](https://news.ycombinator.com/item?id=43695285) - [Fun ways of deciding authorship order](https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/)
 * [2025-04-15, 16:21:51](https://news.ycombinator.com/item?id=43695069) - [Show HN: I made a tool to send a letter now people use it to just print](https://www.pieterpost.com/)
