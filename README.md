@@ -24,10 +24,10 @@
 * [2025-04-14, 07:43:12](https://news.ycombinator.com/item?id=43678988) - [The Whimsical Investor](https://fi-le.net/stonks/)
 * [2025-04-12, 07:43:47](https://news.ycombinator.com/item?id=43662263) - [AI used for skin cancer checks at London hospital](https://www.bbc.com/news/articles/czd3ygd7mrno)
 * [2025-04-12, 06:11:43](https://news.ycombinator.com/item?id=43661799) - [Lost City of the Samurai](https://archaeology.org/issues/may-june-2025/features/lost-city-of-the-samurai/)
-* [2025-04-12, 04:53:39](https://news.ycombinator.com/item?id=43661461) - [TTRPG Roots in the Game Battleship](http://playingattheworld.blogspot.com/2018/10/subterranean-chainmail-mines-and.html)
 * [2025-04-11, 20:52:32](https://news.ycombinator.com/item?id=43658417) - [W65C832 in an FPGA](https://www.mikekohn.net/micro/w65c832_fpga.php)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
 * [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh’s Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
+* [2025-04-11, 13:06:17](https://news.ycombinator.com/item?id=43653322) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
 * [2025-04-11, 02:04:52](https://news.ycombinator.com/item?id=43649781) - [How Janet's PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
 * [2025-04-10, 17:34:40](https://news.ycombinator.com/item?id=43646227) - [Hassabis Says Google DeepMind to Support Anthropic's MCP for Gemini and SDK](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
 
