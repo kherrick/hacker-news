@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-04-15, 17:00:18",
+      "https://news.ycombinator.com/item?id=43695562"
+    ],
+    [
+      "M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models",
+      "https://arxiv.org/abs/2504.10449"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 16:37:47",
       "https://news.ycombinator.com/item?id=43695285"
     ],
@@ -107,6 +117,16 @@
     [
       "Cohere Launches Embed 4",
       "https://cohere.com/blog/embed-4"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 15:42:04",
+      "https://news.ycombinator.com/item?id=43694431"
+    ],
+    [
+      "Isolated Execution Environment for eBPF",
+      "https://ebpf.foundation/research-update-isolated-execution-environment-for-ebpf/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-04-14, 23:43:56",
-      "https://news.ycombinator.com/item?id=43687495"
-    ],
-    [
-      "Temu pulls its U.S. Google Shopping ads",
-      "https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260"
-    ]
-  ],
-  [
-    [
       "2025-04-14, 17:01:45",
       "https://news.ycombinator.com/item?id=43683410"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-04-12, 16:57:25",
-      "https://news.ycombinator.com/item?id=43666083"
-    ],
-    [
-      "Rotatum of Light",
-      "https://www.science.org/doi/10.1126/sciadv.adr9092"
-    ]
-  ],
-  [
-    [
       "2025-04-12, 12:11:46",
       "https://news.ycombinator.com/item?id=43663713"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-04-11, 13:06:17",
-      "https://news.ycombinator.com/item?id=43653322"
+      "2025-04-11, 22:19:26",
+      "https://news.ycombinator.com/item?id=43659302"
     ],
     [
-      "Behind the 6-digit code: Building HOTP and TOTP from scratch",
-      "https://blog.dogac.dev/how-do-one-time-passwords-work/"
+      "A Woman Who Turned a Hospital into a Crime Scene",
+      "https://thartribune.com/the-woman-who-turned-a-hospital-into-a-crime-scene-gloria-ramirez/"
     ]
   ]
 ]
