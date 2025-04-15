@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-15, 08:06:18](https://news.ycombinator.com/item?id=43690184) - [EC issues burner phones for visits to US](https://www.theregister.com/2025/04/15/ec_burner_devices/)
 * [2025-04-15, 07:00:37](https://news.ycombinator.com/item?id=43689801) - [Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
 * [2025-04-15, 05:15:01](https://news.ycombinator.com/item?id=43689178) - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
@@ -25,6 +24,7 @@
 * [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots](https://omnom.zone/?src=hn)
 * [2025-04-14, 06:27:48](https://news.ycombinator.com/item?id=43678590) - [JSLinux](https://www.bellard.org/jslinux/)
 * [2025-04-13, 00:16:34](https://news.ycombinator.com/item?id=43668986) - [Laser Launch into Orbit](http://toughsf.blogspot.com/2017/03/laser-launch-into-orbit.html)
+* [2025-04-12, 06:48:19](https://news.ycombinator.com/item?id=43661954) - [Wait. HOW MANY supernova explode every year?](https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode)
 * [2025-04-12, 06:45:44](https://news.ycombinator.com/item?id=43661939) - [Show HN: Portable Giant File Viewer](https://github.com/sunny-chung/giant-log-viewer)
 * [2025-04-12, 06:12:09](https://news.ycombinator.com/item?id=43661801) - [ASCII Lookup Utility in Ada](https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)

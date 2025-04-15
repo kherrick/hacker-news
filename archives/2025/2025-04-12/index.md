@@ -59,6 +59,7 @@
 * [2025-04-12, 07:33:12](https://news.ycombinator.com/item?id=43662209) - [Why Microgravity Helps Crystals Grow Better](https://sparkgravity.com/journal/microgravity-crystals/)
 * [2025-04-12, 07:02:35](https://news.ycombinator.com/item?id=43662035) - [U.S. cites its power to deport people for beliefs](https://apnews.com/article/mahmoud-khalil-columbia-university-trump-c60738368171289ae43177660def8d34)
 * [2025-04-12, 07:01:56](https://news.ycombinator.com/item?id=43662031) - [How I install personal versions of programs on Unix](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup)
+* [2025-04-12, 06:48:19](https://news.ycombinator.com/item?id=43661954) - [Wait. HOW MANY supernova explode every year?](https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode)
 * [2025-04-12, 06:45:44](https://news.ycombinator.com/item?id=43661939) - [Show HN: Portable Giant File Viewer](https://github.com/sunny-chung/giant-log-viewer)
 * [2025-04-12, 06:12:09](https://news.ycombinator.com/item?id=43661801) - [ASCII Lookup Utility in Ada](https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/)
 * [2025-04-12, 06:11:43](https://news.ycombinator.com/item?id=43661799) - [Lost City of the Samurai](https://archaeology.org/issues/may-june-2025/features/lost-city-of-the-samurai/)
