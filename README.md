@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-15, 02:15:09](https://news.ycombinator.com/item?id=43688395) - [Overuse of CT scans could cause 100k extra cancers in US](https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us)
+* [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Cloud-free connection of ESP32-based air purifier to Home Assistant (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
 * [2025-04-15, 00:26:53](https://news.ycombinator.com/item?id=43687767) - [The Problem with \"Vibe Coding\"](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
 * [2025-04-14, 23:33:38](https://news.ycombinator.com/item?id=43687431) - [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
 * [2025-04-14, 22:22:52](https://news.ycombinator.com/item?id=43686936) - [Tomb Engine](https://tombengine.com/)
