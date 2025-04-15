@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-15, 09:34:01](https://news.ycombinator.com/item?id=43690732) - [Understanding US Power Outages – By Brian Potter](https://www.construction-physics.com/p/understanding-us-power-outages)
 * [2025-04-15, 07:00:37](https://news.ycombinator.com/item?id=43689801) - [Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
 * [2025-04-15, 05:15:01](https://news.ycombinator.com/item?id=43689178) - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
@@ -18,6 +17,7 @@
 * [2025-04-14, 15:41:03](https://news.ycombinator.com/item?id=43682547) - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 14:55:57](https://news.ycombinator.com/item?id=43682006) - [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
+* [2025-04-14, 14:49:42](https://news.ycombinator.com/item?id=43681936) - [How to bike across the country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 * [2025-04-14, 13:18:19](https://news.ycombinator.com/item?id=43680957) - [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
 * [2025-04-14, 13:12:00](https://news.ycombinator.com/item?id=43680899) - [DolphinGemma: How Google AI is helping decode dolphin communication](https://blog.google/technology/ai/dolphingemma/)
@@ -26,7 +26,7 @@
 * [2025-04-13, 00:16:34](https://news.ycombinator.com/item?id=43668986) - [Laser Launch into Orbit](http://toughsf.blogspot.com/2017/03/laser-launch-into-orbit.html)
 * [2025-04-12, 18:45:36](https://news.ycombinator.com/item?id=43666949) - [Kmart lied to me, so I hacked their lamp](https://www.youtube.com/watch?v=E_6Y1iip3p0)
 * [2025-04-12, 06:48:19](https://news.ycombinator.com/item?id=43661954) - [Wait. HOW MANY supernova explode every year?](https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode)
-* [2025-04-12, 06:45:44](https://news.ycombinator.com/item?id=43661939) - [Show HN: Portable Giant File Viewer](https://github.com/sunny-chung/giant-log-viewer)
+* [2025-04-12, 06:12:09](https://news.ycombinator.com/item?id=43661801) - [ASCII Lookup Utility in Ada](https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
 * [2025-04-11, 13:06:17](https://news.ycombinator.com/item?id=43653322) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
 * [2025-04-10, 17:34:40](https://news.ycombinator.com/item?id=43646227) - [Google to embrace MCP](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
