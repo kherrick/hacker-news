@@ -26,7 +26,7 @@
 * [2025-04-13, 00:16:34](https://news.ycombinator.com/item?id=43668986) - [Laser Launch into Orbit](http://toughsf.blogspot.com/2017/03/laser-launch-into-orbit.html)
 * [2025-04-12, 18:45:36](https://news.ycombinator.com/item?id=43666949) - [Kmart lied to me, so I hacked their lamp](https://www.youtube.com/watch?v=E_6Y1iip3p0)
 * [2025-04-12, 06:48:19](https://news.ycombinator.com/item?id=43661954) - [Wait. HOW MANY supernova explode every year?](https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode)
-* [2025-04-12, 06:12:09](https://news.ycombinator.com/item?id=43661801) - [ASCII Lookup Utility in Ada](https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/)
+* [2025-04-12, 06:45:44](https://news.ycombinator.com/item?id=43661939) - [Show HN: Portable Giant File Viewer](https://github.com/sunny-chung/giant-log-viewer)
 * [2025-04-11, 17:26:49](https://news.ycombinator.com/item?id=43656267) - [The Wisconsin cartographer who mapped Tolkien's fantasy world](https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh)
 * [2025-04-11, 13:06:17](https://news.ycombinator.com/item?id=43653322) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
 * [2025-04-10, 17:34:40](https://news.ycombinator.com/item?id=43646227) - [Google to embrace MCP](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
