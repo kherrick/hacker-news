@@ -32,6 +32,7 @@
 * [2025-04-12, 17:40:09](https://news.ycombinator.com/item?id=43666439) - [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
 * [2025-04-12, 17:26:28](https://news.ycombinator.com/item?id=43666341) - [Dual Kickstart ROM Replacement for Amiga](https://github.com/cdhooper/kicksmash32)
 * [2025-04-12, 17:00:38](https://news.ycombinator.com/item?id=43666112) - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer)
+* [2025-04-12, 16:57:25](https://news.ycombinator.com/item?id=43666083) - [Rotatum of Light](https://www.science.org/doi/10.1126/sciadv.adr9092)
 * [2025-04-12, 16:29:59](https://news.ycombinator.com/item?id=43665831) - ['Paraparticles' Would Be a Third Kingdom of Quantum Particle](https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/)
 * [2025-04-12, 16:26:42](https://news.ycombinator.com/item?id=43665793) - [Paris said au revoir to cars. Air pollution maps reveal a dramatic change](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/)
 * [2025-04-12, 16:01:34](https://news.ycombinator.com/item?id=43665540) - [ArkType: Ergonomic TS validator 100x faster than Zod](https://arktype.io/)

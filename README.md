@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-15, 14:47:10](https://news.ycombinator.com/item?id=43693531) - [ICE Agents Realize They Arrested Wrong Teen, Say 'Take Him Anyway'](https://www.newsweek.com/merwil-gutierrez-ice-wrong-teen-el-salvador-2059783)
+* [2025-04-15, 14:38:25](https://news.ycombinator.com/item?id=43693402) - [How to Win an Argument with a Toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)
 * [2025-04-15, 14:33:10](https://news.ycombinator.com/item?id=43693326) - [Hacking the Postgres Wire Protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
 * [2025-04-15, 14:13:19](https://news.ycombinator.com/item?id=43692998) - [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
 * [2025-04-15, 13:50:49](https://news.ycombinator.com/item?id=43692677) - [America Underestimates the Difficulty of Bringing Manufacturing Back](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back)
@@ -13,7 +15,6 @@
 * [2025-04-15, 05:15:01](https://news.ycombinator.com/item?id=43689178) - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
 * [2025-04-14, 23:43:56](https://news.ycombinator.com/item?id=43687495) - [Temu pulls its U.S. Google Shopping ads](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
-* [2025-04-14, 22:22:52](https://news.ycombinator.com/item?id=43686936) - [Tomb Engine](https://tombengine.com/)
 * [2025-04-14, 18:32:08](https://news.ycombinator.com/item?id=43684560) - [What Is Entropy?](https://jasonfantl.com/posts/What-is-Entropy/)
 * [2025-04-14, 18:04:07](https://news.ycombinator.com/item?id=43684286) - [Ask HN: Why is there no P2P streaming protocol like BitTorrent?](https://news.ycombinator.com/item?id=43684286)
 * [2025-04-14, 17:43:32](https://news.ycombinator.com/item?id=43684009) - [Simple Web Server](https://simplewebserver.org/)
@@ -21,15 +22,14 @@
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 * [2025-04-14, 13:18:19](https://news.ycombinator.com/item?id=43680957) - [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
-* [2025-04-14, 13:12:00](https://news.ycombinator.com/item?id=43680899) - [DolphinGemma: How Google AI is helping decode dolphin communication](https://blog.google/technology/ai/dolphingemma/)
 * [2025-04-14, 06:27:48](https://news.ycombinator.com/item?id=43678590) - [JSLinux](https://www.bellard.org/jslinux/)
 * [2025-04-14, 04:42:53](https://news.ycombinator.com/item?id=43678116) - [In Its Purest Form](https://lareviewofbooks.org/article/in-its-purest-form/)
+* [2025-04-12, 16:57:25](https://news.ycombinator.com/item?id=43666083) - [Rotatum of Light](https://www.science.org/doi/10.1126/sciadv.adr9092)
 * [2025-04-12, 12:11:46](https://news.ycombinator.com/item?id=43663713) - [7k-Year-Old Skeletons from the Green Sahara Reveal a Mysterious Human Lineage](https://www.smithsonianmag.com/smart-news/7000-year-old-skeletons-from-the-green-sahara-reveal-a-previously-unknown-human-lineage-180986403/)
 * [2025-04-12, 06:48:19](https://news.ycombinator.com/item?id=43661954) - [Wait. HOW MANY supernova explode every year?](https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode)
 * [2025-04-12, 01:14:45](https://news.ycombinator.com/item?id=43660419) - [45-year mystery behind eerie photo from The Shining is believed to be solved](https://www.cbc.ca/lite/story/1.7507349)
 * [2025-04-11, 15:23:35](https://news.ycombinator.com/item?id=43654893) - [One of the Most Egregious Ripoffs in the History of Science – The Race to DNA](https://nautil.us/one-of-the-most-egregious-ripoffs-in-the-history-of-science-238331/)
 * [2025-04-11, 13:06:17](https://news.ycombinator.com/item?id=43653322) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
-* [2025-04-10, 17:34:40](https://news.ycombinator.com/item?id=43646227) - [Google to embrace MCP](https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/)
 
 ## [Archives](archives/index.md)
 
