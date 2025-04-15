@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 17:13:31](https://news.ycombinator.com/item?id=43695723) - [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
 * [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
 * [2025-04-15, 16:49:20](https://news.ycombinator.com/item?id=43695424) - [Japanese Typography Essentials: Japanese Type Between Japanese and Latin](https://www.researchgate.net/publication/383515797_JAPANESE_TYPOGRAPHY_ESSENTIALS_JAPANESE_TYPE_BETWEEN_JAPANESE_LATIN_CHARACTER)

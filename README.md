@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-15, 17:13:31](https://news.ycombinator.com/item?id=43695723) - [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
 * [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
 * [2025-04-15, 16:49:20](https://news.ycombinator.com/item?id=43695424) - [Japanese Typography Essentials: Japanese Type Between Japanese and Latin](https://www.researchgate.net/publication/383515797_JAPANESE_TYPOGRAPHY_ESSENTIALS_JAPANESE_TYPE_BETWEEN_JAPANESE_LATIN_CHARACTER)
@@ -20,7 +21,6 @@
 * [2025-04-15, 03:12:55](https://news.ycombinator.com/item?id=43688658) - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
 * [2025-04-14, 23:43:56](https://news.ycombinator.com/item?id=43687495) - [Temu pulls its U.S. Google Shopping ads](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
-* [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
 * [2025-04-14, 13:52:58](https://news.ycombinator.com/item?id=43681287) - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 * [2025-04-14, 06:27:48](https://news.ycombinator.com/item?id=43678590) - [JSLinux](https://www.bellard.org/jslinux/)
 * [2025-04-13, 00:30:22](https://news.ycombinator.com/item?id=43669057) - [RNG and Cosine in Nix](https://unnamed.website/posts/rng-cosine-nix/)
