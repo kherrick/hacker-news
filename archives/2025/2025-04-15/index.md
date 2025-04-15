@@ -14,6 +14,7 @@
 * [2025-04-15, 17:13:31](https://news.ycombinator.com/item?id=43695723) - [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
 * [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
+* [2025-04-15, 17:00:18](https://news.ycombinator.com/item?id=43695562) - [M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://arxiv.org/abs/2504.10449)
 * [2025-04-15, 16:49:20](https://news.ycombinator.com/item?id=43695424) - [Japanese Typography Essentials: Japanese Type Between Japanese and Latin](https://www.researchgate.net/publication/383515797_JAPANESE_TYPOGRAPHY_ESSENTIALS_JAPANESE_TYPE_BETWEEN_JAPANESE_LATIN_CHARACTER)
 * [2025-04-15, 16:47:20](https://news.ycombinator.com/item?id=43695401) - [Benn Jordan's AI poison pill and the weird world of adversarial noise](https://cdm.link/benn-jordan-ai-poison-pill/)
 * [2025-04-15, 16:37:47](https://news.ycombinator.com/item?id=43695285) - [Fun ways of deciding authorship order](https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/)
