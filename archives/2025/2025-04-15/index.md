@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 13:51:43](https://news.ycombinator.com/item?id=43692690) - [I'm getting fed up of making the rich, richer](https://bell.bz/im-getting-fed-up-of-making-the-rich-richer/)
+* [2025-04-15, 13:50:49](https://news.ycombinator.com/item?id=43692677) - [America Underestimates the Difficulty of Bringing Manufacturing Back](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back)
+* [2025-04-15, 13:34:21](https://news.ycombinator.com/item?id=43692476) - [Launch HN: Mrge.io (YC X25) – Cursor for code review](https://news.ycombinator.com/item?id=43692476)
 * [2025-04-15, 13:26:59](https://news.ycombinator.com/item?id=43692390) - [CT scans could cause 5% of cancers, study finds; experts note uncertainty](https://arstechnica.com/health/2025/04/ct-scans-could-cause-5-of-cancers-study-finds-experts-note-uncertainty/)
 * [2025-04-15, 13:10:41](https://news.ycombinator.com/item?id=43692165) - [Google Search to redirect its country level TLDs to Google.com](https://searchengineland.com/google-search-to-redirect-its-country-level-tlds-to-google-com-454289)
+* [2025-04-15, 12:38:54](https://news.ycombinator.com/item?id=43691856) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 11:31:26](https://news.ycombinator.com/item?id=43691339) - [GitHub suffers a cascading supply chain attack compromising CI/CD secrets](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html)
 * [2025-04-15, 11:30:56](https://news.ycombinator.com/item?id=43691334) - [4chan hacked. Hacker reopens /QA/ and leaks all admins emails](https://old.reddit.com/r/4chan/comments/1jzkjlg/4chan_hacked_hacker_reopens_qa_and_leaks_all/)
 * [2025-04-15, 10:55:41](https://news.ycombinator.com/item?id=43691142) - [Whistleblower details how DOGE may have taken sensitive NLRB data](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security)

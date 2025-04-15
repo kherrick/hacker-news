@@ -43,6 +43,7 @@
 * [2025-04-11, 15:29:10](https://news.ycombinator.com/item?id=43654971) - [Evelyn Waugh's Decadent Redemption](https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/)
 * [2025-04-11, 15:26:53](https://news.ycombinator.com/item?id=43654932) - [Agency vs. Control vs. Reliability in Agent Design](https://fin.ai/research/agency-control-reliability-the-tradeoffs-in-customer-support-agents/)
 * [2025-04-11, 15:25:13](https://news.ycombinator.com/item?id=43654912) - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
+* [2025-04-11, 15:23:35](https://news.ycombinator.com/item?id=43654893) - [One of the Most Egregious Ripoffs in the History of Science – The Race to DNA](https://nautil.us/one-of-the-most-egregious-ripoffs-in-the-history-of-science-238331/)
 * [2025-04-11, 15:22:35](https://news.ycombinator.com/item?id=43654881) - [Rust CUDA Project](https://github.com/Rust-GPU/Rust-CUDA)
 * [2025-04-11, 15:18:21](https://news.ycombinator.com/item?id=43654813) - [WebRTC for the Curious](https://webrtcforthecurious.com)
 * [2025-04-11, 14:42:16](https://news.ycombinator.com/item?id=43654350) - [Show HN: Omiword – A daily, sector-based word puzzle](https://www.omiword.com/)
