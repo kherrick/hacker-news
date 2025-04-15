@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 16:37:47](https://news.ycombinator.com/item?id=43695285) - [Fun ways of deciding authorship order](https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/)
 * [2025-04-15, 16:21:51](https://news.ycombinator.com/item?id=43695069) - [Show HN: I made a tool to send a letter now people use it to just print](https://www.pieterpost.com/)
+* [2025-04-15, 15:56:18](https://news.ycombinator.com/item?id=43694681) - [JSX over the Wire](https://overreacted.io/jsx-over-the-wire/)
 * [2025-04-15, 15:48:41](https://news.ycombinator.com/item?id=43694546) - [Cohere Launches Embed 4](https://cohere.com/blog/embed-4)
 * [2025-04-15, 15:34:47](https://news.ycombinator.com/item?id=43694310) - [Notion Mail Is Out](https://www.notion.com/product/mail)
 * [2025-04-15, 15:31:28](https://news.ycombinator.com/item?id=43694252) - [\"We have no bros and no oligarchs\" EU President Ursula von der Leyen](https://www.zeit.de/politik/2025-04/ursula-von-der-leyen-eu-usa-donald-trump-english)

@@ -29,6 +29,7 @@
 * [2025-04-12, 18:45:36](https://news.ycombinator.com/item?id=43666949) - [Kmart lied to me, so I hacked their lamp](https://www.youtube.com/watch?v=E_6Y1iip3p0)
 * [2025-04-12, 18:23:07](https://news.ycombinator.com/item?id=43666778) - [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
 * [2025-04-12, 18:22:42](https://news.ycombinator.com/item?id=43666773) - [China Just Approved Flying Taxis – No Pilot Needed](https://engineerine.com/chinas-flying-taxis/)
+* [2025-04-12, 17:59:27](https://news.ycombinator.com/item?id=43666588) - [Getting a Signal on the Moon: 4G network for lunar missions](https://spectrum.ieee.org/nokia-4g-cellular-network-moon)
 * [2025-04-12, 17:40:09](https://news.ycombinator.com/item?id=43666439) - [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
 * [2025-04-12, 17:26:28](https://news.ycombinator.com/item?id=43666341) - [Dual Kickstart ROM Replacement for Amiga](https://github.com/cdhooper/kicksmash32)
 * [2025-04-12, 17:00:38](https://news.ycombinator.com/item?id=43666112) - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer)
