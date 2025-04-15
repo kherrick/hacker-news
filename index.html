@@ -129,6 +129,176 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43692690">
+          <h3>
+            <a
+              class="item"
+              href="https://bell.bz/im-getting-fed-up-of-making-the-rich-richer/"
+              >I'm getting fed up of making the rich, richer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-15 @ 13:51:43</span
+              ><span class="points-container"
+                >Points: <span class="points">50</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43692690"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43692677">
+          <h3>
+            <a
+              class="item"
+              href="https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back"
+              >America Underestimates the Difficulty of Bringing Manufacturing
+              Back</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-15 @ 13:50:49</span
+              ><span class="points-container"
+                >Points: <span class="points">125</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43692677"
+                  >Comments</a
+                ><span class="descendants">: 146</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43692476">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43692476"
+              >Launch HN: Mrge.io (YC X25) – Cursor for code review</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-15 @ 13:34:21</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43692476"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.mrge.io/home">https://www.mrge.io/home</a>),
+              an AI code review platform to help teams merge code faster with
+              fewer bugs. Our early users include Better Auth, Cal.com, and
+              n8n—teams that handle a lot of PRs every day.
+              <p>
+                Here’s a demo video:
+                <a href="https://www.youtube.com/watch?v=pglEoiv0BgY"
+                  >https://www.youtube.com/watch?v=pglEoiv0BgY</a
+                >
+              </p>
+              <p>
+                We (Allis and Paul) are engineers who faced this problem when we
+                worked together at our last startup. Code review quickly became
+                our biggest bottleneck—especially as we started using AI to code
+                more. We had more PRs to review, subtle AI-written bugs slipped
+                through unnoticed, and we (humans) increasingly found ourselves
+                rubber-stamping PRs without deeply understanding the changes.
+              </p>
+              <p>
+                We’re building mrge to help solve that. Here’s how it works:
+              </p>
+              <p>
+                1. Connect your GitHub repo in two clicks (and optionally
+                download our desktop app). Gitlab support is on the roadmap!
+              </p>
+              <p>
+                2. AI Review: When you open a PR, our AI reviews your changes
+                directly in an ephemeral and secure container. It has context
+                into not just that PR, but your whole codebase, so it can pick
+                up patterns and leave comments directly on changed lines. Once
+                the review is done, the sandbox is torn down and your code
+                deleted – we don’t store it for obvious reasons.
+              </p>
+              <p>
+                3. Human-friendly review workflow: Jump into our web app (it’s
+                like Linear but for PRs). Changes are grouped logically (not
+                alphabetically), with important diffs highlighted, visualized,
+                and ready for faster human review.
+              </p>
+              <p>
+                The AI reviewer works a bit like Cursor in the sense that it
+                navigates your codebase using the same tools a developer
+                would—like jumping to definitions or grepping through code.
+              </p>
+              <p>
+                But a big challenge was that, unlike Cursor, mrge doesn’t run in
+                your local IDE or editor. We had to recreate something similar
+                entirely in the cloud.
+              </p>
+              <p>
+                Whenever you open a PR, mrge clones your repository and checks
+                out your branch in a secure and isolated temporary sandbox. We
+                provision this sandbox with shell access and a Language Server
+                Protocol (LSP) server. The AI reviewer then reviews your code,
+                navigating the codebase exactly as a human reviewer would—using
+                shell commands and common editor features like "go to
+                definition" or "find references". When the review finishes, we
+                immediately tear down the sandbox and delete the code—we don’t
+                want to permanently store it for obvious reasons.
+              </p>
+              <p>
+                We know cloud-based review isn't for everyone, especially if
+                security or compliance requires local deployments. But a cloud
+                approach lets us run SOTA AI models without local GPU setups,
+                and provide a consistent, single AI review per PR for an entire
+                team.
+              </p>
+              <p>
+                The platform itself focuses entirely on making <i>human</i> code
+                reviews easier. A big inspiration came from productivity-focused
+                apps like Linear or Superhuman, products that show just how much
+                thoughtful design can impact everyday workflows. We wanted to
+                bring that same feeling into code review.
+              </p>
+              <p>
+                That’s one reason we built a desktop app. It allowed us to
+                deliver a more polished experience, complete with keyboard
+                shortcuts and a snappy interface.
+              </p>
+              <p>
+                Beyond performance, the main thing we care about is making it
+                easier for humans to read and understand code. For example,
+                traditional review tools sort changed files alphabetically—which
+                forces reviewers to figure out the order in which they should
+                review changes. In mrge, files are automatically grouped and
+                ordered based on logical connections, letting reviewers
+                immediately jump in.
+              </p>
+              <p>
+                We think the future of coding isn’t about AI replacing
+                humans—it’s about giving us better tools to quickly understand
+                high-level changes, abstracting more and more of the code
+                itself. As code volume continues to increase, this shift is
+                going to become increasingly important.
+              </p>
+              <p>
+                You can sign up now (<a href="https://www.mrge.io/home"
+                  >https://www.mrge.io/home</a
+                >). mrge is currently free while we're still early. Our plan for
+                later is to charge closed-source projects on a per-seat basis,
+                and to continue giving mrge away for free to open source ones.
+              </p>
+              <p>
+                We’re very actively building and would love your honest
+                feedback!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43692390">
           <h3>
             <a
@@ -142,11 +312,11 @@
             <h4>
               <span>2025-04-15 @ 13:26:59</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43692390"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -163,11 +333,30 @@
             <h4>
               <span>2025-04-15 @ 13:10:41</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43692165"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43691856">
+          <h3>
+            <a class="item" href="https://borretti.me/article/two-years-of-rust"
+              >Two Years of Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-15 @ 12:38:54</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43691856"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -185,11 +374,11 @@
             <h4>
               <span>2025-04-15 @ 10:55:41</span
               ><span class="points-container"
-                >Points: <span class="points">307</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43691142"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 171</span></span
               >
             </h4>
           </section>
@@ -204,11 +393,11 @@
             <h4>
               <span>2025-04-15 @ 10:17:17</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43690955"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -245,7 +434,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43689178"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
             <div class="text">
@@ -296,11 +485,11 @@
             <h4>
               <span>2025-04-15 @ 03:12:55</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43688658"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -317,11 +506,11 @@
             <h4>
               <span>2025-04-14 @ 23:43:56</span
               ><span class="points-container"
-                >Points: <span class="points">241</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43687495"
                   >Comments</a
-                ><span class="descendants">: 442</span></span
+                ><span class="descendants">: 458</span></span
               >
             </h4>
           </section>
@@ -334,33 +523,11 @@
             <h4>
               <span>2025-04-14 @ 22:22:52</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43686936"
                   >Comments</a
                 ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43686773">
-          <h3>
-            <a
-              class="item"
-              href="https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025"
-              >Intel sells 51% stake in Altera to private equity firm on a
-              $8.75B valuation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-14 @ 21:59:13</span
-              ><span class="points-container"
-                >Points: <span class="points">288</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43686773"
-                  >Comments</a
-                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -379,7 +546,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43684560"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -395,11 +562,11 @@
             <h4>
               <span>2025-04-14 @ 18:04:07</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43684286"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
             <div class="text">
@@ -442,30 +609,11 @@
             <h4>
               <span>2025-04-14 @ 17:43:32</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43684009"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43683641">
-          <h3>
-            <a class="item" href="https://podman-desktop.io/blog/podman-quadlet"
-              >Podman Quadlets with Podman Desktop</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-14 @ 17:16:51</span
-              ><span class="points-container"
-                >Points: <span class="points">167</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43683641"
-                  >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
@@ -480,7 +628,7 @@
             <h4>
               <span>2025-04-14 @ 17:01:45</span
               ><span class="points-container"
-                >Points: <span class="points">615</span></span
+                >Points: <span class="points">621</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43683410"
                   >Comments</a
@@ -501,30 +649,11 @@
             <h4>
               <span>2025-04-14 @ 15:03:10</span
               ><span class="points-container"
-                >Points: <span class="points">504</span></span
+                >Points: <span class="points">507</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43682088"
                   >Comments</a
                 ><span class="descendants">: 58</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43682006">
-          <h3>
-            <a class="item" href="https://sqlite-internal.pages.dev"
-              >SQLite File Format Viewer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-14 @ 14:55:57</span
-              ><span class="points-container"
-                >Points: <span class="points">248</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43682006"
-                  >Comments</a
-                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -542,11 +671,11 @@
             <h4>
               <span>2025-04-14 @ 13:52:58</span
               ><span class="points-container"
-                >Points: <span class="points">682</span></span
+                >Points: <span class="points">689</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43681287"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -563,11 +692,11 @@
             <h4>
               <span>2025-04-14 @ 13:18:19</span
               ><span class="points-container"
-                >Points: <span class="points">382</span></span
+                >Points: <span class="points">385</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43680957"
                   >Comments</a
-                ><span class="descendants">: 286</span></span
+                ><span class="descendants">: 290</span></span
               >
             </h4>
           </section>
@@ -589,49 +718,9 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43680899"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43680232">
-          <h3>
-            <a class="item" href="https://omnom.zone/?src=hn"
-              >Omnom: Self-hosted bookmarking with searchable, wysiwyg
-              snapshots</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-14 @ 11:42:13</span
-              ><span class="points-container"
-                >Points: <span class="points">188</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43680232"
-                  >Comments</a
-                ><span class="descendants">: 55</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                but the fast moving world of browser extensions made maintenance
-                (for a non-commercial free software side project) too expensive,
-                so the extension support became erratic, until it died
-                completely. for a year or two i didn't use it.
-              </p>
-              <p>
-                but then asked asciimo if he could have a look a the extensions
-                (since he was recently working on another extension, so had some
-                experience), he looked at it, and rewrote the whole thing in go
-                and fixed the extension. he even got support from nlnet/ngi0.
-              </p>
-              <p>
-                if you want to have your own self-hosted libre software
-                bookmarking service for you and your community, give it a go,
-                it's very simple, privacy respecting and most robust when it
-                comes to snapshotting. asciimoo did a great job.
-              </p>
-            </div>
           </section>
         </section>
         <section id="43678590">
@@ -642,11 +731,11 @@
             <h4>
               <span>2025-04-14 @ 06:27:48</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">281</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43678590"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -667,28 +756,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43678116"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43668986">
-          <h3>
-            <a
-              class="item"
-              href="http://toughsf.blogspot.com/2017/03/laser-launch-into-orbit.html"
-              >Laser Launch into Orbit</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-13 @ 00:16:34</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43668986"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -706,7 +774,7 @@
             <h4>
               <span>2025-04-12 @ 12:11:46</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43663713"
                   >Comments</a
@@ -727,11 +795,11 @@
             <h4>
               <span>2025-04-12 @ 06:48:19</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43661954"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -747,11 +815,11 @@
             <h4>
               <span>2025-04-12 @ 01:14:45</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43660419"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -768,11 +836,33 @@
             <h4>
               <span>2025-04-11 @ 17:26:49</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43656267"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43654893">
+          <h3>
+            <a
+              class="item"
+              href="https://nautil.us/one-of-the-most-egregious-ripoffs-in-the-history-of-science-238331/"
+              >One of the Most Egregious Ripoffs in the History of Science – The
+              Race to DNA</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-11 @ 15:23:35</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43654893"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -789,11 +879,11 @@
             <h4>
               <span>2025-04-11 @ 13:06:17</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43653322"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -810,7 +900,7 @@
             <h4>
               <span>2025-04-10 @ 17:34:40</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43646227"
                   >Comments</a
