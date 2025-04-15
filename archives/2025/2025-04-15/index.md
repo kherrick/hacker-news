@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
 * [2025-04-15, 19:46:14](https://news.ycombinator.com/item?id=43697532) - [Liquid: Language Models Are Scalable and Unified Multi-Modal Generators](https://foundationvision.github.io/Liquid/)
+* [2025-04-15, 19:36:48](https://news.ycombinator.com/item?id=43697445) - [Somehash: A Blurhash-Inspired Exploration](https://travisbumgarner.dev/blog/somehash)
 * [2025-04-15, 18:38:52](https://news.ycombinator.com/item?id=43696798) - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
 * [2025-04-15, 18:35:05](https://news.ycombinator.com/item?id=43696756) - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 * [2025-04-15, 18:17:06](https://news.ycombinator.com/item?id=43696544) - [METS, the Middle English Texts Series](https://metseditions.org)
@@ -21,6 +22,7 @@
 * [2025-04-15, 16:47:20](https://news.ycombinator.com/item?id=43695401) - [Benn Jordan's AI poison pill and the weird world of adversarial noise](https://cdm.link/benn-jordan-ai-poison-pill/)
 * [2025-04-15, 16:37:47](https://news.ycombinator.com/item?id=43695285) - [Fun ways of deciding authorship order](https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/)
 * [2025-04-15, 16:21:51](https://news.ycombinator.com/item?id=43695069) - [Show HN: I made a tool to send a letter now people use it to just print](https://www.pieterpost.com/)
+* [2025-04-15, 16:08:29](https://news.ycombinator.com/item?id=43694877) - [OpenAI is building a social network?](https://www.theverge.com/openai/648130/openai-social-network-x-competitor)
 * [2025-04-15, 15:56:18](https://news.ycombinator.com/item?id=43694681) - [JSX over the Wire](https://overreacted.io/jsx-over-the-wire/)
 * [2025-04-15, 15:48:59](https://news.ycombinator.com/item?id=43694549) - [Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
 * [2025-04-15, 15:48:41](https://news.ycombinator.com/item?id=43694546) - [Cohere Launches Embed 4](https://cohere.com/blog/embed-4)
