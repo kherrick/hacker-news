@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-16, 21:05:16",
-      "https://news.ycombinator.com/item?id=43710382"
-    ],
-    [
-      "Classifying aviation-related posts on Hacker News with SLMs",
-      "https://www.skysight.inc/blog/hacker-news-aviation"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 21:00:11",
       "https://news.ycombinator.com/item?id=43710330"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43709770"
     ],
     [
-      "Man who built ISP instead of paying Comcast $50K expands to hundreds of homes",
+      "Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)",
       "https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/"
     ]
   ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2025-04-16, 13:57:42",
+      "https://news.ycombinator.com/item?id=43705632"
+    ],
+    [
+      "Reproducing Hacker News writing style fingerprinting",
+      "https://antirez.com/news/150"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 13:19:46",
       "https://news.ycombinator.com/item?id=43705144"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=43676254"
     ],
     [
-      "You're Probably Breaking the Llama Community License",
+      "Breaking the Llama Community License",
       "https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/"
     ]
   ],
