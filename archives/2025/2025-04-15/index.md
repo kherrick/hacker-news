@@ -6,6 +6,7 @@
 
 * [2025-04-15, 23:51:33](https://news.ycombinator.com/item?id=43699816) - [Mark Zuckerberg's failed negotiations with the FTC to end Meta's antitrust case](https://www.wsj.com/us-news/law/mark-zuckerberg-meta-antitrust-ftc-negotiations-a53b3382)
 * [2025-04-15, 22:50:37](https://news.ycombinator.com/item?id=43699371) - [OpenAI announces nonprofit commission advisors](https://openai.com/index/nonprofit-commission-advisors/)
+* [2025-04-15, 22:38:04](https://news.ycombinator.com/item?id=43699271) - [12-factor Agents: Patterns of reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 * [2025-04-15, 22:26:35](https://news.ycombinator.com/item?id=43699188) - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
 * [2025-04-15, 21:46:45](https://news.ycombinator.com/item?id=43698801) - [Show HN: Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
 * [2025-04-15, 21:26:44](https://news.ycombinator.com/item?id=43698590) - [Show HN: Particle - News, Organized](https://apps.apple.com/us/app/particle-news/id6683283775)

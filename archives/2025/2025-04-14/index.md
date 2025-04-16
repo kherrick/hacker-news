@@ -34,6 +34,7 @@
 * [2025-04-14, 15:28:07](https://news.ycombinator.com/item?id=43682369) - [AES and ChaCha](https://phase.dev/blog/chacha-and-aes-simplicity-in-cryptography/)
 * [2025-04-14, 15:26:01](https://news.ycombinator.com/item?id=43682343) - [Virtual human – a living cadaver – pushes boundaries of anatomical science(2018)](https://news.cuanschutz.edu/news-stories/virtual-human-a-living-cadaver-pushes-boundaries-of-anatomical-science)
 * [2025-04-14, 15:03:10](https://news.ycombinator.com/item?id=43682088) - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
+* [2025-04-14, 14:57:25](https://news.ycombinator.com/item?id=43682030) - [Show HN: ActorCore – Stateful serverless framework that runs anywhere](https://github.com/rivet-gg/actor-core)
 * [2025-04-14, 14:55:57](https://news.ycombinator.com/item?id=43682006) - [SQLite File Format Viewer](https://sqlite-internal.pages.dev)
 * [2025-04-14, 14:54:51](https://news.ycombinator.com/item?id=43681990) - [Monte Carlo Crash Course: Sampling](https://thenumb.at/Sampling/)
 * [2025-04-14, 14:49:42](https://news.ycombinator.com/item?id=43681936) - [How to Bike Across the Country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
