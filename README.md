@@ -4,7 +4,6 @@
 * [2025-04-16, 17:05:31](https://news.ycombinator.com/item?id=43707768) - [Kaggle and the Wikimedia Foundation are partnering on open data](https://blog.google/technology/developers/kaggle-wikimedia/)
 * [2025-04-16, 17:01:54](https://news.ycombinator.com/item?id=43707719) - [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
 * [2025-04-16, 17:00:29](https://news.ycombinator.com/item?id=43707706) - [Hive.co (YC S14) Is Hiring a Head of Engineering](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468)
-* [2025-04-16, 16:26:06](https://news.ycombinator.com/item?id=43707308) - [Show HN: K(r)ep - A high-performance string search utility](https://github.com/davidesantangelo/krep)
 * [2025-04-16, 16:00:21](https://news.ycombinator.com/item?id=43707021) - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 * [2025-04-16, 15:30:59](https://news.ycombinator.com/item?id=43706706) - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
 * [2025-04-16, 15:18:57](https://news.ycombinator.com/item?id=43706586) - [Rust-IoT-Platform](https://github.com/iot-ecology/rust-iot-platform)
@@ -29,6 +28,7 @@
 * [2025-04-14, 14:57:25](https://news.ycombinator.com/item?id=43682030) - [Show HN: ActorCore – Stateful serverless framework that runs anywhere](https://github.com/rivet-gg/actor-core)
 * [2025-04-14, 14:12:43](https://news.ycombinator.com/item?id=43681521) - [Elephant in Cairo (Byte Magazine, 1989)](https://www-users.york.ac.uk/~ss44/joke/elephant.htm)
 * [2025-04-14, 08:25:25](https://news.ycombinator.com/item?id=43679219) - [The API Churn/Security Trade-Off (2016)](https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html)
+* [2025-04-14, 07:26:46](https://news.ycombinator.com/item?id=43678909) - [Fun with -fsanitize=undefined and Picolibc](https://keithp.com/blogs/sanitizer-fun/)
 * [2025-04-14, 01:02:41](https://news.ycombinator.com/item?id=43677122) - [Fibonacci Hashing: The Optimization That the World Forgot](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 
 ## [Archives](archives/index.md)
