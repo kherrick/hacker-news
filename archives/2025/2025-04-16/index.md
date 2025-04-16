@@ -30,6 +30,7 @@
 * [2025-04-16, 13:58:36](https://news.ycombinator.com/item?id=43705649) - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 * [2025-04-16, 13:57:42](https://news.ycombinator.com/item?id=43705632) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
 * [2025-04-16, 13:27:22](https://news.ycombinator.com/item?id=43705252) - [Belgian teens arrested with 5k smuggled ants](https://www.cnn.com/2025/04/16/africa/ants-smuggling-kenya-teens-arrested-intl/index.html)
+* [2025-04-16, 13:21:18](https://news.ycombinator.com/item?id=43705174) - [Onfim's World: Child artists in history](https://resobscura.substack.com/p/onfims-world-medieval-child-artists)
 * [2025-04-16, 13:19:46](https://news.ycombinator.com/item?id=43705144) - [Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)](https://github.com/onkernel/kernel-images)
 * [2025-04-16, 13:11:12](https://news.ycombinator.com/item?id=43705065) - [Launch HN: Jasmine (YC S22) – Automating REC compliance and payouts for solar](https://news.ycombinator.com/item?id=43705065)
 * [2025-04-16, 13:00:38](https://news.ycombinator.com/item?id=43704951) - [Spotify Down](https://community.spotify.com/t5/Ongoing-Issues/Downtime-April-16th-App-and-website-not-loading/idi-p/6922020)

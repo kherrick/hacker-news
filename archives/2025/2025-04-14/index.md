@@ -62,6 +62,7 @@
 * [2025-04-14, 11:11:29](https://news.ycombinator.com/item?id=43680039) - [She was chatting with friends in a Lyft. Then someone texted her what they said](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106)
 * [2025-04-14, 10:52:52](https://news.ycombinator.com/item?id=43679943) - [Zotero Fullscreen Mode by Script](https://github.com/windingwind/zotero-actions-tags/discussions/385)
 * [2025-04-14, 10:48:50](https://news.ycombinator.com/item?id=43679918) - [Adding Structured Data to a Rails Application](https://avohq.io/blog/structured-data-rails)
+* [2025-04-14, 10:31:52](https://news.ycombinator.com/item?id=43679831) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [2025-04-14, 10:20:42](https://news.ycombinator.com/item?id=43679781) - [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
 * [2025-04-14, 10:06:33](https://news.ycombinator.com/item?id=43679707) - [Zig's new LinkedList API (it's time to learn fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 08:25:25](https://news.ycombinator.com/item?id=43679219) - [The API Churn/Security Trade-Off (2016)](https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html)
