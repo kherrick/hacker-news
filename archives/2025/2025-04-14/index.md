@@ -62,6 +62,7 @@
 * [2025-04-14, 10:48:50](https://news.ycombinator.com/item?id=43679918) - [Adding Structured Data to a Rails Application](https://avohq.io/blog/structured-data-rails)
 * [2025-04-14, 10:20:42](https://news.ycombinator.com/item?id=43679781) - [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
 * [2025-04-14, 10:06:33](https://news.ycombinator.com/item?id=43679707) - [Zig's new LinkedList API (it's time to learn fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
+* [2025-04-14, 08:25:25](https://news.ycombinator.com/item?id=43679219) - [The API Churn/Security Trade-Off (2016)](https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html)
 * [2025-04-14, 07:47:18](https://news.ycombinator.com/item?id=43679004) - [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
 * [2025-04-14, 07:43:12](https://news.ycombinator.com/item?id=43678988) - [The Whimsical Investor](https://fi-le.net/stonks/)
 * [2025-04-14, 07:27:27](https://news.ycombinator.com/item?id=43678914) - [Engineers Who Won't Commit](https://www.seangoedecke.com/taking-a-position/)
