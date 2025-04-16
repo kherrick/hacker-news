@@ -67,6 +67,7 @@
 * [2025-04-14, 05:05:45](https://news.ycombinator.com/item?id=43678231) - [A Passion for Fruit](https://archaeology.org/collection/a-passion-for-fruit/)
 * [2025-04-14, 04:45:21](https://news.ycombinator.com/item?id=43678123) - [Wiz's $32B GTM Playbook: Unpacking the Formula (Part I)](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
 * [2025-04-14, 04:42:53](https://news.ycombinator.com/item?id=43678116) - [In Its Purest Form](https://lareviewofbooks.org/article/in-its-purest-form/)
+* [2025-04-14, 04:22:50](https://news.ycombinator.com/item?id=43678023) - [How I Use Audio Journaling and AI to Improve My Trading Decisions](https://www.fractiz.com/how-i-use-audio-journaling-and-ai-to-improve-my-trading-decisions/)
 * [2025-04-14, 03:52:56](https://news.ycombinator.com/item?id=43677917) - [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
 * [2025-04-14, 03:51:55](https://news.ycombinator.com/item?id=43677909) - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
 * [2025-04-14, 02:42:27](https://news.ycombinator.com/item?id=43677610) - [Show HN: Nissan's Leaf App Doesn't Have a Home Screen Widget So I Made My Own](https://kevintechnology.com/posts/leaf-widget/)
