@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
 * [2025-04-16, 12:40:41](https://news.ycombinator.com/item?id=43704691) - [Get Out of My Head](https://getoutofmyhead.dev/)
+* [2025-04-16, 12:33:33](https://news.ycombinator.com/item?id=43704596) - [Nintendo Bled Atari Games to Death](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/)
+* [2025-04-16, 12:25:30](https://news.ycombinator.com/item?id=43704503) - [KIP-1150: Diskless Kafka Topics](https://cwiki.apache.org/confluence/display/KAFKA/KIP-1150%3A+Diskless+Topics)
 * [2025-04-16, 12:23:04](https://news.ycombinator.com/item?id=43704481) - [Russian Breach of US Data Through Doge over Starlink \"Directly to Russia\"](https://www.narativ.org/p/whistle-blower-russian-breach-of)
 * [2025-04-16, 12:16:35](https://news.ycombinator.com/item?id=43704430) - [CVE Foundation Launched to Secure the Future of the CVE Program](https://www.thecvefoundation.org/home)
 * [2025-04-16, 12:01:11](https://news.ycombinator.com/item?id=43704286) - [Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends](https://www.streak.com/careers/staff-ui-engineer)
@@ -12,6 +14,7 @@
 * [2025-04-16, 10:59:29](https://news.ycombinator.com/item?id=43703812) - [Anonymous Release 10TB Leaked Data Exposing Kremlin Assets, Russian Businesses](https://trendsnewsline.com/2025/04/15/anonymous-leaks-10tb-of-data-on-russia-shocking-revelations/)
 * [2025-04-16, 10:39:13](https://news.ycombinator.com/item?id=43703682) - [A Postmortem of a Startup](https://buildwithtract.com/)
 * [2025-04-16, 10:26:00](https://news.ycombinator.com/item?id=43703623) - [An Introduction to Stochastic Calculus](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/)
+* [2025-04-16, 09:57:39](https://news.ycombinator.com/item?id=43703454) - [Global, distributed and backwards compatible CVE alternative launched by CERT](https://gcve.eu/)
 * [2025-04-16, 06:39:09](https://news.ycombinator.com/item?id=43702201) - [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)
 * [2025-04-16, 06:03:26](https://news.ycombinator.com/item?id=43701988) - [A puzzle of two unreliable sensors](https://jacobbrazeal.wordpress.com/2025/04/16/the-puzzle-of-two-unreliable-sensors/)
 * [2025-04-16, 02:45:41](https://news.ycombinator.com/item?id=43700888) - [Archeology of React (2016)](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
