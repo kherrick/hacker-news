@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-16, 13:27:22](https://news.ycombinator.com/item?id=43705252) - [Belgian teens arrested with 5k smuggled ants](https://www.cnn.com/2025/04/16/africa/ants-smuggling-kenya-teens-arrested-intl/index.html)
-* [2025-04-16, 13:00:38](https://news.ycombinator.com/item?id=43704951) - [Spotify Down](https://community.spotify.com/t5/Ongoing-Issues/Downtime-April-16th-App-and-website-not-loading/idi-p/6922020)
+* [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids – making reading easier](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 12:52:27](https://news.ycombinator.com/item?id=43704853) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
 * [2025-04-16, 12:33:33](https://news.ycombinator.com/item?id=43704596) - [Nintendo Bled Atari Games to Death](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/)
 * [2025-04-16, 12:32:34](https://news.ycombinator.com/item?id=43704579) - [JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier](https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/)
@@ -23,6 +22,7 @@
 * [2025-04-14, 16:24:28](https://news.ycombinator.com/item?id=43683012) - [Cursor IDE support hallucinates lockout policy, causes user cancellations](https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/)
 * [2025-04-14, 14:21:36](https://news.ycombinator.com/item?id=43681658) - [Canadian math prodigy allegedly stole $65M in crypto](https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/)
 * [2025-04-14, 13:36:59](https://news.ycombinator.com/item?id=43681132) - [A protein folding mystery solved: Study explains core packing fractions](https://phys.org/news/2025-03-protein-mystery-core-fractions.html)
+* [2025-04-14, 10:20:42](https://news.ycombinator.com/item?id=43679781) - [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
 * [2025-04-14, 07:26:46](https://news.ycombinator.com/item?id=43678909) - [Fun with -fsanitize=undefined and Picolibc](https://keithp.com/blogs/sanitizer-fun/)
 * [2025-04-14, 01:02:41](https://news.ycombinator.com/item?id=43677122) - [Fibonacci Hashing: The Optimization That the World Forgot](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 * [2025-04-13, 16:57:50](https://news.ycombinator.com/item?id=43674159) - [Significant performance improvements with Edge 134](https://blogs.windows.com/msedgedev/2025/04/10/significant-performance-improvements-with-edge-134/)

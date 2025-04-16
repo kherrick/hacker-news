@@ -6,6 +6,7 @@
 
 * [2025-04-16, 13:27:22](https://news.ycombinator.com/item?id=43705252) - [Belgian teens arrested with 5k smuggled ants](https://www.cnn.com/2025/04/16/africa/ants-smuggling-kenya-teens-arrested-intl/index.html)
 * [2025-04-16, 13:00:38](https://news.ycombinator.com/item?id=43704951) - [Spotify Down](https://community.spotify.com/t5/Ongoing-Issues/Downtime-April-16th-App-and-website-not-loading/idi-p/6922020)
+* [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids – making reading easier](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 12:52:27](https://news.ycombinator.com/item?id=43704853) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
 * [2025-04-16, 12:40:41](https://news.ycombinator.com/item?id=43704691) - [Get Out of My Head](https://getoutofmyhead.dev/)
 * [2025-04-16, 12:33:33](https://news.ycombinator.com/item?id=43704596) - [Nintendo Bled Atari Games to Death](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/)
