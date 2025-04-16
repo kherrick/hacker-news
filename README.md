@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-16, 21:05:16](https://news.ycombinator.com/item?id=43710382) - [Classifying aviation-related posts on Hacker News with SLMs](https://www.skysight.inc/blog/hacker-news-aviation)
+* [2025-04-16, 21:00:11](https://news.ycombinator.com/item?id=43710330) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-04-16, 20:06:50](https://news.ycombinator.com/item?id=43709770) - [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
 * [2025-04-16, 18:55:12](https://news.ycombinator.com/item?id=43709042) - [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
 * [2025-04-16, 18:24:43](https://news.ycombinator.com/item?id=43708726) - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
@@ -8,7 +10,6 @@
 * [2025-04-16, 17:09:18](https://news.ycombinator.com/item?id=43707805) - [The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility](https://markbessey.blog/2025/04/14/a-blast-from-the-past/)
 * [2025-04-16, 17:05:31](https://news.ycombinator.com/item?id=43707768) - [Kaggle and the Wikimedia Foundation are partnering on open data](https://blog.google/technology/developers/kaggle-wikimedia/)
 * [2025-04-16, 17:01:54](https://news.ycombinator.com/item?id=43707719) - [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
-* [2025-04-16, 17:00:29](https://news.ycombinator.com/item?id=43707706) - [Hive.co (YC S14) Is Hiring a Head of Engineering](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468)
 * [2025-04-16, 16:00:21](https://news.ycombinator.com/item?id=43707021) - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 * [2025-04-16, 15:30:59](https://news.ycombinator.com/item?id=43706706) - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
 * [2025-04-16, 14:43:47](https://news.ycombinator.com/item?id=43706210) - [How to Optimize Rust for Slowness: Inspired by New Turing Machine Results](https://medium.com/@carlmkadie/how-to-optimize-your-rust-program-for-slowness-eb2c1a64d184)
@@ -26,10 +27,9 @@
 * [2025-04-15, 15:09:22](https://news.ycombinator.com/item?id=43693900) - [TLS certificate lifetimes will officially reduce to 47 days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
 * [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
 * [2025-04-15, 08:22:59](https://news.ycombinator.com/item?id=43690289) - [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)
-* [2025-04-14, 14:12:43](https://news.ycombinator.com/item?id=43681521) - [Elephant in Cairo (Byte Magazine, 1989)](https://www-users.york.ac.uk/~ss44/joke/elephant.htm)
 * [2025-04-14, 10:31:52](https://news.ycombinator.com/item?id=43679831) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
-* [2025-04-14, 08:25:25](https://news.ycombinator.com/item?id=43679219) - [The API Churn/Security Trade-Off (2016)](https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html)
 * [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [You're Probably Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
+* [2025-04-12, 22:12:19](https://news.ycombinator.com/item?id=43668312) - [The value of a dedicated data science approach in HR](https://gorelik.net/2024/10/20/the-value-of-a-dedicated-data-science-approach-in-hr/)
 
 ## [Archives](archives/index.md)
 

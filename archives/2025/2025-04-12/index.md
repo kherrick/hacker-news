@@ -9,6 +9,7 @@
 * [2025-04-12, 23:10:40](https://news.ycombinator.com/item?id=43668661) - [P2Panda: Building blocks for peer-to-peer applications](https://p2panda.org/)
 * [2025-04-12, 22:32:19](https://news.ycombinator.com/item?id=43668433) - [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
 * [2025-04-12, 22:15:56](https://news.ycombinator.com/item?id=43668333) - [Battle of the Mallocators](http://smalldatum.blogspot.com/2025/04/battle-of-mallocators.html)
+* [2025-04-12, 22:12:19](https://news.ycombinator.com/item?id=43668312) - [The value of a dedicated data science approach in HR](https://gorelik.net/2024/10/20/the-value-of-a-dedicated-data-science-approach-in-hr/)
 * [2025-04-12, 22:10:35](https://news.ycombinator.com/item?id=43668290) - [YAML: The Norway Problem (2022)](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
 * [2025-04-12, 22:02:58](https://news.ycombinator.com/item?id=43668250) - [WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser](https://webtui.ironclad.sh)
 * [2025-04-12, 21:50:39](https://news.ycombinator.com/item?id=43668192) - [I ditched my laptop for a pocketable mini PC and a pair of AR glasses](https://www.tomsguide.com/computing/i-ditched-my-laptop-for-a-pocketable-mini-pc-and-a-pair-of-ar-glasses-heres-what-happened)
