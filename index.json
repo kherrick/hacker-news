@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-15, 23:51:33",
+      "https://news.ycombinator.com/item?id=43699816"
+    ],
+    [
+      "Mark Zuckerberg's failed negotiations with the FTC to end Meta's antitrust case",
+      "https://www.wsj.com/us-news/law/mark-zuckerberg-meta-antitrust-ftc-negotiations-a53b3382"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 22:26:35",
       "https://news.ycombinator.com/item?id=43699188"
     ],
@@ -11,42 +21,32 @@
   ],
   [
     [
+      "2025-04-15, 21:46:45",
+      "https://news.ycombinator.com/item?id=43698801"
+    ],
+    [
+      "Show HN: Torque – A lightweight meta-assembler for any processor",
+      "https://benbridle.com/projects/torque.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 21:26:44",
+      "https://news.ycombinator.com/item?id=43698590"
+    ],
+    [
+      "Show HN: Particle - News, Organized",
+      "https://apps.apple.com/us/app/particle-news/id6683283775"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 19:46:14",
       "https://news.ycombinator.com/item?id=43697532"
     ],
     [
       "Liquid: Language models are scalable and unified multi-modal generators",
       "https://foundationvision.github.io/Liquid/"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 19:36:48",
-      "https://news.ycombinator.com/item?id=43697445"
-    ],
-    [
-      "Somehash: A Blurhash-Inspired Exploration",
-      "https://travisbumgarner.dev/blog/somehash"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 18:38:52",
-      "https://news.ycombinator.com/item?id=43696798"
-    ],
-    [
-      "Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer",
-      "https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 18:35:05",
-      "https://news.ycombinator.com/item?id=43696756"
-    ],
-    [
-      "What the hell is a target triple?",
-      "https://mcyoung.xyz/2025/04/14/target-triples/"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "Show HN: Resonate – real-time high temporal resolution spectral analysis",
       "https://alexandrefrancois.org/Resonate/"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 14:38:58",
+      "https://news.ycombinator.com/item?id=43693406"
+    ],
+    [
+      "MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios",
+      "https://github.com/ripplebiz/MeshCore"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2025-04-12, 08:20:25",
+      "https://news.ycombinator.com/item?id=43662462"
+    ],
+    [
+      "What does it mean for a technology to follow Wright's Law?",
+      "https://ourworldindata.org/learning-curve"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 07:56:52",
       "https://news.ycombinator.com/item?id=43662339"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-04-12, 06:48:19",
-      "https://news.ycombinator.com/item?id=43661954"
-    ],
-    [
-      "How many supernova explode every year?",
-      "https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 22:43:55",
       "https://news.ycombinator.com/item?id=43659496"
     ],
     [
       "Amazfit activity tracker and watch face asset generation",
       "https://blog.gingerbeardman.com/2025/04/11/amazfit-activity-tracker-and-watch-face-asset-generation/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 12:41:36",
-      "https://news.ycombinator.com/item?id=43653129"
-    ],
-    [
-      "Unusual Shop Tips [video]",
-      "https://www.youtube.com/watch?v=OuZjjActWmQ"
     ]
   ]
 ]
