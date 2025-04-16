@@ -75,6 +75,7 @@
 * [2025-04-14, 03:51:55](https://news.ycombinator.com/item?id=43677909) - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
 * [2025-04-14, 02:42:27](https://news.ycombinator.com/item?id=43677610) - [Show HN: Nissan's Leaf App Doesn't Have a Home Screen Widget So I Made My Own](https://kevintechnology.com/posts/leaf-widget/)
 * [2025-04-14, 01:48:15](https://news.ycombinator.com/item?id=43677365) - [Small Towns in Japan](https://japanstartshere.com/2020/04/06/small-towns-in-japan/)
+* [2025-04-14, 01:41:10](https://news.ycombinator.com/item?id=43677326) - [Calcium may have unlocked the origins of life's molecular asymmetry](https://www.sciencedaily.com/releases/2025/03/250327142001.htm)
 * [2025-04-14, 01:30:22](https://news.ycombinator.com/item?id=43677265) - [Calypso: LLMs as Dungeon Masters' Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
 * [2025-04-14, 01:25:57](https://news.ycombinator.com/item?id=43677232) - [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
 * [2025-04-14, 01:18:06](https://news.ycombinator.com/item?id=43677196) - [$3 Trader Joe's tote bags resell for more than $1,500](https://qz.com/trader-joes-mini-canvas-tote-bags-easter-resale-1851775664)
