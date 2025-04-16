@@ -58,6 +58,7 @@
 * [2025-04-15, 11:17:02](https://news.ycombinator.com/item?id=43691268) - [JEP 506: Scoped Values final for Java 25](https://openjdk.org/jeps/506)
 * [2025-04-15, 10:55:41](https://news.ycombinator.com/item?id=43691142) - [Whistleblower details how DOGE may have taken sensitive NLRB data](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security)
 * [2025-04-15, 10:17:17](https://news.ycombinator.com/item?id=43690955) - [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
+* [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
 * [2025-04-15, 09:34:01](https://news.ycombinator.com/item?id=43690732) - [Understanding US Power Outages – By Brian Potter](https://www.construction-physics.com/p/understanding-us-power-outages)
 * [2025-04-15, 08:22:59](https://news.ycombinator.com/item?id=43690289) - [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)
 * [2025-04-15, 08:06:18](https://news.ycombinator.com/item?id=43690184) - [EC issues burner phones for visits to US](https://www.theregister.com/2025/04/15/ec_burner_devices/)

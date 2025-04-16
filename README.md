@@ -23,13 +23,13 @@
 * [2025-04-16, 10:26:00](https://news.ycombinator.com/item?id=43703623) - [An Introduction to Stochastic Calculus (2022)](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/)
 * [2025-04-15, 22:38:04](https://news.ycombinator.com/item?id=43699271) - [12-factor Agents: Patterns of reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 * [2025-04-15, 15:09:22](https://news.ycombinator.com/item?id=43693900) - [TLS certificate lifetimes will officially reduce to 47 days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
+* [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
 * [2025-04-15, 08:22:59](https://news.ycombinator.com/item?id=43690289) - [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)
+* [2025-04-14, 21:47:32](https://news.ycombinator.com/item?id=43686680) - [The Business of the AI Labs](http://blog.omega-prime.co.uk/2025/04/11/ai-lab-business/)
 * [2025-04-14, 15:26:01](https://news.ycombinator.com/item?id=43682343) - [Virtual human – a living cadaver – pushes boundaries of anatomical science(2018)](https://news.cuanschutz.edu/news-stories/virtual-human-a-living-cadaver-pushes-boundaries-of-anatomical-science)
 * [2025-04-14, 14:57:25](https://news.ycombinator.com/item?id=43682030) - [Show HN: ActorCore – Stateful serverless framework that runs anywhere](https://github.com/rivet-gg/actor-core)
 * [2025-04-14, 14:12:43](https://news.ycombinator.com/item?id=43681521) - [Elephant in Cairo (Byte Magazine, 1989)](https://www-users.york.ac.uk/~ss44/joke/elephant.htm)
 * [2025-04-14, 08:25:25](https://news.ycombinator.com/item?id=43679219) - [The API Churn/Security Trade-Off (2016)](https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html)
-* [2025-04-14, 07:26:46](https://news.ycombinator.com/item?id=43678909) - [Fun with -fsanitize=undefined and Picolibc](https://keithp.com/blogs/sanitizer-fun/)
-* [2025-04-14, 01:02:41](https://news.ycombinator.com/item?id=43677122) - [Fibonacci Hashing: The Optimization That the World Forgot](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 
 ## [Archives](archives/index.md)
 
