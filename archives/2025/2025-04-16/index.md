@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 16:26:06](https://news.ycombinator.com/item?id=43707308) - [Show HN: K(r)ep - A high-performance string search utility](https://github.com/davidesantangelo/krep)
+* [2025-04-16, 16:00:21](https://news.ycombinator.com/item?id=43707021) - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 * [2025-04-16, 15:30:59](https://news.ycombinator.com/item?id=43706706) - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
 * [2025-04-16, 15:18:57](https://news.ycombinator.com/item?id=43706586) - [Rust-IoT-Platform](https://github.com/iot-ecology/rust-iot-platform)
 * [2025-04-16, 15:12:07](https://news.ycombinator.com/item?id=43706530) - [Tell HN: Warning Google trains on your data when using aistudio.google.com](https://news.ycombinator.com/item?id=43706530)
