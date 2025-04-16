@@ -7,7 +7,6 @@
 * [2025-04-16, 18:24:43](https://news.ycombinator.com/item?id=43708726) - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
 * [2025-04-16, 18:23:00](https://news.ycombinator.com/item?id=43708707) - [Aerial Minesweeping (2021)](https://www.historynet.com/aerial-minesweeping/)
 * [2025-04-16, 17:24:50](https://news.ycombinator.com/item?id=43708025) - [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
-* [2025-04-16, 17:09:18](https://news.ycombinator.com/item?id=43707805) - [The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility](https://markbessey.blog/2025/04/14/a-blast-from-the-past/)
 * [2025-04-16, 17:01:54](https://news.ycombinator.com/item?id=43707719) - [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
 * [2025-04-16, 16:00:21](https://news.ycombinator.com/item?id=43707021) - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 * [2025-04-16, 15:30:59](https://news.ycombinator.com/item?id=43706706) - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
@@ -28,6 +27,7 @@
 * [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
 * [2025-04-15, 08:22:59](https://news.ycombinator.com/item?id=43690289) - [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)
 * [2025-04-14, 10:31:52](https://news.ycombinator.com/item?id=43679831) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+* [2025-04-14, 06:15:59](https://news.ycombinator.com/item?id=43678533) - [Query Engines: Push vs. Pull (2021)](https://justinjaffray.com/query-engines-push-vs.-pull/)
 * [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
 * [2025-04-13, 15:20:55](https://news.ycombinator.com/item?id=43673425) - [Tech workers are leaving notes in robot taxis seeking workers and lovers](https://www.washingtonpost.com/technology/2025/04/12/waymo-handwritten-notes-jobs-ads/)
 
