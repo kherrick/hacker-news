@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-16, 18:24:43](https://news.ycombinator.com/item?id=43708726) - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
-* [2025-04-16, 18:24:25](https://news.ycombinator.com/item?id=43708725) - [OpenAI in Talks to Buy Windsurf for About $3B](https://www.bloomberg.com/news/articles/2025-04-16/openai-said-to-be-in-talks-to-buy-windsurf-for-about-3-billion)
 * [2025-04-16, 18:23:00](https://news.ycombinator.com/item?id=43708707) - [Aerial Minesweeping (2021)](https://www.historynet.com/aerial-minesweeping/)
 * [2025-04-16, 17:09:18](https://news.ycombinator.com/item?id=43707805) - [The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility](https://markbessey.blog/2025/04/14/a-blast-from-the-past/)
 * [2025-04-16, 17:05:31](https://news.ycombinator.com/item?id=43707768) - [Kaggle and the Wikimedia Foundation are partnering on open data](https://blog.google/technology/developers/kaggle-wikimedia/)
@@ -29,6 +28,7 @@
 * [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
 * [2025-04-15, 08:22:59](https://news.ycombinator.com/item?id=43690289) - [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)
 * [2025-04-14, 21:47:32](https://news.ycombinator.com/item?id=43686680) - [The Business of the AI Labs](http://blog.omega-prime.co.uk/2025/04/11/ai-lab-business/)
+* [2025-04-14, 14:12:43](https://news.ycombinator.com/item?id=43681521) - [Elephant in Cairo (Byte Magazine, 1989)](https://www-users.york.ac.uk/~ss44/joke/elephant.htm)
 * [2025-04-14, 08:25:25](https://news.ycombinator.com/item?id=43679219) - [The API Churn/Security Trade-Off (2016)](https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html)
 
 ## [Archives](archives/index.md)
