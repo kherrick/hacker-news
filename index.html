@@ -140,7 +140,7 @@
             <h4>
               <span>2025-04-16 @ 21:26:42</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43710576"
                   >Comments</a
@@ -276,11 +276,11 @@
             <h4>
               <span>2025-04-16 @ 20:06:50</span
               ><span class="points-container"
-                >Points: <span class="points">199</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43709770"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -357,11 +357,11 @@
             <h4>
               <span>2025-04-16 @ 17:24:50</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43708025"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -400,11 +400,11 @@
             <h4>
               <span>2025-04-16 @ 17:01:54</span
               ><span class="points-container"
-                >Points: <span class="points">366</span></span
+                >Points: <span class="points">368</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43707719"
                   >Comments</a
-                ><span class="descendants">: 336</span></span
+                ><span class="descendants">: 340</span></span
               >
             </h4>
           </section>
@@ -421,7 +421,7 @@
             <h4>
               <span>2025-04-16 @ 16:00:21</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43707021"
                   >Comments</a
@@ -442,7 +442,7 @@
             <h4>
               <span>2025-04-16 @ 15:30:59</span
               ><span class="points-container"
-                >Points: <span class="points">284</span></span
+                >Points: <span class="points">287</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43706706"
                   >Comments</a
@@ -464,11 +464,11 @@
             <h4>
               <span>2025-04-16 @ 14:28:36</span
               ><span class="points-container"
-                >Points: <span class="points">276</span></span
+                >Points: <span class="points">279</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43706037"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -485,7 +485,7 @@
             <h4>
               <span>2025-04-16 @ 14:11:53</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43705824"
                   >Comments</a
@@ -506,7 +506,7 @@
             <h4>
               <span>2025-04-16 @ 14:09:22</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43705796"
                   >Comments</a
@@ -546,13 +546,78 @@
             <h4>
               <span>2025-04-16 @ 13:57:42</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43705632"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="43705144">
+          <h3>
+            <a class="item" href="https://github.com/onkernel/kernel-images"
+              >Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-16 @ 13:19:46</span
+              ><span class="points-container"
+                >Points: <span class="points">97</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43705144"
+                  >Comments</a
+                ><span class="descendants">: 33</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>- Chrome DevTools Protocol (for Playwright/Puppeteer)</p>
+              <p>- noVNC (for live view)</p>
+              <p>
+                We’ve been following the unikernel space for a while, so we
+                decided to see if we could get our image on one. We went with
+                Unikraft Cloud[1]. Here’s how it did:
+              </p>
+              <p>- Boot-up time: 10–20ms (vs. ~5s for Docker containers)</p>
+              <p>- Near 0 CPU/memory consumption when idle</p>
+              <p>- Still ~8GB RAM when active (headful Chromium)</p>
+              <p>Potential use cases:</p>
+              <p>
+                - Standby mode during long-running jobs: unikernels can sleep
+                after X sec of inactivity, reducing clock time costs
+              </p>
+              <p>
+                - Session reuse: auth/session cookies persist for hours/days.
+                Basically as long as the cookies are valid
+              </p>
+              <p>
+                - Cold start speed: good for low-latency, event-based handling
+              </p>
+              <p>
+                We open sourced it with Apache 2.0! Feel free to fork or submit
+                an issue / PR. Open to feedback or suggestions.
+                www.github.com/onkernel/kernel-images
+              </p>
+              <p>==</p>
+              <p>
+                [0]
+                <a href="https://github.com/onkernel/kernel-images"
+                  >https://github.com/onkernel/kernel-images</a
+                >
+              </p>
+              <p>
+                [1]
+                <a href="https://unikraft.cloud/">https://unikraft.cloud/</a>
+              </p>
+              <p>
+                [2] Thanks to the Unikraft Cloud team @fhuici @nderjung
+                @razvandeax for helping us figure this out (we're not
+                affiliated)
+              </p>
+              <p>[3] (OPs) @rgarcia @juecd</p>
+            </div>
           </section>
         </section>
         <section id="43705065">
@@ -662,11 +727,11 @@
             <h4>
               <span>2025-04-16 @ 12:57:13</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43704904"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -681,7 +746,7 @@
             <h4>
               <span>2025-04-16 @ 12:52:27</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43704853"
                   >Comments</a
@@ -702,7 +767,7 @@
             <h4>
               <span>2025-04-16 @ 12:33:33</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43704596"
                   >Comments</a
@@ -721,11 +786,11 @@
             <h4>
               <span>2025-04-16 @ 12:16:35</span
               ><span class="points-container"
-                >Points: <span class="points">231</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43704430"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -763,11 +828,11 @@
             <h4>
               <span>2025-04-15 @ 22:38:04</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43699271"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
             <div class="text">
@@ -824,11 +889,11 @@
             <h4>
               <span>2025-04-15 @ 15:09:22</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">326</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43693900"
                   >Comments</a
-                ><span class="descendants">: 470</span></span
+                ><span class="descendants">: 472</span></span
               >
             </h4>
           </section>
@@ -849,7 +914,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43690828"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -865,7 +930,7 @@
             <h4>
               <span>2025-04-15 @ 08:22:59</span
               ><span class="points-container"
-                >Points: <span class="points">854</span></span
+                >Points: <span class="points">858</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43690289"
                   >Comments</a
@@ -886,7 +951,7 @@
             <h4>
               <span>2025-04-14 @ 10:31:52</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43679831"
                   >Comments</a
@@ -929,32 +994,11 @@
             <h4>
               <span>2025-04-13 @ 15:20:55</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43673425"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43668312">
-          <h3>
-            <a
-              class="item"
-              href="https://gorelik.net/2024/10/20/the-value-of-a-dedicated-data-science-approach-in-hr/"
-              >The value of a dedicated data science approach in HR</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-12 @ 22:12:19</span
-              ><span class="points-container"
-                >Points: <span class="points">5</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43668312"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
