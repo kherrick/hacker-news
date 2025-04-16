@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-16, 06:39:09](https://news.ycombinator.com/item?id=43702201) - [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)
 * [2025-04-16, 02:45:41](https://news.ycombinator.com/item?id=43700888) - [Archeology of React (2016)](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
 * [2025-04-16, 02:01:46](https://news.ycombinator.com/item?id=43700633) - [Markov Chain Monte Carlo Without All the Bullshit (2015)](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [2025-04-16, 01:57:27](https://news.ycombinator.com/item?id=43700607) - [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
 * [2025-04-16, 01:01:11](https://news.ycombinator.com/item?id=43700232) - [Flexport (YC W14) is hiring software engineers](https://flexport.com)
 * [2025-04-15, 22:26:35](https://news.ycombinator.com/item?id=43699188) - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
 * [2025-04-15, 21:46:45](https://news.ycombinator.com/item?id=43698801) - [Show HN: Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
-* [2025-04-15, 19:46:14](https://news.ycombinator.com/item?id=43697532) - [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/)
 * [2025-04-15, 17:13:31](https://news.ycombinator.com/item?id=43695723) - [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
 * [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
