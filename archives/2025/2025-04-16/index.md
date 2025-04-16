@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 23:25:32](https://news.ycombinator.com/item?id=43711410) - [Seth Rogen Speaks Truth to Billionaires, Gets Censored for It](https://kottke.org/25/04/seth-rogan-speaks-truth-to-billionaires-gets-censored-for-it)
+* [2025-04-16, 23:20:31](https://news.ycombinator.com/item?id=43711376) - [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html)
 * [2025-04-16, 23:04:41](https://news.ycombinator.com/item?id=43711266) - [Former cybersecurity chief Chris Krebs leaves SentinelOne after executive order](https://www.cnbc.com/2025/04/16/former-cisa-chief-krebs-leaves-sentinelone-after-trump-exec-order.html)
 * [2025-04-16, 22:57:54](https://news.ycombinator.com/item?id=43711227) - [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
 * [2025-04-16, 22:34:53](https://news.ycombinator.com/item?id=43711089) - [When College Might Not Be Worth It](https://libertystreeteconomics.newyorkfed.org/2025/04/when-college-might-not-be-worth-it/)
