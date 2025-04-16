@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 21:26:42](https://news.ycombinator.com/item?id=43710576) - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
 * [2025-04-16, 21:05:16](https://news.ycombinator.com/item?id=43710382) - [Classifying aviation-related posts on Hacker News with SLMs](https://www.skysight.inc/blog/hacker-news-aviation)
 * [2025-04-16, 21:00:11](https://news.ycombinator.com/item?id=43710330) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-04-16, 20:06:50](https://news.ycombinator.com/item?id=43709770) - [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
