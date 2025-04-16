@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-16, 02:45:41](https://news.ycombinator.com/item?id=43700888) - [Archeology of React (2016)](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
 * [2025-04-16, 02:16:51](https://news.ycombinator.com/item?id=43700714) - [The physics of bowling strike after strike](https://arstechnica.com/science/2025/04/the-physics-of-bowling-strike-after-strike/)
 * [2025-04-16, 02:01:46](https://news.ycombinator.com/item?id=43700633) - [Markov Chain Monte Carlo Without All the Bullshit (2015)](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [2025-04-16, 01:57:27](https://news.ycombinator.com/item?id=43700607) - [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
@@ -27,7 +28,6 @@
 * [2025-04-14, 10:06:33](https://news.ycombinator.com/item?id=43679707) - [Zig's new LinkedList API (it's time to learn fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 04:22:50](https://news.ycombinator.com/item?id=43678023) - [How I use audio journaling and AI to improve my trading decisions](https://www.fractiz.com/how-i-use-audio-journaling-and-ai-to-improve-my-trading-decisions/)
 * [2025-04-12, 10:54:53](https://news.ycombinator.com/item?id=43663290) - [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
-* [2025-04-12, 08:20:25](https://news.ycombinator.com/item?id=43662462) - [What does it mean for a technology to follow Wright's Law?](https://ourworldindata.org/learning-curve)
 * [2025-04-12, 07:56:52](https://news.ycombinator.com/item?id=43662339) - [Fake images that fooled the world](https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world)
 * [2025-04-11, 23:28:50](https://news.ycombinator.com/item?id=43659814) - [A Ford executive who kept score of colleagues' verbal flubs](https://www.wsj.com/lifestyle/ford-motor-mike-obrien-malaprops-6e560520)
 
