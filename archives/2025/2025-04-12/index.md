@@ -59,6 +59,7 @@
 * [2025-04-12, 10:41:56](https://news.ycombinator.com/item?id=43663219) - [What a digital coup looks like [video]](https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like)
 * [2025-04-12, 09:05:32](https://news.ycombinator.com/item?id=43662686) - [The Bitter Prediction](https://4zm.org/2025/04/05/bitter-prediction.html)
 * [2025-04-12, 09:01:29](https://news.ycombinator.com/item?id=43662665) - [Shadertoys Ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/)
+* [2025-04-12, 08:20:25](https://news.ycombinator.com/item?id=43662462) - [What does it mean for a technology to follow Wright's Law?](https://ourworldindata.org/learning-curve)
 * [2025-04-12, 07:56:52](https://news.ycombinator.com/item?id=43662339) - [Fake images that fooled the world](https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world)
 * [2025-04-12, 07:43:47](https://news.ycombinator.com/item?id=43662263) - [AI used for skin cancer checks at London hospital](https://www.bbc.com/news/articles/czd3ygd7mrno)
 * [2025-04-12, 07:33:12](https://news.ycombinator.com/item?id=43662209) - [Why Microgravity Helps Crystals Grow Better](https://sparkgravity.com/journal/microgravity-crystals/)

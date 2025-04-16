@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-15, 23:51:33](https://news.ycombinator.com/item?id=43699816) - [Mark Zuckerberg's failed negotiations with the FTC to end Meta's antitrust case](https://www.wsj.com/us-news/law/mark-zuckerberg-meta-antitrust-ftc-negotiations-a53b3382)
 * [2025-04-15, 22:26:35](https://news.ycombinator.com/item?id=43699188) - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
+* [2025-04-15, 21:46:45](https://news.ycombinator.com/item?id=43698801) - [Show HN: Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
+* [2025-04-15, 21:26:44](https://news.ycombinator.com/item?id=43698590) - [Show HN: Particle - News, Organized](https://apps.apple.com/us/app/particle-news/id6683283775)
 * [2025-04-15, 19:46:14](https://news.ycombinator.com/item?id=43697532) - [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/)
-* [2025-04-15, 19:36:48](https://news.ycombinator.com/item?id=43697445) - [Somehash: A Blurhash-Inspired Exploration](https://travisbumgarner.dev/blog/somehash)
-* [2025-04-15, 18:38:52](https://news.ycombinator.com/item?id=43696798) - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
-* [2025-04-15, 18:35:05](https://news.ycombinator.com/item?id=43696756) - [What the hell is a target triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 * [2025-04-15, 18:17:06](https://news.ycombinator.com/item?id=43696544) - [METS, the Middle English Texts Series](https://metseditions.org)
 * [2025-04-15, 17:13:31](https://news.ycombinator.com/item?id=43695723) - [The case of the UI thread that hung in a kernel call](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066)
 * [2025-04-15, 17:04:47](https://news.ycombinator.com/item?id=43695620) - [Clolog](https://github.com/bobschrag/clolog)
@@ -15,6 +15,7 @@
 * [2025-04-15, 15:56:18](https://news.ycombinator.com/item?id=43694681) - [JSX over the Wire](https://overreacted.io/jsx-over-the-wire/)
 * [2025-04-15, 15:48:41](https://news.ycombinator.com/item?id=43694546) - [Cohere Launches Embed 4](https://cohere.com/blog/embed-4)
 * [2025-04-15, 15:26:13](https://news.ycombinator.com/item?id=43694157) - [Show HN: Resonate – real-time high temporal resolution spectral analysis](https://alexandrefrancois.org/Resonate/)
+* [2025-04-15, 14:38:58](https://news.ycombinator.com/item?id=43693406) - [MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios](https://github.com/ripplebiz/MeshCore)
 * [2025-04-15, 14:38:25](https://news.ycombinator.com/item?id=43693402) - [How to win an argument with a toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)
 * [2025-04-15, 14:33:10](https://news.ycombinator.com/item?id=43693326) - [Hacking the Postgres wire protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
 * [2025-04-15, 13:34:21](https://news.ycombinator.com/item?id=43692476) - [Launch HN: mrge.io (YC X25) – Cursor for code review](https://news.ycombinator.com/item?id=43692476)
@@ -26,10 +27,9 @@
 * [2025-04-14, 16:24:28](https://news.ycombinator.com/item?id=43683012) - [Cursor IDE support hallucinates lockout policy, causes user cancellations](https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/)
 * [2025-04-14, 14:21:36](https://news.ycombinator.com/item?id=43681658) - [Canadian math prodigy allegedly stole $65M in crypto](https://www.theglobeandmail.com/business/economy/article-math-prodigy-cryptocurrency-enforcement-united-states/)
 * [2025-04-12, 10:54:53](https://news.ycombinator.com/item?id=43663290) - [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
+* [2025-04-12, 08:20:25](https://news.ycombinator.com/item?id=43662462) - [What does it mean for a technology to follow Wright's Law?](https://ourworldindata.org/learning-curve)
 * [2025-04-12, 07:56:52](https://news.ycombinator.com/item?id=43662339) - [Fake images that fooled the world](https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world)
-* [2025-04-12, 06:48:19](https://news.ycombinator.com/item?id=43661954) - [How many supernova explode every year?](https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode)
 * [2025-04-11, 22:43:55](https://news.ycombinator.com/item?id=43659496) - [Amazfit activity tracker and watch face asset generation](https://blog.gingerbeardman.com/2025/04/11/amazfit-activity-tracker-and-watch-face-asset-generation/)
-* [2025-04-11, 12:41:36](https://news.ycombinator.com/item?id=43653129) - [Unusual Shop Tips [video]](https://www.youtube.com/watch?v=OuZjjActWmQ)
 
 ## [Archives](archives/index.md)
 
