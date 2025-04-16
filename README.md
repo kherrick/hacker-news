@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-16, 22:21:14](https://news.ycombinator.com/item?id=43711001) - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
 * [2025-04-16, 21:26:42](https://news.ycombinator.com/item?id=43710576) - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
 * [2025-04-16, 21:00:11](https://news.ycombinator.com/item?id=43710330) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-04-16, 20:06:50](https://news.ycombinator.com/item?id=43709770) - [Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
@@ -15,7 +16,6 @@
 * [2025-04-16, 14:09:22](https://news.ycombinator.com/item?id=43705796) - [Science, the Endless Frontier (1945) [pdf]](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf)
 * [2025-04-16, 13:58:36](https://news.ycombinator.com/item?id=43705649) - [Dirty tricks 6502 programmers use (2019)](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 * [2025-04-16, 13:57:42](https://news.ycombinator.com/item?id=43705632) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
-* [2025-04-16, 13:19:46](https://news.ycombinator.com/item?id=43705144) - [Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)](https://github.com/onkernel/kernel-images)
 * [2025-04-16, 13:11:12](https://news.ycombinator.com/item?id=43705065) - [Launch HN: Jasmine (YC S22) – Automating REC compliance and payouts for solar](https://news.ycombinator.com/item?id=43705065)
 * [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 12:52:27](https://news.ycombinator.com/item?id=43704853) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
