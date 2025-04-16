@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 12:40:41](https://news.ycombinator.com/item?id=43704691) - [Get Out of My Head](https://getoutofmyhead.dev/)
+* [2025-04-16, 12:23:04](https://news.ycombinator.com/item?id=43704481) - [Russian Breach of US Data Through Doge over Starlink \"Directly to Russia\"](https://www.narativ.org/p/whistle-blower-russian-breach-of)
+* [2025-04-16, 12:16:35](https://news.ycombinator.com/item?id=43704430) - [CVE Foundation Launched to Secure the Future of the CVE Program](https://www.thecvefoundation.org/home)
+* [2025-04-16, 12:01:11](https://news.ycombinator.com/item?id=43704286) - [Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends](https://www.streak.com/careers/staff-ui-engineer)
+* [2025-04-16, 11:19:14](https://news.ycombinator.com/item?id=43703949) - [European Union Vulnerability Database (EUVD)](https://euvd.enisa.europa.eu/)
 * [2025-04-16, 10:59:29](https://news.ycombinator.com/item?id=43703812) - [Anonymous Release 10TB Leaked Data Exposing Kremlin Assets, Russian Businesses](https://trendsnewsline.com/2025/04/15/anonymous-leaks-10tb-of-data-on-russia-shocking-revelations/)
 * [2025-04-16, 10:39:13](https://news.ycombinator.com/item?id=43703682) - [A Postmortem of a Startup](https://buildwithtract.com/)
 * [2025-04-16, 10:26:00](https://news.ycombinator.com/item?id=43703623) - [An Introduction to Stochastic Calculus](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/)

@@ -80,6 +80,7 @@
 * [2025-04-14, 01:18:06](https://news.ycombinator.com/item?id=43677196) - [$3 Trader Joe's tote bags resell for more than $1,500](https://qz.com/trader-joes-mini-canvas-tote-bags-easter-resale-1851775664)
 * [2025-04-14, 01:12:44](https://news.ycombinator.com/item?id=43677174) - [Local CI. Sign off on your own work](https://github.com/basecamp/gh-signoff)
 * [2025-04-14, 01:11:19](https://news.ycombinator.com/item?id=43677165) - [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
+* [2025-04-14, 01:02:41](https://news.ycombinator.com/item?id=43677122) - [Fibonacci Hashing: The Optimization That the World Forgot](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 * [2025-04-14, 00:51:42](https://news.ycombinator.com/item?id=43677067) - [New Vulnerability in GitHub Copilot, Cursor: Hackers Can Weaponize Code Agents](https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents)
 * [2025-04-14, 00:47:12](https://news.ycombinator.com/item?id=43677046) - [Cognitive abilities predict performance in everyday computer tasks](https://www.sciencedirect.com/science/article/pii/S107158192400137X)
 * [2025-04-14, 00:03:51](https://news.ycombinator.com/item?id=43676837) - [NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)
