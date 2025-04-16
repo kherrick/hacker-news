@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
 * [2025-04-16, 17:09:18](https://news.ycombinator.com/item?id=43707805) - [The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility](https://markbessey.blog/2025/04/14/a-blast-from-the-past/)
+* [2025-04-16, 17:05:31](https://news.ycombinator.com/item?id=43707768) - [Kaggle and the Wikimedia Foundation are partnering on open data](https://blog.google/technology/developers/kaggle-wikimedia/)
 * [2025-04-16, 17:01:54](https://news.ycombinator.com/item?id=43707719) - [OpenAI o3 and o4-mini – OpenAI](https://openai.com/index/introducing-o3-and-o4-mini/)
 * [2025-04-16, 17:00:29](https://news.ycombinator.com/item?id=43707706) - [Www.hive.co (YC S14) Is Hiring a Head of Engineering](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468)
 * [2025-04-16, 16:26:06](https://news.ycombinator.com/item?id=43707308) - [Show HN: K(r)ep - A high-performance string search utility](https://github.com/davidesantangelo/krep)
