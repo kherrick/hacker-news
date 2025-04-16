@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 20:06:50](https://news.ycombinator.com/item?id=43709770) - [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
 * [2025-04-16, 18:55:12](https://news.ycombinator.com/item?id=43709042) - [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
 * [2025-04-16, 18:24:43](https://news.ycombinator.com/item?id=43708726) - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
 * [2025-04-16, 18:24:25](https://news.ycombinator.com/item?id=43708725) - [OpenAI in Talks to Buy Windsurf for About $3B](https://www.bloomberg.com/news/articles/2025-04-16/openai-said-to-be-in-talks-to-buy-windsurf-for-about-3-billion)
