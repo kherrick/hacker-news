@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-16, 14:43:47](https://news.ycombinator.com/item?id=43706210) - [How to Optimize Rust for Slowness: Inspired by New Turing Machine Results](https://medium.com/@carlmkadie/how-to-optimize-your-rust-program-for-slowness-eb2c1a64d184)
 * [2025-04-16, 14:28:36](https://news.ycombinator.com/item?id=43706037) - [Darwin's Children Drew All over the \"On the Origin of Species\" Manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species)
 * [2025-04-16, 14:09:22](https://news.ycombinator.com/item?id=43705796) - [Science, the Endless Frontier (1945) [pdf]](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf)
 * [2025-04-16, 13:58:36](https://news.ycombinator.com/item?id=43705649) - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
@@ -29,7 +30,6 @@
 * [2025-04-13, 16:57:50](https://news.ycombinator.com/item?id=43674159) - [Significant performance improvements with Edge 134](https://blogs.windows.com/msedgedev/2025/04/10/significant-performance-improvements-with-edge-134/)
 * [2025-04-13, 15:40:21](https://news.ycombinator.com/item?id=43673575) - [Hunter-gatherer sea voyages extended to remotest Mediterranean islands](https://www.nature.com/articles/s41586-025-08780-y)
 * [2025-04-13, 05:04:01](https://news.ycombinator.com/item?id=43670216) - [Typographic Pictures Composed Entirely of Brass Rule (2024)](https://blog.glyphdrawing.club/typographic-pictures-composed-entirely-of-brass-rule/)
-* [2025-04-12, 10:54:53](https://news.ycombinator.com/item?id=43663290) - [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
 
 ## [Archives](archives/index.md)
 
