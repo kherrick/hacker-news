@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 10:39:13](https://news.ycombinator.com/item?id=43703682) - [A Postmortem of a Startup](https://buildwithtract.com/)
 * [2025-04-16, 06:39:09](https://news.ycombinator.com/item?id=43702201) - [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)
 * [2025-04-16, 06:03:26](https://news.ycombinator.com/item?id=43701988) - [A puzzle of two unreliable sensors](https://jacobbrazeal.wordpress.com/2025/04/16/the-puzzle-of-two-unreliable-sensors/)
 * [2025-04-16, 02:45:41](https://news.ycombinator.com/item?id=43700888) - [Archeology of React (2016)](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
