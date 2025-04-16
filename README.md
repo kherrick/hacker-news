@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-16, 06:03:26](https://news.ycombinator.com/item?id=43701988) - [A puzzle of two unreliable sensors](https://jacobbrazeal.wordpress.com/2025/04/16/the-puzzle-of-two-unreliable-sensors/)
 * [2025-04-16, 02:45:41](https://news.ycombinator.com/item?id=43700888) - [Archeology of React (2016)](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
 * [2025-04-16, 02:01:46](https://news.ycombinator.com/item?id=43700633) - [Markov Chain Monte Carlo Without All the Bullshit (2015)](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [2025-04-16, 01:57:27](https://news.ycombinator.com/item?id=43700607) - [CVE program faces swift end after DHS fails to renew contract](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
@@ -12,6 +11,7 @@
 * [2025-04-15, 17:02:16](https://news.ycombinator.com/item?id=43695592) - [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
 * [2025-04-15, 16:08:29](https://news.ycombinator.com/item?id=43694877) - [OpenAI is building a social network?](https://www.theverge.com/openai/648130/openai-social-network-x-competitor)
 * [2025-04-15, 15:56:18](https://news.ycombinator.com/item?id=43694681) - [JSX over the Wire](https://overreacted.io/jsx-over-the-wire/)
+* [2025-04-15, 14:38:25](https://news.ycombinator.com/item?id=43693402) - [How to win an argument with a toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)
 * [2025-04-15, 14:33:10](https://news.ycombinator.com/item?id=43693326) - [Hacking the Postgres wire protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
 * [2025-04-15, 13:34:21](https://news.ycombinator.com/item?id=43692476) - [Launch HN: mrge.io (YC X25) – Cursor for code review](https://news.ycombinator.com/item?id=43692476)
 * [2025-04-15, 13:24:39](https://news.ycombinator.com/item?id=43692360) - [How the U.S. became a science superpower](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/)
@@ -25,7 +25,7 @@
 * [2025-04-14, 10:20:42](https://news.ycombinator.com/item?id=43679781) - [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
 * [2025-04-14, 10:06:33](https://news.ycombinator.com/item?id=43679707) - [Zig's new LinkedList API (it's time to learn fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 07:26:46](https://news.ycombinator.com/item?id=43678909) - [Fun with -fsanitize=undefined and Picolibc](https://keithp.com/blogs/sanitizer-fun/)
-* [2025-04-13, 06:55:21](https://news.ycombinator.com/item?id=43670652) - [Audiobooks vs. Printed Books: a debate as a reader and an author](https://newsandreviews.substack.com/p/audiobooks-vs-printed-books-a-debate)
+* [2025-04-13, 16:01:33](https://news.ycombinator.com/item?id=43673754) - [How to Flatpack Programs [video]](https://www.youtube.com/watch?v=rJcQ45jKuN4)
 * [2025-04-13, 05:04:01](https://news.ycombinator.com/item?id=43670216) - [Typographic Pictures Composed Entirely of Brass Rule (2024)](https://blog.glyphdrawing.club/typographic-pictures-composed-entirely-of-brass-rule/)
 * [2025-04-12, 10:54:53](https://news.ycombinator.com/item?id=43663290) - [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
 * [2025-04-12, 07:56:52](https://news.ycombinator.com/item?id=43662339) - [Fake images that fooled the world](https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world)

@@ -27,6 +27,7 @@
 * [2025-04-13, 16:24:28](https://news.ycombinator.com/item?id=43673921) - [Amazon Turned Drivers into First Responders in Europe Experiment](https://www.bloomberg.com/news/articles/2025-04-10/amazon-turned-drivers-into-first-responders-in-europe-experiment)
 * [2025-04-13, 16:15:00](https://news.ycombinator.com/item?id=43673862) - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
 * [2025-04-13, 16:02:28](https://news.ycombinator.com/item?id=43673761) - [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
+* [2025-04-13, 16:01:33](https://news.ycombinator.com/item?id=43673754) - [How to Flatpack Programs [video]](https://www.youtube.com/watch?v=rJcQ45jKuN4)
 * [2025-04-13, 15:40:21](https://news.ycombinator.com/item?id=43673575) - [Hunter-gatherer sea voyages extended to remotest Mediterranean islands](https://www.nature.com/articles/s41586-025-08780-y)
 * [2025-04-13, 15:37:05](https://news.ycombinator.com/item?id=43673551) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2025-04-13, 15:32:25](https://news.ycombinator.com/item?id=43673518) - [Why Our Brains Crave Ideology](https://nautil.us/why-our-brains-crave-ideology-1203194/)
