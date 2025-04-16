@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-16, 21:05:16](https://news.ycombinator.com/item?id=43710382) - [Classifying aviation-related posts on Hacker News with SLMs](https://www.skysight.inc/blog/hacker-news-aviation)
 * [2025-04-16, 21:00:11](https://news.ycombinator.com/item?id=43710330) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
-* [2025-04-16, 20:06:50](https://news.ycombinator.com/item?id=43709770) - [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
+* [2025-04-16, 20:06:50](https://news.ycombinator.com/item?id=43709770) - [Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
 * [2025-04-16, 18:55:12](https://news.ycombinator.com/item?id=43709042) - [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
 * [2025-04-16, 18:24:43](https://news.ycombinator.com/item?id=43708726) - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
 * [2025-04-16, 18:23:00](https://news.ycombinator.com/item?id=43708707) - [Aerial Minesweeping (2021)](https://www.historynet.com/aerial-minesweeping/)
@@ -17,6 +16,7 @@
 * [2025-04-16, 14:11:53](https://news.ycombinator.com/item?id=43705824) - [A high-throughput parser for the Zig programming language](https://github.com/Validark/Accelerated-Zig-Parser)
 * [2025-04-16, 14:09:22](https://news.ycombinator.com/item?id=43705796) - [Science, the Endless Frontier (1945) [pdf]](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf)
 * [2025-04-16, 13:58:36](https://news.ycombinator.com/item?id=43705649) - [Dirty tricks 6502 programmers use (2019)](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
+* [2025-04-16, 13:57:42](https://news.ycombinator.com/item?id=43705632) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
 * [2025-04-16, 13:19:46](https://news.ycombinator.com/item?id=43705144) - [Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)](https://github.com/onkernel/kernel-images)
 * [2025-04-16, 13:11:12](https://news.ycombinator.com/item?id=43705065) - [Launch HN: Jasmine (YC S22) – Automating REC compliance and payouts for solar](https://news.ycombinator.com/item?id=43705065)
 * [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
@@ -28,7 +28,7 @@
 * [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
 * [2025-04-15, 08:22:59](https://news.ycombinator.com/item?id=43690289) - [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)
 * [2025-04-14, 10:31:52](https://news.ycombinator.com/item?id=43679831) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
-* [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [You're Probably Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
+* [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
 * [2025-04-12, 22:12:19](https://news.ycombinator.com/item?id=43668312) - [The value of a dedicated data science approach in HR](https://gorelik.net/2024/10/20/the-value-of-a-dedicated-data-science-approach-in-hr/)
 
 ## [Archives](archives/index.md)
