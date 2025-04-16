@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-16, 23:04:41](https://news.ycombinator.com/item?id=43711266) - [Former cybersecurity chief Chris Krebs leaves SentinelOne after executive order](https://www.cnbc.com/2025/04/16/former-cisa-chief-krebs-leaves-sentinelone-after-trump-exec-order.html)
+* [2025-04-16, 22:34:53](https://news.ycombinator.com/item?id=43711089) - [When College Might Not Be Worth It](https://libertystreeteconomics.newyorkfed.org/2025/04/when-college-might-not-be-worth-it/)
 * [2025-04-16, 22:21:14](https://news.ycombinator.com/item?id=43711001) - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
 * [2025-04-16, 21:26:42](https://news.ycombinator.com/item?id=43710576) - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
 * [2025-04-16, 21:00:11](https://news.ycombinator.com/item?id=43710330) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
@@ -10,7 +12,6 @@
 * [2025-04-16, 17:24:50](https://news.ycombinator.com/item?id=43708025) - [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 * [2025-04-16, 17:01:54](https://news.ycombinator.com/item?id=43707719) - [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
 * [2025-04-16, 16:00:21](https://news.ycombinator.com/item?id=43707021) - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
-* [2025-04-16, 15:30:59](https://news.ycombinator.com/item?id=43706706) - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
 * [2025-04-16, 14:28:36](https://news.ycombinator.com/item?id=43706037) - [Darwin's children drew all over the “On the Origin of Species” manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species)
 * [2025-04-16, 14:11:53](https://news.ycombinator.com/item?id=43705824) - [A high-throughput parser for the Zig programming language](https://github.com/Validark/Accelerated-Zig-Parser)
 * [2025-04-16, 14:09:22](https://news.ycombinator.com/item?id=43705796) - [Science, the Endless Frontier (1945) [pdf]](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf)
@@ -18,7 +19,6 @@
 * [2025-04-16, 13:57:42](https://news.ycombinator.com/item?id=43705632) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
 * [2025-04-16, 13:11:12](https://news.ycombinator.com/item?id=43705065) - [Launch HN: Jasmine (YC S22) – Automating REC compliance and payouts for solar](https://news.ycombinator.com/item?id=43705065)
 * [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
-* [2025-04-16, 12:52:27](https://news.ycombinator.com/item?id=43704853) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
 * [2025-04-16, 12:33:33](https://news.ycombinator.com/item?id=43704596) - [Nintendo Bled Atari Games to Death](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/)
 * [2025-04-16, 12:16:35](https://news.ycombinator.com/item?id=43704430) - [CVE Foundation](https://www.thecvefoundation.org/home)
 * [2025-04-16, 10:26:00](https://news.ycombinator.com/item?id=43703623) - [An Introduction to Stochastic Calculus (2022)](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/)
