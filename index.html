@@ -129,6 +129,87 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43702201">
+          <h3>
+            <a class="item" href="https://www.bake-ai.com/fonts"
+              >Show HN: I Made Bagel Font</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-16 @ 06:39:09</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43702201"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I recently made 3d style Bagel web font (with some more styles)
+                from scratch, and wanted to share the process in case anyone's
+                interested in experimenting or giving feedback. You can play
+                around by typing
+                <a href="https://www.bake-ai.com/fonts"
+                  >https://www.bake-ai.com/fonts</a
+                >
+              </p>
+              <p>
+                [Backstory] I was experimenting with Stable Diffusion +
+                ControlNet to generate icons. To my surprise, generating letters
+                this way was actually better than using traditional 3D tools
+                like Blender for this purpose. That led to the idea: what if I
+                could turn into an actual real working font?
+              </p>
+              <p>
+                I found a few tools, but most were either paid or lacked
+                support. So I leaned on Cursor (been using it since launch) and
+                spent a few hours hacking together a Python script using
+                FontTools(<a href="https://github.com/fonttools/fonttools"
+                  >https://github.com/fonttools/fonttools</a
+                >, Opensource font generation python library). Eventually, I got
+                a working .ttf file with an SBIX table (used by Apple’s color
+                fonts)!
+              </p>
+              <p>
+                [Technical details] 1) Create base glyphs Drew black letterforms
+                by hand on iPad (or used open-licensed fonts for other
+                experiments). 2) Add texture/style Used ComfyUI + Stable
+                Diffusion + ControlNet to generate stylized images for each
+                letter. Could also be done in Midjourney, Photoshop, etc. Key
+                part is keeping image sizes consistent. 3) Generate font files
+                Used FontTools (Python). Tried FontForge, BitFontMaker, even
+                paid tools like Glyphs and Fontself — none worked well for
+                image-based fonts. FontTools + SBIX table finally did the trick.
+              </p>
+              <p>
+                [Constraints] SBIX fonts are still relatively heavy, and not all
+                software supports them yet. Photoshop does, but Figma doesn’t
+                (yet). I plan to submit a feature request to Figma once things
+                are more polished.
+              </p>
+              <p>
+                If anyone’s curious to try the font, happy to share it. Would
+                love feedback, ideas, or just to know if this inspires you. I’ve
+                been doing solo creative projects for a while — it can get
+                tough, but knowing it sparks something for someone else helps a
+                lot.
+              </p>
+              <p>
+                Thanks for reading — and feel free to AMA if you're trying
+                something similar!
+              </p>
+              <p>
+                *Updates I'm using a Mac with the Chrome (Arc) browser. It might
+                not work properly on other browsers or OS. If it doesn't work
+                for you, reporting it would really help me improve it next time.
+                Thanks!!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43700888">
           <h3>
             <a
@@ -162,11 +243,11 @@
             <h4>
               <span>2025-04-16 @ 02:01:46</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43700633"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -183,11 +264,11 @@
             <h4>
               <span>2025-04-16 @ 01:57:27</span
               ><span class="points-container"
-                >Points: <span class="points">789</span></span
+                >Points: <span class="points">806</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43700607"
                   >Comments</a
-                ><span class="descendants">: 367</span></span
+                ><span class="descendants">: 376</span></span
               >
             </h4>
           </section>
@@ -217,7 +298,7 @@
             <h4>
               <span>2025-04-15 @ 22:26:35</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43699188"
                   >Comments</a
@@ -264,26 +345,6 @@
             </div>
           </section>
         </section>
-        <section id="43697532">
-          <h3>
-            <a class="item" href="https://foundationvision.github.io/Liquid/"
-              >Liquid: Language models are scalable and unified multi-modal
-              generators</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-15 @ 19:46:14</span
-              ><span class="points-container"
-                >Points: <span class="points">73</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43697532"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43695723">
           <h3>
             <a
@@ -296,7 +357,7 @@
             <h4>
               <span>2025-04-15 @ 17:13:31</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43695723"
                   >Comments</a
@@ -340,7 +401,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43695592"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -361,7 +422,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43694877"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 177</span></span
               >
             </h4>
           </section>
@@ -376,7 +437,7 @@
             <h4>
               <span>2025-04-15 @ 15:56:18</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43694681"
                   >Comments</a
@@ -397,7 +458,7 @@
             <h4>
               <span>2025-04-15 @ 14:33:10</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43693326"
                   >Comments</a
@@ -546,11 +607,11 @@
             <h4>
               <span>2025-04-15 @ 13:24:39</span
               ><span class="points-container"
-                >Points: <span class="points">325</span></span
+                >Points: <span class="points">327</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43692360"
                   >Comments</a
-                ><span class="descendants">: 323</span></span
+                ><span class="descendants">: 325</span></span
               >
             </h4>
           </section>
@@ -587,11 +648,11 @@
             <h4>
               <span>2025-04-15 @ 11:30:56</span
               ><span class="points-container"
-                >Points: <span class="points">523</span></span
+                >Points: <span class="points">527</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43691334"
                   >Comments</a
-                ><span class="descendants">: 660</span></span
+                ><span class="descendants">: 663</span></span
               >
             </h4>
           </section>
@@ -609,11 +670,11 @@
             <h4>
               <span>2025-04-15 @ 10:55:41</span
               ><span class="points-container"
-                >Points: <span class="points">884</span></span
+                >Points: <span class="points">886</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43691142"
                   >Comments</a
-                ><span class="descendants">: 417</span></span
+                ><span class="descendants">: 418</span></span
               >
             </h4>
           </section>
@@ -629,11 +690,11 @@
             <h4>
               <span>2025-04-15 @ 08:22:59</span
               ><span class="points-container"
-                >Points: <span class="points">549</span></span
+                >Points: <span class="points">554</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43690289"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -651,11 +712,11 @@
             <h4>
               <span>2025-04-14 @ 16:24:28</span
               ><span class="points-container"
-                >Points: <span class="points">1037</span></span
+                >Points: <span class="points">1047</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43683012"
                   >Comments</a
-                ><span class="descendants">: 370</span></span
+                ><span class="descendants">: 372</span></span
               >
             </h4>
             <div class="text">
@@ -722,11 +783,11 @@
             <h4>
               <span>2025-04-14 @ 14:21:36</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43681658"
                   >Comments</a
-                ><span class="descendants">: 260</span></span
+                ><span class="descendants">: 264</span></span
               >
             </h4>
           </section>
@@ -744,11 +805,11 @@
             <h4>
               <span>2025-04-14 @ 13:36:59</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43681132"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -764,7 +825,7 @@
             <h4>
               <span>2025-04-14 @ 10:20:42</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43679781"
                   >Comments</a
@@ -810,7 +871,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43674159"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -849,11 +910,11 @@
             <h4>
               <span>2025-04-13 @ 06:55:21</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43670652"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -868,7 +929,7 @@
             <h4>
               <span>2025-04-12 @ 10:54:53</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43663290"
                   >Comments</a
