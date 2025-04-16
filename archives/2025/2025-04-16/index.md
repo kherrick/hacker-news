@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 14:09:22](https://news.ycombinator.com/item?id=43705796) - [Science, the Endless Frontier (1945) [pdf]](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf)
+* [2025-04-16, 13:58:36](https://news.ycombinator.com/item?id=43705649) - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 * [2025-04-16, 13:27:22](https://news.ycombinator.com/item?id=43705252) - [Belgian teens arrested with 5k smuggled ants](https://www.cnn.com/2025/04/16/africa/ants-smuggling-kenya-teens-arrested-intl/index.html)
+* [2025-04-16, 13:19:46](https://news.ycombinator.com/item?id=43705144) - [Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)](https://github.com/onkernel/kernel-images)
 * [2025-04-16, 13:11:12](https://news.ycombinator.com/item?id=43705065) - [Launch HN: Jasmine (YC S22) – Automating REC compliance and payouts for solar](https://news.ycombinator.com/item?id=43705065)
 * [2025-04-16, 13:00:38](https://news.ycombinator.com/item?id=43704951) - [Spotify Down](https://community.spotify.com/t5/Ongoing-Issues/Downtime-April-16th-App-and-website-not-loading/idi-p/6922020)
 * [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids – making reading easier](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
