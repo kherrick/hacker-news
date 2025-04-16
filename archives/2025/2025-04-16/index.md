@@ -7,6 +7,7 @@
 * [2025-04-16, 16:26:06](https://news.ycombinator.com/item?id=43707308) - [Show HN: K(r)ep - A high-performance string search utility](https://github.com/davidesantangelo/krep)
 * [2025-04-16, 16:00:21](https://news.ycombinator.com/item?id=43707021) - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 * [2025-04-16, 15:30:59](https://news.ycombinator.com/item?id=43706706) - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
+* [2025-04-16, 15:26:52](https://news.ycombinator.com/item?id=43706667) - [Can LLMs earn $1M from real freelance coding work?](https://newsletter.getdx.com/p/benchmarking-ai-software-engineering-capabilities)
 * [2025-04-16, 15:18:57](https://news.ycombinator.com/item?id=43706586) - [Rust-IoT-Platform](https://github.com/iot-ecology/rust-iot-platform)
 * [2025-04-16, 15:12:07](https://news.ycombinator.com/item?id=43706530) - [Tell HN: Warning Google trains on your data when using aistudio.google.com](https://news.ycombinator.com/item?id=43706530)
 * [2025-04-16, 14:43:47](https://news.ycombinator.com/item?id=43706210) - [How to Optimize Rust for Slowness: Inspired by New Turing Machine Results](https://medium.com/@carlmkadie/how-to-optimize-your-rust-program-for-slowness-eb2c1a64d184)
