@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-16, 21:05:16",
+      "https://news.ycombinator.com/item?id=43710382"
+    ],
+    [
+      "Classifying aviation-related posts on Hacker News with SLMs",
+      "https://www.skysight.inc/blog/hacker-news-aviation"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 21:00:11",
+      "https://news.ycombinator.com/item?id=43710330"
+    ],
+    [
+      "OneSignal (YC S11) Is Hiring Engineers",
+      "https://onesignal.com/careers"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 20:06:50",
       "https://news.ycombinator.com/item?id=43709770"
     ],
@@ -77,16 +97,6 @@
     [
       "OpenAI o3 and o4-mini",
       "https://openai.com/index/introducing-o3-and-o4-mini/"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 17:00:29",
-      "https://news.ycombinator.com/item?id=43707706"
-    ],
-    [
-      "Hive.co (YC S14) Is Hiring a Head of Engineering",
-      "https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-04-14, 14:12:43",
-      "https://news.ycombinator.com/item?id=43681521"
-    ],
-    [
-      "Elephant in Cairo (Byte Magazine, 1989)",
-      "https://www-users.york.ac.uk/~ss44/joke/elephant.htm"
-    ]
-  ],
-  [
-    [
       "2025-04-14, 10:31:52",
       "https://news.ycombinator.com/item?id=43679831"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-04-14, 08:25:25",
-      "https://news.ycombinator.com/item?id=43679219"
-    ],
-    [
-      "The API Churn/Security Trade-Off (2016)",
-      "https://intercoolerjs.org/2016/02/17/api-churn-vs-security.html"
-    ]
-  ],
-  [
-    [
       "2025-04-13, 22:15:08",
       "https://news.ycombinator.com/item?id=43676254"
     ],
     [
       "You're Probably Breaking the Llama Community License",
       "https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 22:12:19",
+      "https://news.ycombinator.com/item?id=43668312"
+    ],
+    [
+      "The value of a dedicated data science approach in HR",
+      "https://gorelik.net/2024/10/20/the-value-of-a-dedicated-data-science-approach-in-hr/"
     ]
   ]
 ]
