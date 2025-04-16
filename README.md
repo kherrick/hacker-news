@@ -16,6 +16,7 @@
 * [2025-04-16, 14:09:22](https://news.ycombinator.com/item?id=43705796) - [Science, the Endless Frontier (1945) [pdf]](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf)
 * [2025-04-16, 13:58:36](https://news.ycombinator.com/item?id=43705649) - [Dirty tricks 6502 programmers use (2019)](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 * [2025-04-16, 13:57:42](https://news.ycombinator.com/item?id=43705632) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
+* [2025-04-16, 13:19:46](https://news.ycombinator.com/item?id=43705144) - [Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)](https://github.com/onkernel/kernel-images)
 * [2025-04-16, 13:11:12](https://news.ycombinator.com/item?id=43705065) - [Launch HN: Jasmine (YC S22) – Automating REC compliance and payouts for solar](https://news.ycombinator.com/item?id=43705065)
 * [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 12:52:27](https://news.ycombinator.com/item?id=43704853) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
@@ -29,7 +30,6 @@
 * [2025-04-14, 10:31:52](https://news.ycombinator.com/item?id=43679831) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
 * [2025-04-13, 15:20:55](https://news.ycombinator.com/item?id=43673425) - [Tech workers are leaving notes in robot taxis seeking workers and lovers](https://www.washingtonpost.com/technology/2025/04/12/waymo-handwritten-notes-jobs-ads/)
-* [2025-04-12, 22:12:19](https://news.ycombinator.com/item?id=43668312) - [The value of a dedicated data science approach in HR](https://gorelik.net/2024/10/20/the-value-of-a-dedicated-data-science-approach-in-hr/)
 
 ## [Archives](archives/index.md)
 
