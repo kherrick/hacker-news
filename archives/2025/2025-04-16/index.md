@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 13:27:22](https://news.ycombinator.com/item?id=43705252) - [Belgian teens arrested with 5k smuggled ants](https://www.cnn.com/2025/04/16/africa/ants-smuggling-kenya-teens-arrested-intl/index.html)
+* [2025-04-16, 13:00:38](https://news.ycombinator.com/item?id=43704951) - [Spotify Down](https://community.spotify.com/t5/Ongoing-Issues/Downtime-April-16th-App-and-website-not-loading/idi-p/6922020)
+* [2025-04-16, 12:52:27](https://news.ycombinator.com/item?id=43704853) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
 * [2025-04-16, 12:40:41](https://news.ycombinator.com/item?id=43704691) - [Get Out of My Head](https://getoutofmyhead.dev/)
 * [2025-04-16, 12:33:33](https://news.ycombinator.com/item?id=43704596) - [Nintendo Bled Atari Games to Death](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/)
+* [2025-04-16, 12:32:34](https://news.ycombinator.com/item?id=43704579) - [JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier](https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/)
 * [2025-04-16, 12:25:30](https://news.ycombinator.com/item?id=43704503) - [KIP-1150: Diskless Kafka Topics](https://cwiki.apache.org/confluence/display/KAFKA/KIP-1150%3A+Diskless+Topics)
 * [2025-04-16, 12:23:04](https://news.ycombinator.com/item?id=43704481) - [Russian Breach of US Data Through Doge over Starlink \"Directly to Russia\"](https://www.narativ.org/p/whistle-blower-russian-breach-of)
 * [2025-04-16, 12:16:35](https://news.ycombinator.com/item?id=43704430) - [CVE Foundation Launched to Secure the Future of the CVE Program](https://www.thecvefoundation.org/home)
