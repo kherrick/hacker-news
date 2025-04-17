@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 12:00:31](https://news.ycombinator.com/item?id=43715525) - [Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2025-04-17, 11:22:17](https://news.ycombinator.com/item?id=43715235) - [Cutting down Rust compile times from 30 to 2 minutes with one thousand crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
+* [2025-04-17, 10:59:03](https://news.ycombinator.com/item?id=43715116) - [Daily Pill May Work as Well as Ozempic for Weight Loss and Blood Sugar](https://www.nytimes.com/2025/04/17/health/pill-glp-1-eli-lilly.html)
 * [2025-04-17, 10:57:38](https://news.ycombinator.com/item?id=43715109) - [As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/)
 * [2025-04-17, 10:42:01](https://news.ycombinator.com/item?id=43715022) - [US Government threatens Harvard with foreign student ban](https://www.bbc.com/news/articles/c1egdy24v7po)
 * [2025-04-17, 10:28:31](https://news.ycombinator.com/item?id=43714959) - [Development on Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
@@ -16,6 +18,7 @@
 * [2025-04-17, 08:16:24](https://news.ycombinator.com/item?id=43714269) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 * [2025-04-17, 08:02:21](https://news.ycombinator.com/item?id=43714203) - [Astronomers have found signs of alien life on a planet beyond our Solar System](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide)
 * [2025-04-17, 07:34:08](https://news.ycombinator.com/item?id=43714041) - [The Halting Problem is a terrible example of NP-Harder](https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/)
+* [2025-04-17, 07:29:54](https://news.ycombinator.com/item?id=43714023) - [WordPress Feature API](https://github.com/Automattic/wp-feature-api)
 * [2025-04-17, 07:27:11](https://news.ycombinator.com/item?id=43714004) - [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
 * [2025-04-17, 07:00:25](https://news.ycombinator.com/item?id=43713885) - [Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure](https://www.ycombinator.com/companies/formance/jobs)
 * [2025-04-17, 06:53:05](https://news.ycombinator.com/item?id=43713842) - [Manga Guide To Databases (2004) [pdf]](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
