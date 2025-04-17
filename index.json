@@ -5,38 +5,38 @@
       "https://news.ycombinator.com/item?id=43716939"
     ],
     [
-      "'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops",
+      "This 'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops",
       "https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/"
     ]
   ],
   [
     [
-      "2025-04-17, 13:29:41",
-      "https://news.ycombinator.com/item?id=43716525"
+      "2025-04-17, 13:39:28",
+      "https://news.ycombinator.com/item?id=43716665"
     ],
     [
-      "Russian Propaganda Campaign Targets France with AI-Fabricated Scandals",
-      "https://www.newsguardtech.com/special-reports/russian-propaganda-campaign-targets-france-with-ai-fabricated-scandals/"
+      "TikTok Is Harming Children at an Industrial Scale",
+      "https://www.afterbabel.com/p/industrial-scale-harm-tiktok"
     ]
   ],
   [
     [
-      "2025-04-17, 12:56:58",
-      "https://news.ycombinator.com/item?id=43716138"
+      "2025-04-17, 13:29:44",
+      "https://news.ycombinator.com/item?id=43716526"
     ],
     [
-      "Encryption Is Not a Crime",
-      "https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/"
+      "Unauthenticated Remote Code Execution in Erlang/OTP SSH",
+      "https://nvd.nist.gov/vuln/detail/CVE-2025-32433"
     ]
   ],
   [
     [
-      "2025-04-17, 12:54:49",
-      "https://news.ycombinator.com/item?id=43716110"
+      "2025-04-17, 13:11:21",
+      "https://news.ycombinator.com/item?id=43716293"
     ],
     [
-      "Toothpaste widely contaminated with lead and other metals, US research finds",
-      "https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals"
+      "Scientists find strongest evidence yet of life on an alien planet",
+      "https://www.reuters.com/science/scientists-find-strongest-evidence-yet-life-an-alien-planet-2025-04-16/"
     ]
   ],
   [
@@ -67,26 +67,6 @@
     [
       "Cutting down Rust compile times from 30 to 2 minutes with one thousand crates",
       "https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 10:43:23",
-      "https://news.ycombinator.com/item?id=43715030"
-    ],
-    [
-      "Erlang Solutions' Blog round-up",
-      "https://www.erlang-solutions.com/blog/erlang-solutions-blog-round-up/"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 10:28:31",
-      "https://news.ycombinator.com/item?id=43714959"
-    ],
-    [
-      "Development on Apple Silicon with UTM",
-      "https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "The Atari 1200XL Fiasco",
       "https://www.goto10retro.com/p/the-atari-1200xl-fiasco"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 08:02:21",
+      "https://news.ycombinator.com/item?id=43714203"
+    ],
+    [
+      "“Most promising signs yet” of alien life on a planet beyond our Solar System",
+      "https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-04-16, 16:00:21",
+      "https://news.ycombinator.com/item?id=43707021"
+    ],
+    [
+      "Damn Vulnerable MCP Server",
+      "https://github.com/harishsg993010/damn-vulnerable-MCP-server"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 14:28:36",
       "https://news.ycombinator.com/item?id=43706037"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2025-04-15, 22:38:04",
+      "https://news.ycombinator.com/item?id=43699271"
+    ],
+    [
+      "12-factor Agents: Patterns of reliable LLM applications",
+      "https://github.com/humanlayer/12-factor-agents"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 20:05:07",
       "https://news.ycombinator.com/item?id=43697717"
     ],
     [
       "AI as Normal Technology",
       "https://knightcolumbia.org/content/ai-as-normal-technology"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 01:30:21",
-      "https://news.ycombinator.com/item?id=43688131"
-    ],
-    [
-      "Miscellaneous Mathematical Symbols",
-      "https://www.johndcook.com/blog/2025/04/14/miscellaneous-mathematical-symbols/"
     ]
   ],
   [
