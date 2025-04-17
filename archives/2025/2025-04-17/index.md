@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 09:30:43](https://news.ycombinator.com/item?id=43714619) - [Why Japan's \"Weakest Samurai Warlord\" Is Still Admired to This Day](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
 * [2025-04-17, 09:26:45](https://news.ycombinator.com/item?id=43714594) - [Advanced Shell Scripting with Bash (2006) [pdf]](http://uniforumchicago.org/slides/bash1.pdf)
 * [2025-04-17, 09:01:07](https://news.ycombinator.com/item?id=43714476) - [The Atari 1200XL Fiasco – By Paul Lefebvre](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
 * [2025-04-17, 08:55:04](https://news.ycombinator.com/item?id=43714433) - [PolyThink: A Multi-Agent AI System to Eliminate Hallucinations](https://news.ycombinator.com/item?id=43714433)

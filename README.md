@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-17, 09:30:43](https://news.ycombinator.com/item?id=43714619) - [Why Japan's \"Weakest Samurai Warlord\" Is Still Admired to This Day](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
 * [2025-04-17, 09:26:45](https://news.ycombinator.com/item?id=43714594) - [Advanced Shell Scripting with Bash (2006) [pdf]](http://uniforumchicago.org/slides/bash1.pdf)
 * [2025-04-17, 09:01:07](https://news.ycombinator.com/item?id=43714476) - [The Atari 1200XL Fiasco – By Paul Lefebvre](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
 * [2025-04-17, 08:02:21](https://news.ycombinator.com/item?id=43714203) - [Astronomers have found signs of alien life on a planet beyond our Solar System](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide)
-* [2025-04-17, 07:34:08](https://news.ycombinator.com/item?id=43714041) - [The Halting Problem is a terrible example of NP-Harder](https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/)
 * [2025-04-17, 07:27:11](https://news.ycombinator.com/item?id=43714004) - [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
 * [2025-04-17, 07:00:25](https://news.ycombinator.com/item?id=43713885) - [Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure](https://www.ycombinator.com/companies/formance/jobs)
 * [2025-04-17, 06:53:05](https://news.ycombinator.com/item?id=43713842) - [Manga Guide To Databases (2004) [pdf]](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
