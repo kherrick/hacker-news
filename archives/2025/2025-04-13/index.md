@@ -16,6 +16,7 @@
 * [2025-04-13, 19:33:24](https://news.ycombinator.com/item?id=43675248) - [Show HN: I made a free tool that analyzes SEC filings and posts detailed reports](https://www.signalbloom.ai/news/)
 * [2025-04-13, 19:20:10](https://news.ycombinator.com/item?id=43675166) - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
 * [2025-04-13, 19:13:37](https://news.ycombinator.com/item?id=43675126) - [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
+* [2025-04-13, 18:41:54](https://news.ycombinator.com/item?id=43674892) - [Clowning Around: On the Principles of Clowning](https://funnyhow.substack.com/p/clowning-around-)
 * [2025-04-13, 18:33:05](https://news.ycombinator.com/item?id=43674825) - [Implementing DeepSeek R1's GRPO algorithm from scratch](https://github.com/policy-gradient/GRPO-Zero)
 * [2025-04-13, 18:30:52](https://news.ycombinator.com/item?id=43674805) - [South Korea Is over [video]](https://www.youtube.com/watch?v=Ufmu1WD2TSk)
 * [2025-04-13, 18:28:31](https://news.ycombinator.com/item?id=43674792) - [Mushroom A.stiptica Bitter Compounds and Human Taste Receptor Activation](https://pubs.acs.org/doi/10.1021/acs.jafc.4c12651)

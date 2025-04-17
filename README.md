@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-17, 08:16:24](https://news.ycombinator.com/item?id=43714269) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 * [2025-04-17, 07:34:08](https://news.ycombinator.com/item?id=43714041) - [The Halting Problem is a terrible example of NP-Harder](https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/)
 * [2025-04-17, 07:00:25](https://news.ycombinator.com/item?id=43713885) - [Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure](https://www.ycombinator.com/companies/formance/jobs)
 * [2025-04-17, 06:53:05](https://news.ycombinator.com/item?id=43713842) - [Manga Guide To Databases (2004) [pdf]](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
 * [2025-04-17, 05:53:31](https://news.ycombinator.com/item?id=43713524) - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
-* [2025-04-17, 05:48:23](https://news.ycombinator.com/item?id=43713502) - [GPT o3 frequently fabricates actions, then elaborately justifies these actions](https://xcancel.com/TransluceAI/status/1912552046269771985)
+* [2025-04-17, 04:30:47](https://news.ycombinator.com/item?id=43713140) - [Differentiable Programming from Scratch](https://thenumb.at/Autodiff/)
 * [2025-04-17, 00:55:49](https://news.ycombinator.com/item?id=43711957) - [Zoom outage caused by accidental 'shutting down' of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
 * [2025-04-17, 00:10:51](https://news.ycombinator.com/item?id=43711706) - [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
 * [2025-04-16, 22:21:14](https://news.ycombinator.com/item?id=43711001) - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
@@ -27,9 +28,8 @@
 * [2025-04-14, 04:47:51](https://news.ycombinator.com/item?id=43678138) - [Adipose tissue retains an epigenetic memory of obesity after weight loss](https://www.nature.com/articles/s41586-024-08165-7)
 * [2025-04-14, 03:43:55](https://news.ycombinator.com/item?id=43677862) - [Demolishing the Fry's Electronics in Burbank](https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123)
 * [2025-04-13, 23:39:24](https://news.ycombinator.com/item?id=43676690) - [How refrigeration changed our food](https://www.nytimes.com/2024/06/24/books/review/frostbite-nicola-twilley.html)
-* [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
+* [2025-04-13, 18:41:54](https://news.ycombinator.com/item?id=43674892) - [Clowning Around: On the Principles of Clowning](https://funnyhow.substack.com/p/clowning-around-)
 * [2025-04-13, 07:51:16](https://news.ycombinator.com/item?id=43670921) - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
-* [2025-04-13, 02:23:48](https://news.ycombinator.com/item?id=43669540) - [Nix Trigonometric Math Library from Ground Zero](https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/)
 
 ## [Archives](archives/index.md)
 
