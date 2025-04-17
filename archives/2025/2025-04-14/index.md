@@ -78,6 +78,7 @@
 * [2025-04-14, 05:44:07](https://news.ycombinator.com/item?id=43678401) - [Tariffs, Saving, and Investment](https://www.grumpy-economist.com/p/tariffs-saving-and-investment)
 * [2025-04-14, 05:22:44](https://news.ycombinator.com/item?id=43678312) - [Albert Einstein's Theory of Relativity in Words of Four Letters or Less](https://www.muppetlabs.com/~breadbox/txt/al.html)
 * [2025-04-14, 05:05:45](https://news.ycombinator.com/item?id=43678231) - [A Passion for Fruit](https://archaeology.org/collection/a-passion-for-fruit/)
+* [2025-04-14, 04:47:51](https://news.ycombinator.com/item?id=43678138) - [Adipose tissue retains an epigenetic memory of obesity after weight loss](https://www.nature.com/articles/s41586-024-08165-7)
 * [2025-04-14, 04:45:21](https://news.ycombinator.com/item?id=43678123) - [Wiz's $32B GTM Playbook: Unpacking the Formula (Part I)](https://www.cybersecuritypulse.net/p/wizs-32b-gtm-playbook-unpacking-the)
 * [2025-04-14, 04:42:53](https://news.ycombinator.com/item?id=43678116) - [In Its Purest Form](https://lareviewofbooks.org/article/in-its-purest-form/)
 * [2025-04-14, 04:22:50](https://news.ycombinator.com/item?id=43678023) - [How I Use Audio Journaling and AI to Improve My Trading Decisions](https://www.fractiz.com/how-i-use-audio-journaling-and-ai-to-improve-my-trading-decisions/)
