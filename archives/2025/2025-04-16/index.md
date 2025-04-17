@@ -10,6 +10,8 @@
 * [2025-04-16, 22:57:54](https://news.ycombinator.com/item?id=43711227) - [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
 * [2025-04-16, 22:34:53](https://news.ycombinator.com/item?id=43711089) - [When College Might Not Be Worth It](https://libertystreeteconomics.newyorkfed.org/2025/04/when-college-might-not-be-worth-it/)
 * [2025-04-16, 22:21:14](https://news.ycombinator.com/item?id=43711001) - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
+* [2025-04-16, 22:19:39](https://news.ycombinator.com/item?id=43710986) - [Kotlin 101: Type Classes Quickly Explained](https://rockthejvm.com/articles/kotlin-101-type-classes)
+* [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [\"Vivarium\": The keeper of a lab's animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
 * [2025-04-16, 21:26:42](https://news.ycombinator.com/item?id=43710576) - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
 * [2025-04-16, 21:05:16](https://news.ycombinator.com/item?id=43710382) - [Classifying aviation-related posts on Hacker News with SLMs](https://www.skysight.inc/blog/hacker-news-aviation)
 * [2025-04-16, 21:00:11](https://news.ycombinator.com/item?id=43710330) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
