@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-04-17, 01:19:41",
+      "https://news.ycombinator.com/item?id=43712115"
+    ],
+    [
+      "Sony Unveils the Smallest and Lightest Lidar Depth Sensor",
+      "https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 00:55:49",
+      "https://news.ycombinator.com/item?id=43711957"
+    ],
+    [
+      "Zoom outage caused by accidental 'shutting down' of the zoom.us domain",
+      "https://status.zoom.us/incidents/pw9r9vnq5rvk"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 00:10:51",
       "https://news.ycombinator.com/item?id=43711706"
     ],
     [
-      "Jellyfin as a Spotify Alternative",
+      "Jellyfin as a Spotify alternative",
       "https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/"
     ]
   ],
@@ -37,6 +57,26 @@
     [
       "How a Forgotten Battle Created a More Peaceful World",
       "https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 22:19:39",
+      "https://news.ycombinator.com/item?id=43710986"
+    ],
+    [
+      "Kotlin 101: Type Classes Quickly Explained",
+      "https://rockthejvm.com/articles/kotlin-101-type-classes"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 21:46:10",
+      "https://news.ycombinator.com/item?id=43710761"
+    ],
+    [
+      "\"Vivarium\": The keeper of a lab's animals stumbles onto a secret [fiction]",
+      "https://jsomers.net/vivarium/"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "RakuAST Grant Report",
       "https://niner.name/blog/rakuast_grant_report/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 18:24:43",
-      "https://news.ycombinator.com/item?id=43708726"
-    ],
-    [
-      "Terak Museum",
-      "https://www.threedee.com/jcm/terak/index.html"
     ]
   ],
   [
@@ -141,42 +171,12 @@
   ],
   [
     [
-      "2025-04-16, 14:09:22",
-      "https://news.ycombinator.com/item?id=43705796"
-    ],
-    [
-      "Science, the Endless Frontier (1945) [pdf]",
-      "https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 13:58:36",
-      "https://news.ycombinator.com/item?id=43705649"
-    ],
-    [
-      "Dirty tricks 6502 programmers use (2019)",
-      "https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 13:57:42",
       "https://news.ycombinator.com/item?id=43705632"
     ],
     [
       "Reproducing Hacker News writing style fingerprinting",
       "https://antirez.com/news/150"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 13:11:12",
-      "https://news.ycombinator.com/item?id=43705065"
-    ],
-    [
-      "Launch HN: Jasmine (YC S22) – Automating REC compliance and payouts for solar",
-      "https://news.ycombinator.com/item?id=43705065"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=43704596"
     ],
     [
-      "Nintendo Bled Atari Games to Death",
+      "How Nintendo bled Atari games to death",
       "https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/"
     ]
   ],
@@ -237,16 +237,6 @@
     [
       "eInk Mode: Making web pages easier to read",
       "https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 10:31:52",
-      "https://news.ycombinator.com/item?id=43679831"
-    ],
-    [
-      "Four Kinds of Optimisation (2023)",
-      "https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Tech workers are leaving notes in robot taxis seeking workers and lovers",
       "https://www.washingtonpost.com/technology/2025/04/12/waymo-handwritten-notes-jobs-ads/"
+    ]
+  ],
+  [
+    [
+      "2025-04-13, 02:23:48",
+      "https://news.ycombinator.com/item?id=43669540"
+    ],
+    [
+      "Nix Trigonometric Math Library from Ground Zero",
+      "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/"
     ]
   ]
 ]
