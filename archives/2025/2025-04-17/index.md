@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 19:03:39](https://news.ycombinator.com/item?id=43720845) - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
+* [2025-04-17, 18:54:13](https://news.ycombinator.com/item?id=43720767) - [Show HN: HN Watercooler – listen to HN threads as an audio conversation](https://onetake-ai.github.io/hackernews-watercooler/)
 * [2025-04-17, 18:23:23](https://news.ycombinator.com/item?id=43720457) - [N-Params vs. Single Param](https://www.carlos-menezes.com/single-param-functions/)
 * [2025-04-17, 17:35:33](https://news.ycombinator.com/item?id=43719926) - [On Jane Jacobs (2017)](https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs)
 * [2025-04-17, 17:28:31](https://news.ycombinator.com/item?id=43719830) - [SQLite Transactions and Virtual Tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
