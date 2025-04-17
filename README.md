@@ -28,8 +28,8 @@
 * [2025-04-15, 11:09:30](https://news.ycombinator.com/item?id=43691230) - [MCP Run Python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python)
 * [2025-04-14, 23:43:54](https://news.ycombinator.com/item?id=43687494) - [There are two types of dishwasher people](https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/)
 * [2025-04-14, 19:17:16](https://news.ycombinator.com/item?id=43685072) - [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/)
+* [2025-04-14, 09:55:03](https://news.ycombinator.com/item?id=43679651) - [Show HN: Stadium Crowd Scale Visualise Large Groups of People](https://davkap92.github.io/crowdscale/)
 * [2025-04-14, 04:48:54](https://news.ycombinator.com/item?id=43678144) - [Making Software](https://www.makingsoftware.com/)
-* [2025-04-14, 04:47:51](https://news.ycombinator.com/item?id=43678138) - [Adipose tissue retains an epigenetic memory of obesity after weight loss](https://www.nature.com/articles/s41586-024-08165-7)
 
 ## [Archives](archives/index.md)
 
