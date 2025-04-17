@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-04-16, 23:20:31",
-      "https://news.ycombinator.com/item?id=43711376"
-    ],
-    [
-      "Astronomers Detect a Possible Signature of Life on a Distant Planet",
-      "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 22:57:54",
       "https://news.ycombinator.com/item?id=43711227"
     ],
@@ -157,6 +147,16 @@
     [
       "A high-throughput parser for the Zig programming language",
       "https://github.com/Validark/Accelerated-Zig-Parser"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 13:58:36",
+      "https://news.ycombinator.com/item?id=43705649"
+    ],
+    [
+      "Dirty tricks 6502 programmers use (2019)",
+      "https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html"
     ]
   ],
   [
