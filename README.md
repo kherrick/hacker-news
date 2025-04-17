@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-17, 23:01:48](https://news.ycombinator.com/item?id=43723135) - [AI is turning us into glue](https://lincoln.swaine-moore.is/writing-about/ai-and-glue)
 * [2025-04-17, 22:55:36](https://news.ycombinator.com/item?id=43723086) - [CN Tower, Behind the Scenes (2014)](https://site.roadwolf.ca/categories/ue/cntower/)
+* [2025-04-17, 22:00:30](https://news.ycombinator.com/item?id=43722692) - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 21:01:06](https://news.ycombinator.com/item?id=43722171) - [Mux (YC W16) is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
 * [2025-04-17, 19:51:31](https://news.ycombinator.com/item?id=43721379) - [Show HN: val – An arbitrary precision calculator language](https://github.com/terror/val)
@@ -29,7 +29,7 @@
 * [2025-04-14, 23:43:54](https://news.ycombinator.com/item?id=43687494) - [There are two types of dishwasher people](https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/)
 * [2025-04-14, 19:17:16](https://news.ycombinator.com/item?id=43685072) - [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/)
 * [2025-04-14, 04:48:54](https://news.ycombinator.com/item?id=43678144) - [Making Software](https://www.makingsoftware.com/)
-* [2025-04-14, 04:31:04](https://news.ycombinator.com/item?id=43678074) - [Our quantum assembly parser got updated to the QASM 3.0 spec](https://arxiv.org/abs/2412.12578)
+* [2025-04-14, 04:47:51](https://news.ycombinator.com/item?id=43678138) - [Adipose tissue retains an epigenetic memory of obesity after weight loss](https://www.nature.com/articles/s41586-024-08165-7)
 
 ## [Archives](archives/index.md)
 
