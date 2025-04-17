@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 21:07:34](https://news.ycombinator.com/item?id=43722220) - [Digital nomads could create network states](https://www.elysian.press/p/digital-nomad-network-states)
 * [2025-04-17, 21:01:06](https://news.ycombinator.com/item?id=43722171) - [Mux (YC W16) is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
 * [2025-04-17, 19:51:31](https://news.ycombinator.com/item?id=43721379) - [Show HN: val – An arbitrary precision calculator language written in Rust](https://github.com/terror/val)
