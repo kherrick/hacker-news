@@ -22,12 +22,12 @@
 * [2025-04-17, 09:30:43](https://news.ycombinator.com/item?id=43714619) - [Oda Ujiharu: Why the ‘weakest Samurai warlord’ is admired](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
 * [2025-04-17, 09:01:07](https://news.ycombinator.com/item?id=43714476) - [The Atari 1200XL fiasco](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
 * [2025-04-17, 00:10:51](https://news.ycombinator.com/item?id=43711706) - [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
-* [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [Vivarium: The keeper of a lab's animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
 * [2025-04-16, 12:10:33](https://news.ycombinator.com/item?id=43704364) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
 * [2025-04-15, 11:09:30](https://news.ycombinator.com/item?id=43691230) - [MCP Run Python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python)
 * [2025-04-14, 23:43:54](https://news.ycombinator.com/item?id=43687494) - [There are two types of dishwasher people](https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/)
 * [2025-04-14, 19:17:16](https://news.ycombinator.com/item?id=43685072) - [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/)
+* [2025-04-14, 11:33:10](https://news.ycombinator.com/item?id=43680177) - [XSS on using the legacy \"Graphie To PNG\" API](https://hackerone.com/reports/2846011)
 * [2025-04-14, 04:48:54](https://news.ycombinator.com/item?id=43678144) - [Making Software](https://www.makingsoftware.com/)
 * [2025-04-14, 04:31:04](https://news.ycombinator.com/item?id=43678074) - [Our quantum assembly parser got updated to the QASM 3.0 spec](https://arxiv.org/abs/2412.12578)
 

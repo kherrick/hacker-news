@@ -64,6 +64,7 @@
 * [2025-04-14, 12:16:03](https://news.ycombinator.com/item?id=43680477) - [Show HN: Single-Header Profiler for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md)
 * [2025-04-14, 12:04:22](https://news.ycombinator.com/item?id=43680367) - [SSH Keys Don't Scale. SSH Certificates Do](https://infisical.com/blog/ssh-keys-dont-scale)
 * [2025-04-14, 11:42:13](https://news.ycombinator.com/item?id=43680232) - [Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]](https://omnom.zone/?src=hn)
+* [2025-04-14, 11:33:10](https://news.ycombinator.com/item?id=43680177) - [XSS on using the legacy \"Graphie To PNG\" API](https://hackerone.com/reports/2846011)
 * [2025-04-14, 11:11:29](https://news.ycombinator.com/item?id=43680039) - [She was chatting with friends in a Lyft. Then someone texted her what they said](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106)
 * [2025-04-14, 10:52:52](https://news.ycombinator.com/item?id=43679943) - [Zotero Fullscreen Mode by Script](https://github.com/windingwind/zotero-actions-tags/discussions/385)
 * [2025-04-14, 10:48:50](https://news.ycombinator.com/item?id=43679918) - [Adding Structured Data to a Rails Application](https://avohq.io/blog/structured-data-rails)
