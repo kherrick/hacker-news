@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
 * [2025-04-14, 23:43:56](https://news.ycombinator.com/item?id=43687495) - [Temu pulls its U.S. Google Shopping ads](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
+* [2025-04-14, 23:43:54](https://news.ycombinator.com/item?id=43687494) - [There Are Two Types of Dishwasher People](https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/)
 * [2025-04-14, 23:33:38](https://news.ycombinator.com/item?id=43687431) - [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
 * [2025-04-14, 22:22:52](https://news.ycombinator.com/item?id=43686936) - [Tomb Engine](https://tombengine.com/)
 * [2025-04-14, 21:59:13](https://news.ycombinator.com/item?id=43686773) - [Intel sells Altera to private equity firm for $8.75B](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)

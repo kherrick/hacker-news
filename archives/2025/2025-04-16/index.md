@@ -54,6 +54,8 @@
 * [2025-04-16, 12:25:30](https://news.ycombinator.com/item?id=43704503) - [KIP-1150: Diskless Kafka Topics](https://cwiki.apache.org/confluence/display/KAFKA/KIP-1150%3A+Diskless+Topics)
 * [2025-04-16, 12:23:04](https://news.ycombinator.com/item?id=43704481) - [Russian Breach of US Data Through Doge over Starlink \"Directly to Russia\"](https://www.narativ.org/p/whistle-blower-russian-breach-of)
 * [2025-04-16, 12:16:35](https://news.ycombinator.com/item?id=43704430) - [CVE Foundation Launched to Secure the Future of the CVE Program](https://www.thecvefoundation.org/home)
+* [2025-04-16, 12:12:17](https://news.ycombinator.com/item?id=43704382) - [Snapchat is harming children at an industrial scale](https://www.afterbabel.com/p/industrial-scale-snapchat)
+* [2025-04-16, 12:10:33](https://news.ycombinator.com/item?id=43704364) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-16, 12:01:11](https://news.ycombinator.com/item?id=43704286) - [Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends](https://www.streak.com/careers/staff-ui-engineer)
 * [2025-04-16, 11:19:14](https://news.ycombinator.com/item?id=43703949) - [European Union Vulnerability Database (EUVD)](https://euvd.enisa.europa.eu/)
 * [2025-04-16, 10:59:29](https://news.ycombinator.com/item?id=43703812) - [Anonymous Release 10TB Leaked Data Exposing Kremlin Assets, Russian Businesses](https://trendsnewsline.com/2025/04/15/anonymous-leaks-10tb-of-data-on-russia-shocking-revelations/)
