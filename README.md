@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-17, 07:00:25](https://news.ycombinator.com/item?id=43713885) - [Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure](https://www.ycombinator.com/companies/formance/jobs)
+* [2025-04-17, 06:53:05](https://news.ycombinator.com/item?id=43713842) - [Manga Guide To Databases (2004) [pdf]](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
 * [2025-04-17, 05:53:31](https://news.ycombinator.com/item?id=43713524) - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
 * [2025-04-17, 05:48:23](https://news.ycombinator.com/item?id=43713502) - [GPT o3 frequently fabricates actions, then elaborately justifies these actions](https://xcancel.com/TransluceAI/status/1912552046269771985)
 * [2025-04-17, 01:46:51](https://news.ycombinator.com/item?id=43712280) - [Library patterns: Why frameworks are evil](https://tomasp.net/blog/2015/library-frameworks/)
@@ -8,7 +10,6 @@
 * [2025-04-16, 22:21:14](https://news.ycombinator.com/item?id=43711001) - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
 * [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [\"Vivarium\": The keeper of a lab's animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
 * [2025-04-16, 21:26:42](https://news.ycombinator.com/item?id=43710576) - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
-* [2025-04-16, 21:00:11](https://news.ycombinator.com/item?id=43710330) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-04-16, 20:06:50](https://news.ycombinator.com/item?id=43709770) - [Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
 * [2025-04-16, 17:24:50](https://news.ycombinator.com/item?id=43708025) - [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 * [2025-04-16, 17:01:54](https://news.ycombinator.com/item?id=43707719) - [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
@@ -29,7 +30,6 @@
 * [2025-04-13, 23:39:24](https://news.ycombinator.com/item?id=43676690) - [How refrigeration changed our food](https://www.nytimes.com/2024/06/24/books/review/frostbite-nicola-twilley.html)
 * [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
 * [2025-04-13, 07:51:16](https://news.ycombinator.com/item?id=43670921) - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
-* [2025-04-13, 02:23:48](https://news.ycombinator.com/item?id=43669540) - [Nix Trigonometric Math Library from Ground Zero](https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/)
 
 ## [Archives](archives/index.md)
 

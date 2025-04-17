@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 07:00:25](https://news.ycombinator.com/item?id=43713885) - [Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure](https://www.ycombinator.com/companies/formance/jobs)
+* [2025-04-17, 06:53:05](https://news.ycombinator.com/item?id=43713842) - [Manga Guide To Databases (2004) [pdf]](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
 * [2025-04-17, 05:53:31](https://news.ycombinator.com/item?id=43713524) - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
 * [2025-04-17, 05:50:04](https://news.ycombinator.com/item?id=43713512) - [Kennedy promises to find environmental causes of autism](https://www.politico.com/news/2025/04/16/syndicate-kennedy-pledges-to-figure-out-which-environmental-toxins-are-causing-autism-00293583)
 * [2025-04-17, 05:48:23](https://news.ycombinator.com/item?id=43713502) - [GPT o3 frequently fabricates actions, then elaborately justifies these actions](https://xcancel.com/TransluceAI/status/1912552046269771985)
