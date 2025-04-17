@@ -52,6 +52,7 @@
 * [2025-04-13, 09:12:19](https://news.ycombinator.com/item?id=43671308) - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 * [2025-04-13, 08:50:31](https://news.ycombinator.com/item?id=43671196) - [Universal basic income: German experiment bring surprising results](https://www.ctvnews.ca/lifestyle/article/a-german-experiment-gave-people-a-basic-monthly-income-the-effect-on-their-work-ethic-was-surprising/)
 * [2025-04-13, 08:28:35](https://news.ycombinator.com/item?id=43671098) - [My imaginary children aren't using your streaming service](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/)
+* [2025-04-13, 07:51:16](https://news.ycombinator.com/item?id=43670921) - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
 * [2025-04-13, 07:15:10](https://news.ycombinator.com/item?id=43670737) - [Too many adults are absolutely clueless](https://www.economist.com/culture/2025/04/10/too-many-adults-are-absolutely-clueless)
 * [2025-04-13, 06:55:21](https://news.ycombinator.com/item?id=43670652) - [Audiobooks vs. Printed Books: a debate as a reader and an author](https://newsandreviews.substack.com/p/audiobooks-vs-printed-books-a-debate)
 * [2025-04-13, 06:23:24](https://news.ycombinator.com/item?id=43670527) - [Show HN: BSE – Semantic Zip Engine for Text, Image and Audio](https://news.ycombinator.com/item?id=43670527)
