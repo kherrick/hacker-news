@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-17, 05:50:04",
+      "https://news.ycombinator.com/item?id=43713512"
+    ],
+    [
+      "Kennedy promises to find environmental causes of autism",
+      "https://www.politico.com/news/2025/04/16/syndicate-kennedy-pledges-to-figure-out-which-environmental-toxins-are-causing-autism-00293583"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 01:19:41",
       "https://news.ycombinator.com/item?id=43712115"
     ],
@@ -27,16 +37,6 @@
     [
       "Jellyfin as a Spotify alternative",
       "https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 22:57:54",
-      "https://news.ycombinator.com/item?id=43711227"
-    ],
-    [
-      "Microsoft researchers developed a hyper-efficient AI model that can run on CPUs",
-      "https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/"
     ]
   ],
   [
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-04-16, 18:55:12",
-      "https://news.ycombinator.com/item?id=43709042"
-    ],
-    [
-      "RakuAST Grant Report",
-      "https://niner.name/blog/rakuast_grant_report/index.html"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 17:24:50",
       "https://news.ycombinator.com/item?id=43708025"
     ],
@@ -147,6 +137,16 @@
     [
       "A high-throughput parser for the Zig programming language",
       "https://github.com/Validark/Accelerated-Zig-Parser"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 13:58:36",
+      "https://news.ycombinator.com/item?id=43705649"
+    ],
+    [
+      "Dirty tricks 6502 programmers use (2019)",
+      "https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html"
     ]
   ],
   [
