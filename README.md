@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-17, 21:01:06](https://news.ycombinator.com/item?id=43722171) - [Mux (YC W16) is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
 * [2025-04-17, 19:51:31](https://news.ycombinator.com/item?id=43721379) - [Show HN: val – An arbitrary precision calculator language](https://github.com/terror/val)
 * [2025-04-17, 19:39:42](https://news.ycombinator.com/item?id=43721228) - [Shell-secrets – GPG-encrypted environment variables](https://github.com/waj/shell-secrets)
 * [2025-04-17, 19:38:08](https://news.ycombinator.com/item?id=43721206) - [UniK3D: Universal Camera Monocular 3D Estimation – Luigi Piccinelli](https://lpiccinelli-eth.github.io/pub/unik3d/)
@@ -8,7 +9,6 @@
 * [2025-04-17, 18:23:23](https://news.ycombinator.com/item?id=43720457) - [N-Params vs. Single Param](https://www.carlos-menezes.com/single-param-functions/)
 * [2025-04-17, 17:35:33](https://news.ycombinator.com/item?id=43719926) - [On Jane Jacobs (2017)](https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs)
 * [2025-04-17, 17:28:31](https://news.ycombinator.com/item?id=43719830) - [SQLite Transactions and Virtual Tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
-* [2025-04-17, 17:01:11](https://news.ycombinator.com/item?id=43719522) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-04-17, 16:54:58](https://news.ycombinator.com/item?id=43719447) - [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
 * [2025-04-17, 16:42:13](https://news.ycombinator.com/item?id=43719280) - [AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu](https://www.dwarkesh.com/p/ege-tamay)
 * [2025-04-17, 16:07:21](https://news.ycombinator.com/item?id=43718809) - [Milwaukee M18 Battery Reverse Engineering](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering)

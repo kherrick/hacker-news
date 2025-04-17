@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 21:01:06](https://news.ycombinator.com/item?id=43722171) - [Mux (YC W16) is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
 * [2025-04-17, 19:51:31](https://news.ycombinator.com/item?id=43721379) - [Show HN: val – An arbitrary precision calculator language written in Rust](https://github.com/terror/val)
 * [2025-04-17, 19:39:42](https://news.ycombinator.com/item?id=43721228) - [Shell-secrets – GPG-encrypted environment variables](https://github.com/waj/shell-secrets)
 * [2025-04-17, 19:38:08](https://news.ycombinator.com/item?id=43721206) - [UniK3D: Universal Camera Monocular 3D Estimation – Luigi Piccinelli](https://lpiccinelli-eth.github.io/pub/unik3d/)
