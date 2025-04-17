@@ -10,6 +10,7 @@
 * [2025-04-15, 22:26:35](https://news.ycombinator.com/item?id=43699188) - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
 * [2025-04-15, 21:46:45](https://news.ycombinator.com/item?id=43698801) - [Show HN: Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
 * [2025-04-15, 21:26:44](https://news.ycombinator.com/item?id=43698590) - [Show HN: Particle - News, Organized](https://apps.apple.com/us/app/particle-news/id6683283775)
+* [2025-04-15, 20:05:07](https://news.ycombinator.com/item?id=43697717) - [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
 * [2025-04-15, 19:46:14](https://news.ycombinator.com/item?id=43697532) - [Liquid: Language Models Are Scalable and Unified Multi-Modal Generators](https://foundationvision.github.io/Liquid/)
 * [2025-04-15, 19:36:48](https://news.ycombinator.com/item?id=43697445) - [Somehash: A Blurhash-Inspired Exploration](https://travisbumgarner.dev/blog/somehash)
 * [2025-04-15, 18:38:52](https://news.ycombinator.com/item?id=43696798) - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-17, 10:18:43](https://news.ycombinator.com/item?id=43714902) - [Building an AI That Watches Rugby](https://nickjones.tech/ai-watching-rugby/)
 * [2025-04-17, 09:30:43](https://news.ycombinator.com/item?id=43714619) - [Why Japan's \"Weakest Samurai Warlord\" Is Still Admired to This Day](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
 * [2025-04-17, 09:26:45](https://news.ycombinator.com/item?id=43714594) - [Advanced Shell Scripting with Bash (2006) [pdf]](http://uniforumchicago.org/slides/bash1.pdf)
 * [2025-04-17, 09:01:07](https://news.ycombinator.com/item?id=43714476) - [The Atari 1200XL Fiasco – By Paul Lefebvre](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
@@ -21,15 +22,14 @@
 * [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 12:16:35](https://news.ycombinator.com/item?id=43704430) - [CVE Foundation](https://www.thecvefoundation.org/home)
 * [2025-04-15, 22:38:04](https://news.ycombinator.com/item?id=43699271) - [12-factor Agents: Patterns of reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
+* [2025-04-15, 20:05:07](https://news.ycombinator.com/item?id=43697717) - [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
 * [2025-04-15, 15:09:22](https://news.ycombinator.com/item?id=43693900) - [TLS certificate lifetimes will officially reduce to 47 days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
-* [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
 * [2025-04-14, 12:48:40](https://news.ycombinator.com/item?id=43680715) - [Scientists pioneer chemical process to repurpose rubber waste](https://phys.org/news/2025-03-cleaner-future-scientists-chemical-repurpose.html)
 * [2025-04-14, 10:47:32](https://news.ycombinator.com/item?id=43679906) - [Concurrency in Haskell: Fast, Simple, Correct](https://bitbashing.io/haskell-concurrency.html)
 * [2025-04-14, 06:15:59](https://news.ycombinator.com/item?id=43678533) - [Query Engines: Push vs. Pull (2021)](https://justinjaffray.com/query-engines-push-vs.-pull/)
 * [2025-04-14, 04:48:54](https://news.ycombinator.com/item?id=43678144) - [Making Software](https://www.makingsoftware.com/)
 * [2025-04-13, 23:39:24](https://news.ycombinator.com/item?id=43676690) - [How refrigeration changed our food](https://www.nytimes.com/2024/06/24/books/review/frostbite-nicola-twilley.html)
 * [2025-04-13, 18:41:54](https://news.ycombinator.com/item?id=43674892) - [Clowning Around: On the Principles of Clowning](https://funnyhow.substack.com/p/clowning-around-)
-* [2025-04-13, 07:51:16](https://news.ycombinator.com/item?id=43670921) - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
 
 ## [Archives](archives/index.md)
 
