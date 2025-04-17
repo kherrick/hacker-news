@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 19:51:31](https://news.ycombinator.com/item?id=43721379) - [Show HN: val – An arbitrary precision calculator language written in Rust](https://github.com/terror/val)
+* [2025-04-17, 19:38:08](https://news.ycombinator.com/item?id=43721206) - [UniK3D: Universal Camera Monocular 3D Estimation – Luigi Piccinelli](https://lpiccinelli-eth.github.io/pub/unik3d/)
 * [2025-04-17, 19:35:23](https://news.ycombinator.com/item?id=43721170) - [U.S.-born man from Georgia held for ICE under Florida's new anti-immigration law](https://georgiarecorder.com/2025/04/17/georgia-born-man-held-for-ice-under-floridas-new-anti-immigration-law/)
 * [2025-04-17, 19:03:39](https://news.ycombinator.com/item?id=43720845) - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
 * [2025-04-17, 18:54:13](https://news.ycombinator.com/item?id=43720767) - [Show HN: HN Watercooler – listen to HN threads as an audio conversation](https://onetake-ai.github.io/hackernews-watercooler/)
