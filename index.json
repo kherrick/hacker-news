@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-04-16, 21:46:10",
-      "https://news.ycombinator.com/item?id=43710761"
-    ],
-    [
-      "\"Vivarium\": The keeper of a lab's animals stumbles onto a secret [fiction]",
-      "https://jsomers.net/vivarium/"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 21:26:42",
       "https://news.ycombinator.com/item?id=43710576"
     ],
@@ -147,6 +137,16 @@
     [
       "Darwin's children drew all over the “On the Origin of Species” manuscript (2014)",
       "https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 14:11:53",
+      "https://news.ycombinator.com/item?id=43705824"
+    ],
+    [
+      "A high-throughput parser for the Zig programming language",
+      "https://github.com/Validark/Accelerated-Zig-Parser"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-04-14, 10:18:12",
-      "https://news.ycombinator.com/item?id=43679764"
-    ],
-    [
-      "Unix files have (at least) two sizes",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixFilesTwoSizes"
-    ]
-  ],
-  [
-    [
       "2025-04-14, 06:15:59",
       "https://news.ycombinator.com/item?id=43678533"
     ],
@@ -297,6 +287,16 @@
     [
       "In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)",
       "https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/"
+    ]
+  ],
+  [
+    [
+      "2025-04-13, 02:23:48",
+      "https://news.ycombinator.com/item?id=43669540"
+    ],
+    [
+      "Nix Trigonometric Math Library from Ground Zero",
+      "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/"
     ]
   ]
 ]
