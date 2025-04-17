@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 09:26:45](https://news.ycombinator.com/item?id=43714594) - [Advanced Shell Scripting with Bash (2006) [pdf]](http://uniforumchicago.org/slides/bash1.pdf)
+* [2025-04-17, 09:01:07](https://news.ycombinator.com/item?id=43714476) - [The Atari 1200XL Fiasco – By Paul Lefebvre](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
 * [2025-04-17, 08:55:04](https://news.ycombinator.com/item?id=43714433) - [PolyThink: A Multi-Agent AI System to Eliminate Hallucinations](https://news.ycombinator.com/item?id=43714433)
 * [2025-04-17, 08:16:24](https://news.ycombinator.com/item?id=43714269) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 * [2025-04-17, 08:02:21](https://news.ycombinator.com/item?id=43714203) - [Astronomers have found signs of alien life on a planet beyond our Solar System](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide)
