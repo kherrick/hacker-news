@@ -28,6 +28,7 @@
 * [2025-04-13, 16:47:25](https://news.ycombinator.com/item?id=43674083) - [100th Anniversary of the Great Gatsby: The Chicago Connection](https://www.chicagotribune.com/2025/04/09/photos-chicagos-connection-to-the-great-gatsby/)
 * [2025-04-13, 16:39:08](https://news.ycombinator.com/item?id=43674016) - [Show HN: Gatehouse-TS – TypeScript port of Rust's authorization policy framework](https://github.com/9Morello/gatehouse-ts)
 * [2025-04-13, 16:24:28](https://news.ycombinator.com/item?id=43673921) - [Amazon Turned Drivers into First Responders in Europe Experiment](https://www.bloomberg.com/news/articles/2025-04-10/amazon-turned-drivers-into-first-responders-in-europe-experiment)
+* [2025-04-13, 16:21:52](https://news.ycombinator.com/item?id=43673904) - [The New Moat: Memory](https://jeffmorrisjr.substack.com/p/the-new-moat-memory)
 * [2025-04-13, 16:15:00](https://news.ycombinator.com/item?id=43673862) - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
 * [2025-04-13, 16:02:28](https://news.ycombinator.com/item?id=43673761) - [How much oranger do red orange bags make oranges look?](https://alexanderell.is/posts/orange/)
 * [2025-04-13, 16:01:33](https://news.ycombinator.com/item?id=43673754) - [How to Flatpack Programs [video]](https://www.youtube.com/watch?v=rJcQ45jKuN4)

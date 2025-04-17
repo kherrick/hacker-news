@@ -25,11 +25,11 @@
 * [2025-04-15, 20:05:07](https://news.ycombinator.com/item?id=43697717) - [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
 * [2025-04-15, 11:09:30](https://news.ycombinator.com/item?id=43691230) - [MCP Run Python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python)
 * [2025-04-14, 15:14:28](https://news.ycombinator.com/item?id=43682207) - [A type-safe, intuitive Go SDK for building MCP servers with ease and confidence](https://github.com/ktr0731/go-mcp)
-* [2025-04-14, 12:48:40](https://news.ycombinator.com/item?id=43680715) - [Scientists pioneer chemical process to repurpose rubber waste](https://phys.org/news/2025-03-cleaner-future-scientists-chemical-repurpose.html)
 * [2025-04-14, 10:47:32](https://news.ycombinator.com/item?id=43679906) - [Concurrency in Haskell: Fast, Simple, Correct](https://bitbashing.io/haskell-concurrency.html)
 * [2025-04-14, 07:57:02](https://news.ycombinator.com/item?id=43679065) - [The Second Half](https://ysymyth.github.io/The-Second-Half/)
 * [2025-04-14, 04:48:54](https://news.ycombinator.com/item?id=43678144) - [Making Software](https://www.makingsoftware.com/)
 * [2025-04-14, 04:47:51](https://news.ycombinator.com/item?id=43678138) - [Adipose tissue retains an epigenetic memory of obesity after weight loss](https://www.nature.com/articles/s41586-024-08165-7)
+* [2025-04-13, 16:21:52](https://news.ycombinator.com/item?id=43673904) - [The New Moat: Memory](https://jeffmorrisjr.substack.com/p/the-new-moat-memory)
 
 ## [Archives](archives/index.md)
 
