@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-04-17, 17:28:31",
+      "https://news.ycombinator.com/item?id=43719830"
+    ],
+    [
+      "SQLite Transactions and Virtual Tables",
+      "https://misfra.me/2025/sqlite-transactions-and-virtual-tables/"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 17:01:11",
       "https://news.ycombinator.com/item?id=43719522"
     ],
@@ -41,11 +51,31 @@
   ],
   [
     [
+      "2025-04-17, 16:07:21",
+      "https://news.ycombinator.com/item?id=43718809"
+    ],
+    [
+      "Milwaukee M18 Battery Reverse Engineering",
+      "https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 15:15:39",
+      "https://news.ycombinator.com/item?id=43718124"
+    ],
+    [
+      "Show HN: Zuni (YC S24) – AI Copilot for the Browser",
+      "https://zuni.app"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 14:47:46",
       "https://news.ycombinator.com/item?id=43717705"
     ],
     [
-      "Google Is a Monopolist in Online Advertising Tech, Judge Says",
+      "Google is illegally monopolizing online advertising tech, judge rules",
       "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html"
     ]
   ],
@@ -67,6 +97,16 @@
     [
       "Stainless steel strengthened: Twisting creates submicron 'anti-crash wall'",
       "https://techxplore.com/news/2025-04-stainless-steel-technique-submicron-anti.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 13:51:49",
+      "https://news.ycombinator.com/item?id=43716856"
+    ],
+    [
+      "OpenAI looked at buying Cursor creator before turning to Windsurf",
+      "https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "An Intro to DeepSeek's Distributed File System",
       "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 11:22:17",
-      "https://news.ycombinator.com/item?id=43715235"
-    ],
-    [
-      "Cutting down Rust compile times from 30 to 2 minutes with one thousand crates",
-      "https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-04-16, 21:26:42",
-      "https://news.ycombinator.com/item?id=43710576"
-    ],
-    [
-      "Show HN: Plandex v2 – open source AI coding agent for large projects and tasks",
-      "https://github.com/plandex-ai/plandex"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 17:24:50",
       "https://news.ycombinator.com/item?id=43708025"
     ],
@@ -247,26 +267,6 @@
     [
       "MCP Run Python",
       "https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 15:14:28",
-      "https://news.ycombinator.com/item?id=43682207"
-    ],
-    [
-      "A type-safe, intuitive Go SDK for building MCP servers with ease and confidence",
-      "https://github.com/ktr0731/go-mcp"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 10:47:32",
-      "https://news.ycombinator.com/item?id=43679906"
-    ],
-    [
-      "Concurrency in Haskell: Fast, Simple, Correct",
-      "https://bitbashing.io/haskell-concurrency.html"
     ]
   ],
   [
