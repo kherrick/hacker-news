@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 13:57:09](https://news.ycombinator.com/item?id=43716939) - ['College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
+* [2025-04-17, 13:29:41](https://news.ycombinator.com/item?id=43716525) - [Russian Propaganda Campaign Targets France with AI-Fabricated Scandals](https://www.newsguardtech.com/special-reports/russian-propaganda-campaign-targets-france-with-ai-fabricated-scandals/)
 * [2025-04-17, 12:56:58](https://news.ycombinator.com/item?id=43716138) - [Encryption Is Not a Crime](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/)
 * [2025-04-17, 12:54:49](https://news.ycombinator.com/item?id=43716110) - [Toothpaste widely contaminated with lead and other metals, US research finds](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals)
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
