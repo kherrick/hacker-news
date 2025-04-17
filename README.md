@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-17, 05:53:31](https://news.ycombinator.com/item?id=43713524) - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
-* [2025-04-17, 05:50:04](https://news.ycombinator.com/item?id=43713512) - [Kennedy promises to find environmental causes of autism](https://www.politico.com/news/2025/04/16/syndicate-kennedy-pledges-to-figure-out-which-environmental-toxins-are-causing-autism-00293583)
 * [2025-04-17, 05:48:23](https://news.ycombinator.com/item?id=43713502) - [GPT o3 frequently fabricates actions, then elaborately justifies these actions](https://xcancel.com/TransluceAI/status/1912552046269771985)
+* [2025-04-17, 01:46:51](https://news.ycombinator.com/item?id=43712280) - [Library patterns: Why frameworks are evil](https://tomasp.net/blog/2015/library-frameworks/)
 * [2025-04-17, 00:55:49](https://news.ycombinator.com/item?id=43711957) - [Zoom outage caused by accidental 'shutting down' of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
 * [2025-04-17, 00:10:51](https://news.ycombinator.com/item?id=43711706) - [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
 * [2025-04-16, 22:21:14](https://news.ycombinator.com/item?id=43711001) - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
