@@ -2,6 +2,7 @@
 
 * [2025-04-17, 17:01:11](https://news.ycombinator.com/item?id=43719522) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-04-17, 16:54:58](https://news.ycombinator.com/item?id=43719447) - [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
+* [2025-04-17, 16:42:13](https://news.ycombinator.com/item?id=43719280) - [AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu](https://www.dwarkesh.com/p/ege-tamay)
 * [2025-04-17, 16:37:04](https://news.ycombinator.com/item?id=43719211) - [Top OpenAI Catastrophic Risk Official Steps Down Abruptly](https://garrisonlovely.substack.com/p/breaking-top-openai-catastrophic)
 * [2025-04-17, 14:47:46](https://news.ycombinator.com/item?id=43717705) - [Google Is a Monopolist in Online Advertising Tech, Judge Says](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
 * [2025-04-17, 14:42:07](https://news.ycombinator.com/item?id=43717606) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
@@ -13,7 +14,6 @@
 * [2025-04-17, 11:22:17](https://news.ycombinator.com/item?id=43715235) - [Cutting down Rust compile times from 30 to 2 minutes with one thousand crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
 * [2025-04-17, 10:18:43](https://news.ycombinator.com/item?id=43714902) - [Building an AI That Watches Rugby](https://nickjones.tech/ai-watching-rugby/)
 * [2025-04-17, 09:30:43](https://news.ycombinator.com/item?id=43714619) - [Why Japan's \"Weakest Samurai Warlord\" Is Still Admired to This Day](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
-* [2025-04-17, 09:26:45](https://news.ycombinator.com/item?id=43714594) - [Advanced Shell Scripting with Bash (2006) [pdf]](http://uniforumchicago.org/slides/bash1.pdf)
 * [2025-04-17, 07:34:08](https://news.ycombinator.com/item?id=43714041) - [The Halting Problem is a terrible example of NP-Harder](https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/)
 * [2025-04-17, 07:27:11](https://news.ycombinator.com/item?id=43714004) - [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
 * [2025-04-17, 05:53:31](https://news.ycombinator.com/item?id=43713524) - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)

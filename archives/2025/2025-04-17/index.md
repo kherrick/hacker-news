@@ -6,6 +6,7 @@
 
 * [2025-04-17, 17:01:11](https://news.ycombinator.com/item?id=43719522) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-04-17, 16:54:58](https://news.ycombinator.com/item?id=43719447) - [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
+* [2025-04-17, 16:42:13](https://news.ycombinator.com/item?id=43719280) - [AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu](https://www.dwarkesh.com/p/ege-tamay)
 * [2025-04-17, 16:37:04](https://news.ycombinator.com/item?id=43719211) - [Top OpenAI Catastrophic Risk Official Steps Down Abruptly](https://garrisonlovely.substack.com/p/breaking-top-openai-catastrophic)
 * [2025-04-17, 14:47:46](https://news.ycombinator.com/item?id=43717705) - [Google Is a Monopolist in Online Advertising Tech, Judge Says](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
 * [2025-04-17, 14:42:07](https://news.ycombinator.com/item?id=43717606) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
