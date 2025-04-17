@@ -81,6 +81,7 @@
 * [2025-04-14, 04:22:50](https://news.ycombinator.com/item?id=43678023) - [How I Use Audio Journaling and AI to Improve My Trading Decisions](https://www.fractiz.com/how-i-use-audio-journaling-and-ai-to-improve-my-trading-decisions/)
 * [2025-04-14, 03:52:56](https://news.ycombinator.com/item?id=43677917) - [Mario Vargas Llosa has died](https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html)
 * [2025-04-14, 03:51:55](https://news.ycombinator.com/item?id=43677909) - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
+* [2025-04-14, 03:43:55](https://news.ycombinator.com/item?id=43677862) - [Demolishing the Fry's Electronics in Burbank](https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123)
 * [2025-04-14, 02:42:27](https://news.ycombinator.com/item?id=43677610) - [Show HN: Nissan's Leaf App Doesn't Have a Home Screen Widget So I Made My Own](https://kevintechnology.com/posts/leaf-widget/)
 * [2025-04-14, 01:48:15](https://news.ycombinator.com/item?id=43677365) - [Small Towns in Japan](https://japanstartshere.com/2020/04/06/small-towns-in-japan/)
 * [2025-04-14, 01:41:10](https://news.ycombinator.com/item?id=43677326) - [Calcium may have unlocked the origins of life's molecular asymmetry](https://www.sciencedaily.com/releases/2025/03/250327142001.htm)

@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-17](index.md)
+
+* [2025-04-17, 00:10:51](https://news.ycombinator.com/item?id=43711706) - [Jellyfin as a Spotify Alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)

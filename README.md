@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-16, 23:25:32](https://news.ycombinator.com/item?id=43711410) - [Seth Rogen Speaks Truth to Billionaires, Gets Censored for It](https://kottke.org/25/04/seth-rogan-speaks-truth-to-billionaires-gets-censored-for-it)
+* [2025-04-17, 00:10:51](https://news.ycombinator.com/item?id=43711706) - [Jellyfin as a Spotify Alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
 * [2025-04-16, 23:20:31](https://news.ycombinator.com/item?id=43711376) - [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html)
 * [2025-04-16, 22:57:54](https://news.ycombinator.com/item?id=43711227) - [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
 * [2025-04-16, 22:21:14](https://news.ycombinator.com/item?id=43711001) - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
@@ -21,13 +21,13 @@
 * [2025-04-16, 12:57:13](https://news.ycombinator.com/item?id=43704904) - [Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 12:33:33](https://news.ycombinator.com/item?id=43704596) - [Nintendo Bled Atari Games to Death](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/)
 * [2025-04-16, 12:16:35](https://news.ycombinator.com/item?id=43704430) - [CVE Foundation](https://www.thecvefoundation.org/home)
-* [2025-04-16, 10:26:00](https://news.ycombinator.com/item?id=43703623) - [An Introduction to Stochastic Calculus (2022)](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/)
 * [2025-04-15, 22:38:04](https://news.ycombinator.com/item?id=43699271) - [12-factor Agents: Patterns of reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 * [2025-04-15, 15:09:22](https://news.ycombinator.com/item?id=43693900) - [TLS certificate lifetimes will officially reduce to 47 days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
 * [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
-* [2025-04-14, 10:31:52](https://news.ycombinator.com/item?id=43679831) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+* [2025-04-14, 10:31:52](https://news.ycombinator.com/item?id=43679831) - [Four Kinds of Optimisation (2023)](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [2025-04-14, 10:18:12](https://news.ycombinator.com/item?id=43679764) - [Unix files have (at least) two sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixFilesTwoSizes)
 * [2025-04-14, 06:15:59](https://news.ycombinator.com/item?id=43678533) - [Query Engines: Push vs. Pull (2021)](https://justinjaffray.com/query-engines-push-vs.-pull/)
+* [2025-04-14, 03:43:55](https://news.ycombinator.com/item?id=43677862) - [Demolishing the Fry's Electronics in Burbank](https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123)
 * [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
 * [2025-04-13, 15:20:55](https://news.ycombinator.com/item?id=43673425) - [Tech workers are leaving notes in robot taxis seeking workers and lovers](https://www.washingtonpost.com/technology/2025/04/12/waymo-handwritten-notes-jobs-ads/)
 
