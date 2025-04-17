@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 11:22:17](https://news.ycombinator.com/item?id=43715235) - [Cutting down Rust compile times from 30 to 2 minutes with one thousand crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
 * [2025-04-17, 10:57:38](https://news.ycombinator.com/item?id=43715109) - [As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/)
 * [2025-04-17, 10:42:01](https://news.ycombinator.com/item?id=43715022) - [US Government threatens Harvard with foreign student ban](https://www.bbc.com/news/articles/c1egdy24v7po)
 * [2025-04-17, 10:28:31](https://news.ycombinator.com/item?id=43714959) - [Development on Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
