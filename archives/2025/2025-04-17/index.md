@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 10:57:38](https://news.ycombinator.com/item?id=43715109) - [As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/)
+* [2025-04-17, 10:42:01](https://news.ycombinator.com/item?id=43715022) - [US Government threatens Harvard with foreign student ban](https://www.bbc.com/news/articles/c1egdy24v7po)
 * [2025-04-17, 10:28:31](https://news.ycombinator.com/item?id=43714959) - [Development on Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
 * [2025-04-17, 10:18:43](https://news.ycombinator.com/item?id=43714902) - [Building an AI That Watches Rugby](https://nickjones.tech/ai-watching-rugby/)
 * [2025-04-17, 09:30:43](https://news.ycombinator.com/item?id=43714619) - [Why Japan's \"Weakest Samurai Warlord\" Is Still Admired to This Day](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
