@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-17, 21:07:34](https://news.ycombinator.com/item?id=43722220) - [Digital nomads could create network states](https://www.elysian.press/p/digital-nomad-network-states)
 * [2025-04-17, 21:01:06](https://news.ycombinator.com/item?id=43722171) - [Mux (YC W16) is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
 * [2025-04-17, 19:51:31](https://news.ycombinator.com/item?id=43721379) - [Show HN: val – An arbitrary precision calculator language](https://github.com/terror/val)
 * [2025-04-17, 19:39:42](https://news.ycombinator.com/item?id=43721228) - [Shell-secrets – GPG-encrypted environment variables](https://github.com/waj/shell-secrets)
@@ -24,7 +25,6 @@
 * [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [Vivarium: The keeper of a lab's animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
 * [2025-04-16, 12:12:17](https://news.ycombinator.com/item?id=43704382) - [Snapchat is harming children at an industrial scale?](https://www.afterbabel.com/p/industrial-scale-snapchat)
 * [2025-04-16, 12:10:33](https://news.ycombinator.com/item?id=43704364) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
-* [2025-04-15, 13:56:32](https://news.ycombinator.com/item?id=43692746) - [Ultrafast Optical Detector](https://www.tdk.com/en/about_tdk/innovation/spin-photo-detector/index.html)
 * [2025-04-15, 11:09:30](https://news.ycombinator.com/item?id=43691230) - [MCP Run Python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python)
 * [2025-04-14, 23:43:54](https://news.ycombinator.com/item?id=43687494) - [There are two types of dishwasher people](https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/)
 * [2025-04-14, 19:17:16](https://news.ycombinator.com/item?id=43685072) - [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/)
