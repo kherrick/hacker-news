@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-17, 23:04:31](https://news.ycombinator.com/item?id=43723160) - [Trump's FCC chair threatens Comcast, demands changes to NBC news coverage](https://arstechnica.com/tech-policy/2025/04/trumps-fcc-chair-threatens-comcast-demands-changes-to-nbc-news-coverage/)
 * [2025-04-17, 23:01:48](https://news.ycombinator.com/item?id=43723135) - [AI is turning us into glue](https://lincoln.swaine-moore.is/writing-about/ai-and-glue)
+* [2025-04-17, 22:55:36](https://news.ycombinator.com/item?id=43723086) - [CN Tower, Behind the Scenes (2014)](https://site.roadwolf.ca/categories/ue/cntower/)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 21:01:06](https://news.ycombinator.com/item?id=43722171) - [Mux (YC W16) is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
 * [2025-04-17, 19:51:31](https://news.ycombinator.com/item?id=43721379) - [Show HN: val – An arbitrary precision calculator language](https://github.com/terror/val)
@@ -21,13 +21,13 @@
 * [2025-04-17, 13:29:44](https://news.ycombinator.com/item?id=43716526) - [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An intro to DeepSeek's distributed file system](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-17, 12:34:38](https://news.ycombinator.com/item?id=43715884) - [Discord's face scanning age checks 'start of a bigger shift'](https://www.bbc.com/news/articles/cjr75wypg0vo)
+* [2025-04-17, 09:01:07](https://news.ycombinator.com/item?id=43714476) - [The Atari 1200XL fiasco](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
 * [2025-04-17, 00:10:51](https://news.ycombinator.com/item?id=43711706) - [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
 * [2025-04-16, 12:10:33](https://news.ycombinator.com/item?id=43704364) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
 * [2025-04-15, 11:09:30](https://news.ycombinator.com/item?id=43691230) - [MCP Run Python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python)
 * [2025-04-14, 23:43:54](https://news.ycombinator.com/item?id=43687494) - [There are two types of dishwasher people](https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/)
 * [2025-04-14, 19:17:16](https://news.ycombinator.com/item?id=43685072) - [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/)
-* [2025-04-14, 11:33:10](https://news.ycombinator.com/item?id=43680177) - [XSS on using the legacy \"Graphie To PNG\" API](https://hackerone.com/reports/2846011)
 * [2025-04-14, 04:48:54](https://news.ycombinator.com/item?id=43678144) - [Making Software](https://www.makingsoftware.com/)
 * [2025-04-14, 04:31:04](https://news.ycombinator.com/item?id=43678074) - [Our quantum assembly parser got updated to the QASM 3.0 spec](https://arxiv.org/abs/2412.12578)
 

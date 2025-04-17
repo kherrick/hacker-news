@@ -6,6 +6,7 @@
 
 * [2025-04-17, 23:04:31](https://news.ycombinator.com/item?id=43723160) - [Trump's FCC chair threatens Comcast, demands changes to NBC news coverage](https://arstechnica.com/tech-policy/2025/04/trumps-fcc-chair-threatens-comcast-demands-changes-to-nbc-news-coverage/)
 * [2025-04-17, 23:01:48](https://news.ycombinator.com/item?id=43723135) - [AI is turning us into glue](https://lincoln.swaine-moore.is/writing-about/ai-and-glue)
+* [2025-04-17, 22:55:36](https://news.ycombinator.com/item?id=43723086) - [CN Tower, Behind the Scenes (2014)](https://site.roadwolf.ca/categories/ue/cntower/)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 21:07:34](https://news.ycombinator.com/item?id=43722220) - [Digital nomads could create network states](https://www.elysian.press/p/digital-nomad-network-states)
 * [2025-04-17, 21:01:06](https://news.ycombinator.com/item?id=43722171) - [Mux (YC W16) is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
