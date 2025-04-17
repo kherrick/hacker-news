@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 05:50:04](https://news.ycombinator.com/item?id=43713512) - [Kennedy promises to find environmental causes of autism](https://www.politico.com/news/2025/04/16/syndicate-kennedy-pledges-to-figure-out-which-environmental-toxins-are-causing-autism-00293583)
 * [2025-04-17, 02:44:43](https://news.ycombinator.com/item?id=43712598) - [US judge finds administration wilfully defied court order in deportation flights](https://www.abc.net.au/news/2025-04-17/judge-in-venezuelan-migrants-case-finds-trump-admin-probably-con/105186022)
 * [2025-04-17, 01:19:41](https://news.ycombinator.com/item?id=43712115) - [Sony Unveils the Smallest and Lightest Lidar Depth Sensor](https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/)
 * [2025-04-17, 00:55:49](https://news.ycombinator.com/item?id=43711957) - [Zoom outage caused by accidental 'shutting down' of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
