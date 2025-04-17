@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-17, 14:47:46](https://news.ycombinator.com/item?id=43717705) - [Google Is a Monopolist in Online Advertising Tech, Judge Says](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
+* [2025-04-17, 14:42:07](https://news.ycombinator.com/item?id=43717606) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
 * [2025-04-17, 14:28:07](https://news.ycombinator.com/item?id=43717377) - [Stainless steel strengthened: Twisting creates submicron 'anti-crash wall'](https://techxplore.com/news/2025-04-stainless-steel-technique-submicron-anti.html)
 * [2025-04-17, 13:57:09](https://news.ycombinator.com/item?id=43716939) - [This 'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
 * [2025-04-17, 13:39:28](https://news.ycombinator.com/item?id=43716665) - [TikTok Is Harming Children at an Industrial Scale](https://www.afterbabel.com/p/industrial-scale-harm-tiktok)
@@ -29,7 +30,6 @@
 * [2025-04-14, 07:57:02](https://news.ycombinator.com/item?id=43679065) - [The Second Half](https://ysymyth.github.io/The-Second-Half/)
 * [2025-04-14, 04:48:54](https://news.ycombinator.com/item?id=43678144) - [Making Software](https://www.makingsoftware.com/)
 * [2025-04-14, 04:47:51](https://news.ycombinator.com/item?id=43678138) - [Adipose tissue retains an epigenetic memory of obesity after weight loss](https://www.nature.com/articles/s41586-024-08165-7)
-* [2025-04-13, 23:39:24](https://news.ycombinator.com/item?id=43676690) - [How refrigeration changed our food](https://www.nytimes.com/2024/06/24/books/review/frostbite-nicola-twilley.html)
 
 ## [Archives](archives/index.md)
 
