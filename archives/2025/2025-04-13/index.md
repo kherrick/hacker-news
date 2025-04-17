@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
 * [2025-04-13, 23:53:35](https://news.ycombinator.com/item?id=43676771) - [Everything Wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
+* [2025-04-13, 23:39:24](https://news.ycombinator.com/item?id=43676690) - [How refrigeration changed our food](https://www.nytimes.com/2024/06/24/books/review/frostbite-nicola-twilley.html)
 * [2025-04-13, 22:15:08](https://news.ycombinator.com/item?id=43676254) - [You're Probably Breaking the Llama Community License](https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/)
 * [2025-04-13, 21:43:36](https://news.ycombinator.com/item?id=43676084) - [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
 * [2025-04-13, 21:42:27](https://news.ycombinator.com/item?id=43676075) - [What Is GNU Radio?](https://wiki.gnuradio.org/index.php?title=What_Is_GNU_Radio)
