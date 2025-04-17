@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-04-17, 12:34:38",
+      "https://news.ycombinator.com/item?id=43715884"
+    ],
+    [
+      "Discord's face scanning age checks 'start of a bigger shift'",
+      "https://www.bbc.com/news/articles/cjr75wypg0vo"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 12:20:33",
+      "https://news.ycombinator.com/item?id=43715737"
+    ],
+    [
+      "I Cannot Be Technical",
+      "https://www.fightforthehuman.com/why-i-cannot-be-technical/"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 12:00:31",
       "https://news.ycombinator.com/item?id=43715525"
     ],
     [
       "Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote)",
       "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 11:34:30",
+      "https://news.ycombinator.com/item?id=43715306"
+    ],
+    [
+      "mIRC: Internet Relay Chat Client",
+      "https://www.mirc.com/"
     ]
   ],
   [
@@ -21,22 +51,12 @@
   ],
   [
     [
-      "2025-04-17, 10:59:03",
-      "https://news.ycombinator.com/item?id=43715116"
+      "2025-04-17, 10:43:23",
+      "https://news.ycombinator.com/item?id=43715030"
     ],
     [
-      "Daily Pill May Work as Well as Ozempic for Weight Loss and Blood Sugar",
-      "https://www.nytimes.com/2025/04/17/health/pill-glp-1-eli-lilly.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 10:57:38",
-      "https://news.ycombinator.com/item?id=43715109"
-    ],
-    [
-      "As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond",
-      "https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/"
+      "Erlang Solutions' Blog round-up",
+      "https://www.erlang-solutions.com/blog/erlang-solutions-blog-round-up/"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=43714476"
     ],
     [
-      "The Atari 1200XL Fiasco – By Paul Lefebvre",
+      "The Atari 1200XL Fiasco",
       "https://www.goto10retro.com/p/the-atari-1200xl-fiasco"
     ]
   ],
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2025-04-17, 07:29:54",
-      "https://news.ycombinator.com/item?id=43714023"
+      "2025-04-17, 07:34:08",
+      "https://news.ycombinator.com/item?id=43714041"
     ],
     [
-      "WordPress Feature API",
-      "https://github.com/Automattic/wp-feature-api"
+      "The Halting Problem is a terrible example of NP-Harder",
+      "https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2025-04-16, 22:21:14",
-      "https://news.ycombinator.com/item?id=43711001"
-    ],
-    [
-      "How a Forgotten Battle Created a More Peaceful World",
-      "https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 21:26:42",
       "https://news.ycombinator.com/item?id=43710576"
     ],
     [
       "Show HN: Plandex v2 – open source AI coding agent for large projects and tasks",
       "https://github.com/plandex-ai/plandex"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 20:06:50",
-      "https://news.ycombinator.com/item?id=43709770"
-    ],
-    [
-      "Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)",
-      "https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-04-16, 12:16:35",
-      "https://news.ycombinator.com/item?id=43704430"
-    ],
-    [
-      "CVE Foundation",
-      "https://www.thecvefoundation.org/home"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 22:38:04",
       "https://news.ycombinator.com/item?id=43699271"
     ],
@@ -247,6 +237,16 @@
     [
       "Miscellaneous Mathematical Symbols",
       "https://www.johndcook.com/blog/2025/04/14/miscellaneous-mathematical-symbols/"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 15:14:28",
+      "https://news.ycombinator.com/item?id=43682207"
+    ],
+    [
+      "A type-safe, intuitive Go SDK for building MCP servers with ease and confidence",
+      "https://github.com/ktr0731/go-mcp"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-04-13, 18:41:54",
-      "https://news.ycombinator.com/item?id=43674892"
+      "2025-04-13, 23:39:24",
+      "https://news.ycombinator.com/item?id=43676690"
     ],
     [
-      "Clowning Around: On the Principles of Clowning",
-      "https://funnyhow.substack.com/p/clowning-around-"
+      "How refrigeration changed our food",
+      "https://www.nytimes.com/2024/06/24/books/review/frostbite-nicola-twilley.html"
     ]
   ]
 ]
