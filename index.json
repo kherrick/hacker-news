@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-17, 18:23:23",
+      "https://news.ycombinator.com/item?id=43720457"
+    ],
+    [
+      "N-Params vs. Single Param",
+      "https://www.carlos-menezes.com/single-param-functions/"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 17:35:33",
       "https://news.ycombinator.com/item?id=43719926"
     ],
@@ -121,32 +131,12 @@
   ],
   [
     [
-      "2025-04-17, 13:11:21",
-      "https://news.ycombinator.com/item?id=43716293"
-    ],
-    [
-      "Scientists find strongest evidence yet of life on an alien planet",
-      "https://www.reuters.com/science/scientists-find-strongest-evidence-yet-life-an-alien-planet-2025-04-16/"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 12:50:37",
       "https://news.ycombinator.com/item?id=43716058"
     ],
     [
       "An Intro to DeepSeek's Distributed File System",
       "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 10:18:43",
-      "https://news.ycombinator.com/item?id=43714902"
-    ],
-    [
-      "Building an AI That Watches Rugby",
-      "https://nickjones.tech/ai-watching-rugby/"
     ]
   ],
   [
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2025-04-17, 04:30:47",
-      "https://news.ycombinator.com/item?id=43713140"
-    ],
-    [
-      "Differentiable Programming from Scratch",
-      "https://thenumb.at/Autodiff/"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 00:55:49",
       "https://news.ycombinator.com/item?id=43711957"
     ],
@@ -211,12 +191,12 @@
   ],
   [
     [
-      "2025-04-16, 17:24:50",
-      "https://news.ycombinator.com/item?id=43708025"
+      "2025-04-16, 21:46:10",
+      "https://news.ycombinator.com/item?id=43710761"
     ],
     [
-      "OpenAI Codex CLI: Lightweight coding agent that runs in your terminal",
-      "https://github.com/openai/codex"
+      "Vivarium: The keeper of a lab's animals stumbles onto a secret [fiction]",
+      "https://jsomers.net/vivarium/"
     ]
   ],
   [
@@ -231,12 +211,22 @@
   ],
   [
     [
-      "2025-04-15, 21:26:44",
-      "https://news.ycombinator.com/item?id=43698590"
+      "2025-04-16, 12:12:17",
+      "https://news.ycombinator.com/item?id=43704382"
     ],
     [
-      "Show HN: Particle - News, Organized",
-      "https://apps.apple.com/us/app/particle-news/id6683283775"
+      "Snapchat is harming children at an industrial scale",
+      "https://www.afterbabel.com/p/industrial-scale-snapchat"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 12:10:33",
+      "https://news.ycombinator.com/item?id=43704364"
+    ],
+    [
+      "Marching Events: What does iCalendar have to do with ray marching?",
+      "https://pwy.io/posts/marching-events/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "MCP Run Python",
       "https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 23:43:54",
+      "https://news.ycombinator.com/item?id=43687494"
+    ],
+    [
+      "There Are Two Types of Dishwasher People",
+      "https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/"
     ]
   ],
   [
