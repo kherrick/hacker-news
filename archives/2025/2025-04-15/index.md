@@ -43,6 +43,7 @@
 * [2025-04-15, 14:38:25](https://news.ycombinator.com/item?id=43693402) - [How to Win an Argument with a Toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)
 * [2025-04-15, 14:33:10](https://news.ycombinator.com/item?id=43693326) - [Hacking the Postgres Wire Protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
 * [2025-04-15, 14:13:19](https://news.ycombinator.com/item?id=43692998) - [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
+* [2025-04-15, 13:56:32](https://news.ycombinator.com/item?id=43692746) - [Ultrafast Optical Detector](https://www.tdk.com/en/about_tdk/innovation/spin-photo-detector/index.html)
 * [2025-04-15, 13:51:43](https://news.ycombinator.com/item?id=43692690) - [I'm getting fed up of making the rich, richer](https://bell.bz/im-getting-fed-up-of-making-the-rich-richer/)
 * [2025-04-15, 13:50:49](https://news.ycombinator.com/item?id=43692677) - [America Underestimates the Difficulty of Bringing Manufacturing Back](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back)
 * [2025-04-15, 13:34:21](https://news.ycombinator.com/item?id=43692476) - [Launch HN: Mrge.io (YC X25) – Cursor for code review](https://news.ycombinator.com/item?id=43692476)

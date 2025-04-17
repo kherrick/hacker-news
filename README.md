@@ -13,7 +13,6 @@
 * [2025-04-17, 10:18:43](https://news.ycombinator.com/item?id=43714902) - [Building an AI That Watches Rugby](https://nickjones.tech/ai-watching-rugby/)
 * [2025-04-17, 09:30:43](https://news.ycombinator.com/item?id=43714619) - [Why Japan's \"Weakest Samurai Warlord\" Is Still Admired to This Day](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/)
 * [2025-04-17, 09:26:45](https://news.ycombinator.com/item?id=43714594) - [Advanced Shell Scripting with Bash (2006) [pdf]](http://uniforumchicago.org/slides/bash1.pdf)
-* [2025-04-17, 09:01:07](https://news.ycombinator.com/item?id=43714476) - [The Atari 1200XL Fiasco](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
 * [2025-04-17, 07:34:08](https://news.ycombinator.com/item?id=43714041) - [The Halting Problem is a terrible example of NP-Harder](https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/)
 * [2025-04-17, 07:27:11](https://news.ycombinator.com/item?id=43714004) - [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
 * [2025-04-17, 05:53:31](https://news.ycombinator.com/item?id=43713524) - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
@@ -23,13 +22,14 @@
 * [2025-04-16, 17:24:50](https://news.ycombinator.com/item?id=43708025) - [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 * [2025-04-16, 14:28:36](https://news.ycombinator.com/item?id=43706037) - [Darwin's children drew all over the “On the Origin of Species” manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species)
 * [2025-04-15, 20:05:07](https://news.ycombinator.com/item?id=43697717) - [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
+* [2025-04-15, 13:56:32](https://news.ycombinator.com/item?id=43692746) - [Ultrafast Optical Detector](https://www.tdk.com/en/about_tdk/innovation/spin-photo-detector/index.html)
 * [2025-04-15, 11:09:30](https://news.ycombinator.com/item?id=43691230) - [MCP Run Python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python)
 * [2025-04-14, 15:14:28](https://news.ycombinator.com/item?id=43682207) - [A type-safe, intuitive Go SDK for building MCP servers with ease and confidence](https://github.com/ktr0731/go-mcp)
+* [2025-04-14, 12:48:40](https://news.ycombinator.com/item?id=43680715) - [Scientists pioneer chemical process to repurpose rubber waste](https://phys.org/news/2025-03-cleaner-future-scientists-chemical-repurpose.html)
 * [2025-04-14, 10:47:32](https://news.ycombinator.com/item?id=43679906) - [Concurrency in Haskell: Fast, Simple, Correct](https://bitbashing.io/haskell-concurrency.html)
 * [2025-04-14, 07:57:02](https://news.ycombinator.com/item?id=43679065) - [The Second Half](https://ysymyth.github.io/The-Second-Half/)
 * [2025-04-14, 04:48:54](https://news.ycombinator.com/item?id=43678144) - [Making Software](https://www.makingsoftware.com/)
 * [2025-04-14, 04:47:51](https://news.ycombinator.com/item?id=43678138) - [Adipose tissue retains an epigenetic memory of obesity after weight loss](https://www.nature.com/articles/s41586-024-08165-7)
-* [2025-04-13, 16:21:52](https://news.ycombinator.com/item?id=43673904) - [The New Moat: Memory](https://jeffmorrisjr.substack.com/p/the-new-moat-memory)
 
 ## [Archives](archives/index.md)
 
