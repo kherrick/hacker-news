@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-18, 20:50:18",
+      "https://news.ycombinator.com/item?id=43731746"
+    ],
+    [
+      "Hextraction, a free and open source board game",
+      "https://www.playhextraction.com/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 20:24:09",
+      "https://news.ycombinator.com/item?id=43731552"
+    ],
+    [
+      "Full Text Search of US Court records",
+      "https://www.judyrecords.com/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 19:40:06",
       "https://news.ycombinator.com/item?id=43731250"
     ],
@@ -27,6 +47,16 @@
     [
       "Loglan'82: programming language for object-oriented and distributed programming",
       "https://lem12.uksw.edu.pl/wiki/Loglan%2782_project"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 18:52:58",
+      "https://news.ycombinator.com/item?id=43730870"
+    ],
+    [
+      "PDCurses – for environments that don't fit the termcap/terminfo model",
+      "https://github.com/wmcbrine/PDCurses"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-04-18, 03:59:35",
-      "https://news.ycombinator.com/item?id=43724870"
-    ],
-    [
-      "Why is Good Friday called Good Friday?",
-      "https://www.historyextra.com/period/general-history/good-friday-facts-why-called/"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 22:44:11",
       "https://news.ycombinator.com/item?id=43723020"
     ],
@@ -227,16 +247,6 @@
     [
       "Atypography – Art Movement Introduction",
       "https://www.atypography.com"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 23:17:13",
-      "https://news.ycombinator.com/item?id=43699564"
-    ],
-    [
-      "Four Years of Jai (2024)",
-      "https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The most famous carbon dioxide absorber",
       "https://www.howequipmentworks.com/apollo_13/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 16:34:08",
-      "https://news.ycombinator.com/item?id=43683130"
-    ],
-    [
-      "Growing a Language [pdf] (1998)",
-      "https://langev.com/pdf/steele99growing.pdf"
     ]
   ]
 ]
