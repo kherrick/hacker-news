@@ -9,7 +9,7 @@
 * [2025-04-18, 15:35:30](https://news.ycombinator.com/item?id=43729063) - [SDFs from Unoriented Point Clouds Using Neural Variational Heat Distances](https://arxiv.org/abs/2504.11212)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 * [2025-04-18, 13:09:50](https://news.ycombinator.com/item?id=43727743) - [Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
-* [2025-04-18, 10:27:39](https://news.ycombinator.com/item?id=43726672) - [Walled Gardens Can Kill](https://aneesiqbal.ai/2025-04-18-walled-gardens-can-kill)
+* [2025-04-18, 09:33:50](https://news.ycombinator.com/item?id=43726413) - [Zig and GPUs](https://alichraghi.github.io/blog/zig-gpu/)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
 * [2025-04-18, 08:11:45](https://news.ycombinator.com/item?id=43726037) - [Unikernel Linux (UKL) (2023)](https://dl.acm.org/doi/10.1145/3552326.3587458)
 * [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
@@ -19,7 +19,6 @@
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 19:03:39](https://news.ycombinator.com/item?id=43720845) - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
 * [2025-04-17, 13:35:58](https://news.ycombinator.com/item?id=43716616) - [Show HN: LTE-connected IoT module with remote programming and NL data analysis](https://www.youtube.com/watch?v=3L_OU-fMW_w)
-* [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An intro to DeepSeek's distributed file system](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-16, 02:16:51](https://news.ycombinator.com/item?id=43700714) - [The physics of bowling strike after strike](https://arstechnica.com/science/2025/04/the-physics-of-bowling-strike-after-strike/)
 * [2025-04-15, 23:17:13](https://news.ycombinator.com/item?id=43699564) - [Four Years of Jai (2024)](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-15, 23:01:04](https://news.ycombinator.com/item?id=43699431) - [Multipaint: Draw pictures with color limitations of 8-bit and 16-bit platforms](http://multipaint.kameli.net/)
@@ -30,6 +29,7 @@
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
 * [2025-04-14, 23:56:34](https://news.ycombinator.com/item?id=43687583) - [The most famous carbon dioxide absorber](https://www.howequipmentworks.com/apollo_13/)
 * [2025-04-14, 16:34:08](https://news.ycombinator.com/item?id=43683130) - [Growing a Language [pdf] (1998)](https://langev.com/pdf/steele99growing.pdf)
+* [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 
 ## [Archives](archives/index.md)
 
