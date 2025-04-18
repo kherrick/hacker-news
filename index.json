@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-04-18, 19:40:06",
+      "https://news.ycombinator.com/item?id=43731250"
+    ],
+    [
+      "UML diagram for the DDD example in Evans' book",
+      "https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 19:28:44",
+      "https://news.ycombinator.com/item?id=43731165"
+    ],
+    [
+      "15,000 lines of verified cryptography now in Python",
+      "https://jonathan.protzenko.fr/2025/04/18/python.html"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 18:55:24",
       "https://news.ycombinator.com/item?id=43730885"
     ],
     [
       "Loglan'82: programming language for object-oriented and distributed programming",
       "https://lem12.uksw.edu.pl/wiki/Loglan%2782_project"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 18:52:40",
+      "https://news.ycombinator.com/item?id=43730866"
+    ],
+    [
+      "The Good Karma Kit",
+      "https://archivebox.github.io/good-karma-kit/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-04-17, 22:55:55",
-      "https://news.ycombinator.com/item?id=43723088"
-    ],
-    [
-      "What do I think about Lua after shipping a project with 60k lines of code?",
-      "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 22:44:11",
       "https://news.ycombinator.com/item?id=43723020"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-04-15, 19:36:48",
-      "https://news.ycombinator.com/item?id=43697445"
-    ],
-    [
-      "Show HN: Somehash – A Blurhash-inspired exploration",
-      "https://travisbumgarner.dev/blog/somehash"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 18:54:50",
       "https://news.ycombinator.com/item?id=43696980"
     ],
@@ -287,16 +297,6 @@
     [
       "Growing a Language [pdf] (1998)",
       "https://langev.com/pdf/steele99growing.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 16:21:29",
-      "https://news.ycombinator.com/item?id=43682984"
-    ],
-    [
-      "Is it possible to write plain C iOS app in 2025?",
-      "https://news.ycombinator.com/item?id=43682984"
     ]
   ]
 ]
