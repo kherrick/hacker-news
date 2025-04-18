@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-18, 20:52:33](https://news.ycombinator.com/item?id=43731761) - [Feds confuse the case of crypto Ponzi schemers](https://www.seattletimes.com/seattle-news/law-justice/estonia-or-prison-feds-confuse-the-case-of-crypto-ponzi-schemers/)
 * [2025-04-18, 20:50:18](https://news.ycombinator.com/item?id=43731746) - [Hextraction, a free and open source board game](https://www.playhextraction.com/)
 * [2025-04-18, 20:24:09](https://news.ycombinator.com/item?id=43731552) - [Full Text Search of US Court records](https://www.judyrecords.com/)
 * [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
@@ -24,6 +23,7 @@
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
 * [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
+* [2025-04-16, 16:30:53](https://news.ycombinator.com/item?id=43707372) - [Principles for Building One-Shot AI Agents](https://edgebit.io/blog/automated-dependency-updates-with-ai/)
 * [2025-04-16, 15:00:21](https://news.ycombinator.com/item?id=43706429) - [Atypography – Art Movement Introduction](https://www.atypography.com)
 * [2025-04-15, 21:19:33](https://news.ycombinator.com/item?id=43698522) - [How a yacht works: sailboat physics and design](https://www.onemetre.net/Design/Design.htm)
 * [2025-04-15, 21:01:02](https://news.ycombinator.com/item?id=43698327) - [Cyberpunk 1958: The Early Days of the Polish IT Industry](https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry)

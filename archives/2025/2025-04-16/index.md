@@ -26,6 +26,7 @@
 * [2025-04-16, 17:05:31](https://news.ycombinator.com/item?id=43707768) - [Kaggle and the Wikimedia Foundation are partnering on open data](https://blog.google/technology/developers/kaggle-wikimedia/)
 * [2025-04-16, 17:01:54](https://news.ycombinator.com/item?id=43707719) - [OpenAI o3 and o4-mini – OpenAI](https://openai.com/index/introducing-o3-and-o4-mini/)
 * [2025-04-16, 17:00:29](https://news.ycombinator.com/item?id=43707706) - [Www.hive.co (YC S14) Is Hiring a Head of Engineering](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468)
+* [2025-04-16, 16:30:53](https://news.ycombinator.com/item?id=43707372) - [Principles for Building One-Shot AI Agents](https://edgebit.io/blog/automated-dependency-updates-with-ai/)
 * [2025-04-16, 16:26:06](https://news.ycombinator.com/item?id=43707308) - [Show HN: K(r)ep - A high-performance string search utility](https://github.com/davidesantangelo/krep)
 * [2025-04-16, 16:00:21](https://news.ycombinator.com/item?id=43707021) - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 * [2025-04-16, 15:30:59](https://news.ycombinator.com/item?id=43706706) - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
