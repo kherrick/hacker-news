@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
+* [2025-04-18, 13:55:50](https://news.ycombinator.com/item?id=43728130) - [A Math Lesson From Hitler’s Germany](https://undark.org/2017/02/01/math-lesson-hitlers-germany/)
 * [2025-04-18, 13:20:54](https://news.ycombinator.com/item?id=43727835) - [NSF halts grant awards while staff do second review](https://www.science.org/content/article/nsf-halts-grant-awards-while-staff-do-second-review)
+* [2025-04-18, 13:18:27](https://news.ycombinator.com/item?id=43727816) - [Americans Are Obsessed with Protein and It's Driving Nutrition Experts Nuts](https://www.wsj.com/lifestyle/protein-food-industry-trend-nutrition-8a2cf27b)
 * [2025-04-18, 13:09:50](https://news.ycombinator.com/item?id=43727743) - [Show HN: Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
 * [2025-04-18, 11:42:23](https://news.ycombinator.com/item?id=43727138) - [Startup Exercise: What can't be solved with money? (2011)](https://longform.asmartbear.com/startup-money/)
 * [2025-04-18, 11:32:10](https://news.ycombinator.com/item?id=43727052) - [Curiosity rover finds large carbon deposits on Mars](https://phys.org/news/2025-04-curiosity-rover-large-carbon-deposits.html)
