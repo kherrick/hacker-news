@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 10:33:38](https://news.ycombinator.com/item?id=43726708) - [A deadly E. coli outbreak hit 15 states, but the FDA chose not to publicize it](https://www.nbcnews.com/news/us-news/ecoli-bacteria-lettuce-outbreak-rcna200236)
 * [2025-04-18, 10:21:42](https://news.ycombinator.com/item?id=43726640) - [arXiv moving from Cornell servers to Google Cloud](https://info.arxiv.org/hiring/index.html)
 * [2025-04-18, 10:01:58](https://news.ycombinator.com/item?id=43726548) - [Deafening Silence from the Cybersecurity Industry](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/)
 * [2025-04-18, 08:56:15](https://news.ycombinator.com/item?id=43726261) - [Waiting 100 years for a home isn't a housing crisis, it's a moral collapse](https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse)
