@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
 * [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
+* [2025-04-18, 19:28:53](https://news.ycombinator.com/item?id=43731168) - [Electric Propulsion's Dirty Secret: Why Lithium Can't Fly (Or Float) Profitably](https://kumarletter.com/posts/electric-propulsion-s-dirty-secret-why-lithium-can-t-fly-or-float-profitably)
 * [2025-04-18, 19:28:44](https://news.ycombinator.com/item?id=43731165) - [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
 * [2025-04-18, 18:55:24](https://news.ycombinator.com/item?id=43730885) - [Loglan'82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
 * [2025-04-18, 18:52:40](https://news.ycombinator.com/item?id=43730866) - [The Good Karma Kit](https://archivebox.github.io/good-karma-kit/)
+* [2025-04-18, 18:35:05](https://news.ycombinator.com/item?id=43730701) - [There's Life Inside Earth's Crust](https://www.noemamag.com/theres-life-inside-earths-crust/)
 * [2025-04-18, 18:16:27](https://news.ycombinator.com/item?id=43730545) - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
 * [2025-04-18, 18:06:25](https://news.ycombinator.com/item?id=43730458) - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
 * [2025-04-18, 17:43:37](https://news.ycombinator.com/item?id=43730253) - [Tesla Odometer Mileage Wrong](https://old.reddit.com/r/TeslaModel3/comments/zjc21g/odometer_mileage_wrong/)
