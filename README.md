@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-18, 03:59:35](https://news.ycombinator.com/item?id=43724870) - [Why Is Good Friday Called Good Friday?](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
 * [2025-04-18, 02:13:23](https://news.ycombinator.com/item?id=43724267) - [Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
 * [2025-04-18, 01:37:50](https://news.ycombinator.com/item?id=43724087) - [Soldiers in combat can kill without moral injury](https://www.bps.org.uk/research-digest/soldiers-combat-can-kill-without-moral-injury)
 * [2025-04-18, 00:59:06](https://news.ycombinator.com/item?id=43723884) - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
@@ -21,7 +22,6 @@
 * [2025-04-17, 13:29:44](https://news.ycombinator.com/item?id=43716526) - [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An intro to DeepSeek's distributed file system](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-17, 12:34:38](https://news.ycombinator.com/item?id=43715884) - [Discord's face scanning age checks 'start of a bigger shift'](https://www.bbc.com/news/articles/cjr75wypg0vo)
-* [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [Vivarium: The keeper of a lab's animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
 * [2025-04-16, 12:10:33](https://news.ycombinator.com/item?id=43704364) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-15, 19:33:51](https://news.ycombinator.com/item?id=43697420) - [Trying (and failing) to hack the Wall of Sheep (2022)](https://honeypot.net/2022/08/21/trying-and-failing.html)
 * [2025-04-15, 17:20:55](https://news.ycombinator.com/item?id=43695818) - [Once banned, Poland's stately 18th century dance garners UNESCO honors (2024)](https://apnews.com/article/poland-unesco-heritage-polonaise-dance-culture-be337d9a1941d404f6ef1a1cee364e22)
