@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-18, 13:09:50](https://news.ycombinator.com/item?id=43727743) - [Show HN: Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
 * [2025-04-18, 11:32:10](https://news.ycombinator.com/item?id=43727052) - [Curiosity rover finds large carbon deposits on Mars](https://phys.org/news/2025-04-curiosity-rover-large-carbon-deposits.html)
 * [2025-04-18, 10:01:58](https://news.ycombinator.com/item?id=43726548) - [Deafening Silence from the Cybersecurity Industry](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
@@ -14,7 +15,6 @@
 * [2025-04-17, 22:44:11](https://news.ycombinator.com/item?id=43723020) - [I analyzed chord progressions in 680k songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 19:03:39](https://news.ycombinator.com/item?id=43720845) - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
-* [2025-04-17, 16:54:58](https://news.ycombinator.com/item?id=43719447) - [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
 * [2025-04-17, 16:07:21](https://news.ycombinator.com/item?id=43718809) - [Milwaukee M18 Battery Reverse Engineering](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering)
 * [2025-04-17, 14:47:46](https://news.ycombinator.com/item?id=43717705) - [Google is illegally monopolizing online advertising tech, judge rules](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
 * [2025-04-17, 14:42:07](https://news.ycombinator.com/item?id=43717606) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
