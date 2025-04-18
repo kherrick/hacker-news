@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-18, 14:11:40",
+      "https://news.ycombinator.com/item?id=43728279"
+    ],
+    [
+      "A New ASN.1 API for Python",
+      "https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 13:55:50",
+      "https://news.ycombinator.com/item?id=43728130"
+    ],
+    [
+      "A Math Lesson From Hitler’s Germany",
+      "https://undark.org/2017/02/01/math-lesson-hitlers-germany/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 13:18:27",
+      "https://news.ycombinator.com/item?id=43727816"
+    ],
+    [
+      "Americans Are Obsessed with Protein and It's Driving Nutrition Experts Nuts",
+      "https://www.wsj.com/lifestyle/protein-food-industry-trend-nutrition-8a2cf27b"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 13:09:50",
       "https://news.ycombinator.com/item?id=43727743"
     ],
@@ -17,16 +47,6 @@
     [
       "Curiosity rover finds large carbon deposits on Mars",
       "https://phys.org/news/2025-04-curiosity-rover-large-carbon-deposits.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 10:01:58",
-      "https://news.ycombinator.com/item?id=43726548"
-    ],
-    [
-      "Deafening Silence from the Cybersecurity Industry",
-      "https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Viral ChatGPT trend is doing 'reverse location search' from photos",
       "https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 06:46:20",
-      "https://news.ycombinator.com/item?id=43725629"
-    ],
-    [
-      "Tracking types of non-parents in the United States",
-      "https://onlinelibrary.wiley.com/doi/10.1111/jomf.13097"
     ]
   ],
   [
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2025-04-17, 14:47:46",
-      "https://news.ycombinator.com/item?id=43717705"
-    ],
-    [
-      "Google is illegally monopolizing online advertising tech, judge rules",
-      "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 14:42:07",
       "https://news.ycombinator.com/item?id=43717606"
     ],
     [
       "HDR‑Infused Emoji",
       "https://sharpletters.net/2025/04/16/hdr-emoji/"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 13:29:44",
-      "https://news.ycombinator.com/item?id=43716526"
-    ],
-    [
-      "Unauthenticated Remote Code Execution in Erlang/OTP SSH",
-      "https://nvd.nist.gov/vuln/detail/CVE-2025-32433"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The Subjective Charms of Objective-C",
       "https://www.wired.com/story/objective-c-programming-language-verbose/"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 20:14:29",
+      "https://news.ycombinator.com/item?id=43685817"
+    ],
+    [
+      "All-in-Memory Stochastic Computing Using ReRAM",
+      "https://arxiv.org/abs/2504.08340"
     ]
   ],
   [
