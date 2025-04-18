@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 22:43:12](https://news.ycombinator.com/item?id=43732506) - [OpenAI's new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
 * [2025-04-18, 21:13:04](https://news.ycombinator.com/item?id=43731917) - [Show HN: Too Many Business Ideas? stop choosing, launch all of them, FAST&FREE](https://starterpilot.com/)
 * [2025-04-18, 20:52:33](https://news.ycombinator.com/item?id=43731761) - [Feds confuse the case of crypto Ponzi schemers](https://www.seattletimes.com/seattle-news/law-justice/estonia-or-prison-feds-confuse-the-case-of-crypto-ponzi-schemers/)
 * [2025-04-18, 20:50:18](https://news.ycombinator.com/item?id=43731746) - [Hextraction, a free and open source board game](https://www.playhextraction.com/)

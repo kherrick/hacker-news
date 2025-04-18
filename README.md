@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-18, 22:43:12](https://news.ycombinator.com/item?id=43732506) - [OpenAI's new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
 * [2025-04-18, 21:13:04](https://news.ycombinator.com/item?id=43731917) - [Show HN: Too Many Business Ideas? stop choosing, launch all of them, FAST&FREE](https://starterpilot.com/)
 * [2025-04-18, 20:50:18](https://news.ycombinator.com/item?id=43731746) - [Hextraction, a free and open source board game](https://www.playhextraction.com/)
 * [2025-04-18, 20:24:09](https://news.ycombinator.com/item?id=43731552) - [Full Text Search of US Court records](https://www.judyrecords.com/)
@@ -19,7 +20,6 @@
 * [2025-04-18, 16:14:18](https://news.ycombinator.com/item?id=43729427) - [Show HN: Attune - Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
 * [2025-04-18, 15:35:30](https://news.ycombinator.com/item?id=43729063) - [SDFs from Unoriented Point Clouds Using Neural Variational Heat Distances](https://arxiv.org/abs/2504.11212)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
-* [2025-04-18, 13:09:50](https://news.ycombinator.com/item?id=43727743) - [Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
 * [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
