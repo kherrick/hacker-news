@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-04-18, 01:45:34",
+      "https://news.ycombinator.com/item?id=43724123"
+    ],
+    [
+      "DHL suspends B2C shipments over 800 USD until further notice",
+      "https://www.dhl.com/au-en/home/important-information/2025/shipments-to-the-united-states-with-a-customs-value-exceeding-usd-800.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 00:59:06",
+      "https://news.ycombinator.com/item?id=43723884"
+    ],
+    [
+      "The Size of Packets",
+      "https://www.potaroo.net/ispcol/2024-10/packet-sizes.html"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 23:36:57",
       "https://news.ycombinator.com/item?id=43723408"
     ],
     [
       "A new ChatGPT version just dropped and GeoGuesser is now a solved problem",
       "https://flausch.social/@piegames/114352447253793517"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 23:29:08",
-      "https://news.ycombinator.com/item?id=43723356"
-    ],
-    [
-      "Olympic Gold Medalist Dominates the 100M at Her Kid's Sports Day Event",
-      "https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-04-17, 19:51:31",
-      "https://news.ycombinator.com/item?id=43721379"
-    ],
-    [
-      "Show HN: val – An arbitrary precision calculator language",
-      "https://github.com/terror/val"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 19:39:42",
       "https://news.ycombinator.com/item?id=43721228"
     ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=43721206"
     ],
     [
-      "UniK3D: Universal Camera Monocular 3D Estimation – Luigi Piccinelli",
+      "UniK3D: Universal Camera Monocular 3D Estimation",
       "https://lpiccinelli-eth.github.io/pub/unik3d/"
     ]
   ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-04-17, 00:10:51",
+      "https://news.ycombinator.com/item?id=43711706"
+    ],
+    [
+      "Jellyfin as a Spotify alternative",
+      "https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 12:10:33",
       "https://news.ycombinator.com/item?id=43704364"
     ],
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2025-04-14, 23:43:54",
-      "https://news.ycombinator.com/item?id=43687494"
-    ],
-    [
-      "There are two types of dishwasher people",
-      "https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/"
-    ]
-  ],
-  [
-    [
       "2025-04-14, 19:17:16",
       "https://news.ycombinator.com/item?id=43685072"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-04-14, 04:48:54",
-      "https://news.ycombinator.com/item?id=43678144"
+      "2025-04-14, 16:21:29",
+      "https://news.ycombinator.com/item?id=43682984"
     ],
     [
-      "Making Software",
-      "https://www.makingsoftware.com/"
+      "Is it possible to write plain C iOS app in 2025?",
+      "https://news.ycombinator.com/item?id=43682984"
     ]
   ]
 ]
