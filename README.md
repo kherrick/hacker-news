@@ -20,6 +20,7 @@
 * [2025-04-17, 13:29:44](https://news.ycombinator.com/item?id=43716526) - [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An intro to DeepSeek's distributed file system](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-17, 12:34:38](https://news.ycombinator.com/item?id=43715884) - [Discord's face scanning age checks 'start of a bigger shift'](https://www.bbc.com/news/articles/cjr75wypg0vo)
+* [2025-04-15, 23:17:13](https://news.ycombinator.com/item?id=43699564) - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-15, 19:33:51](https://news.ycombinator.com/item?id=43697420) - [Trying (and failing) to hack the Wall of Sheep (2022)](https://honeypot.net/2022/08/21/trying-and-failing.html)
 * [2025-04-15, 17:20:55](https://news.ycombinator.com/item?id=43695818) - [Once banned, Poland's stately 18th century dance garners UNESCO honors (2024)](https://apnews.com/article/poland-unesco-heritage-polonaise-dance-culture-be337d9a1941d404f6ef1a1cee364e22)
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
@@ -29,7 +30,6 @@
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 * [2025-04-14, 15:44:20](https://news.ycombinator.com/item?id=43682597) - [Researcher proposes model replacing dark energy/matter to explain universe](https://phys.org/news/2025-04-dark-energy-nature-universe.html)
 * [2025-04-14, 07:02:39](https://news.ycombinator.com/item?id=43678762) - [Procedural Textures with Hash Functions](https://douglasorr.github.io/2025-04-hash-textures/article.html)
-* [2025-04-14, 04:47:51](https://news.ycombinator.com/item?id=43678138) - [Adipose tissue retains an epigenetic memory of obesity after weight loss](https://www.nature.com/articles/s41586-024-08165-7)
 
 ## [Archives](archives/index.md)
 
