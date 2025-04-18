@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
 * [2025-04-18, 10:21:42](https://news.ycombinator.com/item?id=43726640) - [arXiv moving from Cornell servers to Google Cloud](https://info.arxiv.org/hiring/index.html)
+* [2025-04-18, 10:01:58](https://news.ycombinator.com/item?id=43726548) - [Deafening Silence from the Cybersecurity Industry](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/)
 * [2025-04-18, 08:56:15](https://news.ycombinator.com/item?id=43726261) - [Waiting 100 years for a home isn't a housing crisis, it's a moral collapse](https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Free high-performance cross-platform game engine](https://defold.com)
 * [2025-04-18, 08:11:45](https://news.ycombinator.com/item?id=43726037) - [Unikernel Linux (UKL) (2023)](https://dl.acm.org/doi/10.1145/3552326.3587458)
