@@ -16,6 +16,7 @@
 * [2025-04-15, 18:38:52](https://news.ycombinator.com/item?id=43696798) - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
 * [2025-04-15, 18:35:05](https://news.ycombinator.com/item?id=43696756) - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 * [2025-04-15, 18:17:06](https://news.ycombinator.com/item?id=43696544) - [METS, the Middle English Texts Series](https://metseditions.org)
+* [2025-04-15, 18:11:14](https://news.ycombinator.com/item?id=43696459) - ['Enough Is Enuf' Review: A Dream of Simpler Spelling](https://www.wsj.com/arts-culture/books/enough-is-enuf-review-a-dream-of-simpler-spelling-6fadf4d2)
 * [2025-04-15, 18:00:17](https://news.ycombinator.com/item?id=43696334) - ['End of an era': The last RadioShack in Maryland is closing its doors](https://marylandmatters.org/2025/04/14/end-of-an-era-the-last-radioshack-in-maryland-is-closing-its-doors/)
 * [2025-04-15, 17:38:01](https://news.ycombinator.com/item?id=43696050) - [Whistleblower says DOGE may have caused 'significant cyber breach'](https://www.reuters.com/technology/cybersecurity/whistleblower-org-says-doge-may-have-caused-significant-cyber-breach-us-labor-2025-04-15/)
 * [2025-04-15, 17:35:10](https://news.ycombinator.com/item?id=43696010) - [I speak at Harvard as it faces its biggest crisis since 1636](https://scottaaronson.blog/?p=8805)

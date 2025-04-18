@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 23:36:57](https://news.ycombinator.com/item?id=43723408) - [A new ChatGPT version just dropped and GeoGuesser is now a solved problem](https://flausch.social/@piegames/114352447253793517)
+* [2025-04-17, 23:29:08](https://news.ycombinator.com/item?id=43723356) - [Olympic Gold Medalist Dominates the 100M at Her Kid's Sports Day Event](https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event)
 * [2025-04-17, 23:04:31](https://news.ycombinator.com/item?id=43723160) - [Trump's FCC chair threatens Comcast, demands changes to NBC news coverage](https://arstechnica.com/tech-policy/2025/04/trumps-fcc-chair-threatens-comcast-demands-changes-to-nbc-news-coverage/)
 * [2025-04-17, 23:01:48](https://news.ycombinator.com/item?id=43723135) - [AI is turning us into glue](https://lincoln.swaine-moore.is/writing-about/ai-and-glue)
+* [2025-04-17, 22:55:55](https://news.ycombinator.com/item?id=43723088) - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2025-04-17, 22:55:36](https://news.ycombinator.com/item?id=43723086) - [CN Tower, Behind the Scenes (2014)](https://site.roadwolf.ca/categories/ue/cntower/)
+* [2025-04-17, 22:44:11](https://news.ycombinator.com/item?id=43723020) - [I Analyzed Chord Progressions in 680k Songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
+* [2025-04-17, 22:37:12](https://news.ycombinator.com/item?id=43722981) - [Memory Size Matters to PostgreSQL](https://pgdba.org/post/2025/04/size_matter/)
 * [2025-04-17, 22:00:30](https://news.ycombinator.com/item?id=43722692) - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 21:07:34](https://news.ycombinator.com/item?id=43722220) - [Digital nomads could create network states](https://www.elysian.press/p/digital-nomad-network-states)
