@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-18, 13:20:54](https://news.ycombinator.com/item?id=43727835) - [NSF halts grant awards while staff do second review](https://www.science.org/content/article/nsf-halts-grant-awards-while-staff-do-second-review)
 * [2025-04-18, 11:32:10](https://news.ycombinator.com/item?id=43727052) - [Curiosity rover finds large carbon deposits on Mars](https://phys.org/news/2025-04-curiosity-rover-large-carbon-deposits.html)
 * [2025-04-18, 10:01:58](https://news.ycombinator.com/item?id=43726548) - [Deafening Silence from the Cybersecurity Industry](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
@@ -26,6 +25,7 @@
 * [2025-04-15, 19:19:31](https://news.ycombinator.com/item?id=43697252) - [Ocean Tides and the Earth's Rotation (2001)](https://core2.gsfc.nasa.gov/ggfc/tides/intro.html)
 * [2025-04-15, 17:20:55](https://news.ycombinator.com/item?id=43695818) - [Once banned, Poland's stately 18th century dance garners UNESCO honors (2024)](https://apnews.com/article/poland-unesco-heritage-polonaise-dance-culture-be337d9a1941d404f6ef1a1cee364e22)
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
+* [2025-04-15, 11:09:30](https://news.ycombinator.com/item?id=43691230) - [MCP Run Python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python)
 * [2025-04-14, 19:15:35](https://news.ycombinator.com/item?id=43685033) - [Aqua Tofana: The 17th Century Husband Killer](https://www.amusingplanet.com/2025/04/aqua-tofana-17th-century-husband-killer.html)
 * [2025-04-14, 17:32:49](https://news.ycombinator.com/item?id=43683870) - [1,700 Year Old Egg Never Broke](https://www.atlasobscura.com/articles/liquid-inside-ancient-egg)
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
