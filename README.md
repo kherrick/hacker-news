@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-18, 11:42:23](https://news.ycombinator.com/item?id=43727138) - [Startup Exercise: What can't be solved with money? (2011)](https://longform.asmartbear.com/startup-money/)
+* [2025-04-18, 13:20:54](https://news.ycombinator.com/item?id=43727835) - [NSF halts grant awards while staff do second review](https://www.science.org/content/article/nsf-halts-grant-awards-while-staff-do-second-review)
 * [2025-04-18, 11:32:10](https://news.ycombinator.com/item?id=43727052) - [Curiosity rover finds large carbon deposits on Mars](https://phys.org/news/2025-04-curiosity-rover-large-carbon-deposits.html)
 * [2025-04-18, 10:01:58](https://news.ycombinator.com/item?id=43726548) - [Deafening Silence from the Cybersecurity Industry](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
