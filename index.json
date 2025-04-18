@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-18, 04:12:21",
+      "https://news.ycombinator.com/item?id=43724941"
+    ],
+    [
+      "Kagi Assistant is now available to all users",
+      "https://blog.kagi.com/assistant-for-all"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 03:59:35",
       "https://news.ycombinator.com/item?id=43724870"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-04-17, 17:28:31",
-      "https://news.ycombinator.com/item?id=43719830"
-    ],
-    [
-      "SQLite transactions and virtual tables",
-      "https://misfra.me/2025/sqlite-transactions-and-virtual-tables/"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 16:54:58",
       "https://news.ycombinator.com/item?id=43719447"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-04-16, 21:46:10",
-      "https://news.ycombinator.com/item?id=43710761"
-    ],
-    [
-      "Vivarium: The keeper of a lab's animals stumbles onto a secret [fiction]",
-      "https://jsomers.net/vivarium/"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 12:10:33",
       "https://news.ycombinator.com/item?id=43704364"
     ],
@@ -297,6 +287,16 @@
     [
       "Is it possible to write plain C iOS app in 2025?",
       "https://news.ycombinator.com/item?id=43682984"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 07:02:39",
+      "https://news.ycombinator.com/item?id=43678762"
+    ],
+    [
+      "Procedural Textures with Hash Functions",
+      "https://douglasorr.github.io/2025-04-hash-textures/article.html"
     ]
   ]
 ]
