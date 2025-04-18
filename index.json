@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-18, 18:16:27",
+      "https://news.ycombinator.com/item?id=43730545"
+    ],
+    [
+      "Judge Rules Blanket Search of Cell Tower Data Unconstitutional",
+      "https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 18:06:25",
       "https://news.ycombinator.com/item?id=43730458"
     ],
@@ -87,6 +97,16 @@
     [
       "Less Slow C++",
       "https://github.com/ashvardanian/less_slow.cpp"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 09:33:50",
+      "https://news.ycombinator.com/item?id=43726413"
+    ],
+    [
+      "Zig and GPUs",
+      "https://alichraghi.github.io/blog/zig-gpu/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-04-15, 23:01:04",
-      "https://news.ycombinator.com/item?id=43699431"
-    ],
-    [
-      "Multipaint: Draw pictures with color limitations of 8-bit and 16-bit platforms",
-      "http://multipaint.kameli.net/"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 21:19:33",
       "https://news.ycombinator.com/item?id=43698522"
     ],
@@ -287,16 +297,6 @@
     [
       "Growing a Language [pdf] (1998)",
       "https://langev.com/pdf/steele99growing.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 16:21:29",
-      "https://news.ycombinator.com/item?id=43682984"
-    ],
-    [
-      "Is it possible to write plain C iOS app in 2025?",
-      "https://news.ycombinator.com/item?id=43682984"
     ]
   ]
 ]
