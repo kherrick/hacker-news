@@ -5,7 +5,6 @@
 * [2025-04-18, 17:09:53](https://news.ycombinator.com/item?id=43729932) - [Ink and Switch Constraint System (2023)](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/)
 * [2025-04-18, 17:00:27](https://news.ycombinator.com/item?id=43729850) - [Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote)](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote)
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
-* [2025-04-18, 16:31:11](https://news.ycombinator.com/item?id=43729609) - [College Towns: Urbanism from a Past Era with Ryan Allen](https://www.governance.fyi/p/college-towns-urbanism-from-a-past)
 * [2025-04-18, 16:14:18](https://news.ycombinator.com/item?id=43729427) - [Show HN: Attune - Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
 * [2025-04-18, 15:35:30](https://news.ycombinator.com/item?id=43729063) - [SDFs from Unoriented Point Clouds Using Neural Variational Heat Distances](https://arxiv.org/abs/2504.11212)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
@@ -23,13 +22,14 @@
 * [2025-04-16, 15:00:21](https://news.ycombinator.com/item?id=43706429) - [Atypography – Art Movement Introduction](https://www.atypography.com)
 * [2025-04-16, 02:16:51](https://news.ycombinator.com/item?id=43700714) - [The physics of bowling strike after strike](https://arstechnica.com/science/2025/04/the-physics-of-bowling-strike-after-strike/)
 * [2025-04-15, 23:17:13](https://news.ycombinator.com/item?id=43699564) - [Four Years of Jai (2024)](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
+* [2025-04-15, 23:01:04](https://news.ycombinator.com/item?id=43699431) - [Multipaint: Draw pictures with color limitations of 8-bit and 16-bit platforms](http://multipaint.kameli.net/)
 * [2025-04-15, 21:19:33](https://news.ycombinator.com/item?id=43698522) - [How a yacht works: sailboat physics and design](https://www.onemetre.net/Design/Design.htm)
 * [2025-04-15, 21:01:02](https://news.ycombinator.com/item?id=43698327) - [Cyberpunk 1958: The Early Days of the Polish IT Industry](https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry)
 * [2025-04-15, 19:36:48](https://news.ycombinator.com/item?id=43697445) - [Show HN: Somehash – A Blurhash-inspired exploration](https://travisbumgarner.dev/blog/somehash)
-* [2025-04-15, 19:19:31](https://news.ycombinator.com/item?id=43697252) - [Ocean Tides and the Earth's Rotation (2001)](https://core2.gsfc.nasa.gov/ggfc/tides/intro.html)
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
 * [2025-04-14, 23:56:34](https://news.ycombinator.com/item?id=43687583) - [The most famous carbon dioxide absorber](https://www.howequipmentworks.com/apollo_13/)
 * [2025-04-14, 16:34:08](https://news.ycombinator.com/item?id=43683130) - [Growing a Language [pdf] (1998)](https://langev.com/pdf/steele99growing.pdf)
+* [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 
 ## [Archives](archives/index.md)
 
