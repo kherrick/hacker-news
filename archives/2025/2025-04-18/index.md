@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Free high-performance cross-platform game engine](https://defold.com)
 * [2025-04-18, 07:24:10](https://news.ycombinator.com/item?id=43725815) - [I gave up on self-hosted Sentry](https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/)
 * [2025-04-18, 06:49:56](https://news.ycombinator.com/item?id=43725648) - [Viral ChatGPT trend is doing 'reverse location search' from photos](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/)
 * [2025-04-18, 06:46:20](https://news.ycombinator.com/item?id=43725629) - [Tracking types of non-parents in the United States](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13097)
