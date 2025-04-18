@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-18, 22:43:12",
+      "https://news.ycombinator.com/item?id=43732506"
+    ],
+    [
+      "OpenAI's new reasoning AI models hallucinate more",
+      "https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 21:13:04",
       "https://news.ycombinator.com/item?id=43731917"
     ],
@@ -187,16 +197,6 @@
     [
       "A New ASN.1 API for Python",
       "https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 13:09:50",
-      "https://news.ycombinator.com/item?id=43727743"
-    ],
-    [
-      "Less Slow C++",
-      "https://github.com/ashvardanian/less_slow.cpp"
     ]
   ],
   [
