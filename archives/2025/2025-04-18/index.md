@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 08:56:15](https://news.ycombinator.com/item?id=43726261) - [Waiting 100 years for a home isn't a housing crisis, it's a moral collapse](https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Free high-performance cross-platform game engine](https://defold.com)
+* [2025-04-18, 08:11:45](https://news.ycombinator.com/item?id=43726037) - [Unikernel Linux (UKL) (2023)](https://dl.acm.org/doi/10.1145/3552326.3587458)
+* [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
 * [2025-04-18, 07:24:10](https://news.ycombinator.com/item?id=43725815) - [I gave up on self-hosted Sentry](https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/)
 * [2025-04-18, 06:49:56](https://news.ycombinator.com/item?id=43725648) - [Viral ChatGPT trend is doing 'reverse location search' from photos](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/)
 * [2025-04-18, 06:46:20](https://news.ycombinator.com/item?id=43725629) - [Tracking types of non-parents in the United States](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13097)
