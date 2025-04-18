@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
-* [2025-04-18, 19:28:53](https://news.ycombinator.com/item?id=43731168) - [Electric Propulsion's Dirty Secret: Why Lithium Can't Fly (Or Float) Profitably](https://kumarletter.com/posts/electric-propulsion-s-dirty-secret-why-lithium-can-t-fly-or-float-profitably)
 * [2025-04-18, 19:28:44](https://news.ycombinator.com/item?id=43731165) - [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
 * [2025-04-18, 18:55:24](https://news.ycombinator.com/item?id=43730885) - [Loglan'82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
 * [2025-04-18, 18:52:40](https://news.ycombinator.com/item?id=43730866) - [The Good Karma Kit](https://archivebox.github.io/good-karma-kit/)
@@ -15,6 +14,7 @@
 * [2025-04-18, 15:35:30](https://news.ycombinator.com/item?id=43729063) - [SDFs from Unoriented Point Clouds Using Neural Variational Heat Distances](https://arxiv.org/abs/2504.11212)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 * [2025-04-18, 13:09:50](https://news.ycombinator.com/item?id=43727743) - [Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
+* [2025-04-18, 10:21:42](https://news.ycombinator.com/item?id=43726640) - [arXiv moving from Cornell servers to Google Cloud](https://info.arxiv.org/hiring/index.html)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
 * [2025-04-18, 08:11:45](https://news.ycombinator.com/item?id=43726037) - [Unikernel Linux (UKL) (2023)](https://dl.acm.org/doi/10.1145/3552326.3587458)
 * [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
