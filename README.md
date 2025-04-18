@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
+* [2025-04-18, 19:28:44](https://news.ycombinator.com/item?id=43731165) - [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
 * [2025-04-18, 18:55:24](https://news.ycombinator.com/item?id=43730885) - [Loglan'82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
+* [2025-04-18, 18:52:40](https://news.ycombinator.com/item?id=43730866) - [The Good Karma Kit](https://archivebox.github.io/good-karma-kit/)
 * [2025-04-18, 18:16:27](https://news.ycombinator.com/item?id=43730545) - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
 * [2025-04-18, 18:06:25](https://news.ycombinator.com/item?id=43730458) - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
 * [2025-04-18, 17:09:53](https://news.ycombinator.com/item?id=43729932) - [Ink and Switch Constraint System (2023)](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/)
@@ -14,7 +17,6 @@
 * [2025-04-18, 08:11:45](https://news.ycombinator.com/item?id=43726037) - [Unikernel Linux (UKL) (2023)](https://dl.acm.org/doi/10.1145/3552326.3587458)
 * [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
 * [2025-04-18, 03:59:35](https://news.ycombinator.com/item?id=43724870) - [Why is Good Friday called Good Friday?](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
-* [2025-04-17, 22:55:55](https://news.ycombinator.com/item?id=43723088) - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2025-04-17, 22:44:11](https://news.ycombinator.com/item?id=43723020) - [I analyzed chord progressions in 680k songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 19:03:39](https://news.ycombinator.com/item?id=43720845) - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
@@ -24,12 +26,10 @@
 * [2025-04-15, 23:17:13](https://news.ycombinator.com/item?id=43699564) - [Four Years of Jai (2024)](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-15, 21:19:33](https://news.ycombinator.com/item?id=43698522) - [How a yacht works: sailboat physics and design](https://www.onemetre.net/Design/Design.htm)
 * [2025-04-15, 21:01:02](https://news.ycombinator.com/item?id=43698327) - [Cyberpunk 1958: The Early Days of the Polish IT Industry](https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry)
-* [2025-04-15, 19:36:48](https://news.ycombinator.com/item?id=43697445) - [Show HN: Somehash – A Blurhash-inspired exploration](https://travisbumgarner.dev/blog/somehash)
 * [2025-04-15, 18:54:50](https://news.ycombinator.com/item?id=43696980) - [Unique bacteria that survive by employing multicellular behavior](https://phys.org/news/2025-04-unique-bacteria-survive-employing-multicellular.html)
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
 * [2025-04-14, 23:56:34](https://news.ycombinator.com/item?id=43687583) - [The most famous carbon dioxide absorber](https://www.howequipmentworks.com/apollo_13/)
 * [2025-04-14, 16:34:08](https://news.ycombinator.com/item?id=43683130) - [Growing a Language [pdf] (1998)](https://langev.com/pdf/steele99growing.pdf)
-* [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 
 ## [Archives](archives/index.md)
 
