@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-18, 02:13:23](https://news.ycombinator.com/item?id=43724267) - [Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
+* [2025-04-18, 01:37:50](https://news.ycombinator.com/item?id=43724087) - [Soldiers in combat can kill without moral injury](https://www.bps.org.uk/research-digest/soldiers-combat-can-kill-without-moral-injury)
 * [2025-04-18, 00:59:06](https://news.ycombinator.com/item?id=43723884) - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 * [2025-04-17, 22:55:55](https://news.ycombinator.com/item?id=43723088) - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2025-04-17, 22:55:36](https://news.ycombinator.com/item?id=43723086) - [CN Tower, Behind the Scenes (2014)](https://site.roadwolf.ca/categories/ue/cntower/)
@@ -9,7 +10,6 @@
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 21:01:06](https://news.ycombinator.com/item?id=43722171) - [Mux (YC W16) is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
 * [2025-04-17, 19:39:42](https://news.ycombinator.com/item?id=43721228) - [Shell-secrets – GPG-encrypted environment variables](https://github.com/waj/shell-secrets)
-* [2025-04-17, 19:38:08](https://news.ycombinator.com/item?id=43721206) - [UniK3D: Universal Camera Monocular 3D Estimation](https://lpiccinelli-eth.github.io/pub/unik3d/)
 * [2025-04-17, 19:03:39](https://news.ycombinator.com/item?id=43720845) - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
 * [2025-04-17, 17:35:33](https://news.ycombinator.com/item?id=43719926) - [On Jane Jacobs (2017)](https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs)
 * [2025-04-17, 17:28:31](https://news.ycombinator.com/item?id=43719830) - [SQLite transactions and virtual tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
