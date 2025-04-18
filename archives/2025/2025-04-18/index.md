@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
 * [2025-04-18, 17:00:27](https://news.ycombinator.com/item?id=43729850) - [Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote)](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote)
+* [2025-04-18, 16:43:25](https://news.ycombinator.com/item?id=43729712) - [Dear Lewis, my CEO wants AI to do it all. How do I argue for humans?](https://lewislin.substack.com/p/dear-lewis-my-ceo-wants-ai-to-do)
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-18, 16:31:11](https://news.ycombinator.com/item?id=43729609) - [College Towns: Urbanism from a Past Era with Ryan Allen](https://www.governance.fyi/p/college-towns-urbanism-from-a-past)
 * [2025-04-18, 16:14:18](https://news.ycombinator.com/item?id=43729427) - [Show HN: Attune – Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
