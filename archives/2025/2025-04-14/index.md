@@ -82,6 +82,7 @@
 * [2025-04-14, 07:43:12](https://news.ycombinator.com/item?id=43678988) - [The Whimsical Investor](https://fi-le.net/stonks/)
 * [2025-04-14, 07:27:27](https://news.ycombinator.com/item?id=43678914) - [Engineers Who Won't Commit](https://www.seangoedecke.com/taking-a-position/)
 * [2025-04-14, 07:26:46](https://news.ycombinator.com/item?id=43678909) - [Fun with -fsanitize=undefined and Picolibc](https://keithp.com/blogs/sanitizer-fun/)
+* [2025-04-14, 07:02:39](https://news.ycombinator.com/item?id=43678762) - [Procedural Textures with Hash Functions](https://douglasorr.github.io/2025-04-hash-textures/article.html)
 * [2025-04-14, 06:27:48](https://news.ycombinator.com/item?id=43678590) - [JSLinux](https://www.bellard.org/jslinux/)
 * [2025-04-14, 06:15:59](https://news.ycombinator.com/item?id=43678533) - [Query Engines: Push vs. Pull (2021)](https://justinjaffray.com/query-engines-push-vs.-pull/)
 * [2025-04-14, 05:44:07](https://news.ycombinator.com/item?id=43678401) - [Tariffs, Saving, and Investment](https://www.grumpy-economist.com/p/tariffs-saving-and-investment)

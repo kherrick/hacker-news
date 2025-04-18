@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-18, 04:12:21](https://news.ycombinator.com/item?id=43724941) - [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
 * [2025-04-18, 03:59:35](https://news.ycombinator.com/item?id=43724870) - [Why Is Good Friday Called Good Friday?](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
 * [2025-04-18, 00:59:06](https://news.ycombinator.com/item?id=43723884) - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 * [2025-04-17, 23:36:57](https://news.ycombinator.com/item?id=43723408) - [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
@@ -12,7 +13,6 @@
 * [2025-04-17, 19:39:42](https://news.ycombinator.com/item?id=43721228) - [Shell-secrets – GPG-encrypted environment variables](https://github.com/waj/shell-secrets)
 * [2025-04-17, 19:03:39](https://news.ycombinator.com/item?id=43720845) - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
 * [2025-04-17, 17:35:33](https://news.ycombinator.com/item?id=43719926) - [On Jane Jacobs (2017)](https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs)
-* [2025-04-17, 17:28:31](https://news.ycombinator.com/item?id=43719830) - [SQLite transactions and virtual tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
 * [2025-04-17, 16:54:58](https://news.ycombinator.com/item?id=43719447) - [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
 * [2025-04-17, 16:19:43](https://news.ycombinator.com/item?id=43718988) - [A cute proof that makes e natural](https://www.poshenloh.com/e/)
 * [2025-04-17, 16:07:21](https://news.ycombinator.com/item?id=43718809) - [Milwaukee M18 Battery Reverse Engineering](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering)
@@ -21,7 +21,6 @@
 * [2025-04-17, 13:29:44](https://news.ycombinator.com/item?id=43716526) - [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An intro to DeepSeek's distributed file system](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-17, 12:34:38](https://news.ycombinator.com/item?id=43715884) - [Discord's face scanning age checks 'start of a bigger shift'](https://www.bbc.com/news/articles/cjr75wypg0vo)
-* [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [Vivarium: The keeper of a lab's animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
 * [2025-04-16, 12:10:33](https://news.ycombinator.com/item?id=43704364) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-15, 19:33:51](https://news.ycombinator.com/item?id=43697420) - [Trying (and failing) to hack the Wall of Sheep (2022)](https://honeypot.net/2022/08/21/trying-and-failing.html)
 * [2025-04-15, 17:20:55](https://news.ycombinator.com/item?id=43695818) - [Once banned, Poland's stately 18th century dance garners UNESCO honors (2024)](https://apnews.com/article/poland-unesco-heritage-polonaise-dance-culture-be337d9a1941d404f6ef1a1cee364e22)
@@ -30,6 +29,7 @@
 * [2025-04-14, 19:17:16](https://news.ycombinator.com/item?id=43685072) - [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/)
 * [2025-04-14, 17:32:49](https://news.ycombinator.com/item?id=43683870) - [1,700 Year Old Egg Never Broke](https://www.atlasobscura.com/articles/liquid-inside-ancient-egg)
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
+* [2025-04-14, 07:02:39](https://news.ycombinator.com/item?id=43678762) - [Procedural Textures with Hash Functions](https://douglasorr.github.io/2025-04-hash-textures/article.html)
 
 ## [Archives](archives/index.md)
 
