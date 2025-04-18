@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2025-04-18, 10:27:39",
-      "https://news.ycombinator.com/item?id=43726672"
+      "2025-04-18, 09:33:50",
+      "https://news.ycombinator.com/item?id=43726413"
     ],
     [
-      "Walled Gardens Can Kill",
-      "https://aneesiqbal.ai/2025-04-18-walled-gardens-can-kill"
+      "Zig and GPUs",
+      "https://alichraghi.github.io/blog/zig-gpu/"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "Show HN: LTE-connected IoT module with remote programming and NL data analysis",
       "https://www.youtube.com/watch?v=3L_OU-fMW_w"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 12:50:37",
-      "https://news.ycombinator.com/item?id=43716058"
-    ],
-    [
-      "An intro to DeepSeek's distributed file system",
-      "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Growing a Language [pdf] (1998)",
       "https://langev.com/pdf/steele99growing.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-04-14, 16:21:29",
+      "https://news.ycombinator.com/item?id=43682984"
+    ],
+    [
+      "Is it possible to write plain C iOS app in 2025?",
+      "https://news.ycombinator.com/item?id=43682984"
     ]
   ]
 ]
