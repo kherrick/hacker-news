@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 16:14:18](https://news.ycombinator.com/item?id=43729427) - [Show HN: Attune – Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
 * [2025-04-18, 15:06:29](https://news.ycombinator.com/item?id=43728764) - [As San Francisco car break-ins plunge, these businesses are suffering](https://www.sfchronicle.com/sf/article/bipping-car-break-in-glass-repair-20275993.php)
 * [2025-04-18, 15:03:39](https://news.ycombinator.com/item?id=43728733) - [Why Crypto Developer Activity Is Declining](https://stovetop.substack.com/p/why-crypto-developer-activity-is)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
