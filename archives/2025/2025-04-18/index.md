@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 04:51:06](https://news.ycombinator.com/item?id=43725124) - [A deep-cover KGB spy recruited his own son](https://www.theguardian.com/news/2025/apr/10/deep-cover-kgb-spy-recruited-son-peter-herrmann-illegals)
 * [2025-04-18, 04:12:21](https://news.ycombinator.com/item?id=43724941) - [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
 * [2025-04-18, 03:59:35](https://news.ycombinator.com/item?id=43724870) - [Why Is Good Friday Called Good Friday?](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
 * [2025-04-18, 02:13:23](https://news.ycombinator.com/item?id=43724267) - [Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
