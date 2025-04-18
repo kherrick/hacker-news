@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 18:16:27](https://news.ycombinator.com/item?id=43730545) - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
 * [2025-04-18, 18:06:25](https://news.ycombinator.com/item?id=43730458) - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
 * [2025-04-18, 17:43:37](https://news.ycombinator.com/item?id=43730253) - [Tesla Odometer Mileage Wrong](https://old.reddit.com/r/TeslaModel3/comments/zjc21g/odometer_mileage_wrong/)
 * [2025-04-18, 17:09:53](https://news.ycombinator.com/item?id=43729932) - [Ink and Switch Constraint System (2023)](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/)
