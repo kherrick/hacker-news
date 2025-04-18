@@ -24,7 +24,7 @@
 * [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-16, 16:30:53](https://news.ycombinator.com/item?id=43707372) - [Principles for Building One-Shot AI Agents](https://edgebit.io/blog/automated-dependency-updates-with-ai/)
-* [2025-04-16, 15:00:21](https://news.ycombinator.com/item?id=43706429) - [Atypography – Art Movement Introduction](https://www.atypography.com)
+* [2025-04-16, 14:46:47](https://news.ycombinator.com/item?id=43706247) - [Jupiter, it's mushballs all the way down](https://www.sciencedaily.com/releases/2025/04/250415183433.htm)
 * [2025-04-15, 21:19:33](https://news.ycombinator.com/item?id=43698522) - [How a yacht works: sailboat physics and design](https://www.onemetre.net/Design/Design.htm)
 * [2025-04-15, 21:01:02](https://news.ycombinator.com/item?id=43698327) - [Cyberpunk 1958: The Early Days of the Polish IT Industry](https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry)
 * [2025-04-15, 18:54:50](https://news.ycombinator.com/item?id=43696980) - [Unique bacteria that survive by employing multicellular behavior](https://phys.org/news/2025-04-unique-bacteria-survive-employing-multicellular.html)
