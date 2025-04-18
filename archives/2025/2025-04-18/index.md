@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 20:52:33](https://news.ycombinator.com/item?id=43731761) - [Feds confuse the case of crypto Ponzi schemers](https://www.seattletimes.com/seattle-news/law-justice/estonia-or-prison-feds-confuse-the-case-of-crypto-ponzi-schemers/)
 * [2025-04-18, 20:50:18](https://news.ycombinator.com/item?id=43731746) - [Hextraction, a free and open source board game](https://www.playhextraction.com/)
 * [2025-04-18, 20:24:09](https://news.ycombinator.com/item?id=43731552) - [Full Text Search of US Court records](https://www.judyrecords.com/)
 * [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
