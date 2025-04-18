@@ -19,7 +19,7 @@
 * [2025-04-17, 19:03:39](https://news.ycombinator.com/item?id=43720845) - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
 * [2025-04-17, 13:35:58](https://news.ycombinator.com/item?id=43716616) - [Show HN: LTE-connected IoT module with remote programming and NL data analysis](https://www.youtube.com/watch?v=3L_OU-fMW_w)
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An intro to DeepSeek's distributed file system](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
-* [2025-04-17, 12:34:38](https://news.ycombinator.com/item?id=43715884) - [Discord's face scanning age checks 'start of a bigger shift'](https://www.bbc.com/news/articles/cjr75wypg0vo)
+* [2025-04-16, 02:16:51](https://news.ycombinator.com/item?id=43700714) - [The physics of bowling strike after strike](https://arstechnica.com/science/2025/04/the-physics-of-bowling-strike-after-strike/)
 * [2025-04-15, 23:17:13](https://news.ycombinator.com/item?id=43699564) - [Four Years of Jai (2024)](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-15, 23:01:04](https://news.ycombinator.com/item?id=43699431) - [Multipaint: Draw pictures with color limitations of 8-bit and 16-bit platforms](http://multipaint.kameli.net/)
 * [2025-04-15, 21:19:33](https://news.ycombinator.com/item?id=43698522) - [How a yacht works: sailboat physics and design](https://www.onemetre.net/Design/Design.htm)
