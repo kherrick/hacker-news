@@ -26,7 +26,7 @@
 * [2025-04-15, 17:20:55](https://news.ycombinator.com/item?id=43695818) - [Once banned, Poland's stately 18th century dance garners UNESCO honors (2024)](https://apnews.com/article/poland-unesco-heritage-polonaise-dance-culture-be337d9a1941d404f6ef1a1cee364e22)
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
 * [2025-04-15, 11:09:30](https://news.ycombinator.com/item?id=43691230) - [MCP Run Python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python)
-* [2025-04-14, 19:17:16](https://news.ycombinator.com/item?id=43685072) - [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/)
+* [2025-04-14, 19:15:35](https://news.ycombinator.com/item?id=43685033) - [Aqua Tofana: The 17th Century Husband Killer](https://www.amusingplanet.com/2025/04/aqua-tofana-17th-century-husband-killer.html)
 * [2025-04-14, 17:32:49](https://news.ycombinator.com/item?id=43683870) - [1,700 Year Old Egg Never Broke](https://www.atlasobscura.com/articles/liquid-inside-ancient-egg)
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 * [2025-04-14, 07:02:39](https://news.ycombinator.com/item?id=43678762) - [Procedural Textures with Hash Functions](https://douglasorr.github.io/2025-04-hash-textures/article.html)
