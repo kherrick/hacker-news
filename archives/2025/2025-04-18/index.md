@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 18:06:25](https://news.ycombinator.com/item?id=43730458) - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
 * [2025-04-18, 17:43:37](https://news.ycombinator.com/item?id=43730253) - [Tesla Odometer Mileage Wrong](https://old.reddit.com/r/TeslaModel3/comments/zjc21g/odometer_mileage_wrong/)
+* [2025-04-18, 17:09:53](https://news.ycombinator.com/item?id=43729932) - [Ink and Switch Constraint System (2023)](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/)
 * [2025-04-18, 17:00:27](https://news.ycombinator.com/item?id=43729850) - [Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote)](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote)
 * [2025-04-18, 16:43:25](https://news.ycombinator.com/item?id=43729712) - [Dear Lewis, my CEO wants AI to do it all. How do I argue for humans?](https://lewislin.substack.com/p/dear-lewis-my-ceo-wants-ai-to-do)
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)

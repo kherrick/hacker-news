@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-18, 17:43:37](https://news.ycombinator.com/item?id=43730253) - [Tesla Odometer Mileage Wrong](https://old.reddit.com/r/TeslaModel3/comments/zjc21g/odometer_mileage_wrong/)
+* [2025-04-18, 18:06:25](https://news.ycombinator.com/item?id=43730458) - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
+* [2025-04-18, 17:09:53](https://news.ycombinator.com/item?id=43729932) - [Ink and Switch Constraint System (2023)](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/)
 * [2025-04-18, 17:00:27](https://news.ycombinator.com/item?id=43729850) - [Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote)](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote)
-* [2025-04-18, 16:43:25](https://news.ycombinator.com/item?id=43729712) - [Dear Lewis, my CEO wants AI to do it all. How do I argue for humans?](https://lewislin.substack.com/p/dear-lewis-my-ceo-wants-ai-to-do)
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-18, 16:31:11](https://news.ycombinator.com/item?id=43729609) - [College Towns: Urbanism from a Past Era with Ryan Allen](https://www.governance.fyi/p/college-towns-urbanism-from-a-past)
 * [2025-04-18, 16:14:18](https://news.ycombinator.com/item?id=43729427) - [Show HN: Attune - Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
@@ -22,6 +22,7 @@
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An intro to DeepSeek's distributed file system](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-16, 02:16:51](https://news.ycombinator.com/item?id=43700714) - [The physics of bowling strike after strike](https://arstechnica.com/science/2025/04/the-physics-of-bowling-strike-after-strike/)
 * [2025-04-15, 23:17:13](https://news.ycombinator.com/item?id=43699564) - [Four Years of Jai (2024)](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
+* [2025-04-15, 23:01:04](https://news.ycombinator.com/item?id=43699431) - [Multipaint: Draw pictures with color limitations of 8-bit and 16-bit platforms](http://multipaint.kameli.net/)
 * [2025-04-15, 21:19:33](https://news.ycombinator.com/item?id=43698522) - [How a yacht works: sailboat physics and design](https://www.onemetre.net/Design/Design.htm)
 * [2025-04-15, 21:01:02](https://news.ycombinator.com/item?id=43698327) - [Cyberpunk 1958: The Early Days of the Polish IT Industry](https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry)
 * [2025-04-15, 19:36:48](https://news.ycombinator.com/item?id=43697445) - [Show HN: Somehash – A Blurhash-inspired exploration](https://travisbumgarner.dev/blog/somehash)
@@ -29,7 +30,6 @@
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
 * [2025-04-14, 23:56:34](https://news.ycombinator.com/item?id=43687583) - [The most famous carbon dioxide absorber](https://www.howequipmentworks.com/apollo_13/)
 * [2025-04-14, 16:34:08](https://news.ycombinator.com/item?id=43683130) - [Growing a Language [pdf] (1998)](https://langev.com/pdf/steele99growing.pdf)
-* [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 
 ## [Archives](archives/index.md)
 
