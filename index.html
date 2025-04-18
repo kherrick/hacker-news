@@ -129,6 +129,79 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43729427">
+          <h3>
+            <a class="item" href="https://github.com/attunehq/attune"
+              >Show HN: Attune – Build and publish APT repositories in
+              seconds</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-18 @ 16:14:18</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43729427"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Previously, we worked at other startups building open source
+                developer tools that ran on our customers’ CI and development
+                machines. For many of them, being able to `apt-get install` our
+                tools was a requirement.
+              </p>
+              <p>
+                When we went to actually set up APT repositories, we were really
+                surprised by the state of tooling around package publishing. The
+                open source tools we found were old, slow, and difficult to
+                figure out how to run in CI. The commercial tools we found were
+                not much better. The cloud-hosted vendors required us to provide
+                our signing keys to a cloud vendor (which was a non-starter),
+                while the self-hosted vendors required us to operate our own
+                specialized hosting servers.
+              </p>
+              <p>
+                We just wanted something simple: sign locally, run quickly, be
+                easy to use, and deploy to managed object storage.
+              </p>
+              <p>
+                We couldn’t find it, so we built it. If you want to try it out,
+                you can create a repository with three commands:
+              </p>
+              <p></p>
+              <pre><code>    attune repo create --uri https://apt.releases.example.com
+    attune repo pkg add --repo-id 123 package.deb
+    attune repo sync --repo-id 123
+</code></pre>
+              You can get the tool at
+              <a href="https://github.com/attunehq/attune"
+                >https://github.com/attunehq/attune</a
+              >. There are a lot of rough edges right now since it's so new -
+              sorry in advance, we're working on sanding those down.
+              <p>
+                It’s fully open source under Apache 2. We’re also working with
+                some early customers to build enterprise features like audit
+                logging, RBAC, and HSM integrations, and we’re thinking about
+                building a managed cloud hosting service as well.
+              </p>
+              <p>
+                We’d love your feedback on whether this is useful for you, and
+                what you’d like to see next. We’re well aware that publishing is
+                a small piece of CI/CD, but we think a lot of the tooling in
+                this area (publishing, artifact registries, package
+                repositories) could really use some love.
+              </p>
+              <p>
+                What do you think? Comment here, or email us at
+                founders@attunehq.com.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43728279">
           <h3>
             <a
@@ -141,7 +214,7 @@
             <h4>
               <span>2025-04-18 @ 14:11:40</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43728279"
                   >Comments</a
@@ -162,11 +235,11 @@
             <h4>
               <span>2025-04-18 @ 13:55:50</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43728130"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -181,11 +254,11 @@
             <h4>
               <span>2025-04-18 @ 13:09:50</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43727743"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
             <div class="text">
@@ -255,11 +328,11 @@
             <h4>
               <span>2025-04-18 @ 13:08:14</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43727727"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -276,11 +349,11 @@
             <h4>
               <span>2025-04-18 @ 11:32:10</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43727052"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -297,30 +370,11 @@
             <h4>
               <span>2025-04-18 @ 10:27:39</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43726672"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43726640">
-          <h3>
-            <a class="item" href="https://info.arxiv.org/hiring/index.html"
-              >arXiv moving from Cornell servers to Google Cloud</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-18 @ 10:21:42</span
-              ><span class="points-container"
-                >Points: <span class="points">150</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43726640"
-                  >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -335,11 +389,11 @@
             <h4>
               <span>2025-04-18 @ 08:15:20</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43726051"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -356,7 +410,7 @@
             <h4>
               <span>2025-04-18 @ 08:11:45</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43726037"
                   >Comments</a
@@ -377,11 +431,11 @@
             <h4>
               <span>2025-04-18 @ 07:31:04</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43725865"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -396,11 +450,11 @@
             <h4>
               <span>2025-04-18 @ 04:12:21</span
               ><span class="points-container"
-                >Points: <span class="points">420</span></span
+                >Points: <span class="points">423</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43724941"
                   >Comments</a
-                ><span class="descendants">: 228</span></span
+                ><span class="descendants">: 231</span></span
               >
             </h4>
           </section>
@@ -417,11 +471,11 @@
             <h4>
               <span>2025-04-18 @ 03:59:35</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43724870"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -438,11 +492,11 @@
             <h4>
               <span>2025-04-18 @ 00:59:06</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43723884"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -460,11 +514,11 @@
             <h4>
               <span>2025-04-17 @ 22:55:55</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43723088"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -481,11 +535,11 @@
             <h4>
               <span>2025-04-17 @ 22:44:11</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43723020"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -500,11 +554,11 @@
             <h4>
               <span>2025-04-17 @ 21:35:45</span
               ><span class="points-container"
-                >Points: <span class="points">399</span></span
+                >Points: <span class="points">401</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43722486"
                   >Comments</a
-                ><span class="descendants">: 190</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -521,11 +575,11 @@
             <h4>
               <span>2025-04-17 @ 19:03:39</span
               ><span class="points-container"
-                >Points: <span class="points">909</span></span
+                >Points: <span class="points">921</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43720845"
                   >Comments</a
-                ><span class="descendants">: 468</span></span
+                ><span class="descendants">: 473</span></span
               >
             </h4>
           </section>
@@ -541,11 +595,11 @@
             <h4>
               <span>2025-04-17 @ 13:35:58</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43716616"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
@@ -587,11 +641,32 @@
             <h4>
               <span>2025-04-17 @ 12:50:37</span
               ><span class="points-container"
-                >Points: <span class="points">578</span></span
+                >Points: <span class="points">581</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43716058"
                   >Comments</a
                 ><span class="descendants">: 96</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43715884">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bbc.com/news/articles/cjr75wypg0vo"
+              >Discord's face scanning age checks 'start of a bigger shift'</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-17 @ 12:34:38</span
+              ><span class="points-container"
+                >Points: <span class="points">293</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43715884"
+                  >Comments</a
+                ><span class="descendants">: 364</span></span
               >
             </h4>
           </section>
@@ -608,11 +683,11 @@
             <h4>
               <span>2025-04-16 @ 02:16:51</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43700714"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -629,11 +704,11 @@
             <h4>
               <span>2025-04-15 @ 23:17:13</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43699564"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -653,7 +728,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43699431"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -668,11 +743,11 @@
             <h4>
               <span>2025-04-15 @ 21:19:33</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43698522"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -708,7 +783,7 @@
             <h4>
               <span>2025-04-15 @ 19:19:31</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43697252"
                   >Comments</a
@@ -730,32 +805,11 @@
             <h4>
               <span>2025-04-15 @ 16:23:40</span
               ><span class="points-container"
-                >Points: <span class="points">281</span></span
+                >Points: <span class="points">288</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43695093"
                   >Comments</a
                 ><span class="descendants">: 134</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43687966">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wired.com/story/objective-c-programming-language-verbose/"
-              >The Subjective Charms of Objective-C</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-15 @ 00:58:43</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43687966"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -772,7 +826,7 @@
             <h4>
               <span>2025-04-14 @ 17:32:49</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43683870"
                   >Comments</a
@@ -791,11 +845,11 @@
             <h4>
               <span>2025-04-14 @ 16:34:08</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43683130"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
