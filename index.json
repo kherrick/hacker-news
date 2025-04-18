@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-18, 08:56:15",
+      "https://news.ycombinator.com/item?id=43726261"
+    ],
+    [
+      "Waiting 100 years for a home isn't a housing crisis, it's a moral collapse",
+      "https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 08:15:20",
       "https://news.ycombinator.com/item?id=43726051"
     ],
@@ -11,11 +21,31 @@
   ],
   [
     [
+      "2025-04-18, 08:11:45",
+      "https://news.ycombinator.com/item?id=43726037"
+    ],
+    [
+      "Unikernel Linux (UKL) (2023)",
+      "https://dl.acm.org/doi/10.1145/3552326.3587458"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 07:31:04",
+      "https://news.ycombinator.com/item?id=43725865"
+    ],
+    [
+      "AMP and why emails are not (and should never be) interactive",
+      "https://buttondown.com/blog/whatever-happened-to-amp-email"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 07:24:10",
       "https://news.ycombinator.com/item?id=43725815"
     ],
     [
-      "I gave up on self-hosted Sentry",
+      "I gave up on self-hosted Sentry (2024)",
       "https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/"
     ]
   ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-04-17, 19:39:42",
-      "https://news.ycombinator.com/item?id=43721228"
-    ],
-    [
-      "Shell-secrets – GPG-encrypted environment variables",
-      "https://github.com/waj/shell-secrets"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 19:03:39",
       "https://news.ycombinator.com/item?id=43720845"
     ],
@@ -127,16 +147,6 @@
     [
       "Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex",
       "https://github.com/coder/agentapi"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 16:19:43",
-      "https://news.ycombinator.com/item?id=43718988"
-    ],
-    [
-      "A cute proof that makes e natural",
-      "https://www.poshenloh.com/e/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Decreased CO2 during breathwork: emergence of altered states of consciousness",
       "https://www.nature.com/articles/s44271-025-00247-0"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 11:09:30",
-      "https://news.ycombinator.com/item?id=43691230"
-    ],
-    [
-      "MCP Run Python",
-      "https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python"
     ]
   ],
   [
