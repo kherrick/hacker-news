@@ -38,6 +38,7 @@
 * [2025-04-17, 13:57:09](https://news.ycombinator.com/item?id=43716939) - ['College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
 * [2025-04-17, 13:51:49](https://news.ycombinator.com/item?id=43716856) - [OpenAI looked at buying Cursor creator before turning to Windsurf](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html)
 * [2025-04-17, 13:39:28](https://news.ycombinator.com/item?id=43716665) - [TikTok Is Harming Children at an Industrial Scale](https://www.afterbabel.com/p/industrial-scale-harm-tiktok)
+* [2025-04-17, 13:35:58](https://news.ycombinator.com/item?id=43716616) - [Show HN: LTE-connected IoT module with remote programming and NL data analysis](https://www.youtube.com/watch?v=3L_OU-fMW_w)
 * [2025-04-17, 13:29:44](https://news.ycombinator.com/item?id=43716526) - [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
 * [2025-04-17, 13:29:41](https://news.ycombinator.com/item?id=43716525) - [Russian Propaganda Campaign Targets France with AI-Fabricated Scandals](https://www.newsguardtech.com/special-reports/russian-propaganda-campaign-targets-france-with-ai-fabricated-scandals/)
 * [2025-04-17, 13:11:21](https://news.ycombinator.com/item?id=43716293) - [Scientists find strongest evidence yet of life on an alien planet](https://www.reuters.com/science/scientists-find-strongest-evidence-yet-life-an-alien-planet-2025-04-16/)
