@@ -21,7 +21,6 @@
 * [2025-04-17, 13:29:44](https://news.ycombinator.com/item?id=43716526) - [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An intro to DeepSeek's distributed file system](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-17, 12:34:38](https://news.ycombinator.com/item?id=43715884) - [Discord's face scanning age checks 'start of a bigger shift'](https://www.bbc.com/news/articles/cjr75wypg0vo)
-* [2025-04-17, 09:01:07](https://news.ycombinator.com/item?id=43714476) - [The Atari 1200XL fiasco](https://www.goto10retro.com/p/the-atari-1200xl-fiasco)
 * [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [Vivarium: The keeper of a lab's animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
 * [2025-04-16, 12:10:33](https://news.ycombinator.com/item?id=43704364) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-15, 19:33:51](https://news.ycombinator.com/item?id=43697420) - [Trying (and failing) to hack the Wall of Sheep (2022)](https://honeypot.net/2022/08/21/trying-and-failing.html)
@@ -29,6 +28,7 @@
 * [2025-04-15, 16:23:40](https://news.ycombinator.com/item?id=43695093) - [Decreased CO2 during breathwork: emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
 * [2025-04-15, 11:09:30](https://news.ycombinator.com/item?id=43691230) - [MCP Run Python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python)
 * [2025-04-14, 19:17:16](https://news.ycombinator.com/item?id=43685072) - [What my stroke taught me (2017)](https://nautil.us/what-my-stroke-taught-me-236544/)
+* [2025-04-14, 17:32:49](https://news.ycombinator.com/item?id=43683870) - [1,700 Year Old Egg Never Broke](https://www.atlasobscura.com/articles/liquid-inside-ancient-egg)
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 
 ## [Archives](archives/index.md)

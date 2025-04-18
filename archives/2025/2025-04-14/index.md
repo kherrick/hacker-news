@@ -25,6 +25,7 @@
 * [2025-04-14, 17:59:11](https://news.ycombinator.com/item?id=43684225) - [KaiPod Learning (YC S21) Is Hiring](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager)
 * [2025-04-14, 17:43:32](https://news.ycombinator.com/item?id=43684009) - [Simple Web Server](https://simplewebserver.org/)
 * [2025-04-14, 17:35:11](https://news.ycombinator.com/item?id=43683907) - [AudioX: Diffusion Transformer for Anything-to-Audio Generation](https://zeyuet.github.io/AudioX/)
+* [2025-04-14, 17:32:49](https://news.ycombinator.com/item?id=43683870) - [1,700 Year Old Egg Never Broke](https://www.atlasobscura.com/articles/liquid-inside-ancient-egg)
 * [2025-04-14, 17:16:51](https://news.ycombinator.com/item?id=43683641) - [Podman Quadlets with Podman Desktop](https://podman-desktop.io/blog/podman-quadlet)
 * [2025-04-14, 17:08:24](https://news.ycombinator.com/item?id=43683497) - [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
