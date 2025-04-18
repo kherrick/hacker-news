@@ -32,6 +32,7 @@
 * [2025-04-16, 15:26:52](https://news.ycombinator.com/item?id=43706667) - [Can LLMs earn $1M from real freelance coding work?](https://newsletter.getdx.com/p/benchmarking-ai-software-engineering-capabilities)
 * [2025-04-16, 15:18:57](https://news.ycombinator.com/item?id=43706586) - [Rust-IoT-Platform](https://github.com/iot-ecology/rust-iot-platform)
 * [2025-04-16, 15:12:07](https://news.ycombinator.com/item?id=43706530) - [Tell HN: Warning Google trains on your data when using aistudio.google.com](https://news.ycombinator.com/item?id=43706530)
+* [2025-04-16, 15:00:21](https://news.ycombinator.com/item?id=43706429) - [Atypography – Art Movement Introduction](https://www.atypography.com)
 * [2025-04-16, 14:43:47](https://news.ycombinator.com/item?id=43706210) - [How to Optimize Rust for Slowness: Inspired by New Turing Machine Results](https://medium.com/@carlmkadie/how-to-optimize-your-rust-program-for-slowness-eb2c1a64d184)
 * [2025-04-16, 14:36:19](https://news.ycombinator.com/item?id=43706118) - [Future Chips Will Be Hotter Than Ever](https://spectrum.ieee.org/hot-chips)
 * [2025-04-16, 14:28:36](https://news.ycombinator.com/item?id=43706037) - [Darwin's Children Drew All over the \"On the Origin of Species\" Manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species)
