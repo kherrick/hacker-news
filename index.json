@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-17, 23:36:57",
+      "https://news.ycombinator.com/item?id=43723408"
+    ],
+    [
+      "A new ChatGPT version just dropped and GeoGuesser is now a solved problem",
+      "https://flausch.social/@piegames/114352447253793517"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 23:29:08",
+      "https://news.ycombinator.com/item?id=43723356"
+    ],
+    [
+      "Olympic Gold Medalist Dominates the 100M at Her Kid's Sports Day Event",
+      "https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 22:55:55",
+      "https://news.ycombinator.com/item?id=43723088"
+    ],
+    [
+      "What do I think about Lua after shipping a project with 60k lines of code?",
+      "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 22:55:36",
       "https://news.ycombinator.com/item?id=43723086"
     ],
@@ -11,12 +41,22 @@
   ],
   [
     [
-      "2025-04-17, 22:00:30",
-      "https://news.ycombinator.com/item?id=43722692"
+      "2025-04-17, 22:44:11",
+      "https://news.ycombinator.com/item?id=43723020"
     ],
     [
-      "Decomposing Transactional Systems",
-      "https://transactional.blog/blog/2025-decomposing-transactional-systems"
+      "I Analyzed Chord Progressions in 680k Songs",
+      "https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 22:37:12",
+      "https://news.ycombinator.com/item?id=43722981"
+    ],
+    [
+      "Memory Size Matters to PostgreSQL",
+      "https://pgdba.org/post/2025/04/size_matter/"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2025-04-17, 18:23:23",
-      "https://news.ycombinator.com/item?id=43720457"
-    ],
-    [
-      "N-Params vs. Single Param",
-      "https://www.carlos-menezes.com/single-param-functions/"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 17:35:33",
       "https://news.ycombinator.com/item?id=43719926"
     ],
@@ -117,16 +147,6 @@
     [
       "Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex",
       "https://github.com/coder/agentapi"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 16:42:13",
-      "https://news.ycombinator.com/item?id=43719280"
-    ],
-    [
-      "AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu",
-      "https://www.dwarkesh.com/p/ege-tamay"
     ]
   ],
   [
@@ -211,32 +231,22 @@
   ],
   [
     [
-      "2025-04-17, 09:01:07",
-      "https://news.ycombinator.com/item?id=43714476"
-    ],
-    [
-      "The Atari 1200XL fiasco",
-      "https://www.goto10retro.com/p/the-atari-1200xl-fiasco"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 00:10:51",
-      "https://news.ycombinator.com/item?id=43711706"
-    ],
-    [
-      "Jellyfin as a Spotify alternative",
-      "https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 12:10:33",
       "https://news.ycombinator.com/item?id=43704364"
     ],
     [
       "Marching Events: What does iCalendar have to do with ray marching?",
       "https://pwy.io/posts/marching-events/"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 18:11:14",
+      "https://news.ycombinator.com/item?id=43696459"
+    ],
+    [
+      "'Enough Is Enuf' Review: A Dream of Simpler Spelling",
+      "https://www.wsj.com/arts-culture/books/enough-is-enuf-review-a-dream-of-simpler-spelling-6fadf4d2"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "What my stroke taught me (2017)",
       "https://nautil.us/what-my-stroke-taught-me-236544/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 09:55:03",
-      "https://news.ycombinator.com/item?id=43679651"
-    ],
-    [
-      "Show HN: Stadium Crowd Scale Visualise Large Groups of People",
-      "https://davkap92.github.io/crowdscale/"
     ]
   ],
   [
