@@ -31,6 +31,7 @@
 * [2025-04-14, 17:16:51](https://news.ycombinator.com/item?id=43683641) - [Podman Quadlets with Podman Desktop](https://podman-desktop.io/blog/podman-quadlet)
 * [2025-04-14, 17:08:24](https://news.ycombinator.com/item?id=43683497) - [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
 * [2025-04-14, 17:01:45](https://news.ycombinator.com/item?id=43683410) - [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
+* [2025-04-14, 16:34:08](https://news.ycombinator.com/item?id=43683130) - [Growing a Language [pdf] (1998)](https://langev.com/pdf/steele99growing.pdf)
 * [2025-04-14, 16:28:53](https://news.ycombinator.com/item?id=43683071) - [OpenAI Is a Systemic Risk to the Tech Industry](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/)
 * [2025-04-14, 16:24:28](https://news.ycombinator.com/item?id=43683012) - [Cursor IDE support hallucinates lockout policy, causes mass user cancellations](https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/)
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)

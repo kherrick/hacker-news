@@ -9,7 +9,6 @@
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
 * [2025-04-18, 08:11:45](https://news.ycombinator.com/item?id=43726037) - [Unikernel Linux (UKL) (2023)](https://dl.acm.org/doi/10.1145/3552326.3587458)
 * [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
-* [2025-04-18, 07:24:10](https://news.ycombinator.com/item?id=43725815) - [I gave up on self-hosted Sentry (2024)](https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/)
 * [2025-04-18, 04:12:21](https://news.ycombinator.com/item?id=43724941) - [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
 * [2025-04-18, 00:59:06](https://news.ycombinator.com/item?id=43723884) - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 * [2025-04-17, 22:55:55](https://news.ycombinator.com/item?id=43723088) - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
@@ -28,6 +27,7 @@
 * [2025-04-14, 20:14:29](https://news.ycombinator.com/item?id=43685817) - [All-in-Memory Stochastic Computing Using ReRAM](https://arxiv.org/abs/2504.08340)
 * [2025-04-14, 19:15:35](https://news.ycombinator.com/item?id=43685033) - [Aqua Tofana: The 17th Century Husband Killer](https://www.amusingplanet.com/2025/04/aqua-tofana-17th-century-husband-killer.html)
 * [2025-04-14, 17:32:49](https://news.ycombinator.com/item?id=43683870) - [1,700 Year Old Egg Never Broke](https://www.atlasobscura.com/articles/liquid-inside-ancient-egg)
+* [2025-04-14, 16:34:08](https://news.ycombinator.com/item?id=43683130) - [Growing a Language [pdf] (1998)](https://langev.com/pdf/steele99growing.pdf)
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 * [2025-04-14, 15:44:20](https://news.ycombinator.com/item?id=43682597) - [Researcher proposes model replacing dark energy/matter to explain universe](https://phys.org/news/2025-04-dark-energy-nature-universe.html)
 
