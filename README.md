@@ -5,7 +5,6 @@
 * [2025-04-18, 00:59:06](https://news.ycombinator.com/item?id=43723884) - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 * [2025-04-17, 23:36:57](https://news.ycombinator.com/item?id=43723408) - [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
 * [2025-04-17, 22:55:55](https://news.ycombinator.com/item?id=43723088) - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
-* [2025-04-17, 22:55:36](https://news.ycombinator.com/item?id=43723086) - [CN Tower, Behind the Scenes (2014)](https://site.roadwolf.ca/categories/ue/cntower/)
 * [2025-04-17, 22:44:11](https://news.ycombinator.com/item?id=43723020) - [I analyzed chord progressions in 680k songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-17, 21:01:06](https://news.ycombinator.com/item?id=43722171) - [Mux (YC W16) is hiring engineering managers for video at scale](https://mux.com/jobs?j=em)
@@ -28,6 +27,7 @@
 * [2025-04-14, 19:15:35](https://news.ycombinator.com/item?id=43685033) - [Aqua Tofana: The 17th Century Husband Killer](https://www.amusingplanet.com/2025/04/aqua-tofana-17th-century-husband-killer.html)
 * [2025-04-14, 17:32:49](https://news.ycombinator.com/item?id=43683870) - [1,700 Year Old Egg Never Broke](https://www.atlasobscura.com/articles/liquid-inside-ancient-egg)
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
+* [2025-04-14, 15:44:20](https://news.ycombinator.com/item?id=43682597) - [Researcher proposes model replacing dark energy/matter to explain universe](https://phys.org/news/2025-04-dark-energy-nature-universe.html)
 * [2025-04-14, 07:02:39](https://news.ycombinator.com/item?id=43678762) - [Procedural Textures with Hash Functions](https://douglasorr.github.io/2025-04-hash-textures/article.html)
 * [2025-04-14, 04:47:51](https://news.ycombinator.com/item?id=43678138) - [Adipose tissue retains an epigenetic memory of obesity after weight loss](https://www.nature.com/articles/s41586-024-08165-7)
 

@@ -35,6 +35,7 @@
 * [2025-04-14, 16:21:29](https://news.ycombinator.com/item?id=43682984) - [Is it possible to write plain C iOS app in 2025?](https://news.ycombinator.com/item?id=43682984)
 * [2025-04-14, 15:54:10](https://news.ycombinator.com/item?id=43682686) - [Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety](https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html)
 * [2025-04-14, 15:45:45](https://news.ycombinator.com/item?id=43682615) - [Socketcluster: Highly scalable pub/sub and RPC SDK](https://socketcluster.io)
+* [2025-04-14, 15:44:20](https://news.ycombinator.com/item?id=43682597) - [Researcher proposes model replacing dark energy/matter to explain universe](https://phys.org/news/2025-04-dark-energy-nature-universe.html)
 * [2025-04-14, 15:41:03](https://news.ycombinator.com/item?id=43682547) - [Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs](https://github.com/nathanhleung/protobuf-ts-types)
 * [2025-04-14, 15:40:40](https://news.ycombinator.com/item?id=43682541) - [Functional Programming Lessons Conclusion](https://jerf.org/iri/post/2025/fp_lessons_conclusion/)
 * [2025-04-14, 15:29:00](https://news.ycombinator.com/item?id=43682378) - [Target suffers 10th consecutive week of foot traffic decline since caving on DEI](https://www.retailbrew.com/stories/2025/04/11/target-suffers-10th-consecutive-week-of-foot-traffic-declines-sinking-stock-prices-since-caving-on-dei)
