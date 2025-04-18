@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 15:03:39](https://news.ycombinator.com/item?id=43728733) - [Why Crypto Developer Activity Is Declining](https://stovetop.substack.com/p/why-crypto-developer-activity-is)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 * [2025-04-18, 13:55:50](https://news.ycombinator.com/item?id=43728130) - [A Math Lesson From Hitler’s Germany](https://undark.org/2017/02/01/math-lesson-hitlers-germany/)
 * [2025-04-18, 13:20:54](https://news.ycombinator.com/item?id=43727835) - [NSF halts grant awards while staff do second review](https://www.science.org/content/article/nsf-halts-grant-awards-while-staff-do-second-review)
