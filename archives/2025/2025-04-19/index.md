@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
 * [2025-04-19, 14:49:36](https://news.ycombinator.com/item?id=43736791) - [Librarians Are Dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
+* [2025-04-19, 14:42:48](https://news.ycombinator.com/item?id=43736739) - [How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html)
 * [2025-04-19, 14:39:49](https://news.ycombinator.com/item?id=43736718) - [Against Transparency](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer)
 * [2025-04-19, 13:47:15](https://news.ycombinator.com/item?id=43736366) - [Inferring the Phylogeny of Large Language Models](https://arxiv.org/abs/2404.04671)
 * [2025-04-19, 13:17:48](https://news.ycombinator.com/item?id=43736193) - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)

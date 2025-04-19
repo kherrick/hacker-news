@@ -35,6 +35,7 @@
 * [2025-04-17, 15:15:39](https://news.ycombinator.com/item?id=43718124) - [Show HN: Zuni (YC S24) – AI Copilot for the Browser](https://zuni.app)
 * [2025-04-17, 14:47:46](https://news.ycombinator.com/item?id=43717705) - [Google Is a Monopolist in Online Advertising Tech, Judge Says](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
 * [2025-04-17, 14:42:07](https://news.ycombinator.com/item?id=43717606) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
+* [2025-04-17, 14:36:51](https://news.ycombinator.com/item?id=43717513) - [First baby born in UK to woman with transplanted womb](https://www.bbc.com/news/articles/c78jd517z87o)
 * [2025-04-17, 14:28:07](https://news.ycombinator.com/item?id=43717377) - [Stainless steel strengthened: Twisting creates submicron 'anti-crash wall'](https://techxplore.com/news/2025-04-stainless-steel-technique-submicron-anti.html)
 * [2025-04-17, 13:57:09](https://news.ycombinator.com/item?id=43716939) - ['College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
 * [2025-04-17, 13:51:49](https://news.ycombinator.com/item?id=43716856) - [OpenAI looked at buying Cursor creator before turning to Windsurf](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html)
