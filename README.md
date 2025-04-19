@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 07:16:50](https://news.ycombinator.com/item?id=43734795) - [The British sitcom that swept through the Balkans (2023)](https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans)
 * [2025-04-19, 06:11:37](https://news.ycombinator.com/item?id=43734583) - [Show HN: New world record – verified Goldbach Conjecture up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
 * [2025-04-19, 02:10:52](https://news.ycombinator.com/item?id=43733636) - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
 * [2025-04-19, 01:52:55](https://news.ycombinator.com/item?id=43733553) - [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
@@ -13,7 +14,6 @@
 * [2025-04-18, 18:55:24](https://news.ycombinator.com/item?id=43730885) - [Loglan'82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
 * [2025-04-18, 18:35:05](https://news.ycombinator.com/item?id=43730701) - [There's Life Inside Earth's Crust](https://www.noemamag.com/theres-life-inside-earths-crust/)
 * [2025-04-18, 18:16:27](https://news.ycombinator.com/item?id=43730545) - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
-* [2025-04-18, 18:06:25](https://news.ycombinator.com/item?id=43730458) - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)

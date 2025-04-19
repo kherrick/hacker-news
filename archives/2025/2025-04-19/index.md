@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
+* [2025-04-19, 07:16:50](https://news.ycombinator.com/item?id=43734795) - [The British sitcom that swept through the Balkans (2023)](https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans)
 * [2025-04-19, 06:48:21](https://news.ycombinator.com/item?id=43734706) - [Synology Lost the Plot with Hard Drive Locking Move](https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/)
 * [2025-04-19, 06:41:46](https://news.ycombinator.com/item?id=43734677) - [Texas school district bans Virginia state flag and seal over naked breast](https://www.theguardian.com/us-news/2025/apr/18/texas-bans-virginia-flag-breast)
 * [2025-04-19, 06:11:37](https://news.ycombinator.com/item?id=43734583) - [Show HN: New world record – verified Goldbach Conjecture up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
