@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 20:00:17](https://news.ycombinator.com/item?id=43739037) - [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
+* [2025-04-19, 19:59:14](https://news.ycombinator.com/item?id=43739028) - [Unpowered SSD endurance investigation finds data loss and performance issues](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups)
 * [2025-04-19, 19:10:07](https://news.ycombinator.com/item?id=43738675) - [The Icelandic Voting System](https://smarimccarthy.is/posts/2024-11-25-voting-system/)
 * [2025-04-19, 18:59:56](https://news.ycombinator.com/item?id=43738603) - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
 * [2025-04-19, 18:53:32](https://news.ycombinator.com/item?id=43738561) - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
@@ -27,8 +29,6 @@
 * [2025-04-17, 03:36:16](https://news.ycombinator.com/item?id=43712877) - [Zack: A Simple Backtesting Engine in Zig](https://github.com/zerotech-studio/zack)
 * [2025-04-17, 02:31:34](https://news.ycombinator.com/item?id=43712536) - [Peru's ancient irrigation systems turned deserts into farms because of culture](https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199)
 * [2025-04-17, 01:05:22](https://news.ycombinator.com/item?id=43712024) - [The Animals That Exist Between Life and Death](https://nautil.us/the-animals-that-exist-between-life-and-death-1202592/)
-* [2025-04-16, 13:22:14](https://news.ycombinator.com/item?id=43705190) - [High time to tackle drug-resistant fungal infections](https://www.nature.com/articles/d41586-025-01177-x)
-* [2025-04-15, 22:41:54](https://news.ycombinator.com/item?id=43699301) - [USB Floppy Disk Striped RAID Under OS X (2004)](http://web.archive.org/web/20040202110812/http://ohlssonvox.8k.com/fdd_raid.htm)
 * [2025-04-13, 00:55:54](https://news.ycombinator.com/item?id=43669151) - [Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck voices](https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/)
 
 ## [Archives](archives/index.md)

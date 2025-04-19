@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
+* [2025-04-19, 20:00:17](https://news.ycombinator.com/item?id=43739037) - [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
+* [2025-04-19, 19:59:14](https://news.ycombinator.com/item?id=43739028) - [Unpowered SSD endurance investigation finds data loss and performance issues](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups)
 * [2025-04-19, 19:32:49](https://news.ycombinator.com/item?id=43738829) - [My Daughter Slept in a Coffin at the Slumber Party](https://ihidefrommykids.substack.com/p/my-daughter-slept-in-a-coffin-at)
 * [2025-04-19, 19:10:07](https://news.ycombinator.com/item?id=43738675) - [The Icelandic Voting System](https://smarimccarthy.is/posts/2024-11-25-voting-system/)
 * [2025-04-19, 18:59:56](https://news.ycombinator.com/item?id=43738603) - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
