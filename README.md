@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 02:10:52](https://news.ycombinator.com/item?id=43733636) - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
 * [2025-04-19, 01:52:55](https://news.ycombinator.com/item?id=43733553) - [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+* [2025-04-19, 01:33:56](https://news.ycombinator.com/item?id=43733463) - [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
 * [2025-04-19, 00:21:13](https://news.ycombinator.com/item?id=43733097) - [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/)
 * [2025-04-18, 23:29:04](https://news.ycombinator.com/item?id=43732805) - [Hypertext TV](https://hypertext.tv/)
-* [2025-04-18, 22:43:12](https://news.ycombinator.com/item?id=43732506) - [OpenAI's new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
-* [2025-04-18, 21:32:04](https://news.ycombinator.com/item?id=43732047) - [I passionately hate hype, especially the AI hype](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html)
 * [2025-04-18, 20:50:18](https://news.ycombinator.com/item?id=43731746) - [Hextraction, a free and open source board game](https://www.playhextraction.com/)
 * [2025-04-18, 20:24:09](https://news.ycombinator.com/item?id=43731552) - [Full Text Search of US Court records](https://www.judyrecords.com/)
 * [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
