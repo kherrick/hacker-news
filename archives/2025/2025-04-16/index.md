@@ -30,6 +30,7 @@
 * [2025-04-16, 17:00:29](https://news.ycombinator.com/item?id=43707706) - [Www.hive.co (YC S14) Is Hiring a Head of Engineering](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468)
 * [2025-04-16, 16:30:53](https://news.ycombinator.com/item?id=43707372) - [Principles for Building One-Shot AI Agents](https://edgebit.io/blog/automated-dependency-updates-with-ai/)
 * [2025-04-16, 16:26:06](https://news.ycombinator.com/item?id=43707308) - [Show HN: K(r)ep - A high-performance string search utility](https://github.com/davidesantangelo/krep)
+* [2025-04-16, 16:01:00](https://news.ycombinator.com/item?id=43707030) - [Molecular clock: bacteria used oxygen long before widespread photosynthesis](https://phys.org/news/2025-04-molecular-clock-analysis-bacteria-oxygen.html)
 * [2025-04-16, 16:00:21](https://news.ycombinator.com/item?id=43707021) - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 * [2025-04-16, 15:30:59](https://news.ycombinator.com/item?id=43706706) - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
 * [2025-04-16, 15:26:52](https://news.ycombinator.com/item?id=43706667) - [Can LLMs earn $1M from real freelance coding work?](https://newsletter.getdx.com/p/benchmarking-ai-software-engineering-capabilities)

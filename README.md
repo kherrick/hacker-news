@@ -2,7 +2,6 @@
 
 * [2025-04-19, 21:14:33](https://news.ycombinator.com/item?id=43739529) - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-* [2025-04-19, 20:48:54](https://news.ycombinator.com/item?id=43739357) - [Popular CT Scans Could Account for 5% of All Cancer Cases a Year](https://www.ucsf.edu/news/2025/04/429791/popular-ct-scans-could-account-5-all-cancer-cases-year)
 * [2025-04-19, 20:38:06](https://news.ycombinator.com/item?id=43739285) - [The Art of Assembly Language (2010)](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 * [2025-04-19, 20:00:17](https://news.ycombinator.com/item?id=43739037) - [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
 * [2025-04-19, 19:59:14](https://news.ycombinator.com/item?id=43739028) - [Unpowered SSD endurance investigation finds data loss and performance issues](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups)
@@ -28,6 +27,7 @@
 * [2025-04-17, 11:52:49](https://news.ycombinator.com/item?id=43715452) - [Notes on a claim that a mceliece348864 distinguisher uses only 2^529 operations [pdf]](https://classic.mceliece.org/mceliece-529-20250417.pdf)
 * [2025-04-17, 03:36:16](https://news.ycombinator.com/item?id=43712877) - [Zack: A Simple Backtesting Engine in Zig](https://github.com/zerotech-studio/zack)
 * [2025-04-17, 01:05:22](https://news.ycombinator.com/item?id=43712024) - [The Animals That Exist Between Life and Death](https://nautil.us/the-animals-that-exist-between-life-and-death-1202592/)
+* [2025-04-16, 16:01:00](https://news.ycombinator.com/item?id=43707030) - [Molecular clock: bacteria used oxygen long before widespread photosynthesis](https://phys.org/news/2025-04-molecular-clock-analysis-bacteria-oxygen.html)
 * [2025-04-16, 13:25:05](https://news.ycombinator.com/item?id=43705231) - [Why drinking coffee in Iran has become so complicated](https://adelbordbari.github.io/etc/2025-04-16-coffee/)
 * [2025-04-13, 00:55:54](https://news.ycombinator.com/item?id=43669151) - [Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck voices](https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/)
 
