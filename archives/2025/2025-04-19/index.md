@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
+* [2025-04-19, 18:42:46](https://news.ycombinator.com/item?id=43738478) - [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
 * [2025-04-19, 17:09:51](https://news.ycombinator.com/item?id=43737733) - [OpenAI, Windsurf, and the Future of Work](https://subtle.so/openai-windsurf-and-the-future-of-ai-workspaces.html)
 * [2025-04-19, 17:00:27](https://news.ycombinator.com/item?id=43737661) - [Infisical (YC W23) Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 * [2025-04-19, 14:49:36](https://news.ycombinator.com/item?id=43736791) - [Librarians Are Dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)

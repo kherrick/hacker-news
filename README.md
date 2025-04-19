@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 18:42:46](https://news.ycombinator.com/item?id=43738478) - [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
 * [2025-04-19, 17:00:27](https://news.ycombinator.com/item?id=43737661) - [Infisical (YC W23) Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 * [2025-04-19, 14:49:36](https://news.ycombinator.com/item?id=43736791) - [Librarians Are Dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
-* [2025-04-19, 14:42:48](https://news.ycombinator.com/item?id=43736739) - [How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html)
+* [2025-04-19, 14:42:48](https://news.ycombinator.com/item?id=43736739) - [How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html)
 * [2025-04-19, 14:39:49](https://news.ycombinator.com/item?id=43736718) - [Against Transparency](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer)
 * [2025-04-19, 13:47:15](https://news.ycombinator.com/item?id=43736366) - [Inferring the Phylogeny of Large Language Models](https://arxiv.org/abs/2404.04671)
 * [2025-04-19, 13:17:48](https://news.ycombinator.com/item?id=43736193) - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
@@ -29,7 +30,6 @@
 * [2025-04-16, 13:25:05](https://news.ycombinator.com/item?id=43705231) - [Why Drinking Coffee in Iran Has Become So Complicated](https://adelbordbari.github.io/etc/2025-04-16-coffee/)
 * [2025-04-16, 13:22:14](https://news.ycombinator.com/item?id=43705190) - [High time to tackle drug-resistant fungal infections](https://www.nature.com/articles/d41586-025-01177-x)
 * [2025-04-15, 22:41:54](https://news.ycombinator.com/item?id=43699301) - [USB Floppy Disk Striped RAID Under OS X (2004)](http://web.archive.org/web/20040202110812/http://ohlssonvox.8k.com/fdd_raid.htm)
-* [2025-04-15, 10:33:02](https://news.ycombinator.com/item?id=43691020) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 
 ## [Archives](archives/index.md)
 
