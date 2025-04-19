@@ -18,6 +18,7 @@
 * [2025-04-16, 21:00:11](https://news.ycombinator.com/item?id=43710330) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-04-16, 20:06:50](https://news.ycombinator.com/item?id=43709770) - [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
 * [2025-04-16, 18:55:12](https://news.ycombinator.com/item?id=43709042) - [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
+* [2025-04-16, 18:36:29](https://news.ycombinator.com/item?id=43708841) - [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins)
 * [2025-04-16, 18:24:43](https://news.ycombinator.com/item?id=43708726) - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
 * [2025-04-16, 18:24:25](https://news.ycombinator.com/item?id=43708725) - [OpenAI in Talks to Buy Windsurf for About $3B](https://www.bloomberg.com/news/articles/2025-04-16/openai-said-to-be-in-talks-to-buy-windsurf-for-about-3-billion)
 * [2025-04-16, 18:23:00](https://news.ycombinator.com/item?id=43708707) - [Aerial Minesweeping (2021)](https://www.historynet.com/aerial-minesweeping/)

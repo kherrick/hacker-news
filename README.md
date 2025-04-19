@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 04:23:59](https://news.ycombinator.com/item?id=43734195) - [Serverless Is a Scam](https://sliplane.io/blog/serverless-is-a-scam)
 * [2025-04-19, 02:10:52](https://news.ycombinator.com/item?id=43733636) - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
 * [2025-04-19, 01:52:55](https://news.ycombinator.com/item?id=43733553) - [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 * [2025-04-19, 01:33:56](https://news.ycombinator.com/item?id=43733463) - [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
@@ -10,8 +11,6 @@
 * [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
 * [2025-04-18, 19:28:44](https://news.ycombinator.com/item?id=43731165) - [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
 * [2025-04-18, 18:55:24](https://news.ycombinator.com/item?id=43730885) - [Loglan'82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
-* [2025-04-18, 18:52:58](https://news.ycombinator.com/item?id=43730870) - [PDCurses – for environments that don't fit the termcap/terminfo model](https://github.com/wmcbrine/PDCurses)
-* [2025-04-18, 18:52:40](https://news.ycombinator.com/item?id=43730866) - [The Good Karma Kit](https://archivebox.github.io/good-karma-kit/)
 * [2025-04-18, 18:35:05](https://news.ycombinator.com/item?id=43730701) - [There's Life Inside Earth's Crust](https://www.noemamag.com/theres-life-inside-earths-crust/)
 * [2025-04-18, 18:16:27](https://news.ycombinator.com/item?id=43730545) - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
 * [2025-04-18, 18:06:25](https://news.ycombinator.com/item?id=43730458) - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
@@ -23,6 +22,7 @@
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
 * [2025-04-17, 21:35:45](https://news.ycombinator.com/item?id=43722486) - [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
 * [2025-04-16, 22:20:41](https://news.ycombinator.com/item?id=43710996) - [Sponges, drill bits and wires: Surgeons mistakenly left objects inside thousands](https://www.sfchronicle.com/projects/2025/hospitals-surgical-objects-patients/)
+* [2025-04-16, 18:36:29](https://news.ycombinator.com/item?id=43708841) - [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins)
 * [2025-04-16, 16:30:53](https://news.ycombinator.com/item?id=43707372) - [Principles for Building One-Shot AI Agents](https://edgebit.io/blog/automated-dependency-updates-with-ai/)
 * [2025-04-16, 14:46:47](https://news.ycombinator.com/item?id=43706247) - [Jupiter, it's mushballs all the way down](https://www.sciencedaily.com/releases/2025/04/250415183433.htm)
 * [2025-04-15, 21:19:33](https://news.ycombinator.com/item?id=43698522) - [How a yacht works: sailboat physics and design](https://www.onemetre.net/Design/Design.htm)

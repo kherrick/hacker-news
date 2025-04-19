@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
+* [2025-04-19, 04:23:59](https://news.ycombinator.com/item?id=43734195) - [Serverless Is a Scam](https://sliplane.io/blog/serverless-is-a-scam)
 * [2025-04-19, 02:10:52](https://news.ycombinator.com/item?id=43733636) - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
 * [2025-04-19, 01:52:55](https://news.ycombinator.com/item?id=43733553) - [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 * [2025-04-19, 01:33:56](https://news.ycombinator.com/item?id=43733463) - [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
