@@ -74,6 +74,7 @@
 * [2025-04-16, 09:57:39](https://news.ycombinator.com/item?id=43703454) - [Global, distributed and backwards compatible CVE alternative launched by CERT](https://gcve.eu/)
 * [2025-04-16, 06:39:09](https://news.ycombinator.com/item?id=43702201) - [Show HN: I Made Bagel Font](https://www.bake-ai.com/fonts)
 * [2025-04-16, 06:03:26](https://news.ycombinator.com/item?id=43701988) - [A puzzle of two unreliable sensors](https://jacobbrazeal.wordpress.com/2025/04/16/the-puzzle-of-two-unreliable-sensors/)
+* [2025-04-16, 05:36:06](https://news.ycombinator.com/item?id=43701836) - [Raw Loops for Performance?](https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance)
 * [2025-04-16, 02:45:41](https://news.ycombinator.com/item?id=43700888) - [Archeology of React (2016)](https://legacy.reactjs.org/blog/2016/09/28/our-first-50000-stars.html)
 * [2025-04-16, 02:16:51](https://news.ycombinator.com/item?id=43700714) - [The physics of bowling strike after strike](https://arstechnica.com/science/2025/04/the-physics-of-bowling-strike-after-strike/)
 * [2025-04-16, 02:01:46](https://news.ycombinator.com/item?id=43700633) - [Markov Chain Monte Carlo Without All the Bullshit (2015)](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
