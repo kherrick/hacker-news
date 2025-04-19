@@ -60,6 +60,7 @@
 * [2025-04-16, 12:12:17](https://news.ycombinator.com/item?id=43704382) - [Snapchat is harming children at an industrial scale](https://www.afterbabel.com/p/industrial-scale-snapchat)
 * [2025-04-16, 12:10:33](https://news.ycombinator.com/item?id=43704364) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
 * [2025-04-16, 12:01:11](https://news.ycombinator.com/item?id=43704286) - [Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends](https://www.streak.com/careers/staff-ui-engineer)
+* [2025-04-16, 11:26:27](https://news.ycombinator.com/item?id=43703998) - [Hydrogen vs. Battery Buses: A European Transit Reality Check](https://cleantechnica.com/2025/04/14/hydrogen-vs-battery-buses-a-european-transit-reality-check/)
 * [2025-04-16, 11:19:14](https://news.ycombinator.com/item?id=43703949) - [European Union Vulnerability Database (EUVD)](https://euvd.enisa.europa.eu/)
 * [2025-04-16, 10:59:29](https://news.ycombinator.com/item?id=43703812) - [Anonymous Release 10TB Leaked Data Exposing Kremlin Assets, Russian Businesses](https://trendsnewsline.com/2025/04/15/anonymous-leaks-10tb-of-data-on-russia-shocking-revelations/)
 * [2025-04-16, 10:39:13](https://news.ycombinator.com/item?id=43703682) - [A Postmortem of a Startup](https://buildwithtract.com/)
