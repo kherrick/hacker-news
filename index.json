@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-04-19, 01:03:39",
-      "https://news.ycombinator.com/item?id=43733315"
-    ],
-    [
-      "Pahole: Analysing Memory Layout of Complex Data Structures with Ease",
-      "https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/"
-    ]
-  ],
-  [
-    [
       "2025-04-19, 00:21:13",
       "https://news.ycombinator.com/item?id=43733097"
     ],
@@ -107,6 +97,16 @@
     [
       "Loglan'82: programming language for object-oriented and distributed programming",
       "https://lem12.uksw.edu.pl/wiki/Loglan%2782_project"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 18:52:58",
+      "https://news.ycombinator.com/item?id=43730870"
+    ],
+    [
+      "PDCurses – for environments that don't fit the termcap/terminfo model",
+      "https://github.com/wmcbrine/PDCurses"
     ]
   ],
   [
