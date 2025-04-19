@@ -62,6 +62,7 @@
 * [2025-04-17, 08:55:04](https://news.ycombinator.com/item?id=43714433) - [PolyThink: A Multi-Agent AI System to Eliminate Hallucinations](https://news.ycombinator.com/item?id=43714433)
 * [2025-04-17, 08:16:24](https://news.ycombinator.com/item?id=43714269) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 * [2025-04-17, 08:02:21](https://news.ycombinator.com/item?id=43714203) - [Astronomers have found signs of alien life on a planet beyond our Solar System](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide)
+* [2025-04-17, 07:48:03](https://news.ycombinator.com/item?id=43714125) - [How the Merchants of Ifriqiya Coded Commerce Before Silicon](https://medium.com/@macvsogjc/the-forgotten-syntax-of-salt-and-gold-how-the-merchants-of-ifriqiya-coded-commerce-before-silicon-d2e8a78e09af)
 * [2025-04-17, 07:34:08](https://news.ycombinator.com/item?id=43714041) - [The Halting Problem is a terrible example of NP-Harder](https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/)
 * [2025-04-17, 07:29:54](https://news.ycombinator.com/item?id=43714023) - [WordPress Feature API](https://github.com/Automattic/wp-feature-api)
 * [2025-04-17, 07:27:11](https://news.ycombinator.com/item?id=43714004) - [BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
