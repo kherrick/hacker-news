@@ -13,6 +13,7 @@
 * [2025-04-19, 11:32:29](https://news.ycombinator.com/item?id=43735724) - [Frankenstein's `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
 * [2025-04-19, 11:24:41](https://news.ycombinator.com/item?id=43735693) - [Neurite](https://github.com/satellitecomponent/Neurite)
 * [2025-04-19, 11:00:30](https://news.ycombinator.com/item?id=43735592) - [Demo \"The Mind\" by Haujobb and Sweet16](https://www.lexaloffle.com/bbs/?pid=145596)
+* [2025-04-19, 10:48:30](https://news.ycombinator.com/item?id=43735550) - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices)
 * [2025-04-19, 10:19:49](https://news.ycombinator.com/item?id=43735443) - [Achieveing lower latencies with S3 object storage](https://spiraldb.com/post/so-you-want-to-use-object-storage)
 * [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
 * [2025-04-19, 09:02:46](https://news.ycombinator.com/item?id=43735170) - [A star appears to have collapsed straight into a black hole without supernova](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/)
