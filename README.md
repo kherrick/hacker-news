@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 08:02:07](https://news.ycombinator.com/item?id=43734953) - [A Map of British Dialects](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
 * [2025-04-19, 07:16:50](https://news.ycombinator.com/item?id=43734795) - [The British sitcom that swept through the Balkans (2023)](https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans)
 * [2025-04-19, 06:11:37](https://news.ycombinator.com/item?id=43734583) - [Show HN: New world record – verified Goldbach Conjecture up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
 * [2025-04-19, 02:10:52](https://news.ycombinator.com/item?id=43733636) - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
@@ -17,10 +18,9 @@
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
-* [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
+* [2025-04-17, 02:31:34](https://news.ycombinator.com/item?id=43712536) - [Peru's ancient irrigation systems turned deserts into farms because of culture](https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199)
 * [2025-04-16, 22:20:41](https://news.ycombinator.com/item?id=43710996) - [Sponges, drill bits and wires: Surgeons mistakenly left objects inside thousands](https://www.sfchronicle.com/projects/2025/hospitals-surgical-objects-patients/)
 * [2025-04-16, 18:36:29](https://news.ycombinator.com/item?id=43708841) - [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins)
-* [2025-04-16, 14:46:47](https://news.ycombinator.com/item?id=43706247) - [Jupiter, it's mushballs all the way down](https://www.sciencedaily.com/releases/2025/04/250415183433.htm)
 * [2025-04-16, 13:22:14](https://news.ycombinator.com/item?id=43705190) - [High time to tackle drug-resistant fungal infections](https://www.nature.com/articles/d41586-025-01177-x)
 * [2025-04-16, 11:26:27](https://news.ycombinator.com/item?id=43703998) - [Hydrogen vs. Battery Buses: A European Transit Reality Check](https://cleantechnica.com/2025/04/14/hydrogen-vs-battery-buses-a-european-transit-reality-check/)
 * [2025-04-16, 06:03:26](https://news.ycombinator.com/item?id=43701988) - [A puzzle of two unreliable sensors](https://jacobbrazeal.wordpress.com/2025/04/16/the-puzzle-of-two-unreliable-sensors/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
+* [2025-04-19, 08:02:07](https://news.ycombinator.com/item?id=43734953) - [A Map of British Dialects](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
 * [2025-04-19, 07:16:50](https://news.ycombinator.com/item?id=43734795) - [The British sitcom that swept through the Balkans (2023)](https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans)
 * [2025-04-19, 06:48:21](https://news.ycombinator.com/item?id=43734706) - [Synology Lost the Plot with Hard Drive Locking Move](https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/)
 * [2025-04-19, 06:41:46](https://news.ycombinator.com/item?id=43734677) - [Texas school district bans Virginia state flag and seal over naked breast](https://www.theguardian.com/us-news/2025/apr/18/texas-bans-virginia-flag-breast)

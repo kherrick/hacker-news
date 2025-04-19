@@ -73,6 +73,7 @@
 * [2025-04-17, 04:30:47](https://news.ycombinator.com/item?id=43713140) - [Differentiable Programming from Scratch](https://thenumb.at/Autodiff/)
 * [2025-04-17, 04:13:24](https://news.ycombinator.com/item?id=43713053) - [An experiment that turned back biological time](https://nehalslearnings.substack.com/p/the-experiment-that-turned-back-biological)
 * [2025-04-17, 02:44:43](https://news.ycombinator.com/item?id=43712598) - [US judge finds administration wilfully defied court order in deportation flights](https://www.abc.net.au/news/2025-04-17/judge-in-venezuelan-migrants-case-finds-trump-admin-probably-con/105186022)
+* [2025-04-17, 02:31:34](https://news.ycombinator.com/item?id=43712536) - [Peru's ancient irrigation systems turned deserts into farms because of culture](https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199)
 * [2025-04-17, 01:46:51](https://news.ycombinator.com/item?id=43712280) - [Library patterns: Why frameworks are evil](https://tomasp.net/blog/2015/library-frameworks/)
 * [2025-04-17, 01:19:41](https://news.ycombinator.com/item?id=43712115) - [Sony Unveils the Smallest and Lightest Lidar Depth Sensor](https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/)
 * [2025-04-17, 00:55:49](https://news.ycombinator.com/item?id=43711957) - [Zoom outage caused by accidental 'shutting down' of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
