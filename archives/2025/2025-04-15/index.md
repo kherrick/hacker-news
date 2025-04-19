@@ -8,6 +8,7 @@
 * [2025-04-15, 23:17:13](https://news.ycombinator.com/item?id=43699564) - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-15, 23:01:04](https://news.ycombinator.com/item?id=43699431) - [Multipaint: Draw pictures with color limitations of 8-bit and 16-bit platforms](http://multipaint.kameli.net/)
 * [2025-04-15, 22:50:37](https://news.ycombinator.com/item?id=43699371) - [OpenAI announces nonprofit commission advisors](https://openai.com/index/nonprofit-commission-advisors/)
+* [2025-04-15, 22:41:54](https://news.ycombinator.com/item?id=43699301) - [USB Floppy Disk Striped RAID Under OS X (2004)](http://web.archive.org/web/20040202110812/http://ohlssonvox.8k.com/fdd_raid.htm)
 * [2025-04-15, 22:38:04](https://news.ycombinator.com/item?id=43699271) - [12-factor Agents: Patterns of reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 * [2025-04-15, 22:26:35](https://news.ycombinator.com/item?id=43699188) - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
 * [2025-04-15, 21:46:45](https://news.ycombinator.com/item?id=43698801) - [Show HN: Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
