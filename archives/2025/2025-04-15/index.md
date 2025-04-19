@@ -74,6 +74,7 @@
 * [2025-04-15, 10:39:35](https://news.ycombinator.com/item?id=43691054) - [How I created a real-time F1 circuit tracker that updates every second on iOS](https://apps.apple.com/es/app/pit-stop/id6743395104?l=en-GB)
 * [2025-04-15, 10:33:02](https://news.ycombinator.com/item?id=43691020) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [2025-04-15, 10:17:17](https://news.ycombinator.com/item?id=43690955) - [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
+* [2025-04-15, 09:55:41](https://news.ycombinator.com/item?id=43690846) - [Investigating the Luna-Terra Collapse as a Temporal Multilayer Graph](https://dl.acm.org/doi/10.1145/3726869)
 * [2025-04-15, 09:52:18](https://news.ycombinator.com/item?id=43690828) - [eInk Mode: Making web pages easier to read](https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html)
 * [2025-04-15, 09:34:01](https://news.ycombinator.com/item?id=43690732) - [Understanding US Power Outages – By Brian Potter](https://www.construction-physics.com/p/understanding-us-power-outages)
 * [2025-04-15, 08:22:59](https://news.ycombinator.com/item?id=43690289) - [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)

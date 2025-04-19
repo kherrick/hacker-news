@@ -18,7 +18,6 @@
 * [2025-04-18, 16:14:18](https://news.ycombinator.com/item?id=43729427) - [Show HN: Attune - Build and publish APT repositories in seconds](https://github.com/attunehq/attune)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
-* [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
 * [2025-04-16, 22:20:41](https://news.ycombinator.com/item?id=43710996) - [Sponges, drill bits and wires: Surgeons mistakenly left objects inside thousands](https://www.sfchronicle.com/projects/2025/hospitals-surgical-objects-patients/)
 * [2025-04-16, 18:36:29](https://news.ycombinator.com/item?id=43708841) - [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins)
 * [2025-04-16, 16:30:53](https://news.ycombinator.com/item?id=43707372) - [Principles for Building One-Shot AI Agents](https://edgebit.io/blog/automated-dependency-updates-with-ai/)
@@ -29,6 +28,7 @@
 * [2025-04-15, 21:01:02](https://news.ycombinator.com/item?id=43698327) - [Cyberpunk 1958: The Early Days of the Polish IT Industry](https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry)
 * [2025-04-15, 14:05:42](https://news.ycombinator.com/item?id=43692878) - [Ocean Iron Fertilization](https://www.whoi.edu/know-your-ocean/ocean-topics/climate-weather/ocean-based-climate-solutions/iron-fertilization/)
 * [2025-04-15, 10:33:02](https://news.ycombinator.com/item?id=43691020) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
+* [2025-04-15, 09:55:41](https://news.ycombinator.com/item?id=43690846) - [Investigating the Luna-Terra Collapse as a Temporal Multilayer Graph](https://dl.acm.org/doi/10.1145/3726869)
 * [2025-04-14, 23:56:34](https://news.ycombinator.com/item?id=43687583) - [The most famous carbon dioxide absorber](https://www.howequipmentworks.com/apollo_13/)
 
 ## [Archives](archives/index.md)
