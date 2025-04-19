@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
+* [2025-04-19, 22:35:30](https://news.ycombinator.com/item?id=43740021) - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
 * [2025-04-19, 21:17:18](https://news.ycombinator.com/item?id=43739547) - [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
 * [2025-04-19, 21:14:33](https://news.ycombinator.com/item?id=43739529) - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
 * [2025-04-19, 21:12:07](https://news.ycombinator.com/item?id=43739510) - [Monsky's Theorem](https://mathmondays.com/monskys-theorem)
