@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
 * [2025-04-19, 09:02:46](https://news.ycombinator.com/item?id=43735170) - [A star appears to have collapsed straight into a black hole without supernova](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/)
 * [2025-04-19, 08:02:07](https://news.ycombinator.com/item?id=43734953) - [A Map of British Dialects](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
 * [2025-04-19, 07:50:36](https://news.ycombinator.com/item?id=43734910) - [Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay](https://github.com/JustAman62/undercut-f1)
@@ -29,7 +30,6 @@
 * [2025-04-15, 14:05:42](https://news.ycombinator.com/item?id=43692878) - [Ocean Iron Fertilization](https://www.whoi.edu/know-your-ocean/ocean-topics/climate-weather/ocean-based-climate-solutions/iron-fertilization/)
 * [2025-04-15, 10:33:02](https://news.ycombinator.com/item?id=43691020) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [2025-04-15, 09:55:41](https://news.ycombinator.com/item?id=43690846) - [Investigating the Luna-Terra Collapse as a Temporal Multilayer Graph](https://dl.acm.org/doi/10.1145/3726869)
-* [2025-04-14, 23:56:34](https://news.ycombinator.com/item?id=43687583) - [The most famous carbon dioxide absorber](https://www.howequipmentworks.com/apollo_13/)
 
 ## [Archives](archives/index.md)
 
