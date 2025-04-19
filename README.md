@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-19, 22:35:30](https://news.ycombinator.com/item?id=43740021) - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
+* [2025-04-19, 22:31:19](https://news.ycombinator.com/item?id=43739997) - [Ultrathink is a Claude Code a magic word](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/)
 * [2025-04-19, 21:17:18](https://news.ycombinator.com/item?id=43739547) - [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
 * [2025-04-19, 21:14:33](https://news.ycombinator.com/item?id=43739529) - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
 * [2025-04-19, 21:12:07](https://news.ycombinator.com/item?id=43739510) - [Monsky's Theorem](https://mathmondays.com/monskys-theorem)
@@ -8,7 +9,6 @@
 * [2025-04-19, 20:38:06](https://news.ycombinator.com/item?id=43739285) - [The Art of Assembly Language (2010)](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 * [2025-04-19, 20:00:17](https://news.ycombinator.com/item?id=43739037) - [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
 * [2025-04-19, 19:59:14](https://news.ycombinator.com/item?id=43739028) - [Unpowered SSD endurance investigation finds data loss and performance issues](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups)
-* [2025-04-19, 19:10:07](https://news.ycombinator.com/item?id=43738675) - [The Icelandic Voting System](https://smarimccarthy.is/posts/2024-11-25-voting-system/)
 * [2025-04-19, 18:59:56](https://news.ycombinator.com/item?id=43738603) - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
 * [2025-04-19, 18:53:32](https://news.ycombinator.com/item?id=43738561) - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
 * [2025-04-19, 18:44:17](https://news.ycombinator.com/item?id=43738485) - [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
