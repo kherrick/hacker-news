@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-04-19, 21:04:41",
-      "https://news.ycombinator.com/item?id=43739456"
+      "2025-04-19, 21:12:07",
+      "https://news.ycombinator.com/item?id=43739510"
     ],
     [
-      "Show HN: I built an AI that turns GitHub codebases into easy tutorials",
-      "https://github.com/The-Pocket/Tutorial-Codebase-Knowledge"
+      "Monsky's Theorem",
+      "https://mathmondays.com/monskys-theorem"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-04-19, 07:50:36",
+      "https://news.ycombinator.com/item?id=43734910"
+    ],
+    [
+      "Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay",
+      "https://github.com/JustAman62/undercut-f1"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 06:11:37",
       "https://news.ycombinator.com/item?id=43734583"
     ],
@@ -237,16 +247,6 @@
     [
       "Consistent Hash Ring",
       "https://gallery.selfboot.cn/en/algorithms/hashring"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 11:52:49",
-      "https://news.ycombinator.com/item?id=43715452"
-    ],
-    [
-      "Notes on a claim that a mceliece348864 distinguisher uses only 2^529 operations [pdf]",
-      "https://classic.mceliece.org/mceliece-529-20250417.pdf"
     ]
   ],
   [
