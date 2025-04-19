@@ -52,6 +52,7 @@
 * [2025-04-17, 12:26:04](https://news.ycombinator.com/item?id=43715790) - ['Cosmic radio' detector could discover dark matter within 15 years](https://phys.org/news/2025-04-cosmic-radio-detector-dark-years.html)
 * [2025-04-17, 12:20:33](https://news.ycombinator.com/item?id=43715737) - [I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
 * [2025-04-17, 12:00:31](https://news.ycombinator.com/item?id=43715525) - [Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2025-04-17, 11:52:49](https://news.ycombinator.com/item?id=43715452) - [Notes on a claim that a mceliece348864 distinguisher uses only 2^529 operations [pdf]](https://classic.mceliece.org/mceliece-529-20250417.pdf)
 * [2025-04-17, 11:34:30](https://news.ycombinator.com/item?id=43715306) - [mIRC: Internet Relay Chat Client](https://www.mirc.com/)
 * [2025-04-17, 11:22:17](https://news.ycombinator.com/item?id=43715235) - [Cutting down Rust compile times from 30 to 2 minutes with one thousand crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
 * [2025-04-17, 10:59:03](https://news.ycombinator.com/item?id=43715116) - [Daily Pill May Work as Well as Ozempic for Weight Loss and Blood Sugar](https://www.nytimes.com/2025/04/17/health/pill-glp-1-eli-lilly.html)
