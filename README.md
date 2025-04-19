@@ -23,13 +23,13 @@
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-17, 17:31:37](https://news.ycombinator.com/item?id=43719872) - [Micro Wheeled legged Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot)
 * [2025-04-17, 14:36:51](https://news.ycombinator.com/item?id=43717513) - [First baby born in UK to woman with transplanted womb](https://www.bbc.com/news/articles/c78jd517z87o)
+* [2025-04-17, 12:54:31](https://news.ycombinator.com/item?id=43716106) - [Consistent Hash Ring](https://gallery.selfboot.cn/en/algorithms/hashring)
 * [2025-04-17, 12:26:04](https://news.ycombinator.com/item?id=43715790) - ['Cosmic radio' detector could discover dark matter within 15 years](https://phys.org/news/2025-04-cosmic-radio-detector-dark-years.html)
 * [2025-04-17, 03:36:16](https://news.ycombinator.com/item?id=43712877) - [Zack: A Simple Backtesting Engine in Zig](https://github.com/zerotech-studio/zack)
 * [2025-04-17, 02:31:34](https://news.ycombinator.com/item?id=43712536) - [Peru's ancient irrigation systems turned deserts into farms because of culture](https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199)
-* [2025-04-16, 15:01:19](https://news.ycombinator.com/item?id=43706442) - [The Long History of Nitrous Oxide](https://www.smithsonianmag.com/science-nature/the-long-strange-history-of-nitrous-oxide-a-popular-drug-users-have-been-inhaling-for-hundreds-of-years-180986293/)
-* [2025-04-16, 13:25:05](https://news.ycombinator.com/item?id=43705231) - [Why Drinking Coffee in Iran Has Become So Complicated](https://adelbordbari.github.io/etc/2025-04-16-coffee/)
 * [2025-04-16, 13:22:14](https://news.ycombinator.com/item?id=43705190) - [High time to tackle drug-resistant fungal infections](https://www.nature.com/articles/d41586-025-01177-x)
 * [2025-04-15, 22:41:54](https://news.ycombinator.com/item?id=43699301) - [USB Floppy Disk Striped RAID Under OS X (2004)](http://web.archive.org/web/20040202110812/http://ohlssonvox.8k.com/fdd_raid.htm)
+* [2025-04-15, 10:33:02](https://news.ycombinator.com/item?id=43691020) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 
 ## [Archives](archives/index.md)
 

@@ -46,6 +46,7 @@
 * [2025-04-17, 13:11:21](https://news.ycombinator.com/item?id=43716293) - [Scientists find strongest evidence yet of life on an alien planet](https://www.reuters.com/science/scientists-find-strongest-evidence-yet-life-an-alien-planet-2025-04-16/)
 * [2025-04-17, 12:56:58](https://news.ycombinator.com/item?id=43716138) - [Encryption Is Not a Crime](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/)
 * [2025-04-17, 12:54:49](https://news.ycombinator.com/item?id=43716110) - [Toothpaste widely contaminated with lead and other metals, US research finds](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals)
+* [2025-04-17, 12:54:31](https://news.ycombinator.com/item?id=43716106) - [Consistent Hash Ring](https://gallery.selfboot.cn/en/algorithms/hashring)
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-17, 12:34:38](https://news.ycombinator.com/item?id=43715884) - [Discord's face scanning age checks 'start of a bigger shift'](https://www.bbc.com/news/articles/cjr75wypg0vo)
 * [2025-04-17, 12:26:04](https://news.ycombinator.com/item?id=43715790) - ['Cosmic radio' detector could discover dark matter within 15 years](https://phys.org/news/2025-04-cosmic-radio-detector-dark-years.html)
