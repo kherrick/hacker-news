@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-19, 17:09:51](https://news.ycombinator.com/item?id=43737733) - [OpenAI, Windsurf, and the Future of Work](https://subtle.so/openai-windsurf-and-the-future-of-ai-workspaces.html)
 * [2025-04-19, 17:00:27](https://news.ycombinator.com/item?id=43737661) - [Infisical (YC W23) Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 * [2025-04-19, 14:49:36](https://news.ycombinator.com/item?id=43736791) - [Librarians Are Dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
 * [2025-04-19, 14:42:48](https://news.ycombinator.com/item?id=43736739) - [How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html)
@@ -26,6 +25,7 @@
 * [2025-04-17, 12:26:04](https://news.ycombinator.com/item?id=43715790) - ['Cosmic radio' detector could discover dark matter within 15 years](https://phys.org/news/2025-04-cosmic-radio-detector-dark-years.html)
 * [2025-04-17, 03:36:16](https://news.ycombinator.com/item?id=43712877) - [Zack: A Simple Backtesting Engine in Zig](https://github.com/zerotech-studio/zack)
 * [2025-04-17, 02:31:34](https://news.ycombinator.com/item?id=43712536) - [Peru's ancient irrigation systems turned deserts into farms because of culture](https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199)
+* [2025-04-16, 18:36:29](https://news.ycombinator.com/item?id=43708841) - [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins)
 * [2025-04-16, 15:01:19](https://news.ycombinator.com/item?id=43706442) - [The Long History of Nitrous Oxide](https://www.smithsonianmag.com/science-nature/the-long-strange-history-of-nitrous-oxide-a-popular-drug-users-have-been-inhaling-for-hundreds-of-years-180986293/)
 * [2025-04-16, 13:22:14](https://news.ycombinator.com/item?id=43705190) - [High time to tackle drug-resistant fungal infections](https://www.nature.com/articles/d41586-025-01177-x)
 * [2025-04-15, 22:41:54](https://news.ycombinator.com/item?id=43699301) - [USB Floppy Disk Striped RAID Under OS X (2004)](http://web.archive.org/web/20040202110812/http://ohlssonvox.8k.com/fdd_raid.htm)
