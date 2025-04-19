@@ -9,6 +9,7 @@
 * [2025-04-19, 12:28:03](https://news.ycombinator.com/item?id=43735969) - [Ask HN: why is my F500 employer okay with paying 5x to freelancers?](https://news.ycombinator.com/item?id=43735969)
 * [2025-04-19, 12:23:50](https://news.ycombinator.com/item?id=43735945) - [Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2](https://qradiolink.org/open-source-DMR-transceiver-implementation.html)
 * [2025-04-19, 12:14:13](https://news.ycombinator.com/item?id=43735902) - [Android phones will soon reboot themselves after sitting unused for three days](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/)
+* [2025-04-19, 12:09:38](https://news.ycombinator.com/item?id=43735870) - [China Can Have It All – China is currently winner of America's self-sabotage](https://minnalander.substack.com/p/china-can-have-it-all)
 * [2025-04-19, 11:50:51](https://news.ycombinator.com/item?id=43735798) - [FramePack – Enabling Fast Video Generation on Consumer GPUs](https://framepack.co/)
 * [2025-04-19, 11:32:29](https://news.ycombinator.com/item?id=43735724) - [Frankenstein's `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
 * [2025-04-19, 11:24:41](https://news.ycombinator.com/item?id=43735693) - [Neurite](https://github.com/satellitecomponent/Neurite)
