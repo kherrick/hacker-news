@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-19, 12:36:26",
+      "https://news.ycombinator.com/item?id=43736005"
+    ],
+    [
+      "Scientists claim to have found colour no one has seen before",
+      "https://www.theguardian.com/science/2025/apr/18/scientists-claim-to-have-found-colour-no-one-has-seen-before"
+    ]
+  ],
+  [
+    [
+      "2025-04-19, 12:23:50",
+      "https://news.ycombinator.com/item?id=43735945"
+    ],
+    [
+      "Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2",
+      "https://qradiolink.org/open-source-DMR-transceiver-implementation.html"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 12:14:13",
       "https://news.ycombinator.com/item?id=43735902"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-04-18, 19:40:06",
-      "https://news.ycombinator.com/item?id=43731250"
-    ],
-    [
-      "UML diagram for the DDD example in Evans' book",
-      "https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book"
-    ]
-  ],
-  [
-    [
       "2025-04-18, 19:28:44",
       "https://news.ycombinator.com/item?id=43731165"
     ],
@@ -177,16 +187,6 @@
     [
       "Show HN: I made a Doom-like game fit inside a QR code",
       "https://github.com/Kuberwastaken/backdooms"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 08:15:20",
-      "https://news.ycombinator.com/item?id=43726051"
-    ],
-    [
-      "Defold: cross-platform game engine",
-      "https://defold.com"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-04-15, 22:41:54",
+      "https://news.ycombinator.com/item?id=43699301"
+    ],
+    [
+      "USB Floppy Disk Striped RAID Under OS X (2004)",
+      "http://web.archive.org/web/20040202110812/http://ohlssonvox.8k.com/fdd_raid.htm"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 21:19:33",
       "https://news.ycombinator.com/item?id=43698522"
     ],
@@ -287,16 +297,6 @@
     [
       "Understanding the Origins and the Evolution of Vi and Vim",
       "https://pikuma.com/blog/origins-of-vim-text-editor"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 09:55:41",
-      "https://news.ycombinator.com/item?id=43690846"
-    ],
-    [
-      "Investigating the Luna-Terra Collapse as a Temporal Multilayer Graph",
-      "https://dl.acm.org/doi/10.1145/3726869"
     ]
   ]
 ]
