@@ -24,6 +24,7 @@
 * [2025-04-17, 18:54:13](https://news.ycombinator.com/item?id=43720767) - [Show HN: HN Watercooler – listen to HN threads as an audio conversation](https://onetake-ai.github.io/hackernews-watercooler/)
 * [2025-04-17, 18:23:23](https://news.ycombinator.com/item?id=43720457) - [N-Params vs. Single Param](https://www.carlos-menezes.com/single-param-functions/)
 * [2025-04-17, 17:35:33](https://news.ycombinator.com/item?id=43719926) - [On Jane Jacobs (2017)](https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs)
+* [2025-04-17, 17:31:37](https://news.ycombinator.com/item?id=43719872) - [Micro Wheeled legged Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot)
 * [2025-04-17, 17:28:31](https://news.ycombinator.com/item?id=43719830) - [SQLite Transactions and Virtual Tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
 * [2025-04-17, 17:01:11](https://news.ycombinator.com/item?id=43719522) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2025-04-17, 16:54:58](https://news.ycombinator.com/item?id=43719447) - [Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex](https://github.com/coder/agentapi)
