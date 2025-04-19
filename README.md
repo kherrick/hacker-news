@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 17:00:27](https://news.ycombinator.com/item?id=43737661) - [Infisical (YC W23) Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 * [2025-04-19, 14:49:36](https://news.ycombinator.com/item?id=43736791) - [Librarians Are Dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
 * [2025-04-19, 14:42:48](https://news.ycombinator.com/item?id=43736739) - [How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html)
 * [2025-04-19, 14:39:49](https://news.ycombinator.com/item?id=43736718) - [Against Transparency](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer)
@@ -10,7 +11,6 @@
 * [2025-04-19, 11:32:29](https://news.ycombinator.com/item?id=43735724) - [Frankenstein's `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
 * [2025-04-19, 11:24:41](https://news.ycombinator.com/item?id=43735693) - [Neurite](https://github.com/satellitecomponent/Neurite)
 * [2025-04-19, 11:00:30](https://news.ycombinator.com/item?id=43735592) - [Demo \"The Mind\" by Haujobb and Sweet16](https://www.lexaloffle.com/bbs/?pid=145596)
-* [2025-04-19, 10:48:30](https://news.ycombinator.com/item?id=43735550) - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices)
 * [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
 * [2025-04-19, 08:02:07](https://news.ycombinator.com/item?id=43734953) - [A Map of British Dialects (2023)](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
 * [2025-04-19, 07:50:36](https://news.ycombinator.com/item?id=43734910) - [Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay](https://github.com/JustAman62/undercut-f1)
