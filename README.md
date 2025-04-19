@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 20:38:06](https://news.ycombinator.com/item?id=43739285) - [The Art of Assembly Language](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 * [2025-04-19, 20:00:17](https://news.ycombinator.com/item?id=43739037) - [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
 * [2025-04-19, 19:59:14](https://news.ycombinator.com/item?id=43739028) - [Unpowered SSD endurance investigation finds data loss and performance issues](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups)
 * [2025-04-19, 19:10:07](https://news.ycombinator.com/item?id=43738675) - [The Icelandic Voting System](https://smarimccarthy.is/posts/2024-11-25-voting-system/)
@@ -15,7 +16,6 @@
 * [2025-04-19, 13:17:48](https://news.ycombinator.com/item?id=43736193) - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
 * [2025-04-19, 12:23:50](https://news.ycombinator.com/item?id=43735945) - [Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2](https://qradiolink.org/open-source-DMR-transceiver-implementation.html)
 * [2025-04-19, 12:14:13](https://news.ycombinator.com/item?id=43735902) - [Android phones will soon reboot themselves after sitting unused for three days](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/)
-* [2025-04-19, 11:24:41](https://news.ycombinator.com/item?id=43735693) - [Neurite](https://github.com/satellitecomponent/Neurite)
 * [2025-04-19, 11:00:30](https://news.ycombinator.com/item?id=43735592) - [Demo \"The Mind\" by Haujobb and Sweet16](https://www.lexaloffle.com/bbs/?pid=145596)
 * [2025-04-19, 10:48:30](https://news.ycombinator.com/item?id=43735550) - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 * [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)

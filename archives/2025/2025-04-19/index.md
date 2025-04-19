@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
+* [2025-04-19, 20:38:06](https://news.ycombinator.com/item?id=43739285) - [The Art of Assembly Language](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 * [2025-04-19, 20:00:17](https://news.ycombinator.com/item?id=43739037) - [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
 * [2025-04-19, 19:59:14](https://news.ycombinator.com/item?id=43739028) - [Unpowered SSD endurance investigation finds data loss and performance issues](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups)
 * [2025-04-19, 19:32:49](https://news.ycombinator.com/item?id=43738829) - [My Daughter Slept in a Coffin at the Slumber Party](https://ihidefrommykids.substack.com/p/my-daughter-slept-in-a-coffin-at)
