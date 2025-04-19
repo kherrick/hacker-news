@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-19, 09:02:46](https://news.ycombinator.com/item?id=43735170) - [A star appears to have collapsed straight into a black hole without supernova](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/)
 * [2025-04-19, 08:02:07](https://news.ycombinator.com/item?id=43734953) - [A Map of British Dialects](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
 * [2025-04-19, 07:50:36](https://news.ycombinator.com/item?id=43734910) - [Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay](https://github.com/JustAman62/undercut-f1)
 * [2025-04-19, 07:16:50](https://news.ycombinator.com/item?id=43734795) - [The British sitcom that swept through the Balkans (2023)](https://blog.samizdata.co/p/how-a-british-sitcom-swept-through-the-balkans)
@@ -12,7 +13,6 @@
 * [2025-04-18, 20:24:09](https://news.ycombinator.com/item?id=43731552) - [Full Text Search of US Court records](https://www.judyrecords.com/)
 * [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
 * [2025-04-18, 19:28:44](https://news.ycombinator.com/item?id=43731165) - [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
-* [2025-04-18, 18:55:24](https://news.ycombinator.com/item?id=43730885) - [Loglan'82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
 * [2025-04-18, 18:35:05](https://news.ycombinator.com/item?id=43730701) - [There's Life Inside Earth's Crust](https://www.noemamag.com/theres-life-inside-earths-crust/)
 * [2025-04-18, 18:16:27](https://news.ycombinator.com/item?id=43730545) - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
