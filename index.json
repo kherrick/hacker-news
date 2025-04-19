@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-19, 21:14:33",
+      "https://news.ycombinator.com/item?id=43739529"
+    ],
+    [
+      "Electromagnetism as a Purely Geometric Theory",
+      "https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 21:04:41",
       "https://news.ycombinator.com/item?id=43739456"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=43739285"
     ],
     [
-      "The Art of Assembly Language",
+      "The Art of Assembly Language (2010)",
       "https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "Packing Input Frame Context in Next-Frame Prediction Models for Video Generation",
       "https://lllyasviel.github.io/frame_pack_gitpage/"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 12:23:50",
-      "https://news.ycombinator.com/item?id=43735945"
-    ],
-    [
-      "Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2",
-      "https://qradiolink.org/open-source-DMR-transceiver-implementation.html"
     ]
   ],
   [
