@@ -70,6 +70,7 @@
 * [2025-04-17, 05:53:31](https://news.ycombinator.com/item?id=43713524) - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
 * [2025-04-17, 05:50:04](https://news.ycombinator.com/item?id=43713512) - [Kennedy promises to find environmental causes of autism](https://www.politico.com/news/2025/04/16/syndicate-kennedy-pledges-to-figure-out-which-environmental-toxins-are-causing-autism-00293583)
 * [2025-04-17, 05:48:23](https://news.ycombinator.com/item?id=43713502) - [GPT o3 frequently fabricates actions, then elaborately justifies these actions](https://xcancel.com/TransluceAI/status/1912552046269771985)
+* [2025-04-17, 04:36:34](https://news.ycombinator.com/item?id=43713159) - [Center Pieces and Lunch Sets in Crochet Work (1915)](https://www.gutenberg.org/cache/epub/75880/pg75880-images.html)
 * [2025-04-17, 04:30:47](https://news.ycombinator.com/item?id=43713140) - [Differentiable Programming from Scratch](https://thenumb.at/Autodiff/)
 * [2025-04-17, 04:13:24](https://news.ycombinator.com/item?id=43713053) - [An experiment that turned back biological time](https://nehalslearnings.substack.com/p/the-experiment-that-turned-back-biological)
 * [2025-04-17, 02:44:43](https://news.ycombinator.com/item?id=43712598) - [US judge finds administration wilfully defied court order in deportation flights](https://www.abc.net.au/news/2025-04-17/judge-in-venezuelan-migrants-case-finds-trump-admin-probably-con/105186022)

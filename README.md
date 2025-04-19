@@ -18,7 +18,7 @@
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 * [2025-04-18, 08:15:20](https://news.ycombinator.com/item?id=43726051) - [Defold: cross-platform game engine](https://defold.com)
-* [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
+* [2025-04-17, 04:36:34](https://news.ycombinator.com/item?id=43713159) - [Center Pieces and Lunch Sets in Crochet Work (1915)](https://www.gutenberg.org/cache/epub/75880/pg75880-images.html)
 * [2025-04-17, 02:31:34](https://news.ycombinator.com/item?id=43712536) - [Peru's ancient irrigation systems turned deserts into farms because of culture](https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199)
 * [2025-04-16, 22:20:41](https://news.ycombinator.com/item?id=43710996) - [Sponges, drill bits and wires: Surgeons mistakenly left objects inside thousands](https://www.sfchronicle.com/projects/2025/hospitals-surgical-objects-patients/)
 * [2025-04-16, 18:36:29](https://news.ycombinator.com/item?id=43708841) - [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins)
