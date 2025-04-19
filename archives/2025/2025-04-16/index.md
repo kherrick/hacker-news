@@ -35,6 +35,7 @@
 * [2025-04-16, 15:26:52](https://news.ycombinator.com/item?id=43706667) - [Can LLMs earn $1M from real freelance coding work?](https://newsletter.getdx.com/p/benchmarking-ai-software-engineering-capabilities)
 * [2025-04-16, 15:18:57](https://news.ycombinator.com/item?id=43706586) - [Rust-IoT-Platform](https://github.com/iot-ecology/rust-iot-platform)
 * [2025-04-16, 15:12:07](https://news.ycombinator.com/item?id=43706530) - [Tell HN: Warning Google trains on your data when using aistudio.google.com](https://news.ycombinator.com/item?id=43706530)
+* [2025-04-16, 15:01:19](https://news.ycombinator.com/item?id=43706442) - [The Long History of Nitrous Oxide](https://www.smithsonianmag.com/science-nature/the-long-strange-history-of-nitrous-oxide-a-popular-drug-users-have-been-inhaling-for-hundreds-of-years-180986293/)
 * [2025-04-16, 15:00:21](https://news.ycombinator.com/item?id=43706429) - [Atypography – Art Movement Introduction](https://www.atypography.com)
 * [2025-04-16, 14:46:47](https://news.ycombinator.com/item?id=43706247) - [Jupiter, it's mushballs all the way down](https://www.sciencedaily.com/releases/2025/04/250415183433.htm)
 * [2025-04-16, 14:43:47](https://news.ycombinator.com/item?id=43706210) - [How to Optimize Rust for Slowness: Inspired by New Turing Machine Results](https://medium.com/@carlmkadie/how-to-optimize-your-rust-program-for-slowness-eb2c1a64d184)
