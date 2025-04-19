@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-19, 23:10:06](https://news.ycombinator.com/item?id=43740187) - ['The bomber's words sound mainstream. Like he won ' Oklahoma City's tragedy](https://www.theguardian.com/us-news/2025/apr/19/timothy-mcveigh-oklahoma-bombing-far-right-1995)
 * [2025-04-19, 22:35:30](https://news.ycombinator.com/item?id=43740021) - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
 * [2025-04-19, 22:31:19](https://news.ycombinator.com/item?id=43739997) - [Ultrathink is a Claude Code a magic word](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/)
 * [2025-04-19, 21:17:18](https://news.ycombinator.com/item?id=43739547) - [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
@@ -13,6 +12,7 @@
 * [2025-04-19, 18:59:56](https://news.ycombinator.com/item?id=43738603) - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
 * [2025-04-19, 18:53:32](https://news.ycombinator.com/item?id=43738561) - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
 * [2025-04-19, 18:44:17](https://news.ycombinator.com/item?id=43738485) - [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
+* [2025-04-19, 18:42:46](https://news.ycombinator.com/item?id=43738478) - [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
 * [2025-04-19, 17:00:27](https://news.ycombinator.com/item?id=43737661) - [Infisical (YC W23) Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 * [2025-04-19, 14:49:36](https://news.ycombinator.com/item?id=43736791) - [Librarians are dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
 * [2025-04-19, 14:42:48](https://news.ycombinator.com/item?id=43736739) - [How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html)
