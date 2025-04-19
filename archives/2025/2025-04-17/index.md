@@ -47,6 +47,7 @@
 * [2025-04-17, 12:54:49](https://news.ycombinator.com/item?id=43716110) - [Toothpaste widely contaminated with lead and other metals, US research finds](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals)
 * [2025-04-17, 12:50:37](https://news.ycombinator.com/item?id=43716058) - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-17, 12:34:38](https://news.ycombinator.com/item?id=43715884) - [Discord's face scanning age checks 'start of a bigger shift'](https://www.bbc.com/news/articles/cjr75wypg0vo)
+* [2025-04-17, 12:26:04](https://news.ycombinator.com/item?id=43715790) - ['Cosmic radio' detector could discover dark matter within 15 years](https://phys.org/news/2025-04-cosmic-radio-detector-dark-years.html)
 * [2025-04-17, 12:20:33](https://news.ycombinator.com/item?id=43715737) - [I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
 * [2025-04-17, 12:00:31](https://news.ycombinator.com/item?id=43715525) - [Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2025-04-17, 11:34:30](https://news.ycombinator.com/item?id=43715306) - [mIRC: Internet Relay Chat Client](https://www.mirc.com/)

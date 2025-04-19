@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-19, 13:17:48](https://news.ycombinator.com/item?id=43736193) - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
-* [2025-04-19, 12:36:26](https://news.ycombinator.com/item?id=43736005) - [Scientists claim to have found colour no one has seen before](https://www.theguardian.com/science/2025/apr/18/scientists-claim-to-have-found-colour-no-one-has-seen-before)
 * [2025-04-19, 12:28:03](https://news.ycombinator.com/item?id=43735969) - [Ask HN: why is my F500 employer okay with paying 5x to freelancers?](https://news.ycombinator.com/item?id=43735969)
 * [2025-04-19, 12:23:50](https://news.ycombinator.com/item?id=43735945) - [Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2](https://qradiolink.org/open-source-DMR-transceiver-implementation.html)
 * [2025-04-19, 12:14:13](https://news.ycombinator.com/item?id=43735902) - [Android phones will soon reboot themselves after sitting unused for three days](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/)
@@ -22,12 +21,13 @@
 * [2025-04-18, 19:28:44](https://news.ycombinator.com/item?id=43731165) - [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
 * [2025-04-18, 16:40:25](https://news.ycombinator.com/item?id=43729683) - [Show HN: I made a Doom-like game fit inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-17, 17:31:37](https://news.ycombinator.com/item?id=43719872) - [Micro Wheeled legged Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot)
-* [2025-04-17, 04:36:34](https://news.ycombinator.com/item?id=43713159) - [Center Pieces and Lunch Sets in Crochet Work (1915)](https://www.gutenberg.org/cache/epub/75880/pg75880-images.html)
+* [2025-04-17, 12:26:04](https://news.ycombinator.com/item?id=43715790) - ['Cosmic radio' detector could discover dark matter within 15 years](https://phys.org/news/2025-04-cosmic-radio-detector-dark-years.html)
 * [2025-04-17, 02:31:34](https://news.ycombinator.com/item?id=43712536) - [Peru's ancient irrigation systems turned deserts into farms because of culture](https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199)
 * [2025-04-16, 18:36:29](https://news.ycombinator.com/item?id=43708841) - [AI-Designed Antivenoms: New Proteins to Block Deadly Snake Toxins](https://plentyofroom.beehiiv.com/p/antivenoms-with-ai-designed-proteins)
 * [2025-04-16, 13:22:14](https://news.ycombinator.com/item?id=43705190) - [High time to tackle drug-resistant fungal infections](https://www.nature.com/articles/d41586-025-01177-x)
 * [2025-04-16, 11:26:27](https://news.ycombinator.com/item?id=43703998) - [Hydrogen vs. Battery Buses: A European Transit Reality Check](https://cleantechnica.com/2025/04/14/hydrogen-vs-battery-buses-a-european-transit-reality-check/)
 * [2025-04-15, 22:41:54](https://news.ycombinator.com/item?id=43699301) - [USB Floppy Disk Striped RAID Under OS X (2004)](http://web.archive.org/web/20040202110812/http://ohlssonvox.8k.com/fdd_raid.htm)
+* [2025-04-15, 21:01:02](https://news.ycombinator.com/item?id=43698327) - [Cyberpunk 1958: The Early Days of the Polish IT Industry](https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry)
 * [2025-04-15, 14:05:42](https://news.ycombinator.com/item?id=43692878) - [Ocean Iron Fertilization](https://www.whoi.edu/know-your-ocean/ocean-topics/climate-weather/ocean-based-climate-solutions/iron-fertilization/)
 * [2025-04-15, 10:33:02](https://news.ycombinator.com/item?id=43691020) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 
