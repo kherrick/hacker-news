@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-19, 19:32:49](https://news.ycombinator.com/item?id=43738829) - [My Daughter Slept in a Coffin at the Slumber Party](https://ihidefrommykids.substack.com/p/my-daughter-slept-in-a-coffin-at)
+* [2025-04-19, 19:10:07](https://news.ycombinator.com/item?id=43738675) - [The Icelandic Voting System](https://smarimccarthy.is/posts/2024-11-25-voting-system/)
 * [2025-04-19, 18:59:56](https://news.ycombinator.com/item?id=43738603) - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
 * [2025-04-19, 18:53:32](https://news.ycombinator.com/item?id=43738561) - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
 * [2025-04-19, 18:44:17](https://news.ycombinator.com/item?id=43738485) - [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
@@ -17,7 +17,6 @@
 * [2025-04-19, 11:00:30](https://news.ycombinator.com/item?id=43735592) - [Demo \"The Mind\" by Haujobb and Sweet16](https://www.lexaloffle.com/bbs/?pid=145596)
 * [2025-04-19, 10:48:30](https://news.ycombinator.com/item?id=43735550) - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 * [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
-* [2025-04-19, 08:02:07](https://news.ycombinator.com/item?id=43734953) - [A Map of British Dialects (2023)](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
 * [2025-04-19, 07:50:36](https://news.ycombinator.com/item?id=43734910) - [Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay](https://github.com/JustAman62/undercut-f1)
 * [2025-04-19, 06:11:37](https://news.ycombinator.com/item?id=43734583) - [Show HN: Goldbach Conjecture up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
 * [2025-04-18, 20:24:09](https://news.ycombinator.com/item?id=43731552) - [Full Text Search of US Court records](https://www.judyrecords.com/)
@@ -28,6 +27,7 @@
 * [2025-04-17, 03:36:16](https://news.ycombinator.com/item?id=43712877) - [Zack: A Simple Backtesting Engine in Zig](https://github.com/zerotech-studio/zack)
 * [2025-04-17, 02:31:34](https://news.ycombinator.com/item?id=43712536) - [Peru's ancient irrigation systems turned deserts into farms because of culture](https://theconversation.com/perus-ancient-irrigation-systems-succeeded-in-turning-deserts-into-farms-because-of-the-culture-without-it-the-systems-failed-251199)
 * [2025-04-17, 01:05:22](https://news.ycombinator.com/item?id=43712024) - [The Animals That Exist Between Life and Death](https://nautil.us/the-animals-that-exist-between-life-and-death-1202592/)
+* [2025-04-16, 13:22:14](https://news.ycombinator.com/item?id=43705190) - [High time to tackle drug-resistant fungal infections](https://www.nature.com/articles/d41586-025-01177-x)
 * [2025-04-15, 22:41:54](https://news.ycombinator.com/item?id=43699301) - [USB Floppy Disk Striped RAID Under OS X (2004)](http://web.archive.org/web/20040202110812/http://ohlssonvox.8k.com/fdd_raid.htm)
 * [2025-04-13, 00:55:54](https://news.ycombinator.com/item?id=43669151) - [Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck voices](https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/)
 

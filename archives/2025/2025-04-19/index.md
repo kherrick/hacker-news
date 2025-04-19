@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
 * [2025-04-19, 19:32:49](https://news.ycombinator.com/item?id=43738829) - [My Daughter Slept in a Coffin at the Slumber Party](https://ihidefrommykids.substack.com/p/my-daughter-slept-in-a-coffin-at)
+* [2025-04-19, 19:10:07](https://news.ycombinator.com/item?id=43738675) - [The Icelandic Voting System](https://smarimccarthy.is/posts/2024-11-25-voting-system/)
 * [2025-04-19, 18:59:56](https://news.ycombinator.com/item?id=43738603) - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
 * [2025-04-19, 18:53:32](https://news.ycombinator.com/item?id=43738561) - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
 * [2025-04-19, 18:44:17](https://news.ycombinator.com/item?id=43738485) - [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
