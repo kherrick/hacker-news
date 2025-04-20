@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-20, 05:09:05",
+      "https://news.ycombinator.com/item?id=43741655"
+    ],
+    [
+      "The AI skeptic's guide to AI collaboration",
+      "https://hils.substack.com/p/the-ai-skeptics-guide-to-ai-collaboration"
+    ]
+  ],
+  [
+    [
       "2025-04-20, 03:16:42",
       "https://news.ycombinator.com/item?id=43741273"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-04-19, 09:22:17",
-      "https://news.ycombinator.com/item?id=43735239"
+      "2025-04-17, 15:29:21",
+      "https://news.ycombinator.com/item?id=43718292"
     ],
     [
-      "Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine",
-      "https://philwip.com/2025/04/14/galaxian-3-project-revival/"
+      "Cache loop and memory loss in GPT – a user-side fix (tested with GPT itself)",
+      "https://github.com/sks38317/gpt-cache-optimization"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Which year: guess which year each photo was taken",
       "https://whichyr.com/"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 22:08:33",
-      "https://news.ycombinator.com/item?id=43710912"
-    ],
-    [
-      "Calypsi: A series of C compiler and assembly language cross compiler tool chains",
-      "https://github.com/hth313/Calypsi-tool-chains"
     ]
   ],
   [
