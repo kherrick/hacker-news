@@ -15,6 +15,7 @@
 * [2025-04-16, 22:08:33](https://news.ycombinator.com/item?id=43710912) - [Calypsi: A series of C compiler and assembly language cross compiler tool chains](https://github.com/hth313/Calypsi-tool-chains)
 * [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [\"Vivarium\": The keeper of a lab's animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
 * [2025-04-16, 21:26:42](https://news.ycombinator.com/item?id=43710576) - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
+* [2025-04-16, 21:13:55](https://news.ycombinator.com/item?id=43710451) - [Healthy soil is the hidden ingredient](https://www.nature.com/articles/d41586-025-01026-x)
 * [2025-04-16, 21:05:16](https://news.ycombinator.com/item?id=43710382) - [Classifying aviation-related posts on Hacker News with SLMs](https://www.skysight.inc/blog/hacker-news-aviation)
 * [2025-04-16, 21:00:11](https://news.ycombinator.com/item?id=43710330) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2025-04-16, 20:48:07](https://news.ycombinator.com/item?id=43710220) - [Translate Fortran to C++ with AI and RAG](https://www.lanl.gov/media/publications/1663/0125-llm-translation)

@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
-* [2025-04-20, 06:49:13](https://news.ycombinator.com/item?id=43741987) - [Meteor Burst Communications](https://ronaldelliott.com/mbc.html)
 * [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let's give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 03:16:42](https://news.ycombinator.com/item?id=43741273) - [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 * [2025-04-20, 02:14:40](https://news.ycombinator.com/item?id=43741051) - [Pretty State Machine Patterns in Rust (2016)](https://hoverbear.org/blog/rust-state-machine-pattern/)
@@ -26,6 +25,7 @@
 * [2025-04-17, 14:29:32](https://news.ycombinator.com/item?id=43717403) - [Models of Ice Skating for the Development of Robotic Ice Skating Gaits [pdf] (2020)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-162.pdf)
 * [2025-04-17, 13:41:27](https://news.ycombinator.com/item?id=43716704) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
 * [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
+* [2025-04-16, 21:13:55](https://news.ycombinator.com/item?id=43710451) - [Healthy soil is the hidden ingredient](https://www.nature.com/articles/d41586-025-01026-x)
 * [2025-04-16, 20:13:16](https://news.ycombinator.com/item?id=43709843) - [Attention Spans for Math and Stories (2019)](https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/)
 * [2025-04-16, 18:31:44](https://news.ycombinator.com/item?id=43708789) - [Eccfrog512ck2: An Enhanced 512-Bit Weierstrass Elliptic Curve [pdf]](https://arxiv.org/abs/2504.09584)
 * [2025-04-16, 18:14:51](https://news.ycombinator.com/item?id=43708622) - [Ask HN: How do you talk about past jobs you regret in interviews](https://news.ycombinator.com/item?id=43708622)
