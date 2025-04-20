@@ -2,6 +2,7 @@
 
 * [2025-04-20, 14:30:05](https://news.ycombinator.com/item?id=43744006) - [What's happening with Tesla's solar roof?](https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/)
 * [2025-04-20, 14:28:20](https://news.ycombinator.com/item?id=43743993) - [Why on Earth is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
+* [2025-04-20, 14:12:09](https://news.ycombinator.com/item?id=43743880) - [Show HN: MCP Containers – Easily and securely run MCP servers locally](https://github.com/metorial/mcp-containers)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 * [2025-04-20, 10:23:58](https://news.ycombinator.com/item?id=43742859) - [You Commit Three Felonies a Day (2013)](https://kottke.org/13/06/you-commit-three-felonies-a-day)
 * [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let's give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
@@ -24,7 +25,6 @@
 * [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
 * [2025-04-17, 15:42:32](https://news.ycombinator.com/item?id=43718493) - [A 1980s toy robot arm inspired modern robotics](https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/)
 * [2025-04-17, 14:36:51](https://news.ycombinator.com/item?id=43717513) - [First baby born in UK to woman with transplanted womb](https://www.bbc.com/news/articles/c78jd517z87o)
-* [2025-04-17, 14:29:32](https://news.ycombinator.com/item?id=43717403) - [Models of Ice Skating for the Development of Robotic Ice Skating Gaits [pdf] (2020)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-162.pdf)
 * [2025-04-17, 13:41:27](https://news.ycombinator.com/item?id=43716704) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
 * [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
 * [2025-04-16, 21:13:55](https://news.ycombinator.com/item?id=43710451) - [Healthy soil is the hidden ingredient](https://www.nature.com/articles/d41586-025-01026-x)
