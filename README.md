@@ -23,7 +23,7 @@
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
 * [2025-04-19, 18:53:32](https://news.ycombinator.com/item?id=43738561) - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
 * [2025-04-19, 12:13:32](https://news.ycombinator.com/item?id=43735896) - [Perplexingly Book-Learned Emacs](https://lars.ingebrigtsen.no/2025/04/17/perplexingly-book-learned-emacs/)
-* [2025-04-19, 05:24:37](https://news.ycombinator.com/item?id=43734407) - [Syncing Keyhive](https://www.inkandswitch.com/keyhive/notebook/05/)
+* [2025-04-19, 11:48:31](https://news.ycombinator.com/item?id=43735782) - [Voice Flight – A voice-controlled flying game](https://news.ycombinator.com/item?id=43735782)
 * [2025-04-17, 19:46:01](https://news.ycombinator.com/item?id=43721301) - [Recursive LLM prompts](https://github.com/andyk/recursive_llm)
 * [2025-04-17, 15:42:32](https://news.ycombinator.com/item?id=43718493) - [A 1980s toy robot arm inspired modern robotics](https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/)
 * [2025-04-17, 13:41:27](https://news.ycombinator.com/item?id=43716704) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)

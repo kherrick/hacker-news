@@ -39,6 +39,7 @@
 * [2025-04-19, 12:13:32](https://news.ycombinator.com/item?id=43735896) - [Perplexingly Book-Learned Emacs](https://lars.ingebrigtsen.no/2025/04/17/perplexingly-book-learned-emacs/)
 * [2025-04-19, 12:09:38](https://news.ycombinator.com/item?id=43735870) - [China Can Have It All – China is currently winner of America's self-sabotage](https://minnalander.substack.com/p/china-can-have-it-all)
 * [2025-04-19, 11:50:51](https://news.ycombinator.com/item?id=43735798) - [FramePack – Enabling Fast Video Generation on Consumer GPUs](https://framepack.co/)
+* [2025-04-19, 11:48:31](https://news.ycombinator.com/item?id=43735782) - [Voice Flight – A voice-controlled flying game](https://news.ycombinator.com/item?id=43735782)
 * [2025-04-19, 11:32:29](https://news.ycombinator.com/item?id=43735724) - [Frankenstein's `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
 * [2025-04-19, 11:24:41](https://news.ycombinator.com/item?id=43735693) - [Neurite](https://github.com/satellitecomponent/Neurite)
 * [2025-04-19, 11:14:17](https://news.ycombinator.com/item?id=43735643) - [Release: OLED Mode extension for Chrome](https://github.com/FreelanceProgrammingServices/Chrome-OLED-Mode)
