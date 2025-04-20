@@ -7,6 +7,7 @@
 * [2025-04-20, 14:35:25](https://news.ycombinator.com/item?id=43744043) - [Meta's Monopoly Made It a Fair-Weather Friend](https://www.wired.com/story/plaintext-ftc-meta-trial-mark-zuckerberg/)
 * [2025-04-20, 14:30:05](https://news.ycombinator.com/item?id=43744006) - [What's happening with Tesla's solar roof?](https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/)
 * [2025-04-20, 14:28:20](https://news.ycombinator.com/item?id=43743993) - [Why on Earth is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
+* [2025-04-20, 14:14:27](https://news.ycombinator.com/item?id=43743897) - [Maybe Meta's Llama claims to be open source because of the EU AI act](https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/)
 * [2025-04-20, 14:12:09](https://news.ycombinator.com/item?id=43743880) - [Show HN: MCP Containers – Easily and securely run MCP servers locally](https://github.com/metorial/mcp-containers)
 * [2025-04-20, 13:25:49](https://news.ycombinator.com/item?id=43743621) - [Show HN: Frame-Pack-Next Frame Prediction AI Video Generator](https://frame-pack.video/)
 * [2025-04-20, 12:38:44](https://news.ycombinator.com/item?id=43743406) - ['Biological reality': What genetics has taught us about race](https://www.bbc.com/future/article/20250417-biological-reality-what-genetics-has-taught-us-about-race)

@@ -2,8 +2,7 @@
 
 * [2025-04-20, 14:35:25](https://news.ycombinator.com/item?id=43744043) - [Meta's Monopoly Made It a Fair-Weather Friend](https://www.wired.com/story/plaintext-ftc-meta-trial-mark-zuckerberg/)
 * [2025-04-20, 14:28:20](https://news.ycombinator.com/item?id=43743993) - [Why on Earth is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
-* [2025-04-20, 14:12:09](https://news.ycombinator.com/item?id=43743880) - [Show HN: MCP Containers – Easily and securely run MCP servers locally](https://github.com/metorial/mcp-containers)
-* [2025-04-20, 13:25:49](https://news.ycombinator.com/item?id=43743621) - [Show HN: Frame-Pack-Next Frame Prediction AI Video Generator](https://frame-pack.video/)
+* [2025-04-20, 14:14:27](https://news.ycombinator.com/item?id=43743897) - [Maybe Meta's Llama claims to be open source because of the EU AI act](https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 * [2025-04-20, 10:23:58](https://news.ycombinator.com/item?id=43742859) - [You Commit Three Felonies a Day (2013)](https://kottke.org/13/06/you-commit-three-felonies-a-day)
 * [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let's give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
@@ -20,6 +19,7 @@
 * [2025-04-19, 18:08:42](https://news.ycombinator.com/item?id=43738195) - [Don't force your kids to do math](https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/)
 * [2025-04-19, 16:32:19](https://news.ycombinator.com/item?id=43737469) - [An image of the Australian desert illuminates satellite pollution](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/)
 * [2025-04-19, 14:49:36](https://news.ycombinator.com/item?id=43736791) - [Librarians are dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
+* [2025-04-19, 13:17:48](https://news.ycombinator.com/item?id=43736193) - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
 * [2025-04-19, 12:14:13](https://news.ycombinator.com/item?id=43735902) - [Android phones will soon reboot themselves after sitting unused for three days](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/)
 * [2025-04-19, 10:48:30](https://news.ycombinator.com/item?id=43735550) - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 * [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
