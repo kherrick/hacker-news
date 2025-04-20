@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-20, 12:38:44](https://news.ycombinator.com/item?id=43743406) - ['Biological reality': What genetics has taught us about race](https://www.bbc.com/future/article/20250417-biological-reality-what-genetics-has-taught-us-about-race)
+* [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
+* [2025-04-20, 06:49:13](https://news.ycombinator.com/item?id=43741987) - [Meteor Burst Communications](https://ronaldelliott.com/mbc.html)
 * [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let's give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 03:16:42](https://news.ycombinator.com/item?id=43741273) - [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 * [2025-04-20, 02:14:40](https://news.ycombinator.com/item?id=43741051) - [Pretty State Machine Patterns in Rust (2016)](https://hoverbear.org/blog/rust-state-machine-pattern/)
@@ -10,8 +11,6 @@
 * [2025-04-19, 22:35:30](https://news.ycombinator.com/item?id=43740021) - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
 * [2025-04-19, 21:14:33](https://news.ycombinator.com/item?id=43739529) - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-* [2025-04-19, 20:38:06](https://news.ycombinator.com/item?id=43739285) - [The Art of Assembly Language (2010)](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
-* [2025-04-19, 19:10:07](https://news.ycombinator.com/item?id=43738675) - [The Icelandic Voting System (2024)](https://smarimccarthy.is/posts/2024-11-25-voting-system/)
 * [2025-04-19, 18:59:56](https://news.ycombinator.com/item?id=43738603) - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
 * [2025-04-19, 18:53:32](https://news.ycombinator.com/item?id=43738561) - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
 * [2025-04-19, 18:44:17](https://news.ycombinator.com/item?id=43738485) - [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
@@ -29,6 +28,7 @@
 * [2025-04-17, 10:05:27](https://news.ycombinator.com/item?id=43714823) - [Show HN: Lit.money – Ethically designed to be a private, simple way to see money](https://lit.money/)
 * [2025-04-16, 20:13:16](https://news.ycombinator.com/item?id=43709843) - [Attention Spans for Math and Stories (2019)](https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/)
 * [2025-04-16, 18:31:44](https://news.ycombinator.com/item?id=43708789) - [Eccfrog512ck2: An Enhanced 512-Bit Weierstrass Elliptic Curve [pdf]](https://arxiv.org/abs/2504.09584)
+* [2025-04-16, 18:14:51](https://news.ycombinator.com/item?id=43708622) - [Ask HN: How do you talk about past jobs you regret in interviews](https://news.ycombinator.com/item?id=43708622)
 * [2025-04-13, 00:55:54](https://news.ycombinator.com/item?id=43669151) - [Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck voices](https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/)
 
 ## [Archives](archives/index.md)
