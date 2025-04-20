@@ -6,6 +6,7 @@
 
 * [2025-04-19, 23:10:06](https://news.ycombinator.com/item?id=43740187) - ['The bomber's words sound mainstream. Like he won ' Oklahoma City's tragedy](https://www.theguardian.com/us-news/2025/apr/19/timothy-mcveigh-oklahoma-bombing-far-right-1995)
 * [2025-04-19, 23:05:19](https://news.ycombinator.com/item?id=43740163) - [Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents](https://arxiv.org/abs/2502.15840)
+* [2025-04-19, 23:01:17](https://news.ycombinator.com/item?id=43740145) - [Can We Trust CVE?](https://opensourcesecurity.io/2025/04-can-we-trust-cve/)
 * [2025-04-19, 22:35:30](https://news.ycombinator.com/item?id=43740021) - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
 * [2025-04-19, 22:31:19](https://news.ycombinator.com/item?id=43739997) - [Ultrathink is a Claude Code a magic word](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/)
 * [2025-04-19, 21:17:18](https://news.ycombinator.com/item?id=43739547) - [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)

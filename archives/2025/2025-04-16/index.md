@@ -12,6 +12,7 @@
 * [2025-04-16, 22:21:14](https://news.ycombinator.com/item?id=43711001) - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
 * [2025-04-16, 22:20:41](https://news.ycombinator.com/item?id=43710996) - [Sponges, drill bits and wires: Surgeons mistakenly left objects inside thousands](https://www.sfchronicle.com/projects/2025/hospitals-surgical-objects-patients/)
 * [2025-04-16, 22:19:39](https://news.ycombinator.com/item?id=43710986) - [Kotlin 101: Type Classes Quickly Explained](https://rockthejvm.com/articles/kotlin-101-type-classes)
+* [2025-04-16, 22:08:33](https://news.ycombinator.com/item?id=43710912) - [Calypsi: A series of C compiler and assembly language cross compiler tool chains](https://github.com/hth313/Calypsi-tool-chains)
 * [2025-04-16, 21:46:10](https://news.ycombinator.com/item?id=43710761) - [\"Vivarium\": The keeper of a lab's animals stumbles onto a secret [fiction]](https://jsomers.net/vivarium/)
 * [2025-04-16, 21:26:42](https://news.ycombinator.com/item?id=43710576) - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
 * [2025-04-16, 21:05:16](https://news.ycombinator.com/item?id=43710382) - [Classifying aviation-related posts on Hacker News with SLMs](https://www.skysight.inc/blog/hacker-news-aviation)
