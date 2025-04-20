@@ -21,22 +21,12 @@
   ],
   [
     [
-      "2025-04-20, 14:12:09",
-      "https://news.ycombinator.com/item?id=43743880"
+      "2025-04-20, 14:14:27",
+      "https://news.ycombinator.com/item?id=43743897"
     ],
     [
-      "Show HN: MCP Containers – Easily and securely run MCP servers locally",
-      "https://github.com/metorial/mcp-containers"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 13:25:49",
-      "https://news.ycombinator.com/item?id=43743621"
-    ],
-    [
-      "Show HN: Frame-Pack-Next Frame Prediction AI Video Generator",
-      "https://frame-pack.video/"
+      "Maybe Meta's Llama claims to be open source because of the EU AI act",
+      "https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Librarians are dangerous",
       "https://bradmontague.substack.com/p/librarians-are-dangerous"
+    ]
+  ],
+  [
+    [
+      "2025-04-19, 13:17:48",
+      "https://news.ycombinator.com/item?id=43736193"
+    ],
+    [
+      "Packing Input Frame Context in Next-Frame Prediction Models for Video Generation",
+      "https://lllyasviel.github.io/frame_pack_gitpage/"
     ]
   ],
   [
