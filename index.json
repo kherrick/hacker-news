@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-20, 14:35:25",
-      "https://news.ycombinator.com/item?id=43744043"
+      "2025-04-20, 16:00:29",
+      "https://news.ycombinator.com/item?id=43744609"
     ],
     [
-      "Meta's Monopoly Made It a Fair-Weather Friend",
-      "https://www.wired.com/story/plaintext-ftc-meta-trial-mark-zuckerberg/"
+      "Turing-Drawings",
+      "https://github.com/maximecb/Turing-Drawings"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Maybe Meta's Llama claims to be open source because of the EU AI act",
       "https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 13:56:06",
+      "https://news.ycombinator.com/item?id=43743784"
+    ],
+    [
+      "The Joy of Linux Theming in the Age of Bootable Containers",
+      "https://blues.win/posts/joy-of-linux-theming/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-04-19, 13:17:48",
-      "https://news.ycombinator.com/item?id=43736193"
-    ],
-    [
-      "Packing Input Frame Context in Next-Frame Prediction Models for Video Generation",
-      "https://lllyasviel.github.io/frame_pack_gitpage/"
-    ]
-  ],
-  [
-    [
       "2025-04-19, 12:14:13",
       "https://news.ycombinator.com/item?id=43735902"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2025-04-19, 12:13:32",
+      "https://news.ycombinator.com/item?id=43735896"
+    ],
+    [
+      "Perplexingly Book-Learned Emacs",
+      "https://lars.ingebrigtsen.no/2025/04/17/perplexingly-book-learned-emacs/"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 10:48:30",
       "https://news.ycombinator.com/item?id=43735550"
     ],
     [
       "Claude Code: Best practices for agentic coding",
       "https://www.anthropic.com/engineering/claude-code-best-practices"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 09:22:17",
-      "https://news.ycombinator.com/item?id=43735239"
-    ],
-    [
-      "Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine",
-      "https://philwip.com/2025/04/14/galaxian-3-project-revival/"
     ]
   ],
   [
