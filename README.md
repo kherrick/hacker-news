@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-20, 17:54:59](https://news.ycombinator.com/item?id=43745296) - [99% Effective: First Hormone-Free Male Birth Control Pill Enters Human Trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/)
 * [2025-04-20, 17:48:40](https://news.ycombinator.com/item?id=43745261) - [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
 * [2025-04-20, 17:29:28](https://news.ycombinator.com/item?id=43745141) - [The Movie Mistake Mystery from \"Revenge of the Sith\"](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
 * [2025-04-20, 17:13:32](https://news.ycombinator.com/item?id=43745040) - [Signal Carnival](https://www.quiss.org/signal_carnival/)
@@ -9,6 +8,7 @@
 * [2025-04-20, 16:00:29](https://news.ycombinator.com/item?id=43744609) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-20, 15:57:37](https://news.ycombinator.com/item?id=43744591) - [Things Zig comptime won't do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 * [2025-04-20, 15:28:06](https://news.ycombinator.com/item?id=43744394) - [The skill of the future is not 'AI', but 'Focus'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+* [2025-04-20, 15:20:35](https://news.ycombinator.com/item?id=43744343) - [Pushing the Limits of LLM Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)
 * [2025-04-20, 14:47:01](https://news.ycombinator.com/item?id=43744116) - [OAuth's Role in MCP Security](https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security)
 * [2025-04-20, 14:28:20](https://news.ycombinator.com/item?id=43743993) - [Why is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
 * [2025-04-20, 14:17:39](https://news.ycombinator.com/item?id=43743915) - [Slouching Towards San Francisco](https://rachdele.substack.com/p/slouching-towards-san-francisco)
