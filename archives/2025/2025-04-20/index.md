@@ -7,6 +7,8 @@
 * [2025-04-20, 21:00:37](https://news.ycombinator.com/item?id=43746491) - [FurtherAI (YC W24) Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-04-20, 19:41:29](https://news.ycombinator.com/item?id=43746017) - [Falsify: Hypothesis-Inspired Shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
 * [2025-04-20, 19:17:58](https://news.ycombinator.com/item?id=43745868) - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
+* [2025-04-20, 19:03:45](https://news.ycombinator.com/item?id=43745776) - [Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird](https://420.headset.io)
+* [2025-04-20, 18:32:29](https://news.ycombinator.com/item?id=43745554) - [Show HN: JuryNow – Get an anonymous instant verdict from 12 real people](https://jurynow.app/)
 * [2025-04-20, 18:20:50](https://news.ycombinator.com/item?id=43745469) - [U.S. citizen in Arizona detained by immigration officials for 10 days](https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/)
 * [2025-04-20, 17:54:59](https://news.ycombinator.com/item?id=43745296) - [99% Effective: First Hormone-Free Male Birth Control Pill Enters Human Trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/)
 * [2025-04-20, 17:48:40](https://news.ycombinator.com/item?id=43745261) - [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
