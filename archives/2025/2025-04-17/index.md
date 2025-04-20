@@ -60,6 +60,7 @@
 * [2025-04-17, 10:59:03](https://news.ycombinator.com/item?id=43715116) - [Daily Pill May Work as Well as Ozempic for Weight Loss and Blood Sugar](https://www.nytimes.com/2025/04/17/health/pill-glp-1-eli-lilly.html)
 * [2025-04-17, 10:57:38](https://news.ycombinator.com/item?id=43715109) - [As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/)
 * [2025-04-17, 10:43:23](https://news.ycombinator.com/item?id=43715030) - [Erlang Solutions' Blog round-up](https://www.erlang-solutions.com/blog/erlang-solutions-blog-round-up/)
+* [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
 * [2025-04-17, 10:42:01](https://news.ycombinator.com/item?id=43715022) - [US Government threatens Harvard with foreign student ban](https://www.bbc.com/news/articles/c1egdy24v7po)
 * [2025-04-17, 10:28:31](https://news.ycombinator.com/item?id=43714959) - [Development on Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
 * [2025-04-17, 10:18:43](https://news.ycombinator.com/item?id=43714902) - [Building an AI That Watches Rugby](https://nickjones.tech/ai-watching-rugby/)
