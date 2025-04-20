@@ -62,3 +62,4 @@
 * [2025-04-19, 01:33:56](https://news.ycombinator.com/item?id=43733463) - [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
 * [2025-04-19, 01:03:39](https://news.ycombinator.com/item?id=43733315) - [Pahole: Analysing Memory Layout of Complex Data Structures with Ease](https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/)
 * [2025-04-19, 00:21:13](https://news.ycombinator.com/item?id=43733097) - [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/)
+* [2025-04-19, 00:11:24](https://news.ycombinator.com/item?id=43733033) - [Mapping the half-billion connections that allow mice to see](https://engineering.princeton.edu/news/2025/04/09/scientists-map-vision-centers-mammalian-brain)

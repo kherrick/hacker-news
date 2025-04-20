@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
+* [2025-04-20, 21:55:00](https://news.ycombinator.com/item?id=43746782) - [What should third world dev do in this economy?](https://news.ycombinator.com/item?id=43746782)
+* [2025-04-20, 21:15:47](https://news.ycombinator.com/item?id=43746585) - [Why the Ultrarich Are Unplugging from \"Smart Homes\"](https://www.hollywoodreporter.com/lifestyle/real-estate/tech-free-homes-luxury-trend-1236177909/)
 * [2025-04-20, 21:00:37](https://news.ycombinator.com/item?id=43746491) - [FurtherAI (YC W24) Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
+* [2025-04-20, 20:54:56](https://news.ycombinator.com/item?id=43746461) - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
+* [2025-04-20, 20:13:19](https://news.ycombinator.com/item?id=43746229) - [Better Error Handling](https://meowbark.dev/Better-error-handling)
 * [2025-04-20, 19:41:29](https://news.ycombinator.com/item?id=43746017) - [Falsify: Hypothesis-Inspired Shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
 * [2025-04-20, 19:17:58](https://news.ycombinator.com/item?id=43745868) - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
 * [2025-04-20, 19:03:45](https://news.ycombinator.com/item?id=43745776) - [Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird](https://420.headset.io)
