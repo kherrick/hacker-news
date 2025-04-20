@@ -40,6 +40,7 @@
 * [2025-04-19, 11:50:51](https://news.ycombinator.com/item?id=43735798) - [FramePack – Enabling Fast Video Generation on Consumer GPUs](https://framepack.co/)
 * [2025-04-19, 11:32:29](https://news.ycombinator.com/item?id=43735724) - [Frankenstein's `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
 * [2025-04-19, 11:24:41](https://news.ycombinator.com/item?id=43735693) - [Neurite](https://github.com/satellitecomponent/Neurite)
+* [2025-04-19, 11:14:17](https://news.ycombinator.com/item?id=43735643) - [Release: OLED Mode extension for Chrome](https://github.com/FreelanceProgrammingServices/Chrome-OLED-Mode)
 * [2025-04-19, 11:00:30](https://news.ycombinator.com/item?id=43735592) - [Demo \"The Mind\" by Haujobb and Sweet16](https://www.lexaloffle.com/bbs/?pid=145596)
 * [2025-04-19, 10:48:30](https://news.ycombinator.com/item?id=43735550) - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices)
 * [2025-04-19, 10:19:49](https://news.ycombinator.com/item?id=43735443) - [Achieveing lower latencies with S3 object storage](https://spiraldb.com/post/so-you-want-to-use-object-storage)
