@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
+* [2025-04-20, 17:00:51](https://news.ycombinator.com/item?id=43744969) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-04-20, 16:04:46](https://news.ycombinator.com/item?id=43744636) - [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886)
 * [2025-04-20, 16:00:29](https://news.ycombinator.com/item?id=43744609) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-20, 15:57:37](https://news.ycombinator.com/item?id=43744591) - [Things Zig Comptime Won't Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 * [2025-04-20, 15:28:06](https://news.ycombinator.com/item?id=43744394) - [The skill of the future is not 'AI', but 'Focus'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 * [2025-04-20, 15:20:17](https://news.ycombinator.com/item?id=43744342) - [Tini: A tiny but valid `init` for containers](https://github.com/krallin/tini)
 * [2025-04-20, 14:55:33](https://news.ycombinator.com/item?id=43744173) - [Jagged AGI: o3, Gemini 2.5, and everything after](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything)
+* [2025-04-20, 14:47:01](https://news.ycombinator.com/item?id=43744116) - [OAuth's Role in MCP Security](https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security)
 * [2025-04-20, 14:35:25](https://news.ycombinator.com/item?id=43744043) - [Meta's Monopoly Made It a Fair-Weather Friend](https://www.wired.com/story/plaintext-ftc-meta-trial-mark-zuckerberg/)
 * [2025-04-20, 14:30:05](https://news.ycombinator.com/item?id=43744006) - [What's happening with Tesla's solar roof?](https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/)
 * [2025-04-20, 14:28:20](https://news.ycombinator.com/item?id=43743993) - [Why on Earth is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
