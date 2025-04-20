@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
+* [2025-04-20, 14:30:05](https://news.ycombinator.com/item?id=43744006) - [What's happening with Tesla's solar roof?](https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/)
+* [2025-04-20, 14:28:20](https://news.ycombinator.com/item?id=43743993) - [Why on Earth is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
 * [2025-04-20, 12:38:44](https://news.ycombinator.com/item?id=43743406) - ['Biological reality': What genetics has taught us about race](https://www.bbc.com/future/article/20250417-biological-reality-what-genetics-has-taught-us-about-race)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
+* [2025-04-20, 10:23:58](https://news.ycombinator.com/item?id=43742859) - [You Commit Three Felonies a Day (2013)](https://kottke.org/13/06/you-commit-three-felonies-a-day)
 * [2025-04-20, 09:45:27](https://news.ycombinator.com/item?id=43742722) - [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)
 * [2025-04-20, 06:49:13](https://news.ycombinator.com/item?id=43741987) - [Meteor Burst Communications](https://ronaldelliott.com/mbc.html)
 * [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let's give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)

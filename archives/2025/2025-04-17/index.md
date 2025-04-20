@@ -33,6 +33,7 @@
 * [2025-04-17, 16:37:04](https://news.ycombinator.com/item?id=43719211) - [Top OpenAI Catastrophic Risk Official Steps Down Abruptly](https://garrisonlovely.substack.com/p/breaking-top-openai-catastrophic)
 * [2025-04-17, 16:19:43](https://news.ycombinator.com/item?id=43718988) - [A cute proof that makes e natural](https://www.poshenloh.com/e/)
 * [2025-04-17, 16:07:21](https://news.ycombinator.com/item?id=43718809) - [Milwaukee M18 Battery Reverse Engineering](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering)
+* [2025-04-17, 15:42:32](https://news.ycombinator.com/item?id=43718493) - [A 1980s toy robot arm inspired modern robotics](https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/)
 * [2025-04-17, 15:29:21](https://news.ycombinator.com/item?id=43718292) - [Cache loop and memory loss in GPT – a user-side fix (tested with GPT itself)](https://github.com/sks38317/gpt-cache-optimization)
 * [2025-04-17, 15:15:39](https://news.ycombinator.com/item?id=43718124) - [Show HN: Zuni (YC S24) – AI Copilot for the Browser](https://zuni.app)
 * [2025-04-17, 14:47:46](https://news.ycombinator.com/item?id=43717705) - [Google Is a Monopolist in Online Advertising Tech, Judge Says](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
