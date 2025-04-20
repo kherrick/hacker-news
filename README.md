@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-20, 17:13:32](https://news.ycombinator.com/item?id=43745040) - [Signal Carnival](https://www.quiss.org/signal_carnival/)
+* [2025-04-20, 17:01:50](https://news.ycombinator.com/item?id=43744980) - [They Were Deactivated from Delivering. Their Finances Were Devastated.](https://www.nytimes.com/2025/03/29/business/uber-lyft-doordash-deactivation.html)
 * [2025-04-20, 17:00:51](https://news.ycombinator.com/item?id=43744969) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-04-20, 16:04:46](https://news.ycombinator.com/item?id=43744636) - [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886)
 * [2025-04-20, 16:00:29](https://news.ycombinator.com/item?id=43744609) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
@@ -29,7 +30,6 @@
 * [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
 * [2025-04-16, 21:13:55](https://news.ycombinator.com/item?id=43710451) - [Healthy soil is the hidden ingredient](https://www.nature.com/articles/d41586-025-01026-x)
 * [2025-04-16, 20:13:16](https://news.ycombinator.com/item?id=43709843) - [Attention Spans for Math and Stories (2019)](https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/)
-* [2025-04-13, 00:55:54](https://news.ycombinator.com/item?id=43669151) - [Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck voices](https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/)
 
 ## [Archives](archives/index.md)
 
