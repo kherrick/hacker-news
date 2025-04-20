@@ -23,13 +23,13 @@
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
 * [2025-04-19, 18:53:32](https://news.ycombinator.com/item?id=43738561) - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
 * [2025-04-19, 12:13:32](https://news.ycombinator.com/item?id=43735896) - [Perplexingly Book-Learned Emacs](https://lars.ingebrigtsen.no/2025/04/17/perplexingly-book-learned-emacs/)
+* [2025-04-19, 05:47:54](https://news.ycombinator.com/item?id=43734485) - [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
 * [2025-04-19, 00:11:24](https://news.ycombinator.com/item?id=43733033) - [Mapping the half-billion connections that allow mice to see](https://engineering.princeton.edu/news/2025/04/09/scientists-map-vision-centers-mammalian-brain)
 * [2025-04-17, 19:46:01](https://news.ycombinator.com/item?id=43721301) - [Recursive LLM prompts](https://github.com/andyk/recursive_llm)
 * [2025-04-17, 15:42:32](https://news.ycombinator.com/item?id=43718493) - [A 1980s toy robot arm inspired modern robotics](https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/)
 * [2025-04-17, 14:20:13](https://news.ycombinator.com/item?id=43717251) - [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
 * [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
 * [2025-04-16, 21:13:55](https://news.ycombinator.com/item?id=43710451) - [Healthy soil is the hidden ingredient](https://www.nature.com/articles/d41586-025-01026-x)
-* [2025-04-16, 20:13:16](https://news.ycombinator.com/item?id=43709843) - [Attention Spans for Math and Stories (2019)](https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/)
 
 ## [Archives](archives/index.md)
 
