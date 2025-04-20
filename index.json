@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-04-19, 23:05:19",
-      "https://news.ycombinator.com/item?id=43740163"
+      "2025-04-20, 02:03:09",
+      "https://news.ycombinator.com/item?id=43741013"
     ],
     [
-      "Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents",
-      "https://arxiv.org/abs/2502.15840"
+      "Novel color via stimulation of individual photoreceptors at population scale",
+      "https://www.science.org/doi/10.1126/sciadv.adu1052"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 01:28:41",
+      "https://news.ycombinator.com/item?id=43740858"
+    ],
+    [
+      "Welcome to the Era of Experience [pdf]",
+      "https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-04-19, 23:01:17",
+      "https://news.ycombinator.com/item?id=43740145"
+    ],
+    [
+      "Can We Trust CVE?",
+      "https://opensourcesecurity.io/2025/04-can-we-trust-cve/"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2025-04-19, 19:10:07",
+      "https://news.ycombinator.com/item?id=43738675"
+    ],
+    [
+      "The Icelandic Voting System (2024)",
+      "https://smarimccarthy.is/posts/2024-11-25-voting-system/"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 18:59:56",
       "https://news.ycombinator.com/item?id=43738603"
     ],
@@ -115,7 +145,7 @@
       "https://news.ycombinator.com/item?id=43738195"
     ],
     [
-      "How to Force Your Kids to Do Math?",
+      "Don't force your kids to do math",
       "https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/"
     ]
   ],
@@ -135,7 +165,7 @@
       "https://news.ycombinator.com/item?id=43737469"
     ],
     [
-      "An Image of the Australian Desert Illuminates Satellite Pollution",
+      "An image of the Australian desert illuminates satellite pollution",
       "https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/"
     ]
   ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2025-04-19, 06:11:37",
-      "https://news.ycombinator.com/item?id=43734583"
-    ],
-    [
-      "Show HN: Goldbach Conjecture up to 4*10^18+7*10^13",
-      "https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 14:36:51",
       "https://news.ycombinator.com/item?id=43717513"
     ],
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2025-04-17, 12:54:31",
-      "https://news.ycombinator.com/item?id=43716106"
-    ],
-    [
-      "Consistent Hash Ring",
-      "https://gallery.selfboot.cn/en/algorithms/hashring"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 03:36:16",
-      "https://news.ycombinator.com/item?id=43712877"
-    ],
-    [
-      "Zack: A Simple Backtesting Engine in Zig",
-      "https://github.com/zerotech-studio/zack"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 01:05:22",
       "https://news.ycombinator.com/item?id=43712024"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-04-16, 22:08:33",
+      "https://news.ycombinator.com/item?id=43710912"
+    ],
+    [
+      "Calypsi: A series of C compiler and assembly language cross compiler tool chains",
+      "https://github.com/hth313/Calypsi-tool-chains"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 20:48:07",
       "https://news.ycombinator.com/item?id=43710220"
     ],
     [
       "Translate Fortran to C++ with AI and RAG",
       "https://www.lanl.gov/media/publications/1663/0125-llm-translation"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 05:36:06",
-      "https://news.ycombinator.com/item?id=43701836"
-    ],
-    [
-      "Raw Loops for Performance?",
-      "https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance"
     ]
   ],
   [
