@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-20, 23:27:47](https://news.ycombinator.com/item?id=43747310) - [Pete Hegseth shared Yemen attack details in second Signal chat](https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack)
 * [2025-04-20, 22:04:22](https://news.ycombinator.com/item?id=43746831) - [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
-* [2025-04-20, 21:07:03](https://news.ycombinator.com/item?id=43746532) - [Demystifying decorators: They don't need to be cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
 * [2025-04-20, 21:00:37](https://news.ycombinator.com/item?id=43746491) - [FurtherAI (YC W24) Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-04-20, 20:54:56](https://news.ycombinator.com/item?id=43746461) - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
 * [2025-04-20, 20:13:19](https://news.ycombinator.com/item?id=43746229) - [Better Error Handling](https://meowbark.dev/Better-error-handling)
