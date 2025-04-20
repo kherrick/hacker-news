@@ -23,11 +23,11 @@
 * [2025-04-19, 11:14:17](https://news.ycombinator.com/item?id=43735643) - [Release: OLED Mode extension for Chrome](https://github.com/FreelanceProgrammingServices/Chrome-OLED-Mode)
 * [2025-04-19, 10:48:30](https://news.ycombinator.com/item?id=43735550) - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 * [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
+* [2025-04-17, 23:29:08](https://news.ycombinator.com/item?id=43723356) - [Olympic Gold Medalist Dominates the 100M at Her Kid's Sports Day Event](https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event)
 * [2025-04-17, 14:36:51](https://news.ycombinator.com/item?id=43717513) - [First baby born in UK to woman with transplanted womb](https://www.bbc.com/news/articles/c78jd517z87o)
 * [2025-04-17, 14:29:32](https://news.ycombinator.com/item?id=43717403) - [Models of Ice Skating for the Development of Robotic Ice Skating Gaits [pdf] (2020)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-162.pdf)
 * [2025-04-17, 13:41:27](https://news.ycombinator.com/item?id=43716704) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
 * [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
-* [2025-04-16, 20:48:07](https://news.ycombinator.com/item?id=43710220) - [Translate Fortran to C++ with AI and RAG](https://www.lanl.gov/media/publications/1663/0125-llm-translation)
 * [2025-04-16, 18:31:44](https://news.ycombinator.com/item?id=43708789) - [Eccfrog512ck2: An Enhanced 512-Bit Weierstrass Elliptic Curve [pdf]](https://arxiv.org/abs/2504.09584)
 * [2025-04-13, 00:55:54](https://news.ycombinator.com/item?id=43669151) - [Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck voices](https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/)
 
