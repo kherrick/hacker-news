@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-20, 09:45:27](https://news.ycombinator.com/item?id=43742722) - [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)
-* [2025-04-20, 06:49:13](https://news.ycombinator.com/item?id=43741987) - [Meteor Burst Communications](https://ronaldelliott.com/mbc.html)
 * [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let's give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 05:09:05](https://news.ycombinator.com/item?id=43741655) - [The AI skeptic's guide to AI collaboration](https://hils.substack.com/p/the-ai-skeptics-guide-to-ai-collaboration)
 * [2025-04-20, 03:16:42](https://news.ycombinator.com/item?id=43741273) - [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
@@ -28,6 +27,7 @@
 * [2025-04-17, 14:29:32](https://news.ycombinator.com/item?id=43717403) - [Models of Ice Skating for the Development of Robotic Ice Skating Gaits [pdf] (2020)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-162.pdf)
 * [2025-04-17, 13:41:27](https://news.ycombinator.com/item?id=43716704) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
 * [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
+* [2025-04-16, 20:13:16](https://news.ycombinator.com/item?id=43709843) - [Attention Spans for Math and Stories (2019)](https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/)
 * [2025-04-16, 18:31:44](https://news.ycombinator.com/item?id=43708789) - [Eccfrog512ck2: An Enhanced 512-Bit Weierstrass Elliptic Curve [pdf]](https://arxiv.org/abs/2504.09584)
 * [2025-04-13, 00:55:54](https://news.ycombinator.com/item?id=43669151) - [Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck voices](https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/)
 
