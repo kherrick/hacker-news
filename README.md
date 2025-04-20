@@ -6,7 +6,7 @@
 * [2025-04-20, 01:58:17](https://news.ycombinator.com/item?id=43740992) - [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
 * [2025-04-20, 01:28:41](https://news.ycombinator.com/item?id=43740858) - [Welcome to the Era of Experience [pdf]](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
 * [2025-04-19, 22:35:30](https://news.ycombinator.com/item?id=43740021) - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
-* [2025-04-19, 21:17:18](https://news.ycombinator.com/item?id=43739547) - [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
+* [2025-04-19, 21:17:18](https://news.ycombinator.com/item?id=43739547) - [Computational Complexity of Air Travel Planning [pdf] (2003)](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
 * [2025-04-19, 21:14:33](https://news.ycombinator.com/item?id=43739529) - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
 * [2025-04-19, 21:12:07](https://news.ycombinator.com/item?id=43739510) - [Monsky's Theorem](https://mathmondays.com/monskys-theorem)
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
