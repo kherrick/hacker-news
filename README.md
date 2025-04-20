@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-20, 09:45:27](https://news.ycombinator.com/item?id=43742722) - [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)
+* [2025-04-20, 12:38:44](https://news.ycombinator.com/item?id=43743406) - ['Biological reality': What genetics has taught us about race](https://www.bbc.com/future/article/20250417-biological-reality-what-genetics-has-taught-us-about-race)
 * [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let's give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 03:16:42](https://news.ycombinator.com/item?id=43741273) - [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 * [2025-04-20, 02:14:40](https://news.ycombinator.com/item?id=43741051) - [Pretty State Machine Patterns in Rust (2016)](https://hoverbear.org/blog/rust-state-machine-pattern/)
