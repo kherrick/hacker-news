@@ -39,6 +39,7 @@
 * [2025-04-17, 14:28:07](https://news.ycombinator.com/item?id=43717377) - [Stainless steel strengthened: Twisting creates submicron 'anti-crash wall'](https://techxplore.com/news/2025-04-stainless-steel-technique-submicron-anti.html)
 * [2025-04-17, 13:57:09](https://news.ycombinator.com/item?id=43716939) - ['College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
 * [2025-04-17, 13:51:49](https://news.ycombinator.com/item?id=43716856) - [OpenAI looked at buying Cursor creator before turning to Windsurf](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html)
+* [2025-04-17, 13:41:27](https://news.ycombinator.com/item?id=43716704) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
 * [2025-04-17, 13:39:28](https://news.ycombinator.com/item?id=43716665) - [TikTok Is Harming Children at an Industrial Scale](https://www.afterbabel.com/p/industrial-scale-harm-tiktok)
 * [2025-04-17, 13:35:58](https://news.ycombinator.com/item?id=43716616) - [Show HN: LTE-connected IoT module with remote programming and NL data analysis](https://www.youtube.com/watch?v=3L_OU-fMW_w)
 * [2025-04-17, 13:29:44](https://news.ycombinator.com/item?id=43716526) - [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
