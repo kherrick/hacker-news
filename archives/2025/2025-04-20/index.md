@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
+* [2025-04-20, 17:54:59](https://news.ycombinator.com/item?id=43745296) - [99% Effective: First Hormone-Free Male Birth Control Pill Enters Human Trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/)
+* [2025-04-20, 17:48:40](https://news.ycombinator.com/item?id=43745261) - [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
+* [2025-04-20, 17:29:28](https://news.ycombinator.com/item?id=43745141) - [The Movie Mistake Mystery from \"Revenge of the Sith\"](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
 * [2025-04-20, 17:13:32](https://news.ycombinator.com/item?id=43745040) - [Signal Carnival](https://www.quiss.org/signal_carnival/)
 * [2025-04-20, 17:01:50](https://news.ycombinator.com/item?id=43744980) - [They Were Deactivated from Delivering. Their Finances Were Devastated.](https://www.nytimes.com/2025/03/29/business/uber-lyft-doordash-deactivation.html)
 * [2025-04-20, 17:00:51](https://news.ycombinator.com/item?id=43744969) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
