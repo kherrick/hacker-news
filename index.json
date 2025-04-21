@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-21, 04:31:35",
+      "https://news.ycombinator.com/item?id=43748512"
+    ],
+    [
+      "Python's new t-strings",
+      "https://davepeck.org/2025/04/11/pythons-new-t-strings/"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 04:24:15",
       "https://news.ycombinator.com/item?id=43748486"
     ],
@@ -177,16 +187,6 @@
     [
       "Things Zig comptime won't do",
       "https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 15:20:35",
-      "https://news.ycombinator.com/item?id=43744343"
-    ],
-    [
-      "Pushing the Limits of LLM Quantization via the Linearity Theorem",
-      "https://arxiv.org/abs/2411.17525"
     ]
   ],
   [
