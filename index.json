@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-21, 09:09:09",
-      "https://news.ycombinator.com/item?id=43749814"
-    ],
-    [
-      "Two young German travelers with ESTA travel authorization jailed and deported",
-      "https://beatofhawaii.com/why-these-hawaii-travelers-were-jailed-and-deported/"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 08:00:14",
       "https://news.ycombinator.com/item?id=43749405"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=43748133"
     ],
     [
-      "I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]",
+      "I thought I bought a camera, but no DJI sold me a license to use it [video]",
       "https://www.youtube.com/watch?v=aUOnQ_boqCw"
     ]
   ],
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2025-04-20, 20:13:19",
-      "https://news.ycombinator.com/item?id=43746229"
-    ],
-    [
-      "Better Error Handling",
-      "https://meowbark.dev/Better-error-handling"
-    ]
-  ],
-  [
-    [
       "2025-04-20, 19:41:29",
       "https://news.ycombinator.com/item?id=43746017"
     ],
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2025-04-20, 17:29:28",
+      "https://news.ycombinator.com/item?id=43745141"
+    ],
+    [
+      "The movie mistake mystery from \"Revenge of the Sith\"",
+      "https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html"
+    ]
+  ],
+  [
+    [
       "2025-04-20, 17:13:32",
       "https://news.ycombinator.com/item?id=43745040"
     ],
@@ -187,6 +177,16 @@
     [
       "Things Zig comptime won't do",
       "https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 15:20:35",
+      "https://news.ycombinator.com/item?id=43744343"
+    ],
+    [
+      "Pushing the Limits of LLM Quantization via the Linearity Theorem",
+      "https://arxiv.org/abs/2411.17525"
     ]
   ],
   [
