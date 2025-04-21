@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-21, 22:07:49",
+      "https://news.ycombinator.com/item?id=43757037"
+    ],
+    [
+      "Evertop: E-ink IBM XT clone with 100+ hours of battery life",
+      "https://github.com/ericjenott/Evertop"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 22:06:14",
+      "https://news.ycombinator.com/item?id=43757017"
+    ],
+    [
+      "The Future of Compute: Nvidia's Crown Is Slipping",
+      "https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 21:52:29",
       "https://news.ycombinator.com/item?id=43756926"
     ],
@@ -37,16 +57,6 @@
     [
       "Visiting – Epic",
       "https://www.epic.com/visiting/"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 19:52:25",
-      "https://news.ycombinator.com/item?id=43755753"
-    ],
-    [
-      "Thieves took their iPhones. Apple won't give their digital lives back",
-      "https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/"
     ]
   ],
   [
@@ -171,12 +181,32 @@
   ],
   [
     [
+      "2025-04-21, 16:16:51",
+      "https://news.ycombinator.com/item?id=43753651"
+    ],
+    [
+      "A new form of verification on Bluesky",
+      "https://bsky.social/about/blog/04-21-2025-verification"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 14:39:48",
       "https://news.ycombinator.com/item?id=43752532"
     ],
     [
       "Out of the Fog",
       "https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 14:36:14",
+      "https://news.ycombinator.com/item?id=43752492"
+    ],
+    [
+      "LLM-powered tools amplify developer capabilities rather than replacing them",
+      "https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2025-04-21, 07:34:07",
-      "https://news.ycombinator.com/item?id=43749271"
-    ],
-    [
-      "Reworking 30 lines of Linux code could cut power use by up to 30 percent",
-      "https://spectrum.ieee.org/data-center-energy-consumption"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 04:31:35",
       "https://news.ycombinator.com/item?id=43748512"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-04-19, 12:20:33",
-      "https://news.ycombinator.com/item?id=43735933"
-    ],
-    [
-      "Lichens can survive almost anything, and some might survive Mars",
-      "https://arstechnica.com/science/2025/04/lichens-can-survive-almost-anything-and-some-might-survive-mars/"
-    ]
-  ],
-  [
-    [
       "2025-04-18, 19:53:32",
       "https://news.ycombinator.com/item?id=43731334"
     ],
     [
       "Optimizing Heap Allocations in Go: A Case Study",
       "https://www.dolthub.com/blog/2025-04-18-optimizing-heap-allocations/"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 11:39:56",
-      "https://news.ycombinator.com/item?id=43727118"
-    ],
-    [
-      "Ask HN: Writing an Interpreter in Go or Crafting Interpreters?",
-      "https://news.ycombinator.com/item?id=43727118"
     ]
   ]
 ]
