@@ -32,6 +32,7 @@
 * [2025-04-18, 15:35:30](https://news.ycombinator.com/item?id=43729063) - [SDFs from Unoriented Point Clouds Using Neural Variational Heat Distances](https://arxiv.org/abs/2504.11212)
 * [2025-04-18, 15:06:29](https://news.ycombinator.com/item?id=43728764) - [As San Francisco car break-ins plunge, these businesses are suffering](https://www.sfchronicle.com/sf/article/bipping-car-break-in-glass-repair-20275993.php)
 * [2025-04-18, 15:03:39](https://news.ycombinator.com/item?id=43728733) - [Why Crypto Developer Activity Is Declining](https://stovetop.substack.com/p/why-crypto-developer-activity-is)
+* [2025-04-18, 14:45:33](https://news.ycombinator.com/item?id=43728566) - [Meta MCP: Chaining Tools via Prompt-Driven Arguments](https://cefboud.com/posts/XMCP-multiplexing-mcp/)
 * [2025-04-18, 14:11:40](https://news.ycombinator.com/item?id=43728279) - [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 * [2025-04-18, 13:55:50](https://news.ycombinator.com/item?id=43728130) - [A Math Lesson From Hitler’s Germany](https://undark.org/2017/02/01/math-lesson-hitlers-germany/)
 * [2025-04-18, 13:45:56](https://news.ycombinator.com/item?id=43728056) - [Haskelling My Python](https://unnamed.website/posts/haskelling-my-python/)
