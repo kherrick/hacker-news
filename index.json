@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-21, 14:49:23",
-      "https://news.ycombinator.com/item?id=43752627"
+      "2025-04-21, 15:57:14",
+      "https://news.ycombinator.com/item?id=43753407"
     ],
     [
-      "Inner Loop Agents",
-      "https://timkellogg.me/blog/2025/04/19/inner-loops"
+      "WikiTree: The Free Family Tree",
+      "https://www.wikitree.com/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Why LLM-Powered Programming Is More Mech Suit Than Artificial Human",
       "https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 14:34:24",
-      "https://news.ycombinator.com/item?id=43752472"
-    ],
-    [
-      "PlanetMath",
-      "https://planetmath.org/"
     ]
   ],
   [
@@ -71,22 +61,22 @@
   ],
   [
     [
-      "2025-04-21, 13:30:09",
-      "https://news.ycombinator.com/item?id=43751820"
-    ],
-    [
-      "2,031-HP Hennessey Venom F5 Evolution Claims 0 to 200 MPH in 10 Seconds",
-      "https://www.thedrive.com/news/2031-hp-hennessey-venom-f5-evolution-claims-0-to-200-mph-in-10-seconds"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 12:16:16",
       "https://news.ycombinator.com/item?id=43751076"
     ],
     [
       "Pipelining might be my favorite programming language feature",
       "https://herecomesthemoon.net/2025/04/pipelining/"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 12:05:03",
+      "https://news.ycombinator.com/item?id=43750969"
+    ],
+    [
+      "Experimenting is above all a process",
+      "https://www.205.tf/articles/experimenting-is-above-all-a-process"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2025-04-21, 00:21:27",
-      "https://news.ycombinator.com/item?id=43747560"
-    ],
-    [
-      "Show HN: Keep your PyTorch model in VRAM by hot swapping code",
-      "https://github.com/valine/training-hot-swap/"
-    ]
-  ],
-  [
-    [
       "2025-04-20, 22:04:22",
       "https://news.ycombinator.com/item?id=43746831"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-04-19, 18:42:46",
+      "https://news.ycombinator.com/item?id=43738478"
+    ],
+    [
+      "Inside ArXiv",
+      "https://www.wired.com/story/inside-arxiv-most-transformative-code-science/"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 07:16:10",
       "https://news.ycombinator.com/item?id=43734794"
     ],
@@ -267,6 +257,16 @@
     [
       "Ref Butts and Slam Dunks: What It's Like Photographing an NBA Game",
       "https://petapixel.com/2025/04/09/ref-butts-and-slam-dunks-what-its-like-photographing-an-nba-game/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 14:45:33",
+      "https://news.ycombinator.com/item?id=43728566"
+    ],
+    [
+      "Meta MCP: Chaining Tools via Prompt-Driven Arguments",
+      "https://cefboud.com/posts/XMCP-multiplexing-mcp/"
     ]
   ],
   [
