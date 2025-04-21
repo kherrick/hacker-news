@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2025-04-21, 19:25:19",
+      "https://news.ycombinator.com/item?id=43755506"
+    ],
+    [
+      "Is 1 Prime, and Does It Matter?",
+      "https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 19:05:23",
       "https://news.ycombinator.com/item?id=43755321"
     ],
     [
-      "An Update to Our Pricing",
+      "An update to our pricing",
       "https://windsurf.com/blog/pricing-v2"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43754274"
     ],
     [
-      "FTC Takes Action Against Uber for Deceptive Billing and Cancellation Practices",
+      "FTC takes action against Uber for deceptive billing and cancellation practices",
       "https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices"
     ]
   ],
@@ -121,21 +131,11 @@
   ],
   [
     [
-      "2025-04-21, 16:26:22",
-      "https://news.ycombinator.com/item?id=43753738"
-    ],
-    [
-      "The campaign to subvert Africa's internet registry",
-      "https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 16:16:51",
       "https://news.ycombinator.com/item?id=43753651"
     ],
     [
-      "A New Form of Verification on Bluesky",
+      "A new form of verification on Bluesky",
       "https://bsky.social/about/blog/04-21-2025-verification"
     ]
   ],
@@ -157,6 +157,16 @@
     [
       "LLM-powered tools amplify developer capabilities rather than replacing them",
       "https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 14:15:17",
+      "https://news.ycombinator.com/item?id=43752262"
+    ],
+    [
+      "AI assisted search-based research works now",
+      "https://simonwillison.net/2025/Apr/21/ai-assisted-search/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Pipelining might be my favorite programming language feature",
       "https://herecomesthemoon.net/2025/04/pipelining/"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 11:38:10",
-      "https://news.ycombinator.com/item?id=43750765"
-    ],
-    [
-      "Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram",
-      "https://github.com/dimonomid/nerdlog"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-04-19, 06:56:59",
-      "https://news.ycombinator.com/item?id=43734732"
-    ],
-    [
-      "Taking Notes with Joplin",
-      "https://lwn.net/Articles/1016400/"
-    ]
-  ],
-  [
-    [
       "2025-04-18, 19:53:32",
       "https://news.ycombinator.com/item?id=43731334"
     ],
     [
       "Optimizing Heap Allocations in Go: A Case Study",
       "https://www.dolthub.com/blog/2025-04-18-optimizing-heap-allocations/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 17:14:54",
+      "https://news.ycombinator.com/item?id=43729982"
+    ],
+    [
+      "No Robot Like Robot (2018)",
+      "https://slate.com/technology/2018/12/machine-learning-ai-annalee-newitz-when-robot-and-crow-saved-east-st-louis.html"
     ]
   ],
   [
