@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
 * [2025-04-21, 14:10:11](https://news.ycombinator.com/item?id=43752206) - [The Tontine Coffee-House (2018)](https://tontinecoffeehouse.com/2018/10/15/the-tontine-coffee-house/)
+* [2025-04-21, 14:07:03](https://news.ycombinator.com/item?id=43752176) - [Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams](https://news.ycombinator.com/item?id=43752176)
 * [2025-04-21, 13:42:31](https://news.ycombinator.com/item?id=43751933) - [Show HN: Brainstorm.gg – Get ideas out of your head fast](http://brainstorm.gg)
+* [2025-04-21, 13:30:09](https://news.ycombinator.com/item?id=43751820) - [2,031-HP Hennessey Venom F5 Evolution Claims 0 to 200 MPH in 10 Seconds](https://www.thedrive.com/news/2031-hp-hennessey-venom-f5-evolution-claims-0-to-200-mph-in-10-seconds)
 * [2025-04-21, 12:16:16](https://news.ycombinator.com/item?id=43751076) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 * [2025-04-21, 11:58:52](https://news.ycombinator.com/item?id=43750918) - [Cyberpunk 2077 on Switch 2 uses DLSS, making it the first Switch 2 game](https://www.videogameschronicle.com/news/cyberpunk-2077-on-switch-2-uses-dlss-making-it-the-first-switch-2-game-confirmed-to-use-it/)
 * [2025-04-21, 11:38:10](https://news.ycombinator.com/item?id=43750765) - [Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram](https://github.com/dimonomid/nerdlog)
