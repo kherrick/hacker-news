@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-04-21, 14:15:17",
-      "https://news.ycombinator.com/item?id=43752262"
-    ],
-    [
-      "AI assisted search-based research works now",
-      "https://simonwillison.net/2025/Apr/21/ai-assisted-search/"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 14:10:11",
       "https://news.ycombinator.com/item?id=43752206"
     ],
@@ -177,6 +167,16 @@
     [
       "Reverse engineering the obfuscated TikTok VM",
       "https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 00:21:27",
+      "https://news.ycombinator.com/item?id=43747560"
+    ],
+    [
+      "Show HN: Keep your PyTorch model in VRAM by hot swapping code",
+      "https://github.com/valine/training-hot-swap/"
     ]
   ],
   [
