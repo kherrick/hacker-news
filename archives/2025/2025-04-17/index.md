@@ -6,6 +6,7 @@
 
 * [2025-04-17, 23:36:57](https://news.ycombinator.com/item?id=43723408) - [A new ChatGPT version just dropped and GeoGuesser is now a solved problem](https://flausch.social/@piegames/114352447253793517)
 * [2025-04-17, 23:29:08](https://news.ycombinator.com/item?id=43723356) - [Olympic Gold Medalist Dominates the 100M at Her Kid's Sports Day Event](https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event)
+* [2025-04-17, 23:27:59](https://news.ycombinator.com/item?id=43723345) - [The Pour-igin of Species](https://pudding.cool/2025/04/wine-animals/)
 * [2025-04-17, 23:04:31](https://news.ycombinator.com/item?id=43723160) - [Trump's FCC chair threatens Comcast, demands changes to NBC news coverage](https://arstechnica.com/tech-policy/2025/04/trumps-fcc-chair-threatens-comcast-demands-changes-to-nbc-news-coverage/)
 * [2025-04-17, 23:01:48](https://news.ycombinator.com/item?id=43723135) - [AI is turning us into glue](https://lincoln.swaine-moore.is/writing-about/ai-and-glue)
 * [2025-04-17, 22:55:55](https://news.ycombinator.com/item?id=43723088) - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
