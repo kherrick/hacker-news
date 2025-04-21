@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-04-21, 19:03:05",
-      "https://news.ycombinator.com/item?id=43755298"
-    ],
-    [
-      "Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]",
-      "https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 18:46:31",
       "https://news.ycombinator.com/item?id=43755128"
     ],
@@ -47,6 +37,16 @@
     [
       "Blog is hosted on a Nintendo Wii",
       "https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 17:57:03",
+      "https://news.ycombinator.com/item?id=43754620"
+    ],
+    [
+      "Show HN: Open Codex – OpenAI Codex CLI with Open Source LLMs",
+      "https://github.com/codingmoh/open-codex"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Local LLM inference – impressive but too hard to work with",
       "https://medium.com/@aazo11/local-llm-inference-897a06cc17a2"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 16:36:57",
-      "https://news.ycombinator.com/item?id=43753829"
-    ],
-    [
-      "Show HN: Light like the Terminal – Meet GTK LLM Chat Front End",
-      "https://github.com/icarito/gtk-llm-chat/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Taking Notes with Joplin",
       "https://lwn.net/Articles/1016400/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 19:53:32",
+      "https://news.ycombinator.com/item?id=43731334"
+    ],
+    [
+      "Optimizing Heap Allocations in Go: A Case Study",
+      "https://www.dolthub.com/blog/2025-04-18-optimizing-heap-allocations/"
     ]
   ],
   [
