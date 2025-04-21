@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-21, 17:36:16",
-      "https://news.ycombinator.com/item?id=43754417"
-    ],
-    [
-      "The White House has begun process of looking for new secretary of defense",
-      "https://www.npr.org/2025/04/21/nx-s1-5371312/trump-white-house-pete-hegseth-defense-department"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 17:22:55",
       "https://news.ycombinator.com/item?id=43754274"
     ],
@@ -47,6 +37,16 @@
     [
       "Adding keyword parameters to Tcl procs",
       "https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 16:36:57",
+      "https://news.ycombinator.com/item?id=43753829"
+    ],
+    [
+      "Show HN: Light like the Terminal – Meet GTK LLM Chat Front End",
+      "https://github.com/icarito/gtk-llm-chat/"
     ]
   ],
   [
