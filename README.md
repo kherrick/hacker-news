@@ -2,7 +2,6 @@
 
 * [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
 * [2025-04-21, 10:35:34](https://news.ycombinator.com/item?id=43750314) - [Regex Isn't Hard (2023)](https://timkellogg.me/blog/2023/07/11/regex)
-* [2025-04-21, 10:25:21](https://news.ycombinator.com/item?id=43750256) - [Pope Francis Dead at 88](https://www.politico.eu/article/pope-francis-catholic-church-death-health-issues-vatican-pontiff/)
 * [2025-04-21, 10:19:22](https://news.ycombinator.com/item?id=43750235) - [Android 16 lets the Linux Terminal use your phone's entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)
 * [2025-04-21, 10:02:18](https://news.ycombinator.com/item?id=43750144) - [Official abuse of state security has always been bad, now it's horrifying](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a)
 * [2025-04-21, 08:00:14](https://news.ycombinator.com/item?id=43749405) - [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
@@ -21,6 +20,7 @@
 * [2025-04-20, 16:00:29](https://news.ycombinator.com/item?id=43744609) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-20, 15:57:37](https://news.ycombinator.com/item?id=43744591) - [Things Zig comptime won't do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 * [2025-04-20, 14:55:33](https://news.ycombinator.com/item?id=43744173) - [Jagged AGI: o3, Gemini 2.5, and everything after](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything)
+* [2025-04-20, 13:56:06](https://news.ycombinator.com/item?id=43743784) - [The Joy of Linux Theming in the Age of Bootable Containers](https://blues.win/posts/joy-of-linux-theming/)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
 * [2025-04-19, 18:42:46](https://news.ycombinator.com/item?id=43738478) - [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
