@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-21, 05:03:27](https://news.ycombinator.com/item?id=43748629) - [New ChatGPT Models Seem to Leave Watermarks on Text](https://www.rumidocs.com/newsroom/new-chatgpt-models-seem-to-leave-watermarks-on-text)
 * [2025-04-21, 04:31:35](https://news.ycombinator.com/item?id=43748512) - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 * [2025-04-21, 04:24:15](https://news.ycombinator.com/item?id=43748486) - [The Effect of Deactivating Facebook and Instagram on Users' Emotional State](https://www.nber.org/papers/w33697)
 * [2025-04-21, 02:47:55](https://news.ycombinator.com/item?id=43748133) - [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
@@ -9,7 +10,6 @@
 * [2025-04-20, 22:04:22](https://news.ycombinator.com/item?id=43746831) - [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
 * [2025-04-20, 21:00:37](https://news.ycombinator.com/item?id=43746491) - [FurtherAI (YC W24) Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-04-20, 20:54:56](https://news.ycombinator.com/item?id=43746461) - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
-* [2025-04-20, 20:13:19](https://news.ycombinator.com/item?id=43746229) - [Better Error Handling](https://meowbark.dev/Better-error-handling)
 * [2025-04-20, 19:41:29](https://news.ycombinator.com/item?id=43746017) - [Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)](https://www.well-typed.com/blog/2023/04/falsify/)
 * [2025-04-20, 19:17:58](https://news.ycombinator.com/item?id=43745868) - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
 * [2025-04-20, 17:52:50](https://news.ycombinator.com/item?id=43745281) - [How encryption for Cinema Movies works](https://serverless.industries/2024/05/31/digital-cinema.en.html)
