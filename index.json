@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-21, 01:07:32",
+      "https://news.ycombinator.com/item?id=43747733"
+    ],
+    [
+      "Show HN: \"Is This Tech Dead?\" A snarky autopsy engine for your dead frameworks",
+      "https://www.isthistechdead.com"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 00:21:27",
+      "https://news.ycombinator.com/item?id=43747560"
+    ],
+    [
+      "Show HN: Keep your PyTorch model in VRAM by hot swapping code",
+      "https://github.com/valine/training-hot-swap/"
+    ]
+  ],
+  [
+    [
       "2025-04-20, 22:04:22",
       "https://news.ycombinator.com/item?id=43746831"
     ],
@@ -221,22 +241,12 @@
   ],
   [
     [
-      "2025-04-19, 12:13:32",
-      "https://news.ycombinator.com/item?id=43735896"
+      "2025-04-18, 07:21:51",
+      "https://news.ycombinator.com/item?id=43725800"
     ],
     [
-      "Perplexingly Book-Learned Emacs",
-      "https://lars.ingebrigtsen.no/2025/04/17/perplexingly-book-learned-emacs/"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 05:47:54",
-      "https://news.ycombinator.com/item?id=43734485"
-    ],
-    [
-      "Efficient E-Matching for Super Optimizers",
-      "https://blog.vortan.dev/ematching/"
+      "Sonic Heritage - the sounds of the world's most famous sights",
+      "https://citiesandmemory.com/heritage/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "The appeal of serving your web pages with a single process",
       "https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 19:46:01",
-      "https://news.ycombinator.com/item?id=43721301"
-    ],
-    [
-      "Recursive LLM prompts",
-      "https://github.com/andyk/recursive_llm"
     ]
   ],
   [
