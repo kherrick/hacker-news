@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-21, 21:00:53](https://news.ycombinator.com/item?id=43756417) - [Cekura (Formerly Vocera) (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer)
+* [2025-04-21, 20:49:20](https://news.ycombinator.com/item?id=43756309) - [Visiting – Epic](https://www.epic.com/visiting/)
 * [2025-04-21, 19:52:25](https://news.ycombinator.com/item?id=43755753) - [Thieves took their iPhones. Apple won't give their digital lives back](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/)
 * [2025-04-21, 19:44:58](https://news.ycombinator.com/item?id=43755682) - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
 * [2025-04-21, 19:25:19](https://news.ycombinator.com/item?id=43755506) - [Is 1 Prime, and Does It Matter?](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/)
@@ -10,7 +12,6 @@
 * [2025-04-21, 17:57:03](https://news.ycombinator.com/item?id=43754620) - [Show HN: Open Codex – OpenAI Codex CLI with open-source LLMs](https://github.com/codingmoh/open-codex)
 * [2025-04-21, 17:22:55](https://news.ycombinator.com/item?id=43754274) - [FTC takes action against Uber for deceptive billing and cancellation practices](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices)
 * [2025-04-21, 17:07:07](https://news.ycombinator.com/item?id=43754124) - [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
-* [2025-04-21, 17:01:17](https://news.ycombinator.com/item?id=43754057) - [Spark AI (YC W24) is hiring a full-stack engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-04-21, 16:55:36](https://news.ycombinator.com/item?id=43754004) - [Adding keyword parameters to Tcl procs](https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html)
 * [2025-04-21, 16:42:52](https://news.ycombinator.com/item?id=43753890) - [Local LLM inference – impressive but too hard to work with](https://medium.com/@aazo11/local-llm-inference-897a06cc17a2)
 * [2025-04-21, 16:36:57](https://news.ycombinator.com/item?id=43753829) - [Show HN: Light like the Terminal – Meet GTK LLM Chat Front End](https://github.com/icarito/gtk-llm-chat/)
@@ -29,7 +30,6 @@
 * [2025-04-19, 13:12:26](https://news.ycombinator.com/item?id=43736172) - [Dumb statistical models, always making people look bad](https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/)
 * [2025-04-19, 12:20:33](https://news.ycombinator.com/item?id=43735933) - [Lichens can survive almost anything, and some might survive Mars](https://arstechnica.com/science/2025/04/lichens-can-survive-almost-anything-and-some-might-survive-mars/)
 * [2025-04-18, 19:53:32](https://news.ycombinator.com/item?id=43731334) - [Optimizing Heap Allocations in Go: A Case Study](https://www.dolthub.com/blog/2025-04-18-optimizing-heap-allocations/)
-* [2025-04-18, 17:14:54](https://news.ycombinator.com/item?id=43729982) - [No Robot Like Robot (2018)](https://slate.com/technology/2018/12/machine-learning-ai-annalee-newitz-when-robot-and-crow-saved-east-st-louis.html)
 
 ## [Archives](archives/index.md)
 

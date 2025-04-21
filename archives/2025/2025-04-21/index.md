@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 21:00:53](https://news.ycombinator.com/item?id=43756417) - [Cekura (Formerly Vocera) (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer)
+* [2025-04-21, 20:49:20](https://news.ycombinator.com/item?id=43756309) - [Visiting – Epic](https://www.epic.com/visiting/)
 * [2025-04-21, 19:52:25](https://news.ycombinator.com/item?id=43755753) - [Thieves took their iPhones. Apple won't give their digital lives back](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/)
 * [2025-04-21, 19:44:58](https://news.ycombinator.com/item?id=43755682) - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
 * [2025-04-21, 19:25:19](https://news.ycombinator.com/item?id=43755506) - [Is 1 Prime, and Does It Matter?](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/)
