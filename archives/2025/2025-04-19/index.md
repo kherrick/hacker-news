@@ -57,6 +57,7 @@
 * [2025-04-19, 06:11:37](https://news.ycombinator.com/item?id=43734583) - [Show HN: New world record – verified Goldbach Conjecture up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
 * [2025-04-19, 05:47:54](https://news.ycombinator.com/item?id=43734485) - [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
 * [2025-04-19, 05:24:37](https://news.ycombinator.com/item?id=43734407) - [Syncing Keyhive](https://www.inkandswitch.com/keyhive/notebook/05/)
+* [2025-04-19, 05:05:45](https://news.ycombinator.com/item?id=43734342) - [How to Run Python in Production](https://ashishb.net/programming/python-in-production-2/)
 * [2025-04-19, 04:23:59](https://news.ycombinator.com/item?id=43734195) - [Serverless Is a Scam](https://sliplane.io/blog/serverless-is-a-scam)
 * [2025-04-19, 02:10:52](https://news.ycombinator.com/item?id=43733636) - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
 * [2025-04-19, 01:52:55](https://news.ycombinator.com/item?id=43733553) - [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
