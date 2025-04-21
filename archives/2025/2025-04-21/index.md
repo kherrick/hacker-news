@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 12:16:16](https://news.ycombinator.com/item?id=43751076) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
+* [2025-04-21, 11:58:52](https://news.ycombinator.com/item?id=43750918) - [Cyberpunk 2077 on Switch 2 uses DLSS, making it the first Switch 2 game](https://www.videogameschronicle.com/news/cyberpunk-2077-on-switch-2-uses-dlss-making-it-the-first-switch-2-game-confirmed-to-use-it/)
 * [2025-04-21, 11:17:06](https://news.ycombinator.com/item?id=43750617) - [Fossil fuels fall below 50% of US electricity for the first month on record](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/)
 * [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
 * [2025-04-21, 10:35:34](https://news.ycombinator.com/item?id=43750314) - [Regex Isn't Hard (2023)](https://timkellogg.me/blog/2023/07/11/regex)
 * [2025-04-21, 10:25:21](https://news.ycombinator.com/item?id=43750256) - [Pope Francis Dead at 88](https://www.politico.eu/article/pope-francis-catholic-church-death-health-issues-vatican-pontiff/)
 * [2025-04-21, 10:19:22](https://news.ycombinator.com/item?id=43750235) - [Android 16 lets the Linux Terminal use your phone's entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)
+* [2025-04-21, 10:05:05](https://news.ycombinator.com/item?id=43750165) - [Are ChatGPT and co harming human intelligence?](https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence)
 * [2025-04-21, 10:02:18](https://news.ycombinator.com/item?id=43750144) - [Official abuse of state security has always been bad, now it's horrifying](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a)
 * [2025-04-21, 10:02:10](https://news.ycombinator.com/item?id=43750143) - [How Tesla Is Replacing the Age-Old Can Bus](https://www.notateslaapp.com/news/2645/how-tesla-is-replacing-the-age-old-can-bus)
 * [2025-04-21, 09:09:09](https://news.ycombinator.com/item?id=43749814) - [Two young German travelers with ESTA travel authorization jailed and deported](https://beatofhawaii.com/why-these-hawaii-travelers-were-jailed-and-deported/)
