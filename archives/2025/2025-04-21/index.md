@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 14:39:48](https://news.ycombinator.com/item?id=43752532) - [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
 * [2025-04-21, 14:10:11](https://news.ycombinator.com/item?id=43752206) - [The Tontine Coffee-House (2018)](https://tontinecoffeehouse.com/2018/10/15/the-tontine-coffee-house/)
 * [2025-04-21, 14:07:03](https://news.ycombinator.com/item?id=43752176) - [Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams](https://news.ycombinator.com/item?id=43752176)
 * [2025-04-21, 13:42:31](https://news.ycombinator.com/item?id=43751933) - [Show HN: Brainstorm.gg – Get ideas out of your head fast](http://brainstorm.gg)
