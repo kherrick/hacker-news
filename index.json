@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-04-19, 18:53:32",
-      "https://news.ycombinator.com/item?id=43738561"
-    ],
-    [
-      "Raspberry Pi Lidar Scanner",
-      "https://github.com/PiLiDAR/PiLiDAR"
-    ]
-  ],
-  [
-    [
       "2025-04-19, 12:13:32",
       "https://news.ycombinator.com/item?id=43735896"
     ],
@@ -247,6 +237,16 @@
     [
       "Efficient E-Matching for Super Optimizers",
       "https://blog.vortan.dev/ematching/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 06:19:06",
+      "https://news.ycombinator.com/item?id=43725516"
+    ],
+    [
+      "The appeal of serving your web pages with a single process",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal"
     ]
   ],
   [
