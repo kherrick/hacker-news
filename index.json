@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2025-04-21, 11:58:52",
-      "https://news.ycombinator.com/item?id=43750918"
-    ],
-    [
-      "Cyberpunk 2077 on Switch 2 uses DLSS, making it the first Switch 2 game",
-      "https://www.videogameschronicle.com/news/cyberpunk-2077-on-switch-2-uses-dlss-making-it-the-first-switch-2-game-confirmed-to-use-it/"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 11:17:06",
-      "https://news.ycombinator.com/item?id=43750617"
-    ],
-    [
-      "Fossil fuels fall below 50% of US electricity for the first month on record",
-      "https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 11:05:44",
       "https://news.ycombinator.com/item?id=43750535"
     ],
@@ -47,16 +27,6 @@
     [
       "Regex Isn't Hard (2023)",
       "https://timkellogg.me/blog/2023/07/11/regex"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 10:19:22",
-      "https://news.ycombinator.com/item?id=43750235"
-    ],
-    [
-      "Android 16 lets the Linux Terminal use your phone's entire storage",
-      "https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/"
     ]
   ],
   [
@@ -151,6 +121,26 @@
   ],
   [
     [
+      "2025-04-20, 20:54:56",
+      "https://news.ycombinator.com/item?id=43746461"
+    ],
+    [
+      "Decomposing Transactional Systems",
+      "https://transactional.blog/blog/2025-decomposing-transactional-systems"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 20:13:19",
+      "https://news.ycombinator.com/item?id=43746229"
+    ],
+    [
+      "Better Error Handling",
+      "https://meowbark.dev/Better-error-handling"
+    ]
+  ],
+  [
+    [
       "2025-04-20, 19:41:29",
       "https://news.ycombinator.com/item?id=43746017"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-04-20, 13:56:06",
+      "https://news.ycombinator.com/item?id=43743784"
+    ],
+    [
+      "The Joy of Linux Theming in the Age of Bootable Containers",
+      "https://blues.win/posts/joy-of-linux-theming/"
+    ]
+  ],
+  [
+    [
       "2025-04-20, 12:22:06",
       "https://news.ycombinator.com/item?id=43743337"
     ],
@@ -241,22 +241,12 @@
   ],
   [
     [
-      "2025-04-19, 11:37:16",
-      "https://news.ycombinator.com/item?id=43735734"
+      "2025-04-19, 06:56:59",
+      "https://news.ycombinator.com/item?id=43734732"
     ],
     [
-      "Banana Pi BPI-RV2 RISC-V gateway board",
-      "https://docs.banana-pi.org/en/BPI-RV2/BananaPi_BPI-RV2"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 23:48:23",
-      "https://news.ycombinator.com/item?id=43732906"
-    ],
-    [
-      "Why R the Critical Value and Emergent Behavior of Large Language Models Fake?",
-      "https://cacm.acm.org/blogcacm/why-are-the-critical-value-and-emergent-behavior-of-large-language-models-llms-fake/"
+      "Taking Notes with Joplin",
+      "https://lwn.net/Articles/1016400/"
     ]
   ],
   [
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2025-04-18, 06:19:06",
-      "https://news.ycombinator.com/item?id=43725516"
-    ],
-    [
-      "The appeal of serving your web pages with a single process",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 20:28:05",
       "https://news.ycombinator.com/item?id=43721853"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-04-17, 15:19:37",
+      "https://news.ycombinator.com/item?id=43718175"
+    ],
+    [
+      "Molecules that fight infection also act on the brain",
+      "https://news.mit.edu/2025/molecules-fighting-infection-act-in-brain-inducing-anxiety-or-sociability-0407"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 14:20:13",
       "https://news.ycombinator.com/item?id=43717251"
     ],
     [
       "Crows can recognize geometric regularity",
       "https://phys.org/news/2025-04-crows-geometric-regularity.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 21:13:55",
+      "https://news.ycombinator.com/item?id=43710451"
+    ],
+    [
+      "Healthy soil is the hidden ingredient",
+      "https://www.nature.com/articles/d41586-025-01026-x"
     ]
   ]
 ]
