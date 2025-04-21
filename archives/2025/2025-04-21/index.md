@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 09:09:09](https://news.ycombinator.com/item?id=43749814) - [Two young German travelers with ESTA travel authorization jailed and deported](https://beatofhawaii.com/why-these-hawaii-travelers-were-jailed-and-deported/)
 * [2025-04-21, 08:36:57](https://news.ycombinator.com/item?id=43749605) - [Pope Francis has died on Easter Monday aged 88](https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html)
 * [2025-04-21, 08:07:14](https://news.ycombinator.com/item?id=43749449) - [Pope Francis dies aged 88](https://www.bbc.co.uk/news/live/crknlnzlrzdt)
 * [2025-04-21, 08:04:34](https://news.ycombinator.com/item?id=43749434) - [Pope Francis has died, the Vatican camerlengo, announces](https://apnews.com/article/vatican-pope-francis-dead-01ca7d73c3c48d25fd1504ba076e2e2a)
+* [2025-04-21, 08:00:14](https://news.ycombinator.com/item?id=43749405) - [Pope francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
 * [2025-04-21, 05:03:27](https://news.ycombinator.com/item?id=43748629) - [New ChatGPT Models Seem to Leave Watermarks on Text](https://www.rumidocs.com/newsroom/new-chatgpt-models-seem-to-leave-watermarks-on-text)
 * [2025-04-21, 04:31:35](https://news.ycombinator.com/item?id=43748512) - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 * [2025-04-21, 04:24:15](https://news.ycombinator.com/item?id=43748486) - [The Effect of Deactivating Facebook and Instagram on Users' Emotional State](https://www.nber.org/papers/w33697)
