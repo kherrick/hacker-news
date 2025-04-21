@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
 * [2025-04-21, 10:35:34](https://news.ycombinator.com/item?id=43750314) - [Regex Isn't Hard (2023)](https://timkellogg.me/blog/2023/07/11/regex)
 * [2025-04-21, 10:19:22](https://news.ycombinator.com/item?id=43750235) - [Android 16 lets the Linux Terminal use your phone's entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)
 * [2025-04-21, 10:02:18](https://news.ycombinator.com/item?id=43750144) - [Official abuse of state security has always been bad, now it's horrifying](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a)
