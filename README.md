@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-21, 01:07:32](https://news.ycombinator.com/item?id=43747733) - [Show HN: \"Is This Tech Dead?\" A snarky autopsy engine for your dead frameworks](https://www.isthistechdead.com)
 * [2025-04-21, 00:21:27](https://news.ycombinator.com/item?id=43747560) - [Show HN: Keep your PyTorch model in VRAM by hot swapping code](https://github.com/valine/training-hot-swap/)
+* [2025-04-20, 23:15:41](https://news.ycombinator.com/item?id=43747242) - [Juicyjam: Thai Authorities Use Online Doxxing to Suppress Dissent](https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/)
 * [2025-04-20, 22:04:22](https://news.ycombinator.com/item?id=43746831) - [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
 * [2025-04-20, 21:07:03](https://news.ycombinator.com/item?id=43746532) - [Demystifying decorators: They don't need to be cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
 * [2025-04-20, 21:00:37](https://news.ycombinator.com/item?id=43746491) - [FurtherAI (YC W24) Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
@@ -26,9 +26,9 @@
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
 * [2025-04-18, 07:21:51](https://news.ycombinator.com/item?id=43725800) - [Sonic Heritage - the sounds of the world's most famous sights](https://citiesandmemory.com/heritage/)
 * [2025-04-18, 06:19:06](https://news.ycombinator.com/item?id=43725516) - [The appeal of serving your web pages with a single process](https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal)
+* [2025-04-17, 20:28:05](https://news.ycombinator.com/item?id=43721853) - [X-Ray Defence](https://lichess.org/@/Mcie/blog/x-ray-defence-hidden-resource-sudden-lifeline/HERaZrZg)
 * [2025-04-17, 15:42:32](https://news.ycombinator.com/item?id=43718493) - [A 1980s toy robot arm inspired modern robotics](https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/)
 * [2025-04-17, 14:20:13](https://news.ycombinator.com/item?id=43717251) - [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
-* [2025-04-17, 10:42:06](https://news.ycombinator.com/item?id=43715024) - [Which year: guess which year each photo was taken](https://whichyr.com/)
 * [2025-04-16, 21:13:55](https://news.ycombinator.com/item?id=43710451) - [Healthy soil is the hidden ingredient](https://www.nature.com/articles/d41586-025-01026-x)
 
 ## [Archives](archives/index.md)
