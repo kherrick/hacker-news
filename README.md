@@ -6,6 +6,7 @@
 * [2025-04-21, 16:55:36](https://news.ycombinator.com/item?id=43754004) - [Adding keyword parameters to Tcl procs](https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html)
 * [2025-04-21, 16:36:57](https://news.ycombinator.com/item?id=43753829) - [Show HN: Light like the Terminal – Meet GTK LLM Chat Front End](https://github.com/icarito/gtk-llm-chat/)
 * [2025-04-21, 16:26:22](https://news.ycombinator.com/item?id=43753738) - [The campaign to subvert Africa's internet registry](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry)
+* [2025-04-21, 16:16:51](https://news.ycombinator.com/item?id=43753651) - [A New Form of Verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
 * [2025-04-21, 15:34:57](https://news.ycombinator.com/item?id=43753117) - [Coding Neon Kernels for the Cortex-A53](https://destevez.net/2025/02/coding-neon-kernels-for-the-cortex-a53/)
 * [2025-04-21, 14:39:48](https://news.ycombinator.com/item?id=43752532) - [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
 * [2025-04-21, 14:36:14](https://news.ycombinator.com/item?id=43752492) - [Why LLM-Powered Programming Is More Mech Suit Than Artificial Human](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
@@ -25,11 +26,10 @@
 * [2025-04-21, 01:59:03](https://news.ycombinator.com/item?id=43747921) - [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 * [2025-04-20, 15:57:37](https://news.ycombinator.com/item?id=43744591) - [Things Zig comptime won't do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
-* [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
+* [2025-04-19, 13:12:26](https://news.ycombinator.com/item?id=43736172) - [Dumb statistical models, always making people look bad](https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/#comments)
 * [2025-04-18, 19:53:41](https://news.ycombinator.com/item?id=43731335) - [Ref Butts and Slam Dunks: What It's Like Photographing an NBA Game](https://petapixel.com/2025/04/09/ref-butts-and-slam-dunks-what-its-like-photographing-an-nba-game/)
 * [2025-04-18, 19:27:03](https://news.ycombinator.com/item?id=43731153) - [The Computer Revolution Hasn't Happened Yet (1997) [video]](https://www.youtube.com/watch?v=aYT2se94eU0)
 * [2025-04-18, 13:45:56](https://news.ycombinator.com/item?id=43728056) - [Haskelling My Python](https://unnamed.website/posts/haskelling-my-python/)
-* [2025-04-17, 14:20:13](https://news.ycombinator.com/item?id=43717251) - [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
 
 ## [Archives](archives/index.md)
 

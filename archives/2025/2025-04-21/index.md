@@ -11,6 +11,7 @@
 * [2025-04-21, 16:55:36](https://news.ycombinator.com/item?id=43754004) - [Adding keyword parameters to Tcl procs](https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html)
 * [2025-04-21, 16:36:57](https://news.ycombinator.com/item?id=43753829) - [Show HN: Light like the Terminal – Meet GTK LLM Chat Front End](https://github.com/icarito/gtk-llm-chat/)
 * [2025-04-21, 16:26:22](https://news.ycombinator.com/item?id=43753738) - [The campaign to subvert Africa's internet registry](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry)
+* [2025-04-21, 16:16:51](https://news.ycombinator.com/item?id=43753651) - [A New Form of Verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
 * [2025-04-21, 15:57:14](https://news.ycombinator.com/item?id=43753407) - [WikiTree: The Free Family Tree](https://www.wikitree.com/)
 * [2025-04-21, 15:34:57](https://news.ycombinator.com/item?id=43753117) - [Coding Neon Kernels for the Cortex-A53](https://destevez.net/2025/02/coding-neon-kernels-for-the-cortex-a53/)
 * [2025-04-21, 15:01:20](https://news.ycombinator.com/item?id=43752744) - [Event-Hidden Architecture](https://skiplabs.io/blog/event-hidden-arch)
