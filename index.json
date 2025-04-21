@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-21, 11:05:44",
+      "https://news.ycombinator.com/item?id=43750535"
+    ],
+    [
+      "Getting Forked by Microsoft",
+      "https://philiplaine.com/posts/getting-forked-by-microsoft/"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 10:35:34",
       "https://news.ycombinator.com/item?id=43750314"
     ],
@@ -117,16 +127,6 @@
     [
       "TikZJax: Embedding LaTeX Drawings in HTML",
       "https://tikzjax.com/"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 20:54:56",
-      "https://news.ycombinator.com/item?id=43746461"
-    ],
-    [
-      "Decomposing Transactional Systems",
-      "https://transactional.blog/blog/2025-decomposing-transactional-systems"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-04-18, 13:45:56",
+      "https://news.ycombinator.com/item?id=43728056"
+    ],
+    [
+      "Haskelling My Python",
+      "https://unnamed.website/posts/haskelling-my-python/"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 20:28:05",
       "https://news.ycombinator.com/item?id=43721853"
     ],
@@ -287,16 +297,6 @@
     [
       "Regular Expression Derivatives in Python [pdf] [video]",
       "https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 21:13:55",
-      "https://news.ycombinator.com/item?id=43710451"
-    ],
-    [
-      "Healthy soil is the hidden ingredient",
-      "https://www.nature.com/articles/d41586-025-01026-x"
     ]
   ]
 ]
