@@ -32,6 +32,7 @@
 * [2025-04-19, 14:39:49](https://news.ycombinator.com/item?id=43736718) - [Against Transparency](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer)
 * [2025-04-19, 13:47:15](https://news.ycombinator.com/item?id=43736366) - [Inferring the Phylogeny of Large Language Models](https://arxiv.org/abs/2404.04671)
 * [2025-04-19, 13:17:48](https://news.ycombinator.com/item?id=43736193) - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
+* [2025-04-19, 13:12:26](https://news.ycombinator.com/item?id=43736172) - [Dumb statistical models, always making people look bad](https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/)
 * [2025-04-19, 13:12:26](https://news.ycombinator.com/item?id=43736172) - [Dumb statistical models, always making people look bad](https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/#comments)
 * [2025-04-19, 12:36:26](https://news.ycombinator.com/item?id=43736005) - [Scientists claim to have found colour no one has seen before](https://www.theguardian.com/science/2025/apr/18/scientists-claim-to-have-found-colour-no-one-has-seen-before)
 * [2025-04-19, 12:28:03](https://news.ycombinator.com/item?id=43735969) - [Ask HN: why is my F500 employer okay with paying 5x to freelancers?](https://news.ycombinator.com/item?id=43735969)

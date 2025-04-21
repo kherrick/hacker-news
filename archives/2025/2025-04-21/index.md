@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 18:29:04](https://news.ycombinator.com/item?id=43754953) - [Blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 * [2025-04-21, 17:36:16](https://news.ycombinator.com/item?id=43754417) - [The White House has begun process of looking for new secretary of defense](https://www.npr.org/2025/04/21/nx-s1-5371312/trump-white-house-pete-hegseth-defense-department)
 * [2025-04-21, 17:22:55](https://news.ycombinator.com/item?id=43754274) - [FTC Takes Action Against Uber for Deceptive Billing and Cancellation Practices](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices)
 * [2025-04-21, 17:07:07](https://news.ycombinator.com/item?id=43754124) - [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
