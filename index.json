@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-21, 15:01:20",
+      "https://news.ycombinator.com/item?id=43752744"
+    ],
+    [
+      "Event-Hidden Architecture",
+      "https://skiplabs.io/blog/event-hidden-arch"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 14:39:48",
       "https://news.ycombinator.com/item?id=43752532"
     ],
     [
       "Out of the Fog",
       "https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 14:15:17",
+      "https://news.ycombinator.com/item?id=43752262"
+    ],
+    [
+      "AI assisted search-based research works now",
+      "https://simonwillison.net/2025/Apr/21/ai-assisted-search/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams",
       "https://news.ycombinator.com/item?id=43752176"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 13:42:31",
-      "https://news.ycombinator.com/item?id=43751933"
-    ],
-    [
-      "Show HN: Brainstorm.gg – Get ideas out of your head fast",
-      "http://brainstorm.gg"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-04-20, 20:54:56",
-      "https://news.ycombinator.com/item?id=43746461"
-    ],
-    [
-      "Decomposing Transactional Systems",
-      "https://transactional.blog/blog/2025-decomposing-transactional-systems"
-    ]
-  ],
-  [
-    [
       "2025-04-20, 19:17:58",
       "https://news.ycombinator.com/item?id=43745868"
     ],
@@ -187,16 +187,6 @@
     [
       "How encryption for Cinema Movies works",
       "https://serverless.industries/2024/05/31/digital-cinema.en.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 17:13:32",
-      "https://news.ycombinator.com/item?id=43745040"
-    ],
-    [
-      "Signal Carnival",
-      "https://www.quiss.org/signal_carnival/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Inside ArXiv",
       "https://www.wired.com/story/inside-arxiv-most-transformative-code-science/"
+    ]
+  ],
+  [
+    [
+      "2025-04-19, 07:16:10",
+      "https://news.ycombinator.com/item?id=43734794"
+    ],
+    [
+      "Show HN: I rewrote few of the common core string.h functions",
+      "https://github.com/deep-vinci/re-implement-c"
     ]
   ],
   [
