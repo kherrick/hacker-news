@@ -9,6 +9,7 @@
 * [2025-04-21, 17:07:07](https://news.ycombinator.com/item?id=43754124) - [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
 * [2025-04-21, 17:01:17](https://news.ycombinator.com/item?id=43754057) - [Spark AI (YC W24) is hiring a full-stack engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-04-21, 16:55:36](https://news.ycombinator.com/item?id=43754004) - [Adding keyword parameters to Tcl procs](https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html)
+* [2025-04-21, 16:42:52](https://news.ycombinator.com/item?id=43753890) - [Local LLM inference – impressive but too hard to work with](https://medium.com/@aazo11/local-llm-inference-897a06cc17a2)
 * [2025-04-21, 16:36:57](https://news.ycombinator.com/item?id=43753829) - [Show HN: Light like the Terminal – Meet GTK LLM Chat Front End](https://github.com/icarito/gtk-llm-chat/)
 * [2025-04-21, 16:26:22](https://news.ycombinator.com/item?id=43753738) - [The campaign to subvert Africa's internet registry](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry)
 * [2025-04-21, 16:16:51](https://news.ycombinator.com/item?id=43753651) - [A New Form of Verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
