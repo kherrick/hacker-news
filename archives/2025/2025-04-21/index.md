@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 19:44:58](https://news.ycombinator.com/item?id=43755682) - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
 * [2025-04-21, 19:05:23](https://news.ycombinator.com/item?id=43755321) - [An Update to Our Pricing](https://windsurf.com/blog/pricing-v2)
 * [2025-04-21, 19:03:05](https://news.ycombinator.com/item?id=43755298) - [Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]](https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf)
 * [2025-04-21, 18:46:31](https://news.ycombinator.com/item?id=43755128) - [Propositional Parlor Puzzle](https://buttondown.com/jaffray/archive/propositional-parlor-puzzle/)
