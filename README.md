@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-21, 19:52:25](https://news.ycombinator.com/item?id=43755753) - [Thieves took their iPhones. Apple won't give their digital lives back](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/)
 * [2025-04-21, 19:44:58](https://news.ycombinator.com/item?id=43755682) - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
 * [2025-04-21, 19:25:19](https://news.ycombinator.com/item?id=43755506) - [Is 1 Prime, and Does It Matter?](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/)
 * [2025-04-21, 19:05:23](https://news.ycombinator.com/item?id=43755321) - [An update to our pricing](https://windsurf.com/blog/pricing-v2)
@@ -29,7 +30,6 @@
 * [2025-04-19, 13:12:26](https://news.ycombinator.com/item?id=43736172) - [Dumb statistical models, always making people look bad](https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/)
 * [2025-04-18, 19:53:32](https://news.ycombinator.com/item?id=43731334) - [Optimizing Heap Allocations in Go: A Case Study](https://www.dolthub.com/blog/2025-04-18-optimizing-heap-allocations/)
 * [2025-04-18, 17:14:54](https://news.ycombinator.com/item?id=43729982) - [No Robot Like Robot (2018)](https://slate.com/technology/2018/12/machine-learning-ai-annalee-newitz-when-robot-and-crow-saved-east-st-louis.html)
-* [2025-04-18, 13:45:56](https://news.ycombinator.com/item?id=43728056) - [Haskelling My Python](https://unnamed.website/posts/haskelling-my-python/)
 
 ## [Archives](archives/index.md)
 
