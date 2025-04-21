@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-21, 15:01:20](https://news.ycombinator.com/item?id=43752744) - [Event-Hidden Architecture](https://skiplabs.io/blog/event-hidden-arch)
 * [2025-04-21, 14:49:23](https://news.ycombinator.com/item?id=43752627) - [Inner Loop Agents](https://timkellogg.me/blog/2025/04/19/inner-loops)
 * [2025-04-21, 14:39:48](https://news.ycombinator.com/item?id=43752532) - [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
 * [2025-04-21, 14:36:14](https://news.ycombinator.com/item?id=43752492) - [Why LLM-Powered Programming Is More Mech Suit Than Artificial Human](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
@@ -29,6 +28,7 @@
 * [2025-04-19, 06:56:59](https://news.ycombinator.com/item?id=43734732) - [Taking Notes with Joplin](https://lwn.net/Articles/1016400/)
 * [2025-04-18, 19:53:41](https://news.ycombinator.com/item?id=43731335) - [Ref Butts and Slam Dunks: What It's Like Photographing an NBA Game](https://petapixel.com/2025/04/09/ref-butts-and-slam-dunks-what-its-like-photographing-an-nba-game/)
 * [2025-04-18, 13:45:56](https://news.ycombinator.com/item?id=43728056) - [Haskelling My Python](https://unnamed.website/posts/haskelling-my-python/)
+* [2025-04-17, 20:28:05](https://news.ycombinator.com/item?id=43721853) - [X-Ray Defence](https://lichess.org/@/Mcie/blog/x-ray-defence-hidden-resource-sudden-lifeline/HERaZrZg)
 * [2025-04-17, 14:20:13](https://news.ycombinator.com/item?id=43717251) - [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
 
 ## [Archives](archives/index.md)
