@@ -48,6 +48,7 @@
 * [2025-04-18, 08:11:45](https://news.ycombinator.com/item?id=43726037) - [Unikernel Linux (UKL) (2023)](https://dl.acm.org/doi/10.1145/3552326.3587458)
 * [2025-04-18, 07:31:04](https://news.ycombinator.com/item?id=43725865) - [AMP and why emails are not (and should never be) interactive](https://buttondown.com/blog/whatever-happened-to-amp-email)
 * [2025-04-18, 07:24:10](https://news.ycombinator.com/item?id=43725815) - [I gave up on self-hosted Sentry](https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/)
+* [2025-04-18, 07:21:51](https://news.ycombinator.com/item?id=43725800) - [Sonic Heritage - the sounds of the world's most famous sights](https://citiesandmemory.com/heritage/)
 * [2025-04-18, 06:49:56](https://news.ycombinator.com/item?id=43725648) - [Viral ChatGPT trend is doing 'reverse location search' from photos](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/)
 * [2025-04-18, 06:46:20](https://news.ycombinator.com/item?id=43725629) - [Tracking types of non-parents in the United States](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13097)
 * [2025-04-18, 06:19:06](https://news.ycombinator.com/item?id=43725516) - [The appeal of serving your web pages with a single process](https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal)
