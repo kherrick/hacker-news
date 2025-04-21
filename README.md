@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-21, 08:00:14](https://news.ycombinator.com/item?id=43749405) - [Pope francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
+* [2025-04-21, 09:09:09](https://news.ycombinator.com/item?id=43749814) - [Two young German travelers with ESTA travel authorization jailed and deported](https://beatofhawaii.com/why-these-hawaii-travelers-were-jailed-and-deported/)
+* [2025-04-21, 08:00:14](https://news.ycombinator.com/item?id=43749405) - [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
 * [2025-04-21, 04:31:35](https://news.ycombinator.com/item?id=43748512) - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 * [2025-04-21, 04:24:15](https://news.ycombinator.com/item?id=43748486) - [The Effect of Deactivating Facebook and Instagram on Users' Emotional State](https://www.nber.org/papers/w33697)
 * [2025-04-21, 02:47:55](https://news.ycombinator.com/item?id=43748133) - [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
@@ -18,7 +19,6 @@
 * [2025-04-20, 17:13:32](https://news.ycombinator.com/item?id=43745040) - [Signal Carnival](https://www.quiss.org/signal_carnival/)
 * [2025-04-20, 16:00:29](https://news.ycombinator.com/item?id=43744609) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-20, 15:57:37](https://news.ycombinator.com/item?id=43744591) - [Things Zig comptime won't do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
-* [2025-04-20, 15:20:35](https://news.ycombinator.com/item?id=43744343) - [Pushing the Limits of LLM Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)
 * [2025-04-20, 14:55:33](https://news.ycombinator.com/item?id=43744173) - [Jagged AGI: o3, Gemini 2.5, and everything after](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything)
 * [2025-04-20, 13:56:06](https://news.ycombinator.com/item?id=43743784) - [The Joy of Linux Theming in the Age of Bootable Containers](https://blues.win/posts/joy-of-linux-theming/)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
