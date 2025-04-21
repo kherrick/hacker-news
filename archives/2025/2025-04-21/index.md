@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 17:07:07](https://news.ycombinator.com/item?id=43754124) - [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
+* [2025-04-21, 17:01:17](https://news.ycombinator.com/item?id=43754057) - [Spark AI (YC W24) is hiring a full-stack engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+* [2025-04-21, 16:55:36](https://news.ycombinator.com/item?id=43754004) - [Adding keyword parameters to Tcl procs](https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html)
+* [2025-04-21, 16:26:22](https://news.ycombinator.com/item?id=43753738) - [The campaign to subvert Africa's internet registry](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry)
 * [2025-04-21, 15:57:14](https://news.ycombinator.com/item?id=43753407) - [WikiTree: The Free Family Tree](https://www.wikitree.com/)
+* [2025-04-21, 15:34:57](https://news.ycombinator.com/item?id=43753117) - [Coding Neon Kernels for the Cortex-A53](https://destevez.net/2025/02/coding-neon-kernels-for-the-cortex-a53/)
 * [2025-04-21, 15:01:20](https://news.ycombinator.com/item?id=43752744) - [Event-Hidden Architecture](https://skiplabs.io/blog/event-hidden-arch)
 * [2025-04-21, 14:49:23](https://news.ycombinator.com/item?id=43752627) - [Inner Loop Agents](https://timkellogg.me/blog/2025/04/19/inner-loops)
 * [2025-04-21, 14:39:48](https://news.ycombinator.com/item?id=43752532) - [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
@@ -23,6 +28,7 @@
 * [2025-04-21, 11:38:10](https://news.ycombinator.com/item?id=43750765) - [Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram](https://github.com/dimonomid/nerdlog)
 * [2025-04-21, 11:17:06](https://news.ycombinator.com/item?id=43750617) - [Fossil fuels fall below 50% of US electricity for the first month on record](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/)
 * [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
+* [2025-04-21, 10:53:59](https://news.ycombinator.com/item?id=43750439) - [Decentralizing Schemes](https://www.tbray.org/ongoing/When/202x/2025/04/16/Decentralized-Schemes)
 * [2025-04-21, 10:35:34](https://news.ycombinator.com/item?id=43750314) - [Regex Isn't Hard (2023)](https://timkellogg.me/blog/2023/07/11/regex)
 * [2025-04-21, 10:25:21](https://news.ycombinator.com/item?id=43750256) - [Pope Francis Dead at 88](https://www.politico.eu/article/pope-francis-catholic-church-death-health-issues-vatican-pontiff/)
 * [2025-04-21, 10:19:22](https://news.ycombinator.com/item?id=43750235) - [Android 16 lets the Linux Terminal use your phone's entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)

@@ -16,6 +16,7 @@
 * [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
 * [2025-04-18, 19:28:53](https://news.ycombinator.com/item?id=43731168) - [Electric Propulsion's Dirty Secret: Why Lithium Can't Fly (Or Float) Profitably](https://kumarletter.com/posts/electric-propulsion-s-dirty-secret-why-lithium-can-t-fly-or-float-profitably)
 * [2025-04-18, 19:28:44](https://news.ycombinator.com/item?id=43731165) - [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
+* [2025-04-18, 19:27:03](https://news.ycombinator.com/item?id=43731153) - [The Computer Revolution Hasn't Happened Yet (1997) [video]](https://www.youtube.com/watch?v=aYT2se94eU0)
 * [2025-04-18, 18:55:24](https://news.ycombinator.com/item?id=43730885) - [Loglan'82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
 * [2025-04-18, 18:52:58](https://news.ycombinator.com/item?id=43730870) - [PDCurses – for environments that don't fit the termcap/terminfo model](https://github.com/wmcbrine/PDCurses)
 * [2025-04-18, 18:52:40](https://news.ycombinator.com/item?id=43730866) - [The Good Karma Kit](https://archivebox.github.io/good-karma-kit/)
