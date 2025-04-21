@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 21:52:29](https://news.ycombinator.com/item?id=43756926) - [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
+* [2025-04-21, 21:31:40](https://news.ycombinator.com/item?id=43756723) - [Ultra-precision formation flying demonstration for space-based interferometry](https://arxiv.org/abs/2504.05001)
 * [2025-04-21, 21:00:53](https://news.ycombinator.com/item?id=43756417) - [Cekura (Formerly Vocera) (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer)
 * [2025-04-21, 20:49:20](https://news.ycombinator.com/item?id=43756309) - [Visiting – Epic](https://www.epic.com/visiting/)
 * [2025-04-21, 19:52:25](https://news.ycombinator.com/item?id=43755753) - [Thieves took their iPhones. Apple won't give their digital lives back](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/)
