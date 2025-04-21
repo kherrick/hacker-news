@@ -16,7 +16,6 @@
 * [2025-04-21, 16:36:57](https://news.ycombinator.com/item?id=43753829) - [Show HN: Light like the Terminal – Meet GTK LLM Chat Front End](https://github.com/icarito/gtk-llm-chat/)
 * [2025-04-21, 16:16:51](https://news.ycombinator.com/item?id=43753651) - [A new form of verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
 * [2025-04-21, 14:39:48](https://news.ycombinator.com/item?id=43752532) - [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
-* [2025-04-21, 14:36:14](https://news.ycombinator.com/item?id=43752492) - [LLM-powered tools amplify developer capabilities rather than replacing them](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
 * [2025-04-21, 14:15:17](https://news.ycombinator.com/item?id=43752262) - [AI assisted search-based research works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/)
 * [2025-04-21, 14:07:03](https://news.ycombinator.com/item?id=43752176) - [Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams](https://news.ycombinator.com/item?id=43752176)
 * [2025-04-21, 12:26:16](https://news.ycombinator.com/item?id=43751168) - [Tabular Programming: A New Paradigm for Expressive Computing](https://sam.elborai.me/articles/tabular-programming/)
@@ -28,6 +27,7 @@
 * [2025-04-21, 01:59:03](https://news.ycombinator.com/item?id=43747921) - [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 * [2025-04-20, 20:50:07](https://news.ycombinator.com/item?id=43746433) - [How I use Kate editor](https://akselmo.dev/posts/how-i-use-kate-editor/)
 * [2025-04-19, 13:12:26](https://news.ycombinator.com/item?id=43736172) - [Dumb statistical models, always making people look bad](https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/)
+* [2025-04-19, 12:20:33](https://news.ycombinator.com/item?id=43735933) - [Lichens can survive almost anything, and some might survive Mars](https://arstechnica.com/science/2025/04/lichens-can-survive-almost-anything-and-some-might-survive-mars/)
 * [2025-04-18, 19:53:32](https://news.ycombinator.com/item?id=43731334) - [Optimizing Heap Allocations in Go: A Case Study](https://www.dolthub.com/blog/2025-04-18-optimizing-heap-allocations/)
 * [2025-04-18, 17:14:54](https://news.ycombinator.com/item?id=43729982) - [No Robot Like Robot (2018)](https://slate.com/technology/2018/12/machine-learning-ai-annalee-newitz-when-robot-and-crow-saved-east-st-louis.html)
 
