@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-21, 08:36:57](https://news.ycombinator.com/item?id=43749605) - [Pope Francis has died on Easter Monday aged 88](https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html)
 * [2025-04-21, 08:07:14](https://news.ycombinator.com/item?id=43749449) - [Pope Francis has died](https://www.bbc.co.uk/news/live/crknlnzlrzdt)
 * [2025-04-21, 04:31:35](https://news.ycombinator.com/item?id=43748512) - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 * [2025-04-21, 04:24:15](https://news.ycombinator.com/item?id=43748486) - [The Effect of Deactivating Facebook and Instagram on Users' Emotional State](https://www.nber.org/papers/w33697)
@@ -15,7 +16,6 @@
 * [2025-04-20, 19:17:58](https://news.ycombinator.com/item?id=43745868) - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
 * [2025-04-20, 17:52:50](https://news.ycombinator.com/item?id=43745281) - [How encryption for Cinema Movies works](https://serverless.industries/2024/05/31/digital-cinema.en.html)
 * [2025-04-20, 17:48:40](https://news.ycombinator.com/item?id=43745261) - [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
-* [2025-04-20, 17:29:28](https://news.ycombinator.com/item?id=43745141) - [The movie mistake mystery from \"Revenge of the Sith\"](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
 * [2025-04-20, 17:13:32](https://news.ycombinator.com/item?id=43745040) - [Signal Carnival](https://www.quiss.org/signal_carnival/)
 * [2025-04-20, 16:00:29](https://news.ycombinator.com/item?id=43744609) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-20, 15:57:37](https://news.ycombinator.com/item?id=43744591) - [Things Zig comptime won't do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
