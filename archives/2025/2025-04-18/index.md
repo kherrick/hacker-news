@@ -13,6 +13,7 @@
 * [2025-04-18, 20:50:18](https://news.ycombinator.com/item?id=43731746) - [Hextraction, a free and open source board game](https://www.playhextraction.com/)
 * [2025-04-18, 20:24:09](https://news.ycombinator.com/item?id=43731552) - [Full Text Search of US Court records](https://www.judyrecords.com/)
 * [2025-04-18, 19:53:41](https://news.ycombinator.com/item?id=43731335) - [Ref Butts and Slam Dunks: What It's Like Photographing an NBA Game](https://petapixel.com/2025/04/09/ref-butts-and-slam-dunks-what-its-like-photographing-an-nba-game/)
+* [2025-04-18, 19:53:32](https://news.ycombinator.com/item?id=43731334) - [Optimizing Heap Allocations in Go: A Case Study](https://www.dolthub.com/blog/2025-04-18-optimizing-heap-allocations/)
 * [2025-04-18, 19:40:06](https://news.ycombinator.com/item?id=43731250) - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
 * [2025-04-18, 19:28:53](https://news.ycombinator.com/item?id=43731168) - [Electric Propulsion's Dirty Secret: Why Lithium Can't Fly (Or Float) Profitably](https://kumarletter.com/posts/electric-propulsion-s-dirty-secret-why-lithium-can-t-fly-or-float-profitably)
 * [2025-04-18, 19:28:44](https://news.ycombinator.com/item?id=43731165) - [15,000 lines of verified cryptography now in Python](https://jonathan.protzenko.fr/2025/04/18/python.html)
