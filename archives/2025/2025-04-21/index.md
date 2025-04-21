@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 11:17:06](https://news.ycombinator.com/item?id=43750617) - [Fossil fuels fall below 50% of US electricity for the first month on record](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/)
 * [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
 * [2025-04-21, 10:35:34](https://news.ycombinator.com/item?id=43750314) - [Regex Isn't Hard (2023)](https://timkellogg.me/blog/2023/07/11/regex)
 * [2025-04-21, 10:25:21](https://news.ycombinator.com/item?id=43750256) - [Pope Francis Dead at 88](https://www.politico.eu/article/pope-francis-catholic-church-death-health-issues-vatican-pontiff/)
