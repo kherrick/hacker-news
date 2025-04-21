@@ -11,6 +11,7 @@
 * [2025-04-21, 19:25:19](https://news.ycombinator.com/item?id=43755506) - [Is 1 Prime, and Does It Matter?](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/)
 * [2025-04-21, 19:05:23](https://news.ycombinator.com/item?id=43755321) - [An Update to Our Pricing](https://windsurf.com/blog/pricing-v2)
 * [2025-04-21, 19:03:05](https://news.ycombinator.com/item?id=43755298) - [Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]](https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf)
+* [2025-04-21, 19:01:55](https://news.ycombinator.com/item?id=43755286) - [A M.2 HDMI capture card](https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/)
 * [2025-04-21, 18:46:31](https://news.ycombinator.com/item?id=43755128) - [Propositional Parlor Puzzle](https://buttondown.com/jaffray/archive/propositional-parlor-puzzle/)
 * [2025-04-21, 18:36:23](https://news.ycombinator.com/item?id=43755017) - [Astronomers confirm the existence of a lone black hole](https://phys.org/news/2025-04-astronomers-lone-black-hole.html)
 * [2025-04-21, 18:29:04](https://news.ycombinator.com/item?id=43754953) - [Blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
