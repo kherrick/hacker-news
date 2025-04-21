@@ -24,11 +24,11 @@
 * [2025-04-20, 13:56:06](https://news.ycombinator.com/item?id=43743784) - [The Joy of Linux Theming in the Age of Bootable Containers](https://blues.win/posts/joy-of-linux-theming/)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-* [2025-04-18, 07:21:51](https://news.ycombinator.com/item?id=43725800) - [Sonic Heritage - the sounds of the world's most famous sights](https://citiesandmemory.com/heritage/)
 * [2025-04-18, 06:19:06](https://news.ycombinator.com/item?id=43725516) - [The appeal of serving your web pages with a single process](https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal)
 * [2025-04-17, 20:28:05](https://news.ycombinator.com/item?id=43721853) - [X-Ray Defence](https://lichess.org/@/Mcie/blog/x-ray-defence-hidden-resource-sudden-lifeline/HERaZrZg)
 * [2025-04-17, 15:42:32](https://news.ycombinator.com/item?id=43718493) - [A 1980s toy robot arm inspired modern robotics](https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/)
 * [2025-04-17, 14:20:13](https://news.ycombinator.com/item?id=43717251) - [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
+* [2025-04-17, 09:24:16](https://news.ycombinator.com/item?id=43714579) - [Regular Expression Derivatives in Python [pdf] [video]](https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf)
 * [2025-04-16, 21:13:55](https://news.ycombinator.com/item?id=43710451) - [Healthy soil is the hidden ingredient](https://www.nature.com/articles/d41586-025-01026-x)
 
 ## [Archives](archives/index.md)
