@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 10:35:34](https://news.ycombinator.com/item?id=43750314) - [Regex Isn't Hard (2023)](https://timkellogg.me/blog/2023/07/11/regex)
+* [2025-04-21, 10:02:18](https://news.ycombinator.com/item?id=43750144) - [Official abuse of state security has always been bad, now it's horrifying](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a)
 * [2025-04-21, 09:09:09](https://news.ycombinator.com/item?id=43749814) - [Two young German travelers with ESTA travel authorization jailed and deported](https://beatofhawaii.com/why-these-hawaii-travelers-were-jailed-and-deported/)
 * [2025-04-21, 08:36:57](https://news.ycombinator.com/item?id=43749605) - [Pope Francis has died on Easter Monday aged 88](https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html)
 * [2025-04-21, 08:07:14](https://news.ycombinator.com/item?id=43749449) - [Pope Francis dies aged 88](https://www.bbc.co.uk/news/live/crknlnzlrzdt)

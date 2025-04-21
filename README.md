@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-21, 10:35:34](https://news.ycombinator.com/item?id=43750314) - [Regex Isn't Hard (2023)](https://timkellogg.me/blog/2023/07/11/regex)
+* [2025-04-21, 10:02:18](https://news.ycombinator.com/item?id=43750144) - [Official abuse of state security has always been bad, now it's horrifying](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a)
 * [2025-04-21, 08:00:14](https://news.ycombinator.com/item?id=43749405) - [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
 * [2025-04-21, 04:31:35](https://news.ycombinator.com/item?id=43748512) - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 * [2025-04-21, 04:24:15](https://news.ycombinator.com/item?id=43748486) - [The effect of deactivating Facebook and Instagram on users' emotional state](https://www.nber.org/papers/w33697)
@@ -17,7 +19,6 @@
 * [2025-04-20, 17:13:32](https://news.ycombinator.com/item?id=43745040) - [Signal Carnival](https://www.quiss.org/signal_carnival/)
 * [2025-04-20, 16:00:29](https://news.ycombinator.com/item?id=43744609) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-20, 15:57:37](https://news.ycombinator.com/item?id=43744591) - [Things Zig comptime won't do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
-* [2025-04-20, 15:20:35](https://news.ycombinator.com/item?id=43744343) - [Pushing the Limits of LLM Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)
 * [2025-04-20, 14:55:33](https://news.ycombinator.com/item?id=43744173) - [Jagged AGI: o3, Gemini 2.5, and everything after](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything)
 * [2025-04-20, 13:56:06](https://news.ycombinator.com/item?id=43743784) - [The Joy of Linux Theming in the Age of Bootable Containers](https://blues.win/posts/joy-of-linux-theming/)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
@@ -26,7 +27,6 @@
 * [2025-04-19, 11:37:16](https://news.ycombinator.com/item?id=43735734) - [Banana Pi BPI-RV2 RISC-V gateway board](https://docs.banana-pi.org/en/BPI-RV2/BananaPi_BPI-RV2)
 * [2025-04-19, 06:56:59](https://news.ycombinator.com/item?id=43734732) - [Taking Notes with Joplin](https://lwn.net/Articles/1016400/)
 * [2025-04-17, 20:28:05](https://news.ycombinator.com/item?id=43721853) - [X-Ray Defence](https://lichess.org/@/Mcie/blog/x-ray-defence-hidden-resource-sudden-lifeline/HERaZrZg)
-* [2025-04-17, 15:19:37](https://news.ycombinator.com/item?id=43718175) - [Molecules that fight infection also act on the brain](https://news.mit.edu/2025/molecules-fighting-infection-act-in-brain-inducing-anxiety-or-sociability-0407)
 * [2025-04-17, 14:20:13](https://news.ycombinator.com/item?id=43717251) - [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
 * [2025-04-17, 09:24:16](https://news.ycombinator.com/item?id=43714579) - [Regular Expression Derivatives in Python [pdf] [video]](https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf)
 * [2025-04-16, 21:13:55](https://news.ycombinator.com/item?id=43710451) - [Healthy soil is the hidden ingredient](https://www.nature.com/articles/d41586-025-01026-x)
