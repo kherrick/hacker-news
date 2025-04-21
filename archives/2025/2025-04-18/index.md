@@ -25,6 +25,7 @@
 * [2025-04-18, 18:16:27](https://news.ycombinator.com/item?id=43730545) - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
 * [2025-04-18, 18:06:25](https://news.ycombinator.com/item?id=43730458) - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
 * [2025-04-18, 17:43:37](https://news.ycombinator.com/item?id=43730253) - [Tesla Odometer Mileage Wrong](https://old.reddit.com/r/TeslaModel3/comments/zjc21g/odometer_mileage_wrong/)
+* [2025-04-18, 17:14:54](https://news.ycombinator.com/item?id=43729982) - [No Robot Like Robot (2018)](https://slate.com/technology/2018/12/machine-learning-ai-annalee-newitz-when-robot-and-crow-saved-east-st-louis.html)
 * [2025-04-18, 17:09:53](https://news.ycombinator.com/item?id=43729932) - [Ink and Switch Constraint System (2023)](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/)
 * [2025-04-18, 17:00:27](https://news.ycombinator.com/item?id=43729850) - [Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote)](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote)
 * [2025-04-18, 16:43:25](https://news.ycombinator.com/item?id=43729712) - [Dear Lewis, my CEO wants AI to do it all. How do I argue for humans?](https://lewislin.substack.com/p/dear-lewis-my-ceo-wants-ai-to-do)
