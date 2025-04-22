@@ -26,10 +26,10 @@
 * [2025-04-21, 12:16:16](https://news.ycombinator.com/item?id=43751076) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 * [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
 * [2025-04-20, 19:38:29](https://news.ycombinator.com/item?id=43745987) - [Verus: Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
-* [2025-04-19, 13:12:26](https://news.ycombinator.com/item?id=43736172) - [Dumb statistical models, always making people look bad](https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/)
 * [2025-04-19, 11:43:08](https://news.ycombinator.com/item?id=43735764) - [An Update on Pahole](https://lwn.net/Articles/1016243/)
 * [2025-04-19, 06:48:21](https://news.ycombinator.com/item?id=43734706) - [Synology Lost the Plot with Hard Drive Locking Move](https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/)
 * [2025-04-19, 02:20:06](https://news.ycombinator.com/item?id=43733683) - [CaMeL: Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
+* [2025-04-18, 11:46:09](https://news.ycombinator.com/item?id=43727158) - [Phase I/II trial of iPS-cell-derived dopaminergic cells for Parkinson's disease](https://www.nature.com/articles/s41586-025-08700-0)
 
 ## [Archives](archives/index.md)
 
