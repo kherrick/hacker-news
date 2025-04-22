@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2025-04-22, 03:50:20",
+      "https://news.ycombinator.com/item?id=43758936"
+    ],
+    [
+      "Forecaster reacts: METR's bombshell paper about AI acceleration",
+      "https://peterwildeford.substack.com/p/forecaster-reacts-metrs-bombshell"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 03:05:48",
+      "https://news.ycombinator.com/item?id=43758730"
+    ],
+    [
+      "New ChatGPT Models Seem to Leave Watermarks on Text",
+      "https://www.rumidocs.com/newsroom/new-chatgpt-models-seem-to-leave-watermarks-on-text"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 00:25:12",
       "https://news.ycombinator.com/item?id=43757916"
     ],
@@ -47,16 +67,6 @@
     [
       "Evertop: E-ink IBM XT clone with 100+ hours of battery life",
       "https://github.com/ericjenott/Evertop"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 21:52:29",
-      "https://news.ycombinator.com/item?id=43756926"
-    ],
-    [
-      "Pydrofoil: Accelerating Sail-based instruction set simulators",
-      "https://arxiv.org/abs/2503.04389"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Visiting Us",
       "https://www.epic.com/visiting/"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 19:05:23",
-      "https://news.ycombinator.com/item?id=43755321"
-    ],
-    [
-      "An update to our pricing",
-      "https://windsurf.com/blog/pricing-v2"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-04-19, 01:34:12",
-      "https://news.ycombinator.com/item?id=43733468"
+      "2025-04-19, 02:20:06",
+      "https://news.ycombinator.com/item?id=43733683"
     ],
     [
-      "The Labyrinth of Villa Pisani in Stra, an Intricate Pathway",
-      "https://www.finestresullarte.info/en/travel/the-labyrinth-of-villa-pisani-in-stra-suggestions-of-d-annunzio-and-an-intricate-pathway"
+      "CaMeL: Defeating Prompt Injections by Design",
+      "https://arxiv.org/abs/2503.18813"
     ]
   ]
 ]
