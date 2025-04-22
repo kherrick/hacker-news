@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-22, 12:00:06",
+      "https://news.ycombinator.com/item?id=43761119"
+    ],
+    [
+      "GiveCampus (YC S15) Is Hiring Sr engineers passionate about education",
+      "https://givecampus.breezy.hr/p/0c4a97691730"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 11:04:55",
       "https://news.ycombinator.com/item?id=43760801"
     ],
     [
       "Whistleblower: DOGE Siphoned NLRB Case Data",
       "https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 10:46:13",
+      "https://news.ycombinator.com/item?id=43760723"
+    ],
+    [
+      "Coding as Craft: Going Back to the Old Gym",
+      "https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Marijuana hospital visits linked to dementia diagnosis within 5 years – a study",
       "https://www.cnn.com/2025/04/20/health/marijuana-dementia-wellness/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 10:24:37",
+      "https://news.ycombinator.com/item?id=43760625"
+    ],
+    [
+      "Does RL Incentivize Reasoning in LLMs Beyond the Base Model?",
+      "https://limit-of-rlvr.github.io/"
     ]
   ],
   [
@@ -61,6 +91,16 @@
   ],
   [
     [
+      "2025-04-22, 06:15:49",
+      "https://news.ycombinator.com/item?id=43759513"
+    ],
+    [
+      "AI for Network Engineers: Understanding Flow, Flowlet, and Packet-Based LB",
+      "https://nwktimes.blogspot.com/2025/04/ai-for-network-engineers-understanding.html"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 05:59:28",
       "https://news.ycombinator.com/item?id=43759436"
     ],
@@ -87,16 +127,6 @@
     [
       "Welcome to our website for the 1963 BBC MCR21 OB Van",
       "https://mcr21.org.uk/"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 03:57:47",
-      "https://news.ycombinator.com/item?id=43758965"
-    ],
-    [
-      "'World War Zoos' Review: Of Bombs and Beasts",
-      "https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6"
     ]
   ],
   [
@@ -137,26 +167,6 @@
     [
       "Cheating the Reaper in Go",
       "https://mcyoung.xyz/2025/04/21/go-arenas/"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 21:31:40",
-      "https://news.ycombinator.com/item?id=43756723"
-    ],
-    [
-      "Ultra-precision formation flying demonstration for space-based interferometry",
-      "https://arxiv.org/abs/2504.05001"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 19:01:55",
-      "https://news.ycombinator.com/item?id=43755286"
-    ],
-    [
-      "A M.2 HDMI capture card",
-      "https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-04-21, 14:15:17",
-      "https://news.ycombinator.com/item?id=43752262"
-    ],
-    [
-      "AI assisted search-based research works now",
-      "https://simonwillison.net/2025/Apr/21/ai-assisted-search/"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 14:07:03",
       "https://news.ycombinator.com/item?id=43752176"
     ],
@@ -247,6 +247,16 @@
     [
       "Verus: Verified Rust for low-level systems code",
       "https://github.com/secure-foundations/verus"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 17:13:22",
+      "https://news.ycombinator.com/item?id=43745038"
+    ],
+    [
+      "Handheld detector for all types of ionizing radiation improves radiation safety",
+      "https://phys.org/news/2025-04-handheld-detector-ionizing-safety.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15B Miles Away [video]",
       "https://www.youtube.com/watch?v=YcUycQoz0zg"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 18:44:27",
-      "https://news.ycombinator.com/item?id=43730790"
-    ],
-    [
-      "Moon Bugs (2018)",
-      "https://www.michalfarkas.net/moonbugs/"
     ]
   ]
 ]
