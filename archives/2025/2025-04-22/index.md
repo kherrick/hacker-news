@@ -12,6 +12,7 @@
 * [2025-04-22, 10:46:13](https://news.ycombinator.com/item?id=43760723) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
 * [2025-04-22, 10:37:17](https://news.ycombinator.com/item?id=43760686) - [RISC-V RVA23 Profile: A major milestone](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/)
 * [2025-04-22, 10:28:38](https://news.ycombinator.com/item?id=43760640) - [Marijuana hospital visits linked to dementia diagnosis within 5 years – a study](https://www.cnn.com/2025/04/20/health/marijuana-dementia-wellness/index.html)
+* [2025-04-22, 10:24:43](https://news.ycombinator.com/item?id=43760626) - [SerenityOS is a love letter to '90s user interfaces](https://serenityos.org/)
 * [2025-04-22, 10:24:37](https://news.ycombinator.com/item?id=43760625) - [Does RL Incentivize Reasoning in LLMs Beyond the Base Model?](https://limit-of-rlvr.github.io/)
 * [2025-04-22, 09:56:02](https://news.ycombinator.com/item?id=43760494) - [LHC 2025 First Collisions](https://op-webtools.web.cern.ch/vistar/)
 * [2025-04-22, 09:53:53](https://news.ycombinator.com/item?id=43760485) - [FreeDOS 1.4 Is Here](https://www.freedos.org/download/announce.html)
