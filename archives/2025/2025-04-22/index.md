@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 14:14:28](https://news.ycombinator.com/item?id=43762451) - [Using physics simulations to find targeting strategies in tenpin bowling](https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting)
 * [2025-04-22, 13:35:47](https://news.ycombinator.com/item?id=43761998) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
+* [2025-04-22, 13:26:54](https://news.ycombinator.com/item?id=43761866) - [Transforming Your PDFs for RAG with Open Source Using Docling, Milvus, and Feast](https://github.com/feast-dev/feast/tree/master/examples/rag-docling)
 * [2025-04-22, 13:04:03](https://news.ycombinator.com/item?id=43761610) - [Student loans in default to be referred to debt collection, Dept of Ed says](https://apnews.com/article/student-loan-debt-default-collection-fa6498bf519e0d50f2cd80166faef32a)
 * [2025-04-22, 12:35:12](https://news.ycombinator.com/item?id=43761387) - [Should We Respect LLMs? A Study on Influence of Prompt Politeness on Performance](https://arxiv.org/abs/2402.14531)
 * [2025-04-22, 12:00:06](https://news.ycombinator.com/item?id=43761119) - [GiveCampus (YC S15) Is Hiring Sr engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
 * [2025-04-22, 11:57:48](https://news.ycombinator.com/item?id=43761094) - [Offical XRP NPM package has been compromised and key stealing malware introduced](https://www.aikido.dev/blog/xrp-supplychain-attack-official-npm-package-infected-with-crypto-stealing-backdoor)
+* [2025-04-22, 11:22:30](https://news.ycombinator.com/item?id=43760875) - [In restaurants, We need a new way to signal that we're ready to pay](https://sebs.website/blog/in-restaurants-we-need-a-new-way-to-signal-payment)
 * [2025-04-22, 11:09:50](https://news.ycombinator.com/item?id=43760816) - [Quantum-assured magnetic navigation with higher positioning accuracy than GPS](https://arxiv.org/abs/2504.08167)
 * [2025-04-22, 11:04:55](https://news.ycombinator.com/item?id=43760801) - [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/)
 * [2025-04-22, 10:46:13](https://news.ycombinator.com/item?id=43760723) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
@@ -18,6 +21,7 @@
 * [2025-04-22, 10:24:37](https://news.ycombinator.com/item?id=43760625) - [Does RL Incentivize Reasoning in LLMs Beyond the Base Model?](https://limit-of-rlvr.github.io/)
 * [2025-04-22, 09:56:02](https://news.ycombinator.com/item?id=43760494) - [LHC 2025 First Collisions](https://op-webtools.web.cern.ch/vistar/)
 * [2025-04-22, 09:53:53](https://news.ycombinator.com/item?id=43760485) - [FreeDOS 1.4 Is Here](https://www.freedos.org/download/announce.html)
+* [2025-04-22, 09:02:42](https://news.ycombinator.com/item?id=43760262) - [The many ways tarrifs will hit your electronics](https://spectrum.ieee.org/tariffs-electronics-prices)
 * [2025-04-22, 08:22:41](https://news.ycombinator.com/item?id=43760099) - [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
 * [2025-04-22, 06:15:49](https://news.ycombinator.com/item?id=43759513) - [AI for Network Engineers: Understanding Flow, Flowlet, and Packet-Based LB](https://nwktimes.blogspot.com/2025/04/ai-for-network-engineers-understanding.html)
 * [2025-04-22, 05:59:28](https://news.ycombinator.com/item?id=43759436) - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)

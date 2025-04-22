@@ -24,6 +24,7 @@
 * [2025-04-19, 18:44:17](https://news.ycombinator.com/item?id=43738485) - [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
 * [2025-04-19, 18:42:46](https://news.ycombinator.com/item?id=43738478) - [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
 * [2025-04-19, 18:08:42](https://news.ycombinator.com/item?id=43738195) - [How to Force Your Kids to Do Math?](https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/)
+* [2025-04-19, 17:33:05](https://news.ycombinator.com/item?id=43737916) - [Libro: a command-line tool to track your books](https://github.com/mkaz/libro)
 * [2025-04-19, 17:09:51](https://news.ycombinator.com/item?id=43737733) - [OpenAI, Windsurf, and the Future of Work](https://subtle.so/openai-windsurf-and-the-future-of-ai-workspaces.html)
 * [2025-04-19, 17:00:27](https://news.ycombinator.com/item?id=43737661) - [Infisical (YC W23) Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 * [2025-04-19, 16:37:47](https://news.ycombinator.com/item?id=43737503) - [The 'freaky and unpleasant' world when video games leak into the physical realm](https://www.bbc.com/future/article/20250409-game-transfer-phenomenon-the-people-who-see-video-games-in-the-physical-world)
