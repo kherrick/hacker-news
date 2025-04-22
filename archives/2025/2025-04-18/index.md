@@ -9,6 +9,7 @@
 * [2025-04-18, 23:22:46](https://news.ycombinator.com/item?id=43732767) - [Native American names extend earthquake history of northeastern North America](https://phys.org/news/2025-04-native-american-earthquake-history-northeastern.html)
 * [2025-04-18, 22:59:43](https://news.ycombinator.com/item?id=43732632) - [We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15B Miles Away [video]](https://www.youtube.com/watch?v=YcUycQoz0zg)
 * [2025-04-18, 22:43:12](https://news.ycombinator.com/item?id=43732506) - [OpenAI's new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
+* [2025-04-18, 22:31:40](https://news.ycombinator.com/item?id=43732416) - [More details for London's new Roman Basilica museum revealed](https://www.ianvisits.co.uk/articles/more-details-for-londons-new-roman-basilica-museum-revealed-80470/)
 * [2025-04-18, 21:32:04](https://news.ycombinator.com/item?id=43732047) - [I passionately hate hype, especially the AI hype](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html)
 * [2025-04-18, 21:13:04](https://news.ycombinator.com/item?id=43731917) - [Show HN: Too Many Business Ideas? stop choosing, launch all of them, FAST&FREE](https://starterpilot.com/)
 * [2025-04-18, 20:52:33](https://news.ycombinator.com/item?id=43731761) - [Feds confuse the case of crypto Ponzi schemers](https://www.seattletimes.com/seattle-news/law-justice/estonia-or-prison-feds-confuse-the-case-of-crypto-ponzi-schemers/)
