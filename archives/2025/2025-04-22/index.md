@@ -12,4 +12,5 @@
 * [2025-04-22, 03:50:20](https://news.ycombinator.com/item?id=43758936) - [Forecaster reacts: METR's bombshell paper about AI acceleration](https://peterwildeford.substack.com/p/forecaster-reacts-metrs-bombshell)
 * [2025-04-22, 03:09:50](https://news.ycombinator.com/item?id=43758762) - [Flat origami is Turing complete (2023)](https://arxiv.org/abs/2309.07932)
 * [2025-04-22, 03:05:48](https://news.ycombinator.com/item?id=43758730) - [New ChatGPT Models Seem to Leave Watermarks on Text](https://www.rumidocs.com/newsroom/new-chatgpt-models-seem-to-leave-watermarks-on-text)
+* [2025-04-22, 01:14:05](https://news.ycombinator.com/item?id=43758211) - [How a Biofilm’s Strange Shape Emerges From Cellular Geometry](https://www.quantamagazine.org/how-a-biofilms-strange-shape-emerges-from-cellular-geometry-20250421/)
 * [2025-04-22, 00:25:12](https://news.ycombinator.com/item?id=43757916) - [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
