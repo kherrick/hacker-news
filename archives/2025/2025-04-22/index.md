@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 11:04:55](https://news.ycombinator.com/item?id=43760801) - [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/)
 * [2025-04-22, 10:37:17](https://news.ycombinator.com/item?id=43760686) - [RISC-V RVA23 Profile: A major milestone](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/)
+* [2025-04-22, 10:28:38](https://news.ycombinator.com/item?id=43760640) - [Marijuana hospital visits linked to dementia diagnosis within 5 years – a study](https://www.cnn.com/2025/04/20/health/marijuana-dementia-wellness/index.html)
 * [2025-04-22, 09:56:02](https://news.ycombinator.com/item?id=43760494) - [LHC 2025 First Collisions](https://op-webtools.web.cern.ch/vistar/)
+* [2025-04-22, 09:53:53](https://news.ycombinator.com/item?id=43760485) - [FreeDOS 1.4 Is Here](https://www.freedos.org/download/announce.html)
 * [2025-04-22, 08:22:41](https://news.ycombinator.com/item?id=43760099) - [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
 * [2025-04-22, 06:15:49](https://news.ycombinator.com/item?id=43759513) - [AI for Network Engineers: Understanding Flow, Flowlet, and Packet-Based LB](https://nwktimes.blogspot.com/2025/04/ai-for-network-engineers-understanding.html)
 * [2025-04-22, 05:59:28](https://news.ycombinator.com/item?id=43759436) - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
