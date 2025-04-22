@@ -21,6 +21,7 @@
 * [2025-04-21, 17:07:07](https://news.ycombinator.com/item?id=43754124) - [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
 * [2025-04-21, 16:16:51](https://news.ycombinator.com/item?id=43753651) - [A new form of verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
 * [2025-04-21, 14:36:14](https://news.ycombinator.com/item?id=43752492) - [LLM-powered tools amplify developer capabilities rather than replacing them](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
+* [2025-04-21, 14:15:17](https://news.ycombinator.com/item?id=43752262) - [AI assisted search-based research works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/)
 * [2025-04-21, 14:07:03](https://news.ycombinator.com/item?id=43752176) - [Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams](https://news.ycombinator.com/item?id=43752176)
 * [2025-04-21, 12:16:16](https://news.ycombinator.com/item?id=43751076) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 * [2025-04-20, 19:38:29](https://news.ycombinator.com/item?id=43745987) - [Verus: Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
@@ -29,7 +30,6 @@
 * [2025-04-19, 01:40:35](https://news.ycombinator.com/item?id=43733495) - [Can rotation solve the Hubble Puzzle?](https://academic.oup.com/mnras/article/538/4/3038/8090496?login=false)
 * [2025-04-18, 22:59:43](https://news.ycombinator.com/item?id=43732632) - [We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15B Miles Away [video]](https://www.youtube.com/watch?v=YcUycQoz0zg)
 * [2025-04-18, 18:44:27](https://news.ycombinator.com/item?id=43730790) - [Moon Bugs (2018)](https://www.michalfarkas.net/moonbugs/)
-* [2025-04-18, 11:46:09](https://news.ycombinator.com/item?id=43727158) - [Phase I/II trial of iPS-cell-derived dopaminergic cells for Parkinson's disease](https://www.nature.com/articles/s41586-025-08700-0)
 
 ## [Archives](archives/index.md)
 
