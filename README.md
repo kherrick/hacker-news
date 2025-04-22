@@ -22,12 +22,12 @@
 * [2025-04-22, 09:27:20](https://news.ycombinator.com/item?id=43760357) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
 * [2025-04-22, 04:27:40](https://news.ycombinator.com/item?id=43759073) - [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 * [2025-04-21, 22:07:49](https://news.ycombinator.com/item?id=43757037) - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
+* [2025-04-21, 18:29:04](https://news.ycombinator.com/item?id=43754953) - [Blog hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 * [2025-04-20, 19:38:29](https://news.ycombinator.com/item?id=43745987) - [Verus: Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
 * [2025-04-20, 17:13:22](https://news.ycombinator.com/item?id=43745038) - [Handheld detector for all types of ionizing radiation improves radiation safety](https://phys.org/news/2025-04-handheld-detector-ionizing-safety.html)
 * [2025-04-20, 00:20:16](https://news.ycombinator.com/item?id=43740543) - [Living with Lab Mice](https://nautil.us/living-with-lab-mice-1202657/)
 * [2025-04-19, 17:33:05](https://news.ycombinator.com/item?id=43737916) - [Libro: a command-line tool to track your books](https://github.com/mkaz/libro)
 * [2025-04-19, 12:25:58](https://news.ycombinator.com/item?id=43735960) - [A Real-Time Algorithm for Non-Convex Powered Descent Guidance [pdf]](https://depts.washington.edu/uwrainlab/wordpress/wp-content/uploads/2020/01/AIAA_SciTech_2020.pdf)
-* [2025-04-19, 07:59:05](https://news.ycombinator.com/item?id=43734938) - [Pike – a dynamic programming language with a syntax similar to Java and C](https://pike.lysator.liu.se/)
 * [2025-04-19, 07:02:43](https://news.ycombinator.com/item?id=43734751) - [WebAssembly: How to Allocate Your Allocator](https://nullprogram.com/blog/2025/04/19/)
 * [2025-04-18, 22:59:43](https://news.ycombinator.com/item?id=43732632) - [We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15B Miles Away [video]](https://www.youtube.com/watch?v=YcUycQoz0zg)
 
