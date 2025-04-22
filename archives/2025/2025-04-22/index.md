@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 18:08:42](https://news.ycombinator.com/item?id=43764783) - [The Truth about Atlantis (2019)](https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/)
+* [2025-04-22, 18:07:32](https://news.ycombinator.com/item?id=43764771) - [The complex origin story of domestic cats](https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html)
+* [2025-04-22, 17:57:08](https://news.ycombinator.com/item?id=43764705) - [I started a devblog about mixing SwiftUI and C++ to make a Twitch app](https://www.kulve.org/blog/tech_stack)
+* [2025-04-22, 17:53:34](https://news.ycombinator.com/item?id=43764677) - [Parcom: CL Parser Combinators](https://github.com/fosskers/parcom)
 * [2025-04-22, 17:29:31](https://news.ycombinator.com/item?id=43764439) - [π0.5: A VLA with open-world generalization](https://pi.website/blog/pi05)
 * [2025-04-22, 17:01:01](https://news.ycombinator.com/item?id=43764185) - [Recover (YC W21) Is Hiring](https://www.ycombinator.com/companies/recover/jobs/76dMle9-head-of-finance)
 * [2025-04-22, 16:51:24](https://news.ycombinator.com/item?id=43764122) - [Show HN: I built a Ruby gem that handles memoization with a ttl](https://github.com/mishalzaman/memo_ttl)
