@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-04-22, 15:24:53",
+      "https://news.ycombinator.com/item?id=43763291"
+    ],
+    [
+      "Surprises in Logic (2016)",
+      "https://math.ucr.edu/home/baez/surprises.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 15:17:23",
+      "https://news.ycombinator.com/item?id=43763225"
+    ],
+    [
+      "Supabase raises $200M Series D at $2B valuation",
+      "https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 14:59:53",
+      "https://news.ycombinator.com/item?id=43763026"
+    ],
+    [
+      "Launch HN: Infra.new (YC W23) – DevOps Copilot with Guardrails Built In",
+      "https://news.ycombinator.com/item?id=43763026"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 14:41:02",
+      "https://news.ycombinator.com/item?id=43762789"
+    ],
+    [
+      "Introduction to Graph Transformers",
+      "https://kumo.ai/research/introduction-to-graph-transformers/"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 14:14:28",
       "https://news.ycombinator.com/item?id=43762451"
     ],
     [
       "Using physics simulations to find targeting strategies in tenpin bowling",
       "https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 14:10:59",
+      "https://news.ycombinator.com/item?id=43762409"
+    ],
+    [
+      "I Open-Sourced My AI Toy Company That Runs on ESP32 and OpenAI Realtime API",
+      "https://github.com/akdeb/ElatoAI"
     ]
   ],
   [
@@ -51,16 +101,6 @@
   ],
   [
     [
-      "2025-04-22, 11:09:50",
-      "https://news.ycombinator.com/item?id=43760816"
-    ],
-    [
-      "Quantum-assured magnetic navigation with higher positioning accuracy than GPS",
-      "https://arxiv.org/abs/2504.08167"
-    ]
-  ],
-  [
-    [
       "2025-04-22, 10:24:43",
       "https://news.ycombinator.com/item?id=43760626"
     ],
@@ -77,26 +117,6 @@
     [
       "Does RL Incentivize Reasoning in LLMs Beyond the Base Model?",
       "https://limit-of-rlvr.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 09:02:42",
-      "https://news.ycombinator.com/item?id=43760262"
-    ],
-    [
-      "The many ways tarrifs will hit your electronics",
-      "https://spectrum.ieee.org/tariffs-electronics-prices"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 08:22:41",
-      "https://news.ycombinator.com/item?id=43760099"
-    ],
-    [
-      "Data Compression Nerds Hate This One Trick [video]",
-      "https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-04-21, 14:36:14",
-      "https://news.ycombinator.com/item?id=43752492"
-    ],
-    [
-      "LLM-powered tools amplify developer capabilities rather than replacing them",
-      "https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 14:07:03",
       "https://news.ycombinator.com/item?id=43752176"
     ],
@@ -277,16 +287,6 @@
     [
       "Pike – a dynamic programming language with a syntax similar to Java and C",
       "https://pike.lysator.liu.se/"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 01:40:35",
-      "https://news.ycombinator.com/item?id=43733495"
-    ],
-    [
-      "Can rotation solve the Hubble Puzzle?",
-      "https://academic.oup.com/mnras/article/538/4/3038/8090496?login=false"
     ]
   ],
   [
