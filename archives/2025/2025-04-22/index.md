@@ -6,6 +6,7 @@
 
 * [2025-04-22, 22:55:09](https://news.ycombinator.com/item?id=43767058) - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
 * [2025-04-22, 22:41:08](https://news.ycombinator.com/item?id=43766979) - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
+* [2025-04-22, 22:15:00](https://news.ycombinator.com/item?id=43766803) - [Google won't ditch third-party cookies in Chrome after all](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/)
 * [2025-04-22, 22:00:36](https://news.ycombinator.com/item?id=43766728) - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
 * [2025-04-22, 22:00:07](https://news.ycombinator.com/item?id=43766726) - [Oregon House passes bill to criminalize sharing AI-generated fake nude photos](https://oregoncapitalchronicle.com/2025/04/15/oregon-house-passes-bill-to-criminalize-sharing-ai-generated-fake-nude-photos/)
 * [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
