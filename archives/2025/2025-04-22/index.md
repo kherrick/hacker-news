@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 15:24:53](https://news.ycombinator.com/item?id=43763291) - [Surprises in Logic (2016)](https://math.ucr.edu/home/baez/surprises.html)
+* [2025-04-22, 15:17:23](https://news.ycombinator.com/item?id=43763225) - [Supabase raises $200M Series D at $2B valuation](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html)
+* [2025-04-22, 14:59:53](https://news.ycombinator.com/item?id=43763026) - [Launch HN: Infra.new (YC W23) – DevOps Copilot with Guardrails Built In](https://news.ycombinator.com/item?id=43763026)
+* [2025-04-22, 14:41:02](https://news.ycombinator.com/item?id=43762789) - [Introduction to Graph Transformers](https://kumo.ai/research/introduction-to-graph-transformers/)
 * [2025-04-22, 14:14:28](https://news.ycombinator.com/item?id=43762451) - [Using physics simulations to find targeting strategies in tenpin bowling](https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting)
+* [2025-04-22, 14:10:59](https://news.ycombinator.com/item?id=43762409) - [I Open-Sourced My AI Toy Company That Runs on ESP32 and OpenAI Realtime API](https://github.com/akdeb/ElatoAI)
 * [2025-04-22, 13:35:47](https://news.ycombinator.com/item?id=43761998) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
 * [2025-04-22, 13:34:27](https://news.ycombinator.com/item?id=43761976) - [Join the W3C Exploration Interest Group: where standards start](https://www.w3.org/blog/2025/join-the-w3c-exploration-interest-group-where-standards-start/)
 * [2025-04-22, 13:26:54](https://news.ycombinator.com/item?id=43761866) - [Transforming Your PDFs for RAG with Open Source Using Docling, Milvus, and Feast](https://github.com/feast-dev/feast/tree/master/examples/rag-docling)
