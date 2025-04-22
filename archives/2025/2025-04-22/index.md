@@ -6,7 +6,9 @@
 
 * [2025-04-22, 14:14:28](https://news.ycombinator.com/item?id=43762451) - [Using physics simulations to find targeting strategies in tenpin bowling](https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting)
 * [2025-04-22, 13:35:47](https://news.ycombinator.com/item?id=43761998) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
+* [2025-04-22, 13:34:27](https://news.ycombinator.com/item?id=43761976) - [Join the W3C Exploration Interest Group: where standards start](https://www.w3.org/blog/2025/join-the-w3c-exploration-interest-group-where-standards-start/)
 * [2025-04-22, 13:26:54](https://news.ycombinator.com/item?id=43761866) - [Transforming Your PDFs for RAG with Open Source Using Docling, Milvus, and Feast](https://github.com/feast-dev/feast/tree/master/examples/rag-docling)
+* [2025-04-22, 13:24:52](https://news.ycombinator.com/item?id=43761835) - [The Cold Start Problem: Using Network Effects to Scale Your Product – A Review](https://madhavajay.com/the-cold-start-problem-using-network-effects-to-scale-your-product/)
 * [2025-04-22, 13:04:03](https://news.ycombinator.com/item?id=43761610) - [Student loans in default to be referred to debt collection, Dept of Ed says](https://apnews.com/article/student-loan-debt-default-collection-fa6498bf519e0d50f2cd80166faef32a)
 * [2025-04-22, 12:35:12](https://news.ycombinator.com/item?id=43761387) - [Should We Respect LLMs? A Study on Influence of Prompt Politeness on Performance](https://arxiv.org/abs/2402.14531)
 * [2025-04-22, 12:00:06](https://news.ycombinator.com/item?id=43761119) - [GiveCampus (YC S15) Is Hiring Sr engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
