@@ -129,6 +129,126 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43763814">
+          <h3>
+            <a class="item" href="https://github.com/morphik-org/morphik-core"
+              >Show HN: Morphik – Open-source RAG that understands PDF images,
+              runs locally</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-22 @ 16:18:41</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43763814"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We took an invention disclosure PDF (<a
+                  href="https://drive.google.com/file/d/1ySzQgbNZkC5dPLtE3pnnVL2rW_9aTeuG/view?usp=sharing"
+                  >https://drive.google.com/file/d/1ySzQgbNZkC5dPLtE3pnnVL2rW_9...</a
+                >) containing an IRR‑vs‑frequency graph and asked GPT “From the
+                graph, at what frequency is the IRR maximized?”. We originally
+                tried this on gpt-4o, but while writing this used the new
+                natively multimodal model o4‑mini‑high. After a 30‑second
+                thinking pause, it asked for clarifications, then churned out
+                buggy code, pulled data from the wrong page, and still couldn’t
+                answer the question. We wrote up the full story with screenshots
+                here:
+                <a
+                  href="https://docs.morphik.ai/blogs/gpt-vs-morphik-multimodal"
+                  >https://docs.morphik.ai/blogs/gpt-vs-morphik-multimodal</a
+                >.
+              </p>
+              <p>We got frustrated enough to try fixing it ourselves.</p>
+              <p>
+                We built Morphik to do multimodal retrieval over documents like
+                PDFs, where images and diagrams matter as much as the text.
+              </p>
+              <p>
+                To do this, we use Colpali-style embeddings, which treat each
+                document page as an image and generate multi-vector
+                representations. These embeddings capture layout, typography,
+                and visual context, allowing retrieval to get a whole table or
+                schematic, not just nearby tokens. Along with vector search,
+                this could now retrieve exact pages with relevant diagrams and
+                pass them as images to the LLM to get relevant answers. It’s
+                able to answer the question with an 8B llama 3.1 vision running
+                locally!
+              </p>
+              <p>
+                Early pharma testers hit our system with queries like "Which
+                EGFR inhibitors at 50 mg showed ≥ 30% tumor reduction?" We
+                correctly returned the right tables and plots, but still hit a
+                bottleneck, we weren’t able to join the dots across multiple
+                reports. So we built a knowledge graph: we tag entities in both
+                text and images, normalize synonyms (Erlotinib → EGFR
+                inhibitor), infer relations (e.g. administered_at,
+                yields_reduction), and stitch everything into a graph. Now a
+                single query could traverse that graph across documents and
+                surface a coherent, cross‑document answer along with the correct
+                pages as images.
+              </p>
+              <p>
+                To illustrate that, and just for fun, we built a graph of 100
+                Paul Graham’s essays here:
+                <a href="https://pggraph.streamlit.app/"
+                  >https://pggraph.streamlit.app/</a
+                >
+                You can search for various nodes, (eg. startup, sam altman, paul
+                graham and see corresponding connections). In our system, we
+                create graphs and store the relevant text chunks along with the
+                entities, so on querying, we can extract the relevant entity, do
+                a search on the graph and pull in the text chunks of all
+                connected nodes, improving cross document queries.
+              </p>
+              <p>
+                For longer or multi-turn queries, we added persistent KV
+                caching, which stores intermediate key-value states from
+                transformer attention layers. Instead of recomputing attention
+                from scratch every time, we reuse prior layers, speeding up
+                repeated queries and letting us handle much longer context
+                windows.
+              </p>
+              <p>
+                We’re open‑source under the MIT Expat license:
+                <a href="https://github.com/morphik-org/morphik-core"
+                  >https://github.com/morphik-org/morphik-core</a
+                >
+              </p>
+              <p>
+                Would love to hear your RAG horror stories, what worked, what
+                didn’t and any feedback on Morphik. We’re here for it.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="43763778">
+          <h3>
+            <a
+              class="item"
+              href="http://bcmullins.github.io/research-from-1825/"
+              >An Utterly Incomplete Look at Research from 1825</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-22 @ 16:13:59</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43763778"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43763688">
           <h3>
             <a
@@ -142,11 +262,11 @@
             <h4>
               <span>2025-04-22 @ 16:03:32</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763688"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -163,7 +283,7 @@
             <h4>
               <span>2025-04-22 @ 15:55:12</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763614"
                   >Comments</a
@@ -182,11 +302,11 @@
             <h4>
               <span>2025-04-22 @ 15:24:53</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763291"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -203,11 +323,11 @@
             <h4>
               <span>2025-04-22 @ 15:17:23</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763225"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -224,11 +344,11 @@
             <h4>
               <span>2025-04-22 @ 15:17:21</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763223"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -244,11 +364,11 @@
             <h4>
               <span>2025-04-22 @ 14:59:53</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763026"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
             <div class="text">
@@ -352,11 +472,11 @@
             <h4>
               <span>2025-04-22 @ 14:10:59</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43762409"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -371,7 +491,7 @@
             <h4>
               <span>2025-04-22 @ 13:35:47</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761998"
                   >Comments</a
@@ -392,7 +512,7 @@
             <h4>
               <span>2025-04-22 @ 13:34:27</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761976"
                   >Comments</a
@@ -414,7 +534,7 @@
             <h4>
               <span>2025-04-22 @ 13:24:52</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761835"
                   >Comments</a
@@ -435,11 +555,11 @@
             <h4>
               <span>2025-04-22 @ 13:06:30</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761633"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -470,11 +590,11 @@
             <h4>
               <span>2025-04-22 @ 10:24:43</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43760626"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -489,33 +609,11 @@
             <h4>
               <span>2025-04-22 @ 10:24:37</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43760625"
                   >Comments</a
                 ><span class="descendants">: 18</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43759513">
-          <h3>
-            <a
-              class="item"
-              href="https://nwktimes.blogspot.com/2025/04/ai-for-network-engineers-understanding.html"
-              >AI for Network Engineers: Understanding Flow, Flowlet, and
-              Packet-Based LB</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-22 @ 06:15:49</span
-              ><span class="points-container"
-                >Points: <span class="points">47</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43759513"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -533,11 +631,11 @@
             <h4>
               <span>2025-04-22 @ 05:59:28</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43759436"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -554,11 +652,11 @@
             <h4>
               <span>2025-04-22 @ 04:27:40</span
               ><span class="points-container"
-                >Points: <span class="points">293</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43759073"
                   >Comments</a
-                ><span class="descendants">: 158</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
           </section>
@@ -582,27 +680,6 @@
             </h4>
           </section>
         </section>
-        <section id="43757341">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/maurymarkowitz/101-BASIC-Computer-Games"
-              >101 BASIC Computer Games</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-21 @ 22:47:38</span
-              ><span class="points-container"
-                >Points: <span class="points">156</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43757341"
-                  >Comments</a
-                ><span class="descendants">: 84</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43757037">
           <h3>
             <a class="item" href="https://github.com/ericjenott/Evertop"
@@ -613,7 +690,7 @@
             <h4>
               <span>2025-04-21 @ 22:07:49</span
               ><span class="points-container"
-                >Points: <span class="points">499</span></span
+                >Points: <span class="points">501</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43757037"
                   >Comments</a
@@ -634,7 +711,7 @@
             <h4>
               <span>2025-04-21 @ 18:29:04</span
               ><span class="points-container"
-                >Points: <span class="points">568</span></span
+                >Points: <span class="points">570</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43754953"
                   >Comments</a
@@ -654,11 +731,11 @@
             <h4>
               <span>2025-04-21 @ 17:07:07</span
               ><span class="points-container"
-                >Points: <span class="points">581</span></span
+                >Points: <span class="points">583</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43754124"
                   >Comments</a
-                ><span class="descendants">: 169</span></span
+                ><span class="descendants">: 170</span></span
               >
             </h4>
           </section>
@@ -673,7 +750,7 @@
             <h4>
               <span>2025-04-20 @ 19:38:29</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43745987"
                   >Comments</a
@@ -716,11 +793,11 @@
             <h4>
               <span>2025-04-20 @ 00:20:16</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43740543"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -735,7 +812,7 @@
             <h4>
               <span>2025-04-19 @ 17:33:05</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43737916"
                   >Comments</a
@@ -777,11 +854,11 @@
             <h4>
               <span>2025-04-19 @ 07:59:05</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43734938"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -797,7 +874,7 @@
             <h4>
               <span>2025-04-18 @ 22:59:43</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43732632"
                   >Comments</a
