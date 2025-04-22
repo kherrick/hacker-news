@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-22, 19:21:05](https://news.ycombinator.com/item?id=43765371) - [A study of lightning fatalities inside buildings while using smartphones [pdf] (2024)](https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf)
+* [2025-04-22, 19:16:53](https://news.ycombinator.com/item?id=43765332) - [Everyday life improvements since the 90s (2022)](https://gwern.net/improvement)
+* [2025-04-22, 19:02:04](https://news.ycombinator.com/item?id=43765207) - [Can a single AI model advance any field of science?](https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai)
 * [2025-04-22, 18:28:20](https://news.ycombinator.com/item?id=43764915) - [Ping, You've Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
 * [2025-04-22, 18:08:42](https://news.ycombinator.com/item?id=43764783) - [The Truth about Atlantis (2019)](https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/)
 * [2025-04-22, 18:07:32](https://news.ycombinator.com/item?id=43764771) - [The complex origin story of domestic cats](https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html)
@@ -19,8 +21,6 @@
 * [2025-04-22, 15:17:23](https://news.ycombinator.com/item?id=43763225) - [Supabase raises $200M Series D at $2B valuation](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html)
 * [2025-04-22, 15:17:21](https://news.ycombinator.com/item?id=43763223) - [David Tong Lectures on Theoretical Physics](https://www.damtp.cam.ac.uk/user/tong/books.html)
 * [2025-04-22, 14:59:53](https://news.ycombinator.com/item?id=43763026) - [Launch HN: Infra.new (YC W23) – DevOps copilot with guardrails built in](https://news.ycombinator.com/item?id=43763026)
-* [2025-04-22, 14:14:28](https://news.ycombinator.com/item?id=43762451) - [Using physics simulations to find targeting strategies in tenpin bowling](https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting)
-* [2025-04-22, 14:10:59](https://news.ycombinator.com/item?id=43762409) - [Show HN: I open-sourced my AI toy company that runs on ESP32 and OpenAI realtime](https://github.com/akdeb/ElatoAI)
 * [2025-04-22, 13:35:47](https://news.ycombinator.com/item?id=43761998) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
 * [2025-04-22, 13:34:27](https://news.ycombinator.com/item?id=43761976) - [Join the W3C Exploration Interest Group: where standards start](https://www.w3.org/blog/2025/join-the-w3c-exploration-interest-group-where-standards-start/)
 * [2025-04-22, 13:06:30](https://news.ycombinator.com/item?id=43761633) - [The raccoons who made computer magazine ads great](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/)
