@@ -25,6 +25,7 @@
 * [2025-04-20, 17:48:40](https://news.ycombinator.com/item?id=43745261) - [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
 * [2025-04-20, 17:29:28](https://news.ycombinator.com/item?id=43745141) - [The Movie Mistake Mystery from \"Revenge of the Sith\"](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
 * [2025-04-20, 17:13:32](https://news.ycombinator.com/item?id=43745040) - [Signal Carnival](https://www.quiss.org/signal_carnival/)
+* [2025-04-20, 17:13:22](https://news.ycombinator.com/item?id=43745038) - [Handheld detector for all types of ionizing radiation improves radiation safety](https://phys.org/news/2025-04-handheld-detector-ionizing-safety.html)
 * [2025-04-20, 17:01:50](https://news.ycombinator.com/item?id=43744980) - [They Were Deactivated from Delivering. Their Finances Were Devastated.](https://www.nytimes.com/2025/03/29/business/uber-lyft-doordash-deactivation.html)
 * [2025-04-20, 17:00:51](https://news.ycombinator.com/item?id=43744969) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-04-20, 16:04:46](https://news.ycombinator.com/item?id=43744636) - [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886)
