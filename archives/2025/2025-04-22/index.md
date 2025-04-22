@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 17:01:01](https://news.ycombinator.com/item?id=43764185) - [Recover (YC W21) Is Hiring](https://www.ycombinator.com/companies/recover/jobs/76dMle9-head-of-finance)
 * [2025-04-22, 16:51:24](https://news.ycombinator.com/item?id=43764122) - [Show HN: I built a Ruby gem that handles memoization with a ttl](https://github.com/mishalzaman/memo_ttl)
 * [2025-04-22, 16:49:55](https://news.ycombinator.com/item?id=43764101) - [Are polynomial features the root of all evil? (2024)](https://alexshtf.github.io/2024/01/21/Bernstein.html)
 * [2025-04-22, 16:46:19](https://news.ycombinator.com/item?id=43764076) - [I should have loved biology too](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too)
