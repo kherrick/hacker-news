@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-04-22, 12:35:12",
+      "https://news.ycombinator.com/item?id=43761387"
+    ],
+    [
+      "Should We Respect LLMs? A Study on Influence of Prompt Politeness on Performance",
+      "https://arxiv.org/abs/2402.14531"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 12:00:06",
       "https://news.ycombinator.com/item?id=43761119"
     ],
     [
       "GiveCampus (YC S15) Is Hiring Sr engineers passionate about education",
       "https://givecampus.breezy.hr/p/0c4a97691730"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 11:57:48",
+      "https://news.ycombinator.com/item?id=43761094"
+    ],
+    [
+      "Offical XRP NPM package has been compromised and key stealing malware introduced",
+      "https://www.aikido.dev/blog/xrp-supplychain-attack-official-npm-package-infected-with-crypto-stealing-backdoor"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 11:09:50",
+      "https://news.ycombinator.com/item?id=43760816"
+    ],
+    [
+      "Quantum-assured magnetic navigation with higher positioning accuracy than GPS",
+      "https://arxiv.org/abs/2504.08167"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "RISC-V RVA23 Profile: A major milestone",
       "https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 10:28:38",
-      "https://news.ycombinator.com/item?id=43760640"
-    ],
-    [
-      "Marijuana hospital visits linked to dementia diagnosis within 5 years – a study",
-      "https://www.cnn.com/2025/04/20/health/marijuana-dementia-wellness/index.html"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Data Compression Nerds Hate This One Trick [video]",
       "https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 06:15:49",
-      "https://news.ycombinator.com/item?id=43759513"
-    ],
-    [
-      "AI for Network Engineers: Understanding Flow, Flowlet, and Packet-Based LB",
-      "https://nwktimes.blogspot.com/2025/04/ai-for-network-engineers-understanding.html"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-04-21, 12:16:16",
-      "https://news.ycombinator.com/item?id=43751076"
-    ],
-    [
-      "Pipelining might be my favorite programming language feature",
-      "https://herecomesthemoon.net/2025/04/pipelining/"
-    ]
-  ],
-  [
-    [
       "2025-04-20, 19:38:29",
       "https://news.ycombinator.com/item?id=43745987"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2025-04-19, 12:25:58",
+      "https://news.ycombinator.com/item?id=43735960"
+    ],
+    [
+      "A Real-Time Algorithm for Non-Convex Powered Descent Guidance [pdf]",
+      "https://depts.washington.edu/uwrainlab/wordpress/wp-content/uploads/2020/01/AIAA_SciTech_2020.pdf"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 06:48:21",
       "https://news.ycombinator.com/item?id=43734706"
     ],
     [
       "Synology Lost the Plot with Hard Drive Locking Move",
       "https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 02:20:06",
-      "https://news.ycombinator.com/item?id=43733683"
-    ],
-    [
-      "CaMeL: Defeating Prompt Injections by Design",
-      "https://arxiv.org/abs/2503.18813"
     ]
   ],
   [
