@@ -2,6 +2,7 @@
 
 * [2025-04-22, 15:24:53](https://news.ycombinator.com/item?id=43763291) - [Surprises in Logic (2016)](https://math.ucr.edu/home/baez/surprises.html)
 * [2025-04-22, 15:17:23](https://news.ycombinator.com/item?id=43763225) - [Supabase raises $200M Series D at $2B valuation](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html)
+* [2025-04-22, 15:17:21](https://news.ycombinator.com/item?id=43763223) - [David Tong Lectures on Theoretical Physics](https://www.damtp.cam.ac.uk/user/tong/books.html)
 * [2025-04-22, 14:59:53](https://news.ycombinator.com/item?id=43763026) - [Launch HN: Infra.new (YC W23) – DevOps Copilot with Guardrails Built In](https://news.ycombinator.com/item?id=43763026)
 * [2025-04-22, 14:41:02](https://news.ycombinator.com/item?id=43762789) - [Introduction to Graph Transformers](https://kumo.ai/research/introduction-to-graph-transformers/)
 * [2025-04-22, 14:14:28](https://news.ycombinator.com/item?id=43762451) - [Using physics simulations to find targeting strategies in tenpin bowling](https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting)
@@ -20,7 +21,6 @@
 * [2025-04-21, 22:47:38](https://news.ycombinator.com/item?id=43757341) - [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
 * [2025-04-21, 22:07:49](https://news.ycombinator.com/item?id=43757037) - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
 * [2025-04-21, 21:46:32](https://news.ycombinator.com/item?id=43756871) - [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
-* [2025-04-21, 18:36:23](https://news.ycombinator.com/item?id=43755017) - [Astronomers confirm the existence of a lone black hole](https://phys.org/news/2025-04-astronomers-lone-black-hole.html)
 * [2025-04-21, 18:29:04](https://news.ycombinator.com/item?id=43754953) - [Blog hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 * [2025-04-21, 17:07:07](https://news.ycombinator.com/item?id=43754124) - [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
 * [2025-04-21, 14:07:03](https://news.ycombinator.com/item?id=43752176) - [Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams](https://news.ycombinator.com/item?id=43752176)
