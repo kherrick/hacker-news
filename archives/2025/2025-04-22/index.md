@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 20:16:04](https://news.ycombinator.com/item?id=43765832) - [Classic Computer Replicas](https://obsolescence.dev/index.html)
 * [2025-04-22, 20:13:30](https://news.ycombinator.com/item?id=43765815) - [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
 * [2025-04-22, 20:06:39](https://news.ycombinator.com/item?id=43765748) - [Show HN: Dosidicus – A digital pet with a simple neural network](https://github.com/ViciousSquid/Dosidicus)
 * [2025-04-22, 19:21:05](https://news.ycombinator.com/item?id=43765371) - [A study of lightning fatalities inside buildings while using smartphones [pdf] (2024)](https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf)
