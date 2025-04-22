@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-04-22, 17:57:08",
+      "https://news.ycombinator.com/item?id=43764705"
+    ],
+    [
+      "I started a devblog about mixing SwiftUI and C++ to make a Twitch app",
+      "https://www.kulve.org/blog/tech_stack"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 17:53:34",
       "https://news.ycombinator.com/item?id=43764677"
     ],
@@ -237,16 +247,6 @@
     [
       "Detecting if an expression is constant in C",
       "https://nrk.neocities.org/articles/c-constexpr-macro"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 22:07:49",
-      "https://news.ycombinator.com/item?id=43757037"
-    ],
-    [
-      "Evertop: E-ink IBM XT clone with 100+ hours of battery life",
-      "https://github.com/ericjenott/Evertop"
     ]
   ],
   [
