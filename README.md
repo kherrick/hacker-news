@@ -2,15 +2,15 @@
 
 * [2025-04-22, 04:07:04](https://news.ycombinator.com/item?id=43758999) - [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
 * [2025-04-22, 03:57:47](https://news.ycombinator.com/item?id=43758965) - ['World War Zoos' Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
+* [2025-04-22, 03:50:20](https://news.ycombinator.com/item?id=43758936) - [Forecaster reacts: METR's bombshell paper about AI acceleration](https://peterwildeford.substack.com/p/forecaster-reacts-metrs-bombshell)
+* [2025-04-22, 03:05:48](https://news.ycombinator.com/item?id=43758730) - [New ChatGPT Models Seem to Leave Watermarks on Text](https://www.rumidocs.com/newsroom/new-chatgpt-models-seem-to-leave-watermarks-on-text)
 * [2025-04-22, 00:25:12](https://news.ycombinator.com/item?id=43757916) - [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
 * [2025-04-21, 22:47:38](https://news.ycombinator.com/item?id=43757341) - [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
 * [2025-04-21, 22:07:49](https://news.ycombinator.com/item?id=43757037) - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
-* [2025-04-21, 21:52:29](https://news.ycombinator.com/item?id=43756926) - [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
 * [2025-04-21, 21:46:32](https://news.ycombinator.com/item?id=43756871) - [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
 * [2025-04-21, 21:31:40](https://news.ycombinator.com/item?id=43756723) - [Ultra-precision formation flying demonstration for space-based interferometry](https://arxiv.org/abs/2504.05001)
 * [2025-04-21, 21:00:53](https://news.ycombinator.com/item?id=43756417) - [Cekura (Formerly Vocera) (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer)
 * [2025-04-21, 20:49:20](https://news.ycombinator.com/item?id=43756309) - [Visiting Us](https://www.epic.com/visiting/)
-* [2025-04-21, 19:05:23](https://news.ycombinator.com/item?id=43755321) - [An update to our pricing](https://windsurf.com/blog/pricing-v2)
 * [2025-04-21, 19:01:55](https://news.ycombinator.com/item?id=43755286) - [A M.2 HDMI capture card](https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/)
 * [2025-04-21, 18:36:23](https://news.ycombinator.com/item?id=43755017) - [Astronomers confirm the existence of a lone black hole](https://phys.org/news/2025-04-astronomers-lone-black-hole.html)
 * [2025-04-21, 18:29:04](https://news.ycombinator.com/item?id=43754953) - [Blog hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
@@ -29,7 +29,7 @@
 * [2025-04-19, 12:49:53](https://news.ycombinator.com/item?id=43736061) - [A new record for California's highest tree](https://www.sciencedaily.com/releases/2025/04/250417145019.htm)
 * [2025-04-19, 11:43:08](https://news.ycombinator.com/item?id=43735764) - [An Update on Pahole](https://lwn.net/Articles/1016243/)
 * [2025-04-19, 06:48:21](https://news.ycombinator.com/item?id=43734706) - [Synology Lost the Plot with Hard Drive Locking Move](https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/)
-* [2025-04-19, 01:34:12](https://news.ycombinator.com/item?id=43733468) - [The Labyrinth of Villa Pisani in Stra, an Intricate Pathway](https://www.finestresullarte.info/en/travel/the-labyrinth-of-villa-pisani-in-stra-suggestions-of-d-annunzio-and-an-intricate-pathway)
+* [2025-04-19, 02:20:06](https://news.ycombinator.com/item?id=43733683) - [CaMeL: Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
 
 ## [Archives](archives/index.md)
 

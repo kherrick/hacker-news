@@ -68,6 +68,7 @@
 * [2025-04-19, 05:24:37](https://news.ycombinator.com/item?id=43734407) - [Syncing Keyhive](https://www.inkandswitch.com/keyhive/notebook/05/)
 * [2025-04-19, 05:05:45](https://news.ycombinator.com/item?id=43734342) - [How to Run Python in Production](https://ashishb.net/programming/python-in-production-2/)
 * [2025-04-19, 04:23:59](https://news.ycombinator.com/item?id=43734195) - [Serverless Is a Scam](https://sliplane.io/blog/serverless-is-a-scam)
+* [2025-04-19, 02:20:06](https://news.ycombinator.com/item?id=43733683) - [CaMeL: Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
 * [2025-04-19, 02:10:52](https://news.ycombinator.com/item?id=43733636) - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
 * [2025-04-19, 01:52:55](https://news.ycombinator.com/item?id=43733553) - [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 * [2025-04-19, 01:34:12](https://news.ycombinator.com/item?id=43733468) - [The Labyrinth of Villa Pisani in Stra, an Intricate Pathway](https://www.finestresullarte.info/en/travel/the-labyrinth-of-villa-pisani-in-stra-suggestions-of-d-annunzio-and-an-intricate-pathway)
