@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-22, 08:22:41](https://news.ycombinator.com/item?id=43760099) - [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
 * [2025-04-22, 05:59:28](https://news.ycombinator.com/item?id=43759436) - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
 * [2025-04-22, 04:27:40](https://news.ycombinator.com/item?id=43759073) - [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 * [2025-04-22, 04:07:04](https://news.ycombinator.com/item?id=43758999) - [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
@@ -22,7 +23,6 @@
 * [2025-04-21, 14:15:17](https://news.ycombinator.com/item?id=43752262) - [AI assisted search-based research works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/)
 * [2025-04-21, 14:07:03](https://news.ycombinator.com/item?id=43752176) - [Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams](https://news.ycombinator.com/item?id=43752176)
 * [2025-04-21, 12:16:16](https://news.ycombinator.com/item?id=43751076) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
-* [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
 * [2025-04-20, 19:38:29](https://news.ycombinator.com/item?id=43745987) - [Verus: Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
 * [2025-04-19, 16:37:47](https://news.ycombinator.com/item?id=43737503) - [The 'freaky and unpleasant' world when video games leak into the physical realm](https://www.bbc.com/future/article/20250409-game-transfer-phenomenon-the-people-who-see-video-games-in-the-physical-world)
 * [2025-04-19, 11:43:08](https://news.ycombinator.com/item?id=43735764) - [An Update on Pahole](https://lwn.net/Articles/1016243/)

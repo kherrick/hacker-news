@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 08:22:41](https://news.ycombinator.com/item?id=43760099) - [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
 * [2025-04-22, 06:15:49](https://news.ycombinator.com/item?id=43759513) - [AI for Network Engineers: Understanding Flow, Flowlet, and Packet-Based LB](https://nwktimes.blogspot.com/2025/04/ai-for-network-engineers-understanding.html)
 * [2025-04-22, 05:59:28](https://news.ycombinator.com/item?id=43759436) - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
 * [2025-04-22, 05:24:54](https://news.ycombinator.com/item?id=43759287) - [The Rise of Luxury Doomsday Prepping](https://www.wsj.com/us-news/the-rise-of-luxury-doomsday-prepping-bd34e901)
