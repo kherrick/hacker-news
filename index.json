@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-22, 16:03:32",
+      "https://news.ycombinator.com/item?id=43763688"
+    ],
+    [
+      "ClickHouse gets lazier (and faster): Introducing lazy materialization",
+      "https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 15:55:12",
+      "https://news.ycombinator.com/item?id=43763614"
+    ],
+    [
+      "Algebraic Semantics for Machine Knitting",
+      "https://uwplse.org/2025/03/31/Algebraic-Knitting.html"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 15:24:53",
       "https://news.ycombinator.com/item?id=43763291"
     ],
@@ -35,18 +55,8 @@
       "https://news.ycombinator.com/item?id=43763026"
     ],
     [
-      "Launch HN: Infra.new (YC W23) – DevOps Copilot with Guardrails Built In",
+      "Launch HN: Infra.new (YC W23) – DevOps copilot with guardrails built in",
       "https://news.ycombinator.com/item?id=43763026"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 14:41:02",
-      "https://news.ycombinator.com/item?id=43762789"
-    ],
-    [
-      "Introduction to Graph Transformers",
-      "https://kumo.ai/research/introduction-to-graph-transformers/"
     ]
   ],
   [
@@ -97,6 +107,16 @@
     [
       "The Cold Start Problem: Using Network Effects to Scale Your Product – A Review",
       "https://madhavajay.com/the-cold-start-problem-using-network-effects-to-scale-your-product/"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 13:06:30",
+      "https://news.ycombinator.com/item?id=43761633"
+    ],
+    [
+      "The raccoons who made computer magazine ads great",
+      "https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-04-22, 00:25:12",
-      "https://news.ycombinator.com/item?id=43757916"
-    ],
-    [
-      "Prolog Adventure Game",
-      "https://github.com/stefanrodrigues2/Prolog-Adventure-game"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 22:47:38",
       "https://news.ycombinator.com/item?id=43757341"
     ],
@@ -197,16 +207,6 @@
     [
       "Evertop: E-ink IBM XT clone with 100+ hours of battery life",
       "https://github.com/ericjenott/Evertop"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 21:46:32",
-      "https://news.ycombinator.com/item?id=43756871"
-    ],
-    [
-      "Cheating the Reaper in Go",
-      "https://mcyoung.xyz/2025/04/21/go-arenas/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-04-21, 14:07:03",
-      "https://news.ycombinator.com/item?id=43752176"
-    ],
-    [
-      "Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams",
-      "https://news.ycombinator.com/item?id=43752176"
-    ]
-  ],
-  [
-    [
       "2025-04-20, 19:38:29",
       "https://news.ycombinator.com/item?id=43745987"
     ],
@@ -257,6 +247,16 @@
     [
       "Handheld detector for all types of ionizing radiation improves radiation safety",
       "https://phys.org/news/2025-04-handheld-detector-ionizing-safety.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 00:20:16",
+      "https://news.ycombinator.com/item?id=43740543"
+    ],
+    [
+      "Living with Lab Mice",
+      "https://nautil.us/living-with-lab-mice-1202657/"
     ]
   ],
   [
