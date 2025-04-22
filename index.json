@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-22, 04:43:22",
-      "https://news.ycombinator.com/item?id=43759130"
-    ],
-    [
-      "A weird phrase is plaguing scientific papers",
-      "https://theconversation.com/a-weird-phrase-is-plaguing-scientific-papers-and-we-traced-it-back-to-a-glitch-in-ai-training-data-254463"
-    ]
-  ],
-  [
-    [
       "2025-04-22, 04:27:40",
       "https://news.ycombinator.com/item?id=43759073"
     ],
@@ -257,6 +247,16 @@
     [
       "Verus: Verified Rust for low-level systems code",
       "https://github.com/secure-foundations/verus"
+    ]
+  ],
+  [
+    [
+      "2025-04-19, 13:12:26",
+      "https://news.ycombinator.com/item?id=43736172"
+    ],
+    [
+      "Dumb statistical models, always making people look bad",
+      "https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/"
     ]
   ],
   [
