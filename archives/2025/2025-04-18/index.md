@@ -6,6 +6,7 @@
 
 * [2025-04-18, 23:48:23](https://news.ycombinator.com/item?id=43732906) - [Why R the Critical Value and Emergent Behavior of Large Language Models Fake?](https://cacm.acm.org/blogcacm/why-are-the-critical-value-and-emergent-behavior-of-large-language-models-llms-fake/)
 * [2025-04-18, 23:29:04](https://news.ycombinator.com/item?id=43732805) - [Hypertext TV](https://hypertext.tv/)
+* [2025-04-18, 22:59:43](https://news.ycombinator.com/item?id=43732632) - [We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15B Miles Away [video]](https://www.youtube.com/watch?v=YcUycQoz0zg)
 * [2025-04-18, 22:43:12](https://news.ycombinator.com/item?id=43732506) - [OpenAI's new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
 * [2025-04-18, 21:32:04](https://news.ycombinator.com/item?id=43732047) - [I passionately hate hype, especially the AI hype](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html)
 * [2025-04-18, 21:13:04](https://news.ycombinator.com/item?id=43731917) - [Show HN: Too Many Business Ideas? stop choosing, launch all of them, FAST&FREE](https://starterpilot.com/)

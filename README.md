@@ -5,7 +5,6 @@
 * [2025-04-22, 04:27:40](https://news.ycombinator.com/item?id=43759073) - [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 * [2025-04-22, 04:07:04](https://news.ycombinator.com/item?id=43758999) - [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
 * [2025-04-22, 03:57:47](https://news.ycombinator.com/item?id=43758965) - ['World War Zoos' Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
-* [2025-04-22, 03:09:50](https://news.ycombinator.com/item?id=43758762) - [Flat origami is Turing complete (2023)](https://arxiv.org/abs/2309.07932)
 * [2025-04-22, 00:25:12](https://news.ycombinator.com/item?id=43757916) - [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
 * [2025-04-21, 22:47:38](https://news.ycombinator.com/item?id=43757341) - [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
 * [2025-04-21, 22:07:49](https://news.ycombinator.com/item?id=43757037) - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
@@ -28,6 +27,7 @@
 * [2025-04-19, 11:43:08](https://news.ycombinator.com/item?id=43735764) - [An Update on Pahole](https://lwn.net/Articles/1016243/)
 * [2025-04-19, 06:48:21](https://news.ycombinator.com/item?id=43734706) - [Synology Lost the Plot with Hard Drive Locking Move](https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/)
 * [2025-04-19, 02:20:06](https://news.ycombinator.com/item?id=43733683) - [CaMeL: Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
+* [2025-04-18, 22:59:43](https://news.ycombinator.com/item?id=43732632) - [We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15B Miles Away [video]](https://www.youtube.com/watch?v=YcUycQoz0zg)
 * [2025-04-18, 18:44:27](https://news.ycombinator.com/item?id=43730790) - [Moon Bugs (2018)](https://www.michalfarkas.net/moonbugs/)
 * [2025-04-18, 11:46:09](https://news.ycombinator.com/item?id=43727158) - [Phase I/II trial of iPS-cell-derived dopaminergic cells for Parkinson's disease](https://www.nature.com/articles/s41586-025-08700-0)
 
