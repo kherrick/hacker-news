@@ -15,6 +15,7 @@
 * [2025-04-20, 20:50:07](https://news.ycombinator.com/item?id=43746433) - [How I use Kate editor](https://akselmo.dev/posts/how-i-use-kate-editor/)
 * [2025-04-20, 20:13:19](https://news.ycombinator.com/item?id=43746229) - [Better Error Handling](https://meowbark.dev/Better-error-handling)
 * [2025-04-20, 19:41:29](https://news.ycombinator.com/item?id=43746017) - [Falsify: Hypothesis-Inspired Shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
+* [2025-04-20, 19:38:29](https://news.ycombinator.com/item?id=43745987) - [Verus: Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
 * [2025-04-20, 19:17:58](https://news.ycombinator.com/item?id=43745868) - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
 * [2025-04-20, 19:03:45](https://news.ycombinator.com/item?id=43745776) - [Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird](https://420.headset.io)
 * [2025-04-20, 18:32:29](https://news.ycombinator.com/item?id=43745554) - [Show HN: JuryNow – Get an anonymous instant verdict from 12 real people](https://jurynow.app/)
