@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-21, 23:08:46](https://news.ycombinator.com/item?id=43757503) - [Building our \"native-AI newsroom\"](https://www.regenerator1.com/p/building-our-native-ai-newsroom)
+* [2025-04-22, 00:25:12](https://news.ycombinator.com/item?id=43757916) - [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
+* [2025-04-21, 23:54:25](https://news.ycombinator.com/item?id=43757734) - [Business Cards](https://kolyder.com/business-cards/)
+* [2025-04-21, 22:47:38](https://news.ycombinator.com/item?id=43757341) - [101 Basic Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
 * [2025-04-21, 22:07:49](https://news.ycombinator.com/item?id=43757037) - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
 * [2025-04-21, 22:06:14](https://news.ycombinator.com/item?id=43757017) - [The Future of Compute: Nvidia's Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
 * [2025-04-21, 21:52:29](https://news.ycombinator.com/item?id=43756926) - [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
@@ -17,7 +19,6 @@
 * [2025-04-21, 17:22:55](https://news.ycombinator.com/item?id=43754274) - [FTC takes action against Uber for deceptive billing and cancellation practices](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices)
 * [2025-04-21, 17:07:07](https://news.ycombinator.com/item?id=43754124) - [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
 * [2025-04-21, 16:55:36](https://news.ycombinator.com/item?id=43754004) - [Adding keyword parameters to Tcl procs](https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html)
-* [2025-04-21, 16:42:52](https://news.ycombinator.com/item?id=43753890) - [Local LLM inference – impressive but too hard to work with](https://medium.com/@aazo11/local-llm-inference-897a06cc17a2)
 * [2025-04-21, 16:16:51](https://news.ycombinator.com/item?id=43753651) - [A new form of verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
 * [2025-04-21, 14:36:14](https://news.ycombinator.com/item?id=43752492) - [LLM-powered tools amplify developer capabilities rather than replacing them](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
 * [2025-04-21, 14:15:17](https://news.ycombinator.com/item?id=43752262) - [AI assisted search-based research works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/)
@@ -25,11 +26,10 @@
 * [2025-04-21, 12:26:16](https://news.ycombinator.com/item?id=43751168) - [Tabular Programming: A New Paradigm for Expressive Computing](https://sam.elborai.me/articles/tabular-programming/)
 * [2025-04-21, 12:16:16](https://news.ycombinator.com/item?id=43751076) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 * [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
-* [2025-04-21, 04:31:35](https://news.ycombinator.com/item?id=43748512) - [Python’s new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
+* [2025-04-21, 07:34:07](https://news.ycombinator.com/item?id=43749271) - [Reworking 30 lines of Linux code could cut power use by up to 30 percent](https://spectrum.ieee.org/data-center-energy-consumption)
 * [2025-04-20, 20:50:07](https://news.ycombinator.com/item?id=43746433) - [How I use Kate editor](https://akselmo.dev/posts/how-i-use-kate-editor/)
 * [2025-04-19, 16:00:09](https://news.ycombinator.com/item?id=43737272) - ['Immediate red flags': questions raised over 'expert' much quoted in UK press](https://www.theguardian.com/media/2025/apr/19/questions-raised-over-barbara-santini-expert-much-quoted-in-uk-press)
 * [2025-04-19, 13:12:26](https://news.ycombinator.com/item?id=43736172) - [Dumb statistical models, always making people look bad](https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/)
-* [2025-04-18, 19:53:32](https://news.ycombinator.com/item?id=43731334) - [Optimizing Heap Allocations in Go: A Case Study](https://www.dolthub.com/blog/2025-04-18-optimizing-heap-allocations/)
 
 ## [Archives](archives/index.md)
 

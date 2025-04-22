@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 23:54:25](https://news.ycombinator.com/item?id=43757734) - [Business Cards](https://kolyder.com/business-cards/)
 * [2025-04-21, 23:08:46](https://news.ycombinator.com/item?id=43757503) - [Building our \"native-AI newsroom\"](https://www.regenerator1.com/p/building-our-native-ai-newsroom)
+* [2025-04-21, 22:47:38](https://news.ycombinator.com/item?id=43757341) - [101 Basic Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
 * [2025-04-21, 22:07:49](https://news.ycombinator.com/item?id=43757037) - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
 * [2025-04-21, 22:06:14](https://news.ycombinator.com/item?id=43757017) - [The Future of Compute: Nvidia's Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
 * [2025-04-21, 21:52:29](https://news.ycombinator.com/item?id=43756926) - [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
