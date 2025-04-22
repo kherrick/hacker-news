@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-22, 18:39:20](https://news.ycombinator.com/item?id=43765011) - [Sapphire: Rust based package manager for macOS (homebrew replacement)](https://github.com/alexykn/sapphire)
 * [2025-04-22, 18:08:42](https://news.ycombinator.com/item?id=43764783) - [The Truth about Atlantis (2019)](https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/)
 * [2025-04-22, 18:07:32](https://news.ycombinator.com/item?id=43764771) - [The complex origin story of domestic cats](https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html)
 * [2025-04-22, 17:57:08](https://news.ycombinator.com/item?id=43764705) - [I started a devblog about mixing SwiftUI and C++ to make a Twitch app](https://www.kulve.org/blog/tech_stack)
@@ -25,7 +26,6 @@
 * [2025-04-22, 13:06:30](https://news.ycombinator.com/item?id=43761633) - [The raccoons who made computer magazine ads great](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/)
 * [2025-04-22, 09:27:20](https://news.ycombinator.com/item?id=43760357) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
 * [2025-04-22, 04:27:40](https://news.ycombinator.com/item?id=43759073) - [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
-* [2025-04-21, 22:07:49](https://news.ycombinator.com/item?id=43757037) - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
 * [2025-04-19, 17:33:05](https://news.ycombinator.com/item?id=43737916) - [Libro: a command-line tool to track your books](https://github.com/mkaz/libro)
 * [2025-04-19, 07:59:05](https://news.ycombinator.com/item?id=43734938) - [Pike – a dynamic programming language with a syntax similar to Java and C](https://pike.lysator.liu.se/)
 * [2025-04-19, 07:02:43](https://news.ycombinator.com/item?id=43734751) - [WebAssembly: How to Allocate Your Allocator](https://nullprogram.com/blog/2025/04/19/)
