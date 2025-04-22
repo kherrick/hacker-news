@@ -157,11 +157,11 @@
             <h4>
               <span>2025-04-22 @ 16:51:24</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43764122"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
             <div class="text">
@@ -183,7 +183,7 @@
             <h4>
               <span>2025-04-22 @ 16:49:55</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43764101"
                   >Comments</a
@@ -204,11 +204,11 @@
             <h4>
               <span>2025-04-22 @ 16:46:19</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43764076"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -224,7 +224,7 @@
             <h4>
               <span>2025-04-22 @ 16:18:41</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763814"
                   >Comments</a
@@ -346,11 +346,11 @@
             <h4>
               <span>2025-04-22 @ 16:03:32</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763688"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -367,7 +367,7 @@
             <h4>
               <span>2025-04-22 @ 15:55:12</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763614"
                   >Comments</a
@@ -386,11 +386,11 @@
             <h4>
               <span>2025-04-22 @ 15:24:53</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763291"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -407,11 +407,11 @@
             <h4>
               <span>2025-04-22 @ 15:17:23</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763225"
                   >Comments</a
-                ><span class="descendants">: 140</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -428,7 +428,7 @@
             <h4>
               <span>2025-04-22 @ 15:17:21</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763223"
                   >Comments</a
@@ -448,7 +448,7 @@
             <h4>
               <span>2025-04-22 @ 14:59:53</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763026"
                   >Comments</a
@@ -556,13 +556,36 @@
             <h4>
               <span>2025-04-22 @ 14:10:59</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43762409"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                This Github repo turns an ESP32-S3 into a realtime AI speech
+                companion using the OpenAI Realtime API, Arduino WebSockets,
+                Deno Edge Functions, and a full-stack web interface. You can
+                talk to your own custom AI character, and it responds instantly.
+              </p>
+              <p>
+                I couldn't find a resource that helped set up a reliable, secure
+                websocket (WSS) AI speech to speech service. While there are
+                several useful Text-To-Speech (TTS) and Speech-To-Text (STT)
+                repos out there, I believe none gets Speech-To-Speech right.
+                OpenAI launched an embedded-repo late last year which sets up
+                WebRTC with ESP-IDF. However, it's not beginner friendly and
+                doesn't have a server side component for business logic.
+              </p>
+              <p>
+                This repo is an attempt at solving the above pains and creating
+                a great speech to speech experience on Arduino with Secure
+                Websockets using Edge Servers (with Deno/Supabase Edge
+                Functions) for fast global connectivity and low latency.
+              </p>
+            </div>
           </section>
         </section>
         <section id="43761998">
@@ -575,7 +598,7 @@
             <h4>
               <span>2025-04-22 @ 13:35:47</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761998"
                   >Comments</a
@@ -596,7 +619,7 @@
             <h4>
               <span>2025-04-22 @ 13:34:27</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761976"
                   >Comments</a
@@ -618,7 +641,7 @@
             <h4>
               <span>2025-04-22 @ 13:24:52</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761835"
                   >Comments</a
@@ -639,11 +662,11 @@
             <h4>
               <span>2025-04-22 @ 13:06:30</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761633"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -658,11 +681,11 @@
             <h4>
               <span>2025-04-22 @ 10:24:37</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43760625"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -679,7 +702,7 @@
             <h4>
               <span>2025-04-22 @ 04:27:40</span
               ><span class="points-container"
-                >Points: <span class="points">307</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43759073"
                   >Comments</a
@@ -698,7 +721,7 @@
             <h4>
               <span>2025-04-21 @ 22:07:49</span
               ><span class="points-container"
-                >Points: <span class="points">513</span></span
+                >Points: <span class="points">514</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43757037"
                   >Comments</a
@@ -719,7 +742,7 @@
             <h4>
               <span>2025-04-21 @ 18:29:04</span
               ><span class="points-container"
-                >Points: <span class="points">576</span></span
+                >Points: <span class="points">578</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43754953"
                   >Comments</a
@@ -738,11 +761,11 @@
             <h4>
               <span>2025-04-20 @ 19:38:29</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43745987"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -764,7 +787,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43745038"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -822,7 +845,7 @@
             <h4>
               <span>2025-04-19 @ 12:25:58</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43735960"
                   >Comments</a
@@ -842,7 +865,7 @@
             <h4>
               <span>2025-04-19 @ 07:59:05</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43734938"
                   >Comments</a
@@ -861,7 +884,7 @@
             <h4>
               <span>2025-04-19 @ 07:02:43</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43734751"
                   >Comments</a
@@ -881,11 +904,11 @@
             <h4>
               <span>2025-04-18 @ 22:59:43</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43732632"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
