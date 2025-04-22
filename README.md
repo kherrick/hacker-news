@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
+* [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
+* [2025-04-22, 20:23:38](https://news.ycombinator.com/item?id=43765908) - [Windows File Manager (WinFile) repository archived on March 1, 2025](https://github.com/microsoft/winfile)
 * [2025-04-22, 20:16:04](https://news.ycombinator.com/item?id=43765832) - [Classic Computer Replicas](https://obsolescence.dev/index.html)
 * [2025-04-22, 20:13:30](https://news.ycombinator.com/item?id=43765815) - [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
 * [2025-04-22, 20:06:39](https://news.ycombinator.com/item?id=43765748) - [Show HN: Dosidicus – A digital pet with a simple neural network](https://github.com/ViciousSquid/Dosidicus)
@@ -10,9 +13,7 @@
 * [2025-04-22, 18:28:20](https://news.ycombinator.com/item?id=43764915) - [Ping, You've Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
 * [2025-04-22, 18:08:42](https://news.ycombinator.com/item?id=43764783) - [The Truth about Atlantis (2019)](https://talesoftimesforgotten.com/2019/03/26/the-truth-about-atlantis/)
 * [2025-04-22, 18:07:32](https://news.ycombinator.com/item?id=43764771) - [The complex origin story of domestic cats](https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html)
-* [2025-04-22, 17:53:34](https://news.ycombinator.com/item?id=43764677) - [Parcom: CL Parser Combinators](https://github.com/fosskers/parcom)
 * [2025-04-22, 17:29:31](https://news.ycombinator.com/item?id=43764439) - [π0.5: A VLA with open-world generalization](https://pi.website/blog/pi05)
-* [2025-04-22, 17:01:01](https://news.ycombinator.com/item?id=43764185) - [Recover (YC W21) Is Hiring](https://www.ycombinator.com/companies/recover/jobs/76dMle9-head-of-finance)
 * [2025-04-22, 16:49:55](https://news.ycombinator.com/item?id=43764101) - [Are polynomial features the root of all evil? (2024)](https://alexshtf.github.io/2024/01/21/Bernstein.html)
 * [2025-04-22, 16:46:19](https://news.ycombinator.com/item?id=43764076) - [I should have loved biology too](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too)
 * [2025-04-22, 16:33:21](https://news.ycombinator.com/item?id=43763967) - [Show HN: Rowboat – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
@@ -26,8 +27,7 @@
 * [2025-04-22, 13:35:47](https://news.ycombinator.com/item?id=43761998) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
 * [2025-04-22, 13:06:30](https://news.ycombinator.com/item?id=43761633) - [The raccoons who made computer magazine ads great](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/)
 * [2025-04-22, 09:27:20](https://news.ycombinator.com/item?id=43760357) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
-* [2025-04-20, 04:34:55](https://news.ycombinator.com/item?id=43741549) - [Can we still recover the right to be left alone?](https://www.thenation.com/article/culture/lowry-pressley-right-to-oblivion/)
-* [2025-04-19, 07:02:43](https://news.ycombinator.com/item?id=43734751) - [WebAssembly: How to Allocate Your Allocator](https://nullprogram.com/blog/2025/04/19/)
+* [2025-04-19, 09:57:10](https://news.ycombinator.com/item?id=43735378) - [Making a smart bike dumb so it works again](https://francisco.io/blog/making-a-smart-bike-dumb-work-again/)
 * [2025-04-18, 23:22:46](https://news.ycombinator.com/item?id=43732767) - [Native American names extend earthquake history of northeastern North America](https://phys.org/news/2025-04-native-american-earthquake-history-northeastern.html)
 * [2025-04-18, 22:31:40](https://news.ycombinator.com/item?id=43732416) - [More details for London's new Roman Basilica museum revealed](https://www.ianvisits.co.uk/articles/more-details-for-londons-new-roman-basilica-museum-revealed-80470/)
 

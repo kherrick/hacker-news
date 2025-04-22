@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
+* [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
+* [2025-04-22, 20:23:38](https://news.ycombinator.com/item?id=43765908) - [Windows File Manager (WinFile) repository archived on March 1, 2025](https://github.com/microsoft/winfile)
 * [2025-04-22, 20:16:04](https://news.ycombinator.com/item?id=43765832) - [Classic Computer Replicas](https://obsolescence.dev/index.html)
 * [2025-04-22, 20:13:30](https://news.ycombinator.com/item?id=43765815) - [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
 * [2025-04-22, 20:06:39](https://news.ycombinator.com/item?id=43765748) - [Show HN: Dosidicus – A digital pet with a simple neural network](https://github.com/ViciousSquid/Dosidicus)

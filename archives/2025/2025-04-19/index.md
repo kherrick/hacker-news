@@ -57,6 +57,7 @@
 * [2025-04-19, 10:48:30](https://news.ycombinator.com/item?id=43735550) - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices)
 * [2025-04-19, 10:22:50](https://news.ycombinator.com/item?id=43735452) - [Researchers develop picosecond-level flash memory device](https://www.fudan.edu.cn/en/2025/0417/c344a145016/page.htm)
 * [2025-04-19, 10:19:49](https://news.ycombinator.com/item?id=43735443) - [Achieveing lower latencies with S3 object storage](https://spiraldb.com/post/so-you-want-to-use-object-storage)
+* [2025-04-19, 09:57:10](https://news.ycombinator.com/item?id=43735378) - [Making a smart bike dumb so it works again](https://francisco.io/blog/making-a-smart-bike-dumb-work-again/)
 * [2025-04-19, 09:22:17](https://news.ycombinator.com/item?id=43735239) - [Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine](https://philwip.com/2025/04/14/galaxian-3-project-revival/)
 * [2025-04-19, 09:02:46](https://news.ycombinator.com/item?id=43735170) - [A star appears to have collapsed straight into a black hole without supernova](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/)
 * [2025-04-19, 08:02:07](https://news.ycombinator.com/item?id=43734953) - [A Map of British Dialects](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
