@@ -21,12 +21,22 @@
   ],
   [
     [
-      "2025-04-22, 13:26:54",
-      "https://news.ycombinator.com/item?id=43761866"
+      "2025-04-22, 13:34:27",
+      "https://news.ycombinator.com/item?id=43761976"
     ],
     [
-      "Transforming Your PDFs for RAG with Open Source Using Docling, Milvus, and Feast",
-      "https://github.com/feast-dev/feast/tree/master/examples/rag-docling"
+      "Join the W3C Exploration Interest Group: where standards start",
+      "https://www.w3.org/blog/2025/join-the-w3c-exploration-interest-group-where-standards-start/"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 13:24:52",
+      "https://news.ycombinator.com/item?id=43761835"
+    ],
+    [
+      "The Cold Start Problem: Using Network Effects to Scale Your Product – A Review",
+      "https://madhavajay.com/the-cold-start-problem-using-network-effects-to-scale-your-product/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-04-21, 16:16:51",
-      "https://news.ycombinator.com/item?id=43753651"
-    ],
-    [
-      "A new form of verification on Bluesky",
-      "https://bsky.social/about/blog/04-21-2025-verification"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 14:36:14",
       "https://news.ycombinator.com/item?id=43752492"
     ],
@@ -227,16 +227,6 @@
     [
       "Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams",
       "https://news.ycombinator.com/item?id=43752176"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 12:16:16",
-      "https://news.ycombinator.com/item?id=43751076"
-    ],
-    [
-      "Pipelining might be my favorite programming language feature",
-      "https://herecomesthemoon.net/2025/04/pipelining/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "A Real-Time Algorithm for Non-Convex Powered Descent Guidance [pdf]",
       "https://depts.washington.edu/uwrainlab/wordpress/wp-content/uploads/2020/01/AIAA_SciTech_2020.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-04-19, 07:59:05",
+      "https://news.ycombinator.com/item?id=43734938"
+    ],
+    [
+      "Pike – a dynamic programming language with a syntax similar to Java and C",
+      "https://pike.lysator.liu.se/"
     ]
   ],
   [
