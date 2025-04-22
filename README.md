@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-22, 05:24:54](https://news.ycombinator.com/item?id=43759287) - [The Rise of Luxury Doomsday Prepping](https://www.wsj.com/us-news/the-rise-of-luxury-doomsday-prepping-bd34e901)
+* [2025-04-22, 04:27:40](https://news.ycombinator.com/item?id=43759073) - [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 * [2025-04-22, 04:07:04](https://news.ycombinator.com/item?id=43758999) - [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
 * [2025-04-22, 03:57:47](https://news.ycombinator.com/item?id=43758965) - ['World War Zoos' Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
 * [2025-04-22, 03:50:20](https://news.ycombinator.com/item?id=43758936) - [Forecaster reacts: METR's bombshell paper about AI acceleration](https://peterwildeford.substack.com/p/forecaster-reacts-metrs-bombshell)
@@ -21,10 +23,8 @@
 * [2025-04-21, 14:36:14](https://news.ycombinator.com/item?id=43752492) - [LLM-powered tools amplify developer capabilities rather than replacing them](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
 * [2025-04-21, 14:15:17](https://news.ycombinator.com/item?id=43752262) - [AI assisted search-based research works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/)
 * [2025-04-21, 14:07:03](https://news.ycombinator.com/item?id=43752176) - [Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams](https://news.ycombinator.com/item?id=43752176)
-* [2025-04-21, 12:26:16](https://news.ycombinator.com/item?id=43751168) - [Tabular Programming: A New Paradigm for Expressive Computing](https://sam.elborai.me/articles/tabular-programming/)
 * [2025-04-21, 12:16:16](https://news.ycombinator.com/item?id=43751076) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 * [2025-04-21, 11:05:44](https://news.ycombinator.com/item?id=43750535) - [Getting forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
-* [2025-04-21, 07:34:07](https://news.ycombinator.com/item?id=43749271) - [Reworking 30 lines of Linux code could cut power use by up to 30 percent](https://spectrum.ieee.org/data-center-energy-consumption)
 * [2025-04-19, 13:12:26](https://news.ycombinator.com/item?id=43736172) - [Dumb statistical models, always making people look bad](https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/)
 * [2025-04-19, 12:49:53](https://news.ycombinator.com/item?id=43736061) - [A new record for California's highest tree](https://www.sciencedaily.com/releases/2025/04/250417145019.htm)
 * [2025-04-19, 11:43:08](https://news.ycombinator.com/item?id=43735764) - [An Update on Pahole](https://lwn.net/Articles/1016243/)
