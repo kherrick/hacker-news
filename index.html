@@ -129,6 +129,25 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43764439">
+          <h3>
+            <a class="item" href="https://pi.website/blog/pi05"
+              >π0.5: A VLA with open-world generalization</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-22 @ 17:29:31</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43764439"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43764185">
           <h3>
             <a
@@ -157,11 +176,11 @@
             <h4>
               <span>2025-04-22 @ 16:51:24</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43764122"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
             <div class="text">
@@ -183,11 +202,11 @@
             <h4>
               <span>2025-04-22 @ 16:49:55</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43764101"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -204,13 +223,116 @@
             <h4>
               <span>2025-04-22 @ 16:46:19</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43764076"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="43763967">
+          <h3>
+            <a class="item" href="https://github.com/rowboatlabs/rowboat"
+              >Show HN: Rowboat – Open-source IDE for multi-agent systems</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-22 @ 16:33:21</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43763967"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.rowboatlabs.com/"
+                >https://www.rowboatlabs.com/</a
+              >), an AI-assisted IDE for building and managing multi-agent
+              systems. You start with a single agent, then scale up to teams of
+              agents that work together, use MCP tools, and improve over time -
+              all through a chat-based copilot.
+              <p>
+                Our repo is
+                <a href="https://github.com/rowboatlabs/rowboat"
+                  >https://github.com/rowboatlabs/rowboat</a
+                >, docs are at
+                <a href="https://docs.rowboatlabs.com/"
+                  >https://docs.rowboatlabs.com/</a
+                >, and there’s a demo video here:
+                <a href="https://youtu.be/YRTCw9UHRbU"
+                  >https://youtu.be/YRTCw9UHRbU</a
+                >
+              </p>
+              <p>
+                It’s becoming clear that real-world agentic systems work best
+                when multiple agents collaborate, rather than having one agent
+                attempt to do everything. This isn’t too surprising - it’s a bit
+                like how good code consists of multiple functions that each do
+                one thing, rather than cramming everything into one function.
+              </p>
+              <p>
+                For example, a travel assistant works best when different agents
+                handle specialized tasks: one agent finds the best flights,
+                another optimizes hotel selections, and a third organizes the
+                itinerary. This modular approach makes the system easier to
+                manage, debug, and improve over time.
+              </p>
+              <p>
+                OpenAI’s Agents SDK provides a neat Python library to support
+                this, but building reliable agentic systems requires constant
+                iterations and tweaking - e.g. updating agent instructions
+                (which can quickly get as complex as actual code), connecting
+                tools, and testing the system and incorporating feedback.
+                Rowboat is an AI IDE to do all this. Rowboat is to AI agents
+                what Cursor is to code.
+              </p>
+              <p>
+                We’ve taken a code-like approach to agent instructions
+                (prompts). There are special keywords to directly reference
+                other agents, tools or prompts - which are highlighted in the
+                UI. The copilot is the best way to create and edit these
+                instructions - each change comes with a code-style diff.
+              </p>
+              <p>
+                You can give agents access to tools by integrating any MCP
+                server or connecting your own functions through a webhook. You
+                can instruct the agents on when to use specific tools via
+                ‘@mentions’ in the agent instruction. To enable quick testing,
+                we added a way to mock tool responses using LLM calls.
+              </p>
+              <p>
+                Rowboat playground lets you test and debug the assistants as you
+                build them. You can see agent transfers, tool invocations and
+                tool responses in real-time. The copilot has the context of the
+                chat, and can improve the agent instructions based on feedback.
+                For example, you could say ‘The agent shouldn’t have done x
+                here. Fix this’ and the copilot can go and make this fix.
+              </p>
+              <p>
+                You can integrate agentic systems built in Rowboat into your
+                application via the HTTP API or the Python SDK (‘pip install
+                rowboat’). For example, you can build user-facing chatbots,
+                enterprise workflows and employee assistants using Rowboat.
+              </p>
+              <p>
+                We’ve been working with LLMs since GPT-1 launched in 2018. Most
+                recently, we built Coinbase’s support chatbot after our last AI
+                startup was acquired by them.
+              </p>
+              <p>
+                Rowboat is Apache 2.0 licensed, giving you full freedom to
+                self-host, modify, or extend it however you like.
+              </p>
+              <p>
+                We’re excited to share Rowboat with everyone here. We’d love to
+                hear your thoughts!
+              </p>
+            </div>
           </section>
         </section>
         <section id="43763814">
@@ -224,7 +346,7 @@
             <h4>
               <span>2025-04-22 @ 16:18:41</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763814"
                   >Comments</a
@@ -324,7 +446,7 @@
             <h4>
               <span>2025-04-22 @ 16:13:59</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763778"
                   >Comments</a
@@ -346,11 +468,11 @@
             <h4>
               <span>2025-04-22 @ 16:03:32</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763688"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -367,11 +489,11 @@
             <h4>
               <span>2025-04-22 @ 15:55:12</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763614"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -386,11 +508,11 @@
             <h4>
               <span>2025-04-22 @ 15:24:53</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763291"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -407,11 +529,11 @@
             <h4>
               <span>2025-04-22 @ 15:17:23</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763225"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -428,11 +550,11 @@
             <h4>
               <span>2025-04-22 @ 15:17:21</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763223"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -452,7 +574,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43763026"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -536,56 +658,13 @@
             <h4>
               <span>2025-04-22 @ 14:14:28</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43762451"
                   >Comments</a
                 ><span class="descendants">: 10</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43762409">
-          <h3>
-            <a class="item" href="https://github.com/akdeb/ElatoAI"
-              >I Open-Sourced My AI Toy Company That Runs on ESP32 and OpenAI
-              Realtime API</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-22 @ 14:10:59</span
-              ><span class="points-container"
-                >Points: <span class="points">90</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43762409"
-                  >Comments</a
-                ><span class="descendants">: 51</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                This Github repo turns an ESP32-S3 into a realtime AI speech
-                companion using the OpenAI Realtime API, Arduino WebSockets,
-                Deno Edge Functions, and a full-stack web interface. You can
-                talk to your own custom AI character, and it responds instantly.
-              </p>
-              <p>
-                I couldn't find a resource that helped set up a reliable, secure
-                websocket (WSS) AI speech to speech service. While there are
-                several useful Text-To-Speech (TTS) and Speech-To-Text (STT)
-                repos out there, I believe none gets Speech-To-Speech right.
-                OpenAI launched an embedded-repo late last year which sets up
-                WebRTC with ESP-IDF. However, it's not beginner friendly and
-                doesn't have a server side component for business logic.
-              </p>
-              <p>
-                This repo is an attempt at solving the above pains and creating
-                a great speech to speech experience on Arduino with Secure
-                Websockets using Edge Servers (with Deno/Supabase Edge
-                Functions) for fast global connectivity and low latency.
-              </p>
-            </div>
           </section>
         </section>
         <section id="43761998">
@@ -598,7 +677,7 @@
             <h4>
               <span>2025-04-22 @ 13:35:47</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761998"
                   >Comments</a
@@ -619,11 +698,11 @@
             <h4>
               <span>2025-04-22 @ 13:34:27</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761976"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -641,11 +720,11 @@
             <h4>
               <span>2025-04-22 @ 13:24:52</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761835"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -662,11 +741,11 @@
             <h4>
               <span>2025-04-22 @ 13:06:30</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761633"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -690,6 +769,27 @@
             </h4>
           </section>
         </section>
+        <section id="43760357">
+          <h3>
+            <a
+              class="item"
+              href="https://nrk.neocities.org/articles/c-constexpr-macro"
+              >Detecting if an expression is constant in C</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-22 @ 09:27:20</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43760357"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43759073">
           <h3>
             <a
@@ -702,11 +802,11 @@
             <h4>
               <span>2025-04-22 @ 04:27:40</span
               ><span class="points-container"
-                >Points: <span class="points">309</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43759073"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -721,32 +821,11 @@
             <h4>
               <span>2025-04-21 @ 22:07:49</span
               ><span class="points-container"
-                >Points: <span class="points">514</span></span
+                >Points: <span class="points">520</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43757037"
                   >Comments</a
                 ><span class="descendants">: 167</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43754953">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/"
-              >Blog hosted on a Nintendo Wii</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-21 @ 18:29:04</span
-              ><span class="points-container"
-                >Points: <span class="points">578</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43754953"
-                  >Comments</a
-                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -787,7 +866,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43745038"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -804,7 +883,7 @@
             <h4>
               <span>2025-04-20 @ 00:20:16</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43740543"
                   >Comments</a
@@ -823,11 +902,11 @@
             <h4>
               <span>2025-04-19 @ 17:33:05</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43737916"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -845,31 +924,11 @@
             <h4>
               <span>2025-04-19 @ 12:25:58</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43735960"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43734938">
-          <h3>
-            <a class="item" href="https://pike.lysator.liu.se/"
-              >Pike – a dynamic programming language with a syntax similar to
-              Java and C</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-19 @ 07:59:05</span
-              ><span class="points-container"
-                >Points: <span class="points">41</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43734938"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -884,7 +943,7 @@
             <h4>
               <span>2025-04-19 @ 07:02:43</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43734751"
                   >Comments</a
@@ -904,11 +963,11 @@
             <h4>
               <span>2025-04-18 @ 22:59:43</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43732632"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
