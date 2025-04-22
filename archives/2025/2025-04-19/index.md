@@ -72,6 +72,7 @@
 * [2025-04-19, 02:20:06](https://news.ycombinator.com/item?id=43733683) - [CaMeL: Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
 * [2025-04-19, 02:10:52](https://news.ycombinator.com/item?id=43733636) - [JavaScript Views, the Hard Way – A Pattern for Writing UI](https://github.com/matthewp/views-the-hard-way)
 * [2025-04-19, 01:52:55](https://news.ycombinator.com/item?id=43733553) - [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+* [2025-04-19, 01:40:35](https://news.ycombinator.com/item?id=43733495) - [Can rotation solve the Hubble Puzzle?](https://academic.oup.com/mnras/article/538/4/3038/8090496?login=false)
 * [2025-04-19, 01:34:12](https://news.ycombinator.com/item?id=43733468) - [The Labyrinth of Villa Pisani in Stra, an Intricate Pathway](https://www.finestresullarte.info/en/travel/the-labyrinth-of-villa-pisani-in-stra-suggestions-of-d-annunzio-and-an-intricate-pathway)
 * [2025-04-19, 01:33:56](https://news.ycombinator.com/item?id=43733463) - [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
 * [2025-04-19, 01:03:39](https://news.ycombinator.com/item?id=43733315) - [Pahole: Analysing Memory Layout of Complex Data Structures with Ease](https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/)

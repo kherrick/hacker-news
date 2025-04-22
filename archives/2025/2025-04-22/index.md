@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 10:37:17](https://news.ycombinator.com/item?id=43760686) - [RISC-V RVA23 Profile: A major milestone](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/)
 * [2025-04-22, 09:56:02](https://news.ycombinator.com/item?id=43760494) - [LHC 2025 First Collisions](https://op-webtools.web.cern.ch/vistar/)
 * [2025-04-22, 08:22:41](https://news.ycombinator.com/item?id=43760099) - [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
 * [2025-04-22, 06:15:49](https://news.ycombinator.com/item?id=43759513) - [AI for Network Engineers: Understanding Flow, Flowlet, and Packet-Based LB](https://nwktimes.blogspot.com/2025/04/ai-for-network-engineers-understanding.html)
