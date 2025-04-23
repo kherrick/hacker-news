@@ -21,6 +21,7 @@
 * [2025-04-20, 19:03:45](https://news.ycombinator.com/item?id=43745776) - [Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird](https://420.headset.io)
 * [2025-04-20, 18:32:29](https://news.ycombinator.com/item?id=43745554) - [Show HN: JuryNow – Get an anonymous instant verdict from 12 real people](https://jurynow.app/)
 * [2025-04-20, 18:20:50](https://news.ycombinator.com/item?id=43745469) - [U.S. citizen in Arizona detained by immigration officials for 10 days](https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/)
+* [2025-04-20, 18:19:45](https://news.ycombinator.com/item?id=43745460) - [Why the Chip Industry Is Struggling to Attract the Next Generation](https://www.viksnewsletter.com/p/why-the-chip-industry-is-not-attractive)
 * [2025-04-20, 18:12:15](https://news.ycombinator.com/item?id=43745410) - [Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72](https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html)
 * [2025-04-20, 17:54:59](https://news.ycombinator.com/item?id=43745296) - [99% Effective: First Hormone-Free Male Birth Control Pill Enters Human Trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/)
 * [2025-04-20, 17:52:50](https://news.ycombinator.com/item?id=43745281) - [How encryption for Cinema Movies works](https://serverless.industries/2024/05/31/digital-cinema.en.html)
