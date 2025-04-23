@@ -35,6 +35,7 @@
 * [2025-04-20, 17:01:50](https://news.ycombinator.com/item?id=43744980) - [They Were Deactivated from Delivering. Their Finances Were Devastated.](https://www.nytimes.com/2025/03/29/business/uber-lyft-doordash-deactivation.html)
 * [2025-04-20, 17:00:51](https://news.ycombinator.com/item?id=43744969) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-04-20, 16:04:46](https://news.ycombinator.com/item?id=43744636) - [Home galleries are hiding in plain sight across Canada](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886)
+* [2025-04-20, 16:04:36](https://news.ycombinator.com/item?id=43744635) - [Get your Minitel back, the COMPUTEL videotex BBS is back](https://cq94.medium.com/get-your-minitels-back-the-computel-videotex-bbs-is-back-1d8c42f1ea17)
 * [2025-04-20, 16:00:29](https://news.ycombinator.com/item?id=43744609) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-20, 15:57:37](https://news.ycombinator.com/item?id=43744591) - [Things Zig Comptime Won't Do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
 * [2025-04-20, 15:28:06](https://news.ycombinator.com/item?id=43744394) - [The skill of the future is not 'AI', but 'Focus'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
