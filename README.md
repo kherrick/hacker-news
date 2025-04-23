@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-23, 11:20:24](https://news.ycombinator.com/item?id=43770797) - [Mozilla blocks UAE for internet security guardian after hacking reports (2019)](https://www.reuters.com/article/us-usa-cyber-mozilla/mozilla-blocks-uae-bid-to-become-an-internet-security-guardian-after-hacking-reports-idUSKCN1U42CA/)
-* [2025-04-23, 11:05:52](https://news.ycombinator.com/item?id=43770691) - ['60 Minutes' chief resigns, saying show's independence was compromised](https://www.npr.org/2025/04/22/nx-s1-5372733/60-minutes-bill-owens-cbs-trump-paramount)
 * [2025-04-23, 10:52:08](https://news.ycombinator.com/item?id=43770615) - [Collatz's Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
 * [2025-04-23, 10:21:58](https://news.ycombinator.com/item?id=43770446) - [Geocoding APIs compared: Pricing, free tiers and terms of use](https://www.bitoff.org/geocoding-apis-comparison/)
 * [2025-04-23, 10:21:57](https://news.ycombinator.com/item?id=43770445) - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
@@ -16,6 +15,7 @@
 * [2025-04-23, 07:17:16](https://news.ycombinator.com/item?id=43769461) - [Why Does My eBPF Program Work on One Kernel but Fail on Another?](https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on)
 * [2025-04-23, 06:23:10](https://news.ycombinator.com/item?id=43769201) - [The Ghosts of Gaelic](https://www.historytoday.com/archive/behind-times/ghosts-gaelic)
 * [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
+* [2025-04-22, 22:55:09](https://news.ycombinator.com/item?id=43767058) - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
 * [2025-04-22, 22:00:36](https://news.ycombinator.com/item?id=43766728) - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
 * [2025-04-22, 21:58:50](https://news.ycombinator.com/item?id=43766715) - [CSS Hell](https://csshell.com/)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
