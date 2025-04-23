@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-23, 08:52:32](https://news.ycombinator.com/item?id=43769959) - [A Pixel Is Not a Little Square (1995) [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
 * [2025-04-23, 08:49:34](https://news.ycombinator.com/item?id=43769936) - [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
 * [2025-04-23, 07:21:44](https://news.ycombinator.com/item?id=43769486) - [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 * [2025-04-23, 07:20:33](https://news.ycombinator.com/item?id=43769482) - [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
@@ -7,6 +8,7 @@
 * [2025-04-23, 07:17:16](https://news.ycombinator.com/item?id=43769461) - [Why Does My eBPF Program Work on One Kernel but Fail on Another?](https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on)
 * [2025-04-23, 06:51:24](https://news.ycombinator.com/item?id=43769343) - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
 * [2025-04-23, 06:23:10](https://news.ycombinator.com/item?id=43769201) - [The Ghosts of Gaelic](https://www.historytoday.com/archive/behind-times/ghosts-gaelic)
+* [2025-04-23, 06:11:16](https://news.ycombinator.com/item?id=43769140) - [Where did the false \"equal transit-time\" explanation of lift originate from?](https://hsm.stackexchange.com/questions/9931/where-did-the-false-equal-transit-time-explanation-of-lift-originate-from)
 * [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
 * [2025-04-23, 01:42:28](https://news.ycombinator.com/item?id=43767944) - [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
 * [2025-04-22, 22:55:09](https://news.ycombinator.com/item?id=43767058) - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
@@ -16,7 +18,6 @@
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-22, 18:39:20](https://news.ycombinator.com/item?id=43765011) - [Sapphire: Rust based package manager for macOS (Homebrew replacement)](https://github.com/alexykn/sapphire)
 * [2025-04-22, 18:28:20](https://news.ycombinator.com/item?id=43764915) - [Ping, You've Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
-* [2025-04-22, 18:07:32](https://news.ycombinator.com/item?id=43764771) - [The complex origin story of domestic cats](https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html)
 * [2025-04-22, 17:29:31](https://news.ycombinator.com/item?id=43764439) - [π0.5: A VLA with open-world generalization](https://pi.website/blog/pi05)
 * [2025-04-22, 16:46:19](https://news.ycombinator.com/item?id=43764076) - [I should have loved biology too](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too)
 * [2025-04-22, 16:33:21](https://news.ycombinator.com/item?id=43763967) - [Show HN: Rowboat – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
@@ -29,7 +30,6 @@
 * [2025-04-20, 08:39:28](https://news.ycombinator.com/item?id=43742449) - ['Nobody has done this before': Britain's beloved steam trains trial technology](https://www.theguardian.com/uk-news/2025/apr/19/nobody-has-done-this-before-britains-beloved-steam-trains-trial-pioneering-technology)
 * [2025-04-20, 01:13:41](https://news.ycombinator.com/item?id=43740803) - [Subnanosecond Flash Memory](https://www.nature.com/articles/s41586-025-08839-w)
 * [2025-04-19, 07:50:38](https://news.ycombinator.com/item?id=43734911) - [Solidjs: Simple and performant reactivity for building user interfaces](https://www.solidjs.com/)
-* [2025-04-19, 01:40:35](https://news.ycombinator.com/item?id=43733495) - [Can rotation solve the Hubble Puzzle?](https://academic.oup.com/mnras/article/538/4/3038/8090496?login=false)
 
 ## [Archives](archives/index.md)
 
