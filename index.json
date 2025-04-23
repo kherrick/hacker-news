@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-04-23, 20:52:19",
+      "https://news.ycombinator.com/item?id=43776512"
+    ],
+    [
+      "Google blocked Motorola use of Perplexity AI, witness says",
+      "https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 19:42:36",
       "https://news.ycombinator.com/item?id=43775926"
     ],
     [
-      "You Wouldn't Steal a Font",
+      "You wouldn't steal a font",
       "https://fedi.rib.gay/notes/a6xqityngfubsz0f"
     ]
   ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2025-04-23, 16:13:40",
+      "https://news.ycombinator.com/item?id=43773746"
+    ],
+    [
+      "More Everything Forever",
+      "https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 16:10:12",
       "https://news.ycombinator.com/item?id=43773710"
     ],
@@ -157,16 +177,6 @@
     [
       "Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents",
       "https://github.com/trycua/cua"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 15:52:45",
-      "https://news.ycombinator.com/item?id=43773537"
-    ],
-    [
-      "The Danglepoise",
-      "https://www.sallery.co.uk/danglepoise"
     ]
   ],
   [
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=43765310"
     ],
     [
-      "Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement.",
+      "Willy Ley was a prophet of space travel",
       "https://www.nytimes.com/2025/04/21/nyregion/willy-ley-rocket-ashes.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Lessons learned operating petabyte-scale ClickHouse clusters: Part II",
       "https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 12:36:05",
-      "https://news.ycombinator.com/item?id=43743399"
-    ],
-    [
-      "How MOS 6502 Illegal Opcodes Work (2008)",
-      "https://www.pagetable.com/?p=39"
     ]
   ]
 ]
