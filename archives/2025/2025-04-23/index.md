@@ -9,6 +9,7 @@
 * [2025-04-23, 16:41:23](https://news.ycombinator.com/item?id=43773976) - [Show HN: Moose – OSS framework to build analytical back ends with ClickHouse](https://docs.fiveonefour.com/moose)
 * [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 * [2025-04-23, 16:13:40](https://news.ycombinator.com/item?id=43773746) - [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
+* [2025-04-23, 16:10:12](https://news.ycombinator.com/item?id=43773710) - [They made computers behave like annoying salesmen](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen)
 * [2025-04-23, 15:55:05](https://news.ycombinator.com/item?id=43773563) - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
 * [2025-04-23, 15:52:45](https://news.ycombinator.com/item?id=43773537) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
 * [2025-04-23, 14:33:33](https://news.ycombinator.com/item?id=43772696) - [Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness)
