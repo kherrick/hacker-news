@@ -5,7 +5,7 @@
 * [2025-04-23, 18:13:43](https://news.ycombinator.com/item?id=43774990) - [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html)
 * [2025-04-23, 18:08:39](https://news.ycombinator.com/item?id=43774938) - [Spring 83: a draft protocol intended to suggest new ways of relating online](https://github.com/robinsloan/spring-83)
 * [2025-04-23, 17:49:52](https://news.ycombinator.com/item?id=43774742) - [The Really Big One (2015)](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)
-* [2025-04-23, 17:48:20](https://news.ycombinator.com/item?id=43774726) - [Graphics Livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
+* [2025-04-23, 17:48:20](https://news.ycombinator.com/item?id=43774726) - [Graphics livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
 * [2025-04-23, 17:45:35](https://news.ycombinator.com/item?id=43774702) - [A Computational Proof of the Highest-Scoring Boggle Board](https://www.danvk.org/2025/04/23/boggle-solved.html)
 * [2025-04-23, 17:12:58](https://news.ycombinator.com/item?id=43774327) - [The Future of MCPs](https://iamcharliegraham.substack.com/publish/post/161906169)
 * [2025-04-23, 16:41:23](https://news.ycombinator.com/item?id=43773976) - [Show HN: Moose – OSS framework to build analytical back ends with ClickHouse](https://docs.fiveonefour.com/moose)
@@ -26,8 +26,8 @@
 * [2025-04-23, 07:20:19](https://news.ycombinator.com/item?id=43769478) - [Pixel is a unit of length and area](https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area)
 * [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
+* [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
 * [2025-04-21, 01:40:00](https://news.ycombinator.com/item?id=43747856) - [Samurai Cops: Inside Edo's Police Force During Feudal Japan](https://www.tokyoweekender.com/art_and_culture/japanese-culture/samurai-cops-inside-edos-police-force-during-feudal-japan/)
-* [2025-04-21, 00:36:00](https://news.ycombinator.com/item?id=43747634) - [To Avoid Deer Strikes, Finland Is Painting Deer Antlers with Reflective Paint](https://www.smithsonianmag.com/smart-news/avoid-deer-strikes-finland-painting-deer-antlers-reflective-paint-180949792/)
 * [2025-04-20, 23:04:41](https://news.ycombinator.com/item?id=43747186) - [Lessons learned operating petabyte-scale ClickHouse clusters: Part II](https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii)
 * [2025-04-20, 12:36:05](https://news.ycombinator.com/item?id=43743399) - [How MOS 6502 Illegal Opcodes Work (2008)](https://www.pagetable.com/?p=39)
 
