@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 08:49:34](https://news.ycombinator.com/item?id=43769936) - [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
 * [2025-04-23, 07:21:44](https://news.ycombinator.com/item?id=43769486) - [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 * [2025-04-23, 07:20:33](https://news.ycombinator.com/item?id=43769482) - [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
 * [2025-04-23, 07:20:19](https://news.ycombinator.com/item?id=43769478) - [Pixel is a unit of length and area](https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area)

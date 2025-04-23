@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
 * [2025-04-20, 23:27:47](https://news.ycombinator.com/item?id=43747310) - [Pete Hegseth shared Yemen attack details in second Signal chat](https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack)
+* [2025-04-20, 23:23:43](https://news.ycombinator.com/item?id=43747283) - [Restoring Old Software for Child Learning Safety](https://rietta.com/blog/child-learning-with-old-software/)
 * [2025-04-20, 23:15:41](https://news.ycombinator.com/item?id=43747242) - [Juicyjam: Thai Authorities Use Online Doxxing to Suppress Dissent](https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/)
 * [2025-04-20, 22:04:22](https://news.ycombinator.com/item?id=43746831) - [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
 * [2025-04-20, 21:55:00](https://news.ycombinator.com/item?id=43746782) - [What should third world dev do in this economy?](https://news.ycombinator.com/item?id=43746782)
