@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-23, 15:52:45](https://news.ycombinator.com/item?id=43773537) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
 * [2025-04-23, 14:14:30](https://news.ycombinator.com/item?id=43772503) - [Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf)
 * [2025-04-23, 14:00:11](https://news.ycombinator.com/item?id=43772311) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
-* [2025-04-23, 13:44:22](https://news.ycombinator.com/item?id=43772123) - [Digital Ghost Towns: When Big Companies Acquire, Shut Down, and Sit on Domains](https://www.snagged.com/post/digital-ghost-towns-when-big-companies-acquire-shut-down-and-sit-on-premium-domains)
 * [2025-04-23, 13:00:32](https://news.ycombinator.com/item?id=43771645) - [How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
 * [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
 * [2025-04-23, 10:52:08](https://news.ycombinator.com/item?id=43770615) - [Collatz's Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
@@ -17,7 +17,6 @@
 * [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-23, 06:23:10](https://news.ycombinator.com/item?id=43769201) - [The Ghosts of Gaelic](https://www.historytoday.com/archive/behind-times/ghosts-gaelic)
 * [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
-* [2025-04-22, 22:00:36](https://news.ycombinator.com/item?id=43766728) - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
 * [2025-04-22, 21:58:50](https://news.ycombinator.com/item?id=43766715) - [CSS Hell](https://csshell.com/)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-22, 18:39:20](https://news.ycombinator.com/item?id=43765011) - [Sapphire: Rust based package manager for macOS](https://github.com/alexykn/sapphire)
@@ -28,6 +27,7 @@
 * [2025-04-20, 22:11:47](https://news.ycombinator.com/item?id=43746868) - [Physicists Designed a Quantum Rubik's Cube and Found the Best Way to Solve It](https://www.sciencealert.com/physicists-designed-a-quantum-rubiks-cube-and-found-the-best-way-to-solve-it)
 * [2025-04-20, 21:07:03](https://news.ycombinator.com/item?id=43746532) - [Demystifying decorators: They don't need to be cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
 * [2025-04-20, 12:36:05](https://news.ycombinator.com/item?id=43743399) - [How MOS 6502 Illegal Opcodes Work – Michael Steil](https://www.pagetable.com/?p=39)
+* [2025-04-20, 01:13:41](https://news.ycombinator.com/item?id=43740803) - [Subnanosecond Flash Memory](https://www.nature.com/articles/s41586-025-08839-w)
 * [2025-04-19, 20:52:01](https://news.ycombinator.com/item?id=43739374) - [Understand Your Dependencies](https://deps.dev/)
 * [2025-04-19, 07:50:38](https://news.ycombinator.com/item?id=43734911) - [Solidjs: Simple and performant reactivity for building user interfaces](https://www.solidjs.com/)
 

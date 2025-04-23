@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 15:52:45](https://news.ycombinator.com/item?id=43773537) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
 * [2025-04-23, 14:33:33](https://news.ycombinator.com/item?id=43772696) - [Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness)
 * [2025-04-23, 14:29:45](https://news.ycombinator.com/item?id=43772662) - [\"Periodic table of machine learning\" could fuel AI discovery](https://news.mit.edu/2025/machine-learning-periodic-table-could-fuel-ai-discovery-0423)
 * [2025-04-23, 14:14:30](https://news.ycombinator.com/item?id=43772503) - [Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf)
