@@ -26,6 +26,7 @@
 * [2025-04-23, 16:41:44](https://news.ycombinator.com/item?id=43773977) - [I won't be vibe coding anymore: a noob's perspective](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/)
 * [2025-04-23, 16:41:23](https://news.ycombinator.com/item?id=43773976) - [Show HN: Moose – OSS framework to build analytical back ends with ClickHouse](https://docs.fiveonefour.com/moose)
 * [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
+* [2025-04-23, 16:17:04](https://news.ycombinator.com/item?id=43773777) - [MCP on AWS Lambda with MCPEngine](https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine)
 * [2025-04-23, 16:13:40](https://news.ycombinator.com/item?id=43773746) - [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
 * [2025-04-23, 16:11:11](https://news.ycombinator.com/item?id=43773720) - [Show HN: Index – new SOTA Open Source browser agent](https://github.com/lmnr-ai/index)
 * [2025-04-23, 16:10:12](https://news.ycombinator.com/item?id=43773710) - [They made computers behave like annoying salesmen](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen)
