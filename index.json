@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-04-23, 19:36:41",
-      "https://news.ycombinator.com/item?id=43775878"
-    ],
-    [
-      "Show HN: Nowrite.fun – If you stop typing, your text disappears",
-      "https://nowrite.fun"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 19:24:58",
       "https://news.ycombinator.com/item?id=43775766"
     ],
@@ -297,6 +287,16 @@
     [
       "Sustain your creative drive in the face of technological change",
       "https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 23:04:41",
+      "https://news.ycombinator.com/item?id=43747186"
+    ],
+    [
+      "Lessons learned operating petabyte-scale ClickHouse clusters: Part II",
+      "https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii"
     ]
   ]
 ]
