@@ -61,22 +61,22 @@
   ],
   [
     [
-      "2025-04-23, 13:00:32",
-      "https://news.ycombinator.com/item?id=43771645"
-    ],
-    [
-      "How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned",
-      "https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 12:35:49",
       "https://news.ycombinator.com/item?id=43771365"
     ],
     [
       "Show HN: Node.js video tutorials where you can edit and run the code",
       "https://news.ycombinator.com/item?id=43771365"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 11:24:28",
+      "https://news.ycombinator.com/item?id=43770821"
+    ],
+    [
+      "How ZGC allocates memory for the Java heap",
+      "https://joelsiks.com/posts/zgc-heap-memory-allocation/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-04-22, 16:03:32",
+      "https://news.ycombinator.com/item?id=43763688"
+    ],
+    [
+      "ClickHouse gets lazier and faster: Introducing lazy materialization",
+      "https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization"
+    ]
+  ],
+  [
+    [
       "2025-04-20, 23:23:43",
       "https://news.ycombinator.com/item?id=43747283"
     ],
@@ -257,16 +267,6 @@
     [
       "Physicists Designed a Quantum Rubik's Cube and Found the Best Way to Solve It",
       "https://www.sciencealert.com/physicists-designed-a-quantum-rubiks-cube-and-found-the-best-way-to-solve-it"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 21:07:03",
-      "https://news.ycombinator.com/item?id=43746532"
-    ],
-    [
-      "Demystifying decorators: They don't need to be cryptic",
-      "https://www.thepythoncodingstack.com/p/demystifying-python-decorators"
     ]
   ],
   [
