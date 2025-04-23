@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-04-23, 11:05:52",
-      "https://news.ycombinator.com/item?id=43770691"
-    ],
-    [
-      "'60 Minutes' chief resigns, saying show's independence was compromised",
-      "https://www.npr.org/2025/04/22/nx-s1-5372733/60-minutes-bill-owens-cbs-trump-paramount"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 10:52:08",
       "https://news.ycombinator.com/item?id=43770615"
     ],
@@ -157,6 +147,16 @@
     [
       "Native visionOS platform support",
       "https://github.com/godotengine/godot/pull/105628"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 22:55:09",
+      "https://news.ycombinator.com/item?id=43767058"
+    ],
+    [
+      "Meaning Machine – Visualize how LLMs break down and simulate meaning",
+      "https://meaning-machine.streamlit.app"
     ]
   ],
   [
