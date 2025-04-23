@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-23, 23:19:32",
+      "https://news.ycombinator.com/item?id=43777731"
+    ],
+    [
+      "CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU",
+      "https://github.com/tracel-ai/cubecl"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 21:47:27",
       "https://news.ycombinator.com/item?id=43776967"
     ],
@@ -187,16 +197,6 @@
     [
       "Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents",
       "https://github.com/trycua/cua"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 14:14:30",
-      "https://news.ycombinator.com/item?id=43772503"
-    ],
-    [
-      "Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)",
-      "https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf"
     ]
   ],
   [
