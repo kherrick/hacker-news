@@ -16,6 +16,7 @@
 * [2025-04-23, 13:17:48](https://news.ycombinator.com/item?id=43771816) - [Show HN: Advanced-Alchemy – A framework agnostic library for SQLAlchemy](https://github.com/litestar-org/advanced-alchemy)
 * [2025-04-23, 13:00:32](https://news.ycombinator.com/item?id=43771645) - [How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
 * [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
+* [2025-04-23, 11:24:28](https://news.ycombinator.com/item?id=43770821) - [How ZGC allocates memory for the Java heap](https://joelsiks.com/posts/zgc-heap-memory-allocation/)
 * [2025-04-23, 11:20:24](https://news.ycombinator.com/item?id=43770797) - [Mozilla blocks UAE for internet security guardian after hacking reports (2019)](https://www.reuters.com/article/us-usa-cyber-mozilla/mozilla-blocks-uae-bid-to-become-an-internet-security-guardian-after-hacking-reports-idUSKCN1U42CA/)
 * [2025-04-23, 11:07:40](https://news.ycombinator.com/item?id=43770704) - [What happens after the Pope dies?](https://www.vaticannews.va/en/vatican-city/news/2025-04/pope-death-what-happens-interregnum-sede-vacans.html)
 * [2025-04-23, 11:05:52](https://news.ycombinator.com/item?id=43770691) - ['60 Minutes' chief resigns, saying show's independence was compromised](https://www.npr.org/2025/04/22/nx-s1-5372733/60-minutes-bill-owens-cbs-trump-paramount)
