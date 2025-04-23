@@ -6,7 +6,6 @@
 * [2025-04-23, 19:13:03](https://news.ycombinator.com/item?id=43775670) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
 * [2025-04-23, 19:09:02](https://news.ycombinator.com/item?id=43775624) - [Ninth Circuit Takes a Wrecking Ball to Internet Personal Jurisdiction Law](https://blog.ericgoldman.org/archives/2025/04/ninth-circuit-takes-a-wrecking-ball-to-internet-personal-jurisdiction-law-briskin-v-shopify.htm)
 * [2025-04-23, 18:45:25](https://news.ycombinator.com/item?id=43775366) - ['Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)
-* [2025-04-23, 18:44:47](https://news.ycombinator.com/item?id=43775358) - [The Cost of AI Coding](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/)
 * [2025-04-23, 18:36:50](https://news.ycombinator.com/item?id=43775283) - [Sail-Trim Simulator](https://simulator.atterwind.info/)
 * [2025-04-23, 18:13:43](https://news.ycombinator.com/item?id=43774990) - [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html)
 * [2025-04-23, 18:08:39](https://news.ycombinator.com/item?id=43774938) - [Spring 83: a draft protocol intended to suggest new ways of relating online](https://github.com/robinsloan/spring-83)
@@ -30,6 +29,7 @@
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
 * [2025-04-21, 01:40:00](https://news.ycombinator.com/item?id=43747856) - [Samurai Cops: Inside Edo's Police Force During Feudal Japan](https://www.tokyoweekender.com/art_and_culture/japanese-culture/samurai-cops-inside-edos-police-force-during-feudal-japan/)
 * [2025-04-20, 23:04:41](https://news.ycombinator.com/item?id=43747186) - [Lessons learned operating petabyte-scale ClickHouse clusters: Part II](https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii)
+* [2025-04-20, 12:36:05](https://news.ycombinator.com/item?id=43743399) - [How MOS 6502 Illegal Opcodes Work (2008)](https://www.pagetable.com/?p=39)
 
 ## [Archives](archives/index.md)
 
