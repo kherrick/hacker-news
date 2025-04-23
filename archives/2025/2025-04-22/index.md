@@ -9,6 +9,7 @@
 * [2025-04-22, 22:15:00](https://news.ycombinator.com/item?id=43766803) - [Google won't ditch third-party cookies in Chrome after all](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/)
 * [2025-04-22, 22:00:36](https://news.ycombinator.com/item?id=43766728) - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
 * [2025-04-22, 22:00:07](https://news.ycombinator.com/item?id=43766726) - [Oregon House passes bill to criminalize sharing AI-generated fake nude photos](https://oregoncapitalchronicle.com/2025/04/15/oregon-house-passes-bill-to-criminalize-sharing-ai-generated-fake-nude-photos/)
+* [2025-04-22, 21:58:50](https://news.ycombinator.com/item?id=43766715) - [CSS Hell](https://csshell.com/)
 * [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-22, 20:23:38](https://news.ycombinator.com/item?id=43765908) - [Windows File Manager (WinFile) repository archived on March 1, 2025](https://github.com/microsoft/winfile)

@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-23, 00:07:45](https://news.ycombinator.com/item?id=43767476) - [Can Citizen Science Be Trusted? New Study of Birds Shows It Can](https://www.ucdavis.edu/news/can-citizen-science-be-trusted-new-study-birds-shows-it-can)
 * [2025-04-22, 22:55:09](https://news.ycombinator.com/item?id=43767058) - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
 * [2025-04-22, 22:41:08](https://news.ycombinator.com/item?id=43766979) - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
 * [2025-04-22, 22:15:00](https://news.ycombinator.com/item?id=43766803) - [Google won't ditch third-party cookies in Chrome after all](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/)
 * [2025-04-22, 22:00:36](https://news.ycombinator.com/item?id=43766728) - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
+* [2025-04-22, 21:58:50](https://news.ycombinator.com/item?id=43766715) - [CSS Hell](https://csshell.com/)
 * [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-22, 20:16:04](https://news.ycombinator.com/item?id=43765832) - [Classic Computer Replicas](https://obsolescence.dev/index.html)
@@ -24,10 +26,8 @@
 * [2025-04-22, 15:17:23](https://news.ycombinator.com/item?id=43763225) - [Supabase raises $200M Series D at $2B valuation](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html)
 * [2025-04-22, 13:35:47](https://news.ycombinator.com/item?id=43761998) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
 * [2025-04-22, 13:06:30](https://news.ycombinator.com/item?id=43761633) - [The raccoons who made computer magazine ads great](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/)
-* [2025-04-22, 09:27:20](https://news.ycombinator.com/item?id=43760357) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
-* [2025-04-20, 20:09:12](https://news.ycombinator.com/item?id=43746202) - [Inside the Rise and Fall of Toys 'R' Us (2018)](https://www.history.com/articles/toys-r-us-closing-legacy)
-* [2025-04-19, 11:51:56](https://news.ycombinator.com/item?id=43735806) - [Expo EAS Local Build Docker Image](https://github.com/erayalakese/eas-like-local-builder)
 * [2025-04-19, 09:57:10](https://news.ycombinator.com/item?id=43735378) - [Making a smart bike dumb so it works again](https://francisco.io/blog/making-a-smart-bike-dumb-work-again/)
+* [2025-04-19, 07:50:38](https://news.ycombinator.com/item?id=43734911) - [Solidjs: Simple and performant reactivity for building user interfaces](https://www.solidjs.com/)
 * [2025-04-18, 23:22:46](https://news.ycombinator.com/item?id=43732767) - [Native American names extend earthquake history of northeastern North America](https://phys.org/news/2025-04-native-american-earthquake-history-northeastern.html)
 * [2025-04-18, 22:31:40](https://news.ycombinator.com/item?id=43732416) - [More details for London's new Roman Basilica museum revealed](https://www.ianvisits.co.uk/articles/more-details-for-londons-new-roman-basilica-museum-revealed-80470/)
 

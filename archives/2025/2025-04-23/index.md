@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-23](index.md)
+
+* [2025-04-23, 00:07:45](https://news.ycombinator.com/item?id=43767476) - [Can Citizen Science Be Trusted? New Study of Birds Shows It Can](https://www.ucdavis.edu/news/can-citizen-science-be-trusted-new-study-birds-shows-it-can)
