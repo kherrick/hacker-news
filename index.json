@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-23, 18:45:25",
+      "https://news.ycombinator.com/item?id=43775366"
+    ],
+    [
+      "'Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman",
+      "https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 18:36:50",
+      "https://news.ycombinator.com/item?id=43775283"
+    ],
+    [
+      "Sail-Trim Simulator",
+      "https://simulator.atterwind.info/"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 18:13:43",
       "https://news.ycombinator.com/item?id=43774990"
     ],
@@ -201,22 +221,22 @@
   ],
   [
     [
+      "2025-04-23, 09:28:13",
+      "https://news.ycombinator.com/item?id=43770162"
+    ],
+    [
+      "Show HN: Body Controlled 3D Dino Game",
+      "https://nicknaskida.github.io/vibe-coding-game-jam/"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 07:20:19",
       "https://news.ycombinator.com/item?id=43769478"
     ],
     [
       "Pixel is a unit of length and area",
       "https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 07:17:16",
-      "https://news.ycombinator.com/item?id=43769461"
-    ],
-    [
-      "Why Does My eBPF Program Work on One Kernel but Fail on Another?",
-      "https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "How MOS 6502 Illegal Opcodes Work (2008)",
       "https://www.pagetable.com/?p=39"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 20:52:01",
-      "https://news.ycombinator.com/item?id=43739374"
-    ],
-    [
-      "Understand Your Dependencies",
-      "https://deps.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 07:50:38",
-      "https://news.ycombinator.com/item?id=43734911"
-    ],
-    [
-      "Solidjs: Simple and performant reactivity for building user interfaces",
-      "https://www.solidjs.com/"
     ]
   ]
 ]
