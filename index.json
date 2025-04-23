@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-04-23, 16:13:40",
-      "https://news.ycombinator.com/item?id=43773746"
+      "2025-04-23, 16:59:36",
+      "https://news.ycombinator.com/item?id=43774169"
     ],
     [
-      "More Everything Forever",
-      "https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html"
+      "Tarpit ideas – what are tarpit ideas and how to avoid them (2023) [video]",
+      "https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 16:41:44",
+      "https://news.ycombinator.com/item?id=43773977"
+    ],
+    [
+      "I won't be vibe coding anymore: a noob's perspective",
+      "https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 16:41:23",
+      "https://news.ycombinator.com/item?id=43773976"
+    ],
+    [
+      "Show HN: Moose – OSS framework to build analytical back ends with ClickHouse",
+      "https://docs.fiveonefour.com/moose"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 16:19:56",
+      "https://news.ycombinator.com/item?id=43773813"
+    ],
+    [
+      "AI Horseless Carriages",
+      "https://koomen.dev/essays/horseless-carriages/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-04-23, 07:20:33",
-      "https://news.ycombinator.com/item?id=43769482"
-    ],
-    [
-      "Open Source Projects Receive Funding to Reclaim the Public Internet",
-      "https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 07:20:19",
       "https://news.ycombinator.com/item?id=43769478"
     ],
@@ -177,16 +197,6 @@
     [
       "Beer on Board in the Age of Sail (2017)",
       "https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 06:23:10",
-      "https://news.ycombinator.com/item?id=43769201"
-    ],
-    [
-      "The Ghosts of Gaelic",
-      "https://www.historytoday.com/archive/behind-times/ghosts-gaelic"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2025-04-22, 16:03:32",
-      "https://news.ycombinator.com/item?id=43763688"
-    ],
-    [
-      "ClickHouse gets lazier and faster: Introducing lazy materialization",
-      "https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization"
-    ]
-  ],
-  [
-    [
       "2025-04-20, 23:23:43",
       "https://news.ycombinator.com/item?id=43747283"
     ],
     [
       "Restoring Old Software for Child Learning Safety",
       "https://rietta.com/blog/child-learning-with-old-software/"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 23:04:41",
+      "https://news.ycombinator.com/item?id=43747186"
+    ],
+    [
+      "Lessons learned operating petabyte-scale ClickHouse clusters: Part II",
+      "https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii"
     ]
   ],
   [
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2025-04-20, 21:07:03",
-      "https://news.ycombinator.com/item?id=43746532"
-    ],
-    [
-      "Demystifying decorators: They don't need to be cryptic",
-      "https://www.thepythoncodingstack.com/p/demystifying-python-decorators"
-    ]
-  ],
-  [
-    [
       "2025-04-20, 12:36:05",
       "https://news.ycombinator.com/item?id=43743399"
     ],
     [
-      "How MOS 6502 Illegal Opcodes Work – Michael Steil",
+      "How MOS 6502 Illegal Opcodes Work (2008)",
       "https://www.pagetable.com/?p=39"
     ]
   ],
