@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-23, 16:13:40",
+      "https://news.ycombinator.com/item?id=43773746"
+    ],
+    [
+      "More Everything Forever",
+      "https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 15:55:05",
+      "https://news.ycombinator.com/item?id=43773563"
+    ],
+    [
+      "Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents",
+      "https://github.com/trycua/cua"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 15:52:45",
       "https://news.ycombinator.com/item?id=43773537"
     ],
@@ -27,6 +47,16 @@
     [
       "How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2",
       "https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 13:17:48",
+      "https://news.ycombinator.com/item?id=43771816"
+    ],
+    [
+      "Show HN: Advanced-Alchemy – A framework agnostic library for SQLAlchemy",
+      "https://github.com/litestar-org/advanced-alchemy"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2025-04-22, 16:33:21",
-      "https://news.ycombinator.com/item?id=43763967"
+      "2025-04-22, 18:11:22",
+      "https://news.ycombinator.com/item?id=43764805"
     ],
     [
-      "Show HN: Rowboat – Open-source IDE for multi-agent systems",
-      "https://github.com/rowboatlabs/rowboat"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 16:03:32",
-      "https://news.ycombinator.com/item?id=43763688"
-    ],
-    [
-      "ClickHouse gets lazier and faster: Introducing lazy materialization",
-      "https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 15:55:12",
-      "https://news.ycombinator.com/item?id=43763614"
-    ],
-    [
-      "Algebraic Semantics for Machine Knitting",
-      "https://uwplse.org/2025/03/31/Algebraic-Knitting.html"
+      "Confirmation of Breslow's hypothesis: A carbene stable in liquid water",
+      "https://www.science.org/doi/10.1126/sciadv.adr9681"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "How MOS 6502 Illegal Opcodes Work – Michael Steil",
       "https://www.pagetable.com/?p=39"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 01:13:41",
-      "https://news.ycombinator.com/item?id=43740803"
-    ],
-    [
-      "Subnanosecond Flash Memory",
-      "https://www.nature.com/articles/s41586-025-08839-w"
     ]
   ],
   [
