@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
 * [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You Wouldn't Steal a Font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
+* [2025-04-23, 19:24:58](https://news.ycombinator.com/item?id=43775766) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
 * [2025-04-23, 19:18:43](https://news.ycombinator.com/item?id=43775715) - [Moon photovoltaics utilizing lunar regolith and halide perovskites](https://www.cell.com/device/fulltext/S2666-9986(25)00060-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998625000602%3Fshowall%3Dtrue&utm_source=clivethompson&utm_medium=email&utm_campaign=linkfest-33-two-hit-wonders-moonglass-and-trees)
+* [2025-04-23, 19:13:03](https://news.ycombinator.com/item?id=43775670) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
 * [2025-04-23, 19:09:02](https://news.ycombinator.com/item?id=43775624) - [Ninth Circuit Takes a Wrecking Ball to Internet Personal Jurisdiction Law](https://blog.ericgoldman.org/archives/2025/04/ninth-circuit-takes-a-wrecking-ball-to-internet-personal-jurisdiction-law-briskin-v-shopify.htm)
 * [2025-04-23, 18:45:25](https://news.ycombinator.com/item?id=43775366) - ['Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)
 * [2025-04-23, 18:44:47](https://news.ycombinator.com/item?id=43775358) - [The Cost of AI Coding](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/)
