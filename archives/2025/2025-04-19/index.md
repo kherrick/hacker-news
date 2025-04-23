@@ -13,6 +13,7 @@
 * [2025-04-19, 21:14:33](https://news.ycombinator.com/item?id=43739529) - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
 * [2025-04-19, 21:12:07](https://news.ycombinator.com/item?id=43739510) - [Monsky's Theorem](https://mathmondays.com/monskys-theorem)
 * [2025-04-19, 21:04:41](https://news.ycombinator.com/item?id=43739456) - [Show HN: I built an AI that turns GitHub codebases into easy tutorials](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
+* [2025-04-19, 20:52:01](https://news.ycombinator.com/item?id=43739374) - [Understand Your Dependencies](https://deps.dev/)
 * [2025-04-19, 20:48:54](https://news.ycombinator.com/item?id=43739357) - [Popular CT Scans Could Account for 5% of All Cancer Cases a Year](https://www.ucsf.edu/news/2025/04/429791/popular-ct-scans-could-account-5-all-cancer-cases-year)
 * [2025-04-19, 20:38:06](https://news.ycombinator.com/item?id=43739285) - [The Art of Assembly Language](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 * [2025-04-19, 20:00:17](https://news.ycombinator.com/item?id=43739037) - [Vibe Coding is not an excuse for low-quality work](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
