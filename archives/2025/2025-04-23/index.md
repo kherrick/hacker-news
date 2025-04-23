@@ -7,6 +7,7 @@
 * [2025-04-23, 07:21:44](https://news.ycombinator.com/item?id=43769486) - [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 * [2025-04-23, 07:20:33](https://news.ycombinator.com/item?id=43769482) - [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
 * [2025-04-23, 07:20:19](https://news.ycombinator.com/item?id=43769478) - [Pixel is a unit of length and area](https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area)
+* [2025-04-23, 07:17:16](https://news.ycombinator.com/item?id=43769461) - [Why Does My eBPF Program Work on One Kernel but Fail on Another?](https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on)
 * [2025-04-23, 06:51:24](https://news.ycombinator.com/item?id=43769343) - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
 * [2025-04-23, 06:23:10](https://news.ycombinator.com/item?id=43769201) - [The Ghosts of Gaelic](https://www.historytoday.com/archive/behind-times/ghosts-gaelic)
 * [2025-04-23, 06:11:16](https://news.ycombinator.com/item?id=43769140) - [Where did the false \"equal transit-time\" explanation of lift originate from?](https://hsm.stackexchange.com/questions/9931/where-did-the-false-equal-transit-time-explanation-of-lift-originate-from)
