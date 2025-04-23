@@ -45,6 +45,7 @@
 * [2025-04-19, 12:20:33](https://news.ycombinator.com/item?id=43735933) - [Lichens can survive almost anything, and some might survive Mars](https://arstechnica.com/science/2025/04/lichens-can-survive-almost-anything-and-some-might-survive-mars/)
 * [2025-04-19, 12:14:13](https://news.ycombinator.com/item?id=43735902) - [Android phones will soon reboot themselves after sitting unused for three days](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/)
 * [2025-04-19, 12:13:32](https://news.ycombinator.com/item?id=43735896) - [Perplexingly Book-Learned Emacs](https://lars.ingebrigtsen.no/2025/04/17/perplexingly-book-learned-emacs/)
+* [2025-04-19, 12:11:49](https://news.ycombinator.com/item?id=43735882) - [The Last of Their Kind](https://nautil.us/the-last-of-their-kind-1204387/)
 * [2025-04-19, 12:09:38](https://news.ycombinator.com/item?id=43735870) - [China Can Have It All – China is currently winner of America's self-sabotage](https://minnalander.substack.com/p/china-can-have-it-all)
 * [2025-04-19, 11:51:56](https://news.ycombinator.com/item?id=43735806) - [Expo EAS Local Build Docker Image](https://github.com/erayalakese/eas-like-local-builder)
 * [2025-04-19, 11:50:51](https://news.ycombinator.com/item?id=43735798) - [FramePack – Enabling Fast Video Generation on Consumer GPUs](https://framepack.co/)

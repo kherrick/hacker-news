@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 10:01:04](https://news.ycombinator.com/item?id=43770337) - [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
 * [2025-04-23, 08:52:32](https://news.ycombinator.com/item?id=43769959) - [A Pixel Is Not a Little Square (1995) [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
 * [2025-04-23, 08:49:34](https://news.ycombinator.com/item?id=43769936) - [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
 * [2025-04-23, 07:21:44](https://news.ycombinator.com/item?id=43769486) - [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
