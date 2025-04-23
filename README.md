@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You Wouldn't Steal a Font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
+* [2025-04-23, 20:52:19](https://news.ycombinator.com/item?id=43776512) - [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
+* [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 * [2025-04-23, 19:36:41](https://news.ycombinator.com/item?id=43775878) - [Show HN: Nowrite.fun – If you stop typing, your text disappears](https://nowrite.fun)
 * [2025-04-23, 19:24:58](https://news.ycombinator.com/item?id=43775766) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
 * [2025-04-23, 19:13:03](https://news.ycombinator.com/item?id=43775670) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
@@ -14,9 +15,9 @@
 * [2025-04-23, 17:45:35](https://news.ycombinator.com/item?id=43774702) - [A Computational Proof of the Highest-Scoring Boggle Board](https://www.danvk.org/2025/04/23/boggle-solved.html)
 * [2025-04-23, 17:12:58](https://news.ycombinator.com/item?id=43774327) - [The Future of MCPs](https://iamcharliegraham.substack.com/publish/post/161906169)
 * [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
+* [2025-04-23, 16:13:40](https://news.ycombinator.com/item?id=43773746) - [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
 * [2025-04-23, 16:10:12](https://news.ycombinator.com/item?id=43773710) - [They made computers behave like annoying salesmen](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen)
 * [2025-04-23, 15:55:05](https://news.ycombinator.com/item?id=43773563) - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
-* [2025-04-23, 15:52:45](https://news.ycombinator.com/item?id=43773537) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
 * [2025-04-23, 14:14:30](https://news.ycombinator.com/item?id=43772503) - [Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf)
 * [2025-04-23, 14:00:11](https://news.ycombinator.com/item?id=43772311) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 * [2025-04-23, 13:00:32](https://news.ycombinator.com/item?id=43771645) - [How I blog with Obsidian, Hugo, GitHub, and Cloudflare](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
@@ -25,11 +26,10 @@
 * [2025-04-23, 10:52:08](https://news.ycombinator.com/item?id=43770615) - [Collatz's Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
 * [2025-04-23, 10:21:57](https://news.ycombinator.com/item?id=43770445) - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
 * [2025-04-23, 09:28:13](https://news.ycombinator.com/item?id=43770162) - [Show HN: Body Controlled 3D Dino Game](https://nicknaskida.github.io/vibe-coding-game-jam/)
-* [2025-04-22, 19:14:33](https://news.ycombinator.com/item?id=43765310) - [Willy Ley Was a Prophet of Space Travel. His Ashes Were Found in a Basement.](https://www.nytimes.com/2025/04/21/nyregion/willy-ley-rocket-ashes.html)
+* [2025-04-22, 19:14:33](https://news.ycombinator.com/item?id=43765310) - [Willy Ley was a prophet of space travel](https://www.nytimes.com/2025/04/21/nyregion/willy-ley-rocket-ashes.html)
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
 * [2025-04-21, 01:40:00](https://news.ycombinator.com/item?id=43747856) - [Samurai Cops: Inside Edo's Police Force During Feudal Japan](https://www.tokyoweekender.com/art_and_culture/japanese-culture/samurai-cops-inside-edos-police-force-during-feudal-japan/)
 * [2025-04-20, 23:04:41](https://news.ycombinator.com/item?id=43747186) - [Lessons learned operating petabyte-scale ClickHouse clusters: Part II](https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii)
-* [2025-04-20, 12:36:05](https://news.ycombinator.com/item?id=43743399) - [How MOS 6502 Illegal Opcodes Work (2008)](https://www.pagetable.com/?p=39)
 
 ## [Archives](archives/index.md)
 
