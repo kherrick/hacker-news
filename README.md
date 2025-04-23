@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-23, 18:45:25](https://news.ycombinator.com/item?id=43775366) - ['Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)
+* [2025-04-23, 18:36:50](https://news.ycombinator.com/item?id=43775283) - [Sail-Trim Simulator](https://simulator.atterwind.info/)
 * [2025-04-23, 18:13:43](https://news.ycombinator.com/item?id=43774990) - [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html)
 * [2025-04-23, 18:08:39](https://news.ycombinator.com/item?id=43774938) - [Spring 83: a draft protocol intended to suggest new ways of relating online](https://github.com/robinsloan/spring-83)
 * [2025-04-23, 17:49:52](https://news.ycombinator.com/item?id=43774742) - [The Really Big One (2015)](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)
@@ -20,16 +22,14 @@
 * [2025-04-23, 10:52:08](https://news.ycombinator.com/item?id=43770615) - [Collatz's Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
 * [2025-04-23, 10:21:58](https://news.ycombinator.com/item?id=43770446) - [Geocoding APIs compared: Pricing, free tiers and terms of use](https://www.bitoff.org/geocoding-apis-comparison/)
 * [2025-04-23, 10:21:57](https://news.ycombinator.com/item?id=43770445) - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
+* [2025-04-23, 09:28:13](https://news.ycombinator.com/item?id=43770162) - [Show HN: Body Controlled 3D Dino Game](https://nicknaskida.github.io/vibe-coding-game-jam/)
 * [2025-04-23, 07:20:19](https://news.ycombinator.com/item?id=43769478) - [Pixel is a unit of length and area](https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area)
-* [2025-04-23, 07:17:16](https://news.ycombinator.com/item?id=43769461) - [Why Does My eBPF Program Work on One Kernel but Fail on Another?](https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on)
 * [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-21, 00:36:00](https://news.ycombinator.com/item?id=43747634) - [To Avoid Deer Strikes, Finland Is Painting Deer Antlers with Reflective Paint](https://www.smithsonianmag.com/smart-news/avoid-deer-strikes-finland-painting-deer-antlers-reflective-paint-180949792/)
 * [2025-04-20, 23:04:41](https://news.ycombinator.com/item?id=43747186) - [Lessons learned operating petabyte-scale ClickHouse clusters: Part II](https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii)
 * [2025-04-20, 12:36:05](https://news.ycombinator.com/item?id=43743399) - [How MOS 6502 Illegal Opcodes Work (2008)](https://www.pagetable.com/?p=39)
-* [2025-04-19, 20:52:01](https://news.ycombinator.com/item?id=43739374) - [Understand Your Dependencies](https://deps.dev/)
-* [2025-04-19, 07:50:38](https://news.ycombinator.com/item?id=43734911) - [Solidjs: Simple and performant reactivity for building user interfaces](https://www.solidjs.com/)
 
 ## [Archives](archives/index.md)
 

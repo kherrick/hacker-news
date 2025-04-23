@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 18:45:25](https://news.ycombinator.com/item?id=43775366) - ['Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)
+* [2025-04-23, 18:36:50](https://news.ycombinator.com/item?id=43775283) - [Sail-Trim Simulator](https://simulator.atterwind.info/)
 * [2025-04-23, 18:13:43](https://news.ycombinator.com/item?id=43774990) - [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html)
 * [2025-04-23, 18:08:39](https://news.ycombinator.com/item?id=43774938) - [Spring 83: a draft protocol intended to suggest new ways of relating online](https://github.com/robinsloan/spring-83)
 * [2025-04-23, 17:49:52](https://news.ycombinator.com/item?id=43774742) - [The Really Big One (2015)](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)
@@ -39,6 +41,7 @@
 * [2025-04-23, 10:01:04](https://news.ycombinator.com/item?id=43770337) - [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
 * [2025-04-23, 09:55:09](https://news.ycombinator.com/item?id=43770312) - [OpenAI wants to buy Chrome and make it an \"AI-first\" experience](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/)
 * [2025-04-23, 09:40:11](https://news.ycombinator.com/item?id=43770228) - [Sixty Years On, We Still Dream of the Arrow](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/)
+* [2025-04-23, 09:28:13](https://news.ycombinator.com/item?id=43770162) - [Show HN: Body Controlled 3D Dino Game](https://nicknaskida.github.io/vibe-coding-game-jam/)
 * [2025-04-23, 08:52:32](https://news.ycombinator.com/item?id=43769959) - [A Pixel Is Not a Little Square (1995) [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
 * [2025-04-23, 08:49:34](https://news.ycombinator.com/item?id=43769936) - [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
 * [2025-04-23, 07:21:44](https://news.ycombinator.com/item?id=43769486) - [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
