@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-04-23, 11:20:24",
-      "https://news.ycombinator.com/item?id=43770797"
-    ],
-    [
-      "Mozilla blocks UAE for internet security guardian after hacking reports (2019)",
-      "https://www.reuters.com/article/us-usa-cyber-mozilla/mozilla-blocks-uae-bid-to-become-an-internet-security-guardian-after-hacking-reports-idUSKCN1U42CA/"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 10:52:08",
       "https://news.ycombinator.com/item?id=43770615"
     ],
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2025-04-23, 10:01:04",
-      "https://news.ycombinator.com/item?id=43770337"
-    ],
-    [
-      "Apple and Meta fined millions for breaching EU law",
-      "https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 09:40:11",
       "https://news.ycombinator.com/item?id=43770228"
     ],
@@ -107,16 +87,6 @@
     [
       "The Gruen Transfer is consuming the internet",
       "https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 07:21:44",
-      "https://news.ycombinator.com/item?id=43769486"
-    ],
-    [
-      "Advanced Python Features",
-      "https://blog.edward-li.com/tech/advanced-python-features/"
     ]
   ],
   [
@@ -221,6 +191,26 @@
   ],
   [
     [
+      "2025-04-22, 17:29:31",
+      "https://news.ycombinator.com/item?id=43764439"
+    ],
+    [
+      "π0.5: A VLA with open-world generalization",
+      "https://pi.website/blog/pi05"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 16:33:21",
+      "https://news.ycombinator.com/item?id=43763967"
+    ],
+    [
+      "Show HN: Rowboat – Open-source IDE for multi-agent systems",
+      "https://github.com/rowboatlabs/rowboat"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 16:03:32",
       "https://news.ycombinator.com/item?id=43763688"
     ],
@@ -267,6 +257,16 @@
     [
       "Demystifying decorators: They don't need to be cryptic",
       "https://www.thepythoncodingstack.com/p/demystifying-python-decorators"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 12:36:05",
+      "https://news.ycombinator.com/item?id=43743399"
+    ],
+    [
+      "How MOS 6502 Illegal Opcodes Work – Michael Steil",
+      "https://www.pagetable.com/?p=39"
     ]
   ],
   [
