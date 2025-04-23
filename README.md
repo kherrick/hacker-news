@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
 * [2025-04-23, 02:49:49](https://news.ycombinator.com/item?id=43768234) - [The Rise and Fall and Rise Again of Lionel Trains (1997)](http://spikesys.com/Modelrr/lionel.html)
 * [2025-04-23, 01:42:28](https://news.ycombinator.com/item?id=43767944) - [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
 * [2025-04-22, 22:55:09](https://news.ycombinator.com/item?id=43767058) - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
@@ -22,8 +23,7 @@
 * [2025-04-22, 16:03:32](https://news.ycombinator.com/item?id=43763688) - [ClickHouse gets lazier and faster: Introducing lazy materialization](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization)
 * [2025-04-22, 15:55:12](https://news.ycombinator.com/item?id=43763614) - [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
 * [2025-04-22, 13:35:47](https://news.ycombinator.com/item?id=43761998) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
-* [2025-04-22, 13:06:30](https://news.ycombinator.com/item?id=43761633) - [The raccoons who made computer magazine ads great](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/)
-* [2025-04-22, 04:27:40](https://news.ycombinator.com/item?id=43759073) - [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
+* [2025-04-21, 19:44:58](https://news.ycombinator.com/item?id=43755682) - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
 * [2025-04-20, 20:09:12](https://news.ycombinator.com/item?id=43746202) - [The Rise and Fall of Toys 'R' Us (2018)](https://www.history.com/articles/toys-r-us-closing-legacy)
 * [2025-04-20, 15:12:54](https://news.ycombinator.com/item?id=43744299) - [A Review of the Personal Humanoid Robots](https://readmultiplex.com/2025/04/19/a-review-of-the-personal-humanoid-robots/)
 * [2025-04-19, 09:57:10](https://news.ycombinator.com/item?id=43735378) - [Making a smart bike dumb so it works again](https://francisco.io/blog/making-a-smart-bike-dumb-work-again/)

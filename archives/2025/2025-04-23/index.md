@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
 * [2025-04-23, 02:49:49](https://news.ycombinator.com/item?id=43768234) - [The Rise and Fall and Rise Again of Lionel Trains (1997)](http://spikesys.com/Modelrr/lionel.html)
 * [2025-04-23, 02:19:21](https://news.ycombinator.com/item?id=43768117) - [The Problem with Modern Engineering Isn't Speed. It's Chaos](https://earthly.dev/blog/lunar-launch/)
 * [2025-04-23, 02:06:37](https://news.ycombinator.com/item?id=43768054) - [The Fourth Circuit's Opinion in the Abrego García Case](https://writing.kemitchell.com/2025/04/20/Fourth-Circuit-Abrego-Garcia)
