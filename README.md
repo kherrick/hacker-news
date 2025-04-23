@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-23, 13:35:21](https://news.ycombinator.com/item?id=43772012) - [Berlin DeepTech Landscape](https://startup-map.berlin/lists/53190)
 * [2025-04-23, 13:00:32](https://news.ycombinator.com/item?id=43771645) - [How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
 * [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
 * [2025-04-23, 11:20:24](https://news.ycombinator.com/item?id=43770797) - [Mozilla blocks UAE for internet security guardian after hacking reports (2019)](https://www.reuters.com/article/us-usa-cyber-mozilla/mozilla-blocks-uae-bid-to-become-an-internet-security-guardian-after-hacking-reports-idUSKCN1U42CA/)
@@ -21,7 +22,6 @@
 * [2025-04-22, 21:58:50](https://news.ycombinator.com/item?id=43766715) - [CSS Hell](https://csshell.com/)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-22, 18:39:20](https://news.ycombinator.com/item?id=43765011) - [Sapphire: Rust based package manager for macOS (Homebrew replacement)](https://github.com/alexykn/sapphire)
-* [2025-04-22, 16:33:21](https://news.ycombinator.com/item?id=43763967) - [Show HN: Rowboat – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
 * [2025-04-22, 16:03:32](https://news.ycombinator.com/item?id=43763688) - [ClickHouse gets lazier and faster: Introducing lazy materialization](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization)
 * [2025-04-22, 15:55:12](https://news.ycombinator.com/item?id=43763614) - [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
 * [2025-04-20, 23:23:43](https://news.ycombinator.com/item?id=43747283) - [Restoring Old Software for Child Learning Safety](https://rietta.com/blog/child-learning-with-old-software/)
