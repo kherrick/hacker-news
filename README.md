@@ -4,7 +4,6 @@
 * [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776476) - [Doge Worker's Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
 * [2025-04-23, 20:37:54](https://news.ycombinator.com/item?id=43776385) - [Lucene University](https://github.com/msfroh/lucene-university)
 * [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
-* [2025-04-23, 19:36:41](https://news.ycombinator.com/item?id=43775878) - [Show HN: Nowrite.fun – If you stop typing, your text disappears](https://nowrite.fun)
 * [2025-04-23, 19:24:58](https://news.ycombinator.com/item?id=43775766) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
 * [2025-04-23, 19:13:03](https://news.ycombinator.com/item?id=43775670) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
 * [2025-04-23, 19:09:02](https://news.ycombinator.com/item?id=43775624) - [Ninth Circuit Takes a Wrecking Ball to Internet Personal Jurisdiction Law](https://blog.ericgoldman.org/archives/2025/04/ninth-circuit-takes-a-wrecking-ball-to-internet-personal-jurisdiction-law-briskin-v-shopify.htm)
@@ -30,6 +29,7 @@
 * [2025-04-22, 19:14:33](https://news.ycombinator.com/item?id=43765310) - [Willy Ley was a prophet of space travel](https://www.nytimes.com/2025/04/21/nyregion/willy-ley-rocket-ashes.html)
 * [2025-04-22, 19:04:34](https://news.ycombinator.com/item?id=43765227) - [Mt Ontake](https://www.emgoto.com/mt-ontake/)
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
+* [2025-04-20, 23:04:41](https://news.ycombinator.com/item?id=43747186) - [Lessons learned operating petabyte-scale ClickHouse clusters: Part II](https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii)
 
 ## [Archives](archives/index.md)
 
