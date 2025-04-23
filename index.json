@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-04-23, 18:44:47",
-      "https://news.ycombinator.com/item?id=43775358"
-    ],
-    [
-      "The Cost of AI Coding",
-      "https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 18:36:50",
       "https://news.ycombinator.com/item?id=43775283"
     ],
@@ -297,6 +287,16 @@
     [
       "Lessons learned operating petabyte-scale ClickHouse clusters: Part II",
       "https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii"
+    ]
+  ],
+  [
+    [
+      "2025-04-20, 12:36:05",
+      "https://news.ycombinator.com/item?id=43743399"
+    ],
+    [
+      "How MOS 6502 Illegal Opcodes Work (2008)",
+      "https://www.pagetable.com/?p=39"
     ]
   ]
 ]
