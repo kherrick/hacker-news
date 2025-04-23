@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
 * [2025-04-23, 20:52:19](https://news.ycombinator.com/item?id=43776512) - [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
+* [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776476) - [Doge Worker's Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
+* [2025-04-23, 20:37:54](https://news.ycombinator.com/item?id=43776385) - [Lucene University](https://github.com/msfroh/lucene-university)
 * [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You Wouldn't Steal a Font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 * [2025-04-23, 19:36:41](https://news.ycombinator.com/item?id=43775878) - [Show HN: Nowrite.fun – If you stop typing, your text disappears](https://nowrite.fun)
 * [2025-04-23, 19:24:58](https://news.ycombinator.com/item?id=43775766) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
@@ -25,6 +27,7 @@
 * [2025-04-23, 16:41:23](https://news.ycombinator.com/item?id=43773976) - [Show HN: Moose – OSS framework to build analytical back ends with ClickHouse](https://docs.fiveonefour.com/moose)
 * [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 * [2025-04-23, 16:13:40](https://news.ycombinator.com/item?id=43773746) - [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
+* [2025-04-23, 16:11:11](https://news.ycombinator.com/item?id=43773720) - [Show HN: Index – new SOTA Open Source browser agent](https://github.com/lmnr-ai/index)
 * [2025-04-23, 16:10:12](https://news.ycombinator.com/item?id=43773710) - [They made computers behave like annoying salesmen](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen)
 * [2025-04-23, 15:55:05](https://news.ycombinator.com/item?id=43773563) - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
 * [2025-04-23, 15:52:45](https://news.ycombinator.com/item?id=43773537) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
