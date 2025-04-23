@@ -1,32 +1,22 @@
 [
   [
     [
-      "2025-04-23, 14:33:33",
-      "https://news.ycombinator.com/item?id=43772696"
-    ],
-    [
-      "Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?",
-      "https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 14:29:45",
-      "https://news.ycombinator.com/item?id=43772662"
-    ],
-    [
-      "\"Periodic table of machine learning\" could fuel AI discovery",
-      "https://news.mit.edu/2025/machine-learning-periodic-table-could-fuel-ai-discovery-0423"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 14:00:11",
       "https://news.ycombinator.com/item?id=43772311"
     ],
     [
       "How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2",
       "https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 13:44:22",
+      "https://news.ycombinator.com/item?id=43772123"
+    ],
+    [
+      "Digital Ghost Towns: When Big Companies Acquire, Shut Down, and Sit on Domains",
+      "https://www.snagged.com/post/digital-ghost-towns-when-big-companies-acquire-shut-down-and-sit-on-premium-domains"
     ]
   ],
   [
@@ -81,12 +71,12 @@
   ],
   [
     [
-      "2025-04-23, 10:12:55",
-      "https://news.ycombinator.com/item?id=43770396"
+      "2025-04-23, 10:01:04",
+      "https://news.ycombinator.com/item?id=43770337"
     ],
     [
-      "EU fines Apple €500M and Meta €200M",
-      "https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/"
+      "Apple and Meta fined millions for breaching EU law",
+      "https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html"
     ]
   ],
   [
@@ -137,6 +127,16 @@
     [
       "Why Does My eBPF Program Work on One Kernel but Fail on Another?",
       "https://ebpfchirp.substack.com/p/why-does-my-ebpf-program-work-on"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 06:42:31",
+      "https://news.ycombinator.com/item?id=43769289"
+    ],
+    [
+      "Beer on Board in the Age of Sail (2017)",
+      "https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=43765011"
     ],
     [
-      "Sapphire: Rust based package manager for macOS (Homebrew replacement)",
+      "Sapphire: Rust based package manager for macOS",
       "https://github.com/alexykn/sapphire"
     ]
   ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-04-19, 12:11:49",
-      "https://news.ycombinator.com/item?id=43735882"
+      "2025-04-19, 20:52:01",
+      "https://news.ycombinator.com/item?id=43739374"
     ],
     [
-      "The Last of Their Kind",
-      "https://nautil.us/the-last-of-their-kind-1204387/"
+      "Understand Your Dependencies",
+      "https://deps.dev/"
     ]
   ],
   [
