@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
 * [2025-04-23, 10:21:57](https://news.ycombinator.com/item?id=43770445) - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
+* [2025-04-23, 10:12:55](https://news.ycombinator.com/item?id=43770396) - [EU fines Apple €500M and Meta €200M](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/)
 * [2025-04-23, 10:10:28](https://news.ycombinator.com/item?id=43770382) - [America's cyber defenses are being dismantled from the inside](https://www.theregister.com/2025/04/23/trump_us_security/)
 * [2025-04-23, 10:01:04](https://news.ycombinator.com/item?id=43770337) - [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
 * [2025-04-23, 09:55:09](https://news.ycombinator.com/item?id=43770312) - [OpenAI wants to buy Chrome and make it an \"AI-first\" experience](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/)

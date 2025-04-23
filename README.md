@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-23, 10:21:57](https://news.ycombinator.com/item?id=43770445) - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
+* [2025-04-23, 10:12:55](https://news.ycombinator.com/item?id=43770396) - [EU fines Apple €500M and Meta €200M](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/)
 * [2025-04-23, 10:10:28](https://news.ycombinator.com/item?id=43770382) - [America's cyber defenses are being dismantled from the inside](https://www.theregister.com/2025/04/23/trump_us_security/)
 * [2025-04-23, 10:01:04](https://news.ycombinator.com/item?id=43770337) - [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
 * [2025-04-23, 09:55:09](https://news.ycombinator.com/item?id=43770312) - [OpenAI wants to buy Chrome and make it an \"AI-first\" experience](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/)
@@ -18,7 +19,6 @@
 * [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-22, 18:39:20](https://news.ycombinator.com/item?id=43765011) - [Sapphire: Rust based package manager for macOS (Homebrew replacement)](https://github.com/alexykn/sapphire)
-* [2025-04-22, 18:28:20](https://news.ycombinator.com/item?id=43764915) - [Ping, You've Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
 * [2025-04-22, 17:29:31](https://news.ycombinator.com/item?id=43764439) - [π0.5: A VLA with open-world generalization](https://pi.website/blog/pi05)
 * [2025-04-22, 16:33:21](https://news.ycombinator.com/item?id=43763967) - [Show HN: Rowboat – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
 * [2025-04-22, 16:03:32](https://news.ycombinator.com/item?id=43763688) - [ClickHouse gets lazier and faster: Introducing lazy materialization](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization)
