@@ -26,9 +26,9 @@
 * [2025-04-21, 19:44:58](https://news.ycombinator.com/item?id=43755682) - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
 * [2025-04-20, 20:09:12](https://news.ycombinator.com/item?id=43746202) - [The Rise and Fall of Toys 'R' Us (2018)](https://www.history.com/articles/toys-r-us-closing-legacy)
 * [2025-04-20, 18:12:15](https://news.ycombinator.com/item?id=43745410) - [Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72](https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html)
+* [2025-04-20, 15:12:54](https://news.ycombinator.com/item?id=43744299) - [A Review of the Personal Humanoid Robots](https://readmultiplex.com/2025/04/19/a-review-of-the-personal-humanoid-robots/)
 * [2025-04-19, 09:57:10](https://news.ycombinator.com/item?id=43735378) - [Making a smart bike dumb so it works again](https://francisco.io/blog/making-a-smart-bike-dumb-work-again/)
 * [2025-04-19, 07:50:38](https://news.ycombinator.com/item?id=43734911) - [Solidjs: Simple and performant reactivity for building user interfaces](https://www.solidjs.com/)
-* [2025-04-19, 02:32:42](https://news.ycombinator.com/item?id=43733740) - [The Illuminated Gospel of St John](https://www.cambridge.org/universitypress/bibles/illuminated-gospel-of-st-john)
 * [2025-04-19, 01:40:35](https://news.ycombinator.com/item?id=43733495) - [Can rotation solve the Hubble Puzzle?](https://academic.oup.com/mnras/article/538/4/3038/8090496?login=false)
 
 ## [Archives](archives/index.md)
