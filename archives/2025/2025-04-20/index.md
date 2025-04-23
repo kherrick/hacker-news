@@ -52,6 +52,7 @@
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 * [2025-04-20, 10:23:58](https://news.ycombinator.com/item?id=43742859) - [You Commit Three Felonies a Day (2013)](https://kottke.org/13/06/you-commit-three-felonies-a-day)
 * [2025-04-20, 09:45:27](https://news.ycombinator.com/item?id=43742722) - [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)
+* [2025-04-20, 08:39:28](https://news.ycombinator.com/item?id=43742449) - ['Nobody has done this before': Britain's beloved steam trains trial technology](https://www.theguardian.com/uk-news/2025/apr/19/nobody-has-done-this-before-britains-beloved-steam-trains-trial-pioneering-technology)
 * [2025-04-20, 06:49:13](https://news.ycombinator.com/item?id=43741987) - [Meteor Burst Communications](https://ronaldelliott.com/mbc.html)
 * [2025-04-20, 06:07:57](https://news.ycombinator.com/item?id=43741849) - [Let's give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack, featuring Slirp-CK](http://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html)
 * [2025-04-20, 05:09:05](https://news.ycombinator.com/item?id=43741655) - [The AI skeptic's guide to AI collaboration](https://hils.substack.com/p/the-ai-skeptics-guide-to-ai-collaboration)
