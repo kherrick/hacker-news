@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 17:48:20](https://news.ycombinator.com/item?id=43774726) - [Graphics Livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
+* [2025-04-23, 17:45:35](https://news.ycombinator.com/item?id=43774702) - [A Computational Proof of the Highest-Scoring Boggle Board](https://www.danvk.org/2025/04/23/boggle-solved.html)
 * [2025-04-23, 17:12:58](https://news.ycombinator.com/item?id=43774327) - [The Future of MCPs](https://iamcharliegraham.substack.com/publish/post/161906169)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas – what are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-23, 16:41:44](https://news.ycombinator.com/item?id=43773977) - [I won't be vibe coding anymore: a noob's perspective](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/)
