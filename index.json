@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-04-23, 21:25:11",
-      "https://news.ycombinator.com/item?id=43776769"
-    ],
-    [
-      "Even Republicans are falling out of love with Tesla",
-      "https://www.economist.com/business/2025/04/23/even-republicans-are-falling-out-of-love-with-tesla"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 20:52:19",
       "https://news.ycombinator.com/item?id=43776512"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43776476"
     ],
     [
-      "Doge Worker's Code Supports NLRB Whistleblower",
+      "DOGE Worker’s Code Supports NLRB Whistleblower",
       "https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/"
     ]
   ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2025-04-23, 16:11:11",
+      "https://news.ycombinator.com/item?id=43773720"
+    ],
+    [
+      "Show HN: Index – new SOTA Open Source browser agent",
+      "https://github.com/lmnr-ai/index"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 16:10:12",
       "https://news.ycombinator.com/item?id=43773710"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-04-23, 13:00:32",
-      "https://news.ycombinator.com/item?id=43771645"
-    ],
-    [
-      "How I blog with Obsidian, Hugo, GitHub, and Cloudflare",
-      "https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 12:35:49",
       "https://news.ycombinator.com/item?id=43771365"
     ],
     [
       "Show HN: Node.js video tutorials where you can edit and run the code",
       "https://news.ycombinator.com/item?id=43771365"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 11:24:28",
+      "https://news.ycombinator.com/item?id=43770821"
+    ],
+    [
+      "How ZGC allocates memory for the Java heap",
+      "https://joelsiks.com/posts/zgc-heap-memory-allocation/"
     ]
   ],
   [
