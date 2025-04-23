@@ -35,6 +35,7 @@
 * [2025-04-20, 15:28:06](https://news.ycombinator.com/item?id=43744394) - [The skill of the future is not 'AI', but 'Focus'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 * [2025-04-20, 15:20:35](https://news.ycombinator.com/item?id=43744343) - [Pushing the Limits of LLM Quantization via the Linearity Theorem](https://arxiv.org/abs/2411.17525)
 * [2025-04-20, 15:20:17](https://news.ycombinator.com/item?id=43744342) - [Tini: A tiny but valid `init` for containers](https://github.com/krallin/tini)
+* [2025-04-20, 15:12:54](https://news.ycombinator.com/item?id=43744299) - [A Review of the Personal Humanoid Robots](https://readmultiplex.com/2025/04/19/a-review-of-the-personal-humanoid-robots/)
 * [2025-04-20, 14:55:33](https://news.ycombinator.com/item?id=43744173) - [Jagged AGI: o3, Gemini 2.5, and everything after](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything)
 * [2025-04-20, 14:47:01](https://news.ycombinator.com/item?id=43744116) - [OAuth's Role in MCP Security](https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security)
 * [2025-04-20, 14:35:25](https://news.ycombinator.com/item?id=43744043) - [Meta's Monopoly Made It a Fair-Weather Friend](https://www.wired.com/story/plaintext-ftc-meta-trial-mark-zuckerberg/)
