@@ -52,6 +52,7 @@
 * [2025-04-20, 13:27:36](https://news.ycombinator.com/item?id=43743629) - [Show HN: A Standalone/GitHub CLI Extension to Preview GitHub Flavored Markdown](https://github.com/thiagokokada/gh-gfm-preview)
 * [2025-04-20, 13:25:49](https://news.ycombinator.com/item?id=43743621) - [Show HN: Frame-Pack-Next Frame Prediction AI Video Generator](https://frame-pack.video/)
 * [2025-04-20, 12:38:44](https://news.ycombinator.com/item?id=43743406) - ['Biological reality': What genetics has taught us about race](https://www.bbc.com/future/article/20250417-biological-reality-what-genetics-has-taught-us-about-race)
+* [2025-04-20, 12:36:05](https://news.ycombinator.com/item?id=43743399) - [How MOS 6502 Illegal Opcodes Work – Michael Steil](https://www.pagetable.com/?p=39)
 * [2025-04-20, 12:22:06](https://news.ycombinator.com/item?id=43743337) - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 * [2025-04-20, 10:23:58](https://news.ycombinator.com/item?id=43742859) - [You Commit Three Felonies a Day (2013)](https://kottke.org/13/06/you-commit-three-felonies-a-day)
 * [2025-04-20, 09:45:27](https://news.ycombinator.com/item?id=43742722) - [What the hell is an elliptic curve?](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve)
