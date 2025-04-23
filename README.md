@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
-* [2025-04-23, 02:13:40](https://news.ycombinator.com/item?id=43768088) - [The Outlook for Programmers](https://cacm.acm.org/news/the-outlook-for-programmers/)
 * [2025-04-23, 01:42:28](https://news.ycombinator.com/item?id=43767944) - [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
 * [2025-04-22, 22:55:09](https://news.ycombinator.com/item?id=43767058) - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
 * [2025-04-22, 22:41:08](https://news.ycombinator.com/item?id=43766979) - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
@@ -10,6 +9,7 @@
 * [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-22, 20:16:04](https://news.ycombinator.com/item?id=43765832) - [Classic Computer Replicas](https://obsolescence.dev/index.html)
+* [2025-04-22, 19:02:04](https://news.ycombinator.com/item?id=43765207) - [Can a single AI model advance any field of science?](https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai)
 * [2025-04-22, 18:47:05](https://news.ycombinator.com/item?id=43765084) - [How long does it take to create a new habit? (2015)](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/)
 * [2025-04-22, 18:39:20](https://news.ycombinator.com/item?id=43765011) - [Sapphire: Rust based package manager for macOS (Homebrew replacement)](https://github.com/alexykn/sapphire)
 * [2025-04-22, 18:28:20](https://news.ycombinator.com/item?id=43764915) - [Ping, You've Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
