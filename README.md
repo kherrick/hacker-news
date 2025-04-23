@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-23, 13:00:32](https://news.ycombinator.com/item?id=43771645) - [How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
 * [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
 * [2025-04-23, 11:20:24](https://news.ycombinator.com/item?id=43770797) - [Mozilla blocks UAE for internet security guardian after hacking reports (2019)](https://www.reuters.com/article/us-usa-cyber-mozilla/mozilla-blocks-uae-bid-to-become-an-internet-security-guardian-after-hacking-reports-idUSKCN1U42CA/)
 * [2025-04-23, 10:52:08](https://news.ycombinator.com/item?id=43770615) - [Collatz's Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
@@ -7,7 +8,6 @@
 * [2025-04-23, 10:21:57](https://news.ycombinator.com/item?id=43770445) - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
 * [2025-04-23, 10:10:28](https://news.ycombinator.com/item?id=43770382) - [America's cyber defenses are being dismantled from the inside](https://www.theregister.com/2025/04/23/trump_us_security/)
 * [2025-04-23, 10:01:04](https://news.ycombinator.com/item?id=43770337) - [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
-* [2025-04-23, 09:55:09](https://news.ycombinator.com/item?id=43770312) - [OpenAI wants to buy Chrome and make it an \"AI-first\" experience](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/)
 * [2025-04-23, 09:40:11](https://news.ycombinator.com/item?id=43770228) - [Sixty Years On, We Still Dream of the Arrow](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/)
 * [2025-04-23, 08:49:34](https://news.ycombinator.com/item?id=43769936) - [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
 * [2025-04-23, 07:21:44](https://news.ycombinator.com/item?id=43769486) - [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
