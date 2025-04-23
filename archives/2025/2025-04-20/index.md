@@ -61,4 +61,5 @@
 * [2025-04-20, 02:03:09](https://news.ycombinator.com/item?id=43741013) - [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052)
 * [2025-04-20, 01:58:17](https://news.ycombinator.com/item?id=43740992) - [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
 * [2025-04-20, 01:28:41](https://news.ycombinator.com/item?id=43740858) - [Welcome to the Era of Experience [pdf]](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
+* [2025-04-20, 01:13:41](https://news.ycombinator.com/item?id=43740803) - [Subnanosecond Flash Memory](https://www.nature.com/articles/s41586-025-08839-w)
 * [2025-04-20, 00:20:16](https://news.ycombinator.com/item?id=43740543) - [Living with Lab Mice](https://nautil.us/living-with-lab-mice-1202657/)

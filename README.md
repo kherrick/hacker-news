@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-23, 06:11:16](https://news.ycombinator.com/item?id=43769140) - [Where did the false \"equal transit-time\" explanation of lift originate from?](https://hsm.stackexchange.com/questions/9931/where-did-the-false-equal-transit-time-explanation-of-lift-originate-from)
 * [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
 * [2025-04-23, 01:42:28](https://news.ycombinator.com/item?id=43767944) - [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
 * [2025-04-22, 22:55:09](https://news.ycombinator.com/item?id=43767058) - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
@@ -9,7 +10,6 @@
 * [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-22, 20:16:04](https://news.ycombinator.com/item?id=43765832) - [Classic Computer Replicas](https://obsolescence.dev/index.html)
-* [2025-04-22, 19:02:04](https://news.ycombinator.com/item?id=43765207) - [Can a single AI model advance any field of science?](https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai)
 * [2025-04-22, 18:47:05](https://news.ycombinator.com/item?id=43765084) - [How long does it take to create a new habit? (2015)](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/)
 * [2025-04-22, 18:39:20](https://news.ycombinator.com/item?id=43765011) - [Sapphire: Rust based package manager for macOS (Homebrew replacement)](https://github.com/alexykn/sapphire)
 * [2025-04-22, 18:28:20](https://news.ycombinator.com/item?id=43764915) - [Ping, You've Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
@@ -26,7 +26,7 @@
 * [2025-04-21, 19:44:58](https://news.ycombinator.com/item?id=43755682) - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
 * [2025-04-20, 20:09:12](https://news.ycombinator.com/item?id=43746202) - [The Rise and Fall of Toys 'R' Us (2018)](https://www.history.com/articles/toys-r-us-closing-legacy)
 * [2025-04-20, 18:12:15](https://news.ycombinator.com/item?id=43745410) - [Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72](https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html)
-* [2025-04-20, 15:12:54](https://news.ycombinator.com/item?id=43744299) - [A Review of the Personal Humanoid Robots](https://readmultiplex.com/2025/04/19/a-review-of-the-personal-humanoid-robots/)
+* [2025-04-20, 01:13:41](https://news.ycombinator.com/item?id=43740803) - [Subnanosecond Flash Memory](https://www.nature.com/articles/s41586-025-08839-w)
 * [2025-04-19, 09:57:10](https://news.ycombinator.com/item?id=43735378) - [Making a smart bike dumb so it works again](https://francisco.io/blog/making-a-smart-bike-dumb-work-again/)
 * [2025-04-19, 07:50:38](https://news.ycombinator.com/item?id=43734911) - [Solidjs: Simple and performant reactivity for building user interfaces](https://www.solidjs.com/)
 * [2025-04-19, 01:40:35](https://news.ycombinator.com/item?id=43733495) - [Can rotation solve the Hubble Puzzle?](https://academic.oup.com/mnras/article/538/4/3038/8090496?login=false)

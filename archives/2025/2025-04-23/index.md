@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 06:11:16](https://news.ycombinator.com/item?id=43769140) - [Where did the false \"equal transit-time\" explanation of lift originate from?](https://hsm.stackexchange.com/questions/9931/where-did-the-false-equal-transit-time-explanation-of-lift-originate-from)
 * [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
 * [2025-04-23, 02:49:49](https://news.ycombinator.com/item?id=43768234) - [The Rise and Fall and Rise Again of Lionel Trains (1997)](http://spikesys.com/Modelrr/lionel.html)
 * [2025-04-23, 02:19:21](https://news.ycombinator.com/item?id=43768117) - [The Problem with Modern Engineering Isn't Speed. It's Chaos](https://earthly.dev/blog/lunar-launch/)
