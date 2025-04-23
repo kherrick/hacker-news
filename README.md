@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You Wouldn't Steal a Font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
+* [2025-04-23, 19:36:41](https://news.ycombinator.com/item?id=43775878) - [Show HN: Nowrite.fun – If you stop typing, your text disappears](https://nowrite.fun)
 * [2025-04-23, 19:24:58](https://news.ycombinator.com/item?id=43775766) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
 * [2025-04-23, 19:13:03](https://news.ycombinator.com/item?id=43775670) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
 * [2025-04-23, 19:09:02](https://news.ycombinator.com/item?id=43775624) - [Ninth Circuit Takes a Wrecking Ball to Internet Personal Jurisdiction Law](https://blog.ericgoldman.org/archives/2025/04/ninth-circuit-takes-a-wrecking-ball-to-internet-personal-jurisdiction-law-briskin-v-shopify.htm)
@@ -19,7 +20,6 @@
 * [2025-04-23, 15:52:45](https://news.ycombinator.com/item?id=43773537) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
 * [2025-04-23, 14:14:30](https://news.ycombinator.com/item?id=43772503) - [Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf)
 * [2025-04-23, 14:00:11](https://news.ycombinator.com/item?id=43772311) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
-* [2025-04-23, 13:17:48](https://news.ycombinator.com/item?id=43771816) - [Show HN: Advanced-Alchemy – A framework agnostic library for SQLAlchemy](https://github.com/litestar-org/advanced-alchemy)
 * [2025-04-23, 13:00:32](https://news.ycombinator.com/item?id=43771645) - [How I blog with Obsidian, Hugo, GitHub, and Cloudflare](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
 * [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
 * [2025-04-23, 11:24:28](https://news.ycombinator.com/item?id=43770821) - [How ZGC allocates memory for the Java heap](https://joelsiks.com/posts/zgc-heap-memory-allocation/)
