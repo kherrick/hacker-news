@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas – what are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
+* [2025-04-23, 16:41:44](https://news.ycombinator.com/item?id=43773977) - [I won't be vibe coding anymore: a noob's perspective](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/)
+* [2025-04-23, 16:41:23](https://news.ycombinator.com/item?id=43773976) - [Show HN: Moose – OSS framework to build analytical back ends with ClickHouse](https://docs.fiveonefour.com/moose)
+* [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 * [2025-04-23, 16:13:40](https://news.ycombinator.com/item?id=43773746) - [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
 * [2025-04-23, 15:55:05](https://news.ycombinator.com/item?id=43773563) - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
 * [2025-04-23, 15:52:45](https://news.ycombinator.com/item?id=43773537) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
