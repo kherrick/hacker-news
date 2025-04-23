@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 07:20:33](https://news.ycombinator.com/item?id=43769482) - [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
+* [2025-04-23, 06:51:24](https://news.ycombinator.com/item?id=43769343) - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
+* [2025-04-23, 06:23:10](https://news.ycombinator.com/item?id=43769201) - [The Ghosts of Gaelic](https://www.historytoday.com/archive/behind-times/ghosts-gaelic)
 * [2025-04-23, 06:11:16](https://news.ycombinator.com/item?id=43769140) - [Where did the false \"equal transit-time\" explanation of lift originate from?](https://hsm.stackexchange.com/questions/9931/where-did-the-false-equal-transit-time-explanation-of-lift-originate-from)
 * [2025-04-23, 03:37:05](https://news.ycombinator.com/item?id=43768421) - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
 * [2025-04-23, 02:49:49](https://news.ycombinator.com/item?id=43768234) - [The Rise and Fall and Rise Again of Lionel Trains (1997)](http://spikesys.com/Modelrr/lionel.html)
