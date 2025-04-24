@@ -41,6 +41,7 @@
 * [2025-04-21, 14:36:14](https://news.ycombinator.com/item?id=43752492) - [Why LLM-Powered Programming Is More Mech Suit Than Artificial Human](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
 * [2025-04-21, 14:34:24](https://news.ycombinator.com/item?id=43752472) - [PlanetMath](https://planetmath.org/)
 * [2025-04-21, 14:30:28](https://news.ycombinator.com/item?id=43752433) - [Handwriting activates broader brain networks than typing](https://www.psypost.org/handwriting-activates-broader-brain-networks-than-typing-study-shows/)
+* [2025-04-21, 14:23:17](https://news.ycombinator.com/item?id=43752353) - [The World Is Ending. Welcome to the Spooner Revolution](https://aethn.com/posts/the-world-is-ending)
 * [2025-04-21, 14:15:17](https://news.ycombinator.com/item?id=43752262) - [AI assisted search-based research works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/)
 * [2025-04-21, 14:10:11](https://news.ycombinator.com/item?id=43752206) - [The Tontine Coffee-House (2018)](https://tontinecoffeehouse.com/2018/10/15/the-tontine-coffee-house/)
 * [2025-04-21, 14:07:03](https://news.ycombinator.com/item?id=43752176) - [Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams](https://news.ycombinator.com/item?id=43752176)
