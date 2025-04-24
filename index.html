@@ -129,6 +129,134 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43785044">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43785044"
+              >Show HN: Lemon Slice Live, a real-time video-audio AI model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-24 @ 17:10:14</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43785044"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.youtube.com/watch?v=CeYp5xQMFZY"
+                >https://www.youtube.com/watch?v=CeYp5xQMFZY</a
+              >. Try it for yourself at:
+              <a href="https://lemonslice.com/live"
+                >https://lemonslice.com/live</a
+              >.
+              <p>
+                (Btw, we used to be called Infinity AI and did a Show HN under
+                that name last year:
+                <a href="https://news.ycombinator.com/item?id=41467704"
+                  >https://news.ycombinator.com/item?id=41467704</a
+                >.)
+              </p>
+              <p>
+                Unlike existing avatar video chat platforms like HeyGen, Tolan,
+                or Apple Memoji filters, we do not require training custom
+                models, rigging a character ahead of time, or having a human
+                drive the avatar. Our tech allows users to create and
+                immediately video-call a custom character by uploading a single
+                image. The character image can be any style - from
+                photorealistic to cartoons, paintings, and more.
+              </p>
+              <p>
+                To achieve this demo, we had to do the following (among other
+                things! but these were the hardest):
+              </p>
+              <p>
+                1. Training a fast DiT model. To make our video generation fast,
+                we had to both design a model that made the right trade-offs
+                between speed and quality, and use standard distillation
+                approaches. We first trained a custom video diffusion
+                transformer (DiT) from scratch that achieves excellent lip and
+                facial expression sync to audio. To further optimize the model
+                for speed, we applied teacher-student distillation. The
+                distilled model achieves 25fps video generation at 256-px
+                resolution. Purpose-built transformer ASICs will eventually
+                allow us to stream our video model at 4k resolution.
+              </p>
+              <p>
+                2. Solving the infinite video problem. Most video DiT models
+                (Sora, Runway, Kling) generate 5-second chunks. They can
+                iteratively extend it by another 5sec by feeding the end of the
+                1st chunk into the start of the 2nd in an autoregressive manner.
+                Unfortunately the models experience quality degradation after
+                multiple extensions due to accumulation of generation errors. We
+                developed a temporal consistency preservation technique that
+                maintains visual coherence across long sequences. Our technique
+                significantly reduces artifact accumulation and allows us to
+                generate indefinitely-long videos.
+              </p>
+              <p>
+                3. A complex streaming architecture with minimal latency.
+                Enabling an end-to-end avatar zoom call requires several
+                building blocks, including voice transcription, LLM inference,
+                and text-to-speech generation in addition to video generation.
+                We use Deepgram as our AI voice partner. Modal as the end-to-end
+                compute platform. And Daily.co and Pipecat to help build a
+                parallel processing pipeline that orchestrates everything via
+                continuously streaming chunks. Our system achieves end-to-end
+                latency of 3-6 seconds from user input to avatar response. Our
+                target is &lt;2 second latency.
+              </p>
+              <p>
+                More technical details here:
+                <a href="https://lemonslice.com/live/technical-report"
+                  >https://lemonslice.com/live/technical-report</a
+                >.
+              </p>
+              <p>
+                Current limitations that we want to solve include: (1) enabling
+                whole-body and background motions (we’re training a next-gen
+                model for this), (2) reducing delays and improving resolution
+                (purpose-built ASICs will help), (3) training a model on dyadic
+                conversations so that avatars learn to listen naturally, and (4)
+                allowing the character to “see you” and respond to what they see
+                to create a more natural and engaging conversation.
+              </p>
+              <p>
+                We believe that generative video will usher in a new media type
+                centered around interactivity: TV shows, movies, ads, and online
+                courses will stop and talk to us. Our entertainment will be a
+                mixture of passive and active experiences depending on what
+                we’re in the mood for. Well, prediction is hard, especially
+                about the future, but that’s how we see it anyway!
+              </p>
+              <p>
+                We’d love for you to try out the demo and let us know what you
+                think! Post your characters and/or conversation recordings
+                below.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="43784946">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer"
+              >Bild AI (YC W25) is hiring a founding engineer in SF</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-24 @ 17:00:38</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43784721">
           <h3>
             <a
@@ -141,7 +269,7 @@
             <h4>
               <span>2025-04-24 @ 16:38:54</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784721"
                   >Comments</a
@@ -160,11 +288,11 @@
             <h4>
               <span>2025-04-24 @ 16:33:54</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784668"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -179,11 +307,11 @@
             <h4>
               <span>2025-04-24 @ 16:32:41</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784656"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
             <div class="text">
@@ -225,11 +353,11 @@
             <h4>
               <span>2025-04-24 @ 15:53:24</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784205"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -247,11 +375,11 @@
             <h4>
               <span>2025-04-24 @ 15:53:15</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784200"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -269,7 +397,7 @@
             <h4>
               <span>2025-04-24 @ 15:38:44</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784056"
                   >Comments</a
@@ -290,11 +418,11 @@
             <h4>
               <span>2025-04-24 @ 15:33:16</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43783997"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -311,11 +439,11 @@
             <h4>
               <span>2025-04-24 @ 14:47:40</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43783487"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -332,11 +460,11 @@
             <h4>
               <span>2025-04-24 @ 14:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43783416"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -353,13 +481,40 @@
             <h4>
               <span>2025-04-24 @ 13:23:26</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43782406"
+                  >Comments</a
+                ><span class="descendants">: 53</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43782299">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43782299"
+              >Ask HN: Share your AI prompt that stumps every model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-24 @ 13:11:22</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43782299"
                   >Comments</a
                 ><span class="descendants">: 49</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                I've seen a bunch of those prompts scattered across HN, so
+                thought to open a thread here so we can maybe have a centralied
+                location for this.
+              </p>
+              <p>Share your prompt that stumps every AI model here.</p>
+            </div>
           </section>
         </section>
         <section id="43781888">
@@ -374,29 +529,11 @@
             <h4>
               <span>2025-04-24 @ 12:26:38</span
               ><span class="points-container"
-                >Points: <span class="points">362</span></span
+                >Points: <span class="points">373</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43781888"
                   >Comments</a
-                ><span class="descendants">: 302</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43781663">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution"
-              >Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby,
-              Go)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-24 @ 12:00:10</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 308</span></span
               >
             </h4>
           </section>
@@ -413,11 +550,11 @@
             <h4>
               <span>2025-04-24 @ 09:43:48</span
               ><span class="points-container"
-                >Points: <span class="points">245</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43780815"
                   >Comments</a
-                ><span class="descendants">: 296</span></span
+                ><span class="descendants">: 308</span></span
               >
             </h4>
           </section>
@@ -432,11 +569,11 @@
             <h4>
               <span>2025-04-24 @ 09:37:57</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43780785"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -453,11 +590,11 @@
             <h4>
               <span>2025-04-24 @ 08:19:23</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43780377"
                   >Comments</a
-                ><span class="descendants">: 381</span></span
+                ><span class="descendants">: 394</span></span
               >
             </h4>
           </section>
@@ -473,7 +610,7 @@
             <h4>
               <span>2025-04-24 @ 07:43:15</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43780176"
                   >Comments</a
@@ -552,11 +689,11 @@
             <h4>
               <span>2025-04-24 @ 06:13:35</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43779766"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -573,7 +710,7 @@
             <h4>
               <span>2025-04-24 @ 00:20:40</span
               ><span class="points-container"
-                >Points: <span class="points">395</span></span
+                >Points: <span class="points">396</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43778105"
                   >Comments</a
@@ -592,11 +729,11 @@
             <h4>
               <span>2025-04-24 @ 00:15:22</span
               ><span class="points-container"
-                >Points: <span class="points">272</span></span
+                >Points: <span class="points">273</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43778081"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
             <div class="text">
@@ -619,11 +756,11 @@
             <h4>
               <span>2025-04-23 @ 23:19:32</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43777731"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -638,7 +775,7 @@
             <h4>
               <span>2025-04-23 @ 21:47:27</span
               ><span class="points-container"
-                >Points: <span class="points">283</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43776967"
                   >Comments</a
@@ -660,11 +797,11 @@
             <h4>
               <span>2025-04-23 @ 20:52:19</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43776512"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -698,11 +835,11 @@
             <h4>
               <span>2025-04-23 @ 19:42:36</span
               ><span class="points-container"
-                >Points: <span class="points">1242</span></span
+                >Points: <span class="points">1244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43775926"
                   >Comments</a
-                ><span class="descendants">: 357</span></span
+                ><span class="descendants">: 361</span></span
               >
             </h4>
           </section>
@@ -719,32 +856,11 @@
             <h4>
               <span>2025-04-23 @ 18:44:47</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43775358"
                   >Comments</a
-                ><span class="descendants">: 350</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43774990">
-          <h3>
-            <a
-              class="item"
-              href="https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html"
-              >Teaching LLMs how to solid model</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-23 @ 18:13:43</span
-              ><span class="points-container"
-                >Points: <span class="points">291</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43774990"
-                  >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 357</span></span
               >
             </h4>
           </section>
@@ -761,120 +877,13 @@
             <h4>
               <span>2025-04-23 @ 16:19:56</span
               ><span class="points-container"
-                >Points: <span class="points">733</span></span
+                >Points: <span class="points">737</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43773813"
                   >Comments</a
                 ><span class="descendants">: 447</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43773563">
-          <h3>
-            <a class="item" href="https://github.com/trycua/cua"
-              >Launch HN: Cua (YC X25) – Open-Source Docker Container for
-              Computer-Use Agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-23 @ 15:55:05</span
-              ><span class="points-container"
-                >Points: <span class="points">153</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43773563"
-                  >Comments</a
-                ><span class="descendants">: 61</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.trycua.com">https://www.trycua.com</a>), a
-              Docker‑style container runtime that lets AI agents drive full
-              operating systems in lightweight, isolated VMs. Our entire
-              framework is open‑source (<a href="https://github.com/trycua/cua"
-                >https://github.com/trycua/cua</a
-              >), and today we’re thrilled to have our Launch HN!
-              <p>
-                Check out our demo to see it in action:
-                <a href="https://www.youtube.com/watch?v=Ee9qf-13gho"
-                  >https://www.youtube.com/watch?v=Ee9qf-13gho</a
-                >, and for more examples - including Tableau, Photoshop, CAD
-                workflows - see the demos in our repo:
-                <a href="https://github.com/trycua/cua"
-                  >https://github.com/trycua/cua</a
-                >.
-              </p>
-              <p>
-                For Computer-Use AI agents to be genuinely useful, they must
-                interact with your system's native applications. But giving full
-                access to your host device is risky. What if the agent's process
-                gets compromised, or the LLM hallucinates and leaks your data?
-                And practically speaking, do you really want to give up control
-                of your entire machine just so the agent can do its job?
-              </p>
-              <p>
-                The idea behind c/ua is simple: let agents operate in a mirror
-                of the user’s system - isolated, secure, and disposable - so
-                users can fire-and-forget complex tasks without needing to
-                dedicate their entire system to the agent. By running in a
-                virtualized environment, agents can carry out their work without
-                interrupting your workflow or risking the integrity of your
-                system.
-              </p>
-              <p>
-                While exploring this idea, I discovered Apple’s
-                Virtualization.Framework and realized it offered fast and
-                lightweight virtualization on Apple Silicon. This led us to
-                build a high-performance virtualization layer and, eventually, a
-                computer-use interface that allows agents to interact with apps
-                just like a human would - without taking over the entire system.
-              </p>
-              <p>
-                As we built this, we decided to open-source the virtualization
-                core as a standalone CLI tool called Lume (Show HN here:
-                <a href="https://news.ycombinator.com/item?id=42908061"
-                  >https://news.ycombinator.com/item?id=42908061</a
-                >). c/ua builds on top of Lume, providing a full framework for
-                running agent workflows inside secure macOS or Linux VMs, so
-                your system stays free for you to use while the agent works its
-                magic in the background.
-              </p>
-              <p>
-                With Cua you can build an AI agent within a virtual environment
-                to: - navigate and interact with any application's interface; -
-                read screen content and perform keyboard/mouse actions; - switch
-                between applications and self-debug when needed; - operate in a
-                secure sandbox with controlled file access. All of this occurs
-                in a fully isolated environment, ensuring your host system,
-                files, and sensitive data remain completely secure, while you
-                continue using your device without interruption.
-              </p>
-              <p>
-                People are using c/ua to: - Bypass CryptoJS-based encryption and
-                anti-bot measures to interact with modern web apps reliably; -
-                Automate Tableau dashboards and export insights via Claude
-                Desktop; - Drive Photoshop for batch image editing by prompt; -
-                Modify 3D models in Fusion 360 with a CAD Copilot; -Extract data
-                from legacy ERP apps without brittle screen‑scraping scripts.
-              </p>
-              <p>
-                We’re currently working on multi‑VM orchestration for parallel
-                agentic workflows, Windows and Linux VM support, and episodic
-                and long-term memory for CUA Agents.
-              </p>
-              <p>
-                On the open‑source side, c/ua is 100 % free under the MIT
-                license - run it locally with any LLM you like. We’re also
-                gearing up a hosted orchestration service for teams who want
-                zero‑ops setup (early access sign‑ups opening soon).
-              </p>
-              <p>
-                We’d love to hear from you. What desktop or legacy apps do you
-                wish you could automate? Any thoughts, feedback, or horror
-                stories from fragile AI automations are more than welcome!
-              </p>
-            </div>
           </section>
         </section>
         <section id="43772311">
@@ -890,7 +899,7 @@
             <h4>
               <span>2025-04-23 @ 14:00:11</span
               ><span class="points-container"
-                >Points: <span class="points">1305</span></span
+                >Points: <span class="points">1307</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43772311"
                   >Comments</a
@@ -911,11 +920,11 @@
             <h4>
               <span>2025-04-22 @ 12:58:43</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761572"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
