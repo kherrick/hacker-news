@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
 * [2025-04-24, 21:25:37](https://news.ycombinator.com/item?id=43787682) - [Why I Blog and How I Automate it (2023)](https://www.ryanwwest.com/why-blog/)
+* [2025-04-24, 21:21:37](https://news.ycombinator.com/item?id=43787647) - [Everyone Says They'll Pay More for \"Made in the USA\" So We Ran an A/B Test](https://afina.com/blogs/news/made-in-usa)
 * [2025-04-24, 20:29:21](https://news.ycombinator.com/item?id=43787133) - [Show HN: I Added Translation to My RSS Reader Project](https://rahuldshetty.github.io/reader-project/#/translation)
+* [2025-04-24, 20:11:19](https://news.ycombinator.com/item?id=43786987) - [What Actually Happens at the End of 'Trading Places'? (2013)](https://www.npr.org/sections/money/2013/07/19/201430727/what-actually-happens-at-the-end-of-trading-places)
 * [2025-04-24, 20:07:21](https://news.ycombinator.com/item?id=43786956) - [Alphabet Q1 2025 Earnings [pdf]](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf)
 * [2025-04-24, 19:41:29](https://news.ycombinator.com/item?id=43786681) - [Apple Computers Used to Be Built in the U.S. It Was a Mess](https://www.nytimes.com/2018/12/15/business/apple-california-manufacturing-history.html)
 * [2025-04-24, 19:28:29](https://news.ycombinator.com/item?id=43786514) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
