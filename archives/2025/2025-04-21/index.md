@@ -72,6 +72,7 @@
 * [2025-04-21, 04:31:35](https://news.ycombinator.com/item?id=43748512) - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 * [2025-04-21, 04:24:15](https://news.ycombinator.com/item?id=43748486) - [The Effect of Deactivating Facebook and Instagram on Users' Emotional State](https://www.nber.org/papers/w33697)
 * [2025-04-21, 02:47:55](https://news.ycombinator.com/item?id=43748133) - [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
+* [2025-04-21, 02:24:20](https://news.ycombinator.com/item?id=43748025) - [Mistaking Mary Magdalene](https://www.newyorker.com/culture/the-weekend-essay/mistaking-mary-magdalene)
 * [2025-04-21, 01:59:03](https://news.ycombinator.com/item?id=43747921) - [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 * [2025-04-21, 01:40:00](https://news.ycombinator.com/item?id=43747856) - [Samurai Cops: Inside Edo's Police Force During Feudal Japan](https://www.tokyoweekender.com/art_and_culture/japanese-culture/samurai-cops-inside-edos-police-force-during-feudal-japan/)
 * [2025-04-21, 01:07:32](https://news.ycombinator.com/item?id=43747733) - [Show HN: \"Is This Tech Dead?\" A snarky autopsy engine for your dead frameworks](https://www.isthistechdead.com)

@@ -10,7 +10,6 @@
 * [2025-04-24, 19:28:29](https://news.ycombinator.com/item?id=43786514) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
 * [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 * [2025-04-24, 19:07:41](https://news.ycombinator.com/item?id=43786304) - [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
-* [2025-04-24, 18:31:01](https://news.ycombinator.com/item?id=43785919) - [Acquisitions, consolidation, and innovation in AI](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
 * [2025-04-24, 17:47:09](https://news.ycombinator.com/item?id=43785464) - [Show HN: I reverse engineered top websites to build an animated UI library](https://reverseui.com)
 * [2025-04-24, 17:37:52](https://news.ycombinator.com/item?id=43785350) - [Show HN: Infat – Declaritive application assocation manager for macOS](https://github.com/philocalyst/infat)
 * [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live – Have a video call with a transformer model](https://news.ycombinator.com/item?id=43785044)
@@ -30,6 +29,7 @@
 * [2025-04-24, 08:19:23](https://news.ycombinator.com/item?id=43780377) - [Mark Zuckerberg says social media is over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
 * [2025-04-23, 18:45:25](https://news.ycombinator.com/item?id=43775366) - ['Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)
 * [2025-04-22, 06:06:35](https://news.ycombinator.com/item?id=43759472) - [Sea Monsters Unmasked and Sea Fables Explained by Henry Lee (1883)](https://publicdomainreview.org/collection/sea-monsters-sea-fables/)
+* [2025-04-21, 02:24:20](https://news.ycombinator.com/item?id=43748025) - [Mistaking Mary Magdalene](https://www.newyorker.com/culture/the-weekend-essay/mistaking-mary-magdalene)
 
 ## [Archives](archives/index.md)
 
