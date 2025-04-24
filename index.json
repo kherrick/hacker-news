@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-24, 17:10:14",
-      "https://news.ycombinator.com/item?id=43785044"
-    ],
-    [
-      "Show HN: Lemon Slice Live, a real-time video-audio AI model",
-      "https://news.ycombinator.com/item?id=43785044"
-    ]
-  ],
-  [
-    [
       "2025-04-24, 17:00:38",
       "https://news.ycombinator.com/item?id=43784946"
     ],
@@ -37,16 +27,6 @@
     [
       "Show HN: Zev – Remember (or discover) terminal commands",
       "https://github.com/dtnewman/zev"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 16:32:41",
-      "https://news.ycombinator.com/item?id=43784656"
-    ],
-    [
-      "Ask HN: My CEO wants to go hard on AI. What do I do?",
-      "https://news.ycombinator.com/item?id=43784656"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2025-04-24, 06:58:05",
+      "https://news.ycombinator.com/item?id=43779953"
+    ],
+    [
+      "AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"",
+      "https://www.phoronix.com/news/AMD-GIM-Open-Source"
+    ]
+  ],
+  [
+    [
       "2025-04-24, 06:13:35",
       "https://news.ycombinator.com/item?id=43779766"
     ],
@@ -277,6 +267,16 @@
     [
       "Teaching LLMs how to solid model",
       "https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 17:48:20",
+      "https://news.ycombinator.com/item?id=43774726"
+    ],
+    [
+      "Graphics livecoding in Common Lisp",
+      "https://kevingal.com/blog/cl-livecoding.html"
     ]
   ],
   [
