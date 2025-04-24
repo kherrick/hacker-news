@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 22:26:10](https://news.ycombinator.com/item?id=43788185) - [SignalGate: A Surveillance Arms Race Has Poked Gaping Hole in National Security](https://www.foreignaffairs.com/united-states/real-lesson-signal-gate-pete-hegseth)
 * [2025-04-24, 22:18:49](https://news.ycombinator.com/item?id=43788125) - [Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
 * [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
+* [2025-04-24, 21:32:45](https://news.ycombinator.com/item?id=43787743) - [Could GPT help with dating anxiety?](https://scottaaronson.blog/?p=7262)
 * [2025-04-24, 21:31:09](https://news.ycombinator.com/item?id=43787730) - [National Airspace System Status](https://nasstatus.faa.gov/)
 * [2025-04-24, 21:25:37](https://news.ycombinator.com/item?id=43787682) - [Why I Blog and How I Automate it (2023)](https://www.ryanwwest.com/why-blog/)
 * [2025-04-24, 21:24:58](https://news.ycombinator.com/item?id=43787676) - [You Can Be a Great Designer and Be Completely Unknown](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown)
