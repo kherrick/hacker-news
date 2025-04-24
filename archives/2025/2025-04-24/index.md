@@ -6,6 +6,7 @@
 
 * [2025-04-24, 20:07:21](https://news.ycombinator.com/item?id=43786956) - [Alphabet Q1 2025 Earnings [pdf]](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf)
 * [2025-04-24, 19:41:29](https://news.ycombinator.com/item?id=43786681) - [Apple Computers Used to Be Built in the U.S. It Was a Mess](https://www.nytimes.com/2018/12/15/business/apple-california-manufacturing-history.html)
+* [2025-04-24, 19:28:29](https://news.ycombinator.com/item?id=43786514) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
 * [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 * [2025-04-24, 19:07:41](https://news.ycombinator.com/item?id=43786304) - [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
 * [2025-04-24, 18:31:01](https://news.ycombinator.com/item?id=43785919) - [Should every startup give up and go home? AI Acquisitions and consolidation](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
