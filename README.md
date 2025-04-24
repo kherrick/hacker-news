@@ -2,7 +2,6 @@
 
 * [2025-04-24, 22:18:49](https://news.ycombinator.com/item?id=43788125) - [Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
 * [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
-* [2025-04-24, 21:32:45](https://news.ycombinator.com/item?id=43787743) - [Could GPT help with dating anxiety?](https://scottaaronson.blog/?p=7262)
 * [2025-04-24, 21:31:09](https://news.ycombinator.com/item?id=43787730) - [National Airspace System Status](https://nasstatus.faa.gov/)
 * [2025-04-24, 21:25:37](https://news.ycombinator.com/item?id=43787682) - [Why I Blog and How I Automate it (2023)](https://www.ryanwwest.com/why-blog/)
 * [2025-04-24, 21:24:58](https://news.ycombinator.com/item?id=43787676) - [You Can Be a Great Designer and Be Completely Unknown](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown)
@@ -11,6 +10,7 @@
 * [2025-04-24, 19:28:29](https://news.ycombinator.com/item?id=43786514) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
 * [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 * [2025-04-24, 19:07:41](https://news.ycombinator.com/item?id=43786304) - [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
+* [2025-04-24, 18:31:01](https://news.ycombinator.com/item?id=43785919) - [Acquisitions, consolidation, and innovation in AI](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
 * [2025-04-24, 17:47:09](https://news.ycombinator.com/item?id=43785464) - [Show HN: I reverse engineered top websites to build an animated UI library](https://reverseui.com)
 * [2025-04-24, 17:37:52](https://news.ycombinator.com/item?id=43785350) - [Show HN: Infat – Declaritive application assocation manager for macOS](https://github.com/philocalyst/infat)
 * [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live – Have a video call with a transformer model](https://news.ycombinator.com/item?id=43785044)
