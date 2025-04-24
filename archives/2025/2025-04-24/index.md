@@ -11,6 +11,7 @@
 * [2025-04-24, 12:31:56](https://news.ycombinator.com/item?id=43781933) - [EU Energy labelling will apply to phones and tablets from June 2025](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en)
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 12:00:10](https://news.ycombinator.com/item?id=43781663) - [Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby, Go)](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution)
+* [2025-04-24, 11:34:10](https://news.ycombinator.com/item?id=43781465) - [Show HN: I made my own TRMNL e-ink device](https://www.stavros.io/posts/making-a-trmnl-device/)
 * [2025-04-24, 10:30:01](https://news.ycombinator.com/item?id=43781039) - [Norway's $1.7T Wealth Fund Reports $40B Tech-Driven Loss](https://www.bloomberg.com/news/articles/2025-04-24/norway-1-7-trillion-wealth-fund-reports-tech-stock-driven-loss)
 * [2025-04-24, 10:28:16](https://news.ycombinator.com/item?id=43781031) - [Give People Something to Look At](https://staysaasy.com/communication/2021/10/30/look.html)
 * [2025-04-24, 10:15:01](https://news.ycombinator.com/item?id=43780977) - [What I wish I knew about privacy sooner](https://nordictimes.com/tech/what-i-wish-i-knew-about-privacy-sooner/)
