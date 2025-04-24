@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-24, 06:49:42](https://news.ycombinator.com/item?id=43779915) - [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)
 * [2025-04-24, 06:13:35](https://news.ycombinator.com/item?id=43779766) - [Daily driving a Linux phone, but why?](https://thefoggiest.dev/2025/04/24/daily-driving-a-linux-phone-but-why)
 * [2025-04-24, 06:03:38](https://news.ycombinator.com/item?id=43779729) - [Woman who tricked her way into men-only Magic Circle allowed in](https://www.bbc.com/news/articles/cwy79nq4yz4o)
 * [2025-04-24, 06:02:31](https://news.ycombinator.com/item?id=43779723) - [Efficient Code Search with Nvidia DGX](https://developer.nvidia.com/blog/spotlight-qodo-innovates-efficient-code-search-with-nvidia-dgx/)
@@ -29,7 +30,6 @@
 * [2025-04-22, 12:58:43](https://news.ycombinator.com/item?id=43761572) - [I Tried to Buy an Actual Barrel of Crude Oil (2015)](https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil)
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
 * [2025-04-21, 00:36:00](https://news.ycombinator.com/item?id=43747634) - [Finland is painting deer antlers with reflective paint (2014)](https://www.smithsonianmag.com/smart-news/avoid-deer-strikes-finland-painting-deer-antlers-reflective-paint-180949792/)
-* [2025-04-20, 19:53:44](https://news.ycombinator.com/item?id=43746109) - [My experience of participating to a startup weekend competition in Italy](https://danielpetrica.com/my-experience-of-participating-to-a-startup-weekend-competition-in-italy/)
 
 ## [Archives](archives/index.md)
 
