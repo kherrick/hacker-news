@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-24, 10:30:01](https://news.ycombinator.com/item?id=43781039) - [Norway's $1.7T Wealth Fund Reports $40B Tech-Driven Loss](https://www.bloomberg.com/news/articles/2025-04-24/norway-1-7-trillion-wealth-fund-reports-tech-stock-driven-loss)
 * [2025-04-24, 09:16:36](https://news.ycombinator.com/item?id=43780682) - [Vim Language, Motions, and Modes Explained](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
 * [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [\"Careless People\" the book that Meta tried to suppress](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
 * [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
@@ -23,7 +24,6 @@
 * [2025-04-23, 15:55:05](https://news.ycombinator.com/item?id=43773563) - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
 * [2025-04-23, 14:00:11](https://news.ycombinator.com/item?id=43772311) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 * [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
-* [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-23, 01:32:44](https://news.ycombinator.com/item?id=43767910) - [Reptends and Reciprocals](https://www.gregegan.net/SCIENCE/Reptends/Reptends.html)
 * [2025-04-22, 20:40:31](https://news.ycombinator.com/item?id=43766073) - [Dissecting a British wartime night vision tank periscope [video]](https://www.youtube.com/watch?v=KlguQYJqs-E)
 * [2025-04-22, 12:58:43](https://news.ycombinator.com/item?id=43761572) - [I Tried to Buy an Actual Barrel of Crude Oil (2015)](https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil)
