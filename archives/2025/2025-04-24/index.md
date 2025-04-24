@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 09:16:36](https://news.ycombinator.com/item?id=43780682) - [Vim Language, Motions, and Modes Explained](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
 * [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [\"Careless People\" the book that Meta tried to suppress](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
 * [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
 * [2025-04-24, 06:49:42](https://news.ycombinator.com/item?id=43779915) - [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)

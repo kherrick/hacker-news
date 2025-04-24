@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-24, 09:16:36](https://news.ycombinator.com/item?id=43780682) - [Vim Language, Motions, and Modes Explained](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
 * [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [\"Careless People\" the book that Meta tried to suppress](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
 * [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
 * [2025-04-24, 00:23:38](https://news.ycombinator.com/item?id=43778120) - [Clinical trial: novel nutritional formula treats gut microbial overgrowth](https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html)
@@ -18,7 +19,6 @@
 * [2025-04-23, 17:12:58](https://news.ycombinator.com/item?id=43774327) - [The Future of MCPs](https://iamcharliegraham.substack.com/publish/post/161906169)
 * [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 * [2025-04-23, 16:17:04](https://news.ycombinator.com/item?id=43773777) - [MCP on AWS Lambda with MCPEngine](https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine)
-* [2025-04-23, 16:13:40](https://news.ycombinator.com/item?id=43773746) - [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
 * [2025-04-23, 15:55:05](https://news.ycombinator.com/item?id=43773563) - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
 * [2025-04-23, 14:00:11](https://news.ycombinator.com/item?id=43772311) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 * [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
