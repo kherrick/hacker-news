@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 14:42:03](https://news.ycombinator.com/item?id=43783416) - [Three Fundamental Flaws of SIMD ISAs (2023)](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
 * [2025-04-24, 13:31:41](https://news.ycombinator.com/item?id=43782509) - [Comcast reports higher broadband subscriber losses as competition heats up](https://www.reuters.com/business/media-telecom/comcast-reports-higher-broadband-subscriber-losses-competition-heats-up-2025-04-24/)
 * [2025-04-24, 13:31:38](https://news.ycombinator.com/item?id=43782506) - [Text-to-Visual with AI by Excalidraw](https://visualgpt.io/)
 * [2025-04-24, 13:23:26](https://news.ycombinator.com/item?id=43782406) - [Instant SQL for results as you type in DuckDB UI](https://motherduck.com/blog/introducing-instant-sql/)
