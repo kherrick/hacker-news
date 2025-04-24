@@ -59,6 +59,7 @@
 * [2025-04-22, 12:00:06](https://news.ycombinator.com/item?id=43761119) - [GiveCampus (YC S15) Is Hiring Sr engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
 * [2025-04-22, 11:57:48](https://news.ycombinator.com/item?id=43761094) - [Offical XRP NPM package has been compromised and key stealing malware introduced](https://www.aikido.dev/blog/xrp-supplychain-attack-official-npm-package-infected-with-crypto-stealing-backdoor)
 * [2025-04-22, 11:22:30](https://news.ycombinator.com/item?id=43760875) - [In restaurants, We need a new way to signal that we're ready to pay](https://sebs.website/blog/in-restaurants-we-need-a-new-way-to-signal-payment)
+* [2025-04-22, 11:10:38](https://news.ycombinator.com/item?id=43760819) - [How I built an AI-generated news site with daily articles](https://dev.to/agentictribune/how-i-built-an-ai-generated-news-site-and-what-surprised-me-29c4)
 * [2025-04-22, 11:09:50](https://news.ycombinator.com/item?id=43760816) - [Quantum-assured magnetic navigation with higher positioning accuracy than GPS](https://arxiv.org/abs/2504.08167)
 * [2025-04-22, 11:04:55](https://news.ycombinator.com/item?id=43760801) - [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/)
 * [2025-04-22, 10:46:13](https://news.ycombinator.com/item?id=43760723) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)

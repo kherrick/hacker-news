@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
 * [2025-04-24, 06:49:42](https://news.ycombinator.com/item?id=43779915) - [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)
 * [2025-04-24, 06:13:35](https://news.ycombinator.com/item?id=43779766) - [Daily driving a Linux phone, but why?](https://thefoggiest.dev/2025/04/24/daily-driving-a-linux-phone-but-why)
 * [2025-04-24, 06:03:38](https://news.ycombinator.com/item?id=43779729) - [Woman who tricked her way into men-only Magic Circle allowed in](https://www.bbc.com/news/articles/cwy79nq4yz4o)
