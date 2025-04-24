@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 13:31:38](https://news.ycombinator.com/item?id=43782506) - [Text-to-Visual with AI by Excalidraw](https://visualgpt.io/)
+* [2025-04-24, 13:11:22](https://news.ycombinator.com/item?id=43782299) - [Ask HN: Share your AI prompt that stumps every model](https://news.ycombinator.com/item?id=43782299)
 * [2025-04-24, 12:31:56](https://news.ycombinator.com/item?id=43781933) - [EU Energy labelling will apply to phones and tablets from June 2025](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en)
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 12:00:10](https://news.ycombinator.com/item?id=43781663) - [Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby, Go)](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution)
@@ -16,6 +18,7 @@
 * [2025-04-24, 09:16:36](https://news.ycombinator.com/item?id=43780682) - [Vim Language, Motions, and Modes Explained](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
 * [2025-04-24, 08:19:23](https://news.ycombinator.com/item?id=43780377) - [Mark Zuckerberg Says Social Media Is Over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
 * [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [\"Careless People\" the book that Meta tried to suppress](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
+* [2025-04-24, 07:43:15](https://news.ycombinator.com/item?id=43780176) - [Show HN: Colanode, open-source and local-first Slack and Notion alternative](https://github.com/colanode/colanode)
 * [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
 * [2025-04-24, 06:49:42](https://news.ycombinator.com/item?id=43779915) - [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)
 * [2025-04-24, 06:13:35](https://news.ycombinator.com/item?id=43779766) - [Daily driving a Linux phone, but why?](https://thefoggiest.dev/2025/04/24/daily-driving-a-linux-phone-but-why)
