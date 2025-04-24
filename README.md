@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
-* [2025-04-24, 06:13:35](https://news.ycombinator.com/item?id=43779766) - [Daily driving a Linux phone, but why?](https://thefoggiest.dev/2025/04/24/daily-driving-a-linux-phone-but-why)
-* [2025-04-24, 06:03:38](https://news.ycombinator.com/item?id=43779729) - [Woman who tricked her way into men-only Magic Circle allowed in](https://www.bbc.com/news/articles/cwy79nq4yz4o)
 * [2025-04-24, 06:02:31](https://news.ycombinator.com/item?id=43779723) - [Efficient Code Search with Nvidia DGX](https://developer.nvidia.com/blog/spotlight-qodo-innovates-efficient-code-search-with-nvidia-dgx/)
 * [2025-04-24, 00:23:38](https://news.ycombinator.com/item?id=43778120) - [Clinical trial: novel nutritional formula treats gut microbial overgrowth](https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html)
 * [2025-04-24, 00:20:40](https://news.ycombinator.com/item?id=43778105) - [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
@@ -21,15 +19,17 @@
 * [2025-04-23, 17:12:58](https://news.ycombinator.com/item?id=43774327) - [The Future of MCPs](https://iamcharliegraham.substack.com/publish/post/161906169)
 * [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 * [2025-04-23, 16:17:04](https://news.ycombinator.com/item?id=43773777) - [MCP on AWS Lambda with MCPEngine](https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine)
+* [2025-04-23, 16:13:40](https://news.ycombinator.com/item?id=43773746) - [More Everything Forever](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html)
 * [2025-04-23, 15:55:05](https://news.ycombinator.com/item?id=43773563) - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
 * [2025-04-23, 14:00:11](https://news.ycombinator.com/item?id=43772311) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 * [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
 * [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-22, 20:40:31](https://news.ycombinator.com/item?id=43766073) - [Dissecting a British wartime night vision tank periscope [video]](https://www.youtube.com/watch?v=KlguQYJqs-E)
 * [2025-04-22, 12:58:43](https://news.ycombinator.com/item?id=43761572) - [I Tried to Buy an Actual Barrel of Crude Oil (2015)](https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil)
-* [2025-04-22, 11:10:38](https://news.ycombinator.com/item?id=43760819) - [How I built an AI-generated news site with daily articles](https://dev.to/agentictribune/how-i-built-an-ai-generated-news-site-and-what-surprised-me-29c4)
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
 * [2025-04-21, 00:36:00](https://news.ycombinator.com/item?id=43747634) - [Finland is painting deer antlers with reflective paint (2014)](https://www.smithsonianmag.com/smart-news/avoid-deer-strikes-finland-painting-deer-antlers-reflective-paint-180949792/)
+* [2025-04-20, 19:53:44](https://news.ycombinator.com/item?id=43746109) - [My experience of participating to a startup weekend competition in Italy](https://danielpetrica.com/my-experience-of-participating-to-a-startup-weekend-competition-in-italy/)
+* [2025-04-20, 16:04:36](https://news.ycombinator.com/item?id=43744635) - [Get your Minitel back, the COMPUTEL videotex BBS is back](https://cq94.medium.com/get-your-minitels-back-the-computel-videotex-bbs-is-back-1d8c42f1ea17)
 
 ## [Archives](archives/index.md)
 
