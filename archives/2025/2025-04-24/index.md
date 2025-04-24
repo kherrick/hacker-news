@@ -6,6 +6,7 @@
 
 * [2025-04-24, 17:37:52](https://news.ycombinator.com/item?id=43785350) - [Show HN: Infat – Declaritive application assocation manager for macOS](https://github.com/philocalyst/infat)
 * [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live, a real-time video-audio AI model](https://news.ycombinator.com/item?id=43785044)
+* [2025-04-24, 17:08:22](https://news.ycombinator.com/item?id=43785031) - [News Is Blocked on Meta's Feeds in Canada. Here's What Fills the Void](https://www.nytimes.com/2025/04/21/technology/canada-election-facebook-instagram-meta.html)
 * [2025-04-24, 17:00:38](https://news.ycombinator.com/item?id=43784946) - [Bild AI (YC W25) is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
 * [2025-04-24, 16:38:54](https://news.ycombinator.com/item?id=43784721) - [Why 21 cm is our Universe's \"magic length\"](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
 * [2025-04-24, 16:33:54](https://news.ycombinator.com/item?id=43784668) - [Show HN: Zev – Remember (or discover) terminal commands](https://github.com/dtnewman/zev)
