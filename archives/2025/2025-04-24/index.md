@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 16:38:54](https://news.ycombinator.com/item?id=43784721) - [Why 21 cm is our Universe's \"magic length\"](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
 * [2025-04-24, 16:33:54](https://news.ycombinator.com/item?id=43784668) - [Show HN: Zev – Remember (or discover) terminal commands](https://github.com/dtnewman/zev)
+* [2025-04-24, 16:32:41](https://news.ycombinator.com/item?id=43784656) - [Ask HN: My CEO wants to go hard on AI. What do I do?](https://news.ycombinator.com/item?id=43784656)
 * [2025-04-24, 15:53:24](https://news.ycombinator.com/item?id=43784205) - [Three things everyone should know about Vision Transformers](https://arxiv.org/abs/2203.09795)
 * [2025-04-24, 15:53:15](https://news.ycombinator.com/item?id=43784200) - [A Principled Approach to Querying Data – A Type-Safe Search DSL](https://www.claudiu-ivan.com/writing/search-dsl)
+* [2025-04-24, 15:38:44](https://news.ycombinator.com/item?id=43784056) - [Asymmetric Content Moderation in Search Markets: The Case of Adult Websites](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106235)
 * [2025-04-24, 15:33:16](https://news.ycombinator.com/item?id=43783997) - [A Tour Inside the IBM Z17](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f)
+* [2025-04-24, 14:47:40](https://news.ycombinator.com/item?id=43783487) - [You Need Customers to Succeed in Small Business](https://goodenough.us/blog/2025-04-24-you-need-customers-to-succeed-in-small-business/)
 * [2025-04-24, 14:42:03](https://news.ycombinator.com/item?id=43783416) - [Three Fundamental Flaws of SIMD ISAs (2023)](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
 * [2025-04-24, 13:31:41](https://news.ycombinator.com/item?id=43782509) - [Comcast reports higher broadband subscriber losses as competition heats up](https://www.reuters.com/business/media-telecom/comcast-reports-higher-broadband-subscriber-losses-competition-heats-up-2025-04-24/)
 * [2025-04-24, 13:31:38](https://news.ycombinator.com/item?id=43782506) - [Text-to-Visual with AI by Excalidraw](https://visualgpt.io/)
