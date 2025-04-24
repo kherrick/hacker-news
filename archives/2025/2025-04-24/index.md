@@ -6,6 +6,7 @@
 
 * [2025-04-24, 13:31:41](https://news.ycombinator.com/item?id=43782509) - [Comcast reports higher broadband subscriber losses as competition heats up](https://www.reuters.com/business/media-telecom/comcast-reports-higher-broadband-subscriber-losses-competition-heats-up-2025-04-24/)
 * [2025-04-24, 13:31:38](https://news.ycombinator.com/item?id=43782506) - [Text-to-Visual with AI by Excalidraw](https://visualgpt.io/)
+* [2025-04-24, 13:23:26](https://news.ycombinator.com/item?id=43782406) - [Instant SQL for results as you type in DuckDB UI](https://motherduck.com/blog/introducing-instant-sql/)
 * [2025-04-24, 13:11:22](https://news.ycombinator.com/item?id=43782299) - [Ask HN: Share your AI prompt that stumps every model](https://news.ycombinator.com/item?id=43782299)
 * [2025-04-24, 12:31:56](https://news.ycombinator.com/item?id=43781933) - [EU Energy labelling will apply to phones and tablets from June 2025](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en)
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice](https://code.mendhak.com/gpl-v2-address-letter/)
