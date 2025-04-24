@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 22:18:49](https://news.ycombinator.com/item?id=43788125) - [Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
+* [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
+* [2025-04-24, 21:31:09](https://news.ycombinator.com/item?id=43787730) - [National Airspace System Status](https://nasstatus.faa.gov/)
 * [2025-04-24, 21:25:37](https://news.ycombinator.com/item?id=43787682) - [Why I Blog and How I Automate it (2023)](https://www.ryanwwest.com/why-blog/)
+* [2025-04-24, 21:24:58](https://news.ycombinator.com/item?id=43787676) - [You Can Be a Great Designer and Be Completely Unknown](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown)
 * [2025-04-24, 21:21:37](https://news.ycombinator.com/item?id=43787647) - [Everyone Says They'll Pay More for \"Made in the USA\" So We Ran an A/B Test](https://afina.com/blogs/news/made-in-usa)
+* [2025-04-24, 21:04:56](https://news.ycombinator.com/item?id=43787493) - [Agent Mesh for Enterprise Agents](https://www.solo.io/blog/agent-mesh-for-enterprise-agents)
 * [2025-04-24, 20:29:21](https://news.ycombinator.com/item?id=43787133) - [Show HN: I Added Translation to My RSS Reader Project](https://rahuldshetty.github.io/reader-project/#/translation)
 * [2025-04-24, 20:11:19](https://news.ycombinator.com/item?id=43786987) - [What Actually Happens at the End of 'Trading Places'? (2013)](https://www.npr.org/sections/money/2013/07/19/201430727/what-actually-happens-at-the-end-of-trading-places)
 * [2025-04-24, 20:07:21](https://news.ycombinator.com/item?id=43786956) - [Alphabet Q1 2025 Earnings [pdf]](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf)
