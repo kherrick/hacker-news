@@ -23,12 +23,12 @@
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 11:34:10](https://news.ycombinator.com/item?id=43781465) - [Show HN: I made my own TRMNL e-ink device](https://www.stavros.io/posts/making-a-trmnl-device/)
 * [2025-04-24, 09:53:22](https://news.ycombinator.com/item?id=43780876) - [Assignment 5: Cars and Key Fobs](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
-* [2025-04-24, 09:43:48](https://news.ycombinator.com/item?id=43780815) - [On loyalty to your employer (2018)](https://www.talentstuff.com/blog/on-loyalty-to-your-employer)
 * [2025-04-24, 09:37:57](https://news.ycombinator.com/item?id=43780785) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 * [2025-04-24, 08:19:23](https://news.ycombinator.com/item?id=43780377) - [Mark Zuckerberg says social media is over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
 * [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [Careless People](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
 * [2025-04-24, 07:43:15](https://news.ycombinator.com/item?id=43780176) - [Show HN: Colanode, open-source and local-first Slack and Notion alternative](https://github.com/colanode/colanode)
 * [2025-04-24, 00:15:22](https://news.ycombinator.com/item?id=43778081) - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
+* [2025-04-23, 21:47:27](https://news.ycombinator.com/item?id=43776967) - [YAGRI: You are gonna read it](https://www.scottantipa.com/yagri)
 * [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 
 ## [Archives](archives/index.md)
