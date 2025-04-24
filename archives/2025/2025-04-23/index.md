@@ -11,6 +11,7 @@
 * [2025-04-23, 21:25:11](https://news.ycombinator.com/item?id=43776769) - [Even Republicans are falling out of love with Tesla](https://www.economist.com/business/2025/04/23/even-republicans-are-falling-out-of-love-with-tesla)
 * [2025-04-23, 20:56:18](https://news.ycombinator.com/item?id=43776539) - [FontDiffuser: Text to Font](https://yeungchenwa.github.io/fontdiffuser-homepage/)
 * [2025-04-23, 20:52:19](https://news.ycombinator.com/item?id=43776512) - [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
+* [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776477) - [How much math is knowable? [video]](https://www.youtube.com/watch?v=VplMHWSZf5c)
 * [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776476) - [Doge Worker's Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
 * [2025-04-23, 20:37:54](https://news.ycombinator.com/item?id=43776385) - [Lucene University](https://github.com/msfroh/lucene-university)
 * [2025-04-23, 20:22:37](https://news.ycombinator.com/item?id=43776264) - [The Race That Turned to Ruin](https://longreads.com/2025/04/03/balloon-race-belarus-disaster/)
