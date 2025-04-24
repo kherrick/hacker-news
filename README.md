@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-24, 20:07:21](https://news.ycombinator.com/item?id=43786956) - [Alphabet Q1 2025 Earnings [pdf]](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf)
-* [2025-04-24, 19:41:29](https://news.ycombinator.com/item?id=43786681) - [Apple Computers Used to Be Built in the U.S. It Was a Mess (2018)](https://www.nytimes.com/2018/12/15/business/apple-california-manufacturing-history.html)
 * [2025-04-24, 19:28:29](https://news.ycombinator.com/item?id=43786514) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
 * [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 * [2025-04-24, 19:07:41](https://news.ycombinator.com/item?id=43786304) - [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
@@ -11,7 +9,6 @@
 * [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live – Have a video call with a transformer model](https://news.ycombinator.com/item?id=43785044)
 * [2025-04-24, 17:09:56](https://news.ycombinator.com/item?id=43785039) - [OpenVSX, which VSCode forks rely on for extensions, down for 24 hours](https://status.open-vsx.org/)
 * [2025-04-24, 17:00:38](https://news.ycombinator.com/item?id=43784946) - [Bild AI (YC W25) is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
-* [2025-04-24, 16:57:08](https://news.ycombinator.com/item?id=43784915) - [Manufactured consensus on x.com](https://rook2root.co/articles/20250424-manufacturing-consensus-on-x)
 * [2025-04-24, 16:38:54](https://news.ycombinator.com/item?id=43784721) - [One quantum transition makes light at 21 cm](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
 * [2025-04-24, 16:33:54](https://news.ycombinator.com/item?id=43784668) - [Show HN: Zev – Remember (or discover) terminal commands](https://github.com/dtnewman/zev)
 * [2025-04-24, 15:53:24](https://news.ycombinator.com/item?id=43784205) - [Three things everyone should know about Vision Transformers](https://arxiv.org/abs/2203.09795)
@@ -28,7 +25,10 @@
 * [2025-04-24, 09:37:57](https://news.ycombinator.com/item?id=43780785) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 * [2025-04-24, 08:19:23](https://news.ycombinator.com/item?id=43780377) - [Mark Zuckerberg says social media is over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
 * [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [Careless People](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
+* [2025-04-24, 07:43:15](https://news.ycombinator.com/item?id=43780176) - [Show HN: Colanode, open-source and local-first Slack and Notion alternative](https://github.com/colanode/colanode)
 * [2025-04-24, 00:15:22](https://news.ycombinator.com/item?id=43778081) - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
+* [2025-04-23, 21:47:27](https://news.ycombinator.com/item?id=43776967) - [YAGRI: You are gonna read it](https://www.scottantipa.com/yagri)
+* [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776477) - [How much math is knowable? [video]](https://www.youtube.com/watch?v=VplMHWSZf5c)
 * [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 
 ## [Archives](archives/index.md)
