@@ -52,6 +52,7 @@
 * [2025-04-22, 13:24:52](https://news.ycombinator.com/item?id=43761835) - [The Cold Start Problem: Using Network Effects to Scale Your Product – A Review](https://madhavajay.com/the-cold-start-problem-using-network-effects-to-scale-your-product/)
 * [2025-04-22, 13:06:30](https://news.ycombinator.com/item?id=43761633) - [The raccoons who made computer magazine ads great](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/)
 * [2025-04-22, 13:04:03](https://news.ycombinator.com/item?id=43761610) - [Student loans in default to be referred to debt collection, Dept of Ed says](https://apnews.com/article/student-loan-debt-default-collection-fa6498bf519e0d50f2cd80166faef32a)
+* [2025-04-22, 12:58:43](https://news.ycombinator.com/item?id=43761572) - [I Tried to Buy an Actual Barrel of Crude Oil (2015)](https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil)
 * [2025-04-22, 12:35:12](https://news.ycombinator.com/item?id=43761387) - [Should We Respect LLMs? A Study on Influence of Prompt Politeness on Performance](https://arxiv.org/abs/2402.14531)
 * [2025-04-22, 12:00:06](https://news.ycombinator.com/item?id=43761119) - [GiveCampus (YC S15) Is Hiring Sr engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
 * [2025-04-22, 11:57:48](https://news.ycombinator.com/item?id=43761094) - [Offical XRP NPM package has been compromised and key stealing malware introduced](https://www.aikido.dev/blog/xrp-supplychain-attack-official-npm-package-infected-with-crypto-stealing-backdoor)
