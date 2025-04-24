@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [\"Careless People\" the book that Meta tried to suppress](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
 * [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
-* [2025-04-24, 06:02:31](https://news.ycombinator.com/item?id=43779723) - [Efficient Code Search with Nvidia DGX](https://developer.nvidia.com/blog/spotlight-qodo-innovates-efficient-code-search-with-nvidia-dgx/)
 * [2025-04-24, 00:23:38](https://news.ycombinator.com/item?id=43778120) - [Clinical trial: novel nutritional formula treats gut microbial overgrowth](https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html)
 * [2025-04-24, 00:20:40](https://news.ycombinator.com/item?id=43778105) - [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
 * [2025-04-24, 00:15:22](https://news.ycombinator.com/item?id=43778081) - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
