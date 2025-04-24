@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-24, 04:12:13](https://news.ycombinator.com/item?id=43779187) - [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
 * [2025-04-24, 01:24:22](https://news.ycombinator.com/item?id=43778436) - [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)
 * [2025-04-24, 00:23:38](https://news.ycombinator.com/item?id=43778120) - [Clinical trial: novel nutritional formula treats gut microbial overgrowth](https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html)
 * [2025-04-24, 00:20:40](https://news.ycombinator.com/item?id=43778105) - [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
@@ -28,7 +29,6 @@
 * [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
 * [2025-04-20, 19:53:44](https://news.ycombinator.com/item?id=43746109) - [My experience of participating to a startup weekend competition in Italy](https://danielpetrica.com/my-experience-of-participating-to-a-startup-weekend-competition-in-italy/)
-* [2025-04-20, 16:04:36](https://news.ycombinator.com/item?id=43744635) - [Get your Minitel back, the COMPUTEL videotex BBS is back](https://cq94.medium.com/get-your-minitels-back-the-computel-videotex-bbs-is-back-1d8c42f1ea17)
 * [2025-04-20, 14:19:21](https://news.ycombinator.com/item?id=43743927) - [A Gladiator's Marble-Etched Epitaph Is Found in an Ancient Roman Necropolis](https://www.smithsonianmag.com/smart-news/a-gladiators-marble-etched-epitaph-is-found-in-an-ancient-roman-necropolis-180986339/)
 
 ## [Archives](archives/index.md)
