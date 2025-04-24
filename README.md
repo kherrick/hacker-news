@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-24, 16:33:54](https://news.ycombinator.com/item?id=43784668) - [Show HN: Zev – Remember (or discover) terminal commands](https://github.com/dtnewman/zev)
 * [2025-04-24, 15:53:24](https://news.ycombinator.com/item?id=43784205) - [Three things everyone should know about Vision Transformers](https://arxiv.org/abs/2203.09795)
 * [2025-04-24, 15:53:15](https://news.ycombinator.com/item?id=43784200) - [A Principled Approach to Querying Data – A Type-Safe Search DSL](https://www.claudiu-ivan.com/writing/search-dsl)
 * [2025-04-24, 15:33:16](https://news.ycombinator.com/item?id=43783997) - [A Tour Inside the IBM Z17](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f)
@@ -14,7 +15,6 @@
 * [2025-04-24, 07:43:15](https://news.ycombinator.com/item?id=43780176) - [Show HN: Colanode, open-source and local-first Slack and Notion alternative](https://github.com/colanode/colanode)
 * [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
 * [2025-04-24, 06:13:35](https://news.ycombinator.com/item?id=43779766) - [Daily driving a Linux phone, but why?](https://thefoggiest.dev/2025/04/24/daily-driving-a-linux-phone-but-why)
-* [2025-04-24, 01:24:22](https://news.ycombinator.com/item?id=43778436) - [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)
 * [2025-04-24, 00:20:40](https://news.ycombinator.com/item?id=43778105) - [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
 * [2025-04-24, 00:15:22](https://news.ycombinator.com/item?id=43778081) - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
 * [2025-04-23, 23:19:32](https://news.ycombinator.com/item?id=43777731) - [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 16:33:54](https://news.ycombinator.com/item?id=43784668) - [Show HN: Zev – Remember (or discover) terminal commands](https://github.com/dtnewman/zev)
 * [2025-04-24, 15:53:24](https://news.ycombinator.com/item?id=43784205) - [Three things everyone should know about Vision Transformers](https://arxiv.org/abs/2203.09795)
 * [2025-04-24, 15:53:15](https://news.ycombinator.com/item?id=43784200) - [A Principled Approach to Querying Data – A Type-Safe Search DSL](https://www.claudiu-ivan.com/writing/search-dsl)
 * [2025-04-24, 15:33:16](https://news.ycombinator.com/item?id=43783997) - [A Tour Inside the IBM Z17](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f)
