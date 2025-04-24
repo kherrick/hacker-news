@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
 * [2025-04-24, 10:30:01](https://news.ycombinator.com/item?id=43781039) - [Norway's $1.7T Wealth Fund Reports $40B Tech-Driven Loss](https://www.bloomberg.com/news/articles/2025-04-24/norway-1-7-trillion-wealth-fund-reports-tech-stock-driven-loss)
+* [2025-04-24, 10:28:16](https://news.ycombinator.com/item?id=43781031) - [Give People Something to Look At](https://staysaasy.com/communication/2021/10/30/look.html)
+* [2025-04-24, 09:53:22](https://news.ycombinator.com/item?id=43780876) - [Cars and Key Fobs: Attacks on Car Remotes](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
 * [2025-04-24, 09:16:36](https://news.ycombinator.com/item?id=43780682) - [Vim Language, Motions, and Modes Explained](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
 * [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [\"Careless People\" the book that Meta tried to suppress](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
 * [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
