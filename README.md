@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live, a real-time video-audio AI model](https://news.ycombinator.com/item?id=43785044)
 * [2025-04-24, 17:00:38](https://news.ycombinator.com/item?id=43784946) - [Bild AI (YC W25) is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
 * [2025-04-24, 16:38:54](https://news.ycombinator.com/item?id=43784721) - [Why 21 cm is our Universe's \"magic length\"](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
 * [2025-04-24, 16:33:54](https://news.ycombinator.com/item?id=43784668) - [Show HN: Zev – Remember (or discover) terminal commands](https://github.com/dtnewman/zev)
-* [2025-04-24, 16:32:41](https://news.ycombinator.com/item?id=43784656) - [Ask HN: My CEO wants to go hard on AI. What do I do?](https://news.ycombinator.com/item?id=43784656)
 * [2025-04-24, 15:53:24](https://news.ycombinator.com/item?id=43784205) - [Three things everyone should know about Vision Transformers](https://arxiv.org/abs/2203.09795)
 * [2025-04-24, 15:53:15](https://news.ycombinator.com/item?id=43784200) - [A Principled Approach to Querying Data – A Type-Safe Search DSL](https://www.claudiu-ivan.com/writing/search-dsl)
 * [2025-04-24, 15:38:44](https://news.ycombinator.com/item?id=43784056) - [Asymmetric Content Moderation in Search Markets: The Case of Adult Websites](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106235)
@@ -18,6 +16,7 @@
 * [2025-04-24, 09:37:57](https://news.ycombinator.com/item?id=43780785) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 * [2025-04-24, 08:19:23](https://news.ycombinator.com/item?id=43780377) - [Mark Zuckerberg Says Social Media Is Over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
 * [2025-04-24, 07:43:15](https://news.ycombinator.com/item?id=43780176) - [Show HN: Colanode, open-source and local-first Slack and Notion alternative](https://github.com/colanode/colanode)
+* [2025-04-24, 06:58:05](https://news.ycombinator.com/item?id=43779953) - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon \"In the Roadmap\"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
 * [2025-04-24, 06:13:35](https://news.ycombinator.com/item?id=43779766) - [Daily driving a Linux phone, but why?](https://thefoggiest.dev/2025/04/24/daily-driving-a-linux-phone-but-why)
 * [2025-04-24, 00:15:22](https://news.ycombinator.com/item?id=43778081) - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
 * [2025-04-23, 23:19:32](https://news.ycombinator.com/item?id=43777731) - [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
@@ -28,6 +27,7 @@
 * [2025-04-23, 19:24:58](https://news.ycombinator.com/item?id=43775766) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
 * [2025-04-23, 18:44:47](https://news.ycombinator.com/item?id=43775358) - [The hidden cost of AI coding](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/)
 * [2025-04-23, 18:13:43](https://news.ycombinator.com/item?id=43774990) - [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html)
+* [2025-04-23, 17:48:20](https://news.ycombinator.com/item?id=43774726) - [Graphics livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
 * [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 * [2025-04-22, 12:58:43](https://news.ycombinator.com/item?id=43761572) - [I Tried to Buy an Actual Barrel of Crude Oil (2015)](https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil)
 
