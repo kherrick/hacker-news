@@ -18,6 +18,7 @@
 * [2025-04-20, 20:50:07](https://news.ycombinator.com/item?id=43746433) - [How I use Kate editor](https://akselmo.dev/posts/how-i-use-kate-editor/)
 * [2025-04-20, 20:13:19](https://news.ycombinator.com/item?id=43746229) - [Better Error Handling](https://meowbark.dev/Better-error-handling)
 * [2025-04-20, 20:09:12](https://news.ycombinator.com/item?id=43746202) - [Inside the Rise and Fall of Toys 'R' Us (2018)](https://www.history.com/articles/toys-r-us-closing-legacy)
+* [2025-04-20, 19:53:44](https://news.ycombinator.com/item?id=43746109) - [My experience of participating to a startup weekend competition in Italy](https://danielpetrica.com/my-experience-of-participating-to-a-startup-weekend-competition-in-italy/)
 * [2025-04-20, 19:41:29](https://news.ycombinator.com/item?id=43746017) - [Falsify: Hypothesis-Inspired Shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
 * [2025-04-20, 19:38:29](https://news.ycombinator.com/item?id=43745987) - [Verus: Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
 * [2025-04-20, 19:17:58](https://news.ycombinator.com/item?id=43745868) - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
