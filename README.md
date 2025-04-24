@@ -27,9 +27,9 @@
 * [2025-04-23, 10:01:04](https://news.ycombinator.com/item?id=43770337) - [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
 * [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
-* [2025-04-21, 14:23:17](https://news.ycombinator.com/item?id=43752353) - [The World Is Ending. Welcome to the Spooner Revolution](https://aethn.com/posts/the-world-is-ending)
 * [2025-04-20, 19:53:44](https://news.ycombinator.com/item?id=43746109) - [My experience of participating to a startup weekend competition in Italy](https://danielpetrica.com/my-experience-of-participating-to-a-startup-weekend-competition-in-italy/)
 * [2025-04-20, 16:04:36](https://news.ycombinator.com/item?id=43744635) - [Get your Minitel back, the COMPUTEL videotex BBS is back](https://cq94.medium.com/get-your-minitels-back-the-computel-videotex-bbs-is-back-1d8c42f1ea17)
+* [2025-04-20, 14:19:21](https://news.ycombinator.com/item?id=43743927) - [A Gladiator's Marble-Etched Epitaph Is Found in an Ancient Roman Necropolis](https://www.smithsonianmag.com/smart-news/a-gladiators-marble-etched-epitaph-is-found-in-an-ancient-roman-necropolis-180986339/)
 
 ## [Archives](archives/index.md)
 

@@ -48,6 +48,7 @@
 * [2025-04-20, 14:35:25](https://news.ycombinator.com/item?id=43744043) - [Meta's Monopoly Made It a Fair-Weather Friend](https://www.wired.com/story/plaintext-ftc-meta-trial-mark-zuckerberg/)
 * [2025-04-20, 14:30:05](https://news.ycombinator.com/item?id=43744006) - [What's happening with Tesla's solar roof?](https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/)
 * [2025-04-20, 14:28:20](https://news.ycombinator.com/item?id=43743993) - [Why on Earth is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
+* [2025-04-20, 14:19:21](https://news.ycombinator.com/item?id=43743927) - [A Gladiator's Marble-Etched Epitaph Is Found in an Ancient Roman Necropolis](https://www.smithsonianmag.com/smart-news/a-gladiators-marble-etched-epitaph-is-found-in-an-ancient-roman-necropolis-180986339/)
 * [2025-04-20, 14:17:39](https://news.ycombinator.com/item?id=43743915) - [Slouching Towards San Francisco](https://rachdele.substack.com/p/slouching-towards-san-francisco)
 * [2025-04-20, 14:14:27](https://news.ycombinator.com/item?id=43743897) - [Maybe Meta's Llama claims to be open source because of the EU AI act](https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/)
 * [2025-04-20, 14:12:09](https://news.ycombinator.com/item?id=43743880) - [Show HN: MCP Containers – Easily and securely run MCP servers locally](https://github.com/metorial/mcp-containers)
