@@ -13,6 +13,7 @@
 * [2025-04-23, 20:52:19](https://news.ycombinator.com/item?id=43776512) - [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
 * [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776476) - [Doge Worker's Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/)
 * [2025-04-23, 20:37:54](https://news.ycombinator.com/item?id=43776385) - [Lucene University](https://github.com/msfroh/lucene-university)
+* [2025-04-23, 20:22:37](https://news.ycombinator.com/item?id=43776264) - [The Race That Turned to Ruin](https://longreads.com/2025/04/03/balloon-race-belarus-disaster/)
 * [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You Wouldn't Steal a Font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 * [2025-04-23, 19:36:41](https://news.ycombinator.com/item?id=43775878) - [Show HN: Nowrite.fun – If you stop typing, your text disappears](https://nowrite.fun)
 * [2025-04-23, 19:24:58](https://news.ycombinator.com/item?id=43775766) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
