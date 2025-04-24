@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live, a real-time video-audio AI model](https://news.ycombinator.com/item?id=43785044)
+* [2025-04-24, 17:00:38](https://news.ycombinator.com/item?id=43784946) - [Bild AI (YC W25) is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
 * [2025-04-24, 16:38:54](https://news.ycombinator.com/item?id=43784721) - [Why 21 cm is our Universe's \"magic length\"](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
 * [2025-04-24, 16:33:54](https://news.ycombinator.com/item?id=43784668) - [Show HN: Zev – Remember (or discover) terminal commands](https://github.com/dtnewman/zev)
 * [2025-04-24, 16:32:41](https://news.ycombinator.com/item?id=43784656) - [Ask HN: My CEO wants to go hard on AI. What do I do?](https://news.ycombinator.com/item?id=43784656)
