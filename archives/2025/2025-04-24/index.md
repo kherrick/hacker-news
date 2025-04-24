@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 06:02:31](https://news.ycombinator.com/item?id=43779723) - [Efficient Code Search with Nvidia DGX](https://developer.nvidia.com/blog/spotlight-qodo-innovates-efficient-code-search-with-nvidia-dgx/)
 * [2025-04-24, 05:18:11](https://news.ycombinator.com/item?id=43779457) - [Ubuntu 25.10 Replaces GNU Coreutils with Rust Uutils](https://www.altusintel.com/public-yych08/)
 * [2025-04-24, 04:12:13](https://news.ycombinator.com/item?id=43779187) - [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
 * [2025-04-24, 01:24:22](https://news.ycombinator.com/item?id=43778436) - [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)

@@ -12,6 +12,7 @@
 * [2025-04-22, 21:58:50](https://news.ycombinator.com/item?id=43766715) - [CSS Hell](https://csshell.com/)
 * [2025-04-22, 21:00:48](https://news.ycombinator.com/item?id=43766255) - [Onyx (YC W24) Is Hiring for ML Engineer](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer)
 * [2025-04-22, 20:54:52](https://news.ycombinator.com/item?id=43766200) - [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
+* [2025-04-22, 20:40:31](https://news.ycombinator.com/item?id=43766073) - [Dissecting a British wartime night vision tank periscope [video]](https://www.youtube.com/watch?v=KlguQYJqs-E)
 * [2025-04-22, 20:23:38](https://news.ycombinator.com/item?id=43765908) - [Windows File Manager (WinFile) repository archived on March 1, 2025](https://github.com/microsoft/winfile)
 * [2025-04-22, 20:16:04](https://news.ycombinator.com/item?id=43765832) - [Classic Computer Replicas](https://obsolescence.dev/index.html)
 * [2025-04-22, 20:13:30](https://news.ycombinator.com/item?id=43765815) - [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
