@@ -129,6 +129,147 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43785350">
+          <h3>
+            <a class="item" href="https://github.com/philocalyst/infat"
+              >Show HN: Infat – Declaritive application assocation manager for
+              macOS</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-24 @ 17:37:52</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43785350"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Credit to
+                <a href="https://github.com/moretension/duti"
+                  >https://github.com/moretension/duti</a
+                >
+                for the original inspiration for the project.
+              </p>
+              <p>Happy to answer and help with whatever.</p>
+            </div>
+          </section>
+        </section>
+        <section id="43785044">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43785044"
+              >Show HN: Lemon Slice Live, a real-time video-audio AI model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-04-24 @ 17:10:14</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43785044"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.youtube.com/watch?v=CeYp5xQMFZY"
+                >https://www.youtube.com/watch?v=CeYp5xQMFZY</a
+              >. Try it for yourself at:
+              <a href="https://lemonslice.com/live"
+                >https://lemonslice.com/live</a
+              >.
+              <p>
+                (Btw, we used to be called Infinity AI and did a Show HN under
+                that name last year:
+                <a href="https://news.ycombinator.com/item?id=41467704"
+                  >https://news.ycombinator.com/item?id=41467704</a
+                >.)
+              </p>
+              <p>
+                Unlike existing avatar video chat platforms like HeyGen, Tolan,
+                or Apple Memoji filters, we do not require training custom
+                models, rigging a character ahead of time, or having a human
+                drive the avatar. Our tech allows users to create and
+                immediately video-call a custom character by uploading a single
+                image. The character image can be any style - from
+                photorealistic to cartoons, paintings, and more.
+              </p>
+              <p>
+                To achieve this demo, we had to do the following (among other
+                things! but these were the hardest):
+              </p>
+              <p>
+                1. Training a fast DiT model. To make our video generation fast,
+                we had to both design a model that made the right trade-offs
+                between speed and quality, and use standard distillation
+                approaches. We first trained a custom video diffusion
+                transformer (DiT) from scratch that achieves excellent lip and
+                facial expression sync to audio. To further optimize the model
+                for speed, we applied teacher-student distillation. The
+                distilled model achieves 25fps video generation at 256-px
+                resolution. Purpose-built transformer ASICs will eventually
+                allow us to stream our video model at 4k resolution.
+              </p>
+              <p>
+                2. Solving the infinite video problem. Most video DiT models
+                (Sora, Runway, Kling) generate 5-second chunks. They can
+                iteratively extend it by another 5sec by feeding the end of the
+                1st chunk into the start of the 2nd in an autoregressive manner.
+                Unfortunately the models experience quality degradation after
+                multiple extensions due to accumulation of generation errors. We
+                developed a temporal consistency preservation technique that
+                maintains visual coherence across long sequences. Our technique
+                significantly reduces artifact accumulation and allows us to
+                generate indefinitely-long videos.
+              </p>
+              <p>
+                3. A complex streaming architecture with minimal latency.
+                Enabling an end-to-end avatar zoom call requires several
+                building blocks, including voice transcription, LLM inference,
+                and text-to-speech generation in addition to video generation.
+                We use Deepgram as our AI voice partner. Modal as the end-to-end
+                compute platform. And Daily.co and Pipecat to help build a
+                parallel processing pipeline that orchestrates everything via
+                continuously streaming chunks. Our system achieves end-to-end
+                latency of 3-6 seconds from user input to avatar response. Our
+                target is &lt;2 second latency.
+              </p>
+              <p>
+                More technical details here:
+                <a href="https://lemonslice.com/live/technical-report"
+                  >https://lemonslice.com/live/technical-report</a
+                >.
+              </p>
+              <p>
+                Current limitations that we want to solve include: (1) enabling
+                whole-body and background motions (we’re training a next-gen
+                model for this), (2) reducing delays and improving resolution
+                (purpose-built ASICs will help), (3) training a model on dyadic
+                conversations so that avatars learn to listen naturally, and (4)
+                allowing the character to “see you” and respond to what they see
+                to create a more natural and engaging conversation.
+              </p>
+              <p>
+                We believe that generative video will usher in a new media type
+                centered around interactivity: TV shows, movies, ads, and online
+                courses will stop and talk to us. Our entertainment will be a
+                mixture of passive and active experiences depending on what
+                we’re in the mood for. Well, prediction is hard, especially
+                about the future, but that’s how we see it anyway!
+              </p>
+              <p>
+                We’d love for you to try out the demo and let us know what you
+                think! Post your characters and/or conversation recordings
+                below.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43784946">
           <h3>
             <a
@@ -151,18 +292,18 @@
             <a
               class="item"
               href="https://bigthink.com/starts-with-a-bang/21cm-magic-length/"
-              >Why 21 cm is our Universe's "magic length"</a
+              >One quantum transition makes light at 21 cm</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-04-24 @ 16:38:54</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784721"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -177,11 +318,11 @@
             <h4>
               <span>2025-04-24 @ 16:33:54</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784668"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -196,7 +337,7 @@
             <h4>
               <span>2025-04-24 @ 15:53:24</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784205"
                   >Comments</a
@@ -218,7 +359,7 @@
             <h4>
               <span>2025-04-24 @ 15:53:15</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784200"
                   >Comments</a
@@ -240,7 +381,7 @@
             <h4>
               <span>2025-04-24 @ 15:38:44</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43784056"
                   >Comments</a
@@ -261,11 +402,11 @@
             <h4>
               <span>2025-04-24 @ 15:33:16</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43783997"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -282,11 +423,11 @@
             <h4>
               <span>2025-04-24 @ 14:47:40</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43783487"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -303,11 +444,11 @@
             <h4>
               <span>2025-04-24 @ 14:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43783416"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -324,11 +465,11 @@
             <h4>
               <span>2025-04-24 @ 13:23:26</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43782406"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -343,11 +484,11 @@
             <h4>
               <span>2025-04-24 @ 13:11:22</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43782299"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
             <div class="text">
@@ -372,11 +513,11 @@
             <h4>
               <span>2025-04-24 @ 12:26:38</span
               ><span class="points-container"
-                >Points: <span class="points">383</span></span
+                >Points: <span class="points">401</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43781888"
                   >Comments</a
-                ><span class="descendants">: 323</span></span
+                ><span class="descendants">: 329</span></span
               >
             </h4>
           </section>
@@ -393,11 +534,11 @@
             <h4>
               <span>2025-04-24 @ 09:43:48</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">284</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43780815"
                   >Comments</a
-                ><span class="descendants">: 325</span></span
+                ><span class="descendants">: 339</span></span
               >
             </h4>
           </section>
@@ -412,7 +553,7 @@
             <h4>
               <span>2025-04-24 @ 09:37:57</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43780785"
                   >Comments</a
@@ -433,11 +574,11 @@
             <h4>
               <span>2025-04-24 @ 08:19:23</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43780377"
                   >Comments</a
-                ><span class="descendants">: 411</span></span
+                ><span class="descendants">: 439</span></span
               >
             </h4>
           </section>
@@ -453,11 +594,11 @@
             <h4>
               <span>2025-04-24 @ 07:43:15</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43780176"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">
@@ -520,28 +661,6 @@
             </div>
           </section>
         </section>
-        <section id="43779953">
-          <h3>
-            <a
-              class="item"
-              href="https://www.phoronix.com/news/AMD-GIM-Open-Source"
-              >AMD Publishes Open-Source Driver for GPU Virtualization, Radeon
-              "In the Roadmap"</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-24 @ 06:58:05</span
-              ><span class="points-container"
-                >Points: <span class="points">159</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43779953"
-                  >Comments</a
-                ><span class="descendants">: 50</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43779766">
           <h3>
             <a
@@ -554,11 +673,11 @@
             <h4>
               <span>2025-04-24 @ 06:13:35</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43779766"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -573,11 +692,11 @@
             <h4>
               <span>2025-04-24 @ 00:15:22</span
               ><span class="points-container"
-                >Points: <span class="points">274</span></span
+                >Points: <span class="points">278</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43778081"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
             <div class="text">
@@ -623,7 +742,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43776967"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 139</span></span
               >
             </h4>
           </section>
@@ -641,11 +760,11 @@
             <h4>
               <span>2025-04-23 @ 20:52:19</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43776512"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -660,7 +779,7 @@
             <h4>
               <span>2025-04-23 @ 20:48:57</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43776477"
                   >Comments</a
@@ -679,7 +798,7 @@
             <h4>
               <span>2025-04-23 @ 19:42:36</span
               ><span class="points-container"
-                >Points: <span class="points">1251</span></span
+                >Points: <span class="points">1256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43775926"
                   >Comments</a
@@ -701,11 +820,11 @@
             <h4>
               <span>2025-04-23 @ 19:24:58</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43775766"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -722,11 +841,11 @@
             <h4>
               <span>2025-04-23 @ 18:44:47</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43775358"
                   >Comments</a
-                ><span class="descendants">: 361</span></span
+                ><span class="descendants">: 373</span></span
               >
             </h4>
           </section>
@@ -743,30 +862,11 @@
             <h4>
               <span>2025-04-23 @ 18:13:43</span
               ><span class="points-container"
-                >Points: <span class="points">296</span></span
+                >Points: <span class="points">299</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43774990"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43774726">
-          <h3>
-            <a class="item" href="https://kevingal.com/blog/cl-livecoding.html"
-              >Graphics livecoding in Common Lisp</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-04-23 @ 17:48:20</span
-              ><span class="points-container"
-                >Points: <span class="points">195</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43774726"
-                  >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -783,11 +883,11 @@
             <h4>
               <span>2025-04-23 @ 16:19:56</span
               ><span class="points-container"
-                >Points: <span class="points">742</span></span
+                >Points: <span class="points">751</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43773813"
                   >Comments</a
-                ><span class="descendants">: 446</span></span
+                ><span class="descendants">: 448</span></span
               >
             </h4>
           </section>
@@ -804,11 +904,11 @@
             <h4>
               <span>2025-04-22 @ 12:58:43</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43761572"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
