@@ -6,6 +6,7 @@
 
 * [2025-04-23, 23:19:32](https://news.ycombinator.com/item?id=43777731) - [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
 * [2025-04-23, 23:14:07](https://news.ycombinator.com/item?id=43777700) - [Don't make it \"like Google\"](https://rakhim.exotext.com/dont-make-it-like-google)
+* [2025-04-23, 23:11:39](https://news.ycombinator.com/item?id=43777677) - [Echoplayer: Echo – Open Hardware Music Player](https://github.com/amachronic/echoplayer)
 * [2025-04-23, 21:47:27](https://news.ycombinator.com/item?id=43776967) - [Yagri: You are gonna read it](https://www.scottantipa.com/yagri)
 * [2025-04-23, 21:25:11](https://news.ycombinator.com/item?id=43776769) - [Even Republicans are falling out of love with Tesla](https://www.economist.com/business/2025/04/23/even-republicans-are-falling-out-of-love-with-tesla)
 * [2025-04-23, 20:56:18](https://news.ycombinator.com/item?id=43776539) - [FontDiffuser: Text to Font](https://yeungchenwa.github.io/fontdiffuser-homepage/)

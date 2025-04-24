@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-24, 00:15:22](https://news.ycombinator.com/item?id=43778081) - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
 * [2025-04-23, 23:19:32](https://news.ycombinator.com/item?id=43777731) - [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
 * [2025-04-23, 23:14:07](https://news.ycombinator.com/item?id=43777700) - [Don't make it \"like Google\"](https://rakhim.exotext.com/dont-make-it-like-google)
+* [2025-04-23, 23:11:39](https://news.ycombinator.com/item?id=43777677) - [Echoplayer: Echo – Open Hardware Music Player](https://github.com/amachronic/echoplayer)
 * [2025-04-23, 21:47:27](https://news.ycombinator.com/item?id=43776967) - [Yagri: You are gonna read it](https://www.scottantipa.com/yagri)
 * [2025-04-23, 20:56:18](https://news.ycombinator.com/item?id=43776539) - [FontDiffuser: Text to Font](https://yeungchenwa.github.io/fontdiffuser-homepage/)
 * [2025-04-23, 20:52:19](https://news.ycombinator.com/item?id=43776512) - [Google blocked Motorola use of Perplexity AI, witness says](https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant)
@@ -15,7 +17,6 @@
 * [2025-04-23, 18:13:43](https://news.ycombinator.com/item?id=43774990) - [Teaching LLMs how to solid model](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html)
 * [2025-04-23, 18:08:39](https://news.ycombinator.com/item?id=43774938) - [Spring 83: a draft protocol intended to suggest new ways of relating online](https://github.com/robinsloan/spring-83)
 * [2025-04-23, 17:48:20](https://news.ycombinator.com/item?id=43774726) - [Graphics livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
-* [2025-04-23, 17:45:35](https://news.ycombinator.com/item?id=43774702) - [A Computational Proof of the Highest-Scoring Boggle Board](https://www.danvk.org/2025/04/23/boggle-solved.html)
 * [2025-04-23, 17:12:58](https://news.ycombinator.com/item?id=43774327) - [The Future of MCPs](https://iamcharliegraham.substack.com/publish/post/161906169)
 * [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 * [2025-04-23, 16:17:04](https://news.ycombinator.com/item?id=43773777) - [MCP on AWS Lambda with MCPEngine](https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine)
@@ -26,10 +27,9 @@
 * [2025-04-23, 12:35:49](https://news.ycombinator.com/item?id=43771365) - [Show HN: Node.js video tutorials where you can edit and run the code](https://news.ycombinator.com/item?id=43771365)
 * [2025-04-23, 10:21:57](https://news.ycombinator.com/item?id=43770445) - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
 * [2025-04-23, 10:01:04](https://news.ycombinator.com/item?id=43770337) - [Apple and Meta fined millions for breaching EU law](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html)
+* [2025-04-23, 06:42:31](https://news.ycombinator.com/item?id=43769289) - [Beer on Board in the Age of Sail (2017)](https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/)
 * [2025-04-22, 20:13:30](https://news.ycombinator.com/item?id=43765815) - [The Dauug House - Dauug|36 minicomputer documentation](https://dauug.cs.wright.edu/)
-* [2025-04-22, 19:04:34](https://news.ycombinator.com/item?id=43765227) - [Mt Ontake](https://www.emgoto.com/mt-ontake/)
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
-* [2025-04-20, 16:04:36](https://news.ycombinator.com/item?id=43744635) - [Get your Minitel back, the COMPUTEL videotex BBS is back](https://cq94.medium.com/get-your-minitels-back-the-computel-videotex-bbs-is-back-1d8c42f1ea17)
 
 ## [Archives](archives/index.md)
 
