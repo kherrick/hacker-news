@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-24, 20:29:21](https://news.ycombinator.com/item?id=43787133) - [Show HN: I Added Translation to My RSS Reader Project](https://rahuldshetty.github.io/reader-project/#/translation)
 * [2025-04-24, 19:28:29](https://news.ycombinator.com/item?id=43786514) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
 * [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 * [2025-04-24, 19:07:41](https://news.ycombinator.com/item?id=43786304) - [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
@@ -25,7 +26,6 @@
 * [2025-04-24, 09:37:57](https://news.ycombinator.com/item?id=43780785) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 * [2025-04-24, 08:19:23](https://news.ycombinator.com/item?id=43780377) - [Mark Zuckerberg says social media is over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
 * [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [Careless People](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
-* [2025-04-24, 07:43:15](https://news.ycombinator.com/item?id=43780176) - [Show HN: Colanode, open-source and local-first Slack and Notion alternative](https://github.com/colanode/colanode)
 * [2025-04-24, 00:15:22](https://news.ycombinator.com/item?id=43778081) - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
 * [2025-04-23, 21:47:27](https://news.ycombinator.com/item?id=43776967) - [YAGRI: You are gonna read it](https://www.scottantipa.com/yagri)
 * [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776477) - [How much math is knowable? [video]](https://www.youtube.com/watch?v=VplMHWSZf5c)
