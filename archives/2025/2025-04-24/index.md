@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 * [2025-04-24, 19:07:41](https://news.ycombinator.com/item?id=43786304) - [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
 * [2025-04-24, 18:31:01](https://news.ycombinator.com/item?id=43785919) - [Should every startup give up and go home? AI Acquisitions and consolidation](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
 * [2025-04-24, 18:28:59](https://news.ycombinator.com/item?id=43785896) - [Scancity: QR Codes for the Discerning](https://scancity.net)

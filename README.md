@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 * [2025-04-24, 19:07:41](https://news.ycombinator.com/item?id=43786304) - [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
 * [2025-04-24, 18:31:01](https://news.ycombinator.com/item?id=43785919) - [Should every startup give up and go home? AI Acquisitions and consolidation](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
 * [2025-04-24, 18:16:56](https://news.ycombinator.com/item?id=43785769) - [io_uring based rootkit can bypass syscall-focused Linux security tools](https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security)
@@ -29,7 +30,6 @@
 * [2025-04-23, 21:47:27](https://news.ycombinator.com/item?id=43776967) - [YAGRI: You are gonna read it](https://www.scottantipa.com/yagri)
 * [2025-04-23, 20:48:57](https://news.ycombinator.com/item?id=43776477) - [How much math is knowable? [video]](https://www.youtube.com/watch?v=VplMHWSZf5c)
 * [2025-04-23, 19:42:36](https://news.ycombinator.com/item?id=43775926) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
-* [2025-04-23, 16:19:56](https://news.ycombinator.com/item?id=43773813) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 
 ## [Archives](archives/index.md)
 
