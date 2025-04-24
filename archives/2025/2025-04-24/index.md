@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 19:07:41](https://news.ycombinator.com/item?id=43786304) - [NSF director to resign amid grant terminations, job cuts, and controversy](https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy)
 * [2025-04-24, 18:31:01](https://news.ycombinator.com/item?id=43785919) - [Should every startup give up and go home? AI Acquisitions and consolidation](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation)
 * [2025-04-24, 18:28:59](https://news.ycombinator.com/item?id=43785896) - [Scancity: QR Codes for the Discerning](https://scancity.net)
 * [2025-04-24, 18:16:56](https://news.ycombinator.com/item?id=43785769) - [io_uring based rootkit can bypass syscall-focused Linux security tools](https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security)
+* [2025-04-24, 17:47:09](https://news.ycombinator.com/item?id=43785464) - [Show HN: I reverse engineered top websites to build an animated UI library](https://reverseui.com)
 * [2025-04-24, 17:37:52](https://news.ycombinator.com/item?id=43785350) - [Show HN: Infat – Declaritive application assocation manager for macOS](https://github.com/philocalyst/infat)
 * [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live, a real-time video-audio AI model](https://news.ycombinator.com/item?id=43785044)
 * [2025-04-24, 17:09:56](https://news.ycombinator.com/item?id=43785039) - [OpenVSX, which VSCode forks rely on for extensions, down for 24 hours](https://status.open-vsx.org/)
