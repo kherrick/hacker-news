@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-04-24, 08:17:11",
-      "https://news.ycombinator.com/item?id=43780363"
-    ],
-    [
-      "Careless People",
-      "https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf"
-    ]
-  ],
-  [
-    [
       "2025-04-23, 16:59:36",
       "https://news.ycombinator.com/item?id=43774169"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: Logiquiz – Daily Self-Referential Puzzles",
       "https://www.logiquiz.com/"
+    ]
+  ],
+  [
+    [
+      "2025-04-22, 21:01:48",
+      "https://news.ycombinator.com/item?id=43766263"
+    ],
+    [
+      "Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]",
+      "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf"
     ]
   ]
 ]
