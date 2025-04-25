@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 20:06:33](https://news.ycombinator.com/item?id=43798009) - [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
 * [2025-04-25, 19:39:15](https://news.ycombinator.com/item?id=43797774) - [Tales of the Yucca Man (2018)](https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/)
 * [2025-04-25, 19:30:46](https://news.ycombinator.com/item?id=43797699) - [PhD Timeline](https://xkcd.com/3081/)
 * [2025-04-25, 19:12:50](https://news.ycombinator.com/item?id=43797505) - [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
