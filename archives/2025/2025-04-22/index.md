@@ -74,6 +74,7 @@
 * [2025-04-22, 08:22:41](https://news.ycombinator.com/item?id=43760099) - [Data Compression Nerds Hate This One Trick [video]](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick)
 * [2025-04-22, 06:15:49](https://news.ycombinator.com/item?id=43759513) - [AI for Network Engineers: Understanding Flow, Flowlet, and Packet-Based LB](https://nwktimes.blogspot.com/2025/04/ai-for-network-engineers-understanding.html)
 * [2025-04-22, 06:06:35](https://news.ycombinator.com/item?id=43759472) - [Sea Monsters Unmasked and Sea Fables Explained by Henry Lee (1883)](https://publicdomainreview.org/collection/sea-monsters-sea-fables/)
+* [2025-04-22, 06:05:36](https://news.ycombinator.com/item?id=43759466) - [There's a Seeker Born Every Minute](https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/)
 * [2025-04-22, 05:59:28](https://news.ycombinator.com/item?id=43759436) - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
 * [2025-04-22, 05:24:54](https://news.ycombinator.com/item?id=43759287) - [The Rise of Luxury Doomsday Prepping](https://www.wsj.com/us-news/the-rise-of-luxury-doomsday-prepping-bd34e901)
 * [2025-04-22, 05:05:37](https://news.ycombinator.com/item?id=43759204) - [Sustain your creative drive in the face of technological change](https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/)
