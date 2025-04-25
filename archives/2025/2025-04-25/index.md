@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 16:38:19](https://news.ycombinator.com/item?id=43795700) - [Exercise before bed is linked with disrupted sleep](https://medicalxpress.com/news/2025-04-bed-linked-disrupted.html)
+* [2025-04-25, 16:26:24](https://news.ycombinator.com/item?id=43795504) - [Write an Interpreter in Ruby](https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby)
 * [2025-04-25, 16:14:08](https://news.ycombinator.com/item?id=43795300) - [Huge reproducibility project fails to validate biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
 * [2025-04-25, 15:25:35](https://news.ycombinator.com/item?id=43794576) - [FBI arrests Wisconsin judge on charges of obstructing immigrant arrest](https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/)
 * [2025-04-25, 15:15:29](https://news.ycombinator.com/item?id=43794439) - [New analysis casts doubt on 'biosignatures' found on planet K2-18B](https://www.npr.org/2025/04/25/g-s1-62610/biosignatures-k2-18b-james-webb-exoplanet-doubt)

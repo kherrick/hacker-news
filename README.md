@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-25, 16:38:19](https://news.ycombinator.com/item?id=43795700) - [Exercise before bed is linked with disrupted sleep](https://medicalxpress.com/news/2025-04-bed-linked-disrupted.html)
+* [2025-04-25, 16:26:24](https://news.ycombinator.com/item?id=43795504) - [Write an Interpreter in Ruby](https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby)
 * [2025-04-25, 16:14:08](https://news.ycombinator.com/item?id=43795300) - [Huge reproducibility project fails to validate biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
 * [2025-04-25, 15:25:35](https://news.ycombinator.com/item?id=43794576) - [FBI arrests Wisconsin judge on charges of obstructing immigrant arrest](https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/)
 * [2025-04-25, 15:15:29](https://news.ycombinator.com/item?id=43794439) - [New analysis casts doubt on 'biosignatures' found on planet K2-18B](https://www.npr.org/2025/04/25/g-s1-62610/biosignatures-k2-18b-james-webb-exoplanet-doubt)
@@ -12,7 +14,6 @@
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
 * [2025-04-25, 13:18:17](https://news.ycombinator.com/item?id=43793280) - [New LLM jailbreak bypasses all major FMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/)
 * [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
-* [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 * [2025-04-25, 06:05:58](https://news.ycombinator.com/item?id=43790603) - [\"Poetry City\": Iowa City, Iowa](https://www.publicbooks.org/poetry-city-iowa-city-iowa/)
 * [2025-04-25, 05:34:52](https://news.ycombinator.com/item?id=43790420) - [What If We Could Rebuild Kafka from Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
 * [2025-04-25, 02:30:34](https://news.ycombinator.com/item?id=43789593) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
@@ -20,7 +21,6 @@
 * [2025-04-24, 22:35:01](https://news.ycombinator.com/item?id=43788255) - [A Love Letter to People Who Believe in People](https://www.swiss-miss.com/2025/04/a-love-letter-to-people-who-believe-in-people.html)
 * [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
 * [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
-* [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live – Have a video call with a transformer model](https://news.ycombinator.com/item?id=43785044)
 * [2025-04-24, 17:09:56](https://news.ycombinator.com/item?id=43785039) - [OpenVSX, which VSCode forks rely on for extensions, down for 24 hours](https://status.open-vsx.org/)
 * [2025-04-24, 16:38:54](https://news.ycombinator.com/item?id=43784721) - [One quantum transition makes light at 21 cm](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
 * [2025-04-24, 13:23:26](https://news.ycombinator.com/item?id=43782406) - [Instant SQL for results as you type in DuckDB UI](https://motherduck.com/blog/introducing-instant-sql/)
