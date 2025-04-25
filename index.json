@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43797256"
     ],
     [
-      "Show HN: Bertrand Russell's Principia Mathematica in Lean",
+      "Show HN: Formalizing Principia Mathematica using Lean",
       "https://github.com/ndrwnaguib/principia"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43797212"
     ],
     [
-      "Curry: A Functional Logic Programming Language",
+      "Curry: A functional logic programming language",
       "https://curry-lang.org/"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43796935"
     ],
     [
-      "70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float",
+      "Lossless LLM compression for efficient GPU inference via dynamic-length float",
       "https://arxiv.org/abs/2504.11651"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43795996"
     ],
     [
-      "Foundry (YC F24) Is Hiring – Come Build a World Model for the Web",
+      "Foundry (YC F24) is hiring – Come build a world model for the web",
       "https://news.ycombinator.com/item?id=43795996"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-04-25, 16:01:24",
+      "https://news.ycombinator.com/item?id=43795090"
+    ],
+    [
+      "Differential Coverage for Debugging",
+      "https://research.swtch.com/diffcover"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 15:01:37",
       "https://news.ycombinator.com/item?id=43794284"
     ],
@@ -137,16 +147,6 @@
     [
       "UIT – performant, modular, low-memory file processing at scale, in the Cloud",
       "https://github.com/janwilmake/uit"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 13:59:47",
-      "https://news.ycombinator.com/item?id=43793638"
-    ],
-    [
-      "xPrize in Carbon Removal Goes to Enhanced Rock Weathering",
-      "https://spectrum.ieee.org/xprize-carbon-removal"
     ]
   ],
   [
