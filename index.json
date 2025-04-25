@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-04-25, 00:31:05",
+      "https://news.ycombinator.com/item?id=43789010"
+    ],
+    [
+      "Show HN: Faasta – A self-hosted Serverless platform for WASM-wasi-HTTP in Rust",
+      "https://github.com/fourlexboehm/faasta"
+    ]
+  ],
+  [
+    [
       "2025-04-24, 22:35:01",
       "https://news.ycombinator.com/item?id=43788255"
     ],
@@ -227,16 +237,6 @@
     [
       "One quantum transition makes light at 21 cm",
       "https://bigthink.com/starts-with-a-bang/21cm-magic-length/"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 14:42:03",
-      "https://news.ycombinator.com/item?id=43783416"
-    ],
-    [
-      "Fundamental flaws of SIMD ISAs (2021)",
-      "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/"
     ]
   ],
   [
