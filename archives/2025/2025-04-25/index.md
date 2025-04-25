@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 18:46:22](https://news.ycombinator.com/item?id=43797212) - [Curry: A Functional Logic Programming Language](https://curry-lang.org/)
 * [2025-04-25, 18:20:53](https://news.ycombinator.com/item?id=43796935) - [70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float](https://arxiv.org/abs/2504.11651)
+* [2025-04-25, 17:36:15](https://news.ycombinator.com/item?id=43796419) - [Paper2Code: Automating Code Generation from Scientific Papers](https://arxiv.org/abs/2504.17192)
 * [2025-04-25, 17:00:35](https://news.ycombinator.com/item?id=43796003) - [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
 * [2025-04-25, 17:00:19](https://news.ycombinator.com/item?id=43795996) - [Foundry (YC F24) Is Hiring – Come Build a World Model for the Web](https://news.ycombinator.com/item?id=43795996)
 * [2025-04-25, 16:58:00](https://news.ycombinator.com/item?id=43795961) - [Dolphins Communicate with 'Fountains of Pee'](https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/)
@@ -35,6 +37,7 @@
 * [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 * [2025-04-25, 08:15:18](https://news.ycombinator.com/item?id=43791385) - [Large Language Models, Small Labor Market Effects [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf)
 * [2025-04-25, 06:46:45](https://news.ycombinator.com/item?id=43790855) - [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
+* [2025-04-25, 06:20:12](https://news.ycombinator.com/item?id=43790683) - [Mary MacLane, the Wild Woman from Butte](https://publicdomainreview.org/essay/i-am-making-the-world-my-confessor/)
 * [2025-04-25, 06:05:58](https://news.ycombinator.com/item?id=43790603) - [\"Poetry City\": Iowa City, Iowa](https://www.publicbooks.org/poetry-city-iowa-city-iowa/)
 * [2025-04-25, 05:47:35](https://news.ycombinator.com/item?id=43790491) - [California overtakes Japan to become the world's fourth largest economy](https://edition.cnn.com/2025/04/25/business/california-japan-economy-tariffs-intl-hnk/index.html)
 * [2025-04-25, 05:34:52](https://news.ycombinator.com/item?id=43790420) - [What If We Could Rebuild Kafka from Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
