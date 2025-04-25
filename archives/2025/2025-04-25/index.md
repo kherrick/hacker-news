@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
 * [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia's nonprofit status threatened by DC U.S. Attorney Ed Martin](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
+* [2025-04-25, 22:46:38](https://news.ycombinator.com/item?id=43799196) - [Simons Foundation Launches Collaboration on Ecological Neuroscience](https://www.simonsfoundation.org/2025/04/24/simons-foundation-launches-collaboration-on-ecological-neuroscience)
 * [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools](https://docs.tscircuit.com/tutorials/building-led-matrix)
 * [2025-04-25, 21:33:57](https://news.ycombinator.com/item?id=43798757) - [World Emulation via DNN](https://madebyoll.in/posts/world_emulation_via_dnn/)
 * [2025-04-25, 21:18:11](https://news.ycombinator.com/item?id=43798617) - [Finding Things the Government Might Know About You](https://www.nytimes.com/2025/04/16/insider/trump-musk-data-access.html)
