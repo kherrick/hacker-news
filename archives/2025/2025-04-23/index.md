@@ -7,6 +7,7 @@
 * [2025-04-23, 23:19:32](https://news.ycombinator.com/item?id=43777731) - [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
 * [2025-04-23, 23:14:07](https://news.ycombinator.com/item?id=43777700) - [Don't make it \"like Google\"](https://rakhim.exotext.com/dont-make-it-like-google)
 * [2025-04-23, 23:11:39](https://news.ycombinator.com/item?id=43777677) - [Echoplayer: Echo – Open Hardware Music Player](https://github.com/amachronic/echoplayer)
+* [2025-04-23, 22:47:26](https://news.ycombinator.com/item?id=43777478) - [Henry James Was Not at Home in America](https://newrepublic.com/article/193998/henry-james-not-home-america)
 * [2025-04-23, 21:47:27](https://news.ycombinator.com/item?id=43776967) - [Yagri: You are gonna read it](https://www.scottantipa.com/yagri)
 * [2025-04-23, 21:43:13](https://news.ycombinator.com/item?id=43776922) - [AI Bests Virus Experts, Raising Biohazard Fears](https://time.com/7279010/ai-virus-lab-biohazard-study/)
 * [2025-04-23, 21:25:11](https://news.ycombinator.com/item?id=43776769) - [Even Republicans are falling out of love with Tesla](https://www.economist.com/business/2025/04/23/even-republicans-are-falling-out-of-love-with-tesla)
