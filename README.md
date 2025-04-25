@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-25, 21:01:05](https://news.ycombinator.com/item?id=43798467) - [Gym Class (YC W22) Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
 * [2025-04-25, 20:06:33](https://news.ycombinator.com/item?id=43798009) - [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
 * [2025-04-25, 19:39:15](https://news.ycombinator.com/item?id=43797774) - [Tales of the Yucca Man (2018)](https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/)
 * [2025-04-25, 19:12:50](https://news.ycombinator.com/item?id=43797505) - [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
@@ -9,7 +10,6 @@
 * [2025-04-25, 18:20:53](https://news.ycombinator.com/item?id=43796935) - [Lossless LLM compression for efficient GPU inference via dynamic-length float](https://arxiv.org/abs/2504.11651)
 * [2025-04-25, 17:36:15](https://news.ycombinator.com/item?id=43796419) - [Paper2Code: Automating Code Generation from Scientific Papers](https://arxiv.org/abs/2504.17192)
 * [2025-04-25, 17:00:35](https://news.ycombinator.com/item?id=43796003) - [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
-* [2025-04-25, 17:00:19](https://news.ycombinator.com/item?id=43795996) - [Foundry (YC F24) is hiring – Come build a world model for the web](https://news.ycombinator.com/item?id=43795996)
 * [2025-04-25, 16:14:08](https://news.ycombinator.com/item?id=43795300) - [Huge reproducibility project fails to validate biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
 * [2025-04-25, 16:01:24](https://news.ycombinator.com/item?id=43795090) - [Differential Coverage for Debugging](https://research.swtch.com/diffcover)
 * [2025-04-25, 15:01:37](https://news.ycombinator.com/item?id=43794284) - [A $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
