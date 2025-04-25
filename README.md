@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-25, 14:45:57](https://news.ycombinator.com/item?id=43794145) - [IKEA website shows a verbatim copy of the physical printed receipt in HTML](https://twitter.com/usgraphics/status/1914913818536497187)
 * [2025-04-25, 13:58:55](https://news.ycombinator.com/item?id=43793627) - [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
@@ -26,7 +27,6 @@
 * [2025-04-24, 13:23:26](https://news.ycombinator.com/item?id=43782406) - [Instant SQL for results as you type in DuckDB UI](https://motherduck.com/blog/introducing-instant-sql/)
 * [2025-04-24, 13:11:22](https://news.ycombinator.com/item?id=43782299) - [Ask HN: Share your AI prompt that stumps every model](https://news.ycombinator.com/item?id=43782299)
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
-* [2025-04-24, 10:03:53](https://news.ycombinator.com/item?id=43780918) - [Show HN: I built Lovable for text bots and mini apps](https://plutonic.dev)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-23, 13:43:39](https://news.ycombinator.com/item?id=43772110) - [Show HN: Logiquiz – Daily Self-Referential Puzzles](https://www.logiquiz.com/)
 * [2025-04-22, 21:01:48](https://news.ycombinator.com/item?id=43766263) - [Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)

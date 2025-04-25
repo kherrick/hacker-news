@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 14:45:57](https://news.ycombinator.com/item?id=43794145) - [IKEA website shows a verbatim copy of the physical printed receipt in HTML](https://twitter.com/usgraphics/status/1914913818536497187)
 * [2025-04-25, 13:58:55](https://news.ycombinator.com/item?id=43793627) - [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:31:31](https://news.ycombinator.com/item?id=43793384) - [Don't fear getting fired if you have ADHD](https://claimingattention.substack.com/p/dont-fear-getting-fired-if-you-have)
