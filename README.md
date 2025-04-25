@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-25, 04:25:15](https://news.ycombinator.com/item?id=43790093) - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
+* [2025-04-25, 04:08:31](https://news.ycombinator.com/item?id=43790025) - [Show HN: MoneyOnFIRE](https://www.moneyonfire.com/)
 * [2025-04-25, 03:20:35](https://news.ycombinator.com/item?id=43789807) - [A $20k electric truck with manual windows and no screens? Meet Slate Auto](https://arstechnica.com/cars/2025/04/amazon-backed-startup-wants-to-sell-a-bare-bones-ev-truck-for-20000/)
 * [2025-04-25, 02:39:00](https://news.ycombinator.com/item?id=43789625) - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [2025-04-25, 02:30:34](https://news.ycombinator.com/item?id=43789593) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
 * [2025-04-25, 02:00:09](https://news.ycombinator.com/item?id=43789471) - [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
 * [2025-04-25, 00:28:35](https://news.ycombinator.com/item?id=43788994) - [Swift Container Plugin](https://github.com/apple/swift-container-plugin)
-* [2025-04-25, 00:01:49](https://news.ycombinator.com/item?id=43788832) - [Street address errors in Google Maps](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/)
 * [2025-04-24, 22:18:49](https://news.ycombinator.com/item?id=43788125) - [Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
 * [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
 * [2025-04-24, 21:31:09](https://news.ycombinator.com/item?id=43787730) - [National Airspace System Status](https://nasstatus.faa.gov/)
