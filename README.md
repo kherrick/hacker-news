@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-25, 05:47:35](https://news.ycombinator.com/item?id=43790491) - [California overtakes Japan to become the world's fourth largest economy](https://edition.cnn.com/2025/04/25/business/california-japan-economy-tariffs-intl-hnk/index.html)
+* [2025-04-25, 05:04:50](https://news.ycombinator.com/item?id=43790270) - [Commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 * [2025-04-25, 04:25:15](https://news.ycombinator.com/item?id=43790093) - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
 * [2025-04-25, 04:08:31](https://news.ycombinator.com/item?id=43790025) - [Show HN: MoneyOnFIRE](https://www.moneyonfire.com/)
 * [2025-04-25, 02:39:00](https://news.ycombinator.com/item?id=43789625) - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
@@ -14,7 +15,6 @@
 * [2025-04-24, 19:28:29](https://news.ycombinator.com/item?id=43786514) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
 * [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 * [2025-04-24, 17:47:09](https://news.ycombinator.com/item?id=43785464) - [Show HN: I reverse engineered top websites to build an animated UI library](https://reverseui.com)
-* [2025-04-24, 17:37:52](https://news.ycombinator.com/item?id=43785350) - [Show HN: Infat – Declaritive application assocation manager for macOS](https://github.com/philocalyst/infat)
 * [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live – Have a video call with a transformer model](https://news.ycombinator.com/item?id=43785044)
 * [2025-04-24, 17:09:56](https://news.ycombinator.com/item?id=43785039) - [OpenVSX, which VSCode forks rely on for extensions, down for 24 hours](https://status.open-vsx.org/)
 * [2025-04-24, 17:00:38](https://news.ycombinator.com/item?id=43784946) - [Bild AI (YC W25) is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
@@ -27,7 +27,7 @@
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 10:03:53](https://news.ycombinator.com/item?id=43780918) - [Show HN: I built Lovable for text bots and mini apps](https://plutonic.dev)
 * [2025-04-24, 02:26:10](https://news.ycombinator.com/item?id=43778729) - [A Roman Gladiator and a Lion Met in Combat. Only One Walked Away](https://www.nytimes.com/2025/04/23/science/lion-gladiator-romans-bones.html)
-* [2025-04-23, 22:47:26](https://news.ycombinator.com/item?id=43777478) - [Henry James Was Not at Home in America](https://newrepublic.com/article/193998/henry-james-not-home-america)
+* [2025-04-23, 22:47:26](https://news.ycombinator.com/item?id=43777478) - [Henry James was not at home in America](https://newrepublic.com/article/193998/henry-james-not-home-america)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-22, 06:05:36](https://news.ycombinator.com/item?id=43759466) - [There's a Seeker Born Every Minute](https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/)
 
