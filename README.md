@@ -16,6 +16,7 @@
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
 * [2025-04-25, 13:18:17](https://news.ycombinator.com/item?id=43793280) - [The Policy Puppetry Prompt: Novel bypass for major LLMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/)
+* [2025-04-25, 08:15:18](https://news.ycombinator.com/item?id=43791385) - [Large Language Models, Small Labor Market Effects [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf)
 * [2025-04-25, 06:05:58](https://news.ycombinator.com/item?id=43790603) - [\"Poetry City\": Iowa City, Iowa](https://www.publicbooks.org/poetry-city-iowa-city-iowa/)
 * [2025-04-25, 05:34:52](https://news.ycombinator.com/item?id=43790420) - [What If We Could Rebuild Kafka from Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
 * [2025-04-25, 02:30:34](https://news.ycombinator.com/item?id=43789593) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
@@ -28,7 +29,6 @@
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 05:05:45](https://news.ycombinator.com/item?id=43779398) - [The VTech Socratic Method](https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What they are and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
-* [2025-04-23, 13:43:39](https://news.ycombinator.com/item?id=43772110) - [Show HN: Logiquiz – Daily Self-Referential Puzzles](https://www.logiquiz.com/)
 * [2025-04-22, 21:01:48](https://news.ycombinator.com/item?id=43766263) - [Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
 
 ## [Archives](archives/index.md)

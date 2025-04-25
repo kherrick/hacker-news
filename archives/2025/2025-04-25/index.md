@@ -31,6 +31,7 @@
 * [2025-04-25, 09:57:46](https://news.ycombinator.com/item?id=43791941) - [Easily setup new MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)
 * [2025-04-25, 09:41:00](https://news.ycombinator.com/item?id=43791843) - [Privacy folks – what's your take on using LLMs at work?](https://news.ycombinator.com/item?id=43791843)
 * [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
+* [2025-04-25, 08:15:18](https://news.ycombinator.com/item?id=43791385) - [Large Language Models, Small Labor Market Effects [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf)
 * [2025-04-25, 06:46:45](https://news.ycombinator.com/item?id=43790855) - [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
 * [2025-04-25, 06:05:58](https://news.ycombinator.com/item?id=43790603) - [\"Poetry City\": Iowa City, Iowa](https://www.publicbooks.org/poetry-city-iowa-city-iowa/)
 * [2025-04-25, 05:47:35](https://news.ycombinator.com/item?id=43790491) - [California overtakes Japan to become the world's fourth largest economy](https://edition.cnn.com/2025/04/25/business/california-japan-economy-tariffs-intl-hnk/index.html)
