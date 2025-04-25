@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 05:47:35](https://news.ycombinator.com/item?id=43790491) - [California overtakes Japan to become the world's fourth largest economy](https://edition.cnn.com/2025/04/25/business/california-japan-economy-tariffs-intl-hnk/index.html)
 * [2025-04-25, 04:25:15](https://news.ycombinator.com/item?id=43790093) - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
 * [2025-04-25, 04:18:54](https://news.ycombinator.com/item?id=43790067) - [RFK Jr. Set to Launch Disease Registry Tracking Autistic People](https://newrepublic.com/post/194245/rfk-jr-disease-registry-track-autistic-people)
 * [2025-04-25, 04:08:31](https://news.ycombinator.com/item?id=43790025) - [Show HN: MoneyOnFIRE](https://www.moneyonfire.com/)

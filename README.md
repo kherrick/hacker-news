@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-25, 05:47:35](https://news.ycombinator.com/item?id=43790491) - [California overtakes Japan to become the world's fourth largest economy](https://edition.cnn.com/2025/04/25/business/california-japan-economy-tariffs-intl-hnk/index.html)
 * [2025-04-25, 04:25:15](https://news.ycombinator.com/item?id=43790093) - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
 * [2025-04-25, 04:08:31](https://news.ycombinator.com/item?id=43790025) - [Show HN: MoneyOnFIRE](https://www.moneyonfire.com/)
-* [2025-04-25, 03:20:35](https://news.ycombinator.com/item?id=43789807) - [A $20k electric truck with manual windows and no screens? Meet Slate Auto](https://arstechnica.com/cars/2025/04/amazon-backed-startup-wants-to-sell-a-bare-bones-ev-truck-for-20000/)
 * [2025-04-25, 02:39:00](https://news.ycombinator.com/item?id=43789625) - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [2025-04-25, 02:30:34](https://news.ycombinator.com/item?id=43789593) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
 * [2025-04-25, 02:00:09](https://news.ycombinator.com/item?id=43789471) - [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
