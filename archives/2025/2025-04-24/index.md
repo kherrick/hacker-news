@@ -50,6 +50,7 @@
 * [2025-04-24, 10:30:01](https://news.ycombinator.com/item?id=43781039) - [Norway's $1.7T Wealth Fund Reports $40B Tech-Driven Loss](https://www.bloomberg.com/news/articles/2025-04-24/norway-1-7-trillion-wealth-fund-reports-tech-stock-driven-loss)
 * [2025-04-24, 10:28:16](https://news.ycombinator.com/item?id=43781031) - [Give People Something to Look At](https://staysaasy.com/communication/2021/10/30/look.html)
 * [2025-04-24, 10:15:01](https://news.ycombinator.com/item?id=43780977) - [What I wish I knew about privacy sooner](https://nordictimes.com/tech/what-i-wish-i-knew-about-privacy-sooner/)
+* [2025-04-24, 10:03:53](https://news.ycombinator.com/item?id=43780918) - [Show HN: I built Lovable for text bots and mini apps](https://plutonic.dev)
 * [2025-04-24, 09:53:22](https://news.ycombinator.com/item?id=43780876) - [Cars and Key Fobs: Attacks on Car Remotes](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
 * [2025-04-24, 09:43:48](https://news.ycombinator.com/item?id=43780815) - [On loyalty to Your Employer](https://www.talentstuff.com/blog/on-loyalty-to-your-employer)
 * [2025-04-24, 09:37:57](https://news.ycombinator.com/item?id=43780785) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
