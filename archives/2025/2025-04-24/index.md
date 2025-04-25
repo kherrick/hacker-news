@@ -64,6 +64,7 @@
 * [2025-04-24, 06:02:31](https://news.ycombinator.com/item?id=43779723) - [Efficient Code Search with Nvidia DGX](https://developer.nvidia.com/blog/spotlight-qodo-innovates-efficient-code-search-with-nvidia-dgx/)
 * [2025-04-24, 05:18:11](https://news.ycombinator.com/item?id=43779457) - [Ubuntu 25.10 Replaces GNU Coreutils with Rust Uutils](https://www.altusintel.com/public-yych08/)
 * [2025-04-24, 04:12:13](https://news.ycombinator.com/item?id=43779187) - [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
+* [2025-04-24, 02:26:10](https://news.ycombinator.com/item?id=43778729) - [A Roman Gladiator and a Lion Met in Combat. Only One Walked Away](https://www.nytimes.com/2025/04/23/science/lion-gladiator-romans-bones.html)
 * [2025-04-24, 01:24:22](https://news.ycombinator.com/item?id=43778436) - [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)
 * [2025-04-24, 00:23:38](https://news.ycombinator.com/item?id=43778120) - [Clinical trial: novel nutritional formula treats gut microbial overgrowth](https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html)
 * [2025-04-24, 00:20:40](https://news.ycombinator.com/item?id=43778105) - [Shortest walking tour to 81,998 bars in Korea – 178 days on foot (TSP solved)](https://www.math.uwaterloo.ca/tsp/korea/index.html)

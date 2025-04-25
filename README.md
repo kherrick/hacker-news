@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-24, 22:18:49](https://news.ycombinator.com/item?id=43788125) - [Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
+* [2025-04-25, 00:01:49](https://news.ycombinator.com/item?id=43788832) - [Google Maps Doesn't Know How Street Addresses Work](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/)
 * [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
 * [2025-04-24, 21:31:09](https://news.ycombinator.com/item?id=43787730) - [National Airspace System Status](https://nasstatus.faa.gov/)
-* [2025-04-24, 21:25:37](https://news.ycombinator.com/item?id=43787682) - [Why I Blog and How I Automate it (2023)](https://www.ryanwwest.com/why-blog/)
 * [2025-04-24, 21:24:58](https://news.ycombinator.com/item?id=43787676) - [You Can Be a Great Designer and Be Completely Unknown](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown)
 * [2025-04-24, 21:04:56](https://news.ycombinator.com/item?id=43787493) - [Agent Mesh for Enterprise Agents](https://www.solo.io/blog/agent-mesh-for-enterprise-agents)
 * [2025-04-24, 20:29:21](https://news.ycombinator.com/item?id=43787133) - [Show HN: I Added Translation to My RSS Reader Project](https://rahuldshetty.github.io/reader-project/#/translation)
@@ -17,7 +16,6 @@
 * [2025-04-24, 17:00:38](https://news.ycombinator.com/item?id=43784946) - [Bild AI (YC W25) is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
 * [2025-04-24, 16:38:54](https://news.ycombinator.com/item?id=43784721) - [One quantum transition makes light at 21 cm](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
 * [2025-04-24, 16:33:54](https://news.ycombinator.com/item?id=43784668) - [Show HN: Zev – Remember (or discover) terminal commands](https://github.com/dtnewman/zev)
-* [2025-04-24, 15:53:24](https://news.ycombinator.com/item?id=43784205) - [Three things everyone should know about Vision Transformers](https://arxiv.org/abs/2203.09795)
 * [2025-04-24, 15:53:15](https://news.ycombinator.com/item?id=43784200) - [A Principled Approach to Querying Data – A Type-Safe Search DSL](https://www.claudiu-ivan.com/writing/search-dsl)
 * [2025-04-24, 15:38:44](https://news.ycombinator.com/item?id=43784056) - [Asymmetric Content Moderation in Search Markets: The Case of Adult Websites](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106235)
 * [2025-04-24, 14:42:03](https://news.ycombinator.com/item?id=43783416) - [Three Fundamental Flaws of SIMD ISAs (2023)](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
@@ -27,7 +25,9 @@
 * [2025-04-24, 09:53:22](https://news.ycombinator.com/item?id=43780876) - [Assignment 5: Cars and Key Fobs](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
 * [2025-04-24, 09:37:57](https://news.ycombinator.com/item?id=43780785) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 * [2025-04-24, 08:19:23](https://news.ycombinator.com/item?id=43780377) - [Mark Zuckerberg says social media is over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
+* [2025-04-24, 02:26:10](https://news.ycombinator.com/item?id=43778729) - [A Roman Gladiator and a Lion Met in Combat. Only One Walked Away](https://www.nytimes.com/2025/04/23/science/lion-gladiator-romans-bones.html)
 * [2025-04-23, 18:45:25](https://news.ycombinator.com/item?id=43775366) - ['Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)
+* [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas – what are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-22, 06:06:35](https://news.ycombinator.com/item?id=43759472) - [Sea Monsters Unmasked and Sea Fables Explained by Henry Lee (1883)](https://publicdomainreview.org/collection/sea-monsters-sea-fables/)
 * [2025-04-21, 02:24:20](https://news.ycombinator.com/item?id=43748025) - [Mistaking Mary Magdalene](https://www.newyorker.com/culture/the-weekend-essay/mistaking-mary-magdalene)
 
