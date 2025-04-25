@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools](https://docs.tscircuit.com/tutorials/building-led-matrix)
 * [2025-04-25, 21:18:11](https://news.ycombinator.com/item?id=43798617) - [Finding Things the Government Might Know About You](https://www.nytimes.com/2025/04/16/insider/trump-musk-data-access.html)
 * [2025-04-25, 21:01:05](https://news.ycombinator.com/item?id=43798467) - [Gym Class (YC W22) Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
 * [2025-04-25, 20:06:33](https://news.ycombinator.com/item?id=43798009) - [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
@@ -14,6 +15,7 @@
 * [2025-04-25, 18:46:22](https://news.ycombinator.com/item?id=43797212) - [Curry: A Functional Logic Programming Language](https://curry-lang.org/)
 * [2025-04-25, 18:32:23](https://news.ycombinator.com/item?id=43797058) - [Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ](https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g)
 * [2025-04-25, 18:20:53](https://news.ycombinator.com/item?id=43796935) - [70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float](https://arxiv.org/abs/2504.11651)
+* [2025-04-25, 18:17:45](https://news.ycombinator.com/item?id=43796898) - [Show HN: A modern spreadsheet with Python integration](https://citadel5.com/gs-calc.htm)
 * [2025-04-25, 17:36:15](https://news.ycombinator.com/item?id=43796419) - [Paper2Code: Automating Code Generation from Scientific Papers](https://arxiv.org/abs/2504.17192)
 * [2025-04-25, 17:00:35](https://news.ycombinator.com/item?id=43796003) - [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
 * [2025-04-25, 17:00:19](https://news.ycombinator.com/item?id=43795996) - [Foundry (YC F24) Is Hiring – Come Build a World Model for the Web](https://news.ycombinator.com/item?id=43795996)

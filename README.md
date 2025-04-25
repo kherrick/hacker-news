@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools](https://docs.tscircuit.com/tutorials/building-led-matrix)
 * [2025-04-25, 21:18:11](https://news.ycombinator.com/item?id=43798617) - [Finding Things the Government Might Know About You](https://www.nytimes.com/2025/04/16/insider/trump-musk-data-access.html)
 * [2025-04-25, 21:01:05](https://news.ycombinator.com/item?id=43798467) - [Gym Class (YC W22) Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
 * [2025-04-25, 20:06:33](https://news.ycombinator.com/item?id=43798009) - [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
@@ -8,6 +9,7 @@
 * [2025-04-25, 18:49:30](https://news.ycombinator.com/item?id=43797256) - [Show HN: Formalizing Principia Mathematica using Lean](https://github.com/ndrwnaguib/principia)
 * [2025-04-25, 18:46:22](https://news.ycombinator.com/item?id=43797212) - [Curry: A functional logic programming language](https://curry-lang.org/)
 * [2025-04-25, 18:20:53](https://news.ycombinator.com/item?id=43796935) - [Lossless LLM compression for efficient GPU inference via dynamic-length float](https://arxiv.org/abs/2504.11651)
+* [2025-04-25, 18:17:45](https://news.ycombinator.com/item?id=43796898) - [Show HN: A modern spreadsheet with Python integration](https://citadel5.com/gs-calc.htm)
 * [2025-04-25, 17:36:15](https://news.ycombinator.com/item?id=43796419) - [Paper2Code: Automating Code Generation from Scientific Papers](https://arxiv.org/abs/2504.17192)
 * [2025-04-25, 17:00:35](https://news.ycombinator.com/item?id=43796003) - [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
 * [2025-04-25, 16:01:24](https://news.ycombinator.com/item?id=43795090) - [Differential Coverage for Debugging](https://research.swtch.com/diffcover)
@@ -25,8 +27,6 @@
 * [2025-04-25, 02:30:34](https://news.ycombinator.com/item?id=43789593) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
 * [2025-04-24, 22:35:01](https://news.ycombinator.com/item?id=43788255) - [A Love Letter to People Who Believe in People](https://www.swiss-miss.com/2025/04/a-love-letter-to-people-who-believe-in-people.html)
 * [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
-* [2025-04-24, 14:36:50](https://news.ycombinator.com/item?id=43783353) - [How to Vibe Code a Logomaker in 10 Days](https://medium.com/@johnnyfived/how-to-vibe-code-a-logomaker-in-10-days-llms-can-they-build-it-b744209e350b)
-* [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 05:05:45](https://news.ycombinator.com/item?id=43779398) - [The VTech Socratic Method](https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html)
 * [2025-04-23, 23:11:39](https://news.ycombinator.com/item?id=43777677) - [Echo – Open Hardware Music Player](https://github.com/amachronic/echoplayer)
 * [2025-04-22, 21:01:48](https://news.ycombinator.com/item?id=43766263) - [Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
