@@ -2,8 +2,8 @@
 
 * [2025-04-25, 13:58:55](https://news.ycombinator.com/item?id=43793627) - [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
-* [2025-04-25, 13:31:31](https://news.ycombinator.com/item?id=43793384) - [Don't fear getting fired if you have ADHD](https://claimingattention.substack.com/p/dont-fear-getting-fired-if-you-have)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
+* [2025-04-25, 12:39:32](https://news.ycombinator.com/item?id=43792941) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
 * [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 * [2025-04-25, 06:46:45](https://news.ycombinator.com/item?id=43790855) - [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
@@ -22,12 +22,12 @@
 * [2025-04-24, 17:09:56](https://news.ycombinator.com/item?id=43785039) - [OpenVSX, which VSCode forks rely on for extensions, down for 24 hours](https://status.open-vsx.org/)
 * [2025-04-24, 16:38:54](https://news.ycombinator.com/item?id=43784721) - [One quantum transition makes light at 21 cm](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
 * [2025-04-24, 15:53:15](https://news.ycombinator.com/item?id=43784200) - [A Principled Approach to Querying Data – A Type-Safe Search DSL](https://www.claudiu-ivan.com/writing/search-dsl)
-* [2025-04-24, 15:38:44](https://news.ycombinator.com/item?id=43784056) - [Asymmetric Content Moderation in Search Markets: The Case of Adult Websites](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106235)
 * [2025-04-24, 14:42:03](https://news.ycombinator.com/item?id=43783416) - [Fundamental flaws of SIMD ISAs (2021)](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
 * [2025-04-24, 13:23:26](https://news.ycombinator.com/item?id=43782406) - [Instant SQL for results as you type in DuckDB UI](https://motherduck.com/blog/introducing-instant-sql/)
 * [2025-04-24, 13:11:22](https://news.ycombinator.com/item?id=43782299) - [Ask HN: Share your AI prompt that stumps every model](https://news.ycombinator.com/item?id=43782299)
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 10:03:53](https://news.ycombinator.com/item?id=43780918) - [Show HN: I built Lovable for text bots and mini apps](https://plutonic.dev)
+* [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [Careless People](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-23, 13:43:39](https://news.ycombinator.com/item?id=43772110) - [Show HN: Logiquiz – Daily Self-Referential Puzzles](https://www.logiquiz.com/)
 

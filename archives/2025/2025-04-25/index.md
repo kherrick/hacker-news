@@ -8,6 +8,7 @@
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:31:31](https://news.ycombinator.com/item?id=43793384) - [Don't fear getting fired if you have ADHD](https://claimingattention.substack.com/p/dont-fear-getting-fired-if-you-have)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
+* [2025-04-25, 12:39:32](https://news.ycombinator.com/item?id=43792941) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [2025-04-25, 11:10:23](https://news.ycombinator.com/item?id=43792348) - [New C++ features in GCC 15](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15)
 * [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
 * [2025-04-25, 10:40:15](https://news.ycombinator.com/item?id=43792157) - [Hegseth had an unsecured internet line set up in his office to connect to Signal](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d)
