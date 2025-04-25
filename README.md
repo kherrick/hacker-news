@@ -2,11 +2,10 @@
 
 * [2025-04-25, 05:47:35](https://news.ycombinator.com/item?id=43790491) - [California overtakes Japan to become the world's fourth largest economy](https://edition.cnn.com/2025/04/25/business/california-japan-economy-tariffs-intl-hnk/index.html)
 * [2025-04-25, 05:34:52](https://news.ycombinator.com/item?id=43790420) - [What If We Could Rebuild Kafka from Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
-* [2025-04-25, 05:04:50](https://news.ycombinator.com/item?id=43790270) - [Commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 * [2025-04-25, 04:25:15](https://news.ycombinator.com/item?id=43790093) - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
 * [2025-04-25, 02:39:00](https://news.ycombinator.com/item?id=43789625) - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [2025-04-25, 02:30:34](https://news.ycombinator.com/item?id=43789593) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
-* [2025-04-25, 02:00:09](https://news.ycombinator.com/item?id=43789471) - [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
+* [2025-04-25, 00:31:05](https://news.ycombinator.com/item?id=43789010) - [Show HN: Faasta – A self-hosted Serverless platform for WASM-wasi-HTTP in Rust](https://github.com/fourlexboehm/faasta)
 * [2025-04-25, 00:28:35](https://news.ycombinator.com/item?id=43788994) - [Swift Container Plugin](https://github.com/apple/swift-container-plugin)
 * [2025-04-24, 22:18:49](https://news.ycombinator.com/item?id=43788125) - [Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
 * [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
@@ -15,6 +14,7 @@
 * [2025-04-24, 19:28:29](https://news.ycombinator.com/item?id=43786514) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
 * [2025-04-24, 19:27:51](https://news.ycombinator.com/item?id=43786506) - [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
 * [2025-04-24, 17:47:09](https://news.ycombinator.com/item?id=43785464) - [Show HN: I reverse engineered top websites to build an animated UI library](https://reverseui.com)
+* [2025-04-24, 17:37:52](https://news.ycombinator.com/item?id=43785350) - [Show HN: Infat – Declaritive application assocation manager for macOS](https://github.com/philocalyst/infat)
 * [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live – Have a video call with a transformer model](https://news.ycombinator.com/item?id=43785044)
 * [2025-04-24, 17:09:56](https://news.ycombinator.com/item?id=43785039) - [OpenVSX, which VSCode forks rely on for extensions, down for 24 hours](https://status.open-vsx.org/)
 * [2025-04-24, 17:00:38](https://news.ycombinator.com/item?id=43784946) - [Bild AI (YC W25) is hiring a founding engineer in SF](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer)
@@ -29,7 +29,7 @@
 * [2025-04-24, 02:26:10](https://news.ycombinator.com/item?id=43778729) - [A Roman Gladiator and a Lion Met in Combat. Only One Walked Away](https://www.nytimes.com/2025/04/23/science/lion-gladiator-romans-bones.html)
 * [2025-04-23, 22:47:26](https://news.ycombinator.com/item?id=43777478) - [Henry James was not at home in America](https://newrepublic.com/article/193998/henry-james-not-home-america)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
-* [2025-04-22, 06:05:36](https://news.ycombinator.com/item?id=43759466) - [There's a Seeker Born Every Minute](https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/)
+* [2025-04-22, 06:05:36](https://news.ycombinator.com/item?id=43759466) - [There's a Seeker Born Every Minute (2024)](https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/)
 
 ## [Archives](archives/index.md)
 
