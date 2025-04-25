@@ -7,6 +7,7 @@
 * [2025-04-25, 06:46:45](https://news.ycombinator.com/item?id=43790855) - [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
 * [2025-04-25, 05:47:35](https://news.ycombinator.com/item?id=43790491) - [California overtakes Japan to become the world's fourth largest economy](https://edition.cnn.com/2025/04/25/business/california-japan-economy-tariffs-intl-hnk/index.html)
 * [2025-04-25, 05:34:52](https://news.ycombinator.com/item?id=43790420) - [What If We Could Rebuild Kafka from Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
+* [2025-04-25, 05:32:10](https://news.ycombinator.com/item?id=43790409) - [Prepper Disk](https://www.prepperdisk.com/)
 * [2025-04-25, 05:04:50](https://news.ycombinator.com/item?id=43790270) - [Commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 * [2025-04-25, 04:25:15](https://news.ycombinator.com/item?id=43790093) - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
 * [2025-04-25, 04:18:54](https://news.ycombinator.com/item?id=43790067) - [RFK Jr. Set to Launch Disease Registry Tracking Autistic People](https://newrepublic.com/post/194245/rfk-jr-disease-registry-track-autistic-people)
