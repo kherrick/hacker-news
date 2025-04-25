@@ -3,7 +3,6 @@
 * [2025-04-25, 11:10:23](https://news.ycombinator.com/item?id=43792348) - [New C++ features in GCC 15](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15)
 * [2025-04-25, 10:40:15](https://news.ycombinator.com/item?id=43792157) - [Hegseth had an unsecured internet line set up in his office to connect to Signal](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d)
 * [2025-04-25, 09:57:46](https://news.ycombinator.com/item?id=43791941) - [Easily setup new MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)
-* [2025-04-25, 09:41:00](https://news.ycombinator.com/item?id=43791843) - [Privacy folks – what's your take on using LLMs at work?](https://news.ycombinator.com/item?id=43791843)
 * [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 * [2025-04-25, 06:46:45](https://news.ycombinator.com/item?id=43790855) - [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
 * [2025-04-25, 05:32:10](https://news.ycombinator.com/item?id=43790409) - [Prepper Disk](https://www.prepperdisk.com/)
@@ -29,6 +28,7 @@
 * [2025-04-24, 13:11:22](https://news.ycombinator.com/item?id=43782299) - [Ask HN: Share your AI prompt that stumps every model](https://news.ycombinator.com/item?id=43782299)
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 10:03:53](https://news.ycombinator.com/item?id=43780918) - [Show HN: I built Lovable for text bots and mini apps](https://plutonic.dev)
+* [2025-04-23, 18:44:47](https://news.ycombinator.com/item?id=43775358) - [The hidden cost of AI coding](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 
 ## [Archives](archives/index.md)
