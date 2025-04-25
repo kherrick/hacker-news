@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-25, 15:25:35",
+      "https://news.ycombinator.com/item?id=43794576"
+    ],
+    [
+      "FBI arrests Wisconsin judge on charges of obstructing immigrant arrest",
+      "https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 15:01:37",
       "https://news.ycombinator.com/item?id=43794284"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2025-04-25, 14:53:52",
+      "https://news.ycombinator.com/item?id=43794217"
+    ],
+    [
+      "I made a college punching bag for rejected highschoolers",
+      "https://ex.plor.ing/blog/post/college-punch"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 14:39:59",
       "https://news.ycombinator.com/item?id=43794081"
     ],
     [
       "Century-old genetics mystery of Mendel's peas solved",
       "https://www.nature.com/articles/d41586-025-01269-8"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 13:58:55",
-      "https://news.ycombinator.com/item?id=43793627"
-    ],
-    [
-      "Show HN: BugStalker - a modern Rust debugger",
-      "https://github.com/godzie44/BugStalker"
     ]
   ],
   [
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2025-04-25, 12:39:32",
-      "https://news.ycombinator.com/item?id=43792941"
+      "2025-04-25, 13:18:17",
+      "https://news.ycombinator.com/item?id=43793280"
     ],
     [
-      "Writing a Linux Debugger (2017)",
-      "https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/"
+      "New LLM jailbreak bypasses all major FMs",
+      "https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-04-25, 06:46:45",
-      "https://news.ycombinator.com/item?id=43790855"
-    ],
-    [
-      "Some __nonstring__ Turbulence",
-      "https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/"
-    ]
-  ],
-  [
-    [
       "2025-04-25, 05:34:52",
       "https://news.ycombinator.com/item?id=43790420"
     ],
@@ -101,32 +101,12 @@
   ],
   [
     [
-      "2025-04-25, 04:25:15",
-      "https://news.ycombinator.com/item?id=43790093"
-    ],
-    [
-      "DeepMind releases Lyria 2 music generation model",
-      "https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/"
-    ]
-  ],
-  [
-    [
       "2025-04-25, 02:30:34",
       "https://news.ycombinator.com/item?id=43789593"
     ],
     [
       "Notation as a Tool of Thought (1979)",
       "https://www.jsoftware.com/papers/tot.htm"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 02:06:02",
-      "https://news.ycombinator.com/item?id=43789501"
-    ],
-    [
-      "Petition to the Open Source Initiative: Publish the Full 2025 Election Results",
-      "https://codeberg.org/OSI-Concerns/election-results-2025#readme"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-04-24, 15:53:15",
+      "https://news.ycombinator.com/item?id=43784200"
+    ],
+    [
+      "A Principled Approach to Querying Data – A Type-Safe Search DSL",
+      "https://www.claudiu-ivan.com/writing/search-dsl"
+    ]
+  ],
+  [
+    [
       "2025-04-24, 14:42:03",
       "https://news.ycombinator.com/item?id=43783416"
     ],
@@ -267,6 +257,16 @@
     [
       "I wrote to the address in the GPLv2 license notice (2022)",
       "https://code.mendhak.com/gpl-v2-address-letter/"
+    ]
+  ],
+  [
+    [
+      "2025-04-24, 10:03:53",
+      "https://news.ycombinator.com/item?id=43780918"
+    ],
+    [
+      "Show HN: I built Lovable for text bots and mini apps",
+      "https://plutonic.dev"
     ]
   ],
   [
