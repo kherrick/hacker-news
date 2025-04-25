@@ -26,7 +26,7 @@
 * [2025-04-24, 13:11:22](https://news.ycombinator.com/item?id=43782299) - [Ask HN: Share your AI prompt that stumps every model](https://news.ycombinator.com/item?id=43782299)
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 10:03:53](https://news.ycombinator.com/item?id=43780918) - [Show HN: I built Lovable for text bots and mini apps](https://plutonic.dev)
-* [2025-04-24, 02:26:10](https://news.ycombinator.com/item?id=43778729) - [A Roman Gladiator and a Lion Met in Combat. Only One Walked Away](https://www.nytimes.com/2025/04/23/science/lion-gladiator-romans-bones.html)
+* [2025-04-24, 09:53:22](https://news.ycombinator.com/item?id=43780876) - [Assignment 5: Cars and Key Fobs (2021)](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
 * [2025-04-23, 22:47:26](https://news.ycombinator.com/item?id=43777478) - [Henry James was not at home in America](https://newrepublic.com/article/193998/henry-james-not-home-america)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-22, 06:05:36](https://news.ycombinator.com/item?id=43759466) - [There's a Seeker Born Every Minute (2024)](https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/)
