@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-25, 02:39:00](https://news.ycombinator.com/item?id=43789625) - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [2025-04-25, 02:30:34](https://news.ycombinator.com/item?id=43789593) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
 * [2025-04-25, 02:00:09](https://news.ycombinator.com/item?id=43789471) - [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
 * [2025-04-25, 00:28:35](https://news.ycombinator.com/item?id=43788994) - [Swift Container Plugin](https://github.com/apple/swift-container-plugin)
@@ -25,7 +26,6 @@
 * [2025-04-24, 10:03:53](https://news.ycombinator.com/item?id=43780918) - [Show HN: I built Lovable for text bots and mini apps](https://plutonic.dev)
 * [2025-04-24, 08:19:23](https://news.ycombinator.com/item?id=43780377) - [Mark Zuckerberg says social media is over](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over)
 * [2025-04-24, 02:26:10](https://news.ycombinator.com/item?id=43778729) - [A Roman Gladiator and a Lion Met in Combat. Only One Walked Away](https://www.nytimes.com/2025/04/23/science/lion-gladiator-romans-bones.html)
-* [2025-04-23, 18:45:25](https://news.ycombinator.com/item?id=43775366) - ['Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman](https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-22, 06:05:36](https://news.ycombinator.com/item?id=43759466) - [There's a Seeker Born Every Minute](https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/)
 * [2025-04-22, 03:57:47](https://news.ycombinator.com/item?id=43758965) - ['World War Zoos' Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
