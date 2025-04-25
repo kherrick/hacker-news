@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-04-25, 13:58:55",
-      "https://news.ycombinator.com/item?id=43793627"
-    ],
-    [
-      "Show HN: BugStalker - a modern Rust debugger",
-      "https://github.com/godzie44/BugStalker"
-    ]
-  ],
-  [
-    [
       "2025-04-25, 13:48:30",
       "https://news.ycombinator.com/item?id=43793526"
     ],
@@ -191,11 +181,21 @@
   ],
   [
     [
+      "2025-04-25, 10:53:59",
+      "https://news.ycombinator.com/item?id=43792248"
+    ],
+    [
+      "GCC 15.1",
+      "https://gcc.gnu.org/gcc-15/"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 08:15:18",
       "https://news.ycombinator.com/item?id=43791385"
     ],
     [
-      "Large Language Models, Small Labor Market Effects [pdf]",
+      "Large language models, small labor market effects [pdf]",
       "https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-04-23, 16:59:36",
-      "https://news.ycombinator.com/item?id=43774169"
+      "2025-04-22, 21:01:48",
+      "https://news.ycombinator.com/item?id=43766263"
     ],
     [
-      "Tarpit ideas: What they are and how to avoid them (2023) [video]",
-      "https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them"
+      "Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]",
+      "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf"
     ]
   ]
 ]
