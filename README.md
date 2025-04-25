@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-25, 14:45:57](https://news.ycombinator.com/item?id=43794145) - [IKEA website shows a verbatim copy of the physical printed receipt in HTML](https://twitter.com/usgraphics/status/1914913818536497187)
+* [2025-04-25, 15:01:37](https://news.ycombinator.com/item?id=43794284) - [The $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
+* [2025-04-25, 14:39:59](https://news.ycombinator.com/item?id=43794081) - [Century-old genetics mystery of Mendel's peas solved](https://www.nature.com/articles/d41586-025-01269-8)
 * [2025-04-25, 13:58:55](https://news.ycombinator.com/item?id=43793627) - [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
@@ -22,7 +23,6 @@
 * [2025-04-24, 17:10:14](https://news.ycombinator.com/item?id=43785044) - [Show HN: Lemon Slice Live – Have a video call with a transformer model](https://news.ycombinator.com/item?id=43785044)
 * [2025-04-24, 17:09:56](https://news.ycombinator.com/item?id=43785039) - [OpenVSX, which VSCode forks rely on for extensions, down for 24 hours](https://status.open-vsx.org/)
 * [2025-04-24, 16:38:54](https://news.ycombinator.com/item?id=43784721) - [One quantum transition makes light at 21 cm](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
-* [2025-04-24, 15:53:15](https://news.ycombinator.com/item?id=43784200) - [A Principled Approach to Querying Data – A Type-Safe Search DSL](https://www.claudiu-ivan.com/writing/search-dsl)
 * [2025-04-24, 14:42:03](https://news.ycombinator.com/item?id=43783416) - [Fundamental flaws of SIMD ISAs (2021)](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/)
 * [2025-04-24, 13:23:26](https://news.ycombinator.com/item?id=43782406) - [Instant SQL for results as you type in DuckDB UI](https://motherduck.com/blog/introducing-instant-sql/)
 * [2025-04-24, 13:11:22](https://news.ycombinator.com/item?id=43782299) - [Ask HN: Share your AI prompt that stumps every model](https://news.ycombinator.com/item?id=43782299)
