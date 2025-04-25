@@ -6,6 +6,8 @@
 
 * [2025-04-25, 17:00:35](https://news.ycombinator.com/item?id=43796003) - [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
 * [2025-04-25, 17:00:19](https://news.ycombinator.com/item?id=43795996) - [Foundry (YC F24) Is Hiring – Come Build a World Model for the Web](https://news.ycombinator.com/item?id=43795996)
+* [2025-04-25, 16:58:00](https://news.ycombinator.com/item?id=43795961) - [Dolphins Communicate with 'Fountains of Pee'](https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/)
+* [2025-04-25, 16:38:34](https://news.ycombinator.com/item?id=43795703) - [A Scaled Down Look at Spending, Revenue, and What's Being Cut](https://www.debtinperspective.com/)
 * [2025-04-25, 16:38:19](https://news.ycombinator.com/item?id=43795700) - [Exercise before bed is linked with disrupted sleep](https://medicalxpress.com/news/2025-04-bed-linked-disrupted.html)
 * [2025-04-25, 16:26:24](https://news.ycombinator.com/item?id=43795504) - [Write an Interpreter in Ruby](https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby)
 * [2025-04-25, 16:14:08](https://news.ycombinator.com/item?id=43795300) - [Huge reproducibility project fails to validate biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
