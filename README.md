@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-25, 19:30:46](https://news.ycombinator.com/item?id=43797699) - [PhD Timeline](https://xkcd.com/3081/)
 * [2025-04-25, 19:12:50](https://news.ycombinator.com/item?id=43797505) - [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
 * [2025-04-25, 18:49:30](https://news.ycombinator.com/item?id=43797256) - [Show HN: Bertrand Russell's Principia Mathematica in Lean](https://github.com/ndrwnaguib/principia)
 * [2025-04-25, 18:46:22](https://news.ycombinator.com/item?id=43797212) - [Curry: A Functional Logic Programming Language](https://curry-lang.org/)
@@ -11,10 +12,10 @@
 * [2025-04-25, 16:58:00](https://news.ycombinator.com/item?id=43795961) - [Dolphins Communicate with 'Fountains of Pee'](https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/)
 * [2025-04-25, 16:26:24](https://news.ycombinator.com/item?id=43795504) - [Write an Interpreter in Ruby](https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby)
 * [2025-04-25, 16:14:08](https://news.ycombinator.com/item?id=43795300) - [Huge reproducibility project fails to validate biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
-* [2025-04-25, 15:25:35](https://news.ycombinator.com/item?id=43794576) - [FBI arrests judge accused of helping man evade immigration authorities](https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6)
 * [2025-04-25, 15:01:37](https://news.ycombinator.com/item?id=43794284) - [A $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
 * [2025-04-25, 14:42:27](https://news.ycombinator.com/item?id=43794110) - [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
 * [2025-04-25, 14:31:40](https://news.ycombinator.com/item?id=43793986) - [UIT – performant, modular, low-memory file processing at scale, in the Cloud](https://github.com/janwilmake/uit)
+* [2025-04-25, 13:59:47](https://news.ycombinator.com/item?id=43793638) - [xPrize in Carbon Removal Goes to Enhanced Rock Weathering](https://spectrum.ieee.org/xprize-carbon-removal)
 * [2025-04-25, 13:58:55](https://news.ycombinator.com/item?id=43793627) - [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
@@ -28,7 +29,6 @@
 * [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 05:05:45](https://news.ycombinator.com/item?id=43779398) - [The VTech Socratic Method](https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html)
-* [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What they are and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-22, 21:01:48](https://news.ycombinator.com/item?id=43766263) - [Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
 
 ## [Archives](archives/index.md)

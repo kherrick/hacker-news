@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 19:30:46](https://news.ycombinator.com/item?id=43797699) - [PhD Timeline](https://xkcd.com/3081/)
 * [2025-04-25, 19:12:50](https://news.ycombinator.com/item?id=43797505) - [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
 * [2025-04-25, 18:49:30](https://news.ycombinator.com/item?id=43797256) - [Show HN: Bertrand Russell's Principia Mathematica in Lean](https://github.com/ndrwnaguib/principia)
 * [2025-04-25, 18:46:22](https://news.ycombinator.com/item?id=43797212) - [Curry: A Functional Logic Programming Language](https://curry-lang.org/)
@@ -26,6 +27,7 @@
 * [2025-04-25, 14:42:27](https://news.ycombinator.com/item?id=43794110) - [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
 * [2025-04-25, 14:39:59](https://news.ycombinator.com/item?id=43794081) - [Century-old genetics mystery of Mendel's peas solved](https://www.nature.com/articles/d41586-025-01269-8)
 * [2025-04-25, 14:31:40](https://news.ycombinator.com/item?id=43793986) - [UIT – performant, modular, low-memory file processing at scale, in the Cloud](https://github.com/janwilmake/uit)
+* [2025-04-25, 13:59:47](https://news.ycombinator.com/item?id=43793638) - [xPrize in Carbon Removal Goes to Enhanced Rock Weathering](https://spectrum.ieee.org/xprize-carbon-removal)
 * [2025-04-25, 13:58:55](https://news.ycombinator.com/item?id=43793627) - [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:31:31](https://news.ycombinator.com/item?id=43793384) - [Don't fear getting fired if you have ADHD](https://claimingattention.substack.com/p/dont-fear-getting-fired-if-you-have)
