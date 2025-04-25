@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-25, 16:14:08",
+      "https://news.ycombinator.com/item?id=43795300"
+    ],
+    [
+      "Huge reproducibility project fails to validate biomedical studies",
+      "https://www.nature.com/articles/d41586-025-01266-x"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 15:25:35",
       "https://news.ycombinator.com/item?id=43794576"
     ],
     [
       "FBI arrests Wisconsin judge on charges of obstructing immigrant arrest",
       "https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/"
+    ]
+  ],
+  [
+    [
+      "2025-04-25, 15:15:29",
+      "https://news.ycombinator.com/item?id=43794439"
+    ],
+    [
+      "New analysis casts doubt on 'biosignatures' found on planet K2-18B",
+      "https://www.npr.org/2025/04/25/g-s1-62610/biosignatures-k2-18b-james-webb-exoplanet-doubt"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-04-25, 00:31:05",
-      "https://news.ycombinator.com/item?id=43789010"
-    ],
-    [
-      "Show HN: Faasta – A self-hosted Serverless platform for WASM-wasi-HTTP in Rust",
-      "https://github.com/fourlexboehm/faasta"
-    ]
-  ],
-  [
-    [
       "2025-04-24, 22:35:01",
       "https://news.ycombinator.com/item?id=43788255"
     ],
@@ -177,26 +187,6 @@
     [
       "Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals",
       "https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 21:24:58",
-      "https://news.ycombinator.com/item?id=43787676"
-    ],
-    [
-      "You Can Be a Great Designer and Be Completely Unknown",
-      "https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 19:28:29",
-      "https://news.ycombinator.com/item?id=43786514"
-    ],
-    [
-      "PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch",
-      "https://arxiv.org/abs/2503.19779"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "I wrote to the address in the GPLv2 license notice (2022)",
       "https://code.mendhak.com/gpl-v2-address-letter/"
+    ]
+  ],
+  [
+    [
+      "2025-04-24, 05:05:45",
+      "https://news.ycombinator.com/item?id=43779398"
+    ],
+    [
+      "The VTech Socratic Method",
+      "https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html"
     ]
   ],
   [
