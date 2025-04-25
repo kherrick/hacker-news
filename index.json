@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2025-04-25, 14:42:27",
+      "https://news.ycombinator.com/item?id=43794110"
+    ],
+    [
+      "Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity",
+      "https://www.science.org/doi/10.1126/science.adr3026"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 14:39:59",
       "https://news.ycombinator.com/item?id=43794081"
     ],
     [
       "Century-old genetics mystery of Mendel's peas solved",
       "https://www.nature.com/articles/d41586-025-01269-8"
+    ]
+  ],
+  [
+    [
+      "2025-04-25, 13:58:55",
+      "https://news.ycombinator.com/item?id=43793627"
+    ],
+    [
+      "Show HN: BugStalker - a modern Rust debugger",
+      "https://github.com/godzie44/BugStalker"
     ]
   ],
   [
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2025-04-25, 06:05:58",
+      "https://news.ycombinator.com/item?id=43790603"
+    ],
+    [
+      "\"Poetry City\": Iowa City, Iowa",
+      "https://www.publicbooks.org/poetry-city-iowa-city-iowa/"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 05:34:52",
       "https://news.ycombinator.com/item?id=43790420"
     ],
@@ -117,16 +147,6 @@
     [
       "A Visual Journey Through Async Rust",
       "https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 00:31:05",
-      "https://news.ycombinator.com/item?id=43789010"
-    ],
-    [
-      "Show HN: Faasta – A self-hosted Serverless platform for WASM-wasi-HTTP in Rust",
-      "https://github.com/fourlexboehm/faasta"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-04-24, 15:53:15",
-      "https://news.ycombinator.com/item?id=43784200"
-    ],
-    [
-      "A Principled Approach to Querying Data – A Type-Safe Search DSL",
-      "https://www.claudiu-ivan.com/writing/search-dsl"
-    ]
-  ],
-  [
-    [
       "2025-04-24, 14:42:03",
       "https://news.ycombinator.com/item?id=43783416"
     ],
@@ -257,16 +267,6 @@
     [
       "I wrote to the address in the GPLv2 license notice (2022)",
       "https://code.mendhak.com/gpl-v2-address-letter/"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 10:03:53",
-      "https://news.ycombinator.com/item?id=43780918"
-    ],
-    [
-      "Show HN: I built Lovable for text bots and mini apps",
-      "https://plutonic.dev"
     ]
   ],
   [
