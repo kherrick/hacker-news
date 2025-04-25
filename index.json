@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-25, 18:46:22",
+      "https://news.ycombinator.com/item?id=43797212"
+    ],
+    [
+      "Curry: A Functional Logic Programming Language",
+      "https://curry-lang.org/"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 18:20:53",
       "https://news.ycombinator.com/item?id=43796935"
     ],
     [
       "70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float",
       "https://arxiv.org/abs/2504.11651"
+    ]
+  ],
+  [
+    [
+      "2025-04-25, 17:36:15",
+      "https://news.ycombinator.com/item?id=43796419"
+    ],
+    [
+      "Paper2Code: Automating Code Generation from Scientific Papers",
+      "https://arxiv.org/abs/2504.17192"
     ]
   ],
   [
@@ -171,6 +191,16 @@
   ],
   [
     [
+      "2025-04-25, 06:20:12",
+      "https://news.ycombinator.com/item?id=43790683"
+    ],
+    [
+      "Mary MacLane, the Wild Woman from Butte",
+      "https://publicdomainreview.org/essay/i-am-making-the-world-my-confessor/"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 06:05:58",
       "https://news.ycombinator.com/item?id=43790603"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-04-25, 00:50:35",
-      "https://news.ycombinator.com/item?id=43789142"
-    ],
-    [
-      "A Visual Journey Through Async Rust",
-      "https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md"
-    ]
-  ],
-  [
-    [
       "2025-04-24, 22:35:01",
       "https://news.ycombinator.com/item?id=43788255"
     ],
@@ -237,26 +257,6 @@
     [
       "OpenAI releases image generation in the API",
       "https://openai.com/index/image-generation-api/"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 17:09:56",
-      "https://news.ycombinator.com/item?id=43785039"
-    ],
-    [
-      "OpenVSX, which VSCode forks rely on for extensions, down for 24 hours",
-      "https://status.open-vsx.org/"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 13:11:22",
-      "https://news.ycombinator.com/item?id=43782299"
-    ],
-    [
-      "Ask HN: Share your AI prompt that stumps every model",
-      "https://news.ycombinator.com/item?id=43782299"
     ]
   ],
   [
