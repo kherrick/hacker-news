@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 16:14:08](https://news.ycombinator.com/item?id=43795300) - [Huge reproducibility project fails to validate biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
 * [2025-04-25, 15:25:35](https://news.ycombinator.com/item?id=43794576) - [FBI arrests Wisconsin judge on charges of obstructing immigrant arrest](https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/)
+* [2025-04-25, 15:15:29](https://news.ycombinator.com/item?id=43794439) - [New analysis casts doubt on 'biosignatures' found on planet K2-18B](https://www.npr.org/2025/04/25/g-s1-62610/biosignatures-k2-18b-james-webb-exoplanet-doubt)
 * [2025-04-25, 15:01:37](https://news.ycombinator.com/item?id=43794284) - [The $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
 * [2025-04-25, 14:53:52](https://news.ycombinator.com/item?id=43794217) - [I made a college punching bag for rejected highschoolers](https://ex.plor.ing/blog/post/college-punch)
 * [2025-04-25, 14:45:57](https://news.ycombinator.com/item?id=43794145) - [IKEA website shows a verbatim copy of the physical printed receipt in HTML](https://twitter.com/usgraphics/status/1914913818536497187)
