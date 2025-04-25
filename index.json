@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-25, 21:43:33",
+      "https://news.ycombinator.com/item?id=43798832"
+    ],
+    [
+      "I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools",
+      "https://docs.tscircuit.com/tutorials/building-led-matrix"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 21:18:11",
       "https://news.ycombinator.com/item?id=43798617"
     ],
@@ -77,6 +87,16 @@
     [
       "Lossless LLM compression for efficient GPU inference via dynamic-length float",
       "https://arxiv.org/abs/2504.11651"
+    ]
+  ],
+  [
+    [
+      "2025-04-25, 18:17:45",
+      "https://news.ycombinator.com/item?id=43796898"
+    ],
+    [
+      "Show HN: A modern spreadsheet with Python integration",
+      "https://citadel5.com/gs-calc.htm"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals",
       "https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 14:36:50",
-      "https://news.ycombinator.com/item?id=43783353"
-    ],
-    [
-      "How to Vibe Code a Logomaker in 10 Days",
-      "https://medium.com/@johnnyfived/how-to-vibe-code-a-logomaker-in-10-days-llms-can-they-build-it-b744209e350b"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 12:26:38",
-      "https://news.ycombinator.com/item?id=43781888"
-    ],
-    [
-      "I wrote to the address in the GPLv2 license notice (2022)",
-      "https://code.mendhak.com/gpl-v2-address-letter/"
     ]
   ],
   [
