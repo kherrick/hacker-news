@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-25, 04:25:15](https://news.ycombinator.com/item?id=43790093) - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
+* [2025-04-25, 04:18:54](https://news.ycombinator.com/item?id=43790067) - [RFK Jr. Set to Launch Disease Registry Tracking Autistic People](https://newrepublic.com/post/194245/rfk-jr-disease-registry-track-autistic-people)
 * [2025-04-25, 02:39:00](https://news.ycombinator.com/item?id=43789625) - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [2025-04-25, 02:30:34](https://news.ycombinator.com/item?id=43789593) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
 * [2025-04-25, 02:00:09](https://news.ycombinator.com/item?id=43789471) - [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
@@ -29,7 +30,6 @@
 * [2025-04-23, 22:47:26](https://news.ycombinator.com/item?id=43777478) - [Henry James Was Not at Home in America](https://newrepublic.com/article/193998/henry-james-not-home-america)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-22, 06:05:36](https://news.ycombinator.com/item?id=43759466) - [There's a Seeker Born Every Minute](https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/)
-* [2025-04-22, 03:57:47](https://news.ycombinator.com/item?id=43758965) - ['World War Zoos' Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
 
 ## [Archives](archives/index.md)
 
