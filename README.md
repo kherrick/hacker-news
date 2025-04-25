@@ -27,9 +27,9 @@
 * [2025-04-24, 13:11:22](https://news.ycombinator.com/item?id=43782299) - [Ask HN: Share your AI prompt that stumps every model](https://news.ycombinator.com/item?id=43782299)
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 10:03:53](https://news.ycombinator.com/item?id=43780918) - [Show HN: I built Lovable for text bots and mini apps](https://plutonic.dev)
-* [2025-04-24, 08:17:11](https://news.ycombinator.com/item?id=43780363) - [Careless People](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
 * [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 * [2025-04-23, 13:43:39](https://news.ycombinator.com/item?id=43772110) - [Show HN: Logiquiz – Daily Self-Referential Puzzles](https://www.logiquiz.com/)
+* [2025-04-22, 21:01:48](https://news.ycombinator.com/item?id=43766263) - [Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
 
 ## [Archives](archives/index.md)
 
