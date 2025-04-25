@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
 * [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools](https://docs.tscircuit.com/tutorials/building-led-matrix)
+* [2025-04-25, 21:33:57](https://news.ycombinator.com/item?id=43798757) - [World Emulation via DNN](https://madebyoll.in/posts/world_emulation_via_dnn/)
 * [2025-04-25, 21:18:11](https://news.ycombinator.com/item?id=43798617) - [Finding Things the Government Might Know About You](https://www.nytimes.com/2025/04/16/insider/trump-musk-data-access.html)
 * [2025-04-25, 21:01:05](https://news.ycombinator.com/item?id=43798467) - [Gym Class (YC W22) Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
 * [2025-04-25, 20:06:33](https://news.ycombinator.com/item?id=43798009) - [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
@@ -44,6 +45,7 @@
 * [2025-04-25, 11:10:23](https://news.ycombinator.com/item?id=43792348) - [New C++ features in GCC 15](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15)
 * [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
 * [2025-04-25, 10:40:15](https://news.ycombinator.com/item?id=43792157) - [Hegseth had an unsecured internet line set up in his office to connect to Signal](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d)
+* [2025-04-25, 10:05:39](https://news.ycombinator.com/item?id=43791992) - [Show HN: I used OpenAI's new image API for a personalized coloring book service](https://clevercoloringbook.com/)
 * [2025-04-25, 09:57:46](https://news.ycombinator.com/item?id=43791941) - [Easily setup new MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)
 * [2025-04-25, 09:41:00](https://news.ycombinator.com/item?id=43791843) - [Privacy folks – what's your take on using LLMs at work?](https://news.ycombinator.com/item?id=43791843)
 * [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
