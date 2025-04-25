@@ -48,6 +48,7 @@
 * [2025-04-23, 14:14:30](https://news.ycombinator.com/item?id=43772503) - [Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf)
 * [2025-04-23, 14:00:11](https://news.ycombinator.com/item?id=43772311) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 * [2025-04-23, 13:44:22](https://news.ycombinator.com/item?id=43772123) - [Digital Ghost Towns: When Big Companies Acquire, Shut Down, and Sit on Domains](https://www.snagged.com/post/digital-ghost-towns-when-big-companies-acquire-shut-down-and-sit-on-premium-domains)
+* [2025-04-23, 13:43:39](https://news.ycombinator.com/item?id=43772110) - [Show HN: Logiquiz – Daily Self-Referential Puzzles](https://www.logiquiz.com/)
 * [2025-04-23, 13:35:21](https://news.ycombinator.com/item?id=43772012) - [Berlin DeepTech Landscape](https://startup-map.berlin/lists/53190)
 * [2025-04-23, 13:17:48](https://news.ycombinator.com/item?id=43771816) - [Show HN: Advanced-Alchemy – A framework agnostic library for SQLAlchemy](https://github.com/litestar-org/advanced-alchemy)
 * [2025-04-23, 13:00:32](https://news.ycombinator.com/item?id=43771645) - [How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)

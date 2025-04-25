@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
 * [2025-04-25, 11:10:23](https://news.ycombinator.com/item?id=43792348) - [New C++ features in GCC 15](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15)
+* [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
 * [2025-04-25, 10:40:15](https://news.ycombinator.com/item?id=43792157) - [Hegseth had an unsecured internet line set up in his office to connect to Signal](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d)
 * [2025-04-25, 09:57:46](https://news.ycombinator.com/item?id=43791941) - [Easily setup new MacBooks](https://catalins.tech/how-i-setup-new-macbooks/)
 * [2025-04-25, 09:41:00](https://news.ycombinator.com/item?id=43791843) - [Privacy folks – what's your take on using LLMs at work?](https://news.ycombinator.com/item?id=43791843)
@@ -21,6 +22,7 @@
 * [2025-04-25, 02:54:38](https://news.ycombinator.com/item?id=43789699) - [DOGE Just Ended Nuclear in America [video]](https://www.youtube.com/watch?v=payvx8pUTS4)
 * [2025-04-25, 02:39:00](https://news.ycombinator.com/item?id=43789625) - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [2025-04-25, 02:30:34](https://news.ycombinator.com/item?id=43789593) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
+* [2025-04-25, 02:06:02](https://news.ycombinator.com/item?id=43789501) - [Petition to the Open Source Initiative: Publish the Full 2025 Election Results](https://codeberg.org/OSI-Concerns/election-results-2025#readme)
 * [2025-04-25, 02:00:09](https://news.ycombinator.com/item?id=43789471) - [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
 * [2025-04-25, 01:58:53](https://news.ycombinator.com/item?id=43789460) - [Government censorship comes to Bluesky, but not its third-party apps yet](https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/)
 * [2025-04-25, 00:50:35](https://news.ycombinator.com/item?id=43789142) - [A Visual Journey Through Async Rust](https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md)
