@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 15:25:35](https://news.ycombinator.com/item?id=43794576) - [FBI arrests Wisconsin judge on charges of obstructing immigrant arrest](https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/)
 * [2025-04-25, 15:01:37](https://news.ycombinator.com/item?id=43794284) - [The $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
+* [2025-04-25, 14:53:52](https://news.ycombinator.com/item?id=43794217) - [I made a college punching bag for rejected highschoolers](https://ex.plor.ing/blog/post/college-punch)
 * [2025-04-25, 14:45:57](https://news.ycombinator.com/item?id=43794145) - [IKEA website shows a verbatim copy of the physical printed receipt in HTML](https://twitter.com/usgraphics/status/1914913818536497187)
 * [2025-04-25, 14:39:59](https://news.ycombinator.com/item?id=43794081) - [Century-old genetics mystery of Mendel's peas solved](https://www.nature.com/articles/d41586-025-01269-8)
 * [2025-04-25, 13:58:55](https://news.ycombinator.com/item?id=43793627) - [Show HN: BugStalker - a modern Rust debugger](https://github.com/godzie44/BugStalker)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:31:31](https://news.ycombinator.com/item?id=43793384) - [Don't fear getting fired if you have ADHD](https://claimingattention.substack.com/p/dont-fear-getting-fired-if-you-have)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
+* [2025-04-25, 13:18:17](https://news.ycombinator.com/item?id=43793280) - [New LLM jailbreak bypasses all major FMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/)
 * [2025-04-25, 12:39:32](https://news.ycombinator.com/item?id=43792941) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [2025-04-25, 11:10:23](https://news.ycombinator.com/item?id=43792348) - [New C++ features in GCC 15](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15)
 * [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
