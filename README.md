@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-25, 19:39:15](https://news.ycombinator.com/item?id=43797774) - [Tales of the Yucca Man (2018)](https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/)
 * [2025-04-25, 19:12:50](https://news.ycombinator.com/item?id=43797505) - [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
 * [2025-04-25, 18:49:30](https://news.ycombinator.com/item?id=43797256) - [Show HN: Formalizing Principia Mathematica using Lean](https://github.com/ndrwnaguib/principia)
 * [2025-04-25, 18:46:22](https://news.ycombinator.com/item?id=43797212) - [Curry: A functional logic programming language](https://curry-lang.org/)
@@ -8,7 +9,6 @@
 * [2025-04-25, 17:36:15](https://news.ycombinator.com/item?id=43796419) - [Paper2Code: Automating Code Generation from Scientific Papers](https://arxiv.org/abs/2504.17192)
 * [2025-04-25, 17:00:35](https://news.ycombinator.com/item?id=43796003) - [Show HN: Magnitude – open-source, AI-native test framework for web apps](https://github.com/magnitudedev/magnitude)
 * [2025-04-25, 17:00:19](https://news.ycombinator.com/item?id=43795996) - [Foundry (YC F24) is hiring – Come build a world model for the web](https://news.ycombinator.com/item?id=43795996)
-* [2025-04-25, 16:58:00](https://news.ycombinator.com/item?id=43795961) - [Dolphins Communicate with 'Fountains of Pee'](https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/)
 * [2025-04-25, 16:26:24](https://news.ycombinator.com/item?id=43795504) - [Write an Interpreter in Ruby](https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby)
 * [2025-04-25, 16:14:08](https://news.ycombinator.com/item?id=43795300) - [Huge reproducibility project fails to validate biomedical studies](https://www.nature.com/articles/d41586-025-01266-x)
 * [2025-04-25, 16:01:24](https://news.ycombinator.com/item?id=43795090) - [Differential Coverage for Debugging](https://research.swtch.com/diffcover)
@@ -29,7 +29,7 @@
 * [2025-04-24, 12:26:38](https://news.ycombinator.com/item?id=43781888) - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 05:05:45](https://news.ycombinator.com/item?id=43779398) - [The VTech Socratic Method](https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html)
 * [2025-04-23, 23:11:39](https://news.ycombinator.com/item?id=43777677) - [Echo – Open Hardware Music Player](https://github.com/amachronic/echoplayer)
-* [2025-04-22, 21:01:48](https://news.ycombinator.com/item?id=43766263) - [Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
+* [2025-04-23, 16:59:36](https://news.ycombinator.com/item?id=43774169) - [Tarpit ideas: What they are and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
 
 ## [Archives](archives/index.md)
 
