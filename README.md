@@ -1,14 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-26, 22:34:16](https://news.ycombinator.com/item?id=43807813) - [In DOGE's Hunt for Imaginary Censors, It Kills Actual Anti-Censorship Research](https://www.techdirt.com/2025/04/25/in-doges-hunt-for-imaginary-censors-it-kills-actual-anti-censorship-research/)
 * [2025-04-26, 22:24:04](https://news.ycombinator.com/item?id=43807753) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 * [2025-04-26, 20:43:22](https://news.ycombinator.com/item?id=43807029) - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
-* [2025-04-26, 20:33:34](https://news.ycombinator.com/item?id=43806940) - [Unauthorized experiment on CMV involving AI-generated comments](https://www.reddit.com/r/changemyview/s/rYJLZr9ySo)
+* [2025-04-26, 20:33:34](https://news.ycombinator.com/item?id=43806940) - [Unauthorized experiment on r/changemyview involving AI-generated comments](https://old.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
 * [2025-04-26, 20:23:32](https://news.ycombinator.com/item?id=43806838) - [Slinky-Coil Dipole (2021)](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
 * [2025-04-26, 20:09:04](https://news.ycombinator.com/item?id=43806691) - [Dad and the Egg Controller (2018)](https://www.pentadact.com/2018-12-18-dad-and-the-egg-controller/)
 * [2025-04-26, 20:02:06](https://news.ycombinator.com/item?id=43806630) - [The Passing of Ucbvax (1994)](http://ucbvax.berkeley.edu/passing-of-ucbvax.txt)
 * [2025-04-26, 19:43:52](https://news.ycombinator.com/item?id=43806491) - [Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)](https://www.pagetable.com/?p=43)
 * [2025-04-26, 19:14:28](https://news.ycombinator.com/item?id=43806296) - [Tilt: dev environment as code](https://github.com/tilt-dev/tilt)
+* [2025-04-26, 19:12:20](https://news.ycombinator.com/item?id=43806281) - [BART's Anime Mascots](https://www.bart.gov/news/fun/anime)
 * [2025-04-26, 18:26:16](https://news.ycombinator.com/item?id=43805972) - [Show HN: Rocal UI – A simple template engine with Rust](https://github.com/rocal-dev/rocal/tree/main/rocal_ui)
 * [2025-04-26, 17:53:12](https://news.ycombinator.com/item?id=43805683) - [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
 * [2025-04-26, 17:52:09](https://news.ycombinator.com/item?id=43805672) - [TPSV, an Alternative to TSV (and CSV)](https://chtenb.dev/?page=tpsv)
@@ -26,10 +28,8 @@
 * [2025-04-26, 06:42:59](https://news.ycombinator.com/item?id=43801439) - [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
 * [2025-04-26, 05:31:52](https://news.ycombinator.com/item?id=43801179) - [Cloth](https://www.cloudofoz.com/verlet-test/)
 * [2025-04-26, 01:38:54](https://news.ycombinator.com/item?id=43800151) - [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/)
-* [2025-04-26, 00:30:41](https://news.ycombinator.com/item?id=43799820) - [I wrote a book called “Crap Towns”. It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
 * [2025-04-26, 00:26:48](https://news.ycombinator.com/item?id=43799802) - [Your phone isn't secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
 * [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
-* [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding skill atrophy in the age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 
 ## [Archives](archives/index.md)
 

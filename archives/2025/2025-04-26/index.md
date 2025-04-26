@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 22:34:16](https://news.ycombinator.com/item?id=43807813) - [In DOGE's Hunt for Imaginary Censors, It Kills Actual Anti-Censorship Research](https://www.techdirt.com/2025/04/25/in-doges-hunt-for-imaginary-censors-it-kills-actual-anti-censorship-research/)
 * [2025-04-26, 22:24:04](https://news.ycombinator.com/item?id=43807753) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 * [2025-04-26, 21:10:14](https://news.ycombinator.com/item?id=43807245) - [The lost secrets of Palm webOS (2014)](https://www.theverge.com/2014/1/2/5264580/the-lost-secrets-of-webos)
 * [2025-04-26, 20:43:22](https://news.ycombinator.com/item?id=43807029) - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
+* [2025-04-26, 20:33:34](https://news.ycombinator.com/item?id=43806940) - [Unauthorized experiment on r/changemyview involving AI-generated comments](https://old.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
 * [2025-04-26, 20:33:34](https://news.ycombinator.com/item?id=43806940) - [Unauthorized experiment on CMV involving AI-generated comments](https://www.reddit.com/r/changemyview/s/rYJLZr9ySo)
 * [2025-04-26, 20:23:32](https://news.ycombinator.com/item?id=43806838) - [Slinky-Coil Dipole (2021)](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
 * [2025-04-26, 20:09:10](https://news.ycombinator.com/item?id=43806694) - [Hundreds more NSF grants terminated after agency director resigns](https://www.nature.com/articles/d41586-025-01312-8)
