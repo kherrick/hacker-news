@@ -25,11 +25,11 @@
 * [2025-04-25, 14:42:27](https://news.ycombinator.com/item?id=43794110) - [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
+* [2025-04-25, 13:18:17](https://news.ycombinator.com/item?id=43793280) - [The Policy Puppetry Prompt: Novel bypass for major LLMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/)
 * [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC 15.1](https://gcc.gnu.org/gcc-15/)
 * [2025-04-25, 10:05:39](https://news.ycombinator.com/item?id=43791992) - [Show HN: I used OpenAI's new image API for a personalized coloring book service](https://clevercoloringbook.com/)
 * [2025-04-25, 08:15:18](https://news.ycombinator.com/item?id=43791385) - [Large language models, small labor market effects [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf)
 * [2025-04-24, 22:35:01](https://news.ycombinator.com/item?id=43788255) - [A Love Letter to People Who Believe in People](https://www.swiss-miss.com/2025/04/a-love-letter-to-people-who-believe-in-people.html)
-* [2025-04-24, 05:05:45](https://news.ycombinator.com/item?id=43779398) - [The VTech Socratic Method](https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html)
 
 ## [Archives](archives/index.md)
 
