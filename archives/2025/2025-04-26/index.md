@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 11:41:21](https://news.ycombinator.com/item?id=43802727) - [The Friendship Recession: The Lost Art of Connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
 * [2025-04-26, 11:30:20](https://news.ycombinator.com/item?id=43802675) - [Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling](https://www.morpheus-research.com/backblaze/)
+* [2025-04-26, 11:07:01](https://news.ycombinator.com/item?id=43802574) - [First and 2nd gen Nest Thermostats will lose support in Oct 2025](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/)
 * [2025-04-26, 10:53:03](https://news.ycombinator.com/item?id=43802497) - [Mark Zuckerberg personally lost the Facebook antitrust case](https://pluralistic.net/2025/04/18/chatty-zucky/)
 * [2025-04-26, 10:51:42](https://news.ycombinator.com/item?id=43802491) - [Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html)
 * [2025-04-26, 10:46:02](https://news.ycombinator.com/item?id=43802463) - [Commodore OS 3.0 Released](https://www.commodoreos.net/CommodoreOS.aspx)
