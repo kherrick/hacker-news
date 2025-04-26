@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
 * [2025-04-26, 10:53:03](https://news.ycombinator.com/item?id=43802497) - [Mark Zuckerberg personally lost the Facebook antitrust case](https://pluralistic.net/2025/04/18/chatty-zucky/)
+* [2025-04-26, 10:51:42](https://news.ycombinator.com/item?id=43802491) - [Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html)
+* [2025-04-26, 10:46:02](https://news.ycombinator.com/item?id=43802463) - [Commodore OS 3.0 Released](https://www.commodoreos.net/CommodoreOS.aspx)
 * [2025-04-26, 09:14:27](https://news.ycombinator.com/item?id=43802063) - [Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/)
 * [2025-04-26, 08:49:29](https://news.ycombinator.com/item?id=43801959) - [ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation)
 * [2025-04-26, 08:39:29](https://news.ycombinator.com/item?id=43801906) - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)

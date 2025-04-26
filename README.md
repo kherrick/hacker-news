@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-26, 10:53:03](https://news.ycombinator.com/item?id=43802497) - [Mark Zuckerberg personally lost the Facebook antitrust case](https://pluralistic.net/2025/04/18/chatty-zucky/)
+* [2025-04-26, 10:51:42](https://news.ycombinator.com/item?id=43802491) - [Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html)
+* [2025-04-26, 10:46:02](https://news.ycombinator.com/item?id=43802463) - [Commodore OS 3.0 Released](https://www.commodoreos.net/CommodoreOS.aspx)
 * [2025-04-26, 09:14:27](https://news.ycombinator.com/item?id=43802063) - [Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/)
 * [2025-04-26, 08:39:29](https://news.ycombinator.com/item?id=43801906) - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
 * [2025-04-26, 07:00:38](https://news.ycombinator.com/item?id=43801500) - [MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote)](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
@@ -12,7 +14,6 @@
 * [2025-04-26, 01:38:54](https://news.ycombinator.com/item?id=43800151) - [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/)
 * [2025-04-26, 01:03:40](https://news.ycombinator.com/item?id=43800002) - [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
 * [2025-04-26, 00:30:41](https://news.ycombinator.com/item?id=43799820) - [I wrote a book called \"Crap Towns\". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
-* [2025-04-26, 00:08:14](https://news.ycombinator.com/item?id=43799697) - [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
 * [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 * [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia’s nonprofit status questioned by D.C. U.S. attorney](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
 * [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I designed my LED matrix PCB with code](https://docs.tscircuit.com/tutorials/building-led-matrix)
@@ -28,7 +29,6 @@
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
 * [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC 15.1](https://gcc.gnu.org/gcc-15/)
-* [2025-04-25, 10:05:39](https://news.ycombinator.com/item?id=43791992) - [Show HN: I used OpenAI's new image API for a personalized coloring book service](https://clevercoloringbook.com/)
 * [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding skill atrophy in the age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 
 ## [Archives](archives/index.md)
