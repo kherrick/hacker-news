@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 21:10:14](https://news.ycombinator.com/item?id=43807245) - [The lost secrets of Palm webOS (2014)](https://www.theverge.com/2014/1/2/5264580/the-lost-secrets-of-webos)
 * [2025-04-26, 20:43:22](https://news.ycombinator.com/item?id=43807029) - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
+* [2025-04-26, 20:33:34](https://news.ycombinator.com/item?id=43806940) - [Unauthorized experiment on CMV involving AI-generated comments](https://www.reddit.com/r/changemyview/s/rYJLZr9ySo)
 * [2025-04-26, 20:23:32](https://news.ycombinator.com/item?id=43806838) - [Slinky-Coil Dipole (2021)](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
 * [2025-04-26, 20:09:10](https://news.ycombinator.com/item?id=43806694) - [Hundreds more NSF grants terminated after agency director resigns](https://www.nature.com/articles/d41586-025-01312-8)
 * [2025-04-26, 20:09:04](https://news.ycombinator.com/item?id=43806691) - [Dad and the Egg Controller (2018)](https://www.pentadact.com/2018-12-18-dad-and-the-egg-controller/)
@@ -20,6 +22,7 @@
 * [2025-04-26, 17:58:16](https://news.ycombinator.com/item?id=43805729) - [Barlow's Principles of Adult Behaviour](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html)
 * [2025-04-26, 17:53:12](https://news.ycombinator.com/item?id=43805683) - [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
 * [2025-04-26, 17:13:18](https://news.ycombinator.com/item?id=43805369) - [The Seven-Year Rule](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/)
+* [2025-04-26, 17:12:15](https://news.ycombinator.com/item?id=43805358) - [HTTP Feeds: a minimal specification for polling events over HTTP](https://www.http-feeds.org/)
 * [2025-04-26, 16:57:48](https://news.ycombinator.com/item?id=43805238) - [University of Waterloo withholds coding contest results over suspected AI use](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/)
 * [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
 * [2025-04-26, 15:31:58](https://news.ycombinator.com/item?id=43804489) - [CONL: \"Markdown\" for your config files](https://cirw.in/blog/conl)
