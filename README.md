@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-26, 09:14:27](https://news.ycombinator.com/item?id=43802063) - [Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/)
 * [2025-04-26, 08:39:29](https://news.ycombinator.com/item?id=43801906) - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
 * [2025-04-26, 07:00:38](https://news.ycombinator.com/item?id=43801500) - [MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote)](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
 * [2025-04-26, 06:50:37](https://news.ycombinator.com/item?id=43801461) - [Apparently Bluesky has one centralized service, the \"relay\"](https://mastodon.online/@mastodonmigration/114399534536933573)
@@ -12,7 +13,6 @@
 * [2025-04-26, 00:30:41](https://news.ycombinator.com/item?id=43799820) - [I wrote a book called \"Crap Towns\". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
 * [2025-04-26, 00:08:14](https://news.ycombinator.com/item?id=43799697) - [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
 * [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
-* [2025-04-25, 23:04:54](https://news.ycombinator.com/item?id=43799306) - [ACM's flagship magazine seeks submissions by/for practitioners](https://cacm.acm.org/practice/call-for-papers-cacm-practice-section/)
 * [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia’s nonprofit status questioned by D.C. U.S. attorney](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
 * [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I designed my LED matrix PCB with code](https://docs.tscircuit.com/tutorials/building-led-matrix)
 * [2025-04-25, 21:33:57](https://news.ycombinator.com/item?id=43798757) - [World Emulation via Neural Network](https://madebyoll.in/posts/world_emulation_via_dnn/)

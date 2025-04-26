@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 09:14:27](https://news.ycombinator.com/item?id=43802063) - [Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/)
 * [2025-04-26, 08:49:29](https://news.ycombinator.com/item?id=43801959) - [ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation)
 * [2025-04-26, 08:39:29](https://news.ycombinator.com/item?id=43801906) - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
 * [2025-04-26, 07:00:38](https://news.ycombinator.com/item?id=43801500) - [MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote)](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
