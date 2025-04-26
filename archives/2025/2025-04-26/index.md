@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
 * [2025-04-26, 14:04:01](https://news.ycombinator.com/item?id=43803724) - [Stuffed-Na(a)N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
+* [2025-04-26, 13:56:34](https://news.ycombinator.com/item?id=43803659) - [Thank you for holding my duck (2021)](https://naml.us/post/thank-you-for-holding-my-duck/)
 * [2025-04-26, 13:38:25](https://news.ycombinator.com/item?id=43803518) - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
 * [2025-04-26, 13:31:48](https://news.ycombinator.com/item?id=43803473) - [Build your own antisocial writing rig with DOS and a $2 USB key](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/)
 * [2025-04-26, 13:14:28](https://news.ycombinator.com/item?id=43803325) - [Top employee monitoring app leaks 21M screenshots on users](https://www.techradar.com/pro/security/top-employee-monitoring-app-leaks-21-million-screenshots-on-thousands-of-users)
