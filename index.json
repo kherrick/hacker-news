@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-26, 08:49:29",
+      "https://news.ycombinator.com/item?id=43801959"
+    ],
+    [
+      "ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation",
+      "https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation"
+    ]
+  ],
+  [
+    [
       "2025-04-26, 07:00:38",
       "https://news.ycombinator.com/item?id=43801500"
     ],
@@ -17,16 +27,6 @@
     [
       "Apparently Bluesky has one centralized service, the \"relay\"",
       "https://mastodon.online/@mastodonmigration/114399534536933573"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 06:42:59",
-      "https://news.ycombinator.com/item?id=43801439"
-    ],
-    [
-      "Australian who ordered radioactive materials walks away from court",
-      "https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-04-25, 20:06:33",
-      "https://news.ycombinator.com/item?id=43798009"
-    ],
-    [
-      "Programming in D: Tutorial and Reference",
-      "https://ddili.org/ders/d.en/"
-    ]
-  ],
-  [
-    [
       "2025-04-25, 18:49:30",
       "https://news.ycombinator.com/item?id=43797256"
     ],
@@ -187,6 +177,16 @@
     [
       "Lossless LLM compression for efficient GPU inference via dynamic-length float",
       "https://arxiv.org/abs/2504.11651"
+    ]
+  ],
+  [
+    [
+      "2025-04-25, 18:17:45",
+      "https://news.ycombinator.com/item?id=43796898"
+    ],
+    [
+      "Show HN: A modern spreadsheet with Python integration",
+      "https://citadel5.com/gs-calc.htm"
     ]
   ],
   [
