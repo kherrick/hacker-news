@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-26, 20:23:32](https://news.ycombinator.com/item?id=43806838) - [Slinky-Coil Dipole (2021)](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
+* [2025-04-26, 20:09:04](https://news.ycombinator.com/item?id=43806691) - [Dad and the Egg Controller (2018)](https://www.pentadact.com/2018-12-18-dad-and-the-egg-controller/)
 * [2025-04-26, 19:59:28](https://news.ycombinator.com/item?id=43806608) - [California's $20 fast-food minimum wage improves pay at small cost to consumers](https://www.axios.com/local/san-francisco/2025/02/27/uc-berkeley-fast-food-worker-study-minimum-wage)
 * [2025-04-26, 19:43:52](https://news.ycombinator.com/item?id=43806491) - [Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)](https://www.pagetable.com/?p=43)
 * [2025-04-26, 19:27:25](https://news.ycombinator.com/item?id=43806375) - [Economists don't know what's going on](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on)
-* [2025-04-26, 19:16:28](https://news.ycombinator.com/item?id=43806308) - [Women rely partly on smell when choosing friends](https://arstechnica.com/science/2025/04/smells-like-teen-friendship-how-scent-influences-social-choices/)
 * [2025-04-26, 19:14:28](https://news.ycombinator.com/item?id=43806296) - [Tilt: dev environment as code](https://github.com/tilt-dev/tilt)
 * [2025-04-26, 19:13:40](https://news.ycombinator.com/item?id=43806291) - [Ask HN: Why do we celebrate AI-Copilots but reject AI–Generated art?](https://news.ycombinator.com/item?id=43806291)
 * [2025-04-26, 18:26:16](https://news.ycombinator.com/item?id=43805972) - [Show HN: Rocal UI – A simple template engine with Rust](https://github.com/rocal-dev/rocal/tree/main/rocal_ui)
