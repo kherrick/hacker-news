@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 19:59:28](https://news.ycombinator.com/item?id=43806608) - [California's $20 fast-food minimum wage improves pay at small cost to consumers](https://www.axios.com/local/san-francisco/2025/02/27/uc-berkeley-fast-food-worker-study-minimum-wage)
+* [2025-04-26, 19:44:35](https://news.ycombinator.com/item?id=43806495) - [The record-breaking tunnel being built from Denmark to Germany](https://www.bbc.com/news/articles/cy70y2x3xj6o)
+* [2025-04-26, 19:43:52](https://news.ycombinator.com/item?id=43806491) - [Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)](https://www.pagetable.com/?p=43)
 * [2025-04-26, 19:27:25](https://news.ycombinator.com/item?id=43806375) - [Economists don't know what's going on](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on)
 * [2025-04-26, 19:16:28](https://news.ycombinator.com/item?id=43806308) - [Women rely partly on smell when choosing friends](https://arstechnica.com/science/2025/04/smells-like-teen-friendship-how-scent-influences-social-choices/)
 * [2025-04-26, 17:58:16](https://news.ycombinator.com/item?id=43805729) - [Barlow's Principles of Adult Behaviour](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html)
@@ -11,6 +14,7 @@
 * [2025-04-26, 17:13:18](https://news.ycombinator.com/item?id=43805369) - [The Seven-Year Rule](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/)
 * [2025-04-26, 16:57:48](https://news.ycombinator.com/item?id=43805238) - [University of Waterloo withholds coding contest results over suspected AI use](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/)
 * [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
+* [2025-04-26, 15:31:58](https://news.ycombinator.com/item?id=43804489) - [CONL: \"Markdown\" for your config files](https://cirw.in/blog/conl)
 * [2025-04-26, 15:08:17](https://news.ycombinator.com/item?id=43804277) - [Why the Cassette Revival Is Thriving in Argentina's Music Scene](https://www.greenbook.org/insights/focus-on-latam/back-to-tape-why-the-cassette-revival-is-thriving-in-argentinas-music-scene)
 * [2025-04-26, 14:04:01](https://news.ycombinator.com/item?id=43803724) - [Stuffed-Na(a)N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
 * [2025-04-26, 13:56:34](https://news.ycombinator.com/item?id=43803659) - [Thank you for holding my duck (2021)](https://naml.us/post/thank-you-for-holding-my-duck/)
