@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia's nonprofit status threatened by DC U.S. Attorney Ed Martin](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
-* [2025-04-25, 22:46:38](https://news.ycombinator.com/item?id=43799196) - [Simons Foundation Launches Collaboration on Ecological Neuroscience](https://www.simonsfoundation.org/2025/04/24/simons-foundation-launches-collaboration-on-ecological-neuroscience)
+* [2025-04-26, 00:30:41](https://news.ycombinator.com/item?id=43799820) - [I wrote a book called \"Crap Towns\". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
+* [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
+* [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia’s nonprofit status questioned by D.C. U.S. attorney](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
 * [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I designed my LED matrix PCB with code](https://docs.tscircuit.com/tutorials/building-led-matrix)
-* [2025-04-25, 21:33:57](https://news.ycombinator.com/item?id=43798757) - [World Emulation via DNN](https://madebyoll.in/posts/world_emulation_via_dnn/)
+* [2025-04-25, 21:33:57](https://news.ycombinator.com/item?id=43798757) - [World Emulation via Neural Network](https://madebyoll.in/posts/world_emulation_via_dnn/)
 * [2025-04-25, 21:01:05](https://news.ycombinator.com/item?id=43798467) - [Gym Class (YC W22) Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
 * [2025-04-25, 20:06:33](https://news.ycombinator.com/item?id=43798009) - [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
-* [2025-04-25, 19:39:15](https://news.ycombinator.com/item?id=43797774) - [Tales of the Yucca Man (2018)](https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/)
+* [2025-04-25, 19:37:04](https://news.ycombinator.com/item?id=43797750) - [Rockets, robots and supercars made in Greece](https://greekanalyst.substack.com/p/rockets-robots-and-supercars-made)
 * [2025-04-25, 19:12:50](https://news.ycombinator.com/item?id=43797505) - [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
 * [2025-04-25, 18:49:30](https://news.ycombinator.com/item?id=43797256) - [Show HN: Formalizing Principia Mathematica using Lean](https://github.com/ndrwnaguib/principia)
 * [2025-04-25, 18:46:22](https://news.ycombinator.com/item?id=43797212) - [Curry: A functional logic programming language](https://curry-lang.org/)
@@ -29,7 +30,6 @@
 * [2025-04-24, 22:10:15](https://news.ycombinator.com/item?id=43788053) - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
 * [2025-04-24, 05:05:45](https://news.ycombinator.com/item?id=43779398) - [The VTech Socratic Method](https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html)
 * [2025-04-23, 23:11:39](https://news.ycombinator.com/item?id=43777677) - [Echo – Open Hardware Music Player](https://github.com/amachronic/echoplayer)
-* [2025-04-22, 21:01:48](https://news.ycombinator.com/item?id=43766263) - [Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 * [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia's nonprofit status threatened by DC U.S. Attorney Ed Martin](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
 * [2025-04-25, 22:46:38](https://news.ycombinator.com/item?id=43799196) - [Simons Foundation Launches Collaboration on Ecological Neuroscience](https://www.simonsfoundation.org/2025/04/24/simons-foundation-launches-collaboration-on-ecological-neuroscience)
 * [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools](https://docs.tscircuit.com/tutorials/building-led-matrix)
@@ -12,6 +13,7 @@
 * [2025-04-25, 21:01:05](https://news.ycombinator.com/item?id=43798467) - [Gym Class (YC W22) Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
 * [2025-04-25, 20:06:33](https://news.ycombinator.com/item?id=43798009) - [Programming in D: Tutorial and Reference](https://ddili.org/ders/d.en/)
 * [2025-04-25, 19:39:15](https://news.ycombinator.com/item?id=43797774) - [Tales of the Yucca Man (2018)](https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/)
+* [2025-04-25, 19:37:04](https://news.ycombinator.com/item?id=43797750) - [Rockets, robots and supercars made in Greece](https://greekanalyst.substack.com/p/rockets-robots-and-supercars-made)
 * [2025-04-25, 19:30:46](https://news.ycombinator.com/item?id=43797699) - [PhD Timeline](https://xkcd.com/3081/)
 * [2025-04-25, 19:12:50](https://news.ycombinator.com/item?id=43797505) - [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
 * [2025-04-25, 18:49:30](https://news.ycombinator.com/item?id=43797256) - [Show HN: Bertrand Russell's Principia Mathematica in Lean](https://github.com/ndrwnaguib/principia)
