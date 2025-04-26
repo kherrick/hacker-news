@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
 * [2025-04-26, 07:00:38](https://news.ycombinator.com/item?id=43801500) - [MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote)](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
+* [2025-04-26, 06:50:37](https://news.ycombinator.com/item?id=43801461) - [Apparently Bluesky has one centralized service, the \"relay\"](https://mastodon.online/@mastodonmigration/114399534536933573)
+* [2025-04-26, 06:42:59](https://news.ycombinator.com/item?id=43801439) - [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
 * [2025-04-26, 05:31:52](https://news.ycombinator.com/item?id=43801179) - [Cloth](https://www.cloudofoz.com/verlet-test/)
 * [2025-04-26, 05:02:39](https://news.ycombinator.com/item?id=43801082) - [A tuition-free school created by Zuckerberg and Chan will shutter next year](https://www.cnn.com/2025/04/25/tech/chan-zuckerberg-primary-school-closing/index.html)
 * [2025-04-26, 04:39:02](https://news.ycombinator.com/item?id=43800988) - [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c)
