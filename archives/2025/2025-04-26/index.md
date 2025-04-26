@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 19:16:28](https://news.ycombinator.com/item?id=43806308) - [Women rely partly on smell when choosing friends](https://arstechnica.com/science/2025/04/smells-like-teen-friendship-how-scent-influences-social-choices/)
 * [2025-04-26, 17:58:16](https://news.ycombinator.com/item?id=43805729) - [Barlow's Principles of Adult Behaviour](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html)
 * [2025-04-26, 17:53:12](https://news.ycombinator.com/item?id=43805683) - [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
 * [2025-04-26, 17:13:18](https://news.ycombinator.com/item?id=43805369) - [The Seven-Year Rule](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/)
