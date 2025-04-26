@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-04-26, 20:09:10",
-      "https://news.ycombinator.com/item?id=43806694"
-    ],
-    [
-      "Hundreds more NSF grants terminated after agency director resigns",
-      "https://www.nature.com/articles/d41586-025-01312-8"
-    ]
-  ],
-  [
-    [
       "2025-04-26, 20:09:04",
       "https://news.ycombinator.com/item?id=43806691"
     ],
@@ -111,22 +101,22 @@
   ],
   [
     [
-      "2025-04-26, 17:58:16",
-      "https://news.ycombinator.com/item?id=43805729"
-    ],
-    [
-      "Barlow's Principles of Adult Behaviour",
-      "https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html"
-    ]
-  ],
-  [
-    [
       "2025-04-26, 17:53:12",
       "https://news.ycombinator.com/item?id=43805683"
     ],
     [
       "Robot Dexterity Still Seems Hard",
       "https://www.construction-physics.com/p/robot-dexterity-still-seems-hard"
+    ]
+  ],
+  [
+    [
+      "2025-04-26, 17:52:09",
+      "https://news.ycombinator.com/item?id=43805672"
+    ],
+    [
+      "TPSV, an Alternative to TSV (and CSV)",
+      "https://chtenb.dev/?page=tpsv"
     ]
   ],
   [
@@ -147,6 +137,26 @@
     [
       "HTTP Feeds: a minimal specification for polling events over HTTP",
       "https://www.http-feeds.org/"
+    ]
+  ],
+  [
+    [
+      "2025-04-26, 16:57:48",
+      "https://news.ycombinator.com/item?id=43805238"
+    ],
+    [
+      "University of Waterloo withholds coding contest results over suspected AI use",
+      "https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/"
+    ]
+  ],
+  [
+    [
+      "2025-04-26, 15:26:59",
+      "https://news.ycombinator.com/item?id=43804443"
+    ],
+    [
+      "Goenums: Type Safe Enum Generator for Go",
+      "https://github.com/zarldev/goenums"
     ]
   ],
   [
@@ -261,42 +271,32 @@
   ],
   [
     [
-      "2025-04-26, 01:03:40",
-      "https://news.ycombinator.com/item?id=43800002"
+      "2025-04-26, 00:26:48",
+      "https://news.ycombinator.com/item?id=43799802"
     ],
     [
-      "Berkeley Humanoid Lite – Open-source robot",
-      "https://lite.berkeley-humanoid.org/"
+      "Your phone isn't secretly listening to you, but the truth is more disturbing",
+      "https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/"
     ]
   ],
   [
     [
-      "2025-04-26, 00:30:41",
-      "https://news.ycombinator.com/item?id=43799820"
+      "2025-04-25, 23:19:56",
+      "https://news.ycombinator.com/item?id=43799396"
     ],
     [
-      "I wrote a book called “Crap Towns”. It seemed funny at the time",
-      "https://samj.substack.com/p/that-joke-isnt-funny-any-more"
+      "Parallel ./configure",
+      "https://tavianator.com/2025/configure.html"
     ]
   ],
   [
     [
-      "2025-04-25, 23:03:55",
-      "https://news.ycombinator.com/item?id=43799302"
+      "2025-04-25, 08:30:54",
+      "https://news.ycombinator.com/item?id=43791474"
     ],
     [
-      "Wikipedia’s nonprofit status questioned by D.C. U.S. attorney",
-      "https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 18:20:53",
-      "https://news.ycombinator.com/item?id=43796935"
-    ],
-    [
-      "Lossless LLM compression for efficient GPU inference via dynamic-length float",
-      "https://arxiv.org/abs/2504.11651"
+      "Avoiding skill atrophy in the age of AI",
+      "https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age"
     ]
   ]
 ]
