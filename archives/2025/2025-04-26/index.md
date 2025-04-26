@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
 * [2025-04-26, 17:58:16](https://news.ycombinator.com/item?id=43805729) - [Barlow's Principles of Adult Behaviour](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html)
+* [2025-04-26, 17:53:12](https://news.ycombinator.com/item?id=43805683) - [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
 * [2025-04-26, 16:57:48](https://news.ycombinator.com/item?id=43805238) - [University of Waterloo withholds coding contest results over suspected AI use](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/)
 * [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
 * [2025-04-26, 15:08:17](https://news.ycombinator.com/item?id=43804277) - [Why the Cassette Revival Is Thriving in Argentina's Music Scene](https://www.greenbook.org/insights/focus-on-latam/back-to-tape-why-the-cassette-revival-is-thriving-in-argentinas-music-scene)

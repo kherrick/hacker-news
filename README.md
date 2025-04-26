@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-26, 17:58:16](https://news.ycombinator.com/item?id=43805729) - [Barlow's Principles of Adult Behaviour](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html)
+* [2025-04-26, 17:53:12](https://news.ycombinator.com/item?id=43805683) - [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
 * [2025-04-26, 16:57:48](https://news.ycombinator.com/item?id=43805238) - [University of Waterloo withholds coding contest results over suspected AI use](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/)
 * [2025-04-26, 14:04:01](https://news.ycombinator.com/item?id=43803724) - [Stuffed-Na(a)N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
 * [2025-04-26, 13:56:34](https://news.ycombinator.com/item?id=43803659) - [Thank you for holding my duck (2021)](https://naml.us/post/thank-you-for-holding-my-duck/)
@@ -17,7 +18,6 @@
 * [2025-04-26, 01:38:54](https://news.ycombinator.com/item?id=43800151) - [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/)
 * [2025-04-26, 01:03:40](https://news.ycombinator.com/item?id=43800002) - [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
 * [2025-04-26, 00:30:41](https://news.ycombinator.com/item?id=43799820) - [I wrote a book called \"Crap Towns\". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
-* [2025-04-26, 00:26:48](https://news.ycombinator.com/item?id=43799802) - [Your phone isn't secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
 * [2025-04-25, 23:48:44](https://news.ycombinator.com/item?id=43799557) - [Fifteen new giant radio galaxies discovered with ASKAP](https://phys.org/news/2025-04-fifteen-giant-radio-galaxies-askap.html)
 * [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 * [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia’s nonprofit status questioned by D.C. U.S. attorney](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
