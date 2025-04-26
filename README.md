@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-26, 13:38:25](https://news.ycombinator.com/item?id=43803518) - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
+* [2025-04-26, 13:31:48](https://news.ycombinator.com/item?id=43803473) - [Build your own antisocial writing rig with DOS and a $2 USB key](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/)
+* [2025-04-26, 12:51:41](https://news.ycombinator.com/item?id=43803148) - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
 * [2025-04-26, 12:00:38](https://news.ycombinator.com/item?id=43802839) - [Freshpaint (YC S19) is hiring back end and front end engineers (Remote, US only)](https://news.ycombinator.com/item?id=43802839)
 * [2025-04-26, 11:41:21](https://news.ycombinator.com/item?id=43802727) - [The Friendship Recession: The Lost Art of Connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
 * [2025-04-26, 11:30:20](https://news.ycombinator.com/item?id=43802675) - [Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling](https://www.morpheus-research.com/backblaze/)
@@ -7,7 +10,6 @@
 * [2025-04-26, 09:14:27](https://news.ycombinator.com/item?id=43802063) - [Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/)
 * [2025-04-26, 08:49:29](https://news.ycombinator.com/item?id=43801959) - [ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation)
 * [2025-04-26, 08:39:29](https://news.ycombinator.com/item?id=43801906) - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
-* [2025-04-26, 06:50:37](https://news.ycombinator.com/item?id=43801461) - [Apparently Bluesky has one centralized service, the \"relay\"](https://mastodon.online/@mastodonmigration/114399534536933573)
 * [2025-04-26, 06:42:59](https://news.ycombinator.com/item?id=43801439) - [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
 * [2025-04-26, 05:31:52](https://news.ycombinator.com/item?id=43801179) - [Cloth](https://www.cloudofoz.com/verlet-test/)
 * [2025-04-26, 03:09:47](https://news.ycombinator.com/item?id=43800574) - [Show HN: Empty Enter Expander – Type less in the terminal with this tool](https://github.com/waszabi/empty-enter-expander)
@@ -27,9 +29,7 @@
 * [2025-04-25, 15:01:37](https://news.ycombinator.com/item?id=43794284) - [A $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
-* [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC 15.1](https://gcc.gnu.org/gcc-15/)
 * [2025-04-25, 10:05:39](https://news.ycombinator.com/item?id=43791992) - [Show HN: I used OpenAI's new image API for a personalized coloring book service](https://clevercoloringbook.com/)
-* [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding skill atrophy in the age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 
 ## [Archives](archives/index.md)
 
