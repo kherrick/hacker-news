@@ -16,7 +16,6 @@
 * [2025-04-26, 17:52:09](https://news.ycombinator.com/item?id=43805672) - [TPSV, an Alternative to TSV (and CSV)](https://chtenb.dev/?page=tpsv)
 * [2025-04-26, 17:13:18](https://news.ycombinator.com/item?id=43805369) - [The Seven-Year Rule](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/)
 * [2025-04-26, 17:12:15](https://news.ycombinator.com/item?id=43805358) - [HTTP Feeds: a minimal specification for polling events over HTTP](https://www.http-feeds.org/)
-* [2025-04-26, 16:57:48](https://news.ycombinator.com/item?id=43805238) - [University of Waterloo withholds coding contest results over suspected AI use](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/)
 * [2025-04-26, 15:26:59](https://news.ycombinator.com/item?id=43804443) - [Goenums: Type Safe Enum Generator for Go](https://github.com/zarldev/goenums)
 * [2025-04-26, 14:04:01](https://news.ycombinator.com/item?id=43803724) - [Stuffed-Na(a)N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
 * [2025-04-26, 13:56:34](https://news.ycombinator.com/item?id=43803659) - [Thank you for holding my duck (2021)](https://naml.us/post/thank-you-for-holding-my-duck/)
@@ -30,6 +29,7 @@
 * [2025-04-26, 01:38:54](https://news.ycombinator.com/item?id=43800151) - [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/)
 * [2025-04-26, 00:26:48](https://news.ycombinator.com/item?id=43799802) - [Your phone isn't secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
 * [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
+* [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding skill atrophy in the age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 
 ## [Archives](archives/index.md)
 
