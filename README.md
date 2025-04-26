@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-26, 16:57:48](https://news.ycombinator.com/item?id=43805238) - [University of Waterloo withholds coding contest results over suspected AI use](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/)
 * [2025-04-26, 14:04:01](https://news.ycombinator.com/item?id=43803724) - [Stuffed-Na(a)N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
 * [2025-04-26, 13:56:34](https://news.ycombinator.com/item?id=43803659) - [Thank you for holding my duck (2021)](https://naml.us/post/thank-you-for-holding-my-duck/)
 * [2025-04-26, 13:38:25](https://news.ycombinator.com/item?id=43803518) - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
@@ -13,7 +14,6 @@
 * [2025-04-26, 08:39:29](https://news.ycombinator.com/item?id=43801906) - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
 * [2025-04-26, 06:42:59](https://news.ycombinator.com/item?id=43801439) - [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
 * [2025-04-26, 05:31:52](https://news.ycombinator.com/item?id=43801179) - [Cloth](https://www.cloudofoz.com/verlet-test/)
-* [2025-04-26, 04:43:03](https://news.ycombinator.com/item?id=43801000) - [Catastrophic fires and soil degradation: possible link with Neolithic revolution](https://link.springer.com/article/10.1007/s11368-025-04021-x)
 * [2025-04-26, 01:38:54](https://news.ycombinator.com/item?id=43800151) - [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/)
 * [2025-04-26, 01:03:40](https://news.ycombinator.com/item?id=43800002) - [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
 * [2025-04-26, 00:30:41](https://news.ycombinator.com/item?id=43799820) - [I wrote a book called \"Crap Towns\". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
