@@ -19,6 +19,7 @@
 * [2025-04-26, 19:16:28](https://news.ycombinator.com/item?id=43806308) - [Women rely partly on smell when choosing friends](https://arstechnica.com/science/2025/04/smells-like-teen-friendship-how-scent-influences-social-choices/)
 * [2025-04-26, 19:14:28](https://news.ycombinator.com/item?id=43806296) - [Tilt: dev environment as code](https://github.com/tilt-dev/tilt)
 * [2025-04-26, 19:13:40](https://news.ycombinator.com/item?id=43806291) - [Ask HN: Why do we celebrate AI-Copilots but reject AI–Generated art?](https://news.ycombinator.com/item?id=43806291)
+* [2025-04-26, 19:12:20](https://news.ycombinator.com/item?id=43806281) - [BART's Anime Mascots](https://www.bart.gov/news/fun/anime)
 * [2025-04-26, 18:26:16](https://news.ycombinator.com/item?id=43805972) - [Show HN: Rocal UI – A simple template engine with Rust](https://github.com/rocal-dev/rocal/tree/main/rocal_ui)
 * [2025-04-26, 17:58:16](https://news.ycombinator.com/item?id=43805729) - [Barlow's Principles of Adult Behaviour](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html)
 * [2025-04-26, 17:53:12](https://news.ycombinator.com/item?id=43805683) - [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
