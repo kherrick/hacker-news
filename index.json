@@ -51,6 +51,36 @@
   ],
   [
     [
+      "2025-04-26, 19:14:28",
+      "https://news.ycombinator.com/item?id=43806296"
+    ],
+    [
+      "Tilt: dev environment as code",
+      "https://github.com/tilt-dev/tilt"
+    ]
+  ],
+  [
+    [
+      "2025-04-26, 19:13:40",
+      "https://news.ycombinator.com/item?id=43806291"
+    ],
+    [
+      "Ask HN: Why do we celebrate AI-Copilots but reject AI–Generated art?",
+      "https://news.ycombinator.com/item?id=43806291"
+    ]
+  ],
+  [
+    [
+      "2025-04-26, 18:26:16",
+      "https://news.ycombinator.com/item?id=43805972"
+    ],
+    [
+      "Show HN: Rocal UI – A simple template engine with Rust",
+      "https://github.com/rocal-dev/rocal/tree/main/rocal_ui"
+    ]
+  ],
+  [
+    [
       "2025-04-26, 17:58:16",
       "https://news.ycombinator.com/item?id=43805729"
     ],
@@ -77,6 +107,16 @@
     [
       "The Seven-Year Rule",
       "https://www.macsparky.com/blog/2025/04/the-seven-year-rule/"
+    ]
+  ],
+  [
+    [
+      "2025-04-26, 16:57:48",
+      "https://news.ycombinator.com/item?id=43805238"
+    ],
+    [
+      "University of Waterloo withholds coding contest results over suspected AI use",
+      "https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/"
     ]
   ],
   [
@@ -155,7 +195,7 @@
       "https://news.ycombinator.com/item?id=43802727"
     ],
     [
-      "The Friendship Recession: The Lost Art of Connecting",
+      "The Friendship Recession: The lost art of connecting",
       "https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting"
     ]
   ],
@@ -221,32 +261,12 @@
   ],
   [
     [
-      "2025-04-26, 00:26:48",
-      "https://news.ycombinator.com/item?id=43799802"
-    ],
-    [
-      "Your phone isn't secretly listening to you, but the truth is more disturbing",
-      "https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/"
-    ]
-  ],
-  [
-    [
       "2025-04-25, 23:48:44",
       "https://news.ycombinator.com/item?id=43799557"
     ],
     [
       "Fifteen new giant radio galaxies discovered with ASKAP",
       "https://phys.org/news/2025-04-fifteen-giant-radio-galaxies-askap.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 23:19:56",
-      "https://news.ycombinator.com/item?id=43799396"
-    ],
-    [
-      "Parallel ./configure",
-      "https://tavianator.com/2025/configure.html"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-04-25, 18:49:30",
-      "https://news.ycombinator.com/item?id=43797256"
-    ],
-    [
-      "Show HN: Formalizing Principia Mathematica using Lean",
-      "https://github.com/ndrwnaguib/principia"
-    ]
-  ],
-  [
-    [
       "2025-04-25, 18:20:53",
       "https://news.ycombinator.com/item?id=43796935"
     ],
     [
       "Lossless LLM compression for efficient GPU inference via dynamic-length float",
       "https://arxiv.org/abs/2504.11651"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 16:14:08",
-      "https://news.ycombinator.com/item?id=43795300"
-    ],
-    [
-      "Reproducibility project fails to validate dozens of biomedical studies",
-      "https://www.nature.com/articles/d41586-025-01266-x"
     ]
   ]
 ]
