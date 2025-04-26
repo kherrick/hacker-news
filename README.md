@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-26, 22:34:16](https://news.ycombinator.com/item?id=43807813) - [In DOGE's Hunt for Imaginary Censors, It Kills Actual Anti-Censorship Research](https://www.techdirt.com/2025/04/25/in-doges-hunt-for-imaginary-censors-it-kills-actual-anti-censorship-research/)
 * [2025-04-26, 22:24:04](https://news.ycombinator.com/item?id=43807753) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 * [2025-04-26, 20:43:22](https://news.ycombinator.com/item?id=43807029) - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
@@ -30,6 +29,7 @@
 * [2025-04-26, 01:38:54](https://news.ycombinator.com/item?id=43800151) - [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/)
 * [2025-04-26, 00:26:48](https://news.ycombinator.com/item?id=43799802) - [Your phone isn't secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
 * [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
+* [2025-04-25, 08:30:54](https://news.ycombinator.com/item?id=43791474) - [Avoiding skill atrophy in the age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
 
 ## [Archives](archives/index.md)
 
