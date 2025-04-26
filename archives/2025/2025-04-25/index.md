@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
 * [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
+* [2025-04-25, 23:04:54](https://news.ycombinator.com/item?id=43799306) - [ACM's flagship magazine seeks submissions by/for practitioners](https://cacm.acm.org/practice/call-for-papers-cacm-practice-section/)
 * [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia's nonprofit status threatened by DC U.S. Attorney Ed Martin](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
 * [2025-04-25, 22:46:38](https://news.ycombinator.com/item?id=43799196) - [Simons Foundation Launches Collaboration on Ecological Neuroscience](https://www.simonsfoundation.org/2025/04/24/simons-foundation-launches-collaboration-on-ecological-neuroscience)
 * [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools](https://docs.tscircuit.com/tutorials/building-led-matrix)

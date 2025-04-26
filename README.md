@@ -6,6 +6,7 @@
 * [2025-04-26, 00:26:48](https://news.ycombinator.com/item?id=43799802) - [Your phone isn't secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
 * [2025-04-26, 00:08:14](https://news.ycombinator.com/item?id=43799697) - [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
 * [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
+* [2025-04-25, 23:04:54](https://news.ycombinator.com/item?id=43799306) - [ACM's flagship magazine seeks submissions by/for practitioners](https://cacm.acm.org/practice/call-for-papers-cacm-practice-section/)
 * [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia’s nonprofit status questioned by D.C. U.S. attorney](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
 * [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I designed my LED matrix PCB with code](https://docs.tscircuit.com/tutorials/building-led-matrix)
 * [2025-04-25, 21:33:57](https://news.ycombinator.com/item?id=43798757) - [World Emulation via Neural Network](https://madebyoll.in/posts/world_emulation_via_dnn/)
@@ -29,7 +30,6 @@
 * [2025-04-25, 08:15:18](https://news.ycombinator.com/item?id=43791385) - [Large language models, small labor market effects [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf)
 * [2025-04-24, 22:35:01](https://news.ycombinator.com/item?id=43788255) - [A Love Letter to People Who Believe in People](https://www.swiss-miss.com/2025/04/a-love-letter-to-people-who-believe-in-people.html)
 * [2025-04-24, 05:05:45](https://news.ycombinator.com/item?id=43779398) - [The VTech Socratic Method](https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html)
-* [2025-04-23, 23:11:39](https://news.ycombinator.com/item?id=43777677) - [Echo – Open Hardware Music Player](https://github.com/amachronic/echoplayer)
 
 ## [Archives](archives/index.md)
 
