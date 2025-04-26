@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-26, 05:02:39](https://news.ycombinator.com/item?id=43801082) - [A tuition-free school created by Zuckerberg and Chan will shutter next year](https://www.cnn.com/2025/04/25/tech/chan-zuckerberg-primary-school-closing/index.html)
 * [2025-04-26, 03:09:47](https://news.ycombinator.com/item?id=43800574) - [Show HN: Empty Enter Expander – Type less in the terminal with this tool](https://github.com/waszabi/empty-enter-expander)
 * [2025-04-26, 01:52:32](https://news.ycombinator.com/item?id=43800222) - [Colossal Cave Adventure (1976)](https://github.com/wh0am1-dev/adventure)
 * [2025-04-26, 01:39:28](https://news.ycombinator.com/item?id=43800153) - [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/)
@@ -25,7 +26,6 @@
 * [2025-04-25, 14:42:27](https://news.ycombinator.com/item?id=43794110) - [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
 * [2025-04-25, 13:48:30](https://news.ycombinator.com/item?id=43793526) - [Writing \"/etc/hosts\" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
-* [2025-04-25, 13:18:17](https://news.ycombinator.com/item?id=43793280) - [The Policy Puppetry Prompt: Novel bypass for major LLMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/)
 * [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC 15.1](https://gcc.gnu.org/gcc-15/)
 * [2025-04-25, 10:05:39](https://news.ycombinator.com/item?id=43791992) - [Show HN: I used OpenAI's new image API for a personalized coloring book service](https://clevercoloringbook.com/)
 * [2025-04-25, 08:15:18](https://news.ycombinator.com/item?id=43791385) - [Large language models, small labor market effects [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf)
