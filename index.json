@@ -1,22 +1,32 @@
 [
   [
     [
-      "2025-04-25, 23:03:55",
-      "https://news.ycombinator.com/item?id=43799302"
+      "2025-04-26, 00:30:41",
+      "https://news.ycombinator.com/item?id=43799820"
     ],
     [
-      "Wikipedia's nonprofit status threatened by DC U.S. Attorney Ed Martin",
-      "https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/"
+      "I wrote a book called \"Crap Towns\". It seemed funny at the time",
+      "https://samj.substack.com/p/that-joke-isnt-funny-any-more"
     ]
   ],
   [
     [
-      "2025-04-25, 22:46:38",
-      "https://news.ycombinator.com/item?id=43799196"
+      "2025-04-25, 23:19:56",
+      "https://news.ycombinator.com/item?id=43799396"
     ],
     [
-      "Simons Foundation Launches Collaboration on Ecological Neuroscience",
-      "https://www.simonsfoundation.org/2025/04/24/simons-foundation-launches-collaboration-on-ecological-neuroscience"
+      "Parallel ./configure",
+      "https://tavianator.com/2025/configure.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-25, 23:03:55",
+      "https://news.ycombinator.com/item?id=43799302"
+    ],
+    [
+      "Wikipedia’s nonprofit status questioned by D.C. U.S. attorney",
+      "https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43798757"
     ],
     [
-      "World Emulation via DNN",
+      "World Emulation via Neural Network",
       "https://madebyoll.in/posts/world_emulation_via_dnn/"
     ]
   ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2025-04-25, 19:39:15",
-      "https://news.ycombinator.com/item?id=43797774"
+      "2025-04-25, 19:37:04",
+      "https://news.ycombinator.com/item?id=43797750"
     ],
     [
-      "Tales of the Yucca Man (2018)",
-      "https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/"
+      "Rockets, robots and supercars made in Greece",
+      "https://greekanalyst.substack.com/p/rockets-robots-and-supercars-made"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Echo – Open Hardware Music Player",
       "https://github.com/amachronic/echoplayer"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 21:01:48",
-      "https://news.ycombinator.com/item?id=43766263"
-    ],
-    [
-      "Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]",
-      "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf"
     ]
   ]
 ]
