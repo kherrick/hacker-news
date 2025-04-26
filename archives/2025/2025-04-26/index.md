@@ -6,6 +6,7 @@
 
 * [2025-04-26, 13:38:25](https://news.ycombinator.com/item?id=43803518) - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
 * [2025-04-26, 13:31:48](https://news.ycombinator.com/item?id=43803473) - [Build your own antisocial writing rig with DOS and a $2 USB key](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/)
+* [2025-04-26, 13:04:08](https://news.ycombinator.com/item?id=43803243) - [Watching o3 guess a photo's location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
 * [2025-04-26, 12:51:41](https://news.ycombinator.com/item?id=43803148) - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
 * [2025-04-26, 12:00:38](https://news.ycombinator.com/item?id=43802839) - [Freshpaint (YC S19) is hiring back end and front end engineers (Remote, US only)](https://news.ycombinator.com/item?id=43802839)
 * [2025-04-26, 11:41:21](https://news.ycombinator.com/item?id=43802727) - [The Friendship Recession: The Lost Art of Connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)

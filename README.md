@@ -2,6 +2,7 @@
 
 * [2025-04-26, 13:38:25](https://news.ycombinator.com/item?id=43803518) - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
 * [2025-04-26, 13:31:48](https://news.ycombinator.com/item?id=43803473) - [Build your own antisocial writing rig with DOS and a $2 USB key](https://www.theregister.com/2025/04/26/dos_distraction_free_writing/)
+* [2025-04-26, 13:04:08](https://news.ycombinator.com/item?id=43803243) - [Watching o3 guess a photo's location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
 * [2025-04-26, 12:51:41](https://news.ycombinator.com/item?id=43803148) - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
 * [2025-04-26, 12:00:38](https://news.ycombinator.com/item?id=43802839) - [Freshpaint (YC S19) is hiring back end and front end engineers (Remote, US only)](https://news.ycombinator.com/item?id=43802839)
 * [2025-04-26, 11:41:21](https://news.ycombinator.com/item?id=43802727) - [The Friendship Recession: The Lost Art of Connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
@@ -21,7 +22,6 @@
 * [2025-04-26, 00:08:14](https://news.ycombinator.com/item?id=43799697) - [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
 * [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 * [2025-04-25, 23:03:55](https://news.ycombinator.com/item?id=43799302) - [Wikipedia’s nonprofit status questioned by D.C. U.S. attorney](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
-* [2025-04-25, 21:43:33](https://news.ycombinator.com/item?id=43798832) - [I designed my LED matrix PCB with code](https://docs.tscircuit.com/tutorials/building-led-matrix)
 * [2025-04-25, 21:33:57](https://news.ycombinator.com/item?id=43798757) - [World Emulation via Neural Network](https://madebyoll.in/posts/world_emulation_via_dnn/)
 * [2025-04-25, 18:49:30](https://news.ycombinator.com/item?id=43797256) - [Show HN: Formalizing Principia Mathematica using Lean](https://github.com/ndrwnaguib/principia)
 * [2025-04-25, 18:20:53](https://news.ycombinator.com/item?id=43796935) - [Lossless LLM compression for efficient GPU inference via dynamic-length float](https://arxiv.org/abs/2504.11651)
