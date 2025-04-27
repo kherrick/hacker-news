@@ -8,6 +8,7 @@
 * [2025-04-27, 13:05:36](https://news.ycombinator.com/item?id=43811640) - [Irishman's universal evolution theory challenges accepted cosmology](https://www.irishtimes.com/science/space/2025/04/24/beyond-the-big-bang-irishmans-universal-evolution-theory-challenges-accepted-cosmology/)
 * [2025-04-27, 12:49:59](https://news.ycombinator.com/item?id=43811561) - [Accidentally Turing-Complete](https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
 * [2025-04-27, 12:34:30](https://news.ycombinator.com/item?id=43811487) - [Ask HN: Memory-Safe Low Level Languages](https://news.ycombinator.com/item?id=43811487)
+* [2025-04-27, 12:24:04](https://news.ycombinator.com/item?id=43811432) - [Show HN: A Common Lisp implementation in development, supports ASDF](https://savannah.nongnu.org/p/alisp)
 * [2025-04-27, 12:23:23](https://news.ycombinator.com/item?id=43811426) - [America's nuclear arsenal to cost $946B over next decade](https://breakingdefense.com/2025/04/americas-nuclear-arsenal-to-cost-946b-over-next-decade-government-report-reveals/)
 * [2025-04-27, 12:16:59](https://news.ycombinator.com/item?id=43811400) - [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 * [2025-04-27, 12:09:02](https://news.ycombinator.com/item?id=43811351) - [Doge is building a master database for immigration enforcement, sources say](https://www.cnn.com/2025/04/25/politics/doge-building-master-database-immigration/index.html)
