@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 19:35:55](https://news.ycombinator.com/item?id=43814497) - [Business co-founders in tech startups are less valuable than they think](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/)
 * [2025-04-27, 19:29:31](https://news.ycombinator.com/item?id=43814461) - [NSA sought to curb university cryptography research in 1983 (MIT report, PDF)](https://archive.org/details/1983-03-09-27-27_202504)
+* [2025-04-27, 19:26:34](https://news.ycombinator.com/item?id=43814433) - [Internet in a Box](https://internet-in-a-box.org/)
 * [2025-04-27, 19:16:43](https://news.ycombinator.com/item?id=43814380) - [Walmart plans EV Charging network which will blanket the US within a few years](https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/)
 * [2025-04-27, 19:16:01](https://news.ycombinator.com/item?id=43814377) - [Show HN: Flow.diy – a super duper simple flowchart maker](https://www.flow.diy)
 * [2025-04-27, 18:42:54](https://news.ycombinator.com/item?id=43814146) - [Trump's new tariffs are placing administrative burden on Customs agents](https://timesofsandiego.com/politics/2025/04/25/trumps-new-tariffs-are-placing-huge-administrative-burden-on-customs-agents/)
@@ -33,6 +35,7 @@
 * [2025-04-27, 14:56:56](https://news.ycombinator.com/item?id=43812379) - [We're building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 * [2025-04-27, 14:44:56](https://news.ycombinator.com/item?id=43812318) - [Time to quit your pointless job, become morally ambitious and change the world](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world)
+* [2025-04-27, 13:48:17](https://news.ycombinator.com/item?id=43811908) - [Unauthorized Experiment on CMV Involving AI-Generated Comments](https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/)
 * [2025-04-27, 13:42:40](https://news.ycombinator.com/item?id=43811864) - [Former Disney employee who hacked Disney World menus sentenced to 3 years](https://databreaches.net/2025/04/24/former-disney-employeedwho-hacked-disney-world-restaurant-menus-in-revenge-sentenced-to-3-years-in-federal-prison/)
 * [2025-04-27, 13:21:56](https://news.ycombinator.com/item?id=43811736) - [Show HN: Lil digi – play a platformer game as yourself](https://www.lildigi.me/)
 * [2025-04-27, 13:21:23](https://news.ycombinator.com/item?id=43811732) - [Wikipedia: Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
