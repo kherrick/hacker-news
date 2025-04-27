@@ -6,6 +6,7 @@
 
 * [2025-04-27, 10:25:21](https://news.ycombinator.com/item?id=43810831) - [Meta's 'Digital Companions' Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf)
 * [2025-04-27, 09:23:23](https://news.ycombinator.com/item?id=43810561) - [U.S. autism data project sparks uproar over ethics, privacy and intent](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/)
+* [2025-04-27, 08:38:47](https://news.ycombinator.com/item?id=43810403) - ['Going to the cloud' could also mean locking into a forever sub-contractor](https://berthub.eu/articles/posts/beware-cloud-is-part-of-the-software/)
 * [2025-04-27, 08:16:19](https://news.ycombinator.com/item?id=43810320) - [Why Sedans Disappeared](https://twitter.com/pitdesi/status/1916120249176358950)
 * [2025-04-27, 07:21:09](https://news.ycombinator.com/item?id=43810094) - ['Tech entrepreneur took our money but failed to deliver our startup dreams'](https://www.bbc.co.uk/news/articles/cwy6nky0x89o)
 * [2025-04-27, 06:45:54](https://news.ycombinator.com/item?id=43809921) - [Taxonomy of Failure Mode in Agentic AI Systems [pdf]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)

@@ -2,6 +2,7 @@
 
 * [2025-04-27, 10:25:21](https://news.ycombinator.com/item?id=43810831) - [Meta's 'Digital Companions' Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf)
 * [2025-04-27, 09:23:23](https://news.ycombinator.com/item?id=43810561) - [U.S. autism data project sparks uproar over ethics, privacy and intent](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/)
+* [2025-04-27, 08:38:47](https://news.ycombinator.com/item?id=43810403) - ['Going to the cloud' could also mean locking into a forever sub-contractor](https://berthub.eu/articles/posts/beware-cloud-is-part-of-the-software/)
 * [2025-04-27, 07:21:09](https://news.ycombinator.com/item?id=43810094) - ['Tech entrepreneur took our money but failed to deliver our startup dreams'](https://www.bbc.co.uk/news/articles/cwy6nky0x89o)
 * [2025-04-27, 06:42:50](https://news.ycombinator.com/item?id=43809915) - [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
 * [2025-04-27, 06:25:44](https://news.ycombinator.com/item?id=43809841) - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
@@ -22,7 +23,6 @@
 * [2025-04-26, 20:02:06](https://news.ycombinator.com/item?id=43806630) - [The Passing of Ucbvax (1994)](http://ucbvax.berkeley.edu/passing-of-ucbvax.txt)
 * [2025-04-26, 19:43:52](https://news.ycombinator.com/item?id=43806491) - [Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)](https://www.pagetable.com/?p=43)
 * [2025-04-26, 19:12:20](https://news.ycombinator.com/item?id=43806281) - [BART's Anime Mascots](https://www.bart.gov/news/fun/anime)
-* [2025-04-26, 17:12:15](https://news.ycombinator.com/item?id=43805358) - [HTTP Feeds: a minimal specification for polling events over HTTP](https://www.http-feeds.org/)
 * [2025-04-26, 14:04:01](https://news.ycombinator.com/item?id=43803724) - [Stuffed-Na(a)N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
 * [2025-04-26, 13:04:08](https://news.ycombinator.com/item?id=43803243) - [Watching o3 guess a photo's location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
 * [2025-04-26, 12:51:41](https://news.ycombinator.com/item?id=43803148) - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
