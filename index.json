@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2025-04-27, 17:13:33",
+      "https://news.ycombinator.com/item?id=43813455"
+    ],
+    [
+      "DMCA Notices Can Silence Critics but Complaints by the Public Put All at Risk",
+      "https://torrentfreak.com/dmca-notices-can-silence-critics-but-public-complaints-are-chaotic-250427/"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 17:11:52",
+      "https://news.ycombinator.com/item?id=43813441"
+    ],
+    [
+      "What's the Deal with Autism Rates?",
+      "https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 17:00:46",
       "https://news.ycombinator.com/item?id=43813336"
     ],
@@ -127,16 +147,6 @@
     [
       "TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant",
       "https://tmuxai.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 15:15:40",
-      "https://news.ycombinator.com/item?id=43812500"
-    ],
-    [
-      "Show HN: Logchef – Schema-agnostic log viewer for ClickHouse",
-      "https://github.com/mr-karan/logchef"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2025-04-26, 22:00:40",
+      "https://news.ycombinator.com/item?id=43807593"
+    ],
+    [
+      "Anatomy of a SQL Engine",
+      "https://www.dolthub.com/blog/2025-04-25-sql-engine-anatomy/"
+    ]
+  ],
+  [
+    [
       "2025-04-26, 21:32:37",
       "https://news.ycombinator.com/item?id=43807404"
     ],
     [
       "Bare metal printf – C standard library without OS",
       "https://popovicu.com/posts/bare-metal-printf/"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 13:04:08",
-      "https://news.ycombinator.com/item?id=43803243"
-    ],
-    [
-      "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
-      "https://simonwillison.net/2025/Apr/26/o3-photo-locations/"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 12:51:41",
-      "https://news.ycombinator.com/item?id=43803148"
-    ],
-    [
-      "Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad",
-      "https://github.com/joexbayer/RetrOS-32"
     ]
   ]
 ]
