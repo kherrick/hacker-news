@@ -4,7 +4,7 @@
 * [2025-04-27, 05:23:44](https://news.ycombinator.com/item?id=43809630) - [Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]](https://www.youtube.com/watch?v=rHOwhkHv21U)
 * [2025-04-27, 05:20:11](https://news.ycombinator.com/item?id=43809610) - [Tipping: How Gratuity Replaced Fair Wages in U.S. Restaurants](https://www.7shifts.com/blog/history-of-tipping-restaurants/)
 * [2025-04-27, 04:44:43](https://news.ycombinator.com/item?id=43809484) - [CSS Zen Garden](https://csszengarden.com/)
-* [2025-04-27, 04:24:43](https://news.ycombinator.com/item?id=43809417) - [Deepfake porn is destroying real lives in South Korea](https://www.cnn.com/2025/04/25/asia/south-korea-deepfake-crimes-intl-hnk-dst/index.html)
+* [2025-04-27, 03:34:20](https://news.ycombinator.com/item?id=43809257) - [9front \"clause 15 common elements of maus and star type\" released](https://9front.org/releases/2025/04/26/0/)
 * [2025-04-27, 02:52:18](https://news.ycombinator.com/item?id=43809092) - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
 * [2025-04-27, 01:40:26](https://news.ycombinator.com/item?id=43808803) - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
 * [2025-04-27, 01:18:03](https://news.ycombinator.com/item?id=43808671) - [CONL: \"Markdown\" for your config files](https://cirw.in/blog/conl)
