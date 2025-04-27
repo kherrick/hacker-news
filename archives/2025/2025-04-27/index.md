@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 07:21:09](https://news.ycombinator.com/item?id=43810094) - ['Tech entrepreneur took our money but failed to deliver our startup dreams'](https://www.bbc.co.uk/news/articles/cwy6nky0x89o)
 * [2025-04-27, 06:45:54](https://news.ycombinator.com/item?id=43809921) - [Taxonomy of Failure Mode in Agentic AI Systems [pdf]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
+* [2025-04-27, 06:42:50](https://news.ycombinator.com/item?id=43809915) - [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
 * [2025-04-27, 06:25:44](https://news.ycombinator.com/item?id=43809841) - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
 * [2025-04-27, 05:25:51](https://news.ycombinator.com/item?id=43809638) - [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
 * [2025-04-27, 05:23:44](https://news.ycombinator.com/item?id=43809630) - [Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]](https://www.youtube.com/watch?v=rHOwhkHv21U)
