@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 23:53:59](https://news.ycombinator.com/item?id=43808294) - [I Tried Windows Gaming on a Mac and It's Amazing](https://www.andrewethanzeng.com/i-tried-windows-gaming-on-a-macand-its-amazing/)
 * [2025-04-26, 23:04:23](https://news.ycombinator.com/item?id=43808046) - [Solar Orbiter's widest high-res view of the Sun](https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun)
 * [2025-04-26, 22:42:46](https://news.ycombinator.com/item?id=43807883) - [SDR Television](https://www.sdr-radio.com/sdr-television-beta-1)
 * [2025-04-26, 22:34:16](https://news.ycombinator.com/item?id=43807813) - [In DOGE's Hunt for Imaginary Censors, It Kills Actual Anti-Censorship Research](https://www.techdirt.com/2025/04/25/in-doges-hunt-for-imaginary-censors-it-kills-actual-anti-censorship-research/)
 * [2025-04-26, 22:24:04](https://news.ycombinator.com/item?id=43807753) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-26, 22:16:15](https://news.ycombinator.com/item?id=43807702) - [Big brands are officially worried about American shoppers](https://www.npr.org/2025/04/25/nx-s1-5375820/big-brands-tariffs-us-spending-consumers)
+* [2025-04-26, 22:00:40](https://news.ycombinator.com/item?id=43807593) - [Anatomy of a SQL Engine](https://www.dolthub.com/blog/2025-04-25-sql-engine-anatomy/)
 * [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 * [2025-04-26, 21:10:14](https://news.ycombinator.com/item?id=43807245) - [The lost secrets of Palm webOS (2014)](https://www.theverge.com/2014/1/2/5264580/the-lost-secrets-of-webos)
 * [2025-04-26, 20:43:22](https://news.ycombinator.com/item?id=43807029) - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
