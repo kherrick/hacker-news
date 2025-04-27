@@ -5,9 +5,13 @@
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
 * [2025-04-27, 11:40:37](https://news.ycombinator.com/item?id=43811199) - [Manly Jobs for Manly Men](https://vpostrel.substack.com/p/wanted-manly-jobs-for-manly-men)
+* [2025-04-27, 11:33:44](https://news.ycombinator.com/item?id=43811160) - [Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics (2018)](https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html)
 * [2025-04-27, 11:21:23](https://news.ycombinator.com/item?id=43811105) - [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
+* [2025-04-27, 11:02:32](https://news.ycombinator.com/item?id=43811016) - [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev)
+* [2025-04-27, 10:31:47](https://news.ycombinator.com/item?id=43810862) - [Windows \"inetpub\" security fix can be abused to block future updates](https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/)
 * [2025-04-27, 10:25:21](https://news.ycombinator.com/item?id=43810831) - [Meta's 'Digital Companions' Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf)
 * [2025-04-27, 10:01:46](https://news.ycombinator.com/item?id=43810724) - [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/)
+* [2025-04-27, 09:25:36](https://news.ycombinator.com/item?id=43810566) - [ZFS: Apple's New Filesystem that wasn't (2016)](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/)
 * [2025-04-27, 09:23:23](https://news.ycombinator.com/item?id=43810561) - [U.S. autism data project sparks uproar over ethics, privacy and intent](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/)
 * [2025-04-27, 08:38:47](https://news.ycombinator.com/item?id=43810403) - ['Going to the cloud' could also mean locking into a forever sub-contractor](https://berthub.eu/articles/posts/beware-cloud-is-part-of-the-software/)
 * [2025-04-27, 08:16:19](https://news.ycombinator.com/item?id=43810320) - [Why Sedans Disappeared](https://twitter.com/pitdesi/status/1916120249176358950)
