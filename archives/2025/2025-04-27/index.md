@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 23:37:47](https://news.ycombinator.com/item?id=43816078) - [The American democratic republic has died. It was 236 years old](https://www.sfchronicle.com/opinion/openforum/article/us-democracy-dies-trump-236-years-20292708.php)
+* [2025-04-27, 23:36:33](https://news.ycombinator.com/item?id=43816071) - [I wouldn't get into a Tesla Robotaxi](https://substack.com/@theahura/note/c-112383923)
 * [2025-04-27, 23:07:51](https://news.ycombinator.com/item?id=43815891) - [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
 * [2025-04-27, 22:29:31](https://news.ycombinator.com/item?id=43815653) - [Here's how to get ChatGPT to stop being an overly flattering yes man](https://old.reddit.com/r/ChatGPT/comments/1k8vomo/heres_how_to_get_chatgpt_to_stop_being_an_overly/)
 * [2025-04-27, 22:14:32](https://news.ycombinator.com/item?id=43815558) - [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley)

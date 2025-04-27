@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-27, 23:37:47](https://news.ycombinator.com/item?id=43816078) - [The American democratic republic has died. It was 236 years old](https://www.sfchronicle.com/opinion/openforum/article/us-democracy-dies-trump-236-years-20292708.php)
+* [2025-04-27, 23:36:33](https://news.ycombinator.com/item?id=43816071) - [I wouldn't get into a Tesla Robotaxi](https://substack.com/@theahura/note/c-112383923)
 * [2025-04-27, 23:07:51](https://news.ycombinator.com/item?id=43815891) - [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
 * [2025-04-27, 22:29:31](https://news.ycombinator.com/item?id=43815653) - [Here's how to get ChatGPT to stop being an overly flattering yes man](https://old.reddit.com/r/ChatGPT/comments/1k8vomo/heres_how_to_get_chatgpt_to_stop_being_an_overly/)
 * [2025-04-27, 22:14:32](https://news.ycombinator.com/item?id=43815558) - [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley)
-* [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
 * [2025-04-27, 22:06:38](https://news.ycombinator.com/item?id=43815511) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/)
 * [2025-04-27, 22:06:31](https://news.ycombinator.com/item?id=43815510) - [Computer Architects Can't Find the Average](https://dgsq.net/2025-04-27-averages/)
 * [2025-04-27, 21:04:13](https://news.ycombinator.com/item?id=43815116) - [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
@@ -27,7 +28,6 @@
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse geocoding is hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 * [2025-04-27, 12:16:59](https://news.ycombinator.com/item?id=43811400) - [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 * [2025-04-27, 11:02:32](https://news.ycombinator.com/item?id=43811016) - [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev)
-* [2025-04-27, 10:01:46](https://news.ycombinator.com/item?id=43810724) - [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/)
 * [2025-04-27, 06:25:44](https://news.ycombinator.com/item?id=43809841) - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
 * [2025-04-26, 02:49:54](https://news.ycombinator.com/item?id=43800472) - [Still standing](https://blog.4chan.org/post/781845918774394880/still-standing)
 
