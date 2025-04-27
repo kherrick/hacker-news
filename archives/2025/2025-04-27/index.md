@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 20:04:28](https://news.ycombinator.com/item?id=43814683) - [Suicide Reverberates Among Young Doctors](https://www.wsj.com/health/medical-residents-working-conditions-young-doctor-suicide-3dc61495)
 * [2025-04-27, 19:35:55](https://news.ycombinator.com/item?id=43814497) - [Business co-founders in tech startups are less valuable than they think](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/)
 * [2025-04-27, 19:29:31](https://news.ycombinator.com/item?id=43814461) - [NSA sought to curb university cryptography research in 1983 (MIT report, PDF)](https://archive.org/details/1983-03-09-27-27_202504)
 * [2025-04-27, 19:26:34](https://news.ycombinator.com/item?id=43814433) - [Internet in a Box](https://internet-in-a-box.org/)
