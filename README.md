@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-27, 08:16:19](https://news.ycombinator.com/item?id=43810320) - [Why Sedans Disappeared](https://twitter.com/pitdesi/status/1916120249176358950)
 * [2025-04-27, 07:21:09](https://news.ycombinator.com/item?id=43810094) - ['Tech entrepreneur took our money but failed to deliver our startup dreams'](https://www.bbc.co.uk/news/articles/cwy6nky0x89o)
 * [2025-04-27, 06:42:50](https://news.ycombinator.com/item?id=43809915) - [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
 * [2025-04-27, 06:25:44](https://news.ycombinator.com/item?id=43809841) - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
@@ -16,7 +17,6 @@
 * [2025-04-26, 22:24:04](https://news.ycombinator.com/item?id=43807753) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-26, 22:00:40](https://news.ycombinator.com/item?id=43807593) - [Anatomy of a SQL Engine](https://www.dolthub.com/blog/2025-04-25-sql-engine-anatomy/)
 * [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
-* [2025-04-26, 20:43:22](https://news.ycombinator.com/item?id=43807029) - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
 * [2025-04-26, 20:23:32](https://news.ycombinator.com/item?id=43806838) - [Slinky-Coil Dipole (2021)](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
 * [2025-04-26, 20:09:04](https://news.ycombinator.com/item?id=43806691) - [Dad and the Egg Controller (2018)](https://www.pentadact.com/2018-12-18-dad-and-the-egg-controller/)
 * [2025-04-26, 20:02:06](https://news.ycombinator.com/item?id=43806630) - [The Passing of Ucbvax (1994)](http://ucbvax.berkeley.edu/passing-of-ucbvax.txt)

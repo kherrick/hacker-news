@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 08:16:19](https://news.ycombinator.com/item?id=43810320) - [Why Sedans Disappeared](https://twitter.com/pitdesi/status/1916120249176358950)
 * [2025-04-27, 07:21:09](https://news.ycombinator.com/item?id=43810094) - ['Tech entrepreneur took our money but failed to deliver our startup dreams'](https://www.bbc.co.uk/news/articles/cwy6nky0x89o)
 * [2025-04-27, 06:45:54](https://news.ycombinator.com/item?id=43809921) - [Taxonomy of Failure Mode in Agentic AI Systems [pdf]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
 * [2025-04-27, 06:42:50](https://news.ycombinator.com/item?id=43809915) - [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
