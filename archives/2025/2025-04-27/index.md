@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 12:49:59](https://news.ycombinator.com/item?id=43811561) - [Accidentally Turing-Complete](https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
+* [2025-04-27, 12:34:30](https://news.ycombinator.com/item?id=43811487) - [Ask HN: Memory-Safe Low Level Languages](https://news.ycombinator.com/item?id=43811487)
+* [2025-04-27, 12:23:23](https://news.ycombinator.com/item?id=43811426) - [America's nuclear arsenal to cost $946B over next decade](https://breakingdefense.com/2025/04/americas-nuclear-arsenal-to-cost-946b-over-next-decade-government-report-reveals/)
+* [2025-04-27, 12:16:59](https://news.ycombinator.com/item?id=43811400) - [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 * [2025-04-27, 11:40:37](https://news.ycombinator.com/item?id=43811199) - [Manly Jobs for Manly Men](https://vpostrel.substack.com/p/wanted-manly-jobs-for-manly-men)
 * [2025-04-27, 11:33:44](https://news.ycombinator.com/item?id=43811160) - [Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics (2018)](https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html)
 * [2025-04-27, 11:21:23](https://news.ycombinator.com/item?id=43811105) - [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
+* [2025-04-27, 11:10:51](https://news.ycombinator.com/item?id=43811057) - [Top Patenting Powerhouses of 2024](https://spectrum.ieee.org/patent-power-2025)
 * [2025-04-27, 11:02:32](https://news.ycombinator.com/item?id=43811016) - [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev)
 * [2025-04-27, 10:31:47](https://news.ycombinator.com/item?id=43810862) - [Windows \"inetpub\" security fix can be abused to block future updates](https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/)
 * [2025-04-27, 10:25:21](https://news.ycombinator.com/item?id=43810831) - [Meta's 'Digital Companions' Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf)
