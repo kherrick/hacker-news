@@ -7,6 +7,8 @@
 * [2025-04-27, 05:20:11](https://news.ycombinator.com/item?id=43809610) - [Tipping: How Gratuity Replaced Fair Wages in U.S. Restaurants](https://www.7shifts.com/blog/history-of-tipping-restaurants/)
 * [2025-04-27, 04:59:52](https://news.ycombinator.com/item?id=43809528) - [The End of Programming](https://cacm.acm.org/opinion/the-end-of-programming/)
 * [2025-04-27, 04:44:43](https://news.ycombinator.com/item?id=43809484) - [CSS Zen Garden](https://csszengarden.com/)
+* [2025-04-27, 04:24:43](https://news.ycombinator.com/item?id=43809417) - [Deepfake porn is destroying real lives in South Korea](https://www.cnn.com/2025/04/25/asia/south-korea-deepfake-crimes-intl-hnk-dst/index.html)
+* [2025-04-27, 03:35:56](https://news.ycombinator.com/item?id=43809262) - [4chan was still running on a version of FreeBSD from 2019](https://www.securitronlinux.com/bejiitaswrath/4chan-was-still-running-on-a-version-of-freebsd-from-2019/)
 * [2025-04-27, 03:34:20](https://news.ycombinator.com/item?id=43809257) - [9front \"clause 15 common elements of maus and star type\" released](https://9front.org/releases/2025/04/26/0/)
 * [2025-04-27, 03:31:27](https://news.ycombinator.com/item?id=43809241) - [Gold Is So Popular It's Making People Nervous](https://www.bloomberg.com/news/newsletters/2025-04-26/gold-is-so-popular-it-s-making-people-nervous-merryn-talks-money)
 * [2025-04-27, 03:22:00](https://news.ycombinator.com/item?id=43809203) - [Hundreds of smartphone apps are monitoring users through their microphones](https://www.the-independent.com/tech/smartphone-apps-listening-privacy-alphonso-shazam-advertising-pool-3d-honey-quest-a8139451.html)
