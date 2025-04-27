@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 17:11:52](https://news.ycombinator.com/item?id=43813441) - [What's the Deal with Autism Rates?](https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates)
 * [2025-04-27, 17:06:27](https://news.ycombinator.com/item?id=43813389) - [YC founder points out that jobs exist outside of working for police state](https://bird.makeup/users/paulg/statuses/1913338841068404903)
 * [2025-04-27, 17:00:46](https://news.ycombinator.com/item?id=43813336) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-04-27, 17:00:29](https://news.ycombinator.com/item?id=43813330) - [Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed](https://github.com/zumerlab/snapdom)
