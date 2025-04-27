@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
 * [2025-04-27, 21:40:20](https://news.ycombinator.com/item?id=43815354) - [How the idea of stripping citizenship for crimes spread across Europe](https://www.theguardian.com/world/2025/apr/26/how-idea-of-stripping-citizenship-for-crimes-spread-across-europe)
 * [2025-04-27, 21:21:50](https://news.ycombinator.com/item?id=43815247) - [Why \"Learn to code\" Failed [PolyMatter] [video]](https://www.youtube.com/watch?v=bThPluSzlDU)
 * [2025-04-27, 21:04:13](https://news.ycombinator.com/item?id=43815116) - [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
 * [2025-04-27, 21:03:47](https://news.ycombinator.com/item?id=43815113) - [What Air Defenses Do the Houthis in Yemen Have?](https://www.twz.com/news-features/what-air-defenses-do-the-houthis-in-yemen-actually-have)
+* [2025-04-27, 20:59:26](https://news.ycombinator.com/item?id=43815083) - [Cut: Chattanooga Civic User Testing](https://cut.chattanooga.gov/)
 * [2025-04-27, 20:56:44](https://news.ycombinator.com/item?id=43815069) - [Thoughts Upon Slavery (1774)](https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000091/000000/000001/restricted/2002_09_10/wesley/thoughtsuponslavery.html#1)
 * [2025-04-27, 20:53:03](https://news.ycombinator.com/item?id=43815044) - [How a Pipe Organ Works](https://www.pipedreams.org/page/how-a-pipe-organ-works)
 * [2025-04-27, 20:51:20](https://news.ycombinator.com/item?id=43815033) - [AI Coding assistants provide little value because a programmer's job is to think](https://www.doliver.org/articles/programming-is-a-thinkers-game)
+* [2025-04-27, 20:08:38](https://news.ycombinator.com/item?id=43814708) - [I Just Want to Code](https://www.zachbellay.com/daily/i-just-want-to-code/)
 * [2025-04-27, 20:04:28](https://news.ycombinator.com/item?id=43814683) - [Suicide Reverberates Among Young Doctors](https://www.wsj.com/health/medical-residents-working-conditions-young-doctor-suicide-3dc61495)
 * [2025-04-27, 19:35:55](https://news.ycombinator.com/item?id=43814497) - [Business co-founders in tech startups are less valuable than they think](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/)
 * [2025-04-27, 19:29:31](https://news.ycombinator.com/item?id=43814461) - [NSA sought to curb university cryptography research in 1983 (MIT report, PDF)](https://archive.org/details/1983-03-09-27-27_202504)
