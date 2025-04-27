@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-27, 05:23:44",
+      "https://news.ycombinator.com/item?id=43809630"
+    ],
+    [
+      "Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]",
+      "https://www.youtube.com/watch?v=rHOwhkHv21U"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 05:20:11",
       "https://news.ycombinator.com/item?id=43809610"
     ],
@@ -27,16 +37,6 @@
     [
       "Deepfake porn is destroying real lives in South Korea",
       "https://www.cnn.com/2025/04/25/asia/south-korea-deepfake-crimes-intl-hnk-dst/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 03:35:56",
-      "https://news.ycombinator.com/item?id=43809262"
-    ],
-    [
-      "4chan was still running on a version of FreeBSD from 2019",
-      "https://www.securitronlinux.com/bejiitaswrath/4chan-was-still-running-on-a-version-of-freebsd-from-2019/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-04-26, 13:38:25",
+      "https://news.ycombinator.com/item?id=43803518"
+    ],
+    [
+      "LLMs can see and hear without any training",
+      "https://github.com/facebookresearch/MILS"
+    ]
+  ],
+  [
+    [
       "2025-04-26, 13:04:08",
       "https://news.ycombinator.com/item?id=43803243"
     ],
@@ -287,16 +297,6 @@
     [
       "Cloth",
       "https://www.cloudofoz.com/verlet-test/"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 00:26:48",
-      "https://news.ycombinator.com/item?id=43799802"
-    ],
-    [
-      "Your phone isn't secretly listening to you, but the truth is more disturbing",
-      "https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/"
     ]
   ]
 ]
