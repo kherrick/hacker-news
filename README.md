@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-27, 13:21:23](https://news.ycombinator.com/item?id=43811732) - [Wikipedia: Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
-* [2025-04-27, 13:05:36](https://news.ycombinator.com/item?id=43811640) - [Irishman's universal evolution theory challenges accepted cosmology](https://www.irishtimes.com/science/space/2025/04/24/beyond-the-big-bang-irishmans-universal-evolution-theory-challenges-accepted-cosmology/)
-* [2025-04-27, 12:34:30](https://news.ycombinator.com/item?id=43811487) - [Ask HN: Memory-Safe Low Level Languages](https://news.ycombinator.com/item?id=43811487)
+* [2025-04-27, 12:23:23](https://news.ycombinator.com/item?id=43811426) - [America's nuclear arsenal to cost $946B over next decade](https://breakingdefense.com/2025/04/americas-nuclear-arsenal-to-cost-946b-over-next-decade-government-report-reveals/)
 * [2025-04-27, 12:16:59](https://news.ycombinator.com/item?id=43811400) - [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 * [2025-04-27, 11:33:44](https://news.ycombinator.com/item?id=43811160) - [Microsoft Word 5.5 And 6.0 In-depth DOS Review With Pics (2018)](https://shot97retro.blogspot.com/2018/07/microsoft-word-55-and-60-in-depth-dos.html)
 * [2025-04-27, 11:21:23](https://news.ycombinator.com/item?id=43811105) - [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
@@ -19,6 +18,7 @@
 * [2025-04-27, 01:18:03](https://news.ycombinator.com/item?id=43808671) - [CONL: \"Markdown\" for your config files](https://cirw.in/blog/conl)
 * [2025-04-27, 00:32:23](https://news.ycombinator.com/item?id=43808454) - [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
 * [2025-04-27, 00:30:42](https://news.ycombinator.com/item?id=43808443) - [Icônes](https://icones.js.org/)
+* [2025-04-26, 22:24:04](https://news.ycombinator.com/item?id=43807753) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-26, 22:00:40](https://news.ycombinator.com/item?id=43807593) - [Anatomy of a SQL Engine](https://www.dolthub.com/blog/2025-04-25-sql-engine-anatomy/)
 * [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 * [2025-04-26, 20:09:04](https://news.ycombinator.com/item?id=43806691) - [Dad and the Egg Controller (2018)](https://www.pentadact.com/2018-12-18-dad-and-the-egg-controller/)
