@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-27, 11:40:37](https://news.ycombinator.com/item?id=43811199) - [Manly Jobs for Manly Men](https://vpostrel.substack.com/p/wanted-manly-jobs-for-manly-men)
+* [2025-04-27, 11:21:23](https://news.ycombinator.com/item?id=43811105) - [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
 * [2025-04-27, 10:25:21](https://news.ycombinator.com/item?id=43810831) - [Meta's 'Digital Companions' Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf)
 * [2025-04-27, 10:01:46](https://news.ycombinator.com/item?id=43810724) - [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/)
 * [2025-04-27, 09:23:23](https://news.ycombinator.com/item?id=43810561) - [U.S. autism data project sparks uproar over ethics, privacy and intent](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/)
@@ -8,7 +10,6 @@
 * [2025-04-27, 06:42:50](https://news.ycombinator.com/item?id=43809915) - [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
 * [2025-04-27, 06:25:44](https://news.ycombinator.com/item?id=43809841) - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
 * [2025-04-27, 05:25:51](https://news.ycombinator.com/item?id=43809638) - [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
-* [2025-04-27, 05:23:44](https://news.ycombinator.com/item?id=43809630) - [Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]](https://www.youtube.com/watch?v=rHOwhkHv21U)
 * [2025-04-27, 04:44:43](https://news.ycombinator.com/item?id=43809484) - [CSS Zen Garden (2003–)](https://csszengarden.com/)
 * [2025-04-27, 02:52:18](https://news.ycombinator.com/item?id=43809092) - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
 * [2025-04-27, 01:40:26](https://news.ycombinator.com/item?id=43808803) - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
@@ -19,7 +20,6 @@
 * [2025-04-26, 22:24:04](https://news.ycombinator.com/item?id=43807753) - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
 * [2025-04-26, 22:00:40](https://news.ycombinator.com/item?id=43807593) - [Anatomy of a SQL Engine](https://www.dolthub.com/blog/2025-04-25-sql-engine-anatomy/)
 * [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
-* [2025-04-26, 20:23:32](https://news.ycombinator.com/item?id=43806838) - [Slinky-Coil Dipole (2021)](https://nonstopsystems.com/radio/frank_radio_antenna.htm)
 * [2025-04-26, 20:09:04](https://news.ycombinator.com/item?id=43806691) - [Dad and the Egg Controller (2018)](https://www.pentadact.com/2018-12-18-dad-and-the-egg-controller/)
 * [2025-04-26, 20:02:06](https://news.ycombinator.com/item?id=43806630) - [The Passing of Ucbvax (1994)](http://ucbvax.berkeley.edu/passing-of-ucbvax.txt)
 * [2025-04-26, 19:43:52](https://news.ycombinator.com/item?id=43806491) - [Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)](https://www.pagetable.com/?p=43)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 11:40:37](https://news.ycombinator.com/item?id=43811199) - [Manly Jobs for Manly Men](https://vpostrel.substack.com/p/wanted-manly-jobs-for-manly-men)
+* [2025-04-27, 11:21:23](https://news.ycombinator.com/item?id=43811105) - [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
 * [2025-04-27, 10:25:21](https://news.ycombinator.com/item?id=43810831) - [Meta's 'Digital Companions' Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf)
 * [2025-04-27, 10:01:46](https://news.ycombinator.com/item?id=43810724) - [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/)
 * [2025-04-27, 09:23:23](https://news.ycombinator.com/item?id=43810561) - [U.S. autism data project sparks uproar over ethics, privacy and intent](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/)
