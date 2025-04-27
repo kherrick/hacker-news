@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 16:40:30](https://news.ycombinator.com/item?id=43813175) - [The Creativity Hack No One Told You About: Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
+* [2025-04-27, 16:27:57](https://news.ycombinator.com/item?id=43813083) - [Did 5G Kill the IMSI Catcher?](https://zetier.com/5g-imsi-catcher/)
 * [2025-04-27, 16:22:50](https://news.ycombinator.com/item?id=43813036) - [How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph)
+* [2025-04-27, 16:18:49](https://news.ycombinator.com/item?id=43812995) - [Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS](https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md)
 * [2025-04-27, 16:02:46](https://news.ycombinator.com/item?id=43812856) - [Virginia passes law to enforce maximum vehicle speeds for repeat speeders](https://www.fastcompany.com/91323835/virginia-will-use-technology-to-slow-chronic-speeders-cars-and-other-states-are-rushing-to-join-in)
 * [2025-04-27, 15:47:31](https://news.ycombinator.com/item?id=43812742) - [Disney worker who hacked menus gets 3 years in prison](https://www.nytimes.com/2025/04/26/us/disney-worker-prison-hacking.html)
 * [2025-04-27, 15:16:51](https://news.ycombinator.com/item?id=43812513) - [Earth's oceans used to be green, and they could turn purple next](https://newatlas.com/science/earths-oceans-used-to-be-green-and-they-could-turn-purple-next/)

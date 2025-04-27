@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-27, 16:40:30](https://news.ycombinator.com/item?id=43813175) - [The Creativity Hack No One Told You About: Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
+* [2025-04-27, 16:27:57](https://news.ycombinator.com/item?id=43813083) - [Did 5G Kill the IMSI Catcher?](https://zetier.com/5g-imsi-catcher/)
 * [2025-04-27, 16:22:50](https://news.ycombinator.com/item?id=43813036) - [How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph)
+* [2025-04-27, 16:18:49](https://news.ycombinator.com/item?id=43812995) - [Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS](https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md)
 * [2025-04-27, 16:02:46](https://news.ycombinator.com/item?id=43812856) - [Virginia passes law to enforce maximum vehicle speeds for repeat speeders](https://www.fastcompany.com/91323835/virginia-will-use-technology-to-slow-chronic-speeders-cars-and-other-states-are-rushing-to-join-in)
 * [2025-04-27, 15:47:31](https://news.ycombinator.com/item?id=43812742) - [Disney worker who hacked menus gets 3 years in prison](https://www.nytimes.com/2025/04/26/us/disney-worker-prison-hacking.html)
-* [2025-04-27, 15:16:51](https://news.ycombinator.com/item?id=43812513) - [Earth's oceans used to be green, and they could turn purple next](https://newatlas.com/science/earths-oceans-used-to-be-green-and-they-could-turn-purple-next/)
 * [2025-04-27, 14:56:56](https://news.ycombinator.com/item?id=43812379) - [We're building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 * [2025-04-27, 13:42:40](https://news.ycombinator.com/item?id=43811864) - [Former Disney employee who hacked Disney World menus sentenced to 3 years](https://databreaches.net/2025/04/24/former-disney-employeedwho-hacked-disney-world-restaurant-menus-in-revenge-sentenced-to-3-years-in-federal-prison/)
@@ -26,9 +28,7 @@
 * [2025-04-26, 19:43:52](https://news.ycombinator.com/item?id=43806491) - [Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)](https://www.pagetable.com/?p=43)
 * [2025-04-26, 13:04:08](https://news.ycombinator.com/item?id=43803243) - [Watching o3 guess a photo's location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
 * [2025-04-26, 12:51:41](https://news.ycombinator.com/item?id=43803148) - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
-* [2025-04-26, 11:41:21](https://news.ycombinator.com/item?id=43802727) - [The Friendship Recession: The lost art of connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
 * [2025-04-26, 08:39:29](https://news.ycombinator.com/item?id=43801906) - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
-* [2025-04-26, 06:42:59](https://news.ycombinator.com/item?id=43801439) - [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
 * [2025-04-26, 05:31:52](https://news.ycombinator.com/item?id=43801179) - [Cloth](https://www.cloudofoz.com/verlet-test/)
 
 ## [Archives](archives/index.md)
