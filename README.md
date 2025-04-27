@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-27, 21:03:47](https://news.ycombinator.com/item?id=43815113) - [What Air Defenses Do the Houthis in Yemen Have?](https://www.twz.com/news-features/what-air-defenses-do-the-houthis-in-yemen-actually-have)
 * [2025-04-27, 20:04:28](https://news.ycombinator.com/item?id=43814683) - [Suicide Reverberates Among Young Doctors](https://www.wsj.com/health/medical-residents-working-conditions-young-doctor-suicide-3dc61495)
 * [2025-04-27, 19:35:55](https://news.ycombinator.com/item?id=43814497) - [Business co-founders in tech startups are less valuable than they think](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/)
 * [2025-04-27, 19:26:34](https://news.ycombinator.com/item?id=43814433) - [Internet in a Box](https://internet-in-a-box.org/)
@@ -16,7 +17,6 @@
 * [2025-04-27, 15:43:01](https://news.ycombinator.com/item?id=43812699) - [Calibrations Have a Context-Collapse Problem](https://www.oldschoolburke.com/011-calibrations-have-a-context-collapse-problem/)
 * [2025-04-27, 15:37:07](https://news.ycombinator.com/item?id=43812658) - [Unlocking Ractors: Object_id](https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html)
 * [2025-04-27, 15:35:32](https://news.ycombinator.com/item?id=43812646) - [TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant](https://tmuxai.dev/)
-* [2025-04-27, 15:15:40](https://news.ycombinator.com/item?id=43812500) - [Show HN: Logchef – Schema-agnostic log viewer for ClickHouse](https://github.com/mr-karan/logchef)
 * [2025-04-27, 15:10:06](https://news.ycombinator.com/item?id=43812459) - [The Coming Knowledge-Work Supply-Chain Crisis](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply)
 * [2025-04-27, 14:56:56](https://news.ycombinator.com/item?id=43812379) - [We're building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
