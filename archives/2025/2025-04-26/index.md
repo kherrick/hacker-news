@@ -66,6 +66,7 @@
 * [2025-04-26, 04:43:03](https://news.ycombinator.com/item?id=43801000) - [Catastrophic fires and soil degradation: possible link with Neolithic revolution](https://link.springer.com/article/10.1007/s11368-025-04021-x)
 * [2025-04-26, 04:39:02](https://news.ycombinator.com/item?id=43800988) - [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c)
 * [2025-04-26, 03:09:47](https://news.ycombinator.com/item?id=43800574) - [Show HN: Empty Enter Expander – Type less in the terminal with this tool](https://github.com/waszabi/empty-enter-expander)
+* [2025-04-26, 02:49:54](https://news.ycombinator.com/item?id=43800472) - [Still standing](https://blog.4chan.org/post/781845918774394880/still-standing)
 * [2025-04-26, 01:52:32](https://news.ycombinator.com/item?id=43800222) - [Colossal Cave Adventure (1976)](https://github.com/wh0am1-dev/adventure)
 * [2025-04-26, 01:39:28](https://news.ycombinator.com/item?id=43800153) - [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/)
 * [2025-04-26, 01:38:54](https://news.ycombinator.com/item?id=43800151) - [Mobygratis – Free Moby music to empower your creative projects](https://mobygratis.com/)
