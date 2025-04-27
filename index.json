@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-27, 21:21:50",
-      "https://news.ycombinator.com/item?id=43815247"
+      "2025-04-27, 22:08:21",
+      "https://news.ycombinator.com/item?id=43815523"
     ],
     [
-      "Why \"Learn to code\" Failed [PolyMatter] [video]",
-      "https://www.youtube.com/watch?v=bThPluSzlDU"
+      "Ask HN: What are you working on? (April 2025)",
+      "https://news.ycombinator.com/item?id=43815523"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX",
       "https://github.com/mezantrop/i486SX_soft_FPU"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 20:59:26",
+      "https://news.ycombinator.com/item?id=43815083"
+    ],
+    [
+      "Cut: Chattanooga Civic User Testing",
+      "https://cut.chattanooga.gov/"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "AI Coding assistants provide little value because a programmer's job is to think",
       "https://www.doliver.org/articles/programming-is-a-thinkers-game"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 20:08:38",
+      "https://news.ycombinator.com/item?id=43814708"
+    ],
+    [
+      "I Just Want to Code",
+      "https://www.zachbellay.com/daily/i-just-want-to-code/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Open-source interactive C tutorial in the browser",
       "https://www.learn-c.org/"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 01:40:26",
-      "https://news.ycombinator.com/item?id=43808803"
-    ],
-    [
-      "Found a simple tool for database modeling: dbdiagram.io",
-      "https://dbdiagram.io"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 00:30:42",
-      "https://news.ycombinator.com/item?id=43808443"
-    ],
-    [
-      "Icônes",
-      "https://icones.js.org/"
     ]
   ]
 ]
