@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-27, 04:59:52](https://news.ycombinator.com/item?id=43809528) - [The End of Programming](https://cacm.acm.org/opinion/the-end-of-programming/)
+* [2025-04-27, 04:44:43](https://news.ycombinator.com/item?id=43809484) - [CSS Zen Garden](https://csszengarden.com/)
 * [2025-04-27, 03:31:27](https://news.ycombinator.com/item?id=43809241) - [Gold Is So Popular It's Making People Nervous](https://www.bloomberg.com/news/newsletters/2025-04-26/gold-is-so-popular-it-s-making-people-nervous-merryn-talks-money)
 * [2025-04-27, 03:22:00](https://news.ycombinator.com/item?id=43809203) - [Hundreds of smartphone apps are monitoring users through their microphones](https://www.the-independent.com/tech/smartphone-apps-listening-privacy-alphonso-shazam-advertising-pool-3d-honey-quest-a8139451.html)
 * [2025-04-27, 02:52:18](https://news.ycombinator.com/item?id=43809092) - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
@@ -28,8 +30,6 @@
 * [2025-04-26, 08:39:29](https://news.ycombinator.com/item?id=43801906) - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
 * [2025-04-26, 06:42:59](https://news.ycombinator.com/item?id=43801439) - [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
 * [2025-04-26, 05:31:52](https://news.ycombinator.com/item?id=43801179) - [Cloth](https://www.cloudofoz.com/verlet-test/)
-* [2025-04-26, 00:26:48](https://news.ycombinator.com/item?id=43799802) - [Your phone isn't secretly listening to you, but the truth is more disturbing](https://newatlas.com/computers/smartphone-listening-conversations-ads-facebook/)
-* [2025-04-25, 23:19:56](https://news.ycombinator.com/item?id=43799396) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 
 ## [Archives](archives/index.md)
 
