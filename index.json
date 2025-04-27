@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-27, 06:45:54",
+      "https://news.ycombinator.com/item?id=43809921"
+    ],
+    [
+      "Taxonomy of Failure Mode in Agentic AI Systems [pdf]",
+      "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 05:23:44",
       "https://news.ycombinator.com/item?id=43809630"
     ],
@@ -37,6 +47,16 @@
     [
       "Deepfake porn is destroying real lives in South Korea",
       "https://www.cnn.com/2025/04/25/asia/south-korea-deepfake-crimes-intl-hnk-dst/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 03:34:20",
+      "https://news.ycombinator.com/item?id=43809257"
+    ],
+    [
+      "9front \"clause 15 common elements of maus and star type\" released",
+      "https://9front.org/releases/2025/04/26/0/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-04-26, 17:12:15",
-      "https://news.ycombinator.com/item?id=43805358"
-    ],
-    [
-      "HTTP Feeds: a minimal specification for polling events over HTTP",
-      "https://www.http-feeds.org/"
-    ]
-  ],
-  [
-    [
       "2025-04-26, 14:04:01",
       "https://news.ycombinator.com/item?id=43803724"
     ],
     [
       "Stuffed-Na(a)N: stuff your NaNs",
       "https://github.com/si14/stuffed-naan-js"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 13:38:25",
-      "https://news.ycombinator.com/item?id=43803518"
-    ],
-    [
-      "LLMs can see and hear without any training",
-      "https://github.com/facebookresearch/MILS"
     ]
   ],
   [
