@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
 * [2025-04-27, 15:16:51](https://news.ycombinator.com/item?id=43812513) - [Earth's oceans used to be green, and they could turn purple next](https://newatlas.com/science/earths-oceans-used-to-be-green-and-they-could-turn-purple-next/)
+* [2025-04-27, 15:10:44](https://news.ycombinator.com/item?id=43812462) - [What Porn Did to American Culture](https://www.theatlantic.com/newsletters/archive/2025/04/what-porn-did-to-american-culture/682610/)
 * [2025-04-27, 14:56:56](https://news.ycombinator.com/item?id=43812379) - [We're building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 * [2025-04-27, 14:44:56](https://news.ycombinator.com/item?id=43812318) - [Time to quit your pointless job, become morally ambitious and change the world](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world)
+* [2025-04-27, 13:42:40](https://news.ycombinator.com/item?id=43811864) - [Former Disney employee who hacked Disney World menus sentenced to 3 years](https://databreaches.net/2025/04/24/former-disney-employeedwho-hacked-disney-world-restaurant-menus-in-revenge-sentenced-to-3-years-in-federal-prison/)
 * [2025-04-27, 13:21:56](https://news.ycombinator.com/item?id=43811736) - [Show HN: Lil digi – play a platformer game as yourself](https://www.lildigi.me/)
 * [2025-04-27, 13:21:23](https://news.ycombinator.com/item?id=43811732) - [Wikipedia: Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 * [2025-04-27, 13:05:36](https://news.ycombinator.com/item?id=43811640) - [Irishman's universal evolution theory challenges accepted cosmology](https://www.irishtimes.com/science/space/2025/04/24/beyond-the-big-bang-irishmans-universal-evolution-theory-challenges-accepted-cosmology/)
