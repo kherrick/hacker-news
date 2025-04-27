@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-04-27, 22:29:31",
+      "https://news.ycombinator.com/item?id=43815653"
+    ],
+    [
+      "Here's how to get ChatGPT to stop being an overly flattering yes man",
+      "https://old.reddit.com/r/ChatGPT/comments/1k8vomo/heres_how_to_get_chatgpt_to_stop_being_an_overly/"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 22:08:21",
       "https://news.ycombinator.com/item?id=43815523"
     ],
     [
       "Ask HN: What are you working on? (April 2025)",
       "https://news.ycombinator.com/item?id=43815523"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 22:06:38",
+      "https://news.ycombinator.com/item?id=43815511"
+    ],
+    [
+      "Tiny Emulators",
+      "https://floooh.github.io/tiny8bit-preview/"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 22:06:31",
+      "https://news.ycombinator.com/item?id=43815510"
+    ],
+    [
+      "Computer Architects Can't Find the Average",
+      "https://dgsq.net/2025-04-27-averages/"
     ]
   ],
   [
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2025-04-27, 20:51:20",
-      "https://news.ycombinator.com/item?id=43815033"
-    ],
-    [
-      "AI Coding assistants provide little value because a programmer's job is to think",
-      "https://www.doliver.org/articles/programming-is-a-thinkers-game"
-    ]
-  ],
-  [
-    [
       "2025-04-27, 20:08:38",
       "https://news.ycombinator.com/item?id=43814708"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=43814360"
     ],
     [
-      "How a Single Line Of Code Could Brick Your iPhone",
+      "How a single line of code could brick your iPhone",
       "https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone"
     ]
   ],
@@ -107,16 +127,6 @@
     [
       "Show HN: Daily Jailbreak – Prompt Engineer's Wordle",
       "https://www.vaultbreak.ai/daily-jailbreak"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 18:02:22",
-      "https://news.ycombinator.com/item?id=43813879"
-    ],
-    [
-      "Do Large Language Models know who did what to whom?",
-      "https://arxiv.org/abs/2504.16884"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-04-27, 16:22:50",
-      "https://news.ycombinator.com/item?id=43813036"
-    ],
-    [
-      "How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph",
-      "https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph"
-    ]
-  ],
-  [
-    [
       "2025-04-27, 16:18:49",
       "https://news.ycombinator.com/item?id=43812995"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2025-04-27, 15:43:01",
-      "https://news.ycombinator.com/item?id=43812699"
+      "2025-04-27, 16:02:46",
+      "https://news.ycombinator.com/item?id=43812856"
     ],
     [
-      "Calibrations Have a Context-Collapse Problem",
-      "https://www.oldschoolburke.com/011-calibrations-have-a-context-collapse-problem/"
+      "Virginia passes law to enforce maximum vehicle speeds for repeat speeders",
+      "https://www.fastcompany.com/91323835/virginia-will-use-technology-to-slow-chronic-speeders-cars-and-other-states-are-rushing-to-join-in"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=43812459"
     ],
     [
-      "The Coming Knowledge-Work Supply-Chain Crisis",
+      "The coming knowledge-work supply-chain crisis",
       "https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=43812323"
     ],
     [
-      "Reverse Geocoding Is Hard",
+      "Reverse geocoding is hard",
       "https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/"
     ]
   ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-04-27, 11:02:32",
+      "https://news.ycombinator.com/item?id=43811016"
+    ],
+    [
+      "Show HN: Bhvr, a Bun and Hono and Vite and React Starter",
+      "https://bhvr.dev"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 10:01:46",
       "https://news.ycombinator.com/item?id=43810724"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2025-04-27, 05:25:51",
-      "https://news.ycombinator.com/item?id=43809638"
+      "2025-04-26, 02:49:54",
+      "https://news.ycombinator.com/item?id=43800472"
     ],
     [
-      "How to program a text adventure in C",
-      "https://helderman.github.io/htpataic/htpataic01.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 02:52:18",
-      "https://news.ycombinator.com/item?id=43809092"
-    ],
-    [
-      "Open-source interactive C tutorial in the browser",
-      "https://www.learn-c.org/"
+      "Still standing",
+      "https://blog.4chan.org/post/781845918774394880/still-standing"
     ]
   ]
 ]
