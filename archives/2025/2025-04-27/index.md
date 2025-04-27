@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 03:31:27](https://news.ycombinator.com/item?id=43809241) - [Gold Is So Popular It's Making People Nervous](https://www.bloomberg.com/news/newsletters/2025-04-26/gold-is-so-popular-it-s-making-people-nervous-merryn-talks-money)
+* [2025-04-27, 03:22:00](https://news.ycombinator.com/item?id=43809203) - [Hundreds of smartphone apps are monitoring users through their microphones](https://www.the-independent.com/tech/smartphone-apps-listening-privacy-alphonso-shazam-advertising-pool-3d-honey-quest-a8139451.html)
 * [2025-04-27, 02:52:18](https://news.ycombinator.com/item?id=43809092) - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
 * [2025-04-27, 02:51:55](https://news.ycombinator.com/item?id=43809088) - [Brett Terpstra Is Open to Work](https://brettterpstra.com/2025/04/26/brett-terpstra-is-open-to-work/)
 * [2025-04-27, 01:40:26](https://news.ycombinator.com/item?id=43808803) - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
 * [2025-04-27, 01:24:29](https://news.ycombinator.com/item?id=43808711) - [Prime Number Mystery Is Key to Magic: The Gathering Game Strategy](https://www.scientificamerican.com/article/magic-the-gathering-fans-harness-prime-number-puzzle-as-a-game-strategy/)
+* [2025-04-27, 01:18:03](https://news.ycombinator.com/item?id=43808671) - [CONL: \"Markdown\" for your config files](https://cirw.in/blog/conl)
 * [2025-04-27, 00:32:23](https://news.ycombinator.com/item?id=43808454) - [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
 * [2025-04-27, 00:30:42](https://news.ycombinator.com/item?id=43808443) - [IcôNES](https://icones.js.org/)
 * [2025-04-27, 00:27:50](https://news.ycombinator.com/item?id=43808428) - [Path is a utility for working with paths](https://gitlab.com/SpyrjaGaldr/path)
