@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-27, 19:16:43](https://news.ycombinator.com/item?id=43814380) - [Walmart plans EV Charging network which will blanket the US within a few years](https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/)
+* [2025-04-27, 19:16:01](https://news.ycombinator.com/item?id=43814377) - [Show HN: Flow.diy – a super duper simple flowchart maker](https://www.flow.diy)
+* [2025-04-27, 18:42:54](https://news.ycombinator.com/item?id=43814146) - [Trump's new tariffs are placing administrative burden on Customs agents](https://timesofsandiego.com/politics/2025/04/25/trumps-new-tariffs-are-placing-huge-administrative-burden-on-customs-agents/)
 * [2025-04-27, 18:32:53](https://news.ycombinator.com/item?id=43814080) - [Show HN: Daily Jailbreak – Prompt Engineer's Wordle](https://www.vaultbreak.ai/daily-jailbreak)
 * [2025-04-27, 18:29:41](https://news.ycombinator.com/item?id=43814058) - [OpenBSD 7.7 Released](https://www.openbsd.org/77.html)
 * [2025-04-27, 17:13:33](https://news.ycombinator.com/item?id=43813455) - [DMCA Notices Can Silence Critics but Complaints by the Public Put All at Risk](https://torrentfreak.com/dmca-notices-can-silence-critics-but-public-complaints-are-chaotic-250427/)
@@ -17,7 +19,6 @@
 * [2025-04-27, 15:37:07](https://news.ycombinator.com/item?id=43812658) - [Unlocking Ractors: Object_id](https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html)
 * [2025-04-27, 15:35:32](https://news.ycombinator.com/item?id=43812646) - [TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant](https://tmuxai.dev/)
 * [2025-04-27, 15:10:06](https://news.ycombinator.com/item?id=43812459) - [The Coming Knowledge-Work Supply-Chain Crisis](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply)
-* [2025-04-27, 14:56:56](https://news.ycombinator.com/item?id=43812379) - [We're building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 * [2025-04-27, 13:21:23](https://news.ycombinator.com/item?id=43811732) - [Wikipedia: Database Download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 * [2025-04-27, 12:24:04](https://news.ycombinator.com/item?id=43811432) - [Show HN: A Common Lisp implementation in development, supports ASDF](https://savannah.nongnu.org/p/alisp)
@@ -27,7 +28,6 @@
 * [2025-04-27, 05:25:51](https://news.ycombinator.com/item?id=43809638) - [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
 * [2025-04-27, 02:52:18](https://news.ycombinator.com/item?id=43809092) - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
 * [2025-04-27, 01:40:26](https://news.ycombinator.com/item?id=43808803) - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
-* [2025-04-27, 00:32:23](https://news.ycombinator.com/item?id=43808454) - [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
 * [2025-04-27, 00:30:42](https://news.ycombinator.com/item?id=43808443) - [Icônes](https://icones.js.org/)
 * [2025-04-26, 21:32:37](https://news.ycombinator.com/item?id=43807404) - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 

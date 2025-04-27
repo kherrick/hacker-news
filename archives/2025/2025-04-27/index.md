@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
 * [2025-04-27, 19:16:43](https://news.ycombinator.com/item?id=43814380) - [Walmart plans EV Charging network which will blanket the US within a few years](https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/)
+* [2025-04-27, 19:16:01](https://news.ycombinator.com/item?id=43814377) - [Show HN: Flow.diy – a super duper simple flowchart maker](https://www.flow.diy)
+* [2025-04-27, 18:42:54](https://news.ycombinator.com/item?id=43814146) - [Trump's new tariffs are placing administrative burden on Customs agents](https://timesofsandiego.com/politics/2025/04/25/trumps-new-tariffs-are-placing-huge-administrative-burden-on-customs-agents/)
 * [2025-04-27, 18:32:53](https://news.ycombinator.com/item?id=43814080) - [Show HN: Daily Jailbreak – Prompt Engineer's Wordle](https://www.vaultbreak.ai/daily-jailbreak)
 * [2025-04-27, 18:29:41](https://news.ycombinator.com/item?id=43814058) - [OpenBSD 7.7 Released](https://www.openbsd.org/77.html)
 * [2025-04-27, 17:13:33](https://news.ycombinator.com/item?id=43813455) - [DMCA Notices Can Silence Critics but Complaints by the Public Put All at Risk](https://torrentfreak.com/dmca-notices-can-silence-critics-but-public-complaints-are-chaotic-250427/)
