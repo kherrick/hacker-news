@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
 * [2025-04-27, 21:40:20](https://news.ycombinator.com/item?id=43815354) - [How the idea of stripping citizenship for crimes spread across Europe](https://www.theguardian.com/world/2025/apr/26/how-idea-of-stripping-citizenship-for-crimes-spread-across-europe)
+* [2025-04-27, 21:21:50](https://news.ycombinator.com/item?id=43815247) - [Why \"Learn to code\" Failed [PolyMatter] [video]](https://www.youtube.com/watch?v=bThPluSzlDU)
+* [2025-04-27, 21:04:13](https://news.ycombinator.com/item?id=43815116) - [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
 * [2025-04-27, 21:03:47](https://news.ycombinator.com/item?id=43815113) - [What Air Defenses Do the Houthis in Yemen Have?](https://www.twz.com/news-features/what-air-defenses-do-the-houthis-in-yemen-actually-have)
 * [2025-04-27, 20:56:44](https://news.ycombinator.com/item?id=43815069) - [Thoughts Upon Slavery (1774)](https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000091/000000/000001/restricted/2002_09_10/wesley/thoughtsuponslavery.html#1)
 * [2025-04-27, 20:53:03](https://news.ycombinator.com/item?id=43815044) - [How a Pipe Organ Works](https://www.pipedreams.org/page/how-a-pipe-organ-works)
@@ -19,6 +21,7 @@
 * [2025-04-27, 18:42:54](https://news.ycombinator.com/item?id=43814146) - [Trump's new tariffs are placing administrative burden on Customs agents](https://timesofsandiego.com/politics/2025/04/25/trumps-new-tariffs-are-placing-huge-administrative-burden-on-customs-agents/)
 * [2025-04-27, 18:32:53](https://news.ycombinator.com/item?id=43814080) - [Show HN: Daily Jailbreak – Prompt Engineer's Wordle](https://www.vaultbreak.ai/daily-jailbreak)
 * [2025-04-27, 18:29:41](https://news.ycombinator.com/item?id=43814058) - [OpenBSD 7.7 Released](https://www.openbsd.org/77.html)
+* [2025-04-27, 18:02:22](https://news.ycombinator.com/item?id=43813879) - [Do Large Language Models know who did what to whom?](https://arxiv.org/abs/2504.16884)
 * [2025-04-27, 17:13:33](https://news.ycombinator.com/item?id=43813455) - [DMCA Notices Can Silence Critics but Complaints by the Public Put All at Risk](https://torrentfreak.com/dmca-notices-can-silence-critics-but-public-complaints-are-chaotic-250427/)
 * [2025-04-27, 17:11:52](https://news.ycombinator.com/item?id=43813441) - [What's the Deal with Autism Rates?](https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates)
 * [2025-04-27, 17:06:27](https://news.ycombinator.com/item?id=43813389) - [YC founder points out that jobs exist outside of working for police state](https://bird.makeup/users/paulg/statuses/1913338841068404903)
