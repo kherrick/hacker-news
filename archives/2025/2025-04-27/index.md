@@ -7,6 +7,7 @@
 * [2025-04-27, 17:06:27](https://news.ycombinator.com/item?id=43813389) - [YC founder points out that jobs exist outside of working for police state](https://bird.makeup/users/paulg/statuses/1913338841068404903)
 * [2025-04-27, 17:00:46](https://news.ycombinator.com/item?id=43813336) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-04-27, 17:00:29](https://news.ycombinator.com/item?id=43813330) - [Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed](https://github.com/zumerlab/snapdom)
+* [2025-04-27, 16:42:35](https://news.ycombinator.com/item?id=43813195) - [NASA's Lucy Spacecraft Completes Asteroid Donaldjohanson Flyby](https://science.nasa.gov/blogs/lucy/2025/04/20/nasas-lucy-spacecraft-completes-asteroid-donaldjohanson-flyby/)
 * [2025-04-27, 16:40:30](https://news.ycombinator.com/item?id=43813175) - [The Creativity Hack No One Told You About: Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
 * [2025-04-27, 16:27:57](https://news.ycombinator.com/item?id=43813083) - [Did 5G Kill the IMSI Catcher?](https://zetier.com/5g-imsi-catcher/)
 * [2025-04-27, 16:23:31](https://news.ycombinator.com/item?id=43813046) - [Watching 03 Model Sweat over a Paul Morphy Mate-in-2](https://alexop.dev/posts/how-03-model-tries-chess-puzzle/)
