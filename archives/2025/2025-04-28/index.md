@@ -6,6 +6,7 @@
 
 * [2025-04-28, 14:38:15](https://news.ycombinator.com/item?id=43821996) - [Kids and smartphones – The real threat isn't screen time. It's algorithm time](https://matthewsinclair.com/blog/0179-kids-and-smartphones)
 * [2025-04-28, 13:59:44](https://news.ycombinator.com/item?id=43821600) - [Unauthorised AI Bots on Reddit Are Eroding Sociality](https://mssv.net/2025/04/27/unauthorised-ai-bots-on-r-changemyview-are-eroding-sociality/)
+* [2025-04-28, 13:57:34](https://news.ycombinator.com/item?id=43821578) - [We Found Insurance Fraud in Our Crash Data](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/)
 * [2025-04-28, 12:00:16](https://news.ycombinator.com/item?id=43820408) - [Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam)](https://jobs.ashbyhq.com/optery)
 * [2025-04-28, 11:44:54](https://news.ycombinator.com/item?id=43820228) - [I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
 * [2025-04-28, 11:40:26](https://news.ycombinator.com/item?id=43820177) - [Spain, Portugal and parts of France hit by power outage](https://www.euronews.com/my-europe/2025/04/28/spain-portugal-and-parts-of-france-hit-by-massive-power-outage)
