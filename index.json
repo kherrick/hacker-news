@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-28, 17:05:44",
-      "https://news.ycombinator.com/item?id=43823622"
-    ],
-    [
-      "DeepSeek-R2",
-      "https://deepseek.ai/blog/deepseek-r2-ai-model-launch-2025"
-    ]
-  ],
-  [
-    [
       "2025-04-28, 17:01:20",
       "https://news.ycombinator.com/item?id=43823580"
     ],
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2025-04-28, 07:17:42",
-      "https://news.ycombinator.com/item?id=43818518"
-    ],
-    [
-      "Reversing the Fossilization of Computer Science Conferences",
-      "https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/"
-    ]
-  ],
-  [
-    [
       "2025-04-28, 03:56:46",
       "https://news.ycombinator.com/item?id=43817377"
     ],
@@ -177,16 +157,6 @@
     [
       "The hospital where staff treat fear of death as well as physical pain",
       "https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 02:18:54",
-      "https://news.ycombinator.com/item?id=43816916"
-    ],
-    [
-      "The group chats that changed America",
-      "https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america"
     ]
   ],
   [
@@ -231,12 +201,42 @@
   ],
   [
     [
+      "2025-04-27, 22:14:32",
+      "https://news.ycombinator.com/item?id=43815558"
+    ],
+    [
+      "The suburban office park that launched Silicon Valley",
+      "https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 22:08:21",
       "https://news.ycombinator.com/item?id=43815523"
     ],
     [
       "Ask HN: What are you working on? (April 2025)",
       "https://news.ycombinator.com/item?id=43815523"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 21:04:13",
+      "https://news.ycombinator.com/item?id=43815116"
+    ],
+    [
+      "Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX",
+      "https://github.com/mezantrop/i486SX_soft_FPU"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 20:40:33",
+      "https://news.ycombinator.com/item?id=43814934"
+    ],
+    [
+      "Boxie – an always offline audio player for my 3 year old",
+      "https://mariozechner.at/posts/2025-04-20-boxie/"
     ]
   ],
   [
