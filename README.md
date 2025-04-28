@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-28, 11:40:26](https://news.ycombinator.com/item?id=43820177) - [Spain, Portugal and parts of France hit by power outage](https://www.euronews.com/my-europe/2025/04/28/spain-portugal-and-parts-of-france-hit-by-massive-power-outage)
+* [2025-04-28, 12:00:16](https://news.ycombinator.com/item?id=43820408) - [Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam)](https://jobs.ashbyhq.com/optery)
+* [2025-04-28, 11:44:54](https://news.ycombinator.com/item?id=43820228) - [I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
 * [2025-04-28, 11:37:16](https://news.ycombinator.com/item?id=43820144) - [Making a game from scratch using only a guitar [video]](https://www.youtube.com/watch?v=wesICmc48UE)
+* [2025-04-28, 11:29:39](https://news.ycombinator.com/item?id=43820076) - [Deep dive into how DOS games do copy protection by making themselves unwinnable](https://mrwint.github.io/winter/writeup/writeup.html)
 * [2025-04-28, 11:26:34](https://news.ycombinator.com/item?id=43820043) - [Reports of widespread power cuts in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
 * [2025-04-28, 11:10:19](https://news.ycombinator.com/item?id=43819914) - [Nationwide Power Outages Also Disrupt Internet Traffic in Portugal and Spain](https://twitter.com/CloudflareRadar/status/1916811587408536055)
 * [2025-04-28, 07:17:42](https://news.ycombinator.com/item?id=43818518) - [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
@@ -26,10 +28,8 @@
 * [2025-04-27, 16:40:30](https://news.ycombinator.com/item?id=43813175) - [Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
 * [2025-04-27, 16:27:57](https://news.ycombinator.com/item?id=43813083) - [Did 5G kill the IMSI catcher?](https://zetier.com/5g-imsi-catcher/)
 * [2025-04-27, 16:02:46](https://news.ycombinator.com/item?id=43812856) - [Virginia passes law to enforce maximum vehicle speeds for repeat speeders](https://www.fastcompany.com/91323835/virginia-will-use-technology-to-slow-chronic-speeders-cars-and-other-states-are-rushing-to-join-in)
-* [2025-04-27, 15:35:32](https://news.ycombinator.com/item?id=43812646) - [TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant](https://tmuxai.dev/)
 * [2025-04-27, 15:10:06](https://news.ycombinator.com/item?id=43812459) - [The coming knowledge-work supply-chain crisis](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse geocoding is hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
-* [2025-04-27, 11:02:32](https://news.ycombinator.com/item?id=43811016) - [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev)
 
 ## [Archives](archives/index.md)
 
