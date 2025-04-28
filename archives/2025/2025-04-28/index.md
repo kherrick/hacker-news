@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 18:01:59](https://news.ycombinator.com/item?id=43824193) - [Generating Mazes with Inductive Graphs (2017)](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
+* [2025-04-28, 17:28:09](https://news.ycombinator.com/item?id=43823851) - [Is Outbound Going to Die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
 * [2025-04-28, 17:05:44](https://news.ycombinator.com/item?id=43823622) - [DeepSeek-R2](https://deepseek.ai/blog/deepseek-r2-ai-model-launch-2025)
 * [2025-04-28, 17:05:29](https://news.ycombinator.com/item?id=43823620) - [How I Got Exploited at My First Startup](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell)
 * [2025-04-28, 17:01:20](https://news.ycombinator.com/item?id=43823580) - [Activeloop (YC S18) Is Hiring VP of Engineering in Mountain View (On-Site)](https://careers.activeloop.ai/)
