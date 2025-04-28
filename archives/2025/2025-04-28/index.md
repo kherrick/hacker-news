@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 18:47:36](https://news.ycombinator.com/item?id=43824640) - [Migrating Away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
 * [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
 * [2025-04-28, 18:13:17](https://news.ycombinator.com/item?id=43824297) - [Relational Graph Transformers](https://kumo.ai/research/relational-graph-transformers/)
