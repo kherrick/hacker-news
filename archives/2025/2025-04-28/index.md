@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
 * [2025-04-28, 17:05:44](https://news.ycombinator.com/item?id=43823622) - [DeepSeek-R2](https://deepseek.ai/blog/deepseek-r2-ai-model-launch-2025)
+* [2025-04-28, 17:05:29](https://news.ycombinator.com/item?id=43823620) - [How I Got Exploited at My First Startup](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell)
 * [2025-04-28, 17:01:20](https://news.ycombinator.com/item?id=43823580) - [Activeloop (YC S18) Is Hiring VP of Engineering in Mountain View (On-Site)](https://careers.activeloop.ai/)
 * [2025-04-28, 16:53:36](https://news.ycombinator.com/item?id=43823492) - [Reality Check](https://www.wheresyoured.at/reality-check/)
 * [2025-04-28, 16:53:08](https://news.ycombinator.com/item?id=43823485) - [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)

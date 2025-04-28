@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-28, 17:05:29](https://news.ycombinator.com/item?id=43823620) - [How I Got Exploited at My First Startup](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell)
 * [2025-04-28, 17:01:20](https://news.ycombinator.com/item?id=43823580) - [Activeloop (YC S18) Is Hiring VP of Engineering in Mountain View (On-Site)](https://careers.activeloop.ai/)
 * [2025-04-28, 16:53:36](https://news.ycombinator.com/item?id=43823492) - [Reality Check](https://www.wheresyoured.at/reality-check/)
 * [2025-04-28, 16:53:08](https://news.ycombinator.com/item?id=43823485) - [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
@@ -22,7 +23,6 @@
 * [2025-04-27, 22:19:27](https://news.ycombinator.com/item?id=43815591) - [AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
 * [2025-04-27, 22:14:32](https://news.ycombinator.com/item?id=43815558) - [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley)
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
-* [2025-04-27, 21:04:13](https://news.ycombinator.com/item?id=43815116) - [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
 * [2025-04-27, 20:40:33](https://news.ycombinator.com/item?id=43814934) - [Boxie – an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
 * [2025-04-27, 20:08:38](https://news.ycombinator.com/item?id=43814708) - [I just want to code (2023)](https://www.zachbellay.com/daily/i-just-want-to-code/)
 * [2025-04-27, 19:26:34](https://news.ycombinator.com/item?id=43814433) - [Internet in a Box](https://internet-in-a-box.org/)
