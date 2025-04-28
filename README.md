@@ -27,7 +27,7 @@
 * [2025-04-28, 05:01:10](https://news.ycombinator.com/item?id=43817726) - [Why Momentum Works (2017)](https://distill.pub/2017/momentum/)
 * [2025-04-27, 22:19:26](https://news.ycombinator.com/item?id=43815590) - [Beating the Crowd](https://www.withentropy.com/blog/2025-04-21-beating_the_crowd/)
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
-* [2025-04-27, 20:09:08](https://news.ycombinator.com/item?id=43814716) - [My takeaways from DjangoCon EU 2025](https://www.zachbellay.com/posts/djangocon-eu-2025/)
+* [2025-04-27, 10:45:54](https://news.ycombinator.com/item?id=43810918) - [Comparing Voltage Boosting Circuits](https://blog.georgovassilis.com/2025/04/24/comparing-the-efficiency-of-dc-voltage-boost-circuits/)
 * [2025-04-27, 07:50:07](https://news.ycombinator.com/item?id=43810211) - [Running Clojure in WASM with GraalVM](https://romanliutikov.com/blog/running-clojure-in-wasm)
 * [2025-04-27, 00:18:31](https://news.ycombinator.com/item?id=43808381) - [Co-designing a sparse music codec with ChatGPT o3](https://akuz.me/co-designing-a-sparse-music-codec-with-chatgpt-o3-in-one-day-my-mini-pied-piper.html)
 
