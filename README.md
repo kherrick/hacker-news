@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-28, 07:17:42](https://news.ycombinator.com/item?id=43818518) - [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
 * [2025-04-28, 06:43:50](https://news.ycombinator.com/item?id=43818330) - [Why do electrons not fall into the nucleus?](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Why_atoms_do_not_Collapse)
-* [2025-04-28, 04:48:48](https://news.ycombinator.com/item?id=43817664) - [East German Stasi Tactics – Zersetzung (2021)](https://www.maxhertzberg.co.uk/background/politics/stasi-tactics/)
+* [2025-04-28, 06:16:19](https://news.ycombinator.com/item?id=43818169) - [Naur's \"Programming as Theory Building\" and LLMs replacing human programmers](https://ratfactor.com/cards/naur-vs-llms)
 * [2025-04-28, 04:04:32](https://news.ycombinator.com/item?id=43817423) - [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee)
 * [2025-04-28, 03:56:46](https://news.ycombinator.com/item?id=43817377) - [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
 * [2025-04-28, 01:32:57](https://news.ycombinator.com/item?id=43816697) - [To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
@@ -29,7 +30,6 @@
 * [2025-04-27, 15:10:06](https://news.ycombinator.com/item?id=43812459) - [The coming knowledge-work supply-chain crisis](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse geocoding is hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 * [2025-04-27, 11:02:32](https://news.ycombinator.com/item?id=43811016) - [Show HN: Bhvr, a Bun and Hono and Vite and React Starter](https://bhvr.dev)
-* [2025-04-27, 09:25:36](https://news.ycombinator.com/item?id=43810566) - [ZFS: Apple's new filesystem that wasn't (2016)](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/)
 
 ## [Archives](archives/index.md)
 
