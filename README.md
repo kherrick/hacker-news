@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-28, 15:30:14](https://news.ycombinator.com/item?id=43822575) - [Show HN: Autarkie – Instant Grammar Fuzzing Using Rust Macros](https://github.com/R9295/autarkie)
 * [2025-04-28, 13:57:34](https://news.ycombinator.com/item?id=43821578) - [We Found Insurance Fraud in Our Crash Data](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/)
 * [2025-04-28, 12:00:16](https://news.ycombinator.com/item?id=43820408) - [Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam)](https://jobs.ashbyhq.com/optery)
 * [2025-04-28, 11:44:54](https://news.ycombinator.com/item?id=43820228) - [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
@@ -17,7 +18,6 @@
 * [2025-04-27, 22:19:27](https://news.ycombinator.com/item?id=43815591) - [AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
 * [2025-04-27, 22:14:32](https://news.ycombinator.com/item?id=43815558) - [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley)
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
-* [2025-04-27, 22:06:31](https://news.ycombinator.com/item?id=43815510) - [Computer Architects Can't Find the Average](https://dgsq.net/2025-04-27-averages/)
 * [2025-04-27, 21:04:13](https://news.ycombinator.com/item?id=43815116) - [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
 * [2025-04-27, 20:53:03](https://news.ycombinator.com/item?id=43815044) - [How a Pipe Organ Works (2020)](https://www.pipedreams.org/page/how-a-pipe-organ-works)
 * [2025-04-27, 20:40:33](https://news.ycombinator.com/item?id=43814934) - [Boxie – an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
