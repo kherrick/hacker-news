@@ -7,6 +7,7 @@
 * [2025-04-28, 18:47:36](https://news.ycombinator.com/item?id=43824640) - [Migrating Away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
 * [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
+* [2025-04-28, 18:37:37](https://news.ycombinator.com/item?id=43824534) - [It's Not the Incentives – It's You](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)
 * [2025-04-28, 18:13:17](https://news.ycombinator.com/item?id=43824297) - [Relational Graph Transformers](https://kumo.ai/research/relational-graph-transformers/)
 * [2025-04-28, 18:01:59](https://news.ycombinator.com/item?id=43824193) - [Generating Mazes with Inductive Graphs (2017)](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 * [2025-04-28, 17:58:38](https://news.ycombinator.com/item?id=43824153) - [Giving Software Away for Free](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/)
