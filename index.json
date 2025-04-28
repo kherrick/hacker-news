@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-28, 20:28:10",
-      "https://news.ycombinator.com/item?id=43825743"
-    ],
-    [
-      "The standing power throw is out as new Army fitness test goes 'sex-neutral'",
-      "https://taskandpurpose.com/news/army-fitness-test-sex-neutral/"
-    ]
-  ],
-  [
-    [
       "2025-04-28, 18:47:36",
       "https://news.ycombinator.com/item?id=43824640"
     ],
@@ -27,6 +17,16 @@
     [
       "Show HN: Heart Rate Zones Plus – The first iOS app I ever developed",
       "https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 18:38:46",
+      "https://news.ycombinator.com/item?id=43824544"
+    ],
+    [
+      "Reports of the death of California High-Speed Rail have been greatly exaggerated",
+      "https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated"
     ]
   ],
   [
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-04-28, 17:28:09",
-      "https://news.ycombinator.com/item?id=43823851"
-    ],
-    [
-      "Is outbound going to die?",
-      "https://rnikhil.com/2025/04/25/sales-outbound-ai-dead"
-    ]
-  ],
-  [
-    [
       "2025-04-28, 17:05:29",
       "https://news.ycombinator.com/item?id=43823620"
     ],
@@ -97,6 +87,16 @@
     [
       "Vision Transformers Need Registers",
       "https://arxiv.org/abs/2309.16588"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 16:50:25",
+      "https://news.ycombinator.com/item?id=43823462"
+    ],
+    [
+      "The Books of Earthsea by Ursula K. Le Guin",
+      "https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=43822619"
     ],
     [
-      "Reanimation of the original Logic Theory Machine, the world's first AI, in IPL-V",
+      "Reanimation of the original Logic Theorist, the first AI, in IPL-V [video]",
       "https://www.youtube.com/watch?v=qmE5o2ezqBg"
     ]
   ],
@@ -191,6 +191,26 @@
   ],
   [
     [
+      "2025-04-28, 07:17:42",
+      "https://news.ycombinator.com/item?id=43818518"
+    ],
+    [
+      "Reversing the fossilization of computer science conferences",
+      "https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 06:16:19",
+      "https://news.ycombinator.com/item?id=43818169"
+    ],
+    [
+      "Naur's \"Programming as Theory Building\" and LLMs replacing human programmers",
+      "https://ratfactor.com/cards/naur-vs-llms"
+    ]
+  ],
+  [
+    [
       "2025-04-28, 05:01:10",
       "https://news.ycombinator.com/item?id=43817726"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-04-28, 00:38:53",
-      "https://news.ycombinator.com/item?id=43816419"
-    ],
-    [
-      "Show HN: I made a web-based, free alternative to Screen Studio",
-      "https://www.screenrecorder.me"
-    ]
-  ],
-  [
-    [
       "2025-04-28, 00:19:26",
       "https://news.ycombinator.com/item?id=43816327"
     ],
     [
       "New material gives copper superalloy-like strength",
       "https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 22:19:27",
-      "https://news.ycombinator.com/item?id=43815591"
-    ],
-    [
-      "AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate",
-      "https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate"
     ]
   ],
   [
@@ -271,32 +271,32 @@
   ],
   [
     [
-      "2025-04-27, 19:26:34",
-      "https://news.ycombinator.com/item?id=43814433"
+      "2025-04-27, 20:40:33",
+      "https://news.ycombinator.com/item?id=43814934"
     ],
     [
-      "Internet in a Box",
-      "https://internet-in-a-box.org/"
+      "Boxie – an always offline audio player for my 3 year old",
+      "https://mariozechner.at/posts/2025-04-20-boxie/"
     ]
   ],
   [
     [
-      "2025-04-27, 19:12:43",
-      "https://news.ycombinator.com/item?id=43814360"
+      "2025-04-27, 16:27:57",
+      "https://news.ycombinator.com/item?id=43813083"
     ],
     [
-      "How a single line of code could brick your iPhone",
-      "https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone"
+      "Did 5G kill the IMSI catcher?",
+      "https://zetier.com/5g-imsi-catcher/"
     ]
   ],
   [
     [
-      "2025-04-27, 16:40:30",
-      "https://news.ycombinator.com/item?id=43813175"
+      "2025-04-27, 14:45:36",
+      "https://news.ycombinator.com/item?id=43812323"
     ],
     [
-      "Read the Obits",
-      "https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/"
+      "Reverse geocoding is hard",
+      "https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/"
     ]
   ]
 ]
