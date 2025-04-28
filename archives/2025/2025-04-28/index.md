@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 03:10:59](https://news.ycombinator.com/item?id=43817137) - [The Vietnam War ended 50 years ago, but the battle with Agent Orange continues](https://apnews.com/article/vietnam-war-anniversary-agent-orange-0829caefe48cc11fb88ab27982da922b)
 * [2025-04-28, 02:33:53](https://news.ycombinator.com/item?id=43817000) - [Missteps Equipment Problems and a Common but Risky Practice Led to a Fatal Crash](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
 * [2025-04-28, 02:06:39](https://news.ycombinator.com/item?id=43816853) - [Ask HN: CS Degrees, do they matter again?](https://news.ycombinator.com/item?id=43816853)
 * [2025-04-28, 01:24:13](https://news.ycombinator.com/item?id=43816651) - [Visual Transistor-level Simulation of the 6502 CPU](http://www.visual6502.org/)
