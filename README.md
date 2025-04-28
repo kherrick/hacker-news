@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-28, 16:14:31](https://news.ycombinator.com/item?id=43823096) - [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
 * [2025-04-28, 16:10:21](https://news.ycombinator.com/item?id=43823044) - [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
 * [2025-04-28, 15:55:13](https://news.ycombinator.com/item?id=43822880) - [Why Pale Blue Dot generates feelings of cosmic insignificance](https://aeon.co/essays/why-pale-blue-dot-generates-feelings-of-cosmic-insignificance)
 * [2025-04-28, 15:54:17](https://news.ycombinator.com/item?id=43822868) - [AI Goes to College for the Free Money](https://marginalrevolution.com/marginalrevolution/2025/04/ai-goes-to-college-for-the-free-money.html)
@@ -14,7 +15,7 @@
 * [2025-04-28, 07:17:42](https://news.ycombinator.com/item?id=43818518) - [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
 * [2025-04-28, 03:56:46](https://news.ycombinator.com/item?id=43817377) - [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
 * [2025-04-28, 03:47:13](https://news.ycombinator.com/item?id=43817318) - [The hospital where staff treat fear of death as well as physical pain](https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying)
-* [2025-04-28, 01:32:57](https://news.ycombinator.com/item?id=43816697) - [To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
+* [2025-04-28, 02:18:54](https://news.ycombinator.com/item?id=43816916) - [The group chats that changed America](https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america)
 * [2025-04-28, 01:21:01](https://news.ycombinator.com/item?id=43816634) - [Presentation Slides with Markdown](https://sli.dev)
 * [2025-04-28, 00:38:53](https://news.ycombinator.com/item?id=43816419) - [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
 * [2025-04-28, 00:19:26](https://news.ycombinator.com/item?id=43816327) - [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
@@ -28,7 +29,6 @@
 * [2025-04-27, 19:12:43](https://news.ycombinator.com/item?id=43814360) - [How a single line of code could brick your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
 * [2025-04-27, 16:40:30](https://news.ycombinator.com/item?id=43813175) - [Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
 * [2025-04-27, 16:27:57](https://news.ycombinator.com/item?id=43813083) - [Did 5G kill the IMSI catcher?](https://zetier.com/5g-imsi-catcher/)
-* [2025-04-27, 15:10:06](https://news.ycombinator.com/item?id=43812459) - [The coming knowledge-work supply-chain crisis](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse geocoding is hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 
 ## [Archives](archives/index.md)

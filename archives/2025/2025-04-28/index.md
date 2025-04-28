@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 16:14:31](https://news.ycombinator.com/item?id=43823096) - [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
 * [2025-04-28, 16:10:21](https://news.ycombinator.com/item?id=43823044) - [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
 * [2025-04-28, 15:55:13](https://news.ycombinator.com/item?id=43822880) - [Why Pale Blue Dot generates feelings of cosmic insignificance](https://aeon.co/essays/why-pale-blue-dot-generates-feelings-of-cosmic-insignificance)
 * [2025-04-28, 15:54:17](https://news.ycombinator.com/item?id=43822868) - [AI Goes to College for the Free Money](https://marginalrevolution.com/marginalrevolution/2025/04/ai-goes-to-college-for-the-free-money.html)
@@ -35,6 +36,7 @@
 * [2025-04-28, 03:47:13](https://news.ycombinator.com/item?id=43817318) - [The hospital where staff treat fear of death as well as physical pain](https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying)
 * [2025-04-28, 03:10:59](https://news.ycombinator.com/item?id=43817137) - [The Vietnam War ended 50 years ago, but the battle with Agent Orange continues](https://apnews.com/article/vietnam-war-anniversary-agent-orange-0829caefe48cc11fb88ab27982da922b)
 * [2025-04-28, 02:33:53](https://news.ycombinator.com/item?id=43817000) - [Missteps Equipment Problems and a Common but Risky Practice Led to a Fatal Crash](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
+* [2025-04-28, 02:18:54](https://news.ycombinator.com/item?id=43816916) - [The group chats that changed America](https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america)
 * [2025-04-28, 02:06:39](https://news.ycombinator.com/item?id=43816853) - [Ask HN: CS Degrees, do they matter again?](https://news.ycombinator.com/item?id=43816853)
 * [2025-04-28, 01:32:57](https://news.ycombinator.com/item?id=43816697) - [To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
 * [2025-04-28, 01:24:13](https://news.ycombinator.com/item?id=43816651) - [Visual Transistor-level Simulation of the 6502 CPU](http://www.visual6502.org/)
