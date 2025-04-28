@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 11:39:13](https://news.ycombinator.com/item?id=43820163) - [There are reports of widespread power cuts in Spain and Portugal](https://www.bbc.co.uk/news/live/c9wpq8xrvd9t)
+* [2025-04-28, 11:37:16](https://news.ycombinator.com/item?id=43820144) - [Making a game from scratch using only a guitar [video]](https://www.youtube.com/watch?v=wesICmc48UE)
+* [2025-04-28, 11:26:34](https://news.ycombinator.com/item?id=43820043) - [Reports of widespread power cuts in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
+* [2025-04-28, 11:10:19](https://news.ycombinator.com/item?id=43819914) - [Nationwide Power Outages Also Disrupt Internet Traffic in Portugal and Spain](https://twitter.com/CloudflareRadar/status/1916811587408536055)
 * [2025-04-28, 10:50:58](https://news.ycombinator.com/item?id=43819791) - [Full power outage in Spain and Portugal](https://news.ycombinator.com/item?id=43819791)
 * [2025-04-28, 07:17:42](https://news.ycombinator.com/item?id=43818518) - [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
 * [2025-04-28, 06:43:50](https://news.ycombinator.com/item?id=43818330) - [Why do electrons not fall into the nucleus?](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Why_atoms_do_not_Collapse)
