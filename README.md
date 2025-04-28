@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-28, 03:10:59](https://news.ycombinator.com/item?id=43817137) - [The Vietnam War ended 50 years ago, but the battle with Agent Orange continues](https://apnews.com/article/vietnam-war-anniversary-agent-orange-0829caefe48cc11fb88ab27982da922b)
-* [2025-04-28, 02:06:39](https://news.ycombinator.com/item?id=43816853) - [Ask HN: CS degrees, do they matter again?](https://news.ycombinator.com/item?id=43816853)
+* [2025-04-28, 01:32:57](https://news.ycombinator.com/item?id=43816697) - [To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
 * [2025-04-28, 00:38:53](https://news.ycombinator.com/item?id=43816419) - [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
 * [2025-04-28, 00:19:26](https://news.ycombinator.com/item?id=43816327) - [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
 * [2025-04-27, 23:07:51](https://news.ycombinator.com/item?id=43815891) - [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
