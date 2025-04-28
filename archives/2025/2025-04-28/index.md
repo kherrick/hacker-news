@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 20:44:25](https://news.ycombinator.com/item?id=43825900) - [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)
 * [2025-04-28, 20:28:10](https://news.ycombinator.com/item?id=43825743) - [The standing power throw is out as new Army fitness test goes 'sex-neutral'](https://taskandpurpose.com/news/army-fitness-test-sex-neutral/)
+* [2025-04-28, 20:25:06](https://news.ycombinator.com/item?id=43825716) - [DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/)
+* [2025-04-28, 19:18:41](https://news.ycombinator.com/item?id=43824952) - [OpenAI Adds Shopping to ChatGPT in a Challenge to Google](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)
 * [2025-04-28, 18:47:36](https://news.ycombinator.com/item?id=43824640) - [Migrating Away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
 * [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
