@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-28, 07:17:42",
+      "https://news.ycombinator.com/item?id=43818518"
+    ],
+    [
+      "Reversing the Fossilization of Computer Science Conferences",
+      "https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/"
+    ]
+  ],
+  [
+    [
       "2025-04-28, 06:43:50",
       "https://news.ycombinator.com/item?id=43818330"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-04-28, 04:48:48",
-      "https://news.ycombinator.com/item?id=43817664"
+      "2025-04-28, 06:16:19",
+      "https://news.ycombinator.com/item?id=43818169"
     ],
     [
-      "East German Stasi Tactics – Zersetzung (2021)",
-      "https://www.maxhertzberg.co.uk/background/politics/stasi-tactics/"
+      "Naur's \"Programming as Theory Building\" and LLMs replacing human programmers",
+      "https://ratfactor.com/cards/naur-vs-llms"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Bhvr, a Bun and Hono and Vite and React Starter",
       "https://bhvr.dev"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 09:25:36",
-      "https://news.ycombinator.com/item?id=43810566"
-    ],
-    [
-      "ZFS: Apple's new filesystem that wasn't (2016)",
-      "https://ahl.dtrace.org/2016/06/15/apple_and_zfs/"
     ]
   ]
 ]
