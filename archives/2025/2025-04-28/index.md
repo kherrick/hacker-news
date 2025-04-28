@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 21:39:14](https://news.ycombinator.com/item?id=43826425) - [On Lisp (1993)](https://www.paulgraham.com/onlisptext.html)
 * [2025-04-28, 21:01:59](https://news.ycombinator.com/item?id=43826065) - [Legal art forgery, for the sake of movies](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
+* [2025-04-28, 20:57:49](https://news.ycombinator.com/item?id=43826021) - [Packed Data Support in Haskell](https://arthi-chaud.github.io/posts/packed/)
 * [2025-04-28, 20:44:25](https://news.ycombinator.com/item?id=43825900) - [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)
 * [2025-04-28, 20:34:56](https://news.ycombinator.com/item?id=43825798) - [Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring](https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance)
 * [2025-04-28, 20:28:10](https://news.ycombinator.com/item?id=43825743) - [The standing power throw is out as new Army fitness test goes 'sex-neutral'](https://taskandpurpose.com/news/army-fitness-test-sex-neutral/)
 * [2025-04-28, 20:25:06](https://news.ycombinator.com/item?id=43825716) - [DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/)
 * [2025-04-28, 19:52:02](https://news.ycombinator.com/item?id=43825336) - [One Million Chessboards](https://eieio.games/blog/one-million-chessboards/)
+* [2025-04-28, 19:29:45](https://news.ycombinator.com/item?id=43825070) - [Building Small Go Containers?](https://github.com/randomizedcoder/go_nix_simple)
 * [2025-04-28, 19:18:41](https://news.ycombinator.com/item?id=43824952) - [OpenAI Adds Shopping to ChatGPT in a Challenge to Google](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)
 * [2025-04-28, 18:47:36](https://news.ycombinator.com/item?id=43824640) - [Migrating Away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
