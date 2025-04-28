@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-28, 20:44:25](https://news.ycombinator.com/item?id=43825900) - [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)
+* [2025-04-28, 20:34:56](https://news.ycombinator.com/item?id=43825798) - [Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring](https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance)
 * [2025-04-28, 20:25:06](https://news.ycombinator.com/item?id=43825716) - [DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/)
 * [2025-04-28, 19:18:41](https://news.ycombinator.com/item?id=43824952) - [OpenAI Adds Shopping to ChatGPT in a Challenge to Google](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)
 * [2025-04-28, 18:47:36](https://news.ycombinator.com/item?id=43824640) - [Migrating away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
 * [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
-* [2025-04-28, 18:37:37](https://news.ycombinator.com/item?id=43824534) - [It's Not the Incentives (2018)](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)
 * [2025-04-28, 18:01:59](https://news.ycombinator.com/item?id=43824193) - [Generating Mazes with Inductive Graphs (2017)](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 * [2025-04-28, 17:28:09](https://news.ycombinator.com/item?id=43823851) - [Is outbound going to die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
 * [2025-04-28, 17:05:29](https://news.ycombinator.com/item?id=43823620) - [The side hustle from hell](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell)

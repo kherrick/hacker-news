@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
 * [2025-04-28, 20:44:25](https://news.ycombinator.com/item?id=43825900) - [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)
+* [2025-04-28, 20:34:56](https://news.ycombinator.com/item?id=43825798) - [Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring](https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance)
 * [2025-04-28, 20:28:10](https://news.ycombinator.com/item?id=43825743) - [The standing power throw is out as new Army fitness test goes 'sex-neutral'](https://taskandpurpose.com/news/army-fitness-test-sex-neutral/)
 * [2025-04-28, 20:25:06](https://news.ycombinator.com/item?id=43825716) - [DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/)
 * [2025-04-28, 19:18:41](https://news.ycombinator.com/item?id=43824952) - [OpenAI Adds Shopping to ChatGPT in a Challenge to Google](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)
