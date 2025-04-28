@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-28, 23:12:28](https://news.ycombinator.com/item?id=43827108) - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
+* [2025-04-28, 23:08:50](https://news.ycombinator.com/item?id=43827083) - [Amazon launches first Kuiper internet satellites in bid to take on Starlink](https://www.cnbc.com/2025/04/28/amazon-launches-first-kuiper-satellites-in-bid-to-take-on-starlink.html)
 * [2025-04-28, 21:59:22](https://news.ycombinator.com/item?id=43826586) - [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
 * [2025-04-28, 21:01:59](https://news.ycombinator.com/item?id=43826065) - [Legal art forgery, for the sake of movies](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
 * [2025-04-28, 20:57:49](https://news.ycombinator.com/item?id=43826021) - [Packed Data Support in Haskell](https://arthi-chaud.github.io/posts/packed/)
@@ -20,14 +22,12 @@
 * [2025-04-28, 15:33:32](https://news.ycombinator.com/item?id=43822619) - [Reanimation of the original Logic Theorist, the first AI, in IPL-V [video]](https://www.youtube.com/watch?v=qmE5o2ezqBg)
 * [2025-04-28, 15:30:14](https://news.ycombinator.com/item?id=43822575) - [Show HN: Autarkie – Instant grammar fuzzing using Rust macros](https://github.com/R9295/autarkie)
 * [2025-04-28, 11:44:54](https://news.ycombinator.com/item?id=43820228) - [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
-* [2025-04-28, 11:29:39](https://news.ycombinator.com/item?id=43820076) - [Uncovering the mechanics of The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup.html)
 * [2025-04-28, 11:24:41](https://news.ycombinator.com/item?id=43820022) - [Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers](https://github.com/skyzh/tiny-llm)
 * [2025-04-28, 10:50:58](https://news.ycombinator.com/item?id=43819791) - [Widespread power outage in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
 * [2025-04-28, 05:01:10](https://news.ycombinator.com/item?id=43817726) - [Why Momentum Works (2017)](https://distill.pub/2017/momentum/)
 * [2025-04-27, 22:19:26](https://news.ycombinator.com/item?id=43815590) - [Beating the Crowd](https://www.withentropy.com/blog/2025-04-21-beating_the_crowd/)
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
 * [2025-04-27, 20:09:08](https://news.ycombinator.com/item?id=43814716) - [My takeaways from DjangoCon EU 2025](https://www.zachbellay.com/posts/djangocon-eu-2025/)
-* [2025-04-27, 10:45:54](https://news.ycombinator.com/item?id=43810918) - [Comparing Voltage Boosting Circuits](https://blog.georgovassilis.com/2025/04/24/comparing-the-efficiency-of-dc-voltage-boost-circuits/)
 * [2025-04-27, 07:50:07](https://news.ycombinator.com/item?id=43810211) - [Running Clojure in WASM with GraalVM](https://romanliutikov.com/blog/running-clojure-in-wasm)
 * [2025-04-27, 00:18:31](https://news.ycombinator.com/item?id=43808381) - [Co-designing a sparse music codec with ChatGPT o3](https://akuz.me/co-designing-a-sparse-music-codec-with-chatgpt-o3-in-one-day-my-mini-pied-piper.html)
 

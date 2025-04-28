@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 23:12:28](https://news.ycombinator.com/item?id=43827108) - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
+* [2025-04-28, 23:08:50](https://news.ycombinator.com/item?id=43827083) - [Amazon launches first Kuiper internet satellites in bid to take on Starlink](https://www.cnbc.com/2025/04/28/amazon-launches-first-kuiper-satellites-in-bid-to-take-on-starlink.html)
 * [2025-04-28, 21:59:22](https://news.ycombinator.com/item?id=43826586) - [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
 * [2025-04-28, 21:39:14](https://news.ycombinator.com/item?id=43826425) - [On Lisp (1993)](https://www.paulgraham.com/onlisptext.html)
 * [2025-04-28, 21:01:59](https://news.ycombinator.com/item?id=43826065) - [Legal art forgery, for the sake of movies](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
