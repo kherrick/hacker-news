@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-28, 14:38:15](https://news.ycombinator.com/item?id=43821996) - [Kids and smartphones – The real threat isn't screen time. It's algorithm time](https://matthewsinclair.com/blog/0179-kids-and-smartphones)
 * [2025-04-28, 13:59:44](https://news.ycombinator.com/item?id=43821600) - [Unauthorised AI Bots on Reddit Are Eroding Sociality](https://mssv.net/2025/04/27/unauthorised-ai-bots-on-r-changemyview-are-eroding-sociality/)
 * [2025-04-28, 12:00:16](https://news.ycombinator.com/item?id=43820408) - [Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam)](https://jobs.ashbyhq.com/optery)
 * [2025-04-28, 11:44:54](https://news.ycombinator.com/item?id=43820228) - [I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+* [2025-04-28, 11:37:16](https://news.ycombinator.com/item?id=43820144) - [Making a game from scratch using only a guitar [video]](https://www.youtube.com/watch?v=wesICmc48UE)
 * [2025-04-28, 11:29:39](https://news.ycombinator.com/item?id=43820076) - [Deep dive into how DOS games do copy protection by making themselves unwinnable](https://mrwint.github.io/winter/writeup/writeup.html)
 * [2025-04-28, 11:24:41](https://news.ycombinator.com/item?id=43820022) - [Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers](https://github.com/skyzh/tiny-llm)
 * [2025-04-28, 10:50:58](https://news.ycombinator.com/item?id=43819791) - [Reports of widespread power cuts in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
