@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 15:33:32](https://news.ycombinator.com/item?id=43822619) - [Reanimation of the original Logic Theorist, the first AI, in IPL-V](https://www.youtube.com/watch?v=qmE5o2ezqBg)
 * [2025-04-28, 15:30:14](https://news.ycombinator.com/item?id=43822575) - [Show HN: Autarkie – Instant Grammar Fuzzing Using Rust Macros](https://github.com/R9295/autarkie)
+* [2025-04-28, 15:13:39](https://news.ycombinator.com/item?id=43822396) - [China's Clinical Trial Boom](https://www.asimov.press/p/china-trials)
+* [2025-04-28, 15:05:13](https://news.ycombinator.com/item?id=43822292) - [Anthropic Economic Index: AI's Impact on Software Development](https://www.anthropic.com/research/impact-software-development)
 * [2025-04-28, 14:38:15](https://news.ycombinator.com/item?id=43821996) - [Kids and smartphones – The real threat isn't screen time. It's algorithm time](https://matthewsinclair.com/blog/0179-kids-and-smartphones)
 * [2025-04-28, 13:59:44](https://news.ycombinator.com/item?id=43821600) - [Unauthorised AI Bots on Reddit Are Eroding Sociality](https://mssv.net/2025/04/27/unauthorised-ai-bots-on-r-changemyview-are-eroding-sociality/)
 * [2025-04-28, 13:57:34](https://news.ycombinator.com/item?id=43821578) - [We Found Insurance Fraud in Our Crash Data](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/)
