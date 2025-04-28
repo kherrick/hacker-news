@@ -7,6 +7,7 @@
 * [2025-04-28, 23:12:28](https://news.ycombinator.com/item?id=43827108) - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
 * [2025-04-28, 23:08:50](https://news.ycombinator.com/item?id=43827083) - [Amazon launches first Kuiper internet satellites in bid to take on Starlink](https://www.cnbc.com/2025/04/28/amazon-launches-first-kuiper-satellites-in-bid-to-take-on-starlink.html)
 * [2025-04-28, 21:59:22](https://news.ycombinator.com/item?id=43826586) - [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
+* [2025-04-28, 21:58:52](https://news.ycombinator.com/item?id=43826584) - [The One-Person Framework in Practice](https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o)
 * [2025-04-28, 21:39:14](https://news.ycombinator.com/item?id=43826425) - [On Lisp (1993)](https://www.paulgraham.com/onlisptext.html)
 * [2025-04-28, 21:01:59](https://news.ycombinator.com/item?id=43826065) - [Legal art forgery, for the sake of movies](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
 * [2025-04-28, 20:57:49](https://news.ycombinator.com/item?id=43826021) - [Packed Data Support in Haskell](https://arthi-chaud.github.io/posts/packed/)
