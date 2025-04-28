@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-28, 10:50:58](https://news.ycombinator.com/item?id=43819791) - [Full power outage in Spain and Portugal](https://news.ycombinator.com/item?id=43819791)
 * [2025-04-28, 07:17:42](https://news.ycombinator.com/item?id=43818518) - [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
-* [2025-04-28, 06:43:50](https://news.ycombinator.com/item?id=43818330) - [Why do electrons not fall into the nucleus?](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Why_atoms_do_not_Collapse)
 * [2025-04-28, 06:16:19](https://news.ycombinator.com/item?id=43818169) - [Naur's \"Programming as Theory Building\" and LLMs replacing human programmers](https://ratfactor.com/cards/naur-vs-llms)
 * [2025-04-28, 04:04:32](https://news.ycombinator.com/item?id=43817423) - [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee)
 * [2025-04-28, 03:56:46](https://news.ycombinator.com/item?id=43817377) - [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
