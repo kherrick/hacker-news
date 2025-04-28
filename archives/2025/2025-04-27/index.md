@@ -6,6 +6,7 @@
 
 * [2025-04-27, 23:37:47](https://news.ycombinator.com/item?id=43816078) - [The American democratic republic has died. It was 236 years old](https://www.sfchronicle.com/opinion/openforum/article/us-democracy-dies-trump-236-years-20292708.php)
 * [2025-04-27, 23:36:33](https://news.ycombinator.com/item?id=43816071) - [I wouldn't get into a Tesla Robotaxi](https://substack.com/@theahura/note/c-112383923)
+* [2025-04-27, 23:29:50](https://news.ycombinator.com/item?id=43816038) - [In Memoriam: SF and Fine Artist David Schleinkofer](https://downthetubes.net/in-memoriam-sf-and-fine-artist-david-schleinkofer/)
 * [2025-04-27, 23:07:51](https://news.ycombinator.com/item?id=43815891) - [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
 * [2025-04-27, 22:29:31](https://news.ycombinator.com/item?id=43815653) - [Here's how to get ChatGPT to stop being an overly flattering yes man](https://old.reddit.com/r/ChatGPT/comments/1k8vomo/heres_how_to_get_chatgpt_to_stop_being_an_overly/)
 * [2025-04-27, 22:19:27](https://news.ycombinator.com/item?id=43815591) - [AI Helps Find a Cause of Alzheimer's Disease and Identify Therapeutic Candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
@@ -21,6 +22,7 @@
 * [2025-04-27, 20:56:44](https://news.ycombinator.com/item?id=43815069) - [Thoughts Upon Slavery (1774)](https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000091/000000/000001/restricted/2002_09_10/wesley/thoughtsuponslavery.html#1)
 * [2025-04-27, 20:53:03](https://news.ycombinator.com/item?id=43815044) - [How a Pipe Organ Works](https://www.pipedreams.org/page/how-a-pipe-organ-works)
 * [2025-04-27, 20:51:20](https://news.ycombinator.com/item?id=43815033) - [AI Coding assistants provide little value because a programmer's job is to think](https://www.doliver.org/articles/programming-is-a-thinkers-game)
+* [2025-04-27, 20:40:33](https://news.ycombinator.com/item?id=43814934) - [Boxie – an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
 * [2025-04-27, 20:08:38](https://news.ycombinator.com/item?id=43814708) - [I Just Want to Code](https://www.zachbellay.com/daily/i-just-want-to-code/)
 * [2025-04-27, 20:04:28](https://news.ycombinator.com/item?id=43814683) - [Suicide Reverberates Among Young Doctors](https://www.wsj.com/health/medical-residents-working-conditions-young-doctor-suicide-3dc61495)
 * [2025-04-27, 19:35:55](https://news.ycombinator.com/item?id=43814497) - [Business co-founders in tech startups are less valuable than they think](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/)
