@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
+* [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
 * [2025-04-28, 18:13:17](https://news.ycombinator.com/item?id=43824297) - [Relational Graph Transformers](https://kumo.ai/research/relational-graph-transformers/)
 * [2025-04-28, 18:01:59](https://news.ycombinator.com/item?id=43824193) - [Generating Mazes with Inductive Graphs (2017)](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
+* [2025-04-28, 17:58:38](https://news.ycombinator.com/item?id=43824153) - [Giving Software Away for Free](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/)
 * [2025-04-28, 17:28:09](https://news.ycombinator.com/item?id=43823851) - [Is Outbound Going to Die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
 * [2025-04-28, 17:05:29](https://news.ycombinator.com/item?id=43823620) - [The Side Hustle From Hell](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell)
 * [2025-04-28, 17:01:20](https://news.ycombinator.com/item?id=43823580) - [Activeloop (YC S18) Is Hiring VP of Engineering in Mountain View (On-Site)](https://careers.activeloop.ai/)
@@ -11,7 +13,6 @@
 * [2025-04-28, 16:50:25](https://news.ycombinator.com/item?id=43823462) - [The Books of Earthsea by Ursula K. Le Guin](https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/)
 * [2025-04-28, 16:14:31](https://news.ycombinator.com/item?id=43823096) - [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
 * [2025-04-28, 16:10:21](https://news.ycombinator.com/item?id=43823044) - [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
-* [2025-04-28, 15:55:13](https://news.ycombinator.com/item?id=43822880) - [Why Pale Blue Dot generates feelings of cosmic insignificance](https://aeon.co/essays/why-pale-blue-dot-generates-feelings-of-cosmic-insignificance)
 * [2025-04-28, 15:36:25](https://news.ycombinator.com/item?id=43822659) - [Show HN: Web-eval-agent – Let the coding agent debug itself](https://github.com/Operative-Sh/web-eval-agent)
 * [2025-04-28, 15:33:32](https://news.ycombinator.com/item?id=43822619) - [Reanimation of the original Logic Theorist, the first AI, in IPL-V](https://www.youtube.com/watch?v=qmE5o2ezqBg)
 * [2025-04-28, 15:30:14](https://news.ycombinator.com/item?id=43822575) - [Show HN: Autarkie – Instant grammar fuzzing using Rust macros](https://github.com/R9295/autarkie)
@@ -19,6 +20,7 @@
 * [2025-04-28, 11:29:39](https://news.ycombinator.com/item?id=43820076) - [Uncovering the mechanics of The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup.html)
 * [2025-04-28, 11:24:41](https://news.ycombinator.com/item?id=43820022) - [Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers](https://github.com/skyzh/tiny-llm)
 * [2025-04-28, 10:50:58](https://news.ycombinator.com/item?id=43819791) - [Widespread power outage in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
+* [2025-04-28, 05:01:10](https://news.ycombinator.com/item?id=43817726) - [Why Momentum Works (2017)](https://distill.pub/2017/momentum/)
 * [2025-04-28, 03:56:46](https://news.ycombinator.com/item?id=43817377) - [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
 * [2025-04-28, 03:47:13](https://news.ycombinator.com/item?id=43817318) - [The hospital where staff treat fear of death as well as physical pain](https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying)
 * [2025-04-28, 01:21:01](https://news.ycombinator.com/item?id=43816634) - [Presentation Slides with Markdown](https://sli.dev)
@@ -28,8 +30,6 @@
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
 * [2025-04-27, 19:26:34](https://news.ycombinator.com/item?id=43814433) - [Internet in a Box](https://internet-in-a-box.org/)
 * [2025-04-27, 19:12:43](https://news.ycombinator.com/item?id=43814360) - [How a single line of code could brick your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
-* [2025-04-27, 16:40:30](https://news.ycombinator.com/item?id=43813175) - [Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
-* [2025-04-27, 16:27:57](https://news.ycombinator.com/item?id=43813083) - [Did 5G kill the IMSI catcher?](https://zetier.com/5g-imsi-catcher/)
 
 ## [Archives](archives/index.md)
 

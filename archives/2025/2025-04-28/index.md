@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
+* [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
 * [2025-04-28, 18:13:17](https://news.ycombinator.com/item?id=43824297) - [Relational Graph Transformers](https://kumo.ai/research/relational-graph-transformers/)
 * [2025-04-28, 18:01:59](https://news.ycombinator.com/item?id=43824193) - [Generating Mazes with Inductive Graphs (2017)](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
+* [2025-04-28, 17:58:38](https://news.ycombinator.com/item?id=43824153) - [Giving Software Away for Free](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/)
 * [2025-04-28, 17:28:09](https://news.ycombinator.com/item?id=43823851) - [Is Outbound Going to Die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
 * [2025-04-28, 17:05:44](https://news.ycombinator.com/item?id=43823622) - [DeepSeek-R2](https://deepseek.ai/blog/deepseek-r2-ai-model-launch-2025)
 * [2025-04-28, 17:05:29](https://news.ycombinator.com/item?id=43823620) - [How I Got Exploited at My First Startup](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell)
@@ -40,6 +42,7 @@
 * [2025-04-28, 07:17:42](https://news.ycombinator.com/item?id=43818518) - [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
 * [2025-04-28, 06:43:50](https://news.ycombinator.com/item?id=43818330) - [Why do electrons not fall into the nucleus?](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Why_atoms_do_not_Collapse)
 * [2025-04-28, 06:16:19](https://news.ycombinator.com/item?id=43818169) - [Naur's \"Programming as Theory Building\" and LLMs replacing human programmers](https://ratfactor.com/cards/naur-vs-llms)
+* [2025-04-28, 05:01:10](https://news.ycombinator.com/item?id=43817726) - [Why Momentum Works (2017)](https://distill.pub/2017/momentum/)
 * [2025-04-28, 04:48:48](https://news.ycombinator.com/item?id=43817664) - [East German Stasi Tactics – Zersetzung (2021)](https://www.maxhertzberg.co.uk/background/politics/stasi-tactics/)
 * [2025-04-28, 04:04:32](https://news.ycombinator.com/item?id=43817423) - [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee)
 * [2025-04-28, 03:56:46](https://news.ycombinator.com/item?id=43817377) - [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
