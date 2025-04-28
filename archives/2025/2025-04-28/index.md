@@ -8,6 +8,7 @@
 * [2025-04-28, 21:39:14](https://news.ycombinator.com/item?id=43826425) - [On Lisp (1993)](https://www.paulgraham.com/onlisptext.html)
 * [2025-04-28, 21:01:59](https://news.ycombinator.com/item?id=43826065) - [Legal art forgery, for the sake of movies](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
 * [2025-04-28, 20:57:49](https://news.ycombinator.com/item?id=43826021) - [Packed Data Support in Haskell](https://arthi-chaud.github.io/posts/packed/)
+* [2025-04-28, 20:49:24](https://news.ycombinator.com/item?id=43825958) - [Requirements change until they don't](https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/)
 * [2025-04-28, 20:44:25](https://news.ycombinator.com/item?id=43825900) - [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)
 * [2025-04-28, 20:34:56](https://news.ycombinator.com/item?id=43825798) - [Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring](https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance)
 * [2025-04-28, 20:28:10](https://news.ycombinator.com/item?id=43825743) - [The standing power throw is out as new Army fitness test goes 'sex-neutral'](https://taskandpurpose.com/news/army-fitness-test-sex-neutral/)
