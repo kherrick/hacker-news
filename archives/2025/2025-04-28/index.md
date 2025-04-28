@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 16:10:21](https://news.ycombinator.com/item?id=43823044) - [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
+* [2025-04-28, 15:55:13](https://news.ycombinator.com/item?id=43822880) - [Why Pale Blue Dot generates feelings of cosmic insignificance](https://aeon.co/essays/why-pale-blue-dot-generates-feelings-of-cosmic-insignificance)
+* [2025-04-28, 15:54:17](https://news.ycombinator.com/item?id=43822868) - [AI Goes to College for the Free Money](https://marginalrevolution.com/marginalrevolution/2025/04/ai-goes-to-college-for-the-free-money.html)
+* [2025-04-28, 15:36:25](https://news.ycombinator.com/item?id=43822659) - [Show HN: Web-eval-agent – Let the coding agent debug itself](https://github.com/Operative-Sh/web-eval-agent)
 * [2025-04-28, 15:33:32](https://news.ycombinator.com/item?id=43822619) - [Reanimation of the original Logic Theorist, the first AI, in IPL-V](https://www.youtube.com/watch?v=qmE5o2ezqBg)
 * [2025-04-28, 15:30:14](https://news.ycombinator.com/item?id=43822575) - [Show HN: Autarkie – Instant Grammar Fuzzing Using Rust Macros](https://github.com/R9295/autarkie)
 * [2025-04-28, 15:13:39](https://news.ycombinator.com/item?id=43822396) - [China's Clinical Trial Boom](https://www.asimov.press/p/china-trials)
