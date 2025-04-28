@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-28, 11:40:26",
-      "https://news.ycombinator.com/item?id=43820177"
+      "2025-04-28, 12:00:16",
+      "https://news.ycombinator.com/item?id=43820408"
     ],
     [
-      "Spain, Portugal and parts of France hit by power outage",
-      "https://www.euronews.com/my-europe/2025/04/28/spain-portugal-and-parts-of-france-hit-by-massive-power-outage"
+      "Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam)",
+      "https://jobs.ashbyhq.com/optery"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 11:44:54",
+      "https://news.ycombinator.com/item?id=43820228"
+    ],
+    [
+      "I built a hardware processor that runs Python",
+      "https://www.runpyxl.com/gpio"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Making a game from scratch using only a guitar [video]",
       "https://www.youtube.com/watch?v=wesICmc48UE"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 11:29:39",
+      "https://news.ycombinator.com/item?id=43820076"
+    ],
+    [
+      "Deep dive into how DOS games do copy protection by making themselves unwinnable",
+      "https://mrwint.github.io/winter/writeup/writeup.html"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-04-27, 15:35:32",
-      "https://news.ycombinator.com/item?id=43812646"
-    ],
-    [
-      "TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant",
-      "https://tmuxai.dev/"
-    ]
-  ],
-  [
-    [
       "2025-04-27, 15:10:06",
       "https://news.ycombinator.com/item?id=43812459"
     ],
@@ -287,16 +297,6 @@
     [
       "Reverse geocoding is hard",
       "https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 11:02:32",
-      "https://news.ycombinator.com/item?id=43811016"
-    ],
-    [
-      "Show HN: Bhvr, a Bun and Hono and Vite and React Starter",
-      "https://bhvr.dev"
     ]
   ]
 ]
