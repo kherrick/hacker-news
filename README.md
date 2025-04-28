@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-28, 16:14:31](https://news.ycombinator.com/item?id=43823096) - [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
 * [2025-04-28, 16:10:21](https://news.ycombinator.com/item?id=43823044) - [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
 * [2025-04-28, 15:55:13](https://news.ycombinator.com/item?id=43822880) - [Why Pale Blue Dot generates feelings of cosmic insignificance](https://aeon.co/essays/why-pale-blue-dot-generates-feelings-of-cosmic-insignificance)
 * [2025-04-28, 15:54:17](https://news.ycombinator.com/item?id=43822868) - [AI Goes to College for the Free Money](https://marginalrevolution.com/marginalrevolution/2025/04/ai-goes-to-college-for-the-free-money.html)
@@ -29,6 +28,7 @@
 * [2025-04-27, 19:12:43](https://news.ycombinator.com/item?id=43814360) - [How a single line of code could brick your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
 * [2025-04-27, 16:40:30](https://news.ycombinator.com/item?id=43813175) - [Read the Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
 * [2025-04-27, 16:27:57](https://news.ycombinator.com/item?id=43813083) - [Did 5G kill the IMSI catcher?](https://zetier.com/5g-imsi-catcher/)
+* [2025-04-27, 15:10:06](https://news.ycombinator.com/item?id=43812459) - [The coming knowledge-work supply-chain crisis](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply)
 * [2025-04-27, 14:45:36](https://news.ycombinator.com/item?id=43812323) - [Reverse geocoding is hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
 
 ## [Archives](archives/index.md)
