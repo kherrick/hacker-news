@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-04-28, 03:10:59",
-      "https://news.ycombinator.com/item?id=43817137"
+      "2025-04-28, 04:04:32",
+      "https://news.ycombinator.com/item?id=43817423"
     ],
     [
-      "The Vietnam War ended 50 years ago, but the battle with Agent Orange continues",
-      "https://apnews.com/article/vietnam-war-anniversary-agent-orange-0829caefe48cc11fb88ab27982da922b"
+      "Show HN: Cleverb.ee – open-source agent that writes a cited research report",
+      "https://github.com/SureScaleAI/cleverbee"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 03:56:46",
+      "https://news.ycombinator.com/item?id=43817377"
+    ],
+    [
+      "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+      "https://arxiv.org/abs/2412.15287"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 03:47:13",
+      "https://news.ycombinator.com/item?id=43817318"
+    ],
+    [
+      "The hospital where staff treat fear of death as well as physical pain",
+      "https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories",
       "https://afteramazon.world/"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 01:21:01",
+      "https://news.ycombinator.com/item?id=43816634"
+    ],
+    [
+      "Presentation Slides with Markdown",
+      "https://sli.dev"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-04-27, 17:00:29",
-      "https://news.ycombinator.com/item?id=43813330"
-    ],
-    [
-      "Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed",
-      "https://github.com/zumerlab/snapdom"
-    ]
-  ],
-  [
-    [
       "2025-04-27, 16:40:30",
       "https://news.ycombinator.com/item?id=43813175"
     ],
@@ -217,16 +237,6 @@
     [
       "Watching o3 model sweat over a Paul Morphy mate-in-2",
       "https://alexop.dev/posts/how-03-model-tries-chess-puzzle/"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 16:18:49",
-      "https://news.ycombinator.com/item?id=43812995"
-    ],
-    [
-      "Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS",
-      "https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Reverse geocoding is hard",
       "https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 12:16:59",
-      "https://news.ycombinator.com/item?id=43811400"
-    ],
-    [
-      "Shardines: SQLite3 Database-per-Tenant with ActiveRecord",
-      "https://blog.julik.nl/2025/04/a-can-of-shardines"
     ]
   ],
   [
