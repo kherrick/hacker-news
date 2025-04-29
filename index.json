@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-29, 20:42:34",
-      "https://news.ycombinator.com/item?id=43837810"
+      "2025-04-29, 21:00:05",
+      "https://news.ycombinator.com/item?id=43837996"
     ],
     [
-      "Amazon has no choice but to display tariffs on prices now",
-      "https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now"
+      "Modern Realty (YC S24) Is Hiring",
+      "https://www.workatastartup.com/jobs/66546"
     ]
   ],
   [
@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2025-04-29, 19:27:54",
-      "https://news.ycombinator.com/item?id=43836943"
-    ],
-    [
-      "FTC's 'Tech Censorship' Investigation Is Censoring Comments About 'Censorship'",
-      "https://www.techdirt.com/2025/04/29/ftcs-tech-censorship-investigation-is-censoring-comments-about-censorship/"
-    ]
-  ],
-  [
-    [
       "2025-04-29, 17:35:48",
       "https://news.ycombinator.com/item?id=43835623"
     ],
     [
-      "Beyond Performance: Measuring the Environmental Impact of Analytical Databases",
+      "Beyond Performance: Measuring the environmental impact of analytical databases",
       "https://arxiv.org/abs/2504.18980"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43835445"
     ],
     [
-      "I made my AI think harder by making it argue with itself",
+      "Chain of Recursive Thoughts: Make AI think harder by making it argue with itself",
       "https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts"
     ]
   ],
@@ -75,18 +65,8 @@
       "https://news.ycombinator.com/item?id=43835424"
     ],
     [
-      "Everything we announced at our first-ever LlamaCon",
+      "Everything we announced at our first LlamaCon",
       "https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 17:01:15",
-      "https://news.ycombinator.com/item?id=43835216"
-    ],
-    [
-      "Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD",
-      "https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2025-04-29, 14:30:11",
+      "https://news.ycombinator.com/item?id=43833195"
+    ],
+    [
+      "Amazon RDS for PostgreSQL 17.4",
+      "https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 13:09:04",
       "https://news.ycombinator.com/item?id=43832084"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-04-29, 09:59:04",
+      "https://news.ycombinator.com/item?id=43830544"
+    ],
+    [
+      "How to build Intrinsic Motivation: a review of the science",
+      "https://erringtowardsanswers.substack.com/p/intrinsic-motivation"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 09:04:35",
       "https://news.ycombinator.com/item?id=43830193"
     ],
@@ -227,16 +227,6 @@
     [
       "A single line of code cost $8000",
       "https://pietrasiak.com/one-line-of-code-that-did-cost-dollar8000"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 23:27:11",
-      "https://news.ycombinator.com/item?id=43827214"
-    ],
-    [
-      "Why did Windows 7 log on slower for months if you had a solid color background?",
-      "https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: An interactive demo of QR codes' error correction",
       "https://qris.cool"
+    ]
+  ],
+  [
+    [
+      "2025-04-24, 20:11:19",
+      "https://news.ycombinator.com/item?id=43786987"
+    ],
+    [
+      "What happens at the end of 'Trading Places'? (2013)",
+      "https://www.npr.org/sections/money/2013/07/19/201430727/what-actually-happens-at-the-end-of-trading-places"
     ]
   ]
 ]
