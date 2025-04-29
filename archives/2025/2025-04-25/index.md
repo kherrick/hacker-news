@@ -48,6 +48,7 @@
 * [2025-04-25, 13:19:02](https://news.ycombinator.com/item?id=43793288) - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
 * [2025-04-25, 13:18:17](https://news.ycombinator.com/item?id=43793280) - [New LLM jailbreak bypasses all major FMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/)
 * [2025-04-25, 12:39:32](https://news.ycombinator.com/item?id=43792941) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+* [2025-04-25, 12:15:24](https://news.ycombinator.com/item?id=43792774) - [Show HN: An interactive demo of QR codes' error correction](https://qris.cool)
 * [2025-04-25, 11:10:23](https://news.ycombinator.com/item?id=43792348) - [New C++ features in GCC 15](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15)
 * [2025-04-25, 10:53:59](https://news.ycombinator.com/item?id=43792248) - [GCC, the GNU Compiler Collection 15.1 released](https://gcc.gnu.org/gcc-15/)
 * [2025-04-25, 10:40:15](https://news.ycombinator.com/item?id=43792157) - [Hegseth had an unsecured internet line set up in his office to connect to Signal](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d)
