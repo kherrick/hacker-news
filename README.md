@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-29, 04:33:03](https://news.ycombinator.com/item?id=43828713) - [Knowledge-based society, my ass](https://mihaiolteanu.me/knowledge-based-society-my-ass)
 * [2025-04-29, 03:57:40](https://news.ycombinator.com/item?id=43828568) - [Congress passes Take It Down act despite major flaws](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws)
 * [2025-04-29, 02:09:28](https://news.ycombinator.com/item?id=43828096) - [Greek Particles (1990)](https://specgram.com/Babel.I.2/07.sriyatha.greek.html)
 * [2025-04-29, 01:40:18](https://news.ycombinator.com/item?id=43827945) - [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
@@ -26,7 +27,6 @@
 * [2025-04-28, 11:24:41](https://news.ycombinator.com/item?id=43820022) - [Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers](https://github.com/skyzh/tiny-llm)
 * [2025-04-28, 10:50:58](https://news.ycombinator.com/item?id=43819791) - [Widespread power outage in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
 * [2025-04-28, 05:01:10](https://news.ycombinator.com/item?id=43817726) - [Why Momentum Works (2017)](https://distill.pub/2017/momentum/)
-* [2025-04-27, 22:19:26](https://news.ycombinator.com/item?id=43815590) - [Beating the Crowd](https://www.withentropy.com/blog/2025-04-21-beating_the_crowd/)
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
 * [2025-04-27, 20:09:08](https://news.ycombinator.com/item?id=43814716) - [My takeaways from DjangoCon EU 2025](https://www.zachbellay.com/posts/djangocon-eu-2025/)
 * [2025-04-27, 07:50:07](https://news.ycombinator.com/item?id=43810211) - [Running Clojure in WASM with GraalVM](https://romanliutikov.com/blog/running-clojure-in-wasm)

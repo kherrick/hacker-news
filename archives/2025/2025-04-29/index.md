@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 04:33:03](https://news.ycombinator.com/item?id=43828713) - [Knowledge-based society, my ass](https://mihaiolteanu.me/knowledge-based-society-my-ass)
 * [2025-04-29, 03:57:40](https://news.ycombinator.com/item?id=43828568) - [Congress passes Take It Down act despite major flaws](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws)
 * [2025-04-29, 02:09:28](https://news.ycombinator.com/item?id=43828096) - [Greek Particles (1990)](https://specgram.com/Babel.I.2/07.sriyatha.greek.html)
 * [2025-04-29, 01:40:18](https://news.ycombinator.com/item?id=43827945) - [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
