@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-29, 17:35:48](https://news.ycombinator.com/item?id=43835623) - [Beyond Performance: Measuring the Environmental Impact of Analytical Databases](https://arxiv.org/abs/2504.18980)
+* [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
 * [2025-04-29, 17:19:04](https://news.ycombinator.com/item?id=43835445) - [I made my AI think harder by making it argue with itself. It works stupidly well](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
 * [2025-04-29, 17:17:23](https://news.ycombinator.com/item?id=43835424) - [Everything we announced at our first-ever LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1)
@@ -11,7 +12,6 @@
 * [2025-04-29, 15:13:27](https://news.ycombinator.com/item?id=43833783) - [Meta AI App built with Llama 4](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
 * [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 * [2025-04-29, 14:00:58](https://news.ycombinator.com/item?id=43832765) - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
-* [2025-04-29, 12:30:00](https://news.ycombinator.com/item?id=43831708) - [What Is \"Induced Atmospheric Vibration\"?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
 * [2025-04-29, 12:29:44](https://news.ycombinator.com/item?id=43831705) - [Performance optimization is hard because it's fundamentally a brute-force task](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [2025-04-29, 12:23:19](https://news.ycombinator.com/item?id=43831628) - [Programming languages should have a tree traversal primitive](https://blog.tylerglaiel.com/p/programming-languages-should-have)
 * [2025-04-29, 12:20:10](https://news.ycombinator.com/item?id=43831602) - [After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234)
