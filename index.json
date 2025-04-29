@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-04-28, 23:27:11",
+      "https://news.ycombinator.com/item?id=43827214"
+    ],
+    [
+      "Why did Windows 7 log on slower for months if you had a solid color background?",
+      "https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121"
+    ]
+  ],
+  [
+    [
       "2025-04-28, 23:12:28",
       "https://news.ycombinator.com/item?id=43827108"
     ],
     [
       "The 12-bit rainbow palette",
       "https://iamkate.com/data/12-bit-rainbow/"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 23:08:50",
-      "https://news.ycombinator.com/item?id=43827083"
-    ],
-    [
-      "Amazon launches first Kuiper internet satellites in bid to take on Starlink",
-      "https://www.cnbc.com/2025/04/28/amazon-launches-first-kuiper-satellites-in-bid-to-take-on-starlink.html"
     ]
   ],
   [
@@ -45,8 +45,18 @@
       "https://news.ycombinator.com/item?id=43826065"
     ],
     [
-      "Legal art forgery, for the sake of movies",
+      "Legal art forgery, for the sake of movies (2014)",
       "https://www.vanityfair.com/hollywood/2014/04/art-in-movies"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 21:00:28",
+      "https://news.ycombinator.com/item?id=43826051"
+    ],
+    [
+      "Forensic Fandom",
+      "https://exiledfan.substack.com/p/introducing-forensic-fandom"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Qwen3: Think deeper, act faster",
       "https://qwenlm.github.io/blog/qwen3/"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 20:34:56",
-      "https://news.ycombinator.com/item?id=43825798"
-    ],
-    [
-      "Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring",
-      "https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-04-28, 15:30:14",
+      "https://news.ycombinator.com/item?id=43822575"
+    ],
+    [
+      "Show HN: Autarkie – Instant grammar fuzzing using Rust macros",
+      "https://github.com/R9295/autarkie"
+    ]
+  ],
+  [
+    [
       "2025-04-28, 11:44:54",
       "https://news.ycombinator.com/item?id=43820228"
     ],
@@ -267,16 +277,6 @@
     [
       "Ask HN: What are you working on? (April 2025)",
       "https://news.ycombinator.com/item?id=43815523"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 10:45:54",
-      "https://news.ycombinator.com/item?id=43810918"
-    ],
-    [
-      "Comparing Voltage Boosting Circuits",
-      "https://blog.georgovassilis.com/2025/04/24/comparing-the-efficiency-of-dc-voltage-boost-circuits/"
     ]
   ],
   [
