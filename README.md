@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-29, 11:17:24](https://news.ycombinator.com/item?id=43831027) - [Amazon to display tariff costs for consumers](https://punchbowl.news/article/tech/amazon-display-tariff-costs/)
 * [2025-04-29, 11:04:38](https://news.ycombinator.com/item?id=43830946) - [Spain and Portugal power outage: what caused it, and was there a cyber-attack?](https://www.theguardian.com/business/2025/apr/28/spain-and-portugal-power-outage-cause-cyber-attack-electricity)
 * [2025-04-29, 10:08:09](https://news.ycombinator.com/item?id=43830613) - [Generative AI is not replacing jobs or hurting wages at all, say economists](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/)
 * [2025-04-29, 09:04:35](https://news.ycombinator.com/item?id=43830193) - [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
 * [2025-04-29, 08:18:12](https://news.ycombinator.com/item?id=43829927) - [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927)
-* [2025-04-29, 06:46:36](https://news.ycombinator.com/item?id=43829356) - [Spain is about to face the challenge of a \"black start\"](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
 * [2025-04-29, 05:53:38](https://news.ycombinator.com/item?id=43829080) - [Dear \"Security Researchers\"](https://ftp.bit.nl/pub/debian/)
 * [2025-04-29, 05:47:04](https://news.ycombinator.com/item?id=43829046) - [Implement Flash Attention Back End in SGLang – Basics and KV Cache](https://hebiao064.github.io/fa3-attn-backend-basic)
 * [2025-04-29, 05:45:53](https://news.ycombinator.com/item?id=43829035) - [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
