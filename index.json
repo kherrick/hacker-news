@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-04-28, 17:05:29",
+      "https://news.ycombinator.com/item?id=43823620"
+    ],
+    [
+      "The side hustle from hell",
+      "https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell"
+    ]
+  ],
+  [
+    [
       "2025-04-28, 17:01:20",
       "https://news.ycombinator.com/item?id=43823580"
     ],
@@ -287,16 +297,6 @@
     [
       "Running Clojure in WASM with GraalVM",
       "https://romanliutikov.com/blog/running-clojure-in-wasm"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 00:18:31",
-      "https://news.ycombinator.com/item?id=43808381"
-    ],
-    [
-      "Co-designing a sparse music codec with ChatGPT o3",
-      "https://akuz.me/co-designing-a-sparse-music-codec-with-chatgpt-o3-in-one-day-my-mini-pied-piper.html"
     ]
   ]
 ]
