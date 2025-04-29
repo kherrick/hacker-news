@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-04-29, 17:19:04",
+      "https://news.ycombinator.com/item?id=43835445"
+    ],
+    [
+      "I made my AI think harder by making it argue with itself. It works stupidly well",
+      "https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 17:17:23",
       "https://news.ycombinator.com/item?id=43835424"
     ],
@@ -287,16 +297,6 @@
     [
       "Ask HN: What are you working on? (April 2025)",
       "https://news.ycombinator.com/item?id=43815523"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 07:50:07",
-      "https://news.ycombinator.com/item?id=43810211"
-    ],
-    [
-      "Running Clojure in WASM with GraalVM",
-      "https://romanliutikov.com/blog/running-clojure-in-wasm"
     ]
   ]
 ]
