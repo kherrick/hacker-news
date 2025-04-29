@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-29, 05:13:32](https://news.ycombinator.com/item?id=43828860) - [Drinking champagne could reduce risk of sudden cardiac arrest, study suggests](https://www.theguardian.com/society/2025/apr/29/drink-champagne-reduce-risk-sudden-cardiac-arrest-study-suggests)
 * [2025-04-29, 04:33:03](https://news.ycombinator.com/item?id=43828713) - [Knowledge-based society, my ass](https://mihaiolteanu.me/knowledge-based-society-my-ass)
 * [2025-04-29, 03:57:40](https://news.ycombinator.com/item?id=43828568) - [Congress passes Take It Down act despite major flaws](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws)
 * [2025-04-29, 02:09:28](https://news.ycombinator.com/item?id=43828096) - [Greek Particles (1990)](https://specgram.com/Babel.I.2/07.sriyatha.greek.html)
@@ -15,9 +16,9 @@
 * [2025-04-28, 20:44:25](https://news.ycombinator.com/item?id=43825900) - [Qwen3: Think deeper, act faster](https://qwenlm.github.io/blog/qwen3/)
 * [2025-04-28, 19:52:02](https://news.ycombinator.com/item?id=43825336) - [One Million Chessboards](https://onemillionchessboards.com/#199,276)
 * [2025-04-28, 18:47:36](https://news.ycombinator.com/item?id=43824640) - [Migrating away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
+* [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
 * [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
 * [2025-04-28, 17:28:09](https://news.ycombinator.com/item?id=43823851) - [Is outbound going to die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
-* [2025-04-28, 17:01:20](https://news.ycombinator.com/item?id=43823580) - [Activeloop (YC S18) is hiring a VP of Engineering in Mountain View (on-site)](https://careers.activeloop.ai/)
 * [2025-04-28, 16:53:08](https://news.ycombinator.com/item?id=43823485) - [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
 * [2025-04-28, 16:14:31](https://news.ycombinator.com/item?id=43823096) - [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
 * [2025-04-28, 16:10:21](https://news.ycombinator.com/item?id=43823044) - [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
@@ -28,7 +29,6 @@
 * [2025-04-28, 05:01:10](https://news.ycombinator.com/item?id=43817726) - [Why Momentum Works (2017)](https://distill.pub/2017/momentum/)
 * [2025-04-27, 22:19:26](https://news.ycombinator.com/item?id=43815590) - [Beating the Crowd](https://www.withentropy.com/blog/2025-04-21-beating_the_crowd/)
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
-* [2025-04-27, 20:09:08](https://news.ycombinator.com/item?id=43814716) - [My takeaways from DjangoCon EU 2025](https://www.zachbellay.com/posts/djangocon-eu-2025/)
 * [2025-04-27, 07:50:07](https://news.ycombinator.com/item?id=43810211) - [Running Clojure in WASM with GraalVM](https://romanliutikov.com/blog/running-clojure-in-wasm)
 
 ## [Archives](archives/index.md)
