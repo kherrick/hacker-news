@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-29, 17:35:48",
+      "https://news.ycombinator.com/item?id=43835623"
+    ],
+    [
+      "Beyond Performance: Measuring the Environmental Impact of Analytical Databases",
+      "https://arxiv.org/abs/2504.18980"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 17:24:29",
       "https://news.ycombinator.com/item?id=43835495"
     ],
@@ -287,16 +297,6 @@
     [
       "Ask HN: What are you working on? (April 2025)",
       "https://news.ycombinator.com/item?id=43815523"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 07:50:07",
-      "https://news.ycombinator.com/item?id=43810211"
-    ],
-    [
-      "Running Clojure in WASM with GraalVM",
-      "https://romanliutikov.com/blog/running-clojure-in-wasm"
     ]
   ]
 ]
