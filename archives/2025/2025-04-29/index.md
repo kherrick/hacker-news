@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 20:42:34](https://news.ycombinator.com/item?id=43837810) - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)
 * [2025-04-29, 19:34:03](https://news.ycombinator.com/item?id=43837014) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/)
 * [2025-04-29, 19:27:54](https://news.ycombinator.com/item?id=43836943) - [FTC's 'Tech Censorship' Investigation Is Censoring Comments About 'Censorship'](https://www.techdirt.com/2025/04/29/ftcs-tech-censorship-investigation-is-censoring-comments-about-censorship/)
 * [2025-04-29, 18:57:54](https://news.ycombinator.com/item?id=43836619) - [I can't pay rent because devs just don't care](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/)
@@ -20,6 +21,7 @@
 * [2025-04-29, 15:37:10](https://news.ycombinator.com/item?id=43834101) - [Firefox tab groups are here](https://blog.mozilla.org/en/firefox/tab-groups-community/)
 * [2025-04-29, 15:32:31](https://news.ycombinator.com/item?id=43834038) - [What Happens When There Are No Deals? – Paul Krugman](https://paulkrugman.substack.com/p/terror-and-embarrassment)
 * [2025-04-29, 15:13:27](https://news.ycombinator.com/item?id=43833783) - [Introducing the Meta AI App: A New Way to Access Your AI Assistant](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
+* [2025-04-29, 15:11:28](https://news.ycombinator.com/item?id=43833762) - [The last masters of Afro-Colombian machete fencing](https://globalvoices.org/2025/04/19/the-last-masters-of-afro-colombian-machete-fencing-fight-to-save-their-tradition/)
 * [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 * [2025-04-29, 14:00:58](https://news.ycombinator.com/item?id=43832765) - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
 * [2025-04-29, 13:49:22](https://news.ycombinator.com/item?id=43832588) - [White House slams Amazon tariff price display \"hostile and political\"](https://www.axios.com/2025/04/29/tariffs-amazon-prime-day-sellers-report)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-29, 20:42:34](https://news.ycombinator.com/item?id=43837810) - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)
 * [2025-04-29, 19:34:03](https://news.ycombinator.com/item?id=43837014) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/)
 * [2025-04-29, 19:27:54](https://news.ycombinator.com/item?id=43836943) - [FTC's 'Tech Censorship' Investigation Is Censoring Comments About 'Censorship'](https://www.techdirt.com/2025/04/29/ftcs-tech-censorship-investigation-is-censoring-comments-about-censorship/)
-* [2025-04-29, 18:02:03](https://news.ycombinator.com/item?id=43835948) - [Show HN: Neurox – GPU Observability for AI Infra](https://github.com/neuroxhq/helm-chart-neurox-control)
 * [2025-04-29, 17:35:48](https://news.ycombinator.com/item?id=43835623) - [Beyond Performance: Measuring the Environmental Impact of Analytical Databases](https://arxiv.org/abs/2504.18980)
 * [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
@@ -12,6 +12,7 @@
 * [2025-04-29, 16:48:42](https://news.ycombinator.com/item?id=43835044) - [O3 beats a master-level GeoGuessr player, even with fake EXIF data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master)
 * [2025-04-29, 16:41:27](https://news.ycombinator.com/item?id=43834942) - [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/)
 * [2025-04-29, 15:37:10](https://news.ycombinator.com/item?id=43834101) - [Firefox tab groups are here](https://blog.mozilla.org/en/firefox/tab-groups-community/)
+* [2025-04-29, 15:11:28](https://news.ycombinator.com/item?id=43833762) - [The last masters of Afro-Colombian machete fencing](https://globalvoices.org/2025/04/19/the-last-masters-of-afro-colombian-machete-fencing-fight-to-save-their-tradition/)
 * [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 * [2025-04-29, 13:09:04](https://news.ycombinator.com/item?id=43832084) - [AirBorne: Wormable zero-click remote code execution (RCE) in AirPlay protocol](https://www.oligo.security/blog/airborne)
 * [2025-04-29, 12:29:44](https://news.ycombinator.com/item?id=43831705) - [Performance optimization is hard because it's fundamentally a brute-force task](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
@@ -29,7 +30,6 @@
 * [2025-04-28, 02:33:53](https://news.ycombinator.com/item?id=43817000) - [The missteps that led to a fatal plane crash at Reagan National Airport](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
 * [2025-04-26, 17:23:49](https://news.ycombinator.com/item?id=43805457) - [Show HN: AgenticSeek – Self-hosted alternative to cloud-based AI tools](https://github.com/Fosowl/agenticSeek)
 * [2025-04-25, 12:15:24](https://news.ycombinator.com/item?id=43792774) - [Show HN: An interactive demo of QR codes' error correction](https://qris.cool)
-* [2025-04-24, 20:11:19](https://news.ycombinator.com/item?id=43786987) - [What happens at the end of 'Trading Places'? (2013)](https://www.npr.org/sections/money/2013/07/19/201430727/what-actually-happens-at-the-end-of-trading-places)
 
 ## [Archives](archives/index.md)
 
