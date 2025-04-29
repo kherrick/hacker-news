@@ -16,6 +16,7 @@
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
 * [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
 * [2025-04-28, 17:28:09](https://news.ycombinator.com/item?id=43823851) - [Is outbound going to die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
+* [2025-04-28, 17:05:29](https://news.ycombinator.com/item?id=43823620) - [The side hustle from hell](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell)
 * [2025-04-28, 17:01:20](https://news.ycombinator.com/item?id=43823580) - [Activeloop (YC S18) is hiring a VP of Engineering in Mountain View (on-site)](https://careers.activeloop.ai/)
 * [2025-04-28, 16:53:08](https://news.ycombinator.com/item?id=43823485) - [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
 * [2025-04-28, 16:14:31](https://news.ycombinator.com/item?id=43823096) - [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
@@ -29,7 +30,6 @@
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
 * [2025-04-27, 20:09:08](https://news.ycombinator.com/item?id=43814716) - [My takeaways from DjangoCon EU 2025](https://www.zachbellay.com/posts/djangocon-eu-2025/)
 * [2025-04-27, 07:50:07](https://news.ycombinator.com/item?id=43810211) - [Running Clojure in WASM with GraalVM](https://romanliutikov.com/blog/running-clojure-in-wasm)
-* [2025-04-27, 00:18:31](https://news.ycombinator.com/item?id=43808381) - [Co-designing a sparse music codec with ChatGPT o3](https://akuz.me/co-designing-a-sparse-music-codec-with-chatgpt-o3-in-one-day-my-mini-pied-piper.html)
 
 ## [Archives](archives/index.md)
 
