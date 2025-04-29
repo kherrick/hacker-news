@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-29, 21:18:03](https://news.ycombinator.com/item?id=43838149) - [Amazon Rules Out Displaying Tariff Impact After White House Attack](https://www.wsj.com/business/retail/amazon-considered-displaying-import-charges-on-its-ultracheap-site-f5cf7a8b)
 * [2025-04-29, 21:00:05](https://news.ycombinator.com/item?id=43837996) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
+* [2025-04-29, 20:59:51](https://news.ycombinator.com/item?id=43837993) - [Only Teslas Exempt from New Auto Tariffs Thanks to 85% Domestic Content Rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
 * [2025-04-29, 17:35:48](https://news.ycombinator.com/item?id=43835623) - [Beyond Performance: Measuring the environmental impact of analytical databases](https://arxiv.org/abs/2504.18980)
 * [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
@@ -17,7 +19,6 @@
 * [2025-04-29, 12:23:19](https://news.ycombinator.com/item?id=43831628) - [Programming languages should have a tree traversal primitive](https://blog.tylerglaiel.com/p/programming-languages-should-have)
 * [2025-04-29, 11:57:17](https://news.ycombinator.com/item?id=43831363) - [Gaussian Splatting Meets ROS2](https://github.com/shadygm/ROSplat)
 * [2025-04-29, 11:49:55](https://news.ycombinator.com/item?id=43831298) - [Show HN: A Chrome extension that will auto-reject non-essential cookies](https://blog.bymitch.com/posts/reject-cookies/)
-* [2025-04-29, 09:59:04](https://news.ycombinator.com/item?id=43830544) - [How to build Intrinsic Motivation: a review of the science](https://erringtowardsanswers.substack.com/p/intrinsic-motivation)
 * [2025-04-29, 09:04:35](https://news.ycombinator.com/item?id=43830193) - [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
 * [2025-04-29, 07:08:50](https://news.ycombinator.com/item?id=43829490) - [Try Switching to Kagi](https://daringfireball.net/2025/04/try_switching_to_kagi)
 * [2025-04-29, 05:45:53](https://news.ycombinator.com/item?id=43829035) - [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
@@ -29,7 +30,6 @@
 * [2025-04-27, 20:11:16](https://news.ycombinator.com/item?id=43814724) - [We need more optimistic science fiction](https://craig-russell.co.uk/blog/2024-10-24-optimistic-sci-fi/)
 * [2025-04-26, 17:23:49](https://news.ycombinator.com/item?id=43805457) - [Show HN: AgenticSeek – Self-hosted alternative to cloud-based AI tools](https://github.com/Fosowl/agenticSeek)
 * [2025-04-25, 12:15:24](https://news.ycombinator.com/item?id=43792774) - [Show HN: An interactive demo of QR codes' error correction](https://qris.cool)
-* [2025-04-24, 20:11:19](https://news.ycombinator.com/item?id=43786987) - [What happens at the end of 'Trading Places'? (2013)](https://www.npr.org/sections/money/2013/07/19/201430727/what-actually-happens-at-the-end-of-trading-places)
 
 ## [Archives](archives/index.md)
 

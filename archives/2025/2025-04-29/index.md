@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 21:18:03](https://news.ycombinator.com/item?id=43838149) - [Amazon Rules Out Displaying Tariff Impact After White House Attack](https://www.wsj.com/business/retail/amazon-considered-displaying-import-charges-on-its-ultracheap-site-f5cf7a8b)
 * [2025-04-29, 21:00:05](https://news.ycombinator.com/item?id=43837996) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
+* [2025-04-29, 20:59:51](https://news.ycombinator.com/item?id=43837993) - [Only Teslas Exempt from New Auto Tariffs Thanks to 85% Domestic Content Rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
 * [2025-04-29, 20:42:34](https://news.ycombinator.com/item?id=43837810) - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)
 * [2025-04-29, 19:34:03](https://news.ycombinator.com/item?id=43837014) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/)
 * [2025-04-29, 19:27:54](https://news.ycombinator.com/item?id=43836943) - [FTC's 'Tech Censorship' Investigation Is Censoring Comments About 'Censorship'](https://www.techdirt.com/2025/04/29/ftcs-tech-censorship-investigation-is-censoring-comments-about-censorship/)
