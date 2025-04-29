@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 14:00:58](https://news.ycombinator.com/item?id=43832765) - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
 * [2025-04-29, 13:49:22](https://news.ycombinator.com/item?id=43832588) - [White House slams Amazon tariff price display \"hostile and political\"](https://www.axios.com/2025/04/29/tariffs-amazon-prime-day-sellers-report)
 * [2025-04-29, 13:25:10](https://news.ycombinator.com/item?id=43832277) - [Elon Musk is wrong about GDP](https://timharford.com/2025/04/elon-musk-is-wrong-about-gdp/)
 * [2025-04-29, 13:11:20](https://news.ycombinator.com/item?id=43832113) - [Amazon Wants to Be a Satellite-Internet Powerhouse. It Has a Long Way to Go](https://www.wsj.com/business/telecom/amazon-wants-to-be-a-satellite-internet-powerhouse-it-has-a-long-way-to-go-63554c28)
 * [2025-04-29, 13:00:48](https://news.ycombinator.com/item?id=43831993) - [Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding](https://memex.tech)
 * [2025-04-29, 12:36:40](https://news.ycombinator.com/item?id=43831767) - [Uber raises in-office requirement to 3 days, claws back remote workers](https://www.cnbc.com/2025/04/28/uber-raises-in-office-requirement-to-3-days-claws-back-remote-workers.html)
 * [2025-04-29, 12:30:00](https://news.ycombinator.com/item?id=43831708) - [What Is \"Induced Atmospheric Vibration\"?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
+* [2025-04-29, 12:29:44](https://news.ycombinator.com/item?id=43831705) - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [2025-04-29, 12:25:57](https://news.ycombinator.com/item?id=43831667) - [Japan unveils first solar super-panel](https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/)
 * [2025-04-29, 12:23:19](https://news.ycombinator.com/item?id=43831628) - [Programming languages should have a tree traversal primitive](https://blog.tylerglaiel.com/p/programming-languages-should-have)
 * [2025-04-29, 12:20:10](https://news.ycombinator.com/item?id=43831602) - [After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234)
