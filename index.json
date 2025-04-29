@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-29, 13:49:22",
-      "https://news.ycombinator.com/item?id=43832588"
+      "2025-04-29, 13:25:10",
+      "https://news.ycombinator.com/item?id=43832277"
     ],
     [
-      "White House slams Amazon tariff price display \"hostile and political\"",
-      "https://www.axios.com/2025/04/29/tariffs-amazon-prime-day-sellers-report"
+      "Elon Musk is wrong about GDP",
+      "https://timharford.com/2025/04/elon-musk-is-wrong-about-gdp/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Generative AI is not replacing jobs or hurting wages at all, say economists",
       "https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 09:59:04",
+      "https://news.ycombinator.com/item?id=43830544"
+    ],
+    [
+      "How to build Intrinsic Motivation: a review of the science",
+      "https://erringtowardsanswers.substack.com/p/intrinsic-motivation"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Show HN: A pure WebGL image editor with filters, crop and perspective correction",
       "https://github.com/xdadda/mini-photo-editor"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 11:44:54",
-      "https://news.ycombinator.com/item?id=43820228"
-    ],
-    [
-      "Show HN: I built a hardware processor that runs Python",
-      "https://www.runpyxl.com/gpio"
     ]
   ],
   [
