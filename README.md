@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-29, 18:57:54](https://news.ycombinator.com/item?id=43836619) - [I can't pay rent because devs just don't care](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/)
+* [2025-04-29, 18:50:06](https://news.ycombinator.com/item?id=43836533) - [Why is AI so popular when nobody wants it?](https://newslttrs.com/why-is-ai-so-popular-when-nobody-wants-it/)
+* [2025-04-29, 18:02:03](https://news.ycombinator.com/item?id=43835948) - [Show HN: Neurox – GPU Observability for AI Infra](https://github.com/neuroxhq/helm-chart-neurox-control)
 * [2025-04-29, 17:35:48](https://news.ycombinator.com/item?id=43835623) - [Beyond Performance: Measuring the Environmental Impact of Analytical Databases](https://arxiv.org/abs/2504.18980)
 * [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
-* [2025-04-29, 17:19:04](https://news.ycombinator.com/item?id=43835445) - [I made my AI think harder by making it argue with itself. It works stupidly well](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
+* [2025-04-29, 17:19:04](https://news.ycombinator.com/item?id=43835445) - [I made my AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
 * [2025-04-29, 17:17:23](https://news.ycombinator.com/item?id=43835424) - [Everything we announced at our first-ever LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1)
 * [2025-04-29, 17:01:15](https://news.ycombinator.com/item?id=43835216) - [Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD](https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer)
 * [2025-04-29, 16:48:42](https://news.ycombinator.com/item?id=43835044) - [O3 beats a master-level GeoGuessr player, even with fake EXIF data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master)
@@ -14,8 +17,6 @@
 * [2025-04-29, 14:00:58](https://news.ycombinator.com/item?id=43832765) - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
 * [2025-04-29, 12:29:44](https://news.ycombinator.com/item?id=43831705) - [Performance optimization is hard because it's fundamentally a brute-force task](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [2025-04-29, 12:23:19](https://news.ycombinator.com/item?id=43831628) - [Programming languages should have a tree traversal primitive](https://blog.tylerglaiel.com/p/programming-languages-should-have)
-* [2025-04-29, 12:20:10](https://news.ycombinator.com/item?id=43831602) - [After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234)
-* [2025-04-29, 12:13:31](https://news.ycombinator.com/item?id=43831524) - [Pyrefly - A faster Python type checker written in Rust](https://pyrefly.org/)
 * [2025-04-29, 11:57:17](https://news.ycombinator.com/item?id=43831363) - [Gaussian Splatting Meets ROS2](https://github.com/shadygm/ROSplat)
 * [2025-04-29, 11:49:55](https://news.ycombinator.com/item?id=43831298) - [Show HN: A Chrome extension that will auto-reject non-essential cookies](https://blog.bymitch.com/posts/reject-cookies/)
 * [2025-04-29, 11:35:03](https://news.ycombinator.com/item?id=43831142) - [Heart disease deaths worldwide linked to chemical widely used in plastics](https://medicalxpress.com/news/2025-04-heart-disease-deaths-worldwide-linked.html)
@@ -29,7 +30,6 @@
 * [2025-04-28, 21:58:52](https://news.ycombinator.com/item?id=43826584) - [The One-Person Framework in Practice](https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o)
 * [2025-04-28, 20:44:25](https://news.ycombinator.com/item?id=43825900) - [Qwen3: Think deeper, act faster](https://qwenlm.github.io/blog/qwen3/)
 * [2025-04-28, 19:52:02](https://news.ycombinator.com/item?id=43825336) - [One Million Chessboards](https://onemillionchessboards.com/#199,276)
-* [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 18:57:54](https://news.ycombinator.com/item?id=43836619) - [I can't pay rent because devs just don't care](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/)
+* [2025-04-29, 18:50:06](https://news.ycombinator.com/item?id=43836533) - [Why is AI so popular when nobody wants it?](https://newslttrs.com/why-is-ai-so-popular-when-nobody-wants-it/)
+* [2025-04-29, 18:02:03](https://news.ycombinator.com/item?id=43835948) - [Show HN: Neurox – GPU Observability for AI Infra](https://github.com/neuroxhq/helm-chart-neurox-control)
 * [2025-04-29, 17:35:48](https://news.ycombinator.com/item?id=43835623) - [Beyond Performance: Measuring the Environmental Impact of Analytical Databases](https://arxiv.org/abs/2504.18980)
 * [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
