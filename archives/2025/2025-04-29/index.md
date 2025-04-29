@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 19:34:03](https://news.ycombinator.com/item?id=43837014) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/)
 * [2025-04-29, 18:57:54](https://news.ycombinator.com/item?id=43836619) - [I can't pay rent because devs just don't care](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/)
 * [2025-04-29, 18:50:06](https://news.ycombinator.com/item?id=43836533) - [Why is AI so popular when nobody wants it?](https://newslttrs.com/why-is-ai-so-popular-when-nobody-wants-it/)
 * [2025-04-29, 18:02:03](https://news.ycombinator.com/item?id=43835948) - [Show HN: Neurox – GPU Observability for AI Infra](https://github.com/neuroxhq/helm-chart-neurox-control)
