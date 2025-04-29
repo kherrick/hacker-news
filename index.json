@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-29, 13:00:48",
+      "https://news.ycombinator.com/item?id=43831993"
+    ],
+    [
+      "Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding",
+      "https://memex.tech"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 12:36:40",
+      "https://news.ycombinator.com/item?id=43831767"
+    ],
+    [
+      "Uber raises in-office requirement to 3 days, claws back remote workers",
+      "https://www.cnbc.com/2025/04/28/uber-raises-in-office-requirement-to-3-days-claws-back-remote-workers.html"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 12:30:00",
       "https://news.ycombinator.com/item?id=43831708"
     ],
@@ -17,6 +37,36 @@
     [
       "Japan unveils first solar super-panel",
       "https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 12:23:19",
+      "https://news.ycombinator.com/item?id=43831628"
+    ],
+    [
+      "Programming languages should have a tree traversal primitive",
+      "https://blog.tylerglaiel.com/p/programming-languages-should-have"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 12:20:10",
+      "https://news.ycombinator.com/item?id=43831602"
+    ],
+    [
+      "After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth",
+      "https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 11:57:17",
+      "https://news.ycombinator.com/item?id=43831363"
+    ],
+    [
+      "Gaussian Splatting Meets ROS2",
+      "https://github.com/shadygm/ROSplat"
     ]
   ],
   [
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2025-04-29, 11:32:13",
-      "https://news.ycombinator.com/item?id=43831122"
-    ],
-    [
-      "Ask HN: AI Replacing Engineers – Firsthand Stories?",
-      "https://news.ycombinator.com/item?id=43831122"
-    ]
-  ],
-  [
-    [
       "2025-04-29, 11:17:24",
       "https://news.ycombinator.com/item?id=43831027"
     ],
@@ -67,16 +107,6 @@
     [
       "Generative AI is not replacing jobs or hurting wages at all, say economists",
       "https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 09:05:12",
-      "https://news.ycombinator.com/item?id=43830198"
-    ],
-    [
-      "Vibe Coding: Developer Slot Machines (Cursor, Windsurf)",
-      "https://prototypr.io/note/vibe-coding-cursor-windsurf-slot-machine"
     ]
   ],
   [
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2025-04-28, 23:12:28",
-      "https://news.ycombinator.com/item?id=43827108"
-    ],
-    [
-      "The 12-bit rainbow palette",
-      "https://iamkate.com/data/12-bit-rainbow/"
-    ]
-  ],
-  [
-    [
       "2025-04-28, 21:58:52",
       "https://news.ycombinator.com/item?id=43826584"
     ],
     [
       "The One-Person Framework in Practice",
       "https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 20:49:24",
-      "https://news.ycombinator.com/item?id=43825958"
-    ],
-    [
-      "Requirements change until they don't",
-      "https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Ask HN: What are you working on? (April 2025)",
       "https://news.ycombinator.com/item?id=43815523"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 20:09:08",
-      "https://news.ycombinator.com/item?id=43814716"
-    ],
-    [
-      "My takeaways from DjangoCon EU 2025",
-      "https://www.zachbellay.com/posts/djangocon-eu-2025/"
     ]
   ],
   [
