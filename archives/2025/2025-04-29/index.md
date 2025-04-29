@@ -8,6 +8,7 @@
 * [2025-04-29, 06:54:27](https://news.ycombinator.com/item?id=43829397) - [How the April 28, 2025 power outage in Portugal/Spain impacted Internet traffic](https://blog.cloudflare.com/how-power-outage-in-portugal-spain-impacted-internet/)
 * [2025-04-29, 06:46:36](https://news.ycombinator.com/item?id=43829356) - [Spain is about to face the challenge of a \"black start\"](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
 * [2025-04-29, 06:12:56](https://news.ycombinator.com/item?id=43829167) - [The Homebrew Channel repository is archived (Apr 28, 2025)](https://github.com/fail0verflow/hbc)
+* [2025-04-29, 05:53:38](https://news.ycombinator.com/item?id=43829080) - [Dear \"Security Researchers\"](https://ftp.bit.nl/pub/debian/)
 * [2025-04-29, 05:45:53](https://news.ycombinator.com/item?id=43829035) - [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
 * [2025-04-29, 05:40:56](https://news.ycombinator.com/item?id=43829008) - [CNCF tells main NATS contributor Synadia that it's free to fork off](https://www.theregister.com/2025/04/28/cncf_synadia_nats_dispute/)
 * [2025-04-29, 05:40:35](https://news.ycombinator.com/item?id=43829006) - [A single line of code cost $8000](https://pietrasiak.com/one-line-of-code-that-did-cost-dollar8000)
