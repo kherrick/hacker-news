@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-29, 09:04:35](https://news.ycombinator.com/item?id=43830193) - [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
-* [2025-04-29, 06:46:36](https://news.ycombinator.com/item?id=43829356) - [Spain is about to face the challenge of a \"black start\"](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
+* [2025-04-29, 08:18:12](https://news.ycombinator.com/item?id=43829927) - [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927)
 * [2025-04-29, 06:12:56](https://news.ycombinator.com/item?id=43829167) - [The Homebrew Channel repository is archived (Apr 28, 2025)](https://github.com/fail0verflow/hbc)
 * [2025-04-29, 05:53:38](https://news.ycombinator.com/item?id=43829080) - [Dear \"Security Researchers\"](https://ftp.bit.nl/pub/debian/)
 * [2025-04-29, 05:47:04](https://news.ycombinator.com/item?id=43829046) - [Implement Flash Attention Back End in SGLang – Basics and KV Cache](https://hebiao064.github.io/fa3-attn-backend-basic)
