@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-29, 15:13:27](https://news.ycombinator.com/item?id=43833783) - [Introducing the Meta AI App: A New Way to Access Your AI Assistant](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
 * [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 * [2025-04-29, 14:00:58](https://news.ycombinator.com/item?id=43832765) - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
 * [2025-04-29, 13:11:20](https://news.ycombinator.com/item?id=43832113) - [Amazon Wants to Be a Satellite-Internet Powerhouse. It Has a Long Way to Go](https://www.wsj.com/business/telecom/amazon-wants-to-be-a-satellite-internet-powerhouse-it-has-a-long-way-to-go-63554c28)
@@ -12,7 +13,6 @@
 * [2025-04-29, 11:57:17](https://news.ycombinator.com/item?id=43831363) - [Gaussian Splatting Meets ROS2](https://github.com/shadygm/ROSplat)
 * [2025-04-29, 11:49:55](https://news.ycombinator.com/item?id=43831298) - [Show HN: A Chrome extension that will auto-reject non-essential cookies](https://blog.bymitch.com/posts/reject-cookies/)
 * [2025-04-29, 11:35:03](https://news.ycombinator.com/item?id=43831142) - [Heart disease deaths worldwide linked to chemical widely used in plastics](https://medicalxpress.com/news/2025-04-heart-disease-deaths-worldwide-linked.html)
-* [2025-04-29, 11:17:24](https://news.ycombinator.com/item?id=43831027) - [Amazon to display tariff costs for consumers](https://punchbowl.news/article/tech/amazon-display-tariff-costs/)
 * [2025-04-29, 10:08:09](https://news.ycombinator.com/item?id=43830613) - [Generative AI is not replacing jobs or hurting wages at all, say economists](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/)
 * [2025-04-29, 09:59:04](https://news.ycombinator.com/item?id=43830544) - [How to build Intrinsic Motivation: a review of the science](https://erringtowardsanswers.substack.com/p/intrinsic-motivation)
 * [2025-04-29, 09:04:35](https://news.ycombinator.com/item?id=43830193) - [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 15:13:27](https://news.ycombinator.com/item?id=43833783) - [Introducing the Meta AI App: A New Way to Access Your AI Assistant](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
 * [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 * [2025-04-29, 14:00:58](https://news.ycombinator.com/item?id=43832765) - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
 * [2025-04-29, 13:49:22](https://news.ycombinator.com/item?id=43832588) - [White House slams Amazon tariff price display \"hostile and political\"](https://www.axios.com/2025/04/29/tariffs-amazon-prime-day-sellers-report)
