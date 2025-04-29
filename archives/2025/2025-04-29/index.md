@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 17:01:15](https://news.ycombinator.com/item?id=43835216) - [Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD](https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer)
+* [2025-04-29, 16:48:42](https://news.ycombinator.com/item?id=43835044) - [O3 Beats a Master-Level GeoGuessr Player–Even with Fake EXIF Data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master)
+* [2025-04-29, 16:41:27](https://news.ycombinator.com/item?id=43834942) - [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/)
 * [2025-04-29, 15:37:10](https://news.ycombinator.com/item?id=43834101) - [Firefox tab groups are here](https://blog.mozilla.org/en/firefox/tab-groups-community/)
 * [2025-04-29, 15:32:31](https://news.ycombinator.com/item?id=43834038) - [What Happens When There Are No Deals? – Paul Krugman](https://paulkrugman.substack.com/p/terror-and-embarrassment)
 * [2025-04-29, 15:13:27](https://news.ycombinator.com/item?id=43833783) - [Introducing the Meta AI App: A New Way to Access Your AI Assistant](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
