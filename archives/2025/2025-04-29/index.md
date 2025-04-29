@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 12:30:00](https://news.ycombinator.com/item?id=43831708) - [What Is \"Induced Atmospheric Vibration\"?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
+* [2025-04-29, 12:25:57](https://news.ycombinator.com/item?id=43831667) - [Japan unveils first solar super-panel](https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/)
+* [2025-04-29, 11:49:55](https://news.ycombinator.com/item?id=43831298) - [Show HN: A Chrome extension that will auto-reject non-essential cookies](https://blog.bymitch.com/posts/reject-cookies/)
+* [2025-04-29, 11:35:03](https://news.ycombinator.com/item?id=43831142) - [Heart disease deaths worldwide linked to chemical widely used in plastics](https://medicalxpress.com/news/2025-04-heart-disease-deaths-worldwide-linked.html)
+* [2025-04-29, 11:32:13](https://news.ycombinator.com/item?id=43831122) - [Ask HN: AI Replacing Engineers – Firsthand Stories?](https://news.ycombinator.com/item?id=43831122)
 * [2025-04-29, 11:17:24](https://news.ycombinator.com/item?id=43831027) - [Amazon to display tariff costs for consumers](https://punchbowl.news/article/tech/amazon-display-tariff-costs/)
 * [2025-04-29, 11:04:38](https://news.ycombinator.com/item?id=43830946) - [Spain and Portugal power outage: what caused it, and was there a cyber-attack?](https://www.theguardian.com/business/2025/apr/28/spain-and-portugal-power-outage-cause-cyber-attack-electricity)
 * [2025-04-29, 10:09:25](https://news.ycombinator.com/item?id=43830632) - [Canadians give Liberals 4th mandate as Carney leads party to minority win](https://www.ctvnews.ca/politics/article/canadians-give-liberals-4th-mandate-as-carney-leads-party-to-minority-win/)
