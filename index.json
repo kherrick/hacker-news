@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-29, 17:24:29",
+      "https://news.ycombinator.com/item?id=43835495"
+    ],
+    [
+      "Bamba: An open-source LLM that crosses a transformer with an SSM",
+      "https://research.ibm.com/blog/bamba-ssm-transformer-model"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 17:17:23",
+      "https://news.ycombinator.com/item?id=43835424"
+    ],
+    [
+      "Everything we announced at our first-ever LlamaCon",
+      "https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 17:01:15",
       "https://news.ycombinator.com/item?id=43835216"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=43835044"
     ],
     [
-      "O3 Beats a Master-Level GeoGuessr Player–Even with Fake EXIF Data",
+      "O3 beats a master-level GeoGuessr player, even with fake EXIF data",
       "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master"
     ]
   ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2025-04-29, 13:00:48",
+      "https://news.ycombinator.com/item?id=43831993"
+    ],
+    [
+      "Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding",
+      "https://memex.tech"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 12:30:00",
       "https://news.ycombinator.com/item?id=43831708"
     ],
@@ -85,18 +115,8 @@
       "https://news.ycombinator.com/item?id=43831705"
     ],
     [
-      "Why performance optimization is hard work",
+      "Performance optimization is hard because it's fundamentally a brute-force task",
       "https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 12:25:57",
-      "https://news.ycombinator.com/item?id=43831667"
-    ],
-    [
-      "Japan unveils first solar super-panel",
-      "https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-04-29, 02:16:27",
-      "https://news.ycombinator.com/item?id=43828131"
-    ],
-    [
-      "Manuscript of Ismail al-Jazarī's Ingenious Mechanical Devices (ca. 17th century)",
-      "https://publicdomainreview.org/collection/arabic-machine-manuscript/"
-    ]
-  ],
-  [
-    [
       "2025-04-28, 23:27:11",
       "https://news.ycombinator.com/item?id=43827214"
     ],
@@ -267,16 +277,6 @@
     [
       "One Million Chessboards",
       "https://onemillionchessboards.com/#199,276"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 10:50:58",
-      "https://news.ycombinator.com/item?id=43819791"
-    ],
-    [
-      "Widespread power outage in Spain and Portugal",
-      "https://www.bbc.com/news/live/c9wpq8xrvd9t"
     ]
   ],
   [
