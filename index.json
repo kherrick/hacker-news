@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-29, 14:38:43",
+      "https://news.ycombinator.com/item?id=43833310"
+    ],
+    [
+      "ArkFlow: High-performance Rust stream processing engine",
+      "https://github.com/arkflow-rs/arkflow"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 14:00:58",
       "https://news.ycombinator.com/item?id=43832765"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2025-04-29, 13:00:48",
-      "https://news.ycombinator.com/item?id=43831993"
-    ],
-    [
-      "Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding",
-      "https://memex.tech"
-    ]
-  ],
-  [
-    [
       "2025-04-29, 12:30:00",
       "https://news.ycombinator.com/item?id=43831708"
     ],
@@ -47,6 +47,16 @@
     [
       "Why performance optimization is hard work",
       "https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 12:25:57",
+      "https://news.ycombinator.com/item?id=43831667"
+    ],
+    [
+      "Japan unveils first solar super-panel",
+      "https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "One Million Chessboards",
       "https://onemillionchessboards.com/#199,276"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 16:14:31",
-      "https://news.ycombinator.com/item?id=43823096"
-    ],
-    [
-      "Show HN: Sim Studio – Open-Source Agent Workflow GUI",
-      "https://github.com/simstudioai/sim"
     ]
   ],
   [
