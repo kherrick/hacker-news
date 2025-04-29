@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 21:00:05](https://news.ycombinator.com/item?id=43837996) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
 * [2025-04-29, 20:42:34](https://news.ycombinator.com/item?id=43837810) - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)
 * [2025-04-29, 19:34:03](https://news.ycombinator.com/item?id=43837014) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/)
 * [2025-04-29, 19:27:54](https://news.ycombinator.com/item?id=43836943) - [FTC's 'Tech Censorship' Investigation Is Censoring Comments About 'Censorship'](https://www.techdirt.com/2025/04/29/ftcs-tech-censorship-investigation-is-censoring-comments-about-censorship/)
@@ -23,6 +24,7 @@
 * [2025-04-29, 15:13:27](https://news.ycombinator.com/item?id=43833783) - [Introducing the Meta AI App: A New Way to Access Your AI Assistant](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
 * [2025-04-29, 15:11:28](https://news.ycombinator.com/item?id=43833762) - [The last masters of Afro-Colombian machete fencing](https://globalvoices.org/2025/04/19/the-last-masters-of-afro-colombian-machete-fencing-fight-to-save-their-tradition/)
 * [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
+* [2025-04-29, 14:30:11](https://news.ycombinator.com/item?id=43833195) - [Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 * [2025-04-29, 14:00:58](https://news.ycombinator.com/item?id=43832765) - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
 * [2025-04-29, 13:49:22](https://news.ycombinator.com/item?id=43832588) - [White House slams Amazon tariff price display \"hostile and political\"](https://www.axios.com/2025/04/29/tariffs-amazon-prime-day-sellers-report)
 * [2025-04-29, 13:25:10](https://news.ycombinator.com/item?id=43832277) - [Elon Musk is wrong about GDP](https://timharford.com/2025/04/elon-musk-is-wrong-about-gdp/)
