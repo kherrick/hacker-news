@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-29, 09:04:35](https://news.ycombinator.com/item?id=43830193) - [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
 * [2025-04-29, 06:46:36](https://news.ycombinator.com/item?id=43829356) - [Spain is about to face the challenge of a \"black start\"](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
 * [2025-04-29, 06:12:56](https://news.ycombinator.com/item?id=43829167) - [The Homebrew Channel repository is archived (Apr 28, 2025)](https://github.com/fail0verflow/hbc)
 * [2025-04-29, 05:53:38](https://news.ycombinator.com/item?id=43829080) - [Dear \"Security Researchers\"](https://ftp.bit.nl/pub/debian/)
@@ -20,7 +21,6 @@
 * [2025-04-28, 18:47:36](https://news.ycombinator.com/item?id=43824640) - [Migrating away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
 * [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
-* [2025-04-28, 17:28:09](https://news.ycombinator.com/item?id=43823851) - [Is outbound going to die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
 * [2025-04-28, 16:14:31](https://news.ycombinator.com/item?id=43823096) - [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
 * [2025-04-28, 16:10:21](https://news.ycombinator.com/item?id=43823044) - [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
 * [2025-04-28, 15:36:25](https://news.ycombinator.com/item?id=43822659) - [Show HN: Web-eval-agent – Let the coding agent debug itself](https://github.com/Operative-Sh/web-eval-agent)
