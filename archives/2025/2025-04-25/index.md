@@ -38,6 +38,7 @@
 * [2025-04-25, 15:01:37](https://news.ycombinator.com/item?id=43794284) - [The $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
 * [2025-04-25, 14:53:52](https://news.ycombinator.com/item?id=43794217) - [I made a college punching bag for rejected highschoolers](https://ex.plor.ing/blog/post/college-punch)
 * [2025-04-25, 14:45:57](https://news.ycombinator.com/item?id=43794145) - [IKEA website shows a verbatim copy of the physical printed receipt in HTML](https://twitter.com/usgraphics/status/1914913818536497187)
+* [2025-04-25, 14:43:57](https://news.ycombinator.com/item?id=43794120) - [Show HN: An MCP server for understanding AWS costs](https://news.ycombinator.com/item?id=43794120)
 * [2025-04-25, 14:42:27](https://news.ycombinator.com/item?id=43794110) - [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
 * [2025-04-25, 14:39:59](https://news.ycombinator.com/item?id=43794081) - [Century-old genetics mystery of Mendel's peas solved](https://www.nature.com/articles/d41586-025-01269-8)
 * [2025-04-25, 14:31:40](https://news.ycombinator.com/item?id=43793986) - [UIT – performant, modular, low-memory file processing at scale, in the Cloud](https://github.com/janwilmake/uit)
