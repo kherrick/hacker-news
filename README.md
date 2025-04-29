@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-29, 05:40:56](https://news.ycombinator.com/item?id=43829008) - [CNCF tells main NATS contributor Synadia that it's free to fork off](https://www.theregister.com/2025/04/28/cncf_synadia_nats_dispute/)
 * [2025-04-29, 05:13:32](https://news.ycombinator.com/item?id=43828860) - [Drinking champagne could reduce risk of sudden cardiac arrest, study suggests](https://www.theguardian.com/society/2025/apr/29/drink-champagne-reduce-risk-sudden-cardiac-arrest-study-suggests)
 * [2025-04-29, 04:33:03](https://news.ycombinator.com/item?id=43828713) - [Knowledge-based society, my ass](https://mihaiolteanu.me/knowledge-based-society-my-ass)
 * [2025-04-29, 03:57:40](https://news.ycombinator.com/item?id=43828568) - [Congress passes Take It Down act despite major flaws](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws)
@@ -9,7 +10,6 @@
 * [2025-04-28, 23:12:28](https://news.ycombinator.com/item?id=43827108) - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
 * [2025-04-28, 21:59:22](https://news.ycombinator.com/item?id=43826586) - [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
 * [2025-04-28, 21:58:52](https://news.ycombinator.com/item?id=43826584) - [The One-Person Framework in Practice](https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o)
-* [2025-04-28, 21:06:02](https://news.ycombinator.com/item?id=43826116) - [Hunting for dark nights and wishing on stars](https://www.hcn.org/articles/hunting-for-dark-nights-and-wishing-on-stars/)
 * [2025-04-28, 21:01:59](https://news.ycombinator.com/item?id=43826065) - [Legal art forgery, for the sake of movies (2014)](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
 * [2025-04-28, 20:57:49](https://news.ycombinator.com/item?id=43826021) - [Packed Data Support in Haskell](https://arthi-chaud.github.io/posts/packed/)
 * [2025-04-28, 20:49:24](https://news.ycombinator.com/item?id=43825958) - [Requirements change until they don't](https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/)
@@ -19,7 +19,7 @@
 * [2025-04-28, 18:42:18](https://news.ycombinator.com/item?id=43824583) - [Show HN: Heart Rate Zones Plus – The first iOS app I developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
 * [2025-04-28, 18:38:46](https://news.ycombinator.com/item?id=43824544) - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
 * [2025-04-28, 17:28:09](https://news.ycombinator.com/item?id=43823851) - [Is outbound going to die?](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead)
-* [2025-04-28, 16:53:08](https://news.ycombinator.com/item?id=43823485) - [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
+* [2025-04-28, 17:01:20](https://news.ycombinator.com/item?id=43823580) - [Activeloop (YC S18) is hiring a VP of Engineering in Mountain View (on-site)](https://careers.activeloop.ai/)
 * [2025-04-28, 16:14:31](https://news.ycombinator.com/item?id=43823096) - [Show HN: Sim Studio – Open-Source Agent Workflow GUI](https://github.com/simstudioai/sim)
 * [2025-04-28, 16:10:21](https://news.ycombinator.com/item?id=43823044) - [Show HN: A pure WebGL image editor with filters, crop and perspective correction](https://github.com/xdadda/mini-photo-editor)
 * [2025-04-28, 15:36:25](https://news.ycombinator.com/item?id=43822659) - [Show HN: Web-eval-agent – Let the coding agent debug itself](https://github.com/Operative-Sh/web-eval-agent)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 05:40:56](https://news.ycombinator.com/item?id=43829008) - [CNCF tells main NATS contributor Synadia that it's free to fork off](https://www.theregister.com/2025/04/28/cncf_synadia_nats_dispute/)
 * [2025-04-29, 05:13:32](https://news.ycombinator.com/item?id=43828860) - [Drinking champagne could reduce risk of sudden cardiac arrest, study suggests](https://www.theguardian.com/society/2025/apr/29/drink-champagne-reduce-risk-sudden-cardiac-arrest-study-suggests)
 * [2025-04-29, 04:33:03](https://news.ycombinator.com/item?id=43828713) - [Knowledge-based society, my ass](https://mihaiolteanu.me/knowledge-based-society-my-ass)
 * [2025-04-29, 03:57:40](https://news.ycombinator.com/item?id=43828568) - [Congress passes Take It Down act despite major flaws](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws)
