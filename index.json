@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-04-29, 13:00:48",
-      "https://news.ycombinator.com/item?id=43831993"
-    ],
-    [
-      "Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding",
-      "https://memex.tech"
-    ]
-  ],
-  [
-    [
       "2025-04-29, 12:30:00",
       "https://news.ycombinator.com/item?id=43831708"
     ],
@@ -297,6 +287,16 @@
     [
       "Ask HN: What are you working on? (April 2025)",
       "https://news.ycombinator.com/item?id=43815523"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 07:50:07",
+      "https://news.ycombinator.com/item?id=43810211"
+    ],
+    [
+      "Running Clojure in WASM with GraalVM",
+      "https://romanliutikov.com/blog/running-clojure-in-wasm"
     ]
   ]
 ]
