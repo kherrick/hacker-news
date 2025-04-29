@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 17:35:48](https://news.ycombinator.com/item?id=43835623) - [Beyond Performance: Measuring the Environmental Impact of Analytical Databases](https://arxiv.org/abs/2504.18980)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
 * [2025-04-29, 17:19:04](https://news.ycombinator.com/item?id=43835445) - [I made my AI think harder by making it argue with itself. It works stupidly well](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
 * [2025-04-29, 17:17:23](https://news.ycombinator.com/item?id=43835424) - [Everything we announced at our first-ever LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1)
