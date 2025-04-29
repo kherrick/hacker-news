@@ -10,7 +10,6 @@
 * [2025-04-29, 15:13:27](https://news.ycombinator.com/item?id=43833783) - [Meta AI App built with Llama 4](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
 * [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 * [2025-04-29, 14:00:58](https://news.ycombinator.com/item?id=43832765) - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
-* [2025-04-29, 13:00:48](https://news.ycombinator.com/item?id=43831993) - [Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding](https://memex.tech)
 * [2025-04-29, 12:30:00](https://news.ycombinator.com/item?id=43831708) - [What Is \"Induced Atmospheric Vibration\"?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
 * [2025-04-29, 12:29:44](https://news.ycombinator.com/item?id=43831705) - [Performance optimization is hard because it's fundamentally a brute-force task](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [2025-04-29, 12:23:19](https://news.ycombinator.com/item?id=43831628) - [Programming languages should have a tree traversal primitive](https://blog.tylerglaiel.com/p/programming-languages-should-have)
@@ -30,6 +29,7 @@
 * [2025-04-28, 20:44:25](https://news.ycombinator.com/item?id=43825900) - [Qwen3: Think deeper, act faster](https://qwenlm.github.io/blog/qwen3/)
 * [2025-04-28, 19:52:02](https://news.ycombinator.com/item?id=43825336) - [One Million Chessboards](https://onemillionchessboards.com/#199,276)
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
+* [2025-04-27, 07:50:07](https://news.ycombinator.com/item?id=43810211) - [Running Clojure in WASM with GraalVM](https://romanliutikov.com/blog/running-clojure-in-wasm)
 
 ## [Archives](archives/index.md)
 
