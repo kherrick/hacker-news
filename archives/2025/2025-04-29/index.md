@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 07:08:50](https://news.ycombinator.com/item?id=43829490) - [Try Switching to Kagi](https://daringfireball.net/2025/04/try_switching_to_kagi)
+* [2025-04-29, 06:54:27](https://news.ycombinator.com/item?id=43829397) - [How the April 28, 2025 power outage in Portugal/Spain impacted Internet traffic](https://blog.cloudflare.com/how-power-outage-in-portugal-spain-impacted-internet/)
 * [2025-04-29, 06:46:36](https://news.ycombinator.com/item?id=43829356) - [Spain is about to face the challenge of a \"black start\"](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
 * [2025-04-29, 06:12:56](https://news.ycombinator.com/item?id=43829167) - [The Homebrew Channel repository is archived (Apr 28, 2025)](https://github.com/fail0verflow/hbc)
 * [2025-04-29, 05:45:53](https://news.ycombinator.com/item?id=43829035) - [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
