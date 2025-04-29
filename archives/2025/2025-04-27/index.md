@@ -15,6 +15,7 @@
 * [2025-04-27, 22:08:21](https://news.ycombinator.com/item?id=43815523) - [Ask HN: What are you working on? (April 2025)](https://news.ycombinator.com/item?id=43815523)
 * [2025-04-27, 22:06:38](https://news.ycombinator.com/item?id=43815511) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/)
 * [2025-04-27, 22:06:31](https://news.ycombinator.com/item?id=43815510) - [Computer Architects Can't Find the Average](https://dgsq.net/2025-04-27-averages/)
+* [2025-04-27, 21:49:30](https://news.ycombinator.com/item?id=43815406) - [Princeton Engineering Anomalies Research (2010)](https://pearlab.icrl.org/theory.html)
 * [2025-04-27, 21:40:20](https://news.ycombinator.com/item?id=43815354) - [How the idea of stripping citizenship for crimes spread across Europe](https://www.theguardian.com/world/2025/apr/26/how-idea-of-stripping-citizenship-for-crimes-spread-across-europe)
 * [2025-04-27, 21:21:50](https://news.ycombinator.com/item?id=43815247) - [Why \"Learn to code\" Failed [PolyMatter] [video]](https://www.youtube.com/watch?v=bThPluSzlDU)
 * [2025-04-27, 21:04:13](https://news.ycombinator.com/item?id=43815116) - [Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX](https://github.com/mezantrop/i486SX_soft_FPU)
