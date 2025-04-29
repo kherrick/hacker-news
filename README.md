@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-29, 21:00:05](https://news.ycombinator.com/item?id=43837996) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
-* [2025-04-29, 19:34:03](https://news.ycombinator.com/item?id=43837014) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/)
 * [2025-04-29, 17:35:48](https://news.ycombinator.com/item?id=43835623) - [Beyond Performance: Measuring the environmental impact of analytical databases](https://arxiv.org/abs/2504.18980)
 * [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
@@ -23,6 +22,7 @@
 * [2025-04-29, 07:08:50](https://news.ycombinator.com/item?id=43829490) - [Try Switching to Kagi](https://daringfireball.net/2025/04/try_switching_to_kagi)
 * [2025-04-29, 05:45:53](https://news.ycombinator.com/item?id=43829035) - [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
 * [2025-04-29, 05:40:35](https://news.ycombinator.com/item?id=43829006) - [A single line of code cost $8000](https://pietrasiak.com/one-line-of-code-that-did-cost-dollar8000)
+* [2025-04-29, 01:46:29](https://news.ycombinator.com/item?id=43827978) - [Duolingo will replace contract workers with AI](https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers)
 * [2025-04-28, 22:28:56](https://news.ycombinator.com/item?id=43826798) - [I use zip bombs to protect my server](https://idiallo.com/blog/zipbomb-protection)
 * [2025-04-28, 15:13:39](https://news.ycombinator.com/item?id=43822396) - [China's Clinical Trial Boom](https://www.asimov.press/p/china-trials)
 * [2025-04-28, 15:02:04](https://news.ycombinator.com/item?id=43822251) - [It's School time: Adventures in hacking an old Kindle](https://samkhawase.com/blog/hacking-kindle/)

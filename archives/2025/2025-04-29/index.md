@@ -65,5 +65,6 @@
 * [2025-04-29, 03:57:40](https://news.ycombinator.com/item?id=43828568) - [Congress passes Take It Down act despite major flaws](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws)
 * [2025-04-29, 02:16:27](https://news.ycombinator.com/item?id=43828131) - [Manuscript of Ismail al-Jazarī's Ingenious Mechanical Devices (ca. 17th century)](https://publicdomainreview.org/collection/arabic-machine-manuscript/)
 * [2025-04-29, 02:09:28](https://news.ycombinator.com/item?id=43828096) - [Greek Particles (1990)](https://specgram.com/Babel.I.2/07.sriyatha.greek.html)
+* [2025-04-29, 01:46:29](https://news.ycombinator.com/item?id=43827978) - [Duolingo will replace contract workers with AI](https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers)
 * [2025-04-29, 01:40:18](https://news.ycombinator.com/item?id=43827945) - [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
 * [2025-04-29, 00:51:39](https://news.ycombinator.com/item?id=43827655) - [An Ode to the Thigh](https://ponnekanti.net/posts/an-ode-to-the-thigh/)
