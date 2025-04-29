@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 11:04:38](https://news.ycombinator.com/item?id=43830946) - [Spain and Portugal power outage: what caused it, and was there a cyber-attack?](https://www.theguardian.com/business/2025/apr/28/spain-and-portugal-power-outage-cause-cyber-attack-electricity)
 * [2025-04-29, 10:09:25](https://news.ycombinator.com/item?id=43830632) - [Canadians give Liberals 4th mandate as Carney leads party to minority win](https://www.ctvnews.ca/politics/article/canadians-give-liberals-4th-mandate-as-carney-leads-party-to-minority-win/)
 * [2025-04-29, 10:08:09](https://news.ycombinator.com/item?id=43830613) - [Generative AI is not replacing jobs or hurting wages at all, say economists](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/)
 * [2025-04-29, 09:04:35](https://news.ycombinator.com/item?id=43830193) - [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
