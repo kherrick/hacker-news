@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-29, 23:06:02](https://news.ycombinator.com/item?id=43839123) - [Waymo partners with Toyota to bring autonomous driving to personal vehicles](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
+* [2025-04-29, 22:35:35](https://news.ycombinator.com/item?id=43838856) - [Path Isn't Real on Linux](https://blog.danielh.cc/blog/path)
 * [2025-04-29, 21:00:05](https://news.ycombinator.com/item?id=43837996) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
 * [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
@@ -24,7 +25,6 @@
 * [2025-04-28, 22:28:56](https://news.ycombinator.com/item?id=43826798) - [I use zip bombs to protect my server](https://idiallo.com/blog/zipbomb-protection)
 * [2025-04-28, 15:13:39](https://news.ycombinator.com/item?id=43822396) - [China's Clinical Trial Boom](https://www.asimov.press/p/china-trials)
 * [2025-04-28, 15:02:04](https://news.ycombinator.com/item?id=43822251) - [It's School time: Adventures in hacking an old Kindle](https://samkhawase.com/blog/hacking-kindle/)
-* [2025-04-28, 02:33:53](https://news.ycombinator.com/item?id=43817000) - [The missteps that led to a fatal plane crash at Reagan National Airport](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
 * [2025-04-27, 20:11:16](https://news.ycombinator.com/item?id=43814724) - [We need more optimistic science fiction](https://craig-russell.co.uk/blog/2024-10-24-optimistic-sci-fi/)
 * [2025-04-26, 17:23:49](https://news.ycombinator.com/item?id=43805457) - [Show HN: AgenticSeek – Self-hosted alternative to cloud-based AI tools](https://github.com/Fosowl/agenticSeek)
 * [2025-04-26, 06:24:32](https://news.ycombinator.com/item?id=43801371) - [Finding paths of least action with gradient descent (2023)](https://greydanus.github.io/2023/03/05/ncf-tutorial/)

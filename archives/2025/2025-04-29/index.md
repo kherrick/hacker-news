@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
 * [2025-04-29, 23:06:02](https://news.ycombinator.com/item?id=43839123) - [Waymo partners with Toyota to bring autonomous driving to personal vehicles](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
+* [2025-04-29, 22:35:35](https://news.ycombinator.com/item?id=43838856) - [Path Isn't Real on Linux](https://blog.danielh.cc/blog/path)
 * [2025-04-29, 21:18:03](https://news.ycombinator.com/item?id=43838149) - [Amazon Rules Out Displaying Tariff Impact After White House Attack](https://www.wsj.com/business/retail/amazon-considered-displaying-import-charges-on-its-ultracheap-site-f5cf7a8b)
 * [2025-04-29, 21:00:05](https://news.ycombinator.com/item?id=43837996) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
 * [2025-04-29, 20:59:51](https://news.ycombinator.com/item?id=43837993) - [Only Teslas Exempt from New Auto Tariffs Thanks to 85% Domestic Content Rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
