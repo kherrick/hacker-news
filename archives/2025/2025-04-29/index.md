@@ -5,3 +5,4 @@
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
 * [2025-04-29, 01:40:18](https://news.ycombinator.com/item?id=43827945) - [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
+* [2025-04-29, 00:51:39](https://news.ycombinator.com/item?id=43827655) - [An Ode to the Thigh](https://ponnekanti.net/posts/an-ode-to-the-thigh/)

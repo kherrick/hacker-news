@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-29, 01:40:18](https://news.ycombinator.com/item?id=43827945) - [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
+* [2025-04-29, 00:51:39](https://news.ycombinator.com/item?id=43827655) - [An Ode to the Thigh](https://ponnekanti.net/posts/an-ode-to-the-thigh/)
 * [2025-04-28, 23:27:11](https://news.ycombinator.com/item?id=43827214) - [Why did Windows 7 log on slower for months if you had a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
 * [2025-04-28, 23:12:28](https://news.ycombinator.com/item?id=43827108) - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
-* [2025-04-28, 21:59:22](https://news.ycombinator.com/item?id=43826586) - [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
 * [2025-04-28, 21:58:52](https://news.ycombinator.com/item?id=43826584) - [The One-Person Framework in Practice](https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o)
 * [2025-04-28, 21:06:02](https://news.ycombinator.com/item?id=43826116) - [Hunting for dark nights and wishing on stars](https://www.hcn.org/articles/hunting-for-dark-nights-and-wishing-on-stars/)
 * [2025-04-28, 21:01:59](https://news.ycombinator.com/item?id=43826065) - [Legal art forgery, for the sake of movies (2014)](https://www.vanityfair.com/hollywood/2014/04/art-in-movies)
