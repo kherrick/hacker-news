@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-30, 14:36:40](https://news.ycombinator.com/item?id=43845874) - [Why can't stinking rich Ivies cope with losing a few hundred million?](https://www.economist.com/briefing/2025/04/10/why-cant-stinking-rich-ivies-cope-with-losing-a-few-hundred-million)
 * [2025-04-30, 14:23:32](https://news.ycombinator.com/item?id=43845695) - [Study finds that budget cuts to public R&D would significantly hurt the economy](https://impa.american.edu/costs-of-cutting-scientific-research/)
 * [2025-04-30, 13:33:37](https://news.ycombinator.com/item?id=43845016) - [No as a Service](https://github.com/hotheadhacker/no-as-a-service)
 * [2025-04-30, 13:07:45](https://news.ycombinator.com/item?id=43844708) - [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
@@ -22,7 +23,6 @@
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
 * [2025-04-29, 17:19:04](https://news.ycombinator.com/item?id=43835445) - [Chain of Recursive Thoughts: Make AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
 * [2025-04-29, 14:30:11](https://news.ycombinator.com/item?id=43833195) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
-* [2025-04-29, 13:54:25](https://news.ycombinator.com/item?id=43832662) - [Mission Impossible: Managing AI Agents in the Real World](https://medium.com/gitconnected/mission-impossible-managing-ai-agents-in-the-real-world-f8e7834833af)
 * [2025-04-29, 12:39:31](https://news.ycombinator.com/item?id=43831792) - [New atomic fountain clock joins group that keeps the world on time](https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time)
 * [2025-04-29, 08:20:04](https://news.ycombinator.com/item?id=43829935) - [My sourdough starter has twins](https://brainbaking.com/post/2025/04/my-sourdough-starter-has-twins/)
 * [2025-04-29, 03:18:52](https://news.ycombinator.com/item?id=43828423) - [An illustrated guide to automatic sparse differentiation](https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/)
