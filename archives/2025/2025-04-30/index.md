@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
 * [2025-04-30, 06:44:04](https://news.ycombinator.com/item?id=43841957) - [Why Even Try If You Have A.I.?](https://www.newyorker.com/culture/open-questions/why-even-try-if-you-have-ai)
+* [2025-04-30, 06:29:15](https://news.ycombinator.com/item?id=43841868) - [Satya Nadella says as much as 30% of Microsoft code is written by AI](https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html)
 * [2025-04-30, 03:14:50](https://news.ycombinator.com/item?id=43840901) - [Dataframely: A polars-native data frame validation library](https://tech.quantco.com/blog/dataframely)
 * [2025-04-30, 03:08:46](https://news.ycombinator.com/item?id=43840861) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 * [2025-04-30, 03:06:26](https://news.ycombinator.com/item?id=43840842) - [Sycophancy in GPT-4o: What happened and what we're doing about it](https://openai.com/index/sycophancy-in-gpt-4o/)
