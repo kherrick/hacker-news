@@ -37,6 +37,7 @@
 * [2025-04-29, 13:11:20](https://news.ycombinator.com/item?id=43832113) - [Amazon Wants to Be a Satellite-Internet Powerhouse. It Has a Long Way to Go](https://www.wsj.com/business/telecom/amazon-wants-to-be-a-satellite-internet-powerhouse-it-has-a-long-way-to-go-63554c28)
 * [2025-04-29, 13:09:04](https://news.ycombinator.com/item?id=43832084) - [AirBorne: Wormable Zero-Click Remote Code Execution (RCE) in AirPlay Protocol](https://www.oligo.security/blog/airborne)
 * [2025-04-29, 13:00:48](https://news.ycombinator.com/item?id=43831993) - [Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding](https://memex.tech)
+* [2025-04-29, 12:39:31](https://news.ycombinator.com/item?id=43831792) - [New atomic fountain clock joins group that keeps the world on time](https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time)
 * [2025-04-29, 12:36:40](https://news.ycombinator.com/item?id=43831767) - [Uber raises in-office requirement to 3 days, claws back remote workers](https://www.cnbc.com/2025/04/28/uber-raises-in-office-requirement-to-3-days-claws-back-remote-workers.html)
 * [2025-04-29, 12:30:00](https://news.ycombinator.com/item?id=43831708) - [What Is \"Induced Atmospheric Vibration\"?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
 * [2025-04-29, 12:29:44](https://news.ycombinator.com/item?id=43831705) - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
