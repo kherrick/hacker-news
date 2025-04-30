@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-30, 06:44:04](https://news.ycombinator.com/item?id=43841957) - [Why Even Try If You Have A.I.?](https://www.newyorker.com/culture/open-questions/why-even-try-if-you-have-ai)
 * [2025-04-30, 03:14:50](https://news.ycombinator.com/item?id=43840901) - [Dataframely: A polars-native data frame validation library](https://tech.quantco.com/blog/dataframely)
 * [2025-04-30, 03:08:46](https://news.ycombinator.com/item?id=43840861) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 * [2025-04-30, 03:06:26](https://news.ycombinator.com/item?id=43840842) - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
@@ -12,6 +11,7 @@
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
 * [2025-04-29, 17:19:04](https://news.ycombinator.com/item?id=43835445) - [Chain of Recursive Thoughts: Make AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
 * [2025-04-29, 17:17:23](https://news.ycombinator.com/item?id=43835424) - [Everything we announced at our first LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1)
+* [2025-04-29, 16:48:42](https://news.ycombinator.com/item?id=43835044) - [O3 beats a master-level GeoGuessr player, even with fake EXIF data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master)
 * [2025-04-29, 15:37:10](https://news.ycombinator.com/item?id=43834101) - [Firefox tab groups are here](https://blog.mozilla.org/en/firefox/tab-groups-community/)
 * [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 * [2025-04-29, 14:30:11](https://news.ycombinator.com/item?id=43833195) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
@@ -25,9 +25,9 @@
 * [2025-04-28, 22:28:56](https://news.ycombinator.com/item?id=43826798) - [I use zip bombs to protect my server](https://idiallo.com/blog/zipbomb-protection)
 * [2025-04-28, 18:39:19](https://news.ycombinator.com/item?id=43824548) - [WorldGen: Open-source 3D scene generator for Game/VR/XR](https://worldgen.github.io/)
 * [2025-04-28, 15:02:04](https://news.ycombinator.com/item?id=43822251) - [It's School time: Adventures in hacking an old Kindle](https://samkhawase.com/blog/hacking-kindle/)
-* [2025-04-27, 20:20:25](https://news.ycombinator.com/item?id=43814802) - [Show HN: Talanoa – The email client I always dreamed of (people-first, Kanban)](https://talanoa.email/)
 * [2025-04-26, 21:10:14](https://news.ycombinator.com/item?id=43807245) - [The lost secrets of Palm webOS (2014)](https://www.theverge.com/2014/1/2/5264580/the-lost-secrets-of-webos)
 * [2025-04-26, 17:23:49](https://news.ycombinator.com/item?id=43805457) - [Show HN: AgenticSeek – Self-hosted alternative to cloud-based AI tools](https://github.com/Fosowl/agenticSeek)
+* [2025-04-26, 06:24:32](https://news.ycombinator.com/item?id=43801371) - [Finding paths of least action with gradient descent (2023)](https://greydanus.github.io/2023/03/05/ncf-tutorial/)
 * [2025-04-25, 14:43:57](https://news.ycombinator.com/item?id=43794120) - [Show HN: An MCP server for understanding AWS costs](https://news.ycombinator.com/item?id=43794120)
 * [2025-04-25, 12:15:24](https://news.ycombinator.com/item?id=43792774) - [Show HN: An interactive demo of QR codes' error correction](https://qris.cool)
 
