@@ -3,7 +3,6 @@
 * [2025-04-30, 14:57:31](https://news.ycombinator.com/item?id=43846187) - [Joining Sun Microsystems – 40 years ago (2022)](https://akapugs.blog/2022/05/03/674/)
 * [2025-04-30, 14:23:32](https://news.ycombinator.com/item?id=43845695) - [Study finds that budget cuts to public R&D would significantly hurt the economy](https://impa.american.edu/costs-of-cutting-scientific-research/)
 * [2025-04-30, 13:38:57](https://news.ycombinator.com/item?id=43845089) - [\"AI-first\" is the new Return To Office](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/)
-* [2025-04-30, 13:33:37](https://news.ycombinator.com/item?id=43845016) - [No as a Service](https://github.com/hotheadhacker/no-as-a-service)
 * [2025-04-30, 13:07:45](https://news.ycombinator.com/item?id=43844708) - [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
 * [2025-04-30, 13:04:04](https://news.ycombinator.com/item?id=43844665) - [Show HN: Kexa.io – Open-Source IT Security and Compliance Verification](https://news.ycombinator.com/item?id=43844665)
 * [2025-04-30, 12:38:41](https://news.ycombinator.com/item?id=43844342) - [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
@@ -28,6 +27,7 @@
 * [2025-04-29, 08:20:04](https://news.ycombinator.com/item?id=43829935) - [My sourdough starter has twins](https://brainbaking.com/post/2025/04/my-sourdough-starter-has-twins/)
 * [2025-04-29, 03:18:52](https://news.ycombinator.com/item?id=43828423) - [An illustrated guide to automatic sparse differentiation](https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/)
 * [2025-04-28, 22:28:56](https://news.ycombinator.com/item?id=43826798) - [I use zip bombs to protect my server](https://idiallo.com/blog/zipbomb-protection)
+* [2025-04-28, 18:39:19](https://news.ycombinator.com/item?id=43824548) - [WorldGen: Open-source 3D scene generator for Game/VR/XR](https://worldgen.github.io/)
 * [2025-04-28, 02:33:53](https://news.ycombinator.com/item?id=43817000) - [The missteps that led to a fatal plane crash at Reagan National Airport](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
 * [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
 
