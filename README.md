@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-30, 17:35:08](https://news.ycombinator.com/item?id=43848398) - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
+* [2025-04-30, 17:33:31](https://news.ycombinator.com/item?id=43848381) - [The Mira Pro Color is Boox's first color E Ink monitor](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor)
 * [2025-04-30, 17:28:38](https://news.ycombinator.com/item?id=43848325) - [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
 * [2025-04-30, 17:01:05](https://news.ycombinator.com/item?id=43848007) - [Archil (YC F24) Is Hiring a Distributed Systems Engineer (In-Person, SF)](https://news.ycombinator.com/item?id=43848007)
 * [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
@@ -10,7 +11,6 @@
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube needs glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 * [2025-04-30, 14:57:31](https://news.ycombinator.com/item?id=43846187) - [Joining Sun Microsystems – 40 years ago (2022)](https://akapugs.blog/2022/05/03/674/)
 * [2025-04-30, 14:36:40](https://news.ycombinator.com/item?id=43845874) - [Why can't Ivies cope with losing a few hundred million?](https://www.economist.com/briefing/2025/04/10/why-cant-stinking-rich-ivies-cope-with-losing-a-few-hundred-million)
-* [2025-04-30, 13:38:57](https://news.ycombinator.com/item?id=43845089) - [\"AI-first\" is the new Return To Office](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/)
 * [2025-04-30, 13:07:45](https://news.ycombinator.com/item?id=43844708) - [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
 * [2025-04-30, 13:04:04](https://news.ycombinator.com/item?id=43844665) - [Show HN: Kexa.io – Open-Source IT Security and Compliance Verification](https://news.ycombinator.com/item?id=43844665)
 * [2025-04-30, 12:31:47](https://news.ycombinator.com/item?id=43844279) - [OCaml's Wings for Machine Learning](https://github.com/raven-ml/raven)
