@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 11:10:49](https://news.ycombinator.com/item?id=43843547) - [Statewide fluoride ban for tap water passes in Florida](https://www.miamiherald.com/news/local/community/miami-dade/article305335416.html)
+* [2025-04-30, 09:47:55](https://news.ycombinator.com/item?id=43843010) - [Amazon Rules Out Displaying Tariff Impact After White House Attack](https://www.wsj.com/business/retail/amazon-considered-displaying-import-charges-on-its-ultracheap-site-f5cf7a8b)
 * [2025-04-30, 09:29:42](https://news.ycombinator.com/item?id=43842915) - [Awesome List on AI for Security](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)
 * [2025-04-30, 09:17:30](https://news.ycombinator.com/item?id=43842856) - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
 * [2025-04-30, 09:10:56](https://news.ycombinator.com/item?id=43842821) - [AI TIMLINE – All prominent events in the field](https://nhlocal.github.io/AiTimeline/)
