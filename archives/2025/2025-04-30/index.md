@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 12:38:41](https://news.ycombinator.com/item?id=43844342) - [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
 * [2025-04-30, 11:42:06](https://news.ycombinator.com/item?id=43843821) - [Retailers will soon have only about 7 weeks of full inventories left](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/)
 * [2025-04-30, 11:19:40](https://news.ycombinator.com/item?id=43843621) - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
 * [2025-04-30, 11:10:49](https://news.ycombinator.com/item?id=43843547) - [Statewide fluoride ban for tap water passes in Florida](https://www.miamiherald.com/news/local/community/miami-dade/article305335416.html)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-30, 12:38:41](https://news.ycombinator.com/item?id=43844342) - [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
 * [2025-04-30, 11:42:06](https://news.ycombinator.com/item?id=43843821) - [Retailers will soon have only about 7 weeks of full inventories left](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/)
 * [2025-04-30, 11:19:40](https://news.ycombinator.com/item?id=43843621) - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
-* [2025-04-30, 11:10:49](https://news.ycombinator.com/item?id=43843547) - [Statewide fluoride ban for tap water passes in Florida](https://www.miamiherald.com/news/local/community/miami-dade/article305335416.html)
 * [2025-04-30, 09:17:30](https://news.ycombinator.com/item?id=43842856) - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
 * [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:58:24](https://news.ycombinator.com/item?id=43842380) - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
@@ -11,7 +11,6 @@
 * [2025-04-30, 03:06:26](https://news.ycombinator.com/item?id=43840842) - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
 * [2025-04-30, 02:53:02](https://news.ycombinator.com/item?id=43840763) - [What It Takes to Defend a Cybersecurity Company from Today's Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
 * [2025-04-30, 01:26:31](https://news.ycombinator.com/item?id=43840193) - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
-* [2025-04-29, 21:00:05](https://news.ycombinator.com/item?id=43837996) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
 * [2025-04-29, 19:45:48](https://news.ycombinator.com/item?id=43837171) - [Researchers are studying how to minimize human impact on public lands](https://undark.org/2025/04/28/keep-wild-places-wild/)
 * [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
 * [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
@@ -28,6 +27,7 @@
 * [2025-04-28, 22:28:56](https://news.ycombinator.com/item?id=43826798) - [I use zip bombs to protect my server](https://idiallo.com/blog/zipbomb-protection)
 * [2025-04-28, 18:39:19](https://news.ycombinator.com/item?id=43824548) - [WorldGen: Open-source 3D scene generator for Game/VR/XR](https://worldgen.github.io/)
 * [2025-04-28, 15:02:04](https://news.ycombinator.com/item?id=43822251) - [It's School time: Adventures in hacking an old Kindle](https://samkhawase.com/blog/hacking-kindle/)
+* [2025-04-28, 02:33:53](https://news.ycombinator.com/item?id=43817000) - [The missteps that led to a fatal plane crash at Reagan National Airport](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
 * [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
 * [2025-04-25, 14:43:57](https://news.ycombinator.com/item?id=43794120) - [Show HN: An MCP server for understanding AWS costs](https://news.ycombinator.com/item?id=43794120)
 
