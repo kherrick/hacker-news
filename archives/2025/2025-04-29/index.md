@@ -10,6 +10,7 @@
 * [2025-04-29, 21:00:05](https://news.ycombinator.com/item?id=43837996) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
 * [2025-04-29, 20:59:51](https://news.ycombinator.com/item?id=43837993) - [Only Teslas Exempt from New Auto Tariffs Thanks to 85% Domestic Content Rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
 * [2025-04-29, 20:42:34](https://news.ycombinator.com/item?id=43837810) - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)
+* [2025-04-29, 20:36:05](https://news.ycombinator.com/item?id=43837751) - [BSSG – My journey from dynamic CMS to bash static site generator](https://it-notes.dragas.net/2025/04/07/launching-bssg-my-journey-from-dynamic-cms-to-bash-static-site-generator/)
 * [2025-04-29, 19:45:48](https://news.ycombinator.com/item?id=43837171) - [Researchers are studying how to minimize human impact on public lands](https://undark.org/2025/04/28/keep-wild-places-wild/)
 * [2025-04-29, 19:45:03](https://news.ycombinator.com/item?id=43837162) - [Art of the Hedgerow](https://engelsbergideas.com/notebook/the-art-of-the-hedgerow/)
 * [2025-04-29, 19:34:03](https://news.ycombinator.com/item?id=43837014) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/)
