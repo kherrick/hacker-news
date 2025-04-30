@@ -2,6 +2,7 @@
 
 * [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
 * [2025-04-30, 16:19:50](https://news.ycombinator.com/item?id=43847368) - [Young people aren't as happy as they used to be [Global Flourishing Study]](https://www.nytimes.com/2025/04/30/well/mind/happiness-flourishing-young-adult-study.html)
+* [2025-04-30, 15:35:00](https://news.ycombinator.com/item?id=43846690) - [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube Needs Glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 * [2025-04-30, 14:57:31](https://news.ycombinator.com/item?id=43846187) - [Joining Sun Microsystems – 40 years ago (2022)](https://akapugs.blog/2022/05/03/674/)
 * [2025-04-30, 14:49:45](https://news.ycombinator.com/item?id=43846052) - [Wikipedia says it will use AI, but not to replace human volunteers](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/)
@@ -21,7 +22,6 @@
 * [2025-04-30, 01:26:31](https://news.ycombinator.com/item?id=43840193) - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [2025-04-29, 19:45:48](https://news.ycombinator.com/item?id=43837171) - [Researchers are studying how to minimize human impact on public lands](https://undark.org/2025/04/28/keep-wild-places-wild/)
 * [2025-04-29, 17:32:25](https://news.ycombinator.com/item?id=43835584) - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
-* [2025-04-29, 17:24:29](https://news.ycombinator.com/item?id=43835495) - [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
 * [2025-04-29, 17:19:04](https://news.ycombinator.com/item?id=43835445) - [Chain of Recursive Thoughts: Make AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
 * [2025-04-29, 14:30:11](https://news.ycombinator.com/item?id=43833195) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 * [2025-04-29, 12:39:31](https://news.ycombinator.com/item?id=43831792) - [New atomic fountain clock joins group that keeps the world on time](https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time)

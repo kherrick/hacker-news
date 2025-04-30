@@ -6,6 +6,7 @@
 
 * [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
 * [2025-04-30, 16:19:50](https://news.ycombinator.com/item?id=43847368) - [Young people aren't as happy as they used to be [Global Flourishing Study]](https://www.nytimes.com/2025/04/30/well/mind/happiness-flourishing-young-adult-study.html)
+* [2025-04-30, 15:35:00](https://news.ycombinator.com/item?id=43846690) - [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube Needs Glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 * [2025-04-30, 14:57:31](https://news.ycombinator.com/item?id=43846187) - [Joining Sun Microsystems – 40 years ago (2022)](https://akapugs.blog/2022/05/03/674/)
 * [2025-04-30, 14:49:45](https://news.ycombinator.com/item?id=43846052) - [Wikipedia says it will use AI, but not to replace human volunteers](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/)
