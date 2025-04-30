@@ -30,6 +30,7 @@
 * [2025-04-29, 14:38:43](https://news.ycombinator.com/item?id=43833310) - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
 * [2025-04-29, 14:30:11](https://news.ycombinator.com/item?id=43833195) - [Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 * [2025-04-29, 14:00:58](https://news.ycombinator.com/item?id=43832765) - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
+* [2025-04-29, 13:54:25](https://news.ycombinator.com/item?id=43832662) - [Mission Impossible: Managing AI Agents in the Real World](https://medium.com/gitconnected/mission-impossible-managing-ai-agents-in-the-real-world-f8e7834833af)
 * [2025-04-29, 13:49:22](https://news.ycombinator.com/item?id=43832588) - [White House slams Amazon tariff price display \"hostile and political\"](https://www.axios.com/2025/04/29/tariffs-amazon-prime-day-sellers-report)
 * [2025-04-29, 13:25:10](https://news.ycombinator.com/item?id=43832277) - [Elon Musk is wrong about GDP](https://timharford.com/2025/04/elon-musk-is-wrong-about-gdp/)
 * [2025-04-29, 13:11:20](https://news.ycombinator.com/item?id=43832113) - [Amazon Wants to Be a Satellite-Internet Powerhouse. It Has a Long Way to Go](https://www.wsj.com/business/telecom/amazon-wants-to-be-a-satellite-internet-powerhouse-it-has-a-long-way-to-go-63554c28)
