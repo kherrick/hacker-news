@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-30, 13:07:45](https://news.ycombinator.com/item?id=43844708) - [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
 * [2025-04-30, 13:04:56](https://news.ycombinator.com/item?id=43844675) - [Groups move for disclosure of Chemours' sealed PFAS documents](https://www.thenewlede.org/2025/04/groups-move-for-disclosure-of-chemours-sealed-pfas-documents/)
 * [2025-04-30, 12:38:41](https://news.ycombinator.com/item?id=43844342) - [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
 * [2025-04-30, 11:19:40](https://news.ycombinator.com/item?id=43843621) - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
@@ -7,7 +8,6 @@
 * [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:58:24](https://news.ycombinator.com/item?id=43842380) - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
-* [2025-04-30, 03:14:50](https://news.ycombinator.com/item?id=43840901) - [Dataframely: A polars-native data frame validation library](https://tech.quantco.com/blog/dataframely)
 * [2025-04-30, 03:08:46](https://news.ycombinator.com/item?id=43840861) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 * [2025-04-30, 03:06:26](https://news.ycombinator.com/item?id=43840842) - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
 * [2025-04-30, 02:53:02](https://news.ycombinator.com/item?id=43840763) - [What It Takes to Defend a Cybersecurity Company from Today's Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
