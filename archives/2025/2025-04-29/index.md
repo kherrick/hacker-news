@@ -53,6 +53,7 @@
 * [2025-04-29, 09:59:04](https://news.ycombinator.com/item?id=43830544) - [How to build Intrinsic Motivation: a review of the science](https://erringtowardsanswers.substack.com/p/intrinsic-motivation)
 * [2025-04-29, 09:05:12](https://news.ycombinator.com/item?id=43830198) - [Vibe Coding: Developer Slot Machines (Cursor, Windsurf)](https://prototypr.io/note/vibe-coding-cursor-windsurf-slot-machine)
 * [2025-04-29, 09:04:35](https://news.ycombinator.com/item?id=43830193) - [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
+* [2025-04-29, 08:20:04](https://news.ycombinator.com/item?id=43829935) - [My sourdough starter has twins](https://brainbaking.com/post/2025/04/my-sourdough-starter-has-twins/)
 * [2025-04-29, 08:18:12](https://news.ycombinator.com/item?id=43829927) - [Ask HN: Is there hope for Microsoft 365 support?](https://news.ycombinator.com/item?id=43829927)
 * [2025-04-29, 07:08:50](https://news.ycombinator.com/item?id=43829490) - [Try Switching to Kagi](https://daringfireball.net/2025/04/try_switching_to_kagi)
 * [2025-04-29, 06:54:27](https://news.ycombinator.com/item?id=43829397) - [How the April 28, 2025 power outage in Portugal/Spain impacted Internet traffic](https://blog.cloudflare.com/how-power-outage-in-portugal-spain-impacted-internet/)
