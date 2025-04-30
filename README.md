@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-30, 13:34:07](https://news.ycombinator.com/item?id=43845022) - [RFK Jr is wrong – there's a rich history of autistic poets](https://theconversation.com/rfk-jr-said-many-autistic-people-will-never-write-a-poem-even-though-theres-a-rich-history-of-neurodivergent-poets-and-writers-255367)
 * [2025-04-30, 13:07:45](https://news.ycombinator.com/item?id=43844708) - [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
-* [2025-04-30, 13:04:56](https://news.ycombinator.com/item?id=43844675) - [Groups move for disclosure of Chemours' sealed PFAS documents](https://www.thenewlede.org/2025/04/groups-move-for-disclosure-of-chemours-sealed-pfas-documents/)
 * [2025-04-30, 12:38:41](https://news.ycombinator.com/item?id=43844342) - [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
 * [2025-04-30, 11:19:40](https://news.ycombinator.com/item?id=43843621) - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
 * [2025-04-30, 09:17:30](https://news.ycombinator.com/item?id=43842856) - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
