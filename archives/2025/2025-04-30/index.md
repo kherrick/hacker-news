@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 18:11:13](https://news.ycombinator.com/item?id=43848858) - [Columbia student Mohsen Mahdawi is free after judge orders his release](https://www.nbcnews.com/news/us-news/judge-orders-columbia-student-mohsen-mahdawi-released-rcna203675)
 * [2025-04-30, 17:40:22](https://news.ycombinator.com/item?id=43848462) - [Columbia student Mohsen Mahdawi is released from detention](https://www.npr.org/2025/04/30/nx-s1-5382306/mohsen-madawi-released-ice-columbia-university-activist-judge)
+* [2025-04-30, 17:35:08](https://news.ycombinator.com/item?id=43848398) - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
 * [2025-04-30, 17:28:38](https://news.ycombinator.com/item?id=43848325) - [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
 * [2025-04-30, 17:01:05](https://news.ycombinator.com/item?id=43848007) - [Archil (YC F24) Is Hiring a Distributed Systems Engineer (In-Person, SF)](https://news.ycombinator.com/item?id=43848007)
 * [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)

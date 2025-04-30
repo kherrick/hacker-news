@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-30, 17:40:22](https://news.ycombinator.com/item?id=43848462) - [Columbia student Mohsen Mahdawi is released from detention](https://www.npr.org/2025/04/30/nx-s1-5382306/mohsen-madawi-released-ice-columbia-university-activist-judge)
+* [2025-04-30, 18:11:13](https://news.ycombinator.com/item?id=43848858) - [Columbia student Mohsen Mahdawi is free after judge orders his release](https://www.nbcnews.com/news/us-news/judge-orders-columbia-student-mohsen-mahdawi-released-rcna203675)
+* [2025-04-30, 17:35:08](https://news.ycombinator.com/item?id=43848398) - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
 * [2025-04-30, 17:28:38](https://news.ycombinator.com/item?id=43848325) - [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
 * [2025-04-30, 17:01:05](https://news.ycombinator.com/item?id=43848007) - [Archil (YC F24) Is Hiring a Distributed Systems Engineer (In-Person, SF)](https://news.ycombinator.com/item?id=43848007)
 * [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
-* [2025-04-30, 16:19:50](https://news.ycombinator.com/item?id=43847368) - [Young people aren't as happy as they used to be [Global Flourishing Study]](https://www.nytimes.com/2025/04/30/well/mind/happiness-flourishing-young-adult-study.html)
 * [2025-04-30, 15:53:36](https://news.ycombinator.com/item?id=43846964) - [Show HN: Create your own finetuned AI model using Google Sheets](https://promptrepo.com/finetune/)
 * [2025-04-30, 15:35:00](https://news.ycombinator.com/item?id=43846690) - [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube needs glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
