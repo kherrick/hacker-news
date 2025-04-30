@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 11:19:40](https://news.ycombinator.com/item?id=43843621) - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
 * [2025-04-30, 11:10:49](https://news.ycombinator.com/item?id=43843547) - [Statewide fluoride ban for tap water passes in Florida](https://www.miamiherald.com/news/local/community/miami-dade/article305335416.html)
 * [2025-04-30, 09:47:55](https://news.ycombinator.com/item?id=43843010) - [Amazon Rules Out Displaying Tariff Impact After White House Attack](https://www.wsj.com/business/retail/amazon-considered-displaying-import-charges-on-its-ultracheap-site-f5cf7a8b)
 * [2025-04-30, 09:29:42](https://news.ycombinator.com/item?id=43842915) - [Awesome List on AI for Security](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)
