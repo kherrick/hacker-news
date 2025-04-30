@@ -25,6 +25,7 @@
 * [2025-04-27, 20:53:03](https://news.ycombinator.com/item?id=43815044) - [How a Pipe Organ Works](https://www.pipedreams.org/page/how-a-pipe-organ-works)
 * [2025-04-27, 20:51:20](https://news.ycombinator.com/item?id=43815033) - [AI Coding assistants provide little value because a programmer's job is to think](https://www.doliver.org/articles/programming-is-a-thinkers-game)
 * [2025-04-27, 20:40:33](https://news.ycombinator.com/item?id=43814934) - [Boxie – an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
+* [2025-04-27, 20:20:25](https://news.ycombinator.com/item?id=43814802) - [Show HN: Talanoa – The email client I always dreamed of (people-first, Kanban)](https://talanoa.email/)
 * [2025-04-27, 20:11:16](https://news.ycombinator.com/item?id=43814724) - [We need more optimistic science fiction](https://craig-russell.co.uk/blog/2024-10-24-optimistic-sci-fi/)
 * [2025-04-27, 20:09:08](https://news.ycombinator.com/item?id=43814716) - [My takeaways from DjangoCon EU 2025](https://www.zachbellay.com/posts/djangocon-eu-2025/)
 * [2025-04-27, 20:08:38](https://news.ycombinator.com/item?id=43814708) - [I Just Want to Code](https://www.zachbellay.com/daily/i-just-want-to-code/)
