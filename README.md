@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-30, 17:40:22](https://news.ycombinator.com/item?id=43848462) - [Columbia student Mohsen Mahdawi is released from detention](https://www.npr.org/2025/04/30/nx-s1-5382306/mohsen-madawi-released-ice-columbia-university-activist-judge)
 * [2025-04-30, 17:28:38](https://news.ycombinator.com/item?id=43848325) - [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
 * [2025-04-30, 17:01:05](https://news.ycombinator.com/item?id=43848007) - [Archil (YC F24) Is Hiring a Distributed Systems Engineer (In-Person, SF)](https://news.ycombinator.com/item?id=43848007)
 * [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
@@ -14,7 +15,6 @@
 * [2025-04-30, 13:04:04](https://news.ycombinator.com/item?id=43844665) - [Show HN: Kexa.io – Open-Source IT Security and Compliance Verification](https://news.ycombinator.com/item?id=43844665)
 * [2025-04-30, 12:31:47](https://news.ycombinator.com/item?id=43844279) - [OCaml's Wings for Machine Learning](https://github.com/raven-ml/raven)
 * [2025-04-30, 11:42:06](https://news.ycombinator.com/item?id=43843821) - [Retailers will soon have only about 7 weeks of full inventories left](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/)
-* [2025-04-30, 11:41:17](https://news.ycombinator.com/item?id=43843808) - [Lessons from the Lebanese Space Program – Kasurian](https://kasurian.com/p/lebanese-space-program)
 * [2025-04-30, 09:17:30](https://news.ycombinator.com/item?id=43842856) - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
 * [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:58:24](https://news.ycombinator.com/item?id=43842380) - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
@@ -24,11 +24,11 @@
 * [2025-04-30, 02:53:02](https://news.ycombinator.com/item?id=43840763) - [What It Takes to Defend a Cybersecurity Company from Today's Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
 * [2025-04-30, 01:26:31](https://news.ycombinator.com/item?id=43840193) - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [2025-04-29, 19:45:48](https://news.ycombinator.com/item?id=43837171) - [Researchers are studying how to minimize human impact on public lands](https://undark.org/2025/04/28/keep-wild-places-wild/)
-* [2025-04-29, 17:19:04](https://news.ycombinator.com/item?id=43835445) - [Chain of Recursive Thoughts: Make AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
 * [2025-04-29, 14:30:11](https://news.ycombinator.com/item?id=43833195) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 * [2025-04-29, 12:39:31](https://news.ycombinator.com/item?id=43831792) - [New atomic fountain clock joins group that keeps the world on time](https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time)
 * [2025-04-29, 12:30:00](https://news.ycombinator.com/item?id=43831708) - [What Is \"Induced Atmospheric Vibration\"?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
 * [2025-04-29, 08:20:04](https://news.ycombinator.com/item?id=43829935) - [My sourdough starter has twins](https://brainbaking.com/post/2025/04/my-sourdough-starter-has-twins/)
+* [2025-04-28, 02:33:53](https://news.ycombinator.com/item?id=43817000) - [The missteps that led to a fatal plane crash at Reagan National Airport](https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html)
 * [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
 
 ## [Archives](archives/index.md)
