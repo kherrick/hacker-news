@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-30, 20:36:37](https://news.ycombinator.com/item?id=43850377) - [JetBrains defends removal of negative reviews for unpopular AI Assistant](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/)
-* [2025-04-30, 19:51:24](https://news.ycombinator.com/item?id=43849870) - [Doge Put a College Student in Charge of Using AI to Rewrite Regulations](https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/)
+* [2025-04-30, 20:23:33](https://news.ycombinator.com/item?id=43850238) - [Zhaoxin's KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
 * [2025-04-30, 19:43:55](https://news.ycombinator.com/item?id=43849791) - [NYC home prices rise 10% in early 2025](https://qns.com/2025/04/home-prices-rise-early-2025-malba-highest-queens/)
 * [2025-04-30, 19:03:49](https://news.ycombinator.com/item?id=43849383) - [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/)
-* [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: CVE-2025-21756](https://hoefler.dev/articles/vsock.html)
+* [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: Attack of the Vsock](https://hoefler.dev/articles/vsock.html)
 * [2025-04-30, 18:51:52](https://news.ycombinator.com/item?id=43849271) - [Future of OSU Open Source Lab in Jeopardy](https://osuosl.org/blog/osl-future/)
 * [2025-04-30, 17:35:08](https://news.ycombinator.com/item?id=43848398) - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
 * [2025-04-30, 17:33:31](https://news.ycombinator.com/item?id=43848381) - [The Mira Pro Color is Boox's first color E Ink monitor](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor)
