@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 17:01:05](https://news.ycombinator.com/item?id=43848007) - [Archil (YC F24) Is Hiring a Distributed Systems Engineer (In-Person, SF)](https://news.ycombinator.com/item?id=43848007)
 * [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
 * [2025-04-30, 16:19:50](https://news.ycombinator.com/item?id=43847368) - [Young people aren't as happy as they used to be [Global Flourishing Study]](https://www.nytimes.com/2025/04/30/well/mind/happiness-flourishing-young-adult-study.html)
+* [2025-04-30, 15:53:36](https://news.ycombinator.com/item?id=43846964) - [Show HN: Create your own finetuned AI model using Google Sheets](https://promptrepo.com/finetune/)
 * [2025-04-30, 15:35:00](https://news.ycombinator.com/item?id=43846690) - [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube Needs Glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 * [2025-04-30, 14:57:31](https://news.ycombinator.com/item?id=43846187) - [Joining Sun Microsystems – 40 years ago (2022)](https://akapugs.blog/2022/05/03/674/)
