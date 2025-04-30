@@ -7,6 +7,7 @@
 * [2025-04-30, 09:29:42](https://news.ycombinator.com/item?id=43842915) - [Awesome List on AI for Security](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)
 * [2025-04-30, 09:17:30](https://news.ycombinator.com/item?id=43842856) - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
 * [2025-04-30, 09:10:56](https://news.ycombinator.com/item?id=43842821) - [AI TIMLINE – All prominent events in the field](https://nhlocal.github.io/AiTimeline/)
+* [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi unveils open-source AI reasoning model MiMo](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:58:24](https://news.ycombinator.com/item?id=43842380) - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I Created Perfect Wiki and Reached $250K in Annual Revenue Without Investors](https://habr.com/en/articles/905812/)
 * [2025-04-30, 06:44:04](https://news.ycombinator.com/item?id=43841957) - [Why Even Try If You Have A.I.?](https://www.newyorker.com/culture/open-questions/why-even-try-if-you-have-ai)

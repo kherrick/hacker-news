@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-30, 09:29:42](https://news.ycombinator.com/item?id=43842915) - [Awesome List on AI for Security](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)
 * [2025-04-30, 09:17:30](https://news.ycombinator.com/item?id=43842856) - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
 * [2025-04-30, 09:10:56](https://news.ycombinator.com/item?id=43842821) - [AI TIMLINE – All prominent events in the field](https://nhlocal.github.io/AiTimeline/)
+* [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi unveils open-source AI reasoning model MiMo](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:58:24](https://news.ycombinator.com/item?id=43842380) - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I Created Perfect Wiki and Reached $250K in Annual Revenue Without Investors](https://habr.com/en/articles/905812/)
-* [2025-04-30, 06:29:15](https://news.ycombinator.com/item?id=43841868) - [Satya Nadella says as much as 30% of Microsoft code is written by AI](https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html)
 * [2025-04-30, 03:14:50](https://news.ycombinator.com/item?id=43840901) - [Dataframely: A polars-native data frame validation library](https://tech.quantco.com/blog/dataframely)
 * [2025-04-30, 03:08:46](https://news.ycombinator.com/item?id=43840861) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 * [2025-04-30, 03:06:26](https://news.ycombinator.com/item?id=43840842) - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
@@ -29,6 +28,7 @@
 * [2025-04-28, 18:39:19](https://news.ycombinator.com/item?id=43824548) - [WorldGen: Open-source 3D scene generator for Game/VR/XR](https://worldgen.github.io/)
 * [2025-04-28, 17:32:36](https://news.ycombinator.com/item?id=43823899) - [Can LLMs do randomness?](https://rnikhil.com/2025/04/26/llm-coin-toss-odd-even)
 * [2025-04-28, 15:02:04](https://news.ycombinator.com/item?id=43822251) - [It's School time: Adventures in hacking an old Kindle](https://samkhawase.com/blog/hacking-kindle/)
+* [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
 * [2025-04-25, 14:43:57](https://news.ycombinator.com/item?id=43794120) - [Show HN: An MCP server for understanding AWS costs](https://news.ycombinator.com/item?id=43794120)
 
 ## [Archives](archives/index.md)
