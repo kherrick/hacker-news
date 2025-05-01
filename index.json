@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-04-30, 15:35:00",
+      "https://news.ycombinator.com/item?id=43846690"
+    ],
+    [
+      "Show HN: ART – a new open-source RL framework for training agents",
+      "https://github.com/OpenPipe/ART"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 15:18:47",
       "https://news.ycombinator.com/item?id=43846487"
     ],
@@ -277,16 +287,6 @@
     [
       "You Wouldn't Download a Hacker News",
       "https://www.jasonthorsness.com/25"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 14:30:11",
-      "https://news.ycombinator.com/item?id=43833195"
-    ],
-    [
-      "Jepsen: Amazon RDS for PostgreSQL 17.4",
-      "https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4"
     ]
   ],
   [
