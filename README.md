@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-01, 21:11:38](https://news.ycombinator.com/item?id=43863418) - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
 * [2025-05-01, 20:08:48](https://news.ycombinator.com/item?id=43862774) - [The Art of Managing Skunks](https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html)
 * [2025-05-01, 19:46:10](https://news.ycombinator.com/item?id=43862487) - [Oxide’s compensation model: how is it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
@@ -17,7 +18,6 @@
 * [2025-05-01, 15:25:36](https://news.ycombinator.com/item?id=43858970) - [Mac app launches slowed by malware scan (2024)](https://lapcatsoftware.com/articles/2024/2/3.html)
 * [2025-05-01, 15:16:48](https://news.ycombinator.com/item?id=43858826) - [How the Water System Works](https://www.thenewatlantis.com/publications/how-water-system-works)
 * [2025-05-01, 15:01:44](https://news.ycombinator.com/item?id=43858568) - [Starting July 1, academic publishers can't paywall NIH-funded research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
-* [2025-05-01, 14:51:43](https://news.ycombinator.com/item?id=43858442) - [Are you the same person you used to be? (2022)](https://www.newyorker.com/magazine/2022/10/10/are-you-the-same-person-you-used-to-be-life-is-hard-the-origins-of-you)
 * [2025-05-01, 14:06:55](https://news.ycombinator.com/item?id=43857856) - [Show HN: Hyperparam: OSS tools for exploring datasets locally in the browser](https://hyperparam.app/about/opensource)
 * [2025-05-01, 13:50:38](https://news.ycombinator.com/item?id=43857643) - [AI code review: Should the author be the reviewer?](https://www.greptile.com/blog/ai-code-reviews-conflict)
 * [2025-05-01, 12:28:21](https://news.ycombinator.com/item?id=43856801) - [Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival](https://linkwarden.app/)

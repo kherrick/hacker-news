@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 21:11:38](https://news.ycombinator.com/item?id=43863418) - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
 * [2025-05-01, 20:08:48](https://news.ycombinator.com/item?id=43862774) - [The Art of Managing Skunks](https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html)
 * [2025-05-01, 19:46:10](https://news.ycombinator.com/item?id=43862487) - [Oxide's compensation model: how's it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
