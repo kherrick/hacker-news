@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-01, 03:11:56](https://news.ycombinator.com/item?id=43853322) - [Show HN: Using AI to test the beauty for you](https://www.beautytestai.com/en)
+* [2025-05-01, 07:02:02](https://news.ycombinator.com/item?id=43854498) - [Dropbox will require App Indicator support on Linux](https://help.dropbox.com/installs/dropbox-desktop-app-for-linux)
 * [2025-05-01, 02:40:14](https://news.ycombinator.com/item?id=43853188) - [Wyze pays $255k of tariffs on $167k of floodlights](https://twitter.com/WyzeCam/status/1917662183036706849)
 * [2025-05-01, 02:26:16](https://news.ycombinator.com/item?id=43853118) - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
 * [2025-05-01, 02:25:55](https://news.ycombinator.com/item?id=43853116) - [A competing theory to 'dark energy' suggests universe has different time zones](https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116)
