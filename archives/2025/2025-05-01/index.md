@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 16:20:58](https://news.ycombinator.com/item?id=43859814) - [A senior Apple exec could be jailed in Epic case; it's time to end this disaster](https://9to5mac.com/2025/05/01/a-senior-apple-exec-could-be-jailed-in-epic-case-its-time-to-end-this-disaster/)
+* [2025-05-01, 16:02:14](https://news.ycombinator.com/item?id=43859536) - [Claude can now connect to your world](https://www.anthropic.com/news/integrations)
 * [2025-05-01, 15:57:43](https://news.ycombinator.com/item?id=43859464) - [Show HN: Mechanical Computer Kit (Roons)](https://whomtech.com/show-hn/)
 * [2025-05-01, 15:56:35](https://news.ycombinator.com/item?id=43859446) - [Redis is open source again](https://antirez.com/news/151)
 * [2025-05-01, 15:25:36](https://news.ycombinator.com/item?id=43858970) - [Why some Mac apps launch slowly: A follow-up](https://lapcatsoftware.com/articles/2025/5/1.html)
