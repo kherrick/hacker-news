@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-01, 21:11:38](https://news.ycombinator.com/item?id=43863418) - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
-* [2025-05-01, 20:19:06](https://news.ycombinator.com/item?id=43862893) - [Ancient DNA Unveils the Cosmopolitan Heart of the Phoenician-Punic Civilization](https://allthathistory.com/archaeology-discoveries/phoenician-punic-civilization/2622/)
 * [2025-05-01, 20:08:48](https://news.ycombinator.com/item?id=43862774) - [The Art of Managing Skunks](https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html)
 * [2025-05-01, 19:46:10](https://news.ycombinator.com/item?id=43862487) - [Oxide’s compensation model: how is it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
@@ -28,6 +27,7 @@
 * [2025-05-01, 00:48:11](https://news.ycombinator.com/item?id=43852446) - [Blood droplets on inclined surfaces reveal new cracking patterns](https://phys.org/news/2025-04-blood-droplets-inclined-surfaces-reveal.html)
 * [2025-05-01, 00:30:34](https://news.ycombinator.com/item?id=43852315) - [Hybrid AC/DC distribution system with a shared neutral (2020)](https://electrical-engineering-portal.com/download-center/books-and-guides/electricity-generation-t-d/hybrid-ac-dc-distribution)
 * [2025-05-01, 00:06:00](https://news.ycombinator.com/item?id=43852162) - [Office is too slow, so Microsoft is making it load at Windows startup](https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html)
+* [2025-04-30, 21:39:40](https://news.ycombinator.com/item?id=43850989) - [Tolkien Against the Grain](https://www.dissentmagazine.org/article/tolkien-against-the-grain/)
 * [2025-04-30, 20:30:01](https://news.ycombinator.com/item?id=43850309) - [Creating beautiful charts with JRuby and JFreeChart](https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html)
 * [2025-04-29, 02:09:48](https://news.ycombinator.com/item?id=43828099) - [DECtalk Archive](https://dectalk.nu/)
 
