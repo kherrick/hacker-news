@@ -1,22 +1,72 @@
 [
   [
     [
+      "2025-05-01, 01:01:02",
+      "https://news.ycombinator.com/item?id=43852548"
+    ],
+    [
+      "GroMo (YC W21) Is Hiring",
+      "https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 00:54:02",
+      "https://news.ycombinator.com/item?id=43852500"
+    ],
+    [
+      "Republicans in Congress Want a Flat $200 Annual EV Tax",
+      "https://arstechnica.com/cars/2025/04/republicans-want-to-tax-ev-drivers-200-year-in-new-transport-bill/"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 00:16:49",
+      "https://news.ycombinator.com/item?id=43852220"
+    ],
+    [
+      "Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104",
+      "https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 00:06:00",
+      "https://news.ycombinator.com/item?id=43852162"
+    ],
+    [
+      "Office is too slow, so Microsoft is making it load at Windows startup",
+      "https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 00:03:55",
+      "https://news.ycombinator.com/item?id=43852145"
+    ],
+    [
+      "Apple Violated Antitrust Ruling, Judge Finds",
+      "https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 23:59:09",
+      "https://news.ycombinator.com/item?id=43852096"
+    ],
+    [
+      "Pwning the Ladybird Browser",
+      "https://jessie.cafe/posts/pwning-ladybirds-libjs/"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 22:15:21",
       "https://news.ycombinator.com/item?id=43851314"
     ],
     [
       "Espressif's ESP32-C5 Is Now in Mass Production",
       "https://www.espressif.com/en/news/ESP32-C5_Mass_Production"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 22:04:41",
-      "https://news.ycombinator.com/item?id=43851225"
-    ],
-    [
-      "Home washing machines fail to remove important pathogens from textiles",
-      "https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html"
     ]
   ],
   [
@@ -51,12 +101,12 @@
   ],
   [
     [
-      "2025-04-30, 19:43:55",
-      "https://news.ycombinator.com/item?id=43849791"
+      "2025-04-30, 19:17:28",
+      "https://news.ycombinator.com/item?id=43849536"
     ],
     [
-      "NYC home prices rise 10% in early 2025",
-      "https://qns.com/2025/04/home-prices-rise-early-2025-malba-highest-queens/"
+      "I Found Malware in a BeamNG Mod",
+      "https://lemonyte.com/blog/beamng-malware"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2025-04-30, 17:01:05",
-      "https://news.ycombinator.com/item?id=43848007"
-    ],
-    [
-      "Archil (YC F24) Is Hiring a Distributed Systems Engineer (In-Person, SF)",
-      "https://news.ycombinator.com/item?id=43848007"
-    ]
-  ],
-  [
-    [
       "2025-04-30, 16:23:28",
       "https://news.ycombinator.com/item?id=43847432"
     ],
@@ -157,46 +197,6 @@
     [
       "Someone at YouTube needs glasses",
       "https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 14:57:31",
-      "https://news.ycombinator.com/item?id=43846187"
-    ],
-    [
-      "Joining Sun Microsystems – 40 years ago (2022)",
-      "https://akapugs.blog/2022/05/03/674/"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 13:07:45",
-      "https://news.ycombinator.com/item?id=43844708"
-    ],
-    [
-      "Port of Los Angeles says shipping volume will plummet 35% next week",
-      "https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 13:04:04",
-      "https://news.ycombinator.com/item?id=43844665"
-    ],
-    [
-      "Show HN: Kexa.io – Open-Source IT Security and Compliance Verification",
-      "https://news.ycombinator.com/item?id=43844665"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 12:31:47",
-      "https://news.ycombinator.com/item?id=43844279"
-    ],
-    [
-      "OCaml's Wings for Machine Learning",
-      "https://github.com/raven-ml/raven"
     ]
   ],
   [
