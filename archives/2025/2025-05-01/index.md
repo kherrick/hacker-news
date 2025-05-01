@@ -6,6 +6,7 @@
 
 * [2025-05-01, 22:34:15](https://news.ycombinator.com/item?id=43864108) - [The Day Anubis Saved Our Websites from a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
 * [2025-05-01, 22:08:55](https://news.ycombinator.com/item?id=43863937) - [Deno's Decline](https://dbushell.com/2025/04/28/denos-decline/)
+* [2025-05-01, 21:40:27](https://news.ycombinator.com/item?id=43863672) - [Google Wallet launches new age and identity verification features (ZK proofs)](https://blog.google/products/google-pay/google-wallet-age-identity-verifications/)
 * [2025-05-01, 21:11:38](https://news.ycombinator.com/item?id=43863418) - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
 * [2025-05-01, 20:19:06](https://news.ycombinator.com/item?id=43862893) - [Ancient DNA Unveils the Cosmopolitan Heart of the Phoenician-Punic Civilization](https://allthathistory.com/archaeology-discoveries/phoenician-punic-civilization/2622/)
 * [2025-05-01, 20:08:48](https://news.ycombinator.com/item?id=43862774) - [The Art of Managing Skunks](https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html)
