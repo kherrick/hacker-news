@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-04-30, 23:48:53",
-      "https://news.ycombinator.com/item?id=43852016"
-    ],
-    [
-      "Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that",
-      "https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/"
-    ]
-  ],
-  [
-    [
       "2025-04-30, 22:54:07",
       "https://news.ycombinator.com/item?id=43851612"
     ],
@@ -217,6 +207,16 @@
     [
       "NotebookLM Audio Overviews are now available in over 50 languages",
       "https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 16:23:28",
+      "https://news.ycombinator.com/item?id=43847432"
+    ],
+    [
+      "DeepSeek-Prover-V2",
+      "https://github.com/deepseek-ai/DeepSeek-Prover-V2"
     ]
   ],
   [
