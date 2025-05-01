@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43862487"
     ],
     [
-      "Oxide's compensation model: how's it going?",
+      "Oxide’s compensation model: how is it going?",
       "https://oxide.computer/blog/oxides-compensation-model-how-is-it-going"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "C++26: more constexpr in the standard library",
       "https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 17:47:15",
-      "https://news.ycombinator.com/item?id=43860993"
-    ],
-    [
-      "Making of Monkeys.zip",
-      "https://www.lukeschaefer.dev/posts/making-of-monkeys/"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43860428"
     ],
     [
-      "Millihertz 5 Mechanical Computer",
+      "Millihertz 5 Mechanical Computer (2022)",
       "https://www.srimech.com/MHZ5.html"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43860368"
     ],
     [
-      "Waypoint Transit (YC W25) Is Hiring a Founding Engineer",
+      "Waypoint Transit (YC W25) is hiring a software engineer",
       "https://www.workatastartup.com/jobs/75517"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=43859464"
     ],
     [
-      "Show HN: Mechanical Computer Kit (Roons)",
+      "Show HN: Roons – Mechanical Computer Kit",
       "https://whomtech.com/show-hn/"
     ]
   ],
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43850309"
     ],
     [
-      "Creating Beautiful Charts with JRuby and JFreeChart",
+      "Creating beautiful charts with JRuby and JFreeChart",
       "https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The cat that wouldn't die",
       "https://aeon.co/essays/no-schrodingers-cat-is-not-alive-and-dead-at-the-same-time"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 02:09:48",
+      "https://news.ycombinator.com/item?id=43828099"
+    ],
+    [
+      "DECtalk Archive",
+      "https://dectalk.nu/"
     ]
   ]
 ]
