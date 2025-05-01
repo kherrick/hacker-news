@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 * [2025-05-01, 17:29:16](https://news.ycombinator.com/item?id=43860726) - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
 * [2025-05-01, 17:27:07](https://news.ycombinator.com/item?id=43860696) - [The Gang Has a Mid-Life Crisis](https://chris-martin.org/2025/the-gang-has-a-mid-life-crisis)
+* [2025-05-01, 17:04:58](https://news.ycombinator.com/item?id=43860431) - [Git Changesets](https://github.com/changesets/changesets)
 * [2025-05-01, 17:04:47](https://news.ycombinator.com/item?id=43860428) - [Millihertz 5 Mechanical Computer](https://www.srimech.com/MHZ5.html)
 * [2025-05-01, 17:00:45](https://news.ycombinator.com/item?id=43860368) - [Waypoint Transit (YC W25) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/75517)
 * [2025-05-01, 16:48:26](https://news.ycombinator.com/item?id=43860207) - [Arizona laptop farmer pleads guilty for funneling $17M to Kim Jong Un](https://www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/)
@@ -24,11 +26,9 @@
 * [2025-05-01, 12:14:25](https://news.ycombinator.com/item?id=43856656) - [Trust Me, I'm Local: Chrome Extensions, MCP, and the Sandbox Escape](https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823)
 * [2025-05-01, 11:54:04](https://news.ycombinator.com/item?id=43856489) - [How to vibe code for free: Running Qwen3 on your Mac, using MLX](https://localforge.dev/blog/running-qwen3-macbook-mlx)
 * [2025-05-01, 11:15:08](https://news.ycombinator.com/item?id=43856186) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
-* [2025-05-01, 07:51:39](https://news.ycombinator.com/item?id=43854776) - [When ChatGPT Broke an Entire Field: An Oral History](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/)
 * [2025-05-01, 03:21:55](https://news.ycombinator.com/item?id=43853382) - [The one interview question that will protect you from North Korean fake workers](https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/)
+* [2025-05-01, 00:30:34](https://news.ycombinator.com/item?id=43852315) - [Hybrid AC/DC distribution system with a shared neutral (2020)](https://electrical-engineering-portal.com/download-center/books-and-guides/electricity-generation-t-d/hybrid-ac-dc-distribution)
 * [2025-05-01, 00:06:00](https://news.ycombinator.com/item?id=43852162) - [Office is too slow, so Microsoft is making it load at Windows startup](https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html)
-* [2025-05-01, 00:03:55](https://news.ycombinator.com/item?id=43852145) - [Apple violated antitrust ruling, judge finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
-* [2025-04-30, 22:54:07](https://news.ycombinator.com/item?id=43851612) - [How the US defense secretary circumvents official DoD communications equipment](https://www.electrospaces.net/2025/04/how-us-defense-secretary-hegseth.html)
 * [2025-04-30, 18:44:17](https://news.ycombinator.com/item?id=43849197) - [The cat that wouldn't die](https://aeon.co/essays/no-schrodingers-cat-is-not-alive-and-dead-at-the-same-time)
 
 ## [Archives](archives/index.md)

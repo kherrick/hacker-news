@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 * [2025-05-01, 17:33:20](https://news.ycombinator.com/item?id=43860783) - ['ProtectEU' security strategy: a step further towards a digital dystopian future](https://edri.org/our-work/protecteu-security-strategy-a-step-further-towards-a-digital-dystopian-future/)
 * [2025-05-01, 17:29:16](https://news.ycombinator.com/item?id=43860726) - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
 * [2025-05-01, 17:27:07](https://news.ycombinator.com/item?id=43860696) - [The Gang Has a Mid-Life Crisis](https://chris-martin.org/2025/the-gang-has-a-mid-life-crisis)
@@ -58,6 +59,7 @@
 * [2025-05-01, 01:01:02](https://news.ycombinator.com/item?id=43852548) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts)
 * [2025-05-01, 00:57:42](https://news.ycombinator.com/item?id=43852527) - [Stockhausen: Sounds in Space](https://stockhausenspace.blogspot.com/)
 * [2025-05-01, 00:54:02](https://news.ycombinator.com/item?id=43852500) - [Republicans in Congress Want a Flat $200 Annual EV Tax](https://arstechnica.com/cars/2025/04/republicans-want-to-tax-ev-drivers-200-year-in-new-transport-bill/)
+* [2025-05-01, 00:30:34](https://news.ycombinator.com/item?id=43852315) - [Hybrid AC/DC distribution system with a shared neutral (2020)](https://electrical-engineering-portal.com/download-center/books-and-guides/electricity-generation-t-d/hybrid-ac-dc-distribution)
 * [2025-05-01, 00:22:01](https://news.ycombinator.com/item?id=43852266) - [108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/)
 * [2025-05-01, 00:16:49](https://news.ycombinator.com/item?id=43852220) - [Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html)
 * [2025-05-01, 00:06:00](https://news.ycombinator.com/item?id=43852162) - [Office is too slow, so Microsoft is making it load at Windows startup](https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html)
