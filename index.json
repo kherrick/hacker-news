@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-05-01, 01:02:41",
-      "https://news.ycombinator.com/item?id=43852564"
-    ],
-    [
-      "Phi-4 Reasoning Models",
-      "https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 01:01:02",
       "https://news.ycombinator.com/item?id=43852548"
     ],
@@ -207,6 +197,16 @@
     [
       "NotebookLM Audio Overviews are now available in over 50 languages",
       "https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 16:23:28",
+      "https://news.ycombinator.com/item?id=43847432"
+    ],
+    [
+      "DeepSeek-Prover-V2",
+      "https://github.com/deepseek-ai/DeepSeek-Prover-V2"
     ]
   ],
   [
