@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-01, 03:11:56](https://news.ycombinator.com/item?id=43853322) - [Show HN: Using AI to test the beauty for you](https://www.beautytestai.com/en)
 * [2025-05-01, 02:40:14](https://news.ycombinator.com/item?id=43853188) - [Wyze pays $255k of tariffs on $167k of floodlights](https://twitter.com/WyzeCam/status/1917662183036706849)
 * [2025-05-01, 02:26:16](https://news.ycombinator.com/item?id=43853118) - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
 * [2025-05-01, 02:25:55](https://news.ycombinator.com/item?id=43853116) - [A competing theory to 'dark energy' suggests universe has different time zones](https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116)
@@ -20,7 +21,6 @@
 * [2025-04-30, 18:51:52](https://news.ycombinator.com/item?id=43849271) - [Future of OSU Open Source Lab in Jeopardy](https://osuosl.org/blog/osl-future/)
 * [2025-04-30, 17:35:08](https://news.ycombinator.com/item?id=43848398) - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
 * [2025-04-30, 17:28:38](https://news.ycombinator.com/item?id=43848325) - [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
-* [2025-04-30, 16:23:28](https://news.ycombinator.com/item?id=43847432) - [DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
 * [2025-04-30, 15:53:36](https://news.ycombinator.com/item?id=43846964) - [Show HN: Create your own finetuned AI model using Google Sheets](https://promptrepo.com/finetune/)
 * [2025-04-30, 15:35:00](https://news.ycombinator.com/item?id=43846690) - [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube needs glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
