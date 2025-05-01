@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-01, 14:09:39](https://news.ycombinator.com/item?id=43857903) - [RFK Jr. rejects cornerstone of health science: Germ theory](https://arstechnica.com/health/2025/04/rfk-jr-s-anti-vaccine-stance-is-rooted-in-a-disbelief-in-germ-theory/)
 * [2025-05-01, 14:07:09](https://news.ycombinator.com/item?id=43857862) - [Vanguard 50-year anniversary CEO letter](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/of-investor-by-investor-for-investor-since-1975.html)
 * [2025-05-01, 13:08:06](https://news.ycombinator.com/item?id=43857191) - [NASA's Psyche spacecraft hits a speed bump on the way to a metal asteroid](https://arstechnica.com/space/2025/04/engineers-probe-pressure-drop-in-psyche-spacecrafts-propulsion-system/)
 * [2025-05-01, 12:53:43](https://news.ycombinator.com/item?id=43857040) - [If you're in the market for a $1,900 color E Ink monitor, one of them exists now](https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/)
@@ -26,6 +25,7 @@
 * [2025-04-30, 19:17:28](https://news.ycombinator.com/item?id=43849536) - [I Found Malware in a BeamNG Mod](https://lemonyte.com/blog/beamng-malware)
 * [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: Attack of the Vsock](https://hoefler.dev/articles/vsock.html)
 * [2025-04-30, 17:35:08](https://news.ycombinator.com/item?id=43848398) - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
+* [2025-04-30, 17:28:38](https://news.ycombinator.com/item?id=43848325) - [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube needs glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 * [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
