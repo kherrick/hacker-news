@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-01, 09:16:54](https://news.ycombinator.com/item?id=43855304) - [Microsoft gets twitchy over talk of Europe's tech independence](https://www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/)
+* [2025-05-01, 05:58:24](https://news.ycombinator.com/item?id=43854162) - [The Secret Services' involvement in the making of The Line of Fire (1993) [pdf]](https://www.governmentattic.org/58docs/USSSmovieInTheLineOfFireNoDate.pdf)
 * [2025-05-01, 02:26:16](https://news.ycombinator.com/item?id=43853118) - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
 * [2025-05-01, 02:25:55](https://news.ycombinator.com/item?id=43853116) - [A competing theory to 'dark energy' suggests universe has different time zones](https://www.cbc.ca/radio/quirks/dark-energy-time-zones-1.7465116)
 * [2025-05-01, 01:31:19](https://news.ycombinator.com/item?id=43852771) - [Show HN: Convert Large CSV/XLSX to JSON or XML in Browser](https://csvforge.com)
@@ -27,7 +28,6 @@
 * [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
 * [2025-04-30, 01:26:31](https://news.ycombinator.com/item?id=43840193) - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
-* [2025-04-29, 12:30:00](https://news.ycombinator.com/item?id=43831708) - [What Is \"Induced Atmospheric Vibration\"?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
 * [2025-04-28, 23:03:19](https://news.ycombinator.com/item?id=43827054) - [All four major web browsers are about to lose 80% of their funding](https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1)
 * [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
 
