@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-01, 14:07:09](https://news.ycombinator.com/item?id=43857862) - [Vanguard 50-year anniversary CEO letter](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/of-investor-by-investor-for-investor-since-1975.html)
+* [2025-05-01, 14:06:55](https://news.ycombinator.com/item?id=43857856) - [Show HN: Hyperparam: OSS Tools for Exploring Datasets Locally in the Browser](https://hyperparam.app/about/opensource)
 * [2025-05-01, 13:08:06](https://news.ycombinator.com/item?id=43857191) - [NASA's Psyche spacecraft hits a speed bump on the way to a metal asteroid](https://arstechnica.com/space/2025/04/engineers-probe-pressure-drop-in-psyche-spacecrafts-propulsion-system/)
 * [2025-05-01, 12:53:43](https://news.ycombinator.com/item?id=43857040) - [If you're in the market for a $1,900 color E Ink monitor, one of them exists now](https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/)
 * [2025-05-01, 12:28:47](https://news.ycombinator.com/item?id=43856803) - [International Workers' Day](https://en.wikipedia.org/wiki/International_Workers%27_Day)
@@ -12,7 +13,6 @@
 * [2025-05-01, 11:54:04](https://news.ycombinator.com/item?id=43856489) - [How to vibe code for free: Running Qwen3 on your Mac, using MLX](https://localforge.dev/blog/running-qwen3-macbook-mlx)
 * [2025-05-01, 11:15:08](https://news.ycombinator.com/item?id=43856186) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 03:21:55](https://news.ycombinator.com/item?id=43853382) - [The one interview question that will protect you from North Korean fake workers](https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/)
-* [2025-05-01, 01:01:02](https://news.ycombinator.com/item?id=43852548) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts)
 * [2025-05-01, 00:22:01](https://news.ycombinator.com/item?id=43852266) - [108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/)
 * [2025-05-01, 00:06:00](https://news.ycombinator.com/item?id=43852162) - [Office is too slow, so Microsoft is making it load at Windows startup](https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html)
 * [2025-05-01, 00:03:55](https://news.ycombinator.com/item?id=43852145) - [Apple violated antitrust ruling, judge finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
