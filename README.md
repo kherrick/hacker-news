@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-01, 03:21:55](https://news.ycombinator.com/item?id=43853382) - [The one interview question that will protect you from North Korean fake workers](https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/)
 * [2025-05-01, 03:05:25](https://news.ycombinator.com/item?id=43853297) - [Milwaukee police considering trading mugshots for facial recognition tech](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/)
 * [2025-05-01, 02:40:14](https://news.ycombinator.com/item?id=43853188) - [Wyze pays $255k of tariffs on $167k of floodlights](https://twitter.com/WyzeCam/status/1917662183036706849)
 * [2025-05-01, 02:26:16](https://news.ycombinator.com/item?id=43853118) - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
@@ -30,6 +29,7 @@
 * [2025-04-30, 03:06:26](https://news.ycombinator.com/item?id=43840842) - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
 * [2025-04-30, 01:26:31](https://news.ycombinator.com/item?id=43840193) - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [2025-04-28, 23:03:19](https://news.ycombinator.com/item?id=43827054) - [All four major web browsers are about to lose 80% of their funding](https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1)
+* [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
 
 ## [Archives](archives/index.md)
 
