@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
 * [2025-05-01, 21:11:38](https://news.ycombinator.com/item?id=43863418) - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
+* [2025-05-01, 20:19:06](https://news.ycombinator.com/item?id=43862893) - [Ancient DNA Unveils the Cosmopolitan Heart of the Phoenician-Punic Civilization](https://allthathistory.com/archaeology-discoveries/phoenician-punic-civilization/2622/)
 * [2025-05-01, 20:08:48](https://news.ycombinator.com/item?id=43862774) - [The Art of Managing Skunks](https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html)
 * [2025-05-01, 19:46:10](https://news.ycombinator.com/item?id=43862487) - [Oxide's compensation model: how's it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
@@ -30,6 +31,8 @@
 * [2025-05-01, 15:06:57](https://news.ycombinator.com/item?id=43858663) - [In the US, not even $11,000 a month can buy you dignity at the end of your life](https://www.theguardian.com/society/ng-interactive/2025/may/01/nursing-home-assisted-living-costs-care)
 * [2025-05-01, 15:06:23](https://news.ycombinator.com/item?id=43858655) - [The term \"vegetative electron microscopy\" keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
 * [2025-05-01, 15:01:44](https://news.ycombinator.com/item?id=43858568) - [Starting July 1, Academic Publishers Can't Paywall NIH-Funded Research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
+* [2025-05-01, 15:00:46](https://news.ycombinator.com/item?id=43858554) - [Ask HN: Who is hiring? (May 2025)](https://news.ycombinator.com/item?id=43858554)
+* [2025-05-01, 15:00:46](https://news.ycombinator.com/item?id=43858552) - [Ask HN: Who wants to be hired? (May 2025)](https://news.ycombinator.com/item?id=43858552)
 * [2025-05-01, 14:55:55](https://news.ycombinator.com/item?id=43858495) - [Something Alarming Is Happening to the Job Market](https://www.theatlantic.com/economy/archive/2025/04/job-market-youth/682641/)
 * [2025-05-01, 14:53:34](https://news.ycombinator.com/item?id=43858462) - [We identified a North Korean hacker who tried to get a job at Kraken](https://blog.kraken.com/news/how-we-identified-a-north-korean-hacker)
 * [2025-05-01, 14:51:43](https://news.ycombinator.com/item?id=43858442) - [Are You the Same Person You Used to Be?](https://www.newyorker.com/magazine/2022/10/10/are-you-the-same-person-you-used-to-be-life-is-hard-the-origins-of-you)
