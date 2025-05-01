@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-01, 02:26:16",
+      "https://news.ycombinator.com/item?id=43853118"
+    ],
+    [
+      "Company built its own rail terminal in NYC to avoid relying on trucks",
+      "https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 01:02:41",
+      "https://news.ycombinator.com/item?id=43852564"
+    ],
+    [
+      "Phi-4 Reasoning Models",
+      "https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/"
+    ]
+  ],
+  [
+    [
       "2025-05-01, 01:01:02",
       "https://news.ycombinator.com/item?id=43852548"
     ],
@@ -11,12 +31,22 @@
   ],
   [
     [
-      "2025-05-01, 00:54:02",
-      "https://news.ycombinator.com/item?id=43852500"
+      "2025-05-01, 00:57:42",
+      "https://news.ycombinator.com/item?id=43852527"
     ],
     [
-      "Republicans in Congress Want a Flat $200 Annual EV Tax",
-      "https://arstechnica.com/cars/2025/04/republicans-want-to-tax-ev-drivers-200-year-in-new-transport-bill/"
+      "Stockhausen: Sounds in Space",
+      "https://stockhausenspace.blogspot.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 00:22:01",
+      "https://news.ycombinator.com/item?id=43852266"
+    ],
+    [
+      "108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring",
+      "https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104",
       "https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 00:06:00",
-      "https://news.ycombinator.com/item?id=43852162"
-    ],
-    [
-      "Office is too slow, so Microsoft is making it load at Windows startup",
-      "https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Pwning the Ladybird Browser",
       "https://jessie.cafe/posts/pwning-ladybirds-libjs/"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 23:48:53",
+      "https://news.ycombinator.com/item?id=43852016"
+    ],
+    [
+      "Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that",
+      "https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-04-30, 11:42:06",
-      "https://news.ycombinator.com/item?id=43843821"
-    ],
-    [
-      "Retailers will soon have only about 7 weeks of full inventories left",
-      "https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/"
-    ]
-  ],
-  [
-    [
       "2025-04-30, 08:48:20",
       "https://news.ycombinator.com/item?id=43842683"
     ],
@@ -267,26 +287,6 @@
     [
       "Jepsen: Amazon RDS for PostgreSQL 17.4",
       "https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 12:39:31",
-      "https://news.ycombinator.com/item?id=43831792"
-    ],
-    [
-      "New atomic fountain clock joins group that keeps the world on time",
-      "https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 12:30:00",
-      "https://news.ycombinator.com/item?id=43831708"
-    ],
-    [
-      "What Is \"Induced Atmospheric Vibration\"?",
-      "https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration"
     ]
   ],
   [
