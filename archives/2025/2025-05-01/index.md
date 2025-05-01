@@ -6,6 +6,8 @@
 
 * [2025-05-01, 15:06:57](https://news.ycombinator.com/item?id=43858663) - [In the US, not even $11,000 a month can buy you dignity at the end of your life](https://www.theguardian.com/society/ng-interactive/2025/may/01/nursing-home-assisted-living-costs-care)
 * [2025-05-01, 15:06:23](https://news.ycombinator.com/item?id=43858655) - [The term \"vegetative electron microscopy\" keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
+* [2025-05-01, 15:01:44](https://news.ycombinator.com/item?id=43858568) - [Starting July 1, Academic Publishers Can't Paywall NIH-Funded Research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
+* [2025-05-01, 14:55:55](https://news.ycombinator.com/item?id=43858495) - [Something Alarming Is Happening to the Job Market](https://www.theatlantic.com/economy/archive/2025/04/job-market-youth/682641/)
 * [2025-05-01, 14:53:34](https://news.ycombinator.com/item?id=43858462) - [We identified a North Korean hacker who tried to get a job at Kraken](https://blog.kraken.com/news/how-we-identified-a-north-korean-hacker)
 * [2025-05-01, 14:51:43](https://news.ycombinator.com/item?id=43858442) - [Are You the Same Person You Used to Be?](https://www.newyorker.com/magazine/2022/10/10/are-you-the-same-person-you-used-to-be-life-is-hard-the-origins-of-you)
 * [2025-05-01, 14:36:07](https://news.ycombinator.com/item?id=43858250) - [Two publishers and three authors fail to understand what \"vibe coding\" means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
