@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 23:59:09](https://news.ycombinator.com/item?id=43852096) - [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 * [2025-04-30, 22:40:29](https://news.ycombinator.com/item?id=43851502) - [How to Not Get Poisoned in America](https://buttondown.com/theswordandthesandwich/archive/how-to-not-get-poisoned-in-america/)
 * [2025-04-30, 22:15:21](https://news.ycombinator.com/item?id=43851314) - [Espressif's ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)
 * [2025-04-30, 22:11:44](https://news.ycombinator.com/item?id=43851285) - [The Group Chat from Hell Has Been Exposed](https://www.thenation.com/article/society/marc-andreessen-semafor-group-chat-signal/)
@@ -14,6 +15,7 @@
 * [2025-04-30, 20:23:33](https://news.ycombinator.com/item?id=43850238) - [Zhaoxin's KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
 * [2025-04-30, 19:51:24](https://news.ycombinator.com/item?id=43849870) - [Doge Put a College Student in Charge of Using AI to Rewrite Regulations](https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/)
 * [2025-04-30, 19:43:55](https://news.ycombinator.com/item?id=43849791) - [NYC home prices rise 10% in early 2025](https://qns.com/2025/04/home-prices-rise-early-2025-malba-highest-queens/)
+* [2025-04-30, 19:17:28](https://news.ycombinator.com/item?id=43849536) - [I Found Malware in a BeamNG Mod](https://lemonyte.com/blog/beamng-malware)
 * [2025-04-30, 19:03:49](https://news.ycombinator.com/item?id=43849383) - [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/)
 * [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: CVE-2025-21756](https://hoefler.dev/articles/vsock.html)
 * [2025-04-30, 18:51:52](https://news.ycombinator.com/item?id=43849271) - [Future of OSU Open Source Lab in Jeopardy](https://osuosl.org/blog/osl-future/)
