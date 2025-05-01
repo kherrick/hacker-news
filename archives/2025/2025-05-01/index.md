@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 14:09:39](https://news.ycombinator.com/item?id=43857903) - [RFK Jr. rejects cornerstone of health science: Germ theory](https://arstechnica.com/health/2025/04/rfk-jr-s-anti-vaccine-stance-is-rooted-in-a-disbelief-in-germ-theory/)
+* [2025-05-01, 14:07:09](https://news.ycombinator.com/item?id=43857862) - [Vanguard 50-year anniversary CEO letter](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/of-investor-by-investor-for-investor-since-1975.html)
+* [2025-05-01, 14:00:40](https://news.ycombinator.com/item?id=43857781) - [Maybe Zelenskiy Should Be Writing the Art of the Deal](https://www.bloomberg.com/opinion/articles/2025-05-01/maybe-zelenskiy-should-be-writing-the-art-of-the-deal)
 * [2025-05-01, 13:08:06](https://news.ycombinator.com/item?id=43857191) - [NASA's Psyche spacecraft hits a speed bump on the way to a metal asteroid](https://arstechnica.com/space/2025/04/engineers-probe-pressure-drop-in-psyche-spacecrafts-propulsion-system/)
 * [2025-05-01, 12:53:43](https://news.ycombinator.com/item?id=43857040) - [If you're in the market for a $1,900 color E Ink monitor, one of them exists now](https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/)
 * [2025-05-01, 12:28:47](https://news.ycombinator.com/item?id=43856803) - [International Workers' Day](https://en.wikipedia.org/wiki/International_Workers%27_Day)
