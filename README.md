@@ -25,10 +25,10 @@
 * [2025-05-01, 12:14:25](https://news.ycombinator.com/item?id=43856656) - [Trust Me, I'm Local: Chrome Extensions, MCP, and the Sandbox Escape](https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823)
 * [2025-05-01, 11:15:08](https://news.ycombinator.com/item?id=43856186) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 07:51:39](https://news.ycombinator.com/item?id=43854776) - [When ChatGPT broke the field of NLP: An oral history](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/)
+* [2025-05-01, 00:48:11](https://news.ycombinator.com/item?id=43852446) - [Blood droplets on inclined surfaces reveal new cracking patterns](https://phys.org/news/2025-04-blood-droplets-inclined-surfaces-reveal.html)
 * [2025-05-01, 00:30:34](https://news.ycombinator.com/item?id=43852315) - [Hybrid AC/DC distribution system with a shared neutral (2020)](https://electrical-engineering-portal.com/download-center/books-and-guides/electricity-generation-t-d/hybrid-ac-dc-distribution)
 * [2025-05-01, 00:06:00](https://news.ycombinator.com/item?id=43852162) - [Office is too slow, so Microsoft is making it load at Windows startup](https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html)
 * [2025-04-30, 20:30:01](https://news.ycombinator.com/item?id=43850309) - [Creating beautiful charts with JRuby and JFreeChart](https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html)
-* [2025-04-30, 18:44:17](https://news.ycombinator.com/item?id=43849197) - [The cat that wouldn't die](https://aeon.co/essays/no-schrodingers-cat-is-not-alive-and-dead-at-the-same-time)
 * [2025-04-29, 02:09:48](https://news.ycombinator.com/item?id=43828099) - [DECtalk Archive](https://dectalk.nu/)
 
 ## [Archives](archives/index.md)
