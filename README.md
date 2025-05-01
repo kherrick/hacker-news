@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-01, 15:25:36](https://news.ycombinator.com/item?id=43858970) - [Why some Mac apps launch slowly: A follow-up](https://lapcatsoftware.com/articles/2025/5/1.html)
 * [2025-05-01, 15:06:23](https://news.ycombinator.com/item?id=43858655) - [The term \"vegetative electron microscopy\" keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
 * [2025-05-01, 15:01:44](https://news.ycombinator.com/item?id=43858568) - [Starting July 1, Academic Publishers Can't Paywall NIH-Funded Research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
 * [2025-05-01, 14:55:55](https://news.ycombinator.com/item?id=43858495) - [Something Alarming Is Happening to the Job Market](https://www.theatlantic.com/economy/archive/2025/04/job-market-youth/682641/)
@@ -26,7 +27,6 @@
 * [2025-04-30, 22:54:07](https://news.ycombinator.com/item?id=43851612) - [How the US defense secretary circumvents official DoD communications equipment](https://www.electrospaces.net/2025/04/how-us-defense-secretary-hegseth.html)
 * [2025-04-30, 22:15:21](https://news.ycombinator.com/item?id=43851314) - [Espressif's ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)
 * [2025-04-30, 21:51:10](https://news.ycombinator.com/item?id=43851099) - [Mercury: Commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
-* [2025-04-30, 20:23:33](https://news.ycombinator.com/item?id=43850238) - [Zhaoxin's KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
 * [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: Attack of the Vsock](https://hoefler.dev/articles/vsock.html)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
 * [2025-04-28, 23:03:19](https://news.ycombinator.com/item?id=43827054) - [All four major web browsers are about to lose 80% of their funding](https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1)
