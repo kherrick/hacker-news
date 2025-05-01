@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 12:28:21](https://news.ycombinator.com/item?id=43856801) - [Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival](https://linkwarden.app/)
+* [2025-05-01, 12:28:13](https://news.ycombinator.com/item?id=43856798) - [The Brief Origins of May Day](https://archive.iww.org/history/library/misc/origins_of_mayday/)
+* [2025-05-01, 12:27:51](https://news.ycombinator.com/item?id=43856795) - [Judge Rules Apple Executive Lied Under Oath, Makes Criminal Contempt Referral](https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied)
+* [2025-05-01, 12:14:25](https://news.ycombinator.com/item?id=43856656) - [Trust Me, I'm Local: Chrome Extensions, MCP, and the Sandbox Escape](https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823)
+* [2025-05-01, 11:59:46](https://news.ycombinator.com/item?id=43856532) - [Game preservationists say Switch2 GameKey Cards are disheartening but inevitable](https://www.videogameschronicle.com/news/game-preservationists-say-switch-2-game-key-cards-are-disheartening-but-inevitable/)
+* [2025-05-01, 11:54:04](https://news.ycombinator.com/item?id=43856489) - [How to vibe code for free: Running Qwen3 on your Mac, using MLX](https://localforge.dev/blog/running-qwen3-macbook-mlx)
 * [2025-05-01, 11:15:08](https://news.ycombinator.com/item?id=43856186) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 09:16:54](https://news.ycombinator.com/item?id=43855304) - [Microsoft gets twitchy over talk of Europe's tech independence](https://www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/)
 * [2025-05-01, 07:02:02](https://news.ycombinator.com/item?id=43854498) - [Dropbox will require App Indicator support on Linux](https://help.dropbox.com/installs/dropbox-desktop-app-for-linux)
