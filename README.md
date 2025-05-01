@@ -9,7 +9,6 @@
 * [2025-05-01, 14:34:17](https://news.ycombinator.com/item?id=43858228) - [All roses were once yellow](https://phys.org/news/2025-04-red-pink-white-roses-yellow.html)
 * [2025-05-01, 14:07:09](https://news.ycombinator.com/item?id=43857862) - [Vanguard 50-year anniversary CEO letter](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/of-investor-by-investor-for-investor-since-1975.html)
 * [2025-05-01, 14:06:55](https://news.ycombinator.com/item?id=43857856) - [Show HN: Hyperparam: OSS Tools for Exploring Datasets Locally in the Browser](https://hyperparam.app/about/opensource)
-* [2025-05-01, 12:53:43](https://news.ycombinator.com/item?id=43857040) - [If you're in the market for a $1,900 color E Ink monitor, one of them exists now](https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/)
 * [2025-05-01, 12:28:47](https://news.ycombinator.com/item?id=43856803) - [International Workers' Day](https://en.wikipedia.org/wiki/International_Workers%27_Day)
 * [2025-05-01, 12:28:21](https://news.ycombinator.com/item?id=43856801) - [Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival](https://linkwarden.app/)
 * [2025-05-01, 12:28:13](https://news.ycombinator.com/item?id=43856798) - [The Brief Origins of May Day](https://archive.iww.org/history/library/misc/origins_of_mayday/)
@@ -28,6 +27,7 @@
 * [2025-04-30, 21:51:10](https://news.ycombinator.com/item?id=43851099) - [Mercury: Commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
 * [2025-04-30, 20:23:33](https://news.ycombinator.com/item?id=43850238) - [Zhaoxin's KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
 * [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: Attack of the Vsock](https://hoefler.dev/articles/vsock.html)
+* [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
 * [2025-04-28, 23:03:19](https://news.ycombinator.com/item?id=43827054) - [All four major web browsers are about to lose 80% of their funding](https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1)
 
