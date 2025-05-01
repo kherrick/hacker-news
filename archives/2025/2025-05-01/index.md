@@ -17,6 +17,7 @@
 * [2025-05-01, 16:02:14](https://news.ycombinator.com/item?id=43859536) - [Claude can now connect to your world](https://www.anthropic.com/news/integrations)
 * [2025-05-01, 15:57:43](https://news.ycombinator.com/item?id=43859464) - [Show HN: Mechanical Computer Kit (Roons)](https://whomtech.com/show-hn/)
 * [2025-05-01, 15:56:35](https://news.ycombinator.com/item?id=43859446) - [Redis is open source again](https://antirez.com/news/151)
+* [2025-05-01, 15:38:53](https://news.ycombinator.com/item?id=43859165) - [Show HN: Robot Unlock – an open-ended programming game/zachlike](https://store.steampowered.com/app/3318050/Robot_Unlock/)
 * [2025-05-01, 15:25:36](https://news.ycombinator.com/item?id=43858970) - [Why some Mac apps launch slowly: A follow-up](https://lapcatsoftware.com/articles/2025/5/1.html)
 * [2025-05-01, 15:06:57](https://news.ycombinator.com/item?id=43858663) - [In the US, not even $11,000 a month can buy you dignity at the end of your life](https://www.theguardian.com/society/ng-interactive/2025/may/01/nursing-home-assisted-living-costs-care)
 * [2025-05-01, 15:06:23](https://news.ycombinator.com/item?id=43858655) - [The term \"vegetative electron microscopy\" keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
