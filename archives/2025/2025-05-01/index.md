@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 19:46:10](https://news.ycombinator.com/item?id=43862487) - [Oxide's compensation model: how's it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
+* [2025-05-01, 17:47:15](https://news.ycombinator.com/item?id=43860993) - [Making of Monkeys.zip](https://www.lukeschaefer.dev/posts/making-of-monkeys/)
 * [2025-05-01, 17:33:20](https://news.ycombinator.com/item?id=43860783) - ['ProtectEU' security strategy: a step further towards a digital dystopian future](https://edri.org/our-work/protecteu-security-strategy-a-step-further-towards-a-digital-dystopian-future/)
 * [2025-05-01, 17:29:16](https://news.ycombinator.com/item?id=43860726) - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
 * [2025-05-01, 17:27:07](https://news.ycombinator.com/item?id=43860696) - [The Gang Has a Mid-Life Crisis](https://chris-martin.org/2025/the-gang-has-a-mid-life-crisis)
