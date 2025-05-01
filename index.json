@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-01, 20:08:48",
+      "https://news.ycombinator.com/item?id=43862774"
+    ],
+    [
+      "The Art of Managing Skunks",
+      "https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html"
+    ]
+  ],
+  [
+    [
       "2025-05-01, 19:46:10",
       "https://news.ycombinator.com/item?id=43862487"
     ],
@@ -17,6 +27,16 @@
     [
       "New Study: Waymo is reducing serious crashes and making streets safer",
       "https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 18:36:58",
+      "https://news.ycombinator.com/item?id=43861669"
+    ],
+    [
+      "C++26: more constexpr in the standard library",
+      "https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2025-05-01, 14:51:43",
-      "https://news.ycombinator.com/item?id=43858442"
-    ],
-    [
-      "Are you the same person you used to be? (2022)",
-      "https://www.newyorker.com/magazine/2022/10/10/are-you-the-same-person-you-used-to-be-life-is-hard-the-origins-of-you"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 13:50:38",
       "https://news.ycombinator.com/item?id=43857643"
     ],
     [
       "AI code review: Should the author be the reviewer?",
       "https://www.greptile.com/blog/ai-code-reviews-conflict"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 12:28:47",
-      "https://news.ycombinator.com/item?id=43856803"
-    ],
-    [
-      "International Workers' Day",
-      "https://en.wikipedia.org/wiki/International_Workers%27_Day"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-05-01, 03:21:55",
-      "https://news.ycombinator.com/item?id=43853382"
-    ],
-    [
-      "The one interview question that will protect you from North Korean fake workers",
-      "https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 00:30:34",
       "https://news.ycombinator.com/item?id=43852315"
     ],
@@ -287,6 +277,16 @@
     [
       "Office is too slow, so Microsoft is making it load at Windows startup",
       "https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 20:30:01",
+      "https://news.ycombinator.com/item?id=43850309"
+    ],
+    [
+      "Creating Beautiful Charts with JRuby and JFreeChart",
+      "https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html"
     ]
   ],
   [
