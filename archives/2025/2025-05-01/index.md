@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 03:05:25](https://news.ycombinator.com/item?id=43853297) - [Milwaukee police trade: 2.5M mugshots for free facial recognition access](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/)
 * [2025-05-01, 02:26:16](https://news.ycombinator.com/item?id=43853118) - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
+* [2025-05-01, 01:31:19](https://news.ycombinator.com/item?id=43852771) - [Show HN: Convert Large CSV/XLSX to JSON or XML in Browser](https://csvforge.com)
 * [2025-05-01, 01:02:41](https://news.ycombinator.com/item?id=43852564) - [Phi-4 Reasoning Models](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/)
 * [2025-05-01, 01:01:02](https://news.ycombinator.com/item?id=43852548) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts)
 * [2025-05-01, 00:57:42](https://news.ycombinator.com/item?id=43852527) - [Stockhausen: Sounds in Space](https://stockhausenspace.blogspot.com/)

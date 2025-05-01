@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-01, 03:05:25](https://news.ycombinator.com/item?id=43853297) - [Milwaukee police trade: 2.5M mugshots for free facial recognition access](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/)
 * [2025-05-01, 02:26:16](https://news.ycombinator.com/item?id=43853118) - [Company built its own rail terminal in NYC to avoid relying on trucks](https://www.fastcompany.com/91324241/this-company-built-an-entire-rail-terminal-in-queens-to-avoid-relying-on-trucks)
+* [2025-05-01, 01:31:19](https://news.ycombinator.com/item?id=43852771) - [Show HN: Convert Large CSV/XLSX to JSON or XML in Browser](https://csvforge.com)
 * [2025-05-01, 01:02:41](https://news.ycombinator.com/item?id=43852564) - [Phi-4 Reasoning Models](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/)
 * [2025-05-01, 01:01:02](https://news.ycombinator.com/item?id=43852548) - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts)
 * [2025-05-01, 00:57:42](https://news.ycombinator.com/item?id=43852527) - [Stockhausen: Sounds in Space](https://stockhausenspace.blogspot.com/)
@@ -14,7 +16,6 @@
 * [2025-04-30, 20:37:49](https://news.ycombinator.com/item?id=43850398) - [The best – but not good – way to limit string length](https://adam-p.ca/blog/2025/04/string-length/)
 * [2025-04-30, 20:23:33](https://news.ycombinator.com/item?id=43850238) - [Zhaoxin's KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
 * [2025-04-30, 19:17:28](https://news.ycombinator.com/item?id=43849536) - [I Found Malware in a BeamNG Mod](https://lemonyte.com/blog/beamng-malware)
-* [2025-04-30, 19:03:49](https://news.ycombinator.com/item?id=43849383) - [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/)
 * [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: Attack of the Vsock](https://hoefler.dev/articles/vsock.html)
 * [2025-04-30, 18:51:52](https://news.ycombinator.com/item?id=43849271) - [Future of OSU Open Source Lab in Jeopardy](https://osuosl.org/blog/osl-future/)
 * [2025-04-30, 17:35:08](https://news.ycombinator.com/item?id=43848398) - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
@@ -24,12 +25,11 @@
 * [2025-04-30, 15:35:00](https://news.ycombinator.com/item?id=43846690) - [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube needs glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 * [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
-* [2025-04-30, 07:58:24](https://news.ycombinator.com/item?id=43842380) - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
 * [2025-04-30, 03:06:26](https://news.ycombinator.com/item?id=43840842) - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
 * [2025-04-30, 01:26:31](https://news.ycombinator.com/item?id=43840193) - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [2025-04-29, 14:30:11](https://news.ycombinator.com/item?id=43833195) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
-* [2025-04-26, 15:41:44](https://news.ycombinator.com/item?id=43804561) - [The True Size Of](https://thetruesize.com/)
+* [2025-04-28, 23:03:19](https://news.ycombinator.com/item?id=43827054) - [All four major web browsers are about to lose 80% of their funding](https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1)
 
 ## [Archives](archives/index.md)
 
