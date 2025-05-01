@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 11:15:08](https://news.ycombinator.com/item?id=43856186) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 09:16:54](https://news.ycombinator.com/item?id=43855304) - [Microsoft gets twitchy over talk of Europe's tech independence](https://www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/)
 * [2025-05-01, 07:02:02](https://news.ycombinator.com/item?id=43854498) - [Dropbox will require App Indicator support on Linux](https://help.dropbox.com/installs/dropbox-desktop-app-for-linux)
 * [2025-05-01, 05:58:24](https://news.ycombinator.com/item?id=43854162) - [The Secret Services' involvement in the making of The Line of Fire (1993) [pdf]](https://www.governmentattic.org/58docs/USSSmovieInTheLineOfFireNoDate.pdf)
