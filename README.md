@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-01, 17:27:07](https://news.ycombinator.com/item?id=43860696) - [The Gang Has a Mid-Life Crisis](https://chris-martin.org/2025/the-gang-has-a-mid-life-crisis)
 * [2025-05-01, 17:00:45](https://news.ycombinator.com/item?id=43860368) - [Waypoint Transit (YC W25) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/75517)
 * [2025-05-01, 16:43:37](https://news.ycombinator.com/item?id=43860137) - [Llasa: Llama-Based Speech Synthesis](https://llasatts.github.io/llasatts/)
 * [2025-05-01, 16:41:49](https://news.ycombinator.com/item?id=43860108) - [Fivetran to acquire Census](https://www.fivetran.com/blog/why-fivetran-and-census-are-joining-forces)
@@ -11,7 +12,6 @@
 * [2025-05-01, 15:06:23](https://news.ycombinator.com/item?id=43858655) - [The term \"vegetative electron microscopy\" keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
 * [2025-05-01, 15:01:44](https://news.ycombinator.com/item?id=43858568) - [Starting July 1, Academic Publishers Can't Paywall NIH-Funded Research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
 * [2025-05-01, 14:53:34](https://news.ycombinator.com/item?id=43858462) - [We identified a North Korean hacker who tried to get a job at Kraken](https://blog.kraken.com/news/how-we-identified-a-north-korean-hacker)
-* [2025-05-01, 14:34:17](https://news.ycombinator.com/item?id=43858228) - [All roses were once yellow](https://phys.org/news/2025-04-red-pink-white-roses-yellow.html)
 * [2025-05-01, 14:07:09](https://news.ycombinator.com/item?id=43857862) - [Vanguard 50-year anniversary CEO letter](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/of-investor-by-investor-for-investor-since-1975.html)
 * [2025-05-01, 14:06:55](https://news.ycombinator.com/item?id=43857856) - [Show HN: Hyperparam: OSS Tools for Exploring Datasets Locally in the Browser](https://hyperparam.app/about/opensource)
 * [2025-05-01, 12:28:47](https://news.ycombinator.com/item?id=43856803) - [International Workers' Day](https://en.wikipedia.org/wiki/International_Workers%27_Day)
