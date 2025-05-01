@@ -21,6 +21,7 @@
 * [2025-04-30, 19:03:49](https://news.ycombinator.com/item?id=43849383) - [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/)
 * [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: CVE-2025-21756](https://hoefler.dev/articles/vsock.html)
 * [2025-04-30, 18:51:52](https://news.ycombinator.com/item?id=43849271) - [Future of OSU Open Source Lab in Jeopardy](https://osuosl.org/blog/osl-future/)
+* [2025-04-30, 18:44:17](https://news.ycombinator.com/item?id=43849197) - [The cat that wouldn't die](https://aeon.co/essays/no-schrodingers-cat-is-not-alive-and-dead-at-the-same-time)
 * [2025-04-30, 18:11:13](https://news.ycombinator.com/item?id=43848858) - [Columbia student Mohsen Mahdawi is free after judge orders his release](https://www.nbcnews.com/news/us-news/judge-orders-columbia-student-mohsen-mahdawi-released-rcna203675)
 * [2025-04-30, 17:40:22](https://news.ycombinator.com/item?id=43848462) - [Columbia student Mohsen Mahdawi is released from detention](https://www.npr.org/2025/04/30/nx-s1-5382306/mohsen-madawi-released-ice-columbia-university-activist-judge)
 * [2025-04-30, 17:35:08](https://news.ycombinator.com/item?id=43848398) - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
