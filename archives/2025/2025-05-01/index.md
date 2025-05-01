@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 15:57:43](https://news.ycombinator.com/item?id=43859464) - [Show HN: Mechanical Computer Kit (Roons)](https://whomtech.com/show-hn/)
+* [2025-05-01, 15:56:35](https://news.ycombinator.com/item?id=43859446) - [Redis is open source again](https://antirez.com/news/151)
 * [2025-05-01, 15:25:36](https://news.ycombinator.com/item?id=43858970) - [Why some Mac apps launch slowly: A follow-up](https://lapcatsoftware.com/articles/2025/5/1.html)
 * [2025-05-01, 15:06:57](https://news.ycombinator.com/item?id=43858663) - [In the US, not even $11,000 a month can buy you dignity at the end of your life](https://www.theguardian.com/society/ng-interactive/2025/may/01/nursing-home-assisted-living-costs-care)
 * [2025-05-01, 15:06:23](https://news.ycombinator.com/item?id=43858655) - [The term \"vegetative electron microscopy\" keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
@@ -28,6 +30,7 @@
 * [2025-05-01, 11:54:04](https://news.ycombinator.com/item?id=43856489) - [How to vibe code for free: Running Qwen3 on your Mac, using MLX](https://localforge.dev/blog/running-qwen3-macbook-mlx)
 * [2025-05-01, 11:15:08](https://news.ycombinator.com/item?id=43856186) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 09:16:54](https://news.ycombinator.com/item?id=43855304) - [Microsoft gets twitchy over talk of Europe's tech independence](https://www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/)
+* [2025-05-01, 07:51:39](https://news.ycombinator.com/item?id=43854776) - [When ChatGPT Broke an Entire Field: An Oral History](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/)
 * [2025-05-01, 07:02:02](https://news.ycombinator.com/item?id=43854498) - [Dropbox will require App Indicator support on Linux](https://help.dropbox.com/installs/dropbox-desktop-app-for-linux)
 * [2025-05-01, 05:58:24](https://news.ycombinator.com/item?id=43854162) - [The Secret Services' involvement in the making of The Line of Fire (1993) [pdf]](https://www.governmentattic.org/58docs/USSSmovieInTheLineOfFireNoDate.pdf)
 * [2025-05-01, 03:21:55](https://news.ycombinator.com/item?id=43853382) - [The one interview question that will protect you from North Korean fake workers](https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/)
