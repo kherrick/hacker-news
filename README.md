@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-01, 13:08:06](https://news.ycombinator.com/item?id=43857191) - [NASA's Psyche spacecraft hits a speed bump on the way to a metal asteroid](https://arstechnica.com/space/2025/04/engineers-probe-pressure-drop-in-psyche-spacecrafts-propulsion-system/)
 * [2025-05-01, 12:53:43](https://news.ycombinator.com/item?id=43857040) - [If you're in the market for a $1,900 color E Ink monitor, one of them exists now](https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/)
 * [2025-05-01, 12:28:47](https://news.ycombinator.com/item?id=43856803) - [International Workers' Day](https://en.wikipedia.org/wiki/International_Workers%27_Day)
 * [2025-05-01, 12:28:21](https://news.ycombinator.com/item?id=43856801) - [Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival](https://linkwarden.app/)
@@ -28,7 +29,6 @@
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube needs glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 * [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
-* [2025-04-30, 01:26:31](https://news.ycombinator.com/item?id=43840193) - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [2025-04-28, 23:03:19](https://news.ycombinator.com/item?id=43827054) - [All four major web browsers are about to lose 80% of their funding](https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1)
 
 ## [Archives](archives/index.md)
