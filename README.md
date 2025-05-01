@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-01, 17:00:45](https://news.ycombinator.com/item?id=43860368) - [Waypoint Transit (YC W25) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/75517)
+* [2025-05-01, 16:43:37](https://news.ycombinator.com/item?id=43860137) - [Llasa: Llama-Based Speech Synthesis](https://llasatts.github.io/llasatts/)
+* [2025-05-01, 16:41:49](https://news.ycombinator.com/item?id=43860108) - [Fivetran to acquire Census](https://www.fivetran.com/blog/why-fivetran-and-census-are-joining-forces)
 * [2025-05-01, 16:20:58](https://news.ycombinator.com/item?id=43859814) - [A senior Apple exec could be jailed in Epic case; it's time to end this disaster](https://9to5mac.com/2025/05/01/a-senior-apple-exec-could-be-jailed-in-epic-case-its-time-to-end-this-disaster/)
 * [2025-05-01, 16:02:14](https://news.ycombinator.com/item?id=43859536) - [Claude can now connect to your world](https://www.anthropic.com/news/integrations)
 * [2025-05-01, 15:57:43](https://news.ycombinator.com/item?id=43859464) - [Show HN: Mechanical Computer Kit (Roons)](https://whomtech.com/show-hn/)
@@ -27,9 +30,6 @@
 * [2025-04-30, 22:54:07](https://news.ycombinator.com/item?id=43851612) - [How the US defense secretary circumvents official DoD communications equipment](https://www.electrospaces.net/2025/04/how-us-defense-secretary-hegseth.html)
 * [2025-04-30, 22:15:21](https://news.ycombinator.com/item?id=43851314) - [Espressif's ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)
 * [2025-04-30, 21:51:10](https://news.ycombinator.com/item?id=43851099) - [Mercury: Commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
-* [2025-04-30, 19:03:04](https://news.ycombinator.com/item?id=43849373) - [Linux Kernel Exploitation: Attack of the Vsock](https://hoefler.dev/articles/vsock.html)
-* [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I created Perfect Wiki and reached $250k in annual revenue without investors](https://habr.com/en/articles/905812/)
-* [2025-04-28, 23:03:19](https://news.ycombinator.com/item?id=43827054) - [All four major web browsers are about to lose 80% of their funding](https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1)
 
 ## [Archives](archives/index.md)
 

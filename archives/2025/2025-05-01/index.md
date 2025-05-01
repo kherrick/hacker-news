@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 17:00:45](https://news.ycombinator.com/item?id=43860368) - [Waypoint Transit (YC W25) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/75517)
+* [2025-05-01, 16:43:37](https://news.ycombinator.com/item?id=43860137) - [Llasa: Llama-Based Speech Synthesis](https://llasatts.github.io/llasatts/)
+* [2025-05-01, 16:41:49](https://news.ycombinator.com/item?id=43860108) - [Fivetran to acquire Census](https://www.fivetran.com/blog/why-fivetran-and-census-are-joining-forces)
 * [2025-05-01, 16:20:58](https://news.ycombinator.com/item?id=43859814) - [A senior Apple exec could be jailed in Epic case; it's time to end this disaster](https://9to5mac.com/2025/05/01/a-senior-apple-exec-could-be-jailed-in-epic-case-its-time-to-end-this-disaster/)
 * [2025-05-01, 16:02:14](https://news.ycombinator.com/item?id=43859536) - [Claude can now connect to your world](https://www.anthropic.com/news/integrations)
 * [2025-05-01, 15:57:43](https://news.ycombinator.com/item?id=43859464) - [Show HN: Mechanical Computer Kit (Roons)](https://whomtech.com/show-hn/)
