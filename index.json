@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-02, 03:46:06",
+      "https://news.ycombinator.com/item?id=43866001"
+    ],
+    [
+      "Bloom Filters",
+      "https://eli.thegreenplace.net/2025/bloom-filters/"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 02:57:51",
       "https://news.ycombinator.com/item?id=43865740"
     ],
@@ -97,16 +107,6 @@
     [
       "Show HN: Kubetail – Real-time log search for Kubernetes",
       "https://github.com/kubetail-org/kubetail"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 19:46:10",
-      "https://news.ycombinator.com/item?id=43862487"
-    ],
-    [
-      "Oxide’s compensation model: how is it going?",
-      "https://oxide.computer/blog/oxides-compensation-model-how-is-it-going"
     ]
   ],
   [
