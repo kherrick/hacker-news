@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-02, 21:03:52](https://news.ycombinator.com/item?id=43874564) - [Show HN: Kinematic Hand Skeleton Optimization in Jax](https://github.com/rerun-io/pi0-lerobot/tree/hand-kinematic-fitting)
 * [2025-05-02, 21:00:14](https://news.ycombinator.com/item?id=43874534) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
 * [2025-05-02, 19:16:38](https://news.ycombinator.com/item?id=43873679) - [VR Design Unpacked: The secret to Beat Saber's fun](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
 * [2025-05-02, 19:09:22](https://news.ycombinator.com/item?id=43873604) - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
@@ -20,6 +19,7 @@
 * [2025-05-02, 12:15:48](https://news.ycombinator.com/item?id=43868737) - [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
 * [2025-05-02, 11:03:29](https://news.ycombinator.com/item?id=43868231) - [Altair at 50: Remembering the first Personal Computer](https://www.goto10retro.com/p/altair-at-50-remembering-the-first)
 * [2025-05-02, 10:58:10](https://news.ycombinator.com/item?id=43868192) - [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
+* [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 * [2025-05-02, 07:48:11](https://news.ycombinator.com/item?id=43867211) - [Just redesigned my personal site with a TTY-style interface](https://www.abdisa.me/)
 * [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
 * [2025-05-02, 00:39:45](https://news.ycombinator.com/item?id=43864986) - [Normalizing Ratings](http://hopefullyintersting.blogspot.com/2025/05/normalizing-ratings.html)
