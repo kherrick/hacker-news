@@ -2,6 +2,7 @@
 
 * [2025-05-02, 04:52:38](https://news.ycombinator.com/item?id=43866321) - [Zoho halts $700M semiconductor plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
 * [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
+* [2025-05-02, 03:46:06](https://news.ycombinator.com/item?id=43866001) - [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters/)
 * [2025-05-02, 02:57:51](https://news.ycombinator.com/item?id=43865740) - [Reflecting on a Year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
 * [2025-05-02, 02:39:39](https://news.ycombinator.com/item?id=43865631) - [Quebec refuses to reinvest in Lion Electric](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
 * [2025-05-02, 01:54:39](https://news.ycombinator.com/item?id=43865379) - [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
@@ -10,7 +11,6 @@
 * [2025-05-02, 00:07:23](https://news.ycombinator.com/item?id=43864800) - [Felix86: Run x86-64 programs on RISC-V Linux](https://felix86.com/)
 * [2025-05-01, 22:34:15](https://news.ycombinator.com/item?id=43864108) - [Anubis saved our websites from a DDoS attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
 * [2025-05-01, 21:11:38](https://news.ycombinator.com/item?id=43863418) - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
-* [2025-05-01, 19:46:10](https://news.ycombinator.com/item?id=43862487) - [Oxide’s compensation model: how is it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 * [2025-05-01, 17:29:16](https://news.ycombinator.com/item?id=43860726) - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
 * [2025-05-01, 17:04:47](https://news.ycombinator.com/item?id=43860428) - [Millihertz 5 Mechanical Computer (2022)](https://www.srimech.com/MHZ5.html)
