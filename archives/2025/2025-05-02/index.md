@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 11:06:21](https://news.ycombinator.com/item?id=43868246) - [De minimis: US small parcels loophole closes pushing up Shein, Temu prices](https://www.bbc.com/news/articles/cwy79j2n7d4o)
 * [2025-05-02, 10:46:26](https://news.ycombinator.com/item?id=43868130) - [The Totalitarian Buddhist Who Beat SIM City (2010)](https://web.archive.org/web/20211117094441/https://www.vice.com/en/article/4w4kg3/the-totalitarian-buddhist-who-beat-sim-city)
 * [2025-05-02, 10:33:53](https://news.ycombinator.com/item?id=43868074) - [EU hit TikTok with a massive 530 million euro privacy fine](https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2)
 * [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've Learned from JJ](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 * [2025-05-02, 07:48:11](https://news.ycombinator.com/item?id=43867211) - [Just redesigned my personal site with a TTY-style interface](https://www.abdisa.me/)
 * [2025-05-02, 05:53:46](https://news.ycombinator.com/item?id=43866585) - [Show HN: OSle – A 510 bytes OS in x86 assembly](https://github.com/shikaan/osle)
+* [2025-05-02, 05:33:46](https://news.ycombinator.com/item?id=43866489) - [Link Out for In-App Purchases](https://docs.stripe.com/mobile/digital-goods)
 * [2025-05-02, 04:52:38](https://news.ycombinator.com/item?id=43866321) - [Zoho Halts $700M Semiconductor Plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
 * [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
 * [2025-05-02, 03:46:06](https://news.ycombinator.com/item?id=43866001) - [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters/)
