@@ -13,6 +13,7 @@
 * [2025-05-01, 19:46:10](https://news.ycombinator.com/item?id=43862487) - [Oxide's compensation model: how's it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 * [2025-05-01, 18:36:58](https://news.ycombinator.com/item?id=43861669) - [C++26: more constexpr in the standard library](https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes)
+* [2025-05-01, 17:58:58](https://news.ycombinator.com/item?id=43861149) - [Tortoise Mode vs. Hare Mode](https://www.autodidacts.io/tortoise-mode/)
 * [2025-05-01, 17:47:15](https://news.ycombinator.com/item?id=43860993) - [Making of Monkeys.zip](https://www.lukeschaefer.dev/posts/making-of-monkeys/)
 * [2025-05-01, 17:33:20](https://news.ycombinator.com/item?id=43860783) - ['ProtectEU' security strategy: a step further towards a digital dystopian future](https://edri.org/our-work/protecteu-security-strategy-a-step-further-towards-a-digital-dystopian-future/)
 * [2025-05-01, 17:29:16](https://news.ycombinator.com/item?id=43860726) - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
