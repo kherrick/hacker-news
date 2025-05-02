@@ -10,6 +10,7 @@
 * [2025-04-30, 23:46:00](https://news.ycombinator.com/item?id=43851999) - [Liverpool's title win has completed a mysterious Fibonacci sequence](https://www.bbc.com/future/article/20250425-the-fibonacci-sequence-hidden-in-liverpool-fcs-premier-league-football-title)
 * [2025-04-30, 23:17:00](https://news.ycombinator.com/item?id=43851787) - [Building Private Processing for AI Tools on WhatsApp](https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/)
 * [2025-04-30, 22:54:07](https://news.ycombinator.com/item?id=43851612) - [US defense secretary circumvents the official communications equipment](https://www.electrospaces.net/2025/04/how-us-defense-secretary-hegseth.html)
+* [2025-04-30, 22:48:17](https://news.ycombinator.com/item?id=43851562) - [Break It Down: A man tries to calculate what love costs (1983) [audio]](https://www.thisamericanlife.org/88/numbers/act-five-1)
 * [2025-04-30, 22:41:38](https://news.ycombinator.com/item?id=43851514) - [Chariot and Saucer](https://jewishreviewofbooks.com/american-jewry/18531/chariot-and-saucer/)
 * [2025-04-30, 22:40:29](https://news.ycombinator.com/item?id=43851502) - [How to Not Get Poisoned in America](https://buttondown.com/theswordandthesandwich/archive/how-to-not-get-poisoned-in-america/)
 * [2025-04-30, 22:15:21](https://news.ycombinator.com/item?id=43851314) - [Espressif's ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)

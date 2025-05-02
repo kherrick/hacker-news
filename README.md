@@ -25,7 +25,7 @@
 * [2025-05-01, 10:28:05](https://news.ycombinator.com/item?id=43855838) - [Owen Le Blanc: creator of the first Linux distribution](https://lwn.net/Articles/1017846/)
 * [2025-05-01, 07:51:39](https://news.ycombinator.com/item?id=43854776) - [When ChatGPT broke the field of NLP: An oral history](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/)
 * [2025-04-30, 23:46:00](https://news.ycombinator.com/item?id=43851999) - [Liverpool's title win has completed a mysterious Fibonacci sequence](https://www.bbc.com/future/article/20250425-the-fibonacci-sequence-hidden-in-liverpool-fcs-premier-league-football-title)
-* [2025-04-30, 22:09:03](https://news.ycombinator.com/item?id=43851260) - [New species of methane-producing archaea discovered in the human gut](https://phys.org/news/2025-04-microbiologists-species-methane-archaea-human.html)
+* [2025-04-30, 22:48:17](https://news.ycombinator.com/item?id=43851562) - [Break It Down: A man tries to calculate what love costs (1983) [audio]](https://www.thisamericanlife.org/88/numbers/act-five-1)
 * [2025-04-30, 22:03:03](https://news.ycombinator.com/item?id=43851212) - [LLMs for Engineering: Teaching Models to Design High Powered Rockets](https://arxiv.org/abs/2504.19394)
 * [2025-04-30, 21:56:34](https://news.ycombinator.com/item?id=43851143) - [RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code](https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/)
 * [2025-04-30, 20:53:22](https://news.ycombinator.com/item?id=43850550) - [Offline-First with CouchDB and PouchDB in 2025](https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025)
