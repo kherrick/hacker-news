@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-02, 05:53:46](https://news.ycombinator.com/item?id=43866585) - [Show HN: OSle – A 510 bytes OS in x86 assembly](https://github.com/shikaan/osle)
 * [2025-05-02, 04:52:38](https://news.ycombinator.com/item?id=43866321) - [Zoho halts $700M semiconductor plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
 * [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
 * [2025-05-02, 03:46:06](https://news.ycombinator.com/item?id=43866001) - [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters/)
@@ -13,7 +14,6 @@
 * [2025-05-01, 21:11:38](https://news.ycombinator.com/item?id=43863418) - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 * [2025-05-01, 17:29:16](https://news.ycombinator.com/item?id=43860726) - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
-* [2025-05-01, 17:04:47](https://news.ycombinator.com/item?id=43860428) - [Millihertz 5 Mechanical Computer (2022)](https://www.srimech.com/MHZ5.html)
 * [2025-05-01, 16:43:37](https://news.ycombinator.com/item?id=43860137) - [Llasa: Llama-Based Speech Synthesis](https://llasatts.github.io/llasatts/)
 * [2025-05-01, 16:02:14](https://news.ycombinator.com/item?id=43859536) - [Claude Integrations](https://www.anthropic.com/news/integrations)
 * [2025-05-01, 15:56:35](https://news.ycombinator.com/item?id=43859446) - [Redis is open source again](https://antirez.com/news/151)
@@ -24,10 +24,10 @@
 * [2025-05-01, 12:27:51](https://news.ycombinator.com/item?id=43856795) - [Judge rules Apple executive lied under oath, makes criminal contempt referral](https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied)
 * [2025-05-01, 10:28:05](https://news.ycombinator.com/item?id=43855838) - [Owen Le Blanc: creator of the first Linux distribution](https://lwn.net/Articles/1017846/)
 * [2025-05-01, 07:51:39](https://news.ycombinator.com/item?id=43854776) - [When ChatGPT broke the field of NLP: An oral history](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/)
-* [2025-04-30, 23:58:12](https://news.ycombinator.com/item?id=43852088) - [AI suggestions make writing more generic, Western](https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western)
 * [2025-04-30, 23:46:00](https://news.ycombinator.com/item?id=43851999) - [Liverpool's title win has completed a mysterious Fibonacci sequence](https://www.bbc.com/future/article/20250425-the-fibonacci-sequence-hidden-in-liverpool-fcs-premier-league-football-title)
 * [2025-04-30, 22:09:03](https://news.ycombinator.com/item?id=43851260) - [New species of methane-producing archaea discovered in the human gut](https://phys.org/news/2025-04-microbiologists-species-methane-archaea-human.html)
 * [2025-04-30, 22:03:03](https://news.ycombinator.com/item?id=43851212) - [LLMs for Engineering: Teaching Models to Design High Powered Rockets](https://arxiv.org/abs/2504.19394)
+* [2025-04-30, 21:56:34](https://news.ycombinator.com/item?id=43851143) - [RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code](https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/)
 * [2025-04-30, 20:53:22](https://news.ycombinator.com/item?id=43850550) - [Offline-First with CouchDB and PouchDB in 2025](https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025)
 * [2025-04-29, 02:09:48](https://news.ycombinator.com/item?id=43828099) - [DECtalk Archive](https://dectalk.nu/)
 

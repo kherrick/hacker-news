@@ -17,6 +17,7 @@
 * [2025-04-30, 22:09:03](https://news.ycombinator.com/item?id=43851260) - [New species of methane-producing archaea discovered in the human gut](https://phys.org/news/2025-04-microbiologists-species-methane-archaea-human.html)
 * [2025-04-30, 22:04:41](https://news.ycombinator.com/item?id=43851225) - [Home washing machines fail to remove important pathogens from textiles](https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html)
 * [2025-04-30, 22:03:03](https://news.ycombinator.com/item?id=43851212) - [LLMs for Engineering: Teaching Models to Design High Powered Rockets](https://arxiv.org/abs/2504.19394)
+* [2025-04-30, 21:56:34](https://news.ycombinator.com/item?id=43851143) - [RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code](https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/)
 * [2025-04-30, 21:51:10](https://news.ycombinator.com/item?id=43851099) - [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
 * [2025-04-30, 21:39:40](https://news.ycombinator.com/item?id=43850989) - [Tolkien Against the Grain](https://www.dissentmagazine.org/article/tolkien-against-the-grain/)
 * [2025-04-30, 20:53:22](https://news.ycombinator.com/item?id=43850550) - [Offline-First with CouchDB and PouchDB in 2025](https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025)
