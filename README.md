@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-02, 13:34:32](https://news.ycombinator.com/item?id=43869546) - [Corporation for Public Broadcasting Statement Regarding Executive Order](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media)
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
 * [2025-05-02, 13:06:56](https://news.ycombinator.com/item?id=43869236) - [Converting a Git repo from tabs to spaces (2016)](https://eev.ee/blog/2016/06/04/converting-a-git-repo-from-tabs-to-spaces/)
 * [2025-05-02, 12:39:26](https://news.ycombinator.com/item?id=43868972) - [Taxes and fees not included: T-Mobile's latest price lock is nearly meaningless](https://arstechnica.com/tech-policy/2025/04/taxes-and-fees-not-included-t-mobiles-latest-price-lock-is-nearly-meaningless/)
@@ -15,6 +16,7 @@
 * [2025-05-02, 05:53:46](https://news.ycombinator.com/item?id=43866585) - [Show HN: OSle – A 510 bytes OS in x86 assembly](https://github.com/shikaan/osle)
 * [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
 * [2025-05-02, 03:46:06](https://news.ycombinator.com/item?id=43866001) - [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters/)
+* [2025-05-02, 02:57:51](https://news.ycombinator.com/item?id=43865740) - [Reflecting on a Year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
 * [2025-05-02, 01:03:10](https://news.ycombinator.com/item?id=43865132) - [Third party cookies must be removed](https://w3ctag.github.io/web-without-3p-cookies/)
 * [2025-05-02, 00:07:23](https://news.ycombinator.com/item?id=43864800) - [Felix86: Run x86-64 programs on RISC-V Linux](https://felix86.com/)
 * [2025-05-01, 22:34:15](https://news.ycombinator.com/item?id=43864108) - [Anubis saved our websites from a DDoS attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
@@ -24,12 +26,10 @@
 * [2025-05-01, 16:02:14](https://news.ycombinator.com/item?id=43859536) - [Claude Integrations](https://www.anthropic.com/news/integrations)
 * [2025-05-01, 15:56:35](https://news.ycombinator.com/item?id=43859446) - [Redis is open source again](https://antirez.com/news/151)
 * [2025-05-01, 15:00:46](https://news.ycombinator.com/item?id=43858554) - [Ask HN: Who is hiring? (May 2025)](https://news.ycombinator.com/item?id=43858554)
-* [2025-05-01, 13:50:38](https://news.ycombinator.com/item?id=43857643) - [AI code review: Should the author be the reviewer?](https://www.greptile.com/blog/ai-code-reviews-conflict)
 * [2025-05-01, 10:28:05](https://news.ycombinator.com/item?id=43855838) - [Owen Le Blanc: creator of the first Linux distribution](https://lwn.net/Articles/1017846/)
 * [2025-04-30, 22:09:03](https://news.ycombinator.com/item?id=43851260) - [New species of methane-producing archaea discovered in the human gut](https://phys.org/news/2025-04-microbiologists-species-methane-archaea-human.html)
 * [2025-04-30, 22:03:03](https://news.ycombinator.com/item?id=43851212) - [LLMs for Engineering: Teaching Models to Design High Powered Rockets](https://arxiv.org/abs/2504.19394)
 * [2025-04-30, 21:56:34](https://news.ycombinator.com/item?id=43851143) - [RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code](https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/)
-* [2025-04-29, 02:09:48](https://news.ycombinator.com/item?id=43828099) - [DECtalk Archive](https://dectalk.nu/)
 
 ## [Archives](archives/index.md)
 

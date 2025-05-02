@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 13:34:32](https://news.ycombinator.com/item?id=43869546) - [Corporation for Public Broadcasting Statement Regarding Executive Order](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media)
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
 * [2025-05-02, 13:06:56](https://news.ycombinator.com/item?id=43869236) - [Converting a Git repo from tabs to spaces (2016)](https://eev.ee/blog/2016/06/04/converting-a-git-repo-from-tabs-to-spaces/)
 * [2025-05-02, 12:39:26](https://news.ycombinator.com/item?id=43868972) - [Taxes and fees not included: T-Mobile's latest price lock is nearly meaningless](https://arstechnica.com/tech-policy/2025/04/taxes-and-fees-not-included-t-mobiles-latest-price-lock-is-nearly-meaningless/)
