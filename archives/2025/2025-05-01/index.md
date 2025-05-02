@@ -47,6 +47,7 @@
 * [2025-05-01, 14:06:55](https://news.ycombinator.com/item?id=43857856) - [Show HN: Hyperparam: OSS Tools for Exploring Datasets Locally in the Browser](https://hyperparam.app/about/opensource)
 * [2025-05-01, 14:00:40](https://news.ycombinator.com/item?id=43857781) - [Maybe Zelenskiy Should Be Writing the Art of the Deal](https://www.bloomberg.com/opinion/articles/2025-05-01/maybe-zelenskiy-should-be-writing-the-art-of-the-deal)
 * [2025-05-01, 13:50:38](https://news.ycombinator.com/item?id=43857643) - [AI code review: Should the author be the reviewer?](https://www.greptile.com/blog/ai-code-reviews-conflict)
+* [2025-05-01, 13:19:38](https://news.ycombinator.com/item?id=43857313) - [Elm Test Distributions](https://martin.janiczek.cz/2025/05/01/elm-test-distributions.html)
 * [2025-05-01, 13:08:06](https://news.ycombinator.com/item?id=43857191) - [NASA's Psyche spacecraft hits a speed bump on the way to a metal asteroid](https://arstechnica.com/space/2025/04/engineers-probe-pressure-drop-in-psyche-spacecrafts-propulsion-system/)
 * [2025-05-01, 12:53:43](https://news.ycombinator.com/item?id=43857040) - [If you're in the market for a $1,900 color E Ink monitor, one of them exists now](https://arstechnica.com/gadgets/2025/04/e-ink-android-tablet-maker-onyx-boox-is-making-a-1900-color-e-ink-monitor/)
 * [2025-05-01, 12:28:47](https://news.ycombinator.com/item?id=43856803) - [International Workers' Day](https://en.wikipedia.org/wiki/International_Workers%27_Day)
