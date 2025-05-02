@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-05-02, 01:54:39",
+      "https://news.ycombinator.com/item?id=43865379"
+    ],
+    [
+      "Chrome Origin Trial: Device Bound Session Credentials",
+      "https://developer.chrome.com/blog/dbsc-origin-trial"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 01:53:01",
+      "https://news.ycombinator.com/item?id=43865372"
+    ],
+    [
+      "Show HN: CapOS – A responsibility-gated OS stack with signed process execution",
+      "https://zenodo.org/communities/xtothepowerofinfinity/records"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 01:27:12",
+      "https://news.ycombinator.com/item?id=43865243"
+    ],
+    [
+      "The Anti-Capitalist Case for Standards",
+      "https://thereader.mitpress.mit.edu/the-anti-capitalist-case-for-standards/"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 01:03:10",
+      "https://news.ycombinator.com/item?id=43865132"
+    ],
+    [
+      "Third Party Cookies Must Be Removed",
+      "https://w3ctag.github.io/web-without-3p-cookies/"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 00:56:57",
+      "https://news.ycombinator.com/item?id=43865103"
+    ],
+    [
+      "Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages",
+      "https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 00:07:23",
       "https://news.ycombinator.com/item?id=43864800"
     ],
@@ -21,42 +71,12 @@
   ],
   [
     [
-      "2025-05-01, 22:08:55",
-      "https://news.ycombinator.com/item?id=43863937"
-    ],
-    [
-      "Deno's Decline",
-      "https://dbushell.com/2025/04/28/denos-decline/"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 21:40:27",
-      "https://news.ycombinator.com/item?id=43863672"
-    ],
-    [
-      "Google Wallet launches new age and identity verification features (ZK proofs)",
-      "https://blog.google/products/google-pay/google-wallet-age-identity-verifications/"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 21:11:38",
       "https://news.ycombinator.com/item?id=43863418"
     ],
     [
       "Show HN: Kubetail – Real-time log search for Kubernetes",
       "https://github.com/kubetail-org/kubetail"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 20:08:48",
-      "https://news.ycombinator.com/item?id=43862774"
-    ],
-    [
-      "The Art of Managing Skunks",
-      "https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-05-01, 16:41:49",
-      "https://news.ycombinator.com/item?id=43860108"
-    ],
-    [
-      "Fivetran to acquire Census",
-      "https://www.fivetran.com/blog/why-fivetran-and-census-are-joining-forces"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 16:02:14",
       "https://news.ycombinator.com/item?id=43859536"
     ],
@@ -147,16 +157,6 @@
     [
       "Redis is open source again",
       "https://antirez.com/news/151"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 15:25:36",
-      "https://news.ycombinator.com/item?id=43858970"
-    ],
-    [
-      "Mac app launches slowed by malware scan (2024)",
-      "https://lapcatsoftware.com/articles/2024/2/3.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-05-01, 12:14:25",
-      "https://news.ycombinator.com/item?id=43856656"
-    ],
-    [
-      "Trust Me, I'm Local: Chrome Extensions, MCP, and the Sandbox Escape",
-      "https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 11:15:08",
       "https://news.ycombinator.com/item?id=43856186"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2025-05-01, 00:30:34",
-      "https://news.ycombinator.com/item?id=43852315"
+      "2025-04-30, 23:46:00",
+      "https://news.ycombinator.com/item?id=43851999"
     ],
     [
-      "Hybrid AC/DC distribution system with a shared neutral (2020)",
-      "https://electrical-engineering-portal.com/download-center/books-and-guides/electricity-generation-t-d/hybrid-ac-dc-distribution"
+      "Liverpool's title win has completed a mysterious Fibonacci sequence",
+      "https://www.bbc.com/future/article/20250425-the-fibonacci-sequence-hidden-in-liverpool-fcs-premier-league-football-title"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "LLMs for Engineering: Teaching Models to Design High Powered Rockets",
       "https://arxiv.org/abs/2504.19394"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 20:53:22",
+      "https://news.ycombinator.com/item?id=43850550"
+    ],
+    [
+      "Offline-First with CouchDB and PouchDB in 2025",
+      "https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025"
     ]
   ],
   [
