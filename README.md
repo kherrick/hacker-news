@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-02, 14:10:56](https://news.ycombinator.com/item?id=43870017) - [Clair Obscur may have the highest Metacritic user score of all time](https://www.metacritic.com/game/clair-obscur-expedition-33/user-reviews/)
 * [2025-05-02, 13:34:32](https://news.ycombinator.com/item?id=43869546) - [Corporation for Public Broadcasting Statement Regarding Executive Order](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media)
 * [2025-05-02, 13:18:26](https://news.ycombinator.com/item?id=43869353) - [Suno v4.5](https://suno.com/explore/)
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
@@ -22,7 +23,6 @@
 * [2025-05-02, 01:03:10](https://news.ycombinator.com/item?id=43865132) - [Third party cookies must be removed](https://w3ctag.github.io/web-without-3p-cookies/)
 * [2025-05-02, 00:07:23](https://news.ycombinator.com/item?id=43864800) - [Felix86: Run x86-64 programs on RISC-V Linux](https://felix86.com/)
 * [2025-05-01, 22:34:15](https://news.ycombinator.com/item?id=43864108) - [Anubis saved our websites from a DDoS attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
-* [2025-05-01, 17:29:16](https://news.ycombinator.com/item?id=43860726) - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
 * [2025-05-01, 16:02:14](https://news.ycombinator.com/item?id=43859536) - [Claude Integrations](https://www.anthropic.com/news/integrations)
 * [2025-05-01, 15:56:35](https://news.ycombinator.com/item?id=43859446) - [Redis is open source again](https://antirez.com/news/151)
 * [2025-05-01, 15:00:46](https://news.ycombinator.com/item?id=43858554) - [Ask HN: Who is hiring? (May 2025)](https://news.ycombinator.com/item?id=43858554)

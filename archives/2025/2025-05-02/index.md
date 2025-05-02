@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 14:10:56](https://news.ycombinator.com/item?id=43870017) - [Clair Obscur may have the highest Metacritic user score of all time](https://www.metacritic.com/game/clair-obscur-expedition-33/user-reviews/)
 * [2025-05-02, 13:34:32](https://news.ycombinator.com/item?id=43869546) - [Corporation for Public Broadcasting Statement Regarding Executive Order](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media)
 * [2025-05-02, 13:18:26](https://news.ycombinator.com/item?id=43869353) - [Suno v4.5](https://suno.com/explore/)
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
