@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2025-05-02, 03:46:06",
-      "https://news.ycombinator.com/item?id=43866001"
+      "2025-05-02, 02:57:51",
+      "https://news.ycombinator.com/item?id=43865740"
     ],
     [
-      "Bloom Filters",
-      "https://eli.thegreenplace.net/2025/bloom-filters/"
+      "Reflecting on a Year of Gamedev in Zig",
+      "https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-04-30, 22:09:03",
+      "https://news.ycombinator.com/item?id=43851260"
+    ],
+    [
+      "New species of methane-producing archaea discovered in the human gut",
+      "https://phys.org/news/2025-04-microbiologists-species-methane-archaea-human.html"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 22:03:03",
       "https://news.ycombinator.com/item?id=43851212"
     ],
@@ -277,16 +287,6 @@
     [
       "Offline-First with CouchDB and PouchDB in 2025",
       "https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 20:30:01",
-      "https://news.ycombinator.com/item?id=43850309"
-    ],
-    [
-      "Creating beautiful charts with JRuby and JFreeChart",
-      "https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html"
     ]
   ],
   [
