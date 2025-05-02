@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
 * [2025-05-02, 23:10:03](https://news.ycombinator.com/item?id=43875416) - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
+* [2025-05-02, 23:07:21](https://news.ycombinator.com/item?id=43875403) - [Demo Driven Development: Show, Don't Just Tell](https://shubhanshu.com/blog/demo-driven-development.html#demo-driven-development)
 * [2025-05-02, 21:03:52](https://news.ycombinator.com/item?id=43874564) - [Show HN: Kinematic Hand Skeleton Optimization in Jax](https://github.com/rerun-io/pi0-lerobot/tree/hand-kinematic-fitting)
 * [2025-05-02, 21:00:14](https://news.ycombinator.com/item?id=43874534) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
 * [2025-05-02, 19:16:38](https://news.ycombinator.com/item?id=43873679) - [VR Design Unpacked: The Secret to Beat Saber's Fun Isn't What You Think](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
