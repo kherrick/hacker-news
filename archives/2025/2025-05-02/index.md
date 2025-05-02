@@ -6,6 +6,7 @@
 
 * [2025-05-02, 15:09:24](https://news.ycombinator.com/item?id=43870844) - [Grand Theft Auto VI Is Now Coming May 26, 2026](https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26-2026)
 * [2025-05-02, 15:04:54](https://news.ycombinator.com/item?id=43870781) - [The Female Gaze](https://www.maryharrington.co.uk/p/the-female-gaze)
+* [2025-05-02, 14:58:01](https://news.ycombinator.com/item?id=43870688) - [The un-celebrity president: Jimmy Carter shuns riches, lives modestly (2018)](https://www.washingtonpost.com/news/national/wp/2018/08/17/feature/the-un-celebrity-president-jimmy-carter-shuns-riches-lives-modestly-in-his-georgia-hometown/)
 * [2025-05-02, 14:30:53](https://news.ycombinator.com/item?id=43870289) - [Show HN: A motherfucking app (does one thing, under 300 LOC)](https://adnjoo.github.io/motherfuckingapp/)
 * [2025-05-02, 14:16:38](https://news.ycombinator.com/item?id=43870090) - [Grand Theft Auto VI gets pushed back to May 26, 2026](https://arstechnica.com/gaming/2025/05/gta-vi-will-miss-2025-after-all-new-target-is-may-26-2026/)
 * [2025-05-02, 14:15:52](https://news.ycombinator.com/item?id=43870083) - [Opinion: Is a split imminent? – Synadia demands NATS back from the CNCF](https://www.heise.de/en/opinion/Opinion-Is-a-split-imminent-Synadia-demands-NATS-back-from-the-CNCF-10366963.html)
@@ -16,6 +17,7 @@
 * [2025-05-02, 13:18:26](https://news.ycombinator.com/item?id=43869353) - [Suno v4.5](https://suno.com/explore/)
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
 * [2025-05-02, 13:06:56](https://news.ycombinator.com/item?id=43869236) - [Converting a Git repo from tabs to spaces (2016)](https://eev.ee/blog/2016/06/04/converting-a-git-repo-from-tabs-to-spaces/)
+* [2025-05-02, 13:03:39](https://news.ycombinator.com/item?id=43869203) - [The Chromium Security Paradox](https://www.island.io/blog/the-chromium-security-paradox)
 * [2025-05-02, 12:52:50](https://news.ycombinator.com/item?id=43869093) - [Mathematician solves algebra's oldest problem using intriguing number sequences](https://phys.org/news/2025-05-mathematician-algebra-oldest-problem-intriguing.amp)
 * [2025-05-02, 12:47:33](https://news.ycombinator.com/item?id=43869045) - [Settling the File Structure Debate](https://muhammedsari.me/settling-the-file-structure-debate)
 * [2025-05-02, 12:39:26](https://news.ycombinator.com/item?id=43868972) - [Taxes and fees not included: T-Mobile's latest price lock is nearly meaningless](https://arstechnica.com/tech-policy/2025/04/taxes-and-fees-not-included-t-mobiles-latest-price-lock-is-nearly-meaningless/)
