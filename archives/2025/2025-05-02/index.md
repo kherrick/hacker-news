@@ -67,3 +67,4 @@
 * [2025-05-02, 00:56:02](https://news.ycombinator.com/item?id=43865097) - [XAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/)
 * [2025-05-02, 00:13:09](https://news.ycombinator.com/item?id=43864827) - [When Americana Doesn't Mean American](https://deeprootsmag.org/2017/09/18/over-there-when-americana-doesnt-mean-american/)
 * [2025-05-02, 00:07:23](https://news.ycombinator.com/item?id=43864800) - [Felix86: Run x86-64 programs on RISC-V Linux](https://felix86.com/)
+* [2025-05-02, 00:00:39](https://news.ycombinator.com/item?id=43864752) - [Fast(er) regular expression engines in Ruby](https://serpapi.com/blog/faster-regular-expression-engines-in-ruby/)
