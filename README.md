@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-02, 04:52:38](https://news.ycombinator.com/item?id=43866321) - [Zoho Halts $700M Semiconductor Plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
+* [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
 * [2025-05-02, 02:39:39](https://news.ycombinator.com/item?id=43865631) - [Quebec refuses to reinvest in Lion Electric (busses); US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
 * [2025-05-02, 01:54:39](https://news.ycombinator.com/item?id=43865379) - [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
 * [2025-05-02, 01:03:10](https://news.ycombinator.com/item?id=43865132) - [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
@@ -15,7 +17,6 @@
 * [2025-05-01, 16:43:37](https://news.ycombinator.com/item?id=43860137) - [Llasa: Llama-Based Speech Synthesis](https://llasatts.github.io/llasatts/)
 * [2025-05-01, 16:02:14](https://news.ycombinator.com/item?id=43859536) - [Claude Integrations](https://www.anthropic.com/news/integrations)
 * [2025-05-01, 15:56:35](https://news.ycombinator.com/item?id=43859446) - [Redis is open source again](https://antirez.com/news/151)
-* [2025-05-01, 15:01:44](https://news.ycombinator.com/item?id=43858568) - [Starting July 1, academic publishers can't paywall NIH-funded research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
 * [2025-05-01, 15:00:46](https://news.ycombinator.com/item?id=43858554) - [Ask HN: Who is hiring? (May 2025)](https://news.ycombinator.com/item?id=43858554)
 * [2025-05-01, 15:00:46](https://news.ycombinator.com/item?id=43858552) - [Ask HN: Who wants to be hired? (May 2025)](https://news.ycombinator.com/item?id=43858552)
 * [2025-05-01, 12:28:21](https://news.ycombinator.com/item?id=43856801) - [Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival](https://linkwarden.app/)
@@ -25,7 +26,6 @@
 * [2025-04-30, 23:58:12](https://news.ycombinator.com/item?id=43852088) - [AI suggestions make writing more generic, Western](https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western)
 * [2025-04-30, 23:46:00](https://news.ycombinator.com/item?id=43851999) - [Liverpool's title win has completed a mysterious Fibonacci sequence](https://www.bbc.com/future/article/20250425-the-fibonacci-sequence-hidden-in-liverpool-fcs-premier-league-football-title)
 * [2025-04-30, 23:17:00](https://news.ycombinator.com/item?id=43851787) - [Building Private Processing for AI Tools on WhatsApp](https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/)
-* [2025-04-30, 22:41:38](https://news.ycombinator.com/item?id=43851514) - [Chariot and Saucer](https://jewishreviewofbooks.com/american-jewry/18531/chariot-and-saucer/)
 * [2025-04-30, 22:03:03](https://news.ycombinator.com/item?id=43851212) - [LLMs for Engineering: Teaching Models to Design High Powered Rockets](https://arxiv.org/abs/2504.19394)
 * [2025-04-30, 20:53:22](https://news.ycombinator.com/item?id=43850550) - [Offline-First with CouchDB and PouchDB in 2025](https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025)
 * [2025-04-30, 20:30:01](https://news.ycombinator.com/item?id=43850309) - [Creating beautiful charts with JRuby and JFreeChart](https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html)
