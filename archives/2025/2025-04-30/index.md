@@ -6,6 +6,7 @@
 
 * [2025-04-30, 23:59:09](https://news.ycombinator.com/item?id=43852096) - [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 * [2025-04-30, 23:48:53](https://news.ycombinator.com/item?id=43852016) - [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
+* [2025-04-30, 23:46:00](https://news.ycombinator.com/item?id=43851999) - [Liverpool's title win has completed a mysterious Fibonacci sequence](https://www.bbc.com/future/article/20250425-the-fibonacci-sequence-hidden-in-liverpool-fcs-premier-league-football-title)
 * [2025-04-30, 23:17:00](https://news.ycombinator.com/item?id=43851787) - [Building Private Processing for AI Tools on WhatsApp](https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/)
 * [2025-04-30, 22:54:07](https://news.ycombinator.com/item?id=43851612) - [US defense secretary circumvents the official communications equipment](https://www.electrospaces.net/2025/04/how-us-defense-secretary-hegseth.html)
 * [2025-04-30, 22:40:29](https://news.ycombinator.com/item?id=43851502) - [How to Not Get Poisoned in America](https://buttondown.com/theswordandthesandwich/archive/how-to-not-get-poisoned-in-america/)
@@ -15,6 +16,7 @@
 * [2025-04-30, 22:03:03](https://news.ycombinator.com/item?id=43851212) - [LLMs for Engineering: Teaching Models to Design High Powered Rockets](https://arxiv.org/abs/2504.19394)
 * [2025-04-30, 21:51:10](https://news.ycombinator.com/item?id=43851099) - [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
 * [2025-04-30, 21:39:40](https://news.ycombinator.com/item?id=43850989) - [Tolkien Against the Grain](https://www.dissentmagazine.org/article/tolkien-against-the-grain/)
+* [2025-04-30, 20:53:22](https://news.ycombinator.com/item?id=43850550) - [Offline-First with CouchDB and PouchDB in 2025](https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025)
 * [2025-04-30, 20:37:49](https://news.ycombinator.com/item?id=43850398) - [The best – but not good – way to limit string length](https://adam-p.ca/blog/2025/04/string-length/)
 * [2025-04-30, 20:36:37](https://news.ycombinator.com/item?id=43850377) - [JetBrains defends removal of negative reviews for unpopular AI Assistant](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/)
 * [2025-04-30, 20:30:01](https://news.ycombinator.com/item?id=43850309) - [Creating Beautiful Charts with JRuby and JFreeChart](https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html)
