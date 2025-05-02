@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-02, 19:16:38](https://news.ycombinator.com/item?id=43873679) - [VR Design Unpacked: The Secret to Beat Saber's Fun Isn't What You Think](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
 * [2025-05-02, 19:09:22](https://news.ycombinator.com/item?id=43873604) - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
 * [2025-05-02, 19:02:01](https://news.ycombinator.com/item?id=43873531) - [Images of Soviet Venus lander falling to Earth suggest its parachute may be out](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
 * [2025-05-02, 18:55:42](https://news.ycombinator.com/item?id=43873465) - [The Impossible Contradictions of Mark Twain](https://www.newyorker.com/magazine/2025/05/05/mark-twain-ron-chernow-book-review)
@@ -16,7 +17,6 @@
 * [2025-05-02, 13:54:27](https://news.ycombinator.com/item?id=43869794) - [Google is hurting new apps that have less users than competitors](https://support.google.com/googleplay/android-developer/thread/330114530/fewer-users-warning-hurting-specialized-and-new-apps-need-answers?hl=en)
 * [2025-05-02, 13:18:26](https://news.ycombinator.com/item?id=43869353) - [Suno v4.5](https://suno.com/explore/)
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
-* [2025-05-02, 13:06:56](https://news.ycombinator.com/item?id=43869236) - [Converting a Git repo from tabs to spaces (2016)](https://eev.ee/blog/2016/06/04/converting-a-git-repo-from-tabs-to-spaces/)
 * [2025-05-02, 12:15:48](https://news.ycombinator.com/item?id=43868737) - [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
 * [2025-05-02, 11:09:52](https://news.ycombinator.com/item?id=43868273) - [Webflow makes GSAP 100% free – plus more updates](https://webflow.com/blog/gsap-becomes-free)
 * [2025-05-02, 11:03:29](https://news.ycombinator.com/item?id=43868231) - [Altair at 50: Remembering the first Personal Computer](https://www.goto10retro.com/p/altair-at-50-remembering-the-first)
@@ -26,7 +26,7 @@
 * [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
 * [2025-05-02, 00:13:09](https://news.ycombinator.com/item?id=43864827) - [When Americana doesn't mean American](https://deeprootsmag.org/2017/09/18/over-there-when-americana-doesnt-mean-american/)
 * [2025-05-02, 00:00:39](https://news.ycombinator.com/item?id=43864752) - [Fast(er) regular expression engines in Ruby](https://serpapi.com/blog/faster-regular-expression-engines-in-ruby/)
-* [2025-05-01, 17:58:58](https://news.ycombinator.com/item?id=43861149) - [Tortoise Mode vs. Hare Mode](https://www.autodidacts.io/tortoise-mode/)
+* [2025-05-01, 14:30:42](https://news.ycombinator.com/item?id=43858183) - [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
 * [2025-05-01, 13:19:38](https://news.ycombinator.com/item?id=43857313) - [Elm Test Distributions](https://martin.janiczek.cz/2025/05/01/elm-test-distributions.html)
 * [2025-05-01, 06:33:45](https://news.ycombinator.com/item?id=43854337) - [Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
 * [2025-04-28, 18:13:17](https://news.ycombinator.com/item?id=43824297) - [Relational Graph Transformers](https://kumo.ai/research/relational-graph-transformers/)

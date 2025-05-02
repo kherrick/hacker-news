@@ -42,6 +42,7 @@
 * [2025-05-01, 14:51:43](https://news.ycombinator.com/item?id=43858442) - [Are You the Same Person You Used to Be?](https://www.newyorker.com/magazine/2022/10/10/are-you-the-same-person-you-used-to-be-life-is-hard-the-origins-of-you)
 * [2025-05-01, 14:36:07](https://news.ycombinator.com/item?id=43858250) - [Two publishers and three authors fail to understand what \"vibe coding\" means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
 * [2025-05-01, 14:34:17](https://news.ycombinator.com/item?id=43858228) - [All roses were once yellow](https://phys.org/news/2025-04-red-pink-white-roses-yellow.html)
+* [2025-05-01, 14:30:42](https://news.ycombinator.com/item?id=43858183) - [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
 * [2025-05-01, 14:09:39](https://news.ycombinator.com/item?id=43857903) - [RFK Jr. rejects cornerstone of health science: Germ theory](https://arstechnica.com/health/2025/04/rfk-jr-s-anti-vaccine-stance-is-rooted-in-a-disbelief-in-germ-theory/)
 * [2025-05-01, 14:07:09](https://news.ycombinator.com/item?id=43857862) - [Vanguard 50-year anniversary CEO letter](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/of-investor-by-investor-for-investor-since-1975.html)
 * [2025-05-01, 14:06:55](https://news.ycombinator.com/item?id=43857856) - [Show HN: Hyperparam: OSS Tools for Exploring Datasets Locally in the Browser](https://hyperparam.app/about/opensource)
