@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-05-02, 01:54:39",
-      "https://news.ycombinator.com/item?id=43865379"
-    ],
-    [
-      "Chrome Origin Trial: Device Bound Session Credentials",
-      "https://developer.chrome.com/blog/dbsc-origin-trial"
-    ]
-  ],
-  [
-    [
       "2025-05-02, 01:03:10",
       "https://news.ycombinator.com/item?id=43865132"
     ],
@@ -117,6 +107,16 @@
     [
       "New Study: Waymo is reducing serious crashes and making streets safer",
       "https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 18:36:58",
+      "https://news.ycombinator.com/item?id=43861669"
+    ],
+    [
+      "C++26: more constexpr in the standard library",
+      "https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-04-30, 20:53:22",
-      "https://news.ycombinator.com/item?id=43850550"
+      "2025-04-30, 20:30:01",
+      "https://news.ycombinator.com/item?id=43850309"
     ],
     [
-      "Offline-First with CouchDB and PouchDB in 2025",
-      "https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025"
+      "Creating beautiful charts with JRuby and JFreeChart",
+      "https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html"
     ]
   ],
   [
