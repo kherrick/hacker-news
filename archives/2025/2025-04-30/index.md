@@ -6,6 +6,7 @@
 
 * [2025-04-30, 23:59:09](https://news.ycombinator.com/item?id=43852096) - [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 * [2025-04-30, 23:48:53](https://news.ycombinator.com/item?id=43852016) - [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
+* [2025-04-30, 23:17:00](https://news.ycombinator.com/item?id=43851787) - [Building Private Processing for AI Tools on WhatsApp](https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/)
 * [2025-04-30, 22:54:07](https://news.ycombinator.com/item?id=43851612) - [US defense secretary circumvents the official communications equipment](https://www.electrospaces.net/2025/04/how-us-defense-secretary-hegseth.html)
 * [2025-04-30, 22:40:29](https://news.ycombinator.com/item?id=43851502) - [How to Not Get Poisoned in America](https://buttondown.com/theswordandthesandwich/archive/how-to-not-get-poisoned-in-america/)
 * [2025-04-30, 22:15:21](https://news.ycombinator.com/item?id=43851314) - [Espressif's ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)
