@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 02:39:39](https://news.ycombinator.com/item?id=43865631) - [Quebec refuses to reinvest in Lion Electric (busses); US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
 * [2025-05-02, 01:54:39](https://news.ycombinator.com/item?id=43865379) - [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
 * [2025-05-02, 01:53:01](https://news.ycombinator.com/item?id=43865372) - [Show HN: CapOS – A responsibility-gated OS stack with signed process execution](https://zenodo.org/communities/xtothepowerofinfinity/records)
 * [2025-05-02, 01:27:12](https://news.ycombinator.com/item?id=43865243) - [The Anti-Capitalist Case for Standards](https://thereader.mitpress.mit.edu/the-anti-capitalist-case-for-standards/)
