@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-02, 13:34:32",
+      "https://news.ycombinator.com/item?id=43869546"
+    ],
+    [
+      "Corporation for Public Broadcasting Statement Regarding Executive Order",
+      "https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 13:11:16",
       "https://news.ycombinator.com/item?id=43869288"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2025-05-02, 02:57:51",
+      "https://news.ycombinator.com/item?id=43865740"
+    ],
+    [
+      "Reflecting on a Year of Gamedev in Zig",
+      "https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 01:03:10",
       "https://news.ycombinator.com/item?id=43865132"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-05-01, 13:50:38",
-      "https://news.ycombinator.com/item?id=43857643"
-    ],
-    [
-      "AI code review: Should the author be the reviewer?",
-      "https://www.greptile.com/blog/ai-code-reviews-conflict"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 10:28:05",
       "https://news.ycombinator.com/item?id=43855838"
     ],
@@ -287,16 +297,6 @@
     [
       "RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code",
       "https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 02:09:48",
-      "https://news.ycombinator.com/item?id=43828099"
-    ],
-    [
-      "DECtalk Archive",
-      "https://dectalk.nu/"
     ]
   ]
 ]
