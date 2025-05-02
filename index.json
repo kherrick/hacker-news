@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-02, 00:07:23",
+      "https://news.ycombinator.com/item?id=43864800"
+    ],
+    [
+      "Felix86: Run x86-64 programs on RISC-V Linux",
+      "https://felix86.com/"
+    ]
+  ],
+  [
+    [
       "2025-05-01, 22:34:15",
       "https://news.ycombinator.com/item?id=43864108"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-05-01, 20:19:06",
-      "https://news.ycombinator.com/item?id=43862893"
-    ],
-    [
-      "Ancient DNA Unveils the Cosmopolitan Heart of the Phoenician-Punic Civilization",
-      "https://allthathistory.com/archaeology-discoveries/phoenician-punic-civilization/2622/"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 20:08:48",
       "https://news.ycombinator.com/item?id=43862774"
     ],
@@ -77,16 +77,6 @@
     [
       "C++26: more constexpr in the standard library",
       "https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 17:29:16",
-      "https://news.ycombinator.com/item?id=43860726"
-    ],
-    [
-      "Dopamine signals when a fear can be forgotten",
-      "https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Hybrid AC/DC distribution system with a shared neutral (2020)",
       "https://electrical-engineering-portal.com/download-center/books-and-guides/electricity-generation-t-d/hybrid-ac-dc-distribution"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 23:17:00",
+      "https://news.ycombinator.com/item?id=43851787"
+    ],
+    [
+      "Building Private Processing for AI Tools on WhatsApp",
+      "https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/"
     ]
   ],
   [
