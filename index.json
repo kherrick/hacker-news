@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-02, 05:53:46",
+      "https://news.ycombinator.com/item?id=43866585"
+    ],
+    [
+      "Show HN: OSle – A 510 bytes OS in x86 assembly",
+      "https://github.com/shikaan/osle"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 04:52:38",
       "https://news.ycombinator.com/item?id=43866321"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-05-01, 17:04:47",
-      "https://news.ycombinator.com/item?id=43860428"
-    ],
-    [
-      "Millihertz 5 Mechanical Computer (2022)",
-      "https://www.srimech.com/MHZ5.html"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 16:43:37",
       "https://news.ycombinator.com/item?id=43860137"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-04-30, 23:58:12",
-      "https://news.ycombinator.com/item?id=43852088"
-    ],
-    [
-      "AI suggestions make writing more generic, Western",
-      "https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western"
-    ]
-  ],
-  [
-    [
       "2025-04-30, 23:46:00",
       "https://news.ycombinator.com/item?id=43851999"
     ],
@@ -277,6 +267,16 @@
     [
       "LLMs for Engineering: Teaching Models to Design High Powered Rockets",
       "https://arxiv.org/abs/2504.19394"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 21:56:34",
+      "https://news.ycombinator.com/item?id=43851143"
+    ],
+    [
+      "RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code",
+      "https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/"
     ]
   ],
   [
