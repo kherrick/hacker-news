@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-02, 17:42:28](https://news.ycombinator.com/item?id=43872761) - [Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents](https://github.com/stanford-mast/blast)
 * [2025-05-02, 17:30:08](https://news.ycombinator.com/item?id=43872625) - [The History of Album Art](https://matthewstrom.com/writing/album-art/)
 * [2025-05-02, 17:00:00](https://news.ycombinator.com/item?id=43872275) - [Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive)](https://www.ycombinator.com/companies/toma/jobs)
 * [2025-05-02, 16:45:29](https://news.ycombinator.com/item?id=43872094) - [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
@@ -12,7 +13,6 @@
 * [2025-05-02, 13:54:27](https://news.ycombinator.com/item?id=43869794) - [Google is hurting new apps that have less users than competitors](https://support.google.com/googleplay/android-developer/thread/330114530/fewer-users-warning-hurting-specialized-and-new-apps-need-answers?hl=en)
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
 * [2025-05-02, 12:47:33](https://news.ycombinator.com/item?id=43869045) - [Settling the File Structure Debate](https://muhammedsari.me/settling-the-file-structure-debate)
-* [2025-05-02, 12:29:30](https://news.ycombinator.com/item?id=43868876) - [Crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
 * [2025-05-02, 12:15:48](https://news.ycombinator.com/item?id=43868737) - [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
 * [2025-05-02, 11:09:52](https://news.ycombinator.com/item?id=43868273) - [Webflow makes GSAP 100% free – plus more updates](https://webflow.com/blog/gsap-becomes-free)
 * [2025-05-02, 11:03:29](https://news.ycombinator.com/item?id=43868231) - [Altair at 50: Remembering the first Personal Computer](https://www.goto10retro.com/p/altair-at-50-remembering-the-first)
