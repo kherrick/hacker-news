@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
 * [2025-04-30, 23:59:09](https://news.ycombinator.com/item?id=43852096) - [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
+* [2025-04-30, 23:58:12](https://news.ycombinator.com/item?id=43852088) - [AI suggestions make writing more generic, Western](https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western)
 * [2025-04-30, 23:48:53](https://news.ycombinator.com/item?id=43852016) - [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
 * [2025-04-30, 23:46:00](https://news.ycombinator.com/item?id=43851999) - [Liverpool's title win has completed a mysterious Fibonacci sequence](https://www.bbc.com/future/article/20250425-the-fibonacci-sequence-hidden-in-liverpool-fcs-premier-league-football-title)
 * [2025-04-30, 23:17:00](https://news.ycombinator.com/item?id=43851787) - [Building Private Processing for AI Tools on WhatsApp](https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/)
