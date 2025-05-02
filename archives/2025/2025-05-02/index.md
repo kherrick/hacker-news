@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 10:46:26](https://news.ycombinator.com/item?id=43868130) - [The Totalitarian Buddhist Who Beat SIM City (2010)](https://web.archive.org/web/20211117094441/https://www.vice.com/en/article/4w4kg3/the-totalitarian-buddhist-who-beat-sim-city)
 * [2025-05-02, 10:33:53](https://news.ycombinator.com/item?id=43868074) - [EU hit TikTok with a massive 530 million euro privacy fine](https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2)
 * [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've Learned from JJ](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 * [2025-05-02, 07:48:11](https://news.ycombinator.com/item?id=43867211) - [Just redesigned my personal site with a TTY-style interface](https://www.abdisa.me/)
