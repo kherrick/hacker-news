@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 11:11:26](https://news.ycombinator.com/item?id=43868279) - [Meta's Reality Labs Has Now Lost over $60B Since 2020](https://meta.slashdot.org/story/25/05/01/206224/metas-reality-labs-has-now-lost-over-60-billion-since-2020)
 * [2025-05-02, 11:06:21](https://news.ycombinator.com/item?id=43868246) - [De minimis: US small parcels loophole closes pushing up Shein, Temu prices](https://www.bbc.com/news/articles/cwy79j2n7d4o)
+* [2025-05-02, 11:03:29](https://news.ycombinator.com/item?id=43868231) - [Altair at 50: Remembering the first Personal Computer](https://www.goto10retro.com/p/altair-at-50-remembering-the-first)
 * [2025-05-02, 10:46:26](https://news.ycombinator.com/item?id=43868130) - [The Totalitarian Buddhist Who Beat SIM City (2010)](https://web.archive.org/web/20211117094441/https://www.vice.com/en/article/4w4kg3/the-totalitarian-buddhist-who-beat-sim-city)
 * [2025-05-02, 10:33:53](https://news.ycombinator.com/item?id=43868074) - [EU hit TikTok with a massive 530 million euro privacy fine](https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2)
 * [2025-05-02, 09:19:00](https://news.ycombinator.com/item?id=43867692) - [Apple App Store guidelines remove ban on encouraging external payments in US](https://developer.apple.com/app-store/review/guidelines/)
