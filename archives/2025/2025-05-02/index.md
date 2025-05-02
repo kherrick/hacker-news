@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 15:21:49](https://news.ycombinator.com/item?id=43870998) - [Show HN: GPT-2 implemented using graphics shaders](https://github.com/nathan-barry/gpt2-webgl)
 * [2025-05-02, 15:19:22](https://news.ycombinator.com/item?id=43870969) - [The language brain matters more for learning programming than the math brain](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
 * [2025-05-02, 15:16:16](https://news.ycombinator.com/item?id=43870926) - [Why our waistlines expand in middle age: aging stem cells shift into overdrive](https://medicalxpress.com/news/2025-04-waistlines-middle-age-aging-stem.html)
 * [2025-05-02, 15:09:24](https://news.ycombinator.com/item?id=43870844) - [Grand Theft Auto VI Is Now Coming May 26, 2026](https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26-2026)
