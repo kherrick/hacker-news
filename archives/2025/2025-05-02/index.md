@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
 * [2025-05-02, 15:19:22](https://news.ycombinator.com/item?id=43870969) - [The language brain matters more for learning programming than the math brain](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
+* [2025-05-02, 15:16:16](https://news.ycombinator.com/item?id=43870926) - [Why our waistlines expand in middle age: aging stem cells shift into overdrive](https://medicalxpress.com/news/2025-04-waistlines-middle-age-aging-stem.html)
 * [2025-05-02, 15:09:24](https://news.ycombinator.com/item?id=43870844) - [Grand Theft Auto VI Is Now Coming May 26, 2026](https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26-2026)
+* [2025-05-02, 15:07:29](https://news.ycombinator.com/item?id=43870819) - [Expanding on what we missed with sycophancy](https://openai.com/index/expanding-on-sycophancy/)
 * [2025-05-02, 15:04:54](https://news.ycombinator.com/item?id=43870781) - [The Female Gaze](https://www.maryharrington.co.uk/p/the-female-gaze)
 * [2025-05-02, 14:58:01](https://news.ycombinator.com/item?id=43870688) - [The un-celebrity president: Jimmy Carter shuns riches, lives modestly (2018)](https://www.washingtonpost.com/news/national/wp/2018/08/17/feature/the-un-celebrity-president-jimmy-carter-shuns-riches-lives-modestly-in-his-georgia-hometown/)
 * [2025-05-02, 14:30:53](https://news.ycombinator.com/item?id=43870289) - [Show HN: A motherfucking app (does one thing, under 300 LOC)](https://adnjoo.github.io/motherfuckingapp/)
