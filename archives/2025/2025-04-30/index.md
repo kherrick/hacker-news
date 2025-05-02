@@ -14,6 +14,7 @@
 * [2025-04-30, 22:40:29](https://news.ycombinator.com/item?id=43851502) - [How to Not Get Poisoned in America](https://buttondown.com/theswordandthesandwich/archive/how-to-not-get-poisoned-in-america/)
 * [2025-04-30, 22:15:21](https://news.ycombinator.com/item?id=43851314) - [Espressif's ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)
 * [2025-04-30, 22:11:44](https://news.ycombinator.com/item?id=43851285) - [The Group Chat from Hell Has Been Exposed](https://www.thenation.com/article/society/marc-andreessen-semafor-group-chat-signal/)
+* [2025-04-30, 22:09:03](https://news.ycombinator.com/item?id=43851260) - [New species of methane-producing archaea discovered in the human gut](https://phys.org/news/2025-04-microbiologists-species-methane-archaea-human.html)
 * [2025-04-30, 22:04:41](https://news.ycombinator.com/item?id=43851225) - [Home washing machines fail to remove important pathogens from textiles](https://medicalxpress.com/news/2025-04-home-machines-important-pathogens-textiles.html)
 * [2025-04-30, 22:03:03](https://news.ycombinator.com/item?id=43851212) - [LLMs for Engineering: Teaching Models to Design High Powered Rockets](https://arxiv.org/abs/2504.19394)
 * [2025-04-30, 21:51:10](https://news.ycombinator.com/item?id=43851099) - [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
