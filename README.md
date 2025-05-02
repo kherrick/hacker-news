@@ -2,12 +2,12 @@
 
 * [2025-05-02, 17:00:00](https://news.ycombinator.com/item?id=43872275) - [Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive)](https://www.ycombinator.com/companies/toma/jobs)
 * [2025-05-02, 16:45:29](https://news.ycombinator.com/item?id=43872094) - [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
-* [2025-05-02, 16:38:14](https://news.ycombinator.com/item?id=43871998) - [Universal Antivenom May Grow Out of Man Who Let Snakes Bite Him 100s of Times](https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html)
 * [2025-05-02, 16:37:00](https://news.ycombinator.com/item?id=43871984) - [Show HN: Exhibit and Site on Mechanisms for Students](https://mechanical-library.org/)
 * [2025-05-02, 15:21:49](https://news.ycombinator.com/item?id=43870998) - [Show HN: GPT-2 implemented using graphics shaders](https://github.com/nathan-barry/gpt2-webgl)
 * [2025-05-02, 15:19:22](https://news.ycombinator.com/item?id=43870969) - [The language brain matters more for learning programming than the math brain](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
 * [2025-05-02, 15:16:16](https://news.ycombinator.com/item?id=43870926) - [Why our waistlines expand in middle age: aging stem cells shift into overdrive](https://medicalxpress.com/news/2025-04-waistlines-middle-age-aging-stem.html)
 * [2025-05-02, 15:07:29](https://news.ycombinator.com/item?id=43870819) - [Expanding on what we missed with sycophancy](https://openai.com/index/expanding-on-sycophancy/)
+* [2025-05-02, 14:48:02](https://news.ycombinator.com/item?id=43870574) - [Anthropic Development Partner Program](https://support.anthropic.com/en/articles/11174108-about-the-development-partner-program)
 * [2025-05-02, 14:24:12](https://news.ycombinator.com/item?id=43870200) - [Lessons from Harlem](https://theamericanscholar.org/lessons-from-harlem/)
 * [2025-05-02, 13:54:27](https://news.ycombinator.com/item?id=43869794) - [Google is hurting new apps that have less users than competitors](https://support.google.com/googleplay/android-developer/thread/330114530/fewer-users-warning-hurting-specialized-and-new-apps-need-answers?hl=en)
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
