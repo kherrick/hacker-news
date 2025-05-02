@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've Learned from JJ](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 * [2025-05-02, 05:53:46](https://news.ycombinator.com/item?id=43866585) - [Show HN: OSle – A 510 bytes OS in x86 assembly](https://github.com/shikaan/osle)
 * [2025-05-02, 04:52:38](https://news.ycombinator.com/item?id=43866321) - [Zoho Halts $700M Semiconductor Plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
 * [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)

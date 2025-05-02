@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've Learned from JJ](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 * [2025-05-02, 05:53:46](https://news.ycombinator.com/item?id=43866585) - [Show HN: OSle – A 510 bytes OS in x86 assembly](https://github.com/shikaan/osle)
-* [2025-05-02, 04:52:38](https://news.ycombinator.com/item?id=43866321) - [Zoho halts $700M semiconductor plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
 * [2025-05-02, 03:46:06](https://news.ycombinator.com/item?id=43866001) - [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters/)
 * [2025-05-02, 02:57:51](https://news.ycombinator.com/item?id=43865740) - [Reflecting on a Year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
 * [2025-05-02, 02:39:39](https://news.ycombinator.com/item?id=43865631) - [Quebec refuses to reinvest in Lion Electric](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
