@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 17:00:00](https://news.ycombinator.com/item?id=43872275) - [Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive)](https://www.ycombinator.com/companies/toma/jobs)
+* [2025-05-02, 16:45:29](https://news.ycombinator.com/item?id=43872094) - [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
 * [2025-05-02, 16:38:14](https://news.ycombinator.com/item?id=43871998) - [Universal Antivenom May Grow Out of Man Who Let Snakes Bite Him 100s of Times](https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html)
 * [2025-05-02, 16:37:00](https://news.ycombinator.com/item?id=43871984) - [Show HN: Exhibit and Site on Mechanisms for Students](https://mechanical-library.org/)
 * [2025-05-02, 15:21:49](https://news.ycombinator.com/item?id=43870998) - [Show HN: GPT-2 implemented using graphics shaders](https://github.com/nathan-barry/gpt2-webgl)
@@ -57,4 +59,5 @@
 * [2025-05-02, 01:03:10](https://news.ycombinator.com/item?id=43865132) - [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
 * [2025-05-02, 00:56:57](https://news.ycombinator.com/item?id=43865103) - [Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages](https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/)
 * [2025-05-02, 00:56:02](https://news.ycombinator.com/item?id=43865097) - [XAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/)
+* [2025-05-02, 00:13:09](https://news.ycombinator.com/item?id=43864827) - [When Americana Doesn't Mean American](https://deeprootsmag.org/2017/09/18/over-there-when-americana-doesnt-mean-american/)
 * [2025-05-02, 00:07:23](https://news.ycombinator.com/item?id=43864800) - [Felix86: Run x86-64 programs on RISC-V Linux](https://felix86.com/)
