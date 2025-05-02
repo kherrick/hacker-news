@@ -6,6 +6,7 @@
 
 * [2025-05-02, 04:52:38](https://news.ycombinator.com/item?id=43866321) - [Zoho Halts $700M Semiconductor Plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
 * [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
+* [2025-05-02, 02:57:51](https://news.ycombinator.com/item?id=43865740) - [Reflecting on a Year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
 * [2025-05-02, 02:39:39](https://news.ycombinator.com/item?id=43865631) - [Quebec refuses to reinvest in Lion Electric (busses); US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
 * [2025-05-02, 01:54:39](https://news.ycombinator.com/item?id=43865379) - [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
 * [2025-05-02, 01:53:01](https://news.ycombinator.com/item?id=43865372) - [Show HN: CapOS – A responsibility-gated OS stack with signed process execution](https://zenodo.org/communities/xtothepowerofinfinity/records)

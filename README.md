@@ -2,6 +2,7 @@
 
 * [2025-05-02, 04:52:38](https://news.ycombinator.com/item?id=43866321) - [Zoho Halts $700M Semiconductor Plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
 * [2025-05-02, 04:49:02](https://news.ycombinator.com/item?id=43866303) - [Don't watermark your legal PDFs with purple dragons in suits](https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/)
+* [2025-05-02, 02:57:51](https://news.ycombinator.com/item?id=43865740) - [Reflecting on a Year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
 * [2025-05-02, 02:39:39](https://news.ycombinator.com/item?id=43865631) - [Quebec refuses to reinvest in Lion Electric (busses); US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
 * [2025-05-02, 01:54:39](https://news.ycombinator.com/item?id=43865379) - [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
 * [2025-05-02, 01:03:10](https://news.ycombinator.com/item?id=43865132) - [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
@@ -23,7 +24,6 @@
 * [2025-05-01, 12:27:51](https://news.ycombinator.com/item?id=43856795) - [Judge rules Apple executive lied under oath, makes criminal contempt referral](https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied)
 * [2025-05-01, 10:28:05](https://news.ycombinator.com/item?id=43855838) - [Owen Le Blanc: creator of the first Linux distribution](https://lwn.net/Articles/1017846/)
 * [2025-05-01, 07:51:39](https://news.ycombinator.com/item?id=43854776) - [When ChatGPT broke the field of NLP: An oral history](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/)
-* [2025-05-01, 00:48:11](https://news.ycombinator.com/item?id=43852446) - [Blood droplets on inclined surfaces reveal new cracking patterns](https://phys.org/news/2025-04-blood-droplets-inclined-surfaces-reveal.html)
 * [2025-04-30, 23:58:12](https://news.ycombinator.com/item?id=43852088) - [AI suggestions make writing more generic, Western](https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western)
 * [2025-04-30, 23:46:00](https://news.ycombinator.com/item?id=43851999) - [Liverpool's title win has completed a mysterious Fibonacci sequence](https://www.bbc.com/future/article/20250425-the-fibonacci-sequence-hidden-in-liverpool-fcs-premier-league-football-title)
 * [2025-04-30, 22:03:03](https://news.ycombinator.com/item?id=43851212) - [LLMs for Engineering: Teaching Models to Design High Powered Rockets](https://arxiv.org/abs/2504.19394)
