@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 14:30:53](https://news.ycombinator.com/item?id=43870289) - [Show HN: A motherfucking app (does one thing, under 300 LOC)](https://adnjoo.github.io/motherfuckingapp/)
+* [2025-05-02, 14:15:52](https://news.ycombinator.com/item?id=43870083) - [Opinion: Is a split imminent? – Synadia demands NATS back from the CNCF](https://www.heise.de/en/opinion/Opinion-Is-a-split-imminent-Synadia-demands-NATS-back-from-the-CNCF-10366963.html)
+* [2025-05-02, 14:12:53](https://news.ycombinator.com/item?id=43870042) - [Autism evaluations are being canceled over fears about a national registry](https://www.statnews.com/2025/05/01/autism-registry-fears-hurt-diagnosis-screening-parents-cancel-autism-evaluations/)
 * [2025-05-02, 14:10:56](https://news.ycombinator.com/item?id=43870017) - [Clair Obscur may have the highest Metacritic user score of all time](https://www.metacritic.com/game/clair-obscur-expedition-33/user-reviews/)
 * [2025-05-02, 13:34:32](https://news.ycombinator.com/item?id=43869546) - [Corporation for Public Broadcasting Statement Regarding Executive Order](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media)
 * [2025-05-02, 13:18:26](https://news.ycombinator.com/item?id=43869353) - [Suno v4.5](https://suno.com/explore/)
