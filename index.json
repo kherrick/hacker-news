@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-05-03, 16:20:39",
+      "https://news.ycombinator.com/item?id=43880068"
+    ],
+    [
+      "How LWN is faring in 2025",
+      "https://lwn.net/Articles/1019217/"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 15:46:56",
+      "https://news.ycombinator.com/item?id=43879846"
+    ],
+    [
+      "Where Do Scientists Think This Is All Going?",
+      "https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 15:30:33",
+      "https://news.ycombinator.com/item?id=43879715"
+    ],
+    [
+      "QModem 4.51 Source Code",
+      "https://github.com/AaronFriel/qmodem-4.51"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 15:29:10",
       "https://news.ycombinator.com/item?id=43879702"
     ],
     [
       "Run LLMs on Apple Neural Engine (ANE)",
       "https://github.com/Anemll/Anemll"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 15:26:17",
-      "https://news.ycombinator.com/item?id=43879685"
-    ],
-    [
-      "Censorship concerns rise over Texas book bill; Abilene bookstore pushes back",
-      "https://www.bigcountryhomepage.com/news/censorship-concerns-rise-over-texas-bill-abilene-bookstore-pushes-back/"
     ]
   ],
   [
@@ -51,22 +71,22 @@
   ],
   [
     [
-      "2025-05-03, 14:31:10",
-      "https://news.ycombinator.com/item?id=43879277"
-    ],
-    [
-      "Google Can Train Search AI with Web Content Even with Opt-Out",
-      "https://www.bloomberg.com/news/articles/2025-05-03/google-can-train-search-ai-with-web-content-even-after-opt-out"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 13:43:53",
       "https://news.ycombinator.com/item?id=43878987"
     ],
     [
       "Show HN: Pipask – safer pip without compromising convenience",
       "https://github.com/feynmanix/pipask"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 13:32:10",
+      "https://news.ycombinator.com/item?id=43878930"
+    ],
+    [
+      "Vibe Coding Is Overrated",
+      "https://transitions.substack.com/p/vibe-coding-is-overrated"
     ]
   ],
   [
@@ -107,6 +127,16 @@
     [
       "Seeking an Answer: Why can't HTML alone do includes?",
       "https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 12:44:17",
+      "https://news.ycombinator.com/item?id=43878704"
+    ],
+    [
+      "Vuntra City",
+      "https://vuntracity.com/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-05-02, 23:26:12",
-      "https://news.ycombinator.com/item?id=43875505"
-    ],
-    [
-      "ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal",
-      "https://github.com/ernestofgonzalez/epub-utils"
-    ]
-  ],
-  [
-    [
       "2025-05-02, 23:10:03",
       "https://news.ycombinator.com/item?id=43875416"
     ],
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2025-05-02, 15:07:29",
-      "https://news.ycombinator.com/item?id=43870819"
+      "2025-05-02, 00:51:38",
+      "https://news.ycombinator.com/item?id=43865066"
     ],
     [
-      "Expanding on what we missed with sycophancy",
-      "https://openai.com/index/expanding-on-sycophancy/"
+      "Show HN: I made a toast that shows what visitors are doing in real-time",
+      "https://proofybubble.com"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "The unusual mathematics that gives rose petals their shape",
       "https://www.nature.com/articles/d41586-025-01394-4"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 18:29:43",
-      "https://news.ycombinator.com/item?id=43861566"
-    ],
-    [
-      "Open-source AI platform for ear-based sensing applications",
-      "https://open-earable.teco.edu/"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 14:26:55",
-      "https://news.ycombinator.com/item?id=43858136"
-    ],
-    [
-      "PScientists reveal how bats learn to identify which prey is safe to eat",
-      "https://phys.org/news/2025-04-palatable-poisonous-scientists-reveal-prey.html"
     ]
   ],
   [
