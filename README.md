@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-03, 13:20:03](https://news.ycombinator.com/item?id=43878871) - [Computational Limit of Life May Be Billion Times Higher Than Assumed](https://www.popularmechanics.com/science/a64612958/computation-limit-biology/)
 * [2025-05-03, 13:14:59](https://news.ycombinator.com/item?id=43878850) - [Time saved by AI offset by new work created, study suggests](https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/)
 * [2025-05-03, 11:52:12](https://news.ycombinator.com/item?id=43878461) - [Show HN: Use Third Party LLM API in JetBrains AI Assistant](https://github.com/Stream29/ProxyAsLocalModel)
 * [2025-05-03, 10:54:24](https://news.ycombinator.com/item?id=43878191) - [Speedrunning and Modding the Incredibles: Rise of the Underminer](https://farlow.dev/2025/05/02/rotu)
@@ -12,6 +11,7 @@
 * [2025-05-02, 23:26:12](https://news.ycombinator.com/item?id=43875505) - [ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal](https://github.com/ernestofgonzalez/epub-utils)
 * [2025-05-02, 23:10:03](https://news.ycombinator.com/item?id=43875416) - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
 * [2025-05-02, 21:00:14](https://news.ycombinator.com/item?id=43874534) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
+* [2025-05-02, 19:09:22](https://news.ycombinator.com/item?id=43873604) - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
 * [2025-05-02, 19:02:01](https://news.ycombinator.com/item?id=43873531) - [Old Soviet Venus descent craft nearing Earth reentry](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
 * [2025-05-02, 18:12:15](https://news.ycombinator.com/item?id=43873074) - [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
 * [2025-05-02, 15:21:49](https://news.ycombinator.com/item?id=43870998) - [Show HN: GPT-2 implemented using graphics shaders](https://github.com/nathan-barry/gpt2-webgl)
