@@ -80,6 +80,7 @@
 * [2025-04-28, 01:32:57](https://news.ycombinator.com/item?id=43816697) - [To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
 * [2025-04-28, 01:24:13](https://news.ycombinator.com/item?id=43816651) - [Visual Transistor-level Simulation of the 6502 CPU](http://www.visual6502.org/)
 * [2025-04-28, 01:21:01](https://news.ycombinator.com/item?id=43816634) - [Presentation Slides with Markdown](https://sli.dev)
+* [2025-04-28, 01:04:15](https://news.ycombinator.com/item?id=43816546) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160039885)
 * [2025-04-28, 00:38:53](https://news.ycombinator.com/item?id=43816419) - [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
 * [2025-04-28, 00:28:07](https://news.ycombinator.com/item?id=43816376) - [National Archives Releases Unidentified Anomalous Phenomena (UAP) Records](https://www.archives.gov/press/press-releases/2025/nr25-07)
 * [2025-04-28, 00:19:26](https://news.ycombinator.com/item?id=43816327) - [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-03, 03:04:41](https://news.ycombinator.com/item?id=43876566) - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
+* [2025-05-03, 01:46:54](https://news.ycombinator.com/item?id=43876243) - [I put sheet music into smart glasses [video]](https://www.youtube.com/watch?v=j36u2i7PKKE)
 * [2025-05-02, 23:26:12](https://news.ycombinator.com/item?id=43875505) - [ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal](https://github.com/ernestofgonzalez/epub-utils)
 * [2025-05-02, 23:10:03](https://news.ycombinator.com/item?id=43875416) - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
 * [2025-05-02, 21:00:14](https://news.ycombinator.com/item?id=43874534) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
@@ -11,13 +13,10 @@
 * [2025-05-02, 17:30:08](https://news.ycombinator.com/item?id=43872625) - [The History of Album Art](https://matthewstrom.com/writing/album-art/)
 * [2025-05-02, 16:45:29](https://news.ycombinator.com/item?id=43872094) - [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
 * [2025-05-02, 15:21:49](https://news.ycombinator.com/item?id=43870998) - [Show HN: GPT-2 implemented using graphics shaders](https://github.com/nathan-barry/gpt2-webgl)
-* [2025-05-02, 15:19:22](https://news.ycombinator.com/item?id=43870969) - [The language brain matters more for programming than the math brain? (2020)](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
 * [2025-05-02, 15:07:29](https://news.ycombinator.com/item?id=43870819) - [Expanding on what we missed with sycophancy](https://openai.com/index/expanding-on-sycophancy/)
 * [2025-05-02, 13:18:26](https://news.ycombinator.com/item?id=43869353) - [Suno v4.5](https://suno.com/explore/)
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
 * [2025-05-02, 12:15:48](https://news.ycombinator.com/item?id=43868737) - [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
-* [2025-05-02, 11:09:52](https://news.ycombinator.com/item?id=43868273) - [Webflow makes GSAP 100% free – plus more updates](https://webflow.com/blog/gsap-becomes-free)
-* [2025-05-02, 11:03:29](https://news.ycombinator.com/item?id=43868231) - [Altair at 50: Remembering the first Personal Computer](https://www.goto10retro.com/p/altair-at-50-remembering-the-first)
 * [2025-05-02, 10:58:10](https://news.ycombinator.com/item?id=43868192) - [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
 * [2025-05-02, 10:46:26](https://news.ycombinator.com/item?id=43868130) - [The Totalitarian Buddhist Who Beat SIM City (2010)](https://web.archive.org/web/20211117094441/https://www.vice.com/en/article/4w4kg3/the-totalitarian-buddhist-who-beat-sim-city)
 * [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
@@ -27,9 +26,10 @@
 * [2025-05-01, 19:58:06](https://news.ycombinator.com/item?id=43862643) - [Why Is the Kiwi's Egg So Big?](https://www.audubon.org/magazine/why-kiwis-egg-so-big)
 * [2025-05-01, 18:03:33](https://news.ycombinator.com/item?id=43861207) - [Achieving Human Level Competitive Robot Table Tennis](https://sites.google.com/view/competitive-robot-table-tennis/home?pli=1)
 * [2025-05-01, 18:02:10](https://news.ycombinator.com/item?id=43861189) - [You could just choose optimism](https://quarter--mile.com/You-Could-Just-Choose-Optimism)
-* [2025-05-01, 15:56:35](https://news.ycombinator.com/item?id=43859446) - [Redis is open source again](https://antirez.com/news/151)
 * [2025-05-01, 14:30:42](https://news.ycombinator.com/item?id=43858183) - [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
+* [2025-05-01, 13:30:01](https://news.ycombinator.com/item?id=43857405) - [Depictions of the Milky Way found in ancient Egyptian imagery](https://phys.org/news/2025-04-depictions-milky-ancient-egyptian-imagery.html)
 * [2025-05-01, 06:33:45](https://news.ycombinator.com/item?id=43854337) - [Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
+* [2025-04-28, 01:04:15](https://news.ycombinator.com/item?id=43816546) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160039885)
 
 ## [Archives](archives/index.md)
 
