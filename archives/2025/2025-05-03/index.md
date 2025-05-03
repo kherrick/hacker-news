@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 15:29:10](https://news.ycombinator.com/item?id=43879702) - [Run LLMs on Apple Neural Engine (ANE)](https://github.com/Anemll/Anemll)
 * [2025-05-03, 15:26:17](https://news.ycombinator.com/item?id=43879685) - [Censorship concerns rise over Texas book bill; Abilene bookstore pushes back](https://www.bigcountryhomepage.com/news/censorship-concerns-rise-over-texas-bill-abilene-bookstore-pushes-back/)
 * [2025-05-03, 14:42:02](https://news.ycombinator.com/item?id=43879348) - [A memory of the nineteen nineties (1997)](https://web.archive.org/web/20100329052253/https://www.theatlantic.com/past/docs/issues/97nov/teller.htm)
 * [2025-05-03, 14:32:57](https://news.ycombinator.com/item?id=43879288) - [The US has approved CRISPR pigs for food](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/)

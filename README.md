@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-03, 15:29:10](https://news.ycombinator.com/item?id=43879702) - [Run LLMs on Apple Neural Engine (ANE)](https://github.com/Anemll/Anemll)
 * [2025-05-03, 15:26:17](https://news.ycombinator.com/item?id=43879685) - [Censorship concerns rise over Texas book bill; Abilene bookstore pushes back](https://www.bigcountryhomepage.com/news/censorship-concerns-rise-over-texas-bill-abilene-bookstore-pushes-back/)
 * [2025-05-03, 14:42:02](https://news.ycombinator.com/item?id=43879348) - [A memory of the nineteen nineties (1997)](https://web.archive.org/web/20100329052253/https://www.theatlantic.com/past/docs/issues/97nov/teller.htm)
 * [2025-05-03, 14:32:57](https://news.ycombinator.com/item?id=43879288) - [The US has approved CRISPR pigs for food](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/)
@@ -22,7 +23,6 @@
 * [2025-05-02, 18:12:15](https://news.ycombinator.com/item?id=43873074) - [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
 * [2025-05-02, 15:19:22](https://news.ycombinator.com/item?id=43870969) - [The language brain matters more for programming than the math brain? (2020)](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
 * [2025-05-02, 15:07:29](https://news.ycombinator.com/item?id=43870819) - [Expanding on what we missed with sycophancy](https://openai.com/index/expanding-on-sycophancy/)
-* [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 * [2025-05-01, 23:36:48](https://news.ycombinator.com/item?id=43864589) - ['I found your dad': The mystery of a missing climber](https://www.espn.com/olympics/story/_/id/44690603/bill-stampfl-missing-climber-peru-huascaran)
 * [2025-05-01, 23:18:45](https://news.ycombinator.com/item?id=43864442) - [What New Orleans Taught Me](https://commonedge.org/what-new-orleans-taught-me/)
 * [2025-05-01, 19:21:50](https://news.ycombinator.com/item?id=43862189) - [The unusual mathematics that gives rose petals their shape](https://www.nature.com/articles/d41586-025-01394-4)
