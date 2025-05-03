@@ -10,7 +10,6 @@
 * [2025-05-03, 14:31:52](https://news.ycombinator.com/item?id=43879282) - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
 * [2025-05-03, 14:29:02](https://news.ycombinator.com/item?id=43879259) - [Why I ever wrote Clojure](https://thesoftwarephilosopher.com/blog/2025-05-03-why-i-ever-wrote-clojure.html)
 * [2025-05-03, 13:43:53](https://news.ycombinator.com/item?id=43878987) - [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)
-* [2025-05-03, 13:32:10](https://news.ycombinator.com/item?id=43878930) - [Vibe Coding Is Overrated](https://transitions.substack.com/p/vibe-coding-is-overrated)
 * [2025-05-03, 13:22:03](https://news.ycombinator.com/item?id=43878878) - [Why I stopped angel investing after 15 years (and what I'm doing instead)](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after)
 * [2025-05-03, 13:14:59](https://news.ycombinator.com/item?id=43878850) - [Time saved by AI offset by new work created, study suggests](https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/)
 * [2025-05-03, 13:08:29](https://news.ycombinator.com/item?id=43878824) - [Closures in Tcl](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html)
@@ -29,6 +28,7 @@
 * [2025-05-01, 23:36:48](https://news.ycombinator.com/item?id=43864589) - ['I found your dad': The mystery of a missing climber](https://www.espn.com/olympics/story/_/id/44690603/bill-stampfl-missing-climber-peru-huascaran)
 * [2025-05-01, 23:18:45](https://news.ycombinator.com/item?id=43864442) - [What New Orleans Taught Me](https://commonedge.org/what-new-orleans-taught-me/)
 * [2025-05-01, 19:21:50](https://news.ycombinator.com/item?id=43862189) - [The unusual mathematics that gives rose petals their shape](https://www.nature.com/articles/d41586-025-01394-4)
+* [2025-05-01, 13:30:01](https://news.ycombinator.com/item?id=43857405) - [Depictions of the Milky Way found in ancient Egyptian imagery](https://phys.org/news/2025-04-depictions-milky-ancient-egyptian-imagery.html)
 * [2025-04-28, 01:04:15](https://news.ycombinator.com/item?id=43816546) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160039885)
 
 ## [Archives](archives/index.md)
