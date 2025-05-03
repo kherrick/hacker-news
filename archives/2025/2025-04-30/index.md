@@ -79,3 +79,4 @@
 * [2025-04-30, 01:04:58](https://news.ycombinator.com/item?id=43840062) - [All the Women I Met in Jail](https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/)
 * [2025-04-30, 01:04:24](https://news.ycombinator.com/item?id=43840057) - [Creating the Commodore 64: The Engineers' Story](https://spectrum.ieee.org/commodore-64)
 * [2025-04-30, 00:55:48](https://news.ycombinator.com/item?id=43839977) - [Not a Zombie](https://notazombie.net/landing)
+* [2025-04-30, 00:03:52](https://news.ycombinator.com/item?id=43839572) - [Ensure public interface reliability: Tracking API compatibility for Android](https://www.revenuecat.com/blog/engineering/binary-compatability/)

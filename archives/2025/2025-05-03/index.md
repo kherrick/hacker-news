@@ -9,6 +9,7 @@
 * [2025-05-03, 21:08:03](https://news.ycombinator.com/item?id=43882336) - [The Unreasonable Effectiveness of Multiple Dispatch in Julia (2019)](https://www.youtube.com/watch?v=kc9HwsxE1OY)
 * [2025-05-03, 21:00:18](https://news.ycombinator.com/item?id=43882280) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-05-03, 20:52:28](https://news.ycombinator.com/item?id=43882211) - [Why do econ journalists keep making this basic mistake?](https://www.noahpinion.blog/p/why-do-econ-journalists-keep-making)
+* [2025-05-03, 20:44:56](https://news.ycombinator.com/item?id=43882150) - [When Flat Rate Movers Won't Answer Your Calls](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls)
 * [2025-05-03, 20:40:59](https://news.ycombinator.com/item?id=43882118) - [Understanding-j: An introduction to the J programming language that gets to the](https://github.com/bugsbugsbux/understanding-j)
 * [2025-05-03, 20:08:50](https://news.ycombinator.com/item?id=43881832) - [You Sent the Message. But Did You Write It?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
 * [2025-05-03, 19:30:38](https://news.ycombinator.com/item?id=43881468) - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
