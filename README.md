@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-03, 10:54:24](https://news.ycombinator.com/item?id=43878191) - [Speedrunning and Modding the Incredibles: Rise of the Underminer](https://farlow.dev/2025/05/02/rotu)
 * [2025-05-03, 09:37:14](https://news.ycombinator.com/item?id=43877907) - [We know a little more about Amazon's super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
 * [2025-05-03, 09:08:31](https://news.ycombinator.com/item?id=43877797) - [Minimum Viable Blog](https://ostwilkens.se/blog/setting-up-blog)
 * [2025-05-03, 06:45:00](https://news.ycombinator.com/item?id=43877301) - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
@@ -19,15 +20,14 @@
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
 * [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 * [2025-05-02, 07:48:11](https://news.ycombinator.com/item?id=43867211) - [Just redesigned my personal site with a TTY-style interface](https://www.abdisa.me/)
-* [2025-05-01, 23:57:46](https://news.ycombinator.com/item?id=43864724) - [Two-phase chip cooling with manifold-capillary structures enables 10⁵ COP](https://www.sciencedirect.com/science/article/pii/S2666386425001195)
 * [2025-05-01, 21:11:04](https://news.ycombinator.com/item?id=43863414) - [Derivation and Intuition behind Poisson distribution](https://antaripasaha.notion.site/Derivation-and-Intuition-behind-Poisson-distribution-1255314a56398062bf9dd9049fb1c396)
 * [2025-05-01, 19:58:06](https://news.ycombinator.com/item?id=43862643) - [Why Is the Kiwi's Egg So Big?](https://www.audubon.org/magazine/why-kiwis-egg-so-big)
 * [2025-05-01, 18:29:43](https://news.ycombinator.com/item?id=43861566) - [Open-source AI platform for ear-based sensing applications](https://open-earable.teco.edu/)
 * [2025-05-01, 18:06:49](https://news.ycombinator.com/item?id=43861253) - [The future of solar doesn't track the sun](https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/)
 * [2025-05-01, 18:03:33](https://news.ycombinator.com/item?id=43861207) - [Achieving Human Level Competitive Robot Table Tennis](https://sites.google.com/view/competitive-robot-table-tennis/home?pli=1)
 * [2025-05-01, 14:30:42](https://news.ycombinator.com/item?id=43858183) - [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
+* [2025-05-01, 14:26:55](https://news.ycombinator.com/item?id=43858136) - [PScientists reveal how bats learn to identify which prey is safe to eat](https://phys.org/news/2025-04-palatable-poisonous-scientists-reveal-prey.html)
 * [2025-05-01, 13:30:01](https://news.ycombinator.com/item?id=43857405) - [Depictions of the Milky Way found in ancient Egyptian imagery](https://phys.org/news/2025-04-depictions-milky-ancient-egyptian-imagery.html)
-* [2025-05-01, 11:59:46](https://news.ycombinator.com/item?id=43856532) - [Game preservationists say Switch2 GameKey Cards are disheartening but inevitable](https://www.videogameschronicle.com/news/game-preservationists-say-switch-2-game-key-cards-are-disheartening-but-inevitable/)
 * [2025-05-01, 06:33:45](https://news.ycombinator.com/item?id=43854337) - [Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
 * [2025-04-28, 01:04:15](https://news.ycombinator.com/item?id=43816546) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160039885)
 
