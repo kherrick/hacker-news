@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-03, 21:00:18](https://news.ycombinator.com/item?id=43882280) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+* [2025-05-03, 20:40:59](https://news.ycombinator.com/item?id=43882118) - [Understanding-j: An introduction to the J programming language that gets to the](https://github.com/bugsbugsbux/understanding-j)
 * [2025-05-03, 20:08:50](https://news.ycombinator.com/item?id=43881832) - [You Sent the Message. But Did You Write It?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
 * [2025-05-03, 19:30:38](https://news.ycombinator.com/item?id=43881468) - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
 * [2025-05-03, 19:20:18](https://news.ycombinator.com/item?id=43881396) - [Ask HN: Anyone else roll eyes at startups that went from \"X\" to \"AI-powered X\"?](https://news.ycombinator.com/item?id=43881396)
@@ -14,7 +15,6 @@
 * [2025-05-03, 15:30:33](https://news.ycombinator.com/item?id=43879715) - [QModem 4.51 Source Code](https://github.com/AaronFriel/qmodem-4.51)
 * [2025-05-03, 15:29:10](https://news.ycombinator.com/item?id=43879702) - [Run LLMs on Apple Neural Engine (ANE)](https://github.com/Anemll/Anemll)
 * [2025-05-03, 14:31:52](https://news.ycombinator.com/item?id=43879282) - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
-* [2025-05-03, 14:29:02](https://news.ycombinator.com/item?id=43879259) - [Why I ever wrote Clojure](https://thesoftwarephilosopher.com/blog/2025-05-03-why-i-ever-wrote-clojure.html)
 * [2025-05-03, 13:43:53](https://news.ycombinator.com/item?id=43878987) - [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)
 * [2025-05-03, 13:22:03](https://news.ycombinator.com/item?id=43878878) - [Why I stopped angel investing after 15 years (and what I'm doing instead)](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after)
 * [2025-05-03, 13:08:29](https://news.ycombinator.com/item?id=43878824) - [Closures in Tcl](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html)
