@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 14:31:52](https://news.ycombinator.com/item?id=43879282) - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
+* [2025-05-03, 14:31:10](https://news.ycombinator.com/item?id=43879277) - [Google Can Train Search AI with Web Content Even with Opt-Out](https://www.bloomberg.com/news/articles/2025-05-03/google-can-train-search-ai-with-web-content-even-after-opt-out)
 * [2025-05-03, 13:43:53](https://news.ycombinator.com/item?id=43878987) - [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)
+* [2025-05-03, 13:22:03](https://news.ycombinator.com/item?id=43878878) - [Why I stopped angel investing after 15 years (and what I'm doing instead)](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after)
 * [2025-05-03, 13:20:03](https://news.ycombinator.com/item?id=43878871) - [Computational Limit of Life May Be Billion Times Higher Than Assumed](https://www.popularmechanics.com/science/a64612958/computation-limit-biology/)
 * [2025-05-03, 13:14:59](https://news.ycombinator.com/item?id=43878850) - [Time saved by AI offset by new work created, study suggests](https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/)
 * [2025-05-03, 13:08:29](https://news.ycombinator.com/item?id=43878824) - [Closures in Tcl](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html)
