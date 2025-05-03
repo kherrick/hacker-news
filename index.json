@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-02, 23:26:12",
+      "https://news.ycombinator.com/item?id=43875505"
+    ],
+    [
+      "ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal",
+      "https://github.com/ernestofgonzalez/epub-utils"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 23:10:03",
       "https://news.ycombinator.com/item?id=43875416"
     ],
@@ -27,16 +37,6 @@
     [
       "VR Design Unpacked: The secret to Beat Saber's fun",
       "https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 19:09:22",
-      "https://news.ycombinator.com/item?id=43873604"
-    ],
-    [
-      "A proof of concept tool to verify estimates",
-      "https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-05-02, 11:03:29",
+      "https://news.ycombinator.com/item?id=43868231"
+    ],
+    [
+      "Altair at 50: Remembering the first Personal Computer",
+      "https://www.goto10retro.com/p/altair-at-50-remembering-the-first"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 10:58:10",
       "https://news.ycombinator.com/item?id=43868192"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2025-05-02, 04:49:02",
-      "https://news.ycombinator.com/item?id=43866303"
+      "2025-05-02, 00:13:09",
+      "https://news.ycombinator.com/item?id=43864827"
     ],
     [
-      "Don't watermark your legal PDFs with purple dragons in suits",
-      "https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 00:39:45",
-      "https://news.ycombinator.com/item?id=43864986"
-    ],
-    [
-      "Normalizing Ratings",
-      "http://hopefullyintersting.blogspot.com/2025/05/normalizing-ratings.html"
+      "When Americana doesn't mean American",
+      "https://deeprootsmag.org/2017/09/18/over-there-when-americana-doesnt-mean-american/"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Derivation and Intuition behind Poisson distribution",
       "https://antaripasaha.notion.site/Derivation-and-Intuition-behind-Poisson-distribution-1255314a56398062bf9dd9049fb1c396"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 19:58:06",
+      "https://news.ycombinator.com/item?id=43862643"
+    ],
+    [
+      "Why Is the Kiwi's Egg So Big?",
+      "https://www.audubon.org/magazine/why-kiwis-egg-so-big"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Strings Just Got Faster",
       "https://inside.java/2025/05/01/strings-just-got-faster/"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 18:13:17",
-      "https://news.ycombinator.com/item?id=43824297"
-    ],
-    [
-      "Relational Graph Transformers",
-      "https://kumo.ai/research/relational-graph-transformers/"
     ]
   ]
 ]
