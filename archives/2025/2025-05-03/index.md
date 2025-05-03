@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
 * [2025-05-03, 14:42:02](https://news.ycombinator.com/item?id=43879348) - [A memory of the nineteen nineties (1997)](https://web.archive.org/web/20100329052253/https://www.theatlantic.com/past/docs/issues/97nov/teller.htm)
+* [2025-05-03, 14:32:57](https://news.ycombinator.com/item?id=43879288) - [The US has approved CRISPR pigs for food](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/)
 * [2025-05-03, 14:31:52](https://news.ycombinator.com/item?id=43879282) - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
 * [2025-05-03, 14:31:10](https://news.ycombinator.com/item?id=43879277) - [Google Can Train Search AI with Web Content Even with Opt-Out](https://www.bloomberg.com/news/articles/2025-05-03/google-can-train-search-ai-with-web-content-even-after-opt-out)
 * [2025-05-03, 13:43:53](https://news.ycombinator.com/item?id=43878987) - [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)

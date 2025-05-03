@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-03, 14:42:02](https://news.ycombinator.com/item?id=43879348) - [A memory of the nineteen nineties (1997)](https://web.archive.org/web/20100329052253/https://www.theatlantic.com/past/docs/issues/97nov/teller.htm)
+* [2025-05-03, 14:32:57](https://news.ycombinator.com/item?id=43879288) - [The US has approved CRISPR pigs for food](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/)
 * [2025-05-03, 14:31:52](https://news.ycombinator.com/item?id=43879282) - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
 * [2025-05-03, 14:31:10](https://news.ycombinator.com/item?id=43879277) - [Google Can Train Search AI with Web Content Even with Opt-Out](https://www.bloomberg.com/news/articles/2025-05-03/google-can-train-search-ai-with-web-content-even-after-opt-out)
 * [2025-05-03, 13:43:53](https://news.ycombinator.com/item?id=43878987) - [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)
@@ -19,7 +20,6 @@
 * [2025-05-02, 19:09:22](https://news.ycombinator.com/item?id=43873604) - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
 * [2025-05-02, 19:02:01](https://news.ycombinator.com/item?id=43873531) - [Old Soviet Venus descent craft nearing Earth reentry](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
 * [2025-05-02, 18:12:15](https://news.ycombinator.com/item?id=43873074) - [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
-* [2025-05-02, 15:21:49](https://news.ycombinator.com/item?id=43870998) - [Show HN: GPT-2 implemented using graphics shaders](https://github.com/nathan-barry/gpt2-webgl)
 * [2025-05-02, 15:19:22](https://news.ycombinator.com/item?id=43870969) - [The language brain matters more for programming than the math brain? (2020)](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
 * [2025-05-02, 15:07:29](https://news.ycombinator.com/item?id=43870819) - [Expanding on what we missed with sycophancy](https://openai.com/index/expanding-on-sycophancy/)
 * [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
