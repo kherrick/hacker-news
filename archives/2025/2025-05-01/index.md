@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
 * [2025-05-01, 23:57:46](https://news.ycombinator.com/item?id=43864724) - [Two-phase chip cooling with manifold-capillary structures enables 10⁵ COP](https://www.sciencedirect.com/science/article/pii/S2666386425001195)
+* [2025-05-01, 23:18:45](https://news.ycombinator.com/item?id=43864442) - [What New Orleans Taught Me](https://commonedge.org/what-new-orleans-taught-me/)
 * [2025-05-01, 22:34:15](https://news.ycombinator.com/item?id=43864108) - [The Day Anubis Saved Our Websites from a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
 * [2025-05-01, 22:08:55](https://news.ycombinator.com/item?id=43863937) - [Deno's Decline](https://dbushell.com/2025/04/28/denos-decline/)
 * [2025-05-01, 21:40:27](https://news.ycombinator.com/item?id=43863672) - [Google Wallet launches new age and identity verification features (ZK proofs)](https://blog.google/products/google-pay/google-wallet-age-identity-verifications/)
