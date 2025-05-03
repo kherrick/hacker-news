@@ -6,6 +6,7 @@
 
 * [2025-05-03, 16:20:39](https://news.ycombinator.com/item?id=43880068) - [How LWN is faring in 2025](https://lwn.net/Articles/1019217/)
 * [2025-05-03, 15:46:56](https://news.ycombinator.com/item?id=43879846) - [Where Do Scientists Think This Is All Going?](https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/)
+* [2025-05-03, 15:34:38](https://news.ycombinator.com/item?id=43879748) - [Bethesda Thinks Fan Remaster of Oblivion Is 'Very Special' and Supports It](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773)
 * [2025-05-03, 15:30:33](https://news.ycombinator.com/item?id=43879715) - [QModem 4.51 Source Code](https://github.com/AaronFriel/qmodem-4.51)
 * [2025-05-03, 15:29:10](https://news.ycombinator.com/item?id=43879702) - [Run LLMs on Apple Neural Engine (ANE)](https://github.com/Anemll/Anemll)
 * [2025-05-03, 15:26:17](https://news.ycombinator.com/item?id=43879685) - [Censorship concerns rise over Texas book bill; Abilene bookstore pushes back](https://www.bigcountryhomepage.com/news/censorship-concerns-rise-over-texas-bill-abilene-bookstore-pushes-back/)
@@ -13,6 +14,7 @@
 * [2025-05-03, 14:32:57](https://news.ycombinator.com/item?id=43879288) - [The US has approved CRISPR pigs for food](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/)
 * [2025-05-03, 14:31:52](https://news.ycombinator.com/item?id=43879282) - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
 * [2025-05-03, 14:31:10](https://news.ycombinator.com/item?id=43879277) - [Google Can Train Search AI with Web Content Even with Opt-Out](https://www.bloomberg.com/news/articles/2025-05-03/google-can-train-search-ai-with-web-content-even-after-opt-out)
+* [2025-05-03, 14:29:02](https://news.ycombinator.com/item?id=43879259) - [Why I ever wrote Clojure](https://thesoftwarephilosopher.com/blog/2025-05-03-why-i-ever-wrote-clojure.html)
 * [2025-05-03, 13:43:53](https://news.ycombinator.com/item?id=43878987) - [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)
 * [2025-05-03, 13:32:10](https://news.ycombinator.com/item?id=43878930) - [Vibe Coding Is Overrated](https://transitions.substack.com/p/vibe-coding-is-overrated)
 * [2025-05-03, 13:22:03](https://news.ycombinator.com/item?id=43878878) - [Why I stopped angel investing after 15 years (and what I'm doing instead)](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after)
