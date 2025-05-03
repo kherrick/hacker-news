@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-03, 21:00:18](https://news.ycombinator.com/item?id=43882280) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-05-03, 20:08:50](https://news.ycombinator.com/item?id=43881832) - [You Sent the Message. But Did You Write It?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
+* [2025-05-03, 19:30:38](https://news.ycombinator.com/item?id=43881468) - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
+* [2025-05-03, 19:20:18](https://news.ycombinator.com/item?id=43881396) - [Ask HN: Anyone else roll eyes at startups that went from \"X\" to \"AI-powered X\"?](https://news.ycombinator.com/item?id=43881396)
 * [2025-05-03, 18:29:50](https://news.ycombinator.com/item?id=43881065) - [Deadly Screwworm Parasite's Comeback Threatens Texas Cattle, US Beef Supply](http://www.bloomberg.com/news/features/2025-05-02/deadly-screwworm-parasite-s-comeback-threatens-texas-cattle-us-beef-supply)
 * [2025-05-03, 18:26:06](https://news.ycombinator.com/item?id=43881035) - [We fell out of love with Next.js and back in love with Ruby on Rails](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
 * [2025-05-03, 18:16:54](https://news.ycombinator.com/item?id=43880973) - [Buffett to step down following six-decade run atop Berkshire](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
@@ -8,7 +11,6 @@
 * [2025-05-03, 18:04:14](https://news.ycombinator.com/item?id=43880883) - [RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io](https://github.com/serverless-dns/serverless-dns)
 * [2025-05-03, 17:19:47](https://news.ycombinator.com/item?id=43880560) - [Burning Mao](https://granta.com/burning-mao/)
 * [2025-05-03, 17:19:07](https://news.ycombinator.com/item?id=43880554) - [MathML with Pandoc](https://leancrew.com/all-this/2025/05/mathml-with-pandoc/)
-* [2025-05-03, 17:00:20](https://news.ycombinator.com/item?id=43880414) - [Stellar Sleep (YC S23) is hiring a product engineer in SF](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
 * [2025-05-03, 15:30:33](https://news.ycombinator.com/item?id=43879715) - [QModem 4.51 Source Code](https://github.com/AaronFriel/qmodem-4.51)
 * [2025-05-03, 15:29:10](https://news.ycombinator.com/item?id=43879702) - [Run LLMs on Apple Neural Engine (ANE)](https://github.com/Anemll/Anemll)
 * [2025-05-03, 14:31:52](https://news.ycombinator.com/item?id=43879282) - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
@@ -18,7 +20,6 @@
 * [2025-05-03, 13:08:29](https://news.ycombinator.com/item?id=43878824) - [Closures in Tcl](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html)
 * [2025-05-03, 12:50:55](https://news.ycombinator.com/item?id=43878728) - [Why can't HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
 * [2025-05-03, 11:52:12](https://news.ycombinator.com/item?id=43878461) - [Show HN: Use Third Party LLM API in JetBrains AI Assistant](https://github.com/Stream29/ProxyAsLocalModel)
-* [2025-05-03, 10:54:24](https://news.ycombinator.com/item?id=43878191) - [Speedrunning and Modding the Incredibles: Rise of the Underminer](https://farlow.dev/2025/05/02/rotu)
 * [2025-05-03, 09:37:14](https://news.ycombinator.com/item?id=43877907) - [We know a little more about Amazon's satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
 * [2025-05-03, 09:08:31](https://news.ycombinator.com/item?id=43877797) - [Minimum Viable Blog](https://ostwilkens.se/blog/setting-up-blog)
 * [2025-05-03, 06:45:00](https://news.ycombinator.com/item?id=43877301) - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
@@ -26,10 +27,9 @@
 * [2025-05-02, 22:42:21](https://news.ycombinator.com/item?id=43875230) - [The Craft 001: A conversation about craft, code, and freedom with Neal Agarwal](https://www.workingtheorys.com/p/the-craft-neal-agarwal)
 * [2025-05-02, 06:13:06](https://news.ycombinator.com/item?id=43866670) - [Ghosts and Dolls](https://thelampmagazine.com/issues/issue-27/ghosts-and-dolls)
 * [2025-05-01, 23:36:48](https://news.ycombinator.com/item?id=43864589) - ['I found your dad': The mystery of a missing climber](https://www.espn.com/olympics/story/_/id/44690603/bill-stampfl-missing-climber-peru-huascaran)
-* [2025-05-01, 23:18:45](https://news.ycombinator.com/item?id=43864442) - [What New Orleans Taught Me](https://commonedge.org/what-new-orleans-taught-me/)
 * [2025-05-01, 18:06:49](https://news.ycombinator.com/item?id=43861253) - [The future of solar doesn't track the sun](https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/)
+* [2025-04-30, 10:27:37](https://news.ycombinator.com/item?id=43843241) - [Legendary Bose Magic Carpet Suspension Is Finally Going Global](https://www.thedrive.com/news/legendary-bose-magic-carpet-suspension-is-finally-going-global)
 * [2025-04-29, 23:08:26](https://news.ycombinator.com/item?id=43839145) - [Lessons from Building a Translator App That Beats Google Translate and DeepL](https://dingyu.me/blog/lessons-translator-app-beats-google-translate-deepl)
-* [2025-04-28, 01:04:15](https://news.ycombinator.com/item?id=43816546) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160039885)
 
 ## [Archives](archives/index.md)
 
