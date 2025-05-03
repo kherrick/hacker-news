@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 17:19:47](https://news.ycombinator.com/item?id=43880560) - [Burning Mao](https://granta.com/burning-mao/)
 * [2025-05-03, 17:00:20](https://news.ycombinator.com/item?id=43880414) - [Stellar Sleep (YC S23) is hiring a product engineer in SF](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
 * [2025-05-03, 16:20:39](https://news.ycombinator.com/item?id=43880068) - [How LWN is faring in 2025](https://lwn.net/Articles/1019217/)
 * [2025-05-03, 15:46:56](https://news.ycombinator.com/item?id=43879846) - [Where Do Scientists Think This Is All Going?](https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/)
