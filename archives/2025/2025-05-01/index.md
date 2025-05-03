@@ -15,6 +15,7 @@
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 * [2025-05-01, 18:36:58](https://news.ycombinator.com/item?id=43861669) - [C++26: more constexpr in the standard library](https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes)
 * [2025-05-01, 18:03:33](https://news.ycombinator.com/item?id=43861207) - [Achieving Human Level Competitive Robot Table Tennis](https://sites.google.com/view/competitive-robot-table-tennis/home?pli=1)
+* [2025-05-01, 18:02:10](https://news.ycombinator.com/item?id=43861189) - [You could just choose optimism](https://quarter--mile.com/You-Could-Just-Choose-Optimism)
 * [2025-05-01, 17:58:58](https://news.ycombinator.com/item?id=43861149) - [Tortoise Mode vs. Hare Mode](https://www.autodidacts.io/tortoise-mode/)
 * [2025-05-01, 17:47:15](https://news.ycombinator.com/item?id=43860993) - [Making of Monkeys.zip](https://www.lukeschaefer.dev/posts/making-of-monkeys/)
 * [2025-05-01, 17:33:20](https://news.ycombinator.com/item?id=43860783) - ['ProtectEU' security strategy: a step further towards a digital dystopian future](https://edri.org/our-work/protecteu-security-strategy-a-step-further-towards-a-digital-dystopian-future/)
