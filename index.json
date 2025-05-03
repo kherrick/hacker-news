@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-03, 21:22:28",
+      "https://news.ycombinator.com/item?id=43882437"
+    ],
+    [
+      "Numerical Linear Algebra Class in Julia TUM",
+      "https://venkovic.github.io/NLA-for-CS-and-IE.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 21:08:03",
+      "https://news.ycombinator.com/item?id=43882336"
+    ],
+    [
+      "The Unreasonable Effectiveness of Multiple Dispatch in Julia (2019)",
+      "https://www.youtube.com/watch?v=kc9HwsxE1OY"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 21:00:18",
       "https://news.ycombinator.com/item?id=43882280"
     ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2025-05-03, 20:08:50",
-      "https://news.ycombinator.com/item?id=43881832"
-    ],
-    [
-      "You sent the message, but did you write it?",
-      "https://davidduncan.substack.com/p/you-sent-the-message-but-did-you"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 19:30:38",
       "https://news.ycombinator.com/item?id=43881468"
     ],
     [
       "DuckDB is probably the most important geospatial software of the last decade",
       "https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 19:19:21",
-      "https://news.ycombinator.com/item?id=43881391"
-    ],
-    [
-      "Federal Court Halts Dismantling of Federal Library Agency in ALA Lawsuit",
-      "https://www.ala.org/news/2025/05/federal-court-halts-dismantling-federal-library-agency-ala-lawsuit"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "We fell out of love with Next.js and back in love with Ruby on Rails",
       "https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 18:16:54",
-      "https://news.ycombinator.com/item?id=43880973"
-    ],
-    [
-      "Buffett to step down following six-decade run atop Berkshire",
-      "https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Show HN: Use Third Party LLM API in JetBrains AI Assistant",
       "https://github.com/Stream29/ProxyAsLocalModel"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 10:54:24",
+      "https://news.ycombinator.com/item?id=43878191"
+    ],
+    [
+      "Speedrunning and Modding the Incredibles: Rise of the Underminer",
+      "https://farlow.dev/2025/05/02/rotu"
     ]
   ],
   [
