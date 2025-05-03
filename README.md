@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-03, 21:00:18](https://news.ycombinator.com/item?id=43882280) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
-* [2025-05-03, 20:52:28](https://news.ycombinator.com/item?id=43882211) - [Why do econ journalists keep making this basic mistake?](https://www.noahpinion.blog/p/why-do-econ-journalists-keep-making)
 * [2025-05-03, 20:40:59](https://news.ycombinator.com/item?id=43882118) - [Understanding-j: An introduction to the J programming language that gets to the](https://github.com/bugsbugsbux/understanding-j)
 * [2025-05-03, 20:08:50](https://news.ycombinator.com/item?id=43881832) - [You sent the message, but did you write it?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
 * [2025-05-03, 19:30:38](https://news.ycombinator.com/item?id=43881468) - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
@@ -28,6 +27,7 @@
 * [2025-05-01, 23:36:48](https://news.ycombinator.com/item?id=43864589) - ['I found your dad': The mystery of a missing climber](https://www.espn.com/olympics/story/_/id/44690603/bill-stampfl-missing-climber-peru-huascaran)
 * [2025-05-01, 18:06:49](https://news.ycombinator.com/item?id=43861253) - [The future of solar doesn't track the sun](https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/)
 * [2025-04-30, 10:27:37](https://news.ycombinator.com/item?id=43843241) - [Legendary Bose Magic Carpet Suspension Is Finally Going Global](https://www.thedrive.com/news/legendary-bose-magic-carpet-suspension-is-finally-going-global)
+* [2025-04-30, 01:04:24](https://news.ycombinator.com/item?id=43840057) - [Creating the Commodore 64: The Engineers' Story](https://spectrum.ieee.org/commodore-64)
 * [2025-04-29, 23:08:26](https://news.ycombinator.com/item?id=43839145) - [Lessons from Building a Translator App That Beats Google Translate and DeepL](https://dingyu.me/blog/lessons-translator-app-beats-google-translate-deepl)
 * [2025-04-28, 01:04:15](https://news.ycombinator.com/item?id=43816546) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160039885)
 

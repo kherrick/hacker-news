@@ -77,4 +77,5 @@
 * [2025-04-30, 02:53:02](https://news.ycombinator.com/item?id=43840763) - [What It Takes to Defend a Cybersecurity Company from Today's Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
 * [2025-04-30, 01:26:31](https://news.ycombinator.com/item?id=43840193) - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [2025-04-30, 01:04:58](https://news.ycombinator.com/item?id=43840062) - [All the Women I Met in Jail](https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/)
+* [2025-04-30, 01:04:24](https://news.ycombinator.com/item?id=43840057) - [Creating the Commodore 64: The Engineers' Story](https://spectrum.ieee.org/commodore-64)
 * [2025-04-30, 00:55:48](https://news.ycombinator.com/item?id=43839977) - [Not a Zombie](https://notazombie.net/landing)
