@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 20:08:50](https://news.ycombinator.com/item?id=43881832) - [You Sent the Message. But Did You Write It?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
 * [2025-05-03, 19:20:18](https://news.ycombinator.com/item?id=43881396) - [Ask HN: Anyone else roll eyes at startups that went from \"X\" to \"AI-powered X\"?](https://news.ycombinator.com/item?id=43881396)
 * [2025-05-03, 19:19:21](https://news.ycombinator.com/item?id=43881391) - [Federal Court Halts Dismantling of Federal Library Agency in ALA Lawsuit](https://www.ala.org/news/2025/05/federal-court-halts-dismantling-federal-library-agency-ala-lawsuit)
 * [2025-05-03, 19:01:21](https://news.ycombinator.com/item?id=43881283) - [Spain-Portugal blackouts: what happened](https://theconversation.com/spain-portugal-blackouts-what-actually-happened-and-what-can-iberia-and-europe-learn-from-it-255666)

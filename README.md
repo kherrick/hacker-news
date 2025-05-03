@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-03, 20:08:50](https://news.ycombinator.com/item?id=43881832) - [You Sent the Message. But Did You Write It?](https://davidduncan.substack.com/p/you-sent-the-message-but-did-you)
 * [2025-05-03, 18:29:50](https://news.ycombinator.com/item?id=43881065) - [Deadly Screwworm Parasite's Comeback Threatens Texas Cattle, US Beef Supply](http://www.bloomberg.com/news/features/2025-05-02/deadly-screwworm-parasite-s-comeback-threatens-texas-cattle-us-beef-supply)
 * [2025-05-03, 18:26:06](https://news.ycombinator.com/item?id=43881035) - [We fell out of love with Next.js and back in love with Ruby on Rails](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
-* [2025-05-03, 18:16:54](https://news.ycombinator.com/item?id=43880973) - [Warren Buffett to Step Down from Berkshire Hathaway at Year-End](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
+* [2025-05-03, 18:16:54](https://news.ycombinator.com/item?id=43880973) - [Buffett to step down following six-decade run atop Berkshire](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
 * [2025-05-03, 18:15:45](https://news.ycombinator.com/item?id=43880962) - [Show HN: Free, in-browser PDF editor](https://breezepdf.com)
 * [2025-05-03, 18:04:14](https://news.ycombinator.com/item?id=43880883) - [RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io](https://github.com/serverless-dns/serverless-dns)
 * [2025-05-03, 17:19:47](https://news.ycombinator.com/item?id=43880560) - [Burning Mao](https://granta.com/burning-mao/)
@@ -22,7 +23,6 @@
 * [2025-05-03, 09:08:31](https://news.ycombinator.com/item?id=43877797) - [Minimum Viable Blog](https://ostwilkens.se/blog/setting-up-blog)
 * [2025-05-03, 06:45:00](https://news.ycombinator.com/item?id=43877301) - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
 * [2025-05-03, 03:04:41](https://news.ycombinator.com/item?id=43876566) - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
-* [2025-05-03, 01:46:54](https://news.ycombinator.com/item?id=43876243) - [I put sheet music into smart glasses [video]](https://www.youtube.com/watch?v=j36u2i7PKKE)
 * [2025-05-02, 22:42:21](https://news.ycombinator.com/item?id=43875230) - [The Craft 001: A conversation about craft, code, and freedom with Neal Agarwal](https://www.workingtheorys.com/p/the-craft-neal-agarwal)
 * [2025-05-02, 06:13:06](https://news.ycombinator.com/item?id=43866670) - [Ghosts and Dolls](https://thelampmagazine.com/issues/issue-27/ghosts-and-dolls)
 * [2025-05-01, 23:36:48](https://news.ycombinator.com/item?id=43864589) - ['I found your dad': The mystery of a missing climber](https://www.espn.com/olympics/story/_/id/44690603/bill-stampfl-missing-climber-peru-huascaran)
