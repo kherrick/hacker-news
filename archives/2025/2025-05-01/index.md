@@ -16,6 +16,7 @@
 * [2025-05-01, 20:08:48](https://news.ycombinator.com/item?id=43862774) - [The Art of Managing Skunks](https://maheshba.bitbucket.io/blog/2025/02/09/2025-skunks.html)
 * [2025-05-01, 19:58:06](https://news.ycombinator.com/item?id=43862643) - [Why Is the Kiwi's Egg So Big?](https://www.audubon.org/magazine/why-kiwis-egg-so-big)
 * [2025-05-01, 19:46:10](https://news.ycombinator.com/item?id=43862487) - [Oxide's compensation model: how's it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
+* [2025-05-01, 19:21:50](https://news.ycombinator.com/item?id=43862189) - [The unusual mathematics that gives rose petals their shape](https://www.nature.com/articles/d41586-025-01394-4)
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 * [2025-05-01, 18:44:49](https://news.ycombinator.com/item?id=43861771) - [London's National Gallery purchases a painting by an unknown artist for $20M](https://www.theartnewspaper.com/2025/05/01/national-gallery-buys-mysterious-altarpiece-for-20m)
 * [2025-05-01, 18:36:58](https://news.ycombinator.com/item?id=43861669) - [C++26: more constexpr in the standard library](https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes)
