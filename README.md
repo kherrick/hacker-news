@@ -25,9 +25,9 @@
 * [2025-05-02, 23:10:03](https://news.ycombinator.com/item?id=43875416) - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
 * [2025-05-02, 22:42:21](https://news.ycombinator.com/item?id=43875230) - [The Craft 001: A conversation about craft, code, and freedom with Neal Agarwal](https://www.workingtheorys.com/p/the-craft-neal-agarwal)
 * [2025-05-02, 19:02:01](https://news.ycombinator.com/item?id=43873531) - [Old Soviet Venus descent craft nearing Earth reentry](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
-* [2025-05-02, 18:12:15](https://news.ycombinator.com/item?id=43873074) - [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
 * [2025-05-01, 23:36:48](https://news.ycombinator.com/item?id=43864589) - ['I found your dad': The mystery of a missing climber](https://www.espn.com/olympics/story/_/id/44690603/bill-stampfl-missing-climber-peru-huascaran)
 * [2025-05-01, 23:18:45](https://news.ycombinator.com/item?id=43864442) - [What New Orleans Taught Me](https://commonedge.org/what-new-orleans-taught-me/)
+* [2025-05-01, 18:29:43](https://news.ycombinator.com/item?id=43861566) - [Open-source AI platform for ear-based sensing applications](https://open-earable.teco.edu/)
 * [2025-05-01, 13:30:01](https://news.ycombinator.com/item?id=43857405) - [Depictions of the Milky Way found in ancient Egyptian imagery](https://phys.org/news/2025-04-depictions-milky-ancient-egyptian-imagery.html)
 * [2025-04-28, 01:04:15](https://news.ycombinator.com/item?id=43816546) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160039885)
 
