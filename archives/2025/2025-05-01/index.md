@@ -17,6 +17,7 @@
 * [2025-05-01, 18:49:51](https://news.ycombinator.com/item?id=43861828) - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 * [2025-05-01, 18:44:49](https://news.ycombinator.com/item?id=43861771) - [London's National Gallery purchases a painting by an unknown artist for $20M](https://www.theartnewspaper.com/2025/05/01/national-gallery-buys-mysterious-altarpiece-for-20m)
 * [2025-05-01, 18:36:58](https://news.ycombinator.com/item?id=43861669) - [C++26: more constexpr in the standard library](https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes)
+* [2025-05-01, 18:29:43](https://news.ycombinator.com/item?id=43861566) - [Open-source AI platform for ear-based sensing applications](https://open-earable.teco.edu/)
 * [2025-05-01, 18:03:33](https://news.ycombinator.com/item?id=43861207) - [Achieving Human Level Competitive Robot Table Tennis](https://sites.google.com/view/competitive-robot-table-tennis/home?pli=1)
 * [2025-05-01, 18:02:10](https://news.ycombinator.com/item?id=43861189) - [You could just choose optimism](https://quarter--mile.com/You-Could-Just-Choose-Optimism)
 * [2025-05-01, 17:58:58](https://news.ycombinator.com/item?id=43861149) - [Tortoise Mode vs. Hare Mode](https://www.autodidacts.io/tortoise-mode/)
