@@ -17,7 +17,6 @@
 * [2025-05-03, 15:29:10](https://news.ycombinator.com/item?id=43879702) - [Run LLMs on Apple Neural Engine (ANE)](https://github.com/Anemll/Anemll)
 * [2025-05-03, 14:31:52](https://news.ycombinator.com/item?id=43879282) - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
 * [2025-05-03, 13:43:53](https://news.ycombinator.com/item?id=43878987) - [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)
-* [2025-05-03, 13:22:03](https://news.ycombinator.com/item?id=43878878) - [Why I stopped angel investing after 15 years (and what I'm doing instead)](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after)
 * [2025-05-03, 13:08:29](https://news.ycombinator.com/item?id=43878824) - [Closures in Tcl](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html)
 * [2025-05-03, 12:50:55](https://news.ycombinator.com/item?id=43878728) - [Why can't HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
 * [2025-05-03, 11:52:12](https://news.ycombinator.com/item?id=43878461) - [Show HN: Use Third Party LLM API in JetBrains AI Assistant](https://github.com/Stream29/ProxyAsLocalModel)
@@ -30,6 +29,7 @@
 * [2025-05-01, 18:06:49](https://news.ycombinator.com/item?id=43861253) - [The future of solar doesn't track the sun](https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/)
 * [2025-04-30, 10:27:37](https://news.ycombinator.com/item?id=43843241) - [Legendary Bose Magic Carpet Suspension Is Finally Going Global](https://www.thedrive.com/news/legendary-bose-magic-carpet-suspension-is-finally-going-global)
 * [2025-04-29, 23:08:26](https://news.ycombinator.com/item?id=43839145) - [Lessons from Building a Translator App That Beats Google Translate and DeepL](https://dingyu.me/blog/lessons-translator-app-beats-google-translate-deepl)
+* [2025-04-28, 01:04:15](https://news.ycombinator.com/item?id=43816546) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160039885)
 
 ## [Archives](archives/index.md)
 
