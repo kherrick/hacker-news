@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 23:08:26](https://news.ycombinator.com/item?id=43839145) - [Lessons from Building a Translator App That Beats Google Translate and DeepL](https://dingyu.me/blog/lessons-translator-app-beats-google-translate-deepl)
 * [2025-04-29, 23:06:02](https://news.ycombinator.com/item?id=43839123) - [Waymo partners with Toyota to bring autonomous driving to personal vehicles](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
 * [2025-04-29, 22:35:35](https://news.ycombinator.com/item?id=43838856) - [Path Isn't Real on Linux](https://blog.danielh.cc/blog/path)
 * [2025-04-29, 21:18:03](https://news.ycombinator.com/item?id=43838149) - [Amazon Rules Out Displaying Tariff Impact After White House Attack](https://www.wsj.com/business/retail/amazon-considered-displaying-import-charges-on-its-ultracheap-site-f5cf7a8b)

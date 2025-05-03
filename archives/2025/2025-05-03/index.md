@@ -6,6 +6,7 @@
 
 * [2025-05-03, 18:29:50](https://news.ycombinator.com/item?id=43881065) - [Deadly Screwworm Parasite's Comeback Threatens Texas Cattle, US Beef Supply](http://www.bloomberg.com/news/features/2025-05-02/deadly-screwworm-parasite-s-comeback-threatens-texas-cattle-us-beef-supply)
 * [2025-05-03, 18:16:54](https://news.ycombinator.com/item?id=43880973) - [Warren Buffett to Step Down from Berkshire Hathaway at Year-End](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
+* [2025-05-03, 18:15:45](https://news.ycombinator.com/item?id=43880962) - [Show HN: Free, 100% in browser PDF editor](https://breezepdf.com)
 * [2025-05-03, 18:04:14](https://news.ycombinator.com/item?id=43880883) - [RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io](https://github.com/serverless-dns/serverless-dns)
 * [2025-05-03, 17:42:07](https://news.ycombinator.com/item?id=43880722) - [Understanding transaction visibility in PostgreSQL clusters with read replicas](https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/)
 * [2025-05-03, 17:19:47](https://news.ycombinator.com/item?id=43880560) - [Burning Mao](https://granta.com/burning-mao/)
