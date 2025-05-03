@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 06:58:27](https://news.ycombinator.com/item?id=43877338) - [The number of new apartments is at a 50-year high, but states expect a slowdown](https://oregoncapitalchronicle.com/2025/05/02/the-number-of-new-apartments-is-at-a-50-year-high-but-states-expect-a-slowdown/)
 * [2025-05-03, 04:40:25](https://news.ycombinator.com/item?id=43876891) - [The Algebra of Patterns (Extended Version)](https://arxiv.org/abs/2504.18920)
 * [2025-05-03, 03:04:41](https://news.ycombinator.com/item?id=43876566) - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
 * [2025-05-03, 02:27:43](https://news.ycombinator.com/item?id=43876414) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160238071)
