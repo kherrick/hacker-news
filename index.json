@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-03, 11:52:12",
+      "https://news.ycombinator.com/item?id=43878461"
+    ],
+    [
+      "Show HN: Use Third Party LLM API in JetBrains AI Assistant",
+      "https://github.com/Stream29/ProxyAsLocalModel"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 10:54:24",
       "https://news.ycombinator.com/item?id=43878191"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2025-05-02, 21:00:14",
+      "https://news.ycombinator.com/item?id=43874534"
+    ],
+    [
+      "OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer",
+      "https://news.ycombinator.com/item?id=43874534"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 19:09:22",
       "https://news.ycombinator.com/item?id=43873604"
     ],
@@ -127,16 +147,6 @@
     [
       "Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents",
       "https://github.com/stanford-mast/blast"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 16:45:29",
-      "https://news.ycombinator.com/item?id=43872094"
-    ],
-    [
-      "Building Burstables: CPU slicing with cgroups",
-      "https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-05-02, 13:11:16",
-      "https://news.ycombinator.com/item?id=43869288"
-    ],
-    [
-      "The Cannae Problem",
-      "https://www.joanwestenberg.com/the-cannae-problem/"
-    ]
-  ],
-  [
-    [
       "2025-05-02, 08:21:43",
       "https://news.ycombinator.com/item?id=43867403"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-05-02, 07:48:11",
-      "https://news.ycombinator.com/item?id=43867211"
+      "2025-05-01, 23:18:45",
+      "https://news.ycombinator.com/item?id=43864442"
     ],
     [
-      "Just redesigned my personal site with a TTY-style interface",
-      "https://www.abdisa.me/"
+      "What New Orleans Taught Me",
+      "https://commonedge.org/what-new-orleans-taught-me/"
     ]
   ],
   [
