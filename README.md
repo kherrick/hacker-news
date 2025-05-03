@@ -26,8 +26,8 @@
 * [2025-05-03, 06:45:00](https://news.ycombinator.com/item?id=43877301) - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
 * [2025-05-03, 03:04:41](https://news.ycombinator.com/item?id=43876566) - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
 * [2025-05-02, 22:42:21](https://news.ycombinator.com/item?id=43875230) - [The Craft 001: A conversation about craft, code, and freedom with Neal Agarwal](https://www.workingtheorys.com/p/the-craft-neal-agarwal)
-* [2025-05-02, 00:38:57](https://news.ycombinator.com/item?id=43864980) - [Some thoughts on how control over web content works](https://rachelbythebay.com/w/2025/05/01/content/)
 * [2025-05-01, 23:36:48](https://news.ycombinator.com/item?id=43864589) - ['I found your dad': The mystery of a missing climber](https://www.espn.com/olympics/story/_/id/44690603/bill-stampfl-missing-climber-peru-huascaran)
+* [2025-05-01, 23:18:45](https://news.ycombinator.com/item?id=43864442) - [What New Orleans Taught Me](https://commonedge.org/what-new-orleans-taught-me/)
 * [2025-05-01, 18:06:49](https://news.ycombinator.com/item?id=43861253) - [The future of solar doesn't track the sun](https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/)
 * [2025-04-29, 23:08:26](https://news.ycombinator.com/item?id=43839145) - [Lessons from Building a Translator App That Beats Google Translate and DeepL](https://dingyu.me/blog/lessons-translator-app-beats-google-translate-deepl)
 
