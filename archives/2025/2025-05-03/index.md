@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 18:29:50](https://news.ycombinator.com/item?id=43881065) - [Deadly Screwworm Parasite's Comeback Threatens Texas Cattle, US Beef Supply](http://www.bloomberg.com/news/features/2025-05-02/deadly-screwworm-parasite-s-comeback-threatens-texas-cattle-us-beef-supply)
 * [2025-05-03, 18:16:54](https://news.ycombinator.com/item?id=43880973) - [Warren Buffett to Step Down from Berkshire Hathaway at Year-End](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
 * [2025-05-03, 18:04:14](https://news.ycombinator.com/item?id=43880883) - [RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io](https://github.com/serverless-dns/serverless-dns)
 * [2025-05-03, 17:42:07](https://news.ycombinator.com/item?id=43880722) - [Understanding transaction visibility in PostgreSQL clusters with read replicas](https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/)
 * [2025-05-03, 17:19:47](https://news.ycombinator.com/item?id=43880560) - [Burning Mao](https://granta.com/burning-mao/)
+* [2025-05-03, 17:19:07](https://news.ycombinator.com/item?id=43880554) - [MathML with Pandoc](https://leancrew.com/all-this/2025/05/mathml-with-pandoc/)
 * [2025-05-03, 17:00:20](https://news.ycombinator.com/item?id=43880414) - [Stellar Sleep (YC S23) is hiring a product engineer in SF](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
 * [2025-05-03, 16:20:39](https://news.ycombinator.com/item?id=43880068) - [How LWN is faring in 2025](https://lwn.net/Articles/1019217/)
 * [2025-05-03, 15:46:56](https://news.ycombinator.com/item?id=43879846) - [Where Do Scientists Think This Is All Going?](https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/)
