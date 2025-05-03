@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 04:40:25](https://news.ycombinator.com/item?id=43876891) - [The Algebra of Patterns (Extended Version)](https://arxiv.org/abs/2504.18920)
 * [2025-05-03, 03:04:41](https://news.ycombinator.com/item?id=43876566) - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
 * [2025-05-03, 02:27:43](https://news.ycombinator.com/item?id=43876414) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160238071)
 * [2025-05-03, 01:46:54](https://news.ycombinator.com/item?id=43876243) - [I put sheet music into smart glasses [video]](https://www.youtube.com/watch?v=j36u2i7PKKE)
