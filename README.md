@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-03, 03:04:41](https://news.ycombinator.com/item?id=43876566) - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
-* [2025-05-03, 02:27:43](https://news.ycombinator.com/item?id=43876414) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160238071)
 * [2025-05-03, 01:46:54](https://news.ycombinator.com/item?id=43876243) - [I put sheet music into smart glasses [video]](https://www.youtube.com/watch?v=j36u2i7PKKE)
 * [2025-05-02, 23:26:12](https://news.ycombinator.com/item?id=43875505) - [ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal](https://github.com/ernestofgonzalez/epub-utils)
 * [2025-05-02, 23:10:03](https://news.ycombinator.com/item?id=43875416) - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
@@ -26,6 +25,7 @@
 * [2025-05-01, 21:11:04](https://news.ycombinator.com/item?id=43863414) - [Derivation and Intuition behind Poisson distribution](https://antaripasaha.notion.site/Derivation-and-Intuition-behind-Poisson-distribution-1255314a56398062bf9dd9049fb1c396)
 * [2025-05-01, 19:58:06](https://news.ycombinator.com/item?id=43862643) - [Why Is the Kiwi's Egg So Big?](https://www.audubon.org/magazine/why-kiwis-egg-so-big)
 * [2025-05-01, 18:03:33](https://news.ycombinator.com/item?id=43861207) - [Achieving Human Level Competitive Robot Table Tennis](https://sites.google.com/view/competitive-robot-table-tennis/home?pli=1)
+* [2025-05-01, 18:02:10](https://news.ycombinator.com/item?id=43861189) - [You could just choose optimism](https://quarter--mile.com/You-Could-Just-Choose-Optimism)
 * [2025-05-01, 14:30:42](https://news.ycombinator.com/item?id=43858183) - [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
 * [2025-05-01, 13:30:01](https://news.ycombinator.com/item?id=43857405) - [Depictions of the Milky Way found in ancient Egyptian imagery](https://phys.org/news/2025-04-depictions-milky-ancient-egyptian-imagery.html)
 * [2025-05-01, 06:33:45](https://news.ycombinator.com/item?id=43854337) - [Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
