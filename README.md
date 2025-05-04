@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-04, 05:12:47](https://news.ycombinator.com/item?id=43884635) - [Brian Eno's Theory of Democracy](https://www.programmablemutter.com/p/brian-enos-theory-of-democracy)
 * [2025-05-04, 03:05:50](https://news.ycombinator.com/item?id=43884156) - [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
 * [2025-05-04, 02:12:34](https://news.ycombinator.com/item?id=43883946) - [Programmers Guide to the AMIBIOS (1993) [pdf]](http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf)
 * [2025-05-04, 02:03:40](https://news.ycombinator.com/item?id=43883902) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
@@ -15,7 +16,6 @@
 * [2025-05-03, 18:16:54](https://news.ycombinator.com/item?id=43880973) - [Buffett to step down following six-decade run atop Berkshire](https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end)
 * [2025-05-03, 18:15:45](https://news.ycombinator.com/item?id=43880962) - [Show HN: Free, in-browser PDF editor](https://breezepdf.com)
 * [2025-05-03, 18:04:14](https://news.ycombinator.com/item?id=43880883) - [RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io](https://github.com/serverless-dns/serverless-dns)
-* [2025-05-03, 17:19:07](https://news.ycombinator.com/item?id=43880554) - [MathML with Pandoc](https://leancrew.com/all-this/2025/05/mathml-with-pandoc/)
 * [2025-05-03, 15:30:33](https://news.ycombinator.com/item?id=43879715) - [QModem 4.51 Source Code](https://github.com/AaronFriel/qmodem-4.51)
 * [2025-05-03, 15:29:10](https://news.ycombinator.com/item?id=43879702) - [Run LLMs on Apple Neural Engine (ANE)](https://github.com/Anemll/Anemll)
 * [2025-05-03, 14:32:57](https://news.ycombinator.com/item?id=43879288) - [The US has approved CRISPR pigs for food](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/)
