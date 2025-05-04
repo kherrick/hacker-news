@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-04, 17:53:59](https://news.ycombinator.com/item?id=43888225) - [AI code is legacy code from day one](https://text-incubation.com/AI+code+is+legacy+code+from+day+one)
 * [2025-05-04, 17:48:47](https://news.ycombinator.com/item?id=43888191) - [Critical Program Reading (1975) [video]](https://www.youtube.com/watch?v=7hdJQkn8rtA)
 * [2025-05-04, 17:38:13](https://news.ycombinator.com/item?id=43888117) - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
 * [2025-05-04, 17:18:42](https://news.ycombinator.com/item?id=43888005) - [Load-Store Conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
@@ -18,7 +19,6 @@
 * [2025-05-04, 01:27:26](https://news.ycombinator.com/item?id=43883747) - [Pascal for Small Machines](http://pascal.hansotten.com/)
 * [2025-05-03, 23:27:11](https://news.ycombinator.com/item?id=43883180) - [Show HN: MP3 File Editor for Bulk Processing](https://cjmapp.net/)
 * [2025-05-03, 22:57:58](https://news.ycombinator.com/item?id=43883040) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
-* [2025-05-03, 22:16:11](https://news.ycombinator.com/item?id=43882809) - [Why I Am Not Going to Buy a Computer (1987) [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-05-03, 20:44:56](https://news.ycombinator.com/item?id=43882150) - [When flat rate movers won't answer your calls](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls)
 * [2025-05-03, 19:30:38](https://news.ycombinator.com/item?id=43881468) - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
 * [2025-05-03, 18:15:45](https://news.ycombinator.com/item?id=43880962) - [Show HN: Free, in-browser PDF editor](https://breezepdf.com)
