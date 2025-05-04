@@ -10,7 +10,6 @@
 * [2025-05-03, 22:29:54](https://news.ycombinator.com/item?id=43882905) - [Google Gemini has the worst LLM API](https://venki.dev/notes/google-gemini-is-bad)
 * [2025-05-03, 22:16:11](https://news.ycombinator.com/item?id=43882809) - [Why I Am Not Going to Buy a Computer (1987) [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-05-03, 21:22:28](https://news.ycombinator.com/item?id=43882437) - [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
-* [2025-05-03, 21:00:18](https://news.ycombinator.com/item?id=43882280) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-05-03, 20:44:56](https://news.ycombinator.com/item?id=43882150) - [When flat rate movers won't answer your calls](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls)
 * [2025-05-03, 19:30:38](https://news.ycombinator.com/item?id=43881468) - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
 * [2025-05-03, 18:26:06](https://news.ycombinator.com/item?id=43881035) - [We fell out of love with Next.js and back in love with Ruby on Rails](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
@@ -30,6 +29,7 @@
 * [2025-04-30, 11:51:42](https://news.ycombinator.com/item?id=43843902) - [Elvish – Powerful scripting language and versatile interactive shell](https://github.com/elves/elvish)
 * [2025-04-30, 10:27:37](https://news.ycombinator.com/item?id=43843241) - [Legendary Bose Magic Carpet Suspension Is Finally Going Global](https://www.thedrive.com/news/legendary-bose-magic-carpet-suspension-is-finally-going-global)
 * [2025-04-30, 07:56:22](https://news.ycombinator.com/item?id=43842367) - [Metagenomics test saves woman's sight after mystery infection](https://www.bbc.co.uk/news/articles/czx45vze0vyo)
+* [2025-04-30, 01:04:24](https://news.ycombinator.com/item?id=43840057) - [Creating the Commodore 64: The Engineers' Story](https://spectrum.ieee.org/commodore-64)
 
 ## [Archives](archives/index.md)
 
