@@ -44,6 +44,7 @@
 * [2025-04-30, 16:15:36](https://news.ycombinator.com/item?id=43847305) - [Show HN: 1.2 users a day to keep the 9–5 away](https://www.postonreddit.com)
 * [2025-04-30, 15:53:36](https://news.ycombinator.com/item?id=43846964) - [Show HN: Create your own finetuned AI model using Google Sheets](https://promptrepo.com/finetune/)
 * [2025-04-30, 15:35:00](https://news.ycombinator.com/item?id=43846690) - [Show HN: ART – a new open-source RL framework for training agents](https://github.com/OpenPipe/ART)
+* [2025-04-30, 15:24:24](https://news.ycombinator.com/item?id=43846560) - [Anatomy of a 'zombie' volcano: Investigating the cause of unrest inside Uturuncu](https://www.sciencedaily.com/releases/2025/04/250428220444.htm)
 * [2025-04-30, 15:18:47](https://news.ycombinator.com/item?id=43846487) - [Someone at YouTube Needs Glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
 * [2025-04-30, 14:57:31](https://news.ycombinator.com/item?id=43846187) - [Joining Sun Microsystems – 40 years ago (2022)](https://akapugs.blog/2022/05/03/674/)
 * [2025-04-30, 14:49:45](https://news.ycombinator.com/item?id=43846052) - [Wikipedia says it will use AI, but not to replace human volunteers](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/)

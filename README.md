@@ -25,11 +25,11 @@
 * [2025-05-02, 11:29:59](https://news.ycombinator.com/item?id=43868395) - [DotnetSnes: Library allowing to use C# to create SNES ROMs](https://github.com/KallDrexx/DotnetSnes)
 * [2025-05-02, 10:27:39](https://news.ycombinator.com/item?id=43868040) - [Britain's Latest True Crime Thriller: Who Killed the Sycamore Tree?](https://www.wsj.com/world/uk/sycamore-gap-tree-cut-down-criminal-investigation-9b52cf3a)
 * [2025-05-02, 03:39:20](https://news.ycombinator.com/item?id=43865960) - [I built a pixel art editor after playing Octopath Traveler II](https://news.ycombinator.com/item?id=43865960)
+* [2025-04-30, 15:24:24](https://news.ycombinator.com/item?id=43846560) - [Anatomy of a 'zombie' volcano: Investigating the cause of unrest inside Uturuncu](https://www.sciencedaily.com/releases/2025/04/250428220444.htm)
 * [2025-04-30, 14:32:56](https://news.ycombinator.com/item?id=43845826) - [A simple Common Lisp web app](https://www.scotto.me/blog/a-simple-common-lisp-web-app/)
 * [2025-04-30, 11:51:42](https://news.ycombinator.com/item?id=43843902) - [Elvish – Powerful scripting language and versatile interactive shell](https://github.com/elves/elvish)
 * [2025-04-30, 10:27:37](https://news.ycombinator.com/item?id=43843241) - [Legendary Bose Magic Carpet Suspension Is Finally Going Global](https://www.thedrive.com/news/legendary-bose-magic-carpet-suspension-is-finally-going-global)
 * [2025-04-30, 07:56:22](https://news.ycombinator.com/item?id=43842367) - [Metagenomics test saves woman's sight after mystery infection](https://www.bbc.co.uk/news/articles/czx45vze0vyo)
-* [2025-04-30, 01:04:24](https://news.ycombinator.com/item?id=43840057) - [Creating the Commodore 64: The Engineers' Story](https://spectrum.ieee.org/commodore-64)
 
 ## [Archives](archives/index.md)
 
