@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-05-04, 07:01:29",
-      "https://news.ycombinator.com/item?id=43885051"
+      "2025-05-04, 06:57:57",
+      "https://news.ycombinator.com/item?id=43885039"
     ],
     [
-      "The latest AI scaling graph – and why it hardly makes sense",
-      "https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why"
+      "Switch bouncing reference traces for a variety of different switches",
+      "https://github.com/gsuberland/switch_bouncing"
     ]
   ],
   [
@@ -81,6 +81,26 @@
   ],
   [
     [
+      "2025-05-03, 22:29:54",
+      "https://news.ycombinator.com/item?id=43882905"
+    ],
+    [
+      "Google Gemini has the worst LLM API",
+      "https://venki.dev/notes/google-gemini-is-bad"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 22:16:11",
+      "https://news.ycombinator.com/item?id=43882809"
+    ],
+    [
+      "Why I Am Not Going to Buy a Computer (1987) [pdf]",
+      "https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 21:22:28",
       "https://news.ycombinator.com/item?id=43882437"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-05-03, 18:16:54",
-      "https://news.ycombinator.com/item?id=43880973"
-    ],
-    [
-      "Buffett to step down following six-decade run atop Berkshire",
-      "https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 18:15:45",
       "https://news.ycombinator.com/item?id=43880962"
     ],
@@ -167,16 +177,6 @@
     [
       "Run LLMs on Apple Neural Engine (ANE)",
       "https://github.com/Anemll/Anemll"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 14:32:57",
-      "https://news.ycombinator.com/item?id=43879288"
-    ],
-    [
-      "The US has approved CRISPR pigs for food",
-      "https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "DotnetSnes: Library allowing to use C# to create SNES ROMs",
       "https://github.com/KallDrexx/DotnetSnes"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 10:27:39",
+      "https://news.ycombinator.com/item?id=43868040"
+    ],
+    [
+      "Britain's Latest True Crime Thriller: Who Killed the Sycamore Tree?",
+      "https://www.wsj.com/world/uk/sycamore-gap-tree-cut-down-criminal-investigation-9b52cf3a"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Metagenomics test saves woman's sight after mystery infection",
       "https://www.bbc.co.uk/news/articles/czx45vze0vyo"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 01:04:24",
-      "https://news.ycombinator.com/item?id=43840057"
-    ],
-    [
-      "Creating the Commodore 64: The Engineers' Story",
-      "https://spectrum.ieee.org/commodore-64"
     ]
   ]
 ]
