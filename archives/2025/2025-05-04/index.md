@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
 * [2025-05-04, 07:01:29](https://news.ycombinator.com/item?id=43885051) - [The latest AI scaling graph – and why it hardly makes sense](https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why)
+* [2025-05-04, 06:57:57](https://news.ycombinator.com/item?id=43885039) - [Switch bouncing reference traces for a variety of different switches](https://github.com/gsuberland/switch_bouncing)
 * [2025-05-04, 05:12:47](https://news.ycombinator.com/item?id=43884635) - [Brian Eno's Theory of Democracy](https://www.programmablemutter.com/p/brian-enos-theory-of-democracy)
 * [2025-05-04, 04:24:15](https://news.ycombinator.com/item?id=43884473) - [Any headline that ends in a question mark can be answered by the word no](https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)
 * [2025-05-04, 03:05:50](https://news.ycombinator.com/item?id=43884156) - [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)

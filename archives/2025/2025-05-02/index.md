@@ -60,6 +60,7 @@
 * [2025-05-02, 10:46:26](https://news.ycombinator.com/item?id=43868130) - [The Totalitarian Buddhist Who Beat SIM City (2010)](https://www.vice.com/en/article/the-totalitarian-buddhist-who-beat-sim-city/)
 * [2025-05-02, 10:46:26](https://news.ycombinator.com/item?id=43868130) - [The Totalitarian Buddhist Who Beat SIM City (2010)](https://web.archive.org/web/20211117094441/https://www.vice.com/en/article/4w4kg3/the-totalitarian-buddhist-who-beat-sim-city)
 * [2025-05-02, 10:33:53](https://news.ycombinator.com/item?id=43868074) - [EU hit TikTok with a massive 530 million euro privacy fine](https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2)
+* [2025-05-02, 10:27:39](https://news.ycombinator.com/item?id=43868040) - [Britain's Latest True Crime Thriller: Who Killed the Sycamore Tree?](https://www.wsj.com/world/uk/sycamore-gap-tree-cut-down-criminal-investigation-9b52cf3a)
 * [2025-05-02, 09:19:00](https://news.ycombinator.com/item?id=43867692) - [Apple App Store guidelines remove ban on encouraging external payments in US](https://developer.apple.com/app-store/review/guidelines/)
 * [2025-05-02, 09:02:06](https://news.ycombinator.com/item?id=43867613) - [Bundle Python with the z/OS base system](https://ibm-z-hardware-and-operating-systems.ideas.ibm.com/ideas/ZOS-I-3993)
 * [2025-05-02, 08:26:42](https://news.ycombinator.com/item?id=43867429) - [Vatican Observatory](https://www.vaticanobservatory.org/telescopes/va/)
