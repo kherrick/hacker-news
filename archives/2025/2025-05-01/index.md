@@ -80,6 +80,7 @@
 * [2025-05-01, 07:02:02](https://news.ycombinator.com/item?id=43854498) - [Dropbox will require App Indicator support on Linux](https://help.dropbox.com/installs/dropbox-desktop-app-for-linux)
 * [2025-05-01, 06:33:45](https://news.ycombinator.com/item?id=43854337) - [Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
 * [2025-05-01, 05:58:24](https://news.ycombinator.com/item?id=43854162) - [The Secret Services' involvement in the making of The Line of Fire (1993) [pdf]](https://www.governmentattic.org/58docs/USSSmovieInTheLineOfFireNoDate.pdf)
+* [2025-05-01, 03:50:24](https://news.ycombinator.com/item?id=43853499) - [Codd's Cellular Automaton](https://en.wikipedia.org/wiki/Codd%27s_cellular_automaton)
 * [2025-05-01, 03:21:55](https://news.ycombinator.com/item?id=43853382) - [The one interview question that will protect you from North Korean fake workers](https://www.theregister.com/2025/04/29/north_korea_worker_interview_questions/)
 * [2025-05-01, 03:11:56](https://news.ycombinator.com/item?id=43853322) - [Show HN: Using AI to test the beauty for you](https://www.beautytestai.com/en)
 * [2025-05-01, 03:05:25](https://news.ycombinator.com/item?id=43853297) - [Milwaukee police trade: 2.5M mugshots for free facial recognition access](https://www.jsonline.com/story/news/crime/2025/04/25/milwaukee-police-considering-trading-mugshots-for-facial-recognition-tech/83084223007/)
