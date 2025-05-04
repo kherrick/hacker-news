@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 21:49:40](https://news.ycombinator.com/item?id=43889875) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
+* [2025-05-04, 21:09:16](https://news.ycombinator.com/item?id=43889610) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 * [2025-05-04, 21:01:11](https://news.ycombinator.com/item?id=43889543) - [KaiPod Learning (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
 * [2025-05-04, 20:55:41](https://news.ycombinator.com/item?id=43889502) - [Ask HN: Hackathons feel fake now – anyone else noticing this?](https://news.ycombinator.com/item?id=43889502)
 * [2025-05-04, 20:24:50](https://news.ycombinator.com/item?id=43889311) - [The New Control Society](https://www.thenewatlantis.com/publications/the-new-control-society)
