@@ -15,7 +15,6 @@
 * [2025-05-04, 16:26:28](https://news.ycombinator.com/item?id=43887637) - [Dummy's Guide to Modern LLM Sampling](https://rentry.co/samplers)
 * [2025-05-04, 16:10:41](https://news.ycombinator.com/item?id=43887546) - [Show HN: EZ-TRAK Satellite Hand Tracking Suite](https://github.com/benb0jangles/EzTrak)
 * [2025-05-04, 13:29:55](https://news.ycombinator.com/item?id=43886601) - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
-* [2025-05-04, 13:21:33](https://news.ycombinator.com/item?id=43886552) - [A Texan who built an empire of ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
 * [2025-05-04, 12:02:35](https://news.ycombinator.com/item?id=43886243) - [An Alabama landline that keeps ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
 * [2025-05-04, 08:54:44](https://news.ycombinator.com/item?id=43885478) - [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
 * [2025-05-04, 07:01:29](https://news.ycombinator.com/item?id=43885051) - [Predictions from the METR AI scaling graph are based on a flawed premise](https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why)
@@ -29,6 +28,7 @@
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of TM SGNL, the unofficial Signal app Trump officials used](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
 * [2025-05-02, 21:13:07](https://news.ycombinator.com/item?id=43874641) - [Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years apart](https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart)
 * [2025-05-02, 04:53:46](https://news.ycombinator.com/item?id=43866329) - [The Speed of VITs and CNNs](https://lucasb.eyer.be/articles/vit_cnn_speed.html)
+* [2025-05-01, 00:16:26](https://news.ycombinator.com/item?id=43852217) - [Thunderscope update: My take: Why open source is better](https://www.crowdsupply.com/eevengers/thunderscope/updates/revving-up-for-production)
 * [2025-04-30, 13:46:38](https://news.ycombinator.com/item?id=43845174) - [In kids, EEG monitoring of consciousness safely reduces anesthetic use](https://news.mit.edu/2025/kids-eeg-monitoring-consciousness-safely-reduces-anesthetic-use-0429)
 
 ## [Archives](archives/index.md)

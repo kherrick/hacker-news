@@ -96,5 +96,6 @@
 * [2025-05-01, 00:30:34](https://news.ycombinator.com/item?id=43852315) - [Hybrid AC/DC distribution system with a shared neutral (2020)](https://electrical-engineering-portal.com/download-center/books-and-guides/electricity-generation-t-d/hybrid-ac-dc-distribution)
 * [2025-05-01, 00:22:01](https://news.ycombinator.com/item?id=43852266) - [108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/)
 * [2025-05-01, 00:16:49](https://news.ycombinator.com/item?id=43852220) - [Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html)
+* [2025-05-01, 00:16:26](https://news.ycombinator.com/item?id=43852217) - [Thunderscope update: My take: Why open source is better](https://www.crowdsupply.com/eevengers/thunderscope/updates/revving-up-for-production)
 * [2025-05-01, 00:06:00](https://news.ycombinator.com/item?id=43852162) - [Office is too slow, so Microsoft is making it load at Windows startup](https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html)
 * [2025-05-01, 00:03:55](https://news.ycombinator.com/item?id=43852145) - [Apple Violated Antitrust Ruling, Judge Finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
