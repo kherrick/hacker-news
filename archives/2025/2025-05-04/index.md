@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
 * [2025-05-04, 19:32:05](https://news.ycombinator.com/item?id=43888907) - [NASA Proposal Would Shift Agency's Focus Away from Space Science](https://www.nytimes.com/2025/05/02/us/politics/trump-budget-nasa-cuts.html)
+* [2025-05-04, 19:26:42](https://news.ycombinator.com/item?id=43888871) - [Why are there no thunderstorms in the UK?](https://www.onepotscience.com/why-are-there-no-thunderstorms-in-the-uk/)
 * [2025-05-04, 19:17:28](https://news.ycombinator.com/item?id=43888803) - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 * [2025-05-04, 19:14:44](https://news.ycombinator.com/item?id=43888777) - [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
+* [2025-05-04, 19:11:26](https://news.ycombinator.com/item?id=43888754) - ['Dangerous nonsense': AI-authored books about ADHD for sale on Amazon](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon)
 * [2025-05-04, 18:45:43](https://news.ycombinator.com/item?id=43888568) - [LLMs as Unbiased Oracles](https://jazzberry.ai/blog/test-generation-as-the-foundation)
 * [2025-05-04, 18:35:31](https://news.ycombinator.com/item?id=43888501) - [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/)
 * [2025-05-04, 17:56:29](https://news.ycombinator.com/item?id=43888246) - [The World Of dBASE (1984) [video]](https://www.youtube.com/watch?v=bYU3CQomE5M)
