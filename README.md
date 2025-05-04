@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-04, 19:32:05](https://news.ycombinator.com/item?id=43888907) - [NASA Proposal Would Shift Agency's Focus Away from Space Science](https://www.nytimes.com/2025/05/02/us/politics/trump-budget-nasa-cuts.html)
 * [2025-05-04, 19:17:28](https://news.ycombinator.com/item?id=43888803) - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 * [2025-05-04, 19:14:44](https://news.ycombinator.com/item?id=43888777) - [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
+* [2025-05-04, 18:45:43](https://news.ycombinator.com/item?id=43888568) - [LLMs as Unbiased Oracles](https://jazzberry.ai/blog/test-generation-as-the-foundation)
 * [2025-05-04, 18:35:31](https://news.ycombinator.com/item?id=43888501) - [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/)
 * [2025-05-04, 17:55:27](https://news.ycombinator.com/item?id=43888239) - [Orders of Infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
 * [2025-05-04, 17:53:59](https://news.ycombinator.com/item?id=43888225) - [AI code is legacy code from day one](https://text-incubation.com/AI+code+is+legacy+code+from+day+one)
@@ -21,13 +23,11 @@
 * [2025-05-04, 08:54:44](https://news.ycombinator.com/item?id=43885478) - [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
 * [2025-05-04, 07:01:29](https://news.ycombinator.com/item?id=43885051) - [Predictions from the METR AI scaling graph are based on a flawed premise](https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why)
 * [2025-05-04, 02:03:40](https://news.ycombinator.com/item?id=43883902) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
-* [2025-05-03, 23:27:11](https://news.ycombinator.com/item?id=43883180) - [Show HN: MP3 File Editor for Bulk Processing](https://cjmapp.net/)
 * [2025-05-03, 22:57:58](https://news.ycombinator.com/item?id=43883040) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 19:30:38](https://news.ycombinator.com/item?id=43881468) - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
 * [2025-05-03, 18:15:45](https://news.ycombinator.com/item?id=43880962) - [Show HN: Free, in-browser PDF editor](https://breezepdf.com)
 * [2025-05-03, 13:18:49](https://news.ycombinator.com/item?id=43878868) - [Reading Zanzibar](https://macwright.com/2025/05/02/reading-zanzibar)
 * [2025-05-02, 17:46:02](https://news.ycombinator.com/item?id=43872799) - [A visual feast of galaxies, from infrared to X-ray](https://www.esa.int/ESA_Multimedia/Images/2025/04/A_visual_feast_of_galaxies_from_infrared_to_X-ray)
-* [2025-05-02, 12:11:18](https://news.ycombinator.com/item?id=43868694) - [Distributed Continuous GPU Profiling](https://www.zymtrace.com/article/zero-friction-gpu-profiler)
 * [2025-05-02, 04:53:46](https://news.ycombinator.com/item?id=43866329) - [The Speed of VITs and CNNs](https://lucasb.eyer.be/articles/vit_cnn_speed.html)
 * [2025-04-30, 13:46:38](https://news.ycombinator.com/item?id=43845174) - [In kids, EEG monitoring of consciousness safely reduces anesthetic use](https://news.mit.edu/2025/kids-eeg-monitoring-consciousness-safely-reduces-anesthetic-use-0429)
 
