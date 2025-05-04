@@ -53,6 +53,7 @@
 * [2025-05-03, 10:54:24](https://news.ycombinator.com/item?id=43878191) - [Speedrunning and Modding the Incredibles: Rise of the Underminer](https://farlow.dev/2025/05/02/rotu)
 * [2025-05-03, 09:37:14](https://news.ycombinator.com/item?id=43877907) - [We know a little more about Amazon's super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
 * [2025-05-03, 09:08:31](https://news.ycombinator.com/item?id=43877797) - [Minimum Viable Blog](https://ostwilkens.se/blog/setting-up-blog)
+* [2025-05-03, 07:25:31](https://news.ycombinator.com/item?id=43877419) - [The Merovingians: 'Do-Nothing Kings'?](https://www.historytoday.com/archive/feature/merovingians-do-nothing-kings)
 * [2025-05-03, 06:58:27](https://news.ycombinator.com/item?id=43877338) - [The number of new apartments is at a 50-year high, but states expect a slowdown](https://oregoncapitalchronicle.com/2025/05/02/the-number-of-new-apartments-is-at-a-50-year-high-but-states-expect-a-slowdown/)
 * [2025-05-03, 06:45:00](https://news.ycombinator.com/item?id=43877301) - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
 * [2025-05-03, 04:40:25](https://news.ycombinator.com/item?id=43876891) - [The Algebra of Patterns (Extended Version)](https://arxiv.org/abs/2504.18920)

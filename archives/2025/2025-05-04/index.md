@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 19:43:54](https://news.ycombinator.com/item?id=43888998) - [A Trade Breakdown](https://www.lynalden.com/may-2025-newsletter/)
 * [2025-05-04, 19:32:05](https://news.ycombinator.com/item?id=43888907) - [NASA Proposal Would Shift Agency's Focus Away from Space Science](https://www.nytimes.com/2025/05/02/us/politics/trump-budget-nasa-cuts.html)
 * [2025-05-04, 19:26:42](https://news.ycombinator.com/item?id=43888871) - [Why are there no thunderstorms in the UK?](https://www.onepotscience.com/why-are-there-no-thunderstorms-in-the-uk/)
 * [2025-05-04, 19:17:28](https://news.ycombinator.com/item?id=43888803) - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
@@ -17,6 +18,7 @@
 * [2025-05-04, 17:48:47](https://news.ycombinator.com/item?id=43888191) - [Critical Program Reading (1975) [video]](https://www.youtube.com/watch?v=7hdJQkn8rtA)
 * [2025-05-04, 17:38:13](https://news.ycombinator.com/item?id=43888117) - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
 * [2025-05-04, 17:18:42](https://news.ycombinator.com/item?id=43888005) - [Load-Store Conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
+* [2025-05-04, 17:17:35](https://news.ycombinator.com/item?id=43887998) - [Typed Lisp, a Primer](https://alhassy.com/TypedLisp.html)
 * [2025-05-04, 17:00:38](https://news.ycombinator.com/item?id=43887876) - [Hightouch (YC S19) Is Hiring](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning)
 * [2025-05-04, 16:36:02](https://news.ycombinator.com/item?id=43887708) - [Minimal Linux Bootloader](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm)
 * [2025-05-04, 16:26:28](https://news.ycombinator.com/item?id=43887637) - [Dummy's Guide to Modern LLM Sampling](https://rentry.co/samplers)
