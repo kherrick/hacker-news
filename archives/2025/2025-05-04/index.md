@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
 * [2025-05-04, 21:01:11](https://news.ycombinator.com/item?id=43889543) - [KaiPod Learning (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
+* [2025-05-04, 20:55:41](https://news.ycombinator.com/item?id=43889502) - [Ask HN: Hackathons feel fake now – anyone else noticing this?](https://news.ycombinator.com/item?id=43889502)
 * [2025-05-04, 20:24:50](https://news.ycombinator.com/item?id=43889311) - [The New Control Society](https://www.thenewatlantis.com/publications/the-new-control-society)
 * [2025-05-04, 19:43:54](https://news.ycombinator.com/item?id=43888998) - [A Trade Breakdown](https://www.lynalden.com/may-2025-newsletter/)
 * [2025-05-04, 19:32:05](https://news.ycombinator.com/item?id=43888907) - [NASA Proposal Would Shift Agency's Focus Away from Space Science](https://www.nytimes.com/2025/05/02/us/politics/trump-budget-nasa-cuts.html)
@@ -18,6 +19,7 @@
 * [2025-05-04, 17:55:27](https://news.ycombinator.com/item?id=43888239) - [Orders of Infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
 * [2025-05-04, 17:53:59](https://news.ycombinator.com/item?id=43888225) - [AI code is legacy code from day one](https://text-incubation.com/AI+code+is+legacy+code+from+day+one)
 * [2025-05-04, 17:48:47](https://news.ycombinator.com/item?id=43888191) - [Critical Program Reading (1975) [video]](https://www.youtube.com/watch?v=7hdJQkn8rtA)
+* [2025-05-04, 17:43:00](https://news.ycombinator.com/item?id=43888157) - [Show HN: Driverless print server for legacy printers, profit goes to open-source](https://printserver.ink/)
 * [2025-05-04, 17:38:13](https://news.ycombinator.com/item?id=43888117) - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
 * [2025-05-04, 17:18:42](https://news.ycombinator.com/item?id=43888005) - [Load-Store Conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [2025-05-04, 17:17:35](https://news.ycombinator.com/item?id=43887998) - [Typed Lisp, a Primer](https://alhassy.com/TypedLisp.html)
