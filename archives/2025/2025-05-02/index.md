@@ -51,6 +51,7 @@
 * [2025-05-02, 12:52:50](https://news.ycombinator.com/item?id=43869093) - [Mathematician solves algebra's oldest problem using intriguing number sequences](https://phys.org/news/2025-05-mathematician-algebra-oldest-problem-intriguing.amp)
 * [2025-05-02, 12:47:33](https://news.ycombinator.com/item?id=43869045) - [Settling the File Structure Debate](https://muhammedsari.me/settling-the-file-structure-debate)
 * [2025-05-02, 12:39:26](https://news.ycombinator.com/item?id=43868972) - [Taxes and fees not included: T-Mobile's latest price lock is nearly meaningless](https://arstechnica.com/tech-policy/2025/04/taxes-and-fees-not-included-t-mobiles-latest-price-lock-is-nearly-meaningless/)
+* [2025-05-02, 12:31:14](https://news.ycombinator.com/item?id=43868890) - [Sanctum || A pq-safe and sandboxed VPN daemon](https://github.com/jorisvink/sanctum)
 * [2025-05-02, 12:29:30](https://news.ycombinator.com/item?id=43868876) - [Crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
 * [2025-05-02, 12:15:48](https://news.ycombinator.com/item?id=43868737) - [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
 * [2025-05-02, 11:56:59](https://news.ycombinator.com/item?id=43868566) - [AfD classified as extreme-right by German intelligence](https://www.bbc.com/news/articles/cwy6zk9wkrdo)

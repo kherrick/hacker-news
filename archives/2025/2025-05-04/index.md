@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 16:10:41](https://news.ycombinator.com/item?id=43887546) - [Show HN: EZ-TRAK Satellite Hand Tracking Suite](https://github.com/benb0jangles/EzTrak)
 * [2025-05-04, 14:57:59](https://news.ycombinator.com/item?id=43887073) - [Why Flatpak Apps Use So Much Disk Space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
 * [2025-05-04, 13:38:31](https://news.ycombinator.com/item?id=43886635) - [Woman missing for more than 60 years found 'alive and well'](https://news.sky.com/story/woman-missing-for-more-than-60-years-found-alive-and-well-13361368)
 * [2025-05-04, 13:29:55](https://news.ycombinator.com/item?id=43886601) - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)

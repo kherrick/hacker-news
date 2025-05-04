@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-04, 16:10:41](https://news.ycombinator.com/item?id=43887546) - [Show HN: EZ-TRAK Satellite Hand Tracking Suite](https://github.com/benb0jangles/EzTrak)
 * [2025-05-04, 14:57:59](https://news.ycombinator.com/item?id=43887073) - [Why Flatpak Apps Use So Much Disk Space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
 * [2025-05-04, 13:29:55](https://news.ycombinator.com/item?id=43886601) - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
 * [2025-05-04, 13:21:33](https://news.ycombinator.com/item?id=43886552) - [The Texan Who Built an Empire of Ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
@@ -14,8 +15,6 @@
 * [2025-05-04, 01:27:26](https://news.ycombinator.com/item?id=43883747) - [Pascal for Small Machines](http://pascal.hansotten.com/)
 * [2025-05-03, 23:27:11](https://news.ycombinator.com/item?id=43883180) - [Show HN: MP3 File Editor for Bulk Processing](https://cjmapp.net/)
 * [2025-05-03, 22:57:58](https://news.ycombinator.com/item?id=43883040) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
-* [2025-05-03, 22:16:11](https://news.ycombinator.com/item?id=43882809) - [Why I Am Not Going to Buy a Computer (1987) [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
-* [2025-05-03, 21:22:28](https://news.ycombinator.com/item?id=43882437) - [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
 * [2025-05-03, 20:44:56](https://news.ycombinator.com/item?id=43882150) - [When flat rate movers won't answer your calls](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls)
 * [2025-05-03, 19:30:38](https://news.ycombinator.com/item?id=43881468) - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
 * [2025-05-03, 18:15:45](https://news.ycombinator.com/item?id=43880962) - [Show HN: Free, in-browser PDF editor](https://breezepdf.com)
@@ -23,6 +22,7 @@
 * [2025-05-02, 21:13:07](https://news.ycombinator.com/item?id=43874641) - [Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years apart](https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart)
 * [2025-05-02, 17:46:02](https://news.ycombinator.com/item?id=43872799) - [A visual feast of galaxies, from infrared to X-ray](https://www.esa.int/ESA_Multimedia/Images/2025/04/A_visual_feast_of_galaxies_from_infrared_to_X-ray)
 * [2025-05-02, 16:49:59](https://news.ycombinator.com/item?id=43872159) - [Show HN: I taught AI to commentate Pong in real time](https://github.com/pncnmnp/xpong)
+* [2025-05-02, 12:31:14](https://news.ycombinator.com/item?id=43868890) - [Sanctum || A pq-safe and sandboxed VPN daemon](https://github.com/jorisvink/sanctum)
 * [2025-05-02, 04:53:46](https://news.ycombinator.com/item?id=43866329) - [The Speed of VITs and CNNs](https://lucasb.eyer.be/articles/vit_cnn_speed.html)
 * [2025-05-02, 03:39:20](https://news.ycombinator.com/item?id=43865960) - [I built a pixel art editor after playing Octopath Traveler II](https://news.ycombinator.com/item?id=43865960)
 * [2025-05-01, 03:50:24](https://news.ycombinator.com/item?id=43853499) - [Codd's Cellular Automaton](https://en.wikipedia.org/wiki/Codd%27s_cellular_automaton)
