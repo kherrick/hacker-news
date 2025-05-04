@@ -68,6 +68,7 @@
 * [2025-04-30, 09:10:56](https://news.ycombinator.com/item?id=43842821) - [AI TIMLINE – All prominent events in the field](https://nhlocal.github.io/AiTimeline/)
 * [2025-04-30, 08:48:20](https://news.ycombinator.com/item?id=43842683) - [Xiaomi unveils open-source AI reasoning model MiMo](https://github.com/XiaomiMiMo/MiMo)
 * [2025-04-30, 07:58:24](https://news.ycombinator.com/item?id=43842380) - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
+* [2025-04-30, 07:56:22](https://news.ycombinator.com/item?id=43842367) - [Metagenomics test saves woman's sight after mystery infection](https://www.bbc.co.uk/news/articles/czx45vze0vyo)
 * [2025-04-30, 07:45:51](https://news.ycombinator.com/item?id=43842306) - [I Created Perfect Wiki and Reached $250K in Annual Revenue Without Investors](https://habr.com/en/articles/905812/)
 * [2025-04-30, 06:44:04](https://news.ycombinator.com/item?id=43841957) - [Why Even Try If You Have A.I.?](https://www.newyorker.com/culture/open-questions/why-even-try-if-you-have-ai)
 * [2025-04-30, 06:29:15](https://news.ycombinator.com/item?id=43841868) - [Satya Nadella says as much as 30% of Microsoft code is written by AI](https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html)

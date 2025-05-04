@@ -44,6 +44,7 @@
 * [2025-05-02, 13:11:16](https://news.ycombinator.com/item?id=43869288) - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
 * [2025-05-02, 13:06:56](https://news.ycombinator.com/item?id=43869236) - [Converting a Git repo from tabs to spaces (2016)](https://eev.ee/blog/2016/06/04/converting-a-git-repo-from-tabs-to-spaces/)
 * [2025-05-02, 13:03:39](https://news.ycombinator.com/item?id=43869203) - [The Chromium Security Paradox](https://www.island.io/blog/the-chromium-security-paradox)
+* [2025-05-02, 13:02:44](https://news.ycombinator.com/item?id=43869193) - [The economic impact of Oman's rose season](https://www.omanobserver.om/article/1153780/magazine/the-correspondent-the-economic-impact-of-omans-rose-season)
 * [2025-05-02, 12:52:50](https://news.ycombinator.com/item?id=43869093) - [Mathematician solves algebra's oldest problem using intriguing number sequences](https://phys.org/news/2025-05-mathematician-algebra-oldest-problem-intriguing.amp)
 * [2025-05-02, 12:47:33](https://news.ycombinator.com/item?id=43869045) - [Settling the File Structure Debate](https://muhammedsari.me/settling-the-file-structure-debate)
 * [2025-05-02, 12:39:26](https://news.ycombinator.com/item?id=43868972) - [Taxes and fees not included: T-Mobile's latest price lock is nearly meaningless](https://arstechnica.com/tech-policy/2025/04/taxes-and-fees-not-included-t-mobiles-latest-price-lock-is-nearly-meaningless/)
