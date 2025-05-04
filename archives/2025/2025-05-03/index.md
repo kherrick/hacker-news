@@ -44,6 +44,7 @@
 * [2025-05-03, 13:32:10](https://news.ycombinator.com/item?id=43878930) - [Vibe Coding Is Overrated](https://transitions.substack.com/p/vibe-coding-is-overrated)
 * [2025-05-03, 13:22:03](https://news.ycombinator.com/item?id=43878878) - [Why I stopped angel investing after 15 years (and what I'm doing instead)](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after)
 * [2025-05-03, 13:20:03](https://news.ycombinator.com/item?id=43878871) - [Computational Limit of Life May Be Billion Times Higher Than Assumed](https://www.popularmechanics.com/science/a64612958/computation-limit-biology/)
+* [2025-05-03, 13:18:49](https://news.ycombinator.com/item?id=43878868) - [Reading Zanzibar](https://macwright.com/2025/05/02/reading-zanzibar)
 * [2025-05-03, 13:14:59](https://news.ycombinator.com/item?id=43878850) - [Time saved by AI offset by new work created, study suggests](https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/)
 * [2025-05-03, 13:08:29](https://news.ycombinator.com/item?id=43878824) - [Closures in Tcl](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html)
 * [2025-05-03, 12:50:55](https://news.ycombinator.com/item?id=43878728) - [Seeking an Answer: Why can't HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
