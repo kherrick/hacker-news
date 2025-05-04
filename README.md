@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-04, 19:17:28](https://news.ycombinator.com/item?id=43888803) - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
+* [2025-05-04, 19:14:44](https://news.ycombinator.com/item?id=43888777) - [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
 * [2025-05-04, 18:35:31](https://news.ycombinator.com/item?id=43888501) - [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/)
 * [2025-05-04, 17:55:27](https://news.ycombinator.com/item?id=43888239) - [Orders of Infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
 * [2025-05-04, 17:53:59](https://news.ycombinator.com/item?id=43888225) - [AI code is legacy code from day one](https://text-incubation.com/AI+code+is+legacy+code+from+day+one)
@@ -14,7 +15,6 @@
 * [2025-05-04, 14:57:59](https://news.ycombinator.com/item?id=43887073) - [Why Flatpak apps use so much disk space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
 * [2025-05-04, 13:29:55](https://news.ycombinator.com/item?id=43886601) - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
 * [2025-05-04, 13:21:33](https://news.ycombinator.com/item?id=43886552) - [The Texan who built an empire of ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
-* [2025-05-04, 12:37:52](https://news.ycombinator.com/item?id=43886368) - [Nevermind, an album on major chords](https://farina00.github.io/essays/nevermind/)
 * [2025-05-04, 12:10:03](https://news.ycombinator.com/item?id=43886271) - [Lilith and Modula-2](https://astrobe.com/Modula2/)
 * [2025-05-04, 12:02:35](https://news.ycombinator.com/item?id=43886243) - [The Alabama Landline That Keeps Ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
 * [2025-05-04, 11:55:08](https://news.ycombinator.com/item?id=43886213) - [Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball](https://tippycoco.com/)
