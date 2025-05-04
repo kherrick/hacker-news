@@ -59,6 +59,7 @@
 * [2025-04-30, 12:43:42](https://news.ycombinator.com/item?id=43844404) - [Show HN: Open-source sound effects and react library to spice up your website](https://www.reactsounds.com/)
 * [2025-04-30, 12:38:41](https://news.ycombinator.com/item?id=43844342) - [U.S. Economy Contracts at 0.3% Rate in First Quarter](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689)
 * [2025-04-30, 12:31:47](https://news.ycombinator.com/item?id=43844279) - [OCaml's Wings for Machine Learning](https://github.com/raven-ml/raven)
+* [2025-04-30, 11:51:42](https://news.ycombinator.com/item?id=43843902) - [Elvish – Powerful scripting language and versatile interactive shell](https://github.com/elves/elvish)
 * [2025-04-30, 11:42:06](https://news.ycombinator.com/item?id=43843821) - [Retailers will soon have only about 7 weeks of full inventories left](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/)
 * [2025-04-30, 11:41:17](https://news.ycombinator.com/item?id=43843808) - [Lessons from the Lebanese Space Program – Kasurian](https://kasurian.com/p/lebanese-space-program)
 * [2025-04-30, 11:19:40](https://news.ycombinator.com/item?id=43843621) - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
