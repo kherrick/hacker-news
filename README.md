@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-04, 23:28:36](https://news.ycombinator.com/item?id=43890502) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
 * [2025-05-04, 21:49:40](https://news.ycombinator.com/item?id=43889875) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:09:16](https://news.ycombinator.com/item?id=43889610) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 * [2025-05-04, 21:01:11](https://news.ycombinator.com/item?id=43889543) - [KaiPod Learning (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
@@ -7,7 +8,6 @@
 * [2025-05-04, 19:17:28](https://news.ycombinator.com/item?id=43888803) - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 * [2025-05-04, 19:14:44](https://news.ycombinator.com/item?id=43888777) - [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
 * [2025-05-04, 18:45:43](https://news.ycombinator.com/item?id=43888568) - [LLMs as Unbiased Oracles](https://jazzberry.ai/blog/test-generation-as-the-foundation)
-* [2025-05-04, 18:35:31](https://news.ycombinator.com/item?id=43888501) - [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/)
 * [2025-05-04, 17:55:27](https://news.ycombinator.com/item?id=43888239) - [Orders of Infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
 * [2025-05-04, 17:53:59](https://news.ycombinator.com/item?id=43888225) - [AI code is legacy code?](https://text-incubation.com/AI+code+is+legacy+code+from+day+one)
 * [2025-05-04, 17:48:47](https://news.ycombinator.com/item?id=43888191) - [Critical Program Reading (1975) [video]](https://www.youtube.com/watch?v=7hdJQkn8rtA)
