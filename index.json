@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-04, 07:01:29",
+      "https://news.ycombinator.com/item?id=43885051"
+    ],
+    [
+      "The latest AI scaling graph – and why it hardly makes sense",
+      "https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 05:12:47",
       "https://news.ycombinator.com/item?id=43884635"
     ],
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2025-05-03, 20:40:59",
-      "https://news.ycombinator.com/item?id=43882118"
-    ],
-    [
-      "Understanding-j: An introduction to the J programming language that gets to the",
-      "https://github.com/bugsbugsbux/understanding-j"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 19:30:38",
       "https://news.ycombinator.com/item?id=43881468"
     ],
     [
       "DuckDB is probably the most important geospatial software of the last decade",
       "https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 18:26:06",
-      "https://news.ycombinator.com/item?id=43881035"
-    ],
-    [
-      "We fell out of love with Next.js and back in love with Ruby on Rails",
-      "https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: Open-source sound effects and react library to spice up your website",
       "https://www.reactsounds.com/"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 11:51:42",
+      "https://news.ycombinator.com/item?id=43843902"
+    ],
+    [
+      "Elvish – Powerful scripting language and versatile interactive shell",
+      "https://github.com/elves/elvish"
     ]
   ],
   [
