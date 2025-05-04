@@ -85,6 +85,7 @@
 * [2025-05-02, 01:54:39](https://news.ycombinator.com/item?id=43865379) - [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
 * [2025-05-02, 01:53:01](https://news.ycombinator.com/item?id=43865372) - [Show HN: CapOS – A responsibility-gated OS stack with signed process execution](https://zenodo.org/communities/xtothepowerofinfinity/records)
 * [2025-05-02, 01:27:12](https://news.ycombinator.com/item?id=43865243) - [The Anti-Capitalist Case for Standards](https://thereader.mitpress.mit.edu/the-anti-capitalist-case-for-standards/)
+* [2025-05-02, 01:19:17](https://news.ycombinator.com/item?id=43865209) - [Reconstructing dopamine's link to reward (2024)](https://www.thetransmitter.org/dopamine/reconstructing-dopamines-link-to-reward/)
 * [2025-05-02, 01:03:10](https://news.ycombinator.com/item?id=43865132) - [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
 * [2025-05-02, 00:56:57](https://news.ycombinator.com/item?id=43865103) - [Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages](https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/)
 * [2025-05-02, 00:56:02](https://news.ycombinator.com/item?id=43865097) - [XAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/)
