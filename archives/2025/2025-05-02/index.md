@@ -21,6 +21,7 @@
 * [2025-05-02, 17:30:08](https://news.ycombinator.com/item?id=43872625) - [The History of Album Art](https://matthewstrom.com/writing/album-art/)
 * [2025-05-02, 17:06:17](https://news.ycombinator.com/item?id=43872361) - [Blocking surprising master regulator of immunity eradicates liver tumors in mice](https://med.stanford.edu/news/all-news/2025/04/epo-tumors.html)
 * [2025-05-02, 17:00:00](https://news.ycombinator.com/item?id=43872275) - [Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive)](https://www.ycombinator.com/companies/toma/jobs)
+* [2025-05-02, 16:49:59](https://news.ycombinator.com/item?id=43872159) - [Show HN: I taught AI to commentate Pong in real time](https://github.com/pncnmnp/xpong)
 * [2025-05-02, 16:45:29](https://news.ycombinator.com/item?id=43872094) - [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
 * [2025-05-02, 16:38:14](https://news.ycombinator.com/item?id=43871998) - [Universal Antivenom May Grow Out of Man Who Let Snakes Bite Him 100s of Times](https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html)
 * [2025-05-02, 16:37:00](https://news.ycombinator.com/item?id=43871984) - [Show HN: Exhibit and Site on Mechanisms for Students](https://mechanical-library.org/)
