@@ -6,7 +6,7 @@
 * [2025-05-04, 01:27:26](https://news.ycombinator.com/item?id=43883747) - [Pascal for Small Machines](http://pascal.hansotten.com/)
 * [2025-05-04, 01:24:14](https://news.ycombinator.com/item?id=43883732) - [A PostgreSQL planner semi-join gotcha with CTE, LIMIT, and RETURNING](https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/)
 * [2025-05-03, 22:57:58](https://news.ycombinator.com/item?id=43883040) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
-* [2025-05-03, 22:41:16](https://news.ycombinator.com/item?id=43882962) - [FAA offering more incentives as air traffic controller shortage worsens](https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/)
+* [2025-05-03, 22:29:54](https://news.ycombinator.com/item?id=43882905) - [Google Gemini has the worst LLM API](https://venki.dev/notes/google-gemini-is-bad)
 * [2025-05-03, 22:16:11](https://news.ycombinator.com/item?id=43882809) - [Why I Am Not Going to Buy a Computer (1987) [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-05-03, 21:22:28](https://news.ycombinator.com/item?id=43882437) - [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
 * [2025-05-03, 21:00:18](https://news.ycombinator.com/item?id=43882280) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
