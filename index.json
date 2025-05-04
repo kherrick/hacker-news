@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-05-04, 17:56:29",
+      "https://news.ycombinator.com/item?id=43888246"
+    ],
+    [
+      "The World Of dBASE (1984) [video]",
+      "https://www.youtube.com/watch?v=bYU3CQomE5M"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 17:38:13",
+      "https://news.ycombinator.com/item?id=43888117"
+    ],
+    [
+      "Design for 3D-Printing",
+      "https://blog.rahix.de/design-for-3d-printing/"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 17:18:42",
+      "https://news.ycombinator.com/item?id=43888005"
+    ],
+    [
+      "Load-Store Conflicts",
+      "https://zeux.io/2025/05/03/load-store-conflicts/"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 17:00:38",
       "https://news.ycombinator.com/item?id=43887876"
     ],
     [
       "Hightouch (YC S19) Is Hiring",
       "https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 16:36:02",
+      "https://news.ycombinator.com/item?id=43887708"
+    ],
+    [
+      "Minimal Linux Bootloader",
+      "https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm"
     ]
   ],
   [
@@ -31,22 +71,22 @@
   ],
   [
     [
+      "2025-05-04, 16:01:26",
+      "https://news.ycombinator.com/item?id=43887494"
+    ],
+    [
+      "Feather: Feather: A web framework that skips Rust's async boilerplate and jus",
+      "https://github.com/BersisSe/feather"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 13:29:55",
       "https://news.ycombinator.com/item?id=43886601"
     ],
     [
       "TScale – distributed training on consumer GPUs",
       "https://github.com/Foreseerr/TScale"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 12:44:47",
-      "https://news.ycombinator.com/item?id=43886399"
-    ],
-    [
-      "'Bizarro World'",
-      "https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2025-05-03, 21:22:28",
-      "https://news.ycombinator.com/item?id=43882437"
-    ],
-    [
-      "Numerical Linear Algebra Class in Julia TUM",
-      "https://venkovic.github.io/NLA-for-CS-and-IE.html"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 20:44:56",
       "https://news.ycombinator.com/item?id=43882150"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-05-02, 21:13:07",
-      "https://news.ycombinator.com/item?id=43874641"
-    ],
-    [
-      "Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years apart",
-      "https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart"
-    ]
-  ],
-  [
-    [
       "2025-05-02, 17:46:02",
       "https://news.ycombinator.com/item?id=43872799"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-05-02, 12:31:14",
-      "https://news.ycombinator.com/item?id=43868890"
-    ],
-    [
-      "Sanctum || A pq-safe and sandboxed VPN daemon",
-      "https://github.com/jorisvink/sanctum"
-    ]
-  ],
-  [
-    [
       "2025-05-02, 04:53:46",
       "https://news.ycombinator.com/item?id=43866329"
     ],
     [
       "The Speed of VITs and CNNs",
       "https://lucasb.eyer.be/articles/vit_cnn_speed.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 03:39:20",
-      "https://news.ycombinator.com/item?id=43865960"
-    ],
-    [
-      "I built a pixel art editor after playing Octopath Traveler II",
-      "https://news.ycombinator.com/item?id=43865960"
     ]
   ],
   [
