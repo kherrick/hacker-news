@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-04, 04:24:15](https://news.ycombinator.com/item?id=43884473) - [Any headline that ends in a question mark can be answered by the word no](https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)
 * [2025-05-04, 03:05:50](https://news.ycombinator.com/item?id=43884156) - [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
 * [2025-05-04, 02:12:34](https://news.ycombinator.com/item?id=43883946) - [Programmers Guide to the AMIBIOS (1993) [pdf]](http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf)
 * [2025-05-04, 02:03:40](https://news.ycombinator.com/item?id=43883902) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
@@ -29,7 +30,6 @@
 * [2025-04-30, 10:27:37](https://news.ycombinator.com/item?id=43843241) - [Legendary Bose Magic Carpet Suspension Is Finally Going Global](https://www.thedrive.com/news/legendary-bose-magic-carpet-suspension-is-finally-going-global)
 * [2025-04-30, 07:56:22](https://news.ycombinator.com/item?id=43842367) - [Metagenomics test saves woman's sight after mystery infection](https://www.bbc.co.uk/news/articles/czx45vze0vyo)
 * [2025-04-30, 01:04:24](https://news.ycombinator.com/item?id=43840057) - [Creating the Commodore 64: The Engineers' Story](https://spectrum.ieee.org/commodore-64)
-* [2025-04-29, 23:08:26](https://news.ycombinator.com/item?id=43839145) - [Lessons from Building a Translator App That Beats Google Translate and DeepL](https://dingyu.me/blog/lessons-translator-app-beats-google-translate-deepl)
 
 ## [Archives](archives/index.md)
 
