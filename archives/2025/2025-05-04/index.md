@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 13:38:31](https://news.ycombinator.com/item?id=43886635) - [Woman missing for more than 60 years found 'alive and well'](https://news.sky.com/story/woman-missing-for-more-than-60-years-found-alive-and-well-13361368)
+* [2025-05-04, 13:29:55](https://news.ycombinator.com/item?id=43886601) - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
+* [2025-05-04, 13:21:33](https://news.ycombinator.com/item?id=43886552) - [The Texan Who Built an Empire of Ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
 * [2025-05-04, 12:44:47](https://news.ycombinator.com/item?id=43886399) - ['Bizarro World'](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
 * [2025-05-04, 12:10:03](https://news.ycombinator.com/item?id=43886271) - [Lilith and Modula-2](https://astrobe.com/Modula2/)
 * [2025-05-04, 12:02:35](https://news.ycombinator.com/item?id=43886243) - [The Alabama Landline That Keeps Ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
