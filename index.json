@@ -1,32 +1,62 @@
 [
   [
     [
+      "2025-05-04, 02:12:34",
+      "https://news.ycombinator.com/item?id=43883946"
+    ],
+    [
+      "Programmers Guide to the AMIBIOS (1993) [pdf]",
+      "http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 02:03:40",
+      "https://news.ycombinator.com/item?id=43883902"
+    ],
+    [
+      "What went wrong with wireless USB",
+      "http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 01:27:26",
+      "https://news.ycombinator.com/item?id=43883747"
+    ],
+    [
+      "Pascal for Small Machines",
+      "http://pascal.hansotten.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 01:24:14",
+      "https://news.ycombinator.com/item?id=43883732"
+    ],
+    [
+      "A PostgreSQL planner semi-join gotcha with CTE, LIMIT, and RETURNING",
+      "https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 00:40:59",
+      "https://news.ycombinator.com/item?id=43883555"
+    ],
+    [
+      "Vygotsky's Zone of Proximal Development",
+      "https://www.simplypsychology.org/zone-of-proximal-development.html"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 22:57:58",
       "https://news.ycombinator.com/item?id=43883040"
     ],
     [
       "Gorgeous-GRUB: collection of decent community-made GRUB themes",
       "https://github.com/Jacksaur/Gorgeous-GRUB"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 22:41:16",
-      "https://news.ycombinator.com/item?id=43882962"
-    ],
-    [
-      "FAA offering more incentives as air traffic controller shortage worsens",
-      "https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 22:29:54",
-      "https://news.ycombinator.com/item?id=43882905"
-    ],
-    [
-      "Google Gemini has the worst LLM API",
-      "https://venki.dev/notes/google-gemini-is-bad"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-05-03, 20:44:56",
-      "https://news.ycombinator.com/item?id=43882150"
-    ],
-    [
-      "When Flat Rate Movers Won't Answer Your Calls",
-      "https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 20:40:59",
       "https://news.ycombinator.com/item?id=43882118"
     ],
@@ -91,22 +111,22 @@
   ],
   [
     [
-      "2025-05-03, 18:29:50",
-      "https://news.ycombinator.com/item?id=43881065"
-    ],
-    [
-      "Deadly Screwworm Parasite's Comeback Threatens Texas Cattle, US Beef Supply",
-      "http://www.bloomberg.com/news/features/2025-05-02/deadly-screwworm-parasite-s-comeback-threatens-texas-cattle-us-beef-supply"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 18:26:06",
       "https://news.ycombinator.com/item?id=43881035"
     ],
     [
       "We fell out of love with Next.js and back in love with Ruby on Rails",
       "https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 18:16:54",
+      "https://news.ycombinator.com/item?id=43880973"
+    ],
+    [
+      "Buffett to step down following six-decade run atop Berkshire",
+      "https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end"
     ]
   ],
   [
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2025-05-03, 14:32:57",
+      "https://news.ycombinator.com/item?id=43879288"
+    ],
+    [
+      "The US has approved CRISPR pigs for food",
+      "https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 14:31:52",
       "https://news.ycombinator.com/item?id=43879282"
     ],
@@ -171,12 +201,22 @@
   ],
   [
     [
-      "2025-05-03, 13:08:29",
-      "https://news.ycombinator.com/item?id=43878824"
+      "2025-05-03, 13:22:03",
+      "https://news.ycombinator.com/item?id=43878878"
     ],
     [
-      "Closures in Tcl",
-      "https://world-playground-deceit.net/blog/2024/10/tcl-closures.html"
+      "Why I stopped angel investing after 15 years (and what I'm doing instead)",
+      "https://halletecco.substack.com/p/why-i-stopped-angel-investing-after"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 13:14:59",
+      "https://news.ycombinator.com/item?id=43878850"
+    ],
+    [
+      "Time saved by AI offset by new work created, study suggests",
+      "https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2025-05-03, 11:52:12",
-      "https://news.ycombinator.com/item?id=43878461"
-    ],
-    [
-      "Show HN: Use Third Party LLM API in JetBrains AI Assistant",
-      "https://github.com/Stream29/ProxyAsLocalModel"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 09:08:31",
       "https://news.ycombinator.com/item?id=43877797"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2025-05-03, 06:45:00",
-      "https://news.ycombinator.com/item?id=43877301"
+      "2025-05-02, 13:02:44",
+      "https://news.ycombinator.com/item?id=43869193"
     ],
     [
-      "Accountability Sinks",
-      "https://250bpm.substack.com/p/accountability-sinks"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 22:42:21",
-      "https://news.ycombinator.com/item?id=43875230"
-    ],
-    [
-      "The Craft 001: A conversation about craft, code, and freedom with Neal Agarwal",
-      "https://www.workingtheorys.com/p/the-craft-neal-agarwal"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 06:13:06",
-      "https://news.ycombinator.com/item?id=43866670"
-    ],
-    [
-      "Ghosts and Dolls",
-      "https://thelampmagazine.com/issues/issue-27/ghosts-and-dolls"
+      "The economic impact of Oman's rose season",
+      "https://www.omanobserver.om/article/1153780/magazine/the-correspondent-the-economic-impact-of-omans-rose-season"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-05-01, 18:06:49",
-      "https://news.ycombinator.com/item?id=43861253"
-    ],
-    [
-      "The future of solar doesn't track the sun",
-      "https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/"
-    ]
-  ],
-  [
-    [
       "2025-04-30, 10:27:37",
       "https://news.ycombinator.com/item?id=43843241"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-04-30, 07:56:22",
+      "https://news.ycombinator.com/item?id=43842367"
+    ],
+    [
+      "Metagenomics test saves woman's sight after mystery infection",
+      "https://www.bbc.co.uk/news/articles/czx45vze0vyo"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 01:04:24",
       "https://news.ycombinator.com/item?id=43840057"
     ],
     [
       "Creating the Commodore 64: The Engineers' Story",
       "https://spectrum.ieee.org/commodore-64"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 00:03:52",
-      "https://news.ycombinator.com/item?id=43839572"
-    ],
-    [
-      "Ensure public interface reliability: Tracking API compatibility for Android",
-      "https://www.revenuecat.com/blog/engineering/binary-compatability/"
     ]
   ],
   [
