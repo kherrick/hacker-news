@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-04, 05:12:47",
+      "https://news.ycombinator.com/item?id=43884635"
+    ],
+    [
+      "Brian Eno's Theory of Democracy",
+      "https://www.programmablemutter.com/p/brian-enos-theory-of-democracy"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 03:05:50",
       "https://news.ycombinator.com/item?id=43884156"
     ],
@@ -147,16 +157,6 @@
     [
       "RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io",
       "https://github.com/serverless-dns/serverless-dns"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 17:19:07",
-      "https://news.ycombinator.com/item?id=43880554"
-    ],
-    [
-      "MathML with Pandoc",
-      "https://leancrew.com/all-this/2025/05/mathml-with-pandoc/"
     ]
   ],
   [
