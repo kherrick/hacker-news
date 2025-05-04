@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-04, 16:10:41",
+      "https://news.ycombinator.com/item?id=43887546"
+    ],
+    [
+      "Show HN: EZ-TRAK Satellite Hand Tracking Suite",
+      "https://github.com/benb0jangles/EzTrak"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 14:57:59",
       "https://news.ycombinator.com/item?id=43887073"
     ],
@@ -141,26 +151,6 @@
   ],
   [
     [
-      "2025-05-03, 22:16:11",
-      "https://news.ycombinator.com/item?id=43882809"
-    ],
-    [
-      "Why I Am Not Going to Buy a Computer (1987) [pdf]",
-      "https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 21:22:28",
-      "https://news.ycombinator.com/item?id=43882437"
-    ],
-    [
-      "Numerical Linear Algebra Class in Julia TUM",
-      "https://venkovic.github.io/NLA-for-CS-and-IE.html"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 20:44:56",
       "https://news.ycombinator.com/item?id=43882150"
     ],
@@ -227,6 +217,16 @@
     [
       "Show HN: I taught AI to commentate Pong in real time",
       "https://github.com/pncnmnp/xpong"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 12:31:14",
+      "https://news.ycombinator.com/item?id=43868890"
+    ],
+    [
+      "Sanctum || A pq-safe and sandboxed VPN daemon",
+      "https://github.com/jorisvink/sanctum"
     ]
   ],
   [
