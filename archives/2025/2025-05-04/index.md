@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
 * [2025-05-04, 17:56:29](https://news.ycombinator.com/item?id=43888246) - [The World Of dBASE (1984) [video]](https://www.youtube.com/watch?v=bYU3CQomE5M)
+* [2025-05-04, 17:48:47](https://news.ycombinator.com/item?id=43888191) - [Critical Program Reading (1975) [video]](https://www.youtube.com/watch?v=7hdJQkn8rtA)
 * [2025-05-04, 17:38:13](https://news.ycombinator.com/item?id=43888117) - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
 * [2025-05-04, 17:18:42](https://news.ycombinator.com/item?id=43888005) - [Load-Store Conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [2025-05-04, 17:00:38](https://news.ycombinator.com/item?id=43887876) - [Hightouch (YC S19) Is Hiring](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning)

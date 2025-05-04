@@ -54,6 +54,7 @@
 * [2025-05-02, 12:31:14](https://news.ycombinator.com/item?id=43868890) - [Sanctum || A pq-safe and sandboxed VPN daemon](https://github.com/jorisvink/sanctum)
 * [2025-05-02, 12:29:30](https://news.ycombinator.com/item?id=43868876) - [Crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
 * [2025-05-02, 12:15:48](https://news.ycombinator.com/item?id=43868737) - [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
+* [2025-05-02, 12:11:18](https://news.ycombinator.com/item?id=43868694) - [Distributed Continuous GPU Profiling](https://www.zymtrace.com/article/zero-friction-gpu-profiler)
 * [2025-05-02, 11:56:59](https://news.ycombinator.com/item?id=43868566) - [AfD classified as extreme-right by German intelligence](https://www.bbc.com/news/articles/cwy6zk9wkrdo)
 * [2025-05-02, 11:29:59](https://news.ycombinator.com/item?id=43868395) - [DotnetSnes: Library allowing to use C# to create SNES ROMs](https://github.com/KallDrexx/DotnetSnes)
 * [2025-05-02, 11:11:26](https://news.ycombinator.com/item?id=43868279) - [Meta's Reality Labs Has Now Lost over $60B Since 2020](https://meta.slashdot.org/story/25/05/01/206224/metas-reality-labs-has-now-lost-over-60-billion-since-2020)
