@@ -17,6 +17,7 @@
 * [2025-05-02, 18:12:15](https://news.ycombinator.com/item?id=43873074) - [Show HN: I built a synthesizer based on 3D physics and launched the product](https://anukari.com)
 * [2025-05-02, 18:02:51](https://news.ycombinator.com/item?id=43872990) - [The first driverless semis have started running regular longhaul routes](https://www.cnn.com/2025/05/01/business/first-driverless-semis-started-regular-routes)
 * [2025-05-02, 17:59:17](https://news.ycombinator.com/item?id=43872946) - [Rams is a documentary portrait of Dieter Rams (2018)](https://www.hustwit.com/rams)
+* [2025-05-02, 17:46:02](https://news.ycombinator.com/item?id=43872799) - [A visual feast of galaxies, from infrared to X-ray](https://www.esa.int/ESA_Multimedia/Images/2025/04/A_visual_feast_of_galaxies_from_infrared_to_X-ray)
 * [2025-05-02, 17:42:28](https://news.ycombinator.com/item?id=43872761) - [Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents](https://github.com/stanford-mast/blast)
 * [2025-05-02, 17:30:08](https://news.ycombinator.com/item?id=43872625) - [The History of Album Art](https://matthewstrom.com/writing/album-art/)
 * [2025-05-02, 17:06:17](https://news.ycombinator.com/item?id=43872361) - [Blocking surprising master regulator of immunity eradicates liver tumors in mice](https://med.stanford.edu/news/all-news/2025/04/epo-tumors.html)
