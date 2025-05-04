@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 17:56:29](https://news.ycombinator.com/item?id=43888246) - [The World Of dBASE (1984) [video]](https://www.youtube.com/watch?v=bYU3CQomE5M)
+* [2025-05-04, 17:38:13](https://news.ycombinator.com/item?id=43888117) - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
+* [2025-05-04, 17:18:42](https://news.ycombinator.com/item?id=43888005) - [Load-Store Conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [2025-05-04, 17:00:38](https://news.ycombinator.com/item?id=43887876) - [Hightouch (YC S19) Is Hiring](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning)
+* [2025-05-04, 16:36:02](https://news.ycombinator.com/item?id=43887708) - [Minimal Linux Bootloader](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm)
 * [2025-05-04, 16:26:28](https://news.ycombinator.com/item?id=43887637) - [Dummy's Guide to Modern LLM Sampling](https://rentry.co/samplers)
 * [2025-05-04, 16:10:41](https://news.ycombinator.com/item?id=43887546) - [Show HN: EZ-TRAK Satellite Hand Tracking Suite](https://github.com/benb0jangles/EzTrak)
+* [2025-05-04, 16:01:26](https://news.ycombinator.com/item?id=43887494) - [Feather: Feather: A web framework that skips Rust's async boilerplate and jus](https://github.com/BersisSe/feather)
 * [2025-05-04, 14:57:59](https://news.ycombinator.com/item?id=43887073) - [Why Flatpak Apps Use So Much Disk Space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
 * [2025-05-04, 13:38:31](https://news.ycombinator.com/item?id=43886635) - [Woman missing for more than 60 years found 'alive and well'](https://news.sky.com/story/woman-missing-for-more-than-60-years-found-alive-and-well-13361368)
 * [2025-05-04, 13:29:55](https://news.ycombinator.com/item?id=43886601) - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
