@@ -51,6 +51,7 @@
 * [2025-04-30, 14:36:40](https://news.ycombinator.com/item?id=43845874) - [Why can't stinking rich Ivies cope with losing a few hundred million?](https://www.economist.com/briefing/2025/04/10/why-cant-stinking-rich-ivies-cope-with-losing-a-few-hundred-million)
 * [2025-04-30, 14:32:56](https://news.ycombinator.com/item?id=43845826) - [A simple Common Lisp web app](https://www.scotto.me/blog/a-simple-common-lisp-web-app/)
 * [2025-04-30, 14:23:32](https://news.ycombinator.com/item?id=43845695) - [Study finds that budget cuts to public R&D would significantly hurt the economy](https://impa.american.edu/costs-of-cutting-scientific-research/)
+* [2025-04-30, 13:46:38](https://news.ycombinator.com/item?id=43845174) - [In kids, EEG monitoring of consciousness safely reduces anesthetic use](https://news.mit.edu/2025/kids-eeg-monitoring-consciousness-safely-reduces-anesthetic-use-0429)
 * [2025-04-30, 13:38:57](https://news.ycombinator.com/item?id=43845089) - [\"AI-first\" is the new Return To Office](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/)
 * [2025-04-30, 13:34:07](https://news.ycombinator.com/item?id=43845022) - [RFK Jr is wrong – there's a rich history of autistic poets](https://theconversation.com/rfk-jr-said-many-autistic-people-will-never-write-a-poem-even-though-theres-a-rich-history-of-neurodivergent-poets-and-writers-255367)
 * [2025-04-30, 13:33:37](https://news.ycombinator.com/item?id=43845016) - [No as a Service](https://github.com/hotheadhacker/no-as-a-service)
