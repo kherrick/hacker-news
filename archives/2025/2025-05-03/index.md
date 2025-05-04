@@ -6,6 +6,7 @@
 
 * [2025-05-03, 22:57:58](https://news.ycombinator.com/item?id=43883040) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 22:41:16](https://news.ycombinator.com/item?id=43882962) - [FAA offering more incentives as air traffic controller shortage worsens](https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/)
+* [2025-05-03, 22:29:54](https://news.ycombinator.com/item?id=43882905) - [Google Gemini has the worst LLM API](https://venki.dev/notes/google-gemini-is-bad)
 * [2025-05-03, 22:16:11](https://news.ycombinator.com/item?id=43882809) - [Why I Am Not Going to Buy a Computer (1987) [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-05-03, 21:22:28](https://news.ycombinator.com/item?id=43882437) - [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
 * [2025-05-03, 21:08:03](https://news.ycombinator.com/item?id=43882336) - [The Unreasonable Effectiveness of Multiple Dispatch in Julia (2019)](https://www.youtube.com/watch?v=kc9HwsxE1OY)
