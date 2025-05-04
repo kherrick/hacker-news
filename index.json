@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-05-03, 22:29:54",
-      "https://news.ycombinator.com/item?id=43882905"
-    ],
-    [
-      "Google Gemini has the worst LLM API",
-      "https://venki.dev/notes/google-gemini-is-bad"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 21:22:28",
       "https://news.ycombinator.com/item?id=43882437"
     ],
@@ -157,6 +147,16 @@
     [
       "RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io",
       "https://github.com/serverless-dns/serverless-dns"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 17:19:07",
+      "https://news.ycombinator.com/item?id=43880554"
+    ],
+    [
+      "MathML with Pandoc",
+      "https://leancrew.com/all-this/2025/05/mathml-with-pandoc/"
     ]
   ],
   [
