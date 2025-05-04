@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 23:27:11](https://news.ycombinator.com/item?id=43883180) - [Show HN: MP3 File Editor for Bulk Processing](https://cjmapp.net/)
 * [2025-05-03, 22:57:58](https://news.ycombinator.com/item?id=43883040) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 22:41:16](https://news.ycombinator.com/item?id=43882962) - [FAA offering more incentives as air traffic controller shortage worsens](https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/)
 * [2025-05-03, 22:29:54](https://news.ycombinator.com/item?id=43882905) - [Google Gemini has the worst LLM API](https://venki.dev/notes/google-gemini-is-bad)
