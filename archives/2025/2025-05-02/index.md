@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
 * [2025-05-02, 23:26:12](https://news.ycombinator.com/item?id=43875505) - [ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal](https://github.com/ernestofgonzalez/epub-utils)
+* [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of TM SGNL, the unofficial Signal app Trump officials used](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
 * [2025-05-02, 23:10:03](https://news.ycombinator.com/item?id=43875416) - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
 * [2025-05-02, 23:07:21](https://news.ycombinator.com/item?id=43875403) - [Demo Driven Development: Show, Don't Just Tell](https://shubhanshu.com/blog/demo-driven-development.html#demo-driven-development)
 * [2025-05-02, 22:42:21](https://news.ycombinator.com/item?id=43875230) - [The Craft 001: A conversation about craft, code, and freedom with Neal Agarwal](https://www.workingtheorys.com/p/the-craft-neal-agarwal)
