@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 12:02:35](https://news.ycombinator.com/item?id=43886243) - [The Alabama Landline That Keeps Ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
 * [2025-05-04, 09:40:40](https://news.ycombinator.com/item?id=43885659) - [Show HN: Voxdazz – Text-to-speech with lip-sync video generation](https://voxdazz.com)
 * [2025-05-04, 08:54:44](https://news.ycombinator.com/item?id=43885478) - [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
 * [2025-05-04, 07:01:29](https://news.ycombinator.com/item?id=43885051) - [The latest AI scaling graph – and why it hardly makes sense](https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why)
