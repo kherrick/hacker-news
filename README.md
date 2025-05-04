@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-04, 16:26:28](https://news.ycombinator.com/item?id=43887637) - [Dummy's Guide to Modern LLM Sampling](https://rentry.co/samplers)
 * [2025-05-04, 16:10:41](https://news.ycombinator.com/item?id=43887546) - [Show HN: EZ-TRAK Satellite Hand Tracking Suite](https://github.com/benb0jangles/EzTrak)
 * [2025-05-04, 14:57:59](https://news.ycombinator.com/item?id=43887073) - [Why Flatpak Apps Use So Much Disk Space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
 * [2025-05-04, 13:29:55](https://news.ycombinator.com/item?id=43886601) - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
@@ -24,7 +25,6 @@
 * [2025-05-02, 16:49:59](https://news.ycombinator.com/item?id=43872159) - [Show HN: I taught AI to commentate Pong in real time](https://github.com/pncnmnp/xpong)
 * [2025-05-02, 12:31:14](https://news.ycombinator.com/item?id=43868890) - [Sanctum || A pq-safe and sandboxed VPN daemon](https://github.com/jorisvink/sanctum)
 * [2025-05-02, 04:53:46](https://news.ycombinator.com/item?id=43866329) - [The Speed of VITs and CNNs](https://lucasb.eyer.be/articles/vit_cnn_speed.html)
-* [2025-05-02, 03:39:20](https://news.ycombinator.com/item?id=43865960) - [I built a pixel art editor after playing Octopath Traveler II](https://news.ycombinator.com/item?id=43865960)
 * [2025-05-01, 03:50:24](https://news.ycombinator.com/item?id=43853499) - [Codd's Cellular Automaton](https://en.wikipedia.org/wiki/Codd%27s_cellular_automaton)
 * [2025-04-30, 13:46:38](https://news.ycombinator.com/item?id=43845174) - [In kids, EEG monitoring of consciousness safely reduces anesthetic use](https://news.mit.edu/2025/kids-eeg-monitoring-consciousness-safely-reduces-anesthetic-use-0429)
 * [2025-04-30, 11:51:42](https://news.ycombinator.com/item?id=43843902) - [Elvish – Powerful scripting language and versatile interactive shell](https://github.com/elves/elvish)
