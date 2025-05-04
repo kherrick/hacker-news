@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-04, 09:40:40](https://news.ycombinator.com/item?id=43885659) - [Show HN: Voxdazz – Text-to-speech with lip-sync video generation](https://voxdazz.com)
 * [2025-05-04, 08:54:44](https://news.ycombinator.com/item?id=43885478) - [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
 * [2025-05-04, 06:57:57](https://news.ycombinator.com/item?id=43885039) - [Switch bouncing reference traces for a variety of different switches](https://github.com/gsuberland/switch_bouncing)
 * [2025-05-04, 03:05:50](https://news.ycombinator.com/item?id=43884156) - [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
@@ -15,7 +16,6 @@
 * [2025-05-03, 19:30:38](https://news.ycombinator.com/item?id=43881468) - [DuckDB is probably the most important geospatial software of the last decade](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html)
 * [2025-05-03, 18:26:06](https://news.ycombinator.com/item?id=43881035) - [We fell out of love with Next.js and back in love with Ruby on Rails](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
 * [2025-05-03, 18:15:45](https://news.ycombinator.com/item?id=43880962) - [Show HN: Free, in-browser PDF editor](https://breezepdf.com)
-* [2025-05-03, 15:34:38](https://news.ycombinator.com/item?id=43879748) - [Bethesda Thinks Fan Remaster of Oblivion Is 'Very Special' and Supports It](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773)
 * [2025-05-03, 15:30:33](https://news.ycombinator.com/item?id=43879715) - [QModem 4.51 Source Code](https://github.com/AaronFriel/qmodem-4.51)
 * [2025-05-03, 15:29:10](https://news.ycombinator.com/item?id=43879702) - [Run LLMs on Apple Neural Engine (ANE)](https://github.com/Anemll/Anemll)
 * [2025-05-03, 13:22:03](https://news.ycombinator.com/item?id=43878878) - [Why I stopped angel investing after 15 years (and what I'm doing instead)](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after)
