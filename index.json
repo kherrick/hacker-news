@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-05-03, 22:29:54",
-      "https://news.ycombinator.com/item?id=43882905"
-    ],
-    [
-      "Google Gemini has the worst LLM API",
-      "https://venki.dev/notes/google-gemini-is-bad"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 22:16:11",
       "https://news.ycombinator.com/item?id=43882809"
     ],
@@ -237,6 +227,16 @@
     [
       "DotnetSnes: Library allowing to use C# to create SNES ROMs",
       "https://github.com/KallDrexx/DotnetSnes"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 04:53:46",
+      "https://news.ycombinator.com/item?id=43866329"
+    ],
+    [
+      "The Speed of VITs and CNNs",
+      "https://lucasb.eyer.be/articles/vit_cnn_speed.html"
     ]
   ],
   [
