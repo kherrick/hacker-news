@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 08:54:44](https://news.ycombinator.com/item?id=43885478) - [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
 * [2025-05-04, 07:01:29](https://news.ycombinator.com/item?id=43885051) - [The latest AI scaling graph – and why it hardly makes sense](https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why)
 * [2025-05-04, 06:57:57](https://news.ycombinator.com/item?id=43885039) - [Switch bouncing reference traces for a variety of different switches](https://github.com/gsuberland/switch_bouncing)
 * [2025-05-04, 05:12:47](https://news.ycombinator.com/item?id=43884635) - [Brian Eno's Theory of Democracy](https://www.programmablemutter.com/p/brian-enos-theory-of-democracy)
