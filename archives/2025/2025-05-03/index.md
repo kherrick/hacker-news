@@ -43,6 +43,7 @@
 * [2025-05-03, 14:31:52](https://news.ycombinator.com/item?id=43879282) - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
 * [2025-05-03, 14:31:10](https://news.ycombinator.com/item?id=43879277) - [Google Can Train Search AI with Web Content Even with Opt-Out](https://www.bloomberg.com/news/articles/2025-05-03/google-can-train-search-ai-with-web-content-even-after-opt-out)
 * [2025-05-03, 14:29:02](https://news.ycombinator.com/item?id=43879259) - [Why I ever wrote Clojure](https://thesoftwarephilosopher.com/blog/2025-05-03-why-i-ever-wrote-clojure.html)
+* [2025-05-03, 13:49:46](https://news.ycombinator.com/item?id=43879018) - [You can now directly sync Postgres with Redis](https://github.com/redfly-ai-org/redfly.ai)
 * [2025-05-03, 13:43:53](https://news.ycombinator.com/item?id=43878987) - [Show HN: Pipask – safer pip without compromising convenience](https://github.com/feynmanix/pipask)
 * [2025-05-03, 13:32:10](https://news.ycombinator.com/item?id=43878930) - [Vibe Coding Is Overrated](https://transitions.substack.com/p/vibe-coding-is-overrated)
 * [2025-05-03, 13:22:03](https://news.ycombinator.com/item?id=43878878) - [Why I stopped angel investing after 15 years (and what I'm doing instead)](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after)
