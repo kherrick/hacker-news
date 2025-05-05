@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-05](index.md)
 
+* [2025-05-05, 16:29:22](https://news.ycombinator.com/item?id=43896820) - [Tuning Timbre Spectrum Scale](https://sethares.engr.wisc.edu/ttss.html)
+* [2025-05-05, 15:52:37](https://news.ycombinator.com/item?id=43896410) - [Show HN: Klavis AI – Open-source MCP integration for AI applications](https://github.com/Klavis-AI/klavis)
 * [2025-05-05, 15:37:26](https://news.ycombinator.com/item?id=43896228) - [No Instagram, No Privacy](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/)
+* [2025-05-05, 15:33:57](https://news.ycombinator.com/item?id=43896188) - [How are cyber criminals rolling in 2025?](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html)
 * [2025-05-05, 15:17:33](https://news.ycombinator.com/item?id=43896011) - [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
 * [2025-05-05, 15:01:30](https://news.ycombinator.com/item?id=43895852) - [Geometrically understanding calculus of inverse functions (2023)](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1)
 * [2025-05-05, 14:37:51](https://news.ycombinator.com/item?id=43895622) - [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html)

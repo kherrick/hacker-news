@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-05, 16:29:22](https://news.ycombinator.com/item?id=43896820) - [Tuning Timbre Spectrum Scale](https://sethares.engr.wisc.edu/ttss.html)
+* [2025-05-05, 15:52:37](https://news.ycombinator.com/item?id=43896410) - [Show HN: Klavis AI – Open-source MCP integration for AI applications](https://github.com/Klavis-AI/klavis)
 * [2025-05-05, 15:37:26](https://news.ycombinator.com/item?id=43896228) - [No Instagram, No Privacy](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/)
+* [2025-05-05, 15:33:57](https://news.ycombinator.com/item?id=43896188) - [How are cyber criminals rolling in 2025?](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html)
 * [2025-05-05, 15:17:33](https://news.ycombinator.com/item?id=43896011) - [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
 * [2025-05-05, 15:01:30](https://news.ycombinator.com/item?id=43895852) - [Geometrically understanding calculus of inverse functions (2023)](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1)
 * [2025-05-05, 14:37:51](https://news.ycombinator.com/item?id=43895622) - [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html)
@@ -11,12 +14,10 @@
 * [2025-05-05, 12:06:11](https://news.ycombinator.com/item?id=43894175) - [The Beauty of Having a Pi-Hole](https://den.dev/blog/pihole/)
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 11:16:16](https://news.ycombinator.com/item?id=43893762) - [Judge said Meta illegally used books to build its AI](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
-* [2025-05-05, 11:10:58](https://news.ycombinator.com/item?id=43893740) - [Gandi March 9, 2025 incident postmortem](https://news.gandi.net/en/2025/03/gandi-incident-on-march-9-2025/)
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 * [2025-05-05, 09:25:45](https://news.ycombinator.com/item?id=43893225) - [The Design of Compact Elastic Binary Trees (Cebtree)](http://wtarreau.blogspot.com/2025/03/on-design-of-compact-elastic-binary.html)
 * [2025-05-05, 08:08:37](https://news.ycombinator.com/item?id=43892856) - [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
-* [2025-05-05, 02:17:12](https://news.ycombinator.com/item?id=43891398) - [Driving Compilers (2023)](https://fabiensanglard.net/dc/index.php)
 * [2025-05-05, 01:44:09](https://news.ycombinator.com/item?id=43891245) - [Show HN: My AI Native Resume](https://ai.jakegaylor.com/)
 * [2025-05-05, 01:19:50](https://news.ycombinator.com/item?id=43891128) - [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
 * [2025-05-04, 23:35:30](https://news.ycombinator.com/item?id=43890538) - [Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs](https://arxiv.org/abs/2503.23817)
@@ -27,9 +28,8 @@
 * [2025-05-03, 22:04:14](https://news.ycombinator.com/item?id=43882740) - [Digitization Complete for World-Renowned Franco Novacco Map Collection](https://www.newberry.org/news/digitization-complete-for-world-renowned-franco-novacco-map-collection)
 * [2025-05-03, 08:28:23](https://news.ycombinator.com/item?id=43877644) - [Why Archers Didn't Volley Fire](https://acoup.blog/2025/05/02/collections-why-archers-didnt-volley-fire/)
 * [2025-05-03, 07:03:44](https://news.ycombinator.com/item?id=43877356) - [Circuitpainter: Create PCBs using a simplfiied graphics language](https://github.com/Blinkinlabs/circuitpainter)
-* [2025-05-02, 22:28:05](https://news.ycombinator.com/item?id=43875136) - [A 1903 Proposal to Preserve the Dead in Glass Cubes](https://hyperallergic.com/406959/preserving-the-dead-in-glass/)
+* [2025-05-02, 06:34:48](https://news.ycombinator.com/item?id=43866797) - [Emergent Misalignment: Narrow Finetuning Can Produce Broadly Misaligned LLMs](https://www.emergent-misalignment.com/)
 * [2025-05-01, 18:10:54](https://news.ycombinator.com/item?id=43861297) - [Towards the Cutest Neural Network](https://kevinlynagh.com/towards-the-cutest-neural-network/)
-* [2025-05-01, 09:27:48](https://news.ycombinator.com/item?id=43855386) - [Urtext: The Python plaintext library for people who've tried everything else](https://urtext.co/)
 
 ## [Archives](archives/index.md)
 

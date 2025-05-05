@@ -76,6 +76,7 @@
 * [2025-05-02, 08:26:42](https://news.ycombinator.com/item?id=43867429) - [Vatican Observatory](https://www.vaticanobservatory.org/telescopes/va/)
 * [2025-05-02, 08:21:43](https://news.ycombinator.com/item?id=43867403) - [What I've Learned from JJ](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 * [2025-05-02, 07:48:11](https://news.ycombinator.com/item?id=43867211) - [Just redesigned my personal site with a TTY-style interface](https://www.abdisa.me/)
+* [2025-05-02, 06:34:48](https://news.ycombinator.com/item?id=43866797) - [Emergent Misalignment: Narrow Finetuning Can Produce Broadly Misaligned LLMs](https://www.emergent-misalignment.com/)
 * [2025-05-02, 06:13:06](https://news.ycombinator.com/item?id=43866670) - [Ghosts and Dolls](https://thelampmagazine.com/issues/issue-27/ghosts-and-dolls)
 * [2025-05-02, 05:53:46](https://news.ycombinator.com/item?id=43866585) - [Show HN: OSle – A 510 bytes OS in x86 assembly](https://github.com/shikaan/osle)
 * [2025-05-02, 05:33:46](https://news.ycombinator.com/item?id=43866489) - [Link Out for In-App Purchases](https://docs.stripe.com/mobile/digital-goods)
