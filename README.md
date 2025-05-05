@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-05, 22:13:50](https://news.ycombinator.com/item?id=43899959) - [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)
+* [2025-05-05, 23:38:56](https://news.ycombinator.com/item?id=43900463) - [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
+* [2025-05-05, 23:05:31](https://news.ycombinator.com/item?id=43900264) - [I built a 7-day calendar app – no months, no years, just the next 7 days](https://weeklong.life/)
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 * [2025-05-05, 20:17:32](https://news.ycombinator.com/item?id=43899028) - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
 * [2025-05-05, 20:16:29](https://news.ycombinator.com/item?id=43899016) - [Databricks in Talks to Acquire Startup Neon for About $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
@@ -24,7 +25,6 @@
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
-* [2025-05-04, 11:05:10](https://news.ycombinator.com/item?id=43886023) - [Show HN: Journelly for iOS: like tweeting but for your eyes only (in plain text)](https://xenodium.com/journelly-like-tweeting-but-for-your-eyes-only)
 * [2025-05-03, 18:53:40](https://news.ycombinator.com/item?id=43881211) - [\"An independent journalist\" who won't remain nameless](https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit)
 * [2025-05-03, 17:06:57](https://news.ycombinator.com/item?id=43880472) - [How Kim Jong Il Kidnapped a Director, Made a Cult Hit Godzilla Knockoff (2015)](https://www.vanityfair.com/hollywood/2015/04/pulgasari-north-korea-cult-hit)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of the Signal clone used by Trump officials](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
