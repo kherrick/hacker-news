@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-05-05, 11:16:16",
+      "https://news.ycombinator.com/item?id=43893762"
+    ],
+    [
+      "Judge said Meta illegally used books to build its AI",
+      "https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 11:15:32",
       "https://news.ycombinator.com/item?id=43893759"
     ],
@@ -67,16 +77,6 @@
     [
       "The Design of Compact Elastic Binary Trees (Cebtree)",
       "http://wtarreau.blogspot.com/2025/03/on-design-of-compact-elastic-binary.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 08:43:30",
-      "https://news.ycombinator.com/item?id=43893020"
-    ],
-    [
-      "DNSanity: Quickly validate DNS servers at scale",
-      "https://github.com/nil0x42/dnsanity"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-05-04, 07:13:47",
+      "https://news.ycombinator.com/item?id=43885101"
+    ],
+    [
+      "I decided to pay off a school’s lunch debt",
+      "https://www.huffpost.com/entry/utah-school-lunch-debt-relief-free-student-meals_n_681258fbe4b03207b5ba49fa"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 16:41:07",
       "https://news.ycombinator.com/item?id=43880248"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-05-03, 01:12:44",
-      "https://news.ycombinator.com/item?id=43876084"
+      "2025-05-02, 23:20:59",
+      "https://news.ycombinator.com/item?id=43875476"
     ],
     [
-      "I turned a 40 year old Apple Mouse into a speech to text button",
-      "https://workshop.cjpais.com/projects/handy-m0100"
+      "Technical analysis of TM SGNL, the unofficial Signal app Trump officials used",
+      "https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Urtext: The Python plaintext library for people who've tried everything else",
       "https://urtext.co/"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 00:16:26",
-      "https://news.ycombinator.com/item?id=43852217"
-    ],
-    [
-      "Thunderscope update: My take: Why open source is better",
-      "https://www.crowdsupply.com/eevengers/thunderscope/updates/revving-up-for-production"
     ]
   ]
 ]
