@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-05, 16:29:22",
+      "https://news.ycombinator.com/item?id=43896820"
+    ],
+    [
+      "Tuning Timbre Spectrum Scale",
+      "https://sethares.engr.wisc.edu/ttss.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 15:52:37",
+      "https://news.ycombinator.com/item?id=43896410"
+    ],
+    [
+      "Show HN: Klavis AI – Open-source MCP integration for AI applications",
+      "https://github.com/Klavis-AI/klavis"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 15:37:26",
       "https://news.ycombinator.com/item?id=43896228"
     ],
     [
       "No Instagram, No Privacy",
       "https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 15:33:57",
+      "https://news.ycombinator.com/item?id=43896188"
+    ],
+    [
+      "How are cyber criminals rolling in 2025?",
+      "https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2025-05-05, 11:10:58",
-      "https://news.ycombinator.com/item?id=43893740"
-    ],
-    [
-      "Gandi March 9, 2025 incident postmortem",
-      "https://news.gandi.net/en/2025/03/gandi-incident-on-march-9-2025/"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 10:48:21",
       "https://news.ycombinator.com/item?id=43893601"
     ],
@@ -157,16 +177,6 @@
     [
       "AI Meets WinDBG",
       "https://svnscha.de/posts/ai-meets-windbg/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 02:17:12",
-      "https://news.ycombinator.com/item?id=43891398"
-    ],
-    [
-      "Driving Compilers (2023)",
-      "https://fabiensanglard.net/dc/index.php"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2025-05-02, 22:28:05",
-      "https://news.ycombinator.com/item?id=43875136"
+      "2025-05-02, 06:34:48",
+      "https://news.ycombinator.com/item?id=43866797"
     ],
     [
-      "A 1903 Proposal to Preserve the Dead in Glass Cubes",
-      "https://hyperallergic.com/406959/preserving-the-dead-in-glass/"
+      "Emergent Misalignment: Narrow Finetuning Can Produce Broadly Misaligned LLMs",
+      "https://www.emergent-misalignment.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Towards the Cutest Neural Network",
       "https://kevinlynagh.com/towards-the-cutest-neural-network/"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 09:27:48",
-      "https://news.ycombinator.com/item?id=43855386"
-    ],
-    [
-      "Urtext: The Python plaintext library for people who've tried everything else",
-      "https://urtext.co/"
     ]
   ]
 ]
