@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-05](index.md)
 
+* [2025-05-05, 15:17:33](https://news.ycombinator.com/item?id=43896011) - [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
+* [2025-05-05, 15:01:30](https://news.ycombinator.com/item?id=43895852) - [Geometrically understanding calculus of inverse functions (2023)](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1)
 * [2025-05-05, 14:37:51](https://news.ycombinator.com/item?id=43895622) - [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html)
+* [2025-05-05, 14:26:26](https://news.ycombinator.com/item?id=43895516) - [Maker of AI 'vibe coding' app Cursor hits $9B valuation](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2)
 * [2025-05-05, 14:20:04](https://news.ycombinator.com/item?id=43895456) - [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
 * [2025-05-05, 14:01:34](https://news.ycombinator.com/item?id=43895237) - [History of \"Adventure\" for the Atari 2600](https://www.atariarchive.org/blog/adventure-march-1980/)
 * [2025-05-05, 13:12:00](https://news.ycombinator.com/item?id=43894753) - [Jiga (YC W21) Is Hiring Engineers](https://www.workatastartup.com/companies/jiga)
