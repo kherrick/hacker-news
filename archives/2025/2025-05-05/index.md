@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-05-05](index.md)
 
+* [2025-05-05, 14:37:51](https://news.ycombinator.com/item?id=43895622) - [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html)
 * [2025-05-05, 14:20:04](https://news.ycombinator.com/item?id=43895456) - [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
+* [2025-05-05, 14:01:34](https://news.ycombinator.com/item?id=43895237) - [History of \"Adventure\" for the Atari 2600](https://www.atariarchive.org/blog/adventure-march-1980/)
 * [2025-05-05, 13:12:00](https://news.ycombinator.com/item?id=43894753) - [Jiga (YC W21) Is Hiring Engineers](https://www.workatastartup.com/companies/jiga)
 * [2025-05-05, 13:02:35](https://news.ycombinator.com/item?id=43894678) - [SpaceX pushed \"sniper\" theory with the feds far more than is publicly known](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/)
 * [2025-05-05, 12:29:21](https://news.ycombinator.com/item?id=43894363) - [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
+* [2025-05-05, 12:22:10](https://news.ycombinator.com/item?id=43894305) - [The Death of Daydreaming: What we lose when phones take away boredom](https://www.afterbabel.com/p/on-the-death-of-daydreaming)
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 11:16:16](https://news.ycombinator.com/item?id=43893762) - [Judge said Meta illegally used books to build its AI](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
 * [2025-05-05, 11:15:32](https://news.ycombinator.com/item?id=43893759) - [Effects of repetitive transcranial magnetic stimulation on sleep bruxism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4822180/)
