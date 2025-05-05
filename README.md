@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-05, 13:12:00](https://news.ycombinator.com/item?id=43894753) - [Jiga (YC W21) Is Hiring Engineers](https://www.workatastartup.com/companies/jiga)
-* [2025-05-05, 13:02:35](https://news.ycombinator.com/item?id=43894678) - [SpaceX pushed \"sniper\" theory with the feds far more than is publicly known](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/)
 * [2025-05-05, 12:29:21](https://news.ycombinator.com/item?id=43894363) - [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 11:16:16](https://news.ycombinator.com/item?id=43893762) - [Judge said Meta illegally used books to build its AI](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
@@ -30,6 +29,7 @@
 * [2025-05-02, 22:28:05](https://news.ycombinator.com/item?id=43875136) - [A 1903 Proposal to Preserve the Dead in Glass Cubes](https://hyperallergic.com/406959/preserving-the-dead-in-glass/)
 * [2025-05-01, 18:10:54](https://news.ycombinator.com/item?id=43861297) - [Towards the Cutest Neural Network](https://kevinlynagh.com/towards-the-cutest-neural-network/)
 * [2025-05-01, 09:27:48](https://news.ycombinator.com/item?id=43855386) - [Urtext: The Python plaintext library for people who've tried everything else](https://urtext.co/)
+* [2025-05-01, 00:16:26](https://news.ycombinator.com/item?id=43852217) - [Thunderscope update: My take: Why open source is better](https://www.crowdsupply.com/eevengers/thunderscope/updates/revving-up-for-production)
 
 ## [Archives](archives/index.md)
 
