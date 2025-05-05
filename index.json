@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-05, 18:08:02",
+      "https://news.ycombinator.com/item?id=43897772"
+    ],
+    [
+      "Evolving OpenAI's Structure",
+      "https://openai.com/index/evolving-our-structure/"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 17:23:36",
       "https://news.ycombinator.com/item?id=43897333"
     ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2025-05-03, 07:03:44",
-      "https://news.ycombinator.com/item?id=43877356"
-    ],
-    [
-      "Circuitpainter: Create PCBs using a simplfiied graphics language",
-      "https://github.com/Blinkinlabs/circuitpainter"
-    ]
-  ],
-  [
-    [
       "2025-05-02, 23:20:59",
       "https://news.ycombinator.com/item?id=43875476"
     ],
     [
-      "Technical analysis of the unofficial Signal app Trump officials used",
+      "Technical analysis of the Signal clone used by Trump officials",
       "https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/"
     ]
   ],
