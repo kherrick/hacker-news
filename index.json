@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-05, 13:12:00",
+      "https://news.ycombinator.com/item?id=43894753"
+    ],
+    [
+      "Jiga (YC W21) Is Hiring Engineers",
+      "https://www.workatastartup.com/companies/jiga"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 12:29:21",
       "https://news.ycombinator.com/item?id=43894363"
     ],
@@ -47,6 +57,26 @@
     [
       "The vocal effects of Daft Punk",
       "https://bjango.com/articles/daftpunkvocaleffects/"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 09:25:45",
+      "https://news.ycombinator.com/item?id=43893225"
+    ],
+    [
+      "The Design of Compact Elastic Binary Trees (Cebtree)",
+      "http://wtarreau.blogspot.com/2025/03/on-design-of-compact-elastic-binary.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 08:43:30",
+      "https://news.ycombinator.com/item?id=43893020"
+    ],
+    [
+      "DNSanity: Quickly validate DNS servers at scale",
+      "https://github.com/nil0x42/dnsanity"
     ]
   ],
   [
@@ -131,6 +161,16 @@
   ],
   [
     [
+      "2025-05-04, 23:11:05",
+      "https://news.ycombinator.com/item?id=43890412"
+    ],
+    [
+      "V.S. Naipaul: The Grief and the Glory",
+      "https://granta.com/vs-naipaul-the-grief-and-the-glory/"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 21:49:40",
       "https://news.ycombinator.com/item?id=43889875"
     ],
@@ -147,16 +187,6 @@
     [
       "Graceful Shutdown in Go: Practical Patterns",
       "https://victoriametrics.com/blog/go-graceful-shutdown/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 21:01:11",
-      "https://news.ycombinator.com/item?id=43889543"
-    ],
-    [
-      "KaiPod Learning (YC S21) Is Hiring VP of Engineering",
-      "https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-05-03, 09:44:21",
-      "https://news.ycombinator.com/item?id=43877923"
-    ],
-    [
-      "Semantic unit testing: test code without executing it",
-      "https://www.alexmolas.com/2025/04/09/semantic-unit-testing.html"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 08:28:23",
       "https://news.ycombinator.com/item?id=43877644"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-05-02, 23:20:59",
-      "https://news.ycombinator.com/item?id=43875476"
-    ],
-    [
-      "Technical analysis of TM SGNL, the unofficial Signal app Trump officials used",
-      "https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/"
-    ]
-  ],
-  [
-    [
       "2025-05-02, 22:28:05",
       "https://news.ycombinator.com/item?id=43875136"
     ],
     [
       "A 1903 Proposal to Preserve the Dead in Glass Cubes",
       "https://hyperallergic.com/406959/preserving-the-dead-in-glass/"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 21:13:07",
-      "https://news.ycombinator.com/item?id=43874641"
-    ],
-    [
-      "Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years apart",
-      "https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart"
     ]
   ],
   [
