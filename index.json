@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-05-05, 01:44:09",
-      "https://news.ycombinator.com/item?id=43891245"
-    ],
-    [
-      "Show HN: My AI Native Resume",
-      "https://ai.jakegaylor.com/"
-    ]
-  ],
-  [
-    [
       "2025-05-04, 23:32:21",
       "https://news.ycombinator.com/item?id=43890525"
     ],
@@ -277,6 +267,16 @@
     [
       "You can now directly sync Postgres with Redis",
       "https://github.com/redfly-ai-org/redfly.ai"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 07:03:44",
+      "https://news.ycombinator.com/item?id=43877356"
+    ],
+    [
+      "Circuitpainter: Create PCBs using a simplfiied graphics language",
+      "https://github.com/Blinkinlabs/circuitpainter"
     ]
   ],
   [
