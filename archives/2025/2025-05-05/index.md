@@ -7,6 +7,7 @@
 * [2025-05-05, 13:12:00](https://news.ycombinator.com/item?id=43894753) - [Jiga (YC W21) Is Hiring Engineers](https://www.workatastartup.com/companies/jiga)
 * [2025-05-05, 12:29:21](https://news.ycombinator.com/item?id=43894363) - [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
+* [2025-05-05, 11:16:16](https://news.ycombinator.com/item?id=43893762) - [Judge said Meta illegally used books to build its AI](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
 * [2025-05-05, 11:15:32](https://news.ycombinator.com/item?id=43893759) - [Effects of repetitive transcranial magnetic stimulation on sleep bruxism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4822180/)
 * [2025-05-05, 11:10:58](https://news.ycombinator.com/item?id=43893740) - [Gandi March 9, 2025 incident postmortem](https://news.gandi.net/en/2025/03/gandi-incident-on-march-9-2025/)
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
