@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-05-04, 19:14:44",
-      "https://news.ycombinator.com/item?id=43888777"
-    ],
-    [
-      "The complicated business of electing a Doge",
-      "https://www.theballotboy.com/electing-the-doge"
-    ]
-  ],
-  [
-    [
       "2025-05-04, 17:43:00",
       "https://news.ycombinator.com/item?id=43888157"
     ],
@@ -157,6 +147,16 @@
     [
       "Typed Lisp, a Primer",
       "https://alhassy.com/TypedLisp.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 16:36:02",
+      "https://news.ycombinator.com/item?id=43887708"
+    ],
+    [
+      "Minimal Linux Bootloader (2018)",
+      "https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm"
     ]
   ],
   [
