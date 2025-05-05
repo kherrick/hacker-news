@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-05, 22:00:02",
+      "https://news.ycombinator.com/item?id=43899878"
+    ],
+    [
+      "2025 Pulitzer Prizes",
+      "https://www.pulitzer.org/prize-winners-by-year/2025"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 20:50:00",
+      "https://news.ycombinator.com/item?id=43899317"
+    ],
+    [
+      "Dreariness Index (2015)",
+      "http://us-climate.blogspot.com/2015/03/dreary-weather.html"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 20:40:14",
       "https://news.ycombinator.com/item?id=43899236"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-05-05, 15:37:26",
-      "https://news.ycombinator.com/item?id=43896228"
-    ],
-    [
-      "No Instagram, no privacy",
-      "https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 15:34:56",
       "https://news.ycombinator.com/item?id=43896199"
     ],
@@ -157,6 +167,16 @@
     [
       "Geometrically understanding calculus of inverse functions (2023)",
       "https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 14:39:48",
+      "https://news.ycombinator.com/item?id=43895637"
+    ],
+    [
+      "You can't git clone a team",
+      "https://virtualize.sh/blog/you-cant-git-clone-a-team/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-05-03, 16:48:12",
-      "https://news.ycombinator.com/item?id=43880308"
-    ],
-    [
-      "Automatically add missing \"async/await\" keywords to your TypeScript code",
-      "https://github.com/stanNthe5/typescript-autoawait"
-    ]
-  ],
-  [
-    [
       "2025-05-02, 23:20:59",
       "https://news.ycombinator.com/item?id=43875476"
     ],
@@ -287,16 +297,6 @@
     [
       "The Uncanny Mirror: AI, Self-Doubt, and the Limits of Reflection",
       "https://www.lucidnonsense.net/p/the-uncanny-mirror"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 06:34:48",
-      "https://news.ycombinator.com/item?id=43866797"
-    ],
-    [
-      "Emergent Misalignment: Narrow Finetuning Can Produce Broadly Misaligned LLMs",
-      "https://www.emergent-misalignment.com/"
     ]
   ]
 ]
