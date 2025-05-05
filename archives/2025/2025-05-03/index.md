@@ -9,6 +9,7 @@
 * [2025-05-03, 22:41:16](https://news.ycombinator.com/item?id=43882962) - [FAA offering more incentives as air traffic controller shortage worsens](https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/)
 * [2025-05-03, 22:29:54](https://news.ycombinator.com/item?id=43882905) - [Google Gemini has the worst LLM API](https://venki.dev/notes/google-gemini-is-bad)
 * [2025-05-03, 22:16:11](https://news.ycombinator.com/item?id=43882809) - [Why I Am Not Going to Buy a Computer (1987) [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
+* [2025-05-03, 22:04:14](https://news.ycombinator.com/item?id=43882740) - [Digitization Complete for World-Renowned Franco Novacco Map Collection](https://www.newberry.org/news/digitization-complete-for-world-renowned-franco-novacco-map-collection)
 * [2025-05-03, 21:22:28](https://news.ycombinator.com/item?id=43882437) - [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
 * [2025-05-03, 21:08:03](https://news.ycombinator.com/item?id=43882336) - [The Unreasonable Effectiveness of Multiple Dispatch in Julia (2019)](https://www.youtube.com/watch?v=kc9HwsxE1OY)
 * [2025-05-03, 21:00:54](https://news.ycombinator.com/item?id=43882287) - [Cyborg cicadas play Pachelbel's Canon](https://arstechnica.com/science/2025/05/cyborg-cicadas-play-pachelbels-canon/)

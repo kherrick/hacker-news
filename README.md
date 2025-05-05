@@ -23,7 +23,7 @@
 * [2025-05-04, 23:11:05](https://news.ycombinator.com/item?id=43890412) - [V.S. Naipaul: The Grief and the Glory](https://granta.com/vs-naipaul-the-grief-and-the-glory/)
 * [2025-05-04, 19:17:28](https://news.ycombinator.com/item?id=43888803) - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 * [2025-05-04, 17:38:13](https://news.ycombinator.com/item?id=43888117) - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
-* [2025-05-03, 16:41:07](https://news.ycombinator.com/item?id=43880248) - [Ghost in the machine? Legend of the 'haunted' N64 video game cartridge](https://www.bbc.com/future/article/20250501-the-haunted-video-game-that-traumatised-the-web)
+* [2025-05-03, 22:04:14](https://news.ycombinator.com/item?id=43882740) - [Digitization Complete for World-Renowned Franco Novacco Map Collection](https://www.newberry.org/news/digitization-complete-for-world-renowned-franco-novacco-map-collection)
 * [2025-05-03, 08:28:23](https://news.ycombinator.com/item?id=43877644) - [Why Archers Didn't Volley Fire](https://acoup.blog/2025/05/02/collections-why-archers-didnt-volley-fire/)
 * [2025-05-03, 07:03:44](https://news.ycombinator.com/item?id=43877356) - [Circuitpainter: Create PCBs using a simplfiied graphics language](https://github.com/Blinkinlabs/circuitpainter)
 * [2025-05-03, 01:20:46](https://news.ycombinator.com/item?id=43876135) - [Fuzzy images are our first look at Amazon's super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
