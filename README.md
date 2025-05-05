@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-05, 06:40:15](https://news.ycombinator.com/item?id=43892481) - [Apple Shortcuts is falling into \"the automation gap\"](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
 * [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 * [2025-05-05, 02:17:12](https://news.ycombinator.com/item?id=43891398) - [Driving Compilers (2023)](https://fabiensanglard.net/dc/index.php)
@@ -11,7 +12,6 @@
 * [2025-05-04, 21:09:16](https://news.ycombinator.com/item?id=43889610) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 * [2025-05-04, 21:01:11](https://news.ycombinator.com/item?id=43889543) - [KaiPod Learning (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
 * [2025-05-04, 19:17:28](https://news.ycombinator.com/item?id=43888803) - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
-* [2025-05-04, 19:14:44](https://news.ycombinator.com/item?id=43888777) - [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
 * [2025-05-04, 17:43:00](https://news.ycombinator.com/item?id=43888157) - [Show HN: Driverless print server for legacy printers, profit goes to open-source](https://printserver.ink/)
 * [2025-05-04, 17:38:13](https://news.ycombinator.com/item?id=43888117) - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
 * [2025-05-04, 17:17:35](https://news.ycombinator.com/item?id=43887998) - [Typed Lisp, a Primer](https://alhassy.com/TypedLisp.html)
