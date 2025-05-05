@@ -11,6 +11,7 @@
 * [2025-05-02, 23:01:28](https://news.ycombinator.com/item?id=43875360) - [Space Invaders on your wrist: the glory years of Casio video game watches](https://www.theguardian.com/games/2025/may/02/space-invaders-casio-video-game-watches)
 * [2025-05-02, 22:42:21](https://news.ycombinator.com/item?id=43875230) - [The Craft 001: A conversation about craft, code, and freedom with Neal Agarwal](https://www.workingtheorys.com/p/the-craft-neal-agarwal)
 * [2025-05-02, 22:28:05](https://news.ycombinator.com/item?id=43875136) - [A 1903 Proposal to Preserve the Dead in Glass Cubes](https://hyperallergic.com/406959/preserving-the-dead-in-glass/)
+* [2025-05-02, 22:27:35](https://news.ycombinator.com/item?id=43875134) - [Kate and Python Language Server](https://akselmo.dev/posts/kate-python-lsp/)
 * [2025-05-02, 21:13:07](https://news.ycombinator.com/item?id=43874641) - [Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years apart](https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart)
 * [2025-05-02, 21:03:52](https://news.ycombinator.com/item?id=43874564) - [Show HN: Kinematic Hand Skeleton Optimization in Jax](https://github.com/rerun-io/pi0-lerobot/tree/hand-kinematic-fitting)
 * [2025-05-02, 21:00:14](https://news.ycombinator.com/item?id=43874534) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)

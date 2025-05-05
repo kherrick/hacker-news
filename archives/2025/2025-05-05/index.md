@@ -9,6 +9,7 @@
 * [2025-05-05, 17:22:40](https://news.ycombinator.com/item?id=43897320) - [As an experienced LLM user, I don't use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
 * [2025-05-05, 17:00:26](https://news.ycombinator.com/item?id=43897138) - [Instant (YC S22) Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
 * [2025-05-05, 16:59:15](https://news.ycombinator.com/item?id=43897129) - [Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL](https://textquery.app/)
+* [2025-05-05, 16:57:43](https://news.ycombinator.com/item?id=43897107) - [Distributed server for social and realtime games and apps](https://github.com/heroiclabs/nakama)
 * [2025-05-05, 16:29:22](https://news.ycombinator.com/item?id=43896820) - [Tuning Timbre Spectrum Scale](https://sethares.engr.wisc.edu/ttss.html)
 * [2025-05-05, 15:52:37](https://news.ycombinator.com/item?id=43896410) - [Show HN: Klavis AI – Open-source MCP integration for AI applications](https://github.com/Klavis-AI/klavis)
 * [2025-05-05, 15:37:26](https://news.ycombinator.com/item?id=43896228) - [No Instagram, No Privacy](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/)
