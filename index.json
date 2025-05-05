@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-05, 17:00:26",
+      "https://news.ycombinator.com/item?id=43897138"
+    ],
+    [
+      "Instant (YC S22) Is Hiring a Founding TypeScript Engineer",
+      "https://www.instantdb.com/hiring/ts-hacker"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 16:59:15",
+      "https://news.ycombinator.com/item?id=43897129"
+    ],
+    [
+      "Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL",
+      "https://textquery.app/"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 16:29:22",
       "https://news.ycombinator.com/item?id=43896820"
     ],
@@ -27,6 +47,16 @@
     [
       "No Instagram, No Privacy",
       "https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 15:34:56",
+      "https://news.ycombinator.com/item?id=43896199"
+    ],
+    [
+      "Dimension 126 Contains Twisted Shapes, Mathematicians Prove",
+      "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/"
     ]
   ],
   [
@@ -61,6 +91,16 @@
   ],
   [
     [
+      "2025-05-05, 14:39:48",
+      "https://news.ycombinator.com/item?id=43895637"
+    ],
+    [
+      "You can't Git clone a team",
+      "https://virtualize.sh/blog/you-cant-git-clone-a-team/"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 14:37:51",
       "https://news.ycombinator.com/item?id=43895622"
     ],
@@ -87,16 +127,6 @@
     [
       "History of \"Adventure\" for the Atari 2600",
       "https://www.atariarchive.org/blog/adventure-march-1980/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 13:12:00",
-      "https://news.ycombinator.com/item?id=43894753"
-    ],
-    [
-      "Jiga (YC W21) Is Hiring Engineers",
-      "https://www.workatastartup.com/companies/jiga"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "The Design of Compact Elastic Binary Trees (Cebtree)",
       "http://wtarreau.blogspot.com/2025/03/on-design-of-compact-elastic-binary.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 08:08:37",
-      "https://news.ycombinator.com/item?id=43892856"
-    ],
-    [
-      "Show HN: CodeCafé – A real-time collaborative code editor in the browser",
-      "https://github.com/mrktsm/codecafe"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-05-03, 16:41:07",
-      "https://news.ycombinator.com/item?id=43880248"
-    ],
-    [
-      "Ghost in the machine? Legend of the 'haunted' N64 video game cartridge",
-      "https://www.bbc.com/future/article/20250501-the-haunted-video-game-that-traumatised-the-web"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 08:28:23",
       "https://news.ycombinator.com/item?id=43877644"
     ],
@@ -287,16 +297,6 @@
     [
       "Emergent Misalignment: Narrow Finetuning Can Produce Broadly Misaligned LLMs",
       "https://www.emergent-misalignment.com/"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 18:10:54",
-      "https://news.ycombinator.com/item?id=43861297"
-    ],
-    [
-      "Towards the Cutest Neural Network",
-      "https://kevinlynagh.com/towards-the-cutest-neural-network/"
     ]
   ]
 ]
