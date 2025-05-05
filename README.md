@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-05, 13:12:00](https://news.ycombinator.com/item?id=43894753) - [Jiga (YC W21) Is Hiring Engineers](https://www.workatastartup.com/companies/jiga)
+* [2025-05-05, 13:02:35](https://news.ycombinator.com/item?id=43894678) - [SpaceX pushed \"sniper\" theory with the feds far more than is publicly known](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/)
 * [2025-05-05, 12:29:21](https://news.ycombinator.com/item?id=43894363) - [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 11:16:16](https://news.ycombinator.com/item?id=43893762) - [Judge said Meta illegally used books to build its AI](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
@@ -9,7 +10,6 @@
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 * [2025-05-05, 09:25:45](https://news.ycombinator.com/item?id=43893225) - [The Design of Compact Elastic Binary Trees (Cebtree)](http://wtarreau.blogspot.com/2025/03/on-design-of-compact-elastic-binary.html)
 * [2025-05-05, 08:08:37](https://news.ycombinator.com/item?id=43892856) - [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
-* [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 * [2025-05-05, 02:17:12](https://news.ycombinator.com/item?id=43891398) - [Driving Compilers (2023)](https://fabiensanglard.net/dc/index.php)
 * [2025-05-05, 01:44:09](https://news.ycombinator.com/item?id=43891245) - [Show HN: My AI Native Resume](https://ai.jakegaylor.com/)
