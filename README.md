@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-05, 09:47:04](https://news.ycombinator.com/item?id=43893310) - [100% Tariff on Foreign Movies](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies)
+* [2025-05-05, 08:08:37](https://news.ycombinator.com/item?id=43892856) - [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
 * [2025-05-05, 06:40:15](https://news.ycombinator.com/item?id=43892481) - [Apple Shortcuts is falling into \"the automation gap\"](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
 * [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
@@ -16,7 +17,6 @@
 * [2025-05-04, 17:38:13](https://news.ycombinator.com/item?id=43888117) - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
 * [2025-05-04, 17:17:35](https://news.ycombinator.com/item?id=43887998) - [Typed Lisp, a Primer](https://alhassy.com/TypedLisp.html)
 * [2025-05-04, 16:26:28](https://news.ycombinator.com/item?id=43887637) - [Dummy's Guide to Modern LLM Sampling](https://rentry.co/samplers)
-* [2025-05-04, 12:37:52](https://news.ycombinator.com/item?id=43886368) - [Nevermind, an album on major chords](https://farina00.github.io/essays/nevermind/)
 * [2025-05-04, 12:02:35](https://news.ycombinator.com/item?id=43886243) - [An Alabama landline that keeps ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
 * [2025-05-04, 08:54:44](https://news.ycombinator.com/item?id=43885478) - [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
 * [2025-05-03, 16:41:07](https://news.ycombinator.com/item?id=43880248) - [Ghost in the machine? Legend of the 'haunted' N64 video game cartridge](https://www.bbc.com/future/article/20250501-the-haunted-video-game-that-traumatised-the-web)
