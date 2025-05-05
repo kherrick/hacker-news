@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-05, 22:00:02](https://news.ycombinator.com/item?id=43899878) - [2025 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2025)
 * [2025-05-05, 20:50:00](https://news.ycombinator.com/item?id=43899317) - [Dreariness Index (2015)](http://us-climate.blogspot.com/2015/03/dreary-weather.html)
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 * [2025-05-05, 20:17:32](https://news.ycombinator.com/item?id=43899028) - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
@@ -25,6 +24,7 @@
 * [2025-05-05, 12:06:11](https://news.ycombinator.com/item?id=43894175) - [The Beauty of Having a Pi-Hole (2024)](https://den.dev/blog/pihole/)
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
+* [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 * [2025-05-04, 11:05:10](https://news.ycombinator.com/item?id=43886023) - [Show HN: Journelly for iOS: like tweeting but for your eyes only (in plain text)](https://xenodium.com/journelly-like-tweeting-but-for-your-eyes-only)
 * [2025-05-03, 18:53:40](https://news.ycombinator.com/item?id=43881211) - [\"An independent journalist\" who won't remain nameless](https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of the Signal clone used by Trump officials](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
