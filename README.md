@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-05, 20:50:00](https://news.ycombinator.com/item?id=43899317) - [Dreariness Index (2015)](http://us-climate.blogspot.com/2015/03/dreary-weather.html)
+* [2025-05-05, 22:59:01](https://news.ycombinator.com/item?id=43900233) - [Air traffic controllers couldn't see or talk to planes in Newark failure](https://www.cnbc.com/2025/05/05/air-traffic-controllers-newark-airport-delays.html)
+* [2025-05-05, 22:13:50](https://news.ycombinator.com/item?id=43899959) - [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 * [2025-05-05, 20:17:32](https://news.ycombinator.com/item?id=43899028) - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
 * [2025-05-05, 20:16:29](https://news.ycombinator.com/item?id=43899016) - [Databricks in Talks to Acquire Startup Neon for About $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
@@ -10,7 +11,6 @@
 * [2025-05-05, 17:22:40](https://news.ycombinator.com/item?id=43897320) - [As an experienced LLM user, I don't use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
 * [2025-05-05, 17:00:26](https://news.ycombinator.com/item?id=43897138) - [Instant (YC S22) Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
 * [2025-05-05, 16:59:15](https://news.ycombinator.com/item?id=43897129) - [Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL](https://textquery.app/)
-* [2025-05-05, 16:29:22](https://news.ycombinator.com/item?id=43896820) - [Tuning Timbre Spectrum Scale](https://sethares.engr.wisc.edu/ttss.html)
 * [2025-05-05, 15:52:37](https://news.ycombinator.com/item?id=43896410) - [Show HN: Klavis AI – Open-source MCP integration for AI applications](https://github.com/Klavis-AI/klavis)
 * [2025-05-05, 15:34:56](https://news.ycombinator.com/item?id=43896199) - [Dimension 126 Contains Twisted Shapes, Mathematicians Prove](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/)
 * [2025-05-05, 15:33:57](https://news.ycombinator.com/item?id=43896188) - [How are cyber criminals rolling in 2025?](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html)
