@@ -27,9 +27,9 @@
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 * [2025-05-04, 11:05:10](https://news.ycombinator.com/item?id=43886023) - [Show HN: Journelly for iOS: like tweeting but for your eyes only (in plain text)](https://xenodium.com/journelly-like-tweeting-but-for-your-eyes-only)
 * [2025-05-03, 18:53:40](https://news.ycombinator.com/item?id=43881211) - [\"An independent journalist\" who won't remain nameless](https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit)
+* [2025-05-03, 17:06:57](https://news.ycombinator.com/item?id=43880472) - [How Kim Jong Il Kidnapped a Director, Made a Cult Hit Godzilla Knockoff (2015)](https://www.vanityfair.com/hollywood/2015/04/pulgasari-north-korea-cult-hit)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of the Signal clone used by Trump officials](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
 * [2025-05-02, 22:27:35](https://news.ycombinator.com/item?id=43875134) - [Kate and Python Language Server](https://akselmo.dev/posts/kate-python-lsp/)
-* [2025-05-02, 06:36:33](https://news.ycombinator.com/item?id=43866810) - [The Uncanny Mirror: AI, Self-Doubt, and the Limits of Reflection](https://www.lucidnonsense.net/p/the-uncanny-mirror)
 
 ## [Archives](archives/index.md)
 
