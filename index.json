@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-05, 17:23:36",
+      "https://news.ycombinator.com/item?id=43897333"
+    ],
+    [
+      "The Creative Power of Constraints",
+      "https://arun.is/blog/creative-power-constraints/"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 17:22:40",
       "https://news.ycombinator.com/item?id=43897320"
     ],
@@ -267,16 +277,6 @@
     [
       "You can now directly sync Postgres with Redis",
       "https://github.com/redfly-ai-org/redfly.ai"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 07:03:44",
-      "https://news.ycombinator.com/item?id=43877356"
-    ],
-    [
-      "Circuitpainter: Create PCBs using a simplfiied graphics language",
-      "https://github.com/Blinkinlabs/circuitpainter"
     ]
   ],
   [
