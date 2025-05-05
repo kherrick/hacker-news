@@ -18,6 +18,7 @@
 * [2025-05-02, 19:09:22](https://news.ycombinator.com/item?id=43873604) - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
 * [2025-05-02, 19:02:01](https://news.ycombinator.com/item?id=43873531) - [Images of Soviet Venus lander falling to Earth suggest its parachute may be out](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
 * [2025-05-02, 18:55:42](https://news.ycombinator.com/item?id=43873465) - [The Impossible Contradictions of Mark Twain](https://www.newyorker.com/magazine/2025/05/05/mark-twain-ron-chernow-book-review)
+* [2025-05-02, 18:31:55](https://news.ycombinator.com/item?id=43873244) - [TLA+ creator Leslie Lamport: 'Programmers need abstractions'](https://thenewstack.io/tla-creator-leslie-lamport-programmers-need-abstractions/)
 * [2025-05-02, 18:12:15](https://news.ycombinator.com/item?id=43873074) - [Show HN: I built a synthesizer based on 3D physics and launched the product](https://anukari.com)
 * [2025-05-02, 18:02:51](https://news.ycombinator.com/item?id=43872990) - [The first driverless semis have started running regular longhaul routes](https://www.cnn.com/2025/05/01/business/first-driverless-semis-started-regular-routes)
 * [2025-05-02, 17:59:17](https://news.ycombinator.com/item?id=43872946) - [Rams is a documentary portrait of Dieter Rams (2018)](https://www.hustwit.com/rams)
