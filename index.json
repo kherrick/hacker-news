@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-05, 14:20:04",
+      "https://news.ycombinator.com/item?id=43895456"
+    ],
+    [
+      "Show HN: Bracket – selfhosted tournament system",
+      "https://github.com/evroon/bracket"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 13:12:00",
       "https://news.ycombinator.com/item?id=43894753"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-05-04, 07:13:47",
-      "https://news.ycombinator.com/item?id=43885101"
-    ],
-    [
-      "I decided to pay off a school’s lunch debt",
-      "https://www.huffpost.com/entry/utah-school-lunch-debt-relief-free-student-meals_n_681258fbe4b03207b5ba49fa"
-    ]
-  ],
-  [
-    [
       "2025-05-03, 16:41:07",
       "https://news.ycombinator.com/item?id=43880248"
     ],
@@ -237,6 +237,16 @@
     [
       "Why Archers Didn't Volley Fire",
       "https://acoup.blog/2025/05/02/collections-why-archers-didnt-volley-fire/"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 07:03:44",
+      "https://news.ycombinator.com/item?id=43877356"
+    ],
+    [
+      "Circuitpainter: Create PCBs using a simplfiied graphics language",
+      "https://github.com/Blinkinlabs/circuitpainter"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Urtext: The Python plaintext library for people who've tried everything else",
       "https://urtext.co/"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 00:16:26",
-      "https://news.ycombinator.com/item?id=43852217"
-    ],
-    [
-      "Thunderscope update: My take: Why open source is better",
-      "https://www.crowdsupply.com/eevengers/thunderscope/updates/revving-up-for-production"
     ]
   ]
 ]
