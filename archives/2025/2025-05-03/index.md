@@ -52,6 +52,7 @@
 * [2025-05-03, 12:44:17](https://news.ycombinator.com/item?id=43878704) - [Vuntra City](https://vuntracity.com/)
 * [2025-05-03, 11:52:12](https://news.ycombinator.com/item?id=43878461) - [Show HN: Use Third Party LLM API in JetBrains AI Assistant](https://github.com/Stream29/ProxyAsLocalModel)
 * [2025-05-03, 10:54:24](https://news.ycombinator.com/item?id=43878191) - [Speedrunning and Modding the Incredibles: Rise of the Underminer](https://farlow.dev/2025/05/02/rotu)
+* [2025-05-03, 09:44:21](https://news.ycombinator.com/item?id=43877923) - [Semantic unit testing: test code without executing it](https://www.alexmolas.com/2025/04/09/semantic-unit-testing.html)
 * [2025-05-03, 09:37:14](https://news.ycombinator.com/item?id=43877907) - [We know a little more about Amazon's super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
 * [2025-05-03, 09:08:31](https://news.ycombinator.com/item?id=43877797) - [Minimum Viable Blog](https://ostwilkens.se/blog/setting-up-blog)
 * [2025-05-03, 08:28:23](https://news.ycombinator.com/item?id=43877644) - [Why Archers Didn't Volley Fire](https://acoup.blog/2025/05/02/collections-why-archers-didnt-volley-fire/)
