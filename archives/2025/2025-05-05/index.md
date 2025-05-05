@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-05](index.md)
 
+* [2025-05-05, 12:29:21](https://news.ycombinator.com/item?id=43894363) - [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
+* [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 11:15:32](https://news.ycombinator.com/item?id=43893759) - [Effects of repetitive transcranial magnetic stimulation on sleep bruxism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4822180/)
+* [2025-05-05, 11:10:58](https://news.ycombinator.com/item?id=43893740) - [Gandi March 9, 2025 incident postmortem](https://news.gandi.net/en/2025/03/gandi-incident-on-march-9-2025/)
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 * [2025-05-05, 09:47:04](https://news.ycombinator.com/item?id=43893310) - [100% Tariff on Foreign Movies](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies)
 * [2025-05-05, 08:28:40](https://news.ycombinator.com/item?id=43892964) - [EU to ban anonymous crypto accounts and privacy coins by 2027](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027)

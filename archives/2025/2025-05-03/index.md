@@ -65,4 +65,5 @@
 * [2025-05-03, 03:04:41](https://news.ycombinator.com/item?id=43876566) - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
 * [2025-05-03, 02:27:43](https://news.ycombinator.com/item?id=43876414) - [Creating Bluey: Tales from the Art Director](https://substack.com/home/post/p-160238071)
 * [2025-05-03, 01:46:54](https://news.ycombinator.com/item?id=43876243) - [I put sheet music into smart glasses [video]](https://www.youtube.com/watch?v=j36u2i7PKKE)
+* [2025-05-03, 01:20:46](https://news.ycombinator.com/item?id=43876135) - [Fuzzy images are our first look at Amazon's super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
 * [2025-05-03, 01:12:44](https://news.ycombinator.com/item?id=43876084) - [I turned a 40 year old Apple Mouse into a speech to text button](https://workshop.cjpais.com/projects/handy-m0100)
