@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-05](index.md)
 
 * [2025-05-05, 18:08:02](https://news.ycombinator.com/item?id=43897772) - [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)
+* [2025-05-05, 18:02:20](https://news.ycombinator.com/item?id=43897719) - [Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python](https://github.com/leontrolski/tkintergalactic)
 * [2025-05-05, 17:23:36](https://news.ycombinator.com/item?id=43897333) - [The Creative Power of Constraints](https://arun.is/blog/creative-power-constraints/)
 * [2025-05-05, 17:22:40](https://news.ycombinator.com/item?id=43897320) - [As an experienced LLM user, I don't use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
 * [2025-05-05, 17:00:26](https://news.ycombinator.com/item?id=43897138) - [Instant (YC S22) Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
