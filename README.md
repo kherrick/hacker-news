@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-05, 02:17:12](https://news.ycombinator.com/item?id=43891398) - [Driving Compilers (2023)](https://fabiensanglard.net/dc/index.php)
 * [2025-05-05, 01:44:09](https://news.ycombinator.com/item?id=43891245) - [Show HN: My AI Native Resume](https://ai.jakegaylor.com/)
 * [2025-05-04, 23:35:30](https://news.ycombinator.com/item?id=43890538) - [Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs](https://arxiv.org/abs/2503.23817)
 * [2025-05-04, 23:32:21](https://news.ycombinator.com/item?id=43890525) - [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera)
@@ -18,7 +19,6 @@
 * [2025-05-04, 13:21:33](https://news.ycombinator.com/item?id=43886552) - [A Texan who built an empire of ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
 * [2025-05-04, 12:02:35](https://news.ycombinator.com/item?id=43886243) - [An Alabama landline that keeps ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
 * [2025-05-04, 08:54:44](https://news.ycombinator.com/item?id=43885478) - [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
-* [2025-05-04, 02:03:40](https://news.ycombinator.com/item?id=43883902) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 * [2025-05-03, 21:00:54](https://news.ycombinator.com/item?id=43882287) - [Cyborg cicadas play Pachelbel's Canon](https://arstechnica.com/science/2025/05/cyborg-cicadas-play-pachelbels-canon/)
 * [2025-05-03, 08:28:23](https://news.ycombinator.com/item?id=43877644) - [Why Archers Didn't Volley Fire](https://acoup.blog/2025/05/02/collections-why-archers-didnt-volley-fire/)
 * [2025-05-03, 03:49:35](https://news.ycombinator.com/item?id=43876725) - [The Once and Future Genius](https://literaryreview.co.uk/the-once-future-genius)
