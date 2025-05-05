@@ -75,6 +75,7 @@
 * [2025-05-01, 11:54:04](https://news.ycombinator.com/item?id=43856489) - [How to vibe code for free: Running Qwen3 on your Mac, using MLX](https://localforge.dev/blog/running-qwen3-macbook-mlx)
 * [2025-05-01, 11:15:08](https://news.ycombinator.com/item?id=43856186) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 10:28:05](https://news.ycombinator.com/item?id=43855838) - [Owen Le Blanc: creator of the first Linux distribution](https://lwn.net/Articles/1017846/)
+* [2025-05-01, 09:27:48](https://news.ycombinator.com/item?id=43855386) - [Urtext: The Python plaintext library for people who've tried everything else](https://urtext.co/)
 * [2025-05-01, 09:16:54](https://news.ycombinator.com/item?id=43855304) - [Microsoft gets twitchy over talk of Europe's tech independence](https://www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/)
 * [2025-05-01, 07:51:39](https://news.ycombinator.com/item?id=43854776) - [When ChatGPT Broke an Entire Field: An Oral History](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/)
 * [2025-05-01, 07:02:02](https://news.ycombinator.com/item?id=43854498) - [Dropbox will require App Indicator support on Linux](https://help.dropbox.com/installs/dropbox-desktop-app-for-linux)
