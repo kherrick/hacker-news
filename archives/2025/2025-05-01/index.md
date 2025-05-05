@@ -22,6 +22,7 @@
 * [2025-05-01, 18:44:49](https://news.ycombinator.com/item?id=43861771) - [London's National Gallery purchases a painting by an unknown artist for $20M](https://www.theartnewspaper.com/2025/05/01/national-gallery-buys-mysterious-altarpiece-for-20m)
 * [2025-05-01, 18:36:58](https://news.ycombinator.com/item?id=43861669) - [C++26: more constexpr in the standard library](https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes)
 * [2025-05-01, 18:29:43](https://news.ycombinator.com/item?id=43861566) - [Open-source AI platform for ear-based sensing applications](https://open-earable.teco.edu/)
+* [2025-05-01, 18:10:54](https://news.ycombinator.com/item?id=43861297) - [Towards the Cutest Neural Network](https://kevinlynagh.com/towards-the-cutest-neural-network/)
 * [2025-05-01, 18:06:49](https://news.ycombinator.com/item?id=43861253) - [The future of solar doesn't track the sun](https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/)
 * [2025-05-01, 18:05:32](https://news.ycombinator.com/item?id=43861234) - [The Design Evolution of Mailboxes](https://www.core77.com/posts/136597/The-Design-Evolution-of-Mailboxes)
 * [2025-05-01, 18:03:33](https://news.ycombinator.com/item?id=43861207) - [Achieving Human Level Competitive Robot Table Tennis](https://sites.google.com/view/competitive-robot-table-tennis/home?pli=1)
