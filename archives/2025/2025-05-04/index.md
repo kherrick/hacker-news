@@ -8,6 +8,7 @@
 * [2025-05-04, 23:35:30](https://news.ycombinator.com/item?id=43890538) - [Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs](https://arxiv.org/abs/2503.23817)
 * [2025-05-04, 23:32:21](https://news.ycombinator.com/item?id=43890525) - [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera)
 * [2025-05-04, 23:28:36](https://news.ycombinator.com/item?id=43890502) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
+* [2025-05-04, 23:11:05](https://news.ycombinator.com/item?id=43890412) - [V.S. Naipaul: The Grief and the Glory](https://granta.com/vs-naipaul-the-grief-and-the-glory/)
 * [2025-05-04, 22:23:19](https://news.ycombinator.com/item?id=43890108) - [Censoring Social Media](https://www.tbray.org/ongoing/When/202x/2025/04/28/Censoring-Social-Media)
 * [2025-05-04, 21:49:40](https://news.ycombinator.com/item?id=43889875) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:09:16](https://news.ycombinator.com/item?id=43889610) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
