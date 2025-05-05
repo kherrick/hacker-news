@@ -31,6 +31,7 @@
 * [2025-05-03, 17:19:47](https://news.ycombinator.com/item?id=43880560) - [Burning Mao](https://granta.com/burning-mao/)
 * [2025-05-03, 17:19:07](https://news.ycombinator.com/item?id=43880554) - [MathML with Pandoc](https://leancrew.com/all-this/2025/05/mathml-with-pandoc/)
 * [2025-05-03, 17:00:20](https://news.ycombinator.com/item?id=43880414) - [Stellar Sleep (YC S23) is hiring a product engineer in SF](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
+* [2025-05-03, 16:48:12](https://news.ycombinator.com/item?id=43880308) - [Automatically add missing \"async/await\" keywords to your TypeScript code](https://github.com/stanNthe5/typescript-autoawait)
 * [2025-05-03, 16:41:07](https://news.ycombinator.com/item?id=43880248) - [Ghost in the machine? Legend of the 'haunted' N64 video game cartridge](https://www.bbc.com/future/article/20250501-the-haunted-video-game-that-traumatised-the-web)
 * [2025-05-03, 16:20:39](https://news.ycombinator.com/item?id=43880068) - [How LWN is faring in 2025](https://lwn.net/Articles/1019217/)
 * [2025-05-03, 15:46:56](https://news.ycombinator.com/item?id=43879846) - [Where Do Scientists Think This Is All Going?](https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/)
