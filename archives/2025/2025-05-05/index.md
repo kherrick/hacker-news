@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-05](index.md)
 
+* [2025-05-05, 09:47:04](https://news.ycombinator.com/item?id=43893310) - [100% Tariff on Foreign Movies](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies)
 * [2025-05-05, 08:28:40](https://news.ycombinator.com/item?id=43892964) - [EU to ban anonymous crypto accounts and privacy coins by 2027](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027)
 * [2025-05-05, 06:40:15](https://news.ycombinator.com/item?id=43892481) - [Apple Shortcuts is falling into \"the automation gap\"](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
 * [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)
