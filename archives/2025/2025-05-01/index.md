@@ -50,6 +50,7 @@
 * [2025-05-01, 15:01:44](https://news.ycombinator.com/item?id=43858568) - [Starting July 1, Academic Publishers Can't Paywall NIH-Funded Research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
 * [2025-05-01, 15:00:46](https://news.ycombinator.com/item?id=43858554) - [Ask HN: Who is hiring? (May 2025)](https://news.ycombinator.com/item?id=43858554)
 * [2025-05-01, 15:00:46](https://news.ycombinator.com/item?id=43858552) - [Ask HN: Who wants to be hired? (May 2025)](https://news.ycombinator.com/item?id=43858552)
+* [2025-05-01, 14:58:16](https://news.ycombinator.com/item?id=43858521) - [Mines: A simple mine puzzle game inspired by classic minesweeper](https://stefan-oltmann.de/mines/)
 * [2025-05-01, 14:55:55](https://news.ycombinator.com/item?id=43858495) - [Something Alarming Is Happening to the Job Market](https://www.theatlantic.com/economy/archive/2025/04/job-market-youth/682641/)
 * [2025-05-01, 14:53:34](https://news.ycombinator.com/item?id=43858462) - [We identified a North Korean hacker who tried to get a job at Kraken](https://blog.kraken.com/news/how-we-identified-a-north-korean-hacker)
 * [2025-05-01, 14:51:43](https://news.ycombinator.com/item?id=43858442) - [Are You the Same Person You Used to Be?](https://www.newyorker.com/magazine/2022/10/10/are-you-the-same-person-you-used-to-be-life-is-hard-the-origins-of-you)
