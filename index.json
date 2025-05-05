@@ -151,22 +151,22 @@
   ],
   [
     [
+      "2025-05-04, 16:36:02",
+      "https://news.ycombinator.com/item?id=43887708"
+    ],
+    [
+      "Minimal Linux Bootloader (2018)",
+      "https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 16:26:28",
       "https://news.ycombinator.com/item?id=43887637"
     ],
     [
       "Dummy's Guide to Modern LLM Sampling",
       "https://rentry.co/samplers"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 13:29:55",
-      "https://news.ycombinator.com/item?id=43886601"
-    ],
-    [
-      "TScale – Distributed training on consumer GPUs",
-      "https://github.com/Foreseerr/TScale"
     ]
   ],
   [
