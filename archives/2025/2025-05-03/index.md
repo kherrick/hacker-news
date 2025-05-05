@@ -54,6 +54,7 @@
 * [2025-05-03, 12:50:55](https://news.ycombinator.com/item?id=43878728) - [Seeking an Answer: Why can't HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
 * [2025-05-03, 12:44:17](https://news.ycombinator.com/item?id=43878704) - [Vuntra City](https://vuntracity.com/)
 * [2025-05-03, 11:52:12](https://news.ycombinator.com/item?id=43878461) - [Show HN: Use Third Party LLM API in JetBrains AI Assistant](https://github.com/Stream29/ProxyAsLocalModel)
+* [2025-05-03, 11:16:09](https://news.ycombinator.com/item?id=43878298) - [Flies in the evidence room: Inside Belgium's rotting Justice Palace](https://www.ft.com/content/0b72735a-b587-4dd3-a1ac-2805c89f5d2f)
 * [2025-05-03, 10:54:24](https://news.ycombinator.com/item?id=43878191) - [Speedrunning and Modding the Incredibles: Rise of the Underminer](https://farlow.dev/2025/05/02/rotu)
 * [2025-05-03, 09:44:21](https://news.ycombinator.com/item?id=43877923) - [Semantic unit testing: test code without executing it](https://www.alexmolas.com/2025/04/09/semantic-unit-testing.html)
 * [2025-05-03, 09:37:14](https://news.ycombinator.com/item?id=43877907) - [We know a little more about Amazon's super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
