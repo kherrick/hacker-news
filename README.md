@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-05, 22:00:02](https://news.ycombinator.com/item?id=43899878) - [2025 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2025)
+* [2025-05-05, 20:50:00](https://news.ycombinator.com/item?id=43899317) - [Dreariness Index (2015)](http://us-climate.blogspot.com/2015/03/dreary-weather.html)
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 * [2025-05-05, 20:17:32](https://news.ycombinator.com/item?id=43899028) - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
 * [2025-05-05, 20:16:29](https://news.ycombinator.com/item?id=43899016) - [Databricks in Talks to Acquire Startup Neon for About $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
@@ -11,11 +13,11 @@
 * [2025-05-05, 16:59:15](https://news.ycombinator.com/item?id=43897129) - [Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL](https://textquery.app/)
 * [2025-05-05, 16:29:22](https://news.ycombinator.com/item?id=43896820) - [Tuning Timbre Spectrum Scale](https://sethares.engr.wisc.edu/ttss.html)
 * [2025-05-05, 15:52:37](https://news.ycombinator.com/item?id=43896410) - [Show HN: Klavis AI – Open-source MCP integration for AI applications](https://github.com/Klavis-AI/klavis)
-* [2025-05-05, 15:37:26](https://news.ycombinator.com/item?id=43896228) - [No Instagram, no privacy](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/)
 * [2025-05-05, 15:34:56](https://news.ycombinator.com/item?id=43896199) - [Dimension 126 Contains Twisted Shapes, Mathematicians Prove](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/)
 * [2025-05-05, 15:33:57](https://news.ycombinator.com/item?id=43896188) - [How are cyber criminals rolling in 2025?](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html)
 * [2025-05-05, 15:17:33](https://news.ycombinator.com/item?id=43896011) - [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
 * [2025-05-05, 15:01:30](https://news.ycombinator.com/item?id=43895852) - [Geometrically understanding calculus of inverse functions (2023)](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1)
+* [2025-05-05, 14:39:48](https://news.ycombinator.com/item?id=43895637) - [You can't git clone a team](https://virtualize.sh/blog/you-cant-git-clone-a-team/)
 * [2025-05-05, 14:37:51](https://news.ycombinator.com/item?id=43895622) - [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html)
 * [2025-05-05, 14:20:04](https://news.ycombinator.com/item?id=43895456) - [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
 * [2025-05-05, 14:01:34](https://news.ycombinator.com/item?id=43895237) - [History of \"Adventure\" for the Atari 2600](https://www.atariarchive.org/blog/adventure-march-1980/)
@@ -25,11 +27,9 @@
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 * [2025-05-04, 11:05:10](https://news.ycombinator.com/item?id=43886023) - [Show HN: Journelly for iOS: like tweeting but for your eyes only (in plain text)](https://xenodium.com/journelly-like-tweeting-but-for-your-eyes-only)
-* [2025-05-03, 16:48:12](https://news.ycombinator.com/item?id=43880308) - [Automatically add missing \"async/await\" keywords to your TypeScript code](https://github.com/stanNthe5/typescript-autoawait)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of the Signal clone used by Trump officials](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
 * [2025-05-02, 22:27:35](https://news.ycombinator.com/item?id=43875134) - [Kate and Python Language Server](https://akselmo.dev/posts/kate-python-lsp/)
 * [2025-05-02, 06:36:33](https://news.ycombinator.com/item?id=43866810) - [The Uncanny Mirror: AI, Self-Doubt, and the Limits of Reflection](https://www.lucidnonsense.net/p/the-uncanny-mirror)
-* [2025-05-02, 06:34:48](https://news.ycombinator.com/item?id=43866797) - [Emergent Misalignment: Narrow Finetuning Can Produce Broadly Misaligned LLMs](https://www.emergent-misalignment.com/)
 
 ## [Archives](archives/index.md)
 
