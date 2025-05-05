@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-05, 22:59:01](https://news.ycombinator.com/item?id=43900233) - [Air traffic controllers couldn't see or talk to planes in Newark failure](https://www.cnbc.com/2025/05/05/air-traffic-controllers-newark-airport-delays.html)
 * [2025-05-05, 22:13:50](https://news.ycombinator.com/item?id=43899959) - [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 * [2025-05-05, 20:17:32](https://news.ycombinator.com/item?id=43899028) - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
@@ -30,6 +29,7 @@
 * [2025-05-03, 17:06:57](https://news.ycombinator.com/item?id=43880472) - [How Kim Jong Il Kidnapped a Director, Made a Cult Hit Godzilla Knockoff (2015)](https://www.vanityfair.com/hollywood/2015/04/pulgasari-north-korea-cult-hit)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of the Signal clone used by Trump officials](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
 * [2025-05-02, 22:27:35](https://news.ycombinator.com/item?id=43875134) - [Kate and Python Language Server](https://akselmo.dev/posts/kate-python-lsp/)
+* [2025-05-02, 06:36:33](https://news.ycombinator.com/item?id=43866810) - [The Uncanny Mirror: AI, Self-Doubt, and the Limits of Reflection](https://www.lucidnonsense.net/p/the-uncanny-mirror)
 
 ## [Archives](archives/index.md)
 
