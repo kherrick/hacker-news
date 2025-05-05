@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-05-05, 14:39:48",
-      "https://news.ycombinator.com/item?id=43895637"
-    ],
-    [
-      "You can't Git clone a team",
-      "https://virtualize.sh/blog/you-cant-git-clone-a-team/"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 14:37:51",
       "https://news.ycombinator.com/item?id=43895622"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-05-05, 05:11:51",
+      "https://news.ycombinator.com/item?id=43892096"
+    ],
+    [
+      "AI Meets WinDBG",
+      "https://svnscha.de/posts/ai-meets-windbg/"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 11:05:10",
       "https://news.ycombinator.com/item?id=43886023"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-05-03, 11:16:09",
-      "https://news.ycombinator.com/item?id=43878298"
+      "2025-05-03, 16:48:12",
+      "https://news.ycombinator.com/item?id=43880308"
     ],
     [
-      "Flies in the evidence room: Inside Belgium's rotting Justice Palace",
-      "https://www.ft.com/content/0b72735a-b587-4dd3-a1ac-2805c89f5d2f"
+      "Automatically add missing \"async/await\" keywords to your TypeScript code",
+      "https://github.com/stanNthe5/typescript-autoawait"
     ]
   ],
   [
