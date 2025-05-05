@@ -20,7 +20,7 @@
 * [2025-05-05, 14:01:34](https://news.ycombinator.com/item?id=43895237) - [History of \"Adventure\" for the Atari 2600](https://www.atariarchive.org/blog/adventure-march-1980/)
 * [2025-05-05, 12:29:21](https://news.ycombinator.com/item?id=43894363) - [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
 * [2025-05-05, 12:22:10](https://news.ycombinator.com/item?id=43894305) - [The Death of Daydreaming](https://www.afterbabel.com/p/on-the-death-of-daydreaming)
-* [2025-05-05, 12:06:11](https://news.ycombinator.com/item?id=43894175) - [The Beauty of Having a Pi-Hole](https://den.dev/blog/pihole/)
+* [2025-05-05, 12:06:11](https://news.ycombinator.com/item?id=43894175) - [The Beauty of Having a Pi-Hole (2024)](https://den.dev/blog/pihole/)
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
