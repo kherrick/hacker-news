@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 23:54:17](https://news.ycombinator.com/item?id=43890649) - [People are losing loved ones to AI-fueled spiritual fantasies](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/)
+* [2025-05-04, 23:32:21](https://news.ycombinator.com/item?id=43890525) - [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera)
 * [2025-05-04, 23:28:36](https://news.ycombinator.com/item?id=43890502) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
+* [2025-05-04, 22:23:19](https://news.ycombinator.com/item?id=43890108) - [Censoring Social Media](https://www.tbray.org/ongoing/When/202x/2025/04/28/Censoring-Social-Media)
 * [2025-05-04, 21:49:40](https://news.ycombinator.com/item?id=43889875) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:09:16](https://news.ycombinator.com/item?id=43889610) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 * [2025-05-04, 21:01:11](https://news.ycombinator.com/item?id=43889543) - [KaiPod Learning (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
