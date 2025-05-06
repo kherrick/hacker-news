@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-06, 13:22:37](https://news.ycombinator.com/item?id=43904816) - [WWII Aircraft Recognition Posters](https://store.pacificwarmuseum.org/products/wwii-aircraft-recognition-posters)
 * [2025-05-06, 13:08:07](https://news.ycombinator.com/item?id=43904664) - [Vibe Coding Is Fun–But Vibe Refactoring Pays the Bills](https://dawidmakowski.com/en/2025/04/vibe-coding-is-fun-but-vibe-refactoring-pays-the-bills/)
 * [2025-05-06, 12:18:20](https://news.ycombinator.com/item?id=43904233) - [OpenAI reaches agreement to buy Windsurf for around $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-06, 11:38:44](https://news.ycombinator.com/item?id=43903959) - [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
@@ -20,7 +21,6 @@
 * [2025-05-05, 20:17:32](https://news.ycombinator.com/item?id=43899028) - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
 * [2025-05-05, 19:45:09](https://news.ycombinator.com/item?id=43898717) - [Faster sorting with SIMD CUDA intrinsics (2024)](https://winwang.blog/posts/bitonic-sort/)
 * [2025-05-05, 19:34:48](https://news.ycombinator.com/item?id=43898627) - [How Texas Made the Old West Even Wilder and Bloodier](https://www.texasmonthly.com/being-texan/gunfighters-old-west-wilder-bloodier/)
-* [2025-05-05, 19:11:33](https://news.ycombinator.com/item?id=43898380) - [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 * [2025-05-05, 18:08:02](https://news.ycombinator.com/item?id=43897772) - [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)
 * [2025-05-04, 01:05:16](https://news.ycombinator.com/item?id=43883642) - [Why does Switzerland have so many bunkers?](https://www.thedial.world/articles/news/issue-27/switzerland-civilian-bunkers)
 * [2025-05-03, 23:35:31](https://news.ycombinator.com/item?id=43883230) - [Carolina Eyck, renowned superstar of the theremin](https://www.smh.com.au/culture/music/even-this-modern-maestro-won-t-touch-the-world-s-weirdest-instrument-20250417-p5lsms.html)
