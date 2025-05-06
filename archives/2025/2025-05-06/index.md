@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 21:01:57](https://news.ycombinator.com/item?id=43909596) - [Continue (YC S23) Is Hiring Software Engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+* [2025-05-06, 20:41:51](https://news.ycombinator.com/item?id=43909432) - [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
+* [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [A Step Towards Music Generation Foundation Model](https://github.com/ace-step/ACE-Step)
 * [2025-05-06, 20:17:57](https://news.ycombinator.com/item?id=43909220) - [TeleMessage, used by Trump officials, can access plaintext chat logs](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/)
+* [2025-05-06, 20:10:06](https://news.ycombinator.com/item?id=43909124) - [Scientists discover new way to convert corn waste to low-cost sugar for biofuel](https://news.wsu.edu/press-release/2025/05/06/scientists-discover-a-new-way-to-convert-corn-waste-into-low-cost-sugar-for-biofuel/)
 * [2025-05-06, 20:09:17](https://news.ycombinator.com/item?id=43909111) - [Preparing for When the Machine Stops](https://idiallo.com/blog/when-the-machine-stops)
 * [2025-05-06, 19:30:58](https://news.ycombinator.com/item?id=43908770) - [Will Supercapacitors Come to AI's Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
 * [2025-05-06, 18:47:49](https://news.ycombinator.com/item?id=43908368) - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
