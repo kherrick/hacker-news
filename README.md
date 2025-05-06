@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-06, 09:37:50](https://news.ycombinator.com/item?id=43903206) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/andrewn6/fromthetransistor)
 * [2025-05-06, 08:46:31](https://news.ycombinator.com/item?id=43902938) - [RIP Skype](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/)
 * [2025-05-06, 08:34:17](https://news.ycombinator.com/item?id=43902869) - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
 * [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [Sneakers (1992) – 4K Restoration](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
@@ -18,7 +19,6 @@
 * [2025-05-05, 18:08:02](https://news.ycombinator.com/item?id=43897772) - [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)
 * [2025-05-05, 17:22:40](https://news.ycombinator.com/item?id=43897320) - [As an experienced LLM user, I don't use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
 * [2025-05-05, 16:59:15](https://news.ycombinator.com/item?id=43897129) - [Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL](https://textquery.app/)
-* [2025-05-05, 15:34:56](https://news.ycombinator.com/item?id=43896199) - [Dimension 126 Contains Twisted Shapes, Mathematicians Prove](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/)
 * [2025-05-05, 15:33:57](https://news.ycombinator.com/item?id=43896188) - [How are cyber criminals rolling in 2025?](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html)
 * [2025-05-05, 15:17:33](https://news.ycombinator.com/item?id=43896011) - [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
 * [2025-05-05, 12:06:11](https://news.ycombinator.com/item?id=43894175) - [The Beauty of Having a Pi-Hole (2024)](https://den.dev/blog/pihole/)
