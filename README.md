@@ -8,7 +8,6 @@
 * [2025-05-06, 17:07:58](https://news.ycombinator.com/item?id=43907376) - [Curl: We still have not seen a single valid security report done with AI help](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
 * [2025-05-06, 15:47:21](https://news.ycombinator.com/item?id=43906442) - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
-* [2025-05-06, 15:42:00](https://news.ycombinator.com/item?id=43906379) - [DoomArena: A Framework for Testing AI Agents Against Evolving Security Threats](https://arxiv.org/abs/2504.14064)
 * [2025-05-06, 15:38:04](https://news.ycombinator.com/item?id=43906346) - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
 * [2025-05-06, 15:10:00](https://news.ycombinator.com/item?id=43906018) - [Gemini 2.5 Pro Preview](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
 * [2025-05-06, 15:02:22](https://news.ycombinator.com/item?id=43905942) - [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
@@ -30,6 +29,7 @@
 * [2025-05-05, 10:17:17](https://news.ycombinator.com/item?id=43893442) - [The Inchtuthil Nail Hoard](https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/)
 * [2025-05-03, 23:35:31](https://news.ycombinator.com/item?id=43883230) - [Carolina Eyck, renowned superstar of the theremin](https://www.smh.com.au/culture/music/even-this-modern-maestro-won-t-touch-the-world-s-weirdest-instrument-20250417-p5lsms.html)
 * [2025-05-02, 16:16:52](https://news.ycombinator.com/item?id=43871730) - [Sea snail teeth top Kevlar, titanium as strongest material (2015)](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.2963357/sea-snail-teeth-top-kevlar-titanium-as-world-s-strongest-material-1.2963549)
+* [2025-05-02, 16:05:30](https://news.ycombinator.com/item?id=43871601) - [RK3588 – Implementing a Vectorscope for processing video in real time](http://jas-hacks.blogspot.com/2025/05/rk3588-implementing-vectorscope-for.html)
 
 ## [Archives](archives/index.md)
 
