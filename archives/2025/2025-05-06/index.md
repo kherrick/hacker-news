@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 22:43:06](https://news.ycombinator.com/item?id=43910423) - [Sutton and Barto Book Implementation](https://github.com/ivanbelenky/RL)
 * [2025-05-06, 22:11:24](https://news.ycombinator.com/item?id=43910155) - [My Dream Thermostat](https://leontrolski.github.io/thermostat.html)
 * [2025-05-06, 21:19:34](https://news.ycombinator.com/item?id=43909774) - [Some Thoughts on LCP eBook DRM](https://shkspr.mobi/blog/2025/03/some-thoughts-on-lcp-ebook-drm/)
 * [2025-05-06, 21:01:57](https://news.ycombinator.com/item?id=43909596) - [Continue (YC S23) Is Hiring Software Engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
