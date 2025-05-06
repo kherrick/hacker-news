@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-06, 07:14:00](https://news.ycombinator.com/item?id=43902525) - [Hyper – Outperform React on every metric](https://nuejs.org/blog/introducing-hyper/)
 * [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [Sneakers (1992) – 4K Restoration](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
 * [2025-05-06, 06:01:23](https://news.ycombinator.com/item?id=43902212) - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 05:09:42](https://news.ycombinator.com/item?id=43901985) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
@@ -14,7 +15,6 @@
 * [2025-05-05, 19:45:09](https://news.ycombinator.com/item?id=43898717) - [Faster sorting with SIMD CUDA intrinsics (2024)](https://winwang.blog/posts/bitonic-sort/)
 * [2025-05-05, 19:11:33](https://news.ycombinator.com/item?id=43898380) - [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 * [2025-05-05, 18:08:02](https://news.ycombinator.com/item?id=43897772) - [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)
-* [2025-05-05, 18:02:20](https://news.ycombinator.com/item?id=43897719) - [Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python](https://github.com/leontrolski/tkintergalactic)
 * [2025-05-05, 17:22:40](https://news.ycombinator.com/item?id=43897320) - [As an experienced LLM user, I don't use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
 * [2025-05-05, 16:59:15](https://news.ycombinator.com/item?id=43897129) - [Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL](https://textquery.app/)
 * [2025-05-05, 15:34:56](https://news.ycombinator.com/item?id=43896199) - [Dimension 126 Contains Twisted Shapes, Mathematicians Prove](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/)

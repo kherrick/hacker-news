@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 07:14:00](https://news.ycombinator.com/item?id=43902525) - [Hyper – Outperform React on every metric](https://nuejs.org/blog/introducing-hyper/)
 * [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [\"Sneakers\" film released in 4k, struck from original camera negative](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
 * [2025-05-06, 06:01:23](https://news.ycombinator.com/item?id=43902212) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 05:19:42](https://news.ycombinator.com/item?id=43902031) - [Can you smuggle data in an ID card photo?](https://informatykzakladowy.pl/pierwszy-na-swiecie-dowod-osobisty-z-reklama-bloga/)
