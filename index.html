@@ -129,6 +129,83 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43905697">
+          <h3>
+            <a class="item" href="https://aso.dev/blog/apple-sign-in/"
+              >Show HN: Sign in with Apple" broke after update–losing data for a
+              third of users</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-06 @ 14:41:58</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43905697"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>What exactly happened?</p>
+              <p>
+                • Apple began returning a completely new userIdentifier for
+                existing Apple IDs, without users initiating any changes. This
+                effectively made user authentication impossible, as we can no
+                longer match users to their existing data. • The email field now
+                always returns null. Although this behavior is typical for
+                subsequent sign-ins, it’s irrelevant in this case because the
+                userIdentifier itself changed, leaving no way to identify
+                existing accounts. • Previously issued relay emails
+                (@privaterelay.appleid.com) no longer accept emails—we verified
+                this with bounce tests. • Users also report that our app has
+                disappeared from their Apple ID’s authorized apps list.
+              </p>
+              <p>Important context:</p>
+              <p>
+                • We migrated our Apple Developer account from Individual to
+                Organization about a year ago. • Everything worked perfectly
+                until the May 3, 2025 update. • The incident occurred precisely
+                on the day Apple released updates to the Developer Console
+                (Accounts, Profiles, etc.). We strongly believe these internal
+                changes at Apple triggered the issue.
+              </p>
+              <p>Consequences:</p>
+              <p>
+                • Every user received a new userIdentifier, meaning our system
+                sees returning users as entirely new, breaking the link to their
+                historical data. • One-third of our users, who registered via
+                Apple’s private relay email, are now completely unreachable: •
+                We can’t contact them (emails bounce). • We can’t restore their
+                access (new IDs don’t match old accounts). • We have sent three
+                support requests to Apple via email—no reply or acknowledgment
+                yet, with no escalation path or live chat available.
+              </p>
+              <p>⸻</p>
+              <p>
+                We were fortunate because ASO.dev also supports an alternative
+                sign-in method (email with a one-time login code). Without this
+                alternative, we would’ve permanently lost access for every user
+                who originally signed in with Apple.
+              </p>
+              <p>⸻</p>
+              <p>We’re openly sharing this story to:</p>
+              <p>
+                • Warn developers who rely solely on Apple Sign-In and relay
+                email addresses. • Connect with others who’ve faced similar
+                issues—let’s share experiences. • Draw Apple’s attention to this
+                critical problem—currently, there is no documented solution and
+                no available support.
+              </p>
+              <p>
+                Never rely solely on Apple ID authentication. Always implement a
+                fallback method, as even major ecosystems can fail
+                unpredictably.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43905299">
           <h3>
             <a class="item" href="https://accent-strength.boldvoice.com/"
@@ -140,11 +217,11 @@
             <h4>
               <span>2025-05-06 @ 14:07:57</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43905299"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -159,11 +236,11 @@
             <h4>
               <span>2025-05-06 @ 13:58:03</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43905185"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -189,27 +266,6 @@
             </h4>
           </section>
         </section>
-        <section id="43904854">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theregister.com/2025/05/02/osl_short_of_money/"
-              >Oregon State University's Open Source Lab Is Running on Fumes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-06 @ 13:25:32</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43904854"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43904511">
           <h3>
             <a class="item" href="https://github.com/hookdeck/outpost"
@@ -221,11 +277,11 @@
             <h4>
               <span>2025-05-06 @ 12:50:46</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43904511"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -308,11 +364,11 @@
             <h4>
               <span>2025-05-06 @ 11:38:44</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903959"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -329,11 +385,11 @@
             <h4>
               <span>2025-05-06 @ 11:36:09</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903945"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -350,11 +406,11 @@
             <h4>
               <span>2025-05-06 @ 11:22:55</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903853"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -371,11 +427,11 @@
             <h4>
               <span>2025-05-06 @ 11:04:39</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903741"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -393,11 +449,11 @@
             <h4>
               <span>2025-05-06 @ 11:03:28</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903728"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -418,7 +474,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43902869"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -435,11 +491,11 @@
             <h4>
               <span>2025-05-06 @ 06:15:13</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">263</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43902263"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 170</span></span
               >
             </h4>
           </section>
@@ -454,11 +510,11 @@
             <h4>
               <span>2025-05-06 @ 06:01:23</span
               ><span class="points-container"
-                >Points: <span class="points">602</span></span
+                >Points: <span class="points">630</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43902212"
                   >Comments</a
-                ><span class="descendants">: 267</span></span
+                ><span class="descendants">: 287</span></span
               >
             </h4>
           </section>
@@ -475,11 +531,11 @@
             <h4>
               <span>2025-05-06 @ 05:09:42</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43901985"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -496,11 +552,11 @@
             <h4>
               <span>2025-05-06 @ 03:40:10</span
               ><span class="points-container"
-                >Points: <span class="points">212</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43901619"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -515,11 +571,11 @@
             <h4>
               <span>2025-05-06 @ 03:13:08</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43901495"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -555,11 +611,11 @@
             <h4>
               <span>2025-05-05 @ 20:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43899317"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -597,11 +653,11 @@
             <h4>
               <span>2025-05-05 @ 20:40:14</span
               ><span class="points-container"
-                >Points: <span class="points">346</span></span
+                >Points: <span class="points">349</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43899236"
                   >Comments</a
-                ><span class="descendants">: 246</span></span
+                ><span class="descendants">: 251</span></span
               >
             </h4>
           </section>
@@ -616,7 +672,7 @@
             <h4>
               <span>2025-05-05 @ 20:17:32</span
               ><span class="points-container"
-                >Points: <span class="points">450</span></span
+                >Points: <span class="points">453</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43899028"
                   >Comments</a
@@ -661,11 +717,11 @@
             <h4>
               <span>2025-05-05 @ 18:08:02</span
               ><span class="points-container"
-                >Points: <span class="points">569</span></span
+                >Points: <span class="points">572</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43897772"
                   >Comments</a
-                ><span class="descendants">: 612</span></span
+                ><span class="descendants">: 613</span></span
               >
             </h4>
           </section>
@@ -682,7 +738,7 @@
             <h4>
               <span>2025-05-05 @ 10:17:17</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43893442"
                   >Comments</a
@@ -703,11 +759,11 @@
             <h4>
               <span>2025-05-04 @ 01:05:16</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43883642"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -724,11 +780,11 @@
             <h4>
               <span>2025-05-03 @ 23:35:31</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43883230"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -743,7 +799,7 @@
             <h4>
               <span>2025-05-03 @ 04:08:22</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43876798"
                   >Comments</a
@@ -764,11 +820,11 @@
             <h4>
               <span>2025-05-02 @ 23:20:59</span
               ><span class="points-container"
-                >Points: <span class="points">728</span></span
+                >Points: <span class="points">731</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43875476"
                   >Comments</a
-                ><span class="descendants">: 303</span></span
+                ><span class="descendants">: 304</span></span
               >
             </h4>
           </section>
@@ -786,7 +842,7 @@
             <h4>
               <span>2025-05-02 @ 16:16:52</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43871730"
                   >Comments</a
@@ -808,11 +864,11 @@
             <h4>
               <span>2025-05-02 @ 16:05:30</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43871601"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
