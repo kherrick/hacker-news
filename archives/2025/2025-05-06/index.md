@@ -39,6 +39,7 @@
 * [2025-05-06, 08:46:31](https://news.ycombinator.com/item?id=43902938) - [RIP Skype](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/)
 * [2025-05-06, 08:34:17](https://news.ycombinator.com/item?id=43902869) - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
 * [2025-05-06, 07:14:00](https://news.ycombinator.com/item?id=43902525) - [Hyper – Outperform React on every metric](https://nuejs.org/blog/introducing-hyper/)
+* [2025-05-06, 06:27:04](https://news.ycombinator.com/item?id=43902308) - [DoorDash to acquire Deliveroo](https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html)
 * [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [\"Sneakers\" film released in 4k, struck from original camera negative](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
 * [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [Sneakers (1992) – 4K makeover sourced from the original camera negative](https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/)
 * [2025-05-06, 06:01:23](https://news.ycombinator.com/item?id=43902212) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
