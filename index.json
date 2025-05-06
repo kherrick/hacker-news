@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-05-06, 12:18:20",
+      "https://news.ycombinator.com/item?id=43904233"
+    ],
+    [
+      "OpenAI agrees to buy Windsurf for about $3B",
+      "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 11:36:09",
+      "https://news.ycombinator.com/item?id=43903945"
+    ],
+    [
+      "Propositions as Types (2014) [pdf]",
+      "https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 11:04:39",
       "https://news.ycombinator.com/item?id=43903741"
     ],
     [
-      "Getting things \"done\" in large tech companies",
+      "Getting things “done” in large tech companies",
       "https://www.seangoedecke.com/getting-things-done/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 11:03:28",
+      "https://news.ycombinator.com/item?id=43903728"
+    ],
+    [
+      "Design and evaluation of a parrot-to-parrot video-calling system (2023)",
+      "https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 10:13:31",
+      "https://news.ycombinator.com/item?id=43903414"
+    ],
+    [
+      "Show HN: AnuDB– Backed on RocksDB, 279x Faster Than SQLite in Parallel Workloads",
+      "https://github.com/hash-anu/AnuDB"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=43901619"
     ],
     [
-      "An Appeal to Apple from Anukari: one tiny macOS detail to make Anukari fast",
+      "An Appeal to Apple from Anukari",
       "https://anukari.com/blog/devlog/an-appeal-to-apple"
     ]
   ],
@@ -75,7 +115,7 @@
       "https://news.ycombinator.com/item?id=43899251"
     ],
     [
-      "Pixels in Islamic art: square Kufic calligraphy",
+      "Pixels in Islamic Art: Square Kufic Calligraphy (2020)",
       "https://uwithumlaut.wordpress.com/2020/07/24/pixels-in-islamic-art-square-kufic-calligraphy/"
     ]
   ],
@@ -121,6 +161,16 @@
   ],
   [
     [
+      "2025-05-05, 19:34:48",
+      "https://news.ycombinator.com/item?id=43898627"
+    ],
+    [
+      "How Texas Made the Old West Even Wilder and Bloodier",
+      "https://www.texasmonthly.com/being-texan/gunfighters-old-west-wilder-bloodier/"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 19:11:33",
       "https://news.ycombinator.com/item?id=43898380"
     ],
@@ -141,36 +191,6 @@
   ],
   [
     [
-      "2025-05-05, 17:22:40",
-      "https://news.ycombinator.com/item?id=43897320"
-    ],
-    [
-      "As an experienced LLM user, I don't use generative LLMs often",
-      "https://minimaxir.com/2025/05/llm-use/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 16:59:15",
-      "https://news.ycombinator.com/item?id=43897129"
-    ],
-    [
-      "Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL",
-      "https://textquery.app/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 15:34:56",
-      "https://news.ycombinator.com/item?id=43896199"
-    ],
-    [
-      "Dimension 126 Contains Twisted Shapes, Mathematicians Prove",
-      "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 15:33:57",
       "https://news.ycombinator.com/item?id=43896188"
     ],
@@ -187,26 +207,6 @@
     [
       "Show HN: VectorVFS, your filesystem as a vector database",
       "https://vectorvfs.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 12:06:11",
-      "https://news.ycombinator.com/item?id=43894175"
-    ],
-    [
-      "The Beauty of Having a Pi-Hole (2024)",
-      "https://den.dev/blog/pihole/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 10:48:21",
-      "https://news.ycombinator.com/item?id=43893601"
-    ],
-    [
-      "The vocal effects of Daft Punk",
-      "https://bjango.com/articles/daftpunkvocaleffects/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=43871730"
     ],
     [
-      "Sea snail teeth top Kevlar, titanium as strongest material",
+      "Sea snail teeth top Kevlar, titanium as strongest material (2015)",
       "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.2963357/sea-snail-teeth-top-kevlar-titanium-as-world-s-strongest-material-1.2963549"
     ]
   ],
