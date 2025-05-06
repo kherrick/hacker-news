@@ -59,4 +59,5 @@
 * [2025-05-04, 02:03:40](https://news.ycombinator.com/item?id=43883902) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 * [2025-05-04, 01:27:26](https://news.ycombinator.com/item?id=43883747) - [Pascal for Small Machines](http://pascal.hansotten.com/)
 * [2025-05-04, 01:24:14](https://news.ycombinator.com/item?id=43883732) - [A PostgreSQL planner semi-join gotcha with CTE, LIMIT, and RETURNING](https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/)
+* [2025-05-04, 01:05:16](https://news.ycombinator.com/item?id=43883642) - [Why does Switzerland have so many bunkers?](https://www.thedial.world/articles/news/issue-27/switzerland-civilian-bunkers)
 * [2025-05-04, 00:40:59](https://news.ycombinator.com/item?id=43883555) - [Vygotsky's Zone of Proximal Development](https://www.simplypsychology.org/zone-of-proximal-development.html)
