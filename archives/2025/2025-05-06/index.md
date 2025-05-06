@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 13:08:07](https://news.ycombinator.com/item?id=43904664) - [Vibe Coding Is Fun–But Vibe Refactoring Pays the Bills](https://dawidmakowski.com/en/2025/04/vibe-coding-is-fun-but-vibe-refactoring-pays-the-bills/)
 * [2025-05-06, 12:32:48](https://news.ycombinator.com/item?id=43904356) - [I so hate the phrase \"vibe coding\"](https://artiss.blog/2025/03/i-so-hate-the-phrase-vibe-coding/)
 * [2025-05-06, 12:18:20](https://news.ycombinator.com/item?id=43904233) - [OpenAI agrees to buy Windsurf for about $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-06, 11:38:44](https://news.ycombinator.com/item?id=43903959) - [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
