@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
 * [2025-05-06, 15:47:21](https://news.ycombinator.com/item?id=43906442) - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
 * [2025-05-06, 15:38:04](https://news.ycombinator.com/item?id=43906346) - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
 * [2025-05-06, 15:10:00](https://news.ycombinator.com/item?id=43906018) - [Gemini 2.5 Pro Preview: even better coding performance](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
