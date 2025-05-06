@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-06, 20:17:57](https://news.ycombinator.com/item?id=43909220) - [TeleMessage, used by Trump officials, can access plaintext chat logs](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/)
+* [2025-05-06, 20:09:17](https://news.ycombinator.com/item?id=43909111) - [Preparing for When the Machine Stops](https://idiallo.com/blog/when-the-machine-stops)
 * [2025-05-06, 19:30:58](https://news.ycombinator.com/item?id=43908770) - [Will Supercapacitors Come to AI's Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
 * [2025-05-06, 18:47:49](https://news.ycombinator.com/item?id=43908368) - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 18:03:43](https://news.ycombinator.com/item?id=43907941) - [Show HN: Feedsmith — Fast parser & generator for RSS, Atom, OPML feed namespaces](https://github.com/macieklamberski/feedsmith)
@@ -26,10 +28,8 @@
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 * [2025-05-05, 12:17:11](https://news.ycombinator.com/item?id=43894257) - [Show HN: Reverse Pac-Man](https://reverse-pacman.staticrun.app/index)
 * [2025-05-05, 10:17:17](https://news.ycombinator.com/item?id=43893442) - [The Inchtuthil Nail Hoard](https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/)
-* [2025-05-04, 01:10:37](https://news.ycombinator.com/item?id=43883667) - [The Tragic Story Behind the Infamous '4 Children for Sale' Photograph (2023)](https://allthatsinteresting.com/4-children-for-sale)
 * [2025-05-03, 23:35:31](https://news.ycombinator.com/item?id=43883230) - [Carolina Eyck, renowned superstar of the theremin](https://www.smh.com.au/culture/music/even-this-modern-maestro-won-t-touch-the-world-s-weirdest-instrument-20250417-p5lsms.html)
 * [2025-05-02, 16:16:52](https://news.ycombinator.com/item?id=43871730) - [Sea snail teeth top Kevlar, titanium as strongest material (2015)](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.2963357/sea-snail-teeth-top-kevlar-titanium-as-world-s-strongest-material-1.2963549)
-* [2025-05-02, 16:05:30](https://news.ycombinator.com/item?id=43871601) - [RK3588 – Implementing a Vectorscope for processing video in real time](http://jas-hacks.blogspot.com/2025/05/rk3588-implementing-vectorscope-for.html)
 
 ## [Archives](archives/index.md)
 
