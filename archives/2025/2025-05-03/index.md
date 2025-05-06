@@ -12,6 +12,7 @@
 * [2025-05-03, 22:04:14](https://news.ycombinator.com/item?id=43882740) - [Digitization Complete for World-Renowned Franco Novacco Map Collection](https://www.newberry.org/news/digitization-complete-for-world-renowned-franco-novacco-map-collection)
 * [2025-05-03, 21:22:28](https://news.ycombinator.com/item?id=43882437) - [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
 * [2025-05-03, 21:08:03](https://news.ycombinator.com/item?id=43882336) - [The Unreasonable Effectiveness of Multiple Dispatch in Julia (2019)](https://www.youtube.com/watch?v=kc9HwsxE1OY)
+* [2025-05-03, 21:01:23](https://news.ycombinator.com/item?id=43882291) - [Understanding Memory Management, Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5/)
 * [2025-05-03, 21:00:54](https://news.ycombinator.com/item?id=43882287) - [Cyborg cicadas play Pachelbel's Canon](https://arstechnica.com/science/2025/05/cyborg-cicadas-play-pachelbels-canon/)
 * [2025-05-03, 21:00:18](https://news.ycombinator.com/item?id=43882280) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-05-03, 20:52:28](https://news.ycombinator.com/item?id=43882211) - [Why do econ journalists keep making this basic mistake?](https://www.noahpinion.blog/p/why-do-econ-journalists-keep-making)

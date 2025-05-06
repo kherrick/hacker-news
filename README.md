@@ -25,10 +25,10 @@
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 * [2025-05-04, 07:13:47](https://news.ycombinator.com/item?id=43885101) - [I decided to pay off a school’s lunch debt](https://www.huffpost.com/entry/utah-school-lunch-debt-relief-free-student-meals_n_681258fbe4b03207b5ba49fa)
+* [2025-05-03, 21:01:23](https://news.ycombinator.com/item?id=43882291) - [Understanding Memory Management, Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5/)
 * [2025-05-03, 18:53:40](https://news.ycombinator.com/item?id=43881211) - [“An independent journalist” who won't remain nameless](https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit)
 * [2025-05-03, 17:06:57](https://news.ycombinator.com/item?id=43880472) - [How Kim Jong Il Kidnapped a Director, Made a Cult Hit Godzilla Knockoff (2015)](https://www.vanityfair.com/hollywood/2015/04/pulgasari-north-korea-cult-hit)
 * [2025-05-03, 13:27:07](https://news.ycombinator.com/item?id=43878899) - [Make music from GitHub contribution graphs](https://ayitey.me/git-tunes)
-* [2025-05-03, 12:18:46](https://news.ycombinator.com/item?id=43878560) - [Determining favorite t-shirt color using science](https://ostwilkens.se/blog/determining-favorite-shirt-color)
 * [2025-05-02, 22:27:35](https://news.ycombinator.com/item?id=43875134) - [Kate and Python Language Server](https://akselmo.dev/posts/kate-python-lsp/)
 
 ## [Archives](archives/index.md)
