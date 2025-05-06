@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 22:11:24](https://news.ycombinator.com/item?id=43910155) - [My Dream Thermostat](https://leontrolski.github.io/thermostat.html)
 * [2025-05-06, 21:01:57](https://news.ycombinator.com/item?id=43909596) - [Continue (YC S23) Is Hiring Software Engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-05-06, 20:41:51](https://news.ycombinator.com/item?id=43909432) - [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [A Step Towards Music Generation Foundation Model](https://github.com/ace-step/ACE-Step)
