@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-06, 03:56:13](https://news.ycombinator.com/item?id=43901673) - [22-inch foldable external display](https://uperfect.com/products/omega-flexible-display-22-inch)
 * [2025-05-06, 03:28:52](https://news.ycombinator.com/item?id=43901575) - [Open WebUI BSD-3-based license adds a fair-use branding protection clause](https://docs.openwebui.com/license/)
 * [2025-05-06, 03:13:08](https://news.ycombinator.com/item?id=43901495) - [Critical CSS](https://critical-css-extractor.kigo.studio/)
 * [2025-05-06, 02:09:29](https://news.ycombinator.com/item?id=43901204) - [Google has most of my email because it has all of yours (2014)](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
@@ -29,7 +30,6 @@
 * [2025-05-03, 17:06:57](https://news.ycombinator.com/item?id=43880472) - [How Kim Jong Il Kidnapped a Director, Made a Cult Hit Godzilla Knockoff (2015)](https://www.vanityfair.com/hollywood/2015/04/pulgasari-north-korea-cult-hit)
 * [2025-05-03, 13:27:07](https://news.ycombinator.com/item?id=43878899) - [Make music from GitHub contribution graphs](https://ayitey.me/git-tunes)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of the Signal clone used by Trump officials](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
-* [2025-05-02, 22:27:35](https://news.ycombinator.com/item?id=43875134) - [Kate and Python Language Server](https://akselmo.dev/posts/kate-python-lsp/)
 
 ## [Archives](archives/index.md)
 
