@@ -28,7 +28,7 @@
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 * [2025-05-05, 12:17:11](https://news.ycombinator.com/item?id=43894257) - [Show HN: Reverse Pac-Man](https://reverse-pacman.staticrun.app/index)
 * [2025-05-05, 10:17:17](https://news.ycombinator.com/item?id=43893442) - [The Inchtuthil Nail Hoard](https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/)
-* [2025-05-03, 23:35:31](https://news.ycombinator.com/item?id=43883230) - [Carolina Eyck, renowned superstar of the theremin](https://www.smh.com.au/culture/music/even-this-modern-maestro-won-t-touch-the-world-s-weirdest-instrument-20250417-p5lsms.html)
+* [2025-05-04, 22:42:48](https://news.ycombinator.com/item?id=43890237) - [Transform DOCX into LLM-ready data](https://contextgem.dev/converters/docx.html)
 * [2025-05-02, 16:16:52](https://news.ycombinator.com/item?id=43871730) - [Sea snail teeth top Kevlar, titanium as strongest material (2015)](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.2963357/sea-snail-teeth-top-kevlar-titanium-as-world-s-strongest-material-1.2963549)
 
 ## [Archives](archives/index.md)
