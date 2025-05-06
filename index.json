@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-05-06, 17:07:58",
-      "https://news.ycombinator.com/item?id=43907376"
-    ],
-    [
-      "Curl: We still have not seen a single valid security report done with AI help",
-      "https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 16:18:42",
       "https://news.ycombinator.com/item?id=43906841"
     ],
@@ -297,6 +287,16 @@
     [
       "Transform DOCX into LLM-ready data",
       "https://contextgem.dev/converters/docx.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 04:10:09",
+      "https://news.ycombinator.com/item?id=43884418"
+    ],
+    [
+      "Old Timey Code and Old Timey Mono Fonts",
+      "https://github.com/dse/old-timey-mono-font"
     ]
   ]
 ]
