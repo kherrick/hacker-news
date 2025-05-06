@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-06, 08:46:31](https://news.ycombinator.com/item?id=43902938) - [RIP Skype](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/)
 * [2025-05-06, 08:34:17](https://news.ycombinator.com/item?id=43902869) - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
 * [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [Sneakers (1992) – 4K Restoration](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
 * [2025-05-06, 06:01:23](https://news.ycombinator.com/item?id=43902212) - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
@@ -27,7 +28,6 @@
 * [2025-05-03, 23:35:31](https://news.ycombinator.com/item?id=43883230) - [The worlds weirdest musical instrument](https://www.smh.com.au/culture/music/even-this-modern-maestro-won-t-touch-the-world-s-weirdest-instrument-20250417-p5lsms.html)
 * [2025-05-03, 21:01:23](https://news.ycombinator.com/item?id=43882291) - [Understanding Memory Management, Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5/)
 * [2025-05-03, 18:53:40](https://news.ycombinator.com/item?id=43881211) - [“An independent journalist” who won't remain nameless](https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit)
-* [2025-05-03, 17:06:57](https://news.ycombinator.com/item?id=43880472) - [How Kim Jong Il Kidnapped a Director, Made a Cult Hit Godzilla Knockoff (2015)](https://www.vanityfair.com/hollywood/2015/04/pulgasari-north-korea-cult-hit)
 * [2025-05-03, 04:08:22](https://news.ycombinator.com/item?id=43876798) - [VMOS – Virtual Android on Android](https://www.vmos.com/)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of the Signal clone used by Trump officials](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
 
