@@ -56,6 +56,7 @@
 * [2025-05-03, 13:08:29](https://news.ycombinator.com/item?id=43878824) - [Closures in Tcl](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html)
 * [2025-05-03, 12:50:55](https://news.ycombinator.com/item?id=43878728) - [Seeking an Answer: Why can't HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
 * [2025-05-03, 12:44:17](https://news.ycombinator.com/item?id=43878704) - [Vuntra City](https://vuntracity.com/)
+* [2025-05-03, 12:18:46](https://news.ycombinator.com/item?id=43878560) - [Determining favorite t-shirt color using science](https://ostwilkens.se/blog/determining-favorite-shirt-color)
 * [2025-05-03, 11:52:12](https://news.ycombinator.com/item?id=43878461) - [Show HN: Use Third Party LLM API in JetBrains AI Assistant](https://github.com/Stream29/ProxyAsLocalModel)
 * [2025-05-03, 11:16:09](https://news.ycombinator.com/item?id=43878298) - [Flies in the evidence room: Inside Belgium's rotting Justice Palace](https://www.ft.com/content/0b72735a-b587-4dd3-a1ac-2805c89f5d2f)
 * [2025-05-03, 10:54:24](https://news.ycombinator.com/item?id=43878191) - [Speedrunning and Modding the Incredibles: Rise of the Underminer](https://farlow.dev/2025/05/02/rotu)

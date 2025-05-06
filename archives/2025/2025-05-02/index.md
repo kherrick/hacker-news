@@ -41,6 +41,7 @@
 * [2025-05-02, 15:04:54](https://news.ycombinator.com/item?id=43870781) - [The Female Gaze](https://www.maryharrington.co.uk/p/the-female-gaze)
 * [2025-05-02, 14:58:01](https://news.ycombinator.com/item?id=43870688) - [The un-celebrity president: Jimmy Carter shuns riches, lives modestly (2018)](https://www.washingtonpost.com/news/national/wp/2018/08/17/feature/the-un-celebrity-president-jimmy-carter-shuns-riches-lives-modestly-in-his-georgia-hometown/)
 * [2025-05-02, 14:48:02](https://news.ycombinator.com/item?id=43870574) - [Anthropic Development Partner Program](https://support.anthropic.com/en/articles/11174108-about-the-development-partner-program)
+* [2025-05-02, 14:35:30](https://news.ycombinator.com/item?id=43870364) - [New electronic \"skin\" could enable lightweight night-vision glasses](https://news.mit.edu/2025/new-electronic-skin-could-enable-lightweight-night-vision-glasses-0423)
 * [2025-05-02, 14:30:53](https://news.ycombinator.com/item?id=43870289) - [Show HN: A motherfucking app (does one thing, under 300 LOC)](https://adnjoo.github.io/motherfuckingapp/)
 * [2025-05-02, 14:24:12](https://news.ycombinator.com/item?id=43870200) - [Lessons from Harlem](https://theamericanscholar.org/lessons-from-harlem/)
 * [2025-05-02, 14:16:38](https://news.ycombinator.com/item?id=43870090) - [Grand Theft Auto VI gets pushed back to May 26, 2026](https://arstechnica.com/gaming/2025/05/gta-vi-will-miss-2025-after-all-new-target-is-may-26-2026/)
