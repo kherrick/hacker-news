@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 14:07:57](https://news.ycombinator.com/item?id=43905299) - [Accents in Latent Spaces: How AI Hears Accent Strength in English](https://accent-strength.boldvoice.com/)
 * [2025-05-06, 13:58:03](https://news.ycombinator.com/item?id=43905185) - [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
 * [2025-05-06, 13:26:21](https://news.ycombinator.com/item?id=43904865) - [MTerrain: Optimized terrain system and editor for Godot](https://github.com/mohsenph69/Godot-MTerrain-plugin)
 * [2025-05-06, 13:25:32](https://news.ycombinator.com/item?id=43904854) - [Oregon State University's Open Source Lab Is Running on Fumes](https://www.theregister.com/2025/05/02/osl_short_of_money/)
