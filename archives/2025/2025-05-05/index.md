@@ -10,6 +10,7 @@
 * [2025-05-05, 22:13:50](https://news.ycombinator.com/item?id=43899959) - [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)
 * [2025-05-05, 22:00:02](https://news.ycombinator.com/item?id=43899878) - [2025 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2025)
 * [2025-05-05, 20:50:00](https://news.ycombinator.com/item?id=43899317) - [Dreariness Index (2015)](http://us-climate.blogspot.com/2015/03/dreary-weather.html)
+* [2025-05-05, 20:42:03](https://news.ycombinator.com/item?id=43899251) - [Pixels in Islamic art: square Kufic calligraphy](https://uwithumlaut.wordpress.com/2020/07/24/pixels-in-islamic-art-square-kufic-calligraphy/)
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with Systemd](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 * [2025-05-05, 20:17:32](https://news.ycombinator.com/item?id=43899028) - [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
 * [2025-05-05, 20:16:29](https://news.ycombinator.com/item?id=43899016) - [Databricks in Talks to Acquire Startup Neon for About $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
