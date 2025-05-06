@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-05-06, 17:51:03",
-      "https://news.ycombinator.com/item?id=43907820"
-    ],
-    [
-      "Matt Godbolt sold me on Rust by showing me C++",
-      "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 17:29:31",
       "https://news.ycombinator.com/item?id=43907586"
     ],
@@ -277,6 +267,16 @@
     [
       "Understanding effective type Aliasing in C [pdf]",
       "https://www.open-std.org/JTC1/SC22/WG14/www/docs/n3519.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 16:41:04",
+      "https://news.ycombinator.com/item?id=43896944"
+    ],
+    [
+      "Reverse-engineering Fujitsu M7MU RELC hardware compression",
+      "https://op-co.de/blog/posts/fujitsu_relc_compression/"
     ]
   ],
   [
