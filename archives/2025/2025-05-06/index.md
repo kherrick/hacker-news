@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 12:32:48](https://news.ycombinator.com/item?id=43904356) - [I so hate the phrase \"vibe coding\"](https://artiss.blog/2025/03/i-so-hate-the-phrase-vibe-coding/)
 * [2025-05-06, 12:18:20](https://news.ycombinator.com/item?id=43904233) - [OpenAI agrees to buy Windsurf for about $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
+* [2025-05-06, 11:38:44](https://news.ycombinator.com/item?id=43903959) - [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
 * [2025-05-06, 11:36:09](https://news.ycombinator.com/item?id=43903945) - [Propositions as Types (2014) [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
+* [2025-05-06, 11:22:55](https://news.ycombinator.com/item?id=43903853) - [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 11:04:39](https://news.ycombinator.com/item?id=43903741) - [Getting things \"done\" in large tech companies](https://www.seangoedecke.com/getting-things-done/)
 * [2025-05-06, 11:03:28](https://news.ycombinator.com/item?id=43903728) - [Design and evaluation of a parrot-to-parrot video-calling system (2023)](https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/)
 * [2025-05-06, 10:13:31](https://news.ycombinator.com/item?id=43903414) - [Show HN: AnuDB– Backed on RocksDB, 279x Faster Than SQLite in Parallel Workloads](https://github.com/hash-anu/AnuDB)
