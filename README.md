@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-06, 14:41:58](https://news.ycombinator.com/item?id=43905697) - [Show HN: Sign in with Apple\" broke after update–losing data for a third of users](https://aso.dev/blog/apple-sign-in/)
 * [2025-05-06, 14:07:57](https://news.ycombinator.com/item?id=43905299) - [Accents in Latent Spaces: How AI Hears Accent Strength in English](https://accent-strength.boldvoice.com/)
 * [2025-05-06, 13:58:03](https://news.ycombinator.com/item?id=43905185) - [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
 * [2025-05-06, 13:26:21](https://news.ycombinator.com/item?id=43904865) - [MTerrain: Optimized terrain system and editor for Godot](https://github.com/mohsenph69/Godot-MTerrain-plugin)
-* [2025-05-06, 13:25:32](https://news.ycombinator.com/item?id=43904854) - [Oregon State University's Open Source Lab Is Running on Fumes](https://www.theregister.com/2025/05/02/osl_short_of_money/)
 * [2025-05-06, 12:50:46](https://news.ycombinator.com/item?id=43904511) - [Show HN: Outpost – OSS infra for outbound webhooks and event destinations](https://github.com/hookdeck/outpost)
 * [2025-05-06, 11:38:44](https://news.ycombinator.com/item?id=43903959) - [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
 * [2025-05-06, 11:36:09](https://news.ycombinator.com/item?id=43903945) - [Propositions as Types (2014) [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
