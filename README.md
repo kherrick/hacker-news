@@ -12,7 +12,6 @@
 * [2025-05-06, 17:54:52](https://news.ycombinator.com/item?id=43907850) - [GenAI-Accelerated TLA+ Challenge](https://foundation.tlapl.us/challenge/index.html)
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 * [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
-* [2025-05-06, 17:07:58](https://news.ycombinator.com/item?id=43907376) - [Curl: We still have not seen a single valid security report done with AI help](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
 * [2025-05-06, 15:47:21](https://news.ycombinator.com/item?id=43906442) - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
 * [2025-05-06, 15:38:04](https://news.ycombinator.com/item?id=43906346) - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
@@ -30,6 +29,7 @@
 * [2025-05-05, 12:17:11](https://news.ycombinator.com/item?id=43894257) - [Show HN: Reverse Pac-Man](https://reverse-pacman.staticrun.app/index)
 * [2025-05-05, 10:17:17](https://news.ycombinator.com/item?id=43893442) - [The Inchtuthil Nail Hoard](https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/)
 * [2025-05-04, 22:42:48](https://news.ycombinator.com/item?id=43890237) - [Transform DOCX into LLM-ready data](https://contextgem.dev/converters/docx.html)
+* [2025-05-04, 04:10:09](https://news.ycombinator.com/item?id=43884418) - [Old Timey Code and Old Timey Mono Fonts](https://github.com/dse/old-timey-mono-font)
 
 ## [Archives](archives/index.md)
 
