@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-06, 06:15:13",
+      "https://news.ycombinator.com/item?id=43902263"
+    ],
+    [
+      "\"Sneakers\" film released in 4k, struck from original camera negative",
+      "https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 06:01:23",
+      "https://news.ycombinator.com/item?id=43902212"
+    ],
+    [
+      "The Curse of Knowing How, or; Fixing Everything",
+      "https://notashelf.dev/posts/curse-of-knowing"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 05:19:42",
+      "https://news.ycombinator.com/item?id=43902031"
+    ],
+    [
+      "Can you smuggle data in an ID card photo?",
+      "https://informatykzakladowy.pl/pierwszy-na-swiecie-dowod-osobisty-z-reklama-bloga/"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 03:28:52",
       "https://news.ycombinator.com/item?id=43901575"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-05-05, 15:52:37",
-      "https://news.ycombinator.com/item?id=43896410"
-    ],
-    [
-      "Show HN: Klavis AI – Open-source MCP integration for AI applications",
-      "https://github.com/Klavis-AI/klavis"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 15:34:56",
       "https://news.ycombinator.com/item?id=43896199"
     ],
@@ -177,16 +197,6 @@
     [
       "Show HN: VectorVFS, your filesystem as a vector database",
       "https://vectorvfs.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 14:37:51",
-      "https://news.ycombinator.com/item?id=43895622"
-    ],
-    [
-      "A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory",
-      "https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Technical analysis of the Signal clone used by Trump officials",
       "https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 22:27:35",
-      "https://news.ycombinator.com/item?id=43875134"
-    ],
-    [
-      "Kate and Python Language Server",
-      "https://akselmo.dev/posts/kate-python-lsp/"
     ]
   ]
 ]
