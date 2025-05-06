@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 13:58:03](https://news.ycombinator.com/item?id=43905185) - [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
+* [2025-05-06, 13:26:21](https://news.ycombinator.com/item?id=43904865) - [MTerrain: Optimized terrain system and editor for Godot](https://github.com/mohsenph69/Godot-MTerrain-plugin)
+* [2025-05-06, 13:25:32](https://news.ycombinator.com/item?id=43904854) - [Oregon State University's Open Source Lab Is Running on Fumes](https://www.theregister.com/2025/05/02/osl_short_of_money/)
 * [2025-05-06, 13:22:37](https://news.ycombinator.com/item?id=43904816) - [WWII Aircraft Recognition Posters](https://store.pacificwarmuseum.org/products/wwii-aircraft-recognition-posters)
 * [2025-05-06, 13:08:07](https://news.ycombinator.com/item?id=43904664) - [Vibe Coding Is Fun–But Vibe Refactoring Pays the Bills](https://dawidmakowski.com/en/2025/04/vibe-coding-is-fun-but-vibe-refactoring-pays-the-bills/)
 * [2025-05-06, 12:32:48](https://news.ycombinator.com/item?id=43904356) - [I so hate the phrase \"vibe coding\"](https://artiss.blog/2025/03/i-so-hate-the-phrase-vibe-coding/)
