@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 23:35:31](https://news.ycombinator.com/item?id=43883230) - [The worlds weirdest musical instrument](https://www.smh.com.au/culture/music/even-this-modern-maestro-won-t-touch-the-world-s-weirdest-instrument-20250417-p5lsms.html)
 * [2025-05-03, 23:27:11](https://news.ycombinator.com/item?id=43883180) - [Show HN: MP3 File Editor for Bulk Processing](https://cjmapp.net/)
 * [2025-05-03, 22:57:58](https://news.ycombinator.com/item?id=43883040) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 22:41:16](https://news.ycombinator.com/item?id=43882962) - [FAA offering more incentives as air traffic controller shortage worsens](https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/)
