@@ -107,7 +107,7 @@
 * [2023-08-22, 04:34:04](https://news.ycombinator.com/item?id=37218727) - [Revolutionary Electrolyzer Efficiently Converts CO2 into Renewable Propane Fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 * [2023-08-22, 04:00:29](https://news.ycombinator.com/item?id=37218531) - [Charging capacitors from thermal fluctuations using diodes](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.024130)
 * [2023-08-22, 03:58:21](https://news.ycombinator.com/item?id=37218517) - [The Antidesktop (2002)](http://web.archive.org/web/20021201230839/http://palm.freshmeat.net/articles/view/581/)
-* [2023-08-22, 03:24:45](https://news.ycombinator.com/item?id=37218289) - [NixOS Impermanence](https://nixos.wiki/wiki/Impermanence)
+* [2023-08-22, 03:24:45](https://news.ycombinator.com/item?id=37218289) - [NixOS Impermanence](https://wiki.nixos.org/wiki/Impermanence)
 * [2023-08-22, 03:21:56](https://news.ycombinator.com/item?id=37218268) - [Asphalt Wasteland: Maybe parking does explain the world](https://www.commonwealmagazine.org/parking-grabar-slate-henry-paved-paradise)
 * [2023-08-22, 03:20:32](https://news.ycombinator.com/item?id=37218263) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-22, 02:58:43](https://news.ycombinator.com/item?id=37218114) - [Unlocking Discord Nitro Features for Free](https://blog.0x7d0.dev/history/unlocking-discord-nitro-features-for-free/)
