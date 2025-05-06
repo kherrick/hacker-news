@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=43901575"
     ],
     [
-      "Open WebUI changed license from BSD-3 to Open WebUI License with CLA",
+      "Open WebUI BSD-3-based license adds a fair-use branding protection clause",
       "https://docs.openwebui.com/license/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 03:13:08",
+      "https://news.ycombinator.com/item?id=43901495"
+    ],
+    [
+      "Critical CSS",
+      "https://critical-css-extractor.kigo.studio/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Databricks in talks to acquire startup Neon for about $1B",
       "https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 19:45:09",
+      "https://news.ycombinator.com/item?id=43898717"
+    ],
+    [
+      "Faster sorting with SIMD CUDA intrinsics (2024)",
+      "https://winwang.blog/posts/bitonic-sort/"
     ]
   ],
   [
@@ -181,31 +201,11 @@
   ],
   [
     [
-      "2025-05-05, 14:39:48",
-      "https://news.ycombinator.com/item?id=43895637"
-    ],
-    [
-      "You can't git clone a team",
-      "https://virtualize.sh/blog/you-cant-git-clone-a-team/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 14:37:51",
-      "https://news.ycombinator.com/item?id=43895622"
-    ],
-    [
-      "A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory",
-      "https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 14:01:34",
       "https://news.ycombinator.com/item?id=43895237"
     ],
     [
-      "History of \"Adventure\" for the Atari 2600",
+      "History of “Adventure” for the Atari 2600",
       "https://www.atariarchive.org/blog/adventure-march-1980/"
     ]
   ],
