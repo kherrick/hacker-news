@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-06, 18:03:43](https://news.ycombinator.com/item?id=43907941) - [Show HN: Fast parser and generator for RSS, Atom, OPML and popular namespaces](https://github.com/macieklamberski/feedsmith)
+* [2025-05-06, 18:03:43](https://news.ycombinator.com/item?id=43907941) - [Show HN: Feedsmith — Fast parser & generator for RSS, Atom, OPML feed namespaces](https://github.com/macieklamberski/feedsmith)
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust (by showing me C++)](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 * [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
 * [2025-05-06, 17:07:58](https://news.ycombinator.com/item?id=43907376) - [Curl: We still have not seen a single valid security report done with AI help](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
@@ -13,7 +13,6 @@
 * [2025-05-06, 14:07:57](https://news.ycombinator.com/item?id=43905299) - [Accents in latent spaces: How AI hears accent strength in English](https://accent-strength.boldvoice.com/)
 * [2025-05-06, 13:58:03](https://news.ycombinator.com/item?id=43905185) - [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
 * [2025-05-06, 13:26:21](https://news.ycombinator.com/item?id=43904865) - [MTerrain: Optimized terrain system and editor for Godot](https://github.com/mohsenph69/Godot-MTerrain-plugin)
-* [2025-05-06, 11:38:44](https://news.ycombinator.com/item?id=43903959) - [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
 * [2025-05-06, 11:36:09](https://news.ycombinator.com/item?id=43903945) - [Propositions as Types (2014) [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 * [2025-05-06, 11:22:55](https://news.ycombinator.com/item?id=43903853) - [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 11:03:28](https://news.ycombinator.com/item?id=43903728) - [Design and evaluation of a parrot-to-parrot video-calling system (2023)](https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/)
@@ -27,6 +26,7 @@
 * [2025-05-05, 18:08:02](https://news.ycombinator.com/item?id=43897772) - [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)
 * [2025-05-05, 12:17:11](https://news.ycombinator.com/item?id=43894257) - [Show HN: Reverse Pac-Man](https://reverse-pacman.staticrun.app/index)
 * [2025-05-05, 10:17:17](https://news.ycombinator.com/item?id=43893442) - [The Inchtuthil Nail Hoard](https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/)
+* [2025-05-04, 01:05:16](https://news.ycombinator.com/item?id=43883642) - [Why does Switzerland have so many bunkers?](https://www.thedial.world/articles/news/issue-27/switzerland-civilian-bunkers)
 * [2025-05-03, 23:35:31](https://news.ycombinator.com/item?id=43883230) - [Carolina Eyck, renowned superstar of the theremin](https://www.smh.com.au/culture/music/even-this-modern-maestro-won-t-touch-the-world-s-weirdest-instrument-20250417-p5lsms.html)
 * [2025-05-02, 16:16:52](https://news.ycombinator.com/item?id=43871730) - [Sea snail teeth top Kevlar, titanium as strongest material (2015)](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.2963357/sea-snail-teeth-top-kevlar-titanium-as-world-s-strongest-material-1.2963549)
 * [2025-05-02, 16:05:30](https://news.ycombinator.com/item?id=43871601) - [RK3588 – Implementing a Vectorscope for processing video in real time](http://jas-hacks.blogspot.com/2025/05/rk3588-implementing-vectorscope-for.html)
