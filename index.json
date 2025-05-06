@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-06, 07:14:00",
+      "https://news.ycombinator.com/item?id=43902525"
+    ],
+    [
+      "Hyper – Outperform React on every metric",
+      "https://nuejs.org/blog/introducing-hyper/"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 06:15:13",
       "https://news.ycombinator.com/item?id=43902263"
     ],
@@ -137,16 +147,6 @@
     [
       "Evolving OpenAI's Structure",
       "https://openai.com/index/evolving-our-structure/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 18:02:20",
-      "https://news.ycombinator.com/item?id=43897719"
-    ],
-    [
-      "Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python",
-      "https://github.com/leontrolski/tkintergalactic"
     ]
   ],
   [
