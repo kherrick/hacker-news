@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 19:30:58](https://news.ycombinator.com/item?id=43908770) - [Will Supercapacitors Come to AI's Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
 * [2025-05-06, 18:47:49](https://news.ycombinator.com/item?id=43908368) - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 18:03:43](https://news.ycombinator.com/item?id=43907941) - [Show HN: Fast parser and generator for RSS, Atom, OPML and popular namespaces](https://github.com/macieklamberski/feedsmith)
 * [2025-05-06, 17:54:52](https://news.ycombinator.com/item?id=43907850) - [GenAI-Accelerated TLA+ Challenge](https://foundation.tlapl.us/challenge/index.html)
