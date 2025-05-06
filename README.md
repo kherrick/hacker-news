@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-06, 23:02:46](https://news.ycombinator.com/item?id=43910565) - [Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)](https://whippyterm.com)
 * [2025-05-06, 22:43:06](https://news.ycombinator.com/item?id=43910423) - [Sutton and Barto Book Implementation](https://github.com/ivanbelenky/RL)
-* [2025-05-06, 21:19:34](https://news.ycombinator.com/item?id=43909774) - [Some Thoughts on LCP eBook DRM](https://shkspr.mobi/blog/2025/03/some-thoughts-on-lcp-ebook-drm/)
 * [2025-05-06, 21:01:57](https://news.ycombinator.com/item?id=43909596) - [Continue (YC S23) is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-05-06, 20:41:51](https://news.ycombinator.com/item?id=43909432) - [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
+* [2025-05-06, 20:17:57](https://news.ycombinator.com/item?id=43909220) - [TeleMessage, used by Trump officials, can access plaintext chat logs](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/)
 * [2025-05-06, 20:10:06](https://news.ycombinator.com/item?id=43909124) - [Scientists discover new way to convert corn waste to low-cost sugar for biofuel](https://news.wsu.edu/press-release/2025/05/06/scientists-discover-a-new-way-to-convert-corn-waste-into-low-cost-sugar-for-biofuel/)
-* [2025-05-06, 20:09:17](https://news.ycombinator.com/item?id=43909111) - [Preparing for when the machine stops](https://idiallo.com/blog/when-the-machine-stops)
-* [2025-05-06, 19:30:58](https://news.ycombinator.com/item?id=43908770) - [Will Supercapacitors Come to AI's Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
 * [2025-05-06, 18:47:49](https://news.ycombinator.com/item?id=43908368) - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 18:03:43](https://news.ycombinator.com/item?id=43907941) - [Show HN: Feedsmith — Fast parser & generator for RSS, Atom, OPML feed namespaces](https://github.com/macieklamberski/feedsmith)
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
@@ -29,6 +28,7 @@
 * [2025-05-06, 06:01:23](https://news.ycombinator.com/item?id=43902212) - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-05, 19:03:25](https://news.ycombinator.com/item?id=43898306) - [Understanding effective type Aliasing in C [pdf]](https://www.open-std.org/JTC1/SC22/WG14/www/docs/n3519.pdf)
+* [2025-05-05, 10:17:17](https://news.ycombinator.com/item?id=43893442) - [The Inchtuthil Nail Hoard](https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/)
 * [2025-05-04, 04:10:09](https://news.ycombinator.com/item?id=43884418) - [Old Timey Code and Old Timey Mono Fonts](https://github.com/dse/old-timey-mono-font)
 
 ## [Archives](archives/index.md)
