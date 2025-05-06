@@ -3,12 +3,11 @@
 * [2025-05-06, 09:37:50](https://news.ycombinator.com/item?id=43903206) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/andrewn6/fromthetransistor)
 * [2025-05-06, 08:46:31](https://news.ycombinator.com/item?id=43902938) - [RIP Skype](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/)
 * [2025-05-06, 08:34:17](https://news.ycombinator.com/item?id=43902869) - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
-* [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [Sneakers (1992) – 4K Restoration](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
+* [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [Sneakers (1992) – 4K makeover sourced from the original camera negative](https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/)
 * [2025-05-06, 06:01:23](https://news.ycombinator.com/item?id=43902212) - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 05:09:42](https://news.ycombinator.com/item?id=43901985) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
 * [2025-05-06, 03:40:10](https://news.ycombinator.com/item?id=43901619) - [An Appeal to Apple from Anukari: one tiny macOS detail to make Anukari fast](https://anukari.com/blog/devlog/an-appeal-to-apple)
 * [2025-05-06, 03:13:08](https://news.ycombinator.com/item?id=43901495) - [Critical CSS](https://critical-css-extractor.kigo.studio/)
-* [2025-05-06, 02:09:29](https://news.ycombinator.com/item?id=43901204) - [Google has most of my email because it has all of yours (2014)](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
 * [2025-05-05, 23:38:56](https://news.ycombinator.com/item?id=43900463) - [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
 * [2025-05-05, 20:42:03](https://news.ycombinator.com/item?id=43899251) - [Pixels in Islamic art: square Kufic calligraphy](https://uwithumlaut.wordpress.com/2020/07/24/pixels-in-islamic-art-square-kufic-calligraphy/)
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
@@ -30,6 +29,7 @@
 * [2025-05-03, 18:53:40](https://news.ycombinator.com/item?id=43881211) - [“An independent journalist” who won't remain nameless](https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit)
 * [2025-05-03, 04:08:22](https://news.ycombinator.com/item?id=43876798) - [VMOS – Virtual Android on Android](https://www.vmos.com/)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of the Signal clone used by Trump officials](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
+* [2025-05-02, 16:05:30](https://news.ycombinator.com/item?id=43871601) - [RK3588 – Implementing a Vectorscope for processing video in real time](http://jas-hacks.blogspot.com/2025/05/rk3588-implementing-vectorscope-for.html)
 
 ## [Archives](archives/index.md)
 

@@ -9,6 +9,7 @@
 * [2025-05-06, 08:34:17](https://news.ycombinator.com/item?id=43902869) - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
 * [2025-05-06, 07:14:00](https://news.ycombinator.com/item?id=43902525) - [Hyper – Outperform React on every metric](https://nuejs.org/blog/introducing-hyper/)
 * [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [\"Sneakers\" film released in 4k, struck from original camera negative](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
+* [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [Sneakers (1992) – 4K makeover sourced from the original camera negative](https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/)
 * [2025-05-06, 06:01:23](https://news.ycombinator.com/item?id=43902212) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 05:19:42](https://news.ycombinator.com/item?id=43902031) - [Can you smuggle data in an ID card photo?](https://informatykzakladowy.pl/pierwszy-na-swiecie-dowod-osobisty-z-reklama-bloga/)
 * [2025-05-06, 05:09:42](https://news.ycombinator.com/item?id=43901985) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)

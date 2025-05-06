@@ -32,6 +32,7 @@
 * [2025-05-02, 16:45:29](https://news.ycombinator.com/item?id=43872094) - [Building Burstables: CPU slicing with cgroups](https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups)
 * [2025-05-02, 16:38:14](https://news.ycombinator.com/item?id=43871998) - [Universal Antivenom May Grow Out of Man Who Let Snakes Bite Him 100s of Times](https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html)
 * [2025-05-02, 16:37:00](https://news.ycombinator.com/item?id=43871984) - [Show HN: Exhibit and Site on Mechanisms for Students](https://mechanical-library.org/)
+* [2025-05-02, 16:05:30](https://news.ycombinator.com/item?id=43871601) - [RK3588 – Implementing a Vectorscope for processing video in real time](http://jas-hacks.blogspot.com/2025/05/rk3588-implementing-vectorscope-for.html)
 * [2025-05-02, 15:39:39](https://news.ycombinator.com/item?id=43871250) - [A Hyper-Catalan Series Solution to Polynomial Equations, and the Geode](https://www.tandfonline.com/doi/full/10.1080/00029890.2025.2460966#d1e523)
 * [2025-05-02, 15:21:49](https://news.ycombinator.com/item?id=43870998) - [Show HN: GPT-2 implemented using graphics shaders](https://github.com/nathan-barry/gpt2-webgl)
 * [2025-05-02, 15:19:22](https://news.ycombinator.com/item?id=43870969) - [The language brain matters more for learning programming than the math brain](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
