@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 17:07:58](https://news.ycombinator.com/item?id=43907376) - [Curl: We still have not seen a single valid security report done with AI help](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
 * [2025-05-06, 15:47:21](https://news.ycombinator.com/item?id=43906442) - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
+* [2025-05-06, 15:42:00](https://news.ycombinator.com/item?id=43906379) - [DoomArena: A Framework for Testing AI Agents Against Evolving Security Threats](https://arxiv.org/abs/2504.14064)
 * [2025-05-06, 15:38:04](https://news.ycombinator.com/item?id=43906346) - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
 * [2025-05-06, 15:10:00](https://news.ycombinator.com/item?id=43906018) - [Gemini 2.5 Pro Preview: even better coding performance](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
 * [2025-05-06, 15:02:22](https://news.ycombinator.com/item?id=43905942) - [Show HN: Clippy, 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
@@ -39,3 +41,4 @@
 * [2025-05-06, 03:28:52](https://news.ycombinator.com/item?id=43901575) - [Open WebUI changed license from BSD-3 to Open WebUI License with CLA](https://docs.openwebui.com/license/)
 * [2025-05-06, 03:13:08](https://news.ycombinator.com/item?id=43901495) - [Critical CSS](https://critical-css-extractor.kigo.studio/)
 * [2025-05-06, 02:09:29](https://news.ycombinator.com/item?id=43901204) - [Google Has Most of My Email Because It Has All of Yours (2014)](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
+* [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
