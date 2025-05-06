@@ -129,81 +129,153 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="43905697">
+        <section id="43906346">
           <h3>
-            <a class="item" href="https://aso.dev/blog/apple-sign-in/"
-              >Show HN: Sign in with Apple" broke after update–losing data for a
-              third of users</a
+            <a class="item" href="https://github.com/plexe-ai/plexe"
+              >Show HN: Plexe – ML Models from a Prompt</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-05-06 @ 14:41:58</span
+              <span>2025-05-06 @ 15:38:04</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43905697"
+                ><a href="https://news.ycombinator.com/item?id=43906346"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
             <div class="text">
-              <p>What exactly happened?</p>
+              <a href="https://github.com/plexe-ai/plexe"
+                >https://github.com/plexe-ai/plexe</a
+              >), an open-source agent that turns natural language task
+              descriptions into trained ML models. Here’s a video walkthrough:
+              <a href="https://www.youtube.com/watch?v=bUwCSglhcXY"
+                >https://www.youtube.com/watch?v=bUwCSglhcXY</a
+              >.
               <p>
-                • Apple began returning a completely new userIdentifier for
-                existing Apple IDs, without users initiating any changes. This
-                effectively made user authentication impossible, as we can no
-                longer match users to their existing data. • The email field now
-                always returns null. Although this behavior is typical for
-                subsequent sign-ins, it’s irrelevant in this case because the
-                userIdentifier itself changed, leaving no way to identify
-                existing accounts. • Previously issued relay emails
-                (@privaterelay.appleid.com) no longer accept emails—we verified
-                this with bounce tests. • Users also report that our app has
-                disappeared from their Apple ID’s authorized apps list.
-              </p>
-              <p>Important context:</p>
-              <p>
-                • We migrated our Apple Developer account from Individual to
-                Organization about a year ago. • Everything worked perfectly
-                until the May 3, 2025 update. • The incident occurred precisely
-                on the day Apple released updates to the Developer Console
-                (Accounts, Profiles, etc.). We strongly believe these internal
-                changes at Apple triggered the issue.
-              </p>
-              <p>Consequences:</p>
-              <p>
-                • Every user received a new userIdentifier, meaning our system
-                sees returning users as entirely new, breaking the link to their
-                historical data. • One-third of our users, who registered via
-                Apple’s private relay email, are now completely unreachable: •
-                We can’t contact them (emails bounce). • We can’t restore their
-                access (new IDs don’t match old accounts). • We have sent three
-                support requests to Apple via email—no reply or acknowledgment
-                yet, with no escalation path or live chat available.
-              </p>
-              <p>⸻</p>
-              <p>
-                We were fortunate because ASO.dev also supports an alternative
-                sign-in method (email with a one-time login code). Without this
-                alternative, we would’ve permanently lost access for every user
-                who originally signed in with Apple.
-              </p>
-              <p>⸻</p>
-              <p>We’re openly sharing this story to:</p>
-              <p>
-                • Warn developers who rely solely on Apple Sign-In and relay
-                email addresses. • Connect with others who’ve faced similar
-                issues—let’s share experiences. • Draw Apple’s attention to this
-                critical problem—currently, there is no documented solution and
-                no available support.
+                There are all kinds of uses for ML models that never get
+                realized because the process of making them is messy and
+                convoluted. You can spend months trying to find the data, clean
+                it, experiment with models and deploy to production, only to
+                find out that your project has been binned for taking so long.
+                There are many tools for “automating” ML, but it still takes
+                teams of ML experts to actually productionize something of
+                value. And we can’t keep throwing LLMs at every ML problem. Why
+                use a generic 10B parameter language model, if a logistic
+                regression trained on your data could do the job better?
               </p>
               <p>
-                Never rely solely on Apple ID authentication. Always implement a
-                fallback method, as even major ecosystems can fail
-                unpredictably.
+                Our light-bulb moment was that we could use LLMs to generate
+                task-specific ML models that would be trained on one’s own data.
+                Thanks to the emergent reasoning ability of LLMs, it is now
+                possible to create an agentic system that might automate most of
+                the ML lifecycle.
+              </p>
+              <p>
+                A couple of months ago, we started developing a Python library
+                that would let you define ML models on structured data using a
+                description of the expected behaviour. Our initial
+                implementation arranged potential solutions into a graph, using
+                LLMs to write plans, implement them as code, and run the
+                resulting training script. Using simple search algorithms, the
+                system traversed the solution space to identify and package the
+                best model.
+              </p>
+              <p>
+                However, we ran into several limitations, as the algorithm
+                proved brittle under edge cases, and we kept having to put
+                patches for every minor issue in the training process. We
+                decided to rethink the approach, throw everything out, and
+                rebuild the tool using an agentic approach prioritising
+                generality and flexibility. What started as a single ML
+                engineering agent turned into an agentic ML "team", with all
+                experiments tracked and logged using MLFlow.
+              </p>
+              <p>
+                Our current implementation uses the smolagents library to define
+                an agent hierarchy. We mapped the functionality of our previous
+                implementation to a set of specialized agents, such as an “ML
+                scientist” that proposes solution plans, and so on. Each agent
+                has specialized tools, instructions, and prompt templates. To
+                facilitate cross-agent communication, we implemented a shared
+                memory that enables objects (datasets, code snippets, etc) to be
+                passed across agents indirectly by referencing keys in a
+                registry. You can find a detailed write-up on how it works here:
+                <a
+                  href="https://github.com/plexe-ai/plexe/blob/main/docs/architecture/multi-agent-system.md"
+                  >https://github.com/plexe-ai/plexe/blob/main/docs/architectur...</a
+                >
+              </p>
+              <p>
+                Plexe’s early release is focused on predictive problems over
+                structured data, and can be used to build models such as
+                forecasting player injury risk in high-intensity sports, product
+                recommendations for an e-commerce marketplace, or predicting
+                technical indicators for algorithmic trading. Here are some
+                examples to get you started:
+                <a href="https://github.com/plexe-ai/plexe/tree/main/examples"
+                  >https://github.com/plexe-ai/plexe/tree/main/examples</a
+                >
+              </p>
+              <p>
+                To get it working on your data, you can dump any CSV, parquet,
+                etc and Plexe uses what it needs from your dataset to figure out
+                what features it should use. In the open-source tool, it only
+                supports adding files right now but in our platform version,
+                we'll have support for integrating with Postgres where it pulls
+                all available data based on an SQL query and dumps it into a
+                parquet file for the agent to build models.
+              </p>
+              <p>
+                Next up, we’ll be tackling more of the ML project lifecycle:
+                we’re currently working on adding a “feature engineering agent”
+                that focuses on the complex data transformations that are often
+                required for data to be ready for model training. If you're
+                interested, check Plexe out and let us know your thoughts!
               </p>
             </div>
+          </section>
+        </section>
+        <section id="43906018">
+          <h3>
+            <a
+              class="item"
+              href="https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/"
+              >Gemini 2.5 Pro Preview: even better coding performance</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-06 @ 15:10:00</span
+              ><span class="points-container"
+                >Points: <span class="points">74</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43906018"
+                  >Comments</a
+                ><span class="descendants">: 59</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43905942">
+          <h3>
+            <a class="item" href="https://felixrieseberg.github.io/clippy/"
+              >Show HN: Clippy, 90s UI for local LLMs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-06 @ 15:02:22</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43905942"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="43905299">
@@ -217,11 +289,11 @@
             <h4>
               <span>2025-05-06 @ 14:07:57</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43905299"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -236,11 +308,11 @@
             <h4>
               <span>2025-05-06 @ 13:58:03</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43905185"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -257,7 +329,7 @@
             <h4>
               <span>2025-05-06 @ 13:26:21</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43904865"
                   >Comments</a
@@ -277,7 +349,7 @@
             <h4>
               <span>2025-05-06 @ 12:50:46</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43904511"
                   >Comments</a
@@ -364,11 +436,11 @@
             <h4>
               <span>2025-05-06 @ 11:38:44</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903959"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -385,11 +457,11 @@
             <h4>
               <span>2025-05-06 @ 11:36:09</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903945"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -406,11 +478,11 @@
             <h4>
               <span>2025-05-06 @ 11:22:55</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903853"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -427,11 +499,11 @@
             <h4>
               <span>2025-05-06 @ 11:04:39</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903741"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -453,7 +525,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903728"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -470,11 +542,11 @@
             <h4>
               <span>2025-05-06 @ 08:34:17</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43902869"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -491,11 +563,11 @@
             <h4>
               <span>2025-05-06 @ 06:15:13</span
               ><span class="points-container"
-                >Points: <span class="points">263</span></span
+                >Points: <span class="points">264</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43902263"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 174</span></span
               >
             </h4>
           </section>
@@ -510,11 +582,11 @@
             <h4>
               <span>2025-05-06 @ 06:01:23</span
               ><span class="points-container"
-                >Points: <span class="points">630</span></span
+                >Points: <span class="points">641</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43902212"
                   >Comments</a
-                ><span class="descendants">: 287</span></span
+                ><span class="descendants">: 289</span></span
               >
             </h4>
           </section>
@@ -531,7 +603,7 @@
             <h4>
               <span>2025-05-06 @ 05:09:42</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43901985"
                   >Comments</a
@@ -552,11 +624,11 @@
             <h4>
               <span>2025-05-06 @ 03:40:10</span
               ><span class="points-container"
-                >Points: <span class="points">222</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43901619"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -571,30 +643,11 @@
             <h4>
               <span>2025-05-06 @ 03:13:08</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43901495"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43900463">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2503.20481"
-              >Analyzing Modern Nvidia GPU Cores</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-05 @ 23:38:56</span
-              ><span class="points-container"
-                >Points: <span class="points">157</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43900463"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -611,11 +664,11 @@
             <h4>
               <span>2025-05-05 @ 20:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43899317"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -632,11 +685,11 @@
             <h4>
               <span>2025-05-05 @ 20:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43899251"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -653,11 +706,11 @@
             <h4>
               <span>2025-05-05 @ 20:40:14</span
               ><span class="points-container"
-                >Points: <span class="points">349</span></span
+                >Points: <span class="points">351</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43899236"
                   >Comments</a
-                ><span class="descendants">: 251</span></span
+                ><span class="descendants">: 253</span></span
               >
             </h4>
           </section>
@@ -672,7 +725,7 @@
             <h4>
               <span>2025-05-05 @ 20:17:32</span
               ><span class="points-container"
-                >Points: <span class="points">453</span></span
+                >Points: <span class="points">454</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43899028"
                   >Comments</a
@@ -691,7 +744,7 @@
             <h4>
               <span>2025-05-05 @ 19:45:09</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43898717"
                   >Comments</a
@@ -717,11 +770,11 @@
             <h4>
               <span>2025-05-05 @ 18:08:02</span
               ><span class="points-container"
-                >Points: <span class="points">572</span></span
+                >Points: <span class="points">573</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43897772"
                   >Comments</a
-                ><span class="descendants">: 613</span></span
+                ><span class="descendants">: 616</span></span
               >
             </h4>
           </section>
@@ -738,7 +791,7 @@
             <h4>
               <span>2025-05-05 @ 10:17:17</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43893442"
                   >Comments</a
@@ -759,11 +812,11 @@
             <h4>
               <span>2025-05-04 @ 01:05:16</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43883642"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -789,25 +842,6 @@
             </h4>
           </section>
         </section>
-        <section id="43876798">
-          <h3>
-            <a class="item" href="https://www.vmos.com/"
-              >VMOS – Virtual Android on Android</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-03 @ 04:08:22</span
-              ><span class="points-container"
-                >Points: <span class="points">45</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43876798"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43875476">
           <h3>
             <a
@@ -820,11 +854,11 @@
             <h4>
               <span>2025-05-02 @ 23:20:59</span
               ><span class="points-container"
-                >Points: <span class="points">731</span></span
+                >Points: <span class="points">734</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43875476"
                   >Comments</a
-                ><span class="descendants">: 304</span></span
+                ><span class="descendants">: 306</span></span
               >
             </h4>
           </section>
@@ -842,11 +876,11 @@
             <h4>
               <span>2025-05-02 @ 16:16:52</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43871730"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
