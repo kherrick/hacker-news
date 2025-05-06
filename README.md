@@ -22,12 +22,12 @@
 * [2025-05-05, 12:22:10](https://news.ycombinator.com/item?id=43894305) - [The Death of Daydreaming](https://www.afterbabel.com/p/on-the-death-of-daydreaming)
 * [2025-05-05, 12:06:11](https://news.ycombinator.com/item?id=43894175) - [The Beauty of Having a Pi-Hole (2024)](https://den.dev/blog/pihole/)
 * [2025-05-05, 10:48:21](https://news.ycombinator.com/item?id=43893601) - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
+* [2025-05-04, 11:13:23](https://news.ycombinator.com/item?id=43886053) - [Catastrophic fires and soil degradation: possible link with Neolithic revolution](https://link.springer.com/article/10.1007/s11368-025-04021-x)
 * [2025-05-04, 07:13:47](https://news.ycombinator.com/item?id=43885101) - [I decided to pay off a school’s lunch debt](https://www.huffpost.com/entry/utah-school-lunch-debt-relief-free-student-meals_n_681258fbe4b03207b5ba49fa)
 * [2025-05-04, 01:05:16](https://news.ycombinator.com/item?id=43883642) - [Why does Switzerland have so many bunkers?](https://www.thedial.world/articles/news/issue-27/switzerland-civilian-bunkers)
 * [2025-05-03, 21:01:23](https://news.ycombinator.com/item?id=43882291) - [Understanding Memory Management, Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5/)
 * [2025-05-03, 18:53:40](https://news.ycombinator.com/item?id=43881211) - [“An independent journalist” who won't remain nameless](https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit)
 * [2025-05-03, 17:06:57](https://news.ycombinator.com/item?id=43880472) - [How Kim Jong Il Kidnapped a Director, Made a Cult Hit Godzilla Knockoff (2015)](https://www.vanityfair.com/hollywood/2015/04/pulgasari-north-korea-cult-hit)
-* [2025-05-03, 13:27:07](https://news.ycombinator.com/item?id=43878899) - [Make music from GitHub contribution graphs](https://ayitey.me/git-tunes)
 * [2025-05-02, 23:20:59](https://news.ycombinator.com/item?id=43875476) - [Technical analysis of the Signal clone used by Trump officials](https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/)
 * [2025-05-02, 22:27:35](https://news.ycombinator.com/item?id=43875134) - [Kate and Python Language Server](https://akselmo.dev/posts/kate-python-lsp/)
 

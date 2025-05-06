@@ -45,6 +45,7 @@
 * [2025-05-04, 12:10:03](https://news.ycombinator.com/item?id=43886271) - [Lilith and Modula-2](https://astrobe.com/Modula2/)
 * [2025-05-04, 12:02:35](https://news.ycombinator.com/item?id=43886243) - [The Alabama Landline That Keeps Ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
 * [2025-05-04, 11:55:08](https://news.ycombinator.com/item?id=43886213) - [Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball](https://tippycoco.com/)
+* [2025-05-04, 11:13:23](https://news.ycombinator.com/item?id=43886053) - [Catastrophic fires and soil degradation: possible link with Neolithic revolution](https://link.springer.com/article/10.1007/s11368-025-04021-x)
 * [2025-05-04, 11:05:10](https://news.ycombinator.com/item?id=43886023) - [Show HN: Journelly for iOS: like tweeting but for your eyes only (in plain text)](https://xenodium.com/journelly-like-tweeting-but-for-your-eyes-only)
 * [2025-05-04, 10:14:06](https://news.ycombinator.com/item?id=43885794) - [Switch to a tiling-window-manager TODAY](https://github.com/uint23/sxwm)
 * [2025-05-04, 09:40:40](https://news.ycombinator.com/item?id=43885659) - [Show HN: Voxdazz – Text-to-speech with lip-sync video generation](https://voxdazz.com)
