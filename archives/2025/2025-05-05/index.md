@@ -9,6 +9,7 @@
 * [2025-05-05, 22:59:01](https://news.ycombinator.com/item?id=43900233) - [Air traffic controllers couldn't see or talk to planes in Newark failure](https://www.cnbc.com/2025/05/05/air-traffic-controllers-newark-airport-delays.html)
 * [2025-05-05, 22:13:50](https://news.ycombinator.com/item?id=43899959) - [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)
 * [2025-05-05, 22:00:02](https://news.ycombinator.com/item?id=43899878) - [2025 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2025)
+* [2025-05-05, 21:41:58](https://news.ycombinator.com/item?id=43899734) - [Turning into Turing (2022)](https://jk-keller.com/o__o/rotational_growth/)
 * [2025-05-05, 20:50:00](https://news.ycombinator.com/item?id=43899317) - [Dreariness Index (2015)](http://us-climate.blogspot.com/2015/03/dreary-weather.html)
 * [2025-05-05, 20:42:03](https://news.ycombinator.com/item?id=43899251) - [Pixels in Islamic art: square Kufic calligraphy](https://uwithumlaut.wordpress.com/2020/07/24/pixels-in-islamic-art-square-kufic-calligraphy/)
 * [2025-05-05, 20:40:14](https://news.ycombinator.com/item?id=43899236) - [Replacing Kubernetes with Systemd](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
