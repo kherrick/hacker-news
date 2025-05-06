@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-06, 08:34:17](https://news.ycombinator.com/item?id=43902869) - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
+* [2025-05-06, 11:04:39](https://news.ycombinator.com/item?id=43903741) - [Getting things \"done\" in large tech companies](https://www.seangoedecke.com/getting-things-done/)
 * [2025-05-06, 06:15:13](https://news.ycombinator.com/item?id=43902263) - [Sneakers (1992) – 4K makeover sourced from the original camera negative](https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/)
 * [2025-05-06, 06:01:23](https://news.ycombinator.com/item?id=43902212) - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 05:09:42](https://news.ycombinator.com/item?id=43901985) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)

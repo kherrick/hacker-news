@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 11:04:39](https://news.ycombinator.com/item?id=43903741) - [Getting things \"done\" in large tech companies](https://www.seangoedecke.com/getting-things-done/)
 * [2025-05-06, 09:37:50](https://news.ycombinator.com/item?id=43903206) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/andrewn6/fromthetransistor)
 * [2025-05-06, 08:46:31](https://news.ycombinator.com/item?id=43902938) - [RIP Skype](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/)
 * [2025-05-06, 08:34:17](https://news.ycombinator.com/item?id=43902869) - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
