@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-05-06, 03:56:13",
-      "https://news.ycombinator.com/item?id=43901673"
-    ],
-    [
-      "22-inch foldable external display",
-      "https://uperfect.com/products/omega-flexible-display-22-inch"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 03:28:52",
       "https://news.ycombinator.com/item?id=43901575"
     ],
     [
-      "Open WebUI BSD-3-based license adds a fair-use branding protection clause",
+      "Open WebUI changed license from BSD-3 to Open WebUI license with CLA",
       "https://docs.openwebui.com/license/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Technical analysis of the Signal clone used by Trump officials",
       "https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 22:27:35",
+      "https://news.ycombinator.com/item?id=43875134"
+    ],
+    [
+      "Kate and Python Language Server",
+      "https://akselmo.dev/posts/kate-python-lsp/"
     ]
   ]
 ]
