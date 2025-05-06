@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 18:03:43](https://news.ycombinator.com/item?id=43907941) - [Show HN: Fast parser and generator for RSS, Atom, OPML and popular namespaces](https://github.com/macieklamberski/feedsmith)
+* [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust (by showing me C++)](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
+* [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
 * [2025-05-06, 17:07:58](https://news.ycombinator.com/item?id=43907376) - [Curl: We still have not seen a single valid security report done with AI help](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
 * [2025-05-06, 15:47:21](https://news.ycombinator.com/item?id=43906442) - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
