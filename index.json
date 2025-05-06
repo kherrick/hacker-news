@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-06, 22:43:06",
+      "https://news.ycombinator.com/item?id=43910423"
+    ],
+    [
+      "Sutton and Barto Book Implementation",
+      "https://github.com/ivanbelenky/RL"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 21:19:34",
       "https://news.ycombinator.com/item?id=43909774"
     ],
@@ -87,16 +97,6 @@
     [
       "Show HN: Feedsmith — Fast parser & generator for RSS, Atom, OPML feed namespaces",
       "https://github.com/macieklamberski/feedsmith"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 17:54:52",
-      "https://news.ycombinator.com/item?id=43907850"
-    ],
-    [
-      "GenAI-Accelerated TLA+ Challenge",
-      "https://foundation.tlapl.us/challenge/index.html"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-05-06, 11:36:09",
+      "https://news.ycombinator.com/item?id=43903945"
+    ],
+    [
+      "Propositions as Types (2014) [pdf]",
+      "https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 11:03:28",
       "https://news.ycombinator.com/item?id=43903728"
     ],
@@ -277,16 +287,6 @@
     [
       "Understanding effective type Aliasing in C [pdf]",
       "https://www.open-std.org/JTC1/SC22/WG14/www/docs/n3519.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 10:17:17",
-      "https://news.ycombinator.com/item?id=43893442"
-    ],
-    [
-      "The Inchtuthil Nail Hoard",
-      "https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/"
     ]
   ],
   [
