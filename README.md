@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-07, 20:42:03](https://news.ycombinator.com/item?id=43920362) - [Hunting down a C memory leak in a Go program (2021)](https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d)
 * [2025-05-07, 20:18:47](https://news.ycombinator.com/item?id=43920188) - [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
 * [2025-05-07, 19:54:08](https://news.ycombinator.com/item?id=43919959) - [How to Average in Prolog (2017)](https://storytotell.org/how-to-average-in-prolog)
 * [2025-05-07, 19:44:51](https://news.ycombinator.com/item?id=43919868) - [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
@@ -26,7 +27,6 @@
 * [2025-05-06, 12:46:49](https://news.ycombinator.com/item?id=43904478) - [Cuttlefish 'talk' with their arms, study reveals](https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/)
 * [2025-05-06, 03:47:00](https://news.ycombinator.com/item?id=43901643) - [RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
 * [2025-05-04, 18:53:29](https://news.ycombinator.com/item?id=43888634) - [Show HN: 100.st – Dev utilities I built for format conversions and encoding](https://100.st)
-* [2025-05-04, 16:01:05](https://news.ycombinator.com/item?id=43887489) - [Stringly Typed](https://www.stefanjudis.com/blog/stringly-typed/)
 * [2025-05-04, 15:34:41](https://news.ycombinator.com/item?id=43887304) - [El Cono: The mysterious sacred 'pyramid' hidden deep in the Amazon rainforest](https://www.livescience.com/planet-earth/geology/el-cono-the-mysterious-sacred-pyramid-hidden-deep-in-the-amazon-rainforest)
 * [2025-05-04, 14:56:12](https://news.ycombinator.com/item?id=43887068) - [Perfect Random Floating-Point Numbers](https://specbranch.com/posts/fp-rand/)
 * [2025-05-04, 03:27:01](https://news.ycombinator.com/item?id=43884245) - [Polycompiler: Merge Python and JavaScript code into one file that runs in both](https://github.com/EvanZhouDev/polycompiler)
