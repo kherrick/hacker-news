@@ -18,6 +18,7 @@
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 * [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
+* [2025-05-06, 15:47:21](https://news.ycombinator.com/item?id=43906442) - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
 * [2025-05-06, 15:38:04](https://news.ycombinator.com/item?id=43906346) - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
 * [2025-05-06, 15:10:00](https://news.ycombinator.com/item?id=43906018) - [Gemini 2.5 Pro Preview](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
 * [2025-05-06, 15:02:22](https://news.ycombinator.com/item?id=43905942) - [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
@@ -27,9 +28,8 @@
 * [2025-05-06, 06:27:04](https://news.ycombinator.com/item?id=43902308) - [DoorDash to acquire Deliveroo](https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html)
 * [2025-05-06, 01:51:22](https://news.ycombinator.com/item?id=43901131) - [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html)
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
-* [2025-05-05, 16:41:04](https://news.ycombinator.com/item?id=43896944) - [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
+* [2025-05-04, 12:40:32](https://news.ycombinator.com/item?id=43886381) - [DuoBook: Generate bilingual stories to learn any language](https://duobook.co)
 * [2025-05-04, 04:10:09](https://news.ycombinator.com/item?id=43884418) - [Old Timey Code and Old Timey Mono Fonts](https://github.com/dse/old-timey-mono-font)
-* [2025-05-04, 02:52:16](https://news.ycombinator.com/item?id=43884098) - [Inside an architect's underground home in Mexico City [video]](https://www.youtube.com/watch?v=y_k53QmONAY)
 
 ## [Archives](archives/index.md)
 
