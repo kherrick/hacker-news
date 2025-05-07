@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-07, 20:42:03",
+      "https://news.ycombinator.com/item?id=43920362"
+    ],
+    [
+      "Hunting down a C memory leak in a Go program (2021)",
+      "https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 20:18:47",
       "https://news.ycombinator.com/item?id=43920188"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: 100.st – Dev utilities I built for format conversions and encoding",
       "https://100.st"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 16:01:05",
-      "https://news.ycombinator.com/item?id=43887489"
-    ],
-    [
-      "Stringly Typed",
-      "https://www.stefanjudis.com/blog/stringly-typed/"
     ]
   ],
   [
