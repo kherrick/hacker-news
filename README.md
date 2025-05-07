@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-07, 21:04:39](https://news.ycombinator.com/item?id=43920544) - ['I paid for the whole GPU, I am going to use the whole GPU'](https://modal.com/blog/gpu-utilization-guide)
 * [2025-05-07, 21:00:28](https://news.ycombinator.com/item?id=43920511) - [GovEagle (YC W23) Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
 * [2025-05-07, 20:18:47](https://news.ycombinator.com/item?id=43920188) - [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
 * [2025-05-07, 19:54:08](https://news.ycombinator.com/item?id=43919959) - [How to Average in Prolog (2017)](https://storytotell.org/how-to-average-in-prolog)
 * [2025-05-07, 19:44:51](https://news.ycombinator.com/item?id=43919868) - [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
 * [2025-05-07, 19:44:11](https://news.ycombinator.com/item?id=43919862) - [Proposal: Add bare metal support to Go](https://github.com/golang/go/issues/73608)
-* [2025-05-07, 19:41:21](https://news.ycombinator.com/item?id=43919840) - [Protein-slayer drugs could beat some of the cruellest cancers](https://www.nature.com/articles/d41586-025-01350-2)
 * [2025-05-07, 19:38:16](https://news.ycombinator.com/item?id=43919812) - [Vagus Nerve Stimulation Erases PTSD](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/)
 * [2025-05-07, 17:45:33](https://news.ycombinator.com/item?id=43918620) - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
 * [2025-05-07, 17:32:26](https://news.ycombinator.com/item?id=43918484) - [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
