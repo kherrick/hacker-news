@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-07, 14:44:38](https://news.ycombinator.com/item?id=43916411) - [WeightWatchers Files Bankruptcy, Adapts to Chemically Induced Weight-Loss Future](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
 * [2025-05-07, 12:33:40](https://news.ycombinator.com/item?id=43914832) - [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2025-05-07, 12:27:40](https://news.ycombinator.com/item?id=43914784) - [Using tests as a debugging tool for logic errors](https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/)
 * [2025-05-07, 12:21:58](https://news.ycombinator.com/item?id=43914738) - [Jargonic Sets New SOTA for Japanese ASR](https://aiola.ai/blog/jargonic-japanese-asr/)
@@ -16,7 +17,6 @@
 * [2025-05-06, 20:41:47](https://news.ycombinator.com/item?id=43909430) - [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
-* [2025-05-06, 18:47:49](https://news.ycombinator.com/item?id=43908368) - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
 * [2025-05-06, 15:10:00](https://news.ycombinator.com/item?id=43906018) - [Gemini 2.5 Pro Preview](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
