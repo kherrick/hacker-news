@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 21:48:08](https://news.ycombinator.com/item?id=43920889) - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
+* [2025-05-07, 21:34:06](https://news.ycombinator.com/item?id=43920792) - [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal.](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2025-05-07, 21:05:36](https://news.ycombinator.com/item?id=43920555) - [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
 * [2025-05-07, 21:04:39](https://news.ycombinator.com/item?id=43920544) - ['I paid for the whole GPU, I am going to use the whole GPU'](https://modal.com/blog/gpu-utilization-guide)
 * [2025-05-07, 21:00:28](https://news.ycombinator.com/item?id=43920511) - [GovEagle (YC W23) Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)

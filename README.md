@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-07, 21:48:08](https://news.ycombinator.com/item?id=43920889) - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
+* [2025-05-07, 21:34:06](https://news.ycombinator.com/item?id=43920792) - [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal.](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2025-05-07, 21:05:36](https://news.ycombinator.com/item?id=43920555) - [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
 * [2025-05-07, 21:04:39](https://news.ycombinator.com/item?id=43920544) - ['I paid for the whole GPU, I am going to use the whole GPU'](https://modal.com/blog/gpu-utilization-guide)
 * [2025-05-07, 21:00:28](https://news.ycombinator.com/item?id=43920511) - [GovEagle (YC W23) Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
@@ -7,7 +9,6 @@
 * [2025-05-07, 19:54:08](https://news.ycombinator.com/item?id=43919959) - [How to Average in Prolog (2017)](https://storytotell.org/how-to-average-in-prolog)
 * [2025-05-07, 19:44:51](https://news.ycombinator.com/item?id=43919868) - [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
 * [2025-05-07, 19:44:11](https://news.ycombinator.com/item?id=43919862) - [Proposal: Add bare metal support to Go](https://github.com/golang/go/issues/73608)
-* [2025-05-07, 19:38:16](https://news.ycombinator.com/item?id=43919812) - [Vagus Nerve Stimulation Erases PTSD](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/)
 * [2025-05-07, 17:45:33](https://news.ycombinator.com/item?id=43918620) - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
 * [2025-05-07, 17:32:26](https://news.ycombinator.com/item?id=43918484) - [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
 * [2025-05-07, 16:06:44](https://news.ycombinator.com/item?id=43917461) - [Create and edit images with Gemini 2.0 in preview](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/)
@@ -22,7 +23,6 @@
 * [2025-05-07, 09:41:13](https://news.ycombinator.com/item?id=43913751) - [So Much Blood](https://dynomight.net/blood/)
 * [2025-05-07, 06:38:40](https://news.ycombinator.com/item?id=43912844) - [Zed: High-performance AI Code Editor](https://zed.dev/blog/fastest-ai-code-editor)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
-* [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 * [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [Single hair-like electrode outperforms traditional 21-lead EEG](https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/)
 * [2025-05-06, 12:46:49](https://news.ycombinator.com/item?id=43904478) - [Cuttlefish 'talk' with their arms, study reveals](https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/)
 * [2025-05-06, 03:47:00](https://news.ycombinator.com/item?id=43901643) - [RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
