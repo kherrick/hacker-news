@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 17:43:06](https://news.ycombinator.com/item?id=43918600) - [Three Chapters at Cloudflare: Programmer to CTO to Board of Directors](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/)
+* [2025-05-07, 17:42:56](https://news.ycombinator.com/item?id=43918596) - [Social AI companions pose unacceptable risks to teens and children under 18](https://www.commonsensemedia.org/ai-ratings/social-ai-companions)
 * [2025-05-07, 17:27:33](https://news.ycombinator.com/item?id=43918425) - [Tariffs Killed Arduboy](https://community.arduboy.com/t/tariffs-killed-arduboy/12675)
 * [2025-05-07, 17:11:03](https://news.ycombinator.com/item?id=43918237) - [Asyncio Demystified: Rebuilding It from Scratch One Yield at a Time](https://dev.indooroutdoor.io/asyncio-demystified-rebuilding-it-from-scratch-one-yield-at-a-time)
 * [2025-05-07, 17:01:45](https://news.ycombinator.com/item?id=43918134) - [Motion (YC W20) Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
