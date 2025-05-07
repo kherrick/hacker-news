@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-05-07, 12:33:40",
+      "https://news.ycombinator.com/item?id=43914832"
+    ],
+    [
+      "Unity's Open-Source Double Standard: The Ban of VLC",
+      "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 12:18:38",
+      "https://news.ycombinator.com/item?id=43914705"
+    ],
+    [
+      "CLion Is Now Free for Non-Commercial Use",
+      "https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 12:14:27",
+      "https://news.ycombinator.com/item?id=43914677"
+    ],
+    [
+      "Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch",
+      "https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 10:12:14",
+      "https://news.ycombinator.com/item?id=43913950"
+    ],
+    [
+      "Migrating a JavaScript Project from Prettier and ESLint to BiomeJS",
+      "https://blog.appsignal.com/2025/05/07/migrating-a-javascript-project-from-prettier-and-eslint-to-biomejs.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 10:04:45",
+      "https://news.ycombinator.com/item?id=43913896"
+    ],
+    [
+      "Agentic Editing in Zed",
+      "https://zed.dev/blog/fastest-ai-code-editor?e=60"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 07:00:04",
       "https://news.ycombinator.com/item?id=43912944"
     ],
@@ -47,16 +97,6 @@
     [
       "Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)",
       "https://whippyterm.com"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 22:43:06",
-      "https://news.ycombinator.com/item?id=43910423"
-    ],
-    [
-      "Sutton and Barto book implementation",
-      "https://github.com/ivanbelenky/RL"
     ]
   ],
   [
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2025-05-06, 17:29:31",
-      "https://news.ycombinator.com/item?id=43907586"
-    ],
-    [
-      "Is Planet Nine Alone in the Outer System?",
-      "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 16:18:42",
       "https://news.ycombinator.com/item?id=43906841"
     ],
     [
       "Launch HN: Exa (YC S21) – The web as a database",
       "https://news.ycombinator.com/item?id=43906841"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 15:38:04",
-      "https://news.ycombinator.com/item?id=43906346"
-    ],
-    [
-      "Show HN: Plexe – ML Models from a Prompt",
-      "https://github.com/plexe-ai/plexe"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-05-06, 11:38:44",
-      "https://news.ycombinator.com/item?id=43903959"
-    ],
-    [
-      "New studies offer insight into Lyme disease’s treatment, lingering symptoms",
-      "https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 10:10:52",
       "https://news.ycombinator.com/item?id=43903400"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-05-05, 16:13:21",
-      "https://news.ycombinator.com/item?id=43896609"
-    ],
-    [
-      "(ab?)using Node module hooks to speed up development",
-      "https://immaculata.dev/blog/hacking-nodejs-modules.html"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 14:46:52",
       "https://news.ycombinator.com/item?id=43895693"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-05-05, 03:29:41",
-      "https://news.ycombinator.com/item?id=43891723"
+      "2025-05-04, 17:56:29",
+      "https://news.ycombinator.com/item?id=43888246"
     ],
     [
-      "Time Between The Lines: how memory access affects performance (2015)",
-      "https://bitbashing.io/memory-performance.html"
+      "The World Of dBASE (1984) [video]",
+      "https://www.youtube.com/watch?v=bYU3CQomE5M"
     ]
   ],
   [
