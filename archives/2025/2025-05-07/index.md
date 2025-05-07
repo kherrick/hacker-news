@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 15:26:43](https://news.ycombinator.com/item?id=43916956) - [Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)](https://github.com/ciromattia/kcc)
+* [2025-05-07, 14:57:03](https://news.ycombinator.com/item?id=43916577) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-07, 14:44:38](https://news.ycombinator.com/item?id=43916411) - [WeightWatchers Files Bankruptcy, Adapts to Chemically Induced Weight-Loss Future](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
 * [2025-05-07, 13:43:10](https://news.ycombinator.com/item?id=43915586) - [Mississippi Can't Possibly Have Good Schools](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good)
 * [2025-05-07, 13:00:22](https://news.ycombinator.com/item?id=43915070) - [U.S. Jury Orders NSO Group to Pay $168M in WhatsApp Spyware Case](https://techoreon.com/us-jury-nso-group-pay-whatsapp-168-million-spyware/)

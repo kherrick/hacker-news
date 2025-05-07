@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-07, 15:26:43](https://news.ycombinator.com/item?id=43916956) - [Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)](https://github.com/ciromattia/kcc)
+* [2025-05-07, 14:57:03](https://news.ycombinator.com/item?id=43916577) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-07, 14:44:38](https://news.ycombinator.com/item?id=43916411) - [WeightWatchers Files Bankruptcy, Adapts to Chemically Induced Weight-Loss Future](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
 * [2025-05-07, 12:33:40](https://news.ycombinator.com/item?id=43914832) - [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2025-05-07, 12:27:40](https://news.ycombinator.com/item?id=43914784) - [Using tests as a debugging tool for logic errors](https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/)
@@ -14,7 +16,6 @@
 * [2025-05-06, 23:33:54](https://news.ycombinator.com/item?id=43910745) - [Bloat is still software's biggest vulnerability (2024)](https://spectrum.ieee.org/lean-software-development)
 * [2025-05-06, 23:22:49](https://news.ycombinator.com/item?id=43910685) - [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
 * [2025-05-06, 23:22:08](https://news.ycombinator.com/item?id=43910681) - [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
-* [2025-05-06, 20:41:47](https://news.ycombinator.com/item?id=43909430) - [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
@@ -23,7 +24,6 @@
 * [2025-05-06, 15:02:22](https://news.ycombinator.com/item?id=43905942) - [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
 * [2025-05-06, 12:46:49](https://news.ycombinator.com/item?id=43904478) - [Cuttlefish 'talk' with their arms, study reveals](https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/)
 * [2025-05-06, 06:27:04](https://news.ycombinator.com/item?id=43902308) - [DoorDash to acquire Deliveroo](https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html)
-* [2025-05-06, 01:51:22](https://news.ycombinator.com/item?id=43901131) - [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html)
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
 * [2025-05-04, 17:00:04](https://news.ycombinator.com/item?id=43887874) - [WebMonkeys: parallel GPU programming in JavaScript](https://github.com/VictorTaelin/WebMonkeys)
