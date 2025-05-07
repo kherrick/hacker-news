@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 17:27:33](https://news.ycombinator.com/item?id=43918425) - [Tariffs Killed Arduboy](https://community.arduboy.com/t/tariffs-killed-arduboy/12675)
+* [2025-05-07, 17:11:03](https://news.ycombinator.com/item?id=43918237) - [Asyncio Demystified: Rebuilding It from Scratch One Yield at a Time](https://dev.indooroutdoor.io/asyncio-demystified-rebuilding-it-from-scratch-one-yield-at-a-time)
 * [2025-05-07, 17:01:45](https://news.ycombinator.com/item?id=43918134) - [Motion (YC W20) Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2025-05-07, 16:41:04](https://news.ycombinator.com/item?id=43917855) - [Getting Older Isn't What You Think](https://www.katycowan.co.uk/blog/getting-old)
 * [2025-05-07, 16:06:44](https://news.ycombinator.com/item?id=43917461) - [Create and edit images with Gemini 2.0 in preview](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/)
