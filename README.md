@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-07, 08:00:28](https://news.ycombinator.com/item?id=43913222) - [A coherent European/non-US cloud strategy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
 * [2025-05-07, 07:00:04](https://news.ycombinator.com/item?id=43912944) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer)
 * [2025-05-07, 00:54:19](https://news.ycombinator.com/item?id=43911167) - [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
 * [2025-05-06, 23:33:54](https://news.ycombinator.com/item?id=43910745) - [Bloat is still software's biggest vulnerability (2024)](https://spectrum.ieee.org/lean-software-development)
@@ -14,7 +15,6 @@
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 * [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
-* [2025-05-06, 15:38:04](https://news.ycombinator.com/item?id=43906346) - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
 * [2025-05-06, 15:10:00](https://news.ycombinator.com/item?id=43906018) - [Gemini 2.5 Pro Preview](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
 * [2025-05-06, 15:02:22](https://news.ycombinator.com/item?id=43905942) - [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
 * [2025-05-06, 14:07:57](https://news.ycombinator.com/item?id=43905299) - [Accents in latent spaces: How AI hears accent strength in English](https://accent-strength.boldvoice.com/)
