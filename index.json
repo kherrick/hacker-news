@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-05-06, 19:39:44",
+      "https://news.ycombinator.com/item?id=43908846"
+    ],
+    [
+      "I built an AI code review agent in a few hours, here's what I learned",
+      "https://www.sourcebot.dev/blog/review-agent-learnings"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 18:47:49",
       "https://news.ycombinator.com/item?id=43908368"
     ],
@@ -277,16 +287,6 @@
     [
       "WebMonkeys: parallel GPU programming in JavaScript",
       "https://github.com/VictorTaelin/WebMonkeys"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 12:40:32",
-      "https://news.ycombinator.com/item?id=43886381"
-    ],
-    [
-      "DuoBook: Generate bilingual stories to learn any language",
-      "https://duobook.co"
     ]
   ],
   [
