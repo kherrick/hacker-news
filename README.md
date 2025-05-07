@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-07, 23:10:22](https://news.ycombinator.com/item?id=43921421) - [A 'Trump Card Visa' Is Already Showing Up in Immigration Forms](https://www.wired.com/story/doge-trump-gold-visa-program-immigration/)
 * [2025-05-07, 22:43:32](https://news.ycombinator.com/item?id=43921265) - [Doctors Warn Accountants of Private-Equity Drain on Quality: You Could Be Next](https://www.wsj.com/articles/doctors-warn-accountants-of-private-equity-drain-on-quality-you-could-be-next-1be0f0fd)
 * [2025-05-07, 22:25:54](https://news.ycombinator.com/item?id=43921129) - [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/)
 * [2025-05-07, 21:48:08](https://news.ycombinator.com/item?id=43920889) - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
@@ -24,6 +23,7 @@
 * [2025-05-07, 11:06:17](https://news.ycombinator.com/item?id=43914235) - [My quest to make motorcycle riding that tad bit safer](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/)
 * [2025-05-07, 09:41:13](https://news.ycombinator.com/item?id=43913751) - [So Much Blood](https://dynomight.net/blood/)
 * [2025-05-07, 06:38:40](https://news.ycombinator.com/item?id=43912844) - [Zed: High-performance AI Code Editor](https://zed.dev/blog/fastest-ai-code-editor)
+* [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:15:59](https://news.ycombinator.com/item?id=43909191) - [The Reverse Turing Test Game](https://reverse-turing.netlify.app/)
 * [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [Single hair-like electrode outperforms traditional 21-lead EEG](https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/)
 * [2025-05-06, 03:47:00](https://news.ycombinator.com/item?id=43901643) - [RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
