@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-07, 21:05:36",
+      "https://news.ycombinator.com/item?id=43920555"
+    ],
+    [
+      "OpenAI for Countries",
+      "https://openai.com/global-affairs/openai-for-countries/"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 21:04:39",
       "https://news.ycombinator.com/item?id=43920544"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-05-06, 17:51:03",
-      "https://news.ycombinator.com/item?id=43907820"
-    ],
-    [
-      "Matt Godbolt sold me on Rust by showing me C++",
-      "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 15:53:30",
       "https://news.ycombinator.com/item?id=43906528"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-05-04, 18:53:29",
-      "https://news.ycombinator.com/item?id=43888634"
+      "2025-05-04, 17:19:14",
+      "https://news.ycombinator.com/item?id=43888007"
     ],
     [
-      "Show HN: 100.st – Dev utilities I built for format conversions and encoding",
-      "https://100.st"
+      "A cycle-accurate IBM PC emulator in your web browser",
+      "https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img"
     ]
   ],
   [
