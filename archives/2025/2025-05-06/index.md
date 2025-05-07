@@ -30,6 +30,7 @@
 * [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
 * [2025-05-06, 17:07:58](https://news.ycombinator.com/item?id=43907376) - [Curl: We still have not seen a single valid security report done with AI help](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
+* [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [Single hair-like electrode outperforms traditional 21-lead EEG](https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/)
 * [2025-05-06, 15:47:21](https://news.ycombinator.com/item?id=43906442) - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
 * [2025-05-06, 15:42:00](https://news.ycombinator.com/item?id=43906379) - [DoomArena: A Framework for Testing AI Agents Against Evolving Security Threats](https://arxiv.org/abs/2504.14064)
 * [2025-05-06, 15:38:04](https://news.ycombinator.com/item?id=43906346) - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
