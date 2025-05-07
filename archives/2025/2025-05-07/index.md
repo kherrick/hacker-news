@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 12:33:40](https://news.ycombinator.com/item?id=43914832) - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+* [2025-05-07, 12:18:38](https://news.ycombinator.com/item?id=43914705) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
+* [2025-05-07, 12:14:27](https://news.ycombinator.com/item?id=43914677) - [Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard)
+* [2025-05-07, 10:12:14](https://news.ycombinator.com/item?id=43913950) - [Migrating a JavaScript Project from Prettier and ESLint to BiomeJS](https://blog.appsignal.com/2025/05/07/migrating-a-javascript-project-from-prettier-and-eslint-to-biomejs.html)
+* [2025-05-07, 10:04:45](https://news.ycombinator.com/item?id=43913896) - [Agentic Editing in Zed](https://zed.dev/blog/fastest-ai-code-editor?e=60)
 * [2025-05-07, 08:00:28](https://news.ycombinator.com/item?id=43913222) - [A coherent European/non-US cloud strategy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
 * [2025-05-07, 07:00:04](https://news.ycombinator.com/item?id=43912944) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer)
 * [2025-05-07, 01:11:10](https://news.ycombinator.com/item?id=43911252) - [EPA Plans to Shut Down the Energy Star Program](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html)
