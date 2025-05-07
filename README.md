@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-07, 07:00:04](https://news.ycombinator.com/item?id=43912944) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer)
-* [2025-05-07, 01:11:10](https://news.ycombinator.com/item?id=43911252) - [EPA Plans to Shut Down the Energy Star Program](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html)
 * [2025-05-07, 00:54:19](https://news.ycombinator.com/item?id=43911167) - [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
 * [2025-05-06, 23:33:54](https://news.ycombinator.com/item?id=43910745) - [Bloat is still software's biggest vulnerability (2024)](https://spectrum.ieee.org/lean-software-development)
 * [2025-05-06, 23:22:49](https://news.ycombinator.com/item?id=43910685) - [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
@@ -20,6 +19,7 @@
 * [2025-05-06, 15:02:22](https://news.ycombinator.com/item?id=43905942) - [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
 * [2025-05-06, 14:07:57](https://news.ycombinator.com/item?id=43905299) - [Accents in latent spaces: How AI hears accent strength in English](https://accent-strength.boldvoice.com/)
 * [2025-05-06, 13:58:03](https://news.ycombinator.com/item?id=43905185) - [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
+* [2025-05-06, 11:38:44](https://news.ycombinator.com/item?id=43903959) - [New studies offer insight into Lyme disease’s treatment, lingering symptoms](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
 * [2025-05-06, 10:10:52](https://news.ycombinator.com/item?id=43903400) - [FTC rule on unfair or deceptive fees to take effect on May 12](https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025)
 * [2025-05-06, 06:27:04](https://news.ycombinator.com/item?id=43902308) - [DoorDash to acquire Deliveroo](https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html)
 * [2025-05-06, 01:51:22](https://news.ycombinator.com/item?id=43901131) - [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html)
