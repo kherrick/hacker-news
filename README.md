@@ -27,7 +27,7 @@
 * [2025-05-06, 01:51:22](https://news.ycombinator.com/item?id=43901131) - [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html)
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
-* [2025-05-05, 16:41:04](https://news.ycombinator.com/item?id=43896944) - [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
+* [2025-05-05, 16:13:21](https://news.ycombinator.com/item?id=43896609) - [(ab?)using Node module hooks to speed up development](https://immaculata.dev/blog/hacking-nodejs-modules.html)
 * [2025-05-04, 12:40:32](https://news.ycombinator.com/item?id=43886381) - [DuoBook: Generate bilingual stories to learn any language](https://duobook.co)
 * [2025-05-04, 04:10:09](https://news.ycombinator.com/item?id=43884418) - [Old Timey Code and Old Timey Mono Fonts](https://github.com/dse/old-timey-mono-font)
 
