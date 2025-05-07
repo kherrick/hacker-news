@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-07, 20:18:47",
+      "https://news.ycombinator.com/item?id=43920188"
+    ],
+    [
+      "Introducing Web Search on the Anthropic API",
+      "https://www.anthropic.com/news/web-search-api"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 19:54:08",
+      "https://news.ycombinator.com/item?id=43919959"
+    ],
+    [
+      "How to Average in Prolog (2017)",
+      "https://storytotell.org/how-to-average-in-prolog"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 19:44:51",
+      "https://news.ycombinator.com/item?id=43919868"
+    ],
+    [
+      "Mac Themes Garden",
+      "https://damien.zone/introducing-mac-themes-garden/"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 19:44:11",
+      "https://news.ycombinator.com/item?id=43919862"
+    ],
+    [
+      "Proposal: Add bare metal support to Go",
+      "https://github.com/golang/go/issues/73608"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 19:38:16",
       "https://news.ycombinator.com/item?id=43919812"
     ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43918484"
     ],
     [
-      "Ty: A fast Python type checker and language server, written in Rust",
+      "Ty: A fast Python type checker and language server",
       "https://github.com/astral-sh/ty"
     ]
   ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2025-05-06, 23:22:49",
-      "https://news.ycombinator.com/item?id=43910685"
-    ],
-    [
-      "Alignment is not free: How model upgrades can silence your confidence signals",
-      "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 20:39:35",
       "https://news.ycombinator.com/item?id=43909409"
     ],
@@ -187,16 +217,6 @@
     [
       "Matt Godbolt sold me on Rust by showing me C++",
       "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 16:18:42",
-      "https://news.ycombinator.com/item?id=43906841"
-    ],
-    [
-      "Launch HN: Exa (YC S21) – The web as a database",
-      "https://news.ycombinator.com/item?id=43906841"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-05-06, 00:57:48",
-      "https://news.ycombinator.com/item?id=43900877"
-    ],
-    [
-      "OpenAI reaches agreement to buy Windsurf for $3B",
-      "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 20:47:04",
       "https://news.ycombinator.com/item?id=43899288"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: 100.st – Dev utilities I built for format conversions and encoding",
       "https://100.st"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 17:00:04",
-      "https://news.ycombinator.com/item?id=43887874"
-    ],
-    [
-      "WebMonkeys: parallel GPU programming in JavaScript (2016)",
-      "https://github.com/VictorTaelin/WebMonkeys"
     ]
   ],
   [
