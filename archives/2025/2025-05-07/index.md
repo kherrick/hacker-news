@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 13:43:10](https://news.ycombinator.com/item?id=43915586) - [Mississippi Can't Possibly Have Good Schools](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good)
 * [2025-05-07, 13:00:22](https://news.ycombinator.com/item?id=43915070) - [U.S. Jury Orders NSO Group to Pay $168M in WhatsApp Spyware Case](https://techoreon.com/us-jury-nso-group-pay-whatsapp-168-million-spyware/)
 * [2025-05-07, 12:38:14](https://news.ycombinator.com/item?id=43914876) - [Richest 10 Percent Responsible for Two-Thirds of Warming](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming)
 * [2025-05-07, 12:33:51](https://news.ycombinator.com/item?id=43914834) - [Everyone Is Cheating Their Way Through College](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html)
