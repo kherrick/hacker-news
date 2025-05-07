@@ -4,12 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 23:41:13](https://news.ycombinator.com/item?id=43910794) - [FTC bans hidden fees for live events and short-term rentals, effective May 12](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/)
+* [2025-05-06, 23:33:54](https://news.ycombinator.com/item?id=43910745) - [Why Bloat Is Still Software's Biggest Vulnerability (2024)](https://spectrum.ieee.org/lean-software-development)
+* [2025-05-06, 23:28:37](https://news.ycombinator.com/item?id=43910720) - [DEA Once Touted Body Cameras, Now Abandoning Them](https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump)
+* [2025-05-06, 23:22:08](https://news.ycombinator.com/item?id=43910681) - [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
 * [2025-05-06, 23:02:46](https://news.ycombinator.com/item?id=43910565) - [Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)](https://whippyterm.com)
 * [2025-05-06, 22:43:06](https://news.ycombinator.com/item?id=43910423) - [Sutton and Barto Book Implementation](https://github.com/ivanbelenky/RL)
 * [2025-05-06, 22:11:24](https://news.ycombinator.com/item?id=43910155) - [My Dream Thermostat](https://leontrolski.github.io/thermostat.html)
 * [2025-05-06, 21:19:34](https://news.ycombinator.com/item?id=43909774) - [Some Thoughts on LCP eBook DRM](https://shkspr.mobi/blog/2025/03/some-thoughts-on-lcp-ebook-drm/)
 * [2025-05-06, 21:01:57](https://news.ycombinator.com/item?id=43909596) - [Continue (YC S23) Is Hiring Software Engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-05-06, 20:41:51](https://news.ycombinator.com/item?id=43909432) - [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
+* [2025-05-06, 20:41:47](https://news.ycombinator.com/item?id=43909430) - [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
+* [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [A Step Towards Music Generation Foundation Model](https://github.com/ace-step/ACE-Step)
 * [2025-05-06, 20:17:57](https://news.ycombinator.com/item?id=43909220) - [TeleMessage, used by Trump officials, can access plaintext chat logs](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/)
 * [2025-05-06, 20:10:06](https://news.ycombinator.com/item?id=43909124) - [Scientists discover new way to convert corn waste to low-cost sugar for biofuel](https://news.wsu.edu/press-release/2025/05/06/scientists-discover-a-new-way-to-convert-corn-waste-into-low-cost-sugar-for-biofuel/)

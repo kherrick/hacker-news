@@ -16,6 +16,7 @@
 * [2025-05-04, 21:01:11](https://news.ycombinator.com/item?id=43889543) - [KaiPod Learning (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)
 * [2025-05-04, 20:55:41](https://news.ycombinator.com/item?id=43889502) - [Ask HN: Hackathons feel fake now – anyone else noticing this?](https://news.ycombinator.com/item?id=43889502)
 * [2025-05-04, 20:24:50](https://news.ycombinator.com/item?id=43889311) - [The New Control Society](https://www.thenewatlantis.com/publications/the-new-control-society)
+* [2025-05-04, 20:20:58](https://news.ycombinator.com/item?id=43889277) - [Can Speed Radar Measure Music? [video]](https://www.youtube.com/watch?v=CA79t0bYAjw)
 * [2025-05-04, 19:43:54](https://news.ycombinator.com/item?id=43888998) - [A Trade Breakdown](https://www.lynalden.com/may-2025-newsletter/)
 * [2025-05-04, 19:32:05](https://news.ycombinator.com/item?id=43888907) - [NASA Proposal Would Shift Agency's Focus Away from Space Science](https://www.nytimes.com/2025/05/02/us/politics/trump-budget-nasa-cuts.html)
 * [2025-05-04, 19:26:42](https://news.ycombinator.com/item?id=43888871) - [Why are there no thunderstorms in the UK?](https://www.onepotscience.com/why-are-there-no-thunderstorms-in-the-uk/)
