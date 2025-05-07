@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-05-07, 13:43:10",
-      "https://news.ycombinator.com/item?id=43915586"
-    ],
-    [
-      "Mississippi Can't Possibly Have Good Schools",
-      "https://www.educationdaly.us/p/mississippi-cant-possibly-have-good"
-    ]
-  ],
-  [
-    [
       "2025-05-07, 12:33:40",
       "https://news.ycombinator.com/item?id=43914832"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2025-05-06, 13:58:03",
-      "https://news.ycombinator.com/item?id=43905185"
-    ],
-    [
-      "Nnd – a TUI debugger alternative to GDB, LLDB",
-      "https://github.com/al13n321/nnd"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 12:46:49",
       "https://news.ycombinator.com/item?id=43904478"
     ],
@@ -247,6 +227,16 @@
     [
       "DoorDash to acquire Deliveroo",
       "https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 01:51:22",
+      "https://news.ycombinator.com/item?id=43901131"
+    ],
+    [
+      "Scientists have found a way to 'tattoo' tardigrades",
+      "https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Old Timey Code and Old Timey Mono Fonts",
       "https://github.com/dse/old-timey-mono-font"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 03:27:01",
+      "https://news.ycombinator.com/item?id=43884245"
+    ],
+    [
+      "Polycompiler: Merge Python and JavaScript code into one file that runs in both",
+      "https://github.com/EvanZhouDev/polycompiler"
     ]
   ]
 ]
