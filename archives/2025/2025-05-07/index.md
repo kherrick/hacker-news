@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 20:18:47](https://news.ycombinator.com/item?id=43920188) - [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
+* [2025-05-07, 19:54:08](https://news.ycombinator.com/item?id=43919959) - [How to Average in Prolog (2017)](https://storytotell.org/how-to-average-in-prolog)
+* [2025-05-07, 19:44:51](https://news.ycombinator.com/item?id=43919868) - [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
+* [2025-05-07, 19:44:11](https://news.ycombinator.com/item?id=43919862) - [Proposal: Add bare metal support to Go](https://github.com/golang/go/issues/73608)
 * [2025-05-07, 19:38:16](https://news.ycombinator.com/item?id=43919812) - [Vagus Nerve Stimulation Erases PTSD](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/)
 * [2025-05-07, 17:45:33](https://news.ycombinator.com/item?id=43918620) - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
 * [2025-05-07, 17:43:06](https://news.ycombinator.com/item?id=43918600) - [Three Chapters at Cloudflare: Programmer to CTO to Board of Directors](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/)
