@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-07, 07:00:04](https://news.ycombinator.com/item?id=43912944) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer)
 * [2025-05-07, 01:11:10](https://news.ycombinator.com/item?id=43911252) - [EPA Plans to Shut Down the Energy Star Program](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html)
 * [2025-05-07, 00:54:19](https://news.ycombinator.com/item?id=43911167) - [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
 * [2025-05-06, 23:33:54](https://news.ycombinator.com/item?id=43910745) - [Bloat is still software's biggest vulnerability (2024)](https://spectrum.ieee.org/lean-software-development)
@@ -7,7 +8,6 @@
 * [2025-05-06, 23:22:08](https://news.ycombinator.com/item?id=43910681) - [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
 * [2025-05-06, 23:02:46](https://news.ycombinator.com/item?id=43910565) - [Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)](https://whippyterm.com)
 * [2025-05-06, 22:43:06](https://news.ycombinator.com/item?id=43910423) - [Sutton and Barto book implementation](https://github.com/ivanbelenky/RL)
-* [2025-05-06, 21:01:57](https://news.ycombinator.com/item?id=43909596) - [Continue (YC S23) is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-05-06, 20:41:47](https://news.ycombinator.com/item?id=43909430) - [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
