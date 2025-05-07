@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 17:01:45](https://news.ycombinator.com/item?id=43918134) - [Motion (YC W20) Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2025-05-07, 16:41:04](https://news.ycombinator.com/item?id=43917855) - [Getting Older Isn't What You Think](https://www.katycowan.co.uk/blog/getting-old)
+* [2025-05-07, 16:06:44](https://news.ycombinator.com/item?id=43917461) - [Create and edit images with Gemini 2.0 in preview](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/)
 * [2025-05-07, 16:05:34](https://news.ycombinator.com/item?id=43917448) - [Ghost students are creating an 'agonizing' problem for Calif. colleges](https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php)
 * [2025-05-07, 15:58:41](https://news.ycombinator.com/item?id=43917376) - [Telling Lies: Bowie and Online Music Distribution in 1996](https://cybercultural.com/p/online-music-distribution-1996/)
 * [2025-05-07, 15:38:46](https://news.ycombinator.com/item?id=43917122) - [OpenSearch 3.0 Released](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/)
 * [2025-05-07, 15:26:43](https://news.ycombinator.com/item?id=43916956) - [Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)](https://github.com/ciromattia/kcc)
 * [2025-05-07, 14:57:03](https://news.ycombinator.com/item?id=43916577) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-07, 14:44:38](https://news.ycombinator.com/item?id=43916411) - [WeightWatchers Files Bankruptcy, Adapts to Chemically Induced Weight-Loss Future](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
+* [2025-05-07, 14:24:09](https://news.ycombinator.com/item?id=43916098) - [Mistral ships le chat – enterprise AI assistant that can run on prem](https://mistral.ai/news/le-chat-enterprise)
 * [2025-05-07, 13:43:10](https://news.ycombinator.com/item?id=43915586) - [Mississippi Can't Possibly Have Good Schools](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good)
 * [2025-05-07, 13:00:22](https://news.ycombinator.com/item?id=43915070) - [U.S. Jury Orders NSO Group to Pay $168M in WhatsApp Spyware Case](https://techoreon.com/us-jury-nso-group-pay-whatsapp-168-million-spyware/)
 * [2025-05-07, 12:38:14](https://news.ycombinator.com/item?id=43914876) - [Richest 10 Percent Responsible for Two-Thirds of Warming](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming)
