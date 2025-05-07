@@ -42,6 +42,7 @@
 * [2025-05-04, 14:57:59](https://news.ycombinator.com/item?id=43887073) - [Why Flatpak Apps Use So Much Disk Space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
 * [2025-05-04, 14:56:12](https://news.ycombinator.com/item?id=43887068) - [Perfect Random Floating-Point Numbers](https://specbranch.com/posts/fp-rand/)
 * [2025-05-04, 13:38:31](https://news.ycombinator.com/item?id=43886635) - [Woman missing for more than 60 years found 'alive and well'](https://news.sky.com/story/woman-missing-for-more-than-60-years-found-alive-and-well-13361368)
+* [2025-05-04, 13:30:22](https://news.ycombinator.com/item?id=43886604) - [Know Your Enemy: How Three Years at McKinsey Shaped My Second Startup](https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup)
 * [2025-05-04, 13:29:55](https://news.ycombinator.com/item?id=43886601) - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
 * [2025-05-04, 13:21:33](https://news.ycombinator.com/item?id=43886552) - [The Texan Who Built an Empire of Ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
 * [2025-05-04, 12:44:47](https://news.ycombinator.com/item?id=43886399) - ['Bizarro World'](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)

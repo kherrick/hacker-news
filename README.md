@@ -2,7 +2,6 @@
 
 * [2025-05-07, 15:26:43](https://news.ycombinator.com/item?id=43916956) - [Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)](https://github.com/ciromattia/kcc)
 * [2025-05-07, 14:57:03](https://news.ycombinator.com/item?id=43916577) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
-* [2025-05-07, 14:44:38](https://news.ycombinator.com/item?id=43916411) - [WeightWatchers Files Bankruptcy, Adapts to Chemically Induced Weight-Loss Future](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
 * [2025-05-07, 12:33:40](https://news.ycombinator.com/item?id=43914832) - [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2025-05-07, 12:27:40](https://news.ycombinator.com/item?id=43914784) - [Using tests as a debugging tool for logic errors](https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/)
 * [2025-05-07, 12:21:58](https://news.ycombinator.com/item?id=43914738) - [Jargonic Sets New SOTA for Japanese ASR](https://aiola.ai/blog/jargonic-japanese-asr/)
@@ -28,6 +27,7 @@
 * [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
 * [2025-05-04, 17:00:04](https://news.ycombinator.com/item?id=43887874) - [WebMonkeys: parallel GPU programming in JavaScript](https://github.com/VictorTaelin/WebMonkeys)
 * [2025-05-04, 14:56:12](https://news.ycombinator.com/item?id=43887068) - [Perfect Random Floating-Point Numbers](https://specbranch.com/posts/fp-rand/)
+* [2025-05-04, 13:30:22](https://news.ycombinator.com/item?id=43886604) - [Know Your Enemy: How Three Years at McKinsey Shaped My Second Startup](https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup)
 * [2025-05-04, 04:10:09](https://news.ycombinator.com/item?id=43884418) - [Old Timey Code and Old Timey Mono Fonts](https://github.com/dse/old-timey-mono-font)
 * [2025-05-04, 03:27:01](https://news.ycombinator.com/item?id=43884245) - [Polycompiler: Merge Python and JavaScript code into one file that runs in both](https://github.com/EvanZhouDev/polycompiler)
 
