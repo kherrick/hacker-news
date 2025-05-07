@@ -25,9 +25,9 @@
 * [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [Single hair-like electrode outperforms traditional 21-lead EEG](https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/)
 * [2025-05-06, 12:46:49](https://news.ycombinator.com/item?id=43904478) - [Cuttlefish 'talk' with their arms, study reveals](https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/)
 * [2025-05-06, 03:47:00](https://news.ycombinator.com/item?id=43901643) - [RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
-* [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
 * [2025-05-04, 18:53:29](https://news.ycombinator.com/item?id=43888634) - [Show HN: 100.st – Dev utilities I built for format conversions and encoding](https://100.st)
 * [2025-05-04, 16:01:05](https://news.ycombinator.com/item?id=43887489) - [Stringly Typed](https://www.stefanjudis.com/blog/stringly-typed/)
+* [2025-05-04, 15:34:41](https://news.ycombinator.com/item?id=43887304) - [El Cono: The mysterious sacred 'pyramid' hidden deep in the Amazon rainforest](https://www.livescience.com/planet-earth/geology/el-cono-the-mysterious-sacred-pyramid-hidden-deep-in-the-amazon-rainforest)
 * [2025-05-04, 14:56:12](https://news.ycombinator.com/item?id=43887068) - [Perfect Random Floating-Point Numbers](https://specbranch.com/posts/fp-rand/)
 * [2025-05-04, 03:27:01](https://news.ycombinator.com/item?id=43884245) - [Polycompiler: Merge Python and JavaScript code into one file that runs in both](https://github.com/EvanZhouDev/polycompiler)
 
