@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-07, 13:43:10](https://news.ycombinator.com/item?id=43915586) - [Mississippi Can't Possibly Have Good Schools](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good)
 * [2025-05-07, 12:33:40](https://news.ycombinator.com/item?id=43914832) - [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2025-05-07, 12:27:40](https://news.ycombinator.com/item?id=43914784) - [Using tests as a debugging tool for logic errors](https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/)
 * [2025-05-07, 12:21:58](https://news.ycombinator.com/item?id=43914738) - [Jargonic Sets New SOTA for Japanese ASR](https://aiola.ai/blog/jargonic-japanese-asr/)
@@ -22,14 +21,15 @@
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
 * [2025-05-06, 15:10:00](https://news.ycombinator.com/item?id=43906018) - [Gemini 2.5 Pro Preview](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
 * [2025-05-06, 15:02:22](https://news.ycombinator.com/item?id=43905942) - [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
-* [2025-05-06, 13:58:03](https://news.ycombinator.com/item?id=43905185) - [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
 * [2025-05-06, 12:46:49](https://news.ycombinator.com/item?id=43904478) - [Cuttlefish 'talk' with their arms, study reveals](https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/)
 * [2025-05-06, 06:27:04](https://news.ycombinator.com/item?id=43902308) - [DoorDash to acquire Deliveroo](https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html)
+* [2025-05-06, 01:51:22](https://news.ycombinator.com/item?id=43901131) - [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html)
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
 * [2025-05-04, 17:00:04](https://news.ycombinator.com/item?id=43887874) - [WebMonkeys: parallel GPU programming in JavaScript](https://github.com/VictorTaelin/WebMonkeys)
 * [2025-05-04, 14:56:12](https://news.ycombinator.com/item?id=43887068) - [Perfect Random Floating-Point Numbers](https://specbranch.com/posts/fp-rand/)
 * [2025-05-04, 04:10:09](https://news.ycombinator.com/item?id=43884418) - [Old Timey Code and Old Timey Mono Fonts](https://github.com/dse/old-timey-mono-font)
+* [2025-05-04, 03:27:01](https://news.ycombinator.com/item?id=43884245) - [Polycompiler: Merge Python and JavaScript code into one file that runs in both](https://github.com/EvanZhouDev/polycompiler)
 
 ## [Archives](archives/index.md)
 
