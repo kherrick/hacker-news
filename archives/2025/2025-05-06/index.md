@@ -42,6 +42,7 @@
 * [2025-05-06, 13:22:37](https://news.ycombinator.com/item?id=43904816) - [WWII Aircraft Recognition Posters](https://store.pacificwarmuseum.org/products/wwii-aircraft-recognition-posters)
 * [2025-05-06, 13:08:07](https://news.ycombinator.com/item?id=43904664) - [Vibe Coding Is Fun–But Vibe Refactoring Pays the Bills](https://dawidmakowski.com/en/2025/04/vibe-coding-is-fun-but-vibe-refactoring-pays-the-bills/)
 * [2025-05-06, 12:50:46](https://news.ycombinator.com/item?id=43904511) - [Show HN: Outpost – OSS infra for outbound webhooks and event destinations](https://github.com/hookdeck/outpost)
+* [2025-05-06, 12:46:49](https://news.ycombinator.com/item?id=43904478) - [Cuttlefish 'talk' with their arms, study reveals](https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/)
 * [2025-05-06, 12:32:48](https://news.ycombinator.com/item?id=43904356) - [I so hate the phrase \"vibe coding\"](https://artiss.blog/2025/03/i-so-hate-the-phrase-vibe-coding/)
 * [2025-05-06, 12:18:20](https://news.ycombinator.com/item?id=43904233) - [OpenAI agrees to buy Windsurf for about $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-06, 11:38:44](https://news.ycombinator.com/item?id=43903959) - [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
