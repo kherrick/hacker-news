@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-07, 17:45:33](https://news.ycombinator.com/item?id=43918620) - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
-* [2025-05-07, 17:43:06](https://news.ycombinator.com/item?id=43918600) - [Three Chapters at Cloudflare: Programmer to CTO to Board of Directors](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/)
 * [2025-05-07, 17:32:26](https://news.ycombinator.com/item?id=43918484) - [Ty: A fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
 * [2025-05-07, 17:28:25](https://news.ycombinator.com/item?id=43918437) - [Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html)
 * [2025-05-07, 17:01:45](https://news.ycombinator.com/item?id=43918134) - [Motion (YC W20) Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -18,6 +17,7 @@
 * [2025-05-07, 11:06:17](https://news.ycombinator.com/item?id=43914235) - [My quest to make motorcycle riding that tad bit safer](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/)
 * [2025-05-07, 09:41:13](https://news.ycombinator.com/item?id=43913751) - [So Much Blood](https://dynomight.net/blood/)
 * [2025-05-07, 06:38:40](https://news.ycombinator.com/item?id=43912844) - [Zed: High-performance AI Code Editor](https://zed.dev/blog/fastest-ai-code-editor)
+* [2025-05-06, 23:22:49](https://news.ycombinator.com/item?id=43910685) - [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
