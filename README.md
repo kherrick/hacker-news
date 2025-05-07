@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-07, 19:38:16](https://news.ycombinator.com/item?id=43919812) - [Vagus Nerve Stimulation Erases PTSD](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/)
 * [2025-05-07, 17:45:33](https://news.ycombinator.com/item?id=43918620) - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
 * [2025-05-07, 17:32:26](https://news.ycombinator.com/item?id=43918484) - [Ty: A fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
-* [2025-05-07, 17:28:25](https://news.ycombinator.com/item?id=43918437) - [Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html)
 * [2025-05-07, 17:01:45](https://news.ycombinator.com/item?id=43918134) - [Motion (YC W20) Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2025-05-07, 16:06:44](https://news.ycombinator.com/item?id=43917461) - [Create and edit images with Gemini 2.0 in preview](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/)
 * [2025-05-07, 15:58:41](https://news.ycombinator.com/item?id=43917376) - [Telling Lies: Bowie and Online Music Distribution in 1996](https://cybercultural.com/p/online-music-distribution-1996/)
