@@ -63,6 +63,7 @@
 * [2025-05-05, 06:30:19](https://news.ycombinator.com/item?id=43892442) - [Show HN: ProcASM – A general purpose, visual programming lanugage](https://procasm.temware.site)
 * [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
+* [2025-05-05, 03:29:41](https://news.ycombinator.com/item?id=43891723) - [Time Between The Lines: how memory access affects performance (2015)](https://bitbashing.io/memory-performance.html)
 * [2025-05-05, 02:17:12](https://news.ycombinator.com/item?id=43891398) - [Driving Compilers (2023)](https://fabiensanglard.net/dc/index.php)
 * [2025-05-05, 01:44:09](https://news.ycombinator.com/item?id=43891245) - [Show HN: My AI Native Resume](https://ai.jakegaylor.com/)
 * [2025-05-05, 01:19:50](https://news.ycombinator.com/item?id=43891128) - [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
