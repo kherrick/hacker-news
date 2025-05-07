@@ -11,6 +11,7 @@
 * [2025-05-06, 20:41:47](https://news.ycombinator.com/item?id=43909430) - [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
+* [2025-05-06, 19:39:44](https://news.ycombinator.com/item?id=43908846) - [I built an AI code review agent in a few hours, here's what I learned](https://www.sourcebot.dev/blog/review-agent-learnings)
 * [2025-05-06, 18:47:49](https://news.ycombinator.com/item?id=43908368) - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 * [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
@@ -28,7 +29,6 @@
 * [2025-05-05, 16:26:25](https://news.ycombinator.com/item?id=43896765) - [Loving 21st century gaming like an 18th century furniture expert](https://kimimithegameeatingshemonster.com/2023/04/26/loving-21st-century-gaming-like-an-18th-century-furniture-expert/)
 * [2025-05-05, 16:13:21](https://news.ycombinator.com/item?id=43896609) - [(ab?)using Node module hooks to speed up development](https://immaculata.dev/blog/hacking-nodejs-modules.html)
 * [2025-05-04, 17:00:04](https://news.ycombinator.com/item?id=43887874) - [WebMonkeys: parallel GPU programming in JavaScript](https://github.com/VictorTaelin/WebMonkeys)
-* [2025-05-04, 12:40:32](https://news.ycombinator.com/item?id=43886381) - [DuoBook: Generate bilingual stories to learn any language](https://duobook.co)
 * [2025-05-04, 04:10:09](https://news.ycombinator.com/item?id=43884418) - [Old Timey Code and Old Timey Mono Fonts](https://github.com/dse/old-timey-mono-font)
 
 ## [Archives](archives/index.md)
