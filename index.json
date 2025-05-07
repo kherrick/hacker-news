@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-05-07, 23:10:22",
-      "https://news.ycombinator.com/item?id=43921421"
-    ],
-    [
-      "A 'Trump Card Visa' Is Already Showing Up in Immigration Forms",
-      "https://www.wired.com/story/doge-trump-gold-visa-program-immigration/"
-    ]
-  ],
-  [
-    [
       "2025-05-07, 22:43:32",
       "https://news.ycombinator.com/item?id=43921265"
     ],
@@ -237,6 +227,16 @@
     [
       "Zed: High-performance AI Code Editor",
       "https://zed.dev/blog/fastest-ai-code-editor"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 20:39:35",
+      "https://news.ycombinator.com/item?id=43909409"
+    ],
+    [
+      "Claude's system prompt is over 24k tokens with tools",
+      "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"
     ]
   ],
   [
