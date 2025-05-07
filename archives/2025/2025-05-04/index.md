@@ -10,6 +10,7 @@
 * [2025-05-04, 23:28:36](https://news.ycombinator.com/item?id=43890502) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
 * [2025-05-04, 23:11:05](https://news.ycombinator.com/item?id=43890412) - [V.S. Naipaul: The Grief and the Glory](https://granta.com/vs-naipaul-the-grief-and-the-glory/)
 * [2025-05-04, 22:42:48](https://news.ycombinator.com/item?id=43890237) - [Transform DOCX into LLM-ready data](https://contextgem.dev/converters/docx.html)
+* [2025-05-04, 22:24:56](https://news.ycombinator.com/item?id=43890118) - [Bell's 1881 Metal detector](http://www.scitechantiques.com/belldiscovery/)
 * [2025-05-04, 22:23:19](https://news.ycombinator.com/item?id=43890108) - [Censoring Social Media](https://www.tbray.org/ongoing/When/202x/2025/04/28/Censoring-Social-Media)
 * [2025-05-04, 21:49:40](https://news.ycombinator.com/item?id=43889875) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:09:16](https://news.ycombinator.com/item?id=43889610) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
