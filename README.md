@@ -13,7 +13,7 @@
 * [2025-05-06, 20:41:47](https://news.ycombinator.com/item?id=43909430) - [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
-* [2025-05-06, 19:30:58](https://news.ycombinator.com/item?id=43908770) - [Will Supercapacitors Come to AI's Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
+* [2025-05-06, 19:30:58](https://news.ycombinator.com/item?id=43908770) - [Will supercapacitors come to AI's rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
 * [2025-05-06, 18:47:49](https://news.ycombinator.com/item?id=43908368) - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 17:51:03](https://news.ycombinator.com/item?id=43907820) - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 * [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
@@ -29,7 +29,7 @@
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-05, 16:41:04](https://news.ycombinator.com/item?id=43896944) - [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
 * [2025-05-04, 04:10:09](https://news.ycombinator.com/item?id=43884418) - [Old Timey Code and Old Timey Mono Fonts](https://github.com/dse/old-timey-mono-font)
-* [2025-05-04, 02:52:16](https://news.ycombinator.com/item?id=43884098) - [Inside an architect's underground home in Mexico City](https://www.youtube.com/watch?v=y_k53QmONAY)
+* [2025-05-04, 02:52:16](https://news.ycombinator.com/item?id=43884098) - [Inside an architect's underground home in Mexico City [video]](https://www.youtube.com/watch?v=y_k53QmONAY)
 
 ## [Archives](archives/index.md)
 
