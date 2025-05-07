@@ -32,6 +32,7 @@
 * [2025-05-04, 17:48:47](https://news.ycombinator.com/item?id=43888191) - [Critical Program Reading (1975) [video]](https://www.youtube.com/watch?v=7hdJQkn8rtA)
 * [2025-05-04, 17:43:00](https://news.ycombinator.com/item?id=43888157) - [Show HN: Driverless print server for legacy printers, profit goes to open-source](https://printserver.ink/)
 * [2025-05-04, 17:38:13](https://news.ycombinator.com/item?id=43888117) - [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
+* [2025-05-04, 17:19:14](https://news.ycombinator.com/item?id=43888007) - [A cycle-accurate IBM PC emulator in your web browser](https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img)
 * [2025-05-04, 17:18:42](https://news.ycombinator.com/item?id=43888005) - [Load-Store Conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [2025-05-04, 17:17:35](https://news.ycombinator.com/item?id=43887998) - [Typed Lisp, a Primer](https://alhassy.com/TypedLisp.html)
 * [2025-05-04, 17:00:38](https://news.ycombinator.com/item?id=43887876) - [Hightouch (YC S19) Is Hiring](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning)
