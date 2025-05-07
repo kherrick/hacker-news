@@ -2,14 +2,12 @@
 
 * [2025-05-07, 01:11:10](https://news.ycombinator.com/item?id=43911252) - [EPA Plans to Shut Down the Energy Star Program](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html)
 * [2025-05-07, 00:54:19](https://news.ycombinator.com/item?id=43911167) - [Jury orders NSO to pay $167M for hacking WhatsApp users](https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/)
-* [2025-05-07, 00:28:46](https://news.ycombinator.com/item?id=43911050) - [Creativity came to pass](https://vale.rocks/posts/creativity-came-to-pass)
 * [2025-05-06, 23:33:54](https://news.ycombinator.com/item?id=43910745) - [Bloat is still software's biggest vulnerability (2024)](https://spectrum.ieee.org/lean-software-development)
 * [2025-05-06, 23:22:49](https://news.ycombinator.com/item?id=43910685) - [Alignment is not free: How model upgrades can silence your confidence signals](https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals)
 * [2025-05-06, 23:22:08](https://news.ycombinator.com/item?id=43910681) - [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
 * [2025-05-06, 23:02:46](https://news.ycombinator.com/item?id=43910565) - [Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)](https://whippyterm.com)
 * [2025-05-06, 22:43:06](https://news.ycombinator.com/item?id=43910423) - [Sutton and Barto book implementation](https://github.com/ivanbelenky/RL)
 * [2025-05-06, 21:01:57](https://news.ycombinator.com/item?id=43909596) - [Continue (YC S23) is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-* [2025-05-06, 20:41:51](https://news.ycombinator.com/item?id=43909432) - [iOS Kindle app now has a ‘get book’ button after changes to App Store rules](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
 * [2025-05-06, 20:41:47](https://news.ycombinator.com/item?id=43909430) - [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [ACE-Step: A step towards music generation foundation model](https://github.com/ace-step/ACE-Step)
@@ -28,6 +26,8 @@
 * [2025-05-06, 06:27:04](https://news.ycombinator.com/item?id=43902308) - [DoorDash to acquire Deliveroo](https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html)
 * [2025-05-06, 01:51:22](https://news.ycombinator.com/item?id=43901131) - [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html)
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
+* [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
+* [2025-05-05, 16:41:04](https://news.ycombinator.com/item?id=43896944) - [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
 * [2025-05-04, 12:40:32](https://news.ycombinator.com/item?id=43886381) - [DuoBook: Generate bilingual stories to learn any language](https://duobook.co)
 * [2025-05-04, 04:10:09](https://news.ycombinator.com/item?id=43884418) - [Old Timey Code and Old Timey Mono Fonts](https://github.com/dse/old-timey-mono-font)
 
