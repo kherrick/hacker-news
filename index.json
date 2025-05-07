@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-05-07, 17:11:03",
-      "https://news.ycombinator.com/item?id=43918237"
+      "2025-05-07, 17:43:06",
+      "https://news.ycombinator.com/item?id=43918600"
     ],
     [
-      "Asyncio Demystified: Rebuilding It from Scratch One Yield at a Time",
-      "https://dev.indooroutdoor.io/asyncio-demystified-rebuilding-it-from-scratch-one-yield-at-a-time"
+      "Three Chapters at Cloudflare: Programmer to CTO to Board of Directors",
+      "https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 17:42:56",
+      "https://news.ycombinator.com/item?id=43918596"
+    ],
+    [
+      "Social AI companions pose unacceptable risks to teens and children under 18",
+      "https://www.commonsensemedia.org/ai-ratings/social-ai-companions"
     ]
   ],
   [
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2025-05-07, 14:44:38",
+      "https://news.ycombinator.com/item?id=43916411"
+    ],
+    [
+      "WeightWatchers files bankruptcy",
+      "https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 14:24:09",
       "https://news.ycombinator.com/item?id=43916098"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-05-06, 23:22:49",
-      "https://news.ycombinator.com/item?id=43910685"
-    ],
-    [
-      "Alignment is not free: How model upgrades can silence your confidence signals",
-      "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 20:39:35",
       "https://news.ycombinator.com/item?id=43909409"
     ],
@@ -197,16 +207,6 @@
     [
       "Launch HN: Exa (YC S21) – The web as a database",
       "https://news.ycombinator.com/item?id=43906841"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 15:02:22",
-      "https://news.ycombinator.com/item?id=43905942"
-    ],
-    [
-      "Show HN: Clippy – 90s UI for local LLMs",
-      "https://felixrieseberg.github.io/clippy/"
     ]
   ],
   [
