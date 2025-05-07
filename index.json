@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-07, 17:45:33",
+      "https://news.ycombinator.com/item?id=43918620"
+    ],
+    [
+      "Open source Google Analytics replacement",
+      "https://github.com/rybbit-io/rybbit"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 17:43:06",
       "https://news.ycombinator.com/item?id=43918600"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2025-05-07, 17:42:56",
-      "https://news.ycombinator.com/item?id=43918596"
+      "2025-05-07, 17:32:26",
+      "https://news.ycombinator.com/item?id=43918484"
     ],
     [
-      "Social AI companions pose unacceptable risks to teens and children under 18",
-      "https://www.commonsensemedia.org/ai-ratings/social-ai-companions"
+      "Ty: A fast Python type checker and language server, written in Rust",
+      "https://github.com/astral-sh/ty"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 17:28:25",
+      "https://news.ycombinator.com/item?id=43918437"
+    ],
+    [
+      "Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk",
+      "https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Create and edit images with Gemini 2.0 in preview",
       "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 16:05:34",
-      "https://news.ycombinator.com/item?id=43917448"
-    ],
-    [
-      "Ghost students are creating an 'agonizing' problem for Calif. colleges",
-      "https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Show HN: 100.st – Dev utilities I built for format conversions and encoding",
       "https://100.st"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 17:00:04",
-      "https://news.ycombinator.com/item?id=43887874"
-    ],
-    [
-      "WebMonkeys: parallel GPU programming in JavaScript (2016)",
-      "https://github.com/VictorTaelin/WebMonkeys"
     ]
   ],
   [
