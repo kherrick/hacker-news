@@ -6,6 +6,7 @@
 * [2025-05-07, 21:05:36](https://news.ycombinator.com/item?id=43920555) - [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
 * [2025-05-07, 21:04:39](https://news.ycombinator.com/item?id=43920544) - ['I paid for the whole GPU, I am going to use the whole GPU'](https://modal.com/blog/gpu-utilization-guide)
 * [2025-05-07, 21:00:28](https://news.ycombinator.com/item?id=43920511) - [GovEagle (YC W23) Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
+* [2025-05-07, 20:52:53](https://news.ycombinator.com/item?id=43920452) - [Show HN: Picostrap5 A free bootstrap-based WordPress theme on GitHub](https://github.com/livecanvas-team/picostrap5)
 * [2025-05-07, 20:18:47](https://news.ycombinator.com/item?id=43920188) - [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
 * [2025-05-07, 19:54:08](https://news.ycombinator.com/item?id=43919959) - [How to Average in Prolog (2017)](https://storytotell.org/how-to-average-in-prolog)
 * [2025-05-07, 19:44:51](https://news.ycombinator.com/item?id=43919868) - [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
@@ -28,7 +29,6 @@
 * [2025-05-06, 03:47:00](https://news.ycombinator.com/item?id=43901643) - [RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
 * [2025-05-04, 17:19:14](https://news.ycombinator.com/item?id=43888007) - [A cycle-accurate IBM PC emulator in your web browser](https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img)
 * [2025-05-04, 15:34:41](https://news.ycombinator.com/item?id=43887304) - [El Cono: The mysterious sacred 'pyramid' hidden deep in the Amazon rainforest](https://www.livescience.com/planet-earth/geology/el-cono-the-mysterious-sacred-pyramid-hidden-deep-in-the-amazon-rainforest)
-* [2025-05-04, 14:56:12](https://news.ycombinator.com/item?id=43887068) - [Perfect Random Floating-Point Numbers](https://specbranch.com/posts/fp-rand/)
 * [2025-05-04, 03:27:01](https://news.ycombinator.com/item?id=43884245) - [Polycompiler: Merge Python and JavaScript code into one file that runs in both](https://github.com/EvanZhouDev/polycompiler)
 
 ## [Archives](archives/index.md)

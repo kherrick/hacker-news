@@ -10,6 +10,7 @@
 * [2025-05-07, 21:05:36](https://news.ycombinator.com/item?id=43920555) - [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
 * [2025-05-07, 21:04:39](https://news.ycombinator.com/item?id=43920544) - ['I paid for the whole GPU, I am going to use the whole GPU'](https://modal.com/blog/gpu-utilization-guide)
 * [2025-05-07, 21:00:28](https://news.ycombinator.com/item?id=43920511) - [GovEagle (YC W23) Is Hiring](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term)
+* [2025-05-07, 20:52:53](https://news.ycombinator.com/item?id=43920452) - [Show HN: Picostrap5 A free bootstrap-based WordPress theme on GitHub](https://github.com/livecanvas-team/picostrap5)
 * [2025-05-07, 20:42:03](https://news.ycombinator.com/item?id=43920362) - [Hunting down a C memory leak in a Go program (2021)](https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d)
 * [2025-05-07, 20:18:47](https://news.ycombinator.com/item?id=43920188) - [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
 * [2025-05-07, 19:54:08](https://news.ycombinator.com/item?id=43919959) - [How to Average in Prolog (2017)](https://storytotell.org/how-to-average-in-prolog)
