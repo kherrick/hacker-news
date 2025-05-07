@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-05-07, 00:54:19",
+      "https://news.ycombinator.com/item?id=43911167"
+    ],
+    [
+      "Jury orders NSO to pay $167M for hacking WhatsApp users",
+      "https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 23:41:13",
+      "https://news.ycombinator.com/item?id=43910794"
+    ],
+    [
+      "FTC bans hidden fees for live events and short-term rentals, effective May 12",
+      "https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 23:33:54",
+      "https://news.ycombinator.com/item?id=43910745"
+    ],
+    [
+      "Why Bloat Is Still Software's Biggest Vulnerability (2024)",
+      "https://spectrum.ieee.org/lean-software-development"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 23:28:37",
+      "https://news.ycombinator.com/item?id=43910720"
+    ],
+    [
+      "DEA Once Touted Body Cameras, Now Abandoning Them",
+      "https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 23:22:08",
+      "https://news.ycombinator.com/item?id=43910681"
+    ],
+    [
+      "VVVVVV Source Code",
+      "https://github.com/TerryCavanagh/VVVVVV"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 23:02:46",
       "https://news.ycombinator.com/item?id=43910565"
     ],
@@ -31,12 +81,22 @@
   ],
   [
     [
-      "2025-05-06, 20:41:51",
-      "https://news.ycombinator.com/item?id=43909432"
+      "2025-05-06, 20:41:47",
+      "https://news.ycombinator.com/item?id=43909430"
     ],
     [
-      "iOS Kindle app now has a ‘get book’ button after changes to App Store rules",
-      "https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books"
+      "India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir",
+      "https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 20:39:35",
+      "https://news.ycombinator.com/item?id=43909409"
+    ],
+    [
+      "Claude's system prompt is over 24k tokens with tools",
+      "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"
     ]
   ],
   [
@@ -57,16 +117,6 @@
     [
       "TeleMessage, used by Trump officials, can access plaintext chat logs",
       "https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 20:10:06",
-      "https://news.ycombinator.com/item?id=43909124"
-    ],
-    [
-      "Scientists discover new way to convert corn waste to low-cost sugar for biofuel",
-      "https://news.wsu.edu/press-release/2025/05/06/scientists-discover-a-new-way-to-convert-corn-waste-into-low-cost-sugar-for-biofuel/"
     ]
   ],
   [
@@ -171,52 +221,12 @@
   ],
   [
     [
-      "2025-05-06, 13:26:21",
-      "https://news.ycombinator.com/item?id=43904865"
-    ],
-    [
-      "MTerrain: Optimized terrain system and editor for Godot",
-      "https://github.com/mohsenph69/Godot-MTerrain-plugin"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 11:38:44",
       "https://news.ycombinator.com/item?id=43903959"
     ],
     [
       "New studies offer insight into Lyme disease’s treatment, lingering symptoms",
       "https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 11:36:09",
-      "https://news.ycombinator.com/item?id=43903945"
-    ],
-    [
-      "Propositions as Types (2014) [pdf]",
-      "https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 11:03:28",
-      "https://news.ycombinator.com/item?id=43903728"
-    ],
-    [
-      "Design and evaluation of a parrot-to-parrot video-calling system (2023)",
-      "https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 06:27:04",
-      "https://news.ycombinator.com/item?id=43902308"
-    ],
-    [
-      "DoorDash to acquire Deliveroo",
-      "https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The curse of knowing how, or; fixing everything",
       "https://notashelf.dev/posts/curse-of-knowing"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 03:40:10",
-      "https://news.ycombinator.com/item?id=43901619"
-    ],
-    [
-      "An appeal to Apple from Anukari",
-      "https://anukari.com/blog/devlog/an-appeal-to-apple"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-05-05, 10:17:17",
-      "https://news.ycombinator.com/item?id=43893442"
+      "2025-05-04, 20:20:58",
+      "https://news.ycombinator.com/item?id=43889277"
     ],
     [
-      "The Inchtuthil Nail Hoard",
-      "https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/"
+      "Can Speed Radar Measure Music? [video]",
+      "https://www.youtube.com/watch?v=CA79t0bYAjw"
     ]
   ],
   [
