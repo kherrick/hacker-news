@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-05-07, 17:27:33",
-      "https://news.ycombinator.com/item?id=43918425"
-    ],
-    [
-      "Tariffs Killed Arduboy",
-      "https://community.arduboy.com/t/tariffs-killed-arduboy/12675"
-    ]
-  ],
-  [
-    [
       "2025-05-07, 17:11:03",
       "https://news.ycombinator.com/item?id=43918237"
     ],
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=43887874"
     ],
     [
-      "WebMonkeys: parallel GPU programming in JavaScript",
+      "WebMonkeys: parallel GPU programming in JavaScript (2016)",
       "https://github.com/VictorTaelin/WebMonkeys"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 16:01:05",
+      "https://news.ycombinator.com/item?id=43887489"
+    ],
+    [
+      "Stringly Typed",
+      "https://www.stefanjudis.com/blog/stringly-typed/"
     ]
   ],
   [
