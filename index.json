@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-05-07, 12:27:40",
-      "https://news.ycombinator.com/item?id=43914784"
-    ],
-    [
-      "Using tests as a debugging tool for logic errors",
-      "https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/"
-    ]
-  ],
-  [
-    [
       "2025-05-07, 12:18:38",
       "https://news.ycombinator.com/item?id=43914705"
     ],
@@ -227,6 +217,16 @@
     [
       "Claude's system prompt is over 24k tokens with tools",
       "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 17:51:03",
+      "https://news.ycombinator.com/item?id=43907820"
+    ],
+    [
+      "Matt Godbolt sold me on Rust by showing me C++",
+      "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/"
     ]
   ],
   [
