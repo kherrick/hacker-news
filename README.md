@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-07, 17:27:33](https://news.ycombinator.com/item?id=43918425) - [Tariffs Killed Arduboy](https://community.arduboy.com/t/tariffs-killed-arduboy/12675)
 * [2025-05-07, 17:11:03](https://news.ycombinator.com/item?id=43918237) - [Asyncio Demystified: Rebuilding It from Scratch One Yield at a Time](https://dev.indooroutdoor.io/asyncio-demystified-rebuilding-it-from-scratch-one-yield-at-a-time)
 * [2025-05-07, 17:01:45](https://news.ycombinator.com/item?id=43918134) - [Motion (YC W20) Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2025-05-07, 16:41:04](https://news.ycombinator.com/item?id=43917855) - [Getting Older Isn't What You Think](https://www.katycowan.co.uk/blog/getting-old)
@@ -26,7 +25,8 @@
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
 * [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
 * [2025-05-04, 18:53:29](https://news.ycombinator.com/item?id=43888634) - [Show HN: 100.st – Dev utilities I built for format conversions and encoding](https://100.st)
-* [2025-05-04, 17:00:04](https://news.ycombinator.com/item?id=43887874) - [WebMonkeys: parallel GPU programming in JavaScript](https://github.com/VictorTaelin/WebMonkeys)
+* [2025-05-04, 17:00:04](https://news.ycombinator.com/item?id=43887874) - [WebMonkeys: parallel GPU programming in JavaScript (2016)](https://github.com/VictorTaelin/WebMonkeys)
+* [2025-05-04, 16:01:05](https://news.ycombinator.com/item?id=43887489) - [Stringly Typed](https://www.stefanjudis.com/blog/stringly-typed/)
 * [2025-05-04, 14:56:12](https://news.ycombinator.com/item?id=43887068) - [Perfect Random Floating-Point Numbers](https://specbranch.com/posts/fp-rand/)
 * [2025-05-04, 13:30:22](https://news.ycombinator.com/item?id=43886604) - [Know Your Enemy: How Three Years at McKinsey Shaped My Second Startup](https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup)
 * [2025-05-04, 03:27:01](https://news.ycombinator.com/item?id=43884245) - [Polycompiler: Merge Python and JavaScript code into one file that runs in both](https://github.com/EvanZhouDev/polycompiler)
