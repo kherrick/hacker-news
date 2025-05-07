@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-05-07, 17:43:06",
-      "https://news.ycombinator.com/item?id=43918600"
-    ],
-    [
-      "Three Chapters at Cloudflare: Programmer to CTO to Board of Directors",
-      "https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/"
-    ]
-  ],
-  [
-    [
       "2025-05-07, 17:32:26",
       "https://news.ycombinator.com/item?id=43918484"
     ],
@@ -177,6 +167,16 @@
     [
       "Zed: High-performance AI Code Editor",
       "https://zed.dev/blog/fastest-ai-code-editor"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 23:22:49",
+      "https://news.ycombinator.com/item?id=43910685"
+    ],
+    [
+      "Alignment is not free: How model upgrades can silence your confidence signals",
+      "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals"
     ]
   ],
   [
