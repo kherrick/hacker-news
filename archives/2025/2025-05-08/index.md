@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 22:32:41](https://news.ycombinator.com/item?id=43932024) - [Newsreels from the UCLA Film and Television Archive](https://newsreels.net/)
 * [2025-05-08, 22:30:17](https://news.ycombinator.com/item?id=43932010) - [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)
+* [2025-05-08, 22:19:12](https://news.ycombinator.com/item?id=43931944) - [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 * [2025-05-08, 22:05:37](https://news.ycombinator.com/item?id=43931845) - [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
 * [2025-05-08, 21:12:32](https://news.ycombinator.com/item?id=43931409) - [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
 * [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)

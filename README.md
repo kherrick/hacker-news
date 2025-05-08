@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-08, 22:32:41](https://news.ycombinator.com/item?id=43932024) - [Newsreels from the UCLA Film and Television Archive](https://newsreels.net/)
 * [2025-05-08, 22:30:17](https://news.ycombinator.com/item?id=43932010) - [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)
+* [2025-05-08, 22:19:12](https://news.ycombinator.com/item?id=43931944) - [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 * [2025-05-08, 22:05:37](https://news.ycombinator.com/item?id=43931845) - [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
 * [2025-05-08, 21:12:32](https://news.ycombinator.com/item?id=43931409) - [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
 * [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
@@ -20,7 +22,6 @@
 * [2025-05-08, 15:49:37](https://news.ycombinator.com/item?id=43927337) - [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
 * [2025-05-08, 13:05:10](https://news.ycombinator.com/item?id=43925732) - [Ask HN: What are good high-information density UIs (screenshots, apps, sites)?](https://news.ycombinator.com/item?id=43925732)
 * [2025-05-08, 08:52:56](https://news.ycombinator.com/item?id=43924358) - [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
-* [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Egyptologist uncovers hidden messages on Paris’s iconic obelisk](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508)
 * [2025-05-06, 20:52:45](https://news.ycombinator.com/item?id=43909519) - [AI focused on brain regions recreates what you're looking at (2024)](https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/)
 * [2025-05-06, 20:32:58](https://news.ycombinator.com/item?id=43909353) - [Towards the Blank Search Bar](https://fi-le.net/recommendationless/)
 * [2025-05-06, 18:38:14](https://news.ycombinator.com/item?id=43908261) - [When Abandoned Mines Collapse](https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse)
@@ -29,7 +30,6 @@
 * [2025-05-06, 04:32:05](https://news.ycombinator.com/item?id=43901831) - [The second birth of JMW Turner](https://www.newstatesman.com/culture/art-design/2025/04/the-second-birth-of-jmw-turner)
 * [2025-05-05, 08:05:35](https://news.ycombinator.com/item?id=43892840) - [Mathematical Problem Solving](https://www.cip.ifi.lmu.de/~grinberg/t/20f/)
 * [2025-05-05, 07:54:44](https://news.ycombinator.com/item?id=43892786) - [How Obama’s BlackBerry got secured (2013)](https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html)
-* [2025-05-05, 06:31:38](https://news.ycombinator.com/item?id=43892446) - [Using Coalton to implement a quantum compiler (2022)](https://coalton-lang.github.io/20220906-quantum-compiler/)
 
 ## [Archives](archives/index.md)
 
