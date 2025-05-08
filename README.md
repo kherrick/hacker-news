@@ -25,11 +25,11 @@
 * [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [A new hairlike electrode for long-term, high-quality EEG monitoring](https://www.psu.edu/news/research/story/future-brain-activity-monitoring-may-look-strand-hair)
 * [2025-05-06, 10:59:18](https://news.ycombinator.com/item?id=43903705) - [Inheritance was invented as a performance hack](https://catern.com/inheritance.html)
 * [2025-05-06, 10:34:58](https://news.ycombinator.com/item?id=43903534) - [NSA spied through Angry Birds, other apps: report (2014)](https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530)
+* [2025-05-05, 10:22:01](https://news.ycombinator.com/item?id=43893464) - [Docs like code in basic terms](https://deborahwrites.com/blog/docs-like-code-basic-intro/)
 * [2025-05-05, 08:04:23](https://news.ycombinator.com/item?id=43892832) - [Show HN: Ductape – Build back end integrations once, reuse them anywhere](https://www.ductape.app)
 * [2025-05-05, 07:52:26](https://news.ycombinator.com/item?id=43892773) - [Bootstrapping Lisp in a Boot Sector](https://github.com/jart/sectorlisp)
 * [2025-05-04, 22:24:56](https://news.ycombinator.com/item?id=43890118) - [Bell's 1881 Metal detector](http://www.scitechantiques.com/belldiscovery/)
 * [2025-05-04, 17:19:14](https://news.ycombinator.com/item?id=43888007) - [A cycle-accurate IBM PC emulator in your web browser](https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img)
-* [2025-05-04, 13:30:22](https://news.ycombinator.com/item?id=43886604) - [How three years at McKinsey shaped my second startup](https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup)
 
 ## [Archives](archives/index.md)
 
