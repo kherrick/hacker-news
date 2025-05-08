@@ -1,22 +1,42 @@
 [
   [
     [
-      "2025-05-07, 22:43:32",
-      "https://news.ycombinator.com/item?id=43921265"
+      "2025-05-08, 00:18:47",
+      "https://news.ycombinator.com/item?id=43921805"
     ],
     [
-      "Doctors Warn Accountants of Private-Equity Drain on Quality: You Could Be Next",
-      "https://www.wsj.com/articles/doctors-warn-accountants-of-private-equity-drain-on-quality-you-could-be-next-1be0f0fd"
+      "Examining problematic speech and behavior in World of Warcraft (2022)",
+      "https://tcjournal.org/vol8/jackson/"
     ]
   ],
   [
     [
-      "2025-05-07, 22:25:54",
-      "https://news.ycombinator.com/item?id=43921129"
+      "2025-05-07, 23:57:12",
+      "https://news.ycombinator.com/item?id=43921681"
     ],
     [
-      "Pakistani firm shipped fentanyl analogs, scams to us",
-      "https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/"
+      "Parametric Modeling with Grasshopper",
+      "https://baharmon.github.io/basics"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 23:51:32",
+      "https://news.ycombinator.com/item?id=43921653"
+    ],
+    [
+      "Show HN: US Routing – Python library for fast local routing in the United States",
+      "https://github.com/ivanbelenky/us-routing"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 23:45:10",
+      "https://news.ycombinator.com/item?id=43921624"
+    ],
+    [
+      "Yggdrasil is an experimental compact routing scheme that is fully decentralised",
+      "https://yggdrasil-network.github.io/about.html"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43920792"
     ],
     [
-      "He Dropped Out to Become a Poet. Now He’s Won a Fields Medal. (2022)",
+      "June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)",
       "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=43920188"
     ],
     [
-      "Introducing Web Search on the Anthropic API",
+      "Web search on the Anthropic API",
       "https://www.anthropic.com/news/web-search-api"
     ]
   ],
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2025-05-07, 17:28:25",
+      "https://news.ycombinator.com/item?id=43918437"
+    ],
+    [
+      "Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk",
+      "https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 16:06:44",
       "https://news.ycombinator.com/item?id=43917461"
     ],
@@ -141,12 +171,12 @@
   ],
   [
     [
-      "2025-05-07, 15:58:41",
-      "https://news.ycombinator.com/item?id=43917376"
+      "2025-05-07, 16:05:34",
+      "https://news.ycombinator.com/item?id=43917448"
     ],
     [
-      "Telling Lies: Bowie and Online Music Distribution in 1996",
-      "https://cybercultural.com/p/online-music-distribution-1996/"
+      "Ghost students are creating an 'agonizing' problem for Calif. colleges",
+      "https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php"
     ]
   ],
   [
@@ -171,32 +201,22 @@
   ],
   [
     [
+      "2025-05-07, 14:44:38",
+      "https://news.ycombinator.com/item?id=43916411"
+    ],
+    [
+      "WeightWatchers files bankruptcy",
+      "https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 14:24:09",
       "https://news.ycombinator.com/item?id=43916098"
     ],
     [
       "Mistral ships le chat – enterprise AI assistant that can run on prem",
       "https://mistral.ai/news/le-chat-enterprise"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 12:33:40",
-      "https://news.ycombinator.com/item?id=43914832"
-    ],
-    [
-      "Unity’s Open-Source Double Standard: the ban of VLC",
-      "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 12:18:38",
-      "https://news.ycombinator.com/item?id=43914705"
-    ],
-    [
-      "CLion Is Now Free for Non-Commercial Use",
-      "https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-05-06, 20:15:59",
-      "https://news.ycombinator.com/item?id=43909191"
+      "2025-05-06, 10:34:58",
+      "https://news.ycombinator.com/item?id=43903534"
     ],
     [
-      "The Reverse Turing Test Game",
-      "https://reverse-turing.netlify.app/"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 15:53:30",
-      "https://news.ycombinator.com/item?id=43906528"
-    ],
-    [
-      "Single hair-like electrode outperforms traditional 21-lead EEG",
-      "https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 03:47:00",
-      "https://news.ycombinator.com/item?id=43901643"
-    ],
-    [
-      "RSC for Astro Developers",
-      "https://overreacted.io/rsc-for-astro-developers/"
+      "NSA spied through Angry Birds, other apps: report (2014)",
+      "https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-05-04, 15:34:41",
-      "https://news.ycombinator.com/item?id=43887304"
+      "2025-05-04, 16:01:05",
+      "https://news.ycombinator.com/item?id=43887489"
     ],
     [
-      "El Cono: The mysterious sacred 'pyramid' hidden deep in the Amazon rainforest",
-      "https://www.livescience.com/planet-earth/geology/el-cono-the-mysterious-sacred-pyramid-hidden-deep-in-the-amazon-rainforest"
+      "Stringly Typed",
+      "https://www.stefanjudis.com/blog/stringly-typed/"
     ]
   ],
   [
     [
-      "2025-05-04, 03:27:01",
-      "https://news.ycombinator.com/item?id=43884245"
+      "2025-05-04, 13:30:22",
+      "https://news.ycombinator.com/item?id=43886604"
     ],
     [
-      "Polycompiler: Merge Python and JavaScript code into one file that runs in both",
-      "https://github.com/EvanZhouDev/polycompiler"
+      "Know Your Enemy: How Three Years at McKinsey Shaped My Second Startup",
+      "https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup"
     ]
   ]
 ]
