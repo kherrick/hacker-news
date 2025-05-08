@@ -36,6 +36,7 @@
 * [2025-05-06, 15:47:21](https://news.ycombinator.com/item?id=43906442) - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
 * [2025-05-06, 15:42:00](https://news.ycombinator.com/item?id=43906379) - [DoomArena: A Framework for Testing AI Agents Against Evolving Security Threats](https://arxiv.org/abs/2504.14064)
 * [2025-05-06, 15:38:04](https://news.ycombinator.com/item?id=43906346) - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
+* [2025-05-06, 15:13:37](https://news.ycombinator.com/item?id=43906066) - [Mass spectrometry method identifies pathogens within minutes instead of days](https://phys.org/news/2025-05-mass-spectrometry-method-pathogens-minutes.html)
 * [2025-05-06, 15:10:00](https://news.ycombinator.com/item?id=43906018) - [Gemini 2.5 Pro Preview: even better coding performance](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
 * [2025-05-06, 15:02:22](https://news.ycombinator.com/item?id=43905942) - [Show HN: Clippy, 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
 * [2025-05-06, 14:41:58](https://news.ycombinator.com/item?id=43905697) - [Show HN: Sign in with Apple\" broke after update–losing data for a third of users](https://aso.dev/blog/apple-sign-in/)
