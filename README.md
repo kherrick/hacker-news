@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-08, 05:40:52](https://news.ycombinator.com/item?id=43923372) - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
+* [2025-05-08, 05:32:18](https://news.ycombinator.com/item?id=43923331) - [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)
 * [2025-05-08, 04:57:23](https://news.ycombinator.com/item?id=43923187) - [We have reached the \"severed fingers and abductions\" stage of crypto revolution](https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/)
 * [2025-05-08, 04:09:40](https://news.ycombinator.com/item?id=43922975) - [Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html)
 * [2025-05-08, 03:18:10](https://news.ycombinator.com/item?id=43922759) - [Ask HN: How much better are AI IDEs vs. copy pasting into chat apps?](https://news.ycombinator.com/item?id=43922759)
-* [2025-05-07, 23:57:12](https://news.ycombinator.com/item?id=43921681) - [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
 * [2025-05-07, 23:51:32](https://news.ycombinator.com/item?id=43921653) - [Show HN: US Routing – Python library for fast local routing in the US](https://github.com/ivanbelenky/us-routing)
 * [2025-05-07, 23:45:10](https://news.ycombinator.com/item?id=43921624) - [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
 * [2025-05-07, 21:48:08](https://news.ycombinator.com/item?id=43920889) - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
@@ -16,8 +17,6 @@
 * [2025-05-07, 17:32:26](https://news.ycombinator.com/item?id=43918484) - [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
 * [2025-05-07, 17:28:25](https://news.ycombinator.com/item?id=43918437) - [Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html)
 * [2025-05-07, 16:06:44](https://news.ycombinator.com/item?id=43917461) - [Create and edit images with Gemini 2.0 in preview](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/)
-* [2025-05-07, 16:05:34](https://news.ycombinator.com/item?id=43917448) - [Ghost students are creating problems for California colleges](https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php)
-* [2025-05-07, 15:26:43](https://news.ycombinator.com/item?id=43916956) - [Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)](https://github.com/ciromattia/kcc)
 * [2025-05-07, 14:57:03](https://news.ycombinator.com/item?id=43916577) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-07, 14:24:09](https://news.ycombinator.com/item?id=43916098) - [Mistral ships Le Chat – enterprise AI assistant that can run on prem](https://mistral.ai/news/le-chat-enterprise)
 * [2025-05-07, 11:06:17](https://news.ycombinator.com/item?id=43914235) - [My quest to make motorcycle riding that tad bit safer](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/)
@@ -28,6 +27,7 @@
 * [2025-05-05, 10:22:01](https://news.ycombinator.com/item?id=43893464) - [Docs like code in basic terms](https://deborahwrites.com/blog/docs-like-code-basic-intro/)
 * [2025-05-05, 08:04:23](https://news.ycombinator.com/item?id=43892832) - [Show HN: Ductape – Build back end integrations once, reuse them anywhere](https://www.ductape.app)
 * [2025-05-05, 07:52:26](https://news.ycombinator.com/item?id=43892773) - [Bootstrapping Lisp in a Boot Sector](https://github.com/jart/sectorlisp)
+* [2025-05-05, 01:22:28](https://news.ycombinator.com/item?id=43891147) - [Wikidive – AI guided rabbitholes in Wikipedia](https://wikidive.tulv.in/)
 * [2025-05-04, 22:03:11](https://news.ycombinator.com/item?id=43889972) - [Ancient DNA from the green Sahara reveals ancestral North African lineage](https://www.nature.com/articles/s41586-025-08793-7)
 * [2025-05-04, 17:19:14](https://news.ycombinator.com/item?id=43888007) - [A cycle-accurate IBM PC emulator in your web browser](https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img)
 

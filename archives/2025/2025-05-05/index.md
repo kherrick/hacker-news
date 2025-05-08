@@ -71,4 +71,5 @@
 * [2025-05-05, 03:29:41](https://news.ycombinator.com/item?id=43891723) - [Time Between The Lines: how memory access affects performance (2015)](https://bitbashing.io/memory-performance.html)
 * [2025-05-05, 02:17:12](https://news.ycombinator.com/item?id=43891398) - [Driving Compilers (2023)](https://fabiensanglard.net/dc/index.php)
 * [2025-05-05, 01:44:09](https://news.ycombinator.com/item?id=43891245) - [Show HN: My AI Native Resume](https://ai.jakegaylor.com/)
+* [2025-05-05, 01:22:28](https://news.ycombinator.com/item?id=43891147) - [Wikidive – AI guided rabbitholes in Wikipedia](https://wikidive.tulv.in/)
 * [2025-05-05, 01:19:50](https://news.ycombinator.com/item?id=43891128) - [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
