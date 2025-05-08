@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-08, 17:20:23",
+      "https://news.ycombinator.com/item?id=43928613"
+    ],
+    [
+      "Robert Francis Prevost Is Chosen as First Pope from U.S.",
+      "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 17:02:10",
+      "https://news.ycombinator.com/item?id=43928315"
+    ],
+    [
+      "Reservoir Sampling",
+      "https://samwho.dev/reservoir-sampling/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 17:00:38",
       "https://news.ycombinator.com/item?id=43928294"
     ],
@@ -35,8 +55,8 @@
       "https://news.ycombinator.com/item?id=43927926"
     ],
     [
-      "Void: Open-Source Cursor Alternative",
-      "https://voideditor.com/"
+      "Void: Open-source Cursor alternative",
+      "https://github.com/voideditor/void"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43927856"
     ],
     [
-      "New pope elected on second day of the conclave",
+      "Habemus Papam - new pope elected on second day of the conclave",
       "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25"
     ]
   ],
@@ -91,22 +111,22 @@
   ],
   [
     [
+      "2025-05-08, 15:51:55",
+      "https://news.ycombinator.com/item?id=43927374"
+    ],
+    [
+      "Google Measures and Manages Tech Debt",
+      "https://newsletter.techworld-with-milan.com/p/how-google-measures-and-manages-tech"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 15:49:37",
       "https://news.ycombinator.com/item?id=43927337"
     ],
     [
       "Progress toward fusion energy gain as measured against the Lawson criteria",
       "https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 14:24:04",
-      "https://news.ycombinator.com/item?id=43926350"
-    ],
-    [
-      "Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire",
-      "https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-05-08, 12:19:55",
-      "https://news.ycombinator.com/item?id=43925414"
-    ],
-    [
-      "Yes, the Apple II MouseCard IRQ is synced to the VBL",
-      "https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/"
-    ]
-  ],
-  [
-    [
       "2025-05-08, 12:05:26",
       "https://news.ycombinator.com/item?id=43925325"
     ],
@@ -197,16 +207,6 @@
     [
       "Ty: A fast Python type checker and language server",
       "https://github.com/astral-sh/ty"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 14:57:03",
-      "https://news.ycombinator.com/item?id=43916577"
-    ],
-    [
-      "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
-      "https://pganalyze.com/blog/postgres-18-async-io"
     ]
   ],
   [
