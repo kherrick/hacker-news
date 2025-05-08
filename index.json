@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-05-08, 17:49:02",
+      "https://news.ycombinator.com/item?id=43929054"
+    ],
+    [
+      "Static as a Server",
+      "https://overreacted.io/static-as-a-server/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 17:48:12",
       "https://news.ycombinator.com/item?id=43929040"
     ],
     [
       "Brokk: AI for Large Codebases",
       "https://brokk.ai"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 17:37:19",
-      "https://news.ycombinator.com/item?id=43928861"
-    ],
-    [
-      "UK rolls out passkeys across Gov.uk services",
-      "https://www.biometricupdate.com/202505/uk-govt-commits-to-passkeys-in-another-big-step-to-a-passwordless-world"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Show HN: Checking Pope's election results with smoke test script for chimney",
       "https://github.com/donobu-inc/donobu-papal-election-tests/blob/main/tests/papal_election_smoke.test.ts"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 15:51:55",
+      "https://news.ycombinator.com/item?id=43927374"
+    ],
+    [
+      "Google Measures and Manages Tech Debt",
+      "https://newsletter.techworld-with-milan.com/p/how-google-measures-and-manages-tech"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Mass spectrometry method identifies pathogens within minutes instead of days",
       "https://phys.org/news/2025-05-mass-spectrometry-method-pathogens-minutes.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 10:59:18",
-      "https://news.ycombinator.com/item?id=43903705"
-    ],
-    [
-      "Inheritance was invented as a performance hack (2021)",
-      "https://catern.com/inheritance.html"
     ]
   ],
   [
