@@ -21,7 +21,6 @@
 * [2025-05-07, 14:24:09](https://news.ycombinator.com/item?id=43916098) - [Mistral ships le chat – enterprise AI assistant that can run on prem](https://mistral.ai/news/le-chat-enterprise)
 * [2025-05-07, 11:06:17](https://news.ycombinator.com/item?id=43914235) - [My quest to make motorcycle riding that tad bit safer](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/)
 * [2025-05-07, 09:41:13](https://news.ycombinator.com/item?id=43913751) - [So Much Blood](https://dynomight.net/blood/)
-* [2025-05-07, 06:38:40](https://news.ycombinator.com/item?id=43912844) - [Zed: High-performance AI Code Editor](https://zed.dev/blog/fastest-ai-code-editor)
 * [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [A new hairlike electrode for long-term, high-quality EEG monitoring](https://www.psu.edu/news/research/story/future-brain-activity-monitoring-may-look-strand-hair)
 * [2025-05-06, 10:59:18](https://news.ycombinator.com/item?id=43903705) - [Inheritance was invented as a performance hack](https://catern.com/inheritance.html)
 * [2025-05-06, 10:34:58](https://news.ycombinator.com/item?id=43903534) - [NSA spied through Angry Birds, other apps: report (2014)](https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530)
@@ -30,6 +29,7 @@
 * [2025-05-05, 07:52:26](https://news.ycombinator.com/item?id=43892773) - [Bootstrapping Lisp in a Boot Sector](https://github.com/jart/sectorlisp)
 * [2025-05-04, 22:24:56](https://news.ycombinator.com/item?id=43890118) - [Bell's 1881 Metal detector](http://www.scitechantiques.com/belldiscovery/)
 * [2025-05-04, 17:19:14](https://news.ycombinator.com/item?id=43888007) - [A cycle-accurate IBM PC emulator in your web browser](https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img)
+* [2025-05-04, 13:30:22](https://news.ycombinator.com/item?id=43886604) - [How three years at McKinsey shaped my second startup](https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup)
 
 ## [Archives](archives/index.md)
 
