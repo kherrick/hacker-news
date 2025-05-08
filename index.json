@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-08, 12:11:39",
+      "https://news.ycombinator.com/item?id=43925355"
+    ],
+    [
+      "My stackoverflow question was closed so here's a blog post about CoreWCF",
+      "https://richardcocks.github.io/2025-05-08-CoreWCF.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 12:03:48",
+      "https://news.ycombinator.com/item?id=43925319"
+    ],
+    [
+      "What Money Can't Buy: The Moral Limits of Markets",
+      "https://sandel.scholars.harvard.edu/publications/what-money-cant-buy-moral-limits-markets"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 12:01:17",
+      "https://news.ycombinator.com/item?id=43925306"
+    ],
+    [
+      "Artifact (YC W25) Is Hiring",
+      "https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 10:16:22",
+      "https://news.ycombinator.com/item?id=43924779"
+    ],
+    [
+      "Xenon is an open source universal game cheating framework C++",
+      "https://github.com/kiocode/xenon-cheats"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 08:52:56",
       "https://news.ycombinator.com/item?id=43924358"
     ],
@@ -21,16 +61,6 @@
   ],
   [
     [
-      "2025-05-08, 07:01:08",
-      "https://news.ycombinator.com/item?id=43923801"
-    ],
-    [
-      "Thunder Compute (YC S24) Is Hiring a C++ Low-Latency Systems Developer",
-      "https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer"
-    ]
-  ],
-  [
-    [
       "2025-05-08, 05:40:52",
       "https://news.ycombinator.com/item?id=43923372"
     ],
@@ -47,16 +77,6 @@
     [
       "Show HN: US Routing – Python library for fast local routing in the US",
       "https://github.com/ivanbelenky/us-routing"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 23:45:10",
-      "https://news.ycombinator.com/item?id=43921624"
-    ],
-    [
-      "Yggdrasil is an experimental compact routing scheme that is fully decentralised",
-      "https://yggdrasil-network.github.io/about.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-05-07, 15:26:43",
-      "https://news.ycombinator.com/item?id=43916956"
-    ],
-    [
-      "Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)",
-      "https://github.com/ciromattia/kcc"
-    ]
-  ],
-  [
-    [
       "2025-05-07, 14:57:03",
       "https://news.ycombinator.com/item?id=43916577"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2025-05-06, 10:59:18",
-      "https://news.ycombinator.com/item?id=43903705"
+      "2025-05-06, 02:07:42",
+      "https://news.ycombinator.com/item?id=43901190"
     ],
     [
-      "Inheritance was invented as a performance hack (2021)",
-      "https://catern.com/inheritance.html"
+      "How to Harden GitHub Actions: The Unofficial Guide",
+      "https://www.wiz.io/blog/github-actions-security-guide"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Extending a Language – Writing Powerful Macros in Scheme",
       "https://mnieper.github.io/scheme-macros/README.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 01:22:28",
-      "https://news.ycombinator.com/item?id=43891147"
-    ],
-    [
-      "Wikidive – AI guided rabbitholes in Wikipedia",
-      "https://wikidive.tulv.in/"
     ]
   ],
   [
