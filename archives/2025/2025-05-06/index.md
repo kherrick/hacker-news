@@ -73,6 +73,7 @@
 * [2025-05-06, 06:01:23](https://news.ycombinator.com/item?id=43902212) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 05:19:42](https://news.ycombinator.com/item?id=43902031) - [Can you smuggle data in an ID card photo?](https://informatykzakladowy.pl/pierwszy-na-swiecie-dowod-osobisty-z-reklama-bloga/)
 * [2025-05-06, 05:09:42](https://news.ycombinator.com/item?id=43901985) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
+* [2025-05-06, 04:32:05](https://news.ycombinator.com/item?id=43901831) - [The second birth of JMW Turner](https://www.newstatesman.com/culture/art-design/2025/04/the-second-birth-of-jmw-turner)
 * [2025-05-06, 03:56:13](https://news.ycombinator.com/item?id=43901673) - [22-inch foldable external display](https://uperfect.com/products/omega-flexible-display-22-inch)
 * [2025-05-06, 03:47:00](https://news.ycombinator.com/item?id=43901643) - [RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
 * [2025-05-06, 03:40:10](https://news.ycombinator.com/item?id=43901619) - [An Appeal to Apple from Anukari: one tiny macOS detail to make Anukari fast](https://anukari.com/blog/devlog/an-appeal-to-apple)
