@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 17:29:15](https://news.ycombinator.com/item?id=43928742) - [Chicago native Cardinal Prevost elected pope, takes name Leo XIV](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/)
 * [2025-05-08, 17:20:23](https://news.ycombinator.com/item?id=43928613) - [Robert Francis Prevost Is Chosen as First Pope from U.S.](https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news)
 * [2025-05-08, 17:02:10](https://news.ycombinator.com/item?id=43928315) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 * [2025-05-08, 17:00:38](https://news.ycombinator.com/item?id=43928294) - [Ciro (YC S22) is hiring a software engineer to build AI agents for sales](https://www.ycombinator.com/companies/ciro/jobs)
