@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-08, 19:13:29](https://news.ycombinator.com/item?id=43930156) - [The Rise and Fall of the Visual Telegraph (2017)](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
 * [2025-05-08, 18:40:12](https://news.ycombinator.com/item?id=43929724) - [From: Steve Jobs. \"Great idea, thank you.\"](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
 * [2025-05-08, 17:49:02](https://news.ycombinator.com/item?id=43929054) - [Static as a Server](https://overreacted.io/static-as-a-server/)
 * [2025-05-08, 17:48:12](https://news.ycombinator.com/item?id=43929040) - [Brokk: AI for Large Codebases](https://brokk.ai)
@@ -16,7 +17,6 @@
 * [2025-05-08, 15:49:37](https://news.ycombinator.com/item?id=43927337) - [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
 * [2025-05-08, 13:59:49](https://news.ycombinator.com/item?id=43926165) - [My new deadline: 20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
 * [2025-05-08, 13:36:09](https://news.ycombinator.com/item?id=43925982) - [Google to back three new nuclear projects](https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/)
-* [2025-05-08, 13:23:53](https://news.ycombinator.com/item?id=43925892) - [Microservices are a tax your startup probably can't afford](https://nexo.sh/posts/microservices-for-startups/)
 * [2025-05-08, 13:05:10](https://news.ycombinator.com/item?id=43925732) - [Ask HN: What are good high-information density UIs (screenshots, apps, sites)?](https://news.ycombinator.com/item?id=43925732)
 * [2025-05-08, 12:05:26](https://news.ycombinator.com/item?id=43925325) - [Will protein design tools solve the snake antivenom shortage?](https://www.owlposting.com/p/will-protein-design-tools-solve-the)
 * [2025-05-08, 08:52:56](https://news.ycombinator.com/item?id=43924358) - [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
