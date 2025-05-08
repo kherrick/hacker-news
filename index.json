@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-08, 16:37:25",
+      "https://news.ycombinator.com/item?id=43927948"
+    ],
+    [
+      "Why Is Everyone Getting Their Tattoos Removed?",
+      "https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 16:30:45",
+      "https://news.ycombinator.com/item?id=43927856"
+    ],
+    [
+      "New pope elected on second day of the conclave",
+      "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 16:27:24",
+      "https://news.ycombinator.com/item?id=43927813"
+    ],
+    [
+      "High tariffs become 'real' with our first $36K bill",
+      "https://blog.adafruit.com/2025/05/08/high-tariffs-become-real-with-our-first-36k-bill/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 15:49:37",
+      "https://news.ycombinator.com/item?id=43927337"
+    ],
+    [
+      "Progress toward fusion energy gain as measured against the Lawson criteria",
+      "https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 14:24:04",
       "https://news.ycombinator.com/item?id=43926350"
     ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43926149"
     ],
     [
-      "Trump's NIH Axed Research Grants Even After a Judge Blocked the Cuts",
+      "Trump's NIH axed research grants even after a judge blocked the cuts",
       "https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants"
     ]
   ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43925982"
     ],
     [
-      "Google to Back Three New Advanced Nuclear Projects",
+      "Google to back three new nuclear projects",
       "https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/"
     ]
   ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=43925892"
     ],
     [
-      "Microservices Are a Tax Your Startup Probably Can't Afford",
+      "Microservices are a tax your startup probably can't afford",
       "https://nexo.sh/posts/microservices-for-startups/"
     ]
   ],
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=43925732"
     ],
     [
-      "Ask HN: What are good high information density UIs (screenshots, apps, sites)",
+      "Ask HN: What are good high-information density UIs (screenshots, apps, sites)?",
       "https://news.ycombinator.com/item?id=43925732"
     ]
   ],
@@ -75,7 +115,7 @@
       "https://news.ycombinator.com/item?id=43925414"
     ],
     [
-      "Yes, the Apple II MouseCard IRQ Is Synced to the VBL",
+      "Yes, the Apple II MouseCard IRQ is synced to the VBL",
       "https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/"
     ]
   ],
@@ -135,7 +175,7 @@
       "https://news.ycombinator.com/item?id=43918620"
     ],
     [
-      "Open source Google Analytics replacement",
+      "RybbitL Open source Google Analytics replacement",
       "https://github.com/rybbit-io/rybbit"
     ]
   ],
@@ -147,26 +187,6 @@
     [
       "Ty: A fast Python type checker and language server",
       "https://github.com/astral-sh/ty"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 17:28:25",
-      "https://news.ycombinator.com/item?id=43918437"
-    ],
-    [
-      "Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk",
-      "https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 16:06:44",
-      "https://news.ycombinator.com/item?id=43917461"
-    ],
-    [
-      "Create and edit images with Gemini 2.0 in preview",
-      "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/"
     ]
   ],
   [
@@ -225,7 +245,7 @@
       "https://news.ycombinator.com/item?id=43901190"
     ],
     [
-      "How to Harden GitHub Actions: The Unofficial Guide",
+      "How to harden GitHub Actions",
       "https://www.wiz.io/blog/github-actions-security-guide"
     ]
   ],
@@ -237,16 +257,6 @@
     [
       "Imagineers defend new Walt Disney robot",
       "https://www.yahoo.com/entertainment/articles/keeps-walt-alive-medium-pioneered-170000117.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 19:13:08",
-      "https://news.ycombinator.com/item?id=43898400"
-    ],
-    [
-      "Bridging the gap between keyword and semantic search with SPLADE (2024)",
-      "http://arcturus-labs.com/blog/2024/10/09/bridging-the-gap-between-keyword-and-semantic-search-with-splade/"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=43892446"
     ],
     [
-      "Using Coalton to Implement a Quantum Compiler",
+      "Using Coalton to implement a quantum compiler (2022)",
       "https://coalton-lang.github.io/20220906-quantum-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 06:07:36",
-      "https://news.ycombinator.com/item?id=43892331"
-    ],
-    [
-      "Extending a Language – Writing Powerful Macros in Scheme",
-      "https://mnieper.github.io/scheme-macros/README.html"
     ]
   ]
 ]
