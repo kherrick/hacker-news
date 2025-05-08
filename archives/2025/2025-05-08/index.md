@@ -11,6 +11,7 @@
 * [2025-05-08, 13:35:57](https://news.ycombinator.com/item?id=43925981) - [Why the rich paid less tax in the 1970s – despite 98% tax rates](https://taxpolicy.org.uk/2025/05/08/tax-rich-1970s-loopholes/)
 * [2025-05-08, 13:32:15](https://news.ycombinator.com/item?id=43925952) - [QueryHub](https://www.queryhub.ai/blog/introducing-queryhub)
 * [2025-05-08, 13:25:25](https://news.ycombinator.com/item?id=43925911) - [Globalization did not hollow out the American middle class](https://www.noahpinion.blog/p/globalization-did-not-hollow-out)
+* [2025-05-08, 13:23:53](https://news.ycombinator.com/item?id=43925892) - [Microservices Are a Tax Your Startup Probably Can't Afford](https://nexo.sh/posts/microservices-for-startups/)
 * [2025-05-08, 13:20:53](https://news.ycombinator.com/item?id=43925869) - [Mark Zuckerberg announces mind-control](https://pluralistic.net/2025/05/07/rah-rah-rasputin/#credulous-dolts)
 * [2025-05-08, 13:13:43](https://news.ycombinator.com/item?id=43925807) - [Wellness influencer with no medical license proposed for US Surgeon General](https://www.theguardian.com/us-news/2025/may/07/trump-surgeon-general-nominee-casey-means)
 * [2025-05-08, 13:05:10](https://news.ycombinator.com/item?id=43925732) - [Ask HN: What are good high information density UIs (screenshots, apps, sites)](https://news.ycombinator.com/item?id=43925732)
