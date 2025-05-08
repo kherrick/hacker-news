@@ -129,23 +129,158 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43928294">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/ciro/jobs"
+              >Ciro (YC S22) is hiring a software engineer to build AI agents
+              for sales</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-08 @ 17:00:38</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43928118">
+          <h3>
+            <a class="item" href="https://github.com/qpoint-io/qtap"
+              >Show HN: Using eBPF to see through encryption without a proxy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-08 @ 16:49:11</span
+              ><span class="points-container"
+                >Points: <span class="points">37</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43928118"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                For a while now, my team and I at Qpoint.io have been grappling
+                with the challenge of understanding what's actually happening
+                inside the encrypted traffic leaving our production systems.
+                Modern apps rely heavily on third-party APIs (think payment
+                processors, data providers, etc.), but once TLS kicks in,
+                figuring out exactly what data is being sent, identifying PII
+                exposure, or debugging integration issues becomes incredibly
+                difficult without resorting to complex and often brittle
+                solutions.
+              </p>
+              <p>
+                Traditional approaches like forward proxies require terminating
+                TLS (MITM), managing certificates, and often introduce
+                performance bottlenecks or single points of failure. Network
+                firewalls usually operate at L3/L4 and lack payload visibility.
+                We felt there had to be a better way.
+              </p>
+              <p>
+                That's why we built qtap. It's a lightweight agent that uses
+                eBPF to tap into network traffic at the kernel level. The key
+                idea is to hook into common TLS libraries (like OpenSSL) before
+                encryption and after decryption. This gives us deep visibility
+                into the actual request/response payloads of HTTPS/TLS traffic
+                without needing to terminate the connection or manage certs.
+                Because it leverages eBPF, the performance impact is minimal
+                compared to traditional methods.
+              </p>
+              <p>
+                With qtap, we can now see exactly which external services our
+                apps are talking to, inspect the payloads for debugging or
+                security auditing (e.g., spotting accidental PII leaks), monitor
+                API performance/errors for third-party dependencies, and get a
+                much clearer picture of our egress traffic patterns.
+              </p>
+              <p>
+                We've found this approach really powerful for improving
+                reliability and security posture. We've packaged qtap as a Linux
+                Binary, Docker container, and Helm chart for deployment.
+              </p>
+              <p>
+                This is still evolving, but we're excited about the potential of
+                using eBPF for this kind of deep, yet non-intrusive, visibility.
+              </p>
+              <p>We'd love to get the HN community's feedback:</p>
+              <p></p>
+              <pre><code>    Do you face similar challenges monitoring encrypted egress traffic?
+    What are your thoughts on using eBPF for this compared to other methods?
+    Any suggestions or potential use cases we haven't considered?
+</code></pre>
+              Happy to answer any questions!
+            </div>
+          </section>
+        </section>
         <section id="43927948">
           <h3>
             <a
               class="item"
               href="https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed"
-              >Why Is Everyone Getting Their Tattoos Removed?</a
+              >More people are getting their tattoos removed</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-05-08 @ 16:37:25</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43927948"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43927926">
+          <h3>
+            <a class="item" href="https://voideditor.com/"
+              >Void: Open-Source Cursor Alternative</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-08 @ 16:35:34</span
+              ><span class="points-container"
+                >Points: <span class="points">60</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43927926"
+                  >Comments</a
+                ><span class="descendants">: 34</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://voideditor.com/download-beta"
+                >https://voideditor.com/download-beta</a
+              >
+            </div>
+          </section>
+        </section>
+        <section id="43927914">
+          <h3>
+            <a
+              class="item"
+              href="https://ghiculescu.substack.com/p/nobody-codes-here-anymore"
+              >Notes on rolling out Cursor and Claude Code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-08 @ 16:34:39</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43927914"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -162,11 +297,32 @@
             <h4>
               <span>2025-05-08 @ 16:30:45</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43927856"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 26</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43927842">
+          <h3>
+            <a
+              class="item"
+              href="https://hypermode.com/blog/introducing-model-router"
+              >Hypermode Model Router Preview – OpenRouter Alternative</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-08 @ 16:29:39</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43927842"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -183,13 +339,54 @@
             <h4>
               <span>2025-05-08 @ 16:27:24</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">225</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43927813"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="43927649">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/donobu-inc/donobu-papal-election-tests/blob/main/tests/papal_election_smoke.test.ts"
+              >Show HN: Checking Pope's election results with smoke test script
+              for chimney</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-08 @ 16:13:44</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43927649"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Currently, set to use Google Gemini Flash 2.0, but you can
+                switch it to use other LLM providers/models by setting the
+                environment variable in the Github actions workflow:
+                <a
+                  href="https://github.com/donobu-inc/donobu-papal-election-tests/blob/main/.github/workflows/tests.yaml"
+                  >https://github.com/donobu-inc/donobu-papal-election-tests/bl...</a
+                >
+              </p>
+              <p>
+                I've set it to run every minute during the Papal Conclave
+                election times -
+                <a
+                  href="https://github.com/donobu-inc/donobu-papal-election-tests/actions"
+                  >https://github.com/donobu-inc/donobu-papal-election-tests/ac...</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="43927337">
@@ -205,11 +402,11 @@
             <h4>
               <span>2025-05-08 @ 15:49:37</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43927337"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -227,11 +424,11 @@
             <h4>
               <span>2025-05-08 @ 14:24:04</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43926350"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -241,40 +438,18 @@
             <a
               class="item"
               href="https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth"
-              >20 years to give away virtually all my wealth</a
+              >My new deadline: 20 years to give away virtually all my wealth</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-05-08 @ 13:59:49</span
               ><span class="points-container"
-                >Points: <span class="points">287</span></span
+                >Points: <span class="points">318</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43926165"
                   >Comments</a
-                ><span class="descendants">: 330</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43926149">
-          <h3>
-            <a
-              class="item"
-              href="https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants"
-              >Trump's NIH axed research grants even after a judge blocked the
-              cuts</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-08 @ 13:57:48</span
-              ><span class="points-container"
-                >Points: <span class="points">108</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43926149"
-                  >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 343</span></span
               >
             </h4>
           </section>
@@ -291,32 +466,11 @@
             <h4>
               <span>2025-05-08 @ 13:36:09</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43925982"
                   >Comments</a
-                ><span class="descendants">: 188</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43925952">
-          <h3>
-            <a
-              class="item"
-              href="https://www.queryhub.ai/blog/introducing-queryhub"
-              >QueryHub</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-08 @ 13:32:15</span
-              ><span class="points-container"
-                >Points: <span class="points">11</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43925952"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -333,11 +487,11 @@
             <h4>
               <span>2025-05-08 @ 13:23:53</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43925892"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -353,11 +507,11 @@
             <h4>
               <span>2025-05-08 @ 13:05:10</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">214</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43925732"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
             <div class="text">
@@ -390,11 +544,11 @@
             <h4>
               <span>2025-05-08 @ 12:19:55</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43925414"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -411,28 +565,11 @@
             <h4>
               <span>2025-05-08 @ 12:05:26</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43925325"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43925306">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer"
-              >Artifact (YC W25) Is Hiring</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-08 @ 12:01:17</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -453,7 +590,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43924358"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -469,52 +606,11 @@
             <h4>
               <span>2025-05-08 @ 05:40:52</span
               ><span class="points-container"
-                >Points: <span class="points">281</span></span
+                >Points: <span class="points">286</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43923372"
                   >Comments</a
                 ><span class="descendants">: 108</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43920792">
-          <h3>
-            <a
-              class="item"
-              href="https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/"
-              >June Huh dropped out to become a poet, now he’s won a Fields
-              Medal (2022)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-07 @ 21:34:06</span
-              ><span class="points-container"
-                >Points: <span class="points">206</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43920792"
-                  >Comments</a
-                ><span class="descendants">: 124</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43918620">
-          <h3>
-            <a class="item" href="https://github.com/rybbit-io/rybbit"
-              >RybbitL Open source Google Analytics replacement</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-07 @ 17:45:33</span
-              ><span class="points-container"
-                >Points: <span class="points">341</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43918620"
-                  >Comments</a
-                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -529,11 +625,11 @@
             <h4>
               <span>2025-05-07 @ 17:32:26</span
               ><span class="points-container"
-                >Points: <span class="points">834</span></span
+                >Points: <span class="points">835</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43918484"
                   >Comments</a
-                ><span class="descendants">: 267</span></span
+                ><span class="descendants">: 268</span></span
               >
             </h4>
           </section>
@@ -551,53 +647,33 @@
             <h4>
               <span>2025-05-07 @ 14:57:03</span
               ><span class="points-container"
-                >Points: <span class="points">527</span></span
+                >Points: <span class="points">529</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43916577"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 140</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="43916098">
-          <h3>
-            <a class="item" href="https://mistral.ai/news/le-chat-enterprise"
-              >Mistral ships Le Chat – enterprise AI assistant that can run on
-              prem</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-07 @ 14:24:09</span
-              ><span class="points-container"
-                >Points: <span class="points">479</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43916098"
-                  >Comments</a
-                ><span class="descendants">: 150</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43909360">
+        <section id="43909519">
           <h3>
             <a
               class="item"
-              href="https://www.nature.com/articles/s41587-024-02551-2"
-              >Engineered adipocytes implantation suppresses tumor progression
-              in cancer models</a
+              href="https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/"
+              >AI focused on brain regions recreates what you're looking at
+              (2024)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-05-06 @ 20:33:11</span
+              <span>2025-05-06 @ 20:52:45</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43909360"
+                ><a href="https://news.ycombinator.com/item?id=43909519"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -615,11 +691,11 @@
             <h4>
               <span>2025-05-06 @ 15:13:37</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43906066"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -634,11 +710,11 @@
             <h4>
               <span>2025-05-06 @ 10:59:18</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43903705"
                   >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
           </section>
@@ -655,11 +731,11 @@
             <h4>
               <span>2025-05-06 @ 02:07:42</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43901190"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -676,11 +752,11 @@
             <h4>
               <span>2025-05-05 @ 19:36:53</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43898653"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -697,7 +773,7 @@
             <h4>
               <span>2025-05-05 @ 16:41:14</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43896948"
                   >Comments</a
@@ -719,11 +795,11 @@
             <h4>
               <span>2025-05-05 @ 15:05:33</span
               ><span class="points-container"
-                >Points: <span class="points">277</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43895890"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -740,11 +816,11 @@
             <h4>
               <span>2025-05-05 @ 07:54:44</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43892786"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -761,7 +837,7 @@
             <h4>
               <span>2025-05-05 @ 06:31:38</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43892446"
                   >Comments</a
