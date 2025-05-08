@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 15:29:47](https://news.ycombinator.com/item?id=43927082) - [Standard Chartered apologizes for $120K Bitcoin price call, 'may be too low'](https://www.cnbc.com/2025/05/08/stanchart-analyst-apologizes-120k-bitcoin-price-call-too-low.html)
 * [2025-05-08, 14:24:04](https://news.ycombinator.com/item?id=43926350) - [Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires)
 * [2025-05-08, 13:59:49](https://news.ycombinator.com/item?id=43926165) - [20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
 * [2025-05-08, 13:57:48](https://news.ycombinator.com/item?id=43926149) - [Trump's NIH Axed Research Grants Even After a Judge Blocked the Cuts](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants)

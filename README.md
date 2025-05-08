@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-08, 15:29:47](https://news.ycombinator.com/item?id=43927082) - [Standard Chartered apologizes for $120K Bitcoin price call, 'may be too low'](https://www.cnbc.com/2025/05/08/stanchart-analyst-apologizes-120k-bitcoin-price-call-too-low.html)
 * [2025-05-08, 14:24:04](https://news.ycombinator.com/item?id=43926350) - [Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires)
 * [2025-05-08, 13:59:49](https://news.ycombinator.com/item?id=43926165) - [20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
 * [2025-05-08, 13:57:48](https://news.ycombinator.com/item?id=43926149) - [Trump's NIH Axed Research Grants Even After a Judge Blocked the Cuts](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants)
@@ -12,7 +13,6 @@
 * [2025-05-08, 12:01:17](https://news.ycombinator.com/item?id=43925306) - [Artifact (YC W25) Is Hiring](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer)
 * [2025-05-08, 08:52:56](https://news.ycombinator.com/item?id=43924358) - [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
 * [2025-05-08, 05:40:52](https://news.ycombinator.com/item?id=43923372) - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
-* [2025-05-07, 23:51:32](https://news.ycombinator.com/item?id=43921653) - [Show HN: US Routing – Python library for fast local routing in the US](https://github.com/ivanbelenky/us-routing)
 * [2025-05-07, 21:34:06](https://news.ycombinator.com/item?id=43920792) - [June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2025-05-07, 17:45:33](https://news.ycombinator.com/item?id=43918620) - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
 * [2025-05-07, 17:32:26](https://news.ycombinator.com/item?id=43918484) - [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
