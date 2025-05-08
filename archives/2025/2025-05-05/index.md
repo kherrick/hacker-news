@@ -18,6 +18,7 @@
 * [2025-05-05, 20:16:29](https://news.ycombinator.com/item?id=43899016) - [Databricks in Talks to Acquire Startup Neon for About $1B](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon)
 * [2025-05-05, 19:45:09](https://news.ycombinator.com/item?id=43898717) - [Faster sorting with SIMD CUDA intrinsics (2024)](https://winwang.blog/posts/bitonic-sort/)
 * [2025-05-05, 19:34:48](https://news.ycombinator.com/item?id=43898627) - [How Texas Made the Old West Even Wilder and Bloodier](https://www.texasmonthly.com/being-texan/gunfighters-old-west-wilder-bloodier/)
+* [2025-05-05, 19:13:08](https://news.ycombinator.com/item?id=43898400) - [Bridging the Gap Between Keyword and Semantic Search with Splade](http://arcturus-labs.com/blog/2024/10/09/bridging-the-gap-between-keyword-and-semantic-search-with-splade/)
 * [2025-05-05, 19:11:33](https://news.ycombinator.com/item?id=43898380) - [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 * [2025-05-05, 19:03:25](https://news.ycombinator.com/item?id=43898306) - [Understanding effective type Aliasing in C [pdf]](https://www.open-std.org/JTC1/SC22/WG14/www/docs/n3519.pdf)
 * [2025-05-05, 18:08:02](https://news.ycombinator.com/item?id=43897772) - [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)

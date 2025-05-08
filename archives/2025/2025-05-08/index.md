@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 12:19:55](https://news.ycombinator.com/item?id=43925414) - [Yes, the Apple II MouseCard IRQ Is Synced to the VBL](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/)
 * [2025-05-08, 12:11:39](https://news.ycombinator.com/item?id=43925355) - [My stackoverflow question was closed so here's a blog post about CoreWCF](https://richardcocks.github.io/2025-05-08-CoreWCF.html)
 * [2025-05-08, 12:03:48](https://news.ycombinator.com/item?id=43925319) - [What Money Can't Buy: The Moral Limits of Markets](https://sandel.scholars.harvard.edu/publications/what-money-cant-buy-moral-limits-markets)
 * [2025-05-08, 12:01:17](https://news.ycombinator.com/item?id=43925306) - [Artifact (YC W25) Is Hiring](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer)
