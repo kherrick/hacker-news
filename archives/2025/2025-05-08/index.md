@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 16:37:25](https://news.ycombinator.com/item?id=43927948) - [Why Is Everyone Getting Their Tattoos Removed?](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed)
+* [2025-05-08, 16:30:45](https://news.ycombinator.com/item?id=43927856) - [New pope elected on second day of the conclave](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25)
+* [2025-05-08, 16:27:24](https://news.ycombinator.com/item?id=43927813) - [High tariffs become 'real' with our first $36K bill](https://blog.adafruit.com/2025/05/08/high-tariffs-become-real-with-our-first-36k-bill/)
+* [2025-05-08, 15:49:37](https://news.ycombinator.com/item?id=43927337) - [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
 * [2025-05-08, 15:47:53](https://news.ycombinator.com/item?id=43927318) - [Cybertruck owners won't get Autosteer feature](https://electrek.co/2025/05/07/tesla-bait-and-switch-cybertruck-owners-wont-get-autosteer-feature/)
 * [2025-05-08, 15:29:47](https://news.ycombinator.com/item?id=43927082) - [Standard Chartered apologizes for $120K Bitcoin price call, 'may be too low'](https://www.cnbc.com/2025/05/08/stanchart-analyst-apologizes-120k-bitcoin-price-call-too-low.html)
 * [2025-05-08, 14:24:04](https://news.ycombinator.com/item?id=43926350) - [Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires)
