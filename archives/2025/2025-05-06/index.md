@@ -56,6 +56,7 @@
 * [2025-05-06, 11:38:44](https://news.ycombinator.com/item?id=43903959) - [Taking the bite out of Lyme disease](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/)
 * [2025-05-06, 11:36:09](https://news.ycombinator.com/item?id=43903945) - [Propositions as Types (2014) [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 * [2025-05-06, 11:22:55](https://news.ycombinator.com/item?id=43903853) - [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
+* [2025-05-06, 11:16:32](https://news.ycombinator.com/item?id=43903809) - [Shape and topology morphing of closed surfaces integrating origami and kirigami](https://www.science.org/doi/10.1126/sciadv.ads5659)
 * [2025-05-06, 11:04:39](https://news.ycombinator.com/item?id=43903741) - [Getting things \"done\" in large tech companies](https://www.seangoedecke.com/getting-things-done/)
 * [2025-05-06, 11:03:28](https://news.ycombinator.com/item?id=43903728) - [Design and evaluation of a parrot-to-parrot video-calling system (2023)](https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/)
 * [2025-05-06, 10:59:18](https://news.ycombinator.com/item?id=43903705) - [Inheritance was invented as a performance hack](https://catern.com/inheritance.html)

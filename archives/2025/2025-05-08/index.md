@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 18:40:12](https://news.ycombinator.com/item?id=43929724) - [From: Steve Jobs. \"Great idea, thank you.\"](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
 * [2025-05-08, 17:49:02](https://news.ycombinator.com/item?id=43929054) - [Static as a Server](https://overreacted.io/static-as-a-server/)
 * [2025-05-08, 17:48:12](https://news.ycombinator.com/item?id=43929040) - [Brokk: AI for Large Codebases](https://brokk.ai)
 * [2025-05-08, 17:37:19](https://news.ycombinator.com/item?id=43928861) - [UK rolls out passkeys across Gov.uk services](https://www.biometricupdate.com/202505/uk-govt-commits-to-passkeys-in-another-big-step-to-a-passwordless-world)
