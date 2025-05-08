@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-05-08, 17:00:38",
+      "https://news.ycombinator.com/item?id=43928294"
+    ],
+    [
+      "Ciro (YC S22) is hiring a software engineer to build AI agents for sales",
+      "https://www.ycombinator.com/companies/ciro/jobs"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 16:49:11",
+      "https://news.ycombinator.com/item?id=43928118"
+    ],
+    [
+      "Show HN: Using eBPF to see through encryption without a proxy",
+      "https://github.com/qpoint-io/qtap"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 16:37:25",
       "https://news.ycombinator.com/item?id=43927948"
     ],
     [
-      "Why Is Everyone Getting Their Tattoos Removed?",
+      "More people are getting their tattoos removed",
       "https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 16:35:34",
+      "https://news.ycombinator.com/item?id=43927926"
+    ],
+    [
+      "Void: Open-Source Cursor Alternative",
+      "https://voideditor.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 16:34:39",
+      "https://news.ycombinator.com/item?id=43927914"
+    ],
+    [
+      "Notes on rolling out Cursor and Claude Code",
+      "https://ghiculescu.substack.com/p/nobody-codes-here-anymore"
     ]
   ],
   [
@@ -21,12 +61,32 @@
   ],
   [
     [
+      "2025-05-08, 16:29:39",
+      "https://news.ycombinator.com/item?id=43927842"
+    ],
+    [
+      "Hypermode Model Router Preview – OpenRouter Alternative",
+      "https://hypermode.com/blog/introducing-model-router"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 16:27:24",
       "https://news.ycombinator.com/item?id=43927813"
     ],
     [
       "High tariffs become 'real' with our first $36K bill",
       "https://blog.adafruit.com/2025/05/08/high-tariffs-become-real-with-our-first-36k-bill/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 16:13:44",
+      "https://news.ycombinator.com/item?id=43927649"
+    ],
+    [
+      "Show HN: Checking Pope's election results with smoke test script for chimney",
+      "https://github.com/donobu-inc/donobu-papal-election-tests/blob/main/tests/papal_election_smoke.test.ts"
     ]
   ],
   [
@@ -55,18 +115,8 @@
       "https://news.ycombinator.com/item?id=43926165"
     ],
     [
-      "20 years to give away virtually all my wealth",
+      "My new deadline: 20 years to give away virtually all my wealth",
       "https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 13:57:48",
-      "https://news.ycombinator.com/item?id=43926149"
-    ],
-    [
-      "Trump's NIH axed research grants even after a judge blocked the cuts",
-      "https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants"
     ]
   ],
   [
@@ -77,16 +127,6 @@
     [
       "Google to back three new nuclear projects",
       "https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 13:32:15",
-      "https://news.ycombinator.com/item?id=43925952"
-    ],
-    [
-      "QueryHub",
-      "https://www.queryhub.ai/blog/introducing-queryhub"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2025-05-08, 12:01:17",
-      "https://news.ycombinator.com/item?id=43925306"
-    ],
-    [
-      "Artifact (YC W25) Is Hiring",
-      "https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer"
-    ]
-  ],
-  [
-    [
       "2025-05-08, 08:52:56",
       "https://news.ycombinator.com/item?id=43924358"
     ],
@@ -157,26 +187,6 @@
     [
       "Mycoria is an open and secure overlay network that connects all participants",
       "https://mycoria.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 21:34:06",
-      "https://news.ycombinator.com/item?id=43920792"
-    ],
-    [
-      "June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)",
-      "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 17:45:33",
-      "https://news.ycombinator.com/item?id=43918620"
-    ],
-    [
-      "RybbitL Open source Google Analytics replacement",
-      "https://github.com/rybbit-io/rybbit"
     ]
   ],
   [
@@ -201,22 +211,12 @@
   ],
   [
     [
-      "2025-05-07, 14:24:09",
-      "https://news.ycombinator.com/item?id=43916098"
+      "2025-05-06, 20:52:45",
+      "https://news.ycombinator.com/item?id=43909519"
     ],
     [
-      "Mistral ships Le Chat – enterprise AI assistant that can run on prem",
-      "https://mistral.ai/news/le-chat-enterprise"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 20:33:11",
-      "https://news.ycombinator.com/item?id=43909360"
-    ],
-    [
-      "Engineered adipocytes implantation suppresses tumor progression in cancer models",
-      "https://www.nature.com/articles/s41587-024-02551-2"
+      "AI focused on brain regions recreates what you're looking at (2024)",
+      "https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/"
     ]
   ],
   [
