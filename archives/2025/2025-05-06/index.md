@@ -34,6 +34,7 @@
 * [2025-05-06, 17:29:31](https://news.ycombinator.com/item?id=43907586) - [Is Planet Nine Alone in the Outer System?](https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/)
 * [2025-05-06, 17:07:58](https://news.ycombinator.com/item?id=43907376) - [Curl: We still have not seen a single valid security report done with AI help](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 16:18:42](https://news.ycombinator.com/item?id=43906841) - [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
+* [2025-05-06, 15:55:42](https://news.ycombinator.com/item?id=43906566) - [A Brief History of Cursor's Tab-Completion](https://www.coplay.dev/blog/a-brief-history-of-cursor-s-tab-completion)
 * [2025-05-06, 15:55:42](https://news.ycombinator.com/item?id=43906566) - [A Brief History of Cursor's Tab-Completion](https://coplay.dev/blog/a-brief-history-of-cursor-tab-completion)
 * [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [Single hair-like electrode outperforms traditional 21-lead EEG](https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/)
 * [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [A new hairlike electrode for long-term, high-quality EEG monitoring](https://www.psu.edu/news/research/story/future-brain-activity-monitoring-may-look-strand-hair)

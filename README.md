@@ -23,7 +23,7 @@
 * [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Egyptologist uncovers hidden messages on Paris’s iconic obelisk](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508)
 * [2025-05-06, 20:52:45](https://news.ycombinator.com/item?id=43909519) - [AI focused on brain regions recreates what you're looking at (2024)](https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/)
 * [2025-05-06, 18:38:14](https://news.ycombinator.com/item?id=43908261) - [When Abandoned Mines Collapse](https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse)
-* [2025-05-06, 15:55:42](https://news.ycombinator.com/item?id=43906566) - [A Brief History of Cursor's Tab-Completion](https://coplay.dev/blog/a-brief-history-of-cursor-tab-completion)
+* [2025-05-06, 15:55:42](https://news.ycombinator.com/item?id=43906566) - [A Brief History of Cursor's Tab-Completion](https://www.coplay.dev/blog/a-brief-history-of-cursor-s-tab-completion)
 * [2025-05-06, 11:16:32](https://news.ycombinator.com/item?id=43903809) - [Shape and topology morphing of closed surfaces integrating origami and kirigami](https://www.science.org/doi/10.1126/sciadv.ads5659)
 * [2025-05-06, 04:32:05](https://news.ycombinator.com/item?id=43901831) - [The second birth of JMW Turner](https://www.newstatesman.com/culture/art-design/2025/04/the-second-birth-of-jmw-turner)
 * [2025-05-06, 02:07:42](https://news.ycombinator.com/item?id=43901190) - [How to harden GitHub Actions](https://www.wiz.io/blog/github-actions-security-guide)
