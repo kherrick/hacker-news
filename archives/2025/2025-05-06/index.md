@@ -53,6 +53,7 @@
 * [2025-05-06, 11:22:55](https://news.ycombinator.com/item?id=43903853) - [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 11:04:39](https://news.ycombinator.com/item?id=43903741) - [Getting things \"done\" in large tech companies](https://www.seangoedecke.com/getting-things-done/)
 * [2025-05-06, 11:03:28](https://news.ycombinator.com/item?id=43903728) - [Design and evaluation of a parrot-to-parrot video-calling system (2023)](https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/)
+* [2025-05-06, 10:34:58](https://news.ycombinator.com/item?id=43903534) - [NSA spied through Angry Birds, other apps: report (2014)](https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530)
 * [2025-05-06, 10:13:31](https://news.ycombinator.com/item?id=43903414) - [Show HN: AnuDB– Backed on RocksDB, 279x Faster Than SQLite in Parallel Workloads](https://github.com/hash-anu/AnuDB)
 * [2025-05-06, 10:10:52](https://news.ycombinator.com/item?id=43903400) - [FTC rule on unfair or deceptive fees to take effect on May 12](https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025)
 * [2025-05-06, 09:37:50](https://news.ycombinator.com/item?id=43903206) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/andrewn6/fromthetransistor)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 23:57:12](https://news.ycombinator.com/item?id=43921681) - [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
+* [2025-05-07, 23:51:32](https://news.ycombinator.com/item?id=43921653) - [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
+* [2025-05-07, 23:45:10](https://news.ycombinator.com/item?id=43921624) - [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
 * [2025-05-07, 23:10:22](https://news.ycombinator.com/item?id=43921421) - [A 'Trump Card Visa' Is Already Showing Up in Immigration Forms](https://www.wired.com/story/doge-trump-gold-visa-program-immigration/)
 * [2025-05-07, 22:43:32](https://news.ycombinator.com/item?id=43921265) - [Doctors Warn Accountants of Private-Equity Drain on Quality: You Could Be Next](https://www.wsj.com/articles/doctors-warn-accountants-of-private-equity-drain-on-quality-you-could-be-next-1be0f0fd)
 * [2025-05-07, 22:25:54](https://news.ycombinator.com/item?id=43921129) - [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/)

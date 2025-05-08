@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-08](index.md)
+
+* [2025-05-08, 00:18:47](https://news.ycombinator.com/item?id=43921805) - [Examining problematic speech and behavior in World of Warcraft (2022)](https://tcjournal.org/vol8/jackson/)
