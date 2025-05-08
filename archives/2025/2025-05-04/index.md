@@ -12,6 +12,7 @@
 * [2025-05-04, 22:42:48](https://news.ycombinator.com/item?id=43890237) - [Transform DOCX into LLM-ready data](https://contextgem.dev/converters/docx.html)
 * [2025-05-04, 22:24:56](https://news.ycombinator.com/item?id=43890118) - [Bell's 1881 Metal detector](http://www.scitechantiques.com/belldiscovery/)
 * [2025-05-04, 22:23:19](https://news.ycombinator.com/item?id=43890108) - [Censoring Social Media](https://www.tbray.org/ongoing/When/202x/2025/04/28/Censoring-Social-Media)
+* [2025-05-04, 22:03:11](https://news.ycombinator.com/item?id=43889972) - [Ancient DNA from the Green Sahara Reveals Ancestral North African Lineage](https://www.nature.com/articles/s41586-025-08793-7)
 * [2025-05-04, 21:49:40](https://news.ycombinator.com/item?id=43889875) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:09:16](https://news.ycombinator.com/item?id=43889610) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 * [2025-05-04, 21:01:11](https://news.ycombinator.com/item?id=43889543) - [KaiPod Learning (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering)

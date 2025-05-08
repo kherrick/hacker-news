@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 03:18:10](https://news.ycombinator.com/item?id=43922759) - [Ask HN: How much better are AI IDEs vs. copy pasting into chat apps?](https://news.ycombinator.com/item?id=43922759)
 * [2025-05-08, 00:18:47](https://news.ycombinator.com/item?id=43921805) - [Examining problematic speech and behavior in World of Warcraft (2022)](https://tcjournal.org/vol8/jackson/)
