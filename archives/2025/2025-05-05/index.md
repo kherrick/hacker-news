@@ -60,6 +60,7 @@
 * [2025-05-05, 08:43:30](https://news.ycombinator.com/item?id=43893020) - [DNSanity: Quickly validate DNS servers at scale](https://github.com/nil0x42/dnsanity)
 * [2025-05-05, 08:28:40](https://news.ycombinator.com/item?id=43892964) - [EU to ban anonymous crypto accounts and privacy coins by 2027](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027)
 * [2025-05-05, 08:08:37](https://news.ycombinator.com/item?id=43892856) - [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
+* [2025-05-05, 08:04:23](https://news.ycombinator.com/item?id=43892832) - [Show HN: Ductape – Build back end integrations once, reuse them anywhere](https://www.ductape.app)
 * [2025-05-05, 06:40:15](https://news.ycombinator.com/item?id=43892481) - [Apple Shortcuts is falling into \"the automation gap\"](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
 * [2025-05-05, 06:30:19](https://news.ycombinator.com/item?id=43892442) - [Show HN: ProcASM – A general purpose, visual programming lanugage](https://procasm.temware.site)
 * [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)
