@@ -36,6 +36,7 @@
 * [2025-05-05, 15:34:56](https://news.ycombinator.com/item?id=43896199) - [Dimension 126 Contains Twisted Shapes, Mathematicians Prove](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/)
 * [2025-05-05, 15:33:57](https://news.ycombinator.com/item?id=43896188) - [How are cyber criminals rolling in 2025?](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html)
 * [2025-05-05, 15:17:33](https://news.ycombinator.com/item?id=43896011) - [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
+* [2025-05-05, 15:05:33](https://news.ycombinator.com/item?id=43895890) - [How linear regression works intuitively and how it leads to gradient descent](https://briefer.cloud/blog/posts/least-squares/)
 * [2025-05-05, 15:01:30](https://news.ycombinator.com/item?id=43895852) - [Geometrically understanding calculus of inverse functions (2023)](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1)
 * [2025-05-05, 14:46:52](https://news.ycombinator.com/item?id=43895693) - [Simulating, Detecting and Responding to S3 Ransomware Attacks](https://raphabot.com/articles/simulating-detecting-and-responding-s3-ransomware/)
 * [2025-05-05, 14:39:48](https://news.ycombinator.com/item?id=43895637) - [You can't Git clone a team](https://virtualize.sh/blog/you-cant-git-clone-a-team/)
