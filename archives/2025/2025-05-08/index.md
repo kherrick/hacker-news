@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 17:00:38](https://news.ycombinator.com/item?id=43928294) - [Ciro (YC S22) is hiring a software engineer to build AI agents for sales](https://www.ycombinator.com/companies/ciro/jobs)
+* [2025-05-08, 16:49:11](https://news.ycombinator.com/item?id=43928118) - [Show HN: Using eBPF to see through encryption without a proxy](https://github.com/qpoint-io/qtap)
 * [2025-05-08, 16:37:25](https://news.ycombinator.com/item?id=43927948) - [Why Is Everyone Getting Their Tattoos Removed?](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed)
+* [2025-05-08, 16:35:34](https://news.ycombinator.com/item?id=43927926) - [Void: Open-Source Cursor Alternative](https://voideditor.com/)
+* [2025-05-08, 16:34:39](https://news.ycombinator.com/item?id=43927914) - [Notes on rolling out Cursor and Claude Code](https://ghiculescu.substack.com/p/nobody-codes-here-anymore)
 * [2025-05-08, 16:30:45](https://news.ycombinator.com/item?id=43927856) - [New pope elected on second day of the conclave](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25)
+* [2025-05-08, 16:29:39](https://news.ycombinator.com/item?id=43927842) - [Hypermode Model Router Preview – OpenRouter Alternative](https://hypermode.com/blog/introducing-model-router)
 * [2025-05-08, 16:27:24](https://news.ycombinator.com/item?id=43927813) - [High tariffs become 'real' with our first $36K bill](https://blog.adafruit.com/2025/05/08/high-tariffs-become-real-with-our-first-36k-bill/)
+* [2025-05-08, 16:13:44](https://news.ycombinator.com/item?id=43927649) - [Show HN: Checking Pope's election results with smoke test script for chimney](https://github.com/donobu-inc/donobu-papal-election-tests/blob/main/tests/papal_election_smoke.test.ts)
 * [2025-05-08, 15:49:37](https://news.ycombinator.com/item?id=43927337) - [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
 * [2025-05-08, 15:47:53](https://news.ycombinator.com/item?id=43927318) - [Cybertruck owners won't get Autosteer feature](https://electrek.co/2025/05/07/tesla-bait-and-switch-cybertruck-owners-wont-get-autosteer-feature/)
 * [2025-05-08, 15:29:47](https://news.ycombinator.com/item?id=43927082) - [Standard Chartered apologizes for $120K Bitcoin price call, 'may be too low'](https://www.cnbc.com/2025/05/08/stanchart-analyst-apologizes-120k-bitcoin-price-call-too-low.html)
