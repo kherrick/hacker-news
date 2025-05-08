@@ -18,6 +18,7 @@
 * [2025-05-06, 20:41:47](https://news.ycombinator.com/item?id=43909430) - [India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir](https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/)
 * [2025-05-06, 20:39:35](https://news.ycombinator.com/item?id=43909409) - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [A Step Towards Music Generation Foundation Model](https://github.com/ace-step/ACE-Step)
+* [2025-05-06, 20:33:11](https://news.ycombinator.com/item?id=43909360) - [Engineered adipocytes implantation suppresses tumor progression in cancer models](https://www.nature.com/articles/s41587-024-02551-2)
 * [2025-05-06, 20:17:57](https://news.ycombinator.com/item?id=43909220) - [TeleMessage, used by Trump officials, can access plaintext chat logs](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/)
 * [2025-05-06, 20:15:59](https://news.ycombinator.com/item?id=43909191) - [The Reverse Turing Test Game](https://reverse-turing.netlify.app/)
 * [2025-05-06, 20:10:06](https://news.ycombinator.com/item?id=43909124) - [Scientists discover new way to convert corn waste to low-cost sugar for biofuel](https://news.wsu.edu/press-release/2025/05/06/scientists-discover-a-new-way-to-convert-corn-waste-into-low-cost-sugar-for-biofuel/)
