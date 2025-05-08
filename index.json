@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-08, 17:48:12",
+      "https://news.ycombinator.com/item?id=43929040"
+    ],
+    [
+      "Brokk: AI for Large Codebases",
+      "https://brokk.ai"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 17:37:19",
+      "https://news.ycombinator.com/item?id=43928861"
+    ],
+    [
+      "UK rolls out passkeys across Gov.uk services",
+      "https://www.biometricupdate.com/202505/uk-govt-commits-to-passkeys-in-another-big-step-to-a-passwordless-world"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 17:29:15",
       "https://news.ycombinator.com/item?id=43928742"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43927948"
     ],
     [
-      "More people are getting their tattoos removed",
+      "More people are getting tattoos removed",
       "https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed"
     ]
   ],
@@ -87,16 +107,6 @@
     [
       "Hypermode Model Router Preview – OpenRouter Alternative",
       "https://hypermode.com/blog/introducing-model-router"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 16:27:24",
-      "https://news.ycombinator.com/item?id=43927813"
-    ],
-    [
-      "High tariffs become 'real' with our first $36K bill",
-      "https://blog.adafruit.com/2025/05/08/high-tariffs-become-real-with-our-first-36k-bill/"
     ]
   ],
   [
@@ -191,32 +201,22 @@
   ],
   [
     [
-      "2025-05-07, 17:32:26",
-      "https://news.ycombinator.com/item?id=43918484"
-    ],
-    [
-      "Ty: A fast Python type checker and language server",
-      "https://github.com/astral-sh/ty"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 14:57:03",
-      "https://news.ycombinator.com/item?id=43916577"
-    ],
-    [
-      "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
-      "https://pganalyze.com/blog/postgres-18-async-io"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 20:52:45",
       "https://news.ycombinator.com/item?id=43909519"
     ],
     [
       "AI focused on brain regions recreates what you're looking at (2024)",
       "https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 18:38:14",
+      "https://news.ycombinator.com/item?id=43908261"
+    ],
+    [
+      "When Abandoned Mines Collapse",
+      "https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse"
     ]
   ],
   [
