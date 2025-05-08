@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-05-08, 22:32:41",
+      "https://news.ycombinator.com/item?id=43932024"
+    ],
+    [
+      "Newsreels from the UCLA Film and Television Archive",
+      "https://newsreels.net/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 22:30:17",
       "https://news.ycombinator.com/item?id=43932010"
     ],
     [
       "Show HN: Req Update Check",
       "https://github.com/ontherivt/req-update-check"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 22:19:12",
+      "https://news.ycombinator.com/item?id=43931944"
+    ],
+    [
+      "Podfox: First Container-Aware Browser",
+      "https://val.packett.cool/blog/podfox/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-08, 08:04:12",
-      "https://news.ycombinator.com/item?id=43924117"
-    ],
-    [
-      "Egyptologist uncovers hidden messages on Paris’s iconic obelisk",
-      "https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 20:52:45",
       "https://news.ycombinator.com/item?id=43909519"
     ],
@@ -287,16 +297,6 @@
     [
       "How Obama’s BlackBerry got secured (2013)",
       "https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 06:31:38",
-      "https://news.ycombinator.com/item?id=43892446"
-    ],
-    [
-      "Using Coalton to implement a quantum compiler (2022)",
-      "https://coalton-lang.github.io/20220906-quantum-compiler/"
     ]
   ]
 ]
