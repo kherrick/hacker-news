@@ -22,7 +22,7 @@
 * [2025-05-07, 11:06:17](https://news.ycombinator.com/item?id=43914235) - [My quest to make motorcycle riding that tad bit safer](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/)
 * [2025-05-07, 09:41:13](https://news.ycombinator.com/item?id=43913751) - [So Much Blood](https://dynomight.net/blood/)
 * [2025-05-06, 15:53:30](https://news.ycombinator.com/item?id=43906528) - [A new hairlike electrode for long-term, high-quality EEG monitoring](https://www.psu.edu/news/research/story/future-brain-activity-monitoring-may-look-strand-hair)
-* [2025-05-06, 10:59:18](https://news.ycombinator.com/item?id=43903705) - [Inheritance was invented as a performance hack](https://catern.com/inheritance.html)
+* [2025-05-06, 10:59:18](https://news.ycombinator.com/item?id=43903705) - [Inheritance was invented as a performance hack (2021)](https://catern.com/inheritance.html)
 * [2025-05-06, 10:34:58](https://news.ycombinator.com/item?id=43903534) - [NSA spied through Angry Birds, other apps: report (2014)](https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530)
 * [2025-05-05, 10:22:01](https://news.ycombinator.com/item?id=43893464) - [Docs like code in basic terms](https://deborahwrites.com/blog/docs-like-code-basic-intro/)
 * [2025-05-05, 08:04:23](https://news.ycombinator.com/item?id=43892832) - [Show HN: Ductape – Build back end integrations once, reuse them anywhere](https://www.ductape.app)
