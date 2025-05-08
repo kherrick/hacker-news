@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 17:49:02](https://news.ycombinator.com/item?id=43929054) - [Static as a Server](https://overreacted.io/static-as-a-server/)
 * [2025-05-08, 17:48:12](https://news.ycombinator.com/item?id=43929040) - [Brokk: AI for Large Codebases](https://brokk.ai)
 * [2025-05-08, 17:37:19](https://news.ycombinator.com/item?id=43928861) - [UK rolls out passkeys across Gov.uk services](https://www.biometricupdate.com/202505/uk-govt-commits-to-passkeys-in-another-big-step-to-a-passwordless-world)
 * [2025-05-08, 17:29:15](https://news.ycombinator.com/item?id=43928742) - [Chicago native Cardinal Prevost elected pope, takes name Leo XIV](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/)
