@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-08, 04:57:23",
+      "https://news.ycombinator.com/item?id=43923187"
+    ],
+    [
+      "We have reached the \"severed fingers and abductions\" stage of crypto revolution",
+      "https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 04:09:40",
+      "https://news.ycombinator.com/item?id=43922975"
+    ],
+    [
+      "Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP",
+      "https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 03:18:10",
       "https://news.ycombinator.com/item?id=43922759"
     ],
@@ -57,16 +77,6 @@
     [
       "June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)",
       "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 21:05:36",
-      "https://news.ycombinator.com/item?id=43920555"
-    ],
-    [
-      "OpenAI for Countries",
-      "https://openai.com/global-affairs/openai-for-countries/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-05-07, 14:44:38",
-      "https://news.ycombinator.com/item?id=43916411"
-    ],
-    [
-      "WeightWatchers files bankruptcy",
-      "https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac"
-    ]
-  ],
-  [
-    [
       "2025-05-07, 14:24:09",
       "https://news.ycombinator.com/item?id=43916098"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-05-05, 15:05:33",
+      "https://news.ycombinator.com/item?id=43895890"
+    ],
+    [
+      "How linear regression works intuitively and how it leads to gradient descent",
+      "https://briefer.cloud/blog/posts/least-squares/"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 10:22:01",
       "https://news.ycombinator.com/item?id=43893464"
     ],
@@ -267,16 +277,6 @@
     [
       "Bootstrapping Lisp in a Boot Sector",
       "https://github.com/jart/sectorlisp"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 22:24:56",
-      "https://news.ycombinator.com/item?id=43890118"
-    ],
-    [
-      "Bell's 1881 Metal detector",
-      "http://www.scitechantiques.com/belldiscovery/"
     ]
   ],
   [
