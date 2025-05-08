@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-08, 20:07:00",
+      "https://news.ycombinator.com/item?id=43930757"
+    ],
+    [
+      "Why do LLMs have emergent properties?",
+      "https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 19:51:29",
+      "https://news.ycombinator.com/item?id=43930584"
+    ],
+    [
+      "Stability by Design",
+      "https://potetm.com/devtalk/stability-by-design.html"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 19:48:08",
       "https://news.ycombinator.com/item?id=43930554"
     ],
@@ -77,16 +97,6 @@
     [
       "Show HN: Using eBPF to see through encryption without a proxy",
       "https://github.com/qpoint-io/qtap"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 16:37:25",
-      "https://news.ycombinator.com/item?id=43927948"
-    ],
-    [
-      "More people are getting tattoos removed",
-      "https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-05-06, 15:13:37",
-      "https://news.ycombinator.com/item?id=43906066"
-    ],
-    [
-      "Mass spectrometry method identifies pathogens within minutes instead of days",
-      "https://phys.org/news/2025-05-mass-spectrometry-method-pathogens-minutes.html"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 11:16:32",
       "https://news.ycombinator.com/item?id=43903809"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-05-05, 16:41:14",
-      "https://news.ycombinator.com/item?id=43896948"
-    ],
-    [
-      "Heat stress mitigation by trees and shelters at bus stops",
-      "https://www.sciencedirect.com/science/article/pii/S136192092500063X"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 15:05:33",
       "https://news.ycombinator.com/item?id=43895890"
     ],
     [
       "How linear regression works intuitively and how it leads to gradient descent",
       "https://briefer.cloud/blog/posts/least-squares/"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 08:05:35",
+      "https://news.ycombinator.com/item?id=43892840"
+    ],
+    [
+      "Mathematical Problem Solving",
+      "https://www.cip.ifi.lmu.de/~grinberg/t/20f/"
     ]
   ],
   [
