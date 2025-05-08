@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 14:24:04](https://news.ycombinator.com/item?id=43926350) - [Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires)
 * [2025-05-08, 13:59:49](https://news.ycombinator.com/item?id=43926165) - [20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
+* [2025-05-08, 13:57:48](https://news.ycombinator.com/item?id=43926149) - [Trump's NIH Axed Research Grants Even After a Judge Blocked the Cuts](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants)
 * [2025-05-08, 13:36:09](https://news.ycombinator.com/item?id=43925982) - [Google to Back Three New Advanced Nuclear Projects](https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/)
 * [2025-05-08, 13:35:57](https://news.ycombinator.com/item?id=43925981) - [Why the rich paid less tax in the 1970s – despite 98% tax rates](https://taxpolicy.org.uk/2025/05/08/tax-rich-1970s-loopholes/)
+* [2025-05-08, 13:32:15](https://news.ycombinator.com/item?id=43925952) - [QueryHub](https://www.queryhub.ai/blog/introducing-queryhub)
 * [2025-05-08, 13:25:25](https://news.ycombinator.com/item?id=43925911) - [Globalization did not hollow out the American middle class](https://www.noahpinion.blog/p/globalization-did-not-hollow-out)
 * [2025-05-08, 13:20:53](https://news.ycombinator.com/item?id=43925869) - [Mark Zuckerberg announces mind-control](https://pluralistic.net/2025/05/07/rah-rah-rasputin/#credulous-dolts)
 * [2025-05-08, 13:13:43](https://news.ycombinator.com/item?id=43925807) - [Wellness influencer with no medical license proposed for US Surgeon General](https://www.theguardian.com/us-news/2025/may/07/trump-surgeon-general-nominee-casey-means)
