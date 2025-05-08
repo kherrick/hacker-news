@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-08, 22:30:17](https://news.ycombinator.com/item?id=43932010) - [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)
 * [2025-05-08, 21:12:32](https://news.ycombinator.com/item?id=43931409) - [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
 * [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:07:00](https://news.ycombinator.com/item?id=43930757) - [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
@@ -16,7 +17,6 @@
 * [2025-05-08, 16:34:39](https://news.ycombinator.com/item?id=43927914) - [Notes on rolling out Cursor and Claude Code](https://ghiculescu.substack.com/p/nobody-codes-here-anymore)
 * [2025-05-08, 16:30:45](https://news.ycombinator.com/item?id=43927856) - [First American pope elected and will be known as Pope Leo XIV](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25)
 * [2025-05-08, 15:49:37](https://news.ycombinator.com/item?id=43927337) - [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
-* [2025-05-08, 13:59:49](https://news.ycombinator.com/item?id=43926165) - [My new deadline: 20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
 * [2025-05-08, 13:05:10](https://news.ycombinator.com/item?id=43925732) - [Ask HN: What are good high-information density UIs (screenshots, apps, sites)?](https://news.ycombinator.com/item?id=43925732)
 * [2025-05-08, 12:11:39](https://news.ycombinator.com/item?id=43925355) - [My stackoverflow question was closed so here's a blog post about CoreWCF](https://richardcocks.github.io/2025-05-08-CoreWCF.html)
 * [2025-05-08, 08:52:56](https://news.ycombinator.com/item?id=43924358) - [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
