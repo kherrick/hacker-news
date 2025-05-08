@@ -27,6 +27,7 @@
 * [2025-05-05, 17:00:26](https://news.ycombinator.com/item?id=43897138) - [Instant (YC S22) Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
 * [2025-05-05, 16:59:15](https://news.ycombinator.com/item?id=43897129) - [Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL](https://textquery.app/)
 * [2025-05-05, 16:57:43](https://news.ycombinator.com/item?id=43897107) - [Distributed server for social and realtime games and apps](https://github.com/heroiclabs/nakama)
+* [2025-05-05, 16:41:14](https://news.ycombinator.com/item?id=43896948) - [Heat stress mitigation by trees and shelters at bus stops](https://www.sciencedirect.com/science/article/pii/S136192092500063X)
 * [2025-05-05, 16:41:04](https://news.ycombinator.com/item?id=43896944) - [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
 * [2025-05-05, 16:29:22](https://news.ycombinator.com/item?id=43896820) - [Tuning Timbre Spectrum Scale](https://sethares.engr.wisc.edu/ttss.html)
 * [2025-05-05, 16:26:25](https://news.ycombinator.com/item?id=43896765) - [Loving 21st century gaming like an 18th century furniture expert](https://kimimithegameeatingshemonster.com/2023/04/26/loving-21st-century-gaming-like-an-18th-century-furniture-expert/)
