@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 19:48:08](https://news.ycombinator.com/item?id=43930554) - [Show HN: Extension for full-text browser history search](https://rearview-ai.vercel.app/)
 * [2025-05-08, 19:13:29](https://news.ycombinator.com/item?id=43930156) - [The Rise and Fall of the Visual Telegraph (2017)](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
 * [2025-05-08, 18:40:12](https://news.ycombinator.com/item?id=43929724) - [From: Steve Jobs. \"Great idea, thank you.\"](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
 * [2025-05-08, 18:18:20](https://news.ycombinator.com/item?id=43929447) - [Block Diffusion: Interpolating Autoregressive and Diffusion Language Models](https://m-arriola.com/bd3lms/)
