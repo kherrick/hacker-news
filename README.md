@@ -2,6 +2,7 @@
 
 * [2025-05-08, 19:13:29](https://news.ycombinator.com/item?id=43930156) - [The Rise and Fall of the Visual Telegraph (2017)](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
 * [2025-05-08, 18:40:12](https://news.ycombinator.com/item?id=43929724) - [From: Steve Jobs. \"Great idea, thank you.\"](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
+* [2025-05-08, 18:18:20](https://news.ycombinator.com/item?id=43929447) - [Block Diffusion: Interpolating Autoregressive and Diffusion Language Models](https://m-arriola.com/bd3lms/)
 * [2025-05-08, 17:49:02](https://news.ycombinator.com/item?id=43929054) - [Static as a Server](https://overreacted.io/static-as-a-server/)
 * [2025-05-08, 17:48:12](https://news.ycombinator.com/item?id=43929040) - [Brokk: AI for Large Codebases](https://brokk.ai)
 * [2025-05-08, 17:02:10](https://news.ycombinator.com/item?id=43928315) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
@@ -26,7 +27,6 @@
 * [2025-05-06, 15:13:37](https://news.ycombinator.com/item?id=43906066) - [Mass spectrometry method identifies pathogens within minutes instead of days](https://phys.org/news/2025-05-mass-spectrometry-method-pathogens-minutes.html)
 * [2025-05-06, 11:16:32](https://news.ycombinator.com/item?id=43903809) - [Shape and topology morphing of closed surfaces integrating origami and kirigami](https://www.science.org/doi/10.1126/sciadv.ads5659)
 * [2025-05-06, 02:07:42](https://news.ycombinator.com/item?id=43901190) - [How to harden GitHub Actions](https://www.wiz.io/blog/github-actions-security-guide)
-* [2025-05-05, 16:41:14](https://news.ycombinator.com/item?id=43896948) - [Heat stress mitigation by trees and shelters at bus stops](https://www.sciencedirect.com/science/article/pii/S136192092500063X)
 * [2025-05-05, 15:05:33](https://news.ycombinator.com/item?id=43895890) - [How linear regression works intuitively and how it leads to gradient descent](https://briefer.cloud/blog/posts/least-squares/)
 * [2025-05-05, 07:54:44](https://news.ycombinator.com/item?id=43892786) - [How Obama’s BlackBerry got secured (2013)](https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html)
 * [2025-05-05, 06:31:38](https://news.ycombinator.com/item?id=43892446) - [Using Coalton to implement a quantum compiler (2022)](https://coalton-lang.github.io/20220906-quantum-compiler/)
