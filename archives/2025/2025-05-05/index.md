@@ -70,6 +70,7 @@
 * [2025-05-05, 07:54:44](https://news.ycombinator.com/item?id=43892786) - [How Obama’s BlackBerry got secured (2013)](https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html)
 * [2025-05-05, 07:52:26](https://news.ycombinator.com/item?id=43892773) - [Bootstrapping Lisp in a Boot Sector](https://github.com/jart/sectorlisp)
 * [2025-05-05, 06:40:15](https://news.ycombinator.com/item?id=43892481) - [Apple Shortcuts is falling into \"the automation gap\"](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
+* [2025-05-05, 06:31:38](https://news.ycombinator.com/item?id=43892446) - [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
 * [2025-05-05, 06:30:19](https://news.ycombinator.com/item?id=43892442) - [Show HN: ProcASM – A general purpose, visual programming lanugage](https://procasm.temware.site)
 * [2025-05-05, 06:07:36](https://news.ycombinator.com/item?id=43892331) - [Extending a Language – Writing Powerful Macros in Scheme](https://mnieper.github.io/scheme-macros/README.html)
 * [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)

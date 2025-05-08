@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-08, 15:47:53](https://news.ycombinator.com/item?id=43927318) - [Cybertruck owners won't get Autosteer feature](https://electrek.co/2025/05/07/tesla-bait-and-switch-cybertruck-owners-wont-get-autosteer-feature/)
-* [2025-05-08, 15:29:47](https://news.ycombinator.com/item?id=43927082) - [Standard Chartered apologizes for $120K Bitcoin price call, 'may be too low'](https://www.cnbc.com/2025/05/08/stanchart-analyst-apologizes-120k-bitcoin-price-call-too-low.html)
 * [2025-05-08, 14:24:04](https://news.ycombinator.com/item?id=43926350) - [Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires)
 * [2025-05-08, 13:59:49](https://news.ycombinator.com/item?id=43926165) - [20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
 * [2025-05-08, 13:57:48](https://news.ycombinator.com/item?id=43926149) - [Trump's NIH Axed Research Grants Even After a Judge Blocked the Cuts](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants)
@@ -30,6 +28,8 @@
 * [2025-05-05, 16:41:14](https://news.ycombinator.com/item?id=43896948) - [Heat stress mitigation by trees and shelters at bus stops](https://www.sciencedirect.com/science/article/pii/S136192092500063X)
 * [2025-05-05, 15:05:33](https://news.ycombinator.com/item?id=43895890) - [How linear regression works intuitively and how it leads to gradient descent](https://briefer.cloud/blog/posts/least-squares/)
 * [2025-05-05, 07:54:44](https://news.ycombinator.com/item?id=43892786) - [How Obama’s BlackBerry got secured (2013)](https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html)
+* [2025-05-05, 06:31:38](https://news.ycombinator.com/item?id=43892446) - [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
+* [2025-05-05, 06:07:36](https://news.ycombinator.com/item?id=43892331) - [Extending a Language – Writing Powerful Macros in Scheme](https://mnieper.github.io/scheme-macros/README.html)
 
 ## [Archives](archives/index.md)
 
