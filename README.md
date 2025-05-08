@@ -2,8 +2,8 @@
 
 * [2025-05-08, 07:01:08](https://news.ycombinator.com/item?id=43923801) - [Thunder Compute (YC S24) Is Hiring a C++ Low-Latency Systems Developer](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer)
 * [2025-05-08, 05:40:52](https://news.ycombinator.com/item?id=43923372) - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
-* [2025-05-08, 04:57:23](https://news.ycombinator.com/item?id=43923187) - [We have reached the \"severed fingers and abductions\" stage of crypto revolution](https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/)
 * [2025-05-08, 04:09:40](https://news.ycombinator.com/item?id=43922975) - [Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html)
+* [2025-05-08, 03:04:03](https://news.ycombinator.com/item?id=43922698) - [I can't understand Apple's Critical Alert policy](https://jhan.bearblog.dev/i-cant-understand-apples-critical-alert-policy/)
 * [2025-05-07, 23:51:32](https://news.ycombinator.com/item?id=43921653) - [Show HN: US Routing – Python library for fast local routing in the US](https://github.com/ivanbelenky/us-routing)
 * [2025-05-07, 23:45:10](https://news.ycombinator.com/item?id=43921624) - [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
 * [2025-05-07, 21:48:08](https://news.ycombinator.com/item?id=43920889) - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
