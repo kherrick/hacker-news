@@ -66,6 +66,7 @@
 * [2025-05-05, 08:43:30](https://news.ycombinator.com/item?id=43893020) - [DNSanity: Quickly validate DNS servers at scale](https://github.com/nil0x42/dnsanity)
 * [2025-05-05, 08:28:40](https://news.ycombinator.com/item?id=43892964) - [EU to ban anonymous crypto accounts and privacy coins by 2027](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027)
 * [2025-05-05, 08:08:37](https://news.ycombinator.com/item?id=43892856) - [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
+* [2025-05-05, 08:05:35](https://news.ycombinator.com/item?id=43892840) - [Mathematical Problem Solving](https://www.cip.ifi.lmu.de/~grinberg/t/20f/)
 * [2025-05-05, 08:04:23](https://news.ycombinator.com/item?id=43892832) - [Show HN: Ductape – Build back end integrations once, reuse them anywhere](https://www.ductape.app)
 * [2025-05-05, 07:54:44](https://news.ycombinator.com/item?id=43892786) - [How Obama’s BlackBerry got secured (2013)](https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html)
 * [2025-05-05, 07:52:26](https://news.ycombinator.com/item?id=43892773) - [Bootstrapping Lisp in a Boot Sector](https://github.com/jart/sectorlisp)
