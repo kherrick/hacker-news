@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:07:00](https://news.ycombinator.com/item?id=43930757) - [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
 * [2025-05-08, 19:51:29](https://news.ycombinator.com/item?id=43930584) - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 * [2025-05-08, 19:48:08](https://news.ycombinator.com/item?id=43930554) - [Show HN: Extension for full-text browser history search](https://rearview-ai.vercel.app/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:07:00](https://news.ycombinator.com/item?id=43930757) - [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
 * [2025-05-08, 19:51:29](https://news.ycombinator.com/item?id=43930584) - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 * [2025-05-08, 19:13:29](https://news.ycombinator.com/item?id=43930156) - [The Rise and Fall of the Visual Telegraph (2017)](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
@@ -18,7 +19,6 @@
 * [2025-05-08, 13:36:09](https://news.ycombinator.com/item?id=43925982) - [Google to back three new nuclear projects](https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/)
 * [2025-05-08, 13:05:10](https://news.ycombinator.com/item?id=43925732) - [Ask HN: What are good high-information density UIs (screenshots, apps, sites)?](https://news.ycombinator.com/item?id=43925732)
 * [2025-05-08, 12:11:39](https://news.ycombinator.com/item?id=43925355) - [My stackoverflow question was closed so here's a blog post about CoreWCF](https://richardcocks.github.io/2025-05-08-CoreWCF.html)
-* [2025-05-08, 12:05:26](https://news.ycombinator.com/item?id=43925325) - [Will protein design tools solve the snake antivenom shortage?](https://www.owlposting.com/p/will-protein-design-tools-solve-the)
 * [2025-05-08, 08:52:56](https://news.ycombinator.com/item?id=43924358) - [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
 * [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Egyptologist uncovers hidden messages on Paris’s iconic obelisk](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508)
 * [2025-05-08, 05:40:52](https://news.ycombinator.com/item?id=43923372) - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
