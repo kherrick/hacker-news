@@ -67,6 +67,7 @@
 * [2025-05-05, 07:52:26](https://news.ycombinator.com/item?id=43892773) - [Bootstrapping Lisp in a Boot Sector](https://github.com/jart/sectorlisp)
 * [2025-05-05, 06:40:15](https://news.ycombinator.com/item?id=43892481) - [Apple Shortcuts is falling into \"the automation gap\"](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
 * [2025-05-05, 06:30:19](https://news.ycombinator.com/item?id=43892442) - [Show HN: ProcASM – A general purpose, visual programming lanugage](https://procasm.temware.site)
+* [2025-05-05, 06:07:36](https://news.ycombinator.com/item?id=43892331) - [Extending a Language – Writing Powerful Macros in Scheme](https://mnieper.github.io/scheme-macros/README.html)
 * [2025-05-05, 05:18:13](https://news.ycombinator.com/item?id=43892119) - [Modern Latex](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 05:11:51](https://news.ycombinator.com/item?id=43892096) - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 * [2025-05-05, 03:29:41](https://news.ycombinator.com/item?id=43891723) - [Time Between The Lines: how memory access affects performance (2015)](https://bitbashing.io/memory-performance.html)
