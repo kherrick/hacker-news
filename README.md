@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-08, 22:30:17](https://news.ycombinator.com/item?id=43932010) - [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)
+* [2025-05-08, 22:05:37](https://news.ycombinator.com/item?id=43931845) - [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
 * [2025-05-08, 21:12:32](https://news.ycombinator.com/item?id=43931409) - [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
 * [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:07:00](https://news.ycombinator.com/item?id=43930757) - [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
@@ -26,7 +27,6 @@
 * [2025-05-06, 15:55:42](https://news.ycombinator.com/item?id=43906566) - [A Brief History of Cursor's Tab-Completion](https://www.coplay.dev/blog/a-brief-history-of-cursor-s-tab-completion)
 * [2025-05-06, 11:16:32](https://news.ycombinator.com/item?id=43903809) - [Shape and topology morphing of closed surfaces integrating origami and kirigami](https://www.science.org/doi/10.1126/sciadv.ads5659)
 * [2025-05-06, 04:32:05](https://news.ycombinator.com/item?id=43901831) - [The second birth of JMW Turner](https://www.newstatesman.com/culture/art-design/2025/04/the-second-birth-of-jmw-turner)
-* [2025-05-06, 02:07:42](https://news.ycombinator.com/item?id=43901190) - [How to harden GitHub Actions](https://www.wiz.io/blog/github-actions-security-guide)
 * [2025-05-05, 08:05:35](https://news.ycombinator.com/item?id=43892840) - [Mathematical Problem Solving](https://www.cip.ifi.lmu.de/~grinberg/t/20f/)
 * [2025-05-05, 07:54:44](https://news.ycombinator.com/item?id=43892786) - [How Obama’s BlackBerry got secured (2013)](https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html)
 * [2025-05-05, 06:31:38](https://news.ycombinator.com/item?id=43892446) - [Using Coalton to implement a quantum compiler (2022)](https://coalton-lang.github.io/20220906-quantum-compiler/)
