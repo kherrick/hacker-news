@@ -74,6 +74,7 @@
 * [2025-05-06, 10:13:31](https://news.ycombinator.com/item?id=43903414) - [Show HN: AnuDB– Backed on RocksDB, 279x Faster Than SQLite in Parallel Workloads](https://github.com/hash-anu/AnuDB)
 * [2025-05-06, 10:10:52](https://news.ycombinator.com/item?id=43903400) - [FTC rule on unfair or deceptive fees to take effect on May 12](https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025)
 * [2025-05-06, 09:37:50](https://news.ycombinator.com/item?id=43903206) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/andrewn6/fromthetransistor)
+* [2025-05-06, 09:29:15](https://news.ycombinator.com/item?id=43903162) - [Math Machine – A notebook will show your kid how far they have travelled](https://kidswholovemath.substack.com/p/math-machine)
 * [2025-05-06, 08:46:31](https://news.ycombinator.com/item?id=43902938) - [RIP Skype](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/)
 * [2025-05-06, 08:34:17](https://news.ycombinator.com/item?id=43902869) - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
 * [2025-05-06, 07:44:31](https://news.ycombinator.com/item?id=43902663) - [Lego built full-size F1 cars for the Miami GP drivers' parade](https://www.nytimes.com/athletic/6331840/2025/05/04/f1-miami-gp-lego-car-driver-parade/)
