@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 07:23:59](https://news.ycombinator.com/item?id=43934544) - [Boy Accidentally Orders 70k Lollipops on Amazon. Panic Ensues](https://www.nytimes.com/2025/05/08/business/dum-dums-amazon-order-kentucky.html)
+* [2025-05-09, 06:19:17](https://news.ycombinator.com/item?id=43934279) - [6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual (1980)](https://www.pagetable.com/?p=1798)
 * [2025-05-09, 05:10:28](https://news.ycombinator.com/item?id=43933962) - [Verification, the Key to AI (2001)](http://incompleteideas.net/IncIdeas/KeytoAI.html)
 * [2025-05-09, 04:55:20](https://news.ycombinator.com/item?id=43933891) - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
 * [2025-05-09, 03:59:25](https://news.ycombinator.com/item?id=43933683) - [eBPF Mystery: When is IPv4 not IPv4? When it's pretending to be IPv6](https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/)
@@ -18,7 +20,6 @@
 * [2025-05-08, 19:51:29](https://news.ycombinator.com/item?id=43930584) - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 * [2025-05-08, 19:34:36](https://news.ycombinator.com/item?id=43930397) - [How to start a school with your friends](https://prigoose.substack.com/p/how-to-start-a-university)
 * [2025-05-08, 18:40:12](https://news.ycombinator.com/item?id=43929724) - [From: Steve Jobs. \"Great idea, thank you.\"](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
-* [2025-05-08, 17:49:02](https://news.ycombinator.com/item?id=43929054) - [Static as a Server](https://overreacted.io/static-as-a-server/)
 * [2025-05-08, 17:02:10](https://news.ycombinator.com/item?id=43928315) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 * [2025-05-08, 16:35:34](https://news.ycombinator.com/item?id=43927926) - [Void: Open-source Cursor alternative](https://github.com/voideditor/void)
 * [2025-05-08, 16:30:45](https://news.ycombinator.com/item?id=43927856) - [First American pope elected and will be known as Pope Leo XIV](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25)
@@ -26,10 +27,9 @@
 * [2025-05-08, 14:19:42](https://news.ycombinator.com/item?id=43926324) - [Show HN: Test your typing speed and accuracy with movie scripts](https://atypescriptgame.com/)
 * [2025-05-06, 18:38:14](https://news.ycombinator.com/item?id=43908261) - [When Abandoned Mines Collapse](https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse)
 * [2025-05-06, 13:54:23](https://news.ycombinator.com/item?id=43905153) - [Throwaway Code: Don't recycle, throw it away (2017)](https://www.sung.codes/blog/2017/throwaway-code-dont-recycle-throw-away)
-* [2025-05-06, 06:33:31](https://news.ycombinator.com/item?id=43902350) - [Gorilla study reveals complex pros and cons of friendship](https://www.sciencedaily.com/releases/2025/05/250505170816.htm)
 * [2025-05-05, 21:06:46](https://news.ycombinator.com/item?id=43899456) - [Phoenician culture spread mainly through cultural exchange](https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x)
 * [2025-05-05, 10:44:51](https://news.ycombinator.com/item?id=43893581) - [Finding a Bug in Chromium](https://bou.ke/blog/chromium-bug/)
-* [2025-05-05, 08:45:42](https://news.ycombinator.com/item?id=43893032) - [Robotics Meets the Culinary Arts](https://actu.epfl.ch/news/robotics-meets-the-culinary-arts/)
+* [2025-05-05, 08:45:42](https://news.ycombinator.com/item?id=43893032) - [Robotics meets the culinary arts](https://actu.epfl.ch/news/robotics-meets-the-culinary-arts/)
 
 ## [Archives](archives/index.md)
 
