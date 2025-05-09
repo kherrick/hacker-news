@@ -22,6 +22,7 @@
 * [2025-05-06, 20:38:00](https://news.ycombinator.com/item?id=43909398) - [A Step Towards Music Generation Foundation Model](https://github.com/ace-step/ACE-Step)
 * [2025-05-06, 20:33:11](https://news.ycombinator.com/item?id=43909360) - [Engineered adipocytes implantation suppresses tumor progression in cancer models](https://www.nature.com/articles/s41587-024-02551-2)
 * [2025-05-06, 20:32:58](https://news.ycombinator.com/item?id=43909353) - [Towards the Blank Search Bar](https://fi-le.net/recommendationless/)
+* [2025-05-06, 20:30:17](https://news.ycombinator.com/item?id=43909328) - [Cell Mates: Extracting Useful Information from Tables for LLMs](https://www.gojiberries.io/cell-mates-extracting-useful-information-from-tables-for-llms/)
 * [2025-05-06, 20:17:57](https://news.ycombinator.com/item?id=43909220) - [TeleMessage, used by Trump officials, can access plaintext chat logs](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/)
 * [2025-05-06, 20:15:59](https://news.ycombinator.com/item?id=43909191) - [The Reverse Turing Test Game](https://reverse-turing.netlify.app/)
 * [2025-05-06, 20:14:47](https://news.ycombinator.com/item?id=43909179) - [How \"Night of the Living Dead\" Accidentally Became Public Domain](https://screenrant.com/night-living-dead-movie-public-domain-copyright-accident/)
