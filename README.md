@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [How Warren Robinett Made Adventure on the Atari](http://www.warrenrobinett.com/inventing_adventure/)
 * [2025-05-09, 18:13:38](https://news.ycombinator.com/item?id=43939617) - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
 * [2025-05-09, 17:53:00](https://news.ycombinator.com/item?id=43939419) - [In the Network of the Conclav: How we \"guessed\" the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
 * [2025-05-09, 17:00:49](https://news.ycombinator.com/item?id=43938959) - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
@@ -20,7 +21,6 @@
 * [2025-05-09, 12:13:36](https://news.ycombinator.com/item?id=43935913) - [NSF faces shake-up as officials abolish its 37 divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)
 * [2025-05-09, 11:37:40](https://news.ycombinator.com/item?id=43935707) - [CryptPad: An Alternative to the Google Suite](https://cryptpad.org/)
 * [2025-05-09, 11:23:36](https://news.ycombinator.com/item?id=43935625) - [Data manipulations alleged in study that paved way for Microsoft's quantum chip](https://www.science.org/content/article/data-manipulations-alleged-study-paved-way-microsoft-s-quantum-chip)
-* [2025-05-09, 11:18:06](https://news.ycombinator.com/item?id=43935586) - [Amazon's Vulcan Robots Now Stow Items Faster Than Humans](https://spectrum.ieee.org/amazon-stowing-robots)
 * [2025-05-09, 10:52:15](https://news.ycombinator.com/item?id=43935434) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
 * [2025-05-09, 10:45:40](https://news.ycombinator.com/item?id=43935394) - [Show HN: Hyvector – A fast and modern SVG editor](https://www.hyvector.com)
 * [2025-05-09, 10:39:43](https://news.ycombinator.com/item?id=43935356) - [The Linux Kernel's PGP Web of Trust](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html)

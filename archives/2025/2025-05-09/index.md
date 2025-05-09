@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [How Warren Robinett Made Adventure on the Atari](http://www.warrenrobinett.com/inventing_adventure/)
 * [2025-05-09, 18:13:38](https://news.ycombinator.com/item?id=43939617) - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
 * [2025-05-09, 17:53:00](https://news.ycombinator.com/item?id=43939419) - [In the Network of the Conclav: How we \"guessed\" the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
 * [2025-05-09, 17:06:25](https://news.ycombinator.com/item?id=43939006) - [Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/)
