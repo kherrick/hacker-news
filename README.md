@@ -25,7 +25,7 @@
 * [2025-05-09, 03:03:51](https://news.ycombinator.com/item?id=43933452) - [Starlink User Terminal Teardown](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
 * [2025-05-09, 02:17:55](https://news.ycombinator.com/item?id=43933248) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://www.audiobookshelf.org/)
 * [2025-05-08, 22:05:37](https://news.ycombinator.com/item?id=43931845) - [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
-* [2025-05-08, 16:35:34](https://news.ycombinator.com/item?id=43927926) - [Void: Open-source Cursor alternative](https://github.com/voideditor/void)
+* [2025-05-06, 20:40:28](https://news.ycombinator.com/item?id=43909418) - [The CL1: the first code deployable biological computer](https://corticallabs.com/cl1.html)
 * [2025-05-06, 18:34:57](https://news.ycombinator.com/item?id=43908220) - [A Taxonomy for Rendering Engines](https://c0de517e.com/021_taxonomy.htm)
 * [2025-05-06, 12:54:20](https://news.ycombinator.com/item?id=43904546) - [Malaya's Timeless Design](https://www.linyangchen.com/Philately)
 * [2025-05-05, 19:00:11](https://news.ycombinator.com/item?id=43898280) - [Zombieverter: Open source VCU for reusing salvage EV components](https://openinverter.org/wiki/ZombieVerter_VCU)
