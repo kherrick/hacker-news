@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-09, 14:02:02",
+      "https://news.ycombinator.com/item?id=43936884"
+    ],
+    [
+      "Itter.sh – Micro-Blogging via Terminal",
+      "https://www.itter.sh/"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 13:38:06",
+      "https://news.ycombinator.com/item?id=43936592"
+    ],
+    [
+      "21 GB/s CSV Parsing Using SIMD on AMD 9950X",
+      "https://nietras.com/2025/05/09/sep-0-10-0/"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 13:25:17",
       "https://news.ycombinator.com/item?id=43936468"
     ],
     [
       "Hollow Core Fiber (HCF)",
       "https://www.holightoptic.com/what-is-hollow-core-fiber-hcf%ef%bc%9f/"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 13:24:22",
+      "https://news.ycombinator.com/item?id=43936461"
+    ],
+    [
+      "Reconstructing illusory camouflage patterns on moth wings using computer vision",
+      "https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0757"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-05-09, 03:59:25",
-      "https://news.ycombinator.com/item?id=43933683"
-    ],
-    [
-      "eBPF Mystery: When is IPv4 not IPv4? When it's pretending to be IPv6",
-      "https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 03:46:53",
       "https://news.ycombinator.com/item?id=43933628"
     ],
@@ -167,16 +187,6 @@
     [
       "Starlink User Terminal Teardown",
       "https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 02:54:45",
-      "https://news.ycombinator.com/item?id=43933412"
-    ],
-    [
-      "A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf]",
-      "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Void: Open-source Cursor alternative",
       "https://github.com/voideditor/void"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 15:49:37",
-      "https://news.ycombinator.com/item?id=43927337"
-    ],
-    [
-      "Progress toward fusion energy gain as measured against the Lawson criteria",
-      "https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria"
     ]
   ],
   [
