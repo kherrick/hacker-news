@@ -13,7 +13,6 @@
 * [2025-05-09, 03:03:51](https://news.ycombinator.com/item?id=43933452) - [Starlink User Terminal Teardown](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
 * [2025-05-09, 02:54:45](https://news.ycombinator.com/item?id=43933412) - [A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
 * [2025-05-09, 02:17:55](https://news.ycombinator.com/item?id=43933248) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://www.audiobookshelf.org/)
-* [2025-05-09, 00:04:21](https://news.ycombinator.com/item?id=43932567) - [Cogentcore: Open-source framework for building multi-platform apps with Go](https://github.com/cogentcore/core)
 * [2025-05-08, 22:19:12](https://news.ycombinator.com/item?id=43931944) - [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 * [2025-05-08, 22:05:37](https://news.ycombinator.com/item?id=43931845) - [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
 * [2025-05-08, 21:46:14](https://news.ycombinator.com/item?id=43931673) - [Prepare your apps for Google Play's 16 KB page size compatibility requirement](https://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html)
@@ -28,6 +27,7 @@
 * [2025-05-06, 18:38:14](https://news.ycombinator.com/item?id=43908261) - [When Abandoned Mines Collapse](https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse)
 * [2025-05-06, 13:54:23](https://news.ycombinator.com/item?id=43905153) - [Throwaway Code: Don't recycle, throw it away (2017)](https://www.sung.codes/blog/2017/throwaway-code-dont-recycle-throw-away)
 * [2025-05-05, 21:06:46](https://news.ycombinator.com/item?id=43899456) - [Phoenician culture spread mainly through cultural exchange](https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x)
+* [2025-05-05, 19:00:11](https://news.ycombinator.com/item?id=43898280) - [Zombieverter: Open source VCU for reusing salvage EV components](https://openinverter.org/wiki/ZombieVerter_VCU)
 * [2025-05-05, 10:44:51](https://news.ycombinator.com/item?id=43893581) - [Finding a Bug in Chromium](https://bou.ke/blog/chromium-bug/)
 * [2025-05-05, 08:45:42](https://news.ycombinator.com/item?id=43893032) - [Robotics meets the culinary arts](https://actu.epfl.ch/news/robotics-meets-the-culinary-arts/)
 

@@ -23,6 +23,7 @@
 * [2025-05-05, 19:13:08](https://news.ycombinator.com/item?id=43898400) - [Bridging the Gap Between Keyword and Semantic Search with Splade](http://arcturus-labs.com/blog/2024/10/09/bridging-the-gap-between-keyword-and-semantic-search-with-splade/)
 * [2025-05-05, 19:11:33](https://news.ycombinator.com/item?id=43898380) - [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 * [2025-05-05, 19:03:25](https://news.ycombinator.com/item?id=43898306) - [Understanding effective type Aliasing in C [pdf]](https://www.open-std.org/JTC1/SC22/WG14/www/docs/n3519.pdf)
+* [2025-05-05, 19:00:11](https://news.ycombinator.com/item?id=43898280) - [Zombieverter: Open source VCU for reusing salvage EV components](https://openinverter.org/wiki/ZombieVerter_VCU)
 * [2025-05-05, 18:08:02](https://news.ycombinator.com/item?id=43897772) - [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)
 * [2025-05-05, 18:02:20](https://news.ycombinator.com/item?id=43897719) - [Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python](https://github.com/leontrolski/tkintergalactic)
 * [2025-05-05, 17:23:36](https://news.ycombinator.com/item?id=43897333) - [The Creative Power of Constraints](https://arun.is/blog/creative-power-constraints/)
