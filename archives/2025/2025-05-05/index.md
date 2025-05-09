@@ -50,6 +50,7 @@
 * [2025-05-05, 14:26:26](https://news.ycombinator.com/item?id=43895516) - [Maker of AI 'vibe coding' app Cursor hits $9B valuation](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2)
 * [2025-05-05, 14:20:04](https://news.ycombinator.com/item?id=43895456) - [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
 * [2025-05-05, 14:01:34](https://news.ycombinator.com/item?id=43895237) - [History of \"Adventure\" for the Atari 2600](https://www.atariarchive.org/blog/adventure-march-1980/)
+* [2025-05-05, 13:34:45](https://news.ycombinator.com/item?id=43894967) - [Structuring Competency-Based Courses Through Skill Trees](https://arxiv.org/abs/2504.16966)
 * [2025-05-05, 13:12:00](https://news.ycombinator.com/item?id=43894753) - [Jiga (YC W21) Is Hiring Engineers](https://www.workatastartup.com/companies/jiga)
 * [2025-05-05, 13:02:35](https://news.ycombinator.com/item?id=43894678) - [SpaceX pushed \"sniper\" theory with the feds far more than is publicly known](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/)
 * [2025-05-05, 12:29:21](https://news.ycombinator.com/item?id=43894363) - [Internet usage pattern during power outage in Spain and Portugal](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/)
