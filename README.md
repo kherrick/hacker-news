@@ -4,7 +4,6 @@
 * [2025-05-09, 21:05:59](https://news.ycombinator.com/item?id=43940865) - [Era of U.S. dollar may be winding down](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/)
 * [2025-05-09, 20:20:52](https://news.ycombinator.com/item?id=43940539) - [What's New in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
 * [2025-05-09, 20:15:53](https://news.ycombinator.com/item?id=43940500) - [Google Doc Templates for Startups](https://www.templatesbypaul.com/)
-* [2025-05-09, 20:08:27](https://news.ycombinator.com/item?id=43940452) - [Graphcore unveils GC200 and M2000 IPU Machine–1 petaFLOP \"pizza box\" AI server](https://www.graphcore.ai/articles/graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them)
 * [2025-05-09, 19:07:53](https://news.ycombinator.com/item?id=43940033) - [Why 536 was 'the worst year to be alive' (2018)](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
 * [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [Inventing the Adventure Game (1984)](http://www.warrenrobinett.com/inventing_adventure/)
 * [2025-05-09, 18:13:38](https://news.ycombinator.com/item?id=43939617) - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
@@ -29,6 +28,7 @@
 * [2025-05-07, 19:58:57](https://news.ycombinator.com/item?id=43920006) - [Before the Undo Command, There Was the Electric Eraser](https://spectrum.ieee.org/electric-eraser)
 * [2025-05-07, 15:51:08](https://news.ycombinator.com/item?id=43917278) - [Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game](https://32bits.substack.com/p/under-the-microscope-the-lost-world)
 * [2025-05-07, 14:59:54](https://news.ycombinator.com/item?id=43916606) - [Physicists uncover how geometric frustration shapes the rose's iconic blossom](https://phys.org/news/2025-05-physicists-uncover-geometric-frustration-rose.html)
+* [2025-05-06, 21:19:34](https://news.ycombinator.com/item?id=43909774) - [Some Thoughts on LCP eBook DRM](https://shkspr.mobi/blog/2025/03/some-thoughts-on-lcp-ebook-drm/)
 * [2025-05-06, 09:29:15](https://news.ycombinator.com/item?id=43903162) - [Math Machine – A notebook will show your kid how far they have travelled](https://kidswholovemath.substack.com/p/math-machine)
 
 ## [Archives](archives/index.md)
