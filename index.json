@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-09, 20:20:52",
+      "https://news.ycombinator.com/item?id=43940539"
+    ],
+    [
+      "What's New in Swift 6.2?",
+      "https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 20:08:27",
+      "https://news.ycombinator.com/item?id=43940452"
+    ],
+    [
+      "Graphcore unveils GC200 and M2000 IPU Machine–1 petaFLOP \"pizza box\" AI server",
+      "https://www.graphcore.ai/articles/graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 19:07:53",
       "https://news.ycombinator.com/item?id=43940033"
     ],
@@ -57,16 +77,6 @@
     [
       "Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)",
       "https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 16:29:02",
-      "https://news.ycombinator.com/item?id=43938611"
-    ],
-    [
-      "The Anarchitecture Group",
-      "https://www.spatialagency.net/database/the.anarchitecture.group"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Data manipulations alleged in study that paved way for Microsoft's quantum chip",
       "https://www.science.org/content/article/data-manipulations-alleged-study-paved-way-microsoft-s-quantum-chip"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 10:52:15",
-      "https://news.ycombinator.com/item?id=43935434"
-    ],
-    [
-      "Implementing a Struct of Arrays",
-      "https://brevzin.github.io/c++/2025/05/02/soa/"
     ]
   ],
   [
