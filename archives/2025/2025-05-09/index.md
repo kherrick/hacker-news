@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 13:25:17](https://news.ycombinator.com/item?id=43936468) - [Hollow Core Fiber (HCF)](https://www.holightoptic.com/what-is-hollow-core-fiber-hcf%ef%bc%9f/)
 * [2025-05-09, 13:18:42](https://news.ycombinator.com/item?id=43936408) - [Sofie: open-source web based system for automating live TV news production](https://nrkno.github.io/sofie-core/)
 * [2025-05-09, 12:42:29](https://news.ycombinator.com/item?id=43936097) - [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
 * [2025-05-09, 12:13:36](https://news.ycombinator.com/item?id=43935913) - [NSF faces shake-up as officials abolish its 37 divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)

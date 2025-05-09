@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 13:25:17](https://news.ycombinator.com/item?id=43936468) - [Hollow Core Fiber (HCF)](https://www.holightoptic.com/what-is-hollow-core-fiber-hcf%ef%bc%9f/)
 * [2025-05-09, 13:18:42](https://news.ycombinator.com/item?id=43936408) - [Sofie: open-source web based system for automating live TV news production](https://nrkno.github.io/sofie-core/)
 * [2025-05-09, 12:42:29](https://news.ycombinator.com/item?id=43936097) - [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
 * [2025-05-09, 12:13:36](https://news.ycombinator.com/item?id=43935913) - [NSF faces shake-up as officials abolish its 37 divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)
@@ -18,7 +19,6 @@
 * [2025-05-09, 03:03:51](https://news.ycombinator.com/item?id=43933452) - [Starlink User Terminal Teardown](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
 * [2025-05-09, 02:54:45](https://news.ycombinator.com/item?id=43933412) - [A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
 * [2025-05-09, 02:17:55](https://news.ycombinator.com/item?id=43933248) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://www.audiobookshelf.org/)
-* [2025-05-08, 22:19:12](https://news.ycombinator.com/item?id=43931944) - [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 * [2025-05-08, 22:05:37](https://news.ycombinator.com/item?id=43931845) - [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
 * [2025-05-08, 21:12:32](https://news.ycombinator.com/item?id=43931409) - [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
 * [2025-05-08, 17:02:10](https://news.ycombinator.com/item?id=43928315) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
