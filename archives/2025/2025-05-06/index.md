@@ -69,6 +69,7 @@
 * [2025-05-06, 09:37:50](https://news.ycombinator.com/item?id=43903206) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/andrewn6/fromthetransistor)
 * [2025-05-06, 08:46:31](https://news.ycombinator.com/item?id=43902938) - [RIP Skype](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/)
 * [2025-05-06, 08:34:17](https://news.ycombinator.com/item?id=43902869) - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
+* [2025-05-06, 07:44:31](https://news.ycombinator.com/item?id=43902663) - [Lego built full-size F1 cars for the Miami GP drivers' parade](https://www.nytimes.com/athletic/6331840/2025/05/04/f1-miami-gp-lego-car-driver-parade/)
 * [2025-05-06, 07:14:00](https://news.ycombinator.com/item?id=43902525) - [Hyper – Outperform React on every metric](https://nuejs.org/blog/introducing-hyper/)
 * [2025-05-06, 06:33:31](https://news.ycombinator.com/item?id=43902350) - [Gorilla study reveals complex pros and cons of friendship](https://www.sciencedaily.com/releases/2025/05/250505170816.htm)
 * [2025-05-06, 06:27:04](https://news.ycombinator.com/item?id=43902308) - [DoorDash to acquire Deliveroo](https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html)
