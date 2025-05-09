@@ -141,11 +141,11 @@
             <h4>
               <span>2025-05-09 @ 18:37:15</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43939781"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2025-05-09 @ 18:13:38</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43939617"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -185,11 +185,11 @@
             <h4>
               <span>2025-05-09 @ 17:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43939419"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -243,11 +243,11 @@
             <h4>
               <span>2025-05-09 @ 16:28:28</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43938607"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
             <div class="text">
@@ -368,7 +368,7 @@
             <h4>
               <span>2025-05-09 @ 16:21:19</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43938530"
                   >Comments</a
@@ -415,7 +415,7 @@
             <h4>
               <span>2025-05-09 @ 16:16:59</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43938481"
                   >Comments</a
@@ -448,11 +448,11 @@
             <h4>
               <span>2025-05-09 @ 16:09:45</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43938400"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -468,7 +468,7 @@
             <h4>
               <span>2025-05-09 @ 16:01:11</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43938309"
                   >Comments</a
@@ -514,117 +514,6 @@
             </div>
           </section>
         </section>
-        <section id="43937852">
-          <h3>
-            <a class="item" href="https://www.hydra.so/"
-              >Show HN: Hydra (YC W22) – Serverless Analytics on Postgres</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-09 @ 15:24:35</span
-              ><span class="points-container"
-                >Points: <span class="points">30</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43937852"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.hydra.so/">https://www.hydra.so/</a>)! We
-              enable realtime analytics on Postgres without requiring an
-              external analytics database.
-              <p>
-                Traditionally, this was unfeasible: Postgres is a rowstore
-                database that’s 1000X slower at analytical processing than a
-                columnstore database.
-              </p>
-              <p>
-                (A quick refresher for anyone interested: A rowstore means table
-                rows are stored sequentially, making it efficient at inserting /
-                updating a record, but inefficient at filtering and aggregating
-                data. At most businesses, analytical reporting scans large
-                volumes of events, traces, time-series data. As the volume
-                grows, the inefficiency of the rowstore compounds: i.e. it's not
-                scalable for analytics. In contrast, a columnstore stores all
-                the values of each column in sequence.)
-              </p>
-              <p>
-                For decades, it was a requirement for businesses to manage these
-                differences between the row and columnstore’s relative
-                strengths, by maintaining two separate systems. This led to
-                large gaps in both functionality and syntax, and background
-                knowledge of engineers. For example, here are the gaps between
-                Redshift (a popular columnstore) and Postgres (rowstore)
-                features: (<a
-                  href="https://docs.aws.amazon.com/redshift/latest/dg/c_unsupported-postgresql-features.html"
-                  >https://docs.aws.amazon.com/redshift/latest/dg/c_unsupported...</a
-                >).
-              </p>
-              <p>
-                We think there’s a better, simpler way: unify the rowstore and
-                columnstore – keep the data in one place, stop the costs and
-                hassle of managing an external analytics database. With Hydra,
-                events, traces, time-series data, user sessions, clickstream,
-                IOT telemetry, etc. are now accessible as a columnstore right
-                alongside my standard rowstore tables.
-              </p>
-              <p>
-                Our solution: Hydra separates compute from storage to bring the
-                analytics columnstore with serverless processing and automatic
-                caching to your postgres database.
-              </p>
-              <p>
-                The term "serverless" can be a bit confusing, because a server
-                always exists, but it means compute is ephemeral and spun up and
-                down automatically. The database automatically provisions and
-                isolates dedicated compute resources for each query process.
-                Serverless is different from managed compute, where the user
-                explicitly chooses to allocate and scale CPU and memory
-                continuously, and potentially overpay during idle time.
-              </p>
-              <p>
-                How is serverless useful? It's important that every analytics
-                query has its own resources per process. The major hurdles with
-                running analytics on Postgres is 1) Rowstore performance 2)
-                Resource contention. #2 is very often overlooked - but in
-                practice, when analytics queries are run they tend to hog
-                resources (RAM and CPU) from Postgres transactional work. So, a
-                slightly expensive analytics query has the ability to slow down
-                the entire database: that's why serverless is important: it
-                guarantees the expensive queries are isolated and run on
-                dedicated database resources per process.
-              </p>
-              <p>
-                why is hydra so fast at analytics? (<a
-                  href="https://tinyurl.com/hydraDBMS"
-                  >https://tinyurl.com/hydraDBMS</a
-                >) 1) columnstore by default 2) metadata for efficient
-                file-skipping and retrieval 3) parallel, vectorized execution 4)
-                automatic caching
-              </p>
-              <p>
-                what’s the killer feature? hydra can quickly join columnstore
-                tables with standard row tables within postgres with direct sql.
-              </p>
-              <p>
-                example: “segment events as a table.” Instead of dumping segment
-                event data into a s3 bucket or external analytics database, use
-                hydra to store and join events (clicks, signups, purchases) with
-                user profile data within postgres. know your users in realtime:
-                “what events predict churn?” or “which user will likely
-                convert?” is immediately actionable.
-              </p>
-              <p>
-                Thanks for reading! We would love to hear your feedback and if
-                you'd like to try Hydra now, we offer a $300 credit and 14-days
-                free per account. We're excited to see how bringing the
-                columnstore and rowstore side-by-side can help your project.
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="43937750">
           <h3>
             <a
@@ -637,11 +526,11 @@
             <h4>
               <span>2025-05-09 @ 15:17:11</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43937750"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -658,11 +547,11 @@
             <h4>
               <span>2025-05-09 @ 14:31:20</span
               ><span class="points-container"
-                >Points: <span class="points">327</span></span
+                >Points: <span class="points">339</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43937214"
                   >Comments</a
-                ><span class="descendants">: 188</span></span
+                ><span class="descendants">: 190</span></span
               >
             </h4>
           </section>
@@ -677,11 +566,11 @@
             <h4>
               <span>2025-05-09 @ 14:02:02</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936884"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -696,11 +585,11 @@
             <h4>
               <span>2025-05-09 @ 13:38:06</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936592"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -717,7 +606,7 @@
             <h4>
               <span>2025-05-09 @ 13:25:17</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936468"
                   >Comments</a
@@ -737,11 +626,11 @@
             <h4>
               <span>2025-05-09 @ 13:18:42</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936408"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -756,11 +645,11 @@
             <h4>
               <span>2025-05-09 @ 12:42:29</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936097"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
             <div class="text">
@@ -820,11 +709,11 @@
             <h4>
               <span>2025-05-09 @ 12:13:36</span
               ><span class="points-container"
-                >Points: <span class="points">330</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935913"
                   >Comments</a
-                ><span class="descendants">: 430</span></span
+                ><span class="descendants">: 436</span></span
               >
             </h4>
           </section>
@@ -839,7 +728,7 @@
             <h4>
               <span>2025-05-09 @ 11:37:40</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935707"
                   >Comments</a
@@ -861,11 +750,11 @@
             <h4>
               <span>2025-05-09 @ 11:23:36</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935625"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -880,7 +769,7 @@
             <h4>
               <span>2025-05-09 @ 10:52:15</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935434"
                   >Comments</a
@@ -899,7 +788,7 @@
             <h4>
               <span>2025-05-09 @ 10:45:40</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935394"
                   >Comments</a
@@ -931,6 +820,27 @@
             </div>
           </section>
         </section>
+        <section id="43935356">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html"
+              >The Linux Kernel's PGP Web of Trust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-09 @ 10:39:43</span
+              ><span class="points-container"
+                >Points: <span class="points">68</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43935356"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43933891">
           <h3>
             <a class="item" href="https://avalovelace1.github.io/LegoGPT/"
@@ -941,7 +851,7 @@
             <h4>
               <span>2025-05-09 @ 04:55:20</span
               ><span class="points-container"
-                >Points: <span class="points">513</span></span
+                >Points: <span class="points">518</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43933891"
                   >Comments</a
@@ -1005,7 +915,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43909418"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -1022,7 +932,7 @@
             <h4>
               <span>2025-05-06 @ 20:30:17</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43909328"
                   >Comments</a
@@ -1041,11 +951,11 @@
             <h4>
               <span>2025-05-06 @ 18:34:57</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43908220"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -1066,7 +976,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43896835"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
