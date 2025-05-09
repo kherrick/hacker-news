@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 17:06:25](https://news.ycombinator.com/item?id=43939006) - [Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/)
 * [2025-05-09, 17:00:49](https://news.ycombinator.com/item?id=43938959) - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-05-09, 16:29:02](https://news.ycombinator.com/item?id=43938611) - [The Anarchitecture Group](https://www.spatialagency.net/database/the.anarchitecture.group)
 * [2025-05-09, 16:28:28](https://news.ycombinator.com/item?id=43938607) - [Launch HN: Nao Labs (YC X25) – Cursor for Data](https://news.ycombinator.com/item?id=43938607)
@@ -11,7 +12,6 @@
 * [2025-05-09, 15:17:11](https://news.ycombinator.com/item?id=43937750) - [Former Supreme Court justice David Souter has died](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies)
 * [2025-05-09, 14:31:20](https://news.ycombinator.com/item?id=43937214) - [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
 * [2025-05-09, 14:02:02](https://news.ycombinator.com/item?id=43936884) - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
-* [2025-05-09, 13:56:37](https://news.ycombinator.com/item?id=43936813) - [Dasung Paperlike 13K is a 13.3 inch E Ink color monitor](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/)
 * [2025-05-09, 13:38:06](https://news.ycombinator.com/item?id=43936592) - [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
 * [2025-05-09, 13:25:17](https://news.ycombinator.com/item?id=43936468) - [Hollow Core Fiber (HCF)](https://www.holightoptic.com/what-is-hollow-core-fiber-hcf%ef%bc%9f/)
 * [2025-05-09, 13:18:42](https://news.ycombinator.com/item?id=43936408) - [Sofie: open-source web based system for automating live TV news production](https://nrkno.github.io/sofie-core/)
