@@ -9,6 +9,7 @@
 * [2025-05-08, 22:30:17](https://news.ycombinator.com/item?id=43932010) - [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)
 * [2025-05-08, 22:19:12](https://news.ycombinator.com/item?id=43931944) - [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 * [2025-05-08, 22:05:37](https://news.ycombinator.com/item?id=43931845) - [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
+* [2025-05-08, 21:46:14](https://news.ycombinator.com/item?id=43931673) - [Prepare your apps for Google Play's 16 KB page size compatibility requirement](https://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html)
 * [2025-05-08, 21:12:32](https://news.ycombinator.com/item?id=43931409) - [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
 * [2025-05-08, 20:58:37](https://news.ycombinator.com/item?id=43931285) - [How the US Built 5k Ships in WWII](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii)
 * [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)

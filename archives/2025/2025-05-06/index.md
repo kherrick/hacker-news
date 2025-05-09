@@ -86,4 +86,5 @@
 * [2025-05-06, 02:09:29](https://news.ycombinator.com/item?id=43901204) - [Google Has Most of My Email Because It Has All of Yours (2014)](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
 * [2025-05-06, 02:07:42](https://news.ycombinator.com/item?id=43901190) - [How to Harden GitHub Actions: The Unofficial Guide](https://www.wiz.io/blog/github-actions-security-guide)
 * [2025-05-06, 01:51:22](https://news.ycombinator.com/item?id=43901131) - [Scientists have found a way to 'tattoo' tardigrades](https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html)
+* [2025-05-06, 01:39:42](https://news.ycombinator.com/item?id=43901081) - [Show HN: OpenRouter Model Price Comparison](https://compare-openrouter-models.pages.dev/)
 * [2025-05-06, 00:57:48](https://news.ycombinator.com/item?id=43900877) - [OpenAI reaches agreement to buy Windsurf for $3B](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion)
