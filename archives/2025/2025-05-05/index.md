@@ -10,6 +10,7 @@
 * [2025-05-05, 22:13:50](https://news.ycombinator.com/item?id=43899959) - [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)
 * [2025-05-05, 22:00:02](https://news.ycombinator.com/item?id=43899878) - [2025 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2025)
 * [2025-05-05, 21:41:58](https://news.ycombinator.com/item?id=43899734) - [Turning into Turing (2022)](https://jk-keller.com/o__o/rotational_growth/)
+* [2025-05-05, 21:06:46](https://news.ycombinator.com/item?id=43899456) - [Phoenician culture spread mainly through cultural exchange](https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x)
 * [2025-05-05, 20:50:00](https://news.ycombinator.com/item?id=43899317) - [Dreariness Index (2015)](http://us-climate.blogspot.com/2015/03/dreary-weather.html)
 * [2025-05-05, 20:47:04](https://news.ycombinator.com/item?id=43899288) - [docker2exe: Convert a Docker image to an executable](https://github.com/rzane/docker2exe)
 * [2025-05-05, 20:42:03](https://news.ycombinator.com/item?id=43899251) - [Pixels in Islamic art: square Kufic calligraphy](https://uwithumlaut.wordpress.com/2020/07/24/pixels-in-islamic-art-square-kufic-calligraphy/)
