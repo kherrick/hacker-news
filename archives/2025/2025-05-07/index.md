@@ -18,6 +18,7 @@
 * [2025-05-07, 20:52:53](https://news.ycombinator.com/item?id=43920452) - [Show HN: Picostrap5 A free bootstrap-based WordPress theme on GitHub](https://github.com/livecanvas-team/picostrap5)
 * [2025-05-07, 20:42:03](https://news.ycombinator.com/item?id=43920362) - [Hunting down a C memory leak in a Go program (2021)](https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d)
 * [2025-05-07, 20:18:47](https://news.ycombinator.com/item?id=43920188) - [Introducing Web Search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
+* [2025-05-07, 19:58:57](https://news.ycombinator.com/item?id=43920006) - [Before the Undo Command, There Was the Electric Eraser](https://spectrum.ieee.org/electric-eraser)
 * [2025-05-07, 19:54:08](https://news.ycombinator.com/item?id=43919959) - [How to Average in Prolog (2017)](https://storytotell.org/how-to-average-in-prolog)
 * [2025-05-07, 19:44:51](https://news.ycombinator.com/item?id=43919868) - [Mac Themes Garden](https://damien.zone/introducing-mac-themes-garden/)
 * [2025-05-07, 19:44:11](https://news.ycombinator.com/item?id=43919862) - [Proposal: Add bare metal support to Go](https://github.com/golang/go/issues/73608)

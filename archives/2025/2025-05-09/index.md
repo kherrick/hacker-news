@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 21:05:59](https://news.ycombinator.com/item?id=43940865) - [Era of U.S. dollar may be winding down](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/)
 * [2025-05-09, 20:20:52](https://news.ycombinator.com/item?id=43940539) - [What's New in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
+* [2025-05-09, 20:15:53](https://news.ycombinator.com/item?id=43940500) - [Google Doc Templates for Startups](https://www.templatesbypaul.com/)
 * [2025-05-09, 20:08:27](https://news.ycombinator.com/item?id=43940452) - [Graphcore unveils GC200 and M2000 IPU Machine–1 petaFLOP \"pizza box\" AI server](https://www.graphcore.ai/articles/graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them)
 * [2025-05-09, 19:07:53](https://news.ycombinator.com/item?id=43940033) - [Why 536 was 'the worst year to be alive'](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
 * [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [How Warren Robinett Made Adventure on the Atari](http://www.warrenrobinett.com/inventing_adventure/)

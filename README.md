@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 21:05:59](https://news.ycombinator.com/item?id=43940865) - [Era of U.S. dollar may be winding down](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/)
 * [2025-05-09, 20:20:52](https://news.ycombinator.com/item?id=43940539) - [What's New in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
+* [2025-05-09, 20:15:53](https://news.ycombinator.com/item?id=43940500) - [Google Doc Templates for Startups](https://www.templatesbypaul.com/)
 * [2025-05-09, 20:08:27](https://news.ycombinator.com/item?id=43940452) - [Graphcore unveils GC200 and M2000 IPU Machine–1 petaFLOP \"pizza box\" AI server](https://www.graphcore.ai/articles/graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them)
 * [2025-05-09, 19:07:53](https://news.ycombinator.com/item?id=43940033) - [Why 536 was 'the worst year to be alive' (2018)](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
 * [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [Inventing the Adventure Game (1984)](http://www.warrenrobinett.com/inventing_adventure/)
@@ -21,13 +23,11 @@
 * [2025-05-09, 12:42:29](https://news.ycombinator.com/item?id=43936097) - [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
 * [2025-05-09, 12:13:36](https://news.ycombinator.com/item?id=43935913) - [NSF faces shake-up as officials abolish its 37 divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)
 * [2025-05-09, 11:37:40](https://news.ycombinator.com/item?id=43935707) - [CryptPad: An Alternative to the Google Suite](https://cryptpad.org/)
-* [2025-05-09, 11:23:36](https://news.ycombinator.com/item?id=43935625) - [Data manipulations alleged in study that paved way for Microsoft's quantum chip](https://www.science.org/content/article/data-manipulations-alleged-study-paved-way-microsoft-s-quantum-chip)
 * [2025-05-09, 10:45:40](https://news.ycombinator.com/item?id=43935394) - [Show HN: Hyvector – A fast and modern SVG editor](https://www.hyvector.com)
 * [2025-05-09, 09:11:05](https://news.ycombinator.com/item?id=43935067) - [Rust’s dependencies are starting to worry me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
-* [2025-05-09, 04:55:20](https://news.ycombinator.com/item?id=43933891) - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
+* [2025-05-07, 19:58:57](https://news.ycombinator.com/item?id=43920006) - [Before the Undo Command, There Was the Electric Eraser](https://spectrum.ieee.org/electric-eraser)
 * [2025-05-07, 15:51:08](https://news.ycombinator.com/item?id=43917278) - [Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game](https://32bits.substack.com/p/under-the-microscope-the-lost-world)
 * [2025-05-06, 20:30:17](https://news.ycombinator.com/item?id=43909328) - [Cell Mates: Extracting Useful Information from Tables for LLMs](https://www.gojiberries.io/cell-mates-extracting-useful-information-from-tables-for-llms/)
-* [2025-05-06, 20:14:47](https://news.ycombinator.com/item?id=43909179) - [\"Night of the Living Dead\" accidentally became public domain (2019)](https://screenrant.com/night-living-dead-movie-public-domain-copyright-accident/)
 * [2025-05-06, 09:29:15](https://news.ycombinator.com/item?id=43903162) - [Math Machine – A notebook will show your kid how far they have travelled](https://kidswholovemath.substack.com/p/math-machine)
 * [2025-05-05, 16:30:22](https://news.ycombinator.com/item?id=43896835) - [The birth of AI poker? Letters from the 1984 WSOP](https://www.poker.org/latest-news/the-birth-of-ai-poker-letters-from-the-1984-wsop-a4v2W4N4X3EP/)
 
