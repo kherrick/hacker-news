@@ -35,6 +35,7 @@
 * [2025-05-07, 16:06:44](https://news.ycombinator.com/item?id=43917461) - [Create and edit images with Gemini 2.0 in preview](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/)
 * [2025-05-07, 16:05:34](https://news.ycombinator.com/item?id=43917448) - [Ghost students are creating an 'agonizing' problem for Calif. colleges](https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php)
 * [2025-05-07, 15:58:41](https://news.ycombinator.com/item?id=43917376) - [Telling Lies: Bowie and Online Music Distribution in 1996](https://cybercultural.com/p/online-music-distribution-1996/)
+* [2025-05-07, 15:51:08](https://news.ycombinator.com/item?id=43917278) - [Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game](https://32bits.substack.com/p/under-the-microscope-the-lost-world)
 * [2025-05-07, 15:38:46](https://news.ycombinator.com/item?id=43917122) - [OpenSearch 3.0 Released](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/)
 * [2025-05-07, 15:26:43](https://news.ycombinator.com/item?id=43916956) - [Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)](https://github.com/ciromattia/kcc)
 * [2025-05-07, 14:57:03](https://news.ycombinator.com/item?id=43916577) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)

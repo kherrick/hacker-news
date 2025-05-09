@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [How Warren Robinett Made Adventure on the Atari](http://www.warrenrobinett.com/inventing_adventure/)
+* [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [Inventing the Adventure Game (1984)](http://www.warrenrobinett.com/inventing_adventure/)
 * [2025-05-09, 18:13:38](https://news.ycombinator.com/item?id=43939617) - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
 * [2025-05-09, 17:53:00](https://news.ycombinator.com/item?id=43939419) - [In the Network of the Conclav: How we \"guessed\" the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
 * [2025-05-09, 17:00:49](https://news.ycombinator.com/item?id=43938959) - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
@@ -23,8 +23,8 @@
 * [2025-05-09, 11:23:36](https://news.ycombinator.com/item?id=43935625) - [Data manipulations alleged in study that paved way for Microsoft's quantum chip](https://www.science.org/content/article/data-manipulations-alleged-study-paved-way-microsoft-s-quantum-chip)
 * [2025-05-09, 10:52:15](https://news.ycombinator.com/item?id=43935434) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
 * [2025-05-09, 10:45:40](https://news.ycombinator.com/item?id=43935394) - [Show HN: Hyvector – A fast and modern SVG editor](https://www.hyvector.com)
-* [2025-05-09, 10:39:43](https://news.ycombinator.com/item?id=43935356) - [The Linux Kernel's PGP Web of Trust](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html)
 * [2025-05-09, 04:55:20](https://news.ycombinator.com/item?id=43933891) - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
+* [2025-05-07, 15:51:08](https://news.ycombinator.com/item?id=43917278) - [Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game](https://32bits.substack.com/p/under-the-microscope-the-lost-world)
 * [2025-05-07, 01:42:37](https://news.ycombinator.com/item?id=43911440) - [Show HN: Agents.erl (AI Agents in Erlang)](https://github.com/arthurcolle/agents.erl)
 * [2025-05-06, 20:40:28](https://news.ycombinator.com/item?id=43909418) - [The CL1: the first code deployable biological computer](https://corticallabs.com/cl1.html)
 * [2025-05-06, 20:30:17](https://news.ycombinator.com/item?id=43909328) - [Cell Mates: Extracting Useful Information from Tables for LLMs](https://www.gojiberries.io/cell-mates-extracting-useful-information-from-tables-for-llms/)
