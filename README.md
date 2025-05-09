@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-09, 14:02:02](https://news.ycombinator.com/item?id=43936884) - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
+* [2025-05-09, 13:59:06](https://news.ycombinator.com/item?id=43936844) - [Show HN: Hyper – Standards first React alternative](https://nuejs.org/blog/standards-first-react-alternative/)
+* [2025-05-09, 13:56:37](https://news.ycombinator.com/item?id=43936813) - [Dasung Paperlike 13K is a 13.3 inch E Ink color monitor](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/)
 * [2025-05-09, 13:38:06](https://news.ycombinator.com/item?id=43936592) - [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
 * [2025-05-09, 13:25:17](https://news.ycombinator.com/item?id=43936468) - [Hollow Core Fiber (HCF)](https://www.holightoptic.com/what-is-hollow-core-fiber-hcf%ef%bc%9f/)
 * [2025-05-09, 13:24:22](https://news.ycombinator.com/item?id=43936461) - [Reconstructing illusory camouflage patterns on moth wings using computer vision](https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0757)
@@ -12,7 +14,6 @@
 * [2025-05-09, 10:52:15](https://news.ycombinator.com/item?id=43935434) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
 * [2025-05-09, 10:45:40](https://news.ycombinator.com/item?id=43935394) - [Show HN: Hyvector – A fast and modern SVG editor](https://www.hyvector.com)
 * [2025-05-09, 10:39:43](https://news.ycombinator.com/item?id=43935356) - [The Linux Kernel's PGP Web of Trust](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html)
-* [2025-05-09, 09:11:05](https://news.ycombinator.com/item?id=43935067) - [Rust Dependencies Scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 * [2025-05-09, 08:48:40](https://news.ycombinator.com/item?id=43934954) - [Linear Programming for Fun and Profit](https://modal.com/blog/resource-solver)
 * [2025-05-09, 08:01:06](https://news.ycombinator.com/item?id=43934711) - [WASM 2.0](https://www.w3.org/TR/wasm-core-2/)
 * [2025-05-09, 04:55:20](https://news.ycombinator.com/item?id=43933891) - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
@@ -22,14 +23,13 @@
 * [2025-05-09, 02:17:55](https://news.ycombinator.com/item?id=43933248) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://www.audiobookshelf.org/)
 * [2025-05-08, 22:05:37](https://news.ycombinator.com/item?id=43931845) - [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
 * [2025-05-08, 21:12:32](https://news.ycombinator.com/item?id=43931409) - [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
-* [2025-05-08, 17:02:10](https://news.ycombinator.com/item?id=43928315) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 * [2025-05-08, 16:35:34](https://news.ycombinator.com/item?id=43927926) - [Void: Open-source Cursor alternative](https://github.com/voideditor/void)
 * [2025-05-06, 20:14:47](https://news.ycombinator.com/item?id=43909179) - [How \"Night of the Living Dead\" Accidentally Became Public Domain](https://screenrant.com/night-living-dead-movie-public-domain-copyright-accident/)
+* [2025-05-06, 18:34:57](https://news.ycombinator.com/item?id=43908220) - [A Taxonomy for Rendering Engines](https://c0de517e.com/021_taxonomy.htm)
 * [2025-05-06, 12:54:20](https://news.ycombinator.com/item?id=43904546) - [Malaya's Timeless Design](https://www.linyangchen.com/Philately)
 * [2025-05-05, 19:00:11](https://news.ycombinator.com/item?id=43898280) - [Zombieverter: Open source VCU for reusing salvage EV components](https://openinverter.org/wiki/ZombieVerter_VCU)
 * [2025-05-05, 13:34:45](https://news.ycombinator.com/item?id=43894967) - [Structuring Competency-Based Courses Through Skill Trees](https://arxiv.org/abs/2504.16966)
 * [2025-05-05, 11:51:40](https://news.ycombinator.com/item?id=43894055) - [Full Control.xyz Freeform Gcode](https://fullcontrol.xyz/#/models)
-* [2025-05-05, 08:45:42](https://news.ycombinator.com/item?id=43893032) - [Robotics meets the culinary arts](https://actu.epfl.ch/news/robotics-meets-the-culinary-arts/)
 
 ## [Archives](archives/index.md)
 
