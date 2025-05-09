@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 17:53:00](https://news.ycombinator.com/item?id=43939419) - [In the Network of the Conclav: How we \"guessed\" the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
 * [2025-05-09, 17:06:25](https://news.ycombinator.com/item?id=43939006) - [Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/)
 * [2025-05-09, 17:00:49](https://news.ycombinator.com/item?id=43938959) - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-05-09, 16:29:02](https://news.ycombinator.com/item?id=43938611) - [The Anarchitecture Group](https://www.spatialagency.net/database/the.anarchitecture.group)
 * [2025-05-09, 16:28:28](https://news.ycombinator.com/item?id=43938607) - [Launch HN: Nao Labs (YC X25) – Cursor for Data](https://news.ycombinator.com/item?id=43938607)
 * [2025-05-09, 16:21:19](https://news.ycombinator.com/item?id=43938530) - [Show HN: Oliphaunt – A native Mastodon client for macOS](https://testflight.apple.com/join/Epq1P3Cw)
 * [2025-05-09, 16:16:59](https://news.ycombinator.com/item?id=43938481) - [Show HN: BlenderQ – A TUI for managing multiple Blender renders](https://github.com/KyleTryon/BlenderQ)
-* [2025-05-09, 16:09:45](https://news.ycombinator.com/item?id=43938400) - [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/)
+* [2025-05-09, 16:09:45](https://news.ycombinator.com/item?id=43938400) - [Past, present, and future of Sorbet type syntax](https://blog.jez.io/history-of-sorbet-syntax/)
 * [2025-05-09, 16:01:11](https://news.ycombinator.com/item?id=43938309) - [Show HN: A backend agnostic Ruby framework for building reactive desktop apps](https://codeberg.org/skinnyjames/hokusai)
 * [2025-05-09, 15:24:35](https://news.ycombinator.com/item?id=43937852) - [Show HN: Hydra (YC W22) – Serverless Analytics on Postgres](https://www.hydra.so/)
 * [2025-05-09, 15:17:11](https://news.ycombinator.com/item?id=43937750) - [Former Supreme Court justice David Souter has died](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies)
@@ -29,7 +30,6 @@
 * [2025-05-06, 20:40:28](https://news.ycombinator.com/item?id=43909418) - [The CL1: the first code deployable biological computer](https://corticallabs.com/cl1.html)
 * [2025-05-06, 18:34:57](https://news.ycombinator.com/item?id=43908220) - [A Taxonomy for Rendering Engines](https://c0de517e.com/021_taxonomy.htm)
 * [2025-05-05, 16:30:22](https://news.ycombinator.com/item?id=43896835) - [The birth of AI poker? Letters from the 1984 WSOP](https://www.poker.org/latest-news/the-birth-of-ai-poker-letters-from-the-1984-wsop-a4v2W4N4X3EP/)
-* [2025-05-05, 13:34:45](https://news.ycombinator.com/item?id=43894967) - [Structuring Competency-Based Courses Through Skill Trees](https://arxiv.org/abs/2504.16966)
 
 ## [Archives](archives/index.md)
 

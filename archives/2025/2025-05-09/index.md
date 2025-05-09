@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 17:53:00](https://news.ycombinator.com/item?id=43939419) - [In the Network of the Conclav: How we \"guessed\" the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
 * [2025-05-09, 17:06:25](https://news.ycombinator.com/item?id=43939006) - [Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/)
 * [2025-05-09, 17:00:49](https://news.ycombinator.com/item?id=43938959) - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-05-09, 16:29:02](https://news.ycombinator.com/item?id=43938611) - [The Anarchitecture Group](https://www.spatialagency.net/database/the.anarchitecture.group)
