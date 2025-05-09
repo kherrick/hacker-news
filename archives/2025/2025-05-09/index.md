@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 11:18:06](https://news.ycombinator.com/item?id=43935586) - [Amazon's Vulcan Robots Now Stow Items Faster Than Humans](https://spectrum.ieee.org/amazon-stowing-robots)
+* [2025-05-09, 11:00:51](https://news.ycombinator.com/item?id=43935486) - [A romance scam compound–and how people get tricked into being there](https://www.technologyreview.com/2025/03/27/1113782/scam-compound-meta-facebook-pig-butchering-wechat/)
 * [2025-05-09, 08:14:54](https://news.ycombinator.com/item?id=43934781) - [Realism Still Doesn't Justify Including Sexual Assault](https://mythcreants.com/blog/realism-still-doesnt-justify-including-sexual-assault/)
 * [2025-05-09, 08:01:06](https://news.ycombinator.com/item?id=43934711) - [WASM 2.0](https://www.w3.org/TR/wasm-core-2/)
 * [2025-05-09, 07:23:59](https://news.ycombinator.com/item?id=43934544) - [Boy Accidentally Orders 70k Lollipops on Amazon. Panic Ensues](https://www.nytimes.com/2025/05/08/business/dum-dums-amazon-order-kentucky.html)
