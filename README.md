@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 08:14:54](https://news.ycombinator.com/item?id=43934781) - [Realism Still Doesn't Justify Including Sexual Assault](https://mythcreants.com/blog/realism-still-doesnt-justify-including-sexual-assault/)
 * [2025-05-09, 08:01:06](https://news.ycombinator.com/item?id=43934711) - [WASM 2.0](https://www.w3.org/TR/wasm-core-2/)
 * [2025-05-09, 07:22:08](https://news.ycombinator.com/item?id=43934540) - [Doge software engineer's computer infected by info-stealing malware](https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/)
 * [2025-05-09, 06:29:38](https://news.ycombinator.com/item?id=43934313) - [Losing my Meta account because of release delays](https://madelinemiller.dev/blog/dark-side-account-bans/)
@@ -21,7 +22,6 @@
 * [2025-05-08, 15:49:37](https://news.ycombinator.com/item?id=43927337) - [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
 * [2025-05-06, 20:14:47](https://news.ycombinator.com/item?id=43909179) - [How \"Night of the Living Dead\" Accidentally Became Public Domain](https://screenrant.com/night-living-dead-movie-public-domain-copyright-accident/)
 * [2025-05-06, 18:38:14](https://news.ycombinator.com/item?id=43908261) - [When Abandoned Mines Collapse](https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse)
-* [2025-05-06, 16:39:57](https://news.ycombinator.com/item?id=43907050) - [Rich Schroepell responds to Ron Rivest and the RSA MIT algorithm (1977)](https://archive.org/details/schroepell-all-pdf)
 * [2025-05-06, 13:54:23](https://news.ycombinator.com/item?id=43905153) - [Throwaway Code: Don't recycle, throw it away (2017)](https://www.sung.codes/blog/2017/throwaway-code-dont-recycle-throw-away)
 * [2025-05-06, 12:54:20](https://news.ycombinator.com/item?id=43904546) - [Malaya's Timeless Design](https://www.linyangchen.com/Philately)
 * [2025-05-05, 21:06:46](https://news.ycombinator.com/item?id=43899456) - [Phoenician culture spread mainly through cultural exchange](https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x)
