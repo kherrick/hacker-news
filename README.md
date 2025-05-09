@@ -18,7 +18,6 @@
 * [2025-05-08, 19:51:29](https://news.ycombinator.com/item?id=43930584) - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 * [2025-05-08, 19:34:36](https://news.ycombinator.com/item?id=43930397) - [How to start a school with your friends](https://prigoose.substack.com/p/how-to-start-a-university)
 * [2025-05-08, 18:40:12](https://news.ycombinator.com/item?id=43929724) - [From: Steve Jobs. \"Great idea, thank you.\"](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
-* [2025-05-08, 18:18:20](https://news.ycombinator.com/item?id=43929447) - [Block Diffusion: Interpolating Autoregressive and Diffusion Language Models](https://m-arriola.com/bd3lms/)
 * [2025-05-08, 17:49:02](https://news.ycombinator.com/item?id=43929054) - [Static as a Server](https://overreacted.io/static-as-a-server/)
 * [2025-05-08, 17:02:10](https://news.ycombinator.com/item?id=43928315) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 * [2025-05-08, 16:35:34](https://news.ycombinator.com/item?id=43927926) - [Void: Open-source Cursor alternative](https://github.com/voideditor/void)
@@ -30,6 +29,7 @@
 * [2025-05-06, 06:33:31](https://news.ycombinator.com/item?id=43902350) - [Gorilla study reveals complex pros and cons of friendship](https://www.sciencedaily.com/releases/2025/05/250505170816.htm)
 * [2025-05-05, 21:06:46](https://news.ycombinator.com/item?id=43899456) - [Phoenician culture spread mainly through cultural exchange](https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x)
 * [2025-05-05, 10:44:51](https://news.ycombinator.com/item?id=43893581) - [Finding a Bug in Chromium](https://bou.ke/blog/chromium-bug/)
+* [2025-05-05, 08:45:42](https://news.ycombinator.com/item?id=43893032) - [Robotics Meets the Culinary Arts](https://actu.epfl.ch/news/robotics-meets-the-culinary-arts/)
 
 ## [Archives](archives/index.md)
 

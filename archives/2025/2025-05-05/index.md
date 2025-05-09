@@ -66,6 +66,7 @@
 * [2025-05-05, 09:47:04](https://news.ycombinator.com/item?id=43893310) - [100% Tariff on Foreign Movies](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies)
 * [2025-05-05, 09:25:45](https://news.ycombinator.com/item?id=43893225) - [The Design of Compact Elastic Binary Trees (Cebtree)](http://wtarreau.blogspot.com/2025/03/on-design-of-compact-elastic-binary.html)
 * [2025-05-05, 09:02:51](https://news.ycombinator.com/item?id=43893127) - [Hyper-Typing](https://pscanf.com/s/341/)
+* [2025-05-05, 08:45:42](https://news.ycombinator.com/item?id=43893032) - [Robotics Meets the Culinary Arts](https://actu.epfl.ch/news/robotics-meets-the-culinary-arts/)
 * [2025-05-05, 08:43:30](https://news.ycombinator.com/item?id=43893020) - [DNSanity: Quickly validate DNS servers at scale](https://github.com/nil0x42/dnsanity)
 * [2025-05-05, 08:28:40](https://news.ycombinator.com/item?id=43892964) - [EU to ban anonymous crypto accounts and privacy coins by 2027](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027)
 * [2025-05-05, 08:08:37](https://news.ycombinator.com/item?id=43892856) - [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
