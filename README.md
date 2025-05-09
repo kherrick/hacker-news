@@ -24,11 +24,11 @@
 * [2025-05-09, 12:42:29](https://news.ycombinator.com/item?id=43936097) - [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
 * [2025-05-09, 12:13:36](https://news.ycombinator.com/item?id=43935913) - [NSF faces shake-up as officials abolish its 37 divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)
 * [2025-05-09, 11:37:40](https://news.ycombinator.com/item?id=43935707) - [CryptPad: An Alternative to the Google Suite](https://cryptpad.org/)
-* [2025-05-09, 11:23:36](https://news.ycombinator.com/item?id=43935625) - [Data manipulations alleged in study that paved way for Microsoft's quantum chip](https://www.science.org/content/article/data-manipulations-alleged-study-paved-way-microsoft-s-quantum-chip)
 * [2025-05-09, 10:45:40](https://news.ycombinator.com/item?id=43935394) - [Show HN: Hyvector – A fast and modern SVG editor](https://www.hyvector.com)
 * [2025-05-09, 09:11:05](https://news.ycombinator.com/item?id=43935067) - [Rust’s dependencies are starting to worry me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 * [2025-05-07, 19:58:57](https://news.ycombinator.com/item?id=43920006) - [Before the Undo Command, There Was the Electric Eraser](https://spectrum.ieee.org/electric-eraser)
 * [2025-05-07, 15:51:08](https://news.ycombinator.com/item?id=43917278) - [Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game](https://32bits.substack.com/p/under-the-microscope-the-lost-world)
+* [2025-05-07, 14:59:54](https://news.ycombinator.com/item?id=43916606) - [Physicists uncover how geometric frustration shapes the rose's iconic blossom](https://phys.org/news/2025-05-physicists-uncover-geometric-frustration-rose.html)
 * [2025-05-06, 09:29:15](https://news.ycombinator.com/item?id=43903162) - [Math Machine – A notebook will show your kid how far they have travelled](https://kidswholovemath.substack.com/p/math-machine)
 
 ## [Archives](archives/index.md)
