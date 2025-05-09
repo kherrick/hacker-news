@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-09, 05:10:28",
+      "https://news.ycombinator.com/item?id=43933962"
+    ],
+    [
+      "Verification, the Key to AI (2001)",
+      "http://incompleteideas.net/IncIdeas/KeytoAI.html"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 04:55:20",
       "https://news.ycombinator.com/item?id=43933891"
     ],
@@ -197,16 +207,6 @@
     [
       "Reservoir Sampling",
       "https://samwho.dev/reservoir-sampling/"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 16:49:11",
-      "https://news.ycombinator.com/item?id=43928118"
-    ],
-    [
-      "Show HN: Using eBPF to see through encryption without a proxy",
-      "https://github.com/qpoint-io/qtap"
     ]
   ],
   [
