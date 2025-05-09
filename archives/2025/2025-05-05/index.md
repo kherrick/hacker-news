@@ -55,6 +55,7 @@
 * [2025-05-05, 12:17:11](https://news.ycombinator.com/item?id=43894257) - [Show HN: Reverse Pac-Man](https://reverse-pacman.staticrun.app/index)
 * [2025-05-05, 12:06:11](https://news.ycombinator.com/item?id=43894175) - [The Beauty of Having a Pi-Hole](https://den.dev/blog/pihole/)
 * [2025-05-05, 11:37:04](https://news.ycombinator.com/item?id=43893906) - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
+* [2025-05-05, 11:23:59](https://news.ycombinator.com/item?id=43893808) - [Product Purgatory: When they love it but still don't buy](https://longform.asmartbear.com/purgatory/)
 * [2025-05-05, 11:16:16](https://news.ycombinator.com/item?id=43893762) - [Judge said Meta illegally used books to build its AI](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
 * [2025-05-05, 11:15:32](https://news.ycombinator.com/item?id=43893759) - [Effects of repetitive transcranial magnetic stimulation on sleep bruxism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4822180/)
 * [2025-05-05, 11:10:58](https://news.ycombinator.com/item?id=43893740) - [Gandi March 9, 2025 incident postmortem](https://news.gandi.net/en/2025/03/gandi-incident-on-march-9-2025/)
