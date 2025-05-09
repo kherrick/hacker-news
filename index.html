@@ -129,6 +129,152 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43938611">
+          <h3>
+            <a
+              class="item"
+              href="https://www.spatialagency.net/database/the.anarchitecture.group"
+              >The Anarchitecture Group</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-09 @ 16:29:02</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43938611"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43938607">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43938607"
+              >Launch HN: Nao Labs (YC X25) – Cursor for Data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-09 @ 16:28:28</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43938607"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://getnao.io/">https://getnao.io/</a>). We just
+              launched nao, an AI code editor to work with data: a local editor,
+              directly connected with your data warehouse, and powered by an AI
+              copilot with built-in context of your data schema and
+              data-specific tools.
+              <p>
+                See our demo here:
+                <a href="https://www.youtube.com/watch?v=QmG6X-5ftZU"
+                  >https://www.youtube.com/watch?v=QmG6X-5ftZU</a
+                >
+              </p>
+              <p>
+                Writing code with LLMs is the new normal in software
+                engineering. But not when it comes to manipulating data. Tools
+                like Cursor don’t interact natively with data warehouses — they
+                autocomplete SQL blindly, not knowing your data schema. Most of
+                us are still juggling multiple tools: writing code in Cursor,
+                checking results in the warehouse console, troubleshooting with
+                an observability tool, and verifying in BI tool no dashboard
+                broke.
+              </p>
+              <p>
+                When you want to write code on data with LLMs, you don’t care
+                much about the code, you care about the data output. You need a
+                tool that helps you write code relevant for your data, lets you
+                visualize its impact on the output, and quality check it for
+                you.
+              </p>
+              <p>
+                Christophe and I have each spent 10 years in data — Christophe
+                was a data engineer and has built data platforms for dozens of
+                orgs, I was head of data and helped data teams building their
+                analytics &amp; data products. We’ve seen how the business asks
+                you to ship data fast, while you’re here wondering if this small
+                line of code will mistakenly multiply the revenue on your CEO
+                dashboard by x5. Which leaves you 2 choices: test extensively
+                and ship slow. Not test and ship fast. That’s why we wanted to
+                create nao: a tool really adapted to our data work, that would
+                allow data teams to ship at business pace.
+              </p>
+              <p>
+                nao is a fork of VS Code, with built-in connectors for BigQuery,
+                Snowflake, and Postgres. We built our own AI copilot and tab
+                system, gave them a RAG of your data warehouse schemas and of
+                your codebase. We added a set of agent tools to query data,
+                compare data, understand data tools like dbt, assess the
+                downstream impact of code in your whole data lineage.
+              </p>
+              <p>
+                The AI tab and the AI agent write straight away code matching
+                your schema, may it be for SQL, python, yaml. It shows you code
+                diffs and data diffs side by side, to visualize what your change
+                did to the data output. And you can leave the data quality
+                checks to the agent: detect missing or duplicated values,
+                outliers, anticipate breaking changes downstream or compare dev
+                and production data differences.
+              </p>
+              <p>
+                Data teams usually use nao for writing SQL pipelines, often with
+                dbt. It helps them create data models, document them, test them,
+                while making sure they’re not breaking data lineage and figures
+                in the BI. In run mode, they also use it to run some analytics,
+                and identify data quality bugs in production. For less technical
+                profiles, it’s also a great help to strengthen their code best
+                practices. For large teams, it ensures that the code &amp;
+                metrics remain well factorized and consistent.
+              </p>
+              <p>
+                Software engineers use nao for the database exploration part:
+                write SQL queries with nao tab, explore data schema with the
+                agent, and write DDL.
+              </p>
+              <p>
+                Question we often get is: why not just use Cursor and MCPs?
+                Cursor has to trigger many MCP calls to get full context of the
+                data, while nao has it always available in one RAG. MCPs stay in
+                a very enclosed part of Cursor: they don’t bring data context to
+                the tab. And they don’t make the UI more adapted to data
+                workflows. Besides, nao comes as pre-packaged for data teams:
+                they don’t have to set up extensions, install and authenticate
+                in MCPs, build CI/CD pipelines. Which means even non-technical
+                data teams can have a great developer experience.
+              </p>
+              <p>
+                Our long-term goal is to become the best place to work with
+                data. We want to fine-tune our own models for SQL, Python and
+                YAML to give the most relevant code suggestions for data. We
+                want to enlarge our comprehension of all data stack tools, to
+                become the only agnostic editor for any of your data workflow.
+              </p>
+              <p>
+                You can try it here:
+                <a href="https://sunshine.getnao.io/releases/"
+                  >https://sunshine.getnao.io/releases/</a
+                >
+                - download nao, sign up for free and start using it. Just for HN
+                Launch, you can create a temporary account with a simple
+                username if you’d prefer not to use your email. For now, we only
+                have Mac version but Linux and Windows are coming.
+              </p>
+              <p>
+                We’d love to hear your feedback — and get your thoughts on how
+                we can improve even further the data dev experience!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43938530">
           <h3>
             <a class="item" href="https://testflight.apple.com/join/Epq1P3Cw"
@@ -139,11 +285,11 @@
             <h4>
               <span>2025-05-09 @ 16:21:19</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43938530"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -182,7 +328,7 @@
             <h4>
               <span>2025-05-09 @ 16:16:59</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43938481"
                   >Comments</a
@@ -215,7 +361,7 @@
             <h4>
               <span>2025-05-09 @ 16:09:45</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43938400"
                   >Comments</a
@@ -235,11 +381,11 @@
             <h4>
               <span>2025-05-09 @ 16:01:11</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43938309"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -293,11 +439,11 @@
             <h4>
               <span>2025-05-09 @ 15:17:11</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43937750"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -314,11 +460,11 @@
             <h4>
               <span>2025-05-09 @ 14:31:20</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43937214"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -333,7 +479,7 @@
             <h4>
               <span>2025-05-09 @ 14:02:02</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936884"
                   >Comments</a
@@ -354,11 +500,11 @@
             <h4>
               <span>2025-05-09 @ 13:56:37</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936813"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -373,32 +519,11 @@
             <h4>
               <span>2025-05-09 @ 13:38:06</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936592"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43936468">
-          <h3>
-            <a
-              class="item"
-              href="https://www.holightoptic.com/what-is-hollow-core-fiber-hcf%ef%bc%9f/"
-              >Hollow Core Fiber (HCF)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-09 @ 13:25:17</span
-              ><span class="points-container"
-                >Points: <span class="points">29</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43936468"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -416,7 +541,7 @@
             <h4>
               <span>2025-05-09 @ 13:24:22</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936461"
                   >Comments</a
@@ -436,11 +561,11 @@
             <h4>
               <span>2025-05-09 @ 13:18:42</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936408"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -457,11 +582,11 @@
             <h4>
               <span>2025-05-09 @ 12:55:11</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936198"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -476,11 +601,11 @@
             <h4>
               <span>2025-05-09 @ 12:42:29</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936097"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
             <div class="text">
@@ -540,11 +665,11 @@
             <h4>
               <span>2025-05-09 @ 12:13:36</span
               ><span class="points-container"
-                >Points: <span class="points">231</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935913"
                   >Comments</a
-                ><span class="descendants">: 316</span></span
+                ><span class="descendants">: 322</span></span
               >
             </h4>
           </section>
@@ -559,11 +684,11 @@
             <h4>
               <span>2025-05-09 @ 11:37:40</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935707"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -581,11 +706,11 @@
             <h4>
               <span>2025-05-09 @ 11:23:36</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935625"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -602,11 +727,11 @@
             <h4>
               <span>2025-05-09 @ 11:18:06</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935586"
                   >Comments</a
-                ><span class="descendants">: 140</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -621,7 +746,7 @@
             <h4>
               <span>2025-05-09 @ 10:52:15</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935434"
                   >Comments</a
@@ -640,11 +765,11 @@
             <h4>
               <span>2025-05-09 @ 10:45:40</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935394"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
             <div class="text">
@@ -684,11 +809,11 @@
             <h4>
               <span>2025-05-09 @ 10:39:43</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43935356"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -703,7 +828,7 @@
             <h4>
               <span>2025-05-09 @ 08:01:06</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">251</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43934711"
                   >Comments</a
@@ -722,11 +847,11 @@
             <h4>
               <span>2025-05-09 @ 04:55:20</span
               ><span class="points-container"
-                >Points: <span class="points">458</span></span
+                >Points: <span class="points">459</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43933891"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -766,7 +891,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43909418"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -790,25 +915,6 @@
             </h4>
           </section>
         </section>
-        <section id="43904546">
-          <h3>
-            <a class="item" href="https://www.linyangchen.com/Philately"
-              >Malaya's Timeless Design</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-06 @ 12:54:20</span
-              ><span class="points-container"
-                >Points: <span class="points">54</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43904546"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43898280">
           <h3>
             <a
@@ -822,7 +928,7 @@
             <h4>
               <span>2025-05-05 @ 19:00:11</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43898280"
                   >Comments</a
@@ -843,7 +949,7 @@
             <h4>
               <span>2025-05-05 @ 16:30:22</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43896835"
                   >Comments</a
@@ -862,11 +968,11 @@
             <h4>
               <span>2025-05-05 @ 13:34:45</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43894967"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
