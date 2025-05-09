@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 12:42:29](https://news.ycombinator.com/item?id=43936097) - [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
 * [2025-05-09, 11:39:40](https://news.ycombinator.com/item?id=43935717) - [Catholic Church to Excommunicate Priests for Following New US State Law](https://www.newsweek.com/catholic-church-excommunicate-priests-following-new-us-state-law-2069039)
 * [2025-05-09, 11:23:36](https://news.ycombinator.com/item?id=43935625) - [Data manipulations alleged in study that paved way for Microsoft's quantum chip](https://www.science.org/content/article/data-manipulations-alleged-study-paved-way-microsoft-s-quantum-chip)
 * [2025-05-09, 11:18:06](https://news.ycombinator.com/item?id=43935586) - [Amazon's Vulcan Robots Now Stow Items Faster Than Humans](https://spectrum.ieee.org/amazon-stowing-robots)
@@ -12,6 +13,7 @@
 * [2025-05-09, 10:52:15](https://news.ycombinator.com/item?id=43935434) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
 * [2025-05-09, 10:45:40](https://news.ycombinator.com/item?id=43935394) - [Show HN: Hyvector – A fast and modern SVG editor](https://www.hyvector.com)
 * [2025-05-09, 10:39:43](https://news.ycombinator.com/item?id=43935356) - [The Linux Kernel's PGP Web of Trust](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html)
+* [2025-05-09, 09:11:05](https://news.ycombinator.com/item?id=43935067) - [Rust Dependencies Scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 * [2025-05-09, 08:14:54](https://news.ycombinator.com/item?id=43934781) - [Realism Still Doesn't Justify Including Sexual Assault](https://mythcreants.com/blog/realism-still-doesnt-justify-including-sexual-assault/)
 * [2025-05-09, 08:01:06](https://news.ycombinator.com/item?id=43934711) - [WASM 2.0](https://www.w3.org/TR/wasm-core-2/)
 * [2025-05-09, 07:23:59](https://news.ycombinator.com/item?id=43934544) - [Boy Accidentally Orders 70k Lollipops on Amazon. Panic Ensues](https://www.nytimes.com/2025/05/08/business/dum-dums-amazon-order-kentucky.html)
