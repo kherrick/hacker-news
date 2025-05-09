@@ -8,7 +8,6 @@
 * [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [Inventing the Adventure Game (1984)](http://www.warrenrobinett.com/inventing_adventure/)
 * [2025-05-09, 18:13:38](https://news.ycombinator.com/item?id=43939617) - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
 * [2025-05-09, 18:01:56](https://news.ycombinator.com/item?id=43939520) - [Odin, a Pragmatic C Alternative with a Go Flavour](http://bitshifters.cc/2025/05/04/odin.html)
-* [2025-05-09, 17:53:00](https://news.ycombinator.com/item?id=43939419) - [In the Network of the Conclav: How we \"guessed\" the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
 * [2025-05-09, 17:00:49](https://news.ycombinator.com/item?id=43938959) - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-05-09, 16:28:28](https://news.ycombinator.com/item?id=43938607) - [Launch HN: Nao Labs (YC X25) – Cursor for Data](https://news.ycombinator.com/item?id=43938607)
 * [2025-05-09, 16:21:19](https://news.ycombinator.com/item?id=43938530) - [Show HN: Oliphaunt – A native Mastodon client for macOS](https://testflight.apple.com/join/Epq1P3Cw)
@@ -28,6 +27,7 @@
 * [2025-05-09, 09:11:05](https://news.ycombinator.com/item?id=43935067) - [Rust’s dependencies are starting to worry me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 * [2025-05-07, 19:58:57](https://news.ycombinator.com/item?id=43920006) - [Before the Undo Command, There Was the Electric Eraser](https://spectrum.ieee.org/electric-eraser)
 * [2025-05-07, 15:51:08](https://news.ycombinator.com/item?id=43917278) - [Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game](https://32bits.substack.com/p/under-the-microscope-the-lost-world)
+* [2025-05-07, 14:59:54](https://news.ycombinator.com/item?id=43916606) - [Physicists uncover how geometric frustration shapes the rose's iconic blossom](https://phys.org/news/2025-05-physicists-uncover-geometric-frustration-rose.html)
 * [2025-05-06, 09:29:15](https://news.ycombinator.com/item?id=43903162) - [Math Machine – A notebook will show your kid how far they have travelled](https://kidswholovemath.substack.com/p/math-machine)
 * [2025-05-05, 16:30:22](https://news.ycombinator.com/item?id=43896835) - [The birth of AI poker? Letters from the 1984 WSOP](https://www.poker.org/latest-news/the-birth-of-ai-poker-letters-from-the-1984-wsop-a4v2W4N4X3EP/)
 
