@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 16:21:19](https://news.ycombinator.com/item?id=43938530) - [Show HN: Oliphaunt – A Native Mastodon Client for macOS](https://testflight.apple.com/join/Epq1P3Cw)
+* [2025-05-09, 16:16:59](https://news.ycombinator.com/item?id=43938481) - [Show HN: BlenderQ – A TUI for managing multiple Blender renders](https://github.com/KyleTryon/BlenderQ)
+* [2025-05-09, 16:09:45](https://news.ycombinator.com/item?id=43938400) - [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/)
+* [2025-05-09, 16:01:11](https://news.ycombinator.com/item?id=43938309) - [Show HN: A backend agnostic Ruby framework for building reactive desktop apps](https://codeberg.org/skinnyjames/hokusai)
+* [2025-05-09, 15:17:11](https://news.ycombinator.com/item?id=43937750) - [Former Supreme Court Justice David Souter Dies at 85](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies)
 * [2025-05-09, 14:48:23](https://news.ycombinator.com/item?id=43937396) - ['Inheritance is an injustice': Why a 33-year-old redistributed €27M](https://www.lemonde.fr/en/economy/article/2025/05/08/inheritance-is-an-injustice-why-a-33-year-old-redistributed-27-million_6741060_19.html)
 * [2025-05-09, 14:33:49](https://news.ycombinator.com/item?id=43937242) - [Entire BART system is down due to computer systems failure](https://www.bart.gov/)
 * [2025-05-09, 14:31:20](https://news.ycombinator.com/item?id=43937214) - [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)

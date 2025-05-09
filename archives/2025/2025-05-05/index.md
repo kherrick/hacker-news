@@ -34,6 +34,7 @@
 * [2025-05-05, 16:57:43](https://news.ycombinator.com/item?id=43897107) - [Distributed server for social and realtime games and apps](https://github.com/heroiclabs/nakama)
 * [2025-05-05, 16:41:14](https://news.ycombinator.com/item?id=43896948) - [Heat stress mitigation by trees and shelters at bus stops](https://www.sciencedirect.com/science/article/pii/S136192092500063X)
 * [2025-05-05, 16:41:04](https://news.ycombinator.com/item?id=43896944) - [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
+* [2025-05-05, 16:30:22](https://news.ycombinator.com/item?id=43896835) - [The birth of AI poker? Letters from the 1984 WSOP](https://www.poker.org/latest-news/the-birth-of-ai-poker-letters-from-the-1984-wsop-a4v2W4N4X3EP/)
 * [2025-05-05, 16:29:22](https://news.ycombinator.com/item?id=43896820) - [Tuning Timbre Spectrum Scale](https://sethares.engr.wisc.edu/ttss.html)
 * [2025-05-05, 16:26:25](https://news.ycombinator.com/item?id=43896765) - [Loving 21st century gaming like an 18th century furniture expert](https://kimimithegameeatingshemonster.com/2023/04/26/loving-21st-century-gaming-like-an-18th-century-furniture-expert/)
 * [2025-05-05, 16:13:21](https://news.ycombinator.com/item?id=43896609) - [(ab?)using Node module hooks to speed up development](https://immaculata.dev/blog/hacking-nodejs-modules.html)
