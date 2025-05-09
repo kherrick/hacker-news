@@ -24,11 +24,11 @@
 * [2025-05-08, 16:30:45](https://news.ycombinator.com/item?id=43927856) - [First American pope elected and will be known as Pope Leo XIV](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25)
 * [2025-05-08, 15:49:37](https://news.ycombinator.com/item?id=43927337) - [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
 * [2025-05-08, 14:19:42](https://news.ycombinator.com/item?id=43926324) - [Show HN: Test your typing speed and accuracy with movie scripts](https://atypescriptgame.com/)
+* [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Egyptologist uncovers hidden messages on Paris’s iconic obelisk](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508)
 * [2025-05-06, 18:38:14](https://news.ycombinator.com/item?id=43908261) - [When Abandoned Mines Collapse](https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse)
 * [2025-05-06, 07:44:31](https://news.ycombinator.com/item?id=43902663) - [Lego built full-size F1 cars for the Miami GP drivers' parade](https://www.nytimes.com/athletic/6331840/2025/05/04/f1-miami-gp-lego-car-driver-parade/)
 * [2025-05-06, 06:33:31](https://news.ycombinator.com/item?id=43902350) - [Gorilla study reveals complex pros and cons of friendship](https://www.sciencedaily.com/releases/2025/05/250505170816.htm)
 * [2025-05-05, 21:06:46](https://news.ycombinator.com/item?id=43899456) - [Phoenician culture spread mainly through cultural exchange](https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x)
-* [2025-05-05, 11:23:59](https://news.ycombinator.com/item?id=43893808) - [Product Purgatory: When they love it but still don't buy](https://longform.asmartbear.com/purgatory/)
 * [2025-05-05, 10:44:51](https://news.ycombinator.com/item?id=43893581) - [Finding a Bug in Chromium](https://bou.ke/blog/chromium-bug/)
 
 ## [Archives](archives/index.md)
