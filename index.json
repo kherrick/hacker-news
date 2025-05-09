@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-09, 03:59:25",
+      "https://news.ycombinator.com/item?id=43933683"
+    ],
+    [
+      "eBPF Mystery: When is IPv4 not IPv4? When it's pretending to be IPv6",
+      "https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 03:41:54",
       "https://news.ycombinator.com/item?id=43933605"
     ],
     [
       "Hill or High Water",
       "https://royalsociety.org/blog/2025/05/hill-or-high-water/"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 03:27:21",
+      "https://news.ycombinator.com/item?id=43933548"
+    ],
+    [
+      "For better or for worse, the overload (2024)",
+      "https://consteval.ca/2024/07/25/overload/"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 03:18:03",
+      "https://news.ycombinator.com/item?id=43933511"
+    ],
+    [
+      "Usenix ATC Announcement (Usenix ATC Shutting Down)",
+      "https://www.usenix.org/blog/usenix-atc-announcement"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf]",
       "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 01:29:59",
-      "https://news.ycombinator.com/item?id=43933023"
-    ],
-    [
-      "Commercial Solutions for Classified CSfC for NSA to deliver secure cybersecurity",
-      "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2025-05-08, 21:12:32",
+      "https://news.ycombinator.com/item?id=43931409"
+    ],
+    [
+      "A flat pricing subscription for Claude Code",
+      "https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 20:58:37",
       "https://news.ycombinator.com/item?id=43931285"
     ],
@@ -107,16 +137,6 @@
     [
       "How to start a school with your friends",
       "https://prigoose.substack.com/p/how-to-start-a-university"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 19:13:29",
-      "https://news.ycombinator.com/item?id=43930156"
-    ],
-    [
-      "The Rise and Fall of the Visual Telegraph (2017)",
-      "https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-05-06, 15:55:42",
-      "https://news.ycombinator.com/item?id=43906566"
-    ],
-    [
-      "A Brief History of Cursor's Tab-Completion",
-      "https://www.coplay.dev/blog/a-brief-history-of-cursor-s-tab-completion"
-    ]
-  ],
-  [
-    [
       "2025-05-06, 06:33:31",
       "https://news.ycombinator.com/item?id=43902350"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2025-05-06, 01:39:42",
-      "https://news.ycombinator.com/item?id=43901081"
-    ],
-    [
-      "Show HN: OpenRouter Model Price Comparison",
-      "https://compare-openrouter-models.pages.dev/"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 21:06:46",
       "https://news.ycombinator.com/item?id=43899456"
     ],
     [
       "Phoenician culture spread mainly through cultural exchange",
       "https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 11:23:59",
+      "https://news.ycombinator.com/item?id=43893808"
+    ],
+    [
+      "Product Purgatory: When they love it but still don't buy",
+      "https://longform.asmartbear.com/purgatory/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Mathematical Problem Solving",
       "https://www.cip.ifi.lmu.de/~grinberg/t/20f/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 07:54:44",
-      "https://news.ycombinator.com/item?id=43892786"
-    ],
-    [
-      "How Obama’s BlackBerry got secured (2013)",
-      "https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html"
     ]
   ]
 ]
