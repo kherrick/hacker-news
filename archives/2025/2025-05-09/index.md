@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 14:48:23](https://news.ycombinator.com/item?id=43937396) - ['Inheritance is an injustice': Why a 33-year-old redistributed €27M](https://www.lemonde.fr/en/economy/article/2025/05/08/inheritance-is-an-injustice-why-a-33-year-old-redistributed-27-million_6741060_19.html)
 * [2025-05-09, 14:33:49](https://news.ycombinator.com/item?id=43937242) - [Entire BART system is down due to computer systems failure](https://www.bart.gov/)
 * [2025-05-09, 14:02:02](https://news.ycombinator.com/item?id=43936884) - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
 * [2025-05-09, 13:59:06](https://news.ycombinator.com/item?id=43936844) - [Show HN: Hyper – Standards first React alternative](https://nuejs.org/blog/standards-first-react-alternative/)
