@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 22:42:05](https://news.ycombinator.com/item?id=43941598) - [Charles Baudelaire's Flowers of Evil](https://fleursdumal.org)
 * [2025-05-09, 21:05:59](https://news.ycombinator.com/item?id=43940865) - [Era of U.S. dollar may be winding down](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/)
 * [2025-05-09, 20:20:52](https://news.ycombinator.com/item?id=43940539) - [What's New in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
 * [2025-05-09, 20:15:53](https://news.ycombinator.com/item?id=43940500) - [Google Doc Templates for Startups](https://www.templatesbypaul.com/)
@@ -14,6 +15,7 @@
 * [2025-05-09, 16:16:59](https://news.ycombinator.com/item?id=43938481) - [Show HN: BlenderQ – A TUI for managing multiple Blender renders](https://github.com/KyleTryon/BlenderQ)
 * [2025-05-09, 16:09:45](https://news.ycombinator.com/item?id=43938400) - [Past, present, and future of Sorbet type syntax](https://blog.jez.io/history-of-sorbet-syntax/)
 * [2025-05-09, 16:01:11](https://news.ycombinator.com/item?id=43938309) - [Show HN: A backend agnostic Ruby framework for building reactive desktop apps](https://codeberg.org/skinnyjames/hokusai)
+* [2025-05-09, 15:24:35](https://news.ycombinator.com/item?id=43937852) - [Show HN: Hydra (YC W22) – Serverless Analytics on Postgres](https://www.hydra.so/)
 * [2025-05-09, 14:33:49](https://news.ycombinator.com/item?id=43937242) - [All BART trains were stopped due to ‘computer networking problem’](https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem)
 * [2025-05-09, 14:31:20](https://news.ycombinator.com/item?id=43937214) - [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
 * [2025-05-09, 14:02:02](https://news.ycombinator.com/item?id=43936884) - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
@@ -27,9 +29,7 @@
 * [2025-05-09, 09:11:05](https://news.ycombinator.com/item?id=43935067) - [Rust’s dependencies are starting to worry me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 * [2025-05-07, 19:58:57](https://news.ycombinator.com/item?id=43920006) - [Before the Undo Command, There Was the Electric Eraser](https://spectrum.ieee.org/electric-eraser)
 * [2025-05-07, 15:51:08](https://news.ycombinator.com/item?id=43917278) - [Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game](https://32bits.substack.com/p/under-the-microscope-the-lost-world)
-* [2025-05-07, 14:59:54](https://news.ycombinator.com/item?id=43916606) - [Physicists uncover how geometric frustration shapes the rose's iconic blossom](https://phys.org/news/2025-05-physicists-uncover-geometric-frustration-rose.html)
 * [2025-05-06, 09:29:15](https://news.ycombinator.com/item?id=43903162) - [Math Machine – A notebook will show your kid how far they have travelled](https://kidswholovemath.substack.com/p/math-machine)
-* [2025-05-05, 16:30:22](https://news.ycombinator.com/item?id=43896835) - [The birth of AI poker? Letters from the 1984 WSOP](https://www.poker.org/latest-news/the-birth-of-ai-poker-letters-from-the-1984-wsop-a4v2W4N4X3EP/)
 
 ## [Archives](archives/index.md)
 
