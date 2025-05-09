@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 14:33:49](https://news.ycombinator.com/item?id=43937242) - [Entire BART system is down due to computer systems failure](https://www.bart.gov/)
 * [2025-05-09, 14:02:02](https://news.ycombinator.com/item?id=43936884) - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
 * [2025-05-09, 13:59:06](https://news.ycombinator.com/item?id=43936844) - [Show HN: Hyper – Standards first React alternative](https://nuejs.org/blog/standards-first-react-alternative/)
 * [2025-05-09, 13:56:37](https://news.ycombinator.com/item?id=43936813) - [Dasung Paperlike 13K is a 13.3 inch E Ink color monitor](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/)
@@ -14,6 +15,7 @@
 * [2025-05-09, 12:42:29](https://news.ycombinator.com/item?id=43936097) - [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
 * [2025-05-09, 12:13:36](https://news.ycombinator.com/item?id=43935913) - [NSF faces shake-up as officials abolish its 37 divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)
 * [2025-05-09, 11:39:40](https://news.ycombinator.com/item?id=43935717) - [Catholic Church to Excommunicate Priests for Following New US State Law](https://www.newsweek.com/catholic-church-excommunicate-priests-following-new-us-state-law-2069039)
+* [2025-05-09, 11:37:40](https://news.ycombinator.com/item?id=43935707) - [CryptPad: An Alternative to the Google Suite](https://cryptpad.org/)
 * [2025-05-09, 11:23:36](https://news.ycombinator.com/item?id=43935625) - [Data manipulations alleged in study that paved way for Microsoft's quantum chip](https://www.science.org/content/article/data-manipulations-alleged-study-paved-way-microsoft-s-quantum-chip)
 * [2025-05-09, 11:18:06](https://news.ycombinator.com/item?id=43935586) - [Amazon's Vulcan Robots Now Stow Items Faster Than Humans](https://spectrum.ieee.org/amazon-stowing-robots)
 * [2025-05-09, 11:00:51](https://news.ycombinator.com/item?id=43935486) - [A romance scam compound–and how people get tricked into being there](https://www.technologyreview.com/2025/03/27/1113782/scam-compound-meta-facebook-pig-butchering-wechat/)

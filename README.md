@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 14:33:49](https://news.ycombinator.com/item?id=43937242) - [Entire BART system is down due to computer systems failure](https://www.bart.gov/)
 * [2025-05-09, 14:02:02](https://news.ycombinator.com/item?id=43936884) - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
 * [2025-05-09, 13:59:06](https://news.ycombinator.com/item?id=43936844) - [Show HN: Hyper – Standards first React alternative](https://nuejs.org/blog/standards-first-react-alternative/)
 * [2025-05-09, 13:56:37](https://news.ycombinator.com/item?id=43936813) - [Dasung Paperlike 13K is a 13.3 inch E Ink color monitor](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/)
@@ -9,12 +10,12 @@
 * [2025-05-09, 13:18:42](https://news.ycombinator.com/item?id=43936408) - [Sofie: open-source web based system for automating live TV news production](https://nrkno.github.io/sofie-core/)
 * [2025-05-09, 12:42:29](https://news.ycombinator.com/item?id=43936097) - [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
 * [2025-05-09, 12:13:36](https://news.ycombinator.com/item?id=43935913) - [NSF faces shake-up as officials abolish its 37 divisions](https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions)
+* [2025-05-09, 11:37:40](https://news.ycombinator.com/item?id=43935707) - [CryptPad: An Alternative to the Google Suite](https://cryptpad.org/)
 * [2025-05-09, 11:23:36](https://news.ycombinator.com/item?id=43935625) - [Data manipulations alleged in study that paved way for Microsoft's quantum chip](https://www.science.org/content/article/data-manipulations-alleged-study-paved-way-microsoft-s-quantum-chip)
 * [2025-05-09, 11:18:06](https://news.ycombinator.com/item?id=43935586) - [Amazon's Vulcan Robots Now Stow Items Faster Than Humans](https://spectrum.ieee.org/amazon-stowing-robots)
 * [2025-05-09, 10:52:15](https://news.ycombinator.com/item?id=43935434) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
 * [2025-05-09, 10:45:40](https://news.ycombinator.com/item?id=43935394) - [Show HN: Hyvector – A fast and modern SVG editor](https://www.hyvector.com)
 * [2025-05-09, 10:39:43](https://news.ycombinator.com/item?id=43935356) - [The Linux Kernel's PGP Web of Trust](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html)
-* [2025-05-09, 08:48:40](https://news.ycombinator.com/item?id=43934954) - [Linear Programming for Fun and Profit](https://modal.com/blog/resource-solver)
 * [2025-05-09, 08:01:06](https://news.ycombinator.com/item?id=43934711) - [WASM 2.0](https://www.w3.org/TR/wasm-core-2/)
 * [2025-05-09, 04:55:20](https://news.ycombinator.com/item?id=43933891) - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
 * [2025-05-09, 03:46:53](https://news.ycombinator.com/item?id=43933628) - [Dead Reckoning](https://www.damninteresting.com/dead-reckoning/)
@@ -29,7 +30,6 @@
 * [2025-05-06, 12:54:20](https://news.ycombinator.com/item?id=43904546) - [Malaya's Timeless Design](https://www.linyangchen.com/Philately)
 * [2025-05-05, 19:00:11](https://news.ycombinator.com/item?id=43898280) - [Zombieverter: Open source VCU for reusing salvage EV components](https://openinverter.org/wiki/ZombieVerter_VCU)
 * [2025-05-05, 13:34:45](https://news.ycombinator.com/item?id=43894967) - [Structuring Competency-Based Courses Through Skill Trees](https://arxiv.org/abs/2504.16966)
-* [2025-05-05, 11:51:40](https://news.ycombinator.com/item?id=43894055) - [Full Control.xyz Freeform Gcode](https://fullcontrol.xyz/#/models)
 
 ## [Archives](archives/index.md)
 
