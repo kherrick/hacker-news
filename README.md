@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-09, 07:23:59](https://news.ycombinator.com/item?id=43934544) - [Boy Accidentally Orders 70k Lollipops on Amazon. Panic Ensues.](https://www.nytimes.com/2025/05/08/business/dum-dums-amazon-order-kentucky.html)
+* [2025-05-09, 07:22:08](https://news.ycombinator.com/item?id=43934540) - [Doge software engineer's computer infected by info-stealing malware](https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/)
 * [2025-05-09, 06:19:17](https://news.ycombinator.com/item?id=43934279) - [6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual (1980)](https://www.pagetable.com/?p=1798)
 * [2025-05-09, 05:10:28](https://news.ycombinator.com/item?id=43933962) - [Verification, the Key to AI (2001)](http://incompleteideas.net/IncIdeas/KeytoAI.html)
 * [2025-05-09, 04:55:20](https://news.ycombinator.com/item?id=43933891) - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
@@ -24,7 +25,6 @@
 * [2025-05-08, 16:35:34](https://news.ycombinator.com/item?id=43927926) - [Void: Open-source Cursor alternative](https://github.com/voideditor/void)
 * [2025-05-08, 16:30:45](https://news.ycombinator.com/item?id=43927856) - [First American pope elected and will be known as Pope Leo XIV](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25)
 * [2025-05-08, 15:49:37](https://news.ycombinator.com/item?id=43927337) - [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
-* [2025-05-08, 14:19:42](https://news.ycombinator.com/item?id=43926324) - [Show HN: Test your typing speed and accuracy with movie scripts](https://atypescriptgame.com/)
 * [2025-05-06, 18:38:14](https://news.ycombinator.com/item?id=43908261) - [When Abandoned Mines Collapse](https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse)
 * [2025-05-06, 13:54:23](https://news.ycombinator.com/item?id=43905153) - [Throwaway Code: Don't recycle, throw it away (2017)](https://www.sung.codes/blog/2017/throwaway-code-dont-recycle-throw-away)
 * [2025-05-05, 21:06:46](https://news.ycombinator.com/item?id=43899456) - [Phoenician culture spread mainly through cultural exchange](https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x)

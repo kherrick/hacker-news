@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
 * [2025-05-09, 07:23:59](https://news.ycombinator.com/item?id=43934544) - [Boy Accidentally Orders 70k Lollipops on Amazon. Panic Ensues](https://www.nytimes.com/2025/05/08/business/dum-dums-amazon-order-kentucky.html)
+* [2025-05-09, 07:22:08](https://news.ycombinator.com/item?id=43934540) - [Doge software engineer's computer infected by info-stealing malware](https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/)
 * [2025-05-09, 06:19:17](https://news.ycombinator.com/item?id=43934279) - [6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual (1980)](https://www.pagetable.com/?p=1798)
 * [2025-05-09, 05:10:28](https://news.ycombinator.com/item?id=43933962) - [Verification, the Key to AI (2001)](http://incompleteideas.net/IncIdeas/KeytoAI.html)
 * [2025-05-09, 04:55:20](https://news.ycombinator.com/item?id=43933891) - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
