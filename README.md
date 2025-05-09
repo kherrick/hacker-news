@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-09, 19:07:53](https://news.ycombinator.com/item?id=43940033) - [Why 536 was 'the worst year to be alive'](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
 * [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [Inventing the Adventure Game (1984)](http://www.warrenrobinett.com/inventing_adventure/)
 * [2025-05-09, 18:13:38](https://news.ycombinator.com/item?id=43939617) - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
 * [2025-05-09, 17:53:00](https://news.ycombinator.com/item?id=43939419) - [In the Network of the Conclav: How we \"guessed\" the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
@@ -10,7 +11,6 @@
 * [2025-05-09, 16:16:59](https://news.ycombinator.com/item?id=43938481) - [Show HN: BlenderQ – A TUI for managing multiple Blender renders](https://github.com/KyleTryon/BlenderQ)
 * [2025-05-09, 16:09:45](https://news.ycombinator.com/item?id=43938400) - [Past, present, and future of Sorbet type syntax](https://blog.jez.io/history-of-sorbet-syntax/)
 * [2025-05-09, 16:01:11](https://news.ycombinator.com/item?id=43938309) - [Show HN: A backend agnostic Ruby framework for building reactive desktop apps](https://codeberg.org/skinnyjames/hokusai)
-* [2025-05-09, 15:17:11](https://news.ycombinator.com/item?id=43937750) - [Former Supreme Court justice David Souter has died](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies)
 * [2025-05-09, 14:31:20](https://news.ycombinator.com/item?id=43937214) - [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
 * [2025-05-09, 14:02:02](https://news.ycombinator.com/item?id=43936884) - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
 * [2025-05-09, 13:38:06](https://news.ycombinator.com/item?id=43936592) - [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
