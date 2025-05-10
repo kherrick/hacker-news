@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-10, 00:45:47",
+      "https://news.ycombinator.com/item?id=43942318"
+    ],
+    [
+      "Charles Bukowski, William Burroughs, and the Computer (2009)",
+      "https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 00:37:48",
+      "https://news.ycombinator.com/item?id=43942279"
+    ],
+    [
+      "Brandon's Semiconductor Simulator",
+      "https://brandonli.net/semisim/"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 00:13:38",
       "https://news.ycombinator.com/item?id=43942149"
     ],
@@ -21,22 +41,22 @@
   ],
   [
     [
-      "2025-05-09, 22:44:05",
-      "https://news.ycombinator.com/item?id=43941608"
-    ],
-    [
-      "Using Git-upload-pack for a simpler CI integration",
-      "https://blog.screenshotbot.io/2025/05/09/using-git-upload-pack-for-a-simpler-ci-integration/"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 22:42:05",
       "https://news.ycombinator.com/item?id=43941598"
     ],
     [
-      "Charles Baudelaire's Flowers of Evil",
+      "Fleurs du Mal",
       "https://fleursdumal.org"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 22:36:32",
+      "https://news.ycombinator.com/item?id=43941564"
+    ],
+    [
+      "Six Days in the Dark",
+      "https://tonyyo11.github.io/posts/Six-Days-in-the-Dark/"
     ]
   ],
   [
@@ -57,26 +77,6 @@
     [
       "What’s new in Swift 6.2",
       "https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 19:07:53",
-      "https://news.ycombinator.com/item?id=43940033"
-    ],
-    [
-      "Why 536 was 'the worst year to be alive' (2018)",
-      "https://www.science.org/content/article/why-536-was-worst-year-be-alive"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 18:37:15",
-      "https://news.ycombinator.com/item?id=43939781"
-    ],
-    [
-      "Inventing the Adventure Game (1984)",
-      "http://www.warrenrobinett.com/inventing_adventure/"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-05-09, 16:21:19",
-      "https://news.ycombinator.com/item?id=43938530"
-    ],
-    [
-      "Show HN: Oliphaunt – A native Mastodon client for macOS",
-      "https://testflight.apple.com/join/Epq1P3Cw"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 16:09:45",
       "https://news.ycombinator.com/item?id=43938400"
     ],
@@ -157,16 +147,6 @@
     [
       "Show HN: Hydra (YC W22) – Serverless Analytics on Postgres",
       "https://www.hydra.so/"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 14:33:49",
-      "https://news.ycombinator.com/item?id=43937242"
-    ],
-    [
-      "All BART trains were stopped due to ‘computer networking problem’",
-      "https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem"
     ]
   ],
   [
@@ -261,12 +241,22 @@
   ],
   [
     [
-      "2025-05-07, 19:58:57",
-      "https://news.ycombinator.com/item?id=43920006"
+      "2025-05-08, 21:30:41",
+      "https://news.ycombinator.com/item?id=43931566"
     ],
     [
-      "Before the Undo Command, There Was the Electric Eraser",
-      "https://spectrum.ieee.org/electric-eraser"
+      "Bento gets a makeover",
+      "https://warpstreamlabs.github.io/bento/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 19:34:00",
+      "https://news.ycombinator.com/item?id=43930389"
+    ],
+    [
+      "Fighting Unwanted Notifications with Machine Learning in Chrome",
+      "https://blog.chromium.org/2025/05/fighting-unwanted-notifications-with.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game",
       "https://32bits.substack.com/p/under-the-microscope-the-lost-world"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 12:35:23",
+      "https://news.ycombinator.com/item?id=43914852"
+    ],
+    [
+      "Stratolaunch Successfully Completes Reusable Hypersonic Flight and Recovery",
+      "https://www.stratolaunch.com/news/stratolaunch-successfully-completes-reusable-hypersonic-flight-and-recovery-with-talon-a2-vehicle/"
     ]
   ],
   [
