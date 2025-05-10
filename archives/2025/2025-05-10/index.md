@@ -6,9 +6,11 @@
 
 * [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
 * [2025-05-10, 19:11:10](https://news.ycombinator.com/item?id=43948077) - [AI AI is draining water from areas that need it most](https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data)
+* [2025-05-10, 19:07:32](https://news.ycombinator.com/item?id=43948050) - [Email Forwarding for Your Domain](https://mailwip.com)
 * [2025-05-10, 18:38:56](https://news.ycombinator.com/item?id=43947850) - [DOGE Is Bringing Back a Deadly Disease](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/)
 * [2025-05-10, 18:20:54](https://news.ycombinator.com/item?id=43947731) - [Update turns Google Gemini into a prude, breaking apps for trauma survivors](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/)
 * [2025-05-10, 18:14:29](https://news.ycombinator.com/item?id=43947690) - [Even Tesla's Insurance Arm Is Getting Wrecked](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/)
+* [2025-05-10, 18:05:09](https://news.ycombinator.com/item?id=43947630) - [For $595, you get what nobody else can give you for twice the price (1982) [pdf]](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf)
 * [2025-05-10, 17:04:25](https://news.ycombinator.com/item?id=43947161) - [Simon Willison's first blog on LLMs (2022)](https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/)
 * [2025-05-10, 17:00:39](https://news.ycombinator.com/item?id=43947137) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-05-10, 16:38:52](https://news.ycombinator.com/item?id=43946949) - [Unique Games Conjecture](https://en.wikipedia.org/wiki/Unique_games_conjecture)
