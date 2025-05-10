@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-10, 04:25:43",
+      "https://news.ycombinator.com/item?id=43943236"
+    ],
+    [
+      "Gmail to SQLite",
+      "https://github.com/marcboeker/gmail-to-sqlite"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 03:39:46",
       "https://news.ycombinator.com/item?id=43943047"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-05-09, 17:00:49",
-      "https://news.ycombinator.com/item?id=43938959"
-    ],
-    [
-      "Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)",
-      "https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 16:28:28",
       "https://news.ycombinator.com/item?id=43938607"
     ],
@@ -137,16 +137,6 @@
     [
       "Past, present, and future of Sorbet type syntax",
       "https://blog.jez.io/history-of-sorbet-syntax/"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 15:24:35",
-      "https://news.ycombinator.com/item?id=43937852"
-    ],
-    [
-      "Show HN: Hydra (YC W22) – Serverless Analytics on Postgres",
-      "https://www.hydra.so/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Stratolaunch Successfully Completes Reusable Hypersonic Flight and Recovery",
       "https://www.stratolaunch.com/news/stratolaunch-successfully-completes-reusable-hypersonic-flight-and-recovery-with-talon-a2-vehicle/"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 09:31:53",
+      "https://news.ycombinator.com/item?id=43913705"
+    ],
+    [
+      "Private Japanese lunar lander enters orbit around moon ahead of a June touchdown",
+      "https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html"
     ]
   ],
   [
