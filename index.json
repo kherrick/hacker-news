@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-05-10, 15:31:03",
+      "https://news.ycombinator.com/item?id=43946461"
+    ],
+    [
+      "Ancient humans used sunscreen to survive a deadly magnetic pole shift",
+      "https://newatlas.com/history/ancient-humans-ochre-sunscreen-magnetic-pole-shift/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 15:21:00",
+      "https://news.ycombinator.com/item?id=43946363"
+    ],
+    [
+      "Farewell to Lee Gold's Alarums and Excursions",
+      "https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 14:55:52",
+      "https://news.ycombinator.com/item?id=43946149"
+    ],
+    [
+      "Comparison of C/POSIX standard library implementations for Linux",
+      "https://www.etalabs.net/compare_libcs.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 14:47:12",
+      "https://news.ycombinator.com/item?id=43946066"
+    ],
+    [
+      "Show HN: Code Claude Code",
+      "https://github.com/RVCA212/codesys"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 14:37:59",
+      "https://news.ycombinator.com/item?id=43945993"
+    ],
+    [
+      "A Critical Look at MCP",
+      "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 14:15:56",
       "https://news.ycombinator.com/item?id=43945820"
     ],
@@ -151,26 +201,6 @@
   ],
   [
     [
-      "2025-05-10, 00:37:48",
-      "https://news.ycombinator.com/item?id=43942279"
-    ],
-    [
-      "Brandon's Semiconductor Simulator",
-      "https://brandonli.net/semisim/"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 00:13:38",
-      "https://news.ycombinator.com/item?id=43942149"
-    ],
-    [
-      "WebGL Water (2010)",
-      "https://madebyevan.com/webgl-water/"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 20:51:45",
       "https://news.ycombinator.com/item?id=43940747"
     ],
@@ -187,36 +217,6 @@
     [
       "ALICE detects the conversion of lead into gold at the LHC",
       "https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 13:18:42",
-      "https://news.ycombinator.com/item?id=43936408"
-    ],
-    [
-      "Sofie: open-source web based system for automating live TV news production",
-      "https://nrkno.github.io/sofie-core/"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 09:11:05",
-      "https://news.ycombinator.com/item?id=43935067"
-    ],
-    [
-      "Rust’s dependencies are starting to worry me",
-      "https://vincents.dev/blog/rust-dependencies-scare-me/?"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 18:01:52",
-      "https://news.ycombinator.com/item?id=43929237"
-    ],
-    [
-      "Quantum Visions, an exhibition combining quantum physics and contemporary art",
-      "https://www.tabakalera.eus/en/visiones-cuanticas/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-05-08, 11:32:01",
+      "https://news.ycombinator.com/item?id=43925132"
+    ],
+    [
+      "Prolog's Eternal September (2017)",
+      "https://storytotell.org/prologs-eternal-september"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 15:01:46",
       "https://news.ycombinator.com/item?id=43916622"
     ],
@@ -257,16 +267,6 @@
     [
       "Fixrleak: Fixing Java Resource Leaks with GenAI",
       "https://www.uber.com/en-IL/blog/fixrleak-fixing-java-resource-leaks-with-genai/"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 12:30:38",
-      "https://news.ycombinator.com/item?id=43914807"
-    ],
-    [
-      "Spanish Shipwreck Reveals Evidence of Earliest Known Pet Cats to Arrive in US",
-      "https://www.smithsonianmag.com/smart-news/spanish-shipwreck-reveals-evidence-of-earliest-known-pet-cats-to-arrive-in-the-united-states-180986560/"
     ]
   ],
   [
