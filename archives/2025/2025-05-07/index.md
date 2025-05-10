@@ -41,6 +41,7 @@
 * [2025-05-07, 15:51:08](https://news.ycombinator.com/item?id=43917278) - [Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game](https://32bits.substack.com/p/under-the-microscope-the-lost-world)
 * [2025-05-07, 15:38:46](https://news.ycombinator.com/item?id=43917122) - [OpenSearch 3.0 Released](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/)
 * [2025-05-07, 15:26:43](https://news.ycombinator.com/item?id=43916956) - [Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)](https://github.com/ciromattia/kcc)
+* [2025-05-07, 15:01:46](https://news.ycombinator.com/item?id=43916622) - [Detect and crash Chromium bots with one weird trick (bots hate it)](https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/)
 * [2025-05-07, 14:59:54](https://news.ycombinator.com/item?id=43916606) - [Physicists uncover how geometric frustration shapes the rose's iconic blossom](https://phys.org/news/2025-05-physicists-uncover-geometric-frustration-rose.html)
 * [2025-05-07, 14:57:03](https://news.ycombinator.com/item?id=43916577) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-07, 14:44:38](https://news.ycombinator.com/item?id=43916411) - [WeightWatchers Files Bankruptcy, Adapts to Chemically Induced Weight-Loss Future](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
