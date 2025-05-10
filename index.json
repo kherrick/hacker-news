@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-05-10, 03:08:29",
-      "https://news.ycombinator.com/item?id=43942928"
+      "2025-05-10, 03:39:46",
+      "https://news.ycombinator.com/item?id=43943047"
     ],
     [
-      "Uber Driver app can get location in background without the permissions (How?)",
-      "https://developer.apple.com/forums/thread/783227"
+      "Vision Now Available in Llama.cpp",
+      "https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 02:48:57",
+      "https://news.ycombinator.com/item?id=43942848"
+    ],
+    [
+      "Algebraic Effects: Another mistake carried through to perfection?",
+      "https://kjosib.github.io/Counterpoint/effects.html"
     ]
   ],
   [
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2025-05-09, 12:13:36",
-      "https://news.ycombinator.com/item?id=43935913"
-    ],
-    [
-      "NSF faces shake-up as officials abolish its 37 divisions",
-      "https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 11:37:40",
-      "https://news.ycombinator.com/item?id=43935707"
-    ],
-    [
-      "CryptPad: An Alternative to the Google Suite",
-      "https://cryptpad.org/"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 10:45:40",
       "https://news.ycombinator.com/item?id=43935394"
     ],
@@ -237,6 +227,16 @@
     [
       "Fighting Unwanted Notifications with Machine Learning in Chrome",
       "https://blog.chromium.org/2025/05/fighting-unwanted-notifications-with.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 13:50:38",
+      "https://news.ycombinator.com/item?id=43926097"
+    ],
+    [
+      "6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual",
+      "https://www.pagetable.com/?p=1798"
     ]
   ],
   [
