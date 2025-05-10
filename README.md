@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-10, 22:32:01](https://news.ycombinator.com/item?id=43949542) - [Observations from People Watching](https://skincontact.substack.com/p/21-observations-from-people-watching)
 * [2025-05-10, 21:42:55](https://news.ycombinator.com/item?id=43949238) - [Sierpiński Triangle? In My Bitwise and?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
 * [2025-05-10, 21:25:21](https://news.ycombinator.com/item?id=43949134) - [Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass](https://github.com/danielcota/LoopMix128)
 * [2025-05-10, 21:15:04](https://news.ycombinator.com/item?id=43949056) - [Why the Apple II Didn't Support Lowercase Letters (2020)](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters)
@@ -24,7 +25,6 @@
 * [2025-05-08, 13:41:23](https://news.ycombinator.com/item?id=43926029) - [Adventures in Imbalanced Learning and Class Weight](http://andersource.dev/2025/05/05/imbalanced-learning.html)
 * [2025-05-08, 12:17:08](https://news.ycombinator.com/item?id=43925396) - [The Price of Remission](https://www.propublica.org/article/revlimid-price-cancer-celgene-drugs-fda-multiple-myeloma)
 * [2025-05-08, 11:32:01](https://news.ycombinator.com/item?id=43925132) - [Prolog's Eternal September (2017)](https://storytotell.org/prologs-eternal-september)
-* [2025-05-07, 20:23:14](https://news.ycombinator.com/item?id=43920212) - [Show HN: Sprigman – Pac-Man Recreated in a Limited Tile Based JavaScript Engine](https://sprig.hackclub.com/share/X4EGvOFk1q8FroEPCj1G)
 * [2025-05-07, 18:07:51](https://news.ycombinator.com/item?id=43918880) - [Alan Kay Did Not Invent Objects (2019)](https://www.hillelwayne.com/post/alan-kay/)
 * [2025-05-07, 15:01:46](https://news.ycombinator.com/item?id=43916622) - [Detect and crash Chromium bots](https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/)
 * [2025-05-07, 09:31:53](https://news.ycombinator.com/item?id=43913705) - [Private Japanese lunar lander enters orbit around moon ahead of a June touchdown](https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html)
