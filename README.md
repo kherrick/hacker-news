@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-10, 08:45:59](https://news.ycombinator.com/item?id=43944167) - [Cosmos 482 Descent Craft tracker](http://astria.tacc.utexas.edu/AstriaGraph/)
-* [2025-05-10, 08:43:27](https://news.ycombinator.com/item?id=43944154) - [CT scans show cigarettes are harder on the lungs than marijuana](https://healthimaging.com/topics/medical-imaging/computed-tomography-ct/ct-scans-dont-lie-cigarettes-are-harder-lungs-marijuana)
 * [2025-05-10, 08:01:30](https://news.ycombinator.com/item?id=43943984) - [Ash (Almquist Shell) Variants](https://www.in-ulm.de/~mascheck/various/ash/)
 * [2025-05-10, 06:58:15](https://news.ycombinator.com/item?id=43943737) - [Not a three-year-old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
 * [2025-05-10, 06:38:56](https://news.ycombinator.com/item?id=43943652) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
@@ -12,6 +11,7 @@
 * [2025-05-10, 00:45:47](https://news.ycombinator.com/item?id=43942318) - [Charles Bukowski, William Burroughs, and the Computer (2009)](https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/)
 * [2025-05-10, 00:37:48](https://news.ycombinator.com/item?id=43942279) - [Brandon's Semiconductor Simulator](https://brandonli.net/semisim/)
 * [2025-05-10, 00:13:38](https://news.ycombinator.com/item?id=43942149) - [WebGL Water (2010)](https://madebyevan.com/webgl-water/)
+* [2025-05-09, 23:22:20](https://news.ycombinator.com/item?id=43941862) - [PlainBudget – Minimalist Plain Text Budgeting](https://plainbudget.com/)
 * [2025-05-09, 22:42:05](https://news.ycombinator.com/item?id=43941598) - [Fleurs du Mal](https://fleursdumal.org)
 * [2025-05-09, 20:51:45](https://news.ycombinator.com/item?id=43940747) - [Business books are entertainment, not strategic tools](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste)
 * [2025-05-09, 20:20:52](https://news.ycombinator.com/item?id=43940539) - [What’s new in Swift 6.2](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
