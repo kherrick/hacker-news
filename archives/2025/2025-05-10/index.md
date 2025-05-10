@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 15:31:03](https://news.ycombinator.com/item?id=43946461) - [Ancient humans used sunscreen to survive a deadly magnetic pole shift](https://newatlas.com/history/ancient-humans-ochre-sunscreen-magnetic-pole-shift/)
+* [2025-05-10, 15:21:00](https://news.ycombinator.com/item?id=43946363) - [Farewell to Lee Gold's Alarums and Excursions](https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/)
+* [2025-05-10, 14:55:52](https://news.ycombinator.com/item?id=43946149) - [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
+* [2025-05-10, 14:47:12](https://news.ycombinator.com/item?id=43946066) - [Show HN: Code Claude Code](https://github.com/RVCA212/codesys)
+* [2025-05-10, 14:37:59](https://news.ycombinator.com/item?id=43945993) - [A Critical Look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 * [2025-05-10, 14:15:56](https://news.ycombinator.com/item?id=43945820) - [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 * [2025-05-10, 13:23:51](https://news.ycombinator.com/item?id=43945426) - [There's a National Egg Crisis, and One Company Is Making a Lot of Money](https://www.wsj.com/business/egg-prices-shortage-cal-maine-foods-f53286b3)
 * [2025-05-10, 13:07:24](https://news.ycombinator.com/item?id=43945324) - [The Dave and Busters Anomaly](https://www.searchengine.show/the-dave-and-busters-anomaly/)

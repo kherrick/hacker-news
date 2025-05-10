@@ -66,6 +66,7 @@
 * [2025-05-08, 12:05:26](https://news.ycombinator.com/item?id=43925325) - [Will protein design tools solve the snake antivenom shortage?](https://www.owlposting.com/p/will-protein-design-tools-solve-the)
 * [2025-05-08, 12:03:48](https://news.ycombinator.com/item?id=43925319) - [What Money Can't Buy: The Moral Limits of Markets](https://sandel.scholars.harvard.edu/publications/what-money-cant-buy-moral-limits-markets)
 * [2025-05-08, 12:01:17](https://news.ycombinator.com/item?id=43925306) - [Artifact (YC W25) Is Hiring](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer)
+* [2025-05-08, 11:32:01](https://news.ycombinator.com/item?id=43925132) - [Prolog's Eternal September (2017)](https://storytotell.org/prologs-eternal-september)
 * [2025-05-08, 10:16:22](https://news.ycombinator.com/item?id=43924779) - [Xenon is an open source universal game cheating framework C++](https://github.com/kiocode/xenon-cheats)
 * [2025-05-08, 08:52:56](https://news.ycombinator.com/item?id=43924358) - [How Dare You Transmit at 1.4 GHz!](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
 * [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Secret Messages Detected on Egyptian Obelisk in Paris](https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/)
