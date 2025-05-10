@@ -27,6 +27,7 @@
 * [2025-05-07, 19:44:11](https://news.ycombinator.com/item?id=43919862) - [Proposal: Add bare metal support to Go](https://github.com/golang/go/issues/73608)
 * [2025-05-07, 19:41:21](https://news.ycombinator.com/item?id=43919840) - [Protein-slayer drugs could beat some of the cruellest cancers](https://www.nature.com/articles/d41586-025-01350-2)
 * [2025-05-07, 19:38:16](https://news.ycombinator.com/item?id=43919812) - [Vagus Nerve Stimulation Erases PTSD](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/)
+* [2025-05-07, 18:07:51](https://news.ycombinator.com/item?id=43918880) - [Alan Kay Did Not Invent Objects (2019)](https://www.hillelwayne.com/post/alan-kay/)
 * [2025-05-07, 17:45:33](https://news.ycombinator.com/item?id=43918620) - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
 * [2025-05-07, 17:43:06](https://news.ycombinator.com/item?id=43918600) - [Three Chapters at Cloudflare: Programmer to CTO to Board of Directors](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/)
 * [2025-05-07, 17:42:56](https://news.ycombinator.com/item?id=43918596) - [Social AI companions pose unacceptable risks to teens and children under 18](https://www.commonsensemedia.org/ai-ratings/social-ai-companions)
