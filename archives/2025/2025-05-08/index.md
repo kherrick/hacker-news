@@ -62,6 +62,7 @@
 * [2025-05-08, 13:05:10](https://news.ycombinator.com/item?id=43925732) - [Ask HN: What are good high information density UIs (screenshots, apps, sites)](https://news.ycombinator.com/item?id=43925732)
 * [2025-05-08, 12:22:17](https://news.ycombinator.com/item?id=43925427) - [BYD Sealion 7 surpass Tesla Model Y to be Australia's best-selling electric car](https://www.drive.com.au/news/byd-sealion-7-surpasses-tesla-model-y-to-become-australias-new-best-selling-electric-car/)
 * [2025-05-08, 12:19:55](https://news.ycombinator.com/item?id=43925414) - [Yes, the Apple II MouseCard IRQ Is Synced to the VBL](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/)
+* [2025-05-08, 12:17:08](https://news.ycombinator.com/item?id=43925396) - [The Price of Remission](https://www.propublica.org/article/revlimid-price-cancer-celgene-drugs-fda-multiple-myeloma)
 * [2025-05-08, 12:11:39](https://news.ycombinator.com/item?id=43925355) - [My stackoverflow question was closed so here's a blog post about CoreWCF](https://richardcocks.github.io/2025-05-08-CoreWCF.html)
 * [2025-05-08, 12:05:26](https://news.ycombinator.com/item?id=43925325) - [Will protein design tools solve the snake antivenom shortage?](https://www.owlposting.com/p/will-protein-design-tools-solve-the)
 * [2025-05-08, 12:03:48](https://news.ycombinator.com/item?id=43925319) - [What Money Can't Buy: The Moral Limits of Markets](https://sandel.scholars.harvard.edu/publications/what-money-cant-buy-moral-limits-markets)
