@@ -19,6 +19,7 @@
 * [2025-05-08, 19:48:08](https://news.ycombinator.com/item?id=43930554) - [Show HN: Extension for full-text browser history search](https://rearview-ai.vercel.app/)
 * [2025-05-08, 19:34:36](https://news.ycombinator.com/item?id=43930397) - [How to start a school with your friends](https://prigoose.substack.com/p/how-to-start-a-university)
 * [2025-05-08, 19:34:00](https://news.ycombinator.com/item?id=43930389) - [Fighting Unwanted Notifications with Machine Learning in Chrome](https://blog.chromium.org/2025/05/fighting-unwanted-notifications-with.html)
+* [2025-05-08, 19:15:49](https://news.ycombinator.com/item?id=43930187) - [The Screamer – a yell-on yell-off light](https://rulethepla.net/the-screamer/)
 * [2025-05-08, 19:13:29](https://news.ycombinator.com/item?id=43930156) - [The Rise and Fall of the Visual Telegraph (2017)](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
 * [2025-05-08, 18:40:12](https://news.ycombinator.com/item?id=43929724) - [From: Steve Jobs. \"Great idea, thank you.\"](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
 * [2025-05-08, 18:18:20](https://news.ycombinator.com/item?id=43929447) - [Block Diffusion: Interpolating Autoregressive and Diffusion Language Models](https://m-arriola.com/bd3lms/)
