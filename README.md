@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-10, 13:23:51](https://news.ycombinator.com/item?id=43945426) - [There's a national egg crisis, and one company is making a lot of money](https://www.wsj.com/business/egg-prices-shortage-cal-maine-foods-f53286b3)
+* [2025-05-10, 14:15:56](https://news.ycombinator.com/item?id=43945820) - [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 * [2025-05-10, 13:02:55](https://news.ycombinator.com/item?id=43945293) - [React Three Ecosystem](https://www.react-three.org/)
 * [2025-05-10, 12:39:45](https://news.ycombinator.com/item?id=43945162) - [The cult of doing business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
 * [2025-05-10, 12:16:05](https://news.ycombinator.com/item?id=43945041) - [Radxa Orion O6 brings Arm to the midrange PC (with caveats)](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
