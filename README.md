@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-10, 06:58:15](https://news.ycombinator.com/item?id=43943737) - [NOT a 3 year old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
+* [2025-05-10, 06:38:56](https://news.ycombinator.com/item?id=43943652) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
 * [2025-05-10, 04:25:43](https://news.ycombinator.com/item?id=43943236) - [Gmail to SQLite](https://github.com/marcboeker/gmail-to-sqlite)
 * [2025-05-10, 03:39:46](https://news.ycombinator.com/item?id=43943047) - [Vision Now Available in Llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
 * [2025-05-10, 00:45:47](https://news.ycombinator.com/item?id=43942318) - [Charles Bukowski, William Burroughs, and the Computer (2009)](https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/)
@@ -12,7 +14,6 @@
 * [2025-05-09, 18:01:56](https://news.ycombinator.com/item?id=43939520) - [Odin, a Pragmatic C Alternative with a Go Flavour](http://bitshifters.cc/2025/05/04/odin.html)
 * [2025-05-09, 16:28:28](https://news.ycombinator.com/item?id=43938607) - [Launch HN: Nao Labs (YC X25) – Cursor for Data](https://news.ycombinator.com/item?id=43938607)
 * [2025-05-09, 16:09:45](https://news.ycombinator.com/item?id=43938400) - [Past, present, and future of Sorbet type syntax](https://blog.jez.io/history-of-sorbet-syntax/)
-* [2025-05-09, 15:24:35](https://news.ycombinator.com/item?id=43937852) - [Show HN: Hydra (YC W22) – Serverless Analytics on Postgres](https://www.hydra.so/)
 * [2025-05-09, 14:31:20](https://news.ycombinator.com/item?id=43937214) - [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
 * [2025-05-09, 14:02:02](https://news.ycombinator.com/item?id=43936884) - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
 * [2025-05-09, 13:38:06](https://news.ycombinator.com/item?id=43936592) - [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
@@ -29,7 +30,6 @@
 * [2025-05-07, 12:35:23](https://news.ycombinator.com/item?id=43914852) - [Stratolaunch Successfully Completes Reusable Hypersonic Flight and Recovery](https://www.stratolaunch.com/news/stratolaunch-successfully-completes-reusable-hypersonic-flight-and-recovery-with-talon-a2-vehicle/)
 * [2025-05-07, 09:31:53](https://news.ycombinator.com/item?id=43913705) - [Private Japanese lunar lander enters orbit around moon ahead of a June touchdown](https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html)
 * [2025-05-07, 05:50:15](https://news.ycombinator.com/item?id=43912618) - [Internet Roadtrip: Vote to steer](https://neal.fun/internet-roadtrip/)
-* [2025-05-07, 01:00:58](https://news.ycombinator.com/item?id=43911197) - [Running Windows.exe on a Linux Brain: The Sysadmin's Guide to Neurodivergence](https://leantime.io/running-windows-exe-on-a-linux-brain-the-sysadmins-guide-to-neurodivergence/)
 
 ## [Archives](archives/index.md)
 
