@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
 * [2025-05-10, 18:20:54](https://news.ycombinator.com/item?id=43947731) - [Update turns Google Gemini into a prude, breaking apps for trauma survivors](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/)
 * [2025-05-10, 18:14:29](https://news.ycombinator.com/item?id=43947690) - [Even Tesla's Insurance Arm Is Getting Wrecked](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/)
 * [2025-05-10, 17:00:39](https://news.ycombinator.com/item?id=43947137) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
@@ -19,7 +20,6 @@
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944789) - [Embracer Games Archive is preserving 75000 video games and needs contributions](https://embracergamesarchive.com/)
 * [2025-05-10, 10:04:47](https://news.ycombinator.com/item?id=43944467) - [The Deathbed Fallacy (2018)](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html)
 * [2025-05-10, 06:58:15](https://news.ycombinator.com/item?id=43943737) - [Not a three-year-old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
-* [2025-05-10, 06:28:17](https://news.ycombinator.com/item?id=43943610) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
 * [2025-05-10, 04:25:43](https://news.ycombinator.com/item?id=43943236) - [Gmail to SQLite](https://github.com/marcboeker/gmail-to-sqlite)
 * [2025-05-10, 03:39:46](https://news.ycombinator.com/item?id=43943047) - [Vision Now Available in Llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
 * [2025-05-10, 02:56:38](https://news.ycombinator.com/item?id=43942881) - [A simple 16x16 dot animation from simple math rules](https://tixy.land)
