@@ -12,7 +12,6 @@
 * [2025-05-09, 18:01:56](https://news.ycombinator.com/item?id=43939520) - [Odin, a Pragmatic C Alternative with a Go Flavour](http://bitshifters.cc/2025/05/04/odin.html)
 * [2025-05-09, 17:00:49](https://news.ycombinator.com/item?id=43938959) - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-05-09, 16:28:28](https://news.ycombinator.com/item?id=43938607) - [Launch HN: Nao Labs (YC X25) – Cursor for Data](https://news.ycombinator.com/item?id=43938607)
-* [2025-05-09, 16:21:19](https://news.ycombinator.com/item?id=43938530) - [Show HN: Oliphaunt – A native Mastodon client for macOS](https://testflight.apple.com/join/Epq1P3Cw)
 * [2025-05-09, 16:09:45](https://news.ycombinator.com/item?id=43938400) - [Past, present, and future of Sorbet type syntax](https://blog.jez.io/history-of-sorbet-syntax/)
 * [2025-05-09, 15:24:35](https://news.ycombinator.com/item?id=43937852) - [Show HN: Hydra (YC W22) – Serverless Analytics on Postgres](https://www.hydra.so/)
 * [2025-05-09, 14:31:20](https://news.ycombinator.com/item?id=43937214) - [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
@@ -29,6 +28,7 @@
 * [2025-05-07, 17:20:41](https://news.ycombinator.com/item?id=43918352) - [Some novelists are becoming video game writers – and vice-versa](https://www.theguardian.com/games/2025/apr/30/novelists-video-game-writers)
 * [2025-05-07, 15:51:08](https://news.ycombinator.com/item?id=43917278) - [Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game](https://32bits.substack.com/p/under-the-microscope-the-lost-world)
 * [2025-05-07, 12:35:23](https://news.ycombinator.com/item?id=43914852) - [Stratolaunch Successfully Completes Reusable Hypersonic Flight and Recovery](https://www.stratolaunch.com/news/stratolaunch-successfully-completes-reusable-hypersonic-flight-and-recovery-with-talon-a2-vehicle/)
+* [2025-05-07, 05:50:15](https://news.ycombinator.com/item?id=43912618) - [Internet Roadtrip: Vote to steer](https://neal.fun/internet-roadtrip/)
 * [2025-05-06, 09:29:15](https://news.ycombinator.com/item?id=43903162) - [Math Machine – A notebook will show your kid how far they have travelled](https://kidswholovemath.substack.com/p/math-machine)
 
 ## [Archives](archives/index.md)
