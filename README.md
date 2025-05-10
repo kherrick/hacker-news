@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-10, 16:23:06](https://news.ycombinator.com/item?id=43946824) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
+* [2025-05-10, 16:14:55](https://news.ycombinator.com/item?id=43946766) - [Sam Altman Wants Your Eyeball](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/)
 * [2025-05-10, 15:35:24](https://news.ycombinator.com/item?id=43946498) - ['It cannot provide nuance': UK experts warn AI therapy chatbots are not safe](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use)
 * [2025-05-10, 15:21:00](https://news.ycombinator.com/item?id=43946363) - [Farewell to Lee Gold's Alarums and Excursions](https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/)
 * [2025-05-10, 14:55:52](https://news.ycombinator.com/item?id=43946149) - [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
@@ -14,7 +15,6 @@
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944790) - [Intel: Winning and Losing](https://www.abortretry.fail/p/intel-winning-and-losing)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944789) - [Embracer Games Archive is preserving 75000 video games and needs contributions](https://embracergamesarchive.com/)
 * [2025-05-10, 10:04:47](https://news.ycombinator.com/item?id=43944467) - [The deathbed fallacy](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html)
-* [2025-05-10, 08:01:30](https://news.ycombinator.com/item?id=43943984) - [Ash (Almquist Shell) Variants](https://www.in-ulm.de/~mascheck/various/ash/)
 * [2025-05-10, 06:38:56](https://news.ycombinator.com/item?id=43943652) - [Slow software for a burning world](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
 * [2025-05-10, 06:28:17](https://news.ycombinator.com/item?id=43943610) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
 * [2025-05-10, 04:25:43](https://news.ycombinator.com/item?id=43943236) - [Gmail to SQLite](https://github.com/marcboeker/gmail-to-sqlite)
