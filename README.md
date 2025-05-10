@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-10, 03:08:29](https://news.ycombinator.com/item?id=43942928) - [Uber Driver app can get location in background without the permissions (How?)](https://developer.apple.com/forums/thread/783227)
 * [2025-05-10, 00:45:47](https://news.ycombinator.com/item?id=43942318) - [Charles Bukowski, William Burroughs, and the Computer (2009)](https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/)
 * [2025-05-10, 00:37:48](https://news.ycombinator.com/item?id=43942279) - [Brandon's Semiconductor Simulator](https://brandonli.net/semisim/)
 * [2025-05-10, 00:13:38](https://news.ycombinator.com/item?id=43942149) - [WebGL Water (2010)](https://madebyevan.com/webgl-water/)
@@ -8,7 +9,6 @@
 * [2025-05-09, 22:36:32](https://news.ycombinator.com/item?id=43941564) - [Six Days in the Dark](https://tonyyo11.github.io/posts/Six-Days-in-the-Dark/)
 * [2025-05-09, 20:51:45](https://news.ycombinator.com/item?id=43940747) - [Business books are entertainment, not strategic tools](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste)
 * [2025-05-09, 20:20:52](https://news.ycombinator.com/item?id=43940539) - [What’s new in Swift 6.2](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
-* [2025-05-09, 18:13:38](https://news.ycombinator.com/item?id=43939617) - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
 * [2025-05-09, 18:01:56](https://news.ycombinator.com/item?id=43939520) - [Odin, a Pragmatic C Alternative with a Go Flavour](http://bitshifters.cc/2025/05/04/odin.html)
 * [2025-05-09, 17:00:49](https://news.ycombinator.com/item?id=43938959) - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-05-09, 16:28:28](https://news.ycombinator.com/item?id=43938607) - [Launch HN: Nao Labs (YC X25) – Cursor for Data](https://news.ycombinator.com/item?id=43938607)
