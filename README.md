@@ -2,7 +2,6 @@
 
 * [2025-05-10, 20:18:19](https://news.ycombinator.com/item?id=43948633) - [Show HN: PLAttice, for assembling structures much larger than the 3D printer bed](https://zachfred.in/projects/plattice/plattice.html)
 * [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
-* [2025-05-10, 19:11:10](https://news.ycombinator.com/item?id=43948077) - [AI is draining water from areas that need it most](https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data)
 * [2025-05-10, 19:07:32](https://news.ycombinator.com/item?id=43948050) - [Email Forwarding for Your Domain](https://mailwip.com)
 * [2025-05-10, 18:05:09](https://news.ycombinator.com/item?id=43947630) - [For $595, you get what nobody else can give you for twice the price (1982) [pdf]](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf)
 * [2025-05-10, 17:00:39](https://news.ycombinator.com/item?id=43947137) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
@@ -29,6 +28,7 @@
 * [2025-05-07, 21:37:05](https://news.ycombinator.com/item?id=43920815) - [LLMs for Materials and Chemistry: 34 Real-World Examples](https://arxiv.org/abs/2505.03049)
 * [2025-05-07, 20:23:14](https://news.ycombinator.com/item?id=43920212) - [Show HN: Sprigman – Pac-Man Recreated in a Limited Tile Based JavaScript Engine](https://sprig.hackclub.com/share/X4EGvOFk1q8FroEPCj1G)
 * [2025-05-07, 09:31:53](https://news.ycombinator.com/item?id=43913705) - [Private Japanese lunar lander enters orbit around moon ahead of a June touchdown](https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html)
+* [2025-05-07, 05:50:15](https://news.ycombinator.com/item?id=43912618) - [Internet Roadtrip: Vote to steer](https://neal.fun/internet-roadtrip/)
 * [2025-05-06, 20:48:41](https://news.ycombinator.com/item?id=43909487) - [Building Local-First Flutter Apps with Riverpod, Drift, and PowerSync](https://dinkomarinac.dev/building-local-first-flutter-apps-with-riverpod-drift-and-powersync)
 
 ## [Archives](archives/index.md)
