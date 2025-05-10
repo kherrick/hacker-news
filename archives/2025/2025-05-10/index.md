@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
 * [2025-05-10, 21:42:55](https://news.ycombinator.com/item?id=43949238) - [Sierpiński Triangle? In My Bitwise and?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
+* [2025-05-10, 21:25:21](https://news.ycombinator.com/item?id=43949134) - [Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass](https://github.com/danielcota/LoopMix128)
 * [2025-05-10, 21:21:41](https://news.ycombinator.com/item?id=43949108) - [Everyone Is Cheating Their Way Through College](https://www.msn.com/en-us/news/technology/everyone-is-cheating-their-way-through-college/ar-AA1EjCRk)
+* [2025-05-10, 21:15:04](https://news.ycombinator.com/item?id=43949056) - [Why the Apple II Didn't Support Lowercase Letters (2020)](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters)
 * [2025-05-10, 20:58:27](https://news.ycombinator.com/item?id=43948945) - [Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants](https://github.com/blackrabbit17/xenolab)
 * [2025-05-10, 20:18:19](https://news.ycombinator.com/item?id=43948633) - [Show HN: PLAttice, for assembling structures much larger than the 3D printer bed](https://zachfred.in/projects/plattice/plattice.html)
 * [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
+* [2025-05-10, 19:20:03](https://news.ycombinator.com/item?id=43948130) - [Pope Leo XIV: \"AI poses new challenges re: human dignity, justice and labour\"](https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html)
 * [2025-05-10, 19:11:10](https://news.ycombinator.com/item?id=43948077) - [AI AI is draining water from areas that need it most](https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data)
 * [2025-05-10, 19:07:32](https://news.ycombinator.com/item?id=43948050) - [Email Forwarding for Your Domain](https://mailwip.com)
 * [2025-05-10, 18:38:56](https://news.ycombinator.com/item?id=43947850) - [DOGE Is Bringing Back a Deadly Disease](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/)
