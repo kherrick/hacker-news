@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-10, 08:45:59",
+      "https://news.ycombinator.com/item?id=43944167"
+    ],
+    [
+      "Cosmos 482 Descent Craft tracker",
+      "http://astria.tacc.utexas.edu/AstriaGraph/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 08:12:05",
+      "https://news.ycombinator.com/item?id=43944016"
+    ],
+    [
+      "After 16 years, we're renewing the StackOverflow Brand",
+      "https://meta.stackexchange.com/questions/408823/after-16-years-we-re-renewing-the-brand"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 08:01:30",
       "https://news.ycombinator.com/item?id=43943984"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43943737"
     ],
     [
-      "NOT a 3 year old chimney sweep (2022)",
+      "Not a three-year-old chimney sweep (2022)",
       "https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "Slow Software for a Burning World",
       "https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 06:20:21",
-      "https://news.ycombinator.com/item?id=43943583"
-    ],
-    [
-      "Europe launches program to lure scientists away from the US",
-      "https://es.wired.com/articulos/europa-lanza-iniciativa-para-atraer-talento-cientifico-tras-recortes-en-ee-uu"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-05-09, 16:09:45",
-      "https://news.ycombinator.com/item?id=43938400"
-    ],
-    [
-      "Past, present, and future of Sorbet type syntax",
-      "https://blog.jez.io/history-of-sorbet-syntax/"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 14:31:20",
       "https://news.ycombinator.com/item?id=43937214"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-05-07, 15:51:08",
-      "https://news.ycombinator.com/item?id=43917278"
+      "2025-05-07, 15:01:46",
+      "https://news.ycombinator.com/item?id=43916622"
     ],
     [
-      "Reverse Engineering \"DNA Sequences\" in the Lost World: Jurassic Park Video Game",
-      "https://32bits.substack.com/p/under-the-microscope-the-lost-world"
+      "Detect and crash Chromium bots with one weird trick (bots hate it)",
+      "https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/"
     ]
   ],
   [
