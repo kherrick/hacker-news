@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-10, 18:38:56](https://news.ycombinator.com/item?id=43947850) - [DOGE Is Bringing Back a Deadly Disease](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/)
 * [2025-05-10, 18:20:54](https://news.ycombinator.com/item?id=43947731) - [Update turns Google Gemini into a prude, breaking apps for trauma survivors](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/)
+* [2025-05-10, 18:14:29](https://news.ycombinator.com/item?id=43947690) - [Even Tesla's Insurance Arm Is Getting Wrecked](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/)
 * [2025-05-10, 17:00:39](https://news.ycombinator.com/item?id=43947137) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-05-10, 16:23:06](https://news.ycombinator.com/item?id=43946824) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 * [2025-05-10, 16:14:55](https://news.ycombinator.com/item?id=43946766) - [Sam Altman Wants Your Eyeball](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/)
