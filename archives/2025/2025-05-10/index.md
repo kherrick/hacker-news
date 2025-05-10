@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 13:23:51](https://news.ycombinator.com/item?id=43945426) - [There's a National Egg Crisis, and One Company Is Making a Lot of Money](https://www.wsj.com/business/egg-prices-shortage-cal-maine-foods-f53286b3)
+* [2025-05-10, 13:02:55](https://news.ycombinator.com/item?id=43945293) - [React Three Ecosystem](https://www.react-three.org/)
 * [2025-05-10, 12:40:09](https://news.ycombinator.com/item?id=43945165) - [Henry James's family tried to keep him in the closet (2016)](https://www.theguardian.com/books/2016/feb/20/colm-toibin-how-henry-james-family-tried-to-keep-him-in-the-closet)
 * [2025-05-10, 12:39:45](https://news.ycombinator.com/item?id=43945162) - [The Cult of Doing Business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
 * [2025-05-10, 12:34:39](https://news.ycombinator.com/item?id=43945138) - [Industry groups are not happy about the imminent demise of Energy Star](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/)

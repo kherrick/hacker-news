@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-10, 13:23:51](https://news.ycombinator.com/item?id=43945426) - [There's a National Egg Crisis, and One Company Is Making a Lot of Money](https://www.wsj.com/business/egg-prices-shortage-cal-maine-foods-f53286b3)
+* [2025-05-10, 13:02:55](https://news.ycombinator.com/item?id=43945293) - [React Three Ecosystem](https://www.react-three.org/)
 * [2025-05-10, 12:40:09](https://news.ycombinator.com/item?id=43945165) - [Henry James's family tried to keep him in the closet (2016)](https://www.theguardian.com/books/2016/feb/20/colm-toibin-how-henry-james-family-tried-to-keep-him-in-the-closet)
 * [2025-05-10, 12:39:45](https://news.ycombinator.com/item?id=43945162) - [The Cult of Doing Business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
 * [2025-05-10, 12:34:39](https://news.ycombinator.com/item?id=43945138) - [Industry groups are not happy about the imminent demise of Energy Star](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/)
@@ -15,10 +17,8 @@
 * [2025-05-10, 04:25:43](https://news.ycombinator.com/item?id=43943236) - [Gmail to SQLite](https://github.com/marcboeker/gmail-to-sqlite)
 * [2025-05-10, 03:39:46](https://news.ycombinator.com/item?id=43943047) - [Vision Now Available in Llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
 * [2025-05-10, 02:56:38](https://news.ycombinator.com/item?id=43942881) - [A simple 16x16 dot animation from simple math rules](https://tixy.land)
-* [2025-05-10, 00:45:47](https://news.ycombinator.com/item?id=43942318) - [Charles Bukowski, William Burroughs, and the Computer (2009)](https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/)
 * [2025-05-10, 00:37:48](https://news.ycombinator.com/item?id=43942279) - [Brandon's Semiconductor Simulator](https://brandonli.net/semisim/)
 * [2025-05-10, 00:13:38](https://news.ycombinator.com/item?id=43942149) - [WebGL Water (2010)](https://madebyevan.com/webgl-water/)
-* [2025-05-09, 22:42:05](https://news.ycombinator.com/item?id=43941598) - [Fleurs du Mal](https://fleursdumal.org)
 * [2025-05-09, 20:51:45](https://news.ycombinator.com/item?id=43940747) - [Business books are entertainment, not strategic tools](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste)
 * [2025-05-09, 14:31:20](https://news.ycombinator.com/item?id=43937214) - [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
 * [2025-05-09, 13:18:42](https://news.ycombinator.com/item?id=43936408) - [Sofie: open-source web based system for automating live TV news production](https://nrkno.github.io/sofie-core/)
