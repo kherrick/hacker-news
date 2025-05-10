@@ -11,6 +11,7 @@
 * [2025-05-07, 22:43:32](https://news.ycombinator.com/item?id=43921265) - [Doctors Warn Accountants of Private-Equity Drain on Quality: You Could Be Next](https://www.wsj.com/articles/doctors-warn-accountants-of-private-equity-drain-on-quality-you-could-be-next-1be0f0fd)
 * [2025-05-07, 22:25:54](https://news.ycombinator.com/item?id=43921129) - [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/)
 * [2025-05-07, 21:48:08](https://news.ycombinator.com/item?id=43920889) - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
+* [2025-05-07, 21:37:05](https://news.ycombinator.com/item?id=43920815) - [LLMs for Materials and Chemistry: 34 Real-World Examples](https://arxiv.org/abs/2505.03049)
 * [2025-05-07, 21:34:06](https://news.ycombinator.com/item?id=43920792) - [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal.](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2025-05-07, 21:05:36](https://news.ycombinator.com/item?id=43920555) - [OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
 * [2025-05-07, 21:04:39](https://news.ycombinator.com/item?id=43920544) - ['I paid for the whole GPU, I am going to use the whole GPU'](https://modal.com/blog/gpu-utilization-guide)

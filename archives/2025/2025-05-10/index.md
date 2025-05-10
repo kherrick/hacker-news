@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 20:18:19](https://news.ycombinator.com/item?id=43948633) - [Show HN: PLAttice, for assembling structures much larger than the 3D printer bed](https://zachfred.in/projects/plattice/plattice.html)
 * [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
 * [2025-05-10, 19:11:10](https://news.ycombinator.com/item?id=43948077) - [AI AI is draining water from areas that need it most](https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data)
 * [2025-05-10, 19:07:32](https://news.ycombinator.com/item?id=43948050) - [Email Forwarding for Your Domain](https://mailwip.com)

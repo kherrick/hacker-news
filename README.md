@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-10, 20:18:19](https://news.ycombinator.com/item?id=43948633) - [Show HN: PLAttice, for assembling structures much larger than the 3D printer bed](https://zachfred.in/projects/plattice/plattice.html)
+* [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
 * [2025-05-10, 19:11:10](https://news.ycombinator.com/item?id=43948077) - [AI is draining water from areas that need it most](https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data)
 * [2025-05-10, 19:07:32](https://news.ycombinator.com/item?id=43948050) - [Email Forwarding for Your Domain](https://mailwip.com)
 * [2025-05-10, 18:05:09](https://news.ycombinator.com/item?id=43947630) - [For $595, you get what nobody else can give you for twice the price (1982) [pdf]](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf)
@@ -14,7 +16,6 @@
 * [2025-05-10, 14:15:56](https://news.ycombinator.com/item?id=43945820) - [US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 * [2025-05-10, 13:02:55](https://news.ycombinator.com/item?id=43945293) - [React Three Ecosystem](https://www.react-three.org/)
 * [2025-05-10, 12:16:05](https://news.ycombinator.com/item?id=43945041) - [Radxa Orion O6 brings Arm to the midrange PC (with caveats)](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
-* [2025-05-10, 11:59:10](https://news.ycombinator.com/item?id=43944974) - [LTXVideo 13B AI video generation](https://ltxv.video/)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944790) - [Intel: Winning and Losing](https://www.abortretry.fail/p/intel-winning-and-losing)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944789) - [Embracer Games Archive is preserving 75000 video games and needs contributions](https://embracergamesarchive.com/)
 * [2025-05-10, 10:04:47](https://news.ycombinator.com/item?id=43944467) - [The Deathbed Fallacy (2018)](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html)
@@ -25,10 +26,9 @@
 * [2025-05-08, 13:41:23](https://news.ycombinator.com/item?id=43926029) - [Adventures in Imbalanced Learning and Class Weight](http://andersource.dev/2025/05/05/imbalanced-learning.html)
 * [2025-05-08, 12:17:08](https://news.ycombinator.com/item?id=43925396) - [The Price of Remission](https://www.propublica.org/article/revlimid-price-cancer-celgene-drugs-fda-multiple-myeloma)
 * [2025-05-08, 11:32:01](https://news.ycombinator.com/item?id=43925132) - [Prolog's Eternal September (2017)](https://storytotell.org/prologs-eternal-september)
+* [2025-05-07, 21:37:05](https://news.ycombinator.com/item?id=43920815) - [LLMs for Materials and Chemistry: 34 Real-World Examples](https://arxiv.org/abs/2505.03049)
 * [2025-05-07, 20:23:14](https://news.ycombinator.com/item?id=43920212) - [Show HN: Sprigman – Pac-Man Recreated in a Limited Tile Based JavaScript Engine](https://sprig.hackclub.com/share/X4EGvOFk1q8FroEPCj1G)
-* [2025-05-07, 15:01:46](https://news.ycombinator.com/item?id=43916622) - [Detect and crash Chromium bots](https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/)
 * [2025-05-07, 09:31:53](https://news.ycombinator.com/item?id=43913705) - [Private Japanese lunar lander enters orbit around moon ahead of a June touchdown](https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html)
-* [2025-05-07, 01:39:34](https://news.ycombinator.com/item?id=43911421) - [Loss of dance and infant-directed song among the Northern Aché](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00447-6)
 * [2025-05-06, 20:48:41](https://news.ycombinator.com/item?id=43909487) - [Building Local-First Flutter Apps with Riverpod, Drift, and PowerSync](https://dinkomarinac.dev/building-local-first-flutter-apps-with-riverpod-drift-and-powersync)
 
 ## [Archives](archives/index.md)
