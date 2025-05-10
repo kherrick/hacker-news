@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 17:04:25](https://news.ycombinator.com/item?id=43947161) - [Simon Willison's first blog on LLMs (2022)](https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/)
 * [2025-05-10, 17:00:39](https://news.ycombinator.com/item?id=43947137) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-05-10, 16:23:06](https://news.ycombinator.com/item?id=43946824) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 * [2025-05-10, 16:14:55](https://news.ycombinator.com/item?id=43946766) - [Sam Altman Wants Your Eyeball](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/)
