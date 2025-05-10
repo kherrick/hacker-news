@@ -30,6 +30,7 @@
 * [2025-05-07, 17:32:26](https://news.ycombinator.com/item?id=43918484) - [Ty: A fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
 * [2025-05-07, 17:28:25](https://news.ycombinator.com/item?id=43918437) - [Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html)
 * [2025-05-07, 17:27:33](https://news.ycombinator.com/item?id=43918425) - [Tariffs Killed Arduboy](https://community.arduboy.com/t/tariffs-killed-arduboy/12675)
+* [2025-05-07, 17:20:41](https://news.ycombinator.com/item?id=43918352) - [Some novelists are becoming video game writers – and vice-versa](https://www.theguardian.com/games/2025/apr/30/novelists-video-game-writers)
 * [2025-05-07, 17:11:03](https://news.ycombinator.com/item?id=43918237) - [Asyncio Demystified: Rebuilding It from Scratch One Yield at a Time](https://dev.indooroutdoor.io/asyncio-demystified-rebuilding-it-from-scratch-one-yield-at-a-time)
 * [2025-05-07, 17:01:45](https://news.ycombinator.com/item?id=43918134) - [Motion (YC W20) Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2025-05-07, 16:41:04](https://news.ycombinator.com/item?id=43917855) - [Getting Older Isn't What You Think](https://www.katycowan.co.uk/blog/getting-old)

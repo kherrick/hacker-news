@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 23:22:20](https://news.ycombinator.com/item?id=43941862) - [PlainBudget – Minimalist Plain Text Budgeting](https://plainbudget.com/)
 * [2025-05-09, 22:44:05](https://news.ycombinator.com/item?id=43941608) - [Using Git-upload-pack for a simpler CI integration](https://blog.screenshotbot.io/2025/05/09/using-git-upload-pack-for-a-simpler-ci-integration/)
 * [2025-05-09, 22:42:05](https://news.ycombinator.com/item?id=43941598) - [Charles Baudelaire's Flowers of Evil](https://fleursdumal.org)
 * [2025-05-09, 22:41:25](https://news.ycombinator.com/item?id=43941596) - [Social drinking also a well-worn path to alcohol use disorder](https://news.illinois.edu/review-social-drinking-also-a-well-worn-path-to-alcohol-use-disorder/)
 * [2025-05-09, 21:05:59](https://news.ycombinator.com/item?id=43940865) - [Era of U.S. dollar may be winding down](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/)
+* [2025-05-09, 20:51:45](https://news.ycombinator.com/item?id=43940747) - [Business books are entertainment, not strategic tools](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste)
 * [2025-05-09, 20:20:52](https://news.ycombinator.com/item?id=43940539) - [What's New in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
 * [2025-05-09, 20:15:53](https://news.ycombinator.com/item?id=43940500) - [Google Doc Templates for Startups](https://www.templatesbypaul.com/)
 * [2025-05-09, 20:08:27](https://news.ycombinator.com/item?id=43940452) - [Graphcore unveils GC200 and M2000 IPU Machine–1 petaFLOP \"pizza box\" AI server](https://www.graphcore.ai/articles/graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them)
