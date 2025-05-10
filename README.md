@@ -25,7 +25,7 @@
 * [2025-05-08, 19:15:49](https://news.ycombinator.com/item?id=43930187) - [The Screamer – A yell-on yell-off light](https://rulethepla.net/the-screamer/)
 * [2025-05-08, 17:42:33](https://news.ycombinator.com/item?id=43928942) - [How much information is in DNA?](https://dynomight.substack.com/p/dna)
 * [2025-05-08, 13:50:38](https://news.ycombinator.com/item?id=43926097) - [6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual](https://www.pagetable.com/?p=1798)
-* [2025-05-07, 15:01:46](https://news.ycombinator.com/item?id=43916622) - [Detect and crash Chromium bots with one weird trick (bots hate it)](https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/)
+* [2025-05-07, 15:01:46](https://news.ycombinator.com/item?id=43916622) - [Detect and crash Chromium bots](https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/)
 * [2025-05-07, 12:35:23](https://news.ycombinator.com/item?id=43914852) - [Stratolaunch Successfully Completes Reusable Hypersonic Flight and Recovery](https://www.stratolaunch.com/news/stratolaunch-successfully-completes-reusable-hypersonic-flight-and-recovery-with-talon-a2-vehicle/)
 * [2025-05-07, 12:30:38](https://news.ycombinator.com/item?id=43914807) - [Spanish Shipwreck Reveals Evidence of Earliest Known Pet Cats to Arrive in US](https://www.smithsonianmag.com/smart-news/spanish-shipwreck-reveals-evidence-of-earliest-known-pet-cats-to-arrive-in-the-united-states-180986560/)
 * [2025-05-07, 09:31:53](https://news.ycombinator.com/item?id=43913705) - [Private Japanese lunar lander enters orbit around moon ahead of a June touchdown](https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html)
