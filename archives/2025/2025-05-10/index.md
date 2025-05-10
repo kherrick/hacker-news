@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 21:42:55](https://news.ycombinator.com/item?id=43949238) - [Sierpiński Triangle? In My Bitwise and?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
+* [2025-05-10, 21:21:41](https://news.ycombinator.com/item?id=43949108) - [Everyone Is Cheating Their Way Through College](https://www.msn.com/en-us/news/technology/everyone-is-cheating-their-way-through-college/ar-AA1EjCRk)
 * [2025-05-10, 20:58:27](https://news.ycombinator.com/item?id=43948945) - [Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants](https://github.com/blackrabbit17/xenolab)
 * [2025-05-10, 20:18:19](https://news.ycombinator.com/item?id=43948633) - [Show HN: PLAttice, for assembling structures much larger than the 3D printer bed](https://zachfred.in/projects/plattice/plattice.html)
 * [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)

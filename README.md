@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-10, 21:42:55](https://news.ycombinator.com/item?id=43949238) - [Sierpiński Triangle? In My Bitwise and?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
+* [2025-05-10, 21:21:41](https://news.ycombinator.com/item?id=43949108) - [Everyone Is Cheating Their Way Through College](https://www.msn.com/en-us/news/technology/everyone-is-cheating-their-way-through-college/ar-AA1EjCRk)
 * [2025-05-10, 20:58:27](https://news.ycombinator.com/item?id=43948945) - [Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants](https://github.com/blackrabbit17/xenolab)
 * [2025-05-10, 20:18:19](https://news.ycombinator.com/item?id=43948633) - [Show HN: PLAttice, for assembling structures much larger than the 3D printer bed](https://zachfred.in/projects/plattice/plattice.html)
 * [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
@@ -25,8 +27,6 @@
 * [2025-05-08, 13:41:23](https://news.ycombinator.com/item?id=43926029) - [Adventures in Imbalanced Learning and Class Weight](http://andersource.dev/2025/05/05/imbalanced-learning.html)
 * [2025-05-08, 12:17:08](https://news.ycombinator.com/item?id=43925396) - [The Price of Remission](https://www.propublica.org/article/revlimid-price-cancer-celgene-drugs-fda-multiple-myeloma)
 * [2025-05-08, 11:32:01](https://news.ycombinator.com/item?id=43925132) - [Prolog's Eternal September (2017)](https://storytotell.org/prologs-eternal-september)
-* [2025-05-07, 21:37:05](https://news.ycombinator.com/item?id=43920815) - [LLMs for Materials and Chemistry: 34 Real-World Examples](https://arxiv.org/abs/2505.03049)
-* [2025-05-07, 20:23:14](https://news.ycombinator.com/item?id=43920212) - [Show HN: Sprigman – Pac-Man Recreated in a Limited Tile Based JavaScript Engine](https://sprig.hackclub.com/share/X4EGvOFk1q8FroEPCj1G)
 * [2025-05-07, 09:31:53](https://news.ycombinator.com/item?id=43913705) - [Private Japanese lunar lander enters orbit around moon ahead of a June touchdown](https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html)
 * [2025-05-07, 05:50:15](https://news.ycombinator.com/item?id=43912618) - [Internet Roadtrip: Vote to steer](https://neal.fun/internet-roadtrip/)
 * [2025-05-06, 20:48:41](https://news.ycombinator.com/item?id=43909487) - [Building Local-First Flutter Apps with Riverpod, Drift, and PowerSync](https://dinkomarinac.dev/building-local-first-flutter-apps-with-riverpod-drift-and-powersync)
