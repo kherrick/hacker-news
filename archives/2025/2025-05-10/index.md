@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 16:23:06](https://news.ycombinator.com/item?id=43946824) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 * [2025-05-10, 15:35:24](https://news.ycombinator.com/item?id=43946498) - ['It cannot provide nuance': UK experts warn AI therapy chatbots are not safe](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use)
 * [2025-05-10, 15:31:03](https://news.ycombinator.com/item?id=43946461) - [Ancient humans used sunscreen to survive a deadly magnetic pole shift](https://newatlas.com/history/ancient-humans-ochre-sunscreen-magnetic-pole-shift/)
 * [2025-05-10, 15:21:00](https://news.ycombinator.com/item?id=43946363) - [Farewell to Lee Gold's Alarums and Excursions](https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/)
