@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-10, 17:04:25](https://news.ycombinator.com/item?id=43947161) - [Simon Willison's first blog on LLMs (2022)](https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/)
 * [2025-05-10, 17:00:39](https://news.ycombinator.com/item?id=43947137) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-05-10, 16:23:06](https://news.ycombinator.com/item?id=43946824) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 * [2025-05-10, 16:14:55](https://news.ycombinator.com/item?id=43946766) - [Sam Altman Wants Your Eyeball](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/)
@@ -12,6 +11,7 @@
 * [2025-05-10, 14:37:59](https://news.ycombinator.com/item?id=43945993) - [A Critical Look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 * [2025-05-10, 14:15:56](https://news.ycombinator.com/item?id=43945820) - [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 * [2025-05-10, 13:02:55](https://news.ycombinator.com/item?id=43945293) - [React Three Ecosystem](https://www.react-three.org/)
+* [2025-05-10, 12:39:45](https://news.ycombinator.com/item?id=43945162) - [The cult of doing business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
 * [2025-05-10, 12:16:05](https://news.ycombinator.com/item?id=43945041) - [Radxa Orion O6 brings Arm to the midrange PC (with caveats)](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
 * [2025-05-10, 11:59:10](https://news.ycombinator.com/item?id=43944974) - [LTXVideo 13B AI video generation](https://ltxv.video/)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944790) - [Intel: Winning and Losing](https://www.abortretry.fail/p/intel-winning-and-losing)
