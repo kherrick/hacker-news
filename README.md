@@ -26,10 +26,10 @@
 * [2025-05-08, 11:32:01](https://news.ycombinator.com/item?id=43925132) - [Prolog's Eternal September (2017)](https://storytotell.org/prologs-eternal-september)
 * [2025-05-07, 20:23:14](https://news.ycombinator.com/item?id=43920212) - [Show HN: Sprigman – Pac-Man Recreated in a Limited Tile Based JavaScript Engine](https://sprig.hackclub.com/share/X4EGvOFk1q8FroEPCj1G)
 * [2025-05-07, 15:01:46](https://news.ycombinator.com/item?id=43916622) - [Detect and crash Chromium bots](https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/)
-* [2025-05-07, 12:30:53](https://news.ycombinator.com/item?id=43914810) - [Fixrleak: Fixing Java Resource Leaks with GenAI](https://www.uber.com/en-IL/blog/fixrleak-fixing-java-resource-leaks-with-genai/)
 * [2025-05-07, 09:31:53](https://news.ycombinator.com/item?id=43913705) - [Private Japanese lunar lander enters orbit around moon ahead of a June touchdown](https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html)
 * [2025-05-07, 05:50:15](https://news.ycombinator.com/item?id=43912618) - [Internet Roadtrip: Vote to steer](https://neal.fun/internet-roadtrip/)
 * [2025-05-07, 01:39:34](https://news.ycombinator.com/item?id=43911421) - [Loss of dance and infant-directed song among the Northern Aché](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00447-6)
+* [2025-05-06, 20:48:41](https://news.ycombinator.com/item?id=43909487) - [Building Local-First Flutter Apps with Riverpod, Drift, and PowerSync](https://dinkomarinac.dev/building-local-first-flutter-apps-with-riverpod-drift-and-powersync)
 
 ## [Archives](archives/index.md)
 
