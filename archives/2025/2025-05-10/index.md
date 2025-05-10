@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
 * [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
+* [2025-05-10, 19:11:10](https://news.ycombinator.com/item?id=43948077) - [AI AI is draining water from areas that need it most](https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data)
 * [2025-05-10, 18:38:56](https://news.ycombinator.com/item?id=43947850) - [DOGE Is Bringing Back a Deadly Disease](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/)
 * [2025-05-10, 18:20:54](https://news.ycombinator.com/item?id=43947731) - [Update turns Google Gemini into a prude, breaking apps for trauma survivors](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/)
 * [2025-05-10, 18:14:29](https://news.ycombinator.com/item?id=43947690) - [Even Tesla's Insurance Arm Is Getting Wrecked](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/)
