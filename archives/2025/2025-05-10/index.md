@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 11:59:10](https://news.ycombinator.com/item?id=43944974) - [LTXVideo 13B AI video generation](https://ltxv.video/)
+* [2025-05-10, 11:24:36](https://news.ycombinator.com/item?id=43944809) - [The Fallacy of Techno-Feudalism](https://petrapalusova.com/articles/tech-platforms-digital-economy-techno-feudalism)
+* [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944790) - [Intel: Winning and Losing](https://www.abortretry.fail/p/intel-winning-and-losing)
 * [2025-05-10, 08:45:59](https://news.ycombinator.com/item?id=43944167) - [Cosmos 482 Descent Craft tracker](http://astria.tacc.utexas.edu/AstriaGraph/)
 * [2025-05-10, 08:43:27](https://news.ycombinator.com/item?id=43944154) - [CT scans show cigarettes are harder on the lungs than marijuana](https://healthimaging.com/topics/medical-imaging/computed-tomography-ct/ct-scans-dont-lie-cigarettes-are-harder-lungs-marijuana)
 * [2025-05-10, 08:12:05](https://news.ycombinator.com/item?id=43944016) - [After 16 years, we're renewing the StackOverflow Brand](https://meta.stackexchange.com/questions/408823/after-16-years-we-re-renewing-the-brand)
