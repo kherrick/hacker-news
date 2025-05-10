@@ -47,6 +47,7 @@
 * [2025-05-07, 13:43:10](https://news.ycombinator.com/item?id=43915586) - [Mississippi Can't Possibly Have Good Schools](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good)
 * [2025-05-07, 13:00:22](https://news.ycombinator.com/item?id=43915070) - [U.S. Jury Orders NSO Group to Pay $168M in WhatsApp Spyware Case](https://techoreon.com/us-jury-nso-group-pay-whatsapp-168-million-spyware/)
 * [2025-05-07, 12:38:14](https://news.ycombinator.com/item?id=43914876) - [Richest 10 Percent Responsible for Two-Thirds of Warming](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming)
+* [2025-05-07, 12:35:23](https://news.ycombinator.com/item?id=43914852) - [Stratolaunch Successfully Completes Reusable Hypersonic Flight and Recovery](https://www.stratolaunch.com/news/stratolaunch-successfully-completes-reusable-hypersonic-flight-and-recovery-with-talon-a2-vehicle/)
 * [2025-05-07, 12:33:51](https://news.ycombinator.com/item?id=43914834) - [Everyone Is Cheating Their Way Through College](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html)
 * [2025-05-07, 12:33:40](https://news.ycombinator.com/item?id=43914832) - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2025-05-07, 12:27:40](https://news.ycombinator.com/item?id=43914784) - [Using tests as a debugging tool for logic errors](https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/)
