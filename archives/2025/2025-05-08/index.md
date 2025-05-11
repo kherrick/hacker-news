@@ -16,6 +16,7 @@
 * [2025-05-08, 20:58:37](https://news.ycombinator.com/item?id=43931285) - [How the US Built 5k Ships in WWII](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii)
 * [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:07:00](https://news.ycombinator.com/item?id=43930757) - [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
+* [2025-05-08, 20:04:48](https://news.ycombinator.com/item?id=43930725) - [A brief history of the numeric keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad)
 * [2025-05-08, 19:51:29](https://news.ycombinator.com/item?id=43930584) - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 * [2025-05-08, 19:48:08](https://news.ycombinator.com/item?id=43930554) - [Show HN: Extension for full-text browser history search](https://rearview-ai.vercel.app/)
 * [2025-05-08, 19:34:36](https://news.ycombinator.com/item?id=43930397) - [How to start a school with your friends](https://prigoose.substack.com/p/how-to-start-a-university)
