@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-11, 19:57:48",
+      "https://news.ycombinator.com/item?id=43956630"
+    ],
+    [
+      "The Paradoxes of Feminine Muscle",
+      "https://www.newyorker.com/culture/critics-notebook/the-paradoxes-of-feminine-muscle"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 18:59:47",
       "https://news.ycombinator.com/item?id=43956115"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-05-09, 01:08:50",
-      "https://news.ycombinator.com/item?id=43932913"
-    ],
-    [
-      "Show HN: AI-powered batch photo editor for real estate photographers",
-      "https://4ditor.com/"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 01:00:53",
       "https://news.ycombinator.com/item?id=43932871"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-05-08, 09:32:57",
+      "https://news.ycombinator.com/item?id=43924560"
+    ],
+    [
+      "SDFs and the Fast sweeping algorithm in Jax",
+      "https://rohangautam.github.io/blog/fast_sweeping/fastsweeping/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 08:14:38",
       "https://news.ycombinator.com/item?id=43924178"
     ],
@@ -287,16 +297,6 @@
     [
       "An Introduction to Solid Queue for Ruby on Rails",
       "https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 15:15:50",
-      "https://news.ycombinator.com/item?id=43916818"
-    ],
-    [
-      "Is there a balance to be struck between simple hierarchical models and",
-      "https://statmodeling.stat.columbia.edu/2024/05/26/is-there-a-balance-to-be-struck-between-simple-hierarchical-models-and-more-complex-hierarchical-models-that-augment-the-simple-frameworks-with-more-modeled-interactions-when-analyzing-real-data/"
     ]
   ]
 ]
