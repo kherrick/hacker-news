@@ -70,6 +70,7 @@
 * [2025-05-07, 07:00:04](https://news.ycombinator.com/item?id=43912944) - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer)
 * [2025-05-07, 06:38:40](https://news.ycombinator.com/item?id=43912844) - [Zed: The Fastest AI Code Editor](https://zed.dev/blog/fastest-ai-code-editor)
 * [2025-05-07, 05:50:15](https://news.ycombinator.com/item?id=43912618) - [Internet Roadtrip: Vote to steer](https://neal.fun/internet-roadtrip/)
+* [2025-05-07, 04:06:10](https://news.ycombinator.com/item?id=43912164) - [The State of SSL Stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 * [2025-05-07, 01:42:37](https://news.ycombinator.com/item?id=43911440) - [Show HN: Agents.erl (AI Agents in Erlang)](https://github.com/arthurcolle/agents.erl)
 * [2025-05-07, 01:39:34](https://news.ycombinator.com/item?id=43911421) - [Loss of dance and infant-directed song among the Northern ACHé](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00447-6)
 * [2025-05-07, 01:11:10](https://news.ycombinator.com/item?id=43911252) - [EPA Plans to Shut Down the Energy Star Program](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html)
