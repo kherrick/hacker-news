@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-11, 04:26:33](https://news.ycombinator.com/item?id=43951368) - [Fan Service](https://flak.tedunangst.com/post/fan-service)
-* [2025-05-11, 03:53:54](https://news.ycombinator.com/item?id=43951218) - [Tufts graduate student Rümeysa Öztürk released from immigration detention](https://www.npr.org/2025/05/09/nx-s1-5393055/tufts-student-rumeysa-ozturk-ordered-freed-from-immigration-detention)
 * [2025-05-11, 01:38:00](https://news.ycombinator.com/item?id=43950525) - [Dotless Domains](https://lab.avl.la/dotless/)
 * [2025-05-11, 00:00:14](https://news.ycombinator.com/item?id=43950046) - [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
 * [2025-05-10, 23:24:18](https://news.ycombinator.com/item?id=43949855) - [The History and Legacy of Visual Basic](https://retool.com/visual-basic)
@@ -27,6 +26,7 @@
 * [2025-05-08, 15:30:30](https://news.ycombinator.com/item?id=43927095) - [Arduino is at work to make bio-based PCBs](https://blog.arduino.cc/2025/04/22/arduino-is-at-work-to-make-bio-based-pcbs/)
 * [2025-05-08, 14:58:41](https://news.ycombinator.com/item?id=43926713) - [When Suno covers my song (very useful) – a study with variations](http://rochus-keller.ch/?p=1350)
 * [2025-05-08, 13:41:23](https://news.ycombinator.com/item?id=43926029) - [Adventures in Imbalanced Learning and Class Weight](http://andersource.dev/2025/05/05/imbalanced-learning.html)
+* [2025-05-07, 17:32:14](https://news.ycombinator.com/item?id=43918478) - [Engineers develop wearable heart attack detection technology](https://medicalxpress.com/news/2025-04-wearable-heart-technology.html)
 * [2025-05-07, 13:32:24](https://news.ycombinator.com/item?id=43915470) - [Strain gauge made out of PCB](https://github.com/vapetrov/PCB_strain_gauge)
 * [2025-05-07, 04:06:10](https://news.ycombinator.com/item?id=43912164) - [The State of SSL Stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 * [2025-05-07, 00:51:01](https://news.ycombinator.com/item?id=43911152) - [Eagle Hunters of Kyrgyzstan](https://magazine.atavist.com/the-eagle-hunters-of-kyrgyzstan-world-nomad-games/)

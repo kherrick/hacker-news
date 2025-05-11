@@ -32,6 +32,7 @@
 * [2025-05-07, 17:43:06](https://news.ycombinator.com/item?id=43918600) - [Three Chapters at Cloudflare: Programmer to CTO to Board of Directors](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/)
 * [2025-05-07, 17:42:56](https://news.ycombinator.com/item?id=43918596) - [Social AI companions pose unacceptable risks to teens and children under 18](https://www.commonsensemedia.org/ai-ratings/social-ai-companions)
 * [2025-05-07, 17:32:26](https://news.ycombinator.com/item?id=43918484) - [Ty: A fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
+* [2025-05-07, 17:32:14](https://news.ycombinator.com/item?id=43918478) - [Engineers develop wearable heart attack detection technology](https://medicalxpress.com/news/2025-04-wearable-heart-technology.html)
 * [2025-05-07, 17:28:25](https://news.ycombinator.com/item?id=43918437) - [Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html)
 * [2025-05-07, 17:27:33](https://news.ycombinator.com/item?id=43918425) - [Tariffs Killed Arduboy](https://community.arduboy.com/t/tariffs-killed-arduboy/12675)
 * [2025-05-07, 17:20:41](https://news.ycombinator.com/item?id=43918352) - [Some novelists are becoming video game writers – and vice-versa](https://www.theguardian.com/games/2025/apr/30/novelists-video-game-writers)
