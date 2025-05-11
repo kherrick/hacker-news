@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 12:08:24](https://news.ycombinator.com/item?id=43953229) - [A Rust Documentation Ecosystem Review](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
 * [2025-05-11, 12:01:16](https://news.ycombinator.com/item?id=43953200) - [Roame (YC S23) Is Hiring Lead Fullstack Engineer](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer)
 * [2025-05-11, 11:38:54](https://news.ycombinator.com/item?id=43953092) - [Ask HN: What will tech employment look like in 10 years?](https://news.ycombinator.com/item?id=43953092)
 * [2025-05-11, 10:41:22](https://news.ycombinator.com/item?id=43952851) - [Jony Ive's next product is driven by the 'unintended consequences' of the iPhone](https://www.theverge.com/news/664131/jony-ive-unintended-consequences-iphone-new-product)
+* [2025-05-11, 10:15:08](https://news.ycombinator.com/item?id=43952746) - [Zig, the Ideal C Replacement Or?](http://bitshifters.cc/2025/05/04/zig.html)
 * [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
 * [2025-05-11, 10:07:22](https://news.ycombinator.com/item?id=43952707) - [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df)
+* [2025-05-11, 08:50:00](https://news.ycombinator.com/item?id=43952396) - [A first successful factorization of RSA-2048 integer by D-Wave quantum computer](https://www.sciopen.com/article/10.26599/TST.2024.9010028)
 * [2025-05-11, 08:14:50](https://news.ycombinator.com/item?id=43952254) - [Most AI spending driven by FOMO, not ROI, CEOs tell IBM](https://www.theregister.com/2025/05/06/ibm_ai_investments/)
 * [2025-05-11, 07:07:26](https://news.ycombinator.com/item?id=43951985) - [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 * [2025-05-11, 06:56:49](https://news.ycombinator.com/item?id=43951943) - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
