@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-05-11, 17:01:13",
-      "https://news.ycombinator.com/item?id=43955117"
-    ],
-    [
-      "Elizabeth Holmes's lover raises millions for blood-testing startup",
-      "https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 17:00:00",
       "https://news.ycombinator.com/item?id=43955106"
     ],
@@ -47,6 +37,26 @@
     [
       "Plain Vanilla Web – Guide for de-frameworking yourself",
       "https://plainvanillaweb.com/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-11, 16:22:05",
+      "https://news.ycombinator.com/item?id=43954810"
+    ],
+    [
+      "An $18M grant would have drastically reduced food waste. Then the EPA cut it",
+      "https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/"
+    ]
+  ],
+  [
+    [
+      "2025-05-11, 15:57:39",
+      "https://news.ycombinator.com/item?id=43954649"
+    ],
+    [
+      "I built a native Windows Todo app in pure C (278 KB, no frameworks)",
+      "https://github.com/Efeckc17/simple-todo-c"
     ]
   ],
   [
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2025-05-11, 14:02:12",
-      "https://news.ycombinator.com/item?id=43953884"
+      "2025-05-11, 14:26:49",
+      "https://news.ycombinator.com/item?id=43954054"
     ],
     [
-      "In 2025, venture capital can't pretend everything is fine any more",
-      "https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/"
+      "Booting the RP2350 from UART",
+      "https://pfister.dev/blog/2025/rp2350-uart-bl.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Build iOS Apps on Linux and Windows (WSL)",
       "https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 07:07:26",
-      "https://news.ycombinator.com/item?id=43951985"
-    ],
-    [
-      "Absolute Zero: Reinforced Self-Play Reasoning with Zero Data",
-      "https://arxiv.org/abs/2505.03335"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-05-10, 14:37:59",
-      "https://news.ycombinator.com/item?id=43945993"
-    ],
-    [
-      "A critical look at MCP",
-      "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 14:15:56",
       "https://news.ycombinator.com/item?id=43945820"
     ],
@@ -257,6 +247,16 @@
     [
       "How to (actually) prove it – New Frontiers of Mathematics and Computing in Lean",
       "https://kirancodes.me/posts/log-how-to-prove-it-maths.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 00:26:28",
+      "https://news.ycombinator.com/item?id=43932690"
+    ],
+    [
+      "Coupling furfural oxidation for H2 production using silicon photoelectrodes",
+      "https://www.nature.com/articles/s41467-025-58000-4"
     ]
   ],
   [
