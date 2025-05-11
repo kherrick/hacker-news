@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-11, 08:14:50](https://news.ycombinator.com/item?id=43952254) - [Most AI spending driven by FOMO, not ROI, CEOs tell IBM](https://www.theregister.com/2025/05/06/ibm_ai_investments/)
 * [2025-05-11, 06:56:49](https://news.ycombinator.com/item?id=43951943) - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
 * [2025-05-11, 06:26:37](https://news.ycombinator.com/item?id=43951841) - [Show HN: I’m 16 years old and working on my first startup, a study app](https://www.notiv.app/)
 * [2025-05-11, 05:58:01](https://news.ycombinator.com/item?id=43951737) - [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
@@ -30,6 +29,7 @@
 * [2025-05-07, 13:32:24](https://news.ycombinator.com/item?id=43915470) - [Strain gauge made out of PCB](https://github.com/vapetrov/PCB_strain_gauge)
 * [2025-05-07, 08:36:57](https://news.ycombinator.com/item?id=43913414) - [Lazarus Release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
 * [2025-05-07, 04:06:10](https://news.ycombinator.com/item?id=43912164) - [The State of SSL Stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
+* [2025-05-07, 00:51:01](https://news.ycombinator.com/item?id=43911152) - [Eagle Hunters of Kyrgyzstan](https://magazine.atavist.com/the-eagle-hunters-of-kyrgyzstan-world-nomad-games/)
 
 ## [Archives](archives/index.md)
 
