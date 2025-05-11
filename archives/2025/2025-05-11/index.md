@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 04:26:33](https://news.ycombinator.com/item?id=43951368) - [Fan Service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 03:53:54](https://news.ycombinator.com/item?id=43951218) - [Tufts graduate student Rümeysa Öztürk released from immigration detention](https://www.npr.org/2025/05/09/nx-s1-5393055/tufts-student-rumeysa-ozturk-ordered-freed-from-immigration-detention)
 * [2025-05-11, 03:01:56](https://news.ycombinator.com/item?id=43950976) - [Ian Lance Taylor of the Go Team Leaves Google](https://www.airs.com/blog/archives/670)
 * [2025-05-11, 01:38:00](https://news.ycombinator.com/item?id=43950525) - [Dotless Domains](https://lab.avl.la/dotless/)
