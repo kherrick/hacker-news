@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 20:09:04](https://news.ycombinator.com/item?id=43956723) - [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
+* [2025-05-11, 20:05:28](https://news.ycombinator.com/item?id=43956701) - [The Myth of the Genius Hacker](https://www.ft.com/content/55221f2d-00b3-4856-9158-dfdd0263bd0c)
 * [2025-05-11, 18:59:47](https://news.ycombinator.com/item?id=43956115) - [2024 sea level 'report cards' map futures of U.S. coastal communities](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/)
 * [2025-05-11, 18:57:07](https://news.ycombinator.com/item?id=43956095) - [Why not object capability languages?](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682)
 * [2025-05-11, 18:29:18](https://news.ycombinator.com/item?id=43955842) - [Scraperr – A Self Hosted Webscraper](https://github.com/jaypyles/Scraperr)
