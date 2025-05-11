@@ -7,6 +7,7 @@
 * [2025-05-11, 04:26:33](https://news.ycombinator.com/item?id=43951368) - [Fan Service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 03:53:54](https://news.ycombinator.com/item?id=43951218) - [Tufts graduate student Rümeysa Öztürk released from immigration detention](https://www.npr.org/2025/05/09/nx-s1-5393055/tufts-student-rumeysa-ozturk-ordered-freed-from-immigration-detention)
 * [2025-05-11, 03:01:56](https://news.ycombinator.com/item?id=43950976) - [Ian Lance Taylor of the Go Team Leaves Google](https://www.airs.com/blog/archives/670)
+* [2025-05-11, 02:36:47](https://news.ycombinator.com/item?id=43950834) - [The AUCTUS A6: the chip enabling inexpensive DMR Radio (2021)](https://jhart99.com/auctus-a6/)
 * [2025-05-11, 02:13:49](https://news.ycombinator.com/item?id=43950709) - [NetBSD 10.x Kernel Math_emulation](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
 * [2025-05-11, 01:38:00](https://news.ycombinator.com/item?id=43950525) - [Dotless Domains](https://lab.avl.la/dotless/)
 * [2025-05-11, 00:51:00](https://news.ycombinator.com/item?id=43950294) - [Ireland given two months to implement hate speech laws or face action from EU](https://www.thejournal.ie/ireland-given-two-months-to-start-implementing-hate-speech-laws-6697853-May2025/)
