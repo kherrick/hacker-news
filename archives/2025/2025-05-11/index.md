@@ -6,6 +6,7 @@
 
 * [2025-05-11, 06:56:49](https://news.ycombinator.com/item?id=43951943) - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
 * [2025-05-11, 06:26:37](https://news.ycombinator.com/item?id=43951841) - [Im 16 y/o working on my first statup](https://www.notiv.app/)
+* [2025-05-11, 05:58:01](https://news.ycombinator.com/item?id=43951737) - [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
 * [2025-05-11, 04:26:33](https://news.ycombinator.com/item?id=43951368) - [Fan Service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 03:53:54](https://news.ycombinator.com/item?id=43951218) - [Tufts graduate student Rümeysa Öztürk released from immigration detention](https://www.npr.org/2025/05/09/nx-s1-5393055/tufts-student-rumeysa-ozturk-ordered-freed-from-immigration-detention)

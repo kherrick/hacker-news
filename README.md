@@ -2,6 +2,7 @@
 
 * [2025-05-11, 06:56:49](https://news.ycombinator.com/item?id=43951943) - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
 * [2025-05-11, 06:26:37](https://news.ycombinator.com/item?id=43951841) - [Show HN: I’m 16 years old and working on my first startup, a study app](https://www.notiv.app/)
+* [2025-05-11, 05:58:01](https://news.ycombinator.com/item?id=43951737) - [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
 * [2025-05-11, 04:26:33](https://news.ycombinator.com/item?id=43951368) - [Fan Service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 02:13:49](https://news.ycombinator.com/item?id=43950709) - [NetBSD 10.x Kernel Math_emulation](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
@@ -12,7 +13,6 @@
 * [2025-05-10, 21:25:21](https://news.ycombinator.com/item?id=43949134) - [Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass](https://github.com/danielcota/LoopMix128)
 * [2025-05-10, 21:15:04](https://news.ycombinator.com/item?id=43949056) - [Why the Apple II Didn't Support Lowercase Letters (2020)](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters)
 * [2025-05-10, 20:58:27](https://news.ycombinator.com/item?id=43948945) - [Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants](https://github.com/blackrabbit17/xenolab)
-* [2025-05-10, 19:20:03](https://news.ycombinator.com/item?id=43948130) - [Address of Pope Leo XIV to the College of Cardinals](https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html)
 * [2025-05-10, 18:05:09](https://news.ycombinator.com/item?id=43947630) - [For $595, you get what nobody else can give you for twice the price (1982) [pdf]](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf)
 * [2025-05-10, 16:23:06](https://news.ycombinator.com/item?id=43946824) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 * [2025-05-10, 14:55:52](https://news.ycombinator.com/item?id=43946149) - [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
