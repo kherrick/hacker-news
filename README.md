@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-11, 04:26:33](https://news.ycombinator.com/item?id=43951368) - [Fan Service](https://flak.tedunangst.com/post/fan-service)
+* [2025-05-11, 02:13:49](https://news.ycombinator.com/item?id=43950709) - [NetBSD 10.x Kernel Math_emulation](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
 * [2025-05-11, 01:38:00](https://news.ycombinator.com/item?id=43950525) - [Dotless Domains](https://lab.avl.la/dotless/)
 * [2025-05-11, 00:00:14](https://news.ycombinator.com/item?id=43950046) - [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
 * [2025-05-10, 23:24:18](https://news.ycombinator.com/item?id=43949855) - [The History and Legacy of Visual Basic](https://retool.com/visual-basic)
@@ -20,7 +21,6 @@
 * [2025-05-10, 13:02:55](https://news.ycombinator.com/item?id=43945293) - [React Three Ecosystem](https://www.react-three.org/)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944790) - [Intel: Winning and Losing](https://www.abortretry.fail/p/intel-winning-and-losing)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944789) - [Embracer Games Archive is preserving 75000 video games and needs contributions](https://embracergamesarchive.com/)
-* [2025-05-10, 06:58:15](https://news.ycombinator.com/item?id=43943737) - [Not a three-year-old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
 * [2025-05-08, 22:16:05](https://news.ycombinator.com/item?id=43931925) - [Adaptive Hashing](https://quotenil.com/adaptive-hashing.html)
 * [2025-05-08, 17:42:33](https://news.ycombinator.com/item?id=43928942) - [How much information is in DNA?](https://dynomight.substack.com/p/dna)
 * [2025-05-08, 15:30:30](https://news.ycombinator.com/item?id=43927095) - [Arduino is at work to make bio-based PCBs](https://blog.arduino.cc/2025/04/22/arduino-is-at-work-to-make-bio-based-pcbs/)
