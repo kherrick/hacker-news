@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 18:59:47](https://news.ycombinator.com/item?id=43956115) - [2024 sea level 'report cards' map futures of U.S. coastal communities](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/)
+* [2025-05-11, 18:57:07](https://news.ycombinator.com/item?id=43956095) - [Why not object capability languages?](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682)
+* [2025-05-11, 18:19:20](https://news.ycombinator.com/item?id=43955757) - [Rust Devs Think We're Hopeless; Let's Prove Them Wrong (With C++ Memory Leaks)](https://www.babaei.net/blog/rust-devs-think-we-are-hopeless-lets-prove-them-wrong-with-cpp-memory-leaks/)
 * [2025-05-11, 17:51:04](https://news.ycombinator.com/item?id=43955525) - [Car Companies Are in a Billion-Dollar Software War, and Everyone's Losing](https://insideevs.com/features/759153/car-companies-software-companies/)
+* [2025-05-11, 17:38:38](https://news.ycombinator.com/item?id=43955397) - [LSP client in Clojure in 200 lines of code](https://vlaaad.github.io/lsp-client-in-200-lines-of-code)
 * [2025-05-11, 17:35:22](https://news.ycombinator.com/item?id=43955374) - [Klarna changes its AI tune and again recruits humans for customer service](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/)
+* [2025-05-11, 17:29:16](https://news.ycombinator.com/item?id=43955333) - [An online exhibition of pretty software bugs](https://glitchgallery.org/)
 * [2025-05-11, 17:28:32](https://news.ycombinator.com/item?id=43955326) - [Applications of Classical Physics](http://pmaweb.caltech.edu/Courses/ph136/yr2012/)
 * [2025-05-11, 17:10:13](https://news.ycombinator.com/item?id=43955194) - [How a Quiet American Cardinal Became Pope](https://www.nytimes.com/2025/05/11/world/europe/conclave-vote-pope-leo-robert-prevost.html)
 * [2025-05-11, 17:01:13](https://news.ycombinator.com/item?id=43955117) - [Elizabeth Holmes's lover raises millions for blood-testing startup](https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup)

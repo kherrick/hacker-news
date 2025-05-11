@@ -77,6 +77,7 @@
 * [2025-05-08, 11:32:01](https://news.ycombinator.com/item?id=43925132) - [Prolog's Eternal September (2017)](https://storytotell.org/prologs-eternal-september)
 * [2025-05-08, 10:16:22](https://news.ycombinator.com/item?id=43924779) - [Xenon is an open source universal game cheating framework C++](https://github.com/kiocode/xenon-cheats)
 * [2025-05-08, 08:52:56](https://news.ycombinator.com/item?id=43924358) - [How Dare You Transmit at 1.4 GHz!](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
+* [2025-05-08, 08:14:38](https://news.ycombinator.com/item?id=43924178) - [Ink and Algorithms: Techniques, tools and the craft of pen plotting](https://penplotter.art/)
 * [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Secret Messages Detected on Egyptian Obelisk in Paris](https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/)
 * [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Egyptologist uncovers hidden messages on Paris’s iconic obelisk](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508)
 * [2025-05-08, 07:58:33](https://news.ycombinator.com/item?id=43924082) - [An Introduction to Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html)
