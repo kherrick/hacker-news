@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-11, 15:31:39](https://news.ycombinator.com/item?id=43954488) - [High-School Shop Students Attract Skilled-Trades Job Offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
+* [2025-05-11, 15:28:58](https://news.ycombinator.com/item?id=43954470) - [Immunogenicity and Safety of Influenza and Covid-19 Multicomponent Vaccine](https://jamanetwork.com/journals/jama/article-abstract/2833668)
 * [2025-05-11, 15:26:47](https://news.ycombinator.com/item?id=43954459) - [DNS Piracy Blocking Orders: Google, Cloudflare, and OpenDNS Respond Differently](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/)
 * [2025-05-11, 14:54:56](https://news.ycombinator.com/item?id=43954249) - [Gonzalo Guerrero](https://en.wikipedia.org/wiki/Gonzalo_Guerrero)
 * [2025-05-11, 14:43:09](https://news.ycombinator.com/item?id=43954178) - [JEP 515: Ahead-of-Time Method Profiling](https://openjdk.org/jeps/515)
@@ -28,7 +29,6 @@
 * [2025-05-08, 20:04:48](https://news.ycombinator.com/item?id=43930725) - [A brief history of the numeric keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad)
 * [2025-05-08, 07:58:33](https://news.ycombinator.com/item?id=43924082) - [An Introduction to Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html)
 * [2025-05-07, 15:15:50](https://news.ycombinator.com/item?id=43916818) - [Is there a balance to be struck between simple hierarchical models and](https://statmodeling.stat.columbia.edu/2024/05/26/is-there-a-balance-to-be-struck-between-simple-hierarchical-models-and-more-complex-hierarchical-models-that-augment-the-simple-frameworks-with-more-modeled-interactions-when-analyzing-real-data/)
-* [2025-05-07, 11:24:33](https://news.ycombinator.com/item?id=43914321) - [Crowd Sourcing Broken QR Codes](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
 * [2025-05-06, 21:47:18](https://news.ycombinator.com/item?id=43909986) - [Four years of running a SaaS in a competitive market](https://maxrozen.com/on-four-years-running-saas-competitive-market)
 
 ## [Archives](archives/index.md)
