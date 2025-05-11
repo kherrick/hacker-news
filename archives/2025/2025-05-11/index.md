@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 17:51:04](https://news.ycombinator.com/item?id=43955525) - [Car Companies Are in a Billion-Dollar Software War, and Everyone's Losing](https://insideevs.com/features/759153/car-companies-software-companies/)
+* [2025-05-11, 17:35:22](https://news.ycombinator.com/item?id=43955374) - [Klarna changes its AI tune and again recruits humans for customer service](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/)
 * [2025-05-11, 17:28:32](https://news.ycombinator.com/item?id=43955326) - [Applications of Classical Physics](http://pmaweb.caltech.edu/Courses/ph136/yr2012/)
 * [2025-05-11, 17:10:13](https://news.ycombinator.com/item?id=43955194) - [How a Quiet American Cardinal Became Pope](https://www.nytimes.com/2025/05/11/world/europe/conclave-vote-pope-leo-robert-prevost.html)
 * [2025-05-11, 17:01:13](https://news.ycombinator.com/item?id=43955117) - [Elizabeth Holmes's lover raises millions for blood-testing startup](https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup)
