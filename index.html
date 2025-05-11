@@ -129,6 +129,106 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43953722">
+          <h3>
+            <a class="item" href="https://github.com/glassflow/clickhouse-etl"
+              >Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to
+              ClickHouse</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-11 @ 13:33:54</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43953722"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/glassflow/clickhouse-etl"
+                >https://github.com/glassflow/clickhouse-etl</a
+              >
+              <p>
+                Why we built this: Dedup with batch data is straightforward. You
+                load the data into a temporary table. Then, find only the latest
+                versions of the record through hashes or keys and keep them.
+                After that, move the clean data into your main table. But have
+                you tried this with streaming data? Users of our prev product
+                were running real-time analytics pipelines from Kafka to
+                ClickHouse and noticed that the analyses were wrong due to
+                duplicates. The source systems produced duplicates as they
+                ingested similar user data from CRMs, shop systems and click
+                streams.
+              </p>
+              <p>
+                We wanted to solve this issue for them with the existing
+                ClickHouse options, but ClickHouse ReplacingMergeTree has an
+                uncontrollable background merging process. This means the new
+                data is in the system, but you never know when they’ll finish
+                the merging, and until then, your queries return incorrect
+                results.
+              </p>
+              <p>
+                We looked into using FINAL but haven't been happy with the speed
+                for real-time workloads.
+              </p>
+              <p>
+                We tried Flink, but there is too much overhead to manage Java
+                Flink jobs, and a self-built solution would have put us in a
+                position to set up and maintain state storage, possibly a very
+                large one (number of unique keys), to keep track of whether we
+                have already encountered a record. And if your dedupe service
+                fails, you need to rehydrate that state before processing new
+                records. That would have been too much maintenance for us.
+              </p>
+              <p>
+                We decided to solve it by building a new product and are excited
+                to share it with you.
+              </p>
+              <p>
+                The key difference is that the streams are deduplicated before
+                ingesting to ClickHouse. So, ClickHouse always has clean data
+                and less load, eliminating the risk of wrong results. We want
+                more people to benefit from it and decided to open-source it
+                (Apache-2.0).
+              </p>
+              <p>Main components:</p>
+              <p>
+                - Streaming deduplication: You define the deduplication key and
+                a time window (up to 7 days), and it handles the checks in real
+                time to avoid duplicates before hitting ClickHouse. The state
+                store is built in.
+              </p>
+              <p>
+                - Temporal Stream Joins: You can join two Kafka streams on the
+                fly with a few config inputs. You set the join key, choose a
+                time window (up to 7 days), and you're good.
+              </p>
+              <p>
+                - Built-in Kafka source connector: There is no need to build
+                custom consumers or manage polling logic. Just point it at your
+                Kafka cluster, and it auto-subscribes to the topics you define.
+                Payloads are parsed as JSON by default, so you get structured
+                data immediately. As underlying tech, we decided on NATS to make
+                it lightweight and low-latency.
+              </p>
+              <p>
+                - ClickHouse sink: Data gets pushed into ClickHouse through a
+                native connector optimized for performance. You can tweak batch
+                sizes and flush intervals to match your throughput needs. It
+                handles retries automatically, so you don't lose data on
+                transient failures.
+              </p>
+              <p>
+                We'd love to hear your feedback and know if you solved it nicely
+                with existing tools. Thanks for reading!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43953229">
           <h3>
             <a
@@ -141,7 +241,7 @@
             <h4>
               <span>2025-05-11 @ 12:08:24</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43953229"
                   >Comments</a
@@ -177,11 +277,11 @@
             <h4>
               <span>2025-05-11 @ 10:15:08</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43952746"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -196,11 +296,11 @@
             <h4>
               <span>2025-05-11 @ 10:08:53</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43952714"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -215,11 +315,11 @@
             <h4>
               <span>2025-05-11 @ 07:07:26</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43951985"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -236,7 +336,7 @@
             <h4>
               <span>2025-05-11 @ 05:58:01</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43951737"
                   >Comments</a
@@ -255,11 +355,11 @@
             <h4>
               <span>2025-05-11 @ 05:11:18</span
               ><span class="points-container"
-                >Points: <span class="points">329</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43951588"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -316,11 +416,11 @@
             <h4>
               <span>2025-05-11 @ 00:00:14</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43950046"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -330,18 +430,18 @@
             <a
               class="item"
               href="https://skincontact.substack.com/p/21-observations-from-people-watching"
-              >Observations from people watching</a
+              >Observations from people-watching</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-05-10 @ 22:32:01</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">318</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43949542"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 169</span></span
               >
             </h4>
           </section>
@@ -424,7 +524,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43949056"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -462,11 +562,11 @@
             <h4>
               <span>2025-05-10 @ 18:05:09</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43947630"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -505,7 +605,7 @@
             <h4>
               <span>2025-05-10 @ 14:37:59</span
               ><span class="points-container"
-                >Points: <span class="points">505</span></span
+                >Points: <span class="points">510</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43945993"
                   >Comments</a
@@ -531,27 +631,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43945820"
                   >Comments</a
-                ><span class="descendants">: 785</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43944789">
-          <h3>
-            <a class="item" href="https://embracergamesarchive.com/"
-              >Embracer Games Archive is preserving 75000 video games and needs
-              contributions</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-10 @ 11:19:39</span
-              ><span class="points-container"
-                >Points: <span class="points">174</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43944789"
-                  >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 790</span></span
               >
             </h4>
           </section>
@@ -568,11 +648,11 @@
             <h4>
               <span>2025-05-08 @ 20:04:48</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43930725"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -590,7 +670,7 @@
             <h4>
               <span>2025-05-08 @ 18:47:13</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43929828"
                   >Comments</a
@@ -631,11 +711,11 @@
             <h4>
               <span>2025-05-08 @ 07:58:33</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43924082"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -652,7 +732,7 @@
             <h4>
               <span>2025-05-07 @ 17:32:14</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43918478"
                   >Comments</a
@@ -692,7 +772,7 @@
             <h4>
               <span>2025-05-07 @ 11:24:33</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43914321"
                   >Comments</a
@@ -713,11 +793,11 @@
             <h4>
               <span>2025-05-07 @ 08:36:57</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43913414"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -734,7 +814,7 @@
             <h4>
               <span>2025-05-07 @ 04:06:10</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43912164"
                   >Comments</a
@@ -755,11 +835,11 @@
             <h4>
               <span>2025-05-06 @ 21:47:18</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43909986"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
