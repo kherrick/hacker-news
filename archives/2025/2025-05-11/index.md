@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 15:31:39](https://news.ycombinator.com/item?id=43954488) - [High-School Shop Students Attract Skilled-Trades Job Offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
+* [2025-05-11, 14:54:56](https://news.ycombinator.com/item?id=43954249) - [Gonzalo Guerrero](https://en.wikipedia.org/wiki/Gonzalo_Guerrero)
 * [2025-05-11, 14:02:12](https://news.ycombinator.com/item?id=43953884) - [In 2025, venture capital can't pretend everything is fine any more](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/)
 * [2025-05-11, 14:02:03](https://news.ycombinator.com/item?id=43953883) - [Title of work deciphered in sealed Herculaneum scroll via digital unwrapping](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping)
 * [2025-05-11, 13:34:02](https://news.ycombinator.com/item?id=43953723) - [Backdoor found in popular ecommerce components](https://sansec.io/research/license-backdoor)
