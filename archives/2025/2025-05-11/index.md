@@ -6,6 +6,7 @@
 
 * [2025-05-11, 18:59:47](https://news.ycombinator.com/item?id=43956115) - [2024 sea level 'report cards' map futures of U.S. coastal communities](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/)
 * [2025-05-11, 18:57:07](https://news.ycombinator.com/item?id=43956095) - [Why not object capability languages?](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682)
+* [2025-05-11, 18:29:18](https://news.ycombinator.com/item?id=43955842) - [Scraperr – A Self Hosted Webscraper](https://github.com/jaypyles/Scraperr)
 * [2025-05-11, 18:19:20](https://news.ycombinator.com/item?id=43955757) - [Rust Devs Think We're Hopeless; Let's Prove Them Wrong (With C++ Memory Leaks)](https://www.babaei.net/blog/rust-devs-think-we-are-hopeless-lets-prove-them-wrong-with-cpp-memory-leaks/)
 * [2025-05-11, 17:51:04](https://news.ycombinator.com/item?id=43955525) - [Car Companies Are in a Billion-Dollar Software War, and Everyone's Losing](https://insideevs.com/features/759153/car-companies-software-companies/)
 * [2025-05-11, 17:38:38](https://news.ycombinator.com/item?id=43955397) - [LSP client in Clojure in 200 lines of code](https://vlaaad.github.io/lsp-client-in-200-lines-of-code)
