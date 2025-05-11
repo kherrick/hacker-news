@@ -8,6 +8,7 @@
 * [2025-05-11, 17:01:13](https://news.ycombinator.com/item?id=43955117) - [Elizabeth Holmes's lover raises millions for blood-testing startup](https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup)
 * [2025-05-11, 17:00:00](https://news.ycombinator.com/item?id=43955106) - [Synder (YC S21) Is Hiring](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative)
 * [2025-05-11, 16:31:58](https://news.ycombinator.com/item?id=43954896) - [Plain Vanilla Web – Guide for de-frameworking yourself](https://plainvanillaweb.com/index.html)
+* [2025-05-11, 16:22:05](https://news.ycombinator.com/item?id=43954810) - [An $18M grant would have drastically reduced food waste. Then the EPA cut it](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/)
 * [2025-05-11, 15:31:39](https://news.ycombinator.com/item?id=43954488) - [High-School Shop Students Attract Skilled-Trades Job Offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
 * [2025-05-11, 15:28:58](https://news.ycombinator.com/item?id=43954470) - [Immunogenicity and Safety of Influenza and Covid-19 Multicomponent Vaccine](https://jamanetwork.com/journals/jama/article-abstract/2833668)
 * [2025-05-11, 15:26:47](https://news.ycombinator.com/item?id=43954459) - [DNS Piracy Blocking Orders: Google, Cloudflare, and OpenDNS Respond Differently](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/)
