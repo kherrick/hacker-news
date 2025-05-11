@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-11, 03:53:54](https://news.ycombinator.com/item?id=43951218) - [Tufts graduate student Rümeysa Öztürk released from immigration detention](https://www.npr.org/2025/05/09/nx-s1-5393055/tufts-student-rumeysa-ozturk-ordered-freed-from-immigration-detention)
 * [2025-05-11, 03:01:56](https://news.ycombinator.com/item?id=43950976) - [Leaving Google](https://www.airs.com/blog/archives/670)
 * [2025-05-11, 01:38:00](https://news.ycombinator.com/item?id=43950525) - [Dotless Domains](https://lab.avl.la/dotless/)
 * [2025-05-11, 00:00:14](https://news.ycombinator.com/item?id=43950046) - [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
@@ -15,7 +16,6 @@
 * [2025-05-10, 17:00:39](https://news.ycombinator.com/item?id=43947137) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-05-10, 16:23:06](https://news.ycombinator.com/item?id=43946824) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 * [2025-05-10, 14:55:52](https://news.ycombinator.com/item?id=43946149) - [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
-* [2025-05-10, 14:47:12](https://news.ycombinator.com/item?id=43946066) - [Show HN: Code Claude Code](https://github.com/RVCA212/codesys)
 * [2025-05-10, 14:37:59](https://news.ycombinator.com/item?id=43945993) - [A critical look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 * [2025-05-10, 14:15:56](https://news.ycombinator.com/item?id=43945820) - [US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 * [2025-05-10, 13:02:55](https://news.ycombinator.com/item?id=43945293) - [React Three Ecosystem](https://www.react-three.org/)
