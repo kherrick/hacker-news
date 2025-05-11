@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2025-05-11, 13:34:02",
+      "https://news.ycombinator.com/item?id=43953723"
+    ],
+    [
+      "Backdoor found in popular ecommerce components",
+      "https://sansec.io/research/license-backdoor"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 13:33:54",
       "https://news.ycombinator.com/item?id=43953722"
     ],
     [
       "Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse",
       "https://github.com/glassflow/clickhouse-etl"
+    ]
+  ],
+  [
+    [
+      "2025-05-11, 12:17:18",
+      "https://news.ycombinator.com/item?id=43953272"
+    ],
+    [
+      "What the hell are rare earth elements?",
+      "https://media.hubspot.com/what-the-hell-are-rare-earth-elements"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-05-10, 21:15:04",
-      "https://news.ycombinator.com/item?id=43949056"
-    ],
-    [
-      "Why the Apple II Didn't Support Lowercase Letters (2020)",
-      "https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 20:58:27",
       "https://news.ycombinator.com/item?id=43948945"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-05-08, 14:58:41",
-      "https://news.ycombinator.com/item?id=43926713"
-    ],
-    [
-      "When Suno covers my song (very useful) – a study with variations",
-      "http://rochus-keller.ch/?p=1350"
-    ]
-  ],
-  [
-    [
       "2025-05-08, 07:58:33",
       "https://news.ycombinator.com/item?id=43924082"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-05-07, 15:15:50",
+      "https://news.ycombinator.com/item?id=43916818"
+    ],
+    [
+      "Is there a balance to be struck between simple hierarchical models and",
+      "https://statmodeling.stat.columbia.edu/2024/05/26/is-there-a-balance-to-be-struck-between-simple-hierarchical-models-and-more-complex-hierarchical-models-that-augment-the-simple-frameworks-with-more-modeled-interactions-when-analyzing-real-data/"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 13:32:24",
       "https://news.ycombinator.com/item?id=43915470"
     ],
@@ -277,16 +287,6 @@
     [
       "Crowd Sourcing Broken QR Codes",
       "https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 08:36:57",
-      "https://news.ycombinator.com/item?id=43913414"
-    ],
-    [
-      "Lazarus Release 4.0",
-      "https://forum.lazarus.freepascal.org/index.php?topic=71050.0"
     ]
   ],
   [
