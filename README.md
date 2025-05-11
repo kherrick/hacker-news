@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-11, 13:33:54](https://news.ycombinator.com/item?id=43953722) - [Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse](https://github.com/glassflow/clickhouse-etl)
 * [2025-05-11, 12:08:24](https://news.ycombinator.com/item?id=43953229) - [A Rust Documentation Ecosystem Review](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
 * [2025-05-11, 12:01:16](https://news.ycombinator.com/item?id=43953200) - [Roame (YC S23) Is Hiring Lead Fullstack Engineer](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer)
 * [2025-05-11, 10:15:08](https://news.ycombinator.com/item?id=43952746) - [Zig, the Ideal C Replacement Or?](http://bitshifters.cc/2025/05/04/zig.html)
@@ -10,7 +11,7 @@
 * [2025-05-11, 04:26:33](https://news.ycombinator.com/item?id=43951368) - [Fan Service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 02:13:49](https://news.ycombinator.com/item?id=43950709) - [NetBSD 10.x Kernel Math_emulation](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
 * [2025-05-11, 00:00:14](https://news.ycombinator.com/item?id=43950046) - [Giant Bomb is now owned by the people who make Giant Bomb](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
-* [2025-05-10, 22:32:01](https://news.ycombinator.com/item?id=43949542) - [Observations from people watching](https://skincontact.substack.com/p/21-observations-from-people-watching)
+* [2025-05-10, 22:32:01](https://news.ycombinator.com/item?id=43949542) - [Observations from people-watching](https://skincontact.substack.com/p/21-observations-from-people-watching)
 * [2025-05-10, 21:42:55](https://news.ycombinator.com/item?id=43949238) - [Sierpiński Triangle? In My Bitwise and?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
 * [2025-05-10, 21:25:21](https://news.ycombinator.com/item?id=43949134) - [Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass](https://github.com/danielcota/LoopMix128)
 * [2025-05-10, 21:15:04](https://news.ycombinator.com/item?id=43949056) - [Why the Apple II Didn't Support Lowercase Letters (2020)](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters)
@@ -19,7 +20,6 @@
 * [2025-05-10, 16:23:06](https://news.ycombinator.com/item?id=43946824) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 * [2025-05-10, 14:37:59](https://news.ycombinator.com/item?id=43945993) - [A critical look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 * [2025-05-10, 14:15:56](https://news.ycombinator.com/item?id=43945820) - [US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
-* [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944789) - [Embracer Games Archive is preserving 75000 video games and needs contributions](https://embracergamesarchive.com/)
 * [2025-05-08, 20:04:48](https://news.ycombinator.com/item?id=43930725) - [A brief history of the numeric keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad)
 * [2025-05-08, 18:47:13](https://news.ycombinator.com/item?id=43929828) - [Sole maintainer of Linux distro AnduinOS turns out to be a Microsoft employee](https://www.neowin.net/news/the-sole-maintainer-of-linux-distribution-anduinos-turns-out-to-be-a-microsoft-employee/)
 * [2025-05-08, 14:58:41](https://news.ycombinator.com/item?id=43926713) - [When Suno covers my song (very useful) – a study with variations](http://rochus-keller.ch/?p=1350)
