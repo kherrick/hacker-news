@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 10:41:22](https://news.ycombinator.com/item?id=43952851) - [Jony Ive's next product is driven by the 'unintended consequences' of the iPhone](https://www.theverge.com/news/664131/jony-ive-unintended-consequences-iphone-new-product)
 * [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
+* [2025-05-11, 10:07:22](https://news.ycombinator.com/item?id=43952707) - [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df)
 * [2025-05-11, 08:14:50](https://news.ycombinator.com/item?id=43952254) - [Most AI spending driven by FOMO, not ROI, CEOs tell IBM](https://www.theregister.com/2025/05/06/ibm_ai_investments/)
 * [2025-05-11, 07:07:26](https://news.ycombinator.com/item?id=43951985) - [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 * [2025-05-11, 06:56:49](https://news.ycombinator.com/item?id=43951943) - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
