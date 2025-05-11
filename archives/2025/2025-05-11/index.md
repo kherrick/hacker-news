@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 21:54:40](https://news.ycombinator.com/item?id=43957481) - [Satellite will have to be turned off when it floats over the US](https://www.thecooldown.com/green-tech/biomass-satellite-carbon-capture-forests/)
+* [2025-05-11, 21:15:56](https://news.ycombinator.com/item?id=43957231) - [The surgeon who used F1 pitstop techniques to save lives of babies](https://www.thetimes.com/sport/formula-one/article/professor-martin-elliott-interview-surgeon-f1-pitstops-babies-ferrari-j3sbkjssk)
 * [2025-05-11, 20:47:20](https://news.ycombinator.com/item?id=43957010) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 * [2025-05-11, 20:09:04](https://news.ycombinator.com/item?id=43956723) - [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
 * [2025-05-11, 20:05:28](https://news.ycombinator.com/item?id=43956701) - [The Myth of the Genius Hacker](https://www.ft.com/content/55221f2d-00b3-4856-9158-dfdd0263bd0c)
