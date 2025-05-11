@@ -13,6 +13,7 @@
 * [2025-05-08, 21:46:14](https://news.ycombinator.com/item?id=43931673) - [Prepare your apps for Google Play's 16 KB page size compatibility requirement](https://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html)
 * [2025-05-08, 21:30:41](https://news.ycombinator.com/item?id=43931566) - [Bento gets a makeover](https://warpstreamlabs.github.io/bento/)
 * [2025-05-08, 21:12:32](https://news.ycombinator.com/item?id=43931409) - [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
+* [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
 * [2025-05-08, 20:58:37](https://news.ycombinator.com/item?id=43931285) - [How the US Built 5k Ships in WWII](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii)
 * [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:07:00](https://news.ycombinator.com/item?id=43930757) - [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
