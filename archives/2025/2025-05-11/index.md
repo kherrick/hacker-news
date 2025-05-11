@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 17:00:00](https://news.ycombinator.com/item?id=43955106) - [Synder (YC S21) Is Hiring](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative)
 * [2025-05-11, 15:31:39](https://news.ycombinator.com/item?id=43954488) - [High-School Shop Students Attract Skilled-Trades Job Offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
 * [2025-05-11, 15:28:58](https://news.ycombinator.com/item?id=43954470) - [Immunogenicity and Safety of Influenza and Covid-19 Multicomponent Vaccine](https://jamanetwork.com/journals/jama/article-abstract/2833668)
 * [2025-05-11, 15:26:47](https://news.ycombinator.com/item?id=43954459) - [DNS Piracy Blocking Orders: Google, Cloudflare, and OpenDNS Respond Differently](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/)

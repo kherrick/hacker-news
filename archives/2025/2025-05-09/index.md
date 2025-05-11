@@ -73,4 +73,5 @@
 * [2025-05-09, 02:17:55](https://news.ycombinator.com/item?id=43933248) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://www.audiobookshelf.org/)
 * [2025-05-09, 01:45:16](https://news.ycombinator.com/item?id=43933091) - [The Most Valuable Commodity in the World Is Friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
 * [2025-05-09, 01:29:59](https://news.ycombinator.com/item?id=43933023) - [Commercial Solutions for Classified CSfC for NSA to deliver secure cybersecurity](https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/)
+* [2025-05-09, 01:00:53](https://news.ycombinator.com/item?id=43932871) - [How to (actually) prove it – New Frontiers of Mathematics and Computing in Lean](https://kirancodes.me/posts/log-how-to-prove-it-maths.html)
 * [2025-05-09, 00:04:21](https://news.ycombinator.com/item?id=43932567) - [Cogentcore: Open-source framework for building multi-platform apps with Go](https://github.com/cogentcore/core)
