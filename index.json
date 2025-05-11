@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-11, 03:01:56",
+      "https://news.ycombinator.com/item?id=43950976"
+    ],
+    [
+      "Ian Lance Taylor of the Go Team Leaves Google",
+      "https://www.airs.com/blog/archives/670"
+    ]
+  ],
+  [
+    [
+      "2025-05-11, 01:38:00",
+      "https://news.ycombinator.com/item?id=43950525"
+    ],
+    [
+      "Dotless Domains",
+      "https://lab.avl.la/dotless/"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 00:51:00",
       "https://news.ycombinator.com/item?id=43950294"
     ],
@@ -57,16 +77,6 @@
     [
       "Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass",
       "https://github.com/danielcota/LoopMix128"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 21:15:04",
-      "https://news.ycombinator.com/item?id=43949056"
-    ],
-    [
-      "Why the Apple II Didn't Support Lowercase Letters (2020)",
-      "https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-05-10, 10:04:47",
-      "https://news.ycombinator.com/item?id=43944467"
-    ],
-    [
-      "The Deathbed Fallacy (2018)",
-      "https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 06:58:15",
       "https://news.ycombinator.com/item?id=43943737"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-05-07, 13:32:24",
+      "https://news.ycombinator.com/item?id=43915470"
+    ],
+    [
+      "Strain gauge made out of PCB",
+      "https://github.com/vapetrov/PCB_strain_gauge"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 04:06:10",
       "https://news.ycombinator.com/item?id=43912164"
     ],
@@ -287,16 +297,6 @@
     [
       "Eagle Hunters of Kyrgyzstan",
       "https://magazine.atavist.com/the-eagle-hunters-of-kyrgyzstan-world-nomad-games/"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 20:48:41",
-      "https://news.ycombinator.com/item?id=43909487"
-    ],
-    [
-      "Building Local-First Flutter Apps with Riverpod, Drift, and PowerSync",
-      "https://dinkomarinac.dev/building-local-first-flutter-apps-with-riverpod-drift-and-powersync"
     ]
   ]
 ]
