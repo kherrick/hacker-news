@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
 * [2025-05-11, 08:14:50](https://news.ycombinator.com/item?id=43952254) - [Most AI spending driven by FOMO, not ROI, CEOs tell IBM](https://www.theregister.com/2025/05/06/ibm_ai_investments/)
+* [2025-05-11, 07:07:26](https://news.ycombinator.com/item?id=43951985) - [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 * [2025-05-11, 06:56:49](https://news.ycombinator.com/item?id=43951943) - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
 * [2025-05-11, 06:26:37](https://news.ycombinator.com/item?id=43951841) - [Im 16 y/o working on my first statup](https://www.notiv.app/)
 * [2025-05-11, 05:58:01](https://news.ycombinator.com/item?id=43951737) - [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
