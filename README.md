@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-11, 08:14:50](https://news.ycombinator.com/item?id=43952254) - [Most AI spending driven by FOMO, not ROI, CEOs tell IBM](https://www.theregister.com/2025/05/06/ibm_ai_investments/)
 * [2025-05-11, 06:56:49](https://news.ycombinator.com/item?id=43951943) - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
 * [2025-05-11, 06:26:37](https://news.ycombinator.com/item?id=43951841) - [Show HN: I’m 16 years old and working on my first startup, a study app](https://www.notiv.app/)
 * [2025-05-11, 05:58:01](https://news.ycombinator.com/item?id=43951737) - [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
 * [2025-05-11, 04:26:33](https://news.ycombinator.com/item?id=43951368) - [Fan Service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 02:13:49](https://news.ycombinator.com/item?id=43950709) - [NetBSD 10.x Kernel Math_emulation](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
-* [2025-05-11, 01:38:00](https://news.ycombinator.com/item?id=43950525) - [Dotless Domains](https://lab.avl.la/dotless/)
 * [2025-05-11, 00:00:14](https://news.ycombinator.com/item?id=43950046) - [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
 * [2025-05-10, 22:32:01](https://news.ycombinator.com/item?id=43949542) - [Observations from people watching](https://skincontact.substack.com/p/21-observations-from-people-watching)
 * [2025-05-10, 21:42:55](https://news.ycombinator.com/item?id=43949238) - [Sierpiński Triangle? In My Bitwise and?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
@@ -19,6 +19,7 @@
 * [2025-05-10, 14:37:59](https://news.ycombinator.com/item?id=43945993) - [A critical look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 * [2025-05-10, 14:15:56](https://news.ycombinator.com/item?id=43945820) - [US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944789) - [Embracer Games Archive is preserving 75000 video games and needs contributions](https://embracergamesarchive.com/)
+* [2025-05-09, 06:52:12](https://news.ycombinator.com/item?id=43934411) - [The Ecstatic Swoon](https://aeon.co/essays/what-stendhal-says-about-the-purpose-and-promise-of-art)
 * [2025-05-08, 22:16:05](https://news.ycombinator.com/item?id=43931925) - [Adaptive Hashing](https://quotenil.com/adaptive-hashing.html)
 * [2025-05-08, 20:04:48](https://news.ycombinator.com/item?id=43930725) - [A brief history of the numeric keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad)
 * [2025-05-08, 17:42:33](https://news.ycombinator.com/item?id=43928942) - [How much information is in DNA?](https://dynomight.substack.com/p/dna)
@@ -29,7 +30,6 @@
 * [2025-05-07, 13:32:24](https://news.ycombinator.com/item?id=43915470) - [Strain gauge made out of PCB](https://github.com/vapetrov/PCB_strain_gauge)
 * [2025-05-07, 08:36:57](https://news.ycombinator.com/item?id=43913414) - [Lazarus Release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
 * [2025-05-07, 04:06:10](https://news.ycombinator.com/item?id=43912164) - [The State of SSL Stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
-* [2025-05-07, 00:51:01](https://news.ycombinator.com/item?id=43911152) - [Eagle Hunters of Kyrgyzstan](https://magazine.atavist.com/the-eagle-hunters-of-kyrgyzstan-world-nomad-games/)
 
 ## [Archives](archives/index.md)
 
