@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-11, 20:47:20](https://news.ycombinator.com/item?id=43957010) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 * [2025-05-11, 20:09:04](https://news.ycombinator.com/item?id=43956723) - [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
 * [2025-05-11, 20:05:28](https://news.ycombinator.com/item?id=43956701) - [The Myth of the Genius Hacker](https://www.ft.com/content/55221f2d-00b3-4856-9158-dfdd0263bd0c)
 * [2025-05-11, 19:57:48](https://news.ycombinator.com/item?id=43956630) - [The Paradoxes of Feminine Muscle](https://www.newyorker.com/culture/critics-notebook/the-paradoxes-of-feminine-muscle)
@@ -29,7 +30,6 @@
 * [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
 * [2025-05-08, 09:32:57](https://news.ycombinator.com/item?id=43924560) - [SDFs and the Fast sweeping algorithm in Jax](https://rohangautam.github.io/blog/fast_sweeping/fastsweeping/)
 * [2025-05-08, 08:14:38](https://news.ycombinator.com/item?id=43924178) - [Ink and Algorithms: Techniques, tools and the craft of pen plotting](https://penplotter.art/)
-* [2025-05-08, 07:58:33](https://news.ycombinator.com/item?id=43924082) - [An Introduction to Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html)
 
 ## [Archives](archives/index.md)
 

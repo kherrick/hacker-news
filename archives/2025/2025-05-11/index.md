@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 20:47:20](https://news.ycombinator.com/item?id=43957010) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 * [2025-05-11, 20:09:04](https://news.ycombinator.com/item?id=43956723) - [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
 * [2025-05-11, 20:05:28](https://news.ycombinator.com/item?id=43956701) - [The Myth of the Genius Hacker](https://www.ft.com/content/55221f2d-00b3-4856-9158-dfdd0263bd0c)
 * [2025-05-11, 19:57:48](https://news.ycombinator.com/item?id=43956630) - [The Paradoxes of Feminine Muscle](https://www.newyorker.com/culture/critics-notebook/the-paradoxes-of-feminine-muscle)
