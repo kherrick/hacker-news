@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-11, 21:54:40](https://news.ycombinator.com/item?id=43957481) - [Satellite will have to be turned off when it floats over the US](https://www.thecooldown.com/green-tech/biomass-satellite-carbon-capture-forests/)
 * [2025-05-11, 21:15:56](https://news.ycombinator.com/item?id=43957231) - [The surgeon who used F1 pitstop techniques to save lives of babies](https://www.thetimes.com/sport/formula-one/article/professor-martin-elliott-interview-surgeon-f1-pitstops-babies-ferrari-j3sbkjssk)
 * [2025-05-11, 20:47:20](https://news.ycombinator.com/item?id=43957010) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 * [2025-05-11, 18:59:47](https://news.ycombinator.com/item?id=43956115) - [2024 sea level 'report cards' map futures of U.S. coastal communities](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/)
@@ -24,6 +23,7 @@
 * [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
 * [2025-05-11, 08:10:38](https://news.ycombinator.com/item?id=43952239) - [Build iOS Apps on Linux and Windows (WSL)](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803)
 * [2025-05-11, 03:01:56](https://news.ycombinator.com/item?id=43950976) - [Leaving Google](https://www.airs.com/blog/archives/670)
+* [2025-05-10, 02:56:38](https://news.ycombinator.com/item?id=43942881) - [A simple 16x16 dot animation from simple math rules](https://tixy.land)
 * [2025-05-09, 01:45:16](https://news.ycombinator.com/item?id=43933091) - [The most valuable commodity in the world is friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
 * [2025-05-09, 01:00:53](https://news.ycombinator.com/item?id=43932871) - [How to (actually) prove it – New Frontiers of Mathematics and Computing in Lean](https://kirancodes.me/posts/log-how-to-prove-it-maths.html)
 * [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
