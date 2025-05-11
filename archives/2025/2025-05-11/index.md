@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 17:28:32](https://news.ycombinator.com/item?id=43955326) - [Applications of Classical Physics](http://pmaweb.caltech.edu/Courses/ph136/yr2012/)
 * [2025-05-11, 17:10:13](https://news.ycombinator.com/item?id=43955194) - [How a Quiet American Cardinal Became Pope](https://www.nytimes.com/2025/05/11/world/europe/conclave-vote-pope-leo-robert-prevost.html)
 * [2025-05-11, 17:01:13](https://news.ycombinator.com/item?id=43955117) - [Elizabeth Holmes's lover raises millions for blood-testing startup](https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup)
 * [2025-05-11, 17:00:00](https://news.ycombinator.com/item?id=43955106) - [Synder (YC S21) Is Hiring](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative)

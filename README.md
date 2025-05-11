@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-11, 17:28:32](https://news.ycombinator.com/item?id=43955326) - [Applications of Classical Physics](http://pmaweb.caltech.edu/Courses/ph136/yr2012/)
 * [2025-05-11, 17:10:13](https://news.ycombinator.com/item?id=43955194) - [How a Quiet American Cardinal Became Pope](https://www.nytimes.com/2025/05/11/world/europe/conclave-vote-pope-leo-robert-prevost.html)
 * [2025-05-11, 17:01:13](https://news.ycombinator.com/item?id=43955117) - [Elizabeth Holmes's lover raises millions for blood-testing startup](https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup)
 * [2025-05-11, 17:00:00](https://news.ycombinator.com/item?id=43955106) - [Synder (YC S21) Is Hiring](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative)
 * [2025-05-11, 16:31:58](https://news.ycombinator.com/item?id=43954896) - [Plain Vanilla Web – Guide for de-frameworking yourself](https://plainvanillaweb.com/index.html)
-* [2025-05-11, 16:22:05](https://news.ycombinator.com/item?id=43954810) - [An $18M grant would have drastically reduced food waste. Then the EPA cut it](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/)
 * [2025-05-11, 15:26:47](https://news.ycombinator.com/item?id=43954459) - [DNS Piracy Blocking Orders: Google, Cloudflare, and OpenDNS Respond Differently](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/)
 * [2025-05-11, 14:54:56](https://news.ycombinator.com/item?id=43954249) - [Gonzalo Guerrero](https://en.wikipedia.org/wiki/Gonzalo_Guerrero)
 * [2025-05-11, 14:43:09](https://news.ycombinator.com/item?id=43954178) - [JEP 515: Ahead-of-Time Method Profiling](https://openjdk.org/jeps/515)
