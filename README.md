@@ -2,6 +2,7 @@
 
 * [2025-05-11, 20:09:04](https://news.ycombinator.com/item?id=43956723) - [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
 * [2025-05-11, 20:05:28](https://news.ycombinator.com/item?id=43956701) - [The Myth of the Genius Hacker](https://www.ft.com/content/55221f2d-00b3-4856-9158-dfdd0263bd0c)
+* [2025-05-11, 19:57:48](https://news.ycombinator.com/item?id=43956630) - [The Paradoxes of Feminine Muscle](https://www.newyorker.com/culture/critics-notebook/the-paradoxes-of-feminine-muscle)
 * [2025-05-11, 18:59:47](https://news.ycombinator.com/item?id=43956115) - [2024 sea level 'report cards' map futures of U.S. coastal communities](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/)
 * [2025-05-11, 18:57:07](https://news.ycombinator.com/item?id=43956095) - [Why not object capability languages?](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682)
 * [2025-05-11, 18:29:18](https://news.ycombinator.com/item?id=43955842) - [Scraperr – A Self Hosted Webscraper](https://github.com/jaypyles/Scraperr)
@@ -24,12 +25,11 @@
 * [2025-05-11, 08:10:38](https://news.ycombinator.com/item?id=43952239) - [Build iOS Apps on Linux and Windows (WSL)](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803)
 * [2025-05-11, 03:01:56](https://news.ycombinator.com/item?id=43950976) - [Leaving Google](https://www.airs.com/blog/archives/670)
 * [2025-05-09, 01:45:16](https://news.ycombinator.com/item?id=43933091) - [The most valuable commodity in the world is friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
-* [2025-05-09, 01:08:50](https://news.ycombinator.com/item?id=43932913) - [Show HN: AI-powered batch photo editor for real estate photographers](https://4ditor.com/)
 * [2025-05-09, 01:00:53](https://news.ycombinator.com/item?id=43932871) - [How to (actually) prove it – New Frontiers of Mathematics and Computing in Lean](https://kirancodes.me/posts/log-how-to-prove-it-maths.html)
 * [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
+* [2025-05-08, 09:32:57](https://news.ycombinator.com/item?id=43924560) - [SDFs and the Fast sweeping algorithm in Jax](https://rohangautam.github.io/blog/fast_sweeping/fastsweeping/)
 * [2025-05-08, 08:14:38](https://news.ycombinator.com/item?id=43924178) - [Ink and Algorithms: Techniques, tools and the craft of pen plotting](https://penplotter.art/)
 * [2025-05-08, 07:58:33](https://news.ycombinator.com/item?id=43924082) - [An Introduction to Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html)
-* [2025-05-07, 15:15:50](https://news.ycombinator.com/item?id=43916818) - [Is there a balance to be struck between simple hierarchical models and](https://statmodeling.stat.columbia.edu/2024/05/26/is-there-a-balance-to-be-struck-between-simple-hierarchical-models-and-more-complex-hierarchical-models-that-augment-the-simple-frameworks-with-more-modeled-interactions-when-analyzing-real-data/)
 
 ## [Archives](archives/index.md)
 

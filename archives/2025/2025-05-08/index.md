@@ -76,6 +76,7 @@
 * [2025-05-08, 12:01:17](https://news.ycombinator.com/item?id=43925306) - [Artifact (YC W25) Is Hiring](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer)
 * [2025-05-08, 11:32:01](https://news.ycombinator.com/item?id=43925132) - [Prolog's Eternal September (2017)](https://storytotell.org/prologs-eternal-september)
 * [2025-05-08, 10:16:22](https://news.ycombinator.com/item?id=43924779) - [Xenon is an open source universal game cheating framework C++](https://github.com/kiocode/xenon-cheats)
+* [2025-05-08, 09:32:57](https://news.ycombinator.com/item?id=43924560) - [SDFs and the Fast sweeping algorithm in Jax](https://rohangautam.github.io/blog/fast_sweeping/fastsweeping/)
 * [2025-05-08, 08:52:56](https://news.ycombinator.com/item?id=43924358) - [How Dare You Transmit at 1.4 GHz!](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
 * [2025-05-08, 08:14:38](https://news.ycombinator.com/item?id=43924178) - [Ink and Algorithms: Techniques, tools and the craft of pen plotting](https://penplotter.art/)
 * [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Secret Messages Detected on Egyptian Obelisk in Paris](https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/)
