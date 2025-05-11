@@ -50,6 +50,7 @@
 * [2025-05-07, 14:44:38](https://news.ycombinator.com/item?id=43916411) - [WeightWatchers Files Bankruptcy, Adapts to Chemically Induced Weight-Loss Future](https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac)
 * [2025-05-07, 14:24:09](https://news.ycombinator.com/item?id=43916098) - [Mistral ships le chat – enterprise AI assistant that can run on prem](https://mistral.ai/news/le-chat-enterprise)
 * [2025-05-07, 13:43:10](https://news.ycombinator.com/item?id=43915586) - [Mississippi Can't Possibly Have Good Schools](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good)
+* [2025-05-07, 13:32:24](https://news.ycombinator.com/item?id=43915470) - [Strain gauge made out of PCB](https://github.com/vapetrov/PCB_strain_gauge)
 * [2025-05-07, 13:00:22](https://news.ycombinator.com/item?id=43915070) - [U.S. Jury Orders NSO Group to Pay $168M in WhatsApp Spyware Case](https://techoreon.com/us-jury-nso-group-pay-whatsapp-168-million-spyware/)
 * [2025-05-07, 12:38:14](https://news.ycombinator.com/item?id=43914876) - [Richest 10 Percent Responsible for Two-Thirds of Warming](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming)
 * [2025-05-07, 12:35:23](https://news.ycombinator.com/item?id=43914852) - [Stratolaunch Successfully Completes Reusable Hypersonic Flight and Recovery](https://www.stratolaunch.com/news/stratolaunch-successfully-completes-reusable-hypersonic-flight-and-recovery-with-talon-a2-vehicle/)
