@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2025-05-11, 20:05:28",
-      "https://news.ycombinator.com/item?id=43956701"
-    ],
-    [
-      "The Myth of the Genius Hacker",
-      "https://www.ft.com/content/55221f2d-00b3-4856-9158-dfdd0263bd0c"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 19:57:48",
-      "https://news.ycombinator.com/item?id=43956630"
-    ],
-    [
-      "The Paradoxes of Feminine Muscle",
-      "https://www.newyorker.com/culture/critics-notebook/the-paradoxes-of-feminine-muscle"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 18:59:47",
       "https://news.ycombinator.com/item?id=43956115"
     ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2025-05-10, 02:56:38",
+      "https://news.ycombinator.com/item?id=43942881"
+    ],
+    [
+      "A simple 16x16 dot animation from simple math rules",
+      "https://tixy.land"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 01:45:16",
       "https://news.ycombinator.com/item?id=43933091"
     ],
@@ -297,6 +287,16 @@
     [
       "Ink and Algorithms: Techniques, tools and the craft of pen plotting",
       "https://penplotter.art/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 07:58:33",
+      "https://news.ycombinator.com/item?id=43924082"
+    ],
+    [
+      "An Introduction to Solid Queue for Ruby on Rails",
+      "https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html"
     ]
   ]
 ]
