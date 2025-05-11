@@ -48,6 +48,7 @@
 * [2025-05-08, 15:47:53](https://news.ycombinator.com/item?id=43927318) - [Cybertruck owners won't get Autosteer feature](https://electrek.co/2025/05/07/tesla-bait-and-switch-cybertruck-owners-wont-get-autosteer-feature/)
 * [2025-05-08, 15:30:30](https://news.ycombinator.com/item?id=43927095) - [Arduino is at work to make bio-based PCBs](https://blog.arduino.cc/2025/04/22/arduino-is-at-work-to-make-bio-based-pcbs/)
 * [2025-05-08, 15:29:47](https://news.ycombinator.com/item?id=43927082) - [Standard Chartered apologizes for $120K Bitcoin price call, 'may be too low'](https://www.cnbc.com/2025/05/08/stanchart-analyst-apologizes-120k-bitcoin-price-call-too-low.html)
+* [2025-05-08, 14:58:41](https://news.ycombinator.com/item?id=43926713) - [When Suno covers my song (very useful) – a study with variations](http://rochus-keller.ch/?p=1350)
 * [2025-05-08, 14:27:24](https://news.ycombinator.com/item?id=43926376) - [QueryLeaf: SQL for Mongo](https://github.com/beekeeper-studio/queryleaf)
 * [2025-05-08, 14:24:04](https://news.ycombinator.com/item?id=43926350) - [Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires)
 * [2025-05-08, 14:19:42](https://news.ycombinator.com/item?id=43926324) - [Show HN: Test your typing speed and accuracy with movie scripts](https://atypescriptgame.com/)
