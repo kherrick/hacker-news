@@ -77,6 +77,7 @@
 * [2025-05-08, 08:52:56](https://news.ycombinator.com/item?id=43924358) - [How Dare You Transmit at 1.4 GHz!](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
 * [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Secret Messages Detected on Egyptian Obelisk in Paris](https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/)
 * [2025-05-08, 08:04:12](https://news.ycombinator.com/item?id=43924117) - [Egyptologist uncovers hidden messages on Paris’s iconic obelisk](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508)
+* [2025-05-08, 07:58:33](https://news.ycombinator.com/item?id=43924082) - [An Introduction to Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html)
 * [2025-05-08, 07:01:08](https://news.ycombinator.com/item?id=43923801) - [Thunder Compute (YC S24) Is Hiring a C++ Low-Latency Systems Developer](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer)
 * [2025-05-08, 05:40:52](https://news.ycombinator.com/item?id=43923372) - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
 * [2025-05-08, 05:32:18](https://news.ycombinator.com/item?id=43923331) - [Why Intel Deprecated SGX?](https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 12:01:16](https://news.ycombinator.com/item?id=43953200) - [Roame (YC S23) Is Hiring Lead Fullstack Engineer](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer)
+* [2025-05-11, 11:38:54](https://news.ycombinator.com/item?id=43953092) - [Ask HN: What will tech employment look like in 10 years?](https://news.ycombinator.com/item?id=43953092)
 * [2025-05-11, 10:41:22](https://news.ycombinator.com/item?id=43952851) - [Jony Ive's next product is driven by the 'unintended consequences' of the iPhone](https://www.theverge.com/news/664131/jony-ive-unintended-consequences-iphone-new-product)
 * [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
 * [2025-05-11, 10:07:22](https://news.ycombinator.com/item?id=43952707) - [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df)
