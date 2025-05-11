@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
 * [2025-05-11, 07:07:26](https://news.ycombinator.com/item?id=43951985) - [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 * [2025-05-11, 06:56:49](https://news.ycombinator.com/item?id=43951943) - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
-* [2025-05-11, 06:26:37](https://news.ycombinator.com/item?id=43951841) - [Show HN: I’m 16 years old and working on my first startup, a study app](https://www.notiv.app/)
 * [2025-05-11, 05:58:01](https://news.ycombinator.com/item?id=43951737) - [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
 * [2025-05-11, 04:26:33](https://news.ycombinator.com/item?id=43951368) - [Fan Service](https://flak.tedunangst.com/post/fan-service)
