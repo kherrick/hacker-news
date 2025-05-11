@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-05-11, 21:54:40",
+      "https://news.ycombinator.com/item?id=43957481"
+    ],
+    [
+      "Satellite will have to be turned off when it floats over the US",
+      "https://www.thecooldown.com/green-tech/biomass-satellite-carbon-capture-forests/"
+    ]
+  ],
+  [
+    [
+      "2025-05-11, 21:15:56",
+      "https://news.ycombinator.com/item?id=43957231"
+    ],
+    [
+      "The surgeon who used F1 pitstop techniques to save lives of babies",
+      "https://www.thetimes.com/sport/formula-one/article/professor-martin-elliott-interview-surgeon-f1-pitstops-babies-ferrari-j3sbkjssk"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 20:47:20",
       "https://news.ycombinator.com/item?id=43957010"
     ],
     [
       "Why Bell Labs Worked",
       "https://1517.substack.com/p/why-bell-labs-worked"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 20:09:04",
-      "https://news.ycombinator.com/item?id=43956723"
-    ],
-    [
-      "Burrito Now, Pay Later",
-      "https://enterprisevalue.substack.com/p/burrito-now-pay-later"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-05-10, 02:56:38",
-      "https://news.ycombinator.com/item?id=43942881"
-    ],
-    [
-      "A simple 16x16 dot animation from simple math rules",
-      "https://tixy.land"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 01:45:16",
       "https://news.ycombinator.com/item?id=43933091"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-05-08, 11:03:14",
+      "https://news.ycombinator.com/item?id=43925005"
+    ],
+    [
+      "Monitoring my Minecraft server with OpenTelemetry and Prometheus",
+      "https://www.dash0.com/blog/monitoring-minecraft-with-opentelemetry"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 09:32:57",
       "https://news.ycombinator.com/item?id=43924560"
     ],
@@ -287,16 +297,6 @@
     [
       "Ink and Algorithms: Techniques, tools and the craft of pen plotting",
       "https://penplotter.art/"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 07:58:33",
-      "https://news.ycombinator.com/item?id=43924082"
-    ],
-    [
-      "An Introduction to Solid Queue for Ruby on Rails",
-      "https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html"
     ]
   ]
 ]
