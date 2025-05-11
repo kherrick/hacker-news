@@ -22,12 +22,12 @@
 * [2025-05-09, 06:52:12](https://news.ycombinator.com/item?id=43934411) - [The Ecstatic Swoon](https://aeon.co/essays/what-stendhal-says-about-the-purpose-and-promise-of-art)
 * [2025-05-08, 22:16:05](https://news.ycombinator.com/item?id=43931925) - [Adaptive Hashing](https://quotenil.com/adaptive-hashing.html)
 * [2025-05-08, 20:04:48](https://news.ycombinator.com/item?id=43930725) - [A brief history of the numeric keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad)
-* [2025-05-08, 17:42:33](https://news.ycombinator.com/item?id=43928942) - [How much information is in DNA?](https://dynomight.substack.com/p/dna)
 * [2025-05-08, 15:30:30](https://news.ycombinator.com/item?id=43927095) - [Arduino is at work to make bio-based PCBs](https://blog.arduino.cc/2025/04/22/arduino-is-at-work-to-make-bio-based-pcbs/)
 * [2025-05-08, 14:58:41](https://news.ycombinator.com/item?id=43926713) - [When Suno covers my song (very useful) – a study with variations](http://rochus-keller.ch/?p=1350)
 * [2025-05-08, 01:28:38](https://news.ycombinator.com/item?id=43922216) - [Lianas are taking over the rainforests, and it's visible from space](https://phys.org/news/2025-05-lianas-rainforests-visible-space.html)
 * [2025-05-07, 17:32:14](https://news.ycombinator.com/item?id=43918478) - [Engineers develop wearable heart attack detection technology](https://medicalxpress.com/news/2025-04-wearable-heart-technology.html)
 * [2025-05-07, 13:32:24](https://news.ycombinator.com/item?id=43915470) - [Strain gauge made out of PCB](https://github.com/vapetrov/PCB_strain_gauge)
+* [2025-05-07, 11:24:33](https://news.ycombinator.com/item?id=43914321) - [Crowd Sourcing Broken QR Codes](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
 * [2025-05-07, 08:36:57](https://news.ycombinator.com/item?id=43913414) - [Lazarus Release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
 * [2025-05-07, 04:06:10](https://news.ycombinator.com/item?id=43912164) - [The State of SSL Stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 

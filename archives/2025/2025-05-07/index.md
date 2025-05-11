@@ -63,6 +63,7 @@
 * [2025-05-07, 12:21:58](https://news.ycombinator.com/item?id=43914738) - [Jargonic Sets New SOTA for Japanese ASR](https://aiola.ai/blog/jargonic-japanese-asr/)
 * [2025-05-07, 12:18:38](https://news.ycombinator.com/item?id=43914705) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 * [2025-05-07, 12:14:27](https://news.ycombinator.com/item?id=43914677) - [Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard)
+* [2025-05-07, 11:24:33](https://news.ycombinator.com/item?id=43914321) - [Crowd Sourcing Broken QR Codes](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
 * [2025-05-07, 11:06:17](https://news.ycombinator.com/item?id=43914235) - [My quest to make motorcycle riding that tad bit safer](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/)
 * [2025-05-07, 10:12:14](https://news.ycombinator.com/item?id=43913950) - [Migrating a JavaScript Project from Prettier and ESLint to BiomeJS](https://blog.appsignal.com/2025/05/07/migrating-a-javascript-project-from-prettier-and-eslint-to-biomejs.html)
 * [2025-05-07, 10:04:45](https://news.ycombinator.com/item?id=43913896) - [Agentic Editing in Zed](https://zed.dev/blog/fastest-ai-code-editor?e=60)
