@@ -23,6 +23,7 @@
 * [2025-05-08, 19:34:00](https://news.ycombinator.com/item?id=43930389) - [Fighting Unwanted Notifications with Machine Learning in Chrome](https://blog.chromium.org/2025/05/fighting-unwanted-notifications-with.html)
 * [2025-05-08, 19:15:49](https://news.ycombinator.com/item?id=43930187) - [The Screamer – a yell-on yell-off light](https://rulethepla.net/the-screamer/)
 * [2025-05-08, 19:13:29](https://news.ycombinator.com/item?id=43930156) - [The Rise and Fall of the Visual Telegraph (2017)](https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/)
+* [2025-05-08, 18:47:13](https://news.ycombinator.com/item?id=43929828) - [Sole maintainer of Linux distro AnduinOS turns out to be a Microsoft employee](https://www.neowin.net/news/the-sole-maintainer-of-linux-distribution-anduinos-turns-out-to-be-a-microsoft-employee/)
 * [2025-05-08, 18:40:12](https://news.ycombinator.com/item?id=43929724) - [From: Steve Jobs. \"Great idea, thank you.\"](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
 * [2025-05-08, 18:18:20](https://news.ycombinator.com/item?id=43929447) - [Block Diffusion: Interpolating Autoregressive and Diffusion Language Models](https://m-arriola.com/bd3lms/)
 * [2025-05-08, 18:01:52](https://news.ycombinator.com/item?id=43929237) - [Quantum Visions, an exhibition combining quantum physics and contemporary art](https://www.tabakalera.eus/en/visiones-cuanticas/)
