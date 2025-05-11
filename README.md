@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-11, 14:02:12](https://news.ycombinator.com/item?id=43953884) - [In 2025, venture capital can't pretend everything is fine any more](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/)
+* [2025-05-11, 14:02:03](https://news.ycombinator.com/item?id=43953883) - [Title of work deciphered in sealed Herculaneum scroll via digital unwrapping](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping)
 * [2025-05-11, 13:33:54](https://news.ycombinator.com/item?id=43953722) - [Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse](https://github.com/glassflow/clickhouse-etl)
 * [2025-05-11, 12:08:24](https://news.ycombinator.com/item?id=43953229) - [A Rust Documentation Ecosystem Review](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
 * [2025-05-11, 12:01:16](https://news.ycombinator.com/item?id=43953200) - [Roame (YC S23) Is Hiring Lead Fullstack Engineer](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer)
-* [2025-05-11, 10:15:08](https://news.ycombinator.com/item?id=43952746) - [Zig, the Ideal C Replacement Or?](http://bitshifters.cc/2025/05/04/zig.html)
 * [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
 * [2025-05-11, 07:07:26](https://news.ycombinator.com/item?id=43951985) - [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 * [2025-05-11, 05:58:01](https://news.ycombinator.com/item?id=43951737) - [On thinkers and doers (2022)](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)

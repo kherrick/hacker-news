@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
 * [2025-05-11, 14:02:12](https://news.ycombinator.com/item?id=43953884) - [In 2025, venture capital can't pretend everything is fine any more](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/)
+* [2025-05-11, 14:02:03](https://news.ycombinator.com/item?id=43953883) - [Title of work deciphered in sealed Herculaneum scroll via digital unwrapping](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping)
 * [2025-05-11, 13:33:54](https://news.ycombinator.com/item?id=43953722) - [Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse](https://github.com/glassflow/clickhouse-etl)
 * [2025-05-11, 12:08:24](https://news.ycombinator.com/item?id=43953229) - [A Rust Documentation Ecosystem Review](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
 * [2025-05-11, 12:01:16](https://news.ycombinator.com/item?id=43953200) - [Roame (YC S23) Is Hiring Lead Fullstack Engineer](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer)
