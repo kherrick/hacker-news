@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-11, 12:08:24",
+      "https://news.ycombinator.com/item?id=43953229"
+    ],
+    [
+      "A Rust Documentation Ecosystem Review",
+      "https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 12:01:16",
       "https://news.ycombinator.com/item?id=43953200"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-05-11, 10:15:08",
+      "https://news.ycombinator.com/item?id=43952746"
+    ],
+    [
+      "Zig, the Ideal C Replacement Or?",
+      "http://bitshifters.cc/2025/05/04/zig.html"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 10:08:53",
       "https://news.ycombinator.com/item?id=43952714"
     ],
@@ -37,6 +57,16 @@
     [
       "Insurers launch cover for losses caused by AI chatbot errors",
       "https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df"
+    ]
+  ],
+  [
+    [
+      "2025-05-11, 08:50:00",
+      "https://news.ycombinator.com/item?id=43952396"
+    ],
+    [
+      "A first successful factorization of RSA-2048 integer by D-Wave quantum computer",
+      "https://www.sciopen.com/article/10.26599/TST.2024.9010028"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-05-10, 21:25:21",
-      "https://news.ycombinator.com/item?id=43949134"
-    ],
-    [
-      "Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass",
-      "https://github.com/danielcota/LoopMix128"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 21:15:04",
       "https://news.ycombinator.com/item?id=43949056"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-05-10, 14:55:52",
-      "https://news.ycombinator.com/item?id=43946149"
-    ],
-    [
-      "Comparison of C/POSIX standard library implementations for Linux",
-      "https://www.etalabs.net/compare_libcs.html"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 14:37:59",
       "https://news.ycombinator.com/item?id=43945993"
     ],
@@ -197,16 +207,6 @@
     [
       "US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]",
       "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 11:19:39",
-      "https://news.ycombinator.com/item?id=43944789"
-    ],
-    [
-      "Embracer Games Archive is preserving 75000 video games and needs contributions",
-      "https://embracergamesarchive.com/"
     ]
   ],
   [
@@ -237,16 +237,6 @@
     [
       "An Introduction to Solid Queue for Ruby on Rails",
       "https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 19:01:42",
-      "https://news.ycombinator.com/item?id=43919429"
-    ],
-    [
-      "VMware perpetual license holders receive cease-and-desist letters from Broadcom",
-      "https://arstechnica.com/gadgets/2025/05/broadcom-sends-cease-and-desist-letters-to-subscription-less-vmware-users/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The State of SSL Stacks",
       "https://www.haproxy.com/blog/state-of-ssl-stacks"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 21:47:18",
+      "https://news.ycombinator.com/item?id=43909986"
+    ],
+    [
+      "Four years of running a SaaS in a competitive market",
+      "https://maxrozen.com/on-four-years-running-saas-competitive-market"
     ]
   ]
 ]
