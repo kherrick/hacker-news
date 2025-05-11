@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-05-11, 11:38:54",
-      "https://news.ycombinator.com/item?id=43953092"
-    ],
-    [
-      "Ask HN: What will tech employment look like in 10 years?",
-      "https://news.ycombinator.com/item?id=43953092"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 10:15:08",
       "https://news.ycombinator.com/item?id=43952746"
     ],
@@ -47,26 +37,6 @@
     [
       "The Epochalypse Project",
       "https://epochalypse-project.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 10:07:22",
-      "https://news.ycombinator.com/item?id=43952707"
-    ],
-    [
-      "Insurers launch cover for losses caused by AI chatbot errors",
-      "https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 08:50:00",
-      "https://news.ycombinator.com/item?id=43952396"
-    ],
-    [
-      "A first successful factorization of RSA-2048 integer by D-Wave quantum computer",
-      "https://www.sciopen.com/article/10.26599/TST.2024.9010028"
     ]
   ],
   [
@@ -151,6 +121,16 @@
   ],
   [
     [
+      "2025-05-10, 21:25:21",
+      "https://news.ycombinator.com/item?id=43949134"
+    ],
+    [
+      "Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass",
+      "https://github.com/danielcota/LoopMix128"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 21:15:04",
       "https://news.ycombinator.com/item?id=43949056"
     ],
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2025-05-10, 11:19:39",
+      "https://news.ycombinator.com/item?id=43944789"
+    ],
+    [
+      "Embracer Games Archive is preserving 75000 video games and needs contributions",
+      "https://embracergamesarchive.com/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 20:04:48",
       "https://news.ycombinator.com/item?id=43930725"
     ],
     [
       "A brief history of the numeric keypad",
       "https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 18:47:13",
+      "https://news.ycombinator.com/item?id=43929828"
+    ],
+    [
+      "Sole maintainer of Linux distro AnduinOS turns out to be a Microsoft employee",
+      "https://www.neowin.net/news/the-sole-maintainer-of-linux-distribution-anduinos-turns-out-to-be-a-microsoft-employee/"
     ]
   ],
   [
