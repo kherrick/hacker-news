@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-12, 12:30:16",
+      "https://news.ycombinator.com/item?id=43962207"
+    ],
+    [
+      "CrowdStrike CEO Cuts His Voting Power by 92% with Unexplained Gifts",
+      "https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 12:21:33",
+      "https://news.ycombinator.com/item?id=43962148"
+    ],
+    [
+      "University of Texas-Led Team Solves a Big Problem for Fusion Energy",
+      "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 12:19:50",
+      "https://news.ycombinator.com/item?id=43962138"
+    ],
+    [
+      "Spade Hardware Description Language",
+      "https://spade-lang.org/"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 12:00:07",
       "https://news.ycombinator.com/item?id=43962029"
     ],
@@ -17,6 +47,16 @@
     [
       "A community-led fork of Organic Maps",
       "https://www.comaps.app/news/2025-05-12/3/"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 10:46:40",
+      "https://news.ycombinator.com/item?id=43961597"
+    ],
+    [
+      "Implicit UVs: Real-time semi-global parameterization of implicit surfaces [pdf]",
+      "https://baptiste-genest.github.io/papers/implicit_uvs.pdf"
     ]
   ],
   [
@@ -191,26 +231,6 @@
   ],
   [
     [
-      "2025-05-10, 07:39:35",
-      "https://news.ycombinator.com/item?id=43943898"
-    ],
-    [
-      "Show HN: Codigo – The Programming Language Repository",
-      "https://codigolangs.com"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 02:56:38",
-      "https://news.ycombinator.com/item?id=43942881"
-    ],
-    [
-      "A simple 16x16 dot animation from simple math rules",
-      "https://tixy.land"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 03:27:21",
       "https://news.ycombinator.com/item?id=43933548"
     ],
@@ -237,16 +257,6 @@
     [
       "Show HN: Vom Decision Platform (Cursor for Decision Analyst)",
       "https://www.vomdecision.com"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 00:25:22",
-      "https://news.ycombinator.com/item?id=43932686"
-    ],
-    [
-      "A formatter for your kdl files",
-      "https://github.com/hougesen/kdlfmt"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Absolute Zero Reasoner",
       "https://andrewzh112.github.io/absolute-zero-reasoner/"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 08:36:57",
-      "https://news.ycombinator.com/item?id=43913414"
-    ],
-    [
-      "Lazarus Release 4.0",
-      "https://forum.lazarus.freepascal.org/index.php?topic=71050.0"
     ]
   ]
 ]
