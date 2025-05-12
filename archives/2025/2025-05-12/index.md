@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 19:05:03](https://news.ycombinator.com/item?id=43966471) - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
+* [2025-05-12, 19:01:22](https://news.ycombinator.com/item?id=43966422) - [A Proven Guide to Building Your Path to Success](https://diamantinoalmeida.com/career-strategy-a-proven-guide-to-building-your-path-to-success/)
+* [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can You Really Trust That Permission Pop-Up on macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
 * [2025-05-12, 17:42:37](https://news.ycombinator.com/item?id=43965608) - [HealthBench](https://openai.com/index/healthbench/)
 * [2025-05-12, 17:29:48](https://news.ycombinator.com/item?id=43965453) - [Show HN: The missing inbox for GitHub pull requests](https://github.com/pvcnt/mergeable)
 * [2025-05-12, 17:26:45](https://news.ycombinator.com/item?id=43965419) - [Access to the United States' President for Sale via Meme Coin](https://mastodon.social/@fiete/114495920458503045)

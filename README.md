@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-12, 19:05:03](https://news.ycombinator.com/item?id=43966471) - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
+* [2025-05-12, 19:01:22](https://news.ycombinator.com/item?id=43966422) - [A Proven Guide to Building Your Path to Success](https://diamantinoalmeida.com/career-strategy-a-proven-guide-to-building-your-path-to-success/)
+* [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can You Really Trust That Permission Pop-Up on macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
 * [2025-05-12, 17:42:37](https://news.ycombinator.com/item?id=43965608) - [HealthBench](https://openai.com/index/healthbench/)
-* [2025-05-12, 17:29:48](https://news.ycombinator.com/item?id=43965453) - [Show HN: The missing inbox for GitHub pull requests](https://github.com/pvcnt/mergeable)
 * [2025-05-12, 17:01:42](https://news.ycombinator.com/item?id=43965161) - [Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
 * [2025-05-12, 16:55:39](https://news.ycombinator.com/item?id=43965099) - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/abs/2412.09871)
 * [2025-05-12, 16:39:10](https://news.ycombinator.com/item?id=43964937) - [I hacked a dating app (and how not to treat a security researcher)](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
@@ -25,11 +27,9 @@
 * [2025-05-12, 09:46:36](https://news.ycombinator.com/item?id=43961226) - [Universe expected to decay in 10⁷⁸ years, much sooner than previously thought](https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html)
 * [2025-05-12, 03:34:26](https://news.ycombinator.com/item?id=43959403) - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 * [2025-05-10, 13:55:43](https://news.ycombinator.com/item?id=43945660) - [Why GADTs matter for performance (2015)](https://blog.janestreet.com/why-gadts-matter-for-performance/)
-* [2025-05-10, 10:18:54](https://news.ycombinator.com/item?id=43944526) - [A Typical Workday at a Japanese Hardware Tool Store [video]](https://www.youtube.com/watch?v=A98jyfB5mws)
+* [2025-05-10, 13:40:34](https://news.ycombinator.com/item?id=43945545) - [Interagency Grizzly Bear Committee](https://igbconline.org/)
 * [2025-05-10, 08:10:18](https://news.ycombinator.com/item?id=43944007) - [5 Steps to N-Body Simulation](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
-* [2025-05-10, 08:01:30](https://news.ycombinator.com/item?id=43943984) - [Ash (Almquist Shell) Variants](https://www.in-ulm.de/~mascheck/various/ash/)
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
-* [2025-05-08, 16:26:11](https://news.ycombinator.com/item?id=43927794) - [Optimizing My Hacker News Experience](https://reorientinglife.substack.com/p/optimizing-my-hacker-news-experience)
 
 ## [Archives](archives/index.md)
 
