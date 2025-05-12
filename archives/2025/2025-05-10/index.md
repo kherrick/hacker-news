@@ -52,6 +52,7 @@
 * [2025-05-10, 08:43:27](https://news.ycombinator.com/item?id=43944154) - [CT scans show cigarettes are harder on the lungs than marijuana](https://healthimaging.com/topics/medical-imaging/computed-tomography-ct/ct-scans-dont-lie-cigarettes-are-harder-lungs-marijuana)
 * [2025-05-10, 08:12:05](https://news.ycombinator.com/item?id=43944016) - [After 16 years, we're renewing the StackOverflow Brand](https://meta.stackexchange.com/questions/408823/after-16-years-we-re-renewing-the-brand)
 * [2025-05-10, 08:01:30](https://news.ycombinator.com/item?id=43943984) - [Ash (Almquist Shell) Variants](https://www.in-ulm.de/~mascheck/various/ash/)
+* [2025-05-10, 07:39:35](https://news.ycombinator.com/item?id=43943898) - [Show HN: Codigo – The Programming Language Repository](https://codigolangs.com)
 * [2025-05-10, 07:30:28](https://news.ycombinator.com/item?id=43943871) - [Why should I care? or why punks are correct and old wise philosophers are wrong](https://abuseofnotation.github.io/moral-law/)
 * [2025-05-10, 06:58:15](https://news.ycombinator.com/item?id=43943737) - [NOT a 3 year old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
 * [2025-05-10, 06:38:56](https://news.ycombinator.com/item?id=43943652) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
