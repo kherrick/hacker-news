@@ -77,4 +77,5 @@
 * [2025-05-09, 01:00:53](https://news.ycombinator.com/item?id=43932871) - [How to (actually) prove it – New Frontiers of Mathematics and Computing in Lean](https://kirancodes.me/posts/log-how-to-prove-it-maths.html)
 * [2025-05-09, 00:40:33](https://news.ycombinator.com/item?id=43932764) - [Show HN: Vom Decision Platform (Cursor for Decision Analyst)](https://www.vomdecision.com)
 * [2025-05-09, 00:26:28](https://news.ycombinator.com/item?id=43932690) - [Coupling furfural oxidation for H2 production using silicon photoelectrodes](https://www.nature.com/articles/s41467-025-58000-4)
+* [2025-05-09, 00:25:22](https://news.ycombinator.com/item?id=43932686) - [A formatter for your kdl files](https://github.com/hougesen/kdlfmt)
 * [2025-05-09, 00:04:21](https://news.ycombinator.com/item?id=43932567) - [Cogentcore: Open-source framework for building multi-platform apps with Go](https://github.com/cogentcore/core)
