@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 19:52:40](https://news.ycombinator.com/item?id=43966843) - [Why National Labs are investing (heavily) in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
 * [2025-05-12, 19:05:03](https://news.ycombinator.com/item?id=43966471) - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
 * [2025-05-12, 19:01:22](https://news.ycombinator.com/item?id=43966422) - [A Proven Guide to Building Your Path to Success](https://diamantinoalmeida.com/career-strategy-a-proven-guide-to-building-your-path-to-success/)
 * [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can You Really Trust That Permission Pop-Up on macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)

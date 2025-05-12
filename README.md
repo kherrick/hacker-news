@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-12, 19:52:40](https://news.ycombinator.com/item?id=43966843) - [Why National Labs are investing (heavily) in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
 * [2025-05-12, 19:05:03](https://news.ycombinator.com/item?id=43966471) - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
 * [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can You Really Trust That Permission Pop-Up on macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
 * [2025-05-12, 18:24:17](https://news.ycombinator.com/item?id=43966064) - [Toward a Sparse and Interpretable Audio Codec](https://arxiv.org/abs/2505.05654)
@@ -18,7 +19,6 @@
 * [2025-05-12, 14:29:33](https://news.ycombinator.com/item?id=43963397) - [Reviving a Modular Cargo Bike Design from the 1930s](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s)
 * [2025-05-12, 14:00:32](https://news.ycombinator.com/item?id=43962992) - [Tailscale 4via6 – Connect Edge Deployments at Scale](https://tailscale.com/blog/4via6-connectivity-to-edge-devices)
 * [2025-05-12, 13:39:34](https://news.ycombinator.com/item?id=43962770) - [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)
-* [2025-05-12, 13:12:10](https://news.ycombinator.com/item?id=43962528) - [The FTC puts off enforcing its 'click-to-cancel' rule](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule)
 * [2025-05-12, 12:59:19](https://news.ycombinator.com/item?id=43962427) - [Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps](https://github.com/m-ahmed-elbeskeri/Starguard)
 * [2025-05-12, 12:21:33](https://news.ycombinator.com/item?id=43962148) - [University of Texas-led team solves a big problem for fusion energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
 * [2025-05-12, 12:19:50](https://news.ycombinator.com/item?id=43962138) - [Spade Hardware Description Language](https://spade-lang.org/)
@@ -27,9 +27,9 @@
 * [2025-05-12, 03:34:26](https://news.ycombinator.com/item?id=43959403) - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 * [2025-05-10, 13:55:43](https://news.ycombinator.com/item?id=43945660) - [Why GADTs matter for performance (2015)](https://blog.janestreet.com/why-gadts-matter-for-performance/)
 * [2025-05-10, 13:40:34](https://news.ycombinator.com/item?id=43945545) - [Interagency Grizzly Bear Committee](https://igbconline.org/)
-* [2025-05-10, 10:18:54](https://news.ycombinator.com/item?id=43944526) - [A Typical Workday at a Japanese Hardware Tool Store [video]](https://www.youtube.com/watch?v=A98jyfB5mws)
 * [2025-05-10, 08:10:18](https://news.ycombinator.com/item?id=43944007) - [5 Steps to N-Body Simulation](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
+* [2025-05-09, 21:30:16](https://news.ycombinator.com/item?id=43941068) - [The Acid King](https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/)
 
 ## [Archives](archives/index.md)
 
