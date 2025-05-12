@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-05-12, 22:41:30",
+      "https://news.ycombinator.com/item?id=43968141"
+    ],
+    [
+      "Understanding LucasArts' iMUSE System",
+      "https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 22:28:40",
       "https://news.ycombinator.com/item?id=43968044"
     ],
     [
       "Ask HN: Is Slack Down?",
       "https://news.ycombinator.com/item?id=43968044"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 22:15:12",
+      "https://news.ycombinator.com/item?id=43967962"
+    ],
+    [
+      "Wtfis: Passive hostname, domain and IP lookup tool for non-robots",
+      "https://github.com/pirxthepilot/wtfis"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-05-12, 12:59:19",
-      "https://news.ycombinator.com/item?id=43962427"
-    ],
-    [
-      "Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps",
-      "https://github.com/m-ahmed-elbeskeri/Starguard"
-    ]
-  ],
-  [
-    [
       "2025-05-12, 12:21:33",
       "https://news.ycombinator.com/item?id=43962148"
     ],
     [
       "University of Texas-led team solves a big problem for fusion energy",
       "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 12:19:50",
-      "https://news.ycombinator.com/item?id=43962138"
-    ],
-    [
-      "Spade Hardware Description Language",
-      "https://spade-lang.org/"
     ]
   ],
   [
@@ -247,16 +247,6 @@
     [
       "Cory Arcangel Recovered a Late Artist's Digital Legacy",
       "https://www.newyorker.com/culture/infinite-scroll/how-cory-arcangel-recovered-a-late-artists-digital-legacy"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 13:55:43",
-      "https://news.ycombinator.com/item?id=43945660"
-    ],
-    [
-      "Why GADTs matter for performance (2015)",
-      "https://blog.janestreet.com/why-gadts-matter-for-performance/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "NASA Study Reveals Venus Crust Surprise",
       "https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 18:48:03",
+      "https://news.ycombinator.com/item?id=43939877"
+    ],
+    [
+      "The Beam",
+      "https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/"
     ]
   ]
 ]
