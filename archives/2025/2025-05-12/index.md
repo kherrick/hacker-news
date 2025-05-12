@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 10:00:47](https://news.ycombinator.com/item?id=43961309) - [Why alien languages could be far stranger than we imagine Essays](https://aeon.co/essays/why-alien-languages-could-be-far-stranger-than-we-imagine)
 * [2025-05-12, 09:46:36](https://news.ycombinator.com/item?id=43961226) - [Universe expected to decay in 10⁷⁸ years, much sooner than previously thought](https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html)
 * [2025-05-12, 07:51:42](https://news.ycombinator.com/item?id=43960577) - [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
 * [2025-05-12, 07:41:39](https://news.ycombinator.com/item?id=43960518) - [White House fires head of Copyright Office amid Library of Congress shakeup](https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/)
