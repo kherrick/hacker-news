@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 16:01:31](https://news.ycombinator.com/item?id=43964505) - [Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
+* [2025-05-12, 15:28:38](https://news.ycombinator.com/item?id=43964136) - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
 * [2025-05-12, 15:05:44](https://news.ycombinator.com/item?id=43963868) - [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
 * [2025-05-12, 15:02:48](https://news.ycombinator.com/item?id=43963839) - [OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information](https://openeox.org/)
 * [2025-05-12, 14:54:31](https://news.ycombinator.com/item?id=43963747) - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)

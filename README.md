@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-12, 16:01:31](https://news.ycombinator.com/item?id=43964505) - [Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
+* [2025-05-12, 15:28:38](https://news.ycombinator.com/item?id=43964136) - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
 * [2025-05-12, 15:05:44](https://news.ycombinator.com/item?id=43963868) - [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
 * [2025-05-12, 15:02:48](https://news.ycombinator.com/item?id=43963839) - [OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information](https://openeox.org/)
 * [2025-05-12, 14:54:31](https://news.ycombinator.com/item?id=43963747) - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
@@ -22,14 +24,12 @@
 * [2025-05-12, 02:21:11](https://news.ycombinator.com/item?id=43959071) - [Continuous Thought Machines](https://pub.sakana.ai/ctm/)
 * [2025-05-12, 01:46:57](https://news.ycombinator.com/item?id=43958898) - [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
 * [2025-05-11, 20:47:20](https://news.ycombinator.com/item?id=43957010) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
-* [2025-05-11, 17:51:04](https://news.ycombinator.com/item?id=43955525) - [Car companies are in a billion-dollar software war](https://insideevs.com/features/759153/car-companies-software-companies/)
 * [2025-05-11, 16:31:58](https://news.ycombinator.com/item?id=43954896) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
-* [2025-05-11, 15:31:39](https://news.ycombinator.com/item?id=43954488) - [High-school shop students attract skilled-trades job offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
 * [2025-05-10, 10:18:54](https://news.ycombinator.com/item?id=43944526) - [A Typical Workday at a Japanese Hardware Tool Store [video]](https://www.youtube.com/watch?v=A98jyfB5mws)
+* [2025-05-10, 08:01:30](https://news.ycombinator.com/item?id=43943984) - [Ash (Almquist Shell) Variants](https://www.in-ulm.de/~mascheck/various/ash/)
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
 * [2025-05-08, 20:54:51](https://news.ycombinator.com/item?id=43931237) - [Making PyPI's test suite faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
 * [2025-05-08, 16:26:11](https://news.ycombinator.com/item?id=43927794) - [Optimizing My Hacker News Experience](https://reorientinglife.substack.com/p/optimizing-my-hacker-news-experience)
-* [2025-05-08, 01:48:00](https://news.ycombinator.com/item?id=43922341) - [Absolute Zero Reasoner](https://andrewzh112.github.io/absolute-zero-reasoner/)
 
 ## [Archives](archives/index.md)
 
