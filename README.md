@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-12, 19:52:40](https://news.ycombinator.com/item?id=43966843) - [Why National Labs are investing (heavily) in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
+* [2025-05-12, 19:32:19](https://news.ycombinator.com/item?id=43966694) - [Build Your Own Siri. Locally. On-Device. No Cloud](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
 * [2025-05-12, 19:05:03](https://news.ycombinator.com/item?id=43966471) - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
 * [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can You Really Trust That Permission Pop-Up on macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
 * [2025-05-12, 18:24:17](https://news.ycombinator.com/item?id=43966064) - [Toward a Sparse and Interpretable Audio Codec](https://arxiv.org/abs/2505.05654)
@@ -8,7 +9,6 @@
 * [2025-05-12, 17:01:42](https://news.ycombinator.com/item?id=43965161) - [Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
 * [2025-05-12, 16:55:39](https://news.ycombinator.com/item?id=43965099) - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/abs/2412.09871)
 * [2025-05-12, 16:39:10](https://news.ycombinator.com/item?id=43964937) - [I hacked a dating app (and how not to treat a security researcher)](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
-* [2025-05-12, 16:35:42](https://news.ycombinator.com/item?id=43964896) - [The Internet 1997 – 2021](https://www.opte.org/the-internet)
 * [2025-05-12, 16:29:05](https://news.ycombinator.com/item?id=43964827) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
 * [2025-05-12, 16:11:43](https://news.ycombinator.com/item?id=43964620) - [How to title your blog post or whatever](https://dynomight.net/titles/)
 * [2025-05-12, 16:01:31](https://news.ycombinator.com/item?id=43964505) - [Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
@@ -16,6 +16,7 @@
 * [2025-05-12, 15:28:38](https://news.ycombinator.com/item?id=43964136) - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
 * [2025-05-12, 15:05:44](https://news.ycombinator.com/item?id=43963868) - [Embeddings are underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
 * [2025-05-12, 14:54:31](https://news.ycombinator.com/item?id=43963747) - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
+* [2025-05-12, 14:29:33](https://news.ycombinator.com/item?id=43963397) - [Reviving a modular cargo bike design from the 1930s](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s)
 * [2025-05-12, 14:00:32](https://news.ycombinator.com/item?id=43962992) - [Tailscale 4via6 – Connect Edge Deployments at Scale](https://tailscale.com/blog/4via6-connectivity-to-edge-devices)
 * [2025-05-12, 13:39:34](https://news.ycombinator.com/item?id=43962770) - [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)
 * [2025-05-12, 12:59:19](https://news.ycombinator.com/item?id=43962427) - [Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps](https://github.com/m-ahmed-elbeskeri/Starguard)
@@ -26,10 +27,9 @@
 * [2025-05-12, 03:34:26](https://news.ycombinator.com/item?id=43959403) - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 * [2025-05-10, 13:55:43](https://news.ycombinator.com/item?id=43945660) - [Why GADTs matter for performance (2015)](https://blog.janestreet.com/why-gadts-matter-for-performance/)
 * [2025-05-10, 13:40:34](https://news.ycombinator.com/item?id=43945545) - [Interagency Grizzly Bear Committee](https://igbconline.org/)
-* [2025-05-10, 10:18:54](https://news.ycombinator.com/item?id=43944526) - [A Typical Workday at a Japanese Hardware Tool Store [video]](https://www.youtube.com/watch?v=A98jyfB5mws)
 * [2025-05-10, 08:10:18](https://news.ycombinator.com/item?id=43944007) - [5 Steps to N-Body Simulation](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
-* [2025-05-09, 21:30:16](https://news.ycombinator.com/item?id=43941068) - [The Acid King](https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/)
+* [2025-05-09, 21:30:16](https://news.ycombinator.com/item?id=43941068) - [The Acid King (2001)](https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/)
 
 ## [Archives](archives/index.md)
 
