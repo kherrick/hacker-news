@@ -17,6 +17,7 @@
 * [2025-05-09, 20:08:27](https://news.ycombinator.com/item?id=43940452) - [Graphcore unveils GC200 and M2000 IPU Machine–1 petaFLOP \"pizza box\" AI server](https://www.graphcore.ai/articles/graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them)
 * [2025-05-09, 19:25:05](https://news.ycombinator.com/item?id=43940172) - [NASA Study Reveals Venus Crust Surprise](https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/)
 * [2025-05-09, 19:07:53](https://news.ycombinator.com/item?id=43940033) - [Why 536 was 'the worst year to be alive'](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
+* [2025-05-09, 18:48:03](https://news.ycombinator.com/item?id=43939877) - [The Beam](https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/)
 * [2025-05-09, 18:37:15](https://news.ycombinator.com/item?id=43939781) - [How Warren Robinett Made Adventure on the Atari](http://www.warrenrobinett.com/inventing_adventure/)
 * [2025-05-09, 18:13:38](https://news.ycombinator.com/item?id=43939617) - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
 * [2025-05-09, 18:01:56](https://news.ycombinator.com/item?id=43939520) - [Odin, a Pragmatic C Alternative with a Go Flavour](http://bitshifters.cc/2025/05/04/odin.html)
