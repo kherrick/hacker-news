@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-12, 17:26:45](https://news.ycombinator.com/item?id=43965419) - [Access to the United States' President for Sale via Meme Coin](https://mastodon.social/@fiete/114495920458503045)
 * [2025-05-12, 17:01:42](https://news.ycombinator.com/item?id=43965161) - [Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
+* [2025-05-12, 16:55:39](https://news.ycombinator.com/item?id=43965099) - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/abs/2412.09871)
 * [2025-05-12, 16:39:10](https://news.ycombinator.com/item?id=43964937) - [I hacked a dating app (and how not to treat a security researcher)](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
 * [2025-05-12, 16:34:35](https://news.ycombinator.com/item?id=43964885) - [Ex-UK Special Forces break silence on 'war crimes' by colleagues](https://www.bbc.com/news/articles/cj3j5gxgz0do)
 * [2025-05-12, 16:29:05](https://news.ycombinator.com/item?id=43964827) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
@@ -19,9 +21,7 @@
 * [2025-05-12, 12:21:33](https://news.ycombinator.com/item?id=43962148) - [University of Texas-led team solves a big problem for fusion energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
 * [2025-05-12, 12:19:50](https://news.ycombinator.com/item?id=43962138) - [Spade Hardware Description Language](https://spade-lang.org/)
 * [2025-05-12, 11:40:24](https://news.ycombinator.com/item?id=43961908) - [A community-led fork of Organic Maps](https://www.comaps.app/news/2025-05-12/3/)
-* [2025-05-12, 10:46:40](https://news.ycombinator.com/item?id=43961597) - [Implicit UVs: Real-time semi-global parameterization of implicit surfaces [pdf]](https://baptiste-genest.github.io/papers/implicit_uvs.pdf)
 * [2025-05-12, 09:46:36](https://news.ycombinator.com/item?id=43961226) - [Universe expected to decay in 10⁷⁸ years, much sooner than previously thought](https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html)
-* [2025-05-12, 07:51:42](https://news.ycombinator.com/item?id=43960577) - [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
 * [2025-05-12, 03:34:26](https://news.ycombinator.com/item?id=43959403) - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 * [2025-05-12, 02:21:11](https://news.ycombinator.com/item?id=43959071) - [Continuous Thought Machines](https://pub.sakana.ai/ctm/)
 * [2025-05-12, 01:46:57](https://news.ycombinator.com/item?id=43958898) - [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
