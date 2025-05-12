@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-12, 15:05:44",
+      "https://news.ycombinator.com/item?id=43963868"
+    ],
+    [
+      "Embeddings Are Underrated",
+      "https://technicalwriting.dev/ml/embeddings/overview.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 15:02:48",
+      "https://news.ycombinator.com/item?id=43963839"
+    ],
+    [
+      "OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information",
+      "https://openeox.org/"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 13:39:34",
       "https://news.ycombinator.com/item?id=43962770"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-05-11, 23:12:42",
-      "https://news.ycombinator.com/item?id=43958082"
-    ],
-    [
-      "I hacked my clock to control my focus",
-      "https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 20:47:20",
       "https://news.ycombinator.com/item?id=43957010"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-05-11, 14:02:03",
-      "https://news.ycombinator.com/item?id=43953883"
-    ],
-    [
-      "Title of work deciphered in sealed Herculaneum scroll via digital unwrapping",
-      "https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 10:18:54",
       "https://news.ycombinator.com/item?id=43944526"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-05-09, 01:45:16",
-      "https://news.ycombinator.com/item?id=43933091"
-    ],
-    [
-      "How friction is being redistributed in today's economy",
-      "https://kyla.substack.com/p/the-most-valuable-commodity-in-the"
-    ]
-  ],
-  [
-    [
       "2025-05-08, 21:06:02",
       "https://news.ycombinator.com/item?id=43931366"
     ],
@@ -287,6 +277,16 @@
     [
       "Making PyPI's test suite faster",
       "https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 16:26:11",
+      "https://news.ycombinator.com/item?id=43927794"
+    ],
+    [
+      "Optimizing My Hacker News Experience",
+      "https://reorientinglife.substack.com/p/optimizing-my-hacker-news-experience"
     ]
   ],
   [
