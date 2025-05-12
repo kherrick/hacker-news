@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-12, 16:01:31](https://news.ycombinator.com/item?id=43964505) - [Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
+* [2025-05-12, 15:34:21](https://news.ycombinator.com/item?id=43964201) - [Show HN: Airweave – Let agents search any app](https://github.com/airweave-ai/airweave)
 * [2025-05-12, 15:28:38](https://news.ycombinator.com/item?id=43964136) - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
 * [2025-05-12, 15:05:44](https://news.ycombinator.com/item?id=43963868) - [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
 * [2025-05-12, 15:02:48](https://news.ycombinator.com/item?id=43963839) - [OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information](https://openeox.org/)
@@ -17,7 +18,6 @@
 * [2025-05-12, 12:00:07](https://news.ycombinator.com/item?id=43962029) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-05-12, 11:40:24](https://news.ycombinator.com/item?id=43961908) - [A community-led fork of Organic Maps](https://www.comaps.app/news/2025-05-12/3/)
 * [2025-05-12, 10:46:40](https://news.ycombinator.com/item?id=43961597) - [Implicit UVs: Real-time semi-global parameterization of implicit surfaces [pdf]](https://baptiste-genest.github.io/papers/implicit_uvs.pdf)
-* [2025-05-12, 09:49:10](https://news.ycombinator.com/item?id=43961247) - [US Copyright Office found AI companies breach copyright. Its boss was fired](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/)
 * [2025-05-12, 09:46:36](https://news.ycombinator.com/item?id=43961226) - [Universe expected to decay in 10⁷⁸ years, much sooner than previously thought](https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html)
 * [2025-05-12, 07:51:42](https://news.ycombinator.com/item?id=43960577) - [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
 * [2025-05-12, 03:34:26](https://news.ycombinator.com/item?id=43959403) - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
