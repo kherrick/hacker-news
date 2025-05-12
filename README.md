@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-12, 03:34:26](https://news.ycombinator.com/item?id=43959403) - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 * [2025-05-12, 02:34:32](https://news.ycombinator.com/item?id=43959129) - [The Academic Pipeline Stall: Why Industry Must Stand for Academia](https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
 * [2025-05-12, 02:21:11](https://news.ycombinator.com/item?id=43959071) - [Continuous Thought Machines](https://pub.sakana.ai/ctm/)
 * [2025-05-12, 01:46:57](https://news.ycombinator.com/item?id=43958898) - [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
@@ -22,7 +23,6 @@
 * [2025-05-11, 03:01:56](https://news.ycombinator.com/item?id=43950976) - [Leaving Google](https://www.airs.com/blog/archives/670)
 * [2025-05-10, 12:39:03](https://news.ycombinator.com/item?id=43945157) - [3D printing in vivo for non-surgical implants and drug delivery](https://www.science.org/doi/10.1126/science.adt0293)
 * [2025-05-10, 07:39:35](https://news.ycombinator.com/item?id=43943898) - [Show HN: Codigo – The Programming Language Repository](https://codigolangs.com)
-* [2025-05-10, 02:56:38](https://news.ycombinator.com/item?id=43942881) - [A simple 16x16 dot animation from simple math rules](https://tixy.land)
 * [2025-05-09, 01:45:16](https://news.ycombinator.com/item?id=43933091) - [The most valuable commodity in the world is friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
 * [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
 * [2025-05-08, 17:05:11](https://news.ycombinator.com/item?id=43928364) - [In-Memory Ferroelectric Differentiator](https://www.nature.com/articles/s41467-025-58359-4)
