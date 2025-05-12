@@ -90,5 +90,6 @@
 * [2025-05-08, 04:09:40](https://news.ycombinator.com/item?id=43922975) - [Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html)
 * [2025-05-08, 03:18:10](https://news.ycombinator.com/item?id=43922759) - [Ask HN: How much better are AI IDEs vs. copy pasting into chat apps?](https://news.ycombinator.com/item?id=43922759)
 * [2025-05-08, 03:04:03](https://news.ycombinator.com/item?id=43922698) - [I can't understand Apple's Critical Alert policy](https://jhan.bearblog.dev/i-cant-understand-apples-critical-alert-policy/)
+* [2025-05-08, 01:48:00](https://news.ycombinator.com/item?id=43922341) - [Absolute Zero Reasoner](https://andrewzh112.github.io/absolute-zero-reasoner/)
 * [2025-05-08, 01:28:38](https://news.ycombinator.com/item?id=43922216) - [Lianas are taking over the rainforests, and it's visible from space](https://phys.org/news/2025-05-lianas-rainforests-visible-space.html)
 * [2025-05-08, 00:18:47](https://news.ycombinator.com/item?id=43921805) - [Examining problematic speech and behavior in World of Warcraft (2022)](https://tcjournal.org/vol8/jackson/)
