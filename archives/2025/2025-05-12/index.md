@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 13:27:50](https://news.ycombinator.com/item?id=43962662) - [Paul McCartney, Elton John and other creatives demand AI comes clean on scraping](https://www.theregister.com/2025/05/12/uk_creatives_ai_letter/)
+* [2025-05-12, 13:07:58](https://news.ycombinator.com/item?id=43962503) - [A crypto founder faked his death. We found him alive at his dad's house](https://sfstandard.com/2025/05/08/jeffy-yu-zerebro-fake-death/)
 * [2025-05-12, 12:30:16](https://news.ycombinator.com/item?id=43962207) - [CrowdStrike CEO Cuts His Voting Power by 92% with Unexplained Gifts](https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts)
 * [2025-05-12, 12:21:33](https://news.ycombinator.com/item?id=43962148) - [University of Texas-Led Team Solves a Big Problem for Fusion Energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
 * [2025-05-12, 12:19:50](https://news.ycombinator.com/item?id=43962138) - [Spade Hardware Description Language](https://spade-lang.org/)
