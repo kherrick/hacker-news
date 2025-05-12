@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 12:30:16](https://news.ycombinator.com/item?id=43962207) - [CrowdStrike CEO Cuts His Voting Power by 92% with Unexplained Gifts](https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts)
+* [2025-05-12, 12:21:33](https://news.ycombinator.com/item?id=43962148) - [University of Texas-Led Team Solves a Big Problem for Fusion Energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
+* [2025-05-12, 12:19:50](https://news.ycombinator.com/item?id=43962138) - [Spade Hardware Description Language](https://spade-lang.org/)
 * [2025-05-12, 12:00:07](https://news.ycombinator.com/item?id=43962029) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-05-12, 11:40:24](https://news.ycombinator.com/item?id=43961908) - [A community-led fork of Organic Maps](https://www.comaps.app/news/2025-05-12/3/)
 * [2025-05-12, 11:08:02](https://news.ycombinator.com/item?id=43961720) - [Unending ransomware attacks are a symptom, not the sickness](https://www.theregister.com/2025/05/12/opinion_column_ransomware/)
+* [2025-05-12, 10:46:40](https://news.ycombinator.com/item?id=43961597) - [Implicit UVs: Real-time semi-global parameterization of implicit surfaces [pdf]](https://baptiste-genest.github.io/papers/implicit_uvs.pdf)
 * [2025-05-12, 10:00:47](https://news.ycombinator.com/item?id=43961309) - [Why alien languages could be far stranger than we imagine Essays](https://aeon.co/essays/why-alien-languages-could-be-far-stranger-than-we-imagine)
 * [2025-05-12, 09:49:10](https://news.ycombinator.com/item?id=43961247) - [US Copyright Office found AI companies breach copyright. Its boss was fired](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/)
 * [2025-05-12, 09:46:36](https://news.ycombinator.com/item?id=43961226) - [Universe expected to decay in 10⁷⁸ years, much sooner than previously thought](https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html)
