@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 12:00:07](https://news.ycombinator.com/item?id=43962029) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+* [2025-05-12, 11:40:24](https://news.ycombinator.com/item?id=43961908) - [A community-led fork of Organic Maps](https://www.comaps.app/news/2025-05-12/3/)
 * [2025-05-12, 11:08:02](https://news.ycombinator.com/item?id=43961720) - [Unending ransomware attacks are a symptom, not the sickness](https://www.theregister.com/2025/05/12/opinion_column_ransomware/)
 * [2025-05-12, 10:00:47](https://news.ycombinator.com/item?id=43961309) - [Why alien languages could be far stranger than we imagine Essays](https://aeon.co/essays/why-alien-languages-could-be-far-stranger-than-we-imagine)
+* [2025-05-12, 09:49:10](https://news.ycombinator.com/item?id=43961247) - [US Copyright Office found AI companies breach copyright. Its boss was fired](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/)
 * [2025-05-12, 09:46:36](https://news.ycombinator.com/item?id=43961226) - [Universe expected to decay in 10⁷⁸ years, much sooner than previously thought](https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html)
 * [2025-05-12, 07:51:42](https://news.ycombinator.com/item?id=43960577) - [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
 * [2025-05-12, 07:41:39](https://news.ycombinator.com/item?id=43960518) - [White House fires head of Copyright Office amid Library of Congress shakeup](https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/)
