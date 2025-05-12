@@ -34,6 +34,7 @@
 * [2025-05-08, 17:37:19](https://news.ycombinator.com/item?id=43928861) - [UK rolls out passkeys across Gov.uk services](https://www.biometricupdate.com/202505/uk-govt-commits-to-passkeys-in-another-big-step-to-a-passwordless-world)
 * [2025-05-08, 17:29:15](https://news.ycombinator.com/item?id=43928742) - [Chicago native Cardinal Prevost elected pope, takes name Leo XIV](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/)
 * [2025-05-08, 17:20:23](https://news.ycombinator.com/item?id=43928613) - [Robert Francis Prevost Is Chosen as First Pope from U.S.](https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news)
+* [2025-05-08, 17:05:11](https://news.ycombinator.com/item?id=43928364) - [In-Memory Ferroelectric Differentiator](https://www.nature.com/articles/s41467-025-58359-4)
 * [2025-05-08, 17:02:10](https://news.ycombinator.com/item?id=43928315) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 * [2025-05-08, 17:00:38](https://news.ycombinator.com/item?id=43928294) - [Ciro (YC S22) is hiring a software engineer to build AI agents for sales](https://www.ycombinator.com/companies/ciro/jobs)
 * [2025-05-08, 16:49:11](https://news.ycombinator.com/item?id=43928118) - [Show HN: Using eBPF to see through encryption without a proxy](https://github.com/qpoint-io/qtap)
