@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-05-11, 17:29:16",
-      "https://news.ycombinator.com/item?id=43955333"
-    ],
-    [
-      "An online exhibition of pretty software bugs",
-      "https://glitchgallery.org/"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 16:31:58",
       "https://news.ycombinator.com/item?id=43954896"
     ],
@@ -257,6 +247,16 @@
     [
       "Making PyPI's test suite 81% faster – The Trail of Bits Blog",
       "https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 20:54:13",
+      "https://news.ycombinator.com/item?id=43931226"
+    ],
+    [
+      "Show HN: Translate between dialects and share SQL queries on the browser",
+      "https://sqlscope.netlify.app"
     ]
   ],
   [
