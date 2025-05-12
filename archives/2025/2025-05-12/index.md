@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 16:39:10](https://news.ycombinator.com/item?id=43964937) - [I hacked a dating app (and how not to treat a security researcher)](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
+* [2025-05-12, 16:34:35](https://news.ycombinator.com/item?id=43964885) - [Ex-UK Special Forces break silence on 'war crimes' by colleagues](https://www.bbc.com/news/articles/cj3j5gxgz0do)
+* [2025-05-12, 16:29:05](https://news.ycombinator.com/item?id=43964827) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
 * [2025-05-12, 16:01:31](https://news.ycombinator.com/item?id=43964505) - [Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
+* [2025-05-12, 15:42:38](https://news.ycombinator.com/item?id=43964304) - [Traffic Fatalities Are a Choice](https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice)
 * [2025-05-12, 15:34:21](https://news.ycombinator.com/item?id=43964201) - [Show HN: Airweave – Let agents search any app](https://github.com/airweave-ai/airweave)
 * [2025-05-12, 15:28:38](https://news.ycombinator.com/item?id=43964136) - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
 * [2025-05-12, 15:05:44](https://news.ycombinator.com/item?id=43963868) - [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
