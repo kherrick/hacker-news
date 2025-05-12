@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-12, 01:46:57",
+      "https://news.ycombinator.com/item?id=43958898"
+    ],
+    [
+      "Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL",
+      "https://www.primeintellect.ai/blog/intellect-2-release"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 01:04:59",
+      "https://news.ycombinator.com/item?id=43958716"
+    ],
+    [
+      "Custom SIM card in Tesla Model 3 2024, Tesla Model Y 2025 and Cybertruck",
+      "https://olegkutkov.me/2025/05/12/custom-sim-card-in-tesla-model-3-2024-tesla-model-y-2025-and-cybertruck/"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 00:09:48",
       "https://news.ycombinator.com/item?id=43958382"
     ],
@@ -47,16 +67,6 @@
     [
       "ToyDB rewritten: a distributed SQL database in Rust, for education",
       "https://github.com/erikgrinaker/toydb"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 18:57:07",
-      "https://news.ycombinator.com/item?id=43956095"
-    ],
-    [
-      "Why not object capability languages?",
-      "https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682"
     ]
   ],
   [
@@ -161,26 +171,6 @@
   ],
   [
     [
-      "2025-05-11, 14:43:09",
-      "https://news.ycombinator.com/item?id=43954178"
-    ],
-    [
-      "JEP 515: Ahead-of-Time Method Profiling",
-      "https://openjdk.org/jeps/515"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 14:26:49",
-      "https://news.ycombinator.com/item?id=43954054"
-    ],
-    [
-      "Booting the RP2350 from UART",
-      "https://pfister.dev/blog/2025/rp2350-uart-bl.html"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 14:02:03",
       "https://news.ycombinator.com/item?id=43953883"
     ],
@@ -247,6 +237,16 @@
     [
       "Writing an LLM from scratch, part 13 – attention heads are dumb",
       "https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 17:05:11",
+      "https://news.ycombinator.com/item?id=43928364"
+    ],
+    [
+      "In-Memory Ferroelectric Differentiator",
+      "https://www.nature.com/articles/s41467-025-58359-4"
     ]
   ],
   [
