@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-05-11, 21:15:56",
-      "https://news.ycombinator.com/item?id=43957231"
+      "2025-05-12, 00:09:48",
+      "https://news.ycombinator.com/item?id=43958382"
     ],
     [
-      "The surgeon who used F1 pitstop techniques to save lives of babies",
-      "https://www.thetimes.com/sport/formula-one/article/professor-martin-elliott-interview-surgeon-f1-pitstops-babies-ferrari-j3sbkjssk"
+      "Avoiding AI is hard – but our freedom to opt out must be protected",
+      "https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873"
+    ]
+  ],
+  [
+    [
+      "2025-05-11, 23:12:42",
+      "https://news.ycombinator.com/item?id=43958082"
+    ],
+    [
+      "I hacked my clock to control my focus",
+      "https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/"
     ]
   ],
   [
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2025-05-11, 13:33:54",
-      "https://news.ycombinator.com/item?id=43953722"
-    ],
-    [
-      "Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse",
-      "https://github.com/glassflow/clickhouse-etl"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 10:08:53",
       "https://news.ycombinator.com/item?id=43952714"
     ],
     [
       "The Epochalypse Project",
       "https://epochalypse-project.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 08:10:38",
-      "https://news.ycombinator.com/item?id=43952239"
-    ],
-    [
-      "Build iOS Apps on Linux and Windows",
-      "https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2025-05-10, 22:32:01",
-      "https://news.ycombinator.com/item?id=43949542"
+      "2025-05-10, 02:56:38",
+      "https://news.ycombinator.com/item?id=43942881"
     ],
     [
-      "Observations from people-watching",
-      "https://skincontact.substack.com/p/21-observations-from-people-watching"
+      "A simple 16x16 dot animation from simple math rules",
+      "https://tixy.land"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Ink and Algorithms: Techniques, tools and the craft of pen plotting",
       "https://penplotter.art/"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 01:48:00",
+      "https://news.ycombinator.com/item?id=43922341"
+    ],
+    [
+      "Absolute Zero Reasoner",
+      "https://andrewzh112.github.io/absolute-zero-reasoner/"
     ]
   ],
   [
