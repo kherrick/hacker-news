@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-12, 07:41:39](https://news.ycombinator.com/item?id=43960518) - [White House fires head of Copyright Office amid Library of Congress shakeup](https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/)
 * [2025-05-12, 04:41:50](https://news.ycombinator.com/item?id=43959710) - [Ask HN: Cursor or Windsurf?](https://news.ycombinator.com/item?id=43959710)
 * [2025-05-12, 03:34:26](https://news.ycombinator.com/item?id=43959403) - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 * [2025-05-12, 02:34:32](https://news.ycombinator.com/item?id=43959129) - [The Academic Pipeline Stall: Why Industry Must Stand for Academia](https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
@@ -26,7 +27,6 @@
 * [2025-05-09, 01:45:16](https://news.ycombinator.com/item?id=43933091) - [The most valuable commodity in the world is friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
 * [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
 * [2025-05-08, 20:54:51](https://news.ycombinator.com/item?id=43931237) - [Making PyPI's test suite 81% faster – The Trail of Bits Blog](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
-* [2025-05-08, 20:54:13](https://news.ycombinator.com/item?id=43931226) - [Show HN: Translate between dialects and share SQL queries on the browser](https://sqlscope.netlify.app)
 * [2025-05-08, 17:05:11](https://news.ycombinator.com/item?id=43928364) - [In-Memory Ferroelectric Differentiator](https://www.nature.com/articles/s41467-025-58359-4)
 * [2025-05-08, 01:48:00](https://news.ycombinator.com/item?id=43922341) - [Absolute Zero Reasoner](https://andrewzh112.github.io/absolute-zero-reasoner/)
 * [2025-05-07, 08:36:57](https://news.ycombinator.com/item?id=43913414) - [Lazarus Release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
