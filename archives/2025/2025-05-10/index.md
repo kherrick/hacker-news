@@ -40,6 +40,7 @@
 * [2025-05-10, 13:02:55](https://news.ycombinator.com/item?id=43945293) - [React Three Ecosystem](https://www.react-three.org/)
 * [2025-05-10, 12:40:09](https://news.ycombinator.com/item?id=43945165) - [Henry James's family tried to keep him in the closet (2016)](https://www.theguardian.com/books/2016/feb/20/colm-toibin-how-henry-james-family-tried-to-keep-him-in-the-closet)
 * [2025-05-10, 12:39:45](https://news.ycombinator.com/item?id=43945162) - [The Cult of Doing Business](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job)
+* [2025-05-10, 12:39:03](https://news.ycombinator.com/item?id=43945157) - [3D printing in vivo for non-surgical implants and drug delivery](https://www.science.org/doi/10.1126/science.adt0293)
 * [2025-05-10, 12:34:39](https://news.ycombinator.com/item?id=43945138) - [Industry groups are not happy about the imminent demise of Energy Star](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/)
 * [2025-05-10, 12:16:05](https://news.ycombinator.com/item?id=43945041) - [Radxa Orion O6 brings Arm to the midrange PC (with caveats)](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
 * [2025-05-10, 11:59:10](https://news.ycombinator.com/item?id=43944974) - [LTXVideo 13B AI video generation](https://ltxv.video/)

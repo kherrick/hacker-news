@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-12, 01:46:57](https://news.ycombinator.com/item?id=43958898) - [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
-* [2025-05-12, 01:04:59](https://news.ycombinator.com/item?id=43958716) - [Custom SIM card in Tesla Model 3 2024, Tesla Model Y 2025 and Cybertruck](https://olegkutkov.me/2025/05/12/custom-sim-card-in-tesla-model-3-2024-tesla-model-y-2025-and-cybertruck/)
 * [2025-05-12, 00:09:48](https://news.ycombinator.com/item?id=43958382) - [Avoiding AI is hard – but our freedom to opt out must be protected](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873)
 * [2025-05-11, 23:12:42](https://news.ycombinator.com/item?id=43958082) - [I hacked my clock to control my focus](https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/)
 * [2025-05-11, 20:47:20](https://news.ycombinator.com/item?id=43957010) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
@@ -21,6 +20,7 @@
 * [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
 * [2025-05-11, 03:01:56](https://news.ycombinator.com/item?id=43950976) - [Leaving Google](https://www.airs.com/blog/archives/670)
+* [2025-05-10, 12:39:03](https://news.ycombinator.com/item?id=43945157) - [3D printing in vivo for non-surgical implants and drug delivery](https://www.science.org/doi/10.1126/science.adt0293)
 * [2025-05-10, 02:56:38](https://news.ycombinator.com/item?id=43942881) - [A simple 16x16 dot animation from simple math rules](https://tixy.land)
 * [2025-05-09, 01:45:16](https://news.ycombinator.com/item?id=43933091) - [The most valuable commodity in the world is friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
 * [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
