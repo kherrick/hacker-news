@@ -4,7 +4,7 @@
 * [2025-05-12, 13:13:18](https://news.ycombinator.com/item?id=43962535) - [Gig Companies Violate Workers Rights](https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights)
 * [2025-05-12, 13:12:10](https://news.ycombinator.com/item?id=43962528) - [The FTC puts off enforcing its 'click-to-cancel' rule](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule)
 * [2025-05-12, 12:59:19](https://news.ycombinator.com/item?id=43962427) - [Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps](https://github.com/m-ahmed-elbeskeri/Starguard)
-* [2025-05-12, 12:30:16](https://news.ycombinator.com/item?id=43962207) - [CrowdStrike CEO Cuts His Voting Power by 92% with Unexplained Gifts](https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts)
+* [2025-05-12, 12:30:16](https://news.ycombinator.com/item?id=43962207) - [CrowdStrike CEO cuts his voting power by 92% with unexplained gifts](https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts)
 * [2025-05-12, 12:21:33](https://news.ycombinator.com/item?id=43962148) - [University of Texas-led team solves a big problem for fusion energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
 * [2025-05-12, 12:19:50](https://news.ycombinator.com/item?id=43962138) - [Spade Hardware Description Language](https://spade-lang.org/)
 * [2025-05-12, 12:00:07](https://news.ycombinator.com/item?id=43962029) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
