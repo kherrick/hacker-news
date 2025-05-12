@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-12, 11:08:02](https://news.ycombinator.com/item?id=43961720) - [Unending ransomware attacks are a symptom, not the sickness](https://www.theregister.com/2025/05/12/opinion_column_ransomware/)
 * [2025-05-12, 10:00:47](https://news.ycombinator.com/item?id=43961309) - [Why alien languages could be far stranger than we imagine Essays](https://aeon.co/essays/why-alien-languages-could-be-far-stranger-than-we-imagine)
 * [2025-05-12, 07:51:42](https://news.ycombinator.com/item?id=43960577) - [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
 * [2025-05-12, 04:41:50](https://news.ycombinator.com/item?id=43959710) - [Ask HN: Cursor or Windsurf?](https://news.ycombinator.com/item?id=43959710)
@@ -19,7 +20,6 @@
 * [2025-05-11, 14:02:03](https://news.ycombinator.com/item?id=43953883) - [Title of work deciphered in sealed Herculaneum scroll via digital unwrapping](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping)
 * [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
-* [2025-05-10, 12:39:03](https://news.ycombinator.com/item?id=43945157) - [3D printing in vivo for non-surgical implants and drug delivery](https://www.science.org/doi/10.1126/science.adt0293)
 * [2025-05-10, 07:39:35](https://news.ycombinator.com/item?id=43943898) - [Show HN: Codigo – The Programming Language Repository](https://codigolangs.com)
 * [2025-05-10, 02:56:38](https://news.ycombinator.com/item?id=43942881) - [A simple 16x16 dot animation from simple math rules](https://tixy.land)
 * [2025-05-09, 01:45:16](https://news.ycombinator.com/item?id=43933091) - [How friction is being redistributed in today's economy](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
