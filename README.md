@@ -21,7 +21,7 @@
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
 * [2025-05-10, 12:39:03](https://news.ycombinator.com/item?id=43945157) - [3D printing in vivo for non-surgical implants and drug delivery](https://www.science.org/doi/10.1126/science.adt0293)
 * [2025-05-10, 07:39:35](https://news.ycombinator.com/item?id=43943898) - [Show HN: Codigo – The Programming Language Repository](https://codigolangs.com)
-* [2025-05-09, 03:41:54](https://news.ycombinator.com/item?id=43933605) - [Hill or High Water](https://royalsociety.org/blog/2025/05/hill-or-high-water/)
+* [2025-05-10, 02:56:38](https://news.ycombinator.com/item?id=43942881) - [A simple 16x16 dot animation from simple math rules](https://tixy.land)
 * [2025-05-09, 01:45:16](https://news.ycombinator.com/item?id=43933091) - [The most valuable commodity in the world is friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
 * [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
 * [2025-05-08, 20:54:51](https://news.ycombinator.com/item?id=43931237) - [Making PyPI's test suite 81% faster – The Trail of Bits Blog](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
