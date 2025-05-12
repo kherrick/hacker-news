@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-12, 13:39:34",
+      "https://news.ycombinator.com/item?id=43962770"
+    ],
+    [
+      "Ruby 3.5 Feature: Namespace on read",
+      "https://bugs.ruby-lang.org/issues/21311"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 13:27:50",
       "https://news.ycombinator.com/item?id=43962662"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2025-05-12, 12:59:19",
+      "https://news.ycombinator.com/item?id=43962427"
+    ],
+    [
+      "Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps",
+      "https://github.com/m-ahmed-elbeskeri/Starguard"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 12:30:16",
       "https://news.ycombinator.com/item?id=43962207"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43962148"
     ],
     [
-      "University of Texas-Led Team Solves a Big Problem for Fusion Energy",
+      "University of Texas-led team solves a big problem for fusion energy",
       "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-05-11, 19:49:09",
-      "https://news.ycombinator.com/item?id=43956547"
-    ],
-    [
-      "ToyDB rewritten: a distributed SQL database in Rust, for education",
-      "https://github.com/erikgrinaker/toydb"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 18:29:18",
       "https://news.ycombinator.com/item?id=43955842"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2025-05-09, 03:27:21",
-      "https://news.ycombinator.com/item?id=43933548"
+      "2025-05-10, 06:44:00",
+      "https://news.ycombinator.com/item?id=43943673"
     ],
     [
-      "For better or for worse, the overload (2024)",
-      "https://consteval.ca/2024/07/25/overload/"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 01:45:16",
-      "https://news.ycombinator.com/item?id=43933091"
-    ],
-    [
-      "How friction is being redistributed in today's economy",
-      "https://kyla.substack.com/p/the-most-valuable-commodity-in-the"
+      "Continuous glucose monitors reveal variable glucose responses to the same meals",
+      "https://examine.com/research-feed/study/1jjKq1/"
     ]
   ],
   [
