@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
 * [2025-05-12, 17:42:37](https://news.ycombinator.com/item?id=43965608) - [HealthBench](https://openai.com/index/healthbench/)
+* [2025-05-12, 17:29:48](https://news.ycombinator.com/item?id=43965453) - [Show HN: The missing inbox for GitHub pull requests](https://github.com/pvcnt/mergeable)
 * [2025-05-12, 17:26:45](https://news.ycombinator.com/item?id=43965419) - [Access to the United States' President for Sale via Meme Coin](https://mastodon.social/@fiete/114495920458503045)
 * [2025-05-12, 17:18:29](https://news.ycombinator.com/item?id=43965354) - [U.S. Nuclear Emergency Support aircraft touched down in Pakistan](https://thecommunemag.com/egyptian-plane-with-boron-us-plane-checking-radioactivity-did-india-really-hit-pakistans-nuclear-centres/)
 * [2025-05-12, 17:01:42](https://news.ycombinator.com/item?id=43965161) - [Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
@@ -13,6 +14,7 @@
 * [2025-05-12, 16:35:42](https://news.ycombinator.com/item?id=43964896) - [The Internet 1997 – 2021](https://www.opte.org/the-internet)
 * [2025-05-12, 16:34:35](https://news.ycombinator.com/item?id=43964885) - [Ex-UK Special Forces break silence on 'war crimes' by colleagues](https://www.bbc.com/news/articles/cj3j5gxgz0do)
 * [2025-05-12, 16:29:05](https://news.ycombinator.com/item?id=43964827) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
+* [2025-05-12, 16:11:43](https://news.ycombinator.com/item?id=43964620) - [How to title your blog post or whatever](https://dynomight.net/titles/)
 * [2025-05-12, 16:01:31](https://news.ycombinator.com/item?id=43964505) - [Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
 * [2025-05-12, 15:42:38](https://news.ycombinator.com/item?id=43964304) - [Traffic Fatalities Are a Choice](https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice)
 * [2025-05-12, 15:34:21](https://news.ycombinator.com/item?id=43964201) - [Show HN: Airweave – Let agents search any app](https://github.com/airweave-ai/airweave)
