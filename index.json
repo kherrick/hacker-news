@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-12, 07:51:42",
+      "https://news.ycombinator.com/item?id=43960577"
+    ],
+    [
+      "Armbian Updates: OMV support, boot improvents, Rockchip optimizations",
+      "https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 07:41:39",
       "https://news.ycombinator.com/item?id=43960518"
     ],
@@ -157,16 +167,6 @@
     [
       "Plain Vanilla Web",
       "https://plainvanillaweb.com/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 15:57:39",
-      "https://news.ycombinator.com/item?id=43954649"
-    ],
-    [
-      "I built a native Windows Todo app in pure C (278 KB, no frameworks)",
-      "https://github.com/Efeckc17/simple-todo-c"
     ]
   ],
   [
