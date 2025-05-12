@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-05-12, 13:27:50",
-      "https://news.ycombinator.com/item?id=43962662"
-    ],
-    [
-      "Paul McCartney, Elton John and other creatives demand AI comes clean on scraping",
-      "https://www.theregister.com/2025/05/12/uk_creatives_ai_letter/"
-    ]
-  ],
-  [
-    [
       "2025-05-12, 13:13:18",
       "https://news.ycombinator.com/item?id=43962535"
     ],
@@ -37,16 +27,6 @@
     [
       "The FTC puts off enforcing its 'click-to-cancel' rule",
       "https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 13:07:58",
-      "https://news.ycombinator.com/item?id=43962503"
-    ],
-    [
-      "A crypto founder faked his death. We found him alive at his dad's house",
-      "https://sfstandard.com/2025/05/08/jeffy-yu-zerebro-fake-death/"
     ]
   ],
   [
@@ -131,6 +111,16 @@
   ],
   [
     [
+      "2025-05-12, 09:46:36",
+      "https://news.ycombinator.com/item?id=43961226"
+    ],
+    [
+      "Universe expected to decay in 10⁷⁸ years, much sooner than previously thought",
+      "https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 07:51:42",
       "https://news.ycombinator.com/item?id=43960577"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2025-05-12, 02:34:32",
-      "https://news.ycombinator.com/item?id=43959129"
-    ],
-    [
-      "The Academic Pipeline Stall: Why Industry Must Stand for Academia",
-      "https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/"
-    ]
-  ],
-  [
-    [
       "2025-05-12, 02:21:11",
       "https://news.ycombinator.com/item?id=43959071"
     ],
@@ -187,6 +167,16 @@
     [
       "Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL",
       "https://www.primeintellect.ai/blog/intellect-2-release"
+    ]
+  ],
+  [
+    [
+      "2025-05-11, 23:12:42",
+      "https://news.ycombinator.com/item?id=43958082"
+    ],
+    [
+      "I hacked my clock to control my focus",
+      "https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-05-09, 01:45:16",
+      "https://news.ycombinator.com/item?id=43933091"
+    ],
+    [
+      "How friction is being redistributed in today's economy",
+      "https://kyla.substack.com/p/the-most-valuable-commodity-in-the"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 21:06:02",
       "https://news.ycombinator.com/item?id=43931366"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=43931237"
     ],
     [
-      "Making PyPI's test suite 81% faster – The Trail of Bits Blog",
+      "Making PyPI's test suite faster",
       "https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/"
     ]
   ],
