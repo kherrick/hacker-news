@@ -129,6 +129,25 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43962770">
+          <h3>
+            <a class="item" href="https://bugs.ruby-lang.org/issues/21311"
+              >Ruby 3.5 Feature: Namespace on read</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-12 @ 13:39:34</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43962770"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43962662">
           <h3>
             <a
@@ -142,11 +161,11 @@
             <h4>
               <span>2025-05-12 @ 13:27:50</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962662"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -163,11 +182,11 @@
             <h4>
               <span>2025-05-12 @ 13:13:18</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962535"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -184,11 +203,11 @@
             <h4>
               <span>2025-05-12 @ 13:12:10</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962528"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -206,13 +225,85 @@
             <h4>
               <span>2025-05-12 @ 13:07:58</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962503"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="43962427">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/m-ahmed-elbeskeri/Starguard"
+              >Show HN: CLI that spots fake GitHub stars, risky dependencies and
+              licence traps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-12 @ 12:59:19</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43962427"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I wrote StarGuard to put that number in perspective based on my
+                own methodology inspired with what they did and to fold a
+                broader supply-chain check into one command-line run.
+              </p>
+              <p>
+                It starts with the simplest raw input: every starred_at
+                timestamp GitHub will give. It applies a
+                median-absolute-deviation test to locate sudden bursts. For each
+                spike, StarGuard pulls a random sample of the accounts behind it
+                and asks: how old is the user? Any followers? Any contribution
+                history? Still using the default avatar? From that, it computes
+                a Fake Star Index, between 0 (organic) and 1 (fully synthetic).
+              </p>
+              <p>
+                But inflated stars are just one issue. In parallel, StarGuard
+                parses dependency manifests or SBOMs and flags common risk
+                signs: unpinned versions, direct Git URLs, lookalike package
+                names. It also scans licences—AGPL sneaking into a repo claiming
+                MIT, or other inconsistencies that can turn into compliance
+                headaches.
+              </p>
+              <p>
+                It checks contributor patterns too. If 90% of commits come from
+                one person who hasn’t pushed in months, that’s flagged. It skims
+                for obvious code red flags: eval calls, minified blobs, sketchy
+                install scripts—because sometimes the problem is hiding in plain
+                sight.
+              </p>
+              <p>
+                All of this feeds into a weighted scoring model. The final Trust
+                Score (0–100) reflects repo health at a glance, with direct
+                penalties for fake-star behaviour, so a pretty README badge
+                can’t hide inorganic hype.
+              </p>
+              <p>
+                I added for the fun of it it generating a cool little badge for
+                the trust score lol.
+              </p>
+              <p>
+                Under the hood, its all uses, heuristics, and a lot of GitHub
+                API paging. Run it on any public repo with:
+              </p>
+              <p>
+                python starguard.py owner/repo --format markdown It works
+                without a token, but you’ll hit rate limits sooner.
+              </p>
+              <p>Please provide any feedback you can.</p>
+            </div>
           </section>
         </section>
         <section id="43962207">
@@ -228,11 +319,11 @@
             <h4>
               <span>2025-05-12 @ 12:30:16</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962207"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -242,19 +333,19 @@
             <a
               class="item"
               href="https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/"
-              >University of Texas-Led Team Solves a Big Problem for Fusion
-              Energy</a
+              >University of Texas-led team solves a big problem for fusion
+              energy</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-05-12 @ 12:21:33</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962148"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -269,11 +360,11 @@
             <h4>
               <span>2025-05-12 @ 12:19:50</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962138"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -306,11 +397,11 @@
             <h4>
               <span>2025-05-12 @ 11:40:24</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43961908"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -328,7 +419,7 @@
             <h4>
               <span>2025-05-12 @ 10:46:40</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43961597"
                   >Comments</a
@@ -350,11 +441,11 @@
             <h4>
               <span>2025-05-12 @ 09:49:10</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43961247"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -376,7 +467,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43960577"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -391,11 +482,11 @@
             <h4>
               <span>2025-05-12 @ 04:41:50</span
               ><span class="points-container"
-                >Points: <span class="points">209</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43959710"
                   >Comments</a
-                ><span class="descendants">: 293</span></span
+                ><span class="descendants">: 300</span></span
               >
             </h4>
             <div class="text">
@@ -417,11 +508,11 @@
             <h4>
               <span>2025-05-12 @ 03:34:26</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43959403"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 136</span></span
               >
             </h4>
           </section>
@@ -439,11 +530,11 @@
             <h4>
               <span>2025-05-12 @ 02:34:32</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43959129"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -458,7 +549,7 @@
             <h4>
               <span>2025-05-12 @ 02:21:11</span
               ><span class="points-container"
-                >Points: <span class="points">236</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43959071"
                   >Comments</a
@@ -480,7 +571,7 @@
             <h4>
               <span>2025-05-12 @ 01:46:57</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43958898"
                   >Comments</a
@@ -501,31 +592,11 @@
             <h4>
               <span>2025-05-11 @ 20:47:20</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43957010"
                   >Comments</a
-                ><span class="descendants">: 185</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43956547">
-          <h3>
-            <a class="item" href="https://github.com/erikgrinaker/toydb"
-              >ToyDB rewritten: a distributed SQL database in Rust, for
-              education</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-11 @ 19:49:09</span
-              ><span class="points-container"
-                >Points: <span class="points">111</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43956547"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 186</span></span
               >
             </h4>
           </section>
@@ -540,11 +611,11 @@
             <h4>
               <span>2025-05-11 @ 18:29:18</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">225</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43955842"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -561,11 +632,11 @@
             <h4>
               <span>2025-05-11 @ 17:51:04</span
               ><span class="points-container"
-                >Points: <span class="points">395</span></span
+                >Points: <span class="points">397</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43955525"
                   >Comments</a
-                ><span class="descendants">: 681</span></span
+                ><span class="descendants">: 689</span></span
               >
             </h4>
           </section>
@@ -580,11 +651,11 @@
             <h4>
               <span>2025-05-11 @ 16:31:58</span
               ><span class="points-container"
-                >Points: <span class="points">1239</span></span
+                >Points: <span class="points">1256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43954896"
                   >Comments</a
-                ><span class="descendants">: 586</span></span
+                ><span class="descendants">: 591</span></span
               >
             </h4>
           </section>
@@ -601,11 +672,11 @@
             <h4>
               <span>2025-05-11 @ 15:31:39</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43954488"
                   >Comments</a
-                ><span class="descendants">: 373</span></span
+                ><span class="descendants">: 377</span></span
               >
             </h4>
           </section>
@@ -623,7 +694,7 @@
             <h4>
               <span>2025-05-11 @ 14:02:03</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43953883"
                   >Comments</a
@@ -642,51 +713,33 @@
             <h4>
               <span>2025-05-10 @ 10:18:54</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43944526"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="43933548">
-          <h3>
-            <a class="item" href="https://consteval.ca/2024/07/25/overload/"
-              >For better or for worse, the overload (2024)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-09 @ 03:27:21</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43933548"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43933091">
+        <section id="43943673">
           <h3>
             <a
               class="item"
-              href="https://kyla.substack.com/p/the-most-valuable-commodity-in-the"
-              >How friction is being redistributed in today's economy</a
+              href="https://examine.com/research-feed/study/1jjKq1/"
+              >Continuous glucose monitors reveal variable glucose responses to
+              the same meals</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-05-09 @ 01:45:16</span
+              <span>2025-05-10 @ 06:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43933091"
+                ><a href="https://news.ycombinator.com/item?id=43943673"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -704,11 +757,11 @@
             <h4>
               <span>2025-05-08 @ 21:06:02</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">318</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43931366"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -725,11 +778,11 @@
             <h4>
               <span>2025-05-08 @ 20:54:51</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43931237"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -746,7 +799,7 @@
             <h4>
               <span>2025-05-08 @ 01:48:00</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43922341"
                   >Comments</a
