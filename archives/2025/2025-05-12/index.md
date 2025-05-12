@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 15:05:44](https://news.ycombinator.com/item?id=43963868) - [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
+* [2025-05-12, 15:02:48](https://news.ycombinator.com/item?id=43963839) - [OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information](https://openeox.org/)
 * [2025-05-12, 13:39:34](https://news.ycombinator.com/item?id=43962770) - [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)
 * [2025-05-12, 13:27:50](https://news.ycombinator.com/item?id=43962662) - [Paul McCartney, Elton John and other creatives demand AI comes clean on scraping](https://www.theregister.com/2025/05/12/uk_creatives_ai_letter/)
 * [2025-05-12, 13:13:18](https://news.ycombinator.com/item?id=43962535) - [Gig Companies Violate Workers Rights](https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights)

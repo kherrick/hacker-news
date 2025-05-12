@@ -48,6 +48,7 @@
 * [2025-05-08, 16:30:45](https://news.ycombinator.com/item?id=43927856) - [New pope elected on second day of the conclave](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25)
 * [2025-05-08, 16:29:39](https://news.ycombinator.com/item?id=43927842) - [Hypermode Model Router Preview – OpenRouter Alternative](https://hypermode.com/blog/introducing-model-router)
 * [2025-05-08, 16:27:24](https://news.ycombinator.com/item?id=43927813) - [High tariffs become 'real' with our first $36K bill](https://blog.adafruit.com/2025/05/08/high-tariffs-become-real-with-our-first-36k-bill/)
+* [2025-05-08, 16:26:11](https://news.ycombinator.com/item?id=43927794) - [Optimizing My Hacker News Experience](https://reorientinglife.substack.com/p/optimizing-my-hacker-news-experience)
 * [2025-05-08, 16:13:44](https://news.ycombinator.com/item?id=43927649) - [Show HN: Checking Pope's election results with smoke test script for chimney](https://github.com/donobu-inc/donobu-papal-election-tests/blob/main/tests/papal_election_smoke.test.ts)
 * [2025-05-08, 15:51:55](https://news.ycombinator.com/item?id=43927374) - [Google Measures and Manages Tech Debt](https://newsletter.techworld-with-milan.com/p/how-google-measures-and-manages-tech)
 * [2025-05-08, 15:49:37](https://news.ycombinator.com/item?id=43927337) - [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
