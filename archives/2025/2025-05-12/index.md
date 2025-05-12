@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 20:38:06](https://news.ycombinator.com/item?id=43967208) - [What if humanity forgot how to make CPUs?](https://twitter.com/lauriewired/status/1922015999118680495)
 * [2025-05-12, 19:52:40](https://news.ycombinator.com/item?id=43966843) - [Why National Labs are investing (heavily) in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
 * [2025-05-12, 19:32:19](https://news.ycombinator.com/item?id=43966694) - [Build Your Own Siri. Locally. On-Device. No Cloud](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
 * [2025-05-12, 19:05:03](https://news.ycombinator.com/item?id=43966471) - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)

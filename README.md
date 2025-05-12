@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-12, 20:38:06](https://news.ycombinator.com/item?id=43967208) - [What if humanity forgot how to make CPUs?](https://twitter.com/lauriewired/status/1922015999118680495)
 * [2025-05-12, 19:52:40](https://news.ycombinator.com/item?id=43966843) - [Why National Labs are investing (heavily) in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
 * [2025-05-12, 19:32:19](https://news.ycombinator.com/item?id=43966694) - [Build Your Own Siri. Locally. On-Device. No Cloud](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
 * [2025-05-12, 19:05:03](https://news.ycombinator.com/item?id=43966471) - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
-* [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can you trust that permission pop-up on macOS?](https://wts.dev/posts/tcc-who/)
 * [2025-05-12, 18:24:17](https://news.ycombinator.com/item?id=43966064) - [Toward a Sparse and Interpretable Audio Codec](https://arxiv.org/abs/2505.05654)
 * [2025-05-12, 17:42:37](https://news.ycombinator.com/item?id=43965608) - [HealthBench](https://openai.com/index/healthbench/)
 * [2025-05-12, 17:01:42](https://news.ycombinator.com/item?id=43965161) - [Legion Health (YC S21) is hiring engineers to help fix mental health with AI](https://www.workatastartup.com/jobs/75011)
@@ -26,10 +26,10 @@
 * [2025-05-12, 09:46:36](https://news.ycombinator.com/item?id=43961226) - [Universe expected to decay in 10⁷⁸ years, much sooner than previously thought](https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html)
 * [2025-05-12, 03:34:26](https://news.ycombinator.com/item?id=43959403) - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 * [2025-05-10, 13:55:43](https://news.ycombinator.com/item?id=43945660) - [Why GADTs matter for performance (2015)](https://blog.janestreet.com/why-gadts-matter-for-performance/)
-* [2025-05-10, 13:40:34](https://news.ycombinator.com/item?id=43945545) - [Interagency Grizzly Bear Committee](https://igbconline.org/)
 * [2025-05-10, 08:10:18](https://news.ycombinator.com/item?id=43944007) - [5 Steps to N-Body Simulation](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
 * [2025-05-09, 21:30:16](https://news.ycombinator.com/item?id=43941068) - [The Acid King (2001)](https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/)
+* [2025-05-09, 19:25:05](https://news.ycombinator.com/item?id=43940172) - [NASA Study Reveals Venus Crust Surprise](https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/)
 
 ## [Archives](archives/index.md)
 
