@@ -16,6 +16,7 @@
 * [2025-05-08, 21:06:02](https://news.ycombinator.com/item?id=43931366) - [Writing an LLM from scratch, part 13 – attention heads are dumb](https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb)
 * [2025-05-08, 20:58:37](https://news.ycombinator.com/item?id=43931285) - [How the US Built 5k Ships in WWII](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii)
 * [2025-05-08, 20:54:51](https://news.ycombinator.com/item?id=43931237) - [Making PyPI's test suite 81% faster – The Trail of Bits Blog](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
+* [2025-05-08, 20:54:13](https://news.ycombinator.com/item?id=43931226) - [Show HN: Translate between dialects and share SQL queries on the browser](https://sqlscope.netlify.app)
 * [2025-05-08, 20:22:14](https://news.ycombinator.com/item?id=43930901) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:07:00](https://news.ycombinator.com/item?id=43930757) - [Why do LLMs have emergent properties?](https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/)
 * [2025-05-08, 20:04:48](https://news.ycombinator.com/item?id=43930725) - [A brief history of the numeric keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad)
