@@ -129,6 +129,123 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43964505">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43964505"
+              >Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-12 @ 16:01:31</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43964505"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://paraquery.com">https://paraquery.com</a>), a
+              fully-managed, GPU-accelerated Spark + SQL solution. We deliver
+              BigQuery's ease of use (or easier) while being significantly more
+              cost-efficient and performant.
+              <p>
+                Here's a short demo video demonstrating ParaQuery (vs. BigQuery)
+                on a simple ETL job:
+                <a href="https://www.youtube.com/watch?v=uu379YnccGU"
+                  >https://www.youtube.com/watch?v=uu379YnccGU</a
+                >
+              </p>
+              <p>
+                It's well known that GPUs are very good for many SQL and
+                dataframe tasks, at least by researchers and GPU companies like
+                NVIDIA. So much so that, in 2018, NVIDIA launched the RAPIDS
+                program and the Spark-RAPIDS plugin (<a
+                  href="https://github.com/NVIDIA/spark-rapids"
+                  >https://github.com/NVIDIA/spark-rapids</a
+                >). I actually found out because, at the time, I was trying to
+                craft a CUDA-based lambda calculus interpreter…one of several
+                ideas I didn't manage to implement, haha.
+              </p>
+              <p>
+                There seems to be a perception among at least some engineers
+                that GPUs are only good for AI, graphics, and maybe image
+                processing (maybe! someone actually told me they thought GPUs
+                are bad for image processing!) Traditional data processing
+                doesn’t come to mind. But actually GPUs are good for this as
+                well!
+              </p>
+              <p>
+                At a high level, big data processing is a high-throughput,
+                massively parallel workload. GPUs are a type of hardware
+                specialized for this, are highly programmable, and (now) happen
+                to be highly available on the cloud! Even better, GPU
+                <i>memory</i> is tuned for bandwidth over raw latency, which
+                only improves their throughput capabilities compared to a CPU.
+                And by just playing with cloud cost calculators for a couple of
+                minutes, it's clear that GPUs are cost-effective even on the
+                major clouds.
+              </p>
+              <p>
+                To be honest, I thought using GPUs for SQL processing would have
+                taken off by now, but it hasn't. So, just over a year ago, I
+                started working on actually deploying a cloud-based data
+                platform powered by GPUs (i.e. Spark-RAPIDS), spurred by a
+                friend-of-a-friend(-of-a-friend) who happened to have BigQuery
+                cost concerns at his startup. After getting a proof of concept
+                done and a letter of intent... well, nothing happened! Even
+                after over half a year. But then, something magical did happen:
+                their cloud credits ran out!
+              </p>
+              <p>
+                And now, they're saving over 60% off of their BigQuery bill by
+                using ParaQuery, while also being 2x faster -- with zero data
+                migration needed (courtesy of Spark's GCS connector). By the
+                way, I'm not sure about other people's experiences but... we're
+                pretty far from being IO-bound (to the surprise of many
+                engineers I've spoken to).
+              </p>
+              <p>
+                I think that the future of high-throughput compute is computing
+                on high-throughput hardware. If you think so too, or you have
+                scaling data challenges, you can sign up here:
+                <a href="https://paraquery.com/waitlist"
+                  >https://paraquery.com/waitlist</a
+                >. Sorry for the waitlist, but we're not ready for a self-serve
+                experience just yet—it would front-load significant engineering
+                and hardware cost. But we’ll get there, so stay tuned!
+              </p>
+              <p>
+                Thanks for reading! What have your experiences been with huge
+                ETL / processing loads? Was cost or performance an issue? And
+                what do you think about GPU acceleration (GPGPU)? Did you think
+                GPUs were simply expensive? Would love to just talk about tech
+                here!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="43964136">
+          <h3>
+            <a class="item" href="https://arslan.io/2025/05/12/barbican-estate/"
+              >The Barbican</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-12 @ 15:28:38</span
+              ><span class="points-container"
+                >Points: <span class="points">57</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43964136"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43963868">
           <h3>
             <a
@@ -141,11 +258,11 @@
             <h4>
               <span>2025-05-12 @ 15:05:44</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43963868"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -161,11 +278,11 @@
             <h4>
               <span>2025-05-12 @ 15:02:48</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43963839"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -182,11 +299,11 @@
             <h4>
               <span>2025-05-12 @ 14:54:31</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43963747"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -203,11 +320,11 @@
             <h4>
               <span>2025-05-12 @ 14:29:33</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43963397"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -224,11 +341,11 @@
             <h4>
               <span>2025-05-12 @ 14:00:32</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962992"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -243,11 +360,11 @@
             <h4>
               <span>2025-05-12 @ 13:39:34</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962770"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -264,11 +381,11 @@
             <h4>
               <span>2025-05-12 @ 13:13:18</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962535"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -285,11 +402,11 @@
             <h4>
               <span>2025-05-12 @ 13:12:10</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962528"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -307,11 +424,11 @@
             <h4>
               <span>2025-05-12 @ 12:59:19</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962427"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -379,11 +496,11 @@
             <h4>
               <span>2025-05-12 @ 12:30:16</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962207"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -401,11 +518,11 @@
             <h4>
               <span>2025-05-12 @ 12:21:33</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962148"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -420,11 +537,11 @@
             <h4>
               <span>2025-05-12 @ 12:19:50</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43962138"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -457,11 +574,11 @@
             <h4>
               <span>2025-05-12 @ 11:40:24</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43961908"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -483,7 +600,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43961597"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -501,11 +618,11 @@
             <h4>
               <span>2025-05-12 @ 09:49:10</span
               ><span class="points-container"
-                >Points: <span class="points">324</span></span
+                >Points: <span class="points">353</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43961247"
                   >Comments</a
-                ><span class="descendants">: 185</span></span
+                ><span class="descendants">: 217</span></span
               >
             </h4>
           </section>
@@ -523,11 +640,11 @@
             <h4>
               <span>2025-05-12 @ 09:46:36</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43961226"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -566,7 +683,7 @@
             <h4>
               <span>2025-05-12 @ 03:34:26</span
               ><span class="points-container"
-                >Points: <span class="points">294</span></span
+                >Points: <span class="points">298</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43959403"
                   >Comments</a
@@ -585,11 +702,11 @@
             <h4>
               <span>2025-05-12 @ 02:21:11</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43959071"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -607,7 +724,7 @@
             <h4>
               <span>2025-05-12 @ 01:46:57</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43958898"
                   >Comments</a
@@ -628,32 +745,11 @@
             <h4>
               <span>2025-05-11 @ 20:47:20</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">295</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43957010"
                   >Comments</a
-                ><span class="descendants">: 196</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43955525">
-          <h3>
-            <a
-              class="item"
-              href="https://insideevs.com/features/759153/car-companies-software-companies/"
-              >Car companies are in a billion-dollar software war</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-11 @ 17:51:04</span
-              ><span class="points-container"
-                >Points: <span class="points">413</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43955525"
-                  >Comments</a
-                ><span class="descendants">: 713</span></span
+                ><span class="descendants">: 199</span></span
               >
             </h4>
           </section>
@@ -668,32 +764,11 @@
             <h4>
               <span>2025-05-11 @ 16:31:58</span
               ><span class="points-container"
-                >Points: <span class="points">1328</span></span
+                >Points: <span class="points">1338</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43954896"
                   >Comments</a
-                ><span class="descendants">: 608</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43954488">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257"
-              >High-school shop students attract skilled-trades job offers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-11 @ 15:31:39</span
-              ><span class="points-container"
-                >Points: <span class="points">238</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43954488"
-                  >Comments</a
-                ><span class="descendants">: 405</span></span
+                ><span class="descendants">: 613</span></span
               >
             </h4>
           </section>
@@ -708,11 +783,30 @@
             <h4>
               <span>2025-05-10 @ 10:18:54</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43944526"
                   >Comments</a
                 ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43943984">
+          <h3>
+            <a class="item" href="https://www.in-ulm.de/~mascheck/various/ash/"
+              >Ash (Almquist Shell) Variants</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-10 @ 08:01:30</span
+              ><span class="points-container"
+                >Points: <span class="points">55</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43943984"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -730,11 +824,11 @@
             <h4>
               <span>2025-05-10 @ 06:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43943673"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -755,7 +849,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43931237"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -772,32 +866,11 @@
             <h4>
               <span>2025-05-08 @ 16:26:11</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43927794"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43922341">
-          <h3>
-            <a
-              class="item"
-              href="https://andrewzh112.github.io/absolute-zero-reasoner/"
-              >Absolute Zero Reasoner</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-08 @ 01:48:00</span
-              ><span class="points-container"
-                >Points: <span class="points">112</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43922341"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
