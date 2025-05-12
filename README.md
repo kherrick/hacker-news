@@ -2,7 +2,6 @@
 
 * [2025-05-12, 10:00:47](https://news.ycombinator.com/item?id=43961309) - [Why alien languages could be far stranger than we imagine Essays](https://aeon.co/essays/why-alien-languages-could-be-far-stranger-than-we-imagine)
 * [2025-05-12, 07:51:42](https://news.ycombinator.com/item?id=43960577) - [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
-* [2025-05-12, 07:41:39](https://news.ycombinator.com/item?id=43960518) - [White House fires head of Copyright Office amid Library of Congress shakeup](https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/)
 * [2025-05-12, 04:41:50](https://news.ycombinator.com/item?id=43959710) - [Ask HN: Cursor or Windsurf?](https://news.ycombinator.com/item?id=43959710)
 * [2025-05-12, 03:34:26](https://news.ycombinator.com/item?id=43959403) - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 * [2025-05-12, 02:34:32](https://news.ycombinator.com/item?id=43959129) - [The Academic Pipeline Stall: Why Industry Must Stand for Academia](https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
@@ -18,6 +17,7 @@
 * [2025-05-11, 16:31:58](https://news.ycombinator.com/item?id=43954896) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
 * [2025-05-11, 15:31:39](https://news.ycombinator.com/item?id=43954488) - [High-school shop students attract skilled-trades job offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
 * [2025-05-11, 14:02:03](https://news.ycombinator.com/item?id=43953883) - [Title of work deciphered in sealed Herculaneum scroll via digital unwrapping](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping)
+* [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
 * [2025-05-10, 12:39:03](https://news.ycombinator.com/item?id=43945157) - [3D printing in vivo for non-surgical implants and drug delivery](https://www.science.org/doi/10.1126/science.adt0293)
 * [2025-05-10, 07:39:35](https://news.ycombinator.com/item?id=43943898) - [Show HN: Codigo – The Programming Language Repository](https://codigolangs.com)
