@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-13, 20:13:54](https://news.ycombinator.com/item?id=43977188) - [Starcloud](https://www.ycombinator.com/companies/starcloud)
 * [2025-05-13, 20:09:54](https://news.ycombinator.com/item?id=43977147) - [Using Obscure Graph Theory to Solve Programming Languages Problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build Real-Time Knowledge Graph for Documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [Why are banks still getting authentication so wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
@@ -21,10 +22,9 @@
 * [2025-05-13, 08:41:25](https://news.ycombinator.com/item?id=43970837) - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 * [2025-05-13, 08:35:11](https://news.ycombinator.com/item?id=43970800) - [Odin: A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-12, 14:32:25](https://news.ycombinator.com/item?id=43963434) - [The great displacement is already well underway?](https://shawnfromportland.substack.com/p/the-great-displacement-is-already)
-* [2025-05-11, 21:03:09](https://news.ycombinator.com/item?id=43957140) - [Why are coffee stains darker at the edges?](https://www.why.is/svar.php?id=5513)
 * [2025-05-11, 10:07:22](https://news.ycombinator.com/item?id=43952707) - [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df)
 * [2025-05-11, 06:38:27](https://news.ycombinator.com/item?id=43951885) - [I learned Snobol and then wrote a toy Forth](https://ratfactor.com/snobol/)
-* [2025-05-10, 14:05:24](https://news.ycombinator.com/item?id=43945734) - [The Battle to Bottle Palm Wine](https://www.atlasobscura.com/articles/palm-wine-in-united-states)
+* [2025-05-10, 14:05:24](https://news.ycombinator.com/item?id=43945734) - [The Battle to Bottle Palm Wine (2021)](https://www.atlasobscura.com/articles/palm-wine-in-united-states)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane: Media Framework for Elixir](https://membrane.stream/)
 * [2025-05-10, 13:23:35](https://news.ycombinator.com/item?id=43945423) - [Garbage Collection of Object Storage at Scale](https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale)
