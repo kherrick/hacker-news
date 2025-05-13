@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 15:32:52](https://news.ycombinator.com/item?id=43974064) - [Tariffs Drive Honda to Move SUV Production from Canada to U.S.](https://www.nytimes.com/2025/05/13/world/americas/honda-trump-tariffs-us-canada.html)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
 * [2025-05-13, 14:42:02](https://news.ycombinator.com/item?id=43973518) - [Understanding Java's Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google's \"Desktop View\" Turns Android Phones into Pocket PCs](https://www.squaredtech.co/googles-desktop-view-android-phones-into-pcs)

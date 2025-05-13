@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-13, 15:32:52](https://news.ycombinator.com/item?id=43974064) - [Tariffs Drive Honda to Move SUV Production from Canada to U.S.](https://www.nytimes.com/2025/05/13/world/americas/honda-trump-tariffs-us-canada.html)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
 * [2025-05-13, 14:42:02](https://news.ycombinator.com/item?id=43973518) - [Understanding Java's Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
 * [2025-05-13, 14:17:05](https://news.ycombinator.com/item?id=43973250) - [Bosses weren't being paranoid: Remote workers more likely to start their own biz](https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/)
@@ -29,7 +30,6 @@
 * [2025-05-09, 17:09:04](https://news.ycombinator.com/item?id=43939029) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro#detecting-if-an-expression-is-constant-in-c)
 * [2025-05-09, 13:44:04](https://news.ycombinator.com/item?id=43936661) - [Revisiting Image Maps](https://css-tricks.com/revisiting-image-maps/)
 * [2025-05-09, 08:34:56](https://news.ycombinator.com/item?id=43934869) - [Open Hardware Ethernet Switch project, part 1](https://serd.es/2025/05/08/Switch-project-pt1.html)
-* [2025-05-09, 07:53:54](https://news.ycombinator.com/item?id=43934682) - [How to avoid P hacking](https://www.nature.com/articles/d41586-025-01246-1)
 
 ## [Archives](archives/index.md)
 
