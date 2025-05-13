@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-13, 20:13:54",
+      "https://news.ycombinator.com/item?id=43977188"
+    ],
+    [
+      "Starcloud",
+      "https://www.ycombinator.com/companies/starcloud"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 19:48:04",
       "https://news.ycombinator.com/item?id=43976895"
     ],
@@ -287,16 +297,6 @@
     [
       "Turritopsis dohrnii: Immortal jellyfish",
       "https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 17:09:04",
-      "https://news.ycombinator.com/item?id=43939029"
-    ],
-    [
-      "Detecting if an expression is constant in C",
-      "https://nrk.neocities.org/articles/c-constexpr-macro#detecting-if-an-expression-is-constant-in-c"
     ]
   ]
 ]
