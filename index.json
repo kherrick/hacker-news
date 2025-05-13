@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-13, 13:22:17",
+      "https://news.ycombinator.com/item?id=43972660"
+    ],
+    [
+      "FlyLoop – AI Agent for Scheduling Meetings and Managing Your Calendar",
+      "https://news.ycombinator.com/item?id=43972660"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 13:04:36",
+      "https://news.ycombinator.com/item?id=43972493"
+    ],
+    [
+      "How the United States Gave Up Being a Science Superpower",
+      "https://steveblank.com/2025/05/13/how-the-united-states-became-a-science-superpower-and-how-quickly-it-could-crumble/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 12:56:42",
+      "https://news.ycombinator.com/item?id=43972425"
+    ],
+    [
+      "Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses",
+      "https://news.ycombinator.com/item?id=43972425"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 12:20:27",
+      "https://news.ycombinator.com/item?id=43972088"
+    ],
+    [
+      "AI Is Like a Crappy Consultant",
+      "https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 11:41:42",
       "https://news.ycombinator.com/item?id=43971791"
     ],
@@ -27,6 +67,16 @@
     [
       "The world could run on older hardware if software optimization was a priority",
       "https://twitter.com/ID_AA_Carmack/status/1922100771392520710"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 10:02:46",
+      "https://news.ycombinator.com/item?id=43971314"
+    ],
+    [
+      "Show HN: A5",
+      "https://github.com/felixpalmer/a5"
     ]
   ],
   [
@@ -151,42 +201,12 @@
   ],
   [
     [
-      "2025-05-12, 16:01:31",
-      "https://news.ycombinator.com/item?id=43964505"
-    ],
-    [
-      "Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL",
-      "https://news.ycombinator.com/item?id=43964505"
-    ]
-  ],
-  [
-    [
       "2025-05-12, 15:28:38",
       "https://news.ycombinator.com/item?id=43964136"
     ],
     [
       "The Barbican",
       "https://arslan.io/2025/05/12/barbican-estate/"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 14:29:33",
-      "https://news.ycombinator.com/item?id=43963397"
-    ],
-    [
-      "Reviving a modular cargo bike design from the 1930s",
-      "https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 13:39:34",
-      "https://news.ycombinator.com/item?id=43962770"
-    ],
-    [
-      "Ruby 3.5 Feature: Namespace on read",
-      "https://bugs.ruby-lang.org/issues/21311"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2025-05-10, 08:10:18",
-      "https://news.ycombinator.com/item?id=43944007"
+      "2025-05-11, 06:38:27",
+      "https://news.ycombinator.com/item?id=43951885"
     ],
     [
-      "Writing N-body gravity simulations code in Python",
-      "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/"
+      "I learned Snobol and then wrote a toy Forth",
+      "https://ratfactor.com/snobol/"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "15 Years of Shader Minification",
       "https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 19:25:05",
-      "https://news.ycombinator.com/item?id=43940172"
-    ],
-    [
-      "NASA study reveals Venus crust surprise",
-      "https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 18:48:03",
-      "https://news.ycombinator.com/item?id=43939877"
-    ],
-    [
-      "The Beam",
-      "https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/"
     ]
   ],
   [
