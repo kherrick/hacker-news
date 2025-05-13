@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 20:13:54](https://news.ycombinator.com/item?id=43977188) - [Starcloud](https://www.ycombinator.com/companies/starcloud)
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build Real-Time Knowledge Graph for Documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 19:44:47](https://news.ycombinator.com/item?id=43976862) - [Dusk OS](https://duskos.org/)
 * [2025-05-13, 19:32:58](https://news.ycombinator.com/item?id=43976726) - [Programmers Will Be Replaced by People with Ideas](https://www.cleverthinkingsoftware.com/programmers-will-be-replaced-by-people-with-ideas/)

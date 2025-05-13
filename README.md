@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-13, 20:13:54](https://news.ycombinator.com/item?id=43977188) - [Starcloud](https://www.ycombinator.com/companies/starcloud)
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build Real-Time Knowledge Graph for Documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 19:44:47](https://news.ycombinator.com/item?id=43976862) - [Dusk OS](https://duskos.org/)
 * [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [Why are banks still getting authentication so wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
@@ -29,7 +30,6 @@
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane: Media Framework for Elixir](https://membrane.stream/)
 * [2025-05-10, 07:10:41](https://news.ycombinator.com/item?id=43943792) - [Mill as a direct style build tool](https://mill-build.org/blog/12-direct-style-build-tool.html)
 * [2025-05-09, 20:45:11](https://news.ycombinator.com/item?id=43940702) - [Turritopsis dohrnii: Immortal jellyfish](https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html)
-* [2025-05-09, 17:09:04](https://news.ycombinator.com/item?id=43939029) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro#detecting-if-an-expression-is-constant-in-c)
 
 ## [Archives](archives/index.md)
 
