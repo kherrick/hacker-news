@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-05-13, 08:20:48",
-      "https://news.ycombinator.com/item?id=43970712"
+      "2025-05-13, 08:41:25",
+      "https://news.ycombinator.com/item?id=43970837"
     ],
     [
-      "Iceland approved 4-day workweek in 2019; six years later, predictions came true",
-      "https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/"
+      "Ask HN: How are you acquiring your first hundred users?",
+      "https://news.ycombinator.com/item?id=43970837"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 08:35:11",
+      "https://news.ycombinator.com/item?id=43970800"
+    ],
+    [
+      "A programming language made for me",
+      "https://zylinski.se/posts/a-programming-language-for-me/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43970637"
     ],
     [
-      "Anti-Personnel Computing",
+      "Anti-Personnel Computing (2023)",
       "https://erratique.ch/writings/anti-personnel-computing"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43969827"
     ],
     [
-      "Firefox Moves to GitHub",
+      "Firefox moves to GitHub",
       "https://github.com/mozilla-firefox/firefox"
     ]
   ],
@@ -87,16 +97,6 @@
     [
       "Understanding LucasArts' iMUSE System",
       "https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 22:15:12",
-      "https://news.ycombinator.com/item?id=43967962"
-    ],
-    [
-      "Wtfis: Passive hostname, domain and IP lookup tool for non-robots",
-      "https://github.com/pirxthepilot/wtfis"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2025-05-10, 10:40:49",
-      "https://news.ycombinator.com/item?id=43944639"
+      "2025-05-11, 12:16:26",
+      "https://news.ycombinator.com/item?id=43953262"
     ],
     [
-      "Policy of Transience",
-      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/"
+      "We Fixed 2k+ Security Issues (2023)",
+      "https://www.sudhishkr.com/posts/20230609_how-we-fixed-2kplus-security-issues/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-05-09, 18:48:03",
-      "https://news.ycombinator.com/item?id=43939877"
+      "2025-05-09, 17:59:41",
+      "https://news.ycombinator.com/item?id=43939495"
     ],
     [
-      "The Beam",
-      "https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/"
+      "Offline vs. online ML pipelines",
+      "https://decodingml.substack.com/p/offline-vs-online-ml-pipelines"
     ]
   ],
   [
