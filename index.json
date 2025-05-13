@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-13, 17:58:27",
+      "https://news.ycombinator.com/item?id=43975785"
+    ],
+    [
+      "Don't Unwrap Options: There Are Better Ways",
+      "https://corrode.dev/blog/rust-option-handling-best-practices/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 17:37:58",
+      "https://news.ycombinator.com/item?id=43975541"
+    ],
+    [
+      "PyPI Organizations",
+      "https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 17:26:38",
       "https://news.ycombinator.com/item?id=43975423"
     ],
@@ -11,42 +31,12 @@
   ],
   [
     [
-      "2025-05-13, 17:17:17",
-      "https://news.ycombinator.com/item?id=43975318"
-    ],
-    [
-      "Sid Meier's Colonization",
-      "https://peyre.42web.io/Colonization/index.htm"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 17:12:33",
-      "https://news.ycombinator.com/item?id=43975254"
-    ],
-    [
-      "GOP sneaks decade-long AI regulation ban into spending bill",
-      "https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 16:44:51",
       "https://news.ycombinator.com/item?id=43974891"
     ],
     [
-      "ETH Zurich researchers discover new security vulnerability in Intel processors",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 16:09:57",
-      "https://news.ycombinator.com/item?id=43974484"
-    ],
-    [
-      "Show HN: AG-UI Protocol – Bring Agents into Frontend Applications",
-      "https://github.com/ag-ui-protocol/ag-ui"
+      "Branch Privilege Injection: Exploiting branch predictor race conditions",
+      "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43973721"
     ],
     [
-      "PDF to Text, a Challenging Problem",
+      "PDF to Text, a challenging problem",
       "https://www.marginalia.nu/log/a_119_pdf/"
     ]
   ],
@@ -101,12 +91,12 @@
   ],
   [
     [
-      "2025-05-13, 13:44:18",
-      "https://news.ycombinator.com/item?id=43972927"
+      "2025-05-13, 14:17:05",
+      "https://news.ycombinator.com/item?id=43973250"
     ],
     [
-      "TheForger's Win32 API Tutorial",
-      "https://winprog.org/tutorial/"
+      "Entrepreneurial spawning from remote work",
+      "https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/"
     ]
   ],
   [
@@ -117,16 +107,6 @@
     [
       "In a high-stress work environment, prioritize relationships",
       "https://wqtz.bearblog.dev/high-stress-job-relationships/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 12:58:25",
-      "https://news.ycombinator.com/item?id=43972438"
-    ],
-    [
-      "As US vuln-tracking falters, EU enters with its own security bug database",
-      "https://www.theregister.com/2025/05/13/eu_security_bug_database/"
     ]
   ],
   [
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=43971716"
     ],
     [
-      "Multiple Security Issues in GNU Screen",
+      "Multiple security issues in GNU Screen",
       "https://www.openwall.com/lists/oss-security/2025/05/12/1"
     ]
   ],
@@ -195,7 +175,7 @@
       "https://news.ycombinator.com/item?id=43970800"
     ],
     [
-      "A programming language made for me",
+      "Odin: A programming language made for me",
       "https://zylinski.se/posts/a-programming-language-for-me/"
     ]
   ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-05-12, 14:32:25",
+      "https://news.ycombinator.com/item?id=43963434"
+    ],
+    [
+      "The great displacement is already well underway?",
+      "https://shawnfromportland.substack.com/p/the-great-displacement-is-already"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 21:03:09",
       "https://news.ycombinator.com/item?id=43957140"
     ],
@@ -277,6 +267,16 @@
     [
       "Membrane, Media Framework for Elixir",
       "https://membrane.stream/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 07:10:41",
+      "https://news.ycombinator.com/item?id=43943792"
+    ],
+    [
+      "Mill as a Direct Style Build Tool",
+      "https://mill-build.org/blog/12-direct-style-build-tool.html"
     ]
   ],
   [
