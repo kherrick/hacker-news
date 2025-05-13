@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 11:41:42](https://news.ycombinator.com/item?id=43971791) - [One Hundred and One Rules of Effective Living](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple Security Issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
 * [2025-05-13, 10:44:41](https://news.ycombinator.com/item?id=43971523) - [Show HN: Why hanging out on Hacker News is a good use of your time?](https://www.parliant.ai/surveys/e31a7442-080b-4921-bfa4-457ef0b974ec)
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
