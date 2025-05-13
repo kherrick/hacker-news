@@ -24,6 +24,7 @@
 * [2025-05-09, 18:01:56](https://news.ycombinator.com/item?id=43939520) - [Odin, a Pragmatic C Alternative with a Go Flavour](http://bitshifters.cc/2025/05/04/odin.html)
 * [2025-05-09, 17:59:41](https://news.ycombinator.com/item?id=43939495) - [Offline vs. online ML pipelines](https://decodingml.substack.com/p/offline-vs-online-ml-pipelines)
 * [2025-05-09, 17:53:00](https://news.ycombinator.com/item?id=43939419) - [In the Network of the Conclav: How we \"guessed\" the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
+* [2025-05-09, 17:09:04](https://news.ycombinator.com/item?id=43939029) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro#detecting-if-an-expression-is-constant-in-c)
 * [2025-05-09, 17:06:25](https://news.ycombinator.com/item?id=43939006) - [Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/)
 * [2025-05-09, 17:00:49](https://news.ycombinator.com/item?id=43938959) - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 * [2025-05-09, 16:29:02](https://news.ycombinator.com/item?id=43938611) - [The Anarchitecture Group](https://www.spatialagency.net/database/the.anarchitecture.group)
