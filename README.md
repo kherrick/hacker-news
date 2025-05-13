@@ -7,7 +7,6 @@
 * [2025-05-12, 22:41:30](https://news.ycombinator.com/item?id=43968141) - [Understanding LucasArts' iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
 * [2025-05-12, 22:15:12](https://news.ycombinator.com/item?id=43967962) - [Wtfis: Passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
 * [2025-05-12, 19:52:40](https://news.ycombinator.com/item?id=43966843) - [A conversation about AI for science with Jason Pruet](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
-* [2025-05-12, 19:32:19](https://news.ycombinator.com/item?id=43966694) - [Build your own Siri locally and on-device](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
 * [2025-05-12, 19:05:03](https://news.ycombinator.com/item?id=43966471) - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
 * [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can you trust that permission pop-up on macOS?](https://wts.dev/posts/tcc-who/)
 * [2025-05-12, 17:42:37](https://news.ycombinator.com/item?id=43965608) - [HealthBench – An evaluation for AI systems and human health](https://openai.com/index/healthbench/)
@@ -28,6 +27,7 @@
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
 * [2025-05-09, 19:25:05](https://news.ycombinator.com/item?id=43940172) - [NASA study reveals Venus crust surprise](https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/)
 * [2025-05-09, 18:48:03](https://news.ycombinator.com/item?id=43939877) - [The Beam](https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/)
+* [2025-05-09, 14:17:44](https://news.ycombinator.com/item?id=43937065) - [System lets robots identify an object's properties through handling](https://news.mit.edu/2025/system-lets-robots-identify-objects-properties-through-handling-0508)
 * [2025-05-09, 08:34:56](https://news.ycombinator.com/item?id=43934869) - [Open Hardware Ethernet Switch project, part 1](https://serd.es/2025/05/08/Switch-project-pt1.html)
 * [2025-05-09, 07:53:54](https://news.ycombinator.com/item?id=43934682) - [How to avoid P hacking](https://www.nature.com/articles/d41586-025-01246-1)
 
