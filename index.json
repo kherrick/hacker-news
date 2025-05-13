@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-13, 01:16:02",
+      "https://news.ycombinator.com/item?id=43968897"
+    ],
+    [
+      "FastVLM: Dramatically Faster Vision Language Model from Apple",
+      "https://github.com/apple/ml-fastvlm"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 00:30:35",
       "https://news.ycombinator.com/item?id=43968713"
     ],
@@ -27,6 +37,16 @@
     [
       "Wtfis: Passive hostname, domain and IP lookup tool for non-robots",
       "https://github.com/pirxthepilot/wtfis"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 20:38:06",
+      "https://news.ycombinator.com/item?id=43967208"
+    ],
+    [
+      "What if humanity forgot how to make CPUs?",
+      "https://twitter.com/lauriewired/status/1922015999118680495"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-05-12, 16:55:39",
-      "https://news.ycombinator.com/item?id=43965099"
-    ],
-    [
-      "Byte latent transformer: Patches scale better than tokens",
-      "https://arxiv.org/abs/2412.09871"
-    ]
-  ],
-  [
-    [
       "2025-05-12, 16:29:05",
       "https://news.ycombinator.com/item?id=43964827"
     ],
@@ -137,16 +147,6 @@
     [
       "The Barbican",
       "https://arslan.io/2025/05/12/barbican-estate/"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 15:05:44",
-      "https://news.ycombinator.com/item?id=43963868"
-    ],
-    [
-      "Embeddings are underrated (2024)",
-      "https://technicalwriting.dev/ml/embeddings/overview.html"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-05-10, 20:48:01",
-      "https://news.ycombinator.com/item?id=43948869"
-    ],
-    [
-      "Has anyone coined the term “fast tech” yet?",
-      "https://chaos.social/@gsuberland/114485304658708399"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 13:55:43",
       "https://news.ycombinator.com/item?id=43945660"
     ],
     [
       "Why GADTs matter for performance (2015)",
       "https://blog.janestreet.com/why-gadts-matter-for-performance/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 10:40:49",
+      "https://news.ycombinator.com/item?id=43944639"
+    ],
+    [
+      "Policy of Transience",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/"
     ]
   ],
   [
