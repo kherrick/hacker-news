@@ -40,6 +40,7 @@
 * [2025-05-09, 14:02:02](https://news.ycombinator.com/item?id=43936884) - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
 * [2025-05-09, 13:59:06](https://news.ycombinator.com/item?id=43936844) - [Show HN: Hyper – Standards first React alternative](https://nuejs.org/blog/standards-first-react-alternative/)
 * [2025-05-09, 13:56:37](https://news.ycombinator.com/item?id=43936813) - [Dasung Paperlike 13K is a 13.3 inch E Ink color monitor](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/)
+* [2025-05-09, 13:44:04](https://news.ycombinator.com/item?id=43936661) - [Revisiting Image Maps](https://css-tricks.com/revisiting-image-maps/)
 * [2025-05-09, 13:38:06](https://news.ycombinator.com/item?id=43936592) - [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
 * [2025-05-09, 13:25:17](https://news.ycombinator.com/item?id=43936468) - [Hollow Core Fiber (HCF)](https://www.holightoptic.com/what-is-hollow-core-fiber-hcf%ef%bc%9f/)
 * [2025-05-09, 13:24:22](https://news.ycombinator.com/item?id=43936461) - [Reconstructing illusory camouflage patterns on moth wings using computer vision](https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0757)
