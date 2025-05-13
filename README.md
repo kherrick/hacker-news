@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build Real-Time Knowledge Graph for Documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 19:44:47](https://news.ycombinator.com/item?id=43976862) - [Dusk OS](https://duskos.org/)
 * [2025-05-13, 19:19:14](https://news.ycombinator.com/item?id=43976574) - [Android and Wear OS are getting a big refresh](https://blog.google/products/android/material-3-expressive-android-wearos-launch/)
 * [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [Why are banks still getting authentication so wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
@@ -20,16 +21,15 @@
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
 * [2025-05-13, 08:41:25](https://news.ycombinator.com/item?id=43970837) - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 * [2025-05-13, 08:35:11](https://news.ycombinator.com/item?id=43970800) - [Odin: A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
-* [2025-05-13, 05:23:10](https://news.ycombinator.com/item?id=43969827) - [Mozilla Firefox – Official GitHub repo](https://github.com/mozilla-firefox/firefox)
 * [2025-05-12, 14:32:25](https://news.ycombinator.com/item?id=43963434) - [The great displacement is already well underway?](https://shawnfromportland.substack.com/p/the-great-displacement-is-already)
 * [2025-05-11, 21:03:09](https://news.ycombinator.com/item?id=43957140) - [Why are coffee stains darker at the edges?](https://www.why.is/svar.php?id=5513)
 * [2025-05-11, 10:07:22](https://news.ycombinator.com/item?id=43952707) - [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df)
 * [2025-05-11, 06:38:27](https://news.ycombinator.com/item?id=43951885) - [I learned Snobol and then wrote a toy Forth](https://ratfactor.com/snobol/)
+* [2025-05-10, 14:05:24](https://news.ycombinator.com/item?id=43945734) - [The Battle to Bottle Palm Wine](https://www.atlasobscura.com/articles/palm-wine-in-united-states)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane: Media Framework for Elixir](https://membrane.stream/)
 * [2025-05-10, 07:10:41](https://news.ycombinator.com/item?id=43943792) - [Mill as a direct style build tool](https://mill-build.org/blog/12-direct-style-build-tool.html)
 * [2025-05-09, 20:45:11](https://news.ycombinator.com/item?id=43940702) - [Turritopsis dohrnii: Immortal jellyfish](https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html)
-* [2025-05-09, 17:09:04](https://news.ycombinator.com/item?id=43939029) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro#detecting-if-an-expression-is-constant-in-c)
 
 ## [Archives](archives/index.md)
 
