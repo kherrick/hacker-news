@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 19:32:58](https://news.ycombinator.com/item?id=43976726) - [Programmers Will Be Replaced by People with Ideas](https://www.cleverthinkingsoftware.com/programmers-will-be-replaced-by-people-with-ideas/)
+* [2025-05-13, 19:19:14](https://news.ycombinator.com/item?id=43976574) - [Android and Wear OS are getting a big refresh](https://blog.google/products/android/material-3-expressive-android-wearos-launch/)
 * [2025-05-13, 19:00:04](https://news.ycombinator.com/item?id=43976394) - [AI chatbot psychologists are claiming to be fully licensed](https://sfstandard.com/2025/05/11/ai-chatbots-fake-therapists/)
 * [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [It's 2025–Why Are Banks Still Getting Authentication So Wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
+* [2025-05-13, 18:49:05](https://news.ycombinator.com/item?id=43976288) - [FCC threatens EchoStar licenses for spectrum that SpaceX wants to use](https://arstechnica.com/tech-policy/2025/05/fcc-threatens-echostar-licenses-for-spectrum-that-spacex-wants-to-use/)
 * [2025-05-13, 18:23:29](https://news.ycombinator.com/item?id=43976045) - [Ask HN: How do you store the knowledge gained in a day?](https://news.ycombinator.com/item?id=43976045)
 * [2025-05-13, 17:58:27](https://news.ycombinator.com/item?id=43975785) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry Protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
