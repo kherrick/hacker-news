@@ -6,6 +6,7 @@
 
 * [2025-05-13, 19:00:04](https://news.ycombinator.com/item?id=43976394) - [AI chatbot psychologists are claiming to be fully licensed](https://sfstandard.com/2025/05/11/ai-chatbots-fake-therapists/)
 * [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [It's 2025–Why Are Banks Still Getting Authentication So Wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
+* [2025-05-13, 18:23:29](https://news.ycombinator.com/item?id=43976045) - [Ask HN: How do you store the knowledge gained in a day?](https://news.ycombinator.com/item?id=43976045)
 * [2025-05-13, 17:58:27](https://news.ycombinator.com/item?id=43975785) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry Protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
 * [2025-05-13, 17:37:58](https://news.ycombinator.com/item?id=43975541) - [PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
@@ -25,6 +26,7 @@
 * [2025-05-13, 14:39:58](https://news.ycombinator.com/item?id=43973502) - [Chrome's New Embedding Model: Smaller, Faster, Same Quality](https://dejan.ai/blog/chromes-new-embedding-model/)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google’s unfinished DeX-like desktop mode for Android](https://tech.yahoo.com/phones/articles/first-look-google-unfinished-dex-181424457.html)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google's \"Desktop View\" Turns Android Phones into Pocket PCs](https://www.squaredtech.co/googles-desktop-view-android-phones-into-pcs)
+* [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google is building its own DeX: First look at Android's Desktop Mode](https://www.androidauthority.com/android-desktop-mode-leak-3550321/)
 * [2025-05-13, 14:17:05](https://news.ycombinator.com/item?id=43973250) - [Bosses weren't being paranoid: Remote workers more likely to start their own biz](https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/)
 * [2025-05-13, 14:13:32](https://news.ycombinator.com/item?id=43973210) - [Why I'm Resigning from the National Science Foundation](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
 * [2025-05-13, 13:44:18](https://news.ycombinator.com/item?id=43972927) - [TheForger's Win32 API Tutorial](https://winprog.org/tutorial/)
