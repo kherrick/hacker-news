@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-13, 03:29:02](https://news.ycombinator.com/item?id=43969440) - [Why the 737 MAX Has Been Such a Headache for Boeing](https://www.jalopnik.com/1853477/boeing-737-max-incidents-aircraft-problems/)
 * [2025-05-13, 01:16:02](https://news.ycombinator.com/item?id=43968897) - [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
 * [2025-05-13, 00:30:35](https://news.ycombinator.com/item?id=43968713) - [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
 * [2025-05-12, 22:41:30](https://news.ycombinator.com/item?id=43968141) - [Understanding LucasArts' iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
@@ -25,7 +26,6 @@
 * [2025-05-10, 08:10:18](https://news.ycombinator.com/item?id=43944007) - [Writing N-body gravity simulations code in Python](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
 * [2025-05-10, 07:51:30](https://news.ycombinator.com/item?id=43943942) - [15 Years of Shader Minification](https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/)
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
-* [2025-05-09, 21:30:16](https://news.ycombinator.com/item?id=43941068) - [The Acid King (2001)](https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/)
 * [2025-05-09, 19:25:05](https://news.ycombinator.com/item?id=43940172) - [NASA study reveals Venus crust surprise](https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/)
 * [2025-05-09, 18:48:03](https://news.ycombinator.com/item?id=43939877) - [The Beam](https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/)
 * [2025-05-09, 08:34:56](https://news.ycombinator.com/item?id=43934869) - [Open Hardware Ethernet Switch project, part 1](https://serd.es/2025/05/08/Switch-project-pt1.html)
