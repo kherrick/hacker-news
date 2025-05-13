@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 17:17:17](https://news.ycombinator.com/item?id=43975318) - [Sid Meier's Colonization](https://peyre.42web.io/Colonization/index.htm)
+* [2025-05-13, 17:12:33](https://news.ycombinator.com/item?id=43975254) - [GOP sneaks decade-long AI regulation ban into spending bill](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/)
 * [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [ETH Zurich researchers discover new security vulnerability in Intel processors](https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html)
 * [2025-05-13, 16:23:33](https://news.ycombinator.com/item?id=43974636) - [Fewer people want to work in the U.S.](https://www.axios.com/2025/05/13/us-jobs-foreign-workers)
+* [2025-05-13, 16:09:57](https://news.ycombinator.com/item?id=43974484) - [Show HN: AG-UI Protocol – Bring Agents into Frontend Applications](https://github.com/ag-ui-protocol/ag-ui)
 * [2025-05-13, 15:51:28](https://news.ycombinator.com/item?id=43974268) - [OpenAI's Stargate project struggling to get off the ground, due to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
 * [2025-05-13, 15:32:52](https://news.ycombinator.com/item?id=43974064) - [Tariffs Drive Honda to Move SUV Production from Canada to U.S.](https://www.nytimes.com/2025/05/13/world/americas/honda-trump-tariffs-us-canada.html)
 * [2025-05-13, 15:29:18](https://news.ycombinator.com/item?id=43974026) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)

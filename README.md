@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-13, 17:17:17](https://news.ycombinator.com/item?id=43975318) - [Sid Meier's Colonization](https://peyre.42web.io/Colonization/index.htm)
+* [2025-05-13, 17:12:33](https://news.ycombinator.com/item?id=43975254) - [GOP sneaks decade-long AI regulation ban into spending bill](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/)
 * [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [ETH Zurich researchers discover new security vulnerability in Intel processors](https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html)
-* [2025-05-13, 16:23:33](https://news.ycombinator.com/item?id=43974636) - [Fewer people want to work in the U.S.](https://www.axios.com/2025/05/13/us-jobs-foreign-workers)
+* [2025-05-13, 16:09:57](https://news.ycombinator.com/item?id=43974484) - [Show HN: AG-UI Protocol – Bring Agents into Frontend Applications](https://github.com/ag-ui-protocol/ag-ui)
 * [2025-05-13, 15:51:28](https://news.ycombinator.com/item?id=43974268) - [OpenAI's Stargate project struggling to get off the ground, due to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
 * [2025-05-13, 15:29:18](https://news.ycombinator.com/item?id=43974026) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 * [2025-05-13, 15:27:47](https://news.ycombinator.com/item?id=43974005) - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
@@ -9,7 +11,6 @@
 * [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
 * [2025-05-13, 12:58:25](https://news.ycombinator.com/item?id=43972438) - [As US vuln-tracking falters, EU enters with its own security bug database](https://www.theregister.com/2025/05/13/eu_security_bug_database/)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
-* [2025-05-13, 12:49:54](https://news.ycombinator.com/item?id=43972360) - [We can no longer run Microsoft Store on 1809/LTSC 2019](https://github.com/fernvenue/microsoft-store)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple Security Issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
 * [2025-05-13, 11:22:40](https://news.ycombinator.com/item?id=43971688) - [Show HN: Basecoat – shadcn/UI components, no React required](https://news.ycombinator.com/item?id=43971688)
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
@@ -28,7 +29,6 @@
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane, Media Framework for Elixir](https://membrane.stream/)
 * [2025-05-10, 07:51:30](https://news.ycombinator.com/item?id=43943942) - [15 Years of Shader Minification](https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/)
 * [2025-05-09, 17:09:04](https://news.ycombinator.com/item?id=43939029) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro#detecting-if-an-expression-is-constant-in-c)
-* [2025-05-09, 13:44:04](https://news.ycombinator.com/item?id=43936661) - [Revisiting Image Maps](https://css-tricks.com/revisiting-image-maps/)
 * [2025-05-09, 08:34:56](https://news.ycombinator.com/item?id=43934869) - [Open Hardware Ethernet Switch project, part 1](https://serd.es/2025/05/08/Switch-project-pt1.html)
 
 ## [Archives](archives/index.md)
