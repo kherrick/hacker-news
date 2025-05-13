@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 15:51:28](https://news.ycombinator.com/item?id=43974268) - [OpenAI's Stargate project struggling to get off the ground, due to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
 * [2025-05-13, 15:32:52](https://news.ycombinator.com/item?id=43974064) - [Tariffs Drive Honda to Move SUV Production from Canada to U.S.](https://www.nytimes.com/2025/05/13/world/americas/honda-trump-tariffs-us-canada.html)
+* [2025-05-13, 15:29:18](https://news.ycombinator.com/item?id=43974026) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
+* [2025-05-13, 15:27:47](https://news.ycombinator.com/item?id=43974005) - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
 * [2025-05-13, 14:42:02](https://news.ycombinator.com/item?id=43973518) - [Understanding Java's Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google's \"Desktop View\" Turns Android Phones into Pocket PCs](https://www.squaredtech.co/googles-desktop-view-android-phones-into-pcs)
