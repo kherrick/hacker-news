@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=43968897"
     ],
     [
-      "FastVLM: Dramatically Faster Vision Language Model from Apple",
+      "Fastvlm: Efficient vision encoding for vision language models",
       "https://github.com/apple/ml-fastvlm"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "Wtfis: Passive hostname, domain and IP lookup tool for non-robots",
       "https://github.com/pirxthepilot/wtfis"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 20:38:06",
-      "https://news.ycombinator.com/item?id=43967208"
-    ],
-    [
-      "What if humanity forgot how to make CPUs?",
-      "https://twitter.com/lauriewired/status/1922015999118680495"
     ]
   ],
   [
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=43940172"
     ],
     [
-      "NASA Study Reveals Venus Crust Surprise",
+      "NASA study reveals Venus crust surprise",
       "https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "The Beam",
       "https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 08:34:56",
+      "https://news.ycombinator.com/item?id=43934869"
+    ],
+    [
+      "Open Hardware Ethernet Switch project, part 1",
+      "https://serd.es/2025/05/08/Switch-project-pt1.html"
     ]
   ],
   [
