@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 17:26:38](https://news.ycombinator.com/item?id=43975423) - [Show HN: Helixdb – Open-source vector-graph database for AI applications (Rust)](https://github.com/HelixDB/helix-db/)
 * [2025-05-13, 17:17:17](https://news.ycombinator.com/item?id=43975318) - [Sid Meier's Colonization](https://peyre.42web.io/Colonization/index.htm)
 * [2025-05-13, 17:12:33](https://news.ycombinator.com/item?id=43975254) - [GOP sneaks decade-long AI regulation ban into spending bill](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/)
 * [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [ETH Zurich researchers discover new security vulnerability in Intel processors](https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html)
@@ -15,6 +16,7 @@
 * [2025-05-13, 15:27:47](https://news.ycombinator.com/item?id=43974005) - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
 * [2025-05-13, 14:42:02](https://news.ycombinator.com/item?id=43973518) - [Understanding Java's Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
+* [2025-05-13, 14:39:58](https://news.ycombinator.com/item?id=43973502) - [Chrome's New Embedding Model: Smaller, Faster, Same Quality](https://dejan.ai/blog/chromes-new-embedding-model/)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google's \"Desktop View\" Turns Android Phones into Pocket PCs](https://www.squaredtech.co/googles-desktop-view-android-phones-into-pcs)
 * [2025-05-13, 14:17:05](https://news.ycombinator.com/item?id=43973250) - [Bosses weren't being paranoid: Remote workers more likely to start their own biz](https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/)
 * [2025-05-13, 14:13:32](https://news.ycombinator.com/item?id=43973210) - [Why I'm Resigning from the National Science Foundation](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
