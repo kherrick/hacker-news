@@ -53,6 +53,7 @@
 * [2025-05-11, 07:22:12](https://news.ycombinator.com/item?id=43952042) - [Cory Arcangel Recovered a Late Artist's Digital Legacy](https://www.newyorker.com/culture/infinite-scroll/how-cory-arcangel-recovered-a-late-artists-digital-legacy)
 * [2025-05-11, 07:07:26](https://news.ycombinator.com/item?id=43951985) - [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 * [2025-05-11, 06:56:49](https://news.ycombinator.com/item?id=43951943) - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
+* [2025-05-11, 06:38:27](https://news.ycombinator.com/item?id=43951885) - [I learned Snobol and then wrote a toy Forth](https://ratfactor.com/snobol/)
 * [2025-05-11, 06:26:37](https://news.ycombinator.com/item?id=43951841) - [Im 16 y/o working on my first statup](https://www.notiv.app/)
 * [2025-05-11, 05:58:01](https://news.ycombinator.com/item?id=43951737) - [Thinkers and Doers](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
 * [2025-05-11, 05:11:18](https://news.ycombinator.com/item?id=43951588) - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
