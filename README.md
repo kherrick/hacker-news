@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-13, 17:58:27](https://news.ycombinator.com/item?id=43975785) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
+* [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry Protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
 * [2025-05-13, 17:37:58](https://news.ycombinator.com/item?id=43975541) - [PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
 * [2025-05-13, 17:26:38](https://news.ycombinator.com/item?id=43975423) - [Show HN: Helixdb – Open-source vector-graph database for AI applications (Rust)](https://github.com/HelixDB/helix-db/)
 * [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [Branch Privilege Injection: Exploiting branch predictor race conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
@@ -11,7 +12,6 @@
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google’s unfinished DeX-like desktop mode for Android](https://tech.yahoo.com/phones/articles/first-look-google-unfinished-dex-181424457.html)
 * [2025-05-13, 13:44:18](https://news.ycombinator.com/item?id=43972927) - [TheForger's Win32 API Tutorial](https://winprog.org/tutorial/)
 * [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
-* [2025-05-13, 12:58:25](https://news.ycombinator.com/item?id=43972438) - [As US vuln-tracking falters, EU enters with its own security bug database](https://www.theregister.com/2025/05/13/eu_security_bug_database/)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple security issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
 * [2025-05-13, 11:22:40](https://news.ycombinator.com/item?id=43971688) - [Show HN: Basecoat – shadcn/UI components, no React required](https://news.ycombinator.com/item?id=43971688)
