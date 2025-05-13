@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-05-13, 19:44:47",
-      "https://news.ycombinator.com/item?id=43976862"
-    ],
-    [
-      "Dusk OS",
-      "https://duskos.org/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 18:56:11",
       "https://news.ycombinator.com/item?id=43976359"
     ],
@@ -277,6 +267,16 @@
     [
       "Membrane: Media Framework for Elixir",
       "https://membrane.stream/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 13:23:35",
+      "https://news.ycombinator.com/item?id=43945423"
+    ],
+    [
+      "Garbage Collection of Object Storage at Scale",
+      "https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale"
     ]
   ],
   [
