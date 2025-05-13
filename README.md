@@ -7,7 +7,7 @@
 * [2025-05-13, 08:35:11](https://news.ycombinator.com/item?id=43970800) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 08:06:59](https://news.ycombinator.com/item?id=43970637) - [Anti-Personnel Computing (2023)](https://erratique.ch/writings/anti-personnel-computing)
 * [2025-05-13, 07:12:54](https://news.ycombinator.com/item?id=43970363) - [Trial by Fire: The crash of Aeroflot flight 1492](https://admiralcloudberg.medium.com/trial-by-fire-the-crash-of-aeroflot-flight-1492-ee61cebcf6ec)
-* [2025-05-13, 05:23:10](https://news.ycombinator.com/item?id=43969827) - [Firefox moves to GitHub](https://github.com/mozilla-firefox/firefox)
+* [2025-05-13, 05:23:10](https://news.ycombinator.com/item?id=43969827) - [Mozilla Firefox – Official GitHub repo](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 03:29:47](https://news.ycombinator.com/item?id=43969442) - [TransMLA: Multi-head latent attention is all you need](https://arxiv.org/abs/2502.07864)
 * [2025-05-13, 01:16:02](https://news.ycombinator.com/item?id=43968897) - [FastVLM: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
 * [2025-05-12, 22:41:30](https://news.ycombinator.com/item?id=43968141) - [Understanding LucasArts' iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
