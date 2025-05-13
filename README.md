@@ -2,7 +2,6 @@
 
 * [2025-05-13, 20:13:54](https://news.ycombinator.com/item?id=43977188) - [Starcloud](https://www.ycombinator.com/companies/starcloud)
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build Real-Time Knowledge Graph for Documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
-* [2025-05-13, 19:44:47](https://news.ycombinator.com/item?id=43976862) - [Dusk OS](https://duskos.org/)
 * [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [Why are banks still getting authentication so wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
 * [2025-05-13, 17:58:27](https://news.ycombinator.com/item?id=43975785) - [Don't unwrap options: There are better ways (2024)](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
@@ -28,6 +27,7 @@
 * [2025-05-10, 14:05:24](https://news.ycombinator.com/item?id=43945734) - [The Battle to Bottle Palm Wine](https://www.atlasobscura.com/articles/palm-wine-in-united-states)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane: Media Framework for Elixir](https://membrane.stream/)
+* [2025-05-10, 13:23:35](https://news.ycombinator.com/item?id=43945423) - [Garbage Collection of Object Storage at Scale](https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale)
 * [2025-05-10, 07:10:41](https://news.ycombinator.com/item?id=43943792) - [Mill as a direct style build tool](https://mill-build.org/blog/12-direct-style-build-tool.html)
 * [2025-05-09, 20:45:11](https://news.ycombinator.com/item?id=43940702) - [Turritopsis dohrnii: Immortal jellyfish](https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html)
 

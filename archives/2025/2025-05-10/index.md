@@ -42,6 +42,7 @@
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane, Media Framework for Elixir](https://membrane.stream/)
 * [2025-05-10, 13:29:05](https://news.ycombinator.com/item?id=43945467) - [People Who Hype Cursor Usually Lack Technical Skills](https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/)
 * [2025-05-10, 13:23:51](https://news.ycombinator.com/item?id=43945426) - [There's a National Egg Crisis, and One Company Is Making a Lot of Money](https://www.wsj.com/business/egg-prices-shortage-cal-maine-foods-f53286b3)
+* [2025-05-10, 13:23:35](https://news.ycombinator.com/item?id=43945423) - [Garbage Collection of Object Storage at Scale](https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale)
 * [2025-05-10, 13:07:24](https://news.ycombinator.com/item?id=43945324) - [The Dave and Busters Anomaly](https://www.searchengine.show/the-dave-and-busters-anomaly/)
 * [2025-05-10, 13:02:55](https://news.ycombinator.com/item?id=43945293) - [React Three Ecosystem](https://www.react-three.org/)
 * [2025-05-10, 12:40:09](https://news.ycombinator.com/item?id=43945165) - [Henry James's family tried to keep him in the closet (2016)](https://www.theguardian.com/books/2016/feb/20/colm-toibin-how-henry-james-family-tried-to-keep-him-in-the-closet)
