@@ -13,6 +13,7 @@
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
 * [2025-05-13, 17:26:38](https://news.ycombinator.com/item?id=43975423) - [Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)](https://github.com/HelixDB/helix-db/)
 * [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [Branch Privilege Injection: Exploiting branch predictor race conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
+* [2025-05-13, 15:29:18](https://news.ycombinator.com/item?id=43974026) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 * [2025-05-13, 15:27:47](https://news.ycombinator.com/item?id=43974005) - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a challenging problem](https://www.marginalia.nu/log/a_119_pdf/)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google is building its own DeX: First look at Android's Desktop Mode](https://www.androidauthority.com/android-desktop-mode-leak-3550321/)
@@ -28,7 +29,6 @@
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane: Media Framework for Elixir](https://membrane.stream/)
 * [2025-05-10, 13:23:35](https://news.ycombinator.com/item?id=43945423) - [Garbage collection of object storage at scale](https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale)
 * [2025-05-10, 10:41:21](https://news.ycombinator.com/item?id=43944640) - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
-* [2025-05-10, 07:10:41](https://news.ycombinator.com/item?id=43943792) - [Mill as a direct style build tool](https://mill-build.org/blog/12-direct-style-build-tool.html)
 * [2025-05-09, 20:45:11](https://news.ycombinator.com/item?id=43940702) - [Turritopsis dohrnii: Immortal jellyfish](https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html)
 
 ## [Archives](archives/index.md)
