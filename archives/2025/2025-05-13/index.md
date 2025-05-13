@@ -6,6 +6,7 @@
 
 * [2025-05-13, 08:20:48](https://news.ycombinator.com/item?id=43970712) - [Iceland approved 4-day workweek in 2019; six years later, predictions came true](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
 * [2025-05-13, 08:06:59](https://news.ycombinator.com/item?id=43970637) - [Anti-Personnel Computing](https://erratique.ch/writings/anti-personnel-computing)
+* [2025-05-13, 07:12:54](https://news.ycombinator.com/item?id=43970363) - [Trial by Fire: The crash of Aeroflot flight 1492](https://admiralcloudberg.medium.com/trial-by-fire-the-crash-of-aeroflot-flight-1492-ee61cebcf6ec)
 * [2025-05-13, 06:34:26](https://news.ycombinator.com/item?id=43970104) - [Persuasion Methods for Engineering Managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
 * [2025-05-13, 06:08:38](https://news.ycombinator.com/item?id=43970003) - [Texas Senate passes bill requiring solar plants to provide power at night](https://thehill.com/policy/equilibrium-sustainability/5292792-texas-senate-bill-power-cost/)
 * [2025-05-13, 05:57:46](https://news.ycombinator.com/item?id=43969950) - [Twitch star HasanAbi says he was detained, questioned by border agents](https://www.washingtonpost.com/immigration/2025/05/12/hasan-piker-detained-border-agents-twitch/)

@@ -2,6 +2,7 @@
 
 * [2025-05-13, 08:20:48](https://news.ycombinator.com/item?id=43970712) - [Iceland approved 4-day workweek in 2019; six years later, predictions came true](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
 * [2025-05-13, 08:06:59](https://news.ycombinator.com/item?id=43970637) - [Anti-Personnel Computing](https://erratique.ch/writings/anti-personnel-computing)
+* [2025-05-13, 07:12:54](https://news.ycombinator.com/item?id=43970363) - [Trial by Fire: The crash of Aeroflot flight 1492](https://admiralcloudberg.medium.com/trial-by-fire-the-crash-of-aeroflot-flight-1492-ee61cebcf6ec)
 * [2025-05-13, 06:34:26](https://news.ycombinator.com/item?id=43970104) - [Persuasion methods for engineering managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
 * [2025-05-13, 05:23:10](https://news.ycombinator.com/item?id=43969827) - [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 03:29:47](https://news.ycombinator.com/item?id=43969442) - [TransMLA: Multi-head latent attention is all you need](https://arxiv.org/abs/2502.07864)
@@ -25,7 +26,6 @@
 * [2025-05-10, 07:51:30](https://news.ycombinator.com/item?id=43943942) - [15 Years of Shader Minification](https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/)
 * [2025-05-09, 19:25:05](https://news.ycombinator.com/item?id=43940172) - [NASA study reveals Venus crust surprise](https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/)
 * [2025-05-09, 18:48:03](https://news.ycombinator.com/item?id=43939877) - [The Beam](https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/)
-* [2025-05-09, 17:59:41](https://news.ycombinator.com/item?id=43939495) - [Offline vs. online ML pipelines](https://decodingml.substack.com/p/offline-vs-online-ml-pipelines)
 * [2025-05-09, 14:25:26](https://news.ycombinator.com/item?id=43937151) - [Alephic Writing Style Guide](https://www.alephic.com/company/writing)
 * [2025-05-09, 13:44:04](https://news.ycombinator.com/item?id=43936661) - [Revisiting Image Maps](https://css-tricks.com/revisiting-image-maps/)
 * [2025-05-09, 08:34:56](https://news.ycombinator.com/item?id=43934869) - [Open Hardware Ethernet Switch project, part 1](https://serd.es/2025/05/08/Switch-project-pt1.html)
