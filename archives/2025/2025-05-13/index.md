@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 19:00:04](https://news.ycombinator.com/item?id=43976394) - [AI chatbot psychologists are claiming to be fully licensed](https://sfstandard.com/2025/05/11/ai-chatbots-fake-therapists/)
+* [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [It's 2025–Why Are Banks Still Getting Authentication So Wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
 * [2025-05-13, 17:58:27](https://news.ycombinator.com/item?id=43975785) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry Protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
 * [2025-05-13, 17:37:58](https://news.ycombinator.com/item?id=43975541) - [PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
