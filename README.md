@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-13, 09:41:04](https://news.ycombinator.com/item?id=43971197) - [Low-intensity transcranial focused ultrasound amygdala neuromodulation](https://www.nature.com/articles/s41380-025-03033-w)
+* [2025-05-13, 10:44:41](https://news.ycombinator.com/item?id=43971523) - [Show HN: Why hanging out on Hacker News is a good use of your time?](https://www.parliant.ai/surveys/e31a7442-080b-4921-bfa4-457ef0b974ec)
+* [2025-05-13, 09:02:02](https://news.ycombinator.com/item?id=43970959) - [Nextcloud cries foul over Google Play Store app rejection](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/)
 * [2025-05-13, 08:41:25](https://news.ycombinator.com/item?id=43970837) - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 * [2025-05-13, 08:35:11](https://news.ycombinator.com/item?id=43970800) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 08:06:59](https://news.ycombinator.com/item?id=43970637) - [Anti-Personnel Computing (2023)](https://erratique.ch/writings/anti-personnel-computing)
@@ -24,7 +25,6 @@
 * [2025-05-10, 07:51:30](https://news.ycombinator.com/item?id=43943942) - [15 Years of Shader Minification](https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/)
 * [2025-05-10, 06:42:50](https://news.ycombinator.com/item?id=43943666) - [The Microsoft unit working to thwart hackers](https://www.bloomberg.com/news/features/2025-05-09/microsoft-s-hacker-hunters-inside-the-secretive-mstic-unit)
 * [2025-05-09, 19:25:05](https://news.ycombinator.com/item?id=43940172) - [NASA study reveals Venus crust surprise](https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/)
-* [2025-05-09, 18:48:03](https://news.ycombinator.com/item?id=43939877) - [The Beam](https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/)
 * [2025-05-09, 17:59:41](https://news.ycombinator.com/item?id=43939495) - [Offline vs. online ML pipelines](https://decodingml.substack.com/p/offline-vs-online-ml-pipelines)
 * [2025-05-09, 14:25:26](https://news.ycombinator.com/item?id=43937151) - [Alephic Writing Style Guide](https://www.alephic.com/company/writing)
 * [2025-05-09, 13:44:04](https://news.ycombinator.com/item?id=43936661) - [Revisiting Image Maps](https://css-tricks.com/revisiting-image-maps/)

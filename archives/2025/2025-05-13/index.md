@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 10:44:41](https://news.ycombinator.com/item?id=43971523) - [Show HN: Why hanging out on Hacker News is a good use of your time?](https://www.parliant.ai/surveys/e31a7442-080b-4921-bfa4-457ef0b974ec)
 * [2025-05-13, 09:41:04](https://news.ycombinator.com/item?id=43971197) - [Low-intensity transcranial focused ultrasound amygdala neuromodulation](https://www.nature.com/articles/s41380-025-03033-w)
+* [2025-05-13, 09:02:02](https://news.ycombinator.com/item?id=43970959) - [Nextcloud cries foul over Google Play Store app rejection](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/)
 * [2025-05-13, 08:41:25](https://news.ycombinator.com/item?id=43970837) - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 * [2025-05-13, 08:35:11](https://news.ycombinator.com/item?id=43970800) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 08:20:48](https://news.ycombinator.com/item?id=43970712) - [Iceland approved 4-day workweek in 2019; six years later, predictions came true](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
