@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 22:25:29](https://news.ycombinator.com/item?id=43978435) - [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
+* [2025-05-13, 22:15:30](https://news.ycombinator.com/item?id=43978357) - [Type-Constrained Code Generation with Language Models](https://arxiv.org/abs/2504.09246)
+* [2025-05-13, 22:12:11](https://news.ycombinator.com/item?id=43978333) - [How (memory) safe is Zig? (2021)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2025-05-13, 21:57:54](https://news.ycombinator.com/item?id=43978224) - [Y Combinator says Google is a monopolist, no comment about its OpenAI ties](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/)
 * [2025-05-13, 21:49:42](https://news.ycombinator.com/item?id=43978155) - [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
 * [2025-05-13, 20:13:54](https://news.ycombinator.com/item?id=43977188) - [Starcloud](https://www.ycombinator.com/companies/starcloud)
