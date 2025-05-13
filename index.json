@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-13, 17:26:38",
+      "https://news.ycombinator.com/item?id=43975423"
+    ],
+    [
+      "Show HN: Helixdb – Open-source vector-graph database for AI applications (Rust)",
+      "https://github.com/HelixDB/helix-db/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 17:17:17",
       "https://news.ycombinator.com/item?id=43975318"
     ],
@@ -77,6 +87,16 @@
     [
       "PDF to Text, a Challenging Problem",
       "https://www.marginalia.nu/log/a_119_pdf/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 14:39:58",
+      "https://news.ycombinator.com/item?id=43973502"
+    ],
+    [
+      "Chrome's New Embedding Model: Smaller, Faster, Same Quality",
+      "https://dejan.ai/blog/chromes-new-embedding-model/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-13, 03:29:47",
-      "https://news.ycombinator.com/item?id=43969442"
-    ],
-    [
-      "TransMLA: Multi-head latent attention is all you need",
-      "https://arxiv.org/abs/2502.07864"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 01:16:02",
       "https://news.ycombinator.com/item?id=43968897"
     ],
@@ -267,16 +277,6 @@
     [
       "Membrane, Media Framework for Elixir",
       "https://membrane.stream/"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 07:51:30",
-      "https://news.ycombinator.com/item?id=43943942"
-    ],
-    [
-      "15 Years of Shader Minification",
-      "https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/"
     ]
   ],
   [
