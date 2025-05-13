@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-13, 19:00:04](https://news.ycombinator.com/item?id=43976394) - [AI chatbot psychologists are claiming to be fully licensed](https://sfstandard.com/2025/05/11/ai-chatbots-fake-therapists/)
 * [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [It's 2025–Why Are Banks Still Getting Authentication So Wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
 * [2025-05-13, 17:58:27](https://news.ycombinator.com/item?id=43975785) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry Protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
@@ -12,6 +11,7 @@
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a challenging problem](https://www.marginalia.nu/log/a_119_pdf/)
 * [2025-05-13, 14:39:58](https://news.ycombinator.com/item?id=43973502) - [Chrome's New Embedding Model: Smaller, Faster, Same Quality](https://dejan.ai/blog/chromes-new-embedding-model/)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google’s unfinished DeX-like desktop mode for Android](https://tech.yahoo.com/phones/articles/first-look-google-unfinished-dex-181424457.html)
+* [2025-05-13, 13:44:18](https://news.ycombinator.com/item?id=43972927) - [TheForger's Win32 API Tutorial](https://winprog.org/tutorial/)
 * [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple security issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
