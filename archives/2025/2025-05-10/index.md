@@ -63,6 +63,7 @@
 * [2025-05-10, 07:30:28](https://news.ycombinator.com/item?id=43943871) - [Why should I care? or why punks are correct and old wise philosophers are wrong](https://abuseofnotation.github.io/moral-law/)
 * [2025-05-10, 06:58:15](https://news.ycombinator.com/item?id=43943737) - [NOT a 3 year old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
+* [2025-05-10, 06:42:50](https://news.ycombinator.com/item?id=43943666) - [The Elite Microsoft Unit Constantly Working to Thwart Hackers](https://www.bloomberg.com/news/features/2025-05-09/microsoft-s-hacker-hunters-inside-the-secretive-mstic-unit)
 * [2025-05-10, 06:38:56](https://news.ycombinator.com/item?id=43943652) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
 * [2025-05-10, 06:28:17](https://news.ycombinator.com/item?id=43943610) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
 * [2025-05-10, 06:20:21](https://news.ycombinator.com/item?id=43943583) - [Europe launches program to lure scientists away from the US](https://es.wired.com/articulos/europa-lanza-iniciativa-para-atraer-talento-cientifico-tras-recortes-en-ee-uu)
