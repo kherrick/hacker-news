@@ -38,6 +38,7 @@
 * [2025-05-10, 14:05:24](https://news.ycombinator.com/item?id=43945734) - [The Battle to Bottle Palm Wine](https://www.atlasobscura.com/articles/palm-wine-in-united-states)
 * [2025-05-10, 13:55:43](https://news.ycombinator.com/item?id=43945660) - [Why GADTs matter for performance (2015)](https://blog.janestreet.com/why-gadts-matter-for-performance/)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
+* [2025-05-10, 13:46:20](https://news.ycombinator.com/item?id=43945585) - [Coffee for people who don't like coffee](https://ostwilkens.se/blog/coffee)
 * [2025-05-10, 13:40:34](https://news.ycombinator.com/item?id=43945545) - [Interagency Grizzly Bear Committee](https://igbconline.org/)
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane, Media Framework for Elixir](https://membrane.stream/)
 * [2025-05-10, 13:29:05](https://news.ycombinator.com/item?id=43945467) - [People Who Hype Cursor Usually Lack Technical Skills](https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/)
