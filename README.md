@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [ETH Zurich researchers discover new security vulnerability in Intel processors](https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html)
 * [2025-05-13, 15:51:28](https://news.ycombinator.com/item?id=43974268) - [OpenAI's Stargate project struggling to get off the ground, due to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
 * [2025-05-13, 15:29:18](https://news.ycombinator.com/item?id=43974026) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 * [2025-05-13, 15:27:47](https://news.ycombinator.com/item?id=43974005) - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
@@ -29,7 +30,6 @@
 * [2025-05-09, 17:09:04](https://news.ycombinator.com/item?id=43939029) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro#detecting-if-an-expression-is-constant-in-c)
 * [2025-05-09, 13:44:04](https://news.ycombinator.com/item?id=43936661) - [Revisiting Image Maps](https://css-tricks.com/revisiting-image-maps/)
 * [2025-05-09, 08:34:56](https://news.ycombinator.com/item?id=43934869) - [Open Hardware Ethernet Switch project, part 1](https://serd.es/2025/05/08/Switch-project-pt1.html)
-* [2025-05-09, 07:53:54](https://news.ycombinator.com/item?id=43934682) - [How to avoid P hacking](https://www.nature.com/articles/d41586-025-01246-1)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [ETH Zurich researchers discover new security vulnerability in Intel processors](https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html)
 * [2025-05-13, 15:51:28](https://news.ycombinator.com/item?id=43974268) - [OpenAI's Stargate project struggling to get off the ground, due to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
 * [2025-05-13, 15:32:52](https://news.ycombinator.com/item?id=43974064) - [Tariffs Drive Honda to Move SUV Production from Canada to U.S.](https://www.nytimes.com/2025/05/13/world/americas/honda-trump-tariffs-us-canada.html)
 * [2025-05-13, 15:29:18](https://news.ycombinator.com/item?id=43974026) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
