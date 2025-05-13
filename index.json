@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43978357"
     ],
     [
-      "Type-Constrained Code Generation with Language Models",
+      "Type-constrained code generation with language models",
       "https://arxiv.org/abs/2504.09246"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43977147"
     ],
     [
-      "Using Obscure Graph Theory to Solve Programming Languages Problems",
+      "Using obscure graph theory to solve programming languages problems",
       "https://reasonablypolymorphic.com/blog/solving-lcsa/"
     ]
   ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-05-10, 13:46:20",
-      "https://news.ycombinator.com/item?id=43945585"
-    ],
-    [
-      "Coffee for people who don't like coffee",
-      "https://ostwilkens.se/blog/coffee"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 13:33:00",
       "https://news.ycombinator.com/item?id=43945483"
     ],
@@ -287,6 +277,16 @@
     [
       "A tool to verify estimates, II: a flexible proof assistant",
       "https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 07:10:41",
+      "https://news.ycombinator.com/item?id=43943792"
+    ],
+    [
+      "Mill as a direct style build tool",
+      "https://mill-build.org/blog/12-direct-style-build-tool.html"
     ]
   ],
   [
