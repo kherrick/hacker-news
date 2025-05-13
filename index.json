@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-05-10, 13:55:43",
-      "https://news.ycombinator.com/item?id=43945660"
-    ],
-    [
-      "Why GADTs matter for performance (2015)",
-      "https://blog.janestreet.com/why-gadts-matter-for-performance/"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 10:40:49",
       "https://news.ycombinator.com/item?id=43944639"
     ],
@@ -237,6 +227,16 @@
     [
       "Writing N-body gravity simulations code in Python",
       "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 07:51:30",
+      "https://news.ycombinator.com/item?id=43943942"
+    ],
+    [
+      "15 Years of Shader Minification",
+      "https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/"
     ]
   ],
   [
