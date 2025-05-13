@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-05-13, 06:34:26",
-      "https://news.ycombinator.com/item?id=43970104"
-    ],
-    [
-      "Persuasion methods for engineering managers",
-      "https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 05:23:10",
       "https://news.ycombinator.com/item?id=43969827"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43968897"
     ],
     [
-      "Fastvlm: Efficient vision encoding for vision language models",
+      "FastVLM: Efficient vision encoding for vision language models",
       "https://github.com/apple/ml-fastvlm"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Understanding LucasArts' iMUSE System",
       "https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 22:15:12",
+      "https://news.ycombinator.com/item?id=43967962"
+    ],
+    [
+      "Wtfis: Passive hostname, domain and IP lookup tool for non-robots",
+      "https://github.com/pirxthepilot/wtfis"
     ]
   ],
   [
