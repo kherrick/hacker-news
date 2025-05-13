@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google's \"Desktop View\" Turns Android Phones into Pocket PCs](https://www.squaredtech.co/googles-desktop-view-android-phones-into-pcs)
+* [2025-05-13, 14:17:05](https://news.ycombinator.com/item?id=43973250) - [Bosses weren't being paranoid: Remote workers more likely to start their own biz](https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/)
 * [2025-05-13, 14:13:32](https://news.ycombinator.com/item?id=43973210) - [Why I'm Resigning from the National Science Foundation](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
 * [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
 * [2025-05-13, 12:58:25](https://news.ycombinator.com/item?id=43972438) - [As US vuln-tracking falters, EU enters with its own security bug database](https://www.theregister.com/2025/05/13/eu_security_bug_database/)
@@ -20,7 +21,6 @@
 * [2025-05-13, 01:16:02](https://news.ycombinator.com/item?id=43968897) - [FastVLM: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
 * [2025-05-12, 19:52:40](https://news.ycombinator.com/item?id=43966843) - [A conversation about AI for science with Jason Pruet](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
 * [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can you trust that permission pop-up on macOS?](https://wts.dev/posts/tcc-who/)
-* [2025-05-12, 16:29:05](https://news.ycombinator.com/item?id=43964827) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
 * [2025-05-12, 15:28:38](https://news.ycombinator.com/item?id=43964136) - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
 * [2025-05-12, 00:39:22](https://news.ycombinator.com/item?id=43958562) - [Air Traffic Control](https://computer.rip/2025-05-11-air-traffic-control.html)
 * [2025-05-11, 21:03:09](https://news.ycombinator.com/item?id=43957140) - [Why are coffee stains darker at the edges?](https://www.why.is/svar.php?id=5513)
