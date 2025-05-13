@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 05:23:10](https://news.ycombinator.com/item?id=43969827) - [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 03:29:47](https://news.ycombinator.com/item?id=43969442) - [TransMLA: Multi-head latent attention is all you need](https://arxiv.org/abs/2502.07864)
 * [2025-05-13, 03:29:02](https://news.ycombinator.com/item?id=43969440) - [Why the 737 MAX Has Been Such a Headache for Boeing](https://www.jalopnik.com/1853477/boeing-737-max-incidents-aircraft-problems/)
 * [2025-05-13, 01:16:02](https://news.ycombinator.com/item?id=43968897) - [FastVLM: Dramatically Faster Vision Language Model from Apple](https://github.com/apple/ml-fastvlm)
