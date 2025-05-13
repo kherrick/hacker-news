@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-13, 20:13:54](https://news.ycombinator.com/item?id=43977188) - [Starcloud](https://www.ycombinator.com/companies/starcloud)
+* [2025-05-13, 20:09:54](https://news.ycombinator.com/item?id=43977147) - [Using Obscure Graph Theory to Solve Programming Languages Problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build Real-Time Knowledge Graph for Documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [Why are banks still getting authentication so wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
 * [2025-05-13, 17:58:27](https://news.ycombinator.com/item?id=43975785) - [Don't unwrap options: There are better ways (2024)](https://corrode.dev/blog/rust-option-handling-best-practices/)
