@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-13, 21:57:54",
+      "https://news.ycombinator.com/item?id=43978224"
+    ],
+    [
+      "Y Combinator says Google is a monopolist, no comment about its OpenAI ties",
+      "https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 21:49:42",
+      "https://news.ycombinator.com/item?id=43978155"
+    ],
+    [
+      "Cardiac: A CARDboard Illustrative Aid to Computation [pdf]",
+      "https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 20:13:54",
       "https://news.ycombinator.com/item?id=43977188"
     ],
@@ -27,6 +47,16 @@
     [
       "Build real-time knowledge graph for documents with LLM",
       "https://cocoindex.io/blogs/knowledge-graph-for-docs/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 19:19:14",
+      "https://news.ycombinator.com/item?id=43976574"
+    ],
+    [
+      "Android and Wear OS are getting a redesign",
+      "https://blog.google/products/android/material-3-expressive-android-wearos-launch/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-05-13, 15:29:18",
-      "https://news.ycombinator.com/item?id=43974026"
-    ],
-    [
-      "A Taxonomy of Bugs",
-      "https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 15:27:47",
       "https://news.ycombinator.com/item?id=43974005"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-05-13, 11:41:42",
-      "https://news.ycombinator.com/item?id=43971791"
-    ],
-    [
-      "One hundred and one rules of effective living",
-      "https://mitchhorowitz.substack.com/p/101-rules-of-effective-living"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 11:28:49",
       "https://news.ycombinator.com/item?id=43971716"
     ],
@@ -197,26 +207,6 @@
     [
       "Ask HN: How are you acquiring your first hundred users?",
       "https://news.ycombinator.com/item?id=43970837"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 08:35:11",
-      "https://news.ycombinator.com/item?id=43970800"
-    ],
-    [
-      "Odin: A programming language made for me",
-      "https://zylinski.se/posts/a-programming-language-for-me/"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 14:32:25",
-      "https://news.ycombinator.com/item?id=43963434"
-    ],
-    [
-      "The great displacement is already well underway?",
-      "https://shawnfromportland.substack.com/p/the-great-displacement-is-already"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-05-10, 13:46:20",
+      "https://news.ycombinator.com/item?id=43945585"
+    ],
+    [
+      "Coffee for people who don't like coffee",
+      "https://ostwilkens.se/blog/coffee"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 13:33:00",
       "https://news.ycombinator.com/item?id=43945483"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43945423"
     ],
     [
-      "Garbage Collection of Object Storage at Scale",
+      "Garbage collection of object storage at scale",
       "https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale"
     ]
   ],
