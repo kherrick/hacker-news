@@ -12,6 +12,7 @@
 * [2025-05-09, 21:30:16](https://news.ycombinator.com/item?id=43941068) - [The Acid King](https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/)
 * [2025-05-09, 21:05:59](https://news.ycombinator.com/item?id=43940865) - [Era of U.S. dollar may be winding down](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/)
 * [2025-05-09, 20:51:45](https://news.ycombinator.com/item?id=43940747) - [Business books are entertainment, not strategic tools](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste)
+* [2025-05-09, 20:45:11](https://news.ycombinator.com/item?id=43940702) - [Turritopsis dohrnii: Immortal jellyfish](https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html)
 * [2025-05-09, 20:20:52](https://news.ycombinator.com/item?id=43940539) - [What's New in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
 * [2025-05-09, 20:15:53](https://news.ycombinator.com/item?id=43940500) - [Google Doc Templates for Startups](https://www.templatesbypaul.com/)
 * [2025-05-09, 20:08:27](https://news.ycombinator.com/item?id=43940452) - [Graphcore unveils GC200 and M2000 IPU Machine–1 petaFLOP \"pizza box\" AI server](https://www.graphcore.ai/articles/graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them)

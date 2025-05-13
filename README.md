@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-13, 19:32:58](https://news.ycombinator.com/item?id=43976726) - [Programmers Will Be Replaced by People with Ideas](https://www.cleverthinkingsoftware.com/programmers-will-be-replaced-by-people-with-ideas/)
+* [2025-05-13, 19:44:47](https://news.ycombinator.com/item?id=43976862) - [Dusk OS](https://duskos.org/)
 * [2025-05-13, 19:19:14](https://news.ycombinator.com/item?id=43976574) - [Android and Wear OS are getting a big refresh](https://blog.google/products/android/material-3-expressive-android-wearos-launch/)
 * [2025-05-13, 18:56:11](https://news.ycombinator.com/item?id=43976359) - [Why are banks still getting authentication so wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
-* [2025-05-13, 18:49:05](https://news.ycombinator.com/item?id=43976288) - [FCC threatens EchoStar licenses for spectrum that SpaceX wants to use](https://arstechnica.com/tech-policy/2025/05/fcc-threatens-echostar-licenses-for-spectrum-that-spacex-wants-to-use/)
 * [2025-05-13, 17:58:27](https://news.ycombinator.com/item?id=43975785) - [Don't unwrap options: There are better ways (2024)](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
 * [2025-05-13, 17:37:58](https://news.ycombinator.com/item?id=43975541) - [PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
@@ -16,8 +15,8 @@
 * [2025-05-13, 13:44:18](https://news.ycombinator.com/item?id=43972927) - [TheForger's Win32 API Tutorial](https://winprog.org/tutorial/)
 * [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
+* [2025-05-13, 11:41:42](https://news.ycombinator.com/item?id=43971791) - [One hundred and one rules of effective living](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple security issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
-* [2025-05-13, 11:22:40](https://news.ycombinator.com/item?id=43971688) - [Show HN: Basecoat – shadcn/UI components, no React required](https://news.ycombinator.com/item?id=43971688)
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
 * [2025-05-13, 08:41:25](https://news.ycombinator.com/item?id=43970837) - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 * [2025-05-13, 08:35:11](https://news.ycombinator.com/item?id=43970800) - [Odin: A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
@@ -29,6 +28,7 @@
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane: Media Framework for Elixir](https://membrane.stream/)
 * [2025-05-10, 07:10:41](https://news.ycombinator.com/item?id=43943792) - [Mill as a direct style build tool](https://mill-build.org/blog/12-direct-style-build-tool.html)
+* [2025-05-09, 20:45:11](https://news.ycombinator.com/item?id=43940702) - [Turritopsis dohrnii: Immortal jellyfish](https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html)
 * [2025-05-09, 17:09:04](https://news.ycombinator.com/item?id=43939029) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro#detecting-if-an-expression-is-constant-in-c)
 
 ## [Archives](archives/index.md)
