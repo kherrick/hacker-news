@@ -32,6 +32,7 @@
 * [2025-05-12, 15:05:44](https://news.ycombinator.com/item?id=43963868) - [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
 * [2025-05-12, 15:02:48](https://news.ycombinator.com/item?id=43963839) - [OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information](https://openeox.org/)
 * [2025-05-12, 14:54:31](https://news.ycombinator.com/item?id=43963747) - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
+* [2025-05-12, 14:32:25](https://news.ycombinator.com/item?id=43963434) - [The great displacement is already well underway?](https://shawnfromportland.substack.com/p/the-great-displacement-is-already)
 * [2025-05-12, 14:29:33](https://news.ycombinator.com/item?id=43963397) - [Reviving a Modular Cargo Bike Design from the 1930s](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s)
 * [2025-05-12, 14:00:32](https://news.ycombinator.com/item?id=43962992) - [Tailscale 4via6 – Connect Edge Deployments at Scale](https://tailscale.com/blog/4via6-connectivity-to-edge-devices)
 * [2025-05-12, 13:39:34](https://news.ycombinator.com/item?id=43962770) - [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)

@@ -62,6 +62,7 @@
 * [2025-05-10, 07:51:30](https://news.ycombinator.com/item?id=43943942) - [15 Years of Shader Minification](https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/)
 * [2025-05-10, 07:39:35](https://news.ycombinator.com/item?id=43943898) - [Show HN: Codigo – The Programming Language Repository](https://codigolangs.com)
 * [2025-05-10, 07:30:28](https://news.ycombinator.com/item?id=43943871) - [Why should I care? or why punks are correct and old wise philosophers are wrong](https://abuseofnotation.github.io/moral-law/)
+* [2025-05-10, 07:10:41](https://news.ycombinator.com/item?id=43943792) - [Mill as a Direct Style Build Tool](https://mill-build.org/blog/12-direct-style-build-tool.html)
 * [2025-05-10, 06:58:15](https://news.ycombinator.com/item?id=43943737) - [NOT a 3 year old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
 * [2025-05-10, 06:44:00](https://news.ycombinator.com/item?id=43943673) - [Continuous glucose monitors reveal variable glucose responses to the same meals](https://examine.com/research-feed/study/1jjKq1/)
 * [2025-05-10, 06:42:50](https://news.ycombinator.com/item?id=43943666) - [The Elite Microsoft Unit Constantly Working to Thwart Hackers](https://www.bloomberg.com/news/features/2025-05-09/microsoft-s-hacker-hunters-inside-the-secretive-mstic-unit)
