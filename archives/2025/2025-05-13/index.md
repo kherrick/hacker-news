@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 06:34:26](https://news.ycombinator.com/item?id=43970104) - [Persuasion Methods for Engineering Managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
 * [2025-05-13, 06:08:38](https://news.ycombinator.com/item?id=43970003) - [Texas Senate passes bill requiring solar plants to provide power at night](https://thehill.com/policy/equilibrium-sustainability/5292792-texas-senate-bill-power-cost/)
 * [2025-05-13, 05:57:46](https://news.ycombinator.com/item?id=43969950) - [Twitch star HasanAbi says he was detained, questioned by border agents](https://www.washingtonpost.com/immigration/2025/05/12/hasan-piker-detained-border-agents-twitch/)
 * [2025-05-13, 05:23:10](https://news.ycombinator.com/item?id=43969827) - [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)

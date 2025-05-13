@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-13, 06:34:26](https://news.ycombinator.com/item?id=43970104) - [Persuasion Methods for Engineering Managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
 * [2025-05-13, 06:08:38](https://news.ycombinator.com/item?id=43970003) - [Texas Senate passes bill requiring solar plants to provide power at night](https://thehill.com/policy/equilibrium-sustainability/5292792-texas-senate-bill-power-cost/)
 * [2025-05-13, 05:57:46](https://news.ycombinator.com/item?id=43969950) - [Twitch star HasanAbi says he was detained, questioned by border agents](https://www.washingtonpost.com/immigration/2025/05/12/hasan-piker-detained-border-agents-twitch/)
 * [2025-05-13, 05:23:10](https://news.ycombinator.com/item?id=43969827) - [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)
@@ -12,7 +13,6 @@
 * [2025-05-12, 19:05:03](https://news.ycombinator.com/item?id=43966471) - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
 * [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can you trust that permission pop-up on macOS?](https://wts.dev/posts/tcc-who/)
 * [2025-05-12, 17:42:37](https://news.ycombinator.com/item?id=43965608) - [HealthBench – An evaluation for AI systems and human health](https://openai.com/index/healthbench/)
-* [2025-05-12, 17:01:42](https://news.ycombinator.com/item?id=43965161) - [Legion Health (YC S21) is hiring engineers to help fix mental health with AI](https://www.workatastartup.com/jobs/75011)
 * [2025-05-12, 16:29:05](https://news.ycombinator.com/item?id=43964827) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
 * [2025-05-12, 16:01:31](https://news.ycombinator.com/item?id=43964505) - [Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
 * [2025-05-12, 15:28:38](https://news.ycombinator.com/item?id=43964136) - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
