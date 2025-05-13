@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-13, 13:22:17](https://news.ycombinator.com/item?id=43972660) - [FlyLoop – AI Agent for Scheduling Meetings and Managing Your Calendar](https://news.ycombinator.com/item?id=43972660)
+* [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
 * [2025-05-13, 11:41:42](https://news.ycombinator.com/item?id=43971791) - [One hundred and one rules of effective living](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple Security Issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
@@ -18,7 +19,6 @@
 * [2025-05-12, 18:26:44](https://news.ycombinator.com/item?id=43966089) - [Can you trust that permission pop-up on macOS?](https://wts.dev/posts/tcc-who/)
 * [2025-05-12, 17:42:37](https://news.ycombinator.com/item?id=43965608) - [HealthBench – An evaluation for AI systems and human health](https://openai.com/index/healthbench/)
 * [2025-05-12, 16:29:05](https://news.ycombinator.com/item?id=43964827) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
-* [2025-05-12, 16:01:31](https://news.ycombinator.com/item?id=43964505) - [Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL](https://news.ycombinator.com/item?id=43964505)
 * [2025-05-12, 15:28:38](https://news.ycombinator.com/item?id=43964136) - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
 * [2025-05-12, 14:29:33](https://news.ycombinator.com/item?id=43963397) - [Reviving a modular cargo bike design from the 1930s](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s)
 * [2025-05-12, 12:21:33](https://news.ycombinator.com/item?id=43962148) - [University of Texas-led team solves a big problem for fusion energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)

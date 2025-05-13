@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
 * [2025-05-13, 13:22:17](https://news.ycombinator.com/item?id=43972660) - [FlyLoop – AI Agent for Scheduling Meetings and Managing Your Calendar](https://news.ycombinator.com/item?id=43972660)
+* [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
 * [2025-05-13, 13:04:36](https://news.ycombinator.com/item?id=43972493) - [How the United States Gave Up Being a Science Superpower](https://steveblank.com/2025/05/13/how-the-united-states-became-a-science-superpower-and-how-quickly-it-could-crumble/)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
 * [2025-05-13, 12:20:27](https://news.ycombinator.com/item?id=43972088) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
