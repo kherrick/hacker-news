@@ -59,6 +59,7 @@
 * [2025-05-09, 08:48:40](https://news.ycombinator.com/item?id=43934954) - [Linear Programming for Fun and Profit](https://modal.com/blog/resource-solver)
 * [2025-05-09, 08:14:54](https://news.ycombinator.com/item?id=43934781) - [Realism Still Doesn't Justify Including Sexual Assault](https://mythcreants.com/blog/realism-still-doesnt-justify-including-sexual-assault/)
 * [2025-05-09, 08:01:06](https://news.ycombinator.com/item?id=43934711) - [WASM 2.0](https://www.w3.org/TR/wasm-core-2/)
+* [2025-05-09, 07:53:54](https://news.ycombinator.com/item?id=43934682) - [How to avoid P hacking](https://www.nature.com/articles/d41586-025-01246-1)
 * [2025-05-09, 07:23:59](https://news.ycombinator.com/item?id=43934544) - [Boy Accidentally Orders 70k Lollipops on Amazon. Panic Ensues](https://www.nytimes.com/2025/05/08/business/dum-dums-amazon-order-kentucky.html)
 * [2025-05-09, 07:22:08](https://news.ycombinator.com/item?id=43934540) - [Doge software engineer's computer infected by info-stealing malware](https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/)
 * [2025-05-09, 06:52:12](https://news.ycombinator.com/item?id=43934411) - [The Ecstatic Swoon](https://aeon.co/essays/what-stendhal-says-about-the-purpose-and-promise-of-art)
