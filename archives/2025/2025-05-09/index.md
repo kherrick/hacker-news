@@ -15,6 +15,7 @@
 * [2025-05-09, 20:20:52](https://news.ycombinator.com/item?id=43940539) - [What's New in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
 * [2025-05-09, 20:15:53](https://news.ycombinator.com/item?id=43940500) - [Google Doc Templates for Startups](https://www.templatesbypaul.com/)
 * [2025-05-09, 20:08:27](https://news.ycombinator.com/item?id=43940452) - [Graphcore unveils GC200 and M2000 IPU Machine–1 petaFLOP \"pizza box\" AI server](https://www.graphcore.ai/articles/graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them)
+* [2025-05-09, 19:45:28](https://news.ycombinator.com/item?id=43940314) - [Ada in China (1994)](https://dl.acm.org/doi/pdf/10.1145/181476.181483)
 * [2025-05-09, 19:25:05](https://news.ycombinator.com/item?id=43940172) - [NASA Study Reveals Venus Crust Surprise](https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/)
 * [2025-05-09, 19:07:53](https://news.ycombinator.com/item?id=43940033) - [Why 536 was 'the worst year to be alive'](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
 * [2025-05-09, 18:48:03](https://news.ycombinator.com/item?id=43939877) - [The Beam](https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/)

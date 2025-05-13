@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 14:13:32](https://news.ycombinator.com/item?id=43973210) - [Why I'm Resigning from the National Science Foundation](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
 * [2025-05-13, 13:22:17](https://news.ycombinator.com/item?id=43972660) - [FlyLoop – AI Agent for Scheduling Meetings and Managing Your Calendar](https://news.ycombinator.com/item?id=43972660)
 * [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
 * [2025-05-13, 13:04:36](https://news.ycombinator.com/item?id=43972493) - [How the United States Gave Up Being a Science Superpower](https://steveblank.com/2025/05/13/how-the-united-states-became-a-science-superpower-and-how-quickly-it-could-crumble/)
+* [2025-05-13, 12:58:25](https://news.ycombinator.com/item?id=43972438) - [As US vuln-tracking falters, EU enters with its own security bug database](https://www.theregister.com/2025/05/13/eu_security_bug_database/)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
+* [2025-05-13, 12:49:54](https://news.ycombinator.com/item?id=43972360) - [We can no longer run Microsoft Store on 1809/LTSC 2019](https://github.com/fernvenue/microsoft-store)
 * [2025-05-13, 12:20:27](https://news.ycombinator.com/item?id=43972088) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
 * [2025-05-13, 11:41:42](https://news.ycombinator.com/item?id=43971791) - [One Hundred and One Rules of Effective Living](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple Security Issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
