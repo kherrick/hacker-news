@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-14, 19:04:41](https://news.ycombinator.com/item?id=43988116) - [David Hilbert's radio address (2014)](https://old.maa.org/press/periodicals/convergence/david-hilberts-radio-address)
 * [2025-05-14, 18:37:32](https://news.ycombinator.com/item?id=43987814) - [Various Things in MetaPost (2019)](https://habr.com/en/articles/454376/)
 * [2025-05-14, 18:32:15](https://news.ycombinator.com/item?id=43987742) - [The Pigeon Whistle: A Defining Sound of Old Beijing (2019)](http://www.chinatoday.com.cn/ctenglish/2018/cs/201911/t20191129_800186426.html)
 * [2025-05-14, 18:09:52](https://news.ycombinator.com/item?id=43987525) - [Beyond the Wrist: Debugging RSI](https://www.debugyourpain.org/docs/main_posts/understand/debugging_rsi/)
@@ -15,7 +16,6 @@
 * [2025-05-14, 13:28:24](https://news.ycombinator.com/item?id=43984297) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
 * [2025-05-14, 13:08:26](https://news.ycombinator.com/item?id=43984097) - [How the economics of multitenancy work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
 * [2025-05-14, 12:46:39](https://news.ycombinator.com/item?id=43983871) - [What Is HDR, Anyway?](https://www.lux.camera/what-is-hdr/)
-* [2025-05-14, 11:59:41](https://news.ycombinator.com/item?id=43983455) - [E-COM: The $40M USPS project to send email on paper](https://buttondown.com/blog/the-e-com-story)
 * [2025-05-14, 11:22:39](https://news.ycombinator.com/item?id=43983159) - [The Cryptography Behind Passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
 * [2025-05-14, 10:10:00](https://news.ycombinator.com/item?id=43982777) - [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
