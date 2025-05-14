@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-14, 18:37:32](https://news.ycombinator.com/item?id=43987814) - [Various Things in MetaPost (2019)](https://habr.com/en/articles/454376/)
 * [2025-05-14, 18:32:15](https://news.ycombinator.com/item?id=43987742) - [The Pigeon Whistle: A Defining Sound of Old Beijing (2019)](http://www.chinatoday.com.cn/ctenglish/2018/cs/201911/t20191129_800186426.html)
 * [2025-05-14, 18:09:52](https://news.ycombinator.com/item?id=43987525) - [Beyond the Wrist: Debugging RSI](https://www.debugyourpain.org/docs/main_posts/understand/debugging_rsi/)
 * [2025-05-14, 17:05:30](https://news.ycombinator.com/item?id=43986833) - [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
@@ -12,7 +13,6 @@
 * [2025-05-14, 15:12:53](https://news.ycombinator.com/item?id=43985527) - [Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US)
 * [2025-05-14, 15:10:15](https://news.ycombinator.com/item?id=43985489) - [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
 * [2025-05-14, 13:28:24](https://news.ycombinator.com/item?id=43984297) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
-* [2025-05-14, 13:27:04](https://news.ycombinator.com/item?id=43984275) - [U.S. nuclear base hidden under Greenland's ice for decades](https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea)
 * [2025-05-14, 13:08:26](https://news.ycombinator.com/item?id=43984097) - [How the economics of multitenancy work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
 * [2025-05-14, 12:46:39](https://news.ycombinator.com/item?id=43983871) - [What Is HDR, Anyway?](https://www.lux.camera/what-is-hdr/)
 * [2025-05-14, 11:59:41](https://news.ycombinator.com/item?id=43983455) - [E-COM: The $40M USPS project to send email on paper](https://buttondown.com/blog/the-e-com-story)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 18:37:32](https://news.ycombinator.com/item?id=43987814) - [Various Things in MetaPost (2019)](https://habr.com/en/articles/454376/)
 * [2025-05-14, 18:32:15](https://news.ycombinator.com/item?id=43987742) - [The Pigeon Whistle: A Defining Sound of Old Beijing (2019)](http://www.chinatoday.com.cn/ctenglish/2018/cs/201911/t20191129_800186426.html)
 * [2025-05-14, 18:09:52](https://news.ycombinator.com/item?id=43987525) - [Beyond the Wrist: Debugging RSI](https://www.debugyourpain.org/docs/main_posts/understand/debugging_rsi/)
 * [2025-05-14, 17:05:30](https://news.ycombinator.com/item?id=43986833) - [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
