@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-14, 07:01:03](https://news.ycombinator.com/item?id=43981668) - [Raycast (YC W20) Is Hiring AI Engineer (Remote, UTC ± 3h)](https://www.raycast.com/jobs/ai-engineer)
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 * [2025-05-14, 04:19:00](https://news.ycombinator.com/item?id=43980760) - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-14, 01:55:59](https://news.ycombinator.com/item?id=43979916) - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
 * [2025-05-13, 23:34:07](https://news.ycombinator.com/item?id=43979063) - [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
 * [2025-05-13, 22:25:29](https://news.ycombinator.com/item?id=43978435) - [Flattening Rust’s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 * [2025-05-13, 22:15:30](https://news.ycombinator.com/item?id=43978357) - [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
+* [2025-05-13, 21:49:42](https://news.ycombinator.com/item?id=43978155) - [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
 * [2025-05-13, 20:09:54](https://news.ycombinator.com/item?id=43977147) - [Using obscure graph theory to solve programming languages problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build real-time knowledge graph for documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 19:17:54](https://news.ycombinator.com/item?id=43976557) - [Airbnb is in midlife crisis mode](https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/)
