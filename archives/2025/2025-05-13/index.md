@@ -64,6 +64,7 @@
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
 * [2025-05-13, 10:02:46](https://news.ycombinator.com/item?id=43971314) - [Show HN: A5](https://github.com/felixpalmer/a5)
 * [2025-05-13, 09:41:04](https://news.ycombinator.com/item?id=43971197) - [Low-intensity transcranial focused ultrasound amygdala neuromodulation](https://www.nature.com/articles/s41380-025-03033-w)
+* [2025-05-13, 09:37:46](https://news.ycombinator.com/item?id=43971184) - [Finding Beauty and Truth in Mundane Occurrences](https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/)
 * [2025-05-13, 09:02:02](https://news.ycombinator.com/item?id=43970959) - [Nextcloud cries foul over Google Play Store app rejection](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/)
 * [2025-05-13, 08:41:25](https://news.ycombinator.com/item?id=43970837) - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 * [2025-05-13, 08:35:11](https://news.ycombinator.com/item?id=43970800) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
