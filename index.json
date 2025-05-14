@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-05-14, 04:19:00",
+      "https://news.ycombinator.com/item?id=43980760"
+    ],
+    [
+      "Writing that changed how I think about programming languages",
+      "https://bernsteinbear.com/blog/pl-writing/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 14:43:46",
       "https://news.ycombinator.com/item?id=43973541"
     ],
@@ -287,16 +297,6 @@
     [
       "Interferometer Device Sees Text from a Mile Away",
       "https://physics.aps.org/articles/v18/99"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 14:11:05",
-      "https://news.ycombinator.com/item?id=43936992"
-    ],
-    [
-      "Updated rate limits for unauthenticated requests",
-      "https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/"
     ]
   ]
 ]
