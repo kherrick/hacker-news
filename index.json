@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-14, 19:38:26",
+      "https://news.ycombinator.com/item?id=43988381"
+    ],
+    [
+      "Show HN: Muscle-Mem, a behavior cache for AI agents",
+      "https://github.com/pig-dot-dev/muscle-mem"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 19:04:41",
       "https://news.ycombinator.com/item?id=43988116"
     ],
@@ -267,16 +277,6 @@
     [
       "TwoFold (2f), CLI text expander/template engine",
       "https://github.com/ShinyTrinkets/twofold.ts"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 02:10:33",
-      "https://news.ycombinator.com/item?id=43950693"
-    ],
-    [
-      "Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages",
-      "https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html"
     ]
   ],
   [
