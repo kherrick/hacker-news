@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-14, 06:07:47](https://news.ycombinator.com/item?id=43981344) - [You can no longer browse open source code on GitHub without logging in first](https://github.com/orgs/community/discussions/159123)
+* [2025-05-14, 07:01:03](https://news.ycombinator.com/item?id=43981668) - [Raycast (YC W20) Is Hiring AI Engineer (Remote, UTC ± 3h)](https://www.raycast.com/jobs/ai-engineer)
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 * [2025-05-14, 04:19:00](https://news.ycombinator.com/item?id=43980760) - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-14, 01:55:59](https://news.ycombinator.com/item?id=43979916) - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
@@ -20,8 +20,8 @@
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple security issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
+* [2025-05-12, 14:32:25](https://news.ycombinator.com/item?id=43963434) - [The great displacement is already well underway?](https://shawnfromportland.substack.com/p/the-great-displacement-is-already)
 * [2025-05-11, 17:22:45](https://news.ycombinator.com/item?id=43955277) - [A visual history of the safety pin](https://museumofeverydaylife.org/current-exhibitions/a-visual-history-of-the-safety-pin)
-* [2025-05-11, 14:22:49](https://news.ycombinator.com/item?id=43954027) - [Show HN: I’ve built an IoT device to let my family know when I’m in a meeting](https://nullonerror.org/2025/05/11/i-have-built-an-iot-device-to-let-my-family-know-when-i-am-in-a-meeting/)
 * [2025-05-11, 06:38:27](https://news.ycombinator.com/item?id=43951885) - [I learned Snobol and then wrote a toy Forth](https://ratfactor.com/snobol/)
 * [2025-05-11, 05:17:14](https://news.ycombinator.com/item?id=43951604) - [Mipmap selection in too much detail](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 * [2025-05-10, 13:56:36](https://news.ycombinator.com/item?id=43945665) - [Show HN: Mycelium](https://github.com/mycweb/mycelium)
