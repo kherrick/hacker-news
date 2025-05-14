@@ -55,6 +55,7 @@
 * [2025-05-10, 12:34:39](https://news.ycombinator.com/item?id=43945138) - [Industry groups are not happy about the imminent demise of Energy Star](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/)
 * [2025-05-10, 12:16:05](https://news.ycombinator.com/item?id=43945041) - [Radxa Orion O6 brings Arm to the midrange PC (with caveats)](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
 * [2025-05-10, 11:59:10](https://news.ycombinator.com/item?id=43944974) - [LTXVideo 13B AI video generation](https://ltxv.video/)
+* [2025-05-10, 11:30:54](https://news.ycombinator.com/item?id=43944844) - [Simplifying the Ethereum Layer 1](https://vitalik.eth.limo/general/2025/05/03/simplel1.html)
 * [2025-05-10, 11:24:36](https://news.ycombinator.com/item?id=43944809) - [The Fallacy of Techno-Feudalism](https://petrapalusova.com/articles/tech-platforms-digital-economy-techno-feudalism)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944790) - [Intel: Winning and Losing](https://www.abortretry.fail/p/intel-winning-and-losing)
 * [2025-05-10, 11:19:39](https://news.ycombinator.com/item?id=43944789) - [Embracer Games Archive is preserving 75000 video games and needs contributions](https://embracergamesarchive.com/)
