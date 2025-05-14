@@ -45,6 +45,7 @@
 * [2025-05-13, 14:17:05](https://news.ycombinator.com/item?id=43973250) - [Bosses weren't being paranoid: Remote workers more likely to start their own biz](https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/)
 * [2025-05-13, 14:13:32](https://news.ycombinator.com/item?id=43973210) - [Why I'm Resigning from the National Science Foundation](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
 * [2025-05-13, 13:44:18](https://news.ycombinator.com/item?id=43972927) - [TheForger's Win32 API Tutorial](https://winprog.org/tutorial/)
+* [2025-05-13, 13:30:21](https://news.ycombinator.com/item?id=43972757) - [How “The Great Gatsby” took over high school](https://www.newyorker.com/books/page-turner/how-the-great-gatsby-took-over-high-school)
 * [2025-05-13, 13:22:17](https://news.ycombinator.com/item?id=43972660) - [FlyLoop – AI Agent for Scheduling Meetings and Managing Your Calendar](https://news.ycombinator.com/item?id=43972660)
 * [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
 * [2025-05-13, 13:04:36](https://news.ycombinator.com/item?id=43972493) - [How the United States Gave Up Being a Science Superpower](https://steveblank.com/2025/05/13/how-the-united-states-became-a-science-superpower-and-how-quickly-it-could-crumble/)
