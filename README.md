@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-14, 21:52:19](https://news.ycombinator.com/item?id=43989590) - [José Mujica has died](https://www.bbc.co.uk/news/articles/c0j71402z58o)
+* [2025-05-14, 21:39:45](https://news.ycombinator.com/item?id=43989497) - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
 * [2025-05-14, 21:01:15](https://news.ycombinator.com/item?id=43989173) - [StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
 * [2025-05-14, 19:54:31](https://news.ycombinator.com/item?id=43988533) - [Show HN: Semantic Calculator (king-man+woman=?)](https://calc.datova.ai)
 * [2025-05-14, 19:38:26](https://news.ycombinator.com/item?id=43988381) - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
@@ -9,9 +11,7 @@
 * [2025-05-14, 16:27:48](https://news.ycombinator.com/item?id=43986424) - [Our narrative prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
 * [2025-05-14, 15:52:21](https://news.ycombinator.com/item?id=43985994) - [Launch HN: Jazzberry (YC X25) – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
 * [2025-05-14, 15:50:30](https://news.ycombinator.com/item?id=43985971) - [A server that wasn't meant to exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
-* [2025-05-14, 15:40:17](https://news.ycombinator.com/item?id=43985861) - [Uber to introduce fixed-route shuttles in major US cities](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/)
 * [2025-05-14, 15:19:41](https://news.ycombinator.com/item?id=43985624) - [Show HN: Lumier – Run macOS VMs in a Docker](https://github.com/trycua/cua/tree/main/libs/lumier)
-* [2025-05-14, 15:12:53](https://news.ycombinator.com/item?id=43985527) - [Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US)
 * [2025-05-14, 15:10:15](https://news.ycombinator.com/item?id=43985489) - [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
 * [2025-05-14, 13:08:26](https://news.ycombinator.com/item?id=43984097) - [How the economics of multitenancy work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
 * [2025-05-14, 12:46:39](https://news.ycombinator.com/item?id=43983871) - [What is HDR, anyway?](https://www.lux.camera/what-is-hdr/)
