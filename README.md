@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-14, 06:07:47](https://news.ycombinator.com/item?id=43981344) - [You can no longer browse open source code on GitHub without logging in first](https://github.com/orgs/community/discussions/159123)
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 * [2025-05-14, 04:19:00](https://news.ycombinator.com/item?id=43980760) - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-14, 01:55:59](https://news.ycombinator.com/item?id=43979916) - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
@@ -16,7 +17,6 @@
 * [2025-05-13, 15:27:47](https://news.ycombinator.com/item?id=43974005) - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a challenging problem](https://www.marginalia.nu/log/a_119_pdf/)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google is building its own DeX: First look at Android's Desktop Mode](https://www.androidauthority.com/android-desktop-mode-leak-3550321/)
-* [2025-05-13, 13:30:21](https://news.ycombinator.com/item?id=43972757) - [How “The Great Gatsby” took over high school](https://www.newyorker.com/books/page-turner/how-the-great-gatsby-took-over-high-school)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple security issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
