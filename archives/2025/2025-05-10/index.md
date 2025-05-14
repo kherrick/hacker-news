@@ -68,6 +68,7 @@
 * [2025-05-10, 08:10:18](https://news.ycombinator.com/item?id=43944007) - [5 Steps to N-Body Simulation](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
 * [2025-05-10, 08:01:30](https://news.ycombinator.com/item?id=43943984) - [Ash (Almquist Shell) Variants](https://www.in-ulm.de/~mascheck/various/ash/)
 * [2025-05-10, 07:51:30](https://news.ycombinator.com/item?id=43943942) - [15 Years of Shader Minification](https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/)
+* [2025-05-10, 07:49:18](https://news.ycombinator.com/item?id=43943928) - [EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs](https://github.com/em-llm/EM-LLM-model)
 * [2025-05-10, 07:39:35](https://news.ycombinator.com/item?id=43943898) - [Show HN: Codigo – The Programming Language Repository](https://codigolangs.com)
 * [2025-05-10, 07:30:28](https://news.ycombinator.com/item?id=43943871) - [Why should I care? or why punks are correct and old wise philosophers are wrong](https://abuseofnotation.github.io/moral-law/)
 * [2025-05-10, 07:10:41](https://news.ycombinator.com/item?id=43943792) - [Mill as a Direct Style Build Tool](https://mill-build.org/blog/12-direct-style-build-tool.html)

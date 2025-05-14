@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
+* [2025-05-14, 04:19:00](https://news.ycombinator.com/item?id=43980760) - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-14, 01:55:59](https://news.ycombinator.com/item?id=43979916) - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
-* [2025-05-14, 00:10:51](https://news.ycombinator.com/item?id=43979322) - [Map of Palaeohispanic Coins and Inscriptions](http://hesperia.ucm.es/consulta_hesperia/mapas.php)
 * [2025-05-13, 23:34:07](https://news.ycombinator.com/item?id=43979063) - [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
 * [2025-05-13, 22:25:29](https://news.ycombinator.com/item?id=43978435) - [Flattening Rust’s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 * [2025-05-13, 22:15:30](https://news.ycombinator.com/item?id=43978357) - [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
@@ -26,10 +26,10 @@
 * [2025-05-11, 05:17:14](https://news.ycombinator.com/item?id=43951604) - [Mipmap selection in too much detail](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 * [2025-05-10, 13:56:36](https://news.ycombinator.com/item?id=43945665) - [Show HN: Mycelium](https://github.com/mycweb/mycelium)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
-* [2025-05-10, 13:46:20](https://news.ycombinator.com/item?id=43945585) - [Coffee for people who don't like coffee](https://ostwilkens.se/blog/coffee)
 * [2025-05-10, 13:23:35](https://news.ycombinator.com/item?id=43945423) - [Garbage collection of object storage at scale](https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale)
 * [2025-05-10, 10:41:21](https://news.ycombinator.com/item?id=43944640) - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
 * [2025-05-10, 08:52:47](https://news.ycombinator.com/item?id=43944199) - [RPG in a Box](https://rpginabox.com/)
+* [2025-05-10, 07:49:18](https://news.ycombinator.com/item?id=43943928) - [EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs](https://github.com/em-llm/EM-LLM-model)
 
 ## [Archives](archives/index.md)
 
