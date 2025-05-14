@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 10:17:29](https://news.ycombinator.com/item?id=43982816) - [Databricks to Buy Startup Neon for $1B](https://www.wsj.com/articles/databricks-to-buy-startup-neon-for-1-billion-fdded971)
+* [2025-05-14, 10:11:56](https://news.ycombinator.com/item?id=43982784) - [UK's Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
+* [2025-05-14, 10:10:00](https://news.ycombinator.com/item?id=43982777) - [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
+* [2025-05-14, 08:32:05](https://news.ycombinator.com/item?id=43982238) - [$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 * [2025-05-14, 07:01:03](https://news.ycombinator.com/item?id=43981668) - [Raycast (YC W20) Is Hiring AI Engineer (Remote, UTC ± 3h)](https://www.raycast.com/jobs/ai-engineer)
 * [2025-05-14, 06:46:08](https://news.ycombinator.com/item?id=43981582) - [Don't use Wise. They can lock your account at any time. We're down $60k](https://hey.paris/posts/wise/)
