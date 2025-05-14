@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-14, 19:38:26](https://news.ycombinator.com/item?id=43988381) - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
 * [2025-05-14, 19:04:41](https://news.ycombinator.com/item?id=43988116) - [David Hilbert's radio address (2014)](https://old.maa.org/press/periodicals/convergence/david-hilberts-radio-address)
 * [2025-05-14, 18:37:32](https://news.ycombinator.com/item?id=43987814) - [Various Things in MetaPost (2019)](https://habr.com/en/articles/454376/)
 * [2025-05-14, 18:32:15](https://news.ycombinator.com/item?id=43987742) - [The Pigeon Whistle: A Defining Sound of Old Beijing (2019)](http://www.chinatoday.com.cn/ctenglish/2018/cs/201911/t20191129_800186426.html)
@@ -27,7 +28,6 @@
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
 * [2025-05-11, 20:53:23](https://news.ycombinator.com/item?id=43957072) - [The overlooked masterpiece full of coded messages about World War One](https://www.bbc.com/culture/article/20250423-the-masterpiece-full-of-coded-messages-about-ww1)
 * [2025-05-11, 18:28:46](https://news.ycombinator.com/item?id=43955834) - [TwoFold (2f), CLI text expander/template engine](https://github.com/ShinyTrinkets/twofold.ts)
-* [2025-05-11, 02:10:33](https://news.ycombinator.com/item?id=43950693) - [Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages](https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html)
 * [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-10, 13:32:00](https://news.ycombinator.com/item?id=43945477) - [Ash Framework – Model your domain, derive the rest](https://ash-hq.org/)
 
