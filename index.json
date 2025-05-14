@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-05-14, 04:19:00",
+      "https://news.ycombinator.com/item?id=43980760"
+    ],
+    [
+      "Writing that changed how I think about programming languages",
+      "https://bernsteinbear.com/blog/pl-writing/"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 01:55:59",
       "https://news.ycombinator.com/item?id=43979916"
     ],
     [
       "Replicube: A puzzle game about writing code to create shapes",
       "https://store.steampowered.com/app/3401490/Replicube/"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 00:10:51",
-      "https://news.ycombinator.com/item?id=43979322"
-    ],
-    [
-      "Map of Palaeohispanic Coins and Inscriptions",
-      "http://hesperia.ucm.es/consulta_hesperia/mapas.php"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-05-10, 13:46:20",
-      "https://news.ycombinator.com/item?id=43945585"
-    ],
-    [
-      "Coffee for people who don't like coffee",
-      "https://ostwilkens.se/blog/coffee"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 13:23:35",
       "https://news.ycombinator.com/item?id=43945423"
     ],
@@ -297,6 +287,16 @@
     [
       "RPG in a Box",
       "https://rpginabox.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 07:49:18",
+      "https://news.ycombinator.com/item?id=43943928"
+    ],
+    [
+      "EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs",
+      "https://github.com/em-llm/EM-LLM-model"
     ]
   ]
 ]
