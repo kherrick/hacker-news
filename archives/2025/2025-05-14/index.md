@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 13:44:02](https://news.ycombinator.com/item?id=43984461) - [Entrepreneurial Spawning from Remote Work](https://www.nber.org/papers/w33774)
 * [2025-05-14, 13:27:04](https://news.ycombinator.com/item?id=43984275) - [The U.S. Nuclear Base Hidden Under Greenland's Ice for Decades](https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea)
 * [2025-05-14, 13:08:26](https://news.ycombinator.com/item?id=43984097) - [How the Economics of Multitenancy Work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
 * [2025-05-14, 12:46:39](https://news.ycombinator.com/item?id=43983871) - [What Is HDR, Anyway?](https://www.lux.camera/what-is-hdr/)
