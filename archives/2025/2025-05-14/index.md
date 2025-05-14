@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 15:12:53](https://news.ycombinator.com/item?id=43985527) - [Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US)
 * [2025-05-14, 13:57:07](https://news.ycombinator.com/item?id=43984614) - [ESP WebRTC Solution Release v1.0](https://github.com/espressif/esp-webrtc-solution/releases/tag/v1.0.0)
 * [2025-05-14, 13:44:02](https://news.ycombinator.com/item?id=43984461) - [Entrepreneurial Spawning from Remote Work](https://www.nber.org/papers/w33774)
 * [2025-05-14, 13:28:24](https://news.ycombinator.com/item?id=43984297) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)

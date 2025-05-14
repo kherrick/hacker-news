@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-14, 15:12:53](https://news.ycombinator.com/item?id=43985527) - [Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US)
 * [2025-05-14, 13:28:24](https://news.ycombinator.com/item?id=43984297) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
 * [2025-05-14, 13:27:04](https://news.ycombinator.com/item?id=43984275) - [The U.S. Nuclear Base Hidden Under Greenland's Ice for Decades](https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea)
 * [2025-05-14, 13:08:26](https://news.ycombinator.com/item?id=43984097) - [How the economics of multitenancy work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
@@ -12,7 +13,6 @@
 * [2025-05-14, 10:10:00](https://news.ycombinator.com/item?id=43982777) - [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
 * [2025-05-14, 08:32:05](https://news.ycombinator.com/item?id=43982238) - [$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
-* [2025-05-14, 06:51:37](https://news.ycombinator.com/item?id=43981603) - [Show HN: Sam TTS – Recreates the classic Microsoft SAM voice in the browser](https://samtts.com)
 * [2025-05-14, 05:38:00](https://news.ycombinator.com/item?id=43981170) - [The recently lost file upload feature in the Nextcloud app for Android](https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/)
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 * [2025-05-14, 04:19:00](https://news.ycombinator.com/item?id=43980760) - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
@@ -22,14 +22,14 @@
 * [2025-05-13, 17:26:38](https://news.ycombinator.com/item?id=43975423) - [Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)](https://github.com/HelixDB/helix-db/)
 * [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [Branch Privilege Injection: Exploiting branch predictor race conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google is building its own DeX: First look at Android's Desktop Mode](https://www.androidauthority.com/android-desktop-mode-leak-3550321/)
-* [2025-05-13, 13:30:21](https://news.ycombinator.com/item?id=43972757) - [How “The Great Gatsby” took over high school](https://www.newyorker.com/books/page-turner/how-the-great-gatsby-took-over-high-school)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
-* [2025-05-13, 10:43:20](https://news.ycombinator.com/item?id=43971515) - [Everything That Has Changed Since Congestion Pricing Started in New York](https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html)
+* [2025-05-11, 17:13:59](https://news.ycombinator.com/item?id=43955220) - [Sequencing for Value](https://engineering.blueberrypediatrics.blog/sequencing-for-value)
 * [2025-05-11, 02:10:33](https://news.ycombinator.com/item?id=43950693) - [Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages](https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html)
 * [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-10, 13:32:00](https://news.ycombinator.com/item?id=43945477) - [Ash Framework – Model your domain, derive the rest](https://ash-hq.org/)
 * [2025-05-10, 08:52:47](https://news.ycombinator.com/item?id=43944199) - [RPG in a Box](https://rpginabox.com/)
 * [2025-05-10, 07:49:18](https://news.ycombinator.com/item?id=43943928) - [EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs](https://github.com/em-llm/EM-LLM-model)
+* [2025-05-09, 14:11:05](https://news.ycombinator.com/item?id=43936992) - [Updated rate limits for unauthenticated requests](https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/)
 
 ## [Archives](archives/index.md)
 
