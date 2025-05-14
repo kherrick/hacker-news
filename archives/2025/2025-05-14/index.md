@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 13:57:07](https://news.ycombinator.com/item?id=43984614) - [ESP WebRTC Solution Release v1.0](https://github.com/espressif/esp-webrtc-solution/releases/tag/v1.0.0)
 * [2025-05-14, 13:44:02](https://news.ycombinator.com/item?id=43984461) - [Entrepreneurial Spawning from Remote Work](https://www.nber.org/papers/w33774)
+* [2025-05-14, 13:28:24](https://news.ycombinator.com/item?id=43984297) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
 * [2025-05-14, 13:27:04](https://news.ycombinator.com/item?id=43984275) - [The U.S. Nuclear Base Hidden Under Greenland's Ice for Decades](https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea)
 * [2025-05-14, 13:08:26](https://news.ycombinator.com/item?id=43984097) - [How the Economics of Multitenancy Work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
+* [2025-05-14, 12:53:31](https://news.ycombinator.com/item?id=43983941) - [\"Google wanted that\": Nextcloud decries Android permissions as \"gatekeeping\"](https://arstechnica.com/gadgets/2025/05/nextcloud-accuses-google-of-big-tech-gatekeeping-over-android-app-permissions/)
 * [2025-05-14, 12:46:39](https://news.ycombinator.com/item?id=43983871) - [What Is HDR, Anyway?](https://www.lux.camera/what-is-hdr/)
 * [2025-05-14, 11:59:41](https://news.ycombinator.com/item?id=43983455) - [E-COM: The time the USPS spent $40M subsidizing junk (e)mail](https://buttondown.com/blog/the-e-com-story)
+* [2025-05-14, 11:52:37](https://news.ycombinator.com/item?id=43983385) - [FlowG – Distributed Systems without raft (part 2)](https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db)
 * [2025-05-14, 11:25:17](https://news.ycombinator.com/item?id=43983182) - [The Future Is Too Expensive – A New Theory on Collapsing Birth Rates](https://medium.com/@hectorchu1/the-future-is-too-expensive-a-new-theory-of-why-people-arent-having-kids-c3eca581c491)
 * [2025-05-14, 10:44:33](https://news.ycombinator.com/item?id=43982941) - [Show HN: acmsg (automated commit message generator)](https://github.com/quinneden/acmsg)
 * [2025-05-14, 10:17:29](https://news.ycombinator.com/item?id=43982816) - [Databricks to Buy Startup Neon for $1B](https://www.wsj.com/articles/databricks-to-buy-startup-neon-for-1-billion-fdded971)
@@ -18,6 +22,7 @@
 * [2025-05-14, 08:32:05](https://news.ycombinator.com/item?id=43982238) - [$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 * [2025-05-14, 07:01:03](https://news.ycombinator.com/item?id=43981668) - [Raycast (YC W20) Is Hiring AI Engineer (Remote, UTC ± 3h)](https://www.raycast.com/jobs/ai-engineer)
+* [2025-05-14, 06:51:37](https://news.ycombinator.com/item?id=43981603) - [Show HN: Sam TTS – Recreates the classic Microsoft SAM voice in the browser](https://samtts.com)
 * [2025-05-14, 06:46:08](https://news.ycombinator.com/item?id=43981582) - [Don't use Wise. They can lock your account at any time. We're down $60k](https://hey.paris/posts/wise/)
 * [2025-05-14, 06:07:47](https://news.ycombinator.com/item?id=43981344) - [You can no longer browse open source code on GitHub without logging in first](https://github.com/orgs/community/discussions/159123)
 * [2025-05-14, 05:38:00](https://news.ycombinator.com/item?id=43981170) - [The recently lost file upload feature in the Nextcloud app for Android](https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/)
