@@ -5,7 +5,6 @@
 * [2025-05-14, 19:38:26](https://news.ycombinator.com/item?id=43988381) - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
 * [2025-05-14, 19:29:38](https://news.ycombinator.com/item?id=43988315) - [Perverse incentives of vibe coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
 * [2025-05-14, 18:37:32](https://news.ycombinator.com/item?id=43987814) - [Various Things in MetaPost (2019)](https://habr.com/en/articles/454376/)
-* [2025-05-14, 18:32:15](https://news.ycombinator.com/item?id=43987742) - [The pigeon whistle: A defining sound of old Beijing (2019)](http://www.chinatoday.com.cn/ctenglish/2018/cs/201911/t20191129_800186426.html)
 * [2025-05-14, 17:05:30](https://news.ycombinator.com/item?id=43986833) - [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
 * [2025-05-14, 16:27:48](https://news.ycombinator.com/item?id=43986424) - [Our narrative prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
 * [2025-05-14, 15:52:21](https://news.ycombinator.com/item?id=43985994) - [Launch HN: Jazzberry (YC X25) – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
@@ -28,6 +27,7 @@
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
 * [2025-05-13, 10:43:20](https://news.ycombinator.com/item?id=43971515) - [Changes since congestion pricing started in New York](https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html)
 * [2025-05-12, 20:59:10](https://news.ycombinator.com/item?id=43967405) - [Hegel 2.0: The imaginary history of ternary computing (2018)](https://www.cabinetmagazine.org/issues/65/weatherby.php)
+* [2025-05-11, 04:26:01](https://news.ycombinator.com/item?id=43951366) - [Getting Started with Celtic Coins – Crude and Barbarous, or Just Different?](https://collectingancientcoins.co.uk/getting-started-with-celtic-coins-crude-and-barbarous-or-just-different/)
 * [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-09, 14:11:05](https://news.ycombinator.com/item?id=43936992) - [Updated rate limits for unauthenticated requests](https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/)
 
