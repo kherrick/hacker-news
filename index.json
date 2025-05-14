@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2025-05-14, 04:20:34",
-      "https://news.ycombinator.com/item?id=43980768"
-    ],
-    [
-      "ChatGPT may be polite, but it's not cooperating with you",
-      "https://www.theguardian.com/technology/ng-interactive/2025/may/13/chatgpt-ai-big-tech-cooperation"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 01:55:59",
       "https://news.ycombinator.com/item?id=43979916"
     ],
     [
       "Replicube: A puzzle game about writing code to create shapes",
       "https://store.steampowered.com/app/3401490/Replicube/"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 01:07:23",
-      "https://news.ycombinator.com/item?id=43979646"
-    ],
-    [
-      "DeepSeek’s founder is threatening US dominance in AI race",
-      "https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars"
     ]
   ],
   [
@@ -91,6 +71,16 @@
   ],
   [
     [
+      "2025-05-13, 20:09:54",
+      "https://news.ycombinator.com/item?id=43977147"
+    ],
+    [
+      "Using obscure graph theory to solve programming languages problems",
+      "https://reasonablypolymorphic.com/blog/solving-lcsa/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 19:48:04",
       "https://news.ycombinator.com/item?id=43976895"
     ],
@@ -107,6 +97,16 @@
     [
       "Airbnb is in midlife crisis mode",
       "https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 17:57:57",
+      "https://news.ycombinator.com/item?id=43975782"
+    ],
+    [
+      "OpenTelemetry protocol with Apache Arrow",
+      "https://opentelemetry.io/blog/2025/otel-arrow-phase-2/"
     ]
   ],
   [
