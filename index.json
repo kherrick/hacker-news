@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-14, 10:17:29",
+      "https://news.ycombinator.com/item?id=43982816"
+    ],
+    [
+      "Databricks to Buy Startup Neon for $1B",
+      "https://www.wsj.com/articles/databricks-to-buy-startup-neon-for-1-billion-fdded971"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 10:11:56",
+      "https://news.ycombinator.com/item?id=43982784"
+    ],
+    [
+      "UK's Ancient Tree Inventory",
+      "https://ati.woodlandtrust.org.uk/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 10:10:00",
+      "https://news.ycombinator.com/item?id=43982777"
+    ],
+    [
+      "Databricks and Neon",
+      "https://www.databricks.com/blog/databricks-neon"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 08:32:05",
+      "https://news.ycombinator.com/item?id=43982238"
+    ],
+    [
+      "$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder",
+      "https://www.memorysafety.org/blog/rav1d-perf-bounty/"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 07:02:54",
       "https://news.ycombinator.com/item?id=43981680"
     ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2025-05-13, 17:57:57",
-      "https://news.ycombinator.com/item?id=43975782"
-    ],
-    [
-      "OpenTelemetry protocol with Apache Arrow",
-      "https://opentelemetry.io/blog/2025/otel-arrow-phase-2/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 17:26:38",
       "https://news.ycombinator.com/item?id=43975423"
     ],
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2025-05-12, 14:32:25",
-      "https://news.ycombinator.com/item?id=43963434"
-    ],
-    [
-      "The great displacement is already well underway?",
-      "https://shawnfromportland.substack.com/p/the-great-displacement-is-already"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 08:50:13",
-      "https://news.ycombinator.com/item?id=43952398"
-    ],
-    [
-      "Vircadia, a Bun and PostgreSQL-powered reactivity layer for games",
-      "https://vircadia.com/"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 05:17:14",
       "https://news.ycombinator.com/item?id=43951604"
     ],
@@ -257,16 +267,6 @@
     [
       "Ash Framework – Model your domain, derive the rest",
       "https://ash-hq.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 13:23:35",
-      "https://news.ycombinator.com/item?id=43945423"
-    ],
-    [
-      "Garbage collection of object storage at scale",
-      "https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale"
     ]
   ],
   [
