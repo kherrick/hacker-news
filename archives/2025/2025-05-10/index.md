@@ -37,6 +37,7 @@
 * [2025-05-10, 14:37:59](https://news.ycombinator.com/item?id=43945993) - [A Critical Look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 * [2025-05-10, 14:15:56](https://news.ycombinator.com/item?id=43945820) - [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 * [2025-05-10, 14:05:24](https://news.ycombinator.com/item?id=43945734) - [The Battle to Bottle Palm Wine](https://www.atlasobscura.com/articles/palm-wine-in-united-states)
+* [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-10, 13:56:36](https://news.ycombinator.com/item?id=43945665) - [Show HN: Mycelium](https://github.com/mycweb/mycelium)
 * [2025-05-10, 13:55:43](https://news.ycombinator.com/item?id=43945660) - [Why GADTs matter for performance (2015)](https://blog.janestreet.com/why-gadts-matter-for-performance/)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
