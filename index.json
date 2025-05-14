@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-14, 16:27:48",
+      "https://news.ycombinator.com/item?id=43986424"
+    ],
+    [
+      "Our Narrative Prison",
+      "https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 16:27:15",
+      "https://news.ycombinator.com/item?id=43986417"
+    ],
+    [
+      "Ask HN: How are you cleaning and transforming data before imports/uploads?",
+      "https://news.ycombinator.com/item?id=43986417"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 15:52:21",
       "https://news.ycombinator.com/item?id=43985994"
     ],
@@ -17,6 +37,16 @@
     [
       "The Server That Wasn't Meant to Exist",
       "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 15:47:11",
+      "https://news.ycombinator.com/item?id=43985930"
+    ],
+    [
+      "DeepMind unveils 'spectacular' general-purpose science AI",
+      "https://www.nature.com/articles/d41586-025-01523-z"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-05-14, 11:52:37",
-      "https://news.ycombinator.com/item?id=43983385"
-    ],
-    [
-      "FlowG – Distributed Systems without raft (part 2)",
-      "https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 11:22:39",
       "https://news.ycombinator.com/item?id=43983159"
     ],
@@ -147,16 +167,6 @@
     [
       "Databricks and Neon",
       "https://www.databricks.com/blog/databricks-neon"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 08:32:05",
-      "https://news.ycombinator.com/item?id=43982238"
-    ],
-    [
-      "$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder",
-      "https://www.memorysafety.org/blog/rav1d-perf-bounty/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-05-13, 16:44:51",
-      "https://news.ycombinator.com/item?id=43974891"
-    ],
-    [
-      "Branch Privilege Injection: Exploiting branch predictor race conditions",
-      "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 14:30:35",
       "https://news.ycombinator.com/item?id=43973395"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-05-11, 17:13:59",
-      "https://news.ycombinator.com/item?id=43955220"
+      "2025-05-13, 11:07:29",
+      "https://news.ycombinator.com/item?id=43971620"
     ],
     [
-      "Sequencing for Value",
-      "https://engineering.blueberrypediatrics.blog/sequencing-for-value"
+      "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
+      "https://github.com/git-bug/git-bug"
     ]
   ],
   [
