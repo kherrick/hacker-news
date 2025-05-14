@@ -43,6 +43,7 @@
 * [2025-05-10, 13:46:20](https://news.ycombinator.com/item?id=43945585) - [Coffee for people who don't like coffee](https://ostwilkens.se/blog/coffee)
 * [2025-05-10, 13:40:34](https://news.ycombinator.com/item?id=43945545) - [Interagency Grizzly Bear Committee](https://igbconline.org/)
 * [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane, Media Framework for Elixir](https://membrane.stream/)
+* [2025-05-10, 13:32:00](https://news.ycombinator.com/item?id=43945477) - [Ash Framework – Model your domain, derive the rest](https://ash-hq.org/)
 * [2025-05-10, 13:29:05](https://news.ycombinator.com/item?id=43945467) - [People Who Hype Cursor Usually Lack Technical Skills](https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/)
 * [2025-05-10, 13:23:51](https://news.ycombinator.com/item?id=43945426) - [There's a National Egg Crisis, and One Company Is Making a Lot of Money](https://www.wsj.com/business/egg-prices-shortage-cal-maine-foods-f53286b3)
 * [2025-05-10, 13:23:35](https://news.ycombinator.com/item?id=43945423) - [Garbage Collection of Object Storage at Scale](https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale)
