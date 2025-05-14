@@ -24,11 +24,11 @@
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 * [2025-05-14, 05:38:00](https://news.ycombinator.com/item?id=43981170) - [The recently lost file upload feature in the Nextcloud app for Android](https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/)
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
-* [2025-05-14, 04:19:00](https://news.ycombinator.com/item?id=43980760) - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-13, 14:43:46](https://news.ycombinator.com/item?id=43973541) - [We Made CUDA Optimization Suck Less](https://www.rightnowai.co/)
 * [2025-05-13, 11:22:28](https://news.ycombinator.com/item?id=43971685) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
 * [2025-05-11, 20:53:23](https://news.ycombinator.com/item?id=43957072) - [The overlooked masterpiece full of coded messages about World War One](https://www.bbc.com/culture/article/20250423-the-masterpiece-full-of-coded-messages-about-ww1)
+* [2025-05-11, 18:28:46](https://news.ycombinator.com/item?id=43955834) - [TwoFold (2f), CLI text expander/template engine](https://github.com/ShinyTrinkets/twofold.ts)
 * [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 
 ## [Archives](archives/index.md)
