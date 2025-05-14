@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-14, 17:01:33](https://news.ycombinator.com/item?id=43986792) - [Artie (YC S23) Is Hiring a Senior Product Marketing Manager (SF)](https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager)
 * [2025-05-14, 16:27:48](https://news.ycombinator.com/item?id=43986424) - [Our Narrative Prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
 * [2025-05-14, 16:27:15](https://news.ycombinator.com/item?id=43986417) - [Ask HN: How are you cleaning and transforming data before imports/uploads?](https://news.ycombinator.com/item?id=43986417)
 * [2025-05-14, 15:52:21](https://news.ycombinator.com/item?id=43985994) - [Launch HN: Jazzberry (YC X25) – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
-* [2025-05-14, 15:50:30](https://news.ycombinator.com/item?id=43985971) - [The Server That Wasn't Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
+* [2025-05-14, 15:50:30](https://news.ycombinator.com/item?id=43985971) - [A server that wasn't meant to exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 * [2025-05-14, 15:47:11](https://news.ycombinator.com/item?id=43985930) - [DeepMind unveils 'spectacular' general-purpose science AI](https://www.nature.com/articles/d41586-025-01523-z)
-* [2025-05-14, 15:40:17](https://news.ycombinator.com/item?id=43985861) - [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/)
 * [2025-05-14, 15:19:41](https://news.ycombinator.com/item?id=43985624) - [Show HN: Lumier – Run macOS VMs in a Docker](https://github.com/trycua/cua/tree/main/libs/lumier)
 * [2025-05-14, 15:12:53](https://news.ycombinator.com/item?id=43985527) - [Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US)
 * [2025-05-14, 15:10:15](https://news.ycombinator.com/item?id=43985489) - [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
@@ -25,11 +25,11 @@
 * [2025-05-13, 22:15:30](https://news.ycombinator.com/item?id=43978357) - [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google is building its own DeX: First look at Android's Desktop Mode](https://www.androidauthority.com/android-desktop-mode-leak-3550321/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
+* [2025-05-11, 20:53:23](https://news.ycombinator.com/item?id=43957072) - [The overlooked masterpiece full of coded messages about World War One](https://www.bbc.com/culture/article/20250423-the-masterpiece-full-of-coded-messages-about-ww1)
 * [2025-05-11, 02:10:33](https://news.ycombinator.com/item?id=43950693) - [Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages](https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html)
 * [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-10, 13:32:00](https://news.ycombinator.com/item?id=43945477) - [Ash Framework – Model your domain, derive the rest](https://ash-hq.org/)
 * [2025-05-10, 08:52:47](https://news.ycombinator.com/item?id=43944199) - [RPG in a Box](https://rpginabox.com/)
-* [2025-05-09, 14:11:05](https://news.ycombinator.com/item?id=43936992) - [Updated rate limits for unauthenticated requests](https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/)
 
 ## [Archives](archives/index.md)
 
