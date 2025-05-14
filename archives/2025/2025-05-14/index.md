@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 18:09:52](https://news.ycombinator.com/item?id=43987525) - [Beyond the Wrist: Debugging RSI](https://www.debugyourpain.org/docs/main_posts/understand/debugging_rsi/)
+* [2025-05-14, 17:05:30](https://news.ycombinator.com/item?id=43986833) - [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
 * [2025-05-14, 17:01:33](https://news.ycombinator.com/item?id=43986792) - [Artie (YC S23) Is Hiring a Senior Product Marketing Manager (SF)](https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager)
 * [2025-05-14, 16:27:48](https://news.ycombinator.com/item?id=43986424) - [Our Narrative Prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
 * [2025-05-14, 16:27:15](https://news.ycombinator.com/item?id=43986417) - [Ask HN: How are you cleaning and transforming data before imports/uploads?](https://news.ycombinator.com/item?id=43986417)
