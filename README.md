@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-14, 23:04:23](https://news.ycombinator.com/item?id=43990107) - [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
-* [2025-05-14, 22:52:34](https://news.ycombinator.com/item?id=43990012) - [LLMs are making me dumber](https://vvvincent.me/llms-are-making-me-dumber/)
 * [2025-05-14, 21:39:45](https://news.ycombinator.com/item?id=43989497) - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
 * [2025-05-14, 21:01:15](https://news.ycombinator.com/item?id=43989173) - [StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
 * [2025-05-14, 19:54:31](https://news.ycombinator.com/item?id=43988533) - [Show HN: Semantic Calculator (king-man+woman=?)](https://calc.datova.ai)
@@ -22,6 +21,7 @@
 * [2025-05-14, 05:38:00](https://news.ycombinator.com/item?id=43981170) - [The recently lost file upload feature in the Nextcloud app for Android](https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/)
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 * [2025-05-13, 20:45:53](https://news.ycombinator.com/item?id=43977515) - [Variadic Switch](https://pydong.org/posts/variadic-switch/)
+* [2025-05-13, 14:43:46](https://news.ycombinator.com/item?id=43973541) - [We Made CUDA Optimization Suck Less](https://www.rightnowai.co/)
 * [2025-05-13, 11:22:28](https://news.ycombinator.com/item?id=43971685) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
 * [2025-05-13, 10:43:20](https://news.ycombinator.com/item?id=43971515) - [Changes since congestion pricing started in New York](https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html)
