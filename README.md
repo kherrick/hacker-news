@@ -26,10 +26,10 @@
 * [2025-05-13, 11:22:28](https://news.ycombinator.com/item?id=43971685) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
 * [2025-05-11, 20:53:23](https://news.ycombinator.com/item?id=43957072) - [The overlooked masterpiece full of coded messages about World War One](https://www.bbc.com/culture/article/20250423-the-masterpiece-full-of-coded-messages-about-ww1)
+* [2025-05-11, 18:28:46](https://news.ycombinator.com/item?id=43955834) - [TwoFold (2f), CLI text expander/template engine](https://github.com/ShinyTrinkets/twofold.ts)
 * [2025-05-11, 02:10:33](https://news.ycombinator.com/item?id=43950693) - [Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages](https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html)
 * [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-10, 13:32:00](https://news.ycombinator.com/item?id=43945477) - [Ash Framework – Model your domain, derive the rest](https://ash-hq.org/)
-* [2025-05-10, 08:52:47](https://news.ycombinator.com/item?id=43944199) - [RPG in a Box](https://rpginabox.com/)
 
 ## [Archives](archives/index.md)
 

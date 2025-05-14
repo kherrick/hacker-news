@@ -18,6 +18,7 @@
 * [2025-05-11, 18:57:07](https://news.ycombinator.com/item?id=43956095) - [Why not object capability languages?](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682)
 * [2025-05-11, 18:31:52](https://news.ycombinator.com/item?id=43955868) - [Biological Organisation as Closure of Constraints](https://www.sciencedirect.com/science/article/abs/pii/S0022519315001009)
 * [2025-05-11, 18:29:18](https://news.ycombinator.com/item?id=43955842) - [Scraperr – A Self Hosted Webscraper](https://github.com/jaypyles/Scraperr)
+* [2025-05-11, 18:28:46](https://news.ycombinator.com/item?id=43955834) - [TwoFold (2f), CLI text expander/template engine](https://github.com/ShinyTrinkets/twofold.ts)
 * [2025-05-11, 18:19:20](https://news.ycombinator.com/item?id=43955757) - [Rust Devs Think We're Hopeless; Let's Prove Them Wrong (With C++ Memory Leaks)](https://www.babaei.net/blog/rust-devs-think-we-are-hopeless-lets-prove-them-wrong-with-cpp-memory-leaks/)
 * [2025-05-11, 17:51:04](https://news.ycombinator.com/item?id=43955525) - [Car Companies Are in a Billion-Dollar Software War, and Everyone's Losing](https://insideevs.com/features/759153/car-companies-software-companies/)
 * [2025-05-11, 17:38:38](https://news.ycombinator.com/item?id=43955397) - [LSP client in Clojure in 200 lines of code](https://vlaaad.github.io/lsp-client-in-200-lines-of-code)
