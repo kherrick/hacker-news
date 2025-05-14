@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-05-14, 00:10:51",
+      "https://news.ycombinator.com/item?id=43979322"
+    ],
+    [
+      "Map of Palaeohispanic Coins and Inscriptions",
+      "http://hesperia.ucm.es/consulta_hesperia/mapas.php"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 23:53:45",
+      "https://news.ycombinator.com/item?id=43979197"
+    ],
+    [
+      "Less meat is nearly always better than sustainable meat",
+      "https://ourworldindata.org/less-meat-or-sustainable-meat"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 23:34:07",
+      "https://news.ycombinator.com/item?id=43979063"
+    ],
+    [
+      "Your fingers wrinkle the same way every time you're in the water too long",
+      "https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 22:25:29",
       "https://news.ycombinator.com/item?id=43978435"
     ],
     [
-      "Flattening Rust's Learning Curve",
+      "Flattening Rust's learning curve",
       "https://corrode.dev/blog/flattening-rusts-learning-curve/"
     ]
   ],
@@ -27,16 +57,6 @@
     [
       "How (memory) safe is Zig? (2021)",
       "https://www.scattered-thoughts.net/writing/how-safe-is-zig/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 21:57:54",
-      "https://news.ycombinator.com/item?id=43978224"
-    ],
-    [
-      "Y Combinator says Google is a monopolist, no comment about its OpenAI ties",
-      "https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/"
     ]
   ],
   [
@@ -77,26 +97,6 @@
     [
       "Build real-time knowledge graph for documents with LLM",
       "https://cocoindex.io/blogs/knowledge-graph-for-docs/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 19:19:14",
-      "https://news.ycombinator.com/item?id=43976574"
-    ],
-    [
-      "Android and Wear OS are getting a redesign",
-      "https://blog.google/products/android/material-3-expressive-android-wearos-launch/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 18:56:11",
-      "https://news.ycombinator.com/item?id=43976359"
-    ],
-    [
-      "Why are banks still getting authentication so wrong?",
-      "https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-05-13, 13:44:18",
-      "https://news.ycombinator.com/item?id=43972927"
-    ],
-    [
-      "TheForger's Win32 API Tutorial",
-      "https://winprog.org/tutorial/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 13:08:52",
       "https://news.ycombinator.com/item?id=43972535"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2025-05-13, 08:41:25",
-      "https://news.ycombinator.com/item?id=43970837"
-    ],
-    [
-      "Ask HN: How are you acquiring your first hundred users?",
-      "https://news.ycombinator.com/item?id=43970837"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 10:07:22",
       "https://news.ycombinator.com/item?id=43952707"
     ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2025-05-10, 19:35:14",
+      "https://news.ycombinator.com/item?id=43948244"
+    ],
+    [
+      "When graphic design saves lives",
+      "https://news.harvard.edu/gazette/story/2025/05/when-graphic-design-saves-lives/"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 13:51:53",
       "https://news.ycombinator.com/item?id=43945628"
     ],
     [
       "Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit",
       "https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 13:46:20",
+      "https://news.ycombinator.com/item?id=43945585"
+    ],
+    [
+      "Coffee for people who don't like coffee",
+      "https://ostwilkens.se/blog/coffee"
     ]
   ],
   [
