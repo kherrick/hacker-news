@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-14, 21:52:19](https://news.ycombinator.com/item?id=43989590) - [José Mujica has died](https://www.bbc.co.uk/news/articles/c0j71402z58o)
+* [2025-05-14, 22:52:34](https://news.ycombinator.com/item?id=43990012) - [LLMs are making me dumber](https://vvvincent.me/llms-are-making-me-dumber/)
 * [2025-05-14, 21:39:45](https://news.ycombinator.com/item?id=43989497) - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
 * [2025-05-14, 21:01:15](https://news.ycombinator.com/item?id=43989173) - [StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
 * [2025-05-14, 19:54:31](https://news.ycombinator.com/item?id=43988533) - [Show HN: Semantic Calculator (king-man+woman=?)](https://calc.datova.ai)
 * [2025-05-14, 19:38:26](https://news.ycombinator.com/item?id=43988381) - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
 * [2025-05-14, 19:29:38](https://news.ycombinator.com/item?id=43988315) - [Perverse incentives of vibe coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
-* [2025-05-14, 18:37:32](https://news.ycombinator.com/item?id=43987814) - [Various Things in MetaPost (2019)](https://habr.com/en/articles/454376/)
 * [2025-05-14, 17:05:30](https://news.ycombinator.com/item?id=43986833) - [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
 * [2025-05-14, 16:27:48](https://news.ycombinator.com/item?id=43986424) - [Our narrative prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
 * [2025-05-14, 15:52:21](https://news.ycombinator.com/item?id=43985994) - [Launch HN: Jazzberry (YC X25) – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
@@ -28,6 +27,7 @@
 * [2025-05-13, 10:43:20](https://news.ycombinator.com/item?id=43971515) - [Changes since congestion pricing started in New York](https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html)
 * [2025-05-12, 20:59:10](https://news.ycombinator.com/item?id=43967405) - [Hegel 2.0: The imaginary history of ternary computing (2018)](https://www.cabinetmagazine.org/issues/65/weatherby.php)
 * [2025-05-11, 04:26:01](https://news.ycombinator.com/item?id=43951366) - [Getting Started with Celtic Coins – Crude and Barbarous, or Just Different?](https://collectingancientcoins.co.uk/getting-started-with-celtic-coins-crude-and-barbarous-or-just-different/)
+* [2025-05-11, 02:36:47](https://news.ycombinator.com/item?id=43950834) - [The AUCTUS A6: the chip enabling inexpensive DMR Radio (2021)](https://jhart99.com/auctus-a6/)
 * [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-09, 14:11:05](https://news.ycombinator.com/item?id=43936992) - [Updated rate limits for unauthenticated requests](https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/)
 
