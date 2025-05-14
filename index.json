@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-05-14, 15:47:11",
-      "https://news.ycombinator.com/item?id=43985930"
-    ],
-    [
-      "DeepMind unveils 'spectacular' general-purpose science AI",
-      "https://www.nature.com/articles/d41586-025-01523-z"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 15:19:41",
       "https://news.ycombinator.com/item?id=43985624"
     ],
@@ -227,6 +217,16 @@
     [
       "Type-constrained code generation with language models",
       "https://arxiv.org/abs/2504.09246"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 16:44:51",
+      "https://news.ycombinator.com/item?id=43974891"
+    ],
+    [
+      "Branch Privilege Injection: Exploiting branch predictor race conditions",
+      "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/"
     ]
   ],
   [
