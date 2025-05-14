@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 23:04:23](https://news.ycombinator.com/item?id=43990107) - [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
 * [2025-05-14, 22:52:34](https://news.ycombinator.com/item?id=43990012) - [LLMs are making me dumber](https://vvvincent.me/llms-are-making-me-dumber/)
 * [2025-05-14, 21:52:19](https://news.ycombinator.com/item?id=43989590) - [José Mujica has died](https://www.bbc.co.uk/news/articles/c0j71402z58o)
 * [2025-05-14, 21:39:45](https://news.ycombinator.com/item?id=43989497) - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
