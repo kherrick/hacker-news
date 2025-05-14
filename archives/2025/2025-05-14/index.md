@@ -15,6 +15,7 @@
 * [2025-05-14, 11:59:41](https://news.ycombinator.com/item?id=43983455) - [E-COM: The time the USPS spent $40M subsidizing junk (e)mail](https://buttondown.com/blog/the-e-com-story)
 * [2025-05-14, 11:52:37](https://news.ycombinator.com/item?id=43983385) - [FlowG – Distributed Systems without raft (part 2)](https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db)
 * [2025-05-14, 11:25:17](https://news.ycombinator.com/item?id=43983182) - [The Future Is Too Expensive – A New Theory on Collapsing Birth Rates](https://medium.com/@hectorchu1/the-future-is-too-expensive-a-new-theory-of-why-people-arent-having-kids-c3eca581c491)
+* [2025-05-14, 11:22:39](https://news.ycombinator.com/item?id=43983159) - [The Cryptography Behind Passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
 * [2025-05-14, 10:44:33](https://news.ycombinator.com/item?id=43982941) - [Show HN: acmsg (automated commit message generator)](https://github.com/quinneden/acmsg)
 * [2025-05-14, 10:17:29](https://news.ycombinator.com/item?id=43982816) - [Databricks to Buy Startup Neon for $1B](https://www.wsj.com/articles/databricks-to-buy-startup-neon-for-1-billion-fdded971)
 * [2025-05-14, 10:11:56](https://news.ycombinator.com/item?id=43982784) - [UK's Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
