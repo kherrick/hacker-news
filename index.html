@@ -129,6 +129,128 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43985624">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/trycua/cua/tree/main/libs/lumier"
+              >Show HN: Lumier – Run macOS VMs in a Docker</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-14 @ 15:19:41</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43985624"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/trycua/cua/tree/main/libs/lumier"
+                >https://github.com/trycua/cua/tree/main/libs/lumier</a
+              >), an open-source tool for running macOS and Linux virtual
+              machines in Docker containers on Apple Silicon Macs.
+              <p>
+                When building virtualized environments for AI agents, we needed
+                a reproducible way to package and distribute macOS VMs. Inspired
+                by projects like dockur/windows (<a
+                  href="https://github.com/dockur/windows"
+                  >https://github.com/dockur/windows</a
+                >) that pioneered running Windows in Docker, we wanted to create
+                something similar but optimized for Apple Silicon. The existing
+                solutions either didn't support M-series chips or relied on
+                KVM/Intel emulation, which was slow and cumbersome. We realized
+                we could leverage Apple's Virtualization Framework to create a
+                much better experience.
+              </p>
+              <p>
+                Lumier takes a different approach: it uses Docker as a delivery
+                mechanism (not for isolation) and connects to a lightweight
+                virtualization service (lume) running on your Mac. This creates
+                true hardware-accelerated VMs using Apple's native
+                virtualization capabilities.
+              </p>
+              <p>
+                With Lumier, you can: - Launch a ready-to-use macOS VM in
+                minutes with zero manual setup - Access your VM through any web
+                browser via VNC - Share files between your host and VM
+                effortlessly - Use persistent storage or ephemeral mode for
+                quick tests - Automate VM startup with custom scripts
+              </p>
+              <p>
+                All of this works natively on Apple Silicon (M1/M2/M3/M4) - no
+                emulation required.
+              </p>
+              <p>To get started:</p>
+              <p>
+                1. Install Docker for Apple Silicon:
+                <a href="https://desktop.docker.com/mac/main/arm64/Docker.dmg"
+                  >https://desktop.docker.com/mac/main/arm64/Docker.dmg</a
+                >
+              </p>
+              <p>2. Install lume background service with our one-liner:</p>
+              <p></p>
+              <pre><code>  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/trycua/cua/main/libs/lume/scripts/install.sh)"
+</code></pre>
+              3. Start a VM (ephemeral mode):
+              <p></p>
+              <pre><code>  docker run -it --rm \
+  --name lumier-vm \
+    -p 8006:8006 \
+    -e VM_NAME=lumier-vm \
+    -e VERSION=ghcr.io/trycua/macos-sequoia-cua:latest \
+    -e CPU_CORES=4 \
+    -e RAM_SIZE=8192 \
+    trycua/lumier:latest
+</code></pre>
+              4. Open
+              <a href="http://localhost:8006/vnc.html"
+                >http://localhost:8006/vnc.html</a
+              >
+              in your browser. The container will generate a unique password for
+              each VM instance - you'll see it in the container logs.
+              <p>
+                For persistent storage (so your changes survive container
+                restarts):
+              </p>
+              <p>
+                mkdir -p storage docker run -it --rm \ --name lumier-vm \ -p
+                8006:8006 \ -v $(pwd)/storage:/storage \ -e VM_NAME=lumier-vm \
+                -e HOST_STORAGE_PATH=$(pwd)/storage \ trycua/lumier:latest
+              </p>
+              <p>Want to share files with your VM? Just add another volume:</p>
+              <p>
+                mkdir -p shared docker run ... -v $(pwd)/shared:/shared -e
+                HOST_SHARED_PATH=$(pwd)/shared ...
+              </p>
+              <p>
+                You can even automate VM startup by placing an on-logon.sh
+                script in shared/lifecycle/.
+              </p>
+              <p>
+                We're seeing people use Lumier for: - Development and testing
+                environments that need macOS - CI/CD pipelines for Apple
+                platform apps - Disposable macOS instances for security research
+                - Automated UI testing across macOS versions - Running AI agents
+                in isolated environments
+              </p>
+              <p>
+                Lumier is 100% open-source under the MIT license. We're actively
+                developing it as part of our work on C/ua (<a
+                  href="https://github.com/trycua/cua"
+                  >https://github.com/trycua/cua</a
+                >), and we'd love your feedback, bug reports, or feature ideas.
+              </p>
+              <p>
+                We'll be here to answer any technical questions and look forward
+                to your comments!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43985527">
           <h3>
             <a
@@ -141,11 +263,11 @@
             <h4>
               <span>2025-05-14 @ 15:12:53</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985527"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
             <div class="text">
@@ -194,6 +316,28 @@
             </div>
           </section>
         </section>
+        <section id="43985489">
+          <h3>
+            <a
+              class="item"
+              href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"
+              >AlphaEvolve: A Gemini-powered coding agent for designing advanced
+              algorithms</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-14 @ 15:10:15</span
+              ><span class="points-container"
+                >Points: <span class="points">48</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43985489"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43984297">
           <h3>
             <a
@@ -207,11 +351,11 @@
             <h4>
               <span>2025-05-14 @ 13:28:24</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43984297"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -228,7 +372,7 @@
             <h4>
               <span>2025-05-14 @ 13:27:04</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43984275"
                   >Comments</a
@@ -249,7 +393,7 @@
             <h4>
               <span>2025-05-14 @ 13:08:26</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43984097"
                   >Comments</a
@@ -270,11 +414,11 @@
             <h4>
               <span>2025-05-14 @ 12:52:13</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43983928"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -289,11 +433,11 @@
             <h4>
               <span>2025-05-14 @ 12:46:39</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43983871"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -312,7 +456,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43983455"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -338,6 +482,27 @@
             </h4>
           </section>
         </section>
+        <section id="43983297">
+          <h3>
+            <a
+              class="item"
+              href="https://abstraction.substack.com/p/abundance-starts-with-mobility"
+              >Abundance Starts with Mobility</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-14 @ 11:41:45</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43983297"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43983159">
           <h3>
             <a
@@ -350,11 +515,11 @@
             <h4>
               <span>2025-05-14 @ 11:22:39</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43983159"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -369,11 +534,11 @@
             <h4>
               <span>2025-05-14 @ 10:11:56</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43982784"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -390,11 +555,11 @@
             <h4>
               <span>2025-05-14 @ 10:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43982777"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -412,11 +577,11 @@
             <h4>
               <span>2025-05-14 @ 08:32:05</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43982238"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -433,11 +598,11 @@
             <h4>
               <span>2025-05-14 @ 07:02:54</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43981680"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -455,11 +620,11 @@
             <h4>
               <span>2025-05-14 @ 05:38:00</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43981170"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -474,11 +639,11 @@
             <h4>
               <span>2025-05-14 @ 04:33:21</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">338</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43980845"
                   >Comments</a
-                ><span class="descendants">: 248</span></span
+                ><span class="descendants">: 249</span></span
               >
             </h4>
           </section>
@@ -493,7 +658,7 @@
             <h4>
               <span>2025-05-14 @ 04:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">292</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43980760"
                   >Comments</a
@@ -514,7 +679,7 @@
             <h4>
               <span>2025-05-14 @ 01:55:59</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43979916"
                   >Comments</a
@@ -535,11 +700,11 @@
             <h4>
               <span>2025-05-13 @ 22:25:29</span
               ><span class="points-container"
-                >Points: <span class="points">355</span></span
+                >Points: <span class="points">359</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43978435"
                   >Comments</a
-                ><span class="descendants">: 287</span></span
+                ><span class="descendants">: 288</span></span
               >
             </h4>
           </section>
@@ -554,146 +719,13 @@
             <h4>
               <span>2025-05-13 @ 22:15:30</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43978357"
                   >Comments</a
                 ><span class="descendants">: 106</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43975423">
-          <h3>
-            <a class="item" href="https://github.com/HelixDB/helix-db/"
-              >Show HN: HelixDB – Open-source vector-graph database for AI
-              applications (Rust)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-13 @ 17:26:38</span
-              ><span class="points-container"
-                >Points: <span class="points">205</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43975423"
-                  >Comments</a
-                ><span class="descendants">: 86</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://github.com/HelixDB/helix-db/"
-                >https://github.com/HelixDB/helix-db/</a
-              >), a project a college friend and I are working on. It’s a new
-              database that natively intertwines graph and vector types, without
-              sacrificing performance. It’s written in Rust and our initial
-              focus is on supporting RAG. Here’s a video runthrough:
-              <a href="https://screen.studio/share/szgQu3yq"
-                >https://screen.studio/share/szgQu3yq</a
-              >.
-              <p>
-                Why a hybrid? Vector databases are useful for similarity
-                queries, while graph databases are useful for relationship
-                queries. Each stores data in a way that’s best for its main type
-                of query (e.g. key-value stores vs. node-and-edge tables).
-                However, many AI-driven applications need <i>both</i> similarity
-                and relationship queries. For example, you might use
-                vector-based semantic search to retrieve relevant legal
-                documents, and then use graph traversal to identify
-                relationships between cases.
-              </p>
-              <p>
-                Developers of such apps have the quandary of needing to build on
-                top of two different databases—a vector one and a graph one—plus
-                you have to link them together and sync the data. Even then,
-                your two databases aren't designed to work together—for example,
-                there’s no native way to perform joins or queries that span both
-                systems. You’ll need to handle that logic at the application
-                level.
-              </p>
-              <p>
-                Helix started when we realized that there are ways to integrate
-                vector and graph data that are both fast and suitable for AI
-                applications, especially RAG-based ones. See this cool research
-                paper:
-                <a href="https://arxiv.org/html/2408.04948v1"
-                  >https://arxiv.org/html/2408.04948v1</a
-                >. After reading that and some other papers on graph and hybrid
-                RAG, we decided to build a hybrid DB. Our aim was to make
-                something better to use from a developer standpoint, while also
-                making it fast as hell.
-              </p>
-              <p>
-                After a few months of working on this as a side project, our
-                benchmarking shows that we are on par with Pinecone and Qdrant
-                for vectors, and our graph is up to three orders of magnitude
-                faster than Neo4j.
-              </p>
-              <p>
-                Problems where a hybrid approach works particularly well
-                include:
-              </p>
-              <p>
-                - Indexing codebases: you can vectorize code-snippets within a
-                function (connected by edges) based on context and then create
-                an AST (in a graph) from function calls, imports, dependencies,
-                etc. Agents can look up code by similarity or keyword and then
-                traverse the AST to get only the relevant code, which reduces
-                hallucinations and prevents the LLM from guessing object shapes
-                or variable/function names.
-              </p>
-              <p>
-                - Molecule discovery: Model biological interactions (e.g.,
-                proteins → genes → diseases) using graph types and then embed
-                molecule structures to find similar compounds or case studies.
-              </p>
-              <p>
-                - Enterprise knowledge management: you can represent
-                organisational structure, projects, and people (e.g., employee →
-                team → project) in graph form, then index internal documents,
-                emails, or notes as vectors for semantic search and link them
-                directly employees/teams/projects in the graph.
-              </p>
-              <p>
-                I naively assumed when learning about databases for the first
-                time that queries would be compiled and executed like functions
-                in traditional programming. Turns out I was wrong, but this
-                creates unnecessary latency by sending extra data (the whole
-                written query), compiling it at run time, and then executing it.
-                With Helix, you write the queries in our query language
-                (HelixQL), which is then transpiled into Rust code and built
-                directly into the database server, where you can call a
-                generated API endpoint.
-              </p>
-              <p>
-                Many people have a thing against “yet another query language”
-                (doubtless for good reason!) but we went ahead and did it
-                anyway, because we think it makes working with our database so
-                much easier that it’s worth a bit of a learning curve. HelixQL
-                takes from other query languages such as Gremlin, Cypher and SQL
-                with some extra ideas added in. It is declarative while the
-                traversals themselves are functional. This allows complete
-                control over the traversal flow while also having a cleaner
-                syntax. HelixQL returns JSON to make things easy for clients.
-                Also, it uses a schema, so the queries are type-checked.
-              </p>
-              <p>
-                We took a crude approach to building the original graph engine
-                as a way to get an MVP out, so we are now working on improving
-                the graph engine by making traversals massively parallel and
-                pipelined. This means data is only ever decoded from disk when
-                it is needed, and parts of reads are all processed in parallel.
-              </p>
-              <p>
-                If you’d like to try it out in a simple RAG demo, you can follow
-                this guide and run our Jupyter notebook:
-                <a
-                  href="https://github.com/HelixDB/helix-db/tree/main/examples/rag_demo"
-                  >https://github.com/HelixDB/helix-db/tree/main/examples/rag_d...</a
-                >
-              </p>
-              <p>Many thanks! Comments and feedback welcome!</p>
-            </div>
           </section>
         </section>
         <section id="43974891">
@@ -709,7 +741,7 @@
             <h4>
               <span>2025-05-13 @ 16:44:51</span
               ><span class="points-container"
-                >Points: <span class="points">395</span></span
+                >Points: <span class="points">396</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43974891"
                   >Comments</a
@@ -731,114 +763,13 @@
             <h4>
               <span>2025-05-13 @ 14:30:35</span
               ><span class="points-container"
-                >Points: <span class="points">392</span></span
+                >Points: <span class="points">393</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43973395"
                   >Comments</a
                 ><span class="descendants">: 340</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43972425">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=43972425"
-              >Launch HN: Miyagi (YC W25) turns YouTube videos into online,
-              interactive courses</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-13 @ 12:56:42</span
-              ><span class="points-container"
-                >Points: <span class="points">198</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43972425"
-                  >Comments</a
-                ><span class="descendants">: 110</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://miyagilabs.ai">https://miyagilabs.ai</a>), an
-              AI-powered education platform that transforms educational YouTube
-              videos into interactive courses. It helps you learn better through
-              active practice and personalized feedback.
-              <p>
-                We use LLMs to automatically generate quizzes, practice
-                questions, and real-time feedback from any educational video or
-                resource—turning passive watching into active learning. Here’s a
-                short demo:
-                <a href="https://youtu.be/alO7FaorHOY"
-                  >https://youtu.be/alO7FaorHOY</a
-                >.
-              </p>
-              <p>
-                Improving education has always been tricky. Bloom’s 2-sigma
-                problem (showing that a high-quality personal tutor is far more
-                effective than conventional methods) has persisted, even as
-                technology has advanced.
-              </p>
-              <p>
-                We met at MIT as CS majors and have always been passionate about
-                education. Over the years, we’ve become teachers and experts in
-                subjects like chess, algorithms, math, languages, and ninja
-                warrior. A common theme was that we both heavily relied on
-                YouTube to learn.
-              </p>
-              <p>
-                YouTube has incredible content for learning pretty much
-                anything, but it’s buried in a lot of distractions. Also,
-                passively watching videos is far less effective than taking
-                notes, asking questions, and doing practice problems, which is
-                what we aim to do with Miyagi Labs.
-              </p>
-              <p>
-                Our solution is essentially a multi-step function that takes in
-                a YouTube playlist (or list of any resources) and outputs an
-                entire course with summaries, questions, answers, and more. The
-                pipeline is roughly: video/resource —&gt; transcript/text —&gt;
-                chunks —&gt; summary and question —&gt; answers to questions,
-                with some other features along the way.
-              </p>
-              <p>
-                We mostly use prompting and different models at each step to
-                make the course as useful as possible. Certain topics require
-                more practice problems vs. comprehension, and we’d use reasoning
-                models for highly technical subjects.
-              </p>
-              <p>
-                We launched about three months ago and currently have 400+
-                courses and partnerships with some businesses and awesome
-                creators. Some of our popular courses include 3Blue1Brown’s
-                linear algebra course, a botany course on plants and ecology,
-                and YC’s How to Start a Startup series.
-              </p>
-              <p>
-                Our product resembles classical MOOC-style course platforms in
-                terms of UI, but is more interactive. It’s really easy to ask a
-                question or receive custom feedback compared to a static course
-                on Coursera. It’s also comparable to AI tutor sites, but we try
-                to build more of a community and require less activation energy
-                as a learner. We’re basically betting that AI can hugely improve
-                education, but that students still want to learn from their
-                favorite creators and want baseline shared resources for
-                standard topics that are then augmented with personalized
-                features.
-              </p>
-              <p>
-                You can try it here:
-                <a href="https://miyagilabs.ai">https://miyagilabs.ai</a> (no
-                login required for most courses—but if you sign up you can also
-                create your own course).
-              </p>
-              <p>
-                We’d love your feedback on what kinds of videos/resources you’d
-                like to learn from, what’s missing from current learning tools,
-                and if you know any creators or educators who would like to
-                collaborate. Happy to hear any feedback and answer any
-                questions!
-              </p>
-            </div>
           </section>
         </section>
         <section id="43955220">
@@ -853,7 +784,7 @@
             <h4>
               <span>2025-05-11 @ 17:13:59</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43955220"
                   >Comments</a
@@ -875,7 +806,7 @@
             <h4>
               <span>2025-05-11 @ 02:10:33</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43950693"
                   >Comments</a
@@ -894,11 +825,11 @@
             <h4>
               <span>2025-05-10 @ 14:05:14</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43945733"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -913,11 +844,11 @@
             <h4>
               <span>2025-05-10 @ 13:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43945477"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -930,31 +861,11 @@
             <h4>
               <span>2025-05-10 @ 08:52:47</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43944199"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43943928">
-          <h3>
-            <a class="item" href="https://github.com/em-llm/EM-LLM-model"
-              >EM-LLM: Human-Inspired Episodic Memory for Infinite Context
-              LLMs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-10 @ 07:49:18</span
-              ><span class="points-container"
-                >Points: <span class="points">96</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43943928"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -971,11 +882,11 @@
             <h4>
               <span>2025-05-09 @ 14:11:05</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936992"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
             <div class="text">
