@@ -38,6 +38,7 @@
 * [2025-05-11, 14:22:49](https://news.ycombinator.com/item?id=43954027) - [I’ve built an IoT device to let my family know when I’m in a meeting](https://nullonerror.org/2025/05/11/i-have-built-an-iot-device-to-let-my-family-know-when-i-am-in-a-meeting/)
 * [2025-05-11, 14:02:12](https://news.ycombinator.com/item?id=43953884) - [In 2025, venture capital can't pretend everything is fine any more](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/)
 * [2025-05-11, 14:02:03](https://news.ycombinator.com/item?id=43953883) - [Title of work deciphered in sealed Herculaneum scroll via digital unwrapping](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping)
+* [2025-05-11, 13:57:20](https://news.ycombinator.com/item?id=43953857) - [Designing Cities for Families](https://www.bloomberg.com/features/designing-cities-for-families/)
 * [2025-05-11, 13:34:02](https://news.ycombinator.com/item?id=43953723) - [Backdoor found in popular ecommerce components](https://sansec.io/research/license-backdoor)
 * [2025-05-11, 13:33:54](https://news.ycombinator.com/item?id=43953722) - [Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse](https://github.com/glassflow/clickhouse-etl)
 * [2025-05-11, 12:17:18](https://news.ycombinator.com/item?id=43953272) - [What the hell are rare earth elements?](https://media.hubspot.com/what-the-hell-are-rare-earth-elements)

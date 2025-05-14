@@ -24,10 +24,10 @@
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple security issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
 * [2025-05-12, 16:35:42](https://news.ycombinator.com/item?id=43964896) - [The Internet 1997 – 2021](https://www.opte.org/the-internet)
+* [2025-05-11, 13:57:20](https://news.ycombinator.com/item?id=43953857) - [Designing Cities for Families](https://www.bloomberg.com/features/designing-cities-for-families/)
 * [2025-05-11, 05:17:14](https://news.ycombinator.com/item?id=43951604) - [Mipmap selection in too much detail](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
 * [2025-05-10, 13:32:00](https://news.ycombinator.com/item?id=43945477) - [Ash Framework – Model your domain, derive the rest](https://ash-hq.org/)
-* [2025-05-10, 10:41:21](https://news.ycombinator.com/item?id=43944640) - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
 * [2025-05-10, 08:52:47](https://news.ycombinator.com/item?id=43944199) - [RPG in a Box](https://rpginabox.com/)
 * [2025-05-10, 07:49:18](https://news.ycombinator.com/item?id=43943928) - [EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs](https://github.com/em-llm/EM-LLM-model)
 
