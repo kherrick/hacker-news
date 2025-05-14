@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-05-14, 15:19:41",
+      "https://news.ycombinator.com/item?id=43985624"
+    ],
+    [
+      "Show HN: Lumier – Run macOS VMs in a Docker",
+      "https://github.com/trycua/cua/tree/main/libs/lumier"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 15:12:53",
       "https://news.ycombinator.com/item?id=43985527"
     ],
     [
       "Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally",
       "https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 15:10:15",
+      "https://news.ycombinator.com/item?id=43985489"
+    ],
+    [
+      "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+      "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "FlowG – Distributed Systems without raft (part 2)",
       "https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 11:41:45",
+      "https://news.ycombinator.com/item?id=43983297"
+    ],
+    [
+      "Abundance Starts with Mobility",
+      "https://abstraction.substack.com/p/abundance-starts-with-mobility"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-05-13, 17:26:38",
-      "https://news.ycombinator.com/item?id=43975423"
-    ],
-    [
-      "Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)",
-      "https://github.com/HelixDB/helix-db/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 16:44:51",
       "https://news.ycombinator.com/item?id=43974891"
     ],
@@ -217,16 +237,6 @@
     [
       "Google is building its own DeX: First look at Android's Desktop Mode",
       "https://www.androidauthority.com/android-desktop-mode-leak-3550321/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 12:56:42",
-      "https://news.ycombinator.com/item?id=43972425"
-    ],
-    [
-      "Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses",
-      "https://news.ycombinator.com/item?id=43972425"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "RPG in a Box",
       "https://rpginabox.com/"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 07:49:18",
-      "https://news.ycombinator.com/item?id=43943928"
-    ],
-    [
-      "EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs",
-      "https://github.com/em-llm/EM-LLM-model"
     ]
   ],
   [
