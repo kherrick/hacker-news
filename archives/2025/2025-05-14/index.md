@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 21:01:15](https://news.ycombinator.com/item?id=43989173) - [StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
 * [2025-05-14, 19:54:31](https://news.ycombinator.com/item?id=43988533) - [Show HN: Semantic Calculator (King-Man+woman=?)](https://calc.datova.ai)
 * [2025-05-14, 19:38:26](https://news.ycombinator.com/item?id=43988381) - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
 * [2025-05-14, 19:29:38](https://news.ycombinator.com/item?id=43988315) - [The Perverse Incentives of Vibe Coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
