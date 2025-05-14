@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-05-14, 13:44:02",
-      "https://news.ycombinator.com/item?id=43984461"
+      "2025-05-14, 13:57:07",
+      "https://news.ycombinator.com/item?id=43984614"
     ],
     [
-      "Entrepreneurial Spawning from Remote Work",
-      "https://www.nber.org/papers/w33774"
+      "ESP WebRTC Solution Release v1.0",
+      "https://github.com/espressif/esp-webrtc-solution/releases/tag/v1.0.0"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 13:28:24",
+      "https://news.ycombinator.com/item?id=43984297"
+    ],
+    [
+      "SMS 2FA is not just insecure, it's also hostile to mountain people",
+      "https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people"
     ]
   ],
   [
@@ -17,6 +27,26 @@
     [
       "The U.S. Nuclear Base Hidden Under Greenland's Ice for Decades",
       "https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 13:08:26",
+      "https://news.ycombinator.com/item?id=43984097"
+    ],
+    [
+      "How the economics of multitenancy work",
+      "https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 12:53:31",
+      "https://news.ycombinator.com/item?id=43983941"
+    ],
+    [
+      "\"Google wanted that\": Nextcloud decries Android permissions as \"gatekeeping\"",
+      "https://arstechnica.com/gadgets/2025/05/nextcloud-accuses-google-of-big-tech-gatekeeping-over-android-app-permissions/"
     ]
   ],
   [
@@ -41,6 +71,16 @@
   ],
   [
     [
+      "2025-05-14, 11:52:37",
+      "https://news.ycombinator.com/item?id=43983385"
+    ],
+    [
+      "FlowG – Distributed Systems without raft (part 2)",
+      "https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 10:11:56",
       "https://news.ycombinator.com/item?id=43982784"
     ],
@@ -61,12 +101,12 @@
   ],
   [
     [
-      "2025-05-14, 09:07:02",
-      "https://news.ycombinator.com/item?id=43982463"
+      "2025-05-14, 08:32:05",
+      "https://news.ycombinator.com/item?id=43982238"
     ],
     [
-      "Developers, Don't Despair, Big Tech and AI Hype Is Off the Rails Again",
-      "https://cicero.sh/forums/thread/developers-don-t-despair-big-tech-and-ai-hype-is-off-the-rails-again-000007"
+      "$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder",
+      "https://www.memorysafety.org/blog/rav1d-perf-bounty/"
     ]
   ],
   [
@@ -77,6 +117,16 @@
     [
       "How to Build a Smartwatch: Picking a Chip",
       "https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 06:51:37",
+      "https://news.ycombinator.com/item?id=43981603"
+    ],
+    [
+      "Show HN: Sam TTS – Recreates the classic Microsoft SAM voice in the browser",
+      "https://samtts.com"
     ]
   ],
   [
@@ -171,16 +221,6 @@
   ],
   [
     [
-      "2025-05-13, 15:01:09",
-      "https://news.ycombinator.com/item?id=43973721"
-    ],
-    [
-      "PDF to Text, a challenging problem",
-      "https://www.marginalia.nu/log/a_119_pdf/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 14:30:35",
       "https://news.ycombinator.com/item?id=43973395"
     ],
@@ -191,52 +231,22 @@
   ],
   [
     [
+      "2025-05-13, 13:30:21",
+      "https://news.ycombinator.com/item?id=43972757"
+    ],
+    [
+      "How “The Great Gatsby” took over high school",
+      "https://www.newyorker.com/books/page-turner/how-the-great-gatsby-took-over-high-school"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 12:56:42",
       "https://news.ycombinator.com/item?id=43972425"
     ],
     [
       "Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses",
       "https://news.ycombinator.com/item?id=43972425"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 11:28:49",
-      "https://news.ycombinator.com/item?id=43971716"
-    ],
-    [
-      "Multiple security issues in GNU Screen",
-      "https://www.openwall.com/lists/oss-security/2025/05/12/1"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 16:35:42",
-      "https://news.ycombinator.com/item?id=43964896"
-    ],
-    [
-      "The Internet 1997–2021",
-      "https://www.opte.org/the-internet"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 18:31:52",
-      "https://news.ycombinator.com/item?id=43955868"
-    ],
-    [
-      "Biological Organisation as Closure of Constraints",
-      "https://www.sciencedirect.com/science/article/abs/pii/S0022519315001009"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 05:17:14",
-      "https://news.ycombinator.com/item?id=43951604"
-    ],
-    [
-      "Mipmap selection in too much detail",
-      "https://pema.dev/2025/05/09/mipmaps-too-much-detail/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Interferometer Device Sees Text from a Mile Away",
       "https://physics.aps.org/articles/v18/99"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 13:51:53",
-      "https://news.ycombinator.com/item?id=43945628"
-    ],
-    [
-      "Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit",
-      "https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit"
     ]
   ],
   [
