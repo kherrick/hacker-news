@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 16:27:48](https://news.ycombinator.com/item?id=43986424) - [Our Narrative Prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
+* [2025-05-14, 16:27:15](https://news.ycombinator.com/item?id=43986417) - [Ask HN: How are you cleaning and transforming data before imports/uploads?](https://news.ycombinator.com/item?id=43986417)
 * [2025-05-14, 15:52:21](https://news.ycombinator.com/item?id=43985994) - [Launch HN: Jazzberry (YC X25) – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
 * [2025-05-14, 15:50:30](https://news.ycombinator.com/item?id=43985971) - [The Server That Wasn't Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
+* [2025-05-14, 15:47:11](https://news.ycombinator.com/item?id=43985930) - [DeepMind unveils 'spectacular' general-purpose science AI](https://www.nature.com/articles/d41586-025-01523-z)
 * [2025-05-14, 15:40:17](https://news.ycombinator.com/item?id=43985861) - [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/)
 * [2025-05-14, 15:19:41](https://news.ycombinator.com/item?id=43985624) - [Show HN: Lumier – Run macOS VMs in a Docker](https://github.com/trycua/cua/tree/main/libs/lumier)
 * [2025-05-14, 15:12:53](https://news.ycombinator.com/item?id=43985527) - [Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US)
