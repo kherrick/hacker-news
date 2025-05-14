@@ -37,6 +37,7 @@
 * [2025-05-13, 15:29:18](https://news.ycombinator.com/item?id=43974026) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 * [2025-05-13, 15:27:47](https://news.ycombinator.com/item?id=43974005) - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
+* [2025-05-13, 14:43:46](https://news.ycombinator.com/item?id=43973541) - [We Made CUDA Optimization Suck Less](https://www.rightnowai.co/)
 * [2025-05-13, 14:42:02](https://news.ycombinator.com/item?id=43973518) - [Understanding Java's Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
 * [2025-05-13, 14:39:58](https://news.ycombinator.com/item?id=43973502) - [Chrome's New Embedding Model: Smaller, Faster, Same Quality](https://dejan.ai/blog/chromes-new-embedding-model/)
 * [2025-05-13, 14:30:35](https://news.ycombinator.com/item?id=43973395) - [Google’s unfinished DeX-like desktop mode for Android](https://tech.yahoo.com/phones/articles/first-look-google-unfinished-dex-181424457.html)
