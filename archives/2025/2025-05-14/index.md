@@ -10,6 +10,7 @@
 * [2025-05-14, 13:27:04](https://news.ycombinator.com/item?id=43984275) - [The U.S. Nuclear Base Hidden Under Greenland's Ice for Decades](https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea)
 * [2025-05-14, 13:08:26](https://news.ycombinator.com/item?id=43984097) - [How the Economics of Multitenancy Work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
 * [2025-05-14, 12:53:31](https://news.ycombinator.com/item?id=43983941) - [\"Google wanted that\": Nextcloud decries Android permissions as \"gatekeeping\"](https://arstechnica.com/gadgets/2025/05/nextcloud-accuses-google-of-big-tech-gatekeeping-over-android-app-permissions/)
+* [2025-05-14, 12:52:13](https://news.ycombinator.com/item?id=43983928) - [The A.I. Radiologist Will Not Be with You Soon](https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html)
 * [2025-05-14, 12:46:39](https://news.ycombinator.com/item?id=43983871) - [What Is HDR, Anyway?](https://www.lux.camera/what-is-hdr/)
 * [2025-05-14, 11:59:41](https://news.ycombinator.com/item?id=43983455) - [E-COM: The time the USPS spent $40M subsidizing junk (e)mail](https://buttondown.com/blog/the-e-com-story)
 * [2025-05-14, 11:52:37](https://news.ycombinator.com/item?id=43983385) - [FlowG – Distributed Systems without raft (part 2)](https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db)
