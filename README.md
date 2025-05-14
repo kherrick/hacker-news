@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-14, 19:38:26](https://news.ycombinator.com/item?id=43988381) - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
+* [2025-05-14, 19:29:38](https://news.ycombinator.com/item?id=43988315) - [The Perverse Incentives of Vibe Coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
 * [2025-05-14, 19:04:41](https://news.ycombinator.com/item?id=43988116) - [David Hilbert's radio address (2014)](https://old.maa.org/press/periodicals/convergence/david-hilberts-radio-address)
 * [2025-05-14, 18:37:32](https://news.ycombinator.com/item?id=43987814) - [Various Things in MetaPost (2019)](https://habr.com/en/articles/454376/)
 * [2025-05-14, 18:32:15](https://news.ycombinator.com/item?id=43987742) - [The Pigeon Whistle: A Defining Sound of Old Beijing (2019)](http://www.chinatoday.com.cn/ctenglish/2018/cs/201911/t20191129_800186426.html)
@@ -23,7 +24,6 @@
 * [2025-05-14, 05:38:00](https://news.ycombinator.com/item?id=43981170) - [The recently lost file upload feature in the Nextcloud app for Android](https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/)
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 * [2025-05-14, 04:19:00](https://news.ycombinator.com/item?id=43980760) - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
-* [2025-05-13, 22:25:29](https://news.ycombinator.com/item?id=43978435) - [Flattening Rust’s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 * [2025-05-13, 11:22:28](https://news.ycombinator.com/item?id=43971685) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
 * [2025-05-11, 20:53:23](https://news.ycombinator.com/item?id=43957072) - [The overlooked masterpiece full of coded messages about World War One](https://www.bbc.com/culture/article/20250423-the-masterpiece-full-of-coded-messages-about-ww1)
