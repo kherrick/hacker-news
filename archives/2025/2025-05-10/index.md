@@ -60,6 +60,7 @@
 * [2025-05-10, 10:40:49](https://news.ycombinator.com/item?id=43944639) - [Policy of Transience](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/)
 * [2025-05-10, 10:18:54](https://news.ycombinator.com/item?id=43944526) - [A Typical Workday at a Japanese Hardware Tool Store [video]](https://www.youtube.com/watch?v=A98jyfB5mws)
 * [2025-05-10, 10:04:47](https://news.ycombinator.com/item?id=43944467) - [The Deathbed Fallacy](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html)
+* [2025-05-10, 08:52:47](https://news.ycombinator.com/item?id=43944199) - [RPG in a Box](https://rpginabox.com/)
 * [2025-05-10, 08:45:59](https://news.ycombinator.com/item?id=43944167) - [Cosmos 482 Descent Craft tracker](http://astria.tacc.utexas.edu/AstriaGraph/)
 * [2025-05-10, 08:43:27](https://news.ycombinator.com/item?id=43944154) - [CT scans show cigarettes are harder on the lungs than marijuana](https://healthimaging.com/topics/medical-imaging/computed-tomography-ct/ct-scans-dont-lie-cigarettes-are-harder-lungs-marijuana)
 * [2025-05-10, 08:12:05](https://news.ycombinator.com/item?id=43944016) - [After 16 years, we're renewing the StackOverflow Brand](https://meta.stackexchange.com/questions/408823/after-16-years-we-re-renewing-the-brand)

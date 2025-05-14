@@ -7,9 +7,7 @@
 * [2025-05-13, 23:34:07](https://news.ycombinator.com/item?id=43979063) - [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
 * [2025-05-13, 22:25:29](https://news.ycombinator.com/item?id=43978435) - [Flattening Rust’s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 * [2025-05-13, 22:15:30](https://news.ycombinator.com/item?id=43978357) - [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
-* [2025-05-13, 22:12:11](https://news.ycombinator.com/item?id=43978333) - [How (memory) safe is Zig? (2021)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2025-05-13, 21:49:42](https://news.ycombinator.com/item?id=43978155) - [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
-* [2025-05-13, 20:09:54](https://news.ycombinator.com/item?id=43977147) - [Using obscure graph theory to solve programming languages problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build real-time knowledge graph for documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 19:17:54](https://news.ycombinator.com/item?id=43976557) - [Airbnb is in midlife crisis mode](https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/)
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
@@ -28,8 +26,10 @@
 * [2025-05-11, 05:17:14](https://news.ycombinator.com/item?id=43951604) - [Mipmap selection in too much detail](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
 * [2025-05-10, 13:46:20](https://news.ycombinator.com/item?id=43945585) - [Coffee for people who don't like coffee](https://ostwilkens.se/blog/coffee)
+* [2025-05-10, 13:33:00](https://news.ycombinator.com/item?id=43945483) - [Membrane: Media Framework for Elixir](https://membrane.stream/)
 * [2025-05-10, 13:23:35](https://news.ycombinator.com/item?id=43945423) - [Garbage collection of object storage at scale](https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale)
 * [2025-05-10, 10:41:21](https://news.ycombinator.com/item?id=43944640) - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
+* [2025-05-10, 08:52:47](https://news.ycombinator.com/item?id=43944199) - [RPG in a Box](https://rpginabox.com/)
 
 ## [Archives](archives/index.md)
 
