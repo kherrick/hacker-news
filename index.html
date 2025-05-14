@@ -129,6 +129,78 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43988381">
+          <h3>
+            <a class="item" href="https://github.com/pig-dot-dev/muscle-mem"
+              >Show HN: Muscle-Mem, a behavior cache for AI agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-14 @ 19:38:26</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43988381"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Erik here from Pig.dev, and today I'd like to share a new
+                project we've just open sourced:
+              </p>
+              <p>
+                Muscle Mem is an SDK that records your agent's tool-calling
+                patterns as it solves tasks, and will deterministically replay
+                those learned trajectories whenever the task is encountered
+                again, falling back to agent mode if edge cases are detected.
+                Like a JIT compiler, for behaviors.
+              </p>
+              <p>
+                At Pig, we built computer-use agents for automating legacy
+                Windows applications (healthcare, lending, manufacturing, etc).
+              </p>
+              <p>
+                A recurring theme we ran into was that businesses
+                <i>already</i> had RPA (pure-software scripts), and it worked
+                for them in most cases. The pull to agents as an RPA alternative
+                was <i>not</i> to have an infinitely flexible "AI Employees" as
+                tech Twitter/X may want you to think, but simply because their
+                RPA breaks under occasional edge-cases and agents can gracefully
+                handle those cases.
+              </p>
+              <p>
+                Using a pure-agent approach proved to be highly wasteful.
+                Window's accessibility APIs are poor, so you're generally stuck
+                using pure-vision agents, which can run around $40/hr in token
+                costs and take 5x longer than a human to perform a workflow. At
+                this point, you're better off hiring a human.
+              </p>
+              <p>
+                The goal of Muscle-Mem is to get LLMs out of the hot path of
+                repetitive automations, intelligently swapping between
+                script-based execution for repeat cases, and agent-based
+                automations for discovery and self-healing.
+              </p>
+              <p>
+                While inspired by computer-use environments, Muscle Mem is
+                designed to generalize to any automation performing discrete
+                tasks in dynamic environments. It took a great deal of thought
+                to figure out an API that generalizes, which I cover more deeply
+                in this blog:
+                <a href="https://erikdunteman.com/blog/muscle-mem/"
+                  >https://erikdunteman.com/blog/muscle-mem/</a
+                >
+              </p>
+              <p>
+                Check out the repo, consider giving it a star, or dive deeper
+                into the above blog. I look forward to your feedback!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43988116">
           <h3>
             <a
@@ -141,7 +213,7 @@
             <h4>
               <span>2025-05-14 @ 19:04:41</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43988116"
                   >Comments</a
@@ -160,7 +232,7 @@
             <h4>
               <span>2025-05-14 @ 18:37:32</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43987814"
                   >Comments</a
@@ -181,11 +253,11 @@
             <h4>
               <span>2025-05-14 @ 18:32:15</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43987742"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -202,11 +274,11 @@
             <h4>
               <span>2025-05-14 @ 18:09:52</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43987525"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -223,11 +295,11 @@
             <h4>
               <span>2025-05-14 @ 17:05:30</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43986833"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -262,11 +334,11 @@
             <h4>
               <span>2025-05-14 @ 16:27:48</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43986424"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -285,7 +357,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985994"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">
@@ -376,7 +448,7 @@
             <h4>
               <span>2025-05-14 @ 15:50:30</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985971"
                   >Comments</a
@@ -397,11 +469,11 @@
             <h4>
               <span>2025-05-14 @ 15:40:17</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985861"
                   >Comments</a
-                ><span class="descendants">: 157</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -418,7 +490,7 @@
             <h4>
               <span>2025-05-14 @ 15:19:41</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985624"
                   >Comments</a
@@ -606,11 +678,11 @@
             <h4>
               <span>2025-05-14 @ 15:10:15</span
               ><span class="points-container"
-                >Points: <span class="points">406</span></span
+                >Points: <span class="points">415</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985489"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
             <div class="text">
@@ -634,11 +706,11 @@
             <h4>
               <span>2025-05-14 @ 13:28:24</span
               ><span class="points-container"
-                >Points: <span class="points">292</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43984297"
                   >Comments</a
-                ><span class="descendants">: 231</span></span
+                ><span class="descendants">: 232</span></span
               >
             </h4>
           </section>
@@ -655,7 +727,7 @@
             <h4>
               <span>2025-05-14 @ 13:08:26</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43984097"
                   >Comments</a
@@ -674,11 +746,11 @@
             <h4>
               <span>2025-05-14 @ 12:46:39</span
               ><span class="points-container"
-                >Points: <span class="points">366</span></span
+                >Points: <span class="points">373</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43983871"
                   >Comments</a
-                ><span class="descendants">: 190</span></span
+                ><span class="descendants">: 192</span></span
               >
             </h4>
           </section>
@@ -695,11 +767,11 @@
             <h4>
               <span>2025-05-14 @ 11:22:39</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43983159"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -720,7 +792,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43982777"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 155</span></span
               >
             </h4>
           </section>
@@ -737,7 +809,7 @@
             <h4>
               <span>2025-05-14 @ 07:02:54</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43981680"
                   >Comments</a
@@ -759,7 +831,7 @@
             <h4>
               <span>2025-05-14 @ 05:38:00</span
               ><span class="points-container"
-                >Points: <span class="points">319</span></span
+                >Points: <span class="points">322</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43981170"
                   >Comments</a
@@ -778,11 +850,11 @@
             <h4>
               <span>2025-05-14 @ 04:33:21</span
               ><span class="points-container"
-                >Points: <span class="points">399</span></span
+                >Points: <span class="points">402</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43980845"
                   >Comments</a
-                ><span class="descendants">: 285</span></span
+                ><span class="descendants">: 288</span></span
               >
             </h4>
           </section>
@@ -797,11 +869,11 @@
             <h4>
               <span>2025-05-14 @ 04:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">349</span></span
+                >Points: <span class="points">350</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43980760"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -822,7 +894,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43978435"
                   >Comments</a
-                ><span class="descendants">: 337</span></span
+                ><span class="descendants">: 338</span></span
               >
             </h4>
           </section>
@@ -859,11 +931,11 @@
             <h4>
               <span>2025-05-13 @ 11:07:29</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971620"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -881,7 +953,7 @@
             <h4>
               <span>2025-05-11 @ 20:53:23</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43957072"
                   >Comments</a
@@ -900,33 +972,11 @@
             <h4>
               <span>2025-05-11 @ 18:28:46</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43955834"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43950693">
-          <h3>
-            <a
-              class="item"
-              href="https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html"
-              >Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach
-              Messages</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-11 @ 02:10:33</span
-              ><span class="points-container"
-                >Points: <span class="points">34</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43950693"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -941,11 +991,11 @@
             <h4>
               <span>2025-05-10 @ 14:05:14</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43945733"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -960,11 +1010,11 @@
             <h4>
               <span>2025-05-10 @ 13:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">216</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43945477"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
