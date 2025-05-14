@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-05-14, 21:01:15",
+      "https://news.ycombinator.com/item?id=43989173"
+    ],
+    [
+      "StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard",
+      "https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 19:54:31",
       "https://news.ycombinator.com/item?id=43988533"
     ],
     [
-      "Show HN: Semantic Calculator (King-Man+woman=?)",
+      "Show HN: Semantic Calculator (king-man+woman=?)",
       "https://calc.datova.ai"
     ]
   ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Muscle-Mem, a behavior cache for AI agents",
       "https://github.com/pig-dot-dev/muscle-mem"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 19:29:38",
+      "https://news.ycombinator.com/item?id=43988315"
+    ],
+    [
+      "Perverse incentives of vibe coding",
+      "https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2025-05-14, 17:01:33",
-      "https://news.ycombinator.com/item?id=43986792"
-    ],
-    [
-      "Artie (YC S23) Is Hiring a Senior Product Marketing Manager (SF)",
-      "https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 16:27:48",
       "https://news.ycombinator.com/item?id=43986424"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-05-14, 15:12:53",
-      "https://news.ycombinator.com/item?id=43985527"
-    ],
-    [
-      "Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally",
-      "https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 15:10:15",
       "https://news.ycombinator.com/item?id=43985489"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=43983871"
     ],
     [
-      "What Is HDR, Anyway?",
+      "What is HDR, anyway?",
       "https://www.lux.camera/what-is-hdr/"
     ]
   ],
@@ -185,8 +185,18 @@
       "https://news.ycombinator.com/item?id=43983159"
     ],
     [
-      "The Cryptography Behind Passkeys",
+      "The cryptography behind passkeys",
       "https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 10:11:56",
+      "https://news.ycombinator.com/item?id=43982784"
+    ],
+    [
+      "UK's Ancient Tree Inventory",
+      "https://ati.woodlandtrust.org.uk/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-05-14, 04:19:00",
-      "https://news.ycombinator.com/item?id=43980760"
-    ],
-    [
-      "Writing that changed how I think about programming languages",
-      "https://bernsteinbear.com/blog/pl-writing/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 14:43:46",
       "https://news.ycombinator.com/item?id=43973541"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-05-11, 18:28:46",
-      "https://news.ycombinator.com/item?id=43955834"
+      "2025-05-13, 10:43:20",
+      "https://news.ycombinator.com/item?id=43971515"
     ],
     [
-      "TwoFold (2f), CLI text expander/template engine",
-      "https://github.com/ShinyTrinkets/twofold.ts"
+      "Changes since congestion pricing started in New York",
+      "https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-05-10, 13:32:00",
-      "https://news.ycombinator.com/item?id=43945477"
+      "2025-05-09, 14:11:05",
+      "https://news.ycombinator.com/item?id=43936992"
     ],
     [
-      "Ash Framework – Model your domain, derive the rest",
-      "https://ash-hq.org/"
+      "Updated rate limits for unauthenticated requests",
+      "https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/"
     ]
   ]
 ]
