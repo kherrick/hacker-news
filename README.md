@@ -21,7 +21,7 @@
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple security issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
 * [2025-05-12, 14:32:25](https://news.ycombinator.com/item?id=43963434) - [The great displacement is already well underway?](https://shawnfromportland.substack.com/p/the-great-displacement-is-already)
-* [2025-05-11, 17:22:45](https://news.ycombinator.com/item?id=43955277) - [A visual history of the safety pin](https://museumofeverydaylife.org/current-exhibitions/a-visual-history-of-the-safety-pin)
+* [2025-05-11, 08:50:13](https://news.ycombinator.com/item?id=43952398) - [Vircadia, a Bun and PostgreSQL-powered reactivity layer for games](https://vircadia.com/)
 * [2025-05-11, 06:38:27](https://news.ycombinator.com/item?id=43951885) - [I learned Snobol and then wrote a toy Forth](https://ratfactor.com/snobol/)
 * [2025-05-11, 05:17:14](https://news.ycombinator.com/item?id=43951604) - [Mipmap selection in too much detail](https://pema.dev/2025/05/09/mipmaps-too-much-detail/)
 * [2025-05-10, 13:51:53](https://news.ycombinator.com/item?id=43945628) - [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)

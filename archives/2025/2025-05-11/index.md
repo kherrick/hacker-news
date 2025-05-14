@@ -49,6 +49,7 @@
 * [2025-05-11, 10:15:08](https://news.ycombinator.com/item?id=43952746) - [Zig, the Ideal C Replacement Or?](http://bitshifters.cc/2025/05/04/zig.html)
 * [2025-05-11, 10:08:53](https://news.ycombinator.com/item?id=43952714) - [The Epochalypse Project](https://epochalypse-project.org/)
 * [2025-05-11, 10:07:22](https://news.ycombinator.com/item?id=43952707) - [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df)
+* [2025-05-11, 08:50:13](https://news.ycombinator.com/item?id=43952398) - [Vircadia, a Bun and PostgreSQL-powered reactivity layer for games](https://vircadia.com/)
 * [2025-05-11, 08:50:00](https://news.ycombinator.com/item?id=43952396) - [A first successful factorization of RSA-2048 integer by D-Wave quantum computer](https://www.sciopen.com/article/10.26599/TST.2024.9010028)
 * [2025-05-11, 08:14:50](https://news.ycombinator.com/item?id=43952254) - [Most AI spending driven by FOMO, not ROI, CEOs tell IBM](https://www.theregister.com/2025/05/06/ibm_ai_investments/)
 * [2025-05-11, 08:10:38](https://news.ycombinator.com/item?id=43952239) - [Build iOS Apps on Linux and Windows (WSL)](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803)
