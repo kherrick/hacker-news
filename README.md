@@ -2,12 +2,12 @@
 
 * [2025-05-14, 02:17:33](https://news.ycombinator.com/item?id=43980036) - [I failed a take-home assignment from Kagi Search](https://bloggeroo.dev/articles/202504031434)
 * [2025-05-14, 01:55:59](https://news.ycombinator.com/item?id=43979916) - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
-* [2025-05-14, 01:07:23](https://news.ycombinator.com/item?id=43979646) - [DeepSeek’s founder is threatening US dominance in AI race](https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
 * [2025-05-14, 00:10:51](https://news.ycombinator.com/item?id=43979322) - [Map of Palaeohispanic Coins and Inscriptions](http://hesperia.ucm.es/consulta_hesperia/mapas.php)
 * [2025-05-13, 23:34:07](https://news.ycombinator.com/item?id=43979063) - [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
 * [2025-05-13, 22:25:29](https://news.ycombinator.com/item?id=43978435) - [Flattening Rust’s learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 * [2025-05-13, 22:15:30](https://news.ycombinator.com/item?id=43978357) - [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
 * [2025-05-13, 21:49:42](https://news.ycombinator.com/item?id=43978155) - [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
+* [2025-05-13, 20:09:54](https://news.ycombinator.com/item?id=43977147) - [Using obscure graph theory to solve programming languages problems](https://reasonablypolymorphic.com/blog/solving-lcsa/)
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build real-time knowledge graph for documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 19:17:54](https://news.ycombinator.com/item?id=43976557) - [Airbnb is in midlife crisis mode](https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/)
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
