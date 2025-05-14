@@ -14,6 +14,7 @@
 * [2025-05-10, 20:48:01](https://news.ycombinator.com/item?id=43948869) - [Has anyone coined the term “fast tech” yet?](https://chaos.social/@gsuberland/114485304658708399)
 * [2025-05-10, 20:18:19](https://news.ycombinator.com/item?id=43948633) - [Show HN: PLAttice, for assembling structures much larger than the 3D printer bed](https://zachfred.in/projects/plattice/plattice.html)
 * [2025-05-10, 19:39:57](https://news.ycombinator.com/item?id=43948291) - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
+* [2025-05-10, 19:35:14](https://news.ycombinator.com/item?id=43948244) - [When graphic design saves lives](https://news.harvard.edu/gazette/story/2025/05/when-graphic-design-saves-lives/)
 * [2025-05-10, 19:20:03](https://news.ycombinator.com/item?id=43948130) - [Pope Leo XIV: \"AI poses new challenges re: human dignity, justice and labour\"](https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html)
 * [2025-05-10, 19:11:10](https://news.ycombinator.com/item?id=43948077) - [AI AI is draining water from areas that need it most](https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data)
 * [2025-05-10, 19:07:32](https://news.ycombinator.com/item?id=43948050) - [Email Forwarding for Your Domain](https://mailwip.com)
