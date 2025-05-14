@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-14, 19:54:31",
+      "https://news.ycombinator.com/item?id=43988533"
+    ],
+    [
+      "Show HN: Semantic Calculator (King-Man+woman=?)",
+      "https://calc.datova.ai"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 19:38:26",
       "https://news.ycombinator.com/item?id=43988381"
     ],
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2025-05-13, 14:43:46",
+      "https://news.ycombinator.com/item?id=43973541"
+    ],
+    [
+      "We Made CUDA Optimization Suck Less",
+      "https://www.rightnowai.co/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 11:22:28",
       "https://news.ycombinator.com/item?id=43971685"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-05-11, 18:28:46",
-      "https://news.ycombinator.com/item?id=43955834"
-    ],
-    [
-      "TwoFold (2f), CLI text expander/template engine",
-      "https://github.com/ShinyTrinkets/twofold.ts"
-    ]
-  ],
-  [
-    [
       "2025-05-10, 14:05:14",
       "https://news.ycombinator.com/item?id=43945733"
     ],
     [
       "Interferometer Device Sees Text from a Mile Away",
       "https://physics.aps.org/articles/v18/99"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 13:32:00",
-      "https://news.ycombinator.com/item?id=43945477"
-    ],
-    [
-      "Ash Framework – Model your domain, derive the rest",
-      "https://ash-hq.org/"
     ]
   ]
 ]
