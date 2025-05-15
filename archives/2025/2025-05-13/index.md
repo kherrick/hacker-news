@@ -65,6 +65,7 @@
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple Security Issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
 * [2025-05-13, 11:22:40](https://news.ycombinator.com/item?id=43971688) - [Show HN: Basecoat – shadcn/UI components, no React required](https://news.ycombinator.com/item?id=43971688)
 * [2025-05-13, 11:22:28](https://news.ycombinator.com/item?id=43971685) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
+* [2025-05-13, 11:20:49](https://news.ycombinator.com/item?id=43971678) - [ML-Enhanced Code Completion Improves Developer Productivity (2022)](https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
 * [2025-05-13, 11:00:33](https://news.ycombinator.com/item?id=43971599) - [Ports that are blocked by browsers](https://www.keenformatics.com/ports-that-are-blocked-by-browsers)
 * [2025-05-13, 10:44:41](https://news.ycombinator.com/item?id=43971523) - [Show HN: Why hanging out on Hacker News is a good use of your time?](https://www.parliant.ai/surveys/e31a7442-080b-4921-bfa4-457ef0b974ec)

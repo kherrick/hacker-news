@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 21:22:02](https://news.ycombinator.com/item?id=43999460) - [Dolphin whistle decoders win $100k interspecies communication prize](https://www.theguardian.com/world/2025/may/15/us-scientists-who-deciphered-dolphin-whistles-win-prize-for-animal-communication)
+* [2025-05-15, 20:41:20](https://news.ycombinator.com/item?id=43999125) - [Stack Overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – a music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
 * [2025-05-15, 19:46:38](https://news.ycombinator.com/item?id=43998597) - [Old and Small Technology](https://www.complete.org/old-and-small-technology/)
 * [2025-05-15, 19:33:44](https://news.ycombinator.com/item?id=43998472) - [The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop)

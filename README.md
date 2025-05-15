@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-15, 21:22:02](https://news.ycombinator.com/item?id=43999460) - [Dolphin whistle decoders win $100k interspecies communication prize](https://www.theguardian.com/world/2025/may/15/us-scientists-who-deciphered-dolphin-whistles-win-prize-for-animal-communication)
+* [2025-05-15, 20:41:20](https://news.ycombinator.com/item?id=43999125) - [Stack Overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
 * [2025-05-15, 19:46:38](https://news.ycombinator.com/item?id=43998597) - [Old and Small Technology](https://www.complete.org/old-and-small-technology/)
 * [2025-05-15, 19:33:44](https://news.ycombinator.com/item?id=43998472) - [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
@@ -7,7 +9,6 @@
 * [2025-05-15, 18:53:55](https://news.ycombinator.com/item?id=43998115) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:43:43](https://news.ycombinator.com/item?id=43998008) - [Dr. Dobb's Journal Interviews Jef Raskin (1986)](https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin)
 * [2025-05-15, 18:26:29](https://news.ycombinator.com/item?id=43997830) - [Harvard Law paid $27 for a copy of Magna Carta. It's an original](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html)
-* [2025-05-15, 18:15:28](https://news.ycombinator.com/item?id=43997728) - [Improving Naval Ship Acquisition](https://www.construction-physics.com/p/fixing-naval-ship-acquisition)
 * [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 * [2025-05-15, 17:30:03](https://news.ycombinator.com/item?id=43997286) - [Stop using REST for state synchronization (2024)](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/)
 * [2025-05-15, 17:00:07](https://news.ycombinator.com/item?id=43996980) - [Fetii (YC S22) Is Hiring](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii)
@@ -19,7 +20,6 @@
 * [2025-05-15, 15:45:43](https://news.ycombinator.com/item?id=43996243) - [Model Organisms Are Not Static](https://www.asimov.press/p/model-organisms-are-not-static)
 * [2025-05-15, 15:27:04](https://news.ycombinator.com/item?id=43996031) - [Wavelet Trees: An Introduction (2011)](https://www.alexbowe.com/wavelet-trees/)
 * [2025-05-15, 13:56:47](https://news.ycombinator.com/item?id=43995144) - [Demystifying Ruby: It's all about threads (2024)](https://blog.papey.fr/post/07-demystifying-ruby-01/)
-* [2025-05-15, 13:54:23](https://news.ycombinator.com/item?id=43995122) - [How we made billing backendless](https://useautumn.com/blog/backendless)
 * [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
 * [2025-05-15, 13:40:04](https://news.ycombinator.com/item?id=43994987) - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
 * [2025-05-15, 13:26:49](https://news.ycombinator.com/item?id=43994827) - [Show HN: Real-Time Gaussian Splatting](https://github.com/axbycc/LiveSplat)
@@ -28,8 +28,8 @@
 * [2025-05-14, 20:19:23](https://news.ycombinator.com/item?id=43988753) - [The Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
 * [2025-05-13, 15:24:26](https://news.ycombinator.com/item?id=43973964) - [A Tale of a Trailing Dot (2022)](https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/)
 * [2025-05-13, 13:03:51](https://news.ycombinator.com/item?id=43972485) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
+* [2025-05-13, 11:20:49](https://news.ycombinator.com/item?id=43971678) - [ML-Enhanced Code Completion Improves Developer Productivity (2022)](https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/)
 * [2025-05-13, 08:29:10](https://news.ycombinator.com/item?id=43970768) - [The Fastest Way yet to Color Graphs](https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/)
-* [2025-05-11, 16:28:19](https://news.ycombinator.com/item?id=43954858) - [A Rust API Inspired by Python, Powered by Serde](https://ohadravid.github.io/posts/2025-05-serde-reflect/)
 
 ## [Archives](archives/index.md)
 
