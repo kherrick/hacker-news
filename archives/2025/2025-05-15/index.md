@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 02:57:19](https://news.ycombinator.com/item?id=43991396) - [Human](https://quarter--mile.com/Human)
 * [2025-05-15, 02:28:42](https://news.ycombinator.com/item?id=43991256) - [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
 * [2025-05-15, 01:53:11](https://news.ycombinator.com/item?id=43991091) - [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
 * [2025-05-15, 01:14:44](https://news.ycombinator.com/item?id=43990868) - [Show HN: YapCards (iOS) – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-15, 02:57:19](https://news.ycombinator.com/item?id=43991396) - [Human](https://quarter--mile.com/Human)
 * [2025-05-15, 02:28:42](https://news.ycombinator.com/item?id=43991256) - [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
 * [2025-05-15, 01:53:11](https://news.ycombinator.com/item?id=43991091) - [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
 * [2025-05-15, 01:14:44](https://news.ycombinator.com/item?id=43990868) - [Show HN: YapCards (iOS) – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)
@@ -21,14 +22,13 @@
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 * [2025-05-13, 20:45:53](https://news.ycombinator.com/item?id=43977515) - [Variadic Switch](https://pydong.org/posts/variadic-switch/)
 * [2025-05-13, 12:02:53](https://news.ycombinator.com/item?id=43971941) - [NASA Stennis Releases First Open-Source Software](https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/)
+* [2025-05-13, 11:49:56](https://news.ycombinator.com/item?id=43971853) - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
 * [2025-05-13, 10:43:20](https://news.ycombinator.com/item?id=43971515) - [Changes since congestion pricing started in New York](https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html)
-* [2025-05-13, 02:37:00](https://news.ycombinator.com/item?id=43969248) - [When the Ground Thaws (2018) [pdf]](https://static1.squarespace.com/static/5eba1f61b311ac0566822d5c/t/5f9902b77170ec769cc8f263/1603863229261/Alexis+Bonogofsky%C2%A0+_+highdesertjournal.pdf)
 * [2025-05-12, 20:59:10](https://news.ycombinator.com/item?id=43967405) - [Hegel 2.0: The imaginary history of ternary computing (2018)](https://www.cabinetmagazine.org/issues/65/weatherby.php)
 * [2025-05-12, 01:36:02](https://news.ycombinator.com/item?id=43958846) - [Python lib generates its code on-the-fly based on usage](https://github.com/cofob/autogenlib)
 * [2025-05-11, 23:34:12](https://news.ycombinator.com/item?id=43958190) - [Internet Scrabble Club (2002-)](https://isc.ro/)
 * [2025-05-11, 04:26:01](https://news.ycombinator.com/item?id=43951366) - [Getting Started with Celtic Coins – Crude and Barbarous, or Just Different?](https://collectingancientcoins.co.uk/getting-started-with-celtic-coins-crude-and-barbarous-or-just-different/)
-* [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-09, 14:11:05](https://news.ycombinator.com/item?id=43936992) - [Updated rate limits for unauthenticated requests](https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/)
 
 ## [Archives](archives/index.md)
