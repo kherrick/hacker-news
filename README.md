@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-15, 20:41:20](https://news.ycombinator.com/item?id=43999125) - [Stack Overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
+* [2025-05-15, 21:57:19](https://news.ycombinator.com/item?id=43999748) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
 * [2025-05-15, 19:46:38](https://news.ycombinator.com/item?id=43998597) - [Old and Small Technology](https://www.complete.org/old-and-small-technology/)
 * [2025-05-15, 19:33:44](https://news.ycombinator.com/item?id=43998472) - [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
