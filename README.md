@@ -3,7 +3,6 @@
 * [2025-05-15, 02:57:19](https://news.ycombinator.com/item?id=43991396) - [Human](https://quarter--mile.com/Human)
 * [2025-05-15, 02:28:42](https://news.ycombinator.com/item?id=43991256) - [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
 * [2025-05-15, 01:53:11](https://news.ycombinator.com/item?id=43991091) - [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
-* [2025-05-15, 01:14:44](https://news.ycombinator.com/item?id=43990868) - [Show HN: YapCards (iOS) – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)
 * [2025-05-15, 01:11:09](https://news.ycombinator.com/item?id=43990843) - [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
 * [2025-05-14, 21:39:45](https://news.ycombinator.com/item?id=43989497) - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
 * [2025-05-14, 21:01:15](https://news.ycombinator.com/item?id=43989173) - [StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
@@ -29,6 +28,7 @@
 * [2025-05-12, 01:36:02](https://news.ycombinator.com/item?id=43958846) - [Python lib generates its code on-the-fly based on usage](https://github.com/cofob/autogenlib)
 * [2025-05-11, 23:34:12](https://news.ycombinator.com/item?id=43958190) - [Internet Scrabble Club (2002-)](https://isc.ro/)
 * [2025-05-11, 04:26:01](https://news.ycombinator.com/item?id=43951366) - [Getting Started with Celtic Coins – Crude and Barbarous, or Just Different?](https://collectingancientcoins.co.uk/getting-started-with-celtic-coins-crude-and-barbarous-or-just-different/)
+* [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-09, 14:11:05](https://news.ycombinator.com/item?id=43936992) - [Updated rate limits for unauthenticated requests](https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/)
 
 ## [Archives](archives/index.md)
