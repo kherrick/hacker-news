@@ -15,7 +15,7 @@
 * [2025-05-14, 11:22:39](https://news.ycombinator.com/item?id=43983159) - [The cryptography behind passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
 * [2025-05-14, 10:10:00](https://news.ycombinator.com/item?id=43982777) - [Databricks acquires Neon](https://www.databricks.com/blog/databricks-neon)
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
-* [2025-05-13, 12:10:23](https://news.ycombinator.com/item?id=43972004) - [Fast machines, slow machines – Julio Merino (jmmv.dev)](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
+* [2025-05-13, 12:10:23](https://news.ycombinator.com/item?id=43972004) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2025-05-13, 12:02:53](https://news.ycombinator.com/item?id=43971941) - [NASA Stennis Releases First Open-Source Software](https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/)
 * [2025-05-13, 11:49:56](https://news.ycombinator.com/item?id=43971853) - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
