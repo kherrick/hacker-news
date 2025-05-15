@@ -37,6 +37,7 @@
 * [2025-05-13, 15:32:52](https://news.ycombinator.com/item?id=43974064) - [Tariffs Drive Honda to Move SUV Production from Canada to U.S.](https://www.nytimes.com/2025/05/13/world/americas/honda-trump-tariffs-us-canada.html)
 * [2025-05-13, 15:29:18](https://news.ycombinator.com/item?id=43974026) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 * [2025-05-13, 15:27:47](https://news.ycombinator.com/item?id=43974005) - [It Awaits Your Experiments](https://www.rifters.com/crawl/?p=11511)
+* [2025-05-13, 15:24:26](https://news.ycombinator.com/item?id=43973964) - [A Tale of a Trailing Dot (2022)](https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/)
 * [2025-05-13, 15:17:43](https://news.ycombinator.com/item?id=43973887) - [Radiance Contrasts at Possible Lunar Water Ice Exposures Seen by ShadowCam](https://iopscience.iop.org/article/10.3847/PSJ/adb8d1)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
 * [2025-05-13, 14:43:46](https://news.ycombinator.com/item?id=43973541) - [We Made CUDA Optimization Suck Less](https://www.rightnowai.co/)
