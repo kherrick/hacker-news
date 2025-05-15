@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 15:52:21](https://news.ycombinator.com/item?id=43996307) - [Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom](https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html)
+* [2025-05-15, 15:49:19](https://news.ycombinator.com/item?id=43996277) - [How we built our docs site](https://trophy.so/blog/how-we-built-our-developer-docs-with-mintlify-fern)
+* [2025-05-15, 15:30:38](https://news.ycombinator.com/item?id=43996071) - [An Update on Fresh](https://deno.com/blog/an-update-on-fresh)
 * [2025-05-15, 15:27:04](https://news.ycombinator.com/item?id=43996031) - [Wavelet Trees: An Introduction (2011)](https://www.alexbowe.com/wavelet-trees/)
 * [2025-05-15, 14:13:25](https://news.ycombinator.com/item?id=43995302) - [California sent residents' personal health data to LinkedIn](https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin)
 * [2025-05-15, 13:54:23](https://news.ycombinator.com/item?id=43995122) - [How we made billing backendless](https://useautumn.com/blog/backendless)
