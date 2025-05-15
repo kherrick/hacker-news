@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-15, 21:22:02",
+      "https://news.ycombinator.com/item?id=43999460"
+    ],
+    [
+      "Dolphin whistle decoders win $100k interspecies communication prize",
+      "https://www.theguardian.com/world/2025/may/15/us-scientists-who-deciphered-dolphin-whistles-win-prize-for-animal-communication"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 20:41:20",
+      "https://news.ycombinator.com/item?id=43999125"
+    ],
+    [
+      "Stack Overflow is almost dead",
+      "https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 19:56:59",
       "https://news.ycombinator.com/item?id=43998707"
     ],
@@ -67,16 +87,6 @@
     [
       "Harvard Law paid $27 for a copy of Magna Carta. It's an original",
       "https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 18:15:28",
-      "https://news.ycombinator.com/item?id=43997728"
-    ],
-    [
-      "Improving Naval Ship Acquisition",
-      "https://www.construction-physics.com/p/fixing-naval-ship-acquisition"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-05-15, 13:54:23",
-      "https://news.ycombinator.com/item?id=43995122"
-    ],
-    [
-      "How we made billing backendless",
-      "https://useautumn.com/blog/backendless"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 13:41:37",
       "https://news.ycombinator.com/item?id=43995005"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-05-13, 11:20:49",
+      "https://news.ycombinator.com/item?id=43971678"
+    ],
+    [
+      "ML-Enhanced Code Completion Improves Developer Productivity (2022)",
+      "https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 08:29:10",
       "https://news.ycombinator.com/item?id=43970768"
     ],
     [
       "The Fastest Way yet to Color Graphs",
       "https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 16:28:19",
-      "https://news.ycombinator.com/item?id=43954858"
-    ],
-    [
-      "A Rust API Inspired by Python, Powered by Serde",
-      "https://ohadravid.github.io/posts/2025-05-serde-reflect/"
     ]
   ]
 ]
