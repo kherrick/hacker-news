@@ -29,7 +29,7 @@
 * [2025-05-13, 09:35:43](https://news.ycombinator.com/item?id=43971177) - [Working on complex systems: What I learned working at Google](https://www.thecoder.cafe/p/complex-systems)
 * [2025-05-13, 09:30:46](https://news.ycombinator.com/item?id=43971149) - [Self-hostable webhook tester in go](https://testwebhook.xyz)
 * [2025-05-12, 01:36:02](https://news.ycombinator.com/item?id=43958846) - [Python lib generates its code on-the-fly based on usage](https://github.com/cofob/autogenlib)
-* [2025-05-11, 16:49:10](https://news.ycombinator.com/item?id=43955024) - [Doom on the Oldest Digital Computer in America [video]](https://www.youtube.com/watch?v=no0CkQk7id0)
+* [2025-05-11, 16:28:19](https://news.ycombinator.com/item?id=43954858) - [A Rust API Inspired by Python, Powered by Serde](https://ohadravid.github.io/posts/2025-05-serde-reflect/)
 
 ## [Archives](archives/index.md)
 
