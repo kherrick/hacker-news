@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
 * [2025-05-15, 21:57:19](https://news.ycombinator.com/item?id=43999748) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
+* [2025-05-15, 21:27:10](https://news.ycombinator.com/item?id=43999492) - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 * [2025-05-15, 21:22:02](https://news.ycombinator.com/item?id=43999460) - [Dolphin whistle decoders win $100k interspecies communication prize](https://www.theguardian.com/world/2025/may/15/us-scientists-who-deciphered-dolphin-whistles-win-prize-for-animal-communication)
 * [2025-05-15, 20:41:20](https://news.ycombinator.com/item?id=43999125) - [Stack Overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – a music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
