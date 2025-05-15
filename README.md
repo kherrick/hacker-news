@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-15, 13:54:23](https://news.ycombinator.com/item?id=43995122) - [How we made billing backendless](https://useautumn.com/blog/backendless)
 * [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
+* [2025-05-15, 13:40:04](https://news.ycombinator.com/item?id=43994987) - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
 * [2025-05-15, 13:26:49](https://news.ycombinator.com/item?id=43994827) - [Show HN: Real-Time Gaussian Splatting](https://github.com/axbycc/LiveSplat)
 * [2025-05-15, 13:22:14](https://news.ycombinator.com/item?id=43994779) - [Forget IPs: using cryptography to verify bot and agent traffic](https://blog.cloudflare.com/web-bot-auth/)
 * [2025-05-15, 13:20:28](https://news.ycombinator.com/item?id=43994765) - [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
@@ -18,7 +20,6 @@
 * [2025-05-14, 12:46:39](https://news.ycombinator.com/item?id=43983871) - [What is HDR, anyway?](https://www.lux.camera/what-is-hdr/)
 * [2025-05-14, 11:22:39](https://news.ycombinator.com/item?id=43983159) - [The cryptography behind passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
 * [2025-05-14, 10:10:00](https://news.ycombinator.com/item?id=43982777) - [Databricks acquires Neon](https://www.databricks.com/blog/databricks-neon)
-* [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 * [2025-05-13, 13:03:51](https://news.ycombinator.com/item?id=43972485) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-13, 12:10:23](https://news.ycombinator.com/item?id=43972004) - [Fast machines, slow machines (2023)](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2025-05-13, 12:02:53](https://news.ycombinator.com/item?id=43971941) - [NASA Stennis Releases First Open-Source Software](https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/)
@@ -27,7 +28,6 @@
 * [2025-05-13, 10:43:20](https://news.ycombinator.com/item?id=43971515) - [Changes since congestion pricing started in New York](https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html)
 * [2025-05-13, 09:35:43](https://news.ycombinator.com/item?id=43971177) - [Working on complex systems: What I learned working at Google](https://www.thecoder.cafe/p/complex-systems)
 * [2025-05-13, 09:30:46](https://news.ycombinator.com/item?id=43971149) - [Self-hostable webhook tester in go](https://testwebhook.xyz)
-* [2025-05-13, 09:19:07](https://news.ycombinator.com/item?id=43971068) - [Lightweight open source reCaptcha alternative](https://github.com/altcha-org/altcha)
 * [2025-05-12, 01:36:02](https://news.ycombinator.com/item?id=43958846) - [Python lib generates its code on-the-fly based on usage](https://github.com/cofob/autogenlib)
 * [2025-05-11, 16:49:10](https://news.ycombinator.com/item?id=43955024) - [Doom on the Oldest Digital Computer in America [video]](https://www.youtube.com/watch?v=no0CkQk7id0)
 

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 13:54:23](https://news.ycombinator.com/item?id=43995122) - [How we made billing backendless](https://useautumn.com/blog/backendless)
 * [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
+* [2025-05-15, 13:40:04](https://news.ycombinator.com/item?id=43994987) - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
 * [2025-05-15, 13:26:49](https://news.ycombinator.com/item?id=43994827) - [Show HN: Real-Time Gaussian Splatting](https://github.com/axbycc/LiveSplat)
 * [2025-05-15, 13:22:14](https://news.ycombinator.com/item?id=43994779) - [Forget IPs: using cryptography to verify bot and agent traffic](https://blog.cloudflare.com/web-bot-auth/)
 * [2025-05-15, 13:20:28](https://news.ycombinator.com/item?id=43994765) - [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
