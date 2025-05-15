@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-15, 19:09:14](https://news.ycombinator.com/item?id=43998269) - [October the First Is Too Late](https://gwern.net/fiction/october)
 * [2025-05-15, 18:53:55](https://news.ycombinator.com/item?id=43998115) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:43:43](https://news.ycombinator.com/item?id=43998008) - [Dr. Dobb's Journal Interviews Jef Raskin (1986)](https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin)
 * [2025-05-15, 18:36:22](https://news.ycombinator.com/item?id=43997932) - [New paradigm for psychology just dropped](https://www.experimental-history.com/p/new-paradigm-for-psychology-just)
@@ -14,7 +15,6 @@
 * [2025-05-15, 15:52:21](https://news.ycombinator.com/item?id=43996307) - [Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom](https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html)
 * [2025-05-15, 15:45:43](https://news.ycombinator.com/item?id=43996243) - [Model Organisms Are Not Static](https://www.asimov.press/p/model-organisms-are-not-static)
 * [2025-05-15, 15:27:04](https://news.ycombinator.com/item?id=43996031) - [Wavelet Trees: An Introduction (2011)](https://www.alexbowe.com/wavelet-trees/)
-* [2025-05-15, 14:59:40](https://news.ycombinator.com/item?id=43995767) - [ARB Assembly Shader Programming (2023)](https://mid.net.ua/posts/glarbasm.html)
 * [2025-05-15, 14:13:25](https://news.ycombinator.com/item?id=43995302) - [California sent residents' personal health data to LinkedIn](https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin)
 * [2025-05-15, 13:56:47](https://news.ycombinator.com/item?id=43995144) - [Demystifying Ruby (1/3): It's all about threads](https://blog.papey.fr/post/07-demystifying-ruby-01/)
 * [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
