@@ -24,11 +24,11 @@
 * [2025-05-15, 12:32:15](https://news.ycombinator.com/item?id=43994333) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
 * [2025-05-15, 02:57:19](https://news.ycombinator.com/item?id=43991396) - [Human](https://quarter--mile.com/Human)
 * [2025-05-14, 15:10:15](https://news.ycombinator.com/item?id=43985489) - [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
+* [2025-05-13, 15:17:43](https://news.ycombinator.com/item?id=43973887) - [Radiance Contrasts at Possible Lunar Water Ice Exposures Seen by ShadowCam](https://iopscience.iop.org/article/10.3847/PSJ/adb8d1)
 * [2025-05-13, 13:03:51](https://news.ycombinator.com/item?id=43972485) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-13, 11:49:56](https://news.ycombinator.com/item?id=43971853) - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 * [2025-05-13, 09:35:43](https://news.ycombinator.com/item?id=43971177) - [Working on complex systems: What I learned working at Google](https://www.thecoder.cafe/p/complex-systems)
 * [2025-05-13, 08:29:10](https://news.ycombinator.com/item?id=43970768) - [The Fastest Way yet to Color Graphs](https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/)
-* [2025-05-12, 01:36:02](https://news.ycombinator.com/item?id=43958846) - [Python lib generates its code on-the-fly based on usage](https://github.com/cofob/autogenlib)
 * [2025-05-11, 16:28:19](https://news.ycombinator.com/item?id=43954858) - [A Rust API Inspired by Python, Powered by Serde](https://ohadravid.github.io/posts/2025-05-serde-reflect/)
 
 ## [Archives](archives/index.md)
