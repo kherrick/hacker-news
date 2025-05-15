@@ -129,6 +129,187 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43996597">
+          <h3>
+            <a
+              class="item"
+              href="https://thepointmag.com/examined-life/gateway-books/"
+              >Gateway Books: The lessons of a defunct canon</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-15 @ 16:23:17</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43996597"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43996555">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43996555"
+              >Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-15 @ 16:19:00</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43996555"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://tinfoil.sh">https://tinfoil.sh</a>. We host
+              models and AI workloads on the cloud while guaranteeing zero data
+              access and retention. This lets us run open-source LLMs like
+              Llama, or Deepseek R1 on cloud GPUs without you having to trust
+              us—or any cloud provider—with private data.
+              <p>
+                Since AI performs better the more context you give it, we think
+                solving AI privacy will unlock more valuable AI applications,
+                just how TLS on the Internet enabled e-commerce to flourish
+                knowing that your credit card info wouldn't be stolen by someone
+                sniffing internet packets.
+              </p>
+              <p>
+                We come from backgrounds in cryptography, security, and
+                infrastructure. Jules did his PhD in trusted hardware and
+                confidential computing at MIT, and worked with NVIDIA and
+                Microsoft Research on the same, Sacha did his PhD in
+                privacy-preserving cryptography at MIT, Nate worked on privacy
+                tech like Tor, and I (Tanya) was on Cloudflare's cryptography
+                team. We were unsatisfied with band-aid techniques like PII
+                redaction (which is actually undesirable in some cases like AI
+                personal assistants) or “pinky promise” security through legal
+                contracts like DPAs. We wanted a real solution that replaced
+                trust with provable security.
+              </p>
+              <p>
+                Running models locally or on-prem is an option, but can be
+                expensive and inconvenient. Fully Homomorphic Encryption (FHE)
+                is not practical for LLM inference for the foreseeable future.
+                The next best option is using secure enclaves: a secure
+                environment on the chip that no other software running on the
+                host machine can access. This lets us perform LLM inference in
+                the cloud while being able to prove that no one, not even
+                Tinfoil or the cloud provider, can access the data. And because
+                these security mechanisms are implemented in hardware, there is
+                minimal performance overhead.
+              </p>
+              <p>
+                Even though we (Tinfoil) control the host machine, we do not
+                have any visibility into the data processed inside of the
+                enclave. At a high level, a secure enclave is a set of cores
+                that are reserved, isolated, and locked down to create a
+                sectioned off area. Everything that comes out of the enclave is
+                encrypted: memory and network traffic, but also peripheral
+                (PCIe) traffic to other devices such as the GPU. These
+                encryptions are performed using secret keys that are generated
+                inside the enclave during setup, which never leave its
+                boundaries. Additionally, a “hardware root of trust” baked into
+                the chip lets clients check security claims and verify that all
+                security mechanisms are in place.
+              </p>
+              <p>
+                Up until recently, secure enclaves were only available on CPUs.
+                But NVIDIA confidential computing recently added these
+                hardware-based capabilities to their latest GPUs, making it
+                possible to run GPU-based workloads in a secure enclave.
+              </p>
+              <p>Here’s how it works in a nutshell:</p>
+              <p>
+                1. We publish the code that should run inside the secure enclave
+                to Github, as well as a hash of the compiled binary to a
+                transparency log called Sigstore
+              </p>
+              <p>
+                2. Before sending data to the enclave, the client fetches a
+                signed document from the enclave which includes a hash of the
+                running code signed by the CPU manufacturer. It then verifies
+                the signature with the hardware manufacturer to prove the
+                hardware is genuine. Then the client fetches a hash of the
+                source code from a transparency log (Sigstore) and checks that
+                the hash equals the one we got from the enclave. This lets the
+                client get verifiable proof that the enclave is running the
+                exact code we claim.
+              </p>
+              <p>
+                3. With the assurance that the enclave environment is what we
+                expect, the client sends its data to the enclave, which travels
+                encrypted (TLS) and is only decrypted inside the enclave.
+              </p>
+              <p>
+                4. Processing happens entirely within this protected
+                environment. Even an attacker that controls the host machine
+                can’t access this data. We believe making end-to-end
+                verifiability a “first class citizen” is key. Secure enclaves
+                have traditionally been used to remove trust from the cloud
+                provider, not necessarily from the application provider. This is
+                evidenced by confidential VM technologies such as Azure
+                Confidential VM allowing ssh access by the host into the
+                confidential VM. Our goal is to provably remove trust both from
+                ourselves, aka the application provider, as well as the cloud
+                provider.
+              </p>
+              <p>
+                We encourage you to be skeptical of our privacy claims.
+                Verifiability is our answer. It’s not just us saying it’s
+                private; the hardware and cryptography let you check. Here’s a
+                guide that walks you through the verification process:
+                <a
+                  href="https://docs.tinfoil.sh/verification/attestation-architecture"
+                  >https://docs.tinfoil.sh/verification/attestation-architectur...</a
+                >.
+              </p>
+              <p>
+                People are using us for analyzing sensitive docs, building
+                copilots for proprietary code, and processing user data in
+                agentic AI applications without the privacy risks that
+                previously blocked cloud AI adoption.
+              </p>
+              <p>We’re excited to share Tinfoil with HN!</p>
+              <p>
+                * Try the chat (<a href="https://tinfoil.sh/chat"
+                  >https://tinfoil.sh/chat</a
+                >): It verifies attestation with an in-browser check. Free,
+                limited messages, $20/month for unlimited messages and
+                additional models
+              </p>
+              <p>
+                * Use the API (<a href="https://tinfoil.sh/inference"
+                  >https://tinfoil.sh/inference</a
+                >): OpenAI API compatible interface. $2 / 1M tokens
+              </p>
+              <p>
+                * Take your existing Docker image and make it end to end
+                confidential by deploying on Tinfoil. Here's a demo of how you
+                could use Tinfoil to run a deepfake detection service that could
+                run securely on people's private videos:
+                <a href="https://www.youtube.com/watch?v=_8hLmqoutyk"
+                  >https://www.youtube.com/watch?v=_8hLmqoutyk</a
+                >. Note: This feature is not currently self-serve.
+              </p>
+              <p>
+                * Reach out to us at contact@tinfoil.sh if you want to run a
+                different model or want to deploy a custom application, or if
+                you just want to learn more!
+              </p>
+              <p>
+                Let us know what you think, we’d love to hear about your
+                experiences and ideas in this space!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43996307">
           <h3>
             <a
@@ -142,32 +323,32 @@
             <h4>
               <span>2025-05-15 @ 15:52:21</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43996307"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="43996277">
+        <section id="43996241">
           <h3>
             <a
               class="item"
-              href="https://trophy.so/blog/how-we-built-our-developer-docs-with-mintlify-fern"
-              >How we built our docs site</a
+              href="https://marcjenkins.co.uk/conflicted-about-ai/"
+              >I've never been so conflicted about a technology</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-05-15 @ 15:49:19</span
+              <span>2025-05-15 @ 15:45:32</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43996277"
+                ><a href="https://news.ycombinator.com/item?id=43996241"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -182,11 +363,11 @@
             <h4>
               <span>2025-05-15 @ 15:30:38</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43996071"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -222,11 +403,11 @@
             <h4>
               <span>2025-05-15 @ 14:13:25</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43995302"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -241,11 +422,11 @@
             <h4>
               <span>2025-05-15 @ 13:41:37</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43995005"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -260,11 +441,11 @@
             <h4>
               <span>2025-05-15 @ 13:40:04</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43994987"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -279,7 +460,7 @@
             <h4>
               <span>2025-05-15 @ 13:26:49</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43994827"
                   >Comments</a
@@ -306,7 +487,7 @@
             <h4>
               <span>2025-05-15 @ 13:22:14</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43994779"
                   >Comments</a
@@ -327,11 +508,11 @@
             <h4>
               <span>2025-05-15 @ 13:20:28</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43994765"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -350,7 +531,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43994635"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -367,11 +548,11 @@
             <h4>
               <span>2025-05-15 @ 12:32:15</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43994333"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -393,27 +574,6 @@
             </h4>
           </section>
         </section>
-        <section id="43993897">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/"
-              >In the US, a rotating detonation rocket engine takes flight</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-15 @ 11:29:22</span
-              ><span class="points-container"
-                >Points: <span class="points">60</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43993897"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43991396">
           <h3>
             <a class="item" href="https://quarter--mile.com/Human">Human</a>
@@ -422,7 +582,7 @@
             <h4>
               <span>2025-05-15 @ 02:57:19</span
               ><span class="points-container"
-                >Points: <span class="points">573</span></span
+                >Points: <span class="points">577</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43991396"
                   >Comments</a
@@ -441,39 +601,13 @@
             <h4>
               <span>2025-05-15 @ 02:28:42</span
               ><span class="points-container"
-                >Points: <span class="points">325</span></span
+                >Points: <span class="points">327</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43991256"
                   >Comments</a
                 ><span class="descendants">: 200</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43988533">
-          <h3>
-            <a class="item" href="https://calc.datova.ai"
-              >Show HN: Semantic Calculator (king-man+woman=?)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-14 @ 19:54:31</span
-              ><span class="points-container"
-                >Points: <span class="points">158</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43988533"
-                  >Comments</a
-                ><span class="descendants">: 165</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                For now, I only have nouns (and some proper nouns) in the
-                dataset, and pick the most common interpretation among the
-                homographs. Also, it's case sensitive.
-              </p>
-            </div>
           </section>
         </section>
         <section id="43988381">
@@ -486,11 +620,11 @@
             <h4>
               <span>2025-05-14 @ 19:38:26</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43988381"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
             <div class="text">
@@ -556,11 +690,11 @@
             <h4>
               <span>2025-05-14 @ 15:50:30</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">379</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985971"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -578,7 +712,7 @@
             <h4>
               <span>2025-05-14 @ 15:10:15</span
               ><span class="points-container"
-                >Points: <span class="points">933</span></span
+                >Points: <span class="points">934</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985489"
                   >Comments</a
@@ -603,7 +737,7 @@
             <h4>
               <span>2025-05-14 @ 12:46:39</span
               ><span class="points-container"
-                >Points: <span class="points">719</span></span
+                >Points: <span class="points">722</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43983871"
                   >Comments</a
@@ -622,11 +756,11 @@
             <h4>
               <span>2025-05-13 @ 13:03:51</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43972485"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -643,11 +777,11 @@
             <h4>
               <span>2025-05-13 @ 12:10:23</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43972004"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -662,11 +796,11 @@
             <h4>
               <span>2025-05-13 @ 11:49:56</span
               ><span class="points-container"
-                >Points: <span class="points">507</span></span
+                >Points: <span class="points">515</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971853"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -682,11 +816,11 @@
             <h4>
               <span>2025-05-13 @ 11:07:29</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971620"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -703,11 +837,11 @@
             <h4>
               <span>2025-05-13 @ 10:43:20</span
               ><span class="points-container"
-                >Points: <span class="points">385</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971515"
                   >Comments</a
-                ><span class="descendants">: 546</span></span
+                ><span class="descendants">: 551</span></span
               >
             </h4>
           </section>
@@ -722,7 +856,7 @@
             <h4>
               <span>2025-05-13 @ 09:35:43</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971177"
                   >Comments</a
@@ -731,21 +865,23 @@
             </h4>
           </section>
         </section>
-        <section id="43971068">
+        <section id="43970768">
           <h3>
-            <a class="item" href="https://github.com/altcha-org/altcha"
-              >Lightweight open source reCaptcha alternative</a
+            <a
+              class="item"
+              href="https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/"
+              >The Fastest Way yet to Color Graphs</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-05-13 @ 09:19:07</span
+              <span>2025-05-13 @ 08:29:10</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43971068"
+                ><a href="https://news.ycombinator.com/item?id=43970768"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -760,11 +896,11 @@
             <h4>
               <span>2025-05-12 @ 01:36:02</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43958846"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -781,11 +917,11 @@
             <h4>
               <span>2025-05-11 @ 16:28:19</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43954858"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
