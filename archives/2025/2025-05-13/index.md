@@ -73,6 +73,7 @@
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
 * [2025-05-13, 10:02:46](https://news.ycombinator.com/item?id=43971314) - [Show HN: A5](https://github.com/felixpalmer/a5)
 * [2025-05-13, 09:41:04](https://news.ycombinator.com/item?id=43971197) - [Low-intensity transcranial focused ultrasound amygdala neuromodulation](https://www.nature.com/articles/s41380-025-03033-w)
+* [2025-05-13, 09:37:55](https://news.ycombinator.com/item?id=43971185) - [Comparing floating-point numbers (2012)](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)
 * [2025-05-13, 09:37:46](https://news.ycombinator.com/item?id=43971184) - [Finding Beauty and Truth in Mundane Occurrences](https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/)
 * [2025-05-13, 09:35:43](https://news.ycombinator.com/item?id=43971177) - [Working on Complex Systems: What I Learned Working at Google](https://www.thecoder.cafe/p/complex-systems)
 * [2025-05-13, 09:30:46](https://news.ycombinator.com/item?id=43971149) - [Self-hostable webhook tester in go](https://testwebhook.xyz)

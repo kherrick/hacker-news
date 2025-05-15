@@ -18,7 +18,6 @@
 * [2025-05-15, 15:46:26](https://news.ycombinator.com/item?id=43996251) - [Show HN: Undetectag, track stolen items with AirTag](https://undetectag.com/)
 * [2025-05-15, 15:27:04](https://news.ycombinator.com/item?id=43996031) - [Wavelet Trees: An Introduction (2011)](https://www.alexbowe.com/wavelet-trees/)
 * [2025-05-15, 13:56:47](https://news.ycombinator.com/item?id=43995144) - [Demystifying Ruby: It's all about threads (2024)](https://blog.papey.fr/post/07-demystifying-ruby-01/)
-* [2025-05-15, 13:54:23](https://news.ycombinator.com/item?id=43995122) - [How we made billing backendless](https://useautumn.com/blog/backendless)
 * [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
 * [2025-05-15, 13:40:04](https://news.ycombinator.com/item?id=43994987) - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
 * [2025-05-15, 13:26:49](https://news.ycombinator.com/item?id=43994827) - [Show HN: Real-Time Gaussian Splatting](https://github.com/axbycc/LiveSplat)
@@ -29,6 +28,7 @@
 * [2025-05-13, 15:24:26](https://news.ycombinator.com/item?id=43973964) - [A Tale of a Trailing Dot (2022)](https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/)
 * [2025-05-13, 13:03:51](https://news.ycombinator.com/item?id=43972485) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-13, 11:20:49](https://news.ycombinator.com/item?id=43971678) - [ML-Enhanced Code Completion Improves Developer Productivity (2022)](https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/)
+* [2025-05-13, 09:37:55](https://news.ycombinator.com/item?id=43971185) - [Comparing floating-point numbers (2012)](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)
 * [2025-05-13, 08:29:10](https://news.ycombinator.com/item?id=43970768) - [The Fastest Way yet to Color Graphs](https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/)
 
 ## [Archives](archives/index.md)
