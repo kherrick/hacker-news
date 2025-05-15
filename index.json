@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-05-15, 05:24:43",
-      "https://news.ycombinator.com/item?id=43992100"
-    ],
-    [
-      "Moving Forth: a series on writing Forth kernels",
-      "https://www.bradrodriguez.com/papers/index.html"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 02:57:19",
       "https://news.ycombinator.com/item?id=43991396"
     ],
@@ -277,6 +267,16 @@
     [
       "Self-hostable webhook tester in go",
       "https://testwebhook.xyz"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 09:19:07",
+      "https://news.ycombinator.com/item?id=43971068"
+    ],
+    [
+      "Lightweight open source reCaptcha alternative",
+      "https://github.com/altcha-org/altcha"
     ]
   ],
   [
