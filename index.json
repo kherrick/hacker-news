@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-05-15, 17:00:07",
+      "https://news.ycombinator.com/item?id=43996980"
+    ],
+    [
+      "Fetii (YC S22) Is Hiring",
+      "https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 16:43:20",
       "https://news.ycombinator.com/item?id=43996796"
     ],
     [
       "Onfim's world: Child artists in history",
       "https://resobscura.substack.com/p/onfims-world-medieval-child-artists"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 16:37:41",
+      "https://news.ycombinator.com/item?id=43996736"
+    ],
+    [
+      "Researchers establish fundamental limit on how light bosonic dark matter can be",
+      "https://phys.org/news/2025-05-fundamental-limit-bosonic-dark.html"
     ]
   ],
   [
@@ -51,12 +71,22 @@
   ],
   [
     [
-      "2025-05-15, 15:49:19",
-      "https://news.ycombinator.com/item?id=43996277"
+      "2025-05-15, 15:46:26",
+      "https://news.ycombinator.com/item?id=43996251"
     ],
     [
-      "How we built our docs site",
-      "https://trophy.so/blog/how-we-built-our-developer-docs-with-mintlify-fern"
+      "Show HN: Undetectag, track stolen items with AirTag",
+      "https://undetectag.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 15:45:43",
+      "https://news.ycombinator.com/item?id=43996243"
+    ],
+    [
+      "Model Organisms Are Not Static",
+      "https://www.asimov.press/p/model-organisms-are-not-static"
     ]
   ],
   [
@@ -87,6 +117,16 @@
     [
       "Wavelet Trees: An Introduction (2011)",
       "https://www.alexbowe.com/wavelet-trees/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 14:59:40",
+      "https://news.ycombinator.com/item?id=43995767"
+    ],
+    [
+      "ARB Assembly Shader Programming (2023)",
+      "https://mid.net.ua/posts/glarbasm.html"
     ]
   ],
   [
@@ -151,42 +191,12 @@
   ],
   [
     [
-      "2025-05-15, 12:03:38",
-      "https://news.ycombinator.com/item?id=43994131"
-    ],
-    [
-      "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
-      "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 02:57:19",
       "https://news.ycombinator.com/item?id=43991396"
     ],
     [
       "Human",
       "https://quarter--mile.com/Human"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 02:28:42",
-      "https://news.ycombinator.com/item?id=43991256"
-    ],
-    [
-      "LLMs get lost in multi-turn conversation",
-      "https://arxiv.org/abs/2505.06120"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 19:38:26",
-      "https://news.ycombinator.com/item?id=43988381"
-    ],
-    [
-      "Show HN: Muscle-Mem, a behavior cache for AI agents",
-      "https://github.com/pig-dot-dev/muscle-mem"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Internet Artifacts",
       "https://neal.fun/internet-artifacts/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 11:07:29",
-      "https://news.ycombinator.com/item?id=43971620"
-    ],
-    [
-      "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
-      "https://github.com/git-bug/git-bug"
     ]
   ],
   [
