@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 18:53:55](https://news.ycombinator.com/item?id=43998115) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
+* [2025-05-15, 18:43:43](https://news.ycombinator.com/item?id=43998008) - [Dr. Dobb's Journal Interviews Jef Raskin (1986)](https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin)
+* [2025-05-15, 18:36:22](https://news.ycombinator.com/item?id=43997932) - [New paradigm for psychology just dropped](https://www.experimental-history.com/p/new-paradigm-for-psychology-just)
 * [2025-05-15, 18:26:29](https://news.ycombinator.com/item?id=43997830) - [Harvard Law Paid $27 for a Copy of Magna Carta. It's an Original](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html)
+* [2025-05-15, 18:15:28](https://news.ycombinator.com/item?id=43997728) - [Improving Naval Ship Acquisition](https://www.construction-physics.com/p/fixing-naval-ship-acquisition)
+* [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby Is Healed with First Personalized Gene-Editing Treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 * [2025-05-15, 17:00:07](https://news.ycombinator.com/item?id=43996980) - [Fetii (YC S22) Is Hiring](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii)
 * [2025-05-15, 16:43:20](https://news.ycombinator.com/item?id=43996796) - [Onfim's world: Child artists in history](https://resobscura.substack.com/p/onfims-world-medieval-child-artists)
 * [2025-05-15, 16:37:41](https://news.ycombinator.com/item?id=43996736) - [Researchers establish fundamental limit on how light bosonic dark matter can be](https://phys.org/news/2025-05-fundamental-limit-bosonic-dark.html)
