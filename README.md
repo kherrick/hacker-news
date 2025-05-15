@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-15, 09:01:17](https://news.ycombinator.com/item?id=43993140) - [The 'invisible crew' who have 35 seconds to prevent a Eurovision blunder](https://www.bbc.com/news/articles/c1e679vn6yqo)
 * [2025-05-15, 07:01:11](https://news.ycombinator.com/item?id=43992530) - [Tiptap (YC S23) Is Hiring](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager)
-* [2025-05-15, 06:43:03](https://news.ycombinator.com/item?id=43992444) - [EU ruling: tracking-based advertising [...] across Europe has no legal basis](https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/)
 * [2025-05-15, 06:38:13](https://news.ycombinator.com/item?id=43992420) - [Critical Warning for External Purchases in Apple App Store](https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/)
-* [2025-05-15, 06:16:42](https://news.ycombinator.com/item?id=43992306) - [Bitwarden registration flow failed – so I wrote a stand-up comedy set instead](https://github.com/MenstaDay/bitwarden-registration-theatre)
 * [2025-05-15, 02:57:19](https://news.ycombinator.com/item?id=43991396) - [Human](https://quarter--mile.com/Human)
 * [2025-05-15, 02:28:42](https://news.ycombinator.com/item?id=43991256) - [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
 * [2025-05-14, 21:39:45](https://news.ycombinator.com/item?id=43989497) - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
@@ -24,6 +23,7 @@
 * [2025-05-13, 09:35:43](https://news.ycombinator.com/item?id=43971177) - [Working on complex systems: What I learned working at Google](https://www.thecoder.cafe/p/complex-systems)
 * [2025-05-13, 09:30:46](https://news.ycombinator.com/item?id=43971149) - [Self-hostable webhook tester in go](https://testwebhook.xyz)
 * [2025-05-13, 09:19:07](https://news.ycombinator.com/item?id=43971068) - [Lightweight open source reCaptcha alternative](https://github.com/altcha-org/altcha)
+* [2025-05-13, 06:04:14](https://news.ycombinator.com/item?id=43969985) - [GM's new turbo engine rewrites the rules of torque control-and locks out tuners](https://www.carsandhorsepower.com/featured/gm-s-new-turbo-engine-patent-could-rewrite-the-rules-of-torque-control-and-lock-out-tuners-for-good)
 * [2025-05-12, 20:59:10](https://news.ycombinator.com/item?id=43967405) - [Hegel 2.0: The imaginary history of ternary computing (2018)](https://www.cabinetmagazine.org/issues/65/weatherby.php)
 * [2025-05-12, 01:36:02](https://news.ycombinator.com/item?id=43958846) - [Python lib generates its code on-the-fly based on usage](https://github.com/cofob/autogenlib)
 * [2025-05-11, 23:34:12](https://news.ycombinator.com/item?id=43958190) - [Internet Scrabble Club (2002-)](https://isc.ro/)
