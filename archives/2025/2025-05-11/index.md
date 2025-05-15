@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 23:34:12](https://news.ycombinator.com/item?id=43958190) - [isc.ro](https://isc.ro/)
 * [2025-05-11, 23:12:42](https://news.ycombinator.com/item?id=43958082) - [I hacked my clock to control my focus](https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/)
 * [2025-05-11, 21:54:40](https://news.ycombinator.com/item?id=43957481) - [Satellite will have to be turned off when it floats over the US](https://www.thecooldown.com/green-tech/biomass-satellite-carbon-capture-forests/)
 * [2025-05-11, 21:15:56](https://news.ycombinator.com/item?id=43957231) - [The surgeon who used F1 pitstop techniques to save lives of babies](https://www.thetimes.com/sport/formula-one/article/professor-martin-elliott-interview-surgeon-f1-pitstops-babies-ferrari-j3sbkjssk)
