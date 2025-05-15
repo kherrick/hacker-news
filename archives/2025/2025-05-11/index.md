@@ -47,6 +47,7 @@
 * [2025-05-11, 13:57:20](https://news.ycombinator.com/item?id=43953857) - [Designing Cities for Families](https://www.bloomberg.com/features/designing-cities-for-families/)
 * [2025-05-11, 13:34:02](https://news.ycombinator.com/item?id=43953723) - [Backdoor found in popular ecommerce components](https://sansec.io/research/license-backdoor)
 * [2025-05-11, 13:33:54](https://news.ycombinator.com/item?id=43953722) - [Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse](https://github.com/glassflow/clickhouse-etl)
+* [2025-05-11, 13:12:34](https://news.ycombinator.com/item?id=43953603) - [Clearly Incorrect](https://quarter--mile.com/Clearly-Incorrect)
 * [2025-05-11, 12:17:18](https://news.ycombinator.com/item?id=43953272) - [What the hell are rare earth elements?](https://media.hubspot.com/what-the-hell-are-rare-earth-elements)
 * [2025-05-11, 12:16:26](https://news.ycombinator.com/item?id=43953262) - [We Fixed 2k+ Security Issues (2023)](https://www.sudhishkr.com/posts/20230609_how-we-fixed-2kplus-security-issues/)
 * [2025-05-11, 12:08:24](https://news.ycombinator.com/item?id=43953229) - [A Rust Documentation Ecosystem Review](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
