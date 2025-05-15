@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 11:03:54](https://news.ycombinator.com/item?id=43993738) - [Tesla has yet to start testing its robotaxi without driver weeks before launch](https://electrek.co/2025/05/14/tesla-yet-start-testing-robotaxi-service-without-driver-weeks-before-launch/)
 * [2025-05-15, 10:22:17](https://news.ycombinator.com/item?id=43993548) - [UK becomes fastest-growing G7 economy](https://apnews.com/article/uk-economy-growth-g7-reeves-2d7b9761e53d3d490c3181a1fa89651b)
+* [2025-05-15, 09:37:51](https://news.ycombinator.com/item?id=43993332) - [XAI's Grok suddenly can't stop bringing up \"white genocide\" in South Africa](https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/)
 * [2025-05-15, 09:01:17](https://news.ycombinator.com/item?id=43993140) - [The 'invisible crew' who have 35 seconds to prevent a Eurovision blunder](https://www.bbc.com/news/articles/c1e679vn6yqo)
 * [2025-05-15, 07:01:11](https://news.ycombinator.com/item?id=43992530) - [Tiptap (YC S23) Is Hiring](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager)
 * [2025-05-15, 06:43:03](https://news.ycombinator.com/item?id=43992444) - [EU ruling: tracking-based advertising [...] across Europe has no legal basis](https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/)
