@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-05-15, 12:43:39",
-      "https://news.ycombinator.com/item?id=43994408"
+      "2025-05-15, 13:26:49",
+      "https://news.ycombinator.com/item?id=43994827"
     ],
     [
-      "CarPlay Ultra, the next generation of CarPlay, begins rolling out today",
-      "https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/"
+      "Show HN: Real-Time Gaussian Splatting",
+      "https://github.com/axbycc/LiveSplat"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 13:22:14",
+      "https://news.ycombinator.com/item?id=43994779"
+    ],
+    [
+      "Forget IPs: using cryptography to verify bot and agent traffic",
+      "https://blog.cloudflare.com/web-bot-auth/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 12:32:15",
+      "https://news.ycombinator.com/item?id=43994333"
+    ],
+    [
+      "Pathfinding",
+      "https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2025-05-15, 09:45:33",
-      "https://news.ycombinator.com/item?id=43993374"
+      "2025-05-15, 05:24:43",
+      "https://news.ycombinator.com/item?id=43992100"
     ],
     [
-      "Show HN: Kudos.wiki – Discover the best movies on Wikipedia",
-      "https://kudos.wiki"
+      "Moving Forth: a series on writing Forth kernels",
+      "https://www.bradrodriguez.com/papers/index.html"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "LLMs get lost in multi-turn conversation",
       "https://arxiv.org/abs/2505.06120"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 21:39:45",
-      "https://news.ycombinator.com/item?id=43989497"
-    ],
-    [
-      "Migrating to Postgres",
-      "https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2025-05-13, 13:03:51",
+      "https://news.ycombinator.com/item?id=43972485"
+    ],
+    [
+      "Lua for Elixir",
+      "https://davelucia.com/blog/lua-elixir"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 12:10:23",
       "https://news.ycombinator.com/item?id=43972004"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-05-11, 23:34:12",
-      "https://news.ycombinator.com/item?id=43958190"
-    ],
-    [
-      "Internet Scrabble Club (2002-)",
-      "https://isc.ro/"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 16:49:10",
       "https://news.ycombinator.com/item?id=43955024"
     ],
     [
       "Doom on the Oldest Digital Computer in America [video]",
       "https://www.youtube.com/watch?v=no0CkQk7id0"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 13:12:34",
-      "https://news.ycombinator.com/item?id=43953603"
-    ],
-    [
-      "Clearly Incorrect",
-      "https://quarter--mile.com/Clearly-Incorrect"
     ]
   ],
   [
