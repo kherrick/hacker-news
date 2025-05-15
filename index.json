@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-05-15, 09:01:17",
-      "https://news.ycombinator.com/item?id=43993140"
-    ],
-    [
-      "The 'invisible crew' who have 35 seconds to prevent a Eurovision blunder",
-      "https://www.bbc.com/news/articles/c1e679vn6yqo"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 07:01:11",
       "https://news.ycombinator.com/item?id=43992530"
     ],
@@ -67,6 +57,16 @@
     [
       "LLMs get lost in multi-turn conversation",
       "https://arxiv.org/abs/2505.06120"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 21:39:45",
+      "https://news.ycombinator.com/item?id=43989497"
+    ],
+    [
+      "Migrating to Postgres",
+      "https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-05-12, 20:59:10",
+      "https://news.ycombinator.com/item?id=43967405"
+    ],
+    [
+      "Hegel 2.0: The imaginary history of ternary computing (2018)",
+      "https://www.cabinetmagazine.org/issues/65/weatherby.php"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 01:36:02",
       "https://news.ycombinator.com/item?id=43958846"
     ],
     [
       "Python lib generates its code on-the-fly based on usage",
       "https://github.com/cofob/autogenlib"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 01:02:07",
-      "https://news.ycombinator.com/item?id=43958696"
-    ],
-    [
-      "Solved: What Is Microcode and Why You Need to Be Aware of It",
-      "https://www.urtech.ca/2025/02/solved-what-is-microcode-why-you-need-to-be-aware-of-it/"
     ]
   ],
   [
