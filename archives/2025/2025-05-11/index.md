@@ -31,6 +31,7 @@
 * [2025-05-11, 17:10:13](https://news.ycombinator.com/item?id=43955194) - [How a Quiet American Cardinal Became Pope](https://www.nytimes.com/2025/05/11/world/europe/conclave-vote-pope-leo-robert-prevost.html)
 * [2025-05-11, 17:01:13](https://news.ycombinator.com/item?id=43955117) - [Elizabeth Holmes's lover raises millions for blood-testing startup](https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup)
 * [2025-05-11, 17:00:00](https://news.ycombinator.com/item?id=43955106) - [Synder (YC S21) Is Hiring](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative)
+* [2025-05-11, 16:49:10](https://news.ycombinator.com/item?id=43955024) - [Doom on the Oldest Digital Computer in America [video]](https://www.youtube.com/watch?v=no0CkQk7id0)
 * [2025-05-11, 16:31:58](https://news.ycombinator.com/item?id=43954896) - [Plain Vanilla Web – Guide for de-frameworking yourself](https://plainvanillaweb.com/index.html)
 * [2025-05-11, 16:22:05](https://news.ycombinator.com/item?id=43954810) - [An $18M grant would have drastically reduced food waste. Then the EPA cut it](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/)
 * [2025-05-11, 15:57:39](https://news.ycombinator.com/item?id=43954649) - [I built a native Windows Todo app in pure C (278 KB, no frameworks)](https://github.com/Efeckc17/simple-todo-c)

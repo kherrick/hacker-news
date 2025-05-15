@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-15, 07:01:11](https://news.ycombinator.com/item?id=43992530) - [Tiptap (YC S23) Is Hiring](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager)
+* [2025-05-15, 06:43:03](https://news.ycombinator.com/item?id=43992444) - [EU ruling: tracking-based advertising [...] across Europe has no legal basis](https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/)
 * [2025-05-15, 06:38:13](https://news.ycombinator.com/item?id=43992420) - [Critical Warning for External Purchases in Apple App Store](https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/)
-* [2025-05-15, 05:25:38](https://news.ycombinator.com/item?id=43992109) - [EA Pushes Full Return to Office, Effectively Ends Remote Hiring](https://www.ign.com/articles/ea-pushes-full-return-to-office-effectively-ends-remote-hiring)
 * [2025-05-15, 02:57:19](https://news.ycombinator.com/item?id=43991396) - [Human](https://quarter--mile.com/Human)
 * [2025-05-15, 02:28:42](https://news.ycombinator.com/item?id=43991256) - [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
 * [2025-05-15, 01:53:11](https://news.ycombinator.com/item?id=43991091) - [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
@@ -16,7 +16,6 @@
 * [2025-05-14, 13:08:26](https://news.ycombinator.com/item?id=43984097) - [How the economics of multitenancy work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
 * [2025-05-14, 12:46:39](https://news.ycombinator.com/item?id=43983871) - [What is HDR, anyway?](https://www.lux.camera/what-is-hdr/)
 * [2025-05-14, 11:22:39](https://news.ycombinator.com/item?id=43983159) - [The cryptography behind passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
-* [2025-05-14, 10:11:56](https://news.ycombinator.com/item?id=43982784) - [UK's Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
 * [2025-05-14, 10:10:00](https://news.ycombinator.com/item?id=43982777) - [Databricks acquires Neon](https://www.databricks.com/blog/databricks-neon)
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 * [2025-05-13, 12:02:53](https://news.ycombinator.com/item?id=43971941) - [NASA Stennis Releases First Open-Source Software](https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/)
@@ -28,6 +27,7 @@
 * [2025-05-12, 20:59:10](https://news.ycombinator.com/item?id=43967405) - [Hegel 2.0: The imaginary history of ternary computing (2018)](https://www.cabinetmagazine.org/issues/65/weatherby.php)
 * [2025-05-12, 01:36:02](https://news.ycombinator.com/item?id=43958846) - [Python lib generates its code on-the-fly based on usage](https://github.com/cofob/autogenlib)
 * [2025-05-11, 23:34:12](https://news.ycombinator.com/item?id=43958190) - [Internet Scrabble Club (2002-)](https://isc.ro/)
+* [2025-05-11, 16:49:10](https://news.ycombinator.com/item?id=43955024) - [Doom on the Oldest Digital Computer in America [video]](https://www.youtube.com/watch?v=no0CkQk7id0)
 * [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
 * [2025-05-09, 14:11:05](https://news.ycombinator.com/item?id=43936992) - [Updated rate limits for unauthenticated requests](https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/)
 
