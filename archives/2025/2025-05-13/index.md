@@ -51,6 +51,7 @@
 * [2025-05-13, 13:22:17](https://news.ycombinator.com/item?id=43972660) - [FlyLoop – AI Agent for Scheduling Meetings and Managing Your Calendar](https://news.ycombinator.com/item?id=43972660)
 * [2025-05-13, 13:08:52](https://news.ycombinator.com/item?id=43972535) - [In a high-stress work environment, prioritize relationships](https://wqtz.bearblog.dev/high-stress-job-relationships/)
 * [2025-05-13, 13:04:36](https://news.ycombinator.com/item?id=43972493) - [How the United States Gave Up Being a Science Superpower](https://steveblank.com/2025/05/13/how-the-united-states-became-a-science-superpower-and-how-quickly-it-could-crumble/)
+* [2025-05-13, 13:03:51](https://news.ycombinator.com/item?id=43972485) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-13, 12:58:25](https://news.ycombinator.com/item?id=43972438) - [As US vuln-tracking falters, EU enters with its own security bug database](https://www.theregister.com/2025/05/13/eu_security_bug_database/)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
 * [2025-05-13, 12:49:54](https://news.ycombinator.com/item?id=43972360) - [We can no longer run Microsoft Store on 1809/LTSC 2019](https://github.com/fernvenue/microsoft-store)
