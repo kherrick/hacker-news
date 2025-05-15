@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – a music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
+* [2025-05-15, 19:46:38](https://news.ycombinator.com/item?id=43998597) - [Old and Small Technology](https://www.complete.org/old-and-small-technology/)
 * [2025-05-15, 19:33:44](https://news.ycombinator.com/item?id=43998472) - [The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop)
 * [2025-05-15, 19:28:01](https://news.ycombinator.com/item?id=43998423) - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
 * [2025-05-15, 18:53:55](https://news.ycombinator.com/item?id=43998115) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
@@ -18,7 +19,6 @@
 * [2025-05-15, 15:46:26](https://news.ycombinator.com/item?id=43996251) - [Show HN: Undetectag, track stolen items with AirTag](https://undetectag.com/)
 * [2025-05-15, 15:45:43](https://news.ycombinator.com/item?id=43996243) - [Model Organisms Are Not Static](https://www.asimov.press/p/model-organisms-are-not-static)
 * [2025-05-15, 15:27:04](https://news.ycombinator.com/item?id=43996031) - [Wavelet Trees: An Introduction (2011)](https://www.alexbowe.com/wavelet-trees/)
-* [2025-05-15, 13:56:47](https://news.ycombinator.com/item?id=43995144) - [Demystifying Ruby (1/3): It's all about threads](https://blog.papey.fr/post/07-demystifying-ruby-01/)
 * [2025-05-15, 13:54:23](https://news.ycombinator.com/item?id=43995122) - [How we made billing backendless](https://useautumn.com/blog/backendless)
 * [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
 * [2025-05-15, 13:40:04](https://news.ycombinator.com/item?id=43994987) - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
