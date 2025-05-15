@@ -70,6 +70,7 @@
 * [2025-05-13, 09:37:46](https://news.ycombinator.com/item?id=43971184) - [Finding Beauty and Truth in Mundane Occurrences](https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/)
 * [2025-05-13, 09:35:43](https://news.ycombinator.com/item?id=43971177) - [Working on Complex Systems: What I Learned Working at Google](https://www.thecoder.cafe/p/complex-systems)
 * [2025-05-13, 09:30:46](https://news.ycombinator.com/item?id=43971149) - [Self-hostable webhook tester in go](https://testwebhook.xyz)
+* [2025-05-13, 09:19:07](https://news.ycombinator.com/item?id=43971068) - [Lightweight open source reCaptcha alternative](https://github.com/altcha-org/altcha)
 * [2025-05-13, 09:02:02](https://news.ycombinator.com/item?id=43970959) - [Nextcloud cries foul over Google Play Store app rejection](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/)
 * [2025-05-13, 08:41:25](https://news.ycombinator.com/item?id=43970837) - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
 * [2025-05-13, 08:35:11](https://news.ycombinator.com/item?id=43970800) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
