@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-15, 02:28:42",
+      "https://news.ycombinator.com/item?id=43991256"
+    ],
+    [
+      "LLMs Get Lost in Multi-Turn Conversation",
+      "https://arxiv.org/abs/2505.06120"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 01:53:11",
+      "https://news.ycombinator.com/item?id=43991091"
+    ],
+    [
+      "MicroPython v1.25.0",
+      "https://github.com/micropython/micropython/releases/tag/v1.25.0"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 01:14:44",
       "https://news.ycombinator.com/item?id=43990868"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2025-05-14, 23:39:09",
-      "https://news.ycombinator.com/item?id=43990333"
+      "2025-05-15, 01:11:09",
+      "https://news.ycombinator.com/item?id=43990843"
     ],
     [
-      "Copaganda: How Police and the Media Manipulate Our News",
-      "https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news"
+      "Why agency and cognition are fundamentally not computational",
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-05-14, 19:29:38",
-      "https://news.ycombinator.com/item?id=43988315"
-    ],
-    [
-      "Perverse incentives of vibe coding",
-      "https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 17:05:30",
       "https://news.ycombinator.com/item?id=43986833"
     ],
@@ -107,26 +117,6 @@
     [
       "A server that wasn't meant to exist",
       "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 15:40:17",
-      "https://news.ycombinator.com/item?id=43985861"
-    ],
-    [
-      "Uber to introduce fixed-route shuttles in major US cities",
-      "https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 15:19:41",
-      "https://news.ycombinator.com/item?id=43985624"
-    ],
-    [
-      "Show HN: Lumier – Run macOS VMs in a Docker",
-      "https://github.com/trycua/cua/tree/main/libs/lumier"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=43982777"
     ],
     [
-      "Databricks and Neon",
+      "Databricks acquires Neon",
       "https://www.databricks.com/blog/databricks-neon"
     ]
   ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-05-13, 02:37:00",
+      "https://news.ycombinator.com/item?id=43969248"
+    ],
+    [
+      "When the Ground Thaws (2018) [pdf]",
+      "https://static1.squarespace.com/static/5eba1f61b311ac0566822d5c/t/5f9902b77170ec769cc8f263/1603863229261/Alexis+Bonogofsky%C2%A0+_+highdesertjournal.pdf"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 20:59:10",
       "https://news.ycombinator.com/item?id=43967405"
     ],
@@ -251,11 +251,21 @@
   ],
   [
     [
+      "2025-05-12, 01:36:02",
+      "https://news.ycombinator.com/item?id=43958846"
+    ],
+    [
+      "Python lib generates its code on-the-fly based on usage",
+      "https://github.com/cofob/autogenlib"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 23:34:12",
       "https://news.ycombinator.com/item?id=43958190"
     ],
     [
-      "isc.ro",
+      "Internet Scrabble Club (2002-)",
       "https://isc.ro/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Interferometer Device Sees Text from a Mile Away",
       "https://physics.aps.org/articles/v18/99"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 13:32:00",
-      "https://news.ycombinator.com/item?id=43945477"
-    ],
-    [
-      "Ash Framework – Model your domain, derive the rest",
-      "https://ash-hq.org/"
     ]
   ],
   [
