@@ -64,6 +64,7 @@
 * [2025-05-13, 11:22:40](https://news.ycombinator.com/item?id=43971688) - [Show HN: Basecoat – shadcn/UI components, no React required](https://news.ycombinator.com/item?id=43971688)
 * [2025-05-13, 11:22:28](https://news.ycombinator.com/item?id=43971685) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
+* [2025-05-13, 11:00:33](https://news.ycombinator.com/item?id=43971599) - [Ports that are blocked by browsers](https://www.keenformatics.com/ports-that-are-blocked-by-browsers)
 * [2025-05-13, 10:44:41](https://news.ycombinator.com/item?id=43971523) - [Show HN: Why hanging out on Hacker News is a good use of your time?](https://www.parliant.ai/surveys/e31a7442-080b-4921-bfa4-457ef0b974ec)
 * [2025-05-13, 10:43:20](https://news.ycombinator.com/item?id=43971515) - [Everything That Has Changed Since Congestion Pricing Started in New York](https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html)
 * [2025-05-13, 10:31:09](https://news.ycombinator.com/item?id=43971464) - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
