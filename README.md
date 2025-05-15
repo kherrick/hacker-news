@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
 * [2025-05-15, 13:26:49](https://news.ycombinator.com/item?id=43994827) - [Show HN: Real-Time Gaussian Splatting](https://github.com/axbycc/LiveSplat)
 * [2025-05-15, 13:22:14](https://news.ycombinator.com/item?id=43994779) - [Forget IPs: using cryptography to verify bot and agent traffic](https://blog.cloudflare.com/web-bot-auth/)
+* [2025-05-15, 13:20:28](https://news.ycombinator.com/item?id=43994765) - [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
+* [2025-05-15, 13:07:05](https://news.ycombinator.com/item?id=43994635) - [My Engineering Craft Regressed](https://lemmy.ml/post/30100312)
 * [2025-05-15, 12:32:15](https://news.ycombinator.com/item?id=43994333) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
 * [2025-05-15, 12:03:38](https://news.ycombinator.com/item?id=43994131) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2025-05-15, 11:29:22](https://news.ycombinator.com/item?id=43993897) - [In the US, a rotating detonation rocket engine takes flight](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/)
@@ -10,7 +13,6 @@
 * [2025-05-15, 02:28:42](https://news.ycombinator.com/item?id=43991256) - [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
 * [2025-05-14, 19:54:31](https://news.ycombinator.com/item?id=43988533) - [Show HN: Semantic Calculator (king-man+woman=?)](https://calc.datova.ai)
 * [2025-05-14, 19:38:26](https://news.ycombinator.com/item?id=43988381) - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
-* [2025-05-14, 16:27:48](https://news.ycombinator.com/item?id=43986424) - [Our narrative prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
 * [2025-05-14, 15:50:30](https://news.ycombinator.com/item?id=43985971) - [A server that wasn't meant to exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 * [2025-05-14, 15:10:15](https://news.ycombinator.com/item?id=43985489) - [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
 * [2025-05-14, 12:46:39](https://news.ycombinator.com/item?id=43983871) - [What is HDR, anyway?](https://www.lux.camera/what-is-hdr/)
@@ -28,8 +30,6 @@
 * [2025-05-13, 09:19:07](https://news.ycombinator.com/item?id=43971068) - [Lightweight open source reCaptcha alternative](https://github.com/altcha-org/altcha)
 * [2025-05-12, 01:36:02](https://news.ycombinator.com/item?id=43958846) - [Python lib generates its code on-the-fly based on usage](https://github.com/cofob/autogenlib)
 * [2025-05-11, 16:49:10](https://news.ycombinator.com/item?id=43955024) - [Doom on the Oldest Digital Computer in America [video]](https://www.youtube.com/watch?v=no0CkQk7id0)
-* [2025-05-10, 14:05:14](https://news.ycombinator.com/item?id=43945733) - [Interferometer Device Sees Text from a Mile Away](https://physics.aps.org/articles/v18/99)
-* [2025-05-09, 14:11:05](https://news.ycombinator.com/item?id=43936992) - [Updated rate limits for unauthenticated requests](https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/)
 
 ## [Archives](archives/index.md)
 
