@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 12:43:39](https://news.ycombinator.com/item?id=43994408) - [CarPlay Ultra, the next generation of CarPlay, begins rolling out today](https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/)
 * [2025-05-15, 12:12:57](https://news.ycombinator.com/item?id=43994208) - [They Paid $3,500 for Apple's Vision Pro. A Year Later, It Still Hurts](https://www.wsj.com/tech/they-paid-3-500-for-apples-vision-pro-a-year-later-it-still-hurts-496de341)
 * [2025-05-15, 12:03:38](https://news.ycombinator.com/item?id=43994131) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2025-05-15, 11:29:22](https://news.ycombinator.com/item?id=43993897) - [In the US, a rotating detonation rocket engine takes flight](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/)
 * [2025-05-15, 11:28:34](https://news.ycombinator.com/item?id=43993889) - [Netflix will show generative AI ads midway through streams in 2026](https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/)
 * [2025-05-15, 11:03:54](https://news.ycombinator.com/item?id=43993738) - [Tesla has yet to start testing its robotaxi without driver weeks before launch](https://electrek.co/2025/05/14/tesla-yet-start-testing-robotaxi-service-without-driver-weeks-before-launch/)
 * [2025-05-15, 10:22:17](https://news.ycombinator.com/item?id=43993548) - [UK becomes fastest-growing G7 economy](https://apnews.com/article/uk-economy-growth-g7-reeves-2d7b9761e53d3d490c3181a1fa89651b)
+* [2025-05-15, 09:45:33](https://news.ycombinator.com/item?id=43993374) - [Show HN: Kudos.wiki – Discover the best movies on Wikipedia](https://kudos.wiki)
 * [2025-05-15, 09:37:51](https://news.ycombinator.com/item?id=43993332) - [XAI's Grok suddenly can't stop bringing up \"white genocide\" in South Africa](https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/)
 * [2025-05-15, 09:01:17](https://news.ycombinator.com/item?id=43993140) - [The 'invisible crew' who have 35 seconds to prevent a Eurovision blunder](https://www.bbc.com/news/articles/c1e679vn6yqo)
 * [2025-05-15, 07:01:11](https://news.ycombinator.com/item?id=43992530) - [Tiptap (YC S23) Is Hiring](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager)
