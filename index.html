@@ -137,11 +137,11 @@
             <h4>
               <span>2025-05-15 @ 02:57:19</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43991396"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -156,32 +156,11 @@
             <h4>
               <span>2025-05-15 @ 02:28:42</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43991256"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43991091">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/micropython/micropython/releases/tag/v1.25.0"
-              >MicroPython v1.25.0</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-15 @ 01:53:11</span
-              ><span class="points-container"
-                >Points: <span class="points">48</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43991091"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -198,11 +177,11 @@
             <h4>
               <span>2025-05-15 @ 01:11:09</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43990843"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -223,7 +202,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43989497"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 128</span></span
               >
             </h4>
           </section>
@@ -255,7 +234,7 @@
             <h4>
               <span>2025-05-14 @ 19:54:31</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43988533"
                   >Comments</a
@@ -281,7 +260,7 @@
             <h4>
               <span>2025-05-14 @ 19:38:26</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43988381"
                   >Comments</a
@@ -372,13 +351,106 @@
             <h4>
               <span>2025-05-14 @ 16:27:48</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43986424"
                   >Comments</a
                 ><span class="descendants">: 117</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="43985994">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43985994"
+              >Launch HN: Jazzberry (YC X25) – AI agent for finding bugs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-14 @ 15:52:21</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43985994"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://jazzberry.ai">https://jazzberry.ai</a>), an AI
+              bug finder that automatically tests your code when a pull request
+              occurs to find and flag real bugs before they are merged.
+              <p>
+                Here’s a demo video:
+                <a href="https://www.youtube.com/watch?v=L6ZTu86qK8U#t=7"
+                  >https://www.youtube.com/watch?v=L6ZTu86qK8U#t=7</a
+                >
+              </p>
+              <p>
+                We are building Jazzberry to help you find bugs in your code
+                base. Here’s how it works:
+              </p>
+              <p>
+                When a PR is made, Jazzberry clones the repo into a secure
+                sandbox. The diff from the PR is provided to the AI agent in its
+                context window. In order to interact with the rest of the code
+                base, the AI agent has the ability to execute bash commands
+                within the sandbox. The output from those commands is fed back
+                into the agent. This means that the agent can do things like
+                read/write files, search, install packages, run interpreters,
+                execute code, and so on. It observes the outcomes and
+                iteratively tests to pinpoint bugs, which are then reported back
+                in the PR as a markdown table.
+              </p>
+              <p>
+                Jazzberry is focused on dynamically testing your code in a
+                sandbox to confirm the presence of real bugs. We are not a
+                general code review tool, our only aim is to provide concrete
+                evidence of what's broken and how.
+              </p>
+              <p>
+                Here are some real examples of bugs that we have found so far.
+              </p>
+              <p>
+                “<i>Authentication Bypass (Critical)</i>” - When `AUTH_ENABLED`
+                is `False`, the `get_user` dependency in `home/api/deps.py`
+                always returns the first superuser, bypassing authentication and
+                potentially leading to unauthorized access. Additionally, it
+                defaults to superuser when the authenticated auth0 user is not
+                present in the database.
+              </p>
+              <p>
+                “<i>Insecure Header Handling (High)</i>” - The server doesn't
+                validate header names/values, allowing injection of malicious
+                headers, potentially leading to security issues.
+              </p>
+              <p>
+                “<i>API Key Leakage (High)</i>” - Different error messages in
+                browser console logs revealed whether API keys were valid,
+                allowing attackers to brute force valid credentials by
+                distinguishing between format errors and authorization errors.
+              </p>
+              <p>
+                Working on this, we've realized just how much the rise of
+                LLM-generated code is amplifying the need for better automated
+                testing solutions. Traditional code coverage metrics and manual
+                code review are already becoming less effective when dealing
+                with thousands of lines of LLM-generated code. We think this is
+                going to get more so over time—the complexity of AI-authored
+                systems will ultimately require even more sophisticated AI
+                tooling for effective validation.
+              </p>
+              <p>
+                Our backgrounds: Mateo has a PhD in reinforcement learning and
+                formal methods with over 20 publications and 350 citations.
+                Marco holds an MSc in software testing, specializing in LLMs for
+                automated test generation.
+              </p>
+              <p>
+                We are actively building and would love your honest feedback!
+              </p>
+            </div>
           </section>
         </section>
         <section id="43985971">
@@ -393,11 +465,11 @@
             <h4>
               <span>2025-05-14 @ 15:50:30</span
               ><span class="points-container"
-                >Points: <span class="points">290</span></span
+                >Points: <span class="points">293</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985971"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -415,11 +487,11 @@
             <h4>
               <span>2025-05-14 @ 15:10:15</span
               ><span class="points-container"
-                >Points: <span class="points">773</span></span
+                >Points: <span class="points">779</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43985489"
                   >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 206</span></span
               >
             </h4>
             <div class="text">
@@ -442,11 +514,11 @@
             <h4>
               <span>2025-05-14 @ 13:08:26</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43984097"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -461,7 +533,7 @@
             <h4>
               <span>2025-05-14 @ 12:46:39</span
               ><span class="points-container"
-                >Points: <span class="points">571</span></span
+                >Points: <span class="points">580</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43983871"
                   >Comments</a
@@ -482,11 +554,11 @@
             <h4>
               <span>2025-05-14 @ 11:22:39</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43983159"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 165</span></span
               >
             </h4>
           </section>
@@ -522,11 +594,11 @@
             <h4>
               <span>2025-05-14 @ 10:10:00</span
               ><span class="points-container"
-                >Points: <span class="points">306</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43982777"
                   >Comments</a
-                ><span class="descendants">: 194</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
@@ -543,7 +615,7 @@
             <h4>
               <span>2025-05-14 @ 07:02:54</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43981680"
                   >Comments</a
@@ -562,7 +634,7 @@
             <h4>
               <span>2025-05-13 @ 20:45:53</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43977515"
                   >Comments</a
@@ -602,11 +674,11 @@
             <h4>
               <span>2025-05-13 @ 11:49:56</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971853"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -622,7 +694,7 @@
             <h4>
               <span>2025-05-13 @ 11:07:29</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971620"
                   >Comments</a
@@ -643,11 +715,11 @@
             <h4>
               <span>2025-05-13 @ 10:43:20</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971515"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 324</span></span
               >
             </h4>
           </section>
@@ -662,7 +734,7 @@
             <h4>
               <span>2025-05-13 @ 09:30:46</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971149"
                   >Comments</a
@@ -687,7 +759,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43967405"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -702,11 +774,11 @@
             <h4>
               <span>2025-05-12 @ 01:36:02</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43958846"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -721,7 +793,7 @@
             <h4>
               <span>2025-05-11 @ 23:34:12</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43958190"
                   >Comments</a
@@ -762,7 +834,7 @@
             <h4>
               <span>2025-05-10 @ 14:05:14</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43945733"
                   >Comments</a
@@ -787,7 +859,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43936992"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
             <div class="text">
