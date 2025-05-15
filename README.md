@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-15, 06:38:13](https://news.ycombinator.com/item?id=43992420) - [Critical Warning for External Purchases in Apple App Store](https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/)
 * [2025-05-15, 02:57:19](https://news.ycombinator.com/item?id=43991396) - [Human](https://quarter--mile.com/Human)
 * [2025-05-15, 02:28:42](https://news.ycombinator.com/item?id=43991256) - [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
 * [2025-05-15, 01:53:11](https://news.ycombinator.com/item?id=43991091) - [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
@@ -17,7 +18,6 @@
 * [2025-05-14, 10:11:56](https://news.ycombinator.com/item?id=43982784) - [UK's Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
 * [2025-05-14, 10:10:00](https://news.ycombinator.com/item?id=43982777) - [Databricks acquires Neon](https://www.databricks.com/blog/databricks-neon)
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
-* [2025-05-13, 20:45:53](https://news.ycombinator.com/item?id=43977515) - [Variadic Switch](https://pydong.org/posts/variadic-switch/)
 * [2025-05-13, 12:02:53](https://news.ycombinator.com/item?id=43971941) - [NASA Stennis Releases First Open-Source Software](https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/)
 * [2025-05-13, 11:49:56](https://news.ycombinator.com/item?id=43971853) - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
