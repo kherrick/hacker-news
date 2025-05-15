@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-15, 13:41:37",
+      "https://news.ycombinator.com/item?id=43995005"
+    ],
+    [
+      "A Tiny Boltzmann Machine",
+      "https://eoinmurray.info/boltzmann-machine"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 13:26:49",
       "https://news.ycombinator.com/item?id=43994827"
     ],
@@ -17,6 +27,26 @@
     [
       "Forget IPs: using cryptography to verify bot and agent traffic",
       "https://blog.cloudflare.com/web-bot-auth/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 13:20:28",
+      "https://news.ycombinator.com/item?id=43994765"
+    ],
+    [
+      "Malicious compliance by booking an available meeting room",
+      "https://www.clientserver.dev/p/malicious-compliance-by-booking-an"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 13:07:05",
+      "https://news.ycombinator.com/item?id=43994635"
+    ],
+    [
+      "My Engineering Craft Regressed",
+      "https://lemmy.ml/post/30100312"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Show HN: Muscle-Mem, a behavior cache for AI agents",
       "https://github.com/pig-dot-dev/muscle-mem"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 16:27:48",
-      "https://news.ycombinator.com/item?id=43986424"
-    ],
-    [
-      "Our narrative prison",
-      "https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Doom on the Oldest Digital Computer in America [video]",
       "https://www.youtube.com/watch?v=no0CkQk7id0"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 14:05:14",
-      "https://news.ycombinator.com/item?id=43945733"
-    ],
-    [
-      "Interferometer Device Sees Text from a Mile Away",
-      "https://physics.aps.org/articles/v18/99"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 14:11:05",
-      "https://news.ycombinator.com/item?id=43936992"
-    ],
-    [
-      "Updated rate limits for unauthenticated requests",
-      "https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/"
     ]
   ]
 ]
