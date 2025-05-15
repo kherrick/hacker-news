@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-05-15, 13:56:47",
-      "https://news.ycombinator.com/item?id=43995144"
-    ],
-    [
-      "Demystifying Ruby: It's all about threads (2024)",
-      "https://blog.papey.fr/post/07-demystifying-ruby-01/"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 13:41:37",
       "https://news.ycombinator.com/item?id=43995005"
     ],
@@ -297,6 +287,16 @@
     [
       "The Fastest Way yet to Color Graphs",
       "https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 06:19:43",
+      "https://news.ycombinator.com/item?id=43970057"
+    ],
+    [
+      "GTK Krell Monitors",
+      "https://gkrellm.srcbox.net/"
     ]
   ]
 ]
