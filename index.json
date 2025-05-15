@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-15, 12:12:57",
+      "https://news.ycombinator.com/item?id=43994208"
+    ],
+    [
+      "They Paid $3,500 for Apple's Vision Pro. A Year Later, It Still Hurts",
+      "https://www.wsj.com/tech/they-paid-3-500-for-apples-vision-pro-a-year-later-it-still-hurts-496de341"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 12:03:38",
+      "https://news.ycombinator.com/item?id=43994131"
+    ],
+    [
+      "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
+      "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 11:29:22",
       "https://news.ycombinator.com/item?id=43993897"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2025-05-15, 11:03:54",
-      "https://news.ycombinator.com/item?id=43993738"
+      "2025-05-15, 11:28:34",
+      "https://news.ycombinator.com/item?id=43993889"
     ],
     [
-      "Tesla has yet to start testing its robotaxi without driver weeks before launch",
-      "https://electrek.co/2025/05/14/tesla-yet-start-testing-robotaxi-service-without-driver-weeks-before-launch/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 09:37:51",
-      "https://news.ycombinator.com/item?id=43993332"
-    ],
-    [
-      "XAI's Grok suddenly can't stop bringing up \"white genocide\" in South Africa",
-      "https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 07:01:11",
-      "https://news.ycombinator.com/item?id=43992530"
-    ],
-    [
-      "Tiptap (YC S23) Is Hiring",
-      "https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager"
+      "Netflix will show generative AI ads midway through streams in 2026",
+      "https://arstechnica.com/gadgets/2025/05/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026/"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=43972004"
     ],
     [
-      "Fast machines, slow machines",
+      "Fast machines, slow machines (2023)",
       "https://jmmv.dev/2023/06/fast-machines-slow-machines.html"
     ]
   ],
@@ -241,26 +241,6 @@
   ],
   [
     [
-      "2025-05-13, 06:04:14",
-      "https://news.ycombinator.com/item?id=43969985"
-    ],
-    [
-      "GM's new turbo engine rewrites the rules of torque control-and locks out tuners",
-      "https://www.carsandhorsepower.com/featured/gm-s-new-turbo-engine-patent-could-rewrite-the-rules-of-torque-control-and-lock-out-tuners-for-good"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 20:59:10",
-      "https://news.ycombinator.com/item?id=43967405"
-    ],
-    [
-      "Hegel 2.0: The imaginary history of ternary computing (2018)",
-      "https://www.cabinetmagazine.org/issues/65/weatherby.php"
-    ]
-  ],
-  [
-    [
       "2025-05-12, 01:36:02",
       "https://news.ycombinator.com/item?id=43958846"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-05-11, 13:12:34",
+      "https://news.ycombinator.com/item?id=43953603"
+    ],
+    [
+      "Clearly Incorrect",
+      "https://quarter--mile.com/Clearly-Incorrect"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 14:05:14",
       "https://news.ycombinator.com/item?id=43945733"
     ],
     [
       "Interferometer Device Sees Text from a Mile Away",
       "https://physics.aps.org/articles/v18/99"
+    ]
+  ],
+  [
+    [
+      "2025-05-09, 14:11:05",
+      "https://news.ycombinator.com/item?id=43936992"
+    ],
+    [
+      "Updated rate limits for unauthenticated requests",
+      "https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/"
     ]
   ]
 ]
