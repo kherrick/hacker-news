@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-15, 18:26:29](https://news.ycombinator.com/item?id=43997830) - [Harvard Law Paid $27 for a Copy of Magna Carta. It's an Original](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html)
 * [2025-05-15, 17:00:07](https://news.ycombinator.com/item?id=43996980) - [Fetii (YC S22) Is Hiring](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii)
 * [2025-05-15, 16:43:20](https://news.ycombinator.com/item?id=43996796) - [Onfim's world: Child artists in history](https://resobscura.substack.com/p/onfims-world-medieval-child-artists)
 * [2025-05-15, 16:23:17](https://news.ycombinator.com/item?id=43996597) - [Gateway Books: The lessons of a defunct canon](https://thepointmag.com/examined-life/gateway-books/)
@@ -25,7 +26,6 @@
 * [2025-05-13, 13:03:51](https://news.ycombinator.com/item?id=43972485) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-13, 12:10:23](https://news.ycombinator.com/item?id=43972004) - [Fast machines, slow machines (2023)](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2025-05-13, 11:49:56](https://news.ycombinator.com/item?id=43971853) - [Internet Artifacts](https://neal.fun/internet-artifacts/)
-* [2025-05-13, 11:00:33](https://news.ycombinator.com/item?id=43971599) - [Ports that are blocked by browsers (2023)](https://www.keenformatics.com/ports-that-are-blocked-by-browsers)
 * [2025-05-13, 09:35:43](https://news.ycombinator.com/item?id=43971177) - [Working on complex systems: What I learned working at Google](https://www.thecoder.cafe/p/complex-systems)
 * [2025-05-13, 08:29:10](https://news.ycombinator.com/item?id=43970768) - [The Fastest Way yet to Color Graphs](https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/)
 * [2025-05-12, 01:36:02](https://news.ycombinator.com/item?id=43958846) - [Python lib generates its code on-the-fly based on usage](https://github.com/cofob/autogenlib)

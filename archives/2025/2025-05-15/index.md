@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 18:26:29](https://news.ycombinator.com/item?id=43997830) - [Harvard Law Paid $27 for a Copy of Magna Carta. It's an Original](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html)
 * [2025-05-15, 17:00:07](https://news.ycombinator.com/item?id=43996980) - [Fetii (YC S22) Is Hiring](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii)
 * [2025-05-15, 16:43:20](https://news.ycombinator.com/item?id=43996796) - [Onfim's world: Child artists in history](https://resobscura.substack.com/p/onfims-world-medieval-child-artists)
 * [2025-05-15, 16:37:41](https://news.ycombinator.com/item?id=43996736) - [Researchers establish fundamental limit on how light bosonic dark matter can be](https://phys.org/news/2025-05-fundamental-limit-bosonic-dark.html)
