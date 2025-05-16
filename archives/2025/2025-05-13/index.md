@@ -18,6 +18,7 @@
 * [2025-05-13, 19:48:04](https://news.ycombinator.com/item?id=43976895) - [Build Real-Time Knowledge Graph for Documents with LLM](https://cocoindex.io/blogs/knowledge-graph-for-docs/)
 * [2025-05-13, 19:44:47](https://news.ycombinator.com/item?id=43976862) - [Dusk OS](https://duskos.org/)
 * [2025-05-13, 19:32:58](https://news.ycombinator.com/item?id=43976726) - [Programmers Will Be Replaced by People with Ideas](https://www.cleverthinkingsoftware.com/programmers-will-be-replaced-by-people-with-ideas/)
+* [2025-05-13, 19:30:31](https://news.ycombinator.com/item?id=43976700) - [Logitloom: Explore token trajectory trees on instruct and base models](https://github.com/vgel/logitloom)
 * [2025-05-13, 19:19:14](https://news.ycombinator.com/item?id=43976574) - [Android and Wear OS are getting a big refresh](https://blog.google/products/android/material-3-expressive-android-wearos-launch/)
 * [2025-05-13, 19:17:54](https://news.ycombinator.com/item?id=43976557) - [Airbnb is in midlife crisis mode](https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/)
 * [2025-05-13, 19:00:04](https://news.ycombinator.com/item?id=43976394) - [AI chatbot psychologists are claiming to be fully licensed](https://sfstandard.com/2025/05/11/ai-chatbots-fake-therapists/)
