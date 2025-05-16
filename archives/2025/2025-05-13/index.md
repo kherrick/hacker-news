@@ -72,6 +72,7 @@
 * [2025-05-13, 12:02:53](https://news.ycombinator.com/item?id=43971941) - [NASA Stennis Releases First Open-Source Software](https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/)
 * [2025-05-13, 11:49:56](https://news.ycombinator.com/item?id=43971853) - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 * [2025-05-13, 11:41:42](https://news.ycombinator.com/item?id=43971791) - [One Hundred and One Rules of Effective Living](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living)
+* [2025-05-13, 11:34:34](https://news.ycombinator.com/item?id=43971754) - [Common MVP mistakes: How to build smart without overbuilding](https://www.erlang-solutions.com/blog/common-mvp-mistakes-how-to-build-smart-without-overbuilding/)
 * [2025-05-13, 11:28:49](https://news.ycombinator.com/item?id=43971716) - [Multiple Security Issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
 * [2025-05-13, 11:22:40](https://news.ycombinator.com/item?id=43971688) - [Show HN: Basecoat – shadcn/UI components, no React required](https://news.ycombinator.com/item?id=43971688)
 * [2025-05-13, 11:22:28](https://news.ycombinator.com/item?id=43971685) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
