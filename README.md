@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 10:08:39](https://news.ycombinator.com/item?id=44003590) - [Apple Blocks Fortnite's Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/)
 * [2025-05-16, 09:42:59](https://news.ycombinator.com/item?id=44003447) - [Leeks and Leaks – Daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
+* [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python – Labs](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-16, 09:28:21](https://news.ycombinator.com/item?id=44003371) - [Compressed music might be harmful to the ears](https://www.economist.com/science-and-technology/2025/05/07/compressed-music-might-be-harmful-to-the-ears)
 * [2025-05-16, 09:23:51](https://news.ycombinator.com/item?id=44003347) - [Beyond Text: On-Demand UI Generation for Better Conversational Experiences](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/)
 * [2025-05-16, 07:05:31](https://news.ycombinator.com/item?id=44002536) - [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
@@ -15,7 +17,6 @@
 * [2025-05-15, 21:27:10](https://news.ycombinator.com/item?id=43999492) - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
 * [2025-05-15, 19:33:44](https://news.ycombinator.com/item?id=43998472) - [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
-* [2025-05-15, 18:53:55](https://news.ycombinator.com/item?id=43998115) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:47:55](https://news.ycombinator.com/item?id=43998049) - [Windsurf SWE-1: Our First Frontier Models](https://windsurf.com/blog/windsurf-wave-9-swe-1)
 * [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 * [2025-05-15, 16:19:00](https://news.ycombinator.com/item?id=43996555) - [Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
@@ -27,7 +28,6 @@
 * [2025-05-13, 16:08:00](https://news.ycombinator.com/item?id=43974461) - [Náhuatl and Mayan Language Renaissance Occurring in Mexico](https://yucatanmagazine.com/mayan-language-renaissance/)
 * [2025-05-13, 14:57:57](https://news.ycombinator.com/item?id=43973677) - [Zinc Microcapacitors Are the Best of Both Worlds](https://spectrum.ieee.org/zinc-microcapacitor)
 * [2025-05-13, 12:20:03](https://news.ycombinator.com/item?id=43972083) - [Archisuits (2005–2006)](https://insecurespaces.net/archisuits-2005-2006/)
-* [2025-05-13, 10:27:43](https://news.ycombinator.com/item?id=43971442) - [Rolling Highway](https://en.wikipedia.org/wiki/Rolling_highway)
 * [2025-05-13, 06:19:43](https://news.ycombinator.com/item?id=43970057) - [GTK Krell Monitors](https://gkrellm.srcbox.net/)
 * [2025-05-13, 00:26:07](https://news.ycombinator.com/item?id=43968693) - [Comma 3X: Initial Impressions](https://beesbuzz.biz/blog/14719-Comma-3X-Initial-impressions)
 
