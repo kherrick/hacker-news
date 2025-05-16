@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-16, 15:45:30",
+      "https://news.ycombinator.com/item?id=44006824"
+    ],
+    [
+      "X X^t can be faster",
+      "https://arxiv.org/abs/2505.09814"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 15:37:30",
       "https://news.ycombinator.com/item?id=44006735"
     ],
@@ -117,16 +127,6 @@
     [
       "Dalus (YC W25) is hiring an engineer for hardware system design software",
       "https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 10:36:38",
-      "https://news.ycombinator.com/item?id=44003741"
-    ],
-    [
-      "Ollama violating llama.cpp license for over a year",
-      "https://github.com/ollama/ollama/issues/3185"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-05-13, 16:20:13",
-      "https://news.ycombinator.com/item?id=43974599"
-    ],
-    [
-      "Thermoelectric generator based on a robust carbon nanotube/BiSbTe foam",
-      "https://onlinelibrary.wiley.com/doi/10.1002/cey2.650"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 16:08:00",
       "https://news.ycombinator.com/item?id=43974461"
     ],
@@ -297,6 +287,16 @@
     [
       "What were the MS-DOS programs that the moricons.dll icons were intended for?",
       "https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 09:01:40",
+      "https://news.ycombinator.com/item?id=43970953"
+    ],
+    [
+      "LPython: Novel, Fast, Retargetable Python Compiler (2023)",
+      "https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/"
     ]
   ]
 ]
