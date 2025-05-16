@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 09:42:59](https://news.ycombinator.com/item?id=44003447) - [Leeks and Leaks – Daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
 * [2025-05-16, 09:28:21](https://news.ycombinator.com/item?id=44003371) - [Compressed music might be harmful to the ears](https://www.economist.com/science-and-technology/2025/05/07/compressed-music-might-be-harmful-to-the-ears)
+* [2025-05-16, 09:23:51](https://news.ycombinator.com/item?id=44003347) - [Beyond Text: On-Demand UI Generation for Better Conversational Experiences](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/)
 * [2025-05-16, 07:05:31](https://news.ycombinator.com/item?id=44002536) - [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
 * [2025-05-16, 07:00:11](https://news.ycombinator.com/item?id=44002522) - [Wasmer (YC S19) Is Hiring a Rust Compiler Engineer](https://www.workatastartup.com/jobs/15822)
 * [2025-05-16, 06:23:05](https://news.ycombinator.com/item?id=44002333) - [BuyMeACoffee silently dropped support for many countries, and nobody cares](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
