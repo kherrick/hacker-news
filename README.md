@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 19:09:55](https://news.ycombinator.com/item?id=44008843) - [Thoughts on Thinking](https://dcurt.is/thinking)
 * [2025-05-16, 18:23:26](https://news.ycombinator.com/item?id=44008412) - [The Magic Hours: The Films and Hidden Life of Terrence Malick](https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking)
 * [2025-05-16, 17:21:28](https://news.ycombinator.com/item?id=44007854) - [Stax Museum Bob Abrahamian Collection](https://bobacollection.staxmuseum.org/)
 * [2025-05-16, 17:08:02](https://news.ycombinator.com/item?id=44007714) - [New 'Superdiffusion' Proof Probes the Mysterious Math of Turbulence](https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/)
@@ -12,7 +13,6 @@
 * [2025-05-16, 15:02:02](https://news.ycombinator.com/item?id=44006345) - [A Research Preview of Codex](https://openai.com/index/introducing-codex/)
 * [2025-05-16, 14:54:13](https://news.ycombinator.com/item?id=44006231) - [Show HN: Visual flow-based programming for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red)
 * [2025-05-16, 14:24:23](https://news.ycombinator.com/item?id=44005899) - [The fastest Postgres inserts](https://docs.hatchet.run/blog/fastest-postgres-inserts)
-* [2025-05-16, 14:03:04](https://news.ycombinator.com/item?id=44005668) - [Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html)
 * [2025-05-16, 13:22:40](https://news.ycombinator.com/item?id=44005195) - [Evolution of Rust Compiler Errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
 * [2025-05-16, 12:48:22](https://news.ycombinator.com/item?id=44004827) - [Show HN: SQL-tString a t-string SQL builder in Python](https://github.com/pgjones/sql-tstring)
 * [2025-05-16, 12:30:05](https://news.ycombinator.com/item?id=44004625) - [Sci-Net](https://sci-hub.se/sci-net)

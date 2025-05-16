@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 19:09:55](https://news.ycombinator.com/item?id=44008843) - [Thoughts on Thinking](https://dcurt.is/thinking)
 * [2025-05-16, 18:23:26](https://news.ycombinator.com/item?id=44008412) - [The Magic Hours: The Films and Hidden Life of Terrence Malick](https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking)
 * [2025-05-16, 17:21:28](https://news.ycombinator.com/item?id=44007854) - [Stax Museum Bob Abrahamian Collection](https://bobacollection.staxmuseum.org/)
 * [2025-05-16, 17:08:02](https://news.ycombinator.com/item?id=44007714) - [New 'Superdiffusion' Proof Probes the Mysterious Math of Turbulence](https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/)
