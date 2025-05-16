@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-16, 13:14:36",
+      "https://news.ycombinator.com/item?id=44005110"
+    ],
+    [
+      "Explaining British Naval Dominance During the Age of Sail",
+      "https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail"
+    ]
+  ],
+  [
+    [
+      "2025-05-16, 13:05:25",
+      "https://news.ycombinator.com/item?id=44005008"
+    ],
+    [
+      "Java at 30: The Genius Behind the Code That Changed Tech",
+      "https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 12:48:22",
       "https://news.ycombinator.com/item?id=44004827"
     ],
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=44001391"
     ],
     [
-      "Cracked - Method chaining/CSS-style selector web audio library",
+      "Cracked – Method chaining/CSS-style selector web audio library",
       "https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked"
     ]
   ],
@@ -177,16 +197,6 @@
     [
       "Initialization in C++ is bonkers (2017)",
       "https://blog.tartanllama.xyz/initialization-is-bonkers/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 19:56:59",
-      "https://news.ycombinator.com/item?id=43998707"
-    ],
-    [
-      "Tek – A music making program for 24-bit Unicode terminals",
-      "https://codeberg.org/unspeaker/tek"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-05-13, 16:43:04",
-      "https://news.ycombinator.com/item?id=43974872"
-    ],
-    [
-      "Lock-Free Rust: How to Build a Rollercoaster While It's on Fire",
-      "https://yeet.cx/blog/lock-free-rust/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 16:20:13",
       "https://news.ycombinator.com/item?id=43974599"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-05-13, 14:57:57",
-      "https://news.ycombinator.com/item?id=43973677"
+      "2025-05-13, 11:34:34",
+      "https://news.ycombinator.com/item?id=43971754"
     ],
     [
-      "Zinc Microcapacitors Are the Best of Both Worlds",
-      "https://spectrum.ieee.org/zinc-microcapacitor"
+      "Common MVP mistakes: How to build smart without overbuilding",
+      "https://www.erlang-solutions.com/blog/common-mvp-mistakes-how-to-build-smart-without-overbuilding/"
     ]
   ],
   [
