@@ -62,6 +62,7 @@
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
 * [2025-05-13, 12:49:54](https://news.ycombinator.com/item?id=43972360) - [We can no longer run Microsoft Store on 1809/LTSC 2019](https://github.com/fernvenue/microsoft-store)
 * [2025-05-13, 12:20:27](https://news.ycombinator.com/item?id=43972088) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
+* [2025-05-13, 12:20:03](https://news.ycombinator.com/item?id=43972083) - [Archisuits (2005–2006)](https://insecurespaces.net/archisuits-2005-2006/)
 * [2025-05-13, 12:10:23](https://news.ycombinator.com/item?id=43972004) - [Fast machines, slow machines – Julio Merino (jmmv.dev)](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2025-05-13, 12:02:53](https://news.ycombinator.com/item?id=43971941) - [NASA Stennis Releases First Open-Source Software](https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/)
 * [2025-05-13, 11:49:56](https://news.ycombinator.com/item?id=43971853) - [Internet Artifacts](https://neal.fun/internet-artifacts/)

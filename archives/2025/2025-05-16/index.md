@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 07:05:31](https://news.ycombinator.com/item?id=44002536) - [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
+* [2025-05-16, 07:00:11](https://news.ycombinator.com/item?id=44002522) - [Wasmer (YC S19) Is Hiring a Rust Compiler Engineer](https://www.workatastartup.com/jobs/15822)
 * [2025-05-16, 06:23:05](https://news.ycombinator.com/item?id=44002333) - [BuyMeACoffee silently dropped support for many countries, and nobody cares](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
 * [2025-05-16, 04:10:10](https://news.ycombinator.com/item?id=44001768) - [Huawei is spamming open source community for its Harmony ecosystem (See Comment)](https://github.com/search?q=%22Proposal+for+OpenHarmony+Adaptation+of%22&type=issues)
 * [2025-05-16, 04:09:48](https://news.ycombinator.com/item?id=44001765) - [The Awful German Language](https://faculty.georgetown.edu/jod/texts/twain.german.html)
