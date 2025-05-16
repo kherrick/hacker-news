@@ -72,6 +72,7 @@
 * [2025-05-13, 12:20:27](https://news.ycombinator.com/item?id=43972088) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
 * [2025-05-13, 12:20:03](https://news.ycombinator.com/item?id=43972083) - [Archisuits (2005–2006)](https://insecurespaces.net/archisuits-2005-2006/)
 * [2025-05-13, 12:10:23](https://news.ycombinator.com/item?id=43972004) - [Fast machines, slow machines – Julio Merino (jmmv.dev)](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
+* [2025-05-13, 12:03:00](https://news.ycombinator.com/item?id=43971944) - [Taking a look at the next generation of telescopes](https://arstechnica.com/space/2025/05/tuesday-telescope-taking-a-look-at-the-next-generation-of-telescopes/)
 * [2025-05-13, 12:02:53](https://news.ycombinator.com/item?id=43971941) - [NASA Stennis Releases First Open-Source Software](https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/)
 * [2025-05-13, 11:49:56](https://news.ycombinator.com/item?id=43971853) - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 * [2025-05-13, 11:41:42](https://news.ycombinator.com/item?id=43971791) - [One Hundred and One Rules of Effective Living](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living)
