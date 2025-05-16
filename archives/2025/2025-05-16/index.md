@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 12:48:22](https://news.ycombinator.com/item?id=44004827) - [Show HN: SQL-tString a t-string SQL builder in Python](https://github.com/pgjones/sql-tstring)
 * [2025-05-16, 12:30:05](https://news.ycombinator.com/item?id=44004625) - [Sci-Hub Sci-Net](https://sci-hub.se/sci-net)
 * [2025-05-16, 12:23:12](https://news.ycombinator.com/item?id=44004568) - [The Mortality Impacts of Usaid Cuts](https://asteriskmag.substack.com/p/forecast-series-the-mortality-impacts)
 * [2025-05-16, 12:03:07](https://news.ycombinator.com/item?id=44004388) - [A $130M company faked trials instead of running our free OSS](https://virtualize.sh/blog/ground-control-to-major-trial/)
@@ -19,6 +20,7 @@
 * [2025-05-16, 09:42:59](https://news.ycombinator.com/item?id=44003447) - [Leeks and Leaks – Daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
 * [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python – Labs](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-16, 09:28:21](https://news.ycombinator.com/item?id=44003371) - [Compressed music might be harmful to the ears](https://www.economist.com/science-and-technology/2025/05/07/compressed-music-might-be-harmful-to-the-ears)
+* [2025-05-16, 09:24:37](https://news.ycombinator.com/item?id=44003349) - [Letsencrypt will kill SMTP server auth following Chrome CA policy change](https://social.wildeboer.net/@jwildeboer/114516238307785904)
 * [2025-05-16, 09:23:51](https://news.ycombinator.com/item?id=44003347) - [Beyond Text: On-Demand UI Generation for Better Conversational Experiences](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/)
 * [2025-05-16, 07:05:31](https://news.ycombinator.com/item?id=44002536) - [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
 * [2025-05-16, 07:00:11](https://news.ycombinator.com/item?id=44002522) - [Wasmer (YC S19) Is Hiring a Rust Compiler Engineer](https://www.workatastartup.com/jobs/15822)
