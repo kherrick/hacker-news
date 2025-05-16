@@ -77,6 +77,7 @@
 * [2025-05-13, 11:22:28](https://news.ycombinator.com/item?id=43971685) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 11:20:49](https://news.ycombinator.com/item?id=43971678) - [ML-Enhanced Code Completion Improves Developer Productivity (2022)](https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/)
 * [2025-05-13, 11:07:29](https://news.ycombinator.com/item?id=43971620) - [Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges](https://github.com/git-bug/git-bug)
+* [2025-05-13, 11:06:58](https://news.ycombinator.com/item?id=43971616) - [What were the MS-DOS programs that the moricons.dll icons were intended for?](https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157)
 * [2025-05-13, 11:00:33](https://news.ycombinator.com/item?id=43971599) - [Ports that are blocked by browsers](https://www.keenformatics.com/ports-that-are-blocked-by-browsers)
 * [2025-05-13, 10:44:41](https://news.ycombinator.com/item?id=43971523) - [Show HN: Why hanging out on Hacker News is a good use of your time?](https://www.parliant.ai/surveys/e31a7442-080b-4921-bfa4-457ef0b974ec)
 * [2025-05-13, 10:43:20](https://news.ycombinator.com/item?id=43971515) - [Everything That Has Changed Since Congestion Pricing Started in New York](https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html)
