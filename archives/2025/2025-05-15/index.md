@@ -45,6 +45,7 @@
 * [2025-05-15, 13:22:14](https://news.ycombinator.com/item?id=43994779) - [Forget IPs: using cryptography to verify bot and agent traffic](https://blog.cloudflare.com/web-bot-auth/)
 * [2025-05-15, 13:20:28](https://news.ycombinator.com/item?id=43994765) - [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
 * [2025-05-15, 13:07:05](https://news.ycombinator.com/item?id=43994635) - [My Engineering Craft Regressed](https://lemmy.ml/post/30100312)
+* [2025-05-15, 12:50:43](https://news.ycombinator.com/item?id=43994486) - [Show HN: A free AI risk assessment tool for LLM applications](https://www.gettavo.com/app)
 * [2025-05-15, 12:43:39](https://news.ycombinator.com/item?id=43994408) - [CarPlay Ultra, the next generation of CarPlay, begins rolling out today](https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/)
 * [2025-05-15, 12:32:15](https://news.ycombinator.com/item?id=43994333) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
 * [2025-05-15, 12:12:57](https://news.ycombinator.com/item?id=43994208) - [They Paid $3,500 for Apple's Vision Pro. A Year Later, It Still Hurts](https://www.wsj.com/tech/they-paid-3-500-for-apples-vision-pro-a-year-later-it-still-hurts-496de341)
