@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-16, 21:39:15](https://news.ycombinator.com/item?id=44009999) - [Moody’s strips US of triple-A credit rating](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4)
+* [2025-05-16, 21:39:15](https://news.ycombinator.com/item?id=44009999) - [Moody’s strips U.S. of triple-A credit rating](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4)
 * [2025-05-16, 21:20:15](https://news.ycombinator.com/item?id=44009894) - [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
 * [2025-05-16, 21:10:12](https://news.ycombinator.com/item?id=44009848) - [Getting AI to write good SQL: Text-to-SQL techniques explained](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
 * [2025-05-16, 20:39:30](https://news.ycombinator.com/item?id=44009621) - [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
