@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-16, 21:20:15](https://news.ycombinator.com/item?id=44009894) - [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
 * [2025-05-16, 21:10:12](https://news.ycombinator.com/item?id=44009848) - [Getting AI to write good SQL: Text-to-SQL techniques explained](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
 * [2025-05-16, 20:39:30](https://news.ycombinator.com/item?id=44009621) - [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
 * [2025-05-16, 20:20:20](https://news.ycombinator.com/item?id=44009464) - [ClojureScript forks Google Closure to guarantee backward compatibility](https://clojurescript.org/news/2025-05-16-release)
@@ -18,10 +17,10 @@
 * [2025-05-16, 15:02:02](https://news.ycombinator.com/item?id=44006345) - [A Research Preview of Codex](https://openai.com/index/introducing-codex/)
 * [2025-05-16, 14:54:13](https://news.ycombinator.com/item?id=44006231) - [Show HN: Visual flow-based programming for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red)
 * [2025-05-16, 13:22:40](https://news.ycombinator.com/item?id=44005195) - [Evolution of Rust Compiler Errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
-* [2025-05-16, 13:14:36](https://news.ycombinator.com/item?id=44005110) - [British naval dominance during the age of sail](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail)
 * [2025-05-16, 13:05:25](https://news.ycombinator.com/item?id=44005008) - [Java at 30: Interview with James Gosling](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 * [2025-05-16, 12:48:22](https://news.ycombinator.com/item?id=44004827) - [Show HN: SQL-tString a t-string SQL builder in Python](https://github.com/pgjones/sql-tstring)
 * [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
+* [2025-05-13, 21:16:09](https://news.ycombinator.com/item?id=43977821) - [Data preparation for function tooling is boring](https://thehyperplane.substack.com/p/data-preparation-for-function-tooling)
 * [2025-05-13, 19:47:35](https://news.ycombinator.com/item?id=43976886) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-13, 19:12:01](https://news.ycombinator.com/item?id=43976504) - [Returning to My Roots in Hardware](https://dancrimp.nz/2025/03/31/hardware/)
 * [2025-05-13, 17:25:34](https://news.ycombinator.com/item?id=43975404) - [Transformer: The Deep Chemistry of Life and Death](https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/)
@@ -30,6 +29,7 @@
 * [2025-05-13, 12:27:55](https://news.ycombinator.com/item?id=43972154) - [Lawful kinematics link eye movements to the limits of high-speed perception](https://www.nature.com/articles/s41467-025-58659-9)
 * [2025-05-13, 12:03:00](https://news.ycombinator.com/item?id=43971944) - [Taking a look at the next generation of telescopes](https://arstechnica.com/space/2025/05/tuesday-telescope-taking-a-look-at-the-next-generation-of-telescopes/)
 * [2025-05-13, 11:06:58](https://news.ycombinator.com/item?id=43971616) - [What were the MS-DOS programs that the moricons.dll icons were intended for?](https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157)
+* [2025-05-13, 09:01:40](https://news.ycombinator.com/item?id=43970953) - [LPython: Novel, Fast, Retargetable Python Compiler (2023)](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
 
 ## [Archives](archives/index.md)
 
