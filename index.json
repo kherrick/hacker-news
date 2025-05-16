@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-05-16, 20:20:20",
+      "https://news.ycombinator.com/item?id=44009464"
+    ],
+    [
+      "ClojureScript forks Google Closure to guarantee backward compatibility",
+      "https://clojurescript.org/news/2025-05-16-release"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 20:04:58",
       "https://news.ycombinator.com/item?id=44009321"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-05-16, 12:30:05",
-      "https://news.ycombinator.com/item?id=44004625"
-    ],
-    [
-      "Sci-Net",
-      "https://sci-hub.se/sci-net"
-    ]
-  ],
-  [
-    [
       "2025-05-16, 09:42:31",
       "https://news.ycombinator.com/item?id=44003445"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2025-05-16, 04:09:48",
-      "https://news.ycombinator.com/item?id=44001765"
+      "2025-05-13, 21:16:09",
+      "https://news.ycombinator.com/item?id=43977821"
     ],
     [
-      "The Awful German Language (1880)",
-      "https://faculty.georgetown.edu/jod/texts/twain.german.html"
+      "Data preparation for function tooling is boring",
+      "https://thehyperplane.substack.com/p/data-preparation-for-function-tooling"
     ]
   ],
   [
     [
-      "2025-05-16, 01:43:27",
-      "https://news.ycombinator.com/item?id=44001087"
+      "2025-05-13, 19:47:35",
+      "https://news.ycombinator.com/item?id=43976886"
     ],
     [
-      "Ollama's new engine for multimodal models",
-      "https://ollama.com/blog/multimodal-models"
+      "The first year of free-threaded Python",
+      "https://labs.quansight.org/blog/free-threaded-one-year-recap"
     ]
   ],
   [
