@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-16, 21:39:15",
+      "https://news.ycombinator.com/item?id=44009999"
+    ],
+    [
+      "Moody's strips US of top-notch triple-A credit rating",
+      "https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4"
+    ]
+  ],
+  [
+    [
+      "2025-05-16, 21:20:15",
+      "https://news.ycombinator.com/item?id=44009894"
+    ],
+    [
+      "Show HN: Solidis – Tiny TS Redis client, no deps, for serverless",
+      "https://github.com/vcms-io/solidis"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 21:10:12",
       "https://news.ycombinator.com/item?id=44009848"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44009464"
     ],
     [
-      "ClojureScript forks Google Closure to guarantee backward compatibility",
+      "ClojureScript forks Google Closure Library to guarantee backward compatibility",
       "https://clojurescript.org/news/2025-05-16-release"
     ]
   ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-05-16, 13:14:36",
-      "https://news.ycombinator.com/item?id=44005110"
-    ],
-    [
-      "British naval dominance during the age of sail",
-      "https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail"
-    ]
-  ],
-  [
-    [
       "2025-05-16, 13:05:25",
       "https://news.ycombinator.com/item?id=44005008"
     ],
@@ -203,16 +213,6 @@
     [
       "2025-05-16, 09:42:31",
       "https://news.ycombinator.com/item?id=44003445"
-    ],
-    [
-      "The first year of free-threaded Python",
-      "https://labs.quansight.org/blog/free-threaded-one-year-recap"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 19:47:35",
-      "https://news.ycombinator.com/item?id=43976886"
     ],
     [
       "The first year of free-threaded Python",
