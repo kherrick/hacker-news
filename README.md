@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 20:39:30](https://news.ycombinator.com/item?id=44009621) - [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
 * [2025-05-16, 20:04:58](https://news.ycombinator.com/item?id=44009321) - [Show HN: KVSplit – Run 2-3× longer contexts on Apple Silicon](https://github.com/dipampaul17/KVSplit)
 * [2025-05-16, 19:09:55](https://news.ycombinator.com/item?id=44008843) - [Thoughts on Thinking](https://dcurt.is/thinking)
 * [2025-05-16, 18:23:26](https://news.ycombinator.com/item?id=44008412) - [The Magic Hours: The Films and Hidden Life of Terrence Malick](https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking)
@@ -20,7 +21,6 @@
 * [2025-05-16, 12:30:05](https://news.ycombinator.com/item?id=44004625) - [Sci-Net](https://sci-hub.se/sci-net)
 * [2025-05-16, 12:03:07](https://news.ycombinator.com/item?id=44004388) - [Ground control to Major Trial](https://virtualize.sh/blog/ground-control-to-major-trial/)
 * [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
-* [2025-05-16, 04:09:48](https://news.ycombinator.com/item?id=44001765) - [The Awful German Language (1880)](https://faculty.georgetown.edu/jod/texts/twain.german.html)
 * [2025-05-16, 01:43:27](https://news.ycombinator.com/item?id=44001087) - [Ollama's new engine for multimodal models](https://ollama.com/blog/multimodal-models)
 * [2025-05-13, 19:12:01](https://news.ycombinator.com/item?id=43976504) - [Returning to My Roots in Hardware](https://dancrimp.nz/2025/03/31/hardware/)
 * [2025-05-13, 17:25:34](https://news.ycombinator.com/item?id=43975404) - [Transformer: The Deep Chemistry of Life and Death](https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/)
