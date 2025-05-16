@@ -129,6 +129,129 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44004827">
+          <h3>
+            <a class="item" href="https://github.com/pgjones/sql-tstring"
+              >Show HN: SQL-tString a t-string SQL builder in Python</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-16 @ 12:48:22</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44004827"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://peps.python.org/pep-0750/"
+                >https://peps.python.org/pep-0750/</a
+              >, t-strings to build SQL queries, for example,
+              <p></p>
+              <pre><code>    from sql_tstring import sql
+    
+    val = 2
+    query, values = sql(t"SELECT x FROM y WHERE x = {val}")
+    assert query == "SELECT x FROM y WHERE x = ?"
+    assert values == [2]
+    db.execute(query, values)  # Most DB engines support this
+</code></pre>
+              The placeholder ? protects against SQL injection, but cannot be
+              used everywhere. For example, a column name cannot be a
+              placeholder. If you try this SQL-tString will raise an error,
+              <p></p>
+              <pre><code>    col = "x"
+    sql(t"SELECT {col} FROM y")  # Raises ValueError
+</code></pre>
+              To proceed you'll need to declare what the valid values of col can
+              be,
+              <p></p>
+              <pre><code>    from sql_tstring import sql_context
+    
+    with sql_context(columns="x"):
+        query, values = sql(t"SELECT {col} FROM y")
+    assert query == "SELECT x FROM y"
+    assert values == []
+</code></pre>
+              Thus allowing you to protect against SQL injection.
+              <p>
+                As t-strings are format strings you can safely format the
+                literals you'd like to pass as variables,
+              </p>
+              <p></p>
+              <pre><code>    text = "world"
+    query, values = sql(t"SELECT x FROM y WHERE x LIKE '%{text}'")
+    assert query == "SELECT x FROM y WHERE x LIKE ?"
+    assert values == ["%world"]
+</code></pre>
+              This is especially useful when used with the Absent rewriting
+              value.
+              <p>
+                SQL-tString is a SQL builder and as such you can use special
+                RewritingValues to alter and build the query you want at
+                runtime. This is best shown by considering a query you sometimes
+                want to search by one column a, sometimes by b, and sometimes
+                both,
+              </p>
+              <p></p>
+              <pre><code>    def search(
+        *,
+        a: str | AbsentType = Absent,
+        b: str | AbsentType = Absent
+    ) -&gt; tuple[str, list[str]]:
+        return sql(t"SELECT x FROM y WHERE a = {a} AND b = {b}")
+    
+    assert search() == "SELECT x FROM y", []
+    assert search(a="hello") == "SELECT x FROM y WHERE a = ?", ["hello"]
+    assert search(b="world") == "SELECT x FROM y WHERE b = ?", ["world"]
+    assert search(a="hello", b="world") == (
+        "SELECT x FROM y WHERE a = ? AND b = ?", ["hello", "world"]
+    )
+</code></pre>
+              Specifically Absent (which is an alias of RewritingValue.ABSENT)
+              will remove the expression it is present in, and if there an no
+              expressions left after the removal it will also remove the clause.
+              <p>
+                The other rewriting values I've included are handle the
+                frustrating case of comparing to NULL, for example the following
+                is valid but won't work as you'd likely expect,
+              </p>
+              <p></p>
+              <pre><code>    optional = None
+    sql(t"SELECT x FROM y WHERE x = {optional}")
+</code></pre>
+              Instead you can use IsNull to achieve the right result,
+              <p></p>
+              <pre><code>    from sql_tstring import IsNull
+
+    optional = IsNull
+    query, values = sql(t"SELECT x FROM y WHERE x = {optional}")
+    assert query == "SELECT x FROM y WHERE x IS NULL"
+    assert values == []
+</code></pre>
+              There is also a IsNotNull for the negated comparison.
+              <p>
+                The final feature allows for complex query building by nesting a
+                t-string within the existing,
+              </p>
+              <p></p>
+              <pre><code>    inner = t"x = 'a'"
+    query, _ = sql(t"SELECT x FROM y WHERE {inner}")
+    assert query == "SELECT x FROM y WHERE x = 'a'"
+</code></pre>
+              This library can be used today without Python3.14's t-strings with
+              some limitations,
+              <a
+                href="https://github.com/pgjones/sql-tstring?tab=readme-ov-file#pre-python-314-usage"
+                >https://github.com/pgjones/sql-tstring?tab=readme-ov-file#pr...</a
+              >, and I've been doing so this year. Thoughts and feedback very
+              welcome.
+            </div>
+          </section>
+        </section>
         <section id="44004625">
           <h3>
             <a class="item" href="https://sci-hub.se/sci-net"
@@ -139,32 +262,11 @@
             <h4>
               <span>2025-05-16 @ 12:30:05</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44004625"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44004568">
-          <h3>
-            <a
-              class="item"
-              href="https://asteriskmag.substack.com/p/forecast-series-the-mortality-impacts"
-              >The Mortality Impacts of Usaid Cuts</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-16 @ 12:23:12</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44004568"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -181,11 +283,11 @@
             <h4>
               <span>2025-05-16 @ 12:03:07</span
               ><span class="points-container"
-                >Points: <span class="points">264</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44004388"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -195,8 +297,8 @@
             <a
               class="item"
               href="https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1"
-              >Dalus (YC W25) is hiring a founding engineer for hardware system
-              design software</a
+              >Dalus (YC W25) is hiring an engineer for hardware system design
+              software</a
             >
           </h3>
           <section>
@@ -204,28 +306,6 @@
               <span>2025-05-16 @ 12:01:05</span
               ><span class="points-container"
                 >Points: <span class="points">1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44004250">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee"
-              >Grok's white genocide fixation caused by 'unauthorized
-              modification'</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-16 @ 11:50:46</span
-              ><span class="points-container"
-                >Points: <span class="points">114</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44004250"
-                  >Comments</a
-                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -240,11 +320,11 @@
             <h4>
               <span>2025-05-16 @ 10:36:38</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44003741"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -262,11 +342,11 @@
             <h4>
               <span>2025-05-16 @ 10:29:35</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">216</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44003700"
                   >Comments</a
-                ><span class="descendants">: 123</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -284,11 +364,11 @@
             <h4>
               <span>2025-05-16 @ 09:43:17</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44003449"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -326,11 +406,33 @@
             <h4>
               <span>2025-05-16 @ 09:42:31</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44003445"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 63</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44003349">
+          <h3>
+            <a
+              class="item"
+              href="https://social.wildeboer.net/@jwildeboer/114516238307785904"
+              >Letsencrypt will kill SMTP server auth following Chrome CA policy
+              change</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-16 @ 09:24:37</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44003349"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -348,7 +450,7 @@
             <h4>
               <span>2025-05-16 @ 09:23:51</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44003347"
                   >Comments</a
@@ -370,11 +472,11 @@
             <h4>
               <span>2025-05-16 @ 06:23:05</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44002333"
                   >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 205</span></span
               >
             </h4>
           </section>
@@ -391,11 +493,11 @@
             <h4>
               <span>2025-05-16 @ 04:09:48</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44001765"
                   >Comments</a
-                ><span class="descendants">: 287</span></span
+                ><span class="descendants">: 291</span></span
               >
             </h4>
           </section>
@@ -412,7 +514,7 @@
             <h4>
               <span>2025-05-16 @ 02:46:18</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44001391"
                   >Comments</a
@@ -431,11 +533,11 @@
             <h4>
               <span>2025-05-16 @ 01:43:27</span
               ><span class="points-container"
-                >Points: <span class="points">263</span></span
+                >Points: <span class="points">266</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44001087"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -450,11 +552,11 @@
             <h4>
               <span>2025-05-16 @ 00:40:35</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44000759"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 102</span></span
               >
             </h4>
           </section>
@@ -471,7 +573,7 @@
             <h4>
               <span>2025-05-15 @ 21:57:19</span
               ><span class="points-container"
-                >Points: <span class="points">374</span></span
+                >Points: <span class="points">375</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43999748"
                   >Comments</a
@@ -496,7 +598,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43999492"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -512,11 +614,11 @@
             <h4>
               <span>2025-05-15 @ 19:33:44</span
               ><span class="points-container"
-                >Points: <span class="points">392</span></span
+                >Points: <span class="points">393</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43998472"
                   >Comments</a
-                ><span class="descendants">: 259</span></span
+                ><span class="descendants">: 262</span></span
               >
             </h4>
           </section>
@@ -554,11 +656,11 @@
             <h4>
               <span>2025-05-15 @ 18:06:06</span
               ><span class="points-container"
-                >Points: <span class="points">1014</span></span
+                >Points: <span class="points">1020</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43997636"
                   >Comments</a
-                ><span class="descendants">: 422</span></span
+                ><span class="descendants">: 424</span></span
               >
             </h4>
           </section>
@@ -736,11 +838,11 @@
             <h4>
               <span>2025-05-15 @ 15:52:21</span
               ><span class="points-container"
-                >Points: <span class="points">365</span></span
+                >Points: <span class="points">368</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43996307"
                   >Comments</a
-                ><span class="descendants">: 447</span></span
+                ><span class="descendants">: 448</span></span
               >
             </h4>
           </section>
@@ -757,11 +859,11 @@
             <h4>
               <span>2025-05-13 @ 17:20:11</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43975352"
                   >Comments</a
-                ><span class="descendants">: 196</span></span
+                ><span class="descendants">: 201</span></span
               >
             </h4>
           </section>
@@ -777,11 +879,11 @@
             <h4>
               <span>2025-05-13 @ 16:43:04</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43974872"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -799,7 +901,7 @@
             <h4>
               <span>2025-05-13 @ 16:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43974599"
                   >Comments</a
@@ -820,11 +922,11 @@
             <h4>
               <span>2025-05-13 @ 16:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43974461"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -839,7 +941,7 @@
             <h4>
               <span>2025-05-13 @ 14:57:57</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43973677"
                   >Comments</a
@@ -861,11 +963,11 @@
             <h4>
               <span>2025-05-13 @ 11:06:58</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43971616"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -882,11 +984,11 @@
             <h4>
               <span>2025-05-13 @ 00:26:07</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43968693"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
