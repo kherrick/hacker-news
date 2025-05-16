@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-05-16, 12:30:05",
+      "https://news.ycombinator.com/item?id=44004625"
+    ],
+    [
+      "Sci-Hub Sci-Net",
+      "https://sci-hub.se/sci-net"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 12:03:07",
       "https://news.ycombinator.com/item?id=44004388"
     ],
     [
-      "A $130M company faked trials instead of running our free OSS",
+      "Ground control to Major Trial",
       "https://virtualize.sh/blog/ground-control-to-major-trial/"
     ]
   ],
@@ -41,12 +51,22 @@
   ],
   [
     [
-      "2025-05-16, 10:30:31",
-      "https://news.ycombinator.com/item?id=44003708"
+      "2025-05-16, 11:03:03",
+      "https://news.ycombinator.com/item?id=44003885"
     ],
     [
-      "Jetrelay: A high-performance ATproto relay in 500 LOC",
-      "https://www.asayers.com/jetrelay/"
+      "The Problem with Teens Isn't Smartphones–It's Their Families",
+      "https://grimoiremanor.substack.com/p/the-problem-with-teens-isnt-smartphones"
+    ]
+  ],
+  [
+    [
+      "2025-05-16, 10:36:38",
+      "https://news.ycombinator.com/item?id=44003741"
+    ],
+    [
+      "Ollama violating llama.cpp license for over a year",
+      "https://github.com/ollama/ollama/issues/3185"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-05-15, 18:47:55",
-      "https://news.ycombinator.com/item?id=43998049"
-    ],
-    [
-      "Windsurf SWE-1: Our First Frontier Models",
-      "https://windsurf.com/blog/windsurf-wave-9-swe-1"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 18:06:06",
       "https://news.ycombinator.com/item?id=43997636"
     ],
@@ -227,16 +237,6 @@
     [
       "Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom",
       "https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 20:47:52",
-      "https://news.ycombinator.com/item?id=43977539"
-    ],
-    [
-      "Calculating MRR in SQL",
-      "https://www.definite.app/blog/stripe-mrr-calculation"
     ]
   ],
   [
