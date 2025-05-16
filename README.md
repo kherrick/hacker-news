@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 15:45:30](https://news.ycombinator.com/item?id=44006824) - [X X^t can be faster](https://arxiv.org/abs/2505.09814)
 * [2025-05-16, 15:37:30](https://news.ycombinator.com/item?id=44006735) - [Show HN: Rv, a Package Manager for R](https://github.com/A2-ai/rv)
 * [2025-05-16, 15:09:25](https://news.ycombinator.com/item?id=44006426) - [Assuring an Accurate Research Record](https://economics.mit.edu/news/assuring-accurate-research-record)
 * [2025-05-16, 15:05:32](https://news.ycombinator.com/item?id=44006381) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44006381)
@@ -12,7 +13,6 @@
 * [2025-05-16, 12:30:05](https://news.ycombinator.com/item?id=44004625) - [Sci-Net](https://sci-hub.se/sci-net)
 * [2025-05-16, 12:03:07](https://news.ycombinator.com/item?id=44004388) - [Ground control to Major Trial](https://virtualize.sh/blog/ground-control-to-major-trial/)
 * [2025-05-16, 12:01:05](https://news.ycombinator.com/item?id=44004362) - [Dalus (YC W25) is hiring an engineer for hardware system design software](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1)
-* [2025-05-16, 10:36:38](https://news.ycombinator.com/item?id=44003741) - [Ollama violating llama.cpp license for over a year](https://github.com/ollama/ollama/issues/3185)
 * [2025-05-16, 09:43:17](https://news.ycombinator.com/item?id=44003449) - [The average workday increased during the pandemic’s early weeks (2020)](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings)
 * [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-16, 09:23:51](https://news.ycombinator.com/item?id=44003347) - [Beyond Text: On-Demand UI Generation for Better Conversational Experiences](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/)
@@ -25,11 +25,11 @@
 * [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 * [2025-05-15, 16:19:00](https://news.ycombinator.com/item?id=43996555) - [Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
 * [2025-05-13, 17:20:11](https://news.ycombinator.com/item?id=43975352) - [Material 3 Expressive](https://design.google/library/expressive-material-design-google-research)
-* [2025-05-13, 16:20:13](https://news.ycombinator.com/item?id=43974599) - [Thermoelectric generator based on a robust carbon nanotube/BiSbTe foam](https://onlinelibrary.wiley.com/doi/10.1002/cey2.650)
 * [2025-05-13, 16:08:00](https://news.ycombinator.com/item?id=43974461) - [Náhuatl and Mayan Language Renaissance Occurring in Mexico](https://yucatanmagazine.com/mayan-language-renaissance/)
 * [2025-05-13, 14:57:57](https://news.ycombinator.com/item?id=43973677) - [Zinc Microcapacitors Are the Best of Both Worlds](https://spectrum.ieee.org/zinc-microcapacitor)
 * [2025-05-13, 12:59:06](https://news.ycombinator.com/item?id=43972449) - [Tower Defense: Cache Control](https://www.jasonthorsness.com/26)
 * [2025-05-13, 11:06:58](https://news.ycombinator.com/item?id=43971616) - [What were the MS-DOS programs that the moricons.dll icons were intended for?](https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157)
+* [2025-05-13, 09:01:40](https://news.ycombinator.com/item?id=43970953) - [LPython: Novel, Fast, Retargetable Python Compiler (2023)](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
 
 ## [Archives](archives/index.md)
 
