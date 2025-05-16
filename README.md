@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 00:40:35](https://news.ycombinator.com/item?id=44000759) - [The Teal Programming Language](https://teal-language.org/)
+* [2025-05-16, 00:29:09](https://news.ycombinator.com/item?id=44000700) - [NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix](https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/)
 * [2025-05-15, 21:57:19](https://news.ycombinator.com/item?id=43999748) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 * [2025-05-15, 21:27:10](https://news.ycombinator.com/item?id=43999492) - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
@@ -11,7 +13,6 @@
 * [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 * [2025-05-15, 17:30:03](https://news.ycombinator.com/item?id=43997286) - [Stop using REST for state synchronization (2024)](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/)
 * [2025-05-15, 17:00:07](https://news.ycombinator.com/item?id=43996980) - [Fetii (YC S22) Is Hiring](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii)
-* [2025-05-15, 16:43:20](https://news.ycombinator.com/item?id=43996796) - [Onfim's world: Child artists in history](https://resobscura.substack.com/p/onfims-world-medieval-child-artists)
 * [2025-05-15, 16:19:00](https://news.ycombinator.com/item?id=43996555) - [Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
 * [2025-05-15, 16:05:22](https://news.ycombinator.com/item?id=43996431) - [I don't like NumPy](https://dynomight.net/numpy/)
 * [2025-05-15, 15:52:21](https://news.ycombinator.com/item?id=43996307) - [Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom](https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html)
@@ -24,11 +25,10 @@
 * [2025-05-15, 12:32:15](https://news.ycombinator.com/item?id=43994333) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
 * [2025-05-14, 20:19:23](https://news.ycombinator.com/item?id=43988753) - [The Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
 * [2025-05-14, 10:31:18](https://news.ycombinator.com/item?id=43982892) - [Show HN: Easel – Code multiplayer games like singleplayer](https://easel.games/about)
-* [2025-05-13, 15:24:26](https://news.ycombinator.com/item?id=43973964) - [A Tale of a Trailing Dot (2022)](https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/)
+* [2025-05-13, 20:57:57](https://news.ycombinator.com/item?id=43977648) - [Show HN: I made a platform to debug Puppeteer (JS) crashes visually](https://buglesstack.com/)
 * [2025-05-13, 13:03:51](https://news.ycombinator.com/item?id=43972485) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-13, 11:20:49](https://news.ycombinator.com/item?id=43971678) - [ML-Enhanced Code Completion Improves Developer Productivity (2022)](https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/)
 * [2025-05-13, 09:37:55](https://news.ycombinator.com/item?id=43971185) - [Comparing floating-point numbers (2012)](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)
-* [2025-05-13, 08:29:10](https://news.ycombinator.com/item?id=43970768) - [The Fastest Way yet to Color Graphs](https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/)
 * [2025-05-13, 06:19:43](https://news.ycombinator.com/item?id=43970057) - [GTK Krell Monitors](https://gkrellm.srcbox.net/)
 
 ## [Archives](archives/index.md)
