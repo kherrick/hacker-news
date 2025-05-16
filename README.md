@@ -4,7 +4,7 @@
 * [2025-05-16, 21:20:15](https://news.ycombinator.com/item?id=44009894) - [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
 * [2025-05-16, 21:10:12](https://news.ycombinator.com/item?id=44009848) - [Getting AI to write good SQL: Text-to-SQL techniques explained](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
 * [2025-05-16, 20:39:30](https://news.ycombinator.com/item?id=44009621) - [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
-* [2025-05-16, 20:20:20](https://news.ycombinator.com/item?id=44009464) - [ClojureScript forks Google Closure Library to guarantee backward compatibility](https://clojurescript.org/news/2025-05-16-release)
+* [2025-05-16, 20:20:20](https://news.ycombinator.com/item?id=44009464) - [ClojureScript 1.12.42](https://clojurescript.org/news/2025-05-16-release)
 * [2025-05-16, 20:04:58](https://news.ycombinator.com/item?id=44009321) - [Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon](https://github.com/dipampaul17/KVSplit)
 * [2025-05-16, 19:09:55](https://news.ycombinator.com/item?id=44008843) - [Thoughts on thinking](https://dcurt.is/thinking)
 * [2025-05-16, 18:23:26](https://news.ycombinator.com/item?id=44008412) - [The Magic Hours: The Films and Hidden Life of Terrence Malick](https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking)
