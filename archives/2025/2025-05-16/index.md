@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 17:21:28](https://news.ycombinator.com/item?id=44007854) - [Stax Museum Bob Abrahamian Collection](https://bobacollection.staxmuseum.org/)
 * [2025-05-16, 17:01:00](https://news.ycombinator.com/item?id=44007644) - [Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE)](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe)
 * [2025-05-16, 16:05:00](https://news.ycombinator.com/item?id=44007065) - [Show HN: Workflow Use – Deterministic, self-healing browser automation (RPA 2.0)](https://github.com/browser-use/workflow-use)
 * [2025-05-16, 15:45:30](https://news.ycombinator.com/item?id=44006824) - [X X^t can be faster](https://arxiv.org/abs/2505.09814)

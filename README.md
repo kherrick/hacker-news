@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 17:21:28](https://news.ycombinator.com/item?id=44007854) - [Stax Museum Bob Abrahamian Collection](https://bobacollection.staxmuseum.org/)
 * [2025-05-16, 17:01:00](https://news.ycombinator.com/item?id=44007644) - [Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE)](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe)
 * [2025-05-16, 16:05:00](https://news.ycombinator.com/item?id=44007065) - [Show HN: Workflow Use – Deterministic, self-healing browser automation (RPA 2.0)](https://github.com/browser-use/workflow-use)
 * [2025-05-16, 15:45:30](https://news.ycombinator.com/item?id=44006824) - [X X^t can be faster](https://arxiv.org/abs/2505.09814)
@@ -23,7 +24,6 @@
 * [2025-05-16, 01:43:27](https://news.ycombinator.com/item?id=44001087) - [Ollama's new engine for multimodal models](https://ollama.com/blog/multimodal-models)
 * [2025-05-16, 00:40:35](https://news.ycombinator.com/item?id=44000759) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
-* [2025-05-15, 16:19:00](https://news.ycombinator.com/item?id=43996555) - [Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
 * [2025-05-13, 17:25:34](https://news.ycombinator.com/item?id=43975404) - [Transformer: The Deep Chemistry of Life and Death](https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/)
 * [2025-05-13, 17:20:11](https://news.ycombinator.com/item?id=43975352) - [Material 3 Expressive](https://design.google/library/expressive-material-design-google-research)
 * [2025-05-13, 16:08:00](https://news.ycombinator.com/item?id=43974461) - [Náhuatl and Mayan Language Renaissance Occurring in Mexico](https://yucatanmagazine.com/mayan-language-renaissance/)
