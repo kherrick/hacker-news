@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 06:23:05](https://news.ycombinator.com/item?id=44002333) - [BuyMeACoffee silently dropped support for many countries, and nobody cares](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
 * [2025-05-16, 04:09:48](https://news.ycombinator.com/item?id=44001765) - [The Awful German Language (1880)](https://faculty.georgetown.edu/jod/texts/twain.german.html)
 * [2025-05-16, 04:01:41](https://news.ycombinator.com/item?id=44001734) - [\"Goodwill\", key member of the SoCal Python Community has passed away](https://socalpython.org/in-memoriam-michael/)
 * [2025-05-16, 03:32:25](https://news.ycombinator.com/item?id=44001593) - [Meta Battles an 'Epidemic of Scams' as Criminals Flood Instagram and Facebook](https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8)
@@ -18,7 +19,6 @@
 * [2025-05-15, 18:15:28](https://news.ycombinator.com/item?id=43997728) - [Improving Naval Ship Acquisition](https://www.construction-physics.com/p/fixing-naval-ship-acquisition)
 * [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 * [2025-05-15, 16:19:00](https://news.ycombinator.com/item?id=43996555) - [Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
-* [2025-05-15, 16:05:22](https://news.ycombinator.com/item?id=43996431) - [I don't like NumPy](https://dynomight.net/numpy/)
 * [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
 * [2025-05-15, 13:40:04](https://news.ycombinator.com/item?id=43994987) - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
 * [2025-05-15, 13:20:28](https://news.ycombinator.com/item?id=43994765) - [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
