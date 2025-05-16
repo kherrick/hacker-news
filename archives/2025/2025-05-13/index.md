@@ -102,3 +102,4 @@
 * [2025-05-13, 02:37:00](https://news.ycombinator.com/item?id=43969248) - [When the Ground Thaws (2018) [pdf]](https://static1.squarespace.com/static/5eba1f61b311ac0566822d5c/t/5f9902b77170ec769cc8f263/1603863229261/Alexis+Bonogofsky%C2%A0+_+highdesertjournal.pdf)
 * [2025-05-13, 01:16:02](https://news.ycombinator.com/item?id=43968897) - [FastVLM: Dramatically Faster Vision Language Model from Apple](https://github.com/apple/ml-fastvlm)
 * [2025-05-13, 00:30:35](https://news.ycombinator.com/item?id=43968713) - [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
+* [2025-05-13, 00:26:07](https://news.ycombinator.com/item?id=43968693) - [Comma 3X: Initial Impressions](https://beesbuzz.biz/blog/14719-Comma-3X-Initial-impressions)

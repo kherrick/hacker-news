@@ -23,13 +23,13 @@
 * [2025-05-15, 13:40:04](https://news.ycombinator.com/item?id=43994987) - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
 * [2025-05-15, 13:20:28](https://news.ycombinator.com/item?id=43994765) - [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
 * [2025-05-15, 11:29:22](https://news.ycombinator.com/item?id=43993897) - [In the US, a rotating detonation rocket engine takes flight](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/)
-* [2025-05-14, 10:31:18](https://news.ycombinator.com/item?id=43982892) - [Show HN: Easel – Code multiplayer games like singleplayer](https://easel.games/about)
 * [2025-05-13, 16:43:04](https://news.ycombinator.com/item?id=43974872) - [Lock-Free Rust: How to Build a Rollercoaster While It's on Fire](https://yeet.cx/blog/lock-free-rust/)
 * [2025-05-13, 16:08:00](https://news.ycombinator.com/item?id=43974461) - [Náhuatl and Mayan Language Renaissance Occurring in Mexico](https://yucatanmagazine.com/mayan-language-renaissance/)
 * [2025-05-13, 15:58:28](https://news.ycombinator.com/item?id=43974344) - [Bringing 3D shoppable products online with generative AI](https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/)
 * [2025-05-13, 10:27:43](https://news.ycombinator.com/item?id=43971442) - [Rolling Highway](https://en.wikipedia.org/wiki/Rolling_highway)
 * [2025-05-13, 08:20:26](https://news.ycombinator.com/item?id=43970710) - [Dia – An Early Review](https://www.fldr.zip/blog/dia-review)
 * [2025-05-13, 06:19:43](https://news.ycombinator.com/item?id=43970057) - [GTK Krell Monitors](https://gkrellm.srcbox.net/)
+* [2025-05-13, 00:26:07](https://news.ycombinator.com/item?id=43968693) - [Comma 3X: Initial Impressions](https://beesbuzz.biz/blog/14719-Comma-3X-Initial-impressions)
 
 ## [Archives](archives/index.md)
 
