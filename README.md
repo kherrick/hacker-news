@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 15:09:25](https://news.ycombinator.com/item?id=44006426) - [Assuring an Accurate Research Record](https://economics.mit.edu/news/assuring-accurate-research-record)
+* [2025-05-16, 15:05:32](https://news.ycombinator.com/item?id=44006381) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44006381)
 * [2025-05-16, 15:02:02](https://news.ycombinator.com/item?id=44006345) - [A Research Preview of Codex](https://openai.com/index/introducing-codex/)
 * [2025-05-16, 14:54:13](https://news.ycombinator.com/item?id=44006231) - [Show HN: Visual flow-based programming for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red)
 * [2025-05-16, 14:03:04](https://news.ycombinator.com/item?id=44005668) - [Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html)
@@ -23,12 +25,10 @@
 * [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 * [2025-05-15, 16:19:00](https://news.ycombinator.com/item?id=43996555) - [Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
 * [2025-05-13, 17:20:11](https://news.ycombinator.com/item?id=43975352) - [Material 3 Expressive](https://design.google/library/expressive-material-design-google-research)
-* [2025-05-13, 16:43:04](https://news.ycombinator.com/item?id=43974872) - [Lock-Free Rust: How to Build a Rollercoaster While It's on Fire](https://yeet.cx/blog/lock-free-rust/)
 * [2025-05-13, 16:20:13](https://news.ycombinator.com/item?id=43974599) - [Thermoelectric generator based on a robust carbon nanotube/BiSbTe foam](https://onlinelibrary.wiley.com/doi/10.1002/cey2.650)
 * [2025-05-13, 16:08:00](https://news.ycombinator.com/item?id=43974461) - [Náhuatl and Mayan Language Renaissance Occurring in Mexico](https://yucatanmagazine.com/mayan-language-renaissance/)
 * [2025-05-13, 14:57:57](https://news.ycombinator.com/item?id=43973677) - [Zinc Microcapacitors Are the Best of Both Worlds](https://spectrum.ieee.org/zinc-microcapacitor)
 * [2025-05-13, 12:59:06](https://news.ycombinator.com/item?id=43972449) - [Tower Defense: Cache Control](https://www.jasonthorsness.com/26)
-* [2025-05-13, 11:34:34](https://news.ycombinator.com/item?id=43971754) - [Common MVP mistakes: How to build smart without overbuilding](https://www.erlang-solutions.com/blog/common-mvp-mistakes-how-to-build-smart-without-overbuilding/)
 * [2025-05-13, 11:06:58](https://news.ycombinator.com/item?id=43971616) - [What were the MS-DOS programs that the moricons.dll icons were intended for?](https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157)
 
 ## [Archives](archives/index.md)
