@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 14:15:42](https://news.ycombinator.com/item?id=44005801) - [A Critical Examination of Prayers](https://www.rxjourney.net/a-critical-examination-of-prayers)
 * [2025-05-16, 13:14:36](https://news.ycombinator.com/item?id=44005110) - [Explaining British Naval Dominance During the Age of Sail](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail)
 * [2025-05-16, 13:05:25](https://news.ycombinator.com/item?id=44005008) - [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 * [2025-05-16, 12:48:22](https://news.ycombinator.com/item?id=44004827) - [Show HN: SQL-tString a t-string SQL builder in Python](https://github.com/pgjones/sql-tstring)
@@ -7,7 +8,6 @@
 * [2025-05-16, 12:03:07](https://news.ycombinator.com/item?id=44004388) - [Ground control to Major Trial](https://virtualize.sh/blog/ground-control-to-major-trial/)
 * [2025-05-16, 12:01:05](https://news.ycombinator.com/item?id=44004362) - [Dalus (YC W25) is hiring an engineer for hardware system design software](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1)
 * [2025-05-16, 10:36:38](https://news.ycombinator.com/item?id=44003741) - [Ollama violating llama.cpp license for over a year](https://github.com/ollama/ollama/issues/3185)
-* [2025-05-16, 10:29:35](https://news.ycombinator.com/item?id=44003700) - [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai)
 * [2025-05-16, 09:43:17](https://news.ycombinator.com/item?id=44003449) - [The average workday increased during the pandemic’s early weeks (2020)](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings)
 * [2025-05-16, 09:42:59](https://news.ycombinator.com/item?id=44003447) - [Leeks and Leaks](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
 * [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 14:15:42](https://news.ycombinator.com/item?id=44005801) - [A Critical Examination of Prayers](https://www.rxjourney.net/a-critical-examination-of-prayers)
 * [2025-05-16, 13:14:36](https://news.ycombinator.com/item?id=44005110) - [Explaining British Naval Dominance During the Age of Sail](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail)
 * [2025-05-16, 13:05:25](https://news.ycombinator.com/item?id=44005008) - [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 * [2025-05-16, 12:48:22](https://news.ycombinator.com/item?id=44004827) - [Show HN: SQL-tString a t-string SQL builder in Python](https://github.com/pgjones/sql-tstring)
