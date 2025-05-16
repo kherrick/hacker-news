@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-16, 10:29:35",
+      "https://news.ycombinator.com/item?id=44003700"
+    ],
+    [
+      "After months of coding with LLMs, I'm going back to using my brain",
+      "https://albertofortin.com/writing/coding-with-ai"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 10:08:39",
       "https://news.ycombinator.com/item?id=44003590"
     ],
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=44003445"
     ],
     [
-      "The first year of free-threaded Python – Labs",
+      "The first year of free-threaded Python",
       "https://labs.quansight.org/blog/free-threaded-one-year-recap"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 09:28:21",
-      "https://news.ycombinator.com/item?id=44003371"
-    ],
-    [
-      "Compressed music might be harmful to the ears",
-      "https://www.economist.com/science-and-technology/2025/05/07/compressed-music-might-be-harmful-to-the-ears"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Beyond Text: On-Demand UI Generation for Better Conversational Experiences",
       "https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 07:05:31",
-      "https://news.ycombinator.com/item?id=44002536"
-    ],
-    [
-      "Coinbase 8K SEC filing for breach",
-      "https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-05-15, 15:52:21",
+      "https://news.ycombinator.com/item?id=43996307"
+    ],
+    [
+      "Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom",
+      "https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 13:41:37",
       "https://news.ycombinator.com/item?id=43995005"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-05-13, 19:30:31",
-      "https://news.ycombinator.com/item?id=43976700"
-    ],
-    [
-      "Logitloom: Explore token trajectory trees on instruct and base models",
-      "https://github.com/vgel/logitloom"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 17:20:11",
       "https://news.ycombinator.com/item?id=43975352"
     ],
@@ -247,6 +237,16 @@
     [
       "Lock-Free Rust: How to Build a Rollercoaster While It's on Fire",
       "https://yeet.cx/blog/lock-free-rust/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 16:20:13",
+      "https://news.ycombinator.com/item?id=43974599"
+    ],
+    [
+      "Thermoelectric generator based on a robust carbon nanotube/BiSbTe foam",
+      "https://onlinelibrary.wiley.com/doi/10.1002/cey2.650"
     ]
   ],
   [
