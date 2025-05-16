@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 12:03:07](https://news.ycombinator.com/item?id=44004388) - [A $130M company faked trials instead of running our free OSS](https://virtualize.sh/blog/ground-control-to-major-trial/)
+* [2025-05-16, 12:01:05](https://news.ycombinator.com/item?id=44004362) - [Dalus (YC W25) is hiring a founding engineer for hardware system design software](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1)
+* [2025-05-16, 11:50:46](https://news.ycombinator.com/item?id=44004250) - [Grok's white genocide fixation caused by 'unauthorized modification'](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee)
+* [2025-05-16, 11:47:34](https://news.ycombinator.com/item?id=44004224) - [Prompts for our Grok chat assistant and grok bot on X](https://github.com/xai-org/grok-prompts)
 * [2025-05-16, 10:36:38](https://news.ycombinator.com/item?id=44003741) - [Ollama violating llama.cpp license for over a year](https://github.com/ollama/ollama/issues/3185)
+* [2025-05-16, 10:30:31](https://news.ycombinator.com/item?id=44003708) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
 * [2025-05-16, 10:29:35](https://news.ycombinator.com/item?id=44003700) - [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai)
 * [2025-05-16, 10:08:39](https://news.ycombinator.com/item?id=44003590) - [Apple Blocks Fortnite's Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/)
 * [2025-05-16, 09:43:17](https://news.ycombinator.com/item?id=44003449) - [You're Right You Are Working Longer and Attending More Meetings (2020)](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings)
