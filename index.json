@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-16, 10:36:38",
+      "https://news.ycombinator.com/item?id=44003741"
+    ],
+    [
+      "Ollama violating llama.cpp license for over a year",
+      "https://github.com/ollama/ollama/issues/3185"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 10:29:35",
       "https://news.ycombinator.com/item?id=44003700"
     ],
@@ -107,16 +117,6 @@
     [
       "Teal – A statically-typed dialect of Lua",
       "https://teal-language.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 00:29:09",
-      "https://news.ycombinator.com/item?id=44000700"
-    ],
-    [
-      "NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix",
-      "https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/"
     ]
   ],
   [
