@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-16, 01:34:54",
+      "https://news.ycombinator.com/item?id=44001041"
+    ],
+    [
+      "I was a Theranos whistleblower. Here's what I think Elizabeth Holmes is up to",
+      "https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/"
+    ]
+  ],
+  [
+    [
+      "2025-05-16, 00:44:45",
+      "https://news.ycombinator.com/item?id=44000778"
+    ],
+    [
+      "\"You Knew What You Were Signing Up For\" – A Harmful Narrative in DFIR?",
+      "https://www.forensicfocus.com/articles/you-knew-what-you-were-signing-up-for-a-harmful-narrative-in-dfir/"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 00:40:35",
       "https://news.ycombinator.com/item?id=44000759"
     ],
     [
-      "The Teal Programming Language",
+      "Teal – A statically-typed dialect of Lua",
       "https://teal-language.org/"
+    ]
+  ],
+  [
+    [
+      "2025-05-16, 00:32:32",
+      "https://news.ycombinator.com/item?id=44000724"
+    ],
+    [
+      "Sitting for a long time shrinks your brain even if you exercise",
+      "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.70157"
     ]
   ],
   [
@@ -85,18 +115,28 @@
       "https://news.ycombinator.com/item?id=43998008"
     ],
     [
-      "Dr. Dobb's Journal Interviews Jef Raskin (1986)",
+      "Dr. Dobb's Journal interviews Jef Raskin (1986)",
       "https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin"
     ]
   ],
   [
     [
-      "2025-05-15, 18:26:29",
-      "https://news.ycombinator.com/item?id=43997830"
+      "2025-05-15, 18:36:22",
+      "https://news.ycombinator.com/item?id=43997932"
     ],
     [
-      "Harvard Law paid $27 for a copy of Magna Carta. It's an original",
-      "https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html"
+      "\"The Mind in the Wheel\" lays out a new foundation for the science of mind",
+      "https://www.experimental-history.com/p/new-paradigm-for-psychology-just"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 18:15:28",
+      "https://news.ycombinator.com/item?id=43997728"
+    ],
+    [
+      "Improving Naval Ship Acquisition",
+      "https://www.construction-physics.com/p/fixing-naval-ship-acquisition"
     ]
   ],
   [
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2025-05-15, 15:52:21",
-      "https://news.ycombinator.com/item?id=43996307"
-    ],
-    [
-      "Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom",
-      "https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 15:46:26",
       "https://news.ycombinator.com/item?id=43996251"
     ],
     [
       "Show HN: Undetectag, track stolen items with AirTag",
       "https://undetectag.com/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 15:27:04",
-      "https://news.ycombinator.com/item?id=43996031"
-    ],
-    [
-      "Wavelet Trees: An Introduction (2011)",
-      "https://www.alexbowe.com/wavelet-trees/"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2025-05-14, 20:19:23",
-      "https://news.ycombinator.com/item?id=43988753"
+      "2025-05-15, 11:29:22",
+      "https://news.ycombinator.com/item?id=43993897"
     ],
     [
-      "The Scalar Select Anti-Pattern",
-      "https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html"
+      "In the US, a rotating detonation rocket engine takes flight",
+      "https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/"
     ]
   ],
   [
@@ -251,42 +271,22 @@
   ],
   [
     [
-      "2025-05-13, 20:57:57",
-      "https://news.ycombinator.com/item?id=43977648"
+      "2025-05-13, 16:43:04",
+      "https://news.ycombinator.com/item?id=43974872"
     ],
     [
-      "Show HN: I made a platform to debug Puppeteer (JS) crashes visually",
-      "https://buglesstack.com/"
+      "Lock-Free Rust: How to Build a Rollercoaster While It's on Fire",
+      "https://yeet.cx/blog/lock-free-rust/"
     ]
   ],
   [
     [
-      "2025-05-13, 13:03:51",
-      "https://news.ycombinator.com/item?id=43972485"
+      "2025-05-13, 10:27:43",
+      "https://news.ycombinator.com/item?id=43971442"
     ],
     [
-      "Lua for Elixir",
-      "https://davelucia.com/blog/lua-elixir"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 11:20:49",
-      "https://news.ycombinator.com/item?id=43971678"
-    ],
-    [
-      "ML-Enhanced Code Completion Improves Developer Productivity (2022)",
-      "https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 09:37:55",
-      "https://news.ycombinator.com/item?id=43971185"
-    ],
-    [
-      "Comparing floating-point numbers (2012)",
-      "https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/"
+      "Rolling Highway",
+      "https://en.wikipedia.org/wiki/Rolling_highway"
     ]
   ],
   [
