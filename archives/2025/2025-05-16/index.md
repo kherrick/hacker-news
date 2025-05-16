@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 10:36:38](https://news.ycombinator.com/item?id=44003741) - [Ollama violating llama.cpp license for over a year](https://github.com/ollama/ollama/issues/3185)
 * [2025-05-16, 10:29:35](https://news.ycombinator.com/item?id=44003700) - [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai)
 * [2025-05-16, 10:08:39](https://news.ycombinator.com/item?id=44003590) - [Apple Blocks Fortnite's Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/)
 * [2025-05-16, 09:42:59](https://news.ycombinator.com/item?id=44003447) - [Leeks and Leaks – Daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)

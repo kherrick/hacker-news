@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 10:36:38](https://news.ycombinator.com/item?id=44003741) - [Ollama violating llama.cpp license for over a year](https://github.com/ollama/ollama/issues/3185)
 * [2025-05-16, 10:29:35](https://news.ycombinator.com/item?id=44003700) - [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai)
 * [2025-05-16, 10:08:39](https://news.ycombinator.com/item?id=44003590) - [Apple Blocks Fortnite's Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/)
 * [2025-05-16, 09:42:59](https://news.ycombinator.com/item?id=44003447) - [Leeks and Leaks – Daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
@@ -11,7 +12,6 @@
 * [2025-05-16, 02:46:18](https://news.ycombinator.com/item?id=44001391) - [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 * [2025-05-16, 01:43:27](https://news.ycombinator.com/item?id=44001087) - [Ollama's new engine for multimodal models](https://ollama.com/blog/multimodal-models)
 * [2025-05-16, 00:40:35](https://news.ycombinator.com/item?id=44000759) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
-* [2025-05-16, 00:29:09](https://news.ycombinator.com/item?id=44000700) - [NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix](https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/)
 * [2025-05-15, 21:57:19](https://news.ycombinator.com/item?id=43999748) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 * [2025-05-15, 21:27:10](https://news.ycombinator.com/item?id=43999492) - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
