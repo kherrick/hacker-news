@@ -45,6 +45,7 @@
 * [2025-05-13, 15:24:26](https://news.ycombinator.com/item?id=43973964) - [A Tale of a Trailing Dot (2022)](https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/)
 * [2025-05-13, 15:17:43](https://news.ycombinator.com/item?id=43973887) - [Radiance Contrasts at Possible Lunar Water Ice Exposures Seen by ShadowCam](https://iopscience.iop.org/article/10.3847/PSJ/adb8d1)
 * [2025-05-13, 15:01:09](https://news.ycombinator.com/item?id=43973721) - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
+* [2025-05-13, 14:57:57](https://news.ycombinator.com/item?id=43973677) - [Zinc Microcapacitors Are the Best of Both Worlds](https://spectrum.ieee.org/zinc-microcapacitor)
 * [2025-05-13, 14:43:46](https://news.ycombinator.com/item?id=43973541) - [We Made CUDA Optimization Suck Less](https://www.rightnowai.co/)
 * [2025-05-13, 14:42:02](https://news.ycombinator.com/item?id=43973518) - [Understanding Java's Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
 * [2025-05-13, 14:39:58](https://news.ycombinator.com/item?id=43973502) - [Chrome's New Embedding Model: Smaller, Faster, Same Quality](https://dejan.ai/blog/chromes-new-embedding-model/)
