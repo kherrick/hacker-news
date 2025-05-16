@@ -21,7 +21,7 @@
 * [2025-05-15, 13:41:37](https://news.ycombinator.com/item?id=43995005) - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
 * [2025-05-15, 13:40:04](https://news.ycombinator.com/item?id=43994987) - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
 * [2025-05-15, 13:20:28](https://news.ycombinator.com/item?id=43994765) - [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
-* [2025-05-13, 17:20:11](https://news.ycombinator.com/item?id=43975352) - [Material 3 Expressive: Better, Easier, Emotional UX](https://design.google/library/expressive-material-design-google-research)
+* [2025-05-15, 11:29:22](https://news.ycombinator.com/item?id=43993897) - [In the US, a rotating detonation rocket engine takes flight](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/)
 * [2025-05-13, 16:43:04](https://news.ycombinator.com/item?id=43974872) - [Lock-Free Rust: How to Build a Rollercoaster While It's on Fire](https://yeet.cx/blog/lock-free-rust/)
 * [2025-05-13, 16:08:00](https://news.ycombinator.com/item?id=43974461) - [Náhuatl and Mayan Language Renaissance Occurring in Mexico](https://yucatanmagazine.com/mayan-language-renaissance/)
 * [2025-05-13, 15:58:28](https://news.ycombinator.com/item?id=43974344) - [Bringing 3D shoppable products online with generative AI](https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/)
