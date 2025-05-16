@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-05-16, 12:48:22",
+      "https://news.ycombinator.com/item?id=44004827"
+    ],
+    [
+      "Show HN: SQL-tString a t-string SQL builder in Python",
+      "https://github.com/pgjones/sql-tstring"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 12:30:05",
       "https://news.ycombinator.com/item?id=44004625"
     ],
     [
       "Sci-Hub Sci-Net",
       "https://sci-hub.se/sci-net"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 12:23:12",
-      "https://news.ycombinator.com/item?id=44004568"
-    ],
-    [
-      "The Mortality Impacts of Usaid Cuts",
-      "https://asteriskmag.substack.com/p/forecast-series-the-mortality-impacts"
     ]
   ],
   [
@@ -35,18 +35,8 @@
       "https://news.ycombinator.com/item?id=44004362"
     ],
     [
-      "Dalus (YC W25) is hiring a founding engineer for hardware system design software",
+      "Dalus (YC W25) is hiring an engineer for hardware system design software",
       "https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 11:50:46",
-      "https://news.ycombinator.com/item?id=44004250"
-    ],
-    [
-      "Grok's white genocide fixation caused by 'unauthorized modification'",
-      "https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "The first year of free-threaded Python",
       "https://labs.quansight.org/blog/free-threaded-one-year-recap"
+    ]
+  ],
+  [
+    [
+      "2025-05-16, 09:24:37",
+      "https://news.ycombinator.com/item?id=44003349"
+    ],
+    [
+      "Letsencrypt will kill SMTP server auth following Chrome CA policy change",
+      "https://social.wildeboer.net/@jwildeboer/114516238307785904"
     ]
   ],
   [
