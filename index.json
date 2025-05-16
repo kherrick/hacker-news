@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-16, 21:20:15",
+      "https://news.ycombinator.com/item?id=44009894"
+    ],
+    [
+      "Show HN: Solidis – Tiny TS Redis client, no deps, for serverless",
+      "https://github.com/vcms-io/solidis"
+    ]
+  ],
+  [
+    [
+      "2025-05-16, 21:10:12",
+      "https://news.ycombinator.com/item?id=44009848"
+    ],
+    [
+      "Getting AI to write good SQL: Text-to-SQL techniques explained",
+      "https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 20:39:30",
       "https://news.ycombinator.com/item?id=44009621"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-13, 21:16:09",
-      "https://news.ycombinator.com/item?id=43977821"
-    ],
-    [
-      "Data preparation for function tooling is boring",
-      "https://thehyperplane.substack.com/p/data-preparation-for-function-tooling"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 19:47:35",
       "https://news.ycombinator.com/item?id=43976886"
     ],
@@ -287,16 +297,6 @@
     [
       "What were the MS-DOS programs that the moricons.dll icons were intended for?",
       "https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 09:01:40",
-      "https://news.ycombinator.com/item?id=43970953"
-    ],
-    [
-      "LPython: Novel, Fast, Retargetable Python Compiler (2023)",
-      "https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/"
     ]
   ]
 ]
