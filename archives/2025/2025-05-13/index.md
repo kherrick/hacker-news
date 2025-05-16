@@ -36,6 +36,7 @@
 * [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [Branch Privilege Injection: Exploiting branch predictor race conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
 * [2025-05-13, 16:43:04](https://news.ycombinator.com/item?id=43974872) - [Lock-Free Rust: How to Build a Rollercoaster While It's on Fire](https://yeet.cx/blog/lock-free-rust/)
 * [2025-05-13, 16:23:33](https://news.ycombinator.com/item?id=43974636) - [Fewer people want to work in the U.S.](https://www.axios.com/2025/05/13/us-jobs-foreign-workers)
+* [2025-05-13, 16:20:13](https://news.ycombinator.com/item?id=43974599) - [Thermoelectric generator based on a robust carbon nanotube/BiSbTe foam](https://onlinelibrary.wiley.com/doi/10.1002/cey2.650)
 * [2025-05-13, 16:09:57](https://news.ycombinator.com/item?id=43974484) - [Show HN: AG-UI Protocol – Bring Agents into Frontend Applications](https://github.com/ag-ui-protocol/ag-ui)
 * [2025-05-13, 16:08:00](https://news.ycombinator.com/item?id=43974461) - [Náhuatl and Mayan Language Renaissance Occurring in Mexico](https://yucatanmagazine.com/mayan-language-renaissance/)
 * [2025-05-13, 15:58:28](https://news.ycombinator.com/item?id=43974344) - [Bringing 3D shoppable products online with generative AI](https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/)
