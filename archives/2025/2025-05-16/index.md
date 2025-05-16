@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 23:27:24](https://news.ycombinator.com/item?id=44010705) - [The Collapse of GPT](https://cacm.acm.org/news/the-collapse-of-gpt/)
 * [2025-05-16, 23:18:41](https://news.ycombinator.com/item?id=44010659) - [They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More](https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html)
 * [2025-05-16, 21:39:15](https://news.ycombinator.com/item?id=44009999) - [Moody's strips US of top-notch triple-A credit rating](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4)
 * [2025-05-16, 21:20:15](https://news.ycombinator.com/item?id=44009894) - [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)

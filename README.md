@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 23:27:24](https://news.ycombinator.com/item?id=44010705) - [The Collapse of GPT](https://cacm.acm.org/news/the-collapse-of-gpt/)
 * [2025-05-16, 23:18:41](https://news.ycombinator.com/item?id=44010659) - [They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More](https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html)
 * [2025-05-16, 21:39:15](https://news.ycombinator.com/item?id=44009999) - [Moody’s strips U.S. of triple-A credit rating](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4)
 * [2025-05-16, 21:20:15](https://news.ycombinator.com/item?id=44009894) - [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
@@ -26,7 +27,6 @@
 * [2025-05-13, 17:25:34](https://news.ycombinator.com/item?id=43975404) - [Transformer: The Deep Chemistry of Life and Death](https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/)
 * [2025-05-13, 17:20:11](https://news.ycombinator.com/item?id=43975352) - [Material 3 Expressive](https://design.google/library/expressive-material-design-google-research)
 * [2025-05-13, 13:22:36](https://news.ycombinator.com/item?id=43972669) - [Rustls Server-Side Performance](https://www.memorysafety.org/blog/rustls-server-perf/)
-* [2025-05-13, 12:59:06](https://news.ycombinator.com/item?id=43972449) - [Tower Defense: Cache Control](https://www.jasonthorsness.com/26)
 * [2025-05-13, 12:27:55](https://news.ycombinator.com/item?id=43972154) - [Lawful kinematics link eye movements to the limits of high-speed perception](https://www.nature.com/articles/s41467-025-58659-9)
 * [2025-05-13, 12:03:00](https://news.ycombinator.com/item?id=43971944) - [Taking a look at the next generation of telescopes](https://arstechnica.com/space/2025/05/tuesday-telescope-taking-a-look-at-the-next-generation-of-telescopes/)
 * [2025-05-13, 11:06:58](https://news.ycombinator.com/item?id=43971616) - [What were the MS-DOS programs that the moricons.dll icons were intended for?](https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157)
