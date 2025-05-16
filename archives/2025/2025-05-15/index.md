@@ -14,6 +14,7 @@
 * [2025-05-15, 19:28:01](https://news.ycombinator.com/item?id=43998423) - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
 * [2025-05-15, 19:09:14](https://news.ycombinator.com/item?id=43998269) - [October the First Is Too Late](https://gwern.net/fiction/october)
 * [2025-05-15, 18:53:55](https://news.ycombinator.com/item?id=43998115) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
+* [2025-05-15, 18:47:55](https://news.ycombinator.com/item?id=43998049) - [Windsurf SWE-1: Our First Frontier Models](https://windsurf.com/blog/windsurf-wave-9-swe-1)
 * [2025-05-15, 18:43:43](https://news.ycombinator.com/item?id=43998008) - [Dr. Dobb's Journal Interviews Jef Raskin (1986)](https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin)
 * [2025-05-15, 18:36:22](https://news.ycombinator.com/item?id=43997932) - [New paradigm for psychology just dropped](https://www.experimental-history.com/p/new-paradigm-for-psychology-just)
 * [2025-05-15, 18:26:29](https://news.ycombinator.com/item?id=43997830) - [Harvard Law Paid $27 for a Copy of Magna Carta. It's an Original](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html)

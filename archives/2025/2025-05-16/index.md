@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 04:10:10](https://news.ycombinator.com/item?id=44001768) - [Huawei is spamming open source community for its Harmony ecosystem (See Comment)](https://github.com/search?q=%22Proposal+for+OpenHarmony+Adaptation+of%22&type=issues)
 * [2025-05-16, 04:09:48](https://news.ycombinator.com/item?id=44001765) - [The Awful German Language](https://faculty.georgetown.edu/jod/texts/twain.german.html)
 * [2025-05-16, 04:01:41](https://news.ycombinator.com/item?id=44001734) - [\"Goodwill\", key member of the SoCal Python Community has passed away](https://socalpython.org/in-memoriam-michael/)
 * [2025-05-16, 03:32:25](https://news.ycombinator.com/item?id=44001593) - [Meta Battles an 'Epidemic of Scams' as Criminals Flood Instagram and Facebook](https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8)
