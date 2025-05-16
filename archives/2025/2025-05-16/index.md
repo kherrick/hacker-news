@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
 * [2025-05-16, 20:39:30](https://news.ycombinator.com/item?id=44009621) - [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
+* [2025-05-16, 20:20:20](https://news.ycombinator.com/item?id=44009464) - [ClojureScript forks Google Closure to guarantee backward compatibility](https://clojurescript.org/news/2025-05-16-release)
 * [2025-05-16, 20:04:58](https://news.ycombinator.com/item?id=44009321) - [Show HN: KVSplit – Run 2-3× longer contexts on Apple Silicon](https://github.com/dipampaul17/KVSplit)
 * [2025-05-16, 19:13:17](https://news.ycombinator.com/item?id=44008867) - [ChatGPT can accurately estimate Body Fat Percentage from photos](https://annaleptikon.substack.com/p/can-chatgpt-accurately-estimate-body)
 * [2025-05-16, 19:09:55](https://news.ycombinator.com/item?id=44008843) - [Thoughts on Thinking](https://dcurt.is/thinking)
