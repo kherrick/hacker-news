@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44009848"
     ],
     [
-      "Getting AI to write good SQL: Text-to-SQL techniques explained",
+      "Getting AI to write good SQL",
       "https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql"
     ]
   ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-05-13, 19:12:01",
-      "https://news.ycombinator.com/item?id=43976504"
-    ],
-    [
-      "Returning to My Roots in Hardware",
-      "https://dancrimp.nz/2025/03/31/hardware/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 17:25:34",
       "https://news.ycombinator.com/item?id=43975404"
     ],
@@ -257,6 +247,16 @@
     [
       "Material 3 Expressive",
       "https://design.google/library/expressive-material-design-google-research"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 13:22:36",
+      "https://news.ycombinator.com/item?id=43972669"
+    ],
+    [
+      "Rustls Server-Side Performance",
+      "https://www.memorysafety.org/blog/rustls-server-perf/"
     ]
   ],
   [
