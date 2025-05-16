@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-16, 15:37:30](https://news.ycombinator.com/item?id=44006735) - [Show HN: Rv, a Package Manager for R](https://github.com/A2-ai/rv)
 * [2025-05-16, 15:09:25](https://news.ycombinator.com/item?id=44006426) - [Assuring an Accurate Research Record](https://economics.mit.edu/news/assuring-accurate-research-record)
 * [2025-05-16, 15:05:32](https://news.ycombinator.com/item?id=44006381) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44006381)
 * [2025-05-16, 15:02:02](https://news.ycombinator.com/item?id=44006345) - [A Research Preview of Codex](https://openai.com/index/introducing-codex/)
@@ -7,7 +8,6 @@
 * [2025-05-16, 14:03:04](https://news.ycombinator.com/item?id=44005668) - [Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html)
 * [2025-05-16, 13:22:40](https://news.ycombinator.com/item?id=44005195) - [Evolution of Rust Compiler Errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
 * [2025-05-16, 13:14:36](https://news.ycombinator.com/item?id=44005110) - [Explaining British Naval Dominance During the Age of Sail](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail)
-* [2025-05-16, 13:05:25](https://news.ycombinator.com/item?id=44005008) - [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 * [2025-05-16, 12:48:22](https://news.ycombinator.com/item?id=44004827) - [Show HN: SQL-tString a t-string SQL builder in Python](https://github.com/pgjones/sql-tstring)
 * [2025-05-16, 12:30:05](https://news.ycombinator.com/item?id=44004625) - [Sci-Net](https://sci-hub.se/sci-net)
 * [2025-05-16, 12:03:07](https://news.ycombinator.com/item?id=44004388) - [Ground control to Major Trial](https://virtualize.sh/blog/ground-control-to-major-trial/)
