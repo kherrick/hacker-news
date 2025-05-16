@@ -28,6 +28,7 @@
 * [2025-05-13, 17:57:57](https://news.ycombinator.com/item?id=43975782) - [OpenTelemetry Protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
 * [2025-05-13, 17:37:58](https://news.ycombinator.com/item?id=43975541) - [PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
 * [2025-05-13, 17:26:38](https://news.ycombinator.com/item?id=43975423) - [Show HN: Helixdb – Open-source vector-graph database for AI applications (Rust)](https://github.com/HelixDB/helix-db/)
+* [2025-05-13, 17:20:11](https://news.ycombinator.com/item?id=43975352) - [Material 3 Expressive: Better, Easier, Emotional UX](https://design.google/library/expressive-material-design-google-research)
 * [2025-05-13, 17:17:17](https://news.ycombinator.com/item?id=43975318) - [Sid Meier's Colonization](https://peyre.42web.io/Colonization/index.htm)
 * [2025-05-13, 17:12:33](https://news.ycombinator.com/item?id=43975254) - [GOP sneaks decade-long AI regulation ban into spending bill](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/)
 * [2025-05-13, 16:44:51](https://news.ycombinator.com/item?id=43974891) - [ETH Zurich researchers discover new security vulnerability in Intel processors](https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html)
