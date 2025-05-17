@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 04:39:31](https://news.ycombinator.com/item?id=44012074) - [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
 * [2025-05-17, 02:50:15](https://news.ycombinator.com/item?id=44011669) - [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
 * [2025-05-17, 02:46:33](https://news.ycombinator.com/item?id=44011654) - [Behind Silicon Valley and the GOP's campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
 * [2025-05-17, 02:23:30](https://news.ycombinator.com/item?id=44011569) - [Postman for MCP](https://usetexture.com/##)
