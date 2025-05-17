@@ -6,6 +6,7 @@
 
 * [2025-05-13, 23:53:45](https://news.ycombinator.com/item?id=43979197) - [Less meat is nearly always better than sustainable meat](https://ourworldindata.org/less-meat-or-sustainable-meat)
 * [2025-05-13, 23:34:07](https://news.ycombinator.com/item?id=43979063) - [Your fingers wrinkle the same way every time you're in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
+* [2025-05-13, 23:08:07](https://news.ycombinator.com/item?id=43978825) - [The Airplane 'Barf Bag' Is a Genius Invention Most People Never Think About](https://www.theautopian.com/the-airplane-barf-bag-is-a-genius-invention-most-people-never-think-about-and-using-one-blew-my-mind/)
 * [2025-05-13, 22:25:29](https://news.ycombinator.com/item?id=43978435) - [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 * [2025-05-13, 22:15:30](https://news.ycombinator.com/item?id=43978357) - [Type-Constrained Code Generation with Language Models](https://arxiv.org/abs/2504.09246)
 * [2025-05-13, 22:12:11](https://news.ycombinator.com/item?id=43978333) - [How (memory) safe is Zig? (2021)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)

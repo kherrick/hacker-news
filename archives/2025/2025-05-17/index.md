@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 02:23:30](https://news.ycombinator.com/item?id=44011569) - [Postman for MCP](https://usetexture.com/##)
 * [2025-05-17, 02:10:36](https://news.ycombinator.com/item?id=44011515) - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
+* [2025-05-17, 02:02:14](https://news.ycombinator.com/item?id=44011489) - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
 * [2025-05-17, 01:57:43](https://news.ycombinator.com/item?id=44011474) - [Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices](https://kokoroai.org)
 * [2025-05-17, 01:36:23](https://news.ycombinator.com/item?id=44011381) - [A Linux kernel developer plays with Home Assistant: case studies](https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/)
 * [2025-05-17, 01:14:48](https://news.ycombinator.com/item?id=44011281) - [Show HN: Roast My Dish – AI roasts your food photos with brutal honesty](https://www.roastmydish.online/)
