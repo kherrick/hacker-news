@@ -39,6 +39,7 @@
 * [2025-05-14, 13:57:07](https://news.ycombinator.com/item?id=43984614) - [ESP WebRTC Solution Release v1.0](https://github.com/espressif/esp-webrtc-solution/releases/tag/v1.0.0)
 * [2025-05-14, 13:44:02](https://news.ycombinator.com/item?id=43984461) - [Entrepreneurial Spawning from Remote Work](https://www.nber.org/papers/w33774)
 * [2025-05-14, 13:28:24](https://news.ycombinator.com/item?id=43984297) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
+* [2025-05-14, 13:27:33](https://news.ycombinator.com/item?id=43984285) - [The Boring Company Achieves \"Holy Grail\" Zero-People-in-Tunnel Continuous Mining](https://gearmusk.com/2025/05/14/the-boring-company-zpit/)
 * [2025-05-14, 13:27:04](https://news.ycombinator.com/item?id=43984275) - [The U.S. Nuclear Base Hidden Under Greenland's Ice for Decades](https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea)
 * [2025-05-14, 13:08:26](https://news.ycombinator.com/item?id=43984097) - [How the Economics of Multitenancy Work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
 * [2025-05-14, 12:53:31](https://news.ycombinator.com/item?id=43983941) - [\"Google wanted that\": Nextcloud decries Android permissions as \"gatekeeping\"](https://arstechnica.com/gadgets/2025/05/nextcloud-accuses-google-of-big-tech-gatekeeping-over-android-app-permissions/)
