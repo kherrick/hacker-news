@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
+* [2025-05-17, 13:52:51](https://news.ycombinator.com/item?id=44014343) - [Steepest Descent Density Control for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2505.05587)
+* [2025-05-17, 13:17:31](https://news.ycombinator.com/item?id=44014106) - [FDA Clears First Blood Test to Diagnose Alzheimer's](https://www.bloomberg.com/news/articles/2025-05-16/fda-approves-first-blood-test-to-diagnose-alzheimer-s-disease)
 * [2025-05-17, 12:51:26](https://news.ycombinator.com/item?id=44013933) - [The Japanese method of creating forests comes to Mexico](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html)
 * [2025-05-17, 12:47:40](https://news.ycombinator.com/item?id=44013913) - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 * [2025-05-17, 12:08:10](https://news.ycombinator.com/item?id=44013696) - [No-boom supersonic flights could slide through US skies soon](https://www.theregister.com/2025/05/17/faa_supersonic_law/)
