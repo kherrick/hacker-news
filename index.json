@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-05-17, 02:10:36",
+      "https://news.ycombinator.com/item?id=44011515"
+    ],
+    [
+      "XTool – Cross-platform Xcode replacement",
+      "https://github.com/xtool-org/xtool"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 01:57:43",
+      "https://news.ycombinator.com/item?id=44011474"
+    ],
+    [
+      "Show HN: Kokoro TTS – Free Text to Speech Converter with Multilingual AI Voices",
+      "https://kokoroai.org"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 01:36:23",
+      "https://news.ycombinator.com/item?id=44011381"
+    ],
+    [
+      "A Linux kernel developer plays with Home Assistant: case studies",
+      "https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 01:14:48",
+      "https://news.ycombinator.com/item?id=44011281"
+    ],
+    [
+      "Show HN: Roast My Dish – AI roasts your food photos with brutal honesty",
+      "https://www.roastmydish.online/"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 01:09:38",
+      "https://news.ycombinator.com/item?id=44011254"
+    ],
+    [
+      "Show HN: Merliot – plugging physical devices into LLMs",
+      "https://github.com/merliot/hub"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 00:46:24",
       "https://news.ycombinator.com/item?id=44011139"
     ],
@@ -15,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44010705"
     ],
     [
-      "The Collapse of GPT",
+      "Will AI systems perform poorly due to AI-generated material in training data?",
       "https://cacm.acm.org/news/the-collapse-of-gpt/"
     ]
   ],
@@ -101,32 +151,12 @@
   ],
   [
     [
-      "2025-05-16, 17:08:02",
-      "https://news.ycombinator.com/item?id=44007714"
-    ],
-    [
-      "New 'Superdiffusion' Proof Probes the Mysterious Math of Turbulence",
-      "https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/"
-    ]
-  ],
-  [
-    [
       "2025-05-16, 17:01:00",
       "https://news.ycombinator.com/item?id=44007644"
     ],
     [
       "Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE)",
       "https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 16:05:00",
-      "https://news.ycombinator.com/item?id=44007065"
-    ],
-    [
-      "Show HN: Workflow Use – Deterministic, self-healing browser automation (RPA 2.0)",
-      "https://github.com/browser-use/workflow-use"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-05-16, 13:22:40",
-      "https://news.ycombinator.com/item?id=44005195"
-    ],
-    [
-      "Evolution of Rust Compiler Errors",
-      "https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html"
-    ]
-  ],
-  [
-    [
       "2025-05-16, 13:05:25",
       "https://news.ycombinator.com/item?id=44005008"
     ],
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2025-05-13, 21:34:01",
-      "https://news.ycombinator.com/item?id=43977982"
+      "2025-05-14, 07:45:00",
+      "https://news.ycombinator.com/item?id=43981971"
     ],
     [
-      "Show HN: A C-Suite AI Agent Meant for SMB",
-      "https://askcaa.com/"
+      "New high-quality hash measures 71GB/s on M4",
+      "https://github.com/Nicoshev/rapidhash"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "Returning to My Roots in Hardware",
       "https://dancrimp.nz/2025/03/31/hardware/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 17:25:34",
-      "https://news.ycombinator.com/item?id=43975404"
-    ],
-    [
-      "Transformer: The Deep Chemistry of Life and Death",
-      "https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2025-05-13, 12:27:55",
-      "https://news.ycombinator.com/item?id=43972154"
+      "2025-05-13, 12:47:04",
+      "https://news.ycombinator.com/item?id=43972334"
     ],
     [
-      "Lawful kinematics link eye movements to the limits of high-speed perception",
-      "https://www.nature.com/articles/s41467-025-58659-9"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 12:03:00",
-      "https://news.ycombinator.com/item?id=43971944"
-    ],
-    [
-      "Taking a look at the next generation of telescopes",
-      "https://arstechnica.com/space/2025/05/tuesday-telescope-taking-a-look-at-the-next-generation-of-telescopes/"
+      "MCP: An In-Depth Guide (With Cloudflare, Sentry, GitHub, Cline)",
+      "https://www.speakeasy.com/mcp/mcp-tutorial"
     ]
   ],
   [
