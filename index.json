@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-17, 17:14:19",
+      "https://news.ycombinator.com/item?id=44015657"
+    ],
+    [
+      "The longest train journey is epic – but nobody's ever taken it",
+      "https://bigthink.com/strange-maps/portugal-to-singapore-train/"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 17:10:04",
+      "https://news.ycombinator.com/item?id=44015632"
+    ],
+    [
+      "Best open source LLMs for Enterprise",
+      "https://www.enterprisebot.ai/blog/the-best-open-source-llms-for-enterprise"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 16:49:21",
+      "https://news.ycombinator.com/item?id=44015515"
+    ],
+    [
+      "Mr. Secretary, Reclassify the Statin",
+      "https://www.alexkesin.com/p/mr-secretary-reclassify-the-statin"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 16:26:44",
+      "https://news.ycombinator.com/item?id=44015367"
+    ],
+    [
+      "How to have the browser pick a contrasting color in CSS",
+      "https://webkit.org/blog/16929/contrast-color/"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 15:51:05",
       "https://news.ycombinator.com/item?id=44015144"
     ],
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2025-05-17, 09:07:13",
-      "https://news.ycombinator.com/item?id=44013046"
-    ],
-    [
-      "Life before the web – Running a Startup in the 1980's",
-      "https://blog.zamzar.com/2016/07/13/life-before-the-web-running-a-startup-in-the-1980s/"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 07:46:29",
       "https://news.ycombinator.com/item?id=44012729"
     ],
@@ -117,16 +147,6 @@
     [
       "JavaScript's New Superpower: Explicit Resource Management",
       "https://v8.dev/features/explicit-resource-management"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 04:39:31",
-      "https://news.ycombinator.com/item?id=44012074"
-    ],
-    [
-      "Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java",
-      "https://github.com/moustafa-nasr/fahmatrix"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2025-05-17, 01:09:38",
-      "https://news.ycombinator.com/item?id=44011254"
-    ],
-    [
-      "Show HN: Merliot – plugging physical devices into LLMs",
-      "https://github.com/merliot/hub"
-    ]
-  ],
-  [
-    [
       "2025-05-16, 21:10:12",
       "https://news.ycombinator.com/item?id=44009848"
     ],
     [
       "Getting AI to write good SQL",
       "https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 20:20:20",
-      "https://news.ycombinator.com/item?id=44009464"
-    ],
-    [
-      "ClojureScript 1.12.42",
-      "https://clojurescript.org/news/2025-05-16-release"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "How Cory Arcangel Recovered Late Artist Michel Majerus's Digital Legacy",
       "https://www.newyorker.com/culture/infinite-scroll/how-cory-arcangel-recovered-a-late-artists-digital-legacy"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 14:31:53",
+      "https://news.ycombinator.com/item?id=43995501"
+    ],
+    [
+      "How I fixed the infamous Basilisk II Windows \"Black Screen\" bug in 2013",
+      "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "New high-quality hash measures 71GB/s on M4",
       "https://github.com/Nicoshev/rapidhash"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 05:44:32",
-      "https://news.ycombinator.com/item?id=43981198"
-    ],
-    [
-      "How can traditional British TV survive the US streaming giants",
-      "https://www.bbc.co.uk/news/articles/cx2enydkew3o"
     ]
   ],
   [
