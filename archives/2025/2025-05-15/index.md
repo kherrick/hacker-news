@@ -64,6 +64,7 @@
 * [2025-05-15, 06:16:42](https://news.ycombinator.com/item?id=43992306) - [Bitwarden registration flow failed – so I wrote a stand-up comedy set instead](https://github.com/MenstaDay/bitwarden-registration-theatre)
 * [2025-05-15, 05:25:38](https://news.ycombinator.com/item?id=43992109) - [EA Pushes Full Return to Office, Effectively Ends Remote Hiring](https://www.ign.com/articles/ea-pushes-full-return-to-office-effectively-ends-remote-hiring)
 * [2025-05-15, 05:24:43](https://news.ycombinator.com/item?id=43992100) - [Moving Forth: a series on writing Forth kernels](https://www.bradrodriguez.com/papers/index.html)
+* [2025-05-15, 03:19:26](https://news.ycombinator.com/item?id=43991500) - [Hunting extreme microbes that redefine the limits of life](https://www.nature.com/articles/d41586-025-01464-7)
 * [2025-05-15, 02:57:19](https://news.ycombinator.com/item?id=43991396) - [Human](https://quarter--mile.com/Human)
 * [2025-05-15, 02:28:42](https://news.ycombinator.com/item?id=43991256) - [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
 * [2025-05-15, 01:53:11](https://news.ycombinator.com/item?id=43991091) - [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
