@@ -12,6 +12,7 @@
 * [2025-05-14, 21:01:15](https://news.ycombinator.com/item?id=43989173) - [StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
 * [2025-05-14, 20:19:23](https://news.ycombinator.com/item?id=43988753) - [The Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
 * [2025-05-14, 19:54:31](https://news.ycombinator.com/item?id=43988533) - [Show HN: Semantic Calculator (King-Man+woman=?)](https://calc.datova.ai)
+* [2025-05-14, 19:52:10](https://news.ycombinator.com/item?id=43988518) - [Remembering IBM Researcher Dick Garwin](https://research.ibm.com/blog/richard-garwin-obituary)
 * [2025-05-14, 19:38:26](https://news.ycombinator.com/item?id=43988381) - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
 * [2025-05-14, 19:29:38](https://news.ycombinator.com/item?id=43988315) - [The Perverse Incentives of Vibe Coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
 * [2025-05-14, 19:04:41](https://news.ycombinator.com/item?id=43988116) - [David Hilbert's radio address (2014)](https://old.maa.org/press/periodicals/convergence/david-hilberts-radio-address)
