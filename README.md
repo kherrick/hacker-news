@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-17, 20:05:09](https://news.ycombinator.com/item?id=44016621) - [Large Language Models Are More Persuasive Than Incentivized Human Persuaders](https://arxiv.org/abs/2505.09662)
 * [2025-05-17, 19:51:45](https://news.ycombinator.com/item?id=44016530) - [Wacom drawing tablets track the name of every application you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
 * [2025-05-17, 19:14:56](https://news.ycombinator.com/item?id=44016336) - [Directory of MCP Servers](https://github.com/chatmcp/mcpso)
 * [2025-05-17, 18:21:18](https://news.ycombinator.com/item?id=44016037) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
@@ -20,7 +21,6 @@
 * [2025-05-17, 07:46:29](https://news.ycombinator.com/item?id=44012729) - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 07:19:55](https://news.ycombinator.com/item?id=44012615) - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
 * [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
-* [2025-05-17, 02:02:14](https://news.ycombinator.com/item?id=44011489) - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
 * [2025-05-17, 01:36:23](https://news.ycombinator.com/item?id=44011381) - [A kernel developer plays with Home Assistant](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
 * [2025-05-15, 17:46:19](https://news.ycombinator.com/item?id=43997467) - [A library of words: Discovering Roget's Thesaurus (2023)](https://austinkleon.substack.com/p/a-library-of-words)
 * [2025-05-15, 14:31:53](https://news.ycombinator.com/item?id=43995501) - [How I fixed the infamous Basilisk II Windows \"Black Screen\" bug in 2013](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
