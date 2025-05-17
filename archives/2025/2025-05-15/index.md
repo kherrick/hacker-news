@@ -50,6 +50,7 @@
 * [2025-05-15, 12:50:43](https://news.ycombinator.com/item?id=43994486) - [Show HN: A free AI risk assessment tool for LLM applications](https://www.gettavo.com/app)
 * [2025-05-15, 12:43:39](https://news.ycombinator.com/item?id=43994408) - [CarPlay Ultra, the next generation of CarPlay, begins rolling out today](https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/)
 * [2025-05-15, 12:32:15](https://news.ycombinator.com/item?id=43994333) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
+* [2025-05-15, 12:28:16](https://news.ycombinator.com/item?id=43994306) - [Oracle VM VirtualBox – VM Escape via VGA Device](https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v)
 * [2025-05-15, 12:12:57](https://news.ycombinator.com/item?id=43994208) - [They Paid $3,500 for Apple's Vision Pro. A Year Later, It Still Hurts](https://www.wsj.com/tech/they-paid-3-500-for-apples-vision-pro-a-year-later-it-still-hurts-496de341)
 * [2025-05-15, 12:03:38](https://news.ycombinator.com/item?id=43994131) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2025-05-15, 11:29:22](https://news.ycombinator.com/item?id=43993897) - [In the US, a rotating detonation rocket engine takes flight](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/)
