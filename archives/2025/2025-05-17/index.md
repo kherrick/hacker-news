@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 21:22:08](https://news.ycombinator.com/item?id=44017056) - [Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers](https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html)
 * [2025-05-17, 20:05:09](https://news.ycombinator.com/item?id=44016621) - [Large Language Models Are More Persuasive Than Incentivized Human Persuaders](https://arxiv.org/abs/2505.09662)
 * [2025-05-17, 19:56:00](https://news.ycombinator.com/item?id=44016564) - [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
 * [2025-05-17, 19:51:45](https://news.ycombinator.com/item?id=44016530) - [Wacom drawing tablets track the name of every application you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
