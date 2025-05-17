@@ -5,6 +5,7 @@
 * [2025-05-17, 02:46:33](https://news.ycombinator.com/item?id=44011654) - [Behind Silicon Valley and the GOP’s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
 * [2025-05-17, 02:10:36](https://news.ycombinator.com/item?id=44011515) - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
 * [2025-05-17, 02:02:14](https://news.ycombinator.com/item?id=44011489) - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
+* [2025-05-17, 01:36:23](https://news.ycombinator.com/item?id=44011381) - [A Linux kernel developer plays with Home Assistant: case studies](https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/)
 * [2025-05-17, 01:09:38](https://news.ycombinator.com/item?id=44011254) - [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub)
 * [2025-05-17, 00:46:24](https://news.ycombinator.com/item?id=44011139) - [WebGL Gray-Scott Explorer (2012)](http://www.mrob.com/pub/comp/xmorphia/ogl/index.html)
 * [2025-05-16, 23:27:24](https://news.ycombinator.com/item?id=44010705) - [Will AI systems perform poorly due to AI-generated material in training data?](https://cacm.acm.org/news/the-collapse-of-gpt/)
@@ -27,7 +28,6 @@
 * [2025-05-14, 14:17:57](https://news.ycombinator.com/item?id=43984860) - [Coding agent in 94 lines of Ruby](https://radanskoric.com/articles/coding-agent-in-ruby)
 * [2025-05-14, 07:45:00](https://news.ycombinator.com/item?id=43981971) - [New high-quality hash measures 71GB/s on M4](https://github.com/Nicoshev/rapidhash)
 * [2025-05-14, 05:44:32](https://news.ycombinator.com/item?id=43981198) - [How can traditional British TV survive the US streaming giants](https://www.bbc.co.uk/news/articles/cx2enydkew3o)
-* [2025-05-13, 19:12:01](https://news.ycombinator.com/item?id=43976504) - [Returning to My Roots in Hardware](https://dancrimp.nz/2025/03/31/hardware/)
 * [2025-05-13, 13:22:36](https://news.ycombinator.com/item?id=43972669) - [Rustls Server-Side Performance](https://www.memorysafety.org/blog/rustls-server-perf/)
 * [2025-05-13, 12:47:04](https://news.ycombinator.com/item?id=43972334) - [MCP: An in-depth introduction](https://www.speakeasy.com/mcp/mcp-tutorial)
 
