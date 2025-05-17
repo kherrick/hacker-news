@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-17, 12:08:10",
+      "https://news.ycombinator.com/item?id=44013696"
+    ],
+    [
+      "No-boom supersonic flights could slide through US skies soon",
+      "https://www.theregister.com/2025/05/17/faa_supersonic_law/"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 10:52:28",
+      "https://news.ycombinator.com/item?id=44013387"
+    ],
+    [
+      "MinorMiner: We turn your kid's maths homework into Bitcoin",
+      "https://robertheaton.com/minor-miner/"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 09:37:46",
+      "https://news.ycombinator.com/item?id=44013181"
+    ],
+    [
+      "Open Problems in Computational geometry",
+      "https://topp.openproblem.net/"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 09:31:14",
       "https://news.ycombinator.com/item?id=44013154"
     ],
@@ -37,16 +67,6 @@
     [
       "JavaScript's New Superpower: Explicit Resource Management",
       "https://v8.dev/features/explicit-resource-management"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 04:39:31",
-      "https://news.ycombinator.com/item?id=44012074"
-    ],
-    [
-      "Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java",
-      "https://github.com/moustafa-nasr/fahmatrix"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-05-16, 20:04:58",
-      "https://news.ycombinator.com/item?id=44009321"
-    ],
-    [
-      "Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon",
-      "https://github.com/dipampaul17/KVSplit"
-    ]
-  ],
-  [
-    [
       "2025-05-16, 19:09:55",
       "https://news.ycombinator.com/item?id=44008843"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-05-16, 09:42:31",
-      "https://news.ycombinator.com/item?id=44003445"
-    ],
-    [
-      "The first year of free-threaded Python",
-      "https://labs.quansight.org/blog/free-threaded-one-year-recap"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 17:14:28",
       "https://news.ycombinator.com/item?id=43997135"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-05-14, 16:11:08",
+      "https://news.ycombinator.com/item?id=43986229"
+    ],
+    [
+      "IM-2's Imperfect Landing Due to Altimeter Interference",
+      "https://spacepolicyonline.com/news/im-2s-imperfect-landing-due-to-altimeter-interference-south-pole-lighting-conditions/"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 14:17:57",
       "https://news.ycombinator.com/item?id=43984860"
     ],
@@ -257,16 +267,6 @@
     [
       "How can traditional British TV survive the US streaming giants",
       "https://www.bbc.co.uk/news/articles/cx2enydkew3o"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 21:26:12",
-      "https://news.ycombinator.com/item?id=43977901"
-    ],
-    [
-      "Fixrleak: Fixing Java Resource Leaks with GenAI",
-      "https://www.uber.com/blog/fixrleak-fixing-java-resource-leaks-with-genai/"
     ]
   ],
   [
