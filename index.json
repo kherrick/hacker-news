@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-17, 18:21:18",
+      "https://news.ycombinator.com/item?id=44016037"
+    ],
+    [
+      "Mystical",
+      "https://suberic.net/~dmm/projects/mystical/README.html"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 17:54:20",
       "https://news.ycombinator.com/item?id=44015872"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2025-05-16, 21:10:12",
-      "https://news.ycombinator.com/item?id=44009848"
-    ],
-    [
-      "Getting AI to write good SQL",
-      "https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 17:14:28",
       "https://news.ycombinator.com/item?id=43997135"
     ],
     [
       "Popcorn: Run Elixir in WASM",
       "https://popcorn.swmansion.com/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 14:52:32",
-      "https://news.ycombinator.com/item?id=43995700"
-    ],
-    [
-      "How Cory Arcangel Recovered Late Artist Michel Majerus's Digital Legacy",
-      "https://www.newyorker.com/culture/infinite-scroll/how-cory-arcangel-recovered-a-late-artists-digital-legacy"
     ]
   ],
   [
@@ -251,6 +241,26 @@
   ],
   [
     [
+      "2025-05-14, 18:40:50",
+      "https://news.ycombinator.com/item?id=43987852"
+    ],
+    [
+      "NASA Observes First Visible-Light Auroras at Mars",
+      "https://www.jpl.nasa.gov/news/nasa-observes-first-visible-light-auroras-at-mars/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 15:11:57",
+      "https://news.ycombinator.com/item?id=43985513"
+    ],
+    [
+      "Coding Without a Laptop – Two Weeks with AR Glasses and Linux on Android",
+      "https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 07:45:00",
       "https://news.ycombinator.com/item?id=43981971"
     ],
@@ -277,16 +287,6 @@
     [
       "Moment of heart's formation captured in images for first time",
       "https://www.theguardian.com/science/2025/may/13/heart-cells-mouse-embryo-science-research"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 13:22:36",
-      "https://news.ycombinator.com/item?id=43972669"
-    ],
-    [
-      "Rustls Server-Side Performance",
-      "https://www.memorysafety.org/blog/rustls-server-perf/"
     ]
   ],
   [
