@@ -65,6 +65,7 @@
 * [2025-05-15, 06:43:03](https://news.ycombinator.com/item?id=43992444) - [EU ruling: tracking-based advertising [...] across Europe has no legal basis](https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/)
 * [2025-05-15, 06:38:13](https://news.ycombinator.com/item?id=43992420) - [Critical Warning for External Purchases in Apple App Store](https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/)
 * [2025-05-15, 06:16:42](https://news.ycombinator.com/item?id=43992306) - [Bitwarden registration flow failed – so I wrote a stand-up comedy set instead](https://github.com/MenstaDay/bitwarden-registration-theatre)
+* [2025-05-15, 05:58:38](https://news.ycombinator.com/item?id=43992242) - [Chapter 2: Serializability Theory (Concurrency Control Book)](http://muratbuffalo.blogspot.com/2025/05/chapter-2-serializability-theory.html)
 * [2025-05-15, 05:25:38](https://news.ycombinator.com/item?id=43992109) - [EA Pushes Full Return to Office, Effectively Ends Remote Hiring](https://www.ign.com/articles/ea-pushes-full-return-to-office-effectively-ends-remote-hiring)
 * [2025-05-15, 05:24:43](https://news.ycombinator.com/item?id=43992100) - [Moving Forth: a series on writing Forth kernels](https://www.bradrodriguez.com/papers/index.html)
 * [2025-05-15, 03:19:26](https://news.ycombinator.com/item?id=43991500) - [Hunting extreme microbes that redefine the limits of life](https://www.nature.com/articles/d41586-025-01464-7)
