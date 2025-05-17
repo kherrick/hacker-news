@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-17, 20:05:09](https://news.ycombinator.com/item?id=44016621) - [Large Language Models Are More Persuasive Than Incentivized Human Persuaders](https://arxiv.org/abs/2505.09662)
+* [2025-05-17, 19:56:00](https://news.ycombinator.com/item?id=44016564) - [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
 * [2025-05-17, 19:51:45](https://news.ycombinator.com/item?id=44016530) - [Wacom drawing tablets track the name of every application you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
 * [2025-05-17, 19:19:02](https://news.ycombinator.com/item?id=44016356) - [Starship Troopers Revolutionize Warfighting](https://perfectingequilibrium.substack.com/p/starship-troopers-revolutionize-warfighting)
 * [2025-05-17, 19:14:56](https://news.ycombinator.com/item?id=44016336) - [Directory of MCP Servers](https://github.com/chatmcp/mcpso)
 * [2025-05-17, 19:06:14](https://news.ycombinator.com/item?id=44016289) - [Xata: Postgres at scale, with copy-on-write branching and anonymization](https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization)
 * [2025-05-17, 18:21:18](https://news.ycombinator.com/item?id=44016037) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
-* [2025-05-17, 18:20:29](https://news.ycombinator.com/item?id=44016030) - [Lufthansa plane flown by autopilot after pilot faints in cockpit](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit)
 * [2025-05-17, 17:54:20](https://news.ycombinator.com/item?id=44015872) - [Dead Stars Don't Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
 * [2025-05-17, 17:14:19](https://news.ycombinator.com/item?id=44015657) - [The longest train journey is epic – but nobody's ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
 * [2025-05-17, 17:13:21](https://news.ycombinator.com/item?id=44015649) - [Show HN: I built a knife steel comparison tool](https://new.knife.day/blog/knife-steel-comparisons/all)
