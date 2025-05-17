@@ -7,6 +7,7 @@
 * [2025-05-17, 18:20:29](https://news.ycombinator.com/item?id=44016030) - [Lufthansa plane flown by autopilot after pilot faints in cockpit](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit)
 * [2025-05-17, 17:54:20](https://news.ycombinator.com/item?id=44015872) - [Dead Stars Don't Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
 * [2025-05-17, 17:14:19](https://news.ycombinator.com/item?id=44015657) - [The longest train journey is epic – but nobody's ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
+* [2025-05-17, 17:13:21](https://news.ycombinator.com/item?id=44015649) - [Show HN: I built a knife steel comparison tool](https://new.knife.day/blog/knife-steel-comparisons/all)
 * [2025-05-17, 17:07:33](https://news.ycombinator.com/item?id=44015614) - [Gnosis Evolve MCP for Claude Desktop](https://github.com/kordless/gnosis-evolve/blob/main/README.md)
 * [2025-05-17, 16:58:20](https://news.ycombinator.com/item?id=44015557) - [A Simulation in C++ of Joseph Weizenbaum's 1966 Eliza](https://github.com/anthay/ELIZA)
 * [2025-05-17, 16:26:44](https://news.ycombinator.com/item?id=44015367) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
@@ -15,7 +16,6 @@
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-17, 13:08:29](https://news.ycombinator.com/item?id=44014046) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
 * [2025-05-17, 12:00:53](https://news.ycombinator.com/item?id=44013671) - [OBNC – Oberon-07 Compiler](https://miasap.se/obnc/)
-* [2025-05-17, 09:37:46](https://news.ycombinator.com/item?id=44013181) - [Open Problems in Computational geometry](https://topp.openproblem.net/)
 * [2025-05-17, 09:31:55](https://news.ycombinator.com/item?id=44013157) - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2025-05-17, 07:46:29](https://news.ycombinator.com/item?id=44012729) - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 07:19:55](https://news.ycombinator.com/item?id=44012615) - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
@@ -27,9 +27,9 @@
 * [2025-05-15, 10:59:09](https://news.ycombinator.com/item?id=43993711) - [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
 * [2025-05-14, 18:40:50](https://news.ycombinator.com/item?id=43987852) - [NASA Observes First Visible-Light Auroras at Mars](https://www.jpl.nasa.gov/news/nasa-observes-first-visible-light-auroras-at-mars/)
 * [2025-05-14, 15:11:57](https://news.ycombinator.com/item?id=43985513) - [Coding Without a Laptop – Two Weeks with AR Glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
+* [2025-05-14, 14:11:46](https://news.ycombinator.com/item?id=43984770) - [Espanso – Cross-Platform Text Expander Written in Rust](https://github.com/espanso/espanso)
 * [2025-05-13, 21:25:15](https://news.ycombinator.com/item?id=43977896) - [Insurance for AI: Easier Said Than Done](https://loeber.substack.com/p/24-insurance-for-ai-easier-said-than)
 * [2025-05-13, 18:47:22](https://news.ycombinator.com/item?id=43976274) - [Moment of heart's formation captured in images for first time](https://www.theguardian.com/science/2025/may/13/heart-cells-mouse-embryo-science-research)
-* [2025-05-13, 12:47:04](https://news.ycombinator.com/item?id=43972334) - [MCP: An in-depth introduction](https://www.speakeasy.com/mcp/mcp-tutorial)
 
 ## [Archives](archives/index.md)
 
