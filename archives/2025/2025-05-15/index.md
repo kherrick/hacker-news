@@ -20,6 +20,7 @@
 * [2025-05-15, 18:26:29](https://news.ycombinator.com/item?id=43997830) - [Harvard Law Paid $27 for a Copy of Magna Carta. It's an Original](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html)
 * [2025-05-15, 18:15:28](https://news.ycombinator.com/item?id=43997728) - [Improving Naval Ship Acquisition](https://www.construction-physics.com/p/fixing-naval-ship-acquisition)
 * [2025-05-15, 18:06:06](https://news.ycombinator.com/item?id=43997636) - [Baby Is Healed with First Personalized Gene-Editing Treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
+* [2025-05-15, 17:46:19](https://news.ycombinator.com/item?id=43997467) - [A library of words: Discovering Roget's Thesaurus (2023)](https://austinkleon.substack.com/p/a-library-of-words)
 * [2025-05-15, 17:30:03](https://news.ycombinator.com/item?id=43997286) - [Stop using REST for state synchronization (2024)](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/)
 * [2025-05-15, 17:14:28](https://news.ycombinator.com/item?id=43997135) - [Popcorn: Run Elixir in WASM](https://popcorn.swmansion.com/)
 * [2025-05-15, 17:08:20](https://news.ycombinator.com/item?id=43997071) - [The Joys of Discovering the Roman Underground](https://www.smithsonianmag.com/travel/the-joys-of-discovering-the-roman-underground-from-the-colosseum-to-whats-beneath-the-trevi-foundation-180986626/)
