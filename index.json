@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-05-17, 02:50:15",
+      "https://news.ycombinator.com/item?id=44011669"
+    ],
+    [
+      "A Linux kernel developer plays with Home Assistant: general impressions",
+      "https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 02:46:33",
       "https://news.ycombinator.com/item?id=44011654"
     ],
     [
-      "Behind Silicon Valley and the GOP's campaign to ban state AI laws",
+      "Behind Silicon Valley and the GOP’s campaign to ban state AI laws",
       "https://www.bloodinthemachine.com/p/de-democratizing-ai"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Getting AI to write good SQL",
       "https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 20:39:30",
-      "https://news.ycombinator.com/item?id=44009621"
-    ],
-    [
-      "Methodical Banality",
-      "https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=43972334"
     ],
     [
-      "MCP: An In-Depth Guide (With Cloudflare, Sentry, GitHub, Cline)",
+      "MCP: An in-depth introduction",
       "https://www.speakeasy.com/mcp/mcp-tutorial"
     ]
   ]
