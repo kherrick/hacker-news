@@ -51,6 +51,7 @@
 * [2025-05-14, 10:10:00](https://news.ycombinator.com/item?id=43982777) - [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
 * [2025-05-14, 09:07:02](https://news.ycombinator.com/item?id=43982463) - [Developers, Don't Despair, Big Tech and AI Hype Is Off the Rails Again](https://cicero.sh/forums/thread/developers-don-t-despair-big-tech-and-ai-hype-is-off-the-rails-again-000007)
 * [2025-05-14, 08:32:05](https://news.ycombinator.com/item?id=43982238) - [$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
+* [2025-05-14, 07:45:00](https://news.ycombinator.com/item?id=43981971) - [New high-quality hash measures 71GB/s on M4](https://github.com/Nicoshev/rapidhash)
 * [2025-05-14, 07:02:54](https://news.ycombinator.com/item?id=43981680) - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 * [2025-05-14, 07:01:03](https://news.ycombinator.com/item?id=43981668) - [Raycast (YC W20) Is Hiring AI Engineer (Remote, UTC ± 3h)](https://www.raycast.com/jobs/ai-engineer)
 * [2025-05-14, 06:51:37](https://news.ycombinator.com/item?id=43981603) - [Show HN: Sam TTS – Recreates the classic Microsoft SAM voice in the browser](https://samtts.com)

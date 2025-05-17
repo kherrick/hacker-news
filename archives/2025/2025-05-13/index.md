@@ -72,6 +72,7 @@
 * [2025-05-13, 12:58:25](https://news.ycombinator.com/item?id=43972438) - [As US vuln-tracking falters, EU enters with its own security bug database](https://www.theregister.com/2025/05/13/eu_security_bug_database/)
 * [2025-05-13, 12:56:42](https://news.ycombinator.com/item?id=43972425) - [Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses](https://news.ycombinator.com/item?id=43972425)
 * [2025-05-13, 12:49:54](https://news.ycombinator.com/item?id=43972360) - [We can no longer run Microsoft Store on 1809/LTSC 2019](https://github.com/fernvenue/microsoft-store)
+* [2025-05-13, 12:47:04](https://news.ycombinator.com/item?id=43972334) - [MCP: An In-Depth Guide (With Cloudflare, Sentry, GitHub, Cline)](https://www.speakeasy.com/mcp/mcp-tutorial)
 * [2025-05-13, 12:27:55](https://news.ycombinator.com/item?id=43972154) - [Lawful kinematics link eye movements to the limits of high-speed perception](https://www.nature.com/articles/s41467-025-58659-9)
 * [2025-05-13, 12:20:27](https://news.ycombinator.com/item?id=43972088) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
 * [2025-05-13, 12:20:03](https://news.ycombinator.com/item?id=43972083) - [Archisuits (2005–2006)](https://insecurespaces.net/archisuits-2005-2006/)
