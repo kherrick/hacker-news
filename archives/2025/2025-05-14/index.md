@@ -57,6 +57,7 @@
 * [2025-05-14, 06:51:37](https://news.ycombinator.com/item?id=43981603) - [Show HN: Sam TTS – Recreates the classic Microsoft SAM voice in the browser](https://samtts.com)
 * [2025-05-14, 06:46:08](https://news.ycombinator.com/item?id=43981582) - [Don't use Wise. They can lock your account at any time. We're down $60k](https://hey.paris/posts/wise/)
 * [2025-05-14, 06:07:47](https://news.ycombinator.com/item?id=43981344) - [You can no longer browse open source code on GitHub without logging in first](https://github.com/orgs/community/discussions/159123)
+* [2025-05-14, 05:44:32](https://news.ycombinator.com/item?id=43981198) - [How can traditional British TV survive the US streaming giants](https://www.bbc.co.uk/news/articles/cx2enydkew3o)
 * [2025-05-14, 05:38:00](https://news.ycombinator.com/item?id=43981170) - [The recently lost file upload feature in the Nextcloud app for Android](https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/)
 * [2025-05-14, 04:33:21](https://news.ycombinator.com/item?id=43980845) - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
 * [2025-05-14, 04:20:34](https://news.ycombinator.com/item?id=43980768) - [ChatGPT may be polite, but it's not cooperating with you](https://www.theguardian.com/technology/ng-interactive/2025/may/13/chatgpt-ai-big-tech-cooperation)
