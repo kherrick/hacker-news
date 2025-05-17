@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-17, 17:54:20](https://news.ycombinator.com/item?id=44015872) - [Dead Stars Don't Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
 * [2025-05-17, 17:14:19](https://news.ycombinator.com/item?id=44015657) - [The longest train journey is epic – but nobody's ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
-* [2025-05-17, 16:49:21](https://news.ycombinator.com/item?id=44015515) - [Mr. Secretary, Reclassify the Statin](https://www.alexkesin.com/p/mr-secretary-reclassify-the-statin)
+* [2025-05-17, 17:13:21](https://news.ycombinator.com/item?id=44015649) - [Show HN: I built a knife steel comparison tool](https://new.knife.day/blog/knife-steel-comparisons/all)
 * [2025-05-17, 16:26:44](https://news.ycombinator.com/item?id=44015367) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
 * [2025-05-17, 15:51:05](https://news.ycombinator.com/item?id=44015144) - [If nothing is curated, how do we find things](https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/)
 * [2025-05-17, 14:59:10](https://news.ycombinator.com/item?id=44014808) - [\"We would be less confidential than Google\" Proton threatens to quit Switzerland](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law)
@@ -17,7 +18,6 @@
 * [2025-05-17, 02:10:36](https://news.ycombinator.com/item?id=44011515) - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
 * [2025-05-17, 02:02:14](https://news.ycombinator.com/item?id=44011489) - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
 * [2025-05-17, 01:36:23](https://news.ycombinator.com/item?id=44011381) - [A kernel developer plays with Home Assistant](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
-* [2025-05-17, 01:09:38](https://news.ycombinator.com/item?id=44011254) - [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub)
 * [2025-05-16, 21:10:12](https://news.ycombinator.com/item?id=44009848) - [Getting AI to write good SQL](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
 * [2025-05-16, 20:20:20](https://news.ycombinator.com/item?id=44009464) - [ClojureScript 1.12.42](https://clojurescript.org/news/2025-05-16-release)
 * [2025-05-15, 17:14:28](https://news.ycombinator.com/item?id=43997135) - [Popcorn: Run Elixir in WASM](https://popcorn.swmansion.com/)

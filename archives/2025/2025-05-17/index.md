@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 17:54:20](https://news.ycombinator.com/item?id=44015872) - [Dead Stars Don't Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
 * [2025-05-17, 17:14:19](https://news.ycombinator.com/item?id=44015657) - [The longest train journey is epic – but nobody's ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
+* [2025-05-17, 17:13:21](https://news.ycombinator.com/item?id=44015649) - [Show HN: I built a knife steel comparison tool](https://new.knife.day/blog/knife-steel-comparisons/all)
 * [2025-05-17, 17:10:04](https://news.ycombinator.com/item?id=44015632) - [Best open source LLMs for Enterprise](https://www.enterprisebot.ai/blog/the-best-open-source-llms-for-enterprise)
 * [2025-05-17, 16:49:21](https://news.ycombinator.com/item?id=44015515) - [Mr. Secretary, Reclassify the Statin](https://www.alexkesin.com/p/mr-secretary-reclassify-the-statin)
 * [2025-05-17, 16:26:44](https://news.ycombinator.com/item?id=44015367) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
