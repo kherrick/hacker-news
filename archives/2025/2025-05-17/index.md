@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 17:14:19](https://news.ycombinator.com/item?id=44015657) - [The longest train journey is epic – but nobody's ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
+* [2025-05-17, 17:10:04](https://news.ycombinator.com/item?id=44015632) - [Best open source LLMs for Enterprise](https://www.enterprisebot.ai/blog/the-best-open-source-llms-for-enterprise)
+* [2025-05-17, 16:49:21](https://news.ycombinator.com/item?id=44015515) - [Mr. Secretary, Reclassify the Statin](https://www.alexkesin.com/p/mr-secretary-reclassify-the-statin)
+* [2025-05-17, 16:26:44](https://news.ycombinator.com/item?id=44015367) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
 * [2025-05-17, 15:51:05](https://news.ycombinator.com/item?id=44015144) - [If nothing is curated, how do we find things](https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/)
 * [2025-05-17, 15:06:24](https://news.ycombinator.com/item?id=44014862) - [Energy Drinks Linked to Rise in Colorectal & Blood Cancer](https://thenightly.com.au/society/health/doctors-issue-urgent-warning-over-cancer-causing-energy-drink-ingredient-taurine-c-18699404)
 * [2025-05-17, 14:59:10](https://news.ycombinator.com/item?id=44014808) - [\"We would be less confidential than Google\" Proton threatens to quit Switzerland](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law)

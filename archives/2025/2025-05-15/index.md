@@ -39,6 +39,7 @@
 * [2025-05-15, 15:27:04](https://news.ycombinator.com/item?id=43996031) - [Wavelet Trees: An Introduction (2011)](https://www.alexbowe.com/wavelet-trees/)
 * [2025-05-15, 14:59:40](https://news.ycombinator.com/item?id=43995767) - [ARB Assembly Shader Programming (2023)](https://mid.net.ua/posts/glarbasm.html)
 * [2025-05-15, 14:52:32](https://news.ycombinator.com/item?id=43995700) - [How Cory Arcangel Recovered Late Artist Michel Majerus's Digital Legacy](https://www.newyorker.com/culture/infinite-scroll/how-cory-arcangel-recovered-a-late-artists-digital-legacy)
+* [2025-05-15, 14:31:53](https://news.ycombinator.com/item?id=43995501) - [How I fixed the infamous Basilisk II Windows \"Black Screen\" bug in 2013](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
 * [2025-05-15, 14:13:25](https://news.ycombinator.com/item?id=43995302) - [California sent residents' personal health data to LinkedIn](https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin)
 * [2025-05-15, 13:56:47](https://news.ycombinator.com/item?id=43995144) - [Demystifying Ruby (1/3): It's all about threads](https://blog.papey.fr/post/07-demystifying-ruby-01/)
 * [2025-05-15, 13:54:23](https://news.ycombinator.com/item?id=43995122) - [How we made billing backendless](https://useautumn.com/blog/backendless)
