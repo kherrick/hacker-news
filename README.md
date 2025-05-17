@@ -24,10 +24,10 @@
 * [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-15, 17:46:19](https://news.ycombinator.com/item?id=43997467) - [A library of words: Discovering Roget's Thesaurus (2023)](https://austinkleon.substack.com/p/a-library-of-words)
 * [2025-05-15, 14:31:53](https://news.ycombinator.com/item?id=43995501) - [How I fixed the infamous Basilisk II Windows \"Black Screen\" bug in 2013](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
-* [2025-05-14, 19:52:10](https://news.ycombinator.com/item?id=43988518) - [Remembering IBM Researcher Dick Garwin](https://research.ibm.com/blog/richard-garwin-obituary)
 * [2025-05-14, 18:40:50](https://news.ycombinator.com/item?id=43987852) - [NASA Observes First Visible-Light Auroras at Mars](https://www.jpl.nasa.gov/news/nasa-observes-first-visible-light-auroras-at-mars/)
 * [2025-05-14, 15:11:57](https://news.ycombinator.com/item?id=43985513) - [Coding without a laptop: Two weeks with AR glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
 * [2025-05-14, 14:11:46](https://news.ycombinator.com/item?id=43984770) - [Espanso – Cross-Platform Text Expander Written in Rust](https://github.com/espanso/espanso)
+* [2025-05-14, 11:29:04](https://news.ycombinator.com/item?id=43983201) - [\"Streaming vs. Batch\" Is a Wrong Dichotomy, and I Think It's Confusing](https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/)
 * [2025-05-14, 11:27:52](https://news.ycombinator.com/item?id=43983196) - [Bike-mounted sensor could boost the mapping of safe cycling routes](https://newatlas.com/bicycles/proxicycle-bicycle-sensor-safe-cycling-routes/)
 * [2025-05-13, 18:47:22](https://news.ycombinator.com/item?id=43976274) - [Moment of heart's formation captured in images for first time](https://www.theguardian.com/science/2025/may/13/heart-cells-mouse-embryo-science-research)
 
