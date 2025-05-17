@@ -9,7 +9,6 @@
 * [2025-05-17, 19:06:14](https://news.ycombinator.com/item?id=44016289) - [Xata: Postgres at scale, with copy-on-write branching and anonymization](https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization)
 * [2025-05-17, 18:21:18](https://news.ycombinator.com/item?id=44016037) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
 * [2025-05-17, 17:54:20](https://news.ycombinator.com/item?id=44015872) - [Dead Stars Don't Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
-* [2025-05-17, 17:14:19](https://news.ycombinator.com/item?id=44015657) - [The longest train journey is epic – but nobody's ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
 * [2025-05-17, 17:13:21](https://news.ycombinator.com/item?id=44015649) - [Show HN: I built a knife steel comparison tool](https://new.knife.day/blog/knife-steel-comparisons/all)
 * [2025-05-17, 16:58:20](https://news.ycombinator.com/item?id=44015557) - [A Simulation in C++ of Joseph Weizenbaum's 1966 Eliza](https://github.com/anthay/ELIZA)
 * [2025-05-17, 16:26:44](https://news.ycombinator.com/item?id=44015367) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
@@ -29,6 +28,7 @@
 * [2025-05-14, 18:40:50](https://news.ycombinator.com/item?id=43987852) - [NASA Observes First Visible-Light Auroras at Mars](https://www.jpl.nasa.gov/news/nasa-observes-first-visible-light-auroras-at-mars/)
 * [2025-05-14, 15:11:57](https://news.ycombinator.com/item?id=43985513) - [Coding without a laptop: Two weeks with AR glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
 * [2025-05-14, 14:11:46](https://news.ycombinator.com/item?id=43984770) - [Espanso – Cross-Platform Text Expander Written in Rust](https://github.com/espanso/espanso)
+* [2025-05-14, 11:27:52](https://news.ycombinator.com/item?id=43983196) - [Bike-mounted sensor could boost the mapping of safe cycling routes](https://newatlas.com/bicycles/proxicycle-bicycle-sensor-safe-cycling-routes/)
 * [2025-05-13, 18:47:22](https://news.ycombinator.com/item?id=43976274) - [Moment of heart's formation captured in images for first time](https://www.theguardian.com/science/2025/may/13/heart-cells-mouse-embryo-science-research)
 
 ## [Archives](archives/index.md)
