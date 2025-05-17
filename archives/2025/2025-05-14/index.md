@@ -15,6 +15,7 @@
 * [2025-05-14, 19:38:26](https://news.ycombinator.com/item?id=43988381) - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
 * [2025-05-14, 19:29:38](https://news.ycombinator.com/item?id=43988315) - [The Perverse Incentives of Vibe Coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
 * [2025-05-14, 19:04:41](https://news.ycombinator.com/item?id=43988116) - [David Hilbert's radio address (2014)](https://old.maa.org/press/periodicals/convergence/david-hilberts-radio-address)
+* [2025-05-14, 19:00:50](https://news.ycombinator.com/item?id=43988070) - [Laser-Induced Graphene from Commercial Inks and Dyes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202412167)
 * [2025-05-14, 18:37:32](https://news.ycombinator.com/item?id=43987814) - [Various Things in MetaPost (2019)](https://habr.com/en/articles/454376/)
 * [2025-05-14, 18:32:15](https://news.ycombinator.com/item?id=43987742) - [The Pigeon Whistle: A Defining Sound of Old Beijing (2019)](http://www.chinatoday.com.cn/ctenglish/2018/cs/201911/t20191129_800186426.html)
 * [2025-05-14, 18:09:52](https://news.ycombinator.com/item?id=43987525) - [Beyond the Wrist: Debugging RSI](https://www.debugyourpain.org/docs/main_posts/understand/debugging_rsi/)

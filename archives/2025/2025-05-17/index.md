@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 12:51:26](https://news.ycombinator.com/item?id=44013933) - [The Japanese method of creating forests comes to Mexico](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html)
 * [2025-05-17, 12:08:10](https://news.ycombinator.com/item?id=44013696) - [No-boom supersonic flights could slide through US skies soon](https://www.theregister.com/2025/05/17/faa_supersonic_law/)
 * [2025-05-17, 10:52:28](https://news.ycombinator.com/item?id=44013387) - [MinorMiner: We turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
 * [2025-05-17, 09:37:46](https://news.ycombinator.com/item?id=44013181) - [Open Problems in Computational geometry](https://topp.openproblem.net/)
