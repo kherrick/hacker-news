@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
 * [2025-05-17, 23:12:15](https://news.ycombinator.com/item?id=44017692) - [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/)
+* [2025-05-17, 22:47:55](https://news.ycombinator.com/item?id=44017592) - [FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux](https://freebasic.net/)
 * [2025-05-17, 21:22:08](https://news.ycombinator.com/item?id=44017056) - [Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers](https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html)
 * [2025-05-17, 20:05:09](https://news.ycombinator.com/item?id=44016621) - [Large Language Models Are More Persuasive Than Incentivized Human Persuaders](https://arxiv.org/abs/2505.09662)
 * [2025-05-17, 19:56:00](https://news.ycombinator.com/item?id=44016564) - [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
@@ -30,6 +31,7 @@
 * [2025-05-17, 15:06:24](https://news.ycombinator.com/item?id=44014862) - [Energy Drinks Linked to Rise in Colorectal & Blood Cancer](https://thenightly.com.au/society/health/doctors-issue-urgent-warning-over-cancer-causing-energy-drink-ingredient-taurine-c-18699404)
 * [2025-05-17, 14:59:10](https://news.ycombinator.com/item?id=44014808) - [\"We would be less confidential than Google\" Proton threatens to quit Switzerland](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law)
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
+* [2025-05-17, 13:58:15](https://news.ycombinator.com/item?id=44014384) - [Why Are There So Many 'Alternative Devices' All of a Sudden?](https://www.theatlantic.com/technology/archive/2025/05/alternative-device-fair/682837/)
 * [2025-05-17, 13:52:51](https://news.ycombinator.com/item?id=44014343) - [Steepest Descent Density Control for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2505.05587)
 * [2025-05-17, 13:17:31](https://news.ycombinator.com/item?id=44014106) - [FDA Clears First Blood Test to Diagnose Alzheimer's](https://www.bloomberg.com/news/articles/2025-05-16/fda-approves-first-blood-test-to-diagnose-alzheimer-s-disease)
 * [2025-05-17, 13:08:29](https://news.ycombinator.com/item?id=44014046) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
