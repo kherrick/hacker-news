@@ -9,7 +9,6 @@
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-17, 13:52:51](https://news.ycombinator.com/item?id=44014343) - [Steepest Descent Density Control for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2505.05587)
 * [2025-05-17, 13:08:29](https://news.ycombinator.com/item?id=44014046) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
-* [2025-05-17, 12:47:40](https://news.ycombinator.com/item?id=44013913) - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 * [2025-05-17, 12:00:53](https://news.ycombinator.com/item?id=44013671) - [OBNC – Oberon-07 Compiler](https://miasap.se/obnc/)
 * [2025-05-17, 09:37:46](https://news.ycombinator.com/item?id=44013181) - [Open Problems in Computational geometry](https://topp.openproblem.net/)
 * [2025-05-17, 09:31:55](https://news.ycombinator.com/item?id=44013157) - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
@@ -29,6 +28,7 @@
 * [2025-05-14, 07:45:00](https://news.ycombinator.com/item?id=43981971) - [New high-quality hash measures 71GB/s on M4](https://github.com/Nicoshev/rapidhash)
 * [2025-05-13, 21:25:15](https://news.ycombinator.com/item?id=43977896) - [Insurance for AI: Easier Said Than Done](https://loeber.substack.com/p/24-insurance-for-ai-easier-said-than)
 * [2025-05-13, 18:47:22](https://news.ycombinator.com/item?id=43976274) - [Moment of heart's formation captured in images for first time](https://www.theguardian.com/science/2025/may/13/heart-cells-mouse-embryo-science-research)
+* [2025-05-13, 13:22:36](https://news.ycombinator.com/item?id=43972669) - [Rustls Server-Side Performance](https://www.memorysafety.org/blog/rustls-server-perf/)
 * [2025-05-13, 12:47:04](https://news.ycombinator.com/item?id=43972334) - [MCP: An in-depth introduction](https://www.speakeasy.com/mcp/mcp-tutorial)
 
 ## [Archives](archives/index.md)
