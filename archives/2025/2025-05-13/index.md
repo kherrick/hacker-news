@@ -14,6 +14,7 @@
 * [2025-05-13, 21:49:42](https://news.ycombinator.com/item?id=43978155) - [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
 * [2025-05-13, 21:34:01](https://news.ycombinator.com/item?id=43977982) - [Show HN: A C-Suite AI Agent Meant for SMB](https://askcaa.com/)
 * [2025-05-13, 21:26:12](https://news.ycombinator.com/item?id=43977901) - [Fixrleak: Fixing Java Resource Leaks with GenAI](https://www.uber.com/blog/fixrleak-fixing-java-resource-leaks-with-genai/)
+* [2025-05-13, 21:25:15](https://news.ycombinator.com/item?id=43977896) - [Insurance for AI: Easier Said Than Done](https://loeber.substack.com/p/24-insurance-for-ai-easier-said-than)
 * [2025-05-13, 21:24:36](https://news.ycombinator.com/item?id=43977890) - [Why Moderna Merged Its Tech and HR Departments](https://www.wsj.com/articles/why-moderna-merged-its-tech-and-hr-departments-95318c2a)
 * [2025-05-13, 21:16:09](https://news.ycombinator.com/item?id=43977821) - [Data preparation for function tooling is boring](https://thehyperplane.substack.com/p/data-preparation-for-function-tooling)
 * [2025-05-13, 20:57:57](https://news.ycombinator.com/item?id=43977648) - [Show HN: I made a platform to debug Puppeteer (JS) crashes visually](https://buglesstack.com/)

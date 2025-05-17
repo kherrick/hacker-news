@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 15:06:24](https://news.ycombinator.com/item?id=44014862) - [Energy Drinks Linked to Rise in Colorectal & Blood Cancer](https://thenightly.com.au/society/health/doctors-issue-urgent-warning-over-cancer-causing-energy-drink-ingredient-taurine-c-18699404)
+* [2025-05-17, 14:59:10](https://news.ycombinator.com/item?id=44014808) - [\"We would be less confidential than Google\" Proton threatens to quit Switzerland](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law)
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-17, 13:52:51](https://news.ycombinator.com/item?id=44014343) - [Steepest Descent Density Control for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2505.05587)
 * [2025-05-17, 13:17:31](https://news.ycombinator.com/item?id=44014106) - [FDA Clears First Blood Test to Diagnose Alzheimer's](https://www.bloomberg.com/news/articles/2025-05-16/fda-approves-first-blood-test-to-diagnose-alzheimer-s-disease)
