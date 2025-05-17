@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 02:46:33](https://news.ycombinator.com/item?id=44011654) - [Behind Silicon Valley and the GOP's campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
 * [2025-05-17, 02:23:30](https://news.ycombinator.com/item?id=44011569) - [Postman for MCP](https://usetexture.com/##)
 * [2025-05-17, 02:10:36](https://news.ycombinator.com/item?id=44011515) - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
 * [2025-05-17, 02:02:14](https://news.ycombinator.com/item?id=44011489) - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-17, 02:46:33](https://news.ycombinator.com/item?id=44011654) - [Behind Silicon Valley and the GOP's campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
 * [2025-05-17, 02:23:30](https://news.ycombinator.com/item?id=44011569) - [Postman for MCP](https://usetexture.com/##)
 * [2025-05-17, 02:10:36](https://news.ycombinator.com/item?id=44011515) - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
 * [2025-05-17, 02:02:14](https://news.ycombinator.com/item?id=44011489) - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
@@ -25,7 +26,6 @@
 * [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-14, 14:17:57](https://news.ycombinator.com/item?id=43984860) - [Coding agent in 94 lines of Ruby](https://radanskoric.com/articles/coding-agent-in-ruby)
 * [2025-05-14, 07:45:00](https://news.ycombinator.com/item?id=43981971) - [New high-quality hash measures 71GB/s on M4](https://github.com/Nicoshev/rapidhash)
-* [2025-05-13, 23:08:07](https://news.ycombinator.com/item?id=43978825) - [The Airplane 'Barf Bag' Is a Genius Invention Most People Never Think About](https://www.theautopian.com/the-airplane-barf-bag-is-a-genius-invention-most-people-never-think-about-and-using-one-blew-my-mind/)
 * [2025-05-13, 19:12:01](https://news.ycombinator.com/item?id=43976504) - [Returning to My Roots in Hardware](https://dancrimp.nz/2025/03/31/hardware/)
 * [2025-05-13, 17:20:11](https://news.ycombinator.com/item?id=43975352) - [Material 3 Expressive](https://design.google/library/expressive-material-design-google-research)
 * [2025-05-13, 13:22:36](https://news.ycombinator.com/item?id=43972669) - [Rustls Server-Side Performance](https://www.memorysafety.org/blog/rustls-server-perf/)
