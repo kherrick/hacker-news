@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-17, 14:28:59",
+      "https://news.ycombinator.com/item?id=44014587"
+    ],
+    [
+      "Palette lighting tricks on the Nintendo 64",
+      "https://30fps.net/pages/palette-lighting-tricks-n64/"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 12:51:26",
       "https://news.ycombinator.com/item?id=44013933"
     ],
@@ -57,16 +67,6 @@
     [
       "Transformer neural net learns to run Conway's Game of Life just from examples",
       "https://sidsite.com/posts/life-transformer/"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 09:07:13",
-      "https://news.ycombinator.com/item?id=44013046"
-    ],
-    [
-      "Life before the web – Running a Startup in the 1980's",
-      "https://blog.zamzar.com/2016/07/13/life-before-the-web-running-a-startup-in-the-1980s/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=43992242"
     ],
     [
-      "Chapter 2: Serializability Theory (Concurrency Control Book)",
+      "Chapter 2: Serializability Theory (1987 Concurrency Control Book)",
       "http://muratbuffalo.blogspot.com/2025/05/chapter-2-serializability-theory.html"
     ]
   ],
