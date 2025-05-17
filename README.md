@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-17, 08:12:40](https://news.ycombinator.com/item?id=44012838) - [Identifying almost any x86 CPU (2004)](http://web.archive.org/web/20040604002243/http://debs.future.easyspace.com/Programming/OS/cpuid.txt)
+* [2025-05-17, 07:19:55](https://news.ycombinator.com/item?id=44012615) - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
 * [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-17, 04:39:31](https://news.ycombinator.com/item?id=44012074) - [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
 * [2025-05-17, 02:50:15](https://news.ycombinator.com/item?id=44011669) - [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
@@ -13,7 +15,6 @@
 * [2025-05-16, 20:20:20](https://news.ycombinator.com/item?id=44009464) - [ClojureScript 1.12.42](https://clojurescript.org/news/2025-05-16-release)
 * [2025-05-16, 20:04:58](https://news.ycombinator.com/item?id=44009321) - [Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon](https://github.com/dipampaul17/KVSplit)
 * [2025-05-16, 19:09:55](https://news.ycombinator.com/item?id=44008843) - [Thoughts on thinking](https://dcurt.is/thinking)
-* [2025-05-16, 18:23:26](https://news.ycombinator.com/item?id=44008412) - [The Magic Hours: The Films and Hidden Life of Terrence Malick](https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking)
 * [2025-05-16, 15:45:30](https://news.ycombinator.com/item?id=44006824) - [X X^t can be faster](https://arxiv.org/abs/2505.09814)
 * [2025-05-16, 15:09:25](https://news.ycombinator.com/item?id=44006426) - [MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery](https://economics.mit.edu/news/assuring-accurate-research-record)
 * [2025-05-16, 15:05:32](https://news.ycombinator.com/item?id=44006381) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44006381)
@@ -29,7 +30,6 @@
 * [2025-05-13, 21:26:12](https://news.ycombinator.com/item?id=43977901) - [Fixrleak: Fixing Java Resource Leaks with GenAI](https://www.uber.com/blog/fixrleak-fixing-java-resource-leaks-with-genai/)
 * [2025-05-13, 13:22:36](https://news.ycombinator.com/item?id=43972669) - [Rustls Server-Side Performance](https://www.memorysafety.org/blog/rustls-server-perf/)
 * [2025-05-13, 12:47:04](https://news.ycombinator.com/item?id=43972334) - [MCP: An in-depth introduction](https://www.speakeasy.com/mcp/mcp-tutorial)
-* [2025-05-13, 11:06:58](https://news.ycombinator.com/item?id=43971616) - [What were the MS-DOS programs that the moricons.dll icons were intended for?](https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157)
 
 ## [Archives](archives/index.md)
 
