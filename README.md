@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-17, 04:39:31](https://news.ycombinator.com/item?id=44012074) - [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
 * [2025-05-17, 02:50:15](https://news.ycombinator.com/item?id=44011669) - [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
 * [2025-05-17, 02:46:33](https://news.ycombinator.com/item?id=44011654) - [Behind Silicon Valley and the GOP’s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
@@ -27,7 +28,6 @@
 * [2025-05-15, 03:19:26](https://news.ycombinator.com/item?id=43991500) - [Hunting extreme microbes that redefine the limits of life](https://www.nature.com/articles/d41586-025-01464-7)
 * [2025-05-14, 14:17:57](https://news.ycombinator.com/item?id=43984860) - [Coding agent in 94 lines of Ruby](https://radanskoric.com/articles/coding-agent-in-ruby)
 * [2025-05-14, 07:45:00](https://news.ycombinator.com/item?id=43981971) - [New high-quality hash measures 71GB/s on M4](https://github.com/Nicoshev/rapidhash)
-* [2025-05-14, 05:44:32](https://news.ycombinator.com/item?id=43981198) - [How can traditional British TV survive the US streaming giants](https://www.bbc.co.uk/news/articles/cx2enydkew3o)
 * [2025-05-13, 13:22:36](https://news.ycombinator.com/item?id=43972669) - [Rustls Server-Side Performance](https://www.memorysafety.org/blog/rustls-server-perf/)
 * [2025-05-13, 12:47:04](https://news.ycombinator.com/item?id=43972334) - [MCP: An in-depth introduction](https://www.speakeasy.com/mcp/mcp-tutorial)
 
