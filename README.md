@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-17, 08:38:09](https://news.ycombinator.com/item?id=44012933) - [A Critical Look at \"A Critical Look at MCP.\"](https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/)
+* [2025-05-17, 07:46:29](https://news.ycombinator.com/item?id=44012729) - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 07:19:55](https://news.ycombinator.com/item?id=44012615) - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
 * [2025-05-17, 06:59:34](https://news.ycombinator.com/item?id=44012538) - [Publisher: The Malloy Semantic Model Server](https://github.com/malloydata/publisher)
 * [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
@@ -23,7 +24,6 @@
 * [2025-05-16, 13:05:25](https://news.ycombinator.com/item?id=44005008) - [Java at 30: Interview with James Gosling](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 * [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-15, 17:14:28](https://news.ycombinator.com/item?id=43997135) - [Popcorn: Run Elixir in WASM](https://popcorn.swmansion.com/)
-* [2025-05-15, 17:08:20](https://news.ycombinator.com/item?id=43997071) - [The Joys of Discovering the Roman Underground](https://www.smithsonianmag.com/travel/the-joys-of-discovering-the-roman-underground-from-the-colosseum-to-whats-beneath-the-trevi-foundation-180986626/)
 * [2025-05-15, 03:19:26](https://news.ycombinator.com/item?id=43991500) - [Hunting extreme microbes that redefine the limits of life](https://www.nature.com/articles/d41586-025-01464-7)
 * [2025-05-14, 14:17:57](https://news.ycombinator.com/item?id=43984860) - [Coding agent in 94 lines of Ruby](https://radanskoric.com/articles/coding-agent-in-ruby)
 * [2025-05-14, 07:45:00](https://news.ycombinator.com/item?id=43981971) - [New high-quality hash measures 71GB/s on M4](https://github.com/Nicoshev/rapidhash)

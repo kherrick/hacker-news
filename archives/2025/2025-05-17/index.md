@@ -6,6 +6,7 @@
 
 * [2025-05-17, 08:38:09](https://news.ycombinator.com/item?id=44012933) - [A Critical Look at \"A Critical Look at MCP.\"](https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/)
 * [2025-05-17, 08:12:40](https://news.ycombinator.com/item?id=44012838) - [Identifying almost any x86 CPU (2004)](http://web.archive.org/web/20040604002243/http://debs.future.easyspace.com/Programming/OS/cpuid.txt)
+* [2025-05-17, 07:46:29](https://news.ycombinator.com/item?id=44012729) - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 07:19:55](https://news.ycombinator.com/item?id=44012615) - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
 * [2025-05-17, 06:59:34](https://news.ycombinator.com/item?id=44012538) - [Publisher: The Malloy Semantic Model Server](https://github.com/malloydata/publisher)
 * [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
