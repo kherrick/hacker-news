@@ -22,6 +22,7 @@
 * [2025-05-14, 17:01:33](https://news.ycombinator.com/item?id=43986792) - [Artie (YC S23) Is Hiring a Senior Product Marketing Manager (SF)](https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager)
 * [2025-05-14, 16:27:48](https://news.ycombinator.com/item?id=43986424) - [Our Narrative Prison](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot)
 * [2025-05-14, 16:27:15](https://news.ycombinator.com/item?id=43986417) - [Ask HN: How are you cleaning and transforming data before imports/uploads?](https://news.ycombinator.com/item?id=43986417)
+* [2025-05-14, 16:11:08](https://news.ycombinator.com/item?id=43986229) - [IM-2's Imperfect Landing Due to Altimeter Interference](https://spacepolicyonline.com/news/im-2s-imperfect-landing-due-to-altimeter-interference-south-pole-lighting-conditions/)
 * [2025-05-14, 15:52:21](https://news.ycombinator.com/item?id=43985994) - [Launch HN: Jazzberry (YC X25) – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
 * [2025-05-14, 15:50:30](https://news.ycombinator.com/item?id=43985971) - [The Server That Wasn't Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 * [2025-05-14, 15:47:11](https://news.ycombinator.com/item?id=43985930) - [DeepMind unveils 'spectacular' general-purpose science AI](https://www.nature.com/articles/d41586-025-01523-z)

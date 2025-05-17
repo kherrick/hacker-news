@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 12:08:10](https://news.ycombinator.com/item?id=44013696) - [No-boom supersonic flights could slide through US skies soon](https://www.theregister.com/2025/05/17/faa_supersonic_law/)
+* [2025-05-17, 10:52:28](https://news.ycombinator.com/item?id=44013387) - [MinorMiner: We turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
+* [2025-05-17, 09:37:46](https://news.ycombinator.com/item?id=44013181) - [Open Problems in Computational geometry](https://topp.openproblem.net/)
 * [2025-05-17, 09:31:14](https://news.ycombinator.com/item?id=44013154) - [Transformer neural net learns to run Conway's Game of Life just from examples](https://sidsite.com/posts/life-transformer/)
 * [2025-05-17, 08:38:09](https://news.ycombinator.com/item?id=44012933) - [A Critical Look at \"A Critical Look at MCP.\"](https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/)
 * [2025-05-17, 08:12:40](https://news.ycombinator.com/item?id=44012838) - [Identifying almost any x86 CPU (2004)](http://web.archive.org/web/20040604002243/http://debs.future.easyspace.com/Programming/OS/cpuid.txt)
