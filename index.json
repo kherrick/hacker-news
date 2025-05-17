@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-05-17, 19:13:07",
-      "https://news.ycombinator.com/item?id=44016325"
-    ],
-    [
-      "OCaml Web Development: Essential Tools and Libraries in 2025",
-      "https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 18:21:18",
       "https://news.ycombinator.com/item?id=44016037"
     ],
@@ -27,16 +17,6 @@
     [
       "Lufthansa plane flown by autopilot after pilot faints in cockpit",
       "https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 18:06:55",
-      "https://news.ycombinator.com/item?id=44015961"
-    ],
-    [
-      "Largest database of nanosatellites, over 4400 nanosats and CubeSats",
-      "https://www.nanosats.eu/"
     ]
   ],
   [
@@ -67,6 +47,26 @@
     [
       "Show HN: I built a knife steel comparison tool",
       "https://new.knife.day/blog/knife-steel-comparisons/all"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 17:07:33",
+      "https://news.ycombinator.com/item?id=44015614"
+    ],
+    [
+      "Gnosis Evolve MCP for Claude Desktop",
+      "https://github.com/kordless/gnosis-evolve/blob/main/README.md"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 16:58:20",
+      "https://news.ycombinator.com/item?id=44015557"
+    ],
+    [
+      "A Simulation in C++ of Joseph Weizenbaum's 1966 Eliza",
+      "https://github.com/anthay/ELIZA"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Palette lighting tricks on the Nintendo 64",
       "https://30fps.net/pages/palette-lighting-tricks-n64/"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 13:52:51",
-      "https://news.ycombinator.com/item?id=44014343"
-    ],
-    [
-      "Steepest Descent Density Control for Compact 3D Gaussian Splatting",
-      "https://arxiv.org/abs/2505.05587"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "JavaScript's New Superpower: Explicit Resource Management",
       "https://v8.dev/features/explicit-resource-management"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 02:10:36",
+      "https://news.ycombinator.com/item?id=44011515"
+    ],
+    [
+      "XTool – Cross-platform Xcode replacement",
+      "https://github.com/xtool-org/xtool"
     ]
   ],
   [
