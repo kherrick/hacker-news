@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-17](index.md)
+
+* [2025-05-17, 00:46:24](https://news.ycombinator.com/item?id=44011139) - [WebGL Gray-Scott Explorer (2012)](http://www.mrob.com/pub/comp/xmorphia/ogl/index.html)

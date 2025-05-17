@@ -11,6 +11,7 @@
 * [2025-05-13, 22:12:11](https://news.ycombinator.com/item?id=43978333) - [How (memory) safe is Zig? (2021)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2025-05-13, 21:57:54](https://news.ycombinator.com/item?id=43978224) - [Y Combinator says Google is a monopolist, no comment about its OpenAI ties](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/)
 * [2025-05-13, 21:49:42](https://news.ycombinator.com/item?id=43978155) - [Cardiac: A CARDboard Illustrative Aid to Computation [pdf]](https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf)
+* [2025-05-13, 21:34:01](https://news.ycombinator.com/item?id=43977982) - [Show HN: A C-Suite AI Agent Meant for SMB](https://askcaa.com/)
 * [2025-05-13, 21:16:09](https://news.ycombinator.com/item?id=43977821) - [Data preparation for function tooling is boring](https://thehyperplane.substack.com/p/data-preparation-for-function-tooling)
 * [2025-05-13, 20:57:57](https://news.ycombinator.com/item?id=43977648) - [Show HN: I made a platform to debug Puppeteer (JS) crashes visually](https://buglesstack.com/)
 * [2025-05-13, 20:47:52](https://news.ycombinator.com/item?id=43977539) - [Calculating MRR in SQL](https://www.definite.app/blog/stripe-mrr-calculation)
