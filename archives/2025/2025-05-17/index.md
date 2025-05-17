@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 19:41:44](https://news.ycombinator.com/item?id=44016468) - [We fall for fake health information – and how it spreads faster than facts](https://theconversation.com/why-we-fall-for-fake-health-information-and-how-it-spreads-faster-than-facts-250718)
 * [2025-05-17, 19:13:07](https://news.ycombinator.com/item?id=44016325) - [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/)
+* [2025-05-17, 19:01:31](https://news.ycombinator.com/item?id=44016265) - [Racket – the Language-Oriented Programming Language – 8.17 is now available](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
 * [2025-05-17, 18:21:18](https://news.ycombinator.com/item?id=44016037) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
 * [2025-05-17, 18:20:29](https://news.ycombinator.com/item?id=44016030) - [Lufthansa plane flown by autopilot after pilot faints in cockpit](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit)
 * [2025-05-17, 18:06:55](https://news.ycombinator.com/item?id=44015961) - [Largest database of nanosatellites, over 4400 nanosats and CubeSats](https://www.nanosats.eu/)
