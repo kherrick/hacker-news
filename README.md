@@ -5,7 +5,7 @@
 * [2025-05-17, 07:19:55](https://news.ycombinator.com/item?id=44012615) - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
 * [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-17, 04:39:31](https://news.ycombinator.com/item?id=44012074) - [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
-* [2025-05-17, 02:50:15](https://news.ycombinator.com/item?id=44011669) - [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
+* [2025-05-17, 02:50:15](https://news.ycombinator.com/item?id=44011669) - [A kernel developer plays with Home Assistant](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
 * [2025-05-17, 02:10:36](https://news.ycombinator.com/item?id=44011515) - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
 * [2025-05-17, 02:02:14](https://news.ycombinator.com/item?id=44011489) - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
 * [2025-05-17, 01:36:23](https://news.ycombinator.com/item?id=44011381) - [A Linux kernel developer plays with Home Assistant: case studies](https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/)
