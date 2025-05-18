@@ -2,10 +2,10 @@
 
 * [2025-05-18, 06:23:59](https://news.ycombinator.com/item?id=44019386) - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
 * [2025-05-18, 03:13:47](https://news.ycombinator.com/item?id=44018741) - [Pglocks.org](https://pglocks.org/)
+* [2025-05-18, 02:56:39](https://news.ycombinator.com/item?id=44018662) - [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
 * [2025-05-18, 01:31:24](https://news.ycombinator.com/item?id=44018301) - [Experts have it easy (2024)](https://boydkane.com/essays/experts)
 * [2025-05-18, 01:26:08](https://news.ycombinator.com/item?id=44018283) - [Memetics – A Growth Industry in US Military Operations (2006) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
 * [2025-05-17, 23:59:03](https://news.ycombinator.com/item?id=44017913) - [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
-* [2025-05-17, 23:12:15](https://news.ycombinator.com/item?id=44017692) - [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/)
 * [2025-05-17, 22:47:55](https://news.ycombinator.com/item?id=44017592) - [FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux](https://freebasic.net/)
 * [2025-05-17, 19:56:00](https://news.ycombinator.com/item?id=44016564) - [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
 * [2025-05-17, 19:14:56](https://news.ycombinator.com/item?id=44016336) - [Directory of MCP Servers](https://github.com/chatmcp/mcpso)
