@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 23:59:03](https://news.ycombinator.com/item?id=44017913) - [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
+* [2025-05-17, 23:41:54](https://news.ycombinator.com/item?id=44017832) - [Fortran for C Programmers](https://flang.llvm.org/docs/FortranForCProgrammers.html)
 * [2025-05-17, 23:23:49](https://news.ycombinator.com/item?id=44017740) - [Federal agencies continue terminating all funding to Harvard](https://arstechnica.com/science/2025/05/feds-continue-effort-to-defund-research-at-harvard/)
 * [2025-05-17, 23:12:15](https://news.ycombinator.com/item?id=44017692) - [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/)
 * [2025-05-17, 22:47:55](https://news.ycombinator.com/item?id=44017592) - [FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux](https://freebasic.net/)

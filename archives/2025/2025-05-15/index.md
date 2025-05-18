@@ -36,6 +36,7 @@
 * [2025-05-15, 15:46:26](https://news.ycombinator.com/item?id=43996251) - [Show HN: Undetectag, track stolen items with AirTag](https://undetectag.com/)
 * [2025-05-15, 15:45:43](https://news.ycombinator.com/item?id=43996243) - [Model Organisms Are Not Static](https://www.asimov.press/p/model-organisms-are-not-static)
 * [2025-05-15, 15:45:32](https://news.ycombinator.com/item?id=43996241) - [I've never been so conflicted about a technology](https://marcjenkins.co.uk/conflicted-about-ai/)
+* [2025-05-15, 15:44:03](https://news.ycombinator.com/item?id=43996226) - [Weather Report from Saturn's Moon Titan](https://www.sci.news/astronomy/titan-weather-13907.html)
 * [2025-05-15, 15:30:38](https://news.ycombinator.com/item?id=43996071) - [An Update on Fresh](https://deno.com/blog/an-update-on-fresh)
 * [2025-05-15, 15:27:04](https://news.ycombinator.com/item?id=43996031) - [Wavelet Trees: An Introduction (2011)](https://www.alexbowe.com/wavelet-trees/)
 * [2025-05-15, 14:59:40](https://news.ycombinator.com/item?id=43995767) - [ARB Assembly Shader Programming (2023)](https://mid.net.ua/posts/glarbasm.html)
