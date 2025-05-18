@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-18, 22:55:26](https://news.ycombinator.com/item?id=44024919) - [Severed Fingers and 'Wrench Attacks' Rattle the Crypto Elite](https://www.wsj.com/finance/currencies/crypto-industry-robberies-attacks-32c2867a)
+* [2025-05-18, 22:47:17](https://news.ycombinator.com/item?id=44024870) - [An Efilist Just Bombed a Fertility Clinic. Was This Bound to Happen?](https://default.blog/p/an-efilist-just-bombed-a-fertility)
 * [2025-05-18, 22:33:16](https://news.ycombinator.com/item?id=44024784) - [KDE is finally getting a native virtual machine manager called \"Karton\"](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
 * [2025-05-18, 22:27:07](https://news.ycombinator.com/item?id=44024759) - [France Becomes First Government to Endorse UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
 * [2025-05-18, 20:41:51](https://news.ycombinator.com/item?id=44024173) - [Hyper Typing](https://pscanf.com/s/341/)
@@ -8,7 +10,6 @@
 * [2025-05-18, 18:46:02](https://news.ycombinator.com/item?id=44023471) - [Show HN: Stack Error – ergonomic error handling for Rust](https://github.com/gmcgoldr/stackerror)
 * [2025-05-18, 18:36:54](https://news.ycombinator.com/item?id=44023423) - [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
 * [2025-05-18, 17:54:12](https://news.ycombinator.com/item?id=44023144) - [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev)
-* [2025-05-18, 17:08:38](https://news.ycombinator.com/item?id=44022781) - [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
 * [2025-05-18, 17:05:56](https://news.ycombinator.com/item?id=44022758) - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
 * [2025-05-18, 16:26:58](https://news.ycombinator.com/item?id=44022484) - [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368)
 * [2025-05-18, 16:21:50](https://news.ycombinator.com/item?id=44022448) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
@@ -25,10 +26,9 @@
 * [2025-05-17, 09:44:19](https://news.ycombinator.com/item?id=44013201) - [Dezyne Programming Language](https://dezyne.org/dezyne/manual/dezyne/dezyne.html)
 * [2025-05-16, 19:50:45](https://news.ycombinator.com/item?id=44009185) - [Comparing Parallel Functional Array Languages: Programming and Performance](https://arxiv.org/abs/2505.08906)
 * [2025-05-16, 14:05:52](https://news.ycombinator.com/item?id=44005692) - [I built a platform to find tech conferences, discounts, and ticket giveaways](https://www.tech.tickets/)
+* [2025-05-16, 11:10:31](https://news.ycombinator.com/item?id=44003928) - [The Journal of Imaginary Research](https://journalofimaginaryresearch.home.blog/)
 * [2025-05-15, 22:16:26](https://news.ycombinator.com/item?id=43999897) - [In Memoriam: John L. Young, Cryptome Co-Founder](https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder)
 * [2025-05-15, 13:51:26](https://news.ycombinator.com/item?id=43995094) - [Yahtzeeql – Yahtzee solver that's mostly SQL](https://github.com/charliemeyer/yahtzeeql)
-* [2025-05-15, 10:58:09](https://news.ycombinator.com/item?id=43993707) - [Project Verona: Fearless Concurrency for Python](https://microsoft.github.io/verona/pyrona.html)
-* [2025-05-15, 02:09:24](https://news.ycombinator.com/item?id=43991185) - [Magic Leap One Bootloader Exploit](https://github.com/EliseZeroTwo/ml1hax)
 * [2025-05-14, 23:29:32](https://news.ycombinator.com/item?id=43990262) - [How the humble chestnut traced the rise and fall of the Roman Empire](https://www.bbc.com/future/article/20250513-what-chestnuts-reveal-about-the-roman-empire)
 
 ## [Archives](archives/index.md)
