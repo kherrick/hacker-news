@@ -13,6 +13,7 @@
 * [2025-05-15, 19:35:51](https://news.ycombinator.com/item?id=43998485) - [The most annoying video player of all time](https://www.mux.com/blog/worst-video-player)
 * [2025-05-15, 19:33:44](https://news.ycombinator.com/item?id=43998472) - [The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop)
 * [2025-05-15, 19:28:01](https://news.ycombinator.com/item?id=43998423) - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
+* [2025-05-15, 19:17:23](https://news.ycombinator.com/item?id=43998341) - [Show HN: Pixelagent – Build your Stateful Agent Framework in 200 lines of code](https://github.com/pixeltable/pixelagent)
 * [2025-05-15, 19:09:14](https://news.ycombinator.com/item?id=43998269) - [October the First Is Too Late](https://gwern.net/fiction/october)
 * [2025-05-15, 18:53:55](https://news.ycombinator.com/item?id=43998115) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:47:55](https://news.ycombinator.com/item?id=43998049) - [Windsurf SWE-1: Our First Frontier Models](https://windsurf.com/blog/windsurf-wave-9-swe-1)
