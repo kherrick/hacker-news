@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-05-18, 17:05:56",
+      "https://news.ycombinator.com/item?id=44022758"
+    ],
+    [
+      "$30 Homebrew Automated Blinds Opener",
+      "https://sifter.org/~simon/journal/20240718.html"
+    ]
+  ],
+  [
+    [
       "2025-05-18, 16:26:58",
       "https://news.ycombinator.com/item?id=44022484"
     ],
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2025-05-18, 12:43:01",
-      "https://news.ycombinator.com/item?id=44020975"
+      "2025-05-18, 13:14:35",
+      "https://news.ycombinator.com/item?id=44021191"
     ],
     [
-      "How the Sun Enterprise 10000 was born (2007)",
-      "https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html"
+      "The RISC OS GUI",
+      "https://telcontar.net/Misc/GUI/RISCOS/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "High Available Mosquitto MQTT on Kubernetes",
       "https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 17:52:10",
-      "https://news.ycombinator.com/item?id=43987367"
-    ],
-    [
-      "Show HN: Turn any workflow diagram into compilable, running and stateful code",
-      "https://workflows.diagrid.io/"
     ]
   ]
 ]
