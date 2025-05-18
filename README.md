@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-18, 15:36:31](https://news.ycombinator.com/item?id=44022136) - [Solar grants held hostage in Pennsylvania legislature – as demand soars](https://capitalandmain.com/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars)
+* [2025-05-18, 14:47:46](https://news.ycombinator.com/item?id=44021792) - [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
 * [2025-05-18, 12:51:17](https://news.ycombinator.com/item?id=44021028) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-05-18, 12:43:01](https://news.ycombinator.com/item?id=44020975) - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
 * [2025-05-18, 12:33:43](https://news.ycombinator.com/item?id=44020914) - [Working with Git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
@@ -12,7 +14,6 @@
 * [2025-05-18, 09:08:11](https://news.ycombinator.com/item?id=44020019) - [Craft Basic (Windows 95 and up)](https://www.lucidapogee.com/?page=craftbasic)
 * [2025-05-18, 03:52:15](https://news.ycombinator.com/item?id=44018886) - [Show HN: Chat with 19 years of HN](https://app.camelai.com/log-in?next=/hn/)
 * [2025-05-18, 01:31:24](https://news.ycombinator.com/item?id=44018301) - [Experts have it easy (2024)](https://boydkane.com/essays/experts)
-* [2025-05-18, 01:26:08](https://news.ycombinator.com/item?id=44018283) - [Memetics – A Growth Industry in US Military Operations (2006) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
 * [2025-05-17, 23:59:03](https://news.ycombinator.com/item?id=44017913) - [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
 * [2025-05-17, 19:56:00](https://news.ycombinator.com/item?id=44016564) - [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
 * [2025-05-17, 18:21:18](https://news.ycombinator.com/item?id=44016037) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
@@ -29,7 +30,6 @@
 * [2025-05-14, 20:42:36](https://news.ycombinator.com/item?id=43988975) - [High Available Mosquitto MQTT on Kubernetes](https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html)
 * [2025-05-14, 17:52:10](https://news.ycombinator.com/item?id=43987367) - [Show HN: Turn any workflow diagram into compilable, running and stateful code](https://workflows.diagrid.io/)
 * [2025-05-14, 15:11:57](https://news.ycombinator.com/item?id=43985513) - [Coding without a laptop: Two weeks with AR glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
-* [2025-05-14, 14:11:46](https://news.ycombinator.com/item?id=43984770) - [Espanso – Cross-Platform Text Expander Written in Rust](https://github.com/espanso/espanso)
 
 ## [Archives](archives/index.md)
 

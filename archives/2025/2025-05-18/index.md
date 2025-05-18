@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 15:36:31](https://news.ycombinator.com/item?id=44022136) - [Solar grants held hostage in Pennsylvania legislature – as demand soars](https://capitalandmain.com/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars)
+* [2025-05-18, 14:47:46](https://news.ycombinator.com/item?id=44021792) - [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
 * [2025-05-18, 12:51:17](https://news.ycombinator.com/item?id=44021028) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-05-18, 12:43:01](https://news.ycombinator.com/item?id=44020975) - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
 * [2025-05-18, 12:33:43](https://news.ycombinator.com/item?id=44020914) - [Working with Git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
