@@ -7,6 +7,7 @@
 * [2025-05-18, 23:15:57](https://news.ycombinator.com/item?id=44025022) - [California vanity license plate applications with reasons for rejection](https://github.com/veltman/ca-license-plates)
 * [2025-05-18, 22:55:26](https://news.ycombinator.com/item?id=44024919) - [Severed Fingers and 'Wrench Attacks' Rattle the Crypto Elite](https://www.wsj.com/finance/currencies/crypto-industry-robberies-attacks-32c2867a)
 * [2025-05-18, 22:47:17](https://news.ycombinator.com/item?id=44024870) - [An Efilist Just Bombed a Fertility Clinic. Was This Bound to Happen?](https://default.blog/p/an-efilist-just-bombed-a-fertility)
+* [2025-05-18, 22:42:50](https://news.ycombinator.com/item?id=44024843) - [The effect of physical fitness on mortality is overestimated](https://www.uu.se/en/press/press-releases/2025/2025-05-15-the-effect-of-physical-fitness-on-mortality-is-overestimated)
 * [2025-05-18, 22:33:16](https://news.ycombinator.com/item?id=44024784) - [KDE is finally getting a native virtual machine manager called \"Karton\"](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
 * [2025-05-18, 22:27:07](https://news.ycombinator.com/item?id=44024759) - [France Becomes First Government to Endorse UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
 * [2025-05-18, 20:41:51](https://news.ycombinator.com/item?id=44024173) - [Hyper Typing](https://pscanf.com/s/341/)
