@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 17:08:38](https://news.ycombinator.com/item?id=44022781) - [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
+* [2025-05-18, 16:26:58](https://news.ycombinator.com/item?id=44022484) - [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368)
+* [2025-05-18, 16:21:50](https://news.ycombinator.com/item?id=44022448) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 * [2025-05-18, 16:09:01](https://news.ycombinator.com/item?id=44022353) - [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
 * [2025-05-18, 15:56:18](https://news.ycombinator.com/item?id=44022265) - [Show HN: Buckaroo – The data table UI for Notebooks](https://github.com/paddymul/buckaroo)
 * [2025-05-18, 15:50:35](https://news.ycombinator.com/item?id=44022233) - [Pluto Flyover from New Horizons](https://apod.nasa.gov/apod/ap250518.html)

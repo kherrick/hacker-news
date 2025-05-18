@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
 * [2025-05-14, 23:39:09](https://news.ycombinator.com/item?id=43990333) - [Copaganda: How Police and the Media Manipulate Our News](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news)
+* [2025-05-14, 23:29:32](https://news.ycombinator.com/item?id=43990262) - [How the humble chestnut traced the rise and fall of the Roman Empire](https://www.bbc.com/future/article/20250513-what-chestnuts-reveal-about-the-roman-empire)
 * [2025-05-14, 23:04:23](https://news.ycombinator.com/item?id=43990107) - [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
 * [2025-05-14, 22:52:34](https://news.ycombinator.com/item?id=43990012) - [LLMs are making me dumber](https://vvvincent.me/llms-are-making-me-dumber/)
 * [2025-05-14, 21:52:19](https://news.ycombinator.com/item?id=43989590) - [José Mujica has died](https://www.bbc.co.uk/news/articles/c0j71402z58o)
