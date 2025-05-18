@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 22:27:07](https://news.ycombinator.com/item?id=44024759) - [France Becomes First Government to Endorse UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
 * [2025-05-18, 20:41:51](https://news.ycombinator.com/item?id=44024173) - [Hyper Typing](https://pscanf.com/s/341/)
 * [2025-05-18, 20:22:33](https://news.ycombinator.com/item?id=44024055) - [Show HN: Python Simulator of David Deutsch’s \"Constructor Theory of Time\"](https://github.com/gvelesandro/constructor-theory-simulator)
 * [2025-05-18, 19:16:41](https://news.ycombinator.com/item?id=44023680) - [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/)
