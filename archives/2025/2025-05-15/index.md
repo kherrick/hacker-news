@@ -80,6 +80,7 @@
 * [2025-05-15, 05:58:38](https://news.ycombinator.com/item?id=43992242) - [Chapter 2: Serializability Theory (Concurrency Control Book)](http://muratbuffalo.blogspot.com/2025/05/chapter-2-serializability-theory.html)
 * [2025-05-15, 05:25:38](https://news.ycombinator.com/item?id=43992109) - [EA Pushes Full Return to Office, Effectively Ends Remote Hiring](https://www.ign.com/articles/ea-pushes-full-return-to-office-effectively-ends-remote-hiring)
 * [2025-05-15, 05:24:43](https://news.ycombinator.com/item?id=43992100) - [Moving Forth: a series on writing Forth kernels](https://www.bradrodriguez.com/papers/index.html)
+* [2025-05-15, 04:54:51](https://news.ycombinator.com/item?id=43991962) - [O(n) vs. O(n^2) Startups](https://rohan.ga/blog/startup_types/)
 * [2025-05-15, 03:28:34](https://news.ycombinator.com/item?id=43991554) - [Anatomy of a $70M Auction Flop](https://www.nytimes.com/2025/05/14/arts/design/sothebys-flop-giacometti-sculptor.html)
 * [2025-05-15, 03:19:26](https://news.ycombinator.com/item?id=43991500) - [Hunting extreme microbes that redefine the limits of life](https://www.nature.com/articles/d41586-025-01464-7)
 * [2025-05-15, 02:57:19](https://news.ycombinator.com/item?id=43991396) - [Human](https://quarter--mile.com/Human)
