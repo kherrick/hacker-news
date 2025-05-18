@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 22:16:26](https://news.ycombinator.com/item?id=43999897) - [In Memoriam: John L. Young, Cryptome Co-Founder](https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder)
 * [2025-05-15, 21:57:19](https://news.ycombinator.com/item?id=43999748) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 * [2025-05-15, 21:27:10](https://news.ycombinator.com/item?id=43999492) - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 * [2025-05-15, 21:22:02](https://news.ycombinator.com/item?id=43999460) - [Dolphin whistle decoders win $100k interspecies communication prize](https://www.theguardian.com/world/2025/may/15/us-scientists-who-deciphered-dolphin-whistles-win-prize-for-animal-communication)

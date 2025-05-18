@@ -6,10 +6,13 @@
 
 * [2025-05-18, 12:51:17](https://news.ycombinator.com/item?id=44021028) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-05-18, 12:43:01](https://news.ycombinator.com/item?id=44020975) - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
+* [2025-05-18, 12:33:43](https://news.ycombinator.com/item?id=44020914) - [Working with Git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
 * [2025-05-18, 12:26:42](https://news.ycombinator.com/item?id=44020855) - [Why some friendships end after kids come into the picture](https://text.npr.org/nx-s1-5371490)
+* [2025-05-18, 12:08:52](https://news.ycombinator.com/item?id=44020734) - [Show HN: Hardtime.nvim – break bad habits and master Vim motions](https://github.com/m4xshen/hardtime.nvim)
 * [2025-05-18, 11:48:42](https://news.ycombinator.com/item?id=44020626) - [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
 * [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
 * [2025-05-18, 11:39:07](https://news.ycombinator.com/item?id=44020574) - [The Conquest of Hell Gate [pdf]](https://www.nan.usace.army.mil/portals/37/docs/history/hellgate.pdf)
+* [2025-05-18, 11:12:16](https://news.ycombinator.com/item?id=44020469) - [State of the Art PFAS [pdf]](https://iplo.nl/publish/pages/235260/state-of-the-art-pfas.pdf)
 * [2025-05-18, 10:38:12](https://news.ycombinator.com/item?id=44020356) - [Crypto has become the ultimate swamp asset](https://www.economist.com/leaders/2025/05/15/crypto-has-become-the-ultimate-swamp-asset)
 * [2025-05-18, 10:25:54](https://news.ycombinator.com/item?id=44020315) - [Paper Mechanisms](https://cutfoldtemplates.com)
 * [2025-05-18, 09:14:28](https://news.ycombinator.com/item?id=44020050) - [Telegram's Extraordinary Business Model](https://www.softpagecms.com/2025/05/18/telegrams-extraordinary-business-model/)
