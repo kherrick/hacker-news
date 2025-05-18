@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-18, 09:14:28](https://news.ycombinator.com/item?id=44020050) - [Telegram's Extraordinary Business Model](https://www.softpagecms.com/2025/05/18/telegrams-extraordinary-business-model/)
 * [2025-05-18, 06:23:59](https://news.ycombinator.com/item?id=44019386) - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
 * [2025-05-18, 03:13:47](https://news.ycombinator.com/item?id=44018741) - [Pglocks.org](https://pglocks.org/)
 * [2025-05-18, 02:56:39](https://news.ycombinator.com/item?id=44018662) - [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
@@ -17,7 +18,6 @@
 * [2025-05-17, 14:59:10](https://news.ycombinator.com/item?id=44014808) - [Proton threatens to quit Switzerland over new surveillance law](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law)
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-17, 13:08:29](https://news.ycombinator.com/item?id=44014046) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
-* [2025-05-17, 12:47:40](https://news.ycombinator.com/item?id=44013913) - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 * [2025-05-17, 09:31:55](https://news.ycombinator.com/item?id=44013157) - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2025-05-15, 19:17:23](https://news.ycombinator.com/item?id=43998341) - [Show HN: Pixelagent – Build your Stateful Agent Framework in 200 lines of code](https://github.com/pixeltable/pixelagent)
 * [2025-05-15, 12:10:30](https://news.ycombinator.com/item?id=43994190) - [What Every Programmer Should Know About Enumerative Combinatorics](https://leetarxiv.substack.com/p/counting-integer-compositions)
