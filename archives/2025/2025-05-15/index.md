@@ -70,6 +70,7 @@
 * [2025-05-15, 09:45:33](https://news.ycombinator.com/item?id=43993374) - [Show HN: Kudos.wiki – Discover the best movies on Wikipedia](https://kudos.wiki)
 * [2025-05-15, 09:37:51](https://news.ycombinator.com/item?id=43993332) - [XAI's Grok suddenly can't stop bringing up \"white genocide\" in South Africa](https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/)
 * [2025-05-15, 09:01:17](https://news.ycombinator.com/item?id=43993140) - [The 'invisible crew' who have 35 seconds to prevent a Eurovision blunder](https://www.bbc.com/news/articles/c1e679vn6yqo)
+* [2025-05-15, 08:14:29](https://news.ycombinator.com/item?id=43992908) - [Postgres with data branching and PII anonymization](https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization)
 * [2025-05-15, 07:01:11](https://news.ycombinator.com/item?id=43992530) - [Tiptap (YC S23) Is Hiring](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager)
 * [2025-05-15, 06:43:03](https://news.ycombinator.com/item?id=43992444) - [EU ruling: tracking-based advertising [...] across Europe has no legal basis](https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/)
 * [2025-05-15, 06:38:13](https://news.ycombinator.com/item?id=43992420) - [Critical Warning for External Purchases in Apple App Store](https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/)
