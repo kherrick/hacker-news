@@ -7,6 +7,7 @@
 * [2025-05-18, 20:41:51](https://news.ycombinator.com/item?id=44024173) - [Hyper Typing](https://pscanf.com/s/341/)
 * [2025-05-18, 20:22:33](https://news.ycombinator.com/item?id=44024055) - [Show HN: Python Simulator of David Deutsch’s \"Constructor Theory of Time\"](https://github.com/gvelesandro/constructor-theory-simulator)
 * [2025-05-18, 19:16:41](https://news.ycombinator.com/item?id=44023680) - [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/)
+* [2025-05-18, 19:14:47](https://news.ycombinator.com/item?id=44023663) - [AI Won't Kill Junior Devs – But Your Hiring Strategy Might](https://addyo.substack.com/p/ai-wont-kill-junior-devs-but-your)
 * [2025-05-18, 18:46:02](https://news.ycombinator.com/item?id=44023471) - [Show HN: Stack Error – ergonomic error handling for Rust](https://github.com/gmcgoldr/stackerror)
 * [2025-05-18, 18:36:54](https://news.ycombinator.com/item?id=44023423) - [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
 * [2025-05-18, 18:03:26](https://news.ycombinator.com/item?id=44023200) - [Show HN: Vibe Coded GitHub PR Bot for Integrating a GitHub Action](https://vetpkg.dev/gha)
