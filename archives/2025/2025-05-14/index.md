@@ -10,6 +10,7 @@
 * [2025-05-14, 21:52:19](https://news.ycombinator.com/item?id=43989590) - [José Mujica has died](https://www.bbc.co.uk/news/articles/c0j71402z58o)
 * [2025-05-14, 21:39:45](https://news.ycombinator.com/item?id=43989497) - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
 * [2025-05-14, 21:01:15](https://news.ycombinator.com/item?id=43989173) - [StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
+* [2025-05-14, 20:42:36](https://news.ycombinator.com/item?id=43988975) - [High Available Mosquitto MQTT on Kubernetes](https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html)
 * [2025-05-14, 20:19:23](https://news.ycombinator.com/item?id=43988753) - [The Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
 * [2025-05-14, 19:54:31](https://news.ycombinator.com/item?id=43988533) - [Show HN: Semantic Calculator (King-Man+woman=?)](https://calc.datova.ai)
 * [2025-05-14, 19:52:10](https://news.ycombinator.com/item?id=43988518) - [Remembering IBM Researcher Dick Garwin](https://research.ibm.com/blog/richard-garwin-obituary)

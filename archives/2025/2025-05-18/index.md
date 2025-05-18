@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 11:48:42](https://news.ycombinator.com/item?id=44020626) - [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
 * [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
 * [2025-05-18, 10:38:12](https://news.ycombinator.com/item?id=44020356) - [Crypto has become the ultimate swamp asset](https://www.economist.com/leaders/2025/05/15/crypto-has-become-the-ultimate-swamp-asset)
 * [2025-05-18, 09:14:28](https://news.ycombinator.com/item?id=44020050) - [Telegram's Extraordinary Business Model](https://www.softpagecms.com/2025/05/18/telegrams-extraordinary-business-model/)
