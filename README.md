@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-18, 03:33:51](https://news.ycombinator.com/item?id=44018830) - [US loses last perfect credit rating amid rising debt](https://www.bbc.com/news/articles/c4ge0xk4ld1o)
 * [2025-05-18, 01:59:43](https://news.ycombinator.com/item?id=44018400) - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
 * [2025-05-18, 01:31:24](https://news.ycombinator.com/item?id=44018301) - [Experts have it easy (2024)](https://boydkane.com/essays/experts)
 * [2025-05-18, 01:26:08](https://news.ycombinator.com/item?id=44018283) - [Memetics – A Growth Industry in US Military Operations (2006) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
@@ -23,6 +22,7 @@
 * [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-15, 19:35:51](https://news.ycombinator.com/item?id=43998485) - [The most annoying video player of all time](https://www.mux.com/blog/worst-video-player)
 * [2025-05-15, 15:44:03](https://news.ycombinator.com/item?id=43996226) - [Weather Report from Saturn's Moon Titan](https://www.sci.news/astronomy/titan-weather-13907.html)
+* [2025-05-15, 14:31:53](https://news.ycombinator.com/item?id=43995501) - [How I fixed the infamous Basilisk II Windows “Black Screen” bug in 2013](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
 * [2025-05-14, 17:52:10](https://news.ycombinator.com/item?id=43987367) - [Show HN: Turn any workflow diagram into compilable, running and stateful code](https://workflows.diagrid.io/)
 * [2025-05-14, 17:04:00](https://news.ycombinator.com/item?id=43986821) - [Mice grow bigger brains when given this stretch of human DNA](https://www.nature.com/articles/d41586-025-01515-z)
 * [2025-05-14, 15:11:57](https://news.ycombinator.com/item?id=43985513) - [Coding without a laptop: Two weeks with AR glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
