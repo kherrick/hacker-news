@@ -20,7 +20,7 @@
 * [2025-05-17, 12:47:40](https://news.ycombinator.com/item?id=44013913) - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 * [2025-05-17, 09:31:55](https://news.ycombinator.com/item?id=44013157) - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2025-05-15, 19:17:23](https://news.ycombinator.com/item?id=43998341) - [Show HN: Pixelagent – Build your Stateful Agent Framework in 200 lines of code](https://github.com/pixeltable/pixelagent)
-* [2025-05-15, 15:44:03](https://news.ycombinator.com/item?id=43996226) - [Weather Report from Saturn's Moon Titan](https://www.sci.news/astronomy/titan-weather-13907.html)
+* [2025-05-15, 12:10:30](https://news.ycombinator.com/item?id=43994190) - [What Every Programmer Should Know About Enumerative Combinatorics](https://leetarxiv.substack.com/p/counting-integer-compositions)
 * [2025-05-15, 10:58:09](https://news.ycombinator.com/item?id=43993707) - [Project Verona: Fearless Concurrency for Python](https://microsoft.github.io/verona/pyrona.html)
 * [2025-05-15, 02:18:34](https://news.ycombinator.com/item?id=43991221) - [Lessons from Mixing Rust and Java: Fast, Safe, and Practical](https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8)
 * [2025-05-14, 17:52:10](https://news.ycombinator.com/item?id=43987367) - [Show HN: Turn any workflow diagram into compilable, running and stateful code](https://workflows.diagrid.io/)
