@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 16:09:01](https://news.ycombinator.com/item?id=44022353) - [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
 * [2025-05-18, 15:50:35](https://news.ycombinator.com/item?id=44022233) - [Pluto Flyover from New Horizons](https://apod.nasa.gov/apod/ap250518.html)
+* [2025-05-18, 15:47:53](https://news.ycombinator.com/item?id=44022215) - [What do wealthy people buy, that ordinary people know nothing about? (2015)](https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/)
 * [2025-05-18, 15:36:31](https://news.ycombinator.com/item?id=44022136) - [Solar grants held hostage in Pennsylvania legislature – as demand soars](https://capitalandmain.com/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars)
+* [2025-05-18, 14:52:11](https://news.ycombinator.com/item?id=44021824) - [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
 * [2025-05-18, 14:47:46](https://news.ycombinator.com/item?id=44021792) - [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
 * [2025-05-18, 12:51:17](https://news.ycombinator.com/item?id=44021028) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-05-18, 12:43:01](https://news.ycombinator.com/item?id=44020975) - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
