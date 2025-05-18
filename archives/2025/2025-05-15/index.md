@@ -10,6 +10,7 @@
 * [2025-05-15, 20:41:20](https://news.ycombinator.com/item?id=43999125) - [Stack Overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – a music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
 * [2025-05-15, 19:46:38](https://news.ycombinator.com/item?id=43998597) - [Old and Small Technology](https://www.complete.org/old-and-small-technology/)
+* [2025-05-15, 19:35:51](https://news.ycombinator.com/item?id=43998485) - [The most annoying video player of all time](https://www.mux.com/blog/worst-video-player)
 * [2025-05-15, 19:33:44](https://news.ycombinator.com/item?id=43998472) - [The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop)
 * [2025-05-15, 19:28:01](https://news.ycombinator.com/item?id=43998423) - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
 * [2025-05-15, 19:09:14](https://news.ycombinator.com/item?id=43998269) - [October the First Is Too Late](https://gwern.net/fiction/october)
