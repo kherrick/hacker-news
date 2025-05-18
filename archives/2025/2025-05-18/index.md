@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 12:26:42](https://news.ycombinator.com/item?id=44020855) - [Why some friendships end after kids come into the picture](https://text.npr.org/nx-s1-5371490)
 * [2025-05-18, 11:48:42](https://news.ycombinator.com/item?id=44020626) - [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
 * [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
+* [2025-05-18, 11:39:07](https://news.ycombinator.com/item?id=44020574) - [The Conquest of Hell Gate [pdf]](https://www.nan.usace.army.mil/portals/37/docs/history/hellgate.pdf)
 * [2025-05-18, 10:38:12](https://news.ycombinator.com/item?id=44020356) - [Crypto has become the ultimate swamp asset](https://www.economist.com/leaders/2025/05/15/crypto-has-become-the-ultimate-swamp-asset)
+* [2025-05-18, 10:25:54](https://news.ycombinator.com/item?id=44020315) - [Paper Mechanisms](https://cutfoldtemplates.com)
 * [2025-05-18, 09:14:28](https://news.ycombinator.com/item?id=44020050) - [Telegram's Extraordinary Business Model](https://www.softpagecms.com/2025/05/18/telegrams-extraordinary-business-model/)
 * [2025-05-18, 09:08:11](https://news.ycombinator.com/item?id=44020019) - [Craft Basic (Windows 95 and up)](https://www.lucidapogee.com/?page=craftbasic)
 * [2025-05-18, 06:23:59](https://news.ycombinator.com/item?id=44019386) - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
