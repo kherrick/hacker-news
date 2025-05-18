@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 12:51:17](https://news.ycombinator.com/item?id=44021028) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
+* [2025-05-18, 12:43:01](https://news.ycombinator.com/item?id=44020975) - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
 * [2025-05-18, 12:26:42](https://news.ycombinator.com/item?id=44020855) - [Why some friendships end after kids come into the picture](https://text.npr.org/nx-s1-5371490)
 * [2025-05-18, 11:48:42](https://news.ycombinator.com/item?id=44020626) - [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
 * [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)

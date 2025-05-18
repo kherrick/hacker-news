@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-18, 12:51:17](https://news.ycombinator.com/item?id=44021028) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
+* [2025-05-18, 12:43:01](https://news.ycombinator.com/item?id=44020975) - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
 * [2025-05-18, 12:26:42](https://news.ycombinator.com/item?id=44020855) - [Why some friendships end after kids come into the picture](https://text.npr.org/nx-s1-5371490)
 * [2025-05-18, 11:48:42](https://news.ycombinator.com/item?id=44020626) - [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
 * [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
@@ -7,7 +9,6 @@
 * [2025-05-18, 10:25:54](https://news.ycombinator.com/item?id=44020315) - [Paper Mechanisms](https://cutfoldtemplates.com)
 * [2025-05-18, 09:08:11](https://news.ycombinator.com/item?id=44020019) - [Craft Basic (Windows 95 and up)](https://www.lucidapogee.com/?page=craftbasic)
 * [2025-05-18, 06:23:59](https://news.ycombinator.com/item?id=44019386) - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
-* [2025-05-18, 02:56:39](https://news.ycombinator.com/item?id=44018662) - [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
 * [2025-05-18, 01:31:24](https://news.ycombinator.com/item?id=44018301) - [Experts have it easy (2024)](https://boydkane.com/essays/experts)
 * [2025-05-18, 01:26:08](https://news.ycombinator.com/item?id=44018283) - [Memetics – A Growth Industry in US Military Operations (2006) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
 * [2025-05-17, 23:59:03](https://news.ycombinator.com/item?id=44017913) - [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
@@ -18,7 +19,6 @@
 * [2025-05-17, 15:51:05](https://news.ycombinator.com/item?id=44015144) - [If nothing is curated, how do we find things](https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/)
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-17, 13:08:29](https://news.ycombinator.com/item?id=44014046) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
-* [2025-05-17, 12:47:40](https://news.ycombinator.com/item?id=44013913) - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 * [2025-05-15, 19:17:23](https://news.ycombinator.com/item?id=43998341) - [Show HN: Pixelagent – Build your Stateful Agent Framework in 200 lines of code](https://github.com/pixeltable/pixelagent)
 * [2025-05-15, 12:10:30](https://news.ycombinator.com/item?id=43994190) - [What Every Programmer Should Know About Enumerative Combinatorics](https://leetarxiv.substack.com/p/counting-integer-compositions)
 * [2025-05-15, 10:58:09](https://news.ycombinator.com/item?id=43993707) - [Project Verona: Fearless Concurrency for Python](https://microsoft.github.io/verona/pyrona.html)
