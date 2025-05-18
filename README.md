@@ -4,6 +4,7 @@
 * [2025-05-18, 16:26:58](https://news.ycombinator.com/item?id=44022484) - [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368)
 * [2025-05-18, 16:21:50](https://news.ycombinator.com/item?id=44022448) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 * [2025-05-18, 16:09:01](https://news.ycombinator.com/item?id=44022353) - [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
+* [2025-05-18, 16:04:52](https://news.ycombinator.com/item?id=44022322) - [An Uplifting Origin of 86 (2001)](https://muse.jhu.edu/article/2832)
 * [2025-05-18, 15:56:18](https://news.ycombinator.com/item?id=44022265) - [Show HN: Buckaroo – The data table UI for Notebooks](https://github.com/paddymul/buckaroo)
 * [2025-05-18, 15:50:35](https://news.ycombinator.com/item?id=44022233) - [Pluto Flyover from New Horizons](https://apod.nasa.gov/apod/ap250518.html)
 * [2025-05-18, 15:48:57](https://news.ycombinator.com/item?id=44022225) - [Spaced Repetition Memory System](https://notes.andymatuschak.org/Spaced_repetition_memory_system)
@@ -29,7 +30,6 @@
 * [2025-05-14, 23:29:32](https://news.ycombinator.com/item?id=43990262) - [How the humble chestnut traced the rise and fall of the Roman Empire](https://www.bbc.com/future/article/20250513-what-chestnuts-reveal-about-the-roman-empire)
 * [2025-05-14, 20:42:36](https://news.ycombinator.com/item?id=43988975) - [High Available Mosquitto MQTT on Kubernetes](https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html)
 * [2025-05-14, 17:52:10](https://news.ycombinator.com/item?id=43987367) - [Show HN: Turn any workflow diagram into compilable, running and stateful code](https://workflows.diagrid.io/)
-* [2025-05-14, 15:11:57](https://news.ycombinator.com/item?id=43985513) - [Coding without a laptop: Two weeks with AR glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
 
 ## [Archives](archives/index.md)
 
