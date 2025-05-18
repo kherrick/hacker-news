@@ -12,6 +12,7 @@
 * [2025-05-16, 20:39:30](https://news.ycombinator.com/item?id=44009621) - [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
 * [2025-05-16, 20:20:20](https://news.ycombinator.com/item?id=44009464) - [ClojureScript forks Google Closure to guarantee backward compatibility](https://clojurescript.org/news/2025-05-16-release)
 * [2025-05-16, 20:04:58](https://news.ycombinator.com/item?id=44009321) - [Show HN: KVSplit – Run 2-3× longer contexts on Apple Silicon](https://github.com/dipampaul17/KVSplit)
+* [2025-05-16, 19:50:45](https://news.ycombinator.com/item?id=44009185) - [Comparing Parallel Functional Array Languages: Programming and Performance](https://arxiv.org/abs/2505.08906)
 * [2025-05-16, 19:13:17](https://news.ycombinator.com/item?id=44008867) - [ChatGPT can accurately estimate Body Fat Percentage from photos](https://annaleptikon.substack.com/p/can-chatgpt-accurately-estimate-body)
 * [2025-05-16, 19:09:55](https://news.ycombinator.com/item?id=44008843) - [Thoughts on Thinking](https://dcurt.is/thinking)
 * [2025-05-16, 18:34:41](https://news.ycombinator.com/item?id=44008538) - [Making code last a long time](https://twitter.com/jonathan_blow/status/1923414922484232404)
