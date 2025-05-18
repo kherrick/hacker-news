@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-18, 17:08:38](https://news.ycombinator.com/item?id=44022781) - [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
+* [2025-05-18, 17:05:56](https://news.ycombinator.com/item?id=44022758) - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
 * [2025-05-18, 16:26:58](https://news.ycombinator.com/item?id=44022484) - [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368)
 * [2025-05-18, 16:21:50](https://news.ycombinator.com/item?id=44022448) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 * [2025-05-18, 16:09:01](https://news.ycombinator.com/item?id=44022353) - [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
@@ -12,7 +13,7 @@
 * [2025-05-18, 15:01:35](https://news.ycombinator.com/item?id=44021883) - [Show HN: Model2vec-Rs – Fast Static Text Embeddings in Rust](https://github.com/MinishLab/model2vec-rs)
 * [2025-05-18, 14:52:11](https://news.ycombinator.com/item?id=44021824) - [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
 * [2025-05-18, 14:47:46](https://news.ycombinator.com/item?id=44021792) - [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts (2021)](https://dcurt.is/apple-card-can-disable-your-icloud-account)
-* [2025-05-18, 12:43:01](https://news.ycombinator.com/item?id=44020975) - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
+* [2025-05-18, 13:14:35](https://news.ycombinator.com/item?id=44021191) - [The RISC OS GUI](https://telcontar.net/Misc/GUI/RISCOS/)
 * [2025-05-18, 12:33:43](https://news.ycombinator.com/item?id=44020914) - [Working with Git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
 * [2025-05-18, 12:08:52](https://news.ycombinator.com/item?id=44020734) - [Show HN: Hardtime.nvim – break bad habits and master Vim motions](https://github.com/m4xshen/hardtime.nvim)
 * [2025-05-18, 11:48:42](https://news.ycombinator.com/item?id=44020626) - [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
@@ -29,7 +30,6 @@
 * [2025-05-15, 02:09:24](https://news.ycombinator.com/item?id=43991185) - [Magic Leap One Bootloader Exploit](https://github.com/EliseZeroTwo/ml1hax)
 * [2025-05-14, 23:29:32](https://news.ycombinator.com/item?id=43990262) - [How the humble chestnut traced the rise and fall of the Roman Empire](https://www.bbc.com/future/article/20250513-what-chestnuts-reveal-about-the-roman-empire)
 * [2025-05-14, 20:42:36](https://news.ycombinator.com/item?id=43988975) - [High Available Mosquitto MQTT on Kubernetes](https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html)
-* [2025-05-14, 17:52:10](https://news.ycombinator.com/item?id=43987367) - [Show HN: Turn any workflow diagram into compilable, running and stateful code](https://workflows.diagrid.io/)
 
 ## [Archives](archives/index.md)
 

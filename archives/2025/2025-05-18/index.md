@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
 * [2025-05-18, 17:08:38](https://news.ycombinator.com/item?id=44022781) - [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
+* [2025-05-18, 17:05:56](https://news.ycombinator.com/item?id=44022758) - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
 * [2025-05-18, 16:26:58](https://news.ycombinator.com/item?id=44022484) - [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368)
 * [2025-05-18, 16:21:50](https://news.ycombinator.com/item?id=44022448) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 * [2025-05-18, 16:09:01](https://news.ycombinator.com/item?id=44022353) - [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
@@ -17,6 +18,7 @@
 * [2025-05-18, 15:01:35](https://news.ycombinator.com/item?id=44021883) - [Show HN: Model2vec-Rs – Fast Static Text Embeddings in Rust](https://github.com/MinishLab/model2vec-rs)
 * [2025-05-18, 14:52:11](https://news.ycombinator.com/item?id=44021824) - [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
 * [2025-05-18, 14:47:46](https://news.ycombinator.com/item?id=44021792) - [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
+* [2025-05-18, 13:14:35](https://news.ycombinator.com/item?id=44021191) - [The RISC OS GUI](https://telcontar.net/Misc/GUI/RISCOS/)
 * [2025-05-18, 12:51:17](https://news.ycombinator.com/item?id=44021028) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-05-18, 12:43:01](https://news.ycombinator.com/item?id=44020975) - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
 * [2025-05-18, 12:33:43](https://news.ycombinator.com/item?id=44020914) - [Working with Git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
