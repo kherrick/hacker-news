@@ -13,6 +13,7 @@
 * [2025-05-18, 15:48:57](https://news.ycombinator.com/item?id=44022225) - [Spaced Repetition Memory System](https://notes.andymatuschak.org/Spaced_repetition_memory_system)
 * [2025-05-18, 15:47:53](https://news.ycombinator.com/item?id=44022215) - [What do wealthy people buy, that ordinary people know nothing about? (2015)](https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/)
 * [2025-05-18, 15:36:31](https://news.ycombinator.com/item?id=44022136) - [Solar grants held hostage in Pennsylvania legislature – as demand soars](https://capitalandmain.com/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars)
+* [2025-05-18, 15:01:35](https://news.ycombinator.com/item?id=44021883) - [Show HN: Model2vec-Rs – Fast Static Text Embeddings in Rust](https://github.com/MinishLab/model2vec-rs)
 * [2025-05-18, 14:52:11](https://news.ycombinator.com/item?id=44021824) - [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
 * [2025-05-18, 14:47:46](https://news.ycombinator.com/item?id=44021792) - [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
 * [2025-05-18, 12:51:17](https://news.ycombinator.com/item?id=44021028) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
