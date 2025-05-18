@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 22:33:16](https://news.ycombinator.com/item?id=44024784) - [KDE is finally getting a native virtual machine manager called \"Karton\"](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
 * [2025-05-18, 22:27:07](https://news.ycombinator.com/item?id=44024759) - [France Becomes First Government to Endorse UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
 * [2025-05-18, 20:41:51](https://news.ycombinator.com/item?id=44024173) - [Hyper Typing](https://pscanf.com/s/341/)
 * [2025-05-18, 20:22:33](https://news.ycombinator.com/item?id=44024055) - [Show HN: Python Simulator of David Deutsch’s \"Constructor Theory of Time\"](https://github.com/gvelesandro/constructor-theory-simulator)
