@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-18, 10:38:12](https://news.ycombinator.com/item?id=44020356) - [Crypto has become the ultimate swamp asset](https://www.economist.com/leaders/2025/05/15/crypto-has-become-the-ultimate-swamp-asset)
+* [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
+* [2025-05-18, 09:08:11](https://news.ycombinator.com/item?id=44020019) - [Craft Basic (Windows 95 and up)](https://www.lucidapogee.com/?page=craftbasic)
 * [2025-05-18, 06:23:59](https://news.ycombinator.com/item?id=44019386) - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
 * [2025-05-18, 03:13:47](https://news.ycombinator.com/item?id=44018741) - [Pglocks.org](https://pglocks.org/)
 * [2025-05-18, 02:56:39](https://news.ycombinator.com/item?id=44018662) - [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
@@ -27,7 +28,6 @@
 * [2025-05-14, 17:04:00](https://news.ycombinator.com/item?id=43986821) - [Mice grow bigger brains when given this stretch of human DNA](https://www.nature.com/articles/d41586-025-01515-z)
 * [2025-05-14, 15:11:57](https://news.ycombinator.com/item?id=43985513) - [Coding without a laptop: Two weeks with AR glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
 * [2025-05-14, 14:11:46](https://news.ycombinator.com/item?id=43984770) - [Espanso – Cross-Platform Text Expander Written in Rust](https://github.com/espanso/espanso)
-* [2025-05-14, 11:29:04](https://news.ycombinator.com/item?id=43983201) - [“Streaming vs. Batch” Is a Wrong Dichotomy, and I Think It's Confusing](https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/)
 * [2025-05-14, 11:27:52](https://news.ycombinator.com/item?id=43983196) - [Bike-mounted sensor could boost the mapping of safe cycling routes](https://newatlas.com/bicycles/proxicycle-bicycle-sensor-safe-cycling-routes/)
 * [2025-05-14, 09:11:47](https://news.ycombinator.com/item?id=43982495) - [ARMv9 Architecture Helps Lift Arm to New Financial Heights](https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/)
 
