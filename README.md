@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-18, 10:38:12](https://news.ycombinator.com/item?id=44020356) - [Crypto has become the ultimate swamp asset](https://www.economist.com/leaders/2025/05/15/crypto-has-become-the-ultimate-swamp-asset)
 * [2025-05-18, 06:23:59](https://news.ycombinator.com/item?id=44019386) - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
 * [2025-05-18, 03:13:47](https://news.ycombinator.com/item?id=44018741) - [Pglocks.org](https://pglocks.org/)
 * [2025-05-18, 02:56:39](https://news.ycombinator.com/item?id=44018662) - [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
@@ -13,7 +14,6 @@
 * [2025-05-17, 17:54:20](https://news.ycombinator.com/item?id=44015872) - [Dead Stars Don’t Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
 * [2025-05-17, 16:26:44](https://news.ycombinator.com/item?id=44015367) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
 * [2025-05-17, 15:51:05](https://news.ycombinator.com/item?id=44015144) - [If nothing is curated, how do we find things](https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/)
-* [2025-05-17, 14:59:10](https://news.ycombinator.com/item?id=44014808) - [Proton threatens to quit Switzerland over new surveillance law](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law)
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-17, 13:08:29](https://news.ycombinator.com/item?id=44014046) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
 * [2025-05-17, 12:47:40](https://news.ycombinator.com/item?id=44013913) - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
