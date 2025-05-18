@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-18, 03:33:51](https://news.ycombinator.com/item?id=44018830) - [US loses last perfect credit rating amid rising debt](https://www.bbc.com/news/articles/c4ge0xk4ld1o)
 * [2025-05-18, 01:59:43](https://news.ycombinator.com/item?id=44018400) - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
 * [2025-05-18, 01:31:24](https://news.ycombinator.com/item?id=44018301) - [Experts have it easy (2024)](https://boydkane.com/essays/experts)
 * [2025-05-18, 01:26:08](https://news.ycombinator.com/item?id=44018283) - [Memetics – A Growth Industry in US Military Operations (2006) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
 * [2025-05-17, 23:59:03](https://news.ycombinator.com/item?id=44017913) - [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
-* [2025-05-17, 23:41:54](https://news.ycombinator.com/item?id=44017832) - [Fortran for C Programmers](https://flang.llvm.org/docs/FortranForCProgrammers.html)
 * [2025-05-17, 23:12:15](https://news.ycombinator.com/item?id=44017692) - [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/)
 * [2025-05-17, 22:47:55](https://news.ycombinator.com/item?id=44017592) - [FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux](https://freebasic.net/)
 * [2025-05-17, 21:22:08](https://news.ycombinator.com/item?id=44017056) - [Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers](https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html)
