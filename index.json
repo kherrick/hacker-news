@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-05-17, 12:47:40",
-      "https://news.ycombinator.com/item?id=44013913"
-    ],
-    [
-      "Pyrefly: A new type checker and IDE experience for Python",
-      "https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 09:31:55",
       "https://news.ycombinator.com/item?id=44013157"
     ],
@@ -217,6 +207,16 @@
     [
       "Project Verona: Fearless Concurrency for Python",
       "https://microsoft.github.io/verona/pyrona.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 08:14:29",
+      "https://news.ycombinator.com/item?id=43992908"
+    ],
+    [
+      "Postgres with data branching and PII anonymization",
+      "https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization"
     ]
   ],
   [
