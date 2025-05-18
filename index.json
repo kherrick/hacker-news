@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-18, 01:31:24",
+      "https://news.ycombinator.com/item?id=44018301"
+    ],
+    [
+      "Experts have it easy (2024)",
+      "https://boydkane.com/essays/experts"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 01:17:42",
+      "https://news.ycombinator.com/item?id=44018241"
+    ],
+    [
+      "GM Is Pushing Hard to Tank California's EV Mandate",
+      "https://www.wsj.com/business/autos/california-ev-mandate-auto-industry-64708033"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 23:59:03",
       "https://news.ycombinator.com/item?id=44017913"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-05-17, 19:06:14",
-      "https://news.ycombinator.com/item?id=44016289"
-    ],
-    [
-      "Xata: Postgres at scale, with copy-on-write branching and anonymization",
-      "https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 18:21:18",
       "https://news.ycombinator.com/item?id=44016037"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=44015872"
     ],
     [
-      "Dead Stars Don't Radiate",
+      "Dead Stars Don’t Radiate",
       "https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Show HN: I built a knife steel comparison tool",
       "https://new.knife.day/blog/knife-steel-comparisons/all"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 16:58:20",
-      "https://news.ycombinator.com/item?id=44015557"
-    ],
-    [
-      "A Simulation in C++ of Joseph Weizenbaum's 1966 Eliza",
-      "https://github.com/anthay/ELIZA"
     ]
   ],
   [
@@ -235,18 +235,18 @@
       "https://news.ycombinator.com/item?id=43995501"
     ],
     [
-      "How I fixed the infamous Basilisk II Windows \"Black Screen\" bug in 2013",
+      "How I fixed the infamous Basilisk II Windows “Black Screen” bug in 2013",
       "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/"
     ]
   ],
   [
     [
-      "2025-05-14, 18:40:50",
-      "https://news.ycombinator.com/item?id=43987852"
+      "2025-05-14, 17:04:00",
+      "https://news.ycombinator.com/item?id=43986821"
     ],
     [
-      "NASA Observes First Visible-Light Auroras at Mars",
-      "https://www.jpl.nasa.gov/news/nasa-observes-first-visible-light-auroras-at-mars/"
+      "Mice grow bigger brains when given this stretch of human DNA",
+      "https://www.nature.com/articles/d41586-025-01515-z"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43983201"
     ],
     [
-      "\"Streaming vs. Batch\" Is a Wrong Dichotomy, and I Think It's Confusing",
+      "“Streaming vs. Batch” Is a Wrong Dichotomy, and I Think It's Confusing",
       "https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-05-13, 18:47:22",
-      "https://news.ycombinator.com/item?id=43976274"
+      "2025-05-14, 09:11:47",
+      "https://news.ycombinator.com/item?id=43982495"
     ],
     [
-      "Moment of heart's formation captured in images for first time",
-      "https://www.theguardian.com/science/2025/may/13/heart-cells-mouse-embryo-science-research"
+      "ARMv9 Architecture Helps Lift Arm to New Financial Heights",
+      "https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/"
     ]
   ]
 ]
