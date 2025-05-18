@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-18, 04:01:58",
+      "https://news.ycombinator.com/item?id=44018922"
+    ],
+    [
+      "Every programming language has its 'killer' domain",
+      "https://huijzer.xyz/posts/67"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 03:52:15",
+      "https://news.ycombinator.com/item?id=44018886"
+    ],
+    [
+      "Show HN: Chat with 19 years of HN",
+      "https://app.camelai.com/log-in?next=/hn/"
+    ]
+  ],
+  [
+    [
       "2025-05-18, 01:59:43",
       "https://news.ycombinator.com/item?id=44018400"
     ],
     [
       "Ending TLS Client Authentication Certificate Support in 2026",
       "https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 01:57:39",
+      "https://news.ycombinator.com/item?id=44018386"
+    ],
+    [
+      "Confessions about my smart home",
+      "https://frenck.dev/confessions-about-my-smart-home/"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2025-05-17, 12:47:40",
-      "https://news.ycombinator.com/item?id=44013913"
-    ],
-    [
-      "Pyrefly: A new type checker and IDE experience for Python",
-      "https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 09:31:55",
       "https://news.ycombinator.com/item?id=44013157"
     ],
     [
       "Push Ifs Up and Fors Down",
       "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 05:23:20",
-      "https://news.ycombinator.com/item?id=44012227"
-    ],
-    [
-      "JavaScript's New Superpower: Explicit Resource Management",
-      "https://v8.dev/features/explicit-resource-management"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Weather Report from Saturn's Moon Titan",
       "https://www.sci.news/astronomy/titan-weather-13907.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 14:31:53",
-      "https://news.ycombinator.com/item?id=43995501"
-    ],
-    [
-      "How I fixed the infamous Basilisk II Windows “Black Screen” bug in 2013",
-      "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/"
     ]
   ],
   [
