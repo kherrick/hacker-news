@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 18:36:54](https://news.ycombinator.com/item?id=44023423) - [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
+* [2025-05-18, 18:03:26](https://news.ycombinator.com/item?id=44023200) - [Show HN: Vibe Coded GitHub PR Bot for Integrating a GitHub Action](https://vetpkg.dev/gha)
 * [2025-05-18, 17:54:12](https://news.ycombinator.com/item?id=44023144) - [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev)
 * [2025-05-18, 17:08:38](https://news.ycombinator.com/item?id=44022781) - [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
 * [2025-05-18, 17:05:56](https://news.ycombinator.com/item?id=44022758) - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
