@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-05-18, 12:26:42",
-      "https://news.ycombinator.com/item?id=44020855"
-    ],
-    [
-      "Why some friendships end after kids come into the picture",
-      "https://text.npr.org/nx-s1-5371490"
-    ]
-  ],
-  [
-    [
       "2025-05-18, 12:08:52",
       "https://news.ycombinator.com/item?id=44020734"
     ],
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2025-05-18, 06:23:59",
-      "https://news.ycombinator.com/item?id=44019386"
-    ],
-    [
-      "Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead",
-      "https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour"
-    ]
-  ],
-  [
-    [
       "2025-05-18, 03:52:15",
       "https://news.ycombinator.com/item?id=44018886"
     ],
@@ -137,6 +117,16 @@
     [
       "Experts have it easy (2024)",
       "https://boydkane.com/essays/experts"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 01:26:08",
+      "https://news.ycombinator.com/item?id=44018283"
+    ],
+    [
+      "Memetics – A Growth Industry in US Military Operations (2006) [pdf]",
+      "https://apps.dtic.mil/sti/pdfs/ADA507172.pdf"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-05-15, 02:09:24",
+      "https://news.ycombinator.com/item?id=43991185"
+    ],
+    [
+      "Magic Leap One Bootloader Exploit",
+      "https://github.com/EliseZeroTwo/ml1hax"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 20:42:36",
       "https://news.ycombinator.com/item?id=43988975"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-05-14, 17:04:00",
-      "https://news.ycombinator.com/item?id=43986821"
-    ],
-    [
-      "Mice grow bigger brains when given this stretch of human DNA",
-      "https://www.nature.com/articles/d41586-025-01515-z"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 15:11:57",
       "https://news.ycombinator.com/item?id=43985513"
     ],
     [
       "Coding without a laptop: Two weeks with AR glasses and Linux on Android",
       "https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 14:11:46",
+      "https://news.ycombinator.com/item?id=43984770"
+    ],
+    [
+      "Espanso – Cross-Platform Text Expander Written in Rust",
+      "https://github.com/espanso/espanso"
     ]
   ]
 ]
