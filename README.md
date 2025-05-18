@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-18, 04:01:58](https://news.ycombinator.com/item?id=44018922) - [Every programming language has its 'killer' domain](https://huijzer.xyz/posts/67)
-* [2025-05-18, 03:52:15](https://news.ycombinator.com/item?id=44018886) - [Show HN: Chat with 19 years of HN](https://app.camelai.com/log-in?next=/hn/)
 * [2025-05-18, 01:59:43](https://news.ycombinator.com/item?id=44018400) - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
 * [2025-05-18, 01:57:39](https://news.ycombinator.com/item?id=44018386) - [Confessions about my smart home](https://frenck.dev/confessions-about-my-smart-home/)
 * [2025-05-18, 01:31:24](https://news.ycombinator.com/item?id=44018301) - [Experts have it easy (2024)](https://boydkane.com/essays/experts)
@@ -20,6 +19,7 @@
 * [2025-05-17, 14:59:10](https://news.ycombinator.com/item?id=44014808) - [Proton threatens to quit Switzerland over new surveillance law](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law)
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-17, 13:08:29](https://news.ycombinator.com/item?id=44014046) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
+* [2025-05-17, 12:47:40](https://news.ycombinator.com/item?id=44013913) - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 * [2025-05-17, 09:31:55](https://news.ycombinator.com/item?id=44013157) - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2025-05-15, 19:35:51](https://news.ycombinator.com/item?id=43998485) - [The most annoying video player of all time](https://www.mux.com/blog/worst-video-player)
 * [2025-05-15, 15:44:03](https://news.ycombinator.com/item?id=43996226) - [Weather Report from Saturn's Moon Titan](https://www.sci.news/astronomy/titan-weather-13907.html)
