@@ -3,6 +3,7 @@
 * [2025-05-18, 18:36:54](https://news.ycombinator.com/item?id=44023423) - [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
 * [2025-05-18, 18:03:26](https://news.ycombinator.com/item?id=44023200) - [Show HN: Vibe Coded GitHub PR Bot for Integrating a GitHub Action](https://vetpkg.dev/gha)
 * [2025-05-18, 17:54:12](https://news.ycombinator.com/item?id=44023144) - [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev)
+* [2025-05-18, 17:08:38](https://news.ycombinator.com/item?id=44022781) - [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
 * [2025-05-18, 17:05:56](https://news.ycombinator.com/item?id=44022758) - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
 * [2025-05-18, 16:26:58](https://news.ycombinator.com/item?id=44022484) - [Emergent social conventions and collective bias in LLM populations](https://www.science.org/doi/10.1126/sciadv.adu9368)
 * [2025-05-18, 16:21:50](https://news.ycombinator.com/item?id=44022448) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
@@ -29,7 +30,6 @@
 * [2025-05-15, 02:18:34](https://news.ycombinator.com/item?id=43991221) - [Lessons from Mixing Rust and Java: Fast, Safe, and Practical](https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8)
 * [2025-05-15, 02:09:24](https://news.ycombinator.com/item?id=43991185) - [Magic Leap One Bootloader Exploit](https://github.com/EliseZeroTwo/ml1hax)
 * [2025-05-14, 23:29:32](https://news.ycombinator.com/item?id=43990262) - [How the humble chestnut traced the rise and fall of the Roman Empire](https://www.bbc.com/future/article/20250513-what-chestnuts-reveal-about-the-roman-empire)
-* [2025-05-14, 20:42:36](https://news.ycombinator.com/item?id=43988975) - [High Available Mosquitto MQTT on Kubernetes](https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html)
 
 ## [Archives](archives/index.md)
 
