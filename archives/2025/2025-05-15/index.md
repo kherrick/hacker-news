@@ -29,6 +29,7 @@
 * [2025-05-15, 17:08:20](https://news.ycombinator.com/item?id=43997071) - [The Joys of Discovering the Roman Underground](https://www.smithsonianmag.com/travel/the-joys-of-discovering-the-roman-underground-from-the-colosseum-to-whats-beneath-the-trevi-foundation-180986626/)
 * [2025-05-15, 17:00:07](https://news.ycombinator.com/item?id=43996980) - [Fetii (YC S22) Is Hiring](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii)
 * [2025-05-15, 16:43:20](https://news.ycombinator.com/item?id=43996796) - [Onfim's world: Child artists in history](https://resobscura.substack.com/p/onfims-world-medieval-child-artists)
+* [2025-05-15, 16:40:32](https://news.ycombinator.com/item?id=43996770) - [The Tongue Is a Fire](https://www.lrb.co.uk/the-paper/v47/n09/ferdinand-mount/the-tongue-is-a-fire)
 * [2025-05-15, 16:37:41](https://news.ycombinator.com/item?id=43996736) - [Researchers establish fundamental limit on how light bosonic dark matter can be](https://phys.org/news/2025-05-fundamental-limit-bosonic-dark.html)
 * [2025-05-15, 16:23:17](https://news.ycombinator.com/item?id=43996597) - [Gateway Books: The lessons of a defunct canon](https://thepointmag.com/examined-life/gateway-books/)
 * [2025-05-15, 16:19:00](https://news.ycombinator.com/item?id=43996555) - [Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
