@@ -5,6 +5,10 @@
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
 * [2025-05-19, 16:17:56](https://news.ycombinator.com/item?id=44031432) - [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/)
+* [2025-05-19, 16:14:35](https://news.ycombinator.com/item?id=44031387) - [xAI's Grok 3 comes to Microsoft Azure](https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/)
+* [2025-05-19, 16:14:15](https://news.ycombinator.com/item?id=44031385) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
+* [2025-05-19, 16:05:52](https://news.ycombinator.com/item?id=44031297) - [European Investment Bank to inject €70B in European tech](https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech)
+* [2025-05-19, 15:53:14](https://news.ycombinator.com/item?id=44031144) - [Wikipedia's Most Translated Articles](https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html)
 * [2025-05-19, 15:40:32](https://news.ycombinator.com/item?id=44031009) - [Too Much Go Misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
 * [2025-05-19, 15:39:49](https://news.ycombinator.com/item?id=44031000) - [Discover is now part of Capital One](https://www.discover.com/faqs/merger/)
 * [2025-05-19, 15:27:22](https://news.ycombinator.com/item?id=44030873) - [23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron](https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron)
