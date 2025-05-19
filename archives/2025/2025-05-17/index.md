@@ -36,6 +36,7 @@
 * [2025-05-17, 14:28:59](https://news.ycombinator.com/item?id=44014587) - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-17, 13:58:15](https://news.ycombinator.com/item?id=44014384) - [Why Are There So Many 'Alternative Devices' All of a Sudden?](https://www.theatlantic.com/technology/archive/2025/05/alternative-device-fair/682837/)
 * [2025-05-17, 13:52:51](https://news.ycombinator.com/item?id=44014343) - [Steepest Descent Density Control for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2505.05587)
+* [2025-05-17, 13:49:06](https://news.ycombinator.com/item?id=44014323) - [Show HN: A MCP server to evaluate Python code in WASM VM using RustPython](https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py)
 * [2025-05-17, 13:17:31](https://news.ycombinator.com/item?id=44014106) - [FDA Clears First Blood Test to Diagnose Alzheimer's](https://www.bloomberg.com/news/articles/2025-05-16/fda-approves-first-blood-test-to-diagnose-alzheimer-s-disease)
 * [2025-05-17, 13:08:29](https://news.ycombinator.com/item?id=44014046) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
 * [2025-05-17, 12:51:26](https://news.ycombinator.com/item?id=44013933) - [The Japanese method of creating forests comes to Mexico](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html)
