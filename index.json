@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-05-19, 04:04:14",
-      "https://news.ycombinator.com/item?id=44026414"
-    ],
-    [
-      "The lack of a good command line way to sort IPv6 addresses",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/SortingIPv6Addresses"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 02:58:27",
       "https://news.ycombinator.com/item?id=44026201"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-05-18, 12:08:52",
+      "https://news.ycombinator.com/item?id=44020734"
+    ],
+    [
+      "Show HN: Hardtime.nvim – break bad habits and master Vim motions",
+      "https://github.com/m4xshen/hardtime.nvim"
+    ]
+  ],
+  [
+    [
       "2025-05-18, 11:42:19",
       "https://news.ycombinator.com/item?id=44020591"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=43993311"
     ],
     [
-      "Llama from scratch (or how to implement a paper without crying)",
+      "Llama from scratch (2023)",
       "https://blog.briankitano.com/llama-from-scratch/"
     ]
   ]
