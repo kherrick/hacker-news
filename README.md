@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-19, 18:45:41](https://news.ycombinator.com/item?id=44033310) - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
+* [2025-05-19, 18:23:45](https://news.ycombinator.com/item?id=44033009) - [Show HN: A native Hacker News reader with integrated todo/done tracking](https://github.com/haojiang99/hacker_news_reader)
 * [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk)
 * [2025-05-19, 17:59:16](https://news.ycombinator.com/item?id=44032717) - [Microsoft's ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
 * [2025-05-19, 17:39:59](https://news.ycombinator.com/item?id=44032470) - [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
@@ -28,7 +29,6 @@
 * [2025-05-16, 13:19:20](https://news.ycombinator.com/item?id=44005157) - [Rivers](https://www.futilitycloset.com/2025/05/15/rivers/)
 * [2025-05-16, 08:55:27](https://news.ycombinator.com/item?id=44003184) - [Run your GitHub Actions locally](https://github.com/nektos/act)
 * [2025-05-16, 03:54:02](https://news.ycombinator.com/item?id=44001696) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
-* [2025-05-15, 22:16:26](https://news.ycombinator.com/item?id=43999897) - [In Memoriam: John L. Young, Cryptome Co-Founder](https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder)
 * [2025-05-15, 18:50:08](https://news.ycombinator.com/item?id=43998075) - [About Asteroids, Atari's biggest arcade hit](https://www.goto10retro.com/p/about-asteroids-ataris-biggest-arcade)
 
 ## [Archives](archives/index.md)
