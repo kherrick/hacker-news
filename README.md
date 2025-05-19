@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-19, 13:34:46](https://news.ycombinator.com/item?id=44029713) - [Oregon spent funds meant for addiction services on prosecutors, police gadgets](https://www.theguardian.com/us-news/2025/may/19/oregon-addiction-spending)
 * [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 * [2025-05-19, 11:21:59](https://news.ycombinator.com/item?id=44028587) - ['Significant amount' of private data stolen in UK Legal Aid hack](https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o)
 * [2025-05-19, 11:06:59](https://news.ycombinator.com/item?id=44028483) - [Monitoring Node.js: Key Metrics You Should Track](https://last9.io/blog/node-js-key-metrics/)
@@ -16,7 +17,6 @@
 * [2025-05-19, 00:31:34](https://news.ycombinator.com/item?id=44025439) - [“There are people who can see and others who cannot even look”](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
 * [2025-05-18, 22:33:16](https://news.ycombinator.com/item?id=44024784) - [KDE is finally getting a native virtual machine manager called “Karton”](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
 * [2025-05-18, 22:27:07](https://news.ycombinator.com/item?id=44024759) - [France Endorses UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
-* [2025-05-18, 19:10:29](https://news.ycombinator.com/item?id=44023634) - [Show HN: Sshsync – CLI tool to run shell commands across multiple remote servers](https://github.com/Blackmamoth/sshsync)
 * [2025-05-18, 17:05:56](https://news.ycombinator.com/item?id=44022758) - [$30 Homebrew Automated Blinds Opener (2024)](https://sifter.org/~simon/journal/20240718.html)
 * [2025-05-18, 16:21:50](https://news.ycombinator.com/item?id=44022448) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 * [2025-05-18, 16:09:01](https://news.ycombinator.com/item?id=44022353) - [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
