@@ -55,6 +55,7 @@
 * [2025-05-17, 07:46:29](https://news.ycombinator.com/item?id=44012729) - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 07:19:55](https://news.ycombinator.com/item?id=44012615) - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
 * [2025-05-17, 06:59:34](https://news.ycombinator.com/item?id=44012538) - [Publisher: The Malloy Semantic Model Server](https://github.com/malloydata/publisher)
+* [2025-05-17, 06:30:59](https://news.ycombinator.com/item?id=44012418) - [Programming in Martin-Lof's Type Theory: An Introduction (1990)](https://www.cse.chalmers.se/research/group/logic/book/)
 * [2025-05-17, 05:44:50](https://news.ycombinator.com/item?id=44012283) - [`This Printer company served you malware for months, called them false positives](https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/)
 * [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-17, 04:39:31](https://news.ycombinator.com/item?id=44012074) - [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
