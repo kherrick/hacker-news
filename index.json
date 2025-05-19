@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-05-19, 15:27:22",
-      "https://news.ycombinator.com/item?id=44030873"
-    ],
-    [
-      "23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron",
-      "https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 15:24:58",
       "https://news.ycombinator.com/item?id=44030850"
     ],
@@ -257,6 +247,16 @@
     [
       "Show HN: A MCP server to evaluate Python code in WASM VM using RustPython",
       "https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 08:56:10",
+      "https://news.ycombinator.com/item?id=44013000"
+    ],
+    [
+      "Don't Use ISO/IEC 14977:1996 Extended Backus-Naur Form (EBNF) (2023)",
+      "https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html"
     ]
   ],
   [
