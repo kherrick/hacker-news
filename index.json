@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-19, 16:17:56",
+      "https://news.ycombinator.com/item?id=44031432"
+    ],
+    [
+      "GitHub Copilot Coding Agent",
+      "https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 15:40:32",
+      "https://news.ycombinator.com/item?id=44031009"
+    ],
+    [
+      "Too Much Go Misdirection",
+      "https://flak.tedunangst.com/post/too-much-go-misdirection"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 15:39:49",
+      "https://news.ycombinator.com/item?id=44031000"
+    ],
+    [
+      "Discover is now part of Capital One",
+      "https://www.discover.com/faqs/merger/"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 15:27:22",
       "https://news.ycombinator.com/item?id=44030873"
     ],
@@ -51,12 +81,22 @@
   ],
   [
     [
-      "2025-05-19, 14:45:44",
-      "https://news.ycombinator.com/item?id=44030469"
+      "2025-05-19, 14:43:57",
+      "https://news.ycombinator.com/item?id=44030443"
     ],
     [
-      "Ukraine can move beyond its Soviet architectural legacy",
-      "https://www.counteroffensive.news/p/how-ukraine-can-move-beyond-its-soviet"
+      "Show HN: Mirror World, create an AI clone of anyone",
+      "https://mirr.world/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 14:41:10",
+      "https://news.ycombinator.com/item?id=44030417"
+    ],
+    [
+      "Oops, I accidentally vibe-coded a ChatGPT client for my Apple Watch",
+      "https://richarddas.com/blog/chatgpt-client-for-apple-watch/"
     ]
   ],
   [
@@ -77,6 +117,16 @@
     [
       "Visualizing 100k Years of Earth in WebGL",
       "https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 13:19:11",
+      "https://news.ycombinator.com/item?id=44029566"
+    ],
+    [
+      "Fabric Is Just Plain Unreliable, and Microsoft's Hiding It",
+      "https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2025-05-19, 02:58:27",
-      "https://news.ycombinator.com/item?id=44026201"
-    ],
-    [
-      "The principles of database design, or, the Truth is out there",
-      "https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 00:38:34",
       "https://news.ycombinator.com/item?id=44025484"
     ],
@@ -181,52 +221,12 @@
   ],
   [
     [
-      "2025-05-18, 22:33:16",
-      "https://news.ycombinator.com/item?id=44024784"
-    ],
-    [
-      "KDE is finally getting a native virtual machine manager called “Karton”",
-      "https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 22:27:07",
-      "https://news.ycombinator.com/item?id=44024759"
-    ],
-    [
-      "France Endorses UN Open Source Principles",
-      "https://social.numerique.gouv.fr/@codegouvfr/114529954373492878"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 17:05:56",
-      "https://news.ycombinator.com/item?id=44022758"
-    ],
-    [
-      "$30 Homebrew Automated Blinds Opener (2024)",
-      "https://sifter.org/~simon/journal/20240718.html"
-    ]
-  ],
-  [
-    [
       "2025-05-18, 16:21:50",
       "https://news.ycombinator.com/item?id=44022448"
     ],
     [
       "Ditching Obsidian and building my own",
       "https://amberwilliams.io/blogs/building-my-own-pkms"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 16:09:01",
-      "https://news.ycombinator.com/item?id=44022353"
-    ],
-    [
-      "Show HN: I modeled the Voynich Manuscript with SBERT to test for structure",
-      "https://github.com/brianmg/voynich-nlp-analysis"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-05-17, 06:30:59",
-      "https://news.ycombinator.com/item?id=44012418"
+      "2025-05-17, 10:29:44",
+      "https://news.ycombinator.com/item?id=44013322"
     ],
     [
-      "Programming in Martin-Lof's Type Theory: An Introduction (1990)",
-      "https://www.cse.chalmers.se/research/group/logic/book/"
+      "Static Types Are for Perfectionists",
+      "https://mmapped.blog/posts/38-static-types-perfectionism"
     ]
   ],
   [
