@@ -4,7 +4,6 @@
 * [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK – Anthropic](https://docs.anthropic.com/en/docs/claude-code/sdk)
 * [2025-05-19, 17:59:16](https://news.ycombinator.com/item?id=44032717) - [Microsoft's ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
 * [2025-05-19, 17:39:59](https://news.ycombinator.com/item?id=44032470) - [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
-* [2025-05-19, 17:15:22](https://news.ycombinator.com/item?id=44032124) - [Company Reminder for Everyone to Talk Nicely About the Giant Plagiarism Machine](https://www.mcsweeneys.net/articles/a-company-reminder-for-everyone-to-talk-nicely-about-the-giant-plagiarism-machine)
 * [2025-05-19, 17:00:10](https://news.ycombinator.com/item?id=44031912) - [Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
 * [2025-05-19, 16:28:18](https://news.ycombinator.com/item?id=44031535) - [Game theory illustrated by an animated cartoon game](https://ncase.me/trust/)
 * [2025-05-19, 16:27:42](https://news.ycombinator.com/item?id=44031529) - [Edit is now open source](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/)
@@ -30,6 +29,7 @@
 * [2025-05-16, 03:54:02](https://news.ycombinator.com/item?id=44001696) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 * [2025-05-15, 22:16:26](https://news.ycombinator.com/item?id=43999897) - [In Memoriam: John L. Young, Cryptome Co-Founder](https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder)
 * [2025-05-15, 16:15:47](https://news.ycombinator.com/item?id=43996515) - [Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting](https://github.com/habedi/cogitator)
+* [2025-05-15, 09:34:28](https://news.ycombinator.com/item?id=43993311) - [Llama from scratch (2023)](https://blog.briankitano.com/llama-from-scratch/)
 
 ## [Archives](archives/index.md)
 
