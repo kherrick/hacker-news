@@ -9,6 +9,7 @@
 * [2025-05-19, 17:59:16](https://news.ycombinator.com/item?id=44032717) - [Microsoft's ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
 * [2025-05-19, 17:43:32](https://news.ycombinator.com/item?id=44032510) - [So why *did* U.S. wages stagnate for 20 years?](https://www.noahpinion.blog/p/so-why-did-us-wages-stagnate-for)
 * [2025-05-19, 17:39:59](https://news.ycombinator.com/item?id=44032470) - [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
+* [2025-05-19, 17:15:22](https://news.ycombinator.com/item?id=44032124) - [Company Reminder for Everyone to Talk Nicely About the Giant Plagiarism Machine](https://www.mcsweeneys.net/articles/a-company-reminder-for-everyone-to-talk-nicely-about-the-giant-plagiarism-machine)
 * [2025-05-19, 17:00:43](https://news.ycombinator.com/item?id=44031917) - [Dilbert Creator Scott Adams Says He Will Die Soon from Same Cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
 * [2025-05-19, 17:00:10](https://news.ycombinator.com/item?id=44031912) - [Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
 * [2025-05-19, 16:47:27](https://news.ycombinator.com/item?id=44031742) - [Why are (male) surgeons still addressed as Mr? (2000)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119265/)
