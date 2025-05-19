@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-19, 13:06:55](https://news.ycombinator.com/item?id=44029435) - [Diffusion Models Explained Simply](https://www.seangoedecke.com/diffusion-models-explained/)
 * [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 * [2025-05-19, 11:21:59](https://news.ycombinator.com/item?id=44028587) - ['Significant amount' of private data stolen in UK Legal Aid hack](https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o)
 * [2025-05-19, 11:06:59](https://news.ycombinator.com/item?id=44028483) - [Monitoring Node.js: Key Metrics You Should Track](https://last9.io/blog/node-js-key-metrics/)
@@ -22,7 +23,6 @@
 * [2025-05-18, 15:48:57](https://news.ycombinator.com/item?id=44022225) - [Spaced repetition memory system (2024)](https://notes.andymatuschak.org/Spaced_repetition_memory_system)
 * [2025-05-18, 12:22:39](https://news.ycombinator.com/item?id=44020832) - [InventWood is about to mass-produce wood that's stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
 * [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten better](https://domenic.me/fsrs/)
-* [2025-05-17, 12:41:11](https://news.ycombinator.com/item?id=44013868) - [Ugly infrastructure: Why can't we have nice things?](https://jordanwtaylor2.substack.com/p/ugly-infrastructure-why-cant-we-have)
 * [2025-05-17, 06:30:59](https://news.ycombinator.com/item?id=44012418) - [Programming in Martin-Lof's Type Theory: An Introduction (1990)](https://www.cse.chalmers.se/research/group/logic/book/)
 * [2025-05-17, 05:44:50](https://news.ycombinator.com/item?id=44012283) - [Procolored printer drivers contained malware](https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/)
 * [2025-05-16, 21:52:52](https://news.ycombinator.com/item?id=44010096) - [Font Activations: A Note on the Type](https://robhorning.substack.com/p/font-activations)
