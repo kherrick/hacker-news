@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-05-19, 16:14:35",
+      "https://news.ycombinator.com/item?id=44031387"
+    ],
+    [
+      "xAI's Grok 3 comes to Microsoft Azure",
+      "https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 16:14:15",
       "https://news.ycombinator.com/item?id=44031385"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-05-19, 05:51:02",
-      "https://news.ycombinator.com/item?id=44026799"
-    ],
-    [
-      "Show HN: Goboscript, text-based programming language, compiles to Scratch",
-      "https://github.com/aspizu/goboscript"
-    ]
-  ],
-  [
-    [
       "2025-05-18, 12:22:39",
       "https://news.ycombinator.com/item?id=44020832"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-05-15, 18:50:08",
+      "https://news.ycombinator.com/item?id=43998075"
+    ],
+    [
+      "About Asteroids, Atari's biggest arcade hit",
+      "https://www.goto10retro.com/p/about-asteroids-ataris-biggest-arcade"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 16:15:47",
       "https://news.ycombinator.com/item?id=43996515"
     ],
     [
       "Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting",
       "https://github.com/habedi/cogitator"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 09:34:28",
-      "https://news.ycombinator.com/item?id=43993311"
-    ],
-    [
-      "Llama from scratch (2023)",
-      "https://blog.briankitano.com/llama-from-scratch/"
     ]
   ]
 ]
