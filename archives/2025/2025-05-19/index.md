@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 06:33:42](https://news.ycombinator.com/item?id=44027008) - [First successful demonstration of quantum error correction of qudits](https://phys.org/news/2025-05-successful-quantum-error-qudits.html)
 * [2025-05-19, 05:51:02](https://news.ycombinator.com/item?id=44026799) - [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)
 * [2025-05-19, 04:04:14](https://news.ycombinator.com/item?id=44026414) - [The lack of a good command line way to sort IPv6 addresses](https://utcc.utoronto.ca/~cks/space/blog/unix/SortingIPv6Addresses)
 * [2025-05-19, 02:58:46](https://news.ycombinator.com/item?id=44026202) - [America's College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)

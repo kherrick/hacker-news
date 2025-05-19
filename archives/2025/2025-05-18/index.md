@@ -38,6 +38,7 @@
 * [2025-05-18, 12:43:01](https://news.ycombinator.com/item?id=44020975) - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
 * [2025-05-18, 12:33:43](https://news.ycombinator.com/item?id=44020914) - [Working with Git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
 * [2025-05-18, 12:26:42](https://news.ycombinator.com/item?id=44020855) - [Why some friendships end after kids come into the picture](https://text.npr.org/nx-s1-5371490)
+* [2025-05-18, 12:22:39](https://news.ycombinator.com/item?id=44020832) - [InventWood is about to mass-produce wood that's stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
 * [2025-05-18, 12:08:52](https://news.ycombinator.com/item?id=44020734) - [Show HN: Hardtime.nvim – break bad habits and master Vim motions](https://github.com/m4xshen/hardtime.nvim)
 * [2025-05-18, 11:48:42](https://news.ycombinator.com/item?id=44020626) - [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
 * [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
