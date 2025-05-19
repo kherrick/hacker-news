@@ -6,7 +6,6 @@
 * [2025-05-19, 02:49:25](https://news.ycombinator.com/item?id=44026170) - [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
 * [2025-05-19, 00:38:34](https://news.ycombinator.com/item?id=44025484) - [Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.](https://www.remoteswe.fyi)
 * [2025-05-19, 00:31:34](https://news.ycombinator.com/item?id=44025439) - [“There are people who can see and others who cannot even look”](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
-* [2025-05-19, 00:12:16](https://news.ycombinator.com/item?id=44025324) - [Living beings emit a faint light that extinguishes upon death, study](https://phys.org/news/2025-05-emit-faint-extinguishes-death.html)
 * [2025-05-18, 22:27:07](https://news.ycombinator.com/item?id=44024759) - [France Endorses UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
 * [2025-05-18, 20:41:51](https://news.ycombinator.com/item?id=44024173) - [Hyper Typing](https://pscanf.com/s/341/)
 * [2025-05-18, 20:22:33](https://news.ycombinator.com/item?id=44024055) - [Show HN: Python Simulator of David Deutsch’s “Constructor Theory of Time”](https://github.com/gvelesandro/constructor-theory-simulator)
@@ -30,6 +29,7 @@
 * [2025-05-15, 22:16:26](https://news.ycombinator.com/item?id=43999897) - [In Memoriam: John L. Young, Cryptome Co-Founder](https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder)
 * [2025-05-15, 16:40:32](https://news.ycombinator.com/item?id=43996770) - [The Tongue Is a Fire](https://www.lrb.co.uk/the-paper/v47/n09/ferdinand-mount/the-tongue-is-a-fire)
 * [2025-05-15, 13:48:46](https://news.ycombinator.com/item?id=43995067) - [New research reveals the strongest solar event ever detected, in 12350 BC](https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html)
+* [2025-05-15, 09:34:28](https://news.ycombinator.com/item?id=43993311) - [Llama from scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/)
 
 ## [Archives](archives/index.md)
 
