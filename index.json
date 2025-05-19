@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-19, 06:33:42",
+      "https://news.ycombinator.com/item?id=44027008"
+    ],
+    [
+      "First successful demonstration of quantum error correction of qudits",
+      "https://phys.org/news/2025-05-successful-quantum-error-qudits.html"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 05:51:02",
       "https://news.ycombinator.com/item?id=44026799"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-05-18, 16:26:58",
-      "https://news.ycombinator.com/item?id=44022484"
-    ],
-    [
-      "Emergent social conventions and collective bias in LLM populations",
-      "https://www.science.org/doi/10.1126/sciadv.adu9368"
-    ]
-  ],
-  [
-    [
       "2025-05-18, 16:21:50",
       "https://news.ycombinator.com/item?id=44022448"
     ],
@@ -147,16 +147,6 @@
     [
       "Show HN: I modeled the Voynich Manuscript with SBERT to test for structure",
       "https://github.com/brianmg/voynich-nlp-analysis"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 15:56:18",
-      "https://news.ycombinator.com/item?id=44022265"
-    ],
-    [
-      "Show HN: Buckaroo – Data table UI for Notebooks",
-      "https://github.com/paddymul/buckaroo"
     ]
   ],
   [
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2025-05-18, 12:08:52",
-      "https://news.ycombinator.com/item?id=44020734"
+      "2025-05-18, 12:22:39",
+      "https://news.ycombinator.com/item?id=44020832"
     ],
     [
-      "Show HN: Hardtime.nvim – break bad habits and master Vim motions",
-      "https://github.com/m4xshen/hardtime.nvim"
+      "InventWood is about to mass-produce wood that's stronger than steel",
+      "https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Publisher: The Malloy Semantic Model Server",
       "https://github.com/malloydata/publisher"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 05:44:50",
+      "https://news.ycombinator.com/item?id=44012283"
+    ],
+    [
+      "`This Printer company served you malware for months, called them false positives",
+      "https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/"
     ]
   ],
   [
