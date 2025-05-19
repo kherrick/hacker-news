@@ -28,6 +28,7 @@
 * [2025-05-16, 16:05:00](https://news.ycombinator.com/item?id=44007065) - [Show HN: Workflow Use – Deterministic, self-healing browser automation (RPA 2.0)](https://github.com/browser-use/workflow-use)
 * [2025-05-16, 15:45:30](https://news.ycombinator.com/item?id=44006824) - [X X^t can be faster](https://arxiv.org/abs/2505.09814)
 * [2025-05-16, 15:37:30](https://news.ycombinator.com/item?id=44006735) - [Show HN: Rv, a Package Manager for R](https://github.com/A2-ai/rv)
+* [2025-05-16, 15:27:26](https://news.ycombinator.com/item?id=44006634) - [The truth behind the accuracy of weather forecasts](https://www.abc.net.au/news/2025-05-16/weather-forecast-accuracy-bom/105297540)
 * [2025-05-16, 15:09:25](https://news.ycombinator.com/item?id=44006426) - [Assuring an Accurate Research Record](https://economics.mit.edu/news/assuring-accurate-research-record)
 * [2025-05-16, 15:05:32](https://news.ycombinator.com/item?id=44006381) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44006381)
 * [2025-05-16, 15:02:02](https://news.ycombinator.com/item?id=44006345) - [A Research Preview of Codex](https://openai.com/index/introducing-codex/)
