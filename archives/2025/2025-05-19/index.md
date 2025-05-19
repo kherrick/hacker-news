@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 * [2025-05-19, 11:21:59](https://news.ycombinator.com/item?id=44028587) - ['Significant amount' of private data stolen in UK Legal Aid hack](https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o)
+* [2025-05-19, 11:19:27](https://news.ycombinator.com/item?id=44028566) - [The White House, LLC](https://english.elpais.com/economy-and-business/2025-05-19/the-white-house-llc.html)
+* [2025-05-19, 11:06:59](https://news.ycombinator.com/item?id=44028483) - [Monitoring Node.js: Key Metrics You Should Track](https://last9.io/blog/node-js-key-metrics/)
 * [2025-05-19, 11:00:25](https://news.ycombinator.com/item?id=44028435) - [You're Worshipping Your Phone](https://etymology.substack.com/p/youre-literally-worshipping-your)
 * [2025-05-19, 10:50:40](https://news.ycombinator.com/item?id=44028384) - [Is Winter Coming? – Datagubbe.se](https://www.datagubbe.se/winter/)
 * [2025-05-19, 10:27:34](https://news.ycombinator.com/item?id=44028250) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)

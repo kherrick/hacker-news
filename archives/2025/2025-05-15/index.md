@@ -34,6 +34,7 @@
 * [2025-05-15, 16:37:41](https://news.ycombinator.com/item?id=43996736) - [Researchers establish fundamental limit on how light bosonic dark matter can be](https://phys.org/news/2025-05-fundamental-limit-bosonic-dark.html)
 * [2025-05-15, 16:23:17](https://news.ycombinator.com/item?id=43996597) - [Gateway Books: The lessons of a defunct canon](https://thepointmag.com/examined-life/gateway-books/)
 * [2025-05-15, 16:19:00](https://news.ycombinator.com/item?id=43996555) - [Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI](https://news.ycombinator.com/item?id=43996555)
+* [2025-05-15, 16:15:47](https://news.ycombinator.com/item?id=43996515) - [Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting](https://github.com/habedi/cogitator)
 * [2025-05-15, 16:05:22](https://news.ycombinator.com/item?id=43996431) - [I Don't Like NumPy](https://dynomight.net/numpy/)
 * [2025-05-15, 16:04:06](https://news.ycombinator.com/item?id=43996422) - [Show HN: I reinvented PHP in TypeScript (demo)](https://github.com/vseplet/morph)
 * [2025-05-15, 16:03:32](https://news.ycombinator.com/item?id=43996419) - [Walmart Is Preparing to Welcome Its Next Customer: The AI Shopping Agent](https://www.wsj.com/articles/walmart-is-preparing-to-welcome-its-next-customer-the-ai-shopping-agent-6659ef18)
