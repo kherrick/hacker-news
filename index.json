@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-19, 02:58:46",
+      "https://news.ycombinator.com/item?id=44026202"
+    ],
+    [
+      "America's College Towns Go from Boom to Bust",
+      "https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 02:58:27",
+      "https://news.ycombinator.com/item?id=44026201"
+    ],
+    [
+      "The principles of database design, or, the Truth is out there",
+      "https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 02:49:25",
+      "https://news.ycombinator.com/item?id=44026170"
+    ],
+    [
+      "Layers All the Way Down: The Untold Story of Shader Compilation",
+      "https://moonside.games/posts/layers-all-the-way-down/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 01:42:38",
+      "https://news.ycombinator.com/item?id=44025851"
+    ],
+    [
+      "The Utter Flimsiness of XAI's Processes",
+      "https://smol.news/p/the-utter-flimsiness-of-xais-processes"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 00:38:34",
       "https://news.ycombinator.com/item?id=44025484"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44025439"
     ],
     [
-      "\"There are people who can see and others who cannot even look\"",
+      "“There are people who can see and others who cannot even look”",
       "https://worldhistory.substack.com/p/there-are-people-who-can-see-and"
     ]
   ],
@@ -27,16 +67,6 @@
     [
       "Living beings emit a faint light that extinguishes upon death, study",
       "https://phys.org/news/2025-05-emit-faint-extinguishes-death.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 22:33:16",
-      "https://news.ycombinator.com/item?id=44024784"
-    ],
-    [
-      "KDE is finally getting a native virtual machine manager called “Karton”",
-      "https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/"
     ]
   ],
   [
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2025-05-18, 12:43:01",
-      "https://news.ycombinator.com/item?id=44020975"
-    ],
-    [
-      "How the Sun Enterprise 10000 was born (2007)",
-      "https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 12:08:52",
-      "https://news.ycombinator.com/item?id=44020734"
-    ],
-    [
-      "Show HN: Hardtime.nvim – break bad habits and master Vim motions",
-      "https://github.com/m4xshen/hardtime.nvim"
-    ]
-  ],
-  [
-    [
       "2025-05-18, 11:42:19",
       "https://news.ycombinator.com/item?id=44020591"
     ],
     [
       "Spaced repetition systems have gotten better",
       "https://domenic.me/fsrs/"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 23:59:03",
-      "https://news.ycombinator.com/item?id=44017913"
-    ],
-    [
-      "AniSora: Open-source anime video generation model",
-      "https://komiko.app/video/AniSora"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2025-05-17, 09:44:19",
-      "https://news.ycombinator.com/item?id=44013201"
+      "2025-05-17, 06:59:34",
+      "https://news.ycombinator.com/item?id=44012538"
     ],
     [
-      "Dezyne Programming Language",
-      "https://dezyne.org/dezyne/manual/dezyne/dezyne.html"
+      "Publisher: The Malloy Semantic Model Server",
+      "https://github.com/malloydata/publisher"
     ]
   ],
   [
