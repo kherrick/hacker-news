@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-19, 12:31:33",
+      "https://news.ycombinator.com/item?id=44029142"
+    ],
+    [
+      "ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support",
+      "https://github.com/clawsoftware/clawPDF"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 11:21:59",
       "https://news.ycombinator.com/item?id=44028587"
     ],
@@ -11,11 +21,31 @@
   ],
   [
     [
+      "2025-05-19, 11:19:27",
+      "https://news.ycombinator.com/item?id=44028566"
+    ],
+    [
+      "The White House, LLC",
+      "https://english.elpais.com/economy-and-business/2025-05-19/the-white-house-llc.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 11:06:59",
+      "https://news.ycombinator.com/item?id=44028483"
+    ],
+    [
+      "Monitoring Node.js: Key Metrics You Should Track",
+      "https://last9.io/blog/node-js-key-metrics/"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 11:00:25",
       "https://news.ycombinator.com/item?id=44028435"
     ],
     [
-      "You're Worshipping Your Phone",
+      "How scrolling becomes a religious act",
       "https://etymology.substack.com/p/youre-literally-worshipping-your"
     ]
   ],
@@ -51,21 +81,11 @@
   ],
   [
     [
-      "2025-05-19, 09:39:26",
-      "https://news.ycombinator.com/item?id=44027997"
-    ],
-    [
-      "Reading \"Business\" Books Is a Waste of Time",
-      "https://antemedian.substack.com/p/why-reading-business-books-is-a-waste"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 09:17:20",
       "https://news.ycombinator.com/item?id=44027867"
     ],
     [
-      "Side projects",
+      "Side projects I've built since 2009",
       "https://naeemnur.com/side-projects/"
     ]
   ],
@@ -81,12 +101,12 @@
   ],
   [
     [
-      "2025-05-19, 08:45:48",
-      "https://news.ycombinator.com/item?id=44027722"
+      "2025-05-19, 07:40:24",
+      "https://news.ycombinator.com/item?id=44027379"
     ],
     [
-      "Seagate claims spinning disks beat SSDs on carbon footprint",
-      "https://blocksandfiles.com/2025/04/16/seagate-decarbonizing-data-report/"
+      "What does the end of mathematics look like?",
+      "https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Show HN: Goboscript, text-based programming language, compiles to Scratch",
       "https://github.com/aspizu/goboscript"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 02:49:25",
-      "https://news.ycombinator.com/item?id=44026170"
-    ],
-    [
-      "Layers All the Way Down: The Untold Story of Shader Compilation",
-      "https://moonside.games/posts/layers-all-the-way-down/"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2025-05-18, 11:42:19",
-      "https://news.ycombinator.com/item?id=44020591"
-    ],
-    [
-      "Spaced repetition systems have gotten better",
-      "https://domenic.me/fsrs/"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 06:30:59",
       "https://news.ycombinator.com/item?id=44012418"
     ],
     [
       "Programming in Martin-Lof's Type Theory: An Introduction (1990)",
       "https://www.cse.chalmers.se/research/group/logic/book/"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 05:44:50",
+      "https://news.ycombinator.com/item?id=44012283"
+    ],
+    [
+      "Procolored printer drivers contained malware",
+      "https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/"
     ]
   ],
   [
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2025-05-16, 20:27:25",
-      "https://news.ycombinator.com/item?id=44009521"
+      "2025-05-15, 16:15:47",
+      "https://news.ycombinator.com/item?id=43996515"
     ],
     [
-      "Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages",
-      "https://googleprojectzero.blogspot.com/?m=0"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 14:05:52",
-      "https://news.ycombinator.com/item?id=44005692"
-    ],
-    [
-      "Show HN: A platform to find tech conferences, discounts, and ticket giveaways",
-      "https://www.tech.tickets/"
+      "Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting",
+      "https://github.com/habedi/cogitator"
     ]
   ],
   [
