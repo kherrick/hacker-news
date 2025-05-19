@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 15:27:22](https://news.ycombinator.com/item?id=44030873) - [23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron](https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron)
+* [2025-05-19, 15:24:58](https://news.ycombinator.com/item?id=44030850) - [Zod 4](https://zod.dev/v4)
+* [2025-05-19, 15:10:12](https://news.ycombinator.com/item?id=44030696) - [SDB Scans the Ruby Stack Without the GVL](https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
 * [2025-05-19, 14:45:44](https://news.ycombinator.com/item?id=44030469) - [Ukraine can move beyond its Soviet architectural legacy](https://www.counteroffensive.news/p/how-ukraine-can-move-beyond-its-soviet)
 * [2025-05-19, 14:40:48](https://news.ycombinator.com/item?id=44030412) - [Taiwan to Ramp Up Gas Imports After Shuttering Last Nuclear Plant](https://e360.yale.edu/digest/taiwan-nuclear-power-gas-imports)
