@@ -9,6 +9,7 @@
 * [2025-05-19, 10:50:40](https://news.ycombinator.com/item?id=44028384) - [Is Winter Coming? – Datagubbe.se](https://www.datagubbe.se/winter/)
 * [2025-05-19, 10:27:34](https://news.ycombinator.com/item?id=44028250) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
 * [2025-05-19, 10:12:53](https://news.ycombinator.com/item?id=44028153) - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
+* [2025-05-19, 09:39:26](https://news.ycombinator.com/item?id=44027997) - [Reading \"Business\" Books Is a Waste of Time](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
 * [2025-05-19, 09:17:20](https://news.ycombinator.com/item?id=44027867) - [Show HN: Every side project I've built since 2009](https://naeemnur.com/side-projects/)
 * [2025-05-19, 08:55:24](https://news.ycombinator.com/item?id=44027768) - [Emulator Debugging: Area 5150's Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
 * [2025-05-19, 08:45:48](https://news.ycombinator.com/item?id=44027722) - [Seagate claims spinning disks beat SSDs on carbon footprint – Blocks and Files](https://blocksandfiles.com/2025/04/16/seagate-decarbonizing-data-report/)
