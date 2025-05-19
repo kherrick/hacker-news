@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-19, 17:00:10](https://news.ycombinator.com/item?id=44031912) - [Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
+* [2025-05-19, 16:47:27](https://news.ycombinator.com/item?id=44031742) - [Why are (male) surgeons still addressed as Mr? (2000)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119265/)
 * [2025-05-19, 16:17:56](https://news.ycombinator.com/item?id=44031432) - [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/)
 * [2025-05-19, 16:14:35](https://news.ycombinator.com/item?id=44031387) - [xAI's Grok 3 comes to Microsoft Azure](https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/)
 * [2025-05-19, 16:14:15](https://news.ycombinator.com/item?id=44031385) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
@@ -12,7 +14,6 @@
 * [2025-05-19, 15:10:12](https://news.ycombinator.com/item?id=44030696) - [SDB Scans the Ruby Stack Without the GVL](https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md)
 * [2025-05-19, 14:55:53](https://news.ycombinator.com/item?id=44030560) - [Kelp – simple replacement for homebrew on macOS](https://github.com/crhuber/kelp)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
-* [2025-05-19, 14:40:48](https://news.ycombinator.com/item?id=44030412) - [Taiwan to Ramp Up Gas Imports After Shuttering Last Nuclear Plant](https://e360.yale.edu/digest/taiwan-nuclear-power-gas-imports)
 * [2025-05-19, 13:24:14](https://news.ycombinator.com/item?id=44029619) - [Visualizing 100k Years of Earth in WebGL](https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/)
 * [2025-05-19, 13:19:11](https://news.ycombinator.com/item?id=44029566) - [Fabric Is Just Plain Unreliable, and Microsoft's Hiding It](https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/)
 * [2025-05-19, 13:06:55](https://news.ycombinator.com/item?id=44029435) - [Diffusion Models Explained Simply](https://www.seangoedecke.com/diffusion-models-explained/)
@@ -28,7 +29,6 @@
 * [2025-05-15, 22:16:26](https://news.ycombinator.com/item?id=43999897) - [In Memoriam: John L. Young, Cryptome Co-Founder](https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder)
 * [2025-05-15, 18:50:08](https://news.ycombinator.com/item?id=43998075) - [About Asteroids, Atari's biggest arcade hit](https://www.goto10retro.com/p/about-asteroids-ataris-biggest-arcade)
 * [2025-05-15, 16:15:47](https://news.ycombinator.com/item?id=43996515) - [Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting](https://github.com/habedi/cogitator)
-* [2025-05-15, 13:48:46](https://news.ycombinator.com/item?id=43995067) - [New research reveals the strongest solar event ever detected, in 12350 BC](https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html)
 * [2025-05-15, 09:34:28](https://news.ycombinator.com/item?id=43993311) - [Llama from scratch (2023)](https://blog.briankitano.com/llama-from-scratch/)
 
 ## [Archives](archives/index.md)
