@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
 * [2025-05-19, 23:02:38](https://news.ycombinator.com/item?id=44035876) - [Claude Code in the Cloud (better than CodeX)](https://cloudcoding.ai/)
+* [2025-05-19, 22:53:17](https://news.ycombinator.com/item?id=44035793) - [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
+* [2025-05-19, 22:06:25](https://news.ycombinator.com/item?id=44035427) - [Terminal-Bench: a benchmark for AI agents in terminal environments](https://www.tbench.ai/)
 * [2025-05-19, 21:37:23](https://news.ycombinator.com/item?id=44035158) - [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 * [2025-05-19, 21:23:27](https://news.ycombinator.com/item?id=44035021) - [Definitive solution to the hardest problem in computing: P = NP?](https://www.researchgate.net/publication/391442238_A_Constructive_Proof_that_P_NP_via_Circuit-Resistant_Hash_Encodings_and_Local_Certification)
 * [2025-05-19, 21:12:47](https://news.ycombinator.com/item?id=44034918) - [Jules: An Asynchronous Coding Agent](https://jules.google/)
