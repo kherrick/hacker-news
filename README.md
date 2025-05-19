@@ -2,7 +2,7 @@
 
 * [2025-05-19, 23:02:38](https://news.ycombinator.com/item?id=44035876) - [Show HN: Claude Code in the Cloud](https://cloudcoding.ai/)
 * [2025-05-19, 22:53:17](https://news.ycombinator.com/item?id=44035793) - [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
-* [2025-05-19, 22:06:25](https://news.ycombinator.com/item?id=44035427) - [Terminal-Bench: a benchmark for AI agents in terminal environments](https://www.tbench.ai/)
+* [2025-05-19, 22:49:17](https://news.ycombinator.com/item?id=44035764) - [Huawei launches first laptops using home-grown HarmonyOS](https://www.reuters.com/world/china/huawei-launches-first-laptops-using-home-grown-harmony-operating-system-2025-05-19/)
 * [2025-05-19, 21:37:23](https://news.ycombinator.com/item?id=44035158) - [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 * [2025-05-19, 21:12:47](https://news.ycombinator.com/item?id=44034918) - [Jules: An Asynchronous Coding Agent](https://jules.google/)
 * [2025-05-19, 20:16:13](https://news.ycombinator.com/item?id=44034329) - [WireGuard-vanity-keygen: WireGuard vanity key generator](https://github.com/axllent/wireguard-vanity-keygen)
