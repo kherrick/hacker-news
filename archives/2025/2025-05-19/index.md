@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 11:21:59](https://news.ycombinator.com/item?id=44028587) - ['Significant amount' of private data stolen in UK Legal Aid hack](https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o)
+* [2025-05-19, 10:50:40](https://news.ycombinator.com/item?id=44028384) - [Is Winter Coming? – Datagubbe.se](https://www.datagubbe.se/winter/)
 * [2025-05-19, 10:27:34](https://news.ycombinator.com/item?id=44028250) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
 * [2025-05-19, 10:12:53](https://news.ycombinator.com/item?id=44028153) - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
 * [2025-05-19, 09:17:20](https://news.ycombinator.com/item?id=44027867) - [Show HN: Every side project I've built since 2009](https://naeemnur.com/side-projects/)
