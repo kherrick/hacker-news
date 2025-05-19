@@ -12,6 +12,7 @@
 * [2025-05-16, 21:20:15](https://news.ycombinator.com/item?id=44009894) - [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
 * [2025-05-16, 21:10:12](https://news.ycombinator.com/item?id=44009848) - [Getting AI to write good SQL: Text-to-SQL techniques explained](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
 * [2025-05-16, 20:39:30](https://news.ycombinator.com/item?id=44009621) - [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
+* [2025-05-16, 20:27:25](https://news.ycombinator.com/item?id=44009521) - [Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages](https://googleprojectzero.blogspot.com/?m=0)
 * [2025-05-16, 20:20:20](https://news.ycombinator.com/item?id=44009464) - [ClojureScript forks Google Closure to guarantee backward compatibility](https://clojurescript.org/news/2025-05-16-release)
 * [2025-05-16, 20:04:58](https://news.ycombinator.com/item?id=44009321) - [Show HN: KVSplit – Run 2-3× longer contexts on Apple Silicon](https://github.com/dipampaul17/KVSplit)
 * [2025-05-16, 19:50:45](https://news.ycombinator.com/item?id=44009185) - [Comparing Parallel Functional Array Languages: Programming and Performance](https://arxiv.org/abs/2505.08906)
