@@ -19,6 +19,7 @@
 * [2025-05-16, 19:43:47](https://news.ycombinator.com/item?id=44009125) - [Spider Eye Development Editing and Silk Fiber Engineering Using CRISPR-Cas](https://onlinelibrary.wiley.com/doi/10.1002/anie.202502068)
 * [2025-05-16, 19:13:17](https://news.ycombinator.com/item?id=44008867) - [ChatGPT can accurately estimate Body Fat Percentage from photos](https://annaleptikon.substack.com/p/can-chatgpt-accurately-estimate-body)
 * [2025-05-16, 19:09:55](https://news.ycombinator.com/item?id=44008843) - [Thoughts on Thinking](https://dcurt.is/thinking)
+* [2025-05-16, 19:03:32](https://news.ycombinator.com/item?id=44008793) - [Dominion Energy's NEM 2.0 Proposal: What It Means for Solar in Virginia](https://www.virtuesolar.com/2025/05/16/dominion-nem-2/)
 * [2025-05-16, 18:34:41](https://news.ycombinator.com/item?id=44008538) - [Making code last a long time](https://twitter.com/jonathan_blow/status/1923414922484232404)
 * [2025-05-16, 18:23:26](https://news.ycombinator.com/item?id=44008412) - [The Magic Hours: The Films and Hidden Life of Terrence Malick](https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking)
 * [2025-05-16, 17:21:28](https://news.ycombinator.com/item?id=44007854) - [Stax Museum Bob Abrahamian Collection](https://bobacollection.staxmuseum.org/)
