@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-05-19, 17:00:43",
+      "https://news.ycombinator.com/item?id=44031917"
+    ],
+    [
+      "Dilbert creator Scott Adams says he will die soon from same cancer as Joe Biden",
+      "https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 17:00:10",
       "https://news.ycombinator.com/item?id=44031912"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-05-19, 15:10:12",
-      "https://news.ycombinator.com/item?id=44030696"
-    ],
-    [
-      "SDB Scans the Ruby Stack Without the GVL",
-      "https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 14:55:53",
       "https://news.ycombinator.com/item?id=44030560"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-05-16, 19:03:32",
+      "https://news.ycombinator.com/item?id=44008793"
+    ],
+    [
+      "Dominion Energy's NEM 2.0 Proposal: What It Means for Solar in Virginia",
+      "https://www.virtuesolar.com/2025/05/16/dominion-nem-2/"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 13:19:20",
       "https://news.ycombinator.com/item?id=44005157"
     ],
@@ -287,16 +297,6 @@
     [
       "About Asteroids, Atari's biggest arcade hit",
       "https://www.goto10retro.com/p/about-asteroids-ataris-biggest-arcade"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 16:15:47",
-      "https://news.ycombinator.com/item?id=43996515"
-    ],
-    [
-      "Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting",
-      "https://github.com/habedi/cogitator"
     ]
   ]
 ]
