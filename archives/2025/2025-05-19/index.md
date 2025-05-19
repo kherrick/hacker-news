@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
+* [2025-05-19, 14:45:44](https://news.ycombinator.com/item?id=44030469) - [Ukraine can move beyond its Soviet architectural legacy](https://www.counteroffensive.news/p/how-ukraine-can-move-beyond-its-soviet)
+* [2025-05-19, 14:40:48](https://news.ycombinator.com/item?id=44030412) - [Taiwan to Ramp Up Gas Imports After Shuttering Last Nuclear Plant](https://e360.yale.edu/digest/taiwan-nuclear-power-gas-imports)
 * [2025-05-19, 13:34:46](https://news.ycombinator.com/item?id=44029713) - [Oregon spent funds meant for addiction services on prosecutors, police gadgets](https://www.theguardian.com/us-news/2025/may/19/oregon-addiction-spending)
+* [2025-05-19, 13:24:14](https://news.ycombinator.com/item?id=44029619) - [Visualizing 100k Years of Earth in WebGL](https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/)
 * [2025-05-19, 13:06:55](https://news.ycombinator.com/item?id=44029435) - [Diffusion Models Explained Simply](https://www.seangoedecke.com/diffusion-models-explained/)
 * [2025-05-19, 12:36:38](https://news.ycombinator.com/item?id=44029191) - [Attack of the Sadistic Zombies – Paul Krugman](https://paulkrugman.substack.com/p/attack-of-the-sadistic-zombies)
 * [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
