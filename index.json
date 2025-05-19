@@ -5,8 +5,28 @@
       "https://news.ycombinator.com/item?id=44035876"
     ],
     [
-      "Claude Code in the Cloud (better than CodeX)",
+      "Show HN: Claude Code in the Cloud",
       "https://cloudcoding.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 22:53:17",
+      "https://news.ycombinator.com/item?id=44035793"
+    ],
+    [
+      "Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse",
+      "https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 22:06:25",
+      "https://news.ycombinator.com/item?id=44035427"
+    ],
+    [
+      "Terminal-Bench: a benchmark for AI agents in terminal environments",
+      "https://www.tbench.ai/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "The forbidden railway: Vienna-Pyongyang (2008)",
       "http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 18:23:45",
-      "https://news.ycombinator.com/item?id=44033009"
-    ],
-    [
-      "Show HN: A native Hacker News reader with integrated todo/done tracking",
-      "https://github.com/haojiang99/hacker_news_reader"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Game theory illustrated by an animated cartoon game",
       "https://ncase.me/trust/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 16:27:42",
-      "https://news.ycombinator.com/item?id=44031529"
-    ],
-    [
-      "Edit is now open source",
-      "https://devblogs.microsoft.com/commandline/edit-is-now-open-source/"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=44029435"
     ],
     [
-      "Diffusion Models Explained Simply",
+      "Diffusion models explained simply",
       "https://www.seangoedecke.com/diffusion-models-explained/"
     ]
   ],
