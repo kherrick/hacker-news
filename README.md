@@ -2,7 +2,6 @@
 
 * [2025-05-19, 23:02:38](https://news.ycombinator.com/item?id=44035876) - [Show HN: Claude Code in the Cloud](https://cloudcoding.ai/)
 * [2025-05-19, 22:53:17](https://news.ycombinator.com/item?id=44035793) - [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
-* [2025-05-19, 22:49:17](https://news.ycombinator.com/item?id=44035764) - [Huawei launches first laptops using home-grown HarmonyOS](https://www.reuters.com/world/china/huawei-launches-first-laptops-using-home-grown-harmony-operating-system-2025-05-19/)
 * [2025-05-19, 21:37:23](https://news.ycombinator.com/item?id=44035158) - [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 * [2025-05-19, 21:12:47](https://news.ycombinator.com/item?id=44034918) - [Jules: An Asynchronous Coding Agent](https://jules.google/)
 * [2025-05-19, 20:16:13](https://news.ycombinator.com/item?id=44034329) - [WireGuard-vanity-keygen: WireGuard vanity key generator](https://github.com/axllent/wireguard-vanity-keygen)
@@ -25,6 +24,7 @@
 * [2025-05-19, 09:17:20](https://news.ycombinator.com/item?id=44027867) - [Side projects I've built since 2009](https://naeemnur.com/side-projects/)
 * [2025-05-17, 13:49:06](https://news.ycombinator.com/item?id=44014323) - [Show HN: A MCP server to evaluate Python code in WASM VM using RustPython](https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py)
 * [2025-05-17, 08:56:10](https://news.ycombinator.com/item?id=44013000) - [Don't Use ISO/IEC 14977:1996 Extended Backus-Naur Form (EBNF) (2023)](https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html)
+* [2025-05-17, 00:09:31](https://news.ycombinator.com/item?id=44010927) - [A rare snail is filmed laying an egg from its neck](https://apnews.com/article/zealand-snail-egg-neck-powelliphanta-augusta-3cb8082547a83b8c47848b6621c06cb0)
 * [2025-05-16, 19:03:32](https://news.ycombinator.com/item?id=44008793) - [Dominion Energy's NEM 2.0 Proposal: What It Means for Solar in Virginia](https://www.virtuesolar.com/2025/05/16/dominion-nem-2/)
 * [2025-05-16, 15:27:26](https://news.ycombinator.com/item?id=44006634) - [The truth behind the accuracy of weather forecasts](https://www.abc.net.au/news/2025-05-16/weather-forecast-accuracy-bom/105297540)
 * [2025-05-16, 13:19:20](https://news.ycombinator.com/item?id=44005157) - [Rivers](https://www.futilitycloset.com/2025/05/15/rivers/)
