@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-19, 18:45:41](https://news.ycombinator.com/item?id=44033310) - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
 * [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK – Anthropic](https://docs.anthropic.com/en/docs/claude-code/sdk)
 * [2025-05-19, 17:59:16](https://news.ycombinator.com/item?id=44032717) - [Microsoft's ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
 * [2025-05-19, 17:43:32](https://news.ycombinator.com/item?id=44032510) - [So why *did* U.S. wages stagnate for 20 years?](https://www.noahpinion.blog/p/so-why-did-us-wages-stagnate-for)
@@ -22,7 +23,6 @@
 * [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 * [2025-05-19, 10:27:34](https://news.ycombinator.com/item?id=44028250) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
 * [2025-05-19, 09:17:20](https://news.ycombinator.com/item?id=44027867) - [Side projects I've built since 2009](https://naeemnur.com/side-projects/)
-* [2025-05-19, 05:51:02](https://news.ycombinator.com/item?id=44026799) - [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)
 * [2025-05-19, 00:31:34](https://news.ycombinator.com/item?id=44025439) - [“There are people who can see and others who cannot even look”](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
 * [2025-05-18, 12:22:39](https://news.ycombinator.com/item?id=44020832) - [InventWood is about to mass-produce wood that's stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
 * [2025-05-16, 13:19:20](https://news.ycombinator.com/item?id=44005157) - [Rivers](https://www.futilitycloset.com/2025/05/15/rivers/)
