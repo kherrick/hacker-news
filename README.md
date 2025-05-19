@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-19, 21:37:23](https://news.ycombinator.com/item?id=44035158) - [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 * [2025-05-19, 21:12:47](https://news.ycombinator.com/item?id=44034918) - [Jules: An Asynchronous Coding Agent](https://jules.google/)
 * [2025-05-19, 20:35:34](https://news.ycombinator.com/item?id=44034536) - [FCC Chair Brendan Carr is letting ISPs merge–as long as they end DEI programs](https://arstechnica.com/tech-policy/2025/05/fcc-chair-brendan-carr-is-letting-isps-merge-as-long-as-they-end-dei-programs/)
 * [2025-05-19, 20:16:13](https://news.ycombinator.com/item?id=44034329) - [WireGuard-vanity-keygen: WireGuard vanity key generator](https://github.com/axllent/wireguard-vanity-keygen)
@@ -24,7 +25,6 @@
 * [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 * [2025-05-19, 10:27:34](https://news.ycombinator.com/item?id=44028250) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
 * [2025-05-19, 09:17:20](https://news.ycombinator.com/item?id=44027867) - [Side projects I've built since 2009](https://naeemnur.com/side-projects/)
-* [2025-05-18, 12:22:39](https://news.ycombinator.com/item?id=44020832) - [InventWood is about to mass-produce wood that's stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
 * [2025-05-17, 13:49:06](https://news.ycombinator.com/item?id=44014323) - [Show HN: A MCP server to evaluate Python code in WASM VM using RustPython](https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py)
 * [2025-05-16, 19:03:32](https://news.ycombinator.com/item?id=44008793) - [Dominion Energy's NEM 2.0 Proposal: What It Means for Solar in Virginia](https://www.virtuesolar.com/2025/05/16/dominion-nem-2/)
 * [2025-05-16, 13:19:20](https://news.ycombinator.com/item?id=44005157) - [Rivers](https://www.futilitycloset.com/2025/05/15/rivers/)
