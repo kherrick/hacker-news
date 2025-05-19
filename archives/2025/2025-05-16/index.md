@@ -64,6 +64,7 @@
 * [2025-05-16, 04:10:10](https://news.ycombinator.com/item?id=44001768) - [Huawei is spamming open source community for its Harmony ecosystem (See Comment)](https://github.com/search?q=%22Proposal+for+OpenHarmony+Adaptation+of%22&type=issues)
 * [2025-05-16, 04:09:48](https://news.ycombinator.com/item?id=44001765) - [The Awful German Language](https://faculty.georgetown.edu/jod/texts/twain.german.html)
 * [2025-05-16, 04:01:41](https://news.ycombinator.com/item?id=44001734) - [\"Goodwill\", key member of the SoCal Python Community has passed away](https://socalpython.org/in-memoriam-michael/)
+* [2025-05-16, 03:54:02](https://news.ycombinator.com/item?id=44001696) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 * [2025-05-16, 03:32:25](https://news.ycombinator.com/item?id=44001593) - [Meta Battles an 'Epidemic of Scams' as Criminals Flood Instagram and Facebook](https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8)
 * [2025-05-16, 02:46:18](https://news.ycombinator.com/item?id=44001391) - [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 * [2025-05-16, 01:47:02](https://news.ycombinator.com/item?id=44001105) - [Green Fabrication of Sulfonium-Containing Bismuth Materials for X-Ray Detection](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418626)

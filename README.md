@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-19, 17:00:43](https://news.ycombinator.com/item?id=44031917) - [Dilbert Creator Scott Adams Says He Will Die Soon from Same Cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
 * [2025-05-19, 17:00:10](https://news.ycombinator.com/item?id=44031912) - [Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
 * [2025-05-19, 16:47:27](https://news.ycombinator.com/item?id=44031742) - [Why are (male) surgeons still addressed as Mr? (2000)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119265/)
 * [2025-05-19, 16:17:56](https://news.ycombinator.com/item?id=44031432) - [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/)
@@ -15,7 +16,6 @@
 * [2025-05-19, 14:55:53](https://news.ycombinator.com/item?id=44030560) - [Kelp – simple replacement for homebrew on macOS](https://github.com/crhuber/kelp)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
 * [2025-05-19, 13:24:14](https://news.ycombinator.com/item?id=44029619) - [Visualizing 100k Years of Earth in WebGL](https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/)
-* [2025-05-19, 13:19:11](https://news.ycombinator.com/item?id=44029566) - [Fabric Is Just Plain Unreliable, and Microsoft's Hiding It](https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/)
 * [2025-05-19, 13:06:55](https://news.ycombinator.com/item?id=44029435) - [Diffusion Models Explained Simply](https://www.seangoedecke.com/diffusion-models-explained/)
 * [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 * [2025-05-19, 10:27:34](https://news.ycombinator.com/item?id=44028250) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
@@ -25,7 +25,7 @@
 * [2025-05-19, 05:51:02](https://news.ycombinator.com/item?id=44026799) - [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)
 * [2025-05-19, 00:31:34](https://news.ycombinator.com/item?id=44025439) - [“There are people who can see and others who cannot even look”](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
 * [2025-05-18, 12:22:39](https://news.ycombinator.com/item?id=44020832) - [InventWood is about to mass-produce wood that's stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
-* [2025-05-17, 10:29:44](https://news.ycombinator.com/item?id=44013322) - [Static Types Are for Perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism)
+* [2025-05-16, 03:54:02](https://news.ycombinator.com/item?id=44001696) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 * [2025-05-15, 22:16:26](https://news.ycombinator.com/item?id=43999897) - [In Memoriam: John L. Young, Cryptome Co-Founder](https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder)
 * [2025-05-15, 18:50:08](https://news.ycombinator.com/item?id=43998075) - [About Asteroids, Atari's biggest arcade hit](https://www.goto10retro.com/p/about-asteroids-ataris-biggest-arcade)
 * [2025-05-15, 16:15:47](https://news.ycombinator.com/item?id=43996515) - [Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting](https://github.com/habedi/cogitator)

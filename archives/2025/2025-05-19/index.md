@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 17:00:43](https://news.ycombinator.com/item?id=44031917) - [Dilbert Creator Scott Adams Says He Will Die Soon from Same Cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
 * [2025-05-19, 17:00:10](https://news.ycombinator.com/item?id=44031912) - [Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
 * [2025-05-19, 16:47:27](https://news.ycombinator.com/item?id=44031742) - [Why are (male) surgeons still addressed as Mr? (2000)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119265/)
 * [2025-05-19, 16:17:56](https://news.ycombinator.com/item?id=44031432) - [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/)
