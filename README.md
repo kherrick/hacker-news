@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-19, 04:04:14](https://news.ycombinator.com/item?id=44026414) - [The lack of a good command line way to sort IPv6 addresses](https://utcc.utoronto.ca/~cks/space/blog/unix/SortingIPv6Addresses)
 * [2025-05-19, 02:58:46](https://news.ycombinator.com/item?id=44026202) - [America's College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)
 * [2025-05-19, 02:58:27](https://news.ycombinator.com/item?id=44026201) - [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/)
 * [2025-05-19, 02:49:25](https://news.ycombinator.com/item?id=44026170) - [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
@@ -18,7 +19,6 @@
 * [2025-05-18, 16:09:01](https://news.ycombinator.com/item?id=44022353) - [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
 * [2025-05-18, 15:56:18](https://news.ycombinator.com/item?id=44022265) - [Show HN: Buckaroo – Data table UI for Notebooks](https://github.com/paddymul/buckaroo)
 * [2025-05-18, 15:48:57](https://news.ycombinator.com/item?id=44022225) - [Spaced Repetition Memory System](https://notes.andymatuschak.org/Spaced_repetition_memory_system)
-* [2025-05-18, 12:08:52](https://news.ycombinator.com/item?id=44020734) - [Show HN: Hardtime.nvim – break bad habits and master Vim motions](https://github.com/m4xshen/hardtime.nvim)
 * [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten better](https://domenic.me/fsrs/)
 * [2025-05-17, 18:21:18](https://news.ycombinator.com/item?id=44016037) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
 * [2025-05-17, 06:59:34](https://news.ycombinator.com/item?id=44012538) - [Publisher: The Malloy Semantic Model Server](https://github.com/malloydata/publisher)
