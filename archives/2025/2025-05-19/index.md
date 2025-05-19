@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 23:02:38](https://news.ycombinator.com/item?id=44035876) - [Claude Code in the Cloud (better than CodeX)](https://cloudcoding.ai/)
 * [2025-05-19, 21:37:23](https://news.ycombinator.com/item?id=44035158) - [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 * [2025-05-19, 21:23:27](https://news.ycombinator.com/item?id=44035021) - [Definitive solution to the hardest problem in computing: P = NP?](https://www.researchgate.net/publication/391442238_A_Constructive_Proof_that_P_NP_via_Circuit-Resistant_Hash_Encodings_and_Local_Certification)
 * [2025-05-19, 21:12:47](https://news.ycombinator.com/item?id=44034918) - [Jules: An Asynchronous Coding Agent](https://jules.google/)
