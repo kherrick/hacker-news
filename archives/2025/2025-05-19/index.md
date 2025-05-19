@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 17:39:59](https://news.ycombinator.com/item?id=44032470) - [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
 * [2025-05-19, 17:00:43](https://news.ycombinator.com/item?id=44031917) - [Dilbert Creator Scott Adams Says He Will Die Soon from Same Cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
 * [2025-05-19, 17:00:10](https://news.ycombinator.com/item?id=44031912) - [Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
 * [2025-05-19, 16:47:27](https://news.ycombinator.com/item?id=44031742) - [Why are (male) surgeons still addressed as Mr? (2000)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119265/)

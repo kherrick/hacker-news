@@ -36,6 +36,7 @@
 * [2025-05-16, 14:05:52](https://news.ycombinator.com/item?id=44005692) - [I built a platform to find tech conferences, discounts, and ticket giveaways](https://www.tech.tickets/)
 * [2025-05-16, 14:03:04](https://news.ycombinator.com/item?id=44005668) - [Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html)
 * [2025-05-16, 13:22:40](https://news.ycombinator.com/item?id=44005195) - [Evolution of Rust Compiler Errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
+* [2025-05-16, 13:19:20](https://news.ycombinator.com/item?id=44005157) - [Rivers](https://www.futilitycloset.com/2025/05/15/rivers/)
 * [2025-05-16, 13:14:36](https://news.ycombinator.com/item?id=44005110) - [Explaining British Naval Dominance During the Age of Sail](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail)
 * [2025-05-16, 13:05:25](https://news.ycombinator.com/item?id=44005008) - [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 * [2025-05-16, 12:48:22](https://news.ycombinator.com/item?id=44004827) - [Show HN: SQL-tString a t-string SQL builder in Python](https://github.com/pgjones/sql-tstring)
