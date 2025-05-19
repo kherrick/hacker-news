@@ -2,7 +2,7 @@
 
 * [2025-05-19, 09:17:20](https://news.ycombinator.com/item?id=44027867) - [Show HN: Every side project I've built since 2009](https://naeemnur.com/side-projects/)
 * [2025-05-19, 08:55:24](https://news.ycombinator.com/item?id=44027768) - [Emulator Debugging: Area 5150's Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
-* [2025-05-19, 08:45:48](https://news.ycombinator.com/item?id=44027722) - [Seagate claims spinning disks beat SSDs on carbon footprint – Blocks and Files](https://blocksandfiles.com/2025/04/16/seagate-decarbonizing-data-report/)
+* [2025-05-19, 08:45:48](https://news.ycombinator.com/item?id=44027722) - [Seagate claims spinning disks beat SSDs on carbon footprint](https://blocksandfiles.com/2025/04/16/seagate-decarbonizing-data-report/)
 * [2025-05-19, 07:40:24](https://news.ycombinator.com/item?id=44027379) - [What does the end of mathematics look like?](https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html)
 * [2025-05-19, 05:51:02](https://news.ycombinator.com/item?id=44026799) - [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)
 * [2025-05-19, 02:49:25](https://news.ycombinator.com/item?id=44026170) - [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
@@ -13,7 +13,6 @@
 * [2025-05-18, 20:22:33](https://news.ycombinator.com/item?id=44024055) - [Show HN: Python Simulator of David Deutsch’s “Constructor Theory of Time”](https://github.com/gvelesandro/constructor-theory-simulator)
 * [2025-05-18, 19:16:41](https://news.ycombinator.com/item?id=44023680) - [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/)
 * [2025-05-18, 19:10:29](https://news.ycombinator.com/item?id=44023634) - [Show HN: Sshsync – CLI tool to run shell commands across multiple remote servers](https://github.com/Blackmamoth/sshsync)
-* [2025-05-18, 18:36:54](https://news.ycombinator.com/item?id=44023423) - [The Fall of Roam (2022)](https://every.to/superorganizers/the-fall-of-roam)
 * [2025-05-18, 17:54:12](https://news.ycombinator.com/item?id=44023144) - [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev)
 * [2025-05-18, 17:05:56](https://news.ycombinator.com/item?id=44022758) - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
 * [2025-05-18, 16:21:50](https://news.ycombinator.com/item?id=44022448) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
@@ -28,6 +27,7 @@
 * [2025-05-16, 21:52:52](https://news.ycombinator.com/item?id=44010096) - [Font Activations: A Note on the Type](https://robhorning.substack.com/p/font-activations)
 * [2025-05-16, 19:50:45](https://news.ycombinator.com/item?id=44009185) - [Comparing Parallel Functional Array Languages: Programming and Performance](https://arxiv.org/abs/2505.08906)
 * [2025-05-16, 14:05:52](https://news.ycombinator.com/item?id=44005692) - [Show HN: A platform to find tech conferences, discounts, and ticket giveaways](https://www.tech.tickets/)
+* [2025-05-15, 20:14:55](https://news.ycombinator.com/item?id=43998858) - [Charles Butler's the Feminine Monarchie, or the History of Bees (1634 Edition)](https://publicdomainreview.org/collection/history-of-bees/)
 * [2025-05-15, 13:48:46](https://news.ycombinator.com/item?id=43995067) - [New research reveals the strongest solar event ever detected, in 12350 BC](https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html)
 * [2025-05-15, 09:34:28](https://news.ycombinator.com/item?id=43993311) - [Llama from scratch (2023)](https://blog.briankitano.com/llama-from-scratch/)
 

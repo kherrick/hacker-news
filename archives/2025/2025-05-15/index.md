@@ -9,6 +9,7 @@
 * [2025-05-15, 21:27:10](https://news.ycombinator.com/item?id=43999492) - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 * [2025-05-15, 21:22:02](https://news.ycombinator.com/item?id=43999460) - [Dolphin whistle decoders win $100k interspecies communication prize](https://www.theguardian.com/world/2025/may/15/us-scientists-who-deciphered-dolphin-whistles-win-prize-for-animal-communication)
 * [2025-05-15, 20:41:20](https://news.ycombinator.com/item?id=43999125) - [Stack Overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
+* [2025-05-15, 20:14:55](https://news.ycombinator.com/item?id=43998858) - [Charles Butler's the Feminine Monarchie, or the History of Bees (1634 Edition)](https://publicdomainreview.org/collection/history-of-bees/)
 * [2025-05-15, 19:56:59](https://news.ycombinator.com/item?id=43998707) - [Tek – a music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
 * [2025-05-15, 19:46:38](https://news.ycombinator.com/item?id=43998597) - [Old and Small Technology](https://www.complete.org/old-and-small-technology/)
 * [2025-05-15, 19:35:51](https://news.ycombinator.com/item?id=43998485) - [The most annoying video player of all time](https://www.mux.com/blog/worst-video-player)
