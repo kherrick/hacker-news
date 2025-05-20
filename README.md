@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-20, 07:52:31](https://news.ycombinator.com/item?id=44038917) - [Center for AI Safety's new spokesperson suggests „burning down labs\"](https://twitter.com/drtechlash/status/1924639190958199115)
-* [2025-05-20, 07:52:25](https://news.ycombinator.com/item?id=44038915) - [I trapped an AI model inside an art installation [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 * [2025-05-20, 07:40:28](https://news.ycombinator.com/item?id=44038835) - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
 * [2025-05-20, 07:37:00](https://news.ycombinator.com/item?id=44038812) - [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)
 * [2025-05-20, 06:54:27](https://news.ycombinator.com/item?id=44038549) - [Questioning Representational Optimism in Deep Learning](https://github.com/akarshkumar0101/fer)
@@ -23,6 +22,7 @@
 * [2025-05-19, 16:17:56](https://news.ycombinator.com/item?id=44031432) - [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/)
 * [2025-05-19, 16:14:35](https://news.ycombinator.com/item?id=44031387) - [xAI's Grok 3 comes to Microsoft Azure](https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/)
 * [2025-05-19, 16:14:15](https://news.ycombinator.com/item?id=44031385) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
+* [2025-05-19, 15:40:32](https://news.ycombinator.com/item?id=44031009) - [Too Much Go Misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
 * [2025-05-19, 15:24:58](https://news.ycombinator.com/item?id=44030850) - [Zod 4](https://zod.dev/v4)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
 * [2025-05-18, 05:29:33](https://news.ycombinator.com/item?id=44019193) - [Ask HN: Do people actually pay for small web tools?](https://news.ycombinator.com/item?id=44019193)
