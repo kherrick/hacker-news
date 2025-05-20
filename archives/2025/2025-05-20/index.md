@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 13:54:54](https://news.ycombinator.com/item?id=44041738) - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
 * [2025-05-20, 13:42:51](https://news.ycombinator.com/item?id=44041574) - [Ogmo – free, open source, 2D level editor](https://ogmo-editor-3.github.io/)
+* [2025-05-20, 13:38:07](https://news.ycombinator.com/item?id=44041515) - [The Lisp in the Cellar: Dependent Types That Live Upstairs [pdf]](https://zenodo.org/records/15424968/files/deputy-els.pdf)
 * [2025-05-20, 13:05:20](https://news.ycombinator.com/item?id=44041139) - [Poll: How often do you bathe?](https://news.ycombinator.com/item?id=44041139)
+* [2025-05-20, 12:37:47](https://news.ycombinator.com/item?id=44040883) - [llm-d, Kubernetes native distributed inference](https://llm-d.ai/blog/llm-d-announce)
 * [2025-05-20, 12:32:35](https://news.ycombinator.com/item?id=44040837) - [What happened to American manufacturing is not unusual](https://blog.waldrn.com/p/what-happened-to-american-manufacturing)
 * [2025-05-20, 12:21:58](https://news.ycombinator.com/item?id=44040755) - [Firewalls and BIOS's and Coreboot (2020)](https://hagensieker.com/2020/11/08/firewalls-and-bioss-and-coreboot/)
 * [2025-05-20, 11:43:55](https://news.ycombinator.com/item?id=44040419) - [Show HN: Text to 3D simulation on a map [does history pretty well]](https://mused.com/map/)
 * [2025-05-20, 11:42:24](https://news.ycombinator.com/item?id=44040407) - [Why Does the U.S. Always Run a Trade Deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
+* [2025-05-20, 11:40:53](https://news.ycombinator.com/item?id=44040391) - [CRLF Injection in `–proxy-header` allows extra HTTP headers (CWE-93)](https://hackerone.com/reports/3133379)
 * [2025-05-20, 11:33:14](https://news.ycombinator.com/item?id=44040332) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 * [2025-05-20, 11:29:45](https://news.ycombinator.com/item?id=44040301) - [Show HN: JavaFactory – IntelliJ plugin to generate Java code](https://github.com/JavaFactoryPluginDev/javafactory-plugin)
 * [2025-05-20, 10:18:15](https://news.ycombinator.com/item?id=44039864) - [Using elliptic curves to solve a math meme](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)

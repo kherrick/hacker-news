@@ -50,6 +50,7 @@
 * [2025-05-17, 10:57:30](https://news.ycombinator.com/item?id=44013406) - [Patience too cheap to meter](https://www.seangoedecke.com/patience-too-cheap-to-meter/)
 * [2025-05-17, 10:52:28](https://news.ycombinator.com/item?id=44013387) - [MinorMiner: We turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
 * [2025-05-17, 10:29:44](https://news.ycombinator.com/item?id=44013322) - [Static Types Are for Perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism)
+* [2025-05-17, 10:15:29](https://news.ycombinator.com/item?id=44013290) - [Experts Have It Easy](https://boydkane.com/essays/experts)
 * [2025-05-17, 10:08:20](https://news.ycombinator.com/item?id=44013266) - [MIT paper on AI for materials research found to be fraudulent](https://thebsdetector.substack.com/p/ai-materials-and-fraud-oh-my)
 * [2025-05-17, 09:44:19](https://news.ycombinator.com/item?id=44013201) - [Dezyne Programming Language](https://dezyne.org/dezyne/manual/dezyne/dezyne.html)
 * [2025-05-17, 09:37:46](https://news.ycombinator.com/item?id=44013181) - [Open Problems in Computational geometry](https://topp.openproblem.net/)
