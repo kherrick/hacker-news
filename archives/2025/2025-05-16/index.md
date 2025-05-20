@@ -40,6 +40,7 @@
 * [2025-05-16, 14:05:52](https://news.ycombinator.com/item?id=44005692) - [I built a platform to find tech conferences, discounts, and ticket giveaways](https://www.tech.tickets/)
 * [2025-05-16, 14:03:04](https://news.ycombinator.com/item?id=44005668) - [Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html)
 * [2025-05-16, 13:43:56](https://news.ycombinator.com/item?id=44005461) - [Microbes in Gowanus teach lessons on fighting industrial pollution](https://engineering.nyu.edu/news/microbes-brooklyn-superfund-site-teach-lessons-fighting-industrial-pollution)
+* [2025-05-16, 13:25:22](https://news.ycombinator.com/item?id=44005236) - [Imagine a drive where every file exists as all file types all of the time](https://anydocai.com/)
 * [2025-05-16, 13:22:40](https://news.ycombinator.com/item?id=44005195) - [Evolution of Rust Compiler Errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
 * [2025-05-16, 13:19:20](https://news.ycombinator.com/item?id=44005157) - [Rivers](https://www.futilitycloset.com/2025/05/15/rivers/)
 * [2025-05-16, 13:14:36](https://news.ycombinator.com/item?id=44005110) - [Explaining British Naval Dominance During the Age of Sail](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail)
