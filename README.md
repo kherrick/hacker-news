@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-20, 18:40:35](https://news.ycombinator.com/item?id=44044544) - [On-device small language models with multimodality, RAG, and Function Calling](https://developers.googleblog.com/en/google-ai-edge-small-language-models-multimodality-rag-function-calling/)
 * [2025-05-20, 18:30:18](https://news.ycombinator.com/item?id=44044459) - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
 * [2025-05-20, 18:29:05](https://news.ycombinator.com/item?id=44044451) - [Announcing Gemma 3n preview: powerful, efficient, mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
 * [2025-05-20, 18:20:47](https://news.ycombinator.com/item?id=44044367) - [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
@@ -27,6 +26,7 @@
 * [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-20, 05:54:58](https://news.ycombinator.com/item?id=44038209) - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-20, 00:52:27](https://news.ycombinator.com/item?id=44036647) - [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
+* [2025-05-17, 22:40:38](https://news.ycombinator.com/item?id=44017560) - [Compiling OCaml to the TI-84 CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
 * [2025-05-17, 21:27:40](https://news.ycombinator.com/item?id=44017098) - [Gail Wellington, Commodore Software Prod Mgr \"and Mother of CDTV\", Has Died](https://www.legacy.com/us/obituaries/name/gail-wellington-obituary?id=58418580)
 * [2025-05-17, 11:15:52](https://news.ycombinator.com/item?id=44013470) - [Google is quietly giving Amazon a leg up in digital book sales](https://www.washingtonpost.com/technology/2025/05/16/google-amazon-ebooks-apps/)
 * [2025-05-17, 09:13:16](https://news.ycombinator.com/item?id=44013071) - [Production tests: a guidebook for better systems and more sleep](https://martincapodici.com/2025/05/13/production-tests-a-guidebook-for-better-systems-and-more-sleep/)
