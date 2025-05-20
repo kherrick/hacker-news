@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-20, 01:36:15",
+      "https://news.ycombinator.com/item?id=44036900"
+    ],
+    [
+      "What are people doing? Live-ish estimates based on global population dynamics",
+      "https://humans.maxcomperatore.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 01:25:01",
+      "https://news.ycombinator.com/item?id=44036829"
+    ],
+    [
+      "Memory Consistency Models: A Tutorial",
+      "https://jamesbornholt.com/blog/memory-models/"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 01:04:14",
+      "https://news.ycombinator.com/item?id=44036716"
+    ],
+    [
+      "A shower thought turned into a beautiful Collatz visualization",
+      "https://abstractnonsense.com/collatz/"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 00:52:27",
+      "https://news.ycombinator.com/item?id=44036647"
+    ],
+    [
+      "DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage",
+      "https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/"
+    ]
+  ],
+  [
+    [
       "2025-05-20, 00:19:44",
       "https://news.ycombinator.com/item?id=44036438"
     ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44035158"
     ],
     [
-      "Have I Been Pwned 2.0 is Now Live",
+      "Have I Been Pwned 2.0",
       "https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/"
     ]
   ],
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44034329"
     ],
     [
-      "WireGuard-vanity-keygen: WireGuard vanity key generator",
+      "WireGuard vanity keygen",
       "https://github.com/axllent/wireguard-vanity-keygen"
     ]
   ],
@@ -87,26 +127,6 @@
     [
       "Claude Code SDK",
       "https://docs.anthropic.com/en/docs/claude-code/sdk"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 17:59:16",
-      "https://news.ycombinator.com/item?id=44032717"
-    ],
-    [
-      "Microsoft's ICC blockade: digital dependence comes at a cost",
-      "https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 17:39:59",
-      "https://news.ycombinator.com/item?id=44032470"
-    ],
-    [
-      "Show HN: Windows 98 themed website in 1 HTML file for my post punk band",
-      "https://corp.band"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-19, 13:06:55",
-      "https://news.ycombinator.com/item?id=44029435"
-    ],
-    [
-      "Diffusion models explained simply",
-      "https://www.seangoedecke.com/diffusion-models-explained/"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 12:31:33",
       "https://news.ycombinator.com/item?id=44029142"
     ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2025-05-19, 09:17:20",
-      "https://news.ycombinator.com/item?id=44027867"
+      "2025-05-17, 10:57:30",
+      "https://news.ycombinator.com/item?id=44013406"
     ],
     [
-      "Side projects I've built since 2009",
-      "https://naeemnur.com/side-projects/"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 13:49:06",
-      "https://news.ycombinator.com/item?id=44014323"
-    ],
-    [
-      "Show HN: A MCP server to evaluate Python code in WASM VM using RustPython",
-      "https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py"
+      "Patience too cheap to meter",
+      "https://www.seangoedecke.com/patience-too-cheap-to-meter/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-05-16, 19:03:32",
-      "https://news.ycombinator.com/item?id=44008793"
+      "2025-05-17, 06:49:13",
+      "https://news.ycombinator.com/item?id=44012495"
     ],
     [
-      "Dominion Energy's NEM 2.0 Proposal: What It Means for Solar in Virginia",
-      "https://www.virtuesolar.com/2025/05/16/dominion-nem-2/"
+      "I let lasers power my smart home – and I don't want to go back",
+      "https://www.theverge.com/tech/663899/wi-charge-alfred-smart-lock-wireless-power-review"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-05-16, 13:19:20",
-      "https://news.ycombinator.com/item?id=44005157"
+      "2025-05-16, 13:43:56",
+      "https://news.ycombinator.com/item?id=44005461"
     ],
     [
-      "Rivers",
-      "https://www.futilitycloset.com/2025/05/15/rivers/"
+      "Microbes in Gowanus teach lessons on fighting industrial pollution",
+      "https://engineering.nyu.edu/news/microbes-brooklyn-superfund-site-teach-lessons-fighting-industrial-pollution"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44003184"
     ],
     [
-      "Run your GitHub Actions locally",
+      "Run GitHub Actions locally",
       "https://github.com/nektos/act"
     ]
   ],
