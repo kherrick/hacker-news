@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-05-20, 18:40:35",
-      "https://news.ycombinator.com/item?id=44044544"
-    ],
-    [
-      "On-device small language models with multimodality, RAG, and Function Calling",
-      "https://developers.googleblog.com/en/google-ai-edge-small-language-models-multimodality-rag-function-calling/"
-    ]
-  ],
-  [
-    [
       "2025-05-20, 18:30:18",
       "https://news.ycombinator.com/item?id=44044459"
     ],
@@ -267,6 +257,16 @@
     [
       "DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage",
       "https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 22:40:38",
+      "https://news.ycombinator.com/item?id=44017560"
+    ],
+    [
+      "Compiling OCaml to the TI-84 CE Calculator",
+      "https://farlow.dev/2025/05/17/ocaml-on-calculator"
     ]
   ],
   [
