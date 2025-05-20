@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 04:57:00](https://news.ycombinator.com/item?id=44037941) - [I got fooled by AI-for-science hype–here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
 * [2025-05-20, 04:08:50](https://news.ycombinator.com/item?id=44037689) - [It's Breathtaking How Fast AI Is Screwing Up the Education System](https://gizmodo.com/its-breathtaking-how-fast-ai-is-screwing-up-the-education-system-2000603100)
 * [2025-05-20, 03:45:16](https://news.ycombinator.com/item?id=44037595) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
 * [2025-05-20, 03:13:20](https://news.ycombinator.com/item?id=44037426) - [Biff – a batteries-included web framework for Clojure](https://biffweb.com)
