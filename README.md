@@ -16,6 +16,7 @@
 * [2025-05-19, 20:16:13](https://news.ycombinator.com/item?id=44034329) - [WireGuard vanity keygen](https://github.com/axllent/wireguard-vanity-keygen)
 * [2025-05-19, 18:45:41](https://news.ycombinator.com/item?id=44033310) - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
 * [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk)
+* [2025-05-19, 17:00:43](https://news.ycombinator.com/item?id=44031917) - [Dilbert creator Scott Adams says he will die soon from same cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
 * [2025-05-19, 16:28:18](https://news.ycombinator.com/item?id=44031535) - [Game theory illustrated by an animated cartoon game](https://ncase.me/trust/)
 * [2025-05-19, 16:17:56](https://news.ycombinator.com/item?id=44031432) - [GitHub Copilot Coding Agent](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/)
 * [2025-05-19, 16:14:35](https://news.ycombinator.com/item?id=44031387) - [xAI's Grok 3 comes to Microsoft Azure](https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/)
@@ -27,7 +28,6 @@
 * [2025-05-17, 10:57:30](https://news.ycombinator.com/item?id=44013406) - [Patience too cheap to meter](https://www.seangoedecke.com/patience-too-cheap-to-meter/)
 * [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [A man who visited every country in the world without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
 * [2025-05-16, 16:34:16](https://news.ycombinator.com/item?id=44007373) - [Experimentation Matters: Why Nuenki isn't using pairwise evaluations](https://nuenki.app/blog/experimentation_matters_why_we_arent_using_pairwise)
-* [2025-05-16, 09:57:29](https://news.ycombinator.com/item?id=44003530) - [Solving the local optima problem – NQueens](https://github.com/Dpbm/n-rainhas/blob/main/readme-en.md)
 * [2025-05-16, 08:55:27](https://news.ycombinator.com/item?id=44003184) - [Run GitHub Actions locally](https://github.com/nektos/act)
 * [2025-05-16, 03:54:02](https://news.ycombinator.com/item?id=44001696) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 
