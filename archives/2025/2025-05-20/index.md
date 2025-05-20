@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 20:48:15](https://news.ycombinator.com/item?id=44045767) - [Show HN: I made IP-to-Geo location data library for developers](https://ip2geo.framer.website/)
 * [2025-05-20, 20:40:36](https://news.ycombinator.com/item?id=44045691) - [Photos in a Similar Style Aren't Copyright-Infringing–Woodland vs. Lil Nas X](https://blog.ericgoldman.org/archives/2025/05/photos-in-a-similar-style-arent-copyright-infringing-woodland-v-lil-nas-x.htm)
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 19:09:41](https://news.ycombinator.com/item?id=44044834) - [Show HN: Bricks – One Click Dashboards from Your Data Using AI](https://app.thebricks.com/sign-up)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-20, 20:48:15](https://news.ycombinator.com/item?id=44045767) - [Show HN: I made IP-to-Geo location data library for developers](https://ip2geo.framer.website/)
 * [2025-05-20, 20:40:36](https://news.ycombinator.com/item?id=44045691) - [Photos in a Similar Style Aren't Copyright-Infringing–Woodland vs. Lil Nas X](https://blog.ericgoldman.org/archives/2025/05/photos-in-a-similar-style-arent-copyright-infringing-woodland-v-lil-nas-x.htm)
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 18:30:18](https://news.ycombinator.com/item?id=44044459) - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
@@ -10,7 +11,6 @@
 * [2025-05-20, 17:10:15](https://news.ycombinator.com/item?id=44043735) - [The Last Letter](https://aeon.co/essays/how-the-last-letters-of-the-condemned-can-teach-us-how-to-live)
 * [2025-05-20, 17:04:00](https://news.ycombinator.com/item?id=44043687) - [The Dawn of Nvidia's Technology](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html)
 * [2025-05-20, 17:00:53](https://news.ycombinator.com/item?id=44043659) - [Ashby (YC W19) Is Hiring Engineering Managers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
-* [2025-05-20, 16:44:41](https://news.ycombinator.com/item?id=44043518) - [Show HN:  Olelo Foil - NACA Airfoil Sim](https://foil.olelohonua.com/)
 * [2025-05-20, 16:32:58](https://news.ycombinator.com/item?id=44043421) - [Show HN: Juvio – UV Kernel for Jupyter](https://github.com/OKUA1/juvio)
 * [2025-05-20, 16:21:03](https://news.ycombinator.com/item?id=44043323) - [Robin: A multi-agent system for automating scientific discovery](https://arxiv.org/abs/2505.13400)
 * [2025-05-20, 15:57:01](https://news.ycombinator.com/item?id=44043045) - [GPU-Driven Clustered Forward Renderer](https://logdahl.net/p/gpu-driven)
