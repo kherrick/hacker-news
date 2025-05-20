@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-20, 11:42:24](https://news.ycombinator.com/item?id=44040407) - [Why Does the U.S. Always Run a Trade Deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
+* [2025-05-20, 11:33:14](https://news.ycombinator.com/item?id=44040332) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 * [2025-05-20, 10:18:15](https://news.ycombinator.com/item?id=44039864) - [Using elliptic curves to solve a math meme](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
 * [2025-05-20, 10:07:55](https://news.ycombinator.com/item?id=44039808) - [AI's energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
 * [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
@@ -23,8 +25,6 @@
 * [2025-05-19, 16:14:15](https://news.ycombinator.com/item?id=44031385) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
 * [2025-05-19, 15:24:58](https://news.ycombinator.com/item?id=44030850) - [Zod 4](https://zod.dev/v4)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
-* [2025-05-17, 18:24:35](https://news.ycombinator.com/item?id=44016059) - [Mary Queen of Scots Channel Anamorphosis, a 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
-* [2025-05-17, 12:16:59](https://news.ycombinator.com/item?id=44013739) - [Precomputing Transparency Order in 3D](https://jacobdoescode.com/2025/05/18/precomputing-transparency-order-in-3d)
 * [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [A man who visited every country in the world without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
 * [2025-05-16, 21:45:15](https://news.ycombinator.com/item?id=44010046) - [Solving physics-based initial value problems with unsupervised machine learning](https://link.aps.org/doi/10.1103/PhysRevE.111.055302)
 * [2025-05-16, 13:25:22](https://news.ycombinator.com/item?id=44005236) - [Imagine a drive where every file exists as all file types all of the time](https://anydocai.com/)
