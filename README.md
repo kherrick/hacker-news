@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-20, 05:54:58](https://news.ycombinator.com/item?id=44038209) - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
+* [2025-05-20, 05:47:55](https://news.ycombinator.com/item?id=44038168) - [Cleo, the mathematician that tricked Stack Exchange](https://en.wikipedia.org/wiki/Cleo_(mathematician))
 * [2025-05-20, 04:57:00](https://news.ycombinator.com/item?id=44037941) - [I got fooled by AI-for-science hype–here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
 * [2025-05-20, 03:45:16](https://news.ycombinator.com/item?id=44037595) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
 * [2025-05-20, 03:13:20](https://news.ycombinator.com/item?id=44037426) - [Biff – a batteries-included web framework for Clojure](https://biffweb.com)
@@ -27,7 +28,6 @@
 * [2025-05-18, 05:29:33](https://news.ycombinator.com/item?id=44019193) - [Ask HN: Do people actually pay for small web tools?](https://news.ycombinator.com/item?id=44019193)
 * [2025-05-17, 10:57:30](https://news.ycombinator.com/item?id=44013406) - [Patience too cheap to meter](https://www.seangoedecke.com/patience-too-cheap-to-meter/)
 * [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [A man who visited every country in the world without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
-* [2025-05-16, 16:34:16](https://news.ycombinator.com/item?id=44007373) - [Experimentation Matters: Why Nuenki isn't using pairwise evaluations](https://nuenki.app/blog/experimentation_matters_why_we_arent_using_pairwise)
 * [2025-05-16, 08:55:27](https://news.ycombinator.com/item?id=44003184) - [Run GitHub Actions locally](https://github.com/nektos/act)
 * [2025-05-16, 03:54:02](https://news.ycombinator.com/item?id=44001696) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 
