@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-20](index.md)
+
+* [2025-05-20, 00:19:44](https://news.ycombinator.com/item?id=44036438) - [is-even-ai – Check if a number is even using the power of AI](https://www.npmjs.com/package/is-even-ai)
