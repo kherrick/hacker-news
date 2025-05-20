@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 07:52:31](https://news.ycombinator.com/item?id=44038917) - [Center for AI Safety's new spokesperson suggests „burning down labs\"](https://twitter.com/drtechlash/status/1924639190958199115)
+* [2025-05-20, 07:52:25](https://news.ycombinator.com/item?id=44038915) - [I trapped an AI model inside an art installation [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
+* [2025-05-20, 07:40:28](https://news.ycombinator.com/item?id=44038835) - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
+* [2025-05-20, 07:37:00](https://news.ycombinator.com/item?id=44038812) - [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)
+* [2025-05-20, 06:54:27](https://news.ycombinator.com/item?id=44038549) - [Questioning Representational Optimism in Deep Learning](https://github.com/akarshkumar0101/fer)
 * [2025-05-20, 05:54:58](https://news.ycombinator.com/item?id=44038209) - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-20, 05:47:55](https://news.ycombinator.com/item?id=44038168) - [Cleo, the mathematician that tricked Stack Exchange](https://en.wikipedia.org/wiki/Cleo_(mathematician))
 * [2025-05-20, 04:57:00](https://news.ycombinator.com/item?id=44037941) - [I got fooled by AI-for-science hype–here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
