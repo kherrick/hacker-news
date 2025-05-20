@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 12:32:35](https://news.ycombinator.com/item?id=44040837) - [What happened to American manufacturing is not unusual](https://blog.waldrn.com/p/what-happened-to-american-manufacturing)
+* [2025-05-20, 11:43:55](https://news.ycombinator.com/item?id=44040419) - [Show HN: Text to 3D simulation on a map [does history pretty well]](https://mused.com/map/)
 * [2025-05-20, 11:42:24](https://news.ycombinator.com/item?id=44040407) - [Why Does the U.S. Always Run a Trade Deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
 * [2025-05-20, 11:33:14](https://news.ycombinator.com/item?id=44040332) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
+* [2025-05-20, 11:29:45](https://news.ycombinator.com/item?id=44040301) - [Show HN: JavaFactory – IntelliJ plugin to generate Java code](https://github.com/JavaFactoryPluginDev/javafactory-plugin)
 * [2025-05-20, 10:18:15](https://news.ycombinator.com/item?id=44039864) - [Using elliptic curves to solve a math meme](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
 * [2025-05-20, 10:07:55](https://news.ycombinator.com/item?id=44039808) - [We did the math on AI's energy footprint. Here's the story you haven't heard](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
 * [2025-05-20, 10:06:52](https://news.ycombinator.com/item?id=44039798) - [Show HN: Metal – stealth browser for enterprise automations](https://metalsecurity.io)
