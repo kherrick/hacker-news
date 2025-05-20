@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-05-19, 23:02:38",
-      "https://news.ycombinator.com/item?id=44035876"
+      "2025-05-20, 00:19:44",
+      "https://news.ycombinator.com/item?id=44036438"
     ],
     [
-      "Show HN: Claude Code in the Cloud",
-      "https://cloudcoding.ai/"
+      "is-even-ai – Check if a number is even using the power of AI",
+      "https://www.npmjs.com/package/is-even-ai"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse",
       "https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 22:50:26",
+      "https://news.ycombinator.com/item?id=44035770"
+    ],
+    [
+      "Terraform MCP Server",
+      "https://github.com/hashicorp/terraform-mcp-server"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Jules: An Asynchronous Coding Agent",
       "https://jules.google/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 20:28:29",
+      "https://news.ycombinator.com/item?id=44034459"
+    ],
+    [
+      "Kilo: A text editor in less than 1000 LOC with syntax highlight and search",
+      "https://github.com/antirez/kilo"
     ]
   ],
   [
@@ -131,22 +151,22 @@
   ],
   [
     [
+      "2025-05-19, 16:14:35",
+      "https://news.ycombinator.com/item?id=44031387"
+    ],
+    [
+      "xAI's Grok 3 comes to Microsoft Azure",
+      "https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 16:14:15",
       "https://news.ycombinator.com/item?id=44031385"
     ],
     [
       "The Windows Subsystem for Linux is now open source",
       "https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 16:05:52",
-      "https://news.ycombinator.com/item?id=44031297"
-    ],
-    [
-      "European Investment Bank to inject €70B in European tech",
-      "https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-19, 10:27:34",
-      "https://news.ycombinator.com/item?id=44028250"
-    ],
-    [
-      "Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy",
-      "https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 09:17:20",
       "https://news.ycombinator.com/item?id=44027867"
     ],
@@ -237,16 +247,6 @@
     [
       "Don't Use ISO/IEC 14977:1996 Extended Backus-Naur Form (EBNF) (2023)",
       "https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 00:09:31",
-      "https://news.ycombinator.com/item?id=44010927"
-    ],
-    [
-      "A rare snail is filmed laying an egg from its neck",
-      "https://apnews.com/article/zealand-snail-egg-neck-powelliphanta-augusta-3cb8082547a83b8c47848b6621c06cb0"
     ]
   ],
   [
