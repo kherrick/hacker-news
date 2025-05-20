@@ -129,6 +129,122 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44042791">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44042791"
+              >Launch HN: Opusense (YC X25) – AI assistant for construction
+              inspectors on site</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-20 @ 15:35:29</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44042791"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.opusense.com/">https://www.opusense.com/</a
+              >), a tool to help engineers and consultants automatically
+              generate construction site reports from typed or voice notes, plus
+              photos.
+              <p>
+                Here’s a video:
+                <a href="https://www.youtube.com/watch?v=u3Pi1iih1_Y"
+                  >https://www.youtube.com/watch?v=u3Pi1iih1_Y</a
+                >.
+              </p>
+              <p>
+                Before this, I (Roya) worked in human-machine interaction at
+                Huawei, and before that as a construction site inspector for
+                civil engineering firms. I have a PhD in Civil Engineering, and
+                in my experience reporting was by far the most tedious and
+                mind-numbing part of the job.
+              </p>
+              <p>
+                You’d walk around a site all day taking short notes (maybe,
+                often you'd rely on memory) and snapping photos, then go to
+                three more sites before finally making it back to the office and
+                try to remember everything you wanted to write. Sometimes you’d
+                fill in gaps from memory or you’d keep it purposefully vague.
+                Reports had to be consistent, branded, and checked by senior
+                engineers. It was a huge time sink across the team.
+              </p>
+              <p>
+                Writing reports was the worst part of the job, so we built
+                Opusense to get rid of it. On-site, users type or dictate short
+                notes (e.g. “rebar exposed east end of slab”), and the tool
+                turns them into full sentences, paragraphs, tables, or photo
+                captions in a report template that matches the firm’s format.
+                You can work offline, and it syncs automatically when back
+                online.
+              </p>
+              <p>
+                Most inspection and reporting tools are built for
+                checklist-style workflows (which is great for home inspections
+                or punch lists), but civil, structural, environmental, or
+                geotechnical engineers usually need freeform notes, not radio
+                buttons.
+              </p>
+              <p>
+                This is a particularly good fit for LLMs because engineering
+                field reports live in a constrained, conventional domain:
+                similar language, repeated structures, and highly standardized
+                content across firms and projects. There’s a lot of redundancy
+                and grunt work, summarizing the same site conditions, formatting
+                repetitive data, translating field notes into polished
+                paragraphs, all of which LLMs handle well with the right
+                prompting and guardrails. We’re not generating arbitrary prose;
+                we’re transforming structured inputs (notes, images, forms) into
+                structured outputs, with firm-defined templates and required
+                fields that minimize the risk of hallucination. When facts
+                matter (e.g. test results or measurements), we keep them
+                grounded in the user’s input, the model doesn’t invent data
+                because there’s nothing for it to invent. This makes it one of
+                those cases where LLMs aren’t just a novelty, they're genuinely
+                the best tool for the job.
+              </p>
+              <p>
+                Under the hood, we use a combination of prompt-engineered LLMs
+                and firm-specific formatting rules to get outputs that don’t
+                just sound good, but also look right. We’ve recently added
+                translation features, and we’re iterating quickly based on field
+                feedback. We charge per seat and are deployed at mid size firms,
+                and trialing with some multinational engineering firms who have
+                thousands of reports to file each week. We're also starting to
+                see interest from construction managers and developers who do
+                their own internal QA reporting.
+              </p>
+              <p>
+                We don't have a self-serve way to try out the product yet,
+                because the way our business works requires templates to be
+                customized by company. But there’s a demo at
+                <a href="https://www.youtube.com/watch?v=u3Pi1iih1_Y"
+                  >https://www.youtube.com/watch?v=u3Pi1iih1_Y</a
+                >, and if you want to poke around the UI yourself, here’s a
+                sample account to log in with:
+              </p>
+              <p></p>
+              <pre><code>  login: hndemo@opusense.com
+  password: OpusenseHacker2025
+</code></pre>
+              The app is available for download on the Apple and Google Play
+              stores. When sample reports are generated, you can log into the
+              web interface to also view them online through our website
+              (www.opusense.com) with the same login credentials.
+              <p>
+                We’d love to hear how others are thinking about tools for field
+                work, reporting, or similar workflows (engineering,
+                architectural, etc.). If you’ve built in this space, or have
+                thoughts on how to improve it, we’re all ears!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="44042490">
           <h3>
             <a class="item" href="https://agent-kilo.github.io/jwno/"
@@ -139,11 +255,11 @@
             <h4>
               <span>2025-05-20 @ 15:08:42</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44042490"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
             <div class="text">
@@ -199,11 +315,11 @@
             <h4>
               <span>2025-05-20 @ 14:58:03</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44042371"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -218,11 +334,11 @@
             <h4>
               <span>2025-05-20 @ 14:55:25</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44042343"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -250,11 +366,11 @@
             <h4>
               <span>2025-05-20 @ 14:52:21</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44042311"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -271,11 +387,11 @@
             <h4>
               <span>2025-05-20 @ 14:29:00</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44042070"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -292,11 +408,11 @@
             <h4>
               <span>2025-05-20 @ 13:54:54</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44041738"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -306,7 +422,7 @@
             <a
               class="item"
               href="https://zenodo.org/records/15424968/files/deputy-els.pdf"
-              >The Lisp in the Cellar: Dependent Types That Live Upstairs
+              >The Lisp in the Cellar: Dependent types that live upstairs
               [pdf]</a
             >
           </h3>
@@ -314,13 +430,18 @@
             <h4>
               <span>2025-05-20 @ 13:38:07</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44041515"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://zenodo.org/records/15424968/files/deputy-els.pdf"
+                >https://zenodo.org/records/15424968/files/deputy-els.pdf</a
+              >
+            </div>
           </section>
         </section>
         <section id="44040883">
@@ -333,11 +454,11 @@
             <h4>
               <span>2025-05-20 @ 12:37:47</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44040883"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -353,11 +474,11 @@
             <h4>
               <span>2025-05-20 @ 11:43:55</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44040419"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
             <div class="text">
@@ -404,11 +525,11 @@
             <h4>
               <span>2025-05-20 @ 11:42:24</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44040407"
                   >Comments</a
-                ><span class="descendants">: 223</span></span
+                ><span class="descendants">: 241</span></span
               >
             </h4>
           </section>
@@ -477,11 +598,11 @@
             <h4>
               <span>2025-05-20 @ 10:18:15</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44039864"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -496,33 +617,11 @@
             <h4>
               <span>2025-05-20 @ 09:58:56</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44039744"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44039563">
-          <h3>
-            <a
-              class="item"
-              href="https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring"
-              >The behavior of LLMs in hiring decisions: Systemic biases in
-              candidate selection</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-20 @ 09:27:20</span
-              ><span class="points-container"
-                >Points: <span class="points">164</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44039563"
-                  >Comments</a
-                ><span class="descendants">: 131</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -540,11 +639,11 @@
             <h4>
               <span>2025-05-20 @ 07:40:28</span
               ><span class="points-container"
-                >Points: <span class="points">341</span></span
+                >Points: <span class="points">352</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44038835"
                   >Comments</a
-                ><span class="descendants">: 315</span></span
+                ><span class="descendants">: 321</span></span
               >
             </h4>
           </section>
@@ -561,11 +660,11 @@
             <h4>
               <span>2025-05-20 @ 05:54:58</span
               ><span class="points-container"
-                >Points: <span class="points">358</span></span
+                >Points: <span class="points">367</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44038209"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -582,11 +681,11 @@
             <h4>
               <span>2025-05-20 @ 04:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44037941"
                   >Comments</a
-                ><span class="descendants">: 205</span></span
+                ><span class="descendants">: 209</span></span
               >
             </h4>
           </section>
@@ -601,7 +700,7 @@
             <h4>
               <span>2025-05-20 @ 03:13:20</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44037426"
                   >Comments</a
@@ -621,11 +720,11 @@
             <h4>
               <span>2025-05-20 @ 01:36:15</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44036900"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -643,11 +742,11 @@
             <h4>
               <span>2025-05-20 @ 00:52:27</span
               ><span class="points-container"
-                >Points: <span class="points">568</span></span
+                >Points: <span class="points">574</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44036647"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -664,11 +763,11 @@
             <h4>
               <span>2025-05-19 @ 21:37:23</span
               ><span class="points-container"
-                >Points: <span class="points">740</span></span
+                >Points: <span class="points">744</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44035158"
                   >Comments</a
-                ><span class="descendants">: 240</span></span
+                ><span class="descendants">: 248</span></span
               >
             </h4>
           </section>
@@ -683,11 +782,11 @@
             <h4>
               <span>2025-05-19 @ 21:12:47</span
               ><span class="points-container"
-                >Points: <span class="points">443</span></span
+                >Points: <span class="points">448</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44034918"
                   >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
           </section>
@@ -703,11 +802,11 @@
             <h4>
               <span>2025-05-19 @ 20:28:29</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44034459"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -724,11 +823,11 @@
             <h4>
               <span>2025-05-19 @ 18:04:06</span
               ><span class="points-container"
-                >Points: <span class="points">415</span></span
+                >Points: <span class="points">420</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44032777"
                   >Comments</a
-                ><span class="descendants">: 183</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -743,7 +842,7 @@
             <h4>
               <span>2025-05-19 @ 16:28:18</span
               ><span class="points-container"
-                >Points: <span class="points">380</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44031535"
                   >Comments</a
@@ -764,11 +863,11 @@
             <h4>
               <span>2025-05-19 @ 16:14:15</span
               ><span class="points-container"
-                >Points: <span class="points">1464</span></span
+                >Points: <span class="points">1477</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44031385"
                   >Comments</a
-                ><span class="descendants">: 1002</span></span
+                ><span class="descendants">: 1012</span></span
               >
             </h4>
           </section>
@@ -784,11 +883,11 @@
             <h4>
               <span>2025-05-19 @ 14:48:03</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44030492"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
             <div class="text">
@@ -914,11 +1013,11 @@
             <h4>
               <span>2025-05-19 @ 06:23:01</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44026959"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -933,11 +1032,11 @@
             <h4>
               <span>2025-05-18 @ 00:10:32</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44017956"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -954,7 +1053,7 @@
             <h4>
               <span>2025-05-17 @ 22:40:38</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44017560"
                   >Comments</a
