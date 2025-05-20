@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 09:27:20](https://news.ycombinator.com/item?id=44039563) - [The Behavior of LLMs in Hiring Decisions: Systemic Biases in Candidate Selection](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring)
 * [2025-05-20, 07:52:31](https://news.ycombinator.com/item?id=44038917) - [Center for AI Safety's new spokesperson suggests „burning down labs\"](https://twitter.com/drtechlash/status/1924639190958199115)
 * [2025-05-20, 07:52:25](https://news.ycombinator.com/item?id=44038915) - [I trapped an AI model inside an art installation [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 * [2025-05-20, 07:40:28](https://news.ycombinator.com/item?id=44038835) - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)

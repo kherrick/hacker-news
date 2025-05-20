@@ -43,6 +43,7 @@
 * [2025-05-17, 12:51:26](https://news.ycombinator.com/item?id=44013933) - [The Japanese method of creating forests comes to Mexico](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html)
 * [2025-05-17, 12:47:40](https://news.ycombinator.com/item?id=44013913) - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 * [2025-05-17, 12:41:11](https://news.ycombinator.com/item?id=44013868) - [Ugly infrastructure: Why can't we have nice things?](https://jordanwtaylor2.substack.com/p/ugly-infrastructure-why-cant-we-have)
+* [2025-05-17, 12:16:59](https://news.ycombinator.com/item?id=44013739) - [Precomputing Transparency Order in 3D](https://jacobdoescode.com/2025/05/18/precomputing-transparency-order-in-3d)
 * [2025-05-17, 12:08:10](https://news.ycombinator.com/item?id=44013696) - [No-boom supersonic flights could slide through US skies soon](https://www.theregister.com/2025/05/17/faa_supersonic_law/)
 * [2025-05-17, 12:00:53](https://news.ycombinator.com/item?id=44013671) - [OBNC – Oberon-07 Compiler](https://miasap.se/obnc/)
 * [2025-05-17, 10:57:30](https://news.ycombinator.com/item?id=44013406) - [Patience too cheap to meter](https://www.seangoedecke.com/patience-too-cheap-to-meter/)

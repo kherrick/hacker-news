@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-20, 09:27:20](https://news.ycombinator.com/item?id=44039563) - [The Behavior of LLMs in Hiring Decisions: Systemic Biases in Candidate Selection](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring)
 * [2025-05-20, 07:40:28](https://news.ycombinator.com/item?id=44038835) - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
 * [2025-05-20, 07:37:00](https://news.ycombinator.com/item?id=44038812) - [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)
 * [2025-05-20, 06:54:27](https://news.ycombinator.com/item?id=44038549) - [Questioning Representational Optimism in Deep Learning](https://github.com/akarshkumar0101/fer)
@@ -15,7 +16,6 @@
 * [2025-05-19, 21:37:23](https://news.ycombinator.com/item?id=44035158) - [Have I Been Pwned 2.0](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 * [2025-05-19, 21:12:47](https://news.ycombinator.com/item?id=44034918) - [Jules: An Asynchronous Coding Agent](https://jules.google/)
 * [2025-05-19, 20:28:29](https://news.ycombinator.com/item?id=44034459) - [Kilo: A text editor in less than 1000 LOC with syntax highlight and search](https://github.com/antirez/kilo)
-* [2025-05-19, 20:16:13](https://news.ycombinator.com/item?id=44034329) - [WireGuard vanity keygen](https://github.com/axllent/wireguard-vanity-keygen)
 * [2025-05-19, 18:45:41](https://news.ycombinator.com/item?id=44033310) - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
 * [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk)
 * [2025-05-19, 16:28:18](https://news.ycombinator.com/item?id=44031535) - [Game theory illustrated by an animated cartoon game](https://ncase.me/trust/)
@@ -25,7 +25,7 @@
 * [2025-05-19, 15:40:32](https://news.ycombinator.com/item?id=44031009) - [Too Much Go Misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
 * [2025-05-19, 15:24:58](https://news.ycombinator.com/item?id=44030850) - [Zod 4](https://zod.dev/v4)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
-* [2025-05-17, 18:24:35](https://news.ycombinator.com/item?id=44016059) - [Mary Queen of Scots Channel Anamorphosis, a 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
+* [2025-05-17, 12:16:59](https://news.ycombinator.com/item?id=44013739) - [Precomputing Transparency Order in 3D](https://jacobdoescode.com/2025/05/18/precomputing-transparency-order-in-3d)
 * [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [A man who visited every country in the world without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
 * [2025-05-16, 21:45:15](https://news.ycombinator.com/item?id=44010046) - [Solving physics-based initial value problems with unsupervised machine learning](https://link.aps.org/doi/10.1103/PhysRevE.111.055302)
 * [2025-05-16, 08:55:27](https://news.ycombinator.com/item?id=44003184) - [Run GitHub Actions locally](https://github.com/nektos/act)
