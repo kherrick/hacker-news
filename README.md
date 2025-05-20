@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-20, 13:54:54](https://news.ycombinator.com/item?id=44041738) - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
-* [2025-05-20, 13:42:51](https://news.ycombinator.com/item?id=44041574) - [Ogmo – free, open source, 2D level editor](https://ogmo-editor-3.github.io/)
 * [2025-05-20, 13:38:07](https://news.ycombinator.com/item?id=44041515) - [The Lisp in the Cellar: Dependent Types That Live Upstairs [pdf]](https://zenodo.org/records/15424968/files/deputy-els.pdf)
 * [2025-05-20, 12:37:47](https://news.ycombinator.com/item?id=44040883) - [llm-d, Kubernetes native distributed inference](https://llm-d.ai/blog/llm-d-announce)
-* [2025-05-20, 12:21:58](https://news.ycombinator.com/item?id=44040755) - [Firewalls and BIOS's and Coreboot (2020)](https://hagensieker.com/2020/11/08/firewalls-and-bioss-and-coreboot/)
 * [2025-05-20, 11:43:55](https://news.ycombinator.com/item?id=44040419) - [Show HN: Text to 3D simulation on a map (does history pretty well)](https://mused.com/map/)
 * [2025-05-20, 11:42:24](https://news.ycombinator.com/item?id=44040407) - [Why Does the U.S. Always Run a Trade Deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
 * [2025-05-20, 11:40:53](https://news.ycombinator.com/item?id=44040391) - [CRLF Injection in `–proxy-header` allows extra HTTP headers (CWE-93)](https://hackerone.com/reports/3133379)
@@ -12,6 +10,7 @@
 * [2025-05-20, 11:29:45](https://news.ycombinator.com/item?id=44040301) - [Show HN: JavaFactory – IntelliJ plugin to generate Java code](https://github.com/JavaFactoryPluginDev/javafactory-plugin)
 * [2025-05-20, 10:18:15](https://news.ycombinator.com/item?id=44039864) - [The emoji problem (2022)](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
 * [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
+* [2025-05-20, 09:27:20](https://news.ycombinator.com/item?id=44039563) - [The behavior of LLMs in hiring decisions: Systemic biases in candidate selection](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring)
 * [2025-05-20, 07:40:28](https://news.ycombinator.com/item?id=44038835) - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
 * [2025-05-20, 06:54:27](https://news.ycombinator.com/item?id=44038549) - [Questioning Representational Optimism in Deep Learning](https://github.com/akarshkumar0101/fer)
 * [2025-05-20, 05:54:58](https://news.ycombinator.com/item?id=44038209) - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
@@ -29,6 +28,7 @@
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists Find Proof of Sweeping Language Pattern Once Deemed a 'Hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
 * [2025-05-17, 22:40:38](https://news.ycombinator.com/item?id=44017560) - [Compiling OCaml to the TI-84 CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
 * [2025-05-17, 10:15:29](https://news.ycombinator.com/item?id=44013290) - [Experts Have It Easy](https://boydkane.com/essays/experts)
+* [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [A man who visited every country in the world without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
 * [2025-05-16, 13:25:22](https://news.ycombinator.com/item?id=44005236) - [Imagine a drive where every file exists as all file types all of the time](https://anydocai.com/)
 
 ## [Archives](archives/index.md)
