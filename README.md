@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-20, 04:08:50](https://news.ycombinator.com/item?id=44037689) - [It's Breathtaking How Fast AI Is Screwing Up the Education System](https://gizmodo.com/its-breathtaking-how-fast-ai-is-screwing-up-the-education-system-2000603100)
+* [2025-05-20, 03:45:16](https://news.ycombinator.com/item?id=44037595) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
+* [2025-05-20, 03:13:20](https://news.ycombinator.com/item?id=44037426) - [Biff – a batteries-included web framework for Clojure](https://biffweb.com)
 * [2025-05-20, 02:55:32](https://news.ycombinator.com/item?id=44037319) - [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
-* [2025-05-20, 02:28:29](https://news.ycombinator.com/item?id=44037195) - [Ask HN: When will managers be replaced by AI?](https://news.ycombinator.com/item?id=44037195)
 * [2025-05-20, 01:36:15](https://news.ycombinator.com/item?id=44036900) - [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
 * [2025-05-20, 01:25:01](https://news.ycombinator.com/item?id=44036829) - [Memory Consistency Models: A Tutorial](https://jamesbornholt.com/blog/memory-models/)
 * [2025-05-20, 01:04:14](https://news.ycombinator.com/item?id=44036716) - [A shower thought turned into a Collatz visualization](https://abstractnonsense.com/collatz/)
@@ -25,9 +25,9 @@
 * [2025-05-19, 15:40:32](https://news.ycombinator.com/item?id=44031009) - [Too Much Go Misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
 * [2025-05-19, 15:24:58](https://news.ycombinator.com/item?id=44030850) - [Zod 4](https://zod.dev/v4)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
-* [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 * [2025-05-17, 10:57:30](https://news.ycombinator.com/item?id=44013406) - [Patience too cheap to meter](https://www.seangoedecke.com/patience-too-cheap-to-meter/)
-* [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [The man who visited every country in the world – without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
+* [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [A man who visited every country in the world without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
+* [2025-05-16, 13:43:56](https://news.ycombinator.com/item?id=44005461) - [Microbes in Gowanus teach lessons on fighting industrial pollution](https://engineering.nyu.edu/news/microbes-brooklyn-superfund-site-teach-lessons-fighting-industrial-pollution)
 * [2025-05-16, 08:55:27](https://news.ycombinator.com/item?id=44003184) - [Run GitHub Actions locally](https://github.com/nektos/act)
 * [2025-05-16, 03:54:02](https://news.ycombinator.com/item?id=44001696) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 

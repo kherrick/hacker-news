@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
 * [2025-05-20, 04:08:50](https://news.ycombinator.com/item?id=44037689) - [It's Breathtaking How Fast AI Is Screwing Up the Education System](https://gizmodo.com/its-breathtaking-how-fast-ai-is-screwing-up-the-education-system-2000603100)
+* [2025-05-20, 03:45:16](https://news.ycombinator.com/item?id=44037595) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
+* [2025-05-20, 03:13:20](https://news.ycombinator.com/item?id=44037426) - [Biff – a batteries-included web framework for Clojure](https://biffweb.com)
 * [2025-05-20, 02:55:32](https://news.ycombinator.com/item?id=44037319) - [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
 * [2025-05-20, 02:28:29](https://news.ycombinator.com/item?id=44037195) - [Ask HN: When will managers be replaced by AI?](https://news.ycombinator.com/item?id=44037195)
 * [2025-05-20, 01:36:15](https://news.ycombinator.com/item?id=44036900) - [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
