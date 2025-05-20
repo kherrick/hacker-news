@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-20, 15:57:01",
+      "https://news.ycombinator.com/item?id=44043045"
+    ],
+    [
+      "27000 Dragons and 10'000 Lights: GPU-Driven Clustered Forward Renderer",
+      "https://logdahl.net/p/gpu-driven"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 15:56:04",
+      "https://news.ycombinator.com/item?id=44043034"
+    ],
+    [
+      "The Fractured Entangled Representation Hypothesis",
+      "https://github.com/akarshkumar0101/fer"
+    ]
+  ],
+  [
+    [
       "2025-05-20, 15:35:29",
       "https://news.ycombinator.com/item?id=44042791"
     ],
@@ -76,7 +96,7 @@
     ],
     [
       "The Lisp in the Cellar: Dependent types that live upstairs [pdf]",
-      "https://zenodo.org/records/15424968/files/deputy-els.pdf"
+      "https://zenodo.org/records/15424968"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-05-19, 20:28:29",
-      "https://news.ycombinator.com/item?id=44034459"
-    ],
-    [
-      "Kilo: A text editor in less than 1000 LOC with syntax highlight and search",
-      "https://github.com/antirez/kilo"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 18:04:06",
       "https://news.ycombinator.com/item?id=44032777"
     ],
     [
       "Claude Code SDK",
       "https://docs.anthropic.com/en/docs/claude-code/sdk"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 16:28:18",
-      "https://news.ycombinator.com/item?id=44031535"
-    ],
-    [
-      "Game theory illustrated by an animated cartoon game",
-      "https://ncase.me/trust/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-05-19, 06:23:01",
-      "https://news.ycombinator.com/item?id=44026959"
-    ],
-    [
-      "Linguists Find Proof of Sweeping Language Pattern Once Deemed a 'Hoax'",
-      "https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/"
-    ]
-  ],
-  [
-    [
       "2025-05-18, 00:10:32",
       "https://news.ycombinator.com/item?id=44017956"
     ],
@@ -297,6 +287,16 @@
     [
       "Compiling OCaml to the TI-84 CE Calculator",
       "https://farlow.dev/2025/05/17/ocaml-on-calculator"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 09:13:16",
+      "https://news.ycombinator.com/item?id=44013071"
+    ],
+    [
+      "Production tests: a guidebook for better systems and more sleep",
+      "https://martincapodici.com/2025/05/13/production-tests-a-guidebook-for-better-systems-and-more-sleep/"
     ]
   ]
 ]
