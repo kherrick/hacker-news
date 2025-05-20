@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-20, 15:08:42](https://news.ycombinator.com/item?id=44042490) - [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
+* [2025-05-20, 14:58:03](https://news.ycombinator.com/item?id=44042371) - [Show HN: 90s.dev - game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
+* [2025-05-20, 14:55:25](https://news.ycombinator.com/item?id=44042343) - [Show HN: Astra – a new js2exe compiler](https://github.com/astracompiler/cli)
 * [2025-05-20, 13:54:54](https://news.ycombinator.com/item?id=44041738) - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
 * [2025-05-20, 13:38:07](https://news.ycombinator.com/item?id=44041515) - [The Lisp in the Cellar: Dependent Types That Live Upstairs [pdf]](https://zenodo.org/records/15424968/files/deputy-els.pdf)
 * [2025-05-20, 12:37:47](https://news.ycombinator.com/item?id=44040883) - [llm-d, Kubernetes native distributed inference](https://llm-d.ai/blog/llm-d-announce)
@@ -11,10 +14,8 @@
 * [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-20, 09:27:20](https://news.ycombinator.com/item?id=44039563) - [The behavior of LLMs in hiring decisions: Systemic biases in candidate selection](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring)
 * [2025-05-20, 07:40:28](https://news.ycombinator.com/item?id=44038835) - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
-* [2025-05-20, 06:54:27](https://news.ycombinator.com/item?id=44038549) - [Questioning Representational Optimism in Deep Learning](https://github.com/akarshkumar0101/fer)
 * [2025-05-20, 05:54:58](https://news.ycombinator.com/item?id=44038209) - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-20, 04:57:00](https://news.ycombinator.com/item?id=44037941) - [I got fooled by AI-for-science hype–here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
-* [2025-05-20, 03:45:16](https://news.ycombinator.com/item?id=44037595) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
 * [2025-05-20, 03:13:20](https://news.ycombinator.com/item?id=44037426) - [Biff – a batteries-included web framework for Clojure](https://biffweb.com)
 * [2025-05-20, 01:36:15](https://news.ycombinator.com/item?id=44036900) - [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
 * [2025-05-20, 00:52:27](https://news.ycombinator.com/item?id=44036647) - [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
@@ -26,10 +27,9 @@
 * [2025-05-19, 16:14:15](https://news.ycombinator.com/item?id=44031385) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
 * [2025-05-19, 14:48:03](https://news.ycombinator.com/item?id=44030492) - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists Find Proof of Sweeping Language Pattern Once Deemed a 'Hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
+* [2025-05-18, 00:10:32](https://news.ycombinator.com/item?id=44017956) - [RepoRoulette: Randomly sample repositories from GitHub](https://github.com/gojiplus/reporoulette)
 * [2025-05-17, 22:40:38](https://news.ycombinator.com/item?id=44017560) - [Compiling OCaml to the TI-84 CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
 * [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [A man who visited every country in the world without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
-* [2025-05-16, 21:45:15](https://news.ycombinator.com/item?id=44010046) - [Solving physics-based initial value problems with unsupervised machine learning](https://link.aps.org/doi/10.1103/PhysRevE.111.055302)
-* [2025-05-16, 13:25:22](https://news.ycombinator.com/item?id=44005236) - [Imagine a drive where every file exists as all file types all of the time](https://anydocai.com/)
 
 ## [Archives](archives/index.md)
 
