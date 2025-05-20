@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-20, 21:43:50](https://news.ycombinator.com/item?id=44046227) - [Show HN: A Simple Server to Match Long/Lat to a TimeZone](https://github.com/LittleGreenViper/LGV_TZ_Lookup)
 * [2025-05-20, 20:48:15](https://news.ycombinator.com/item?id=44045767) - [Show HN: I made IP-to-Geo location data library for developers](https://ip2geo.framer.website/)
 * [2025-05-20, 20:40:36](https://news.ycombinator.com/item?id=44045691) - [Photos in a Similar Style Aren't Copyright-Infringing–Woodland vs. Lil Nas X](https://blog.ericgoldman.org/archives/2025/05/photos-in-a-similar-style-arent-copyright-infringing-woodland-v-lil-nas-x.htm)
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
@@ -18,7 +19,6 @@
 * [2025-05-20, 15:35:29](https://news.ycombinator.com/item?id=44042791) - [Launch HN: Opusense (YC X25) – AI assistant for construction inspectors on site](https://news.ycombinator.com/item?id=44042791)
 * [2025-05-20, 15:08:42](https://news.ycombinator.com/item?id=44042490) - [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
 * [2025-05-20, 14:58:03](https://news.ycombinator.com/item?id=44042371) - [Show HN: 90s.dev – Game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
-* [2025-05-20, 14:29:00](https://news.ycombinator.com/item?id=44042070) - [OpenAI Codex hands-on review](https://zackproser.com/blog/openai-codex-review)
 * [2025-05-20, 13:54:54](https://news.ycombinator.com/item?id=44041738) - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
 * [2025-05-20, 13:38:07](https://news.ycombinator.com/item?id=44041515) - [The Lisp in the Cellar: Dependent types that live upstairs [pdf]](https://zenodo.org/records/15424968)
 * [2025-05-20, 11:33:14](https://news.ycombinator.com/item?id=44040332) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
