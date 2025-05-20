@@ -7,6 +7,8 @@
 * [2025-05-20, 15:08:42](https://news.ycombinator.com/item?id=44042490) - [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
 * [2025-05-20, 14:58:03](https://news.ycombinator.com/item?id=44042371) - [Show HN: 90s.dev - game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
 * [2025-05-20, 14:55:25](https://news.ycombinator.com/item?id=44042343) - [Show HN: Astra – a new js2exe compiler](https://github.com/astracompiler/cli)
+* [2025-05-20, 14:52:21](https://news.ycombinator.com/item?id=44042311) - [If an AI agent can't figure out how your API works, neither can your users](https://stytch.com/blog/if-an-ai-agent-cant-figure-out-how-your-api-works-neither-can-your-users/)
+* [2025-05-20, 14:29:00](https://news.ycombinator.com/item?id=44042070) - [OpenAI Codex Review](https://zackproser.com/blog/openai-codex-review)
 * [2025-05-20, 13:54:54](https://news.ycombinator.com/item?id=44041738) - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
 * [2025-05-20, 13:42:51](https://news.ycombinator.com/item?id=44041574) - [Ogmo – free, open source, 2D level editor](https://ogmo-editor-3.github.io/)
 * [2025-05-20, 13:38:07](https://news.ycombinator.com/item?id=44041515) - [The Lisp in the Cellar: Dependent Types That Live Upstairs [pdf]](https://zenodo.org/records/15424968/files/deputy-els.pdf)
