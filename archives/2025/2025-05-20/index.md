@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 13:42:51](https://news.ycombinator.com/item?id=44041574) - [Ogmo – free, open source, 2D level editor](https://ogmo-editor-3.github.io/)
 * [2025-05-20, 13:05:20](https://news.ycombinator.com/item?id=44041139) - [Poll: How often do you bathe?](https://news.ycombinator.com/item?id=44041139)
 * [2025-05-20, 12:32:35](https://news.ycombinator.com/item?id=44040837) - [What happened to American manufacturing is not unusual](https://blog.waldrn.com/p/what-happened-to-american-manufacturing)
 * [2025-05-20, 12:21:58](https://news.ycombinator.com/item?id=44040755) - [Firewalls and BIOS's and Coreboot (2020)](https://hagensieker.com/2020/11/08/firewalls-and-bioss-and-coreboot/)
