@@ -65,6 +65,7 @@
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists Find Proof of Sweeping Language Pattern Once Deemed a 'Hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
 * [2025-05-19, 05:51:02](https://news.ycombinator.com/item?id=44026799) - [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)
 * [2025-05-19, 04:04:14](https://news.ycombinator.com/item?id=44026414) - [The lack of a good command line way to sort IPv6 addresses](https://utcc.utoronto.ca/~cks/space/blog/unix/SortingIPv6Addresses)
+* [2025-05-19, 04:03:25](https://news.ycombinator.com/item?id=44026413) - [Effort and Challenges in Building Embedded Audio DSP Software Across Platforms](https://switchboard.audio/hub/building-embedded-audio-dsp/)
 * [2025-05-19, 02:58:46](https://news.ycombinator.com/item?id=44026202) - [America's College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)
 * [2025-05-19, 02:58:27](https://news.ycombinator.com/item?id=44026201) - [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/)
 * [2025-05-19, 02:49:25](https://news.ycombinator.com/item?id=44026170) - [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
