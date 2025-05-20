@@ -12,6 +12,7 @@
 * [2025-05-17, 22:40:38](https://news.ycombinator.com/item?id=44017560) - [Compiling OCaml to the TI-84 CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
 * [2025-05-17, 21:27:40](https://news.ycombinator.com/item?id=44017098) - [Gail Wellington, Commodore Software Prod Mgr \"and Mother of CDTV\", Has Died](https://www.legacy.com/us/obituaries/name/gail-wellington-obituary?id=58418580)
 * [2025-05-17, 21:22:08](https://news.ycombinator.com/item?id=44017056) - [Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers](https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html)
+* [2025-05-17, 21:19:36](https://news.ycombinator.com/item?id=44017043) - [A disk is a bunch of bits (2023)](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
 * [2025-05-17, 20:05:09](https://news.ycombinator.com/item?id=44016621) - [Large Language Models Are More Persuasive Than Incentivized Human Persuaders](https://arxiv.org/abs/2505.09662)
 * [2025-05-17, 19:56:00](https://news.ycombinator.com/item?id=44016564) - [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
 * [2025-05-17, 19:51:45](https://news.ycombinator.com/item?id=44016530) - [Wacom drawing tablets track the name of every application you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
