@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-20, 18:29:05](https://news.ycombinator.com/item?id=44044451) - [Announcing Gemma 3n preview: powerful, efficient, mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
 * [2025-05-20, 17:46:36](https://news.ycombinator.com/item?id=44044043) - [Introducing Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
 * [2025-05-20, 17:10:15](https://news.ycombinator.com/item?id=44043735) - [The Last Letter](https://aeon.co/essays/how-the-last-letters-of-the-condemned-can-teach-us-how-to-live)
 * [2025-05-20, 17:04:00](https://news.ycombinator.com/item?id=44043687) - [The Dawn of Nvidia's Technology](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html)
@@ -21,7 +22,6 @@
 * [2025-05-20, 11:43:55](https://news.ycombinator.com/item?id=44040419) - [Show HN: Text to 3D simulation on a map (does history pretty well)](https://mused.com/map/)
 * [2025-05-20, 10:18:15](https://news.ycombinator.com/item?id=44039864) - [The emoji problem (2022)](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
 * [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
-* [2025-05-20, 07:40:28](https://news.ycombinator.com/item?id=44038835) - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
 * [2025-05-20, 06:07:19](https://news.ycombinator.com/item?id=44038279) - [Hypervisor as a Library](https://seiya.me/blog/hypervisor-as-a-library)
 * [2025-05-20, 05:54:58](https://news.ycombinator.com/item?id=44038209) - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-20, 00:52:27](https://news.ycombinator.com/item?id=44036647) - [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
