@@ -56,6 +56,7 @@
 * [2025-05-16, 10:30:31](https://news.ycombinator.com/item?id=44003708) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
 * [2025-05-16, 10:29:35](https://news.ycombinator.com/item?id=44003700) - [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai)
 * [2025-05-16, 10:08:39](https://news.ycombinator.com/item?id=44003590) - [Apple Blocks Fortnite's Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/)
+* [2025-05-16, 09:57:29](https://news.ycombinator.com/item?id=44003530) - [Solving the local optima problem – NQueens](https://github.com/Dpbm/n-rainhas/blob/main/readme-en.md)
 * [2025-05-16, 09:43:17](https://news.ycombinator.com/item?id=44003449) - [You're Right You Are Working Longer and Attending More Meetings (2020)](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings)
 * [2025-05-16, 09:42:59](https://news.ycombinator.com/item?id=44003447) - [Leeks and Leaks – Daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
 * [2025-05-16, 09:42:31](https://news.ycombinator.com/item?id=44003445) - [The first year of free-threaded Python – Labs](https://labs.quansight.org/blog/free-threaded-one-year-recap)
