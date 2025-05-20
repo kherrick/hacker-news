@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-20, 16:32:58",
+      "https://news.ycombinator.com/item?id=44043421"
+    ],
+    [
+      "Show HN: Juvio – UV Kernel for Jupyter",
+      "https://github.com/OKUA1/juvio"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 16:21:03",
+      "https://news.ycombinator.com/item?id=44043323"
+    ],
+    [
+      "Robin: A multi-agent system for automating scientific discovery",
+      "https://arxiv.org/abs/2505.13400"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 16:07:13",
+      "https://news.ycombinator.com/item?id=44043167"
+    ],
+    [
+      "Teachable Machine",
+      "https://teachablemachine.withgoogle.com/"
+    ]
+  ],
+  [
+    [
       "2025-05-20, 15:57:01",
       "https://news.ycombinator.com/item?id=44043045"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-05-20, 14:52:21",
-      "https://news.ycombinator.com/item?id=44042311"
-    ],
-    [
-      "If an AI agent can't figure out how your API works, neither can your users",
-      "https://stytch.com/blog/if-an-ai-agent-cant-figure-out-how-your-api-works-neither-can-your-users/"
-    ]
-  ],
-  [
-    [
       "2025-05-20, 14:29:00",
       "https://news.ycombinator.com/item?id=44042070"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-05-20, 11:42:24",
-      "https://news.ycombinator.com/item?id=44040407"
-    ],
-    [
-      "Why Does the U.S. Always Run a Trade Deficit?",
-      "https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/"
-    ]
-  ],
-  [
-    [
       "2025-05-20, 11:29:45",
       "https://news.ycombinator.com/item?id=44040301"
     ],
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2025-05-20, 06:07:19",
+      "https://news.ycombinator.com/item?id=44038279"
+    ],
+    [
+      "Hypervisor as a Library",
+      "https://seiya.me/blog/hypervisor-as-a-library"
+    ]
+  ],
+  [
+    [
       "2025-05-20, 05:54:58",
       "https://news.ycombinator.com/item?id=44038209"
     ],
@@ -187,16 +207,6 @@
     [
       "I got fooled by AI-for-science hype–here's what it taught me",
       "https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres"
-    ]
-  ],
-  [
-    [
-      "2025-05-20, 03:13:20",
-      "https://news.ycombinator.com/item?id=44037426"
-    ],
-    [
-      "Biff – a batteries-included web framework for Clojure",
-      "https://biffweb.com"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Windows Subsystem for Linux is now open source",
       "https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 14:48:03",
-      "https://news.ycombinator.com/item?id=44030492"
-    ],
-    [
-      "Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript",
-      "https://news.ycombinator.com/item?id=44030492"
     ]
   ],
   [
