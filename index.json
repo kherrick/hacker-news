@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-20, 13:54:54",
+      "https://news.ycombinator.com/item?id=44041738"
+    ],
+    [
+      "Deep Learning Is Applied Topology",
+      "https://theahura.substack.com/p/deep-learning-is-applied-topology"
+    ]
+  ],
+  [
+    [
       "2025-05-20, 13:42:51",
       "https://news.ycombinator.com/item?id=44041574"
     ],
     [
       "Ogmo – free, open source, 2D level editor",
       "https://ogmo-editor-3.github.io/"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 13:38:07",
+      "https://news.ycombinator.com/item?id=44041515"
+    ],
+    [
+      "The Lisp in the Cellar: Dependent Types That Live Upstairs [pdf]",
+      "https://zenodo.org/records/15424968/files/deputy-els.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 12:37:47",
+      "https://news.ycombinator.com/item?id=44040883"
+    ],
+    [
+      "llm-d, Kubernetes native distributed inference",
+      "https://llm-d.ai/blog/llm-d-announce"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Why Does the U.S. Always Run a Trade Deficit?",
       "https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 11:40:53",
+      "https://news.ycombinator.com/item?id=44040391"
+    ],
+    [
+      "CRLF Injection in `–proxy-header` allows extra HTTP headers (CWE-93)",
+      "https://hackerone.com/reports/3133379"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2025-05-20, 09:27:20",
-      "https://news.ycombinator.com/item?id=44039563"
-    ],
-    [
-      "The behavior of LLMs in hiring decisions: Systemic biases in candidate selection",
-      "https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring"
-    ]
-  ],
-  [
-    [
       "2025-05-20, 07:40:28",
       "https://news.ycombinator.com/item?id=44038835"
     ],
@@ -127,16 +157,6 @@
     [
       "I got fooled by AI-for-science hype–here's what it taught me",
       "https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres"
-    ]
-  ],
-  [
-    [
-      "2025-05-20, 03:45:16",
-      "https://news.ycombinator.com/item?id=44037595"
-    ],
-    [
-      "Ann, the Small Annotation Server",
-      "https://mccd.space/posts/design-pitch-ann/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-05-19, 16:17:56",
-      "https://news.ycombinator.com/item?id=44031432"
-    ],
-    [
-      "GitHub Copilot Coding Agent",
-      "https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 16:14:15",
       "https://news.ycombinator.com/item?id=44031385"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2025-05-17, 09:13:11",
-      "https://news.ycombinator.com/item?id=44013069"
+      "2025-05-17, 10:15:29",
+      "https://news.ycombinator.com/item?id=44013290"
     ],
     [
-      "A man who visited every country in the world without boarding a plane (2023)",
-      "https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane"
+      "Experts Have It Easy",
+      "https://boydkane.com/essays/experts"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Imagine a drive where every file exists as all file types all of the time",
       "https://anydocai.com/"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 08:55:27",
-      "https://news.ycombinator.com/item?id=44003184"
-    ],
-    [
-      "Run GitHub Actions locally",
-      "https://github.com/nektos/act"
     ]
   ]
 ]
