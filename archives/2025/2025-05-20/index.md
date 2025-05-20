@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 16:44:41](https://news.ycombinator.com/item?id=44043518) - [Show HN:  Olelo Foil - NACA Airfoil Sim](https://foil.olelohonua.com/)
 * [2025-05-20, 16:32:58](https://news.ycombinator.com/item?id=44043421) - [Show HN: Juvio – UV Kernel for Jupyter](https://github.com/OKUA1/juvio)
 * [2025-05-20, 16:21:03](https://news.ycombinator.com/item?id=44043323) - [Robin: A multi-agent system for automating scientific discovery](https://arxiv.org/abs/2505.13400)
 * [2025-05-20, 16:07:13](https://news.ycombinator.com/item?id=44043167) - [Teachable Machine](https://teachablemachine.withgoogle.com/)

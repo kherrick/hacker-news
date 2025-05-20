@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-20, 16:44:41](https://news.ycombinator.com/item?id=44043518) - [Show HN:  Olelo Foil - NACA Airfoil Sim](https://foil.olelohonua.com/)
 * [2025-05-20, 16:32:58](https://news.ycombinator.com/item?id=44043421) - [Show HN: Juvio – UV Kernel for Jupyter](https://github.com/OKUA1/juvio)
 * [2025-05-20, 16:21:03](https://news.ycombinator.com/item?id=44043323) - [Robin: A multi-agent system for automating scientific discovery](https://arxiv.org/abs/2505.13400)
 * [2025-05-20, 16:07:13](https://news.ycombinator.com/item?id=44043167) - [Teachable Machine](https://teachablemachine.withgoogle.com/)
@@ -25,7 +26,6 @@
 * [2025-05-20, 00:52:27](https://news.ycombinator.com/item?id=44036647) - [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
 * [2025-05-19, 21:37:23](https://news.ycombinator.com/item?id=44035158) - [Have I Been Pwned 2.0](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 * [2025-05-19, 21:12:47](https://news.ycombinator.com/item?id=44034918) - [Jules: An Asynchronous Coding Agent](https://jules.google/)
-* [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk)
 * [2025-05-19, 16:14:15](https://news.ycombinator.com/item?id=44031385) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
 * [2025-05-18, 00:10:32](https://news.ycombinator.com/item?id=44017956) - [RepoRoulette: Randomly sample repositories from GitHub](https://github.com/gojiplus/reporoulette)
 * [2025-05-17, 22:40:38](https://news.ycombinator.com/item?id=44017560) - [Compiling OCaml to the TI-84 CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
