@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-05-20, 19:58:27",
+      "https://news.ycombinator.com/item?id=44045292"
+    ],
+    [
+      "Litestream: Revamped",
+      "https://fly.io/blog/litestream-revamped/"
+    ]
+  ],
+  [
+    [
       "2025-05-20, 18:30:18",
       "https://news.ycombinator.com/item?id=44044459"
     ],
     [
       "The NSA Selector",
       "https://github.com/wenzellabs/the_NSA_selector"
-    ]
-  ],
-  [
-    [
-      "2025-05-20, 18:29:05",
-      "https://news.ycombinator.com/item?id=44044451"
-    ],
-    [
-      "Gemma 3n preview: Mobile-first AI",
-      "https://developers.googleblog.com/en/introducing-gemma-3n/"
     ]
   ],
   [
@@ -37,6 +37,26 @@
     [
       "Red Programming Language",
       "https://www.red-lang.org/p/about.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 18:03:32",
+      "https://news.ycombinator.com/item?id=44044199"
+    ],
+    [
+      "Gemma 3n preview: Mobile-first AI",
+      "https://developers.googleblog.com/en/introducing-gemma-3n/"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 17:57:20",
+      "https://news.ycombinator.com/item?id=44044146"
+    ],
+    [
+      "ChatGPT Helps Students Feign ADHD: An Analogue Study on AI-Assisted Coaching",
+      "https://link.springer.com/article/10.1007/s12207-025-09538-7"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-05-20, 14:55:25",
-      "https://news.ycombinator.com/item?id=44042343"
-    ],
-    [
-      "Show HN: Astra – a new js2exe compiler",
-      "https://github.com/astracompiler/cli"
-    ]
-  ],
-  [
-    [
       "2025-05-20, 13:54:54",
       "https://news.ycombinator.com/item?id=44041738"
     ],
@@ -251,32 +261,22 @@
   ],
   [
     [
-      "2025-05-20, 00:52:27",
-      "https://news.ycombinator.com/item?id=44036647"
-    ],
-    [
-      "DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage",
-      "https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 22:40:38",
-      "https://news.ycombinator.com/item?id=44017560"
-    ],
-    [
-      "Compiling OCaml to the TI-84 CE Calculator",
-      "https://farlow.dev/2025/05/17/ocaml-on-calculator"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 21:27:40",
       "https://news.ycombinator.com/item?id=44017098"
     ],
     [
-      "Gail Wellington, Commodore Software Prod Mgr \"and Mother of CDTV\", Has Died",
+      "Gail Wellington, former Commodore executive, has died",
       "https://www.legacy.com/us/obituaries/name/gail-wellington-obituary?id=58418580"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 12:27:35",
+      "https://news.ycombinator.com/item?id=44013781"
+    ],
+    [
+      "Animations Using Math Editor",
+      "https://luiscristovao.github.io/CSS-Animation-Engine/crazy_animations/game.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44013470"
     ],
     [
-      "Google is quietly giving Amazon a leg up in digital book sales",
+      "Google is giving Amazon a leg up in digital book sales",
       "https://www.washingtonpost.com/technology/2025/05/16/google-amazon-ebooks-apps/"
     ]
   ],
