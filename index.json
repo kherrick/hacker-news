@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-05-20, 11:40:53",
-      "https://news.ycombinator.com/item?id=44040391"
-    ],
-    [
-      "CRLF Injection in `–proxy-header` allows extra HTTP headers (CWE-93)",
-      "https://hackerone.com/reports/3133379"
-    ]
-  ],
-  [
-    [
       "2025-05-20, 11:33:14",
       "https://news.ycombinator.com/item?id=44040332"
     ],
@@ -147,6 +137,16 @@
     [
       "I got fooled by AI-for-science hype–here's what it taught me",
       "https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 03:45:16",
+      "https://news.ycombinator.com/item?id=44037595"
+    ],
+    [
+      "Ann, the Small Annotation Server",
+      "https://mccd.space/posts/design-pitch-ann/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-05-17, 10:15:29",
-      "https://news.ycombinator.com/item?id=44013290"
-    ],
-    [
-      "Experts Have It Easy",
-      "https://boydkane.com/essays/experts"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 09:13:11",
       "https://news.ycombinator.com/item?id=44013069"
     ],
     [
       "A man who visited every country in the world without boarding a plane (2023)",
       "https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane"
+    ]
+  ],
+  [
+    [
+      "2025-05-16, 21:45:15",
+      "https://news.ycombinator.com/item?id=44010046"
+    ],
+    [
+      "Solving physics-based initial value problems with unsupervised machine learning",
+      "https://link.aps.org/doi/10.1103/PhysRevE.111.055302"
     ]
   ],
   [
