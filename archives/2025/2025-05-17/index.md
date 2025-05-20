@@ -74,6 +74,7 @@
 * [2025-05-17, 05:44:50](https://news.ycombinator.com/item?id=44012283) - [`This Printer company served you malware for months, called them false positives](https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/)
 * [2025-05-17, 05:23:20](https://news.ycombinator.com/item?id=44012227) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-17, 04:39:31](https://news.ycombinator.com/item?id=44012074) - [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
+* [2025-05-17, 02:53:34](https://news.ycombinator.com/item?id=44011686) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 * [2025-05-17, 02:50:15](https://news.ycombinator.com/item?id=44011669) - [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
 * [2025-05-17, 02:46:33](https://news.ycombinator.com/item?id=44011654) - [Behind Silicon Valley and the GOP's campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
 * [2025-05-17, 02:23:30](https://news.ycombinator.com/item?id=44011569) - [Postman for MCP](https://usetexture.com/##)

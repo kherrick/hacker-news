@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-20, 20:40:36](https://news.ycombinator.com/item?id=44045691) - [Photos in a Similar Style Aren't Copyright-Infringing–Woodland vs. Lil Nas X](https://blog.ericgoldman.org/archives/2025/05/photos-in-a-similar-style-arent-copyright-infringing-woodland-v-lil-nas-x.htm)
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 18:30:18](https://news.ycombinator.com/item?id=44044459) - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
 * [2025-05-20, 18:20:47](https://news.ycombinator.com/item?id=44044367) - [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
@@ -20,7 +21,6 @@
 * [2025-05-20, 14:29:00](https://news.ycombinator.com/item?id=44042070) - [OpenAI Codex hands-on review](https://zackproser.com/blog/openai-codex-review)
 * [2025-05-20, 13:54:54](https://news.ycombinator.com/item?id=44041738) - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
 * [2025-05-20, 13:38:07](https://news.ycombinator.com/item?id=44041515) - [The Lisp in the Cellar: Dependent types that live upstairs [pdf]](https://zenodo.org/records/15424968)
-* [2025-05-20, 12:37:47](https://news.ycombinator.com/item?id=44040883) - [llm-d, Kubernetes native distributed inference](https://llm-d.ai/blog/llm-d-announce)
 * [2025-05-20, 11:33:14](https://news.ycombinator.com/item?id=44040332) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 * [2025-05-20, 10:18:15](https://news.ycombinator.com/item?id=44039864) - [The emoji problem (2022)](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
 * [2025-05-20, 10:07:55](https://news.ycombinator.com/item?id=44039808) - [AI's energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
@@ -29,7 +29,7 @@
 * [2025-05-17, 21:27:40](https://news.ycombinator.com/item?id=44017098) - [Gail Wellington, former Commodore executive, has died](https://www.legacy.com/us/obituaries/name/gail-wellington-obituary?id=58418580)
 * [2025-05-17, 12:27:35](https://news.ycombinator.com/item?id=44013781) - [Animations Using Math Editor](https://luiscristovao.github.io/CSS-Animation-Engine/crazy_animations/game.html)
 * [2025-05-17, 11:15:52](https://news.ycombinator.com/item?id=44013470) - [Google is giving Amazon a leg up in digital book sales](https://www.washingtonpost.com/technology/2025/05/16/google-amazon-ebooks-apps/)
-* [2025-05-17, 09:13:16](https://news.ycombinator.com/item?id=44013071) - [Production tests: a guidebook for better systems and more sleep](https://martincapodici.com/2025/05/13/production-tests-a-guidebook-for-better-systems-and-more-sleep/)
+* [2025-05-17, 02:53:34](https://news.ycombinator.com/item?id=44011686) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 
 ## [Archives](archives/index.md)
 
