@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
+* [2025-05-20, 19:09:41](https://news.ycombinator.com/item?id=44044834) - [Show HN: Bricks – One Click Dashboards from Your Data Using AI](https://app.thebricks.com/sign-up)
 * [2025-05-20, 18:40:35](https://news.ycombinator.com/item?id=44044544) - [On-device small language models with multimodality, RAG, and Function Calling](https://developers.googleblog.com/en/google-ai-edge-small-language-models-multimodality-rag-function-calling/)
 * [2025-05-20, 18:30:18](https://news.ycombinator.com/item?id=44044459) - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
 * [2025-05-20, 18:29:05](https://news.ycombinator.com/item?id=44044451) - [Announcing Gemma 3n preview: powerful, efficient, mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
