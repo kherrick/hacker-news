@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 18:40:35](https://news.ycombinator.com/item?id=44044544) - [On-device small language models with multimodality, RAG, and Function Calling](https://developers.googleblog.com/en/google-ai-edge-small-language-models-multimodality-rag-function-calling/)
 * [2025-05-20, 18:30:18](https://news.ycombinator.com/item?id=44044459) - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
 * [2025-05-20, 18:29:05](https://news.ycombinator.com/item?id=44044451) - [Announcing Gemma 3n preview: powerful, efficient, mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
 * [2025-05-20, 18:20:47](https://news.ycombinator.com/item?id=44044367) - [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
 * [2025-05-20, 18:14:02](https://news.ycombinator.com/item?id=44044306) - [Red Programming Language](https://www.red-lang.org/p/about.html)
+* [2025-05-20, 18:03:32](https://news.ycombinator.com/item?id=44044199) - [Gemma 3n preview: Mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
+* [2025-05-20, 17:57:20](https://news.ycombinator.com/item?id=44044146) - [ChatGPT Helps Students Feign ADHD: An Analogue Study on AI-Assisted Coaching](https://link.springer.com/article/10.1007/s12207-025-09538-7)
 * [2025-05-20, 17:46:36](https://news.ycombinator.com/item?id=44044043) - [Introducing Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
 * [2025-05-20, 17:10:15](https://news.ycombinator.com/item?id=44043735) - [The Last Letter](https://aeon.co/essays/how-the-last-letters-of-the-condemned-can-teach-us-how-to-live)
 * [2025-05-20, 17:04:00](https://news.ycombinator.com/item?id=44043687) - [The Dawn of Nvidia's Technology](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html)
