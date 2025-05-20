@@ -47,6 +47,7 @@
 * [2025-05-17, 12:16:59](https://news.ycombinator.com/item?id=44013739) - [Precomputing Transparency Order in 3D](https://jacobdoescode.com/2025/05/18/precomputing-transparency-order-in-3d)
 * [2025-05-17, 12:08:10](https://news.ycombinator.com/item?id=44013696) - [No-boom supersonic flights could slide through US skies soon](https://www.theregister.com/2025/05/17/faa_supersonic_law/)
 * [2025-05-17, 12:00:53](https://news.ycombinator.com/item?id=44013671) - [OBNC – Oberon-07 Compiler](https://miasap.se/obnc/)
+* [2025-05-17, 11:15:52](https://news.ycombinator.com/item?id=44013470) - [Google is quietly giving Amazon a leg up in digital book sales](https://www.washingtonpost.com/technology/2025/05/16/google-amazon-ebooks-apps/)
 * [2025-05-17, 10:57:30](https://news.ycombinator.com/item?id=44013406) - [Patience too cheap to meter](https://www.seangoedecke.com/patience-too-cheap-to-meter/)
 * [2025-05-17, 10:52:28](https://news.ycombinator.com/item?id=44013387) - [MinorMiner: We turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
 * [2025-05-17, 10:29:44](https://news.ycombinator.com/item?id=44013322) - [Static Types Are for Perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism)
