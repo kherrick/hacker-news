@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-20, 17:46:36](https://news.ycombinator.com/item?id=44044043) - [Introducing Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
 * [2025-05-20, 17:10:15](https://news.ycombinator.com/item?id=44043735) - [The Last Letter](https://aeon.co/essays/how-the-last-letters-of-the-condemned-can-teach-us-how-to-live)
 * [2025-05-20, 17:04:00](https://news.ycombinator.com/item?id=44043687) - [The Dawn of Nvidia's Technology](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html)
 * [2025-05-20, 17:00:53](https://news.ycombinator.com/item?id=44043659) - [Ashby (YC W19) Is Hiring Engineering Managers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
@@ -18,7 +19,6 @@
 * [2025-05-20, 13:38:07](https://news.ycombinator.com/item?id=44041515) - [The Lisp in the Cellar: Dependent types that live upstairs [pdf]](https://zenodo.org/records/15424968)
 * [2025-05-20, 12:37:47](https://news.ycombinator.com/item?id=44040883) - [llm-d, Kubernetes native distributed inference](https://llm-d.ai/blog/llm-d-announce)
 * [2025-05-20, 11:43:55](https://news.ycombinator.com/item?id=44040419) - [Show HN: Text to 3D simulation on a map (does history pretty well)](https://mused.com/map/)
-* [2025-05-20, 11:29:45](https://news.ycombinator.com/item?id=44040301) - [Show HN: JavaFactory – IntelliJ plugin to generate Java code](https://github.com/JavaFactoryPluginDev/javafactory-plugin)
 * [2025-05-20, 10:18:15](https://news.ycombinator.com/item?id=44039864) - [The emoji problem (2022)](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
 * [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-20, 07:40:28](https://news.ycombinator.com/item?id=44038835) - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
