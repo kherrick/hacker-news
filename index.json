@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=44039808"
     ],
     [
-      "We did the math on AI's energy footprint. Here's the story you haven't heard",
+      "AI's energy footprint",
       "https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 10:06:52",
+      "https://news.ycombinator.com/item?id=44039798"
+    ],
+    [
+      "Show HN: Metal – stealth browser for enterprise automations",
+      "https://metalsecurity.io"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-05-20, 01:25:01",
-      "https://news.ycombinator.com/item?id=44036829"
-    ],
-    [
-      "Memory Consistency Models: A Tutorial",
-      "https://jamesbornholt.com/blog/memory-models/"
-    ]
-  ],
-  [
-    [
       "2025-05-20, 01:04:14",
       "https://news.ycombinator.com/item?id=44036716"
     ],
@@ -137,16 +137,6 @@
     [
       "DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage",
       "https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 22:50:26",
-      "https://news.ycombinator.com/item?id=44035770"
-    ],
-    [
-      "Terraform MCP Server",
-      "https://github.com/hashicorp/terraform-mcp-server"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Solving physics-based initial value problems with unsupervised machine learning",
       "https://link.aps.org/doi/10.1103/PhysRevE.111.055302"
+    ]
+  ],
+  [
+    [
+      "2025-05-16, 13:25:22",
+      "https://news.ycombinator.com/item?id=44005236"
+    ],
+    [
+      "Imagine a drive where every file exists as all file types all of the time",
+      "https://anydocai.com/"
     ]
   ],
   [
