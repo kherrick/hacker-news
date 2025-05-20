@@ -56,6 +56,7 @@
 * [2025-05-17, 09:37:46](https://news.ycombinator.com/item?id=44013181) - [Open Problems in Computational geometry](https://topp.openproblem.net/)
 * [2025-05-17, 09:31:55](https://news.ycombinator.com/item?id=44013157) - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2025-05-17, 09:31:14](https://news.ycombinator.com/item?id=44013154) - [Transformer neural net learns to run Conway's Game of Life just from examples](https://sidsite.com/posts/life-transformer/)
+* [2025-05-17, 09:13:16](https://news.ycombinator.com/item?id=44013071) - [Production tests: a guidebook for better systems and more sleep](https://martincapodici.com/2025/05/13/production-tests-a-guidebook-for-better-systems-and-more-sleep/)
 * [2025-05-17, 09:13:11](https://news.ycombinator.com/item?id=44013069) - [The man who visited every country in the world – without boarding a plane (2023)](https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane)
 * [2025-05-17, 09:07:13](https://news.ycombinator.com/item?id=44013046) - [Life before the web – Running a Startup in the 1980's](https://blog.zamzar.com/2016/07/13/life-before-the-web-running-a-startup-in-the-1980s/)
 * [2025-05-17, 08:56:10](https://news.ycombinator.com/item?id=44013000) - [Don't Use ISO/IEC 14977:1996 Extended Backus-Naur Form (EBNF) (2023)](https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html)
