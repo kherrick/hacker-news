@@ -19,6 +19,7 @@
 * [2025-05-17, 19:13:07](https://news.ycombinator.com/item?id=44016325) - [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/)
 * [2025-05-17, 19:06:14](https://news.ycombinator.com/item?id=44016289) - [Xata: Postgres at scale, with copy-on-write branching and anonymization](https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization)
 * [2025-05-17, 19:01:31](https://news.ycombinator.com/item?id=44016265) - [Racket – the Language-Oriented Programming Language – 8.17 is now available](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
+* [2025-05-17, 18:24:35](https://news.ycombinator.com/item?id=44016059) - [Mary Queen of Scots Channel Anamorphosis, a 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
 * [2025-05-17, 18:21:18](https://news.ycombinator.com/item?id=44016037) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
 * [2025-05-17, 18:20:29](https://news.ycombinator.com/item?id=44016030) - [Lufthansa plane flown by autopilot after pilot faints in cockpit](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit)
 * [2025-05-17, 18:06:55](https://news.ycombinator.com/item?id=44015961) - [Largest database of nanosatellites, over 4400 nanosats and CubeSats](https://www.nanosats.eu/)
