@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 16:32:58](https://news.ycombinator.com/item?id=44043421) - [Show HN: Juvio – UV Kernel for Jupyter](https://github.com/OKUA1/juvio)
+* [2025-05-20, 16:21:03](https://news.ycombinator.com/item?id=44043323) - [Robin: A multi-agent system for automating scientific discovery](https://arxiv.org/abs/2505.13400)
+* [2025-05-20, 16:07:13](https://news.ycombinator.com/item?id=44043167) - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 * [2025-05-20, 15:57:01](https://news.ycombinator.com/item?id=44043045) - [27000 Dragons and 10'000 Lights: GPU-Driven Clustered Forward Renderer](https://logdahl.net/p/gpu-driven)
 * [2025-05-20, 15:56:04](https://news.ycombinator.com/item?id=44043034) - [The Fractured Entangled Representation Hypothesis](https://github.com/akarshkumar0101/fer)
 * [2025-05-20, 15:35:29](https://news.ycombinator.com/item?id=44042791) - [Launch HN: Opusense (YC X25) – AI assistant for construction inspectors on site](https://news.ycombinator.com/item?id=44042791)
@@ -35,6 +38,7 @@
 * [2025-05-20, 07:40:28](https://news.ycombinator.com/item?id=44038835) - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
 * [2025-05-20, 07:37:00](https://news.ycombinator.com/item?id=44038812) - [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)
 * [2025-05-20, 06:54:27](https://news.ycombinator.com/item?id=44038549) - [Questioning Representational Optimism in Deep Learning](https://github.com/akarshkumar0101/fer)
+* [2025-05-20, 06:07:19](https://news.ycombinator.com/item?id=44038279) - [Hypervisor as a Library](https://seiya.me/blog/hypervisor-as-a-library)
 * [2025-05-20, 05:54:58](https://news.ycombinator.com/item?id=44038209) - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-20, 05:47:55](https://news.ycombinator.com/item?id=44038168) - [Cleo, the mathematician that tricked Stack Exchange](https://en.wikipedia.org/wiki/Cleo_(mathematician))
 * [2025-05-20, 04:57:00](https://news.ycombinator.com/item?id=44037941) - [I got fooled by AI-for-science hype–here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
