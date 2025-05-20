@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 13:05:20](https://news.ycombinator.com/item?id=44041139) - [Poll: How often do you bathe?](https://news.ycombinator.com/item?id=44041139)
 * [2025-05-20, 12:32:35](https://news.ycombinator.com/item?id=44040837) - [What happened to American manufacturing is not unusual](https://blog.waldrn.com/p/what-happened-to-american-manufacturing)
+* [2025-05-20, 12:21:58](https://news.ycombinator.com/item?id=44040755) - [Firewalls and BIOS's and Coreboot (2020)](https://hagensieker.com/2020/11/08/firewalls-and-bioss-and-coreboot/)
 * [2025-05-20, 11:43:55](https://news.ycombinator.com/item?id=44040419) - [Show HN: Text to 3D simulation on a map [does history pretty well]](https://mused.com/map/)
 * [2025-05-20, 11:42:24](https://news.ycombinator.com/item?id=44040407) - [Why Does the U.S. Always Run a Trade Deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
 * [2025-05-20, 11:33:14](https://news.ycombinator.com/item?id=44040332) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)

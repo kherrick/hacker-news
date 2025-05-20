@@ -9,6 +9,7 @@
 * [2025-05-17, 23:23:49](https://news.ycombinator.com/item?id=44017740) - [Federal agencies continue terminating all funding to Harvard](https://arstechnica.com/science/2025/05/feds-continue-effort-to-defund-research-at-harvard/)
 * [2025-05-17, 23:12:15](https://news.ycombinator.com/item?id=44017692) - [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/)
 * [2025-05-17, 22:47:55](https://news.ycombinator.com/item?id=44017592) - [FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux](https://freebasic.net/)
+* [2025-05-17, 22:40:38](https://news.ycombinator.com/item?id=44017560) - [Compiling OCaml to the TI-84 CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
 * [2025-05-17, 21:22:08](https://news.ycombinator.com/item?id=44017056) - [Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers](https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html)
 * [2025-05-17, 20:05:09](https://news.ycombinator.com/item?id=44016621) - [Large Language Models Are More Persuasive Than Incentivized Human Persuaders](https://arxiv.org/abs/2505.09662)
 * [2025-05-17, 19:56:00](https://news.ycombinator.com/item?id=44016564) - [Understanding Transformers via N-gram Statistics](https://arxiv.org/abs/2407.12034)
