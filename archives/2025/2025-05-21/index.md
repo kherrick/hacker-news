@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 15:17:38](https://news.ycombinator.com/item?id=44052424) - [New tools and features in the Responses API](https://openai.com/index/new-tools-and-features-in-the-responses-api)
 * [2025-05-21, 14:51:38](https://news.ycombinator.com/item?id=44052106) - [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
 * [2025-05-21, 14:45:38](https://news.ycombinator.com/item?id=44052041) - [Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)](https://arxiv.org/abs/2502.00627)
 * [2025-05-21, 14:39:37](https://news.ycombinator.com/item?id=44051958) - [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
