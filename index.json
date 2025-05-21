@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-21, 14:51:38",
+      "https://news.ycombinator.com/item?id=44052106"
+    ],
+    [
+      "Lune: Standalone Luau Runtime",
+      "https://github.com/lune-org/lune"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 14:45:38",
       "https://news.ycombinator.com/item?id=44052041"
     ],
@@ -17,6 +27,16 @@
     [
       "Animated Factorization",
       "http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 14:23:05",
+      "https://news.ycombinator.com/item?id=44051755"
+    ],
+    [
+      "Ask HN: How do you promote your personal project in limited bugget?",
+      "https://news.ycombinator.com/item?id=44051755"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-05-21, 11:49:08",
-      "https://news.ycombinator.com/item?id=44050437"
-    ],
-    [
-      "Why Property Testing Finds Bugs Unit Testing Does Not (2021)",
-      "https://buttondown.com/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/"
-    ]
-  ],
-  [
-    [
       "2025-05-21, 11:10:29",
       "https://news.ycombinator.com/item?id=44050222"
     ],
@@ -81,22 +91,22 @@
   ],
   [
     [
-      "2025-05-21, 10:57:08",
-      "https://news.ycombinator.com/item?id=44050152"
-    ],
-    [
-      "Watching AI drive Microsoft employees insane",
-      "https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/"
-    ]
-  ],
-  [
-    [
       "2025-05-21, 06:18:55",
       "https://news.ycombinator.com/item?id=44048775"
     ],
     [
       "Overview of the Ada Computer Language Competition (1979)",
       "https://iment.com/maida/computer/redref/"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 04:56:44",
+      "https://news.ycombinator.com/item?id=44048420"
+    ],
+    [
+      "Goethe's Faustian Life",
+      "https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2025-05-20, 18:14:02",
+      "https://news.ycombinator.com/item?id=44044306"
+    ],
+    [
+      "Red Programming Language",
+      "https://www.red-lang.org/p/about.html"
+    ]
+  ],
+  [
+    [
       "2025-05-20, 18:03:32",
       "https://news.ycombinator.com/item?id=44044199"
     ],
@@ -167,16 +187,6 @@
     [
       "Veo 3 and Imagen 4, and a new tool for filmmaking called Flow",
       "https://blog.google/technology/ai/generative-media-models-io-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-05-20, 17:04:00",
-      "https://news.ycombinator.com/item?id=44043687"
-    ],
-    [
-      "The Dawn of Nvidia's Technology",
-      "https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "What makes a good engineer also makes a good engineering organization (2024)",
       "https://moxie.org/2024/09/23/a-good-engineer.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 04:04:14",
-      "https://news.ycombinator.com/item?id=44026414"
-    ],
-    [
-      "The lack of a good command line way to sort IPv6 addresses",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/SortingIPv6Addresses"
     ]
   ],
   [
