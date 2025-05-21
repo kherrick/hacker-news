@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-21, 21:52:30](https://news.ycombinator.com/item?id=44056659) - [ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction](https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/)
 * [2025-05-21, 21:18:07](https://news.ycombinator.com/item?id=44056407) - [The Machine Stops (1909)](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
 * [2025-05-21, 21:00:11](https://news.ycombinator.com/item?id=44056280) - [Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
 * [2025-05-21, 20:40:58](https://news.ycombinator.com/item?id=44056104) - [Rocky Linux 10 Will Support RISC-V](https://rockylinux.org/news/rockylinux-support-for-riscv)
@@ -20,7 +21,6 @@
 * [2025-05-21, 16:46:53](https://news.ycombinator.com/item?id=44053364) - [By default, Signal doesn't recall](https://signal.org/blog/signal-doesnt-recall/)
 * [2025-05-21, 16:10:06](https://news.ycombinator.com/item?id=44052984) - [Introducing the Llama Startup Program](https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1)
 * [2025-05-21, 15:49:15](https://news.ycombinator.com/item?id=44052766) - [Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows](https://news.ycombinator.com/item?id=44052766)
-* [2025-05-21, 15:46:45](https://news.ycombinator.com/item?id=44052738) - [Show HN: Evolved.lua – An Evolved Entity Component System for Lua](https://github.com/BlackMATov/evolved.lua)
 * [2025-05-21, 15:19:02](https://news.ycombinator.com/item?id=44052439) - [Visualizing entire Chromium include graph](https://blog.bkryza.com/posts/visualizing-chromium-include-graph/)
 * [2025-05-21, 15:17:10](https://news.ycombinator.com/item?id=44052418) - [The US has a new most powerful laser hitting 2 petawatts](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/)
 * [2025-05-21, 14:51:38](https://news.ycombinator.com/item?id=44052106) - [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
