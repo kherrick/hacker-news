@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 18:52:12](https://news.ycombinator.com/item?id=44054861) - [Show HN: Test your license plate identification skills](https://shub.club/games/good-or-bad-plate)
 * [2025-05-21, 18:45:18](https://news.ycombinator.com/item?id=44054775) - [The curious tale of Bhutan's playable record postage stamps (2015)](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
 * [2025-05-21, 18:38:21](https://news.ycombinator.com/item?id=44054690) - [All That Glitters](https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/)
 * [2025-05-21, 18:32:24](https://news.ycombinator.com/item?id=44054620) - [New dwarf planet found in our solar system](https://www.minorplanetcenter.net/mpec/K25/K25K47.html)
@@ -12,6 +13,7 @@
 * [2025-05-21, 17:40:29](https://news.ycombinator.com/item?id=44054024) - [Gilded Fish: Illustrations of Histoire naturelle des dorades de la Chine c.1780](https://publicdomainreview.org/collection/chinese-fishes/)
 * [2025-05-21, 17:40:19](https://news.ycombinator.com/item?id=44054019) - [Building (Open Source) Custom Dashboards Is Harder Than You Think](https://langfuse.com/blog/2025-05-21-customizable-dashboards)
 * [2025-05-21, 17:20:30](https://news.ycombinator.com/item?id=44053759) - [Python Tooling at Scale: LlamaIndex’s Monorepo Overhaul](https://www.llamaindex.ai/blog/python-tooling-at-scale-llamaindex-s-monorepo-overhaul)
+* [2025-05-21, 17:19:52](https://news.ycombinator.com/item?id=44053754) - [Show HN: Representing Agents as MCP Servers](https://github.com/lastmile-ai/mcp-agent/tree/main/examples/mcp_agent_server)
 * [2025-05-21, 17:18:52](https://news.ycombinator.com/item?id=44053744) - [LLM function calls don't scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
 * [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://webcomponents.shopify.dev/)
 * [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://shopify.dev/docs/api/storefront-web-components)
