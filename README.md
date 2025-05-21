@@ -26,9 +26,9 @@
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists find proof of sweeping language pattern once deemed a 'hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
 * [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [What makes a good engineer also makes a good engineering organization (2024)](https://moxie.org/2024/09/23/a-good-engineer.html)
 * [2025-05-18, 18:07:03](https://news.ycombinator.com/item?id=44023226) - [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
+* [2025-05-18, 14:55:06](https://news.ycombinator.com/item?id=44021841) - [Taito-tastic: Kiki Kaikai and its Hardware](https://nicole.express/2025/pocky-but-wheres-rocky.html)
 * [2025-05-18, 06:19:29](https://news.ycombinator.com/item?id=44019374) - [Show HN: Keep track of why you muted someone on X](https://github.com/klntsky/x-user-note)
 * [2025-05-17, 16:59:48](https://news.ycombinator.com/item?id=44015564) - [Withnail and I (2001)](https://www.criterion.com/current/posts/122-withnail-and-i)
-* [2025-05-17, 09:07:13](https://news.ycombinator.com/item?id=44013046) - [Life before the web – Running a Startup in the 1980's (2016)](https://blog.zamzar.com/2016/07/13/life-before-the-web-running-a-startup-in-the-1980s/)
 * [2025-05-17, 02:53:34](https://news.ycombinator.com/item?id=44011686) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 
 ## [Archives](archives/index.md)
