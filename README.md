@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-21, 13:20:15](https://news.ycombinator.com/item?id=44051159) - [Why walking is the most underrated form of exercise (2017)](https://www.nbcnews.com/better/health/why-walking-most-underrated-form-exercise-ncna797271)
 * [2025-05-21, 13:12:30](https://news.ycombinator.com/item?id=44051090) - [Building an agentic image generator that improves itself](https://simulate.trybezel.com/research/image_agent)
 * [2025-05-21, 12:39:23](https://news.ycombinator.com/item?id=44050843) - [5 Boring Things That Have a Bigger Impact Than AI Assistants on Dev Productivity](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/)
 * [2025-05-21, 12:01:11](https://news.ycombinator.com/item?id=44050521) - [Overlap (YC S24) Is Hiring](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer)
@@ -28,7 +29,6 @@
 * [2025-05-18, 18:07:03](https://news.ycombinator.com/item?id=44023226) - [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
 * [2025-05-18, 17:47:27](https://news.ycombinator.com/item?id=44023081) - [Someone got an LLM running on a Commodore 64 from 1982, and it runs as well](https://www.xda-developers.com/llm-running-commodore-64/)
 * [2025-05-17, 16:59:48](https://news.ycombinator.com/item?id=44015564) - [Withnail and I (2001)](https://www.criterion.com/current/posts/122-withnail-and-i)
-* [2025-05-17, 09:07:13](https://news.ycombinator.com/item?id=44013046) - [Life before the web – Running a Startup in the 1980's (2016)](https://blog.zamzar.com/2016/07/13/life-before-the-web-running-a-startup-in-the-1980s/)
 * [2025-05-17, 02:53:34](https://news.ycombinator.com/item?id=44011686) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 
 ## [Archives](archives/index.md)
