@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
 * [2025-05-21, 05:22:24](https://news.ycombinator.com/item?id=44048518) - [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
 * [2025-05-21, 04:35:21](https://news.ycombinator.com/item?id=44048306) - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
 * [2025-05-21, 02:22:25](https://news.ycombinator.com/item?id=44047741) - [Disabling kernel functions in your process (2009)](https://chadaustin.me/2009/03/disabling-functions/)
@@ -29,7 +30,6 @@
 * [2025-05-17, 21:27:40](https://news.ycombinator.com/item?id=44017098) - [Gail Wellington, former Commodore executive, has died](https://www.legacy.com/us/obituaries/name/gail-wellington-obituary?id=58418580)
 * [2025-05-17, 07:02:46](https://news.ycombinator.com/item?id=44012549) - [Ask HN: Conversational AI to Learn a Language](https://news.ycombinator.com/item?id=44012549)
 * [2025-05-17, 02:53:34](https://news.ycombinator.com/item?id=44011686) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
-* [2025-05-17, 00:18:40](https://news.ycombinator.com/item?id=44010980) - [New stem cell model sheds light on human amniotic sac development](https://www.crick.ac.uk/news/2025-05-15_new-stem-cell-model-sheds-light-on-human-amniotic-sac-development)
 
 ## [Archives](archives/index.md)
 
