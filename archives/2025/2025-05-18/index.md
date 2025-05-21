@@ -54,6 +54,7 @@
 * [2025-05-18, 09:14:28](https://news.ycombinator.com/item?id=44020050) - [Telegram's Extraordinary Business Model](https://www.softpagecms.com/2025/05/18/telegrams-extraordinary-business-model/)
 * [2025-05-18, 09:08:11](https://news.ycombinator.com/item?id=44020019) - [Craft Basic (Windows 95 and up)](https://www.lucidapogee.com/?page=craftbasic)
 * [2025-05-18, 06:23:59](https://news.ycombinator.com/item?id=44019386) - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
+* [2025-05-18, 06:19:29](https://news.ycombinator.com/item?id=44019374) - [Show HN: Keep track of why you muted someone on X](https://github.com/klntsky/x-user-note)
 * [2025-05-18, 05:29:33](https://news.ycombinator.com/item?id=44019193) - [Ask HN: Do people actually pay for small web tools?](https://news.ycombinator.com/item?id=44019193)
 * [2025-05-18, 04:01:58](https://news.ycombinator.com/item?id=44018922) - [Every programming language has its 'killer' domain](https://huijzer.xyz/posts/67)
 * [2025-05-18, 03:52:15](https://news.ycombinator.com/item?id=44018886) - [Show HN: Chat with 19 years of HN](https://app.camelai.com/log-in?next=/hn/)

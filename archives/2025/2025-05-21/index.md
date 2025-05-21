@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 13:20:30](https://news.ycombinator.com/item?id=44051162) - [We Should Let a Lottery Decide Our Government (2019)](https://thewalrus.ca/why-we-should-let-a-lottery-decide-our-government/)
 * [2025-05-21, 13:20:15](https://news.ycombinator.com/item?id=44051159) - [Why walking is the most underrated form of exercise (2017)](https://www.nbcnews.com/better/health/why-walking-most-underrated-form-exercise-ncna797271)
 * [2025-05-21, 13:12:30](https://news.ycombinator.com/item?id=44051090) - [Building an agentic image generator that improves itself](https://simulate.trybezel.com/research/image_agent)
 * [2025-05-21, 12:39:23](https://news.ycombinator.com/item?id=44050843) - [5 Boring Things That Have a Bigger Impact Than AI Assistants on Dev Productivity](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/)
