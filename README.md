@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-20, 23:33:27](https://news.ycombinator.com/item?id=44046955) - [The Value Isn't in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
-* [2025-05-20, 22:29:12](https://news.ycombinator.com/item?id=44046578) - [\"ZLinq\", a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
+* [2025-05-20, 22:29:12](https://news.ycombinator.com/item?id=44046578) - [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
 * [2025-05-20, 21:49:36](https://news.ycombinator.com/item?id=44046277) - [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
 * [2025-05-20, 21:43:50](https://news.ycombinator.com/item?id=44046227) - [Show HN: A Simple Server to Match Long/Lat to a TimeZone](https://github.com/LittleGreenViper/LGV_TZ_Lookup)
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
@@ -21,15 +21,15 @@
 * [2025-05-20, 14:58:03](https://news.ycombinator.com/item?id=44042371) - [Show HN: 90s.dev – Game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
 * [2025-05-20, 13:54:54](https://news.ycombinator.com/item?id=44041738) - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
 * [2025-05-20, 11:43:55](https://news.ycombinator.com/item?id=44040419) - [Show HN: Text to 3D simulation on a map (does history pretty well)](https://mused.com/map/)
+* [2025-05-20, 11:42:24](https://news.ycombinator.com/item?id=44040407) - [Why does the U.S. always run a trade deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
 * [2025-05-20, 10:18:15](https://news.ycombinator.com/item?id=44039864) - [The emoji problem (2022)](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
 * [2025-05-20, 10:07:55](https://news.ycombinator.com/item?id=44039808) - [AI's energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
-* [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists find proof of sweeping language pattern once deemed a 'hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
 * [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [Magic of software; what makes a good engineer also makes a good engineering org](https://moxie.org/2024/09/23/a-good-engineer.html)
 * [2025-05-17, 21:27:40](https://news.ycombinator.com/item?id=44017098) - [Gail Wellington, former Commodore executive, has died](https://www.legacy.com/us/obituaries/name/gail-wellington-obituary?id=58418580)
 * [2025-05-17, 21:19:36](https://news.ycombinator.com/item?id=44017043) - [A disk is a bunch of bits (2023)](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
-* [2025-05-17, 11:15:52](https://news.ycombinator.com/item?id=44013470) - [Google is giving Amazon a leg up in digital book sales](https://www.washingtonpost.com/technology/2025/05/16/google-amazon-ebooks-apps/)
 * [2025-05-17, 02:53:34](https://news.ycombinator.com/item?id=44011686) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
+* [2025-05-17, 00:18:40](https://news.ycombinator.com/item?id=44010980) - [New stem cell model sheds light on human amniotic sac development](https://www.crick.ac.uk/news/2025-05-15_new-stem-cell-model-sheds-light-on-human-amniotic-sac-development)
 
 ## [Archives](archives/index.md)
 

@@ -87,4 +87,5 @@
 * [2025-05-17, 01:14:48](https://news.ycombinator.com/item?id=44011281) - [Show HN: Roast My Dish – AI roasts your food photos with brutal honesty](https://www.roastmydish.online/)
 * [2025-05-17, 01:09:38](https://news.ycombinator.com/item?id=44011254) - [Show HN: Merliot – plugging physical devices into LLMs](https://github.com/merliot/hub)
 * [2025-05-17, 00:46:24](https://news.ycombinator.com/item?id=44011139) - [WebGL Gray-Scott Explorer (2012)](http://www.mrob.com/pub/comp/xmorphia/ogl/index.html)
+* [2025-05-17, 00:18:40](https://news.ycombinator.com/item?id=44010980) - [New stem cell model sheds light on human amniotic sac development](https://www.crick.ac.uk/news/2025-05-15_new-stem-cell-model-sheds-light-on-human-amniotic-sac-development)
 * [2025-05-17, 00:09:31](https://news.ycombinator.com/item?id=44010927) - [A rare snail is filmed laying an egg from its neck](https://apnews.com/article/zealand-snail-egg-neck-powelliphanta-augusta-3cb8082547a83b8c47848b6621c06cb0)
