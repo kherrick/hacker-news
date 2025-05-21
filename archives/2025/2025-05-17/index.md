@@ -69,6 +69,7 @@
 * [2025-05-17, 08:12:40](https://news.ycombinator.com/item?id=44012838) - [Identifying almost any x86 CPU (2004)](http://web.archive.org/web/20040604002243/http://debs.future.easyspace.com/Programming/OS/cpuid.txt)
 * [2025-05-17, 07:46:29](https://news.ycombinator.com/item?id=44012729) - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 07:19:55](https://news.ycombinator.com/item?id=44012615) - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
+* [2025-05-17, 07:02:46](https://news.ycombinator.com/item?id=44012549) - [Ask HN: Conversational AI to Learn a Language](https://news.ycombinator.com/item?id=44012549)
 * [2025-05-17, 06:59:34](https://news.ycombinator.com/item?id=44012538) - [Publisher: The Malloy Semantic Model Server](https://github.com/malloydata/publisher)
 * [2025-05-17, 06:49:13](https://news.ycombinator.com/item?id=44012495) - [I let lasers power my smart home – and I don't want to go back](https://www.theverge.com/tech/663899/wi-charge-alfred-smart-lock-wireless-power-review)
 * [2025-05-17, 06:30:59](https://news.ycombinator.com/item?id=44012418) - [Programming in Martin-Lof's Type Theory: An Introduction (1990)](https://www.cse.chalmers.se/research/group/logic/book/)

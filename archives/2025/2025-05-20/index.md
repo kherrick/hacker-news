@@ -7,6 +7,7 @@
 * [2025-05-20, 23:33:27](https://news.ycombinator.com/item?id=44046955) - [The Value Isn't in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
 * [2025-05-20, 22:29:12](https://news.ycombinator.com/item?id=44046578) - [\"ZLinq\", a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
 * [2025-05-20, 22:28:27](https://news.ycombinator.com/item?id=44046570) - [High Levels of Arsenic Found in Rice Sold Across the U.S.](https://www.delish.com/food-news/a64801080/arsenic-in-rice-new-study/)
+* [2025-05-20, 22:25:56](https://news.ycombinator.com/item?id=44046559) - [Instagram Addiction](https://blog.greg.technology/2025/05/19/on-instagram-addiction.html)
 * [2025-05-20, 21:49:36](https://news.ycombinator.com/item?id=44046277) - [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
 * [2025-05-20, 21:43:50](https://news.ycombinator.com/item?id=44046227) - [Show HN: A Simple Server to Match Long/Lat to a TimeZone](https://github.com/LittleGreenViper/LGV_TZ_Lookup)
 * [2025-05-20, 21:16:27](https://news.ycombinator.com/item?id=44045998) - [Our Journey Through Linux/Unix Landscapes](https://blog.kalvad.com/our-journey-through-linux-unix-landscapes/)
