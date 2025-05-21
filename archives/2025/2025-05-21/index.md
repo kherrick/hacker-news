@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 17:01:35](https://news.ycombinator.com/item?id=44053518) - [OpenAI to Buy AI Startup from Apple Veteran Jony Ive in $6.5B Deal](https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal)
+* [2025-05-21, 17:00:50](https://news.ycombinator.com/item?id=44053506) - [Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist](https://www.ycombinator.com/companies/harper/jobs)
 * [2025-05-21, 16:21:46](https://news.ycombinator.com/item?id=44053119) - [Ask HN: How to Make Friendster Great?](https://news.ycombinator.com/item?id=44053119)
 * [2025-05-21, 16:10:06](https://news.ycombinator.com/item?id=44052984) - [Introducing the Llama Startup Program](https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1)
 * [2025-05-21, 16:03:36](https://news.ycombinator.com/item?id=44052909) - [Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/)
@@ -12,6 +14,7 @@
 * [2025-05-21, 15:17:38](https://news.ycombinator.com/item?id=44052424) - [New tools and features in the Responses API](https://openai.com/index/new-tools-and-features-in-the-responses-api)
 * [2025-05-21, 14:51:38](https://news.ycombinator.com/item?id=44052106) - [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
 * [2025-05-21, 14:45:38](https://news.ycombinator.com/item?id=44052041) - [Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)](https://arxiv.org/abs/2502.00627)
+* [2025-05-21, 14:43:09](https://news.ycombinator.com/item?id=44052010) - [Show HN: Trendly AI – Trend detection across 42 languages](https://trendlyai.com/)
 * [2025-05-21, 14:39:37](https://news.ycombinator.com/item?id=44051958) - [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
 * [2025-05-21, 14:23:05](https://news.ycombinator.com/item?id=44051755) - [Ask HN: How do you promote your personal project in limited bugget?](https://news.ycombinator.com/item?id=44051755)
 * [2025-05-21, 14:11:33](https://news.ycombinator.com/item?id=44051652) - ['Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/)

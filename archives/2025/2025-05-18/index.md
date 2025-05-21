@@ -19,6 +19,7 @@
 * [2025-05-18, 19:10:29](https://news.ycombinator.com/item?id=44023634) - [Show HN: Sshsync – CLI tool to run shell commands across multiple remote servers](https://github.com/Blackmamoth/sshsync)
 * [2025-05-18, 18:46:02](https://news.ycombinator.com/item?id=44023471) - [Show HN: Stack Error – ergonomic error handling for Rust](https://github.com/gmcgoldr/stackerror)
 * [2025-05-18, 18:36:54](https://news.ycombinator.com/item?id=44023423) - [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
+* [2025-05-18, 18:34:12](https://news.ycombinator.com/item?id=44023400) - [What Is the Difference Between a Block, a Proc, and a Lambda in Ruby? (2013)](https://blog.awaxman.com/what-is-the-difference-between-a-block-a-proc-and-a-lambda-in-ruby)
 * [2025-05-18, 18:07:03](https://news.ycombinator.com/item?id=44023226) - [I Learned to Stop Worrying and Love Building My Own Solar System](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
 * [2025-05-18, 18:03:26](https://news.ycombinator.com/item?id=44023200) - [Show HN: Vibe Coded GitHub PR Bot for Integrating a GitHub Action](https://vetpkg.dev/gha)
 * [2025-05-18, 17:54:12](https://news.ycombinator.com/item?id=44023144) - [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev)
