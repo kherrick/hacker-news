@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-21, 16:21:46](https://news.ycombinator.com/item?id=44053119) - [Ask HN: How to Make Friendster Great?](https://news.ycombinator.com/item?id=44053119)
+* [2025-05-21, 16:10:06](https://news.ycombinator.com/item?id=44052984) - [Introducing the Llama Startup Program](https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1)
 * [2025-05-21, 16:03:36](https://news.ycombinator.com/item?id=44052909) - [Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/)
 * [2025-05-21, 15:49:15](https://news.ycombinator.com/item?id=44052766) - [Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows](https://news.ycombinator.com/item?id=44052766)
 * [2025-05-21, 15:46:45](https://news.ycombinator.com/item?id=44052738) - [Show HN: Evolved.lua – An Evolved Entity Component System for Lua](https://github.com/BlackMATov/evolved.lua)
@@ -9,7 +11,6 @@
 * [2025-05-21, 14:39:37](https://news.ycombinator.com/item?id=44051958) - [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
 * [2025-05-21, 14:23:05](https://news.ycombinator.com/item?id=44051755) - [Ask HN: How do you promote your personal project in limited bugget?](https://news.ycombinator.com/item?id=44051755)
 * [2025-05-21, 14:11:33](https://news.ycombinator.com/item?id=44051652) - ['Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/)
-* [2025-05-21, 13:12:30](https://news.ycombinator.com/item?id=44051090) - [Building an agentic image generator that improves itself](https://simulate.trybezel.com/research/image_agent)
 * [2025-05-21, 12:01:11](https://news.ycombinator.com/item?id=44050521) - [Overlap (YC S24) Is Hiring](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer)
 * [2025-05-21, 11:10:29](https://news.ycombinator.com/item?id=44050222) - [Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
@@ -29,7 +30,6 @@
 * [2025-05-19, 07:48:22](https://news.ycombinator.com/item?id=44027424) - [Link Time Optimizations: New Way to Do Compiler Optimizations](https://johnnysswlab.com/link-time-optimizations-new-way-to-do-compiler-optimizations/)
 * [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [What makes a good engineer also makes a good engineering organization (2024)](https://moxie.org/2024/09/23/a-good-engineer.html)
 * [2025-05-18, 18:07:03](https://news.ycombinator.com/item?id=44023226) - [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
-* [2025-05-18, 11:28:45](https://news.ycombinator.com/item?id=44020526) - [GPS Needs to Toughen Up, or Get Trampled Down](https://aviationweek.com/business-aviation/safety-ops-regulation/gps-needs-toughen-or-get-trampled-down)
 
 ## [Archives](archives/index.md)
 

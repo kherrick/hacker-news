@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 16:21:46](https://news.ycombinator.com/item?id=44053119) - [Ask HN: How to Make Friendster Great?](https://news.ycombinator.com/item?id=44053119)
+* [2025-05-21, 16:10:06](https://news.ycombinator.com/item?id=44052984) - [Introducing the Llama Startup Program](https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1)
 * [2025-05-21, 16:03:36](https://news.ycombinator.com/item?id=44052909) - [Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/)
 * [2025-05-21, 15:49:15](https://news.ycombinator.com/item?id=44052766) - [Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows](https://news.ycombinator.com/item?id=44052766)
 * [2025-05-21, 15:46:45](https://news.ycombinator.com/item?id=44052738) - [Show HN: Evolved.lua – An Evolved Entity Component System for Lua](https://github.com/BlackMATov/evolved.lua)
