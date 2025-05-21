@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 13:12:30](https://news.ycombinator.com/item?id=44051090) - [Building an agentic image generator that improves itself](https://simulate.trybezel.com/research/image_agent)
+* [2025-05-21, 12:39:23](https://news.ycombinator.com/item?id=44050843) - [5 Boring Things That Have a Bigger Impact Than AI Assistants on Dev Productivity](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/)
 * [2025-05-21, 12:01:11](https://news.ycombinator.com/item?id=44050521) - [Overlap (YC S24) Is Hiring](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer)
 * [2025-05-21, 11:49:08](https://news.ycombinator.com/item?id=44050437) - [Why Property Testing Finds Bugs Unit Testing Does Not (2021)](https://buttondown.com/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/)
 * [2025-05-21, 11:10:29](https://news.ycombinator.com/item?id=44050222) - [Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
