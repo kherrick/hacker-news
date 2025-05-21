@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 21:00:11](https://news.ycombinator.com/item?id=44056280) - [Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
 * [2025-05-21, 20:21:06](https://news.ycombinator.com/item?id=44055895) - [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
 * [2025-05-21, 20:10:01](https://news.ycombinator.com/item?id=44055771) - [It's So Over, We're So Back – Doomer Techno Optimism](https://americanaffairsjournal.org/2025/05/its-so-over-were-so-back-doomer-techno-optimism/)
 * [2025-05-21, 19:50:37](https://news.ycombinator.com/item?id=44055542) - [Show HN: I've built online video editor](https://clipjs.vercel.app/)

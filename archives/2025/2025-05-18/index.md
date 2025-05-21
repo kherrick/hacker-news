@@ -69,4 +69,5 @@
 * [2025-05-18, 01:31:24](https://news.ycombinator.com/item?id=44018301) - [Experts have it easy (2024)](https://boydkane.com/essays/experts)
 * [2025-05-18, 01:26:08](https://news.ycombinator.com/item?id=44018283) - [Memetics – A Growth Industry in US Military Operations (2006) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
 * [2025-05-18, 01:17:42](https://news.ycombinator.com/item?id=44018241) - [GM Is Pushing Hard to Tank California's EV Mandate](https://www.wsj.com/business/autos/california-ev-mandate-auto-industry-64708033)
+* [2025-05-18, 01:03:47](https://news.ycombinator.com/item?id=44018193) - [A16Z Speedrun](https://speedrun.a16z.com)
 * [2025-05-18, 00:10:32](https://news.ycombinator.com/item?id=44017956) - [RepoRoulette: Randomly sample repositories from GitHub](https://github.com/gojiplus/reporoulette)
