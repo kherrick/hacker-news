@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 18:38:21](https://news.ycombinator.com/item?id=44054690) - [All That Glitters](https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/)
+* [2025-05-21, 18:15:25](https://news.ycombinator.com/item?id=44054425) - [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
 * [2025-05-21, 17:40:29](https://news.ycombinator.com/item?id=44054024) - [Gilded Fish: Illustrations of Histoire naturelle des dorades de la Chine c.1780](https://publicdomainreview.org/collection/chinese-fishes/)
+* [2025-05-21, 17:40:19](https://news.ycombinator.com/item?id=44054019) - [Building (Open Source) Custom Dashboards Is Harder Than You Think](https://langfuse.com/blog/2025-05-21-customizable-dashboards)
+* [2025-05-21, 17:20:30](https://news.ycombinator.com/item?id=44053759) - [Python Tooling at Scale: LlamaIndex’s Monorepo Overhaul](https://www.llamaindex.ai/blog/python-tooling-at-scale-llamaindex-s-monorepo-overhaul)
 * [2025-05-21, 17:18:52](https://news.ycombinator.com/item?id=44053744) - [LLM function calls don't scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
 * [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://webcomponents.shopify.dev/)
 * [2025-05-21, 17:05:45](https://news.ycombinator.com/item?id=44053560) - [Collaborative Text Editing Without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
