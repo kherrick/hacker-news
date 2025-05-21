@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 19:50:37](https://news.ycombinator.com/item?id=44055542) - [Show HN: I've built online video editor](https://clipjs.vercel.app/)
 * [2025-05-21, 19:37:39](https://news.ycombinator.com/item?id=44055389) - [Newfound Mechanism Rewires Cellular Energy Processing for Drastic Weight Loss](https://nyulangone.org/news/newfound-mechanism-rewires-cellular-energy-processing-drastic-weight-loss)
+* [2025-05-21, 19:34:20](https://news.ycombinator.com/item?id=44055347) - [For Algorithms, a Little Memory Outweighs a Lot of Time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
 * [2025-05-21, 19:00:50](https://news.ycombinator.com/item?id=44054953) - [Ratatoi is a C libary that wraps stdlib's strtol (as atoi does), but it's evil.](https://github.com/rept0id/ratatoi)
 * [2025-05-21, 18:52:12](https://news.ycombinator.com/item?id=44054861) - [Show HN: Test your license plate identification skills](https://shub.club/games/good-or-bad-plate)
 * [2025-05-21, 18:45:18](https://news.ycombinator.com/item?id=44054775) - [The curious tale of Bhutan's playable record postage stamps (2015)](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
