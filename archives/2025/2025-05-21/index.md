@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 12:01:11](https://news.ycombinator.com/item?id=44050521) - [Overlap (YC S24) Is Hiring](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer)
+* [2025-05-21, 11:49:08](https://news.ycombinator.com/item?id=44050437) - [Why Property Testing Finds Bugs Unit Testing Does Not (2021)](https://buttondown.com/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/)
+* [2025-05-21, 11:10:29](https://news.ycombinator.com/item?id=44050222) - [Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
 * [2025-05-21, 10:57:08](https://news.ycombinator.com/item?id=44050152) - [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
 * [2025-05-21, 10:07:00](https://news.ycombinator.com/item?id=44049909) - [EU startups fail because their press refuses to hype them up](https://twitter.com/RnaudBertrand/status/1925029185052917791)
 * [2025-05-21, 09:19:30](https://news.ycombinator.com/item?id=44049677) - [Ask HN: Generate LLM hallucination to detect students cheating](https://news.ycombinator.com/item?id=44049677)
