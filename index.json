@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-21, 18:45:18",
+      "https://news.ycombinator.com/item?id=44054775"
+    ],
+    [
+      "The curious tale of Bhutan's playable record postage stamps (2015)",
+      "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 18:38:21",
       "https://news.ycombinator.com/item?id=44054690"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-05-21, 18:32:24",
+      "https://news.ycombinator.com/item?id=44054620"
+    ],
+    [
+      "New dwarf planet found in our solar system",
+      "https://www.minorplanetcenter.net/mpec/K25/K25K47.html"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 18:15:25",
       "https://news.ycombinator.com/item?id=44054425"
     ],
     [
       "Harnessing the Universal Geometry of Embeddings",
       "https://arxiv.org/abs/2505.12540"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 17:53:40",
+      "https://news.ycombinator.com/item?id=44054185"
+    ],
+    [
+      "An upgraded dev experience in Google AI Studio",
+      "https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/"
     ]
   ],
   [
@@ -66,7 +96,7 @@
     ],
     [
       "Storefront Web Components",
-      "https://webcomponents.shopify.dev/"
+      "https://shopify.dev/docs/api/storefront-web-components"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "By Default, Signal Doesn't Recall",
       "https://signal.org/blog/signal-doesnt-recall/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 16:43:19",
-      "https://news.ycombinator.com/item?id=44053328"
-    ],
-    [
-      "The Era of the Business Idiot",
-      "https://www.wheresyoured.at/the-era-of-the-business-idiot/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-05-21, 04:56:44",
-      "https://news.ycombinator.com/item?id=44048420"
+      "2025-05-19, 12:23:39",
+      "https://news.ycombinator.com/item?id=44029057"
     ],
     [
-      "Goethe's Faustian Life",
-      "https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography"
-    ]
-  ],
-  [
-    [
-      "2025-05-20, 17:46:36",
-      "https://news.ycombinator.com/item?id=44044043"
-    ],
-    [
-      "Veo 3 and Imagen 4, and a new tool for filmmaking called Flow",
-      "https://blog.google/technology/ai/generative-media-models-io-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 07:48:22",
-      "https://news.ycombinator.com/item?id=44027424"
-    ],
-    [
-      "Link Time Optimizations: New Way to Do Compiler Optimizations",
-      "https://johnnysswlab.com/link-time-optimizations-new-way-to-do-compiler-optimizations/"
+      "Show HN: Appwrite Sites – the open-source vercel alternative",
+      "https://appwrite.io/blog/post/announcing-appwrite-sites"
     ]
   ],
   [
