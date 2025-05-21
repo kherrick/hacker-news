@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-21, 10:57:08](https://news.ycombinator.com/item?id=44050152) - [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
-* [2025-05-21, 10:07:00](https://news.ycombinator.com/item?id=44049909) - [EU startups fail because their press refuses to hype them up](https://twitter.com/RnaudBertrand/status/1925029185052917791)
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
 * [2025-05-21, 04:35:21](https://news.ycombinator.com/item?id=44048306) - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
 * [2025-05-21, 02:13:50](https://news.ycombinator.com/item?id=44047693) - [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
 * [2025-05-20, 22:29:12](https://news.ycombinator.com/item?id=44046578) - [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
+* [2025-05-20, 21:49:36](https://news.ycombinator.com/item?id=44046277) - [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 18:30:18](https://news.ycombinator.com/item?id=44044459) - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
 * [2025-05-20, 18:14:02](https://news.ycombinator.com/item?id=44044306) - [Red Programming Language](https://www.red-lang.org/p/about.html)
