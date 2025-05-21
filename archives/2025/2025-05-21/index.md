@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 20:21:06](https://news.ycombinator.com/item?id=44055895) - [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
+* [2025-05-21, 20:10:01](https://news.ycombinator.com/item?id=44055771) - [It's So Over, We're So Back – Doomer Techno Optimism](https://americanaffairsjournal.org/2025/05/its-so-over-were-so-back-doomer-techno-optimism/)
 * [2025-05-21, 19:50:37](https://news.ycombinator.com/item?id=44055542) - [Show HN: I've built online video editor](https://clipjs.vercel.app/)
 * [2025-05-21, 19:37:39](https://news.ycombinator.com/item?id=44055389) - [Newfound Mechanism Rewires Cellular Energy Processing for Drastic Weight Loss](https://nyulangone.org/news/newfound-mechanism-rewires-cellular-energy-processing-drastic-weight-loss)
 * [2025-05-21, 19:34:20](https://news.ycombinator.com/item?id=44055347) - [For Algorithms, a Little Memory Outweighs a Lot of Time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
