@@ -19,6 +19,7 @@
 * [2025-05-19, 18:23:45](https://news.ycombinator.com/item?id=44033009) - [Show HN: A native Hacker News reader with integrated todo/done tracking](https://github.com/haojiang99/hacker_news_reader)
 * [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK – Anthropic](https://docs.anthropic.com/en/docs/claude-code/sdk)
 * [2025-05-19, 17:59:16](https://news.ycombinator.com/item?id=44032717) - [Microsoft's ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
+* [2025-05-19, 17:56:10](https://news.ycombinator.com/item?id=44032680) - [Writing into Uninitialized Buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
 * [2025-05-19, 17:43:32](https://news.ycombinator.com/item?id=44032510) - [So why *did* U.S. wages stagnate for 20 years?](https://www.noahpinion.blog/p/so-why-did-us-wages-stagnate-for)
 * [2025-05-19, 17:39:59](https://news.ycombinator.com/item?id=44032470) - [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
 * [2025-05-19, 17:15:22](https://news.ycombinator.com/item?id=44032124) - [Company Reminder for Everyone to Talk Nicely About the Giant Plagiarism Machine](https://www.mcsweeneys.net/articles/a-company-reminder-for-everyone-to-talk-nicely-about-the-giant-plagiarism-machine)
