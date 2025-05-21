@@ -12,6 +12,7 @@
 * [2025-05-18, 22:41:21](https://news.ycombinator.com/item?id=44024834) - [Using unwrap() in Rust is Okay (2022)](https://burntsushi.net/unwrap/)
 * [2025-05-18, 22:33:16](https://news.ycombinator.com/item?id=44024784) - [KDE is finally getting a native virtual machine manager called \"Karton\"](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
 * [2025-05-18, 22:27:07](https://news.ycombinator.com/item?id=44024759) - [France Becomes First Government to Endorse UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
+* [2025-05-18, 20:59:18](https://news.ycombinator.com/item?id=44024278) - [London's Water Pumps: Where History Flows Freely](https://londonist.com/london/features/london-s-water-pump)
 * [2025-05-18, 20:41:51](https://news.ycombinator.com/item?id=44024173) - [Hyper Typing](https://pscanf.com/s/341/)
 * [2025-05-18, 20:22:33](https://news.ycombinator.com/item?id=44024055) - [Show HN: Python Simulator of David Deutsch’s \"Constructor Theory of Time\"](https://github.com/gvelesandro/constructor-theory-simulator)
 * [2025-05-18, 19:16:41](https://news.ycombinator.com/item?id=44023680) - [K-Scale Labs: Open-source humanoid robots, built for developers](https://www.kscale.dev/)
