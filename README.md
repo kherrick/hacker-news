@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-21, 09:19:30](https://news.ycombinator.com/item?id=44049677) - [Ask HN: Generate LLM hallucination to detect students cheating](https://news.ycombinator.com/item?id=44049677)
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
 * [2025-05-21, 04:35:21](https://news.ycombinator.com/item?id=44048306) - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
 * [2025-05-21, 02:13:50](https://news.ycombinator.com/item?id=44047693) - [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
@@ -20,6 +19,7 @@
 * [2025-05-20, 13:15:52](https://news.ycombinator.com/item?id=44041255) - [Clojuring the web application stack: Meditation One](https://www.evalapply.org/posts/clojure-web-app-from-scratch/index.html)
 * [2025-05-20, 11:42:24](https://news.ycombinator.com/item?id=44040407) - [Why does the U.S. always run a trade deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
 * [2025-05-20, 10:07:55](https://news.ycombinator.com/item?id=44039808) - [AI's energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
+* [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-19, 17:56:10](https://news.ycombinator.com/item?id=44032680) - [Writing into Uninitialized Buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists find proof of sweeping language pattern once deemed a 'hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
 * [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [What makes a good engineer also makes a good engineering organization (2024)](https://moxie.org/2024/09/23/a-good-engineer.html)
