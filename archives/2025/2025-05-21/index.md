@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 14:51:38](https://news.ycombinator.com/item?id=44052106) - [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
 * [2025-05-21, 14:45:38](https://news.ycombinator.com/item?id=44052041) - [Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)](https://arxiv.org/abs/2502.00627)
 * [2025-05-21, 14:39:37](https://news.ycombinator.com/item?id=44051958) - [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
+* [2025-05-21, 14:23:05](https://news.ycombinator.com/item?id=44051755) - [Ask HN: How do you promote your personal project in limited bugget?](https://news.ycombinator.com/item?id=44051755)
 * [2025-05-21, 14:11:33](https://news.ycombinator.com/item?id=44051652) - ['Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/)
 * [2025-05-21, 13:20:30](https://news.ycombinator.com/item?id=44051162) - [We Should Let a Lottery Decide Our Government (2019)](https://thewalrus.ca/why-we-should-let-a-lottery-decide-our-government/)
 * [2025-05-21, 13:20:15](https://news.ycombinator.com/item?id=44051159) - [Why walking is the most underrated form of exercise (2017)](https://www.nbcnews.com/better/health/why-walking-most-underrated-form-exercise-ncna797271)
@@ -19,6 +21,7 @@
 * [2025-05-21, 09:19:30](https://news.ycombinator.com/item?id=44049677) - [Ask HN: Generate LLM hallucination to detect students cheating](https://news.ycombinator.com/item?id=44049677)
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
 * [2025-05-21, 05:22:24](https://news.ycombinator.com/item?id=44048518) - [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
+* [2025-05-21, 04:56:44](https://news.ycombinator.com/item?id=44048420) - [Goethe's Faustian Life](https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography)
 * [2025-05-21, 04:44:56](https://news.ycombinator.com/item?id=44048366) - [Show HN: Lipu sona – Toki Pona Learn the language of simplicity](https://sekor.eu.org/lipusona/)
 * [2025-05-21, 04:35:21](https://news.ycombinator.com/item?id=44048306) - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
 * [2025-05-21, 03:42:29](https://news.ycombinator.com/item?id=44048069) - [The Future of Junior Software Engineering Roles](https://adventuresincoding.substack.com/p/the-future-of-junior-software-engineering)
