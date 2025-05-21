@@ -48,6 +48,7 @@
 * [2025-05-18, 11:48:42](https://news.ycombinator.com/item?id=44020626) - [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
 * [2025-05-18, 11:42:19](https://news.ycombinator.com/item?id=44020591) - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
 * [2025-05-18, 11:39:07](https://news.ycombinator.com/item?id=44020574) - [The Conquest of Hell Gate [pdf]](https://www.nan.usace.army.mil/portals/37/docs/history/hellgate.pdf)
+* [2025-05-18, 11:28:45](https://news.ycombinator.com/item?id=44020526) - [GPS Needs to Toughen Up, or Get Trampled Down](https://aviationweek.com/business-aviation/safety-ops-regulation/gps-needs-toughen-or-get-trampled-down)
 * [2025-05-18, 11:12:16](https://news.ycombinator.com/item?id=44020469) - [State of the Art PFAS [pdf]](https://iplo.nl/publish/pages/235260/state-of-the-art-pfas.pdf)
 * [2025-05-18, 10:38:12](https://news.ycombinator.com/item?id=44020356) - [Crypto has become the ultimate swamp asset](https://www.economist.com/leaders/2025/05/15/crypto-has-become-the-ultimate-swamp-asset)
 * [2025-05-18, 10:25:54](https://news.ycombinator.com/item?id=44020315) - [Paper Mechanisms](https://cutfoldtemplates.com)
