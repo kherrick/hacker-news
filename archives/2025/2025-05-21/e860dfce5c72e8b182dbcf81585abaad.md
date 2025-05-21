@@ -1,0 +1,3 @@
+# [Published on 2025-05-21](index.md)
+
+* [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://webcomponents.shopify.dev/)

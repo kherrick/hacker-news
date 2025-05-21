@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://webcomponents.shopify.dev/)
 * [2025-05-21, 17:05:45](https://news.ycombinator.com/item?id=44053560) - [Collaborative Text Editing Without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
 * [2025-05-21, 17:01:35](https://news.ycombinator.com/item?id=44053518) - [OpenAI to Buy AI Startup from Apple Veteran Jony Ive in $6.5B Deal](https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal)
 * [2025-05-21, 17:00:50](https://news.ycombinator.com/item?id=44053506) - [Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist](https://www.ycombinator.com/companies/harper/jobs)
+* [2025-05-21, 16:43:19](https://news.ycombinator.com/item?id=44053328) - [The Era of the Business Idiot](https://www.wheresyoured.at/the-era-of-the-business-idiot/)
 * [2025-05-21, 16:21:46](https://news.ycombinator.com/item?id=44053119) - [Ask HN: How to Make Friendster Great?](https://news.ycombinator.com/item?id=44053119)
 * [2025-05-21, 16:10:06](https://news.ycombinator.com/item?id=44052984) - [Introducing the Llama Startup Program](https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1)
 * [2025-05-21, 16:03:36](https://news.ycombinator.com/item?id=44052909) - [Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/)
