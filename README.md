@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-21, 02:29:47](https://news.ycombinator.com/item?id=44047775) - [Magnus Carlsen forced into a draw by more than 143000 people playing against him](https://apnews.com/article/chess-magnus-carlsen-match-world-freestyle-grandmaster-963a977765fa02d05a14d701666dfcd7)
 * [2025-05-21, 02:13:50](https://news.ycombinator.com/item?id=44047693) - [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
-* [2025-05-21, 01:38:04](https://news.ycombinator.com/item?id=44047530) - [Show HN: TitleBridge - A FinalCut Workflow Plugin](https://bustin.tech/apps/titlebridge/)
 * [2025-05-21, 00:46:12](https://news.ycombinator.com/item?id=44047307) - [Show HN: apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)
 * [2025-05-20, 23:33:27](https://news.ycombinator.com/item?id=44046955) - [The Value Isn't in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
 * [2025-05-20, 22:29:12](https://news.ycombinator.com/item?id=44046578) - [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
@@ -15,7 +13,9 @@
 * [2025-05-20, 17:46:36](https://news.ycombinator.com/item?id=44044043) - [Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
 * [2025-05-20, 17:04:00](https://news.ycombinator.com/item?id=44043687) - [The Dawn of Nvidia's Technology](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html)
 * [2025-05-20, 17:00:53](https://news.ycombinator.com/item?id=44043659) - [Ashby (YC W19) Is Hiring Engineering Managers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+* [2025-05-20, 16:32:58](https://news.ycombinator.com/item?id=44043421) - [Show HN: Juvio – UV Kernel for Jupyter](https://github.com/OKUA1/juvio)
 * [2025-05-20, 16:21:03](https://news.ycombinator.com/item?id=44043323) - [Robin: A multi-agent system for automating scientific discovery](https://arxiv.org/abs/2505.13400)
+* [2025-05-20, 15:57:01](https://news.ycombinator.com/item?id=44043045) - [GPU-Driven Clustered Forward Renderer](https://logdahl.net/p/gpu-driven)
 * [2025-05-20, 15:08:42](https://news.ycombinator.com/item?id=44042490) - [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
 * [2025-05-20, 14:58:03](https://news.ycombinator.com/item?id=44042371) - [Show HN: 90s.dev – Game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
 * [2025-05-20, 13:54:54](https://news.ycombinator.com/item?id=44041738) - [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
