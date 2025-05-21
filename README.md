@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-21, 16:03:36](https://news.ycombinator.com/item?id=44052909) - [Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/)
+* [2025-05-21, 15:49:15](https://news.ycombinator.com/item?id=44052766) - [Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows](https://news.ycombinator.com/item?id=44052766)
+* [2025-05-21, 15:46:45](https://news.ycombinator.com/item?id=44052738) - [Show HN: Evolved.lua – An Evolved Entity Component System for Lua](https://github.com/BlackMATov/evolved.lua)
 * [2025-05-21, 15:17:38](https://news.ycombinator.com/item?id=44052424) - [New tools and features in the Responses API](https://openai.com/index/new-tools-and-features-in-the-responses-api)
 * [2025-05-21, 14:51:38](https://news.ycombinator.com/item?id=44052106) - [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
 * [2025-05-21, 14:45:38](https://news.ycombinator.com/item?id=44052041) - [Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)](https://arxiv.org/abs/2502.00627)
@@ -12,11 +15,9 @@
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
 * [2025-05-21, 04:56:44](https://news.ycombinator.com/item?id=44048420) - [Goethe's Faustian Life](https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography)
 * [2025-05-21, 04:35:21](https://news.ycombinator.com/item?id=44048306) - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
-* [2025-05-21, 02:13:50](https://news.ycombinator.com/item?id=44047693) - [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
 * [2025-05-20, 22:29:12](https://news.ycombinator.com/item?id=44046578) - [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 18:30:18](https://news.ycombinator.com/item?id=44044459) - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
-* [2025-05-20, 18:14:02](https://news.ycombinator.com/item?id=44044306) - [Red Programming Language](https://www.red-lang.org/p/about.html)
 * [2025-05-20, 18:03:32](https://news.ycombinator.com/item?id=44044199) - [Gemma 3n preview: Mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
 * [2025-05-20, 17:46:36](https://news.ycombinator.com/item?id=44044043) - [Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
 * [2025-05-20, 14:58:03](https://news.ycombinator.com/item?id=44042371) - [Show HN: 90s.dev – Game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
@@ -25,11 +26,10 @@
 * [2025-05-20, 11:42:24](https://news.ycombinator.com/item?id=44040407) - [Why does the U.S. always run a trade deficit?](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/)
 * [2025-05-20, 10:07:55](https://news.ycombinator.com/item?id=44039808) - [AI's energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
 * [2025-05-19, 17:56:10](https://news.ycombinator.com/item?id=44032680) - [Writing into Uninitialized Buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
+* [2025-05-19, 07:48:22](https://news.ycombinator.com/item?id=44027424) - [Link Time Optimizations: New Way to Do Compiler Optimizations](https://johnnysswlab.com/link-time-optimizations-new-way-to-do-compiler-optimizations/)
 * [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [What makes a good engineer also makes a good engineering organization (2024)](https://moxie.org/2024/09/23/a-good-engineer.html)
 * [2025-05-18, 18:07:03](https://news.ycombinator.com/item?id=44023226) - [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
 * [2025-05-18, 11:28:45](https://news.ycombinator.com/item?id=44020526) - [GPS Needs to Toughen Up, or Get Trampled Down](https://aviationweek.com/business-aviation/safety-ops-regulation/gps-needs-toughen-or-get-trampled-down)
-* [2025-05-17, 16:59:48](https://news.ycombinator.com/item?id=44015564) - [Withnail and I (2001)](https://www.criterion.com/current/posts/122-withnail-and-i)
-* [2025-05-17, 02:53:34](https://news.ycombinator.com/item?id=44011686) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 
 ## [Archives](archives/index.md)
 

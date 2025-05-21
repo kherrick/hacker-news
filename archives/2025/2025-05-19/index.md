@@ -62,6 +62,7 @@
 * [2025-05-19, 08:55:24](https://news.ycombinator.com/item?id=44027768) - [Emulator Debugging: Area 5150's Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
 * [2025-05-19, 08:45:48](https://news.ycombinator.com/item?id=44027722) - [Seagate claims spinning disks beat SSDs on carbon footprint – Blocks and Files](https://blocksandfiles.com/2025/04/16/seagate-decarbonizing-data-report/)
 * [2025-05-19, 08:39:15](https://news.ycombinator.com/item?id=44027689) - [Oskar Kokoschka, Hermine Moos, and the Alma Mahler Doll](https://publicdomainreview.org/collection/alma-mahler-doll/)
+* [2025-05-19, 07:48:22](https://news.ycombinator.com/item?id=44027424) - [Link Time Optimizations: New Way to Do Compiler Optimizations](https://johnnysswlab.com/link-time-optimizations-new-way-to-do-compiler-optimizations/)
 * [2025-05-19, 07:40:24](https://news.ycombinator.com/item?id=44027379) - [What does the end of mathematics look like?](https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html)
 * [2025-05-19, 06:33:42](https://news.ycombinator.com/item?id=44027008) - [First successful demonstration of quantum error correction of qudits](https://phys.org/news/2025-05-successful-quantum-error-qudits.html)
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists Find Proof of Sweeping Language Pattern Once Deemed a 'Hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
