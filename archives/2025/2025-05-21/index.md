@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
 * [2025-05-21, 10:57:08](https://news.ycombinator.com/item?id=44050152) - [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
+* [2025-05-21, 10:07:00](https://news.ycombinator.com/item?id=44049909) - [EU startups fail because their press refuses to hype them up](https://twitter.com/RnaudBertrand/status/1925029185052917791)
 * [2025-05-21, 09:19:30](https://news.ycombinator.com/item?id=44049677) - [Ask HN: Generate LLM hallucination to detect students cheating](https://news.ycombinator.com/item?id=44049677)
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
 * [2025-05-21, 05:22:24](https://news.ycombinator.com/item?id=44048518) - [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
