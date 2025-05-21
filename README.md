@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-21, 21:00:11](https://news.ycombinator.com/item?id=44056280) - [Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
+* [2025-05-21, 20:40:58](https://news.ycombinator.com/item?id=44056104) - [Rocky Linux 10 Will Support RISC-V](https://rockylinux.org/news/rockylinux-support-for-riscv)
 * [2025-05-21, 20:21:06](https://news.ycombinator.com/item?id=44055895) - [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
 * [2025-05-21, 20:10:01](https://news.ycombinator.com/item?id=44055771) - [It’s So Over, We’re So Back: Doomer Techno-Optimism (2024)](https://americanaffairsjournal.org/2025/05/its-so-over-were-so-back-doomer-techno-optimism/)
 * [2025-05-21, 19:50:37](https://news.ycombinator.com/item?id=44055542) - [Show HN: I've built online video editor](https://clipjs.vercel.app/)
@@ -29,7 +30,6 @@
 * [2025-05-18, 18:34:12](https://news.ycombinator.com/item?id=44023400) - [What Is the Difference Between a Block, a Proc, and a Lambda in Ruby? (2013)](https://blog.awaxman.com/what-is-the-difference-between-a-block-a-proc-and-a-lambda-in-ruby)
 * [2025-05-18, 18:07:03](https://news.ycombinator.com/item?id=44023226) - [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
 * [2025-05-18, 17:03:55](https://news.ycombinator.com/item?id=44022736) - [Understanding the Go Scheduler](https://nghiant3223.github.io/2025/04/15/go-scheduler.html)
-* [2025-05-18, 01:03:47](https://news.ycombinator.com/item?id=44018193) - [A16Z Speedrun](https://speedrun.a16z.com)
 
 ## [Archives](archives/index.md)
 
