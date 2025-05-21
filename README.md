@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-21, 19:37:39](https://news.ycombinator.com/item?id=44055389) - [Newfound Mechanism Rewires Cellular Energy Processing for Drastic Weight Loss](https://nyulangone.org/news/newfound-mechanism-rewires-cellular-energy-processing-drastic-weight-loss)
+* [2025-05-21, 19:00:50](https://news.ycombinator.com/item?id=44054953) - [Ratatoi is a C libary that wraps stdlib's strtol (as atoi does), but it's evil.](https://github.com/rept0id/ratatoi)
 * [2025-05-21, 18:52:12](https://news.ycombinator.com/item?id=44054861) - [Show HN: Test your license plate identification skills](https://shub.club/games/good-or-bad-plate)
 * [2025-05-21, 18:45:18](https://news.ycombinator.com/item?id=44054775) - [The curious tale of Bhutan's playable record postage stamps (2015)](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
 * [2025-05-21, 18:38:21](https://news.ycombinator.com/item?id=44054690) - [All That Glitters](https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/)
@@ -7,7 +9,6 @@
 * [2025-05-21, 18:15:25](https://news.ycombinator.com/item?id=44054425) - [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
 * [2025-05-21, 17:53:40](https://news.ycombinator.com/item?id=44054185) - [An upgraded dev experience in Google AI Studio](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/)
 * [2025-05-21, 17:20:30](https://news.ycombinator.com/item?id=44053759) - [Python Tooling at Scale: LlamaIndex’s Monorepo Overhaul](https://www.llamaindex.ai/blog/python-tooling-at-scale-llamaindex-s-monorepo-overhaul)
-* [2025-05-21, 17:19:52](https://news.ycombinator.com/item?id=44053754) - [Show HN: Representing Agents as MCP Servers](https://github.com/lastmile-ai/mcp-agent/tree/main/examples/mcp_agent_server)
 * [2025-05-21, 17:18:52](https://news.ycombinator.com/item?id=44053744) - [LLM function calls don't scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
 * [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://shopify.dev/docs/api/storefront-web-components)
 * [2025-05-21, 17:05:45](https://news.ycombinator.com/item?id=44053560) - [Collaborative Text Editing Without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
@@ -15,7 +16,6 @@
 * [2025-05-21, 17:00:50](https://news.ycombinator.com/item?id=44053506) - [Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist](https://www.ycombinator.com/companies/harper/jobs)
 * [2025-05-21, 16:46:53](https://news.ycombinator.com/item?id=44053364) - [By Default, Signal Doesn't Recall](https://signal.org/blog/signal-doesnt-recall/)
 * [2025-05-21, 16:10:06](https://news.ycombinator.com/item?id=44052984) - [Introducing the Llama Startup Program](https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1)
-* [2025-05-21, 16:03:36](https://news.ycombinator.com/item?id=44052909) - [Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/)
 * [2025-05-21, 15:49:15](https://news.ycombinator.com/item?id=44052766) - [Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows](https://news.ycombinator.com/item?id=44052766)
 * [2025-05-21, 15:46:45](https://news.ycombinator.com/item?id=44052738) - [Show HN: Evolved.lua – An Evolved Entity Component System for Lua](https://github.com/BlackMATov/evolved.lua)
 * [2025-05-21, 15:19:02](https://news.ycombinator.com/item?id=44052439) - [Visualizing entire Chromium include graph](https://blog.bkryza.com/posts/visualizing-chromium-include-graph/)
