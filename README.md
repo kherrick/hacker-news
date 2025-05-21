@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-21, 04:35:21](https://news.ycombinator.com/item?id=44048306) - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
 * [2025-05-21, 02:13:50](https://news.ycombinator.com/item?id=44047693) - [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
 * [2025-05-21, 00:46:12](https://news.ycombinator.com/item?id=44047307) - [Show HN: apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)
 * [2025-05-20, 23:33:27](https://news.ycombinator.com/item?id=44046955) - [The Value Isn't in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
 * [2025-05-20, 22:29:12](https://news.ycombinator.com/item?id=44046578) - [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
-* [2025-05-20, 22:25:56](https://news.ycombinator.com/item?id=44046559) - [Instagram Addiction](https://blog.greg.technology/2025/05/19/on-instagram-addiction.html)
 * [2025-05-20, 21:49:36](https://news.ycombinator.com/item?id=44046277) - [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 18:30:18](https://news.ycombinator.com/item?id=44044459) - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
