@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-21, 21:18:07",
+      "https://news.ycombinator.com/item?id=44056407"
+    ],
+    [
+      "The Machine Stops (1909)",
+      "https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 21:00:11",
       "https://news.ycombinator.com/item?id=44056280"
     ],
@@ -37,6 +47,16 @@
     [
       "Show HN: I've built online video editor",
       "https://clipjs.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 19:48:26",
+      "https://news.ycombinator.com/item?id=44055520"
+    ],
+    [
+      "µPC: Scaling Predictive Coding to 100 Layer Networks",
+      "https://arxiv.org/abs/2505.13124"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "An upgraded dev experience in Google AI Studio",
       "https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 17:19:52",
-      "https://news.ycombinator.com/item?id=44053754"
-    ],
-    [
-      "Show HN: Representing Agents as MCP Servers",
-      "https://github.com/lastmile-ai/mcp-agent/tree/main/examples/mcp_agent_server"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "What Is the Difference Between a Block, a Proc, and a Lambda in Ruby? (2013)",
       "https://blog.awaxman.com/what-is-the-difference-between-a-block-a-proc-and-a-lambda-in-ruby"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 18:07:03",
-      "https://news.ycombinator.com/item?id=44023226"
-    ],
-    [
-      "Building my own solar power system",
-      "https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b"
     ]
   ],
   [
