@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-21, 21:18:07](https://news.ycombinator.com/item?id=44056407) - [The Machine Stops (1909)](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
 * [2025-05-21, 21:00:11](https://news.ycombinator.com/item?id=44056280) - [Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
 * [2025-05-21, 20:40:58](https://news.ycombinator.com/item?id=44056104) - [Rocky Linux 10 Will Support RISC-V](https://rockylinux.org/news/rockylinux-support-for-riscv)
 * [2025-05-21, 20:21:06](https://news.ycombinator.com/item?id=44055895) - [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
 * [2025-05-21, 19:50:37](https://news.ycombinator.com/item?id=44055542) - [Show HN: I've built online video editor](https://clipjs.vercel.app/)
+* [2025-05-21, 19:48:26](https://news.ycombinator.com/item?id=44055520) - [µPC: Scaling Predictive Coding to 100 Layer Networks](https://arxiv.org/abs/2505.13124)
 * [2025-05-21, 19:34:20](https://news.ycombinator.com/item?id=44055347) - [For algorithms, a little memory outweighs a lot of time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
 * [2025-05-21, 19:00:50](https://news.ycombinator.com/item?id=44054953) - [Ratatoi is a C libary that wraps stdlib's strtol (as atoi does), but it's evil.](https://github.com/rept0id/ratatoi)
 * [2025-05-21, 18:45:18](https://news.ycombinator.com/item?id=44054775) - [The curious tale of Bhutan's playable record postage stamps (2015)](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
@@ -11,7 +13,6 @@
 * [2025-05-21, 18:32:24](https://news.ycombinator.com/item?id=44054620) - [Possible new dwarf planet found in our solar system](https://www.minorplanetcenter.net/mpec/K25/K25K47.html)
 * [2025-05-21, 18:15:25](https://news.ycombinator.com/item?id=44054425) - [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
 * [2025-05-21, 17:53:40](https://news.ycombinator.com/item?id=44054185) - [An upgraded dev experience in Google AI Studio](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/)
-* [2025-05-21, 17:19:52](https://news.ycombinator.com/item?id=44053754) - [Show HN: Representing Agents as MCP Servers](https://github.com/lastmile-ai/mcp-agent/tree/main/examples/mcp_agent_server)
 * [2025-05-21, 17:18:52](https://news.ycombinator.com/item?id=44053744) - [LLM function calls don't scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
 * [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://shopify.dev/docs/api/storefront-web-components)
 * [2025-05-21, 17:05:45](https://news.ycombinator.com/item?id=44053560) - [Collaborative Text Editing Without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
@@ -28,7 +29,6 @@
 * [2025-05-21, 14:11:33](https://news.ycombinator.com/item?id=44051652) - ['Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/)
 * [2025-05-19, 10:33:02](https://news.ycombinator.com/item?id=44028286) - [How we made iText's table rendering faster](https://kb.itextpdf.com/itext/how-i-made-pdf-table-rendering-faster)
 * [2025-05-18, 18:34:12](https://news.ycombinator.com/item?id=44023400) - [What Is the Difference Between a Block, a Proc, and a Lambda in Ruby? (2013)](https://blog.awaxman.com/what-is-the-difference-between-a-block-a-proc-and-a-lambda-in-ruby)
-* [2025-05-18, 18:07:03](https://news.ycombinator.com/item?id=44023226) - [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
 * [2025-05-18, 17:03:55](https://news.ycombinator.com/item?id=44022736) - [Understanding the Go Scheduler](https://nghiant3223.github.io/2025/04/15/go-scheduler.html)
 
 ## [Archives](archives/index.md)
