@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 09:19:30](https://news.ycombinator.com/item?id=44049677) - [Ask HN: Generate LLM hallucination to detect students cheating](https://news.ycombinator.com/item?id=44049677)
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
 * [2025-05-21, 05:22:24](https://news.ycombinator.com/item?id=44048518) - [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
 * [2025-05-21, 04:44:56](https://news.ycombinator.com/item?id=44048366) - [Show HN: Lipu sona – Toki Pona Learn the language of simplicity](https://sekor.eu.org/lipusona/)
