@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-05-21, 19:00:50",
-      "https://news.ycombinator.com/item?id=44054953"
-    ],
-    [
-      "Ratatoi is a C libary that wraps stdlib's strtol (as atoi does), but it's evil.",
-      "https://github.com/rept0id/ratatoi"
-    ]
-  ],
-  [
-    [
       "2025-05-21, 18:45:18",
       "https://news.ycombinator.com/item?id=44054775"
     ],
@@ -207,6 +197,16 @@
     [
       "Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows",
       "https://news.ycombinator.com/item?id=44052766"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 15:19:02",
+      "https://news.ycombinator.com/item?id=44052439"
+    ],
+    [
+      "Visualizing entire Chromium include graph",
+      "https://blog.bkryza.com/posts/visualizing-chromium-include-graph/"
     ]
   ],
   [
