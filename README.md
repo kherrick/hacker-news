@@ -24,10 +24,10 @@
 * [2025-05-20, 10:07:55](https://news.ycombinator.com/item?id=44039808) - [AI's energy footprint](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
 * [2025-05-19, 17:56:10](https://news.ycombinator.com/item?id=44032680) - [Writing into Uninitialized Buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists find proof of sweeping language pattern once deemed a 'hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
-* [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [Magic of software; what makes a good engineer also makes a good engineering org](https://moxie.org/2024/09/23/a-good-engineer.html)
+* [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [Magic of software; what makes a good engineer also makes a good engineering org (2024)](https://moxie.org/2024/09/23/a-good-engineer.html)
 * [2025-05-18, 18:07:03](https://news.ycombinator.com/item?id=44023226) - [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
 * [2025-05-18, 14:55:06](https://news.ycombinator.com/item?id=44021841) - [Taito-tastic: Kiki Kaikai and its Hardware](https://nicole.express/2025/pocky-but-wheres-rocky.html)
-* [2025-05-17, 21:27:40](https://news.ycombinator.com/item?id=44017098) - [Gail Wellington, former Commodore executive, has died](https://www.legacy.com/us/obituaries/name/gail-wellington-obituary?id=58418580)
+* [2025-05-17, 16:59:48](https://news.ycombinator.com/item?id=44015564) - [Withnail and I (2001)](https://www.criterion.com/current/posts/122-withnail-and-i)
 * [2025-05-17, 07:02:46](https://news.ycombinator.com/item?id=44012549) - [Ask HN: Conversational AI to Learn a Language](https://news.ycombinator.com/item?id=44012549)
 * [2025-05-17, 02:53:34](https://news.ycombinator.com/item?id=44011686) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 

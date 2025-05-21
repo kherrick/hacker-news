@@ -31,6 +31,7 @@
 * [2025-05-17, 17:13:21](https://news.ycombinator.com/item?id=44015649) - [Show HN: I built a knife steel comparison tool](https://new.knife.day/blog/knife-steel-comparisons/all)
 * [2025-05-17, 17:10:04](https://news.ycombinator.com/item?id=44015632) - [Best open source LLMs for Enterprise](https://www.enterprisebot.ai/blog/the-best-open-source-llms-for-enterprise)
 * [2025-05-17, 17:07:33](https://news.ycombinator.com/item?id=44015614) - [Gnosis Evolve MCP for Claude Desktop](https://github.com/kordless/gnosis-evolve/blob/main/README.md)
+* [2025-05-17, 16:59:48](https://news.ycombinator.com/item?id=44015564) - [Withnail and I (2001)](https://www.criterion.com/current/posts/122-withnail-and-i)
 * [2025-05-17, 16:58:20](https://news.ycombinator.com/item?id=44015557) - [A Simulation in C++ of Joseph Weizenbaum's 1966 Eliza](https://github.com/anthay/ELIZA)
 * [2025-05-17, 16:49:21](https://news.ycombinator.com/item?id=44015515) - [Mr. Secretary, Reclassify the Statin](https://www.alexkesin.com/p/mr-secretary-reclassify-the-statin)
 * [2025-05-17, 16:26:44](https://news.ycombinator.com/item?id=44015367) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
