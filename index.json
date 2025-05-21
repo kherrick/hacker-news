@@ -61,22 +61,22 @@
   ],
   [
     [
+      "2025-05-21, 16:46:53",
+      "https://news.ycombinator.com/item?id=44053364"
+    ],
+    [
+      "By Default, Signal Doesn't Recall",
+      "https://signal.org/blog/signal-doesnt-recall/"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 16:43:19",
       "https://news.ycombinator.com/item?id=44053328"
     ],
     [
       "The Era of the Business Idiot",
       "https://www.wheresyoured.at/the-era-of-the-business-idiot/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 16:21:46",
-      "https://news.ycombinator.com/item?id=44053119"
-    ],
-    [
-      "Ask HN: How to Make Friendster Great?",
-      "https://news.ycombinator.com/item?id=44053119"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-05-21, 15:19:02",
+      "https://news.ycombinator.com/item?id=44052439"
+    ],
+    [
+      "Visualizing entire Chromium include graph",
+      "https://blog.bkryza.com/posts/visualizing-chromium-include-graph/"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 15:17:38",
       "https://news.ycombinator.com/item?id=44052424"
     ],
@@ -147,16 +157,6 @@
     [
       "Lune: Standalone Luau Runtime",
       "https://github.com/lune-org/lune"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 14:45:38",
-      "https://news.ycombinator.com/item?id=44052041"
-    ],
-    [
-      "Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)",
-      "https://arxiv.org/abs/2502.00627"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Goethe's Faustian Life",
       "https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 04:35:21",
-      "https://news.ycombinator.com/item?id=44048306"
-    ],
-    [
-      "Convolutions, Polynomials and Flipped Kernels",
-      "https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Building my own solar power system",
       "https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 17:03:55",
+      "https://news.ycombinator.com/item?id=44022736"
+    ],
+    [
+      "Understanding the Go Scheduler",
+      "https://nghiant3223.github.io/2025/04/15/go-scheduler.html"
     ]
   ]
 ]
