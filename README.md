@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-21, 20:21:06](https://news.ycombinator.com/item?id=44055895) - [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
-* [2025-05-21, 20:10:01](https://news.ycombinator.com/item?id=44055771) - [It's So Over, We're So Back – Doomer Techno Optimism](https://americanaffairsjournal.org/2025/05/its-so-over-were-so-back-doomer-techno-optimism/)
+* [2025-05-21, 20:10:01](https://news.ycombinator.com/item?id=44055771) - [It’s So Over, We’re So Back: Doomer Techno-Optimism (2024)](https://americanaffairsjournal.org/2025/05/its-so-over-were-so-back-doomer-techno-optimism/)
 * [2025-05-21, 19:50:37](https://news.ycombinator.com/item?id=44055542) - [Show HN: I've built online video editor](https://clipjs.vercel.app/)
 * [2025-05-21, 19:34:20](https://news.ycombinator.com/item?id=44055347) - [For algorithms, a little memory outweighs a lot of time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
 * [2025-05-21, 19:00:50](https://news.ycombinator.com/item?id=44054953) - [Ratatoi is a C libary that wraps stdlib's strtol (as atoi does), but it's evil.](https://github.com/rept0id/ratatoi)
