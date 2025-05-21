@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 17:05:45](https://news.ycombinator.com/item?id=44053560) - [Collaborative Text Editing Without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
 * [2025-05-21, 17:01:35](https://news.ycombinator.com/item?id=44053518) - [OpenAI to Buy AI Startup from Apple Veteran Jony Ive in $6.5B Deal](https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal)
 * [2025-05-21, 17:00:50](https://news.ycombinator.com/item?id=44053506) - [Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist](https://www.ycombinator.com/companies/harper/jobs)
 * [2025-05-21, 16:21:46](https://news.ycombinator.com/item?id=44053119) - [Ask HN: How to Make Friendster Great?](https://news.ycombinator.com/item?id=44053119)
@@ -12,11 +13,13 @@
 * [2025-05-21, 15:49:15](https://news.ycombinator.com/item?id=44052766) - [Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows](https://news.ycombinator.com/item?id=44052766)
 * [2025-05-21, 15:46:45](https://news.ycombinator.com/item?id=44052738) - [Show HN: Evolved.lua – An Evolved Entity Component System for Lua](https://github.com/BlackMATov/evolved.lua)
 * [2025-05-21, 15:17:38](https://news.ycombinator.com/item?id=44052424) - [New tools and features in the Responses API](https://openai.com/index/new-tools-and-features-in-the-responses-api)
+* [2025-05-21, 15:17:10](https://news.ycombinator.com/item?id=44052418) - [The US has a new most powerful laser hitting 2 petawatts](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/)
 * [2025-05-21, 14:51:38](https://news.ycombinator.com/item?id=44052106) - [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
 * [2025-05-21, 14:45:38](https://news.ycombinator.com/item?id=44052041) - [Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)](https://arxiv.org/abs/2502.00627)
 * [2025-05-21, 14:43:09](https://news.ycombinator.com/item?id=44052010) - [Show HN: Trendly AI – Trend detection across 42 languages](https://trendlyai.com/)
 * [2025-05-21, 14:39:37](https://news.ycombinator.com/item?id=44051958) - [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
 * [2025-05-21, 14:23:05](https://news.ycombinator.com/item?id=44051755) - [Ask HN: How do you promote your personal project in limited bugget?](https://news.ycombinator.com/item?id=44051755)
+* [2025-05-21, 14:21:10](https://news.ycombinator.com/item?id=44051733) - [Devstral](https://mistral.ai/news/devstral)
 * [2025-05-21, 14:11:33](https://news.ycombinator.com/item?id=44051652) - ['Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/)
 * [2025-05-21, 13:20:30](https://news.ycombinator.com/item?id=44051162) - [We Should Let a Lottery Decide Our Government (2019)](https://thewalrus.ca/why-we-should-let-a-lottery-decide-our-government/)
 * [2025-05-21, 13:20:15](https://news.ycombinator.com/item?id=44051159) - [Why walking is the most underrated form of exercise (2017)](https://www.nbcnews.com/better/health/why-walking-most-underrated-form-exercise-ncna797271)
