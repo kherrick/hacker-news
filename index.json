@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-05-22, 20:23:07",
-      "https://news.ycombinator.com/item?id=44066460"
+      "2025-05-22, 20:41:14",
+      "https://news.ycombinator.com/item?id=44066713"
     ],
     [
-      "It's So Over",
-      "https://itssoover.online/"
+      "Trade Secrecy in Willy Wonka's Chocolate Factory (2009)",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-05-22, 17:16:25",
-      "https://news.ycombinator.com/item?id=44064230"
-    ],
-    [
-      "We’ll be ending web hosting for your apps on Glitch",
-      "https://blog.glitch.com/post/changes-are-coming-to-glitch/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 17:00:32",
       "https://news.ycombinator.com/item?id=44064057"
     ],
@@ -157,6 +147,16 @@
     [
       "That fractal that's been up on my wall for 12 years",
       "https://chriskw.xyz/2025/05/21/Fractal/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 15:30:24",
+      "https://news.ycombinator.com/item?id=44063051"
+    ],
+    [
+      "Near-infrared spatiotemporal color vision enabled by upconversion contact lenses",
+      "https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-05-19, 07:17:50",
+      "https://news.ycombinator.com/item?id=44027229"
+    ],
+    [
+      "When good pseudorandom numbers go bad",
+      "https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 03:44:30",
       "https://news.ycombinator.com/item?id=44026364"
     ],
     [
       "Four years of sight reading practice",
       "https://sandrock.co.za/carl/2025/05/four-years-of-sight-reading-pracice/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 02:11:12",
-      "https://news.ycombinator.com/item?id=44025979"
-    ],
-    [
-      "Poireau: A Sampling Allocation Debugger",
-      "https://github.com/backtrace-labs/poireau"
     ]
   ],
   [
