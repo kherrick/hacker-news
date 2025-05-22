@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-05-22, 01:19:41",
+      "https://news.ycombinator.com/item?id=44057841"
+    ],
+    [
+      "Getting a paper accepted",
+      "https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 01:13:50",
+      "https://news.ycombinator.com/item?id=44057820"
+    ],
+    [
+      "Gemini Diffusion",
+      "https://simonwillison.net/2025/May/21/gemini-diffusion/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 01:00:09",
+      "https://news.ycombinator.com/item?id=44057752"
+    ],
+    [
+      "How AppHarvest’s indoor farming scheme imploded (2023)",
+      "https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 00:31:01",
       "https://news.ycombinator.com/item?id=44057612"
     ],
     [
-      "Display any CSV file as a searchable, filterable, pretty HTML table",
+      "Show HN: Display any CSV file as a searchable, filterable, pretty HTML table",
       "https://github.com/derekeder/csv-to-html-table"
     ]
   ],
@@ -17,16 +47,6 @@
     [
       "Tales from Mainframe Modernization",
       "https://oppi.li/posts/tales_from_mainframe_modernization/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 23:17:29",
-      "https://news.ycombinator.com/item?id=44057219"
-    ],
-    [
-      "Should I Block ICMP?",
-      "http://shouldiblockicmp.com/"
     ]
   ],
   [
@@ -95,18 +115,8 @@
       "https://news.ycombinator.com/item?id=44055542"
     ],
     [
-      "Show HN: I've built online video editor",
+      "Show HN: ClipJS – Edit your videos from a PC or phone",
       "https://clipjs.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 19:48:26",
-      "https://news.ycombinator.com/item?id=44055520"
-    ],
-    [
-      "µPC: Scaling Predictive Coding to 100 Layer Networks",
-      "https://arxiv.org/abs/2505.13124"
     ]
   ],
   [
@@ -127,6 +137,16 @@
     [
       "The curious tale of Bhutan's playable record postage stamps (2015)",
       "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 18:32:24",
+      "https://news.ycombinator.com/item?id=44054620"
+    ],
+    [
+      "Possible new dwarf planet found in our solar system",
+      "https://www.minorplanetcenter.net/mpec/K25/K25K47.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-05-21, 16:46:53",
-      "https://news.ycombinator.com/item?id=44053364"
-    ],
-    [
-      "By default, Signal doesn't recall",
-      "https://signal.org/blog/signal-doesnt-recall/"
-    ]
-  ],
-  [
-    [
       "2025-05-21, 16:10:06",
       "https://news.ycombinator.com/item?id=44052984"
     ],
@@ -201,21 +211,11 @@
   ],
   [
     [
-      "2025-05-21, 15:49:15",
-      "https://news.ycombinator.com/item?id=44052766"
-    ],
-    [
-      "Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows",
-      "https://news.ycombinator.com/item?id=44052766"
-    ]
-  ],
-  [
-    [
       "2025-05-21, 15:17:10",
       "https://news.ycombinator.com/item?id=44052418"
     ],
     [
-      "The US has a new most powerful laser hitting 2 petawatts",
+      "ZEUS – A new two-petawatt laser facility at the University of Michigan",
       "https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/"
     ]
   ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-05-21, 14:11:33",
-      "https://news.ycombinator.com/item?id=44051652"
+      "2025-05-19, 21:30:50",
+      "https://news.ycombinator.com/item?id=44035105"
     ],
     [
-      "'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys",
-      "https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/"
+      "Did Akira Nishitani Lie in the 1994 Capcom vs. Data East Lawsuit?",
+      "https://www.thrillingtalesofoldvideogames.com/blog/akira-nishitani-capcom-data-east-lawsuit"
     ]
   ],
   [
@@ -265,8 +265,18 @@
       "https://news.ycombinator.com/item?id=44028286"
     ],
     [
-      "How we made iText's table rendering faster",
+      "Making iText's table rendering faster",
       "https://kb.itextpdf.com/itext/how-i-made-pdf-table-rendering-faster"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 00:35:02",
+      "https://news.ycombinator.com/item?id=44025459"
+    ],
+    [
+      "Gemini figured out my nephew’s name",
+      "https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=44024278"
     ],
     [
-      "London's Water Pumps: Where History Flows Freely",
+      "London’s water pumps: Where strange history flows freely (2024)",
       "https://londonist.com/london/features/london-s-water-pump"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 18:34:12",
-      "https://news.ycombinator.com/item?id=44023400"
-    ],
-    [
-      "What Is the Difference Between a Block, a Proc, and a Lambda in Ruby? (2013)",
-      "https://blog.awaxman.com/what-is-the-difference-between-a-block-a-proc-and-a-lambda-in-ruby"
     ]
   ],
   [
