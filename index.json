@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-05-22, 17:00:32",
+      "https://news.ycombinator.com/item?id=44064057"
+    ],
+    [
+      "Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly",
+      "https://dockflow.appitstudio.com/"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 16:34:42",
       "https://news.ycombinator.com/item?id=44063703"
     ],
     [
       "Claude 4",
       "https://www.anthropic.com/news/claude-4"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 16:30:18",
+      "https://news.ycombinator.com/item?id=44063662"
+    ],
+    [
+      "Mozilla to shutdown Pocket on July 8, 2025",
+      "https://support.mozilla.org/en-US/kb/future-of-pocket"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Why I Built My Own Audio Player",
       "https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 14:03:37",
-      "https://news.ycombinator.com/item?id=44062176"
-    ],
-    [
-      "What Sam Altman told OpenAI about the device he's making with Jony Ive",
-      "https://www.wsj.com/tech/ai/what-sam-altman-told-openai-about-the-secret-device-hes-making-with-jony-ive-f1384005"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "How we made our OCR code more accurate",
       "https://pieces.app/blog/how-we-made-our-optical-character-recognition-ocr-code-more-accurate"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 21:33:03",
-      "https://news.ycombinator.com/item?id=44035125"
-    ],
-    [
-      "Hotspot: Linux `perf` GUI for performance analysis",
-      "https://github.com/KDAB/hotspot"
     ]
   ],
   [
