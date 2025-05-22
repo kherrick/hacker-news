@@ -74,6 +74,7 @@
 * [2025-05-19, 08:39:15](https://news.ycombinator.com/item?id=44027689) - [Oskar Kokoschka, Hermine Moos, and the Alma Mahler Doll](https://publicdomainreview.org/collection/alma-mahler-doll/)
 * [2025-05-19, 08:27:48](https://news.ycombinator.com/item?id=44027624) - [Google releases Material 3 Expressive, a more emotional UI design system](https://m3.material.io/blog/building-with-m3-expressive)
 * [2025-05-19, 07:48:22](https://news.ycombinator.com/item?id=44027424) - [Link Time Optimizations: New Way to Do Compiler Optimizations](https://johnnysswlab.com/link-time-optimizations-new-way-to-do-compiler-optimizations/)
+* [2025-05-19, 07:42:15](https://news.ycombinator.com/item?id=44027395) - [Show HN: Hsdlib – A C Library for Vector Similarity with SIMD Acceleration](https://news.ycombinator.com/item?id=44027395)
 * [2025-05-19, 07:40:24](https://news.ycombinator.com/item?id=44027379) - [What does the end of mathematics look like?](https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html)
 * [2025-05-19, 07:25:14](https://news.ycombinator.com/item?id=44027278) - [Show HN: Forge – Secure, Multi-Tenant GitHub Actions Runners on K8s or EC2](https://github.com/cisco-open/forge)
 * [2025-05-19, 07:17:50](https://news.ycombinator.com/item?id=44027229) - [When good pseudorandom numbers go bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
