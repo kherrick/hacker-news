@@ -26,10 +26,10 @@
 * [2025-05-21, 14:21:10](https://news.ycombinator.com/item?id=44051733) - [Devstral](https://mistral.ai/news/devstral)
 * [2025-05-19, 19:18:24](https://news.ycombinator.com/item?id=44033711) - [CERN gears up to ship antimatter across Europe](https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/)
 * [2025-05-19, 08:39:31](https://news.ycombinator.com/item?id=44027690) - [The Lost Decade of Small Data?](https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html)
-* [2025-05-19, 08:27:48](https://news.ycombinator.com/item?id=44027624) - [Google releases Material 3 Expressive, a more emotional UI design system](https://m3.material.io/blog/building-with-m3-expressive)
 * [2025-05-19, 00:35:02](https://news.ycombinator.com/item?id=44025459) - [Gemini figured out my nephew’s name](https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/)
 * [2025-05-18, 20:59:18](https://news.ycombinator.com/item?id=44024278) - [London’s water pumps: Where strange history flows freely (2024)](https://londonist.com/london/features/london-s-water-pump)
 * [2025-05-18, 17:03:55](https://news.ycombinator.com/item?id=44022736) - [Understanding the Go Scheduler](https://nghiant3223.github.io/2025/04/15/go-scheduler.html)
+* [2025-05-18, 09:32:39](https://news.ycombinator.com/item?id=44020107) - [Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene](https://iquilezles.org/articles/)
 
 ## [Archives](archives/index.md)
 
