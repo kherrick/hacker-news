@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 05:49:36](https://news.ycombinator.com/item?id=44059122) - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
 * [2025-05-22, 04:24:33](https://news.ycombinator.com/item?id=44058778) - [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 * [2025-05-22, 03:12:45](https://news.ycombinator.com/item?id=44058408) - [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)
 * [2025-05-22, 02:46:47](https://news.ycombinator.com/item?id=44058299) - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)

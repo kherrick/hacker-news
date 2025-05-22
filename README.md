@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-22, 05:49:36](https://news.ycombinator.com/item?id=44059122) - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
 * [2025-05-22, 04:24:33](https://news.ycombinator.com/item?id=44058778) - [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 * [2025-05-22, 02:46:47](https://news.ycombinator.com/item?id=44058299) - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 * [2025-05-22, 01:19:41](https://news.ycombinator.com/item?id=44057841) - [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
@@ -18,7 +19,6 @@
 * [2025-05-21, 18:32:24](https://news.ycombinator.com/item?id=44054620) - [Possible new dwarf planet found in our solar system](https://www.minorplanetcenter.net/mpec/K25/K25K47.html)
 * [2025-05-21, 17:53:40](https://news.ycombinator.com/item?id=44054185) - [An upgraded dev experience in Google AI Studio](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/)
 * [2025-05-21, 17:18:52](https://news.ycombinator.com/item?id=44053744) - [LLM function calls don't scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
-* [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://shopify.dev/docs/api/storefront-web-components)
 * [2025-05-21, 17:05:45](https://news.ycombinator.com/item?id=44053560) - [Collaborative Text Editing Without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
 * [2025-05-21, 17:01:35](https://news.ycombinator.com/item?id=44053518) - [OpenAI to buy AI startup from Jony Ive](https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal)
 * [2025-05-21, 15:17:10](https://news.ycombinator.com/item?id=44052418) - [ZEUS – A new two-petawatt laser facility at the University of Michigan](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/)
