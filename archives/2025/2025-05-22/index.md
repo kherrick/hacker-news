@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 15:50:16](https://news.ycombinator.com/item?id=44063248) - [That fractal that's been up on my wall for 12 years](https://chriskw.xyz/2025/05/21/Fractal/)
+* [2025-05-22, 15:39:49](https://news.ycombinator.com/item?id=44063141) - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
 * [2025-05-22, 15:23:40](https://news.ycombinator.com/item?id=44063000) - [Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts](https://news.ycombinator.com/item?id=44063000)
 * [2025-05-22, 15:15:27](https://news.ycombinator.com/item?id=44062919) - [Show HN: Whenish – Plan Group Events in iMessages](https://apps.apple.com/us/app/whenish/id6745035749)
+* [2025-05-22, 15:01:09](https://news.ycombinator.com/item?id=44062774) - [Social media platforms: what's wrong, and what's next](https://www.scottgoci.com/social-media-platforms-whats-wrong-and-whats-next/)
 * [2025-05-22, 14:46:07](https://news.ycombinator.com/item?id=44062627) - [Next Password Could Be Stored in Plastic](https://spectrum.ieee.org/plastic-data-storage)
 * [2025-05-22, 14:43:21](https://news.ycombinator.com/item?id=44062586) - [U.S. Spy Agencies–One-Stop Shop to Buy Your Personal Data](https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/)
 * [2025-05-22, 14:21:34](https://news.ycombinator.com/item?id=44062346) - [Show HN: Infinite Hagakure](https://hagakure.space)
