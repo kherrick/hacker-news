@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 17:02:50](https://news.ycombinator.com/item?id=44064085) - [Warning Signs Your App Authorization Is a Ticking Time Bomb](https://www.osohq.com/post/app-authorization-warning-signs)
 * [2025-05-22, 17:00:32](https://news.ycombinator.com/item?id=44064057) - [Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly](https://dockflow.appitstudio.com/)
 * [2025-05-22, 16:34:42](https://news.ycombinator.com/item?id=44063703) - [Claude 4](https://www.anthropic.com/news/claude-4)
 * [2025-05-22, 16:30:18](https://news.ycombinator.com/item?id=44063662) - [Mozilla to shutdown Pocket on July 8, 2025](https://support.mozilla.org/en-US/kb/future-of-pocket)
