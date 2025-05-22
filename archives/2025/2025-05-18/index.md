@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
 * [2025-05-18, 23:37:54](https://news.ycombinator.com/item?id=44025127) - [A New Headache for Honest Students: Proving They Didn't Use A.I](https://www.nytimes.com/2025/05/17/style/ai-chatgpt-turnitin-students-cheating.html)
+* [2025-05-18, 23:18:51](https://news.ycombinator.com/item?id=44025033) - [Ancient reptile footprints are rewriting the history of when animals evolved](https://apnews.com/article/oldest-reptile-footprints-australia-963e3c38c8d5782e7ac20f5405f15f89)
 * [2025-05-18, 23:15:57](https://news.ycombinator.com/item?id=44025022) - [California vanity license plate applications with reasons for rejection](https://github.com/veltman/ca-license-plates)
 * [2025-05-18, 22:55:26](https://news.ycombinator.com/item?id=44024919) - [Severed Fingers and 'Wrench Attacks' Rattle the Crypto Elite](https://www.wsj.com/finance/currencies/crypto-industry-robberies-attacks-32c2867a)
 * [2025-05-18, 22:47:17](https://news.ycombinator.com/item?id=44024870) - [An Efilist Just Bombed a Fertility Clinic. Was This Bound to Happen?](https://default.blog/p/an-efilist-just-bombed-a-fertility)
