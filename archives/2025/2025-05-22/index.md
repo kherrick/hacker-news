@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 03:12:45](https://news.ycombinator.com/item?id=44058408) - [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)
+* [2025-05-22, 02:46:47](https://news.ycombinator.com/item?id=44058299) - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 * [2025-05-22, 02:05:18](https://news.ycombinator.com/item?id=44058082) - [In the past year my illustration business has dropped more half](https://reverentgeek.com/ai-really-is-taking-my-job/)
 * [2025-05-22, 01:19:41](https://news.ycombinator.com/item?id=44057841) - [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
 * [2025-05-22, 01:13:50](https://news.ycombinator.com/item?id=44057820) - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
