@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-22, 03:12:45](https://news.ycombinator.com/item?id=44058408) - [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)
 * [2025-05-22, 02:46:47](https://news.ycombinator.com/item?id=44058299) - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 * [2025-05-22, 01:19:41](https://news.ycombinator.com/item?id=44057841) - [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
 * [2025-05-22, 01:13:50](https://news.ycombinator.com/item?id=44057820) - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
@@ -25,11 +24,12 @@
 * [2025-05-21, 15:17:10](https://news.ycombinator.com/item?id=44052418) - [ZEUS – A new two-petawatt laser facility at the University of Michigan](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/)
 * [2025-05-21, 14:39:37](https://news.ycombinator.com/item?id=44051958) - [Animated Factorization (2012)](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
 * [2025-05-21, 14:21:10](https://news.ycombinator.com/item?id=44051733) - [Devstral](https://mistral.ai/news/devstral)
-* [2025-05-19, 21:30:50](https://news.ycombinator.com/item?id=44035105) - [Did Akira Nishitani Lie in the 1994 Capcom vs. Data East Lawsuit?](https://www.thrillingtalesofoldvideogames.com/blog/akira-nishitani-capcom-data-east-lawsuit)
 * [2025-05-19, 19:18:24](https://news.ycombinator.com/item?id=44033711) - [CERN gears up to ship antimatter across Europe](https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/)
+* [2025-05-19, 08:39:31](https://news.ycombinator.com/item?id=44027690) - [The Lost Decade of Small Data?](https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html)
 * [2025-05-19, 08:27:48](https://news.ycombinator.com/item?id=44027624) - [Google releases Material 3 Expressive, a more emotional UI design system](https://m3.material.io/blog/building-with-m3-expressive)
 * [2025-05-19, 00:35:02](https://news.ycombinator.com/item?id=44025459) - [Gemini figured out my nephew’s name](https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/)
 * [2025-05-18, 20:59:18](https://news.ycombinator.com/item?id=44024278) - [London’s water pumps: Where strange history flows freely (2024)](https://londonist.com/london/features/london-s-water-pump)
+* [2025-05-18, 17:03:55](https://news.ycombinator.com/item?id=44022736) - [Understanding the Go Scheduler](https://nghiant3223.github.io/2025/04/15/go-scheduler.html)
 
 ## [Archives](archives/index.md)
 
