@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 22:53:45](https://news.ycombinator.com/item?id=44068028) - [Stargate and the AI Industrial Revolution](https://davefriedman.substack.com/p/stargate-and-the-ai-industrial-revolution)
+* [2025-05-22, 22:37:44](https://news.ycombinator.com/item?id=44067913) - [Faster Firewalls with Bpfilter](https://lwn.net/Articles/1017705/)
 * [2025-05-22, 22:20:00](https://news.ycombinator.com/item?id=44067767) - [\"Secret Mall Apartment,\" a Protest for Place](https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/)
 * [2025-05-22, 21:40:54](https://news.ycombinator.com/item?id=44067409) - [Show HN: Defuddle, an HTML-to-Markdown alternative to Readability](https://github.com/kepano/defuddle)
 * [2025-05-22, 20:41:14](https://news.ycombinator.com/item?id=44066713) - [Trade Secrecy in Willy Wonka's Chocolate Factory (2009)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463)
