@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-22, 00:31:01",
+      "https://news.ycombinator.com/item?id=44057612"
+    ],
+    [
+      "Display any CSV file as a searchable, filterable, pretty HTML table",
+      "https://github.com/derekeder/csv-to-html-table"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 00:01:46",
+      "https://news.ycombinator.com/item?id=44057467"
+    ],
+    [
+      "Tales from Mainframe Modernization",
+      "https://oppi.li/posts/tales_from_mainframe_modernization/"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 23:17:29",
       "https://news.ycombinator.com/item?id=44057219"
     ],
     [
       "Should I Block ICMP?",
       "http://shouldiblockicmp.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 22:50:10",
+      "https://news.ycombinator.com/item?id=44057044"
+    ],
+    [
+      "I have tinnitus. I don't recommend it",
+      "https://blog.greg.technology/2025/05/20/tinnitus.html"
     ]
   ],
   [
@@ -101,26 +131,6 @@
   ],
   [
     [
-      "2025-05-21, 18:32:24",
-      "https://news.ycombinator.com/item?id=44054620"
-    ],
-    [
-      "Possible new dwarf planet found in our solar system",
-      "https://www.minorplanetcenter.net/mpec/K25/K25K47.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 18:15:25",
-      "https://news.ycombinator.com/item?id=44054425"
-    ],
-    [
-      "Harnessing the Universal Geometry of Embeddings",
-      "https://arxiv.org/abs/2505.12540"
-    ]
-  ],
-  [
-    [
       "2025-05-21, 17:53:40",
       "https://news.ycombinator.com/item?id=44054185"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2025-05-21, 15:19:02",
-      "https://news.ycombinator.com/item?id=44052439"
-    ],
-    [
-      "Visualizing entire Chromium include graph",
-      "https://blog.bkryza.com/posts/visualizing-chromium-include-graph/"
-    ]
-  ],
-  [
-    [
       "2025-05-21, 15:17:10",
       "https://news.ycombinator.com/item?id=44052418"
     ],
     [
       "The US has a new most powerful laser hitting 2 petawatts",
       "https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 14:51:38",
-      "https://news.ycombinator.com/item?id=44052106"
-    ],
-    [
-      "Lune: Standalone Luau Runtime",
-      "https://github.com/lune-org/lune"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys",
       "https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 19:18:24",
+      "https://news.ycombinator.com/item?id=44033711"
+    ],
+    [
+      "CERN gears up to ship antimatter across Europe",
+      "https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/"
     ]
   ],
   [
