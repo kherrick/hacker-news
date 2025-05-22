@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-22, 17:02:50](https://news.ycombinator.com/item?id=44064085) - [Warning Signs Your App Authorization Is a Ticking Time Bomb](https://www.osohq.com/post/app-authorization-warning-signs)
+* [2025-05-22, 17:37:50](https://news.ycombinator.com/item?id=44064504) - [The \"AI 2027\" Scenario: How realistic is it?](https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic)
 * [2025-05-22, 17:00:32](https://news.ycombinator.com/item?id=44064057) - [Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly](https://dockflow.appitstudio.com/)
 * [2025-05-22, 16:34:42](https://news.ycombinator.com/item?id=44063703) - [Claude 4](https://www.anthropic.com/news/claude-4)
 * [2025-05-22, 16:30:18](https://news.ycombinator.com/item?id=44063662) - [Mozilla to shut down Pocket on July 8](https://support.mozilla.org/en-US/kb/future-of-pocket)
@@ -17,9 +17,9 @@
 * [2025-05-22, 13:25:33](https://news.ycombinator.com/item?id=44061836) - [Show HN: SQLite JavaScript - extend your database with JavaScript](https://github.com/sqliteai/sqlite-js)
 * [2025-05-22, 13:09:15](https://news.ycombinator.com/item?id=44061698) - [The Philosophy of Byung-Chul Han (2020)](https://newintrigue.com/2020/06/29/the-philosophy-of-byung-chul-han/)
 * [2025-05-22, 12:57:55](https://news.ycombinator.com/item?id=44061604) - [Free-Threaded Python Library Compatibility Checker](https://ft-checker.com/)
+* [2025-05-22, 12:31:48](https://news.ycombinator.com/item?id=44061414) - [Show HN: Pi Co-pilot – Evaluation of AI apps made easy](https://withpi.ai/)
 * [2025-05-22, 11:59:03](https://news.ycombinator.com/item?id=44061160) - [Improving performance of rav1d video decoder](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
 * [2025-05-22, 10:52:44](https://news.ycombinator.com/item?id=44060772) - [Show HN: Curved Space Shader in Three.js (via 4D sphere projection)](https://github.com/bntre/CurvedSpaceShader)
-* [2025-05-22, 10:10:09](https://news.ycombinator.com/item?id=44060533) - [Strengths and limitations of diffusion language models](https://www.seangoedecke.com/limitations-of-text-diffusion-models/)
 * [2025-05-22, 09:17:57](https://news.ycombinator.com/item?id=44060305) - [Planetfall](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/)
 * [2025-05-22, 04:24:33](https://news.ycombinator.com/item?id=44058778) - [The scientific “unit” we call the decibel](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 * [2025-05-22, 01:13:50](https://news.ycombinator.com/item?id=44057820) - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 17:37:50](https://news.ycombinator.com/item?id=44064504) - [The \"AI 2027\" Scenario: How realistic is it?](https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic)
 * [2025-05-22, 17:02:50](https://news.ycombinator.com/item?id=44064085) - [Warning Signs Your App Authorization Is a Ticking Time Bomb](https://www.osohq.com/post/app-authorization-warning-signs)
 * [2025-05-22, 17:00:32](https://news.ycombinator.com/item?id=44064057) - [Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly](https://dockflow.appitstudio.com/)
 * [2025-05-22, 16:34:42](https://news.ycombinator.com/item?id=44063703) - [Claude 4](https://www.anthropic.com/news/claude-4)
@@ -27,6 +28,7 @@
 * [2025-05-22, 13:15:24](https://news.ycombinator.com/item?id=44061751) - [Sorry, grads: Entry-level tech jobs are getting wiped out](https://sfstandard.com/2025/05/20/silicon-valley-white-collar-recession-entry-level/)
 * [2025-05-22, 13:09:15](https://news.ycombinator.com/item?id=44061698) - [The Philosophy of Byung-Chul Han (2020)](https://newintrigue.com/2020/06/29/the-philosophy-of-byung-chul-han/)
 * [2025-05-22, 12:57:55](https://news.ycombinator.com/item?id=44061604) - [Free-Threaded Python Library Compatibility Checker](https://ft-checker.com/)
+* [2025-05-22, 12:31:48](https://news.ycombinator.com/item?id=44061414) - [Show HN: Pi Co-pilot – Evaluation of AI apps made easy](https://withpi.ai/)
 * [2025-05-22, 11:59:03](https://news.ycombinator.com/item?id=44061160) - [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
 * [2025-05-22, 11:24:27](https://news.ycombinator.com/item?id=44060943) - [Robert Musil Forgotten Plays Inspired His Greatest Work of Fiction](https://lithub.com/the-austrian-writer-whose-forgotten-plays-inspired-his-greatest-work-of-fiction/)
 * [2025-05-22, 10:55:03](https://news.ycombinator.com/item?id=44060787) - [Microsoft blocks emails that contain 'Palestine' after employee protests](https://www.theverge.com/tech/672312/microsoft-block-palestine-gaza-email)
