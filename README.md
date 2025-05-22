@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-22, 10:55:03](https://news.ycombinator.com/item?id=44060787) - [Microsoft blocks emails that contain 'Palestine' after employee protests](https://www.theverge.com/tech/672312/microsoft-block-palestine-gaza-email)
 * [2025-05-22, 10:22:43](https://news.ycombinator.com/item?id=44060605) - [New #1 open-source AI Agent on SWE-bench Verified](https://refact.ai/blog/2025/open-source-sota-on-swe-bench-verified-refact-ai/)
 * [2025-05-22, 09:17:57](https://news.ycombinator.com/item?id=44060305) - [Planetfall](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/)
 * [2025-05-22, 09:17:32](https://news.ycombinator.com/item?id=44060302) - [Some Life Lessons from VAX/VMS (2013)](https://davewentzel.com/content/some-life-lessons-from-vax-vms/)
@@ -14,10 +15,9 @@
 * [2025-05-22, 00:31:01](https://news.ycombinator.com/item?id=44057612) - [Show HN: Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
 * [2025-05-21, 21:52:30](https://news.ycombinator.com/item?id=44056659) - [ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction](https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/)
 * [2025-05-21, 21:18:07](https://news.ycombinator.com/item?id=44056407) - [The Machine Stops (1909)](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
+* [2025-05-21, 21:00:11](https://news.ycombinator.com/item?id=44056280) - [Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
 * [2025-05-21, 20:40:58](https://news.ycombinator.com/item?id=44056104) - [Rocky Linux 10 Will Support RISC-V](https://rockylinux.org/news/rockylinux-support-for-riscv)
 * [2025-05-21, 19:34:20](https://news.ycombinator.com/item?id=44055347) - [For algorithms, a little memory outweighs a lot of time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
-* [2025-05-21, 17:53:40](https://news.ycombinator.com/item?id=44054185) - [An upgraded dev experience in Google AI Studio](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/)
-* [2025-05-21, 17:18:52](https://news.ycombinator.com/item?id=44053744) - [LLM function calls don't scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
 * [2025-05-21, 17:05:45](https://news.ycombinator.com/item?id=44053560) - [Collaborative Text Editing Without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
 * [2025-05-21, 17:01:35](https://news.ycombinator.com/item?id=44053518) - [OpenAI to buy AI startup from Jony Ive](https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal)
 * [2025-05-21, 14:39:37](https://news.ycombinator.com/item?id=44051958) - [Animated Factorization (2012)](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)

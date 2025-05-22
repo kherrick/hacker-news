@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 10:55:03](https://news.ycombinator.com/item?id=44060787) - [Microsoft blocks emails that contain 'Palestine' after employee protests](https://www.theverge.com/tech/672312/microsoft-block-palestine-gaza-email)
 * [2025-05-22, 10:22:43](https://news.ycombinator.com/item?id=44060605) - [New #1 open-source AI Agent on SWE-bench Verified](https://refact.ai/blog/2025/open-source-sota-on-swe-bench-verified-refact-ai/)
 * [2025-05-22, 09:17:57](https://news.ycombinator.com/item?id=44060305) - [Planetfall](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/)
 * [2025-05-22, 09:17:32](https://news.ycombinator.com/item?id=44060302) - [Some Life Lessons from VAX/VMS (2013)](https://davewentzel.com/content/some-life-lessons-from-vax-vms/)
