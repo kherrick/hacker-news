@@ -69,6 +69,7 @@
 * [2025-05-19, 09:17:20](https://news.ycombinator.com/item?id=44027867) - [Show HN: Every side project I've built since 2009](https://naeemnur.com/side-projects/)
 * [2025-05-19, 08:55:24](https://news.ycombinator.com/item?id=44027768) - [Emulator Debugging: Area 5150's Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
 * [2025-05-19, 08:45:48](https://news.ycombinator.com/item?id=44027722) - [Seagate claims spinning disks beat SSDs on carbon footprint – Blocks and Files](https://blocksandfiles.com/2025/04/16/seagate-decarbonizing-data-report/)
+* [2025-05-19, 08:43:51](https://news.ycombinator.com/item?id=44027711) - [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/)
 * [2025-05-19, 08:41:49](https://news.ycombinator.com/item?id=44027701) - [Traditional and Neural Order-Independent Transparency](https://www.tobias-franke.eu/publications/tsopouridis25tnoit/index.html)
 * [2025-05-19, 08:39:31](https://news.ycombinator.com/item?id=44027690) - [The Lost Decade of Small Data?](https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html)
 * [2025-05-19, 08:39:15](https://news.ycombinator.com/item?id=44027689) - [Oskar Kokoschka, Hermine Moos, and the Alma Mahler Doll](https://publicdomainreview.org/collection/alma-mahler-doll/)
