@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 14:46:07](https://news.ycombinator.com/item?id=44062627) - [Next Password Could Be Stored in Plastic](https://spectrum.ieee.org/plastic-data-storage)
+* [2025-05-22, 14:21:34](https://news.ycombinator.com/item?id=44062346) - [Show HN: Infinite Hagakure](https://hagakure.space)
+* [2025-05-22, 14:09:25](https://news.ycombinator.com/item?id=44062227) - [Why I Built My Own Audio Player](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
 * [2025-05-22, 14:01:55](https://news.ycombinator.com/item?id=44062160) - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
 * [2025-05-22, 13:59:25](https://news.ycombinator.com/item?id=44062130) - [Adventures in Symbolic Algebra with Model Context Protocol](https://www.stephendiehl.com/posts/computer_algebra_mcp/)
 * [2025-05-22, 13:25:33](https://news.ycombinator.com/item?id=44061836) - [Showh HN: SQLite JavaScript - extend your database with JavaScript](https://github.com/sqliteai/sqlite-js)
