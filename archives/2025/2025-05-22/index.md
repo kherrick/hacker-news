@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 10:22:43](https://news.ycombinator.com/item?id=44060605) - [New #1 open-source AI Agent on SWE-bench Verified](https://refact.ai/blog/2025/open-source-sota-on-swe-bench-verified-refact-ai/)
 * [2025-05-22, 09:17:57](https://news.ycombinator.com/item?id=44060305) - [Planetfall](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/)
 * [2025-05-22, 09:17:32](https://news.ycombinator.com/item?id=44060302) - [Some Life Lessons from VAX/VMS (2013)](https://davewentzel.com/content/some-life-lessons-from-vax-vms/)
 * [2025-05-22, 08:52:17](https://news.ycombinator.com/item?id=44060156) - [Ancient law requires a bale of straw to hang from Charing Cross rail bridge](https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/)
