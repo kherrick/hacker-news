@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-22, 06:50:28](https://news.ycombinator.com/item?id=44059411) - [Why does Debian change software?](https://blog.liw.fi/posts/2025/why-debian-changes/)
 * [2025-05-22, 05:49:36](https://news.ycombinator.com/item?id=44059122) - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
 * [2025-05-22, 04:24:33](https://news.ycombinator.com/item?id=44058778) - [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 * [2025-05-22, 04:04:25](https://news.ycombinator.com/item?id=44058677) - [ChatGPT Is a Gimmick](https://hedgehogreview.com/web-features/thr/posts/chatgpt-is-a-gimmick)
@@ -14,7 +15,6 @@
 * [2025-05-21, 21:00:11](https://news.ycombinator.com/item?id=44056280) - [Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
 * [2025-05-21, 20:40:58](https://news.ycombinator.com/item?id=44056104) - [Rocky Linux 10 Will Support RISC-V](https://rockylinux.org/news/rockylinux-support-for-riscv)
 * [2025-05-21, 20:21:06](https://news.ycombinator.com/item?id=44055895) - [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
-* [2025-05-21, 19:50:37](https://news.ycombinator.com/item?id=44055542) - [Show HN: ClipJS – Edit your videos from a PC or phone](https://clipjs.vercel.app/)
 * [2025-05-21, 19:34:20](https://news.ycombinator.com/item?id=44055347) - [For algorithms, a little memory outweighs a lot of time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
 * [2025-05-21, 18:45:18](https://news.ycombinator.com/item?id=44054775) - [The curious tale of Bhutan's playable record postage stamps (2015)](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
 * [2025-05-21, 18:32:24](https://news.ycombinator.com/item?id=44054620) - [Possible new dwarf planet found in our solar system](https://www.minorplanetcenter.net/mpec/K25/K25K47.html)
