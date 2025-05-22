@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-22, 14:01:55",
+      "https://news.ycombinator.com/item?id=44062160"
+    ],
+    [
+      "Fast Allocations in Ruby 3.5",
+      "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 13:59:25",
+      "https://news.ycombinator.com/item?id=44062130"
+    ],
+    [
+      "Adventures in Symbolic Algebra with Model Context Protocol",
+      "https://www.stephendiehl.com/posts/computer_algebra_mcp/"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 13:25:33",
       "https://news.ycombinator.com/item?id=44061836"
     ],
     [
       "Showh HN: SQLite JavaScript - extend your database with JavaScript",
       "https://github.com/sqliteai/sqlite-js"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 13:15:24",
+      "https://news.ycombinator.com/item?id=44061751"
+    ],
+    [
+      "Sorry, grads: Entry-level tech jobs are getting wiped out",
+      "https://sfstandard.com/2025/05/20/silicon-valley-white-collar-recession-entry-level/"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44060533"
     ],
     [
-      "Strengths and limitations of diffusion language models – sean goedecke",
+      "Strengths and limitations of diffusion language models",
       "https://www.seangoedecke.com/limitations-of-text-diffusion-models/"
     ]
   ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2025-05-21, 17:18:52",
-      "https://news.ycombinator.com/item?id=44053744"
-    ],
-    [
-      "LLM function calls don't scale; code orchestration is simpler, more effective",
-      "https://jngiam.bearblog.dev/mcp-large-data/"
-    ]
-  ],
-  [
-    [
       "2025-05-21, 17:05:45",
       "https://news.ycombinator.com/item?id=44053560"
     ],
     [
       "Collaborative Text Editing Without CRDTs or OT",
       "https://mattweidner.com/2025/05/21/text-without-crdts.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 17:01:35",
-      "https://news.ycombinator.com/item?id=44053518"
-    ],
-    [
-      "OpenAI to buy AI startup from Jony Ive",
-      "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal"
     ]
   ],
   [
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=44049310"
     ],
     [
-      "How we made our optical character recognition (OCR) code more accurate",
+      "How we made our OCR code more accurate",
       "https://pieces.app/blog/how-we-made-our-optical-character-recognition-ocr-code-more-accurate"
     ]
   ],
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2025-05-19, 07:25:14",
-      "https://news.ycombinator.com/item?id=44027278"
-    ],
-    [
-      "Show HN: Forge – Secure, Multi-Tenant GitHub Actions Runners on K8s or EC2",
-      "https://github.com/cisco-open/forge"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 03:46:59",
       "https://news.ycombinator.com/item?id=44026370"
     ],
     [
-      "Everything's a Bug (Or an Issue)",
+      "Everything’s a bug (or an issue)",
       "https://www.bozemanpass.com/everythings-a-bug-or-an-issue/"
     ]
   ],
