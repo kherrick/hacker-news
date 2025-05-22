@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 18:06:37](https://news.ycombinator.com/item?id=44064875) - [Loading Pydantic models from JSON without running out of memory](https://pythonspeed.com/articles/pydantic-json-memory/)
 * [2025-05-22, 17:37:50](https://news.ycombinator.com/item?id=44064504) - [The \"AI 2027\" Scenario: How realistic is it?](https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic)
 * [2025-05-22, 17:02:50](https://news.ycombinator.com/item?id=44064085) - [Warning Signs Your App Authorization Is a Ticking Time Bomb](https://www.osohq.com/post/app-authorization-warning-signs)
 * [2025-05-22, 17:00:32](https://news.ycombinator.com/item?id=44064057) - [Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly](https://dockflow.appitstudio.com/)
