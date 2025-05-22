@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-22, 18:58:25](https://news.ycombinator.com/item?id=44065458) - [Does Earth have two high-tide bulges on opposite sides? (2014)](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
 * [2025-05-22, 18:42:33](https://news.ycombinator.com/item?id=44065299) - [Kangaroo: A flash cache optimized for tiny objects (2021)](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
 * [2025-05-22, 18:29:40](https://news.ycombinator.com/item?id=44065146) - [Practicing graphical debugging using visualizations of the Hilbert curve](https://akkartik.name/debugUIs.html)
 * [2025-05-22, 18:25:07](https://news.ycombinator.com/item?id=44065094) - [How to cheat at settlers by loading the dice (2017)](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
@@ -29,7 +30,6 @@
 * [2025-05-19, 03:44:30](https://news.ycombinator.com/item?id=44026364) - [Four years of sight reading practice](https://sandrock.co.za/carl/2025/05/four-years-of-sight-reading-pracice/)
 * [2025-05-19, 02:11:12](https://news.ycombinator.com/item?id=44025979) - [Poireau: A Sampling Allocation Debugger](https://github.com/backtrace-labs/poireau)
 * [2025-05-19, 00:04:22](https://news.ycombinator.com/item?id=44025283) - [Benchmarking Crimes Meet Formal Verification](https://microkerneldude.org/2025/04/27/benchmarking-crimes-meet-formal-verification/)
-* [2025-05-18, 09:32:39](https://news.ycombinator.com/item?id=44020107) - [Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene](https://iquilezles.org/articles/)
 
 ## [Archives](archives/index.md)
 

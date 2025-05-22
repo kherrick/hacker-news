@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 18:58:25](https://news.ycombinator.com/item?id=44065458) - [Does Earth have two high-tide bulges on opposite sides? (2014)](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
 * [2025-05-22, 18:42:33](https://news.ycombinator.com/item?id=44065299) - [Kangaroo: A flash cache optimized for tiny objects (2021)](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
 * [2025-05-22, 18:29:40](https://news.ycombinator.com/item?id=44065146) - [Practicing graphical debugging using visualizations of the Hilbert curve](https://akkartik.name/debugUIs.html)
 * [2025-05-22, 18:25:07](https://news.ycombinator.com/item?id=44065094) - [How to cheat at settlers by loading the dice (2017)](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
