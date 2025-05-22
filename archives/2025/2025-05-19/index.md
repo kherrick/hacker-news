@@ -48,6 +48,7 @@
 * [2025-05-19, 14:43:57](https://news.ycombinator.com/item?id=44030443) - [Show HN: Mirror World, create an AI clone of anyone](https://mirr.world/)
 * [2025-05-19, 14:41:10](https://news.ycombinator.com/item?id=44030417) - [Oops, I accidentally vibe-coded a ChatGPT client for my Apple Watch](https://richarddas.com/blog/chatgpt-client-for-apple-watch/)
 * [2025-05-19, 14:40:48](https://news.ycombinator.com/item?id=44030412) - [Taiwan to Ramp Up Gas Imports After Shuttering Last Nuclear Plant](https://e360.yale.edu/digest/taiwan-nuclear-power-gas-imports)
+* [2025-05-19, 14:26:12](https://news.ycombinator.com/item?id=44030263) - [Research Uncovers Parthenon Spectacular Lighting Effects for Athena in Antiquity](https://arkeonews.net/research-uncovers-the-parthenons-spectacular-lighting-effects-for-athena-in-antiquity/)
 * [2025-05-19, 13:34:46](https://news.ycombinator.com/item?id=44029713) - [Oregon spent funds meant for addiction services on prosecutors, police gadgets](https://www.theguardian.com/us-news/2025/may/19/oregon-addiction-spending)
 * [2025-05-19, 13:24:14](https://news.ycombinator.com/item?id=44029619) - [Visualizing 100k Years of Earth in WebGL](https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/)
 * [2025-05-19, 13:19:11](https://news.ycombinator.com/item?id=44029566) - [Fabric Is Just Plain Unreliable, and Microsoft's Hiding It](https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/)
