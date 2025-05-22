@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
 * [2025-05-22, 16:34:42](https://news.ycombinator.com/item?id=44063703) - [Claude 4](https://www.anthropic.com/news/claude-4)
+* [2025-05-22, 16:02:09](https://news.ycombinator.com/item?id=44063379) - [Ice Theft in Antarctica](https://nautil.us/ice-theft-in-antarctica-1210083/)
 * [2025-05-22, 15:50:16](https://news.ycombinator.com/item?id=44063248) - [That fractal that's been up on my wall for 12 years](https://chriskw.xyz/2025/05/21/Fractal/)
 * [2025-05-22, 15:39:49](https://news.ycombinator.com/item?id=44063141) - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
 * [2025-05-22, 15:30:24](https://news.ycombinator.com/item?id=44063051) - [Near-infrared spatiotemporal color vision enabled by upconversion contact lenses](https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4)

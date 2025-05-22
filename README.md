@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-22, 16:34:42](https://news.ycombinator.com/item?id=44063703) - [Claude 4](https://www.anthropic.com/news/claude-4)
+* [2025-05-22, 16:02:09](https://news.ycombinator.com/item?id=44063379) - [Ice Theft in Antarctica](https://nautil.us/ice-theft-in-antarctica-1210083/)
 * [2025-05-22, 15:50:16](https://news.ycombinator.com/item?id=44063248) - [That fractal that's been up on my wall for 12 years](https://chriskw.xyz/2025/05/21/Fractal/)
 * [2025-05-22, 15:39:49](https://news.ycombinator.com/item?id=44063141) - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
 * [2025-05-22, 15:30:24](https://news.ycombinator.com/item?id=44063051) - [Near-infrared spatiotemporal color vision enabled by upconversion contact lenses](https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4)
@@ -22,7 +23,6 @@
 * [2025-05-22, 04:24:33](https://news.ycombinator.com/item?id=44058778) - [The scientific “unit” we call the decibel](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 * [2025-05-22, 01:13:50](https://news.ycombinator.com/item?id=44057820) - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
 * [2025-05-22, 00:31:01](https://news.ycombinator.com/item?id=44057612) - [Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
-* [2025-05-21, 19:34:20](https://news.ycombinator.com/item?id=44055347) - [For algorithms, a little memory outweighs a lot of time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
 * [2025-05-21, 11:19:59](https://news.ycombinator.com/item?id=44050269) - [A South Korean grand master on the art of the perfect soy sauce](https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce)
 * [2025-05-21, 08:05:13](https://news.ycombinator.com/item?id=44049310) - [How we made our OCR code more accurate](https://pieces.app/blog/how-we-made-our-optical-character-recognition-ocr-code-more-accurate)
 * [2025-05-19, 21:33:03](https://news.ycombinator.com/item?id=44035125) - [Hotspot: Linux `perf` GUI for performance analysis](https://github.com/KDAB/hotspot)
