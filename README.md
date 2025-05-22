@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-22, 19:26:57](https://news.ycombinator.com/item?id=44065795) - [The Christians Who Believe Empathy Is a Sin](https://nymag.com/intelligencer/article/christian-sin-of-empathy-trump-era.html)
 * [2025-05-22, 18:58:25](https://news.ycombinator.com/item?id=44065458) - [Does Earth have two high-tide bulges on opposite sides? (2014)](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
 * [2025-05-22, 18:42:33](https://news.ycombinator.com/item?id=44065299) - [Kangaroo: A flash cache optimized for tiny objects (2021)](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
 * [2025-05-22, 18:29:40](https://news.ycombinator.com/item?id=44065146) - [Practicing graphical debugging using visualizations of the Hilbert curve](https://akkartik.name/debugUIs.html)
@@ -23,6 +22,7 @@
 * [2025-05-22, 13:09:15](https://news.ycombinator.com/item?id=44061698) - [The Philosophy of Byung-Chul Han (2020)](https://newintrigue.com/2020/06/29/the-philosophy-of-byung-chul-han/)
 * [2025-05-22, 12:31:48](https://news.ycombinator.com/item?id=44061414) - [Show HN: Pi Co-pilot – Evaluation of AI apps made easy](https://withpi.ai/)
 * [2025-05-22, 11:59:03](https://news.ycombinator.com/item?id=44061160) - [Improving performance of rav1d video decoder](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
+* [2025-05-22, 10:52:44](https://news.ycombinator.com/item?id=44060772) - [Show HN: Curved Space Shader in Three.js (via 4D sphere projection)](https://github.com/bntre/CurvedSpaceShader)
 * [2025-05-22, 09:17:57](https://news.ycombinator.com/item?id=44060305) - [Planetfall](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/)
 * [2025-05-22, 04:24:33](https://news.ycombinator.com/item?id=44058778) - [The scientific “unit” we call the decibel](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 * [2025-05-21, 11:19:59](https://news.ycombinator.com/item?id=44050269) - [A South Korean grand master on the art of the perfect soy sauce](https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce)
