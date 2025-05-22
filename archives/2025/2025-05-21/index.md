@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
 * [2025-05-21, 23:17:29](https://news.ycombinator.com/item?id=44057219) - [Should I Block ICMP?](http://shouldiblockicmp.com/)
+* [2025-05-21, 22:50:10](https://news.ycombinator.com/item?id=44057044) - [I have tinnitus. I don't recommend it](https://blog.greg.technology/2025/05/20/tinnitus.html)
 * [2025-05-21, 21:52:30](https://news.ycombinator.com/item?id=44056659) - [ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction](https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/)
 * [2025-05-21, 21:18:07](https://news.ycombinator.com/item?id=44056407) - [The Machine Stops (1909)](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
 * [2025-05-21, 21:00:11](https://news.ycombinator.com/item?id=44056280) - [Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)

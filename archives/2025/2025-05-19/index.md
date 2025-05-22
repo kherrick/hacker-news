@@ -15,6 +15,7 @@
 * [2025-05-19, 20:35:34](https://news.ycombinator.com/item?id=44034536) - [FCC Chair Brendan Carr is letting ISPs merge–as long as they end DEI programs](https://arstechnica.com/tech-policy/2025/05/fcc-chair-brendan-carr-is-letting-isps-merge-as-long-as-they-end-dei-programs/)
 * [2025-05-19, 20:28:29](https://news.ycombinator.com/item?id=44034459) - [Kilo: A text editor in less than 1000 LOC with syntax highlight and search](https://github.com/antirez/kilo)
 * [2025-05-19, 20:16:13](https://news.ycombinator.com/item?id=44034329) - [WireGuard-vanity-keygen: WireGuard vanity key generator](https://github.com/axllent/wireguard-vanity-keygen)
+* [2025-05-19, 19:18:24](https://news.ycombinator.com/item?id=44033711) - [CERN gears up to ship antimatter across Europe](https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/)
 * [2025-05-19, 18:45:41](https://news.ycombinator.com/item?id=44033310) - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
 * [2025-05-19, 18:23:45](https://news.ycombinator.com/item?id=44033009) - [Show HN: A native Hacker News reader with integrated todo/done tracking](https://github.com/haojiang99/hacker_news_reader)
 * [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK – Anthropic](https://docs.anthropic.com/en/docs/claude-code/sdk)
