@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-22, 02:05:18",
+      "https://news.ycombinator.com/item?id=44058082"
+    ],
+    [
+      "In the past year my illustration business has dropped more half",
+      "https://reverentgeek.com/ai-really-is-taking-my-job/"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 01:19:41",
       "https://news.ycombinator.com/item?id=44057841"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-05-19, 10:33:02",
-      "https://news.ycombinator.com/item?id=44028286"
+      "2025-05-19, 08:27:48",
+      "https://news.ycombinator.com/item?id=44027624"
     ],
     [
-      "Making iText's table rendering faster",
-      "https://kb.itextpdf.com/itext/how-i-made-pdf-table-rendering-faster"
+      "Google releases Material 3 Expressive, a more emotional UI design system",
+      "https://m3.material.io/blog/building-with-m3-expressive"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "London’s water pumps: Where strange history flows freely (2024)",
       "https://londonist.com/london/features/london-s-water-pump"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 17:03:55",
-      "https://news.ycombinator.com/item?id=44022736"
-    ],
-    [
-      "Understanding the Go Scheduler",
-      "https://nghiant3223.github.io/2025/04/15/go-scheduler.html"
     ]
   ]
 ]
