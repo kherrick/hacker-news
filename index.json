@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-05-22, 03:12:45",
-      "https://news.ycombinator.com/item?id=44058408"
-    ],
-    [
-      "Aligning LLM Choice to Your Use Case: An Expert's Guide",
-      "https://oblivus.com/blog/choosing-the-right-llm/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 02:46:47",
       "https://news.ycombinator.com/item?id=44058299"
     ],
@@ -251,22 +241,22 @@
   ],
   [
     [
-      "2025-05-19, 21:30:50",
-      "https://news.ycombinator.com/item?id=44035105"
-    ],
-    [
-      "Did Akira Nishitani Lie in the 1994 Capcom vs. Data East Lawsuit?",
-      "https://www.thrillingtalesofoldvideogames.com/blog/akira-nishitani-capcom-data-east-lawsuit"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 19:18:24",
       "https://news.ycombinator.com/item?id=44033711"
     ],
     [
       "CERN gears up to ship antimatter across Europe",
       "https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 08:39:31",
+      "https://news.ycombinator.com/item?id=44027690"
+    ],
+    [
+      "The Lost Decade of Small Data?",
+      "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "London’s water pumps: Where strange history flows freely (2024)",
       "https://londonist.com/london/features/london-s-water-pump"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 17:03:55",
+      "https://news.ycombinator.com/item?id=44022736"
+    ],
+    [
+      "Understanding the Go Scheduler",
+      "https://nghiant3223.github.io/2025/04/15/go-scheduler.html"
     ]
   ]
 ]
