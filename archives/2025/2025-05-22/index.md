@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 11:59:03](https://news.ycombinator.com/item?id=44061160) - [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
+* [2025-05-22, 11:24:27](https://news.ycombinator.com/item?id=44060943) - [Robert Musil Forgotten Plays Inspired His Greatest Work of Fiction](https://lithub.com/the-austrian-writer-whose-forgotten-plays-inspired-his-greatest-work-of-fiction/)
 * [2025-05-22, 10:55:03](https://news.ycombinator.com/item?id=44060787) - [Microsoft blocks emails that contain 'Palestine' after employee protests](https://www.theverge.com/tech/672312/microsoft-block-palestine-gaza-email)
+* [2025-05-22, 10:52:44](https://news.ycombinator.com/item?id=44060772) - [Show HN: Curved Space Shader in Three.js (via 4D sphere projection)](https://github.com/bntre/CurvedSpaceShader)
 * [2025-05-22, 10:22:43](https://news.ycombinator.com/item?id=44060605) - [New #1 open-source AI Agent on SWE-bench Verified](https://refact.ai/blog/2025/open-source-sota-on-swe-bench-verified-refact-ai/)
 * [2025-05-22, 10:13:06](https://news.ycombinator.com/item?id=44060548) - [BYD Beats Tesla in Europe for First Time with 169% Sales Surge](https://www.bloomberg.com/news/articles/2025-05-22/byd-beats-tesla-in-europe-for-first-time-with-169-sales-surge)
+* [2025-05-22, 10:10:09](https://news.ycombinator.com/item?id=44060533) - [Strengths and limitations of diffusion language models – sean goedecke](https://www.seangoedecke.com/limitations-of-text-diffusion-models/)
 * [2025-05-22, 09:17:57](https://news.ycombinator.com/item?id=44060305) - [Planetfall](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/)
 * [2025-05-22, 09:17:32](https://news.ycombinator.com/item?id=44060302) - [Some Life Lessons from VAX/VMS (2013)](https://davewentzel.com/content/some-life-lessons-from-vax-vms/)
 * [2025-05-22, 08:52:17](https://news.ycombinator.com/item?id=44060156) - [Ancient law requires a bale of straw to hang from Charing Cross rail bridge](https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/)
