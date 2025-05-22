@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-22, 10:55:03",
+      "https://news.ycombinator.com/item?id=44060787"
+    ],
+    [
+      "Microsoft blocks emails that contain 'Palestine' after employee protests",
+      "https://www.theverge.com/tech/672312/microsoft-block-palestine-gaza-email"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 10:22:43",
       "https://news.ycombinator.com/item?id=44060605"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2025-05-21, 21:00:11",
+      "https://news.ycombinator.com/item?id=44056280"
+    ],
+    [
+      "Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer",
+      "https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 20:40:58",
       "https://news.ycombinator.com/item?id=44056104"
     ],
@@ -157,26 +177,6 @@
     [
       "For algorithms, a little memory outweighs a lot of time",
       "https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 17:53:40",
-      "https://news.ycombinator.com/item?id=44054185"
-    ],
-    [
-      "An upgraded dev experience in Google AI Studio",
-      "https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 17:18:52",
-      "https://news.ycombinator.com/item?id=44053744"
-    ],
-    [
-      "LLM function calls don't scale; code orchestration is simpler, more effective",
-      "https://jngiam.bearblog.dev/mcp-large-data/"
     ]
   ],
   [
