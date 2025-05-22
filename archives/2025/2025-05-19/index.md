@@ -88,6 +88,7 @@
 * [2025-05-19, 02:58:46](https://news.ycombinator.com/item?id=44026202) - [America's College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)
 * [2025-05-19, 02:58:27](https://news.ycombinator.com/item?id=44026201) - [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/)
 * [2025-05-19, 02:49:25](https://news.ycombinator.com/item?id=44026170) - [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
+* [2025-05-19, 02:11:12](https://news.ycombinator.com/item?id=44025979) - [Poireau: A Sampling Allocation Debugger](https://github.com/backtrace-labs/poireau)
 * [2025-05-19, 01:42:38](https://news.ycombinator.com/item?id=44025851) - [The Utter Flimsiness of XAI's Processes](https://smol.news/p/the-utter-flimsiness-of-xais-processes)
 * [2025-05-19, 00:38:34](https://news.ycombinator.com/item?id=44025484) - [Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.](https://www.remoteswe.fyi)
 * [2025-05-19, 00:35:02](https://news.ycombinator.com/item?id=44025459) - [Gemini figured out my nephew’s name](https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/)
