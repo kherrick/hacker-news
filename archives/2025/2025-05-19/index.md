@@ -76,6 +76,7 @@
 * [2025-05-19, 07:48:22](https://news.ycombinator.com/item?id=44027424) - [Link Time Optimizations: New Way to Do Compiler Optimizations](https://johnnysswlab.com/link-time-optimizations-new-way-to-do-compiler-optimizations/)
 * [2025-05-19, 07:40:24](https://news.ycombinator.com/item?id=44027379) - [What does the end of mathematics look like?](https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html)
 * [2025-05-19, 07:25:14](https://news.ycombinator.com/item?id=44027278) - [Show HN: Forge – Secure, Multi-Tenant GitHub Actions Runners on K8s or EC2](https://github.com/cisco-open/forge)
+* [2025-05-19, 07:17:50](https://news.ycombinator.com/item?id=44027229) - [When good pseudorandom numbers go bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
 * [2025-05-19, 06:33:42](https://news.ycombinator.com/item?id=44027008) - [First successful demonstration of quantum error correction of qudits](https://phys.org/news/2025-05-successful-quantum-error-qudits.html)
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists Find Proof of Sweeping Language Pattern Once Deemed a 'Hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
 * [2025-05-19, 05:51:02](https://news.ycombinator.com/item?id=44026799) - [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)

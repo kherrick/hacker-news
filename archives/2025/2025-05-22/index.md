@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 20:41:14](https://news.ycombinator.com/item?id=44066713) - [Trade Secrecy in Willy Wonka's Chocolate Factory (2009)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463)
 * [2025-05-22, 20:23:07](https://news.ycombinator.com/item?id=44066460) - [It's So Over](https://itssoover.online/)
 * [2025-05-22, 20:02:00](https://news.ycombinator.com/item?id=44066237) - [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
 * [2025-05-22, 19:53:37](https://news.ycombinator.com/item?id=44066120) - [Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent](https://github.com/xe-nvdk/rtcollector)
