@@ -92,3 +92,4 @@
 * [2025-05-19, 00:35:02](https://news.ycombinator.com/item?id=44025459) - [Gemini figured out my nephew’s name](https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/)
 * [2025-05-19, 00:31:34](https://news.ycombinator.com/item?id=44025439) - [\"There are people who can see and others who cannot even look\"](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
 * [2025-05-19, 00:12:16](https://news.ycombinator.com/item?id=44025324) - [Living beings emit a faint light that extinguishes upon death, study](https://phys.org/news/2025-05-emit-faint-extinguishes-death.html)
+* [2025-05-19, 00:04:22](https://news.ycombinator.com/item?id=44025283) - [Benchmarking Crimes Meet Formal Verification](https://microkerneldude.org/2025/04/27/benchmarking-crimes-meet-formal-verification/)
