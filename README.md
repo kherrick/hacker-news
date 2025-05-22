@@ -23,12 +23,12 @@
 * [2025-05-21, 17:01:35](https://news.ycombinator.com/item?id=44053518) - [OpenAI to buy AI startup from Jony Ive](https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal)
 * [2025-05-21, 14:39:37](https://news.ycombinator.com/item?id=44051958) - [Animated Factorization (2012)](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
 * [2025-05-21, 14:21:10](https://news.ycombinator.com/item?id=44051733) - [Devstral](https://mistral.ai/news/devstral)
+* [2025-05-21, 08:05:13](https://news.ycombinator.com/item?id=44049310) - [How we made our optical character recognition (OCR) code more accurate](https://pieces.app/blog/how-we-made-our-optical-character-recognition-ocr-code-more-accurate)
 * [2025-05-19, 21:33:03](https://news.ycombinator.com/item?id=44035125) - [Hotspot: Linux `perf` GUI for performance analysis](https://github.com/KDAB/hotspot)
 * [2025-05-19, 19:18:24](https://news.ycombinator.com/item?id=44033711) - [CERN gears up to ship antimatter across Europe](https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/)
 * [2025-05-19, 08:39:31](https://news.ycombinator.com/item?id=44027690) - [A lost decade chasing distributed architectures for data analytics?](https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html)
 * [2025-05-19, 04:31:39](https://news.ycombinator.com/item?id=44026516) - [When a team is too big](https://blog.alexewerlof.com/p/when-a-team-is-too-big)
 * [2025-05-19, 00:35:02](https://news.ycombinator.com/item?id=44025459) - [Gemini figured out my nephew’s name](https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/)
-* [2025-05-18, 23:18:51](https://news.ycombinator.com/item?id=44025033) - [Ancient reptile footprints are rewriting the history of when animals evolved](https://apnews.com/article/oldest-reptile-footprints-australia-963e3c38c8d5782e7ac20f5405f15f89)
 * [2025-05-18, 09:32:39](https://news.ycombinator.com/item?id=44020107) - [Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene](https://iquilezles.org/articles/)
 
 ## [Archives](archives/index.md)
