@@ -24,6 +24,7 @@
 * [2025-05-18, 18:34:12](https://news.ycombinator.com/item?id=44023400) - [What Is the Difference Between a Block, a Proc, and a Lambda in Ruby? (2013)](https://blog.awaxman.com/what-is-the-difference-between-a-block-a-proc-and-a-lambda-in-ruby)
 * [2025-05-18, 18:07:03](https://news.ycombinator.com/item?id=44023226) - [I Learned to Stop Worrying and Love Building My Own Solar System](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
 * [2025-05-18, 18:03:26](https://news.ycombinator.com/item?id=44023200) - [Show HN: Vibe Coded GitHub PR Bot for Integrating a GitHub Action](https://vetpkg.dev/gha)
+* [2025-05-18, 17:55:27](https://news.ycombinator.com/item?id=44023156) - [The Long Arc of Semiconductor Scaling](https://www.chipstrat.com/p/the-long-arc-of-semiconductor-scaling)
 * [2025-05-18, 17:54:12](https://news.ycombinator.com/item?id=44023144) - [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev)
 * [2025-05-18, 17:47:27](https://news.ycombinator.com/item?id=44023081) - [Someone got an LLM running on a Commodore 64 from 1982, and it runs as well](https://www.xda-developers.com/llm-running-commodore-64/)
 * [2025-05-18, 17:08:38](https://news.ycombinator.com/item?id=44022781) - [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
