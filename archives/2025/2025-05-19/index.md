@@ -10,6 +10,7 @@
 * [2025-05-19, 22:49:17](https://news.ycombinator.com/item?id=44035764) - [Huawei launches first laptops using home-grown HarmonyOS](https://www.reuters.com/world/china/huawei-launches-first-laptops-using-home-grown-harmony-operating-system-2025-05-19/)
 * [2025-05-19, 22:06:25](https://news.ycombinator.com/item?id=44035427) - [Terminal-Bench: a benchmark for AI agents in terminal environments](https://www.tbench.ai/)
 * [2025-05-19, 21:37:23](https://news.ycombinator.com/item?id=44035158) - [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
+* [2025-05-19, 21:33:03](https://news.ycombinator.com/item?id=44035125) - [Hotspot: Linux `perf` GUI for performance analysis](https://github.com/KDAB/hotspot)
 * [2025-05-19, 21:30:50](https://news.ycombinator.com/item?id=44035105) - [Did Akira Nishitani Lie in the 1994 Capcom vs. Data East Lawsuit?](https://www.thrillingtalesofoldvideogames.com/blog/akira-nishitani-capcom-data-east-lawsuit)
 * [2025-05-19, 21:23:27](https://news.ycombinator.com/item?id=44035021) - [Definitive solution to the hardest problem in computing: P = NP?](https://www.researchgate.net/publication/391442238_A_Constructive_Proof_that_P_NP_via_Circuit-Resistant_Hash_Encodings_and_Local_Certification)
 * [2025-05-19, 21:12:47](https://news.ycombinator.com/item?id=44034918) - [Jules: An Asynchronous Coding Agent](https://jules.google/)
