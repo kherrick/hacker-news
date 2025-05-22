@@ -6,6 +6,7 @@
 
 * [2025-05-22, 15:50:16](https://news.ycombinator.com/item?id=44063248) - [That fractal that's been up on my wall for 12 years](https://chriskw.xyz/2025/05/21/Fractal/)
 * [2025-05-22, 15:39:49](https://news.ycombinator.com/item?id=44063141) - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
+* [2025-05-22, 15:30:24](https://news.ycombinator.com/item?id=44063051) - [Near-infrared spatiotemporal color vision enabled by upconversion contact lenses](https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4)
 * [2025-05-22, 15:23:40](https://news.ycombinator.com/item?id=44063000) - [Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts](https://news.ycombinator.com/item?id=44063000)
 * [2025-05-22, 15:15:27](https://news.ycombinator.com/item?id=44062919) - [Show HN: Whenish – Plan Group Events in iMessages](https://apps.apple.com/us/app/whenish/id6745035749)
 * [2025-05-22, 15:01:09](https://news.ycombinator.com/item?id=44062774) - [Social media platforms: what's wrong, and what's next](https://www.scottgoci.com/social-media-platforms-whats-wrong-and-whats-next/)
@@ -13,6 +14,7 @@
 * [2025-05-22, 14:43:21](https://news.ycombinator.com/item?id=44062586) - [U.S. Spy Agencies–One-Stop Shop to Buy Your Personal Data](https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/)
 * [2025-05-22, 14:21:34](https://news.ycombinator.com/item?id=44062346) - [Show HN: Infinite Hagakure](https://hagakure.space)
 * [2025-05-22, 14:09:25](https://news.ycombinator.com/item?id=44062227) - [Why I Built My Own Audio Player](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
+* [2025-05-22, 14:03:37](https://news.ycombinator.com/item?id=44062176) - [What Sam Altman told OpenAI about the device he's making with Jony Ive](https://www.wsj.com/tech/ai/what-sam-altman-told-openai-about-the-secret-device-hes-making-with-jony-ive-f1384005)
 * [2025-05-22, 14:01:55](https://news.ycombinator.com/item?id=44062160) - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
 * [2025-05-22, 13:59:25](https://news.ycombinator.com/item?id=44062130) - [Adventures in Symbolic Algebra with Model Context Protocol](https://www.stephendiehl.com/posts/computer_algebra_mcp/)
 * [2025-05-22, 13:43:04](https://news.ycombinator.com/item?id=44061987) - [GodAmp: Reimplementation of Winamp 2.9 in Godot, with cross-platform support](https://github.com/Dowsley/GodAmp)
