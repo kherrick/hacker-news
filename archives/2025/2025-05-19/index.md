@@ -76,6 +76,7 @@
 * [2025-05-19, 06:23:01](https://news.ycombinator.com/item?id=44026959) - [Linguists Find Proof of Sweeping Language Pattern Once Deemed a 'Hoax'](https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/)
 * [2025-05-19, 05:51:02](https://news.ycombinator.com/item?id=44026799) - [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)
 * [2025-05-19, 05:26:32](https://news.ycombinator.com/item?id=44026703) - [Magic of software; what makes a good engineer also makes a good engineering org](https://moxie.org/2024/09/23/a-good-engineer.html)
+* [2025-05-19, 04:31:39](https://news.ycombinator.com/item?id=44026516) - [When a team is too big](https://blog.alexewerlof.com/p/when-a-team-is-too-big)
 * [2025-05-19, 04:14:26](https://news.ycombinator.com/item?id=44026456) - [Capalyze – Natural language data analysis](https://capalyze.ai/home)
 * [2025-05-19, 04:04:14](https://news.ycombinator.com/item?id=44026414) - [The lack of a good command line way to sort IPv6 addresses](https://utcc.utoronto.ca/~cks/space/blog/unix/SortingIPv6Addresses)
 * [2025-05-19, 04:03:25](https://news.ycombinator.com/item?id=44026413) - [Effort and Challenges in Building Embedded Audio DSP Software Across Platforms](https://switchboard.audio/hub/building-embedded-audio-dsp/)
