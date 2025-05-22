@@ -11,22 +11,32 @@
   ],
   [
     [
+      "2025-05-22, 20:40:11",
+      "https://news.ycombinator.com/item?id=44066696"
+    ],
+    [
+      "The Annotated Kolmogorov-Arnold Network (Kan)",
+      "https://alexzhang13.github.io/blog/2024/annotated-kan/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 20:32:49",
+      "https://news.ycombinator.com/item?id=44066597"
+    ],
+    [
+      "Engineers and AI: ramblings of a small startup founder",
+      "https://labadal.com/blogs/ruminations/engineers-and-ai.html"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 20:02:00",
       "https://news.ycombinator.com/item?id=44066237"
     ],
     [
       "Async from scratch 3: Pinned against the wall",
       "https://natkr.com/2025-05-22-async-from-scratch-3/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 19:53:37",
-      "https://news.ycombinator.com/item?id=44066120"
-    ],
-    [
-      "Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent",
-      "https://github.com/xe-nvdk/rtcollector"
     ]
   ],
   [
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2025-05-22, 17:37:50",
-      "https://news.ycombinator.com/item?id=44064504"
+      "2025-05-22, 17:16:25",
+      "https://news.ycombinator.com/item?id=44064230"
     ],
     [
-      "The \"AI 2027\" Scenario: How realistic is it?",
-      "https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic"
+      "We’ll be ending web hosting for your apps on Glitch",
+      "https://blog.glitch.com/post/changes-are-coming-to-glitch/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Show HN: SQLite JavaScript - extend your database with JavaScript",
       "https://github.com/sqliteai/sqlite-js"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 12:31:48",
-      "https://news.ycombinator.com/item?id=44061414"
-    ],
-    [
-      "Show HN: Pi Co-pilot – Evaluation of AI apps made easy",
-      "https://withpi.ai/"
     ]
   ],
   [
