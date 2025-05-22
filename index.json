@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-05-19, 08:27:48",
-      "https://news.ycombinator.com/item?id=44027624"
-    ],
-    [
-      "Google releases Material 3 Expressive, a more emotional UI design system",
-      "https://m3.material.io/blog/building-with-m3-expressive"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 00:35:02",
       "https://news.ycombinator.com/item?id=44025459"
     ],
@@ -297,6 +287,16 @@
     [
       "Understanding the Go Scheduler",
       "https://nghiant3223.github.io/2025/04/15/go-scheduler.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 09:32:39",
+      "https://news.ycombinator.com/item?id=44020107"
+    ],
+    [
+      "Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene",
+      "https://iquilezles.org/articles/"
     ]
   ]
 ]
