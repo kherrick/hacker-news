@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-22, 05:49:36",
+      "https://news.ycombinator.com/item?id=44059122"
+    ],
+    [
+      "Direct TLS can speed up your connections",
+      "https://marc-bowes.com/postgres-direct-tls.html"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 04:24:33",
       "https://news.ycombinator.com/item?id=44058778"
     ],
@@ -177,16 +187,6 @@
     [
       "LLM function calls don't scale; code orchestration is simpler, more effective",
       "https://jngiam.bearblog.dev/mcp-large-data/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 17:08:58",
-      "https://news.ycombinator.com/item?id=44053603"
-    ],
-    [
-      "Storefront Web Components",
-      "https://shopify.dev/docs/api/storefront-web-components"
     ]
   ],
   [
