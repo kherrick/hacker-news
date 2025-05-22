@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 20:23:07](https://news.ycombinator.com/item?id=44066460) - [It's So Over](https://itssoover.online/)
+* [2025-05-22, 20:02:00](https://news.ycombinator.com/item?id=44066237) - [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
 * [2025-05-22, 19:53:37](https://news.ycombinator.com/item?id=44066120) - [Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent](https://github.com/xe-nvdk/rtcollector)
 * [2025-05-22, 19:26:57](https://news.ycombinator.com/item?id=44065795) - [The Christians Who Believe Empathy Is a Sin](https://nymag.com/intelligencer/article/christian-sin-of-empathy-trump-era.html)
 * [2025-05-22, 19:25:10](https://news.ycombinator.com/item?id=44065775) - [Problems in AI alignment: A scale model](https://muldoon.cloud/2025/05/22/alignment.html)
