@@ -65,6 +65,7 @@
 * [2025-05-21, 09:19:30](https://news.ycombinator.com/item?id=44049677) - [Ask HN: Generate LLM hallucination to detect students cheating](https://news.ycombinator.com/item?id=44049677)
 * [2025-05-21, 08:05:13](https://news.ycombinator.com/item?id=44049310) - [How we made our optical character recognition (OCR) code more accurate](https://pieces.app/blog/how-we-made-our-optical-character-recognition-ocr-code-more-accurate)
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
+* [2025-05-21, 05:36:16](https://news.ycombinator.com/item?id=44048574) - [Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking](https://arxiv.org/abs/2504.05652)
 * [2025-05-21, 05:22:24](https://news.ycombinator.com/item?id=44048518) - [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
 * [2025-05-21, 04:56:44](https://news.ycombinator.com/item?id=44048420) - [Goethe's Faustian Life](https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography)
 * [2025-05-21, 04:44:56](https://news.ycombinator.com/item?id=44048366) - [Show HN: Lipu sona – Toki Pona Learn the language of simplicity](https://sekor.eu.org/lipusona/)
