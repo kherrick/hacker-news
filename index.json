@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-23, 07:27:42",
+      "https://news.ycombinator.com/item?id=44070699"
+    ],
+    [
+      "America is in danger of experiencing an academic brain drain",
+      "https://www.economist.com/science-and-technology/2025/05/21/america-is-in-danger-of-experiencing-an-academic-brain-drain"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 06:50:18",
       "https://news.ycombinator.com/item?id=44070532"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44070042"
     ],
     [
-      "John Carmack at Upper Bound 2025 (slides and notes)",
+      "John Carmack talk at Upper Bound 2025 – slides and notes",
       "https://twitter.com/ID_AA_Carmack/status/1925710474366034326"
     ]
   ],
@@ -27,26 +37,6 @@
     [
       "Lockheed Martin and IBM combine quantum computing with HPC in new research",
       "https://www.ibm.com/quantum/blog/lockheed-martin-sqd"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 02:29:28",
-      "https://news.ycombinator.com/item?id=44069304"
-    ],
-    [
-      "CRDTs #2: Turtles All the Way Down",
-      "https://jhellerstein.github.io/blog/crdt-turtles/"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 02:27:27",
-      "https://news.ycombinator.com/item?id=44069289"
-    ],
-    [
-      "Silly job interview questions in Haskell",
-      "https://chrispenner.ca/posts/interview"
     ]
   ],
   [
@@ -87,6 +77,26 @@
     [
       "Show HN: Defuddle, an HTML-to-Markdown alternative to Readability",
       "https://github.com/kepano/defuddle"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 20:41:14",
+      "https://news.ycombinator.com/item?id=44066713"
+    ],
+    [
+      "Trade Secrecy in Willy Wonka's Chocolate Factory (2009)",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 19:25:10",
+      "https://news.ycombinator.com/item?id=44065775"
+    ],
+    [
+      "Problems in AI alignment: A scale model",
+      "https://muldoon.cloud/2025/05/22/alignment.html"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Richard Garwin’s role in designing the hydrogen bomb was obscured",
       "https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 13:13:34",
-      "https://news.ycombinator.com/item?id=44029513"
-    ],
-    [
-      "Corrugation-Dominated Mechanical Softening of Defect-Engineered Graphene",
-      "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.166102"
     ]
   ],
   [
