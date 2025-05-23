@@ -26,10 +26,10 @@
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-23, 10:41:12](https://news.ycombinator.com/item?id=44071610) - [Writing A Job Runner (In Elixir) (Again) (10 years later)](https://github.com/notactuallytreyanastasio/genstage_tutorial_2025/blob/main/README.md)
 * [2025-05-23, 05:14:16](https://news.ycombinator.com/item?id=44070042) - [John Carmack talk at Upper Bound 2025](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
-* [2025-05-22, 10:57:53](https://news.ycombinator.com/item?id=44060800) - [Machinist and Machine](https://punkx.org/jackdoe/misery.html)
 * [2025-05-21, 11:52:40](https://news.ycombinator.com/item?id=44050465) - [The Curious Case of the Pygmy Nuthatch](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html)
 * [2025-05-20, 05:23:54](https://news.ycombinator.com/item?id=44038067) - [Christopher Hill's History from Below](https://www.thenation.com/article/society/christopher-hill-life-of/)
 * [2025-05-19, 18:22:34](https://news.ycombinator.com/item?id=44032995) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
+* [2025-05-19, 07:58:59](https://news.ycombinator.com/item?id=44027471) - [Tallest Wooden Wind Turbine](https://modvion.com/)
 
 ## [Archives](archives/index.md)
 
