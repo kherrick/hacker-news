@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-23, 20:46:04](https://news.ycombinator.com/item?id=44076449) - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
 * [2025-05-23, 20:09:01](https://news.ycombinator.com/item?id=44076170) - [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
 * [2025-05-23, 19:56:12](https://news.ycombinator.com/item?id=44076064) - [The Transwedge Product](https://terathon.com/blog/transwedge-product.html)
-* [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
+* [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 * [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
 * [2025-05-23, 18:46:57](https://news.ycombinator.com/item?id=44075388) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
 * [2025-05-23, 18:44:31](https://news.ycombinator.com/item?id=44075353) - [Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
@@ -27,7 +28,6 @@
 * [2025-05-23, 05:14:16](https://news.ycombinator.com/item?id=44070042) - [John Carmack talk at Upper Bound 2025](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
 * [2025-05-22, 10:57:53](https://news.ycombinator.com/item?id=44060800) - [Machinist and Machine](https://punkx.org/jackdoe/misery.html)
 * [2025-05-21, 13:09:52](https://news.ycombinator.com/item?id=44051069) - [Does Field Ordering Affect Model Performance?](https://blog.kallyaleksiev.net/does-field-ordering-affect-model-performance)
-* [2025-05-21, 11:52:40](https://news.ycombinator.com/item?id=44050465) - [The Curious Case of the Pygmy Nuthatch](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html)
 * [2025-05-20, 05:23:54](https://news.ycombinator.com/item?id=44038067) - [Christopher Hill's History from Below](https://www.thenation.com/article/society/christopher-hill-life-of/)
 * [2025-05-19, 18:22:34](https://news.ycombinator.com/item?id=44032995) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
 
