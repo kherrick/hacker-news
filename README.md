@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-23, 23:28:11](https://news.ycombinator.com/item?id=44077533) - [Root for Your Friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
 * [2025-05-23, 20:51:29](https://news.ycombinator.com/item?id=44076501) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 * [2025-05-23, 20:46:04](https://news.ycombinator.com/item?id=44076449) - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
 * [2025-05-23, 20:22:09](https://news.ycombinator.com/item?id=44076300) - [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
@@ -20,7 +21,6 @@
 * [2025-05-23, 15:33:00](https://news.ycombinator.com/item?id=44073785) - [MCP is the coming of Web 2.0 2.0](https://www.anildash.com//2025/05/20/mcp-web20-20/)
 * [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [Postgres IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
-* [2025-05-23, 13:39:26](https://news.ycombinator.com/item?id=44072788) - [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
 * [2025-05-23, 11:37:07](https://news.ycombinator.com/item?id=44071900) - [Remembering Alasdair MacIntyre](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-23, 10:41:12](https://news.ycombinator.com/item?id=44071610) - [Writing A Job Runner (In Elixir) (Again) (10 years later)](https://github.com/notactuallytreyanastasio/genstage_tutorial_2025/blob/main/README.md)
