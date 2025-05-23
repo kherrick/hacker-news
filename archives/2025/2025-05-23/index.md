@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
 * [2025-05-23, 23:28:11](https://news.ycombinator.com/item?id=44077533) - [Root for Your Friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
+* [2025-05-23, 22:55:48](https://news.ycombinator.com/item?id=44077330) - [Ask HN: Is anyone else burnt out on AI?](https://news.ycombinator.com/item?id=44077330)
 * [2025-05-23, 20:51:29](https://news.ycombinator.com/item?id=44076501) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 * [2025-05-23, 20:46:04](https://news.ycombinator.com/item?id=44076449) - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
 * [2025-05-23, 20:22:09](https://news.ycombinator.com/item?id=44076300) - [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
