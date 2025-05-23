@@ -6,6 +6,8 @@
 
 * [2025-05-23, 12:04:27](https://news.ycombinator.com/item?id=44072081) - [Ship footage captures sound of Titan sub imploding](https://www.bbc.com/news/articles/c5yg5qggvwjo)
 * [2025-05-23, 11:37:07](https://news.ycombinator.com/item?id=44071900) - [Alasdair MacIntyre Has Died](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
+* [2025-05-23, 11:10:57](https://news.ycombinator.com/item?id=44071747) - [Everything Not Forbidden Is Compulsory](https://www.drorpoleg.com/everything-not-forbidden-is-compulsory/)
+* [2025-05-23, 10:58:00](https://news.ycombinator.com/item?id=44071701) - [Realtek's $10 tiny 10GbE NIC will hit motherboards soon](https://www.tomshardware.com/networking/realteks-usd10-tiny-10gbe-network-adapter-is-coming-to-motherboards-later-this-year)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-23, 10:43:08](https://news.ycombinator.com/item?id=44071627) - [Remix Breaks Up with React](https://github.com/kayac-chang/remix-website/blob/44b40299fd364b4e825e66f747d3f6cf3dddd884/data/posts/remix-declaration-of-independence.md)
 * [2025-05-23, 10:41:12](https://news.ycombinator.com/item?id=44071610) - [Writing A Job Runner (In Elixir) (Again) (10 years later)](https://github.com/notactuallytreyanastasio/genstage_tutorial_2025/blob/main/README.md)
