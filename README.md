@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-23, 15:43:54](https://news.ycombinator.com/item?id=44073870) - [Slime (2021)](https://granta.com/slime/)
+* [2025-05-23, 15:43:16](https://news.ycombinator.com/item?id=44073867) - [The metre originated in the French Revolution](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024)
 * [2025-05-23, 15:33:00](https://news.ycombinator.com/item?id=44073785) - [MCP is the coming of Web 2.0 2.0](https://www.anildash.com//2025/05/20/mcp-web20-20/)
 * [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [PostgreSQL IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
@@ -25,7 +26,6 @@
 * [2025-05-21, 10:12:32](https://news.ycombinator.com/item?id=44049926) - [Satellites Spotting Depth](https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html)
 * [2025-05-21, 05:36:16](https://news.ycombinator.com/item?id=44048574) - [Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking](https://arxiv.org/abs/2504.05652)
 * [2025-05-20, 20:32:08](https://news.ycombinator.com/item?id=44045617) - [Quantum Picturalism](https://quantuminpictures.org/)
-* [2025-05-19, 23:44:00](https://news.ycombinator.com/item?id=44036208) - [A Formal Mathematical Investigation on the Validity of Kellogg's Glaze Claims](https://old.reddit.com/r/theydidthemath/comments/1iljmig/_/)
 * [2025-05-19, 18:22:34](https://news.ycombinator.com/item?id=44032995) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
 * [2025-05-19, 16:48:29](https://news.ycombinator.com/item?id=44031755) - [Bits with Soul](https://www.darwin.cam.ac.uk/lectures/entry/bits-with-soul/)
 * [2025-05-19, 15:47:51](https://news.ycombinator.com/item?id=44031082) - ['Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/)

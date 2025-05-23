@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
 * [2025-05-23, 15:43:54](https://news.ycombinator.com/item?id=44073870) - [Slime (2021)](https://granta.com/slime/)
+* [2025-05-23, 15:43:16](https://news.ycombinator.com/item?id=44073867) - [The metre originated in the French Revolution](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024)
 * [2025-05-23, 15:33:00](https://news.ycombinator.com/item?id=44073785) - [MCP is the coming of Web 2.0 2.0](https://www.anildash.com//2025/05/20/mcp-web20-20/)
 * [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [PostgreSQL IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
