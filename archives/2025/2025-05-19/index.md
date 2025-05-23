@@ -33,6 +33,7 @@
 * [2025-05-19, 17:14:04](https://news.ycombinator.com/item?id=44032106) - [Single RGB camera turns your palm into a keyboard for mixed reality interaction](https://blog.arduino.cc/2025/05/09/a-single-rgb-camera-turns-your-palm-into-a-keyboard-for-mixed-reality-interaction/)
 * [2025-05-19, 17:00:43](https://news.ycombinator.com/item?id=44031917) - [Dilbert Creator Scott Adams Says He Will Die Soon from Same Cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
 * [2025-05-19, 17:00:10](https://news.ycombinator.com/item?id=44031912) - [Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker)
+* [2025-05-19, 16:48:29](https://news.ycombinator.com/item?id=44031755) - [Bits with Soul](https://www.darwin.cam.ac.uk/lectures/entry/bits-with-soul/)
 * [2025-05-19, 16:47:27](https://news.ycombinator.com/item?id=44031742) - [Why are (male) surgeons still addressed as Mr? (2000)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1119265/)
 * [2025-05-19, 16:28:18](https://news.ycombinator.com/item?id=44031535) - [Game theory illustrated by an animated cartoon game](https://ncase.me/trust/)
 * [2025-05-19, 16:27:42](https://news.ycombinator.com/item?id=44031529) - [Edit is now open source](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/)
