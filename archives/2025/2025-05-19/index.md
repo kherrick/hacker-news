@@ -22,6 +22,7 @@
 * [2025-05-19, 19:18:24](https://news.ycombinator.com/item?id=44033711) - [CERN gears up to ship antimatter across Europe](https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/)
 * [2025-05-19, 19:09:29](https://news.ycombinator.com/item?id=44033606) - [A Scientist Fighting Nuclear Armageddon Hid a 50-Year Secret](https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html)
 * [2025-05-19, 18:45:41](https://news.ycombinator.com/item?id=44033310) - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
+* [2025-05-19, 18:41:16](https://news.ycombinator.com/item?id=44033249) - [Measuring Lunar North and South Polar Regions](https://iopscience.iop.org/article/10.3847/PSJ/adbc9d)
 * [2025-05-19, 18:23:45](https://news.ycombinator.com/item?id=44033009) - [Show HN: A native Hacker News reader with integrated todo/done tracking](https://github.com/haojiang99/hacker_news_reader)
 * [2025-05-19, 18:22:34](https://news.ycombinator.com/item?id=44032995) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
 * [2025-05-19, 18:16:33](https://news.ycombinator.com/item?id=44032922) - [W.a.s.t.e. Not: John Scanlan looks for the future in the dustbins of history](https://thebaffler.com/latest/w-a-s-t-e-not-adams)
