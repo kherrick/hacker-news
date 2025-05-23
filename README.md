@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 * [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
 * [2025-05-23, 18:46:57](https://news.ycombinator.com/item?id=44075388) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
 * [2025-05-23, 18:44:31](https://news.ycombinator.com/item?id=44075353) - [Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
-* [2025-05-23, 18:43:25](https://news.ycombinator.com/item?id=44075346) - [Google's AI Mode is 'the definition of theft,' publishers say](https://9to5google.com/2025/05/22/google-ai-mode-theft-publisher-opt-out-controls/)
 * [2025-05-23, 18:33:07](https://news.ycombinator.com/item?id=44075254) - [Types of optical systems in a lens designer's toolbox (2020)](https://www.pencilofrays.com/lens-design-forms/)
 * [2025-05-23, 18:30:05](https://news.ycombinator.com/item?id=44075235) - [Comparison of Spreadsheet Software](https://grid.is/blog/comparison-of-spreadsheet-software)
 * [2025-05-23, 18:14:29](https://news.ycombinator.com/item?id=44075105) - [Attention Wasn't All We Needed](https://www.stephendiehl.com/posts/post_transformers/)

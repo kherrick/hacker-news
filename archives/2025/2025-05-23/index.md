@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
+* [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 * [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
 * [2025-05-23, 18:46:57](https://news.ycombinator.com/item?id=44075388) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
 * [2025-05-23, 18:44:31](https://news.ycombinator.com/item?id=44075353) - [Show HN: Hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
