@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-23, 17:21:22](https://news.ycombinator.com/item?id=44074672) - [Why is file storage and CDN delivery still so fucking hard even in 2025?](https://filezen.dev)
+* [2025-05-23, 17:20:40](https://news.ycombinator.com/item?id=44074668) - [LLM Judges Are Unreliable](https://www.cip.org/blog/llm-judges-are-unreliable)
 * [2025-05-23, 17:17:26](https://news.ycombinator.com/item?id=44074637) - [Into The Tunnel: The secret life of wind tunnels](https://jordanwtaylor2.substack.com/p/into-the-tunnel)
 * [2025-05-23, 17:03:10](https://news.ycombinator.com/item?id=44074531) - [You Don't Need Re-Ranking: Understanding the Superlinked Vector Layer](https://superlinked.com/vectorhub/articles/why-do-not-need-re-ranking)
 * [2025-05-23, 16:58:39](https://news.ycombinator.com/item?id=44074487) - [Sesame Scheme: Unintended Consequences of Allergen Food Labeling](https://www.choicesmagazine.org/choices-magazine/submitted-articles/unintended-consequences-of-allergen-food-labeling)
@@ -9,7 +9,7 @@
 * [2025-05-23, 15:43:54](https://news.ycombinator.com/item?id=44073870) - [Slime (2021)](https://granta.com/slime/)
 * [2025-05-23, 15:43:16](https://news.ycombinator.com/item?id=44073867) - [The metre originated in the French Revolution](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024)
 * [2025-05-23, 15:33:00](https://news.ycombinator.com/item?id=44073785) - [MCP is the coming of Web 2.0 2.0](https://www.anildash.com//2025/05/20/mcp-web20-20/)
-* [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [PostgreSQL IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
+* [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [Postgres IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
 * [2025-05-23, 14:00:25](https://news.ycombinator.com/item?id=44072971) - [How I ended up flying for Yemen's national airline – and survived](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html)
 * [2025-05-23, 13:39:26](https://news.ycombinator.com/item?id=44072788) - [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
