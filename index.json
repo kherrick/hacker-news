@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-05-23, 07:27:42",
-      "https://news.ycombinator.com/item?id=44070699"
-    ],
-    [
-      "America is in danger of experiencing an academic brain drain",
-      "https://www.economist.com/science-and-technology/2025/05/21/america-is-in-danger-of-experiencing-an-academic-brain-drain"
-    ]
-  ],
-  [
-    [
       "2025-05-23, 06:50:18",
       "https://news.ycombinator.com/item?id=44070532"
     ],
@@ -197,6 +187,16 @@
     [
       "Fast Allocations in Ruby 3.5",
       "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 13:59:25",
+      "https://news.ycombinator.com/item?id=44062130"
+    ],
+    [
+      "Adventures in Symbolic Algebra with Model Context Protocol",
+      "https://www.stephendiehl.com/posts/computer_algebra_mcp/"
     ]
   ],
   [
