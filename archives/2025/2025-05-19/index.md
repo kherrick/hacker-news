@@ -64,6 +64,7 @@
 * [2025-05-19, 11:06:59](https://news.ycombinator.com/item?id=44028483) - [Monitoring Node.js: Key Metrics You Should Track](https://last9.io/blog/node-js-key-metrics/)
 * [2025-05-19, 11:00:25](https://news.ycombinator.com/item?id=44028435) - [You're Worshipping Your Phone](https://etymology.substack.com/p/youre-literally-worshipping-your)
 * [2025-05-19, 10:50:40](https://news.ycombinator.com/item?id=44028384) - [Is Winter Coming? – Datagubbe.se](https://www.datagubbe.se/winter/)
+* [2025-05-19, 10:45:00](https://news.ycombinator.com/item?id=44028360) - [Tab Roving – focus management for element groups](https://nik.digital/posts/tab-roving)
 * [2025-05-19, 10:33:02](https://news.ycombinator.com/item?id=44028286) - [How we made iText's table rendering faster](https://kb.itextpdf.com/itext/how-i-made-pdf-table-rendering-faster)
 * [2025-05-19, 10:27:34](https://news.ycombinator.com/item?id=44028250) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
 * [2025-05-19, 10:12:53](https://news.ycombinator.com/item?id=44028153) - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
 * [2025-05-22, 23:51:20](https://news.ycombinator.com/item?id=44068400) - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
+* [2025-05-22, 23:20:48](https://news.ycombinator.com/item?id=44068210) - [Management = Bullshit (LLM Edition)](http://funcall.blogspot.com/2025/05/management-bullshit.html)
 * [2025-05-22, 23:19:36](https://news.ycombinator.com/item?id=44068204) - [Sketchy Calendar](https://www.inkandswitch.com/ink/notes/sketchy-calendar/)
 * [2025-05-22, 23:18:22](https://news.ycombinator.com/item?id=44068197) - [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
 * [2025-05-22, 22:53:45](https://news.ycombinator.com/item?id=44068028) - [Stargate and the AI Industrial Revolution](https://davefriedman.substack.com/p/stargate-and-the-ai-industrial-revolution)
