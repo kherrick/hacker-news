@@ -13,6 +13,7 @@
 * [2025-05-20, 21:16:27](https://news.ycombinator.com/item?id=44045998) - [Our Journey Through Linux/Unix Landscapes](https://blog.kalvad.com/our-journey-through-linux-unix-landscapes/)
 * [2025-05-20, 20:48:15](https://news.ycombinator.com/item?id=44045767) - [Show HN: I made IP-to-Geo location data library for developers](https://ip2geo.framer.website/)
 * [2025-05-20, 20:40:36](https://news.ycombinator.com/item?id=44045691) - [Photos in a Similar Style Aren't Copyright-Infringing–Woodland vs. Lil Nas X](https://blog.ericgoldman.org/archives/2025/05/photos-in-a-similar-style-arent-copyright-infringing-woodland-v-lil-nas-x.htm)
+* [2025-05-20, 20:32:08](https://news.ycombinator.com/item?id=44045617) - [Quantum Picturalism](https://quantuminpictures.org/)
 * [2025-05-20, 19:58:27](https://news.ycombinator.com/item?id=44045292) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 19:09:41](https://news.ycombinator.com/item?id=44044834) - [Show HN: Bricks – One Click Dashboards from Your Data Using AI](https://app.thebricks.com/sign-up)
 * [2025-05-20, 18:40:35](https://news.ycombinator.com/item?id=44044544) - [On-device small language models with multimodality, RAG, and Function Calling](https://developers.googleblog.com/en/google-ai-edge-small-language-models-multimodality-rag-function-calling/)
