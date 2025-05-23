@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-05-23, 01:17:22",
+      "https://news.ycombinator.com/item?id=44068891"
+    ],
+    [
+      "Building Twice: A clone of Once by 37signals",
+      "https://stanko.io/building-twice-a-clone-of-once-gJKxLYCe26Ak"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 00:15:56",
+      "https://news.ycombinator.com/item?id=44068525"
+    ],
+    [
+      "The Copilot Delusion",
+      "https://deplet.ing/the-copilot-delusion/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 23:51:20",
+      "https://news.ycombinator.com/item?id=44068400"
+    ],
+    [
+      "The Future of Flatpak",
+      "https://lwn.net/Articles/1020571/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 23:19:36",
+      "https://news.ycombinator.com/item?id=44068204"
+    ],
+    [
+      "Sketchy Calendar",
+      "https://www.inkandswitch.com/ink/notes/sketchy-calendar/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 23:18:22",
+      "https://news.ycombinator.com/item?id=44068197"
+    ],
+    [
+      "32 Bits That Changed Microprocessor Design",
+      "https://spectrum.ieee.org/bellmac-32-ieee-milestone"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 22:53:45",
       "https://news.ycombinator.com/item?id=44068028"
     ],
@@ -11,21 +61,11 @@
   ],
   [
     [
-      "2025-05-22, 22:37:44",
-      "https://news.ycombinator.com/item?id=44067913"
-    ],
-    [
-      "Faster Firewalls with Bpfilter",
-      "https://lwn.net/Articles/1017705/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 22:20:00",
       "https://news.ycombinator.com/item?id=44067767"
     ],
     [
-      "\"Secret Mall Apartment,\" a Protest for Place",
+      "“Secret Mall Apartment,” a Protest for Place",
       "https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/"
     ]
   ],
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2025-05-22, 20:02:00",
-      "https://news.ycombinator.com/item?id=44066237"
-    ],
-    [
-      "Async from scratch 3: Pinned against the wall",
-      "https://natkr.com/2025-05-22-async-from-scratch-3/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 19:25:10",
       "https://news.ycombinator.com/item?id=44065775"
     ],
@@ -81,32 +111,22 @@
   ],
   [
     [
+      "2025-05-22, 19:16:30",
+      "https://news.ycombinator.com/item?id=44065680"
+    ],
+    [
+      "1,145 pull requests per day",
+      "https://saile.it/1145-pull-requests-per-day/"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 18:58:25",
       "https://news.ycombinator.com/item?id=44065458"
     ],
     [
       "Does Earth have two high-tide bulges on opposite sides? (2014)",
       "http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 18:36:07",
-      "https://news.ycombinator.com/item?id=44065218"
-    ],
-    [
-      "The Next Abstraction",
-      "https://substack.com/inbox/post/164096497"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 18:29:40",
-      "https://news.ycombinator.com/item?id=44065146"
-    ],
-    [
-      "Practicing graphical debugging using visualizations of the Hilbert curve",
-      "https://akkartik.name/debugUIs.html"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Loading Pydantic models from JSON without running out of memory",
       "https://pythonspeed.com/articles/pydantic-json-memory/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 17:48:05",
-      "https://news.ycombinator.com/item?id=44064631"
-    ],
-    [
-      "Trump administration halts Harvard's ability to enroll international students",
-      "https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html"
     ]
   ],
   [
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=44063248"
     ],
     [
-      "That fractal that's been up on my wall for 12 years",
+      "That fractal that's been up on my wall for years",
       "https://chriskw.xyz/2025/05/21/Fractal/"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "Fast Allocations in Ruby 3.5",
       "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 13:59:25",
-      "https://news.ycombinator.com/item?id=44062130"
-    ],
-    [
-      "Adventures in Symbolic Algebra with Model Context Protocol",
-      "https://www.stephendiehl.com/posts/computer_algebra_mcp/"
     ]
   ],
   [
@@ -251,12 +251,22 @@
   ],
   [
     [
-      "2025-05-19, 14:26:12",
-      "https://news.ycombinator.com/item?id=44030263"
+      "2025-05-19, 22:01:40",
+      "https://news.ycombinator.com/item?id=44035377"
     ],
     [
-      "Research Uncovers Parthenon Spectacular Lighting Effects for Athena in Antiquity",
-      "https://arkeonews.net/research-uncovers-the-parthenons-spectacular-lighting-effects-for-athena-in-antiquity/"
+      "Martin Crusius' Armchair Voyage",
+      "https://www.historytoday.com/archive/history-matters/martin-crusius-armchair-voyage"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 19:09:29",
+      "https://news.ycombinator.com/item?id=44033606"
+    ],
+    [
+      "A Scientist Fighting Nuclear Armageddon Hid a 50-Year Secret",
+      "https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "When good pseudorandom numbers go bad",
       "https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 03:44:30",
-      "https://news.ycombinator.com/item?id=44026364"
-    ],
-    [
-      "Four years of sight reading practice",
-      "https://sandrock.co.za/carl/2025/05/four-years-of-sight-reading-pracice/"
     ]
   ]
 ]
