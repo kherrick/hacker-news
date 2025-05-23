@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-05-23, 11:10:57",
+      "https://news.ycombinator.com/item?id=44071747"
+    ],
+    [
+      "Everything Not Forbidden Is Compulsory",
+      "https://www.drorpoleg.com/everything-not-forbidden-is-compulsory/"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 10:58:00",
+      "https://news.ycombinator.com/item?id=44071701"
+    ],
+    [
+      "Realtek's $10 tiny 10GbE NIC will hit motherboards soon",
+      "https://www.tomshardware.com/networking/realteks-usd10-tiny-10gbe-network-adapter-is-coming-to-motherboards-later-this-year"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 10:41:12",
       "https://news.ycombinator.com/item?id=44071610"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-05-22, 18:06:37",
-      "https://news.ycombinator.com/item?id=44064875"
-    ],
-    [
-      "Loading Pydantic models from JSON without running out of memory",
-      "https://pythonspeed.com/articles/pydantic-json-memory/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 17:16:25",
       "https://news.ycombinator.com/item?id=44064230"
     ],
@@ -167,16 +177,6 @@
     [
       "Fast Allocations in Ruby 3.5",
       "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 13:25:33",
-      "https://news.ycombinator.com/item?id=44061836"
-    ],
-    [
-      "Show HN: SQLite JavaScript - extend your database with JavaScript",
-      "https://github.com/sqliteai/sqlite-js"
     ]
   ],
   [
