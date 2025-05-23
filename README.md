@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [PostgreSQL IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
 * [2025-05-23, 14:00:25](https://news.ycombinator.com/item?id=44072971) - [How I ended up flying for Yemen's national airline – and survived](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html)
 * [2025-05-23, 13:39:26](https://news.ycombinator.com/item?id=44072788) - [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
@@ -17,7 +18,6 @@
 * [2025-05-22, 16:34:42](https://news.ycombinator.com/item?id=44063703) - [Claude 4](https://www.anthropic.com/news/claude-4)
 * [2025-05-22, 16:30:18](https://news.ycombinator.com/item?id=44063662) - [Mozilla to shut down Pocket and Fakespot](https://support.mozilla.org/en-US/kb/future-of-pocket)
 * [2025-05-22, 15:50:16](https://news.ycombinator.com/item?id=44063248) - [That fractal that's been up on my wall for years](https://chriskw.xyz/2025/05/21/Fractal/)
-* [2025-05-22, 14:09:25](https://news.ycombinator.com/item?id=44062227) - [I Built My Own Audio Player](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
 * [2025-05-22, 14:01:55](https://news.ycombinator.com/item?id=44062160) - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
 * [2025-05-22, 11:59:03](https://news.ycombinator.com/item?id=44061160) - [Improving performance of rav1d video decoder](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
 * [2025-05-22, 08:52:17](https://news.ycombinator.com/item?id=44060156) - [Ancient law requires a bale of straw to hang from Charing Cross rail bridge](https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/)
