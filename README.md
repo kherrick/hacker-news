@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-23, 20:09:01](https://news.ycombinator.com/item?id=44076170) - [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
 * [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 * [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
 * [2025-05-23, 18:46:57](https://news.ycombinator.com/item?id=44075388) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
@@ -7,7 +8,6 @@
 * [2025-05-23, 18:43:25](https://news.ycombinator.com/item?id=44075346) - [Google's AI Mode is 'the definition of theft,' publishers say](https://9to5google.com/2025/05/22/google-ai-mode-theft-publisher-opt-out-controls/)
 * [2025-05-23, 18:33:07](https://news.ycombinator.com/item?id=44075254) - [Types of optical systems in a lens designer's toolbox (2020)](https://www.pencilofrays.com/lens-design-forms/)
 * [2025-05-23, 18:30:07](https://news.ycombinator.com/item?id=44075236) - [Japan and the Birth of Modern Shipbuilding](https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding)
-* [2025-05-23, 18:30:05](https://news.ycombinator.com/item?id=44075235) - [Comparison of Spreadsheet Software](https://grid.is/blog/comparison-of-spreadsheet-software)
 * [2025-05-23, 18:14:29](https://news.ycombinator.com/item?id=44075105) - [Attention Wasn't All We Needed](https://www.stephendiehl.com/posts/post_transformers/)
 * [2025-05-23, 17:22:20](https://news.ycombinator.com/item?id=44074684) - [Alberta separatism push roils Canada](https://www.nytimes.com/2025/05/22/world/canada/alberta-separatism-referendum.html)
 * [2025-05-23, 17:20:40](https://news.ycombinator.com/item?id=44074668) - [Positional preferences, order effects, prompt sensitivity undermine AI judgments](https://www.cip.org/blog/llm-judges-are-unreliable)
