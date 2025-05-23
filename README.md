@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-23, 06:50:18](https://news.ycombinator.com/item?id=44070532) - [KumoRFM: A Foundation Model for In-Context Learning on Relational Data](https://kumo.ai/company/news/kumo-relational-foundation-model/)
 * [2025-05-23, 05:14:16](https://news.ycombinator.com/item?id=44070042) - [John Carmack at Upper Bound 2025 (slides and notes)](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
 * [2025-05-23, 04:46:37](https://news.ycombinator.com/item?id=44069923) - [Lockheed Martin and IBM combine quantum computing with HPC in new research](https://www.ibm.com/quantum/blog/lockheed-martin-sqd)
 * [2025-05-23, 02:29:28](https://news.ycombinator.com/item?id=44069304) - [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
@@ -9,7 +10,6 @@
 * [2025-05-22, 23:18:22](https://news.ycombinator.com/item?id=44068197) - [32 bits that changed microprocessor design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
 * [2025-05-22, 22:20:00](https://news.ycombinator.com/item?id=44067767) - [“Secret Mall Apartment,” a Protest for Place](https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/)
 * [2025-05-22, 21:40:54](https://news.ycombinator.com/item?id=44067409) - [Show HN: Defuddle, an HTML-to-Markdown alternative to Readability](https://github.com/kepano/defuddle)
-* [2025-05-22, 20:41:14](https://news.ycombinator.com/item?id=44066713) - [Trade Secrecy in Willy Wonka's Chocolate Factory (2009)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463)
 * [2025-05-22, 19:16:30](https://news.ycombinator.com/item?id=44065680) - [1,145 pull requests per day](https://saile.it/1145-pull-requests-per-day/)
 * [2025-05-22, 18:58:25](https://news.ycombinator.com/item?id=44065458) - [Does Earth have two high-tide bulges on opposite sides? (2014)](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
 * [2025-05-22, 18:25:07](https://news.ycombinator.com/item?id=44065094) - [How to cheat at settlers by loading the dice (2017)](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
