@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
+* [2025-05-23, 14:00:25](https://news.ycombinator.com/item?id=44072971) - [How I ended up flying for Yemen's national airline – and survived](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html)
+* [2025-05-23, 13:39:26](https://news.ycombinator.com/item?id=44072788) - [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
 * [2025-05-23, 11:37:07](https://news.ycombinator.com/item?id=44071900) - [Remembering Alasdair MacIntyre](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
 * [2025-05-23, 10:41:12](https://news.ycombinator.com/item?id=44071610) - [Writing A Job Runner (In Elixir) (Again) (10 years later)](https://github.com/notactuallytreyanastasio/genstage_tutorial_2025/blob/main/README.md)
 * [2025-05-23, 09:54:38](https://news.ycombinator.com/item?id=44071418) - [OpenAI: Scaling PostgreSQL to the Next Level](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level)
@@ -25,11 +27,9 @@
 * [2025-05-21, 05:36:16](https://news.ycombinator.com/item?id=44048574) - [Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking](https://arxiv.org/abs/2504.05652)
 * [2025-05-20, 20:32:08](https://news.ycombinator.com/item?id=44045617) - [Quantum Picturalism](https://quantuminpictures.org/)
 * [2025-05-19, 23:44:00](https://news.ycombinator.com/item?id=44036208) - [A Formal Mathematical Investigation on the Validity of Kellogg's Glaze Claims](https://old.reddit.com/r/theydidthemath/comments/1iljmig/_/)
-* [2025-05-19, 19:09:29](https://news.ycombinator.com/item?id=44033606) - [Richard Garwin’s role in designing the hydrogen bomb was obscured](https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html)
 * [2025-05-19, 16:48:29](https://news.ycombinator.com/item?id=44031755) - [Bits with Soul](https://www.darwin.cam.ac.uk/lectures/entry/bits-with-soul/)
 * [2025-05-19, 15:47:51](https://news.ycombinator.com/item?id=44031082) - ['Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/)
 * [2025-05-19, 07:58:59](https://news.ycombinator.com/item?id=44027471) - [Tallest Wooden Wind Turbine](https://modvion.com/)
-* [2025-05-19, 04:31:39](https://news.ycombinator.com/item?id=44026516) - [When a team is too big](https://blog.alexewerlof.com/p/when-a-team-is-too-big)
 
 ## [Archives](archives/index.md)
 

@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
+* [2025-05-23, 14:00:25](https://news.ycombinator.com/item?id=44072971) - [How I ended up flying for Yemen's national airline – and survived](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html)
 * [2025-05-23, 13:55:48](https://news.ycombinator.com/item?id=44072922) - [Amdash – Human only punctuation mark](https://www.theamdash.com)
+* [2025-05-23, 13:39:26](https://news.ycombinator.com/item?id=44072788) - [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
 * [2025-05-23, 12:04:27](https://news.ycombinator.com/item?id=44072081) - [Ship footage captures sound of Titan sub imploding](https://www.bbc.com/news/articles/c5yg5qggvwjo)
 * [2025-05-23, 11:37:07](https://news.ycombinator.com/item?id=44071900) - [Alasdair MacIntyre Has Died](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
 * [2025-05-23, 11:10:57](https://news.ycombinator.com/item?id=44071747) - [Everything Not Forbidden Is Compulsory](https://www.drorpoleg.com/everything-not-forbidden-is-compulsory/)
