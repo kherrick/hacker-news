@@ -57,6 +57,7 @@
 * [2025-05-20, 10:07:55](https://news.ycombinator.com/item?id=44039808) - [We did the math on AI's energy footprint. Here's the story you haven't heard](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
 * [2025-05-20, 10:06:52](https://news.ycombinator.com/item?id=44039798) - [Show HN: Metal – stealth browser for enterprise automations](https://metalsecurity.io)
 * [2025-05-20, 09:58:56](https://news.ycombinator.com/item?id=44039744) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
+* [2025-05-20, 09:34:15](https://news.ycombinator.com/item?id=44039604) - [Visual Studio Code: Text Buffer Reimplementation (2018)](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
 * [2025-05-20, 09:27:20](https://news.ycombinator.com/item?id=44039563) - [The Behavior of LLMs in Hiring Decisions: Systemic Biases in Candidate Selection](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring)
 * [2025-05-20, 07:52:31](https://news.ycombinator.com/item?id=44038917) - [Center for AI Safety's new spokesperson suggests „burning down labs\"](https://twitter.com/drtechlash/status/1924639190958199115)
 * [2025-05-20, 07:52:25](https://news.ycombinator.com/item?id=44038915) - [I trapped an AI model inside an art installation [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)

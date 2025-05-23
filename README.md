@@ -28,7 +28,7 @@
 * [2025-05-23, 07:50:54](https://news.ycombinator.com/item?id=44070812) - [Show HN: GetStack.dev – Track GitHub open-source trends](https://getstack.dev)
 * [2025-05-23, 05:14:16](https://news.ycombinator.com/item?id=44070042) - [John Carmack talk at Upper Bound 2025](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
 * [2025-05-21, 11:37:37](https://news.ycombinator.com/item?id=44050353) - [From RPC to transactions and durable executions](https://www.pramodb.com/index.php/2025/05/21/from-rpc-to-transactions-and-durable-executions/)
-* [2025-05-20, 05:23:54](https://news.ycombinator.com/item?id=44038067) - [Christopher Hill's History from Below](https://www.thenation.com/article/society/christopher-hill-life-of/)
+* [2025-05-20, 09:34:15](https://news.ycombinator.com/item?id=44039604) - [Visual Studio Code: Text Buffer Reimplementation (2018)](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
 * [2025-05-19, 18:22:34](https://news.ycombinator.com/item?id=44032995) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
 
 ## [Archives](archives/index.md)
