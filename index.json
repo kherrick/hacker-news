@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-05-23, 17:21:22",
-      "https://news.ycombinator.com/item?id=44074672"
+      "2025-05-23, 17:20:40",
+      "https://news.ycombinator.com/item?id=44074668"
     ],
     [
-      "Why is file storage and CDN delivery still so fucking hard even in 2025?",
-      "https://filezen.dev"
+      "LLM Judges Are Unreliable",
+      "https://www.cip.org/blog/llm-judges-are-unreliable"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44073588"
     ],
     [
-      "PostgreSQL IDE in VS Code",
+      "Postgres IDE in VS Code",
       "https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648"
     ]
   ],
