@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-23, 07:12:33",
+      "https://news.ycombinator.com/item?id=44070626"
+    ],
+    [
+      "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
+      "https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 06:50:18",
       "https://news.ycombinator.com/item?id=44070532"
     ],
@@ -177,16 +187,6 @@
     [
       "Fast Allocations in Ruby 3.5",
       "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 13:59:25",
-      "https://news.ycombinator.com/item?id=44062130"
-    ],
-    [
-      "Adventures in Symbolic Algebra with Model Context Protocol",
-      "https://www.stephendiehl.com/posts/computer_algebra_mcp/"
     ]
   ],
   [
