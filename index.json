@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-23, 17:21:22",
+      "https://news.ycombinator.com/item?id=44074672"
+    ],
+    [
+      "Why is file storage and CDN delivery still so fucking hard even in 2025?",
+      "https://filezen.dev"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 17:17:26",
+      "https://news.ycombinator.com/item?id=44074637"
+    ],
+    [
+      "Into The Tunnel: The secret life of wind tunnels",
+      "https://jordanwtaylor2.substack.com/p/into-the-tunnel"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 17:03:10",
+      "https://news.ycombinator.com/item?id=44074531"
+    ],
+    [
+      "You Don't Need Re-Ranking: Understanding the Superlinked Vector Layer",
+      "https://superlinked.com/vectorhub/articles/why-do-not-need-re-ranking"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 16:58:39",
+      "https://news.ycombinator.com/item?id=44074487"
+    ],
+    [
+      "Sesame Scheme: Unintended Consequences of Allergen Food Labeling",
+      "https://www.choicesmagazine.org/choices-magazine/submitted-articles/unintended-consequences-of-allergen-food-labeling"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 16:13:43",
       "https://news.ycombinator.com/item?id=44074111"
     ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2025-05-22, 23:19:36",
-      "https://news.ycombinator.com/item?id=44068204"
-    ],
-    [
-      "Sketchy Calendar",
-      "https://www.inkandswitch.com/ink/notes/sketchy-calendar/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 21:40:54",
       "https://news.ycombinator.com/item?id=44067409"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-05-22, 17:16:25",
-      "https://news.ycombinator.com/item?id=44064230"
-    ],
-    [
-      "We’ll be ending web hosting for your apps on Glitch",
-      "https://blog.glitch.com/post/changes-are-coming-to-glitch/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 16:34:42",
       "https://news.ycombinator.com/item?id=44063703"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2025-05-22, 16:30:18",
-      "https://news.ycombinator.com/item?id=44063662"
-    ],
-    [
-      "Mozilla to shut down Pocket and Fakespot",
-      "https://support.mozilla.org/en-US/kb/future-of-pocket"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 15:50:16",
       "https://news.ycombinator.com/item?id=44063248"
     ],
     [
       "That fractal that's been up on my wall for years",
       "https://chriskw.xyz/2025/05/21/Fractal/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 14:01:55",
-      "https://news.ycombinator.com/item?id=44062160"
-    ],
-    [
-      "Fast Allocations in Ruby 3.5",
-      "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/"
     ]
   ],
   [
