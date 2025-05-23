@@ -10,7 +10,6 @@
 * [2025-05-23, 18:44:31](https://news.ycombinator.com/item?id=44075353) - [Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
 * [2025-05-23, 18:33:07](https://news.ycombinator.com/item?id=44075254) - [Types of optical systems in a lens designer's toolbox (2020)](https://www.pencilofrays.com/lens-design-forms/)
 * [2025-05-23, 18:30:07](https://news.ycombinator.com/item?id=44075236) - [Japan and the Birth of Modern Shipbuilding](https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding)
-* [2025-05-23, 18:14:29](https://news.ycombinator.com/item?id=44075105) - [Attention Wasn't All We Needed](https://www.stephendiehl.com/posts/post_transformers/)
 * [2025-05-23, 17:20:40](https://news.ycombinator.com/item?id=44074668) - [Positional preferences, order effects, prompt sensitivity undermine AI judgments](https://www.cip.org/blog/llm-judges-are-unreliable)
 * [2025-05-23, 17:17:26](https://news.ycombinator.com/item?id=44074637) - [Into The Tunnel: The secret life of wind tunnels](https://jordanwtaylor2.substack.com/p/into-the-tunnel)
 * [2025-05-23, 16:58:39](https://news.ycombinator.com/item?id=44074487) - [Sesame Scheme: Unintended Consequences of Allergen Food Labeling](https://www.choicesmagazine.org/choices-magazine/submitted-articles/unintended-consequences-of-allergen-food-labeling)
@@ -30,6 +29,7 @@
 * [2025-05-21, 11:37:37](https://news.ycombinator.com/item?id=44050353) - [From RPC to transactions and durable executions](https://www.pramodb.com/index.php/2025/05/21/from-rpc-to-transactions-and-durable-executions/)
 * [2025-05-20, 09:34:15](https://news.ycombinator.com/item?id=44039604) - [Visual Studio Code: Text Buffer Reimplementation (2018)](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
 * [2025-05-19, 18:22:34](https://news.ycombinator.com/item?id=44032995) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
+* [2025-05-19, 07:58:59](https://news.ycombinator.com/item?id=44027471) - [Tallest Wooden Wind Turbine](https://modvion.com/)
 
 ## [Archives](archives/index.md)
 
