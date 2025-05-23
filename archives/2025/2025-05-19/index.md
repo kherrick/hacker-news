@@ -55,6 +55,7 @@
 * [2025-05-19, 13:34:46](https://news.ycombinator.com/item?id=44029713) - [Oregon spent funds meant for addiction services on prosecutors, police gadgets](https://www.theguardian.com/us-news/2025/may/19/oregon-addiction-spending)
 * [2025-05-19, 13:24:14](https://news.ycombinator.com/item?id=44029619) - [Visualizing 100k Years of Earth in WebGL](https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/)
 * [2025-05-19, 13:19:11](https://news.ycombinator.com/item?id=44029566) - [Fabric Is Just Plain Unreliable, and Microsoft's Hiding It](https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/)
+* [2025-05-19, 13:13:34](https://news.ycombinator.com/item?id=44029513) - [Corrugation-Dominated Mechanical Softening of Defect-Engineered Graphene](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.166102)
 * [2025-05-19, 13:06:55](https://news.ycombinator.com/item?id=44029435) - [Diffusion Models Explained Simply](https://www.seangoedecke.com/diffusion-models-explained/)
 * [2025-05-19, 12:36:38](https://news.ycombinator.com/item?id=44029191) - [Attack of the Sadistic Zombies – Paul Krugman](https://paulkrugman.substack.com/p/attack-of-the-sadistic-zombies)
 * [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
