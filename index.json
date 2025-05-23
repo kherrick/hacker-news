@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-23, 15:12:44",
+      "https://news.ycombinator.com/item?id=44073588"
+    ],
+    [
+      "PostgreSQL IDE in VS Code",
+      "https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 14:22:53",
       "https://news.ycombinator.com/item?id=44073185"
     ],
@@ -167,16 +177,6 @@
     [
       "That fractal that's been up on my wall for years",
       "https://chriskw.xyz/2025/05/21/Fractal/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 14:09:25",
-      "https://news.ycombinator.com/item?id=44062227"
-    ],
-    [
-      "I Built My Own Audio Player",
-      "https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/"
     ]
   ],
   [
