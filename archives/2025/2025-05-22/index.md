@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 23:51:20](https://news.ycombinator.com/item?id=44068400) - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
+* [2025-05-22, 23:19:36](https://news.ycombinator.com/item?id=44068204) - [Sketchy Calendar](https://www.inkandswitch.com/ink/notes/sketchy-calendar/)
+* [2025-05-22, 23:18:22](https://news.ycombinator.com/item?id=44068197) - [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
 * [2025-05-22, 22:53:45](https://news.ycombinator.com/item?id=44068028) - [Stargate and the AI Industrial Revolution](https://davefriedman.substack.com/p/stargate-and-the-ai-industrial-revolution)
 * [2025-05-22, 22:37:44](https://news.ycombinator.com/item?id=44067913) - [Faster Firewalls with Bpfilter](https://lwn.net/Articles/1017705/)
 * [2025-05-22, 22:20:00](https://news.ycombinator.com/item?id=44067767) - [\"Secret Mall Apartment,\" a Protest for Place](https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/)
@@ -16,6 +19,7 @@
 * [2025-05-22, 19:53:37](https://news.ycombinator.com/item?id=44066120) - [Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent](https://github.com/xe-nvdk/rtcollector)
 * [2025-05-22, 19:26:57](https://news.ycombinator.com/item?id=44065795) - [The Christians Who Believe Empathy Is a Sin](https://nymag.com/intelligencer/article/christian-sin-of-empathy-trump-era.html)
 * [2025-05-22, 19:25:10](https://news.ycombinator.com/item?id=44065775) - [Problems in AI alignment: A scale model](https://muldoon.cloud/2025/05/22/alignment.html)
+* [2025-05-22, 19:16:30](https://news.ycombinator.com/item?id=44065680) - [1,145 pull requests per day](https://saile.it/1145-pull-requests-per-day/)
 * [2025-05-22, 18:58:25](https://news.ycombinator.com/item?id=44065458) - [Does Earth have two high-tide bulges on opposite sides? (2014)](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
 * [2025-05-22, 18:42:33](https://news.ycombinator.com/item?id=44065299) - [Kangaroo: A flash cache optimized for tiny objects (2021)](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
 * [2025-05-22, 18:36:07](https://news.ycombinator.com/item?id=44065218) - [The Next Abstraction](https://substack.com/inbox/post/164096497)
