@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-23, 15:43:54",
+      "https://news.ycombinator.com/item?id=44073870"
+    ],
+    [
+      "Slime (2021)",
+      "https://granta.com/slime/"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 15:33:00",
+      "https://news.ycombinator.com/item?id=44073785"
+    ],
+    [
+      "MCP is the coming of Web 2.0 2.0",
+      "https://www.anildash.com//2025/05/20/mcp-web20-20/"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 15:12:44",
       "https://news.ycombinator.com/item?id=44073588"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-05-22, 14:09:25",
-      "https://news.ycombinator.com/item?id=44062227"
-    ],
-    [
-      "I Built My Own Audio Player",
-      "https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 14:01:55",
       "https://news.ycombinator.com/item?id=44062160"
     ],
     [
       "Fast Allocations in Ruby 3.5",
       "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 11:59:03",
-      "https://news.ycombinator.com/item?id=44061160"
-    ],
-    [
-      "Improving performance of rav1d video decoder",
-      "https://ohadravid.github.io/posts/2025-05-rav1d-faster/"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "The Curious Case of the Pygmy Nuthatch",
       "https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 11:19:59",
-      "https://news.ycombinator.com/item?id=44050269"
-    ],
-    [
-      "A South Korean grand master on the art of the perfect soy sauce",
-      "https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "A Formal Mathematical Investigation on the Validity of Kellogg's Glaze Claims",
       "https://old.reddit.com/r/theydidthemath/comments/1iljmig/_/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 18:22:34",
+      "https://news.ycombinator.com/item?id=44032995"
+    ],
+    [
+      "Designing type inference for high quality type errors",
+      "https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html"
     ]
   ],
   [
