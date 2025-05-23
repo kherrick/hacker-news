@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
+* [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
 * [2025-05-23, 18:44:31](https://news.ycombinator.com/item?id=44075353) - [Show HN: Hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
 * [2025-05-23, 18:33:07](https://news.ycombinator.com/item?id=44075254) - [Types of optical systems in a lens designer's toolbox (2020)](https://www.pencilofrays.com/lens-design-forms/)
 * [2025-05-23, 18:14:29](https://news.ycombinator.com/item?id=44075105) - [Attention Wasn't All We Needed](https://www.stephendiehl.com/posts/post_transformers/)
