@@ -22,6 +22,7 @@
 * [2025-05-19, 19:09:29](https://news.ycombinator.com/item?id=44033606) - [A Scientist Fighting Nuclear Armageddon Hid a 50-Year Secret](https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html)
 * [2025-05-19, 18:45:41](https://news.ycombinator.com/item?id=44033310) - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
 * [2025-05-19, 18:23:45](https://news.ycombinator.com/item?id=44033009) - [Show HN: A native Hacker News reader with integrated todo/done tracking](https://github.com/haojiang99/hacker_news_reader)
+* [2025-05-19, 18:16:33](https://news.ycombinator.com/item?id=44032922) - [W.a.s.t.e. Not: John Scanlan looks for the future in the dustbins of history](https://thebaffler.com/latest/w-a-s-t-e-not-adams)
 * [2025-05-19, 18:04:06](https://news.ycombinator.com/item?id=44032777) - [Claude Code SDK – Anthropic](https://docs.anthropic.com/en/docs/claude-code/sdk)
 * [2025-05-19, 17:59:16](https://news.ycombinator.com/item?id=44032717) - [Microsoft's ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
 * [2025-05-19, 17:56:10](https://news.ycombinator.com/item?id=44032680) - [Writing into Uninitialized Buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
