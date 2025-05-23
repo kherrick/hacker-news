@@ -59,6 +59,7 @@
 * [2025-05-19, 12:36:38](https://news.ycombinator.com/item?id=44029191) - [Attack of the Sadistic Zombies – Paul Krugman](https://paulkrugman.substack.com/p/attack-of-the-sadistic-zombies)
 * [2025-05-19, 12:31:33](https://news.ycombinator.com/item?id=44029142) - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 * [2025-05-19, 12:23:39](https://news.ycombinator.com/item?id=44029057) - [Show HN: Appwrite Sites – the open-source vercel alternative](https://appwrite.io/blog/post/announcing-appwrite-sites)
+* [2025-05-19, 12:13:09](https://news.ycombinator.com/item?id=44028990) - [Why does the Beetham Tower hum?](http://trevorcox.me/why-does-the-beetham-tower-hum)
 * [2025-05-19, 11:25:32](https://news.ycombinator.com/item?id=44028616) - [Airport for DuckDB](https://airport.query.farm/)
 * [2025-05-19, 11:21:59](https://news.ycombinator.com/item?id=44028587) - ['Significant amount' of private data stolen in UK Legal Aid hack](https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o)
 * [2025-05-19, 11:19:27](https://news.ycombinator.com/item?id=44028566) - [The White House, LLC](https://english.elpais.com/economy-and-business/2025-05-19/the-white-house-llc.html)
