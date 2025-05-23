@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-05-23, 13:55:48",
-      "https://news.ycombinator.com/item?id=44072922"
+      "2025-05-23, 14:22:53",
+      "https://news.ycombinator.com/item?id=44073185"
     ],
     [
-      "Amdash – Human only punctuation mark",
-      "https://www.theamdash.com"
+      "Caesar's Last Breath",
+      "https://charliesabino.com/caesars-last-breath/"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Remembering Alasdair MacIntyre",
       "https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 10:49:36",
-      "https://news.ycombinator.com/item?id=44071668"
-    ],
-    [
-      "How to make o4-mini report you to the FBI",
-      "https://gist.github.com/t3dotgg/55cd42f7dcecf72509b3538d3b81d4da"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Fast Allocations in Ruby 3.5",
       "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 13:25:33",
+      "https://news.ycombinator.com/item?id=44061836"
+    ],
+    [
+      "Show HN: SQLite JavaScript - extend your database with JavaScript",
+      "https://github.com/sqliteai/sqlite-js"
     ]
   ],
   [
