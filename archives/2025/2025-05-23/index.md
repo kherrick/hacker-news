@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
 * [2025-05-23, 05:14:16](https://news.ycombinator.com/item?id=44070042) - [John Carmack at Upper Bound 2025 (slides and notes)](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
+* [2025-05-23, 04:46:37](https://news.ycombinator.com/item?id=44069923) - [Lockheed Martin and IBM combine quantum computing with HPC in new research](https://www.ibm.com/quantum/blog/lockheed-martin-sqd)
 * [2025-05-23, 04:17:29](https://news.ycombinator.com/item?id=44069817) - [CivitAI Policy Update: Removal of Real-Person Likeness Content](https://civitai.com/articles/15022/policy-update-removal-of-real-person-likeness-content)
 * [2025-05-23, 03:15:30](https://news.ycombinator.com/item?id=44069540) - [Like Lovable but can make apps with gen-AI powered back ends](https://getcreatr.com/)
 * [2025-05-23, 02:29:28](https://news.ycombinator.com/item?id=44069304) - [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
