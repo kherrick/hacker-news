@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-23, 03:15:30](https://news.ycombinator.com/item?id=44069540) - [Like Lovable but can make apps with gen-AI powered back ends](https://getcreatr.com/)
 * [2025-05-23, 02:29:28](https://news.ycombinator.com/item?id=44069304) - [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
 * [2025-05-23, 02:27:27](https://news.ycombinator.com/item?id=44069289) - [Silly job interview questions in Haskell](https://chrispenner.ca/posts/interview)
 * [2025-05-22, 23:51:20](https://news.ycombinator.com/item?id=44068400) - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
@@ -27,7 +28,6 @@
 * [2025-05-19, 19:09:29](https://news.ycombinator.com/item?id=44033606) - [Richard Garwin’s role in designing the hydrogen bomb was obscured](https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html)
 * [2025-05-19, 18:16:33](https://news.ycombinator.com/item?id=44032922) - [W.a.s.t.e. Not: John Scanlan looks for the future in the dustbins of history](https://thebaffler.com/latest/w-a-s-t-e-not-adams)
 * [2025-05-19, 11:25:32](https://news.ycombinator.com/item?id=44028616) - [Airport for DuckDB](https://airport.query.farm/)
-* [2025-05-19, 10:45:00](https://news.ycombinator.com/item?id=44028360) - [Tab Roving – focus management for element groups](https://nik.digital/posts/tab-roving)
 * [2025-05-19, 07:17:50](https://news.ycombinator.com/item?id=44027229) - [When good pseudorandom numbers go bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
 * [2025-05-19, 04:31:39](https://news.ycombinator.com/item?id=44026516) - [When a team is too big](https://blog.alexewerlof.com/p/when-a-team-is-too-big)
 
