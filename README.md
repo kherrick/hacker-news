@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
-* [2025-05-23, 10:43:08](https://news.ycombinator.com/item?id=44071627) - [Remix Breaks Up with React](https://github.com/kayac-chang/remix-website/blob/44b40299fd364b4e825e66f747d3f6cf3dddd884/data/posts/remix-declaration-of-independence.md)
 * [2025-05-23, 09:54:38](https://news.ycombinator.com/item?id=44071418) - [OpenAI: Scaling PostgreSQL to the Next Level](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level)
 * [2025-05-23, 07:30:56](https://news.ycombinator.com/item?id=44070716) - [College English majors can't read](https://kittenbeloved.substack.com/p/college-english-majors-cant-read)
 * [2025-05-23, 06:50:18](https://news.ycombinator.com/item?id=44070532) - [KumoRFM: A Foundation Model for In-Context Learning on Relational Data](https://kumo.ai/company/news/kumo-relational-foundation-model/)
@@ -17,6 +16,7 @@
 * [2025-05-22, 16:34:42](https://news.ycombinator.com/item?id=44063703) - [Claude 4](https://www.anthropic.com/news/claude-4)
 * [2025-05-22, 16:30:18](https://news.ycombinator.com/item?id=44063662) - [Mozilla to shut down Pocket and Fakespot](https://support.mozilla.org/en-US/kb/future-of-pocket)
 * [2025-05-22, 15:50:16](https://news.ycombinator.com/item?id=44063248) - [That fractal that's been up on my wall for years](https://chriskw.xyz/2025/05/21/Fractal/)
+* [2025-05-22, 15:23:40](https://news.ycombinator.com/item?id=44063000) - [Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts](https://news.ycombinator.com/item?id=44063000)
 * [2025-05-22, 14:09:25](https://news.ycombinator.com/item?id=44062227) - [I Built My Own Audio Player](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
 * [2025-05-22, 14:01:55](https://news.ycombinator.com/item?id=44062160) - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
 * [2025-05-22, 13:25:33](https://news.ycombinator.com/item?id=44061836) - [Show HN: SQLite JavaScript - extend your database with JavaScript](https://github.com/sqliteai/sqlite-js)
