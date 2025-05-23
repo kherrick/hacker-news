@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-05-22, 22:20:00",
-      "https://news.ycombinator.com/item?id=44067767"
-    ],
-    [
-      "“Secret Mall Apartment,” a Protest for Place",
-      "https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 21:40:54",
       "https://news.ycombinator.com/item?id=44067409"
     ],
@@ -187,6 +177,16 @@
     [
       "Fast Allocations in Ruby 3.5",
       "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 13:59:25",
+      "https://news.ycombinator.com/item?id=44062130"
+    ],
+    [
+      "Adventures in Symbolic Algebra with Model Context Protocol",
+      "https://www.stephendiehl.com/posts/computer_algebra_mcp/"
     ]
   ],
   [
