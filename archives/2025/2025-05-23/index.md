@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
+* [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
 * [2025-05-23, 13:55:48](https://news.ycombinator.com/item?id=44072922) - [Amdash – Human only punctuation mark](https://www.theamdash.com)
 * [2025-05-23, 12:04:27](https://news.ycombinator.com/item?id=44072081) - [Ship footage captures sound of Titan sub imploding](https://www.bbc.com/news/articles/c5yg5qggvwjo)
 * [2025-05-23, 11:37:07](https://news.ycombinator.com/item?id=44071900) - [Alasdair MacIntyre Has Died](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
