@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-05-23, 12:04:27",
-      "https://news.ycombinator.com/item?id=44072081"
+      "2025-05-23, 11:37:07",
+      "https://news.ycombinator.com/item?id=44071900"
     ],
     [
-      "Ship footage captures sound of Titan sub imploding",
-      "https://www.bbc.com/news/articles/c5yg5qggvwjo"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 10:56:12",
-      "https://news.ycombinator.com/item?id=44071690"
-    ],
-    [
-      "Why I no longer have an old-school cert on my HTTPS site",
-      "https://rachelbythebay.com/w/2025/05/22/ssl/"
+      "Alasdair MacIntyre Has Died",
+      "https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/"
     ]
   ],
   [
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44070042"
     ],
     [
-      "John Carmack talk at Upper Bound 2025 – slides and notes",
+      "John Carmack talk at Upper Bound 2025",
       "https://twitter.com/ID_AA_Carmack/status/1925710474366034326"
     ]
   ],
@@ -57,16 +47,6 @@
     [
       "Lockheed Martin and IBM combine quantum computing with HPC in new research",
       "https://www.ibm.com/quantum/blog/lockheed-martin-sqd"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 23:51:20",
-      "https://news.ycombinator.com/item?id=44068400"
-    ],
-    [
-      "The Future of Flatpak",
-      "https://lwn.net/Articles/1020571/"
     ]
   ],
   [
@@ -121,6 +101,16 @@
   ],
   [
     [
+      "2025-05-22, 18:06:37",
+      "https://news.ycombinator.com/item?id=44064875"
+    ],
+    [
+      "Loading Pydantic models from JSON without running out of memory",
+      "https://pythonspeed.com/articles/pydantic-json-memory/"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 17:16:25",
       "https://news.ycombinator.com/item?id=44064230"
     ],
@@ -157,6 +147,16 @@
     [
       "That fractal that's been up on my wall for years",
       "https://chriskw.xyz/2025/05/21/Fractal/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 15:23:40",
+      "https://news.ycombinator.com/item?id=44063000"
+    ],
+    [
+      "Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts",
+      "https://news.ycombinator.com/item?id=44063000"
     ]
   ],
   [
@@ -207,6 +207,16 @@
     [
       "Ancient law requires a bale of straw to hang from Charing Cross rail bridge",
       "https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 11:52:40",
+      "https://news.ycombinator.com/item?id=44050465"
+    ],
+    [
+      "I spent a year figuring out the weirdest mistake in recent Hollywood history",
+      "https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys",
       "https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 11:25:32",
-      "https://news.ycombinator.com/item?id=44028616"
-    ],
-    [
-      "Airport for DuckDB",
-      "https://airport.query.farm/"
     ]
   ],
   [
