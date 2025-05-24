@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-24, 09:31:33](https://news.ycombinator.com/item?id=44079901) - [My Epic, 40-Year Dungeons and Dragons Odyssey](https://timharford.com/2024/11/my-epic-40-year-dungeons-dragons-odyssey/)
 * [2025-05-24, 07:12:48](https://news.ycombinator.com/item?id=44079331) - [A boy who came back: the near-death, and changed life, of my son Max](https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max)
 * [2025-05-24, 07:05:46](https://news.ycombinator.com/item?id=44079303) - [Ask HN: Go deep into AI/LLMs or just use them as tools?](https://news.ycombinator.com/item?id=44079303)
 * [2025-05-24, 04:36:31](https://news.ycombinator.com/item?id=44078813) - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
 * [2025-05-24, 03:00:53](https://news.ycombinator.com/item?id=44078434) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 * [2025-05-24, 02:30:08](https://news.ycombinator.com/item?id=44078314) - [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
 * [2025-05-24, 01:26:23](https://news.ycombinator.com/item?id=44078100) - [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
-* [2025-05-24, 01:24:57](https://news.ycombinator.com/item?id=44078094) - [Stuff I Learned at Carta](https://lethain.com/stuff-learned-at-carta/)
 * [2025-05-24, 01:07:08](https://news.ycombinator.com/item?id=44078024) - [Show HN: HNRelevant – Add a \"related\" section to Hacker News](https://github.com/imdj/HNRelevant)
 * [2025-05-24, 00:29:28](https://news.ycombinator.com/item?id=44077850) - [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
 * [2025-05-23, 23:28:11](https://news.ycombinator.com/item?id=44077533) - [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
@@ -25,11 +25,11 @@
 * [2025-05-23, 14:22:48](https://news.ycombinator.com/item?id=44073181) - [A Bead Too Far: Rethinking Global Connections Before Columbus](https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-21, 14:06:11](https://news.ycombinator.com/item?id=44051602) - [Faulty 120W charger analysis (Anker GAN Prime) [video]](https://www.youtube.com/watch?v=-JV5VGO55-I)
+* [2025-05-21, 10:29:36](https://news.ycombinator.com/item?id=44050009) - [Ask HN: Selling software to company I work for as an employee](https://news.ycombinator.com/item?id=44050009)
 * [2025-05-21, 09:26:40](https://news.ycombinator.com/item?id=44049713) - [Jupiter was formerly twice its current size, had a much stronger magnetic field](https://phys.org/news/2025-05-jupiter-current-size-stronger-magnetic.html)
 * [2025-05-21, 09:06:46](https://news.ycombinator.com/item?id=44049619) - [Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text](https://github.com/mermaid-js/mermaid)
 * [2025-05-20, 15:15:14](https://news.ycombinator.com/item?id=44042557) - [A Comedian Saves a Model Railroad with Purchase of a New Jersey Home](https://www.wsj.com/lifestyle/model-railroad-james-murray-ac709a96)
 * [2025-05-20, 09:34:15](https://news.ycombinator.com/item?id=44039604) - [Visual Studio Code: Text Buffer Reimplementation (2018)](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
-* [2025-05-20, 05:48:15](https://news.ycombinator.com/item?id=44038172) - [Diary: J. M. Coetzee, (1) Mother Tongue](https://books.substack.com/p/diary-j-m-coetzee-1-mother-tongue)
 
 ## [Archives](archives/index.md)
 
