@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 13:05:56](https://news.ycombinator.com/item?id=44080820) - [The legacy of the iconic Nakagin capsule tower](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/)
+* [2025-05-24, 13:03:36](https://news.ycombinator.com/item?id=44080808) - [Show HN: SuperUtilsPlus - A Modern Alternative to Lodash](https://github.com/dhaxor/super-utils-plus)
 * [2025-05-24, 13:02:00](https://news.ycombinator.com/item?id=44080803) - [Show HN: Rotary Phone Dial Linux Kernel Driver](https://gitlab.com/sephalon/rotary_dial_kmod)
 * [2025-05-24, 12:27:51](https://news.ycombinator.com/item?id=44080640) - [Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa)
 * [2025-05-24, 12:08:15](https://news.ycombinator.com/item?id=44080549) - [Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html)
