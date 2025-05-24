@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 17:01:10](https://news.ycombinator.com/item?id=44082307) - [Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
+* [2025-05-24, 16:59:26](https://news.ycombinator.com/item?id=44082293) - [AI can't even fix a simple bug – but sure, let's fire engineers](https://nmn.gl/blog/ai-scam)
 * [2025-05-24, 16:22:59](https://news.ycombinator.com/item?id=44082058) - [Will the AI backlash spill into the streets?](https://gabrielweinberg.com/p/will-the-ai-backlash-spill-into-the)
 * [2025-05-24, 15:49:12](https://news.ycombinator.com/item?id=44081850) - [Show HN: F2 – Cross-Platform CLI Batch Renaming Tool](https://github.com/ayoisaiah/f2)
 * [2025-05-24, 15:18:56](https://news.ycombinator.com/item?id=44081673) - [From Hosts.txt to Modern Internet Infrastructure](https://axonshield.com/from-hoststxt-to-modern-internet-infrastructure)
 * [2025-05-24, 15:03:37](https://news.ycombinator.com/item?id=44081586) - [The Goodness of Good Writing](https://paulgraham.com/goodwriting.html)
 * [2025-05-24, 14:49:02](https://news.ycombinator.com/item?id=44081494) - [You're a little company, now act like one](https://longform.asmartbear.com/little-company/)
+* [2025-05-24, 14:26:48](https://news.ycombinator.com/item?id=44081346) - [AI, Heidegger, and Evangelion](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion)
 * [2025-05-24, 13:08:42](https://news.ycombinator.com/item?id=44080840) - [DIY Cybersickness Remedies](https://spectrum.ieee.org/diy-cybersickness-remedies)
 * [2025-05-24, 13:05:56](https://news.ycombinator.com/item?id=44080820) - [The legacy of the iconic Nakagin capsule tower](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/)
 * [2025-05-24, 13:03:36](https://news.ycombinator.com/item?id=44080808) - [Show HN: SuperUtilsPlus - A Modern Alternative to Lodash](https://github.com/dhaxor/super-utils-plus)
