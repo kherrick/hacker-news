@@ -8,6 +8,7 @@
 * [2025-05-24, 21:53:47](https://news.ycombinator.com/item?id=44084017) - [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
 * [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
 * [2025-05-24, 21:27:02](https://news.ycombinator.com/item?id=44083910) - [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
+* [2025-05-24, 20:43:11](https://news.ycombinator.com/item?id=44083695) - [The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
 * [2025-05-24, 20:41:41](https://news.ycombinator.com/item?id=44083687) - [Show HN: 1min Workouts for People Who Sit All Day](https://shortreps.com)
 * [2025-05-24, 20:22:59](https://news.ycombinator.com/item?id=44083580) - [The Logistics of Road War in the Wasteland](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
