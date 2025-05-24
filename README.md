@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-24, 13:02:00](https://news.ycombinator.com/item?id=44080803) - [Show HN: Rotary Phone Dial Linux Kernel Driver](https://gitlab.com/sephalon/rotary_dial_kmod)
+* [2025-05-24, 12:27:51](https://news.ycombinator.com/item?id=44080640) - [Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa)
 * [2025-05-24, 12:08:15](https://news.ycombinator.com/item?id=44080549) - [Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html)
+* [2025-05-24, 12:06:06](https://news.ycombinator.com/item?id=44080533) - [The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/)
 * [2025-05-24, 11:41:19](https://news.ycombinator.com/item?id=44080410) - [Show HN: Lnk – Git-native dotfiles manager](https://github.com/yarlson/lnk)
 * [2025-05-24, 11:02:22](https://news.ycombinator.com/item?id=44080237) - [Tariffs in American History](https://imprimis.hillsdale.edu/tariffs-in-american-history/)
-* [2025-05-24, 09:09:18](https://news.ycombinator.com/item?id=44079822) - [HHS Finds Columbia University in Violation of Federal Civil Rights Law](https://www.hhs.gov/press-room/ocr-columbia-violates-federal-civil-rights-law.html)
 * [2025-05-24, 04:36:31](https://news.ycombinator.com/item?id=44078813) - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
 * [2025-05-24, 03:00:53](https://news.ycombinator.com/item?id=44078434) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 * [2025-05-24, 01:24:57](https://news.ycombinator.com/item?id=44078094) - [Stuff I Learned at Carta](https://lethain.com/stuff-learned-at-carta/)
@@ -24,12 +26,10 @@
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
 * [2025-05-23, 14:22:48](https://news.ycombinator.com/item?id=44073181) - [A Bead Too Far: Rethinking Global Connections Before Columbus](https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
-* [2025-05-23, 10:41:12](https://news.ycombinator.com/item?id=44071610) - [Writing A Job Runner (In Elixir) (Again) (10 years later)](https://github.com/notactuallytreyanastasio/genstage_tutorial_2025/blob/main/README.md)
 * [2025-05-21, 20:40:02](https://news.ycombinator.com/item?id=44056097) - [Show HN: High-resolution surface analysis with Lidar data](https://github.com/r-follador/delta-relief)
 * [2025-05-21, 09:26:40](https://news.ycombinator.com/item?id=44049713) - [Jupiter was formerly twice its current size, had a much stronger magnetic field](https://phys.org/news/2025-05-jupiter-current-size-stronger-magnetic.html)
-* [2025-05-21, 09:06:46](https://news.ycombinator.com/item?id=44049619) - [Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text](https://github.com/mermaid-js/mermaid)
+* [2025-05-20, 19:15:31](https://news.ycombinator.com/item?id=44044882) - [Alone and Adrift in the Pacific](https://www.theatlantic.com/magazine/archive/2025/06/commercial-fisherman-shipwreck/682580/)
 * [2025-05-20, 15:37:05](https://news.ycombinator.com/item?id=44042807) - [Autopsy of an LHC Beam Dump](https://home.cern/news/news/accelerators/autopsy-lhc-beam-dump)
-* [2025-05-20, 05:48:15](https://news.ycombinator.com/item?id=44038172) - [Diary: J. M. Coetzee, (1) Mother Tongue](https://books.substack.com/p/diary-j-m-coetzee-1-mother-tongue)
 
 ## [Archives](archives/index.md)
 
