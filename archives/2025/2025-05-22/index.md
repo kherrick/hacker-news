@@ -15,6 +15,7 @@
 * [2025-05-22, 20:41:14](https://news.ycombinator.com/item?id=44066713) - [Trade Secrecy in Willy Wonka's Chocolate Factory (2009)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463)
 * [2025-05-22, 20:40:11](https://news.ycombinator.com/item?id=44066696) - [The Annotated Kolmogorov-Arnold Network (Kan)](https://alexzhang13.github.io/blog/2024/annotated-kan/)
 * [2025-05-22, 20:32:49](https://news.ycombinator.com/item?id=44066597) - [Engineers and AI: ramblings of a small startup founder](https://labadal.com/blogs/ruminations/engineers-and-ai.html)
+* [2025-05-22, 20:24:51](https://news.ycombinator.com/item?id=44066476) - [Planet squeezed in between two stars](https://arstechnica.com/science/2025/05/planet-found-orbiting-backward-between-two-stars/)
 * [2025-05-22, 20:23:07](https://news.ycombinator.com/item?id=44066460) - [It's So Over](https://itssoover.online/)
 * [2025-05-22, 20:02:00](https://news.ycombinator.com/item?id=44066237) - [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
 * [2025-05-22, 19:53:37](https://news.ycombinator.com/item?id=44066120) - [Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent](https://github.com/xe-nvdk/rtcollector)
