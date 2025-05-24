@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
 * [2025-05-24, 10:20:14](https://news.ycombinator.com/item?id=44080072) - [Building a Bank (With DDD, Microservices, and Autonomous Teams)](https://www.youtube.com/watch?v=pVqroDdYWMo)
+* [2025-05-24, 10:18:26](https://news.ycombinator.com/item?id=44080063) - [99% of AI Startups Will Be Dead by 2026 – Here's Why](https://skooloflife.medium.com/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968)
+* [2025-05-24, 10:06:01](https://news.ycombinator.com/item?id=44080014) - [Google's new AI video tool floods internet with real-looking clips](https://www.axios.com/2025/05/23/google-ai-videos-veo-3)
 * [2025-05-24, 09:39:30](https://news.ycombinator.com/item?id=44079926) - [Online Text to Diagram Tools](https://xosh.org/text-to-diagram/)
 * [2025-05-24, 09:31:33](https://news.ycombinator.com/item?id=44079901) - [My Epic, 40-Year Dungeons and Dragons Odyssey](https://timharford.com/2024/11/my-epic-40-year-dungeons-dragons-odyssey/)
 * [2025-05-24, 08:48:14](https://news.ycombinator.com/item?id=44079755) - [Idiocracy](https://en.wikipedia.org/wiki/Idiocracy)

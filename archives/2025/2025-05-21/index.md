@@ -57,6 +57,7 @@
 * [2025-05-21, 13:20:15](https://news.ycombinator.com/item?id=44051159) - [Why walking is the most underrated form of exercise (2017)](https://www.nbcnews.com/better/health/why-walking-most-underrated-form-exercise-ncna797271)
 * [2025-05-21, 13:12:30](https://news.ycombinator.com/item?id=44051090) - [Building an agentic image generator that improves itself](https://simulate.trybezel.com/research/image_agent)
 * [2025-05-21, 13:09:52](https://news.ycombinator.com/item?id=44051069) - [Does Field Ordering Affect Model Performance?](https://blog.kallyaleksiev.net/does-field-ordering-affect-model-performance)
+* [2025-05-21, 12:46:30](https://news.ycombinator.com/item?id=44050898) - [KVMs with DisplayPort and USB over USB-C](https://rubenerd.com/kvms-with-displayport-and-usb-over-usb-c/)
 * [2025-05-21, 12:39:23](https://news.ycombinator.com/item?id=44050843) - [5 Boring Things That Have a Bigger Impact Than AI Assistants on Dev Productivity](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/)
 * [2025-05-21, 12:01:11](https://news.ycombinator.com/item?id=44050521) - [Overlap (YC S24) Is Hiring](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer)
 * [2025-05-21, 11:52:40](https://news.ycombinator.com/item?id=44050465) - [I spent a year figuring out the weirdest mistake in recent Hollywood history](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html)
