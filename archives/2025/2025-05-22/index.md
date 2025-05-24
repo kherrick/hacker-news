@@ -70,6 +70,7 @@
 * [2025-05-22, 08:24:30](https://news.ycombinator.com/item?id=44059953) - [JEP 519: Compact Object Headers](https://openjdk.org/jeps/519)
 * [2025-05-22, 06:50:28](https://news.ycombinator.com/item?id=44059411) - [Why does Debian change software?](https://blog.liw.fi/posts/2025/why-debian-changes/)
 * [2025-05-22, 05:49:36](https://news.ycombinator.com/item?id=44059122) - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
+* [2025-05-22, 05:15:57](https://news.ycombinator.com/item?id=44058988) - [Terminator: Hasta La Vista, Shell](https://github.com/steipete/Terminator)
 * [2025-05-22, 04:24:33](https://news.ycombinator.com/item?id=44058778) - [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 * [2025-05-22, 04:04:25](https://news.ycombinator.com/item?id=44058677) - [ChatGPT Is a Gimmick](https://hedgehogreview.com/web-features/thr/posts/chatgpt-is-a-gimmick)
 * [2025-05-22, 03:12:45](https://news.ycombinator.com/item?id=44058408) - [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)
