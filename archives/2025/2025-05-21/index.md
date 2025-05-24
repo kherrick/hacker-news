@@ -65,6 +65,7 @@
 * [2025-05-21, 11:37:37](https://news.ycombinator.com/item?id=44050353) - [From RPC to transactions and durable executions](https://www.pramodb.com/index.php/2025/05/21/from-rpc-to-transactions-and-durable-executions/)
 * [2025-05-21, 11:19:59](https://news.ycombinator.com/item?id=44050269) - [A South Korean grand master on the art of the perfect soy sauce](https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce)
 * [2025-05-21, 11:10:29](https://news.ycombinator.com/item?id=44050222) - [Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
+* [2025-05-21, 11:07:48](https://news.ycombinator.com/item?id=44050211) - [Far – Sublime Inspired Find and Replace](https://github.com/ibilalkayy/far)
 * [2025-05-21, 10:57:08](https://news.ycombinator.com/item?id=44050152) - [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
 * [2025-05-21, 10:29:36](https://news.ycombinator.com/item?id=44050009) - [Ask HN: Selling software to company I work for as an employee](https://news.ycombinator.com/item?id=44050009)
 * [2025-05-21, 10:12:32](https://news.ycombinator.com/item?id=44049926) - [Satellites Spotting Depth](https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html)
