@@ -35,6 +35,7 @@
 * [2025-05-23, 15:33:00](https://news.ycombinator.com/item?id=44073785) - [MCP is the coming of Web 2.0 2.0](https://www.anildash.com//2025/05/20/mcp-web20-20/)
 * [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [PostgreSQL IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
+* [2025-05-23, 14:22:48](https://news.ycombinator.com/item?id=44073181) - [A Bead Too Far: Rethinking Global Connections Before Columbus](https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global)
 * [2025-05-23, 14:00:25](https://news.ycombinator.com/item?id=44072971) - [How I ended up flying for Yemen's national airline – and survived](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html)
 * [2025-05-23, 13:55:48](https://news.ycombinator.com/item?id=44072922) - [Amdash – Human only punctuation mark](https://www.theamdash.com)
 * [2025-05-23, 13:39:26](https://news.ycombinator.com/item?id=44072788) - [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
