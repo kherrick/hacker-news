@@ -24,11 +24,11 @@
 * [2025-05-23, 14:22:48](https://news.ycombinator.com/item?id=44073181) - [A Bead Too Far: Rethinking Global Connections Before Columbus](https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-23, 07:50:54](https://news.ycombinator.com/item?id=44070812) - [Show HN: GetStack.dev – Track GitHub open-source trends](https://getstack.dev)
-* [2025-05-22, 20:24:51](https://news.ycombinator.com/item?id=44066476) - [Planet squeezed in between two stars](https://arstechnica.com/science/2025/05/planet-found-orbiting-backward-between-two-stars/)
 * [2025-05-22, 11:39:12](https://news.ycombinator.com/item?id=44061028) - [Show HN: Embedo – Word Equation Puzzle Game](https://news.ycombinator.com/item?id=44061028)
 * [2025-05-21, 20:40:02](https://news.ycombinator.com/item?id=44056097) - [Show HN: High-resolution surface analysis with Lidar data](https://github.com/r-follador/delta-relief)
 * [2025-05-21, 09:06:46](https://news.ycombinator.com/item?id=44049619) - [Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text](https://github.com/mermaid-js/mermaid)
 * [2025-05-20, 09:34:15](https://news.ycombinator.com/item?id=44039604) - [Visual Studio Code: Text Buffer Reimplementation (2018)](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
+* [2025-05-20, 07:19:14](https://news.ycombinator.com/item?id=44038686) - [Not causal chains, but interactions and adaptations](https://surfingcomplexity.blog/2025/05/19/not-causal-chains-but-interactions-and-adaptations/)
 * [2025-05-20, 05:48:15](https://news.ycombinator.com/item?id=44038172) - [Diary: J. M. Coetzee, (1) Mother Tongue](https://books.substack.com/p/diary-j-m-coetzee-1-mother-tongue)
 
 ## [Archives](archives/index.md)
