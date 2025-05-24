@@ -34,6 +34,7 @@
 * [2025-05-20, 15:57:01](https://news.ycombinator.com/item?id=44043045) - [27000 Dragons and 10'000 Lights: GPU-Driven Clustered Forward Renderer](https://logdahl.net/p/gpu-driven)
 * [2025-05-20, 15:56:04](https://news.ycombinator.com/item?id=44043034) - [The Fractured Entangled Representation Hypothesis](https://github.com/akarshkumar0101/fer)
 * [2025-05-20, 15:35:29](https://news.ycombinator.com/item?id=44042791) - [Launch HN: Opusense (YC X25) – AI assistant for construction inspectors on site](https://news.ycombinator.com/item?id=44042791)
+* [2025-05-20, 15:15:14](https://news.ycombinator.com/item?id=44042557) - [A Comedian Saves a Model Railroad with Purchase of a New Jersey Home](https://www.wsj.com/lifestyle/model-railroad-james-murray-ac709a96)
 * [2025-05-20, 15:08:42](https://news.ycombinator.com/item?id=44042490) - [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
 * [2025-05-20, 14:58:03](https://news.ycombinator.com/item?id=44042371) - [Show HN: 90s.dev - game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
 * [2025-05-20, 14:55:25](https://news.ycombinator.com/item?id=44042343) - [Show HN: Astra – a new js2exe compiler](https://github.com/astracompiler/cli)
