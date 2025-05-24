@@ -16,6 +16,7 @@
 * [2025-05-24, 14:26:48](https://news.ycombinator.com/item?id=44081346) - [AI, Heidegger, and Evangelion](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion)
 * [2025-05-24, 14:25:45](https://news.ycombinator.com/item?id=44081338) - [I used o3 to find a remote zeroday in the Linux SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 13:45:02](https://news.ycombinator.com/item?id=44081081) - [Peer Programming with LLMs, for Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
+* [2025-05-24, 13:08:42](https://news.ycombinator.com/item?id=44080840) - [DIY Cybersickness Remedies](https://spectrum.ieee.org/diy-cybersickness-remedies)
 * [2025-05-24, 13:05:56](https://news.ycombinator.com/item?id=44080820) - [The legacy of the iconic Nakagin capsule tower](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/)
 * [2025-05-24, 13:03:36](https://news.ycombinator.com/item?id=44080808) - [Show HN: SuperUtilsPlus – A Modern Alternative to Lodash](https://github.com/dhaxor/super-utils-plus)
 * [2025-05-24, 13:02:00](https://news.ycombinator.com/item?id=44080803) - [Show HN: Rotary Phone Dial Linux Kernel Driver](https://gitlab.com/sephalon/rotary_dial_kmod)
@@ -27,7 +28,6 @@
 * [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [Postgres IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-22, 06:19:52](https://news.ycombinator.com/item?id=44059270) - [voyage-3.5 and voyage-3.5-lite: improved quality for a new retrieval frontier](https://blog.voyageai.com/2025/05/20/voyage-3-5/)
 * [2025-05-21, 16:21:04](https://news.ycombinator.com/item?id=44053110) - [Solving the mystery of a dinosaur mass grave at the 'River of Death'](https://www.bbc.com/news/articles/c0k3x8lmje1o)
-* [2025-05-21, 11:07:48](https://news.ycombinator.com/item?id=44050211) - [Far – Sublime Inspired Find and Replace](https://github.com/ibilalkayy/far)
 * [2025-05-21, 10:41:45](https://news.ycombinator.com/item?id=44050066) - [The Decline of Usability: Revisited (2023)](https://datagubbe.se/usab2/)
 * [2025-05-21, 09:26:40](https://news.ycombinator.com/item?id=44049713) - [Jupiter was formerly twice its current size, had a much stronger magnetic field](https://phys.org/news/2025-05-jupiter-current-size-stronger-magnetic.html)
 
