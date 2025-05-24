@@ -7,7 +7,6 @@
 * [2025-05-24, 20:22:59](https://news.ycombinator.com/item?id=44083580) - [The Logistics of Road War in the Wasteland](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
 * [2025-05-24, 19:50:41](https://news.ycombinator.com/item?id=44083388) - [Tachy0n: The Last 0day Jailbreak](https://blog.siguza.net/tachy0n/)
-* [2025-05-24, 19:02:00](https://news.ycombinator.com/item?id=44083105) - [What I discovered when I asked Amazon to tell me everything Alexa had heard](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard)
 * [2025-05-24, 18:36:48](https://news.ycombinator.com/item?id=44082968) - [Please Fund More Science (2020)](https://blog.samaltman.com/please-fund-more-science)
 * [2025-05-24, 18:24:05](https://news.ycombinator.com/item?id=44082892) - [Lone coder cracks 50-year puzzle to find Boggle's top-scoring board](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1)
 * [2025-05-24, 18:14:43](https://news.ycombinator.com/item?id=44082835) - [Exposed Industrial Control Systems and Honeypots in the Wild [pdf]](https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf)
@@ -30,6 +29,7 @@
 * [2025-05-22, 16:11:57](https://news.ycombinator.com/item?id=44063477) - [The Last Nomads](https://www.thedial.world/articles/news/issue-28/georgia-adjara-highlands-nomads)
 * [2025-05-22, 06:19:52](https://news.ycombinator.com/item?id=44059270) - [voyage-3.5 and voyage-3.5-lite: improved quality for a new retrieval frontier](https://blog.voyageai.com/2025/05/20/voyage-3-5/)
 * [2025-05-21, 10:22:08](https://news.ycombinator.com/item?id=44049965) - [Is Astrophotography Without Tracking Possible?](https://astroimagery.com/astrophotography/heres-how-to-do-astrophotography-without-tracking/)
+* [2025-05-21, 07:57:59](https://news.ycombinator.com/item?id=44049282) - [An Almost Pointless Exercise in GPU Optimization](https://blog.speechmatics.com/pointless-gpu-optimization-exercise)
 
 ## [Archives](archives/index.md)
 
