@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-24, 04:36:31](https://news.ycombinator.com/item?id=44078813) - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
 * [2025-05-24, 03:00:53](https://news.ycombinator.com/item?id=44078434) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 * [2025-05-24, 02:30:08](https://news.ycombinator.com/item?id=44078314) - [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
 * [2025-05-24, 01:26:23](https://news.ycombinator.com/item?id=44078100) - [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
@@ -23,7 +24,6 @@
 * [2025-05-23, 14:22:48](https://news.ycombinator.com/item?id=44073181) - [A Bead Too Far: Rethinking Global Connections Before Columbus](https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-23, 07:50:54](https://news.ycombinator.com/item?id=44070812) - [Show HN: GetStack.dev – Track GitHub open-source trends](https://getstack.dev)
-* [2025-05-22, 20:24:51](https://news.ycombinator.com/item?id=44066476) - [Planet squeezed in between two stars](https://arstechnica.com/science/2025/05/planet-found-orbiting-backward-between-two-stars/)
 * [2025-05-22, 11:39:12](https://news.ycombinator.com/item?id=44061028) - [Show HN: Embedo – Word Equation Puzzle Game](https://news.ycombinator.com/item?id=44061028)
 * [2025-05-21, 20:40:02](https://news.ycombinator.com/item?id=44056097) - [Show HN: High-resolution surface analysis with Lidar data](https://github.com/r-follador/delta-relief)
 * [2025-05-21, 14:10:47](https://news.ycombinator.com/item?id=44051646) - [Startup enables 100-year bridges with corrosion-resistant steel](https://news.mit.edu/2025/allium-engineering-enables-100-year-bridges-corrosion-resistant-steel-0520)
