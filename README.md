@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-24, 05:20:15](https://news.ycombinator.com/item?id=44078930) - [Valve takes another step toward making SteamOS a true Windows competitor](https://arstechnica.com/gaming/2025/05/valve-adds-steamos-compatible-game-label-as-it-prepares-to-expand-beyond-steam-deck/)
 * [2025-05-24, 04:36:31](https://news.ycombinator.com/item?id=44078813) - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
 * [2025-05-24, 03:00:53](https://news.ycombinator.com/item?id=44078434) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 * [2025-05-24, 02:30:08](https://news.ycombinator.com/item?id=44078314) - [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
 * [2025-05-24, 01:26:23](https://news.ycombinator.com/item?id=44078100) - [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
-* [2025-05-24, 01:24:57](https://news.ycombinator.com/item?id=44078094) - [Stuff I Learned at Carta](https://lethain.com/stuff-learned-at-carta/)
 * [2025-05-24, 01:07:08](https://news.ycombinator.com/item?id=44078024) - [Show HN: HNRelevant – Add a \"related\" section to Hacker News](https://github.com/imdj/HNRelevant)
 * [2025-05-24, 00:29:28](https://news.ycombinator.com/item?id=44077850) - [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
 * [2025-05-23, 23:28:11](https://news.ycombinator.com/item?id=44077533) - [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
