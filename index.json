@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-05-24, 01:26:23",
+      "https://news.ycombinator.com/item?id=44078100"
+    ],
+    [
+      "Show HN: Web Apps for Python Devs with Auto-Generated UI",
+      "https://davia.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 01:07:08",
+      "https://news.ycombinator.com/item?id=44078024"
+    ],
+    [
+      "Show HN: HNRelevant – Add a \"related\" section to Hacker News",
+      "https://github.com/imdj/HNRelevant"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 00:29:28",
       "https://news.ycombinator.com/item?id=44077850"
     ],
     [
       "Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy",
       "https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 00:11:25",
-      "https://news.ycombinator.com/item?id=44077750"
-    ],
-    [
-      "The Way of Code: The Timeless Art of Vibe Coding",
-      "https://www.thewayofcode.com/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Show HN: DoubleMemory – more efficient local-first read-it-later app",
       "https://doublememory.com"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 18:44:31",
-      "https://news.ycombinator.com/item?id=44075353"
-    ],
-    [
-      "Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page",
-      "https://hcker.news"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-05-23, 15:33:00",
-      "https://news.ycombinator.com/item?id=44073785"
-    ],
-    [
-      "MCP is the coming of Web 2.0 2.0",
-      "https://www.anildash.com//2025/05/20/mcp-web20-20/"
-    ]
-  ],
-  [
-    [
       "2025-05-23, 15:12:44",
       "https://news.ycombinator.com/item?id=44073588"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2025-05-23, 05:14:16",
-      "https://news.ycombinator.com/item?id=44070042"
+      "2025-05-22, 20:24:51",
+      "https://news.ycombinator.com/item?id=44066476"
     ],
     [
-      "John Carmack talk at Upper Bound 2025",
-      "https://twitter.com/ID_AA_Carmack/status/1925710474366034326"
+      "Planet squeezed in between two stars",
+      "https://arstechnica.com/science/2025/05/planet-found-orbiting-backward-between-two-stars/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Visual Studio Code: Text Buffer Reimplementation (2018)",
       "https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 18:22:34",
+      "https://news.ycombinator.com/item?id=44032995"
+    ],
+    [
+      "Designing type inference for high quality type errors",
+      "https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html"
     ]
   ]
 ]
