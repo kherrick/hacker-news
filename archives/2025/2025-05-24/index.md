@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 16:22:59](https://news.ycombinator.com/item?id=44082058) - [Will the AI backlash spill into the streets?](https://gabrielweinberg.com/p/will-the-ai-backlash-spill-into-the)
 * [2025-05-24, 15:49:12](https://news.ycombinator.com/item?id=44081850) - [Show HN: F2 – Cross-Platform CLI Batch Renaming Tool](https://github.com/ayoisaiah/f2)
 * [2025-05-24, 15:18:56](https://news.ycombinator.com/item?id=44081673) - [From Hosts.txt to Modern Internet Infrastructure](https://axonshield.com/from-hoststxt-to-modern-internet-infrastructure)
 * [2025-05-24, 15:03:37](https://news.ycombinator.com/item?id=44081586) - [The Goodness of Good Writing](https://paulgraham.com/goodwriting.html)
