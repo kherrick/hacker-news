@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-05-24, 02:55:52",
-      "https://news.ycombinator.com/item?id=44078413"
-    ],
-    [
-      "Boeing reaches deal to avoid prosecution over deadly 737 MAX crashes",
-      "https://www.cnbc.com/2025/05/23/boeing-737-max-crashes-doj.html"
-    ]
-  ],
-  [
-    [
       "2025-05-24, 01:26:23",
       "https://news.ycombinator.com/item?id=44078100"
     ],
@@ -297,6 +287,16 @@
     [
       "Visual Studio Code: Text Buffer Reimplementation (2018)",
       "https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 18:22:34",
+      "https://news.ycombinator.com/item?id=44032995"
+    ],
+    [
+      "Designing type inference for high quality type errors",
+      "https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html"
     ]
   ]
 ]
