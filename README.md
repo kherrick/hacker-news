@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-24, 03:00:53](https://news.ycombinator.com/item?id=44078434) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
+* [2025-05-24, 02:55:52](https://news.ycombinator.com/item?id=44078413) - [Boeing reaches deal to avoid prosecution over deadly 737 MAX crashes](https://www.cnbc.com/2025/05/23/boeing-737-max-crashes-doj.html)
 * [2025-05-24, 01:26:23](https://news.ycombinator.com/item?id=44078100) - [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
 * [2025-05-24, 01:07:08](https://news.ycombinator.com/item?id=44078024) - [Show HN: HNRelevant – Add a \"related\" section to Hacker News](https://github.com/imdj/HNRelevant)
 * [2025-05-24, 00:29:28](https://news.ycombinator.com/item?id=44077850) - [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
@@ -11,7 +13,6 @@
 * [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Show HN: Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 * [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
 * [2025-05-23, 18:33:07](https://news.ycombinator.com/item?id=44075254) - [Types of optical systems in a lens designer's toolbox (2020)](https://www.pencilofrays.com/lens-design-forms/)
-* [2025-05-23, 18:30:07](https://news.ycombinator.com/item?id=44075236) - [Japan and the Birth of Modern Shipbuilding](https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding)
 * [2025-05-23, 17:20:40](https://news.ycombinator.com/item?id=44074668) - [Positional preferences, order effects, prompt sensitivity undermine AI judgments](https://www.cip.org/blog/llm-judges-are-unreliable)
 * [2025-05-23, 17:17:26](https://news.ycombinator.com/item?id=44074637) - [Into The Tunnel: The secret life of wind tunnels](https://jordanwtaylor2.substack.com/p/into-the-tunnel)
 * [2025-05-23, 16:40:55](https://news.ycombinator.com/item?id=44074340) - [How to live on $432 a month in America](https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america)
@@ -29,7 +30,6 @@
 * [2025-05-21, 14:10:47](https://news.ycombinator.com/item?id=44051646) - [Startup enables 100-year bridges with corrosion-resistant steel](https://news.mit.edu/2025/allium-engineering-enables-100-year-bridges-corrosion-resistant-steel-0520)
 * [2025-05-21, 09:06:46](https://news.ycombinator.com/item?id=44049619) - [Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text](https://github.com/mermaid-js/mermaid)
 * [2025-05-20, 09:34:15](https://news.ycombinator.com/item?id=44039604) - [Visual Studio Code: Text Buffer Reimplementation (2018)](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
-* [2025-05-19, 18:22:34](https://news.ycombinator.com/item?id=44032995) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
 
 ## [Archives](archives/index.md)
 
