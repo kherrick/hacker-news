@@ -33,6 +33,7 @@
 * [2025-05-20, 16:07:13](https://news.ycombinator.com/item?id=44043167) - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 * [2025-05-20, 15:57:01](https://news.ycombinator.com/item?id=44043045) - [27000 Dragons and 10'000 Lights: GPU-Driven Clustered Forward Renderer](https://logdahl.net/p/gpu-driven)
 * [2025-05-20, 15:56:04](https://news.ycombinator.com/item?id=44043034) - [The Fractured Entangled Representation Hypothesis](https://github.com/akarshkumar0101/fer)
+* [2025-05-20, 15:37:05](https://news.ycombinator.com/item?id=44042807) - [Autopsy of an LHC Beam Dump](https://home.cern/news/news/accelerators/autopsy-lhc-beam-dump)
 * [2025-05-20, 15:35:29](https://news.ycombinator.com/item?id=44042791) - [Launch HN: Opusense (YC X25) – AI assistant for construction inspectors on site](https://news.ycombinator.com/item?id=44042791)
 * [2025-05-20, 15:15:14](https://news.ycombinator.com/item?id=44042557) - [A Comedian Saves a Model Railroad with Purchase of a New Jersey Home](https://www.wsj.com/lifestyle/model-railroad-james-murray-ac709a96)
 * [2025-05-20, 15:08:42](https://news.ycombinator.com/item?id=44042490) - [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
