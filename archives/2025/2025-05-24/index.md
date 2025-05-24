@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 23:06:03](https://news.ycombinator.com/item?id=44084304) - [Is America Headed for an Age of Dumb Phones?](https://www.businessinsider.com/appstinence-movement-tech-lovers-dumping-smartphones-age-of-dumb-phones-2025-5)
 * [2025-05-24, 21:53:47](https://news.ycombinator.com/item?id=44084017) - [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
 * [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
 * [2025-05-24, 21:27:02](https://news.ycombinator.com/item?id=44083910) - [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)

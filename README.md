@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-24, 23:06:03](https://news.ycombinator.com/item?id=44084304) - [Is America Headed for an Age of Dumb Phones?](https://www.businessinsider.com/appstinence-movement-tech-lovers-dumping-smartphones-age-of-dumb-phones-2025-5)
 * [2025-05-24, 21:53:47](https://news.ycombinator.com/item?id=44084017) - [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
 * [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
 * [2025-05-24, 21:27:02](https://news.ycombinator.com/item?id=44083910) - [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
@@ -25,7 +26,6 @@
 * [2025-05-24, 03:00:53](https://news.ycombinator.com/item?id=44078434) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 * [2025-05-23, 23:28:11](https://news.ycombinator.com/item?id=44077533) - [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
 * [2025-05-23, 16:02:02](https://news.ycombinator.com/item?id=44074017) - [Find Your People](https://foundersatwork.posthaven.com/find-your-people)
-* [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [Postgres IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-22, 16:11:57](https://news.ycombinator.com/item?id=44063477) - [The Last Nomads](https://www.thedial.world/articles/news/issue-28/georgia-adjara-highlands-nomads)
 * [2025-05-22, 06:19:52](https://news.ycombinator.com/item?id=44059270) - [voyage-3.5 and voyage-3.5-lite: improved quality for a new retrieval frontier](https://blog.voyageai.com/2025/05/20/voyage-3-5/)
 * [2025-05-21, 10:22:08](https://news.ycombinator.com/item?id=44049965) - [Is Astrophotography Without Tracking Possible?](https://astroimagery.com/astrophotography/heres-how-to-do-astrophotography-without-tracking/)
