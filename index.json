@@ -1,42 +1,12 @@
 [
   [
     [
-      "2025-05-24, 10:20:14",
-      "https://news.ycombinator.com/item?id=44080072"
+      "2025-05-24, 07:12:48",
+      "https://news.ycombinator.com/item?id=44079331"
     ],
     [
-      "Building a Bank (With DDD, Microservices, and Autonomous Teams)",
-      "https://www.youtube.com/watch?v=pVqroDdYWMo"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 10:18:26",
-      "https://news.ycombinator.com/item?id=44080063"
-    ],
-    [
-      "99% of AI Startups Will Be Dead by 2026 – Here's Why",
-      "https://skooloflife.medium.com/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 10:06:01",
-      "https://news.ycombinator.com/item?id=44080014"
-    ],
-    [
-      "Google's new AI video tool floods internet with real-looking clips",
-      "https://www.axios.com/2025/05/23/google-ai-videos-veo-3"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 09:39:30",
-      "https://news.ycombinator.com/item?id=44079926"
-    ],
-    [
-      "Online Text to Diagram Tools",
-      "https://xosh.org/text-to-diagram/"
+      "A boy who came back: the near-death, and changed life, of my son Max",
+      "https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max"
     ]
   ],
   [
@@ -77,6 +47,16 @@
     [
       "Show HN: SweepIQ – A simple AI tool to help you learn more, faster",
       "https://www.sweepiq.com"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 01:24:57",
+      "https://news.ycombinator.com/item?id=44078094"
+    ],
+    [
+      "Stuff I Learned at Carta",
+      "https://lethain.com/stuff-learned-at-carta/"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "Show HN: I built a more productive way to manage AI chats",
       "https://contextch.at"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 20:22:09",
+      "https://news.ycombinator.com/item?id=44076300"
+    ],
+    [
+      "UndoDB – The interactive time travel debugger for Linux C/C++ for debugging",
+      "https://undo.io/"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
+      "2025-05-21, 20:40:02",
+      "https://news.ycombinator.com/item?id=44056097"
+    ],
+    [
+      "Show HN: High-resolution surface analysis with Lidar data",
+      "https://github.com/r-follador/delta-relief"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 14:06:11",
       "https://news.ycombinator.com/item?id=44051602"
     ],
     [
       "Faulty 120W charger analysis (Anker GAN Prime) [video]",
       "https://www.youtube.com/watch?v=-JV5VGO55-I"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 12:46:30",
-      "https://news.ycombinator.com/item?id=44050898"
-    ],
-    [
-      "KVMs with DisplayPort and USB over USB-C",
-      "https://rubenerd.com/kvms-with-displayport-and-usb-over-usb-c/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Comedian Saves a Model Railroad with Purchase of a New Jersey Home",
       "https://www.wsj.com/lifestyle/model-railroad-james-murray-ac709a96"
+    ]
+  ],
+  [
+    [
+      "2025-05-20, 09:34:15",
+      "https://news.ycombinator.com/item?id=44039604"
+    ],
+    [
+      "Visual Studio Code: Text Buffer Reimplementation (2018)",
+      "https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation"
     ]
   ]
 ]
