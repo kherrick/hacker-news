@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-24, 15:49:12",
+      "https://news.ycombinator.com/item?id=44081850"
+    ],
+    [
+      "Show HN: F2 – Cross-Platform CLI Batch Renaming Tool",
+      "https://github.com/ayoisaiah/f2"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 15:18:56",
       "https://news.ycombinator.com/item?id=44081673"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44081586"
     ],
     [
-      "The Goodness of Good Writing",
+      "Good Writing",
       "https://paulgraham.com/goodwriting.html"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Show HN: Rotary Phone Dial Linux Kernel Driver",
       "https://gitlab.com/sephalon/rotary_dial_kmod"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 12:27:51",
-      "https://news.ycombinator.com/item?id=44080640"
-    ],
-    [
-      "Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency",
-      "https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-05-23, 17:20:40",
-      "https://news.ycombinator.com/item?id=44074668"
-    ],
-    [
-      "Positional preferences, order effects, prompt sensitivity undermine AI judgments",
-      "https://www.cip.org/blog/llm-judges-are-unreliable"
-    ]
-  ],
-  [
-    [
       "2025-05-23, 16:40:55",
       "https://news.ycombinator.com/item?id=44074340"
     ],
@@ -267,6 +257,16 @@
     [
       "Terminator: Hasta La Vista, Shell",
       "https://github.com/steipete/Terminator"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 11:07:48",
+      "https://news.ycombinator.com/item?id=44050211"
+    ],
+    [
+      "Far – Sublime Inspired Find and Replace",
+      "https://github.com/ibilalkayy/far"
     ]
   ],
   [
