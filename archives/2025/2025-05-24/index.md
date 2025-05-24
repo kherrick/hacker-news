@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 17:03:39](https://news.ycombinator.com/item?id=44082326) - [Live facial recognition cameras may become 'commonplace' as police use soars](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales)
 * [2025-05-24, 17:01:10](https://news.ycombinator.com/item?id=44082307) - [Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
 * [2025-05-24, 16:59:26](https://news.ycombinator.com/item?id=44082293) - [AI can't even fix a simple bug – but sure, let's fire engineers](https://nmn.gl/blog/ai-scam)
 * [2025-05-24, 16:22:59](https://news.ycombinator.com/item?id=44082058) - [Will the AI backlash spill into the streets?](https://gabrielweinberg.com/p/will-the-ai-backlash-spill-into-the)
