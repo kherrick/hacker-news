@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-24, 18:50:42](https://news.ycombinator.com/item?id=44083044) - [Bash implementation of Tabloid, the clickbait programming language](https://github.com/notweerdmonk/tabloid.bash)
 * [2025-05-24, 17:27:49](https://news.ycombinator.com/item?id=44082494) - [It Is Time to Stop Teaching Frequentism to Non-Statisticians (2024)](https://arxiv.org/abs/1201.2590)
 * [2025-05-24, 17:03:39](https://news.ycombinator.com/item?id=44082326) - [Live facial recognition cameras may become 'commonplace' as police use soars](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales)
 * [2025-05-24, 17:01:10](https://news.ycombinator.com/item?id=44082307) - [Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
@@ -27,7 +28,6 @@
 * [2025-05-21, 11:07:48](https://news.ycombinator.com/item?id=44050211) - [Far – Sublime Inspired Find and Replace](https://github.com/ibilalkayy/far)
 * [2025-05-21, 10:41:45](https://news.ycombinator.com/item?id=44050066) - [The Decline of Usability: Revisited (2023)](https://datagubbe.se/usab2/)
 * [2025-05-21, 09:26:40](https://news.ycombinator.com/item?id=44049713) - [Jupiter was formerly twice its current size, had a much stronger magnetic field](https://phys.org/news/2025-05-jupiter-current-size-stronger-magnetic.html)
-* [2025-05-21, 06:14:21](https://news.ycombinator.com/item?id=44048751) - [What even is a small language model now?](https://jigsawstack.com/blog/what-even-is-a-small-language-model-now--ai)
 * [2025-05-21, 02:22:25](https://news.ycombinator.com/item?id=44047741) - [Disabling kernel functions in your process (2009)](https://chadaustin.me/2009/03/disabling-functions/)
 * [2025-05-20, 19:15:31](https://news.ycombinator.com/item?id=44044882) - [Alone and Adrift in the Pacific](https://www.theatlantic.com/magazine/archive/2025/06/commercial-fisherman-shipwreck/682580/)
 
