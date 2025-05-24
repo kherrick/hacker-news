@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-05-24, 19:02:00",
-      "https://news.ycombinator.com/item?id=44083105"
-    ],
-    [
-      "What I discovered when I asked Amazon to tell me everything Alexa had heard",
-      "https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard"
-    ]
-  ],
-  [
-    [
       "2025-05-24, 18:36:48",
       "https://news.ycombinator.com/item?id=44082968"
     ],
@@ -297,6 +287,16 @@
     [
       "Is Astrophotography Without Tracking Possible?",
       "https://astroimagery.com/astrophotography/heres-how-to-do-astrophotography-without-tracking/"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 07:57:59",
+      "https://news.ycombinator.com/item?id=44049282"
+    ],
+    [
+      "An Almost Pointless Exercise in GPU Optimization",
+      "https://blog.speechmatics.com/pointless-gpu-optimization-exercise"
     ]
   ]
 ]
