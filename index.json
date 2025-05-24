@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-05-24, 16:59:26",
-      "https://news.ycombinator.com/item?id=44082293"
-    ],
-    [
-      "AI can't even fix a simple bug – but sure, let's fire engineers",
-      "https://nmn.gl/blog/ai-scam"
-    ]
-  ],
-  [
-    [
       "2025-05-24, 15:49:12",
       "https://news.ycombinator.com/item?id=44081850"
     ],
@@ -77,6 +67,16 @@
     [
       "AI, Heidegger, and Evangelion",
       "https://fakepixels.substack.com/p/ai-heidegger-and-evangelion"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 14:25:45",
+      "https://news.ycombinator.com/item?id=44081338"
+    ],
+    [
+      "I used o3 to find a remote zeroday in the Linux SMB implementation",
+      "https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/"
     ]
   ],
   [
