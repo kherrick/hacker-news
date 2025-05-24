@@ -37,6 +37,7 @@
 * [2025-05-21, 16:46:53](https://news.ycombinator.com/item?id=44053364) - [By Default, Signal Doesn't Recall](https://signal.org/blog/signal-doesnt-recall/)
 * [2025-05-21, 16:43:19](https://news.ycombinator.com/item?id=44053328) - [The Era of the Business Idiot](https://www.wheresyoured.at/the-era-of-the-business-idiot/)
 * [2025-05-21, 16:21:46](https://news.ycombinator.com/item?id=44053119) - [Ask HN: How to Make Friendster Great?](https://news.ycombinator.com/item?id=44053119)
+* [2025-05-21, 16:21:04](https://news.ycombinator.com/item?id=44053110) - [Solving the mystery of a dinosaur mass grave at the 'River of Death'](https://www.bbc.com/news/articles/c0k3x8lmje1o)
 * [2025-05-21, 16:10:06](https://news.ycombinator.com/item?id=44052984) - [Introducing the Llama Startup Program](https://ai.meta.com/blog/llama-startup-program/?_fb_noscript=1)
 * [2025-05-21, 16:03:36](https://news.ycombinator.com/item?id=44052909) - [Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/)
 * [2025-05-21, 15:49:15](https://news.ycombinator.com/item?id=44052766) - [Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows](https://news.ycombinator.com/item?id=44052766)
