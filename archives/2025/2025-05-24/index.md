@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 08:48:14](https://news.ycombinator.com/item?id=44079755) - [Idiocracy](https://en.wikipedia.org/wiki/Idiocracy)
 * [2025-05-24, 07:15:30](https://news.ycombinator.com/item?id=44079349) - [A Pregnancy Souvenir: Cells That Are Not Your Own (2015)](https://www.nytimes.com/2015/09/15/science/a-pregnancy-souvenir-cells-that-are-not-your-own.html)
 * [2025-05-24, 07:12:48](https://news.ycombinator.com/item?id=44079331) - [A boy who came back: the near-death, and changed life, of my son Max](https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max)
 * [2025-05-24, 07:05:46](https://news.ycombinator.com/item?id=44079303) - [Ask HN: Go deep into AI/LLMs or just use them as tools?](https://news.ycombinator.com/item?id=44079303)
