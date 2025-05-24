@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-24, 07:15:30](https://news.ycombinator.com/item?id=44079349) - [A Pregnancy Souvenir: Cells That Are Not Your Own (2015)](https://www.nytimes.com/2015/09/15/science/a-pregnancy-souvenir-cells-that-are-not-your-own.html)
 * [2025-05-24, 07:12:48](https://news.ycombinator.com/item?id=44079331) - [A boy who came back: the near-death, and changed life, of my son Max](https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max)
 * [2025-05-24, 07:05:46](https://news.ycombinator.com/item?id=44079303) - [Ask HN: Go deep into AI/LLMs or just use them as tools?](https://news.ycombinator.com/item?id=44079303)
 * [2025-05-24, 04:36:31](https://news.ycombinator.com/item?id=44078813) - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
@@ -25,6 +24,7 @@
 * [2025-05-23, 14:22:48](https://news.ycombinator.com/item?id=44073181) - [A Bead Too Far: Rethinking Global Connections Before Columbus](https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-21, 20:40:02](https://news.ycombinator.com/item?id=44056097) - [Show HN: High-resolution surface analysis with Lidar data](https://github.com/r-follador/delta-relief)
+* [2025-05-21, 14:06:11](https://news.ycombinator.com/item?id=44051602) - [Faulty 120W charger analysis (Anker GAN Prime) [video]](https://www.youtube.com/watch?v=-JV5VGO55-I)
 * [2025-05-21, 09:26:40](https://news.ycombinator.com/item?id=44049713) - [Jupiter was formerly twice its current size, had a much stronger magnetic field](https://phys.org/news/2025-05-jupiter-current-size-stronger-magnetic.html)
 * [2025-05-21, 09:06:46](https://news.ycombinator.com/item?id=44049619) - [Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text](https://github.com/mermaid-js/mermaid)
 * [2025-05-20, 15:15:14](https://news.ycombinator.com/item?id=44042557) - [A Comedian Saves a Model Railroad with Purchase of a New Jersey Home](https://www.wsj.com/lifestyle/model-railroad-james-murray-ac709a96)
