@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-24, 18:50:42](https://news.ycombinator.com/item?id=44083044) - [Bash implementation of Tabloid, the clickbait programming language](https://github.com/notweerdmonk/tabloid.bash)
+* [2025-05-24, 19:02:00](https://news.ycombinator.com/item?id=44083105) - [What I discovered when I asked Amazon to tell me everything Alexa had heard](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard)
 * [2025-05-24, 18:14:43](https://news.ycombinator.com/item?id=44082835) - [Exposed Industrial Control Systems and Honeypots in the Wild [pdf]](https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf)
 * [2025-05-24, 17:27:49](https://news.ycombinator.com/item?id=44082494) - [It Is Time to Stop Teaching Frequentism to Non-Statisticians (2024)](https://arxiv.org/abs/1201.2590)
 * [2025-05-24, 17:03:39](https://news.ycombinator.com/item?id=44082326) - [Live facial recognition cameras may become 'commonplace' as police use soars](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales)

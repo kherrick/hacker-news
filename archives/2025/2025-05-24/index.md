@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 19:02:00](https://news.ycombinator.com/item?id=44083105) - [What I discovered when I asked Amazon to tell me everything Alexa had heard](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard)
 * [2025-05-24, 18:50:42](https://news.ycombinator.com/item?id=44083044) - [Bash implementation of Tabloid, the clickbait programming language](https://github.com/notweerdmonk/tabloid.bash)
 * [2025-05-24, 18:14:43](https://news.ycombinator.com/item?id=44082835) - [Exposed Industrial Control Systems and Honeypots in the Wild [pdf]](https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf)
 * [2025-05-24, 17:28:03](https://news.ycombinator.com/item?id=44082498) - [Please don't upload my code to GitHub](https://nogithub.codeberg.page/)
