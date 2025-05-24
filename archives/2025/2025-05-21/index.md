@@ -67,6 +67,7 @@
 * [2025-05-21, 11:10:29](https://news.ycombinator.com/item?id=44050222) - [Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
 * [2025-05-21, 11:07:48](https://news.ycombinator.com/item?id=44050211) - [Far – Sublime Inspired Find and Replace](https://github.com/ibilalkayy/far)
 * [2025-05-21, 10:57:08](https://news.ycombinator.com/item?id=44050152) - [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
+* [2025-05-21, 10:41:45](https://news.ycombinator.com/item?id=44050066) - [The Decline of Usability: Revisited (2023)](https://datagubbe.se/usab2/)
 * [2025-05-21, 10:29:36](https://news.ycombinator.com/item?id=44050009) - [Ask HN: Selling software to company I work for as an employee](https://news.ycombinator.com/item?id=44050009)
 * [2025-05-21, 10:12:32](https://news.ycombinator.com/item?id=44049926) - [Satellites Spotting Depth](https://tech.marksblogg.com/depth-anything-v2-maxar-ai-detection.html)
 * [2025-05-21, 10:07:00](https://news.ycombinator.com/item?id=44049909) - [EU startups fail because their press refuses to hype them up](https://twitter.com/RnaudBertrand/status/1925029185052917791)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-24, 17:28:03](https://news.ycombinator.com/item?id=44082498) - [Please don't upload my code to GitHub](https://nogithub.codeberg.page/)
+* [2025-05-24, 17:27:49](https://news.ycombinator.com/item?id=44082494) - [It Is Time to Stop Teaching Frequentism to Non-Statisticians (2024)](https://arxiv.org/abs/1201.2590)
 * [2025-05-24, 17:03:39](https://news.ycombinator.com/item?id=44082326) - [Live facial recognition cameras may become 'commonplace' as police use soars](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales)
 * [2025-05-24, 17:01:10](https://news.ycombinator.com/item?id=44082307) - [Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
 * [2025-05-24, 16:59:26](https://news.ycombinator.com/item?id=44082293) - [AI can't even fix a simple bug – but sure, let's fire engineers](https://nmn.gl/blog/ai-scam)
@@ -16,7 +16,6 @@
 * [2025-05-24, 12:06:06](https://news.ycombinator.com/item?id=44080533) - [The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/)
 * [2025-05-24, 10:49:47](https://news.ycombinator.com/item?id=44080181) - [DumPy: NumPy except it's OK if you're dum](https://dynomight.net/dumpy/)
 * [2025-05-24, 03:00:53](https://news.ycombinator.com/item?id=44078434) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
-* [2025-05-24, 01:24:57](https://news.ycombinator.com/item?id=44078094) - [Stuff I Learned at Carta](https://lethain.com/stuff-learned-at-carta/)
 * [2025-05-24, 01:07:08](https://news.ycombinator.com/item?id=44078024) - [Show HN: HNRelevant – Add a \"related\" section to Hacker News](https://github.com/imdj/HNRelevant)
 * [2025-05-23, 23:28:11](https://news.ycombinator.com/item?id=44077533) - [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
 * [2025-05-23, 20:51:29](https://news.ycombinator.com/item?id=44076501) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
@@ -26,6 +25,7 @@
 * [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [Postgres IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-21, 11:07:48](https://news.ycombinator.com/item?id=44050211) - [Far – Sublime Inspired Find and Replace](https://github.com/ibilalkayy/far)
+* [2025-05-21, 10:41:45](https://news.ycombinator.com/item?id=44050066) - [The Decline of Usability: Revisited (2023)](https://datagubbe.se/usab2/)
 * [2025-05-21, 09:26:40](https://news.ycombinator.com/item?id=44049713) - [Jupiter was formerly twice its current size, had a much stronger magnetic field](https://phys.org/news/2025-05-jupiter-current-size-stronger-magnetic.html)
 * [2025-05-21, 06:14:21](https://news.ycombinator.com/item?id=44048751) - [What even is a small language model now?](https://jigsawstack.com/blog/what-even-is-a-small-language-model-now--ai)
 * [2025-05-21, 02:22:25](https://news.ycombinator.com/item?id=44047741) - [Disabling kernel functions in your process (2009)](https://chadaustin.me/2009/03/disabling-functions/)
