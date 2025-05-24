@@ -20,7 +20,6 @@
 * [2025-05-23, 20:46:04](https://news.ycombinator.com/item?id=44076449) - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
 * [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Show HN: Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 * [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
-* [2025-05-23, 17:20:40](https://news.ycombinator.com/item?id=44074668) - [Positional preferences, order effects, prompt sensitivity undermine AI judgments](https://www.cip.org/blog/llm-judges-are-unreliable)
 * [2025-05-23, 16:40:55](https://news.ycombinator.com/item?id=44074340) - [How to live on $432 a month in America](https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america)
 * [2025-05-23, 16:02:02](https://news.ycombinator.com/item?id=44074017) - [Find Your People](https://foundersatwork.posthaven.com/find-your-people)
 * [2025-05-23, 15:12:44](https://news.ycombinator.com/item?id=44073588) - [Postgres IDE in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
@@ -29,6 +28,7 @@
 * [2025-05-21, 11:07:48](https://news.ycombinator.com/item?id=44050211) - [Far – Sublime Inspired Find and Replace](https://github.com/ibilalkayy/far)
 * [2025-05-21, 09:26:40](https://news.ycombinator.com/item?id=44049713) - [Jupiter was formerly twice its current size, had a much stronger magnetic field](https://phys.org/news/2025-05-jupiter-current-size-stronger-magnetic.html)
 * [2025-05-21, 06:14:21](https://news.ycombinator.com/item?id=44048751) - [What even is a small language model now?](https://jigsawstack.com/blog/what-even-is-a-small-language-model-now--ai)
+* [2025-05-21, 02:22:25](https://news.ycombinator.com/item?id=44047741) - [Disabling kernel functions in your process (2009)](https://chadaustin.me/2009/03/disabling-functions/)
 * [2025-05-20, 19:15:31](https://news.ycombinator.com/item?id=44044882) - [Alone and Adrift in the Pacific](https://www.theatlantic.com/magazine/archive/2025/06/commercial-fisherman-shipwreck/682580/)
 
 ## [Archives](archives/index.md)
