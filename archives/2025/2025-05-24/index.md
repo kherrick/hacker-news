@@ -15,6 +15,7 @@
 * [2025-05-24, 15:03:37](https://news.ycombinator.com/item?id=44081586) - [The Goodness of Good Writing](https://paulgraham.com/goodwriting.html)
 * [2025-05-24, 14:49:02](https://news.ycombinator.com/item?id=44081494) - [You're a little company, now act like one](https://longform.asmartbear.com/little-company/)
 * [2025-05-24, 14:26:48](https://news.ycombinator.com/item?id=44081346) - [AI, Heidegger, and Evangelion](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion)
+* [2025-05-24, 14:25:45](https://news.ycombinator.com/item?id=44081338) - [I used o3 to find a remote zeroday in the Linux SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 13:08:42](https://news.ycombinator.com/item?id=44080840) - [DIY Cybersickness Remedies](https://spectrum.ieee.org/diy-cybersickness-remedies)
 * [2025-05-24, 13:05:56](https://news.ycombinator.com/item?id=44080820) - [The legacy of the iconic Nakagin capsule tower](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/)
 * [2025-05-24, 13:03:36](https://news.ycombinator.com/item?id=44080808) - [Show HN: SuperUtilsPlus - A Modern Alternative to Lodash](https://github.com/dhaxor/super-utils-plus)
