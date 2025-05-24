@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-24, 07:12:48](https://news.ycombinator.com/item?id=44079331) - [A boy who came back: the near-death, and changed life, of my son Max](https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max)
+* [2025-05-24, 10:20:14](https://news.ycombinator.com/item?id=44080072) - [Building a Bank (With DDD, Microservices, and Autonomous Teams)](https://www.youtube.com/watch?v=pVqroDdYWMo)
+* [2025-05-24, 09:39:30](https://news.ycombinator.com/item?id=44079926) - [Online Text to Diagram Tools](https://xosh.org/text-to-diagram/)
 * [2025-05-24, 07:05:46](https://news.ycombinator.com/item?id=44079303) - [Ask HN: Go deep into AI/LLMs or just use them as tools?](https://news.ycombinator.com/item?id=44079303)
 * [2025-05-24, 04:36:31](https://news.ycombinator.com/item?id=44078813) - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
 * [2025-05-24, 03:00:53](https://news.ycombinator.com/item?id=44078434) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
@@ -12,7 +13,6 @@
 * [2025-05-23, 23:28:11](https://news.ycombinator.com/item?id=44077533) - [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
 * [2025-05-23, 20:51:29](https://news.ycombinator.com/item?id=44076501) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 * [2025-05-23, 20:46:04](https://news.ycombinator.com/item?id=44076449) - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
-* [2025-05-23, 20:22:09](https://news.ycombinator.com/item?id=44076300) - [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
 * [2025-05-23, 20:09:01](https://news.ycombinator.com/item?id=44076170) - [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
 * [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Show HN: Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 * [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)

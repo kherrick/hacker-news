@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 10:20:14](https://news.ycombinator.com/item?id=44080072) - [Building a Bank (With DDD, Microservices, and Autonomous Teams)](https://www.youtube.com/watch?v=pVqroDdYWMo)
+* [2025-05-24, 09:39:30](https://news.ycombinator.com/item?id=44079926) - [Online Text to Diagram Tools](https://xosh.org/text-to-diagram/)
 * [2025-05-24, 09:31:33](https://news.ycombinator.com/item?id=44079901) - [My Epic, 40-Year Dungeons and Dragons Odyssey](https://timharford.com/2024/11/my-epic-40-year-dungeons-dragons-odyssey/)
 * [2025-05-24, 08:48:14](https://news.ycombinator.com/item?id=44079755) - [Idiocracy](https://en.wikipedia.org/wiki/Idiocracy)
 * [2025-05-24, 07:15:30](https://news.ycombinator.com/item?id=44079349) - [A Pregnancy Souvenir: Cells That Are Not Your Own (2015)](https://www.nytimes.com/2015/09/15/science/a-pregnancy-souvenir-cells-that-are-not-your-own.html)
