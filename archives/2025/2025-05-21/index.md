@@ -13,6 +13,7 @@
 * [2025-05-21, 20:40:02](https://news.ycombinator.com/item?id=44056097) - [Show HN: High-resolution surface analysis with Lidar data](https://github.com/r-follador/delta-relief)
 * [2025-05-21, 20:21:06](https://news.ycombinator.com/item?id=44055895) - [Show HN: Confidential computing for high-assurance RISC-V embedded systems](https://github.com/IBM/ACE-RISCV)
 * [2025-05-21, 20:10:01](https://news.ycombinator.com/item?id=44055771) - [It's So Over, We're So Back – Doomer Techno Optimism](https://americanaffairsjournal.org/2025/05/its-so-over-were-so-back-doomer-techno-optimism/)
+* [2025-05-21, 19:56:13](https://news.ycombinator.com/item?id=44055618) - [The Old, Old, Old Man](https://publicdomainreview.org/essay/the-old-old-very-old-man)
 * [2025-05-21, 19:50:37](https://news.ycombinator.com/item?id=44055542) - [Show HN: I've built online video editor](https://clipjs.vercel.app/)
 * [2025-05-21, 19:48:26](https://news.ycombinator.com/item?id=44055520) - [µPC: Scaling Predictive Coding to 100 Layer Networks](https://arxiv.org/abs/2505.13124)
 * [2025-05-21, 19:43:01](https://news.ycombinator.com/item?id=44055454) - [Nvidia Pushes Further into Cloud with GPU Marketplace](https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd)

@@ -7,7 +7,6 @@
 * [2025-05-25, 17:00:26](https://news.ycombinator.com/item?id=44089106) - [Writing a Self-Mutating x86_64 C Program (2013)](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/)
 * [2025-05-25, 16:52:14](https://news.ycombinator.com/item?id=44089054) - [Show HN: Zli – A Batteries-Included CLI Framework for Zig](https://github.com/xcaeser/zli)
 * [2025-05-25, 16:34:28](https://news.ycombinator.com/item?id=44088957) - [Denmark to raise retirement age to 70](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/)
-* [2025-05-25, 16:28:58](https://news.ycombinator.com/item?id=44088926) - [Can a Corporation Be Pardoned?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339)
 * [2025-05-25, 16:06:12](https://news.ycombinator.com/item?id=44088777) - [Show HN: DaedalOS – Desktop Environment in the Browser](https://github.com/DustinBrett/daedalOS)
 * [2025-05-25, 16:05:10](https://news.ycombinator.com/item?id=44088772) - [AI Hallucination Cases Database](https://www.damiencharlotin.com/hallucinations/)
 * [2025-05-25, 15:52:48](https://news.ycombinator.com/item?id=44088682) - [Writing your own CUPS printer driver in 100 lines of Python (2018)](https://behind.pretix.eu/2018/01/20/cups-driver/)
@@ -30,6 +29,7 @@
 * [2025-05-23, 12:14:22](https://news.ycombinator.com/item?id=44072137) - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
 * [2025-05-23, 11:15:01](https://news.ycombinator.com/item?id=44071769) - [Graduate Student Solves Classic Problem About the Limits of Addition](https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/)
 * [2025-05-22, 08:31:36](https://news.ycombinator.com/item?id=44059994) - [Lisping at JPL](https://flownet.com/gat/jpl-lisp.html)
+* [2025-05-21, 19:56:13](https://news.ycombinator.com/item?id=44055618) - [The Old, Old, Old Man](https://publicdomainreview.org/essay/the-old-old-very-old-man)
 
 ## [Archives](archives/index.md)
 
