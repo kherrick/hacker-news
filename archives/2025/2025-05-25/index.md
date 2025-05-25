@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 13:44:33](https://news.ycombinator.com/item?id=44087793) - [There was a time when the US government built homes for working-class Americans](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512)
+* [2025-05-25, 13:30:53](https://news.ycombinator.com/item?id=44087687) - [Fast, Simple and Open Firebase Alternative: TrailBase](https://github.com/trailbaseio/trailbase/releases/tag/v0.12.0)
+* [2025-05-25, 13:19:24](https://news.ycombinator.com/item?id=44087608) - [The 44 Year Old Computer Magazine That Changed Everything [video]](https://www.youtube.com/watch?v=QSnw5pPEPBc)
+* [2025-05-25, 12:35:30](https://news.ycombinator.com/item?id=44087373) - [Programming on 34 Keys (2022)](https://oppi.li/posts/programming_on_34_keys/)
 * [2025-05-25, 11:56:16](https://news.ycombinator.com/item?id=44087183) - [Investigating Wrench Attacks: Physical Attacks Targeting Cryptocurrency Users [pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf)
 * [2025-05-25, 11:48:30](https://news.ycombinator.com/item?id=44087150) - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
 * [2025-05-25, 11:21:22](https://news.ycombinator.com/item?id=44087049) - [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
