@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-05-25, 15:10:00",
-      "https://news.ycombinator.com/item?id=44088392"
-    ],
-    [
-      "Implementing complex numbers and FFT with just datatypes (2023)",
-      "https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 14:49:46",
       "https://news.ycombinator.com/item?id=44088248"
     ],
@@ -257,6 +247,16 @@
     [
       "What happens after you run Git push?",
       "https://www.blacksmith.sh/blog/security"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 12:59:34",
+      "https://news.ycombinator.com/item?id=44061614"
+    ],
+    [
+      "Trading with Claude (and writing your own MCP server)",
+      "https://dangelov.com/blog/trading-with-claude/"
     ]
   ],
   [
