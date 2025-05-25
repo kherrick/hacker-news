@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 23:50:46](https://news.ycombinator.com/item?id=44084504) - [MIT physicists discover a new type of superconductor that's also a magnet](https://news.mit.edu/2025/mit-physicists-discover-new-type-superconductor-also-magnet-0522)
+* [2025-05-24, 23:17:25](https://news.ycombinator.com/item?id=44084352) - ['Crypto king' turned NYC townhouse into torture chamber to gain partner Bitcoin](https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/)
+* [2025-05-24, 23:13:24](https://news.ycombinator.com/item?id=44084332) - [Show HN: I built StickerFacet to turn photos into high quality vinyl stickers](https://stickerfacet.com)
 * [2025-05-24, 23:06:03](https://news.ycombinator.com/item?id=44084304) - [Is America Headed for an Age of Dumb Phones?](https://www.businessinsider.com/appstinence-movement-tech-lovers-dumping-smartphones-age-of-dumb-phones-2025-5)
 * [2025-05-24, 21:53:47](https://news.ycombinator.com/item?id=44084017) - [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
 * [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)

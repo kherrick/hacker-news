@@ -83,4 +83,5 @@
 * [2025-05-22, 01:00:09](https://news.ycombinator.com/item?id=44057752) - [How AppHarvest’s indoor farming scheme imploded (2023)](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
 * [2025-05-22, 00:56:11](https://news.ycombinator.com/item?id=44057731) - [Dijkstra on Ada](https://craftofcoding.wordpress.com/2014/04/16/dijkstra-on-ada/)
 * [2025-05-22, 00:31:01](https://news.ycombinator.com/item?id=44057612) - [Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
+* [2025-05-22, 00:30:28](https://news.ycombinator.com/item?id=44057606) - [One of the Most Popular Games on the Planet](https://kotaku.com/grow-a-garden-roblox-5-million-active-users-record-pc-1851781824)
 * [2025-05-22, 00:01:46](https://news.ycombinator.com/item?id=44057467) - [Tales from Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
