@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-05-25, 19:36:58",
+      "https://news.ycombinator.com/item?id=44090387"
+    ],
+    [
+      "Ask HN: What are you working on? (May 2025)",
+      "https://news.ycombinator.com/item?id=44090387"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 19:25:58",
       "https://news.ycombinator.com/item?id=44090302"
     ],
     [
       "Beware the Complexity Merchants",
       "https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 19:08:34",
-      "https://news.ycombinator.com/item?id=44090154"
-    ],
-    [
-      "Gemma 3n Architectural Innovations – Speculation and poking around in the model",
-      "https://old.reddit.com/r/LocalLLaMA/comments/1kuy45r/gemma_3n_architectural_innovations_speculation/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44089134"
     ],
     [
-      "The Newark airport crisis is about to become everyone's problem",
+      "The Newark airport crisis",
       "https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar"
     ]
   ],
@@ -87,6 +87,16 @@
     [
       "Denmark to raise retirement age to 70",
       "https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 16:28:58",
+      "https://news.ycombinator.com/item?id=44088926"
+    ],
+    [
+      "Can a corporation be pardoned?",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-05-25, 11:48:30",
-      "https://news.ycombinator.com/item?id=44087150"
-    ],
-    [
-      "At Amazon, some coders say their jobs have begun to resemble warehouse work",
-      "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 11:21:22",
       "https://news.ycombinator.com/item?id=44087049"
     ],
@@ -231,32 +231,22 @@
   ],
   [
     [
+      "2025-05-25, 09:01:34",
+      "https://news.ycombinator.com/item?id=44086530"
+    ],
+    [
+      "Is TfL losing the battle against heat on the Victoria line?",
+      "https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 06:06:39",
       "https://news.ycombinator.com/item?id=44085920"
     ],
     [
       "Claude 4 System Card",
       "https://simonwillison.net/2025/May/25/claude-4-system-card/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 01:34:54",
-      "https://news.ycombinator.com/item?id=44084885"
-    ],
-    [
-      "How to Install Windows NT 4 Server on Proxmox",
-      "https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 21:29:05",
-      "https://news.ycombinator.com/item?id=44083917"
-    ],
-    [
-      "Why old games never die, but new ones do",
-      "https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2025-05-21, 19:56:13",
-      "https://news.ycombinator.com/item?id=44055618"
+      "2025-05-22, 07:40:23",
+      "https://news.ycombinator.com/item?id=44059657"
     ],
     [
-      "The Old, Old, Old Man",
-      "https://publicdomainreview.org/essay/the-old-old-very-old-man"
+      "Koog, a Kotlin-based framework to build and run Al agents in idiomatic Kotlin",
+      "https://github.com/JetBrains/koog"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 13:43:48",
+      "https://news.ycombinator.com/item?id=44051386"
+    ],
+    [
+      "Show HN: AI Baby Monitor – local Video-LLM that beeps when safety rules break",
+      "https://github.com/zeenolife/ai-baby-monitor"
     ]
   ]
 ]
