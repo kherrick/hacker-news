@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-25, 03:43:44](https://news.ycombinator.com/item?id=44085354) - [Job Hunting Scripts](https://github.com/CajuM/jobhunt)
 * [2025-05-25, 03:40:58](https://news.ycombinator.com/item?id=44085343) - [Anthropic Claude Opus 4 tries to blackmail devs when replacement threatened](https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/)
 * [2025-05-25, 02:55:20](https://news.ycombinator.com/item?id=44085188) - [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
 * [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
@@ -11,7 +10,6 @@
 * [2025-05-24, 21:53:47](https://news.ycombinator.com/item?id=44084017) - [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
 * [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
 * [2025-05-24, 21:27:02](https://news.ycombinator.com/item?id=44083910) - [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
-* [2025-05-24, 20:43:11](https://news.ycombinator.com/item?id=44083695) - [The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
 * [2025-05-24, 20:22:59](https://news.ycombinator.com/item?id=44083580) - [The Logistics of Road War in the Wasteland](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
 * [2025-05-24, 19:50:41](https://news.ycombinator.com/item?id=44083388) - [Tachy0n: The Last 0day Jailbreak](https://blog.siguza.net/tachy0n/)
@@ -20,6 +18,7 @@
 * [2025-05-24, 17:27:49](https://news.ycombinator.com/item?id=44082494) - [It is time to stop teaching frequentism to non-statisticians (2012)](https://arxiv.org/abs/1201.2590)
 * [2025-05-24, 17:01:10](https://news.ycombinator.com/item?id=44082307) - [Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
 * [2025-05-24, 15:03:37](https://news.ycombinator.com/item?id=44081586) - [Good Writing](https://paulgraham.com/goodwriting.html)
+* [2025-05-24, 14:26:48](https://news.ycombinator.com/item?id=44081346) - [AI, Heidegger, and Evangelion](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion)
 * [2025-05-24, 14:25:45](https://news.ycombinator.com/item?id=44081338) - [I used o3 to find a remote zeroday in the Linux SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 13:45:02](https://news.ycombinator.com/item?id=44081081) - [Peer Programming with LLMs, for Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
 * [2025-05-24, 13:02:00](https://news.ycombinator.com/item?id=44080803) - [Show HN: Rotary Phone Dial Linux Kernel Driver](https://gitlab.com/sephalon/rotary_dial_kmod)
@@ -29,6 +28,7 @@
 * [2025-05-21, 19:43:01](https://news.ycombinator.com/item?id=44055454) - [Nvidia Pushes Further into Cloud with GPU Marketplace](https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd)
 * [2025-05-21, 12:59:40](https://news.ycombinator.com/item?id=44050992) - [Personal Computer Origins: The Datapoint 2200](https://thechipletter.substack.com/p/personal-computer-origins-the-datapoint)
 * [2025-05-21, 07:57:59](https://news.ycombinator.com/item?id=44049282) - [An Almost Pointless Exercise in GPU Optimization](https://blog.speechmatics.com/pointless-gpu-optimization-exercise)
+* [2025-05-21, 07:48:38](https://news.ycombinator.com/item?id=44049252) - [On File Formats](https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS)
 * [2025-05-21, 05:38:47](https://news.ycombinator.com/item?id=44048589) - [The WinRAR Approach](https://basicappleguy.com/basicappleblog/the-winrar-approach)
 
 ## [Archives](archives/index.md)
