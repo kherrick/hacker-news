@@ -15,6 +15,7 @@
 * [2025-05-24, 21:27:02](https://news.ycombinator.com/item?id=44083910) - [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
 * [2025-05-24, 19:50:41](https://news.ycombinator.com/item?id=44083388) - [Tachy0n: The Last 0day Jailbreak](https://blog.siguza.net/tachy0n/)
+* [2025-05-24, 18:24:05](https://news.ycombinator.com/item?id=44082892) - [Lone coder cracks 50-year puzzle to find Boggle's top-scoring board](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1)
 * [2025-05-24, 15:03:37](https://news.ycombinator.com/item?id=44081586) - [Good Writing](https://paulgraham.com/goodwriting.html)
 * [2025-05-24, 14:49:02](https://news.ycombinator.com/item?id=44081494) - [You’re a little company, now act like one (2009)](https://longform.asmartbear.com/little-company/)
 * [2025-05-24, 14:25:45](https://news.ycombinator.com/item?id=44081338) - [I used o3 to find a remote zeroday in the Linux SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
@@ -27,7 +28,6 @@
 * [2025-05-23, 11:15:01](https://news.ycombinator.com/item?id=44071769) - [Graduate Student Solves Classic Problem About the Limits of Addition](https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/)
 * [2025-05-22, 23:05:57](https://news.ycombinator.com/item?id=44068119) - [Hydra: Vehicles on the island – 'After the works they abandon them here'](https://en.protothema.gr/2025/05/19/hydra-see-photos-of-vehicles-on-the-island-after-the-works-they-abandon-them-here-say-residents/)
 * [2025-05-22, 22:11:52](https://news.ycombinator.com/item?id=44067711) - [Contacts let you see in the dark with your eyes closed](https://scitechdaily.com/from-sci-fi-to-superpower-these-contacts-let-you-see-in-the-dark-with-your-eyes-closed/)
-* [2025-05-21, 13:43:48](https://news.ycombinator.com/item?id=44051386) - [Show HN: AI Baby Monitor – local Video-LLM that beeps when safety rules break](https://github.com/zeenolife/ai-baby-monitor)
 * [2025-05-21, 11:27:21](https://news.ycombinator.com/item?id=44050295) - [Space is not a wall: toward a less architectural level design](https://www.blog.radiator.debacle.us/2025/05/space-is-not-wall-toward-less.html)
 * [2025-05-21, 07:57:59](https://news.ycombinator.com/item?id=44049282) - [An Almost Pointless Exercise in GPU Optimization](https://blog.speechmatics.com/pointless-gpu-optimization-exercise)
 
