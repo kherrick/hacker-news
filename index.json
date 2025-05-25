@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-25, 23:08:29",
+      "https://news.ycombinator.com/item?id=44092134"
+    ],
+    [
+      "The Grugbrained CEO",
+      "https://www.sam-rodriques.com/post/the-grugbrained-ceo"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 22:54:18",
+      "https://news.ycombinator.com/item?id=44092019"
+    ],
+    [
+      "We broke down that weird 9-minute Sam Altman and Jony Ive video",
+      "https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 21:37:59",
+      "https://news.ycombinator.com/item?id=44091410"
+    ],
+    [
+      "Advice to Tenstorrent",
+      "https://github.com/geohot/tt-tiny"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 19:36:58",
       "https://news.ycombinator.com/item?id=44090387"
     ],
@@ -27,16 +57,6 @@
     [
       "Path to a free self-taught education in Computer Science",
       "https://github.com/ossu/computer-science"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 17:04:54",
-      "https://news.ycombinator.com/item?id=44089134"
-    ],
-    [
-      "The Newark airport crisis",
-      "https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Writing your own CUPS printer driver in 100 lines of Python (2018)",
       "https://behind.pretix.eu/2018/01/20/cups-driver/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 14:49:46",
-      "https://news.ycombinator.com/item?id=44088248"
-    ],
-    [
-      "Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game",
-      "https://schaoss.github.io/wall-go/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Koog, a Kotlin-based framework to build and run Al agents in idiomatic Kotlin",
       "https://github.com/JetBrains/koog"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 13:43:48",
-      "https://news.ycombinator.com/item?id=44051386"
-    ],
-    [
-      "Show HN: AI Baby Monitor – local Video-LLM that beeps when safety rules break",
-      "https://github.com/zeenolife/ai-baby-monitor"
     ]
   ],
   [
