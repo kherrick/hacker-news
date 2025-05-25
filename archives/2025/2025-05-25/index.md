@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
 * [2025-05-25, 17:07:58](https://news.ycombinator.com/item?id=44089156) - [Chomsky on What ChatGPT Is Good For](https://chomsky.info/20230503-2/)
+* [2025-05-25, 17:06:55](https://news.ycombinator.com/item?id=44089150) - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 * [2025-05-25, 17:00:38](https://news.ycombinator.com/item?id=44089108) - [Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
 * [2025-05-25, 17:00:26](https://news.ycombinator.com/item?id=44089106) - [Writing a Self-Mutating x86_64 C Program (2013)](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/)
 * [2025-05-25, 16:34:28](https://news.ycombinator.com/item?id=44088957) - [Denmark to raise retirement age to 70](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/)
@@ -14,6 +15,7 @@
 * [2025-05-25, 15:52:48](https://news.ycombinator.com/item?id=44088682) - [Writing your own CUPS printer driver in 100 lines of Python](https://behind.pretix.eu/2018/01/20/cups-driver/)
 * [2025-05-25, 15:46:56](https://news.ycombinator.com/item?id=44088644) - [Why Top Posting Has Won](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn)
 * [2025-05-25, 15:43:41](https://news.ycombinator.com/item?id=44088629) - [Alan Yentob Has Died](https://en.wikipedia.org/wiki/Alan_Yentob)
+* [2025-05-25, 15:24:42](https://news.ycombinator.com/item?id=44088482) - [Authors Are Accidentally Leaving AI Prompts in Their Novels](https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/)
 * [2025-05-25, 15:10:00](https://news.ycombinator.com/item?id=44088392) - [Implementing complex numbers and FFT with just datatypes (2023)](https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c)
 * [2025-05-25, 14:58:34](https://news.ycombinator.com/item?id=44088316) - [\"The American Dream 2025\" Elderly Walmart employee on a COPD machine and crying](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/)
 * [2025-05-25, 14:49:46](https://news.ycombinator.com/item?id=44088248) - [Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game](https://schaoss.github.io/wall-go/)
