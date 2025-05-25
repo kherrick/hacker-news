@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 17:00:38](https://news.ycombinator.com/item?id=44089108) - [Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
+* [2025-05-25, 16:34:28](https://news.ycombinator.com/item?id=44088957) - [Denmark to raise retirement age to 70](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/)
 * [2025-05-25, 16:05:10](https://news.ycombinator.com/item?id=44088772) - [AI Hallucination Cases Database](https://www.damiencharlotin.com/hallucinations/)
+* [2025-05-25, 15:52:48](https://news.ycombinator.com/item?id=44088682) - [Writing your own CUPS printer driver in 100 lines of Python](https://behind.pretix.eu/2018/01/20/cups-driver/)
 * [2025-05-25, 15:46:56](https://news.ycombinator.com/item?id=44088644) - [Why Top Posting Has Won](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn)
 * [2025-05-25, 15:43:41](https://news.ycombinator.com/item?id=44088629) - [Alan Yentob Has Died](https://en.wikipedia.org/wiki/Alan_Yentob)
 * [2025-05-25, 14:58:34](https://news.ycombinator.com/item?id=44088316) - [\"The American Dream 2025\" Elderly Walmart employee on a COPD machine and crying](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/)

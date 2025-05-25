@@ -75,6 +75,7 @@
 * [2025-05-22, 06:19:52](https://news.ycombinator.com/item?id=44059270) - [voyage-3.5 and voyage-3.5-lite: improved quality for a new retrieval frontier](https://blog.voyageai.com/2025/05/20/voyage-3-5/)
 * [2025-05-22, 05:49:36](https://news.ycombinator.com/item?id=44059122) - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
 * [2025-05-22, 05:15:57](https://news.ycombinator.com/item?id=44058988) - [Terminator: Hasta La Vista, Shell](https://github.com/steipete/Terminator)
+* [2025-05-22, 04:44:23](https://news.ycombinator.com/item?id=44058859) - [Portugal, the Mamluks, and the Age of Discovery](https://www.historytoday.com/archive/feature/portugal-mamluks-and-age-discovery)
 * [2025-05-22, 04:24:33](https://news.ycombinator.com/item?id=44058778) - [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
 * [2025-05-22, 04:04:25](https://news.ycombinator.com/item?id=44058677) - [ChatGPT Is a Gimmick](https://hedgehogreview.com/web-features/thr/posts/chatgpt-is-a-gimmick)
 * [2025-05-22, 03:12:45](https://news.ycombinator.com/item?id=44058408) - [Aligning LLM Choice to Your Use Case: An Expert's Guide](https://oblivus.com/blog/choosing-the-right-llm/)
