@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
 * [2025-05-25, 11:56:16](https://news.ycombinator.com/item?id=44087183) - [Investigating Wrench Attacks: Physical Attacks Targeting Cryptocurrency Users [pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf)
+* [2025-05-25, 11:48:30](https://news.ycombinator.com/item?id=44087150) - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
+* [2025-05-25, 11:21:22](https://news.ycombinator.com/item?id=44087049) - [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
 * [2025-05-25, 07:41:07](https://news.ycombinator.com/item?id=44086235) - [You probably don't need a dependency injection framework](http://rednafi.com/go/di_frameworks_bleh/)
 * [2025-05-25, 07:37:27](https://news.ycombinator.com/item?id=44086219) - [The length of file names in early Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts)
 * [2025-05-25, 07:15:31](https://news.ycombinator.com/item?id=44086140) - [Show HN: Photoshop Clone Built in React](https://github.com/chase-manning/react-photo-studio)
