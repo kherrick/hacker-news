@@ -15,6 +15,7 @@
 * [2025-05-25, 15:52:48](https://news.ycombinator.com/item?id=44088682) - [Writing your own CUPS printer driver in 100 lines of Python](https://behind.pretix.eu/2018/01/20/cups-driver/)
 * [2025-05-25, 15:46:56](https://news.ycombinator.com/item?id=44088644) - [Why Top Posting Has Won](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn)
 * [2025-05-25, 15:43:41](https://news.ycombinator.com/item?id=44088629) - [Alan Yentob Has Died](https://en.wikipedia.org/wiki/Alan_Yentob)
+* [2025-05-25, 15:28:55](https://news.ycombinator.com/item?id=44088513) - [Drawing power out of CCS port](https://openinverter.org/forum/viewtopic.php?t=3551)
 * [2025-05-25, 15:24:42](https://news.ycombinator.com/item?id=44088482) - [Authors Are Accidentally Leaving AI Prompts in Their Novels](https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/)
 * [2025-05-25, 15:10:00](https://news.ycombinator.com/item?id=44088392) - [Implementing complex numbers and FFT with just datatypes (2023)](https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c)
 * [2025-05-25, 14:58:34](https://news.ycombinator.com/item?id=44088316) - [\"The American Dream 2025\" Elderly Walmart employee on a COPD machine and crying](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/)
