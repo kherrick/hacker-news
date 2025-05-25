@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-25, 07:41:07](https://news.ycombinator.com/item?id=44086235) - [You probably don't need a dependency injection framework](http://rednafi.com/go/di_frameworks_bleh/)
+* [2025-05-25, 07:41:07](https://news.ycombinator.com/item?id=44086235) - [Dependency injection frameworks add confusion](http://rednafi.com/go/di_frameworks_bleh/)
 * [2025-05-25, 06:59:34](https://news.ycombinator.com/item?id=44086094) - [Infinite Tool Use](https://snimu.github.io/2025/05/23/infinite-tool-use.html)
 * [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 * [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
