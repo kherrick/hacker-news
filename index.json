@@ -111,42 +111,12 @@
   ],
   [
     [
-      "2025-05-25, 16:05:10",
-      "https://news.ycombinator.com/item?id=44088772"
-    ],
-    [
-      "AI Hallucination Cases Database",
-      "https://www.damiencharlotin.com/hallucinations/"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 15:52:48",
       "https://news.ycombinator.com/item?id=44088682"
     ],
     [
       "Writing your own CUPS printer driver in 100 lines of Python (2018)",
       "https://behind.pretix.eu/2018/01/20/cups-driver/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 15:46:56",
-      "https://news.ycombinator.com/item?id=44088644"
-    ],
-    [
-      "Why top posting has won (2018)",
-      "https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 15:28:55",
-      "https://news.ycombinator.com/item?id=44088513"
-    ],
-    [
-      "Drawing power out of CCS port",
-      "https://openinverter.org/forum/viewtopic.php?t=3551"
     ]
   ],
   [
@@ -241,12 +211,32 @@
   ],
   [
     [
+      "2025-05-25, 07:41:07",
+      "https://news.ycombinator.com/item?id=44086235"
+    ],
+    [
+      "Dependency injection frameworks add confusion",
+      "http://rednafi.com/go/di_frameworks_bleh/"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 06:06:39",
       "https://news.ycombinator.com/item?id=44085920"
     ],
     [
       "Claude 4 System Card",
       "https://simonwillison.net/2025/May/25/claude-4-system-card/"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 00:37:08",
+      "https://news.ycombinator.com/item?id=44084677"
+    ],
+    [
+      "CAPTCHAs are over (in ticketing)",
+      "https://behind.pretix.eu/2025/05/23/captchas-are-over/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: AI Baby Monitor – local Video-LLM that beeps when safety rules break",
       "https://github.com/zeenolife/ai-baby-monitor"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 07:48:38",
+      "https://news.ycombinator.com/item?id=44049252"
+    ],
+    [
+      "On File Formats",
+      "https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS"
     ]
   ]
 ]
