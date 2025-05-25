@@ -80,6 +80,7 @@
 * [2025-05-21, 07:57:59](https://news.ycombinator.com/item?id=44049282) - [An Almost Pointless Exercise in GPU Optimization](https://blog.speechmatics.com/pointless-gpu-optimization-exercise)
 * [2025-05-21, 06:18:55](https://news.ycombinator.com/item?id=44048775) - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
 * [2025-05-21, 06:14:21](https://news.ycombinator.com/item?id=44048751) - [What even is a small language model now?](https://jigsawstack.com/blog/what-even-is-a-small-language-model-now--ai)
+* [2025-05-21, 05:38:47](https://news.ycombinator.com/item?id=44048589) - [The WinRAR Approach](https://basicappleguy.com/basicappleblog/the-winrar-approach)
 * [2025-05-21, 05:36:16](https://news.ycombinator.com/item?id=44048574) - [Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking](https://arxiv.org/abs/2504.05652)
 * [2025-05-21, 05:22:24](https://news.ycombinator.com/item?id=44048518) - [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
 * [2025-05-21, 04:56:44](https://news.ycombinator.com/item?id=44048420) - [Goethe's Faustian Life](https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography)
