@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 14:58:34](https://news.ycombinator.com/item?id=44088316) - [\"The American Dream 2025\" Elderly Walmart employee on a COPD machine and crying](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/)
 * [2025-05-25, 14:49:46](https://news.ycombinator.com/item?id=44088248) - [Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game](https://schaoss.github.io/wall-go/)
+* [2025-05-25, 14:45:47](https://news.ycombinator.com/item?id=44088216) - [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
 * [2025-05-25, 14:03:59](https://news.ycombinator.com/item?id=44087926) - [Trump's Middle East AI Deal: \"Just Count the Server Racks\"](https://www.chinatalk.media/p/about-that-ai-middle-east-deal)
 * [2025-05-25, 14:02:19](https://news.ycombinator.com/item?id=44087916) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
 * [2025-05-25, 13:51:55](https://news.ycombinator.com/item?id=44087844) - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
