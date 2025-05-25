@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 02:55:20](https://news.ycombinator.com/item?id=44085188) - [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
+* [2025-05-25, 02:12:21](https://news.ycombinator.com/item?id=44085046) - [Python in LibreOffice (LibrePythonista Extension)](https://extensions.libreoffice.org/en/extensions/show/99231)
 * [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
 * [2025-05-25, 01:13:41](https://news.ycombinator.com/item?id=44084818) - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/)
 * [2025-05-25, 00:37:08](https://news.ycombinator.com/item?id=44084677) - [CAPTCHAs are over (in ticketing)](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
