@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-25, 17:00:38",
+      "https://news.ycombinator.com/item?id=44089108"
+    ],
+    [
+      "Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri",
+      "https://www.ycombinator.com/companies/martin/jobs"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 16:34:28",
+      "https://news.ycombinator.com/item?id=44088957"
+    ],
+    [
+      "Denmark to raise retirement age to 70",
+      "https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 16:05:10",
       "https://news.ycombinator.com/item?id=44088772"
     ],
     [
       "AI Hallucination Cases Database",
       "https://www.damiencharlotin.com/hallucinations/"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 15:52:48",
+      "https://news.ycombinator.com/item?id=44088682"
+    ],
+    [
+      "Writing your own CUPS printer driver in 100 lines of Python",
+      "https://behind.pretix.eu/2018/01/20/cups-driver/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-05-25, 04:54:55",
-      "https://news.ycombinator.com/item?id=44085625"
-    ],
-    [
-      "Mouth bacteria partially spread depression and anxiety in newlywed couples",
-      "https://www.xiahepublishing.com/2472-0712/ERHM-2025-00013"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 01:34:54",
       "https://news.ycombinator.com/item?id=44084885"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-24, 13:45:02",
-      "https://news.ycombinator.com/item?id=44081081"
-    ],
-    [
-      "Peer Programming with LLMs, for Senior+ Engineers",
-      "https://pmbanugo.me/blog/peer-programming-with-llms"
-    ]
-  ],
-  [
-    [
       "2025-05-24, 13:02:00",
       "https://news.ycombinator.com/item?id=44080803"
     ],
@@ -227,16 +237,6 @@
     [
       "Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)",
       "https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 12:06:06",
-      "https://news.ycombinator.com/item?id=44080533"
-    ],
-    [
-      "The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2",
-      "https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-05-22, 22:11:52",
-      "https://news.ycombinator.com/item?id=44067711"
-    ],
-    [
-      "Contacts let you see in the dark with your eyes closed",
-      "https://scitechdaily.com/from-sci-fi-to-superpower-these-contacts-let-you-see-in-the-dark-with-your-eyes-closed/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 19:53:37",
       "https://news.ycombinator.com/item?id=44066120"
     ],
     [
       "Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent",
       "https://github.com/xe-nvdk/rtcollector"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 04:44:23",
+      "https://news.ycombinator.com/item?id=44058859"
+    ],
+    [
+      "Portugal, the Mamluks, and the Age of Discovery",
+      "https://www.historytoday.com/archive/feature/portugal-mamluks-and-age-discovery"
     ]
   ]
 ]
