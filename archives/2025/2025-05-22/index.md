@@ -56,6 +56,7 @@
 * [2025-05-22, 13:25:33](https://news.ycombinator.com/item?id=44061836) - [Showh HN: SQLite JavaScript - extend your database with JavaScript](https://github.com/sqliteai/sqlite-js)
 * [2025-05-22, 13:15:24](https://news.ycombinator.com/item?id=44061751) - [Sorry, grads: Entry-level tech jobs are getting wiped out](https://sfstandard.com/2025/05/20/silicon-valley-white-collar-recession-entry-level/)
 * [2025-05-22, 13:09:15](https://news.ycombinator.com/item?id=44061698) - [The Philosophy of Byung-Chul Han (2020)](https://newintrigue.com/2020/06/29/the-philosophy-of-byung-chul-han/)
+* [2025-05-22, 12:59:34](https://news.ycombinator.com/item?id=44061614) - [Trading with Claude (and writing your own MCP server)](https://dangelov.com/blog/trading-with-claude/)
 * [2025-05-22, 12:57:55](https://news.ycombinator.com/item?id=44061604) - [Free-Threaded Python Library Compatibility Checker](https://ft-checker.com/)
 * [2025-05-22, 12:31:48](https://news.ycombinator.com/item?id=44061414) - [Show HN: Pi Co-pilot – Evaluation of AI apps made easy](https://withpi.ai/)
 * [2025-05-22, 11:59:03](https://news.ycombinator.com/item?id=44061160) - [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
