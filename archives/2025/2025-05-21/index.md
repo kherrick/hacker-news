@@ -33,6 +33,7 @@
 * [2025-05-21, 17:18:52](https://news.ycombinator.com/item?id=44053744) - [LLM function calls don't scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
 * [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://webcomponents.shopify.dev/)
 * [2025-05-21, 17:08:58](https://news.ycombinator.com/item?id=44053603) - [Storefront Web Components](https://shopify.dev/docs/api/storefront-web-components)
+* [2025-05-21, 17:05:50](https://news.ycombinator.com/item?id=44053561) - [TVA submits first US BWRX-300 construction application](https://www.world-nuclear-news.org/articles/tva-submits-first-us-bwrx-300-construction-application)
 * [2025-05-21, 17:05:45](https://news.ycombinator.com/item?id=44053560) - [Collaborative Text Editing Without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
 * [2025-05-21, 17:01:35](https://news.ycombinator.com/item?id=44053518) - [OpenAI to Buy AI Startup from Apple Veteran Jony Ive in $6.5B Deal](https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal)
 * [2025-05-21, 17:00:50](https://news.ycombinator.com/item?id=44053506) - [Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist](https://www.ycombinator.com/companies/harper/jobs)
