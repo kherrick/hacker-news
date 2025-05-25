@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-25, 19:25:58](https://news.ycombinator.com/item?id=44090302) - [Beware the Complexity Merchants](https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/)
+* [2025-05-25, 19:08:34](https://news.ycombinator.com/item?id=44090154) - [Gemma 3n Architectural Innovations – Speculation and poking around in the model](https://old.reddit.com/r/LocalLLaMA/comments/1kuy45r/gemma_3n_architectural_innovations_speculation/)
 * [2025-05-25, 17:41:11](https://news.ycombinator.com/item?id=44089424) - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 * [2025-05-25, 17:06:55](https://news.ycombinator.com/item?id=44089150) - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 * [2025-05-25, 17:04:54](https://news.ycombinator.com/item?id=44089134) - [The Newark airport crisis is about to become everyone's problem](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
@@ -27,7 +28,6 @@
 * [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
 * [2025-05-23, 12:14:22](https://news.ycombinator.com/item?id=44072137) - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
-* [2025-05-23, 11:15:01](https://news.ycombinator.com/item?id=44071769) - [Graduate Student Solves Classic Problem About the Limits of Addition](https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/)
 * [2025-05-22, 08:31:36](https://news.ycombinator.com/item?id=44059994) - [Lisping at JPL (2002)](https://flownet.com/gat/jpl-lisp.html)
 * [2025-05-21, 19:56:13](https://news.ycombinator.com/item?id=44055618) - [The Old, Old, Old Man](https://publicdomainreview.org/essay/the-old-old-very-old-man)
 
