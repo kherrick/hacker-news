@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 14:03:59](https://news.ycombinator.com/item?id=44087926) - [Trump's Middle East AI Deal: \"Just Count the Server Racks\"](https://www.chinatalk.media/p/about-that-ai-middle-east-deal)
+* [2025-05-25, 14:02:19](https://news.ycombinator.com/item?id=44087916) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
 * [2025-05-25, 13:51:55](https://news.ycombinator.com/item?id=44087844) - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
 * [2025-05-25, 13:44:33](https://news.ycombinator.com/item?id=44087793) - [There was a time when the US government built homes for working-class Americans](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512)
 * [2025-05-25, 13:30:53](https://news.ycombinator.com/item?id=44087687) - [Fast, Simple and Open Firebase Alternative: TrailBase](https://github.com/trailbaseio/trailbase/releases/tag/v0.12.0)
