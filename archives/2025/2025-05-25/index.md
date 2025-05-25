@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 07:41:07](https://news.ycombinator.com/item?id=44086235) - [You probably don't need a dependency injection framework](http://rednafi.com/go/di_frameworks_bleh/)
+* [2025-05-25, 07:37:27](https://news.ycombinator.com/item?id=44086219) - [The length of file names in early Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts)
 * [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Cards Highlights](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 * [2025-05-25, 03:43:44](https://news.ycombinator.com/item?id=44085354) - [Job Hunting Scripts](https://github.com/CajuM/jobhunt)
 * [2025-05-25, 03:40:58](https://news.ycombinator.com/item?id=44085343) - [Anthropic Claude Opus 4 tries to blackmail devs when replacement threatened](https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/)
