@@ -37,6 +37,7 @@
 * [2025-05-23, 14:22:53](https://news.ycombinator.com/item?id=44073185) - [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
 * [2025-05-23, 14:22:48](https://news.ycombinator.com/item?id=44073181) - [A Bead Too Far: Rethinking Global Connections Before Columbus](https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global)
 * [2025-05-23, 14:00:25](https://news.ycombinator.com/item?id=44072971) - [How I ended up flying for Yemen's national airline – and survived](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html)
+* [2025-05-23, 13:56:36](https://news.ycombinator.com/item?id=44072929) - [Show HN: Open-source protein and ligand viewer](https://github.com/David-OConnor/daedalus)
 * [2025-05-23, 13:55:48](https://news.ycombinator.com/item?id=44072922) - [Amdash – Human only punctuation mark](https://www.theamdash.com)
 * [2025-05-23, 13:39:26](https://news.ycombinator.com/item?id=44072788) - [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
 * [2025-05-23, 12:14:22](https://news.ycombinator.com/item?id=44072137) - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
