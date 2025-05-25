@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Cards Highlights](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 * [2025-05-25, 02:55:20](https://news.ycombinator.com/item?id=44085188) - [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
 * [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
 * [2025-05-25, 01:13:41](https://news.ycombinator.com/item?id=44084818) - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/)
@@ -15,7 +16,6 @@
 * [2025-05-24, 18:24:05](https://news.ycombinator.com/item?id=44082892) - [Lone coder cracks 50-year puzzle to find Boggle's top-scoring board](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1)
 * [2025-05-24, 18:14:43](https://news.ycombinator.com/item?id=44082835) - [Exposed Industrial Control Systems and Honeypots in the Wild [pdf]](https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf)
 * [2025-05-24, 17:27:49](https://news.ycombinator.com/item?id=44082494) - [It is time to stop teaching frequentism to non-statisticians (2012)](https://arxiv.org/abs/1201.2590)
-* [2025-05-24, 17:01:10](https://news.ycombinator.com/item?id=44082307) - [Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
 * [2025-05-24, 15:03:37](https://news.ycombinator.com/item?id=44081586) - [Good Writing](https://paulgraham.com/goodwriting.html)
 * [2025-05-24, 14:26:48](https://news.ycombinator.com/item?id=44081346) - [AI, Heidegger, and Evangelion](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion)
 * [2025-05-24, 14:25:45](https://news.ycombinator.com/item?id=44081338) - [I used o3 to find a remote zeroday in the Linux SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
