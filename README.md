@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-25, 17:41:11](https://news.ycombinator.com/item?id=44089424) - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
-* [2025-05-25, 17:07:58](https://news.ycombinator.com/item?id=44089156) - [Chomsky on What ChatGPT Is Good For](https://chomsky.info/20230503-2/)
 * [2025-05-25, 17:06:55](https://news.ycombinator.com/item?id=44089150) - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 * [2025-05-25, 17:04:54](https://news.ycombinator.com/item?id=44089134) - [The Newark airport crisis is about to become everyone's problem](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
 * [2025-05-25, 17:00:38](https://news.ycombinator.com/item?id=44089108) - [Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
@@ -15,6 +14,7 @@
 * [2025-05-25, 15:46:56](https://news.ycombinator.com/item?id=44088644) - [Why top posting has won (2018)](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn)
 * [2025-05-25, 15:28:55](https://news.ycombinator.com/item?id=44088513) - [Drawing power out of CCS port](https://openinverter.org/forum/viewtopic.php?t=3551)
 * [2025-05-25, 15:24:42](https://news.ycombinator.com/item?id=44088482) - [Authors Are Accidentally Leaving AI Prompts in Their Novels](https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/)
+* [2025-05-25, 15:10:00](https://news.ycombinator.com/item?id=44088392) - [Implementing complex numbers and FFT with just datatypes (2023)](https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c)
 * [2025-05-25, 14:49:46](https://news.ycombinator.com/item?id=44088248) - [Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game](https://schaoss.github.io/wall-go/)
 * [2025-05-25, 14:45:47](https://news.ycombinator.com/item?id=44088216) - [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
 * [2025-05-25, 14:02:19](https://news.ycombinator.com/item?id=44087916) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
@@ -27,8 +27,8 @@
 * [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
 * [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
-* [2025-05-23, 13:56:36](https://news.ycombinator.com/item?id=44072929) - [Show HN: Open-source protein and ligand viewer](https://github.com/David-OConnor/daedalus)
 * [2025-05-23, 12:14:22](https://news.ycombinator.com/item?id=44072137) - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
+* [2025-05-23, 11:15:01](https://news.ycombinator.com/item?id=44071769) - [Graduate Student Solves Classic Problem About the Limits of Addition](https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/)
 * [2025-05-22, 08:31:36](https://news.ycombinator.com/item?id=44059994) - [Lisping at JPL](https://flownet.com/gat/jpl-lisp.html)
 
 ## [Archives](archives/index.md)
