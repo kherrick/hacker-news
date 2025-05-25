@@ -66,6 +66,7 @@
 * [2025-05-21, 11:52:40](https://news.ycombinator.com/item?id=44050465) - [I spent a year figuring out the weirdest mistake in recent Hollywood history](https://slate.com/culture/2025/05/birds-movies-charlies-angels-2000-pygmy-nuthatch.html)
 * [2025-05-21, 11:49:08](https://news.ycombinator.com/item?id=44050437) - [Why Property Testing Finds Bugs Unit Testing Does Not (2021)](https://buttondown.com/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/)
 * [2025-05-21, 11:37:37](https://news.ycombinator.com/item?id=44050353) - [From RPC to transactions and durable executions](https://www.pramodb.com/index.php/2025/05/21/from-rpc-to-transactions-and-durable-executions/)
+* [2025-05-21, 11:27:21](https://news.ycombinator.com/item?id=44050295) - [Space is not a wall: toward a less architectural level design](https://www.blog.radiator.debacle.us/2025/05/space-is-not-wall-toward-less.html)
 * [2025-05-21, 11:19:59](https://news.ycombinator.com/item?id=44050269) - [A South Korean grand master on the art of the perfect soy sauce](https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce)
 * [2025-05-21, 11:10:29](https://news.ycombinator.com/item?id=44050222) - [Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
 * [2025-05-21, 11:07:48](https://news.ycombinator.com/item?id=44050211) - [Far – Sublime Inspired Find and Replace](https://github.com/ibilalkayy/far)
