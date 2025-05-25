@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-25, 16:05:10](https://news.ycombinator.com/item?id=44088772) - [AI Hallucination Cases Database](https://www.damiencharlotin.com/hallucinations/)
 * [2025-05-25, 15:46:56](https://news.ycombinator.com/item?id=44088644) - [Why Top Posting Has Won](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn)
 * [2025-05-25, 15:43:41](https://news.ycombinator.com/item?id=44088629) - [Alan Yentob Has Died](https://en.wikipedia.org/wiki/Alan_Yentob)
 * [2025-05-25, 14:49:46](https://news.ycombinator.com/item?id=44088248) - [Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game](https://schaoss.github.io/wall-go/)
@@ -11,6 +12,7 @@
 * [2025-05-25, 11:21:22](https://news.ycombinator.com/item?id=44087049) - [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
 * [2025-05-25, 07:08:51](https://news.ycombinator.com/item?id=44086123) - [Death of Michael Ledeen, maker of the phony case for the invasion of Iraq](https://www.spytalk.co/p/death-of-a-master-manipulator)
 * [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
+* [2025-05-25, 04:54:55](https://news.ycombinator.com/item?id=44085625) - [Mouth bacteria partially spread depression and anxiety in newlywed couples](https://www.xiahepublishing.com/2472-0712/ERHM-2025-00013)
 * [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
 * [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
@@ -28,8 +30,6 @@
 * [2025-05-22, 23:05:57](https://news.ycombinator.com/item?id=44068119) - [Hydra: Vehicles on the island – 'After the works they abandon them here'](https://en.protothema.gr/2025/05/19/hydra-see-photos-of-vehicles-on-the-island-after-the-works-they-abandon-them-here-say-residents/)
 * [2025-05-22, 22:11:52](https://news.ycombinator.com/item?id=44067711) - [Contacts let you see in the dark with your eyes closed](https://scitechdaily.com/from-sci-fi-to-superpower-these-contacts-let-you-see-in-the-dark-with-your-eyes-closed/)
 * [2025-05-22, 19:53:37](https://news.ycombinator.com/item?id=44066120) - [Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent](https://github.com/xe-nvdk/rtcollector)
-* [2025-05-21, 11:27:21](https://news.ycombinator.com/item?id=44050295) - [Space is not a wall: toward a less architectural level design](https://www.blog.radiator.debacle.us/2025/05/space-is-not-wall-toward-less.html)
-* [2025-05-21, 07:57:59](https://news.ycombinator.com/item?id=44049282) - [An Almost Pointless Exercise in GPU Optimization](https://blog.speechmatics.com/pointless-gpu-optimization-exercise)
 
 ## [Archives](archives/index.md)
 
