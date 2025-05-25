@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
-* [2025-05-25, 19:25:58](https://news.ycombinator.com/item?id=44090302) - [Beware the Complexity Merchants](https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/)
 * [2025-05-25, 17:41:11](https://news.ycombinator.com/item?id=44089424) - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 * [2025-05-25, 17:06:55](https://news.ycombinator.com/item?id=44089150) - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 * [2025-05-25, 17:04:54](https://news.ycombinator.com/item?id=44089134) - [The Newark airport crisis](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
@@ -26,6 +25,7 @@
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
 * [2025-05-24, 11:02:22](https://news.ycombinator.com/item?id=44080237) - [Tariffs in American History](https://imprimis.hillsdale.edu/tariffs-in-american-history/)
 * [2025-05-23, 12:14:22](https://news.ycombinator.com/item?id=44072137) - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
+* [2025-05-23, 07:22:39](https://news.ycombinator.com/item?id=44070671) - [What happens after you run Git push?](https://www.blacksmith.sh/blog/security)
 * [2025-05-22, 08:31:36](https://news.ycombinator.com/item?id=44059994) - [Lisping at JPL (2002)](https://flownet.com/gat/jpl-lisp.html)
 * [2025-05-22, 07:40:23](https://news.ycombinator.com/item?id=44059657) - [Koog, a Kotlin-based framework to build and run Al agents in idiomatic Kotlin](https://github.com/JetBrains/koog)
 * [2025-05-21, 13:43:48](https://news.ycombinator.com/item?id=44051386) - [Show HN: AI Baby Monitor – local Video-LLM that beeps when safety rules break](https://github.com/zeenolife/ai-baby-monitor)
