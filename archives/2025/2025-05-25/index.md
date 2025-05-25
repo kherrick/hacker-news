@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 20:29:36](https://news.ycombinator.com/item?id=44090815) - [Microsoft engineer fired for disrupting CEO Nadella's speech at Build 2025](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-software-engineer-fired-for-disrupting-ceo-satya-nadellas-speech-at-build-2025-says-cant-open-/articleshow/121360389.cms)
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
 * [2025-05-25, 19:25:58](https://news.ycombinator.com/item?id=44090302) - [Beware the Complexity Merchants](https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/)
 * [2025-05-25, 19:08:34](https://news.ycombinator.com/item?id=44090154) - [Gemma 3n Architectural Innovations – Speculation and poking around in the model](https://old.reddit.com/r/LocalLLaMA/comments/1kuy45r/gemma_3n_architectural_innovations_speculation/)

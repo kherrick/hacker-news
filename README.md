@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-25, 20:29:36](https://news.ycombinator.com/item?id=44090815) - [Microsoft engineer fired for disrupting CEO Nadella's speech at Build 2025](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-software-engineer-fired-for-disrupting-ceo-satya-nadellas-speech-at-build-2025-says-cant-open-/articleshow/121360389.cms)
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
 * [2025-05-25, 19:25:58](https://news.ycombinator.com/item?id=44090302) - [Beware the Complexity Merchants](https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/)
 * [2025-05-25, 17:41:11](https://news.ycombinator.com/item?id=44089424) - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
@@ -12,8 +13,6 @@
 * [2025-05-25, 16:28:58](https://news.ycombinator.com/item?id=44088926) - [Can a corporation be pardoned?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339)
 * [2025-05-25, 16:06:12](https://news.ycombinator.com/item?id=44088777) - [Show HN: DaedalOS – Desktop Environment in the Browser](https://github.com/DustinBrett/daedalOS)
 * [2025-05-25, 15:52:48](https://news.ycombinator.com/item?id=44088682) - [Writing your own CUPS printer driver in 100 lines of Python (2018)](https://behind.pretix.eu/2018/01/20/cups-driver/)
-* [2025-05-25, 15:10:00](https://news.ycombinator.com/item?id=44088392) - [Implementing complex numbers and FFT with just datatypes (2023)](https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c)
-* [2025-05-25, 14:49:46](https://news.ycombinator.com/item?id=44088248) - [Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game](https://schaoss.github.io/wall-go/)
 * [2025-05-25, 14:45:47](https://news.ycombinator.com/item?id=44088216) - [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
 * [2025-05-25, 14:02:19](https://news.ycombinator.com/item?id=44087916) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
 * [2025-05-25, 13:51:55](https://news.ycombinator.com/item?id=44087844) - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
@@ -25,6 +24,7 @@
 * [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 * [2025-05-25, 00:37:08](https://news.ycombinator.com/item?id=44084677) - [CAPTCHAs are over (in ticketing)](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
+* [2025-05-24, 11:02:22](https://news.ycombinator.com/item?id=44080237) - [Tariffs in American History](https://imprimis.hillsdale.edu/tariffs-in-american-history/)
 * [2025-05-23, 12:14:22](https://news.ycombinator.com/item?id=44072137) - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
 * [2025-05-22, 08:31:36](https://news.ycombinator.com/item?id=44059994) - [Lisping at JPL (2002)](https://flownet.com/gat/jpl-lisp.html)
 * [2025-05-22, 07:40:23](https://news.ycombinator.com/item?id=44059657) - [Koog, a Kotlin-based framework to build and run Al agents in idiomatic Kotlin](https://github.com/JetBrains/koog)
