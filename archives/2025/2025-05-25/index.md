@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 19:25:58](https://news.ycombinator.com/item?id=44090302) - [Beware the Complexity Merchants](https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/)
 * [2025-05-25, 19:08:34](https://news.ycombinator.com/item?id=44090154) - [Gemma 3n Architectural Innovations – Speculation and poking around in the model](https://old.reddit.com/r/LocalLLaMA/comments/1kuy45r/gemma_3n_architectural_innovations_speculation/)
 * [2025-05-25, 17:41:11](https://news.ycombinator.com/item?id=44089424) - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 * [2025-05-25, 17:07:58](https://news.ycombinator.com/item?id=44089156) - [Chomsky on What ChatGPT Is Good For](https://chomsky.info/20230503-2/)
