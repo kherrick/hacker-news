@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 03:43:44](https://news.ycombinator.com/item?id=44085354) - [Job Hunting Scripts](https://github.com/CajuM/jobhunt)
 * [2025-05-25, 03:40:58](https://news.ycombinator.com/item?id=44085343) - [Anthropic Claude Opus 4 tries to blackmail devs when replacement threatened](https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/)
 * [2025-05-25, 02:55:20](https://news.ycombinator.com/item?id=44085188) - [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
 * [2025-05-25, 02:12:21](https://news.ycombinator.com/item?id=44085046) - [Python in LibreOffice (LibrePythonista Extension)](https://extensions.libreoffice.org/en/extensions/show/99231)
