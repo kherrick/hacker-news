@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-25, 23:08:29](https://news.ycombinator.com/item?id=44092134) - [The Grugbrained CEO](https://www.sam-rodriques.com/post/the-grugbrained-ceo)
+* [2025-05-25, 22:54:18](https://news.ycombinator.com/item?id=44092019) - [We broke down that weird 9-minute Sam Altman and Jony Ive video](https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/)
+* [2025-05-25, 21:37:59](https://news.ycombinator.com/item?id=44091410) - [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
 * [2025-05-25, 17:41:11](https://news.ycombinator.com/item?id=44089424) - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 * [2025-05-25, 17:06:55](https://news.ycombinator.com/item?id=44089150) - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
-* [2025-05-25, 17:04:54](https://news.ycombinator.com/item?id=44089134) - [The Newark airport crisis](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
 * [2025-05-25, 17:00:38](https://news.ycombinator.com/item?id=44089108) - [Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
 * [2025-05-25, 17:00:26](https://news.ycombinator.com/item?id=44089106) - [Writing a Self-Mutating x86_64 C Program (2013)](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/)
 * [2025-05-25, 16:52:14](https://news.ycombinator.com/item?id=44089054) - [Show HN: Zli – A Batteries-Included CLI Framework for Zig](https://github.com/xcaeser/zli)
@@ -11,7 +13,6 @@
 * [2025-05-25, 16:28:58](https://news.ycombinator.com/item?id=44088926) - [Can a corporation be pardoned?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339)
 * [2025-05-25, 16:06:12](https://news.ycombinator.com/item?id=44088777) - [Show HN: DaedalOS – Desktop Environment in the Browser](https://github.com/DustinBrett/daedalOS)
 * [2025-05-25, 15:52:48](https://news.ycombinator.com/item?id=44088682) - [Writing your own CUPS printer driver in 100 lines of Python (2018)](https://behind.pretix.eu/2018/01/20/cups-driver/)
-* [2025-05-25, 14:49:46](https://news.ycombinator.com/item?id=44088248) - [Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game](https://schaoss.github.io/wall-go/)
 * [2025-05-25, 14:45:47](https://news.ycombinator.com/item?id=44088216) - [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
 * [2025-05-25, 14:02:19](https://news.ycombinator.com/item?id=44087916) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
 * [2025-05-25, 13:51:55](https://news.ycombinator.com/item?id=44087844) - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
@@ -28,7 +29,6 @@
 * [2025-05-22, 12:59:34](https://news.ycombinator.com/item?id=44061614) - [Trading with Claude (and writing your own MCP server)](https://dangelov.com/blog/trading-with-claude/)
 * [2025-05-22, 08:31:36](https://news.ycombinator.com/item?id=44059994) - [Lisping at JPL (2002)](https://flownet.com/gat/jpl-lisp.html)
 * [2025-05-22, 07:40:23](https://news.ycombinator.com/item?id=44059657) - [Koog, a Kotlin-based framework to build and run Al agents in idiomatic Kotlin](https://github.com/JetBrains/koog)
-* [2025-05-21, 13:43:48](https://news.ycombinator.com/item?id=44051386) - [Show HN: AI Baby Monitor – local Video-LLM that beeps when safety rules break](https://github.com/zeenolife/ai-baby-monitor)
 * [2025-05-21, 07:48:38](https://news.ycombinator.com/item?id=44049252) - [On File Formats](https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS)
 
 ## [Archives](archives/index.md)

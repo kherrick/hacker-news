@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 23:08:29](https://news.ycombinator.com/item?id=44092134) - [The Grugbrained CEO](https://www.sam-rodriques.com/post/the-grugbrained-ceo)
+* [2025-05-25, 22:54:18](https://news.ycombinator.com/item?id=44092019) - [We broke down that weird 9-minute Sam Altman and Jony Ive video](https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/)
+* [2025-05-25, 21:37:59](https://news.ycombinator.com/item?id=44091410) - [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
 * [2025-05-25, 20:29:36](https://news.ycombinator.com/item?id=44090815) - [Microsoft engineer fired for disrupting CEO Nadella's speech at Build 2025](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-software-engineer-fired-for-disrupting-ceo-satya-nadellas-speech-at-build-2025-says-cant-open-/articleshow/121360389.cms)
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
 * [2025-05-25, 19:25:58](https://news.ycombinator.com/item?id=44090302) - [Beware the Complexity Merchants](https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/)
