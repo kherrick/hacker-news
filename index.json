@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-25, 07:41:07",
+      "https://news.ycombinator.com/item?id=44086235"
+    ],
+    [
+      "You probably don't need a dependency injection framework",
+      "http://rednafi.com/go/di_frameworks_bleh/"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 07:37:27",
+      "https://news.ycombinator.com/item?id=44086219"
+    ],
+    [
+      "The length of file names in early Unix",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 06:06:39",
       "https://news.ycombinator.com/item?id=44085920"
     ],
@@ -57,16 +77,6 @@
     [
       "Using the Apple ][+ with the RetroTink-5X",
       "https://nicole.express/2025/apple-ii-more-like-apple-5x.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 20:43:11",
-      "https://news.ycombinator.com/item?id=44083695"
-    ],
-    [
-      "The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]",
-      "https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Peer Programming with LLMs, for Senior+ Engineers",
       "https://pmbanugo.me/blog/peer-programming-with-llms"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 13:03:36",
-      "https://news.ycombinator.com/item?id=44080808"
-    ],
-    [
-      "Show HN: SuperUtilsPlus – A Modern Alternative to Lodash",
-      "https://github.com/dhaxor/super-utils-plus"
     ]
   ],
   [
