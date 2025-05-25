@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-25, 07:41:07](https://news.ycombinator.com/item?id=44086235) - [Dependency injection frameworks add confusion](http://rednafi.com/go/di_frameworks_bleh/)
 * [2025-05-25, 06:59:34](https://news.ycombinator.com/item?id=44086094) - [Infinite Tool Use](https://snimu.github.io/2025/05/23/infinite-tool-use.html)
 * [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 * [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
@@ -19,6 +18,7 @@
 * [2025-05-24, 14:25:45](https://news.ycombinator.com/item?id=44081338) - [I used o3 to find a remote zeroday in the Linux SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 13:45:02](https://news.ycombinator.com/item?id=44081081) - [Peer Programming with LLMs, for Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
 * [2025-05-24, 13:02:00](https://news.ycombinator.com/item?id=44080803) - [Show HN: Rotary Phone Dial Linux Kernel Driver](https://gitlab.com/sephalon/rotary_dial_kmod)
+* [2025-05-24, 12:27:51](https://news.ycombinator.com/item?id=44080640) - [Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa)
 * [2025-05-24, 12:08:15](https://news.ycombinator.com/item?id=44080549) - [Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html)
 * [2025-05-24, 12:06:06](https://news.ycombinator.com/item?id=44080533) - [The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/)
 * [2025-05-22, 23:05:57](https://news.ycombinator.com/item?id=44068119) - [Hydra: Vehicles on the island – 'After the works they abandon them here'](https://en.protothema.gr/2025/05/19/hydra-see-photos-of-vehicles-on-the-island-after-the-works-they-abandon-them-here-say-residents/)
