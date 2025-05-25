@@ -2,6 +2,7 @@
 
 * [2025-05-25, 03:43:44](https://news.ycombinator.com/item?id=44085354) - [Job Hunting Scripts](https://github.com/CajuM/jobhunt)
 * [2025-05-25, 03:40:58](https://news.ycombinator.com/item?id=44085343) - [Anthropic Claude Opus 4 tries to blackmail devs when replacement threatened](https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/)
+* [2025-05-25, 02:55:20](https://news.ycombinator.com/item?id=44085188) - [Crypto Investor Charged with Kidnapping and Torturing Man for Weeks](https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html)
 * [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
 * [2025-05-25, 01:13:41](https://news.ycombinator.com/item?id=44084818) - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/)
 * [2025-05-25, 00:30:04](https://news.ycombinator.com/item?id=44084653) - [Failure Mechanisms in Democratic Regimes – An Army's Role](https://angrystaffofficer.com/2025/03/02/failure-mechanisms-in-democratic-regimes-an-armys-role/)
@@ -19,7 +20,6 @@
 * [2025-05-24, 17:27:49](https://news.ycombinator.com/item?id=44082494) - [It is time to stop teaching frequentism to non-statisticians (2012)](https://arxiv.org/abs/1201.2590)
 * [2025-05-24, 17:01:10](https://news.ycombinator.com/item?id=44082307) - [Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
 * [2025-05-24, 15:03:37](https://news.ycombinator.com/item?id=44081586) - [Good Writing](https://paulgraham.com/goodwriting.html)
-* [2025-05-24, 14:26:48](https://news.ycombinator.com/item?id=44081346) - [AI, Heidegger, and Evangelion](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion)
 * [2025-05-24, 14:25:45](https://news.ycombinator.com/item?id=44081338) - [I used o3 to find a remote zeroday in the Linux SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 13:45:02](https://news.ycombinator.com/item?id=44081081) - [Peer Programming with LLMs, for Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
 * [2025-05-24, 13:02:00](https://news.ycombinator.com/item?id=44080803) - [Show HN: Rotary Phone Dial Linux Kernel Driver](https://gitlab.com/sephalon/rotary_dial_kmod)
