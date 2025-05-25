@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 11:56:16](https://news.ycombinator.com/item?id=44087183) - [Investigating Wrench Attacks: Physical Attacks Targeting Cryptocurrency Users [pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf)
 * [2025-05-25, 07:41:07](https://news.ycombinator.com/item?id=44086235) - [You probably don't need a dependency injection framework](http://rednafi.com/go/di_frameworks_bleh/)
 * [2025-05-25, 07:37:27](https://news.ycombinator.com/item?id=44086219) - [The length of file names in early Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts)
+* [2025-05-25, 07:15:31](https://news.ycombinator.com/item?id=44086140) - [Show HN: Photoshop Clone Built in React](https://github.com/chase-manning/react-photo-studio)
 * [2025-05-25, 06:59:34](https://news.ycombinator.com/item?id=44086094) - [Infinite Tool Use](https://snimu.github.io/2025/05/23/infinite-tool-use.html)
 * [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Cards Highlights](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 * [2025-05-25, 03:43:44](https://news.ycombinator.com/item?id=44085354) - [Job Hunting Scripts](https://github.com/CajuM/jobhunt)

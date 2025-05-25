@@ -41,6 +41,7 @@
 * [2025-05-23, 13:39:26](https://news.ycombinator.com/item?id=44072788) - [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
 * [2025-05-23, 12:04:27](https://news.ycombinator.com/item?id=44072081) - [Ship footage captures sound of Titan sub imploding](https://www.bbc.com/news/articles/c5yg5qggvwjo)
 * [2025-05-23, 11:37:07](https://news.ycombinator.com/item?id=44071900) - [Alasdair MacIntyre Has Died](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
+* [2025-05-23, 11:15:01](https://news.ycombinator.com/item?id=44071769) - [Graduate Student Solves Classic Problem About the Limits of Addition](https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/)
 * [2025-05-23, 11:10:57](https://news.ycombinator.com/item?id=44071747) - [Everything Not Forbidden Is Compulsory](https://www.drorpoleg.com/everything-not-forbidden-is-compulsory/)
 * [2025-05-23, 10:58:00](https://news.ycombinator.com/item?id=44071701) - [Realtek's $10 tiny 10GbE NIC will hit motherboards soon](https://www.tomshardware.com/networking/realteks-usd10-tiny-10gbe-network-adapter-is-coming-to-motherboards-later-this-year)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
