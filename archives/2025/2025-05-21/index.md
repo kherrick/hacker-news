@@ -27,6 +27,7 @@
 * [2025-05-21, 17:53:40](https://news.ycombinator.com/item?id=44054185) - [An upgraded dev experience in Google AI Studio](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/)
 * [2025-05-21, 17:40:29](https://news.ycombinator.com/item?id=44054024) - [Gilded Fish: Illustrations of Histoire naturelle des dorades de la Chine c.1780](https://publicdomainreview.org/collection/chinese-fishes/)
 * [2025-05-21, 17:40:19](https://news.ycombinator.com/item?id=44054019) - [Building (Open Source) Custom Dashboards Is Harder Than You Think](https://langfuse.com/blog/2025-05-21-customizable-dashboards)
+* [2025-05-21, 17:36:16](https://news.ycombinator.com/item?id=44053949) - [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)
 * [2025-05-21, 17:20:30](https://news.ycombinator.com/item?id=44053759) - [Python Tooling at Scale: LlamaIndex’s Monorepo Overhaul](https://www.llamaindex.ai/blog/python-tooling-at-scale-llamaindex-s-monorepo-overhaul)
 * [2025-05-21, 17:19:52](https://news.ycombinator.com/item?id=44053754) - [Show HN: Representing Agents as MCP Servers](https://github.com/lastmile-ai/mcp-agent/tree/main/examples/mcp_agent_server)
 * [2025-05-21, 17:18:52](https://news.ycombinator.com/item?id=44053744) - [LLM function calls don't scale; code orchestration is simpler, more effective](https://jngiam.bearblog.dev/mcp-large-data/)
