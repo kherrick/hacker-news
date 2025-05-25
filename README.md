@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-25, 14:58:34](https://news.ycombinator.com/item?id=44088316) - [\"The American Dream 2025\" Elderly Walmart employee on a COPD machine and crying](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/)
 * [2025-05-25, 14:49:46](https://news.ycombinator.com/item?id=44088248) - [Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game](https://schaoss.github.io/wall-go/)
 * [2025-05-25, 14:45:47](https://news.ycombinator.com/item?id=44088216) - [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
 * [2025-05-25, 14:02:19](https://news.ycombinator.com/item?id=44087916) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
@@ -11,6 +10,7 @@
 * [2025-05-25, 11:21:22](https://news.ycombinator.com/item?id=44087049) - [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
 * [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 * [2025-05-25, 01:34:54](https://news.ycombinator.com/item?id=44084885) - [How to Install Windows NT 4 Server on Proxmox](https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/)
+* [2025-05-25, 00:07:12](https://news.ycombinator.com/item?id=44084577) - [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
 * [2025-05-24, 21:29:05](https://news.ycombinator.com/item?id=44083917) - [Why old games never die, but new ones do](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/)
 * [2025-05-24, 21:27:02](https://news.ycombinator.com/item?id=44083910) - [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
 * [2025-05-24, 20:05:12](https://news.ycombinator.com/item?id=44083467) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
