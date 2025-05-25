@@ -5,8 +5,28 @@
       "https://news.ycombinator.com/item?id=44087183"
     ],
     [
-      "Investigating Wrench Attacks: Physical Attacks Targeting Cryptocurrency Users [pdf]",
+      "Investigating physical attacks targeting cryptocurrency users (2024) [pdf]",
       "https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 11:48:30",
+      "https://news.ycombinator.com/item?id=44087150"
+    ],
+    [
+      "At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work",
+      "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 11:21:22",
+      "https://news.ycombinator.com/item?id=44087049"
+    ],
+    [
+      "Show HN: SVG Animation Software",
+      "https://expressive.app/expressive-animator/"
     ]
   ],
   [
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2025-05-24, 14:49:02",
+      "https://news.ycombinator.com/item?id=44081494"
+    ],
+    [
+      "You’re a little company, now act like one (2009)",
+      "https://longform.asmartbear.com/little-company/"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 14:26:48",
       "https://news.ycombinator.com/item?id=44081346"
     ],
@@ -177,16 +207,6 @@
     [
       "Show HN: Rotary Phone Dial Linux Kernel Driver",
       "https://gitlab.com/sephalon/rotary_dial_kmod"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 12:27:51",
-      "https://news.ycombinator.com/item?id=44080640"
-    ],
-    [
-      "Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency",
-      "https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa"
     ]
   ],
   [
@@ -251,12 +271,12 @@
   ],
   [
     [
-      "2025-05-21, 17:36:16",
-      "https://news.ycombinator.com/item?id=44053949"
+      "2025-05-21, 13:43:48",
+      "https://news.ycombinator.com/item?id=44051386"
     ],
     [
-      "Show HN: I made a running app that turns your runs to a virtual garden",
-      "https://www.runandgrow.com/"
+      "Show HN: AI Baby Monitor – local Video-LLM that beeps when safety rules break",
+      "https://github.com/zeenolife/ai-baby-monitor"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "An Almost Pointless Exercise in GPU Optimization",
       "https://blog.speechmatics.com/pointless-gpu-optimization-exercise"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 07:48:38",
-      "https://news.ycombinator.com/item?id=44049252"
-    ],
-    [
-      "On File Formats",
-      "https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 05:38:47",
-      "https://news.ycombinator.com/item?id=44048589"
-    ],
-    [
-      "The WinRAR Approach",
-      "https://basicappleguy.com/basicappleblog/the-winrar-approach"
     ]
   ]
 ]
