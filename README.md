@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-26, 14:16:11](https://news.ycombinator.com/item?id=44097637) - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
+* [2025-05-26, 14:06:22](https://news.ycombinator.com/item?id=44097539) - [\"Grok 3's Think mode identifies as Claude 3.5 Sonnet](https://www.websmithing.com/2025/05/24/grok-3-accidentally-reveals-its-actually-running-claude-3-5-sonnet/)
+* [2025-05-26, 13:46:11](https://news.ycombinator.com/item?id=44097387) - [Nick Clegg says asking artists for use permission would 'kill' AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
 * [2025-05-26, 13:40:47](https://news.ycombinator.com/item?id=44097350) - [$64B of data center projects blocked or delayed amid local opposition](https://www.datacenterwatch.org/report)
-* [2025-05-26, 13:31:58](https://news.ycombinator.com/item?id=44097289) - [Where hyperscale hardware goes to retire: Ars visits a big ITAD site](https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [Engineers discover new class of materials that passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
 * [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
@@ -24,7 +25,6 @@
 * [2025-05-23, 16:24:26](https://news.ycombinator.com/item?id=44074211) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
 * [2025-05-23, 07:12:33](https://news.ycombinator.com/item?id=44070626) - [Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo)
 * [2025-05-23, 06:08:12](https://news.ycombinator.com/item?id=44070324) - [How Does Claude 4 Think? – Sholto Douglas and Trenton Bricken](https://www.dwarkesh.com/p/sholto-trenton-2)
-* [2025-05-23, 01:31:40](https://news.ycombinator.com/item?id=44068974) - [New method for creating large 3D models of urban areas is faster and cheaper](https://techxplore.com/news/2025-05-action-movies-urban-method-large.html)
 * [2025-05-22, 15:34:12](https://news.ycombinator.com/item?id=44063089) - [From confectioners to robots – Tor Alva in Mulegns is unveiled](https://ethz.ch/en/news-and-events/eth-news/news/2025/05/from-confectioners-to-robots-tor-alva-in-mulegns-is-unveiled.html)
 * [2025-05-22, 14:42:03](https://news.ycombinator.com/item?id=44062576) - [Violating memory safety with Haskell's value restriction](https://welltypedwit.ch/posts/value-restriction)
 * [2025-05-22, 12:59:34](https://news.ycombinator.com/item?id=44061614) - [Trading with Claude, and writing your own MCP server](https://dangelov.com/blog/trading-with-claude/)
