@@ -142,11 +142,11 @@
             <h4>
               <span>2025-05-26 @ 15:15:58</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44098273"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -163,13 +163,90 @@
             <h4>
               <span>2025-05-26 @ 14:59:59</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44098091"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44097699">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44097699"
+              >Ask HN: Building LLM apps? How are you handling user context?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-26 @ 14:23:27</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44097699"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Sure, the model can reason and answer questions well, but it has
+                zero idea who the user is, where they came from, or what they've
+                been doing in the app. Without that, I either have to make the
+                model ask awkward initial questions to figure it out or let it
+                guess, which is usually wrong.
+              </p>
+              <p>
+                So I keep rebuilding the same setup: tracking events, enriching
+                sessions, summarizing behavior, and injecting that into prompts.
+              </p>
+              <p>It makes the app way more helpful, but it's a pain.</p>
+              <p>
+                What I wish existed is a simple way to grab a session summary or
+                user context I could just drop into a prompt. Something like:
+              </p>
+              <p>const context = await getContext();</p>
+              <p>
+                const response = await generateText({ system: `Here's the user
+                context: ${context}`, messages: [...] });
+              </p>
+              <p>Some examples of how I use this:</p>
+              <p>
+                - For support, I pass in the docs they viewed or the error page
+                they landed on.
+              </p>
+              <p>
+                - For marketing, I summarize their journey, like 'ad clicked' →
+                'blog post read' → 'pricing page'.
+              </p>
+              <p>
+                - For sales, I highlight behavior that suggests whether they're
+                a startup or an enterprise.
+              </p>
+              <p>
+                - For product, I classify the session as 'confused', 'exploring
+                plans', or 'ready to buy'.
+              </p>
+              <p>
+                - For recommendations, I generate embeddings from recent
+                activity and use that to match content or products more
+                accurately.
+              </p>
+              <p>
+                In all of these cases, I usually inject things like recent
+                activity, timezone, currency, traffic source, and any signals I
+                can gather that help guide the experience.
+              </p>
+              <p>
+                Has anyone else run into this same issue? Found a better way?
+              </p>
+              <p>
+                I'm considering building something around this initially to
+                solve my problem. I'd love to hear how others are handling it or
+                if this sounds useful to you.
+              </p>
+            </div>
           </section>
         </section>
         <section id="44097637">
@@ -184,11 +261,11 @@
             <h4>
               <span>2025-05-26 @ 14:16:11</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44097637"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -206,7 +283,7 @@
             <h4>
               <span>2025-05-26 @ 13:31:58</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44097289"
                   >Comments</a
@@ -228,11 +305,31 @@
             <h4>
               <span>2025-05-26 @ 13:14:29</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44097144"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 52</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44096907">
+          <h3>
+            <a class="item" href="https://docs.emilua.org/api/0.11/index.html"
+              >Emilua is an execution engine. As a runtime for your Lua
+              programs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-26 @ 12:39:09</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44096907"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -249,7 +346,7 @@
             <h4>
               <span>2025-05-26 @ 12:28:12</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44096808"
                   >Comments</a
@@ -268,11 +365,11 @@
             <h4>
               <span>2025-05-26 @ 11:34:28</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44096395"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -289,11 +386,11 @@
             <h4>
               <span>2025-05-26 @ 11:18:59</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44096251"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -311,11 +408,11 @@
             <h4>
               <span>2025-05-26 @ 10:15:49</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44095866"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -350,11 +447,11 @@
             <h4>
               <span>2025-05-26 @ 09:21:37</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44095549"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -369,11 +466,11 @@
             <h4>
               <span>2025-05-26 @ 08:17:53</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44095189"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 165</span></span
               >
             </h4>
             <div class="text">
@@ -447,7 +544,7 @@
             <h4>
               <span>2025-05-26 @ 08:16:20</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44095176"
                   >Comments</a
@@ -471,11 +568,11 @@
             <h4>
               <span>2025-05-26 @ 07:41:24</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44094980"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -490,7 +587,7 @@
             <h4>
               <span>2025-05-26 @ 05:51:55</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44094362"
                   >Comments</a
@@ -509,11 +606,11 @@
             <h4>
               <span>2025-05-26 @ 02:16:20</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44093334"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -528,7 +625,7 @@
             <h4>
               <span>2025-05-25 @ 23:05:36</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44092102"
                   >Comments</a
@@ -547,11 +644,11 @@
             <h4>
               <span>2025-05-25 @ 19:36:58</span
               ><span class="points-container"
-                >Points: <span class="points">274</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44090387"
                   >Comments</a
-                ><span class="descendants">: 822</span></span
+                ><span class="descendants">: 827</span></span
               >
             </h4>
             <div class="text">
@@ -569,11 +666,11 @@
             <h4>
               <span>2025-05-25 @ 17:41:11</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44089424"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -589,30 +686,11 @@
             <h4>
               <span>2025-05-25 @ 17:06:55</span
               ><span class="points-container"
-                >Points: <span class="points">455</span></span
+                >Points: <span class="points">460</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44089150"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44075093">
-          <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=UJfF3-13aFo"
-              >A 10x Faster TypeScript with Anders Hejlsberg [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-23 @ 18:12:36</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44075093"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
           </section>
@@ -630,11 +708,11 @@
             <h4>
               <span>2025-05-23 @ 17:34:21</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44074775"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -652,7 +730,7 @@
             <h4>
               <span>2025-05-23 @ 16:24:26</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44074211"
                   >Comments</a
@@ -674,7 +752,7 @@
             <h4>
               <span>2025-05-23 @ 07:12:33</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44070626"
                   >Comments</a
@@ -693,11 +771,11 @@
             <h4>
               <span>2025-05-23 @ 06:08:12</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44070324"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -714,11 +792,11 @@
             <h4>
               <span>2025-05-22 @ 15:34:12</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44063089"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -735,7 +813,7 @@
             <h4>
               <span>2025-05-22 @ 14:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44062576"
                   >Comments</a
@@ -756,7 +834,7 @@
             <h4>
               <span>2025-05-22 @ 12:59:34</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44061614"
                   >Comments</a
@@ -782,25 +860,6 @@
                 ><a href="https://news.ycombinator.com/item?id=44061072"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44059994">
-          <h3>
-            <a class="item" href="https://flownet.com/gat/jpl-lisp.html"
-              >Lisping at JPL (2002)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-22 @ 08:31:36</span
-              ><span class="points-container"
-                >Points: <span class="points">161</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44059994"
-                  >Comments</a
-                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
