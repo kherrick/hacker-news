@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
 * [2025-05-26, 22:19:58](https://news.ycombinator.com/item?id=44102201) - [NYC MTA scavenges for parts on eBay to maintain subway system](https://www.wsj.com/opinion/can-ebay-bargains-keep-new-york-citys-subways-running-mta-infrastructure-substations-3859fb5b)
+* [2025-05-26, 21:54:01](https://news.ycombinator.com/item?id=44102034) - [My review of Power Failure: the downfall of America's greatest company](https://www.gwintrob.com/power-failure-review/)
 * [2025-05-26, 21:31:07](https://news.ycombinator.com/item?id=44101875) - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
 * [2025-05-26, 21:25:56](https://news.ycombinator.com/item?id=44101833) - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
 * [2025-05-26, 21:25:09](https://news.ycombinator.com/item?id=44101828) - [Get PC BIOS back on UEFI only system](https://github.com/FlyGoat/csmwrap)
 * [2025-05-26, 21:19:18](https://news.ycombinator.com/item?id=44101787) - [Iron Spring PL/1 Compiler](http://www.iron-spring.com/)
+* [2025-05-26, 21:11:58](https://news.ycombinator.com/item?id=44101724) - [Sqawk: A fusion of SQL and Awk: Applying SQL to text-based data files](https://github.com/jgarzik/sqawk)
 * [2025-05-26, 21:07:31](https://news.ycombinator.com/item?id=44101691) - [Access Control Syntax](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/)
 * [2025-05-26, 20:59:06](https://news.ycombinator.com/item?id=44101619) - [CSS Painting API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API)
 * [2025-05-26, 20:27:59](https://news.ycombinator.com/item?id=44101349) - [Owls in Towels](https://owlsintowels.org/)
