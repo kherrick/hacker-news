@@ -20,7 +20,7 @@
 * [2025-05-26, 16:37:02](https://news.ycombinator.com/item?id=44099006) - [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
 * [2025-05-26, 16:05:21](https://news.ycombinator.com/item?id=44098706) - [Launch HN: Nomi (YC X25) – Copilot for Sales](https://news.ycombinator.com/item?id=44098706)
 * [2025-05-26, 16:05:18](https://news.ycombinator.com/item?id=44098705) - [Creating Debian packages from upstream Git](https://optimizedbyotto.com/post/debian-packaging-from-git/)
-* [2025-05-26, 15:53:30](https://news.ycombinator.com/item?id=44098579) - [Scheming a mise-en-abîme in BQN](https://panadestein.github.io/blog/posts/si.html#fnr.2)
+* [2025-05-26, 15:53:30](https://news.ycombinator.com/item?id=44098579) - [Scheming a mise-en-abîme in BQN](https://panadestein.github.io/blog/posts/si.html)
 * [2025-05-26, 15:37:12](https://news.ycombinator.com/item?id=44098442) - [WavePhoenix – open-source implementation of the Nintendo WaveBird protocol](https://github.com/loopj/wavephoenix)
 * [2025-05-26, 14:50:48](https://news.ycombinator.com/item?id=44097986) - [TeleMessage Explorer: a new open source research tool](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [A new class of materials that can passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
