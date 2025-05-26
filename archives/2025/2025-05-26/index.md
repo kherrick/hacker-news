@@ -6,6 +6,7 @@
 
 * [2025-05-26, 15:15:58](https://news.ycombinator.com/item?id=44098273) - [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; \"I Pray No One Dies\"](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
 * [2025-05-26, 14:59:59](https://news.ycombinator.com/item?id=44098091) - [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
+* [2025-05-26, 14:23:27](https://news.ycombinator.com/item?id=44097699) - [Ask HN: Building LLM apps? How are you handling user context?](https://news.ycombinator.com/item?id=44097699)
 * [2025-05-26, 14:16:11](https://news.ycombinator.com/item?id=44097637) - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
 * [2025-05-26, 14:06:22](https://news.ycombinator.com/item?id=44097539) - [\"Grok 3's Think mode identifies as Claude 3.5 Sonnet](https://www.websmithing.com/2025/05/24/grok-3-accidentally-reveals-its-actually-running-claude-3-5-sonnet/)
 * [2025-05-26, 13:46:11](https://news.ycombinator.com/item?id=44097387) - [Nick Clegg says asking artists for use permission would 'kill' AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
@@ -13,6 +14,7 @@
 * [2025-05-26, 13:35:20](https://news.ycombinator.com/item?id=44097311) - [As a programmer, get your math sorted](https://www.csprimer.in/series/dm)
 * [2025-05-26, 13:31:58](https://news.ycombinator.com/item?id=44097289) - [Where hyperscale hardware goes to retire: Ars visits a big ITAD site](https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [Engineers Discover New Class of Materials That Passively Harvest Water from Air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
+* [2025-05-26, 12:39:09](https://news.ycombinator.com/item?id=44096907) - [Emilua is an execution engine. As a runtime for your Lua programs](https://docs.emilua.org/api/0.11/index.html)
 * [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
 * [2025-05-26, 11:18:59](https://news.ycombinator.com/item?id=44096251) - [The double standard of webhook security and API security](https://www.speakeasy.com/blog/webhook-security)

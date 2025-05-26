@@ -2,9 +2,11 @@
 
 * [2025-05-26, 15:15:58](https://news.ycombinator.com/item?id=44098273) - [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; \"I Pray No One Dies\"](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
 * [2025-05-26, 14:59:59](https://news.ycombinator.com/item?id=44098091) - [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
+* [2025-05-26, 14:23:27](https://news.ycombinator.com/item?id=44097699) - [Ask HN: Building LLM apps? How are you handling user context?](https://news.ycombinator.com/item?id=44097699)
 * [2025-05-26, 14:16:11](https://news.ycombinator.com/item?id=44097637) - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
 * [2025-05-26, 13:31:58](https://news.ycombinator.com/item?id=44097289) - [Where hyperscale hardware goes to retire: Ars visits a big ITAD site](https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [Engineers discover new class of materials that passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
+* [2025-05-26, 12:39:09](https://news.ycombinator.com/item?id=44096907) - [Emilua is an execution engine. As a runtime for your Lua programs](https://docs.emilua.org/api/0.11/index.html)
 * [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
 * [2025-05-26, 11:18:59](https://news.ycombinator.com/item?id=44096251) - [The double standard of webhook security and API security](https://www.speakeasy.com/blog/webhook-security)
@@ -20,7 +22,6 @@
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
 * [2025-05-25, 17:41:11](https://news.ycombinator.com/item?id=44089424) - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 * [2025-05-25, 17:06:55](https://news.ycombinator.com/item?id=44089150) - [Open Source Society University – Path to a free self-taught education in CS](https://github.com/ossu/computer-science)
-* [2025-05-23, 18:12:36](https://news.ycombinator.com/item?id=44075093) - [A 10x Faster TypeScript with Anders Hejlsberg [video]](https://www.youtube.com/watch?v=UJfF3-13aFo)
 * [2025-05-23, 17:34:21](https://news.ycombinator.com/item?id=44074775) - [Big banks explore venturing into crypto world together with joint stablecoin](https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e)
 * [2025-05-23, 16:24:26](https://news.ycombinator.com/item?id=44074211) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
 * [2025-05-23, 07:12:33](https://news.ycombinator.com/item?id=44070626) - [Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo)
@@ -29,7 +30,6 @@
 * [2025-05-22, 14:42:03](https://news.ycombinator.com/item?id=44062576) - [Violating memory safety with Haskell's value restriction](https://welltypedwit.ch/posts/value-restriction)
 * [2025-05-22, 12:59:34](https://news.ycombinator.com/item?id=44061614) - [Trading with Claude, and writing your own MCP server](https://dangelov.com/blog/trading-with-claude/)
 * [2025-05-22, 11:44:25](https://news.ycombinator.com/item?id=44061072) - [Whippet GC notes on Guile, heuristics, and heap growth](https://wingolog.org/archives/2025/05/22/whippet-lab-notebook-guile-heuristics-and-heap-growth)
-* [2025-05-22, 08:31:36](https://news.ycombinator.com/item?id=44059994) - [Lisping at JPL (2002)](https://flownet.com/gat/jpl-lisp.html)
 
 ## [Archives](archives/index.md)
 
