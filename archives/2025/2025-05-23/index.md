@@ -31,6 +31,7 @@
 * [2025-05-23, 17:03:10](https://news.ycombinator.com/item?id=44074531) - [You Don't Need Re-Ranking: Understanding the Superlinked Vector Layer](https://superlinked.com/vectorhub/articles/why-do-not-need-re-ranking)
 * [2025-05-23, 16:58:39](https://news.ycombinator.com/item?id=44074487) - [Sesame Scheme: Unintended Consequences of Allergen Food Labeling](https://www.choicesmagazine.org/choices-magazine/submitted-articles/unintended-consequences-of-allergen-food-labeling)
 * [2025-05-23, 16:40:55](https://news.ycombinator.com/item?id=44074340) - [How to live on $432 a month in America](https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america)
+* [2025-05-23, 16:24:26](https://news.ycombinator.com/item?id=44074211) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
 * [2025-05-23, 16:13:43](https://news.ycombinator.com/item?id=44074111) - [Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens](https://arxiv.org/abs/2505.13775)
 * [2025-05-23, 16:02:02](https://news.ycombinator.com/item?id=44074017) - [Find Your People](https://foundersatwork.posthaven.com/find-your-people)
 * [2025-05-23, 15:52:13](https://news.ycombinator.com/item?id=44073933) - [So You Want to Look Rich?](https://marykateandsmashley.substack.com/p/so-you-want-to-look-rich)
