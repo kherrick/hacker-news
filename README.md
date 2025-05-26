@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-26, 15:15:58](https://news.ycombinator.com/item?id=44098273) - [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; \"I Pray No One Dies\"](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
+* [2025-05-26, 14:59:59](https://news.ycombinator.com/item?id=44098091) - [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
 * [2025-05-26, 14:16:11](https://news.ycombinator.com/item?id=44097637) - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
 * [2025-05-26, 13:31:58](https://news.ycombinator.com/item?id=44097289) - [Where hyperscale hardware goes to retire: Ars visits a big ITAD site](https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [Engineers discover new class of materials that passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
@@ -19,7 +20,6 @@
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
 * [2025-05-25, 17:41:11](https://news.ycombinator.com/item?id=44089424) - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 * [2025-05-25, 17:06:55](https://news.ycombinator.com/item?id=44089150) - [Open Source Society University – Path to a free self-taught education in CS](https://github.com/ossu/computer-science)
-* [2025-05-24, 01:05:47](https://news.ycombinator.com/item?id=44078019) - [DumPy: NumPy except it's OK if you're dum](https://dynomight.net/dumpy/)
 * [2025-05-23, 18:12:36](https://news.ycombinator.com/item?id=44075093) - [A 10x Faster TypeScript with Anders Hejlsberg [video]](https://www.youtube.com/watch?v=UJfF3-13aFo)
 * [2025-05-23, 17:34:21](https://news.ycombinator.com/item?id=44074775) - [Big banks explore venturing into crypto world together with joint stablecoin](https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e)
 * [2025-05-23, 16:24:26](https://news.ycombinator.com/item?id=44074211) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)

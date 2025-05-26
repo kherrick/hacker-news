@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
 * [2025-05-26, 15:15:58](https://news.ycombinator.com/item?id=44098273) - [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; \"I Pray No One Dies\"](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
+* [2025-05-26, 14:59:59](https://news.ycombinator.com/item?id=44098091) - [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
 * [2025-05-26, 14:16:11](https://news.ycombinator.com/item?id=44097637) - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
 * [2025-05-26, 14:06:22](https://news.ycombinator.com/item?id=44097539) - [\"Grok 3's Think mode identifies as Claude 3.5 Sonnet](https://www.websmithing.com/2025/05/24/grok-3-accidentally-reveals-its-actually-running-claude-3-5-sonnet/)
 * [2025-05-26, 13:46:11](https://news.ycombinator.com/item?id=44097387) - [Nick Clegg says asking artists for use permission would 'kill' AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
