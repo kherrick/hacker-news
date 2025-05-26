@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
 * [2025-05-26, 21:31:07](https://news.ycombinator.com/item?id=44101875) - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
+* [2025-05-26, 21:25:56](https://news.ycombinator.com/item?id=44101833) - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
+* [2025-05-26, 21:25:09](https://news.ycombinator.com/item?id=44101828) - [Get PC BIOS back on UEFI only system](https://github.com/FlyGoat/csmwrap)
 * [2025-05-26, 21:19:18](https://news.ycombinator.com/item?id=44101787) - [Iron Spring PL/1 Compiler](http://www.iron-spring.com/)
 * [2025-05-26, 21:07:31](https://news.ycombinator.com/item?id=44101691) - [Access Control Syntax](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/)
 * [2025-05-26, 20:59:06](https://news.ycombinator.com/item?id=44101619) - [CSS Painting API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API)
+* [2025-05-26, 20:27:59](https://news.ycombinator.com/item?id=44101349) - [Owls in Towels](https://owlsintowels.org/)
 * [2025-05-26, 19:56:02](https://news.ycombinator.com/item?id=44101072) - [The Difference Between Downloading and Streaming](https://danq.me/2025/05/26/downloading-vs-streaming/)
 * [2025-05-26, 19:20:19](https://news.ycombinator.com/item?id=44100677) - [Trying to teach in the age of the AI homework machine](https://www.solarshades.club/p/dispatch-from-the-trenches-of-the)
 * [2025-05-26, 19:07:32](https://news.ycombinator.com/item?id=44100552) - [Britain's police are restricting speech in worrying ways](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways)
