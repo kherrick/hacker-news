@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-26, 18:32:02](https://news.ycombinator.com/item?id=44100179) - [Lossless video compression using Bloom Filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
 * [2025-05-26, 18:20:18](https://news.ycombinator.com/item?id=44100082) - [Claude 4 and GitHub MCP will leak your private GitHub repositories](https://twitter.com/lbeurerkellner/status/1926991491735429514)
 * [2025-05-26, 18:14:09](https://news.ycombinator.com/item?id=44100035) - [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)
 * [2025-05-26, 17:15:19](https://news.ycombinator.com/item?id=44099407) - [TSMC Bets on Unorthodox Optical Tech](https://spectrum.ieee.org/microled-optical-chiplet)
+* [2025-05-26, 17:09:56](https://news.ycombinator.com/item?id=44099341) - [AI Makes Bad Managers](https://staysaasy.com/management/2025/05/26/AI-management.html)
 * [2025-05-26, 16:55:49](https://news.ycombinator.com/item?id=44099187) - [Show HN: PgDog – Shard Postgres without extensions](https://github.com/pgdogdev/pgdog)
 * [2025-05-26, 16:47:27](https://news.ycombinator.com/item?id=44099096) - [TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/)
 * [2025-05-26, 16:37:14](https://news.ycombinator.com/item?id=44099008) - [Data breach exposes 184M passwords for Google,Microsoft,Facebook](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/)
@@ -17,7 +19,6 @@
 * [2025-05-26, 14:50:48](https://news.ycombinator.com/item?id=44097986) - [TeleMessage Explorer: a new open-source research tool](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/)
 * [2025-05-26, 14:16:11](https://news.ycombinator.com/item?id=44097637) - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [A new class of materials that can passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
-* [2025-05-26, 12:39:09](https://news.ycombinator.com/item?id=44096907) - [Emilua is an execution engine. As a runtime for your Lua programs](https://docs.emilua.org/api/0.11/index.html)
 * [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
 * [2025-05-26, 11:18:59](https://news.ycombinator.com/item?id=44096251) - [The double standard of webhook security and API security](https://www.speakeasy.com/blog/webhook-security)
@@ -26,10 +27,9 @@
 * [2025-05-26, 08:47:49](https://news.ycombinator.com/item?id=44095360) - [The truth about soft plastic recycling points at supermarkets](https://www.everydayplastic.org/softplastic)
 * [2025-05-26, 08:16:20](https://news.ycombinator.com/item?id=44095176) - [Show HN: A minimalist web timer for focus and time tracking](https://iamlockedin.com/)
 * [2025-05-26, 02:16:20](https://news.ycombinator.com/item?id=44093334) - [Jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui)
+* [2025-05-25, 13:38:46](https://news.ycombinator.com/item?id=44087757) - [Mutmut – Python Mutation Tester](https://github.com/boxed/mutmut)
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
 * [2025-05-24, 01:21:55](https://news.ycombinator.com/item?id=44078080) - [Sims, BattleBots, Cellular Automata God and Go (2001)](https://www.gamestudies.org/0102/pearce/)
-* [2025-05-23, 17:34:21](https://news.ycombinator.com/item?id=44074775) - [Big banks explore venturing into crypto world together with joint stablecoin](https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e)
-* [2025-05-22, 14:42:03](https://news.ycombinator.com/item?id=44062576) - [Violating memory safety with Haskell's value restriction](https://welltypedwit.ch/posts/value-restriction)
 
 ## [Archives](archives/index.md)
 
