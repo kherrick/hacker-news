@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 16:37:02](https://news.ycombinator.com/item?id=44099006) - [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
+* [2025-05-26, 16:12:22](https://news.ycombinator.com/item?id=44098772) - [You share a house with Einstein, Hawking and Tao](https://www.faisalabid.com/p/you-share-a-house-with-einstein-hawking)
 * [2025-05-26, 16:05:21](https://news.ycombinator.com/item?id=44098706) - [Launch HN: Nomi (YC X25) – Cursor for Sales](https://news.ycombinator.com/item?id=44098706)
 * [2025-05-26, 15:56:15](https://news.ycombinator.com/item?id=44098605) - [I think it's time to give Nix a chance](https://maych.in/blog/its-time-to-give-nix-a-chance/)
 * [2025-05-26, 15:53:30](https://news.ycombinator.com/item?id=44098579) - [Scheming a mise-en-abîme in BQN](https://panadestein.github.io/blog/posts/si.html#fnr.2)
 * [2025-05-26, 15:47:27](https://news.ycombinator.com/item?id=44098528) - [Reflections on Neuralese](https://www.greaterwrong.com/posts/qehggwKRMEyWqvjZG/reflections-on-neuralese)
+* [2025-05-26, 15:37:12](https://news.ycombinator.com/item?id=44098442) - [WavePhoenix – open-source implementation of the Nintendo WaveBird protocol](https://github.com/loopj/wavephoenix)
 * [2025-05-26, 15:23:22](https://news.ycombinator.com/item?id=44098338) - [Garmin watches reveal your personal data, and what you can do](https://www.pentestpartners.com/security-blog/how-garmin-watches-reveal-your-personal-data-and-what-you-can-do/)
 * [2025-05-26, 15:15:58](https://news.ycombinator.com/item?id=44098273) - [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; \"I Pray No One Dies\"](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
 * [2025-05-26, 14:59:59](https://news.ycombinator.com/item?id=44098091) - [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
