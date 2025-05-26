@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:18:59](https://news.ycombinator.com/item?id=44096251) - [The double standard of webhook security and API security](https://www.speakeasy.com/blog/webhook-security)
 * [2025-05-26, 09:31:51](https://news.ycombinator.com/item?id=44095608) - [Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer)
 * [2025-05-26, 08:47:49](https://news.ycombinator.com/item?id=44095360) - [The Hard Truth About Soft Plastic](https://www.everydayplastic.org/softplastic)
