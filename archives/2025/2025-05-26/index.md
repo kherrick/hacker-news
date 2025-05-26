@@ -7,6 +7,7 @@
 * [2025-05-26, 14:16:11](https://news.ycombinator.com/item?id=44097637) - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
 * [2025-05-26, 13:40:47](https://news.ycombinator.com/item?id=44097350) - [$64B of data center projects blocked or delayed amid local opposition](https://www.datacenterwatch.org/report)
 * [2025-05-26, 13:35:20](https://news.ycombinator.com/item?id=44097311) - [As a programmer, get your math sorted](https://www.csprimer.in/series/dm)
+* [2025-05-26, 13:31:58](https://news.ycombinator.com/item?id=44097289) - [Where hyperscale hardware goes to retire: Ars visits a big ITAD site](https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [Engineers Discover New Class of Materials That Passively Harvest Water from Air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
 * [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
