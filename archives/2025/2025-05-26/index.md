@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 03:22:14](https://news.ycombinator.com/item?id=44093675) - [Claude Code does our releases now](https://www.aluxian.com/claude-code-does-our-releases-now/)
 * [2025-05-26, 02:16:20](https://news.ycombinator.com/item?id=44093334) - [jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui)
