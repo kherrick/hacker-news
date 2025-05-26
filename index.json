@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-26, 15:47:27",
+      "https://news.ycombinator.com/item?id=44098528"
+    ],
+    [
+      "Reflections on Neuralese",
+      "https://www.greaterwrong.com/posts/qehggwKRMEyWqvjZG/reflections-on-neuralese"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 15:15:58",
       "https://news.ycombinator.com/item?id=44098273"
     ],
@@ -37,6 +47,16 @@
     [
       "Demoting i686-PC-windows-gnu to Tier 2",
       "https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 14:00:50",
+      "https://news.ycombinator.com/item?id=44097490"
+    ],
+    [
+      "Google Is Burying the Web Alive",
+      "https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-05-26, 08:17:53",
-      "https://news.ycombinator.com/item?id=44095189"
-    ],
-    [
-      "Ask HN: Anyone struggling to get value out of coding LLMs?",
-      "https://news.ycombinator.com/item?id=44095189"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 08:16:20",
       "https://news.ycombinator.com/item?id=44095176"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
+      "2025-05-25, 10:24:35",
+      "https://news.ycombinator.com/item?id=44086830"
+    ],
+    [
+      "Mathpad: A mathematical keypad for students and professionals",
+      "https://github.com/Summa-Cogni/Mathpad"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 17:34:21",
       "https://news.ycombinator.com/item?id=44074775"
     ],
     [
       "Big banks explore venturing into crypto world together with joint stablecoin",
       "https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 16:24:26",
-      "https://news.ycombinator.com/item?id=44074211"
-    ],
-    [
-      "'Strange metals' point to a whole new way to understand electricity",
-      "https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Trading with Claude, and writing your own MCP server",
       "https://dangelov.com/blog/trading-with-claude/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 11:44:25",
-      "https://news.ycombinator.com/item?id=44061072"
-    ],
-    [
-      "Whippet GC notes on Guile, heuristics, and heap growth",
-      "https://wingolog.org/archives/2025/05/22/whippet-lab-notebook-guile-heuristics-and-heap-growth"
     ]
   ]
 ]
