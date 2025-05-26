@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-26, 18:20:18",
+      "https://news.ycombinator.com/item?id=44100082"
+    ],
+    [
+      "Claude 4 and GitHub MCP will leak your private GitHub repositories",
+      "https://twitter.com/lbeurerkellner/status/1926991491735429514"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 18:14:09",
+      "https://news.ycombinator.com/item?id=44100035"
+    ],
+    [
+      "Duolingo CEO tries to walk back AI-first comments, fails",
+      "https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 17:15:19",
       "https://news.ycombinator.com/item?id=44099407"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-05-26, 16:12:22",
-      "https://news.ycombinator.com/item?id=44098772"
-    ],
-    [
-      "You share a house with Einstein, Hawking and Tao",
-      "https://www.faisalabid.com/p/you-share-a-house-with-einstein-hawking"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 16:05:21",
       "https://news.ycombinator.com/item?id=44098706"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2025-05-26, 15:56:15",
+      "https://news.ycombinator.com/item?id=44098605"
+    ],
+    [
+      "I think it's time to give Nix a chance",
+      "https://maych.in/blog/its-time-to-give-nix-a-chance/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 15:53:30",
       "https://news.ycombinator.com/item?id=44098579"
     ],
@@ -97,6 +117,16 @@
     [
       "WavePhoenix – open-source implementation of the Nintendo WaveBird protocol",
       "https://github.com/loopj/wavephoenix"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 15:15:58",
+      "https://news.ycombinator.com/item?id=44098273"
+    ],
+    [
+      "Cloudflare CEO: Football piracy blocks will claim lives",
+      "https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/"
     ]
   ],
   [
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2025-05-26, 07:41:24",
-      "https://news.ycombinator.com/item?id=44094980"
-    ],
-    [
-      "GitHub issues is almost the best notebook in the world",
-      "https://simonwillison.net/2025/May/26/notes/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 02:16:20",
       "https://news.ycombinator.com/item?id=44093334"
     ],
     [
       "Jjui – A Nice TUI for Jujutsu",
       "https://github.com/idursun/jjui"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 19:36:58",
-      "https://news.ycombinator.com/item?id=44090387"
-    ],
-    [
-      "Ask HN: What are you working on? (May 2025)",
-      "https://news.ycombinator.com/item?id=44090387"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Big banks explore venturing into crypto world together with joint stablecoin",
       "https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 14:42:03",
-      "https://news.ycombinator.com/item?id=44062576"
-    ],
-    [
-      "Violating memory safety with Haskell's value restriction",
-      "https://welltypedwit.ch/posts/value-restriction"
     ]
   ]
 ]
