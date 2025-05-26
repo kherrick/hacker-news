@@ -31,6 +31,7 @@
 * [2025-05-23, 16:40:55](https://news.ycombinator.com/item?id=44074340) - [How to live on $432 a month in America](https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america)
 * [2025-05-23, 16:13:43](https://news.ycombinator.com/item?id=44074111) - [Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens](https://arxiv.org/abs/2505.13775)
 * [2025-05-23, 16:02:02](https://news.ycombinator.com/item?id=44074017) - [Find Your People](https://foundersatwork.posthaven.com/find-your-people)
+* [2025-05-23, 15:52:13](https://news.ycombinator.com/item?id=44073933) - [So You Want to Look Rich?](https://marykateandsmashley.substack.com/p/so-you-want-to-look-rich)
 * [2025-05-23, 15:43:54](https://news.ycombinator.com/item?id=44073870) - [Slime (2021)](https://granta.com/slime/)
 * [2025-05-23, 15:43:16](https://news.ycombinator.com/item?id=44073867) - [The metre originated in the French Revolution](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024)
 * [2025-05-23, 15:33:00](https://news.ycombinator.com/item?id=44073785) - [MCP is the coming of Web 2.0 2.0](https://www.anildash.com//2025/05/20/mcp-web20-20/)
