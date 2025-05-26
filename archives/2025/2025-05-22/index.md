@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
 * [2025-05-22, 23:51:20](https://news.ycombinator.com/item?id=44068400) - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
+* [2025-05-22, 23:25:37](https://news.ycombinator.com/item?id=44068249) - [Buying a Robot Cat and Falling into the Weird World of Animal-Robot Research](https://thereader.mitpress.mit.edu/the-weird-world-of-animal-robot-research/)
 * [2025-05-22, 23:20:48](https://news.ycombinator.com/item?id=44068210) - [Management = Bullshit (LLM Edition)](http://funcall.blogspot.com/2025/05/management-bullshit.html)
 * [2025-05-22, 23:19:36](https://news.ycombinator.com/item?id=44068204) - [Sketchy Calendar](https://www.inkandswitch.com/ink/notes/sketchy-calendar/)
 * [2025-05-22, 23:18:22](https://news.ycombinator.com/item?id=44068197) - [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
@@ -60,6 +61,7 @@
 * [2025-05-22, 12:57:55](https://news.ycombinator.com/item?id=44061604) - [Free-Threaded Python Library Compatibility Checker](https://ft-checker.com/)
 * [2025-05-22, 12:31:48](https://news.ycombinator.com/item?id=44061414) - [Show HN: Pi Co-pilot – Evaluation of AI apps made easy](https://withpi.ai/)
 * [2025-05-22, 11:59:03](https://news.ycombinator.com/item?id=44061160) - [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
+* [2025-05-22, 11:44:25](https://news.ycombinator.com/item?id=44061072) - [Whippet GC notes on Guile, heuristics, and heap growth](https://wingolog.org/archives/2025/05/22/whippet-lab-notebook-guile-heuristics-and-heap-growth)
 * [2025-05-22, 11:39:12](https://news.ycombinator.com/item?id=44061028) - [Show HN: Embedo – Word Equation Puzzle Game](https://news.ycombinator.com/item?id=44061028)
 * [2025-05-22, 11:24:27](https://news.ycombinator.com/item?id=44060943) - [Robert Musil Forgotten Plays Inspired His Greatest Work of Fiction](https://lithub.com/the-austrian-writer-whose-forgotten-plays-inspired-his-greatest-work-of-fiction/)
 * [2025-05-22, 10:57:53](https://news.ycombinator.com/item?id=44060800) - [Machinist and Machine](https://punkx.org/jackdoe/misery.html)
