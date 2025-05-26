@@ -8,6 +8,7 @@
 * [2025-05-26, 08:47:49](https://news.ycombinator.com/item?id=44095360) - [The Hard Truth About Soft Plastic](https://www.everydayplastic.org/softplastic)
 * [2025-05-26, 08:27:41](https://news.ycombinator.com/item?id=44095250) - [Lieferando.de (Takeaway) has captured 5.7% of restaurant related domain names](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/)
 * [2025-05-26, 08:17:53](https://news.ycombinator.com/item?id=44095189) - [Ask HN: Anyone struggling to get value out of coding LLMs?](https://news.ycombinator.com/item?id=44095189)
+* [2025-05-26, 08:16:20](https://news.ycombinator.com/item?id=44095176) - [Show HN: A minimalist web timer for focus and time tracking](https://iamlockedin.com/)
 * [2025-05-26, 07:41:24](https://news.ycombinator.com/item?id=44094980) - [GitHub issues is almost the best notebook in the world](https://simonwillison.net/2025/May/26/notes/)
 * [2025-05-26, 05:51:55](https://news.ycombinator.com/item?id=44094362) - [Bagel: The Open-Source Unified Multimodal Model](https://bagel-ai.org/)
 * [2025-05-26, 05:34:38](https://news.ycombinator.com/item?id=44094270) - [Google Shared My Phone Number](https://danq.me/2025/05/21/google-shared-my-phone-number/)
