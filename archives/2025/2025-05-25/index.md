@@ -46,6 +46,7 @@
 * [2025-05-25, 11:21:22](https://news.ycombinator.com/item?id=44087049) - [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
 * [2025-05-25, 10:54:10](https://news.ycombinator.com/item?id=44086935) - [Having your compile-time cake and eating it too](https://0x44.xyz/blog/comptime-1)
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
+* [2025-05-25, 10:14:30](https://news.ycombinator.com/item?id=44086803) - [Changelog: Lazy trees (faster Nix builds)](https://determinate.systems/posts/changelog-determinate-nix-352/)
 * [2025-05-25, 09:01:34](https://news.ycombinator.com/item?id=44086530) - [Is TfL losing the battle against heat on the Victoria line?](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line)
 * [2025-05-25, 07:41:07](https://news.ycombinator.com/item?id=44086235) - [You probably don't need a dependency injection framework](http://rednafi.com/go/di_frameworks_bleh/)
 * [2025-05-25, 07:37:27](https://news.ycombinator.com/item?id=44086219) - [The length of file names in early Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts)
