@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 22:54:53](https://news.ycombinator.com/item?id=44102378) - [Most leading chatbots routinely exaggerate science findings](https://www.uu.nl/en/news/most-leading-chatbots-routinely-exaggerate-science-findings)
+* [2025-05-26, 22:50:15](https://news.ycombinator.com/item?id=44102366) - [Show HN: AI for Building Design, Planning, and Permitting](https://www.spacial.io/)
 * [2025-05-26, 22:19:58](https://news.ycombinator.com/item?id=44102201) - [NYC MTA scavenges for parts on eBay to maintain subway system](https://www.wsj.com/opinion/can-ebay-bargains-keep-new-york-citys-subways-running-mta-infrastructure-substations-3859fb5b)
 * [2025-05-26, 21:54:01](https://news.ycombinator.com/item?id=44102034) - [My review of Power Failure: the downfall of America's greatest company](https://www.gwintrob.com/power-failure-review/)
 * [2025-05-26, 21:31:07](https://news.ycombinator.com/item?id=44101875) - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)

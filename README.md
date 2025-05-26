@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-26, 22:19:58](https://news.ycombinator.com/item?id=44102201) - [NYC MTA scavenges for parts on eBay to maintain subway system](https://www.wsj.com/opinion/can-ebay-bargains-keep-new-york-citys-subways-running-mta-infrastructure-substations-3859fb5b)
-* [2025-05-26, 21:54:01](https://news.ycombinator.com/item?id=44102034) - [My review of Power Failure: the downfall of America's greatest company](https://www.gwintrob.com/power-failure-review/)
+* [2025-05-26, 22:54:53](https://news.ycombinator.com/item?id=44102378) - [Most leading chatbots routinely exaggerate science findings](https://www.uu.nl/en/news/most-leading-chatbots-routinely-exaggerate-science-findings)
+* [2025-05-26, 22:50:15](https://news.ycombinator.com/item?id=44102366) - [Show HN: AI for Building Design, Planning, and Permitting](https://www.spacial.io/)
+* [2025-05-26, 21:54:01](https://news.ycombinator.com/item?id=44102034) - [Power Failure](https://www.gwintrob.com/power-failure-review/)
 * [2025-05-26, 21:31:07](https://news.ycombinator.com/item?id=44101875) - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
 * [2025-05-26, 21:25:56](https://news.ycombinator.com/item?id=44101833) - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
 * [2025-05-26, 21:25:09](https://news.ycombinator.com/item?id=44101828) - [Get PC BIOS back on UEFI only system](https://github.com/FlyGoat/csmwrap)
@@ -14,7 +15,6 @@
 * [2025-05-26, 18:32:02](https://news.ycombinator.com/item?id=44100179) - [Lossless video compression using Bloom filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
 * [2025-05-26, 18:28:43](https://news.ycombinator.com/item?id=44100148) - [CSS Minecraft](https://benjaminaster.com/css-minecraft/)
 * [2025-05-26, 18:20:18](https://news.ycombinator.com/item?id=44100082) - [Claude 4 and GitHub MCP will leak your private GitHub repositories](https://twitter.com/lbeurerkellner/status/1926991491735429514)
-* [2025-05-26, 18:14:09](https://news.ycombinator.com/item?id=44100035) - [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)
 * [2025-05-26, 17:15:19](https://news.ycombinator.com/item?id=44099407) - [TSMC bets on unorthodox optical tech](https://spectrum.ieee.org/microled-optical-chiplet)
 * [2025-05-26, 16:55:49](https://news.ycombinator.com/item?id=44099187) - [Show HN: PgDog – Shard Postgres without extensions](https://github.com/pgdogdev/pgdog)
 * [2025-05-26, 16:37:02](https://news.ycombinator.com/item?id=44099006) - [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
@@ -29,7 +29,7 @@
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
 * [2025-05-25, 10:14:30](https://news.ycombinator.com/item?id=44086803) - [Changelog: Lazy trees (faster Nix builds)](https://determinate.systems/posts/changelog-determinate-nix-352/)
 * [2025-05-24, 23:24:56](https://news.ycombinator.com/item?id=44084383) - [Improving performance of original dav1d video decoder](https://code.videolan.org/videolan/dav1d/-/merge_requests/1788)
-* [2025-05-24, 01:21:55](https://news.ycombinator.com/item?id=44078080) - [Sims, BattleBots, Cellular Automata God and Go (2001)](https://www.gamestudies.org/0102/pearce/)
+* [2025-05-23, 23:27:47](https://news.ycombinator.com/item?id=44077531) - [Ultra-low power, miniature electrophysiological electronics](https://starfishneuroscience.com/blog/ultra-low-power-miniature-electrophysiological-electronics/)
 
 ## [Archives](archives/index.md)
 

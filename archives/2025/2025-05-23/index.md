@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
 * [2025-05-23, 23:28:11](https://news.ycombinator.com/item?id=44077533) - [Root for Your Friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
+* [2025-05-23, 23:27:47](https://news.ycombinator.com/item?id=44077531) - [Ultra-low power, miniature electrophysiological electronics](https://starfishneuroscience.com/blog/ultra-low-power-miniature-electrophysiological-electronics/)
 * [2025-05-23, 22:55:48](https://news.ycombinator.com/item?id=44077330) - [Ask HN: Is anyone else burnt out on AI?](https://news.ycombinator.com/item?id=44077330)
 * [2025-05-23, 21:29:04](https://news.ycombinator.com/item?id=44076790) - [The Source of \"Water\" (2020)](https://jamesgill.net/waterword/)
 * [2025-05-23, 20:51:29](https://news.ycombinator.com/item?id=44076501) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
