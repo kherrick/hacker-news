@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
 * [2025-05-26, 16:55:49](https://news.ycombinator.com/item?id=44099187) - [Show HN: PgDog – Shard Postgres without extensions](https://github.com/pgdogdev/pgdog)
+* [2025-05-26, 16:47:27](https://news.ycombinator.com/item?id=44099096) - [TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/)
 * [2025-05-26, 16:37:14](https://news.ycombinator.com/item?id=44099008) - [Data breach exposes 184M passwords for Google,Microsoft,Facebook](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/)
 * [2025-05-26, 16:37:02](https://news.ycombinator.com/item?id=44099006) - [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
 * [2025-05-26, 16:12:22](https://news.ycombinator.com/item?id=44098772) - [You share a house with Einstein, Hawking and Tao](https://www.faisalabid.com/p/you-share-a-house-with-einstein-hawking)

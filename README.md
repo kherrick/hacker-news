@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-26, 16:55:49](https://news.ycombinator.com/item?id=44099187) - [Show HN: PgDog – Shard Postgres without extensions](https://github.com/pgdogdev/pgdog)
+* [2025-05-26, 16:47:27](https://news.ycombinator.com/item?id=44099096) - [TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/)
 * [2025-05-26, 16:37:14](https://news.ycombinator.com/item?id=44099008) - [Data breach exposes 184M passwords for Google,Microsoft,Facebook](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/)
 * [2025-05-26, 16:37:02](https://news.ycombinator.com/item?id=44099006) - [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
 * [2025-05-26, 16:12:22](https://news.ycombinator.com/item?id=44098772) - [You share a house with Einstein, Hawking and Tao](https://www.faisalabid.com/p/you-share-a-house-with-einstein-hawking)
@@ -22,7 +23,6 @@
 * [2025-05-26, 08:47:49](https://news.ycombinator.com/item?id=44095360) - [The truth about soft plastic recycling points at supermarkets](https://www.everydayplastic.org/softplastic)
 * [2025-05-26, 08:16:20](https://news.ycombinator.com/item?id=44095176) - [Show HN: A minimalist web timer for focus and time tracking](https://iamlockedin.com/)
 * [2025-05-26, 07:41:24](https://news.ycombinator.com/item?id=44094980) - [GitHub issues is almost the best notebook in the world](https://simonwillison.net/2025/May/26/notes/)
-* [2025-05-26, 05:51:55](https://news.ycombinator.com/item?id=44094362) - [Bagel: Open-source unified multimodal model](https://bagel-ai.org/)
 * [2025-05-26, 02:16:20](https://news.ycombinator.com/item?id=44093334) - [Jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui)
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
