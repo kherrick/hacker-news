@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-05-26, 21:25:56",
+      "https://news.ycombinator.com/item?id=44101833"
+    ],
+    [
+      "Highlights from the Claude 4 system prompt",
+      "https://simonwillison.net/2025/May/25/claude-4-system-prompt/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 21:25:09",
+      "https://news.ycombinator.com/item?id=44101828"
+    ],
+    [
+      "Get PC BIOS back on UEFI only system",
+      "https://github.com/FlyGoat/csmwrap"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 21:19:18",
       "https://news.ycombinator.com/item?id=44101787"
     ],
@@ -41,22 +61,22 @@
   ],
   [
     [
+      "2025-05-26, 20:27:59",
+      "https://news.ycombinator.com/item?id=44101349"
+    ],
+    [
+      "Owls in Towels",
+      "https://owlsintowels.org/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 19:56:02",
       "https://news.ycombinator.com/item?id=44101072"
     ],
     [
       "The Difference Between Downloading and Streaming",
       "https://danq.me/2025/05/26/downloading-vs-streaming/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 19:20:19",
-      "https://news.ycombinator.com/item?id=44100677"
-    ],
-    [
-      "Trying to teach in the age of the AI homework machine",
-      "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-05-26, 15:15:58",
-      "https://news.ycombinator.com/item?id=44098273"
-    ],
-    [
-      "Cloudflare CEO: Football piracy blocks will claim lives",
-      "https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 14:59:59",
       "https://news.ycombinator.com/item?id=44098091"
     ],
@@ -245,18 +255,8 @@
       "https://news.ycombinator.com/item?id=44095608"
     ],
     [
-      "Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam",
+      "Venta AI (YC S23) is hiring a full stack engineer in Amsterdam",
       "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 13:38:46",
-      "https://news.ycombinator.com/item?id=44087757"
-    ],
-    [
-      "Mutmut – Python Mutation Tester",
-      "https://github.com/boxed/mutmut"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-05-24, 01:21:55",
-      "https://news.ycombinator.com/item?id=44078080"
+      "2025-05-24, 23:24:56",
+      "https://news.ycombinator.com/item?id=44084383"
     ],
     [
-      "Sims, BattleBots, Cellular Automata God and Go (2001)",
-      "https://www.gamestudies.org/0102/pearce/"
+      "Improving performance of original dav1d video decoder",
+      "https://code.videolan.org/videolan/dav1d/-/merge_requests/1788"
     ]
   ]
 ]
