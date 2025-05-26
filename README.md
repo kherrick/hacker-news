@@ -2,7 +2,6 @@
 
 * [2025-05-26, 05:51:55](https://news.ycombinator.com/item?id=44094362) - [Bagel: The Open-Source Unified Multimodal Model](https://bagel-ai.org/)
 * [2025-05-26, 05:34:38](https://news.ycombinator.com/item?id=44094270) - [Google Shared My Phone Number](https://danq.me/2025/05/21/google-shared-my-phone-number/)
-* [2025-05-26, 03:22:14](https://news.ycombinator.com/item?id=44093675) - [Claude Code does our releases now](https://www.aluxian.com/claude-code-does-our-releases-now/)
 * [2025-05-26, 02:16:20](https://news.ycombinator.com/item?id=44093334) - [jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui)
 * [2025-05-25, 23:05:36](https://news.ycombinator.com/item?id=44092102) - [Ten years of JSON Web Token and preparing for the future](https://self-issued.info/?p=2708)
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
@@ -14,6 +13,7 @@
 * [2025-05-25, 16:06:12](https://news.ycombinator.com/item?id=44088777) - [Show HN: DaedalOS – Desktop Environment in the Browser](https://github.com/DustinBrett/daedalOS)
 * [2025-05-25, 15:52:48](https://news.ycombinator.com/item?id=44088682) - [Writing your own CUPS printer driver in 100 lines of Python (2018)](https://behind.pretix.eu/2018/01/20/cups-driver/)
 * [2025-05-25, 14:45:47](https://news.ycombinator.com/item?id=44088216) - [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
+* [2025-05-25, 14:02:19](https://news.ycombinator.com/item?id=44087916) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
 * [2025-05-25, 13:51:55](https://news.ycombinator.com/item?id=44087844) - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
 * [2025-05-25, 11:48:30](https://news.ycombinator.com/item?id=44087150) - [At Amazon, some coders say their jobs have begun to resemble warehouse work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
 * [2025-05-25, 09:01:34](https://news.ycombinator.com/item?id=44086530) - [Is TfL losing the battle against heat on the Victoria line?](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line)
