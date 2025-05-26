@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-26, 14:23:27",
+      "https://news.ycombinator.com/item?id=44097699"
+    ],
+    [
+      "Ask HN: Building LLM apps? How are you handling user context?",
+      "https://news.ycombinator.com/item?id=44097699"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 14:16:11",
       "https://news.ycombinator.com/item?id=44097637"
     ],
@@ -47,6 +57,16 @@
     [
       "Engineers discover new class of materials that passively harvest water from air",
       "https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 12:39:09",
+      "https://news.ycombinator.com/item?id=44096907"
+    ],
+    [
+      "Emilua is an execution engine. As a runtime for your Lua programs",
+      "https://docs.emilua.org/api/0.11/index.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-23, 18:12:36",
-      "https://news.ycombinator.com/item?id=44075093"
-    ],
-    [
-      "A 10x Faster TypeScript with Anders Hejlsberg [video]",
-      "https://www.youtube.com/watch?v=UJfF3-13aFo"
-    ]
-  ],
-  [
-    [
       "2025-05-23, 17:34:21",
       "https://news.ycombinator.com/item?id=44074775"
     ],
@@ -287,16 +297,6 @@
     [
       "Whippet GC notes on Guile, heuristics, and heap growth",
       "https://wingolog.org/archives/2025/05/22/whippet-lab-notebook-guile-heuristics-and-heap-growth"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 08:31:36",
-      "https://news.ycombinator.com/item?id=44059994"
-    ],
-    [
-      "Lisping at JPL (2002)",
-      "https://flownet.com/gat/jpl-lisp.html"
     ]
   ]
 ]
