@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-26, 14:16:11",
+      "https://news.ycombinator.com/item?id=44097637"
+    ],
+    [
+      "Demoting i686-PC-windows-gnu to Tier 2",
+      "https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 13:40:47",
+      "https://news.ycombinator.com/item?id=44097350"
+    ],
+    [
+      "$64B of data center projects blocked or delayed amid local opposition",
+      "https://www.datacenterwatch.org/report"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 13:35:20",
+      "https://news.ycombinator.com/item?id=44097311"
+    ],
+    [
+      "As a programmer, get your math sorted",
+      "https://www.csprimer.in/series/dm"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 13:14:29",
       "https://news.ycombinator.com/item?id=44097144"
     ],
@@ -57,6 +87,16 @@
     [
       "Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam",
       "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 09:21:37",
+      "https://news.ycombinator.com/item?id=44095549"
+    ],
+    [
+      "TorrentFreak is wrong about Google DNS notification",
+      "https://write.as/bortzmeyer/no-torrentfreak-what-you-write-about-google-public-dns-is-not-true"
     ]
   ],
   [
@@ -151,56 +191,6 @@
   ],
   [
     [
-      "2025-05-25, 15:52:48",
-      "https://news.ycombinator.com/item?id=44088682"
-    ],
-    [
-      "Writing your own CUPS printer driver in 100 lines of Python (2018)",
-      "https://behind.pretix.eu/2018/01/20/cups-driver/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 14:45:47",
-      "https://news.ycombinator.com/item?id=44088216"
-    ],
-    [
-      "Lottie is an open format for animated vector graphics",
-      "https://lottie.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 13:51:55",
-      "https://news.ycombinator.com/item?id=44087844"
-    ],
-    [
-      "Design Pressure: The Invisible Hand That Shapes Your Code",
-      "https://hynek.me/talks/design-pressure/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 11:48:30",
-      "https://news.ycombinator.com/item?id=44087150"
-    ],
-    [
-      "At Amazon, some coders say their jobs have begun to resemble warehouse work",
-      "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 00:37:08",
-      "https://news.ycombinator.com/item?id=44084677"
-    ],
-    [
-      "CAPTCHAs are over (in ticketing)",
-      "https://behind.pretix.eu/2025/05/23/captchas-are-over/"
-    ]
-  ],
-  [
-    [
       "2025-05-23, 18:12:36",
       "https://news.ycombinator.com/item?id=44075093"
     ],
@@ -247,6 +237,16 @@
     [
       "How Does Claude 4 Think? – Sholto Douglas and Trenton Bricken",
       "https://www.dwarkesh.com/p/sholto-trenton-2"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 01:31:40",
+      "https://news.ycombinator.com/item?id=44068974"
+    ],
+    [
+      "New method for creating large 3D models of urban areas is faster and cheaper",
+      "https://techxplore.com/news/2025-05-action-movies-urban-method-large.html"
     ]
   ],
   [
