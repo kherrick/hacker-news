@@ -24,6 +24,7 @@
 * [2025-05-23, 18:30:05](https://news.ycombinator.com/item?id=44075235) - [Comparison of Spreadsheet Software](https://grid.is/blog/comparison-of-spreadsheet-software)
 * [2025-05-23, 18:14:29](https://news.ycombinator.com/item?id=44075105) - [Attention Wasn't All We Needed](https://www.stephendiehl.com/posts/post_transformers/)
 * [2025-05-23, 17:52:45](https://news.ycombinator.com/item?id=44074939) - [Show HN: I made an infinite gallery of AI-generated 3D skeuomorphic icons](https://www.thiings.co/things)
+* [2025-05-23, 17:34:21](https://news.ycombinator.com/item?id=44074775) - [Big Banks Explore Venturing into Crypto World Together with Joint Stablecoin](https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e)
 * [2025-05-23, 17:22:20](https://news.ycombinator.com/item?id=44074684) - [Alberta separatism push roils Canada](https://www.nytimes.com/2025/05/22/world/canada/alberta-separatism-referendum.html)
 * [2025-05-23, 17:21:22](https://news.ycombinator.com/item?id=44074672) - [Why is file storage and CDN delivery still so fucking hard even in 2025?](https://filezen.dev)
 * [2025-05-23, 17:20:40](https://news.ycombinator.com/item?id=44074668) - [LLM Judges Are Unreliable](https://www.cip.org/blog/llm-judges-are-unreliable)
