@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-26, 21:19:18",
+      "https://news.ycombinator.com/item?id=44101787"
+    ],
+    [
+      "Iron Spring PL/1 Compiler",
+      "http://www.iron-spring.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 21:07:31",
+      "https://news.ycombinator.com/item?id=44101691"
+    ],
+    [
+      "Access Control Syntax",
+      "https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 20:59:06",
       "https://news.ycombinator.com/item?id=44101619"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-05-26, 10:15:49",
-      "https://news.ycombinator.com/item?id=44095866"
-    ],
-    [
-      "Sleep apnea pill shows striking success in large clinical trial",
-      "https://www.science.org/content/article/sleep-apnea-pill-shows-striking-success-large-clinical-trial"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 09:31:51",
       "https://news.ycombinator.com/item?id=44095608"
     ],
@@ -287,16 +297,6 @@
     [
       "Changelog: Lazy trees (faster Nix builds)",
       "https://determinate.systems/posts/changelog-determinate-nix-352/"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 01:21:55",
-      "https://news.ycombinator.com/item?id=44078080"
-    ],
-    [
-      "Sims, BattleBots, Cellular Automata God and Go (2001)",
-      "https://www.gamestudies.org/0102/pearce/"
     ]
   ]
 ]
