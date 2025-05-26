@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-26, 17:15:19](https://news.ycombinator.com/item?id=44099407) - [TSMC Bets on Unorthodox Optical Tech](https://spectrum.ieee.org/microled-optical-chiplet)
 * [2025-05-26, 16:55:49](https://news.ycombinator.com/item?id=44099187) - [Show HN: PgDog – Shard Postgres without extensions](https://github.com/pgdogdev/pgdog)
 * [2025-05-26, 16:47:27](https://news.ycombinator.com/item?id=44099096) - [TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/)
 * [2025-05-26, 16:37:14](https://news.ycombinator.com/item?id=44099008) - [Data breach exposes 184M passwords for Google,Microsoft,Facebook](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/)
@@ -26,9 +27,8 @@
 * [2025-05-26, 02:16:20](https://news.ycombinator.com/item?id=44093334) - [Jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui)
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
+* [2025-05-24, 01:21:55](https://news.ycombinator.com/item?id=44078080) - [Sims, BattleBots, Cellular Automata God and Go (2001)](https://www.gamestudies.org/0102/pearce/)
 * [2025-05-23, 17:34:21](https://news.ycombinator.com/item?id=44074775) - [Big banks explore venturing into crypto world together with joint stablecoin](https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e)
-* [2025-05-23, 11:46:40](https://news.ycombinator.com/item?id=44071960) - [FizzBuzz Through Monoids](https://entropicthoughts.com/fizzbuzz-through-monoids)
-* [2025-05-23, 07:12:33](https://news.ycombinator.com/item?id=44070626) - [Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo)
 * [2025-05-22, 14:42:03](https://news.ycombinator.com/item?id=44062576) - [Violating memory safety with Haskell's value restriction](https://welltypedwit.ch/posts/value-restriction)
 
 ## [Archives](archives/index.md)

@@ -62,6 +62,7 @@
 * [2025-05-24, 02:30:08](https://news.ycombinator.com/item?id=44078314) - [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
 * [2025-05-24, 01:26:23](https://news.ycombinator.com/item?id=44078100) - [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
 * [2025-05-24, 01:24:57](https://news.ycombinator.com/item?id=44078094) - [Stuff I Learned at Carta](https://lethain.com/stuff-learned-at-carta/)
+* [2025-05-24, 01:21:55](https://news.ycombinator.com/item?id=44078080) - [Sims, BattleBots, Cellular Automata God and Go (2001)](https://www.gamestudies.org/0102/pearce/)
 * [2025-05-24, 01:07:08](https://news.ycombinator.com/item?id=44078024) - [Show HN: HNRelevant – Add a \"related\" section to Hacker News](https://github.com/imdj/HNRelevant)
 * [2025-05-24, 01:05:47](https://news.ycombinator.com/item?id=44078019) - [DumPy: NumPy except it's OK if you're dum](https://dynomight.net/dumpy/)
 * [2025-05-24, 00:29:28](https://news.ycombinator.com/item?id=44077850) - [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
