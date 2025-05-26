@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-26, 03:22:14",
+      "https://news.ycombinator.com/item?id=44093675"
+    ],
+    [
+      "Claude Code does our releases now",
+      "https://www.aluxian.com/claude-code-does-our-releases-now/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 02:16:20",
       "https://news.ycombinator.com/item?id=44093334"
     ],
@@ -17,16 +27,6 @@
     [
       "Ten years of JSON Web Token and preparing for the future",
       "https://self-issued.info/?p=2708"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 21:37:59",
-      "https://news.ycombinator.com/item?id=44091410"
-    ],
-    [
-      "Advice to Tenstorrent",
-      "https://github.com/geohot/tt-tiny"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Open Source Society University – Path to a free self-taught education in CS",
       "https://github.com/ossu/computer-science"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 17:00:38",
-      "https://news.ycombinator.com/item?id=44089108"
-    ],
-    [
-      "Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri",
-      "https://www.ycombinator.com/companies/martin/jobs"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "Is TfL losing the battle against heat on the Victoria line?",
       "https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 07:41:07",
+      "https://news.ycombinator.com/item?id=44086235"
+    ],
+    [
+      "Dependency injection frameworks add confusion",
+      "http://rednafi.com/go/di_frameworks_bleh/"
     ]
   ],
   [
