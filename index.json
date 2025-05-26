@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-05-26, 13:14:29",
+      "https://news.ycombinator.com/item?id=44097144"
+    ],
+    [
+      "Engineers Discover New Class of Materials That Passively Harvest Water from Air",
+      "https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 12:28:12",
       "https://news.ycombinator.com/item?id=44096808"
     ],
     [
       "Particle Life simulation in browser using WebGPU",
       "https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 11:34:28",
+      "https://news.ycombinator.com/item?id=44096395"
+    ],
+    [
+      "TIL: timeout in Bash scripts",
+      "https://heitorpb.github.io/bla/timeout/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-05-25, 17:00:26",
-      "https://news.ycombinator.com/item?id=44089106"
-    ],
-    [
-      "Writing a Self-Mutating x86_64 C Program (2013)",
-      "https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 15:52:48",
       "https://news.ycombinator.com/item?id=44088682"
     ],
@@ -197,16 +207,6 @@
     [
       "CAPTCHAs are over (in ticketing)",
       "https://behind.pretix.eu/2025/05/23/captchas-are-over/"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 11:02:22",
-      "https://news.ycombinator.com/item?id=44080237"
-    ],
-    [
-      "Tariffs in American History",
-      "https://imprimis.hillsdale.edu/tariffs-in-american-history/"
     ]
   ],
   [
