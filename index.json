@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-26, 16:37:02",
+      "https://news.ycombinator.com/item?id=44099006"
+    ],
+    [
+      "Hacker News now runs on top of Common Lisp",
+      "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 16:12:22",
+      "https://news.ycombinator.com/item?id=44098772"
+    ],
+    [
+      "You share a house with Einstein, Hawking and Tao",
+      "https://www.faisalabid.com/p/you-share-a-house-with-einstein-hawking"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 16:05:21",
       "https://news.ycombinator.com/item?id=44098706"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2025-05-26, 15:37:12",
+      "https://news.ycombinator.com/item?id=44098442"
+    ],
+    [
+      "WavePhoenix – open-source implementation of the Nintendo WaveBird protocol",
+      "https://github.com/loopj/wavephoenix"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 15:23:22",
       "https://news.ycombinator.com/item?id=44098338"
     ],
     [
       "Garmin watches reveal your personal data, and what you can do",
       "https://www.pentestpartners.com/security-blog/how-garmin-watches-reveal-your-personal-data-and-what-you-can-do/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 15:15:58",
-      "https://news.ycombinator.com/item?id=44098273"
-    ],
-    [
-      "Cloudflare CEO: Football Piracy Blocks Will Claim Lives; \"I Pray No One Dies\"",
-      "https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-26, 05:51:55",
-      "https://news.ycombinator.com/item?id=44094362"
-    ],
-    [
-      "Bagel: Open-source unified multimodal model",
-      "https://bagel-ai.org/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 02:16:20",
       "https://news.ycombinator.com/item?id=44093334"
     ],
@@ -267,16 +277,6 @@
     [
       "Big banks explore venturing into crypto world together with joint stablecoin",
       "https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 07:12:33",
-      "https://news.ycombinator.com/item?id=44070626"
-    ],
-    [
-      "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
-      "https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo"
     ]
   ],
   [
