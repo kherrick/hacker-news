@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-05-26, 14:00:50",
-      "https://news.ycombinator.com/item?id=44097490"
-    ],
-    [
-      "Google is burying the web alive",
-      "https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 13:14:29",
       "https://news.ycombinator.com/item?id=44097144"
     ],
@@ -297,6 +287,16 @@
     [
       "Big banks explore venturing into crypto world together with joint stablecoin",
       "https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 14:42:03",
+      "https://news.ycombinator.com/item?id=44062576"
+    ],
+    [
+      "Violating memory safety with Haskell's value restriction",
+      "https://welltypedwit.ch/posts/value-restriction"
     ]
   ]
 ]
