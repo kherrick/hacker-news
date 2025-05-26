@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 19:56:02](https://news.ycombinator.com/item?id=44101072) - [The Difference Between Downloading and Streaming](https://danq.me/2025/05/26/downloading-vs-streaming/)
+* [2025-05-26, 19:20:19](https://news.ycombinator.com/item?id=44100677) - [Trying to teach in the age of the AI homework machine](https://www.solarshades.club/p/dispatch-from-the-trenches-of-the)
 * [2025-05-26, 19:07:32](https://news.ycombinator.com/item?id=44100552) - [Britain's police are restricting speech in worrying ways](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways)
 * [2025-05-26, 18:42:11](https://news.ycombinator.com/item?id=44100278) - [Show HN: XOff an open source Chrome extension to change X links to Xcancel](https://codeberg.org/nice222/Xoff)
 * [2025-05-26, 18:32:02](https://news.ycombinator.com/item?id=44100179) - [Lossless video compression using Bloom Filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
