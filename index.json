@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-26, 20:59:06",
+      "https://news.ycombinator.com/item?id=44101619"
+    ],
+    [
+      "CSS Painting API",
+      "https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 19:56:02",
       "https://news.ycombinator.com/item?id=44101072"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44099008"
     ],
     [
-      "Data breach exposes 184M passwords for Google,Microsoft,Facebook",
+      "Data breach exposes 184M passwords, likely captured by malware",
       "https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Creating Debian packages from upstream Git",
       "https://optimizedbyotto.com/post/debian-packaging-from-git/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 15:56:15",
-      "https://news.ycombinator.com/item?id=44098605"
-    ],
-    [
-      "I think it's time to give Nix a chance",
-      "https://maych.in/blog/its-time-to-give-nix-a-chance/"
     ]
   ],
   [
@@ -175,8 +175,8 @@
       "https://news.ycombinator.com/item?id=44097986"
     ],
     [
-      "TeleMessage customers include DC Police, a16z, JP Morgan, and hundreds more",
-      "https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/"
+      "TeleMessage Explorer: a new open source research tool",
+      "https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-05-26, 02:16:20",
-      "https://news.ycombinator.com/item?id=44093334"
-    ],
-    [
-      "Jjui – A Nice TUI for Jujutsu",
-      "https://github.com/idursun/jjui"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 13:38:46",
       "https://news.ycombinator.com/item?id=44087757"
     ],
@@ -287,6 +277,16 @@
     [
       "Mathpad: A mathematical keypad for students and professionals",
       "https://github.com/Summa-Cogni/Mathpad"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 10:14:30",
+      "https://news.ycombinator.com/item?id=44086803"
+    ],
+    [
+      "Changelog: Lazy trees (faster Nix builds)",
+      "https://determinate.systems/posts/changelog-determinate-nix-352/"
     ]
   ],
   [
