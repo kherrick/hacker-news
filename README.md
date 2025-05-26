@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-26, 19:07:32](https://news.ycombinator.com/item?id=44100552) - [Britain's police are restricting speech in worrying ways](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways)
 * [2025-05-26, 18:32:02](https://news.ycombinator.com/item?id=44100179) - [Lossless video compression using Bloom Filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
 * [2025-05-26, 18:20:18](https://news.ycombinator.com/item?id=44100082) - [Claude 4 and GitHub MCP will leak your private GitHub repositories](https://twitter.com/lbeurerkellner/status/1926991491735429514)
 * [2025-05-26, 18:14:09](https://news.ycombinator.com/item?id=44100035) - [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)
@@ -17,7 +18,6 @@
 * [2025-05-26, 15:15:58](https://news.ycombinator.com/item?id=44098273) - [Cloudflare CEO: Football piracy blocks will claim lives](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
 * [2025-05-26, 14:59:59](https://news.ycombinator.com/item?id=44098091) - [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
 * [2025-05-26, 14:50:48](https://news.ycombinator.com/item?id=44097986) - [TeleMessage Explorer: a new open-source research tool](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/)
-* [2025-05-26, 14:16:11](https://news.ycombinator.com/item?id=44097637) - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [A new class of materials that can passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
 * [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
