@@ -129,6 +129,193 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44099187">
+          <h3>
+            <a class="item" href="https://github.com/pgdogdev/pgdog"
+              >Show HN: PgDog – Shard Postgres without extensions</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-26 @ 16:55:49</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44099187"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/pgdogdev/pgdog"
+                >https://github.com/pgdogdev/pgdog</a
+              >). I’m scaling our favorite database, PostgreSQL. PgDog is a new
+              open source proxy, written in Rust, with first-class support for
+              sharding — without changes to your app or needing database
+              extensions.
+              <p>
+                Here’s a walkthrough of how it works:
+                <a href="https://www.youtube.com/watch?v=y6sebczWZ-c"
+                  >https://www.youtube.com/watch?v=y6sebczWZ-c</a
+                >
+              </p>
+              <p>
+                Running Postgres at scale is hard. Eventually, one primary isn’t
+                enough at which point you need to split it up. Since there is
+                currently no good tooling out there to do this, teams end up
+                breaking their apps apart instead.
+              </p>
+              <p>
+                If you’re familiar with PgCat, my previous project, PgDog is its
+                spiritual successor but with a fresh codebase and new goals. If
+                not, PgCat is a pooler for Postgres also written in Rust. You
+                guessed it — I adopted a dog.
+              </p>
+              <p>
+                So, what’s changed and why a new project? Cross-shard queries
+                are supported out of the box. The new architecture is more
+                flexible, completely asynchronous and supports manipulating the
+                Postgres protocol at any stage of query execution.
+              </p>
+              <p>
+                Not everything is working, but simple aggregates like max(),
+                min(), count(*) and sum() are in. More complex functions like
+                percentiles and average will require a bit more work. Sorting
+                (i.e. ORDER BY) works, as long as the values are part of the
+                result set, e.g.:
+              </p>
+              <p></p>
+              <pre><code>     SELECT id, email FROM users
+     WHERE admin = true
+     ORDER BY 1 DESC;
+</code></pre>
+              PgDog buffers and sorts the rows in memory, before sending them to
+              the client. Most of the time, the working set is small, so this is
+              fine. For larger results, we need to build swap to disk, just like
+              Postgres does, but for OLTP workloads, which PgDog is targeting,
+              we want to keep things fast. Sorting currently works for bigint,
+              integer, and text/varchar. It’s pretty straightforward to add all
+              the other data types, I just need to find the time and make sure
+              to handle binary encoding correctly.
+              <p>
+                All standard Postgres features work as normal for unsharded and
+                direct-to-shard queries. As long as you include the sharding key
+                (a column like customer_id, for example) in your query, you
+                won’t notice a difference.
+              </p>
+              <p>
+                How does this compare to Citus? In case you’re not familiar,
+                Citus is an open source extension for sharding Postgres. It runs
+                inside a single Postgres node (a coordinator) and distributes
+                queries between worker databases.
+              </p>
+              <p>
+                PgDog’s architecture is fundamentally different. It runs outside
+                the DB: it’s a proxy, so you can deploy it anywhere, including
+                managed Postgres like RDS, Cloud SQL and others where Citus
+                isn’t available. It’s multi-threaded and asynchronous, so it can
+                handle thousands, if not millions, of concurrent connections.
+                Its focus is OLTP, not OLAP. Meanwhile, Citus is more mature and
+                has good support for cross-shard queries and aggregates. It will
+                take PgDog a while to catch up.
+              </p>
+              <p>
+                My Rust has improved since my last attempt at this and I learned
+                how to use the bytes crate correctly. PgDog does almost zero
+                memory allocations per request. That results in a 3-5%
+                performance increase over PgCat and a much more consistent p95.
+                If you’re obsessed with performance like me, you know that small
+                percentage is nothing to sneeze at. Like before, multi-threaded
+                Tokio-powered PgDog leaves the single-threaded PgBouncer in the
+                dust (<a href="https://pgdog.dev/blog/pgbouncer-vs-pgdog"
+                  >https://pgdog.dev/blog/pgbouncer-vs-pgdog</a
+                >).
+              </p>
+              <p>
+                Since we’re using pg_query (which itself bundles the Postgres
+                parser), PgDog can understand all Postgres queries. This is
+                important because we can not only correctly extract the WHERE
+                clause and INSERT parameters for automatic routing, but also
+                rewrite queries. This will be pretty useful when we’ll add
+                support for more complex aggregates, like avg(), and cross-shard
+                joins!
+              </p>
+              <p>
+                Read/write traffic split is supported out of the box, so you can
+                put PgDog in front of the whole cluster and ditch the code
+                annotations. It’s also a load balancer, so you can deploy it in
+                front of multiple replicas to get 4 9’s of uptime.
+              </p>
+              <p>
+                One of the coolest features so far, in my opinion, is
+                distributed COPY. This works by hacking the Postgres network
+                protocol and sending individual rows to different shards (<a
+                  href="https://pgdog.dev/blog/hacking-postgres-wire-protocol"
+                  >https://pgdog.dev/blog/hacking-postgres-wire-protocol</a
+                >). You can just use it without thinking about cluster topology,
+                e.g.:
+              </p>
+              <p></p>
+              <pre><code>    COPY temperature_records (sensor_uuid, created_at, value)
+    FROM STDIN CSV;
+</code></pre>
+              The sharding function is straight out of Postgres partitions and
+              supports uuid v4 and bigint. Technically, it works with any data
+              type, but I just haven’t added all the wrappers yet. Let me know
+              if you need one.
+              <p>
+                What else? Since we have the Postgres parser handy, we can
+                inspect, block and rewrite queries. One feature I was playing
+                with is ensuring that the app is passing in the customer_id in
+                all queries, to avoid data leaks between tenants. Brain dump of
+                that in my blog here:
+                <a href="https://pgdog.dev/blog/multi-tenant-pg-can-be-easy"
+                  >https://pgdog.dev/blog/multi-tenant-pg-can-be-easy</a
+                >.
+              </p>
+              <p>
+                What’s on the roadmap: (re)sharding Postgres using logical
+                replication, so we can scale DBs without taking downtime. There
+                is a neat trick on how to quickly do this on copy-on-write
+                filesystems (like EBS used by RDS, Google Cloud volumes, ZFS,
+                etc.). I’ll publish a blog post on this soon. More at-scale
+                features like blocking bad queries and just general “I wish my
+                Postgres proxy could do this” stuff. Speaking of which, if you
+                can think of any more features you’d want, get in touch. Your
+                wishlist can become my roadmap.
+              </p>
+              <p>
+                PgDog is being built in the open. If you have thoughts or
+                suggestions about this topic, I would love to hear them. Happy
+                to listen to your battle stories with Postgres as well.
+              </p>
+              <p>Happy hacking!</p>
+              <p>Lev</p>
+            </div>
+          </section>
+        </section>
+        <section id="44099008">
+          <h3>
+            <a
+              class="item"
+              href="https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/"
+              >Data breach exposes 184M passwords for
+              Google,Microsoft,Facebook</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-26 @ 16:37:14</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44099008"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44099006">
           <h3>
             <a
@@ -141,11 +328,11 @@
             <h4>
               <span>2025-05-26 @ 16:37:02</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44099006"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -162,11 +349,11 @@
             <h4>
               <span>2025-05-26 @ 16:12:22</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44098772"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -174,18 +361,18 @@
         <section id="44098706">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=44098706"
-              >Launch HN: Nomi (YC X25) – Cursor for Sales</a
+              >Launch HN: Nomi (YC X25) – Copilot for Sales</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-05-26 @ 16:05:21</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44098706"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
             <div class="text">
@@ -258,6 +445,27 @@
             </div>
           </section>
         </section>
+        <section id="44098705">
+          <h3>
+            <a
+              class="item"
+              href="https://optimizedbyotto.com/post/debian-packaging-from-git/"
+              >Creating Debian packages from upstream Git</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-26 @ 16:05:18</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44098705"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44098605">
           <h3>
             <a
@@ -270,11 +478,11 @@
             <h4>
               <span>2025-05-26 @ 15:56:15</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44098605"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -291,7 +499,7 @@
             <h4>
               <span>2025-05-26 @ 15:53:30</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44098579"
                   >Comments</a
@@ -311,32 +519,11 @@
             <h4>
               <span>2025-05-26 @ 15:37:12</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44098442"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44098338">
-          <h3>
-            <a
-              class="item"
-              href="https://www.pentestpartners.com/security-blog/how-garmin-watches-reveal-your-personal-data-and-what-you-can-do/"
-              >Garmin watches reveal your personal data, and what you can do</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-26 @ 15:23:22</span
-              ><span class="points-container"
-                >Points: <span class="points">19</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44098338"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -353,11 +540,11 @@
             <h4>
               <span>2025-05-26 @ 14:59:59</span
               ><span class="points-container"
-                >Points: <span class="points">242</span></span
+                >Points: <span class="points">273</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44098091"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -374,90 +561,13 @@
             <h4>
               <span>2025-05-26 @ 14:50:48</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44097986"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44097699">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=44097699"
-              >Ask HN: Building LLM apps? How are you handling user context?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-26 @ 14:23:27</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44097699"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Sure, the model can reason and answer questions well, but it has
-                zero idea who the user is, where they came from, or what they've
-                been doing in the app. Without that, I either have to make the
-                model ask awkward initial questions to figure it out or let it
-                guess, which is usually wrong.
-              </p>
-              <p>
-                So I keep rebuilding the same setup: tracking events, enriching
-                sessions, summarizing behavior, and injecting that into prompts.
-              </p>
-              <p>It makes the app way more helpful, but it's a pain.</p>
-              <p>
-                What I wish existed is a simple way to grab a session summary or
-                user context I could just drop into a prompt. Something like:
-              </p>
-              <p>const context = await getContext();</p>
-              <p>
-                const response = await generateText({ system: `Here's the user
-                context: ${context}`, messages: [...] });
-              </p>
-              <p>Some examples of how I use this:</p>
-              <p>
-                - For support, I pass in the docs they viewed or the error page
-                they landed on.
-              </p>
-              <p>
-                - For marketing, I summarize their journey, like 'ad clicked' →
-                'blog post read' → 'pricing page'.
-              </p>
-              <p>
-                - For sales, I highlight behavior that suggests whether they're
-                a startup or an enterprise.
-              </p>
-              <p>
-                - For product, I classify the session as 'confused', 'exploring
-                plans', or 'ready to buy'.
-              </p>
-              <p>
-                - For recommendations, I generate embeddings from recent
-                activity and use that to match content or products more
-                accurately.
-              </p>
-              <p>
-                In all of these cases, I usually inject things like recent
-                activity, timezone, currency, traffic source, and any signals I
-                can gather that help guide the experience.
-              </p>
-              <p>
-                Has anyone else run into this same issue? Found a better way?
-              </p>
-              <p>
-                I'm considering building something around this initially to
-                solve my problem. I'd love to hear how others are handling it or
-                if this sounds useful to you.
-              </p>
-            </div>
           </section>
         </section>
         <section id="44097637">
@@ -472,11 +582,11 @@
             <h4>
               <span>2025-05-26 @ 14:16:11</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44097637"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -493,11 +603,11 @@
             <h4>
               <span>2025-05-26 @ 14:00:50</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44097490"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -515,7 +625,7 @@
             <h4>
               <span>2025-05-26 @ 13:14:29</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44097144"
                   >Comments</a
@@ -535,7 +645,7 @@
             <h4>
               <span>2025-05-26 @ 12:39:09</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44096907"
                   >Comments</a
@@ -556,11 +666,11 @@
             <h4>
               <span>2025-05-26 @ 12:28:12</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44096808"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -575,7 +685,7 @@
             <h4>
               <span>2025-05-26 @ 11:34:28</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44096395"
                   >Comments</a
@@ -596,11 +706,11 @@
             <h4>
               <span>2025-05-26 @ 11:18:59</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44096251"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -618,11 +728,11 @@
             <h4>
               <span>2025-05-26 @ 10:15:49</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44095866"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -655,11 +765,11 @@
             <h4>
               <span>2025-05-26 @ 08:47:49</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44095360"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -674,11 +784,11 @@
             <h4>
               <span>2025-05-26 @ 08:16:20</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44095176"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
             <div class="text">
@@ -698,11 +808,11 @@
             <h4>
               <span>2025-05-26 @ 07:41:24</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44094980"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 139</span></span
               >
             </h4>
           </section>
@@ -717,30 +827,11 @@
             <h4>
               <span>2025-05-26 @ 02:16:20</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44093334"
                   >Comments</a
                 ><span class="descendants">: 36</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44092102">
-          <h3>
-            <a class="item" href="https://self-issued.info/?p=2708"
-              >Ten years of JSON Web Token and preparing for the future</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-25 @ 23:05:36</span
-              ><span class="points-container"
-                >Points: <span class="points">226</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44092102"
-                  >Comments</a
-                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -755,36 +846,16 @@
             <h4>
               <span>2025-05-25 @ 19:36:58</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44090387"
                   >Comments</a
-                ><span class="descendants">: 844</span></span
+                ><span class="descendants">: 849</span></span
               >
             </h4>
             <div class="text">
               What are you working on? Any new ideas that you're thinking about?
             </div>
-          </section>
-        </section>
-        <section id="44089150">
-          <h3>
-            <a class="item" href="https://github.com/ossu/computer-science"
-              >Open Source Society University – Path to a free self-taught
-              education in CS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-25 @ 17:06:55</span
-              ><span class="points-container"
-                >Points: <span class="points">469</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44089150"
-                  >Comments</a
-                ><span class="descendants">: 139</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="44086830">
@@ -797,11 +868,11 @@
             <h4>
               <span>2025-05-25 @ 10:24:35</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44086830"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -819,30 +890,54 @@
             <h4>
               <span>2025-05-23 @ 17:34:21</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44074775"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44070324">
+        <section id="44071960">
           <h3>
-            <a class="item" href="https://www.dwarkesh.com/p/sholto-trenton-2"
-              >How Does Claude 4 Think? – Sholto Douglas and Trenton Bricken</a
+            <a
+              class="item"
+              href="https://entropicthoughts.com/fizzbuzz-through-monoids"
+              >FizzBuzz Through Monoids</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-05-23 @ 06:08:12</span
+              <span>2025-05-23 @ 11:46:40</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44070324"
+                ><a href="https://news.ycombinator.com/item?id=44071960"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44070626">
+          <h3>
+            <a
+              class="item"
+              href="https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo"
+              >Remote Prompt Injection in Gitlab Duo Leads to Source Code
+              Theft</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-23 @ 07:12:33</span
+              ><span class="points-container"
+                >Points: <span class="points">181</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44070626"
+                  >Comments</a
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -863,7 +958,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44062576"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
