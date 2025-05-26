@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 21:31:07](https://news.ycombinator.com/item?id=44101875) - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
 * [2025-05-26, 21:19:18](https://news.ycombinator.com/item?id=44101787) - [Iron Spring PL/1 Compiler](http://www.iron-spring.com/)
 * [2025-05-26, 21:07:31](https://news.ycombinator.com/item?id=44101691) - [Access Control Syntax](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/)
 * [2025-05-26, 20:59:06](https://news.ycombinator.com/item?id=44101619) - [CSS Painting API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API)

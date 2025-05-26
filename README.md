@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-26, 21:31:07](https://news.ycombinator.com/item?id=44101875) - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
 * [2025-05-26, 21:19:18](https://news.ycombinator.com/item?id=44101787) - [Iron Spring PL/1 Compiler](http://www.iron-spring.com/)
 * [2025-05-26, 21:07:31](https://news.ycombinator.com/item?id=44101691) - [Access Control Syntax](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/)
 * [2025-05-26, 20:59:06](https://news.ycombinator.com/item?id=44101619) - [CSS Painting API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API)
@@ -25,11 +26,10 @@
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
 * [2025-05-26, 11:18:59](https://news.ycombinator.com/item?id=44096251) - [The double standard of webhook security and API security](https://www.speakeasy.com/blog/webhook-security)
 * [2025-05-26, 09:31:51](https://news.ycombinator.com/item?id=44095608) - [Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer)
-* [2025-05-26, 08:16:20](https://news.ycombinator.com/item?id=44095176) - [Show HN: A minimalist web timer for focus and time tracking](https://iamlockedin.com/)
-* [2025-05-25, 13:38:46](https://news.ycombinator.com/item?id=44087757) - [Mutmut – Python Mutation Tester](https://github.com/boxed/mutmut)
 * [2025-05-25, 10:54:10](https://news.ycombinator.com/item?id=44086935) - [Having your compile-time cake and eating it too](https://0x44.xyz/blog/comptime-1)
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
 * [2025-05-25, 10:14:30](https://news.ycombinator.com/item?id=44086803) - [Changelog: Lazy trees (faster Nix builds)](https://determinate.systems/posts/changelog-determinate-nix-352/)
+* [2025-05-24, 01:21:55](https://news.ycombinator.com/item?id=44078080) - [Sims, BattleBots, Cellular Automata God and Go (2001)](https://www.gamestudies.org/0102/pearce/)
 
 ## [Archives](archives/index.md)
 
