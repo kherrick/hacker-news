@@ -8,6 +8,7 @@
 * [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
 * [2025-05-26, 11:18:59](https://news.ycombinator.com/item?id=44096251) - [The double standard of webhook security and API security](https://www.speakeasy.com/blog/webhook-security)
+* [2025-05-26, 10:15:49](https://news.ycombinator.com/item?id=44095866) - [Sleep apnea pill shows striking success in large clinical trial](https://www.science.org/content/article/sleep-apnea-pill-shows-striking-success-large-clinical-trial)
 * [2025-05-26, 09:31:51](https://news.ycombinator.com/item?id=44095608) - [Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer)
 * [2025-05-26, 08:47:49](https://news.ycombinator.com/item?id=44095360) - [The Hard Truth About Soft Plastic](https://www.everydayplastic.org/softplastic)
 * [2025-05-26, 08:27:41](https://news.ycombinator.com/item?id=44095250) - [Lieferando.de (Takeaway) has captured 5.7% of restaurant related domain names](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/)

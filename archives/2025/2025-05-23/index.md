@@ -23,6 +23,7 @@
 * [2025-05-23, 18:30:07](https://news.ycombinator.com/item?id=44075236) - [Japan and the Birth of Modern Shipbuilding](https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding)
 * [2025-05-23, 18:30:05](https://news.ycombinator.com/item?id=44075235) - [Comparison of Spreadsheet Software](https://grid.is/blog/comparison-of-spreadsheet-software)
 * [2025-05-23, 18:14:29](https://news.ycombinator.com/item?id=44075105) - [Attention Wasn't All We Needed](https://www.stephendiehl.com/posts/post_transformers/)
+* [2025-05-23, 18:12:36](https://news.ycombinator.com/item?id=44075093) - [A 10x Faster TypeScript with Anders Hejlsberg [video]](https://www.youtube.com/watch?v=UJfF3-13aFo)
 * [2025-05-23, 17:52:45](https://news.ycombinator.com/item?id=44074939) - [Show HN: I made an infinite gallery of AI-generated 3D skeuomorphic icons](https://www.thiings.co/things)
 * [2025-05-23, 17:34:21](https://news.ycombinator.com/item?id=44074775) - [Big Banks Explore Venturing into Crypto World Together with Joint Stablecoin](https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e)
 * [2025-05-23, 17:22:20](https://news.ycombinator.com/item?id=44074684) - [Alberta separatism push roils Canada](https://www.nytimes.com/2025/05/22/world/canada/alberta-separatism-referendum.html)
