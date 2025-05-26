@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-26, 02:16:20](https://news.ycombinator.com/item?id=44093334) - [jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui)
 * [2025-05-25, 23:05:36](https://news.ycombinator.com/item?id=44092102) - [Ten years of JSON Web Token and preparing for the future](https://self-issued.info/?p=2708)
 * [2025-05-25, 21:37:59](https://news.ycombinator.com/item?id=44091410) - [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
 * [2025-05-25, 19:36:58](https://news.ycombinator.com/item?id=44090387) - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
@@ -9,7 +10,6 @@
 * [2025-05-25, 17:00:38](https://news.ycombinator.com/item?id=44089108) - [Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
 * [2025-05-25, 17:00:26](https://news.ycombinator.com/item?id=44089106) - [Writing a Self-Mutating x86_64 C Program (2013)](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/)
 * [2025-05-25, 16:52:14](https://news.ycombinator.com/item?id=44089054) - [Show HN: Zli – A Batteries-Included CLI Framework for Zig](https://github.com/xcaeser/zli)
-* [2025-05-25, 16:34:28](https://news.ycombinator.com/item?id=44088957) - [Denmark to raise retirement age to 70](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/)
 * [2025-05-25, 16:06:12](https://news.ycombinator.com/item?id=44088777) - [Show HN: DaedalOS – Desktop Environment in the Browser](https://github.com/DustinBrett/daedalOS)
 * [2025-05-25, 15:52:48](https://news.ycombinator.com/item?id=44088682) - [Writing your own CUPS printer driver in 100 lines of Python (2018)](https://behind.pretix.eu/2018/01/20/cups-driver/)
 * [2025-05-25, 14:45:47](https://news.ycombinator.com/item?id=44088216) - [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
