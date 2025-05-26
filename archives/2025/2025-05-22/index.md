@@ -48,6 +48,7 @@
 * [2025-05-22, 15:01:09](https://news.ycombinator.com/item?id=44062774) - [Social media platforms: what's wrong, and what's next](https://www.scottgoci.com/social-media-platforms-whats-wrong-and-whats-next/)
 * [2025-05-22, 14:46:07](https://news.ycombinator.com/item?id=44062627) - [Next Password Could Be Stored in Plastic](https://spectrum.ieee.org/plastic-data-storage)
 * [2025-05-22, 14:43:21](https://news.ycombinator.com/item?id=44062586) - [U.S. Spy Agencies–One-Stop Shop to Buy Your Personal Data](https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/)
+* [2025-05-22, 14:42:03](https://news.ycombinator.com/item?id=44062576) - [Violating memory safety with Haskell's value restriction](https://welltypedwit.ch/posts/value-restriction)
 * [2025-05-22, 14:21:34](https://news.ycombinator.com/item?id=44062346) - [Show HN: Infinite Hagakure](https://hagakure.space)
 * [2025-05-22, 14:09:25](https://news.ycombinator.com/item?id=44062227) - [Why I Built My Own Audio Player](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/)
 * [2025-05-22, 14:03:37](https://news.ycombinator.com/item?id=44062176) - [What Sam Altman told OpenAI about the device he's making with Jony Ive](https://www.wsj.com/tech/ai/what-sam-altman-told-openai-about-the-secret-device-hes-making-with-jony-ive-f1384005)
