@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-26, 16:55:49",
+      "https://news.ycombinator.com/item?id=44099187"
+    ],
+    [
+      "Show HN: PgDog – Shard Postgres without extensions",
+      "https://github.com/pgdogdev/pgdog"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 16:37:14",
+      "https://news.ycombinator.com/item?id=44099008"
+    ],
+    [
+      "Data breach exposes 184M passwords for Google,Microsoft,Facebook",
+      "https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 16:37:02",
       "https://news.ycombinator.com/item?id=44099006"
     ],
@@ -25,8 +45,18 @@
       "https://news.ycombinator.com/item?id=44098706"
     ],
     [
-      "Launch HN: Nomi (YC X25) – Cursor for Sales",
+      "Launch HN: Nomi (YC X25) – Copilot for Sales",
       "https://news.ycombinator.com/item?id=44098706"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 16:05:18",
+      "https://news.ycombinator.com/item?id=44098705"
+    ],
+    [
+      "Creating Debian packages from upstream Git",
+      "https://optimizedbyotto.com/post/debian-packaging-from-git/"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-05-26, 15:23:22",
-      "https://news.ycombinator.com/item?id=44098338"
-    ],
-    [
-      "Garmin watches reveal your personal data, and what you can do",
-      "https://www.pentestpartners.com/security-blog/how-garmin-watches-reveal-your-personal-data-and-what-you-can-do/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 14:59:59",
       "https://news.ycombinator.com/item?id=44098091"
     ],
@@ -87,16 +107,6 @@
     [
       "TeleMessage Explorer: a new open-source research tool",
       "https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 14:23:27",
-      "https://news.ycombinator.com/item?id=44097699"
-    ],
-    [
-      "Ask HN: Building LLM apps? How are you handling user context?",
-      "https://news.ycombinator.com/item?id=44097699"
     ]
   ],
   [
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2025-05-25, 23:05:36",
-      "https://news.ycombinator.com/item?id=44092102"
-    ],
-    [
-      "Ten years of JSON Web Token and preparing for the future",
-      "https://self-issued.info/?p=2708"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 19:36:58",
       "https://news.ycombinator.com/item?id=44090387"
     ],
     [
       "Ask HN: What are you working on? (May 2025)",
       "https://news.ycombinator.com/item?id=44090387"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 17:06:55",
-      "https://news.ycombinator.com/item?id=44089150"
-    ],
-    [
-      "Open Source Society University – Path to a free self-taught education in CS",
-      "https://github.com/ossu/computer-science"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2025-05-23, 06:08:12",
-      "https://news.ycombinator.com/item?id=44070324"
+      "2025-05-23, 11:46:40",
+      "https://news.ycombinator.com/item?id=44071960"
     ],
     [
-      "How Does Claude 4 Think? – Sholto Douglas and Trenton Bricken",
-      "https://www.dwarkesh.com/p/sholto-trenton-2"
+      "FizzBuzz Through Monoids",
+      "https://entropicthoughts.com/fizzbuzz-through-monoids"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 07:12:33",
+      "https://news.ycombinator.com/item?id=44070626"
+    ],
+    [
+      "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
+      "https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo"
     ]
   ],
   [
