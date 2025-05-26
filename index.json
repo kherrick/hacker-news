@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-05-26, 15:47:27",
-      "https://news.ycombinator.com/item?id=44098528"
+      "2025-05-26, 16:05:21",
+      "https://news.ycombinator.com/item?id=44098706"
     ],
     [
-      "Reflections on Neuralese",
-      "https://www.greaterwrong.com/posts/qehggwKRMEyWqvjZG/reflections-on-neuralese"
+      "Launch HN: Nomi (YC X25) – Cursor for Sales",
+      "https://news.ycombinator.com/item?id=44098706"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 15:56:15",
+      "https://news.ycombinator.com/item?id=44098605"
+    ],
+    [
+      "I think it's time to give Nix a chance",
+      "https://maych.in/blog/its-time-to-give-nix-a-chance/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 15:53:30",
+      "https://news.ycombinator.com/item?id=44098579"
+    ],
+    [
+      "Scheming a mise-en-abîme in BQN",
+      "https://panadestein.github.io/blog/posts/si.html#fnr.2"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 15:23:22",
+      "https://news.ycombinator.com/item?id=44098338"
+    ],
+    [
+      "Garmin watches reveal your personal data, and what you can do",
+      "https://www.pentestpartners.com/security-blog/how-garmin-watches-reveal-your-personal-data-and-what-you-can-do/"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "German court sends VW execs to prison over Dieselgate scandal",
       "https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 14:50:48",
+      "https://news.ycombinator.com/item?id=44097986"
+    ],
+    [
+      "TeleMessage Explorer: a new open-source research tool",
+      "https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/"
     ]
   ],
   [
@@ -55,18 +95,8 @@
       "https://news.ycombinator.com/item?id=44097490"
     ],
     [
-      "Google Is Burying the Web Alive",
+      "Google is burying the web alive",
       "https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 13:31:58",
-      "https://news.ycombinator.com/item?id=44097289"
-    ],
-    [
-      "Where hyperscale hardware goes to retire: Ars visits a big ITAD site",
-      "https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/"
     ]
   ],
   [
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44097144"
     ],
     [
-      "Engineers discover new class of materials that passively harvest water from air",
+      "A new class of materials that can passively harvest water from air",
       "https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/"
     ]
   ],
@@ -141,12 +171,12 @@
   ],
   [
     [
-      "2025-05-26, 09:21:37",
-      "https://news.ycombinator.com/item?id=44095549"
+      "2025-05-26, 08:47:49",
+      "https://news.ycombinator.com/item?id=44095360"
     ],
     [
-      "TorrentFreak is wrong about Google DNS notification",
-      "https://write.as/bortzmeyer/no-torrentfreak-what-you-write-about-google-public-dns-is-not-true"
+      "The truth about soft plastic recycling points at supermarkets",
+      "https://www.everydayplastic.org/softplastic"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2025-05-25, 17:41:11",
-      "https://news.ycombinator.com/item?id=44089424"
-    ],
-    [
-      "Plwm – An X11 window manager written in Prolog",
-      "https://github.com/Seeker04/plwm"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 17:06:55",
       "https://news.ycombinator.com/item?id=44089150"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-05-22, 15:34:12",
-      "https://news.ycombinator.com/item?id=44063089"
-    ],
-    [
-      "From confectioners to robots – Tor Alva in Mulegns is unveiled",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2025/05/from-confectioners-to-robots-tor-alva-in-mulegns-is-unveiled.html"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 14:42:03",
       "https://news.ycombinator.com/item?id=44062576"
     ],
     [
       "Violating memory safety with Haskell's value restriction",
       "https://welltypedwit.ch/posts/value-restriction"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 12:59:34",
-      "https://news.ycombinator.com/item?id=44061614"
-    ],
-    [
-      "Trading with Claude, and writing your own MCP server",
-      "https://dangelov.com/blog/trading-with-claude/"
     ]
   ]
 ]
