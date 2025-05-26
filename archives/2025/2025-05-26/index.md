@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
 * [2025-05-26, 19:07:32](https://news.ycombinator.com/item?id=44100552) - [Britain's police are restricting speech in worrying ways](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways)
+* [2025-05-26, 18:42:11](https://news.ycombinator.com/item?id=44100278) - [Show HN: XOff an open source Chrome extension to change X links to Xcancel](https://codeberg.org/nice222/Xoff)
 * [2025-05-26, 18:32:02](https://news.ycombinator.com/item?id=44100179) - [Lossless video compression using Bloom Filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
 * [2025-05-26, 18:20:18](https://news.ycombinator.com/item?id=44100082) - [Claude 4 and GitHub MCP will leak your private GitHub repositories](https://twitter.com/lbeurerkellner/status/1926991491735429514)
 * [2025-05-26, 18:14:09](https://news.ycombinator.com/item?id=44100035) - [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)

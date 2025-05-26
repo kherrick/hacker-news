@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-26, 19:07:32](https://news.ycombinator.com/item?id=44100552) - [Britain's police are restricting speech in worrying ways](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways)
+* [2025-05-26, 18:42:11](https://news.ycombinator.com/item?id=44100278) - [Show HN: XOff an open source Chrome extension to change X links to Xcancel](https://codeberg.org/nice222/Xoff)
 * [2025-05-26, 18:32:02](https://news.ycombinator.com/item?id=44100179) - [Lossless video compression using Bloom filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
 * [2025-05-26, 18:20:18](https://news.ycombinator.com/item?id=44100082) - [Claude 4 and GitHub MCP will leak your private GitHub repositories](https://twitter.com/lbeurerkellner/status/1926991491735429514)
 * [2025-05-26, 18:14:09](https://news.ycombinator.com/item?id=44100035) - [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)
@@ -26,8 +26,8 @@
 * [2025-05-26, 09:31:51](https://news.ycombinator.com/item?id=44095608) - [Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer)
 * [2025-05-26, 08:47:49](https://news.ycombinator.com/item?id=44095360) - [The truth about soft plastic recycling points at supermarkets](https://www.everydayplastic.org/softplastic)
 * [2025-05-26, 08:16:20](https://news.ycombinator.com/item?id=44095176) - [Show HN: A minimalist web timer for focus and time tracking](https://iamlockedin.com/)
-* [2025-05-26, 02:16:20](https://news.ycombinator.com/item?id=44093334) - [Jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui)
 * [2025-05-25, 13:38:46](https://news.ycombinator.com/item?id=44087757) - [Mutmut – Python Mutation Tester](https://github.com/boxed/mutmut)
+* [2025-05-25, 10:54:10](https://news.ycombinator.com/item?id=44086935) - [Having your compile-time cake and eating it too](https://0x44.xyz/blog/comptime-1)
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
 * [2025-05-24, 01:21:55](https://news.ycombinator.com/item?id=44078080) - [Sims, BattleBots, Cellular Automata God and Go (2001)](https://www.gamestudies.org/0102/pearce/)
 
