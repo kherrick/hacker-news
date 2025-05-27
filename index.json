@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-05-26, 16:37:02",
-      "https://news.ycombinator.com/item?id=44099006"
-    ],
-    [
-      "Hacker News now runs on top of Common Lisp",
-      "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 16:05:21",
       "https://news.ycombinator.com/item?id=44098706"
     ],
@@ -247,6 +237,16 @@
     [
       "Clojure MCP",
       "https://github.com/bhauman/clojure-mcp"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 20:06:19",
+      "https://news.ycombinator.com/item?id=44083474"
+    ],
+    [
+      "Worlds first petahertz transistor at ambient conditions",
+      "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions"
     ]
   ],
   [
