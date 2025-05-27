@@ -28,7 +28,7 @@
 * [2025-05-24, 08:41:01](https://news.ycombinator.com/item?id=44079729) - [Cows get GPS collars to stop them falling in river](https://www.bbc.co.uk/news/articles/cj4229k744lo)
 * [2025-05-23, 18:49:25](https://news.ycombinator.com/item?id=44075409) - [The Monster-Slaying Game You Can Play Almost Anywhere](https://www.nytimes.com/2025/05/21/arts/play-doom-ports.html)
 * [2025-05-23, 12:40:15](https://news.ycombinator.com/item?id=44072309) - [High strength bio-concrete for the production of building components](https://www.nature.com/articles/s44296-023-00004-6)
-* [2025-05-23, 11:05:18](https://news.ycombinator.com/item?id=44071722) - [Rock, Paper, Scissors that learns how you play using markov chains](https://luduxia.com/showdown/)
+* [2025-05-23, 11:05:18](https://news.ycombinator.com/item?id=44071722) - [Rock, Paper, Scissors that learns how you play using Markov chains](https://luduxia.com/showdown/)
 * [2025-05-23, 09:33:46](https://news.ycombinator.com/item?id=44071321) - [Ask HN: What projects do you donate to?](https://news.ycombinator.com/item?id=44071321)
 
 ## [Archives](archives/index.md)
