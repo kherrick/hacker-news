@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-05-27, 01:20:29",
-      "https://news.ycombinator.com/item?id=44103116"
-    ],
-    [
-      "Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command",
-      "https://github.com/jedisct1/yes-rs"
-    ]
-  ],
-  [
-    [
       "2025-05-27, 01:11:04",
       "https://news.ycombinator.com/item?id=44103071"
     ],
@@ -177,6 +167,16 @@
     [
       "Show HN: PgDog – Shard Postgres without extensions",
       "https://github.com/pgdogdev/pgdog"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 16:37:02",
+      "https://news.ycombinator.com/item?id=44099006"
+    ],
+    [
+      "Hacker News now runs on top of Common Lisp",
+      "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
     ]
   ],
   [
