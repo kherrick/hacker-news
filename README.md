@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-27, 21:48:54](https://news.ycombinator.com/item?id=44110931) - [Mustard Watches (1990)](https://girard.perso.math.cnrs.fr/mustard/article.html)
 * [2025-05-27, 20:53:03](https://news.ycombinator.com/item?id=44110584) - [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
 * [2025-05-27, 20:09:58](https://news.ycombinator.com/item?id=44110270) - [In Vietnam, an unlikely outpost for Chicano culture](https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam)
 * [2025-05-27, 20:02:50](https://news.ycombinator.com/item?id=44110219) - [Why the Original Macintosh Had a Screen Resolution of 512×324](https://512pixels.net/2025/05/original-macintosh-resolution/)
@@ -21,10 +22,9 @@
 * [2025-05-27, 10:03:00](https://news.ycombinator.com/item?id=44105470) - [Revisiting the algorithm that changed horse race betting (2023)](https://actamachina.com/posts/annotated-benter-paper)
 * [2025-05-27, 03:58:07](https://news.ycombinator.com/item?id=44103839) - [Show HN: Lazy Tetris](https://lazytetris.com/)
 * [2025-05-26, 19:20:19](https://news.ycombinator.com/item?id=44100677) - [Trying to teach in the age of the AI homework machine](https://www.solarshades.club/p/dispatch-from-the-trenches-of-the)
-* [2025-05-26, 18:32:02](https://news.ycombinator.com/item?id=44100179) - [Lossless video compression using Bloom filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
 * [2025-05-26, 13:46:25](https://news.ycombinator.com/item?id=44097390) - [GitHub MCP exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
-* [2025-05-25, 08:41:13](https://news.ycombinator.com/item?id=44086456) - [From OpenAPI spec to MCP: How we built Xata's MCP server](https://xata.io/blog/built-xata-mcp-server)
 * [2025-05-25, 01:36:28](https://news.ycombinator.com/item?id=44084892) - [Space Selfie](https://space.crunchlabs.com/)
+* [2025-05-24, 20:53:11](https://news.ycombinator.com/item?id=44083753) - [There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman](https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/)
 * [2025-05-24, 20:06:19](https://news.ycombinator.com/item?id=44083474) - [Worlds first petahertz transistor at ambient conditions](https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions)
 * [2025-05-24, 14:33:47](https://news.ycombinator.com/item?id=44081395) - [The Hobby Computer Culture](https://technicshistory.com/2025/05/24/the-hobby-computer-culture/)
 * [2025-05-24, 14:32:11](https://news.ycombinator.com/item?id=44081383) - [Semicolons bring the drama; that's why I love them](https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02)
