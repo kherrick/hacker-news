@@ -16,6 +16,7 @@
 * [2025-05-23, 19:40:03](https://news.ycombinator.com/item?id=44075911) - [Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
 * [2025-05-23, 19:11:46](https://news.ycombinator.com/item?id=44075653) - [Music, teeth, and AI but not all at once](https://erikheintare.substack.com/p/1-music-teeth-and-ai-but-not-all)
 * [2025-05-23, 18:55:28](https://news.ycombinator.com/item?id=44075451) - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
+* [2025-05-23, 18:49:25](https://news.ycombinator.com/item?id=44075409) - [The Monster-Slaying Game You Can Play Almost Anywhere](https://www.nytimes.com/2025/05/21/arts/play-doom-ports.html)
 * [2025-05-23, 18:46:57](https://news.ycombinator.com/item?id=44075388) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
 * [2025-05-23, 18:44:31](https://news.ycombinator.com/item?id=44075353) - [Show HN: Hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
 * [2025-05-23, 18:43:25](https://news.ycombinator.com/item?id=44075346) - [Google's AI Mode is 'the definition of theft,' publishers say](https://9to5google.com/2025/05/22/google-ai-mode-theft-publisher-opt-out-controls/)
