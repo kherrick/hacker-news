@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 07:00:41](https://news.ycombinator.com/item?id=44104573) - [Diligent (YC S23) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer)
 * [2025-05-27, 04:52:38](https://news.ycombinator.com/item?id=44104008) - [Mesa3D Drivers for Windows](https://github.com/pal1000/mesa-dist-win)
 * [2025-05-27, 03:58:07](https://news.ycombinator.com/item?id=44103839) - [Show HN: Lazy Tetris](https://lazytetris.com/)
 * [2025-05-27, 02:27:19](https://news.ycombinator.com/item?id=44103431) - [Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)

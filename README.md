@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-27, 07:00:41](https://news.ycombinator.com/item?id=44104573) - [Diligent (YC S23) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer)
 * [2025-05-27, 04:52:38](https://news.ycombinator.com/item?id=44104008) - [Mesa3D Drivers for Windows](https://github.com/pal1000/mesa-dist-win)
 * [2025-05-27, 03:58:07](https://news.ycombinator.com/item?id=44103839) - [Show HN: Lazy Tetris](https://lazytetris.com/)
 * [2025-05-27, 02:27:19](https://news.ycombinator.com/item?id=44103431) - [Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)
@@ -25,7 +26,6 @@
 * [2025-05-25, 06:48:39](https://news.ycombinator.com/item?id=44086062) - [Clojure MCP](https://github.com/bhauman/clojure-mcp)
 * [2025-05-24, 19:24:12](https://news.ycombinator.com/item?id=44083235) - [SVG Favicons in Action](https://css-tricks.com/svg-favicons-in-action/)
 * [2025-05-23, 18:49:25](https://news.ycombinator.com/item?id=44075409) - [The Monster-Slaying Game You Can Play Almost Anywhere](https://www.nytimes.com/2025/05/21/arts/play-doom-ports.html)
-* [2025-05-23, 17:36:11](https://news.ycombinator.com/item?id=44074787) - [Like a hot dog, the Wienermobile is made from a variety of ingredients (2022)](https://www.roadandtrack.com/car-culture/a38734853/wienermobile-has-corvette-g-wagen-and-nsx-parts/)
 * [2025-05-23, 12:40:15](https://news.ycombinator.com/item?id=44072309) - [High strength bio-concrete for the production of building components](https://www.nature.com/articles/s44296-023-00004-6)
 * [2025-05-23, 11:05:18](https://news.ycombinator.com/item?id=44071722) - [Rock, Paper, Scissors that learns how you play using markov chains](https://luduxia.com/showdown/)
 * [2025-05-23, 09:33:46](https://news.ycombinator.com/item?id=44071321) - [Ask HN: What projects do you donate to?](https://news.ycombinator.com/item?id=44071321)
