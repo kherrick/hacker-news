@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-05-26, 22:54:53",
-      "https://news.ycombinator.com/item?id=44102378"
+      "2025-05-26, 22:53:51",
+      "https://news.ycombinator.com/item?id=44102376"
     ],
     [
-      "Most leading chatbots routinely exaggerate science findings",
-      "https://www.uu.nl/en/news/most-leading-chatbots-routinely-exaggerate-science-findings"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 22:50:15",
-      "https://news.ycombinator.com/item?id=44102366"
-    ],
-    [
-      "Show HN: AI for Building Design, Planning, and Permitting",
-      "https://www.spacial.io/"
+      "GitHub MCP Exploited: Accessing Private Repositories via MCP",
+      "https://invariantlabs.ai/blog/mcp-github-vulnerability"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2025-05-26, 14:50:48",
-      "https://news.ycombinator.com/item?id=44097986"
-    ],
-    [
-      "TeleMessage Explorer: a new open source research tool",
-      "https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 13:14:29",
       "https://news.ycombinator.com/item?id=44097144"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-05-24, 19:24:12",
+      "https://news.ycombinator.com/item?id=44083235"
+    ],
+    [
+      "SVG Favicons in Action",
+      "https://css-tricks.com/svg-favicons-in-action/"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 23:27:47",
       "https://news.ycombinator.com/item?id=44077531"
     ],
     [
       "Ultra-low power, miniature electrophysiological electronics",
       "https://starfishneuroscience.com/blog/ultra-low-power-miniature-electrophysiological-electronics/"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 01:28:15",
+      "https://news.ycombinator.com/item?id=44068945"
+    ],
+    [
+      "New DSL \"MassQL\" lets scientists query mass spectrometry data",
+      "https://news.ucr.edu/articles/2025/05/12/new-computer-language-helps-spot-hidden-pollutants"
     ]
   ]
 ]
