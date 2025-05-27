@@ -56,6 +56,7 @@
 * [2025-05-23, 11:37:07](https://news.ycombinator.com/item?id=44071900) - [Alasdair MacIntyre Has Died](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
 * [2025-05-23, 11:15:01](https://news.ycombinator.com/item?id=44071769) - [Graduate Student Solves Classic Problem About the Limits of Addition](https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/)
 * [2025-05-23, 11:10:57](https://news.ycombinator.com/item?id=44071747) - [Everything Not Forbidden Is Compulsory](https://www.drorpoleg.com/everything-not-forbidden-is-compulsory/)
+* [2025-05-23, 11:05:18](https://news.ycombinator.com/item?id=44071722) - [Rock, Paper, Scissors that learns how you play using markov chains](https://luduxia.com/showdown/)
 * [2025-05-23, 10:58:00](https://news.ycombinator.com/item?id=44071701) - [Realtek's $10 tiny 10GbE NIC will hit motherboards soon](https://www.tomshardware.com/networking/realteks-usd10-tiny-10gbe-network-adapter-is-coming-to-motherboards-later-this-year)
 * [2025-05-23, 10:56:12](https://news.ycombinator.com/item?id=44071690) - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-23, 10:49:36](https://news.ycombinator.com/item?id=44071668) - [How to make o4-mini report you to the FBI](https://gist.github.com/t3dotgg/55cd42f7dcecf72509b3538d3b81d4da)
