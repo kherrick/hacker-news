@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
 * [2025-05-27, 11:46:30](https://news.ycombinator.com/item?id=44105965) - [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
+* [2025-05-27, 11:19:08](https://news.ycombinator.com/item?id=44105815) - [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
 * [2025-05-27, 11:15:15](https://news.ycombinator.com/item?id=44105796) - [BGP handling bug causes widespread internet routing instability](https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident)
 * [2025-05-27, 10:55:54](https://news.ycombinator.com/item?id=44105696) - [Canon Law Ninja](https://canonlaw.ninja/)
 * [2025-05-27, 10:39:30](https://news.ycombinator.com/item?id=44105619) - [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
