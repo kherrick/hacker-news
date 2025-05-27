@@ -60,6 +60,7 @@
 * [2025-05-23, 10:43:08](https://news.ycombinator.com/item?id=44071627) - [Remix Breaks Up with React](https://github.com/kayac-chang/remix-website/blob/44b40299fd364b4e825e66f747d3f6cf3dddd884/data/posts/remix-declaration-of-independence.md)
 * [2025-05-23, 10:41:12](https://news.ycombinator.com/item?id=44071610) - [Writing A Job Runner (In Elixir) (Again) (10 years later)](https://github.com/notactuallytreyanastasio/genstage_tutorial_2025/blob/main/README.md)
 * [2025-05-23, 09:54:38](https://news.ycombinator.com/item?id=44071418) - [OpenAI: Scaling PostgreSQL to the Next Level](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level)
+* [2025-05-23, 09:33:46](https://news.ycombinator.com/item?id=44071321) - [Ask HN: What projects do you donate to?](https://news.ycombinator.com/item?id=44071321)
 * [2025-05-23, 08:54:13](https://news.ycombinator.com/item?id=44071154) - [Airhull lets electric boats glide on a layer of air](https://www.heise.de/en/news/Pascal-Technologies-Airhull-lets-electric-boats-glide-on-a-layer-of-air-10392755.html)
 * [2025-05-23, 07:50:54](https://news.ycombinator.com/item?id=44070812) - [Show HN: GetStack.dev – Track GitHub open-source trends](https://getstack.dev)
 * [2025-05-23, 07:30:56](https://news.ycombinator.com/item?id=44070716) - [College English majors can't read](https://kittenbeloved.substack.com/p/college-english-majors-cant-read)
