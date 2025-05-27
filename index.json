@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-27, 01:23:31",
+      "https://news.ycombinator.com/item?id=44103131"
+    ],
+    [
+      "The UI future is colourful and dimensional",
+      "https://www.flarup.email/p/the-future-is-colourful-and-dimensional"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 01:20:29",
       "https://news.ycombinator.com/item?id=44103116"
     ],
@@ -57,16 +67,6 @@
     [
       "FromSoft's singular mech game Chromehounds is back online",
       "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 22:53:51",
-      "https://news.ycombinator.com/item?id=44102376"
-    ],
-    [
-      "Accessing private GitHub repositories via MCP",
-      "https://invariantlabs.ai/blog/mcp-github-vulnerability"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-05-26, 16:37:02",
-      "https://news.ycombinator.com/item?id=44099006"
-    ],
-    [
-      "Hacker News now runs on top of Common Lisp",
-      "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 16:05:21",
       "https://news.ycombinator.com/item?id=44098706"
     ],
@@ -201,22 +191,22 @@
   ],
   [
     [
-      "2025-05-26, 16:05:18",
-      "https://news.ycombinator.com/item?id=44098705"
-    ],
-    [
-      "Creating Debian packages from upstream Git",
-      "https://optimizedbyotto.com/post/debian-packaging-from-git/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 15:37:12",
       "https://news.ycombinator.com/item?id=44098442"
     ],
     [
       "WavePhoenix – open-source implementation of the Nintendo WaveBird protocol",
       "https://github.com/loopj/wavephoenix"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 13:46:25",
+      "https://news.ycombinator.com/item?id=44097390"
+    ],
+    [
+      "GitHub MCP exploited: Accessing private repositories via MCP",
+      "https://invariantlabs.ai/blog/mcp-github-vulnerability"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Like a hot dog, the Wienermobile is made from a variety of ingredients (2022)",
       "https://www.roadandtrack.com/car-culture/a38734853/wienermobile-has-corvette-g-wagen-and-nsx-parts/"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 12:40:15",
+      "https://news.ycombinator.com/item?id=44072309"
+    ],
+    [
+      "High strength bio-concrete for the production of building components",
+      "https://www.nature.com/articles/s44296-023-00004-6"
     ]
   ],
   [
