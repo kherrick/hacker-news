@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-05-27, 18:00:55",
-      "https://news.ycombinator.com/item?id=44109239"
-    ],
-    [
-      "Women 3x More Likely to Lose Job to AI Than Men, UN Study Finds",
-      "https://www.allsides.com/story/economy-and-jobs-women-3x-more-likely-lose-job-ai-men-un-study-finds"
-    ]
-  ],
-  [
-    [
       "2025-05-27, 17:42:15",
       "https://news.ycombinator.com/item?id=44109090"
     ],
@@ -77,16 +67,6 @@
     [
       "Show HN: Malai – securely share local TCP services (database/SSH) with others",
       "https://malai.sh/hello-tcp/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 14:09:42",
-      "https://news.ycombinator.com/item?id=44107187"
-    ],
-    [
-      "Mistral Agents API",
-      "https://mistral.ai/news/agents-api"
     ]
   ],
   [
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2025-05-26, 21:25:56",
+      "https://news.ycombinator.com/item?id=44101833"
+    ],
+    [
+      "Highlights from the Claude 4 system prompt",
+      "https://simonwillison.net/2025/May/25/claude-4-system-prompt/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 19:20:19",
       "https://news.ycombinator.com/item?id=44100677"
     ],
     [
       "Trying to teach in the age of the AI homework machine",
       "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 18:32:02",
+      "https://news.ycombinator.com/item?id=44100179"
+    ],
+    [
+      "Lossless video compression using Bloom filters",
+      "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md"
     ]
   ],
   [
