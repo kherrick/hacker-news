@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-27, 02:27:19",
+      "https://news.ycombinator.com/item?id=44103431"
+    ],
+    [
+      "Grammars of Formal Uncertainty",
+      "https://arxiv.org/abs/2505.20047"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 02:25:38",
       "https://news.ycombinator.com/item?id=44103416"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44102988"
     ],
     [
-      "15 years after servers shut down, FromSoft's mech game Chromehounds back online",
+      "FromSoft's singular mech game Chromehounds is back online",
       "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Iron Spring PL/I Compiler",
       "http://www.iron-spring.com/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 20:59:06",
-      "https://news.ycombinator.com/item?id=44101619"
-    ],
-    [
-      "CSS Painting API",
-      "https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API"
     ]
   ],
   [
@@ -181,22 +181,22 @@
   ],
   [
     [
+      "2025-05-26, 16:37:02",
+      "https://news.ycombinator.com/item?id=44099006"
+    ],
+    [
+      "Hacker News now runs on top of Common Lisp",
+      "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 16:05:21",
       "https://news.ycombinator.com/item?id=44098706"
     ],
     [
       "Launch HN: Nomi (YC X25) – Copilot for Sales",
       "https://news.ycombinator.com/item?id=44098706"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 16:05:18",
-      "https://news.ycombinator.com/item?id=44098705"
-    ],
-    [
-      "Creating Debian packages from upstream Git",
-      "https://optimizedbyotto.com/post/debian-packaging-from-git/"
     ]
   ],
   [
