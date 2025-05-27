@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-27, 11:46:30",
+      "https://news.ycombinator.com/item?id=44105965"
+    ],
+    [
+      "How a hawk learned to use traffic signals to hunt more successfully",
+      "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 11:15:15",
+      "https://news.ycombinator.com/item?id=44105796"
+    ],
+    [
+      "BGP handling bug causes widespread internet routing instability",
+      "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 10:55:54",
+      "https://news.ycombinator.com/item?id=44105696"
+    ],
+    [
+      "Canon Law Ninja",
+      "https://canonlaw.ninja/"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 10:39:30",
       "https://news.ycombinator.com/item?id=44105619"
     ],
@@ -17,6 +47,26 @@
     [
       "The Myth of Developer Obsolescence",
       "https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 10:03:00",
+      "https://news.ycombinator.com/item?id=44105470"
+    ],
+    [
+      "Revisiting the Algorithm That Changed Horse Race Betting",
+      "https://actamachina.com/posts/annotated-benter-paper"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 09:50:04",
+      "https://news.ycombinator.com/item?id=44105412"
+    ],
+    [
+      "LiveStore: State management based on reactive SQLite and built-in sync engine",
+      "https://livestore.dev"
     ]
   ],
   [
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2025-05-27, 00:52:43",
-      "https://news.ycombinator.com/item?id=44102988"
-    ],
-    [
-      "FromSoft's singular mech game Chromehounds is back online",
-      "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 21:54:01",
       "https://news.ycombinator.com/item?id=44102034"
     ],
@@ -107,16 +147,6 @@
     [
       "Get PC BIOS back on UEFI only system",
       "https://github.com/FlyGoat/csmwrap"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 20:27:59",
-      "https://news.ycombinator.com/item?id=44101349"
-    ],
-    [
-      "Owls in Towels",
-      "https://owlsintowels.org/"
     ]
   ],
   [
@@ -167,26 +197,6 @@
     [
       "Show HN: PgDog – Shard Postgres without extensions",
       "https://github.com/pgdogdev/pgdog"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 16:37:02",
-      "https://news.ycombinator.com/item?id=44099006"
-    ],
-    [
-      "Hacker News now runs on top of Common Lisp",
-      "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 16:05:21",
-      "https://news.ycombinator.com/item?id=44098706"
-    ],
-    [
-      "Launch HN: Nomi (YC X25) – Copilot for Sales",
-      "https://news.ycombinator.com/item?id=44098706"
     ]
   ],
   [
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=44083235"
     ],
     [
-      "SVG Favicons in Action",
+      "SVG favicons in action",
       "https://css-tricks.com/svg-favicons-in-action/"
     ]
   ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2025-05-23, 12:40:15",
-      "https://news.ycombinator.com/item?id=44072309"
-    ],
-    [
-      "High strength bio-concrete for the production of building components",
-      "https://www.nature.com/articles/s44296-023-00004-6"
-    ]
-  ],
-  [
-    [
       "2025-05-23, 11:05:18",
       "https://news.ycombinator.com/item?id=44071722"
     ],
     [
-      "Rock, Paper, Scissors that learns how you play using Markov chains",
+      "Rock, paper, scissors showdown",
       "https://luduxia.com/showdown/"
     ]
   ],
