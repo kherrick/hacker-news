@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-27, 13:44:21",
+      "https://news.ycombinator.com/item?id=44106944"
+    ],
+    [
+      "Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)",
+      "https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 13:43:11",
       "https://news.ycombinator.com/item?id=44106934"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44105470"
     ],
     [
-      "Revisiting the Algorithm That Changed Horse Race Betting",
+      "Revisiting the Algorithm That Changed Horse Race Betting (2023)",
       "https://actamachina.com/posts/annotated-benter-paper"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Diligent (YC S23) Is Hiring a Founding AI Engineer",
       "https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 04:52:38",
-      "https://news.ycombinator.com/item?id=44104008"
-    ],
-    [
-      "Mesa3D Drivers for Windows",
-      "https://github.com/pal1000/mesa-dist-win"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-05-26, 16:05:21",
-      "https://news.ycombinator.com/item?id=44098706"
-    ],
-    [
-      "Launch HN: Nomi (YC X25) – Copilot for Sales",
-      "https://news.ycombinator.com/item?id=44098706"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 13:46:25",
       "https://news.ycombinator.com/item?id=44097390"
     ],
@@ -267,6 +257,16 @@
     [
       "Clojure MCP",
       "https://github.com/bhauman/clojure-mcp"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 20:06:53",
+      "https://news.ycombinator.com/item?id=44083477"
+    ],
+    [
+      "My Cute Homelab",
+      "https://jan.wildeboer.net/2025/05/Cute-Homelab/"
     ]
   ],
   [
