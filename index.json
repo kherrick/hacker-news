@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-27, 15:59:23",
+      "https://news.ycombinator.com/item?id=44108207"
+    ],
+    [
+      "I salvaged $6k of luxury items discarded by Duke students",
+      "https://indyweek.com/culture/duke-students-dumpster-diving/"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 15:59:20",
       "https://news.ycombinator.com/item?id=44108206"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44107655"
     ],
     [
-      "Pyrefly vs. Ty: Comparing Python's Two New Rust-Based Type Checkers",
+      "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
       "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44106944"
     ],
     [
-      "Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)",
+      "Why Cline doesn't index your codebase",
       "https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-05-27, 09:50:04",
-      "https://news.ycombinator.com/item?id=44105412"
-    ],
-    [
-      "LiveStore: State management based on reactive SQLite and built-in sync engine",
-      "https://livestore.dev"
-    ]
-  ],
-  [
-    [
       "2025-05-27, 03:58:07",
       "https://news.ycombinator.com/item?id=44103839"
     ],
@@ -191,32 +191,12 @@
   ],
   [
     [
-      "2025-05-26, 21:25:56",
-      "https://news.ycombinator.com/item?id=44101833"
-    ],
-    [
-      "Highlights from the Claude 4 system prompt",
-      "https://simonwillison.net/2025/May/25/claude-4-system-prompt/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 19:20:19",
       "https://news.ycombinator.com/item?id=44100677"
     ],
     [
       "Trying to teach in the age of the AI homework machine",
       "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 18:32:02",
-      "https://news.ycombinator.com/item?id=44100179"
-    ],
-    [
-      "Lossless video compression using Bloom filters",
-      "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2025-05-25, 05:05:15",
+      "https://news.ycombinator.com/item?id=44085662"
+    ],
+    [
+      "A SomewhatMaxSAT Solver",
+      "https://blog.jak-linux.org/2025/05/24/somewhatmax-sat-solver/"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 20:06:19",
       "https://news.ycombinator.com/item?id=44083474"
     ],
@@ -287,6 +277,16 @@
     [
       "Right-Truncatable Prime Counter",
       "https://github.com/EbodShojaei/Right-Truncatable-Primes"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 08:41:01",
+      "https://news.ycombinator.com/item?id=44079729"
+    ],
+    [
+      "Cows get GPS collars to stop them falling in river",
+      "https://www.bbc.co.uk/news/articles/cj4229k744lo"
     ]
   ],
   [
