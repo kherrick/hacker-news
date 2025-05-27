@@ -48,6 +48,7 @@
 * [2025-05-26, 14:16:11](https://news.ycombinator.com/item?id=44097637) - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
 * [2025-05-26, 14:06:22](https://news.ycombinator.com/item?id=44097539) - [\"Grok 3's Think mode identifies as Claude 3.5 Sonnet](https://www.websmithing.com/2025/05/24/grok-3-accidentally-reveals-its-actually-running-claude-3-5-sonnet/)
 * [2025-05-26, 14:00:50](https://news.ycombinator.com/item?id=44097490) - [Google Is Burying the Web Alive](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html)
+* [2025-05-26, 13:46:25](https://news.ycombinator.com/item?id=44097390) - [GitHub MCP exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 * [2025-05-26, 13:46:11](https://news.ycombinator.com/item?id=44097387) - [Nick Clegg says asking artists for use permission would 'kill' AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
 * [2025-05-26, 13:40:47](https://news.ycombinator.com/item?id=44097350) - [$64B of data center projects blocked or delayed amid local opposition](https://www.datacenterwatch.org/report)
 * [2025-05-26, 13:35:20](https://news.ycombinator.com/item?id=44097311) - [As a programmer, get your math sorted](https://www.csprimer.in/series/dm)

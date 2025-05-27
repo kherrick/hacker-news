@@ -49,6 +49,7 @@
 * [2025-05-23, 13:56:36](https://news.ycombinator.com/item?id=44072929) - [Show HN: Open-source protein and ligand viewer](https://github.com/David-OConnor/daedalus)
 * [2025-05-23, 13:55:48](https://news.ycombinator.com/item?id=44072922) - [Amdash – Human only punctuation mark](https://www.theamdash.com)
 * [2025-05-23, 13:39:26](https://news.ycombinator.com/item?id=44072788) - [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
+* [2025-05-23, 12:40:15](https://news.ycombinator.com/item?id=44072309) - [High strength bio-concrete for the production of building components](https://www.nature.com/articles/s44296-023-00004-6)
 * [2025-05-23, 12:14:22](https://news.ycombinator.com/item?id=44072137) - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
 * [2025-05-23, 12:04:27](https://news.ycombinator.com/item?id=44072081) - [Ship footage captures sound of Titan sub imploding](https://www.bbc.com/news/articles/c5yg5qggvwjo)
 * [2025-05-23, 11:46:40](https://news.ycombinator.com/item?id=44071960) - [FizzBuzz Through Monoids](https://entropicthoughts.com/fizzbuzz-through-monoids)
