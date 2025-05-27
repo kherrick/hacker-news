@@ -6,11 +6,13 @@
 
 * [2025-05-27, 18:02:51](https://news.ycombinator.com/item?id=44109257) - [Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming](https://nathan.rs/posts/gpu-shader-programming/)
 * [2025-05-27, 18:02:14](https://news.ycombinator.com/item?id=44109253) - [US pauses new student visa interviews as it mulls expanding social media vetting](https://www.politico.com/news/2025/05/27/trump-team-orders-stop-to-new-student-visa-interviews-as-it-weighs-expanding-social-media-vetting-00370501)
+* [2025-05-27, 18:00:55](https://news.ycombinator.com/item?id=44109239) - [Women 3x More Likely to Lose Job to AI Than Men, UN Study Finds](https://www.allsides.com/story/economy-and-jobs-women-3x-more-likely-lose-job-ai-men-un-study-finds)
 * [2025-05-27, 17:42:15](https://news.ycombinator.com/item?id=44109090) - [Roundtable (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff)
 * [2025-05-27, 17:41:13](https://news.ycombinator.com/item?id=44109078) - [Signal to Windows Recall: Drop Dead](https://www.computerworld.com/article/3994265/signal-to-windows-recall-drop-dead.html)
 * [2025-05-27, 15:59:23](https://news.ycombinator.com/item?id=44108207) - [I Salvaged $6k of Luxury Items Discarded by Duke Students](https://indyweek.com/culture/duke-students-dumpster-diving/)
 * [2025-05-27, 15:59:20](https://news.ycombinator.com/item?id=44108206) - [Launch HN: Relace (YC W23) – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
 * [2025-05-27, 15:33:55](https://news.ycombinator.com/item?id=44107942) - [Square Theory](https://aaronson.org/blog/square-theory)
+* [2025-05-27, 15:13:03](https://news.ycombinator.com/item?id=44107758) - [Show HN: Free mammogram analysis tool combining deep learning and vision LLM](http://mammo.neuralrad.com:5300)
 * [2025-05-27, 15:01:55](https://news.ycombinator.com/item?id=44107655) - [Pyrefly vs. Ty: Comparing Python's Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
 * [2025-05-27, 14:34:40](https://news.ycombinator.com/item?id=44107393) - [Show HN: Malai – securely share local TCP services (database/SSH) with others](https://malai.sh/hello-tcp/)
 * [2025-05-27, 14:09:42](https://news.ycombinator.com/item?id=44107187) - [Mistral Agents API](https://mistral.ai/news/agents-api)
