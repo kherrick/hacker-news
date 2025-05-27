@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-05-27, 15:59:20",
+      "https://news.ycombinator.com/item?id=44108206"
+    ],
+    [
+      "Launch HN: Relace (YC W23) – Models for fast and reliable codegen",
+      "https://news.ycombinator.com/item?id=44108206"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 15:33:55",
       "https://news.ycombinator.com/item?id=44107942"
     ],
     [
       "Square Theory",
       "https://aaronson.org/blog/square-theory"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 15:01:55",
+      "https://news.ycombinator.com/item?id=44107655"
+    ],
+    [
+      "Pyrefly vs. Ty: Comparing Python's Two New Rust-Based Type Checkers",
+      "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-05-27, 01:23:31",
-      "https://news.ycombinator.com/item?id=44103131"
-    ],
-    [
-      "The UI future is colourful and dimensional",
-      "https://www.flarup.email/p/the-future-is-colourful-and-dimensional"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 21:54:01",
       "https://news.ycombinator.com/item?id=44102034"
     ],
@@ -197,16 +207,6 @@
     [
       "Highlights from the Claude 4 system prompt",
       "https://simonwillison.net/2025/May/25/claude-4-system-prompt/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 21:25:09",
-      "https://news.ycombinator.com/item?id=44101828"
-    ],
-    [
-      "Get PC BIOS back on UEFI only system",
-      "https://github.com/FlyGoat/csmwrap"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-05-26, 17:15:19",
-      "https://news.ycombinator.com/item?id=44099407"
-    ],
-    [
-      "TSMC bets on unorthodox optical tech",
-      "https://spectrum.ieee.org/microled-optical-chiplet"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 16:55:49",
       "https://news.ycombinator.com/item?id=44099187"
     ],
@@ -267,6 +257,16 @@
     [
       "GitHub MCP exploited: Accessing private repositories via MCP",
       "https://invariantlabs.ai/blog/mcp-github-vulnerability"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 08:41:13",
+      "https://news.ycombinator.com/item?id=44086456"
+    ],
+    [
+      "From OpenAPI spec to MCP: How we built Xata's MCP server",
+      "https://xata.io/blog/built-xata-mcp-server"
     ]
   ],
   [
