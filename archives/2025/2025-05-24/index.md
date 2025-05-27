@@ -36,6 +36,7 @@
 * [2025-05-24, 15:18:56](https://news.ycombinator.com/item?id=44081673) - [From Hosts.txt to Modern Internet Infrastructure](https://axonshield.com/from-hoststxt-to-modern-internet-infrastructure)
 * [2025-05-24, 15:03:37](https://news.ycombinator.com/item?id=44081586) - [The Goodness of Good Writing](https://paulgraham.com/goodwriting.html)
 * [2025-05-24, 14:49:02](https://news.ycombinator.com/item?id=44081494) - [You're a little company, now act like one](https://longform.asmartbear.com/little-company/)
+* [2025-05-24, 14:33:47](https://news.ycombinator.com/item?id=44081395) - [The Hobby Computer Culture](https://technicshistory.com/2025/05/24/the-hobby-computer-culture/)
 * [2025-05-24, 14:26:48](https://news.ycombinator.com/item?id=44081346) - [AI, Heidegger, and Evangelion](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion)
 * [2025-05-24, 14:25:45](https://news.ycombinator.com/item?id=44081338) - [I used o3 to find a remote zeroday in the Linux SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 13:45:02](https://news.ycombinator.com/item?id=44081081) - [Peer Programming with LLMs, for Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
