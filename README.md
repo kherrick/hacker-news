@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-27, 23:47:15](https://news.ycombinator.com/item?id=44111616) - [Starship Flight 9 launches successfully, booster explodes on impact [video]](https://www.youtube.com/watch?v=okOzxHN9NOA)
 * [2025-05-27, 21:48:54](https://news.ycombinator.com/item?id=44110931) - [Mustard Watches (1990)](https://girard.perso.math.cnrs.fr/mustard/article.html)
 * [2025-05-27, 20:53:03](https://news.ycombinator.com/item?id=44110584) - [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
 * [2025-05-27, 20:09:58](https://news.ycombinator.com/item?id=44110270) - [In Vietnam, an unlikely outpost for Chicano culture](https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam)
@@ -28,7 +29,6 @@
 * [2025-05-24, 20:06:19](https://news.ycombinator.com/item?id=44083474) - [Worlds first petahertz transistor at ambient conditions](https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions)
 * [2025-05-24, 14:33:47](https://news.ycombinator.com/item?id=44081395) - [The Hobby Computer Culture](https://technicshistory.com/2025/05/24/the-hobby-computer-culture/)
 * [2025-05-24, 14:32:11](https://news.ycombinator.com/item?id=44081383) - [Semicolons bring the drama; that's why I love them](https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02)
-* [2025-05-24, 08:41:01](https://news.ycombinator.com/item?id=44079729) - [Cows get GPS collars to stop them falling in river](https://www.bbc.co.uk/news/articles/cj4229k744lo)
 * [2025-05-23, 17:15:28](https://news.ycombinator.com/item?id=44074626) - [Comparing Docusaurus and Starlight and why we made the switch](https://glasskube.dev/blog/distr-docs/)
 
 ## [Archives](archives/index.md)
