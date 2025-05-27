@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-27, 18:51:39](https://news.ycombinator.com/item?id=44109664) - [Show HN: Maestro – A Framework to Orchestrate and Ground Competing AI Models](https://news.ycombinator.com/item?id=44109664)
 * [2025-05-27, 18:02:51](https://news.ycombinator.com/item?id=44109257) - [Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming](https://nathan.rs/posts/gpu-shader-programming/)
 * [2025-05-27, 17:42:15](https://news.ycombinator.com/item?id=44109090) - [Roundtable (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff)
 * [2025-05-27, 15:59:23](https://news.ycombinator.com/item?id=44108207) - [I salvaged $6k of luxury items discarded by Duke students](https://indyweek.com/culture/duke-students-dumpster-diving/)
@@ -27,7 +28,6 @@
 * [2025-05-25, 05:05:15](https://news.ycombinator.com/item?id=44085662) - [A SomewhatMaxSAT Solver](https://blog.jak-linux.org/2025/05/24/somewhatmax-sat-solver/)
 * [2025-05-24, 20:06:19](https://news.ycombinator.com/item?id=44083474) - [Worlds first petahertz transistor at ambient conditions](https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions)
 * [2025-05-24, 14:33:47](https://news.ycombinator.com/item?id=44081395) - [The Hobby Computer Culture](https://technicshistory.com/2025/05/24/the-hobby-computer-culture/)
-* [2025-05-24, 11:54:40](https://news.ycombinator.com/item?id=44080472) - [Right-Truncatable Prime Counter](https://github.com/EbodShojaei/Right-Truncatable-Primes)
 * [2025-05-24, 08:41:01](https://news.ycombinator.com/item?id=44079729) - [Cows get GPS collars to stop them falling in river](https://www.bbc.co.uk/news/articles/cj4229k744lo)
 * [2025-05-23, 17:15:28](https://news.ycombinator.com/item?id=44074626) - [Comparing Docusaurus and Starlight and why we made the switch](https://glasskube.dev/blog/distr-docs/)
 
