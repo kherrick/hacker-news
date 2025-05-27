@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-05-27, 01:23:31",
-      "https://news.ycombinator.com/item?id=44103131"
+      "2025-05-27, 02:25:38",
+      "https://news.ycombinator.com/item?id=44103416"
     ],
     [
-      "The UI Future Is Colourful and Dimensional",
-      "https://www.flarup.email/p/the-future-is-colourful-and-dimensional"
+      "Show HN: I made a running app that turns your runs to a virtual garden",
+      "https://www.runandgrow.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 01:20:29",
+      "https://news.ycombinator.com/item?id=44103116"
+    ],
+    [
+      "Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command",
+      "https://github.com/jedisct1/yes-rs"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Calendars, Contacts and Files in Stalwart",
       "https://stalw.art/blog/collaboration/"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 01:00:57",
+      "https://news.ycombinator.com/item?id=44103027"
+    ],
+    [
+      "Forester, a tool for scientific and mathematical hypertexts",
+      "https://www.forester-notes.org/index/index.xml"
     ]
   ],
   [
@@ -77,26 +97,6 @@
     [
       "Iron Spring PL/I Compiler",
       "http://www.iron-spring.com/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 21:11:58",
-      "https://news.ycombinator.com/item?id=44101724"
-    ],
-    [
-      "Sqawk: A fusion of SQL and Awk: Applying SQL to text-based data files",
-      "https://github.com/jgarzik/sqawk"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 21:07:31",
-      "https://news.ycombinator.com/item?id=44101691"
-    ],
-    [
-      "Access Control Syntax",
-      "https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "Show HN: PgDog – Shard Postgres without extensions",
       "https://github.com/pgdogdev/pgdog"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 16:37:02",
-      "https://news.ycombinator.com/item?id=44099006"
-    ],
-    [
-      "Hacker News now runs on top of Common Lisp",
-      "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "SVG Favicons in Action",
       "https://css-tricks.com/svg-favicons-in-action/"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 17:36:11",
+      "https://news.ycombinator.com/item?id=44074787"
+    ],
+    [
+      "Like a hot dog, the Wienermobile is made from a variety of ingredients (2022)",
+      "https://www.roadandtrack.com/car-culture/a38734853/wienermobile-has-corvette-g-wagen-and-nsx-parts/"
     ]
   ],
   [
