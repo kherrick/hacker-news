@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-26, 22:54:53](https://news.ycombinator.com/item?id=44102378) - [Most leading chatbots routinely exaggerate science findings](https://www.uu.nl/en/news/most-leading-chatbots-routinely-exaggerate-science-findings)
-* [2025-05-26, 22:50:15](https://news.ycombinator.com/item?id=44102366) - [Show HN: AI for Building Design, Planning, and Permitting](https://www.spacial.io/)
+* [2025-05-26, 22:53:51](https://news.ycombinator.com/item?id=44102376) - [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 * [2025-05-26, 21:54:01](https://news.ycombinator.com/item?id=44102034) - [Power Failure](https://www.gwintrob.com/power-failure-review/)
 * [2025-05-26, 21:31:07](https://news.ycombinator.com/item?id=44101875) - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
 * [2025-05-26, 21:25:56](https://news.ycombinator.com/item?id=44101833) - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
@@ -22,14 +21,15 @@
 * [2025-05-26, 16:05:21](https://news.ycombinator.com/item?id=44098706) - [Launch HN: Nomi (YC X25) – Copilot for Sales](https://news.ycombinator.com/item?id=44098706)
 * [2025-05-26, 16:05:18](https://news.ycombinator.com/item?id=44098705) - [Creating Debian packages from upstream Git](https://optimizedbyotto.com/post/debian-packaging-from-git/)
 * [2025-05-26, 15:37:12](https://news.ycombinator.com/item?id=44098442) - [WavePhoenix – open-source implementation of the Nintendo WaveBird protocol](https://github.com/loopj/wavephoenix)
-* [2025-05-26, 14:50:48](https://news.ycombinator.com/item?id=44097986) - [TeleMessage Explorer: a new open source research tool](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [A new class of materials that can passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
 * [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
 * [2025-05-25, 10:14:30](https://news.ycombinator.com/item?id=44086803) - [Changelog: Lazy trees (faster Nix builds)](https://determinate.systems/posts/changelog-determinate-nix-352/)
 * [2025-05-24, 23:24:56](https://news.ycombinator.com/item?id=44084383) - [Improving performance of original dav1d video decoder](https://code.videolan.org/videolan/dav1d/-/merge_requests/1788)
+* [2025-05-24, 19:24:12](https://news.ycombinator.com/item?id=44083235) - [SVG Favicons in Action](https://css-tricks.com/svg-favicons-in-action/)
 * [2025-05-23, 23:27:47](https://news.ycombinator.com/item?id=44077531) - [Ultra-low power, miniature electrophysiological electronics](https://starfishneuroscience.com/blog/ultra-low-power-miniature-electrophysiological-electronics/)
+* [2025-05-23, 01:28:15](https://news.ycombinator.com/item?id=44068945) - [New DSL \"MassQL\" lets scientists query mass spectrometry data](https://news.ucr.edu/articles/2025/05/12/new-computer-language-helps-spot-hidden-pollutants)
 
 ## [Archives](archives/index.md)
 
