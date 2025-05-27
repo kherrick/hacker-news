@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-27, 04:52:38",
+      "https://news.ycombinator.com/item?id=44104008"
+    ],
+    [
+      "Mesa3D Drivers for Windows",
+      "https://github.com/pal1000/mesa-dist-win"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 03:58:07",
       "https://news.ycombinator.com/item?id=44103839"
     ],
@@ -227,16 +237,6 @@
     [
       "TIL: timeout in Bash scripts",
       "https://heitorpb.github.io/bla/timeout/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 10:14:30",
-      "https://news.ycombinator.com/item?id=44086803"
-    ],
-    [
-      "Changelog: Lazy trees (faster Nix builds)",
-      "https://determinate.systems/posts/changelog-determinate-nix-352/"
     ]
   ],
   [
