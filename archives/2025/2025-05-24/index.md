@@ -47,6 +47,7 @@
 * [2025-05-24, 12:27:51](https://news.ycombinator.com/item?id=44080640) - [Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa)
 * [2025-05-24, 12:08:15](https://news.ycombinator.com/item?id=44080549) - [Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html)
 * [2025-05-24, 12:06:06](https://news.ycombinator.com/item?id=44080533) - [The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/)
+* [2025-05-24, 11:54:40](https://news.ycombinator.com/item?id=44080472) - [Right-Truncatable Prime Counter](https://github.com/EbodShojaei/Right-Truncatable-Primes)
 * [2025-05-24, 11:41:19](https://news.ycombinator.com/item?id=44080410) - [Show HN: Lnk – Git-native dotfiles manager](https://github.com/yarlson/lnk)
 * [2025-05-24, 11:02:22](https://news.ycombinator.com/item?id=44080237) - [Tariffs in American History](https://imprimis.hillsdale.edu/tariffs-in-american-history/)
 * [2025-05-24, 10:49:47](https://news.ycombinator.com/item?id=44080181) - [DumPy: NumPy except it's OK if you're dum](https://dynomight.net/dumpy/)

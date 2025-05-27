@@ -33,6 +33,7 @@
 * [2025-05-23, 17:21:22](https://news.ycombinator.com/item?id=44074672) - [Why is file storage and CDN delivery still so fucking hard even in 2025?](https://filezen.dev)
 * [2025-05-23, 17:20:40](https://news.ycombinator.com/item?id=44074668) - [LLM Judges Are Unreliable](https://www.cip.org/blog/llm-judges-are-unreliable)
 * [2025-05-23, 17:17:26](https://news.ycombinator.com/item?id=44074637) - [Into The Tunnel: The secret life of wind tunnels](https://jordanwtaylor2.substack.com/p/into-the-tunnel)
+* [2025-05-23, 17:15:28](https://news.ycombinator.com/item?id=44074626) - [Comparing Docusaurus and Starlight and why we made the switch](https://glasskube.dev/blog/distr-docs/)
 * [2025-05-23, 17:08:22](https://news.ycombinator.com/item?id=44074567) - [Why console makers can legally brick your game console](https://arstechnica.com/gaming/2025/05/why-console-makers-can-legally-brick-your-game-console/)
 * [2025-05-23, 17:03:10](https://news.ycombinator.com/item?id=44074531) - [You Don't Need Re-Ranking: Understanding the Superlinked Vector Layer](https://superlinked.com/vectorhub/articles/why-do-not-need-re-ranking)
 * [2025-05-23, 16:58:39](https://news.ycombinator.com/item?id=44074487) - [Sesame Scheme: Unintended Consequences of Allergen Food Labeling](https://www.choicesmagazine.org/choices-magazine/submitted-articles/unintended-consequences-of-allergen-food-labeling)
