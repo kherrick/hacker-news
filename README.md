@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-27, 14:34:40](https://news.ycombinator.com/item?id=44107393) - [Show HN: Malai – securely share local TCP services (database/SSH) with others](https://malai.sh/hello-tcp/)
 * [2025-05-27, 13:44:21](https://news.ycombinator.com/item?id=44106944) - [Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)](https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing)
 * [2025-05-27, 13:43:11](https://news.ycombinator.com/item?id=44106934) - [DuckLake is an integrated data lake and catalog format](https://ducklake.select/)
 * [2025-05-27, 13:25:45](https://news.ycombinator.com/item?id=44106764) - [The Art of Fugue – Contrapunctus I (2021)](https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/)
@@ -26,7 +27,6 @@
 * [2025-05-26, 16:55:49](https://news.ycombinator.com/item?id=44099187) - [Show HN: PgDog – Shard Postgres without extensions](https://github.com/pgdogdev/pgdog)
 * [2025-05-26, 13:46:25](https://news.ycombinator.com/item?id=44097390) - [GitHub MCP exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 * [2025-05-25, 06:48:39](https://news.ycombinator.com/item?id=44086062) - [Clojure MCP](https://github.com/bhauman/clojure-mcp)
-* [2025-05-24, 20:06:53](https://news.ycombinator.com/item?id=44083477) - [My Cute Homelab](https://jan.wildeboer.net/2025/05/Cute-Homelab/)
 * [2025-05-24, 20:06:19](https://news.ycombinator.com/item?id=44083474) - [Worlds first petahertz transistor at ambient conditions](https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions)
 * [2025-05-23, 11:05:18](https://news.ycombinator.com/item?id=44071722) - [Rock, paper, scissors showdown](https://luduxia.com/showdown/)
 * [2025-05-23, 09:33:46](https://news.ycombinator.com/item?id=44071321) - [Ask HN: What projects do you donate to?](https://news.ycombinator.com/item?id=44071321)

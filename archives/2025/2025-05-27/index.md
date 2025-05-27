@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 14:34:40](https://news.ycombinator.com/item?id=44107393) - [Show HN: Malai – securely share local TCP services (database/SSH) with others](https://malai.sh/hello-tcp/)
 * [2025-05-27, 13:44:21](https://news.ycombinator.com/item?id=44106944) - [Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)](https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing)
 * [2025-05-27, 13:43:11](https://news.ycombinator.com/item?id=44106934) - [DuckLake is an integrated data lake and catalog format](https://ducklake.select/)
 * [2025-05-27, 13:25:45](https://news.ycombinator.com/item?id=44106764) - [The Art of Fugue – Contrapunctus I (2021)](https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/)
