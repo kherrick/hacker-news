@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-05-27, 14:09:42",
+      "https://news.ycombinator.com/item?id=44107187"
+    ],
+    [
+      "Mistral Agents API",
+      "https://mistral.ai/news/agents-api"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 13:44:21",
       "https://news.ycombinator.com/item?id=44106944"
     ],
@@ -27,6 +37,16 @@
     [
       "DuckLake is an integrated data lake and catalog format",
       "https://ducklake.select/"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 13:33:38",
+      "https://news.ycombinator.com/item?id=44106842"
+    ],
+    [
+      "Outcome-Based Reinforcement Learning to Predict the Future",
+      "https://arxiv.org/abs/2505.17989"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-05-27, 01:11:04",
-      "https://news.ycombinator.com/item?id=44103071"
-    ],
-    [
-      "Calendars, Contacts and Files in Stalwart",
-      "https://stalw.art/blog/collaboration/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 21:54:01",
       "https://news.ycombinator.com/item?id=44102034"
     ],
@@ -187,16 +197,6 @@
     [
       "Get PC BIOS back on UEFI only system",
       "https://github.com/FlyGoat/csmwrap"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 20:27:59",
-      "https://news.ycombinator.com/item?id=44101349"
-    ],
-    [
-      "Owls in Towels",
-      "https://owlsintowels.org/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-05-24, 14:33:47",
+      "https://news.ycombinator.com/item?id=44081395"
+    ],
+    [
+      "The Hobby Computer Culture",
+      "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 11:05:18",
       "https://news.ycombinator.com/item?id=44071722"
     ],
     [
       "Rock, paper, scissors showdown",
       "https://luduxia.com/showdown/"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 09:33:46",
-      "https://news.ycombinator.com/item?id=44071321"
-    ],
-    [
-      "Ask HN: What projects do you donate to?",
-      "https://news.ycombinator.com/item?id=44071321"
     ]
   ]
 ]
