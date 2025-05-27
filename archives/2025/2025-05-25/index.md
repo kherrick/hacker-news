@@ -53,6 +53,7 @@
 * [2025-05-25, 07:15:31](https://news.ycombinator.com/item?id=44086140) - [Show HN: Photoshop Clone Built in React](https://github.com/chase-manning/react-photo-studio)
 * [2025-05-25, 07:08:51](https://news.ycombinator.com/item?id=44086123) - [Death of Michael Ledeen, maker of the phony case for the invasion of Iraq](https://www.spytalk.co/p/death-of-a-master-manipulator)
 * [2025-05-25, 06:59:34](https://news.ycombinator.com/item?id=44086094) - [Infinite Tool Use](https://snimu.github.io/2025/05/23/infinite-tool-use.html)
+* [2025-05-25, 06:48:39](https://news.ycombinator.com/item?id=44086062) - [Clojure MCP](https://github.com/bhauman/clojure-mcp)
 * [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Cards Highlights](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 * [2025-05-25, 04:54:55](https://news.ycombinator.com/item?id=44085625) - [Mouth bacteria partially spread depression and anxiety in newlywed couples](https://www.xiahepublishing.com/2472-0712/ERHM-2025-00013)
 * [2025-05-25, 03:43:44](https://news.ycombinator.com/item?id=44085354) - [Job Hunting Scripts](https://github.com/CajuM/jobhunt)
