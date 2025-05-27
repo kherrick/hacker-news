@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 11:46:30](https://news.ycombinator.com/item?id=44105965) - [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
+* [2025-05-27, 11:15:15](https://news.ycombinator.com/item?id=44105796) - [BGP handling bug causes widespread internet routing instability](https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident)
+* [2025-05-27, 10:55:54](https://news.ycombinator.com/item?id=44105696) - [Canon Law Ninja](https://canonlaw.ninja/)
 * [2025-05-27, 10:39:30](https://news.ycombinator.com/item?id=44105619) - [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
 * [2025-05-27, 10:33:56](https://news.ycombinator.com/item?id=44105592) - [The Myth of Developer Obsolescence](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
+* [2025-05-27, 10:03:00](https://news.ycombinator.com/item?id=44105470) - [Revisiting the Algorithm That Changed Horse Race Betting](https://actamachina.com/posts/annotated-benter-paper)
+* [2025-05-27, 09:50:04](https://news.ycombinator.com/item?id=44105412) - [LiveStore: State management based on reactive SQLite and built-in sync engine](https://livestore.dev)
 * [2025-05-27, 08:19:24](https://news.ycombinator.com/item?id=44104946) - [Rosettacode is down. Any ideas why?](https://www.rosettacode.com)
 * [2025-05-27, 07:36:53](https://news.ycombinator.com/item?id=44104740) - [He has powered his house for 8 years using laptop batteries](https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/)
 * [2025-05-27, 07:00:41](https://news.ycombinator.com/item?id=44104573) - [Diligent (YC S23) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer)
