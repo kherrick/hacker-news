@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-27, 15:33:55](https://news.ycombinator.com/item?id=44107942) - [Square Theory](https://aaronson.org/blog/square-theory)
 * [2025-05-27, 14:34:40](https://news.ycombinator.com/item?id=44107393) - [Show HN: Malai – securely share local TCP services (database/SSH) with others](https://malai.sh/hello-tcp/)
 * [2025-05-27, 14:09:42](https://news.ycombinator.com/item?id=44107187) - [Mistral Agents API](https://mistral.ai/news/agents-api)
 * [2025-05-27, 13:44:21](https://news.ycombinator.com/item?id=44106944) - [Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)](https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing)
@@ -29,7 +30,6 @@
 * [2025-05-25, 06:48:39](https://news.ycombinator.com/item?id=44086062) - [Clojure MCP](https://github.com/bhauman/clojure-mcp)
 * [2025-05-24, 20:06:19](https://news.ycombinator.com/item?id=44083474) - [Worlds first petahertz transistor at ambient conditions](https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions)
 * [2025-05-24, 14:33:47](https://news.ycombinator.com/item?id=44081395) - [The Hobby Computer Culture](https://technicshistory.com/2025/05/24/the-hobby-computer-culture/)
-* [2025-05-23, 11:05:18](https://news.ycombinator.com/item?id=44071722) - [Rock, paper, scissors showdown](https://luduxia.com/showdown/)
 
 ## [Archives](archives/index.md)
 

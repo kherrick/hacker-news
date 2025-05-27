@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 15:33:55](https://news.ycombinator.com/item?id=44107942) - [Square Theory](https://aaronson.org/blog/square-theory)
 * [2025-05-27, 14:34:40](https://news.ycombinator.com/item?id=44107393) - [Show HN: Malai – securely share local TCP services (database/SSH) with others](https://malai.sh/hello-tcp/)
 * [2025-05-27, 14:09:42](https://news.ycombinator.com/item?id=44107187) - [Mistral Agents API](https://mistral.ai/news/agents-api)
 * [2025-05-27, 13:44:21](https://news.ycombinator.com/item?id=44106944) - [Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)](https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing)
