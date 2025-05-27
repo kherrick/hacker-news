@@ -3,7 +3,7 @@
 * [2025-05-27, 07:00:41](https://news.ycombinator.com/item?id=44104573) - [Diligent (YC S23) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer)
 * [2025-05-27, 04:52:38](https://news.ycombinator.com/item?id=44104008) - [Mesa3D Drivers for Windows](https://github.com/pal1000/mesa-dist-win)
 * [2025-05-27, 03:58:07](https://news.ycombinator.com/item?id=44103839) - [Show HN: Lazy Tetris](https://lazytetris.com/)
-* [2025-05-27, 02:27:19](https://news.ycombinator.com/item?id=44103431) - [Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)
+* [2025-05-27, 02:25:38](https://news.ycombinator.com/item?id=44103416) - [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)
 * [2025-05-27, 01:23:31](https://news.ycombinator.com/item?id=44103131) - [The UI future is colourful and dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
 * [2025-05-27, 01:20:29](https://news.ycombinator.com/item?id=44103116) - [Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command](https://github.com/jedisct1/yes-rs)
 * [2025-05-27, 01:11:04](https://news.ycombinator.com/item?id=44103071) - [Calendars, Contacts and Files in Stalwart](https://stalw.art/blog/collaboration/)
@@ -25,11 +25,11 @@
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
 * [2025-05-25, 06:48:39](https://news.ycombinator.com/item?id=44086062) - [Clojure MCP](https://github.com/bhauman/clojure-mcp)
 * [2025-05-24, 19:24:12](https://news.ycombinator.com/item?id=44083235) - [SVG Favicons in Action](https://css-tricks.com/svg-favicons-in-action/)
+* [2025-05-24, 08:41:01](https://news.ycombinator.com/item?id=44079729) - [Cows get GPS collars to stop them falling in river](https://www.bbc.co.uk/news/articles/cj4229k744lo)
 * [2025-05-23, 18:49:25](https://news.ycombinator.com/item?id=44075409) - [The Monster-Slaying Game You Can Play Almost Anywhere](https://www.nytimes.com/2025/05/21/arts/play-doom-ports.html)
 * [2025-05-23, 12:40:15](https://news.ycombinator.com/item?id=44072309) - [High strength bio-concrete for the production of building components](https://www.nature.com/articles/s44296-023-00004-6)
 * [2025-05-23, 11:05:18](https://news.ycombinator.com/item?id=44071722) - [Rock, Paper, Scissors that learns how you play using markov chains](https://luduxia.com/showdown/)
 * [2025-05-23, 09:33:46](https://news.ycombinator.com/item?id=44071321) - [Ask HN: What projects do you donate to?](https://news.ycombinator.com/item?id=44071321)
-* [2025-05-20, 15:32:09](https://news.ycombinator.com/item?id=44042751) - [Demonstrating end-to-end scientific discovery with Robin: a multi-agent system](https://www.futurehouse.org/research-announcements/demonstrating-end-to-end-scientific-discovery-with-robin-a-multi-agent-system)
 
 ## [Archives](archives/index.md)
 
