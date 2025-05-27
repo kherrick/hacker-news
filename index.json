@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-27, 08:19:24",
+      "https://news.ycombinator.com/item?id=44104946"
+    ],
+    [
+      "Rosettacode is down. Any ideas why?",
+      "https://www.rosettacode.com"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 07:36:53",
+      "https://news.ycombinator.com/item?id=44104740"
+    ],
+    [
+      "He has powered his house for 8 years using laptop batteries",
+      "https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 07:00:41",
       "https://news.ycombinator.com/item?id=44104573"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-05-26, 19:56:02",
-      "https://news.ycombinator.com/item?id=44101072"
-    ],
-    [
-      "The Difference Between Downloading and Streaming",
-      "https://danq.me/2025/05/26/downloading-vs-streaming/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 19:20:19",
       "https://news.ycombinator.com/item?id=44100677"
     ],
@@ -177,16 +187,6 @@
     [
       "Show HN: PgDog – Shard Postgres without extensions",
       "https://github.com/pgdogdev/pgdog"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 16:37:02",
-      "https://news.ycombinator.com/item?id=44099006"
-    ],
-    [
-      "Hacker News now runs on top of Common Lisp",
-      "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
     ]
   ],
   [
