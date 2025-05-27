@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 02:27:19](https://news.ycombinator.com/item?id=44103431) - [Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)
 * [2025-05-27, 02:25:38](https://news.ycombinator.com/item?id=44103416) - [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)
 * [2025-05-27, 01:23:31](https://news.ycombinator.com/item?id=44103131) - [The UI Future Is Colourful and Dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
 * [2025-05-27, 01:20:29](https://news.ycombinator.com/item?id=44103116) - [Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command](https://github.com/jedisct1/yes-rs)
