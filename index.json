@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-28, 10:50:23",
+      "https://news.ycombinator.com/item?id=44114631"
+    ],
+    [
+      "AI: Accelerated Incompetence",
+      "https://www.slater.dev/accelerated-incompetence/"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 10:48:17",
       "https://news.ycombinator.com/item?id=44114621"
     ],
@@ -67,16 +77,6 @@
     [
       "Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning",
       "https://news.ycombinator.com/item?id=44112326"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 02:15:15",
-      "https://news.ycombinator.com/item?id=44112218"
-    ],
-    [
-      "Using Postgres pg_test_fsync tool for testing low latency writes",
-      "https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-05-25, 20:24:56",
+      "https://news.ycombinator.com/item?id=44090776"
+    ],
+    [
+      "The Windows Registry Adventure #7: Attack surface analysis",
+      "https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 11:03:26",
       "https://news.ycombinator.com/item?id=44086973"
     ],
@@ -287,16 +297,6 @@
     [
       "The Hobby Computer Culture",
       "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 14:32:11",
-      "https://news.ycombinator.com/item?id=44081383"
-    ],
-    [
-      "Semicolons bring the drama; that's why I love them",
-      "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02"
     ]
   ]
 ]
