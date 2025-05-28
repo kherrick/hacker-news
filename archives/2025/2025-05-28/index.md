@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
 * [2025-05-28, 02:49:58](https://news.ycombinator.com/item?id=44112357) - [Ask HN: Is anyone using AI conversation partners?](https://news.ycombinator.com/item?id=44112357)
+* [2025-05-28, 02:47:53](https://news.ycombinator.com/item?id=44112349) - [Global high-performance proof-of-stake blockchain with erasure coding](https://github.com/qkniep/alpenglow)
+* [2025-05-28, 02:42:08](https://news.ycombinator.com/item?id=44112338) - [Show HN: Connecting People Through AI-Powered Video Sentiment Matching](https://www.loom.com/share/9b7618a67e7347d9a7a539e89327cc77?sid=26adde55-432c-4cec-a7dd-f2ffad134161)
 * [2025-05-28, 02:39:11](https://news.ycombinator.com/item?id=44112326) - [Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
 * [2025-05-28, 02:25:28](https://news.ycombinator.com/item?id=44112265) - [Theory of Stupidity [pdf]](https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf)
 * [2025-05-28, 02:15:15](https://news.ycombinator.com/item?id=44112218) - [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)

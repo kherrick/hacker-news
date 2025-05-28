@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-28, 02:49:58](https://news.ycombinator.com/item?id=44112357) - [Ask HN: Is anyone using AI conversation partners?](https://news.ycombinator.com/item?id=44112357)
+* [2025-05-28, 02:47:53](https://news.ycombinator.com/item?id=44112349) - [Global high-performance proof-of-stake blockchain with erasure coding](https://github.com/qkniep/alpenglow)
+* [2025-05-28, 02:42:08](https://news.ycombinator.com/item?id=44112338) - [Show HN: Connecting People Through AI-Powered Video Sentiment Matching](https://www.loom.com/share/9b7618a67e7347d9a7a539e89327cc77?sid=26adde55-432c-4cec-a7dd-f2ffad134161)
 * [2025-05-28, 02:39:11](https://news.ycombinator.com/item?id=44112326) - [Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
 * [2025-05-28, 02:25:28](https://news.ycombinator.com/item?id=44112265) - [Theory of Stupidity [pdf]](https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf)
 * [2025-05-28, 02:15:15](https://news.ycombinator.com/item?id=44112218) - [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
@@ -16,7 +17,6 @@
 * [2025-05-27, 15:59:20](https://news.ycombinator.com/item?id=44108206) - [Launch HN: Relace (YC W23) – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
 * [2025-05-27, 15:33:55](https://news.ycombinator.com/item?id=44107942) - [Square Theory](https://aaronson.org/blog/square-theory)
 * [2025-05-27, 15:01:55](https://news.ycombinator.com/item?id=44107655) - [Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
-* [2025-05-27, 13:25:45](https://news.ycombinator.com/item?id=44106764) - [The Art of Fugue – Contrapunctus I (2021)](https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/)
 * [2025-05-27, 11:46:30](https://news.ycombinator.com/item?id=44105965) - [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
 * [2025-05-27, 11:15:15](https://news.ycombinator.com/item?id=44105796) - [BGP handling bug causes widespread internet routing instability](https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident)
 * [2025-05-27, 10:39:30](https://news.ycombinator.com/item?id=44105619) - [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
