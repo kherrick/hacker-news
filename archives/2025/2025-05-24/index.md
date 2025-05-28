@@ -29,6 +29,7 @@
 * [2025-05-24, 17:33:16](https://news.ycombinator.com/item?id=44082544) - [Use ramoops for logging under Linux (2021)](https://embear.ch/posts/using-ramoops/)
 * [2025-05-24, 17:28:03](https://news.ycombinator.com/item?id=44082498) - [Please don't upload my code to GitHub](https://nogithub.codeberg.page/)
 * [2025-05-24, 17:27:49](https://news.ycombinator.com/item?id=44082494) - [It Is Time to Stop Teaching Frequentism to Non-Statisticians (2024)](https://arxiv.org/abs/1201.2590)
+* [2025-05-24, 17:25:33](https://news.ycombinator.com/item?id=44082472) - [Show HN: Terminal Flower Garden](https://github.com/bdavidzhang/flower-garden-cli)
 * [2025-05-24, 17:03:39](https://news.ycombinator.com/item?id=44082326) - [Live facial recognition cameras may become 'commonplace' as police use soars](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales)
 * [2025-05-24, 17:01:10](https://news.ycombinator.com/item?id=44082307) - [Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr)
 * [2025-05-24, 16:59:26](https://news.ycombinator.com/item?id=44082293) - [AI can't even fix a simple bug – but sure, let's fire engineers](https://nmn.gl/blog/ai-scam)

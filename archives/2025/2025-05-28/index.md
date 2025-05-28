@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 12:48:43](https://news.ycombinator.com/item?id=44115467) - [Show HN: Voiden – a free, offline, Git-native API Client](https://voiden.md)
+* [2025-05-28, 12:37:07](https://news.ycombinator.com/item?id=44115369) - [The 'Man-Eater' Screwworm Is Coming](https://www.theatlantic.com/science/archive/2025/05/screwworms-outbreak-united-states/682925/)
+* [2025-05-28, 12:32:03](https://news.ycombinator.com/item?id=44115326) - [The Colorado River is running low. The picture looks even worse underground](https://www.washingtonpost.com/climate-environment/2025/05/27/american-west-drought-water-colorado-river/)
+* [2025-05-28, 12:03:08](https://news.ycombinator.com/item?id=44115064) - [Why Good Ideas Die Quietly and Bad Ideas Go Viral](https://www.newyorker.com/books/under-review/why-good-ideas-die-quietly-and-bad-ideas-go-viral)
 * [2025-05-28, 10:50:23](https://news.ycombinator.com/item?id=44114631) - [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/)
 * [2025-05-28, 10:48:17](https://news.ycombinator.com/item?id=44114621) - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
 * [2025-05-28, 10:42:05](https://news.ycombinator.com/item?id=44114589) - [Driverless Semi Trucks Are Here, with Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html)
