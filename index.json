@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-05-28, 14:11:47",
-      "https://news.ycombinator.com/item?id=44116236"
-    ],
-    [
-      "De-anonymization attacks against the privacy coin XMR",
-      "https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 13:43:38",
       "https://news.ycombinator.com/item?id=44115973"
     ],
@@ -237,6 +227,16 @@
     [
       "YAD: display graphical dialogs from shell scripts or command line",
       "http://yad-guide.ingk.se/#_introduction"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 15:10:00",
+      "https://news.ycombinator.com/item?id=44088392"
+    ],
+    [
+      "Implementing complex numbers and FFT with just datatypes (2023)",
+      "https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c"
     ]
   ],
   [
