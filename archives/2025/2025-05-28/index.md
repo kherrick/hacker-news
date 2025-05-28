@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 08:07:42](https://news.ycombinator.com/item?id=44113735) - [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/4bec46993258f6b7/)
 * [2025-05-28, 07:09:31](https://news.ycombinator.com/item?id=44113397) - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
 * [2025-05-28, 06:40:47](https://news.ycombinator.com/item?id=44113256) - [Another way electric cars clean the air: study says brake dust reduced by 83%](https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/)
 * [2025-05-28, 06:27:11](https://news.ycombinator.com/item?id=44113210) - [As a developer, my most important tools are a pen and a notebook](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/)
