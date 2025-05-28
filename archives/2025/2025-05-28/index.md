@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 14:19:02](https://news.ycombinator.com/item?id=44116298) - [Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device](https://loodio.com/)
+* [2025-05-28, 14:11:47](https://news.ycombinator.com/item?id=44116236) - [Comprehensive Analysis of De-Anonymization Attacks Against the Privacy Coin XMR](https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/)
 * [2025-05-28, 13:43:38](https://news.ycombinator.com/item?id=44115973) - [The Blowtorch Theory: A New Model for Structure Formation in the Universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
 * [2025-05-28, 13:07:57](https://news.ycombinator.com/item?id=44115620) - [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
 * [2025-05-28, 12:48:43](https://news.ycombinator.com/item?id=44115467) - [Show HN: Voiden – a free, offline, Git-native API Client](https://voiden.md)
