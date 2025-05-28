@@ -23,11 +23,11 @@
 * [2025-05-27, 20:53:03](https://news.ycombinator.com/item?id=44110584) - [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
 * [2025-05-27, 15:33:55](https://news.ycombinator.com/item?id=44107942) - [Square Theory](https://aaronson.org/blog/square-theory)
 * [2025-05-26, 05:01:25](https://news.ycombinator.com/item?id=44094109) - [A thought on JavaScript \"proof of work\" anti-scraper systems](https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles)
-* [2025-05-26, 03:56:31](https://news.ycombinator.com/item?id=44093845) - [Homo erectus from the seabed, new archaeological discoveries in Indonesia](https://www.universiteitleiden.nl/en/news/2025/05/homo-erectus-from-the-seabed-new-archaeological-discoveries-in-indonesia)
 * [2025-05-25, 15:10:00](https://news.ycombinator.com/item?id=44088392) - [Implementing complex numbers and FFT with just datatypes (2023)](https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c)
+* [2025-05-25, 14:00:07](https://news.ycombinator.com/item?id=44087898) - [A Visual History of Chessmen](https://chesshistory.github.io/)
+* [2025-05-25, 13:46:56](https://news.ycombinator.com/item?id=44087809) - [What If We Had Bigger Brains? Imagining Minds Beyond Ours](https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/)
 * [2025-05-25, 13:45:07](https://news.ycombinator.com/item?id=44087798) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 * [2025-05-25, 12:38:27](https://news.ycombinator.com/item?id=44087390) - [Mathematical Fiction](https://kasmana.people.charleston.edu/MATHFICT/default.html)
-* [2025-05-25, 11:03:26](https://news.ycombinator.com/item?id=44086973) - [The Level Design Book](https://book.leveldesignbook.com)
 * [2025-05-25, 09:50:06](https://news.ycombinator.com/item?id=44086721) - [Collatz's Ant and Similarity of Landscapes](https://gbragafibra.github.io/2025/05/18/collatz_ant3.html)
 * [2025-05-25, 08:33:46](https://news.ycombinator.com/item?id=44086429) - [Visualize and debug Rust programs with a new lens](https://firedbg.sea-ql.org/)
 
