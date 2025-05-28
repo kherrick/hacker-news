@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 17:34:52](https://news.ycombinator.com/item?id=44118520) - [I am disappointed in the AI discourse](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/)
+* [2025-05-28, 17:22:47](https://news.ycombinator.com/item?id=44118373) - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 * [2025-05-28, 17:01:26](https://news.ycombinator.com/item?id=44118127) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
 * [2025-05-28, 16:53:11](https://news.ycombinator.com/item?id=44118023) - [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
 * [2025-05-28, 16:33:49](https://news.ycombinator.com/item?id=44117779) - [Japan Post launches 'digital address' system](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/)

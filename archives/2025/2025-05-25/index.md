@@ -41,6 +41,7 @@
 * [2025-05-25, 14:02:19](https://news.ycombinator.com/item?id=44087916) - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
 * [2025-05-25, 13:59:12](https://news.ycombinator.com/item?id=44087892) - [Show HN: BetterFriend – a CRM just to be a better friend](https://betterfriend-drab.vercel.app/)
 * [2025-05-25, 13:51:55](https://news.ycombinator.com/item?id=44087844) - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
+* [2025-05-25, 13:45:07](https://news.ycombinator.com/item?id=44087798) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 * [2025-05-25, 13:44:33](https://news.ycombinator.com/item?id=44087793) - [There was a time when the US government built homes for working-class Americans](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512)
 * [2025-05-25, 13:38:46](https://news.ycombinator.com/item?id=44087757) - [Mutmut – Python Mutation Tester](https://github.com/boxed/mutmut)
 * [2025-05-25, 13:33:24](https://news.ycombinator.com/item?id=44087707) - [OpenPOWER Foundation – Open-Source / Open Hardware PowerPC CPU ISA](https://openpowerfoundation.org/)
