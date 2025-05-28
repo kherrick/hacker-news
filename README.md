@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-28, 17:34:52](https://news.ycombinator.com/item?id=44118520) - [I am disappointed in the AI discourse](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/)
 * [2025-05-28, 17:22:47](https://news.ycombinator.com/item?id=44118373) - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 * [2025-05-28, 17:01:26](https://news.ycombinator.com/item?id=44118127) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
 * [2025-05-28, 16:53:11](https://news.ycombinator.com/item?id=44118023) - [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
@@ -20,6 +19,7 @@
 * [2025-05-28, 13:43:38](https://news.ycombinator.com/item?id=44115973) - [The Blowtorch Theory: A new model for structure formation in the universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
 * [2025-05-28, 13:07:57](https://news.ycombinator.com/item?id=44115620) - [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
 * [2025-05-28, 06:27:11](https://news.ycombinator.com/item?id=44113210) - [As a developer, my most important tools are a pen and a notebook](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/)
+* [2025-05-28, 05:34:47](https://news.ycombinator.com/item?id=44113026) - [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
 * [2025-05-28, 02:39:11](https://news.ycombinator.com/item?id=44112326) - [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
 * [2025-05-27, 20:53:03](https://news.ycombinator.com/item?id=44110584) - [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
 * [2025-05-27, 15:33:55](https://news.ycombinator.com/item?id=44107942) - [Square Theory](https://aaronson.org/blog/square-theory)
