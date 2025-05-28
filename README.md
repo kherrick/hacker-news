@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-28, 17:59:02](https://news.ycombinator.com/item?id=44118818) - [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
-* [2025-05-28, 17:22:48](https://news.ycombinator.com/item?id=44118375) - [LLM Shibboleths determine AI effectiveness](https://www.moderndescartes.com/essays/llm_shibboleths/)
 * [2025-05-28, 17:22:47](https://news.ycombinator.com/item?id=44118373) - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 * [2025-05-28, 17:01:26](https://news.ycombinator.com/item?id=44118127) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
 * [2025-05-28, 16:53:11](https://news.ycombinator.com/item?id=44118023) - [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
@@ -9,6 +8,7 @@
 * [2025-05-28, 16:28:20](https://news.ycombinator.com/item?id=44117722) - [Compiler Explorer and the promise of URLs that last forever](https://xania.org/202505/compiler-explorer-urls-forever)
 * [2025-05-28, 16:00:44](https://news.ycombinator.com/item?id=44117465) - [Launch HN: MindFort (YC X25) – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465)
 * [2025-05-28, 15:48:37](https://news.ycombinator.com/item?id=44117302) - [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
+* [2025-05-28, 15:41:56](https://news.ycombinator.com/item?id=44117225) - [Why is it so hard to get families to live in community houses?](https://supernuclear.substack.com/p/why-is-it-so-hard-to-get-families)
 * [2025-05-28, 15:27:42](https://news.ycombinator.com/item?id=44117059) - [Show HN: Tesseral – Open-Source Auth](https://github.com/tesseral-labs/tesseral)
 * [2025-05-28, 15:13:38](https://news.ycombinator.com/item?id=44116872) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 15:12:56](https://news.ycombinator.com/item?id=44116862) - [xAI to pay telegram $300M to integrate Grok into the chat app](https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/)

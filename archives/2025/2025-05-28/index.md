@@ -14,6 +14,7 @@
 * [2025-05-28, 16:28:20](https://news.ycombinator.com/item?id=44117722) - [Compiler Explorer and the Promise of URLs That Last Forever](https://xania.org/202505/compiler-explorer-urls-forever)
 * [2025-05-28, 16:00:44](https://news.ycombinator.com/item?id=44117465) - [Launch HN: MindFort (YC X25) – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465)
 * [2025-05-28, 15:48:37](https://news.ycombinator.com/item?id=44117302) - [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
+* [2025-05-28, 15:41:56](https://news.ycombinator.com/item?id=44117225) - [Why is it so hard to get families to live in community houses?](https://supernuclear.substack.com/p/why-is-it-so-hard-to-get-families)
 * [2025-05-28, 15:27:42](https://news.ycombinator.com/item?id=44117059) - [Show HN: Tesseral – Open-Source Auth](https://github.com/tesseral-labs/tesseral)
 * [2025-05-28, 15:13:38](https://news.ycombinator.com/item?id=44116872) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 15:12:56](https://news.ycombinator.com/item?id=44116862) - [XAI to pay Telegram $300M to integrate Grok into the chat app](https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/)
