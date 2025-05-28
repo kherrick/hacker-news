@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 15:12:56](https://news.ycombinator.com/item?id=44116862) - [XAI to pay Telegram $300M to integrate Grok into the chat app](https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/)
 * [2025-05-28, 15:07:57](https://news.ycombinator.com/item?id=44116803) - [The mysterious Gobi wall uncovered](https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html)
 * [2025-05-28, 14:54:04](https://news.ycombinator.com/item?id=44116643) - [Show HN: Wetlands – a lightweight Python library for managing Conda environments](https://arthursw.github.io/wetlands/0.2.0/)
 * [2025-05-28, 14:38:52](https://news.ycombinator.com/item?id=44116503) - [Mullvad Leta](https://leta.mullvad.net)
