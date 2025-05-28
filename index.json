@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-28, 17:01:26",
+      "https://news.ycombinator.com/item?id=44118127"
+    ],
+    [
+      "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "https://news.ycombinator.com/item?id=44118127"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 16:53:11",
+      "https://news.ycombinator.com/item?id=44118023"
+    ],
+    [
+      "Show HN: I rewrote my Mac Electron app in Rust",
+      "https://desktopdocs.com/?v=2025"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 16:28:20",
       "https://news.ycombinator.com/item?id=44117722"
     ],
@@ -37,6 +57,16 @@
     [
       "Show HN: Tesseral – Open-Source Auth",
       "https://github.com/tesseral-labs/tesseral"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 15:13:38",
+      "https://news.ycombinator.com/item?id=44116872"
+    ],
+    [
+      "LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux",
+      "https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-05-28, 12:48:43",
-      "https://news.ycombinator.com/item?id=44115467"
-    ],
-    [
-      "Show HN: Voiden – a free, offline, Git-native API Client",
-      "https://voiden.md"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 06:27:11",
       "https://news.ycombinator.com/item?id=44113210"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-05-25, 20:24:56",
-      "https://news.ycombinator.com/item?id=44090776"
-    ],
-    [
-      "The Windows Registry Adventure #7: Attack surface analysis",
-      "https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 14:51:20",
       "https://news.ycombinator.com/item?id=44088261"
     ],
@@ -287,16 +297,6 @@
     [
       "The Ingredients of a Productive Monorepo",
       "https://blog.swgillespie.me/posts/monorepo-ingredients/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 07:37:27",
-      "https://news.ycombinator.com/item?id=44086219"
-    ],
-    [
-      "The length of file names in early Unix",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts"
     ]
   ]
 ]
