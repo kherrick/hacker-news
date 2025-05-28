@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 18:35:28](https://news.ycombinator.com/item?id=44119173) - [Ice Cream Replaced Booze in the US Navy](https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/)
 * [2025-05-28, 17:59:02](https://news.ycombinator.com/item?id=44118818) - [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
 * [2025-05-28, 17:34:52](https://news.ycombinator.com/item?id=44118520) - [I am disappointed in the AI discourse](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/)
 * [2025-05-28, 17:22:48](https://news.ycombinator.com/item?id=44118375) - [LLM Shibboleths determine AI effectiveness](https://www.moderndescartes.com/essays/llm_shibboleths/)
