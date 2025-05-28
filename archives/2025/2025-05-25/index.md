@@ -34,6 +34,7 @@
 * [2025-05-25, 15:24:42](https://news.ycombinator.com/item?id=44088482) - [Authors Are Accidentally Leaving AI Prompts in Their Novels](https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/)
 * [2025-05-25, 15:10:00](https://news.ycombinator.com/item?id=44088392) - [Implementing complex numbers and FFT with just datatypes (2023)](https://gist.github.com/VictorTaelin/5776ede998d0039ad1cc9b12fd96811c)
 * [2025-05-25, 14:58:34](https://news.ycombinator.com/item?id=44088316) - [\"The American Dream 2025\" Elderly Walmart employee on a COPD machine and crying](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/)
+* [2025-05-25, 14:51:20](https://news.ycombinator.com/item?id=44088261) - [Designing Tools for Scientific Thought](https://www.forester-notes.org/tfmt-0001/index.xml)
 * [2025-05-25, 14:49:46](https://news.ycombinator.com/item?id=44088248) - [Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game](https://schaoss.github.io/wall-go/)
 * [2025-05-25, 14:45:47](https://news.ycombinator.com/item?id=44088216) - [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
 * [2025-05-25, 14:03:59](https://news.ycombinator.com/item?id=44087926) - [Trump's Middle East AI Deal: \"Just Count the Server Racks\"](https://www.chinatalk.media/p/about-that-ai-middle-east-deal)

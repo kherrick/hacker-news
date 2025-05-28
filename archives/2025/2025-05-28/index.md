@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 13:43:38](https://news.ycombinator.com/item?id=44115973) - [The Blowtorch Theory: A New Model for Structure Formation in the Universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
 * [2025-05-28, 13:07:57](https://news.ycombinator.com/item?id=44115620) - [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
 * [2025-05-28, 12:48:43](https://news.ycombinator.com/item?id=44115467) - [Show HN: Voiden – a free, offline, Git-native API Client](https://voiden.md)
 * [2025-05-28, 12:48:40](https://news.ycombinator.com/item?id=44115466) - [Monks Behaving Badly: Explaining Buddhist Violence in Asia](https://direct.mit.edu/isec/article/49/4/119/130813/Monks-Behaving-Badly-Explaining-Buddhist-Violence)
