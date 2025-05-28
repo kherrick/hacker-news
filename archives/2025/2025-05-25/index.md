@@ -47,6 +47,7 @@
 * [2025-05-25, 11:56:16](https://news.ycombinator.com/item?id=44087183) - [Investigating Wrench Attacks: Physical Attacks Targeting Cryptocurrency Users [pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf)
 * [2025-05-25, 11:48:30](https://news.ycombinator.com/item?id=44087150) - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
 * [2025-05-25, 11:21:22](https://news.ycombinator.com/item?id=44087049) - [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
+* [2025-05-25, 11:11:57](https://news.ycombinator.com/item?id=44087008) - [Restoring Vangelis's Performance Sequencers](https://zyklus-mps.com/about)
 * [2025-05-25, 11:03:26](https://news.ycombinator.com/item?id=44086973) - [The Level Design Book](https://book.leveldesignbook.com)
 * [2025-05-25, 10:54:10](https://news.ycombinator.com/item?id=44086935) - [Having your compile-time cake and eating it too](https://0x44.xyz/blog/comptime-1)
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
