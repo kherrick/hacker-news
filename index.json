@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-05-28, 00:48:45",
+      "https://news.ycombinator.com/item?id=44111898"
+    ],
+    [
+      "A privilege escalation from Chrome extensions (2023)",
+      "https://0x44.xyz/blog/cve-2023-4369/"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 00:01:20",
       "https://news.ycombinator.com/item?id=44111673"
     ],
     [
-      "Look Ma, No Bubbles Designing a Low-Latency Megakernel for Llama-1B",
+      "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
       "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 23:47:15",
+      "https://news.ycombinator.com/item?id=44111616"
+    ],
+    [
+      "Starship Flight 9 booster explodes on impact [video]",
+      "https://www.youtube.com/watch?v=okOzxHN9NOA"
     ]
   ],
   [
@@ -51,21 +71,11 @@
   ],
   [
     [
-      "2025-05-27, 20:09:58",
-      "https://news.ycombinator.com/item?id=44110270"
-    ],
-    [
-      "In Vietnam, an unlikely outpost for Chicano culture",
-      "https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam"
-    ]
-  ],
-  [
-    [
       "2025-05-27, 20:02:50",
       "https://news.ycombinator.com/item?id=44110219"
     ],
     [
-      "Why the Original Macintosh Had a Screen Resolution of 512×324",
+      "Why the original Macintosh had a screen resolution of 512×324",
       "https://512pixels.net/2025/05/original-macintosh-resolution/"
     ]
   ],
@@ -87,16 +97,6 @@
     [
       "Roundtable (YC S23) Is Hiring a Member of Technical Staff",
       "https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 15:59:23",
-      "https://news.ycombinator.com/item?id=44108207"
-    ],
-    [
-      "I salvaged $6k of luxury items discarded by Duke students",
-      "https://indyweek.com/culture/duke-students-dumpster-diving/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "DuckLake is an integrated data lake and catalog format",
       "https://ducklake.select/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 13:33:38",
-      "https://news.ycombinator.com/item?id=44106842"
-    ],
-    [
-      "Outcome-Based Reinforcement Learning to Predict the Future",
-      "https://arxiv.org/abs/2505.17989"
     ]
   ],
   [
@@ -231,12 +221,32 @@
   ],
   [
     [
+      "2025-05-26, 01:52:18",
+      "https://news.ycombinator.com/item?id=44093193"
+    ],
+    [
+      "Nanoparticle-cell link enables EM wireless programming of transgene expression",
+      "https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 16:50:36",
       "https://news.ycombinator.com/item?id=44089045"
     ],
     [
       "Direct Preference Optimization vs. RLHF",
       "https://www.together.ai/blog/direct-preference-optimization"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 11:11:57",
+      "https://news.ycombinator.com/item?id=44087008"
+    ],
+    [
+      "Restoring Vangelis's Performance Sequencers",
+      "https://zyklus-mps.com/about"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
       "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 20:06:19",
-      "https://news.ycombinator.com/item?id=44083474"
-    ],
-    [
-      "Worlds first petahertz transistor at ambient conditions",
-      "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions"
     ]
   ],
   [
