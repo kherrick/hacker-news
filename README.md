@@ -20,7 +20,7 @@
 * [2025-05-27, 11:46:30](https://news.ycombinator.com/item?id=44105965) - [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
 * [2025-05-27, 11:15:15](https://news.ycombinator.com/item?id=44105796) - [BGP handling bug causes widespread internet routing instability](https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident)
 * [2025-05-27, 10:39:30](https://news.ycombinator.com/item?id=44105619) - [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
-* [2025-05-27, 03:58:07](https://news.ycombinator.com/item?id=44103839) - [Show HN: Lazy Tetris](https://lazytetris.com/)
+* [2025-05-26, 20:32:46](https://news.ycombinator.com/item?id=44101385) - [Every wondered how Facebook spoofs Gmail message list snippet text?](https://news.ycombinator.com/item?id=44101385)
 * [2025-05-26, 13:46:25](https://news.ycombinator.com/item?id=44097390) - [GitHub MCP exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 * [2025-05-26, 01:52:18](https://news.ycombinator.com/item?id=44093193) - [Nanoparticle-cell link enables EM wireless programming of transgene expression](https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html)
 * [2025-05-25, 16:50:36](https://news.ycombinator.com/item?id=44089045) - [Direct Preference Optimization vs. RLHF](https://www.together.ai/blog/direct-preference-optimization)

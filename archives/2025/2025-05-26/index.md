@@ -16,6 +16,7 @@
 * [2025-05-26, 21:11:58](https://news.ycombinator.com/item?id=44101724) - [Sqawk: A fusion of SQL and Awk: Applying SQL to text-based data files](https://github.com/jgarzik/sqawk)
 * [2025-05-26, 21:07:31](https://news.ycombinator.com/item?id=44101691) - [Access Control Syntax](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/)
 * [2025-05-26, 20:59:06](https://news.ycombinator.com/item?id=44101619) - [CSS Painting API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API)
+* [2025-05-26, 20:32:46](https://news.ycombinator.com/item?id=44101385) - [Every wondered how Facebook spoofs Gmail message list snippet text?](https://news.ycombinator.com/item?id=44101385)
 * [2025-05-26, 20:27:59](https://news.ycombinator.com/item?id=44101349) - [Owls in Towels](https://owlsintowels.org/)
 * [2025-05-26, 19:56:02](https://news.ycombinator.com/item?id=44101072) - [The Difference Between Downloading and Streaming](https://danq.me/2025/05/26/downloading-vs-streaming/)
 * [2025-05-26, 19:20:19](https://news.ycombinator.com/item?id=44100677) - [Trying to teach in the age of the AI homework machine](https://www.solarshades.club/p/dispatch-from-the-trenches-of-the)
