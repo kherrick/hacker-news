@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-28, 06:27:11",
+      "https://news.ycombinator.com/item?id=44113210"
+    ],
+    [
+      "As a developer, my most important tools are a pen and a notebook",
+      "https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 05:34:47",
       "https://news.ycombinator.com/item?id=44113026"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44111609"
     ],
     [
-      "A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS",
+      "Negotiating PoE+ Power in the Pre‑Boot Environment",
       "https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
       "https://nathan.rs/posts/gpu-shader-programming/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 17:42:15",
-      "https://news.ycombinator.com/item?id=44109090"
-    ],
-    [
-      "Roundtable (YC S23) Is Hiring a Member of Technical Staff",
-      "https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2025-05-26, 20:32:46",
+      "https://news.ycombinator.com/item?id=44101385"
+    ],
+    [
+      "Every wondered how Facebook spoofs Gmail message list snippet text?",
+      "https://news.ycombinator.com/item?id=44101385"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 05:01:25",
       "https://news.ycombinator.com/item?id=44094109"
     ],
     [
       "A thought on JavaScript \"proof of work\" anti-scraper systems",
       "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 01:52:18",
-      "https://news.ycombinator.com/item?id=44093193"
-    ],
-    [
-      "Nanoparticle-cell link enables EM wireless programming of transgene expression",
-      "https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html"
     ]
   ],
   [
