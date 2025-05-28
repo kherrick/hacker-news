@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-05-27, 20:02:50",
-      "https://news.ycombinator.com/item?id=44110219"
-    ],
-    [
-      "Why the original Macintosh had a screen resolution of 512×324",
-      "https://512pixels.net/2025/05/original-macintosh-resolution/"
-    ]
-  ],
-  [
-    [
       "2025-05-27, 18:02:51",
       "https://news.ycombinator.com/item?id=44109257"
     ],
@@ -207,6 +197,16 @@
     [
       "GitHub MCP exploited: Accessing private repositories via MCP",
       "https://invariantlabs.ai/blog/mcp-github-vulnerability"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 05:01:25",
+      "https://news.ycombinator.com/item?id=44094109"
+    ],
+    [
+      "A thought on JavaScript \"proof of work\" anti-scraper systems",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles"
     ]
   ],
   [
