@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-05-28, 07:09:31",
+      "https://news.ycombinator.com/item?id=44113397"
+    ],
+    [
+      "Why are 2025/05/28 and 2025-05-28 different days in JavaScript?",
+      "https://brandondong.github.io/blog/javascript_dates/"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 06:40:47",
       "https://news.ycombinator.com/item?id=44113256"
     ],
     [
       "Another way electric cars clean the air: study says brake dust reduced by 83%",
       "https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 06:27:11",
+      "https://news.ycombinator.com/item?id=44113210"
+    ],
+    [
+      "As a developer, my most important tools are a pen and a notebook",
+      "https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 05:34:47",
+      "https://news.ycombinator.com/item?id=44113026"
+    ],
+    [
+      "DWARF as a Shared Reverse Engineering Format",
+      "https://lief.re/blog/2025-05-27-dwarf-editor/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "An Extreme Cousin for Pluto? Possible Dwarf Planet at Solar System Edge",
       "https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 02:47:53",
-      "https://news.ycombinator.com/item?id=44112349"
-    ],
-    [
-      "Global high-performance proof-of-stake blockchain with erasure coding",
-      "https://github.com/qkniep/alpenglow"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
       "https://nathan.rs/posts/gpu-shader-programming/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 17:42:15",
-      "https://news.ycombinator.com/item?id=44109090"
-    ],
-    [
-      "Roundtable (YC S23) Is Hiring a Member of Technical Staff",
-      "https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Hobby Computer Culture",
       "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 14:32:11",
-      "https://news.ycombinator.com/item?id=44081383"
-    ],
-    [
-      "Semicolons bring the drama; that's why I love them",
-      "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02"
     ]
   ]
 ]
