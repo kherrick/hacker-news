@@ -46,6 +46,7 @@
 * [2025-05-25, 13:33:24](https://news.ycombinator.com/item?id=44087707) - [OpenPOWER Foundation – Open-Source / Open Hardware PowerPC CPU ISA](https://openpowerfoundation.org/)
 * [2025-05-25, 13:30:53](https://news.ycombinator.com/item?id=44087687) - [Fast, Simple and Open Firebase Alternative: TrailBase](https://github.com/trailbaseio/trailbase/releases/tag/v0.12.0)
 * [2025-05-25, 13:19:24](https://news.ycombinator.com/item?id=44087608) - [The 44 Year Old Computer Magazine That Changed Everything [video]](https://www.youtube.com/watch?v=QSnw5pPEPBc)
+* [2025-05-25, 13:08:24](https://news.ycombinator.com/item?id=44087541) - [Programming Basics with Tiki](https://tiki.li/)
 * [2025-05-25, 12:35:30](https://news.ycombinator.com/item?id=44087373) - [Programming on 34 Keys (2022)](https://oppi.li/posts/programming_on_34_keys/)
 * [2025-05-25, 11:59:06](https://news.ycombinator.com/item?id=44087195) - [In defense of shallow technical knowledge](https://www.seangoedecke.com/shallow-technical-knowledge/)
 * [2025-05-25, 11:56:16](https://news.ycombinator.com/item?id=44087183) - [Investigating Wrench Attacks: Physical Attacks Targeting Cryptocurrency Users [pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf)
