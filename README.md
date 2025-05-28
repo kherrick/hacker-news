@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-28, 10:50:23](https://news.ycombinator.com/item?id=44114631) - [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/)
 * [2025-05-28, 10:48:17](https://news.ycombinator.com/item?id=44114621) - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
 * [2025-05-28, 10:42:05](https://news.ycombinator.com/item?id=44114589) - [Driverless Semi Trucks Are Here, with Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html)
 * [2025-05-28, 10:23:56](https://news.ycombinator.com/item?id=44114483) - [CheerpJ 4.1: Java in the browser, now supporting Java 17 (preview)](https://labs.leaningtech.com/blog/cheerpj-4.1)
@@ -7,7 +8,6 @@
 * [2025-05-28, 05:34:47](https://news.ycombinator.com/item?id=44113026) - [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
 * [2025-05-28, 04:04:37](https://news.ycombinator.com/item?id=44112641) - [Singularities in Space-Time Prove Hard to Kill](https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/)
 * [2025-05-28, 02:39:11](https://news.ycombinator.com/item?id=44112326) - [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
-* [2025-05-28, 02:15:15](https://news.ycombinator.com/item?id=44112218) - [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
 * [2025-05-28, 00:48:45](https://news.ycombinator.com/item?id=44111898) - [A privilege escalation from Chrome extensions (2023)](https://0x44.xyz/blog/cve-2023-4369/)
 * [2025-05-28, 00:01:20](https://news.ycombinator.com/item?id=44111673) - [Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
 * [2025-05-27, 23:45:02](https://news.ycombinator.com/item?id=44111609) - [Negotiating PoE+ Power in the Pre‑Boot Environment](https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution)
@@ -23,13 +23,13 @@
 * [2025-05-27, 10:39:30](https://news.ycombinator.com/item?id=44105619) - [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
 * [2025-05-27, 03:58:07](https://news.ycombinator.com/item?id=44103839) - [Show HN: Lazy Tetris](https://lazytetris.com/)
 * [2025-05-25, 21:25:18](https://news.ycombinator.com/item?id=44091287) - [Looking for Keys Under the Lamppost](https://www.johndcook.com/blog/2025/05/25/lamppost/)
+* [2025-05-25, 20:24:56](https://news.ycombinator.com/item?id=44090776) - [The Windows Registry Adventure #7: Attack surface analysis](https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html)
 * [2025-05-25, 11:03:26](https://news.ycombinator.com/item?id=44086973) - [The Level Design Book](https://book.leveldesignbook.com)
 * [2025-05-25, 10:49:31](https://news.ycombinator.com/item?id=44086917) - [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
 * [2025-05-25, 07:37:27](https://news.ycombinator.com/item?id=44086219) - [The length of file names in early Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts)
 * [2025-05-25, 01:36:28](https://news.ycombinator.com/item?id=44084892) - [Space Selfie](https://space.crunchlabs.com/)
 * [2025-05-24, 20:53:11](https://news.ycombinator.com/item?id=44083753) - [There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman](https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/)
 * [2025-05-24, 14:33:47](https://news.ycombinator.com/item?id=44081395) - [The Hobby Computer Culture](https://technicshistory.com/2025/05/24/the-hobby-computer-culture/)
-* [2025-05-24, 14:32:11](https://news.ycombinator.com/item?id=44081383) - [Semicolons bring the drama; that's why I love them](https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02)
 
 ## [Archives](archives/index.md)
 

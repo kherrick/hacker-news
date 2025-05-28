@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 10:50:23](https://news.ycombinator.com/item?id=44114631) - [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/)
 * [2025-05-28, 10:48:17](https://news.ycombinator.com/item?id=44114621) - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
 * [2025-05-28, 10:42:05](https://news.ycombinator.com/item?id=44114589) - [Driverless Semi Trucks Are Here, with Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html)
 * [2025-05-28, 10:23:56](https://news.ycombinator.com/item?id=44114483) - [CheerpJ 4.1: Java in the browser, now supporting Java 17 (preview)](https://labs.leaningtech.com/blog/cheerpj-4.1)
