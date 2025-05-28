@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-28, 16:28:20](https://news.ycombinator.com/item?id=44117722) - [Compiler Explorer and the Promise of URLs That Last Forever](https://xania.org/202505/compiler-explorer-urls-forever)
 * [2025-05-28, 16:00:44](https://news.ycombinator.com/item?id=44117465) - [Launch HN: MindFort (YC X25) – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465)
 * [2025-05-28, 15:48:37](https://news.ycombinator.com/item?id=44117302) - [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
 * [2025-05-28, 15:27:42](https://news.ycombinator.com/item?id=44117059) - [Show HN: Tesseral – Open-Source Auth](https://github.com/tesseral-labs/tesseral)
@@ -18,7 +19,6 @@
 * [2025-05-28, 02:39:11](https://news.ycombinator.com/item?id=44112326) - [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
 * [2025-05-28, 00:01:20](https://news.ycombinator.com/item?id=44111673) - [Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
 * [2025-05-27, 23:45:02](https://news.ycombinator.com/item?id=44111609) - [Negotiating PoE+ Power in the Pre‑Boot Environment](https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution)
-* [2025-05-27, 23:10:44](https://news.ycombinator.com/item?id=44111452) - [OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)](https://github.com/UCSBarchlab/OpenTPU)
 * [2025-05-27, 20:53:03](https://news.ycombinator.com/item?id=44110584) - [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
 * [2025-05-27, 15:33:55](https://news.ycombinator.com/item?id=44107942) - [Square Theory](https://aaronson.org/blog/square-theory)
 * [2025-05-26, 05:01:25](https://news.ycombinator.com/item?id=44094109) - [A thought on JavaScript \"proof of work\" anti-scraper systems](https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles)
@@ -26,7 +26,7 @@
 * [2025-05-25, 20:24:56](https://news.ycombinator.com/item?id=44090776) - [The Windows Registry Adventure #7: Attack surface analysis](https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html)
 * [2025-05-25, 14:51:20](https://news.ycombinator.com/item?id=44088261) - [Designing Tools for Scientific Thought](https://www.forester-notes.org/tfmt-0001/index.xml)
 * [2025-05-25, 13:08:24](https://news.ycombinator.com/item?id=44087541) - [Programming Basics with Tiki](https://tiki.li/)
-* [2025-05-25, 11:14:50](https://news.ycombinator.com/item?id=44087020) - [Chairs, Chairs, Chairs](https://www.parliament.uk/about/living-heritage/building/cultural-collections/historic-furniture/the-collection/chairs-chairs-chairs/)
+* [2025-05-25, 12:38:27](https://news.ycombinator.com/item?id=44087390) - [Mathematical Fiction](https://kasmana.people.charleston.edu/MATHFICT/default.html)
 * [2025-05-25, 11:03:26](https://news.ycombinator.com/item?id=44086973) - [The Level Design Book](https://book.leveldesignbook.com)
 * [2025-05-25, 10:49:31](https://news.ycombinator.com/item?id=44086917) - [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
 * [2025-05-25, 07:37:27](https://news.ycombinator.com/item?id=44086219) - [The length of file names in early Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts)
