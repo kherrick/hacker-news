@@ -3,7 +3,7 @@
 * [2025-05-28, 20:47:30](https://news.ycombinator.com/item?id=44120507) - [Long live American Science and Surplus (which needs your help)](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
 * [2025-05-28, 20:15:43](https://news.ycombinator.com/item?id=44120241) - [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
 * [2025-05-28, 20:13:56](https://news.ycombinator.com/item?id=44120224) - [The anomalous magnetic moment of the muon in the Standard Model: an update](https://arxiv.org/abs/2505.21476)
-* [2025-05-28, 19:37:47](https://news.ycombinator.com/item?id=44119890) - [What does \"Undecidable\" mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
+* [2025-05-28, 19:37:47](https://news.ycombinator.com/item?id=44119890) - [What does “Undecidable” mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
 * [2025-05-28, 18:35:28](https://news.ycombinator.com/item?id=44119173) - [Prohibition and ice cream in the US Navy](https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/)
 * [2025-05-28, 17:59:02](https://news.ycombinator.com/item?id=44118818) - [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
 * [2025-05-28, 17:22:47](https://news.ycombinator.com/item?id=44118373) - [Compiling a neural net to C for a speedup](https://slightknack.dev/blog/difflogic/)
