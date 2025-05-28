@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-28, 10:48:17](https://news.ycombinator.com/item?id=44114621) - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
+* [2025-05-28, 10:42:05](https://news.ycombinator.com/item?id=44114589) - [Driverless Semi Trucks Are Here, with Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html)
 * [2025-05-28, 10:23:56](https://news.ycombinator.com/item?id=44114483) - [CheerpJ 4.1: Java in the browser, now supporting Java 17 (preview)](https://labs.leaningtech.com/blog/cheerpj-4.1)
-* [2025-05-28, 07:53:54](https://news.ycombinator.com/item?id=44113672) - [Ask HN: Stopping YC backed business from advertizing fake jobs at my company](https://news.ycombinator.com/item?id=44113672)
 * [2025-05-28, 07:09:31](https://news.ycombinator.com/item?id=44113397) - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
 * [2025-05-28, 05:34:47](https://news.ycombinator.com/item?id=44113026) - [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
 * [2025-05-28, 04:04:37](https://news.ycombinator.com/item?id=44112641) - [Singularities in Space-Time Prove Hard to Kill](https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/)
