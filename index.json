@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-28, 17:59:02",
+      "https://news.ycombinator.com/item?id=44118818"
+    ],
+    [
+      "Deepseek R1-0528",
+      "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 17:22:47",
       "https://news.ycombinator.com/item?id=44118373"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44116862"
     ],
     [
-      "XAI to pay Telegram $300M to integrate Grok into the chat app",
+      "xAI to pay telegram $300M to integrate Grok into the chat app",
       "https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Show HN: Wetlands – a lightweight Python library for managing Conda environments",
       "https://arthursw.github.io/wetlands/0.2.0/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 14:38:52",
-      "https://news.ycombinator.com/item?id=44116503"
-    ],
-    [
-      "Mullvad Leta",
-      "https://leta.mullvad.net"
     ]
   ],
   [
