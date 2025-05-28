@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2025-05-28, 10:48:17",
-      "https://news.ycombinator.com/item?id=44114621"
-    ],
-    [
-      "Microsoft wants Windows Update to handle all apps",
-      "https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 10:42:05",
-      "https://news.ycombinator.com/item?id=44114589"
-    ],
-    [
-      "Driverless Semi Trucks Are Here, with Little Regulation and Big Promises",
-      "https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 10:23:56",
       "https://news.ycombinator.com/item?id=44114483"
     ],
@@ -61,22 +41,22 @@
   ],
   [
     [
-      "2025-05-28, 04:04:37",
-      "https://news.ycombinator.com/item?id=44112641"
-    ],
-    [
-      "Singularities in Space-Time Prove Hard to Kill",
-      "https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 02:39:11",
       "https://news.ycombinator.com/item?id=44112326"
     ],
     [
       "Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning",
       "https://news.ycombinator.com/item?id=44112326"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 02:15:15",
+      "https://news.ycombinator.com/item?id=44112218"
+    ],
+    [
+      "Using Postgres pg_test_fsync tool for testing low latency writes",
+      "https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/"
     ]
   ],
   [
@@ -137,6 +117,16 @@
     [
       "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
       "https://simonwillison.net/2025/May/27/llm-tools/"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 20:09:58",
+      "https://news.ycombinator.com/item?id=44110270"
+    ],
+    [
+      "In Vietnam, an unlikely outpost for Chicano culture",
+      "https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Hobby Computer Culture",
       "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 14:32:11",
+      "https://news.ycombinator.com/item?id=44081383"
+    ],
+    [
+      "Semicolons bring the drama; that's why I love them",
+      "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02"
     ]
   ]
 ]
