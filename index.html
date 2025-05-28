@@ -129,6 +129,132 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44118127">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44118127"
+              >GoGoGrandparent (YC S16) is hiring Back end Engineers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-28 @ 17:01:26</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The positions: FULLY REMOTE | Full-time | US, UK, or able to
+                work 4+ hours overlap with mainland US (UK time working hours
+                also OK) | $100k to $160k (partially location-dependent)
+              </p>
+              <p>
+                Build high-quality, robust engineering at the rarest of things -
+                a Silicon Valley startup that is both wholesome AND profitable.
+                We have 8-figure revenue, are YC-backed, and growing fast.
+              </p>
+              <p>
+                Tech stack (<i>required): Back-end heavy (Node</i>, Typescript<i
+                  >, MySQL</i
+                >, REST*+GraphQL), front-end (Vue), deploy (AWS, Docker/K8s)
+              </p>
+              <p>Minimum 6 years experience (mostly Node/Vue)</p>
+              <p>2-stage interview process.</p>
+              <p>
+                If you want to help older adults and people with disabilities,
+                send your LinkedIn/CV to william@gogograndparent.com (keep it
+                brief) or apply at
+                <a
+                  href="https://www.ycombinator.com/companies/gogograndparent/jobs"
+                  >https://www.ycombinator.com/companies/gogograndparent/jobs</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44118023">
+          <h3>
+            <a class="item" href="https://desktopdocs.com/?v=2025"
+              >Show HN: I rewrote my Mac Electron app in Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-28 @ 16:53:11</span
+              ><span class="points-container"
+                >Points: <span class="points">51</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44118023"
+                  >Comments</a
+                ><span class="descendants">: 32</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>TLDR; rebuilding in Rust was the right move.</p>
+              <p>
+                So we rewrote the app with Rust and Tauri and here are the
+                results:
+              </p>
+              <p>
+                - App size is 83% smaller: 1GB → 172MB - DMG Installer is 70%
+                smaller: 232MB → 69.5MB - Indexing files is faster: A 38-minute
+                video now indexes in ~3 minutes instead of 10-14 minutes -
+                Overall more stability (old app used to randomly crash)
+              </p>
+              <p>
+                The original version worked, but it didn't perform well when you
+                tried indexing thousands of images or large videos. We lost a
+                lot of time struggling to optimize Electron’s main-renderer
+                process communication and ended up with a complex worker system
+                to process large batches of media files.
+              </p>
+              <p>
+                For months we wrestled with indecision about continuing to
+                optimize the Electron app vs. starting a full rebuild in Swift
+                or Rust. The main thing holding us back was that we hadn’t coded
+                in Swift in almost 10 years and we didn’t know Rust very well.
+              </p>
+              <p>
+                What finally broke us was when users complained the app crashed
+                their video calls just running in background. I guess that’s
+                what happens when you ship an app with Chromium that takes up
+                200mb before any application code.
+              </p>
+              <p>
+                Today the app still uses CLIP for embeddings and Redis for
+                vector storage and search, except Rust now handles the image and
+                video processing pipeline and all the file I/O to let users
+                browse their entire machine, not just indexed files.
+              </p>
+              <p>
+                For the UI, we decided to rebuild it from scratch instead of
+                porting over the old UI. This turned out well because it
+                resulted in a cleaner, simpler UI after living with the
+                complexity of the old version.
+              </p>
+              <p>
+                The trickiest part of the migration was learning Rust. LLMs
+                definitely help, but the Rust/Tauri community just isn’t as
+                mature compared to Electron. Bundling Redis into the app was a
+                permissioning nightmare, but I think our solution with Rust
+                handles this better than what we had with Electron.
+              </p>
+              <p>
+                All in, the rebuild took about two months and still needs some
+                more work to be at total parity with its Electron version, but
+                the core functionality of indexing and searching files is way
+                more performant than before and that made it worth the time.
+                Sometimes you gotta throw away working code to build the right
+                thing.
+              </p>
+              <p>
+                AMA about Rust/Tauri migration, Redis bundling nightmares, how
+                CLIP embeddings work for local semantic search, or why Electron
+                isn't always the answer.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="44117722">
           <h3>
             <a
@@ -141,11 +267,11 @@
             <h4>
               <span>2025-05-28 @ 16:28:20</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44117722"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -161,11 +287,11 @@
             <h4>
               <span>2025-05-28 @ 16:00:44</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44117465"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -251,11 +377,11 @@
             <h4>
               <span>2025-05-28 @ 15:48:37</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44117302"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -270,11 +396,11 @@
             <h4>
               <span>2025-05-28 @ 15:27:42</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44117059"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
             <div class="text">
@@ -357,6 +483,28 @@
             </div>
           </section>
         </section>
+        <section id="44116872">
+          <h3>
+            <a
+              class="item"
+              href="https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/"
+              >LLM Codegen go Brrr – Parallelization with Git Worktrees and
+              Tmux</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-28 @ 15:13:38</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44116872"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44116862">
           <h3>
             <a
@@ -369,11 +517,11 @@
             <h4>
               <span>2025-05-28 @ 15:12:56</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44116862"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -390,11 +538,11 @@
             <h4>
               <span>2025-05-28 @ 15:07:57</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44116803"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -414,7 +562,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44116643"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">
@@ -449,11 +597,11 @@
             <h4>
               <span>2025-05-28 @ 14:38:52</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">237</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44116503"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -468,11 +616,11 @@
             <h4>
               <span>2025-05-28 @ 14:30:33</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44116412"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -488,11 +636,11 @@
             <h4>
               <span>2025-05-28 @ 14:19:02</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44116298"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
             <div class="text">
@@ -608,11 +756,11 @@
             <h4>
               <span>2025-05-28 @ 14:11:47</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44116236"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -630,11 +778,11 @@
             <h4>
               <span>2025-05-28 @ 13:43:38</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44115973"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -651,70 +799,13 @@
             <h4>
               <span>2025-05-28 @ 13:07:57</span
               ><span class="points-container"
-                >Points: <span class="points">386</span></span
+                >Points: <span class="points">412</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44115620"
                   >Comments</a
-                ><span class="descendants">: 327</span></span
+                ><span class="descendants">: 355</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44115467">
-          <h3>
-            <a class="item" href="https://voiden.md"
-              >Show HN: Voiden – a free, offline, Git-native API Client</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-28 @ 12:48:43</span
-              ><span class="points-container"
-                >Points: <span class="points">64</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44115467"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://voiden.md">https://voiden.md</a>)
-              <p>
-                Voiden is a free, offline, Git-native API client. Your API
-                definitions, docs, and tests all live together.
-              </p>
-              <p>
-                It came out of years of frustration: cloud sync lock-in,
-                paywalled basics, bloated UIs, and lag on even simple requests.
-                So the team built the opposite: an offline tool with no login,
-                no telemetry, no lock-in. Just markdown and hotkeys.
-              </p>
-              <p>
-                It behaves like code: local files, git branches, no cloud
-                nonsense. Terminal is built-in, so you can commit, diff, and
-                push changes right from the app.
-              </p>
-              <p>
-                Docs stay close to your requests, so that API spec and what the
-                API actually does never drift apart. No more scattered Postman,
-                docs, and test files everywhere. A single source of truth.
-              </p>
-              <p>A minimalist GET request looks something like this:</p>
-              <p></p>
-              <pre><code>      GET
-      https://dummyjson.com/posts
-</code></pre>
-              Just hit /endpoint, paste the URL, and run it with Cmd/Ctrl +
-              Enter.
-              <p>
-                Not OSS (yet), but 100% local and free. Optional plugins will be
-                coming down the line, but the core stays free.
-              </p>
-              <p>
-                We'd love feedback from folks tired of overcomplicated and
-                bloated API tooling.
-              </p>
-            </div>
           </section>
         </section>
         <section id="44113210">
@@ -730,11 +821,11 @@
             <h4>
               <span>2025-05-28 @ 06:27:11</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44113210"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 180</span></span
               >
             </h4>
           </section>
@@ -769,7 +860,7 @@
             <h4>
               <span>2025-05-28 @ 02:39:11</span
               ><span class="points-container"
-                >Points: <span class="points">357</span></span
+                >Points: <span class="points">358</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44112326"
                   >Comments</a
@@ -848,7 +939,7 @@
             <h4>
               <span>2025-05-28 @ 00:01:20</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44111673"
                   >Comments</a
@@ -869,11 +960,11 @@
             <h4>
               <span>2025-05-27 @ 23:45:02</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44111609"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -891,7 +982,7 @@
             <h4>
               <span>2025-05-27 @ 20:53:03</span
               ><span class="points-container"
-                >Points: <span class="points">453</span></span
+                >Points: <span class="points">455</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44110584"
                   >Comments</a
@@ -910,7 +1001,7 @@
             <h4>
               <span>2025-05-27 @ 15:33:55</span
               ><span class="points-container"
-                >Points: <span class="points">655</span></span
+                >Points: <span class="points">660</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44107942"
                   >Comments</a
@@ -931,11 +1022,11 @@
             <h4>
               <span>2025-05-26 @ 05:01:25</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44094109"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
           </section>
@@ -957,28 +1048,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44093845"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44090776">
-          <h3>
-            <a
-              class="item"
-              href="https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html"
-              >The Windows Registry Adventure #7: Attack surface analysis</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-25 @ 20:24:56</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44090776"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -995,11 +1065,11 @@
             <h4>
               <span>2025-05-25 @ 14:51:20</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44088261"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -1035,7 +1105,7 @@
             <h4>
               <span>2025-05-25 @ 12:38:27</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44087390"
                   >Comments</a
@@ -1054,11 +1124,11 @@
             <h4>
               <span>2025-05-25 @ 11:03:26</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44086973"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -1075,32 +1145,11 @@
             <h4>
               <span>2025-05-25 @ 10:49:31</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44086917"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44086219">
-          <h3>
-            <a
-              class="item"
-              href="https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts"
-              >The length of file names in early Unix</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-25 @ 07:37:27</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44086219"
-                  >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
