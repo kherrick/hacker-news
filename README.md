@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-28, 05:25:35](https://news.ycombinator.com/item?id=44112982) - [The Captcha Paradox](https://talkingrobot.com/2025/05/the-captcha-paradox/)
 * [2025-05-28, 02:47:53](https://news.ycombinator.com/item?id=44112349) - [Global high-performance proof-of-stake blockchain with erasure coding](https://github.com/qkniep/alpenglow)
 * [2025-05-28, 02:39:11](https://news.ycombinator.com/item?id=44112326) - [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
 * [2025-05-28, 02:15:15](https://news.ycombinator.com/item?id=44112218) - [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
@@ -22,7 +23,6 @@
 * [2025-05-26, 20:32:46](https://news.ycombinator.com/item?id=44101385) - [Every wondered how Facebook spoofs Gmail message list snippet text?](https://news.ycombinator.com/item?id=44101385)
 * [2025-05-26, 13:46:25](https://news.ycombinator.com/item?id=44097390) - [GitHub MCP exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 * [2025-05-26, 01:52:18](https://news.ycombinator.com/item?id=44093193) - [Nanoparticle-cell link enables EM wireless programming of transgene expression](https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html)
-* [2025-05-25, 16:50:36](https://news.ycombinator.com/item?id=44089045) - [Direct Preference Optimization vs. RLHF](https://www.together.ai/blog/direct-preference-optimization)
 * [2025-05-25, 11:03:26](https://news.ycombinator.com/item?id=44086973) - [The Level Design Book](https://book.leveldesignbook.com)
 * [2025-05-25, 10:49:31](https://news.ycombinator.com/item?id=44086917) - [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
 * [2025-05-25, 05:57:53](https://news.ycombinator.com/item?id=44085884) - [Developing first petahertz-speed phototransistor in ambient conditions](https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions)
