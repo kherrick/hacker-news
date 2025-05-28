@@ -61,6 +61,7 @@
 * [2025-05-25, 10:49:31](https://news.ycombinator.com/item?id=44086917) - [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
 * [2025-05-25, 10:24:35](https://news.ycombinator.com/item?id=44086830) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
 * [2025-05-25, 10:14:30](https://news.ycombinator.com/item?id=44086803) - [Changelog: Lazy trees (faster Nix builds)](https://determinate.systems/posts/changelog-determinate-nix-352/)
+* [2025-05-25, 09:50:06](https://news.ycombinator.com/item?id=44086721) - [Collatz's Ant and Similarity of Landscapes](https://gbragafibra.github.io/2025/05/18/collatz_ant3.html)
 * [2025-05-25, 09:01:34](https://news.ycombinator.com/item?id=44086530) - [Is TfL losing the battle against heat on the Victoria line?](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line)
 * [2025-05-25, 08:41:13](https://news.ycombinator.com/item?id=44086456) - [From OpenAPI spec to MCP: How we built Xata's MCP server](https://xata.io/blog/built-xata-mcp-server)
 * [2025-05-25, 08:33:46](https://news.ycombinator.com/item?id=44086429) - [Visualize and debug Rust programs with a new lens](https://firedbg.sea-ql.org/)
