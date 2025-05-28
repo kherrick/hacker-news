@@ -19,6 +19,7 @@
 * [2025-05-25, 17:00:38](https://news.ycombinator.com/item?id=44089108) - [Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs)
 * [2025-05-25, 17:00:26](https://news.ycombinator.com/item?id=44089106) - [Writing a Self-Mutating x86_64 C Program (2013)](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/)
 * [2025-05-25, 16:52:14](https://news.ycombinator.com/item?id=44089054) - [Show HN: Zli – A Batteries-Included CLI Framework for Zig](https://github.com/xcaeser/zli)
+* [2025-05-25, 16:50:36](https://news.ycombinator.com/item?id=44089045) - [Direct Preference Optimization vs. RLHF](https://www.together.ai/blog/direct-preference-optimization)
 * [2025-05-25, 16:34:28](https://news.ycombinator.com/item?id=44088957) - [Denmark to raise retirement age to 70](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/)
 * [2025-05-25, 16:28:58](https://news.ycombinator.com/item?id=44088926) - [Can a Corporation Be Pardoned?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339)
 * [2025-05-25, 16:06:12](https://news.ycombinator.com/item?id=44088777) - [Show HN: DaedalOS – Desktop Environment in the Browser](https://github.com/DustinBrett/daedalOS)
