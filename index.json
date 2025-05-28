@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-05-28, 02:15:15",
-      "https://news.ycombinator.com/item?id=44112218"
-    ],
-    [
-      "Using Postgres pg_test_fsync tool for testing low latency writes",
-      "https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 00:48:45",
       "https://news.ycombinator.com/item?id=44111898"
     ],
@@ -297,6 +287,16 @@
     [
       "The Hobby Computer Culture",
       "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 14:32:11",
+      "https://news.ycombinator.com/item?id=44081383"
+    ],
+    [
+      "Semicolons bring the drama; that's why I love them",
+      "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02"
     ]
   ]
 ]
