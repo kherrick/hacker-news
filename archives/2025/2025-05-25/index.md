@@ -62,6 +62,7 @@
 * [2025-05-25, 06:59:34](https://news.ycombinator.com/item?id=44086094) - [Infinite Tool Use](https://snimu.github.io/2025/05/23/infinite-tool-use.html)
 * [2025-05-25, 06:48:39](https://news.ycombinator.com/item?id=44086062) - [Clojure MCP](https://github.com/bhauman/clojure-mcp)
 * [2025-05-25, 06:06:39](https://news.ycombinator.com/item?id=44085920) - [Claude 4 System Cards Highlights](https://simonwillison.net/2025/May/25/claude-4-system-card/)
+* [2025-05-25, 05:57:53](https://news.ycombinator.com/item?id=44085884) - [Developing first petahertz-speed phototransistor in ambient conditions](https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions)
 * [2025-05-25, 05:05:15](https://news.ycombinator.com/item?id=44085662) - [A SomewhatMaxSAT Solver](https://blog.jak-linux.org/2025/05/24/somewhatmax-sat-solver/)
 * [2025-05-25, 04:54:55](https://news.ycombinator.com/item?id=44085625) - [Mouth bacteria partially spread depression and anxiety in newlywed couples](https://www.xiahepublishing.com/2472-0712/ERHM-2025-00013)
 * [2025-05-25, 03:43:44](https://news.ycombinator.com/item?id=44085354) - [Job Hunting Scripts](https://github.com/CajuM/jobhunt)
