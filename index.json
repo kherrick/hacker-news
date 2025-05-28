@@ -1,32 +1,22 @@
 [
   [
     [
+      "2025-05-28, 08:18:32",
+      "https://news.ycombinator.com/item?id=44113789"
+    ],
+    [
+      "Vibe coding for teams, thoughts to date",
+      "https://laughingmeme.org//2025/05/25/vibe-coding-for-teams.html"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 08:07:42",
       "https://news.ycombinator.com/item?id=44113735"
     ],
     [
       "Cory Doctorow on how we lost the internet",
       "https://lwn.net/SubscriberLink/1021871/4bec46993258f6b7/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 07:09:31",
-      "https://news.ycombinator.com/item?id=44113397"
-    ],
-    [
-      "Why are 2025/05/28 and 2025-05-28 different days in JavaScript?",
-      "https://brandondong.github.io/blog/javascript_dates/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 06:27:11",
-      "https://news.ycombinator.com/item?id=44113210"
-    ],
-    [
-      "As a developer, my most important tools are a pen and a notebook",
-      "https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Singularities in Space-Time Prove Hard to Kill",
       "https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 03:23:53",
-      "https://news.ycombinator.com/item?id=44112493"
-    ],
-    [
-      "An Extreme Cousin for Pluto? Possible Dwarf Planet at Solar System Edge",
-      "https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge"
     ]
   ],
   [
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44111673"
     ],
     [
-      "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
+      "Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B",
       "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles"
     ]
   ],
@@ -211,12 +191,22 @@
   ],
   [
     [
-      "2025-05-26, 05:01:25",
-      "https://news.ycombinator.com/item?id=44094109"
+      "2025-05-27, 03:58:07",
+      "https://news.ycombinator.com/item?id=44103839"
     ],
     [
-      "A thought on JavaScript \"proof of work\" anti-scraper systems",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles"
+      "Show HN: Lazy Tetris",
+      "https://lazytetris.com/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 20:32:46",
+      "https://news.ycombinator.com/item?id=44101385"
+    ],
+    [
+      "Every wondered how Facebook spoofs Gmail message list snippet text?",
+      "https://news.ycombinator.com/item?id=44101385"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Hobby Computer Culture",
       "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 14:32:11",
+      "https://news.ycombinator.com/item?id=44081383"
+    ],
+    [
+      "Semicolons bring the drama; that's why I love them",
+      "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02"
     ]
   ]
 ]
