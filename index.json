@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-05-28, 20:31:08",
-      "https://news.ycombinator.com/item?id=44120381"
-    ],
-    [
-      "AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation",
-      "https://arxiv.org/abs/2305.09515"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 20:15:43",
       "https://news.ycombinator.com/item?id=44120241"
     ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2025-05-28, 14:19:02",
-      "https://news.ycombinator.com/item?id=44116298"
-    ],
-    [
-      "Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device",
-      "https://loodio.com/"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 14:11:47",
       "https://news.ycombinator.com/item?id=44116236"
     ],
@@ -237,6 +217,26 @@
     [
       "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
       "https://simonwillison.net/2025/May/27/llm-tools/"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 15:33:55",
+      "https://news.ycombinator.com/item?id=44107942"
+    ],
+    [
+      "Square Theory",
+      "https://aaronson.org/blog/square-theory"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 09:23:12",
+      "https://news.ycombinator.com/item?id=44095553"
+    ],
+    [
+      "YAD: display graphical dialogs from shell scripts or command line",
+      "http://yad-guide.ingk.se/#_introduction"
     ]
   ],
   [
