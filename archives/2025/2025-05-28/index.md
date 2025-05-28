@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 15:07:57](https://news.ycombinator.com/item?id=44116803) - [The mysterious Gobi wall uncovered](https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html)
+* [2025-05-28, 14:54:04](https://news.ycombinator.com/item?id=44116643) - [Show HN: Wetlands – a lightweight Python library for managing Conda environments](https://arthursw.github.io/wetlands/0.2.0/)
+* [2025-05-28, 14:38:52](https://news.ycombinator.com/item?id=44116503) - [Mullvad Leta](https://leta.mullvad.net)
 * [2025-05-28, 14:19:02](https://news.ycombinator.com/item?id=44116298) - [Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device](https://loodio.com/)
 * [2025-05-28, 14:11:47](https://news.ycombinator.com/item?id=44116236) - [Comprehensive Analysis of De-Anonymization Attacks Against the Privacy Coin XMR](https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/)
 * [2025-05-28, 13:43:38](https://news.ycombinator.com/item?id=44115973) - [The Blowtorch Theory: A New Model for Structure Formation in the Universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
+* [2025-05-28, 13:31:07](https://news.ycombinator.com/item?id=44115854) - [Texas' annual reading test adjusted difficulty yearly, masking improvement](https://theconversation.com/texas-annual-reading-test-adjusted-its-difficulty-every-year-masking-whether-students-are-improving-244159)
 * [2025-05-28, 13:07:57](https://news.ycombinator.com/item?id=44115620) - [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
 * [2025-05-28, 12:48:43](https://news.ycombinator.com/item?id=44115467) - [Show HN: Voiden – a free, offline, Git-native API Client](https://voiden.md)
 * [2025-05-28, 12:48:40](https://news.ycombinator.com/item?id=44115466) - [Monks Behaving Badly: Explaining Buddhist Violence in Asia](https://direct.mit.edu/isec/article/49/4/119/130813/Monks-Behaving-Badly-Explaining-Buddhist-Violence)
