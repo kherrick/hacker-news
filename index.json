@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-28, 17:34:52",
+      "https://news.ycombinator.com/item?id=44118520"
+    ],
+    [
+      "I am disappointed in the AI discourse",
+      "https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 17:22:47",
+      "https://news.ycombinator.com/item?id=44118373"
+    ],
+    [
+      "Compiling a Neural Net to C for a 1,744× speedup",
+      "https://slightknack.dev/blog/difflogic/"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 17:01:26",
       "https://news.ycombinator.com/item?id=44118127"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44117722"
     ],
     [
-      "Compiler Explorer and the Promise of URLs That Last Forever",
+      "Compiler Explorer and the promise of URLs that last forever",
       "https://xania.org/202505/compiler-explorer-urls-forever"
     ]
   ],
@@ -181,42 +201,12 @@
   ],
   [
     [
-      "2025-05-28, 05:34:47",
-      "https://news.ycombinator.com/item?id=44113026"
-    ],
-    [
-      "DWARF as a Shared Reverse Engineering Format",
-      "https://lief.re/blog/2025-05-27-dwarf-editor/"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 02:39:11",
       "https://news.ycombinator.com/item?id=44112326"
     ],
     [
       "Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning",
       "https://news.ycombinator.com/item?id=44112326"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 00:01:20",
-      "https://news.ycombinator.com/item?id=44111673"
-    ],
-    [
-      "Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B",
-      "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 23:45:02",
-      "https://news.ycombinator.com/item?id=44111609"
-    ],
-    [
-      "Negotiating PoE+ Power in the Pre‑Boot Environment",
-      "https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Designing Tools for Scientific Thought",
       "https://www.forester-notes.org/tfmt-0001/index.xml"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 13:45:07",
+      "https://news.ycombinator.com/item?id=44087798"
+    ],
+    [
+      "Building interactive web pages with Guile Hoot",
+      "https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html"
     ]
   ],
   [
