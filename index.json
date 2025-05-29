@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44121732"
     ],
     [
-      "US Trade Court Finds Trump Tariffs Illegal",
+      "US Trade Court finds Trump tariffs illegal",
       "https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44120507"
     ],
     [
-      "Long live American Science and Surplus (which needs your help)",
+      "Long live American Science and Surplus",
       "https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/"
     ]
   ],
@@ -51,22 +51,22 @@
   ],
   [
     [
-      "2025-05-28, 20:13:56",
-      "https://news.ycombinator.com/item?id=44120224"
-    ],
-    [
-      "The anomalous magnetic moment of the muon in the Standard Model: an update",
-      "https://arxiv.org/abs/2505.21476"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 19:37:47",
       "https://news.ycombinator.com/item?id=44119890"
     ],
     [
       "What does “Undecidable” mean, anyway",
       "https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 18:35:28",
+      "https://news.ycombinator.com/item?id=44119173"
+    ],
+    [
+      "Prohibition and ice cream in the US Navy",
+      "https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/"
     ]
   ],
   [
@@ -191,22 +191,12 @@
   ],
   [
     [
-      "2025-05-28, 06:27:11",
-      "https://news.ycombinator.com/item?id=44113210"
+      "2025-05-27, 20:18:48",
+      "https://news.ycombinator.com/item?id=44110345"
     ],
     [
-      "As a developer, my most important tools are a pen and a notebook",
-      "https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 02:39:11",
-      "https://news.ycombinator.com/item?id=44112326"
-    ],
-    [
-      "Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning",
-      "https://news.ycombinator.com/item?id=44112326"
+      "Concatenative programming and stack-based languages (2023) [video]",
+      "https://www.youtube.com/watch?v=umSuLpjFUf8"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "YAD: display graphical dialogs from shell scripts or command line",
       "http://yad-guide.ingk.se/#_introduction"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 05:01:25",
+      "https://news.ycombinator.com/item?id=44094109"
+    ],
+    [
+      "A thought on JavaScript \"proof of work\" anti-scraper systems",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles"
     ]
   ],
   [
