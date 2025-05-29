@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-29, 20:44:46",
+      "https://news.ycombinator.com/item?id=44130226"
+    ],
+    [
+      "Superhuman performance of an LLM on the reasoning tasks of a physician",
+      "https://arxiv.org/abs/2412.10849"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 19:48:13",
       "https://news.ycombinator.com/item?id=44129603"
     ],
@@ -287,16 +297,6 @@
     [
       "The key to a successful egg drop experiment? Drop it on its side",
       "https://arstechnica.com/science/2025/05/the-key-to-a-successful-egg-drop-experiment-drop-it-on-its-side/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 20:06:25",
-      "https://news.ycombinator.com/item?id=44101175"
-    ],
-    [
-      "Show HN: Porting Terraria and Celeste to WebAssembly",
-      "https://velzie.rip/blog/celeste-wasm"
     ]
   ]
 ]
