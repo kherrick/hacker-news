@@ -25,6 +25,7 @@
 * [2025-05-27, 15:59:20](https://news.ycombinator.com/item?id=44108206) - [Launch HN: Relace (YC W23) – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
 * [2025-05-27, 15:52:49](https://news.ycombinator.com/item?id=44108139) - [Why Is Everybody Knitting Chickens?](https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/)
 * [2025-05-27, 15:33:55](https://news.ycombinator.com/item?id=44107942) - [Square Theory](https://aaronson.org/blog/square-theory)
+* [2025-05-27, 15:21:08](https://news.ycombinator.com/item?id=44107828) - [Editing repeats in Huntington's:fewer somatic repeat expansions in patient cells](https://www.nature.com/articles/s41588-025-02172-8)
 * [2025-05-27, 15:13:03](https://news.ycombinator.com/item?id=44107758) - [Show HN: Free mammogram analysis tool combining deep learning and vision LLM](http://mammo.neuralrad.com:5300)
 * [2025-05-27, 15:01:55](https://news.ycombinator.com/item?id=44107655) - [Pyrefly vs. Ty: Comparing Python's Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
 * [2025-05-27, 14:34:40](https://news.ycombinator.com/item?id=44107393) - [Show HN: Malai – securely share local TCP services (database/SSH) with others](https://malai.sh/hello-tcp/)
