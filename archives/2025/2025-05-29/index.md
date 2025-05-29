@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 14:33:43](https://news.ycombinator.com/item?id=44126518) - [Medieval Fogge: In Defence of the Middle Ages](https://www.historytoday.com/archive/making-history/medieval-fogge-defence-middle-ages)
 * [2025-05-29, 13:59:17](https://news.ycombinator.com/item?id=44126214) - [Domain Adaptation of Base Models + ShadowdarkQA Bench](https://gygaxtest.com/posts/continued_pretraining_for-rules/)
 * [2025-05-29, 13:33:31](https://news.ycombinator.com/item?id=44125966) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 * [2025-05-29, 12:06:17](https://news.ycombinator.com/item?id=44125183) - [The MAHA Report Cites Studies That Don't Exist](https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors)
@@ -18,6 +19,7 @@
 * [2025-05-29, 07:58:55](https://news.ycombinator.com/item?id=44123953) - [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
 * [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
 * [2025-05-29, 06:09:22](https://news.ycombinator.com/item?id=44123535) - [Show HN: Entropy – Sharing screen is scary in SaaS age](https://entropysec.io/)
+* [2025-05-29, 05:58:07](https://news.ycombinator.com/item?id=44123486) - [The Maid Who Restored Charles II](https://www.historytoday.com/archive/feature/maid-who-restored-charles-ii)
 * [2025-05-29, 05:55:12](https://news.ycombinator.com/item?id=44123474) - [The Art of the Critic](https://www.metropolitanreview.org/p/the-art-of-the-critic)
 * [2025-05-29, 05:05:43](https://news.ycombinator.com/item?id=44123289) - [RSyncUI – A SwiftUI based macOS GUI for rsync](https://github.com/rsyncOSX/RsyncUI)
 * [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
