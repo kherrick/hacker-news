@@ -23,6 +23,7 @@
 * [2025-05-27, 17:41:13](https://news.ycombinator.com/item?id=44109078) - [Signal to Windows Recall: Drop Dead](https://www.computerworld.com/article/3994265/signal-to-windows-recall-drop-dead.html)
 * [2025-05-27, 15:59:23](https://news.ycombinator.com/item?id=44108207) - [I Salvaged $6k of Luxury Items Discarded by Duke Students](https://indyweek.com/culture/duke-students-dumpster-diving/)
 * [2025-05-27, 15:59:20](https://news.ycombinator.com/item?id=44108206) - [Launch HN: Relace (YC W23) – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
+* [2025-05-27, 15:52:49](https://news.ycombinator.com/item?id=44108139) - [Why Is Everybody Knitting Chickens?](https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/)
 * [2025-05-27, 15:33:55](https://news.ycombinator.com/item?id=44107942) - [Square Theory](https://aaronson.org/blog/square-theory)
 * [2025-05-27, 15:13:03](https://news.ycombinator.com/item?id=44107758) - [Show HN: Free mammogram analysis tool combining deep learning and vision LLM](http://mammo.neuralrad.com:5300)
 * [2025-05-27, 15:01:55](https://news.ycombinator.com/item?id=44107655) - [Pyrefly vs. Ty: Comparing Python's Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)

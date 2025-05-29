@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 14:59:37](https://news.ycombinator.com/item?id=44126753) - [ClickHouse raises $350M Series C](https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era)
+* [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
 * [2025-05-29, 14:33:43](https://news.ycombinator.com/item?id=44126518) - [Medieval Fogge: In Defence of the Middle Ages](https://www.historytoday.com/archive/making-history/medieval-fogge-defence-middle-ages)
 * [2025-05-29, 13:59:17](https://news.ycombinator.com/item?id=44126214) - [Domain Adaptation of Base Models + ShadowdarkQA Bench](https://gygaxtest.com/posts/continued_pretraining_for-rules/)
 * [2025-05-29, 13:33:31](https://news.ycombinator.com/item?id=44125966) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
