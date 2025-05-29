@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-29, 20:44:46](https://news.ycombinator.com/item?id=44130226) - [Superhuman performance of an LLM on the reasoning tasks of a physician](https://arxiv.org/abs/2412.10849)
 * [2025-05-29, 19:48:13](https://news.ycombinator.com/item?id=44129603) - [California has got good at building giant batteries](https://www.economist.com/united-states/2025/05/22/california-has-got-really-good-at-building-giant-batteries)
 * [2025-05-29, 19:42:20](https://news.ycombinator.com/item?id=44129529) - [Untrusted chatbot AI between you & the internet is a disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
 * [2025-05-29, 18:39:22](https://news.ycombinator.com/item?id=44128901) - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
@@ -29,7 +30,6 @@
 * [2025-05-27, 15:21:08](https://news.ycombinator.com/item?id=44107828) - [Editing repeats in Huntington's:fewer somatic repeat expansions in patient cells](https://www.nature.com/articles/s41588-025-02172-8)
 * [2025-05-27, 12:30:53](https://news.ycombinator.com/item?id=44106299) - [Bertrand Piccard's Big Hydrogen Adventure – hydrogen fuel-cell aircraft](https://spectrum.ieee.org/hydrogen-fuel-cell-aircraft)
 * [2025-05-27, 11:06:10](https://news.ycombinator.com/item?id=44105746) - [Making C and Python Talk to Each Other](https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each)
-* [2025-05-27, 07:55:44](https://news.ycombinator.com/item?id=44104832) - [The key to a successful egg drop experiment? Drop it on its side](https://arstechnica.com/science/2025/05/the-key-to-a-successful-egg-drop-experiment-drop-it-on-its-side/)
 
 ## [Archives](archives/index.md)
 
