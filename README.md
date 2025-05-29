@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-29, 02:30:28](https://news.ycombinator.com/item?id=44122582) - [dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
 * [2025-05-29, 00:40:46](https://news.ycombinator.com/item?id=44121925) - [Show HN: Handover.ai – Knowledge transfer made easy](https://www.handover.ai/)
-* [2025-05-29, 00:06:19](https://news.ycombinator.com/item?id=44121732) - [US Trade Court finds Trump tariffs illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
 * [2025-05-28, 22:22:18](https://news.ycombinator.com/item?id=44121177) - [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
 * [2025-05-28, 20:47:30](https://news.ycombinator.com/item?id=44120507) - [Long live American Science and Surplus](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
 * [2025-05-28, 20:15:43](https://news.ycombinator.com/item?id=44120241) - [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
