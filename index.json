@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-29, 00:40:46",
+      "https://news.ycombinator.com/item?id=44121925"
+    ],
+    [
+      "Show HN: Handover.ai – Knowledge transfer made easy",
+      "https://www.handover.ai/"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 00:06:19",
       "https://news.ycombinator.com/item?id=44121732"
     ],
@@ -57,16 +67,6 @@
     [
       "What does “Undecidable” mean, anyway",
       "https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 18:35:28",
-      "https://news.ycombinator.com/item?id=44119173"
-    ],
-    [
-      "Prohibition and ice cream in the US Navy",
-      "https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-05-27, 20:53:03",
-      "https://news.ycombinator.com/item?id=44110584"
+      "2025-05-28, 02:39:11",
+      "https://news.ycombinator.com/item?id=44112326"
     ],
     [
-      "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
-      "https://simonwillison.net/2025/May/27/llm-tools/"
+      "Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning",
+      "https://news.ycombinator.com/item?id=44112326"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Unlocking Ractors: class instance variables in Ruby",
       "https://byroot.github.io/ruby/performance/2025/05/24/unlocking-ractors-class-variables.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 20:06:25",
+      "https://news.ycombinator.com/item?id=44101175"
+    ],
+    [
+      "Porting Terraria and Celeste to the Browser with WebAssembly",
+      "https://velzie.rip/blog/celeste-wasm"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Basic for the Raspberry Pi Pico and Pico 2",
       "https://geoffg.net/picomite.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 09:50:06",
-      "https://news.ycombinator.com/item?id=44086721"
-    ],
-    [
-      "Collatz's Ant and Similarity of Landscapes",
-      "https://gbragafibra.github.io/2025/05/18/collatz_ant3.html"
     ]
   ],
   [
