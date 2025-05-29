@@ -7,6 +7,7 @@
 * [2025-05-27, 23:47:15](https://news.ycombinator.com/item?id=44111616) - [Starship Flight 9 launches successfully, booster explodes on impact [video]](https://www.youtube.com/watch?v=okOzxHN9NOA)
 * [2025-05-27, 23:45:02](https://news.ycombinator.com/item?id=44111609) - [A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS](https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution)
 * [2025-05-27, 23:10:44](https://news.ycombinator.com/item?id=44111452) - [OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)](https://github.com/UCSBarchlab/OpenTPU)
+* [2025-05-27, 22:31:17](https://news.ycombinator.com/item?id=44111236) - [Show HN: Weather2Geo – Geolocate screenshots from weather widgets](https://github.com/elliott-diy/Weather2Geo)
 * [2025-05-27, 21:51:11](https://news.ycombinator.com/item?id=44110944) - [Ask HN: Decided I no longer want to be a SWE – what next?](https://news.ycombinator.com/item?id=44110944)
 * [2025-05-27, 21:48:54](https://news.ycombinator.com/item?id=44110931) - [Mustard Watches (1990)](https://girard.perso.math.cnrs.fr/mustard/article.html)
 * [2025-05-27, 20:53:03](https://news.ycombinator.com/item?id=44110584) - [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
