@@ -21,7 +21,6 @@
 * [2025-05-29, 05:58:07](https://news.ycombinator.com/item?id=44123486) - [The Maid Who Restored Charles II](https://www.historytoday.com/archive/feature/maid-who-restored-charles-ii)
 * [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
 * [2025-05-29, 02:30:28](https://news.ycombinator.com/item?id=44122582) - [Run a C# file directly using dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
-* [2025-05-28, 22:24:19](https://news.ycombinator.com/item?id=44121194) - [Why are some rocks on the moon highly magnetic?](https://news.mit.edu/2025/why-are-some-rocks-on-moon-highly-magnetic-0523)
 * [2025-05-28, 20:21:47](https://news.ycombinator.com/item?id=44120306) - [A visual exploration of vector embeddings](http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html)
 * [2025-05-28, 11:53:47](https://news.ycombinator.com/item?id=44114982) - [My website is ugly because I made it](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
 * [2025-05-28, 04:13:00](https://news.ycombinator.com/item?id=44112686) - [The Polymarket users betting on when Jesus will return](https://ericneyman.wordpress.com/2025/03/24/will-jesus-christ-return-in-an-election-year/)
@@ -30,6 +29,7 @@
 * [2025-05-27, 12:30:53](https://news.ycombinator.com/item?id=44106299) - [Bertrand Piccard's Big Hydrogen Adventure – hydrogen fuel-cell aircraft](https://spectrum.ieee.org/hydrogen-fuel-cell-aircraft)
 * [2025-05-27, 11:06:10](https://news.ycombinator.com/item?id=44105746) - [Making C and Python Talk to Each Other](https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each)
 * [2025-05-27, 07:55:44](https://news.ycombinator.com/item?id=44104832) - [The key to a successful egg drop experiment? Drop it on its side](https://arstechnica.com/science/2025/05/the-key-to-a-successful-egg-drop-experiment-drop-it-on-its-side/)
+* [2025-05-26, 20:06:25](https://news.ycombinator.com/item?id=44101175) - [Show HN: Porting Terraria and Celeste to WebAssembly](https://velzie.rip/blog/celeste-wasm)
 
 ## [Archives](archives/index.md)
 
