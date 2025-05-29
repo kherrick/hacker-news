@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-29, 19:33:33",
+      "https://news.ycombinator.com/item?id=44129425"
+    ],
+    [
+      "Sam Altman and Jony Ive Will Force A.I. Into Your Life",
+      "https://www.newyorker.com/culture/infinite-scroll/sam-altman-and-jony-ive-will-force-ai-into-your-life"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 18:46:31",
       "https://news.ycombinator.com/item?id=44128971"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2025-05-28, 01:53:43",
-      "https://news.ycombinator.com/item?id=44112149"
-    ],
-    [
-      "High-quality OLED displays now enabling integrated thin and multichannel audio",
-      "https://www.sciencedaily.com/releases/2025/05/250521125055.htm"
-    ]
-  ],
-  [
-    [
       "2025-05-27, 22:31:17",
       "https://news.ycombinator.com/item?id=44111236"
     ],
     [
       "Show HN: Weather2Geo – Geolocate screenshots from weather widgets",
       "https://github.com/elliott-diy/Weather2Geo"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 12:30:53",
+      "https://news.ycombinator.com/item?id=44106299"
+    ],
+    [
+      "Bertrand Piccard's Big Hydrogen Adventure – hydrogen fuel-cell aircraft",
+      "https://spectrum.ieee.org/hydrogen-fuel-cell-aircraft"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Porting Terraria and Celeste to WebAssembly",
       "https://velzie.rip/blog/celeste-wasm"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 13:43:45",
-      "https://news.ycombinator.com/item?id=44097362"
-    ],
-    [
-      "From Finite Integral Domains to Finite Fields",
-      "https://susam.net/from-finite-integral-domains-to-finite-fields.html"
     ]
   ]
 ]
