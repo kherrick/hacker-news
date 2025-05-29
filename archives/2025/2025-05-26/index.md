@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 23:49:11](https://news.ycombinator.com/item?id=44102712) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/)
 * [2025-05-26, 22:54:53](https://news.ycombinator.com/item?id=44102378) - [Most leading chatbots routinely exaggerate science findings](https://www.uu.nl/en/news/most-leading-chatbots-routinely-exaggerate-science-findings)
 * [2025-05-26, 22:53:51](https://news.ycombinator.com/item?id=44102376) - [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 * [2025-05-26, 22:50:15](https://news.ycombinator.com/item?id=44102366) - [Show HN: AI for Building Design, Planning, and Permitting](https://www.spacial.io/)
