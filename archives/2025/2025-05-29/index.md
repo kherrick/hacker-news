@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 00:40:46](https://news.ycombinator.com/item?id=44121925) - [Show HN: Handover.ai – Knowledge transfer made easy](https://www.handover.ai/)
 * [2025-05-29, 00:06:19](https://news.ycombinator.com/item?id=44121732) - [US Trade Court Finds Trump Tariffs Illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
