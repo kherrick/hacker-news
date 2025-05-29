@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
 * [2025-05-29, 11:05:43](https://news.ycombinator.com/item?id=44124820) - [Google Is Using AI to Censor Independent Websites Like Mine](https://travellemming.com/perspectives/ftc-letter-google-censors-indie-publishers-with-ai/)
+* [2025-05-29, 11:04:21](https://news.ycombinator.com/item?id=44124808) - [Simple programming language with offline usable browser IDE](https://tiki.li/apps/tut_learn.html?v=2505e)
 * [2025-05-29, 10:44:05](https://news.ycombinator.com/item?id=44124713) - [What Every Programmer Should Know about How CPUs Work – Matt Godbolt [video]](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-05-29, 10:29:31](https://news.ycombinator.com/item?id=44124652) - [Show HN: I made a Zero-config tool to visualize your code](https://staying.fun/en)
 * [2025-05-29, 10:00:34](https://news.ycombinator.com/item?id=44124529) - [Data Breach at LexisNexis Risk Solutions Impacts 364,000](https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/)
