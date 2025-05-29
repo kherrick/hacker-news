@@ -7,6 +7,7 @@
 * [2025-05-28, 22:22:18](https://news.ycombinator.com/item?id=44121177) - [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
 * [2025-05-28, 20:47:30](https://news.ycombinator.com/item?id=44120507) - [Long live American Science and Surplus (which needs your help)](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
 * [2025-05-28, 20:31:08](https://news.ycombinator.com/item?id=44120381) - [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/abs/2305.09515)
+* [2025-05-28, 20:21:47](https://news.ycombinator.com/item?id=44120306) - [A visual exploration of vector embeddings](http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html)
 * [2025-05-28, 20:15:43](https://news.ycombinator.com/item?id=44120241) - [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
 * [2025-05-28, 20:13:56](https://news.ycombinator.com/item?id=44120224) - [The anomalous magnetic moment of the muon in the Standard Model: an update](https://arxiv.org/abs/2505.21476)
 * [2025-05-28, 19:37:47](https://news.ycombinator.com/item?id=44119890) - [What does \"Undecidable\" mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
