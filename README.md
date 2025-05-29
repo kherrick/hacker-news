@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
 * [2025-05-29, 02:30:28](https://news.ycombinator.com/item?id=44122582) - [dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
 * [2025-05-29, 00:40:46](https://news.ycombinator.com/item?id=44121925) - [Show HN: Handover.ai – Knowledge transfer made easy](https://www.handover.ai/)
 * [2025-05-28, 22:22:18](https://news.ycombinator.com/item?id=44121177) - [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
@@ -18,7 +19,6 @@
 * [2025-05-28, 15:13:38](https://news.ycombinator.com/item?id=44116872) - [LLM codegen go brrr – Parallelization with Git worktrees and tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 14:11:47](https://news.ycombinator.com/item?id=44116236) - [De-anonymization attacks against the privacy coin XMR](https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/)
 * [2025-05-28, 13:43:38](https://news.ycombinator.com/item?id=44115973) - [The Blowtorch Theory: A new model for structure formation in the universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
-* [2025-05-27, 20:18:48](https://news.ycombinator.com/item?id=44110345) - [Concatenative programming and stack-based languages (2023) [video]](https://www.youtube.com/watch?v=umSuLpjFUf8)
 * [2025-05-27, 06:26:46](https://news.ycombinator.com/item?id=44104399) - [3D Simulation of the Bombe Machine](https://bombe.virtualcolossus.co.uk/bombe/)
 * [2025-05-26, 21:49:48](https://news.ycombinator.com/item?id=44101997) - [Unlocking Ractors: class instance variables in Ruby](https://byroot.github.io/ruby/performance/2025/05/24/unlocking-ractors-class-variables.html)
 * [2025-05-26, 20:06:25](https://news.ycombinator.com/item?id=44101175) - [Porting Terraria and Celeste to the Browser with WebAssembly](https://velzie.rip/blog/celeste-wasm)
