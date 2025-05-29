@@ -46,6 +46,7 @@
 * [2025-05-27, 08:59:51](https://news.ycombinator.com/item?id=44105148) - [Can Open Source Projects Exit Foundations?](https://www.infoq.com/news/2025/05/nats-cncf-open-source/)
 * [2025-05-27, 08:46:45](https://news.ycombinator.com/item?id=44105089) - [Using Logic in Writing](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html)
 * [2025-05-27, 08:19:24](https://news.ycombinator.com/item?id=44104946) - [Rosettacode is down. Any ideas why?](https://www.rosettacode.com)
+* [2025-05-27, 07:55:44](https://news.ycombinator.com/item?id=44104832) - [The key to a successful egg drop experiment? Drop it on its side](https://arstechnica.com/science/2025/05/the-key-to-a-successful-egg-drop-experiment-drop-it-on-its-side/)
 * [2025-05-27, 07:36:53](https://news.ycombinator.com/item?id=44104740) - [He has powered his house for 8 years using laptop batteries](https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/)
 * [2025-05-27, 07:00:41](https://news.ycombinator.com/item?id=44104573) - [Diligent (YC S23) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer)
 * [2025-05-27, 06:26:46](https://news.ycombinator.com/item?id=44104399) - [3D Simulation of the Bombe Machine](https://bombe.virtualcolossus.co.uk/bombe/)
