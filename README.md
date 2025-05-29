@@ -26,8 +26,8 @@
 * [2025-05-27, 08:59:51](https://news.ycombinator.com/item?id=44105148) - [Can Open Source Projects Exit Foundations?](https://www.infoq.com/news/2025/05/nats-cncf-open-source/)
 * [2025-05-26, 23:49:11](https://news.ycombinator.com/item?id=44102712) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/)
 * [2025-05-26, 20:06:25](https://news.ycombinator.com/item?id=44101175) - [Show HN: Porting Terraria and Celeste to WebAssembly](https://velzie.rip/blog/celeste-wasm)
+* [2025-05-26, 17:33:16](https://news.ycombinator.com/item?id=44099591) - [Walkers' Sensations Poppadoms vs. HMRC: The Chip of Theseus](https://www.ft.com/content/3a64f96e-3214-48ba-9da4-76b3fb7ab8c1)
 * [2025-05-26, 13:43:45](https://news.ycombinator.com/item?id=44097362) - [From Finite Integral Domains to Finite Fields](https://susam.net/from-finite-integral-domains-to-finite-fields.html)
-* [2025-05-26, 12:29:53](https://news.ycombinator.com/item?id=44096823) - [Grass Rendering Series](https://hexaquo.at/pages/grass-rendering-series-part-1-theory/)
 * [2025-05-25, 13:46:56](https://news.ycombinator.com/item?id=44087809) - [What If We Had Bigger Brains? Imagining Minds Beyond Ours](https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/)
 * [2025-05-25, 08:33:46](https://news.ycombinator.com/item?id=44086429) - [Visualize and debug Rust programs with a new lens](https://firedbg.sea-ql.org/)
 
