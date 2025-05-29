@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44121177"
     ],
     [
-      "HTAP Databases Are Dead",
+      "HTAP is Dead",
       "https://www.mooncake.dev/blog/htap-is-dead"
     ]
   ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-05-28, 15:48:37",
-      "https://news.ycombinator.com/item?id=44117302"
-    ],
-    [
-      "Getting a Cease and Desist from Waffle House",
-      "https://www.jack.bio/blog/wafflehouse"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 15:27:42",
       "https://news.ycombinator.com/item?id=44117059"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-05-27, 12:29:12",
+      "https://news.ycombinator.com/item?id=44106285"
+    ],
+    [
+      "5-year study suggests chimps strike stones against trees as communication",
+      "https://phys.org/news/2025-05-year-chimpanzees-stones-trees-communication.html"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 06:26:46",
       "https://news.ycombinator.com/item?id=44104399"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=44101175"
     ],
     [
-      "Porting Terraria and Celeste to the Browser with WebAssembly",
+      "Show HN: Porting Terraria and Celeste to WebAssembly",
       "https://velzie.rip/blog/celeste-wasm"
     ]
   ],
