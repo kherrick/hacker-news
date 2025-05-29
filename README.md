@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-29, 10:44:05](https://news.ycombinator.com/item?id=44124713) - [What Every Programmer Should Know about How CPUs Work – Matt Godbolt [video]](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-05-29, 10:29:31](https://news.ycombinator.com/item?id=44124652) - [Show HN: I made a Zero-config tool to visualize your code](https://staying.fun/en)
 * [2025-05-29, 10:00:34](https://news.ycombinator.com/item?id=44124529) - [Data Breach at LexisNexis Risk Solutions Impacts 364,000](https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/)
 * [2025-05-29, 09:27:00](https://news.ycombinator.com/item?id=44124369) - [A Song of “Full Self-Driving”: Elon Isn’t Tony Stark. He’s Michael Scott.](https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott)
-* [2025-05-29, 08:04:25](https://news.ycombinator.com/item?id=44123984) - [Nobel Laureate Daron Acemoglu: Don't Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05)
 * [2025-05-29, 07:58:55](https://news.ycombinator.com/item?id=44123953) - [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
 * [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
 * [2025-05-29, 06:09:22](https://news.ycombinator.com/item?id=44123535) - [Show HN: Entropy – Sharing screen is scary in SaaS age](https://entropysec.io/)
@@ -27,8 +27,8 @@
 * [2025-05-26, 20:06:25](https://news.ycombinator.com/item?id=44101175) - [Show HN: Porting Terraria and Celeste to WebAssembly](https://velzie.rip/blog/celeste-wasm)
 * [2025-05-26, 13:43:45](https://news.ycombinator.com/item?id=44097362) - [From Finite Integral Domains to Finite Fields](https://susam.net/from-finite-integral-domains-to-finite-fields.html)
 * [2025-05-26, 12:29:53](https://news.ycombinator.com/item?id=44096823) - [Grass Rendering Series](https://hexaquo.at/pages/grass-rendering-series-part-1-theory/)
+* [2025-05-25, 14:00:07](https://news.ycombinator.com/item?id=44087898) - [A Visual History of Chessmen](https://chesshistory.github.io/)
 * [2025-05-25, 13:46:56](https://news.ycombinator.com/item?id=44087809) - [What If We Had Bigger Brains? Imagining Minds Beyond Ours](https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/)
-* [2025-05-25, 12:10:44](https://news.ycombinator.com/item?id=44087248) - [Basic for the Raspberry Pi Pico and Pico 2](https://geoffg.net/picomite.html)
 * [2025-05-25, 08:33:46](https://news.ycombinator.com/item?id=44086429) - [Visualize and debug Rust programs with a new lens](https://firedbg.sea-ql.org/)
 
 ## [Archives](archives/index.md)
