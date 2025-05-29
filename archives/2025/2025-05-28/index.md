@@ -42,6 +42,7 @@
 * [2025-05-28, 12:48:40](https://news.ycombinator.com/item?id=44115466) - [Monks Behaving Badly: Explaining Buddhist Violence in Asia](https://direct.mit.edu/isec/article/49/4/119/130813/Monks-Behaving-Badly-Explaining-Buddhist-Violence)
 * [2025-05-28, 12:37:07](https://news.ycombinator.com/item?id=44115369) - [The 'Man-Eater' Screwworm Is Coming](https://www.theatlantic.com/science/archive/2025/05/screwworms-outbreak-united-states/682925/)
 * [2025-05-28, 12:32:03](https://news.ycombinator.com/item?id=44115326) - [The Colorado River is running low. The picture looks even worse underground](https://www.washingtonpost.com/climate-environment/2025/05/27/american-west-drought-water-colorado-river/)
+* [2025-05-28, 12:21:44](https://news.ycombinator.com/item?id=44115244) - [Flash Back: An \"oral\" history of Flash](https://goodinternetmagazine.com/oral-history-of-flash/)
 * [2025-05-28, 12:03:08](https://news.ycombinator.com/item?id=44115064) - [Why Good Ideas Die Quietly and Bad Ideas Go Viral](https://www.newyorker.com/books/under-review/why-good-ideas-die-quietly-and-bad-ideas-go-viral)
 * [2025-05-28, 11:53:47](https://news.ycombinator.com/item?id=44114982) - [My website is ugly because I made it](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
 * [2025-05-28, 10:50:23](https://news.ycombinator.com/item?id=44114631) - [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/)
