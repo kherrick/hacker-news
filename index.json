@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-29, 14:05:27",
+      "https://news.ycombinator.com/item?id=44126264"
+    ],
+    [
+      "Nova: A JavaScript and WebAssembly engine written in Rust",
+      "https://trynova.dev/"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 13:59:17",
       "https://news.ycombinator.com/item?id=44126214"
     ],
@@ -37,6 +47,16 @@
     [
       "Learning C3",
       "https://alloc.dev/2025/05/29/learning_c3"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 12:39:24",
+      "https://news.ycombinator.com/item?id=44125489"
+    ],
+    [
+      "I started a little math club in Bangalore",
+      "https://teachyourselfmath.app/club"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-05-28, 22:22:18",
-      "https://news.ycombinator.com/item?id=44121177"
-    ],
-    [
-      "HTAP is Dead",
-      "https://www.mooncake.dev/blog/htap-is-dead"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 20:47:30",
       "https://news.ycombinator.com/item?id=44120507"
     ],
@@ -157,16 +167,6 @@
     [
       "A toy RTOS inside Super Mario Bros. using emulator save states",
       "https://prettygoodblog.com/p/what-threads-are-part-2"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 17:22:47",
-      "https://news.ycombinator.com/item?id=44118373"
-    ],
-    [
-      "Compiling a neural net to C for a speedup",
-      "https://slightknack.dev/blog/difflogic/"
     ]
   ],
   [
