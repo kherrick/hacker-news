@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-29, 17:01:42](https://news.ycombinator.com/item?id=44127956) - [Human coders are still better than LLMs](https://www.antirez.com/news/153)
 * [2025-05-29, 17:01:18](https://news.ycombinator.com/item?id=44127948) - [Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
 * [2025-05-29, 16:41:04](https://news.ycombinator.com/item?id=44127739) - [Human coders are still better than LLMs](https://antirez.com/news/153)
 * [2025-05-29, 15:43:56](https://news.ycombinator.com/item?id=44127177) - [Civil War in 3D: Stereographs from the New-York Historical Society (2015)](https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society)
 * [2025-05-29, 15:43:33](https://news.ycombinator.com/item?id=44127173) - [Putting Rigid Bodies to Rest](https://twitter.com/keenanisalive/status/1925225500659658999)
 * [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [WeatherStar 4000+: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
 * [2025-05-29, 15:30:17](https://news.ycombinator.com/item?id=44127027) - [The flip phone web: browsing with the original Opera Mini](https://www.spacebar.news/the-flip-phone-web-browsing-with-the-original-opera-mini/)
-* [2025-05-29, 14:59:37](https://news.ycombinator.com/item?id=44126753) - [ClickHouse raises $350M Series C](https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era)
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
 * [2025-05-29, 14:05:27](https://news.ycombinator.com/item?id=44126264) - [Nova: A JavaScript and WebAssembly engine written in Rust](https://trynova.dev/)
 * [2025-05-29, 13:59:17](https://news.ycombinator.com/item?id=44126214) - [Domain Adaptation of Base Models + ShadowdarkQA Bench](https://gygaxtest.com/posts/continued_pretraining_for-rules/)
