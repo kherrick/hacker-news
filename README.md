@@ -20,7 +20,7 @@
 * [2025-05-28, 16:33:49](https://news.ycombinator.com/item?id=44117779) - [Japan Post launches 'digital address' system](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/)
 * [2025-05-28, 16:28:20](https://news.ycombinator.com/item?id=44117722) - [Compiler Explorer and the promise of URLs that last forever](https://xania.org/202505/compiler-explorer-urls-forever)
 * [2025-05-28, 11:53:47](https://news.ycombinator.com/item?id=44114982) - [My website is ugly because I made it](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
-* [2025-05-28, 04:13:00](https://news.ycombinator.com/item?id=44112686) - [The Polymarket users betting that Jesus will return this year](https://ericneyman.wordpress.com/2025/03/24/will-jesus-christ-return-in-an-election-year/)
+* [2025-05-28, 04:13:00](https://news.ycombinator.com/item?id=44112686) - [The Polymarket users betting on when Jesus will return](https://ericneyman.wordpress.com/2025/03/24/will-jesus-christ-return-in-an-election-year/)
 * [2025-05-28, 01:53:43](https://news.ycombinator.com/item?id=44112149) - [High-quality OLED displays now enabling integrated thin and multichannel audio](https://www.sciencedaily.com/releases/2025/05/250521125055.htm)
 * [2025-05-27, 22:31:17](https://news.ycombinator.com/item?id=44111236) - [Show HN: Weather2Geo – Geolocate screenshots from weather widgets](https://github.com/elliott-diy/Weather2Geo)
 * [2025-05-27, 15:52:49](https://news.ycombinator.com/item?id=44108139) - [Why Is Everybody Knitting Chickens?](https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/)
