@@ -54,6 +54,7 @@
 * [2025-05-26, 14:00:50](https://news.ycombinator.com/item?id=44097490) - [Google Is Burying the Web Alive](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html)
 * [2025-05-26, 13:46:25](https://news.ycombinator.com/item?id=44097390) - [GitHub MCP exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 * [2025-05-26, 13:46:11](https://news.ycombinator.com/item?id=44097387) - [Nick Clegg says asking artists for use permission would 'kill' AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
+* [2025-05-26, 13:43:45](https://news.ycombinator.com/item?id=44097362) - [From Finite Integral Domains to Finite Fields](https://susam.net/from-finite-integral-domains-to-finite-fields.html)
 * [2025-05-26, 13:40:47](https://news.ycombinator.com/item?id=44097350) - [$64B of data center projects blocked or delayed amid local opposition](https://www.datacenterwatch.org/report)
 * [2025-05-26, 13:35:20](https://news.ycombinator.com/item?id=44097311) - [As a programmer, get your math sorted](https://www.csprimer.in/series/dm)
 * [2025-05-26, 13:31:58](https://news.ycombinator.com/item?id=44097289) - [Where hyperscale hardware goes to retire: Ars visits a big ITAD site](https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/)
