@@ -52,6 +52,7 @@
 * [2025-05-25, 13:08:24](https://news.ycombinator.com/item?id=44087541) - [Programming Basics with Tiki](https://tiki.li/)
 * [2025-05-25, 12:38:27](https://news.ycombinator.com/item?id=44087390) - [Mathematical Fiction](https://kasmana.people.charleston.edu/MATHFICT/default.html)
 * [2025-05-25, 12:35:30](https://news.ycombinator.com/item?id=44087373) - [Programming on 34 Keys (2022)](https://oppi.li/posts/programming_on_34_keys/)
+* [2025-05-25, 12:10:44](https://news.ycombinator.com/item?id=44087248) - [Basic for the Raspberry Pi Pico and Pico 2](https://geoffg.net/picomite.html)
 * [2025-05-25, 11:59:06](https://news.ycombinator.com/item?id=44087195) - [In defense of shallow technical knowledge](https://www.seangoedecke.com/shallow-technical-knowledge/)
 * [2025-05-25, 11:56:16](https://news.ycombinator.com/item?id=44087183) - [Investigating Wrench Attacks: Physical Attacks Targeting Cryptocurrency Users [pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf)
 * [2025-05-25, 11:48:30](https://news.ycombinator.com/item?id=44087150) - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)

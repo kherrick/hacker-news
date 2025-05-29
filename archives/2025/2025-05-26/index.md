@@ -57,6 +57,7 @@
 * [2025-05-26, 13:31:58](https://news.ycombinator.com/item?id=44097289) - [Where hyperscale hardware goes to retire: Ars visits a big ITAD site](https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/)
 * [2025-05-26, 13:14:29](https://news.ycombinator.com/item?id=44097144) - [Engineers Discover New Class of Materials That Passively Harvest Water from Air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
 * [2025-05-26, 12:39:09](https://news.ycombinator.com/item?id=44096907) - [Emilua is an execution engine. As a runtime for your Lua programs](https://docs.emilua.org/api/0.11/index.html)
+* [2025-05-26, 12:29:53](https://news.ycombinator.com/item?id=44096823) - [Grass Rendering Series](https://hexaquo.at/pages/grass-rendering-series-part-1-theory/)
 * [2025-05-26, 12:28:12](https://news.ycombinator.com/item?id=44096808) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-26, 11:34:28](https://news.ycombinator.com/item?id=44096395) - [TIL: timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
 * [2025-05-26, 11:18:59](https://news.ycombinator.com/item?id=44096251) - [The double standard of webhook security and API security](https://www.speakeasy.com/blog/webhook-security)
