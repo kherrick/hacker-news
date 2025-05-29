@@ -129,6 +129,48 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44128971">
+          <h3>
+            <a
+              class="item"
+              href="https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines"
+              >The Headlines Are Evil, and They're Bringing Us Down</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-29 @ 18:46:31</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44128971"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44128901">
+          <h3>
+            <a
+              class="item"
+              href="https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/"
+              >Airlines are charging solo passengers higher fares than groups</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-29 @ 18:39:22</span
+              ><span class="points-container"
+                >Points: <span class="points">65</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44128901"
+                  >Comments</a
+                ><span class="descendants">: 49</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44128322">
           <h3>
             <a class="item" href="https://bfl.ai/models/flux-kontext"
@@ -139,11 +181,11 @@
             <h4>
               <span>2025-05-29 @ 17:40:35</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44128322"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -176,153 +218,13 @@
             <h4>
               <span>2025-05-29 @ 16:41:04</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44127739"
                   >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44127653">
-          <h3>
-            <a class="item" href="https://beta.onlook.com/"
-              >Show HN: Open-source, visual-first Cursor for Designers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-29 @ 16:31:15</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44127653"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I’m Kiet – one half of the two-person team building Onlook, an
-                open-source [<a href="https://github.com/onlook-dev/onlook/"
-                  >https://github.com/onlook-dev/onlook/</a
-                >] visual editor that lets you edit and create React apps live
-                on an infinite canvas.
-              </p>
-              <p>
-                We launched Onlook [1][2] as a local-first Electron app almost a
-                year ago. Since then, “prompt-to-build” tools have blown up, but
-                none let you design and iterate visually. We fixed that by
-                taking a visual-first, AI-powered approach where you can prompt,
-                style, and directly manipulate elements in your app like in a
-                design tool.
-              </p>
-              <p>
-                Two months ago, we decided to move away from Electron and
-                rewrite everything for the browser. We wanted to remove the
-                friction of downloading hundreds of MBs and setting up a
-                development environment just to use the app. I wrote more here
-                [3] about how we did it, but here are some learnings from the
-                whole migration:
-              </p>
-              <p>
-                1. While most of the React UI code can be reused, mapping from
-                Electron’s SPA experience to a Next.js app with routes is
-                non-trivial on the state management side.
-              </p>
-              <p>
-                2. We were storing most of the data locally as large JSON
-                objects. Moving that to a remote database required major
-                refactoring into tables and more loading states. We didn’t have
-                to think as hard about querying and load time before.
-              </p>
-              <p>
-                3. Iframes in the browser enforce many more restrictions than
-                Electron webview. Working around this required us to inject code
-                directly into the user project in order to do cross-iframe
-                communication.
-              </p>
-              <p>
-                4. Keeping API keys secure is much easier on a web application
-                than an Electron app. In Electron, every key we leave on the
-                client can be statically accessed. Hence, we had to proxy any
-                SDK we used that required an API key into a server call. In the
-                web app, we can just keep the keys on the server.
-              </p>
-              <p>
-                5. Pushing a release bundle in Electron can take 1+ hours. And
-                some users may never update. If we had a bug in the autoupdater
-                itself, certain users could be “stranded” in an old version
-                forever, and we’d have to email them to update. Though this is
-                still better than mobile apps that go through an app store, it’s
-                still very poor DX.
-              </p>
-              <p>How does Onlook for web work?</p>
-              <p>
-                We start by connecting to a remote “sandbox” [4]. The visual
-                editing component happens through an iframe. We map the HTML
-                element in the iframe to the location in code. Then, when an
-                edit is made, we simulate the change on the iframe and edit the
-                code at the same time. This way, visual changes always feel
-                instant.
-              </p>
-              <p>
-                While we’re still ironing out the experience, you can already: -
-                Select elements and prompt changes
-              </p>
-              <p>- Update TailwindCSS classes via the styling UI</p>
-              <p>- Draw in new divs and elements</p>
-              <p>- Preview on multiple screen sizes</p>
-              <p>- Edit your code through an in-browser IDE</p>
-              <p>
-                We want to make it trivial for anyone to create, style, and edit
-                codebases. We’re still porting over functionalities from the
-                desktop app — layers, fonts, hosting, git, etc. Once that is
-                done, we plan on adding support for back-end functionalities
-                such as auth, database, and API calls.
-              </p>
-              <p>
-                Special thank you to the 70+ contributors who have helped create
-                the Onlook experience! I think there’s still a lot to be solved
-                for in the design and dev workflow, and I think the tech is
-                almost there.
-              </p>
-              <p>
-                You can clone the project and run it from our repo (linked to
-                this post) or try it out at
-                <a href="https://beta.onlook.com">https://beta.onlook.com</a>
-                where we’re letting people try it out for free.
-              </p>
-              <p>
-                I’d love to hear what you think and where we should take it next
-                :)
-              </p>
-              <p>
-                [1]
-                <a href="https://news.ycombinator.com/item?id=41390449"
-                  >https://news.ycombinator.com/item?id=41390449</a
-                >
-              </p>
-              <p>
-                [2]
-                <a href="https://news.ycombinator.com/item?id=40904862"
-                  >https://news.ycombinator.com/item?id=40904862</a
-                >
-              </p>
-              <p>
-                [3]
-                <a
-                  href="https://docs.onlook.com/docs/developer/electron-to-web-migration"
-                  >https://docs.onlook.com/docs/developer/electron-to-web-migra...</a
-                >
-              </p>
-              <p>
-                [4] Currently, the sandbox is through CodeSandbox, but we plan
-                to add support for connecting to a locally running server as
-                well.
-              </p>
-            </div>
           </section>
         </section>
         <section id="44127177">
@@ -338,7 +240,7 @@
             <h4>
               <span>2025-05-29 @ 15:43:56</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44127177"
                   >Comments</a
@@ -359,7 +261,7 @@
             <h4>
               <span>2025-05-29 @ 15:43:33</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44127173"
                   >Comments</a
@@ -384,11 +286,11 @@
             <h4>
               <span>2025-05-29 @ 15:38:45</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">273</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44127109"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -405,7 +307,7 @@
             <h4>
               <span>2025-05-29 @ 15:30:17</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44127027"
                   >Comments</a
@@ -424,11 +326,11 @@
             <h4>
               <span>2025-05-29 @ 14:44:33</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44126612"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
             <div class="text">
@@ -483,7 +385,7 @@
             <h4>
               <span>2025-05-29 @ 14:05:27</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44126264"
                   >Comments</a
@@ -502,11 +404,11 @@
             <h4>
               <span>2025-05-29 @ 13:33:31</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44125966"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -521,7 +423,7 @@
             <h4>
               <span>2025-05-29 @ 12:39:24</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44125489"
                   >Comments</a
@@ -540,11 +442,11 @@
             <h4>
               <span>2025-05-29 @ 11:04:21</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44124808"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -559,7 +461,7 @@
             <h4>
               <span>2025-05-29 @ 10:29:31</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44124652"
                   >Comments</a
@@ -575,25 +477,6 @@
             </div>
           </section>
         </section>
-        <section id="44123953">
-          <h3>
-            <a class="item" href="https://github.com/kahole/edamagit"
-              >Edamagit: Magit for VSCode</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-29 @ 07:58:55</span
-              ><span class="points-container"
-                >Points: <span class="points">113</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44123953"
-                  >Comments</a
-                ><span class="descendants">: 71</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44123852">
           <h3>
             <a class="item" href="https://cybercultural.com/p/web-design-1997/"
@@ -604,11 +487,11 @@
             <h4>
               <span>2025-05-29 @ 07:33:02</span
               ><span class="points-container"
-                >Points: <span class="points">316</span></span
+                >Points: <span class="points">317</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44123852"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -625,7 +508,7 @@
             <h4>
               <span>2025-05-29 @ 05:58:07</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44123486"
                   >Comments</a
@@ -701,11 +584,11 @@
             <h4>
               <span>2025-05-29 @ 02:30:28</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44122582"
                   >Comments</a
-                ><span class="descendants">: 225</span></span
+                ><span class="descendants">: 226</span></span
               >
             </h4>
           </section>
@@ -722,7 +605,7 @@
             <h4>
               <span>2025-05-28 @ 20:47:30</span
               ><span class="points-container"
-                >Points: <span class="points">364</span></span
+                >Points: <span class="points">367</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44120507"
                   >Comments</a
@@ -743,11 +626,11 @@
             <h4>
               <span>2025-05-28 @ 20:21:47</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44120306"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -764,11 +647,11 @@
             <h4>
               <span>2025-05-28 @ 19:04:14</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44119502"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -785,11 +668,11 @@
             <h4>
               <span>2025-05-28 @ 11:53:47</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">337</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44114982"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -806,11 +689,11 @@
             <h4>
               <span>2025-05-28 @ 04:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44112686"
                   >Comments</a
-                ><span class="descendants">: 356</span></span
+                ><span class="descendants">: 363</span></span
               >
             </h4>
           </section>
@@ -848,7 +731,7 @@
             <h4>
               <span>2025-05-27 @ 22:31:17</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44111236"
                   >Comments</a
@@ -904,11 +787,11 @@
             <h4>
               <span>2025-05-27 @ 11:06:10</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44105746"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -926,7 +809,7 @@
             <h4>
               <span>2025-05-27 @ 07:55:44</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44104832"
                   >Comments</a
@@ -945,7 +828,7 @@
             <h4>
               <span>2025-05-26 @ 20:06:25</span
               ><span class="points-container"
-                >Points: <span class="points">298</span></span
+                >Points: <span class="points">299</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44101175"
                   >Comments</a
@@ -966,7 +849,7 @@
             <h4>
               <span>2025-05-26 @ 13:43:45</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44097362"
                   >Comments</a
