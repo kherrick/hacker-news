@@ -40,6 +40,7 @@
 * [2025-05-27, 10:33:56](https://news.ycombinator.com/item?id=44105592) - [The Myth of Developer Obsolescence](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
 * [2025-05-27, 10:03:00](https://news.ycombinator.com/item?id=44105470) - [Revisiting the Algorithm That Changed Horse Race Betting](https://actamachina.com/posts/annotated-benter-paper)
 * [2025-05-27, 09:50:04](https://news.ycombinator.com/item?id=44105412) - [LiveStore: State management based on reactive SQLite and built-in sync engine](https://livestore.dev)
+* [2025-05-27, 08:59:51](https://news.ycombinator.com/item?id=44105148) - [Can Open Source Projects Exit Foundations?](https://www.infoq.com/news/2025/05/nats-cncf-open-source/)
 * [2025-05-27, 08:46:45](https://news.ycombinator.com/item?id=44105089) - [Using Logic in Writing](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html)
 * [2025-05-27, 08:19:24](https://news.ycombinator.com/item?id=44104946) - [Rosettacode is down. Any ideas why?](https://www.rosettacode.com)
 * [2025-05-27, 07:36:53](https://news.ycombinator.com/item?id=44104740) - [He has powered his house for 8 years using laptop batteries](https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/)
