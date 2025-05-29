@@ -33,6 +33,7 @@
 * [2025-05-27, 13:43:11](https://news.ycombinator.com/item?id=44106934) - [DuckLake is an integrated data lake and catalog format](https://ducklake.select/)
 * [2025-05-27, 13:33:38](https://news.ycombinator.com/item?id=44106842) - [Outcome-Based Reinforcement Learning to Predict the Future](https://arxiv.org/abs/2505.17989)
 * [2025-05-27, 13:25:45](https://news.ycombinator.com/item?id=44106764) - [The Art of Fugue – Contrapunctus I (2021)](https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/)
+* [2025-05-27, 12:30:53](https://news.ycombinator.com/item?id=44106299) - [Bertrand Piccard's Big Hydrogen Adventure – hydrogen fuel-cell aircraft](https://spectrum.ieee.org/hydrogen-fuel-cell-aircraft)
 * [2025-05-27, 12:29:12](https://news.ycombinator.com/item?id=44106285) - [5-year study suggests chimps strike stones against trees as communication](https://phys.org/news/2025-05-year-chimpanzees-stones-trees-communication.html)
 * [2025-05-27, 11:46:30](https://news.ycombinator.com/item?id=44105965) - [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
 * [2025-05-27, 11:31:02](https://news.ycombinator.com/item?id=44105878) - [Just make it scale: An Aurora DSQL story](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html)

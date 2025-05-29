@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 19:33:33](https://news.ycombinator.com/item?id=44129425) - [Sam Altman and Jony Ive Will Force A.I. Into Your Life](https://www.newyorker.com/culture/infinite-scroll/sam-altman-and-jony-ive-will-force-ai-into-your-life)
 * [2025-05-29, 18:46:31](https://news.ycombinator.com/item?id=44128971) - [The Headlines Are Evil, and They're Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)
 * [2025-05-29, 18:39:22](https://news.ycombinator.com/item?id=44128901) - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
