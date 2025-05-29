@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 12:06:17](https://news.ycombinator.com/item?id=44125183) - [The MAHA Report Cites Studies That Don't Exist](https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors)
+* [2025-05-29, 11:47:55](https://news.ycombinator.com/item?id=44125059) - [I taught my 3-year-old to read like a 9-year-old](https://www.theintrinsicperspective.com/p/how-i-taught-my-3-year-old-to-read)
 * [2025-05-29, 11:05:43](https://news.ycombinator.com/item?id=44124820) - [Google Is Using AI to Censor Independent Websites Like Mine](https://travellemming.com/perspectives/ftc-letter-google-censors-indie-publishers-with-ai/)
 * [2025-05-29, 11:04:21](https://news.ycombinator.com/item?id=44124808) - [Simple programming language with offline usable browser IDE](https://tiki.li/apps/tut_learn.html?v=2505e)
 * [2025-05-29, 10:44:05](https://news.ycombinator.com/item?id=44124713) - [What Every Programmer Should Know about How CPUs Work – Matt Godbolt [video]](https://www.youtube.com/watch?v=-HNpim5x-IE)
