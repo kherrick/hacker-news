@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-29, 19:33:33](https://news.ycombinator.com/item?id=44129425) - [Sam Altman and Jony Ive Will Force A.I. Into Your Life](https://www.newyorker.com/culture/infinite-scroll/sam-altman-and-jony-ive-will-force-ai-into-your-life)
-* [2025-05-29, 18:46:31](https://news.ycombinator.com/item?id=44128971) - [The Headlines Are Evil, and They're Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)
 * [2025-05-29, 18:39:22](https://news.ycombinator.com/item?id=44128901) - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
 * [2025-05-29, 17:16:54](https://news.ycombinator.com/item?id=44128101) - [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing)
@@ -25,11 +23,13 @@
 * [2025-05-28, 19:04:14](https://news.ycombinator.com/item?id=44119502) - [Unhappy Meals (2007)](https://michaelpollan.com/articles-archive/unhappy-meals/)
 * [2025-05-28, 11:53:47](https://news.ycombinator.com/item?id=44114982) - [My website is ugly because I made it](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
 * [2025-05-28, 04:13:00](https://news.ycombinator.com/item?id=44112686) - [The Polymarket users betting on when Jesus will return](https://ericneyman.wordpress.com/2025/03/24/will-jesus-christ-return-in-an-election-year/)
+* [2025-05-28, 01:53:43](https://news.ycombinator.com/item?id=44112149) - [High-quality OLED displays now enabling integrated thin and multichannel audio](https://www.sciencedaily.com/releases/2025/05/250521125055.htm)
 * [2025-05-27, 22:31:17](https://news.ycombinator.com/item?id=44111236) - [Show HN: Weather2Geo – Geolocate screenshots from weather widgets](https://github.com/elliott-diy/Weather2Geo)
 * [2025-05-27, 12:30:53](https://news.ycombinator.com/item?id=44106299) - [Bertrand Piccard's Big Hydrogen Adventure – hydrogen fuel-cell aircraft](https://spectrum.ieee.org/hydrogen-fuel-cell-aircraft)
 * [2025-05-27, 11:06:10](https://news.ycombinator.com/item?id=44105746) - [Making C and Python Talk to Each Other](https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each)
 * [2025-05-27, 07:55:44](https://news.ycombinator.com/item?id=44104832) - [The key to a successful egg drop experiment? Drop it on its side](https://arstechnica.com/science/2025/05/the-key-to-a-successful-egg-drop-experiment-drop-it-on-its-side/)
 * [2025-05-26, 20:06:25](https://news.ycombinator.com/item?id=44101175) - [Show HN: Porting Terraria and Celeste to WebAssembly](https://velzie.rip/blog/celeste-wasm)
+* [2025-05-26, 13:43:45](https://news.ycombinator.com/item?id=44097362) - [From Finite Integral Domains to Finite Fields](https://susam.net/from-finite-integral-domains-to-finite-fields.html)
 
 ## [Archives](archives/index.md)
 
