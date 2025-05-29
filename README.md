@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-29, 17:01:42](https://news.ycombinator.com/item?id=44127956) - [Human coders are still better than LLMs](https://www.antirez.com/news/153)
 * [2025-05-29, 17:01:18](https://news.ycombinator.com/item?id=44127948) - [Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
 * [2025-05-29, 16:41:04](https://news.ycombinator.com/item?id=44127739) - [Human coders are still better than LLMs](https://antirez.com/news/153)
 * [2025-05-29, 15:43:56](https://news.ycombinator.com/item?id=44127177) - [Civil War in 3D: Stereographs from the New-York Historical Society (2015)](https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society)
@@ -18,6 +17,7 @@
 * [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
 * [2025-05-29, 05:58:07](https://news.ycombinator.com/item?id=44123486) - [The Maid Who Restored Charles II](https://www.historytoday.com/archive/feature/maid-who-restored-charles-ii)
 * [2025-05-29, 05:55:12](https://news.ycombinator.com/item?id=44123474) - [The Art of the Critic](https://www.metropolitanreview.org/p/the-art-of-the-critic)
+* [2025-05-29, 05:05:43](https://news.ycombinator.com/item?id=44123289) - [RSyncUI – A SwiftUI based macOS GUI for rsync](https://github.com/rsyncOSX/RsyncUI)
 * [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
 * [2025-05-29, 02:30:28](https://news.ycombinator.com/item?id=44122582) - [Run a C# file directly using dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
 * [2025-05-28, 20:47:30](https://news.ycombinator.com/item?id=44120507) - [Long live American Science and Surplus](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
