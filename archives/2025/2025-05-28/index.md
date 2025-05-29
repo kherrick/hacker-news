@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 22:24:19](https://news.ycombinator.com/item?id=44121194) - [Why are some rocks on the moon highly magnetic?](https://news.mit.edu/2025/why-are-some-rocks-on-moon-highly-magnetic-0523)
 * [2025-05-28, 22:22:18](https://news.ycombinator.com/item?id=44121177) - [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
 * [2025-05-28, 20:47:30](https://news.ycombinator.com/item?id=44120507) - [Long live American Science and Surplus (which needs your help)](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
 * [2025-05-28, 20:31:08](https://news.ycombinator.com/item?id=44120381) - [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/abs/2305.09515)
