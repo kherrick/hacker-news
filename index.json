@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44122582"
     ],
     [
-      "dotnet run app.cs",
+      "Run a C# file directly using dotnet run app.cs",
       "https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-05-26, 23:49:11",
+      "https://news.ycombinator.com/item?id=44102712"
+    ],
+    [
+      "Apollo Lunar Surface Journal",
+      "https://www.nasa.gov/history/alsj/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 21:49:48",
       "https://news.ycombinator.com/item?id=44101997"
     ],
@@ -237,16 +247,6 @@
     [
       "YAD: display graphical dialogs from shell scripts or command line",
       "http://yad-guide.ingk.se/#_introduction"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 05:01:25",
-      "https://news.ycombinator.com/item?id=44094109"
-    ],
-    [
-      "A thought on JavaScript \"proof of work\" anti-scraper systems",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles"
     ]
   ],
   [
