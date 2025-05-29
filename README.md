@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-29, 08:04:25](https://news.ycombinator.com/item?id=44123984) - [Nobel Laureate Daron Acemoglu: Don't Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05)
 * [2025-05-29, 07:58:55](https://news.ycombinator.com/item?id=44123953) - [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
 * [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
 * [2025-05-29, 06:09:22](https://news.ycombinator.com/item?id=44123535) - [Show HN: Entropy – Sharing screen is scary in SaaS age](https://entropysec.io/)
-* [2025-05-29, 05:05:43](https://news.ycombinator.com/item?id=44123289) - [RSyncUI – A SwiftUI based macOS GUI for rsync](https://github.com/rsyncOSX/RsyncUI)
 * [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
 * [2025-05-28, 22:22:18](https://news.ycombinator.com/item?id=44121177) - [HTAP is Dead](https://www.mooncake.dev/blog/htap-is-dead)
 * [2025-05-28, 20:47:30](https://news.ycombinator.com/item?id=44120507) - [Long live American Science and Surplus](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
@@ -18,6 +18,7 @@
 * [2025-05-28, 15:13:38](https://news.ycombinator.com/item?id=44116872) - [LLM codegen go brrr – Parallelization with Git worktrees and tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 13:43:38](https://news.ycombinator.com/item?id=44115973) - [The Blowtorch Theory: A new model for structure formation in the universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
 * [2025-05-28, 01:53:43](https://news.ycombinator.com/item?id=44112149) - [High-quality OLED displays now enabling integrated thin and multichannel audio](https://www.sciencedaily.com/releases/2025/05/250521125055.htm)
+* [2025-05-27, 20:09:15](https://news.ycombinator.com/item?id=44110264) - [They used Xenon to climb Everest in days – is it the future of mountaineering?](https://www.nytimes.com/2025/05/27/world/europe/mount-everest-xenon-gas-nepal-uk-climbers.html)
 * [2025-05-27, 12:29:12](https://news.ycombinator.com/item?id=44106285) - [5-year study suggests chimps strike stones against trees as communication](https://phys.org/news/2025-05-year-chimpanzees-stones-trees-communication.html)
 * [2025-05-27, 08:59:51](https://news.ycombinator.com/item?id=44105148) - [Can Open Source Projects Exit Foundations?](https://www.infoq.com/news/2025/05/nats-cncf-open-source/)
 * [2025-05-26, 23:49:11](https://news.ycombinator.com/item?id=44102712) - [Apollo Lunar Surface Journal](https://www.nasa.gov/history/alsj/)
@@ -27,7 +28,6 @@
 * [2025-05-26, 09:23:12](https://news.ycombinator.com/item?id=44095553) - [YAD: display graphical dialogs from shell scripts or command line](http://yad-guide.ingk.se/#_introduction)
 * [2025-05-25, 14:00:07](https://news.ycombinator.com/item?id=44087898) - [A Visual History of Chessmen](https://chesshistory.github.io/)
 * [2025-05-25, 13:46:56](https://news.ycombinator.com/item?id=44087809) - [What If We Had Bigger Brains? Imagining Minds Beyond Ours](https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/)
-* [2025-05-25, 12:38:27](https://news.ycombinator.com/item?id=44087390) - [Mathematical Fiction](https://kasmana.people.charleston.edu/MATHFICT/default.html)
 * [2025-05-25, 12:10:44](https://news.ycombinator.com/item?id=44087248) - [Basic for the Raspberry Pi Pico and Pico 2](https://geoffg.net/picomite.html)
 * [2025-05-25, 08:33:46](https://news.ycombinator.com/item?id=44086429) - [Visualize and debug Rust programs with a new lens](https://firedbg.sea-ql.org/)
 

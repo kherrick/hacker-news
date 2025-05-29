@@ -12,6 +12,7 @@
 * [2025-05-27, 20:53:03](https://news.ycombinator.com/item?id=44110584) - [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
 * [2025-05-27, 20:18:48](https://news.ycombinator.com/item?id=44110345) - [Concatenative programming and stack-based languages (2023) [video]](https://www.youtube.com/watch?v=umSuLpjFUf8)
 * [2025-05-27, 20:09:58](https://news.ycombinator.com/item?id=44110270) - [In Vietnam, an unlikely outpost for Chicano culture](https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam)
+* [2025-05-27, 20:09:15](https://news.ycombinator.com/item?id=44110264) - [They used Xenon to climb Everest in days – is it the future of mountaineering?](https://www.nytimes.com/2025/05/27/world/europe/mount-everest-xenon-gas-nepal-uk-climbers.html)
 * [2025-05-27, 20:02:50](https://news.ycombinator.com/item?id=44110219) - [Why the Original Macintosh Had a Screen Resolution of 512×324](https://512pixels.net/2025/05/original-macintosh-resolution/)
 * [2025-05-27, 18:51:39](https://news.ycombinator.com/item?id=44109664) - [Show HN: Maestro – A Framework to Orchestrate and Ground Competing AI Models](https://news.ycombinator.com/item?id=44109664)
 * [2025-05-27, 18:02:51](https://news.ycombinator.com/item?id=44109257) - [Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming](https://nathan.rs/posts/gpu-shader-programming/)
