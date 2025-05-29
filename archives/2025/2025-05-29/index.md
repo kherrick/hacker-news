@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 19:48:13](https://news.ycombinator.com/item?id=44129603) - [California has got good at building giant batteries](https://www.economist.com/united-states/2025/05/22/california-has-got-really-good-at-building-giant-batteries)
 * [2025-05-29, 19:42:20](https://news.ycombinator.com/item?id=44129529) - [Untrusted chatbot AI between you & the internet is a disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
 * [2025-05-29, 19:33:33](https://news.ycombinator.com/item?id=44129425) - [Sam Altman and Jony Ive Will Force A.I. Into Your Life](https://www.newyorker.com/culture/infinite-scroll/sam-altman-and-jony-ive-will-force-ai-into-your-life)
 * [2025-05-29, 18:46:31](https://news.ycombinator.com/item?id=44128971) - [The Headlines Are Evil, and They're Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)
@@ -19,6 +20,7 @@
 * [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [Relive the 90s: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
 * [2025-05-29, 15:30:17](https://news.ycombinator.com/item?id=44127027) - [The flip phone web: browsing with the original Opera Mini](https://www.spacebar.news/the-flip-phone-web-browsing-with-the-original-opera-mini/)
 * [2025-05-29, 14:59:37](https://news.ycombinator.com/item?id=44126753) - [ClickHouse raises $350M Series C](https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era)
+* [2025-05-29, 14:57:25](https://news.ycombinator.com/item?id=44126725) - [Web Bench: a new way to compare AI browser agents](https://blog.skyvern.com/web-bench-a-new-way-to-compare-ai-browser-agents/)
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
 * [2025-05-29, 14:33:43](https://news.ycombinator.com/item?id=44126518) - [Medieval Fogge: In Defence of the Middle Ages](https://www.historytoday.com/archive/making-history/medieval-fogge-defence-middle-ages)
 * [2025-05-29, 14:05:27](https://news.ycombinator.com/item?id=44126264) - [Nova: A JavaScript and WebAssembly engine written in Rust](https://trynova.dev/)
