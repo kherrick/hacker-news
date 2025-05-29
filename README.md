@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-29, 11:05:43](https://news.ycombinator.com/item?id=44124820) - [Google Is Using AI to Censor Independent Websites Like Mine](https://travellemming.com/perspectives/ftc-letter-google-censors-indie-publishers-with-ai/)
 * [2025-05-29, 10:44:05](https://news.ycombinator.com/item?id=44124713) - [What Every Programmer Should Know about How CPUs Work – Matt Godbolt [video]](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-05-29, 10:29:31](https://news.ycombinator.com/item?id=44124652) - [Show HN: I made a Zero-config tool to visualize your code](https://staying.fun/en)
 * [2025-05-29, 10:00:34](https://news.ycombinator.com/item?id=44124529) - [Data Breach at LexisNexis Risk Solutions Impacts 364,000](https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/)
 * [2025-05-29, 09:27:00](https://news.ycombinator.com/item?id=44124369) - [A Song of “Full Self-Driving”](https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott)
 * [2025-05-29, 07:58:55](https://news.ycombinator.com/item?id=44123953) - [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
 * [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
-* [2025-05-29, 06:09:22](https://news.ycombinator.com/item?id=44123535) - [Show HN: Entropy – Sharing screen is scary in SaaS age](https://entropysec.io/)
 * [2025-05-29, 05:05:43](https://news.ycombinator.com/item?id=44123289) - [RSyncUI – A SwiftUI based macOS GUI for rsync](https://github.com/rsyncOSX/RsyncUI)
 * [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
 * [2025-05-29, 02:30:28](https://news.ycombinator.com/item?id=44122582) - [Run a C# file directly using dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
