@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-29, 15:43:56](https://news.ycombinator.com/item?id=44127177) - [Civil War in 3D: Stereographs from the New-York Historical Society (2015)](https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society)
+* [2025-05-29, 15:43:33](https://news.ycombinator.com/item?id=44127173) - [Putting Rigid Bodies to Rest](https://twitter.com/keenanisalive/status/1925225500659658999)
 * [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [Relive the 90s: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
 * [2025-05-29, 15:30:17](https://news.ycombinator.com/item?id=44127027) - [The flip phone web: browsing with the original Opera Mini](https://www.spacebar.news/the-flip-phone-web-browsing-with-the-original-opera-mini/)
 * [2025-05-29, 14:59:37](https://news.ycombinator.com/item?id=44126753) - [ClickHouse raises $350M Series C](https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era)
@@ -27,7 +28,6 @@
 * [2025-05-28, 01:53:43](https://news.ycombinator.com/item?id=44112149) - [High-quality OLED displays now enabling integrated thin and multichannel audio](https://www.sciencedaily.com/releases/2025/05/250521125055.htm)
 * [2025-05-27, 22:31:17](https://news.ycombinator.com/item?id=44111236) - [Show HN: Weather2Geo – Geolocate screenshots from weather widgets](https://github.com/elliott-diy/Weather2Geo)
 * [2025-05-27, 15:52:49](https://news.ycombinator.com/item?id=44108139) - [Why Is Everybody Knitting Chickens?](https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/)
-* [2025-05-27, 12:29:12](https://news.ycombinator.com/item?id=44106285) - [Chimps strike stones against trees as communication, study suggests](https://phys.org/news/2025-05-year-chimpanzees-stones-trees-communication.html)
 * [2025-05-26, 20:06:25](https://news.ycombinator.com/item?id=44101175) - [Show HN: Porting Terraria and Celeste to WebAssembly](https://velzie.rip/blog/celeste-wasm)
 * [2025-05-26, 13:43:45](https://news.ycombinator.com/item?id=44097362) - [From Finite Integral Domains to Finite Fields](https://susam.net/from-finite-integral-domains-to-finite-fields.html)
 
