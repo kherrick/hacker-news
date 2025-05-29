@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 23:34:51](https://news.ycombinator.com/item?id=44131411) - [Caffeine induces age-dependent brain complexity and criticality during sleep](https://www.nature.com/articles/s42003-025-08090-z)
 * [2025-05-29, 22:17:59](https://news.ycombinator.com/item?id=44130928) - [SQL Workbench – Republicans not welcome](https://www.sql-workbench.eu/)
 * [2025-05-29, 20:44:46](https://news.ycombinator.com/item?id=44130226) - [Superhuman performance of an LLM on the reasoning tasks of a physician](https://arxiv.org/abs/2412.10849)
 * [2025-05-29, 19:48:13](https://news.ycombinator.com/item?id=44129603) - [California has got good at building giant batteries](https://www.economist.com/united-states/2025/05/22/california-has-got-really-good-at-building-giant-batteries)
