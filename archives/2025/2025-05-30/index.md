@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 21:02:07](https://news.ycombinator.com/item?id=44139842) - [StackAI (YC W23) Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
+* [2025-05-30, 20:32:19](https://news.ycombinator.com/item?id=44139626) - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
 * [2025-05-30, 20:27:43](https://news.ycombinator.com/item?id=44139592) - [Controversial 'lost' Jerry Lewis film discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
 * [2025-05-30, 20:13:56](https://news.ycombinator.com/item?id=44139519) - [The Gmail app will now create AI summaries whether you want them or not](https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/)
 * [2025-05-30, 20:03:12](https://news.ycombinator.com/item?id=44139454) - [Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
