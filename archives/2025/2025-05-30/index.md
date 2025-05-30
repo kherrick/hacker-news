@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
 * [2025-05-30, 10:31:13](https://news.ycombinator.com/item?id=44134728) - [Bridged Indexes in OrioleDB: architecture, internals and everyday use?](https://www.orioledb.com/blog/orioledb-bridged-indexes)
+* [2025-05-30, 10:08:21](https://news.ycombinator.com/item?id=44134613) - [What Happens When AI-Generated Lies Are More Compelling Than the Truth?](https://behavioralscientist.org/what-happens-when-ai-generated-lies-are-more-compelling-than-the-truth/)
 * [2025-05-30, 09:52:44](https://news.ycombinator.com/item?id=44134544) - [Germany eyes 10% digital tax on global tech groups](https://www.ft.com/content/39d4678d-a7e1-4fce-b8d8-eb799cfed3e6)
 * [2025-05-30, 09:20:11](https://news.ycombinator.com/item?id=44134398) - [Modern C++ – RAII](https://green7ea.github.io/modern/modern.html)
 * [2025-05-30, 09:14:31](https://news.ycombinator.com/item?id=44134364) - [Radio Astronomy Software Defined Radio (Rasdr)](https://radio-astronomy.org/rasdr)
