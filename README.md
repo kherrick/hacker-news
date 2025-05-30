@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 07:54:21](https://news.ycombinator.com/item?id=44133962) - [RFK Jr's 'Maha' report found to contain citations to nonexistent studies](https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies)
 * [2025-05-30, 07:06:35](https://news.ycombinator.com/item?id=44133706) - [Buttplug MCP](https://github.com/ConAcademy/buttplug-mcp)
-* [2025-05-30, 05:55:37](https://news.ycombinator.com/item?id=44133310) - [High vitamin B6 doses over a long period could cause irreversible nerve damage](https://www.abc.net.au/news/2025-01-08/vitamin-b6-toxicity-peripheral-neuropathy-health-supplements/104793006)
 * [2025-05-30, 05:42:58](https://news.ycombinator.com/item?id=44133251) - [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection)
 * [2025-05-30, 05:10:59](https://news.ycombinator.com/item?id=44133091) - [How to Do Ambitious Research in the Modern Era [video]](https://www.youtube.com/watch?v=w7DVlI_Ztq8)
 * [2025-05-30, 04:25:23](https://news.ycombinator.com/item?id=44132823) - [Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)](https://github.com/muthuishere/mcp-server-bash-sdk)
@@ -21,7 +21,7 @@
 * [2025-05-29, 13:33:31](https://news.ycombinator.com/item?id=44125966) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 * [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
 * [2025-05-28, 21:17:14](https://news.ycombinator.com/item?id=44120756) - [Turn a Tesla into a mapping vehicle with Mapillary](https://blog.mapillary.com/update/2020/12/09/map-with-your-tesla.html)
-* [2025-05-28, 11:53:47](https://news.ycombinator.com/item?id=44114982) - [My website is ugly because I made it](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
+* [2025-05-28, 20:21:47](https://news.ycombinator.com/item?id=44120306) - [A visual exploration of vector embeddings](http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html)
 * [2025-05-27, 17:34:35](https://news.ycombinator.com/item?id=44109017) - [The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism](https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html)
 * [2025-05-27, 16:44:36](https://news.ycombinator.com/item?id=44108590) - [Car Physics for Games (2003)](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
 * [2025-05-27, 15:52:49](https://news.ycombinator.com/item?id=44108139) - [Why is everybody knitting chickens?](https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/)
