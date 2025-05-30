@@ -37,6 +37,7 @@
 * [2025-05-27, 13:25:45](https://news.ycombinator.com/item?id=44106764) - [The Art of Fugue – Contrapunctus I (2021)](https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/)
 * [2025-05-27, 12:30:53](https://news.ycombinator.com/item?id=44106299) - [Bertrand Piccard's Big Hydrogen Adventure – hydrogen fuel-cell aircraft](https://spectrum.ieee.org/hydrogen-fuel-cell-aircraft)
 * [2025-05-27, 12:29:12](https://news.ycombinator.com/item?id=44106285) - [5-year study suggests chimps strike stones against trees as communication](https://phys.org/news/2025-05-year-chimpanzees-stones-trees-communication.html)
+* [2025-05-27, 11:57:01](https://news.ycombinator.com/item?id=44106048) - [Smallest Possible Files](https://github.com/mathiasbynens/small)
 * [2025-05-27, 11:52:13](https://news.ycombinator.com/item?id=44106007) - [Disarming an Atomic Bomb Is the Worst Job in the World](https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst)
 * [2025-05-27, 11:46:30](https://news.ycombinator.com/item?id=44105965) - [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
 * [2025-05-27, 11:31:02](https://news.ycombinator.com/item?id=44105878) - [Just make it scale: An Aurora DSQL story](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html)
