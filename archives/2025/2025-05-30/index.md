@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 19:50:48](https://news.ycombinator.com/item?id=44139382) - [Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now](https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/)
 * [2025-05-30, 18:40:59](https://news.ycombinator.com/item?id=44138879) - [Colour and Shape: Using Computer Vision to Explore the Science Museum (2020)](https://lab.sciencemuseum.org.uk/colour-shape-using-computer-vision-to-explore-the-science-museum-c4b4f1cbd72c)
 * [2025-05-30, 18:27:44](https://news.ycombinator.com/item?id=44138775) - [Show HN: Asdf Overlay – High performance in-game overlay library for Windows](https://github.com/storycraft/asdf-overlay)
 * [2025-05-30, 17:01:12](https://news.ycombinator.com/item?id=44138084) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
