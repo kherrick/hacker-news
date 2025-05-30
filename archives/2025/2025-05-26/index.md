@@ -39,6 +39,7 @@
 * [2025-05-26, 16:12:22](https://news.ycombinator.com/item?id=44098772) - [You share a house with Einstein, Hawking and Tao](https://www.faisalabid.com/p/you-share-a-house-with-einstein-hawking)
 * [2025-05-26, 16:05:21](https://news.ycombinator.com/item?id=44098706) - [Launch HN: Nomi (YC X25) – Cursor for Sales](https://news.ycombinator.com/item?id=44098706)
 * [2025-05-26, 16:05:18](https://news.ycombinator.com/item?id=44098705) - [Creating Debian packages from upstream Git](https://optimizedbyotto.com/post/debian-packaging-from-git/)
+* [2025-05-26, 16:03:56](https://news.ycombinator.com/item?id=44098688) - [Sieving pores: stable,fast alloying chemistry of Si -electrodes in Li-ion batt](https://www.nature.com/articles/s41467-025-60191-9)
 * [2025-05-26, 15:56:15](https://news.ycombinator.com/item?id=44098605) - [I think it's time to give Nix a chance](https://maych.in/blog/its-time-to-give-nix-a-chance/)
 * [2025-05-26, 15:53:30](https://news.ycombinator.com/item?id=44098579) - [Scheming a mise-en-abîme in BQN](https://panadestein.github.io/blog/posts/si.html)
 * [2025-05-26, 15:53:30](https://news.ycombinator.com/item?id=44098579) - [Scheming a mise-en-abîme in BQN](https://panadestein.github.io/blog/posts/si.html#fnr.2)

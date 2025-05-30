@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-30, 13:38:21](https://news.ycombinator.com/item?id=44136117) - [The 'white-collar bloodbath' is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
+* [2025-05-30, 14:58:01](https://news.ycombinator.com/item?id=44136884) - [Show HN: W++ – A Python-style scripting language for .NET with NuGet support](https://github.com/sinisterMage/WPlusPlus)
 * [2025-05-30, 13:37:17](https://news.ycombinator.com/item?id=44136108) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
 * [2025-05-30, 12:54:55](https://news.ycombinator.com/item?id=44135738) - [Show HN: Git-Add–Interactive with Enhancements](https://github.com/cwarden/git-add-interactive)
@@ -22,7 +22,6 @@
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
 * [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [WeatherStar 4000+: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
-* [2025-05-28, 22:43:42](https://news.ycombinator.com/item?id=44121294) - [Everything We Learned About Lockheed's \"QuadStar\" Stinger Missile Replacement](https://www.twz.com/land/everything-we-learned-about-lockheeds-quadstar-missile-aimed-at-replacing-fim-92-stingers)
 * [2025-05-28, 20:44:04](https://news.ycombinator.com/item?id=44120480) - [On eval in dynamic languages generally and in Racket specifically (2011)](https://blog.racket-lang.org/2011/10/on-eval-in-dynamic-languages-generally.html)
 * [2025-05-28, 17:06:13](https://news.ycombinator.com/item?id=44118174) - [Show HN: Every problem and solution in Beyond Cracking the Coding Interview](https://news.ycombinator.com/item?id=44118174)
 * [2025-05-28, 08:00:48](https://news.ycombinator.com/item?id=44113706) - [Atomics and Concurrency](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
@@ -30,6 +29,7 @@
 * [2025-05-27, 21:12:33](https://news.ycombinator.com/item?id=44110721) - [Automated Verification of Monotonic Data Structure Traversals in C](https://arxiv.org/abs/2505.18818)
 * [2025-05-27, 17:34:35](https://news.ycombinator.com/item?id=44109017) - [The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism](https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html)
 * [2025-05-27, 11:57:01](https://news.ycombinator.com/item?id=44106048) - [Smallest Possible Files](https://github.com/mathiasbynens/small)
+* [2025-05-26, 16:03:56](https://news.ycombinator.com/item?id=44098688) - [Sieving pores: stable,fast alloying chemistry of Si -electrodes in Li-ion batt](https://www.nature.com/articles/s41467-025-60191-9)
 
 ## [Archives](archives/index.md)
 
