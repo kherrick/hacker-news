@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-30, 12:54:13",
+      "https://news.ycombinator.com/item?id=44135730"
+    ],
+    [
+      "Using Rust Back End to Serve an SPA",
+      "https://nguyenhuythanh.com/posts/rust-backend-spa/"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 12:43:13",
+      "https://news.ycombinator.com/item?id=44135638"
+    ],
+    [
+      "Systems Correctness Practices at Amazon Web Services",
+      "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 11:02:19",
       "https://news.ycombinator.com/item?id=44134896"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2025-05-30, 10:45:03",
-      "https://news.ycombinator.com/item?id=44134798"
-    ],
-    [
-      "AI is not our future – Procreate",
-      "https://procreate.com/ai"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 10:31:13",
       "https://news.ycombinator.com/item?id=44134728"
     ],
     [
       "Bridged Indexes in OrioleDB: architecture, internals and everyday use?",
       "https://www.orioledb.com/blog/orioledb-bridged-indexes"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 10:21:37",
-      "https://news.ycombinator.com/item?id=44134677"
-    ],
-    [
-      "I let Claude Code write an entire book",
-      "https://github.com/JayDoubleu/agentic-book"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Why do we get earworms?",
       "https://theneuroscienceofeverydaylife.substack.com/p/mahna-mahna-do-doo-be-do-do-why-do"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 07:06:35",
-      "https://news.ycombinator.com/item?id=44133706"
-    ],
-    [
-      "Buttplug MCP",
-      "https://github.com/ConAcademy/buttplug-mcp"
     ]
   ],
   [
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2025-05-28, 21:17:14",
-      "https://news.ycombinator.com/item?id=44120756"
+      "2025-05-28, 22:43:42",
+      "https://news.ycombinator.com/item?id=44121294"
     ],
     [
-      "Turn a Tesla into a mapping vehicle with Mapillary",
-      "https://blog.mapillary.com/update/2020/12/09/map-with-your-tesla.html"
+      "Everything We Learned About Lockheed's \"QuadStar\" Stinger Missile Replacement",
+      "https://www.twz.com/land/everything-we-learned-about-lockheeds-quadstar-missile-aimed-at-replacing-fim-92-stingers"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "On eval in dynamic languages generally and in Racket specifically (2011)",
       "https://blog.racket-lang.org/2011/10/on-eval-in-dynamic-languages-generally.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 17:06:13",
+      "https://news.ycombinator.com/item?id=44118174"
+    ],
+    [
+      "Show HN: Every problem and solution in Beyond Cracking the Coding Interview",
+      "https://news.ycombinator.com/item?id=44118174"
     ]
   ],
   [
