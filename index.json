@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-30, 20:13:56",
+      "https://news.ycombinator.com/item?id=44139519"
+    ],
+    [
+      "The Gmail app will now create AI summaries whether you want them or not",
+      "https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 19:50:48",
       "https://news.ycombinator.com/item?id=44139382"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
+      "2025-05-30, 19:40:05",
+      "https://news.ycombinator.com/item?id=44139325"
+    ],
+    [
+      "Mercury's High Risk, High Rewards Strategy Runs into Regulatory Reality",
+      "https://fintechbusinessweekly.substack.com/p/mercurys-high-risk-high-rewards-strategy"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 19:35:45",
+      "https://news.ycombinator.com/item?id=44139286"
+    ],
+    [
+      "Irritation Is Inspiration",
+      "https://www.jeetmehta.com/posts/irritation"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 18:40:59",
       "https://news.ycombinator.com/item?id=44138879"
     ],
     [
       "Colour and Shape: Using Computer Vision to Explore the Science Museum (2020)",
       "https://lab.sciencemuseum.org.uk/colour-shape-using-computer-vision-to-explore-the-science-museum-c4b4f1cbd72c"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 18:38:58",
+      "https://news.ycombinator.com/item?id=44138869"
+    ],
+    [
+      "Vibe coding is not the same as using an AI assistant",
+      "https://newsletter.oberai.dev/p/stop-vibe-coding-every-damn-time"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2025-05-30, 15:29:04",
-      "https://news.ycombinator.com/item?id=44137187"
-    ],
-    [
-      "The Surveilled Student (2021)",
-      "https://www.chronicle.com/article/the-surveilled-student"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 14:58:01",
       "https://news.ycombinator.com/item?id=44136884"
     ],
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2025-05-30, 11:02:19",
-      "https://news.ycombinator.com/item?id=44134896"
-    ],
-    [
-      "Ask HN: What is the best LLM for consumer grade hardware?",
-      "https://news.ycombinator.com/item?id=44134896"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 10:31:13",
-      "https://news.ycombinator.com/item?id=44134728"
-    ],
-    [
-      "Bridged Indexes in OrioleDB: architecture, internals and everyday use?",
-      "https://www.orioledb.com/blog/orioledb-bridged-indexes"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 09:14:31",
       "https://news.ycombinator.com/item?id=44134364"
     ],
@@ -187,16 +197,6 @@
     [
       "Tokenization for language modeling: BPE vs. Unigram Language Modeling (2020)",
       "https://ndingwall.github.io/blog/tokenization"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 04:07:17",
-      "https://news.ycombinator.com/item?id=44132744"
-    ],
-    [
-      "Triangle splatting: radiance fields represented by triangles",
-      "https://trianglesplatting.github.io/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2025-05-28, 20:44:04",
-      "https://news.ycombinator.com/item?id=44120480"
-    ],
-    [
-      "On eval in dynamic languages generally and in Racket specifically (2011)",
-      "https://blog.racket-lang.org/2011/10/on-eval-in-dynamic-languages-generally.html"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 11:07:12",
       "https://news.ycombinator.com/item?id=44114711"
     ],
     [
       "Fractran Interpreter",
       "https://tjwei.github.io/Fractran/"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 10:14:11",
+      "https://news.ycombinator.com/item?id=44114436"
+    ],
+    [
+      "How to Run CRON Jobs in Postgres Without Extra Infrastructure",
+      "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure"
     ]
   ],
   [
