@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-30, 13:37:17",
+      "https://news.ycombinator.com/item?id=44136108"
+    ],
+    [
+      "MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans",
+      "https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 12:54:55",
+      "https://news.ycombinator.com/item?id=44135738"
+    ],
+    [
+      "Show HN: Git-Add–Interactive with Enhancements",
+      "https://github.com/cwarden/git-add-interactive"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 12:50:06",
       "https://news.ycombinator.com/item?id=44135695"
     ],
@@ -87,26 +107,6 @@
     [
       "Show HN: MCP Server SDK in Bash",
       "https://github.com/muthuishere/mcp-server-bash-sdk"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 04:10:42",
-      "https://news.ycombinator.com/item?id=44132756"
-    ],
-    [
-      "Show HN: templUI – The UI Kit for templ (CLI-based, like shadcn/UI)",
-      "https://templui.io/"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 04:09:55",
-      "https://news.ycombinator.com/item?id=44132752"
-    ],
-    [
-      "Show HN: Donut Browser, a Browser Orchestrator",
-      "https://donutbrowser.com/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-05-27, 21:12:33",
+      "https://news.ycombinator.com/item?id=44110721"
+    ],
+    [
+      "Automated Verification of Monotonic Data Structure Traversals in C",
+      "https://arxiv.org/abs/2505.18818"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 17:34:35",
       "https://news.ycombinator.com/item?id=44109017"
     ],
     [
       "The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism",
       "https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 15:52:49",
-      "https://news.ycombinator.com/item?id=44108139"
-    ],
-    [
-      "Why is everybody knitting chickens?",
-      "https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/"
     ]
   ],
   [
