@@ -15,6 +15,7 @@
 * [2025-05-29, 23:57:11](https://news.ycombinator.com/item?id=44131513) - [I'm starting a social club to solve the male loneliness epidemic](https://wave3.social)
 * [2025-05-29, 20:53:39](https://news.ycombinator.com/item?id=44130295) - [Notes on Tunisia](https://mattlakeman.org/2025/05/29/notes-on-tunisia/)
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
+* [2025-05-29, 17:01:18](https://news.ycombinator.com/item?id=44127948) - [Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
 * [2025-05-29, 16:41:04](https://news.ycombinator.com/item?id=44127739) - [Human coders are still better than LLMs](https://antirez.com/news/153)
 * [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [WeatherStar 4000+: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
@@ -29,7 +30,6 @@
 * [2025-05-27, 11:52:13](https://news.ycombinator.com/item?id=44106007) - [Dr John C. Clark, a scientist who disarmed atomic bombs twice](https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst)
 * [2025-05-27, 11:06:10](https://news.ycombinator.com/item?id=44105746) - [Making C and Python Talk to Each Other](https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each)
 * [2025-05-27, 10:20:12](https://news.ycombinator.com/item?id=44105531) - [Superauthenticity: Computer Game Aspect Ratios](https://datadrivengamer.blogspot.com/2025/05/superauthenticity-computer-game-aspect.html)
-* [2025-05-27, 04:18:18](https://news.ycombinator.com/item?id=44103923) - [Invading the Huum Uku WiFi Controller](https://kaurpalang.com/posts/invading-the-sauna/)
 
 ## [Archives](archives/index.md)
 
