@@ -21,6 +21,7 @@
 * [2025-05-27, 18:00:55](https://news.ycombinator.com/item?id=44109239) - [Women 3x More Likely to Lose Job to AI Than Men, UN Study Finds](https://www.allsides.com/story/economy-and-jobs-women-3x-more-likely-lose-job-ai-men-un-study-finds)
 * [2025-05-27, 17:42:15](https://news.ycombinator.com/item?id=44109090) - [Roundtable (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff)
 * [2025-05-27, 17:41:13](https://news.ycombinator.com/item?id=44109078) - [Signal to Windows Recall: Drop Dead](https://www.computerworld.com/article/3994265/signal-to-windows-recall-drop-dead.html)
+* [2025-05-27, 17:34:35](https://news.ycombinator.com/item?id=44109017) - [The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism](https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html)
 * [2025-05-27, 16:44:36](https://news.ycombinator.com/item?id=44108590) - [Car Physics for Games (2003)](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
 * [2025-05-27, 15:59:23](https://news.ycombinator.com/item?id=44108207) - [I Salvaged $6k of Luxury Items Discarded by Duke Students](https://indyweek.com/culture/duke-students-dumpster-diving/)
 * [2025-05-27, 15:59:20](https://news.ycombinator.com/item?id=44108206) - [Launch HN: Relace (YC W23) – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
