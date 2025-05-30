@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 12:54:13](https://news.ycombinator.com/item?id=44135730) - [Using Rust Back End to Serve an SPA](https://nguyenhuythanh.com/posts/rust-backend-spa/)
+* [2025-05-30, 12:43:13](https://news.ycombinator.com/item?id=44135638) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
 * [2025-05-30, 11:02:19](https://news.ycombinator.com/item?id=44134896) - [What is currently the best LLM model for consumer grade hardware? Is it phi-4?](https://news.ycombinator.com/item?id=44134896)
 * [2025-05-30, 10:49:25](https://news.ycombinator.com/item?id=44134821) - [White House MAHA Report may have garbled science by using AI](https://www.washingtonpost.com/health/2025/05/29/maha-rfk-jr-ai-garble/)
 * [2025-05-30, 10:45:03](https://news.ycombinator.com/item?id=44134798) - [AI is not our future – Procreate](https://procreate.com/ai)

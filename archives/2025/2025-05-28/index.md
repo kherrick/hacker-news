@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 22:43:42](https://news.ycombinator.com/item?id=44121294) - [Everything We Learned About Lockheed's \"QuadStar\" Stinger Missile Replacement](https://www.twz.com/land/everything-we-learned-about-lockheeds-quadstar-missile-aimed-at-replacing-fim-92-stingers)
 * [2025-05-28, 22:24:19](https://news.ycombinator.com/item?id=44121194) - [Why are some rocks on the moon highly magnetic?](https://news.mit.edu/2025/why-are-some-rocks-on-moon-highly-magnetic-0523)
 * [2025-05-28, 22:22:18](https://news.ycombinator.com/item?id=44121177) - [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
 * [2025-05-28, 21:17:14](https://news.ycombinator.com/item?id=44120756) - [Turn a Tesla into a mapping vehicle with Mapillary](https://blog.mapillary.com/update/2020/12/09/map-with-your-tesla.html)
@@ -20,6 +21,7 @@
 * [2025-05-28, 17:34:52](https://news.ycombinator.com/item?id=44118520) - [I am disappointed in the AI discourse](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/)
 * [2025-05-28, 17:22:48](https://news.ycombinator.com/item?id=44118375) - [LLM Shibboleths determine AI effectiveness](https://www.moderndescartes.com/essays/llm_shibboleths/)
 * [2025-05-28, 17:22:47](https://news.ycombinator.com/item?id=44118373) - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
+* [2025-05-28, 17:06:13](https://news.ycombinator.com/item?id=44118174) - [Show HN: Every problem and solution in Beyond Cracking the Coding Interview](https://news.ycombinator.com/item?id=44118174)
 * [2025-05-28, 17:01:26](https://news.ycombinator.com/item?id=44118127) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
 * [2025-05-28, 16:53:11](https://news.ycombinator.com/item?id=44118023) - [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
 * [2025-05-28, 16:45:02](https://news.ycombinator.com/item?id=44117911) - [The Decline of Battery Life](https://brainbaking.com/post/2021/07/the-decline-of-battery-life/)
