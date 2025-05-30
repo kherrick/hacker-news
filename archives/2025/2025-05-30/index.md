@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 07:06:35](https://news.ycombinator.com/item?id=44133706) - [Buttplug MCP](https://github.com/ConAcademy/buttplug-mcp)
 * [2025-05-30, 05:55:37](https://news.ycombinator.com/item?id=44133310) - [High vitamin B6 doses over a long period could cause irreversible nerve damage](https://www.abc.net.au/news/2025-01-08/vitamin-b6-toxicity-peripheral-neuropathy-health-supplements/104793006)
 * [2025-05-30, 05:42:58](https://news.ycombinator.com/item?id=44133251) - [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection)
 * [2025-05-30, 05:11:14](https://news.ycombinator.com/item?id=44133093) - [Limits to Growth was right about collapse](https://thenextwavefutures.wordpress.com/2025/05/20/limits-to-growth-was-right-about-overshoot-and-collapse-new-data/)
