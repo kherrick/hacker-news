@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 15:13:33](https://news.ycombinator.com/item?id=44137028) - [Investigating AI Manipulation in Viral Chinese Paraglider Video](https://blog.hyperknot.com/p/investigating-ai-manipulation-in)
 * [2025-05-30, 14:58:01](https://news.ycombinator.com/item?id=44136884) - [Show HN: W++ – A Python-style scripting language for .NET with NuGet support](https://github.com/sinisterMage/WPlusPlus)
 * [2025-05-30, 13:37:17](https://news.ycombinator.com/item?id=44136108) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
@@ -20,7 +21,6 @@
 * [2025-05-30, 01:58:24](https://news.ycombinator.com/item?id=44132075) - [U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
 * [2025-05-30, 01:34:23](https://news.ycombinator.com/item?id=44131984) - [Practical SDR: Getting started with software-defined radio](https://nostarch.com/practical-sdr)
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
-* [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [WeatherStar 4000+: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
 * [2025-05-28, 20:44:04](https://news.ycombinator.com/item?id=44120480) - [On eval in dynamic languages generally and in Racket specifically (2011)](https://blog.racket-lang.org/2011/10/on-eval-in-dynamic-languages-generally.html)
 * [2025-05-28, 17:06:13](https://news.ycombinator.com/item?id=44118174) - [Show HN: Every problem and solution in Beyond Cracking the Coding Interview](https://news.ycombinator.com/item?id=44118174)
