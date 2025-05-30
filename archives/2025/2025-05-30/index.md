@@ -13,6 +13,7 @@
 * [2025-05-30, 20:27:43](https://news.ycombinator.com/item?id=44139592) - [Controversial 'lost' Jerry Lewis film discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
 * [2025-05-30, 20:13:56](https://news.ycombinator.com/item?id=44139519) - [The Gmail app will now create AI summaries whether you want them or not](https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/)
 * [2025-05-30, 20:03:12](https://news.ycombinator.com/item?id=44139454) - [Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
+* [2025-05-30, 19:53:59](https://news.ycombinator.com/item?id=44139403) - [Mary Meeker's first Trends report since 2019, focused on AI](https://www.bondcap.com/reports/tai)
 * [2025-05-30, 19:50:48](https://news.ycombinator.com/item?id=44139382) - [Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now](https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/)
 * [2025-05-30, 19:40:05](https://news.ycombinator.com/item?id=44139325) - [Mercury's High Risk, High Rewards Strategy Runs into Regulatory Reality](https://fintechbusinessweekly.substack.com/p/mercurys-high-risk-high-rewards-strategy)
 * [2025-05-30, 19:35:45](https://news.ycombinator.com/item?id=44139286) - [Irritation Is Inspiration](https://www.jeetmehta.com/posts/irritation)
