@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
 * [2025-05-30, 15:13:33](https://news.ycombinator.com/item?id=44137028) - [Investigating AI Manipulation in Viral Chinese Paraglider Video](https://blog.hyperknot.com/p/investigating-ai-manipulation-in)
+* [2025-05-30, 15:04:56](https://news.ycombinator.com/item?id=44136945) - [The Nobel Prize Winner Who Thinks We Have the Universe All Wrong](https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/)
 * [2025-05-30, 14:58:01](https://news.ycombinator.com/item?id=44136884) - [Show HN: W++ – A Python-style scripting language for .NET with NuGet support](https://github.com/sinisterMage/WPlusPlus)
 * [2025-05-30, 13:38:21](https://news.ycombinator.com/item?id=44136117) - [The 'white-collar bloodbath' is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
 * [2025-05-30, 13:37:17](https://news.ycombinator.com/item?id=44136108) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
