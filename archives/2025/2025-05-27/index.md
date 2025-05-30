@@ -65,3 +65,4 @@
 * [2025-05-27, 01:11:04](https://news.ycombinator.com/item?id=44103071) - [Calendars, Contacts and Files in Stalwart](https://stalw.art/blog/collaboration/)
 * [2025-05-27, 01:00:57](https://news.ycombinator.com/item?id=44103027) - [Forester, a tool for scientific and mathematical hypertexts](https://www.forester-notes.org/index/index.xml)
 * [2025-05-27, 00:52:43](https://news.ycombinator.com/item?id=44102988) - [15 years after servers shut down, FromSoft's mech game Chromehounds back online](https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/)
+* [2025-05-27, 00:33:44](https://news.ycombinator.com/item?id=44102906) - [How did geometry create modern physics?](https://www.quantamagazine.org/how-did-geometry-create-modern-physics-20250515/)

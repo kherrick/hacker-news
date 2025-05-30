@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 02:58:02](https://news.ycombinator.com/item?id=44132404) - [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
+* [2025-05-30, 01:58:24](https://news.ycombinator.com/item?id=44132075) - [U.S. Sanctions Cloud Provider 'Funnull' as Top Source of 'Pig Butchering' Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
 * [2025-05-30, 01:34:23](https://news.ycombinator.com/item?id=44131984) - [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
-* [2025-05-29, 23:57:11](https://news.ycombinator.com/item?id=44131513) - [Show HN: I'm starting a social club to solve the male loneliness epidemic](https://wave3.social)
+* [2025-05-29, 20:53:57](https://news.ycombinator.com/item?id=44130301) - [Net-Negative Cursor](https://lukasatkinson.de/2025/net-negative-cursor/)
 * [2025-05-29, 20:53:39](https://news.ycombinator.com/item?id=44130295) - [Notes on Tunisia](https://mattlakeman.org/2025/05/29/notes-on-tunisia/)
-* [2025-05-29, 19:42:20](https://news.ycombinator.com/item?id=44129529) - [Untrusted chatbot AI between you & the internet is a disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
 * [2025-05-29, 18:39:22](https://news.ycombinator.com/item?id=44128901) - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
 * [2025-05-29, 17:16:54](https://news.ycombinator.com/item?id=44128101) - [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing)
@@ -16,9 +17,7 @@
 * [2025-05-29, 14:05:27](https://news.ycombinator.com/item?id=44126264) - [Nova: A JavaScript and WebAssembly engine written in Rust](https://trynova.dev/)
 * [2025-05-29, 13:33:31](https://news.ycombinator.com/item?id=44125966) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 * [2025-05-29, 12:39:24](https://news.ycombinator.com/item?id=44125489) - [I started a little math club in Bangalore](https://teachyourselfmath.app/club)
-* [2025-05-29, 11:04:21](https://news.ycombinator.com/item?id=44124808) - [Simple programming language with offline usable browser IDE](https://tiki.li/apps/tut_learn.html?v=2505e)
 * [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
-* [2025-05-29, 05:58:07](https://news.ycombinator.com/item?id=44123486) - [The Maid Who Restored Charles II](https://www.historytoday.com/archive/feature/maid-who-restored-charles-ii)
 * [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
 * [2025-05-29, 02:30:28](https://news.ycombinator.com/item?id=44122582) - [Run a C# file directly using dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
 * [2025-05-28, 20:21:47](https://news.ycombinator.com/item?id=44120306) - [A visual exploration of vector embeddings](http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html)
@@ -30,6 +29,7 @@
 * [2025-05-27, 11:52:13](https://news.ycombinator.com/item?id=44106007) - [Disarming an Atomic Bomb Is the Worst Job in the World](https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst)
 * [2025-05-27, 11:06:10](https://news.ycombinator.com/item?id=44105746) - [Making C and Python Talk to Each Other](https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each)
 * [2025-05-27, 07:16:46](https://news.ycombinator.com/item?id=44104653) - [Grid-Free Approach to Partial Differential Equations on Volumetric Domains [pdf]](http://rohansawhney.io/RohanSawhneyPhDThesis.pdf)
+* [2025-05-27, 00:33:44](https://news.ycombinator.com/item?id=44102906) - [How did geometry create modern physics?](https://www.quantamagazine.org/how-did-geometry-create-modern-physics-20250515/)
 
 ## [Archives](archives/index.md)
 
