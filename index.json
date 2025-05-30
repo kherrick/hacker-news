@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-30, 19:50:48",
+      "https://news.ycombinator.com/item?id=44139382"
+    ],
+    [
+      "Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now",
+      "https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 18:40:59",
       "https://news.ycombinator.com/item?id=44138879"
     ],
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2025-05-30, 12:08:40",
-      "https://news.ycombinator.com/item?id=44135369"
-    ],
-    [
-      "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
-      "https://sakana.ai/dgm/"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 11:02:19",
       "https://news.ycombinator.com/item?id=44134896"
     ],
     [
       "Ask HN: What is the best LLM for consumer grade hardware?",
       "https://news.ycombinator.com/item?id=44134896"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 10:31:13",
+      "https://news.ycombinator.com/item?id=44134728"
+    ],
+    [
+      "Bridged Indexes in OrioleDB: architecture, internals and everyday use?",
+      "https://www.orioledb.com/blog/orioledb-bridged-indexes"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "FLUX.1 Kontext",
       "https://bfl.ai/models/flux-kontext"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 05:55:12",
-      "https://news.ycombinator.com/item?id=44123474"
-    ],
-    [
-      "The Art of the Critic",
-      "https://www.metropolitanreview.org/p/the-art-of-the-critic"
     ]
   ],
   [
