@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 18:40:59](https://news.ycombinator.com/item?id=44138879) - [Colour and Shape: Using Computer Vision to Explore the Science Museum (2020)](https://lab.sciencemuseum.org.uk/colour-shape-using-computer-vision-to-explore-the-science-museum-c4b4f1cbd72c)
+* [2025-05-30, 18:27:44](https://news.ycombinator.com/item?id=44138775) - [Show HN: Asdf Overlay – High performance in-game overlay library for Windows](https://github.com/storycraft/asdf-overlay)
 * [2025-05-30, 17:01:12](https://news.ycombinator.com/item?id=44138084) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-05-30, 16:55:16](https://news.ycombinator.com/item?id=44138034) - [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
 * [2025-05-30, 16:36:10](https://news.ycombinator.com/item?id=44137867) - [Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work](https://capjs.js.org/)
