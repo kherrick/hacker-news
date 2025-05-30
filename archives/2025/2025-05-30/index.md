@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-30](index.md)
+
+* [2025-05-30, 01:34:23](https://news.ycombinator.com/item?id=44131984) - [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
