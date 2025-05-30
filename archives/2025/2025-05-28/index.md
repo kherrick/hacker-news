@@ -61,6 +61,7 @@
 * [2025-05-28, 05:34:47](https://news.ycombinator.com/item?id=44113026) - [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
 * [2025-05-28, 05:25:35](https://news.ycombinator.com/item?id=44112982) - [The Captcha Paradox](https://talkingrobot.com/2025/05/the-captcha-paradox/)
 * [2025-05-28, 04:13:00](https://news.ycombinator.com/item?id=44112686) - [The Polymarket users betting that Jesus will return this year](https://ericneyman.wordpress.com/2025/03/24/will-jesus-christ-return-in-an-election-year/)
+* [2025-05-28, 04:07:20](https://news.ycombinator.com/item?id=44112653) - [Printing metal on glass with lasers [video]](https://www.youtube.com/watch?v=J0NNO91WyXM)
 * [2025-05-28, 04:04:37](https://news.ycombinator.com/item?id=44112641) - [Singularities in Space-Time Prove Hard to Kill](https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/)
 * [2025-05-28, 03:23:53](https://news.ycombinator.com/item?id=44112493) - [An Extreme Cousin for Pluto? Possible Dwarf Planet at Solar System Edge](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge)
 * [2025-05-28, 02:49:58](https://news.ycombinator.com/item?id=44112357) - [Ask HN: Is anyone using AI conversation partners?](https://news.ycombinator.com/item?id=44112357)
