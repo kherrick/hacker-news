@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-30, 16:19:50",
+      "https://news.ycombinator.com/item?id=44137715"
+    ],
+    [
+      "Beating Google's kernelCTF PoW using AVX512",
+      "https://anemato.de/blog/kctf-vdf"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 16:01:44",
       "https://news.ycombinator.com/item?id=44137542"
     ],
@@ -57,16 +67,6 @@
     [
       "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
       "https://github.com/sinisterMage/WPlusPlus"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 13:37:17",
-      "https://news.ycombinator.com/item?id=44136108"
-    ],
-    [
-      "MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans",
-      "https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features"
     ]
   ],
   [
