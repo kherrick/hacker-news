@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 17:01:12](https://news.ycombinator.com/item?id=44138084) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
+* [2025-05-30, 16:55:16](https://news.ycombinator.com/item?id=44138034) - [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
 * [2025-05-30, 16:19:50](https://news.ycombinator.com/item?id=44137715) - [Beating Google's kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
 * [2025-05-30, 16:01:44](https://news.ycombinator.com/item?id=44137542) - [Toxic Origins, Toxic Decisions: Biases in CEO Selection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031)
 * [2025-05-30, 15:51:24](https://news.ycombinator.com/item?id=44137439) - [De Bruijn notation, and why it's useful](https://blueberrywren.dev/blog/debruijn-explanation/)
@@ -22,13 +24,11 @@
 * [2025-05-30, 01:58:24](https://news.ycombinator.com/item?id=44132075) - [U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
 * [2025-05-30, 01:34:23](https://news.ycombinator.com/item?id=44131984) - [Practical SDR: Getting started with software-defined radio](https://nostarch.com/practical-sdr)
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
-* [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
 * [2025-05-29, 05:55:12](https://news.ycombinator.com/item?id=44123474) - [The Art of the Critic](https://www.metropolitanreview.org/p/the-art-of-the-critic)
 * [2025-05-28, 20:44:04](https://news.ycombinator.com/item?id=44120480) - [On eval in dynamic languages generally and in Racket specifically (2011)](https://blog.racket-lang.org/2011/10/on-eval-in-dynamic-languages-generally.html)
 * [2025-05-28, 08:00:48](https://news.ycombinator.com/item?id=44113706) - [Atomics and Concurrency](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
 * [2025-05-27, 21:12:33](https://news.ycombinator.com/item?id=44110721) - [Automated Verification of Monotonic Data Structure Traversals in C](https://arxiv.org/abs/2505.18818)
-* [2025-05-27, 17:34:35](https://news.ycombinator.com/item?id=44109017) - [The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism](https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html)
-* [2025-05-27, 11:57:01](https://news.ycombinator.com/item?id=44106048) - [Smallest Possible Files](https://github.com/mathiasbynens/small)
+* [2025-05-27, 16:19:40](https://news.ycombinator.com/item?id=44108386) - [Vrs: Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia](https://github.com/leoshimo/vrs)
 * [2025-05-26, 16:03:56](https://news.ycombinator.com/item?id=44098688) - [Sieving pores: stable,fast alloying chemistry of Si -electrodes in Li-ion batt](https://www.nature.com/articles/s41467-025-60191-9)
 
 ## [Archives](archives/index.md)
