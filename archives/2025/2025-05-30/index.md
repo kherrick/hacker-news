@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 04:31:37](https://news.ycombinator.com/item?id=44132873) - [White House releases health report written by LLM, with hallucinated citations](https://www.nytimes.com/2025/05/29/well/maha-report-citations.html)
+* [2025-05-30, 04:25:23](https://news.ycombinator.com/item?id=44132823) - [Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)](https://github.com/muthuishere/mcp-server-bash-sdk)
 * [2025-05-30, 04:08:56](https://news.ycombinator.com/item?id=44132750) - [U.S. Woman Dies from Mad Cow-Like Brain Disease That Lay Dormant for 50 Years](https://gizmodo.com/u-s-woman-dies-from-mad-cow-like-brain-disease-that-lay-dormant-for-50-years-2000603359)
 * [2025-05-30, 03:55:37](https://news.ycombinator.com/item?id=44132673) - [The radix 2^51 trick](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 * [2025-05-30, 02:58:02](https://news.ycombinator.com/item?id=44132404) - [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
