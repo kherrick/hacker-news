@@ -6,6 +6,7 @@
 
 * [2025-05-30, 11:02:19](https://news.ycombinator.com/item?id=44134896) - [What is currently the best LLM model for consumer grade hardware? Is it phi-4?](https://news.ycombinator.com/item?id=44134896)
 * [2025-05-30, 10:49:25](https://news.ycombinator.com/item?id=44134821) - [White House MAHA Report may have garbled science by using AI](https://www.washingtonpost.com/health/2025/05/29/maha-rfk-jr-ai-garble/)
+* [2025-05-30, 10:45:03](https://news.ycombinator.com/item?id=44134798) - [AI is not our future – Procreate](https://procreate.com/ai)
 * [2025-05-30, 10:31:13](https://news.ycombinator.com/item?id=44134728) - [Bridged Indexes in OrioleDB: architecture, internals and everyday use?](https://www.orioledb.com/blog/orioledb-bridged-indexes)
 * [2025-05-30, 10:21:37](https://news.ycombinator.com/item?id=44134677) - [I let Claude Code write an entire book](https://github.com/JayDoubleu/agentic-book)
 * [2025-05-30, 10:08:21](https://news.ycombinator.com/item?id=44134613) - [What Happens When AI-Generated Lies Are More Compelling Than the Truth?](https://behavioralscientist.org/what-happens-when-ai-generated-lies-are-more-compelling-than-the-truth/)
