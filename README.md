@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 09:14:31](https://news.ycombinator.com/item?id=44134364) - [Radio Astronomy Software Defined Radio (Rasdr)](https://radio-astronomy.org/rasdr)
 * [2025-05-30, 07:54:21](https://news.ycombinator.com/item?id=44133962) - [RFK Jr's 'Maha' report found to contain citations to nonexistent studies](https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies)
 * [2025-05-30, 07:06:35](https://news.ycombinator.com/item?id=44133706) - [Buttplug MCP](https://github.com/ConAcademy/buttplug-mcp)
 * [2025-05-30, 05:42:58](https://news.ycombinator.com/item?id=44133251) - [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection)
@@ -21,7 +22,6 @@
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
 * [2025-05-29, 13:33:31](https://news.ycombinator.com/item?id=44125966) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 * [2025-05-28, 21:17:14](https://news.ycombinator.com/item?id=44120756) - [Turn a Tesla into a mapping vehicle with Mapillary](https://blog.mapillary.com/update/2020/12/09/map-with-your-tesla.html)
-* [2025-05-28, 20:21:47](https://news.ycombinator.com/item?id=44120306) - [A visual exploration of vector embeddings](http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html)
 * [2025-05-28, 15:16:35](https://news.ycombinator.com/item?id=44116906) - [Curie: A Research Experimentation Agent](https://github.com/Just-Curieous/Curie)
 * [2025-05-27, 17:34:35](https://news.ycombinator.com/item?id=44109017) - [The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism](https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html)
 * [2025-05-27, 16:44:36](https://news.ycombinator.com/item?id=44108590) - [Car Physics for Games (2003)](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)

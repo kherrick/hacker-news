@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 09:14:31](https://news.ycombinator.com/item?id=44134364) - [Radio Astronomy Software Defined Radio (Rasdr)](https://radio-astronomy.org/rasdr)
 * [2025-05-30, 07:54:21](https://news.ycombinator.com/item?id=44133962) - [RFK Jr's 'Maha' report found to contain citations to nonexistent studies](https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies)
 * [2025-05-30, 07:06:35](https://news.ycombinator.com/item?id=44133706) - [Buttplug MCP](https://github.com/ConAcademy/buttplug-mcp)
 * [2025-05-30, 05:55:37](https://news.ycombinator.com/item?id=44133310) - [High vitamin B6 doses over a long period could cause irreversible nerve damage](https://www.abc.net.au/news/2025-01-08/vitamin-b6-toxicity-peripheral-neuropathy-health-supplements/104793006)
