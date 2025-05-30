@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 21:24:05](https://news.ycombinator.com/item?id=44140008) - [Strategy for Competing with the Soviets in the Military [pdf]](https://americawar.wordpress.com/wp-content/uploads/2012/12/marshallonsoviet.pdf)
 * [2025-05-30, 21:02:07](https://news.ycombinator.com/item?id=44139842) - [StackAI (YC W23) Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
+* [2025-05-30, 20:51:08](https://news.ycombinator.com/item?id=44139765) - [How to Automate Software Engineering](https://www.mechanize.work/blog/how-to-fully-automate-software-engineering/)
 * [2025-05-30, 20:32:19](https://news.ycombinator.com/item?id=44139626) - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
 * [2025-05-30, 20:27:43](https://news.ycombinator.com/item?id=44139592) - [Controversial 'lost' Jerry Lewis film discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
 * [2025-05-30, 20:13:56](https://news.ycombinator.com/item?id=44139519) - [The Gmail app will now create AI summaries whether you want them or not](https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/)

@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 21:24:05](https://news.ycombinator.com/item?id=44140008) - [Strategy for Competing with the Soviets in the Military [pdf]](https://americawar.wordpress.com/wp-content/uploads/2012/12/marshallonsoviet.pdf)
 * [2025-05-30, 21:02:07](https://news.ycombinator.com/item?id=44139842) - [StackAI (YC W23) Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
+* [2025-05-30, 20:51:08](https://news.ycombinator.com/item?id=44139765) - [How to Automate Software Engineering](https://www.mechanize.work/blog/how-to-fully-automate-software-engineering/)
 * [2025-05-30, 20:32:19](https://news.ycombinator.com/item?id=44139626) - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
-* [2025-05-30, 20:27:43](https://news.ycombinator.com/item?id=44139592) - [Controversial 'lost' Jerry Lewis film discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
+* [2025-05-30, 20:27:43](https://news.ycombinator.com/item?id=44139592) - [Jerry Lewis's \"The Day the Clown Cried\" discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
 * [2025-05-30, 20:03:12](https://news.ycombinator.com/item?id=44139454) - [Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
 * [2025-05-30, 19:50:48](https://news.ycombinator.com/item?id=44139382) - [Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now](https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/)
-* [2025-05-30, 19:35:45](https://news.ycombinator.com/item?id=44139286) - [Irritation Is Inspiration](https://www.jeetmehta.com/posts/irritation)
 * [2025-05-30, 18:40:59](https://news.ycombinator.com/item?id=44138879) - [Colour and Shape: Using Computer Vision to Explore the Science Museum (2020)](https://lab.sciencemuseum.org.uk/colour-shape-using-computer-vision-to-explore-the-science-museum-c4b4f1cbd72c)
 * [2025-05-30, 18:27:44](https://news.ycombinator.com/item?id=44138775) - [Show HN: Asdf Overlay – High performance in-game overlay library for Windows](https://github.com/storycraft/asdf-overlay)
 * [2025-05-30, 16:55:16](https://news.ycombinator.com/item?id=44138034) - [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
@@ -28,7 +29,6 @@
 * [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
 * [2025-05-28, 11:07:12](https://news.ycombinator.com/item?id=44114711) - [Fractran Interpreter](https://tjwei.github.io/Fractran/)
 * [2025-05-28, 10:14:11](https://news.ycombinator.com/item?id=44114436) - [How to Run CRON Jobs in Postgres Without Extra Infrastructure](https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure)
-* [2025-05-28, 08:00:48](https://news.ycombinator.com/item?id=44113706) - [Atomics and Concurrency](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
 * [2025-05-27, 16:19:40](https://news.ycombinator.com/item?id=44108386) - [Vrs: Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia](https://github.com/leoshimo/vrs)
 
 ## [Archives](archives/index.md)
