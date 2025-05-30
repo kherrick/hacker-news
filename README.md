@@ -2,6 +2,7 @@
 
 * [2025-05-30, 13:38:21](https://news.ycombinator.com/item?id=44136117) - [The 'white-collar bloodbath' is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
 * [2025-05-30, 13:37:17](https://news.ycombinator.com/item?id=44136108) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
+* [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
 * [2025-05-30, 12:54:55](https://news.ycombinator.com/item?id=44135738) - [Show HN: Git-Add–Interactive with Enhancements](https://github.com/cwarden/git-add-interactive)
 * [2025-05-30, 12:50:06](https://news.ycombinator.com/item?id=44135695) - [Behavioral responses of domestic cats to human odor](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324016)
 * [2025-05-30, 12:43:13](https://news.ycombinator.com/item?id=44135638) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
@@ -13,7 +14,6 @@
 * [2025-05-30, 08:59:02](https://news.ycombinator.com/item?id=44134290) - [Tokenization for language modeling: BPE vs. Unigram Language Modeling (2020)](https://ndingwall.github.io/blog/tokenization)
 * [2025-05-30, 08:44:14](https://news.ycombinator.com/item?id=44134208) - [Why do we get earworms?](https://theneuroscienceofeverydaylife.substack.com/p/mahna-mahna-do-doo-be-do-do-why-do)
 * [2025-05-30, 04:25:23](https://news.ycombinator.com/item?id=44132823) - [Show HN: MCP Server SDK in Bash](https://github.com/muthuishere/mcp-server-bash-sdk)
-* [2025-05-30, 04:09:55](https://news.ycombinator.com/item?id=44132752) - [Show HN: Donut Browser, a Browser Orchestrator](https://donutbrowser.com/)
 * [2025-05-30, 04:07:17](https://news.ycombinator.com/item?id=44132744) - [Triangle splatting: radiance fields represented by triangles](https://trianglesplatting.github.io/)
 * [2025-05-30, 03:55:37](https://news.ycombinator.com/item?id=44132673) - [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 * [2025-05-30, 03:14:44](https://news.ycombinator.com/item?id=44132486) - [OpenBao Namespaces](https://openbao.org/blog/namespaces-announcement/)
