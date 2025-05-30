@@ -2,11 +2,11 @@
 
 * [2025-05-30, 20:27:43](https://news.ycombinator.com/item?id=44139592) - [Controversial 'lost' Jerry Lewis film discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
 * [2025-05-30, 20:13:56](https://news.ycombinator.com/item?id=44139519) - [The Gmail app will now create AI summaries](https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/)
+* [2025-05-30, 20:03:12](https://news.ycombinator.com/item?id=44139454) - [Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
 * [2025-05-30, 19:50:48](https://news.ycombinator.com/item?id=44139382) - [Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now](https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/)
 * [2025-05-30, 19:40:05](https://news.ycombinator.com/item?id=44139325) - [Mercury's High Risk, High Rewards Strategy Runs into Regulatory Reality](https://fintechbusinessweekly.substack.com/p/mercurys-high-risk-high-rewards-strategy)
 * [2025-05-30, 19:35:45](https://news.ycombinator.com/item?id=44139286) - [Irritation Is Inspiration](https://www.jeetmehta.com/posts/irritation)
 * [2025-05-30, 18:40:59](https://news.ycombinator.com/item?id=44138879) - [Colour and Shape: Using Computer Vision to Explore the Science Museum (2020)](https://lab.sciencemuseum.org.uk/colour-shape-using-computer-vision-to-explore-the-science-museum-c4b4f1cbd72c)
-* [2025-05-30, 18:38:58](https://news.ycombinator.com/item?id=44138869) - [Vibe coding is not the same as using an AI assistant](https://newsletter.oberai.dev/p/stop-vibe-coding-every-damn-time)
 * [2025-05-30, 18:27:44](https://news.ycombinator.com/item?id=44138775) - [Show HN: Asdf Overlay – High performance in-game overlay library for Windows](https://github.com/storycraft/asdf-overlay)
 * [2025-05-30, 17:01:12](https://news.ycombinator.com/item?id=44138084) - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 * [2025-05-30, 16:55:16](https://news.ycombinator.com/item?id=44138034) - [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
