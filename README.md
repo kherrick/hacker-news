@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 11:02:19](https://news.ycombinator.com/item?id=44134896) - [What is currently the best LLM model for consumer grade hardware? Is it phi-4?](https://news.ycombinator.com/item?id=44134896)
+* [2025-05-30, 10:49:25](https://news.ycombinator.com/item?id=44134821) - [White House MAHA Report may have garbled science by using AI](https://www.washingtonpost.com/health/2025/05/29/maha-rfk-jr-ai-garble/)
 * [2025-05-30, 10:31:13](https://news.ycombinator.com/item?id=44134728) - [Bridged Indexes in OrioleDB: architecture, internals and everyday use?](https://www.orioledb.com/blog/orioledb-bridged-indexes)
 * [2025-05-30, 10:08:21](https://news.ycombinator.com/item?id=44134613) - [What Happens When AI-Generated Lies Are More Compelling Than the Truth?](https://behavioralscientist.org/what-happens-when-ai-generated-lies-are-more-compelling-than-the-truth/)
 * [2025-05-30, 09:14:31](https://news.ycombinator.com/item?id=44134364) - [Radio Astronomy Software Defined Radio (Rasdr)](https://radio-astronomy.org/rasdr)
@@ -16,9 +18,7 @@
 * [2025-05-30, 02:58:02](https://news.ycombinator.com/item?id=44132404) - [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
 * [2025-05-30, 01:34:23](https://news.ycombinator.com/item?id=44131984) - [Practical SDR: Getting started with software-defined radio](https://nostarch.com/practical-sdr)
 * [2025-05-29, 23:57:11](https://news.ycombinator.com/item?id=44131513) - [I'm starting a social club to solve the male loneliness epidemic](https://wave3.social)
-* [2025-05-29, 20:53:39](https://news.ycombinator.com/item?id=44130295) - [Notes on Tunisia](https://mattlakeman.org/2025/05/29/notes-on-tunisia/)
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
-* [2025-05-29, 16:41:04](https://news.ycombinator.com/item?id=44127739) - [Human coders are still better than LLMs](https://antirez.com/news/153)
 * [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [WeatherStar 4000+: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
 * [2025-05-28, 21:17:14](https://news.ycombinator.com/item?id=44120756) - [Turn a Tesla into a mapping vehicle with Mapillary](https://blog.mapillary.com/update/2020/12/09/map-with-your-tesla.html)
