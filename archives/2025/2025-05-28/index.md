@@ -53,6 +53,7 @@
 * [2025-05-28, 10:23:56](https://news.ycombinator.com/item?id=44114483) - [CheerpJ 4.1: Java in the browser, now supporting Java 17 (preview)](https://labs.leaningtech.com/blog/cheerpj-4.1)
 * [2025-05-28, 08:18:32](https://news.ycombinator.com/item?id=44113789) - [Vibe coding for teams, thoughts to date](https://laughingmeme.org//2025/05/25/vibe-coding-for-teams.html)
 * [2025-05-28, 08:07:42](https://news.ycombinator.com/item?id=44113735) - [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/4bec46993258f6b7/)
+* [2025-05-28, 08:00:48](https://news.ycombinator.com/item?id=44113706) - [Atomics and Concurrency](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
 * [2025-05-28, 07:53:54](https://news.ycombinator.com/item?id=44113672) - [Ask HN: Stopping YC backed business from advertizing fake jobs at my company](https://news.ycombinator.com/item?id=44113672)
 * [2025-05-28, 07:09:31](https://news.ycombinator.com/item?id=44113397) - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
 * [2025-05-28, 06:40:47](https://news.ycombinator.com/item?id=44113256) - [Another way electric cars clean the air: study says brake dust reduced by 83%](https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/)
