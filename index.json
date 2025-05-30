@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-30, 22:24:09",
+      "https://news.ycombinator.com/item?id=44140378"
+    ],
+    [
+      "Silicon Valley finally has a big electronics retailer again: Micro Center opens",
+      "https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 21:24:05",
       "https://news.ycombinator.com/item?id=44140008"
     ],
@@ -27,6 +37,16 @@
     [
       "How to Automate Software Engineering",
       "https://www.mechanize.work/blog/how-to-fully-automate-software-engineering/"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 20:47:54",
+      "https://news.ycombinator.com/item?id=44139740"
+    ],
+    [
+      "Show HN: Changefly – Rebuilding the foundation of privacy and authentication",
+      "https://www.changefly.com/developer"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now",
       "https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 18:40:59",
-      "https://news.ycombinator.com/item?id=44138879"
-    ],
-    [
-      "Colour and Shape: Using Computer Vision to Explore the Science Museum (2020)",
-      "https://lab.sciencemuseum.org.uk/colour-shape-using-computer-vision-to-explore-the-science-museum-c4b4f1cbd72c"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "De Bruijn notation, and why it's useful",
       "https://blueberrywren.dev/blog/debruijn-explanation/"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 15:29:23",
-      "https://news.ycombinator.com/item?id=44137192"
-    ],
-    [
-      "Build API integrations with SQL and YAML – no SaaS lock-in, no drag-and-drop UIs",
-      "https://github.com/paloaltodatabases/sequor"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-05-29, 13:08:17",
+      "https://news.ycombinator.com/item?id=44125734"
+    ],
+    [
+      "Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory",
+      "https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 17:44:43",
       "https://news.ycombinator.com/item?id=44118646"
     ],
@@ -287,16 +297,6 @@
     [
       "How to Run CRON Jobs in Postgres Without Extra Infrastructure",
       "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 16:19:40",
-      "https://news.ycombinator.com/item?id=44108386"
-    ],
-    [
-      "Vrs: Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia",
-      "https://github.com/leoshimo/vrs"
     ]
   ]
 ]
