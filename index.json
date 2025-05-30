@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-05-30, 20:27:43",
+      "https://news.ycombinator.com/item?id=44139592"
+    ],
+    [
+      "Controversial 'lost' Jerry Lewis film discovered in Sweden after 53 years",
+      "https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 20:13:56",
       "https://news.ycombinator.com/item?id=44139519"
     ],
     [
-      "The Gmail app will now create AI summaries whether you want them or not",
+      "The Gmail app will now create AI summaries",
       "https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/"
     ]
   ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-05-30, 16:11:07",
+      "https://news.ycombinator.com/item?id=44137630"
+    ],
+    [
+      "When will M&S take online orders again?",
+      "https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 16:01:44",
       "https://news.ycombinator.com/item?id=44137542"
     ],
@@ -141,12 +161,32 @@
   ],
   [
     [
+      "2025-05-30, 15:04:56",
+      "https://news.ycombinator.com/item?id=44136945"
+    ],
+    [
+      "Adam Riess and the Hubble tension",
+      "https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 14:58:01",
       "https://news.ycombinator.com/item?id=44136884"
     ],
     [
       "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
       "https://github.com/sinisterMage/WPlusPlus"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 13:38:21",
+      "https://news.ycombinator.com/item?id=44136117"
+    ],
+    [
+      "The 'white-collar bloodbath' is all part of the AI hype machine",
+      "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap"
     ]
   ],
   [
@@ -211,32 +251,12 @@
   ],
   [
     [
-      "2025-05-30, 01:34:23",
-      "https://news.ycombinator.com/item?id=44131984"
-    ],
-    [
-      "Practical SDR: Getting started with software-defined radio",
-      "https://nostarch.com/practical-sdr"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 00:32:11",
       "https://news.ycombinator.com/item?id=44131669"
     ],
     [
       "Copy Excel to Markdown Table (and vice versa)",
       "https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 17:40:35",
-      "https://news.ycombinator.com/item?id=44128322"
-    ],
-    [
-      "FLUX.1 Kontext",
-      "https://bfl.ai/models/flux-kontext"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-05-27, 21:12:33",
-      "https://news.ycombinator.com/item?id=44110721"
-    ],
-    [
-      "Automated Verification of Monotonic Data Structure Traversals in C",
-      "https://arxiv.org/abs/2505.18818"
-    ]
-  ],
-  [
-    [
       "2025-05-27, 16:19:40",
       "https://news.ycombinator.com/item?id=44108386"
     ],
     [
       "Vrs: Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia",
       "https://github.com/leoshimo/vrs"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 16:03:56",
-      "https://news.ycombinator.com/item?id=44098688"
-    ],
-    [
-      "Sieving pores: stable,fast alloying chemistry of Si -electrodes in Li-ion batt",
-      "https://www.nature.com/articles/s41467-025-60191-9"
     ]
   ]
 ]
