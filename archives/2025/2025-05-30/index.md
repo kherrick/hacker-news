@@ -8,6 +8,7 @@
 * [2025-05-30, 16:55:16](https://news.ycombinator.com/item?id=44138034) - [A Smiling Public Man](https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man)
 * [2025-05-30, 16:36:10](https://news.ycombinator.com/item?id=44137867) - [Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work](https://capjs.js.org/)
 * [2025-05-30, 16:19:50](https://news.ycombinator.com/item?id=44137715) - [Beating Google's kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
+* [2025-05-30, 16:11:07](https://news.ycombinator.com/item?id=44137630) - [When will M&S take online orders again?](https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems)
 * [2025-05-30, 16:01:44](https://news.ycombinator.com/item?id=44137542) - [Toxic Origins, Toxic Decisions: Biases in CEO Selection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031)
 * [2025-05-30, 15:51:24](https://news.ycombinator.com/item?id=44137439) - [De Bruijn notation, and why it's useful](https://blueberrywren.dev/blog/debruijn-explanation/)
 * [2025-05-30, 15:29:23](https://news.ycombinator.com/item?id=44137192) - [Build API integrations with SQL and YAML – no SaaS lock-in, no drag-and-drop UIs](https://github.com/paloaltodatabases/sequor)
@@ -54,3 +55,4 @@
 * [2025-05-30, 01:47:00](https://news.ycombinator.com/item?id=44132033) - [What is Humphrey's Executor? A look at the 90-year-old Supreme Court decision](https://www.theusconstitution.org/news/what-is-humphreys-executor-a-look-at-the-90-year-old-supreme-court-decision-trump-is-targeting/)
 * [2025-05-30, 01:34:23](https://news.ycombinator.com/item?id=44131984) - [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
 * [2025-05-30, 01:19:41](https://news.ycombinator.com/item?id=44131901) - [IRS Direct File](https://github.com/IRS-Public/direct-file)
+* [2025-05-30, 00:32:11](https://news.ycombinator.com/item?id=44131669) - [Copy Excel to Markdown Table (and vice versa)](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/)
