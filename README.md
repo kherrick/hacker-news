@@ -21,7 +21,6 @@
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
 * [2025-05-29, 13:33:31](https://news.ycombinator.com/item?id=44125966) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 * [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
-* [2025-05-28, 12:21:44](https://news.ycombinator.com/item?id=44115244) - [Flash Back: An “oral” history of Flash](https://goodinternetmagazine.com/oral-history-of-flash/)
 * [2025-05-28, 11:53:47](https://news.ycombinator.com/item?id=44114982) - [My website is ugly because I made it](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
 * [2025-05-27, 17:34:35](https://news.ycombinator.com/item?id=44109017) - [The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism](https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html)
 * [2025-05-27, 16:44:36](https://news.ycombinator.com/item?id=44108590) - [Car Physics for Games (2003)](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
@@ -29,6 +28,7 @@
 * [2025-05-27, 11:57:01](https://news.ycombinator.com/item?id=44106048) - [Smallest Possible Files](https://github.com/mathiasbynens/small)
 * [2025-05-27, 11:52:13](https://news.ycombinator.com/item?id=44106007) - [Dr John C. Clark, a scientist who disarmed atomic bombs twice](https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst)
 * [2025-05-27, 11:06:10](https://news.ycombinator.com/item?id=44105746) - [Making C and Python Talk to Each Other](https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each)
+* [2025-05-27, 10:20:12](https://news.ycombinator.com/item?id=44105531) - [Superauthenticity: Computer Game Aspect Ratios](https://datadrivengamer.blogspot.com/2025/05/superauthenticity-computer-game-aspect.html)
 * [2025-05-27, 04:18:18](https://news.ycombinator.com/item?id=44103923) - [Invading the Huum Uku WiFi Controller](https://kaurpalang.com/posts/invading-the-sauna/)
 
 ## [Archives](archives/index.md)

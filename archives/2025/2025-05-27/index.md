@@ -48,6 +48,7 @@
 * [2025-05-27, 10:55:54](https://news.ycombinator.com/item?id=44105696) - [Canon Law Ninja](https://canonlaw.ninja/)
 * [2025-05-27, 10:39:30](https://news.ycombinator.com/item?id=44105619) - [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
 * [2025-05-27, 10:33:56](https://news.ycombinator.com/item?id=44105592) - [The Myth of Developer Obsolescence](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
+* [2025-05-27, 10:20:12](https://news.ycombinator.com/item?id=44105531) - [Superauthenticity: Computer Game Aspect Ratios](https://datadrivengamer.blogspot.com/2025/05/superauthenticity-computer-game-aspect.html)
 * [2025-05-27, 10:03:00](https://news.ycombinator.com/item?id=44105470) - [Revisiting the Algorithm That Changed Horse Race Betting](https://actamachina.com/posts/annotated-benter-paper)
 * [2025-05-27, 09:50:04](https://news.ycombinator.com/item?id=44105412) - [LiveStore: State management based on reactive SQLite and built-in sync engine](https://livestore.dev)
 * [2025-05-27, 08:59:51](https://news.ycombinator.com/item?id=44105148) - [Can Open Source Projects Exit Foundations?](https://www.infoq.com/news/2025/05/nats-cncf-open-source/)
