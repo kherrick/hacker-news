@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 13:37:17](https://news.ycombinator.com/item?id=44136108) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
+* [2025-05-30, 12:54:55](https://news.ycombinator.com/item?id=44135738) - [Show HN: Git-Add–Interactive with Enhancements](https://github.com/cwarden/git-add-interactive)
 * [2025-05-30, 12:54:13](https://news.ycombinator.com/item?id=44135730) - [Using Rust Back End to Serve an SPA](https://nguyenhuythanh.com/posts/rust-backend-spa/)
 * [2025-05-30, 12:50:06](https://news.ycombinator.com/item?id=44135695) - [Behavioral responses of domestic cats to human odor](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324016)
 * [2025-05-30, 12:43:13](https://news.ycombinator.com/item?id=44135638) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
