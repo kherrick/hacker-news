@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 05:10:59](https://news.ycombinator.com/item?id=44133091) - [How to Do Ambitious Research in the Modern Era [video]](https://www.youtube.com/watch?v=w7DVlI_Ztq8)
 * [2025-05-30, 04:25:23](https://news.ycombinator.com/item?id=44132823) - [Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)](https://github.com/muthuishere/mcp-server-bash-sdk)
 * [2025-05-30, 04:10:42](https://news.ycombinator.com/item?id=44132756) - [Show HN: templUI – The UI Kit for templ (CLI-based, like shadcn/UI)](https://templui.io/)
 * [2025-05-30, 04:09:55](https://news.ycombinator.com/item?id=44132752) - [Show HN: Donut Browser, a Browser Orchestrator](https://donutbrowser.com/)
 * [2025-05-30, 04:08:56](https://news.ycombinator.com/item?id=44132750) - [U.S. Woman Dies from Mad Cow-Like Brain Disease That Lay Dormant for 50 Years](https://gizmodo.com/u-s-woman-dies-from-mad-cow-like-brain-disease-that-lay-dormant-for-50-years-2000603359)
 * [2025-05-30, 04:07:17](https://news.ycombinator.com/item?id=44132744) - [Triangle splatting: radiance fields represented by triangles](https://trianglesplatting.github.io/)
 * [2025-05-30, 03:55:37](https://news.ycombinator.com/item?id=44132673) - [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
-* [2025-05-30, 03:14:44](https://news.ycombinator.com/item?id=44132486) - [OpenBAO (Vault open-source fork) Namespaces](https://openbao.org/blog/namespaces-announcement/)
 * [2025-05-30, 02:58:02](https://news.ycombinator.com/item?id=44132404) - [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
 * [2025-05-30, 01:58:24](https://news.ycombinator.com/item?id=44132075) - [U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
 * [2025-05-30, 01:34:23](https://news.ycombinator.com/item?id=44131984) - [Practical SDR: Getting started with software-defined radio](https://nostarch.com/practical-sdr)

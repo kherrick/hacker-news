@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 05:10:59](https://news.ycombinator.com/item?id=44133091) - [How to Do Ambitious Research in the Modern Era [video]](https://www.youtube.com/watch?v=w7DVlI_Ztq8)
 * [2025-05-30, 04:31:37](https://news.ycombinator.com/item?id=44132873) - [White House releases health report written by LLM, with hallucinated citations](https://www.nytimes.com/2025/05/29/well/maha-report-citations.html)
 * [2025-05-30, 04:25:23](https://news.ycombinator.com/item?id=44132823) - [Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)](https://github.com/muthuishere/mcp-server-bash-sdk)
 * [2025-05-30, 04:10:42](https://news.ycombinator.com/item?id=44132756) - [Show HN: templUI – The UI Kit for templ (CLI-based, like shadcn/UI)](https://templui.io/)
