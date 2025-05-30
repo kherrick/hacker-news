@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-05-30, 09:20:11",
+      "https://news.ycombinator.com/item?id=44134398"
+    ],
+    [
+      "Modern C++ – RAII",
+      "https://green7ea.github.io/modern/modern.html"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 09:14:31",
       "https://news.ycombinator.com/item?id=44134364"
     ],
     [
       "Radio Astronomy Software Defined Radio (Rasdr)",
       "https://radio-astronomy.org/rasdr"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 08:59:02",
+      "https://news.ycombinator.com/item?id=44134290"
+    ],
+    [
+      "Tokenization for language modeling: BPE vs. Unigram Language Modeling (2020)",
+      "https://ndingwall.github.io/blog/tokenization"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-05-29, 17:01:18",
-      "https://news.ycombinator.com/item?id=44127948"
-    ],
-    [
-      "Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada",
-      "https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 16:41:04",
       "https://news.ycombinator.com/item?id=44127739"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-05-29, 13:33:31",
-      "https://news.ycombinator.com/item?id=44125966"
-    ],
-    [
-      "Learning C3",
-      "https://alloc.dev/2025/05/29/learning_c3"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 21:17:14",
       "https://news.ycombinator.com/item?id=44120756"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-05-28, 15:16:35",
-      "https://news.ycombinator.com/item?id=44116906"
+      "2025-05-28, 08:00:48",
+      "https://news.ycombinator.com/item?id=44113706"
     ],
     [
-      "Curie: A Research Experimentation Agent",
-      "https://github.com/Just-Curieous/Curie"
+      "Atomics and Concurrency",
+      "https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html"
     ]
   ],
   [
