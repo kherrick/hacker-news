@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 16:19:50](https://news.ycombinator.com/item?id=44137715) - [Beating Google's kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
 * [2025-05-30, 16:01:44](https://news.ycombinator.com/item?id=44137542) - [Toxic Origins, Toxic Decisions: Biases in CEO Selection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031)
 * [2025-05-30, 15:51:24](https://news.ycombinator.com/item?id=44137439) - [De Bruijn notation, and why it's useful](https://blueberrywren.dev/blog/debruijn-explanation/)
 * [2025-05-30, 15:29:04](https://news.ycombinator.com/item?id=44137187) - [The Surveilled Student](https://www.chronicle.com/article/the-surveilled-student)
 * [2025-05-30, 15:13:33](https://news.ycombinator.com/item?id=44137028) - [Investigating AI Manipulation in Viral Chinese Paraglider Video](https://blog.hyperknot.com/p/investigating-ai-manipulation-in)
 * [2025-05-30, 15:04:56](https://news.ycombinator.com/item?id=44136945) - [The Nobel Prize Winner Who Thinks We Have the Universe All Wrong](https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/)
 * [2025-05-30, 14:58:01](https://news.ycombinator.com/item?id=44136884) - [Show HN: W++ – A Python-style scripting language for .NET with NuGet support](https://github.com/sinisterMage/WPlusPlus)
-* [2025-05-30, 13:37:17](https://news.ycombinator.com/item?id=44136108) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
 * [2025-05-30, 12:54:55](https://news.ycombinator.com/item?id=44135738) - [Show HN: Git-Add–Interactive with Enhancements](https://github.com/cwarden/git-add-interactive)
 * [2025-05-30, 12:43:13](https://news.ycombinator.com/item?id=44135638) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
