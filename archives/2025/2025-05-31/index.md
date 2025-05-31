@@ -6,6 +6,8 @@
 
 * [2025-05-31, 20:54:30](https://news.ycombinator.com/item?id=44146858) - [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)
 * [2025-05-31, 20:27:09](https://news.ycombinator.com/item?id=44146744) - [Sguaba: Hard-to-misuse rigid body transforms for engineers](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d)
+* [2025-05-31, 19:56:37](https://news.ycombinator.com/item?id=44146619) - [CCD Co-Inventor George E. Smith Dies at 95](https://www.universitycube.net/news/ccd-co-inventor-george-e-smith-passes-away-95-05-31-2025--74189653-c0e2-489c-86c7-71d852a5200b)
+* [2025-05-31, 19:52:49](https://news.ycombinator.com/item?id=44146599) - [We still can't stop plagiarism in undergraduate computer science (2018)](https://kevinchen.co/blog/cant-stop-plagiarism-in-computer-science/)
 * [2025-05-31, 19:04:11](https://news.ycombinator.com/item?id=44146310) - [We're beating $359M in funding with two people and OCaml](https://terrateam.io/blog/punching-above-weight)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 16:09:40](https://news.ycombinator.com/item?id=44145202) - [Show HN: PunchCard Key Backup](https://github.com/volution/punchcard-key-backup)
