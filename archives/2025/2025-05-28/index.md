@@ -26,6 +26,7 @@
 * [2025-05-28, 17:01:26](https://news.ycombinator.com/item?id=44118127) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
 * [2025-05-28, 16:55:08](https://news.ycombinator.com/item?id=44118055) - [Revenge of the Chickenized Reverse-Centaurs](https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/)
 * [2025-05-28, 16:53:11](https://news.ycombinator.com/item?id=44118023) - [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
+* [2025-05-28, 16:52:04](https://news.ycombinator.com/item?id=44118012) - [Oldest known tools made from whale bones dated to 20k years ago](https://apnews.com/article/oldest-whale-bone-tools-e5ce1ae2e692b2b4f7b60ea423bacf15)
 * [2025-05-28, 16:45:02](https://news.ycombinator.com/item?id=44117911) - [The Decline of Battery Life](https://brainbaking.com/post/2021/07/the-decline-of-battery-life/)
 * [2025-05-28, 16:33:49](https://news.ycombinator.com/item?id=44117779) - [Japan Post launches 'digital address' system](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/)
 * [2025-05-28, 16:28:20](https://news.ycombinator.com/item?id=44117722) - [Compiler Explorer and the Promise of URLs That Last Forever](https://xania.org/202505/compiler-explorer-urls-forever)
