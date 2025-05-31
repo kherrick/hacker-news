@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-05-31, 11:00:44",
-      "https://news.ycombinator.com/item?id=44143432"
-    ],
-    [
-      "Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar",
-      "https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 10:52:32",
-      "https://news.ycombinator.com/item?id=44143398"
-    ],
-    [
-      "Classicide",
-      "https://en.wikipedia.org/wiki/Classicide"
-    ]
-  ],
-  [
-    [
       "2025-05-31, 08:25:41",
       "https://news.ycombinator.com/item?id=44142852"
     ],
@@ -91,16 +71,6 @@
   ],
   [
     [
-      "2025-05-31, 03:49:22",
-      "https://news.ycombinator.com/item?id=44141728"
-    ],
-    [
-      "Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)",
-      "https://www.cerebras.ai/press-release/maverick"
-    ]
-  ],
-  [
-    [
       "2025-05-31, 00:14:27",
       "https://news.ycombinator.com/item?id=44140918"
     ],
@@ -117,6 +87,16 @@
     [
       "Valkey Turns One: Community fork of Redis",
       "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 22:24:09",
+      "https://news.ycombinator.com/item?id=44140378"
+    ],
+    [
+      "Silicon Valley finally has a big electronics retailer again: Micro Center opens",
+      "https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx"
     ]
   ],
   [
@@ -147,16 +127,6 @@
     [
       "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
       "https://crfm.stanford.edu/2025/05/28/fast-kernels.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 19:53:59",
-      "https://news.ycombinator.com/item?id=44139403"
-    ],
-    [
-      "Mary Meeker's first Trends report since 2019, focused on AI",
-      "https://www.bondcap.com/reports/tai"
     ]
   ],
   [
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2025-05-29, 05:44:59",
+      "https://news.ycombinator.com/item?id=44123432"
+    ],
+    [
+      "Identifying Unmarked Iron",
+      "https://www.castironcollector.com/unmarked.php"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 04:29:30",
       "https://news.ycombinator.com/item?id=44123131"
     ],
@@ -267,6 +247,26 @@
     [
       "Randomness Requirements for Security",
       "https://datatracker.ietf.org/doc/html/rfc4086"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 17:49:52",
+      "https://news.ycombinator.com/item?id=44118718"
+    ],
+    [
+      "The Illusion of Causality in Charts",
+      "https://filwd.substack.com/p/the-illusion-of-causality-in-charts"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 17:44:43",
+      "https://news.ycombinator.com/item?id=44118646"
+    ],
+    [
+      "Ray Tracing in J",
+      "https://idle.nprescott.com/2020/ray-tracing-in-j.html"
     ]
   ],
   [
