@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-05-31, 11:00:44](https://news.ycombinator.com/item?id=44143432) - [Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar](https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/)
+* [2025-05-31, 10:52:32](https://news.ycombinator.com/item?id=44143398) - [Classicide](https://en.wikipedia.org/wiki/Classicide)
 * [2025-05-31, 08:25:41](https://news.ycombinator.com/item?id=44142852) - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [2025-05-31, 08:23:51](https://news.ycombinator.com/item?id=44142839) - [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
 * [2025-05-31, 08:06:21](https://news.ycombinator.com/item?id=44142761) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
@@ -9,6 +10,7 @@
 * [2025-05-31, 06:25:19](https://news.ycombinator.com/item?id=44142266) - [Gradients Are the New Intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
 * [2025-05-31, 04:43:14](https://news.ycombinator.com/item?id=44141887) - [Simpler Backoff](https://commaok.xyz/post/simple-backoff/)
 * [2025-05-31, 03:49:22](https://news.ycombinator.com/item?id=44141728) - [Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)](https://www.cerebras.ai/press-release/maverick)
+* [2025-05-31, 00:14:27](https://news.ycombinator.com/item?id=44140918) - [Every 5x5 Nonogram](https://pixelogic.app/every-5x5-nonogram)
 * [2025-05-30, 22:24:22](https://news.ycombinator.com/item?id=44140379) - [Valkey Turns One: Community fork of Redis](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
 * [2025-05-30, 22:18:48](https://news.ycombinator.com/item?id=44140349) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)
 * [2025-05-30, 20:32:19](https://news.ycombinator.com/item?id=44139626) - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
@@ -28,8 +30,6 @@
 * [2025-05-28, 16:55:08](https://news.ycombinator.com/item?id=44118055) - [Revenge of the Chickenized Reverse-Centaurs](https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/)
 * [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
 * [2025-05-28, 09:49:12](https://news.ycombinator.com/item?id=44114309) - [Webb telescope helps refines Hubble constant, suggesting resolution rate debate](https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html)
-* [2025-05-28, 08:26:54](https://news.ycombinator.com/item?id=44113847) - [How large should your sample size be?](https://vickiboykis.com/2015/08/04/how-large-should-your-sample-size-be/)
-* [2025-05-28, 07:43:46](https://news.ycombinator.com/item?id=44113613) - [Claude 4 vs. Gemini 2.5 Pro: A Developer's Deep Dive Comparison](https://forgecode.dev/blog/claude-sonnet-4-vs-gemini-2-5-pro-preview-coding-comparison/)
 
 ## [Archives](archives/index.md)
 
