@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-31, 08:22:39](https://news.ycombinator.com/item?id=44142835) - [She Got an Abortion. So a Texas Cop Used 83,000 Cameras to Track Her Down](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down)
 * [2025-05-31, 08:13:37](https://news.ycombinator.com/item?id=44142790) - [Doge cuts to USAid blamed for 300k deaths – most of them children](https://www.thetimes.com/us/american-politics/article/usaid-doge-deaths-children-cuts-7nb83dfkp)
 * [2025-05-31, 07:05:57](https://news.ycombinator.com/item?id=44142472) - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
 * [2025-05-31, 07:00:01](https://news.ycombinator.com/item?id=44142436) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
@@ -10,6 +9,7 @@
 * [2025-05-31, 03:49:22](https://news.ycombinator.com/item?id=44141728) - [Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)](https://www.cerebras.ai/press-release/maverick)
 * [2025-05-31, 00:14:27](https://news.ycombinator.com/item?id=44140918) - [Every 5x5 Nonogram](https://pixelogic.app/every-5x5-nonogram)
 * [2025-05-30, 22:24:22](https://news.ycombinator.com/item?id=44140379) - [Valkey Turns One: Community fork of Redis](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
+* [2025-05-30, 22:24:09](https://news.ycombinator.com/item?id=44140378) - [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
 * [2025-05-30, 22:18:48](https://news.ycombinator.com/item?id=44140349) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)
 * [2025-05-30, 20:32:19](https://news.ycombinator.com/item?id=44139626) - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
 * [2025-05-30, 20:03:12](https://news.ycombinator.com/item?id=44139454) - [Surprisingly fast AI-generated kernels we didn't mean to publish yet](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
