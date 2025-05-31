@@ -49,6 +49,7 @@
 * [2025-05-29, 06:09:22](https://news.ycombinator.com/item?id=44123535) - [Show HN: Entropy – Sharing screen is scary in SaaS age](https://entropysec.io/)
 * [2025-05-29, 05:58:07](https://news.ycombinator.com/item?id=44123486) - [The Maid Who Restored Charles II](https://www.historytoday.com/archive/feature/maid-who-restored-charles-ii)
 * [2025-05-29, 05:55:12](https://news.ycombinator.com/item?id=44123474) - [The Art of the Critic](https://www.metropolitanreview.org/p/the-art-of-the-critic)
+* [2025-05-29, 05:44:59](https://news.ycombinator.com/item?id=44123432) - [Identifying Unmarked Iron](https://www.castironcollector.com/unmarked.php)
 * [2025-05-29, 05:05:43](https://news.ycombinator.com/item?id=44123289) - [RSyncUI – A SwiftUI based macOS GUI for rsync](https://github.com/rsyncOSX/RsyncUI)
 * [2025-05-29, 04:29:30](https://news.ycombinator.com/item?id=44123131) - [Reverse engineering of Linear's sync engine](https://github.com/wzhudev/reverse-linear-sync-engine)
 * [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
