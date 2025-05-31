@@ -30,6 +30,7 @@
 * [2025-05-30, 15:51:24](https://news.ycombinator.com/item?id=44137439) - [De Bruijn notation, and why it's useful](https://blueberrywren.dev/blog/debruijn-explanation/)
 * [2025-05-30, 15:29:23](https://news.ycombinator.com/item?id=44137192) - [Build API integrations with SQL and YAML – no SaaS lock-in, no drag-and-drop UIs](https://github.com/paloaltodatabases/sequor)
 * [2025-05-30, 15:29:04](https://news.ycombinator.com/item?id=44137187) - [The Surveilled Student](https://www.chronicle.com/article/the-surveilled-student)
+* [2025-05-30, 15:28:18](https://news.ycombinator.com/item?id=44137177) - [Show HN: Leap – Full-stack AI developer agent that deploys to AWS](https://leap.new)
 * [2025-05-30, 15:13:33](https://news.ycombinator.com/item?id=44137028) - [Investigating AI Manipulation in Viral Chinese Paraglider Video](https://blog.hyperknot.com/p/investigating-ai-manipulation-in)
 * [2025-05-30, 15:04:56](https://news.ycombinator.com/item?id=44136945) - [The Nobel Prize Winner Who Thinks We Have the Universe All Wrong](https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/)
 * [2025-05-30, 14:58:01](https://news.ycombinator.com/item?id=44136884) - [Show HN: W++ – A Python-style scripting language for .NET with NuGet support](https://github.com/sinisterMage/WPlusPlus)
