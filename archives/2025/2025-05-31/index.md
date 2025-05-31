@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-31](index.md)
 
+* [2025-05-31, 15:06:03](https://news.ycombinator.com/item?id=44144750) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
+* [2025-05-31, 14:34:09](https://news.ycombinator.com/item?id=44144543) - [Acclimation of Osmoregulatory Function in Salmon](https://www.unm.edu/~toolson/salmon_osmoregulation.html)
+* [2025-05-31, 14:23:49](https://news.ycombinator.com/item?id=44144473) - [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473)
 * [2025-05-31, 14:20:58](https://news.ycombinator.com/item?id=44144451) - [Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)](https://fontofweb.com)
 * [2025-05-31, 13:59:52](https://news.ycombinator.com/item?id=44144331) - [The Two Ideals of Fields](https://susam.net/two-ideals-of-fields.html)
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://www.rigorous.company/)
