@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-05-29, 08:57:38",
+      "https://news.ycombinator.com/item?id=44124228"
+    ],
+    [
+      "Pure vs. Impure Iterators in Go",
+      "https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 03:32:27",
       "https://news.ycombinator.com/item?id=44122860"
     ],
@@ -277,16 +287,6 @@
     [
       "AtomVM, the Erlang virtual machine for IoT devices",
       "https://www.atomvm.net/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 13:31:04",
-      "https://news.ycombinator.com/item?id=44115853"
-    ],
-    [
-      "Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent",
-      "https://github.com/cheyao/icepi-zero"
     ]
   ],
   [
