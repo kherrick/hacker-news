@@ -68,6 +68,7 @@
 * [2025-05-28, 08:07:42](https://news.ycombinator.com/item?id=44113735) - [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/4bec46993258f6b7/)
 * [2025-05-28, 08:00:48](https://news.ycombinator.com/item?id=44113706) - [Atomics and Concurrency](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
 * [2025-05-28, 07:53:54](https://news.ycombinator.com/item?id=44113672) - [Ask HN: Stopping YC backed business from advertizing fake jobs at my company](https://news.ycombinator.com/item?id=44113672)
+* [2025-05-28, 07:43:46](https://news.ycombinator.com/item?id=44113613) - [Claude 4 vs. Gemini 2.5 Pro: A Developer's Deep Dive Comparison](https://forgecode.dev/blog/claude-sonnet-4-vs-gemini-2-5-pro-preview-coding-comparison/)
 * [2025-05-28, 07:09:31](https://news.ycombinator.com/item?id=44113397) - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
 * [2025-05-28, 06:40:47](https://news.ycombinator.com/item?id=44113256) - [Another way electric cars clean the air: study says brake dust reduced by 83%](https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/)
 * [2025-05-28, 06:27:11](https://news.ycombinator.com/item?id=44113210) - [As a developer, my most important tools are a pen and a notebook](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/)
