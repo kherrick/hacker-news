@@ -17,6 +17,7 @@
 * [2025-05-28, 19:37:47](https://news.ycombinator.com/item?id=44119890) - [What does \"Undecidable\" mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
 * [2025-05-28, 19:04:14](https://news.ycombinator.com/item?id=44119502) - [Unhappy Meals (2007)](https://michaelpollan.com/articles-archive/unhappy-meals/)
 * [2025-05-28, 18:35:28](https://news.ycombinator.com/item?id=44119173) - [Ice Cream Replaced Booze in the US Navy](https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/)
+* [2025-05-28, 18:33:50](https://news.ycombinator.com/item?id=44119144) - [AI video you can watch and interact with, in real-time](https://experience.odyssey.world)
 * [2025-05-28, 18:30:45](https://news.ycombinator.com/item?id=44119112) - [Grammar Index, Syntax Highlighting on GitHub](https://github.com/github-linguist/linguist/blob/main/vendor/README.md)
 * [2025-05-28, 17:59:02](https://news.ycombinator.com/item?id=44118818) - [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
 * [2025-05-28, 17:49:52](https://news.ycombinator.com/item?id=44118718) - [The Illusion of Causality in Charts](https://filwd.substack.com/p/the-illusion-of-causality-in-charts)
