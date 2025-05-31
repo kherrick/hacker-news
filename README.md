@@ -14,6 +14,7 @@
 * [2025-05-31, 13:59:52](https://news.ycombinator.com/item?id=44144331) - [The Two Ideals of Fields](https://susam.net/two-ideals-of-fields.html)
 * [2025-05-31, 13:55:26](https://news.ycombinator.com/item?id=44144308) - [Using Ed(1) as My Static Site Generator](https://aartaka.me/this-post-is-ed.html)
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://github.com/robertjakob/rigorous)
+* [2025-05-31, 08:23:51](https://news.ycombinator.com/item?id=44142839) - [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
 * [2025-05-31, 08:06:21](https://news.ycombinator.com/item?id=44142761) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
 * [2025-05-31, 07:05:57](https://news.ycombinator.com/item?id=44142472) - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
 * [2025-05-31, 06:25:19](https://news.ycombinator.com/item?id=44142266) - [Gradients Are the New Intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
@@ -28,7 +29,6 @@
 * [2025-05-28, 15:17:57](https://news.ycombinator.com/item?id=44116925) - [Building the Bucket Linear Agent](https://bucket.co/blog/building-the-bucket-linear-agent)
 * [2025-05-28, 14:01:05](https://news.ycombinator.com/item?id=44116130) - [Designing Pareto-optimal RAG workflows with syftr](https://www.datarobot.com/blog/pareto-optimized-ai-workflows-syftr/)
 * [2025-05-28, 13:35:27](https://news.ycombinator.com/item?id=44115897) - [AtomVM, the Erlang virtual machine for IoT devices](https://www.atomvm.net/)
-* [2025-05-28, 09:49:12](https://news.ycombinator.com/item?id=44114309) - [Webb telescope helps refine Hubble constant](https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html)
 * [2025-05-28, 05:16:28](https://news.ycombinator.com/item?id=44112948) - [From Clocks to Chaos: The Rhythms of Life](https://press.princeton.edu/books/paperback/9780691084961/from-clocks-to-chaos)
 
 ## [Archives](archives/index.md)
