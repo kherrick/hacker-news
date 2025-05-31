@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-31](index.md)
 
+* [2025-05-31, 12:21:54](https://news.ycombinator.com/item?id=44143782) - ['Wind theft': The mysterious effect plaguing wind farms](https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft)
 * [2025-05-31, 11:00:44](https://news.ycombinator.com/item?id=44143432) - [Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar](https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/)
 * [2025-05-31, 10:52:32](https://news.ycombinator.com/item?id=44143398) - [Classicide](https://en.wikipedia.org/wiki/Classicide)
 * [2025-05-31, 08:25:41](https://news.ycombinator.com/item?id=44142852) - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)

@@ -47,6 +47,7 @@
 * [2025-05-28, 14:11:47](https://news.ycombinator.com/item?id=44116236) - [Comprehensive Analysis of De-Anonymization Attacks Against the Privacy Coin XMR](https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/)
 * [2025-05-28, 13:51:49](https://news.ycombinator.com/item?id=44116044) - [Show HN: Smart Silence – Remind your iPhone to stay quiet in quiet places](https://testflight.apple.com/join/47CJ31VK)
 * [2025-05-28, 13:43:38](https://news.ycombinator.com/item?id=44115973) - [The Blowtorch Theory: A New Model for Structure Formation in the Universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
+* [2025-05-28, 13:35:27](https://news.ycombinator.com/item?id=44115897) - [AtomVM, the Erlang virtual machine for IoT devices](https://www.atomvm.net/)
 * [2025-05-28, 13:31:07](https://news.ycombinator.com/item?id=44115854) - [Texas' annual reading test adjusted difficulty yearly, masking improvement](https://theconversation.com/texas-annual-reading-test-adjusted-its-difficulty-every-year-masking-whether-students-are-improving-244159)
 * [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
 * [2025-05-28, 13:07:57](https://news.ycombinator.com/item?id=44115620) - [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
