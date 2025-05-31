@@ -21,6 +21,7 @@
 * [2025-05-30, 16:19:50](https://news.ycombinator.com/item?id=44137715) - [Beating Google's kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
 * [2025-05-30, 13:38:21](https://news.ycombinator.com/item?id=44136117) - [The ‘white-collar bloodbath’ is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
 * [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
+* [2025-05-29, 08:57:38](https://news.ycombinator.com/item?id=44124228) - [Pure vs. Impure Iterators in Go](https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/)
 * [2025-05-29, 03:32:27](https://news.ycombinator.com/item?id=44122860) - [Oxfordshire clock still keeping village on time after 500 years](https://www.bbc.com/news/articles/cz70p0qevlro)
 * [2025-05-28, 18:33:50](https://news.ycombinator.com/item?id=44119144) - [AI video you can watch and interact with, in real-time](https://experience.odyssey.world)
 * [2025-05-28, 17:49:52](https://news.ycombinator.com/item?id=44118718) - [The Illusion of Causality in Charts](https://filwd.substack.com/p/the-illusion-of-causality-in-charts)
@@ -28,7 +29,6 @@
 * [2025-05-28, 16:46:55](https://news.ycombinator.com/item?id=44117937) - [Exploring a Language Runtime with Bpftrace](https://www.mgaudet.ca/technical/2025/5/28/exploring-a-language-runtime-with-bpftrace)
 * [2025-05-28, 14:01:05](https://news.ycombinator.com/item?id=44116130) - [Designing Pareto-optimal RAG workflows with syftr](https://www.datarobot.com/blog/pareto-optimized-ai-workflows-syftr/)
 * [2025-05-28, 13:35:27](https://news.ycombinator.com/item?id=44115897) - [AtomVM, the Erlang virtual machine for IoT devices](https://www.atomvm.net/)
-* [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
 * [2025-05-28, 09:49:12](https://news.ycombinator.com/item?id=44114309) - [Webb telescope helps refines Hubble constant, suggesting resolution rate debate](https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html)
 
 ## [Archives](archives/index.md)
