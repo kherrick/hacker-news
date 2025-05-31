@@ -23,7 +23,7 @@
 * [2025-05-29, 17:40:52](https://news.ycombinator.com/item?id=44128325) - [Show HN: MCP Defender – OSS AI Firewall for Protecting MCP in Cursor/Claude etc](https://mcpdefender.com)
 * [2025-05-29, 13:08:17](https://news.ycombinator.com/item?id=44125734) - [Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory](https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6)
 * [2025-05-29, 04:29:30](https://news.ycombinator.com/item?id=44123131) - [Reverse engineering of Linear's sync engine](https://github.com/wzhudev/reverse-linear-sync-engine)
-* [2025-05-29, 01:04:35](https://news.ycombinator.com/item?id=44122079) - [Randomness Requirements for Security](https://datatracker.ietf.org/doc/html/rfc4086)
+* [2025-05-29, 01:04:35](https://news.ycombinator.com/item?id=44122079) - [Randomness Requirements for Security (2005)](https://datatracker.ietf.org/doc/html/rfc4086)
 * [2025-05-28, 17:49:52](https://news.ycombinator.com/item?id=44118718) - [The Illusion of Causality in Charts](https://filwd.substack.com/p/the-illusion-of-causality-in-charts)
 * [2025-05-28, 17:44:43](https://news.ycombinator.com/item?id=44118646) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
 * [2025-05-28, 16:55:08](https://news.ycombinator.com/item?id=44118055) - [Revenge of the Chickenized Reverse-Centaurs](https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/)
