@@ -9,6 +9,7 @@
 * [2025-05-31, 14:23:49](https://news.ycombinator.com/item?id=44144473) - [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473)
 * [2025-05-31, 14:20:58](https://news.ycombinator.com/item?id=44144451) - [Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)](https://fontofweb.com)
 * [2025-05-31, 13:59:52](https://news.ycombinator.com/item?id=44144331) - [The Two Ideals of Fields](https://susam.net/two-ideals-of-fields.html)
+* [2025-05-31, 13:55:26](https://news.ycombinator.com/item?id=44144308) - [Using Ed(1) as My Static Site Generator](https://aartaka.me/this-post-is-ed.html)
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://www.rigorous.company/)
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://github.com/robertjakob/rigorous)
 * [2025-05-31, 13:20:30](https://news.ycombinator.com/item?id=44144119) - [Breakthrough cancer drug doubles survival in trial](https://www.bbc.com/news/articles/ce82gderpl9o)
