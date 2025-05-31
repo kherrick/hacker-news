@@ -141,11 +141,11 @@
             <h4>
               <span>2025-05-31 @ 02:20:57</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44141442"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -160,11 +160,11 @@
             <h4>
               <span>2025-05-31 @ 00:14:27</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44140918"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -181,11 +181,11 @@
             <h4>
               <span>2025-05-30 @ 22:24:22</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44140379"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -203,11 +203,11 @@
             <h4>
               <span>2025-05-30 @ 22:24:09</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44140378"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -241,11 +241,11 @@
             <h4>
               <span>2025-05-30 @ 20:32:19</span
               ><span class="points-container"
-                >Points: <span class="points">448</span></span
+                >Points: <span class="points">475</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44139626"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -285,11 +285,11 @@
             <h4>
               <span>2025-05-30 @ 20:03:12</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44139454"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -304,11 +304,11 @@
             <h4>
               <span>2025-05-30 @ 19:53:59</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44139403"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
             <div class="text">
@@ -350,7 +350,7 @@
             <h4>
               <span>2025-05-30 @ 16:19:50</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44137715"
                   >Comments</a
@@ -380,6 +380,82 @@
             </h4>
           </section>
         </section>
+        <section id="44137177">
+          <h3>
+            <a class="item" href="https://leap.new"
+              >Show HN: Leap – Full-stack AI developer agent that deploys to
+              AWS</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-05-30 @ 15:28:18</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44137177"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We built it because every AI app builder we tried fell short.
+                They were fine for prototypes, but not for real systems. No
+                support for proper backend infra, no isolated test environments,
+                and sometimes shockingly no way to own your code.
+              </p>
+              <p>We build Leap to be more appropriate for developers:</p>
+              <p>
+                - Connect GitHub to put your code in a repo you control - Work
+                with code generation using pull request–style revisions with
+                diffs - Get Architecture diagrams and API docs for your app as
+                you build - Develop using an isolated preview environment -
+                Deploy either via open source tooling or the integration with
+                Encore Cloud for automated deploys to AWS/GCP
+              </p>
+              <p>
+                Leap uses Claude 4 Sonnet and runs on our open-source framework
+                Encore.ts[1], which provides declarative infrastructure (like a
+                cloud-agnostic CDK-layer). We found the framework to be a good
+                fit for LLM code generation as both application logic and infra
+                is defined in the same context, and the declarative nature makes
+                it less error prone.
+              </p>
+              <p>
+                Right now we think Leap is best for starting new projects or
+                building new isolated services in existing larger systems.
+              </p>
+              <p>
+                The biggest challenge right now is dealing with larger codebases
+                as models struggle to cope with large contexts. And while we're
+                doing a few things to optimize this, we intentionally made it so
+                that you can switch to your IDE any time and keep working there.
+                To run your app locally you only need the open Encore CLI
+                installed, which also can be used to build the app as a docker
+                container.
+              </p>
+              <p>
+                We're just getting started and would love your feedback if you
+                try it. And also it would be helpful to understand what would
+                make this useful for you?
+              </p>
+              <p>
+                - You can try it here:
+                <a href="https://leap.new">https://leap.new</a> - Here's the
+                launch blog post and video:
+                <a href="https://leap.new/launched"
+                  >https://leap.new/launched</a
+                >
+              </p>
+              <p>
+                [1]<a href="https://github.com/encoredev/encore"
+                  >https://github.com/encoredev/encore</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="44136945">
           <h3>
             <a
@@ -392,75 +468,13 @@
             <h4>
               <span>2025-05-30 @ 15:04:56</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44136945"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44136884">
-          <h3>
-            <a class="item" href="https://github.com/sinisterMage/WPlusPlus"
-              >Show HN: W++ – A Python-style scripting language for .NET with
-              NuGet support</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-30 @ 14:58:01</span
-              ><span class="points-container"
-                >Points: <span class="points">89</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44136884"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I’ve been building *W++*, a scripting language that looks like
-                Python but runs on the .NET runtime. It started as a fun side
-                project, but it evolved into something surprisingly powerful —
-                and potentially useful:
-              </p>
-              <p>Key Features:</p>
-              <p>- Python-style syntax with semicolon-based simplicity</p>
-              <p>- Compiles to .NET IL with experimental JIT support</p>
-              <p>- Can run interpreted or compiled</p>
-              <p>- Built-in CLI for managing projects, running, and building</p>
-              <p>
-                - Supports importing NuGet packages and converts them to .ingot
-                modules automatically - MIT licensed and fully open-source
-              </p>
-              <p>You can even do things like:</p>
-              <p></p>
-              <pre><code>    wpp
-    import Newtonsoft.Json
-
-    let person = new JObject()
-    person["name"] = "Alice"
-    print person["name"];
-
- Use Cases:</code></pre>
-              Game scripting (Unity, OpenTK support in progress)
-              <p>Education (gentle intro to .NET without C# syntax)</p>
-              <p>Blazor scripting</p>
-              <p>Embeddable scripting engine for .NET apps</p>
-              <p>
-                GitHub:
-                <a href="https://github.com/sinisterMage/WPlusPlus"
-                  >https://github.com/sinisterMage/WPlusPlus</a
-                >
-              </p>
-              <p>
-                I’d love feedback, ideas, and thoughts. Thanks for reading — and
-                if you’ve ever said “I wish Python ran on .NET,” this might be
-                for you.
-              </p>
-            </div>
           </section>
         </section>
         <section id="44136117">
@@ -468,7 +482,7 @@
             <a
               class="item"
               href="https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap"
-              >The 'white-collar bloodbath' is all part of the AI hype
+              >The ‘white-collar bloodbath’ is all part of the AI hype
               machine</a
             >
           </h3>
@@ -476,11 +490,11 @@
             <h4>
               <span>2025-05-30 @ 13:38:21</span
               ><span class="points-container"
-                >Points: <span class="points">333</span></span
+                >Points: <span class="points">342</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44136117"
                   >Comments</a
-                ><span class="descendants">: 555</span></span
+                ><span class="descendants">: 574</span></span
               >
             </h4>
           </section>
@@ -496,7 +510,7 @@
             <h4>
               <span>2025-05-30 @ 13:20:04</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44135977"
                   >Comments</a
@@ -517,7 +531,7 @@
             <h4>
               <span>2025-05-30 @ 12:43:13</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">317</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44135638"
                   >Comments</a
@@ -537,11 +551,11 @@
             <h4>
               <span>2025-05-30 @ 12:08:40</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44135369"
                   >Comments</a
-                ><span class="descendants">: 157</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -558,7 +572,7 @@
             <h4>
               <span>2025-05-30 @ 00:32:11</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44131669"
                   >Comments</a
@@ -578,11 +592,11 @@
             <h4>
               <span>2025-05-29 @ 17:40:52</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44128325"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
             <div class="text">
@@ -635,11 +649,11 @@
             <h4>
               <span>2025-05-29 @ 13:08:17</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44125734"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -656,11 +670,11 @@
             <h4>
               <span>2025-05-29 @ 04:29:30</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44123131"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -698,7 +712,7 @@
             <h4>
               <span>2025-05-28 @ 16:55:08</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44118055"
                   >Comments</a
@@ -719,7 +733,7 @@
             <h4>
               <span>2025-05-28 @ 14:41:47</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44116535"
                   >Comments</a
@@ -739,11 +753,11 @@
             <h4>
               <span>2025-05-28 @ 13:51:49</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44116044"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -791,7 +805,7 @@
             <h4>
               <span>2025-05-28 @ 13:31:04</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44115853"
                   >Comments</a
@@ -832,14 +846,14 @@
             <a
               class="item"
               href="https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure"
-              >How to Run CRON Jobs in Postgres Without Extra Infrastructure</a
+              >How to run cron jobs in Postgres without extra infrastructure</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-05-28 @ 10:14:11</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44114436"
                   >Comments</a
@@ -860,11 +874,11 @@
             <h4>
               <span>2025-05-28 @ 08:26:54</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44113847"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -879,11 +893,11 @@
             <h4>
               <span>2025-05-28 @ 05:22:26</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44112974"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
