@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-05-30, 15:28:18",
+      "https://news.ycombinator.com/item?id=44137177"
+    ],
+    [
+      "Show HN: Leap – Full-stack AI developer agent that deploys to AWS",
+      "https://leap.new"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 15:04:56",
       "https://news.ycombinator.com/item?id=44136945"
     ],
@@ -131,21 +141,11 @@
   ],
   [
     [
-      "2025-05-30, 14:58:01",
-      "https://news.ycombinator.com/item?id=44136884"
-    ],
-    [
-      "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
-      "https://github.com/sinisterMage/WPlusPlus"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 13:38:21",
       "https://news.ycombinator.com/item?id=44136117"
     ],
     [
-      "The 'white-collar bloodbath' is all part of the AI hype machine",
+      "The ‘white-collar bloodbath’ is all part of the AI hype machine",
       "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44114436"
     ],
     [
-      "How to Run CRON Jobs in Postgres Without Extra Infrastructure",
+      "How to run cron jobs in Postgres without extra infrastructure",
       "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure"
     ]
   ],
