@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 22:24:22](https://news.ycombinator.com/item?id=44140379) - [Valkey Turns One: How the Community Fork Left Redis in the Dust](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
 * [2025-05-30, 22:24:09](https://news.ycombinator.com/item?id=44140378) - [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
 * [2025-05-30, 21:24:05](https://news.ycombinator.com/item?id=44140008) - [Strategy for Competing with the Soviets in the Military [pdf]](https://americawar.wordpress.com/wp-content/uploads/2012/12/marshallonsoviet.pdf)
 * [2025-05-30, 21:02:07](https://news.ycombinator.com/item?id=44139842) - [StackAI (YC W23) Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-30, 22:24:22](https://news.ycombinator.com/item?id=44140379) - [Valkey Turns One: How the Community Fork Left Redis in the Dust](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
 * [2025-05-30, 22:24:09](https://news.ycombinator.com/item?id=44140378) - [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
 * [2025-05-30, 21:02:07](https://news.ycombinator.com/item?id=44139842) - [StackAI (YC W23) Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
-* [2025-05-30, 20:51:08](https://news.ycombinator.com/item?id=44139765) - [How to Automate Software Engineering](https://www.mechanize.work/blog/how-to-fully-automate-software-engineering/)
 * [2025-05-30, 20:32:19](https://news.ycombinator.com/item?id=44139626) - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
 * [2025-05-30, 20:27:43](https://news.ycombinator.com/item?id=44139592) - [Jerry Lewis's \"The Day the Clown Cried\" discovered in Sweden after 53 years](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/)
 * [2025-05-30, 20:03:12](https://news.ycombinator.com/item?id=44139454) - [Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
@@ -27,8 +27,8 @@
 * [2025-05-29, 13:08:17](https://news.ycombinator.com/item?id=44125734) - [Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory](https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6)
 * [2025-05-28, 17:44:43](https://news.ycombinator.com/item?id=44118646) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
 * [2025-05-28, 16:55:08](https://news.ycombinator.com/item?id=44118055) - [Revenge of the Chickenized Reverse-Centaurs](https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/)
+* [2025-05-28, 13:51:49](https://news.ycombinator.com/item?id=44116044) - [Show HN: Smart Silence – Remind your iPhone to stay quiet in quiet places](https://testflight.apple.com/join/47CJ31VK)
 * [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
-* [2025-05-28, 11:07:12](https://news.ycombinator.com/item?id=44114711) - [Fractran Interpreter](https://tjwei.github.io/Fractran/)
 * [2025-05-28, 10:14:11](https://news.ycombinator.com/item?id=44114436) - [How to Run CRON Jobs in Postgres Without Extra Infrastructure](https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure)
 
 ## [Archives](archives/index.md)

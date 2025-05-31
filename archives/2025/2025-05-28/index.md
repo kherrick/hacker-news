@@ -42,6 +42,7 @@
 * [2025-05-28, 14:30:33](https://news.ycombinator.com/item?id=44116412) - [FlowTSE: Target Speaker Extraction with Flow Matching](https://arxiv.org/abs/2505.14465)
 * [2025-05-28, 14:19:02](https://news.ycombinator.com/item?id=44116298) - [Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device](https://loodio.com/)
 * [2025-05-28, 14:11:47](https://news.ycombinator.com/item?id=44116236) - [Comprehensive Analysis of De-Anonymization Attacks Against the Privacy Coin XMR](https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/)
+* [2025-05-28, 13:51:49](https://news.ycombinator.com/item?id=44116044) - [Show HN: Smart Silence – Remind your iPhone to stay quiet in quiet places](https://testflight.apple.com/join/47CJ31VK)
 * [2025-05-28, 13:43:38](https://news.ycombinator.com/item?id=44115973) - [The Blowtorch Theory: A New Model for Structure Formation in the Universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
 * [2025-05-28, 13:31:07](https://news.ycombinator.com/item?id=44115854) - [Texas' annual reading test adjusted difficulty yearly, masking improvement](https://theconversation.com/texas-annual-reading-test-adjusted-its-difficulty-every-year-masking-whether-students-are-improving-244159)
 * [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
