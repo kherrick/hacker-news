@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44139592"
     ],
     [
-      "Jerry Lewis's \"The Day the Clown Cried\" discovered in Sweden after 53 years",
+      "Jerry Lewis's “The Day the Clown Cried” discovered in Sweden after 53 years",
       "https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/"
     ]
   ],
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-05-30, 16:55:16",
-      "https://news.ycombinator.com/item?id=44138034"
-    ],
-    [
-      "A Smiling Public Man",
-      "https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 16:19:50",
       "https://news.ycombinator.com/item?id=44137715"
     ],
@@ -117,16 +107,6 @@
     [
       "De Bruijn notation, and why it's useful",
       "https://blueberrywren.dev/blog/debruijn-explanation/"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 15:28:18",
-      "https://news.ycombinator.com/item?id=44137177"
-    ],
-    [
-      "Show HN: Leap – Full-stack AI developer agent that deploys to AWS",
-      "https://leap.new"
     ]
   ],
   [
@@ -177,6 +157,16 @@
     [
       "Systems Correctness Practices at Amazon Web Services",
       "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 12:08:40",
+      "https://news.ycombinator.com/item?id=44135369"
+    ],
+    [
+      "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
+      "https://sakana.ai/dgm/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "How to Run CRON Jobs in Postgres Without Extra Infrastructure",
       "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 08:26:54",
+      "https://news.ycombinator.com/item?id=44113847"
+    ],
+    [
+      "How large should your sample size be?",
+      "https://vickiboykis.com/2015/08/04/how-large-should-your-sample-size-be/"
     ]
   ],
   [
