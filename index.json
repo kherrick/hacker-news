@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-05-31, 10:52:32",
+      "https://news.ycombinator.com/item?id=44143398"
+    ],
+    [
+      "Classicide",
+      "https://en.wikipedia.org/wiki/Classicide"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 08:25:41",
       "https://news.ycombinator.com/item?id=44142852"
     ],
@@ -87,6 +97,16 @@
     [
       "Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)",
       "https://www.cerebras.ai/press-release/maverick"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 00:14:27",
+      "https://news.ycombinator.com/item?id=44140918"
+    ],
+    [
+      "Every 5x5 Nonogram",
+      "https://pixelogic.app/every-5x5-nonogram"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Webb telescope helps refines Hubble constant, suggesting resolution rate debate",
       "https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 08:26:54",
-      "https://news.ycombinator.com/item?id=44113847"
-    ],
-    [
-      "How large should your sample size be?",
-      "https://vickiboykis.com/2015/08/04/how-large-should-your-sample-size-be/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 07:43:46",
-      "https://news.ycombinator.com/item?id=44113613"
-    ],
-    [
-      "Claude 4 vs. Gemini 2.5 Pro: A Developer's Deep Dive Comparison",
-      "https://forgecode.dev/blog/claude-sonnet-4-vs-gemini-2-5-pro-preview-coding-comparison/"
     ]
   ]
 ]
