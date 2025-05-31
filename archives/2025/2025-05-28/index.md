@@ -38,6 +38,7 @@
 * [2025-05-28, 15:48:37](https://news.ycombinator.com/item?id=44117302) - [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
 * [2025-05-28, 15:41:56](https://news.ycombinator.com/item?id=44117225) - [Why is it so hard to get families to live in community houses?](https://supernuclear.substack.com/p/why-is-it-so-hard-to-get-families)
 * [2025-05-28, 15:27:42](https://news.ycombinator.com/item?id=44117059) - [Show HN: Tesseral – Open-Source Auth](https://github.com/tesseral-labs/tesseral)
+* [2025-05-28, 15:17:57](https://news.ycombinator.com/item?id=44116925) - [Building the Bucket Linear Agent](https://bucket.co/blog/building-the-bucket-linear-agent)
 * [2025-05-28, 15:16:35](https://news.ycombinator.com/item?id=44116906) - [Curie: A Research Experimentation Agent](https://github.com/Just-Curieous/Curie)
 * [2025-05-28, 15:13:38](https://news.ycombinator.com/item?id=44116872) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 15:12:56](https://news.ycombinator.com/item?id=44116862) - [XAI to pay Telegram $300M to integrate Grok into the chat app](https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/)

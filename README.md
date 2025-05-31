@@ -26,9 +26,9 @@
 * [2025-05-29, 03:31:02](https://news.ycombinator.com/item?id=44122851) - [Searching for Autograms](https://curiosityarb.blog/2024/12/01/searching-for-autograms.html)
 * [2025-05-28, 18:33:50](https://news.ycombinator.com/item?id=44119144) - [AI video you can watch and interact with, in real-time](https://experience.odyssey.world)
 * [2025-05-28, 16:46:55](https://news.ycombinator.com/item?id=44117937) - [Exploring a Language Runtime with Bpftrace](https://www.mgaudet.ca/technical/2025/5/28/exploring-a-language-runtime-with-bpftrace)
+* [2025-05-28, 15:17:57](https://news.ycombinator.com/item?id=44116925) - [Building the Bucket Linear Agent](https://bucket.co/blog/building-the-bucket-linear-agent)
 * [2025-05-28, 14:01:05](https://news.ycombinator.com/item?id=44116130) - [Designing Pareto-optimal RAG workflows with syftr](https://www.datarobot.com/blog/pareto-optimized-ai-workflows-syftr/)
 * [2025-05-28, 13:35:27](https://news.ycombinator.com/item?id=44115897) - [AtomVM, the Erlang virtual machine for IoT devices](https://www.atomvm.net/)
-* [2025-05-28, 09:49:12](https://news.ycombinator.com/item?id=44114309) - [Webb telescope helps refine Hubble constant](https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html)
 * [2025-05-28, 05:16:28](https://news.ycombinator.com/item?id=44112948) - [From Clocks to Chaos: The Rhythms of Life](https://press.princeton.edu/books/paperback/9780691084961/from-clocks-to-chaos)
 
 ## [Archives](archives/index.md)
