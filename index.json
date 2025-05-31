@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-31, 12:21:54",
+      "https://news.ycombinator.com/item?id=44143782"
+    ],
+    [
+      "'Wind theft': The mysterious effect plaguing wind farms",
+      "https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 08:25:41",
       "https://news.ycombinator.com/item?id=44142852"
     ],
@@ -87,16 +97,6 @@
     [
       "Valkey Turns One: Community fork of Redis",
       "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 22:24:09",
-      "https://news.ycombinator.com/item?id=44140378"
-    ],
-    [
-      "Silicon Valley finally has a big electronics retailer again: Micro Center opens",
-      "https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-05-29, 05:44:59",
-      "https://news.ycombinator.com/item?id=44123432"
-    ],
-    [
-      "Identifying Unmarked Iron",
-      "https://www.castironcollector.com/unmarked.php"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 04:29:30",
       "https://news.ycombinator.com/item?id=44123131"
     ],
@@ -277,6 +267,16 @@
     [
       "Revenge of the Chickenized Reverse-Centaurs",
       "https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 13:35:27",
+      "https://news.ycombinator.com/item?id=44115897"
+    ],
+    [
+      "AtomVM, the Erlang virtual machine for IoT devices",
+      "https://www.atomvm.net/"
     ]
   ],
   [
