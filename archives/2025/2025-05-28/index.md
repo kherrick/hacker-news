@@ -38,6 +38,7 @@
 * [2025-05-28, 15:12:56](https://news.ycombinator.com/item?id=44116862) - [XAI to pay Telegram $300M to integrate Grok into the chat app](https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/)
 * [2025-05-28, 15:07:57](https://news.ycombinator.com/item?id=44116803) - [The mysterious Gobi wall uncovered](https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html)
 * [2025-05-28, 14:54:04](https://news.ycombinator.com/item?id=44116643) - [Show HN: Wetlands – a lightweight Python library for managing Conda environments](https://arthursw.github.io/wetlands/0.2.0/)
+* [2025-05-28, 14:41:47](https://news.ycombinator.com/item?id=44116535) - [Anthropic launches a voice mode for Claude](https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/)
 * [2025-05-28, 14:38:52](https://news.ycombinator.com/item?id=44116503) - [Mullvad Leta](https://leta.mullvad.net)
 * [2025-05-28, 14:30:33](https://news.ycombinator.com/item?id=44116412) - [FlowTSE: Target Speaker Extraction with Flow Matching](https://arxiv.org/abs/2505.14465)
 * [2025-05-28, 14:19:02](https://news.ycombinator.com/item?id=44116298) - [Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device](https://loodio.com/)
