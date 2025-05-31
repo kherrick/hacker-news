@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-31, 19:04:11](https://news.ycombinator.com/item?id=44146310) - [We're beating $359M in funding with two people and OCaml](https://terrateam.io/blog/punching-above-weight)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 16:09:40](https://news.ycombinator.com/item?id=44145202) - [Show HN: PunchCard Key Backup](https://github.com/volution/punchcard-key-backup)
 * [2025-05-31, 15:06:03](https://news.ycombinator.com/item?id=44144750) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
@@ -13,7 +14,6 @@
 * [2025-05-31, 08:23:51](https://news.ycombinator.com/item?id=44142839) - [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
 * [2025-05-31, 08:06:21](https://news.ycombinator.com/item?id=44142761) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
 * [2025-05-31, 07:05:57](https://news.ycombinator.com/item?id=44142472) - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
-* [2025-05-31, 07:00:01](https://news.ycombinator.com/item?id=44142436) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 * [2025-05-31, 06:25:19](https://news.ycombinator.com/item?id=44142266) - [Gradients Are the New Intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
 * [2025-05-30, 22:18:48](https://news.ycombinator.com/item?id=44140349) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)
 * [2025-05-30, 20:32:19](https://news.ycombinator.com/item?id=44139626) - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
@@ -21,7 +21,6 @@
 * [2025-05-30, 16:19:50](https://news.ycombinator.com/item?id=44137715) - [Beating Google's kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
 * [2025-05-30, 13:38:21](https://news.ycombinator.com/item?id=44136117) - [The ‘white-collar bloodbath’ is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
 * [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
-* [2025-05-29, 08:57:38](https://news.ycombinator.com/item?id=44124228) - [Pure vs. Impure Iterators in Go](https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/)
 * [2025-05-29, 03:32:27](https://news.ycombinator.com/item?id=44122860) - [Oxfordshire clock still keeping village on time after 500 years](https://www.bbc.com/news/articles/cz70p0qevlro)
 * [2025-05-28, 18:33:50](https://news.ycombinator.com/item?id=44119144) - [AI video you can watch and interact with, in real-time](https://experience.odyssey.world)
 * [2025-05-28, 17:49:52](https://news.ycombinator.com/item?id=44118718) - [The Illusion of Causality in Charts](https://filwd.substack.com/p/the-illusion-of-causality-in-charts)
@@ -29,6 +28,7 @@
 * [2025-05-28, 16:46:55](https://news.ycombinator.com/item?id=44117937) - [Exploring a Language Runtime with Bpftrace](https://www.mgaudet.ca/technical/2025/5/28/exploring-a-language-runtime-with-bpftrace)
 * [2025-05-28, 14:01:05](https://news.ycombinator.com/item?id=44116130) - [Designing Pareto-optimal RAG workflows with syftr](https://www.datarobot.com/blog/pareto-optimized-ai-workflows-syftr/)
 * [2025-05-28, 13:35:27](https://news.ycombinator.com/item?id=44115897) - [AtomVM, the Erlang virtual machine for IoT devices](https://www.atomvm.net/)
+* [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
 * [2025-05-28, 09:49:12](https://news.ycombinator.com/item?id=44114309) - [Webb telescope helps refines Hubble constant, suggesting resolution rate debate](https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html)
 
 ## [Archives](archives/index.md)
