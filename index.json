@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-31, 03:49:22",
+      "https://news.ycombinator.com/item?id=44141728"
+    ],
+    [
+      "Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)",
+      "https://www.cerebras.ai/press-release/maverick"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 03:15:19",
       "https://news.ycombinator.com/item?id=44141636"
     ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2025-05-30, 16:36:10",
+      "https://news.ycombinator.com/item?id=44137867"
+    ],
+    [
+      "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
+      "https://capjs.js.org/"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 16:19:50",
       "https://news.ycombinator.com/item?id=44137715"
     ],
@@ -131,12 +151,12 @@
   ],
   [
     [
-      "2025-05-30, 15:04:56",
-      "https://news.ycombinator.com/item?id=44136945"
+      "2025-05-30, 14:24:36",
+      "https://news.ycombinator.com/item?id=44136539"
     ],
     [
-      "Adam Riess and the Hubble tension",
-      "https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/"
+      "What's Working for YC Companies Since the AI Boom",
+      "https://jamesin.substack.com/p/whats-working-for-yc-companies-since"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
       "https://sakana.ai/dgm/"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 00:32:11",
-      "https://news.ycombinator.com/item?id=44131669"
-    ],
-    [
-      "Copy Excel to Markdown Table (and vice versa)",
-      "https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent",
       "https://github.com/cheyao/icepi-zero"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 10:14:11",
-      "https://news.ycombinator.com/item?id=44114436"
-    ],
-    [
-      "How to run cron jobs in Postgres without extra infrastructure",
-      "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure"
     ]
   ],
   [
