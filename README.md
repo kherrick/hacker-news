@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-31, 07:05:57](https://news.ycombinator.com/item?id=44142472) - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
 * [2025-05-31, 07:00:01](https://news.ycombinator.com/item?id=44142436) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 * [2025-05-31, 05:48:16](https://news.ycombinator.com/item?id=44142113) - [AI Responses May Include Mistakes](https://www.os2museum.com/wp/ai-responses-may-include-mistakes/)
 * [2025-05-31, 04:43:14](https://news.ycombinator.com/item?id=44141887) - [Simpler Backoff](https://commaok.xyz/post/simple-backoff/)
@@ -21,7 +22,6 @@
 * [2025-05-30, 12:08:40](https://news.ycombinator.com/item?id=44135369) - [The Darwin Gödel Machine: AI that improves itself by rewriting its own code](https://sakana.ai/dgm/)
 * [2025-05-29, 17:40:52](https://news.ycombinator.com/item?id=44128325) - [Show HN: MCP Defender – OSS AI Firewall for Protecting MCP in Cursor/Claude etc.](https://mcpdefender.com)
 * [2025-05-29, 13:08:17](https://news.ycombinator.com/item?id=44125734) - [Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory](https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6)
-* [2025-05-29, 05:44:59](https://news.ycombinator.com/item?id=44123432) - [Identifying Unmarked Iron](https://www.castironcollector.com/unmarked.php)
 * [2025-05-29, 04:29:30](https://news.ycombinator.com/item?id=44123131) - [Reverse engineering of Linear's sync engine](https://github.com/wzhudev/reverse-linear-sync-engine)
 * [2025-05-28, 17:44:43](https://news.ycombinator.com/item?id=44118646) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
 * [2025-05-28, 16:55:08](https://news.ycombinator.com/item?id=44118055) - [Revenge of the Chickenized Reverse-Centaurs](https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/)
