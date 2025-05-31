@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-31, 15:03:44",
+      "https://news.ycombinator.com/item?id=44144730"
+    ],
+    [
+      "The Rise of the Japanese Toilet",
+      "https://www.nytimes.com/2025/05/29/business/toto-toilet-japan-bidet.html"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 14:34:09",
       "https://news.ycombinator.com/item?id=44144543"
     ],
@@ -47,6 +57,16 @@
     [
       "Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)",
       "https://fontofweb.com"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 14:13:00",
+      "https://news.ycombinator.com/item?id=44144407"
+    ],
+    [
+      "Atlas: Learning to Optimally Memorize the Context at Test Time",
+      "https://arxiv.org/abs/2505.23735"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-05-30, 12:43:13",
-      "https://news.ycombinator.com/item?id=44135638"
-    ],
-    [
-      "Systems Correctness Practices at Amazon Web Services",
-      "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 08:57:38",
       "https://news.ycombinator.com/item?id=44124228"
     ],
     [
       "Pure vs. Impure Iterators in Go",
       "https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 04:29:30",
-      "https://news.ycombinator.com/item?id=44123131"
-    ],
-    [
-      "Reverse engineering of Linear's sync engine",
-      "https://github.com/wzhudev/reverse-linear-sync-engine"
     ]
   ],
   [
