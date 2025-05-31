@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-31, 20:27:09",
+      "https://news.ycombinator.com/item?id=44146744"
+    ],
+    [
+      "Sguaba: Hard-to-misuse rigid body transforms for engineers",
+      "https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 16:55:37",
       "https://news.ycombinator.com/item?id=44145517"
     ],
@@ -267,16 +277,6 @@
     [
       "AtomVM, the Erlang virtual machine for IoT devices",
       "https://www.atomvm.net/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 13:31:04",
-      "https://news.ycombinator.com/item?id=44115853"
-    ],
-    [
-      "Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent",
-      "https://github.com/cheyao/icepi-zero"
     ]
   ],
   [
