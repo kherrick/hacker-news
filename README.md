@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-31, 02:20:57](https://news.ycombinator.com/item?id=44141442) - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
 * [2025-05-31, 00:14:27](https://news.ycombinator.com/item?id=44140918) - [Every 5x5 Nonogram](https://pixelogic.app/every-5x5-nonogram)
 * [2025-05-30, 22:24:22](https://news.ycombinator.com/item?id=44140379) - [Valkey Turns One: Community fork of Redis](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
 * [2025-05-30, 22:24:09](https://news.ycombinator.com/item?id=44140378) - [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
@@ -14,6 +13,7 @@
 * [2025-05-30, 15:51:24](https://news.ycombinator.com/item?id=44137439) - [De Bruijn notation, and why it's useful](https://blueberrywren.dev/blog/debruijn-explanation/)
 * [2025-05-30, 15:28:18](https://news.ycombinator.com/item?id=44137177) - [Show HN: Leap – Full-stack AI developer agent that deploys to AWS](https://leap.new)
 * [2025-05-30, 15:04:56](https://news.ycombinator.com/item?id=44136945) - [Adam Riess and the Hubble tension](https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/)
+* [2025-05-30, 14:58:01](https://news.ycombinator.com/item?id=44136884) - [Show HN: W++ – A Python-style scripting language for .NET with NuGet support](https://github.com/sinisterMage/WPlusPlus)
 * [2025-05-30, 13:38:21](https://news.ycombinator.com/item?id=44136117) - [The ‘white-collar bloodbath’ is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
 * [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
 * [2025-05-30, 12:43:13](https://news.ycombinator.com/item?id=44135638) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
