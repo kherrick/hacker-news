@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-31](index.md)
 
+* [2025-05-31, 07:41:53](https://news.ycombinator.com/item?id=44142667) - [Germany Is Using AI to Erase Pro-Palestinian Speech](https://jacobin.com/2025/05/germany-ai-palestine-israel-antisemitism)
+* [2025-05-31, 07:10:38](https://news.ycombinator.com/item?id=44142494) - [Google Duo will be replaced by Google Meet in Sept 2025](https://9to5google.com/2025/05/27/google-meet-legacy-duo-calling/)
 * [2025-05-31, 07:05:57](https://news.ycombinator.com/item?id=44142472) - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
 * [2025-05-31, 07:00:01](https://news.ycombinator.com/item?id=44142436) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 * [2025-05-31, 05:48:16](https://news.ycombinator.com/item?id=44142113) - [AI Responses May Include Mistakes](https://www.os2museum.com/wp/ai-responses-may-include-mistakes/)

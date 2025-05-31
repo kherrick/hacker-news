@@ -30,6 +30,7 @@
 * [2025-05-29, 14:57:25](https://news.ycombinator.com/item?id=44126725) - [Web Bench: a new way to compare AI browser agents](https://blog.skyvern.com/web-bench-a-new-way-to-compare-ai-browser-agents/)
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
 * [2025-05-29, 14:33:43](https://news.ycombinator.com/item?id=44126518) - [Medieval Fogge: In Defence of the Middle Ages](https://www.historytoday.com/archive/making-history/medieval-fogge-defence-middle-ages)
+* [2025-05-29, 14:07:11](https://news.ycombinator.com/item?id=44126285) - [Robot is 3D-printed upside-down in one piece, then walks out of the printer](https://newatlas.com/robotics/3d-printed-soft-robot-walks/)
 * [2025-05-29, 14:05:27](https://news.ycombinator.com/item?id=44126264) - [Nova: A JavaScript and WebAssembly engine written in Rust](https://trynova.dev/)
 * [2025-05-29, 13:59:17](https://news.ycombinator.com/item?id=44126214) - [Domain Adaptation of Base Models + ShadowdarkQA Bench](https://gygaxtest.com/posts/continued_pretraining_for-rules/)
 * [2025-05-29, 13:33:31](https://news.ycombinator.com/item?id=44125966) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
