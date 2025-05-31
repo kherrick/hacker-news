@@ -14,7 +14,7 @@
 * [2025-05-30, 19:53:59](https://news.ycombinator.com/item?id=44139403) - [Mary Meeker's first Trends report since 2019, focused on AI](https://www.bondcap.com/reports/tai)
 * [2025-05-30, 16:36:10](https://news.ycombinator.com/item?id=44137867) - [Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work](https://capjs.js.org/)
 * [2025-05-30, 16:19:50](https://news.ycombinator.com/item?id=44137715) - [Beating Google's kernelCTF PoW using AVX512](https://anemato.de/blog/kctf-vdf)
-* [2025-05-30, 14:24:36](https://news.ycombinator.com/item?id=44136539) - [What's Working for YC Companies Since the AI Boom](https://jamesin.substack.com/p/whats-working-for-yc-companies-since)
+* [2025-05-30, 14:24:36](https://news.ycombinator.com/item?id=44136539) - [What's working for YC companies since the AI boom](https://jamesin.substack.com/p/whats-working-for-yc-companies-since)
 * [2025-05-30, 13:38:21](https://news.ycombinator.com/item?id=44136117) - [The ‘white-collar bloodbath’ is all part of the AI hype machine](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
 * [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
 * [2025-05-30, 12:43:13](https://news.ycombinator.com/item?id=44135638) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
