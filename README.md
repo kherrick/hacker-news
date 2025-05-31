@@ -18,6 +18,7 @@
 * [2025-05-30, 13:20:04](https://news.ycombinator.com/item?id=44135977) - [Microsandbox: Virtual Machines that feel and perform like containers](https://github.com/microsandbox/microsandbox)
 * [2025-05-30, 12:43:13](https://news.ycombinator.com/item?id=44135638) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
 * [2025-05-30, 12:08:40](https://news.ycombinator.com/item?id=44135369) - [The Darwin Gödel Machine: AI that improves itself by rewriting its own code](https://sakana.ai/dgm/)
+* [2025-05-30, 09:14:31](https://news.ycombinator.com/item?id=44134364) - [Radio Astronomy Software Defined Radio (Rasdr)](https://radio-astronomy.org/rasdr)
 * [2025-05-30, 00:32:11](https://news.ycombinator.com/item?id=44131669) - [Copy Excel to Markdown Table (and vice versa)](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/)
 * [2025-05-29, 17:40:52](https://news.ycombinator.com/item?id=44128325) - [Show HN: MCP Defender – OSS AI Firewall for Protecting MCP in Cursor/Claude etc.](https://mcpdefender.com)
 * [2025-05-29, 13:08:17](https://news.ycombinator.com/item?id=44125734) - [Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory](https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6)
@@ -29,7 +30,6 @@
 * [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
 * [2025-05-28, 10:14:11](https://news.ycombinator.com/item?id=44114436) - [How to run cron jobs in Postgres without extra infrastructure](https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure)
 * [2025-05-28, 08:26:54](https://news.ycombinator.com/item?id=44113847) - [How large should your sample size be?](https://vickiboykis.com/2015/08/04/how-large-should-your-sample-size-be/)
-* [2025-05-28, 05:22:26](https://news.ycombinator.com/item?id=44112974) - [Show HN: Circle Crop Image](https://circlecropimage.io/)
 
 ## [Archives](archives/index.md)
 
