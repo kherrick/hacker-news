@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-05-31, 07:10:38](https://news.ycombinator.com/item?id=44142494) - [Google Duo will be replaced by Google Meet in Sept 2025](https://9to5google.com/2025/05/27/google-meet-legacy-duo-calling/)
+* [2025-05-31, 08:13:37](https://news.ycombinator.com/item?id=44142790) - [Doge cuts to USAid blamed for 300k deaths – most of them children](https://www.thetimes.com/us/american-politics/article/usaid-doge-deaths-children-cuts-7nb83dfkp)
 * [2025-05-31, 07:05:57](https://news.ycombinator.com/item?id=44142472) - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
 * [2025-05-31, 07:00:01](https://news.ycombinator.com/item?id=44142436) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 * [2025-05-31, 06:25:19](https://news.ycombinator.com/item?id=44142266) - [Gradients Are the New Intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
@@ -27,8 +27,8 @@
 * [2025-05-29, 01:04:35](https://news.ycombinator.com/item?id=44122079) - [Randomness Requirements for Security](https://datatracker.ietf.org/doc/html/rfc4086)
 * [2025-05-28, 17:44:43](https://news.ycombinator.com/item?id=44118646) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
 * [2025-05-28, 16:55:08](https://news.ycombinator.com/item?id=44118055) - [Revenge of the Chickenized Reverse-Centaurs](https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/)
-* [2025-05-28, 14:41:47](https://news.ycombinator.com/item?id=44116535) - [Anthropic launches a voice mode for Claude](https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/)
 * [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
+* [2025-05-28, 09:49:12](https://news.ycombinator.com/item?id=44114309) - [Webb telescope helps refines Hubble constant, suggesting resolution rate debate](https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html)
 * [2025-05-28, 08:26:54](https://news.ycombinator.com/item?id=44113847) - [How large should your sample size be?](https://vickiboykis.com/2015/08/04/how-large-should-your-sample-size-be/)
 
 ## [Archives](archives/index.md)

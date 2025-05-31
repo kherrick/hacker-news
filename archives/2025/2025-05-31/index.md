@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-31](index.md)
 
+* [2025-05-31, 08:13:37](https://news.ycombinator.com/item?id=44142790) - [Doge cuts to USAid blamed for 300k deaths – most of them children](https://www.thetimes.com/us/american-politics/article/usaid-doge-deaths-children-cuts-7nb83dfkp)
 * [2025-05-31, 07:41:53](https://news.ycombinator.com/item?id=44142667) - [Germany Is Using AI to Erase Pro-Palestinian Speech](https://jacobin.com/2025/05/germany-ai-palestine-israel-antisemitism)
 * [2025-05-31, 07:10:38](https://news.ycombinator.com/item?id=44142494) - [Google Duo will be replaced by Google Meet in Sept 2025](https://9to5google.com/2025/05/27/google-meet-legacy-duo-calling/)
 * [2025-05-31, 07:05:57](https://news.ycombinator.com/item?id=44142472) - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)

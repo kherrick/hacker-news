@@ -62,6 +62,7 @@
 * [2025-05-28, 10:42:05](https://news.ycombinator.com/item?id=44114589) - [Driverless Semi Trucks Are Here, with Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html)
 * [2025-05-28, 10:23:56](https://news.ycombinator.com/item?id=44114483) - [CheerpJ 4.1: Java in the browser, now supporting Java 17 (preview)](https://labs.leaningtech.com/blog/cheerpj-4.1)
 * [2025-05-28, 10:14:11](https://news.ycombinator.com/item?id=44114436) - [How to Run CRON Jobs in Postgres Without Extra Infrastructure](https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure)
+* [2025-05-28, 09:49:12](https://news.ycombinator.com/item?id=44114309) - [Webb telescope helps refines Hubble constant, suggesting resolution rate debate](https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html)
 * [2025-05-28, 08:26:54](https://news.ycombinator.com/item?id=44113847) - [How large should your sample size be?](https://vickiboykis.com/2015/08/04/how-large-should-your-sample-size-be/)
 * [2025-05-28, 08:18:32](https://news.ycombinator.com/item?id=44113789) - [Vibe coding for teams, thoughts to date](https://laughingmeme.org//2025/05/25/vibe-coding-for-teams.html)
 * [2025-05-28, 08:07:42](https://news.ycombinator.com/item?id=44113735) - [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/4bec46993258f6b7/)
