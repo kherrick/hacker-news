@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-31, 02:20:57",
+      "https://news.ycombinator.com/item?id=44141442"
+    ],
+    [
+      "Why Writing by Hand Is Better for Memory and Learning",
+      "https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 00:14:27",
       "https://news.ycombinator.com/item?id=44140918"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44140379"
     ],
     [
-      "Valkey Turns One: How the Community Fork Left Redis in the Dust",
+      "Valkey Turns One: Community fork of Redis",
       "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44139454"
     ],
     [
-      "Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)",
+      "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
       "https://crfm.stanford.edu/2025/05/28/fast-kernels.html"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Beating Google's kernelCTF PoW using AVX512",
       "https://anemato.de/blog/kctf-vdf"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 16:11:07",
-      "https://news.ycombinator.com/item?id=44137630"
-    ],
-    [
-      "When will M&S take online orders again?",
-      "https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Microsandbox: Virtual Machines that feel and perform like containers",
       "https://github.com/microsandbox/microsandbox"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 12:54:55",
-      "https://news.ycombinator.com/item?id=44135738"
-    ],
-    [
-      "Show HN: Git-Add–Interactive with Enhancements",
-      "https://github.com/cwarden/git-add-interactive"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to Run CRON Jobs in Postgres Without Extra Infrastructure",
       "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 05:22:26",
+      "https://news.ycombinator.com/item?id=44112974"
+    ],
+    [
+      "Show HN: Circle Crop Image",
+      "https://circlecropimage.io/"
     ]
   ]
 ]
