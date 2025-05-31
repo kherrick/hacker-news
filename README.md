@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-05-31, 20:27:09](https://news.ycombinator.com/item?id=44146744) - [Sguaba: Hard-to-misuse rigid body transforms for engineers](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 16:09:40](https://news.ycombinator.com/item?id=44145202) - [Show HN: PunchCard Key Backup](https://github.com/volution/punchcard-key-backup)
 * [2025-05-31, 15:06:03](https://news.ycombinator.com/item?id=44144750) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
@@ -27,7 +28,6 @@
 * [2025-05-28, 16:46:55](https://news.ycombinator.com/item?id=44117937) - [Exploring a Language Runtime with Bpftrace](https://www.mgaudet.ca/technical/2025/5/28/exploring-a-language-runtime-with-bpftrace)
 * [2025-05-28, 14:01:05](https://news.ycombinator.com/item?id=44116130) - [Designing Pareto-optimal RAG workflows with syftr](https://www.datarobot.com/blog/pareto-optimized-ai-workflows-syftr/)
 * [2025-05-28, 13:35:27](https://news.ycombinator.com/item?id=44115897) - [AtomVM, the Erlang virtual machine for IoT devices](https://www.atomvm.net/)
-* [2025-05-28, 13:31:04](https://news.ycombinator.com/item?id=44115853) - [Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent](https://github.com/cheyao/icepi-zero)
 * [2025-05-28, 09:49:12](https://news.ycombinator.com/item?id=44114309) - [Webb telescope helps refines Hubble constant, suggesting resolution rate debate](https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html)
 * [2025-05-28, 05:16:28](https://news.ycombinator.com/item?id=44112948) - [From Clocks to Chaos: The Rhythms of Life](https://press.princeton.edu/books/paperback/9780691084961/from-clocks-to-chaos)
 

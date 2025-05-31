@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-31](index.md)
 
+* [2025-05-31, 20:27:09](https://news.ycombinator.com/item?id=44146744) - [Sguaba: Hard-to-misuse rigid body transforms for engineers](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d)
 * [2025-05-31, 19:04:11](https://news.ycombinator.com/item?id=44146310) - [We're beating $359M in funding with two people and OCaml](https://terrateam.io/blog/punching-above-weight)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 16:09:40](https://news.ycombinator.com/item?id=44145202) - [Show HN: PunchCard Key Backup](https://github.com/volution/punchcard-key-backup)
