@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-31](index.md)
 
+* [2025-05-31, 16:09:40](https://news.ycombinator.com/item?id=44145202) - [Show HN: PunchCard Key Backup](https://github.com/volution/punchcard-key-backup)
 * [2025-05-31, 15:06:03](https://news.ycombinator.com/item?id=44144750) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
 * [2025-05-31, 14:34:09](https://news.ycombinator.com/item?id=44144543) - [Acclimation of Osmoregulatory Function in Salmon](https://www.unm.edu/~toolson/salmon_osmoregulation.html)
 * [2025-05-31, 14:23:49](https://news.ycombinator.com/item?id=44144473) - [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473)
