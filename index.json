@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-05-29, 14:07:11",
-      "https://news.ycombinator.com/item?id=44126285"
-    ],
-    [
-      "Robot is 3D-printed upside-down in one piece, then walks out of the printer",
-      "https://newatlas.com/robotics/3d-printed-soft-robot-walks/"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 13:08:17",
       "https://news.ycombinator.com/item?id=44125734"
     ],
@@ -247,6 +237,16 @@
     [
       "Reverse engineering of Linear's sync engine",
       "https://github.com/wzhudev/reverse-linear-sync-engine"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 01:04:35",
+      "https://news.ycombinator.com/item?id=44122079"
+    ],
+    [
+      "Randomness Requirements for Security",
+      "https://datatracker.ietf.org/doc/html/rfc4086"
     ]
   ],
   [
