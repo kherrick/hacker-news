@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 13:42:49](https://news.ycombinator.com/item?id=44150803) - [How I got a Root Shell on a Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
 * [2025-06-01, 11:22:55](https://news.ycombinator.com/item?id=44150093) - [Codex CLI is going native](https://github.com/openai/codex/discussions/1174)
 * [2025-06-01, 11:19:28](https://news.ycombinator.com/item?id=44150081) - [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/)
 * [2025-06-01, 11:01:31](https://news.ycombinator.com/item?id=44150002) - [Atari Means Business with the Mega ST – By Paul Lefebvre](https://www.goto10retro.com/p/atari-means-business-with-the-mega)

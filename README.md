@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-01, 13:42:49](https://news.ycombinator.com/item?id=44150803) - [How I got a Root Shell on a Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
 * [2025-06-01, 11:19:28](https://news.ycombinator.com/item?id=44150081) - [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/)
 * [2025-06-01, 11:01:31](https://news.ycombinator.com/item?id=44150002) - [Atari Means Business with the Mega ST](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
 * [2025-06-01, 10:35:55](https://news.ycombinator.com/item?id=44149890) - [I like Svelte more than React (it's store management)](https://river.berlin/blog/why-i-like-svelte-more-than-react/)
@@ -21,7 +22,6 @@
 * [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 00:17:25](https://news.ycombinator.com/item?id=44147803) - [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
 * [2025-05-31, 23:08:29](https://news.ycombinator.com/item?id=44147573) - [New adaptive optics shows details of our star's atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
-* [2025-05-31, 20:54:30](https://news.ycombinator.com/item?id=44146858) - [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)
 * [2025-05-31, 19:56:37](https://news.ycombinator.com/item?id=44146619) - [CCD co-inventor George E. Smith dies at 95](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
