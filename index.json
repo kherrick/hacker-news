@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-01, 02:05:32",
+      "https://news.ycombinator.com/item?id=44148179"
+    ],
+    [
+      "Of course the Apple Network Server can be hacked into running Doom",
+      "http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 01:24:56",
+      "https://news.ycombinator.com/item?id=44148039"
+    ],
+    [
+      "Enhancing MySQL: MySQL improvement project",
+      "https://github.com/enhancedformysql/enhancedformysql"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 00:58:00",
       "https://news.ycombinator.com/item?id=44147945"
     ],
@@ -27,16 +47,6 @@
     [
       "The NFS 4 Freezer Spacer In Science Fiction Sets",
       "https://kolektiva.social/@beka_valentine/114600567753999701"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 23:09:56",
-      "https://news.ycombinator.com/item?id=44147582"
-    ],
-    [
-      "Show HN: Open-source P2P file transfer",
-      "https://github.com/nihaocami/berb"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-05-31, 13:59:52",
-      "https://news.ycombinator.com/item?id=44144331"
-    ],
-    [
-      "The Two Ideals of Fields",
-      "https://susam.net/two-ideals-of-fields.html"
-    ]
-  ],
-  [
-    [
       "2025-05-31, 13:55:26",
       "https://news.ycombinator.com/item?id=44144308"
     ],
@@ -211,22 +211,32 @@
   ],
   [
     [
-      "2025-05-30, 20:32:19",
-      "https://news.ycombinator.com/item?id=44139626"
-    ],
-    [
-      "Photos taken inside musical instruments",
-      "https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 20:03:12",
       "https://news.ycombinator.com/item?id=44139454"
     ],
     [
       "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
       "https://crfm.stanford.edu/2025/05/28/fast-kernels.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 20:25:34",
+      "https://news.ycombinator.com/item?id=44129998"
+    ],
+    [
+      "The Evolution of Software Development: From Machine Code to AI Orchestration",
+      "https://guptadeepak.com/the-evolution-of-software-development-from-machine-code-to-ai-orchestration/"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 17:15:45",
+      "https://news.ycombinator.com/item?id=44128089"
+    ],
+    [
+      "Quantum Computing and the Hidden Subgroup Problem",
+      "https://www.daniellowengrub.com/blog/2025/04/23/hidden-subgroup"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-05-28, 14:01:05",
-      "https://news.ycombinator.com/item?id=44116130"
-    ],
-    [
-      "Designing Pareto-optimal RAG workflows with syftr",
-      "https://www.datarobot.com/blog/pareto-optimized-ai-workflows-syftr/"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 13:35:27",
       "https://news.ycombinator.com/item?id=44115897"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-05-28, 09:49:12",
+      "https://news.ycombinator.com/item?id=44114309"
+    ],
+    [
+      "Webb telescope helps refine Hubble constant",
+      "https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 08:33:13",
       "https://news.ycombinator.com/item?id=44113891"
     ],
     [
       "UK's Vertical VX4 eVTOL flies outside Kemble circuit for first time",
       "https://flyer.co.uk/feature/uks-vertical-vx4-evtol-flies-outside-kemble-circuit-for-first-time/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 05:16:28",
-      "https://news.ycombinator.com/item?id=44112948"
-    ],
-    [
-      "From Clocks to Chaos: The Rhythms of Life",
-      "https://press.princeton.edu/books/paperback/9780691084961/from-clocks-to-chaos"
     ]
   ]
 ]
