@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-01, 07:13:46",
+      "https://news.ycombinator.com/item?id=44149177"
+    ],
+    [
+      "Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex",
+      "https://github.com/einaregilsson/Redirector"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 06:37:28",
       "https://news.ycombinator.com/item?id=44149036"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2025-06-01, 06:29:28",
-      "https://news.ycombinator.com/item?id=44149009"
-    ],
-    [
-      "The American vs. European Mindset on Life",
-      "https://mertbulan.com/2025/06/01/the-american-vs-european-mindset-on-life/"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 06:24:48",
       "https://news.ycombinator.com/item?id=44149000"
     ],
     [
       "I like to install NixOS (declaratively)",
       "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 05:59:59",
+      "https://news.ycombinator.com/item?id=44148933"
+    ],
+    [
+      "Figma Slides Is a Beautiful Disaster",
+      "https://allenpike.com/2025/figma-slides-beautiful-disaster"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Structured Errors in Go",
       "https://southcla.ws/structured-errors-in-go"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 04:48:19",
-      "https://news.ycombinator.com/item?id=44148708"
-    ],
-    [
-      "Why Use Structured Errors in Rust Applications?",
-      "https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-05-31, 20:27:09",
-      "https://news.ycombinator.com/item?id=44146744"
-    ],
-    [
-      "Sguaba: Hard-to-misuse rigid body transforms for engineers",
-      "https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d"
-    ]
-  ],
-  [
-    [
       "2025-05-31, 19:56:37",
       "https://news.ycombinator.com/item?id=44146619"
     ],
@@ -217,6 +207,16 @@
     [
       "Precision Clock Mk IV",
       "https://mitxela.com/projects/precision_clock_mk_iv"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 15:03:44",
+      "https://news.ycombinator.com/item?id=44144730"
+    ],
+    [
+      "The Rise of the Japanese Toilet",
+      "https://www.nytimes.com/2025/05/29/business/toto-toilet-japan-bidet.html"
     ]
   ],
   [
