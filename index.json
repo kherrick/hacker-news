@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-01, 16:43:54",
+      "https://news.ycombinator.com/item?id=44152154"
+    ],
+    [
+      "M8.2 solar flare, Strong G4 geomagnetic storm watch",
+      "https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 14:21:29",
       "https://news.ycombinator.com/item?id=44151086"
     ],
@@ -147,16 +157,6 @@
     [
       "Why Use Structured Errors in Rust Applications?",
       "https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 04:29:20",
-      "https://news.ycombinator.com/item?id=44148665"
-    ],
-    [
-      "Tldx – CLI tool for fast domain name discovery",
-      "https://github.com/brandonyoungdev/tldx"
     ]
   ],
   [
