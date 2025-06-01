@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 21:36:15](https://news.ycombinator.com/item?id=44153907) - [Far-right websites got hacked and defaced; 6.5 terabytes of data got leaked](https://ddosecrets.com/article/psyclone-media)
 * [2025-06-01, 21:13:54](https://news.ycombinator.com/item?id=44153795) - [How I made $1M from my personal projects](https://www.alexwest.co/book-one)
 * [2025-06-01, 21:05:58](https://news.ycombinator.com/item?id=44153754) - [Why Blender Changing to Vulkan Is Groundbreaking [video]](https://www.youtube.com/watch?v=7cta91Y53gs)
 * [2025-06-01, 21:02:58](https://news.ycombinator.com/item?id=44153738) - [LibriVox](https://librivox.org/)
 * [2025-06-01, 21:02:25](https://news.ycombinator.com/item?id=44153734) - ['bugs are 100x more expensive to fix in production' is a fairy tale](https://www.theregister.com/2021/07/22/bugs_expense_bs/)
+* [2025-06-01, 20:47:28](https://news.ycombinator.com/item?id=44153669) - [Open AI Can Stop Pretending](https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/)
+* [2025-06-01, 19:54:28](https://news.ycombinator.com/item?id=44153366) - [Engagement = % of Humanity's Time Hijacked and Wasted](https://news.ycombinator.com/item?id=44153366)
+* [2025-06-01, 19:11:04](https://news.ycombinator.com/item?id=44153091) - [She Got an Abortion. So a Texas Cop Used 83,000 Cameras to Track Her Down](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down)
 * [2025-06-01, 19:04:56](https://news.ycombinator.com/item?id=44153053) - [Claude Code: An Agentic cleanroom analysis](https://southbridge-research.notion.site/claude-code-an-agentic-cleanroom-analysis)
 * [2025-06-01, 18:56:57](https://news.ycombinator.com/item?id=44152991) - [US authorities are collecting DNA information of children in criminal database](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants)
 * [2025-06-01, 18:48:03](https://news.ycombinator.com/item?id=44152926) - [Elevenlabs Conversational AI 2.0](https://elevenlabs.io/blog/conversational-ai-2-0)
