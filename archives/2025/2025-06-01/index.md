@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 06:37:28](https://news.ycombinator.com/item?id=44149036) - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
+* [2025-06-01, 06:24:48](https://news.ycombinator.com/item?id=44149000) - [I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 * [2025-06-01, 05:31:20](https://news.ycombinator.com/item?id=44148853) - [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
 * [2025-06-01, 05:17:37](https://news.ycombinator.com/item?id=44148818) - [Welcome to the age of $10/month Lakehouses](https://tobilg.com/the-age-of-10-dollar-a-month-lakehouses)
 * [2025-06-01, 05:05:53](https://news.ycombinator.com/item?id=44148781) - [Reviving Astoria – Windows's Lost Android](https://trungnt2910.com/astoria-windows-android/)
 * [2025-06-01, 04:54:24](https://news.ycombinator.com/item?id=44148734) - [Structured Errors in Go](https://southcla.ws/structured-errors-in-go)
+* [2025-06-01, 04:48:19](https://news.ycombinator.com/item?id=44148708) - [Why Use Structured Errors in Rust Applications?](https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/)
 * [2025-06-01, 04:29:20](https://news.ycombinator.com/item?id=44148665) - [Tldx – CLI tool for fast domain name discovery](https://github.com/brandonyoungdev/tldx)
 * [2025-06-01, 04:28:02](https://news.ycombinator.com/item?id=44148662) - [Beyond Attention: Toward Machines with Intrinsic Higher Mental States](https://arxiv.org/abs/2505.06257)
 * [2025-06-01, 03:43:00](https://news.ycombinator.com/item?id=44148524) - [RenderFormer: Neural Rendering of Triangle Meshes with Global Illumination](https://microsoft.github.io/renderformer/)
