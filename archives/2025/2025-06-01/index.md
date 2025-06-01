@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
 * [2025-06-01, 16:43:54](https://news.ycombinator.com/item?id=44152154) - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
+* [2025-06-01, 16:27:54](https://news.ycombinator.com/item?id=44152012) - [Ask HN: How Are Parents Who Program Teaching Their Kids Today?](https://news.ycombinator.com/item?id=44152012)
 * [2025-06-01, 15:39:02](https://news.ycombinator.com/item?id=44151668) - [What We Lost with PHP and jQuery](https://idiallo.com/blog/what-we-lost-with-php-and-jquery)
 * [2025-06-01, 14:29:53](https://news.ycombinator.com/item?id=44151139) - [YouTube Is Swallowing TV Whole, and It's Coming for the Sitcom](https://www.bloomberg.com/news/features/2025-05-28/youtube-creators-compete-with-hollywood-studio-sitcoms)
 * [2025-06-01, 14:21:29](https://news.ycombinator.com/item?id=44151086) - [Learning from the Amiga API/ABI](https://asm-basic-coder.neocities.org/rants/amigaapilearn)
