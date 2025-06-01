@@ -20,6 +20,7 @@
 * [2025-05-29, 17:16:54](https://news.ycombinator.com/item?id=44128101) - [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing)
 * [2025-05-29, 17:01:42](https://news.ycombinator.com/item?id=44127956) - [Human coders are still better than LLMs](https://www.antirez.com/news/153)
 * [2025-05-29, 17:01:18](https://news.ycombinator.com/item?id=44127948) - [Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
+* [2025-05-29, 16:42:52](https://news.ycombinator.com/item?id=44127765) - [Toxic Proteins for Drug Discovery](https://www.asimov.press/p/toxic-proteins)
 * [2025-05-29, 16:41:04](https://news.ycombinator.com/item?id=44127739) - [Human coders are still better than LLMs](https://antirez.com/news/153)
 * [2025-05-29, 16:31:15](https://news.ycombinator.com/item?id=44127653) - [Show HN: Open-source, visual-first Cursor for Designers](https://beta.onlook.com/)
 * [2025-05-29, 15:43:56](https://news.ycombinator.com/item?id=44127177) - [Civil War in 3D: Stereographs from the New-York Historical Society (2015)](https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society)
