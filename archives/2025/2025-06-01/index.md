@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 07:13:46](https://news.ycombinator.com/item?id=44149177) - [Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
 * [2025-06-01, 06:37:28](https://news.ycombinator.com/item?id=44149036) - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
 * [2025-06-01, 06:29:28](https://news.ycombinator.com/item?id=44149009) - [The American vs. European Mindset on Life](https://mertbulan.com/2025/06/01/the-american-vs-european-mindset-on-life/)
 * [2025-06-01, 06:24:48](https://news.ycombinator.com/item?id=44149000) - [I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
+* [2025-06-01, 05:59:59](https://news.ycombinator.com/item?id=44148933) - [Figma Slides Is a Beautiful Disaster](https://allenpike.com/2025/figma-slides-beautiful-disaster)
 * [2025-06-01, 05:31:20](https://news.ycombinator.com/item?id=44148853) - [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
 * [2025-06-01, 05:17:37](https://news.ycombinator.com/item?id=44148818) - [Welcome to the age of $10/month Lakehouses](https://tobilg.com/the-age-of-10-dollar-a-month-lakehouses)
 * [2025-06-01, 05:05:53](https://news.ycombinator.com/item?id=44148781) - [Reviving Astoria – Windows's Lost Android](https://trungnt2910.com/astoria-windows-android/)
