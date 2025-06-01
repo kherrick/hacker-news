@@ -15,6 +15,7 @@
 * [2025-05-29, 19:48:13](https://news.ycombinator.com/item?id=44129603) - [California has got good at building giant batteries](https://www.economist.com/united-states/2025/05/22/california-has-got-really-good-at-building-giant-batteries)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 19:42:20](https://news.ycombinator.com/item?id=44129529) - [Untrusted chatbot AI between you & the internet is a disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
+* [2025-05-29, 19:39:36](https://news.ycombinator.com/item?id=44129495) - [When Fine-Tuning Makes Sense: A Developer's Guide](https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started)
 * [2025-05-29, 19:33:33](https://news.ycombinator.com/item?id=44129425) - [Sam Altman and Jony Ive Will Force A.I. Into Your Life](https://www.newyorker.com/culture/infinite-scroll/sam-altman-and-jony-ive-will-force-ai-into-your-life)
 * [2025-05-29, 19:14:07](https://news.ycombinator.com/item?id=44129233) - [Snake on a Globe](https://engaging-data.com/snake-globe/)
 * [2025-05-29, 18:46:31](https://news.ycombinator.com/item?id=44128971) - [The Headlines Are Evil, and They're Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)
