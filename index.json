@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-01, 11:22:55",
+      "https://news.ycombinator.com/item?id=44150093"
+    ],
+    [
+      "Codex CLI is going native",
+      "https://github.com/openai/codex/discussions/1174"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 11:19:28",
+      "https://news.ycombinator.com/item?id=44150081"
+    ],
+    [
+      "RSC for Lisp Developers",
+      "https://overreacted.io/rsc-for-lisp-developers/"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 11:01:31",
       "https://news.ycombinator.com/item?id=44150002"
     ],
     [
-      "Atari Means Business with the Mega ST – By Paul Lefebvre",
+      "Atari Means Business with the Mega ST",
       "https://www.goto10retro.com/p/atari-means-business-with-the-mega"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 10:35:55",
+      "https://news.ycombinator.com/item?id=44149890"
+    ],
+    [
+      "I like Svelte more than React (it's store management)",
+      "https://river.berlin/blog/why-i-like-svelte-more-than-react/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-06-01, 04:28:02",
-      "https://news.ycombinator.com/item?id=44148662"
-    ],
-    [
-      "Beyond Attention: Toward Machines with Intrinsic Higher Mental States",
-      "https://arxiv.org/abs/2505.06257"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 03:43:00",
       "https://news.ycombinator.com/item?id=44148524"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-05-31, 15:06:03",
-      "https://news.ycombinator.com/item?id=44144750"
-    ],
-    [
-      "Precision Clock Mk IV",
-      "https://mitxela.com/projects/precision_clock_mk_iv"
-    ]
-  ],
-  [
-    [
       "2025-05-31, 06:23:25",
       "https://news.ycombinator.com/item?id=44142255"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: A Implementation of Alpha Zero for Chess in MLX",
       "https://github.com/koogle/mlx-playground/tree/main/chesszero"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 09:40:36",
-      "https://news.ycombinator.com/item?id=44124443"
-    ],
-    [
-      "A Library in New Zealand Replaces Dewey with System Rooted in Māori Tradition",
-      "https://magazine.1000libraries.com/this-library-in-new-zealand-is-replacing-dewey-with-a-system-rooted-in-maori-tradition/"
     ]
   ]
 ]
