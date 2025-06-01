@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 21:13:54](https://news.ycombinator.com/item?id=44153795) - [How I made $1M from my personal projects](https://www.alexwest.co/book-one)
+* [2025-06-01, 21:02:25](https://news.ycombinator.com/item?id=44153734) - ['bugs are 100x more expensive to fix in production' is a fairy tale](https://www.theregister.com/2021/07/22/bugs_expense_bs/)
+* [2025-06-01, 19:04:56](https://news.ycombinator.com/item?id=44153053) - [Claude Code: An Agentic cleanroom analysis](https://southbridge-research.notion.site/claude-code-an-agentic-cleanroom-analysis)
 * [2025-06-01, 18:56:57](https://news.ycombinator.com/item?id=44152991) - [US authorities are collecting DNA information of children in criminal database](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants)
 * [2025-06-01, 18:48:03](https://news.ycombinator.com/item?id=44152926) - [Elevenlabs Conversational AI 2.0](https://elevenlabs.io/blog/conversational-ai-2-0)
 * [2025-06-01, 18:37:22](https://news.ycombinator.com/item?id=44152861) - [LLMs replacing human participants harmfully misportray, flatten identity groups](https://arxiv.org/abs/2402.01908)
