@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-01, 07:17:10](https://news.ycombinator.com/item?id=44149185) - [An optimizing compiler doesn't help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
 * [2025-06-01, 07:13:46](https://news.ycombinator.com/item?id=44149177) - [Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
 * [2025-06-01, 06:37:28](https://news.ycombinator.com/item?id=44149036) - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
 * [2025-06-01, 06:24:48](https://news.ycombinator.com/item?id=44149000) - [I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
@@ -26,10 +27,9 @@
 * [2025-05-31, 06:23:25](https://news.ycombinator.com/item?id=44142255) - [Georgists Valued Land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 19:14:07](https://news.ycombinator.com/item?id=44129233) - [Snake on a Globe](https://engaging-data.com/snake-globe/)
-* [2025-05-29, 17:25:42](https://news.ycombinator.com/item?id=44128191) - [Show HN: A new programming language inspired by Go, no LLVM](https://github.com/nature-lang/nature)
+* [2025-05-29, 17:15:45](https://news.ycombinator.com/item?id=44128089) - [Quantum Computing and the Hidden Subgroup Problem](https://www.daniellowengrub.com/blog/2025/04/23/hidden-subgroup)
 * [2025-05-29, 12:36:53](https://news.ycombinator.com/item?id=44125462) - [Show HN: A Implementation of Alpha Zero for Chess in MLX](https://github.com/koogle/mlx-playground/tree/main/chesszero)
 * [2025-05-29, 03:32:27](https://news.ycombinator.com/item?id=44122860) - [Oxfordshire clock still keeping village on time after 500 years](https://www.bbc.com/news/articles/cz70p0qevlro)
-* [2025-05-28, 08:33:13](https://news.ycombinator.com/item?id=44113891) - [UK's Vertical VX4 eVTOL flies outside Kemble circuit for first time](https://flyer.co.uk/feature/uks-vertical-vx4-evtol-flies-outside-kemble-circuit-for-first-time/)
 
 ## [Archives](archives/index.md)
 

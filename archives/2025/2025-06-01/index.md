@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 07:17:10](https://news.ycombinator.com/item?id=44149185) - [An optimizing compiler doesn't help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
 * [2025-06-01, 07:13:46](https://news.ycombinator.com/item?id=44149177) - [Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
 * [2025-06-01, 06:37:28](https://news.ycombinator.com/item?id=44149036) - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
 * [2025-06-01, 06:29:28](https://news.ycombinator.com/item?id=44149009) - [The American vs. European Mindset on Life](https://mertbulan.com/2025/06/01/the-american-vs-european-mindset-on-life/)
