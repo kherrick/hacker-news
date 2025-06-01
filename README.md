@@ -21,7 +21,7 @@
 * [2025-05-31, 19:52:49](https://news.ycombinator.com/item?id=44146599) - [Why we still can't stop plagiarism in undergraduate computer science (2018)](https://kevinchen.co/blog/cant-stop-plagiarism-in-computer-science/)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 15:06:03](https://news.ycombinator.com/item?id=44144750) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
-* [2025-05-31, 15:03:44](https://news.ycombinator.com/item?id=44144730) - [The Rise of the Japanese Toilet](https://www.nytimes.com/2025/05/29/business/toto-toilet-japan-bidet.html)
+* [2025-05-31, 06:24:54](https://news.ycombinator.com/item?id=44142262) - [Generation of giga-electron-volt proton beams by micronozzle acceleration](https://www.nature.com/articles/s41598-025-03385-x)
 * [2025-05-31, 06:23:25](https://news.ycombinator.com/item?id=44142255) - [Georgists Valued Land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 19:14:07](https://news.ycombinator.com/item?id=44129233) - [Snake on a Globe](https://engaging-data.com/snake-globe/)
