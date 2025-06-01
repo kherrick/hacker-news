@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-01, 09:44:04](https://news.ycombinator.com/item?id=44149718) - [Cinematography of \"Andor\"](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
+* [2025-06-01, 07:31:07](https://news.ycombinator.com/item?id=44149238) - [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
 * [2025-06-01, 07:17:10](https://news.ycombinator.com/item?id=44149185) - [An optimizing compiler doesn't help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
 * [2025-06-01, 07:13:46](https://news.ycombinator.com/item?id=44149177) - [Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
 * [2025-06-01, 06:37:28](https://news.ycombinator.com/item?id=44149036) - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
@@ -23,13 +25,11 @@
 * [2025-05-31, 19:52:49](https://news.ycombinator.com/item?id=44146599) - [Why we still can't stop plagiarism in undergraduate computer science (2018)](https://kevinchen.co/blog/cant-stop-plagiarism-in-computer-science/)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 15:06:03](https://news.ycombinator.com/item?id=44144750) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
-* [2025-05-31, 06:24:54](https://news.ycombinator.com/item?id=44142262) - [Generation of giga-electron-volt proton beams by micronozzle acceleration](https://www.nature.com/articles/s41598-025-03385-x)
 * [2025-05-31, 06:23:25](https://news.ycombinator.com/item?id=44142255) - [Georgists Valued Land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 19:14:07](https://news.ycombinator.com/item?id=44129233) - [Snake on a Globe](https://engaging-data.com/snake-globe/)
-* [2025-05-29, 17:15:45](https://news.ycombinator.com/item?id=44128089) - [Quantum Computing and the Hidden Subgroup Problem](https://www.daniellowengrub.com/blog/2025/04/23/hidden-subgroup)
+* [2025-05-29, 13:33:14](https://news.ycombinator.com/item?id=44125964) - [A Pokémon battle simulation engine](https://github.com/pkmn/engine)
 * [2025-05-29, 12:36:53](https://news.ycombinator.com/item?id=44125462) - [Show HN: A Implementation of Alpha Zero for Chess in MLX](https://github.com/koogle/mlx-playground/tree/main/chesszero)
-* [2025-05-29, 03:32:27](https://news.ycombinator.com/item?id=44122860) - [Oxfordshire clock still keeping village on time after 500 years](https://www.bbc.com/news/articles/cz70p0qevlro)
 
 ## [Archives](archives/index.md)
 
