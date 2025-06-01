@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-01, 22:19:02](https://news.ycombinator.com/item?id=44154162) - [Ask HN: Why are dating apps so bad? Why hasn't anyone made a good one?](https://news.ycombinator.com/item?id=44154162)
 * [2025-06-01, 21:57:35](https://news.ycombinator.com/item?id=44154032) - [The Visual World of 'Samurai Jack'](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
 * [2025-06-01, 21:05:58](https://news.ycombinator.com/item?id=44153754) - [Why Blender Changing to Vulkan Is Groundbreaking [video]](https://www.youtube.com/watch?v=7cta91Y53gs)
 * [2025-06-01, 21:02:58](https://news.ycombinator.com/item?id=44153738) - [LibriVox](https://librivox.org/)
 * [2025-06-01, 21:02:25](https://news.ycombinator.com/item?id=44153734) - [“Bugs are 100x more expensive to fix in production” study might not exist (2021)](https://www.theregister.com/2021/07/22/bugs_expense_bs/)
 * [2025-06-01, 20:47:28](https://news.ycombinator.com/item?id=44153669) - [OpenAI can stop pretending](https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/)
-* [2025-06-01, 19:04:56](https://news.ycombinator.com/item?id=44153053) - [Claude Code: An Agentic cleanroom analysis](https://southbridge-research.notion.site/claude-code-an-agentic-cleanroom-analysis)
 * [2025-06-01, 16:43:54](https://news.ycombinator.com/item?id=44152154) - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
 * [2025-06-01, 16:27:54](https://news.ycombinator.com/item?id=44152012) - [Ask HN: How are parents who program teaching their kids today?](https://news.ycombinator.com/item?id=44152012)
 * [2025-06-01, 13:42:49](https://news.ycombinator.com/item?id=44150803) - [Root shell on a credit card terminal](https://stefan-gloor.ch/yomani-hack)
