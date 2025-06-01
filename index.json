@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-01, 03:43:00",
+      "https://news.ycombinator.com/item?id=44148524"
+    ],
+    [
+      "RenderFormer: Neural Rendering of Triangle Meshes with Global Illumination",
+      "https://microsoft.github.io/renderformer/"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 02:05:32",
       "https://news.ycombinator.com/item?id=44148179"
     ],
@@ -17,6 +27,16 @@
     [
       "Enhancing MySQL: MySQL improvement project",
       "https://github.com/enhancedformysql/enhancedformysql"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 01:04:29",
+      "https://news.ycombinator.com/item?id=44147966"
+    ],
+    [
+      "Stepping Back",
+      "https://rjp.io/blog/2025-05-31-stepping-back"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-31, 07:05:57",
-      "https://news.ycombinator.com/item?id=44142472"
-    ],
-    [
-      "Beware of Fast-Math",
-      "https://simonbyrne.github.io/notes/fastmath/"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 20:03:12",
       "https://news.ycombinator.com/item?id=44139454"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2025-05-29, 19:45:22",
+      "https://news.ycombinator.com/item?id=44129567"
+    ],
+    [
+      "Ovld – Efficient and featureful multiple dispatch for Python",
+      "https://github.com/breuleux/ovld"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 17:15:45",
       "https://news.ycombinator.com/item?id=44128089"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-05-29, 16:42:52",
-      "https://news.ycombinator.com/item?id=44127765"
-    ],
-    [
-      "Toxic Proteins for Drug Discovery",
-      "https://www.asimov.press/p/toxic-proteins"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 03:32:27",
       "https://news.ycombinator.com/item?id=44122860"
     ],
     [
       "Oxfordshire clock still keeping village on time after 500 years",
       "https://www.bbc.com/news/articles/cz70p0qevlro"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 03:31:02",
-      "https://news.ycombinator.com/item?id=44122851"
-    ],
-    [
-      "Searching for Autograms",
-      "https://curiosityarb.blog/2024/12/01/searching-for-autograms.html"
     ]
   ],
   [
