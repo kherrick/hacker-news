@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 14:29:53](https://news.ycombinator.com/item?id=44151139) - [YouTube Is Swallowing TV Whole, and It's Coming for the Sitcom](https://www.bloomberg.com/news/features/2025-05-28/youtube-creators-compete-with-hollywood-studio-sitcoms)
+* [2025-06-01, 14:21:29](https://news.ycombinator.com/item?id=44151086) - [Learning from the Amiga API/ABI](https://asm-basic-coder.neocities.org/rants/amigaapilearn)
 * [2025-06-01, 13:42:49](https://news.ycombinator.com/item?id=44150803) - [How I got a Root Shell on a Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
 * [2025-06-01, 11:22:55](https://news.ycombinator.com/item?id=44150093) - [Codex CLI is going native](https://github.com/openai/codex/discussions/1174)
 * [2025-06-01, 11:19:28](https://news.ycombinator.com/item?id=44150081) - [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/)
