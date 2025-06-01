@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-01, 17:18:23](https://news.ycombinator.com/item?id=44152366) - [Roborock Saros Z70 Review: This Robovac's Robotic Arm Is a Swing and a Miss](https://gizmodo.com/roborock-saros-z70-review-this-robovacs-robotic-arm-is-a-swing-and-a-miss-2000607909)
 * [2025-06-01, 16:43:54](https://news.ycombinator.com/item?id=44152154) - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
 * [2025-06-01, 16:36:03](https://news.ycombinator.com/item?id=44152084) - [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/)
 * [2025-06-01, 16:27:54](https://news.ycombinator.com/item?id=44152012) - [Ask HN: How Are Parents Who Program Teaching Their Kids Today?](https://news.ycombinator.com/item?id=44152012)
@@ -24,6 +23,7 @@
 * [2025-06-01, 00:17:25](https://news.ycombinator.com/item?id=44147803) - [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
 * [2025-05-31, 23:08:29](https://news.ycombinator.com/item?id=44147573) - [New adaptive optics shows details of our star's atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
+* [2025-05-31, 06:22:50](https://news.ycombinator.com/item?id=44142251) - [Estimating Logarithms](https://obrhubr.org/logarithm-estimation)
 * [2025-05-29, 20:22:08](https://news.ycombinator.com/item?id=44129954) - [Dear diary, today the user asked me if I'm alive](https://blog.fsck.com/2025/05/28/dear-diary-the-user-asked-me-if-im-alive/)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 19:39:36](https://news.ycombinator.com/item?id=44129495) - [When Fine-Tuning Makes Sense: A Developer's Guide](https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started)
