@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 21:57:35](https://news.ycombinator.com/item?id=44154032) - [The Visual World of 'Samurai Jack'](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
 * [2025-06-01, 21:36:15](https://news.ycombinator.com/item?id=44153907) - [Far-right websites got hacked and defaced; 6.5 terabytes of data got leaked](https://ddosecrets.com/article/psyclone-media)
 * [2025-06-01, 21:13:54](https://news.ycombinator.com/item?id=44153795) - [How I made $1M from my personal projects](https://www.alexwest.co/book-one)
 * [2025-06-01, 21:05:58](https://news.ycombinator.com/item?id=44153754) - [Why Blender Changing to Vulkan Is Groundbreaking [video]](https://www.youtube.com/watch?v=7cta91Y53gs)

@@ -28,6 +28,7 @@
 * [2025-05-29, 17:25:42](https://news.ycombinator.com/item?id=44128191) - [Show HN: A new programming language inspired by Go, no LLVM](https://github.com/nature-lang/nature)
 * [2025-05-29, 17:16:54](https://news.ycombinator.com/item?id=44128101) - [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing)
 * [2025-05-29, 17:15:45](https://news.ycombinator.com/item?id=44128089) - [Quantum Computing and the Hidden Subgroup Problem](https://www.daniellowengrub.com/blog/2025/04/23/hidden-subgroup)
+* [2025-05-29, 17:11:12](https://news.ycombinator.com/item?id=44128057) - [Toying with the Lambda Calculus](https://github.com/WinVector/Examples/blob/main/lambda_calculus/toying_with_the_lambda_calculus.ipynb)
 * [2025-05-29, 17:01:42](https://news.ycombinator.com/item?id=44127956) - [Human coders are still better than LLMs](https://www.antirez.com/news/153)
 * [2025-05-29, 17:01:18](https://news.ycombinator.com/item?id=44127948) - [Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada)
 * [2025-05-29, 16:42:52](https://news.ycombinator.com/item?id=44127765) - [Toxic Proteins for Drug Discovery](https://www.asimov.press/p/toxic-proteins)
