@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-01, 11:01:31](https://news.ycombinator.com/item?id=44150002) - [Atari Means Business with the Mega ST – By Paul Lefebvre](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
+* [2025-06-01, 11:22:55](https://news.ycombinator.com/item?id=44150093) - [Codex CLI is going native](https://github.com/openai/codex/discussions/1174)
+* [2025-06-01, 11:19:28](https://news.ycombinator.com/item?id=44150081) - [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/)
+* [2025-06-01, 11:01:31](https://news.ycombinator.com/item?id=44150002) - [Atari Means Business with the Mega ST](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
+* [2025-06-01, 10:35:55](https://news.ycombinator.com/item?id=44149890) - [I like Svelte more than React (it's store management)](https://river.berlin/blog/why-i-like-svelte-more-than-react/)
 * [2025-06-01, 09:44:04](https://news.ycombinator.com/item?id=44149718) - [Cinematography of \"Andor\"](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
 * [2025-06-01, 07:31:07](https://news.ycombinator.com/item?id=44149238) - [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
 * [2025-06-01, 07:17:10](https://news.ycombinator.com/item?id=44149185) - [An optimizing compiler doesn't help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
@@ -14,7 +17,6 @@
 * [2025-06-01, 04:54:24](https://news.ycombinator.com/item?id=44148734) - [Structured Errors in Go](https://southcla.ws/structured-errors-in-go)
 * [2025-06-01, 04:48:19](https://news.ycombinator.com/item?id=44148708) - [Why Use Structured Errors in Rust Applications?](https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/)
 * [2025-06-01, 04:29:20](https://news.ycombinator.com/item?id=44148665) - [Tldx – CLI tool for fast domain name discovery](https://github.com/brandonyoungdev/tldx)
-* [2025-06-01, 04:28:02](https://news.ycombinator.com/item?id=44148662) - [Beyond Attention: Toward Machines with Intrinsic Higher Mental States](https://arxiv.org/abs/2505.06257)
 * [2025-06-01, 03:43:00](https://news.ycombinator.com/item?id=44148524) - [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/)
 * [2025-06-01, 01:04:29](https://news.ycombinator.com/item?id=44147966) - [Stepping Back](https://rjp.io/blog/2025-05-31-stepping-back)
 * [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
@@ -22,14 +24,12 @@
 * [2025-05-31, 23:08:29](https://news.ycombinator.com/item?id=44147573) - [New adaptive optics shows details of our star's atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
 * [2025-05-31, 19:56:37](https://news.ycombinator.com/item?id=44146619) - [CCD co-inventor George E. Smith dies at 95](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
-* [2025-05-31, 15:06:03](https://news.ycombinator.com/item?id=44144750) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
 * [2025-05-31, 06:23:25](https://news.ycombinator.com/item?id=44142255) - [Georgists Valued Land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
 * [2025-05-29, 21:52:00](https://news.ycombinator.com/item?id=44130743) - [The Future of Comments Is Lies, I Guess](https://aphyr.com/posts/388-the-future-of-comments-is-lies-i-guess)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 19:14:07](https://news.ycombinator.com/item?id=44129233) - [Snake on a Globe](https://engaging-data.com/snake-globe/)
 * [2025-05-29, 13:33:14](https://news.ycombinator.com/item?id=44125964) - [A Pokémon battle simulation engine](https://github.com/pkmn/engine)
 * [2025-05-29, 12:36:53](https://news.ycombinator.com/item?id=44125462) - [Show HN: A Implementation of Alpha Zero for Chess in MLX](https://github.com/koogle/mlx-playground/tree/main/chesszero)
-* [2025-05-29, 09:40:36](https://news.ycombinator.com/item?id=44124443) - [A Library in New Zealand Replaces Dewey with System Rooted in Māori Tradition](https://magazine.1000libraries.com/this-library-in-new-zealand-is-replacing-dewey-with-a-system-rooted-in-maori-tradition/)
 
 ## [Archives](archives/index.md)
 
