@@ -15,6 +15,8 @@
 * [2025-06-01, 05:59:59](https://news.ycombinator.com/item?id=44148933) - [Figma Slides Is a Beautiful Disaster](https://allenpike.com/2025/figma-slides-beautiful-disaster)
 * [2025-06-01, 05:31:20](https://news.ycombinator.com/item?id=44148853) - [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
 * [2025-06-01, 04:54:24](https://news.ycombinator.com/item?id=44148734) - [Structured Errors in Go (2022)](https://southcla.ws/structured-errors-in-go)
+* [2025-06-01, 04:48:19](https://news.ycombinator.com/item?id=44148708) - [Why Use Structured Errors in Rust Applications?](https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/)
+* [2025-06-01, 04:29:20](https://news.ycombinator.com/item?id=44148665) - [Tldx – CLI tool for fast domain name discovery](https://github.com/brandonyoungdev/tldx)
 * [2025-06-01, 03:43:00](https://news.ycombinator.com/item?id=44148524) - [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/)
 * [2025-06-01, 01:04:29](https://news.ycombinator.com/item?id=44147966) - [Stepping Back](https://rjp.io/blog/2025-05-31-stepping-back)
 * [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
@@ -25,11 +27,9 @@
 * [2025-05-29, 20:22:08](https://news.ycombinator.com/item?id=44129954) - [Dear diary, today the user asked me if I'm alive](https://blog.fsck.com/2025/05/28/dear-diary-the-user-asked-me-if-im-alive/)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 19:39:36](https://news.ycombinator.com/item?id=44129495) - [When Fine-Tuning Makes Sense: A Developer's Guide](https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started)
-* [2025-05-29, 19:14:07](https://news.ycombinator.com/item?id=44129233) - [Snake on a Globe](https://engaging-data.com/snake-globe/)
 * [2025-05-29, 18:23:04](https://news.ycombinator.com/item?id=44128751) - [A new generation of Tailscale access controls](https://tailscale.com/blog/grants-ga)
 * [2025-05-29, 13:33:14](https://news.ycombinator.com/item?id=44125964) - [A Pokémon battle simulation engine](https://github.com/pkmn/engine)
 * [2025-05-29, 12:36:53](https://news.ycombinator.com/item?id=44125462) - [Show HN: A Implementation of Alpha Zero for Chess in MLX](https://github.com/koogle/mlx-playground/tree/main/chesszero)
-* [2025-05-29, 03:49:39](https://news.ycombinator.com/item?id=44122943) - [Hacking Pinball High Scores](https://gwern.net/blog/2025/pinball-hacking)
 
 ## [Archives](archives/index.md)
 
