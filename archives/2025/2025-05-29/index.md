@@ -59,6 +59,7 @@
 * [2025-05-29, 09:40:36](https://news.ycombinator.com/item?id=44124443) - [A Library in New Zealand Replaces Dewey with System Rooted in Māori Tradition](https://magazine.1000libraries.com/this-library-in-new-zealand-is-replacing-dewey-with-a-system-rooted-in-maori-tradition/)
 * [2025-05-29, 09:27:00](https://news.ycombinator.com/item?id=44124369) - [A Song of “Full Self-Driving”: Elon Isn’t Tony Stark. He’s Michael Scott.](https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott)
 * [2025-05-29, 08:57:38](https://news.ycombinator.com/item?id=44124228) - [Pure vs. Impure Iterators in Go](https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/)
+* [2025-05-29, 08:04:39](https://news.ycombinator.com/item?id=44123987) - [Nitrogen Triiodide (2016)](https://www.fourmilab.ch/documents/chemistry/NI3/)
 * [2025-05-29, 08:04:25](https://news.ycombinator.com/item?id=44123984) - [Nobel Laureate Daron Acemoglu: Don't Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05)
 * [2025-05-29, 07:58:55](https://news.ycombinator.com/item?id=44123953) - [Edamagit: Magit for VSCode](https://github.com/kahole/edamagit)
 * [2025-05-29, 07:33:02](https://news.ycombinator.com/item?id=44123852) - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
