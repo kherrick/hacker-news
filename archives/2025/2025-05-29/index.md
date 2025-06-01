@@ -19,6 +19,7 @@
 * [2025-05-29, 18:39:22](https://news.ycombinator.com/item?id=44128901) - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
 * [2025-05-29, 17:40:52](https://news.ycombinator.com/item?id=44128325) - [Show HN: MCP Defender – OSS AI Firewall for Protecting MCP in Cursor/Claude etc.](https://mcpdefender.com)
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
+* [2025-05-29, 17:25:42](https://news.ycombinator.com/item?id=44128191) - [Show HN: A new programming language inspired by Go, no LLVM](https://github.com/nature-lang/nature)
 * [2025-05-29, 17:16:54](https://news.ycombinator.com/item?id=44128101) - [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing)
 * [2025-05-29, 17:15:45](https://news.ycombinator.com/item?id=44128089) - [Quantum Computing and the Hidden Subgroup Problem](https://www.daniellowengrub.com/blog/2025/04/23/hidden-subgroup)
 * [2025-05-29, 17:01:42](https://news.ycombinator.com/item?id=44127956) - [Human coders are still better than LLMs](https://www.antirez.com/news/153)
