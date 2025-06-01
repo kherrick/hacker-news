@@ -72,6 +72,7 @@
 * [2025-05-29, 04:29:30](https://news.ycombinator.com/item?id=44123131) - [Reverse engineering of Linear's sync engine](https://github.com/wzhudev/reverse-linear-sync-engine)
 * [2025-05-29, 04:23:11](https://news.ycombinator.com/item?id=44123098) - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
 * [2025-05-29, 03:49:39](https://news.ycombinator.com/item?id=44122943) - [Hacking Pinball High Scores](https://gwern.net/blog/2025/pinball-hacking)
+* [2025-05-29, 03:32:42](https://news.ycombinator.com/item?id=44122864) - [Making maps with noise functions (2022)](https://www.redblobgames.com/maps/terrain-from-noise/)
 * [2025-05-29, 03:32:27](https://news.ycombinator.com/item?id=44122860) - [Oxfordshire clock still keeping village on time after 500 years](https://www.bbc.com/news/articles/cz70p0qevlro)
 * [2025-05-29, 03:31:02](https://news.ycombinator.com/item?id=44122851) - [Searching for Autograms](https://curiosityarb.blog/2024/12/01/searching-for-autograms.html)
 * [2025-05-29, 02:30:28](https://news.ycombinator.com/item?id=44122582) - [dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)

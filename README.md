@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-01, 18:37:22](https://news.ycombinator.com/item?id=44152861) - [LLMs replacing human participants harmfully misportray, flatten identity groups](https://arxiv.org/abs/2402.01908)
 * [2025-06-01, 17:29:26](https://news.ycombinator.com/item?id=44152447) - [JFK files expose family secrets: Their relatives were CIA assets](https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/)
 * [2025-06-01, 16:43:54](https://news.ycombinator.com/item?id=44152154) - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
 * [2025-06-01, 14:21:29](https://news.ycombinator.com/item?id=44151086) - [Learning from the Amiga API/ABI](https://asm-basic-coder.neocities.org/rants/amigaapilearn)
@@ -9,7 +10,6 @@
 * [2025-06-01, 08:54:08](https://news.ycombinator.com/item?id=44149549) - [Canonicals Interview Process](https://dustri.org/b/my-experience-with-canonicals-interview-process.html)
 * [2025-06-01, 07:31:07](https://news.ycombinator.com/item?id=44149238) - [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
 * [2025-06-01, 07:13:46](https://news.ycombinator.com/item?id=44149177) - [Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
-* [2025-06-01, 06:37:28](https://news.ycombinator.com/item?id=44149036) - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
 * [2025-06-01, 06:32:20](https://news.ycombinator.com/item?id=44149019) - [Google AI Edge – on-device cross-platform AI deployment](https://ai.google.dev/edge)
 * [2025-06-01, 06:23:50](https://news.ycombinator.com/item?id=44148997) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 * [2025-06-01, 05:59:59](https://news.ycombinator.com/item?id=44148933) - [Figma Slides Is a Beautiful Disaster](https://allenpike.com/2025/figma-slides-beautiful-disaster)
@@ -20,7 +20,6 @@
 * [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 00:17:25](https://news.ycombinator.com/item?id=44147803) - [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
 * [2025-05-31, 23:08:29](https://news.ycombinator.com/item?id=44147573) - [New adaptive optics shows details of our star's atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
-* [2025-05-31, 20:46:50](https://news.ycombinator.com/item?id=44146830) - [Oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
 * [2025-05-31, 19:56:37](https://news.ycombinator.com/item?id=44146619) - [CCD co-inventor George E. Smith dies at 95](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 06:22:50](https://news.ycombinator.com/item?id=44142251) - [Estimating Logarithms](https://obrhubr.org/logarithm-estimation)
@@ -30,6 +29,7 @@
 * [2025-05-29, 13:33:14](https://news.ycombinator.com/item?id=44125964) - [A Pokémon battle simulation engine](https://github.com/pkmn/engine)
 * [2025-05-29, 12:36:53](https://news.ycombinator.com/item?id=44125462) - [Show HN: A Implementation of Alpha Zero for Chess in MLX](https://github.com/koogle/mlx-playground/tree/main/chesszero)
 * [2025-05-29, 08:04:39](https://news.ycombinator.com/item?id=44123987) - [Nitrogen Triiodide (2016)](https://www.fourmilab.ch/documents/chemistry/NI3/)
+* [2025-05-29, 03:32:42](https://news.ycombinator.com/item?id=44122864) - [Making maps with noise functions (2022)](https://www.redblobgames.com/maps/terrain-from-noise/)
 
 ## [Archives](archives/index.md)
 
