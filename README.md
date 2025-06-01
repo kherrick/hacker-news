@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-01, 18:56:57](https://news.ycombinator.com/item?id=44152991) - [US authorities are collecting DNA information of children in criminal database](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants)
 * [2025-06-01, 18:48:03](https://news.ycombinator.com/item?id=44152926) - [Elevenlabs Conversational AI 2.0](https://elevenlabs.io/blog/conversational-ai-2-0)
 * [2025-06-01, 16:43:54](https://news.ycombinator.com/item?id=44152154) - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
 * [2025-06-01, 16:36:03](https://news.ycombinator.com/item?id=44152084) - [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/)
@@ -28,6 +27,7 @@
 * [2025-05-29, 19:39:36](https://news.ycombinator.com/item?id=44129495) - [When Fine-Tuning Makes Sense: A Developer's Guide](https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started)
 * [2025-05-29, 18:23:04](https://news.ycombinator.com/item?id=44128751) - [A new generation of Tailscale access controls](https://tailscale.com/blog/grants-ga)
 * [2025-05-29, 13:33:14](https://news.ycombinator.com/item?id=44125964) - [A Pokémon battle simulation engine](https://github.com/pkmn/engine)
+* [2025-05-29, 12:54:01](https://news.ycombinator.com/item?id=44125598) - [Show HN: I compressed 10k PDFs into a 1.4GB video for LLM memory](https://github.com/Olow304/memvid)
 * [2025-05-29, 12:36:53](https://news.ycombinator.com/item?id=44125462) - [Show HN: A Implementation of Alpha Zero for Chess in MLX](https://github.com/koogle/mlx-playground/tree/main/chesszero)
 * [2025-05-29, 08:04:39](https://news.ycombinator.com/item?id=44123987) - [Nitrogen Triiodide (2016)](https://www.fourmilab.ch/documents/chemistry/NI3/)
 
