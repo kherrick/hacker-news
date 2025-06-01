@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-01, 11:22:55",
-      "https://news.ycombinator.com/item?id=44150093"
-    ],
-    [
-      "Codex CLI is going native",
-      "https://github.com/openai/codex/discussions/1174"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 11:19:28",
       "https://news.ycombinator.com/item?id=44150081"
     ],
@@ -101,11 +91,11 @@
   ],
   [
     [
-      "2025-06-01, 06:24:48",
-      "https://news.ycombinator.com/item?id=44149000"
+      "2025-06-01, 06:23:50",
+      "https://news.ycombinator.com/item?id=44148997"
     ],
     [
-      "I like to install NixOS (declaratively)",
+      "How I like to install NixOS (declaratively)",
       "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=44148734"
     ],
     [
-      "Structured Errors in Go",
+      "Structured Errors in Go (2022)",
       "https://southcla.ws/structured-errors-in-go"
     ]
   ],
@@ -221,22 +211,32 @@
   ],
   [
     [
+      "2025-05-31, 20:54:30",
+      "https://news.ycombinator.com/item?id=44146858"
+    ],
+    [
+      "YOLO-World: Real-Time Open-Vocabulary Object Detection",
+      "https://arxiv.org/abs/2401.17270"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 19:56:37",
+      "https://news.ycombinator.com/item?id=44146619"
+    ],
+    [
+      "CCD co-inventor George E. Smith dies at 95",
+      "https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 16:55:37",
       "https://news.ycombinator.com/item?id=44145517"
     ],
     [
       "A Lean companion to Analysis I",
       "https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 06:23:25",
-      "https://news.ycombinator.com/item?id=44142255"
-    ],
-    [
-      "How Georgists Valued land in the 1900's",
-      "https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the"
     ]
   ],
   [
