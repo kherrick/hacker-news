@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-01, 14:29:53",
+      "https://news.ycombinator.com/item?id=44151139"
+    ],
+    [
+      "YouTube Is Swallowing TV Whole, and It's Coming for the Sitcom",
+      "https://www.bloomberg.com/news/features/2025-05-28/youtube-creators-compete-with-hollywood-studio-sitcoms"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 14:21:29",
+      "https://news.ycombinator.com/item?id=44151086"
+    ],
+    [
+      "Learning from the Amiga API/ABI",
+      "https://asm-basic-coder.neocities.org/rants/amigaapilearn"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 13:42:49",
       "https://news.ycombinator.com/item?id=44150803"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-06-01, 04:48:19",
-      "https://news.ycombinator.com/item?id=44148708"
-    ],
-    [
-      "Why Use Structured Errors in Rust Applications?",
-      "https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 04:29:20",
       "https://news.ycombinator.com/item?id=44148665"
     ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2025-05-31, 19:56:37",
-      "https://news.ycombinator.com/item?id=44146619"
+      "2025-05-31, 12:00:34",
+      "https://news.ycombinator.com/item?id=44143669"
     ],
     [
-      "CCD co-inventor George E. Smith dies at 95",
-      "https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 16:55:37",
-      "https://news.ycombinator.com/item?id=44145517"
-    ],
-    [
-      "A Lean companion to Analysis I",
-      "https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/"
+      "The Guide to Cloudflare's Durable Objects",
+      "https://flaredup.substack.com/p/the-ultimate-guide-to-cloudflares"
     ]
   ],
   [
