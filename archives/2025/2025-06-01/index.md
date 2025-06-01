@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
 * [2025-06-01, 06:37:28](https://news.ycombinator.com/item?id=44149036) - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
+* [2025-06-01, 06:29:28](https://news.ycombinator.com/item?id=44149009) - [The American vs. European Mindset on Life](https://mertbulan.com/2025/06/01/the-american-vs-european-mindset-on-life/)
 * [2025-06-01, 06:24:48](https://news.ycombinator.com/item?id=44149000) - [I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 * [2025-06-01, 05:31:20](https://news.ycombinator.com/item?id=44148853) - [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
 * [2025-06-01, 05:17:37](https://news.ycombinator.com/item?id=44148818) - [Welcome to the age of $10/month Lakehouses](https://tobilg.com/the-age-of-10-dollar-a-month-lakehouses)

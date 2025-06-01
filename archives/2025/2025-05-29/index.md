@@ -42,6 +42,7 @@
 * [2025-05-29, 13:33:31](https://news.ycombinator.com/item?id=44125966) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 * [2025-05-29, 13:08:17](https://news.ycombinator.com/item?id=44125734) - [Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory](https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6)
 * [2025-05-29, 12:39:24](https://news.ycombinator.com/item?id=44125489) - [I started a little math club in Bangalore](https://teachyourselfmath.app/club)
+* [2025-05-29, 12:36:53](https://news.ycombinator.com/item?id=44125462) - [Show HN: A Implementation of Alpha Zero for Chess in MLX](https://github.com/koogle/mlx-playground/tree/main/chesszero)
 * [2025-05-29, 12:06:17](https://news.ycombinator.com/item?id=44125183) - [The MAHA Report Cites Studies That Don't Exist](https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors)
 * [2025-05-29, 11:47:55](https://news.ycombinator.com/item?id=44125059) - [I taught my 3-year-old to read like a 9-year-old](https://www.theintrinsicperspective.com/p/how-i-taught-my-3-year-old-to-read)
 * [2025-05-29, 11:05:43](https://news.ycombinator.com/item?id=44124820) - [Google Is Using AI to Censor Independent Websites Like Mine](https://travellemming.com/perspectives/ftc-letter-google-censors-indie-publishers-with-ai/)
