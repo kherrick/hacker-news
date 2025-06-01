@@ -20,6 +20,7 @@
 * [2025-06-01, 11:01:31](https://news.ycombinator.com/item?id=44150002) - [Atari Means Business with the Mega ST – By Paul Lefebvre](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
 * [2025-06-01, 10:35:55](https://news.ycombinator.com/item?id=44149890) - [I like Svelte more than React (it's store management)](https://river.berlin/blog/why-i-like-svelte-more-than-react/)
 * [2025-06-01, 09:44:04](https://news.ycombinator.com/item?id=44149718) - [Cinematography of \"Andor\"](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
+* [2025-06-01, 08:54:08](https://news.ycombinator.com/item?id=44149549) - [Canonicals Interview Process](https://dustri.org/b/my-experience-with-canonicals-interview-process.html)
 * [2025-06-01, 07:31:07](https://news.ycombinator.com/item?id=44149238) - [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
 * [2025-06-01, 07:17:10](https://news.ycombinator.com/item?id=44149185) - [An optimizing compiler doesn't help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
 * [2025-06-01, 07:13:46](https://news.ycombinator.com/item?id=44149177) - [Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
