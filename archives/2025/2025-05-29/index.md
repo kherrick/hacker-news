@@ -22,6 +22,7 @@
 * [2025-05-29, 18:46:31](https://news.ycombinator.com/item?id=44128971) - [The Headlines Are Evil, and They're Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)
 * [2025-05-29, 18:39:22](https://news.ycombinator.com/item?id=44128901) - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
 * [2025-05-29, 18:23:04](https://news.ycombinator.com/item?id=44128751) - [A new generation of Tailscale access controls](https://tailscale.com/blog/grants-ga)
+* [2025-05-29, 18:12:44](https://news.ycombinator.com/item?id=44128652) - [FOSS 3-2-1 Backup from SD-Card to Cloud](https://github.com/chrfrenning/zentransfer-desktop)
 * [2025-05-29, 17:40:52](https://news.ycombinator.com/item?id=44128325) - [Show HN: MCP Defender – OSS AI Firewall for Protecting MCP in Cursor/Claude etc.](https://mcpdefender.com)
 * [2025-05-29, 17:40:35](https://news.ycombinator.com/item?id=44128322) - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
 * [2025-05-29, 17:25:42](https://news.ycombinator.com/item?id=44128191) - [Show HN: A new programming language inspired by Go, no LLVM](https://github.com/nature-lang/nature)

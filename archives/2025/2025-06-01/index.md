@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 17:29:26](https://news.ycombinator.com/item?id=44152447) - [JFK files expose family secrets: Their relatives were CIA assets](https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/)
 * [2025-06-01, 17:18:23](https://news.ycombinator.com/item?id=44152366) - [Roborock Saros Z70 Review: This Robovac's Robotic Arm Is a Swing and a Miss](https://gizmodo.com/roborock-saros-z70-review-this-robovacs-robotic-arm-is-a-swing-and-a-miss-2000607909)
 * [2025-06-01, 16:43:54](https://news.ycombinator.com/item?id=44152154) - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
 * [2025-06-01, 16:36:03](https://news.ycombinator.com/item?id=44152084) - [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/)
