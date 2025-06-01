@@ -22,7 +22,7 @@
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent system for scientific manuscript analysis](https://github.com/robertjakob/rigorous)
 * [2025-05-31, 13:39:58](https://news.ycombinator.com/item?id=44144224) - [My five-year experiment with UTC](https://timestripe.com/magazine/blog/timezone/)
 * [2025-05-31, 08:06:21](https://news.ycombinator.com/item?id=44142761) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
-* [2025-05-30, 20:03:12](https://news.ycombinator.com/item?id=44139454) - [Surprisingly fast AI-generated kernels we didn't mean to publish yet](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
+* [2025-05-31, 06:23:25](https://news.ycombinator.com/item?id=44142255) - [Georgists Valued Land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
 * [2025-05-29, 20:25:34](https://news.ycombinator.com/item?id=44129998) - [The Evolution of Software Development: From Machine Code to AI Orchestration](https://guptadeepak.com/the-evolution-of-software-development-from-machine-code-to-ai-orchestration/)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 17:15:45](https://news.ycombinator.com/item?id=44128089) - [Quantum Computing and the Hidden Subgroup Problem](https://www.daniellowengrub.com/blog/2025/04/23/hidden-subgroup)
