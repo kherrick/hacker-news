@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-01, 06:37:28",
+      "https://news.ycombinator.com/item?id=44149036"
+    ],
+    [
+      "A Beautiful Technique for Some XOR Related Problems",
+      "https://codeforces.com/blog/entry/68953"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 06:24:48",
+      "https://news.ycombinator.com/item?id=44149000"
+    ],
+    [
+      "I like to install NixOS (declaratively)",
+      "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 05:31:20",
       "https://news.ycombinator.com/item?id=44148853"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2025-06-01, 04:48:19",
+      "https://news.ycombinator.com/item?id=44148708"
+    ],
+    [
+      "Why Use Structured Errors in Rust Applications?",
+      "https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 04:29:20",
       "https://news.ycombinator.com/item?id=44148665"
     ],
@@ -57,16 +87,6 @@
     [
       "RenderFormer: Neural rendering of triangle meshes with global illumination",
       "https://microsoft.github.io/renderformer/"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 02:05:32",
-      "https://news.ycombinator.com/item?id=44148179"
-    ],
-    [
-      "Of course the Apple Network Server can be hacked into running Doom",
-      "http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Show HN: Patio – Rent tools, learn DIY, reduce waste",
       "https://patio.so"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 23:23:20",
-      "https://news.ycombinator.com/item?id=44147631"
-    ],
-    [
-      "The NFS 4 Freezer Spacer In Science Fiction Sets",
-      "https://kolektiva.social/@beka_valentine/114600567753999701"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The Rise of the Japanese Toilet",
       "https://www.nytimes.com/2025/05/29/business/toto-toilet-japan-bidet.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 13:39:58",
-      "https://news.ycombinator.com/item?id=44144224"
-    ],
-    [
-      "My five-year experiment with UTC",
-      "https://timestripe.com/magazine/blog/timezone/"
     ]
   ],
   [
