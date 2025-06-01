@@ -14,7 +14,6 @@
 * [2025-06-01, 04:29:20](https://news.ycombinator.com/item?id=44148665) - [Tldx – CLI tool for fast domain name discovery](https://github.com/brandonyoungdev/tldx)
 * [2025-06-01, 04:28:02](https://news.ycombinator.com/item?id=44148662) - [Beyond Attention: Toward Machines with Intrinsic Higher Mental States](https://arxiv.org/abs/2505.06257)
 * [2025-06-01, 03:43:00](https://news.ycombinator.com/item?id=44148524) - [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/)
-* [2025-06-01, 01:24:56](https://news.ycombinator.com/item?id=44148039) - [Enhancing MySQL: MySQL improvement project](https://github.com/enhancedformysql/enhancedformysql)
 * [2025-06-01, 01:04:29](https://news.ycombinator.com/item?id=44147966) - [Stepping Back](https://rjp.io/blog/2025-05-31-stepping-back)
 * [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 00:17:25](https://news.ycombinator.com/item?id=44147803) - [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
@@ -30,6 +29,7 @@
 * [2025-05-29, 19:14:07](https://news.ycombinator.com/item?id=44129233) - [Snake on a Globe](https://engaging-data.com/snake-globe/)
 * [2025-05-29, 13:33:14](https://news.ycombinator.com/item?id=44125964) - [A Pokémon battle simulation engine](https://github.com/pkmn/engine)
 * [2025-05-29, 12:36:53](https://news.ycombinator.com/item?id=44125462) - [Show HN: A Implementation of Alpha Zero for Chess in MLX](https://github.com/koogle/mlx-playground/tree/main/chesszero)
+* [2025-05-29, 09:40:36](https://news.ycombinator.com/item?id=44124443) - [A Library in New Zealand Replaces Dewey with System Rooted in Māori Tradition](https://magazine.1000libraries.com/this-library-in-new-zealand-is-replacing-dewey-with-a-system-rooted-in-maori-tradition/)
 
 ## [Archives](archives/index.md)
 

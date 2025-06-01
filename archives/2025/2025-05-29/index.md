@@ -51,6 +51,7 @@
 * [2025-05-29, 10:44:05](https://news.ycombinator.com/item?id=44124713) - [What Every Programmer Should Know about How CPUs Work – Matt Godbolt [video]](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-05-29, 10:29:31](https://news.ycombinator.com/item?id=44124652) - [Show HN: I made a Zero-config tool to visualize your code](https://staying.fun/en)
 * [2025-05-29, 10:00:34](https://news.ycombinator.com/item?id=44124529) - [Data Breach at LexisNexis Risk Solutions Impacts 364,000](https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/)
+* [2025-05-29, 09:40:36](https://news.ycombinator.com/item?id=44124443) - [A Library in New Zealand Replaces Dewey with System Rooted in Māori Tradition](https://magazine.1000libraries.com/this-library-in-new-zealand-is-replacing-dewey-with-a-system-rooted-in-maori-tradition/)
 * [2025-05-29, 09:27:00](https://news.ycombinator.com/item?id=44124369) - [A Song of “Full Self-Driving”: Elon Isn’t Tony Stark. He’s Michael Scott.](https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott)
 * [2025-05-29, 08:57:38](https://news.ycombinator.com/item?id=44124228) - [Pure vs. Impure Iterators in Go](https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/)
 * [2025-05-29, 08:04:25](https://news.ycombinator.com/item?id=44123984) - [Nobel Laureate Daron Acemoglu: Don't Believe the AI Hype](https://www.project-syndicate.org/commentary/ai-productivity-boom-forecasts-countered-by-theory-and-data-by-daron-acemoglu-2024-05)
