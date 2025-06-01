@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-01, 11:01:31](https://news.ycombinator.com/item?id=44150002) - [Atari Means Business with the Mega ST – By Paul Lefebvre](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
 * [2025-06-01, 09:44:04](https://news.ycombinator.com/item?id=44149718) - [Cinematography of \"Andor\"](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
 * [2025-06-01, 07:31:07](https://news.ycombinator.com/item?id=44149238) - [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
 * [2025-06-01, 07:17:10](https://news.ycombinator.com/item?id=44149185) - [An optimizing compiler doesn't help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
@@ -20,7 +21,6 @@
 * [2025-06-01, 00:17:25](https://news.ycombinator.com/item?id=44147803) - [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
 * [2025-05-31, 23:08:29](https://news.ycombinator.com/item?id=44147573) - [New adaptive optics shows details of our star's atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
 * [2025-05-31, 20:54:30](https://news.ycombinator.com/item?id=44146858) - [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)
-* [2025-05-31, 20:46:50](https://news.ycombinator.com/item?id=44146830) - [Oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
 * [2025-05-31, 19:56:37](https://news.ycombinator.com/item?id=44146619) - [CCD co-inventor George E. Smith dies at 95](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 15:06:03](https://news.ycombinator.com/item?id=44144750) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
