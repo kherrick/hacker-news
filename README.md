@@ -2,7 +2,6 @@
 
 * [2025-06-01, 18:56:57](https://news.ycombinator.com/item?id=44152991) - [US authorities are collecting DNA information of children in criminal database](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants)
 * [2025-06-01, 18:48:03](https://news.ycombinator.com/item?id=44152926) - [Elevenlabs Conversational AI 2.0](https://elevenlabs.io/blog/conversational-ai-2-0)
-* [2025-06-01, 17:29:26](https://news.ycombinator.com/item?id=44152447) - [JFK files expose family secrets: Their relatives were CIA assets](https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/)
 * [2025-06-01, 16:43:54](https://news.ycombinator.com/item?id=44152154) - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
 * [2025-06-01, 16:36:03](https://news.ycombinator.com/item?id=44152084) - [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/)
 * [2025-06-01, 14:21:29](https://news.ycombinator.com/item?id=44151086) - [Learning from the Amiga API/ABI](https://asm-basic-coder.neocities.org/rants/amigaapilearn)
@@ -22,6 +21,7 @@
 * [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 00:17:25](https://news.ycombinator.com/item?id=44147803) - [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
 * [2025-05-31, 23:08:29](https://news.ycombinator.com/item?id=44147573) - [New adaptive optics shows details of our star's atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
+* [2025-05-31, 19:56:37](https://news.ycombinator.com/item?id=44146619) - [CCD co-inventor George E. Smith dies at 95](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 06:22:50](https://news.ycombinator.com/item?id=44142251) - [Estimating Logarithms](https://obrhubr.org/logarithm-estimation)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
