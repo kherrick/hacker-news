@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-01, 05:31:20](https://news.ycombinator.com/item?id=44148853) - [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
 * [2025-06-01, 05:05:53](https://news.ycombinator.com/item?id=44148781) - [Reviving Astoria – Windows's Lost Android](https://trungnt2910.com/astoria-windows-android/)
+* [2025-06-01, 04:29:20](https://news.ycombinator.com/item?id=44148665) - [Tldx – CLI tool for fast domain name discovery](https://github.com/brandonyoungdev/tldx)
 * [2025-06-01, 04:28:02](https://news.ycombinator.com/item?id=44148662) - [Beyond Attention: Toward Machines with Intrinsic Higher Mental States](https://arxiv.org/abs/2505.06257)
 * [2025-06-01, 03:43:00](https://news.ycombinator.com/item?id=44148524) - [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/)
 * [2025-06-01, 02:05:32](https://news.ycombinator.com/item?id=44148179) - [Of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
@@ -20,7 +22,6 @@
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-31, 15:06:03](https://news.ycombinator.com/item?id=44144750) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
 * [2025-05-31, 15:03:44](https://news.ycombinator.com/item?id=44144730) - [The Rise of the Japanese Toilet](https://www.nytimes.com/2025/05/29/business/toto-toilet-japan-bidet.html)
-* [2025-05-31, 14:23:49](https://news.ycombinator.com/item?id=44144473) - [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473)
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent system for scientific manuscript analysis](https://github.com/robertjakob/rigorous)
 * [2025-05-31, 13:39:58](https://news.ycombinator.com/item?id=44144224) - [My five-year experiment with UTC](https://timestripe.com/magazine/blog/timezone/)
 * [2025-05-31, 06:23:25](https://news.ycombinator.com/item?id=44142255) - [Georgists Valued Land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
@@ -28,7 +29,6 @@
 * [2025-05-29, 17:25:42](https://news.ycombinator.com/item?id=44128191) - [Show HN: A new programming language inspired by Go, no LLVM](https://github.com/nature-lang/nature)
 * [2025-05-29, 17:15:45](https://news.ycombinator.com/item?id=44128089) - [Quantum Computing and the Hidden Subgroup Problem](https://www.daniellowengrub.com/blog/2025/04/23/hidden-subgroup)
 * [2025-05-29, 03:32:27](https://news.ycombinator.com/item?id=44122860) - [Oxfordshire clock still keeping village on time after 500 years](https://www.bbc.com/news/articles/cz70p0qevlro)
-* [2025-05-28, 13:35:27](https://news.ycombinator.com/item?id=44115897) - [AtomVM, the Erlang virtual machine for IoT devices](https://www.atomvm.net/)
 * [2025-05-28, 08:33:13](https://news.ycombinator.com/item?id=44113891) - [UK's Vertical VX4 eVTOL flies outside Kemble circuit for first time](https://flyer.co.uk/feature/uks-vertical-vx4-evtol-flies-outside-kemble-circuit-for-first-time/)
 
 ## [Archives](archives/index.md)
