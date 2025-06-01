@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-01, 14:29:53](https://news.ycombinator.com/item?id=44151139) - [YouTube Is Swallowing TV Whole, and It's Coming for the Sitcom](https://www.bloomberg.com/news/features/2025-05-28/youtube-creators-compete-with-hollywood-studio-sitcoms)
 * [2025-06-01, 14:21:29](https://news.ycombinator.com/item?id=44151086) - [Learning from the Amiga API/ABI](https://asm-basic-coder.neocities.org/rants/amigaapilearn)
 * [2025-06-01, 13:42:49](https://news.ycombinator.com/item?id=44150803) - [How I got a Root Shell on a Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
 * [2025-06-01, 11:19:28](https://news.ycombinator.com/item?id=44150081) - [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/)
@@ -23,6 +22,7 @@
 * [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 00:17:25](https://news.ycombinator.com/item?id=44147803) - [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
 * [2025-05-31, 23:08:29](https://news.ycombinator.com/item?id=44147573) - [New adaptive optics shows details of our star's atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
+* [2025-05-31, 19:56:37](https://news.ycombinator.com/item?id=44146619) - [CCD co-inventor George E. Smith dies at 95](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html)
 * [2025-05-31, 16:55:37](https://news.ycombinator.com/item?id=44145517) - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-05-29, 19:45:22](https://news.ycombinator.com/item?id=44129567) - [Ovld – Efficient and featureful multiple dispatch for Python](https://github.com/breuleux/ovld)
 * [2025-05-29, 19:39:36](https://news.ycombinator.com/item?id=44129495) - [When Fine-Tuning Makes Sense: A Developer's Guide](https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started)
