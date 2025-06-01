@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-06-01, 21:05:58",
+      "https://news.ycombinator.com/item?id=44153754"
+    ],
+    [
+      "Why Blender Changing to Vulkan Is Groundbreaking [video]",
+      "https://www.youtube.com/watch?v=7cta91Y53gs"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 21:02:58",
+      "https://news.ycombinator.com/item?id=44153738"
+    ],
+    [
+      "LibriVox",
+      "https://librivox.org/"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 21:02:25",
       "https://news.ycombinator.com/item?id=44153734"
     ],
@@ -27,16 +47,6 @@
     [
       "Claude Code: An Agentic cleanroom analysis",
       "https://southbridge-research.notion.site/claude-code-an-agentic-cleanroom-analysis"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 17:29:26",
-      "https://news.ycombinator.com/item?id=44152447"
-    ],
-    [
-      "JFK files expose family secrets: Their relatives were CIA assets",
-      "https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/"
     ]
   ],
   [
@@ -97,6 +107,16 @@
     [
       "Cinematography of \"Andor\"",
       "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 08:54:08",
+      "https://news.ycombinator.com/item?id=44149549"
+    ],
+    [
+      "Canonicals Interview Process",
+      "https://dustri.org/b/my-experience-with-canonicals-interview-process.html"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-05-29, 19:45:22",
-      "https://news.ycombinator.com/item?id=44129567"
-    ],
-    [
-      "Ovld – Efficient and featureful multiple dispatch for Python",
-      "https://github.com/breuleux/ovld"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 19:39:36",
       "https://news.ycombinator.com/item?id=44129495"
     ],
@@ -267,16 +277,6 @@
     [
       "A Pokémon battle simulation engine",
       "https://github.com/pkmn/engine"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 12:36:53",
-      "https://news.ycombinator.com/item?id=44125462"
-    ],
-    [
-      "Show HN: A Implementation of Alpha Zero for Chess in MLX",
-      "https://github.com/koogle/mlx-playground/tree/main/chesszero"
     ]
   ],
   [
