@@ -40,6 +40,7 @@
 * [2025-05-29, 15:43:33](https://news.ycombinator.com/item?id=44127173) - [Putting Rigid Bodies to Rest](https://twitter.com/keenanisalive/status/1925225500659658999)
 * [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [Relive the 90s: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
 * [2025-05-29, 15:30:17](https://news.ycombinator.com/item?id=44127027) - [The flip phone web: browsing with the original Opera Mini](https://www.spacebar.news/the-flip-phone-web-browsing-with-the-original-opera-mini/)
+* [2025-05-29, 15:27:51](https://news.ycombinator.com/item?id=44126997) - [Gabon longs to cash in on sacred hallucinogenic remedy](https://phys.org/news/2025-05-gabon-cash-sacred-hallucinogenic-remedy.html)
 * [2025-05-29, 14:59:37](https://news.ycombinator.com/item?id=44126753) - [ClickHouse raises $350M Series C](https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era)
 * [2025-05-29, 14:57:25](https://news.ycombinator.com/item?id=44126725) - [Web Bench: a new way to compare AI browser agents](https://blog.skyvern.com/web-bench-a-new-way-to-compare-ai-browser-agents/)
 * [2025-05-29, 14:44:33](https://news.ycombinator.com/item?id=44126612) - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
