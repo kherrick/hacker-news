@@ -48,6 +48,7 @@
 * [2025-05-29, 13:59:17](https://news.ycombinator.com/item?id=44126214) - [Domain Adaptation of Base Models + ShadowdarkQA Bench](https://gygaxtest.com/posts/continued_pretraining_for-rules/)
 * [2025-05-29, 13:33:31](https://news.ycombinator.com/item?id=44125966) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 * [2025-05-29, 13:33:14](https://news.ycombinator.com/item?id=44125964) - [A Pokémon battle simulation engine](https://github.com/pkmn/engine)
+* [2025-05-29, 13:16:00](https://news.ycombinator.com/item?id=44125793) - [HeidiSQL Available Also for Linux](https://www.heidisql.com/forum.php?t=44068)
 * [2025-05-29, 13:08:17](https://news.ycombinator.com/item?id=44125734) - [Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory](https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6)
 * [2025-05-29, 12:54:01](https://news.ycombinator.com/item?id=44125598) - [Show HN: I compressed 10k PDFs into a 1.4GB video for LLM memory](https://github.com/Olow304/memvid)
 * [2025-05-29, 12:39:24](https://news.ycombinator.com/item?id=44125489) - [I started a little math club in Bangalore](https://teachyourselfmath.app/club)

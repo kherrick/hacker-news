@@ -45,6 +45,7 @@
 * [2025-05-31, 07:00:01](https://news.ycombinator.com/item?id=44142436) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 * [2025-05-31, 06:25:19](https://news.ycombinator.com/item?id=44142266) - [Gradients Are the New Intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
 * [2025-05-31, 06:24:54](https://news.ycombinator.com/item?id=44142262) - [Generation of giga-electron-volt proton beams by micronozzle acceleration](https://www.nature.com/articles/s41598-025-03385-x)
+* [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I Made a Chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
 * [2025-05-31, 06:23:25](https://news.ycombinator.com/item?id=44142255) - [Georgists Valued Land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
 * [2025-05-31, 06:23:24](https://news.ycombinator.com/item?id=44142254) - [Web dev is still fun if you want it to be](https://github.com/jchester/bobotw)
 * [2025-05-31, 06:22:50](https://news.ycombinator.com/item?id=44142251) - [Estimating Logarithms](https://obrhubr.org/logarithm-estimation)
