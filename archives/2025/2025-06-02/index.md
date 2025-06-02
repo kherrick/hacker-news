@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 15:23:01](https://news.ycombinator.com/item?id=44159798) - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
+* [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
 * [2025-06-02, 14:39:18](https://news.ycombinator.com/item?id=44159318) - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
 * [2025-06-02, 14:24:54](https://news.ycombinator.com/item?id=44159166) - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/commits/main/)
 * [2025-06-02, 13:36:40](https://news.ycombinator.com/item?id=44158720) - [Reducing Cargo target directory size with -Zno-embed-metadata](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html)
@@ -15,6 +17,7 @@
 * [2025-06-02, 11:16:06](https://news.ycombinator.com/item?id=44157618) - [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
 * [2025-06-02, 11:09:45](https://news.ycombinator.com/item?id=44157584) - [Show HN: Fast Random Library for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md)
 * [2025-06-02, 11:06:50](https://news.ycombinator.com/item?id=44157568) - [Our production Ruby on Rails stack](https://attendlist.com/blog/production-rails-stack)
+* [2025-06-02, 10:31:57](https://news.ycombinator.com/item?id=44157406) - [ThorVG: Super Lightweight Vector Graphics Engine](https://www.thorvg.org/about)
 * [2025-06-02, 10:25:51](https://news.ycombinator.com/item?id=44157378) - [TradExpert: Revolutionizing Trading with Mixture of Expert LLMs](https://arxiv.org/abs/2411.00782)
 * [2025-06-02, 10:23:08](https://news.ycombinator.com/item?id=44157365) - [Computer science has one of the highest unemployment rates](https://www.newsweek.com/computer-science-popular-college-major-has-one-highest-unemployment-rates-2076514)
 * [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
