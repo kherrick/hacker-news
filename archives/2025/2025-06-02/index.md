@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 09:34:26](https://news.ycombinator.com/item?id=44157116) - [Understanding Consistency in Databases: Beyond the Basics](https://medium.com/@lucas01/understanding-consistency-in-databases-beyond-the-basics-293013a50481)
+* [2025-06-02, 09:27:26](https://news.ycombinator.com/item?id=44157077) - [ReasoningGym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
 * [2025-06-02, 08:59:37](https://news.ycombinator.com/item?id=44156935) - [If you are useful, it doesn't mean you are valued](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
 * [2025-06-02, 07:52:35](https://news.ycombinator.com/item?id=44156570) - [AI-first – We're just 6 months away from AGI](https://revontulet.dev/p/2025-ai-first/)
 * [2025-06-02, 07:29:02](https://news.ycombinator.com/item?id=44156467) - [Show HN: System Prompt Learning – LLMs Learn Problem-Solving from Experience](https://news.ycombinator.com/item?id=44156467)
