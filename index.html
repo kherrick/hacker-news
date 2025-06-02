@@ -129,6 +129,132 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44156935">
+          <h3>
+            <a
+              class="item"
+              href="https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean"
+              >If you are useful, it doesn't mean you are valued</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-02 @ 08:59:37</span
+              ><span class="points-container"
+                >Points: <span class="points">48</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44156935"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44156467">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44156467"
+              >Show HN: System Prompt Learning – LLMs Learn Problem-Solving from
+              Experience</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-02 @ 07:29:02</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44156467"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The basic idea: instead of using static system prompts, the LLM
+                builds up a database of strategies that actually work for
+                different problem types. When you give it a new problem, it
+                selects the most relevant strategies, applies them, then
+                evaluates how well they worked and refines them.
+              </p>
+              <p>
+                For example, after seeing enough word problems, it learned this
+                strategy:
+              </p>
+              <p>1) Read carefully and identify unknowns,</p>
+              <p>2) Define variables with units,</p>
+              <p>3) Write equations,</p>
+              <p>4) Solve step-by-step,</p>
+              <p>5) Verify the answer.</p>
+              <p>
+                All strategies are stored as human-readable JSON that you can
+                inspect and edit.
+              </p>
+              <p>
+                I tested it on math benchmarks and saw decent improvements -
+                8.6% better on Arena Hard, 6.67% on AIME24. After 500 queries,
+                the system had created 129 strategies and refined 97 of them.
+              </p>
+              <p>
+                The implementation is an open-source plugin for optillm (our
+                inference optimization proxy). It works with any
+                OpenAI-compatible API - you just add "spl-" to your model name.
+                Has two modes: inference-only (uses existing strategies) and
+                learning mode (creates and refines strategies).
+              </p>
+              <p>
+                What's interesting is that it bridges the gap between the
+                sophisticated system prompts that production AI uses and the
+                basic prompts most of us work with. Your model literally gets
+                better at the types of problems you throw at it.
+              </p>
+              <p>
+                Built it because I noticed ChatGPT, Claude etc. have incredibly
+                detailed system prompts with problem-solving frameworks, but
+                most developers use basic prompts and miss out on those
+                performance gains. The approach is inspired by Andrej Karpathy's
+                tweet about a "third paradigm" for LLM learning beyond just
+                pretraining and fine-tuning:
+                <a href="https://x.com/karpathy/status/1921368644069765486"
+                  >https://x.com/karpathy/status/1921368644069765486</a
+                >
+              </p>
+              <p>
+                The strategies are completely transparent - you can see exactly
+                what the system learned and why it's making certain decisions.
+                No black box learning.
+              </p>
+              <p>
+                <a
+                  href="https://github.com/codelion/optillm/tree/main/optillm/plugins/spl"
+                  >https://github.com/codelion/optillm/tree/main/optillm/plugin...</a
+                >
+              </p>
+              <p>
+                Would love feedback on the approach. Has anyone else
+                experimented with LLMs learning from their own experience?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44156239">
+          <h3>
+            <a class="item" href="https://tmuxai.dev/tmux-cheat-sheet/"
+              >Show HN: Yet another tmux cheat sheet</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-02 @ 06:30:30</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44156239"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44156092">
           <h3>
             <a
@@ -141,11 +267,11 @@
             <h4>
               <span>2025-06-02 @ 05:45:25</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44156092"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -162,7 +288,7 @@
             <h4>
               <span>2025-06-02 @ 04:05:26</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44155761"
                   >Comments</a
@@ -183,61 +309,13 @@
             <h4>
               <span>2025-06-02 @ 04:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44155746"
                   >Comments</a
                 ><span class="descendants">: 70</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44155741">
-          <h3>
-            <a class="item" href="https://github.com/MubarakNative/MBCompass"
-              >Show HN: MBCompass – Android Compass App</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-02 @ 03:58:58</span
-              ><span class="points-container"
-                >Points: <span class="points">45</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44155741"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I built MBCompass, a lightweight, privacy-friendly compass app
-                for Android. It works fully offline, doesn’t ask for unnecessary
-                permissions (no GPS, no internet), and is open source.
-              </p>
-              <p>
-                Most compass apps out there are bloated or ad-heavy. I wanted
-                something clean, fast, and featurish. So I made this!
-              </p>
-              <p>
-                It’s only ~1.7 in size and uses a low-pass filter to smooth
-                sensor readings.
-              </p>
-              <p>
-                I’d love feedback or thoughts – especially from others building
-                simple, privacy-first apps!
-              </p>
-              <p>
-                <a href="https://f-droid.org/packages/com.mubarak.mbcompass/"
-                  >https://f-droid.org/packages/com.mubarak.mbcompass/</a
-                >
-              </p>
-              <p>
-                <a href="https://github.com/MubarakNative/MBCompass"
-                  >https://github.com/MubarakNative/MBCompass</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="44155635">
@@ -259,31 +337,6 @@
             </h4>
           </section>
         </section>
-        <section id="44155426">
-          <h3>
-            <a class="item" href="https://github.com/rounak/PhoneAgent"
-              >Show HN: I built an AI Agent that uses the iPhone</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-02 @ 02:37:35</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44155426"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Uses Xcode UI tests + accessibility tree to look into apps, and
-                performs swipes, taps, etc to get things done.
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="44155391">
           <h3>
             <a
@@ -296,11 +349,11 @@
             <h4>
               <span>2025-06-02 @ 02:29:45</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44155391"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -317,11 +370,11 @@
             <h4>
               <span>2025-06-02 @ 01:54:33</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44155247"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -356,7 +409,7 @@
             <h4>
               <span>2025-06-01 @ 23:22:32</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44154511"
                   >Comments</a
@@ -377,7 +430,7 @@
             <h4>
               <span>2025-06-01 @ 21:57:35</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44154032"
                   >Comments</a
@@ -413,11 +466,11 @@
             <h4>
               <span>2025-06-01 @ 21:02:17</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44153732"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -432,7 +485,7 @@
             <h4>
               <span>2025-06-01 @ 13:42:49</span
               ><span class="points-container"
-                >Points: <span class="points">700</span></span
+                >Points: <span class="points">702</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44150803"
                   >Comments</a
@@ -453,11 +506,11 @@
             <h4>
               <span>2025-06-01 @ 09:44:04</span
               ><span class="points-container"
-                >Points: <span class="points">379</span></span
+                >Points: <span class="points">381</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44149718"
                   >Comments</a
-                ><span class="descendants">: 349</span></span
+                ><span class="descendants">: 350</span></span
               >
             </h4>
           </section>
@@ -472,7 +525,7 @@
             <h4>
               <span>2025-06-01 @ 00:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">511</span></span
+                >Points: <span class="points">512</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44147945"
                   >Comments</a
@@ -493,11 +546,11 @@
             <h4>
               <span>2025-05-31 @ 08:57:12</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44142955"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -554,30 +607,11 @@
             <h4>
               <span>2025-05-31 @ 06:24:01</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44142259"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44142251">
-          <h3>
-            <a class="item" href="https://obrhubr.org/logarithm-estimation"
-              >Estimating Logarithms</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-05-31 @ 06:22:50</span
-              ><span class="points-container"
-                >Points: <span class="points">86</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44142251"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -594,7 +628,7 @@
             <h4>
               <span>2025-05-29 @ 23:21:48</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44131324"
                   >Comments</a
@@ -655,7 +689,7 @@
             <h4>
               <span>2025-05-29 @ 19:39:36</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44129495"
                   >Comments</a
@@ -676,11 +710,11 @@
             <h4>
               <span>2025-05-29 @ 19:38:09</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44129480"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -695,7 +729,7 @@
             <h4>
               <span>2025-05-29 @ 18:23:04</span
               ><span class="points-container"
-                >Points: <span class="points">199</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44128751"
                   >Comments</a
@@ -735,11 +769,11 @@
             <h4>
               <span>2025-05-29 @ 13:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44125793"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -756,11 +790,11 @@
             <h4>
               <span>2025-05-29 @ 08:04:39</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44123987"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
