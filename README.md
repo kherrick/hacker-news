@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
 * [2025-06-02, 20:01:49](https://news.ycombinator.com/item?id=44162443) - [Snowflake to Buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
 * [2025-06-02, 19:52:46](https://news.ycombinator.com/item?id=44162363) - [Show HN: I build one absurd web project every month](https://absurd.website)
-* [2025-06-02, 19:48:36](https://news.ycombinator.com/item?id=44162327) - [Typing 118 WPM Broke My Brain in the Right Ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
 * [2025-06-02, 18:58:47](https://news.ycombinator.com/item?id=44161894) - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
 * [2025-06-02, 17:26:02](https://news.ycombinator.com/item?id=44161103) - [Decorative Text Within HTML](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/)
 * [2025-06-02, 17:00:38](https://news.ycombinator.com/item?id=44160870) - [Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer)
