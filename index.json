@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-02, 02:06:04",
+      "https://news.ycombinator.com/item?id=44155285"
+    ],
+    [
+      "Silicon Valley wants to help me make a superbaby",
+      "https://sfstandard.com/2025/06/01/silicon-valley-wants-to-help-me-make-a-superbaby-should-i-let-it/"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 01:54:33",
+      "https://news.ycombinator.com/item?id=44155247"
+    ],
+    [
+      "The Princeton INTERCAL Compiler's source code",
+      "https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 21:57:35",
       "https://news.ycombinator.com/item?id=44154032"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-06-01, 13:39:44",
-      "https://news.ycombinator.com/item?id=44150789"
-    ],
-    [
-      "Ukraine destroys more than 40 military aircraft in drone attack deep in Russia",
-      "https://www.npr.org/2025/06/01/nx-s1-5419509/ukraine-destroys-military-aircraft-attack-inside-russia-planes"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 11:22:55",
       "https://news.ycombinator.com/item?id=44150093"
     ],
@@ -107,16 +117,6 @@
     [
       "Why DeepSeek is cheap at scale but expensive to run locally",
       "https://www.seangoedecke.com/inference-batching-and-deepseek/"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 07:13:46",
-      "https://news.ycombinator.com/item?id=44149177"
-    ],
-    [
-      "Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex",
-      "https://github.com/einaregilsson/Redirector"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-06-01, 01:04:29",
-      "https://news.ycombinator.com/item?id=44147966"
-    ],
-    [
-      "Stepping Back",
-      "https://rjp.io/blog/2025-05-31-stepping-back"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 00:58:00",
       "https://news.ycombinator.com/item?id=44147945"
     ],
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2025-05-31, 23:08:29",
-      "https://news.ycombinator.com/item?id=44147573"
+      "2025-05-31, 06:24:01",
+      "https://news.ycombinator.com/item?id=44142259"
     ],
     [
-      "New adaptive optics shows details of our star's atmosphere",
-      "https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/"
+      "I Made a Chair",
+      "https://milofultz.com/2025-05-27-i-made-a-chair.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Toying with the Lambda Calculus",
       "https://github.com/WinVector/Examples/blob/main/lambda_calculus/toying_with_the_lambda_calculus.ipynb"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 13:16:00",
+      "https://news.ycombinator.com/item?id=44125793"
+    ],
+    [
+      "HeidiSQL Available Also for Linux",
+      "https://www.heidisql.com/forum.php?t=44068"
     ]
   ],
   [
