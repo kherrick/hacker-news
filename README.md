@@ -24,11 +24,11 @@
 * [2025-05-31, 19:09:09](https://news.ycombinator.com/item?id=44146339) - [Intelligent Agent Technology: Open Sesame! (1993)](https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/)
 * [2025-05-31, 13:41:44](https://news.ycombinator.com/item?id=44144240) - [Bohemians at the Gate?](https://inferencemagazine.substack.com/p/bohemians-at-the-gate)
 * [2025-05-31, 10:18:40](https://news.ycombinator.com/item?id=44143253) - [Cuss: Map of profane words to a rating of sureness](https://github.com/words/cuss)
-* [2025-05-31, 08:57:12](https://news.ycombinator.com/item?id=44142955) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
 * [2025-05-31, 07:37:21](https://news.ycombinator.com/item?id=44142650) - [Hip: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm/hip)
 * [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
+* [2025-05-29, 23:21:48](https://news.ycombinator.com/item?id=44131324) - [What works (and doesn't) selling formal methods](https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods)
 * [2025-05-29, 22:16:18](https://news.ycombinator.com/item?id=44130915) - [The Atomic Airplane](https://whatisnuclear.com/the-story-of-the-atomic-airplane.html)
-* [2025-05-29, 19:38:09](https://news.ycombinator.com/item?id=44129480) - [A man who sailed round the world with a chicken (2019)](https://www.theguardian.com/global/2019/apr/21/why-did-the-chicken-cross-the-globe-french-sailor-guirec-soudee-monique)
+* [2025-05-29, 13:16:00](https://news.ycombinator.com/item?id=44125793) - [HeidiSQL Available Also for Linux](https://www.heidisql.com/forum.php?t=44068)
 * [2025-05-29, 12:25:19](https://news.ycombinator.com/item?id=44125334) - [EasyTier – P2P mesh VPN written in Rust using Tokio](https://easytier.cn/en/)
 
 ## [Archives](archives/index.md)
