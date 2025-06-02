@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 13:29:26](https://news.ycombinator.com/item?id=44158658) - [After 25 Years, Linux Format Magazine Is No More](https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes)
+* [2025-06-02, 12:58:10](https://news.ycombinator.com/item?id=44158353) - [How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
+* [2025-06-02, 12:45:46](https://news.ycombinator.com/item?id=44158251) - [Ask HN: What do you spend your money on?](https://news.ycombinator.com/item?id=44158251)
+* [2025-06-02, 12:39:55](https://news.ycombinator.com/item?id=44158209) - [Google DMARC Policy Changes?](https://news.ycombinator.com/item?id=44158209)
 * [2025-06-02, 11:28:28](https://news.ycombinator.com/item?id=44157701) - [Whatever Happened to Cheap EReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
 * [2025-06-02, 11:16:06](https://news.ycombinator.com/item?id=44157618) - [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
 * [2025-06-02, 11:09:45](https://news.ycombinator.com/item?id=44157584) - [Show HN: Fast Random Library for C++17](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md)
