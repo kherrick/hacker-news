@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 03:58:58",
+      "https://news.ycombinator.com/item?id=44155741"
+    ],
+    [
+      "Show HN: MBCompass - Android Compass App",
+      "https://github.com/MubarakNative/MBCompass"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 02:29:45",
       "https://news.ycombinator.com/item?id=44155391"
     ],
@@ -17,16 +27,6 @@
     [
       "The Princeton INTERCAL Compiler's source code",
       "https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 01:54:19",
-      "https://news.ycombinator.com/item?id=44155243"
-    ],
-    [
-      "Exponential Functions and Euler's Formula",
-      "http://www.deaneyang.com//blog/blog/math/exponential-function/euler-formula/2025/05/29/ExponentialFunctions.html"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-05-29, 22:58:08",
+      "https://news.ycombinator.com/item?id=44131194"
+    ],
+    [
+      "The Zach Attack Scratch 'N Solve Puzzle Pack",
+      "https://coincidence.games/zach-attack/"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 19:39:36",
       "https://news.ycombinator.com/item?id=44129495"
     ],
@@ -257,16 +267,6 @@
     [
       "A new generation of Tailscale access controls",
       "https://tailscale.com/blog/grants-ga"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 17:11:12",
-      "https://news.ycombinator.com/item?id=44128057"
-    ],
-    [
-      "Toying with the Lambda Calculus",
-      "https://github.com/WinVector/Examples/blob/main/lambda_calculus/toying_with_the_lambda_calculus.ipynb"
     ]
   ],
   [
