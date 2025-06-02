@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-02, 06:54:45](https://news.ycombinator.com/item?id=44156321) - [0.9999 ≊ 1](https://lcamtuf.substack.com/p/09999-1)
 * [2025-06-02, 06:00:38](https://news.ycombinator.com/item?id=44156142) - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
 * [2025-06-02, 04:05:26](https://news.ycombinator.com/item?id=44155761) - [Is \"The Phoenician Scheme\" Wes Anderson's Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
@@ -17,7 +18,6 @@
 * [2025-06-01, 09:44:04](https://news.ycombinator.com/item?id=44149718) - [Cinematography of “Andor”](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
 * [2025-06-01, 06:32:20](https://news.ycombinator.com/item?id=44149019) - [Google AI Edge – On-device cross-platform AI deployment](https://ai.google.dev/edge)
 * [2025-06-01, 06:23:50](https://news.ycombinator.com/item?id=44148997) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
-* [2025-06-01, 03:43:00](https://news.ycombinator.com/item?id=44148524) - [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/)
 * [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-05-31, 08:57:12](https://news.ycombinator.com/item?id=44142955) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
 * [2025-05-31, 06:46:41](https://news.ycombinator.com/item?id=44142359) - [Writing your own C++ standard library part 2](https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html)
