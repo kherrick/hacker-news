@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
 * [2025-06-02, 14:39:18](https://news.ycombinator.com/item?id=44159318) - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
+* [2025-06-02, 14:24:54](https://news.ycombinator.com/item?id=44159166) - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/commits/main/)
+* [2025-06-02, 13:36:40](https://news.ycombinator.com/item?id=44158720) - [Reducing Cargo target directory size with -Zno-embed-metadata](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html)
 * [2025-06-02, 13:29:26](https://news.ycombinator.com/item?id=44158658) - [After 25 Years, Linux Format Magazine Is No More](https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes)
 * [2025-06-02, 12:58:10](https://news.ycombinator.com/item?id=44158353) - [How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
 * [2025-06-02, 12:45:46](https://news.ycombinator.com/item?id=44158251) - [Ask HN: What do you spend your money on?](https://news.ycombinator.com/item?id=44158251)
