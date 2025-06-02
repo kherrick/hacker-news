@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 19:52:46](https://news.ycombinator.com/item?id=44162363) - [Show HN: I build one absurd web project every month](https://absurd.website)
+* [2025-06-02, 19:48:36](https://news.ycombinator.com/item?id=44162327) - [Typing 118 WPM Broke My Brain in the Right Ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
 * [2025-06-02, 19:15:43](https://news.ycombinator.com/item?id=44162042) - [Can I stop drone delivery companies flying over my property?](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/)
 * [2025-06-02, 18:58:47](https://news.ycombinator.com/item?id=44161894) - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
 * [2025-06-02, 17:44:28](https://news.ycombinator.com/item?id=44161271) - [Disaster awaits if we don't secure IoT now](https://spectrum.ieee.org/iot-security-root-of-trust)
