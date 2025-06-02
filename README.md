@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-02, 14:39:18](https://news.ycombinator.com/item?id=44159318) - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
 * [2025-06-02, 13:29:26](https://news.ycombinator.com/item?id=44158658) - [After 25 Years, Linux Format Magazine Is No More](https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes)
 * [2025-06-02, 12:58:10](https://news.ycombinator.com/item?id=44158353) - [How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
 * [2025-06-02, 11:28:28](https://news.ycombinator.com/item?id=44157701) - [Whatever happened to cheap eReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
@@ -18,7 +19,6 @@
 * [2025-06-01, 21:57:35](https://news.ycombinator.com/item?id=44154032) - [The Visual World of 'Samurai Jack'](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
 * [2025-06-01, 21:02:58](https://news.ycombinator.com/item?id=44153738) - [LibriVox](https://librivox.org/)
 * [2025-06-01, 21:02:17](https://news.ycombinator.com/item?id=44153732) - [The rise of judgement over technical skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
-* [2025-06-01, 09:44:04](https://news.ycombinator.com/item?id=44149718) - [Cinematography of “Andor”](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
 * [2025-05-31, 13:41:44](https://news.ycombinator.com/item?id=44144240) - [Bohemians at the Gate?](https://inferencemagazine.substack.com/p/bohemians-at-the-gate)
 * [2025-05-31, 10:18:40](https://news.ycombinator.com/item?id=44143253) - [Cuss: Map of profane words to a rating of sureness](https://github.com/words/cuss)
 * [2025-05-31, 08:57:12](https://news.ycombinator.com/item?id=44142955) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
