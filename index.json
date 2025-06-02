@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-02, 06:49:00",
+      "https://news.ycombinator.com/item?id=44156297"
+    ],
+    [
+      "Euro execs mull use of US clouds",
+      "https://www.theregister.com/2025/05/28/uk_execs_cloud/"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 06:00:38",
       "https://news.ycombinator.com/item?id=44156142"
     ],
@@ -161,26 +171,6 @@
   ],
   [
     [
-      "2025-06-01, 06:32:20",
-      "https://news.ycombinator.com/item?id=44149019"
-    ],
-    [
-      "Google AI Edge – On-device cross-platform AI deployment",
-      "https://ai.google.dev/edge"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 06:23:50",
-      "https://news.ycombinator.com/item?id=44148997"
-    ],
-    [
-      "How I like to install NixOS (declaratively)",
-      "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 00:58:00",
       "https://news.ycombinator.com/item?id=44147945"
     ],
@@ -237,6 +227,16 @@
     [
       "What works (and doesn't) selling formal methods",
       "https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 23:18:22",
+      "https://news.ycombinator.com/item?id=44131307"
+    ],
+    [
+      "Revisiting Loop Recognition in C++ in Rust",
+      "https://blomqu.ist/posts/2025/loop-recognition/"
     ]
   ],
   [
