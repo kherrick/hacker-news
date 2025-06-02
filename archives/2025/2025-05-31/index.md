@@ -34,6 +34,7 @@
 * [2025-05-31, 11:00:44](https://news.ycombinator.com/item?id=44143432) - [Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar](https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/)
 * [2025-05-31, 10:52:32](https://news.ycombinator.com/item?id=44143398) - [Classicide](https://en.wikipedia.org/wiki/Classicide)
 * [2025-05-31, 10:17:17](https://news.ycombinator.com/item?id=44143244) - [Show HN: I built an AI agent that turns ROS 2's turtlesim into a digital artist](https://github.com/Yutarop/turtlesim_agent)
+* [2025-05-31, 08:57:12](https://news.ycombinator.com/item?id=44142955) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
 * [2025-05-31, 08:25:41](https://news.ycombinator.com/item?id=44142852) - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [2025-05-31, 08:23:51](https://news.ycombinator.com/item?id=44142839) - [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
 * [2025-05-31, 08:22:39](https://news.ycombinator.com/item?id=44142835) - [She Got an Abortion. So a Texas Cop Used 83,000 Cameras to Track Her Down](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down)

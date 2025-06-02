@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 06:00:38](https://news.ycombinator.com/item?id=44156142) - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
+* [2025-06-02, 04:05:26](https://news.ycombinator.com/item?id=44155761) - [Is \"The Phoenician Scheme\" Wes Anderson's Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 * [2025-06-02, 03:58:58](https://news.ycombinator.com/item?id=44155741) - [Show HN: MBCompass - Android Compass App](https://github.com/MubarakNative/MBCompass)
 * [2025-06-02, 03:35:07](https://news.ycombinator.com/item?id=44155635) - [LFSR CPU Running Forth](https://github.com/howerj/lfsr-vhdl)
