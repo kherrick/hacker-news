@@ -14,6 +14,7 @@
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 * [2025-06-02, 03:58:58](https://news.ycombinator.com/item?id=44155741) - [Show HN: MBCompass - Android Compass App](https://github.com/MubarakNative/MBCompass)
 * [2025-06-02, 03:35:07](https://news.ycombinator.com/item?id=44155635) - [LFSR CPU Running Forth](https://github.com/howerj/lfsr-vhdl)
+* [2025-06-02, 02:37:35](https://news.ycombinator.com/item?id=44155426) - [Show HN: I built an AI Agent that uses the iPhone](https://github.com/rounak/PhoneAgent)
 * [2025-06-02, 02:29:45](https://news.ycombinator.com/item?id=44155391) - [How Can AI Researchers Save Energy? By Going Backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
 * [2025-06-02, 02:06:04](https://news.ycombinator.com/item?id=44155285) - [Silicon Valley wants to help me make a superbaby](https://sfstandard.com/2025/06/01/silicon-valley-wants-to-help-me-make-a-superbaby-should-i-let-it/)
 * [2025-06-02, 01:54:33](https://news.ycombinator.com/item?id=44155247) - [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
