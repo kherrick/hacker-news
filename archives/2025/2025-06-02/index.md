@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 15:49:08](https://news.ycombinator.com/item?id=44160073) - [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
+* [2025-06-02, 15:42:31](https://news.ycombinator.com/item?id=44160012) - [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study)
 * [2025-06-02, 15:23:01](https://news.ycombinator.com/item?id=44159798) - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
 * [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
+* [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
+* [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159525) - [Ask HN: Who wants to be hired? (June 2025)](https://news.ycombinator.com/item?id=44159525)
 * [2025-06-02, 14:39:18](https://news.ycombinator.com/item?id=44159318) - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
 * [2025-06-02, 14:24:54](https://news.ycombinator.com/item?id=44159166) - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/commits/main/)
 * [2025-06-02, 13:36:40](https://news.ycombinator.com/item?id=44158720) - [Reducing Cargo target directory size with -Zno-embed-metadata](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html)
@@ -31,6 +35,7 @@
 * [2025-06-02, 06:54:45](https://news.ycombinator.com/item?id=44156321) - [0.9999 ≊ 1](https://lcamtuf.substack.com/p/09999-1)
 * [2025-06-02, 06:49:00](https://news.ycombinator.com/item?id=44156297) - [Euro execs mull use of US clouds](https://www.theregister.com/2025/05/28/uk_execs_cloud/)
 * [2025-06-02, 06:30:30](https://news.ycombinator.com/item?id=44156239) - [Show HN: Yet another tmux cheat sheet](https://tmuxai.dev/tmux-cheat-sheet/)
+* [2025-06-02, 06:04:34](https://news.ycombinator.com/item?id=44156157) - [War and Wilderness: British Soldiers in Revolutionary America](https://www.historytoday.com/archive/feature/war-and-wilderness-british-soldiers-revolutionary-america)
 * [2025-06-02, 06:00:38](https://news.ycombinator.com/item?id=44156142) - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
 * [2025-06-02, 05:45:25](https://news.ycombinator.com/item?id=44156092) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 * [2025-06-02, 04:05:26](https://news.ycombinator.com/item?id=44155761) - [Is \"The Phoenician Scheme\" Wes Anderson's Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
