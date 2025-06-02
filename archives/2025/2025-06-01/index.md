@@ -12,6 +12,7 @@
 * [2025-06-01, 21:05:58](https://news.ycombinator.com/item?id=44153754) - [Why Blender Changing to Vulkan Is Groundbreaking [video]](https://www.youtube.com/watch?v=7cta91Y53gs)
 * [2025-06-01, 21:02:58](https://news.ycombinator.com/item?id=44153738) - [LibriVox](https://librivox.org/)
 * [2025-06-01, 21:02:25](https://news.ycombinator.com/item?id=44153734) - ['bugs are 100x more expensive to fix in production' is a fairy tale](https://www.theregister.com/2021/07/22/bugs_expense_bs/)
+* [2025-06-01, 21:02:17](https://news.ycombinator.com/item?id=44153732) - [The Rise of Judgement over Technical Skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
 * [2025-06-01, 20:47:28](https://news.ycombinator.com/item?id=44153669) - [Open AI Can Stop Pretending](https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/)
 * [2025-06-01, 19:54:28](https://news.ycombinator.com/item?id=44153366) - [Engagement = % of Humanity's Time Hijacked and Wasted](https://news.ycombinator.com/item?id=44153366)
 * [2025-06-01, 19:11:04](https://news.ycombinator.com/item?id=44153091) - [She Got an Abortion. So a Texas Cop Used 83,000 Cameras to Track Her Down](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down)
