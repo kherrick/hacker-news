@@ -39,6 +39,7 @@
 * [2025-05-29, 16:42:52](https://news.ycombinator.com/item?id=44127765) - [Toxic Proteins for Drug Discovery](https://www.asimov.press/p/toxic-proteins)
 * [2025-05-29, 16:41:04](https://news.ycombinator.com/item?id=44127739) - [Human coders are still better than LLMs](https://antirez.com/news/153)
 * [2025-05-29, 16:31:15](https://news.ycombinator.com/item?id=44127653) - [Show HN: Open-source, visual-first Cursor for Designers](https://beta.onlook.com/)
+* [2025-05-29, 16:31:15](https://news.ycombinator.com/item?id=44127653) - [Show HN: Onlook – Open-source, visual-first Cursor for designers](https://github.com/onlook-dev/onlook)
 * [2025-05-29, 15:43:56](https://news.ycombinator.com/item?id=44127177) - [Civil War in 3D: Stereographs from the New-York Historical Society (2015)](https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society)
 * [2025-05-29, 15:43:33](https://news.ycombinator.com/item?id=44127173) - [Putting Rigid Bodies to Rest](https://twitter.com/keenanisalive/status/1925225500659658999)
 * [2025-05-29, 15:38:45](https://news.ycombinator.com/item?id=44127109) - [Relive the 90s: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
