@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 07:11:00](https://news.ycombinator.com/item?id=44156381) - [Time to Rethink PostgreSQL Storage](https://www.ubicloud.com/blog/time-to-rethink-postgresql-storage)
 * [2025-06-02, 06:54:45](https://news.ycombinator.com/item?id=44156321) - [0.9999 ≊ 1](https://lcamtuf.substack.com/p/09999-1)
 * [2025-06-02, 06:49:00](https://news.ycombinator.com/item?id=44156297) - [Euro execs mull use of US clouds](https://www.theregister.com/2025/05/28/uk_execs_cloud/)
 * [2025-06-02, 06:00:38](https://news.ycombinator.com/item?id=44156142) - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
