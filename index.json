@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-06-02, 10:25:51",
-      "https://news.ycombinator.com/item?id=44157378"
-    ],
-    [
-      "TradeExpert, a trading framework that employs a mix of experts",
-      "https://arxiv.org/abs/2411.00782"
-    ]
-  ],
-  [
-    [
       "2025-06-02, 09:47:48",
       "https://news.ycombinator.com/item?id=44157177"
     ],
@@ -247,6 +237,16 @@
     [
       "Cuss: Map of profane words to a rating of sureness",
       "https://github.com/words/cuss"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 08:57:12",
+      "https://news.ycombinator.com/item?id=44142955"
+    ],
+    [
+      "In POSIX, you can theoretically use inode zero",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode"
     ]
   ],
   [
