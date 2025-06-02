@@ -11,6 +11,7 @@
 * [2025-06-02, 15:42:31](https://news.ycombinator.com/item?id=44160012) - [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study)
 * [2025-06-02, 15:23:01](https://news.ycombinator.com/item?id=44159798) - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
 * [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
+* [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark](https://github.com/lixiasky/vanta)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159525) - [Ask HN: Who wants to be hired? (June 2025)](https://news.ycombinator.com/item?id=44159525)
 * [2025-06-02, 14:39:18](https://news.ycombinator.com/item?id=44159318) - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
