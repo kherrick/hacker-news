@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-02, 15:23:01",
+      "https://news.ycombinator.com/item?id=44159798"
+    ],
+    [
+      "Mesh Edge Construction",
+      "https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 15:20:13",
+      "https://news.ycombinator.com/item?id=44159758"
+    ],
+    [
+      "Show HN: A toy version of Wireshark",
+      "https://news.ycombinator.com/item?id=44159758"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 14:39:18",
       "https://news.ycombinator.com/item?id=44159318"
     ],
@@ -27,16 +47,6 @@
     [
       "Reducing Cargo target directory size with -Zno-embed-metadata",
       "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 13:29:26",
-      "https://news.ycombinator.com/item?id=44158658"
-    ],
-    [
-      "After 25 Years, Linux Format Magazine Is No More",
-      "https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "Show HN: Fast Random Library for C++17",
       "https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 10:31:57",
+      "https://news.ycombinator.com/item?id=44157406"
+    ],
+    [
+      "ThorVG: Super Lightweight Vector Graphics Engine",
+      "https://www.thorvg.org/about"
     ]
   ],
   [
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2025-05-31, 19:09:09",
+      "https://news.ycombinator.com/item?id=44146339"
+    ],
+    [
+      "Intelligent Agent Technology: Open Sesame! (1993)",
+      "https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 13:41:44",
       "https://news.ycombinator.com/item?id=44144240"
     ],
@@ -217,16 +247,6 @@
     [
       "Cuss: Map of profane words to a rating of sureness",
       "https://github.com/words/cuss"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 08:57:12",
-      "https://news.ycombinator.com/item?id=44142955"
-    ],
-    [
-      "In POSIX, you can theoretically use inode zero",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-05-29, 23:21:48",
-      "https://news.ycombinator.com/item?id=44131324"
-    ],
-    [
-      "What works (and doesn't) selling formal methods",
-      "https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 22:16:18",
       "https://news.ycombinator.com/item?id=44130915"
     ],
@@ -277,16 +287,6 @@
     [
       "A man who sailed round the world with a chicken (2019)",
       "https://www.theguardian.com/global/2019/apr/21/why-did-the-chicken-cross-the-globe-french-sailor-guirec-soudee-monique"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 13:16:00",
-      "https://news.ycombinator.com/item?id=44125793"
-    ],
-    [
-      "HeidiSQL Available Also for Linux",
-      "https://www.heidisql.com/forum.php?t=44068"
     ]
   ],
   [
