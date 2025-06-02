@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 08:59:37](https://news.ycombinator.com/item?id=44156935) - [If you are useful, it doesn't mean you are valued](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
 * [2025-06-02, 07:52:35](https://news.ycombinator.com/item?id=44156570) - [AI-first – We're just 6 months away from AGI](https://revontulet.dev/p/2025-ai-first/)
+* [2025-06-02, 07:29:02](https://news.ycombinator.com/item?id=44156467) - [Show HN: System Prompt Learning – LLMs Learn Problem-Solving from Experience](https://news.ycombinator.com/item?id=44156467)
 * [2025-06-02, 07:11:00](https://news.ycombinator.com/item?id=44156381) - [Time to Rethink PostgreSQL Storage](https://www.ubicloud.com/blog/time-to-rethink-postgresql-storage)
 * [2025-06-02, 06:54:45](https://news.ycombinator.com/item?id=44156321) - [0.9999 ≊ 1](https://lcamtuf.substack.com/p/09999-1)
 * [2025-06-02, 06:49:00](https://news.ycombinator.com/item?id=44156297) - [Euro execs mull use of US clouds](https://www.theregister.com/2025/05/28/uk_execs_cloud/)
+* [2025-06-02, 06:30:30](https://news.ycombinator.com/item?id=44156239) - [Show HN: Yet another tmux cheat sheet](https://tmuxai.dev/tmux-cheat-sheet/)
 * [2025-06-02, 06:00:38](https://news.ycombinator.com/item?id=44156142) - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
 * [2025-06-02, 05:45:25](https://news.ycombinator.com/item?id=44156092) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 * [2025-06-02, 04:05:26](https://news.ycombinator.com/item?id=44155761) - [Is \"The Phoenician Scheme\" Wes Anderson's Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
