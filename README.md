@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-02, 21:50:15](https://news.ycombinator.com/item?id=44163496) - [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
+* [2025-06-02, 21:44:37](https://news.ycombinator.com/item?id=44163428) - [Japanese Scientists Develop Artificial Blood Compatible with All Blood Types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
 * [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
 * [2025-06-02, 20:01:49](https://news.ycombinator.com/item?id=44162443) - [Snowflake to buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
 * [2025-06-02, 19:52:46](https://news.ycombinator.com/item?id=44162363) - [Show HN: I build one absurd web project every month](https://absurd.website)
@@ -11,7 +12,6 @@
 * [2025-06-02, 17:00:38](https://news.ycombinator.com/item?id=44160870) - [Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer)
 * [2025-06-02, 16:16:11](https://news.ycombinator.com/item?id=44160358) - [Arcol simplifies building design with browser-based modeling](https://www.arcol.io/)
 * [2025-06-02, 15:49:08](https://news.ycombinator.com/item?id=44160073) - [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
-* [2025-06-02, 15:42:31](https://news.ycombinator.com/item?id=44160012) - [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study)
 * [2025-06-02, 15:23:01](https://news.ycombinator.com/item?id=44159798) - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
 * [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark (student project)](https://github.com/lixiasky/vanta)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
