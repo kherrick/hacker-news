@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-02, 11:28:28](https://news.ycombinator.com/item?id=44157701) - [Whatever Happened to Cheap EReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
+* [2025-06-02, 11:16:06](https://news.ycombinator.com/item?id=44157618) - [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
 * [2025-06-02, 10:25:51](https://news.ycombinator.com/item?id=44157378) - [TradExpert: Revolutionizing Trading with Mixture of Expert LLMs](https://arxiv.org/abs/2411.00782)
-* [2025-06-02, 10:23:08](https://news.ycombinator.com/item?id=44157365) - [Computer science has one of the highest unemployment rates](https://www.newsweek.com/computer-science-popular-college-major-has-one-highest-unemployment-rates-2076514)
 * [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
 * [2025-06-02, 09:29:02](https://news.ycombinator.com/item?id=44157086) - [Awesome-ArXiv: curated tools for discovering and working with ArXiv papers](https://github.com/artnitolog/awesome-arxiv)
 * [2025-06-02, 09:27:26](https://news.ycombinator.com/item?id=44157077) - [ReasoningGym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
@@ -19,7 +20,6 @@
 * [2025-06-01, 21:02:17](https://news.ycombinator.com/item?id=44153732) - [The Rise of Judgement over Technical Skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
 * [2025-06-01, 13:42:49](https://news.ycombinator.com/item?id=44150803) - [Root shell on a credit card terminal](https://stefan-gloor.ch/yomani-hack)
 * [2025-06-01, 09:44:04](https://news.ycombinator.com/item?id=44149718) - [Cinematography of “Andor”](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
-* [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-05-31, 08:57:12](https://news.ycombinator.com/item?id=44142955) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
 * [2025-05-31, 07:37:21](https://news.ycombinator.com/item?id=44142650) - [Hip: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm/hip)
 * [2025-05-31, 06:46:41](https://news.ycombinator.com/item?id=44142359) - [Writing your own C++ standard library part 2](https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html)
