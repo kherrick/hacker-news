@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 03:58:58](https://news.ycombinator.com/item?id=44155741) - [Show HN: MBCompass - Android Compass App](https://github.com/MubarakNative/MBCompass)
 * [2025-06-02, 02:29:45](https://news.ycombinator.com/item?id=44155391) - [How Can AI Researchers Save Energy? By Going Backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
 * [2025-06-02, 02:06:04](https://news.ycombinator.com/item?id=44155285) - [Silicon Valley wants to help me make a superbaby](https://sfstandard.com/2025/06/01/silicon-valley-wants-to-help-me-make-a-superbaby-should-i-let-it/)
 * [2025-06-02, 01:54:33](https://news.ycombinator.com/item?id=44155247) - [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)

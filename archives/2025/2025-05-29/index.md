@@ -7,6 +7,7 @@
 * [2025-05-29, 23:57:11](https://news.ycombinator.com/item?id=44131513) - [Show HN: I'm starting a social club to solve the male loneliness epidemic](https://wave3.social)
 * [2025-05-29, 23:34:51](https://news.ycombinator.com/item?id=44131411) - [Caffeine induces age-dependent brain complexity and criticality during sleep](https://www.nature.com/articles/s42003-025-08090-z)
 * [2025-05-29, 23:21:48](https://news.ycombinator.com/item?id=44131324) - [What works (and doesn't) selling formal methods](https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods)
+* [2025-05-29, 22:58:08](https://news.ycombinator.com/item?id=44131194) - [The Zach Attack Scratch 'N Solve Puzzle Pack](https://coincidence.games/zach-attack/)
 * [2025-05-29, 22:17:59](https://news.ycombinator.com/item?id=44130928) - [SQL Workbench – Republicans not welcome](https://www.sql-workbench.eu/)
 * [2025-05-29, 21:52:00](https://news.ycombinator.com/item?id=44130743) - [The Future of Comments Is Lies, I Guess](https://aphyr.com/posts/388-the-future-of-comments-is-lies-i-guess)
 * [2025-05-29, 20:53:57](https://news.ycombinator.com/item?id=44130301) - [Net-Negative Cursor](https://lukasatkinson.de/2025/net-negative-cursor/)
