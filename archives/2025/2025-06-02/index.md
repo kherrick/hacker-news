@@ -6,6 +6,7 @@
 
 * [2025-06-02, 18:58:47](https://news.ycombinator.com/item?id=44161894) - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
 * [2025-06-02, 17:44:28](https://news.ycombinator.com/item?id=44161271) - [Disaster awaits if we don't secure IoT now](https://spectrum.ieee.org/iot-security-root-of-trust)
+* [2025-06-02, 17:26:02](https://news.ycombinator.com/item?id=44161103) - [Decorative Text Within HTML](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/)
 * [2025-06-02, 17:00:38](https://news.ycombinator.com/item?id=44160870) - [Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer)
 * [2025-06-02, 16:52:44](https://news.ycombinator.com/item?id=44160758) - [Taurine Revisited](https://www.science.org/content/blog-post/taurine-revisited)
 * [2025-06-02, 16:36:46](https://news.ycombinator.com/item?id=44160573) - [The Unreliability of LLMs and What Lies Ahead](https://verissimo.substack.com/p/verissimo-monthly-may-2025)
