@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-02, 22:03:50](https://news.ycombinator.com/item?id=44163618) - [Teaching Program Verification in Dafny at Amazon (2023)](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
 * [2025-06-02, 21:50:15](https://news.ycombinator.com/item?id=44163496) - [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
 * [2025-06-02, 21:44:37](https://news.ycombinator.com/item?id=44163428) - [Japanese Scientists Develop Artificial Blood Compatible with All Blood Types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
 * [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
@@ -23,7 +24,6 @@
 * [2025-06-02, 10:31:57](https://news.ycombinator.com/item?id=44157406) - [ThorVG: Super Lightweight Vector Graphics Engine](https://www.thorvg.org/about)
 * [2025-06-02, 10:25:51](https://news.ycombinator.com/item?id=44157378) - [TradeExpert, a trading framework that employs Mixture of Expert LLMs](https://arxiv.org/abs/2411.00782)
 * [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Show HN: Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
-* [2025-06-02, 09:27:26](https://news.ycombinator.com/item?id=44157077) - [ReasoningGym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760)
 * [2025-06-02, 08:59:37](https://news.ycombinator.com/item?id=44156935) - [If you are useful, it doesn't mean you are valued](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
 * [2025-06-02, 06:04:34](https://news.ycombinator.com/item?id=44156157) - [War and Wilderness: British Soldiers in Revolutionary America](https://www.historytoday.com/archive/feature/war-and-wilderness-british-soldiers-revolutionary-america)
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
