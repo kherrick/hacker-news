@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-06-02, 14:24:54",
+      "https://news.ycombinator.com/item?id=44159166"
+    ],
+    [
+      "Cloudlflare builds OAuth with Claude and publishes all the prompts",
+      "https://github.com/cloudflare/workers-oauth-provider/commits/main/"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 13:36:40",
+      "https://news.ycombinator.com/item?id=44158720"
+    ],
+    [
+      "Reducing Cargo target directory size with -Zno-embed-metadata",
+      "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 13:29:26",
       "https://news.ycombinator.com/item?id=44158658"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-06-02, 01:17:54",
-      "https://news.ycombinator.com/item?id=44155069"
-    ],
-    [
-      "TPDE: A Fast Adaptable Compiler Back-End Framework",
-      "https://arxiv.org/abs/2505.22610"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 21:57:35",
       "https://news.ycombinator.com/item?id=44154032"
     ],
@@ -227,16 +237,6 @@
     [
       "Hip: C++ Heterogeneous-Compute Interface for Portability",
       "https://github.com/ROCm/hip"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 06:46:41",
-      "https://news.ycombinator.com/item?id=44142359"
-    ],
-    [
-      "Writing your own C++ standard library part 2",
-      "https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html"
     ]
   ],
   [
