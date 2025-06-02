@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-02, 19:15:43](https://news.ycombinator.com/item?id=44162042) - [Can I stop drone delivery companies flying over my property?](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/)
 * [2025-06-02, 18:58:47](https://news.ycombinator.com/item?id=44161894) - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
 * [2025-06-02, 17:44:28](https://news.ycombinator.com/item?id=44161271) - [Disaster awaits if we don't secure IoT now](https://spectrum.ieee.org/iot-security-root-of-trust)
 * [2025-06-02, 17:26:02](https://news.ycombinator.com/item?id=44161103) - [Decorative Text Within HTML](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/)
@@ -24,7 +25,6 @@
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 * [2025-06-02, 01:54:33](https://news.ycombinator.com/item?id=44155247) - [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
 * [2025-06-01, 21:57:35](https://news.ycombinator.com/item?id=44154032) - [The Visual World of 'Samurai Jack'](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
-* [2025-06-01, 21:02:17](https://news.ycombinator.com/item?id=44153732) - [The rise of judgement over technical skill](https://notsocommonthoughts.com/blog/ai-and-judgement/)
 * [2025-05-31, 19:09:09](https://news.ycombinator.com/item?id=44146339) - [Intelligent Agent Technology: Open Sesame! (1993)](https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/)
 * [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
 * [2025-05-29, 22:16:18](https://news.ycombinator.com/item?id=44130915) - [The Atomic Airplane](https://whatisnuclear.com/the-story-of-the-atomic-airplane.html)

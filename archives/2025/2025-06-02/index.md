@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 19:15:43](https://news.ycombinator.com/item?id=44162042) - [Can I stop drone delivery companies flying over my property?](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/)
 * [2025-06-02, 18:58:47](https://news.ycombinator.com/item?id=44161894) - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
 * [2025-06-02, 17:44:28](https://news.ycombinator.com/item?id=44161271) - [Disaster awaits if we don't secure IoT now](https://spectrum.ieee.org/iot-security-root-of-trust)
 * [2025-06-02, 17:26:02](https://news.ycombinator.com/item?id=44161103) - [Decorative Text Within HTML](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/)
