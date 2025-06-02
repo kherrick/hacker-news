@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-02, 03:58:58](https://news.ycombinator.com/item?id=44155741) - [Show HN: MBCompass - Android Compass App](https://github.com/MubarakNative/MBCompass)
+* [2025-06-02, 03:58:58](https://news.ycombinator.com/item?id=44155741) - [Show HN: MBCompass – Android Compass App](https://github.com/MubarakNative/MBCompass)
 * [2025-06-02, 02:29:45](https://news.ycombinator.com/item?id=44155391) - [How Can AI Researchers Save Energy? By Going Backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
 * [2025-06-02, 01:54:33](https://news.ycombinator.com/item?id=44155247) - [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
 * [2025-06-02, 01:17:54](https://news.ycombinator.com/item?id=44155069) - [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
@@ -20,7 +20,7 @@
 * [2025-06-01, 03:43:00](https://news.ycombinator.com/item?id=44148524) - [RenderFormer: Neural rendering of triangle meshes with global illumination](https://microsoft.github.io/renderformer/)
 * [2025-06-01, 00:58:00](https://news.ycombinator.com/item?id=44147945) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-05-31, 06:46:41](https://news.ycombinator.com/item?id=44142359) - [Writing your own C++ standard library part 2](https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html)
-* [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I Made a Chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
+* [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
 * [2025-05-31, 06:22:50](https://news.ycombinator.com/item?id=44142251) - [Estimating Logarithms](https://obrhubr.org/logarithm-estimation)
 * [2025-05-30, 05:48:25](https://news.ycombinator.com/item?id=44133279) - [How Generative Engine Optimization (GEO) rewrites the rules of search](https://a16z.com/geo-over-seo/)
 * [2025-05-29, 23:21:48](https://news.ycombinator.com/item?id=44131324) - [What works (and doesn't) selling formal methods](https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods)
