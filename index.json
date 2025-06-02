@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 22:03:50",
+      "https://news.ycombinator.com/item?id=44163618"
+    ],
+    [
+      "Teaching Program Verification in Dafny at Amazon (2023)",
+      "https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 21:50:15",
       "https://news.ycombinator.com/item?id=44163496"
     ],
@@ -227,16 +237,6 @@
     [
       "Show HN: Kan.bn – An open-source alterative to Trello",
       "https://github.com/kanbn/kan"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 09:27:26",
-      "https://news.ycombinator.com/item?id=44157077"
-    ],
-    [
-      "ReasoningGym: Reasoning Environments for RL with Verifiable Rewards",
-      "https://arxiv.org/abs/2505.24760"
     ]
   ],
   [
