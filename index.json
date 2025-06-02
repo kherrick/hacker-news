@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-02, 10:25:51",
+      "https://news.ycombinator.com/item?id=44157378"
+    ],
+    [
+      "TradExpert: Revolutionizing Trading with Mixture of Expert LLMs",
+      "https://arxiv.org/abs/2411.00782"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 10:23:08",
+      "https://news.ycombinator.com/item?id=44157365"
+    ],
+    [
+      "Computer science has one of the highest unemployment rates",
+      "https://www.newsweek.com/computer-science-popular-college-major-has-one-highest-unemployment-rates-2076514"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 09:34:26",
       "https://news.ycombinator.com/item?id=44157116"
     ],
     [
       "Understanding Consistency in Databases: Beyond the Basics",
       "https://medium.com/@lucas01/understanding-consistency-in-databases-beyond-the-basics-293013a50481"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 09:29:02",
+      "https://news.ycombinator.com/item?id=44157086"
+    ],
+    [
+      "Awesome-ArXiv: curated tools for discovering and working with ArXiv papers",
+      "https://github.com/artnitolog/awesome-arxiv"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-06-02, 04:05:26",
-      "https://news.ycombinator.com/item?id=44155761"
-    ],
-    [
-      "Is \"The Phoenician Scheme\" Wes Anderson's Most Emotional Film?",
-      "https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review"
-    ]
-  ],
-  [
-    [
       "2025-06-02, 04:01:00",
       "https://news.ycombinator.com/item?id=44155746"
     ],
@@ -87,16 +107,6 @@
     [
       "LFSR CPU Running Forth",
       "https://github.com/howerj/lfsr-vhdl"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 02:37:35",
-      "https://news.ycombinator.com/item?id=44155426"
-    ],
-    [
-      "Show HN: I built an AI Agent that uses the iPhone",
-      "https://github.com/rounak/PhoneAgent"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Zach Attack Scratch 'N Solve Puzzle Pack",
       "https://coincidence.games/zach-attack/"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 19:39:36",
-      "https://news.ycombinator.com/item?id=44129495"
-    ],
-    [
-      "When Fine-Tuning Makes Sense: A Developer's Guide",
-      "https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started"
     ]
   ],
   [
