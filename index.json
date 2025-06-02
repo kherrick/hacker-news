@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44157701"
     ],
     [
-      "Whatever Happened to Cheap EReaders?",
+      "Whatever happened to cheap eReaders?",
       "https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/"
     ]
   ],
@@ -21,11 +21,31 @@
   ],
   [
     [
+      "2025-06-02, 11:09:45",
+      "https://news.ycombinator.com/item?id=44157584"
+    ],
+    [
+      "Show HN: Fast Random Library for C++17",
+      "https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 11:06:50",
+      "https://news.ycombinator.com/item?id=44157568"
+    ],
+    [
+      "Our production Ruby on Rails stack",
+      "https://attendlist.com/blog/production-rails-stack"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 10:25:51",
       "https://news.ycombinator.com/item?id=44157378"
     ],
     [
-      "TradExpert: Revolutionizing Trading with Mixture of Expert LLMs",
+      "TradeExpert, a trading framework that employs a mix of experts",
       "https://arxiv.org/abs/2411.00782"
     ]
   ],
@@ -71,22 +91,12 @@
   ],
   [
     [
-      "2025-06-02, 07:29:02",
-      "https://news.ycombinator.com/item?id=44156467"
+      "2025-06-02, 04:05:26",
+      "https://news.ycombinator.com/item?id=44155761"
     ],
     [
-      "Show HN: System Prompt Learning – LLMs Learn Problem-Solving from Experience",
-      "https://news.ycombinator.com/item?id=44156467"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 06:30:30",
-      "https://news.ycombinator.com/item?id=44156239"
-    ],
-    [
-      "Show HN: Yet another tmux cheat sheet",
-      "https://tmuxai.dev/tmux-cheat-sheet/"
+      "Is \"The Phoenician Scheme\" Wes Anderson's Most Emotional Film?",
+      "https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-06-01, 23:22:32",
-      "https://news.ycombinator.com/item?id=44154511"
-    ],
-    [
-      "Show HN: Moon Phase Algorithms for C, Lua, Awk, JavaScript, etc.",
-      "https://github.com/oliverkwebb/moonphase"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 21:57:35",
       "https://news.ycombinator.com/item?id=44154032"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=44153732"
     ],
     [
-      "The Rise of Judgement over Technical Skill",
+      "The rise of judgement over technical skill",
       "https://notsocommonthoughts.com/blog/ai-and-judgement/"
     ]
   ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-06-01, 00:58:00",
-      "https://news.ycombinator.com/item?id=44147945"
+      "2025-05-31, 10:18:40",
+      "https://news.ycombinator.com/item?id=44143253"
     ],
     [
-      "Progressive JSON",
-      "https://overreacted.io/progressive-json/"
+      "Cuss: Map of profane words to a rating of sureness",
+      "https://github.com/words/cuss"
     ]
   ],
   [
