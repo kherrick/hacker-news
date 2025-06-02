@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-02, 20:01:49](https://news.ycombinator.com/item?id=44162443) - [Snowflake to Buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
 * [2025-06-02, 19:52:46](https://news.ycombinator.com/item?id=44162363) - [Show HN: I build one absurd web project every month](https://absurd.website)
 * [2025-06-02, 19:48:36](https://news.ycombinator.com/item?id=44162327) - [Typing 118 WPM Broke My Brain in the Right Ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
 * [2025-06-02, 18:58:47](https://news.ycombinator.com/item?id=44161894) - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
 * [2025-06-02, 17:26:02](https://news.ycombinator.com/item?id=44161103) - [Decorative Text Within HTML](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/)
 * [2025-06-02, 17:00:38](https://news.ycombinator.com/item?id=44160870) - [Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer)
-* [2025-06-02, 16:36:46](https://news.ycombinator.com/item?id=44160573) - [The Unreliability of LLMs and What Lies Ahead](https://verissimo.substack.com/p/verissimo-monthly-may-2025)
 * [2025-06-02, 16:16:11](https://news.ycombinator.com/item?id=44160358) - [Arcol simplifies building design with browser-based modeling](https://www.arcol.io/)
 * [2025-06-02, 15:49:08](https://news.ycombinator.com/item?id=44160073) - [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
-* [2025-06-02, 15:23:01](https://news.ycombinator.com/item?id=44159798) - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
 * [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark (student project)](https://github.com/lixiasky/vanta)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159525) - [Ask HN: Who wants to be hired? (June 2025)](https://news.ycombinator.com/item?id=44159525)
@@ -28,6 +27,7 @@
 * [2025-05-31, 13:41:44](https://news.ycombinator.com/item?id=44144240) - [Bohemians at the Gate?](https://inferencemagazine.substack.com/p/bohemians-at-the-gate)
 * [2025-05-31, 10:18:40](https://news.ycombinator.com/item?id=44143253) - [Cuss: Map of profane words to a rating of sureness](https://github.com/words/cuss)
 * [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
+* [2025-05-29, 22:16:18](https://news.ycombinator.com/item?id=44130915) - [The Atomic Airplane](https://whatisnuclear.com/the-story-of-the-atomic-airplane.html)
 * [2025-05-29, 16:31:15](https://news.ycombinator.com/item?id=44127653) - [Show HN: Onlook – Open-source, visual-first Cursor for designers](https://github.com/onlook-dev/onlook)
 * [2025-05-29, 12:25:19](https://news.ycombinator.com/item?id=44125334) - [EasyTier – P2P mesh VPN written in Rust using Tokio](https://easytier.cn/en/)
 
