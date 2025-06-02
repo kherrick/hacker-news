@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 23:22:32](https://news.ycombinator.com/item?id=44154511) - [Show HN: Moon Phase Algorithms for C, Lua, Awk, JavaScript, etc.](https://github.com/oliverkwebb/moonphase)
 * [2025-06-01, 22:19:02](https://news.ycombinator.com/item?id=44154162) - [Ask HN: Why are dating apps so bad? Why hasn't anyone made a good one?](https://news.ycombinator.com/item?id=44154162)
 * [2025-06-01, 21:57:35](https://news.ycombinator.com/item?id=44154032) - [The Visual World of 'Samurai Jack'](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
 * [2025-06-01, 21:36:15](https://news.ycombinator.com/item?id=44153907) - [Far-right websites got hacked and defaced; 6.5 terabytes of data got leaked](https://ddosecrets.com/article/psyclone-media)
