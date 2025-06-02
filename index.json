@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-02, 09:34:26",
+      "https://news.ycombinator.com/item?id=44157116"
+    ],
+    [
+      "Understanding Consistency in Databases: Beyond the Basics",
+      "https://medium.com/@lucas01/understanding-consistency-in-databases-beyond-the-basics-293013a50481"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 09:27:26",
+      "https://news.ycombinator.com/item?id=44157077"
+    ],
+    [
+      "ReasoningGym: Reasoning Environments for RL with Verifiable Rewards",
+      "https://arxiv.org/abs/2505.24760"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 08:59:37",
       "https://news.ycombinator.com/item?id=44156935"
     ],
@@ -17,16 +37,6 @@
     [
       "Show HN: System Prompt Learning – LLMs Learn Problem-Solving from Experience",
       "https://news.ycombinator.com/item?id=44156467"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 06:30:30",
-      "https://news.ycombinator.com/item?id=44156239"
-    ],
-    [
-      "Show HN: Yet another tmux cheat sheet",
-      "https://tmuxai.dev/tmux-cheat-sheet/"
     ]
   ],
   [
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2025-05-29, 23:18:22",
-      "https://news.ycombinator.com/item?id=44131307"
-    ],
-    [
-      "Revisiting Loop Recognition in C++ in Rust",
-      "https://blomqu.ist/posts/2025/loop-recognition/"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 22:58:08",
       "https://news.ycombinator.com/item?id=44131194"
     ],
     [
       "The Zach Attack Scratch 'N Solve Puzzle Pack",
       "https://coincidence.games/zach-attack/"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 19:39:36",
-      "https://news.ycombinator.com/item?id=44129495"
-    ],
-    [
-      "When Fine-Tuning Makes Sense: A Developer's Guide",
-      "https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "HeidiSQL Available Also for Linux",
       "https://www.heidisql.com/forum.php?t=44068"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 12:25:19",
+      "https://news.ycombinator.com/item?id=44125334"
+    ],
+    [
+      "EasyTier – P2P mesh VPN written in Rust using Tokio",
+      "https://easytier.cn/en/"
     ]
   ]
 ]
