@@ -7,6 +7,7 @@
 * [2025-06-02, 04:05:26](https://news.ycombinator.com/item?id=44155761) - [Is \"The Phoenician Scheme\" Wes Anderson's Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 * [2025-06-02, 03:35:07](https://news.ycombinator.com/item?id=44155635) - [LFSR CPU Running Forth](https://github.com/howerj/lfsr-vhdl)
+* [2025-06-02, 02:37:35](https://news.ycombinator.com/item?id=44155426) - [Show HN: I built an AI Agent that uses the iPhone](https://github.com/rounak/PhoneAgent)
 * [2025-06-02, 02:29:45](https://news.ycombinator.com/item?id=44155391) - [How can AI researchers save energy? By going backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
 * [2025-06-02, 01:54:33](https://news.ycombinator.com/item?id=44155247) - [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
 * [2025-06-02, 01:17:54](https://news.ycombinator.com/item?id=44155069) - [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
@@ -29,7 +30,6 @@
 * [2025-05-29, 18:23:04](https://news.ycombinator.com/item?id=44128751) - [A new generation of Tailscale access controls](https://tailscale.com/blog/grants-ga)
 * [2025-05-29, 15:27:51](https://news.ycombinator.com/item?id=44126997) - [Gabon longs to cash in on sacred hallucinogenic remedy](https://phys.org/news/2025-05-gabon-cash-sacred-hallucinogenic-remedy.html)
 * [2025-05-29, 13:16:00](https://news.ycombinator.com/item?id=44125793) - [HeidiSQL Available Also for Linux](https://www.heidisql.com/forum.php?t=44068)
-* [2025-05-29, 08:04:39](https://news.ycombinator.com/item?id=44123987) - [Nitrogen Triiodide (2016)](https://www.fourmilab.ch/documents/chemistry/NI3/)
 
 ## [Archives](archives/index.md)
 
