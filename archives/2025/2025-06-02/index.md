@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 07:52:35](https://news.ycombinator.com/item?id=44156570) - [AI-first – We're just 6 months away from AGI](https://revontulet.dev/p/2025-ai-first/)
 * [2025-06-02, 07:11:00](https://news.ycombinator.com/item?id=44156381) - [Time to Rethink PostgreSQL Storage](https://www.ubicloud.com/blog/time-to-rethink-postgresql-storage)
 * [2025-06-02, 06:54:45](https://news.ycombinator.com/item?id=44156321) - [0.9999 ≊ 1](https://lcamtuf.substack.com/p/09999-1)
 * [2025-06-02, 06:49:00](https://news.ycombinator.com/item?id=44156297) - [Euro execs mull use of US clouds](https://www.theregister.com/2025/05/28/uk_execs_cloud/)
 * [2025-06-02, 06:00:38](https://news.ycombinator.com/item?id=44156142) - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
+* [2025-06-02, 05:45:25](https://news.ycombinator.com/item?id=44156092) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 * [2025-06-02, 04:05:26](https://news.ycombinator.com/item?id=44155761) - [Is \"The Phoenician Scheme\" Wes Anderson's Most Emotional Film?](https://www.newyorker.com/magazine/2025/06/09/the-phoenician-scheme-movie-review)
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 * [2025-06-02, 03:58:58](https://news.ycombinator.com/item?id=44155741) - [Show HN: MBCompass - Android Compass App](https://github.com/MubarakNative/MBCompass)
