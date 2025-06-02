@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 06:54:45",
+      "https://news.ycombinator.com/item?id=44156321"
+    ],
+    [
+      "0.9999 ≊ 1",
+      "https://lcamtuf.substack.com/p/09999-1"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 06:00:38",
       "https://news.ycombinator.com/item?id=44156142"
     ],
@@ -167,16 +177,6 @@
     [
       "How I like to install NixOS (declaratively)",
       "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 03:43:00",
-      "https://news.ycombinator.com/item?id=44148524"
-    ],
-    [
-      "RenderFormer: Neural rendering of triangle meshes with global illumination",
-      "https://microsoft.github.io/renderformer/"
     ]
   ],
   [
