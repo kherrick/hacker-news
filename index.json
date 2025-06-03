@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-03, 08:06:28",
+      "https://news.ycombinator.com/item?id=44167592"
+    ],
+    [
+      "Quarkdown: A modern Markdown-based typesetting system",
+      "https://github.com/iamgio/quarkdown"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 07:01:08",
       "https://news.ycombinator.com/item?id=44167202"
     ],
@@ -177,16 +187,6 @@
     [
       "Cloudlflare builds OAuth with Claude and publishes all the prompts",
       "https://github.com/cloudflare/workers-oauth-provider/"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 12:58:10",
-      "https://news.ycombinator.com/item?id=44158353"
-    ],
-    [
-      "Ask HN: How do I learn robotics in 2025?",
-      "https://news.ycombinator.com/item?id=44158353"
     ]
   ],
   [
