@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
 * [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also a lot weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
 * [2025-06-03, 03:38:15](https://news.ycombinator.com/item?id=44166033) - [IT workers struggling in New Zealand's tight job market](https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market)
 * [2025-06-03, 02:41:58](https://news.ycombinator.com/item?id=44165754) - [Britain's biggest companies are preparing for a third world war](https://www.telegraph.co.uk/business/2025/06/02/how-britains-biggest-companies-are-preparing-for-war/)

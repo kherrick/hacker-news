@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
 * [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
 * [2025-06-03, 03:38:15](https://news.ycombinator.com/item?id=44166033) - [IT workers struggling in New Zealand's tight job market](https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market)
-* [2025-06-03, 02:41:58](https://news.ycombinator.com/item?id=44165754) - [Britain's biggest companies are preparing for a third world war](https://www.telegraph.co.uk/business/2025/06/02/how-britains-biggest-companies-are-preparing-for-war/)
 * [2025-06-02, 22:29:30](https://news.ycombinator.com/item?id=44163877) - [Largest punk archive to find new home at MTSU's Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/)
 * [2025-06-02, 22:03:50](https://news.ycombinator.com/item?id=44163618) - [Teaching Program Verification in Dafny at Amazon (2023)](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
 * [2025-06-02, 21:50:15](https://news.ycombinator.com/item?id=44163496) - [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
