@@ -12,6 +12,7 @@
 * [2025-06-03, 12:02:54](https://news.ycombinator.com/item?id=44169050) - [NYC Drivers Who Run Red Lights Get Tickets. E-Bike Riders Get Court Dates](https://www.nytimes.com/2025/05/24/nyregion/ebikes-scooters-cyclists-nyc.html)
 * [2025-06-03, 12:00:53](https://news.ycombinator.com/item?id=44169039) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-06-03, 11:30:44](https://news.ycombinator.com/item?id=44168835) - [Claude has learned how to jailbreak Cursor](https://forum.cursor.com/t/important-claude-has-learned-how-to-jailbreak-cursor/96702)
+* [2025-06-03, 11:15:41](https://news.ycombinator.com/item?id=44168705) - [What Is \"Seeing\" in Astrophotography? The Science Behind Atmospheric Turbulence](https://astroimagery.com/astronomy/what-does-seeing-mean-in-astrophotography/)
 * [2025-06-03, 11:08:51](https://news.ycombinator.com/item?id=44168658) - [Ukraine's Autonomous Killer Drones Defeat Electronic Warfare](https://spectrum.ieee.org/ukraine-killer-drones)
 * [2025-06-03, 10:06:37](https://news.ycombinator.com/item?id=44168265) - [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing)
 * [2025-06-03, 10:05:29](https://news.ycombinator.com/item?id=44168256) - [There should be no Computer Art (1971)](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/)
