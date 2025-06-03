@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-03, 21:31:56",
+      "https://news.ycombinator.com/item?id=44174965"
+    ],
+    [
+      "Deep learning gets the glory, deep fact checking gets ignored",
+      "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 21:01:10",
       "https://news.ycombinator.com/item?id=44174681"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2025-06-03, 18:49:33",
-      "https://news.ycombinator.com/item?id=44173291"
+      "2025-06-03, 18:46:40",
+      "https://news.ycombinator.com/item?id=44173267"
     ],
     [
-      "Don't just check errors, handle them gracefully (2016)",
-      "https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully"
+      "AWS forms EU-based cloud unit as customers fret",
+      "https://www.theregister.com/2025/06/03/aws_european_sovereign_cloud/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Implementing a Forth",
       "https://ratfactor.com/forth/implementing"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 07:26:30",
-      "https://news.ycombinator.com/item?id=44142592"
-    ],
-    [
-      "A High-Level View of TLA+",
-      "https://lamport.azurewebsites.net/tla/high-level-view.html"
     ]
   ]
 ]
