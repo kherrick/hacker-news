@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 09:55:55](https://news.ycombinator.com/item?id=44168201) - [The Shape of the Essay Field](https://paulgraham.com/field.html)
 * [2025-06-03, 09:04:32](https://news.ycombinator.com/item?id=44167922) - [Ask HN: Cloud vs. Edge Computing–Why Choose a Local NAS?](https://news.ycombinator.com/item?id=44167922)
 * [2025-06-03, 09:00:42](https://news.ycombinator.com/item?id=44167903) - [The Creepy, Surprisingly Routine Business of Animal Cloning](https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/)
 * [2025-06-03, 08:06:28](https://news.ycombinator.com/item?id=44167592) - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
