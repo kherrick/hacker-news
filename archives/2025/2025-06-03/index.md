@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 07:01:08](https://news.ycombinator.com/item?id=44167202) - [Demodesk (YC W19) Is Hiring Rails Engineers](https://demodesk.com/careers)
+* [2025-06-03, 06:16:00](https://news.ycombinator.com/item?id=44166908) - [Poison Pill: Is the killer behind 1982 Tylenol poisonings still on the loose?](https://www.trulyadventure.us/poison-pill)
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
 * [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also a lot weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
 * [2025-06-03, 03:38:15](https://news.ycombinator.com/item?id=44166033) - [IT workers struggling in New Zealand's tight job market](https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market)
