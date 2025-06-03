@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-06-03, 18:46:40",
-      "https://news.ycombinator.com/item?id=44173267"
-    ],
-    [
-      "AWS forms EU-based cloud unit as customers fret",
-      "https://www.theregister.com/2025/06/03/aws_european_sovereign_cloud/"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 18:39:29",
       "https://news.ycombinator.com/item?id=44173193"
     ],
@@ -117,6 +107,16 @@
     [
       "Morph (YC S23) Is Hiring a ML Engineer",
       "https://news.ycombinator.com/item?id=44172144"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 16:45:15",
+      "https://news.ycombinator.com/item?id=44171959"
+    ],
+    [
+      "Technical Guide to System Calls: Implementation and Signal Handling in Modern OS",
+      "https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-06-03, 10:05:29",
+      "https://news.ycombinator.com/item?id=44168256"
+    ],
+    [
+      "There should be no Computer Art (1971)",
+      "https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 09:55:55",
       "https://news.ycombinator.com/item?id=44168201"
     ],
@@ -287,16 +297,6 @@
     [
       "GUIs are built at least 2.5 times",
       "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 07:38:30",
-      "https://news.ycombinator.com/item?id=44142652"
-    ],
-    [
-      "Implementing a Forth",
-      "https://ratfactor.com/forth/implementing"
     ]
   ]
 ]
