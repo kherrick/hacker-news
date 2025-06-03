@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-03, 17:00:58](https://news.ycombinator.com/item?id=44172144) - [Morph (YC S23) Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)
 * [2025-06-03, 16:50:29](https://news.ycombinator.com/item?id=44172017) - [Show HN: Ultra-lightweight chunker library with emoji support](https://github.com/ushakov-igor/chonkify)
 * [2025-06-03, 16:18:45](https://news.ycombinator.com/item?id=44171677) - [(On | No) Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
@@ -16,6 +17,7 @@
 * [2025-06-03, 14:41:47](https://news.ycombinator.com/item?id=44170657) - [Show HN: PinSend – Share text between devices using a PIN(P2P, no login)](https://pinsend.app)
 * [2025-06-03, 14:36:49](https://news.ycombinator.com/item?id=44170600) - [Making Magic with MCP: From Data Retrieval to Real Analysis and Insights](https://jellyfish.co/blog/how-ably-makes-magic-with-jellyfishs-mcp/)
 * [2025-06-03, 12:56:27](https://news.ycombinator.com/item?id=44169504) - [KDE for Windows 10 Exiles – Upgrade your software, not your computer](https://kde.org/for/w10-exiles/)
+* [2025-06-03, 12:47:30](https://news.ycombinator.com/item?id=44169413) - [Vision Language Models Are Biased](https://vlmsarebiased.github.io/)
 * [2025-06-03, 12:35:06](https://news.ycombinator.com/item?id=44169314) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 * [2025-06-03, 12:14:29](https://news.ycombinator.com/item?id=44169132) - [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
 * [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Meta and Yandex are de-anonymizing Android users' web browsing identifiers](https://arstechnica.com/security/2025/06/headline-to-come/)
