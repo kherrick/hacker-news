@@ -51,32 +51,22 @@
   ],
   [
     [
-      "2025-06-03, 18:46:40",
-      "https://news.ycombinator.com/item?id=44173267"
+      "2025-06-03, 18:39:29",
+      "https://news.ycombinator.com/item?id=44173193"
     ],
     [
-      "AWS forms EU-based cloud unit as customers fret",
-      "https://www.theregister.com/2025/06/03/aws_european_sovereign_cloud/"
+      "CVE-2024-47081: Netrc credential leak in PSF requests library",
+      "https://seclists.org/fulldisclosure/2025/Jun/2"
     ]
   ],
   [
     [
-      "2025-06-03, 18:16:31",
-      "https://news.ycombinator.com/item?id=44172948"
+      "2025-06-03, 18:13:24",
+      "https://news.ycombinator.com/item?id=44172915"
     ],
     [
-      "The Fannie and Freddie Stakes Are High",
-      "https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 18:14:53",
-      "https://news.ycombinator.com/item?id=44172928"
-    ],
-    [
-      "Did \"Big Oil\" Sell Us on a Recycling Scam?",
-      "https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/"
+      "Where in the world are babies at the lowest risk of dying?",
+      "https://ourworldindata.org/where-are-babies-at-lowest-risk-of-dying"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Implementing a Forth",
       "https://ratfactor.com/forth/implementing"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 07:26:30",
+      "https://news.ycombinator.com/item?id=44142592"
+    ],
+    [
+      "A High-Level View of TLA+",
+      "https://lamport.azurewebsites.net/tla/high-level-view.html"
     ]
   ]
 ]
