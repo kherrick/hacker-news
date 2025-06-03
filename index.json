@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-03, 18:56:55",
+      "https://news.ycombinator.com/item?id=44173377"
+    ],
+    [
+      "When the sun dies, could life survive on the Jupiter ocean moon Europa?",
+      "https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 18:49:33",
+      "https://news.ycombinator.com/item?id=44173291"
+    ],
+    [
+      "Don't just check errors, handle them gracefully (2016)",
+      "https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 18:16:31",
       "https://news.ycombinator.com/item?id=44172948"
     ],
     [
       "The Fannie and Freddie Stakes Are High",
       "https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 18:14:53",
+      "https://news.ycombinator.com/item?id=44172928"
+    ],
+    [
+      "Did \"Big Oil\" Sell Us on a Recycling Scam?",
+      "https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Morph (YC S23) Is Hiring a ML Engineer",
       "https://news.ycombinator.com/item?id=44172144"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 16:50:29",
-      "https://news.ycombinator.com/item?id=44172017"
-    ],
-    [
-      "Show HN: Ultra-lightweight chunker library with emoji support",
-      "https://github.com/ushakov-igor/chonkify"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-06-02, 15:20:13",
-      "https://news.ycombinator.com/item?id=44159758"
-    ],
-    [
-      "Show HN: A toy version of Wireshark (student project)",
-      "https://github.com/lixiasky/vanta"
-    ]
-  ],
-  [
-    [
       "2025-06-02, 15:01:18",
       "https://news.ycombinator.com/item?id=44159528"
     ],
@@ -287,16 +297,6 @@
     [
       "How to Store Data on Paper?",
       "https://www.monperrus.net/martin/store-data-paper"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 06:43:27",
-      "https://news.ycombinator.com/item?id=44142343"
-    ],
-    [
-      "Sid Meier's Pirates – In-depth (2017)",
-      "https://shot97retro.blogspot.com/2017/12/sid-meiers-pirates-in-depth-written.html"
     ]
   ]
 ]
