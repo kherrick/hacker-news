@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-03, 21:01:10](https://news.ycombinator.com/item?id=44174681) - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/?hl=en)
 * [2025-06-03, 21:00:50](https://news.ycombinator.com/item?id=44174676) - [Activeloop (YC S18) Is Hiring Senior Back End and AI Search Engineers(Onsite, MV)](https://careers.activeloop.ai/)
-* [2025-06-03, 20:51:41](https://news.ycombinator.com/item?id=44174592) - [Is AI Stealing Jobs? This Hiring Analyst Says Yes](https://www.inc.com/kit-eaton/is-ai-stealing-jobs-this-hiring-analyst-says-yes/91197705)
+* [2025-06-03, 20:57:29](https://news.ycombinator.com/item?id=44174643) - [Yoshua Bengio Launches LawZero: A New Nonprofit Advancing Safe-by-Design AI](https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai)
 * [2025-06-03, 20:46:34](https://news.ycombinator.com/item?id=44174540) - [Can adults grow new brain cells?](https://www.livescience.com/health/neuroscience/can-adults-grow-new-brain-cells)
 * [2025-06-03, 20:12:33](https://news.ycombinator.com/item?id=44174190) - [Show HN: AirAP AirPlay server - AirPlay to an iOS Device](https://github.com/neon443/AirAP)
 * [2025-06-03, 19:43:30](https://news.ycombinator.com/item?id=44173853) - [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
@@ -10,7 +11,6 @@
 * [2025-06-03, 18:56:55](https://news.ycombinator.com/item?id=44173377) - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
 * [2025-06-03, 18:49:33](https://news.ycombinator.com/item?id=44173291) - [Don't just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
 * [2025-06-03, 18:39:29](https://news.ycombinator.com/item?id=44173193) - [CVE-2024-47081: Netrc credential leak in PSF requests library](https://seclists.org/fulldisclosure/2025/Jun/2)
-* [2025-06-03, 18:13:24](https://news.ycombinator.com/item?id=44172915) - [Where in the world are babies at the lowest risk of dying?](https://ourworldindata.org/where-are-babies-at-lowest-risk-of-dying)
 * [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Localize React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
 * [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-03, 16:45:15](https://news.ycombinator.com/item?id=44171959) - [Technical Guide to System Calls: Implementation and Signal Handling in Modern OS](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html)
