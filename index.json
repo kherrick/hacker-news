@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-03, 09:04:32",
+      "https://news.ycombinator.com/item?id=44167922"
+    ],
+    [
+      "Ask HN: Cloud vs. Edge Computing–Why Choose a Local NAS?",
+      "https://news.ycombinator.com/item?id=44167922"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 09:00:42",
+      "https://news.ycombinator.com/item?id=44167903"
+    ],
+    [
+      "The Creepy, Surprisingly Routine Business of Animal Cloning",
+      "https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 08:06:28",
       "https://news.ycombinator.com/item?id=44167592"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2025-06-03, 07:36:04",
+      "https://news.ycombinator.com/item?id=44167412"
+    ],
+    [
+      "Stop Over-Thinking AI Subscriptions – Peter Steinberger",
+      "https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 07:01:08",
       "https://news.ycombinator.com/item?id=44167202"
     ],
     [
       "Demodesk (YC W19) Is Hiring Rails Engineers",
       "https://demodesk.com/careers"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 06:42:49",
+      "https://news.ycombinator.com/item?id=44167089"
+    ],
+    [
+      "Rsync's defaults are not always enough",
+      "https://rachelbythebay.com/w/2025/05/31/sync/"
     ]
   ],
   [
@@ -121,26 +161,6 @@
   ],
   [
     [
-      "2025-06-02, 19:48:36",
-      "https://news.ycombinator.com/item?id=44162327"
-    ],
-    [
-      "Typing 118 WPM broke my brain in the right ways",
-      "http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 18:58:47",
-      "https://news.ycombinator.com/item?id=44161894"
-    ],
-    [
-      "CVE 2025 31200",
-      "https://blog.noahhw.dev/posts/cve-2025-31200/"
-    ]
-  ],
-  [
-    [
       "2025-06-02, 15:42:31",
       "https://news.ycombinator.com/item?id=44160012"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-06-02, 01:54:33",
-      "https://news.ycombinator.com/item?id=44155247"
-    ],
-    [
-      "The Princeton INTERCAL Compiler's source code",
-      "https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code"
-    ]
-  ],
-  [
-    [
       "2025-05-31, 09:20:36",
       "https://news.ycombinator.com/item?id=44143045"
     ],
@@ -277,16 +287,6 @@
     [
       "Sid Meier's Pirates – In-depth (2017)",
       "https://shot97retro.blogspot.com/2017/12/sid-meiers-pirates-in-depth-written.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 06:14:47",
-      "https://news.ycombinator.com/item?id=44142224"
-    ],
-    [
-      "Ask HN: How do I learn practical electronic repair?",
-      "https://news.ycombinator.com/item?id=44142224"
     ]
   ],
   [
