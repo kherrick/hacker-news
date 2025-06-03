@@ -13,6 +13,7 @@
 * [2025-06-03, 17:00:58](https://news.ycombinator.com/item?id=44172144) - [Morph (YC S23) Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)
 * [2025-06-03, 16:45:15](https://news.ycombinator.com/item?id=44171959) - [Technical Guide to System Calls: Implementation and Signal Handling in Modern OS](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html)
 * [2025-06-03, 16:18:45](https://news.ycombinator.com/item?id=44171677) - [(On | No) Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
+* [2025-06-03, 15:19:34](https://news.ycombinator.com/item?id=44171022) - [Show HN: Asciilator.com](https://www.asciilator.com/)
 * [2025-06-03, 15:14:52](https://news.ycombinator.com/item?id=44170968) - [The Small World of English](https://www.inotherwords.app/linguabase/)
 * [2025-06-03, 14:45:52](https://news.ycombinator.com/item?id=44170694) - [Show HN: Controlling 3D models with voice and hand gestures](https://github.com/collidingScopes/3d-model-playground)
 * [2025-06-03, 14:41:47](https://news.ycombinator.com/item?id=44170657) - [Show HN: PinSend – Share text between devices using a PIN(P2P, no login)](https://pinsend.app)
@@ -27,9 +28,8 @@
 * [2025-06-03, 06:37:25](https://news.ycombinator.com/item?id=44167049) - [Fun with Futex](https://blog.fredrb.com/2025/06/02/futex-fun/)
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
 * [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
-* [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
-* [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
 * [2025-05-31, 09:20:36](https://news.ycombinator.com/item?id=44143045) - [GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
+* [2025-05-31, 07:38:30](https://news.ycombinator.com/item?id=44142652) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
 
 ## [Archives](archives/index.md)
 
