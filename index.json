@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-06-02, 20:41:24",
+      "https://news.ycombinator.com/item?id=44162814"
+    ],
+    [
+      "MonsterUI: Python library for building front end UIs quickly in FastHTML apps",
+      "https://www.answer.ai/posts/2025-01-15-monsterui.html"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 19:52:46",
       "https://news.ycombinator.com/item?id=44162363"
     ],
@@ -187,16 +197,6 @@
     [
       "Cloudlflare builds OAuth with Claude and publishes all the prompts",
       "https://github.com/cloudflare/workers-oauth-provider/"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 10:31:57",
-      "https://news.ycombinator.com/item?id=44157406"
-    ],
-    [
-      "ThorVG: Super Lightweight Vector Graphics Engine",
-      "https://www.thorvg.org/about"
     ]
   ],
   [
