@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-06-02, 20:41:24",
+      "https://news.ycombinator.com/item?id=44162814"
+    ],
+    [
+      "MonsterUI: Python library for building front end UIs quickly in FastHTML apps",
+      "https://www.answer.ai/posts/2025-01-15-monsterui.html"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 20:01:49",
       "https://news.ycombinator.com/item?id=44162443"
     ],
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2025-06-02, 14:24:54",
-      "https://news.ycombinator.com/item?id=44159166"
-    ],
-    [
-      "Cloudlflare builds OAuth with Claude and publishes all the prompts",
-      "https://github.com/cloudflare/workers-oauth-provider/commits/main/"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 13:36:40",
-      "https://news.ycombinator.com/item?id=44158720"
-    ],
-    [
-      "Reducing Cargo target directory size with -Zno-embed-metadata",
-      "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html"
-    ]
-  ],
-  [
-    [
       "2025-06-02, 12:58:10",
       "https://news.ycombinator.com/item?id=44158353"
     ],
@@ -217,6 +207,16 @@
     [
       "ThorVG: Super Lightweight Vector Graphics Engine",
       "https://www.thorvg.org/about"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 10:25:51",
+      "https://news.ycombinator.com/item?id=44157378"
+    ],
+    [
+      "TradeExpert, a trading framework that employs Mixture of Expert LLMs",
+      "https://arxiv.org/abs/2411.00782"
     ]
   ],
   [
