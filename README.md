@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also a lot weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
 * [2025-06-03, 03:38:15](https://news.ycombinator.com/item?id=44166033) - [IT workers struggling in New Zealand's tight job market](https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market)
+* [2025-06-03, 02:41:58](https://news.ycombinator.com/item?id=44165754) - [Britain's biggest companies are preparing for a third world war](https://www.telegraph.co.uk/business/2025/06/02/how-britains-biggest-companies-are-preparing-for-war/)
 * [2025-06-03, 02:35:31](https://news.ycombinator.com/item?id=44165723) - [Naked billboard that shocked the establishment – blazed a trail in the art world](https://www.bbc.com/culture/article/20250530-how-controversial-activist-group-guerrilla-girls-blazed-a-trail-in-the-art-world)
 * [2025-06-03, 01:33:41](https://news.ycombinator.com/item?id=44165346) - [GenAI Is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
 * [2025-06-02, 22:29:30](https://news.ycombinator.com/item?id=44163877) - [Largest punk archive to find new home at MTSU's Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/)
@@ -27,8 +29,6 @@
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 * [2025-06-02, 01:54:33](https://news.ycombinator.com/item?id=44155247) - [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
 * [2025-05-31, 07:20:15](https://news.ycombinator.com/item?id=44142565) - [How to Store Data on Paper?](https://www.monperrus.net/martin/store-data-paper)
-* [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
-* [2025-05-31, 06:14:47](https://news.ycombinator.com/item?id=44142224) - [Ask HN: How do I learn practical electronic repair?](https://news.ycombinator.com/item?id=44142224)
 * [2025-05-29, 16:31:15](https://news.ycombinator.com/item?id=44127653) - [Show HN: Onlook – Open-source, visual-first Cursor for designers](https://github.com/onlook-dev/onlook)
 
 ## [Archives](archives/index.md)
