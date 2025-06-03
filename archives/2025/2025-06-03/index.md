@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
 * [2025-06-03, 22:41:33](https://news.ycombinator.com/item?id=44175557) - [Show HN: Ephe – A Minimalist Open-Source Markdown Paper for Today](https://github.com/unvalley/ephe)
+* [2025-06-03, 22:35:08](https://news.ycombinator.com/item?id=44175510) - [Polish engineer creates postage stamp-sized 1980s Atari computer](https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/)
 * [2025-06-03, 22:01:17](https://news.ycombinator.com/item?id=44175255) - [Claude Pro users now have Research and Integrations](https://twitter.com/AnthropicAI/status/1929950252376998139)
 * [2025-06-03, 21:31:56](https://news.ycombinator.com/item?id=44174965) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 * [2025-06-03, 21:19:32](https://news.ycombinator.com/item?id=44174856) - [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
@@ -14,6 +15,7 @@
 * [2025-06-03, 20:51:41](https://news.ycombinator.com/item?id=44174592) - [Is AI Stealing Jobs? This Hiring Analyst Says Yes](https://www.inc.com/kit-eaton/is-ai-stealing-jobs-this-hiring-analyst-says-yes/91197705)
 * [2025-06-03, 20:46:34](https://news.ycombinator.com/item?id=44174540) - [Can adults grow new brain cells?](https://www.livescience.com/health/neuroscience/can-adults-grow-new-brain-cells)
 * [2025-06-03, 20:12:33](https://news.ycombinator.com/item?id=44174190) - [Show HN: AirAP AirPlay server - AirPlay to an iOS Device](https://github.com/neon443/AirAP)
+* [2025-06-03, 19:59:19](https://news.ycombinator.com/item?id=44174036) - [Show HN: Gradle plugin for faster Java compiles](https://github.com/elide-dev/gradle)
 * [2025-06-03, 19:43:30](https://news.ycombinator.com/item?id=44173853) - [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
 * [2025-06-03, 19:25:57](https://news.ycombinator.com/item?id=44173667) - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 19:17:50](https://news.ycombinator.com/item?id=44173581) - [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
