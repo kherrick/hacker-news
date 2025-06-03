@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 14:58:21](https://news.ycombinator.com/item?id=44170822) - [PlayDiffusion – Next-Generation AI Voice Inpainting Technology](https://playdiffusion.com)
+* [2025-06-03, 14:47:20](https://news.ycombinator.com/item?id=44170708) - [Mario Kart designers had to rethink everything to make it open world](https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki)
+* [2025-06-03, 14:45:52](https://news.ycombinator.com/item?id=44170694) - [Show HN: Controlling 3D models with voice and hand gestures](https://github.com/collidingScopes/3d-model-playground)
+* [2025-06-03, 14:36:49](https://news.ycombinator.com/item?id=44170600) - [Making Magic with MCP: From Data Retrieval to Real Analysis and Insights](https://jellyfish.co/blog/how-ably-makes-magic-with-jellyfishs-mcp/)
 * [2025-06-03, 12:56:27](https://news.ycombinator.com/item?id=44169504) - [KDE for Windows 10 Exiles – Upgrade your software, not your computer](https://kde.org/for/w10-exiles/)
 * [2025-06-03, 12:35:06](https://news.ycombinator.com/item?id=44169314) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 * [2025-06-03, 12:14:29](https://news.ycombinator.com/item?id=44169132) - [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
