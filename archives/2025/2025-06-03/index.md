@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 18:16:31](https://news.ycombinator.com/item?id=44172948) - [The Fannie and Freddie Stakes Are High](https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high)
 * [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Translate React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
 * [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-03, 17:00:58](https://news.ycombinator.com/item?id=44172144) - [Morph (YC S23) Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)

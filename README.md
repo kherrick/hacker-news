@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Translate React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
+* [2025-06-03, 18:16:31](https://news.ycombinator.com/item?id=44172948) - [The Fannie and Freddie Stakes Are High](https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high)
+* [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Localize React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
 * [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-03, 17:00:58](https://news.ycombinator.com/item?id=44172144) - [Morph (YC S23) Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)
 * [2025-06-03, 16:50:29](https://news.ycombinator.com/item?id=44172017) - [Show HN: Ultra-lightweight chunker library with emoji support](https://github.com/ushakov-igor/chonkify)
@@ -19,7 +20,6 @@
 * [2025-06-03, 06:37:25](https://news.ycombinator.com/item?id=44167049) - [Fun with Futex](https://blog.fredrb.com/2025/06/02/futex-fun/)
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
 * [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
-* [2025-06-02, 21:50:15](https://news.ycombinator.com/item?id=44163496) - [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
 * [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
 * [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark (student project)](https://github.com/lixiasky/vanta)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
