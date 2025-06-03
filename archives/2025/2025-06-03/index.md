@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 08:06:28](https://news.ycombinator.com/item?id=44167592) - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
 * [2025-06-03, 07:01:08](https://news.ycombinator.com/item?id=44167202) - [Demodesk (YC W19) Is Hiring Rails Engineers](https://demodesk.com/careers)
 * [2025-06-03, 06:16:00](https://news.ycombinator.com/item?id=44166908) - [Poison Pill: Is the killer behind 1982 Tylenol poisonings still on the loose?](https://www.trulyadventure.us/poison-pill)
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
