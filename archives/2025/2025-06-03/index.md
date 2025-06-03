@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 19:25:57](https://news.ycombinator.com/item?id=44173667) - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 19:17:50](https://news.ycombinator.com/item?id=44173581) - [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
 * [2025-06-03, 18:56:55](https://news.ycombinator.com/item?id=44173377) - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
 * [2025-06-03, 18:49:33](https://news.ycombinator.com/item?id=44173291) - [Don't just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
+* [2025-06-03, 18:46:40](https://news.ycombinator.com/item?id=44173267) - [AWS forms EU-based cloud unit as customers fret](https://www.theregister.com/2025/06/03/aws_european_sovereign_cloud/)
 * [2025-06-03, 18:16:31](https://news.ycombinator.com/item?id=44172948) - [The Fannie and Freddie Stakes Are High](https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high)
 * [2025-06-03, 18:14:53](https://news.ycombinator.com/item?id=44172928) - [Did \"Big Oil\" Sell Us on a Recycling Scam?](https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/)
 * [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Translate React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
