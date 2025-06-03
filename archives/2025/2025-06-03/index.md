@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 21:00:50](https://news.ycombinator.com/item?id=44174676) - [Activeloop (YC S18) Is Hiring Senior Back End and AI Search Engineers(Onsite, MV)](https://careers.activeloop.ai/)
+* [2025-06-03, 20:51:41](https://news.ycombinator.com/item?id=44174592) - [Is AI Stealing Jobs? This Hiring Analyst Says Yes](https://www.inc.com/kit-eaton/is-ai-stealing-jobs-this-hiring-analyst-says-yes/91197705)
+* [2025-06-03, 20:46:34](https://news.ycombinator.com/item?id=44174540) - [Can adults grow new brain cells?](https://www.livescience.com/health/neuroscience/can-adults-grow-new-brain-cells)
 * [2025-06-03, 20:12:33](https://news.ycombinator.com/item?id=44174190) - [Show HN: AirAP AirPlay server - AirPlay to an iOS Device](https://github.com/neon443/AirAP)
 * [2025-06-03, 19:43:30](https://news.ycombinator.com/item?id=44173853) - [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
 * [2025-06-03, 19:25:57](https://news.ycombinator.com/item?id=44173667) - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)

@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-03, 21:00:50](https://news.ycombinator.com/item?id=44174676) - [Activeloop (YC S18) Is Hiring Senior Back End and AI Search Engineers(Onsite, MV)](https://careers.activeloop.ai/)
+* [2025-06-03, 20:51:41](https://news.ycombinator.com/item?id=44174592) - [Is AI Stealing Jobs? This Hiring Analyst Says Yes](https://www.inc.com/kit-eaton/is-ai-stealing-jobs-this-hiring-analyst-says-yes/91197705)
+* [2025-06-03, 20:46:34](https://news.ycombinator.com/item?id=44174540) - [Can adults grow new brain cells?](https://www.livescience.com/health/neuroscience/can-adults-grow-new-brain-cells)
 * [2025-06-03, 20:12:33](https://news.ycombinator.com/item?id=44174190) - [Show HN: AirAP AirPlay server - AirPlay to an iOS Device](https://github.com/neon443/AirAP)
 * [2025-06-03, 19:43:30](https://news.ycombinator.com/item?id=44173853) - [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
 * [2025-06-03, 19:25:57](https://news.ycombinator.com/item?id=44173667) - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
@@ -10,10 +13,8 @@
 * [2025-06-03, 18:13:24](https://news.ycombinator.com/item?id=44172915) - [Where in the world are babies at the lowest risk of dying?](https://ourworldindata.org/where-are-babies-at-lowest-risk-of-dying)
 * [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Localize React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
 * [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
-* [2025-06-03, 17:00:58](https://news.ycombinator.com/item?id=44172144) - [Morph (YC S23) Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)
 * [2025-06-03, 16:45:15](https://news.ycombinator.com/item?id=44171959) - [Technical Guide to System Calls: Implementation and Signal Handling in Modern OS](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html)
 * [2025-06-03, 16:18:45](https://news.ycombinator.com/item?id=44171677) - [(On | No) Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
-* [2025-06-03, 15:19:34](https://news.ycombinator.com/item?id=44171022) - [Show HN: Asciilator.com](https://www.asciilator.com/)
 * [2025-06-03, 15:14:52](https://news.ycombinator.com/item?id=44170968) - [The Small World of English](https://www.inotherwords.app/linguabase/)
 * [2025-06-03, 14:45:52](https://news.ycombinator.com/item?id=44170694) - [Show HN: Controlling 3D models with voice and hand gestures](https://github.com/collidingScopes/3d-model-playground)
 * [2025-06-03, 14:41:47](https://news.ycombinator.com/item?id=44170657) - [Show HN: PinSend – Share text between devices using a PIN(P2P, no login)](https://pinsend.app)
@@ -29,7 +30,6 @@
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
 * [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
 * [2025-05-31, 09:20:36](https://news.ycombinator.com/item?id=44143045) - [GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
-* [2025-05-31, 07:38:30](https://news.ycombinator.com/item?id=44142652) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
 
 ## [Archives](archives/index.md)
 
