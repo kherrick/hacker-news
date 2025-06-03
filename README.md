@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-03, 03:38:15](https://news.ycombinator.com/item?id=44166033) - [IT workers struggling in New Zealand's tight job market](https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market)
+* [2025-06-03, 02:35:31](https://news.ycombinator.com/item?id=44165723) - [Naked billboard that shocked the establishment – blazed a trail in the art world](https://www.bbc.com/culture/article/20250530-how-controversial-activist-group-guerrilla-girls-blazed-a-trail-in-the-art-world)
 * [2025-06-03, 01:33:41](https://news.ycombinator.com/item?id=44165346) - [GenAI Is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
 * [2025-06-02, 22:29:30](https://news.ycombinator.com/item?id=44163877) - [Largest punk archive to find new home at MTSU's Center for Popular Music](https://mtsunews.com/worlds-largest-punk-archive-moves-to-center-for-popular-music/)
 * [2025-06-02, 22:03:50](https://news.ycombinator.com/item?id=44163618) - [Teaching Program Verification in Dafny at Amazon (2023)](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
@@ -15,7 +17,6 @@
 * [2025-06-02, 16:16:11](https://news.ycombinator.com/item?id=44160358) - [Arcol simplifies building design with browser-based modeling](https://www.arcol.io/)
 * [2025-06-02, 15:49:08](https://news.ycombinator.com/item?id=44160073) - [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
 * [2025-06-02, 15:42:31](https://news.ycombinator.com/item?id=44160012) - [Younger generations less likely to have dementia, study suggests](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study)
-* [2025-06-02, 15:23:01](https://news.ycombinator.com/item?id=44159798) - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
 * [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark (student project)](https://github.com/lixiasky/vanta)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159525) - [Ask HN: Who wants to be hired? (June 2025)](https://news.ycombinator.com/item?id=44159525)
@@ -25,7 +26,6 @@
 * [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Show HN: Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 * [2025-06-02, 01:54:33](https://news.ycombinator.com/item?id=44155247) - [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
-* [2025-05-31, 19:09:09](https://news.ycombinator.com/item?id=44146339) - [Intelligent Agent Technology: Open Sesame! (1993)](https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/)
 * [2025-05-31, 07:20:15](https://news.ycombinator.com/item?id=44142565) - [How to Store Data on Paper?](https://www.monperrus.net/martin/store-data-paper)
 * [2025-05-31, 06:24:01](https://news.ycombinator.com/item?id=44142259) - [I made a chair](https://milofultz.com/2025-05-27-i-made-a-chair.html)
 * [2025-05-31, 06:14:47](https://news.ycombinator.com/item?id=44142224) - [Ask HN: How do I learn practical electronic repair?](https://news.ycombinator.com/item?id=44142224)
