@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 12:56:27](https://news.ycombinator.com/item?id=44169504) - [KDE for Windows 10 Exiles – Upgrade your software, not your computer](https://kde.org/for/w10-exiles/)
+* [2025-06-03, 12:35:06](https://news.ycombinator.com/item?id=44169314) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
+* [2025-06-03, 12:14:29](https://news.ycombinator.com/item?id=44169132) - [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
 * [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Meta and Yandex are de-anonymizing Android users' web browsing identifiers](https://arstechnica.com/security/2025/06/headline-to-come/)
+* [2025-06-03, 12:05:47](https://news.ycombinator.com/item?id=44169069) - [Illicit crypto-miners pouncing on lazy DevOps configs leaving clouds vulnerable](https://www.theregister.com/2025/06/03/illicit_miners_hashicorp_tools/)
+* [2025-06-03, 12:02:54](https://news.ycombinator.com/item?id=44169050) - [NYC Drivers Who Run Red Lights Get Tickets. E-Bike Riders Get Court Dates](https://www.nytimes.com/2025/05/24/nyregion/ebikes-scooters-cyclists-nyc.html)
 * [2025-06-03, 12:00:53](https://news.ycombinator.com/item?id=44169039) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+* [2025-06-03, 11:30:44](https://news.ycombinator.com/item?id=44168835) - [Claude has learned how to jailbreak Cursor](https://forum.cursor.com/t/important-claude-has-learned-how-to-jailbreak-cursor/96702)
+* [2025-06-03, 11:08:51](https://news.ycombinator.com/item?id=44168658) - [Ukraine's Autonomous Killer Drones Defeat Electronic Warfare](https://spectrum.ieee.org/ukraine-killer-drones)
 * [2025-06-03, 10:06:37](https://news.ycombinator.com/item?id=44168265) - [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing)
 * [2025-06-03, 10:05:29](https://news.ycombinator.com/item?id=44168256) - [There should be no Computer Art (1971)](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/)
 * [2025-06-03, 09:55:55](https://news.ycombinator.com/item?id=44168201) - [The Shape of the Essay Field](https://paulgraham.com/field.html)
