@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-03, 18:56:55](https://news.ycombinator.com/item?id=44173377) - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
+* [2025-06-03, 18:49:33](https://news.ycombinator.com/item?id=44173291) - [Don't just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
 * [2025-06-03, 18:16:31](https://news.ycombinator.com/item?id=44172948) - [The Fannie and Freddie Stakes Are High](https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high)
+* [2025-06-03, 18:14:53](https://news.ycombinator.com/item?id=44172928) - [Did \"Big Oil\" Sell Us on a Recycling Scam?](https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/)
 * [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Localize React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
 * [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-03, 17:00:58](https://news.ycombinator.com/item?id=44172144) - [Morph (YC S23) Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)
-* [2025-06-03, 16:50:29](https://news.ycombinator.com/item?id=44172017) - [Show HN: Ultra-lightweight chunker library with emoji support](https://github.com/ushakov-igor/chonkify)
 * [2025-06-03, 16:18:45](https://news.ycombinator.com/item?id=44171677) - [(On | No) Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
 * [2025-06-03, 16:10:35](https://news.ycombinator.com/item?id=44171581) - [The initial version of the /etc./magic file used by the file(1) command](https://retrocomputing.stackexchange.com/questions/31722/where-can-i-find-the-initial-version-of-the-etc-magic-file-used-by-the-file1)
 * [2025-06-03, 15:14:52](https://news.ycombinator.com/item?id=44170968) - [The Small World of English](https://www.inotherwords.app/linguabase/)
@@ -21,7 +23,6 @@
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
 * [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
 * [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
-* [2025-06-02, 15:20:13](https://news.ycombinator.com/item?id=44159758) - [Show HN: A toy version of Wireshark (student project)](https://github.com/lixiasky/vanta)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
 * [2025-06-02, 14:24:54](https://news.ycombinator.com/item?id=44159166) - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/)
 * [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Show HN: Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
@@ -29,7 +30,6 @@
 * [2025-05-31, 07:38:30](https://news.ycombinator.com/item?id=44142652) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
 * [2025-05-31, 07:26:30](https://news.ycombinator.com/item?id=44142592) - [A High-Level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
 * [2025-05-31, 07:20:15](https://news.ycombinator.com/item?id=44142565) - [How to Store Data on Paper?](https://www.monperrus.net/martin/store-data-paper)
-* [2025-05-31, 06:43:27](https://news.ycombinator.com/item?id=44142343) - [Sid Meier's Pirates – In-depth (2017)](https://shot97retro.blogspot.com/2017/12/sid-meiers-pirates-in-depth-written.html)
 
 ## [Archives](archives/index.md)
 
