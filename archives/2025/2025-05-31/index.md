@@ -55,6 +55,7 @@
 * [2025-05-31, 06:23:25](https://news.ycombinator.com/item?id=44142255) - [Georgists Valued Land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
 * [2025-05-31, 06:23:24](https://news.ycombinator.com/item?id=44142254) - [Web dev is still fun if you want it to be](https://github.com/jchester/bobotw)
 * [2025-05-31, 06:22:50](https://news.ycombinator.com/item?id=44142251) - [Estimating Logarithms](https://obrhubr.org/logarithm-estimation)
+* [2025-05-31, 06:14:47](https://news.ycombinator.com/item?id=44142224) - [Ask HN: How do I learn practical electronic repair?](https://news.ycombinator.com/item?id=44142224)
 * [2025-05-31, 05:48:16](https://news.ycombinator.com/item?id=44142113) - [AI Responses May Include Mistakes](https://www.os2museum.com/wp/ai-responses-may-include-mistakes/)
 * [2025-05-31, 04:43:14](https://news.ycombinator.com/item?id=44141887) - [Simpler Backoff](https://commaok.xyz/post/simple-backoff/)
 * [2025-05-31, 03:49:22](https://news.ycombinator.com/item?id=44141728) - [Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)](https://www.cerebras.ai/press-release/maverick)
