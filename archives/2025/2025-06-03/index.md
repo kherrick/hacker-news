@@ -18,6 +18,7 @@
 * [2025-06-03, 14:45:52](https://news.ycombinator.com/item?id=44170694) - [Show HN: Controlling 3D models with voice and hand gestures](https://github.com/collidingScopes/3d-model-playground)
 * [2025-06-03, 14:41:47](https://news.ycombinator.com/item?id=44170657) - [Show HN: PinSend – Share text between devices using a PIN(P2P, no login)](https://pinsend.app)
 * [2025-06-03, 14:36:49](https://news.ycombinator.com/item?id=44170600) - [Making Magic with MCP: From Data Retrieval to Real Analysis and Insights](https://jellyfish.co/blog/how-ably-makes-magic-with-jellyfishs-mcp/)
+* [2025-06-03, 13:17:06](https://news.ycombinator.com/item?id=44169759) - [Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'](https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784)
 * [2025-06-03, 12:56:27](https://news.ycombinator.com/item?id=44169504) - [KDE for Windows 10 Exiles – Upgrade your software, not your computer](https://kde.org/for/w10-exiles/)
 * [2025-06-03, 12:47:30](https://news.ycombinator.com/item?id=44169413) - [Vision Language Models Are Biased](https://vlmsarebiased.github.io/)
 * [2025-06-03, 12:35:06](https://news.ycombinator.com/item?id=44169314) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
