@@ -47,6 +47,7 @@
 * [2025-05-31, 08:06:21](https://news.ycombinator.com/item?id=44142761) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
 * [2025-05-31, 07:41:53](https://news.ycombinator.com/item?id=44142667) - [Germany Is Using AI to Erase Pro-Palestinian Speech](https://jacobin.com/2025/05/germany-ai-palestine-israel-antisemitism)
 * [2025-05-31, 07:37:21](https://news.ycombinator.com/item?id=44142650) - [Hip: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm/hip)
+* [2025-05-31, 07:26:30](https://news.ycombinator.com/item?id=44142592) - [A High-Level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
 * [2025-05-31, 07:20:15](https://news.ycombinator.com/item?id=44142565) - [How to Store Data on Paper?](https://www.monperrus.net/martin/store-data-paper)
 * [2025-05-31, 07:14:00](https://news.ycombinator.com/item?id=44142519) - [Magic Ink: Information Software and the Graphical Interface](https://worrydream.com/MagicInk/)
 * [2025-05-31, 07:10:38](https://news.ycombinator.com/item?id=44142494) - [Google Duo will be replaced by Google Meet in Sept 2025](https://9to5google.com/2025/05/27/google-meet-legacy-duo-calling/)
