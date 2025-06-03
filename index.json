@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-03, 10:05:29",
+      "https://news.ycombinator.com/item?id=44168256"
+    ],
+    [
+      "There should be no Computer Art (1971)",
+      "https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 09:42:23",
       "https://news.ycombinator.com/item?id=44168134"
     ],
@@ -37,16 +47,6 @@
     [
       "Quarkdown: A modern Markdown-based typesetting system",
       "https://github.com/iamgio/quarkdown"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 07:36:04",
-      "https://news.ycombinator.com/item?id=44167412"
-    ],
-    [
-      "Stop Over-Thinking AI Subscriptions – Peter Steinberger",
-      "https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=44143045"
     ],
     [
-      "Why GUIs are built at least 2.5 times",
+      "GUIs are built at least 2.5 times",
       "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html"
     ]
   ],
