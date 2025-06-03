@@ -8,6 +8,7 @@
 * [2025-06-02, 21:50:15](https://news.ycombinator.com/item?id=44163496) - [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
 * [2025-06-02, 21:44:37](https://news.ycombinator.com/item?id=44163428) - [Japanese Scientists Develop Artificial Blood Compatible with All Blood Types](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/)
 * [2025-06-02, 21:09:53](https://news.ycombinator.com/item?id=44163063) - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
+* [2025-06-02, 20:41:24](https://news.ycombinator.com/item?id=44162814) - [MonsterUI: Python library for building front end UIs quickly in FastHTML apps](https://www.answer.ai/posts/2025-01-15-monsterui.html)
 * [2025-06-02, 20:01:49](https://news.ycombinator.com/item?id=44162443) - [Snowflake to Buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
 * [2025-06-02, 19:52:46](https://news.ycombinator.com/item?id=44162363) - [Show HN: I build one absurd web project every month](https://absurd.website)
 * [2025-06-02, 19:48:36](https://news.ycombinator.com/item?id=44162327) - [Typing 118 WPM Broke My Brain in the Right Ways](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring)
