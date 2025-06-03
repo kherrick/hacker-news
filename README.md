@@ -8,7 +8,6 @@
 * [2025-06-03, 19:43:30](https://news.ycombinator.com/item?id=44173853) - [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
 * [2025-06-03, 19:25:57](https://news.ycombinator.com/item?id=44173667) - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 19:17:50](https://news.ycombinator.com/item?id=44173581) - [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
-* [2025-06-03, 18:56:55](https://news.ycombinator.com/item?id=44173377) - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
 * [2025-06-03, 18:49:33](https://news.ycombinator.com/item?id=44173291) - [Don't just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
 * [2025-06-03, 18:39:29](https://news.ycombinator.com/item?id=44173193) - [CVE-2024-47081: Netrc credential leak in PSF requests library](https://seclists.org/fulldisclosure/2025/Jun/2)
 * [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Localize React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
@@ -30,6 +29,7 @@
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
 * [2025-06-03, 03:53:20](https://news.ycombinator.com/item?id=44166102) - [AI makes the humanities more important, but also weirder](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important)
 * [2025-05-31, 09:20:36](https://news.ycombinator.com/item?id=44143045) - [GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
+* [2025-05-31, 07:38:30](https://news.ycombinator.com/item?id=44142652) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
 
 ## [Archives](archives/index.md)
 
