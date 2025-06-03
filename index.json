@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-03, 22:01:17",
-      "https://news.ycombinator.com/item?id=44175255"
-    ],
-    [
-      "Claude Pro users now have Research and Integrations",
-      "https://twitter.com/AnthropicAI/status/1929950252376998139"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 21:31:56",
       "https://news.ycombinator.com/item?id=44174965"
     ],
@@ -107,6 +97,16 @@
     [
       "CVE-2024-47081: Netrc credential leak in PSF requests library",
       "https://seclists.org/fulldisclosure/2025/Jun/2"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 17:27:32",
+      "https://news.ycombinator.com/item?id=44172428"
+    ],
+    [
+      "Show HN: Localize React apps without rewriting code",
+      "https://github.com/lingodotdev/lingo.dev"
     ]
   ],
   [
