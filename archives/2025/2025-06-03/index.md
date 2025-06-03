@@ -19,6 +19,7 @@
 * [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-03, 17:00:58](https://news.ycombinator.com/item?id=44172144) - [Morph (YC S23) Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)
 * [2025-06-03, 16:50:29](https://news.ycombinator.com/item?id=44172017) - [Show HN: Ultra-lightweight chunker library with emoji support](https://github.com/ushakov-igor/chonkify)
+* [2025-06-03, 16:45:15](https://news.ycombinator.com/item?id=44171959) - [Technical Guide to System Calls: Implementation and Signal Handling in Modern OS](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html)
 * [2025-06-03, 16:18:45](https://news.ycombinator.com/item?id=44171677) - [(On | No) Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
 * [2025-06-03, 16:10:35](https://news.ycombinator.com/item?id=44171581) - [The initial version of the /etc./magic file used by the file(1) command](https://retrocomputing.stackexchange.com/questions/31722/where-can-i-find-the-initial-version-of-the-etc-magic-file-used-by-the-file1)
 * [2025-06-03, 15:14:52](https://news.ycombinator.com/item?id=44170968) - [The Small World of English](https://www.inotherwords.app/linguabase/)
