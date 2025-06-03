@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-03, 19:25:57",
+      "https://news.ycombinator.com/item?id=44173667"
+    ],
+    [
+      "Show HN: An Alfred workflow to open GCP services and browse resources within",
+      "https://github.com/dineshgowda24/alfred-gcp-workflow"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 19:17:50",
       "https://news.ycombinator.com/item?id=44173581"
     ],
@@ -27,6 +37,16 @@
     [
       "Don't just check errors, handle them gracefully (2016)",
       "https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 18:46:40",
+      "https://news.ycombinator.com/item?id=44173267"
+    ],
+    [
+      "AWS forms EU-based cloud unit as customers fret",
+      "https://www.theregister.com/2025/06/03/aws_european_sovereign_cloud/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-06-02, 09:47:48",
-      "https://news.ycombinator.com/item?id=44157177"
-    ],
-    [
-      "Show HN: Kan.bn – An open-source alterative to Trello",
-      "https://github.com/kanbn/kan"
-    ]
-  ],
-  [
-    [
       "2025-05-31, 09:20:36",
       "https://news.ycombinator.com/item?id=44143045"
     ],
@@ -287,16 +297,6 @@
     [
       "A High-Level View of TLA+",
       "https://lamport.azurewebsites.net/tla/high-level-view.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 07:20:15",
-      "https://news.ycombinator.com/item?id=44142565"
-    ],
-    [
-      "How to Store Data on Paper?",
-      "https://www.monperrus.net/martin/store-data-paper"
     ]
   ]
 ]
