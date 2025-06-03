@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-03, 12:56:27",
-      "https://news.ycombinator.com/item?id=44169504"
-    ],
-    [
-      "KDE for Windows 10 Exiles – Upgrade your software, not your computer",
-      "https://kde.org/for/w10-exiles/"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 12:35:06",
       "https://news.ycombinator.com/item?id=44169314"
     ],
@@ -51,32 +41,12 @@
   ],
   [
     [
-      "2025-06-03, 12:02:54",
-      "https://news.ycombinator.com/item?id=44169050"
-    ],
-    [
-      "NYC Drivers Who Run Red Lights Get Tickets. E-Bike Riders Get Court Dates",
-      "https://www.nytimes.com/2025/05/24/nyregion/ebikes-scooters-cyclists-nyc.html"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 12:00:53",
       "https://news.ycombinator.com/item?id=44169039"
     ],
     [
       "Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco",
       "https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 11:30:44",
-      "https://news.ycombinator.com/item?id=44168835"
-    ],
-    [
-      "Claude has learned how to jailbreak Cursor",
-      "https://forum.cursor.com/t/important-claude-has-learned-how-to-jailbreak-cursor/96702"
     ]
   ],
   [
@@ -157,6 +127,16 @@
     [
       "AI makes the humanities more important, but also weirder",
       "https://resobscura.substack.com/p/ai-makes-the-humanities-more-important"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 22:03:50",
+      "https://news.ycombinator.com/item?id=44163618"
+    ],
+    [
+      "Teaching Program Verification in Dafny at Amazon (2023)",
+      "https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-05-31, 07:14:00",
+      "https://news.ycombinator.com/item?id=44142519"
+    ],
+    [
+      "Magic Ink: Information Software and the Graphical Interface",
+      "https://worrydream.com/MagicInk/"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 06:43:27",
       "https://news.ycombinator.com/item?id=44142343"
     ],
     [
       "Sid Meier's Pirates – In-depth (2017)",
       "https://shot97retro.blogspot.com/2017/12/sid-meiers-pirates-in-depth-written.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 16:31:15",
+      "https://news.ycombinator.com/item?id=44127653"
+    ],
+    [
+      "Show HN: Onlook – Open-source, visual-first Cursor for designers",
+      "https://github.com/onlook-dev/onlook"
     ]
   ]
 ]
