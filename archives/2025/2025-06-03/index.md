@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 19:17:50](https://news.ycombinator.com/item?id=44173581) - [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
 * [2025-06-03, 18:56:55](https://news.ycombinator.com/item?id=44173377) - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
 * [2025-06-03, 18:49:33](https://news.ycombinator.com/item?id=44173291) - [Don't just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
 * [2025-06-03, 18:16:31](https://news.ycombinator.com/item?id=44172948) - [The Fannie and Freddie Stakes Are High](https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high)
