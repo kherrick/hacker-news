@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Meta and Yandex are de-anonymizing Android users' web browsing identifiers](https://arstechnica.com/security/2025/06/headline-to-come/)
+* [2025-06-03, 12:00:53](https://news.ycombinator.com/item?id=44169039) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-06-03, 10:06:37](https://news.ycombinator.com/item?id=44168265) - [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing)
 * [2025-06-03, 10:05:29](https://news.ycombinator.com/item?id=44168256) - [There should be no Computer Art (1971)](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/)
 * [2025-06-03, 09:55:55](https://news.ycombinator.com/item?id=44168201) - [The Shape of the Essay Field](https://paulgraham.com/field.html)

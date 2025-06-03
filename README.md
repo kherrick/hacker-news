@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Meta and Yandex are de-anonymizing Android users' web browsing identifiers](https://arstechnica.com/security/2025/06/headline-to-come/)
+* [2025-06-03, 12:00:53](https://news.ycombinator.com/item?id=44169039) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-06-03, 10:06:37](https://news.ycombinator.com/item?id=44168265) - [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing)
 * [2025-06-03, 10:05:29](https://news.ycombinator.com/item?id=44168256) - [There should be no Computer Art (1971)](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/)
 * [2025-06-03, 09:42:23](https://news.ycombinator.com/item?id=44168134) - [EU Commission refuses to disclose authors behind its mass surveillance proposal](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/)
-* [2025-06-03, 09:00:42](https://news.ycombinator.com/item?id=44167903) - [The Creepy, Surprisingly Routine Business of Animal Cloning](https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/)
 * [2025-06-03, 08:06:28](https://news.ycombinator.com/item?id=44167592) - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
-* [2025-06-03, 07:01:08](https://news.ycombinator.com/item?id=44167202) - [Demodesk (YC W19) Is Hiring Rails Engineers](https://demodesk.com/careers)
 * [2025-06-03, 06:42:49](https://news.ycombinator.com/item?id=44167089) - [Rsync's defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)
 * [2025-06-03, 06:37:25](https://news.ycombinator.com/item?id=44167049) - [Fun with Futex](https://blog.fredrb.com/2025/06/02/futex-fun/)
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
