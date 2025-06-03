@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 23:19:06](https://news.ycombinator.com/item?id=44175810) - [Functional unemployment rate soars past 24%](https://newpittsburghcourier.com/2025/06/03/true-unemployment-rate-soars-past-24-black-workers-hit-hardest/)
 * [2025-06-03, 22:41:33](https://news.ycombinator.com/item?id=44175557) - [Show HN: Ephe – A Minimalist Open-Source Markdown Paper for Today](https://github.com/unvalley/ephe)
 * [2025-06-03, 22:35:08](https://news.ycombinator.com/item?id=44175510) - [Polish engineer creates postage stamp-sized 1980s Atari computer](https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/)
 * [2025-06-03, 22:01:17](https://news.ycombinator.com/item?id=44175255) - [Claude Pro users now have Research and Integrations](https://twitter.com/AnthropicAI/status/1929950252376998139)
@@ -26,6 +27,7 @@
 * [2025-06-03, 18:16:31](https://news.ycombinator.com/item?id=44172948) - [The Fannie and Freddie Stakes Are High](https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high)
 * [2025-06-03, 18:14:53](https://news.ycombinator.com/item?id=44172928) - [Did \"Big Oil\" Sell Us on a Recycling Scam?](https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/)
 * [2025-06-03, 18:13:24](https://news.ycombinator.com/item?id=44172915) - [Where in the world are babies at the lowest risk of dying?](https://ourworldindata.org/where-are-babies-at-lowest-risk-of-dying)
+* [2025-06-03, 17:49:25](https://news.ycombinator.com/item?id=44172659) - [Changing Directions](https://jacobian.org/2025/jun/3/changing-directions/)
 * [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Translate React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
 * [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-03, 17:00:58](https://news.ycombinator.com/item?id=44172144) - [Morph (YC S23) Is Hiring a ML Engineer](https://news.ycombinator.com/item?id=44172144)

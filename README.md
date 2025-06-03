@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-03, 23:19:06](https://news.ycombinator.com/item?id=44175810) - [Functional unemployment rate soars past 24%](https://newpittsburghcourier.com/2025/06/03/true-unemployment-rate-soars-past-24-black-workers-hit-hardest/)
 * [2025-06-03, 22:41:33](https://news.ycombinator.com/item?id=44175557) - [Show HN: Ephe – A Minimalist Open-Source Markdown Paper for Today](https://github.com/unvalley/ephe)
 * [2025-06-03, 22:35:08](https://news.ycombinator.com/item?id=44175510) - [Polish engineer creates postage stamp-sized 1980s Atari computer](https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/)
 * [2025-06-03, 21:31:56](https://news.ycombinator.com/item?id=44174965) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
@@ -13,6 +14,7 @@
 * [2025-06-03, 19:25:57](https://news.ycombinator.com/item?id=44173667) - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 19:17:50](https://news.ycombinator.com/item?id=44173581) - [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
 * [2025-06-03, 18:39:29](https://news.ycombinator.com/item?id=44173193) - [CVE-2024-47081: Netrc credential leak in PSF requests library](https://seclists.org/fulldisclosure/2025/Jun/2)
+* [2025-06-03, 17:49:25](https://news.ycombinator.com/item?id=44172659) - [Changing Directions](https://jacobian.org/2025/jun/3/changing-directions/)
 * [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Localize React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
 * [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-03, 16:18:45](https://news.ycombinator.com/item?id=44171677) - [(On | No) Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
@@ -22,14 +24,12 @@
 * [2025-06-03, 13:17:06](https://news.ycombinator.com/item?id=44169759) - [Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'](https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784)
 * [2025-06-03, 12:47:30](https://news.ycombinator.com/item?id=44169413) - [Vision Language Models Are Biased](https://vlmsarebiased.github.io/)
 * [2025-06-03, 12:14:29](https://news.ycombinator.com/item?id=44169132) - [Show HN: I wrote a Java decompiler in pure C language](https://github.com/neocanable/garlic)
-* [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 * [2025-06-03, 10:06:37](https://news.ycombinator.com/item?id=44168265) - [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing)
 * [2025-06-03, 10:05:29](https://news.ycombinator.com/item?id=44168256) - [There should be no Computer Art (1971)](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/)
 * [2025-06-03, 09:55:55](https://news.ycombinator.com/item?id=44168201) - [The Shape of the Essay Field](https://paulgraham.com/field.html)
 * [2025-06-03, 08:06:28](https://news.ycombinator.com/item?id=44167592) - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
 * [2025-06-03, 06:37:25](https://news.ycombinator.com/item?id=44167049) - [Fun with Futex](https://blog.fredrb.com/2025/06/02/futex-fun/)
 * [2025-06-03, 04:05:19](https://news.ycombinator.com/item?id=44166155) - [The Metamorphosis of Prime Intellect (1994)](https://localroger.com/prime-intellect/mopiall.html)
-* [2025-05-31, 07:38:30](https://news.ycombinator.com/item?id=44142652) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
 
 ## [Archives](archives/index.md)
 
