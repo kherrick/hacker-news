@@ -20,7 +20,6 @@
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159528) - [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
 * [2025-06-02, 15:01:18](https://news.ycombinator.com/item?id=44159525) - [Ask HN: Who wants to be hired? (June 2025)](https://news.ycombinator.com/item?id=44159525)
 * [2025-06-02, 14:24:54](https://news.ycombinator.com/item?id=44159166) - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/)
-* [2025-06-02, 12:58:10](https://news.ycombinator.com/item?id=44158353) - [Ask HN: How do I learn robotics in 2025?](https://news.ycombinator.com/item?id=44158353)
 * [2025-06-02, 10:31:57](https://news.ycombinator.com/item?id=44157406) - [ThorVG: Super Lightweight Vector Graphics Engine](https://www.thorvg.org/about)
 * [2025-06-02, 09:47:48](https://news.ycombinator.com/item?id=44157177) - [Show HN: Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
@@ -28,6 +27,7 @@
 * [2025-05-31, 09:20:36](https://news.ycombinator.com/item?id=44143045) - [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
 * [2025-05-31, 07:20:15](https://news.ycombinator.com/item?id=44142565) - [How to Store Data on Paper?](https://www.monperrus.net/martin/store-data-paper)
 * [2025-05-31, 07:14:00](https://news.ycombinator.com/item?id=44142519) - [Magic Ink: Information Software and the Graphical Interface](https://worrydream.com/MagicInk/)
+* [2025-05-31, 06:43:27](https://news.ycombinator.com/item?id=44142343) - [Sid Meier's Pirates – In-depth (2017)](https://shot97retro.blogspot.com/2017/12/sid-meiers-pirates-in-depth-written.html)
 * [2025-05-31, 06:14:47](https://news.ycombinator.com/item?id=44142224) - [Ask HN: How do I learn practical electronic repair?](https://news.ycombinator.com/item?id=44142224)
 * [2025-05-29, 16:31:15](https://news.ycombinator.com/item?id=44127653) - [Show HN: Onlook – Open-source, visual-first Cursor for designers](https://github.com/onlook-dev/onlook)
 
