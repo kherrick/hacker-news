@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-06-03, 12:12:28",
-      "https://news.ycombinator.com/item?id=44169115"
-    ],
-    [
-      "Meta and Yandex are de-anonymizing Android users' web browsing identifiers",
-      "https://arstechnica.com/security/2025/06/headline-to-come/"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 12:05:47",
       "https://news.ycombinator.com/item?id=44169069"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44168658"
     ],
     [
-      "Ukraine's Autonomous Killer Drones Defeat Electronic Warfare",
+      "Ukraine's autonomous killer drones defeat electronic warfare",
       "https://spectrum.ieee.org/ukraine-killer-drones"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Cloudlflare builds OAuth with Claude and publishes all the prompts",
       "https://github.com/cloudflare/workers-oauth-provider/"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 10:31:57",
+      "https://news.ycombinator.com/item?id=44157406"
+    ],
+    [
+      "ThorVG: Super Lightweight Vector Graphics Engine",
+      "https://www.thorvg.org/about"
     ]
   ],
   [
