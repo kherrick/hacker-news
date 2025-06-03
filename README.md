@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-03, 22:01:17](https://news.ycombinator.com/item?id=44175255) - [Claude Pro users now have Research and Integrations](https://twitter.com/AnthropicAI/status/1929950252376998139)
 * [2025-06-03, 21:31:56](https://news.ycombinator.com/item?id=44174965) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 * [2025-06-03, 21:19:32](https://news.ycombinator.com/item?id=44174856) - [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
 * [2025-06-03, 21:00:50](https://news.ycombinator.com/item?id=44174676) - [Activeloop (YC S18) Is Hiring Senior Back End and AI Search Engineers(Onsite, MV)](https://careers.activeloop.ai/)
@@ -11,6 +10,7 @@
 * [2025-06-03, 19:25:57](https://news.ycombinator.com/item?id=44173667) - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 19:17:50](https://news.ycombinator.com/item?id=44173581) - [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
 * [2025-06-03, 18:39:29](https://news.ycombinator.com/item?id=44173193) - [CVE-2024-47081: Netrc credential leak in PSF requests library](https://seclists.org/fulldisclosure/2025/Jun/2)
+* [2025-06-03, 17:27:32](https://news.ycombinator.com/item?id=44172428) - [Show HN: Localize React apps without rewriting code](https://github.com/lingodotdev/lingo.dev)
 * [2025-06-03, 17:03:13](https://news.ycombinator.com/item?id=44172166) - [Swift at Apple: Migrating the Password Monitoring Service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-03, 16:45:15](https://news.ycombinator.com/item?id=44171959) - [Technical Guide to System Calls: Implementation and Signal Handling in Modern OS](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html)
 * [2025-06-03, 16:18:45](https://news.ycombinator.com/item?id=44171677) - [(On | No) Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
