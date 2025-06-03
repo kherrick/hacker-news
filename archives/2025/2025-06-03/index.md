@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 15:14:52](https://news.ycombinator.com/item?id=44170968) - [The Small World of English](https://www.inotherwords.app/linguabase/)
+* [2025-06-03, 15:14:52](https://news.ycombinator.com/item?id=44170967) - [Claude Code Is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
 * [2025-06-03, 14:58:21](https://news.ycombinator.com/item?id=44170822) - [PlayDiffusion – Next-Generation AI Voice Inpainting Technology](https://playdiffusion.com)
 * [2025-06-03, 14:47:20](https://news.ycombinator.com/item?id=44170708) - [Mario Kart designers had to rethink everything to make it open world](https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki)
 * [2025-06-03, 14:45:52](https://news.ycombinator.com/item?id=44170694) - [Show HN: Controlling 3D models with voice and hand gestures](https://github.com/collidingScopes/3d-model-playground)
@@ -16,6 +18,7 @@
 * [2025-06-03, 12:05:47](https://news.ycombinator.com/item?id=44169069) - [Illicit crypto-miners pouncing on lazy DevOps configs leaving clouds vulnerable](https://www.theregister.com/2025/06/03/illicit_miners_hashicorp_tools/)
 * [2025-06-03, 12:02:54](https://news.ycombinator.com/item?id=44169050) - [NYC Drivers Who Run Red Lights Get Tickets. E-Bike Riders Get Court Dates](https://www.nytimes.com/2025/05/24/nyregion/ebikes-scooters-cyclists-nyc.html)
 * [2025-06-03, 12:00:53](https://news.ycombinator.com/item?id=44169039) - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+* [2025-06-03, 11:55:46](https://news.ycombinator.com/item?id=44168994) - [Updates to Windows for the Digital Markets Act](https://blogs.windows.com/windows-insider/2025/06/02/updates-to-windows-for-the-digital-markets-act/)
 * [2025-06-03, 11:30:44](https://news.ycombinator.com/item?id=44168835) - [Claude has learned how to jailbreak Cursor](https://forum.cursor.com/t/important-claude-has-learned-how-to-jailbreak-cursor/96702)
 * [2025-06-03, 11:15:41](https://news.ycombinator.com/item?id=44168705) - [What Is \"Seeing\" in Astrophotography? The Science Behind Atmospheric Turbulence](https://astroimagery.com/astronomy/what-does-seeing-mean-in-astrophotography/)
 * [2025-06-03, 11:08:51](https://news.ycombinator.com/item?id=44168658) - [Ukraine's Autonomous Killer Drones Defeat Electronic Warfare](https://spectrum.ieee.org/ukraine-killer-drones)
