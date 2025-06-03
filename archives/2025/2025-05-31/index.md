@@ -38,6 +38,7 @@
 * [2025-05-31, 10:18:40](https://news.ycombinator.com/item?id=44143253) - [Cuss: Map of profane words to a rating of sureness](https://github.com/words/cuss)
 * [2025-05-31, 10:17:17](https://news.ycombinator.com/item?id=44143244) - [Show HN: I built an AI agent that turns ROS 2's turtlesim into a digital artist](https://github.com/Yutarop/turtlesim_agent)
 * [2025-05-31, 09:20:36](https://news.ycombinator.com/item?id=44143045) - [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
+* [2025-05-31, 09:05:53](https://news.ycombinator.com/item?id=44142991) - [A Complete Guide to Meta Prompting](https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting)
 * [2025-05-31, 08:57:12](https://news.ycombinator.com/item?id=44142955) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
 * [2025-05-31, 08:25:41](https://news.ycombinator.com/item?id=44142852) - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [2025-05-31, 08:23:51](https://news.ycombinator.com/item?id=44142839) - [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
