@@ -2,7 +2,6 @@
 
 * [2025-06-03, 10:06:37](https://news.ycombinator.com/item?id=44168265) - [Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing)
 * [2025-06-03, 09:42:23](https://news.ycombinator.com/item?id=44168134) - [EU Commission refuses to disclose authors behind its mass surveillance proposal](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/)
-* [2025-06-03, 09:04:32](https://news.ycombinator.com/item?id=44167922) - [Ask HN: Cloud vs. Edge Computing–Why Choose a Local NAS?](https://news.ycombinator.com/item?id=44167922)
 * [2025-06-03, 09:00:42](https://news.ycombinator.com/item?id=44167903) - [The Creepy, Surprisingly Routine Business of Animal Cloning](https://www.theatlantic.com/magazine/archive/2025/07/animal-cloning-industry/682892/)
 * [2025-06-03, 08:06:28](https://news.ycombinator.com/item?id=44167592) - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
 * [2025-06-03, 07:36:04](https://news.ycombinator.com/item?id=44167412) - [Stop Over-Thinking AI Subscriptions – Peter Steinberger](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
@@ -25,6 +24,7 @@
 * [2025-06-02, 04:01:00](https://news.ycombinator.com/item?id=44155746) - [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 * [2025-05-31, 09:20:36](https://news.ycombinator.com/item?id=44143045) - [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
 * [2025-05-31, 09:05:53](https://news.ycombinator.com/item?id=44142991) - [A Complete Guide to Meta Prompting](https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting)
+* [2025-05-31, 07:38:30](https://news.ycombinator.com/item?id=44142652) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
 * [2025-05-31, 07:26:30](https://news.ycombinator.com/item?id=44142592) - [A High-Level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
 * [2025-05-31, 07:20:15](https://news.ycombinator.com/item?id=44142565) - [How to Store Data on Paper?](https://www.monperrus.net/martin/store-data-paper)
 * [2025-05-31, 07:14:00](https://news.ycombinator.com/item?id=44142519) - [Magic Ink: Information Software and the Graphical Interface](https://worrydream.com/MagicInk/)
