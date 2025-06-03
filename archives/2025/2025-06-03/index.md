@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 22:01:17](https://news.ycombinator.com/item?id=44175255) - [Claude Pro users now have Research and Integrations](https://twitter.com/AnthropicAI/status/1929950252376998139)
 * [2025-06-03, 21:31:56](https://news.ycombinator.com/item?id=44174965) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
+* [2025-06-03, 21:19:32](https://news.ycombinator.com/item?id=44174856) - [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
 * [2025-06-03, 21:01:10](https://news.ycombinator.com/item?id=44174681) - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/?hl=en)
 * [2025-06-03, 21:00:50](https://news.ycombinator.com/item?id=44174676) - [Activeloop (YC S18) Is Hiring Senior Back End and AI Search Engineers(Onsite, MV)](https://careers.activeloop.ai/)
 * [2025-06-03, 20:57:29](https://news.ycombinator.com/item?id=44174643) - [Yoshua Bengio Launches LawZero: A New Nonprofit Advancing Safe-by-Design AI](https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai)
