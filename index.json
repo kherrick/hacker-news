@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-03, 22:01:17",
+      "https://news.ycombinator.com/item?id=44175255"
+    ],
+    [
+      "Claude Pro users now have Research and Integrations",
+      "https://twitter.com/AnthropicAI/status/1929950252376998139"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 21:31:56",
       "https://news.ycombinator.com/item?id=44174965"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-06-03, 21:01:10",
-      "https://news.ycombinator.com/item?id=44174681"
+      "2025-06-03, 21:19:32",
+      "https://news.ycombinator.com/item?id=44174856"
     ],
     [
-      "Gemini in Chrome",
-      "https://gemini.google/overview/gemini-in-chrome/?hl=en"
+      "A deep dive into self-improving AI and the Darwin-Gödel Machine",
+      "https://richardcsuwandi.github.io/blog/2025/dgm/"
     ]
   ],
   [
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2025-06-03, 18:46:40",
-      "https://news.ycombinator.com/item?id=44173267"
-    ],
-    [
-      "AWS forms EU-based cloud unit as customers fret",
-      "https://www.theregister.com/2025/06/03/aws_european_sovereign_cloud/"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 18:39:29",
       "https://news.ycombinator.com/item?id=44173193"
     ],
     [
       "CVE-2024-47081: Netrc credential leak in PSF requests library",
       "https://seclists.org/fulldisclosure/2025/Jun/2"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 17:27:32",
-      "https://news.ycombinator.com/item?id=44172428"
-    ],
-    [
-      "Show HN: Localize React apps without rewriting code",
-      "https://github.com/lingodotdev/lingo.dev"
     ]
   ],
   [
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=44171652"
     ],
     [
-      "Oh Fuck! How Do People Feel about Robots That Leverage Profanity",
+      "Oh fuck! How do people feel about robots that leverage profanity?",
       "https://arxiv.org/abs/2505.05831"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Implementing a Forth",
       "https://ratfactor.com/forth/implementing"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 07:26:30",
+      "https://news.ycombinator.com/item?id=44142592"
+    ],
+    [
+      "A High-Level View of TLA+",
+      "https://lamport.azurewebsites.net/tla/high-level-view.html"
     ]
   ]
 ]
