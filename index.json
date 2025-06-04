@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-04, 12:55:16",
+      "https://news.ycombinator.com/item?id=44180239"
+    ],
+    [
+      "Designing better file organization around tags, not hierarchies (2017)",
+      "https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 12:42:33",
       "https://news.ycombinator.com/item?id=44180126"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2025-06-04, 11:40:22",
-      "https://news.ycombinator.com/item?id=44179604"
+      "2025-06-04, 11:50:59",
+      "https://news.ycombinator.com/item?id=44179691"
     ],
     [
-      "Claude Code is now available to Pro plans",
-      "https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 11:25:39",
-      "https://news.ycombinator.com/item?id=44179494"
-    ],
-    [
-      "Distance-Based ISA for Efficient Register Management",
-      "https://www.sigarch.org/distance-based-isa-for-efficient-register-management/"
+      "The Sky's the limit: AI automation on Mac",
+      "https://taoofmac.com/space/blog/2025/06/03/2155"
     ]
   ],
   [
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2025-06-04, 07:10:05",
-      "https://news.ycombinator.com/item?id=44177964"
+      "2025-06-04, 07:20:35",
+      "https://news.ycombinator.com/item?id=44178024"
     ],
     [
-      "Show HN: Tiptap AI Agent – Add AI workflows to your text editor in minutes",
-      "https://news.ycombinator.com/item?id=44177964"
+      "What if you could do it all over? (2020)",
+      "https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "A critical look at NetBSD’s installer",
       "https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 03:18:30",
-      "https://news.ycombinator.com/item?id=44176909"
-    ],
-    [
-      "Show HN: Hacker News historic upvote and score data",
-      "https://hn.dunkirk.sh/"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-06-03, 22:45:11",
+      "https://news.ycombinator.com/item?id=44175579"
+    ],
+    [
+      "New study casts doubt on the likelihood of Milky Way collision with Andromeda",
+      "https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 22:41:33",
       "https://news.ycombinator.com/item?id=44175557"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-06-03, 12:12:28",
-      "https://news.ycombinator.com/item?id=44169115"
+      "2025-06-02, 17:25:55",
+      "https://news.ycombinator.com/item?id=44161102"
     ],
     [
-      "Covert Web-to-App Tracking via Localhost on Android",
-      "https://localmess.github.io/"
+      "Twain Dreams",
+      "https://harpers.org/archive/2025/06/twain-dreams-samuel-clemens-john-jeremiah-sullivan/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-05-31, 12:13:43",
-      "https://news.ycombinator.com/item?id=44143729"
+      "2025-05-31, 10:06:16",
+      "https://news.ycombinator.com/item?id=44143199"
     ],
     [
-      "Implementing native Node.js hot modules (technical write up)",
-      "https://immaculata.dev/blog/native-nodejs-hmr.html"
+      "Consider Knitting",
+      "https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/"
     ]
   ]
 ]
