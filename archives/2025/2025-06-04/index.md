@@ -7,6 +7,7 @@
 * [2025-06-04, 07:18:23](https://news.ycombinator.com/item?id=44178008) - [X's new \"encrypted\" XChat feature doesn't seem to be any more secure](https://www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/)
 * [2025-06-04, 07:00:54](https://news.ycombinator.com/item?id=44177901) - [Depot (YC W23) is hiring an enterprise support engineer (UK/EU)](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
 * [2025-06-04, 06:11:00](https://news.ycombinator.com/item?id=44177674) - [Meta buys a nuclear power plant (more or less)](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
+* [2025-06-04, 05:19:10](https://news.ycombinator.com/item?id=44177446) - [Machine Code Isn't Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
 * [2025-06-04, 03:19:45](https://news.ycombinator.com/item?id=44176919) - [Installing *BSD in 2025 part 3 – A critical look at NetBSD's installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
 * [2025-06-04, 03:18:30](https://news.ycombinator.com/item?id=44176909) - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 * [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)

@@ -3,6 +3,7 @@
 * [2025-06-04, 07:18:23](https://news.ycombinator.com/item?id=44178008) - [X's new \"encrypted\" XChat feature doesn't seem to be any more secure](https://www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/)
 * [2025-06-04, 07:00:54](https://news.ycombinator.com/item?id=44177901) - [Depot (YC W23) is hiring an enterprise support engineer (UK/EU)](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
 * [2025-06-04, 06:11:00](https://news.ycombinator.com/item?id=44177674) - [Meta buys a nuclear power plant (more or less)](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
+* [2025-06-04, 05:19:10](https://news.ycombinator.com/item?id=44177446) - [Machine Code Isn't Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
 * [2025-06-04, 03:19:45](https://news.ycombinator.com/item?id=44176919) - [A critical look at NetBSD’s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
 * [2025-06-04, 03:18:30](https://news.ycombinator.com/item?id=44176909) - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 * [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
@@ -27,7 +28,6 @@
 * [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 * [2025-05-31, 13:54:31](https://news.ycombinator.com/item?id=44144299) - [Writing a postmortem: an interview exercise I like (2017)](https://www.danielputtick.com/writing/mapbox-postmortem-interview.html)
 * [2025-05-31, 12:49:59](https://news.ycombinator.com/item?id=44143929) - [Bookish Diversions: Reading as Help for Living](https://www.millersbookreview.com/p/reading-as-help-for-living)
-* [2025-05-31, 12:21:54](https://news.ycombinator.com/item?id=44143782) - [The wake effect: As wind farms expand, some can ‘steal’ each others’ wind](https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft)
 * [2025-05-31, 12:00:40](https://news.ycombinator.com/item?id=44143671) - [Standard Completions](https://standardcompletions.org)
 * [2025-05-31, 10:06:16](https://news.ycombinator.com/item?id=44143199) - [Consider Knitting](https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/)
 
