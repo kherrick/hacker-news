@@ -26,6 +26,7 @@
 * [2025-05-31, 14:13:00](https://news.ycombinator.com/item?id=44144407) - [Atlas: Learning to Optimally Memorize the Context at Test Time](https://arxiv.org/abs/2505.23735)
 * [2025-05-31, 13:59:52](https://news.ycombinator.com/item?id=44144331) - [The Two Ideals of Fields](https://susam.net/two-ideals-of-fields.html)
 * [2025-05-31, 13:55:26](https://news.ycombinator.com/item?id=44144308) - [Using Ed(1) as My Static Site Generator](https://aartaka.me/this-post-is-ed.html)
+* [2025-05-31, 13:54:31](https://news.ycombinator.com/item?id=44144299) - [Writing a postmortem: an interview exercise I like (2017)](https://www.danielputtick.com/writing/mapbox-postmortem-interview.html)
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://www.rigorous.company/)
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://github.com/robertjakob/rigorous)
 * [2025-05-31, 13:41:44](https://news.ycombinator.com/item?id=44144240) - [Bohemians at the Gate?](https://inferencemagazine.substack.com/p/bohemians-at-the-gate)
