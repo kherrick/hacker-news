@@ -7,7 +7,6 @@
 * [2025-06-04, 18:56:50](https://news.ycombinator.com/item?id=44184207) - [Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth & PostgreSQL](https://github.com/f/mcp-cloudflare-boilerplate)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users' local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 18:15:14](https://news.ycombinator.com/item?id=44183791) - [The History of R2E and the Micral - The second personal computer](https://www.abortretry.fail/p/the-history-of-r2e-and-the-micral)
-* [2025-06-04, 18:01:52](https://news.ycombinator.com/item?id=44183651) - [Connecticut legislature overhauls towing laws to reduce 'predatory towing'](https://www.propublica.org/article/connecticut-passes-towing-law-reform)
 * [2025-06-04, 17:57:15](https://news.ycombinator.com/item?id=44183591) - [The iPhone 15 Pro's Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
 * [2025-06-04, 17:50:44](https://news.ycombinator.com/item?id=44183515) - [Mistral Code](https://mistral.ai/products/mistral-code)
 * [2025-06-04, 17:06:18](https://news.ycombinator.com/item?id=44182941) - [Preventing Flash of Incomplete Markdown when streaming AI responses](https://engineering.streak.com/p/preventing-unstyled-markdown-streaming-ai)
@@ -30,6 +29,7 @@
 * [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
 * [2025-06-04, 02:57:11](https://news.ycombinator.com/item?id=44176825) - [Binary Wordle](https://wordle.chengeric.com/)
 * [2025-06-04, 02:38:46](https://news.ycombinator.com/item?id=44176737) - [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
+* [2025-06-04, 01:47:26](https://news.ycombinator.com/item?id=44176514) - [Ask HN: Has anybody built search on top of Anna's Archive?](https://news.ycombinator.com/item?id=44176514)
 
 ## [Archives](archives/index.md)
 
