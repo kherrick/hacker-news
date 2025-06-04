@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-04, 11:40:22](https://news.ycombinator.com/item?id=44179604) - [Claude Code is now available to Pro plans](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan)
 * [2025-06-04, 11:25:39](https://news.ycombinator.com/item?id=44179494) - [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
-* [2025-06-04, 11:18:14](https://news.ycombinator.com/item?id=44179455) - [Porn sites go dark in France over new age verification rules](https://www.rfi.fr/en/france/20250604-porn-sites-go-dark-in-france-over-new-age-verification-rules)
+* [2025-06-04, 11:05:09](https://news.ycombinator.com/item?id=44179399) - [Tellico – Collection management software, free and simple](https://tellico-project.org/)
 * [2025-06-04, 10:51:58](https://news.ycombinator.com/item?id=44179329) - [Just how bad are we at treating age-related diseases?](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases)
 * [2025-06-04, 10:36:49](https://news.ycombinator.com/item?id=44179257) - [Why I Wrote the Beam Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 09:55:16](https://news.ycombinator.com/item?id=44178997) - [Some tips for off-race ultra running](https://federicopereiro.com/offrace-ultra/)
 * [2025-06-04, 09:42:29](https://news.ycombinator.com/item?id=44178902) - [Cockatoos have learned to operate drinking fountains in Australia](https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia)
-* [2025-06-04, 09:38:34](https://news.ycombinator.com/item?id=44178877) - [Connect Claude to your own apps](https://www.aluxian.com/connect-claude-to-your-own-apps/)
 * [2025-06-04, 09:26:32](https://news.ycombinator.com/item?id=44178780) - [Show HN: I built an OSINT tools directory](https://r00m101.com/tools)
 * [2025-06-04, 08:28:46](https://news.ycombinator.com/item?id=44178468) - [Cloud Run GPUs, now GA, makes running AI workloads easier for everyone](https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available)
 * [2025-06-04, 07:20:35](https://news.ycombinator.com/item?id=44178024) - [What if you could do it all over?](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over)
@@ -28,8 +28,8 @@
 * [2025-06-03, 21:19:32](https://news.ycombinator.com/item?id=44174856) - [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
 * [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 * [2025-05-31, 13:54:31](https://news.ycombinator.com/item?id=44144299) - [Writing a postmortem: an interview exercise I like (2017)](https://www.danielputtick.com/writing/mapbox-postmortem-interview.html)
+* [2025-05-31, 12:19:00](https://news.ycombinator.com/item?id=44143767) - [Nncp: Ad-hoc friend-to-friend delay-tolerant sneakernet-compatible darknet](http://www.nncpgo.org/)
 * [2025-05-31, 12:13:43](https://news.ycombinator.com/item?id=44143729) - [Implementing native Node.js hot modules (technical write up)](https://immaculata.dev/blog/native-nodejs-hmr.html)
-* [2025-05-31, 10:06:16](https://news.ycombinator.com/item?id=44143199) - [Consider Knitting](https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/)
 
 ## [Archives](archives/index.md)
 

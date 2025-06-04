@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 11:40:22](https://news.ycombinator.com/item?id=44179604) - [Claude Code is now available to Pro plans](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan)
 * [2025-06-04, 11:25:39](https://news.ycombinator.com/item?id=44179494) - [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
 * [2025-06-04, 11:22:28](https://news.ycombinator.com/item?id=44179475) - [Greenland mega tsunamis: First direct observation of trapped waves shook Earth](https://phys.org/news/2025-06-greenland-mega-tsunamis-shook-world.html)
 * [2025-06-04, 11:18:14](https://news.ycombinator.com/item?id=44179455) - [Porn sites go dark in France over new age verification rules](https://www.rfi.fr/en/france/20250604-porn-sites-go-dark-in-france-over-new-age-verification-rules)
+* [2025-06-04, 11:05:09](https://news.ycombinator.com/item?id=44179399) - [Tellico – Collection management software, free and simple](https://tellico-project.org/)
 * [2025-06-04, 10:51:58](https://news.ycombinator.com/item?id=44179329) - [Just how bad are we at treating age-related diseases?](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases)
 * [2025-06-04, 10:36:49](https://news.ycombinator.com/item?id=44179257) - [Why I Wrote the Beam Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 09:55:16](https://news.ycombinator.com/item?id=44178997) - [Some tips for off-race ultra running](https://federicopereiro.com/offrace-ultra/)
