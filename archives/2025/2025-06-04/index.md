@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 16:35:58](https://news.ycombinator.com/item?id=44182582) - [VC money is fueling a global boom in worker surveillance tech](https://restofworld.org/2025/employee-surveillance-software-vc-funding/)
 * [2025-06-04, 16:10:24](https://news.ycombinator.com/item?id=44182297) - [Haribo recalls sweets in the Netherlands after traces of cannabis found](https://www.theguardian.com/world/2025/may/29/haribo-recalls-sweets-in-the-netherlands-after-traces-of-cannabis-found)
+* [2025-06-04, 16:00:42](https://news.ycombinator.com/item?id=44182204) - [Meta found 'covertly tracking' Android users through Instagram and Facebook](https://news.sky.com/story/meta-found-covertly-tracking-android-users-through-instagram-and-facebook-13379083)
 * [2025-06-04, 15:58:50](https://news.ycombinator.com/item?id=44182186) - [FFmpeg Merges WebRTC Support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
 * [2025-06-04, 15:15:33](https://news.ycombinator.com/item?id=44181613) - [AGI Is Not Multimodal](https://thegradient.pub/agi-is-not-multimodal/)
 * [2025-06-04, 15:09:23](https://news.ycombinator.com/item?id=44181522) - [215 Department Store Catalogs 1908-2019](https://archive.org/details/departmentstorecatalogs)
