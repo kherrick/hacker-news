@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 18:38:16](https://news.ycombinator.com/item?id=44184011) - [A Message from Internet Archive Founder, Brewster Kahle](https://archive.org/donate)
 * [2025-06-04, 18:23:37](https://news.ycombinator.com/item?id=44183873) - [Ask HN: Why hasn't Apple bought a cell carrier like AT&T or Verizon?](https://news.ycombinator.com/item?id=44183873)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users' local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 18:01:52](https://news.ycombinator.com/item?id=44183651) - [Connecticut legislature overhauls towing laws to reduce 'predatory towing'](https://www.propublica.org/article/connecticut-passes-towing-law-reform)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-04, 18:38:16](https://news.ycombinator.com/item?id=44184011) - [A Message from Internet Archive Founder, Brewster Kahle](https://archive.org/donate)
 * [2025-06-04, 18:23:37](https://news.ycombinator.com/item?id=44183873) - [Ask HN: Why hasn't Apple bought a cell carrier like AT&T or Verizon?](https://news.ycombinator.com/item?id=44183873)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users' local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 18:01:52](https://news.ycombinator.com/item?id=44183651) - [Connecticut legislature overhauls towing laws to reduce 'predatory towing'](https://www.propublica.org/article/connecticut-passes-towing-law-reform)
@@ -29,7 +30,6 @@
 * [2025-06-04, 02:38:46](https://news.ycombinator.com/item?id=44176737) - [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
 * [2025-06-04, 01:47:26](https://news.ycombinator.com/item?id=44176514) - [Ask HN: Has anybody built search on top of Anna's Archive?](https://news.ycombinator.com/item?id=44176514)
 * [2025-06-02, 17:25:55](https://news.ycombinator.com/item?id=44161102) - [Twain Dreams](https://harpers.org/archive/2025/06/twain-dreams-samuel-clemens-john-jeremiah-sullivan/)
-* [2025-05-31, 10:06:16](https://news.ycombinator.com/item?id=44143199) - [Consider Knitting](https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/)
 
 ## [Archives](archives/index.md)
 
