@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 10:51:58](https://news.ycombinator.com/item?id=44179329) - [Just how bad are we at treating age-related diseases?](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases)
 * [2025-06-04, 08:28:46](https://news.ycombinator.com/item?id=44178468) - [Cloud Run GPUs, now GA, makes running AI workloads easier for everyone](https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available)
 * [2025-06-04, 08:20:51](https://news.ycombinator.com/item?id=44178418) - [Why I Use a Dumbphone in 2025 (and Why You Should Too)](https://samueleamato.xyz/2025/06/04/why-i-use-a-dumbphone.html)
 * [2025-06-04, 07:37:56](https://news.ycombinator.com/item?id=44178147) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
