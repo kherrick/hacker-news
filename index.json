@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-06-04, 01:29:59",
+      "https://news.ycombinator.com/item?id=44176425"
+    ],
+    [
+      "Your Manager Is Not Your Best Friend",
+      "https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 01:00:27",
       "https://news.ycombinator.com/item?id=44176314"
     ],
     [
       "Patched (YC S24) Is Hiring SWEs in Singapore",
       "https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 00:31:34",
-      "https://news.ycombinator.com/item?id=44176179"
-    ],
-    [
-      "AI LLMs can't count lines in a file",
-      "https://news.ycombinator.com/item?id=44176179"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44175557"
     ],
     [
-      "Show HN: Ephe – A Minimalist Open-Source Markdown Paper for Today",
+      "Show HN: Ephe – A minimalist open-source Markdown paper for today",
       "https://github.com/unvalley/ephe"
     ]
   ],
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-06-03, 21:41:16",
-      "https://news.ycombinator.com/item?id=44175048"
-    ],
-    [
-      "Human Brain Cells on Chip for Sale – First biocomputing platform hits the market",
-      "https://spectrum.ieee.org/biological-computer-for-sale"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 21:31:56",
       "https://news.ycombinator.com/item?id=44174965"
     ],
@@ -117,16 +107,6 @@
     [
       "A deep dive into self-improving AI and the Darwin-Gödel Machine",
       "https://richardcsuwandi.github.io/blog/2025/dgm/"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 20:46:34",
-      "https://news.ycombinator.com/item?id=44174540"
-    ],
-    [
-      "Can adults grow new brain cells?",
-      "https://www.livescience.com/health/neuroscience/can-adults-grow-new-brain-cells"
     ]
   ],
   [
@@ -171,12 +151,12 @@
   ],
   [
     [
-      "2025-06-03, 19:17:50",
-      "https://news.ycombinator.com/item?id=44173581"
+      "2025-06-03, 18:56:55",
+      "https://news.ycombinator.com/item?id=44173377"
     ],
     [
-      "Ask HN: Options for One-Handed Typing",
-      "https://news.ycombinator.com/item?id=44173581"
+      "When the sun dies, could life survive on the Jupiter ocean moon Europa?",
+      "https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-06-03, 15:54:32",
+      "https://news.ycombinator.com/item?id=44171363"
+    ],
+    [
+      "How much do language models memorize?",
+      "https://arxiv.org/abs/2505.24832"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 15:14:52",
       "https://news.ycombinator.com/item?id=44170968"
     ],
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2025-06-03, 12:47:30",
-      "https://news.ycombinator.com/item?id=44169413"
-    ],
-    [
-      "Vision Language Models Are Biased",
-      "https://vlmsarebiased.github.io/"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 12:14:29",
       "https://news.ycombinator.com/item?id=44169132"
     ],
@@ -271,12 +251,12 @@
   ],
   [
     [
-      "2025-06-03, 10:05:29",
-      "https://news.ycombinator.com/item?id=44168256"
+      "2025-06-03, 12:12:28",
+      "https://news.ycombinator.com/item?id=44169115"
     ],
     [
-      "There should be no Computer Art (1971)",
-      "https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/"
+      "Covert Web-to-App Tracking via Localhost on Android",
+      "https://localmess.github.io/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Quarkdown: A modern Markdown-based typesetting system",
       "https://github.com/iamgio/quarkdown"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 12:21:54",
+      "https://news.ycombinator.com/item?id=44143782"
+    ],
+    [
+      "'Wind theft': The mysterious effect plaguing wind farms",
+      "https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 12:00:40",
+      "https://news.ycombinator.com/item?id=44143671"
+    ],
+    [
+      "Standard Completions",
+      "https://standardcompletions.org"
     ]
   ]
 ]
