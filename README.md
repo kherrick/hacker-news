@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-04, 02:47:11](https://news.ycombinator.com/item?id=44176772) - ['Spiderweb' drone attack marks a new threat for top militaries](https://www.businessinsider.com/operation-spiderweb-5-ways-ukraine-drone-attack-new-era-warfare-2025-6)
+* [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
+* [2025-06-04, 02:57:11](https://news.ycombinator.com/item?id=44176825) - [Binary Wordle](https://wordle.chengeric.com/)
 * [2025-06-04, 02:38:46](https://news.ycombinator.com/item?id=44176737) - [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
 * [2025-06-04, 02:36:34](https://news.ycombinator.com/item?id=44176729) - [Why is PS3 emulation so fast: RPCS3 optimizations explained [video]](https://www.youtube.com/watch?v=19ae5Mq2lJE)
+* [2025-06-04, 02:16:21](https://news.ycombinator.com/item?id=44176636) - [Barrelfish OS Architecture Overview (2013) [pdf]](https://barrelfish.org/publications/TN-000-Overview.pdf)
 * [2025-06-04, 01:47:26](https://news.ycombinator.com/item?id=44176514) - [Ask HN: Has anybody built search on top of Anna's Archive?](https://news.ycombinator.com/item?id=44176514)
 * [2025-06-04, 01:29:59](https://news.ycombinator.com/item?id=44176425) - [Your Manager Is Not Your Best Friend](https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html)
 * [2025-06-04, 01:00:27](https://news.ycombinator.com/item?id=44176314) - [Patched (YC S24) Is Hiring SWEs in Singapore](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer)
@@ -25,10 +27,8 @@
 * [2025-06-03, 16:18:45](https://news.ycombinator.com/item?id=44171677) - [(On | No) Syntactic Support for Error Handling](https://go.dev/blog/error-syntax)
 * [2025-06-03, 15:14:52](https://news.ycombinator.com/item?id=44170968) - [The Small World of English](https://www.inotherwords.app/linguabase/)
 * [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
-* [2025-06-03, 09:55:55](https://news.ycombinator.com/item?id=44168201) - [The Shape of the Essay Field](https://paulgraham.com/field.html)
 * [2025-06-03, 08:06:28](https://news.ycombinator.com/item?id=44167592) - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
 * [2025-05-31, 12:49:59](https://news.ycombinator.com/item?id=44143929) - [Bookish Diversions: Reading as Help for Living](https://www.millersbookreview.com/p/reading-as-help-for-living)
-* [2025-05-31, 12:21:54](https://news.ycombinator.com/item?id=44143782) - ['Wind theft': The mysterious effect plaguing wind farms](https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft)
 * [2025-05-31, 12:00:40](https://news.ycombinator.com/item?id=44143671) - [Standard Completions](https://standardcompletions.org)
 
 ## [Archives](archives/index.md)
