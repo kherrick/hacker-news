@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44176919"
     ],
     [
-      "Installing *BSD in 2025 part 3 – A critical look at NetBSD's installer",
+      "A critical look at NetBSD’s installer",
       "https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/"
     ]
   ],
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-06-03, 23:42:38",
-      "https://news.ycombinator.com/item?id=44175940"
-    ],
-    [
-      "Meta pauses mobile port tracking tech on Android after researchers cry foul",
-      "https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 23:37:04",
       "https://news.ycombinator.com/item?id=44175905"
     ],
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=44174190"
     ],
     [
-      "Show HN: AirAP AirPlay server - AirPlay to an iOS Device",
+      "Show HN: AirAP AirPlay server – AirPlay to an iOS Device",
       "https://github.com/neon443/AirAP"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Destination: Jupiter",
       "https://clarkesworldmagazine.com/liptak_06_25/"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 19:25:57",
+      "https://news.ycombinator.com/item?id=44173667"
+    ],
+    [
+      "Show HN: An Alfred workflow to open GCP services and browse resources within",
+      "https://github.com/dineshgowda24/alfred-gcp-workflow"
     ]
   ],
   [
