@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
 * [2025-06-04, 20:12:44](https://news.ycombinator.com/item?id=44184974) - [Fakespot will shut down on July 1, 2025](https://www.fakespot.com/)
+* [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 19:26:25](https://news.ycombinator.com/item?id=44184542) - [Redesigned Swift.org is now live](https://swift.org/)
 * [2025-06-04, 19:04:31](https://news.ycombinator.com/item?id=44184305) - [Curtis Yarvin's Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
 * [2025-06-04, 18:56:50](https://news.ycombinator.com/item?id=44184207) - [Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth & PostgreSQL](https://github.com/f/mcp-cloudflare-boilerplate)

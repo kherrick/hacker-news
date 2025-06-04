@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-04, 20:12:44](https://news.ycombinator.com/item?id=44184974) - [Fakespot will shut down on July 1, 2025](https://www.fakespot.com/)
+* [2025-06-04, 20:12:44](https://news.ycombinator.com/item?id=44184974) - [Fakespot will shut down on July 1](https://www.fakespot.com/)
+* [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 19:26:25](https://news.ycombinator.com/item?id=44184542) - [Redesigned Swift.org is now live](https://swift.org/)
 * [2025-06-04, 19:04:31](https://news.ycombinator.com/item?id=44184305) - [Curtis Yarvin's Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
 * [2025-06-04, 18:56:50](https://news.ycombinator.com/item?id=44184207) - [Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth & PostgreSQL](https://github.com/f/mcp-cloudflare-boilerplate)
-* [2025-06-04, 18:20:36](https://news.ycombinator.com/item?id=44183842) - [The Echo in the Machine](https://radiolab.org/podcast/the-echo-in-the-machine)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users' local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 18:15:14](https://news.ycombinator.com/item?id=44183791) - [The History of R2E and the Micral - The second personal computer](https://www.abortretry.fail/p/the-history-of-r2e-and-the-micral)
 * [2025-06-04, 18:01:52](https://news.ycombinator.com/item?id=44183651) - [Connecticut legislature overhauls towing laws to reduce 'predatory towing'](https://www.propublica.org/article/connecticut-passes-towing-law-reform)
