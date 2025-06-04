@@ -6,8 +6,10 @@
 
 * [2025-06-04, 22:35:56](https://news.ycombinator.com/item?id=44186284) - [PromptArmor (YC W24) Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
 * [2025-06-04, 21:47:33](https://news.ycombinator.com/item?id=44185913) - [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
+* [2025-06-04, 21:40:09](https://news.ycombinator.com/item?id=44185856) - [Flight Simulator Gave Birth to 3D Video-Game Graphics](https://spectrum.ieee.org/microsoft-flight-simulator)
 * [2025-06-04, 21:39:35](https://news.ycombinator.com/item?id=44185845) - [Arthur C. Clarke Predicted the Rise of AI (1978)](https://www.openculture.com/2024/12/arthur-c-clarke-predicts-the-rise-of-artificial-intelligence-questions-what-will-happen-to-humanity-1978.html)
 * [2025-06-04, 21:39:01](https://news.ycombinator.com/item?id=44185841) - [One thing Tesla and Comma.ai overlooked in self-driving](https://deepdream.substack.com/p/one-thing-tesla-and-commaai-overlooked)
+* [2025-06-04, 21:38:27](https://news.ycombinator.com/item?id=44185836) - [Comparing Claude System Prompts Reveal Anthropic's Priorities](https://www.dbreunig.com/2025/06/03/comparing-system-prompts-across-claude-versions.html)
 * [2025-06-04, 20:39:53](https://news.ycombinator.com/item?id=44185256) - [Cursor 1.0](https://www.cursor.com/en/changelog/1-0)
 * [2025-06-04, 20:31:37](https://news.ycombinator.com/item?id=44185158) - [VectorSmuggle: Covertly Exfiltrate Data in Embeddings](https://github.com/jaschadub/VectorSmuggle)
 * [2025-06-04, 20:24:07](https://news.ycombinator.com/item?id=44185078) - [Amelia Earhart's Reckless Final Flights](https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights)
