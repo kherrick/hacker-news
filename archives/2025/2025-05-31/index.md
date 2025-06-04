@@ -31,6 +31,7 @@
 * [2025-05-31, 13:41:44](https://news.ycombinator.com/item?id=44144240) - [Bohemians at the Gate?](https://inferencemagazine.substack.com/p/bohemians-at-the-gate)
 * [2025-05-31, 13:39:58](https://news.ycombinator.com/item?id=44144224) - [I Switched to UTC and Never Looked Back](https://timestripe.com/magazine/blog/timezone/)
 * [2025-05-31, 13:20:30](https://news.ycombinator.com/item?id=44144119) - [Breakthrough cancer drug doubles survival in trial](https://www.bbc.com/news/articles/ce82gderpl9o)
+* [2025-05-31, 12:49:59](https://news.ycombinator.com/item?id=44143929) - [Bookish Diversions: Reading as Help for Living](https://www.millersbookreview.com/p/reading-as-help-for-living)
 * [2025-05-31, 12:21:54](https://news.ycombinator.com/item?id=44143782) - ['Wind theft': The mysterious effect plaguing wind farms](https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft)
 * [2025-05-31, 12:00:40](https://news.ycombinator.com/item?id=44143671) - [Standard Completions](https://standardcompletions.org)
 * [2025-05-31, 12:00:34](https://news.ycombinator.com/item?id=44143669) - [The Guide to Cloudflare's Durable Objects](https://flaredup.substack.com/p/the-ultimate-guide-to-cloudflares)
