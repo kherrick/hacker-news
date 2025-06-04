@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 17:23:51](https://news.ycombinator.com/item?id=44183175) - [Giant planet discovered orbiting tiny star](https://www.ucl.ac.uk/news/2025/jun/giant-planet-discovered-orbiting-tiny-star)
+* [2025-06-04, 17:09:01](https://news.ycombinator.com/item?id=44182989) - [Ship Carrying EVs Abandoned in Pacific After Catching Fire](https://www.bloomberg.com/news/articles/2025-06-04/ship-carrying-evs-abandoned-in-pacific-after-catching-fire)
+* [2025-06-04, 17:06:18](https://news.ycombinator.com/item?id=44182941) - [Preventing Flash of Incomplete Markdown when streaming AI responses](https://engineering.streak.com/p/preventing-unstyled-markdown-streaming-ai)
+* [2025-06-04, 17:02:28](https://news.ycombinator.com/item?id=44182893) - [OpenAI Release ChatGPT Connectors (Remote MCP)](https://techcrunch.com/2025/06/04/chatgpt-introduces-meeting-recording-and-connectors-for-google-drive-box-and-more/)
 * [2025-06-04, 16:54:07](https://news.ycombinator.com/item?id=44182795) - [Tesla shows no sign of improvement in May sales data](https://arstechnica.com/cars/2025/06/tesla-shows-no-sign-of-improvement-in-may-sales-data/)
+* [2025-06-04, 16:46:24](https://news.ycombinator.com/item?id=44182698) - [When memory was measured in kilobytes: The art of efficient vision](https://www.softwareheritage.org/2025/06/04/history_computer_vision/)
 * [2025-06-04, 16:39:36](https://news.ycombinator.com/item?id=44182634) - [We Are No Longer a Serious Country – Paul Krugman](https://paulkrugman.substack.com/p/we-are-no-longer-a-serious-country)
 * [2025-06-04, 16:35:58](https://news.ycombinator.com/item?id=44182582) - [VC money is fueling a global boom in worker surveillance tech](https://restofworld.org/2025/employee-surveillance-software-vc-funding/)
 * [2025-06-04, 16:16:39](https://news.ycombinator.com/item?id=44182356) - [The IRS Tax Filing Software TurboTax Is Trying to Kill Just Got Open Sourced](https://www.404media.co/directfile-open-source-irs-tax-filing-software-turbotax-is-trying-to-kil/)
