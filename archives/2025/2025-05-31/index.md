@@ -30,6 +30,7 @@
 * [2025-05-31, 13:54:31](https://news.ycombinator.com/item?id=44144299) - [Writing a postmortem: an interview exercise I like (2017)](https://www.danielputtick.com/writing/mapbox-postmortem-interview.html)
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://www.rigorous.company/)
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://github.com/robertjakob/rigorous)
+* [2025-05-31, 13:43:50](https://news.ycombinator.com/item?id=44144250) - [How to Read a Novel](https://adjacentpossible.substack.com/p/how-to-read-a-novel)
 * [2025-05-31, 13:41:44](https://news.ycombinator.com/item?id=44144240) - [Bohemians at the Gate?](https://inferencemagazine.substack.com/p/bohemians-at-the-gate)
 * [2025-05-31, 13:39:58](https://news.ycombinator.com/item?id=44144224) - [I Switched to UTC and Never Looked Back](https://timestripe.com/magazine/blog/timezone/)
 * [2025-05-31, 13:24:17](https://news.ycombinator.com/item?id=44144146) - [Record/Replay Debugging Tutorial](https://github.com/sidkshatriya/me/blob/master/009-rr-on-aarch64.md)

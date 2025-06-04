@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 12:42:33](https://news.ycombinator.com/item?id=44180126) - [Cord didn't win. What now?](https://jg.gg/2025/01/10/cord-didnt-win-what-now/)
 * [2025-06-04, 11:40:22](https://news.ycombinator.com/item?id=44179604) - [Claude Code is now available to Pro plans](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan)
 * [2025-06-04, 11:25:39](https://news.ycombinator.com/item?id=44179494) - [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
 * [2025-06-04, 11:22:28](https://news.ycombinator.com/item?id=44179475) - [Greenland mega tsunamis: First direct observation of trapped waves shook Earth](https://phys.org/news/2025-06-greenland-mega-tsunamis-shook-world.html)
@@ -16,6 +17,7 @@
 * [2025-06-04, 09:38:34](https://news.ycombinator.com/item?id=44178877) - [Connect Claude to your own apps](https://www.aluxian.com/connect-claude-to-your-own-apps/)
 * [2025-06-04, 09:26:32](https://news.ycombinator.com/item?id=44178780) - [Show HN: I built an OSINT tools directory](https://r00m101.com/tools)
 * [2025-06-04, 08:28:46](https://news.ycombinator.com/item?id=44178468) - [Cloud Run GPUs, now GA, makes running AI workloads easier for everyone](https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available)
+* [2025-06-04, 08:24:08](https://news.ycombinator.com/item?id=44178445) - [Click-V: A RISC-V emulator built with ClickHouse SQL](https://github.com/SpencerTorres/Click-V)
 * [2025-06-04, 08:20:51](https://news.ycombinator.com/item?id=44178418) - [Why I Use a Dumbphone in 2025 (and Why You Should Too)](https://samueleamato.xyz/2025/06/04/why-i-use-a-dumbphone.html)
 * [2025-06-04, 07:37:56](https://news.ycombinator.com/item?id=44178147) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
 * [2025-06-04, 07:20:35](https://news.ycombinator.com/item?id=44178024) - [What if you could do it all over?](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over)
