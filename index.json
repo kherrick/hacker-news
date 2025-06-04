@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-06-04, 01:00:27",
+      "https://news.ycombinator.com/item?id=44176314"
+    ],
+    [
+      "Patched (YC S24) Is Hiring SWEs in Singapore",
+      "https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 00:31:34",
+      "https://news.ycombinator.com/item?id=44176179"
+    ],
+    [
+      "AI LLMs can't count lines in a file",
+      "https://news.ycombinator.com/item?id=44176179"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 23:42:38",
+      "https://news.ycombinator.com/item?id=44175940"
+    ],
+    [
+      "Meta pauses mobile port tracking tech on Android after researchers cry foul",
+      "https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 23:37:04",
+      "https://news.ycombinator.com/item?id=44175905"
+    ],
+    [
+      "Brain aging shows nonlinear transitions, suggesting a midlife \"critical window\"",
+      "https://www.pnas.org/doi/10.1073/pnas.2416433122"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 23:11:25",
+      "https://news.ycombinator.com/item?id=44175773"
+    ],
+    [
+      "Precious Plastic Is in Trouble",
+      "https://www.preciousplastic.com//news/problems-in-precious-plastic"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 22:45:11",
+      "https://news.ycombinator.com/item?id=44175579"
+    ],
+    [
+      "New study casts doubt on the likelihood of Milky Way collision with Andromeda",
+      "https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 22:41:33",
       "https://news.ycombinator.com/item?id=44175557"
     ],
@@ -17,6 +77,16 @@
     [
       "Polish engineer creates postage stamp-sized 1980s Atari computer",
       "https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 22:13:01",
+      "https://news.ycombinator.com/item?id=44175356"
+    ],
+    [
+      "Mapping latitude and longitude to country, state, or city",
+      "https://austinhenley.com/blog/coord2state.html"
     ]
   ],
   [
@@ -47,26 +117,6 @@
     [
       "A deep dive into self-improving AI and the Darwin-Gödel Machine",
       "https://richardcsuwandi.github.io/blog/2025/dgm/"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 21:00:50",
-      "https://news.ycombinator.com/item?id=44174676"
-    ],
-    [
-      "Activeloop (YC S18) Is Hiring Senior Back End and AI Search Engineers(Onsite, MV)",
-      "https://careers.activeloop.ai/"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 20:57:29",
-      "https://news.ycombinator.com/item?id=44174643"
-    ],
-    [
-      "Yoshua Bengio Launches LawZero: A New Nonprofit Advancing Safe-by-Design AI",
-      "https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai"
     ]
   ],
   [
@@ -201,26 +251,6 @@
   ],
   [
     [
-      "2025-06-03, 14:41:47",
-      "https://news.ycombinator.com/item?id=44170657"
-    ],
-    [
-      "Show HN: PinSend – Share text between devices using a PIN(P2P, no login)",
-      "https://pinsend.app"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 13:17:06",
-      "https://news.ycombinator.com/item?id=44169759"
-    ],
-    [
-      "Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'",
-      "https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 12:47:30",
       "https://news.ycombinator.com/item?id=44169413"
     ],
@@ -237,16 +267,6 @@
     [
       "Show HN: I wrote a Java decompiler in pure C language",
       "https://github.com/neocanable/garlic"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 10:06:37",
-      "https://news.ycombinator.com/item?id=44168265"
-    ],
-    [
-      "Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests",
-      "https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Quarkdown: A modern Markdown-based typesetting system",
       "https://github.com/iamgio/quarkdown"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 06:37:25",
-      "https://news.ycombinator.com/item?id=44167049"
-    ],
-    [
-      "Fun with Futex",
-      "https://blog.fredrb.com/2025/06/02/futex-fun/"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 04:05:19",
-      "https://news.ycombinator.com/item?id=44166155"
-    ],
-    [
-      "The Metamorphosis of Prime Intellect (1994)",
-      "https://localroger.com/prime-intellect/mopiall.html"
     ]
   ]
 ]
