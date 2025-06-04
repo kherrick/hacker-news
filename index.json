@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-04, 20:12:44",
-      "https://news.ycombinator.com/item?id=44184974"
+      "2025-06-04, 20:39:53",
+      "https://news.ycombinator.com/item?id=44185256"
     ],
     [
-      "Fakespot will shut down on July 1",
-      "https://www.fakespot.com/"
+      "Cursor 1.0",
+      "https://www.cursor.com/en/changelog/1-0"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 20:15:55",
+      "https://news.ycombinator.com/item?id=44185003"
+    ],
+    [
+      "The importance of free software to science",
+      "https://lwn.net/SubscriberLink/1023299/7ba649b1ede41895/"
     ]
   ],
   [
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-06-04, 19:04:31",
-      "https://news.ycombinator.com/item?id=44184305"
-    ],
-    [
-      "Curtis Yarvin's Plot Against America",
-      "https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 18:56:50",
       "https://news.ycombinator.com/item?id=44184207"
     ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44183799"
     ],
     [
-      "A proposal to restrict sites from accessing a users' local network",
+      "A proposal to restrict sites from accessing a users’ local network",
       "https://github.com/explainers-by-googlers/local-network-access"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44183791"
     ],
     [
-      "The History of R2E and the Micral - The second personal computer",
+      "The History of R2E and the Micral – The second personal computer",
       "https://www.abortretry.fail/p/the-history-of-r2e-and-the-micral"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "When memory was measured in kilobytes: The art of efficient vision",
       "https://www.softwareheritage.org/2025/06/04/history_computer_vision/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 16:35:58",
-      "https://news.ycombinator.com/item?id=44182582"
-    ],
-    [
-      "VC money is fueling a global boom in worker surveillance tech",
-      "https://restofworld.org/2025/employee-surveillance-software-vc-funding/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "A practical guide to building agents [pdf]",
       "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 15:15:33",
+      "https://news.ycombinator.com/item?id=44181613"
+    ],
+    [
+      "AGI is not multimodal",
+      "https://thegradient.pub/agi-is-not-multimodal/"
     ]
   ],
   [
