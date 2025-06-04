@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-06-04, 20:15:55",
-      "https://news.ycombinator.com/item?id=44185003"
+      "2025-06-04, 20:24:07",
+      "https://news.ycombinator.com/item?id=44185078"
     ],
     [
-      "The importance of free software to science",
-      "https://lwn.net/SubscriberLink/1023299/7ba649b1ede41895/"
+      "Amelia Earhart's Reckless Final Flights",
+      "https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Autonomous drone defeats human champions in racing first",
       "https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 19:58:49",
+      "https://news.ycombinator.com/item?id=44184849"
+    ],
+    [
+      "Show HN: App.build, an open-source AI agent that builds full-stack apps",
+      "https://www.app.build/"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth & PostgreSQL",
       "https://github.com/f/mcp-cloudflare-boilerplate"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 18:29:46",
+      "https://news.ycombinator.com/item?id=44183923"
+    ],
+    [
+      "Apple Notes Expected to Gain Markdown Support in iOS 26",
+      "https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44183591"
     ],
     [
-      "The iPhone 15 Pro's Depth Maps",
+      "The iPhone 15 Pro’s Depth Maps",
       "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html"
     ]
   ],
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=44182184"
     ],
     [
-      "How We Reduced the Impact of Zombie Clients",
+      "How we reduced the impact of zombie clients",
       "https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/"
     ]
   ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-06-04, 07:00:54",
-      "https://news.ycombinator.com/item?id=44177901"
-    ],
-    [
-      "Depot (YC W23) is hiring an enterprise support engineer (UK/EU)",
-      "https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 05:19:10",
       "https://news.ycombinator.com/item?id=44177446"
     ],
@@ -287,16 +297,6 @@
     [
       "DiffX – Next-Generation Extensible Diff Format",
       "https://diffx.org/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 01:47:26",
-      "https://news.ycombinator.com/item?id=44176514"
-    ],
-    [
-      "Ask HN: Has anybody built search on top of Anna's Archive?",
-      "https://news.ycombinator.com/item?id=44176514"
     ]
   ]
 ]
