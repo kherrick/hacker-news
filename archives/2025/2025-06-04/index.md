@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 08:20:51](https://news.ycombinator.com/item?id=44178418) - [Why I Use a Dumbphone in 2025 (and Why You Should Too)](https://samueleamato.xyz/2025/06/04/why-i-use-a-dumbphone.html)
+* [2025-06-04, 07:37:56](https://news.ycombinator.com/item?id=44178147) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
+* [2025-06-04, 07:20:35](https://news.ycombinator.com/item?id=44178024) - [What if you could do it all over?](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over)
 * [2025-06-04, 07:18:23](https://news.ycombinator.com/item?id=44178008) - [X's new \"encrypted\" XChat feature doesn't seem to be any more secure](https://www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/)
 * [2025-06-04, 07:00:54](https://news.ycombinator.com/item?id=44177901) - [Depot (YC W23) is hiring an enterprise support engineer (UK/EU)](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
 * [2025-06-04, 06:40:13](https://news.ycombinator.com/item?id=44177797) - [Decentralization Hidden in the Dark Ages](http://bionicmosquito.blogspot.com/2013/02/decentralization-hidden-in-dark-ages.html)
