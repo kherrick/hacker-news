@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
 * [2025-06-04, 20:39:53](https://news.ycombinator.com/item?id=44185256) - [Cursor 1.0](https://www.cursor.com/en/changelog/1-0)
+* [2025-06-04, 20:31:37](https://news.ycombinator.com/item?id=44185158) - [VectorSmuggle: Covertly Exfiltrate Data in Embeddings](https://github.com/jaschadub/VectorSmuggle)
 * [2025-06-04, 20:24:07](https://news.ycombinator.com/item?id=44185078) - [Amelia Earhart's Reckless Final Flights](https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights)
 * [2025-06-04, 20:15:55](https://news.ycombinator.com/item?id=44185003) - [The importance of free software to science](https://lwn.net/SubscriberLink/1023299/7ba649b1ede41895/)
 * [2025-06-04, 20:12:44](https://news.ycombinator.com/item?id=44184974) - [Fakespot will shut down on July 1, 2025](https://www.fakespot.com/)
