@@ -3,6 +3,7 @@
 * [2025-06-04, 12:55:16](https://news.ycombinator.com/item?id=44180239) - [Designing better file organization around tags, not hierarchies (2017)](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 * [2025-06-04, 12:42:33](https://news.ycombinator.com/item?id=44180126) - [Cord didn't win. What now?](https://jg.gg/2025/01/10/cord-didnt-win-what-now/)
 * [2025-06-04, 11:50:59](https://news.ycombinator.com/item?id=44179691) - [The Sky's the limit: AI automation on Mac](https://taoofmac.com/space/blog/2025/06/03/2155)
+* [2025-06-04, 11:40:22](https://news.ycombinator.com/item?id=44179604) - [Claude Code is now available to Pro plans](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan)
 * [2025-06-04, 11:05:09](https://news.ycombinator.com/item?id=44179399) - [Tellico – Collection management software](https://tellico-project.org/)
 * [2025-06-04, 10:51:58](https://news.ycombinator.com/item?id=44179329) - [Just how bad are we at treating age-related diseases?](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases)
 * [2025-06-04, 10:36:49](https://news.ycombinator.com/item?id=44179257) - [Why I Wrote the Beam Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
@@ -28,7 +29,6 @@
 * [2025-06-02, 17:25:55](https://news.ycombinator.com/item?id=44161102) - [Twain Dreams](https://harpers.org/archive/2025/06/twain-dreams-samuel-clemens-john-jeremiah-sullivan/)
 * [2025-05-31, 13:54:31](https://news.ycombinator.com/item?id=44144299) - [Writing a postmortem: an interview exercise I like (2017)](https://www.danielputtick.com/writing/mapbox-postmortem-interview.html)
 * [2025-05-31, 13:43:50](https://news.ycombinator.com/item?id=44144250) - [How to Read a Novel](https://adjacentpossible.substack.com/p/how-to-read-a-novel)
-* [2025-05-31, 12:19:00](https://news.ycombinator.com/item?id=44143767) - [Nncp: Ad-hoc friend-to-friend delay-tolerant sneakernet-compatible darknet](http://www.nncpgo.org/)
 * [2025-05-31, 10:06:16](https://news.ycombinator.com/item?id=44143199) - [Consider Knitting](https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/)
 
 ## [Archives](archives/index.md)
