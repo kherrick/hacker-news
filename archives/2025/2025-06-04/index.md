@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 18:23:37](https://news.ycombinator.com/item?id=44183873) - [Ask HN: Why hasn't Apple bought a cell carrier like AT&T or Verizon?](https://news.ycombinator.com/item?id=44183873)
+* [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users' local network](https://github.com/explainers-by-googlers/local-network-access)
+* [2025-06-04, 18:01:52](https://news.ycombinator.com/item?id=44183651) - [Connecticut legislature overhauls towing laws to reduce 'predatory towing'](https://www.propublica.org/article/connecticut-passes-towing-law-reform)
+* [2025-06-04, 17:57:15](https://news.ycombinator.com/item?id=44183591) - [The iPhone 15 Pro's Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
+* [2025-06-04, 17:50:44](https://news.ycombinator.com/item?id=44183515) - [Mistral Code](https://mistral.ai/products/mistral-code)
 * [2025-06-04, 17:23:51](https://news.ycombinator.com/item?id=44183175) - [Giant planet discovered orbiting tiny star](https://www.ucl.ac.uk/news/2025/jun/giant-planet-discovered-orbiting-tiny-star)
 * [2025-06-04, 17:09:01](https://news.ycombinator.com/item?id=44182989) - [Ship Carrying EVs Abandoned in Pacific After Catching Fire](https://www.bloomberg.com/news/articles/2025-06-04/ship-carrying-evs-abandoned-in-pacific-after-catching-fire)
 * [2025-06-04, 17:06:18](https://news.ycombinator.com/item?id=44182941) - [Preventing Flash of Incomplete Markdown when streaming AI responses](https://engineering.streak.com/p/preventing-unstyled-markdown-streaming-ai)
