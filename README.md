@@ -29,7 +29,7 @@
 * [2025-06-04, 02:57:11](https://news.ycombinator.com/item?id=44176825) - [Binary Wordle](https://wordle.chengeric.com/)
 * [2025-06-04, 02:38:46](https://news.ycombinator.com/item?id=44176737) - [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
 * [2025-06-04, 01:47:26](https://news.ycombinator.com/item?id=44176514) - [Ask HN: Has anybody built search on top of Anna's Archive?](https://news.ycombinator.com/item?id=44176514)
-* [2025-06-02, 17:25:55](https://news.ycombinator.com/item?id=44161102) - [Twain Dreams](https://harpers.org/archive/2025/06/twain-dreams-samuel-clemens-john-jeremiah-sullivan/)
+* [2025-06-04, 01:46:49](https://news.ycombinator.com/item?id=44176510) - [Ask HN: Startup getting spammed with PayPal disputes, what should we do?](https://news.ycombinator.com/item?id=44176510)
 
 ## [Archives](archives/index.md)
 
