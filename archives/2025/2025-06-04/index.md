@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 03:19:45](https://news.ycombinator.com/item?id=44176919) - [Installing *BSD in 2025 part 3 – A critical look at NetBSD's installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
 * [2025-06-04, 03:18:30](https://news.ycombinator.com/item?id=44176909) - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 * [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
 * [2025-06-04, 02:57:11](https://news.ycombinator.com/item?id=44176825) - [Binary Wordle](https://wordle.chengeric.com/)
