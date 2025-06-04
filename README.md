@@ -2,8 +2,8 @@
 
 * [2025-06-04, 07:18:23](https://news.ycombinator.com/item?id=44178008) - [X's new \"encrypted\" XChat feature doesn't seem to be any more secure](https://www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/)
 * [2025-06-04, 07:00:54](https://news.ycombinator.com/item?id=44177901) - [Depot (YC W23) is hiring an enterprise support engineer (UK/EU)](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
+* [2025-06-04, 06:40:13](https://news.ycombinator.com/item?id=44177797) - [Decentralization Hidden in the Dark Ages](http://bionicmosquito.blogspot.com/2013/02/decentralization-hidden-in-dark-ages.html)
 * [2025-06-04, 06:11:00](https://news.ycombinator.com/item?id=44177674) - [Meta buys a nuclear power plant (more or less)](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
-* [2025-06-04, 05:19:10](https://news.ycombinator.com/item?id=44177446) - [Machine Code Isn't Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
 * [2025-06-04, 03:19:45](https://news.ycombinator.com/item?id=44176919) - [A critical look at NetBSD’s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
 * [2025-06-04, 03:18:30](https://news.ycombinator.com/item?id=44176909) - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 * [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
@@ -13,7 +13,6 @@
 * [2025-06-04, 02:16:21](https://news.ycombinator.com/item?id=44176636) - [Barrelfish OS Architecture Overview (2013) [pdf]](https://barrelfish.org/publications/TN-000-Overview.pdf)
 * [2025-06-04, 01:47:26](https://news.ycombinator.com/item?id=44176514) - [Ask HN: Has anybody built search on top of Anna's Archive?](https://news.ycombinator.com/item?id=44176514)
 * [2025-06-04, 01:46:49](https://news.ycombinator.com/item?id=44176510) - [Ask HN: Startup getting spammed with PayPal disputes, what should we do?](https://news.ycombinator.com/item?id=44176510)
-* [2025-06-04, 01:29:59](https://news.ycombinator.com/item?id=44176425) - [A manager is not your best friend](https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html)
 * [2025-06-03, 23:37:04](https://news.ycombinator.com/item?id=44175905) - [Brain aging shows nonlinear transitions, suggesting a midlife \"critical window\"](https://www.pnas.org/doi/10.1073/pnas.2416433122)
 * [2025-06-03, 23:11:25](https://news.ycombinator.com/item?id=44175773) - [Precious Plastic is in trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
 * [2025-06-03, 22:45:11](https://news.ycombinator.com/item?id=44175579) - [New study casts doubt on the likelihood of Milky Way collision with Andromeda](https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/)
@@ -28,6 +27,7 @@
 * [2025-06-03, 12:12:28](https://news.ycombinator.com/item?id=44169115) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 * [2025-05-31, 13:54:31](https://news.ycombinator.com/item?id=44144299) - [Writing a postmortem: an interview exercise I like (2017)](https://www.danielputtick.com/writing/mapbox-postmortem-interview.html)
 * [2025-05-31, 12:49:59](https://news.ycombinator.com/item?id=44143929) - [Bookish Diversions: Reading as Help for Living](https://www.millersbookreview.com/p/reading-as-help-for-living)
+* [2025-05-31, 12:19:00](https://news.ycombinator.com/item?id=44143767) - [Nncp: Ad-hoc friend-to-friend delay-tolerant sneakernet-compatible darknet](http://www.nncpgo.org/)
 * [2025-05-31, 12:00:40](https://news.ycombinator.com/item?id=44143671) - [Standard Completions](https://standardcompletions.org)
 * [2025-05-31, 10:06:16](https://news.ycombinator.com/item?id=44143199) - [Consider Knitting](https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/)
 

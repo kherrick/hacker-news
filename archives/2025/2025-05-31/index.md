@@ -35,6 +35,7 @@
 * [2025-05-31, 12:49:59](https://news.ycombinator.com/item?id=44143929) - [Bookish Diversions: Reading as Help for Living](https://www.millersbookreview.com/p/reading-as-help-for-living)
 * [2025-05-31, 12:48:56](https://news.ycombinator.com/item?id=44143922) - [Dodge Confirms Electric Charger Daytona R/T Is Dead as Unsold Cars Pile Up](https://www.thedrive.com/news/dodge-confirms-electric-charger-daytona-r-t-is-dead-because-nobody-wants-it)
 * [2025-05-31, 12:21:54](https://news.ycombinator.com/item?id=44143782) - ['Wind theft': The mysterious effect plaguing wind farms](https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft)
+* [2025-05-31, 12:19:00](https://news.ycombinator.com/item?id=44143767) - [Nncp: Ad-hoc friend-to-friend delay-tolerant sneakernet-compatible darknet](http://www.nncpgo.org/)
 * [2025-05-31, 12:00:40](https://news.ycombinator.com/item?id=44143671) - [Standard Completions](https://standardcompletions.org)
 * [2025-05-31, 12:00:34](https://news.ycombinator.com/item?id=44143669) - [The Guide to Cloudflare's Durable Objects](https://flaredup.substack.com/p/the-ultimate-guide-to-cloudflares)
 * [2025-05-31, 11:50:27](https://news.ycombinator.com/item?id=44143615) - [An illustrated guide to Amazon VPCs](https://www.ducktyped.org/p/why-is-it-called-a-cloud-if-its-not)
