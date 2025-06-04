@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
 * [2025-06-04, 16:54:07](https://news.ycombinator.com/item?id=44182795) - [Tesla shows no sign of improvement in May sales data](https://arstechnica.com/cars/2025/06/tesla-shows-no-sign-of-improvement-in-may-sales-data/)
+* [2025-06-04, 16:39:36](https://news.ycombinator.com/item?id=44182634) - [We Are No Longer a Serious Country – Paul Krugman](https://paulkrugman.substack.com/p/we-are-no-longer-a-serious-country)
 * [2025-06-04, 16:35:58](https://news.ycombinator.com/item?id=44182582) - [VC money is fueling a global boom in worker surveillance tech](https://restofworld.org/2025/employee-surveillance-software-vc-funding/)
+* [2025-06-04, 16:16:39](https://news.ycombinator.com/item?id=44182356) - [The IRS Tax Filing Software TurboTax Is Trying to Kill Just Got Open Sourced](https://www.404media.co/directfile-open-source-irs-tax-filing-software-turbotax-is-trying-to-kil/)
 * [2025-06-04, 16:10:24](https://news.ycombinator.com/item?id=44182297) - [Haribo recalls sweets in the Netherlands after traces of cannabis found](https://www.theguardian.com/world/2025/may/29/haribo-recalls-sweets-in-the-netherlands-after-traces-of-cannabis-found)
+* [2025-06-04, 16:08:03](https://news.ycombinator.com/item?id=44182275) - [Teenage Engineering lets you pick what you want to pay for an OP-1 Field](https://teenage.engineering/)
 * [2025-06-04, 16:00:52](https://news.ycombinator.com/item?id=44182206) - [Show HN: GPT Image Editing, but for 3D Models](https://www.adamcad.com/)
 * [2025-06-04, 16:00:42](https://news.ycombinator.com/item?id=44182204) - [Meta found 'covertly tracking' Android users through Instagram and Facebook](https://news.sky.com/story/meta-found-covertly-tracking-android-users-through-instagram-and-facebook-13379083)
 * [2025-06-04, 15:58:50](https://news.ycombinator.com/item?id=44182186) - [FFmpeg Merges WebRTC Support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
