@@ -6,10 +6,13 @@
 
 * [2025-06-04, 11:25:39](https://news.ycombinator.com/item?id=44179494) - [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
 * [2025-06-04, 11:22:28](https://news.ycombinator.com/item?id=44179475) - [Greenland mega tsunamis: First direct observation of trapped waves shook Earth](https://phys.org/news/2025-06-greenland-mega-tsunamis-shook-world.html)
+* [2025-06-04, 11:18:14](https://news.ycombinator.com/item?id=44179455) - [Porn sites go dark in France over new age verification rules](https://www.rfi.fr/en/france/20250604-porn-sites-go-dark-in-france-over-new-age-verification-rules)
 * [2025-06-04, 10:51:58](https://news.ycombinator.com/item?id=44179329) - [Just how bad are we at treating age-related diseases?](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases)
 * [2025-06-04, 10:36:49](https://news.ycombinator.com/item?id=44179257) - [Why I Wrote the Beam Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 09:55:16](https://news.ycombinator.com/item?id=44178997) - [Some tips for off-race ultra running](https://federicopereiro.com/offrace-ultra/)
 * [2025-06-04, 09:42:29](https://news.ycombinator.com/item?id=44178902) - [Cockatoos have learned to operate drinking fountains in Australia](https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia)
+* [2025-06-04, 09:38:34](https://news.ycombinator.com/item?id=44178877) - [Connect Claude to your own apps](https://www.aluxian.com/connect-claude-to-your-own-apps/)
+* [2025-06-04, 09:26:32](https://news.ycombinator.com/item?id=44178780) - [Show HN: I built an OSINT tools directory](https://r00m101.com/tools)
 * [2025-06-04, 08:28:46](https://news.ycombinator.com/item?id=44178468) - [Cloud Run GPUs, now GA, makes running AI workloads easier for everyone](https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available)
 * [2025-06-04, 08:20:51](https://news.ycombinator.com/item?id=44178418) - [Why I Use a Dumbphone in 2025 (and Why You Should Too)](https://samueleamato.xyz/2025/06/04/why-i-use-a-dumbphone.html)
 * [2025-06-04, 07:37:56](https://news.ycombinator.com/item?id=44178147) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
