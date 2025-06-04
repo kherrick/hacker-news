@@ -31,6 +31,7 @@
 * [2025-05-31, 13:51:16](https://news.ycombinator.com/item?id=44144280) - [Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis](https://github.com/robertjakob/rigorous)
 * [2025-05-31, 13:41:44](https://news.ycombinator.com/item?id=44144240) - [Bohemians at the Gate?](https://inferencemagazine.substack.com/p/bohemians-at-the-gate)
 * [2025-05-31, 13:39:58](https://news.ycombinator.com/item?id=44144224) - [I Switched to UTC and Never Looked Back](https://timestripe.com/magazine/blog/timezone/)
+* [2025-05-31, 13:24:17](https://news.ycombinator.com/item?id=44144146) - [Record/Replay Debugging Tutorial](https://github.com/sidkshatriya/me/blob/master/009-rr-on-aarch64.md)
 * [2025-05-31, 13:20:30](https://news.ycombinator.com/item?id=44144119) - [Breakthrough cancer drug doubles survival in trial](https://www.bbc.com/news/articles/ce82gderpl9o)
 * [2025-05-31, 12:49:59](https://news.ycombinator.com/item?id=44143929) - [Bookish Diversions: Reading as Help for Living](https://www.millersbookreview.com/p/reading-as-help-for-living)
 * [2025-05-31, 12:48:56](https://news.ycombinator.com/item?id=44143922) - [Dodge Confirms Electric Charger Daytona R/T Is Dead as Unsold Cars Pile Up](https://www.thedrive.com/news/dodge-confirms-electric-charger-daytona-r-t-is-dead-because-nobody-wants-it)
