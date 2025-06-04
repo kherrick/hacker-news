@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 19:04:31](https://news.ycombinator.com/item?id=44184305) - [Curtis Yarvin's Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
 * [2025-06-04, 18:38:16](https://news.ycombinator.com/item?id=44184011) - [A Message from Internet Archive Founder, Brewster Kahle](https://archive.org/donate)
 * [2025-06-04, 18:23:37](https://news.ycombinator.com/item?id=44183873) - [Ask HN: Why hasn't Apple bought a cell carrier like AT&T or Verizon?](https://news.ycombinator.com/item?id=44183873)
+* [2025-06-04, 18:20:36](https://news.ycombinator.com/item?id=44183842) - [The Echo in the Machine](https://radiolab.org/podcast/the-echo-in-the-machine)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users' local network](https://github.com/explainers-by-googlers/local-network-access)
+* [2025-06-04, 18:15:14](https://news.ycombinator.com/item?id=44183791) - [The History of R2E and the Micral - The second personal computer](https://www.abortretry.fail/p/the-history-of-r2e-and-the-micral)
 * [2025-06-04, 18:01:52](https://news.ycombinator.com/item?id=44183651) - [Connecticut legislature overhauls towing laws to reduce 'predatory towing'](https://www.propublica.org/article/connecticut-passes-towing-law-reform)
 * [2025-06-04, 17:57:15](https://news.ycombinator.com/item?id=44183591) - [The iPhone 15 Pro's Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
 * [2025-06-04, 17:50:44](https://news.ycombinator.com/item?id=44183515) - [Mistral Code](https://mistral.ai/products/mistral-code)
