@@ -9,6 +9,7 @@
 * [2025-06-04, 15:00:29](https://news.ycombinator.com/item?id=44181421) - [The Right to Repair Is Law in Washington State](https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state)
 * [2025-06-04, 14:50:12](https://news.ycombinator.com/item?id=44181305) - [From Steam to Silicon: Patterns of Technological Revolutions](https://ianreppel.org/from-steam-to-silicon/)
 * [2025-06-04, 14:38:22](https://news.ycombinator.com/item?id=44181172) - [\"AI Will Replace All the Jobs \" Is Just Tech Execs Doing Marketing](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/)
+* [2025-06-04, 14:10:47](https://news.ycombinator.com/item?id=44180921) - [The Gutting of America's Medical Research](https://www.nytimes.com/interactive/2025/06/04/health/trump-cuts-nih-grants-research.html)
 * [2025-06-04, 13:54:17](https://news.ycombinator.com/item?id=44180772) - [What Is Post-Fascism?](https://www.jhiblog.org/2025/06/04/what-is-post-fascism/)
 * [2025-06-04, 13:42:55](https://news.ycombinator.com/item?id=44180661) - [How Should We Think About the Renaissance?](https://www.chronicle.com/article/how-should-we-think-about-the-renaissance)
 * [2025-06-04, 13:37:39](https://news.ycombinator.com/item?id=44180607) - [Globally Based – all-in-one platform for travel management](https://globallybased.com)
