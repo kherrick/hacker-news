@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 14:38:22](https://news.ycombinator.com/item?id=44181172) - [\"AI Will Replace All the Jobs \" Is Just Tech Execs Doing Marketing](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/)
 * [2025-06-04, 13:54:17](https://news.ycombinator.com/item?id=44180772) - [What Is Post-Fascism?](https://www.jhiblog.org/2025/06/04/what-is-post-fascism/)
 * [2025-06-04, 13:42:55](https://news.ycombinator.com/item?id=44180661) - [How Should We Think About the Renaissance?](https://www.chronicle.com/article/how-should-we-think-about-the-renaissance)
 * [2025-06-04, 13:37:39](https://news.ycombinator.com/item?id=44180607) - [Globally Based – all-in-one platform for travel management](https://globallybased.com)
