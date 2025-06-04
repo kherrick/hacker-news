@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-04, 17:09:01",
+      "https://news.ycombinator.com/item?id=44182989"
+    ],
+    [
+      "Ship Carrying EVs Abandoned in Pacific After Catching Fire",
+      "https://www.bloomberg.com/news/articles/2025-06-04/ship-carrying-evs-abandoned-in-pacific-after-catching-fire"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 17:06:18",
       "https://news.ycombinator.com/item?id=44182941"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-06-04, 16:39:36",
-      "https://news.ycombinator.com/item?id=44182634"
-    ],
-    [
-      "We Are No Longer a Serious Country – Paul Krugman",
-      "https://paulkrugman.substack.com/p/we-are-no-longer-a-serious-country"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 16:35:58",
       "https://news.ycombinator.com/item?id=44182582"
     ],
@@ -55,8 +55,8 @@
       "https://news.ycombinator.com/item?id=44182356"
     ],
     [
-      "The IRS Tax Filing Software TurboTax Is Trying to Kill Just Got Open Sourced",
-      "https://www.404media.co/directfile-open-source-irs-tax-filing-software-turbotax-is-trying-to-kil/"
+      "IRS Direct File on GitHub",
+      "https://chrisgiven.com/2025/05/direct-file-on-github/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Show HN: GPT image editing, but for 3D models",
       "https://www.adamcad.com/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 16:00:42",
-      "https://news.ycombinator.com/item?id=44182204"
-    ],
-    [
-      "Meta found 'covertly tracking' Android users through Instagram and Facebook",
-      "https://news.sky.com/story/meta-found-covertly-tracking-android-users-through-instagram-and-facebook-13379083"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44182186"
     ],
     [
-      "FFmpeg Merges WebRTC Support",
+      "FFmpeg merges WebRTC support",
       "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00"
     ]
   ],
@@ -151,11 +141,21 @@
   ],
   [
     [
+      "2025-06-04, 14:14:40",
+      "https://news.ycombinator.com/item?id=44180954"
+    ],
+    [
+      "Doubling Down on Open Source",
+      "https://langfuse.com/blog/2025-06-04-open-sourcing-langfuse-product"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 10:36:49",
       "https://news.ycombinator.com/item?id=44179257"
     ],
     [
-      "Why I Wrote the BEAM Book",
+      "Why I wrote the BEAM book",
       "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/"
     ]
   ],
