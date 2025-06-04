@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-04, 12:42:33",
+      "https://news.ycombinator.com/item?id=44180126"
+    ],
+    [
+      "Cord didn't win. What now?",
+      "https://jg.gg/2025/01/10/cord-didnt-win-what-now/"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 11:40:22",
       "https://news.ycombinator.com/item?id=44179604"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44179399"
     ],
     [
-      "Tellico – Collection management software, free and simple",
+      "Tellico – Collection management software",
       "https://tellico-project.org/"
     ]
   ],
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2025-06-04, 09:55:16",
-      "https://news.ycombinator.com/item?id=44178997"
-    ],
-    [
-      "Some tips for off-race ultra running",
-      "https://federicopereiro.com/offrace-ultra/"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 09:42:29",
       "https://news.ycombinator.com/item?id=44178902"
     ],
     [
       "Cockatoos have learned to operate drinking fountains in Australia",
       "https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 09:26:32",
-      "https://news.ycombinator.com/item?id=44178780"
-    ],
-    [
-      "Show HN: I built an OSINT tools directory",
-      "https://r00m101.com/tools"
     ]
   ],
   [
@@ -91,12 +81,12 @@
   ],
   [
     [
-      "2025-06-04, 07:20:35",
-      "https://news.ycombinator.com/item?id=44178024"
+      "2025-06-04, 08:24:08",
+      "https://news.ycombinator.com/item?id=44178445"
     ],
     [
-      "What if you could do it all over?",
-      "https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over"
+      "Click-V: A RISC-V emulator built with ClickHouse SQL",
+      "https://github.com/SpencerTorres/Click-V"
     ]
   ],
   [
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2025-06-04, 02:16:21",
-      "https://news.ycombinator.com/item?id=44176636"
-    ],
-    [
-      "Barrelfish OS Architecture Overview (2013) [pdf]",
-      "https://barrelfish.org/publications/TN-000-Overview.pdf"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 01:47:26",
       "https://news.ycombinator.com/item?id=44176514"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2025-06-03, 22:13:01",
+      "https://news.ycombinator.com/item?id=44175356"
+    ],
+    [
+      "Mapping latitude and longitude to country, state, or city",
+      "https://austinhenley.com/blog/coord2state.html"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 21:31:56",
       "https://news.ycombinator.com/item?id=44174965"
     ],
@@ -277,6 +267,16 @@
     [
       "Writing a postmortem: an interview exercise I like (2017)",
       "https://www.danielputtick.com/writing/mapbox-postmortem-interview.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 13:43:50",
+      "https://news.ycombinator.com/item?id=44144250"
+    ],
+    [
+      "How to Read a Novel",
+      "https://adjacentpossible.substack.com/p/how-to-read-a-novel"
     ]
   ],
   [
