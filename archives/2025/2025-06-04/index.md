@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
 * [2025-06-04, 19:04:31](https://news.ycombinator.com/item?id=44184305) - [Curtis Yarvin's Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
+* [2025-06-04, 18:56:50](https://news.ycombinator.com/item?id=44184207) - [Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth & PostgreSQL](https://github.com/f/mcp-cloudflare-boilerplate)
 * [2025-06-04, 18:38:16](https://news.ycombinator.com/item?id=44184011) - [A Message from Internet Archive Founder, Brewster Kahle](https://archive.org/donate)
 * [2025-06-04, 18:23:37](https://news.ycombinator.com/item?id=44183873) - [Ask HN: Why hasn't Apple bought a cell carrier like AT&T or Verizon?](https://news.ycombinator.com/item?id=44183873)
 * [2025-06-04, 18:20:36](https://news.ycombinator.com/item?id=44183842) - [The Echo in the Machine](https://radiolab.org/podcast/the-echo-in-the-machine)
