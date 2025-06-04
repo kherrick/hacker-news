@@ -10,6 +10,7 @@
 * [2025-06-04, 20:15:55](https://news.ycombinator.com/item?id=44185003) - [The importance of free software to science](https://lwn.net/SubscriberLink/1023299/7ba649b1ede41895/)
 * [2025-06-04, 20:12:44](https://news.ycombinator.com/item?id=44184974) - [Fakespot will shut down on July 1, 2025](https://www.fakespot.com/)
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
+* [2025-06-04, 19:59:51](https://news.ycombinator.com/item?id=44184861) - [Ada and SPARK enter the automotive ISO-26262 market with Nvidia](https://www.adacore.com/press/ada-and-spark-enter-the-automotive-iso-26262-market-with-nvidia)
 * [2025-06-04, 19:58:49](https://news.ycombinator.com/item?id=44184849) - [Show HN: App.build, an open-source AI agent that builds full-stack apps](https://www.app.build/)
 * [2025-06-04, 19:26:25](https://news.ycombinator.com/item?id=44184542) - [Redesigned Swift.org is now live](https://swift.org/)
 * [2025-06-04, 19:04:31](https://news.ycombinator.com/item?id=44184305) - [Curtis Yarvin's Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
