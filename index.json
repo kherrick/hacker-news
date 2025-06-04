@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-06-04, 20:31:37",
+      "https://news.ycombinator.com/item?id=44185158"
+    ],
+    [
+      "VectorSmuggle: Covertly Exfiltrate Data in Embeddings",
+      "https://github.com/jaschadub/VectorSmuggle"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 20:24:07",
       "https://news.ycombinator.com/item?id=44185078"
     ],
     [
       "Amelia Earhart's Reckless Final Flights",
       "https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 20:15:55",
+      "https://news.ycombinator.com/item?id=44185003"
+    ],
+    [
+      "The importance of free software to science",
+      "https://lwn.net/SubscriberLink/1023299/7ba649b1ede41895/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "A proposal to restrict sites from accessing a users’ local network",
       "https://github.com/explainers-by-googlers/local-network-access"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 18:15:14",
-      "https://news.ycombinator.com/item?id=44183791"
-    ],
-    [
-      "The History of R2E and the Micral – The second personal computer",
-      "https://www.abortretry.fail/p/the-history-of-r2e-and-the-micral"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Cloud Run GPUs, now GA, makes running AI workloads easier for everyone",
       "https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 05:19:10",
-      "https://news.ycombinator.com/item?id=44177446"
-    ],
-    [
-      "Machine Code Isn't Scary",
-      "https://jimmyhmiller.com/machine-code-isnt-scary"
     ]
   ],
   [
