@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
 * [2025-06-04, 22:35:56](https://news.ycombinator.com/item?id=44186284) - [PromptArmor (YC W24) Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
+* [2025-06-04, 21:58:46](https://news.ycombinator.com/item?id=44185990) - [Unsold Cybertrucks Are Piling Up at a Decaying US Shopping Mall](https://www.vice.com/en/article/unsold-cybertrucks-are-piling-up-at-a-decaying-us-shopping-mall/)
 * [2025-06-04, 21:47:33](https://news.ycombinator.com/item?id=44185913) - [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
 * [2025-06-04, 21:40:09](https://news.ycombinator.com/item?id=44185856) - [Flight Simulator Gave Birth to 3D Video-Game Graphics](https://spectrum.ieee.org/microsoft-flight-simulator)
 * [2025-06-04, 21:39:35](https://news.ycombinator.com/item?id=44185845) - [Arthur C. Clarke Predicted the Rise of AI (1978)](https://www.openculture.com/2024/12/arthur-c-clarke-predicts-the-rise-of-artificial-intelligence-questions-what-will-happen-to-humanity-1978.html)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-04, 22:35:56](https://news.ycombinator.com/item?id=44186284) - [PromptArmor (YC W24) Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
+* [2025-06-04, 21:58:46](https://news.ycombinator.com/item?id=44185990) - [Unsold Cybertrucks Are Piling Up at a Decaying US Shopping Mall](https://www.vice.com/en/article/unsold-cybertrucks-are-piling-up-at-a-decaying-us-shopping-mall/)
 * [2025-06-04, 21:47:33](https://news.ycombinator.com/item?id=44185913) - [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
 * [2025-06-04, 21:40:09](https://news.ycombinator.com/item?id=44185856) - [Flight Simulator Gave Birth to 3D Video-Game Graphics](https://spectrum.ieee.org/microsoft-flight-simulator)
 * [2025-06-04, 21:39:35](https://news.ycombinator.com/item?id=44185845) - [Arthur C. Clarke Predicted the Rise of AI (1978)](https://www.openculture.com/2024/12/arthur-c-clarke-predicts-the-rise-of-artificial-intelligence-questions-what-will-happen-to-humanity-1978.html)
@@ -8,6 +9,7 @@
 * [2025-06-04, 20:39:53](https://news.ycombinator.com/item?id=44185256) - [Cursor 1.0](https://www.cursor.com/en/changelog/1-0)
 * [2025-06-04, 20:31:37](https://news.ycombinator.com/item?id=44185158) - [VectorSmuggle: Covertly Exfiltrate Data in Embeddings](https://github.com/jaschadub/VectorSmuggle)
 * [2025-06-04, 20:24:07](https://news.ycombinator.com/item?id=44185078) - [Amelia Earhart's Reckless Final Flights](https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights)
+* [2025-06-04, 20:15:55](https://news.ycombinator.com/item?id=44185003) - [The importance of free software to science](https://lwn.net/SubscriberLink/1023299/7ba649b1ede41895/)
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 19:59:51](https://news.ycombinator.com/item?id=44184861) - [Ada and SPARK enter the automotive ISO-26262 market with Nvidia](https://www.adacore.com/press/ada-and-spark-enter-the-automotive-iso-26262-market-with-nvidia)
 * [2025-06-04, 19:58:49](https://news.ycombinator.com/item?id=44184849) - [Show HN: App.build, an open-source AI agent that builds full-stack apps](https://www.app.build/)
@@ -28,8 +30,6 @@
 * [2025-06-04, 10:36:49](https://news.ycombinator.com/item?id=44179257) - [Why I wrote the BEAM book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 09:42:29](https://news.ycombinator.com/item?id=44178902) - [Cockatoos have learned to operate drinking fountains in Australia](https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia)
 * [2025-06-04, 08:28:46](https://news.ycombinator.com/item?id=44178468) - [Cloud Run GPUs, now GA, makes running AI workloads easier for everyone](https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available)
-* [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
-* [2025-06-04, 02:38:46](https://news.ycombinator.com/item?id=44176737) - [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
 
 ## [Archives](archives/index.md)
 
