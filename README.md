@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-04, 07:00:54](https://news.ycombinator.com/item?id=44177901) - [Depot (YC W23) is hiring an enterprise support engineer (UK/EU)](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
+* [2025-06-04, 06:11:00](https://news.ycombinator.com/item?id=44177674) - [Meta buys a nuclear power plant (more or less)](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
 * [2025-06-04, 03:19:45](https://news.ycombinator.com/item?id=44176919) - [A critical look at NetBSD’s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
 * [2025-06-04, 03:18:30](https://news.ycombinator.com/item?id=44176909) - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 * [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
@@ -9,8 +11,8 @@
 * [2025-06-04, 02:19:56](https://news.ycombinator.com/item?id=44176653) - [Out of His League and Clueless: NIH Staffers Speak Out on Director Bhattacharya](https://www.importantcontext.news/p/out-of-his-depth-sold-his-soul-clueless)
 * [2025-06-04, 02:16:21](https://news.ycombinator.com/item?id=44176636) - [Barrelfish OS Architecture Overview (2013) [pdf]](https://barrelfish.org/publications/TN-000-Overview.pdf)
 * [2025-06-04, 01:47:26](https://news.ycombinator.com/item?id=44176514) - [Ask HN: Has anybody built search on top of Anna's Archive?](https://news.ycombinator.com/item?id=44176514)
+* [2025-06-04, 01:46:49](https://news.ycombinator.com/item?id=44176510) - [Ask HN: Startup getting spammed with PayPal disputes, what should we do?](https://news.ycombinator.com/item?id=44176510)
 * [2025-06-04, 01:29:59](https://news.ycombinator.com/item?id=44176425) - [A manager is not your best friend](https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html)
-* [2025-06-04, 01:00:27](https://news.ycombinator.com/item?id=44176314) - [Patched (YC S24) Is Hiring SWEs in Singapore](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer)
 * [2025-06-03, 23:37:04](https://news.ycombinator.com/item?id=44175905) - [Brain aging shows nonlinear transitions, suggesting a midlife \"critical window\"](https://www.pnas.org/doi/10.1073/pnas.2416433122)
 * [2025-06-03, 23:11:25](https://news.ycombinator.com/item?id=44175773) - [Precious Plastic is in trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
 * [2025-06-03, 22:45:11](https://news.ycombinator.com/item?id=44175579) - [New study casts doubt on the likelihood of Milky Way collision with Andromeda](https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/)
@@ -18,7 +20,6 @@
 * [2025-06-03, 22:13:01](https://news.ycombinator.com/item?id=44175356) - [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
 * [2025-06-03, 21:31:56](https://news.ycombinator.com/item?id=44174965) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 * [2025-06-03, 21:19:32](https://news.ycombinator.com/item?id=44174856) - [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
-* [2025-06-03, 20:12:33](https://news.ycombinator.com/item?id=44174190) - [Show HN: AirAP AirPlay server – AirPlay to an iOS Device](https://github.com/neon443/AirAP)
 * [2025-06-03, 19:43:30](https://news.ycombinator.com/item?id=44173853) - [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
 * [2025-06-03, 18:56:55](https://news.ycombinator.com/item?id=44173377) - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
 * [2025-06-03, 17:49:25](https://news.ycombinator.com/item?id=44172659) - [Changing Directions](https://jacobian.org/2025/jun/3/changing-directions/)
@@ -28,7 +29,6 @@
 * [2025-05-31, 12:48:56](https://news.ycombinator.com/item?id=44143922) - [Dodge Confirms Electric Charger Daytona R/T Is Dead as Unsold Cars Pile Up](https://www.thedrive.com/news/dodge-confirms-electric-charger-daytona-r-t-is-dead-because-nobody-wants-it)
 * [2025-05-31, 12:21:54](https://news.ycombinator.com/item?id=44143782) - [The wake effect: As wind farms expand, some can ‘steal’ each others’ wind](https://www.bbc.com/future/article/20250506-renewable-energys-trouble-with-wind-theft)
 * [2025-05-31, 12:00:40](https://news.ycombinator.com/item?id=44143671) - [Standard Completions](https://standardcompletions.org)
-* [2025-05-31, 11:50:27](https://news.ycombinator.com/item?id=44143615) - [An illustrated guide to Amazon VPCs](https://www.ducktyped.org/p/why-is-it-called-a-cloud-if-its-not)
 * [2025-05-31, 10:06:16](https://news.ycombinator.com/item?id=44143199) - [Consider Knitting](https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/)
 
 ## [Archives](archives/index.md)
