@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-06-04, 18:23:37",
+      "https://news.ycombinator.com/item?id=44183873"
+    ],
+    [
+      "Ask HN: Why hasn't Apple bought a cell carrier like AT&T or Verizon?",
+      "https://news.ycombinator.com/item?id=44183873"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 18:15:54",
+      "https://news.ycombinator.com/item?id=44183799"
+    ],
+    [
+      "A proposal to restrict sites from accessing a users' local network",
+      "https://github.com/explainers-by-googlers/local-network-access"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 18:01:52",
+      "https://news.ycombinator.com/item?id=44183651"
+    ],
+    [
+      "Connecticut legislature overhauls towing laws to reduce 'predatory towing'",
+      "https://www.propublica.org/article/connecticut-passes-towing-law-reform"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 17:57:15",
+      "https://news.ycombinator.com/item?id=44183591"
+    ],
+    [
+      "The iPhone 15 Pro's Depth Maps",
+      "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 17:50:44",
+      "https://news.ycombinator.com/item?id=44183515"
+    ],
+    [
+      "Mistral Code",
+      "https://mistral.ai/products/mistral-code"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 17:23:51",
       "https://news.ycombinator.com/item?id=44183175"
     ],
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2025-06-04, 15:27:07",
-      "https://news.ycombinator.com/item?id=44181781"
-    ],
-    [
-      "Interactive MissileMap",
-      "https://nuclearsecrecy.com/missilemap/"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 15:21:22",
       "https://news.ycombinator.com/item?id=44181700"
     ],
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2025-06-04, 08:24:08",
-      "https://news.ycombinator.com/item?id=44178445"
-    ],
-    [
-      "Click-V: A RISC-V emulator built with ClickHouse SQL",
-      "https://github.com/SpencerTorres/Click-V"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 07:00:54",
       "https://news.ycombinator.com/item?id=44177901"
     ],
@@ -207,16 +237,6 @@
     [
       "Machine Code Isn't Scary",
       "https://jimmyhmiller.com/machine-code-isnt-scary"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 03:19:45",
-      "https://news.ycombinator.com/item?id=44176919"
-    ],
-    [
-      "A critical look at NetBSD’s installer",
-      "https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-06-04, 01:46:49",
-      "https://news.ycombinator.com/item?id=44176510"
-    ],
-    [
-      "Ask HN: Startup getting spammed with PayPal disputes, what should we do?",
-      "https://news.ycombinator.com/item?id=44176510"
-    ]
-  ],
-  [
-    [
       "2025-06-02, 17:25:55",
       "https://news.ycombinator.com/item?id=44161102"
     ],
     [
       "Twain Dreams",
       "https://harpers.org/archive/2025/06/twain-dreams-samuel-clemens-john-jeremiah-sullivan/"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 13:54:31",
-      "https://news.ycombinator.com/item?id=44144299"
-    ],
-    [
-      "Writing a postmortem: an interview exercise I like (2017)",
-      "https://www.danielputtick.com/writing/mapbox-postmortem-interview.html"
     ]
   ],
   [
