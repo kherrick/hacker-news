@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 12:55:16](https://news.ycombinator.com/item?id=44180239) - [Designing better file organization around tags, not hierarchies (2017)](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 * [2025-06-04, 12:42:33](https://news.ycombinator.com/item?id=44180126) - [Cord didn't win. What now?](https://jg.gg/2025/01/10/cord-didnt-win-what-now/)
+* [2025-06-04, 11:50:59](https://news.ycombinator.com/item?id=44179691) - [The Sky's the limit: AI automation on Mac](https://taoofmac.com/space/blog/2025/06/03/2155)
 * [2025-06-04, 11:40:22](https://news.ycombinator.com/item?id=44179604) - [Claude Code is now available to Pro plans](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan)
 * [2025-06-04, 11:25:39](https://news.ycombinator.com/item?id=44179494) - [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
 * [2025-06-04, 11:22:28](https://news.ycombinator.com/item?id=44179475) - [Greenland mega tsunamis: First direct observation of trapped waves shook Earth](https://phys.org/news/2025-06-greenland-mega-tsunamis-shook-world.html)
