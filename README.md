@@ -13,7 +13,6 @@
 * [2025-06-03, 23:11:25](https://news.ycombinator.com/item?id=44175773) - [Precious Plastic is in trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
 * [2025-06-03, 22:45:11](https://news.ycombinator.com/item?id=44175579) - [New study casts doubt on the likelihood of Milky Way collision with Andromeda](https://www.durham.ac.uk/departments/academic/physics/news/new-study-casts-doubt-on-the-likelihood-of-milky-way-collision-with-andromeda/)
 * [2025-06-03, 22:41:33](https://news.ycombinator.com/item?id=44175557) - [Show HN: Ephe – A minimalist open-source Markdown paper for today](https://github.com/unvalley/ephe)
-* [2025-06-03, 22:35:08](https://news.ycombinator.com/item?id=44175510) - [Polish engineer creates postage stamp-sized 1980s Atari computer](https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/)
 * [2025-06-03, 22:13:01](https://news.ycombinator.com/item?id=44175356) - [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
 * [2025-06-03, 21:31:56](https://news.ycombinator.com/item?id=44174965) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 * [2025-06-03, 21:19:32](https://news.ycombinator.com/item?id=44174856) - [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
@@ -30,6 +29,7 @@
 * [2025-06-03, 08:06:28](https://news.ycombinator.com/item?id=44167592) - [Quarkdown: A modern Markdown-based typesetting system](https://github.com/iamgio/quarkdown)
 * [2025-05-31, 12:49:59](https://news.ycombinator.com/item?id=44143929) - [Bookish Diversions: Reading as Help for Living](https://www.millersbookreview.com/p/reading-as-help-for-living)
 * [2025-05-31, 12:00:40](https://news.ycombinator.com/item?id=44143671) - [Standard Completions](https://standardcompletions.org)
+* [2025-05-31, 10:06:16](https://news.ycombinator.com/item?id=44143199) - [Consider Knitting](https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/)
 
 ## [Archives](archives/index.md)
 
