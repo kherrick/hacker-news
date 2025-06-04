@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-04, 03:18:30](https://news.ycombinator.com/item?id=44176909) - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 * [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
 * [2025-06-04, 02:57:11](https://news.ycombinator.com/item?id=44176825) - [Binary Wordle](https://wordle.chengeric.com/)
 * [2025-06-04, 02:38:46](https://news.ycombinator.com/item?id=44176737) - [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
@@ -18,7 +19,6 @@
 * [2025-06-03, 21:19:32](https://news.ycombinator.com/item?id=44174856) - [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
 * [2025-06-03, 20:12:33](https://news.ycombinator.com/item?id=44174190) - [Show HN: AirAP AirPlay server - AirPlay to an iOS Device](https://github.com/neon443/AirAP)
 * [2025-06-03, 19:43:30](https://news.ycombinator.com/item?id=44173853) - [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
-* [2025-06-03, 19:25:57](https://news.ycombinator.com/item?id=44173667) - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 18:56:55](https://news.ycombinator.com/item?id=44173377) - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
 * [2025-06-03, 18:39:29](https://news.ycombinator.com/item?id=44173193) - [CVE-2024-47081: Netrc credential leak in PSF requests library](https://seclists.org/fulldisclosure/2025/Jun/2)
 * [2025-06-03, 17:49:25](https://news.ycombinator.com/item?id=44172659) - [Changing Directions](https://jacobian.org/2025/jun/3/changing-directions/)

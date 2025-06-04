@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 03:18:30](https://news.ycombinator.com/item?id=44176909) - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 * [2025-06-04, 02:58:40](https://news.ycombinator.com/item?id=44176829) - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
 * [2025-06-04, 02:57:11](https://news.ycombinator.com/item?id=44176825) - [Binary Wordle](https://wordle.chengeric.com/)
 * [2025-06-04, 02:47:11](https://news.ycombinator.com/item?id=44176772) - ['Spiderweb' drone attack marks a new threat for top militaries](https://www.businessinsider.com/operation-spiderweb-5-ways-ukraine-drone-attack-new-era-warfare-2025-6)
