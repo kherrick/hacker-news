@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-05, 02:05:33](https://news.ycombinator.com/item?id=44187645) - [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
-* [2025-06-05, 01:42:55](https://news.ycombinator.com/item?id=44187518) - [Couple has eaten at the same restaurant six nights a week for 15 years (2019)](https://www.kansas.com/entertainment/restaurants/dining-with-denise-neil/article226933934.html)
-* [2025-06-05, 01:32:51](https://news.ycombinator.com/item?id=44187457) - [Autopen Guide](http://www.astroautopens.com/autopen_guide1.shtml)
+* [2025-06-05, 01:02:59](https://news.ycombinator.com/item?id=44187285) - [NoteGen is a cross-platform Markdown note-taking application](https://github.com/codexu/note-gen)
 * [2025-06-04, 23:40:47](https://news.ycombinator.com/item?id=44186780) - [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
 * [2025-06-04, 23:33:41](https://news.ycombinator.com/item?id=44186736) - [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
 * [2025-06-04, 23:22:07](https://news.ycombinator.com/item?id=44186660) - [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
@@ -18,6 +17,7 @@
 * [2025-06-04, 20:24:07](https://news.ycombinator.com/item?id=44185078) - [Amelia Earhart's Reckless Final Flights](https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights)
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 19:59:51](https://news.ycombinator.com/item?id=44184861) - [Ada and SPARK enter the automotive ISO-26262 market with Nvidia](https://www.adacore.com/press/ada-and-spark-enter-the-automotive-iso-26262-market-with-nvidia)
+* [2025-06-04, 19:26:25](https://news.ycombinator.com/item?id=44184542) - [Redesigned Swift.org is now live](https://swift.org/)
 * [2025-06-04, 18:29:46](https://news.ycombinator.com/item?id=44183923) - [Apple Notes Expected to Gain Markdown Support in iOS 26](https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 17:57:15](https://news.ycombinator.com/item?id=44183591) - [The iPhone 15 Pro’s Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
