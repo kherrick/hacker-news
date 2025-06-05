@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-05, 17:04:18",
+      "https://news.ycombinator.com/item?id=44193512"
+    ],
+    [
+      "Chrome achieves highest score ever on Speedometer 3, saving users millions of",
+      "https://blog.chromium.org/2025/06/chrome-achieves-highest-score-ever-on.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 17:00:26",
+      "https://news.ycombinator.com/item?id=44193473"
+    ],
+    [
+      "CircuitHub (YC W12) Hiring Full-Stack Robotics Engineers – The Grid",
+      "https://www.workatastartup.com/jobs/76919"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 16:52:10",
+      "https://news.ycombinator.com/item?id=44193390"
+    ],
+    [
+      "X changes its terms to bar training of AI models using its content",
+      "https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 16:44:49",
       "https://news.ycombinator.com/item?id=44193328"
     ],
@@ -17,6 +47,16 @@
     [
       "Cysteine depletion triggers adipose tissue thermogenesis and weight loss",
       "https://www.nature.com/articles/s42255-025-01297-8"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 16:32:01",
+      "https://news.ycombinator.com/item?id=44193216"
+    ],
+    [
+      "The Rise of 'Vibe Hacking' Is the Next AI Nightmare",
+      "https://www.wired.com/story/youre-not-ready-for-ai-hacker-agents/"
     ]
   ],
   [
@@ -41,12 +81,12 @@
   ],
   [
     [
-      "2025-06-05, 16:10:13",
-      "https://news.ycombinator.com/item?id=44193018"
+      "2025-06-05, 16:07:03",
+      "https://news.ycombinator.com/item?id=44192995"
     ],
     [
-      "I think I'm done thinking about GenAI for now",
-      "https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html"
+      "Seven Days at the Bin Store",
+      "https://defector.com/seven-days-at-the-bin-store"
     ]
   ],
   [
@@ -97,26 +137,6 @@
     [
       "Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts",
       "https://daringfireball.net/linked/2025/06/04/apple-notes-markdown"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 12:00:47",
-      "https://news.ycombinator.com/item?id=44190758"
-    ],
-    [
-      "AtoB (YC S20) – Stripe for Transportation – is hiring engineers",
-      "https://jobs.ashbyhq.com/atob"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 11:42:53",
-      "https://news.ycombinator.com/item?id=44190643"
-    ],
-    [
-      "Track Errors First",
-      "https://www.bugsink.com/blog/track-errors-first/"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Show HN: I made a 3D SVG Renderer that projects textures without rasterization",
       "https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 23:33:41",
-      "https://news.ycombinator.com/item?id=44186736"
-    ],
-    [
-      "Authentication with Axum",
-      "https://mattrighetti.com/2025/05/03/authentication-with-axum"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Prompt engineering playbook for programmers",
       "https://addyo.substack.com/p/the-prompt-engineering-playbook-for"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 15:58:50",
-      "https://news.ycombinator.com/item?id=44182186"
-    ],
-    [
-      "FFmpeg merges WebRTC support",
-      "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00"
     ]
   ],
   [
