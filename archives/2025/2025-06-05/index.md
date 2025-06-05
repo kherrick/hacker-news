@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 19:23:44](https://news.ycombinator.com/item?id=44194922) - [Not Boring Camera App](https://notbor.ing/product/camera)
+* [2025-06-05, 19:17:00](https://news.ycombinator.com/item?id=44194871) - [Aurora, a foundation model for the Earth system](https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html)
 * [2025-06-05, 19:17:00](https://news.ycombinator.com/item?id=44194871) - [AI Weather Model Is More Accurate, Less Expensive Than Traditional Forecasting](https://www.extremetech.com/computing/microsofts-ai-weather-model-is-more-accurate-cheaper-than-traditional-forecasting)
 * [2025-06-05, 19:09:07](https://news.ycombinator.com/item?id=44194796) - [Busting the Myth That the Canadian Federal Govt Has Hurt Alberta's Oil Industry](https://thetyee.ca/Analysis/2025/05/15/Busting-Myth-Ottawa-Hurt-Alberta-Oil-Industry/)
 * [2025-06-05, 19:00:10](https://news.ycombinator.com/item?id=44194709) - [Disconnect from FAANG, Connect to Free](https://frikopplad.nu/)
@@ -12,6 +14,7 @@
 * [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
 * [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – open-source Datadog alternative by ClickHouse and HyperDX](https://clickhouse.com/use-cases/observability)
 * [2025-06-05, 17:47:52](https://news.ycombinator.com/item?id=44193970) - [Millions in west don't know they have aggressive fatty liver disease, study says](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says)
+* [2025-06-05, 17:47:23](https://news.ycombinator.com/item?id=44193965) - [Programming language Dino and its implementation](https://github.com/dino-lang/dino)
 * [2025-06-05, 17:26:34](https://news.ycombinator.com/item?id=44193782) - [Why does Apple make a minority of developers finance the entire App Store?](https://lapcatsoftware.com/articles/2025/6/1.html)
 * [2025-06-05, 17:04:18](https://news.ycombinator.com/item?id=44193512) - [Chrome achieves highest score ever on Speedometer 3, saving users millions of](https://blog.chromium.org/2025/06/chrome-achieves-highest-score-ever-on.html)
 * [2025-06-05, 17:00:26](https://news.ycombinator.com/item?id=44193473) - [CircuitHub (YC W12) Hiring Full-Stack Robotics Engineers – The Grid](https://www.workatastartup.com/jobs/76919)
