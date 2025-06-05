@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 17:04:18](https://news.ycombinator.com/item?id=44193512) - [Chrome achieves highest score ever on Speedometer 3, saving users millions of](https://blog.chromium.org/2025/06/chrome-achieves-highest-score-ever-on.html)
+* [2025-06-05, 17:00:26](https://news.ycombinator.com/item?id=44193473) - [CircuitHub (YC W12) Hiring Full-Stack Robotics Engineers – The Grid](https://www.workatastartup.com/jobs/76919)
+* [2025-06-05, 16:52:10](https://news.ycombinator.com/item?id=44193390) - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
 * [2025-06-05, 16:44:49](https://news.ycombinator.com/item?id=44193328) - [Gemini-2.5-pro-preview-06-05](https://deepmind.google/models/gemini/pro/)
 * [2025-06-05, 16:33:00](https://news.ycombinator.com/item?id=44193225) - [Cysteine depletion triggers adipose tissue thermogenesis and weight loss](https://www.nature.com/articles/s42255-025-01297-8)
+* [2025-06-05, 16:32:01](https://news.ycombinator.com/item?id=44193216) - [The Rise of 'Vibe Hacking' Is the Next AI Nightmare](https://www.wired.com/story/youre-not-ready-for-ai-hacker-agents/)
 * [2025-06-05, 16:29:02](https://news.ycombinator.com/item?id=44193198) - [Google Restricts Android Sideloading–What It Means for User Autonomy and Freedom](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/)
 * [2025-06-05, 16:21:04](https://news.ycombinator.com/item?id=44193120) - [Rare black iceberg spotted off Labrador coast could be 100k years old](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078)
 * [2025-06-05, 16:10:13](https://news.ycombinator.com/item?id=44193018) - [I think I'm done thinking about GenAI for now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
+* [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 16:02:54](https://news.ycombinator.com/item?id=44192955) - [Understanding the PURL Specification (Package URL)](https://fossa.com/blog/understanding-purl-specification-package-url/)
 * [2025-06-05, 15:49:16](https://news.ycombinator.com/item?id=44192837) - [Extreme Super-Resolution via Scale Autoregression and Preference Alignment](https://arxiv.org/abs/2505.18600)
 * [2025-06-05, 15:09:32](https://news.ycombinator.com/item?id=44192443) - [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)
