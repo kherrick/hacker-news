@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-05, 11:20:16",
+      "https://news.ycombinator.com/item?id=44190498"
+    ],
+    [
+      "Sodern launches Astradia, a star tracker for GNSS-denied navigation",
+      "https://sodern.com/fr/astradia-le-viseur-detoiles-diurne-pour-un-systeme-de-navigation-sur-et-robuste/"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 10:19:49",
       "https://news.ycombinator.com/item?id=44190190"
     ],
@@ -27,16 +37,6 @@
     [
       "Phptop: Simple PHP ressource profiler, safe and useful for production sites",
       "https://github.com/bearstech/phptop"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 07:59:21",
-      "https://news.ycombinator.com/item?id=44189426"
-    ],
-    [
-      "From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning",
-      "https://arxiv.org/abs/2505.17117"
     ]
   ],
   [
