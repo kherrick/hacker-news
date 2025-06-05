@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 19:17:00](https://news.ycombinator.com/item?id=44194871) - [AI Weather Model Is More Accurate, Less Expensive Than Traditional Forecasting](https://www.extremetech.com/computing/microsofts-ai-weather-model-is-more-accurate-cheaper-than-traditional-forecasting)
+* [2025-06-05, 19:09:07](https://news.ycombinator.com/item?id=44194796) - [Busting the Myth That the Canadian Federal Govt Has Hurt Alberta's Oil Industry](https://thetyee.ca/Analysis/2025/05/15/Busting-Myth-Ottawa-Hurt-Alberta-Oil-Industry/)
 * [2025-06-05, 19:00:10](https://news.ycombinator.com/item?id=44194709) - [Disconnect from FAANG, Connect to Free](https://frikopplad.nu/)
 * [2025-06-05, 18:41:54](https://news.ycombinator.com/item?id=44194521) - [Eleven v3 (Alpha)](https://elevenlabs.io/v3)
 * [2025-06-05, 18:37:25](https://news.ycombinator.com/item?id=44194469) - [Neuromorphic Computing: The Future of AI](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
