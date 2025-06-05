@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-05, 21:22:24",
+      "https://news.ycombinator.com/item?id=44195931"
+    ],
+    [
+      "APL Interpreter – An implementation of APL, written in Haskell (2024)",
+      "https://scharenbroch.dev/projects/apl-interpreter/"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 21:00:04",
       "https://news.ycombinator.com/item?id=44195720"
     ],
@@ -17,6 +27,16 @@
     [
       "Aurora, a foundation model for the Earth system",
       "https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 19:15:41",
+      "https://news.ycombinator.com/item?id=44194859"
+    ],
+    [
+      "SkyRoof: New Ham Satellite Tracking and SDR Receiver Software",
+      "https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "The impossible predicament of the death newts",
       "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 13:37:29",
-      "https://news.ycombinator.com/item?id=44191591"
-    ],
-    [
-      "Twitter's new encrypted DMs aren't better than the old ones",
-      "https://mjg59.dreamwidth.org/71646.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "A proposal to restrict sites from accessing a users’ local network",
       "https://github.com/explainers-by-googlers/local-network-access"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 17:57:15",
-      "https://news.ycombinator.com/item?id=44183591"
-    ],
-    [
-      "The iPhone 15 Pro’s Depth Maps",
-      "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html"
     ]
   ],
   [
