@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
 * [2025-06-05, 17:47:52](https://news.ycombinator.com/item?id=44193970) - [Millions in west don't know they have aggressive fatty liver disease, study says](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says)
 * [2025-06-05, 17:26:34](https://news.ycombinator.com/item?id=44193782) - [Why does Apple make a minority of developers finance the entire App Store?](https://lapcatsoftware.com/articles/2025/6/1.html)
 * [2025-06-05, 17:00:26](https://news.ycombinator.com/item?id=44193473) - [CircuitHub (YC W12) is hiring full-stack robotics engineers](https://www.workatastartup.com/jobs/76919)
@@ -19,7 +20,6 @@
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
 * [2025-06-05, 04:09:00](https://news.ycombinator.com/item?id=44188248) - [End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation)
 * [2025-06-05, 02:05:33](https://news.ycombinator.com/item?id=44187645) - [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
-* [2025-06-04, 23:33:41](https://news.ycombinator.com/item?id=44186736) - [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
 * [2025-06-04, 23:22:07](https://news.ycombinator.com/item?id=44186660) - [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
 * [2025-06-04, 23:05:32](https://news.ycombinator.com/item?id=44186536) - [parrot.live](https://github.com/hugomd/parrot.live)
 * [2025-06-04, 23:00:35](https://news.ycombinator.com/item?id=44186496) - [LLMs and Elixir: Windfall or Deathblow?](https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow)
