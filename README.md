@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-05, 10:19:49](https://news.ycombinator.com/item?id=44190190) - [10 Years of Betting on Rust](https://tably.com/tably/10-years-of-betting-on-rust)
+* [2025-06-05, 09:57:19](https://news.ycombinator.com/item?id=44190071) - [DNS4EU for Public Is Available](https://www.joindns4.eu/for-public)
 * [2025-06-05, 08:52:56](https://news.ycombinator.com/item?id=44189741) - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
 * [2025-06-05, 07:59:21](https://news.ycombinator.com/item?id=44189426) - [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
@@ -26,9 +28,7 @@
 * [2025-06-04, 16:16:39](https://news.ycombinator.com/item?id=44182356) - [IRS Direct File on GitHub](https://chrisgiven.com/2025/05/direct-file-on-github/)
 * [2025-06-04, 15:58:57](https://news.ycombinator.com/item?id=44182188) - [Prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 * [2025-06-04, 15:58:50](https://news.ycombinator.com/item?id=44182186) - [FFmpeg merges WebRTC support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
-* [2025-06-04, 15:58:36](https://news.ycombinator.com/item?id=44182184) - [How we reduced the impact of zombie clients](https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/)
 * [2025-06-04, 15:21:22](https://news.ycombinator.com/item?id=44181700) - [A practical guide to building agents [pdf]](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
-* [2025-06-04, 15:15:33](https://news.ycombinator.com/item?id=44181613) - [AGI is not multimodal](https://thegradient.pub/agi-is-not-multimodal/)
 * [2025-06-04, 10:36:49](https://news.ycombinator.com/item?id=44179257) - [Why I wrote the BEAM book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 
 ## [Archives](archives/index.md)
