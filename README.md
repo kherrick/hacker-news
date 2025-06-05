@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
+* [2025-06-05, 13:37:29](https://news.ycombinator.com/item?id=44191591) - [Twitter's new encrypted DMs aren't better than the old ones](https://mjg59.dreamwidth.org/71646.html)
 * [2025-06-05, 13:32:48](https://news.ycombinator.com/item?id=44191558) - [Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown)
 * [2025-06-05, 12:00:47](https://news.ycombinator.com/item?id=44190758) - [AtoB (YC S20) – Stripe for Transportation – is hiring engineers](https://jobs.ashbyhq.com/atob)
 * [2025-06-05, 11:42:53](https://news.ycombinator.com/item?id=44190643) - [Track Errors First](https://www.bugsink.com/blog/track-errors-first/)
@@ -20,7 +21,6 @@
 * [2025-06-04, 21:47:33](https://news.ycombinator.com/item?id=44185913) - [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/)
 * [2025-06-04, 21:38:27](https://news.ycombinator.com/item?id=44185836) - [Comparing Claude System Prompts Reveal Anthropic's Priorities](https://www.dbreunig.com/2025/06/03/comparing-system-prompts-across-claude-versions.html)
 * [2025-06-04, 20:39:53](https://news.ycombinator.com/item?id=44185256) - [Cursor 1.0](https://www.cursor.com/en/changelog/1-0)
-* [2025-06-04, 20:24:07](https://news.ycombinator.com/item?id=44185078) - [Amelia Earhart's Reckless Final Flights](https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights)
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 17:57:15](https://news.ycombinator.com/item?id=44183591) - [The iPhone 15 Pro’s Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
