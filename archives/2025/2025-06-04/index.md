@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 23:57:20](https://news.ycombinator.com/item?id=44186904) - [A Look Back at Recent Car Carrier Fires](https://gcaptain.com/a-brief-look-back-at-recent-car-carrier-fires/)
+* [2025-06-04, 23:40:47](https://news.ycombinator.com/item?id=44186780) - [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
 * [2025-06-04, 23:22:07](https://news.ycombinator.com/item?id=44186660) - [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
 * [2025-06-04, 23:15:48](https://news.ycombinator.com/item?id=44186607) - [Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/abs/2506.03142)
 * [2025-06-04, 22:35:56](https://news.ycombinator.com/item?id=44186284) - [PromptArmor (YC W24) Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
