@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-05, 19:00:10",
+      "https://news.ycombinator.com/item?id=44194709"
+    ],
+    [
+      "Disconnect from FAANG, Connect to Free",
+      "https://frikopplad.nu/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 18:41:54",
+      "https://news.ycombinator.com/item?id=44194521"
+    ],
+    [
+      "Eleven v3 (Alpha)",
+      "https://elevenlabs.io/v3"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 18:06:21",
       "https://news.ycombinator.com/item?id=44194120"
     ],
     [
       "Show HN: iOS Screen Time from a REST API",
       "https://www.thescreentimenetwork.com/api/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 18:01:21",
+      "https://news.ycombinator.com/item?id=44194082"
+    ],
+    [
+      "Show HN: ClickStack – open-source Datadog alternative by ClickHouse and HyperDX",
+      "https://clickhouse.com/use-cases/observability"
     ]
   ],
   [
@@ -21,32 +51,12 @@
   ],
   [
     [
-      "2025-06-05, 17:26:34",
-      "https://news.ycombinator.com/item?id=44193782"
-    ],
-    [
-      "Why does Apple make a minority of developers finance the entire App Store?",
-      "https://lapcatsoftware.com/articles/2025/6/1.html"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 17:00:26",
       "https://news.ycombinator.com/item?id=44193473"
     ],
     [
       "CircuitHub (YC W12) is hiring full-stack robotics engineers",
       "https://www.workatastartup.com/jobs/76919"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 16:52:10",
-      "https://news.ycombinator.com/item?id=44193390"
-    ],
-    [
-      "X changes its terms to bar training of AI models using its content",
-      "https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Prompt engineering playbook for programmers",
       "https://addyo.substack.com/p/the-prompt-engineering-playbook-for"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 15:58:50",
-      "https://news.ycombinator.com/item?id=44182186"
-    ],
-    [
-      "FFmpeg merges WebRTC support",
-      "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00"
     ]
   ]
 ]
