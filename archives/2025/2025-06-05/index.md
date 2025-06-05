@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 15:49:16](https://news.ycombinator.com/item?id=44192837) - [Extreme Super-Resolution via Scale Autoregression and Preference Alignment](https://arxiv.org/abs/2505.18600)
 * [2025-06-05, 15:09:32](https://news.ycombinator.com/item?id=44192443) - [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)
+* [2025-06-05, 14:47:03](https://news.ycombinator.com/item?id=44192206) - [Are we the sexbots? Tech vs. consent](https://joelmorris.substack.com/p/are-we-the-sexbots-tech-vs-consent)
 * [2025-06-05, 14:36:25](https://news.ycombinator.com/item?id=44192118) - [FastHTML Best Practices](https://www.fastht.ml/docs/ref/best_practice.html)
+* [2025-06-05, 13:43:02](https://news.ycombinator.com/item?id=44191634) - [Claude Gov Models for U.S. National Security Customers](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
 * [2025-06-05, 13:37:29](https://news.ycombinator.com/item?id=44191591) - [Twitter's new encrypted DMs aren't better than the old ones](https://mjg59.dreamwidth.org/71646.html)
 * [2025-06-05, 13:32:48](https://news.ycombinator.com/item?id=44191558) - [Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown)
