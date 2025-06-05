@@ -10,6 +10,8 @@
 * [2025-06-04, 23:22:07](https://news.ycombinator.com/item?id=44186660) - [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
 * [2025-06-04, 23:15:48](https://news.ycombinator.com/item?id=44186607) - [Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/abs/2506.03142)
 * [2025-06-04, 23:05:32](https://news.ycombinator.com/item?id=44186536) - [parrot.live](https://github.com/hugomd/parrot.live)
+* [2025-06-04, 23:00:35](https://news.ycombinator.com/item?id=44186496) - [LLMs and Elixir: Windfall or Deathblow?](https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow)
+* [2025-06-04, 22:57:08](https://news.ycombinator.com/item?id=44186459) - [Foam: A free Roam alternative for VSCode](https://github.com/foambubble/foam)
 * [2025-06-04, 22:35:56](https://news.ycombinator.com/item?id=44186284) - [PromptArmor (YC W24) Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
 * [2025-06-04, 21:58:46](https://news.ycombinator.com/item?id=44185990) - [Unsold Cybertrucks Are Piling Up at a Decaying US Shopping Mall](https://www.vice.com/en/article/unsold-cybertrucks-are-piling-up-at-a-decaying-us-shopping-mall/)
 * [2025-06-04, 21:47:33](https://news.ycombinator.com/item?id=44185913) - [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
