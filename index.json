@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-06-05, 21:27:07",
+      "https://news.ycombinator.com/item?id=44195961"
+    ],
+    [
+      "Tokasaurus: An LLM Inference Engine for High-Throughput Workloads",
+      "https://scalingintelligence.stanford.edu/blogs/tokasaurus/"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 21:22:24",
       "https://news.ycombinator.com/item?id=44195931"
     ],
     [
       "APL Interpreter – An implementation of APL, written in Haskell (2024)",
       "https://scharenbroch.dev/projects/apl-interpreter/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 21:05:08",
+      "https://news.ycombinator.com/item?id=44195768"
+    ],
+    [
+      "Myanmar's chinlone ball sport threatened by conflict and rattan shortages",
+      "https://www.aljazeera.com/gallery/2025/6/5/myanmars-chinlone-ball-sport-threatened-by-conflict-and-rattan-shortages"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2025-06-05, 18:34:23",
+      "https://news.ycombinator.com/item?id=44194431"
+    ],
+    [
+      "Reproducing the deep double descent paper",
+      "https://stpn.bearblog.dev/reproducing-double-descent/"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 18:06:21",
       "https://news.ycombinator.com/item?id=44194120"
     ],
@@ -107,16 +137,6 @@
     [
       "Cysteine depletion triggers adipose tissue thermogenesis and weight loss",
       "https://www.nature.com/articles/s42255-025-01297-8"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 16:29:02",
-      "https://news.ycombinator.com/item?id=44193198"
-    ],
-    [
-      "Google restricts Android sideloading",
-      "https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-06-04, 23:22:07",
-      "https://news.ycombinator.com/item?id=44186660"
-    ],
-    [
-      "A Spiral Structure in the Inner Oort Cloud",
-      "https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 23:05:32",
       "https://news.ycombinator.com/item?id=44186536"
     ],
@@ -247,16 +257,6 @@
     [
       "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
       "https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 20:39:53",
-      "https://news.ycombinator.com/item?id=44185256"
-    ],
-    [
-      "Cursor 1.0",
-      "https://www.cursor.com/en/changelog/1-0"
     ]
   ],
   [
