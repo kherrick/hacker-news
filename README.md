@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-05, 19:17:00](https://news.ycombinator.com/item?id=44194871) - [AI Weather Model Is More Accurate, Less Expensive Than Traditional Forecasting](https://www.extremetech.com/computing/microsofts-ai-weather-model-is-more-accurate-cheaper-than-traditional-forecasting)
+* [2025-06-05, 19:00:10](https://news.ycombinator.com/item?id=44194709) - [Disconnect from FAANG, Connect to Free](https://frikopplad.nu/)
 * [2025-06-05, 18:41:54](https://news.ycombinator.com/item?id=44194521) - [Eleven v3](https://elevenlabs.io/v3)
 * [2025-06-05, 18:37:25](https://news.ycombinator.com/item?id=44194469) - [Neuromorphic computing](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
 * [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
@@ -28,7 +29,6 @@
 * [2025-06-04, 20:39:53](https://news.ycombinator.com/item?id=44185256) - [Cursor 1.0](https://www.cursor.com/en/changelog/1-0)
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
-* [2025-06-04, 17:57:15](https://news.ycombinator.com/item?id=44183591) - [The iPhone 15 Pro’s Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
 * [2025-06-04, 15:58:57](https://news.ycombinator.com/item?id=44182188) - [Prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 
 ## [Archives](archives/index.md)
