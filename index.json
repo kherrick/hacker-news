@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-06-05, 14:36:25",
-      "https://news.ycombinator.com/item?id=44192118"
+      "2025-06-05, 15:09:32",
+      "https://news.ycombinator.com/item?id=44192443"
     ],
     [
-      "FastHTML Best Practices",
-      "https://www.fastht.ml/docs/ref/best_practice.html"
+      "Longevity Is Now a Factor When Picking an Embryo for IVF",
+      "https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-06-04, 23:40:47",
-      "https://news.ycombinator.com/item?id=44186780"
-    ],
-    [
-      "Tesla seeks to guard crash data from public disclosure",
-      "https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 23:33:41",
       "https://news.ycombinator.com/item?id=44186736"
     ],
@@ -147,16 +137,6 @@
     [
       "A Spiral Structure in the Inner Oort Cloud",
       "https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 23:15:48",
-      "https://news.ycombinator.com/item?id=44186607"
-    ],
-    [
-      "Not all tokens are meant to be forgotten",
-      "https://arxiv.org/abs/2506.03142"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "FFmpeg merges WebRTC support",
       "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 15:58:36",
+      "https://news.ycombinator.com/item?id=44182184"
+    ],
+    [
+      "How we reduced the impact of zombie clients",
+      "https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 15:21:22",
+      "https://news.ycombinator.com/item?id=44181700"
+    ],
+    [
+      "A practical guide to building agents [pdf]",
+      "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf"
     ]
   ],
   [
