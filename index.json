@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-05, 16:44:49",
+      "https://news.ycombinator.com/item?id=44193328"
+    ],
+    [
+      "Gemini-2.5-pro-preview-06-05",
+      "https://deepmind.google/models/gemini/pro/"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 16:33:00",
       "https://news.ycombinator.com/item?id=44193225"
     ],
     [
       "Cysteine depletion triggers adipose tissue thermogenesis and weight loss",
       "https://www.nature.com/articles/s42255-025-01297-8"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 16:29:02",
+      "https://news.ycombinator.com/item?id=44193198"
+    ],
+    [
+      "Google Restricts Android Sideloading–What It Means for User Autonomy and Freedom",
+      "https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 16:21:04",
+      "https://news.ycombinator.com/item?id=44193120"
+    ],
+    [
+      "Rare black iceberg spotted off Labrador coast could be 100k years old",
+      "https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2025-06-04, 16:46:24",
-      "https://news.ycombinator.com/item?id=44182698"
-    ],
-    [
-      "When memory was measured in kilobytes: The art of efficient vision",
-      "https://www.softwareheritage.org/2025/06/04/history_computer_vision/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 16:16:39",
-      "https://news.ycombinator.com/item?id=44182356"
-    ],
-    [
-      "IRS Direct File on GitHub",
-      "https://chrisgiven.com/2025/05/direct-file-on-github/"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 15:58:57",
       "https://news.ycombinator.com/item?id=44182188"
     ],
@@ -277,16 +287,6 @@
     [
       "FFmpeg merges WebRTC support",
       "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 15:58:36",
-      "https://news.ycombinator.com/item?id=44182184"
-    ],
-    [
-      "How we reduced the impact of zombie clients",
-      "https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/"
     ]
   ],
   [
