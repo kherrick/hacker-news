@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-06-05, 17:04:18",
-      "https://news.ycombinator.com/item?id=44193512"
-    ],
-    [
-      "Chrome achieves highest score ever on Speedometer 3, saving users millions of",
-      "https://blog.chromium.org/2025/06/chrome-achieves-highest-score-ever-on.html"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 17:00:26",
       "https://news.ycombinator.com/item?id=44193473"
     ],
     [
-      "CircuitHub (YC W12) Hiring Full-Stack Robotics Engineers – The Grid",
+      "CircuitHub (YC W12) is hiring full-stack robotics engineers",
       "https://www.workatastartup.com/jobs/76919"
     ]
   ],
@@ -97,16 +87,6 @@
     [
       "Understanding the PURL Specification (Package URL)",
       "https://fossa.com/blog/understanding-purl-specification-package-url/"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 15:09:32",
-      "https://news.ycombinator.com/item?id=44192443"
-    ],
-    [
-      "Longevity Is Now a Factor When Picking an Embryo for IVF",
-      "https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-06-04, 23:33:41",
+      "https://news.ycombinator.com/item?id=44186736"
+    ],
+    [
+      "Authentication with Axum",
+      "https://mattrighetti.com/2025/05/03/authentication-with-axum"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 23:22:07",
       "https://news.ycombinator.com/item?id=44186660"
     ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2025-06-04, 16:46:24",
+      "https://news.ycombinator.com/item?id=44182698"
+    ],
+    [
+      "When memory was measured in kilobytes: The art of efficient vision",
+      "https://www.softwareheritage.org/2025/06/04/history_computer_vision/"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 15:58:57",
       "https://news.ycombinator.com/item?id=44182188"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-06-04, 10:36:49",
-      "https://news.ycombinator.com/item?id=44179257"
+      "2025-06-04, 15:58:50",
+      "https://news.ycombinator.com/item?id=44182186"
     ],
     [
-      "Why I wrote the BEAM book",
-      "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/"
+      "FFmpeg merges WebRTC support",
+      "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00"
     ]
   ]
 ]
