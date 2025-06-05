@@ -13,6 +13,7 @@
 * [2025-06-05, 08:52:56](https://news.ycombinator.com/item?id=44189741) - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
 * [2025-06-05, 07:59:21](https://news.ycombinator.com/item?id=44189426) - [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
+* [2025-06-05, 05:31:19](https://news.ycombinator.com/item?id=44188562) - [A new Pitt study has upended decades-old assumptions about brain plasticity](https://www.pittwire.pitt.edu/accolades-honors/2025/06/03/neuroscience-synaptic-transmission-science-advances)
 * [2025-06-05, 04:09:00](https://news.ycombinator.com/item?id=44188248) - [End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation)
 * [2025-06-05, 04:00:24](https://news.ycombinator.com/item?id=44188204) - [Engineer Fixes and Re-Installs Old Payphones, Provides Free Calls to the Public](https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public)
 * [2025-06-05, 03:56:43](https://news.ycombinator.com/item?id=44188186) - [Want to Model a Land Value Tax Shift in Your City?](https://progressandpoverty.substack.com/p/want-to-model-a-land-value-tax-shift)
