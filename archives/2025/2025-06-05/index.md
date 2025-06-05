@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 12:09:58](https://news.ycombinator.com/item?id=44190832) - [Canadian Government Buries \"Lawful Access\" Provisions in New Border Bill](https://www.michaelgeist.ca/2025/06/privacy-at-risk-government-buries-lawful-access-provisions-in-new-border-bill/)
+* [2025-06-05, 12:00:47](https://news.ycombinator.com/item?id=44190758) - [AtoB (YC S20) – Stripe for Transportation – is hiring engineers](https://jobs.ashbyhq.com/atob)
+* [2025-06-05, 11:42:53](https://news.ycombinator.com/item?id=44190643) - [Track Errors First](https://www.bugsink.com/blog/track-errors-first/)
 * [2025-06-05, 11:20:16](https://news.ycombinator.com/item?id=44190498) - [Sodern launches Astradia, a star tracker for GNSS-denied navigation](https://sodern.com/fr/astradia-le-viseur-detoiles-diurne-pour-un-systeme-de-navigation-sur-et-robuste/)
 * [2025-06-05, 10:19:49](https://news.ycombinator.com/item?id=44190190) - [10 Years of Betting on Rust](https://tably.com/tably/10-years-of-betting-on-rust)
 * [2025-06-05, 09:57:19](https://news.ycombinator.com/item?id=44190071) - [DNS4EU for Public Is Available](https://www.joindns4.eu/for-public)
