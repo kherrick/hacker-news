@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-05, 19:00:10](https://news.ycombinator.com/item?id=44194709) - [Disconnect from FAANG, Connect to Free](https://frikopplad.nu/)
+* [2025-06-05, 18:41:54](https://news.ycombinator.com/item?id=44194521) - [Eleven v3 (Alpha)](https://elevenlabs.io/v3)
 * [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
+* [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – open-source Datadog alternative by ClickHouse and HyperDX](https://clickhouse.com/use-cases/observability)
 * [2025-06-05, 17:47:52](https://news.ycombinator.com/item?id=44193970) - [Millions in west don't know they have aggressive fatty liver disease, study says](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says)
-* [2025-06-05, 17:26:34](https://news.ycombinator.com/item?id=44193782) - [Why does Apple make a minority of developers finance the entire App Store?](https://lapcatsoftware.com/articles/2025/6/1.html)
 * [2025-06-05, 17:00:26](https://news.ycombinator.com/item?id=44193473) - [CircuitHub (YC W12) is hiring full-stack robotics engineers](https://www.workatastartup.com/jobs/76919)
-* [2025-06-05, 16:52:10](https://news.ycombinator.com/item?id=44193390) - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
 * [2025-06-05, 16:44:49](https://news.ycombinator.com/item?id=44193328) - [Gemini-2.5-pro-preview-06-05](https://deepmind.google/models/gemini/pro/)
 * [2025-06-05, 16:33:00](https://news.ycombinator.com/item?id=44193225) - [Cysteine depletion triggers adipose tissue thermogenesis and weight loss](https://www.nature.com/articles/s42255-025-01297-8)
 * [2025-06-05, 16:29:02](https://news.ycombinator.com/item?id=44193198) - [Google Restricts Android Sideloading–What It Means for User Autonomy and Freedom](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/)
@@ -29,7 +30,6 @@
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 17:57:15](https://news.ycombinator.com/item?id=44183591) - [The iPhone 15 Pro’s Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
 * [2025-06-04, 15:58:57](https://news.ycombinator.com/item?id=44182188) - [Prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
-* [2025-06-04, 15:58:50](https://news.ycombinator.com/item?id=44182186) - [FFmpeg merges WebRTC support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
 
 ## [Archives](archives/index.md)
 

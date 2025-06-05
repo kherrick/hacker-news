@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 19:00:10](https://news.ycombinator.com/item?id=44194709) - [Disconnect from FAANG, Connect to Free](https://frikopplad.nu/)
+* [2025-06-05, 18:41:54](https://news.ycombinator.com/item?id=44194521) - [Eleven v3 (Alpha)](https://elevenlabs.io/v3)
 * [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
+* [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – open-source Datadog alternative by ClickHouse and HyperDX](https://clickhouse.com/use-cases/observability)
 * [2025-06-05, 17:47:52](https://news.ycombinator.com/item?id=44193970) - [Millions in west don't know they have aggressive fatty liver disease, study says](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says)
 * [2025-06-05, 17:26:34](https://news.ycombinator.com/item?id=44193782) - [Why does Apple make a minority of developers finance the entire App Store?](https://lapcatsoftware.com/articles/2025/6/1.html)
 * [2025-06-05, 17:04:18](https://news.ycombinator.com/item?id=44193512) - [Chrome achieves highest score ever on Speedometer 3, saving users millions of](https://blog.chromium.org/2025/06/chrome-achieves-highest-score-ever-on.html)
