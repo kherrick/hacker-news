@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-06-05, 19:17:00",
+      "https://news.ycombinator.com/item?id=44194871"
+    ],
+    [
+      "AI Weather Model Is More Accurate, Less Expensive Than Traditional Forecasting",
+      "https://www.extremetech.com/computing/microsofts-ai-weather-model-is-more-accurate-cheaper-than-traditional-forecasting"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 19:09:07",
+      "https://news.ycombinator.com/item?id=44194796"
+    ],
+    [
+      "Busting the Myth That the Canadian Federal Govt Has Hurt Alberta's Oil Industry",
+      "https://thetyee.ca/Analysis/2025/05/15/Busting-Myth-Ottawa-Hurt-Alberta-Oil-Industry/"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 18:41:54",
       "https://news.ycombinator.com/item?id=44194521"
     ],
     [
-      "Eleven v3 (Alpha)",
+      "Eleven v3",
       "https://elevenlabs.io/v3"
     ]
   ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44194469"
     ],
     [
-      "Neuromorphic Computing: The Future of AI",
+      "Neuromorphic computing",
       "https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing"
     ]
   ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-06-05, 16:10:13",
-      "https://news.ycombinator.com/item?id=44193018"
-    ],
-    [
-      "I think I'm done thinking about GenAI for now",
-      "https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 16:07:03",
       "https://news.ycombinator.com/item?id=44192995"
     ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=44189426"
     ],
     [
-      "From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning",
+      "From tokens to thoughts: How LLMs and humans trade compression for meaning",
       "https://arxiv.org/abs/2505.17117"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "A proposal to restrict sites from accessing a users’ local network",
       "https://github.com/explainers-by-googlers/local-network-access"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 17:57:15",
-      "https://news.ycombinator.com/item?id=44183591"
-    ],
-    [
-      "The iPhone 15 Pro’s Depth Maps",
-      "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html"
     ]
   ],
   [
