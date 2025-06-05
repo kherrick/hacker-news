@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
 * [2025-06-05, 13:32:48](https://news.ycombinator.com/item?id=44191558) - [Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown)
 * [2025-06-05, 12:00:47](https://news.ycombinator.com/item?id=44190758) - [AtoB (YC S20) – Stripe for Transportation – is hiring engineers](https://jobs.ashbyhq.com/atob)
 * [2025-06-05, 11:42:53](https://news.ycombinator.com/item?id=44190643) - [Track Errors First](https://www.bugsink.com/blog/track-errors-first/)
@@ -27,7 +28,6 @@
 * [2025-06-04, 16:16:39](https://news.ycombinator.com/item?id=44182356) - [IRS Direct File on GitHub](https://chrisgiven.com/2025/05/direct-file-on-github/)
 * [2025-06-04, 15:58:57](https://news.ycombinator.com/item?id=44182188) - [Prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 * [2025-06-04, 15:58:50](https://news.ycombinator.com/item?id=44182186) - [FFmpeg merges WebRTC support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
-* [2025-06-04, 15:58:36](https://news.ycombinator.com/item?id=44182184) - [How we reduced the impact of zombie clients](https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/)
 * [2025-06-04, 15:21:22](https://news.ycombinator.com/item?id=44181700) - [A practical guide to building agents [pdf]](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 * [2025-06-04, 10:36:49](https://news.ycombinator.com/item?id=44179257) - [Why I wrote the BEAM book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 
