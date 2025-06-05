@@ -10,4 +10,5 @@
 * [2025-06-05, 02:05:33](https://news.ycombinator.com/item?id=44187645) - [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
 * [2025-06-05, 01:42:55](https://news.ycombinator.com/item?id=44187518) - [Couple has eaten at the same restaurant six nights a week for 15 years (2019)](https://www.kansas.com/entertainment/restaurants/dining-with-denise-neil/article226933934.html)
 * [2025-06-05, 01:32:51](https://news.ycombinator.com/item?id=44187457) - [Autopen Guide](http://www.astroautopens.com/autopen_guide1.shtml)
+* [2025-06-05, 01:13:14](https://news.ycombinator.com/item?id=44187336) - [Is This the End or the Beginning?](https://lichess.org/@/MeTooSlow/blog/is-this-the-end-or-the-beginning/9aJj08zM)
 * [2025-06-05, 01:02:59](https://news.ycombinator.com/item?id=44187285) - [NoteGen is a cross-platform Markdown note-taking application](https://github.com/codexu/note-gen)
