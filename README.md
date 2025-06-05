@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-05, 22:57:16](https://news.ycombinator.com/item?id=44196433) - [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
 * [2025-06-05, 22:53:21](https://news.ycombinator.com/item?id=44196417) - [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
 * [2025-06-05, 22:05:43](https://news.ycombinator.com/item?id=44196211) - [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
 * [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
@@ -23,7 +24,6 @@
 * [2025-06-05, 08:52:56](https://news.ycombinator.com/item?id=44189741) - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
 * [2025-06-05, 07:59:21](https://news.ycombinator.com/item?id=44189426) - [From tokens to thoughts: How LLMs and humans trade compression for meaning](https://arxiv.org/abs/2505.17117)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
-* [2025-06-05, 04:09:00](https://news.ycombinator.com/item?id=44188248) - [End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation)
 * [2025-06-04, 23:05:32](https://news.ycombinator.com/item?id=44186536) - [parrot.live](https://github.com/hugomd/parrot.live)
 * [2025-06-04, 23:00:35](https://news.ycombinator.com/item?id=44186496) - [LLMs and Elixir: Windfall or Deathblow?](https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow)
 * [2025-06-04, 21:47:33](https://news.ycombinator.com/item?id=44185913) - [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/)

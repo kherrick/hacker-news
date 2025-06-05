@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 22:57:16](https://news.ycombinator.com/item?id=44196433) - [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
 * [2025-06-05, 22:53:21](https://news.ycombinator.com/item?id=44196417) - [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
 * [2025-06-05, 22:05:43](https://news.ycombinator.com/item?id=44196211) - [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
 * [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
