@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 11:20:16](https://news.ycombinator.com/item?id=44190498) - [Sodern launches Astradia, a star tracker for GNSS-denied navigation](https://sodern.com/fr/astradia-le-viseur-detoiles-diurne-pour-un-systeme-de-navigation-sur-et-robuste/)
 * [2025-06-05, 10:19:49](https://news.ycombinator.com/item?id=44190190) - [10 Years of Betting on Rust](https://tably.com/tably/10-years-of-betting-on-rust)
 * [2025-06-05, 09:57:19](https://news.ycombinator.com/item?id=44190071) - [DNS4EU for Public Is Available](https://www.joindns4.eu/for-public)
 * [2025-06-05, 08:52:56](https://news.ycombinator.com/item?id=44189741) - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
