@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 13:32:48](https://news.ycombinator.com/item?id=44191558) - [Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown)
 * [2025-06-05, 12:09:58](https://news.ycombinator.com/item?id=44190832) - [Canadian Government Buries \"Lawful Access\" Provisions in New Border Bill](https://www.michaelgeist.ca/2025/06/privacy-at-risk-government-buries-lawful-access-provisions-in-new-border-bill/)
 * [2025-06-05, 12:00:47](https://news.ycombinator.com/item?id=44190758) - [AtoB (YC S20) – Stripe for Transportation – is hiring engineers](https://jobs.ashbyhq.com/atob)
 * [2025-06-05, 11:42:53](https://news.ycombinator.com/item?id=44190643) - [Track Errors First](https://www.bugsink.com/blog/track-errors-first/)
