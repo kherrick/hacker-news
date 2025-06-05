@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-05, 16:44:49](https://news.ycombinator.com/item?id=44193328) - [Gemini-2.5-pro-preview-06-05](https://deepmind.google/models/gemini/pro/)
 * [2025-06-05, 16:33:00](https://news.ycombinator.com/item?id=44193225) - [Cysteine depletion triggers adipose tissue thermogenesis and weight loss](https://www.nature.com/articles/s42255-025-01297-8)
+* [2025-06-05, 16:29:02](https://news.ycombinator.com/item?id=44193198) - [Google Restricts Android Sideloading–What It Means for User Autonomy and Freedom](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/)
+* [2025-06-05, 16:21:04](https://news.ycombinator.com/item?id=44193120) - [Rare black iceberg spotted off Labrador coast could be 100k years old](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078)
 * [2025-06-05, 16:10:13](https://news.ycombinator.com/item?id=44193018) - [I think I'm done thinking about GenAI for now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 * [2025-06-05, 16:02:54](https://news.ycombinator.com/item?id=44192955) - [Understanding the PURL Specification (Package URL)](https://fossa.com/blog/understanding-purl-specification-package-url/)
 * [2025-06-05, 15:09:32](https://news.ycombinator.com/item?id=44192443) - [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)
@@ -24,11 +27,8 @@
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 17:57:15](https://news.ycombinator.com/item?id=44183591) - [The iPhone 15 Pro’s Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
-* [2025-06-04, 16:46:24](https://news.ycombinator.com/item?id=44182698) - [When memory was measured in kilobytes: The art of efficient vision](https://www.softwareheritage.org/2025/06/04/history_computer_vision/)
-* [2025-06-04, 16:16:39](https://news.ycombinator.com/item?id=44182356) - [IRS Direct File on GitHub](https://chrisgiven.com/2025/05/direct-file-on-github/)
 * [2025-06-04, 15:58:57](https://news.ycombinator.com/item?id=44182188) - [Prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 * [2025-06-04, 15:58:50](https://news.ycombinator.com/item?id=44182186) - [FFmpeg merges WebRTC support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
-* [2025-06-04, 15:58:36](https://news.ycombinator.com/item?id=44182184) - [How we reduced the impact of zombie clients](https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/)
 * [2025-06-04, 10:36:49](https://news.ycombinator.com/item?id=44179257) - [Why I wrote the BEAM book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 
 ## [Archives](archives/index.md)
