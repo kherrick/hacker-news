@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-05, 15:49:16",
+      "https://news.ycombinator.com/item?id=44192837"
+    ],
+    [
+      "Extreme Super-Resolution via Scale Autoregression and Preference Alignment",
+      "https://arxiv.org/abs/2505.18600"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 15:09:32",
       "https://news.ycombinator.com/item?id=44192443"
     ],
     [
       "Longevity Is Now a Factor When Picking an Embryo for IVF",
       "https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 14:47:03",
+      "https://news.ycombinator.com/item?id=44192206"
+    ],
+    [
+      "Are we the sexbots? Tech vs. consent",
+      "https://joelmorris.substack.com/p/are-we-the-sexbots-tech-vs-consent"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 13:43:02",
+      "https://news.ycombinator.com/item?id=44191634"
+    ],
+    [
+      "Claude Gov Models for U.S. National Security Customers",
+      "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2025-06-04, 21:38:27",
-      "https://news.ycombinator.com/item?id=44185836"
-    ],
-    [
-      "Comparing Claude System Prompts Reveal Anthropic's Priorities",
-      "https://www.dbreunig.com/2025/06/03/comparing-system-prompts-across-claude-versions.html"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 20:39:53",
       "https://news.ycombinator.com/item?id=44185256"
     ],
     [
       "Cursor 1.0",
       "https://www.cursor.com/en/changelog/1-0"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 20:24:07",
-      "https://news.ycombinator.com/item?id=44185078"
-    ],
-    [
-      "Amelia Earhart's Reckless Final Flights",
-      "https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How we reduced the impact of zombie clients",
       "https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 15:21:22",
-      "https://news.ycombinator.com/item?id=44181700"
-    ],
-    [
-      "A practical guide to building agents [pdf]",
-      "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf"
     ]
   ],
   [
