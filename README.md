@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-05, 17:47:52](https://news.ycombinator.com/item?id=44193970) - [Millions in west don't know they have aggressive fatty liver disease, study says](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says)
+* [2025-06-05, 17:26:34](https://news.ycombinator.com/item?id=44193782) - [Why does Apple make a minority of developers finance the entire App Store?](https://lapcatsoftware.com/articles/2025/6/1.html)
 * [2025-06-05, 17:00:26](https://news.ycombinator.com/item?id=44193473) - [CircuitHub (YC W12) is hiring full-stack robotics engineers](https://www.workatastartup.com/jobs/76919)
 * [2025-06-05, 16:52:10](https://news.ycombinator.com/item?id=44193390) - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
 * [2025-06-05, 16:44:49](https://news.ycombinator.com/item?id=44193328) - [Gemini-2.5-pro-preview-06-05](https://deepmind.google/models/gemini/pro/)
 * [2025-06-05, 16:33:00](https://news.ycombinator.com/item?id=44193225) - [Cysteine depletion triggers adipose tissue thermogenesis and weight loss](https://www.nature.com/articles/s42255-025-01297-8)
-* [2025-06-05, 16:32:01](https://news.ycombinator.com/item?id=44193216) - [The Rise of 'Vibe Hacking' Is the Next AI Nightmare](https://www.wired.com/story/youre-not-ready-for-ai-hacker-agents/)
 * [2025-06-05, 16:29:02](https://news.ycombinator.com/item?id=44193198) - [Google Restricts Android Sideloading–What It Means for User Autonomy and Freedom](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/)
 * [2025-06-05, 16:21:04](https://news.ycombinator.com/item?id=44193120) - [Rare black iceberg spotted off Labrador coast could be 100k years old](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078)
 * [2025-06-05, 16:10:13](https://news.ycombinator.com/item?id=44193018) - [I think I'm done thinking about GenAI for now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
@@ -27,7 +28,6 @@
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
 * [2025-06-04, 17:57:15](https://news.ycombinator.com/item?id=44183591) - [The iPhone 15 Pro’s Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html)
-* [2025-06-04, 16:46:24](https://news.ycombinator.com/item?id=44182698) - [When memory was measured in kilobytes: The art of efficient vision](https://www.softwareheritage.org/2025/06/04/history_computer_vision/)
 * [2025-06-04, 15:58:57](https://news.ycombinator.com/item?id=44182188) - [Prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 * [2025-06-04, 15:58:50](https://news.ycombinator.com/item?id=44182186) - [FFmpeg merges WebRTC support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
 
