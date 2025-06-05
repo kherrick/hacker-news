@@ -13,6 +13,7 @@
 * [2025-06-05, 18:37:25](https://news.ycombinator.com/item?id=44194469) - [Neuromorphic Computing: The Future of AI](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
 * [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
 * [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – open-source Datadog alternative by ClickHouse and HyperDX](https://clickhouse.com/use-cases/observability)
+* [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX](https://github.com/hyperdxio/hyperdx)
 * [2025-06-05, 17:47:52](https://news.ycombinator.com/item?id=44193970) - [Millions in west don't know they have aggressive fatty liver disease, study says](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says)
 * [2025-06-05, 17:47:23](https://news.ycombinator.com/item?id=44193965) - [Programming language Dino and its implementation](https://github.com/dino-lang/dino)
 * [2025-06-05, 17:26:34](https://news.ycombinator.com/item?id=44193782) - [Why does Apple make a minority of developers finance the entire App Store?](https://lapcatsoftware.com/articles/2025/6/1.html)

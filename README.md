@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-05, 19:23:44](https://news.ycombinator.com/item?id=44194922) - [Not Boring Camera App](https://notbor.ing/product/camera)
+* [2025-06-05, 19:23:44](https://news.ycombinator.com/item?id=44194922) - [!Camera](https://notbor.ing/product/camera)
 * [2025-06-05, 19:17:00](https://news.ycombinator.com/item?id=44194871) - [Aurora, a foundation model for the Earth system](https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html)
 * [2025-06-05, 18:41:54](https://news.ycombinator.com/item?id=44194521) - [Eleven v3](https://elevenlabs.io/v3)
 * [2025-06-05, 18:37:25](https://news.ycombinator.com/item?id=44194469) - [Neuromorphic computing](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
 * [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
-* [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX](https://clickhouse.com/use-cases/observability)
+* [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX](https://github.com/hyperdxio/hyperdx)
 * [2025-06-05, 17:47:52](https://news.ycombinator.com/item?id=44193970) - [Millions in west don't know they have aggressive fatty liver disease, study says](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says)
 * [2025-06-05, 17:47:23](https://news.ycombinator.com/item?id=44193965) - [Programming language Dino and its implementation](https://github.com/dino-lang/dino)
 * [2025-06-05, 17:00:26](https://news.ycombinator.com/item?id=44193473) - [CircuitHub (YC W12) is hiring full-stack robotics engineers](https://www.workatastartup.com/jobs/76919)
@@ -29,7 +29,7 @@
 * [2025-06-04, 20:39:53](https://news.ycombinator.com/item?id=44185256) - [Cursor 1.0](https://www.cursor.com/en/changelog/1-0)
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
-* [2025-06-04, 15:58:57](https://news.ycombinator.com/item?id=44182188) - [Prompt engineering playbook for programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
+* [2025-06-02, 18:25:56](https://news.ycombinator.com/item?id=44161607) - [The Universal Tech Tree](https://asteriskmag.com/issues/10/the-universal-tech-tree)
 
 ## [Archives](archives/index.md)
 
