@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 15:09:32](https://news.ycombinator.com/item?id=44192443) - [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)
 * [2025-06-05, 14:36:25](https://news.ycombinator.com/item?id=44192118) - [FastHTML Best Practices](https://www.fastht.ml/docs/ref/best_practice.html)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
 * [2025-06-05, 13:37:29](https://news.ycombinator.com/item?id=44191591) - [Twitter's new encrypted DMs aren't better than the old ones](https://mjg59.dreamwidth.org/71646.html)
