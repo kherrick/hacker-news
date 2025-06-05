@@ -8,6 +8,7 @@
 * [2025-06-05, 22:05:43](https://news.ycombinator.com/item?id=44196211) - [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
 * [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
 * [2025-06-05, 21:22:24](https://news.ycombinator.com/item?id=44195931) - [APL Interpreter – An implementation of APL, written in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
+* [2025-06-05, 21:06:39](https://news.ycombinator.com/item?id=44195783) - [How Common Is Multiple Invention?](https://www.construction-physics.com/p/how-often-do-inventions-have-multiple)
 * [2025-06-05, 21:05:08](https://news.ycombinator.com/item?id=44195768) - [Myanmar's chinlone ball sport threatened by conflict and rattan shortages](https://www.aljazeera.com/gallery/2025/6/5/myanmars-chinlone-ball-sport-threatened-by-conflict-and-rattan-shortages)
 * [2025-06-05, 21:00:04](https://news.ycombinator.com/item?id=44195720) - [Converge (YC S23) Well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-06-05, 19:23:44](https://news.ycombinator.com/item?id=44194922) - [Not Boring Camera App](https://notbor.ing/product/camera)
