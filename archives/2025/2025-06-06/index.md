@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 17:00:55](https://news.ycombinator.com/item?id=44202846) - [Exa (YC S21) Is Hiring a Founding Physical Design Engineer to Build Chips for AI](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer-physical-design-vlsi-rtl)
+* [2025-06-06, 16:44:12](https://news.ycombinator.com/item?id=44202664) - [Breakthrough in search for HIV cure leaves researchers 'overwhelmed'](https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed)
 * [2025-06-06, 16:30:52](https://news.ycombinator.com/item?id=44202519) - [See how a dollar would have grown over the past 94 years [pdf]](https://www.newyorklifeinvestments.com/assets/documents/education/investing-essentials-growthofadollar.pdf)
 * [2025-06-06, 16:27:40](https://news.ycombinator.com/item?id=44202490) - [GOP intensifies war against EVs and efficient cars](https://arstechnica.com/cars/2025/06/gop-intensifies-war-against-evs-and-efficient-cars/)
 * [2025-06-06, 16:21:58](https://news.ycombinator.com/item?id=44202409) - [Silicon Valley aghast at the Musk-Trump divorce](https://www.ft.com/content/df15f13d-310f-47a5-89ed-330a6a379068)
@@ -21,6 +23,7 @@
 * [2025-06-06, 15:15:44](https://news.ycombinator.com/item?id=44201736) - [Race, ethnicity don't match genetic ancestry, according to a large U.S. study](https://www.science.org/content/article/race-ethnicity-don-t-match-genetic-ancestry-according-large-u-s-study)
 * [2025-06-06, 15:06:48](https://news.ycombinator.com/item?id=44201658) - [I built a retro hacker game. It's free. Feedback?](https://blacklight.dev/)
 * [2025-06-06, 14:58:17](https://news.ycombinator.com/item?id=44201583) - [An Interactive Guide to Rate Limiting](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting)
+* [2025-06-06, 14:52:28](https://news.ycombinator.com/item?id=44201519) - [Exploring AI Integrations with Adobe Photoshop, InDesign and Premiere Pro](https://www.mikechambers.com/blog/post/2025-06-06-exploring-ai-integration-with-adobe-photoshop-indesign-and-premiere-pro/)
 * [2025-06-06, 14:07:28](https://news.ycombinator.com/item?id=44201072) - [Top researchers leave Intel to build startup with 'the biggest, baddest CPU'](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html)
 * [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
 * [2025-06-06, 13:46:17](https://news.ycombinator.com/item?id=44200870) - [Curate Your Shell History](https://esham.io/2025/05/shell-history)
