@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 23:29:35](https://news.ycombinator.com/item?id=44196589) - [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
+* [2025-06-05, 23:26:19](https://news.ycombinator.com/item?id=44196576) - [I Do Not Remember My Life and It's Fine](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
 * [2025-06-05, 22:57:16](https://news.ycombinator.com/item?id=44196433) - [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
 * [2025-06-05, 22:53:21](https://news.ycombinator.com/item?id=44196417) - [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
+* [2025-06-05, 22:51:52](https://news.ycombinator.com/item?id=44196410) - [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language)
+* [2025-06-05, 22:48:21](https://news.ycombinator.com/item?id=44196393) - [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
 * [2025-06-05, 22:05:43](https://news.ycombinator.com/item?id=44196211) - [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
 * [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
 * [2025-06-05, 21:22:24](https://news.ycombinator.com/item?id=44195931) - [APL Interpreter – An implementation of APL, written in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)

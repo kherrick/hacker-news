@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-06-06](index.md)
+
+* [2025-06-06, 00:24:43](https://news.ycombinator.com/item?id=44196807) - [Anthropic co-founder on cutting access to Windsurf](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/)
