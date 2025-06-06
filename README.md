@@ -2,7 +2,6 @@
 
 * [2025-06-06, 07:27:21](https://news.ycombinator.com/item?id=44198583) - [A maths proof that is only true in Japan](https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/)
 * [2025-06-06, 06:01:44](https://news.ycombinator.com/item?id=44198171) - [Digital Minister wants open standards and open source as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
-* [2025-06-06, 05:09:53](https://news.ycombinator.com/item?id=44197961) - [How Much Energy Does It Take To Think?](https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/)
 * [2025-06-06, 04:59:58](https://news.ycombinator.com/item?id=44197932) - [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
 * [2025-06-06, 01:36:17](https://news.ycombinator.com/item?id=44197112) - [Open Source Distilling](https://opensourcedistilling.com/)
 * [2025-06-06, 00:56:20](https://news.ycombinator.com/item?id=44196945) - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
@@ -22,6 +21,7 @@
 * [2025-06-05, 18:41:54](https://news.ycombinator.com/item?id=44194521) - [Eleven v3](https://elevenlabs.io/v3)
 * [2025-06-05, 18:37:20](https://news.ycombinator.com/item?id=44194468) - [I made a search engine worse than Elasticsearch (2024)](https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch)
 * [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
+* [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX](https://github.com/hyperdxio/hyperdx)
 * [2025-06-05, 17:47:23](https://news.ycombinator.com/item?id=44193965) - [Programming language Dino and its implementation](https://github.com/dino-lang/dino)
 * [2025-06-05, 16:52:10](https://news.ycombinator.com/item?id=44193390) - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
