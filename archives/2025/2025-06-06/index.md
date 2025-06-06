@@ -21,6 +21,7 @@
 * [2025-06-06, 10:53:51](https://news.ycombinator.com/item?id=44199592) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:35:10](https://news.ycombinator.com/item?id=44199502) - [The X.Org Server just got forked (announcing XLibre)](https://github.com/X11Libre/xserver/commits/xlibre/prepare/)
 * [2025-06-06, 10:34:24](https://news.ycombinator.com/item?id=44199495) - [AMD Radeon 8050S \"Strix Halo\" Linux Graphics Performance Review](https://www.phoronix.com/review/amd-radeon-8050s-graphics)
+* [2025-06-06, 10:25:39](https://news.ycombinator.com/item?id=44199437) - [The Coleco Adam Computer](https://dfarq.homeip.net/coleco-adam-computer/)
 * [2025-06-06, 10:13:05](https://news.ycombinator.com/item?id=44199377) - [Infomaniak comes out in support of controversial Swiss encryption law](https://www.tomsguide.com/computing/vpns/infomaniak-breaks-rank-and-comes-out-in-support-of-controversial-swiss-encryption-law)
 * [2025-06-06, 10:13:05](https://news.ycombinator.com/item?id=44199377) - [Infomaniak backs mass surveillance, aims to end online anonymity in Switzerland](https://discuss.privacyguides.net/t/psa-infomaniak-supports-mass-surveillance-calling-for-legal-change-to-end-online-anonymity-mandatory-metadata-retention/28065)
 * [2025-06-06, 09:57:23](https://news.ycombinator.com/item?id=44199299) - [Czech Republic: Petition for open source in public administration](https://portal.gov.cz/e-petice/1205-petice-za-povinne-zverejneni-zdrojovych-kodu-softwaru-pouzitych-ve-verejne-sprave)
