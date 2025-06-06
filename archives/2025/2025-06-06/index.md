@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 12:32:26](https://news.ycombinator.com/item?id=44200199) - [Being fat is a trap](https://federicopereiro.com/fat-trap/)
 * [2025-06-06, 12:01:16](https://news.ycombinator.com/item?id=44199967) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
+* [2025-06-06, 11:41:19](https://news.ycombinator.com/item?id=44199840) - [Processing Nebula Images with Open Source Tools vs$350 Software](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
 * [2025-06-06, 11:15:16](https://news.ycombinator.com/item?id=44199699) - [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
 * [2025-06-06, 11:09:38](https://news.ycombinator.com/item?id=44199662) - [Fuzzer Blind Spots (Meet Jepsen)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
+* [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
+* [2025-06-06, 10:55:17](https://news.ycombinator.com/item?id=44199597) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
 * [2025-06-06, 10:53:51](https://news.ycombinator.com/item?id=44199592) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:35:10](https://news.ycombinator.com/item?id=44199502) - [The X.Org Server just got forked (announcing XLibre)](https://github.com/X11Libre/xserver/commits/xlibre/prepare/)
 * [2025-06-06, 10:34:24](https://news.ycombinator.com/item?id=44199495) - [AMD Radeon 8050S \"Strix Halo\" Linux Graphics Performance Review](https://www.phoronix.com/review/amd-radeon-8050s-graphics)
