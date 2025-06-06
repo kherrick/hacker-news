@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-06-06, 15:54:52",
+      "https://news.ycombinator.com/item?id=44202110"
+    ],
+    [
+      "Ask HN: Any good tools for viewing congressional bills?",
+      "https://news.ycombinator.com/item?id=44202110"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 15:43:05",
       "https://news.ycombinator.com/item?id=44201975"
     ],
     [
       "Decreasing Gitlab repo backup times from 48 hours to 41 minutes",
       "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 15:36:00",
+      "https://news.ycombinator.com/item?id=44201901"
+    ],
+    [
+      "4-7-8 Breathing",
+      "https://www.breathbelly.com/exercises/4-7-8-breathing"
     ]
   ],
   [
@@ -51,6 +71,26 @@
   ],
   [
     [
+      "2025-06-06, 15:23:34",
+      "https://news.ycombinator.com/item?id=44201802"
+    ],
+    [
+      "Apple warns Australia against joining EU in mandating iPhone app sideloading",
+      "https://www.neowin.net/news/apple-warns-australia-against-joining-eu-in-mandating-iphone-app-sideloading/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 15:21:24",
+      "https://news.ycombinator.com/item?id=44201785"
+    ],
+    [
+      "OpenAI is retaining all ChatGPT logs \"indefinitely.\" Here's who's affected",
+      "https://arstechnica.com/tech-policy/2025/06/openai-confronts-user-panic-over-court-ordered-retention-of-chatgpt-logs/"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 15:18:46",
       "https://news.ycombinator.com/item?id=44201762"
     ],
@@ -67,16 +107,6 @@
     [
       "Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction",
       "https://zju3dv.github.io/freetimegs/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 15:15:44",
-      "https://news.ycombinator.com/item?id=44201736"
-    ],
-    [
-      "Race, ethnicity don't match genetic ancestry, according to a large U.S. study",
-      "https://www.science.org/content/article/race-ethnicity-don-t-match-genetic-ancestry-according-large-u-s-study"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-06-06, 10:34:24",
-      "https://news.ycombinator.com/item?id=44199495"
-    ],
-    [
-      "AMD Radeon 8050S “Strix Halo” Linux Graphics Performance Review",
-      "https://www.phoronix.com/review/amd-radeon-8050s-graphics"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 10:25:39",
       "https://news.ycombinator.com/item?id=44199437"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-06-05, 22:48:21",
-      "https://news.ycombinator.com/item?id=44196393"
-    ],
-    [
-      "What a developer needs to know about SCIM",
-      "https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 21:27:07",
       "https://news.ycombinator.com/item?id=44195961"
     ],
     [
       "Tokasaurus: An LLM inference engine for high-throughput workloads",
       "https://scalingintelligence.stanford.edu/blogs/tokasaurus/"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 21:22:24",
-      "https://news.ycombinator.com/item?id=44195931"
-    ],
-    [
-      "APL Interpreter – An implementation of APL, written in Haskell (2024)",
-      "https://scharenbroch.dev/projects/apl-interpreter/"
     ]
   ],
   [
