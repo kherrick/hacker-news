@@ -24,6 +24,7 @@
 * [2025-06-05, 19:00:10](https://news.ycombinator.com/item?id=44194709) - [Disconnect from FAANG, Connect to Free](https://frikopplad.nu/)
 * [2025-06-05, 18:41:54](https://news.ycombinator.com/item?id=44194521) - [Eleven v3 (Alpha)](https://elevenlabs.io/v3)
 * [2025-06-05, 18:37:25](https://news.ycombinator.com/item?id=44194469) - [Neuromorphic Computing: The Future of AI](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
+* [2025-06-05, 18:37:20](https://news.ycombinator.com/item?id=44194468) - [I made a search engine worse than Elasticsearch (2024)](https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch)
 * [2025-06-05, 18:34:23](https://news.ycombinator.com/item?id=44194431) - [Reproducing the deep double descent paper](https://stpn.bearblog.dev/reproducing-double-descent/)
 * [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
 * [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – open-source Datadog alternative by ClickHouse and HyperDX](https://clickhouse.com/use-cases/observability)
