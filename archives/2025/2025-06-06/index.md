@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 13:38:31](https://news.ycombinator.com/item?id=44200797) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
+* [2025-06-06, 13:36:06](https://news.ycombinator.com/item?id=44200773) - [Dystopian tales of that time when I sold out to Google](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler)
 * [2025-06-06, 12:32:26](https://news.ycombinator.com/item?id=44200199) - [Being fat is a trap](https://federicopereiro.com/fat-trap/)
 * [2025-06-06, 12:01:16](https://news.ycombinator.com/item?id=44199967) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
 * [2025-06-06, 11:49:12](https://news.ycombinator.com/item?id=44199887) - [Doge Developed Error-Prone AI Tool to \"Munch\" Veterans Affairs Contracts](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care)

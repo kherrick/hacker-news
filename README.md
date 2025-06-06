@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-06, 13:38:31](https://news.ycombinator.com/item?id=44200797) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
+* [2025-06-06, 13:36:06](https://news.ycombinator.com/item?id=44200773) - [Dystopian tales of that time when I sold out to Google](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler)
 * [2025-06-06, 12:01:16](https://news.ycombinator.com/item?id=44199967) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
 * [2025-06-06, 11:49:12](https://news.ycombinator.com/item?id=44199887) - [Doge Developed Error-Prone AI Tool to \"Munch\" Veterans Affairs Contracts](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care)
 * [2025-06-06, 11:41:19](https://news.ycombinator.com/item?id=44199840) - [Editing astrophotography](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
@@ -8,7 +10,6 @@
 * [2025-06-06, 10:55:17](https://news.ycombinator.com/item?id=44199597) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
 * [2025-06-06, 10:53:51](https://news.ycombinator.com/item?id=44199592) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:34:24](https://news.ycombinator.com/item?id=44199495) - [AMD Radeon 8050S “Strix Halo” Linux Graphics Performance Review](https://www.phoronix.com/review/amd-radeon-8050s-graphics)
-* [2025-06-06, 10:13:05](https://news.ycombinator.com/item?id=44199377) - [Infomaniak comes out in support of controversial Swiss encryption law](https://www.tomsguide.com/computing/vpns/infomaniak-breaks-rank-and-comes-out-in-support-of-controversial-swiss-encryption-law)
 * [2025-06-06, 09:57:23](https://news.ycombinator.com/item?id=44199299) - [Czech Republic: Petition for open source in public administration](https://portal.gov.cz/e-petice/1205-petice-za-povinne-zverejneni-zdrojovych-kodu-softwaru-pouzitych-ve-verejne-sprave)
 * [2025-06-06, 08:57:38](https://news.ycombinator.com/item?id=44199005) - [Freight rail fueled a new luxury overnight train startup](https://www.freightwaves.com/news/how-freight-rail-fueled-a-new-luxury-overnight-train-startup)
 * [2025-06-06, 07:14:16](https://news.ycombinator.com/item?id=44198503) - [Aether: A CMS That Gets Out of Your Way](https://lebcit.github.io/post/meet-aether-a-cms-that-actually-gets-out-of-your-way/)
@@ -25,7 +26,6 @@
 * [2025-06-05, 20:12:50](https://news.ycombinator.com/item?id=44195354) - [Defending adverbs exuberantly if conditionally](https://countercraft.substack.com/p/defending-adverbs-exuberantly-if)
 * [2025-06-05, 19:15:41](https://news.ycombinator.com/item?id=44194859) - [SkyRoof: New Ham Satellite Tracking and SDR Receiver Software](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/)
 * [2025-06-05, 18:37:20](https://news.ycombinator.com/item?id=44194468) - [I made a search engine worse than Elasticsearch (2024)](https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch)
-* [2025-06-05, 17:47:23](https://news.ycombinator.com/item?id=44193965) - [Programming language Dino and its implementation](https://github.com/dino-lang/dino)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Show HN: Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
