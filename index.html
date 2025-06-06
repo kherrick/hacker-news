@@ -129,6 +129,91 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44196433">
+          <h3>
+            <a class="item" href="https://masonyarbrough.com/blog/ask-human"
+              >Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop
+              hallucinations</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-05 @ 22:57:16</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44196433"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                ask-human-mcp pauses your agent whenever it’s stuck, logs a
+                question into ask_human.md in your root directory with answer:
+                PENDING, and then resumes as soon as you fill in the correct
+                answer.
+              </p>
+              <p>the pain:</p>
+              <p>
+                your agent screams out an endpoint that never existed it makes
+                confident assumptions and you spend hours debugging false leads
+              </p>
+              <p>the fix:</p>
+              <p>
+                ask-human-mcp gives your agent an escape hatch. when it’s
+                unsure, it calls ask_human(), writes a question into
+                ask_human.md, and waits. you swap answer: PENDING for the real
+                answer and it keeps going.
+              </p>
+              <p>some features:</p>
+              <p>
+                - zero config: pip install ask-human-mcp + one line in
+                .cursor/mcp.json → boom, you’re live - cross-platform: works on
+                macOS, Linux, and Windows—no extra servers or webhooks. -
+                markdown Q\&amp;A: agent calls await ask_human(), question lands
+                in ask_human.md with answer: PENDING. you write the answer,
+                agent picks back up - file locking &amp; rotation: prevents
+                corrupt files, limits pending questions, auto-rotates when
+                ask_human.md hits ~50 MB
+              </p>
+              <p>the quickstart</p>
+              <p>pip install ask-human-mcp ask-human-mcp --help</p>
+              <p>
+                add to .cursor/mcp.json and restart: { "mcpServers": {
+                "ask-human": { "command": "ask-human-mcp" } } }
+              </p>
+              <p>now any call like:</p>
+              <p>
+                answer = await ask_human( "which auth endpoint do we use?",
+                "building login form in auth.js" )
+              </p>
+              <p>creates:</p>
+              <p>
+                ### Q8c4f1e2a ts: 2025-01-15 14:30 q: which auth endpoint do we
+                use? ctx: building login form in auth.js answer: PENDING
+              </p>
+              <p>
+                just replace answer: PENDING with the real endpoint (e.g., `POST
+                /api/v2/auth/login`) and your agent continues.
+              </p>
+              <p>link:</p>
+              <p>
+                github -&gt;
+                <a href="https://github.com/Masony817/ask-human-mcp"
+                  >https://github.com/Masony817/ask-human-mcp</a
+                >
+              </p>
+              <p>feedback:</p>
+              <p>
+                I'm Mason a 19yo solo-founder at Kallro. Happy to hear any bugs,
+                feature requests, or weird edge cases you uncover - drop a
+                comment or open an issue! buy me a coffee -&gt;
+                coff.ee/masonyarbrough
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="44196417">
           <h3>
             <a
@@ -141,11 +226,11 @@
             <h4>
               <span>2025-06-05 @ 22:53:21</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44196417"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
             <div class="text">
@@ -174,7 +259,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44196211"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
             <div class="text">
@@ -218,7 +303,7 @@
             <h4>
               <span>2025-06-05 @ 21:27:07</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44195961"
                   >Comments</a
@@ -240,11 +325,11 @@
             <h4>
               <span>2025-06-05 @ 21:22:24</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44195931"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -261,11 +346,11 @@
             <h4>
               <span>2025-06-05 @ 21:06:39</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44195783"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -298,7 +383,7 @@
             <h4>
               <span>2025-06-05 @ 19:17:00</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44194871"
                   >Comments</a
@@ -319,7 +404,7 @@
             <h4>
               <span>2025-06-05 @ 19:15:41</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44194859"
                   >Comments</a
@@ -334,11 +419,11 @@
             <h4>
               <span>2025-06-05 @ 18:41:54</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44194521"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -353,11 +438,11 @@
             <h4>
               <span>2025-06-05 @ 18:06:21</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44194120"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
             <div class="text">
@@ -418,11 +503,11 @@
             <h4>
               <span>2025-06-05 @ 18:01:21</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44194082"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
             <div class="text">
@@ -518,11 +603,11 @@
             <h4>
               <span>2025-06-05 @ 17:54:07</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44194014"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -537,11 +622,11 @@
             <h4>
               <span>2025-06-05 @ 17:47:23</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44193965"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -556,7 +641,7 @@
             <h4>
               <span>2025-06-05 @ 17:44:27</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44193933"
                   >Comments</a
@@ -578,11 +663,11 @@
             <h4>
               <span>2025-06-05 @ 16:21:04</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44193120"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -599,11 +684,11 @@
             <h4>
               <span>2025-06-05 @ 16:07:03</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44192995"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -620,11 +705,11 @@
             <h4>
               <span>2025-06-05 @ 16:02:54</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44192955"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -641,11 +726,11 @@
             <h4>
               <span>2025-06-05 @ 13:40:48</span
               ><span class="points-container"
-                >Points: <span class="points">375</span></span
+                >Points: <span class="points">389</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44191620"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -660,11 +745,11 @@
             <h4>
               <span>2025-06-05 @ 13:37:29</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44191591"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -682,11 +767,11 @@
             <h4>
               <span>2025-06-05 @ 13:32:48</span
               ><span class="points-container"
-                >Points: <span class="points">249</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44191558"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
           </section>
@@ -702,7 +787,7 @@
             <h4>
               <span>2025-06-05 @ 08:52:56</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44189741"
                   >Comments</a
@@ -722,7 +807,7 @@
             <h4>
               <span>2025-06-05 @ 07:59:21</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44189426"
                   >Comments</a
@@ -743,11 +828,11 @@
             <h4>
               <span>2025-06-05 @ 07:42:25</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">325</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44189329"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
             <div class="text">
@@ -817,28 +902,6 @@
             </div>
           </section>
         </section>
-        <section id="44188248">
-          <h3>
-            <a
-              class="item"
-              href="https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation"
-              >End of an Era: Landsat 7 Decommissioned After 25 Years of Earth
-              Observation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-05 @ 04:09:00</span
-              ><span class="points-container"
-                >Points: <span class="points">106</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44188248"
-                  >Comments</a
-                ><span class="descendants">: 39</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44186536">
           <h3>
             <a class="item" href="https://github.com/hugomd/parrot.live"
@@ -849,7 +912,7 @@
             <h4>
               <span>2025-06-04 @ 23:05:32</span
               ><span class="points-container"
-                >Points: <span class="points">212</span></span
+                >Points: <span class="points">214</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44186536"
                   >Comments</a
@@ -870,11 +933,11 @@
             <h4>
               <span>2025-06-04 @ 23:00:35</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">229</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44186496"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -892,11 +955,11 @@
             <h4>
               <span>2025-06-04 @ 21:47:33</span
               ><span class="points-container"
-                >Points: <span class="points">1065</span></span
+                >Points: <span class="points">1069</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44185913"
                   >Comments</a
-                ><span class="descendants">: 866</span></span
+                ><span class="descendants">: 869</span></span
               >
             </h4>
           </section>
@@ -913,11 +976,11 @@
             <h4>
               <span>2025-06-04 @ 20:03:43</span
               ><span class="points-container"
-                >Points: <span class="points">301</span></span
+                >Points: <span class="points">305</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44184900"
                   >Comments</a
-                ><span class="descendants">: 243</span></span
+                ><span class="descendants">: 246</span></span
               >
             </h4>
           </section>
@@ -935,11 +998,11 @@
             <h4>
               <span>2025-06-04 @ 18:15:54</span
               ><span class="points-container"
-                >Points: <span class="points">592</span></span
+                >Points: <span class="points">599</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44183799"
                   >Comments</a
-                ><span class="descendants">: 336</span></span
+                ><span class="descendants">: 337</span></span
               >
             </h4>
           </section>
@@ -956,11 +1019,11 @@
             <h4>
               <span>2025-06-02 @ 18:25:56</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44161607"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
