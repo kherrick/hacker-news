@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 04:59:58](https://news.ycombinator.com/item?id=44197932) - [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
 * [2025-06-06, 03:06:34](https://news.ycombinator.com/item?id=44197493) - [Data centers are building their own gas power plants in Texas](https://www.texastribune.org/2025/06/05/texas-data-centers-gas-power-plants-ai/)
 * [2025-06-06, 02:45:22](https://news.ycombinator.com/item?id=44197399) - [I am an audience, first and foremost](https://ratsfromrocks.substack.com/p/i-am-an-audience-first-and-foremost)
 * [2025-06-06, 02:33:16](https://news.ycombinator.com/item?id=44197347) - [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)
