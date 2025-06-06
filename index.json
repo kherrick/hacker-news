@@ -1,12 +1,72 @@
 [
   [
     [
+      "2025-06-06, 15:43:05",
+      "https://news.ycombinator.com/item?id=44201975"
+    ],
+    [
+      "Decreasing Gitlab repo backup times from 48 hours to 41 minutes",
+      "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 15:33:10",
+      "https://news.ycombinator.com/item?id=44201872"
+    ],
+    [
+      "Meta: Shut Down Your Invasive AI Discover Feed. Now",
+      "https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 15:31:18",
       "https://news.ycombinator.com/item?id=44201857"
     ],
     [
       "VPN providers in France ordered to block pirate sports IPTV",
       "https://torrentfreak.com/major-vpn-providers-ordered-to-block-pirate-sports-streaming-sites-250516/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 15:27:00",
+      "https://news.ycombinator.com/item?id=44201829"
+    ],
+    [
+      "Why Bell Labs Worked",
+      "https://links.fabiomanganiello.com/share/683ee70d0409e6.66273547"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 15:24:44",
+      "https://news.ycombinator.com/item?id=44201812"
+    ],
+    [
+      "Sandia turns on brain-like storage-free supercomputer – Blocks and Files",
+      "https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 15:18:46",
+      "https://news.ycombinator.com/item?id=44201762"
+    ],
+    [
+      "Too Many Open Files",
+      "https://mattrighetti.com/2025/06/04/too-many-files-open"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 15:16:58",
+      "https://news.ycombinator.com/item?id=44201748"
+    ],
+    [
+      "Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction",
+      "https://zju3dv.github.io/freetimegs/"
     ]
   ],
   [
@@ -77,16 +137,6 @@
     [
       "Small Programs and Languages",
       "https://ratfactor.com/cards/pl-small"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 13:36:06",
-      "https://news.ycombinator.com/item?id=44200773"
-    ],
-    [
-      "Dystopian tales of that time when I sold out to Google",
-      "https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler"
     ]
   ],
   [
@@ -171,26 +221,6 @@
   ],
   [
     [
-      "2025-06-06, 09:57:23",
-      "https://news.ycombinator.com/item?id=44199299"
-    ],
-    [
-      "Czech Republic: Petition for open source in public administration",
-      "https://portal.gov.cz/e-petice/1205-petice-za-povinne-zverejneni-zdrojovych-kodu-softwaru-pouzitych-ve-verejne-sprave"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 07:14:16",
-      "https://news.ycombinator.com/item?id=44198503"
-    ],
-    [
-      "Aether: A CMS That Gets Out of Your Way",
-      "https://lebcit.github.io/post/meet-aether-a-cms-that-actually-gets-out-of-your-way/"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 04:59:58",
       "https://news.ycombinator.com/item?id=44197932"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2025-06-05, 22:53:21",
-      "https://news.ycombinator.com/item?id=44196417"
-    ],
-    [
-      "Show HN: Claude Composer",
-      "https://github.com/possibilities/claude-composer"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 22:48:21",
       "https://news.ycombinator.com/item?id=44196393"
     ],
@@ -257,26 +277,6 @@
     [
       "APL Interpreter – An implementation of APL, written in Haskell (2024)",
       "https://scharenbroch.dev/projects/apl-interpreter/"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 18:37:20",
-      "https://news.ycombinator.com/item?id=44194468"
-    ],
-    [
-      "I made a search engine worse than Elasticsearch (2024)",
-      "https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 16:07:03",
-      "https://news.ycombinator.com/item?id=44192995"
-    ],
-    [
-      "Seven Days at the Bin Store",
-      "https://defector.com/seven-days-at-the-bin-store"
     ]
   ],
   [
