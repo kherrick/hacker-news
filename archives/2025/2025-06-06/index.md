@@ -6,6 +6,7 @@
 
 * [2025-06-06, 10:13:05](https://news.ycombinator.com/item?id=44199377) - [Infomaniak backs mass surveillance, aims to end online anonymity in Switzerland](https://discuss.privacyguides.net/t/psa-infomaniak-supports-mass-surveillance-calling-for-legal-change-to-end-online-anonymity-mandatory-metadata-retention/28065)
 * [2025-06-06, 07:27:21](https://news.ycombinator.com/item?id=44198583) - [The bizarre story of a maths proof that is only true in Japan](https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/)
+* [2025-06-06, 07:14:16](https://news.ycombinator.com/item?id=44198503) - [Aether: A CMS That Gets Out of Your Way](https://lebcit.github.io/post/meet-aether-a-cms-that-actually-gets-out-of-your-way/)
 * [2025-06-06, 06:12:09](https://news.ycombinator.com/item?id=44198225) - [Second ispace craft has probably crash-landed on Moon](https://www.nature.com/articles/d41586-025-01751-3)
 * [2025-06-06, 06:02:40](https://news.ycombinator.com/item?id=44198176) - [Google confirms more ads on your paid YouTube Premium Lite soon](https://www.neowin.net/news/google-confirms-more-ads-on-your-paid-youtube-premium-lite-soon/)
 * [2025-06-06, 06:01:44](https://news.ycombinator.com/item?id=44198171) - [Digital Minister wants open standards and open source as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
