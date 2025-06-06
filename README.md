@@ -2,13 +2,14 @@
 
 * [2025-06-06, 22:21:39](https://news.ycombinator.com/item?id=44205599) - [Medieval Africans Had a Unique Process for Purifying Gold with Glass](https://www.atlasobscura.com/articles/medieval-african-gold)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Japanese researchers develop transparent paper as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
+* [2025-06-06, 21:15:17](https://news.ycombinator.com/item?id=44205060) - [Supreme Court allows DOGE to access social security data](https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-doge-social-security-data-access-elon-musk-rcna206515)
 * [2025-06-06, 21:00:00](https://news.ycombinator.com/item?id=44204928) - [Onyx (YC W24) – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
 * [2025-06-06, 20:55:34](https://news.ycombinator.com/item?id=44204878) - [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)
-* [2025-06-06, 20:42:24](https://news.ycombinator.com/item?id=44204767) - [Supreme Court Gives Doge Access to Social Security Data](https://www.bloomberg.com/news/articles/2025-06-06/supreme-court-gives-doge-access-to-social-security-data)
 * [2025-06-06, 19:43:01](https://news.ycombinator.com/item?id=44204277) - [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
 * [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 19:30:29](https://news.ycombinator.com/item?id=44204181) - [Show HN: AI game animation sprite generator](https://www.godmodeai.cloud/ai-sprite-generator)
 * [2025-06-06, 19:28:51](https://news.ycombinator.com/item?id=44204162) - [How many trees are there in the North American boreal forest?](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.07677)
+* [2025-06-06, 19:28:29](https://news.ycombinator.com/item?id=44204155) - [Highly efficient matrix transpose in Mojo](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
 * [2025-06-06, 18:56:03](https://news.ycombinator.com/item?id=44203870) - [A Rippling Townhouse Facade by Alex Chinneck Takes a Seat in a London Square](https://www.thisiscolossal.com/2025/05/alex-chinneck-a-week-at-the-knees/)
 * [2025-06-06, 18:38:36](https://news.ycombinator.com/item?id=44203732) - [Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks](https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks)
 * [2025-06-06, 18:18:36](https://news.ycombinator.com/item?id=44203562) - [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
@@ -27,7 +28,6 @@
 * [2025-06-06, 11:15:16](https://news.ycombinator.com/item?id=44199699) - [Swift and the Cute 2d game framework: Setting up a project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
 * [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
 * [2025-06-06, 10:55:17](https://news.ycombinator.com/item?id=44199597) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
-* [2025-06-06, 08:57:38](https://news.ycombinator.com/item?id=44199005) - [Freight rail fueled a new luxury overnight train startup](https://www.freightwaves.com/news/how-freight-rail-fueled-a-new-luxury-overnight-train-startup)
 * [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 * [2025-06-03, 09:52:35](https://news.ycombinator.com/item?id=44168184) - [Wendelstein 7-X sets new fusion record](https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html)
 
