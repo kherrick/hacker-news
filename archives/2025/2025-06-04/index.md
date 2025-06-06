@@ -71,6 +71,7 @@
 * [2025-06-04, 13:54:17](https://news.ycombinator.com/item?id=44180772) - [What Is Post-Fascism?](https://www.jhiblog.org/2025/06/04/what-is-post-fascism/)
 * [2025-06-04, 13:42:55](https://news.ycombinator.com/item?id=44180661) - [How Should We Think About the Renaissance?](https://www.chronicle.com/article/how-should-we-think-about-the-renaissance)
 * [2025-06-04, 13:37:39](https://news.ycombinator.com/item?id=44180607) - [Globally Based – all-in-one platform for travel management](https://globallybased.com)
+* [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 * [2025-06-04, 12:55:16](https://news.ycombinator.com/item?id=44180239) - [Designing better file organization around tags, not hierarchies (2017)](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 * [2025-06-04, 12:42:33](https://news.ycombinator.com/item?id=44180126) - [Cord didn't win. What now?](https://jg.gg/2025/01/10/cord-didnt-win-what-now/)
 * [2025-06-04, 11:50:59](https://news.ycombinator.com/item?id=44179691) - [The Sky's the limit: AI automation on Mac](https://taoofmac.com/space/blog/2025/06/03/2155)
