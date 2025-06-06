@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-06-06, 19:28:29",
-      "https://news.ycombinator.com/item?id=44204155"
+      "2025-06-06, 20:00:02",
+      "https://news.ycombinator.com/item?id=44204439"
     ],
     [
-      "Switching to Mojo gave a 14% improvement over CUDA",
-      "https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/"
+      "Ship abandoned off Alaska after electric cars on board catch fire",
+      "https://www.theregister.com/2025/06/05/zodiac_maritime_electric_car_fire/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 19:43:01",
+      "https://news.ycombinator.com/item?id=44204277"
+    ],
+    [
+      "United States Digital Service Origins",
+      "https://usdigitalserviceorigins.org/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 19:35:54",
+      "https://news.ycombinator.com/item?id=44204224"
+    ],
+    [
+      "A year of funded FreeBSD development",
+      "https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 19:30:29",
+      "https://news.ycombinator.com/item?id=44204181"
+    ],
+    [
+      "Show HN: AI game animation sprite generator",
+      "https://www.godmodeai.cloud/ai-sprite-generator"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44202664"
     ],
     [
-      "Research demonstrates way to make HIV virus visible within white blood cells",
+      "Researchers find a way to make the HIV virus visible within white blood cells",
       "https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed"
     ]
   ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2025-06-06, 15:15:44",
-      "https://news.ycombinator.com/item?id=44201736"
-    ],
-    [
-      "Self-reported race, ethnicity don't match genetic ancestry in the U.S.: study",
-      "https://www.science.org/content/article/race-ethnicity-don-t-match-genetic-ancestry-according-large-u-s-study"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 14:58:17",
       "https://news.ycombinator.com/item?id=44201583"
     ],
     [
       "An Interactive Guide to Rate Limiting",
       "https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 14:07:28",
-      "https://news.ycombinator.com/item?id=44201072"
-    ],
-    [
-      "Top researchers leave Intel to build startup with 'the biggest, baddest CPU'",
-      "https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Small Programs and Languages",
       "https://ratfactor.com/cards/pl-small"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 11:29:11",
-      "https://news.ycombinator.com/item?id=44199770"
-    ],
-    [
-      "How to (actually) send DTMF on Android without being the default call app",
-      "https://edm115.dev/blog/2025/01/22/how-to-send-dtmf-on-android"
     ]
   ],
   [
