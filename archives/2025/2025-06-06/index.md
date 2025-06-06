@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
+* [2025-06-06, 13:46:01](https://news.ycombinator.com/item?id=44200866) - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
 * [2025-06-06, 13:38:31](https://news.ycombinator.com/item?id=44200797) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
 * [2025-06-06, 13:36:06](https://news.ycombinator.com/item?id=44200773) - [Dystopian tales of that time when I sold out to Google](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler)
 * [2025-06-06, 12:32:26](https://news.ycombinator.com/item?id=44200199) - [Being fat is a trap](https://federicopereiro.com/fat-trap/)
+* [2025-06-06, 12:19:46](https://news.ycombinator.com/item?id=44200101) - [ThornWalli/web-workbench: Old operating system as homepage](https://github.com/ThornWalli/web-workbench)
 * [2025-06-06, 12:01:16](https://news.ycombinator.com/item?id=44199967) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
 * [2025-06-06, 11:49:12](https://news.ycombinator.com/item?id=44199887) - [Doge Developed Error-Prone AI Tool to \"Munch\" Veterans Affairs Contracts](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care)
 * [2025-06-06, 11:41:19](https://news.ycombinator.com/item?id=44199840) - [Processing Nebula Images with Open Source Tools vs$350 Software](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
+* [2025-06-06, 11:29:11](https://news.ycombinator.com/item?id=44199770) - [How to (actually) send DTMF on Android without being the default call app](https://edm115.dev/blog/2025/01/22/how-to-send-dtmf-on-android)
 * [2025-06-06, 11:15:16](https://news.ycombinator.com/item?id=44199699) - [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
 * [2025-06-06, 11:09:38](https://news.ycombinator.com/item?id=44199662) - [Fuzzer Blind Spots (Meet Jepsen)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
 * [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)

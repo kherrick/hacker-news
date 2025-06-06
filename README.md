@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
+* [2025-06-06, 13:46:01](https://news.ycombinator.com/item?id=44200866) - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
 * [2025-06-06, 13:38:31](https://news.ycombinator.com/item?id=44200797) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
 * [2025-06-06, 13:36:06](https://news.ycombinator.com/item?id=44200773) - [Dystopian tales of that time when I sold out to Google](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler)
+* [2025-06-06, 12:19:46](https://news.ycombinator.com/item?id=44200101) - [ThornWalli/web-workbench: Old operating system as homepage](https://github.com/ThornWalli/web-workbench)
 * [2025-06-06, 12:01:16](https://news.ycombinator.com/item?id=44199967) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
-* [2025-06-06, 11:49:12](https://news.ycombinator.com/item?id=44199887) - [Doge Developed Error-Prone AI Tool to \"Munch\" Veterans Affairs Contracts](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care)
-* [2025-06-06, 11:41:19](https://news.ycombinator.com/item?id=44199840) - [Editing astrophotography](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
+* [2025-06-06, 11:29:11](https://news.ycombinator.com/item?id=44199770) - [How to (actually) send DTMF on Android without being the default call app](https://edm115.dev/blog/2025/01/22/how-to-send-dtmf-on-android)
 * [2025-06-06, 11:15:16](https://news.ycombinator.com/item?id=44199699) - [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
 * [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
 * [2025-06-06, 10:55:17](https://news.ycombinator.com/item?id=44199597) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
@@ -17,7 +19,6 @@
 * [2025-06-06, 01:36:17](https://news.ycombinator.com/item?id=44197112) - [Open Source Distilling](https://opensourcedistilling.com/)
 * [2025-06-06, 00:56:20](https://news.ycombinator.com/item?id=44196945) - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
 * [2025-06-06, 00:35:17](https://news.ycombinator.com/item?id=44196850) - [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
-* [2025-06-05, 23:29:35](https://news.ycombinator.com/item?id=44196589) - [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
 * [2025-06-05, 22:57:16](https://news.ycombinator.com/item?id=44196433) - [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
 * [2025-06-05, 22:53:21](https://news.ycombinator.com/item?id=44196417) - [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
 * [2025-06-05, 22:48:21](https://news.ycombinator.com/item?id=44196393) - [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
@@ -29,7 +30,6 @@
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Show HN: Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
-* [2025-06-02, 18:25:56](https://news.ycombinator.com/item?id=44161607) - [The Universal Tech Tree](https://asteriskmag.com/issues/10/the-universal-tech-tree)
 
 ## [Archives](archives/index.md)
 
