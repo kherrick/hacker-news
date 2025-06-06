@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-06, 18:10:29",
+      "https://news.ycombinator.com/item?id=44203494"
+    ],
+    [
+      "SaaS is just vendor lock-in with better branding",
+      "https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 18:09:24",
       "https://news.ycombinator.com/item?id=44203486"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44201975"
     ],
     [
-      "Decreasing Gitlab repo backup times from 48 hours to 41 minutes",
+      "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
       "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44201812"
     ],
     [
-      "Sandia turns on brain-like storage-free supercomputer – Blocks and Files",
+      "Sandia turns on brain-like storage-free supercomputer",
       "https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/"
     ]
   ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-06-06, 14:52:28",
-      "https://news.ycombinator.com/item?id=44201519"
-    ],
-    [
-      "Exploring AI Integrations with Adobe Photoshop, InDesign and Premiere Pro",
-      "https://www.mikechambers.com/blog/post/2025-06-06-exploring-ai-integration-with-adobe-photoshop-indesign-and-premiere-pro/"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 14:07:28",
       "https://news.ycombinator.com/item?id=44201072"
     ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=44200870"
     ],
     [
-      "Curate Your Shell History",
+      "Curate your shell history",
       "https://esham.io/2025/05/shell-history"
     ]
   ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-06-06, 12:19:46",
-      "https://news.ycombinator.com/item?id=44200101"
-    ],
-    [
-      "ThornWalli/web-workbench: Old operating system as homepage",
-      "https://github.com/ThornWalli/web-workbench"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 11:29:11",
       "https://news.ycombinator.com/item?id=44199770"
     ],
@@ -235,8 +225,18 @@
       "https://news.ycombinator.com/item?id=44199699"
     ],
     [
-      "Swift and Cute 2D Game Framework: Setting Up a Project with CMake",
+      "Swift and the Cute 2d game framework: Setting up a project with CMake",
       "https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 11:06:48",
+      "https://news.ycombinator.com/item?id=44199649"
+    ],
+    [
+      "What you need to know about EMP weapons",
+      "https://www.aardvark.co.nz/daily/2025/0606.shtml"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-06-05, 20:12:50",
+      "https://news.ycombinator.com/item?id=44195354"
+    ],
+    [
+      "Defending adverbs exuberantly if conditionally",
+      "https://countercraft.substack.com/p/defending-adverbs-exuberantly-if"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 13:40:48",
       "https://news.ycombinator.com/item?id=44191620"
     ],
     [
       "The impossible predicament of the death newts",
       "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 07:42:25",
-      "https://news.ycombinator.com/item?id=44189329"
-    ],
-    [
-      "Show HN: Air Lab – A portable and open air quality measuring device",
-      "https://networkedartifacts.com/airlab/simulator"
     ]
   ]
 ]
