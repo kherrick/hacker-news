@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 07:27:21](https://news.ycombinator.com/item?id=44198583) - [The bizarre story of a maths proof that is only true in Japan](https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/)
+* [2025-06-06, 06:12:09](https://news.ycombinator.com/item?id=44198225) - [Second ispace craft has probably crash-landed on Moon](https://www.nature.com/articles/d41586-025-01751-3)
 * [2025-06-06, 05:48:33](https://news.ycombinator.com/item?id=44198116) - [Twenty Years of TiddlyWiki (2024)](https://tiddlywiki.com/#History%20of%20TiddlyWiki:HelloThere%20%5B%5BQuick%20Start%5D%5D%20%5B%5BFind%20Out%20More%5D%5D%20%5B%5BHistory%20of%20TiddlyWiki%5D%5D%20%5B%5BTiddlyWiki%20on%20the%20Web%5D%5D%20%5B%5BTestimonials%20and%20Reviews%5D%5D%20GettingStarted%20Community)
 * [2025-06-06, 05:30:11](https://news.ycombinator.com/item?id=44198049) - [Switch 2 rooted on day 1](https://bsky.app/profile/retr0.id/post/3lqtwrndzf22w)
+* [2025-06-06, 05:09:53](https://news.ycombinator.com/item?id=44197961) - [Neuroscience How Much Energy Does It Take to Think?](https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/)
 * [2025-06-06, 04:59:58](https://news.ycombinator.com/item?id=44197932) - [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
 * [2025-06-06, 03:06:34](https://news.ycombinator.com/item?id=44197493) - [Data centers are building their own gas power plants in Texas](https://www.texastribune.org/2025/06/05/texas-data-centers-gas-power-plants-ai/)
 * [2025-06-06, 02:45:22](https://news.ycombinator.com/item?id=44197399) - [I am an audience, first and foremost](https://ratsfromrocks.substack.com/p/i-am-an-audience-first-and-foremost)
