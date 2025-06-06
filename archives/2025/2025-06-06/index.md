@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 21:00:00](https://news.ycombinator.com/item?id=44204928) - [Onyx (YC W24) – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
 * [2025-06-06, 20:21:11](https://news.ycombinator.com/item?id=44204603) - [Online Sports Betting Is for Losers](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/)
 * [2025-06-06, 20:00:02](https://news.ycombinator.com/item?id=44204439) - [Ship abandoned off Alaska after electric cars on board catch fire](https://www.theregister.com/2025/06/05/zodiac_maritime_electric_car_fire/)
 * [2025-06-06, 19:43:01](https://news.ycombinator.com/item?id=44204277) - [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
@@ -12,6 +13,7 @@
 * [2025-06-06, 19:28:29](https://news.ycombinator.com/item?id=44204155) - [Switching to Mojo gave a 14% improvement over CUDA](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
 * [2025-06-06, 18:56:03](https://news.ycombinator.com/item?id=44203870) - [A Rippling Townhouse Facade by Alex Chinneck Takes a Seat in a London Square](https://www.thisiscolossal.com/2025/05/alex-chinneck-a-week-at-the-knees/)
 * [2025-06-06, 18:38:36](https://news.ycombinator.com/item?id=44203732) - [Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks](https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks)
+* [2025-06-06, 18:18:36](https://news.ycombinator.com/item?id=44203562) - [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 * [2025-06-06, 18:10:29](https://news.ycombinator.com/item?id=44203494) - [SaaS is just vendor lock-in with better branding](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding)
 * [2025-06-06, 18:09:24](https://news.ycombinator.com/item?id=44203486) - [Great Question (YC W21) Is Hiring a Director of Customer Success](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success)
 * [2025-06-06, 17:18:08](https://news.ycombinator.com/item?id=44203003) - [Series C and Scale (Cursor)](https://www.cursor.com/en/blog/series-c)
