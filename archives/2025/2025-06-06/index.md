@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 11:15:16](https://news.ycombinator.com/item?id=44199699) - [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
 * [2025-06-06, 11:09:38](https://news.ycombinator.com/item?id=44199662) - [Fuzzer Blind Spots (Meet Jepsen)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
 * [2025-06-06, 10:53:51](https://news.ycombinator.com/item?id=44199592) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:35:10](https://news.ycombinator.com/item?id=44199502) - [The X.Org Server just got forked (announcing XLibre)](https://github.com/X11Libre/xserver/commits/xlibre/prepare/)
