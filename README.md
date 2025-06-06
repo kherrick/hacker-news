@@ -3,7 +3,6 @@
 * [2025-06-06, 07:27:21](https://news.ycombinator.com/item?id=44198583) - [A maths proof that is only true in Japan](https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/)
 * [2025-06-06, 06:02:40](https://news.ycombinator.com/item?id=44198176) - [Google confirms more ads on your paid YouTube Premium Lite soon](https://www.neowin.net/news/google-confirms-more-ads-on-your-paid-youtube-premium-lite-soon/)
 * [2025-06-06, 06:01:44](https://news.ycombinator.com/item?id=44198171) - [Digital Minister wants open standards and open source as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
-* [2025-06-06, 05:37:15](https://news.ycombinator.com/item?id=44198076) - [Homeless but self taught full stack developer](https://news.ycombinator.com/item?id=44198076)
 * [2025-06-06, 05:09:53](https://news.ycombinator.com/item?id=44197961) - [How Much Energy Does It Take To Think?](https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/)
 * [2025-06-06, 04:59:58](https://news.ycombinator.com/item?id=44197932) - [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
 * [2025-06-06, 01:36:17](https://news.ycombinator.com/item?id=44197112) - [Open Source Distilling](https://opensourcedistilling.com/)
@@ -28,7 +27,8 @@
 * [2025-06-05, 16:52:10](https://news.ycombinator.com/item?id=44193390) - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
-* [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
+* [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Show HN: Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
+* [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-02, 18:25:56](https://news.ycombinator.com/item?id=44161607) - [The Universal Tech Tree](https://asteriskmag.com/issues/10/the-universal-tech-tree)
 
 ## [Archives](archives/index.md)
