@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-06, 12:32:26](https://news.ycombinator.com/item?id=44200199) - [Being fat is a trap](https://federicopereiro.com/fat-trap/)
 * [2025-06-06, 12:01:16](https://news.ycombinator.com/item?id=44199967) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
-* [2025-06-06, 11:41:19](https://news.ycombinator.com/item?id=44199840) - [Processing Nebula Images with Open Source Tools vs$350 Software](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
+* [2025-06-06, 11:49:12](https://news.ycombinator.com/item?id=44199887) - [Doge Developed Error-Prone AI Tool to \"Munch\" Veterans Affairs Contracts](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care)
+* [2025-06-06, 11:41:19](https://news.ycombinator.com/item?id=44199840) - [Editing astrophotography](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
 * [2025-06-06, 11:15:16](https://news.ycombinator.com/item?id=44199699) - [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
 * [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
 * [2025-06-06, 10:55:17](https://news.ycombinator.com/item?id=44199597) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
@@ -25,10 +25,10 @@
 * [2025-06-05, 20:12:50](https://news.ycombinator.com/item?id=44195354) - [Defending adverbs exuberantly if conditionally](https://countercraft.substack.com/p/defending-adverbs-exuberantly-if)
 * [2025-06-05, 19:15:41](https://news.ycombinator.com/item?id=44194859) - [SkyRoof: New Ham Satellite Tracking and SDR Receiver Software](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/)
 * [2025-06-05, 18:37:20](https://news.ycombinator.com/item?id=44194468) - [I made a search engine worse than Elasticsearch (2024)](https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch)
+* [2025-06-05, 17:47:23](https://news.ycombinator.com/item?id=44193965) - [Programming language Dino and its implementation](https://github.com/dino-lang/dino)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Show HN: Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
-* [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-02, 18:25:56](https://news.ycombinator.com/item?id=44161607) - [The Universal Tech Tree](https://asteriskmag.com/issues/10/the-universal-tech-tree)
 
 ## [Archives](archives/index.md)

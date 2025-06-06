@@ -6,6 +6,7 @@
 
 * [2025-06-06, 12:32:26](https://news.ycombinator.com/item?id=44200199) - [Being fat is a trap](https://federicopereiro.com/fat-trap/)
 * [2025-06-06, 12:01:16](https://news.ycombinator.com/item?id=44199967) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
+* [2025-06-06, 11:49:12](https://news.ycombinator.com/item?id=44199887) - [Doge Developed Error-Prone AI Tool to \"Munch\" Veterans Affairs Contracts](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care)
 * [2025-06-06, 11:41:19](https://news.ycombinator.com/item?id=44199840) - [Processing Nebula Images with Open Source Tools vs$350 Software](https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/)
 * [2025-06-06, 11:15:16](https://news.ycombinator.com/item?id=44199699) - [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
 * [2025-06-06, 11:09:38](https://news.ycombinator.com/item?id=44199662) - [Fuzzer Blind Spots (Meet Jepsen)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
