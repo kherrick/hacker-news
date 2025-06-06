@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 15:54:52](https://news.ycombinator.com/item?id=44202110) - [Ask HN: Any good tools for viewing congressional bills?](https://news.ycombinator.com/item?id=44202110)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [Decreasing Gitlab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
+* [2025-06-06, 15:36:00](https://news.ycombinator.com/item?id=44201901) - [4-7-8 Breathing](https://www.breathbelly.com/exercises/4-7-8-breathing)
 * [2025-06-06, 15:33:10](https://news.ycombinator.com/item?id=44201872) - [Meta: Shut Down Your Invasive AI Discover Feed. Now](https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/)
 * [2025-06-06, 15:31:18](https://news.ycombinator.com/item?id=44201857) - [VPN providers in France ordered to block pirate sports IPTV](https://torrentfreak.com/major-vpn-providers-ordered-to-block-pirate-sports-streaming-sites-250516/)
 * [2025-06-06, 15:27:00](https://news.ycombinator.com/item?id=44201829) - [Why Bell Labs Worked](https://links.fabiomanganiello.com/share/683ee70d0409e6.66273547)
 * [2025-06-06, 15:24:44](https://news.ycombinator.com/item?id=44201812) - [Sandia turns on brain-like storage-free supercomputer – Blocks and Files](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/)
+* [2025-06-06, 15:23:34](https://news.ycombinator.com/item?id=44201802) - [Apple warns Australia against joining EU in mandating iPhone app sideloading](https://www.neowin.net/news/apple-warns-australia-against-joining-eu-in-mandating-iphone-app-sideloading/)
+* [2025-06-06, 15:21:24](https://news.ycombinator.com/item?id=44201785) - [OpenAI is retaining all ChatGPT logs \"indefinitely.\" Here's who's affected](https://arstechnica.com/tech-policy/2025/06/openai-confronts-user-panic-over-court-ordered-retention-of-chatgpt-logs/)
 * [2025-06-06, 15:18:46](https://news.ycombinator.com/item?id=44201762) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-06, 15:16:58](https://news.ycombinator.com/item?id=44201748) - [Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction](https://zju3dv.github.io/freetimegs/)
 * [2025-06-06, 15:15:44](https://news.ycombinator.com/item?id=44201736) - [Race, ethnicity don't match genetic ancestry, according to a large U.S. study](https://www.science.org/content/article/race-ethnicity-don-t-match-genetic-ancestry-according-large-u-s-study)
