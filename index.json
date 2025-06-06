@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-06, 14:58:17",
+      "https://news.ycombinator.com/item?id=44201583"
+    ],
+    [
+      "An Interactive Guide to Rate Limiting",
+      "https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 14:07:28",
+      "https://news.ycombinator.com/item?id=44201072"
+    ],
+    [
+      "Top researchers leave Intel to build startup with 'the biggest, baddest CPU'",
+      "https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 13:48:52",
       "https://news.ycombinator.com/item?id=44200895"
     ],
     [
       "A masochist's guide to web development",
       "https://sebastiano.tronto.net/blog/2025-06-06-webdev/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 13:46:17",
+      "https://news.ycombinator.com/item?id=44200870"
+    ],
+    [
+      "Curate Your Shell History",
+      "https://esham.io/2025/05/shell-history"
     ]
   ],
   [
@@ -111,22 +141,22 @@
   ],
   [
     [
+      "2025-06-06, 10:25:39",
+      "https://news.ycombinator.com/item?id=44199437"
+    ],
+    [
+      "The Coleco Adam Computer",
+      "https://dfarq.homeip.net/coleco-adam-computer/"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 09:57:23",
       "https://news.ycombinator.com/item?id=44199299"
     ],
     [
       "Czech Republic: Petition for open source in public administration",
       "https://portal.gov.cz/e-petice/1205-petice-za-povinne-zverejneni-zdrojovych-kodu-softwaru-pouzitych-ve-verejne-sprave"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 08:57:38",
-      "https://news.ycombinator.com/item?id=44199005"
-    ],
-    [
-      "Freight rail fueled a new luxury overnight train startup",
-      "https://www.freightwaves.com/news/how-freight-rail-fueled-a-new-luxury-overnight-train-startup"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-06-06, 01:36:17",
-      "https://news.ycombinator.com/item?id=44197112"
-    ],
-    [
-      "Open Source Distilling",
-      "https://opensourcedistilling.com/"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 00:56:20",
       "https://news.ycombinator.com/item?id=44196945"
     ],
@@ -177,16 +197,6 @@
     [
       "How we’re responding to The NYT’s data demands in order to protect user privacy",
       "https://openai.com/index/response-to-nyt-data-demands/"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 23:29:35",
-      "https://news.ycombinator.com/item?id=44196589"
-    ],
-    [
-      "Show HN: Lambduck, a Functional Programming Brainfuck",
-      "https://imjakingit.github.io/lambduck/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "APL Interpreter – An implementation of APL, written in Haskell (2024)",
       "https://scharenbroch.dev/projects/apl-interpreter/"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 20:12:50",
-      "https://news.ycombinator.com/item?id=44195354"
-    ],
-    [
-      "Defending adverbs exuberantly if conditionally",
-      "https://countercraft.substack.com/p/defending-adverbs-exuberantly-if"
     ]
   ],
   [
