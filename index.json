@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-06, 13:48:52",
+      "https://news.ycombinator.com/item?id=44200895"
+    ],
+    [
+      "A masochist's guide to web development",
+      "https://sebastiano.tronto.net/blog/2025-06-06-webdev/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 13:46:01",
+      "https://news.ycombinator.com/item?id=44200866"
+    ],
+    [
+      "Odyc.js – A tiny JavaScript library for narrative games",
+      "https://odyc.dev"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 13:38:31",
       "https://news.ycombinator.com/item?id=44200797"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2025-06-06, 12:19:46",
+      "https://news.ycombinator.com/item?id=44200101"
+    ],
+    [
+      "ThornWalli/web-workbench: Old operating system as homepage",
+      "https://github.com/ThornWalli/web-workbench"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 12:01:16",
       "https://news.ycombinator.com/item?id=44199967"
     ],
@@ -31,22 +61,12 @@
   ],
   [
     [
-      "2025-06-06, 11:49:12",
-      "https://news.ycombinator.com/item?id=44199887"
+      "2025-06-06, 11:29:11",
+      "https://news.ycombinator.com/item?id=44199770"
     ],
     [
-      "Doge Developed Error-Prone AI Tool to \"Munch\" Veterans Affairs Contracts",
-      "https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 11:41:19",
-      "https://news.ycombinator.com/item?id=44199840"
-    ],
-    [
-      "Editing astrophotography",
-      "https://astroimagery.com/techniques/post-processing/how-to-edit-astrophotography-with-ease/"
+      "How to (actually) send DTMF on Android without being the default call app",
+      "https://edm115.dev/blog/2025/01/22/how-to-send-dtmf-on-android"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-06-05, 23:29:35",
-      "https://news.ycombinator.com/item?id=44196589"
-    ],
-    [
-      "Show HN: Lambduck, a Functional Programming Brainfuck",
-      "https://imjakingit.github.io/lambduck/"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 22:57:16",
       "https://news.ycombinator.com/item?id=44196433"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Air Lab – A portable and open air quality measuring device",
       "https://networkedartifacts.com/airlab/simulator"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 18:25:56",
-      "https://news.ycombinator.com/item?id=44161607"
-    ],
-    [
-      "The Universal Tech Tree",
-      "https://asteriskmag.com/issues/10/the-universal-tech-tree"
     ]
   ]
 ]
