@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 21:15:17](https://news.ycombinator.com/item?id=44205060) - [Supreme Court allows DOGE to access social security data](https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-doge-social-security-data-access-elon-musk-rcna206515)
 * [2025-06-06, 21:00:00](https://news.ycombinator.com/item?id=44204928) - [Onyx (YC W24) – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
 * [2025-06-06, 20:54:49](https://news.ycombinator.com/item?id=44204870) - [DNS traffic spiked as Musk–Trump clash boosted Truth Social (+268%) and X (+20%)](https://twitter.com/CloudflareRadar/status/1931023755083456867)
+* [2025-06-06, 20:42:24](https://news.ycombinator.com/item?id=44204767) - [Supreme Court Gives Doge Access to Social Security Data](https://www.bloomberg.com/news/articles/2025-06-06/supreme-court-gives-doge-access-to-social-security-data)
 * [2025-06-06, 20:21:11](https://news.ycombinator.com/item?id=44204603) - [Online Sports Betting Is for Losers](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/)
 * [2025-06-06, 20:00:02](https://news.ycombinator.com/item?id=44204439) - [Ship abandoned off Alaska after electric cars on board catch fire](https://www.theregister.com/2025/06/05/zodiac_maritime_electric_car_fire/)
 * [2025-06-06, 19:43:01](https://news.ycombinator.com/item?id=44204277) - [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
