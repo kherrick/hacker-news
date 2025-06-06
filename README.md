@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-06, 10:13:05](https://news.ycombinator.com/item?id=44199377) - [Infomaniak backs mass surveillance, aims to end online anonymity in Switzerland](https://discuss.privacyguides.net/t/psa-infomaniak-supports-mass-surveillance-calling-for-legal-change-to-end-online-anonymity-mandatory-metadata-retention/28065)
 * [2025-06-06, 06:01:44](https://news.ycombinator.com/item?id=44198171) - [Digital Minister wants open standards and open source as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
 * [2025-06-06, 04:59:58](https://news.ycombinator.com/item?id=44197932) - [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
 * [2025-06-06, 01:36:17](https://news.ycombinator.com/item?id=44197112) - [Open Source Distilling](https://opensourcedistilling.com/)
@@ -24,7 +25,6 @@
 * [2025-06-05, 16:52:10](https://news.ycombinator.com/item?id=44193390) - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
-* [2025-06-05, 13:32:48](https://news.ycombinator.com/item?id=44191558) - [Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Show HN: Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
 * [2025-06-04, 23:05:32](https://news.ycombinator.com/item?id=44186536) - [parrot.live](https://github.com/hugomd/parrot.live)
 * [2025-06-04, 23:00:35](https://news.ycombinator.com/item?id=44186496) - [LLMs and Elixir: Windfall or Deathblow?](https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow)

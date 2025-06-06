@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 10:13:05](https://news.ycombinator.com/item?id=44199377) - [Infomaniak backs mass surveillance, aims to end online anonymity in Switzerland](https://discuss.privacyguides.net/t/psa-infomaniak-supports-mass-surveillance-calling-for-legal-change-to-end-online-anonymity-mandatory-metadata-retention/28065)
 * [2025-06-06, 07:27:21](https://news.ycombinator.com/item?id=44198583) - [The bizarre story of a maths proof that is only true in Japan](https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/)
 * [2025-06-06, 06:12:09](https://news.ycombinator.com/item?id=44198225) - [Second ispace craft has probably crash-landed on Moon](https://www.nature.com/articles/d41586-025-01751-3)
 * [2025-06-06, 06:02:40](https://news.ycombinator.com/item?id=44198176) - [Google confirms more ads on your paid YouTube Premium Lite soon](https://www.neowin.net/news/google-confirms-more-ads-on-your-paid-youtube-premium-lite-soon/)
