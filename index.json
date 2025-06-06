@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-06, 04:59:58",
+      "https://news.ycombinator.com/item?id=44197932"
+    ],
+    [
+      "Self-hosting your own media considered harmful according to YouTube",
+      "https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 02:33:16",
       "https://news.ycombinator.com/item?id=44197347"
     ],
@@ -217,16 +227,6 @@
     [
       "Programming language Dino and its implementation",
       "https://github.com/dino-lang/dino"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 17:44:27",
-      "https://news.ycombinator.com/item?id=44193933"
-    ],
-    [
-      "Show HN: Container Use for Agents",
-      "https://github.com/dagger/container-use"
     ]
   ],
   [
