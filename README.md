@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-06, 15:06:48](https://news.ycombinator.com/item?id=44201658) - [I built a retro hacker game. It's free. Feedback?](https://blacklight.dev/)
+* [2025-06-06, 15:31:18](https://news.ycombinator.com/item?id=44201857) - [VPN providers in France ordered to block pirate sports IPTV](https://torrentfreak.com/major-vpn-providers-ordered-to-block-pirate-sports-streaming-sites-250516/)
+* [2025-06-06, 15:15:44](https://news.ycombinator.com/item?id=44201736) - [Race, ethnicity don't match genetic ancestry, according to a large U.S. study](https://www.science.org/content/article/race-ethnicity-don-t-match-genetic-ancestry-according-large-u-s-study)
 * [2025-06-06, 14:58:17](https://news.ycombinator.com/item?id=44201583) - [An Interactive Guide to Rate Limiting](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting)
 * [2025-06-06, 14:07:28](https://news.ycombinator.com/item?id=44201072) - [Top researchers leave Intel to build startup with 'the biggest, baddest CPU'](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html)
 * [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
@@ -25,7 +26,6 @@
 * [2025-06-05, 22:48:21](https://news.ycombinator.com/item?id=44196393) - [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
 * [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM inference engine for high-throughput workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
 * [2025-06-05, 21:22:24](https://news.ycombinator.com/item?id=44195931) - [APL Interpreter – An implementation of APL, written in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
-* [2025-06-05, 19:15:41](https://news.ycombinator.com/item?id=44194859) - [SkyRoof: New Ham Satellite Tracking and SDR Receiver Software](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/)
 * [2025-06-05, 18:37:20](https://news.ycombinator.com/item?id=44194468) - [I made a search engine worse than Elasticsearch (2024)](https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)

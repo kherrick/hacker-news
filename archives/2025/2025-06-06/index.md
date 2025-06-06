@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 15:31:18](https://news.ycombinator.com/item?id=44201857) - [VPN providers in France ordered to block pirate sports IPTV](https://torrentfreak.com/major-vpn-providers-ordered-to-block-pirate-sports-streaming-sites-250516/)
+* [2025-06-06, 15:15:44](https://news.ycombinator.com/item?id=44201736) - [Race, ethnicity don't match genetic ancestry, according to a large U.S. study](https://www.science.org/content/article/race-ethnicity-don-t-match-genetic-ancestry-according-large-u-s-study)
 * [2025-06-06, 15:06:48](https://news.ycombinator.com/item?id=44201658) - [I built a retro hacker game. It's free. Feedback?](https://blacklight.dev/)
 * [2025-06-06, 14:58:17](https://news.ycombinator.com/item?id=44201583) - [An Interactive Guide to Rate Limiting](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting)
 * [2025-06-06, 14:07:28](https://news.ycombinator.com/item?id=44201072) - [Top researchers leave Intel to build startup with 'the biggest, baddest CPU'](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html)
