@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-06, 03:06:34](https://news.ycombinator.com/item?id=44197493) - [Data centers are building their own gas power plants in Texas](https://www.texastribune.org/2025/06/05/texas-data-centers-gas-power-plants-ai/)
+* [2025-06-06, 02:45:22](https://news.ycombinator.com/item?id=44197399) - [I am an audience, first and foremost](https://ratsfromrocks.substack.com/p/i-am-an-audience-first-and-foremost)
 * [2025-06-06, 00:56:20](https://news.ycombinator.com/item?id=44196945) - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
 * [2025-06-06, 00:35:17](https://news.ycombinator.com/item?id=44196850) - [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
 * [2025-06-06, 00:24:43](https://news.ycombinator.com/item?id=44196807) - [Anthropic co-founder on cutting access to Windsurf](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/)
@@ -14,6 +16,7 @@
 * [2025-06-05, 21:22:24](https://news.ycombinator.com/item?id=44195931) - [APL Interpreter – An implementation of APL, written in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
 * [2025-06-05, 21:06:39](https://news.ycombinator.com/item?id=44195783) - [How Common Is Multiple Invention?](https://www.construction-physics.com/p/how-often-do-inventions-have-multiple)
 * [2025-06-05, 21:00:04](https://news.ycombinator.com/item?id=44195720) - [Converge (YC S23) Well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+* [2025-06-05, 20:12:50](https://news.ycombinator.com/item?id=44195354) - [Defending adverbs exuberantly if conditionally](https://countercraft.substack.com/p/defending-adverbs-exuberantly-if)
 * [2025-06-05, 19:15:41](https://news.ycombinator.com/item?id=44194859) - [SkyRoof: New Ham Satellite Tracking and SDR Receiver Software](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/)
 * [2025-06-05, 18:41:54](https://news.ycombinator.com/item?id=44194521) - [Eleven v3](https://elevenlabs.io/v3)
 * [2025-06-05, 18:37:20](https://news.ycombinator.com/item?id=44194468) - [I made a search engine worse than Elasticsearch (2024)](https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch)
@@ -21,15 +24,12 @@
 * [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX](https://github.com/hyperdxio/hyperdx)
 * [2025-06-05, 17:47:23](https://news.ycombinator.com/item?id=44193965) - [Programming language Dino and its implementation](https://github.com/dino-lang/dino)
 * [2025-06-05, 17:44:27](https://news.ycombinator.com/item?id=44193933) - [Show HN: Container Use for Agents](https://github.com/dagger/container-use)
+* [2025-06-05, 16:52:10](https://news.ycombinator.com/item?id=44193390) - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
-* [2025-06-05, 16:02:54](https://news.ycombinator.com/item?id=44192955) - [Understanding the PURL Specification (Package URL)](https://fossa.com/blog/understanding-purl-specification-package-url/)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
-* [2025-06-05, 13:37:29](https://news.ycombinator.com/item?id=44191591) - [Twitter's new encrypted DMs aren't better than the old ones](https://mjg59.dreamwidth.org/71646.html)
-* [2025-06-05, 13:32:48](https://news.ycombinator.com/item?id=44191558) - [Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
-* [2025-06-04, 21:47:33](https://news.ycombinator.com/item?id=44185913) - [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/)
-* [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
+* [2025-06-02, 18:25:56](https://news.ycombinator.com/item?id=44161607) - [The Universal Tech Tree](https://asteriskmag.com/issues/10/the-universal-tech-tree)
 
 ## [Archives](archives/index.md)
 

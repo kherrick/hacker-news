@@ -16,6 +16,7 @@
 * [2025-06-05, 21:06:39](https://news.ycombinator.com/item?id=44195783) - [How Common Is Multiple Invention?](https://www.construction-physics.com/p/how-often-do-inventions-have-multiple)
 * [2025-06-05, 21:05:08](https://news.ycombinator.com/item?id=44195768) - [Myanmar's chinlone ball sport threatened by conflict and rattan shortages](https://www.aljazeera.com/gallery/2025/6/5/myanmars-chinlone-ball-sport-threatened-by-conflict-and-rattan-shortages)
 * [2025-06-05, 21:00:04](https://news.ycombinator.com/item?id=44195720) - [Converge (YC S23) Well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+* [2025-06-05, 20:12:50](https://news.ycombinator.com/item?id=44195354) - [Defending adverbs exuberantly if conditionally](https://countercraft.substack.com/p/defending-adverbs-exuberantly-if)
 * [2025-06-05, 19:23:44](https://news.ycombinator.com/item?id=44194922) - [Not Boring Camera App](https://notbor.ing/product/camera)
 * [2025-06-05, 19:17:00](https://news.ycombinator.com/item?id=44194871) - [Aurora, a foundation model for the Earth system](https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html)
 * [2025-06-05, 19:17:00](https://news.ycombinator.com/item?id=44194871) - [AI Weather Model Is More Accurate, Less Expensive Than Traditional Forecasting](https://www.extremetech.com/computing/microsofts-ai-weather-model-is-more-accurate-cheaper-than-traditional-forecasting)
