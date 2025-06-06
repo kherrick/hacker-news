@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 20:00:02](https://news.ycombinator.com/item?id=44204439) - [Ship abandoned off Alaska after electric cars on board catch fire](https://www.theregister.com/2025/06/05/zodiac_maritime_electric_car_fire/)
+* [2025-06-06, 19:43:01](https://news.ycombinator.com/item?id=44204277) - [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
+* [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
+* [2025-06-06, 19:30:29](https://news.ycombinator.com/item?id=44204181) - [Show HN: AI game animation sprite generator](https://www.godmodeai.cloud/ai-sprite-generator)
 * [2025-06-06, 19:28:29](https://news.ycombinator.com/item?id=44204155) - [Switching to Mojo gave a 14% improvement over CUDA](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
 * [2025-06-06, 18:10:29](https://news.ycombinator.com/item?id=44203494) - [SaaS is just vendor lock-in with better branding](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding)
 * [2025-06-06, 18:09:24](https://news.ycombinator.com/item?id=44203486) - [Great Question (YC W21) Is Hiring a Director of Customer Success](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success)
