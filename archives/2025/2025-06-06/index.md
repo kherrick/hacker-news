@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 23:11:44](https://news.ycombinator.com/item?id=44205976) - [Higher education is shockingly right-wing](https://drafts.interfluidity.com/2023/03/01/higher-education-is-shockingly-right-wing/index.html)
+* [2025-06-06, 22:36:33](https://news.ycombinator.com/item?id=44205718) - [What \"Working\" Means in the Era of AI Apps](https://a16z.com/revenue-benchmarks-ai-apps/)
 * [2025-06-06, 22:21:39](https://news.ycombinator.com/item?id=44205599) - [Medieval Africans Had a Unique Process for Purifying Gold with Glass](https://www.atlasobscura.com/articles/medieval-african-gold)
 * [2025-06-06, 21:57:24](https://news.ycombinator.com/item?id=44205412) - [Self-hosting your own media considered harmful](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Japanese researchers develop transparent paper as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
