@@ -22,12 +22,12 @@
 * [2025-06-05, 18:41:54](https://news.ycombinator.com/item?id=44194521) - [Eleven v3](https://elevenlabs.io/v3)
 * [2025-06-05, 18:37:20](https://news.ycombinator.com/item?id=44194468) - [I made a search engine worse than Elasticsearch (2024)](https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch)
 * [2025-06-05, 18:06:21](https://news.ycombinator.com/item?id=44194120) - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
-* [2025-06-05, 18:01:21](https://news.ycombinator.com/item?id=44194082) - [Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX](https://github.com/hyperdxio/hyperdx)
 * [2025-06-05, 17:47:23](https://news.ycombinator.com/item?id=44193965) - [Programming language Dino and its implementation](https://github.com/dino-lang/dino)
 * [2025-06-05, 16:52:10](https://news.ycombinator.com/item?id=44193390) - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Show HN: Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
+* [2025-06-04, 23:05:32](https://news.ycombinator.com/item?id=44186536) - [parrot.live](https://github.com/hugomd/parrot.live)
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-02, 18:25:56](https://news.ycombinator.com/item?id=44161607) - [The Universal Tech Tree](https://asteriskmag.com/issues/10/the-universal-tech-tree)
 
