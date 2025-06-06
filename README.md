@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-06, 02:33:16](https://news.ycombinator.com/item?id=44197347) - [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)
 * [2025-06-06, 01:36:17](https://news.ycombinator.com/item?id=44197112) - [Open Source Distilling](https://opensourcedistilling.com/)
 * [2025-06-06, 00:56:20](https://news.ycombinator.com/item?id=44196945) - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
 * [2025-06-06, 00:35:17](https://news.ycombinator.com/item?id=44196850) - [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
@@ -10,7 +11,7 @@
 * [2025-06-05, 22:51:52](https://news.ycombinator.com/item?id=44196410) - [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language)
 * [2025-06-05, 22:48:21](https://news.ycombinator.com/item?id=44196393) - [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
 * [2025-06-05, 22:05:43](https://news.ycombinator.com/item?id=44196211) - [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
-* [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
+* [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM inference engine for high-throughput workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
 * [2025-06-05, 21:22:24](https://news.ycombinator.com/item?id=44195931) - [APL Interpreter – An implementation of APL, written in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
 * [2025-06-05, 21:06:39](https://news.ycombinator.com/item?id=44195783) - [How Common Is Multiple Invention?](https://www.construction-physics.com/p/how-often-do-inventions-have-multiple)
 * [2025-06-05, 21:00:04](https://news.ycombinator.com/item?id=44195720) - [Converge (YC S23) Well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
@@ -25,7 +26,6 @@
 * [2025-06-05, 16:52:10](https://news.ycombinator.com/item?id=44193390) - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 13:40:48](https://news.ycombinator.com/item?id=44191620) - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
-* [2025-06-05, 13:32:48](https://news.ycombinator.com/item?id=44191558) - [Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
 * [2025-06-04, 20:03:43](https://news.ycombinator.com/item?id=44184900) - [Autonomous drone defeats human champions in racing first](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first)
 * [2025-06-04, 18:15:54](https://news.ycombinator.com/item?id=44183799) - [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
