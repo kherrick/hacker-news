@@ -2,7 +2,6 @@
 
 * [2025-06-06, 21:15:17](https://news.ycombinator.com/item?id=44205060) - [Supreme Court allows DOGE to access social security data](https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-doge-social-security-data-access-elon-musk-rcna206515)
 * [2025-06-06, 21:00:00](https://news.ycombinator.com/item?id=44204928) - [Onyx (YC W24) – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
-* [2025-06-06, 20:54:49](https://news.ycombinator.com/item?id=44204870) - [DNS traffic spiked as Musk–Trump clash boosted Truth Social (+268%) and X (+20%)](https://twitter.com/CloudflareRadar/status/1931023755083456867)
 * [2025-06-06, 20:42:24](https://news.ycombinator.com/item?id=44204767) - [Supreme Court Gives Doge Access to Social Security Data](https://www.bloomberg.com/news/articles/2025-06-06/supreme-court-gives-doge-access-to-social-security-data)
 * [2025-06-06, 20:21:11](https://news.ycombinator.com/item?id=44204603) - [Online sports betting: As you do well, they cut you off](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/)
 * [2025-06-06, 19:43:01](https://news.ycombinator.com/item?id=44204277) - [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
@@ -14,6 +13,7 @@
 * [2025-06-06, 18:10:29](https://news.ycombinator.com/item?id=44203494) - [SaaS is just vendor lock-in with better branding](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding)
 * [2025-06-06, 17:18:08](https://news.ycombinator.com/item?id=44203003) - [Series C and Scale](https://www.cursor.com/en/blog/series-c)
 * [2025-06-06, 16:44:12](https://news.ycombinator.com/item?id=44202664) - [Researchers find a way to make the HIV virus visible within white blood cells](https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed)
+* [2025-06-06, 15:54:52](https://news.ycombinator.com/item?id=44202110) - [Ask HN: Any good tools for viewing congressional bills?](https://news.ycombinator.com/item?id=44202110)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 * [2025-06-06, 15:33:10](https://news.ycombinator.com/item?id=44201872) - [Meta: Shut down your invasive AI Discover feed](https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/)
 * [2025-06-06, 15:24:44](https://news.ycombinator.com/item?id=44201812) - [Sandia turns on brain-like storage-free supercomputer](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/)
