@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-06, 23:11:44](https://news.ycombinator.com/item?id=44205976) - [Higher education is shockingly right-wing](https://drafts.interfluidity.com/2023/03/01/higher-education-is-shockingly-right-wing/index.html)
 * [2025-06-06, 22:36:33](https://news.ycombinator.com/item?id=44205718) - [What \"Working\" Means in the Era of AI Apps](https://a16z.com/revenue-benchmarks-ai-apps/)
 * [2025-06-06, 22:21:39](https://news.ycombinator.com/item?id=44205599) - [Medieval Africans Had a Unique Process for Purifying Gold with Glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Japanese researchers develop transparent paper as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
@@ -22,6 +21,7 @@
 * [2025-06-06, 15:33:10](https://news.ycombinator.com/item?id=44201872) - [Meta: Shut down your invasive AI Discover feed](https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/)
 * [2025-06-06, 15:24:44](https://news.ycombinator.com/item?id=44201812) - [Sandia turns on brain-like storage-free supercomputer](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/)
 * [2025-06-06, 15:18:46](https://news.ycombinator.com/item?id=44201762) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
+* [2025-06-06, 14:58:17](https://news.ycombinator.com/item?id=44201583) - [An Interactive Guide to Rate Limiting](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting)
 * [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
 * [2025-06-06, 13:46:17](https://news.ycombinator.com/item?id=44200870) - [Curate your shell history](https://esham.io/2025/05/shell-history)
 * [2025-06-06, 13:46:01](https://news.ycombinator.com/item?id=44200866) - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
