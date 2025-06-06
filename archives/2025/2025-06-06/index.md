@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 16:30:52](https://news.ycombinator.com/item?id=44202519) - [See how a dollar would have grown over the past 94 years [pdf]](https://www.newyorklifeinvestments.com/assets/documents/education/investing-essentials-growthofadollar.pdf)
+* [2025-06-06, 16:27:40](https://news.ycombinator.com/item?id=44202490) - [GOP intensifies war against EVs and efficient cars](https://arstechnica.com/cars/2025/06/gop-intensifies-war-against-evs-and-efficient-cars/)
+* [2025-06-06, 16:21:58](https://news.ycombinator.com/item?id=44202409) - [Silicon Valley aghast at the Musk-Trump divorce](https://www.ft.com/content/df15f13d-310f-47a5-89ed-330a6a379068)
 * [2025-06-06, 15:54:52](https://news.ycombinator.com/item?id=44202110) - [Ask HN: Any good tools for viewing congressional bills?](https://news.ycombinator.com/item?id=44202110)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [Decreasing Gitlab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 * [2025-06-06, 15:36:00](https://news.ycombinator.com/item?id=44201901) - [4-7-8 Breathing](https://www.breathbelly.com/exercises/4-7-8-breathing)
