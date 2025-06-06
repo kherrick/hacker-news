@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
 * [2025-06-06, 21:00:00](https://news.ycombinator.com/item?id=44204928) - [Onyx (YC W24) – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
+* [2025-06-06, 20:54:49](https://news.ycombinator.com/item?id=44204870) - [DNS traffic spiked as Musk–Trump clash boosted Truth Social (+268%) and X (+20%)](https://twitter.com/CloudflareRadar/status/1931023755083456867)
 * [2025-06-06, 20:21:11](https://news.ycombinator.com/item?id=44204603) - [Online Sports Betting Is for Losers](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/)
 * [2025-06-06, 20:00:02](https://news.ycombinator.com/item?id=44204439) - [Ship abandoned off Alaska after electric cars on board catch fire](https://www.theregister.com/2025/06/05/zodiac_maritime_electric_car_fire/)
 * [2025-06-06, 19:43:01](https://news.ycombinator.com/item?id=44204277) - [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
