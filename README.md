@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-06, 15:06:48](https://news.ycombinator.com/item?id=44201658) - [I built a retro hacker game. It's free. Feedback?](https://blacklight.dev/)
 * [2025-06-06, 14:58:17](https://news.ycombinator.com/item?id=44201583) - [An Interactive Guide to Rate Limiting](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting)
 * [2025-06-06, 14:07:28](https://news.ycombinator.com/item?id=44201072) - [Top researchers leave Intel to build startup with 'the biggest, baddest CPU'](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html)
 * [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
@@ -20,7 +21,6 @@
 * [2025-06-06, 04:59:58](https://news.ycombinator.com/item?id=44197932) - [Self-hosting your own media considered harmful according to YouTube](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful)
 * [2025-06-06, 00:56:20](https://news.ycombinator.com/item?id=44196945) - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
 * [2025-06-06, 00:35:17](https://news.ycombinator.com/item?id=44196850) - [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
-* [2025-06-05, 22:57:16](https://news.ycombinator.com/item?id=44196433) - [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
 * [2025-06-05, 22:53:21](https://news.ycombinator.com/item?id=44196417) - [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
 * [2025-06-05, 22:48:21](https://news.ycombinator.com/item?id=44196393) - [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
 * [2025-06-05, 21:27:07](https://news.ycombinator.com/item?id=44195961) - [Tokasaurus: An LLM inference engine for high-throughput workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)

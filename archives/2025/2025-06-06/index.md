@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 15:06:48](https://news.ycombinator.com/item?id=44201658) - [I built a retro hacker game. It's free. Feedback?](https://blacklight.dev/)
 * [2025-06-06, 14:58:17](https://news.ycombinator.com/item?id=44201583) - [An Interactive Guide to Rate Limiting](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting)
 * [2025-06-06, 14:07:28](https://news.ycombinator.com/item?id=44201072) - [Top researchers leave Intel to build startup with 'the biggest, baddest CPU'](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html)
 * [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
