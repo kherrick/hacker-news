@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-06, 00:56:20",
+      "https://news.ycombinator.com/item?id=44196945"
+    ],
+    [
+      "Test Postgres in Python Like SQLite",
+      "https://github.com/wey-gu/py-pglite"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 00:35:17",
+      "https://news.ycombinator.com/item?id=44196850"
+    ],
+    [
+      "How we’re responding to The NYT’s data demands in order to protect user privacy",
+      "https://openai.com/index/response-to-nyt-data-demands/"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 00:24:43",
       "https://news.ycombinator.com/item?id=44196807"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44196576"
     ],
     [
-      "I Do Not Remember My Life and It's Fine",
+      "I do not remember my life and it's fine",
       "https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-06-05, 19:17:00",
-      "https://news.ycombinator.com/item?id=44194871"
-    ],
-    [
-      "Aurora, a foundation model for the Earth system",
-      "https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 19:15:41",
       "https://news.ycombinator.com/item?id=44194859"
     ],
@@ -147,6 +157,16 @@
     [
       "Eleven v3",
       "https://elevenlabs.io/v3"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 18:37:20",
+      "https://news.ycombinator.com/item?id=44194468"
+    ],
+    [
+      "I made a search engine worse than Elasticsearch (2024)",
+      "https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-06-05, 17:54:07",
-      "https://news.ycombinator.com/item?id=44194014"
-    ],
-    [
-      "ICANN fee price hike by 11% [pdf]",
-      "https://itp.cdn.icann.org/en/files/contracted-parties-communications/attn-planned-variable-accreditation-fee-adjustment-24oct24-en.pdf"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 17:47:23",
       "https://news.ycombinator.com/item?id=44193965"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2025-06-05, 16:21:04",
-      "https://news.ycombinator.com/item?id=44193120"
+      "2025-06-05, 17:44:27",
+      "https://news.ycombinator.com/item?id=44193933"
     ],
     [
-      "Rare black iceberg spotted off Labrador coast could be 100k years old",
-      "https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078"
+      "Show HN: Container Use for Agents",
+      "https://github.com/dagger/container-use"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2025-06-05, 08:52:56",
-      "https://news.ycombinator.com/item?id=44189741"
-    ],
-    [
-      "Phptop: Simple PHP ressource profiler, safe and useful for production sites",
-      "https://github.com/bearstech/phptop"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 07:42:25",
       "https://news.ycombinator.com/item?id=44189329"
     ],
     [
       "Air Lab – A portable and open air quality measuring device",
       "https://networkedartifacts.com/airlab/simulator"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 21:47:33",
+      "https://news.ycombinator.com/item?id=44185913"
+    ],
+    [
+      "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
+      "https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A proposal to restrict sites from accessing a users’ local network",
       "https://github.com/explainers-by-googlers/local-network-access"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 18:25:56",
-      "https://news.ycombinator.com/item?id=44161607"
-    ],
-    [
-      "The Universal Tech Tree",
-      "https://asteriskmag.com/issues/10/the-universal-tech-tree"
     ]
   ]
 ]
