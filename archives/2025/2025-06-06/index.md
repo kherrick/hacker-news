@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Japanese researchers develop transparent paper as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
 * [2025-06-06, 21:15:17](https://news.ycombinator.com/item?id=44205060) - [Supreme Court allows DOGE to access social security data](https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-doge-social-security-data-access-elon-musk-rcna206515)
 * [2025-06-06, 21:00:00](https://news.ycombinator.com/item?id=44204928) - [Onyx (YC W24) – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
 * [2025-06-06, 20:55:34](https://news.ycombinator.com/item?id=44204878) - [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)

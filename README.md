@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-06, 21:15:17](https://news.ycombinator.com/item?id=44205060) - [Supreme Court allows DOGE to access social security data](https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-doge-social-security-data-access-elon-musk-rcna206515)
+* [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Japanese researchers develop transparent paper as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
 * [2025-06-06, 21:00:00](https://news.ycombinator.com/item?id=44204928) - [Onyx (YC W24) – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
 * [2025-06-06, 20:55:34](https://news.ycombinator.com/item?id=44204878) - [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)
 * [2025-06-06, 20:42:24](https://news.ycombinator.com/item?id=44204767) - [Supreme Court Gives Doge Access to Social Security Data](https://www.bloomberg.com/news/articles/2025-06-06/supreme-court-gives-doge-access-to-social-security-data)
-* [2025-06-06, 20:21:11](https://news.ycombinator.com/item?id=44204603) - [Online sports betting: As you do well, they cut you off](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/)
 * [2025-06-06, 19:43:01](https://news.ycombinator.com/item?id=44204277) - [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
 * [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 19:30:29](https://news.ycombinator.com/item?id=44204181) - [Show HN: AI game animation sprite generator](https://www.godmodeai.cloud/ai-sprite-generator)
@@ -28,6 +27,7 @@
 * [2025-06-06, 11:15:16](https://news.ycombinator.com/item?id=44199699) - [Swift and the Cute 2d game framework: Setting up a project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
 * [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
 * [2025-06-06, 10:55:17](https://news.ycombinator.com/item?id=44199597) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
+* [2025-06-06, 08:57:38](https://news.ycombinator.com/item?id=44199005) - [Freight rail fueled a new luxury overnight train startup](https://www.freightwaves.com/news/how-freight-rail-fueled-a-new-luxury-overnight-train-startup)
 * [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 * [2025-06-03, 09:52:35](https://news.ycombinator.com/item?id=44168184) - [Wendelstein 7-X sets new fusion record](https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html)
 
