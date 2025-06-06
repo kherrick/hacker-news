@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-06, 00:24:43",
+      "https://news.ycombinator.com/item?id=44196807"
+    ],
+    [
+      "Anthropic co-founder on cutting access to Windsurf",
+      "https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 23:29:35",
+      "https://news.ycombinator.com/item?id=44196589"
+    ],
+    [
+      "Show HN: Lambduck, a Functional Programming Brainfuck",
+      "https://imjakingit.github.io/lambduck/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 23:26:19",
+      "https://news.ycombinator.com/item?id=44196576"
+    ],
+    [
+      "I Do Not Remember My Life and It's Fine",
+      "https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 22:57:16",
       "https://news.ycombinator.com/item?id=44196433"
     ],
@@ -17,6 +47,26 @@
     [
       "Show HN: Claude Composer",
       "https://github.com/possibilities/claude-composer"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 22:51:52",
+      "https://news.ycombinator.com/item?id=44196410"
+    ],
+    [
+      "Machine Learning: The Native Language of Biology",
+      "https://decodingbiology.substack.com/p/machine-learning-the-native-language"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 22:48:21",
+      "https://news.ycombinator.com/item?id=44196393"
+    ],
+    [
+      "What a developer needs to know about SCIM",
+      "https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2025-06-05, 17:44:27",
-      "https://news.ycombinator.com/item?id=44193933"
-    ],
-    [
-      "Show HN: Container Use for Agents",
-      "https://github.com/dagger/container-use"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 16:21:04",
       "https://news.ycombinator.com/item?id=44193120"
     ],
@@ -221,52 +261,12 @@
   ],
   [
     [
-      "2025-06-05, 07:59:21",
-      "https://news.ycombinator.com/item?id=44189426"
-    ],
-    [
-      "From tokens to thoughts: How LLMs and humans trade compression for meaning",
-      "https://arxiv.org/abs/2505.17117"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 07:42:25",
       "https://news.ycombinator.com/item?id=44189329"
     ],
     [
       "Air Lab – A portable and open air quality measuring device",
       "https://networkedartifacts.com/airlab/simulator"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 23:05:32",
-      "https://news.ycombinator.com/item?id=44186536"
-    ],
-    [
-      "parrot.live",
-      "https://github.com/hugomd/parrot.live"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 23:00:35",
-      "https://news.ycombinator.com/item?id=44186496"
-    ],
-    [
-      "LLMs and Elixir: Windfall or Deathblow?",
-      "https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 21:47:33",
-      "https://news.ycombinator.com/item?id=44185913"
-    ],
-    [
-      "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
-      "https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/"
     ]
   ],
   [
