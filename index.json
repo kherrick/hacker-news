@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-06, 11:09:38",
+      "https://news.ycombinator.com/item?id=44199662"
+    ],
+    [
+      "Fuzzer Blind Spots (Meet Jepsen)",
+      "https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 10:53:51",
+      "https://news.ycombinator.com/item?id=44199592"
+    ],
+    [
+      "Jepsen: TigerBeetle 0.16.11",
+      "https://jepsen.io/analyses/tigerbeetle-0.16.11"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 10:35:10",
+      "https://news.ycombinator.com/item?id=44199502"
+    ],
+    [
+      "The X.Org Server just got forked (announcing XLibre)",
+      "https://github.com/X11Libre/xserver/commits/xlibre/prepare/"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 10:13:05",
       "https://news.ycombinator.com/item?id=44199377"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-06-05, 21:06:39",
-      "https://news.ycombinator.com/item?id=44195783"
-    ],
-    [
-      "How Common Is Multiple Invention?",
-      "https://www.construction-physics.com/p/how-often-do-inventions-have-multiple"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 21:00:04",
       "https://news.ycombinator.com/item?id=44195720"
     ],
@@ -257,26 +277,6 @@
     [
       "Show HN: Air Lab – A portable and open air quality measuring device",
       "https://networkedartifacts.com/airlab/simulator"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 23:05:32",
-      "https://news.ycombinator.com/item?id=44186536"
-    ],
-    [
-      "parrot.live",
-      "https://github.com/hugomd/parrot.live"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 23:00:35",
-      "https://news.ycombinator.com/item?id=44186496"
-    ],
-    [
-      "LLMs and Elixir: Windfall or Deathblow?",
-      "https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow"
     ]
   ],
   [
