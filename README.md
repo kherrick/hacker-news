@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-07, 20:33:18](https://news.ycombinator.com/item?id=44212446) - [Convert Photos to Atkinson Dithering](https://gazs.github.io/canvas-atkinson-dither/)
 * [2025-06-07, 19:14:05](https://news.ycombinator.com/item?id=44211882) - [Hollywood Is Already Using AI (and Hiding It)](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html)
 * [2025-06-07, 19:01:17](https://news.ycombinator.com/item?id=44211779) - [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
 * [2025-06-07, 18:39:21](https://news.ycombinator.com/item?id=44211612) - [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
@@ -12,7 +13,6 @@
 * [2025-06-07, 16:16:17](https://news.ycombinator.com/item?id=44210582) - [PyOpticL – Code-to-CAD optical system engineering](https://github.com/UMassIonTrappers/PyOpticL)
 * [2025-06-07, 16:01:20](https://news.ycombinator.com/item?id=44210502) - [Log-Linear Attention](https://arxiv.org/abs/2506.04761)
 * [2025-06-07, 15:51:26](https://news.ycombinator.com/item?id=44210441) - [EFF to the FTC: DMCA Section 1201 Creates Anti-Competitive Regulatory Barriers](https://www.eff.org/deeplinks/2025/06/eff-files-comments-ftc-regarding-reducing-anti-competitive-regulatory-barriers)
-* [2025-06-07, 14:46:13](https://news.ycombinator.com/item?id=44209986) - [The startling rise of disability in America (2013)](https://apps.npr.org/unfit-for-work/)
 * [2025-06-07, 14:22:05](https://news.ycombinator.com/item?id=44209833) - [Hate Radio (2011)](https://rwandanstories.org/genocide/hate_radio.html)
 * [2025-06-07, 13:52:36](https://news.ycombinator.com/item?id=44209665) - [If it works, it's not AI: a commercial look at AI startups (1999)](https://dspace.mit.edu/handle/1721.1/80558)
 * [2025-06-07, 13:25:15](https://news.ycombinator.com/item?id=44209515) - [Musk-Trump dispute includes threats to SpaceX contracts](https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/)

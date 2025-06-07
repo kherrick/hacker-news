@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 20:33:18](https://news.ycombinator.com/item?id=44212446) - [Convert Photos to Atkinson Dithering](https://gazs.github.io/canvas-atkinson-dither/)
 * [2025-06-07, 19:21:55](https://news.ycombinator.com/item?id=44211933) - [Europe's Climate Urgency: Driven by Green Ideals or Fear of an African Refugees?](https://masatoshinishimura.com/europes-climate-urgency-driven-by-green-ideals-or-fear-of-an-african-refugees/)
 * [2025-06-07, 19:14:05](https://news.ycombinator.com/item?id=44211882) - [Hollywood Is Already Using AI (and Hiding It)](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html)
 * [2025-06-07, 19:01:17](https://news.ycombinator.com/item?id=44211779) - [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
