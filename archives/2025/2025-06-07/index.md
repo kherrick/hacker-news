@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 19:21:55](https://news.ycombinator.com/item?id=44211933) - [Europe's Climate Urgency: Driven by Green Ideals or Fear of an African Refugees?](https://masatoshinishimura.com/europes-climate-urgency-driven-by-green-ideals-or-fear-of-an-african-refugees/)
 * [2025-06-07, 19:14:05](https://news.ycombinator.com/item?id=44211882) - [Hollywood Is Already Using AI (and Hiding It)](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html)
 * [2025-06-07, 19:01:17](https://news.ycombinator.com/item?id=44211779) - [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
 * [2025-06-07, 18:48:27](https://news.ycombinator.com/item?id=44211681) - [Who Needs a Belt 3D Printer When You Have a Treadmill?](https://www.hackster.io/news/who-needs-a-belt-3d-printer-when-you-have-a-treadmill-7bbad6a164b8)
@@ -14,6 +15,7 @@
 * [2025-06-07, 16:33:13](https://news.ycombinator.com/item?id=44210689) - [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
 * [2025-06-07, 16:20:56](https://news.ycombinator.com/item?id=44210614) - [Why Pandas feels clunky when coming from R (2024)](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
 * [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has passed away](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
+* [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has died](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
 * [2025-06-07, 16:16:17](https://news.ycombinator.com/item?id=44210582) - [PyOpticL – Code-to-CAD optical system engineering](https://github.com/UMassIonTrappers/PyOpticL)
 * [2025-06-07, 16:12:37](https://news.ycombinator.com/item?id=44210557) - [After Pornhub left France, this VPN saw a 1,000% surge in signups in 30 minutes](https://mashable.com/article/proton-vpn-pornhub-france)
 * [2025-06-07, 16:01:20](https://news.ycombinator.com/item?id=44210502) - [Log-Linear Attention](https://arxiv.org/abs/2506.04761)
