@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-06, 23:15:46",
+      "https://news.ycombinator.com/item?id=44206007"
+    ],
+    [
+      "Dear High Schoolers, Time Is Precious",
+      "https://byronsharman.com/blog/dear-high-schoolers"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 22:36:33",
       "https://news.ycombinator.com/item?id=44205718"
     ],
@@ -21,11 +31,21 @@
   ],
   [
     [
+      "2025-06-06, 22:20:33",
+      "https://news.ycombinator.com/item?id=44205590"
+    ],
+    [
+      "Falsehoods Programmers Believe About Aviation",
+      "https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 21:43:10",
       "https://news.ycombinator.com/item?id=44205282"
     ],
     [
-      "Japanese researchers develop transparent paper as alternative to plastics",
+      "Researchers develop ‘transparent paper’ as alternative to plastics",
       "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/"
     ]
   ],
@@ -77,26 +97,6 @@
     [
       "A year of funded FreeBSD development",
       "https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 19:30:29",
-      "https://news.ycombinator.com/item?id=44204181"
-    ],
-    [
-      "Show HN: AI game animation sprite generator",
-      "https://www.godmodeai.cloud/ai-sprite-generator"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 19:28:51",
-      "https://news.ycombinator.com/item?id=44204162"
-    ],
-    [
-      "How many trees are there in the North American boreal forest?",
-      "https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.07677"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-06-06, 17:18:08",
+      "https://news.ycombinator.com/item?id=44203003"
+    ],
+    [
+      "Series C and scale",
+      "https://www.cursor.com/en/blog/series-c"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 16:44:12",
       "https://news.ycombinator.com/item?id=44202664"
     ],
@@ -177,6 +187,16 @@
     [
       "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
       "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 15:36:00",
+      "https://news.ycombinator.com/item?id=44201901"
+    ],
+    [
+      "4-7-8 Breathing",
+      "https://www.breathbelly.com/exercises/4-7-8-breathing"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-06-06, 14:58:17",
-      "https://news.ycombinator.com/item?id=44201583"
-    ],
-    [
-      "An Interactive Guide to Rate Limiting",
-      "https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 13:48:52",
       "https://news.ycombinator.com/item?id=44200895"
     ],
@@ -247,16 +257,6 @@
     [
       "Odyc.js – A tiny JavaScript library for narrative games",
       "https://odyc.dev"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 11:15:16",
-      "https://news.ycombinator.com/item?id=44199699"
-    ],
-    [
-      "Swift and the Cute 2d game framework: Setting up a project with CMake",
-      "https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake"
     ]
   ],
   [
