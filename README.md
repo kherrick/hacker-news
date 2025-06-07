@@ -2,6 +2,7 @@
 
 * [2025-06-07, 12:01:47](https://news.ycombinator.com/item?id=44209091) - [Taurine and aging: Is there anything to it?](https://www.science.org/content/blog-post/taurine-and-aging-there-anything-it)
 * [2025-06-07, 12:00:45](https://news.ycombinator.com/item?id=44209082) - [Gander (YC F24) Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
+* [2025-06-07, 11:50:28](https://news.ycombinator.com/item?id=44209029) - [Uber Just Reinvented the Bus Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)
 * [2025-06-07, 11:36:13](https://news.ycombinator.com/item?id=44208968) - [Why We're Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
 * [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
@@ -10,7 +11,6 @@
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
 * [2025-06-07, 02:59:26](https://news.ycombinator.com/item?id=44207063) - [Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/)
 * [2025-06-07, 01:06:39](https://news.ycombinator.com/item?id=44206553) - [Why are smokestacks so tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
-* [2025-06-06, 22:35:01](https://news.ycombinator.com/item?id=44205697) - [I Read All of Cloudflare's Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 * [2025-06-06, 22:21:39](https://news.ycombinator.com/item?id=44205599) - [Medieval Africans had a unique process for purifying gold with glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold)
 * [2025-06-06, 22:20:33](https://news.ycombinator.com/item?id=44205590) - [Falsehoods programmers believe about aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
