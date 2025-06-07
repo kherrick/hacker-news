@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-06-07, 19:01:17",
+      "https://news.ycombinator.com/item?id=44211779"
+    ],
+    [
+      "Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray",
+      "https://aoli.al/blogs/jdk-bug/"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 18:48:27",
+      "https://news.ycombinator.com/item?id=44211681"
+    ],
+    [
+      "Who Needs a Belt 3D Printer When You Have a Treadmill?",
+      "https://www.hackster.io/news/who-needs-a-belt-3d-printer-when-you-have-a-treadmill-7bbad6a164b8"
+    ]
+  ],
+  [
+    [
       "2025-06-07, 18:39:21",
       "https://news.ycombinator.com/item?id=44211612"
     ],
@@ -77,6 +97,16 @@
     [
       "After Pornhub left France, this VPN saw a 1,000% surge in signups in 30 minutes",
       "https://mashable.com/article/proton-vpn-pornhub-france"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 16:01:20",
+      "https://news.ycombinator.com/item?id=44210502"
+    ],
+    [
+      "Log-Linear Attention",
+      "https://arxiv.org/abs/2506.04761"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-06-06, 22:20:33",
-      "https://news.ycombinator.com/item?id=44205590"
-    ],
-    [
-      "Falsehoods programmers believe about aviation",
-      "https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 21:43:10",
       "https://news.ycombinator.com/item?id=44205282"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-06-06, 15:24:44",
-      "https://news.ycombinator.com/item?id=44201812"
-    ],
-    [
-      "Sandia turns on brain-like storage-free supercomputer",
-      "https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 14:53:17",
       "https://news.ycombinator.com/item?id=44201527"
     ],
     [
       "Sharing everything I could understand about gradient noise",
       "https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 13:48:52",
-      "https://news.ycombinator.com/item?id=44200895"
-    ],
-    [
-      "A masochist's guide to web development",
-      "https://sebastiano.tronto.net/blog/2025-06-06-webdev/"
     ]
   ],
   [
