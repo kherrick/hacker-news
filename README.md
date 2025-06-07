@@ -6,6 +6,7 @@
 * [2025-06-07, 04:45:13](https://news.ycombinator.com/item?id=44207503) - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
 * [2025-06-07, 03:16:31](https://news.ycombinator.com/item?id=44207144) - [NASA delays next flight of Boeing's alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
+* [2025-06-07, 02:59:26](https://news.ycombinator.com/item?id=44207063) - [Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/)
 * [2025-06-07, 01:06:39](https://news.ycombinator.com/item?id=44206553) - [Why are smokestacks so tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
 * [2025-06-06, 22:35:01](https://news.ycombinator.com/item?id=44205697) - [I Read All of Cloudflare's Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 * [2025-06-06, 22:21:39](https://news.ycombinator.com/item?id=44205599) - [Medieval Africans had a unique process for purifying gold with glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold)
@@ -27,7 +28,6 @@
 * [2025-06-06, 13:46:17](https://news.ycombinator.com/item?id=44200870) - [Curate your shell history](https://esham.io/2025/05/shell-history)
 * [2025-06-06, 13:46:01](https://news.ycombinator.com/item?id=44200866) - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
 * [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
-* [2025-06-06, 10:55:17](https://news.ycombinator.com/item?id=44199597) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
 * [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 * [2025-06-03, 09:52:35](https://news.ycombinator.com/item?id=44168184) - [Wendelstein 7-X sets new fusion record](https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html)
 
