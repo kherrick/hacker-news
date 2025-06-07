@@ -2,9 +2,10 @@
 
 * [2025-06-07, 17:32:46](https://news.ycombinator.com/item?id=44211130) - [I'm Wirecutter's Water-Quality Expert. I Don't Filter My Water](https://www.nytimes.com/wirecutter/reviews/know-your-water-quality/)
 * [2025-06-07, 17:00:43](https://news.ycombinator.com/item?id=44210895) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
+* [2025-06-07, 16:40:09](https://news.ycombinator.com/item?id=44210736) - [My experiment living in a tent in Hong Kong's jungle](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
 * [2025-06-07, 16:33:13](https://news.ycombinator.com/item?id=44210689) - [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
 * [2025-06-07, 16:20:56](https://news.ycombinator.com/item?id=44210614) - [Why Pandas feels clunky when coming from R (2024)](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
-* [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has passed away](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
+* [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has died](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
 * [2025-06-07, 16:12:37](https://news.ycombinator.com/item?id=44210557) - [After Pornhub left France, this VPN saw a 1,000% surge in signups in 30 minutes](https://mashable.com/article/proton-vpn-pornhub-france)
 * [2025-06-07, 15:51:26](https://news.ycombinator.com/item?id=44210441) - [EFF to the FTC: DMCA Section 1201 Creates Anti-Competitive Regulatory Barriers](https://www.eff.org/deeplinks/2025/06/eff-files-comments-ftc-regarding-reducing-anti-competitive-regulatory-barriers)
 * [2025-06-07, 15:44:15](https://news.ycombinator.com/item?id=44210390) - [Asimov and the Disease of Boredom (1964)](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
@@ -28,7 +29,6 @@
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 * [2025-06-06, 15:24:44](https://news.ycombinator.com/item?id=44201812) - [Sandia turns on brain-like storage-free supercomputer](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/)
 * [2025-06-06, 14:53:17](https://news.ycombinator.com/item?id=44201527) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
-* [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
 * [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 
 ## [Archives](archives/index.md)
