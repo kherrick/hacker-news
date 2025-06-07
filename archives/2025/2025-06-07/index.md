@@ -8,6 +8,7 @@
 * [2025-06-07, 12:00:45](https://news.ycombinator.com/item?id=44209082) - [Gander (YC F24) Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
 * [2025-06-07, 11:50:28](https://news.ycombinator.com/item?id=44209029) - [Uber Just Reinvented the Bus Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)
 * [2025-06-07, 11:36:13](https://news.ycombinator.com/item?id=44208968) - [Why We're Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
+* [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-07, 07:24:45](https://news.ycombinator.com/item?id=44208050) - [Windows 10 spies on your use of System Settings (2021)](https://www.michaelhorowitz.com/Windows10.spying.onsettings.php)
 * [2025-06-07, 07:15:00](https://news.ycombinator.com/item?id=44208017) - [Physicists observe a new form of magnetism](https://news.mit.edu/2025/physicists-observe-new-form-magnetism-0605)
