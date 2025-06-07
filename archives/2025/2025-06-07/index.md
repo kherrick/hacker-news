@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 13:52:36](https://news.ycombinator.com/item?id=44209665) - [If it works, it's not AI: a commercial look at AI startups (1999)](https://dspace.mit.edu/handle/1721.1/80558)
+* [2025-06-07, 13:25:15](https://news.ycombinator.com/item?id=44209515) - [Musk-Trump dispute includes threats to SpaceX contracts](https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/)
+* [2025-06-07, 13:22:53](https://news.ycombinator.com/item?id=44209497) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 * [2025-06-07, 13:19:04](https://news.ycombinator.com/item?id=44209467) - [Caffeine Keeps Your Brain \"Awake\" Even While You Sleep, Study Finds](https://scitechdaily.com/caffeine-keeps-your-brain-awake-even-while-you-sleep-study-finds/)
 * [2025-06-07, 12:01:47](https://news.ycombinator.com/item?id=44209091) - [Taurine and aging: Is there anything to it?](https://www.science.org/content/blog-post/taurine-and-aging-there-anything-it)
 * [2025-06-07, 12:00:45](https://news.ycombinator.com/item?id=44209082) - [Gander (YC F24) Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
 * [2025-06-07, 11:50:28](https://news.ycombinator.com/item?id=44209029) - [Uber Just Reinvented the Bus Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)
 * [2025-06-07, 11:40:54](https://news.ycombinator.com/item?id=44208985) - [Shirt Without Stripes](https://github.com/elsamuko/Shirt-without-Stripes)
 * [2025-06-07, 11:36:13](https://news.ycombinator.com/item?id=44208968) - [Why We're Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
+* [2025-06-07, 11:35:07](https://news.ycombinator.com/item?id=44208963) - [I started with a SQL question. He said \"that's a dumb question.\"](https://twitter.com/ryxcommar/status/1930985076965142918)
 * [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-07, 07:24:45](https://news.ycombinator.com/item?id=44208050) - [Windows 10 spies on your use of System Settings (2021)](https://www.michaelhorowitz.com/Windows10.spying.onsettings.php)
