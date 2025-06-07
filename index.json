@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-06-07, 01:06:39",
+      "https://news.ycombinator.com/item?id=44206553"
+    ],
+    [
+      "Why Are Smokestacks So Tall?",
+      "https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall"
+    ]
+  ],
+  [
+    [
       "2025-06-07, 00:08:53",
       "https://news.ycombinator.com/item?id=44206281"
     ],
     [
-      "Why You Should Move Your Site Away from Weebly (YC W07)",
+      "Weebly is decaying",
       "https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44205718"
     ],
     [
-      "What \"Working\" Means in the Era of AI Apps",
+      "What “working” means in the era of AI apps",
       "https://a16z.com/revenue-benchmarks-ai-apps/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44205599"
     ],
     [
-      "Medieval Africans Had a Unique Process for Purifying Gold with Glass (2019)",
+      "Medieval Africans had a unique process for purifying gold with glass (2019)",
       "https://www.atlasobscura.com/articles/medieval-african-gold"
     ]
   ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2025-06-06, 18:03:41",
-      "https://news.ycombinator.com/item?id=44203444"
-    ],
-    [
-      "A leaderless NASA faces its biggest-ever cuts",
-      "https://www.economist.com/science-and-technology/2025/06/04/a-leaderless-nasa-faces-its-biggest-ever-cuts"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 17:18:08",
       "https://news.ycombinator.com/item?id=44203003"
     ],
     [
       "Series C and scale",
       "https://www.cursor.com/en/blog/series-c"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 16:44:12",
-      "https://news.ycombinator.com/item?id=44202664"
-    ],
-    [
-      "Researchers find a way to make the HIV virus visible within white blood cells",
-      "https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "What you need to know about EMP weapons",
       "https://www.aardvark.co.nz/daily/2025/0606.shtml"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 10:55:17",
+      "https://news.ycombinator.com/item?id=44199597"
+    ],
+    [
+      "Weaponizing Dependabot: Pwn Request at its finest",
+      "https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest"
     ]
   ],
   [
