@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-07, 19:21:55",
-      "https://news.ycombinator.com/item?id=44211933"
-    ],
-    [
-      "Europe's Climate Urgency: Driven by Green Ideals or Fear of an African Refugees?",
-      "https://masatoshinishimura.com/europes-climate-urgency-driven-by-green-ideals-or-fear-of-an-african-refugees/"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 19:14:05",
       "https://news.ycombinator.com/item?id=44211882"
     ],
@@ -37,6 +27,16 @@
     [
       "BorgBackup 2 has no server-side append-only anymore",
       "https://github.com/borgbackup/borg/pull/8798"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 17:51:51",
+      "https://news.ycombinator.com/item?id=44211273"
+    ],
+    [
+      "Self-Host and Tech Independence: The Joy of Building Your Own",
+      "https://www.ssp.sh/blog/self-host-self-independence/"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Bill Atkinson has died",
       "https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 16:16:17",
+      "https://news.ycombinator.com/item?id=44210582"
+    ],
+    [
+      "PyOpticL – Code-to-CAD optical system engineering",
+      "https://github.com/UMassIonTrappers/PyOpticL"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
       "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 14:53:17",
-      "https://news.ycombinator.com/item?id=44201527"
-    ],
-    [
-      "Sharing everything I could understand about gradient noise",
-      "https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html"
     ]
   ],
   [
