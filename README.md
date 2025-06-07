@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
-* [2025-06-07, 07:24:45](https://news.ycombinator.com/item?id=44208050) - [Windows 10 spies on your use of System Settings (2021)](https://www.michaelhorowitz.com/Windows10.spying.onsettings.php)
 * [2025-06-07, 07:01:05](https://news.ycombinator.com/item?id=44207967) - [Ziina (YC W21) the Series A fintech is hiring product engineers](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86)
 * [2025-06-07, 04:45:13](https://news.ycombinator.com/item?id=44207503) - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
 * [2025-06-07, 03:16:31](https://news.ycombinator.com/item?id=44207144) - [NASA delays next flight of Boeing's alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
@@ -28,6 +27,7 @@
 * [2025-06-06, 13:46:17](https://news.ycombinator.com/item?id=44200870) - [Curate your shell history](https://esham.io/2025/05/shell-history)
 * [2025-06-06, 13:46:01](https://news.ycombinator.com/item?id=44200866) - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
 * [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
+* [2025-06-06, 10:55:17](https://news.ycombinator.com/item?id=44199597) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
 * [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 * [2025-06-03, 09:52:35](https://news.ycombinator.com/item?id=44168184) - [Wendelstein 7-X sets new fusion record](https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html)
 
