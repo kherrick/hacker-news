@@ -8,7 +8,7 @@
 * [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has died](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
 * [2025-06-07, 16:12:37](https://news.ycombinator.com/item?id=44210557) - [After Pornhub left France, this VPN saw a 1,000% surge in signups in 30 minutes](https://mashable.com/article/proton-vpn-pornhub-france)
 * [2025-06-07, 15:51:26](https://news.ycombinator.com/item?id=44210441) - [EFF to the FTC: DMCA Section 1201 Creates Anti-Competitive Regulatory Barriers](https://www.eff.org/deeplinks/2025/06/eff-files-comments-ftc-regarding-reducing-anti-competitive-regulatory-barriers)
-* [2025-06-07, 14:30:45](https://news.ycombinator.com/item?id=44209883) - [The Spectacle of \"Building\"](https://fakepixels.substack.com/p/the-spectacle-of-building)
+* [2025-06-07, 15:44:15](https://news.ycombinator.com/item?id=44210390) - [Asimov and the Disease of Boredom (1964)](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
 * [2025-06-07, 14:22:05](https://news.ycombinator.com/item?id=44209833) - [Hate Radio](https://rwandanstories.org/genocide/hate_radio.html)
 * [2025-06-07, 13:52:36](https://news.ycombinator.com/item?id=44209665) - [If it works, it's not AI: a commercial look at AI startups (1999)](https://dspace.mit.edu/handle/1721.1/80558)
 * [2025-06-07, 13:22:53](https://news.ycombinator.com/item?id=44209497) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
