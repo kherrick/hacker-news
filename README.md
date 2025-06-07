@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-07, 21:39:50](https://news.ycombinator.com/item?id=44212861) - [Simulating Time with Square-Root Space](https://arxiv.org/abs/2502.17779)
 * [2025-06-07, 21:38:48](https://news.ycombinator.com/item?id=44212855) - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
 * [2025-06-07, 20:45:46](https://news.ycombinator.com/item?id=44212532) - [Stop Vibe Coding. Start Cyborg Coding](https://chaserabenn.medium.com/stop-vibe-coding-start-cyborg-coding-640f3e16c83e)
 * [2025-06-07, 20:33:38](https://news.ycombinator.com/item?id=44212449) - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
@@ -15,6 +14,7 @@
 * [2025-06-07, 16:33:13](https://news.ycombinator.com/item?id=44210689) - [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
 * [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has died](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
 * [2025-06-07, 16:16:17](https://news.ycombinator.com/item?id=44210582) - [PyOpticL – Code-to-CAD optical system engineering](https://github.com/UMassIonTrappers/PyOpticL)
+* [2025-06-07, 16:01:20](https://news.ycombinator.com/item?id=44210502) - [Log-Linear Attention](https://arxiv.org/abs/2506.04761)
 * [2025-06-07, 14:22:05](https://news.ycombinator.com/item?id=44209833) - [Hate Radio (2011)](https://rwandanstories.org/genocide/hate_radio.html)
 * [2025-06-07, 13:52:36](https://news.ycombinator.com/item?id=44209665) - [If it works, it's not AI: a commercial look at AI startups (1999)](https://dspace.mit.edu/handle/1721.1/80558)
 * [2025-06-07, 13:25:15](https://news.ycombinator.com/item?id=44209515) - [Musk-Trump dispute includes threats to SpaceX contracts](https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/)
