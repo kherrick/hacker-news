@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-07, 19:14:05](https://news.ycombinator.com/item?id=44211882) - [Hollywood Is Already Using AI (and Hiding It)](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html)
+* [2025-06-07, 18:39:21](https://news.ycombinator.com/item?id=44211612) - [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
 * [2025-06-07, 17:00:43](https://news.ycombinator.com/item?id=44210895) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
 * [2025-06-07, 16:40:09](https://news.ycombinator.com/item?id=44210736) - [My experiment living in a tent in Hong Kong's jungle](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
 * [2025-06-07, 16:33:13](https://news.ycombinator.com/item?id=44210689) - [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
@@ -7,7 +9,6 @@
 * [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has died](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
 * [2025-06-07, 16:12:37](https://news.ycombinator.com/item?id=44210557) - [After Pornhub left France, this VPN saw a 1,000% surge in signups in 30 minutes](https://mashable.com/article/proton-vpn-pornhub-france)
 * [2025-06-07, 15:51:26](https://news.ycombinator.com/item?id=44210441) - [EFF to the FTC: DMCA Section 1201 Creates Anti-Competitive Regulatory Barriers](https://www.eff.org/deeplinks/2025/06/eff-files-comments-ftc-regarding-reducing-anti-competitive-regulatory-barriers)
-* [2025-06-07, 15:44:15](https://news.ycombinator.com/item?id=44210390) - [Asimov and the Disease of Boredom (1964)](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
 * [2025-06-07, 14:22:05](https://news.ycombinator.com/item?id=44209833) - [Hate Radio](https://rwandanstories.org/genocide/hate_radio.html)
 * [2025-06-07, 13:52:36](https://news.ycombinator.com/item?id=44209665) - [If it works, it's not AI: a commercial look at AI startups (1999)](https://dspace.mit.edu/handle/1721.1/80558)
 * [2025-06-07, 13:22:53](https://news.ycombinator.com/item?id=44209497) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
@@ -22,7 +23,6 @@
 * [2025-06-06, 22:20:33](https://news.ycombinator.com/item?id=44205590) - [Falsehoods programmers believe about aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
 * [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
-* [2025-06-06, 19:30:29](https://news.ycombinator.com/item?id=44204181) - [Show HN: AI game animation sprite generator](https://www.godmodeai.cloud/ai-sprite-generator)
 * [2025-06-06, 19:28:29](https://news.ycombinator.com/item?id=44204155) - [Highly efficient matrix transpose in Mojo](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
 * [2025-06-06, 18:18:36](https://news.ycombinator.com/item?id=44203562) - [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)

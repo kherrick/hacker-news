@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 19:14:05](https://news.ycombinator.com/item?id=44211882) - [Hollywood Is Already Using AI (and Hiding It)](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html)
+* [2025-06-07, 18:39:21](https://news.ycombinator.com/item?id=44211612) - [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
 * [2025-06-07, 17:32:46](https://news.ycombinator.com/item?id=44211130) - [I'm Wirecutter's Water-Quality Expert. I Don't Filter My Water](https://www.nytimes.com/wirecutter/reviews/know-your-water-quality/)
 * [2025-06-07, 17:00:43](https://news.ycombinator.com/item?id=44210895) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
 * [2025-06-07, 16:40:09](https://news.ycombinator.com/item?id=44210736) - [The Homelessness Experiment – or how to AI-proof your life](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
