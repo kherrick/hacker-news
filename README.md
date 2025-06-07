@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-07, 17:00:43](https://news.ycombinator.com/item?id=44210895) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
 * [2025-06-07, 16:40:09](https://news.ycombinator.com/item?id=44210736) - [The Homelessness Experiment – or how to AI-proof your life](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
 * [2025-06-07, 16:20:56](https://news.ycombinator.com/item?id=44210614) - [Why Pandas feels clunky when coming from R (2024)](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
 * [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has passed away](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
@@ -10,7 +11,6 @@
 * [2025-06-07, 14:22:05](https://news.ycombinator.com/item?id=44209833) - [Hate Radio](https://rwandanstories.org/genocide/hate_radio.html)
 * [2025-06-07, 13:52:36](https://news.ycombinator.com/item?id=44209665) - [If it works, it's not AI: a commercial look at AI startups (1999)](https://dspace.mit.edu/handle/1721.1/80558)
 * [2025-06-07, 13:22:53](https://news.ycombinator.com/item?id=44209497) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
-* [2025-06-07, 12:00:45](https://news.ycombinator.com/item?id=44209082) - [Gander (YC F24) Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
 * [2025-06-07, 11:36:13](https://news.ycombinator.com/item?id=44208968) - [Why We're Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
 * [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)

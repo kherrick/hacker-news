@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 17:00:43](https://news.ycombinator.com/item?id=44210895) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
 * [2025-06-07, 16:40:09](https://news.ycombinator.com/item?id=44210736) - [The Homelessness Experiment – or how to AI-proof your life](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
 * [2025-06-07, 16:20:56](https://news.ycombinator.com/item?id=44210614) - [Why Pandas feels clunky when coming from R (2024)](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
 * [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has passed away](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
