@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 04:45:13](https://news.ycombinator.com/item?id=44207503) - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
 * [2025-06-07, 04:30:48](https://news.ycombinator.com/item?id=44207442) - [Tesla AI VP Milan Kovac Resigns After 9 Years Leading FSD and Optimus Projects](https://gearmusk.com/2025/06/07/tesla-ai-vp-milan-kovac-resigns/)
+* [2025-06-07, 03:55:13](https://news.ycombinator.com/item?id=44207304) - [Good pixel art can be one-shotted by AI now](https://gametorch.app/collections/7)
 * [2025-06-07, 03:41:14](https://news.ycombinator.com/item?id=44207249) - [Why are front end dev demand so high if front end development is easier? (2012)](https://simonwillison.net/2012/Feb/13/why-are-front-end/)
 * [2025-06-07, 03:16:31](https://news.ycombinator.com/item?id=44207144) - [NASA delays next flight of Boeing's alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)
