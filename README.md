@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-07, 03:41:14](https://news.ycombinator.com/item?id=44207249) - [Why are front end dev demand so high if front end development is easier? (2012)](https://simonwillison.net/2012/Feb/13/why-are-front-end/)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)
 * [2025-06-07, 01:06:39](https://news.ycombinator.com/item?id=44206553) - [Why Are Smokestacks So Tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
 * [2025-06-07, 00:08:53](https://news.ycombinator.com/item?id=44206281) - [Weebly is decaying](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
@@ -10,7 +11,6 @@
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
 * [2025-06-06, 21:00:00](https://news.ycombinator.com/item?id=44204928) - [Onyx (YC W24) – AI Assistants for Work Hiring Founding AE](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive)
 * [2025-06-06, 20:55:34](https://news.ycombinator.com/item?id=44204878) - [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)
-* [2025-06-06, 19:43:01](https://news.ycombinator.com/item?id=44204277) - [United States Digital Service Origins](https://usdigitalserviceorigins.org/)
 * [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 19:30:29](https://news.ycombinator.com/item?id=44204181) - [Show HN: AI game animation sprite generator](https://www.godmodeai.cloud/ai-sprite-generator)
 * [2025-06-06, 19:28:29](https://news.ycombinator.com/item?id=44204155) - [Highly efficient matrix transpose in Mojo](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
