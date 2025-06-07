@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-07, 19:21:55",
+      "https://news.ycombinator.com/item?id=44211933"
+    ],
+    [
+      "Europe's Climate Urgency: Driven by Green Ideals or Fear of an African Refugees?",
+      "https://masatoshinishimura.com/europes-climate-urgency-driven-by-green-ideals-or-fear-of-an-african-refugees/"
+    ]
+  ],
+  [
+    [
       "2025-06-07, 19:14:05",
       "https://news.ycombinator.com/item?id=44211882"
     ],
@@ -17,16 +27,6 @@
     [
       "Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray",
       "https://aoli.al/blogs/jdk-bug/"
-    ]
-  ],
-  [
-    [
-      "2025-06-07, 18:48:27",
-      "https://news.ycombinator.com/item?id=44211681"
-    ],
-    [
-      "Who Needs a Belt 3D Printer When You Have a Treadmill?",
-      "https://www.hackster.io/news/who-needs-a-belt-3d-printer-when-you-have-a-treadmill-7bbad6a164b8"
     ]
   ],
   [
@@ -81,32 +81,12 @@
   ],
   [
     [
-      "2025-06-07, 16:20:56",
-      "https://news.ycombinator.com/item?id=44210614"
-    ],
-    [
-      "Why Pandas feels clunky when coming from R (2024)",
-      "https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 16:19:58",
       "https://news.ycombinator.com/item?id=44210606"
     ],
     [
       "Bill Atkinson has died",
-      "https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145"
-    ]
-  ],
-  [
-    [
-      "2025-06-07, 16:16:17",
-      "https://news.ycombinator.com/item?id=44210582"
-    ],
-    [
-      "PyOpticL – Code-to-CAD optical system engineering",
-      "https://github.com/UMassIonTrappers/PyOpticL"
+      "https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip"
     ]
   ],
   [
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=44209833"
     ],
     [
-      "Hate Radio",
+      "Hate Radio (2011)",
       "https://rwandanstories.org/genocide/hate_radio.html"
     ]
   ],
@@ -157,6 +137,16 @@
     [
       "If it works, it's not AI: a commercial look at AI startups (1999)",
       "https://dspace.mit.edu/handle/1721.1/80558"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 13:25:15",
+      "https://news.ycombinator.com/item?id=44209515"
+    ],
+    [
+      "Musk-Trump dispute includes threats to SpaceX contracts",
+      "https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Why are smokestacks so tall?",
       "https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 22:35:01",
+      "https://news.ycombinator.com/item?id=44205697"
+    ],
+    [
+      "I read all of Cloudflare's Claude-generated commits",
+      "https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/"
     ]
   ],
   [
