@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-07, 21:38:48](https://news.ycombinator.com/item?id=44212855) - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
-* [2025-06-07, 20:45:46](https://news.ycombinator.com/item?id=44212532) - [Stop Vibe Coding. Start Cyborg Coding](https://chaserabenn.medium.com/stop-vibe-coding-start-cyborg-coding-640f3e16c83e)
 * [2025-06-07, 20:33:38](https://news.ycombinator.com/item?id=44212449) - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
 * [2025-06-07, 20:33:18](https://news.ycombinator.com/item?id=44212446) - [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
 * [2025-06-07, 20:27:38](https://news.ycombinator.com/item?id=44212413) - [Updates to Advanced Voice Mode for paid users](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
@@ -28,6 +27,7 @@
 * [2025-06-06, 22:35:01](https://news.ycombinator.com/item?id=44205697) - [I read all of Cloudflare's Claude-generated commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
 * [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
+* [2025-06-06, 18:18:36](https://news.ycombinator.com/item?id=44203562) - [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 * [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 
