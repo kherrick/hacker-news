@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-07, 15:44:15](https://news.ycombinator.com/item?id=44210390) - [Asimov and the Disease of Boredom (1964)](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
 * [2025-06-07, 14:46:13](https://news.ycombinator.com/item?id=44209986) - [Unfit for Work – The startling rise of disability in America](https://apps.npr.org/unfit-for-work/)
+* [2025-06-07, 14:22:05](https://news.ycombinator.com/item?id=44209833) - [Hate Radio](https://rwandanstories.org/genocide/hate_radio.html)
 * [2025-06-07, 13:52:36](https://news.ycombinator.com/item?id=44209665) - [If it works, it's not AI: a commercial look at AI startups (1999)](https://dspace.mit.edu/handle/1721.1/80558)
 * [2025-06-07, 13:22:53](https://news.ycombinator.com/item?id=44209497) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 * [2025-06-07, 12:00:45](https://news.ycombinator.com/item?id=44209082) - [Gander (YC F24) Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
@@ -21,13 +23,11 @@
 * [2025-06-06, 19:28:29](https://news.ycombinator.com/item?id=44204155) - [Highly efficient matrix transpose in Mojo](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
 * [2025-06-06, 18:18:36](https://news.ycombinator.com/item?id=44203562) - [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
-* [2025-06-06, 15:33:10](https://news.ycombinator.com/item?id=44201872) - [Meta: Shut down your invasive AI Discover feed](https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/)
 * [2025-06-06, 15:24:44](https://news.ycombinator.com/item?id=44201812) - [Sandia turns on brain-like storage-free supercomputer](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/)
 * [2025-06-06, 15:18:46](https://news.ycombinator.com/item?id=44201762) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-06, 14:53:17](https://news.ycombinator.com/item?id=44201527) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 * [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
 * [2025-06-06, 13:46:01](https://news.ycombinator.com/item?id=44200866) - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
-* [2025-06-06, 11:06:48](https://news.ycombinator.com/item?id=44199649) - [What you need to know about EMP weapons](https://www.aardvark.co.nz/daily/2025/0606.shtml)
 * [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 * [2025-06-03, 09:52:35](https://news.ycombinator.com/item?id=44168184) - [Wendelstein 7-X sets new fusion record](https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html)
 
