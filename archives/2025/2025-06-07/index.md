@@ -9,6 +9,7 @@
 * [2025-06-07, 20:45:46](https://news.ycombinator.com/item?id=44212532) - [Stop Vibe Coding. Start Cyborg Coding](https://chaserabenn.medium.com/stop-vibe-coding-start-cyborg-coding-640f3e16c83e)
 * [2025-06-07, 20:33:38](https://news.ycombinator.com/item?id=44212449) - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
 * [2025-06-07, 20:33:18](https://news.ycombinator.com/item?id=44212446) - [Convert Photos to Atkinson Dithering](https://gazs.github.io/canvas-atkinson-dither/)
+* [2025-06-07, 20:32:54](https://news.ycombinator.com/item?id=44212441) - [Joining Apple Computer](https://www.folklore.org/Joining_Apple_Computer.html)
 * [2025-06-07, 20:27:38](https://news.ycombinator.com/item?id=44212413) - [Updates to Advanced Voice Mode for paid users](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 * [2025-06-07, 19:21:55](https://news.ycombinator.com/item?id=44211933) - [Europe's Climate Urgency: Driven by Green Ideals or Fear of an African Refugees?](https://masatoshinishimura.com/europes-climate-urgency-driven-by-green-ideals-or-fear-of-an-african-refugees/)
 * [2025-06-07, 19:14:05](https://news.ycombinator.com/item?id=44211882) - [Hollywood Is Already Using AI (and Hiding It)](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html)
