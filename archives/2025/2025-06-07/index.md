@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
 * [2025-06-07, 07:01:05](https://news.ycombinator.com/item?id=44207967) - [Ziina (YC W21) the Series A fintech is hiring product engineers](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86)
+* [2025-06-07, 05:46:31](https://news.ycombinator.com/item?id=44207676) - [I built a knowledge system that gives AI perfect codebase memory](https://github.com/Muvon/octocode)
 * [2025-06-07, 04:45:13](https://news.ycombinator.com/item?id=44207503) - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
 * [2025-06-07, 04:30:48](https://news.ycombinator.com/item?id=44207442) - [Tesla AI VP Milan Kovac Resigns After 9 Years Leading FSD and Optimus Projects](https://gearmusk.com/2025/06/07/tesla-ai-vp-milan-kovac-resigns/)
 * [2025-06-07, 03:55:13](https://news.ycombinator.com/item?id=44207304) - [Good pixel art can be one-shotted by AI now](https://gametorch.app/collections/7)
