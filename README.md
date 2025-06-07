@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-07, 04:30:48](https://news.ycombinator.com/item?id=44207442) - [Tesla AI VP Milan Kovac Resigns After 9 Years Leading FSD and Optimus Projects](https://gearmusk.com/2025/06/07/tesla-ai-vp-milan-kovac-resigns/)
 * [2025-06-07, 03:16:31](https://news.ycombinator.com/item?id=44207144) - [NASA delays next flight of Boeing's alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
 * [2025-06-07, 01:06:39](https://news.ycombinator.com/item?id=44206553) - [Why are smokestacks so tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
@@ -16,7 +17,6 @@
 * [2025-06-06, 19:28:29](https://news.ycombinator.com/item?id=44204155) - [Highly efficient matrix transpose in Mojo](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
 * [2025-06-06, 18:38:36](https://news.ycombinator.com/item?id=44203732) - [Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks](https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks)
 * [2025-06-06, 18:18:36](https://news.ycombinator.com/item?id=44203562) - [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
-* [2025-06-06, 18:10:29](https://news.ycombinator.com/item?id=44203494) - [SaaS is just vendor lock-in with better branding](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding)
 * [2025-06-06, 17:18:08](https://news.ycombinator.com/item?id=44203003) - [Series C and scale](https://www.cursor.com/en/blog/series-c)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 * [2025-06-06, 15:36:00](https://news.ycombinator.com/item?id=44201901) - [4-7-8 Breathing](https://www.breathbelly.com/exercises/4-7-8-breathing)
