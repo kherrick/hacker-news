@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 17:32:46](https://news.ycombinator.com/item?id=44211130) - [I'm Wirecutter's Water-Quality Expert. I Don't Filter My Water](https://www.nytimes.com/wirecutter/reviews/know-your-water-quality/)
 * [2025-06-07, 17:00:43](https://news.ycombinator.com/item?id=44210895) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
 * [2025-06-07, 16:40:09](https://news.ycombinator.com/item?id=44210736) - [The Homelessness Experiment – or how to AI-proof your life](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
+* [2025-06-07, 16:33:13](https://news.ycombinator.com/item?id=44210689) - [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
 * [2025-06-07, 16:20:56](https://news.ycombinator.com/item?id=44210614) - [Why Pandas feels clunky when coming from R (2024)](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
 * [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has passed away](https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145)
 * [2025-06-07, 16:12:37](https://news.ycombinator.com/item?id=44210557) - [After Pornhub left France, this VPN saw a 1,000% surge in signups in 30 minutes](https://mashable.com/article/proton-vpn-pornhub-france)
 * [2025-06-07, 15:51:26](https://news.ycombinator.com/item?id=44210441) - [EFF to the FTC: DMCA Section 1201 Creates Anti-Competitive Regulatory Barriers](https://www.eff.org/deeplinks/2025/06/eff-files-comments-ftc-regarding-reducing-anti-competitive-regulatory-barriers)
 * [2025-06-07, 15:44:15](https://news.ycombinator.com/item?id=44210390) - [Asimov and the Disease of Boredom (1964)](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
 * [2025-06-07, 14:46:13](https://news.ycombinator.com/item?id=44209986) - [Unfit for Work – The startling rise of disability in America](https://apps.npr.org/unfit-for-work/)
+* [2025-06-07, 14:30:45](https://news.ycombinator.com/item?id=44209883) - [The Spectacle of \"Building\"](https://fakepixels.substack.com/p/the-spectacle-of-building)
 * [2025-06-07, 14:22:05](https://news.ycombinator.com/item?id=44209833) - [Hate Radio](https://rwandanstories.org/genocide/hate_radio.html)
 * [2025-06-07, 13:52:36](https://news.ycombinator.com/item?id=44209665) - [If it works, it's not AI: a commercial look at AI startups (1999)](https://dspace.mit.edu/handle/1721.1/80558)
 * [2025-06-07, 13:25:15](https://news.ycombinator.com/item?id=44209515) - [Musk-Trump dispute includes threats to SpaceX contracts](https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/)
