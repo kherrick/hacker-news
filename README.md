@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-07, 15:51:26](https://news.ycombinator.com/item?id=44210441) - [EFF to the FTC: DMCA Section 1201 Creates Anti-Competitive Regulatory Barriers](https://www.eff.org/deeplinks/2025/06/eff-files-comments-ftc-regarding-reducing-anti-competitive-regulatory-barriers)
 * [2025-06-07, 15:44:15](https://news.ycombinator.com/item?id=44210390) - [Asimov and the Disease of Boredom (1964)](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
 * [2025-06-07, 14:46:13](https://news.ycombinator.com/item?id=44209986) - [Unfit for Work – The startling rise of disability in America](https://apps.npr.org/unfit-for-work/)
 * [2025-06-07, 14:22:05](https://news.ycombinator.com/item?id=44209833) - [Hate Radio](https://rwandanstories.org/genocide/hate_radio.html)
@@ -17,7 +18,6 @@
 * [2025-06-06, 22:21:39](https://news.ycombinator.com/item?id=44205599) - [Medieval Africans had a unique process for purifying gold with glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold)
 * [2025-06-06, 22:20:33](https://news.ycombinator.com/item?id=44205590) - [Falsehoods programmers believe about aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
-* [2025-06-06, 20:55:34](https://news.ycombinator.com/item?id=44204878) - [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)
 * [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 19:30:29](https://news.ycombinator.com/item?id=44204181) - [Show HN: AI game animation sprite generator](https://www.godmodeai.cloud/ai-sprite-generator)
 * [2025-06-06, 19:28:29](https://news.ycombinator.com/item?id=44204155) - [Highly efficient matrix transpose in Mojo](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
