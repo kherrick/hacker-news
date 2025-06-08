@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 22:26:43](https://news.ycombinator.com/item?id=44219871) - [OpenBSD IO Benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
 * [2025-06-08, 22:00:12](https://news.ycombinator.com/item?id=44219755) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
+* [2025-06-08, 21:11:18](https://news.ycombinator.com/item?id=44219519) - [Building supercomputers for autocrats probably isn't good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
 * [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
 * [2025-06-08, 20:41:35](https://news.ycombinator.com/item?id=44219357) - [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
 * [2025-06-08, 20:25:32](https://news.ycombinator.com/item?id=44219279) - [What Happens When People Don't Understand How AI Works](https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/)
+* [2025-06-08, 20:22:33](https://news.ycombinator.com/item?id=44219270) - [The Wire That Transforms Much of Manhattan into One Big, Symbolic Home](https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home)
 * [2025-06-08, 19:59:41](https://news.ycombinator.com/item?id=44219171) - [Acetylated cellulose suppresses mass through commensals consuming carbohydrates](https://www.sciencedirect.com/science/article/pii/S1550413125002232)
 * [2025-06-08, 19:29:41](https://news.ycombinator.com/item?id=44219029) - [Tool to identify poisonous books developed by University of St Andrews](https://www.theguardian.com/books/2025/jun/06/tool-to-identify-poisonous-books-developed-by-university-of-st-andrews)
 * [2025-06-08, 19:27:03](https://news.ycombinator.com/item?id=44219012) - [Congress is poised to increase energy bills by hundreds of dollars per household](https://grist.org/politics/trump-big-beautiful-bill-congress-energy-costs/)
