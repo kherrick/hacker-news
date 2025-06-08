@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-08, 08:36:56",
+      "https://news.ycombinator.com/item?id=44215608"
+    ],
+    [
+      "Why not use DNS over HTTPS (DoH)?",
+      "https://www.bsdhowto.ch/doh.html"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 07:11:34",
       "https://news.ycombinator.com/item?id=44215197"
     ],
@@ -237,16 +247,6 @@
     [
       "Low-Level Optimization with Zig",
       "https://alloc.dev/2025/06/07/zig_optimization"
-    ]
-  ],
-  [
-    [
-      "2025-06-07, 04:45:13",
-      "https://news.ycombinator.com/item?id=44207503"
-    ],
-    [
-      "The FAIR Package Manager: Decentralized WordPress infrastructure",
-      "https://joost.blog/path-forward-for-wordpress/"
     ]
   ],
   [
