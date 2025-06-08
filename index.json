@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-06-07, 23:11:06",
+      "https://news.ycombinator.com/item?id=44213313"
+    ],
+    [
+      "Reinforcement Learning to Train Large Language Models to Explain Human Decisions",
+      "https://arxiv.org/abs/2505.11614"
+    ]
+  ],
+  [
+    [
       "2025-06-07, 21:38:48",
       "https://news.ycombinator.com/item?id=44212855"
     ],
@@ -287,16 +297,6 @@
     [
       "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
       "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 13:30:21",
-      "https://news.ycombinator.com/item?id=44180533"
-    ],
-    [
-      "The time bomb in the tax code that's fueling mass tech layoffs",
-      "https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502"
     ]
   ]
 ]
