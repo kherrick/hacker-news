@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-08, 20:25:32",
+      "https://news.ycombinator.com/item?id=44219279"
+    ],
+    [
+      "What Happens When People Don't Understand How AI Works",
+      "https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 19:59:41",
       "https://news.ycombinator.com/item?id=44219171"
     ],
@@ -47,6 +57,16 @@
     [
       "Futa – A functionally useless AI terminal assistant",
       "https://github.com/nail-e/futa"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 15:49:59",
+      "https://news.ycombinator.com/item?id=44217693"
+    ],
+    [
+      "Nginx Restic Back End",
+      "https://www.grepular.com/Nginx_Restic_Backend"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-06-07, 19:01:17",
-      "https://news.ycombinator.com/item?id=44211779"
-    ],
-    [
-      "Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray",
-      "https://aoli.al/blogs/jdk-bug/"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 18:39:21",
       "https://news.ycombinator.com/item?id=44211612"
     ],
@@ -197,16 +207,6 @@
     [
       "Why We're Moving on from Nix",
       "https://blog.railway.com/p/introducing-railpack"
-    ]
-  ],
-  [
-    [
-      "2025-06-07, 08:30:23",
-      "https://news.ycombinator.com/item?id=44208283"
-    ],
-    [
-      "A tool for burning visible pictures on a compact disc surface (2022)",
-      "https://github.com/arduinocelentano/cdimage"
     ]
   ],
   [
