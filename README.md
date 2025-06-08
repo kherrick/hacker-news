@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-08, 12:38:55](https://news.ycombinator.com/item?id=44216630) - [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 * [2025-06-08, 10:52:35](https://news.ycombinator.com/item?id=44216123) - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
 * [2025-06-08, 09:09:19](https://news.ycombinator.com/item?id=44215726) - [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
 * [2025-06-08, 08:50:16](https://news.ycombinator.com/item?id=44215667) - [A look at Cloudflare's AI-coded OAuth library](https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/)
-* [2025-06-08, 08:36:56](https://news.ycombinator.com/item?id=44215608) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 * [2025-06-08, 08:35:54](https://news.ycombinator.com/item?id=44215603) - [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 * [2025-06-08, 07:38:37](https://news.ycombinator.com/item?id=44215352) - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
 * [2025-06-08, 07:24:59](https://news.ycombinator.com/item?id=44215273) - [The Illusion of Thinking: Strengths and Limitations of Reasoning Models](https://machinelearning.apple.com/research/illusion-of-thinking)
