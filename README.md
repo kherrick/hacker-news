@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-08, 17:42:21](https://news.ycombinator.com/item?id=44218384) - [Rents fall in most U.S. metros since 2023, demand struggles to match supply](https://seekingalpha.com/news/4455878-rents-fall-in-most-us-metros-since-2023-as-demand-struggles-to-keep-up-with-supply)
 * [2025-06-08, 16:41:05](https://news.ycombinator.com/item?id=44217999) - [The printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/)
 * [2025-06-08, 16:18:32](https://news.ycombinator.com/item?id=44217876) - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
@@ -8,7 +7,6 @@
 * [2025-06-08, 12:38:55](https://news.ycombinator.com/item?id=44216630) - [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 * [2025-06-08, 10:52:35](https://news.ycombinator.com/item?id=44216123) - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
 * [2025-06-08, 09:09:19](https://news.ycombinator.com/item?id=44215726) - [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
-* [2025-06-08, 08:36:56](https://news.ycombinator.com/item?id=44215608) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 * [2025-06-08, 08:35:54](https://news.ycombinator.com/item?id=44215603) - [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 * [2025-06-08, 07:38:37](https://news.ycombinator.com/item?id=44215352) - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
 * [2025-06-08, 06:21:42](https://news.ycombinator.com/item?id=44214960) - [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
@@ -29,6 +27,8 @@
 * [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface (2022)](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-05, 09:37:09](https://news.ycombinator.com/item?id=44189966) - [Efficient mRNA delivery to resting T cells to reverse HIV latency](https://www.nature.com/articles/s41467-025-60001-2)
+* [2025-06-04, 22:00:38](https://news.ycombinator.com/item?id=44186008) - [Cheap yet ultrapure titanium might enable widespread use in industry (2024)](https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp)
+* [2025-06-04, 17:32:34](https://news.ycombinator.com/item?id=44183299) - [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)
 * [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 
 ## [Archives](archives/index.md)
