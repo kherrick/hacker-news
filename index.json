@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-06-08, 08:36:56",
-      "https://news.ycombinator.com/item?id=44215608"
-    ],
-    [
-      "Why not use DNS over HTTPS (DoH)?",
-      "https://www.bsdhowto.ch/doh.html"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 08:35:54",
       "https://news.ycombinator.com/item?id=44215603"
     ],
@@ -107,16 +97,6 @@
     [
       "Reverse engineering Claude Code (April 2025)",
       "https://kirshatrov.com/posts/claude-code-internals"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 05:52:49",
-      "https://news.ycombinator.com/item?id=44214835"
-    ],
-    [
-      "Maintaining an Android app in Google Play Store is a lot of work",
-      "https://ashishb.net/programming/maintaining-android-app/"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "Why We're Moving on from Nix",
       "https://blog.railway.com/p/introducing-railpack"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 08:30:23",
+      "https://news.ycombinator.com/item?id=44208283"
+    ],
+    [
+      "A tool for burning visible pictures on a compact disc surface (2022)",
+      "https://github.com/arduinocelentano/cdimage"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 07:26:24",
+      "https://news.ycombinator.com/item?id=44208060"
+    ],
+    [
+      "Low-Level Optimization with Zig",
+      "https://alloc.dev/2025/06/07/zig_optimization"
     ]
   ],
   [
