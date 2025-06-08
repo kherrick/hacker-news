@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-06-08, 10:48:53",
-      "https://news.ycombinator.com/item?id=44216113"
-    ],
-    [
-      "Apple Is on Defense at WWDC",
-      "https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 09:09:19",
       "https://news.ycombinator.com/item?id=44215726"
     ],
@@ -37,6 +27,16 @@
     [
       "A look at Cloudflare's AI-coded OAuth library",
       "https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 08:36:56",
+      "https://news.ycombinator.com/item?id=44215608"
+    ],
+    [
+      "Why not use DNS over HTTPS (DoH)?",
+      "https://www.bsdhowto.ch/doh.html"
     ]
   ],
   [
@@ -81,32 +81,12 @@
   ],
   [
     [
-      "2025-06-08, 06:55:31",
-      "https://news.ycombinator.com/item?id=44215117"
-    ],
-    [
-      "YouTuber claims to have received an offer to buy the Commodore brand",
-      "https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 06:21:42",
       "https://news.ycombinator.com/item?id=44214960"
     ],
     [
       "Fray: A Controlled Concurrency Testing Framework for the JVM",
       "https://github.com/cmu-pasta/fray"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 06:13:15",
-      "https://news.ycombinator.com/item?id=44214926"
-    ],
-    [
-      "Reverse engineering Claude Code (April 2025)",
-      "https://kirshatrov.com/posts/claude-code-internals"
     ]
   ],
   [
@@ -127,26 +107,6 @@
     [
       "Knowledge Management in the Age of AI",
       "https://ericgardner.info/notes/knowledge-management-june-2025"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 03:38:05",
-      "https://news.ycombinator.com/item?id=44214386"
-    ],
-    [
-      "Installing Microsoft Windows 98 in DOSBox-X",
-      "https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 03:14:37",
-      "https://news.ycombinator.com/item?id=44214311"
-    ],
-    [
-      "Louis Rossmann: We've started a foundation to bring back ownership [video]",
-      "https://www.youtube.com/watch?v=WBG6Vw3nxZs"
     ]
   ],
   [
@@ -241,6 +201,16 @@
   ],
   [
     [
+      "2025-06-07, 16:33:13",
+      "https://news.ycombinator.com/item?id=44210689"
+    ],
+    [
+      "Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)",
+      "https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex"
+    ]
+  ],
+  [
+    [
       "2025-06-07, 16:19:58",
       "https://news.ycombinator.com/item?id=44210606"
     ],
@@ -271,6 +241,26 @@
   ],
   [
     [
+      "2025-06-07, 08:30:23",
+      "https://news.ycombinator.com/item?id=44208283"
+    ],
+    [
+      "A tool for burning visible pictures on a compact disc surface (2022)",
+      "https://github.com/arduinocelentano/cdimage"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 07:26:24",
+      "https://news.ycombinator.com/item?id=44208060"
+    ],
+    [
+      "Low-Level Optimization with Zig",
+      "https://alloc.dev/2025/06/07/zig_optimization"
+    ]
+  ],
+  [
+    [
       "2025-06-07, 03:06:55",
       "https://news.ycombinator.com/item?id=44207095"
     ],
@@ -287,6 +277,16 @@
     [
       "Researchers develop ‘transparent paper’ as alternative to plastics",
       "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 19:35:54",
+      "https://news.ycombinator.com/item?id=44204224"
+    ],
+    [
+      "A year of funded FreeBSD development",
+      "https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html"
     ]
   ],
   [
