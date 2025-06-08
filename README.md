@@ -27,8 +27,8 @@
 * [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface (2022)](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
+* [2025-06-06, 22:35:01](https://news.ycombinator.com/item?id=44205697) - [I read all of Cloudflare's Claude-generated commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
-* [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 
 ## [Archives](archives/index.md)
