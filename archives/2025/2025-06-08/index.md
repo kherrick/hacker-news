@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
 * [2025-06-08, 19:59:41](https://news.ycombinator.com/item?id=44219171) - [Acetylated cellulose suppresses mass through commensals consuming carbohydrates](https://www.sciencedirect.com/science/article/pii/S1550413125002232)
+* [2025-06-08, 19:29:41](https://news.ycombinator.com/item?id=44219029) - [Tool to identify poisonous books developed by University of St Andrews](https://www.theguardian.com/books/2025/jun/06/tool-to-identify-poisonous-books-developed-by-university-of-st-andrews)
 * [2025-06-08, 18:42:06](https://news.ycombinator.com/item?id=44218787) - [Tapping into the World’s largest gold reserves](https://www.uni-goettingen.de/en/3240.html?id=7808)
 * [2025-06-08, 17:42:21](https://news.ycombinator.com/item?id=44218384) - [Rents fall in most U.S. metros since 2023, demand struggles to match supply](https://seekingalpha.com/news/4455878-rents-fall-in-most-us-metros-since-2023-as-demand-struggles-to-keep-up-with-supply)
 * [2025-06-08, 17:40:27](https://news.ycombinator.com/item?id=44218369) - [College Students Are Using 'No Contact Orders' to Block Each Other in Real Life](https://www.wsj.com/us-news/education/college-students-are-using-no-contact-orders-to-block-each-other-in-real-life-4e3272b1)
