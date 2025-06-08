@@ -62,6 +62,7 @@
 * [2025-06-05, 10:54:12](https://news.ycombinator.com/item?id=44190371) - [Experimenting with no-build Web Applications • AndreGarzia.com](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html)
 * [2025-06-05, 10:19:49](https://news.ycombinator.com/item?id=44190190) - [10 Years of Betting on Rust](https://tably.com/tably/10-years-of-betting-on-rust)
 * [2025-06-05, 09:57:19](https://news.ycombinator.com/item?id=44190071) - [DNS4EU for Public Is Available](https://www.joindns4.eu/for-public)
+* [2025-06-05, 09:37:09](https://news.ycombinator.com/item?id=44189966) - [Efficient mRNA delivery to resting T cells to reverse HIV latency](https://www.nature.com/articles/s41467-025-60001-2)
 * [2025-06-05, 08:52:56](https://news.ycombinator.com/item?id=44189741) - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
 * [2025-06-05, 07:59:21](https://news.ycombinator.com/item?id=44189426) - [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
