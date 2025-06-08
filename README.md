@@ -4,6 +4,7 @@
 * [2025-06-08, 10:52:35](https://news.ycombinator.com/item?id=44216123) - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
 * [2025-06-08, 09:09:19](https://news.ycombinator.com/item?id=44215726) - [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
 * [2025-06-08, 08:50:16](https://news.ycombinator.com/item?id=44215667) - [A look at Cloudflare's AI-coded OAuth library](https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/)
+* [2025-06-08, 08:36:56](https://news.ycombinator.com/item?id=44215608) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 * [2025-06-08, 08:35:54](https://news.ycombinator.com/item?id=44215603) - [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 * [2025-06-08, 07:38:37](https://news.ycombinator.com/item?id=44215352) - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
 * [2025-06-08, 07:24:59](https://news.ycombinator.com/item?id=44215273) - [The Illusion of Thinking: Strengths and Limitations of Reasoning Models](https://machinelearning.apple.com/research/illusion-of-thinking)
@@ -28,7 +29,6 @@
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
-* [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 
 ## [Archives](archives/index.md)
