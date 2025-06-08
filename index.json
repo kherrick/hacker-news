@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-06-07, 21:38:48",
-      "https://news.ycombinator.com/item?id=44212855"
-    ],
-    [
-      "You need much less memory than time",
-      "https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 21:35:44",
       "https://news.ycombinator.com/item?id=44212845"
     ],
@@ -157,6 +147,16 @@
     [
       "BorgBackup 2 has no server-side append-only anymore",
       "https://github.com/borgbackup/borg/pull/8798"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 18:11:25",
+      "https://news.ycombinator.com/item?id=44211417"
+    ],
+    [
+      "Field Notes from Shipping Real Code with Claude",
+      "https://diwank.space/field-notes-from-shipping-real-code-with-claude"
     ]
   ],
   [
