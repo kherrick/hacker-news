@@ -7,7 +7,6 @@
 * [2025-06-08, 08:36:56](https://news.ycombinator.com/item?id=44215608) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 * [2025-06-08, 08:35:54](https://news.ycombinator.com/item?id=44215603) - [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 * [2025-06-08, 07:38:37](https://news.ycombinator.com/item?id=44215352) - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
-* [2025-06-08, 07:24:59](https://news.ycombinator.com/item?id=44215273) - [The Illusion of Thinking: Strengths and Limitations of Reasoning Models](https://machinelearning.apple.com/research/illusion-of-thinking)
 * [2025-06-08, 07:11:34](https://news.ycombinator.com/item?id=44215197) - [FAA to eliminate floppy disks used in air traffic control systems](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)
 * [2025-06-08, 06:21:42](https://news.ycombinator.com/item?id=44214960) - [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
 * [2025-06-08, 04:17:43](https://news.ycombinator.com/item?id=44214522) - [<Blink> and <Marquee> (2020)](https://danq.me/2020/11/11/blink-and-marquee/)
@@ -29,6 +28,7 @@
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
+* [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 
 ## [Archives](archives/index.md)
