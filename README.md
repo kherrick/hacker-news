@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-08, 04:17:43](https://news.ycombinator.com/item?id=44214522) - [<Blink> and <Marquee>](https://danq.me/2020/11/11/blink-and-marquee/)
 * [2025-06-08, 03:14:37](https://news.ycombinator.com/item?id=44214311) - [Louis Rossmann: We've started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
 * [2025-06-08, 01:16:28](https://news.ycombinator.com/item?id=44213878) - [Should I Use a Carousel? (2013)](https://shouldiuseacarousel.com/)
 * [2025-06-08, 00:15:11](https://news.ycombinator.com/item?id=44213590) - [An innovative superfamily of fonts for code (2023)](https://monaspace.githubnext.com/)
@@ -7,7 +8,6 @@
 * [2025-06-07, 21:38:48](https://news.ycombinator.com/item?id=44212855) - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
 * [2025-06-07, 21:35:44](https://news.ycombinator.com/item?id=44212845) - [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
 * [2025-06-07, 21:03:28](https://news.ycombinator.com/item?id=44212650) - [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
-* [2025-06-07, 20:33:38](https://news.ycombinator.com/item?id=44212449) - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
 * [2025-06-07, 20:33:18](https://news.ycombinator.com/item?id=44212446) - [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
 * [2025-06-07, 20:32:54](https://news.ycombinator.com/item?id=44212441) - [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html)
 * [2025-06-07, 20:27:38](https://news.ycombinator.com/item?id=44212413) - [Updates to Advanced Voice Mode for paid users](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
