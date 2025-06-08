@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-06-08, 10:49:35",
-      "https://news.ycombinator.com/item?id=44216116"
+      "2025-06-08, 10:48:53",
+      "https://news.ycombinator.com/item?id=44216113"
     ],
     [
-      "I got a remote job for a EU company, I'd find it hard to go back to a US-based",
-      "https://www.businessinsider.com/remote-work-european-company-us-work-life-balance-2025-6"
+      "Apple Is on Defense at WWDC",
+      "https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-06-07, 08:30:23",
-      "https://news.ycombinator.com/item?id=44208283"
-    ],
-    [
-      "A tool for burning visible pictures on a compact disc surface (2022)",
-      "https://github.com/arduinocelentano/cdimage"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 03:06:55",
       "https://news.ycombinator.com/item?id=44207095"
     ],
@@ -297,6 +287,16 @@
     [
       "Researchers develop ‘transparent paper’ as alternative to plastics",
       "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 15:43:05",
+      "https://news.ycombinator.com/item?id=44201975"
+    ],
+    [
+      "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
+      "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/"
     ]
   ]
 ]
