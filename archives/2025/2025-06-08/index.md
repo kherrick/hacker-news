@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 22:00:12](https://news.ycombinator.com/item?id=44219755) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 * [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
 * [2025-06-08, 20:41:35](https://news.ycombinator.com/item?id=44219357) - [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
 * [2025-06-08, 20:25:32](https://news.ycombinator.com/item?id=44219279) - [What Happens When People Don't Understand How AI Works](https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/)
