@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 20:25:32](https://news.ycombinator.com/item?id=44219279) - [What Happens When People Don't Understand How AI Works](https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/)
 * [2025-06-08, 19:59:41](https://news.ycombinator.com/item?id=44219171) - [Acetylated cellulose suppresses mass through commensals consuming carbohydrates](https://www.sciencedirect.com/science/article/pii/S1550413125002232)
 * [2025-06-08, 19:29:41](https://news.ycombinator.com/item?id=44219029) - [Tool to identify poisonous books developed by University of St Andrews](https://www.theguardian.com/books/2025/jun/06/tool-to-identify-poisonous-books-developed-by-university-of-st-andrews)
 * [2025-06-08, 18:42:06](https://news.ycombinator.com/item?id=44218787) - [Tapping into the World’s largest gold reserves](https://www.uni-goettingen.de/en/3240.html?id=7808)
