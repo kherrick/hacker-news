@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 23:08:51](https://news.ycombinator.com/item?id=44213301) - [The US is turning into a mass techno-surveillance state](https://english.elpais.com/usa/2025-06-05/how-the-us-is-turning-into-a-mass-techno-surveillance-state.html)
 * [2025-06-07, 21:39:50](https://news.ycombinator.com/item?id=44212861) - [Simulating Time with Square-Root Space](https://arxiv.org/abs/2502.17779)
 * [2025-06-07, 21:38:48](https://news.ycombinator.com/item?id=44212855) - [You Need Much Less Memory Than Time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
 * [2025-06-07, 21:35:44](https://news.ycombinator.com/item?id=44212845) - [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
+* [2025-06-07, 21:03:28](https://news.ycombinator.com/item?id=44212650) - [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
 * [2025-06-07, 20:45:46](https://news.ycombinator.com/item?id=44212532) - [Stop Vibe Coding. Start Cyborg Coding](https://chaserabenn.medium.com/stop-vibe-coding-start-cyborg-coding-640f3e16c83e)
 * [2025-06-07, 20:33:38](https://news.ycombinator.com/item?id=44212449) - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
 * [2025-06-07, 20:33:18](https://news.ycombinator.com/item?id=44212446) - [Convert Photos to Atkinson Dithering](https://gazs.github.io/canvas-atkinson-dither/)
