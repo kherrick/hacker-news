@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-08, 16:41:05](https://news.ycombinator.com/item?id=44217999) - [The printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/)
+* [2025-06-08, 16:21:50](https://news.ycombinator.com/item?id=44217904) - [The race to find GPS alternatives](https://www.technologyreview.com/2025/06/06/1117978/inside-the-race-to-find-gps-alternatives/)
 * [2025-06-08, 16:18:32](https://news.ycombinator.com/item?id=44217876) - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
 * [2025-06-08, 14:46:21](https://news.ycombinator.com/item?id=44217322) - [Launching the BeOS on Hitachi Flora Prius Systems (1999)](http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html)
@@ -9,7 +9,6 @@
 * [2025-06-08, 09:09:19](https://news.ycombinator.com/item?id=44215726) - [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
 * [2025-06-08, 08:35:54](https://news.ycombinator.com/item?id=44215603) - [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 * [2025-06-08, 07:38:37](https://news.ycombinator.com/item?id=44215352) - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
-* [2025-06-08, 06:21:42](https://news.ycombinator.com/item?id=44214960) - [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
 * [2025-06-08, 04:17:43](https://news.ycombinator.com/item?id=44214522) - [<Blink> and <Marquee> (2020)](https://danq.me/2020/11/11/blink-and-marquee/)
 * [2025-06-08, 04:05:31](https://news.ycombinator.com/item?id=44214481) - [Knowledge Management in the Age of AI](https://ericgardner.info/notes/knowledge-management-june-2025)
 * [2025-06-07, 21:35:44](https://news.ycombinator.com/item?id=44212845) - [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
@@ -27,6 +26,7 @@
 * [2025-06-06, 02:33:16](https://news.ycombinator.com/item?id=44197347) - [Building an AI server on a budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)
 * [2025-06-05, 09:37:09](https://news.ycombinator.com/item?id=44189966) - [Efficient mRNA delivery to resting T cells to reverse HIV latency](https://www.nature.com/articles/s41467-025-60001-2)
 * [2025-06-05, 03:54:32](https://news.ycombinator.com/item?id=44188178) - [Startup Equity 101](https://quarter--mile.com/Startup-Equity-101)
+* [2025-06-05, 03:41:45](https://news.ycombinator.com/item?id=44188120) - [PS5 shooter goes from 5 players to bestseller after devs defend game](https://www.polygon.com/news/602867/hypercharge-ps5-shooter-bestseller-devs-defend-game)
 * [2025-06-05, 02:21:28](https://news.ycombinator.com/item?id=44187765) - [Panjandrum: The 'giant firework' built to break Hitler's Atlantic Wall](https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall)
 * [2025-06-04, 22:00:38](https://news.ycombinator.com/item?id=44186008) - [Cheap yet ultrapure titanium might enable widespread use in industry (2024)](https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp)
 * [2025-06-04, 17:32:34](https://news.ycombinator.com/item?id=44183299) - [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)

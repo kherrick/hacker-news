@@ -8,6 +8,7 @@
 * [2025-06-08, 17:40:27](https://news.ycombinator.com/item?id=44218369) - [College Students Are Using 'No Contact Orders' to Block Each Other in Real Life](https://www.wsj.com/us-news/education/college-students-are-using-no-contact-orders-to-block-each-other-in-real-life-4e3272b1)
 * [2025-06-08, 17:00:41](https://news.ycombinator.com/item?id=44218107) - [I was enjoying a midnight swim. My girlfriend kissed me and the nightmare began](https://www.theguardian.com/lifeandstyle/2025/jun/08/i-was-enjoying-a-midnight-swim-then-my-girlfriend-kissed-me-and-the-nightmare-began)
 * [2025-06-08, 16:41:05](https://news.ycombinator.com/item?id=44217999) - [The printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/)
+* [2025-06-08, 16:21:50](https://news.ycombinator.com/item?id=44217904) - [The race to find GPS alternatives](https://www.technologyreview.com/2025/06/06/1117978/inside-the-race-to-find-gps-alternatives/)
 * [2025-06-08, 16:18:32](https://news.ycombinator.com/item?id=44217876) - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
 * [2025-06-08, 15:49:59](https://news.ycombinator.com/item?id=44217693) - [Nginx Restic Back End](https://www.grepular.com/Nginx_Restic_Backend)
