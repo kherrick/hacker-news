@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 17:00:41](https://news.ycombinator.com/item?id=44218107) - [I was enjoying a midnight swim. My girlfriend kissed me and the nightmare began](https://www.theguardian.com/lifeandstyle/2025/jun/08/i-was-enjoying-a-midnight-swim-then-my-girlfriend-kissed-me-and-the-nightmare-began)
 * [2025-06-08, 16:41:05](https://news.ycombinator.com/item?id=44217999) - [The printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/)
+* [2025-06-08, 16:18:32](https://news.ycombinator.com/item?id=44217876) - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 * [2025-06-08, 15:33:07](https://news.ycombinator.com/item?id=44217590) - [BYD's Five-Minute Charging Puts China in the Lead for EVs](https://spectrum.ieee.org/byd-megawatt-charging)
 * [2025-06-08, 12:38:55](https://news.ycombinator.com/item?id=44216630) - [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 * [2025-06-08, 10:52:35](https://news.ycombinator.com/item?id=44216123) - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
