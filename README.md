@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-08, 23:25:41](https://news.ycombinator.com/item?id=44220135) - [I Used AI-Powered Calorie Counting Apps, and They Were Even Worse Than Expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
 * [2025-06-08, 22:26:43](https://news.ycombinator.com/item?id=44219871) - [OpenBSD IO Benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
 * [2025-06-08, 22:00:12](https://news.ycombinator.com/item?id=44219755) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 * [2025-06-08, 21:11:18](https://news.ycombinator.com/item?id=44219519) - [Building supercomputers for autocrats probably isn't good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
@@ -9,7 +10,6 @@
 * [2025-06-08, 19:29:41](https://news.ycombinator.com/item?id=44219029) - [Tool to identify poisonous books developed by University of St Andrews](https://www.theguardian.com/books/2025/jun/06/tool-to-identify-poisonous-books-developed-by-university-of-st-andrews)
 * [2025-06-08, 16:18:32](https://news.ycombinator.com/item?id=44217876) - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
-* [2025-06-08, 15:49:59](https://news.ycombinator.com/item?id=44217693) - [Nginx Restic Back End](https://www.grepular.com/Nginx_Restic_Backend)
 * [2025-06-08, 14:46:21](https://news.ycombinator.com/item?id=44217322) - [Launching the BeOS on Hitachi Flora Prius Systems (1999)](http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html)
 * [2025-06-08, 12:38:55](https://news.ycombinator.com/item?id=44216630) - [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 * [2025-06-08, 10:52:35](https://news.ycombinator.com/item?id=44216123) - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
