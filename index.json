@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-08, 12:38:55",
+      "https://news.ycombinator.com/item?id=44216630"
+    ],
+    [
+      "Binfmtc – binfmt_misc C scripting interface",
+      "https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 10:52:35",
       "https://news.ycombinator.com/item?id=44216123"
     ],
@@ -27,16 +37,6 @@
     [
       "A look at Cloudflare's AI-coded OAuth library",
       "https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 08:36:56",
-      "https://news.ycombinator.com/item?id=44215608"
-    ],
-    [
-      "Why not use DNS over HTTPS (DoH)?",
-      "https://www.bsdhowto.ch/doh.html"
     ]
   ],
   [
