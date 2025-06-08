@@ -21,7 +21,7 @@
 * [2025-06-07, 13:25:15](https://news.ycombinator.com/item?id=44209515) - [Musk-Trump dispute includes threats to SpaceX contracts](https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/)
 * [2025-06-07, 13:22:53](https://news.ycombinator.com/item?id=44209497) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 * [2025-06-07, 11:36:13](https://news.ycombinator.com/item?id=44208968) - [Why We're Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
-* [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
+* [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface (2022)](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-07, 04:45:13](https://news.ycombinator.com/item?id=44207503) - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
