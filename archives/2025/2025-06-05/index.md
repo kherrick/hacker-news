@@ -67,6 +67,7 @@
 * [2025-06-05, 08:47:02](https://news.ycombinator.com/item?id=44189709) - [How Much Energy Does It Take to Think?](https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/)
 * [2025-06-05, 07:59:21](https://news.ycombinator.com/item?id=44189426) - [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
+* [2025-06-05, 06:59:19](https://news.ycombinator.com/item?id=44189088) - [Generating Pixels One by One](https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/)
 * [2025-06-05, 05:31:19](https://news.ycombinator.com/item?id=44188562) - [A new Pitt study has upended decades-old assumptions about brain plasticity](https://www.pittwire.pitt.edu/accolades-honors/2025/06/03/neuroscience-synaptic-transmission-science-advances)
 * [2025-06-05, 04:09:00](https://news.ycombinator.com/item?id=44188248) - [End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation)
 * [2025-06-05, 04:02:04](https://news.ycombinator.com/item?id=44188214) - [My first attempt at iOS app development](https://mgx.me/my-first-attempt-at-ios-app-development)
