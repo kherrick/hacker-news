@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-06-08, 15:49:59",
-      "https://news.ycombinator.com/item?id=44217693"
-    ],
-    [
-      "Nginx Restic Back End",
-      "https://www.grepular.com/Nginx_Restic_Backend"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 14:46:21",
       "https://news.ycombinator.com/item?id=44217322"
     ],
@@ -107,6 +97,16 @@
     [
       "The last six months in LLMs, illustrated by pelicans on bicycles",
       "https://simonwillison.net/2025/Jun/6/six-months-in-llms/"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 06:21:42",
+      "https://news.ycombinator.com/item?id=44214960"
+    ],
+    [
+      "Fray: A Controlled Concurrency Testing Framework for the JVM",
+      "https://github.com/cmu-pasta/fray"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "BorgBackup 2 has no server-side append-only anymore",
       "https://github.com/borgbackup/borg/pull/8798"
-    ]
-  ],
-  [
-    [
-      "2025-06-07, 18:11:25",
-      "https://news.ycombinator.com/item?id=44211417"
-    ],
-    [
-      "Field Notes from Shipping Real Code with Claude",
-      "https://diwank.space/field-notes-from-shipping-real-code-with-claude"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Efficient mRNA delivery to resting T cells to reverse HIV latency",
       "https://www.nature.com/articles/s41467-025-60001-2"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 02:21:28",
+      "https://news.ycombinator.com/item?id=44187765"
+    ],
+    [
+      "Panjandrum: The 'giant firework' built to break Hitler's Atlantic Wall",
+      "https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall"
     ]
   ],
   [
