@@ -6,6 +6,7 @@
 * [2025-06-08, 03:14:37](https://news.ycombinator.com/item?id=44214311) - [Louis Rossmann: We've started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
 * [2025-06-08, 01:16:28](https://news.ycombinator.com/item?id=44213878) - [Should I Use a Carousel? (2013)](https://shouldiuseacarousel.com/)
 * [2025-06-08, 00:15:11](https://news.ycombinator.com/item?id=44213590) - [An innovative superfamily of fonts for code (2023)](https://monaspace.githubnext.com/)
+* [2025-06-07, 23:11:06](https://news.ycombinator.com/item?id=44213313) - [Reinforcement Learning to Train Large Language Models to Explain Human Decisions](https://arxiv.org/abs/2505.11614)
 * [2025-06-07, 21:38:48](https://news.ycombinator.com/item?id=44212855) - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
 * [2025-06-07, 21:35:44](https://news.ycombinator.com/item?id=44212845) - [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
 * [2025-06-07, 21:03:28](https://news.ycombinator.com/item?id=44212650) - [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
@@ -29,7 +30,6 @@
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
 * [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
-* [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 
 ## [Archives](archives/index.md)
 
