@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-08, 07:11:34](https://news.ycombinator.com/item?id=44215197) - [FAA to eliminate floppy disks used in air traffic control systems](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)
-* [2025-06-08, 06:58:33](https://news.ycombinator.com/item?id=44215131) - [A Knockout Blow for LLMs?](https://garymarcus.substack.com/p/a-knockout-blow-for-llms)
+* [2025-06-08, 06:55:31](https://news.ycombinator.com/item?id=44215117) - [YouTuber claims to have received an offer to buy the Commodore brand](https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html)
 * [2025-06-08, 06:21:42](https://news.ycombinator.com/item?id=44214960) - [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
+* [2025-06-08, 06:13:15](https://news.ycombinator.com/item?id=44214926) - [Reverse engineering Claude Code (April 2025)](https://kirshatrov.com/posts/claude-code-internals)
 * [2025-06-08, 05:52:49](https://news.ycombinator.com/item?id=44214835) - [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/)
 * [2025-06-08, 04:17:43](https://news.ycombinator.com/item?id=44214522) - [<Blink> and <Marquee> (2020)](https://danq.me/2020/11/11/blink-and-marquee/)
+* [2025-06-08, 04:05:31](https://news.ycombinator.com/item?id=44214481) - [Knowledge Management in the Age of AI](https://ericgardner.info/notes/knowledge-management-june-2025)
 * [2025-06-08, 03:38:05](https://news.ycombinator.com/item?id=44214386) - [Installing Microsoft Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to)
 * [2025-06-08, 03:14:37](https://news.ycombinator.com/item?id=44214311) - [Louis Rossmann: We've started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
 * [2025-06-07, 21:38:48](https://news.ycombinator.com/item?id=44212855) - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
@@ -18,7 +20,6 @@
 * [2025-06-07, 16:40:09](https://news.ycombinator.com/item?id=44210736) - [My experiment living in a tent in Hong Kong's jungle](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
 * [2025-06-07, 16:33:13](https://news.ycombinator.com/item?id=44210689) - [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
 * [2025-06-07, 16:19:58](https://news.ycombinator.com/item?id=44210606) - [Bill Atkinson has died](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
-* [2025-06-07, 13:25:15](https://news.ycombinator.com/item?id=44209515) - [Musk-Trump dispute includes threats to SpaceX contracts](https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/)
 * [2025-06-07, 13:22:53](https://news.ycombinator.com/item?id=44209497) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 * [2025-06-07, 11:36:13](https://news.ycombinator.com/item?id=44208968) - [Why We're Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
 * [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface (2022)](https://github.com/arduinocelentano/cdimage)
@@ -29,7 +30,6 @@
 * [2025-06-06, 21:43:10](https://news.ycombinator.com/item?id=44205282) - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
 * [2025-06-06, 19:35:54](https://news.ycombinator.com/item?id=44204224) - [A year of funded FreeBSD development](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 15:43:05](https://news.ycombinator.com/item?id=44201975) - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
-* [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 
 ## [Archives](archives/index.md)
 
