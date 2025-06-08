@@ -12,6 +12,7 @@
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
 * [2025-06-08, 15:49:59](https://news.ycombinator.com/item?id=44217693) - [Nginx Restic Back End](https://www.grepular.com/Nginx_Restic_Backend)
 * [2025-06-08, 15:33:07](https://news.ycombinator.com/item?id=44217590) - [BYD's Five-Minute Charging Puts China in the Lead for EVs](https://spectrum.ieee.org/byd-megawatt-charging)
+* [2025-06-08, 14:46:21](https://news.ycombinator.com/item?id=44217322) - [Launching the BeOS on Hitachi Flora Prius Systems (1999)](http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html)
 * [2025-06-08, 12:38:55](https://news.ycombinator.com/item?id=44216630) - [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 * [2025-06-08, 10:52:35](https://news.ycombinator.com/item?id=44216123) - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
 * [2025-06-08, 10:49:35](https://news.ycombinator.com/item?id=44216116) - [I got a remote job for a EU company, I'd find it hard to go back to a US-based](https://www.businessinsider.com/remote-work-european-company-us-work-life-balance-2025-6)
