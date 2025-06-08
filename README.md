@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-08, 06:05:03](https://news.ycombinator.com/item?id=44214889) - [Re: My AI skeptic friends are all nuts](https://skarlso.github.io/2025/06/07/re-my-ai-skeptic-friends-are-all-nuts/)
 * [2025-06-08, 05:52:49](https://news.ycombinator.com/item?id=44214835) - [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/)
 * [2025-06-08, 04:17:43](https://news.ycombinator.com/item?id=44214522) - [<Blink> and <Marquee> (2020)](https://danq.me/2020/11/11/blink-and-marquee/)
 * [2025-06-08, 03:38:05](https://news.ycombinator.com/item?id=44214386) - [Installing Microsoft Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to)
 * [2025-06-08, 03:14:37](https://news.ycombinator.com/item?id=44214311) - [Louis Rossmann: We've started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
+* [2025-06-08, 00:15:11](https://news.ycombinator.com/item?id=44213590) - [An innovative superfamily of fonts for code (2023)](https://monaspace.githubnext.com/)
 * [2025-06-07, 21:38:48](https://news.ycombinator.com/item?id=44212855) - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
 * [2025-06-07, 21:35:44](https://news.ycombinator.com/item?id=44212845) - [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
 * [2025-06-07, 21:03:28](https://news.ycombinator.com/item?id=44212650) - [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
