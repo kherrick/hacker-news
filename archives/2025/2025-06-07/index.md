@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 23:11:06](https://news.ycombinator.com/item?id=44213313) - [Reinforcement Learning to Train Large Language Models to Explain Human Decisions](https://arxiv.org/abs/2505.11614)
 * [2025-06-07, 23:08:51](https://news.ycombinator.com/item?id=44213301) - [The US is turning into a mass techno-surveillance state](https://english.elpais.com/usa/2025-06-05/how-the-us-is-turning-into-a-mass-techno-surveillance-state.html)
 * [2025-06-07, 21:39:50](https://news.ycombinator.com/item?id=44212861) - [Simulating Time with Square-Root Space](https://arxiv.org/abs/2502.17779)
 * [2025-06-07, 21:38:48](https://news.ycombinator.com/item?id=44212855) - [You Need Much Less Memory Than Time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
