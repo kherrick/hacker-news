@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 17:59:40](https://news.ycombinator.com/item?id=44227207) - [Show HN: Somo – a human friendly alternative to netstat](https://github.com/theopfr/somo)
 * [2025-06-09, 17:44:16](https://news.ycombinator.com/item?id=44226978) - [Apple Announces Foundation Models Framework for Developers to Leverage AI](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
+* [2025-06-09, 17:34:29](https://news.ycombinator.com/item?id=44226879) - [Show HN: Munal OS: a graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
 * [2025-06-09, 17:25:05](https://news.ycombinator.com/item?id=44226779) - [Frederick Forsyth has died](https://www.theguardian.com/books/2025/jun/09/frederick-forsyth-day-of-the-jackal-author-and-former-mi6-agent-dies-aged-86)
+* [2025-06-09, 17:09:47](https://news.ycombinator.com/item?id=44226612) - [Apple introduces a universal design across platforms](https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/)
 * [2025-06-09, 16:28:51](https://news.ycombinator.com/item?id=44226145) - [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
 * [2025-06-09, 16:14:26](https://news.ycombinator.com/item?id=44225988) - [Trusting your own judgement on 'AI' is a risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/)
 * [2025-06-09, 16:10:31](https://news.ycombinator.com/item?id=44225953) - [Ask HN: What API or software are people using for transcription?](https://news.ycombinator.com/item?id=44225953)
