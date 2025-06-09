@@ -16,6 +16,7 @@
 * [2025-06-09, 16:08:22](https://news.ycombinator.com/item?id=44225922) - [Show HN: Glowstick – type level tensor shapes in stable rust](https://github.com/nicksenger/glowstick)
 * [2025-06-09, 15:54:16](https://news.ycombinator.com/item?id=44225761) - [Algovivo an energy-based formulation for soft-bodied virtual creatures](https://juniorrojas.com/algovivo/)
 * [2025-06-09, 15:16:48](https://news.ycombinator.com/item?id=44225352) - [Show HN: Most users won't report bugs unless you make it stupidly easy](https://news.ycombinator.com/item?id=44225352)
+* [2025-06-09, 15:14:04](https://news.ycombinator.com/item?id=44225324) - [Maypole Dance of Braid Like Groups (2009)](https://divisbyzero.com/2009/05/04/the-maypole-braid-group/)
 * [2025-06-09, 14:42:33](https://news.ycombinator.com/item?id=44224996) - [The new Gödel Prize winner tastes great and is less filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
 * [2025-06-09, 14:42:03](https://news.ycombinator.com/item?id=44224992) - [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
 * [2025-06-09, 14:33:14](https://news.ycombinator.com/item?id=44224915) - [Why quadratic funding is not optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
@@ -28,7 +29,6 @@
 * [2025-06-06, 14:15:28](https://news.ycombinator.com/item?id=44201143) - [What methylene blue can (and can’t) do for the brain](https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/)
 * [2025-06-06, 12:38:16](https://news.ycombinator.com/item?id=44200240) - [Pi in Pascal's Triangle (2014)](https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml)
 * [2025-06-06, 01:10:23](https://news.ycombinator.com/item?id=44197007) - [How do you prototype a nice language?](https://kevinlynagh.com/newsletter/2025_06_03_prototyping_a_language/)
-* [2025-06-05, 21:05:08](https://news.ycombinator.com/item?id=44195768) - [Myanmar's chinlone ball sport threatened by conflict and rattan shortages](https://www.aljazeera.com/gallery/2025/6/5/myanmars-chinlone-ball-sport-threatened-by-conflict-and-rattan-shortages)
 * [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 
 ## [Archives](archives/index.md)
