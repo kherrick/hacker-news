@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-09, 21:11:33](https://news.ycombinator.com/item?id=44229533) - [Kennedy guts CDC's vaccine panel of independent experts](https://www.nbcnews.com/health/health-news/kennedy-guts-acip-cdc-vaccine-panel-rcna211935)
+* [2025-06-09, 21:35:07](https://news.ycombinator.com/item?id=44229778) - [RFK Jr. ousts entire CDC vaccine advisory committee](https://apnews.com/article/kennedy-cdc-acip-vaccines-3790c89f45b6314c5c7b686db0e3a8f9)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 * [2025-06-09, 20:33:44](https://news.ycombinator.com/item?id=44229150) - [Domains I Love](https://www.ahmedsaoudi.com/blog/domains-i-love/)
-* [2025-06-09, 19:41:13](https://news.ycombinator.com/item?id=44228550) - [Object firing signals at Earth every 44 minutes](https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes)
+* [2025-06-09, 19:41:13](https://news.ycombinator.com/item?id=44228550) - [Astronomers have discovered a mysterious object flashing signals from deep space](https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes)
 * [2025-06-09, 18:37:59](https://news.ycombinator.com/item?id=44227689) - [A bit more on Twitter/X's new encrypted messaging](https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/)
 * [2025-06-09, 17:59:40](https://news.ycombinator.com/item?id=44227207) - [Show HN: Somo – a human friendly alternative to netstat](https://github.com/theopfr/somo)
 * [2025-06-09, 17:44:16](https://news.ycombinator.com/item?id=44226978) - [Apple announces Foundation Models and Containerization frameworks, etc](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
