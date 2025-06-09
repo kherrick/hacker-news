@@ -6,6 +6,7 @@
 
 * [2025-06-09, 04:48:35](https://news.ycombinator.com/item?id=44221489) - [Scientists Show Reforestation Helps Cool the Planet Even More Than Thought](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 * [2025-06-09, 04:38:32](https://news.ycombinator.com/item?id=44221450) - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
+* [2025-06-09, 04:33:37](https://news.ycombinator.com/item?id=44221430) - [Web Designs are Getting too Complicated](https://websmith.studio/blog/website-designs-are-getting-too-complicated/)
 * [2025-06-09, 01:59:27](https://news.ycombinator.com/item?id=44220860) - [Using Awk to find out the FBI was paying scrapers to find Torswats](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
 * [2025-06-09, 01:08:00](https://news.ycombinator.com/item?id=44220583) - [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/)
 * [2025-06-09, 00:04:28](https://news.ycombinator.com/item?id=44220287) - [Software Is About Promises](https://www.bramadams.dev/software-is-about-promises/)

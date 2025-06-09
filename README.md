@@ -2,6 +2,7 @@
 
 * [2025-06-09, 04:48:35](https://news.ycombinator.com/item?id=44221489) - [Scientists Show Reforestation Helps Cool the Planet Even More Than Thought](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 * [2025-06-09, 04:38:32](https://news.ycombinator.com/item?id=44221450) - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
+* [2025-06-09, 04:33:37](https://news.ycombinator.com/item?id=44221430) - [Web Designs are Getting too Complicated](https://websmith.studio/blog/website-designs-are-getting-too-complicated/)
 * [2025-06-09, 01:59:27](https://news.ycombinator.com/item?id=44220860) - [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
 * [2025-06-09, 01:08:00](https://news.ycombinator.com/item?id=44220583) - [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/)
 * [2025-06-09, 00:04:28](https://news.ycombinator.com/item?id=44220287) - [Software Is About Promises](https://www.bramadams.dev/software-is-about-promises/)
@@ -28,7 +29,6 @@
 * [2025-06-05, 04:44:37](https://news.ycombinator.com/item?id=44188373) - [Endangered classic Mac plastic color returns as 3D-printer filament](https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/)
 * [2025-06-05, 04:02:04](https://news.ycombinator.com/item?id=44188214) - [My first attempt at iOS app development](https://mgx.me/my-first-attempt-at-ios-app-development)
 * [2025-06-05, 02:21:28](https://news.ycombinator.com/item?id=44187765) - [Panjandrum: The 'giant firework' built to break Hitler's Atlantic Wall](https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall)
-* [2025-06-04, 22:00:38](https://news.ycombinator.com/item?id=44186008) - [Cheap yet ultrapure titanium might enable widespread use in industry (2024)](https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp)
 * [2025-06-04, 17:32:34](https://news.ycombinator.com/item?id=44183299) - [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)
 
 ## [Archives](archives/index.md)
