@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
 * [2025-06-09, 10:13:06](https://news.ycombinator.com/item?id=44222896) - [EU OS for the Public Sector](https://eu-os.eu/)
+* [2025-06-09, 10:02:04](https://news.ycombinator.com/item?id=44222839) - [We came to be ruled by Death Eaters (2014)](https://georgiebc.wordpress.com/2014/12/05/how-we-came-to-be-ruled-by-death-eaters/)
 * [2025-06-09, 10:01:38](https://news.ycombinator.com/item?id=44222836) - [Congress Passes Socialized Medicine and Mandates Health Insurance -In 1798](https://www.forbes.com/sites/rickungar/2011/01/17/congress-passes-socialized-medicine-and-mandates-health-insurance-in-1798/)
+* [2025-06-09, 08:48:56](https://news.ycombinator.com/item?id=44222527) - [So Long, Figma. Thanks for Everything](https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
 * [2025-06-09, 06:30:52](https://news.ycombinator.com/item?id=44221900) - [The Illusion of \"The Illusion of Thinking\"](https://www.seangoedecke.com/illusion-of-thinking/)
 * [2025-06-09, 05:43:13](https://news.ycombinator.com/item?id=44221695) - [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
