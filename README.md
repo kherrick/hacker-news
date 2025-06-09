@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
+* [2025-06-09, 20:28:28](https://news.ycombinator.com/item?id=44229085) - [Report claims voting machines were tampered with before 2024 elections](https://www.msn.com/en-in/news/world/kamala-harris-won-the-u-s-elections-bombshell-report-claims-voting-machines-were-tampered-with-before-2024/ar-AA1GnteW)
 * [2025-06-09, 19:41:13](https://news.ycombinator.com/item?id=44228550) - [Object firing signals at Earth every 44 minutes](https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes)
 * [2025-06-09, 18:37:59](https://news.ycombinator.com/item?id=44227689) - [A bit more on Twitter/X's new encrypted messaging](https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/)
 * [2025-06-09, 17:59:40](https://news.ycombinator.com/item?id=44227207) - [Show HN: Somo – a human friendly alternative to netstat](https://github.com/theopfr/somo)
@@ -19,7 +21,6 @@
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors could hack the nervous system with ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
 * [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 11:43:05](https://news.ycombinator.com/item?id=44223448) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
-* [2025-06-09, 07:53:15](https://news.ycombinator.com/item?id=44222299) - [CoverDrop: A secure messaging system for newsreader apps](https://github.com/guardian/coverdrop)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes (2019)](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
 * [2025-06-08, 23:38:58](https://news.ycombinator.com/item?id=44220179) - [Riding high in Germany on the world's oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
 * [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
@@ -28,7 +29,6 @@
 * [2025-06-06, 12:38:16](https://news.ycombinator.com/item?id=44200240) - [Pi in Pascal's Triangle](https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml)
 * [2025-06-05, 23:19:41](https://news.ycombinator.com/item?id=44196542) - [Potential and Limitation of High-Frequency Cores and Caches (2024)](https://arch.cs.ucdavis.edu/simulation/2024/08/06/potentiallimitationhighfreqcorescaches.html)
 * [2025-06-05, 21:05:08](https://news.ycombinator.com/item?id=44195768) - [Myanmar's chinlone ball sport threatened by conflict and rattan shortages](https://www.aljazeera.com/gallery/2025/6/5/myanmars-chinlone-ball-sport-threatened-by-conflict-and-rattan-shortages)
-* [2025-06-05, 15:54:28](https://news.ycombinator.com/item?id=44192883) - [Prince's special custom-font symbol floppy disks (2016)](https://nymag.com/intelligencer/2016/04/princes-legendary-floppy-disk-symbol-font.html)
 * [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 
 ## [Archives](archives/index.md)
