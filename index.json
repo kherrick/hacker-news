@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-08, 23:38:58",
+      "https://news.ycombinator.com/item?id=44220179"
+    ],
+    [
+      "Riding high in Germany on the world's oldest suspended railway",
+      "https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 23:25:41",
       "https://news.ycombinator.com/item?id=44220135"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-06-08, 23:20:03",
+      "https://news.ycombinator.com/item?id=44220110"
+    ],
+    [
+      "Ask HN: In 15 years, what will a gas station visit look like?",
+      "https://news.ycombinator.com/item?id=44220110"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 22:26:43",
       "https://news.ycombinator.com/item?id=44219871"
     ],
     [
       "OpenBSD IO Benchmarking: How Many Jobs Are Worth It?",
       "https://rsadowski.de/posts/2025/fio_simple_benckmarking/"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 22:24:14",
+      "https://news.ycombinator.com/item?id=44219857"
+    ],
+    [
+      "Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode",
+      "https://ziglang.org/devlog/2025/#2025-06-08"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2025-06-08, 19:29:41",
-      "https://news.ycombinator.com/item?id=44219029"
-    ],
-    [
-      "Tool to identify poisonous books developed by University of St Andrews",
-      "https://www.theguardian.com/books/2025/jun/06/tool-to-identify-poisonous-books-developed-by-university-of-st-andrews"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 16:18:32",
       "https://news.ycombinator.com/item?id=44217876"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-06-08, 10:52:35",
-      "https://news.ycombinator.com/item?id=44216123"
-    ],
-    [
-      "Ask HN: How to learn CUDA to professional level",
-      "https://news.ycombinator.com/item?id=44216123"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 09:09:19",
       "https://news.ycombinator.com/item?id=44215726"
     ],
@@ -161,22 +171,22 @@
   ],
   [
     [
+      "2025-06-08, 07:11:34",
+      "https://news.ycombinator.com/item?id=44215197"
+    ],
+    [
+      "FAA to eliminate floppy disks used in air traffic control systems",
+      "https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 04:17:43",
       "https://news.ycombinator.com/item?id=44214522"
     ],
     [
       "<Blink> and <Marquee> (2020)",
       "https://danq.me/2020/11/11/blink-and-marquee/"
-    ]
-  ],
-  [
-    [
-      "2025-06-07, 21:35:44",
-      "https://news.ycombinator.com/item?id=44212845"
-    ],
-    [
-      "Coventry Very Light Rail",
-      "https://www.coventry.gov.uk/coventry-light-rail"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2025-06-07, 18:11:25",
-      "https://news.ycombinator.com/item?id=44211417"
-    ],
-    [
-      "Field Notes from Shipping Real Code with Claude",
-      "https://diwank.space/field-notes-from-shipping-real-code-with-claude"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 17:51:51",
       "https://news.ycombinator.com/item?id=44211273"
     ],
     [
       "Self-Host and Tech Independence: The Joy of Building Your Own",
       "https://www.ssp.sh/blog/self-host-self-independence/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 02:33:16",
-      "https://news.ycombinator.com/item?id=44197347"
-    ],
-    [
-      "Building an AI server on a budget",
-      "https://www.informationga.in/blog/building-an-ai-server-on-a-budget"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Generating Pixels One by One",
       "https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 06:22:09",
+      "https://news.ycombinator.com/item?id=44188839"
+    ],
+    [
+      "Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance",
+      "https://aavetis.github.io/ai-pr-watcher/"
     ]
   ],
   [
