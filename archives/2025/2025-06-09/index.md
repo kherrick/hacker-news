@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 16:10:31](https://news.ycombinator.com/item?id=44225953) - [Ask HN: What API or software are people using for transcription?](https://news.ycombinator.com/item?id=44225953)
+* [2025-06-09, 16:09:03](https://news.ycombinator.com/item?id=44225930) - [Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking](https://news.ycombinator.com/item?id=44225930)
+* [2025-06-09, 16:08:22](https://news.ycombinator.com/item?id=44225922) - [Show HN: Glowstick – type level tensor shapes in stable rust](https://github.com/nicksenger/glowstick)
+* [2025-06-09, 15:54:16](https://news.ycombinator.com/item?id=44225761) - [Algovivo an energy-based formulation for soft-bodied virtual creatures](https://juniorrojas.com/algovivo/)
 * [2025-06-09, 15:34:29](https://news.ycombinator.com/item?id=44225543) - [Vibe code isn't meant to be reviewed](https://monadical.com/posts/vibe-code-how-to-stay-in-control.html)
+* [2025-06-09, 15:25:08](https://news.ycombinator.com/item?id=44225450) - [Anthropic's AI-generated blog dies an early death](https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/)
 * [2025-06-09, 15:16:48](https://news.ycombinator.com/item?id=44225352) - [Show HN: Most users won't report bugs unless you make it stupidly easy](https://news.ycombinator.com/item?id=44225352)
 * [2025-06-09, 15:14:04](https://news.ycombinator.com/item?id=44225324) - [Maypole Dance of Braid Like Groups](https://divisbyzero.com/2009/05/04/the-maypole-braid-group/)
 * [2025-06-09, 14:42:33](https://news.ycombinator.com/item?id=44224996) - [The New Godel Prize Winner Tastes Great and Is Less Filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
