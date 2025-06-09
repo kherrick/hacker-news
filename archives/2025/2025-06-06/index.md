@@ -59,6 +59,7 @@
 * [2025-06-06, 13:46:01](https://news.ycombinator.com/item?id=44200866) - [Odyc.js – A tiny JavaScript library for narrative games](https://odyc.dev)
 * [2025-06-06, 13:38:31](https://news.ycombinator.com/item?id=44200797) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
 * [2025-06-06, 13:36:06](https://news.ycombinator.com/item?id=44200773) - [Dystopian tales of that time when I sold out to Google](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler)
+* [2025-06-06, 12:38:16](https://news.ycombinator.com/item?id=44200240) - [Pi in Pascal's Triangle](https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml)
 * [2025-06-06, 12:32:26](https://news.ycombinator.com/item?id=44200199) - [Being fat is a trap](https://federicopereiro.com/fat-trap/)
 * [2025-06-06, 12:19:46](https://news.ycombinator.com/item?id=44200101) - [ThornWalli/web-workbench: Old operating system as homepage](https://github.com/ThornWalli/web-workbench)
 * [2025-06-06, 12:01:16](https://news.ycombinator.com/item?id=44199967) - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
