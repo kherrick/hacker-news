@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-09, 10:13:06](https://news.ycombinator.com/item?id=44222896) - [EU OS for the Public Sector](https://eu-os.eu/)
-* [2025-06-09, 10:02:04](https://news.ycombinator.com/item?id=44222839) - [We came to be ruled by Death Eaters (2014)](https://georgiebc.wordpress.com/2014/12/05/how-we-came-to-be-ruled-by-death-eaters/)
 * [2025-06-09, 10:01:38](https://news.ycombinator.com/item?id=44222836) - [Congress Passes Socialized Medicine and Mandates Health Insurance -In 1798](https://www.forbes.com/sites/rickungar/2011/01/17/congress-passes-socialized-medicine-and-mandates-health-insurance-in-1798/)
 * [2025-06-09, 08:48:56](https://news.ycombinator.com/item?id=44222527) - [So Long, Figma. Thanks for Everything](https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
@@ -21,6 +20,7 @@
 * [2025-06-08, 16:18:32](https://news.ycombinator.com/item?id=44217876) - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
 * [2025-06-08, 08:35:54](https://news.ycombinator.com/item?id=44215603) - [Gaussian integration is cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
+* [2025-06-08, 07:38:37](https://news.ycombinator.com/item?id=44215352) - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
 * [2025-06-07, 20:32:54](https://news.ycombinator.com/item?id=44212441) - [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html)
 * [2025-06-07, 17:51:51](https://news.ycombinator.com/item?id=44211273) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2025-06-05, 06:59:19](https://news.ycombinator.com/item?id=44189088) - [Generating Pixels One by One](https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/)
