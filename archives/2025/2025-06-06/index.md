@@ -53,6 +53,7 @@
 * [2025-06-06, 14:58:17](https://news.ycombinator.com/item?id=44201583) - [An Interactive Guide to Rate Limiting](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting)
 * [2025-06-06, 14:53:17](https://news.ycombinator.com/item?id=44201527) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 * [2025-06-06, 14:52:28](https://news.ycombinator.com/item?id=44201519) - [Exploring AI Integrations with Adobe Photoshop, InDesign and Premiere Pro](https://www.mikechambers.com/blog/post/2025-06-06-exploring-ai-integration-with-adobe-photoshop-indesign-and-premiere-pro/)
+* [2025-06-06, 14:15:28](https://news.ycombinator.com/item?id=44201143) - [What methylene blue can (and can’t) do for the brain](https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/)
 * [2025-06-06, 14:07:28](https://news.ycombinator.com/item?id=44201072) - [Top researchers leave Intel to build startup with 'the biggest, baddest CPU'](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html)
 * [2025-06-06, 13:48:52](https://news.ycombinator.com/item?id=44200895) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
 * [2025-06-06, 13:46:17](https://news.ycombinator.com/item?id=44200870) - [Curate Your Shell History](https://esham.io/2025/05/shell-history)

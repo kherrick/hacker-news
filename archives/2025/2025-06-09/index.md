@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 19:41:13](https://news.ycombinator.com/item?id=44228550) - [Object firing signals at Earth every 44 minutes](https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes)
 * [2025-06-09, 19:23:20](https://news.ycombinator.com/item?id=44228311) - [Universal Basic Income isn't about free money – it's about a freer life](https://medium.com/blog/universal-basic-income-isnt-about-free-money-it-s-about-a-freer-life-48dc2ea69f20)
 * [2025-06-09, 18:37:59](https://news.ycombinator.com/item?id=44227689) - [A bit more on Twitter/X's new encrypted messaging](https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/)
 * [2025-06-09, 17:59:40](https://news.ycombinator.com/item?id=44227207) - [Show HN: Somo – a human friendly alternative to netstat](https://github.com/theopfr/somo)
