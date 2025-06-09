@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-09, 05:43:13](https://news.ycombinator.com/item?id=44221695) - [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
 * [2025-06-09, 04:48:35](https://news.ycombinator.com/item?id=44221489) - [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 * [2025-06-09, 04:38:32](https://news.ycombinator.com/item?id=44221450) - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
 * [2025-06-09, 04:33:37](https://news.ycombinator.com/item?id=44221430) - [Web designs are getting too complicated](https://websmith.studio/blog/website-designs-are-getting-too-complicated/)
@@ -9,7 +10,6 @@
 * [2025-06-09, 00:04:28](https://news.ycombinator.com/item?id=44220287) - [Software Is About Promises](https://www.bramadams.dev/software-is-about-promises/)
 * [2025-06-08, 23:38:58](https://news.ycombinator.com/item?id=44220179) - [Riding high in Germany on the world's oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
 * [2025-06-08, 22:24:14](https://news.ycombinator.com/item?id=44219857) - [Self-hosted x86 back end is now default in debug mode](https://ziglang.org/devlog/2025/#2025-06-08)
-* [2025-06-08, 22:00:12](https://news.ycombinator.com/item?id=44219755) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 * [2025-06-08, 21:11:18](https://news.ycombinator.com/item?id=44219519) - [Building supercomputers for autocrats probably isn't good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
 * [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
 * [2025-06-08, 20:41:35](https://news.ycombinator.com/item?id=44219357) - [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
