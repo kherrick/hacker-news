@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
+* [2025-06-09, 06:30:52](https://news.ycombinator.com/item?id=44221900) - [The Illusion of \"The Illusion of Thinking\"](https://www.seangoedecke.com/illusion-of-thinking/)
 * [2025-06-09, 05:43:13](https://news.ycombinator.com/item?id=44221695) - [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
 * [2025-06-09, 04:48:35](https://news.ycombinator.com/item?id=44221489) - [Scientists Show Reforestation Helps Cool the Planet Even More Than Thought](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 * [2025-06-09, 04:38:32](https://news.ycombinator.com/item?id=44221450) - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
+* [2025-06-09, 06:30:52](https://news.ycombinator.com/item?id=44221900) - [The Illusion of \"The Illusion of Thinking\"](https://www.seangoedecke.com/illusion-of-thinking/)
 * [2025-06-09, 05:43:13](https://news.ycombinator.com/item?id=44221695) - [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
 * [2025-06-09, 04:48:35](https://news.ycombinator.com/item?id=44221489) - [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 * [2025-06-09, 04:38:32](https://news.ycombinator.com/item?id=44221450) - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
@@ -18,7 +20,6 @@
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
 * [2025-06-08, 08:35:54](https://news.ycombinator.com/item?id=44215603) - [Gaussian integration is cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 * [2025-06-08, 07:38:37](https://news.ycombinator.com/item?id=44215352) - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
-* [2025-06-08, 07:11:34](https://news.ycombinator.com/item?id=44215197) - [FAA to eliminate floppy disks used in air traffic control systems](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)
 * [2025-06-07, 20:32:54](https://news.ycombinator.com/item?id=44212441) - [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html)
 * [2025-06-07, 17:51:51](https://news.ycombinator.com/item?id=44211273) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2025-06-05, 07:53:14](https://news.ycombinator.com/item?id=44189391) - [How to get started with writing tech video essays](https://news.ycombinator.com/item?id=44189391)
@@ -29,7 +30,6 @@
 * [2025-06-05, 03:54:32](https://news.ycombinator.com/item?id=44188178) - [Startup Equity 101](https://quarter--mile.com/Startup-Equity-101)
 * [2025-06-05, 02:21:28](https://news.ycombinator.com/item?id=44187765) - [Panjandrum: The ‘giant firework’ built to break Hitler's Atlantic Wall](https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall)
 * [2025-06-04, 22:00:38](https://news.ycombinator.com/item?id=44186008) - [Cheap yet ultrapure titanium might enable widespread use in industry (2024)](https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp)
-* [2025-06-04, 17:32:34](https://news.ycombinator.com/item?id=44183299) - [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)
 
 ## [Archives](archives/index.md)
 
