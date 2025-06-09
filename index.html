@@ -129,6 +129,254 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44225953">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44225953"
+              >Ask HN: What API or software are people using for
+              transcription?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-09 @ 16:10:31</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44225953"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
+              >
+            </h4>
+            <div class="text">
+              What API or software are people using for transcription? If remote
+              API, would like it to be fast, cheap, and support summarization.
+              Groq actually looks good as it apparently supports remote URLs for
+              the audio file, which I actually would prefer. If local, would
+              need to work on a base M4 mini. Looking at llamafile/whisperfile,
+              as I'd want to be able to either cli batch it or use it as a local
+              API/server.
+            </div>
+          </section>
+        </section>
+        <section id="44225930">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44225930"
+              >Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced
+              Chunking</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-09 @ 16:09:03</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44225930"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://chonkie.ai">https://chonkie.ai</a>), an
+              open-source library for chunking and embedding data.
+              <p>
+                Python:
+                <a href="https://github.com/chonkie-inc/chonkie"
+                  >https://github.com/chonkie-inc/chonkie</a
+                >
+              </p>
+              <p>
+                TypeScript:
+                <a href="https://github.com/chonkie-inc/chonkie-ts"
+                  >https://github.com/chonkie-inc/chonkie-ts</a
+                >
+              </p>
+              <p>
+                Here's a video showing our code chunker:
+                <a href="https://youtu.be/Xclkh6bU1P0"
+                  >https://youtu.be/Xclkh6bU1P0</a
+                >.
+              </p>
+              <p>
+                Bhavnick and I have been building personal projects with LLMs
+                for a few years. For much of this time, we found ourselves
+                writing our own chunking logic to support RAG applications. We
+                often hesitated to use existing libraries because they either
+                had only basic features or felt too bloated (some are 80MB+).
+              </p>
+              <p>
+                We built Chonkie to be lightweight, fast, extensible, and easy.
+                The space is evolving rapidly, and we wanted Chonkie to be able
+                to quickly support the newest strategies. We currently support:
+                Token Chunking, Sentence Chunking, Recursive Chunking, Semantic
+                Chunking, plus:
+              </p>
+              <p>
+                - Semantic Double Pass Chunking: Chunks text semantically first,
+                then merges closely related chunks.
+              </p>
+              <p>
+                - Code Chunking: Chunks code files by creating an AST and
+                finding ideal split points.
+              </p>
+              <p>
+                - Late Chunking: Based on the paper (<a
+                  href="https://arxiv.org/abs/2409.04701"
+                  >https://arxiv.org/abs/2409.04701</a
+                >), where chunk embeddings are derived from embedding a longer
+                document.
+              </p>
+              <p>
+                - Slumber Chunking: Based on the "Lumber Chunking" paper (<a
+                  href="https://arxiv.org/abs/2406.17526"
+                  >https://arxiv.org/abs/2406.17526</a
+                >). It uses recursive chunking, then an LLM verifies split
+                points, aiming for high-quality chunks with reduced token usage
+                and LLM costs.
+              </p>
+              <p>
+                You can see how Chonkie compares to LangChain and LlamaIndex in
+                our benchmarks:
+                <a
+                  href="https://github.com/chonkie-inc/chonkie/blob/main/BENCHMARKS.md"
+                  >https://github.com/chonkie-inc/chonkie/blob/main/BENCHMARKS....</a
+                >
+              </p>
+              <p>
+                Some technical details about the Chonkie package: - ~15MB
+                default install vs. ~80-170MB for some alternatives. - Up to 33x
+                faster token chunking compared to LangChain and LlamaIndex in
+                our tests. - Works with major tokenizers (transformers,
+                tokenizers, tiktoken). - Zero external dependencies for basic
+                functionality. - Implements aggressive caching and
+                precomputation. - Uses running mean pooling for efficient
+                semantic chunking. - Modular dependency system (install only
+                what you need).
+              </p>
+              <p>
+                In addition to chunking, Chonkie also provides an easy way to
+                create embeddings. For supported providers (SentenceTransformer,
+                Model2Vec, OpenAI), you just specify the model name as a string.
+                You can also create custom embedding handlers for other
+                providers.
+              </p>
+              <p>
+                RAG is still the most common use case currently. However,
+                Chonkie makes chunks that are optimized for creating high
+                quality embeddings and vector retrieval, so it is not really
+                tied to the "generation" part of RAG. In fact, We're seeing more
+                and more people use Chonkie for implementing semantic search
+                and/or setting context for agents.
+              </p>
+              <p>
+                We are currently focused on building integrations to simplify
+                the retrieval process. We've created "handshakes" – thin
+                functions that interact with vector DBs like pgVector, Chroma,
+                TurboPuffer, and Qdrant, allowing you to interact with storage
+                easily. If there's an integration you'd like to see (vector DB
+                or otherwise), please let us know.
+              </p>
+              <p>
+                We also offer hosted and on-premise versions with OCR, extra
+                metadata, all embedding providers, and managed vector databases
+                for teams that want a fully managed pipeline. If you're
+                interested, reach out at shreyash@chonkie.ai or book a demo:
+                <a href="https://cal.com/shreyashn/chonkie-demo"
+                  >https://cal.com/shreyashn/chonkie-demo</a
+                >.
+              </p>
+              <p>We're eager to hear your feedback and comments! Thanks!</p>
+            </div>
+          </section>
+        </section>
+        <section id="44225922">
+          <h3>
+            <a class="item" href="https://github.com/nicksenger/glowstick"
+              >Show HN: Glowstick – type level tensor shapes in stable rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-09 @ 16:08:22</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44225922"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                In the past few years I've become more interested in machine
+                learning. Since I'm sure the same is true for many here, I
+                wanted to share this project I've been working on: glowstick
+                uses type-directed metaprogramming to keep track of tensor
+                shapes in Rust's type system and determine which operations are
+                permitted or not at compile time.
+              </p>
+              <p>
+                I find Rust has a lot of strengths when it comes to ML
+                applications, but waiting until runtime to find shape related
+                issues feels a bit strange since normally I don't run the code
+                all that often while developing. Given Rust has fancy types
+                available, I figured I'd try my hand at using them to address
+                this.
+              </p>
+              <p>
+                I've added integration crates for the two ML frameworks I use
+                most frequently, candle and burn, and included examples of
+                implementing llama 3.2 in each using typed shapes for much of
+                the model internals and inference loop. Mixtures of static and
+                dynamic dimensions should be supported well enough for most
+                applications at this point, though there are of course still
+                improvements to be made.
+              </p>
+              <p>Any feedback is appreciated!</p>
+            </div>
+          </section>
+        </section>
+        <section id="44225761">
+          <h3>
+            <a class="item" href="https://juniorrojas.com/algovivo/"
+              >Algovivo an energy-based formulation for soft-bodied virtual
+              creatures</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-09 @ 15:54:16</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44225761"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44225450">
+          <h3>
+            <a
+              class="item"
+              href="https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/"
+              >Anthropic's AI-generated blog dies an early death</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-09 @ 15:25:08</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44225450"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44225352">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=44225352"
@@ -140,11 +388,11 @@
             <h4>
               <span>2025-06-09 @ 15:16:48</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44225352"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
             <div class="text">
@@ -210,7 +458,7 @@
             <h4>
               <span>2025-06-09 @ 15:14:04</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44225324"
                   >Comments</a
@@ -224,14 +472,14 @@
             <a
               class="item"
               href="https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html"
-              >The New Gödel Prize Winner Tastes Great and Is Less Filling</a
+              >The new Gödel Prize winner tastes great and is less filling</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-06-09 @ 14:42:33</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44224996"
                   >Comments</a
@@ -252,11 +500,11 @@
             <h4>
               <span>2025-06-09 @ 14:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44224992"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -277,7 +525,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44224915"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -294,7 +542,7 @@
             <h4>
               <span>2025-06-09 @ 14:27:30</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44224874"
                   >Comments</a
@@ -309,18 +557,18 @@
               class="item"
               href="https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study"
               >Mushrooms communicate with each other using up to 50 'words',
-              scientist claims</a
+              scientist claims (2022)</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-06-09 @ 14:13:04</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44224745"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -337,11 +585,11 @@
             <h4>
               <span>2025-06-09 @ 14:06:51</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">242</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44224684"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -358,11 +606,32 @@
             <h4>
               <span>2025-06-09 @ 11:43:05</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44223448"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 190</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44222885">
+          <h3>
+            <a
+              class="item"
+              href="https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst"
+              >AI Angst</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-09 @ 10:10:18</span
+              ><span class="points-container"
+                >Points: <span class="points">109</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44222885"
+                  >Comments</a
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -398,11 +667,11 @@
             <h4>
               <span>2025-06-09 @ 07:16:26</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">277</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44222119"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -419,30 +688,11 @@
             <h4>
               <span>2025-06-09 @ 01:59:27</span
               ><span class="points-container"
-                >Points: <span class="points">354</span></span
+                >Points: <span class="points">357</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44220860"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44220583">
-          <h3>
-            <a class="item" href="https://ipv4a-5539ad.gitlab.io/"
-              >Analyzing IPv4 Trades with Gnuplot</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-09 @ 01:08:00</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44220583"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -459,7 +709,7 @@
             <h4>
               <span>2025-06-09 @ 00:04:28</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44220287"
                   >Comments</a
@@ -480,11 +730,11 @@
             <h4>
               <span>2025-06-08 @ 23:38:58</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44220179"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -502,11 +752,11 @@
             <h4>
               <span>2025-06-08 @ 23:25:41</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44220135"
                   >Comments</a
-                ><span class="descendants">: 196</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -523,7 +773,7 @@
             <h4>
               <span>2025-06-08 @ 20:49:07</span
               ><span class="points-container"
-                >Points: <span class="points">302</span></span
+                >Points: <span class="points">306</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44219405"
                   >Comments</a
@@ -542,11 +792,11 @@
             <h4>
               <span>2025-06-08 @ 20:41:35</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44219357"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -563,11 +813,11 @@
             <h4>
               <span>2025-06-08 @ 20:25:32</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44219279"
                   >Comments</a
-                ><span class="descendants">: 215</span></span
+                ><span class="descendants">: 218</span></span
               >
             </h4>
           </section>
@@ -585,46 +835,13 @@
             <h4>
               <span>2025-06-08 @ 16:18:32</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44217876"
                   >Comments</a
                 ><span class="descendants">: 163</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44217757">
-          <h3>
-            <a class="item" href="https://letsbend.de"
-              >Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-08 @ 16:00:22</span
-              ><span class="points-container"
-                >Points: <span class="points">118</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44217757"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I built a simple harmonica practice app that shows real-time
-                pitch and bending targets for each hole. It helps blues harp
-                players visualize their technique and improve intonation.
-              </p>
-              <p>No tracking, no ads, open source (MIT).</p>
-              <p>
-                The app is available on F-Droid and GitHub. You can find more
-                details here:
-                <a href="https://letsbend.de">https://letsbend.de</a>
-              </p>
-              <p>Feedback welcome!</p>
-            </div>
           </section>
         </section>
         <section id="44215603">
@@ -639,7 +856,7 @@
             <h4>
               <span>2025-06-08 @ 08:35:54</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44215603"
                   >Comments</a
@@ -664,28 +881,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44192883"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44189088">
-          <h3>
-            <a
-              class="item"
-              href="https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/"
-              >Generating Pixels One by One</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-05 @ 06:59:19</span
-              ><span class="points-container"
-                >Points: <span class="points">66</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44189088"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -703,11 +899,11 @@
             <h4>
               <span>2025-06-05 @ 04:44:37</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44188373"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -724,30 +920,11 @@
             <h4>
               <span>2025-06-05 @ 04:02:04</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44188214"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44188178">
-          <h3>
-            <a class="item" href="https://quarter--mile.com/Startup-Equity-101"
-              >Startup Equity 101</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-05 @ 03:54:32</span
-              ><span class="points-container"
-                >Points: <span class="points">178</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44188178"
-                  >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -769,50 +946,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44187765"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44186008">
-          <h3>
-            <a
-              class="item"
-              href="https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp"
-              >Cheap yet ultrapure titanium might enable widespread use in
-              industry (2024)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-04 @ 22:00:38</span
-              ><span class="points-container"
-                >Points: <span class="points">114</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44186008"
-                  >Comments</a
-                ><span class="descendants">: 92</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44183299">
-          <h3>
-            <a
-              class="item"
-              href="https://xania.org/202506/how-compiler-explorer-works"
-              >How Compiler Explorer Works in 2025</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-04 @ 17:32:34</span
-              ><span class="points-container"
-                >Points: <span class="points">190</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44183299"
-                  >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
