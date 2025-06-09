@@ -2,7 +2,6 @@
 
 * [2025-06-09, 12:38:23](https://news.ycombinator.com/item?id=44223853) - [Defiant loyalists paid dearly for choosing wrong side in the American Revolution](https://www.smithsonianmag.com/history/meet-the-defiant-loyalists-who-paid-dearly-for-choosing-the-wrong-side-in-the-american-revolution-180986716/)
 * [2025-06-09, 11:43:05](https://news.ycombinator.com/item?id=44223448) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
-* [2025-06-09, 11:17:13](https://news.ycombinator.com/item?id=44223283) - [Ex-FCC Chair Ajit Pai is now a wireless lobbyist](https://arstechnica.com/tech-policy/2025/06/ex-fcc-chair-ajit-pai-is-now-a-wireless-lobbyist-and-enemy-of-cable-companies/)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes (2019)](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
 * [2025-06-09, 04:48:35](https://news.ycombinator.com/item?id=44221489) - [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 * [2025-06-09, 01:59:27](https://news.ycombinator.com/item?id=44220860) - [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
@@ -21,7 +20,8 @@
 * [2025-06-08, 07:38:37](https://news.ycombinator.com/item?id=44215352) - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
 * [2025-06-08, 07:11:34](https://news.ycombinator.com/item?id=44215197) - [FAA to eliminate floppy disks used in air traffic control systems](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)
 * [2025-06-08, 04:17:43](https://news.ycombinator.com/item?id=44214522) - [<Blink> and <Marquee> (2020)](https://danq.me/2020/11/11/blink-and-marquee/)
-* [2025-06-05, 07:53:14](https://news.ycombinator.com/item?id=44189391) - [How to get started with writing tech video essays](https://news.ycombinator.com/item?id=44189391)
+* [2025-06-07, 21:35:44](https://news.ycombinator.com/item?id=44212845) - [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
+* [2025-06-06, 02:33:16](https://news.ycombinator.com/item?id=44197347) - [Building an AI server on a budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)
 * [2025-06-05, 06:59:19](https://news.ycombinator.com/item?id=44189088) - [Generating Pixels One by One](https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/)
 * [2025-06-05, 06:22:09](https://news.ycombinator.com/item?id=44188839) - [Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://aavetis.github.io/ai-pr-watcher/)
 * [2025-06-05, 04:44:37](https://news.ycombinator.com/item?id=44188373) - [Endangered classic Mac plastic color returns as 3D-printer filament](https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/)
