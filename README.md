@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-09, 17:44:16](https://news.ycombinator.com/item?id=44226978) - [Apple Announces Foundation Models Framework for Developers to Leverage AI](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
 * [2025-06-09, 17:25:05](https://news.ycombinator.com/item?id=44226779) - [Frederick Forsyth has died](https://www.theguardian.com/books/2025/jun/09/frederick-forsyth-day-of-the-jackal-author-and-former-mi6-agent-dies-aged-86)
 * [2025-06-09, 16:28:51](https://news.ycombinator.com/item?id=44226145) - [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
 * [2025-06-09, 16:14:26](https://news.ycombinator.com/item?id=44225988) - [Trusting your own judgement on 'AI' is a risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/)
@@ -12,8 +13,7 @@
 * [2025-06-09, 14:42:33](https://news.ycombinator.com/item?id=44224996) - [The new Gödel Prize winner tastes great and is less filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
 * [2025-06-09, 14:42:03](https://news.ycombinator.com/item?id=44224992) - [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
 * [2025-06-09, 14:33:14](https://news.ycombinator.com/item?id=44224915) - [Why quadratic funding is not optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
-* [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors Could Hack the Nervous System with Ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
-* [2025-06-09, 14:13:04](https://news.ycombinator.com/item?id=44224745) - [Mushrooms communicate with each other using up to 50 'words', scientist claims (2022)](https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study)
+* [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors could hack the nervous system with ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
 * [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 11:43:05](https://news.ycombinator.com/item?id=44223448) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 * [2025-06-09, 10:10:18](https://news.ycombinator.com/item?id=44222885) - [AI Angst](https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst)
