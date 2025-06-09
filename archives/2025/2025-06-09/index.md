@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 21:29:56](https://news.ycombinator.com/item?id=44229727) - [Google battling 'fox infestation' on roof of £1B London office](https://www.theguardian.com/uk-news/2025/jun/09/google-foxes-roof-london-kings-cross-office)
 * [2025-06-09, 21:11:33](https://news.ycombinator.com/item?id=44229533) - [Kennedy guts CDC's vaccine panel of independent experts](https://www.nbcnews.com/health/health-news/kennedy-guts-acip-cdc-vaccine-panel-rcna211935)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 * [2025-06-09, 20:33:44](https://news.ycombinator.com/item?id=44229150) - [Domains I Love](https://www.ahmedsaoudi.com/blog/domains-i-love/)
