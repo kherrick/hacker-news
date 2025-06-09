@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-09, 05:43:13",
+      "https://news.ycombinator.com/item?id=44221695"
+    ],
+    [
+      "Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs",
+      "https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 04:48:35",
       "https://news.ycombinator.com/item?id=44221489"
     ],
@@ -87,16 +97,6 @@
     [
       "Self-hosted x86 back end is now default in debug mode",
       "https://ziglang.org/devlog/2025/#2025-06-08"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 22:00:12",
-      "https://news.ycombinator.com/item?id=44219755"
-    ],
-    [
-      "Poison everywhere: No output from your MCP server is safe",
-      "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe"
     ]
   ],
   [
