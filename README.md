@@ -29,7 +29,7 @@
 * [2025-06-06, 23:44:26](https://news.ycombinator.com/item?id=44206150) - [A man rebuilding the last Inca rope bridge](https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition)
 * [2025-06-05, 15:54:28](https://news.ycombinator.com/item?id=44192883) - [The Legend of Prince's Special Custom-Font Symbol Floppy Disks](https://nymag.com/intelligencer/2016/04/princes-legendary-floppy-disk-symbol-font.html)
 * [2025-06-05, 04:44:37](https://news.ycombinator.com/item?id=44188373) - [Endangered classic Mac plastic color returns as 3D-printer filament](https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/)
-* [2025-06-05, 04:02:04](https://news.ycombinator.com/item?id=44188214) - [My first attempt at iOS app development](https://mgx.me/my-first-attempt-at-ios-app-development)
+* [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Why Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 
 ## [Archives](archives/index.md)
 

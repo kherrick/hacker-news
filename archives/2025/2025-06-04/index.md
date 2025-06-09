@@ -76,6 +76,7 @@
 * [2025-06-04, 13:30:21](https://news.ycombinator.com/item?id=44180533) - [The time bomb in the tax code that's fueling mass tech layoffs](https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502)
 * [2025-06-04, 12:55:16](https://news.ycombinator.com/item?id=44180239) - [Designing better file organization around tags, not hierarchies (2017)](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 * [2025-06-04, 12:42:33](https://news.ycombinator.com/item?id=44180126) - [Cord didn't win. What now?](https://jg.gg/2025/01/10/cord-didnt-win-what-now/)
+* [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Why Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 * [2025-06-04, 11:50:59](https://news.ycombinator.com/item?id=44179691) - [The Sky's the limit: AI automation on Mac](https://taoofmac.com/space/blog/2025/06/03/2155)
 * [2025-06-04, 11:40:22](https://news.ycombinator.com/item?id=44179604) - [Claude Code is now available to Pro plans](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan)
 * [2025-06-04, 11:25:39](https://news.ycombinator.com/item?id=44179494) - [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
