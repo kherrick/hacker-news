@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 11:17:13](https://news.ycombinator.com/item?id=44223283) - [Ex-FCC Chair Ajit Pai is now a wireless lobbyist–and enemy of cable companies](https://arstechnica.com/tech-policy/2025/06/ex-fcc-chair-ajit-pai-is-now-a-wireless-lobbyist-and-enemy-of-cable-companies/)
 * [2025-06-09, 10:13:06](https://news.ycombinator.com/item?id=44222896) - [EU OS for the Public Sector](https://eu-os.eu/)
 * [2025-06-09, 10:02:04](https://news.ycombinator.com/item?id=44222839) - [We came to be ruled by Death Eaters (2014)](https://georgiebc.wordpress.com/2014/12/05/how-we-came-to-be-ruled-by-death-eaters/)
 * [2025-06-09, 10:01:38](https://news.ycombinator.com/item?id=44222836) - [Congress Passes Socialized Medicine and Mandates Health Insurance -In 1798](https://www.forbes.com/sites/rickungar/2011/01/17/congress-passes-socialized-medicine-and-mandates-health-insurance-in-1798/)
