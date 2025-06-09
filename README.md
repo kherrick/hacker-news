@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-09, 14:42:33](https://news.ycombinator.com/item?id=44224996) - [The New Godel Prize Winner Tastes Great and Is Less Filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
+* [2025-06-09, 14:42:03](https://news.ycombinator.com/item?id=44224992) - [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
 * [2025-06-09, 14:33:14](https://news.ycombinator.com/item?id=44224915) - [Why Quadratic Funding Is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors Could Hack the Nervous System with Ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
 * [2025-06-09, 14:13:04](https://news.ycombinator.com/item?id=44224745) - [Mushrooms communicate with each other using up to 50 'words', scientist claims](https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study)
@@ -29,7 +30,6 @@
 * [2025-06-05, 04:02:04](https://news.ycombinator.com/item?id=44188214) - [My first attempt at iOS app development](https://mgx.me/my-first-attempt-at-ios-app-development)
 * [2025-06-05, 02:21:28](https://news.ycombinator.com/item?id=44187765) - [Panjandrum: The ‘giant firework’ built to break Hitler's Atlantic Wall](https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall)
 * [2025-06-04, 22:00:38](https://news.ycombinator.com/item?id=44186008) - [Cheap yet ultrapure titanium might enable widespread use in industry (2024)](https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp)
-* [2025-06-04, 17:32:34](https://news.ycombinator.com/item?id=44183299) - [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
 * [2025-06-09, 14:42:33](https://news.ycombinator.com/item?id=44224996) - [The New Godel Prize Winner Tastes Great and Is Less Filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
+* [2025-06-09, 14:42:03](https://news.ycombinator.com/item?id=44224992) - [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
 * [2025-06-09, 14:33:14](https://news.ycombinator.com/item?id=44224915) - [Why Quadratic Funding Is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors Could Hack the Nervous System with Ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
 * [2025-06-09, 14:13:04](https://news.ycombinator.com/item?id=44224745) - [Mushrooms communicate with each other using up to 50 'words', scientist claims](https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study)
