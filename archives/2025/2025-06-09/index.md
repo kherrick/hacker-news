@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 15:34:29](https://news.ycombinator.com/item?id=44225543) - [Vibe code isn't meant to be reviewed](https://monadical.com/posts/vibe-code-how-to-stay-in-control.html)
+* [2025-06-09, 15:16:48](https://news.ycombinator.com/item?id=44225352) - [Show HN: Most users won't report bugs unless you make it stupidly easy](https://news.ycombinator.com/item?id=44225352)
 * [2025-06-09, 15:14:04](https://news.ycombinator.com/item?id=44225324) - [Maypole Dance of Braid Like Groups](https://divisbyzero.com/2009/05/04/the-maypole-braid-group/)
 * [2025-06-09, 14:42:33](https://news.ycombinator.com/item?id=44224996) - [The New Godel Prize Winner Tastes Great and Is Less Filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
 * [2025-06-09, 14:42:03](https://news.ycombinator.com/item?id=44224992) - [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)

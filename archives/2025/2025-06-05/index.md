@@ -47,6 +47,7 @@
 * [2025-06-05, 16:10:13](https://news.ycombinator.com/item?id=44193018) - [I think I'm done thinking about GenAI for now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 * [2025-06-05, 16:07:03](https://news.ycombinator.com/item?id=44192995) - [Seven Days at the Bin Store](https://defector.com/seven-days-at-the-bin-store)
 * [2025-06-05, 16:02:54](https://news.ycombinator.com/item?id=44192955) - [Understanding the PURL Specification (Package URL)](https://fossa.com/blog/understanding-purl-specification-package-url/)
+* [2025-06-05, 15:54:28](https://news.ycombinator.com/item?id=44192883) - [The Legend of Prince's Special Custom-Font Symbol Floppy Disks](https://nymag.com/intelligencer/2016/04/princes-legendary-floppy-disk-symbol-font.html)
 * [2025-06-05, 15:49:16](https://news.ycombinator.com/item?id=44192837) - [Extreme Super-Resolution via Scale Autoregression and Preference Alignment](https://arxiv.org/abs/2505.18600)
 * [2025-06-05, 15:09:32](https://news.ycombinator.com/item?id=44192443) - [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)
 * [2025-06-05, 14:47:03](https://news.ycombinator.com/item?id=44192206) - [Are we the sexbots? Tech vs. consent](https://joelmorris.substack.com/p/are-we-the-sexbots-tech-vs-consent)
