@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-09, 21:29:56](https://news.ycombinator.com/item?id=44229727) - [Google battling 'fox infestation' on roof of £1B London office](https://www.theguardian.com/uk-news/2025/jun/09/google-foxes-roof-london-kings-cross-office)
 * [2025-06-09, 21:11:33](https://news.ycombinator.com/item?id=44229533) - [Kennedy guts CDC's vaccine panel of independent experts](https://www.nbcnews.com/health/health-news/kennedy-guts-acip-cdc-vaccine-panel-rcna211935)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 * [2025-06-09, 20:33:44](https://news.ycombinator.com/item?id=44229150) - [Domains I Love](https://www.ahmedsaoudi.com/blog/domains-i-love/)
@@ -23,6 +22,7 @@
 * [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 11:43:05](https://news.ycombinator.com/item?id=44223448) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes (2019)](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
+* [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
 * [2025-06-06, 23:44:26](https://news.ycombinator.com/item?id=44206150) - [A man rebuilding the last Inca rope bridge](https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition)
 * [2025-06-06, 14:15:28](https://news.ycombinator.com/item?id=44201143) - [What methylene blue can (and can’t) do for the brain](https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/)
 * [2025-06-06, 12:38:16](https://news.ycombinator.com/item?id=44200240) - [Pi in Pascal's Triangle](https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml)
