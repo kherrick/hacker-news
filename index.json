@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-09, 21:29:56",
+      "https://news.ycombinator.com/item?id=44229727"
+    ],
+    [
+      "Google battling 'fox infestation' on roof of £1B London office",
+      "https://www.theguardian.com/uk-news/2025/jun/09/google-foxes-roof-london-kings-cross-office"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 21:11:33",
       "https://news.ycombinator.com/item?id=44229533"
     ],
@@ -77,16 +87,6 @@
     [
       "Show HN: Munal OS: a graphical experimental OS with WASM sandboxing",
       "https://github.com/Askannz/munal-os"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 17:25:05",
-      "https://news.ycombinator.com/item?id=44226779"
-    ],
-    [
-      "Frederick Forsyth has died",
-      "https://www.theguardian.com/books/2025/jun/09/frederick-forsyth-day-of-the-jackal-author-and-former-mi6-agent-dies-aged-86"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-06-08, 20:49:07",
-      "https://news.ycombinator.com/item?id=44219405"
-    ],
-    [
-      "Why Android can't use CDC Ethernet (2023)",
-      "https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 23:44:26",
       "https://news.ycombinator.com/item?id=44206150"
     ],
@@ -267,6 +257,16 @@
     [
       "Pi in Pascal's Triangle",
       "https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 01:10:23",
+      "https://news.ycombinator.com/item?id=44197007"
+    ],
+    [
+      "How do you prototype a nice language?",
+      "https://kevinlynagh.com/newsletter/2025_06_03_prototyping_a_language/"
     ]
   ],
   [
