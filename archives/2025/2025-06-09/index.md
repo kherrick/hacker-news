@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 21:11:33](https://news.ycombinator.com/item?id=44229533) - [Kennedy guts CDC's vaccine panel of independent experts](https://www.nbcnews.com/health/health-news/kennedy-guts-acip-cdc-vaccine-panel-rcna211935)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
+* [2025-06-09, 20:33:44](https://news.ycombinator.com/item?id=44229150) - [Domains I Love](https://www.ahmedsaoudi.com/blog/domains-i-love/)
 * [2025-06-09, 20:28:28](https://news.ycombinator.com/item?id=44229085) - [Report claims voting machines were tampered with before 2024 elections](https://www.msn.com/en-in/news/world/kamala-harris-won-the-u-s-elections-bombshell-report-claims-voting-machines-were-tampered-with-before-2024/ar-AA1GnteW)
 * [2025-06-09, 19:41:13](https://news.ycombinator.com/item?id=44228550) - [Object firing signals at Earth every 44 minutes](https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes)
 * [2025-06-09, 19:23:20](https://news.ycombinator.com/item?id=44228311) - [Universal Basic Income isn't about free money – it's about a freer life](https://medium.com/blog/universal-basic-income-isnt-about-free-money-it-s-about-a-freer-life-48dc2ea69f20)
