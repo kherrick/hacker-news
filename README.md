@@ -19,7 +19,7 @@
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors could hack the nervous system with ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
 * [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 11:43:05](https://news.ycombinator.com/item?id=44223448) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
-* [2025-06-09, 11:06:37](https://news.ycombinator.com/item?id=44223212) - [The child-like role of dogs in Western societies](https://econtent.hogrefe.com/doi/10.1027/1016-9040/a000552)
+* [2025-06-09, 07:53:15](https://news.ycombinator.com/item?id=44222299) - [CoverDrop: A secure messaging system for newsreader apps](https://github.com/guardian/coverdrop)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes (2019)](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
 * [2025-06-08, 23:38:58](https://news.ycombinator.com/item?id=44220179) - [Riding high in Germany on the world's oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
 * [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
