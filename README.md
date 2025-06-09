@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-09, 21:42:25](https://news.ycombinator.com/item?id=44229841) - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
 * [2025-06-09, 21:35:07](https://news.ycombinator.com/item?id=44229778) - [RFK Jr. ousts entire CDC vaccine advisory committee](https://apnews.com/article/kennedy-cdc-acip-vaccines-3790c89f45b6314c5c7b686db0e3a8f9)
+* [2025-06-09, 21:25:44](https://news.ycombinator.com/item?id=44229694) - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 * [2025-06-09, 20:33:44](https://news.ycombinator.com/item?id=44229150) - [Domains I Love](https://www.ahmedsaoudi.com/blog/domains-i-love/)
 * [2025-06-09, 19:41:13](https://news.ycombinator.com/item?id=44228550) - [Astronomers have discovered a mysterious object flashing signals from deep space](https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes)
@@ -22,12 +24,10 @@
 * [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 11:43:05](https://news.ycombinator.com/item?id=44223448) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes (2019)](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
-* [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
 * [2025-06-06, 23:44:26](https://news.ycombinator.com/item?id=44206150) - [A man rebuilding the last Inca rope bridge](https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition)
 * [2025-06-06, 14:15:28](https://news.ycombinator.com/item?id=44201143) - [What methylene blue can (and can’t) do for the brain](https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/)
 * [2025-06-06, 12:38:16](https://news.ycombinator.com/item?id=44200240) - [Pi in Pascal's Triangle](https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml)
 * [2025-06-06, 01:10:23](https://news.ycombinator.com/item?id=44197007) - [How do you prototype a nice language?](https://kevinlynagh.com/newsletter/2025_06_03_prototyping_a_language/)
-* [2025-06-05, 23:19:41](https://news.ycombinator.com/item?id=44196542) - [Potential and Limitation of High-Frequency Cores and Caches (2024)](https://arch.cs.ucdavis.edu/simulation/2024/08/06/potentiallimitationhighfreqcorescaches.html)
 * [2025-06-05, 21:05:08](https://news.ycombinator.com/item?id=44195768) - [Myanmar's chinlone ball sport threatened by conflict and rattan shortages](https://www.aljazeera.com/gallery/2025/6/5/myanmars-chinlone-ball-sport-threatened-by-conflict-and-rattan-shortages)
 * [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 
