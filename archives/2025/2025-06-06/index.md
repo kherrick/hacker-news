@@ -25,6 +25,7 @@
 * [2025-06-06, 19:30:29](https://news.ycombinator.com/item?id=44204181) - [Show HN: AI game animation sprite generator](https://www.godmodeai.cloud/ai-sprite-generator)
 * [2025-06-06, 19:28:51](https://news.ycombinator.com/item?id=44204162) - [How many trees are there in the North American boreal forest?](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.07677)
 * [2025-06-06, 19:28:29](https://news.ycombinator.com/item?id=44204155) - [Switching to Mojo gave a 14% improvement over CUDA](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
+* [2025-06-06, 18:57:33](https://news.ycombinator.com/item?id=44203883) - [The Brilliant Milky Way Connects Photographers in an Annual Contest](https://www.thisiscolossal.com/2025/05/milky-way-photographer-2025/)
 * [2025-06-06, 18:56:03](https://news.ycombinator.com/item?id=44203870) - [A Rippling Townhouse Facade by Alex Chinneck Takes a Seat in a London Square](https://www.thisiscolossal.com/2025/05/alex-chinneck-a-week-at-the-knees/)
 * [2025-06-06, 18:38:36](https://news.ycombinator.com/item?id=44203732) - [Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks](https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks)
 * [2025-06-06, 18:18:36](https://news.ycombinator.com/item?id=44203562) - [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
