@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 12:38:23](https://news.ycombinator.com/item?id=44223853) - [Defiant loyalists paid dearly for choosing wrong side in the American Revolution](https://www.smithsonianmag.com/history/meet-the-defiant-loyalists-who-paid-dearly-for-choosing-the-wrong-side-in-the-american-revolution-180986716/)
 * [2025-06-09, 11:43:05](https://news.ycombinator.com/item?id=44223448) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 * [2025-06-09, 11:17:13](https://news.ycombinator.com/item?id=44223283) - [Ex-FCC Chair Ajit Pai is now a wireless lobbyist–and enemy of cable companies](https://arstechnica.com/tech-policy/2025/06/ex-fcc-chair-ajit-pai-is-now-a-wireless-lobbyist-and-enemy-of-cable-companies/)
 * [2025-06-09, 10:13:06](https://news.ycombinator.com/item?id=44222896) - [EU OS for the Public Sector](https://eu-os.eu/)
+* [2025-06-09, 10:10:18](https://news.ycombinator.com/item?id=44222885) - [AI Angst](https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst)
 * [2025-06-09, 10:02:04](https://news.ycombinator.com/item?id=44222839) - [We came to be ruled by Death Eaters (2014)](https://georgiebc.wordpress.com/2014/12/05/how-we-came-to-be-ruled-by-death-eaters/)
 * [2025-06-09, 10:01:38](https://news.ycombinator.com/item?id=44222836) - [Congress Passes Socialized Medicine and Mandates Health Insurance -In 1798](https://www.forbes.com/sites/rickungar/2011/01/17/congress-passes-socialized-medicine-and-mandates-health-insurance-in-1798/)
 * [2025-06-09, 08:48:56](https://news.ycombinator.com/item?id=44222527) - [So Long, Figma. Thanks for Everything](https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c)
