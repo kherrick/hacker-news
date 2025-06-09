@@ -68,6 +68,7 @@
 * [2025-06-05, 07:59:21](https://news.ycombinator.com/item?id=44189426) - [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
 * [2025-06-05, 07:42:25](https://news.ycombinator.com/item?id=44189329) - [Air Lab – A portable and open air quality measuring device](https://networkedartifacts.com/airlab/simulator)
 * [2025-06-05, 06:59:19](https://news.ycombinator.com/item?id=44189088) - [Generating Pixels One by One](https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/)
+* [2025-06-05, 06:22:09](https://news.ycombinator.com/item?id=44188839) - [Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://aavetis.github.io/ai-pr-watcher/)
 * [2025-06-05, 05:31:19](https://news.ycombinator.com/item?id=44188562) - [A new Pitt study has upended decades-old assumptions about brain plasticity](https://www.pittwire.pitt.edu/accolades-honors/2025/06/03/neuroscience-synaptic-transmission-science-advances)
 * [2025-06-05, 04:44:37](https://news.ycombinator.com/item?id=44188373) - [Endangered classic Mac plastic color returns as 3D-printer filament](https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/)
 * [2025-06-05, 04:09:00](https://news.ycombinator.com/item?id=44188248) - [End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation)

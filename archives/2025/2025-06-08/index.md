@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 23:38:58](https://news.ycombinator.com/item?id=44220179) - [Riding high in Germany on the world's oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
 * [2025-06-08, 23:25:41](https://news.ycombinator.com/item?id=44220135) - [I Used AI-Powered Calorie Counting Apps, and They Were Even Worse Than Expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
+* [2025-06-08, 23:20:03](https://news.ycombinator.com/item?id=44220110) - [Ask HN: In 15 years, what will a gas station visit look like?](https://news.ycombinator.com/item?id=44220110)
 * [2025-06-08, 22:26:43](https://news.ycombinator.com/item?id=44219871) - [OpenBSD IO Benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
+* [2025-06-08, 22:24:14](https://news.ycombinator.com/item?id=44219857) - [Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode](https://ziglang.org/devlog/2025/#2025-06-08)
 * [2025-06-08, 22:00:12](https://news.ycombinator.com/item?id=44219755) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 * [2025-06-08, 21:11:18](https://news.ycombinator.com/item?id=44219519) - [Building supercomputers for autocrats probably isn't good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
 * [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
