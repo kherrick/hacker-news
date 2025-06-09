@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-06-09, 14:42:33",
+      "https://news.ycombinator.com/item?id=44224996"
+    ],
+    [
+      "The New Godel Prize Winner Tastes Great and Is Less Filling",
+      "https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 14:33:14",
+      "https://news.ycombinator.com/item?id=44224915"
+    ],
+    [
+      "Why Quadratic Funding Is Not Optimal",
+      "https://jonathanwarden.com/quadratic-funding-is-not-optimal/"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 14:27:30",
+      "https://news.ycombinator.com/item?id=44224874"
+    ],
+    [
+      "Doctors Could Hack the Nervous System with Ultrasound",
+      "https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 14:13:04",
+      "https://news.ycombinator.com/item?id=44224745"
+    ],
+    [
+      "Mushrooms communicate with each other using up to 50 'words', scientist claims",
+      "https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 14:06:51",
       "https://news.ycombinator.com/item?id=44224684"
     ],
     [
       "Bruteforcing the phone number of any Google user",
       "https://brutecat.com/articles/leaking-google-phones"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 13:48:39",
+      "https://news.ycombinator.com/item?id=44224508"
+    ],
+    [
+      "What Is OAuth and How Does It Work?",
+      "https://fusionauth.io/articles/oauth/modern-guide-to-oauth"
     ]
   ],
   [
@@ -31,12 +81,32 @@
   ],
   [
     [
+      "2025-06-09, 11:06:37",
+      "https://news.ycombinator.com/item?id=44223212"
+    ],
+    [
+      "The Child-Like Role of Dogs in Western Societies",
+      "https://econtent.hogrefe.com/doi/10.1027/1016-9040/a000552"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 10:10:18",
       "https://news.ycombinator.com/item?id=44222885"
     ],
     [
       "AI Angst",
       "https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 07:53:15",
+      "https://news.ycombinator.com/item?id=44222299"
+    ],
+    [
+      "CoverDrop: A secure messaging system for newsreader apps",
+      "https://github.com/guardian/coverdrop"
     ]
   ],
   [
@@ -101,16 +171,6 @@
   ],
   [
     [
-      "2025-06-08, 21:11:18",
-      "https://news.ycombinator.com/item?id=44219519"
-    ],
-    [
-      "Building supercomputers for autocrats probably isn't good for democracy",
-      "https://helentoner.substack.com/p/supercomputers-for-autocrats"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 20:49:07",
       "https://news.ycombinator.com/item?id=44219405"
     ],
@@ -137,16 +197,6 @@
     [
       "What happens when people don't understand how AI works",
       "https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 20:22:33",
-      "https://news.ycombinator.com/item?id=44219270"
-    ],
-    [
-      "The wire that transforms much of Manhattan into one big, symbolic home (2017)",
-      "https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home"
     ]
   ],
   [
@@ -181,16 +231,6 @@
   ],
   [
     [
-      "2025-06-08, 07:38:37",
-      "https://news.ycombinator.com/item?id=44215352"
-    ],
-    [
-      "The last six months in LLMs, illustrated by pelicans on bicycles",
-      "https://simonwillison.net/2025/Jun/6/six-months-in-llms/"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 07:11:34",
       "https://news.ycombinator.com/item?id=44215197"
     ],
@@ -201,42 +241,12 @@
   ],
   [
     [
-      "2025-06-08, 04:17:43",
-      "https://news.ycombinator.com/item?id=44214522"
-    ],
-    [
-      "<Blink> and <Marquee> (2020)",
-      "https://danq.me/2020/11/11/blink-and-marquee/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 02:33:16",
-      "https://news.ycombinator.com/item?id=44197347"
-    ],
-    [
-      "Building an AI server on a budget",
-      "https://www.informationga.in/blog/building-an-ai-server-on-a-budget"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 06:59:19",
       "https://news.ycombinator.com/item?id=44189088"
     ],
     [
       "Generating Pixels One by One",
       "https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 06:22:09",
-      "https://news.ycombinator.com/item?id=44188839"
-    ],
-    [
-      "Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance",
-      "https://aavetis.github.io/ai-pr-watcher/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "My first attempt at iOS app development",
       "https://mgx.me/my-first-attempt-at-ios-app-development"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 03:54:32",
-      "https://news.ycombinator.com/item?id=44188178"
-    ],
-    [
-      "Startup Equity 101",
-      "https://quarter--mile.com/Startup-Equity-101"
     ]
   ],
   [
