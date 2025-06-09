@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 16:28:51](https://news.ycombinator.com/item?id=44226145) - [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
+* [2025-06-09, 16:14:26](https://news.ycombinator.com/item?id=44225988) - [Trusting your own judgement on 'AI' is a risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/)
 * [2025-06-09, 16:10:31](https://news.ycombinator.com/item?id=44225953) - [Ask HN: What API or software are people using for transcription?](https://news.ycombinator.com/item?id=44225953)
 * [2025-06-09, 16:09:03](https://news.ycombinator.com/item?id=44225930) - [Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking](https://news.ycombinator.com/item?id=44225930)
 * [2025-06-09, 16:08:22](https://news.ycombinator.com/item?id=44225922) - [Show HN: Glowstick – type level tensor shapes in stable rust](https://github.com/nicksenger/glowstick)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 23:44:26](https://news.ycombinator.com/item?id=44206150) - [A man rebuilding the last Inca rope bridge](https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition)
 * [2025-06-06, 23:15:46](https://news.ycombinator.com/item?id=44206007) - [Dear High Schoolers, Time Is Precious](https://byronsharman.com/blog/dear-high-schoolers)
 * [2025-06-06, 23:11:44](https://news.ycombinator.com/item?id=44205976) - [Higher education is shockingly right-wing](https://drafts.interfluidity.com/2023/03/01/higher-education-is-shockingly-right-wing/index.html)
 * [2025-06-06, 22:36:33](https://news.ycombinator.com/item?id=44205718) - [What \"Working\" Means in the Era of AI Apps](https://a16z.com/revenue-benchmarks-ai-apps/)

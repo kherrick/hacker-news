@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-09, 16:28:51](https://news.ycombinator.com/item?id=44226145) - [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
+* [2025-06-09, 16:14:26](https://news.ycombinator.com/item?id=44225988) - [Trusting your own judgement on 'AI' is a risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/)
 * [2025-06-09, 16:10:31](https://news.ycombinator.com/item?id=44225953) - [Ask HN: What API or software are people using for transcription?](https://news.ycombinator.com/item?id=44225953)
 * [2025-06-09, 16:09:03](https://news.ycombinator.com/item?id=44225930) - [Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking](https://news.ycombinator.com/item?id=44225930)
 * [2025-06-09, 16:08:22](https://news.ycombinator.com/item?id=44225922) - [Show HN: Glowstick – type level tensor shapes in stable rust](https://github.com/nicksenger/glowstick)
 * [2025-06-09, 15:54:16](https://news.ycombinator.com/item?id=44225761) - [Algovivo an energy-based formulation for soft-bodied virtual creatures](https://juniorrojas.com/algovivo/)
 * [2025-06-09, 15:25:08](https://news.ycombinator.com/item?id=44225450) - [Anthropic's AI-generated blog dies an early death](https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/)
-* [2025-06-09, 15:16:48](https://news.ycombinator.com/item?id=44225352) - [Show HN: Most users won't report bugs unless you make it stupidly easy](https://news.ycombinator.com/item?id=44225352)
 * [2025-06-09, 15:14:04](https://news.ycombinator.com/item?id=44225324) - [Maypole Dance of Braid Like Groups](https://divisbyzero.com/2009/05/04/the-maypole-braid-group/)
 * [2025-06-09, 14:42:33](https://news.ycombinator.com/item?id=44224996) - [The new Gödel Prize winner tastes great and is less filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
 * [2025-06-09, 14:42:03](https://news.ycombinator.com/item?id=44224992) - [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
@@ -25,11 +26,10 @@
 * [2025-06-08, 20:41:35](https://news.ycombinator.com/item?id=44219357) - [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
 * [2025-06-08, 20:25:32](https://news.ycombinator.com/item?id=44219279) - [What happens when people don't understand how AI works](https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/)
 * [2025-06-08, 16:18:32](https://news.ycombinator.com/item?id=44217876) - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
-* [2025-06-08, 08:35:54](https://news.ycombinator.com/item?id=44215603) - [Gaussian integration is cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
+* [2025-06-06, 23:44:26](https://news.ycombinator.com/item?id=44206150) - [A man rebuilding the last Inca rope bridge](https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition)
 * [2025-06-05, 15:54:28](https://news.ycombinator.com/item?id=44192883) - [The Legend of Prince's Special Custom-Font Symbol Floppy Disks](https://nymag.com/intelligencer/2016/04/princes-legendary-floppy-disk-symbol-font.html)
 * [2025-06-05, 04:44:37](https://news.ycombinator.com/item?id=44188373) - [Endangered classic Mac plastic color returns as 3D-printer filament](https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/)
 * [2025-06-05, 04:02:04](https://news.ycombinator.com/item?id=44188214) - [My first attempt at iOS app development](https://mgx.me/my-first-attempt-at-ios-app-development)
-* [2025-06-05, 02:21:28](https://news.ycombinator.com/item?id=44187765) - [Panjandrum: The ‘giant firework’ built to break Hitler's Atlantic Wall](https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall)
 
 ## [Archives](archives/index.md)
 
