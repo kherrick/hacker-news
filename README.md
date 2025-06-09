@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-09, 10:13:06](https://news.ycombinator.com/item?id=44222896) - [EU OS for the Public Sector](https://eu-os.eu/)
 * [2025-06-09, 10:01:38](https://news.ycombinator.com/item?id=44222836) - [Congress Passes Socialized Medicine and Mandates Health Insurance -In 1798](https://www.forbes.com/sites/rickungar/2011/01/17/congress-passes-socialized-medicine-and-mandates-health-insurance-in-1798/)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
 * [2025-06-09, 06:30:52](https://news.ycombinator.com/item?id=44221900) - [The Illusion of “The Illusion of Thinking”](https://www.seangoedecke.com/illusion-of-thinking/)
@@ -22,7 +23,6 @@
 * [2025-06-08, 07:38:37](https://news.ycombinator.com/item?id=44215352) - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
 * [2025-06-07, 20:32:54](https://news.ycombinator.com/item?id=44212441) - [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html)
 * [2025-06-07, 17:51:51](https://news.ycombinator.com/item?id=44211273) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
-* [2025-06-05, 07:53:14](https://news.ycombinator.com/item?id=44189391) - [How to get started with writing tech video essays](https://news.ycombinator.com/item?id=44189391)
 * [2025-06-05, 06:59:19](https://news.ycombinator.com/item?id=44189088) - [Generating Pixels One by One](https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/)
 * [2025-06-05, 06:22:09](https://news.ycombinator.com/item?id=44188839) - [Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://aavetis.github.io/ai-pr-watcher/)
 * [2025-06-05, 04:44:37](https://news.ycombinator.com/item?id=44188373) - [Endangered classic Mac plastic color returns as 3D-printer filament](https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/)
