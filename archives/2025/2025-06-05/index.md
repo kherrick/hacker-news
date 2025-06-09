@@ -6,6 +6,7 @@
 
 * [2025-06-05, 23:29:35](https://news.ycombinator.com/item?id=44196589) - [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
 * [2025-06-05, 23:26:19](https://news.ycombinator.com/item?id=44196576) - [I Do Not Remember My Life and It's Fine](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
+* [2025-06-05, 23:19:41](https://news.ycombinator.com/item?id=44196542) - [Potential and Limitation of High-Frequency Cores and Caches (2024)](https://arch.cs.ucdavis.edu/simulation/2024/08/06/potentiallimitationhighfreqcorescaches.html)
 * [2025-06-05, 22:57:16](https://news.ycombinator.com/item?id=44196433) - [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
 * [2025-06-05, 22:53:21](https://news.ycombinator.com/item?id=44196417) - [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
 * [2025-06-05, 22:51:52](https://news.ycombinator.com/item?id=44196410) - [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language)
