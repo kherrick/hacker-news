@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-10, 04:57:52](https://news.ycombinator.com/item?id=44232699) - [Micrographia (1665) [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf)
 * [2025-06-10, 04:04:41](https://news.ycombinator.com/item?id=44232371) - [Scientific Papers: Innovation or Imitation?](https://www.johndcook.com/blog/2025/06/05/scientific-papers-innovation-or-imitation/)
 * [2025-06-10, 01:48:07](https://news.ycombinator.com/item?id=44231649) - [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
 * [2025-06-10, 01:36:39](https://news.ycombinator.com/item?id=44231594) - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
@@ -22,13 +23,12 @@
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors could hack the nervous system with ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
 * [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-07, 06:53:41](https://news.ycombinator.com/item?id=44207943) - [Working with the EPA to Secure Exposed Water HMIs](https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis)
-* [2025-06-06, 18:56:03](https://news.ycombinator.com/item?id=44203870) - [A Rippling Townhouse Facade by Alex Chinneck Takes a Seat in a London Square](https://www.thisiscolossal.com/2025/05/alex-chinneck-a-week-at-the-knees/)
 * [2025-06-06, 17:18:51](https://news.ycombinator.com/item?id=44203014) - [Debugging Azure Networking for Elastic Cloud Serverless](https://www.elastic.co/observability-labs/blog/debugging-aks-packet-loss)
 * [2025-06-06, 14:26:35](https://news.ycombinator.com/item?id=44201267) - [JavaScript await was rogue rogue along](https://codedynasty.dev/posts/Javascript-await-was-rogue-all-along)
 * [2025-06-06, 14:15:28](https://news.ycombinator.com/item?id=44201143) - [What methylene blue can (and can’t) do for the brain](https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/)
 * [2025-06-06, 12:38:16](https://news.ycombinator.com/item?id=44200240) - [Pi in Pascal's Triangle (2014)](https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml)
 * [2025-06-06, 10:20:50](https://news.ycombinator.com/item?id=44199408) - [Show HN: An open-source rhythm dungeon crawler in 16 x 9 pixels](https://github.com/jgalecki/qrawl-tiny-mass-disco)
-* [2025-06-06, 02:47:53](https://news.ycombinator.com/item?id=44197409) - [The Lexiconia Codex: A fantasy story that teaches you LLM buzzwords](https://medium.com/@isranimohit/the-lexiconia-codex-a-fantasy-story-that-teaches-you-every-llm-buzzword-3b7f6eb23da9)
+* [2025-06-06, 08:06:28](https://news.ycombinator.com/item?id=44198751) - [Apps shouldn't let users enter OpenSSL cipher-suite strings](https://00f.net/2025/06/06/cipher-suites/)
 * [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 
 ## [Archives](archives/index.md)

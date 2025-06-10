@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 04:57:52](https://news.ycombinator.com/item?id=44232699) - [Micrographia (1665) [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf)
 * [2025-06-10, 04:04:41](https://news.ycombinator.com/item?id=44232371) - [Scientific Papers: Innovation or Imitation?](https://www.johndcook.com/blog/2025/06/05/scientific-papers-innovation-or-imitation/)
 * [2025-06-10, 01:48:07](https://news.ycombinator.com/item?id=44231649) - [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
 * [2025-06-10, 01:36:39](https://news.ycombinator.com/item?id=44231594) - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
