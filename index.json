@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-10, 00:21:40",
+      "https://news.ycombinator.com/item?id=44231151"
+    ],
+    [
+      "Las Vegas is embracing a simple climate solution: More trees",
+      "https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 23:36:23",
+      "https://news.ycombinator.com/item?id=44230838"
+    ],
+    [
+      "Why agents are bad pair programmers",
+      "https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 21:42:25",
       "https://news.ycombinator.com/item?id=44229841"
     ],
@@ -47,16 +67,6 @@
     [
       "Container: Apple's Linux-Container Runtime",
       "https://github.com/apple/container"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 19:41:13",
-      "https://news.ycombinator.com/item?id=44228550"
-    ],
-    [
-      "Astronomers have discovered a mysterious object flashing signals from deep space",
-      "https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-06-09, 11:43:05",
-      "https://news.ycombinator.com/item?id=44223448"
-    ],
-    [
-      "LLMs are cheap",
-      "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 07:16:26",
       "https://news.ycombinator.com/item?id=44222119"
     ],
@@ -237,16 +237,6 @@
     [
       "A man rebuilding the last Inca rope bridge",
       "https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 18:57:33",
-      "https://news.ycombinator.com/item?id=44203883"
-    ],
-    [
-      "The Brilliant Milky Way Connects Photographers in an Annual Contest",
-      "https://www.thisiscolossal.com/2025/05/milky-way-photographer-2025/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Pi in Pascal's Triangle (2014)",
       "https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 10:20:50",
+      "https://news.ycombinator.com/item?id=44199408"
+    ],
+    [
+      "Show HN: An open-source rhythm dungeon crawler in 16 x 9 pixels",
+      "https://github.com/jgalecki/qrawl-tiny-mass-disco"
     ]
   ],
   [
