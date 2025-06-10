@@ -129,6 +129,148 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44237769">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44237769"
+              >Launch HN: BitBoard (YC X25) – AI agents for healthcare
+              back-offices</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-10 @ 15:09:30</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44237769"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://bitboard.work">https://bitboard.work</a>). We
+              build AI agents that handle repetitive administrative tasks in
+              healthcare clinics like filling out intake forms, prepping charts,
+              or managing referrals.
+              <p>
+                We were early employees at Forward, which provided primary care
+                across the US. To scale this, we relied on thousands of remote
+                contractors to do repetitive administrative work like
+                reconciling patient records, and scheduling follow-ups based on
+                care plans. It was a huge bottleneck—expensive, error-prone, and
+                always pulling attention away from clinical care. Our software
+                solutions were always too brittle, never managing to handle the
+                variance of clinical data we oversaw.
+              </p>
+              <p>
+                AI, when applied well, is capable of performing a lot of the
+                tasks we manually did. So we decided to take another crack at
+                the problem by building today what we would have liked to have
+                back then, and to help clinics use it.
+              </p>
+              <p>
+                Clinics send us their SOPs (Standard Operating Procedures—for
+                example, “prep a patient chart from these records before a
+                visit”), and we turn them into AI agents that do the work. These
+                agents act like remote contractors: they log into EHRs, navigate
+                internal tools, and do the work in the background. Unlike
+                classical RPA, we build in verification and deterministic
+                checks, so customers can confirm it was done right. Unlike
+                low-code tools, there’s nothing new to learn. Customers don’t
+                have to touch a UI or maintain logic. They just hand us the
+                task, and we do it. Clinicians don’t want more screens! They
+                erode attention and cause weird bottlenecks in operations
+                because someone has to drive them. Our product is built to
+                address this.
+              </p>
+              <p>
+                Here’s a demo video:
+                <a href="https://www.youtube.com/watch?v=t_tQ0fYo85g"
+                  >https://www.youtube.com/watch?v=t_tQ0fYo85g</a
+                >. We’re not self-serve yet, but we deploy with customers in
+                days after onboarding them. We’re working on speeding that up.
+              </p>
+              <p>
+                One of our early customers is a fast-growing obesity medicine
+                group. Their MAs were spending 15 to 20 minutes per patient just
+                entering intake form data into the EHR. That one task was taking
+                up 30% of their MA time. We took it over in a week. It’s now
+                fully automated, and they’ve cleared the backlog and sped up
+                visits.
+              </p>
+              <p>
+                A few technical problems are specifically relevant to building
+                healthcare agents:
+              </p>
+              <p>
+                - Unreliable interfaces: many EHRs and clinic tools don’t follow
+                modern web standards, making automation brittle. We’ve forked
+                browser-use to solve some of these challenges. We’re working on
+                analogous infrastructure to let agents operate on desktops and
+                across a wide range of APIs.
+              </p>
+              <p>
+                - Verification: in healthcare, tasks need to be provably
+                correct. We embed deterministic checks into each workflow so
+                agents can confirm the task was completed as expected and the
+                output is accurate.
+              </p>
+              <p>
+                - Workflow generation: clinic SOPs are written in natural
+                language and vary widely, yet still describe the actual process
+                that works for clinics.
+              </p>
+              <p>
+                We charge per task, based on complexity. We’re HIPAA compliant,
+                audit-logged, and operate in a zero-retention environment unless
+                auditing requires otherwise.
+              </p>
+              <p>
+                A meaningful part is building trust in a high-stakes environment
+                like healthcare. Part of that is making the product reliable.
+                But another educational part is learning how to introduce a new
+                concept like “agents” to clinics. We’re working on the right
+                ways to describe them, to onboard them, to measure them.
+                Endearingly, one of our customers’ agents is named “Robert Ott”,
+                and they refer to him by name in their weekly updates like he’s
+                a member of the team :) We’re learning a lot and have a long way
+                to go.
+              </p>
+              <p>
+                We’d love to meet other folks who 1. work in medical groups or
+                health systems and want to offload repetitive work, and 2. are
+                building in this space and want to trade notes. We’re happy to
+                share everything we’ve learned so far.
+              </p>
+              <p>
+                And this is a big space, with a lot of learnings from personal
+                stories, from clinicians, technologists, administrators, and
+                more. What do you make of it? We’d love to hear from you.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44237700">
+          <h3>
+            <a
+              class="item"
+              href="https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html"
+              >Intentional math errors in David Foster Wallace's work (2009)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-10 @ 15:04:38</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44237700"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44237229">
           <h3>
             <a class="item" href="https://leejo.github.io/2025/06/10/always_on/"
@@ -140,11 +282,11 @@
             <h4>
               <span>2025-06-10 @ 14:29:29</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44237229"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -159,11 +301,11 @@
             <h4>
               <span>2025-06-10 @ 14:08:01</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44236997"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -180,11 +322,11 @@
             <h4>
               <span>2025-06-10 @ 14:05:25</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44236970"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -200,11 +342,11 @@
             <h4>
               <span>2025-06-10 @ 14:01:35</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44236926"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -221,11 +363,11 @@
             <h4>
               <span>2025-06-10 @ 13:58:50</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44236900"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -242,32 +384,11 @@
             <h4>
               <span>2025-06-10 @ 13:58:30</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44236891"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44236526">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bbc.co.uk/news/articles/c79ewz7qej4o"
-              >Drone shows: Will they overtake firework displays?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-10 @ 13:27:00</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44236526"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -282,7 +403,7 @@
             <h4>
               <span>2025-06-10 @ 13:17:01</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44236423"
                   >Comments</a
@@ -310,11 +431,11 @@
             <h4>
               <span>2025-06-10 @ 12:56:36</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44236241"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -422,11 +543,11 @@
             <h4>
               <span>2025-06-10 @ 11:58:22</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44235701"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -441,11 +562,11 @@
             <h4>
               <span>2025-06-10 @ 11:50:15</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44235628"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
             <div class="text">
@@ -477,11 +598,11 @@
             <h4>
               <span>2025-06-10 @ 10:52:29</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44235177"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -496,7 +617,7 @@
             <h4>
               <span>2025-06-10 @ 10:45:49</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44235117"
                   >Comments</a
@@ -517,11 +638,11 @@
             <h4>
               <span>2025-06-10 @ 05:01:49</span
               ><span class="points-container"
-                >Points: <span class="points">283</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44232714"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -537,7 +658,7 @@
             <h4>
               <span>2025-06-10 @ 01:36:39</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44231594"
                   >Comments</a
@@ -558,11 +679,11 @@
             <h4>
               <span>2025-06-09 @ 23:36:23</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44230838"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -579,7 +700,7 @@
             <h4>
               <span>2025-06-09 @ 21:42:25</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">339</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44229841"
                   >Comments</a
@@ -599,11 +720,11 @@
             <h4>
               <span>2025-06-09 @ 20:53:29</span
               ><span class="points-container"
-                >Points: <span class="points">650</span></span
+                >Points: <span class="points">655</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44229348"
                   >Comments</a
-                ><span class="descendants">: 327</span></span
+                ><span class="descendants">: 333</span></span
               >
             </h4>
           </section>
@@ -621,11 +742,11 @@
             <h4>
               <span>2025-06-09 @ 17:44:16</span
               ><span class="points-container"
-                >Points: <span class="points">774</span></span
+                >Points: <span class="points">780</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44226978"
                   >Comments</a
-                ><span class="descendants">: 419</span></span
+                ><span class="descendants">: 420</span></span
               >
             </h4>
           </section>
@@ -645,7 +766,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44226879"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
             <div class="text">
@@ -709,11 +830,11 @@
             <h4>
               <span>2025-06-09 @ 17:09:47</span
               ><span class="points-container"
-                >Points: <span class="points">654</span></span
+                >Points: <span class="points">661</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44226612"
                   >Comments</a
-                ><span class="descendants">: 1045</span></span
+                ><span class="descendants">: 1052</span></span
               >
             </h4>
           </section>
@@ -730,11 +851,11 @@
             <h4>
               <span>2025-06-09 @ 16:50:37</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44226406"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -750,11 +871,11 @@
             <h4>
               <span>2025-06-09 @ 16:28:51</span
               ><span class="points-container"
-                >Points: <span class="points">2204</span></span
+                >Points: <span class="points">2219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44226145"
                   >Comments</a
-                ><span class="descendants">: 793</span></span
+                ><span class="descendants">: 795</span></span
               >
             </h4>
             <div class="text">
@@ -809,137 +930,6 @@
             </div>
           </section>
         </section>
-        <section id="44225930">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=44225930"
-              >Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced
-              Chunking</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-09 @ 16:09:03</span
-              ><span class="points-container"
-                >Points: <span class="points">140</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44225930"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://chonkie.ai">https://chonkie.ai</a>), an
-              open-source library for chunking and embedding data.
-              <p>
-                Python:
-                <a href="https://github.com/chonkie-inc/chonkie"
-                  >https://github.com/chonkie-inc/chonkie</a
-                >
-              </p>
-              <p>
-                TypeScript:
-                <a href="https://github.com/chonkie-inc/chonkie-ts"
-                  >https://github.com/chonkie-inc/chonkie-ts</a
-                >
-              </p>
-              <p>
-                Here's a video showing our code chunker:
-                <a href="https://youtu.be/Xclkh6bU1P0"
-                  >https://youtu.be/Xclkh6bU1P0</a
-                >.
-              </p>
-              <p>
-                Bhavnick and I have been building personal projects with LLMs
-                for a few years. For much of this time, we found ourselves
-                writing our own chunking logic to support RAG applications. We
-                often hesitated to use existing libraries because they either
-                had only basic features or felt too bloated (some are 80MB+).
-              </p>
-              <p>
-                We built Chonkie to be lightweight, fast, extensible, and easy.
-                The space is evolving rapidly, and we wanted Chonkie to be able
-                to quickly support the newest strategies. We currently support:
-                Token Chunking, Sentence Chunking, Recursive Chunking, Semantic
-                Chunking, plus:
-              </p>
-              <p>
-                - Semantic Double Pass Chunking: Chunks text semantically first,
-                then merges closely related chunks.
-              </p>
-              <p>
-                - Code Chunking: Chunks code files by creating an AST and
-                finding ideal split points.
-              </p>
-              <p>
-                - Late Chunking: Based on the paper (<a
-                  href="https://arxiv.org/abs/2409.04701"
-                  >https://arxiv.org/abs/2409.04701</a
-                >), where chunk embeddings are derived from embedding a longer
-                document.
-              </p>
-              <p>
-                - Slumber Chunking: Based on the "Lumber Chunking" paper (<a
-                  href="https://arxiv.org/abs/2406.17526"
-                  >https://arxiv.org/abs/2406.17526</a
-                >). It uses recursive chunking, then an LLM verifies split
-                points, aiming for high-quality chunks with reduced token usage
-                and LLM costs.
-              </p>
-              <p>
-                You can see how Chonkie compares to LangChain and LlamaIndex in
-                our benchmarks:
-                <a
-                  href="https://github.com/chonkie-inc/chonkie/blob/main/BENCHMARKS.md"
-                  >https://github.com/chonkie-inc/chonkie/blob/main/BENCHMARKS....</a
-                >
-              </p>
-              <p>
-                Some technical details about the Chonkie package: - ~15MB
-                default install vs. ~80-170MB for some alternatives. - Up to 33x
-                faster token chunking compared to LangChain and LlamaIndex in
-                our tests. - Works with major tokenizers (transformers,
-                tokenizers, tiktoken). - Zero external dependencies for basic
-                functionality. - Implements aggressive caching and
-                precomputation. - Uses running mean pooling for efficient
-                semantic chunking. - Modular dependency system (install only
-                what you need).
-              </p>
-              <p>
-                In addition to chunking, Chonkie also provides an easy way to
-                create embeddings. For supported providers (SentenceTransformer,
-                Model2Vec, OpenAI), you just specify the model name as a string.
-                You can also create custom embedding handlers for other
-                providers.
-              </p>
-              <p>
-                RAG is still the most common use case currently. However,
-                Chonkie makes chunks that are optimized for creating high
-                quality embeddings and vector retrieval, so it is not really
-                tied to the "generation" part of RAG. In fact, We're seeing more
-                and more people use Chonkie for implementing semantic search
-                and/or setting context for agents.
-              </p>
-              <p>
-                We are currently focused on building integrations to simplify
-                the retrieval process. We've created "handshakes" – thin
-                functions that interact with vector DBs like pgVector, Chroma,
-                TurboPuffer, and Qdrant, allowing you to interact with storage
-                easily. If there's an integration you'd like to see (vector DB
-                or otherwise), please let us know.
-              </p>
-              <p>
-                We also offer hosted and on-premise versions with OCR, extra
-                metadata, all embedding providers, and managed vector databases
-                for teams that want a fully managed pipeline. If you're
-                interested, reach out at shreyash@chonkie.ai or book a demo:
-                <a href="https://cal.com/shreyashn/chonkie-demo"
-                  >https://cal.com/shreyashn/chonkie-demo</a
-                >.
-              </p>
-              <p>We're eager to hear your feedback and comments! Thanks!</p>
-            </div>
-          </section>
-        </section>
         <section id="44205319">
           <h3>
             <a
@@ -952,7 +942,7 @@
             <h4>
               <span>2025-06-06 @ 21:47:10</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44205319"
                   >Comments</a
@@ -973,7 +963,7 @@
             <h4>
               <span>2025-06-06 @ 21:17:41</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44205077"
                   >Comments</a
@@ -994,11 +984,11 @@
             <h4>
               <span>2025-06-06 @ 19:39:36</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44204249"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -1016,11 +1006,11 @@
             <h4>
               <span>2025-06-06 @ 18:06:11</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44203464"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -1035,11 +1025,11 @@
             <h4>
               <span>2025-06-04 @ 12:14:39</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44179889"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
