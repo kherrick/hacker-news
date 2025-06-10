@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-10, 14:29:29",
+      "https://news.ycombinator.com/item?id=44237229"
+    ],
+    [
+      "Always On, Always Connected, Always Searching, Always Distracted",
+      "https://leejo.github.io/2025/06/10/always_on/"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 14:08:01",
       "https://news.ycombinator.com/item?id=44236997"
     ],
     [
       "Magistral — the first reasoning model by Mistral AI",
       "https://mistral.ai/news/magistral"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 14:05:25",
+      "https://news.ycombinator.com/item?id=44236970"
+    ],
+    [
+      "Plato got virtually everything wrong (2018)",
+      "https://www.prospectmagazine.co.uk/opinions/41672/plato-got-virtually-everything-wrong"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 14:01:35",
+      "https://news.ycombinator.com/item?id=44236926"
+    ],
+    [
+      "Show HN: PyDoll – Async Python scraping engine with native CAPTCHA bypass",
+      "https://github.com/autoscrape-labs/pydoll"
     ]
   ],
   [
@@ -31,12 +61,32 @@
   ],
   [
     [
+      "2025-06-10, 13:27:00",
+      "https://news.ycombinator.com/item?id=44236526"
+    ],
+    [
+      "Drone shows: Will they overtake firework displays?",
+      "https://www.bbc.co.uk/news/articles/c79ewz7qej4o"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 13:17:01",
       "https://news.ycombinator.com/item?id=44236423"
     ],
     [
       "Faster, easier 2D vector rendering [video]",
       "https://www.youtube.com/watch?v=_sv8K190Zps"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 12:56:36",
+      "https://news.ycombinator.com/item?id=44236241"
+    ],
+    [
+      "The curious case of shell commands, or how \"this bug is required by POSIX\"",
+      "https://notes.volution.ro/v1/2021/01/notes/502e747f/"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2025-06-10, 03:55:30",
-      "https://news.ycombinator.com/item?id=44232314"
-    ],
-    [
-      "AI Saved My Company from a 2-Year Litigation Nightmare",
-      "https://tylertringas.com/ai-legal/"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 01:36:39",
       "https://news.ycombinator.com/item?id=44231594"
     ],
@@ -137,16 +177,6 @@
     [
       "Why agents are bad pair programmers",
       "https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 22:21:09",
-      "https://news.ycombinator.com/item?id=44230182"
-    ],
-    [
-      "Marines being mobilized in response to LA protests",
-      "https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests"
     ]
   ],
   [
@@ -217,36 +247,6 @@
     [
       "Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking",
       "https://news.ycombinator.com/item?id=44225930"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 14:27:30",
-      "https://news.ycombinator.com/item?id=44224874"
-    ],
-    [
-      "Doctors could hack the nervous system with ultrasound",
-      "https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 14:06:51",
-      "https://news.ycombinator.com/item?id=44224684"
-    ],
-    [
-      "Bruteforcing the phone number of any Google user",
-      "https://brutecat.com/articles/leaking-google-phones"
-    ]
-  ],
-  [
-    [
-      "2025-06-07, 00:00:10",
-      "https://news.ycombinator.com/item?id=44206238"
-    ],
-    [
-      "Why does C++ think my class is copy-constructible when it can't be?",
-      "https://devblogs.microsoft.com/oldnewthing/20250606-00/?p=111254"
     ]
   ],
   [
