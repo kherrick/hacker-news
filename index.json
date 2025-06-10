@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-06-10, 20:25:01",
+      "https://news.ycombinator.com/item?id=44241089"
+    ],
+    [
+      "Web-scraping AI bots cause disruption for scientific databases and journals",
+      "https://www.nature.com/articles/d41586-025-01661-4"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 20:15:47",
       "https://news.ycombinator.com/item?id=44240999"
     ],
@@ -287,16 +297,6 @@
     [
       "Exploring our collection: the canary resuscitator (2018)",
       "https://blog.scienceandindustrymuseum.org.uk/canary-resuscitator/"
-    ]
-  ],
-  [
-    [
-      "2025-06-07, 11:25:02",
-      "https://news.ycombinator.com/item?id=44208938"
-    ],
-    [
-      "The Concurrency Trap: How an Atomic Counter Stalled a Pipeline",
-      "https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/"
     ]
   ]
 ]
