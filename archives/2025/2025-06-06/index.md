@@ -35,6 +35,7 @@
 * [2025-06-06, 17:18:51](https://news.ycombinator.com/item?id=44203014) - [Debugging Azure Networking for Elastic Cloud Serverless](https://www.elastic.co/observability-labs/blog/debugging-aks-packet-loss)
 * [2025-06-06, 17:18:08](https://news.ycombinator.com/item?id=44203003) - [Series C and Scale (Cursor)](https://www.cursor.com/en/blog/series-c)
 * [2025-06-06, 17:00:55](https://news.ycombinator.com/item?id=44202846) - [Exa (YC S21) Is Hiring a Founding Physical Design Engineer to Build Chips for AI](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer-physical-design-vlsi-rtl)
+* [2025-06-06, 16:51:50](https://news.ycombinator.com/item?id=44202759) - [The Chicxulub Asteroid Impact and Mass Extinction](https://www.science.org/doi/10.1126/science.1177265)
 * [2025-06-06, 16:44:12](https://news.ycombinator.com/item?id=44202664) - [Breakthrough in search for HIV cure leaves researchers 'overwhelmed'](https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed)
 * [2025-06-06, 16:30:52](https://news.ycombinator.com/item?id=44202519) - [See how a dollar would have grown over the past 94 years [pdf]](https://www.newyorklifeinvestments.com/assets/documents/education/investing-essentials-growthofadollar.pdf)
 * [2025-06-06, 16:27:40](https://news.ycombinator.com/item?id=44202490) - [GOP intensifies war against EVs and efficient cars](https://arstechnica.com/cars/2025/06/gop-intensifies-war-against-evs-and-efficient-cars/)
