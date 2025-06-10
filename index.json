@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-10, 20:36:55",
+      "https://news.ycombinator.com/item?id=44241202"
+    ],
+    [
+      "Show HN: A \"Course\" as an MCP Server",
+      "https://mastra.ai/course"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 20:15:47",
       "https://news.ycombinator.com/item?id=44240999"
     ],
@@ -277,16 +287,6 @@
     [
       "The Concurrency Trap: How an Atomic Counter Stalled a Pipeline",
       "https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 21:47:10",
-      "https://news.ycombinator.com/item?id=44205319"
-    ],
-    [
-      "Animate a mesh across a sphere's surface",
-      "https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface"
     ]
   ],
   [
