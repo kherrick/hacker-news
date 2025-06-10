@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 14:29:29](https://news.ycombinator.com/item?id=44237229) - [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
 * [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
+* [2025-06-10, 14:05:25](https://news.ycombinator.com/item?id=44236970) - [Plato got virtually everything wrong (2018)](https://www.prospectmagazine.co.uk/opinions/41672/plato-got-virtually-everything-wrong)
+* [2025-06-10, 14:01:35](https://news.ycombinator.com/item?id=44236926) - [Show HN: PyDoll – Async Python scraping engine with native CAPTCHA bypass](https://github.com/autoscrape-labs/pydoll)
 * [2025-06-10, 13:58:50](https://news.ycombinator.com/item?id=44236900) - [Finding Atari Games in Randomly Generated Data](https://bbenchoff.github.io/pages/FiniteAtari.html)
 * [2025-06-10, 13:58:30](https://news.ycombinator.com/item?id=44236891) - [Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
+* [2025-06-10, 13:27:00](https://news.ycombinator.com/item?id=44236526) - [Drone shows: Will they overtake firework displays?](https://www.bbc.co.uk/news/articles/c79ewz7qej4o)
 * [2025-06-10, 13:17:01](https://news.ycombinator.com/item?id=44236423) - [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
+* [2025-06-10, 12:56:36](https://news.ycombinator.com/item?id=44236241) - [The curious case of shell commands, or how \"this bug is required by POSIX\"](https://notes.volution.ro/v1/2021/01/notes/502e747f/)
 * [2025-06-10, 12:00:39](https://news.ycombinator.com/item?id=44235716) - [Onlook (YC W25) Is Hiring a a Founding Engineer in SF](https://news.ycombinator.com/item?id=44235716)
 * [2025-06-10, 11:58:22](https://news.ycombinator.com/item?id=44235701) - [Apple Fails to Clear a Low Bar on AI](https://www.wsj.com/tech/ai/apple-ai-strategy-wwdc-challenges-bdae4fb5)
 * [2025-06-10, 11:50:15](https://news.ycombinator.com/item?id=44235628) - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
