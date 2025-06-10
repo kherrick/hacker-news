@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=44229694"
     ],
     [
-      "The Xerox Alto, Smalltalk, and Rewriting a Running GUI (2017)",
+      "The Xerox Alto, Smalltalk, and rewriting a running GUI (2017)",
       "https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html"
     ]
   ],
@@ -97,16 +97,6 @@
     [
       "Container: Apple's Linux-Container Runtime",
       "https://github.com/apple/container"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 17:59:40",
-      "https://news.ycombinator.com/item?id=44227207"
-    ],
-    [
-      "Show HN: Somo – a human friendly alternative to netstat",
-      "https://github.com/theopfr/somo"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2025-06-07, 06:53:41",
+      "https://news.ycombinator.com/item?id=44207943"
+    ],
+    [
+      "Working with the EPA to Secure Exposed Water HMIs",
+      "https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 18:56:03",
       "https://news.ycombinator.com/item?id=44203870"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-06-06, 08:06:28",
+      "https://news.ycombinator.com/item?id=44198751"
+    ],
+    [
+      "Apps shouldn't let users enter OpenSSL cipher-suite strings",
+      "https://00f.net/2025/06/06/cipher-suites/"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 02:47:53",
       "https://news.ycombinator.com/item?id=44197409"
     ],
     [
       "The Lexiconia Codex: A fantasy story that teaches you LLM buzzwords",
       "https://medium.com/@isranimohit/the-lexiconia-codex-a-fantasy-story-that-teaches-you-every-llm-buzzword-3b7f6eb23da9"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 01:10:23",
-      "https://news.ycombinator.com/item?id=44197007"
-    ],
-    [
-      "How do you prototype a nice language?",
-      "https://kevinlynagh.com/newsletter/2025_06_03_prototyping_a_language/"
     ]
   ],
   [
