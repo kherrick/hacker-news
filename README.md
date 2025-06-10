@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-10, 08:43:01](https://news.ycombinator.com/item?id=44234189) - [How to not use AI to code for you](https://mandaputtra.id/posts/how-to-not-using-ai-to-code/)
+* [2025-06-10, 08:38:11](https://news.ycombinator.com/item?id=44234160) - [Mozilla shuts down even more Firefox services](https://www.neowin.net/news/mozilla-shuts-down-even-more-firefox-services-you-might-still-be-using/)
 * [2025-06-10, 06:51:14](https://news.ycombinator.com/item?id=44233480) - [Europe needs digital sovereignty – and Microsoft has just proven why](https://tuta.com/blog/digital-sovereignty-europe)
 * [2025-06-10, 06:30:03](https://news.ycombinator.com/item?id=44233315) - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
 * [2025-06-10, 06:12:52](https://news.ycombinator.com/item?id=44233188) - [Ada Continues to Climb in June Tiobe Index and PYPL](https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126)
@@ -10,7 +12,6 @@
 * [2025-06-10, 03:51:56](https://news.ycombinator.com/item?id=44232296) - [Apple has announced its final version of macOS for Intel](https://tedium.co/2025/06/09/apple-wwdc-intel-mac-support-ending/)
 * [2025-06-10, 01:48:07](https://news.ycombinator.com/item?id=44231649) - [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
 * [2025-06-10, 01:36:39](https://news.ycombinator.com/item?id=44231594) - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
-* [2025-06-10, 00:21:40](https://news.ycombinator.com/item?id=44231151) - [Las Vegas is embracing a simple climate solution: More trees](https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees)
 * [2025-06-09, 23:36:23](https://news.ycombinator.com/item?id=44230838) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 * [2025-06-09, 22:21:09](https://news.ycombinator.com/item?id=44230182) - [Marines being mobilized in response to LA protests](https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests)
 * [2025-06-09, 21:42:25](https://news.ycombinator.com/item?id=44229841) - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
@@ -23,7 +24,6 @@
 * [2025-06-09, 16:28:51](https://news.ycombinator.com/item?id=44226145) - [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
 * [2025-06-09, 16:09:03](https://news.ycombinator.com/item?id=44225930) - [Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking](https://news.ycombinator.com/item?id=44225930)
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors could hack the nervous system with ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
-* [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-07, 06:53:41](https://news.ycombinator.com/item?id=44207943) - [Working with the EPA to Secure Exposed Water HMIs](https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis)
 * [2025-06-07, 03:49:23](https://news.ycombinator.com/item?id=44207282) - [I dream of roombas: 1000s of automated AI robots that autonomously maintain code](https://ghuntley.com/ktlo/)
 * [2025-06-07, 01:36:49](https://news.ycombinator.com/item?id=44206694) - [Researchers recreate ancient Egyptian blues](https://news.wsu.edu/press-release/2025/06/02/researchers-recreate-ancient-egyptian-blues/)
