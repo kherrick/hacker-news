@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-10, 10:41:00](https://news.ycombinator.com/item?id=44235080) - [Telegram, the FSB, and the Man in the Middle](https://istories.media/en/stories/2025/06/10/telegram-fsb/)
 * [2025-06-10, 10:35:49](https://news.ycombinator.com/item?id=44235030) - [OpenAI's Sora is now available for Free to all users through Bing Video Creator](https://venturebeat.com/ai/openais-sora-is-now-available-for-free-to-all-users-through-microsoft-bing-video-creator-on-mobile/)
 * [2025-06-10, 09:30:44](https://news.ycombinator.com/item?id=44234552) - [The Danish Ministry of Digitalization Is Switching to Linux and LibreOffice](https://politiken.dk/viden/tech/art10437680/Caroline-Stage-udfaser-Microsoft-i-Digitaliseringsministeriet)
 * [2025-06-10, 06:30:03](https://news.ycombinator.com/item?id=44233315) - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
@@ -14,7 +15,6 @@
 * [2025-06-09, 23:36:23](https://news.ycombinator.com/item?id=44230838) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 * [2025-06-09, 22:21:09](https://news.ycombinator.com/item?id=44230182) - [Marines being mobilized in response to LA protests](https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests)
 * [2025-06-09, 21:42:25](https://news.ycombinator.com/item?id=44229841) - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
-* [2025-06-09, 21:25:44](https://news.ycombinator.com/item?id=44229694) - [The Xerox Alto, Smalltalk, and rewriting a running GUI (2017)](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 * [2025-06-09, 20:42:23](https://news.ycombinator.com/item?id=44229239) - [Container: Apple's Linux-Container Runtime](https://github.com/apple/container)
 * [2025-06-09, 17:44:16](https://news.ycombinator.com/item?id=44226978) - [Apple announces Foundation Models and Containerization frameworks, etc](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
