@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
+* [2025-06-10, 19:10:12](https://news.ycombinator.com/item?id=44240286) - [You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
+* [2025-06-10, 19:08:29](https://news.ycombinator.com/item?id=44240265) - [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
 * [2025-06-10, 18:42:52](https://news.ycombinator.com/item?id=44239961) - [Show HN: MidWord – A Word-Guessing Game](https://midword.com/)
 * [2025-06-10, 18:29:43](https://news.ycombinator.com/item?id=44239812) - [Android 16 Is Here](https://blog.google/products/android/android-16/)
 * [2025-06-10, 17:55:08](https://news.ycombinator.com/item?id=44239481) - [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
@@ -23,12 +25,10 @@
 * [2025-06-10, 11:29:29](https://news.ycombinator.com/item?id=44235467) - [\"Localhost tracking\" explained. It could cost Meta €32B](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-10, 05:30:22](https://news.ycombinator.com/item?id=44232880) - [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007)
 * [2025-06-09, 23:36:23](https://news.ycombinator.com/item?id=44230838) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
-* [2025-06-09, 21:42:25](https://news.ycombinator.com/item?id=44229841) - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 * [2025-06-09, 16:50:37](https://news.ycombinator.com/item?id=44226406) - [Denuvo Analysis](https://connorjaydunn.github.io/blog/posts/denuvo-analysis/)
 * [2025-06-07, 11:25:02](https://news.ycombinator.com/item?id=44208938) - [The Concurrency Trap: How an Atomic Counter Stalled a Pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)
 * [2025-06-06, 21:47:10](https://news.ycombinator.com/item?id=44205319) - [Animate a mesh across a sphere's surface](https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface)
-* [2025-06-06, 21:17:41](https://news.ycombinator.com/item?id=44205077) - ['Proof' Review: Finding Truth in Numbers](https://www.wsj.com/arts-culture/books/proof-review-finding-truth-in-numbers-b9779228)
 * [2025-06-06, 19:39:36](https://news.ycombinator.com/item?id=44204249) - [A Primer on Molecular Dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics)
 
 ## [Archives](archives/index.md)

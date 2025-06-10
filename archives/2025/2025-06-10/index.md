@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
+* [2025-06-10, 19:10:12](https://news.ycombinator.com/item?id=44240286) - [You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
+* [2025-06-10, 19:08:29](https://news.ycombinator.com/item?id=44240265) - [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
 * [2025-06-10, 18:42:52](https://news.ycombinator.com/item?id=44239961) - [Show HN: MidWord – A Word-Guessing Game](https://midword.com/)
 * [2025-06-10, 18:29:43](https://news.ycombinator.com/item?id=44239812) - [Android 16 Is Here](https://blog.google/products/android/android-16/)
 * [2025-06-10, 17:55:08](https://news.ycombinator.com/item?id=44239481) - [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
