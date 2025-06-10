@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 15:39:57](https://news.ycombinator.com/item?id=44238171) - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
 * [2025-06-10, 15:09:30](https://news.ycombinator.com/item?id=44237769) - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
 * [2025-06-10, 15:04:38](https://news.ycombinator.com/item?id=44237700) - [Intentional math errors in David Foster Wallace's work (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
 * [2025-06-10, 14:29:29](https://news.ycombinator.com/item?id=44237229) - [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
@@ -26,11 +27,13 @@
 * [2025-06-10, 10:41:00](https://news.ycombinator.com/item?id=44235080) - [Telegram, the FSB, and the Man in the Middle](https://istories.media/en/stories/2025/06/10/telegram-fsb/)
 * [2025-06-10, 10:35:49](https://news.ycombinator.com/item?id=44235030) - [OpenAI's Sora is now available for Free to all users through Bing Video Creator](https://venturebeat.com/ai/openais-sora-is-now-available-for-free-to-all-users-through-microsoft-bing-video-creator-on-mobile/)
 * [2025-06-10, 09:30:44](https://news.ycombinator.com/item?id=44234552) - [The Danish Ministry of Digitalization Is Switching to Linux and LibreOffice](https://politiken.dk/viden/tech/art10437680/Caroline-Stage-udfaser-Microsoft-i-Digitaliseringsministeriet)
+* [2025-06-10, 08:56:30](https://news.ycombinator.com/item?id=44234290) - [Denmark: Minister for Digitalization wants to phase out Microsoft](https://nordjyske.dk/nyheder/politik/digitaliseringsminister-vil-udfase-microsoft-i-sit-eget-ministerium/5616096)
 * [2025-06-10, 08:43:01](https://news.ycombinator.com/item?id=44234189) - [How to not use AI to code for you](https://mandaputtra.id/posts/how-to-not-using-ai-to-code/)
 * [2025-06-10, 08:38:11](https://news.ycombinator.com/item?id=44234160) - [Mozilla shuts down even more Firefox services](https://www.neowin.net/news/mozilla-shuts-down-even-more-firefox-services-you-might-still-be-using/)
 * [2025-06-10, 06:51:14](https://news.ycombinator.com/item?id=44233480) - [Europe needs digital sovereignty – and Microsoft has just proven why](https://tuta.com/blog/digital-sovereignty-europe)
 * [2025-06-10, 06:30:03](https://news.ycombinator.com/item?id=44233315) - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
 * [2025-06-10, 06:12:52](https://news.ycombinator.com/item?id=44233188) - [Ada Continues to Climb in June Tiobe Index and PYPL](https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126)
+* [2025-06-10, 05:30:22](https://news.ycombinator.com/item?id=44232880) - [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007)
 * [2025-06-10, 05:17:15](https://news.ycombinator.com/item?id=44232802) - [World fertility rates in 'unprecedented decline', UN says](https://www.bbc.co.uk/news/articles/clynq459wxgo)
 * [2025-06-10, 05:01:49](https://news.ycombinator.com/item?id=44232714) - [Smart People Don't Chase Goals; They Create Limits](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
 * [2025-06-10, 04:57:52](https://news.ycombinator.com/item?id=44232699) - [Micrographia (1665) [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf)
