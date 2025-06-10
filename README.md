@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-10, 18:29:43](https://news.ycombinator.com/item?id=44239812) - [Android 16 Is Here](https://blog.google/products/android/android-16/)
 * [2025-06-10, 17:55:08](https://news.ycombinator.com/item?id=44239481) - [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
 * [2025-06-10, 17:41:29](https://news.ycombinator.com/item?id=44239359) - [OpenAI dropped the price of o3 by 80%](https://twitter.com/sama/status/1932434606558462459)
 * [2025-06-10, 17:10:51](https://news.ycombinator.com/item?id=44239107) - [A Blacklisted American Magician Became a Hero in Brazil](https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a)
@@ -23,9 +24,8 @@
 * [2025-06-09, 23:36:23](https://news.ycombinator.com/item?id=44230838) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 * [2025-06-09, 21:42:25](https://news.ycombinator.com/item?id=44229841) - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
-* [2025-06-09, 17:44:16](https://news.ycombinator.com/item?id=44226978) - [Apple announces Foundation Models and Containerization frameworks, etc](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
-* [2025-06-09, 17:34:29](https://news.ycombinator.com/item?id=44226879) - [Show HN: Munal OS: a graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
 * [2025-06-09, 16:50:37](https://news.ycombinator.com/item?id=44226406) - [Denuvo Analysis](https://connorjaydunn.github.io/blog/posts/denuvo-analysis/)
+* [2025-06-09, 12:41:32](https://news.ycombinator.com/item?id=44223879) - [Ask HN: What cool skill or project interests you, but feels out of reach?](https://news.ycombinator.com/item?id=44223879)
 * [2025-06-07, 11:25:02](https://news.ycombinator.com/item?id=44208938) - [The Concurrency Trap: How an Atomic Counter Stalled a Pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)
 * [2025-06-06, 21:47:10](https://news.ycombinator.com/item?id=44205319) - [Animate a mesh across a sphere's surface](https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface)
 * [2025-06-06, 21:17:41](https://news.ycombinator.com/item?id=44205077) - ['Proof' Review: Finding Truth in Numbers](https://www.wsj.com/arts-culture/books/proof-review-finding-truth-in-numbers-b9779228)

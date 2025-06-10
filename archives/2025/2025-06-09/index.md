@@ -42,6 +42,7 @@
 * [2025-06-09, 14:13:04](https://news.ycombinator.com/item?id=44224745) - [Mushrooms communicate with each other using up to 50 'words', scientist claims](https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study)
 * [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 13:48:39](https://news.ycombinator.com/item?id=44224508) - [What Is OAuth and How Does It Work?](https://fusionauth.io/articles/oauth/modern-guide-to-oauth)
+* [2025-06-09, 12:41:32](https://news.ycombinator.com/item?id=44223879) - [Ask HN: What cool skill or project interests you, but feels out of reach?](https://news.ycombinator.com/item?id=44223879)
 * [2025-06-09, 12:38:23](https://news.ycombinator.com/item?id=44223853) - [Defiant loyalists paid dearly for choosing wrong side in the American Revolution](https://www.smithsonianmag.com/history/meet-the-defiant-loyalists-who-paid-dearly-for-choosing-the-wrong-side-in-the-american-revolution-180986716/)
 * [2025-06-09, 11:43:05](https://news.ycombinator.com/item?id=44223448) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 * [2025-06-09, 11:17:13](https://news.ycombinator.com/item?id=44223283) - [Ex-FCC Chair Ajit Pai is now a wireless lobbyist–and enemy of cable companies](https://arstechnica.com/tech-policy/2025/06/ex-fcc-chair-ajit-pai-is-now-a-wireless-lobbyist-and-enemy-of-cable-companies/)
