@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-10, 01:48:07",
+      "https://news.ycombinator.com/item?id=44231649"
+    ],
+    [
+      "Discrete Mathematics: An Open Introduction [pdf]",
+      "https://discrete.openmathbooks.org/pdfs/dmoi4.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 01:36:39",
+      "https://news.ycombinator.com/item?id=44231594"
+    ],
+    [
+      "Implementing DOES> in Forth, the entire reason I started this mess",
+      "https://boston.conman.org/2025/06/09.1"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 00:21:40",
       "https://news.ycombinator.com/item?id=44231151"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2025-06-09, 22:21:09",
+      "https://news.ycombinator.com/item?id=44230182"
+    ],
+    [
+      "Marines being mobilized in response to LA protests",
+      "https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 21:42:25",
       "https://news.ycombinator.com/item?id=44229841"
     ],
@@ -31,22 +61,22 @@
   ],
   [
     [
-      "2025-06-09, 21:29:56",
-      "https://news.ycombinator.com/item?id=44229727"
-    ],
-    [
-      "Google battling 'fox infestation' on roof of £1B London office",
-      "https://www.theguardian.com/uk-news/2025/jun/09/google-foxes-roof-london-kings-cross-office"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 21:25:44",
       "https://news.ycombinator.com/item?id=44229694"
     ],
     [
       "The Xerox Alto, Smalltalk, and Rewriting a Running GUI (2017)",
       "https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 21:11:33",
+      "https://news.ycombinator.com/item?id=44229533"
+    ],
+    [
+      "RFK Jr.: HHS moves to restore public trust in vaccines",
+      "https://www.wsj.com/opinion/rfk-jr-hhs-moves-to-restore-public-trust-in-vaccines-45495112"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Container: Apple's Linux-Container Runtime",
       "https://github.com/apple/container"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 18:37:59",
-      "https://news.ycombinator.com/item?id=44227689"
-    ],
-    [
-      "A bit more on Twitter/X's new encrypted messaging",
-      "https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-06-09, 16:08:22",
-      "https://news.ycombinator.com/item?id=44225922"
-    ],
-    [
-      "Show HN: Glowstick – type level tensor shapes in stable rust",
-      "https://github.com/nicksenger/glowstick"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 15:54:16",
       "https://news.ycombinator.com/item?id=44225761"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: Most users won't report bugs unless you make it stupidly easy",
       "https://news.ycombinator.com/item?id=44225352"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 14:42:33",
-      "https://news.ycombinator.com/item?id=44224996"
-    ],
-    [
-      "The new Gödel Prize winner tastes great and is less filling",
-      "https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-06-06, 23:44:26",
-      "https://news.ycombinator.com/item?id=44206150"
-    ],
-    [
-      "A man rebuilding the last Inca rope bridge",
-      "https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 18:56:03",
       "https://news.ycombinator.com/item?id=44203870"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: An open-source rhythm dungeon crawler in 16 x 9 pixels",
       "https://github.com/jgalecki/qrawl-tiny-mass-disco"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 02:47:53",
+      "https://news.ycombinator.com/item?id=44197409"
+    ],
+    [
+      "The Lexiconia Codex: A fantasy story that teaches you LLM buzzwords",
+      "https://medium.com/@isranimohit/the-lexiconia-codex-a-fantasy-story-that-teaches-you-every-llm-buzzword-3b7f6eb23da9"
     ]
   ],
   [
