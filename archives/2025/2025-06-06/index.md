@@ -32,6 +32,7 @@
 * [2025-06-06, 18:18:36](https://news.ycombinator.com/item?id=44203562) - [The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 * [2025-06-06, 18:10:29](https://news.ycombinator.com/item?id=44203494) - [SaaS is just vendor lock-in with better branding](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding)
 * [2025-06-06, 18:09:24](https://news.ycombinator.com/item?id=44203486) - [Great Question (YC W21) Is Hiring a Director of Customer Success](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success)
+* [2025-06-06, 18:06:11](https://news.ycombinator.com/item?id=44203464) - [Encapsulated Co–Ni alloy boosts high-temperature CO2 electroreduction](https://www.nature.com/articles/s41586-025-08978-0)
 * [2025-06-06, 18:03:41](https://news.ycombinator.com/item?id=44203444) - [A leaderless NASA faces its biggest-ever cuts](https://www.economist.com/science-and-technology/2025/06/04/a-leaderless-nasa-faces-its-biggest-ever-cuts)
 * [2025-06-06, 17:18:51](https://news.ycombinator.com/item?id=44203014) - [Debugging Azure Networking for Elastic Cloud Serverless](https://www.elastic.co/observability-labs/blog/debugging-aks-packet-loss)
 * [2025-06-06, 17:18:08](https://news.ycombinator.com/item?id=44203003) - [Series C and Scale (Cursor)](https://www.cursor.com/en/blog/series-c)
