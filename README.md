@@ -25,10 +25,10 @@
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors could hack the nervous system with ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
 * [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-07, 06:53:41](https://news.ycombinator.com/item?id=44207943) - [Working with the EPA to Secure Exposed Water HMIs](https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis)
+* [2025-06-07, 03:49:23](https://news.ycombinator.com/item?id=44207282) - [I dream of roombas: 1000s of automated AI robots that autonomously maintain code](https://ghuntley.com/ktlo/)
 * [2025-06-07, 01:36:49](https://news.ycombinator.com/item?id=44206694) - [Researchers recreate ancient Egyptian blues](https://news.wsu.edu/press-release/2025/06/02/researchers-recreate-ancient-egyptian-blues/)
 * [2025-06-06, 21:47:10](https://news.ycombinator.com/item?id=44205319) - [Animate a mesh across a sphere's surface](https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface)
 * [2025-06-06, 16:51:50](https://news.ycombinator.com/item?id=44202759) - [The Chicxulub Asteroid Impact and Mass Extinction](https://www.science.org/doi/10.1126/science.1177265)
-* [2025-06-06, 10:20:50](https://news.ycombinator.com/item?id=44199408) - [Show HN: An open-source rhythm dungeon crawler in 16 x 9 pixels](https://github.com/jgalecki/qrawl-tiny-mass-disco)
 * [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 
 ## [Archives](archives/index.md)
