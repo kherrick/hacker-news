@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 11:29:29](https://news.ycombinator.com/item?id=44235467) - [\"Localhost tracking\" explained. It could cost Meta 32B](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-10, 10:47:41](https://news.ycombinator.com/item?id=44235129) - [IBM to build first large-scale, error-corrected quantum computer by 2028](https://www.technologyreview.com/2025/06/10/1118297/ibm-large-scale-error-corrected-quantum-computer-by-2028/)
 * [2025-06-10, 10:41:00](https://news.ycombinator.com/item?id=44235080) - [Telegram, the FSB, and the Man in the Middle](https://istories.media/en/stories/2025/06/10/telegram-fsb/)
 * [2025-06-10, 10:35:49](https://news.ycombinator.com/item?id=44235030) - [OpenAI's Sora is now available for Free to all users through Bing Video Creator](https://venturebeat.com/ai/openais-sora-is-now-available-for-free-to-all-users-through-microsoft-bing-video-creator-on-mobile/)

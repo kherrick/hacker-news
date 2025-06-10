@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-10, 11:29:29](https://news.ycombinator.com/item?id=44235467) - [\"Localhost tracking\" explained. It could cost Meta 32B](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-10, 10:47:41](https://news.ycombinator.com/item?id=44235129) - [IBM to build first large-scale, error-corrected quantum computer by 2028](https://www.technologyreview.com/2025/06/10/1118297/ibm-large-scale-error-corrected-quantum-computer-by-2028/)
 * [2025-06-10, 10:41:00](https://news.ycombinator.com/item?id=44235080) - [Telegram, the FSB, and the Man in the Middle](https://istories.media/en/stories/2025/06/10/telegram-fsb/)
-* [2025-06-10, 10:35:49](https://news.ycombinator.com/item?id=44235030) - [OpenAI's Sora is now available for Free to all users through Bing Video Creator](https://venturebeat.com/ai/openais-sora-is-now-available-for-free-to-all-users-through-microsoft-bing-video-creator-on-mobile/)
 * [2025-06-10, 09:30:44](https://news.ycombinator.com/item?id=44234552) - [The Danish Ministry of Digitalization Is Switching to Linux and LibreOffice](https://politiken.dk/viden/tech/art10437680/Caroline-Stage-udfaser-Microsoft-i-Digitaliseringsministeriet)
 * [2025-06-10, 06:30:03](https://news.ycombinator.com/item?id=44233315) - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
 * [2025-06-10, 06:12:52](https://news.ycombinator.com/item?id=44233188) - [Ada Continues to Climb in June Tiobe Index and PYPL](https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126)
