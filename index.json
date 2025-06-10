@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-10, 20:15:47",
+      "https://news.ycombinator.com/item?id=44240999"
+    ],
+    [
+      "OpenAI o3-pro",
+      "https://help.openai.com/en/articles/9624314-model-release-notes"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 19:55:18",
+      "https://news.ycombinator.com/item?id=44240770"
+    ],
+    [
+      "Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass",
+      "https://www.binarly.io/blog/another-crack-in-the-chain-of-trust"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 19:12:17",
       "https://news.ycombinator.com/item?id=44240302"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-06-10, 13:58:50",
-      "https://news.ycombinator.com/item?id=44236900"
-    ],
-    [
-      "Finding Atari Games in Randomly Generated Data",
-      "https://bbenchoff.github.io/pages/FiniteAtari.html"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 13:58:30",
       "https://news.ycombinator.com/item?id=44236891"
     ],
@@ -237,16 +247,6 @@
     [
       "Reinforcement Pre-Training",
       "https://arxiv.org/abs/2506.08007"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 23:36:23",
-      "https://news.ycombinator.com/item?id=44230838"
-    ],
-    [
-      "Why agents are bad pair programmers",
-      "https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/"
     ]
   ],
   [
