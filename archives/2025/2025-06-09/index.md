@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
 * [2025-06-09, 23:36:23](https://news.ycombinator.com/item?id=44230838) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
+* [2025-06-09, 22:21:09](https://news.ycombinator.com/item?id=44230182) - [Marines being mobilized in response to LA protests](https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests)
 * [2025-06-09, 21:42:25](https://news.ycombinator.com/item?id=44229841) - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
 * [2025-06-09, 21:35:07](https://news.ycombinator.com/item?id=44229778) - [RFK Jr. ousts entire CDC vaccine advisory committee](https://apnews.com/article/kennedy-cdc-acip-vaccines-3790c89f45b6314c5c7b686db0e3a8f9)
 * [2025-06-09, 21:29:56](https://news.ycombinator.com/item?id=44229727) - [Google battling 'fox infestation' on roof of £1B London office](https://www.theguardian.com/uk-news/2025/jun/09/google-foxes-roof-london-kings-cross-office)
 * [2025-06-09, 21:25:44](https://news.ycombinator.com/item?id=44229694) - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
+* [2025-06-09, 21:11:33](https://news.ycombinator.com/item?id=44229533) - [RFK Jr.: HHS moves to restore public trust in vaccines](https://www.wsj.com/opinion/rfk-jr-hhs-moves-to-restore-public-trust-in-vaccines-45495112)
 * [2025-06-09, 21:11:33](https://news.ycombinator.com/item?id=44229533) - [Kennedy guts CDC's vaccine panel of independent experts](https://www.nbcnews.com/health/health-news/kennedy-guts-acip-cdc-vaccine-panel-rcna211935)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 * [2025-06-09, 20:42:23](https://news.ycombinator.com/item?id=44229239) - [Container: Apple's Linux-Container Runtime](https://github.com/apple/container)
