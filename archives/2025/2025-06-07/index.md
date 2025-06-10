@@ -61,5 +61,6 @@
 * [2025-06-07, 03:16:31](https://news.ycombinator.com/item?id=44207144) - [NASA delays next flight of Boeing's alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
 * [2025-06-07, 03:06:55](https://news.ycombinator.com/item?id=44207095) - [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)
 * [2025-06-07, 02:59:26](https://news.ycombinator.com/item?id=44207063) - [Reverse Engineering Cursor's LLM Client](https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/)
+* [2025-06-07, 01:36:49](https://news.ycombinator.com/item?id=44206694) - [Researchers recreate ancient Egyptian blues](https://news.wsu.edu/press-release/2025/06/02/researchers-recreate-ancient-egyptian-blues/)
 * [2025-06-07, 01:06:39](https://news.ycombinator.com/item?id=44206553) - [Why Are Smokestacks So Tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
 * [2025-06-07, 00:08:53](https://news.ycombinator.com/item?id=44206281) - [Why You Should Move Your Site Away from Weebly (YC W07)](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
