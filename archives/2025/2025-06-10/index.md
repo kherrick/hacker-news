@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 15:09:30](https://news.ycombinator.com/item?id=44237769) - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
+* [2025-06-10, 15:04:38](https://news.ycombinator.com/item?id=44237700) - [Intentional math errors in David Foster Wallace's work (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
 * [2025-06-10, 14:29:29](https://news.ycombinator.com/item?id=44237229) - [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
 * [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 * [2025-06-10, 14:05:25](https://news.ycombinator.com/item?id=44236970) - [Plato got virtually everything wrong (2018)](https://www.prospectmagazine.co.uk/opinions/41672/plato-got-virtually-everything-wrong)
