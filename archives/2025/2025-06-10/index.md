@@ -19,6 +19,7 @@
 * [2025-06-10, 13:58:50](https://news.ycombinator.com/item?id=44236900) - [Finding Atari Games in Randomly Generated Data](https://bbenchoff.github.io/pages/FiniteAtari.html)
 * [2025-06-10, 13:58:30](https://news.ycombinator.com/item?id=44236891) - [Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
 * [2025-06-10, 13:54:25](https://news.ycombinator.com/item?id=44236849) - [Teaching National Security Policy with AI](https://steveblank.com/2025/06/10/teaching-national-security-policy-with-ai/)
+* [2025-06-10, 13:43:21](https://news.ycombinator.com/item?id=44236728) - [Mikeal Rogers has died](https://b.h4x.zip/mikeal/)
 * [2025-06-10, 13:31:02](https://news.ycombinator.com/item?id=44236577) - [Wharton Esherick and the Armstrong Linoleum Company](https://whartonesherickmuseum.org/wharton-esherick-and-armstrong-linoleum/)
 * [2025-06-10, 13:27:00](https://news.ycombinator.com/item?id=44236526) - [Drone shows: Will they overtake firework displays?](https://www.bbc.co.uk/news/articles/c79ewz7qej4o)
 * [2025-06-10, 13:17:01](https://news.ycombinator.com/item?id=44236423) - [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
