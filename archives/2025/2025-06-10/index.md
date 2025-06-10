@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 10:35:49](https://news.ycombinator.com/item?id=44235030) - [OpenAI's Sora is now available for Free to all users through Bing Video Creator](https://venturebeat.com/ai/openais-sora-is-now-available-for-free-to-all-users-through-microsoft-bing-video-creator-on-mobile/)
 * [2025-06-10, 09:30:44](https://news.ycombinator.com/item?id=44234552) - [The Danish Ministry of Digitalization Is Switching to Linux and LibreOffice](https://politiken.dk/viden/tech/art10437680/Caroline-Stage-udfaser-Microsoft-i-Digitaliseringsministeriet)
 * [2025-06-10, 08:43:01](https://news.ycombinator.com/item?id=44234189) - [How to not use AI to code for you](https://mandaputtra.id/posts/how-to-not-using-ai-to-code/)
 * [2025-06-10, 08:38:11](https://news.ycombinator.com/item?id=44234160) - [Mozilla shuts down even more Firefox services](https://www.neowin.net/news/mozilla-shuts-down-even-more-firefox-services-you-might-still-be-using/)

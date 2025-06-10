@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-10, 10:35:49](https://news.ycombinator.com/item?id=44235030) - [OpenAI's Sora is now available for Free to all users through Bing Video Creator](https://venturebeat.com/ai/openais-sora-is-now-available-for-free-to-all-users-through-microsoft-bing-video-creator-on-mobile/)
 * [2025-06-10, 09:30:44](https://news.ycombinator.com/item?id=44234552) - [The Danish Ministry of Digitalization Is Switching to Linux and LibreOffice](https://politiken.dk/viden/tech/art10437680/Caroline-Stage-udfaser-Microsoft-i-Digitaliseringsministeriet)
 * [2025-06-10, 08:38:11](https://news.ycombinator.com/item?id=44234160) - [Mozilla shuts down even more Firefox services](https://www.neowin.net/news/mozilla-shuts-down-even-more-firefox-services-you-might-still-be-using/)
 * [2025-06-10, 06:30:03](https://news.ycombinator.com/item?id=44233315) - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
@@ -22,9 +23,8 @@
 * [2025-06-09, 17:09:47](https://news.ycombinator.com/item?id=44226612) - [Apple introduces a universal design across platforms](https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/)
 * [2025-06-09, 16:28:51](https://news.ycombinator.com/item?id=44226145) - [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
 * [2025-06-09, 16:09:03](https://news.ycombinator.com/item?id=44225930) - [Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking](https://news.ycombinator.com/item?id=44225930)
-* [2025-06-09, 14:42:03](https://news.ycombinator.com/item?id=44224992) - [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors could hack the nervous system with ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
-* [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
+* [2025-06-06, 22:25:01](https://news.ycombinator.com/item?id=44205620) - [NASA Mars Orbiter Captures Volcano Peeking Above Morning Cloud Tops](https://www.jpl.nasa.gov/news/nasa-mars-orbiter-captures-volcano-peeking-above-morning-cloud-tops/)
 * [2025-06-06, 21:47:10](https://news.ycombinator.com/item?id=44205319) - [Animate a mesh across a sphere's surface](https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface)
 * [2025-06-06, 18:06:11](https://news.ycombinator.com/item?id=44203464) - [Encapsulated Co–Ni alloy boosts high-temperature CO2 electroreduction](https://www.nature.com/articles/s41586-025-08978-0)
 * [2025-06-06, 16:51:50](https://news.ycombinator.com/item?id=44202759) - [The Chicxulub Asteroid Impact and Mass Extinction](https://www.science.org/doi/10.1126/science.1177265)
