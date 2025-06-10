@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-10, 20:15:47](https://news.ycombinator.com/item?id=44240999) - [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
+* [2025-06-10, 19:55:18](https://news.ycombinator.com/item?id=44240770) - [Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
 * [2025-06-10, 19:10:12](https://news.ycombinator.com/item?id=44240286) - [You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
 * [2025-06-10, 19:08:29](https://news.ycombinator.com/item?id=44240265) - [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
@@ -14,7 +16,6 @@
 * [2025-06-10, 15:04:38](https://news.ycombinator.com/item?id=44237700) - [Dubious Math in Infinite Jest (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
 * [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 * [2025-06-10, 14:01:35](https://news.ycombinator.com/item?id=44236926) - [Show HN: PyDoll – Async Python scraping engine with native CAPTCHA bypass](https://github.com/autoscrape-labs/pydoll)
-* [2025-06-10, 13:58:50](https://news.ycombinator.com/item?id=44236900) - [Finding Atari Games in Randomly Generated Data](https://bbenchoff.github.io/pages/FiniteAtari.html)
 * [2025-06-10, 13:58:30](https://news.ycombinator.com/item?id=44236891) - [Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
 * [2025-06-10, 13:54:25](https://news.ycombinator.com/item?id=44236849) - [Teaching National Security Policy with AI](https://steveblank.com/2025/06/10/teaching-national-security-policy-with-ai/)
 * [2025-06-10, 13:43:21](https://news.ycombinator.com/item?id=44236728) - [Mikeal Rogers has died](https://b.h4x.zip/mikeal/)
@@ -24,7 +25,6 @@
 * [2025-06-10, 11:50:15](https://news.ycombinator.com/item?id=44235628) - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
 * [2025-06-10, 11:29:29](https://news.ycombinator.com/item?id=44235467) - [\"Localhost tracking\" explained. It could cost Meta €32B](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-10, 05:30:22](https://news.ycombinator.com/item?id=44232880) - [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007)
-* [2025-06-09, 23:36:23](https://news.ycombinator.com/item?id=44230838) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 * [2025-06-09, 16:50:37](https://news.ycombinator.com/item?id=44226406) - [Denuvo Analysis](https://connorjaydunn.github.io/blog/posts/denuvo-analysis/)
 * [2025-06-07, 11:25:02](https://news.ycombinator.com/item?id=44208938) - [The Concurrency Trap: How an Atomic Counter Stalled a Pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)
