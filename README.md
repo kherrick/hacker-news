@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-10, 17:41:29](https://news.ycombinator.com/item?id=44239359) - [OpenAI dropped the price of o3 by 80%](https://twitter.com/sama/status/1932434606558462459)
 * [2025-06-10, 17:10:51](https://news.ycombinator.com/item?id=44239107) - [A Blacklisted American Magician Became a Hero in Brazil](https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a)
 * [2025-06-10, 15:59:42](https://news.ycombinator.com/item?id=44238404) - [JavelinGuard: Low-Cost Transformer Architectures for LLM Security](https://arxiv.org/abs/2506.07330)
 * [2025-06-10, 15:39:57](https://news.ycombinator.com/item?id=44238171) - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
@@ -18,7 +19,6 @@
 * [2025-06-10, 10:45:49](https://news.ycombinator.com/item?id=44235117) - [CompactLog – Solving CT Scalability with LSM-Trees](https://github.com/Barre/compact_log)
 * [2025-06-10, 05:30:22](https://news.ycombinator.com/item?id=44232880) - [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007)
 * [2025-06-10, 05:01:49](https://news.ycombinator.com/item?id=44232714) - [Successful people set constraints rather than chasing goals](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
-* [2025-06-10, 01:36:39](https://news.ycombinator.com/item?id=44231594) - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
 * [2025-06-09, 23:36:23](https://news.ycombinator.com/item?id=44230838) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 * [2025-06-09, 21:42:25](https://news.ycombinator.com/item?id=44229841) - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
 * [2025-06-09, 20:53:29](https://news.ycombinator.com/item?id=44229348) - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
@@ -26,10 +26,10 @@
 * [2025-06-09, 17:34:29](https://news.ycombinator.com/item?id=44226879) - [Show HN: Munal OS: a graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
 * [2025-06-09, 16:50:37](https://news.ycombinator.com/item?id=44226406) - [Denuvo Analysis](https://connorjaydunn.github.io/blog/posts/denuvo-analysis/)
 * [2025-06-09, 16:28:51](https://news.ycombinator.com/item?id=44226145) - [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
+* [2025-06-07, 11:25:02](https://news.ycombinator.com/item?id=44208938) - [The Concurrency Trap: How an Atomic Counter Stalled a Pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)
 * [2025-06-06, 21:47:10](https://news.ycombinator.com/item?id=44205319) - [Animate a mesh across a sphere's surface](https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface)
 * [2025-06-06, 21:17:41](https://news.ycombinator.com/item?id=44205077) - ['Proof' Review: Finding Truth in Numbers](https://www.wsj.com/arts-culture/books/proof-review-finding-truth-in-numbers-b9779228)
 * [2025-06-06, 19:39:36](https://news.ycombinator.com/item?id=44204249) - [A Primer on Molecular Dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics)
-* [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 
 ## [Archives](archives/index.md)
 

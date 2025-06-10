@@ -47,6 +47,7 @@
 * [2025-06-07, 11:40:54](https://news.ycombinator.com/item?id=44208985) - [Shirt Without Stripes](https://github.com/elsamuko/Shirt-without-Stripes)
 * [2025-06-07, 11:36:13](https://news.ycombinator.com/item?id=44208968) - [Why We're Moving on from Nix](https://blog.railway.com/p/introducing-railpack)
 * [2025-06-07, 11:35:07](https://news.ycombinator.com/item?id=44208963) - [I started with a SQL question. He said \"that's a dumb question.\"](https://twitter.com/ryxcommar/status/1930985076965142918)
+* [2025-06-07, 11:25:02](https://news.ycombinator.com/item?id=44208938) - [The Concurrency Trap: How an Atomic Counter Stalled a Pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)
 * [2025-06-07, 08:30:23](https://news.ycombinator.com/item?id=44208283) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:26:24](https://news.ycombinator.com/item?id=44208060) - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
 * [2025-06-07, 07:24:45](https://news.ycombinator.com/item?id=44208050) - [Windows 10 spies on your use of System Settings (2021)](https://www.michaelhorowitz.com/Windows10.spying.onsettings.php)
