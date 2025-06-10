@@ -52,6 +52,7 @@
 * [2025-06-07, 07:24:45](https://news.ycombinator.com/item?id=44208050) - [Windows 10 spies on your use of System Settings (2021)](https://www.michaelhorowitz.com/Windows10.spying.onsettings.php)
 * [2025-06-07, 07:15:00](https://news.ycombinator.com/item?id=44208017) - [Physicists observe a new form of magnetism](https://news.mit.edu/2025/physicists-observe-new-form-magnetism-0605)
 * [2025-06-07, 07:01:05](https://news.ycombinator.com/item?id=44207967) - [Ziina (YC W21) the Series A fintech is hiring product engineers](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86)
+* [2025-06-07, 06:53:41](https://news.ycombinator.com/item?id=44207943) - [Working with the EPA to Secure Exposed Water HMIs](https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis)
 * [2025-06-07, 05:46:31](https://news.ycombinator.com/item?id=44207676) - [I built a knowledge system that gives AI perfect codebase memory](https://github.com/Muvon/octocode)
 * [2025-06-07, 04:45:13](https://news.ycombinator.com/item?id=44207503) - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
 * [2025-06-07, 04:30:48](https://news.ycombinator.com/item?id=44207442) - [Tesla AI VP Milan Kovac Resigns After 9 Years Leading FSD and Optimus Projects](https://gearmusk.com/2025/06/07/tesla-ai-vp-milan-kovac-resigns/)
