@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-10, 20:47:11",
+      "https://news.ycombinator.com/item?id=44241278"
+    ],
+    [
+      "Show HN: I made a 3D printed VTOL drone",
+      "https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 20:36:55",
       "https://news.ycombinator.com/item?id=44241202"
     ],
@@ -287,16 +297,6 @@
     [
       "The Concurrency Trap: How an Atomic Counter Stalled a Pipeline",
       "https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 19:39:36",
-      "https://news.ycombinator.com/item?id=44204249"
-    ],
-    [
-      "A Primer on Molecular Dynamics",
-      "https://www.owlposting.com/p/a-primer-on-molecular-dynamics"
     ]
   ]
 ]
