@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-10, 15:39:57",
+      "https://news.ycombinator.com/item?id=44238171"
+    ],
+    [
+      "Show HN: Chili3d – A open-source, browser-based 3D CAD application",
+      "https://news.ycombinator.com/item?id=44238171"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 15:09:30",
       "https://news.ycombinator.com/item?id=44237769"
     ],
@@ -37,16 +47,6 @@
     [
       "Magistral — the first reasoning model by Mistral AI",
       "https://mistral.ai/news/magistral"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 14:05:25",
-      "https://news.ycombinator.com/item?id=44236970"
-    ],
-    [
-      "Plato got virtually everything wrong (2018)",
-      "https://www.prospectmagazine.co.uk/opinions/41672/plato-got-virtually-everything-wrong"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=44236241"
     ],
     [
-      "The curious case of shell commands, or how \"this bug is required by POSIX\"",
+      "The curious case of shell commands, or how \"this bug is required by POSIX\" (2021)",
       "https://notes.volution.ro/v1/2021/01/notes/502e747f/"
     ]
   ],
@@ -147,6 +147,26 @@
     [
       "CompactLog – Solving CT Scalability with LSM-Trees",
       "https://github.com/Barre/compact_log"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 08:56:30",
+      "https://news.ycombinator.com/item?id=44234290"
+    ],
+    [
+      "Denmark: Minister for Digitalization wants to phase out Microsoft",
+      "https://nordjyske.dk/nyheder/politik/digitaliseringsminister-vil-udfase-microsoft-i-sit-eget-ministerium/5616096"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 05:30:22",
+      "https://news.ycombinator.com/item?id=44232880"
+    ],
+    [
+      "Reinforcement Pre-Training",
+      "https://arxiv.org/abs/2506.08007"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-06-09, 17:09:47",
-      "https://news.ycombinator.com/item?id=44226612"
-    ],
-    [
-      "Apple introduces a universal design across platforms",
-      "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 16:50:37",
       "https://news.ycombinator.com/item?id=44226406"
     ],
@@ -287,16 +297,6 @@
     [
       "Encapsulated Co–Ni alloy boosts high-temperature CO2 electroreduction",
       "https://www.nature.com/articles/s41586-025-08978-0"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 12:14:39",
-      "https://news.ycombinator.com/item?id=44179889"
-    ],
-    [
-      "Go is a good fit for agents",
-      "https://docs.hatchet.run/blog/go-agents"
     ]
   ]
 ]
