@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-10, 04:04:41",
+      "https://news.ycombinator.com/item?id=44232371"
+    ],
+    [
+      "Scientific Papers: Innovation or Imitation?",
+      "https://www.johndcook.com/blog/2025/06/05/scientific-papers-innovation-or-imitation/"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 01:48:07",
       "https://news.ycombinator.com/item?id=44231649"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-06-09, 15:54:16",
-      "https://news.ycombinator.com/item?id=44225761"
-    ],
-    [
-      "Algovivo an energy-based formulation for soft-bodied virtual creatures",
-      "https://juniorrojas.com/algovivo/"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 15:16:48",
       "https://news.ycombinator.com/item?id=44225352"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-06-09, 07:16:26",
-      "https://news.ycombinator.com/item?id=44222119"
-    ],
-    [
-      "Finding Shawn Mendes (2019)",
-      "https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 06:53:41",
       "https://news.ycombinator.com/item?id=44207943"
     ],
@@ -237,6 +227,26 @@
     [
       "A Rippling Townhouse Facade by Alex Chinneck Takes a Seat in a London Square",
       "https://www.thisiscolossal.com/2025/05/alex-chinneck-a-week-at-the-knees/"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 17:18:51",
+      "https://news.ycombinator.com/item?id=44203014"
+    ],
+    [
+      "Debugging Azure Networking for Elastic Cloud Serverless",
+      "https://www.elastic.co/observability-labs/blog/debugging-aks-packet-loss"
+    ]
+  ],
+  [
+    [
+      "2025-06-06, 14:26:35",
+      "https://news.ycombinator.com/item?id=44201267"
+    ],
+    [
+      "JavaScript await was rogue rogue along",
+      "https://codedynasty.dev/posts/Javascript-await-was-rogue-all-along"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Show HN: An open-source rhythm dungeon crawler in 16 x 9 pixels",
       "https://github.com/jgalecki/qrawl-tiny-mass-disco"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 08:06:28",
-      "https://news.ycombinator.com/item?id=44198751"
-    ],
-    [
-      "Apps shouldn't let users enter OpenSSL cipher-suite strings",
-      "https://00f.net/2025/06/06/cipher-suites/"
     ]
   ],
   [
