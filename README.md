@@ -3,7 +3,6 @@
 * [2025-06-10, 15:39:57](https://news.ycombinator.com/item?id=44238171) - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
 * [2025-06-10, 15:09:30](https://news.ycombinator.com/item?id=44237769) - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
 * [2025-06-10, 15:04:38](https://news.ycombinator.com/item?id=44237700) - [Dubious Math in Infinite Jest (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
-* [2025-06-10, 14:29:29](https://news.ycombinator.com/item?id=44237229) - [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
 * [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 * [2025-06-10, 14:01:35](https://news.ycombinator.com/item?id=44236926) - [Show HN: PyDoll – Async Python scraping engine with native CAPTCHA bypass](https://github.com/autoscrape-labs/pydoll)
 * [2025-06-10, 13:58:50](https://news.ycombinator.com/item?id=44236900) - [Finding Atari Games in Randomly Generated Data](https://bbenchoff.github.io/pages/FiniteAtari.html)
@@ -30,6 +29,7 @@
 * [2025-06-06, 21:17:41](https://news.ycombinator.com/item?id=44205077) - ['Proof' Review: Finding Truth in Numbers](https://www.wsj.com/arts-culture/books/proof-review-finding-truth-in-numbers-b9779228)
 * [2025-06-06, 19:39:36](https://news.ycombinator.com/item?id=44204249) - [A Primer on Molecular Dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics)
 * [2025-06-06, 18:06:11](https://news.ycombinator.com/item?id=44203464) - [Encapsulated Co–Ni alloy boosts high-temperature CO2 electroreduction](https://www.nature.com/articles/s41586-025-08978-0)
+* [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 
 ## [Archives](archives/index.md)
 
