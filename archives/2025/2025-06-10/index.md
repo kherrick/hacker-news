@@ -6,6 +6,7 @@
 
 * [2025-06-10, 15:59:42](https://news.ycombinator.com/item?id=44238404) - [JavelinGuard: Low-Cost Transformer Architectures for LLM Security](https://arxiv.org/abs/2506.07330)
 * [2025-06-10, 15:39:57](https://news.ycombinator.com/item?id=44238171) - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
+* [2025-06-10, 15:16:27](https://news.ycombinator.com/item?id=44237881) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:09:30](https://news.ycombinator.com/item?id=44237769) - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
 * [2025-06-10, 15:04:38](https://news.ycombinator.com/item?id=44237700) - [Intentional math errors in David Foster Wallace's work (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
 * [2025-06-10, 14:29:29](https://news.ycombinator.com/item?id=44237229) - [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
@@ -15,6 +16,7 @@
 * [2025-06-10, 13:58:50](https://news.ycombinator.com/item?id=44236900) - [Finding Atari Games in Randomly Generated Data](https://bbenchoff.github.io/pages/FiniteAtari.html)
 * [2025-06-10, 13:58:30](https://news.ycombinator.com/item?id=44236891) - [Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
 * [2025-06-10, 13:54:25](https://news.ycombinator.com/item?id=44236849) - [Teaching National Security Policy with AI](https://steveblank.com/2025/06/10/teaching-national-security-policy-with-ai/)
+* [2025-06-10, 13:31:02](https://news.ycombinator.com/item?id=44236577) - [Wharton Esherick and the Armstrong Linoleum Company](https://whartonesherickmuseum.org/wharton-esherick-and-armstrong-linoleum/)
 * [2025-06-10, 13:27:00](https://news.ycombinator.com/item?id=44236526) - [Drone shows: Will they overtake firework displays?](https://www.bbc.co.uk/news/articles/c79ewz7qej4o)
 * [2025-06-10, 13:17:01](https://news.ycombinator.com/item?id=44236423) - [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
 * [2025-06-10, 12:56:36](https://news.ycombinator.com/item?id=44236241) - [The curious case of shell commands, or how \"this bug is required by POSIX\"](https://notes.volution.ro/v1/2021/01/notes/502e747f/)
