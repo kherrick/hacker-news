@@ -10,6 +10,7 @@
 * [2025-06-07, 21:38:48](https://news.ycombinator.com/item?id=44212855) - [You Need Much Less Memory Than Time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
 * [2025-06-07, 21:35:44](https://news.ycombinator.com/item?id=44212845) - [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
 * [2025-06-07, 21:03:28](https://news.ycombinator.com/item?id=44212650) - [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
+* [2025-06-07, 20:46:14](https://news.ycombinator.com/item?id=44212537) - [Exploring our collection: the canary resuscitator (2018)](https://blog.scienceandindustrymuseum.org.uk/canary-resuscitator/)
 * [2025-06-07, 20:45:46](https://news.ycombinator.com/item?id=44212532) - [Stop Vibe Coding. Start Cyborg Coding](https://chaserabenn.medium.com/stop-vibe-coding-start-cyborg-coding-640f3e16c83e)
 * [2025-06-07, 20:33:38](https://news.ycombinator.com/item?id=44212449) - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
 * [2025-06-07, 20:33:18](https://news.ycombinator.com/item?id=44212446) - [Convert Photos to Atkinson Dithering](https://gazs.github.io/canvas-atkinson-dither/)
