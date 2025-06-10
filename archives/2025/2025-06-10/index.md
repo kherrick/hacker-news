@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 06:51:14](https://news.ycombinator.com/item?id=44233480) - [Europe needs digital sovereignty – and Microsoft has just proven why](https://tuta.com/blog/digital-sovereignty-europe)
 * [2025-06-10, 06:30:03](https://news.ycombinator.com/item?id=44233315) - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
 * [2025-06-10, 06:12:52](https://news.ycombinator.com/item?id=44233188) - [Ada Continues to Climb in June Tiobe Index and PYPL](https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126)
 * [2025-06-10, 05:17:15](https://news.ycombinator.com/item?id=44232802) - [World fertility rates in 'unprecedented decline', UN says](https://www.bbc.co.uk/news/articles/clynq459wxgo)
