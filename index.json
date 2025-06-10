@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-06-09, 21:25:44",
-      "https://news.ycombinator.com/item?id=44229694"
-    ],
-    [
-      "The Xerox Alto, Smalltalk, and rewriting a running GUI (2017)",
-      "https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 20:53:29",
       "https://news.ycombinator.com/item?id=44229348"
     ],
@@ -237,6 +227,16 @@
     [
       "Bruteforcing the phone number of any Google user",
       "https://brutecat.com/articles/leaking-google-phones"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 00:00:10",
+      "https://news.ycombinator.com/item?id=44206238"
+    ],
+    [
+      "Why does C++ think my class is copy-constructible when it can't be?",
+      "https://devblogs.microsoft.com/oldnewthing/20250606-00/?p=111254"
     ]
   ],
   [
