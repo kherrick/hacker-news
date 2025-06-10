@@ -17,6 +17,7 @@
 * [2025-06-10, 11:58:22](https://news.ycombinator.com/item?id=44235701) - [Apple Fails to Clear a Low Bar on AI](https://www.wsj.com/tech/ai/apple-ai-strategy-wwdc-challenges-bdae4fb5)
 * [2025-06-10, 11:50:15](https://news.ycombinator.com/item?id=44235628) - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
 * [2025-06-10, 11:29:29](https://news.ycombinator.com/item?id=44235467) - [\"Localhost tracking\" explained. It could cost Meta 32B](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
+* [2025-06-10, 10:52:29](https://news.ycombinator.com/item?id=44235177) - [WWDC25: macOS Tahoe Breaks Decades of Finder History](https://512pixels.net/2025/06/wwdc25-macos-tahoe-breaks-decades-of-finder-history/)
 * [2025-06-10, 10:47:41](https://news.ycombinator.com/item?id=44235129) - [IBM to build first large-scale, error-corrected quantum computer by 2028](https://www.technologyreview.com/2025/06/10/1118297/ibm-large-scale-error-corrected-quantum-computer-by-2028/)
 * [2025-06-10, 10:45:49](https://news.ycombinator.com/item?id=44235117) - [CompactLog – Solving CT Scalability with LSM-Trees](https://github.com/Barre/compact_log)
 * [2025-06-10, 10:41:00](https://news.ycombinator.com/item?id=44235080) - [Telegram, the FSB, and the Man in the Middle](https://istories.media/en/stories/2025/06/10/telegram-fsb/)
