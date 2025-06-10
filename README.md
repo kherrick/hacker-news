@@ -22,12 +22,12 @@
 * [2025-06-10, 15:04:38](https://news.ycombinator.com/item?id=44237700) - [Dubious Math in Infinite Jest (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
 * [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 * [2025-06-10, 13:58:30](https://news.ycombinator.com/item?id=44236891) - [Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
-* [2025-06-10, 13:54:25](https://news.ycombinator.com/item?id=44236849) - [Teaching National Security Policy with AI](https://steveblank.com/2025/06/10/teaching-national-security-policy-with-ai/)
 * [2025-06-10, 13:43:21](https://news.ycombinator.com/item?id=44236728) - [Mikeal Rogers has died](https://b.h4x.zip/mikeal/)
 * [2025-06-10, 13:17:01](https://news.ycombinator.com/item?id=44236423) - [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
 * [2025-06-10, 12:00:39](https://news.ycombinator.com/item?id=44235716) - [Onlook (YC W25) Is Hiring an engineer in SF](https://news.ycombinator.com/item?id=44235716)
 * [2025-06-10, 11:50:15](https://news.ycombinator.com/item?id=44235628) - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
 * [2025-06-09, 16:50:37](https://news.ycombinator.com/item?id=44226406) - [Denuvo Analysis](https://connorjaydunn.github.io/blog/posts/denuvo-analysis/)
+* [2025-06-08, 15:18:36](https://news.ycombinator.com/item?id=44217502) - [Show HN: Update to my meta glasses API \"Hey Meta send a message to ChatGPT\"](https://github.com/dcrebbin/meta-vision-api)
 * [2025-06-08, 13:50:41](https://news.ycombinator.com/item?id=44216996) - [A Thousand Tiny Optimisations](https://leejo.github.io/2025/06/08/alttpr/)
 * [2025-06-07, 20:46:14](https://news.ycombinator.com/item?id=44212537) - [Exploring our collection: the canary resuscitator (2018)](https://blog.scienceandindustrymuseum.org.uk/canary-resuscitator/)
 
