@@ -13,7 +13,6 @@
 * [2025-06-10, 13:54:25](https://news.ycombinator.com/item?id=44236849) - [Teaching National Security Policy with AI](https://steveblank.com/2025/06/10/teaching-national-security-policy-with-ai/)
 * [2025-06-10, 13:31:02](https://news.ycombinator.com/item?id=44236577) - [Wharton Esherick and the Armstrong Linoleum Company](https://whartonesherickmuseum.org/wharton-esherick-and-armstrong-linoleum/)
 * [2025-06-10, 13:17:01](https://news.ycombinator.com/item?id=44236423) - [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
-* [2025-06-10, 12:56:36](https://news.ycombinator.com/item?id=44236241) - [The curious case of shell commands, or how \"this bug is required by POSIX\" (2021)](https://notes.volution.ro/v1/2021/01/notes/502e747f/)
 * [2025-06-10, 12:00:39](https://news.ycombinator.com/item?id=44235716) - [Onlook (YC W25) Is Hiring an engineer in SF](https://news.ycombinator.com/item?id=44235716)
 * [2025-06-10, 11:50:15](https://news.ycombinator.com/item?id=44235628) - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
 * [2025-06-10, 10:45:49](https://news.ycombinator.com/item?id=44235117) - [CompactLog – Solving CT Scalability with LSM-Trees](https://github.com/Barre/compact_log)
@@ -30,6 +29,7 @@
 * [2025-06-06, 21:47:10](https://news.ycombinator.com/item?id=44205319) - [Animate a mesh across a sphere's surface](https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface)
 * [2025-06-06, 21:17:41](https://news.ycombinator.com/item?id=44205077) - ['Proof' Review: Finding Truth in Numbers](https://www.wsj.com/arts-culture/books/proof-review-finding-truth-in-numbers-b9779228)
 * [2025-06-06, 19:39:36](https://news.ycombinator.com/item?id=44204249) - [A Primer on Molecular Dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics)
+* [2025-06-04, 12:14:39](https://news.ycombinator.com/item?id=44179889) - [Go is a good fit for agents](https://docs.hatchet.run/blog/go-agents)
 
 ## [Archives](archives/index.md)
 
