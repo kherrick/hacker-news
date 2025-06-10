@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
+* [2025-06-10, 13:58:50](https://news.ycombinator.com/item?id=44236900) - [Finding Atari Games in Randomly Generated Data](https://bbenchoff.github.io/pages/FiniteAtari.html)
+* [2025-06-10, 13:58:30](https://news.ycombinator.com/item?id=44236891) - [Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
 * [2025-06-10, 13:17:01](https://news.ycombinator.com/item?id=44236423) - [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
 * [2025-06-10, 12:00:39](https://news.ycombinator.com/item?id=44235716) - [Onlook (YC W25) Is Hiring a a Founding Engineer in SF](https://news.ycombinator.com/item?id=44235716)
+* [2025-06-10, 11:58:22](https://news.ycombinator.com/item?id=44235701) - [Apple Fails to Clear a Low Bar on AI](https://www.wsj.com/tech/ai/apple-ai-strategy-wwdc-challenges-bdae4fb5)
 * [2025-06-10, 11:50:15](https://news.ycombinator.com/item?id=44235628) - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
 * [2025-06-10, 11:29:29](https://news.ycombinator.com/item?id=44235467) - [\"Localhost tracking\" explained. It could cost Meta 32B](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-10, 10:47:41](https://news.ycombinator.com/item?id=44235129) - [IBM to build first large-scale, error-corrected quantum computer by 2028](https://www.technologyreview.com/2025/06/10/1118297/ibm-large-scale-error-corrected-quantum-computer-by-2028/)
