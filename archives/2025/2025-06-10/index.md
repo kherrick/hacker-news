@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 20:36:55](https://news.ycombinator.com/item?id=44241202) - [Show HN: A \"Course\" as an MCP Server](https://mastra.ai/course)
 * [2025-06-10, 20:15:47](https://news.ycombinator.com/item?id=44240999) - [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
 * [2025-06-10, 19:55:18](https://news.ycombinator.com/item?id=44240770) - [Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
