@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-10, 14:08:01",
+      "https://news.ycombinator.com/item?id=44236997"
+    ],
+    [
+      "Magistral — the first reasoning model by Mistral AI",
+      "https://mistral.ai/news/magistral"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 13:58:50",
+      "https://news.ycombinator.com/item?id=44236900"
+    ],
+    [
+      "Finding Atari Games in Randomly Generated Data",
+      "https://bbenchoff.github.io/pages/FiniteAtari.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 13:58:30",
+      "https://news.ycombinator.com/item?id=44236891"
+    ],
+    [
+      "Spoofing OpenPGP.js signature verification",
+      "https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 13:17:01",
       "https://news.ycombinator.com/item?id=44236423"
     ],
@@ -21,6 +51,16 @@
   ],
   [
     [
+      "2025-06-10, 11:58:22",
+      "https://news.ycombinator.com/item?id=44235701"
+    ],
+    [
+      "Apple Fails to Clear a Low Bar on AI",
+      "https://www.wsj.com/tech/ai/apple-ai-strategy-wwdc-challenges-bdae4fb5"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 11:50:15",
       "https://news.ycombinator.com/item?id=44235628"
     ],
@@ -37,16 +77,6 @@
     [
       "CompactLog – Solving CT Scalability with LSM-Trees",
       "https://github.com/Barre/compact_log"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 06:30:03",
-      "https://news.ycombinator.com/item?id=44233315"
-    ],
-    [
-      "Show HN: A MCP server and client implementing the latest spec",
-      "https://github.com/hemanth/paws-on-mcp"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-06-09, 20:42:23",
-      "https://news.ycombinator.com/item?id=44229239"
-    ],
-    [
-      "Container: Apple's Linux-Container Runtime",
-      "https://github.com/apple/container"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 17:44:16",
       "https://news.ycombinator.com/item?id=44226978"
     ],
@@ -197,16 +217,6 @@
     [
       "Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking",
       "https://news.ycombinator.com/item?id=44225930"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 15:16:48",
-      "https://news.ycombinator.com/item?id=44225352"
-    ],
-    [
-      "Show HN: Most users won't report bugs unless you make it stupidly easy",
-      "https://news.ycombinator.com/item?id=44225352"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Encapsulated Co–Ni alloy boosts high-temperature CO2 electroreduction",
       "https://www.nature.com/articles/s41586-025-08978-0"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 14:15:28",
-      "https://news.ycombinator.com/item?id=44201143"
-    ],
-    [
-      "What methylene blue can (and can’t) do for the brain",
-      "https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/"
     ]
   ],
   [
