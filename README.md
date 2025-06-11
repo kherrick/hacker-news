@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-11, 12:44:15](https://news.ycombinator.com/item?id=44247029) - [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
-* [2025-06-11, 12:37:18](https://news.ycombinator.com/item?id=44246977) - [Why common climate messaging backfires](https://phys.org/news/2025-06-common-climate-messaging-backfires.html)
 * [2025-06-11, 12:31:15](https://news.ycombinator.com/item?id=44246920) - [Menstrual tracking app data is gold mine for advertisers that risks women safety](https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report)
 * [2025-06-11, 11:36:47](https://news.ycombinator.com/item?id=44246518) - [Firefox OS's story from a Mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
 * [2025-06-11, 09:20:51](https://news.ycombinator.com/item?id=44245709) - [Show HN: DIY virtual HDMI monitor using \"AR\" glasses](https://github.com/mgschwan/viture_virtual_display)
@@ -16,6 +15,7 @@
 * [2025-06-10, 19:08:29](https://news.ycombinator.com/item?id=44240265) - [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
 * [2025-06-10, 17:55:08](https://news.ycombinator.com/item?id=44239481) - [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
 * [2025-06-10, 17:41:29](https://news.ycombinator.com/item?id=44239359) - [OpenAI dropped the price of o3 by 80%](https://twitter.com/sama/status/1932434606558462459)
+* [2025-06-10, 17:10:51](https://news.ycombinator.com/item?id=44239107) - [A Blacklisted American Magician Became a Hero in Brazil](https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a)
 * [2025-06-10, 15:39:57](https://news.ycombinator.com/item?id=44238171) - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
 * [2025-06-10, 15:16:27](https://news.ycombinator.com/item?id=44237881) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:09:30](https://news.ycombinator.com/item?id=44237769) - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
