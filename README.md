@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-11, 21:37:04](https://news.ycombinator.com/item?id=44252076) - [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
 * [2025-06-11, 21:36:06](https://news.ycombinator.com/item?id=44252070) - [Institutional Books: A 242B token dataset from Harvard Library's collections](https://arxiv.org/abs/2506.08300)
 * [2025-06-11, 21:00:26](https://news.ycombinator.com/item?id=44251755) - [Shaped (YC W22) Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
 * [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
@@ -21,7 +22,6 @@
 * [2025-06-11, 06:53:06](https://news.ycombinator.com/item?id=44244879) - [Why Koreans ask what year you were born](https://bryanhogan.com/blog/korean-age)
 * [2025-06-10, 20:47:11](https://news.ycombinator.com/item?id=44241278) - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
-* [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 * [2025-06-10, 11:17:31](https://news.ycombinator.com/item?id=44235369) - [How Long Does It Take to Draw a Picture of Every Pub in London?](https://www.nytimes.com/2025/06/10/world/europe/artist-pub-london-wood.html)
 * [2025-06-09, 05:30:14](https://news.ycombinator.com/item?id=44221655) - [How I Program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-08, 15:45:39](https://news.ycombinator.com/item?id=44217663) - [Air-dried vs. Kiln-dried Wood](https://christopherschwarz.substack.com/p/air-dried-vs-kiln-dried-wood)
