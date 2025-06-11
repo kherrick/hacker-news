@@ -25,11 +25,11 @@
 * [2025-06-09, 05:30:14](https://news.ycombinator.com/item?id=44221655) - [How I Program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-08, 20:45:46](https://news.ycombinator.com/item?id=44219379) - [We’re secretly winning the war on cancer](https://www.vox.com/health/415812/cancer-death-rates-myeloma-immunotherapy-smoking)
 * [2025-06-08, 15:45:39](https://news.ycombinator.com/item?id=44217663) - [Air-dried vs. Kiln-dried Wood](https://christopherschwarz.substack.com/p/air-dried-vs-kiln-dried-wood)
+* [2025-06-08, 14:51:27](https://news.ycombinator.com/item?id=44217356) - [Rohde and Schwarz AMIQ Modulation Generator Teardown](https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html)
 * [2025-06-08, 07:18:50](https://news.ycombinator.com/item?id=44215236) - [Demystifying Debuggers](https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy)
 * [2025-06-08, 07:04:41](https://news.ycombinator.com/item?id=44215160) - [The Hashtable Packing Problem (2020)](https://backscattering.de/chess/hashtable-packing/)
 * [2025-06-07, 21:48:15](https://news.ycombinator.com/item?id=44212911) - [Lessons from That 1834 Landscape Gardening Guidebook](https://fi-le.net/pueckler/)
 * [2025-06-07, 17:04:49](https://news.ycombinator.com/item?id=44210921) - [The librarian immediately attempts to sell you a vuvuzela](https://kaveland.no/posts/2025-06-06-library)
-* [2025-06-07, 16:26:09](https://news.ycombinator.com/item?id=44210649) - [The “Frankfurt Kitchen”](https://museumderdinge.org/programme/exhibitions/the-frankfurt-kitchen/)
 
 ## [Archives](archives/index.md)
 
