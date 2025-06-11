@@ -56,6 +56,7 @@
 * [2025-06-08, 06:21:42](https://news.ycombinator.com/item?id=44214960) - [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
 * [2025-06-08, 06:13:15](https://news.ycombinator.com/item?id=44214926) - [Reverse engineering Claude Code (April 2025)](https://kirshatrov.com/posts/claude-code-internals)
 * [2025-06-08, 06:05:03](https://news.ycombinator.com/item?id=44214889) - [Re: My AI skeptic friends are all nuts](https://skarlso.github.io/2025/06/07/re-my-ai-skeptic-friends-are-all-nuts/)
+* [2025-06-08, 06:01:50](https://news.ycombinator.com/item?id=44214878) - [Characterizing my first attempt at copper-only passives](https://moroso.emarhavil.com/~joshua/2pf-characterization.html)
 * [2025-06-08, 05:52:49](https://news.ycombinator.com/item?id=44214835) - [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/)
 * [2025-06-08, 04:41:39](https://news.ycombinator.com/item?id=44214588) - [The Diary of Samuel Pepys](https://www.historytoday.com/archive/feature/hidden-diary-samuel-pepys)
 * [2025-06-08, 04:17:43](https://news.ycombinator.com/item?id=44214522) - [<Blink> and <Marquee>](https://danq.me/2020/11/11/blink-and-marquee/)

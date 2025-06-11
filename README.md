@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-11, 22:29:44](https://news.ycombinator.com/item?id=44252516) - [Social media use increases depression in preteens, not vice versa](https://medicalxpress.com/news/2025-05-social-media-depression-preteens-vice.html)
 * [2025-06-11, 21:37:04](https://news.ycombinator.com/item?id=44252076) - [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
 * [2025-06-11, 21:36:06](https://news.ycombinator.com/item?id=44252070) - [Institutional Books: A 242B token dataset from Harvard Library's collections](https://arxiv.org/abs/2506.08300)
 * [2025-06-11, 21:00:26](https://news.ycombinator.com/item?id=44251755) - [Shaped (YC W22) Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
@@ -8,7 +9,6 @@
 * [2025-06-11, 19:11:00](https://news.ycombinator.com/item?id=44250774) - [EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
 * [2025-06-11, 18:07:04](https://news.ycombinator.com/item?id=44250206) - [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954)
 * [2025-06-11, 17:02:56](https://news.ycombinator.com/item?id=44249565) - [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
-* [2025-06-11, 16:52:49](https://news.ycombinator.com/item?id=44249467) - [Brian Wilson has died](https://pitchfork.com/news/the-beach-boys-brian-wilson-dies-at-82/)
 * [2025-06-11, 16:46:48](https://news.ycombinator.com/item?id=44249417) - [Dolly Parton's Dollywood Express](https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier)
 * [2025-06-11, 14:43:27](https://news.ycombinator.com/item?id=44248165) - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
 * [2025-06-11, 14:25:05](https://news.ycombinator.com/item?id=44247964) - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
@@ -25,7 +25,7 @@
 * [2025-06-10, 11:17:31](https://news.ycombinator.com/item?id=44235369) - [How Long Does It Take to Draw a Picture of Every Pub in London?](https://www.nytimes.com/2025/06/10/world/europe/artist-pub-london-wood.html)
 * [2025-06-09, 05:30:14](https://news.ycombinator.com/item?id=44221655) - [How I Program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-08, 15:45:39](https://news.ycombinator.com/item?id=44217663) - [Air-dried vs. Kiln-dried Wood](https://christopherschwarz.substack.com/p/air-dried-vs-kiln-dried-wood)
-* [2025-06-08, 14:51:27](https://news.ycombinator.com/item?id=44217356) - [Rohde and Schwarz AMIQ Modulation Generator Teardown](https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html)
+* [2025-06-08, 06:01:50](https://news.ycombinator.com/item?id=44214878) - [Characterizing my first attempt at copper-only passives](https://moroso.emarhavil.com/~joshua/2pf-characterization.html)
 * [2025-06-08, 04:41:39](https://news.ycombinator.com/item?id=44214588) - [The Diary of Samuel Pepys](https://www.historytoday.com/archive/feature/hidden-diary-samuel-pepys)
 * [2025-06-07, 21:48:15](https://news.ycombinator.com/item?id=44212911) - [Lessons from That 1834 Landscape Gardening Guidebook](https://fi-le.net/pueckler/)
 * [2025-06-07, 19:27:38](https://news.ycombinator.com/item?id=44211971) - [Plants hear their pollinators, and produce sweet nectar in response](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response)
