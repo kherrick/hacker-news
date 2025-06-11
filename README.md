@@ -18,7 +18,6 @@
 * [2025-06-10, 15:39:57](https://news.ycombinator.com/item?id=44238171) - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
 * [2025-06-10, 15:16:27](https://news.ycombinator.com/item?id=44237881) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:09:30](https://news.ycombinator.com/item?id=44237769) - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
-* [2025-06-10, 15:04:38](https://news.ycombinator.com/item?id=44237700) - [Dubious Math in Infinite Jest (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
 * [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 * [2025-06-10, 13:43:21](https://news.ycombinator.com/item?id=44236728) - [Mikeal Rogers has died](https://b.h4x.zip/mikeal/)
 * [2025-06-10, 13:17:01](https://news.ycombinator.com/item?id=44236423) - [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
@@ -30,6 +29,7 @@
 * [2025-06-08, 07:18:50](https://news.ycombinator.com/item?id=44215236) - [Demystifying Debuggers](https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy)
 * [2025-06-08, 07:04:41](https://news.ycombinator.com/item?id=44215160) - [The Hashtable Packing Problem (2020)](https://backscattering.de/chess/hashtable-packing/)
 * [2025-06-07, 17:04:49](https://news.ycombinator.com/item?id=44210921) - [The librarian immediately attempts to sell you a vuvuzela](https://kaveland.no/posts/2025-06-06-library)
+* [2025-06-07, 16:26:09](https://news.ycombinator.com/item?id=44210649) - [The \"Frankfurt Kitchen\"](https://museumderdinge.org/programme/exhibitions/the-frankfurt-kitchen/)
 
 ## [Archives](archives/index.md)
 
