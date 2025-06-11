@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-11, 21:00:26](https://news.ycombinator.com/item?id=44251755) - [Shaped (YC W22) Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
-* [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Open source TTS by Resemble (claiming they are sota)](https://github.com/resemble-ai/chatterbox)
+* [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
 * [2025-06-11, 19:44:29](https://news.ycombinator.com/item?id=44251047) - [Research suggests Big Bang may have taken place inside a black hole](https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole)
 * [2025-06-11, 19:11:00](https://news.ycombinator.com/item?id=44250774) - [EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
 * [2025-06-11, 18:07:04](https://news.ycombinator.com/item?id=44250206) - [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954)
@@ -21,8 +21,8 @@
 * [2025-06-10, 20:47:11](https://news.ycombinator.com/item?id=44241278) - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
 * [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
+* [2025-06-10, 11:17:31](https://news.ycombinator.com/item?id=44235369) - [How Long Does It Take to Draw a Picture of Every Pub in London?](https://www.nytimes.com/2025/06/10/world/europe/artist-pub-london-wood.html)
 * [2025-06-09, 05:30:14](https://news.ycombinator.com/item?id=44221655) - [How I Program with Agents](https://crawshaw.io/blog/programming-with-agents)
-* [2025-06-08, 21:46:28](https://news.ycombinator.com/item?id=44219680) - [Researchers discover evidence in the mystery of America's 'Lost Colony'](https://www.foxnews.com/travel/mystery-americas-lost-colony-may-finally-solved-after-440-years-archaeologists-say)
 * [2025-06-08, 18:43:08](https://news.ycombinator.com/item?id=44218795) - [Activity annealing leads to a ductile-to-brittle transition in amorphous solids](https://www.nature.com/articles/s41567-024-02724-5)
 * [2025-06-08, 15:45:39](https://news.ycombinator.com/item?id=44217663) - [Air-dried vs. Kiln-dried Wood](https://christopherschwarz.substack.com/p/air-dried-vs-kiln-dried-wood)
 * [2025-06-08, 14:51:27](https://news.ycombinator.com/item?id=44217356) - [Rohde and Schwarz AMIQ Modulation Generator Teardown](https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html)
