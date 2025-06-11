@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-11, 17:39:06",
-      "https://news.ycombinator.com/item?id=44249932"
+      "2025-06-11, 18:49:56",
+      "https://news.ycombinator.com/item?id=44250590"
     ],
     [
-      "Fervo Energy Drills 15,000', 520 F Geothermal Well in 16 Drilling Days",
-      "https://www.businesswire.com/news/home/20250610223846/en/Fervo-Energy-Drills-15000-FT-500F-Geothermal-Well-Pushing-the-Envelope-for-EGS-Deployment"
+      "Spice Data (YC S19) Is Hiring a Junior Software Engineer – Back End (New Grad)",
+      "https://www.ycombinator.com/companies/spice-data/jobs/WccsImv-junior-software-engineer-backend-new-grad"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 18:07:04",
+      "https://news.ycombinator.com/item?id=44250206"
+    ],
+    [
+      "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents",
+      "https://arxiv.org/abs/2505.22954"
     ]
   ],
   [
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2025-06-11, 14:43:38",
+      "https://news.ycombinator.com/item?id=44248167"
+    ],
+    [
+      "Compiler Explorer Cost Transparency",
+      "https://xania.org/202506/compiler-explorer-cost-transparency"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 14:43:27",
       "https://news.ycombinator.com/item?id=44248165"
     ],
@@ -117,16 +137,6 @@
     [
       "DeskHog, an open-source developer toy",
       "https://posthog.com/deskhog"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 12:56:26",
-      "https://news.ycombinator.com/item?id=44247124"
-    ],
-    [
-      "Mapbox Geospatial MCP Server",
-      "https://github.com/mapbox/mcp-server"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Magistral — the first reasoning model by Mistral AI",
       "https://mistral.ai/news/magistral"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 07:06:23",
-      "https://news.ycombinator.com/item?id=44222074"
-    ],
-    [
-      "Publish a Python Wheel to GCP Artifact Registry with Poetry",
-      "https://sergiolema.dev/2025/06/09/publish-a-python-wheel-to-gcp-artifact-registry-with-poetry/"
     ]
   ],
   [
