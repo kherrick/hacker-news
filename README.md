@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-10, 23:47:57](https://news.ycombinator.com/item?id=44242757) - [Tim Owens Jazz and Broadcast Collection Digitized by Grammy Museum Grant](https://library.unt.edu/news/2025/06-06-tim-owens-collection/)
 * [2025-06-10, 21:46:44](https://news.ycombinator.com/item?id=44241832) - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
 * [2025-06-10, 21:17:08](https://news.ycombinator.com/item?id=44241549) - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 * [2025-06-10, 21:03:27](https://news.ycombinator.com/item?id=44241407) - [Chatbots are replacing Google's search, devastating traffic for some publishers](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
 * [2025-06-10, 20:47:11](https://news.ycombinator.com/item?id=44241278) - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
 * [2025-06-10, 20:36:55](https://news.ycombinator.com/item?id=44241202) - [Show HN: A \"Course\" as an MCP Server](https://mastra.ai/course)
-* [2025-06-10, 20:15:47](https://news.ycombinator.com/item?id=44240999) - [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
 * [2025-06-10, 19:55:18](https://news.ycombinator.com/item?id=44240770) - [Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
 * [2025-06-10, 19:47:37](https://news.ycombinator.com/item?id=44240691) - [A Family of Non-Periodic Tilings, Describable Using Elementary Tools](https://arxiv.org/abs/2506.07638)
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
@@ -27,9 +27,9 @@
 * [2025-06-10, 12:00:39](https://news.ycombinator.com/item?id=44235716) - [Onlook (YC W25) Is Hiring an engineer in SF](https://news.ycombinator.com/item?id=44235716)
 * [2025-06-10, 11:50:15](https://news.ycombinator.com/item?id=44235628) - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
 * [2025-06-09, 16:50:37](https://news.ycombinator.com/item?id=44226406) - [Denuvo Analysis](https://connorjaydunn.github.io/blog/posts/denuvo-analysis/)
-* [2025-06-08, 15:18:36](https://news.ycombinator.com/item?id=44217502) - [Show HN: Update to my meta glasses API \"Hey Meta send a message to ChatGPT\"](https://github.com/dcrebbin/meta-vision-api)
 * [2025-06-08, 13:50:41](https://news.ycombinator.com/item?id=44216996) - [A Thousand Tiny Optimisations](https://leejo.github.io/2025/06/08/alttpr/)
 * [2025-06-07, 20:46:14](https://news.ycombinator.com/item?id=44212537) - [Exploring our collection: the canary resuscitator (2018)](https://blog.scienceandindustrymuseum.org.uk/canary-resuscitator/)
+* [2025-06-07, 17:04:49](https://news.ycombinator.com/item?id=44210921) - [The librarian attempts to sell you a vuvuzela](https://kaveland.no/posts/2025-06-06-library)
 
 ## [Archives](archives/index.md)
 

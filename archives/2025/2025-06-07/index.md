@@ -24,6 +24,7 @@
 * [2025-06-07, 18:11:25](https://news.ycombinator.com/item?id=44211417) - [Field Notes from Shipping Real Code with Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
 * [2025-06-07, 17:51:51](https://news.ycombinator.com/item?id=44211273) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2025-06-07, 17:32:46](https://news.ycombinator.com/item?id=44211130) - [I'm Wirecutter's Water-Quality Expert. I Don't Filter My Water](https://www.nytimes.com/wirecutter/reviews/know-your-water-quality/)
+* [2025-06-07, 17:04:49](https://news.ycombinator.com/item?id=44210921) - [The librarian attempts to sell you a vuvuzela](https://kaveland.no/posts/2025-06-06-library)
 * [2025-06-07, 17:00:43](https://news.ycombinator.com/item?id=44210895) - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27)
 * [2025-06-07, 16:40:09](https://news.ycombinator.com/item?id=44210736) - [The Homelessness Experiment – or how to AI-proof your life](https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment)
 * [2025-06-07, 16:33:13](https://news.ycombinator.com/item?id=44210689) - [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
