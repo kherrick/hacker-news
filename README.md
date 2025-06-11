@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-11, 19:11:00](https://news.ycombinator.com/item?id=44250774) - [EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
 * [2025-06-11, 18:49:56](https://news.ycombinator.com/item?id=44250590) - [Spice Data (YC S19) Is Hiring a Junior Software Engineer – Back End (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/WccsImv-junior-software-engineer-backend-new-grad)
 * [2025-06-11, 18:07:04](https://news.ycombinator.com/item?id=44250206) - [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954)
 * [2025-06-11, 17:02:56](https://news.ycombinator.com/item?id=44249565) - [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
@@ -8,7 +9,6 @@
 * [2025-06-11, 16:46:48](https://news.ycombinator.com/item?id=44249417) - [Dolly Parton's Dollywood Express](https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier)
 * [2025-06-11, 16:33:35](https://news.ycombinator.com/item?id=44249303) - [Medical aid in dying, my health, and so on](https://blog.the-brannons.com/post/Medical-Aid-in-Dying-My-Health-and-so-on)
 * [2025-06-11, 15:25:25](https://news.ycombinator.com/item?id=44248637) - [Drawing on Tradition: Elena Izcue's Peruvian Art in the School](https://publicdomainreview.org/collection/peruvian-art-in-the-school/)
-* [2025-06-11, 14:43:38](https://news.ycombinator.com/item?id=44248167) - [Compiler Explorer Cost Transparency](https://xania.org/202506/compiler-explorer-cost-transparency)
 * [2025-06-11, 14:43:27](https://news.ycombinator.com/item?id=44248165) - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
 * [2025-06-11, 14:28:53](https://news.ycombinator.com/item?id=44247998) - [AI at Amazon: A case study of brittleness](https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/)
 * [2025-06-11, 14:25:05](https://news.ycombinator.com/item?id=44247964) - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
