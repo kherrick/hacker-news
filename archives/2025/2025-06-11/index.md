@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 15:25:25](https://news.ycombinator.com/item?id=44248637) - [Drawing on Tradition: Elena Izcue's Peruvian Art in the School](https://publicdomainreview.org/collection/peruvian-art-in-the-school/)
+* [2025-06-11, 14:43:27](https://news.ycombinator.com/item?id=44248165) - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
 * [2025-06-11, 14:28:53](https://news.ycombinator.com/item?id=44247998) - [AI at Amazon: A case study of brittleness](https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/)
 * [2025-06-11, 14:25:05](https://news.ycombinator.com/item?id=44247964) - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
 * [2025-06-11, 14:15:54](https://news.ycombinator.com/item?id=44247881) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
