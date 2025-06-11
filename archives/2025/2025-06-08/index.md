@@ -10,6 +10,7 @@
 * [2025-06-08, 22:26:43](https://news.ycombinator.com/item?id=44219871) - [OpenBSD IO Benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
 * [2025-06-08, 22:24:14](https://news.ycombinator.com/item?id=44219857) - [Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode](https://ziglang.org/devlog/2025/#2025-06-08)
 * [2025-06-08, 22:00:12](https://news.ycombinator.com/item?id=44219755) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
+* [2025-06-08, 21:46:28](https://news.ycombinator.com/item?id=44219680) - [Researchers discover evidence in the mystery of America's 'Lost Colony'](https://www.foxnews.com/travel/mystery-americas-lost-colony-may-finally-solved-after-440-years-archaeologists-say)
 * [2025-06-08, 21:11:18](https://news.ycombinator.com/item?id=44219519) - [Building supercomputers for autocrats probably isn't good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
 * [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
 * [2025-06-08, 20:45:46](https://news.ycombinator.com/item?id=44219379) - [We’re secretly winning the war on cancer](https://www.vox.com/health/415812/cancer-death-rates-myeloma-immunotherapy-smoking)
