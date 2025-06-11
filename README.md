@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-11, 22:42:31](https://news.ycombinator.com/item?id=44252601) - [Extracting Router Firmware Using SMD Grippers](https://getuliovictor.github.io/posts/Extracting-Router-Firmware-SMD-Grippers/)
 * [2025-06-11, 22:01:57](https://news.ycombinator.com/item?id=44252311) - [The first big AI disaster is yet to happen](https://www.seangoedecke.com/the-first-big-ai-disaster/)
 * [2025-06-11, 21:37:04](https://news.ycombinator.com/item?id=44252076) - [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
 * [2025-06-11, 21:36:06](https://news.ycombinator.com/item?id=44252070) - [Institutional Books: A 242B token dataset from Harvard Library's collections](https://arxiv.org/abs/2506.08300)
@@ -29,7 +30,6 @@
 * [2025-06-08, 04:41:39](https://news.ycombinator.com/item?id=44214588) - [The Diary of Samuel Pepys](https://www.historytoday.com/archive/feature/hidden-diary-samuel-pepys)
 * [2025-06-07, 21:48:15](https://news.ycombinator.com/item?id=44212911) - [Lessons from That 1834 Landscape Gardening Guidebook](https://fi-le.net/pueckler/)
 * [2025-06-07, 19:27:38](https://news.ycombinator.com/item?id=44211971) - [Plants hear their pollinators, and produce sweet nectar in response](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response)
-* [2025-06-07, 17:04:49](https://news.ycombinator.com/item?id=44210921) - [The librarian immediately attempts to sell you a vuvuzela](https://kaveland.no/posts/2025-06-06-library)
 
 ## [Archives](archives/index.md)
 
