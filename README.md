@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-11, 00:34:55](https://news.ycombinator.com/item?id=44243050) - [It's the end of observability as we know it (and I feel fine)](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
-* [2025-06-10, 23:44:05](https://news.ycombinator.com/item?id=44242737) - [Fine-Tuning LLMs Is a Waste of Time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
+* [2025-06-10, 23:44:05](https://news.ycombinator.com/item?id=44242737) - [Fine-tuning LLMs is a waste of time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
 * [2025-06-10, 21:46:44](https://news.ycombinator.com/item?id=44241832) - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
 * [2025-06-10, 21:17:08](https://news.ycombinator.com/item?id=44241549) - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 * [2025-06-10, 21:03:27](https://news.ycombinator.com/item?id=44241407) - [Chatbots are replacing Google's search, devastating traffic for some publishers](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
@@ -10,7 +10,7 @@
 * [2025-06-10, 19:55:18](https://news.ycombinator.com/item?id=44240770) - [Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
 * [2025-06-10, 19:47:37](https://news.ycombinator.com/item?id=44240691) - [A Family of Non-Periodic Tilings, Describable Using Elementary Tools](https://arxiv.org/abs/2506.07638)
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
-* [2025-06-10, 19:10:12](https://news.ycombinator.com/item?id=44240286) - [You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
+* [2025-06-10, 19:10:12](https://news.ycombinator.com/item?id=44240286) - [Detection of hidden cellular GPS vehicle trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
 * [2025-06-10, 19:08:29](https://news.ycombinator.com/item?id=44240265) - [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
 * [2025-06-10, 18:29:43](https://news.ycombinator.com/item?id=44239812) - [Android 16 is here](https://blog.google/products/android/android-16/)
 * [2025-06-10, 17:55:08](https://news.ycombinator.com/item?id=44239481) - [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
