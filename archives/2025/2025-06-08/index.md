@@ -12,6 +12,7 @@
 * [2025-06-08, 22:00:12](https://news.ycombinator.com/item?id=44219755) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 * [2025-06-08, 21:11:18](https://news.ycombinator.com/item?id=44219519) - [Building supercomputers for autocrats probably isn't good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
 * [2025-06-08, 20:49:07](https://news.ycombinator.com/item?id=44219405) - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
+* [2025-06-08, 20:45:46](https://news.ycombinator.com/item?id=44219379) - [We’re secretly winning the war on cancer](https://www.vox.com/health/415812/cancer-death-rates-myeloma-immunotherapy-smoking)
 * [2025-06-08, 20:41:35](https://news.ycombinator.com/item?id=44219357) - [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
 * [2025-06-08, 20:25:32](https://news.ycombinator.com/item?id=44219279) - [What Happens When People Don't Understand How AI Works](https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/)
 * [2025-06-08, 20:22:33](https://news.ycombinator.com/item?id=44219270) - [The Wire That Transforms Much of Manhattan into One Big, Symbolic Home](https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home)

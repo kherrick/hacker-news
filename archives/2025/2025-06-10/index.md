@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
 * [2025-06-10, 23:47:57](https://news.ycombinator.com/item?id=44242757) - [Tim Owens Jazz and Broadcast Collection Digitized by Grammy Museum Grant](https://library.unt.edu/news/2025/06-06-tim-owens-collection/)
+* [2025-06-10, 23:44:05](https://news.ycombinator.com/item?id=44242737) - [Fine-Tuning LLMs Is a Waste of Time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
 * [2025-06-10, 21:46:44](https://news.ycombinator.com/item?id=44241832) - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
 * [2025-06-10, 21:17:08](https://news.ycombinator.com/item?id=44241549) - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 * [2025-06-10, 21:03:27](https://news.ycombinator.com/item?id=44241407) - [News Sites Are Getting Crushed by Google's New AI Tools](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
