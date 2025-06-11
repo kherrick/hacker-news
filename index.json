@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-11, 16:46:48",
+      "https://news.ycombinator.com/item?id=44249417"
+    ],
+    [
+      "Dolly Parton's Dollywood Express",
+      "https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 16:21:49",
+      "https://news.ycombinator.com/item?id=44249190"
+    ],
+    [
+      "Ultra Ethernet Specification v1.0 [pdf]",
+      "https://ultraethernet.org/wp-content/uploads/sites/20/2025/06/UE-Specification-6.11.25.pdf"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 15:25:25",
       "https://news.ycombinator.com/item?id=44248637"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-06-11, 00:34:55",
-      "https://news.ycombinator.com/item?id=44243050"
-    ],
-    [
-      "It's the end of observability as we know it (and I feel fine)",
-      "https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 20:47:11",
       "https://news.ycombinator.com/item?id=44241278"
     ],
@@ -161,26 +171,6 @@
   ],
   [
     [
-      "2025-06-10, 17:41:29",
-      "https://news.ycombinator.com/item?id=44239359"
-    ],
-    [
-      "OpenAI dropped the price of o3 by 80%",
-      "https://twitter.com/sama/status/1932434606558462459"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 15:39:57",
-      "https://news.ycombinator.com/item?id=44238171"
-    ],
-    [
-      "Show HN: Chili3d – A open-source, browser-based 3D CAD application",
-      "https://news.ycombinator.com/item?id=44238171"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 15:16:27",
       "https://news.ycombinator.com/item?id=44237881"
     ],
@@ -207,6 +197,16 @@
     [
       "Denuvo Analysis",
       "https://connorjaydunn.github.io/blog/posts/denuvo-analysis/"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 07:06:23",
+      "https://news.ycombinator.com/item?id=44222074"
+    ],
+    [
+      "Publish a Python Wheel to GCP Artifact Registry with Poetry",
+      "https://sergiolema.dev/2025/06/09/publish-a-python-wheel-to-gcp-artifact-registry-with-poetry/"
     ]
   ],
   [
