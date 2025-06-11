@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-11, 21:28:28](https://news.ycombinator.com/item?id=44252004) - [Unfortunately, Houseplants Don't Purify the Air](https://www.goodhousekeeping.com/health/a63664656/can-houseplants-purify-the-air/)
+* [2025-06-11, 21:36:06](https://news.ycombinator.com/item?id=44252070) - [Institutional Books: A 242B token dataset from Harvard Library's collections](https://arxiv.org/abs/2506.08300)
 * [2025-06-11, 21:00:26](https://news.ycombinator.com/item?id=44251755) - [Shaped (YC W22) Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
 * [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
 * [2025-06-11, 19:44:29](https://news.ycombinator.com/item?id=44251047) - [Research suggests Big Bang may have taken place inside a black hole](https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole)
