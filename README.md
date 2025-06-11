@@ -7,7 +7,6 @@
 * [2025-06-10, 20:47:11](https://news.ycombinator.com/item?id=44241278) - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
 * [2025-06-10, 20:36:55](https://news.ycombinator.com/item?id=44241202) - [Show HN: A “Course” as an MCP Server](https://mastra.ai/course)
 * [2025-06-10, 19:55:18](https://news.ycombinator.com/item?id=44240770) - [Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
-* [2025-06-10, 19:47:37](https://news.ycombinator.com/item?id=44240691) - [A Family of Non-Periodic Tilings, Describable Using Elementary Tools](https://arxiv.org/abs/2506.07638)
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
 * [2025-06-10, 19:10:12](https://news.ycombinator.com/item?id=44240286) - [Detection of hidden cellular GPS vehicle trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
 * [2025-06-10, 19:08:29](https://news.ycombinator.com/item?id=44240265) - [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
@@ -29,6 +28,7 @@
 * [2025-06-08, 15:45:39](https://news.ycombinator.com/item?id=44217663) - [Air-dried vs. Kiln-dried Wood](https://christopherschwarz.substack.com/p/air-dried-vs-kiln-dried-wood)
 * [2025-06-08, 13:50:41](https://news.ycombinator.com/item?id=44216996) - [A Thousand Tiny Optimisations](https://leejo.github.io/2025/06/08/alttpr/)
 * [2025-06-08, 07:18:50](https://news.ycombinator.com/item?id=44215236) - [Demystifying Debuggers](https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy)
+* [2025-06-08, 07:04:41](https://news.ycombinator.com/item?id=44215160) - [The Hashtable Packing Problem (2020)](https://backscattering.de/chess/hashtable-packing/)
 * [2025-06-07, 17:04:49](https://news.ycombinator.com/item?id=44210921) - [The librarian immediately attempts to sell you a vuvuzela](https://kaveland.no/posts/2025-06-06-library)
 
 ## [Archives](archives/index.md)

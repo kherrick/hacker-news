@@ -46,6 +46,7 @@
 * [2025-06-08, 07:24:59](https://news.ycombinator.com/item?id=44215273) - [The Illusion of Thinking: Strengths and Limitations of Reasoning Models](https://machinelearning.apple.com/research/illusion-of-thinking)
 * [2025-06-08, 07:18:50](https://news.ycombinator.com/item?id=44215236) - [Demystifying Debuggers](https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy)
 * [2025-06-08, 07:11:34](https://news.ycombinator.com/item?id=44215197) - [FAA to eliminate floppy disks used in air traffic control systems](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)
+* [2025-06-08, 07:04:41](https://news.ycombinator.com/item?id=44215160) - [The Hashtable Packing Problem (2020)](https://backscattering.de/chess/hashtable-packing/)
 * [2025-06-08, 06:58:33](https://news.ycombinator.com/item?id=44215131) - [A Knockout Blow for LLMs?](https://garymarcus.substack.com/p/a-knockout-blow-for-llms)
 * [2025-06-08, 06:55:31](https://news.ycombinator.com/item?id=44215117) - [YouTuber claims to have received an offer to buy the Commodore brand](https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html)
 * [2025-06-08, 06:21:42](https://news.ycombinator.com/item?id=44214960) - [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
