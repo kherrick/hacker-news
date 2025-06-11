@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 16:46:48](https://news.ycombinator.com/item?id=44249417) - [Dolly Parton's Dollywood Express](https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier)
+* [2025-06-11, 16:21:49](https://news.ycombinator.com/item?id=44249190) - [Ultra Ethernet Specification v1.0 [pdf]](https://ultraethernet.org/wp-content/uploads/sites/20/2025/06/UE-Specification-6.11.25.pdf)
 * [2025-06-11, 15:25:25](https://news.ycombinator.com/item?id=44248637) - [Drawing on Tradition: Elena Izcue's Peruvian Art in the School](https://publicdomainreview.org/collection/peruvian-art-in-the-school/)
 * [2025-06-11, 14:43:27](https://news.ycombinator.com/item?id=44248165) - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
 * [2025-06-11, 14:28:53](https://news.ycombinator.com/item?id=44247998) - [AI at Amazon: A case study of brittleness](https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/)

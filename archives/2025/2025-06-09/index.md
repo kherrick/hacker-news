@@ -56,6 +56,7 @@
 * [2025-06-09, 08:48:56](https://news.ycombinator.com/item?id=44222527) - [So Long, Figma. Thanks for Everything](https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c)
 * [2025-06-09, 07:53:15](https://news.ycombinator.com/item?id=44222299) - [CoverDrop: A secure messaging system for newsreader apps](https://github.com/guardian/coverdrop)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
+* [2025-06-09, 07:06:23](https://news.ycombinator.com/item?id=44222074) - [Publish a Python Wheel to GCP Artifact Registry with Poetry](https://sergiolema.dev/2025/06/09/publish-a-python-wheel-to-gcp-artifact-registry-with-poetry/)
 * [2025-06-09, 06:30:52](https://news.ycombinator.com/item?id=44221900) - [The Illusion of \"The Illusion of Thinking\"](https://www.seangoedecke.com/illusion-of-thinking/)
 * [2025-06-09, 05:43:13](https://news.ycombinator.com/item?id=44221695) - [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
 * [2025-06-09, 05:30:14](https://news.ycombinator.com/item?id=44221655) - [How I Program with Agents](https://crawshaw.io/blog/programming-with-agents)
