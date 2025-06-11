@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-11, 06:08:30](https://news.ycombinator.com/item?id=44244646) - [Gnome introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
+* [2025-06-11, 05:23:26](https://news.ycombinator.com/item?id=44244450) - [Ask HN: What is the latest on treatment of Metastatic Breast Cancer?](https://news.ycombinator.com/item?id=44244450)
 * [2025-06-11, 00:34:55](https://news.ycombinator.com/item?id=44243050) - [It's the end of observability as we know it (and I feel fine)](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
-* [2025-06-10, 23:44:05](https://news.ycombinator.com/item?id=44242737) - [Fine-tuning LLMs is a waste of time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
 * [2025-06-10, 21:46:44](https://news.ycombinator.com/item?id=44241832) - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
 * [2025-06-10, 21:17:08](https://news.ycombinator.com/item?id=44241549) - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 * [2025-06-10, 21:03:27](https://news.ycombinator.com/item?id=44241407) - [Chatbots are replacing Google's search, devastating traffic for some publishers](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
