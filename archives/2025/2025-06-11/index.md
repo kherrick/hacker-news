@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 08:42:05](https://news.ycombinator.com/item?id=44245492) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 * [2025-06-11, 07:44:01](https://news.ycombinator.com/item?id=44245166) - [Left-Pad (2024)](https://azerkoculu.com/posts/left-pad)
 * [2025-06-11, 06:53:06](https://news.ycombinator.com/item?id=44244879) - [Why Koreans ask what year you were born](https://bryanhogan.com/blog/korean-age)
 * [2025-06-11, 06:08:30](https://news.ycombinator.com/item?id=44244646) - [Gnome introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
