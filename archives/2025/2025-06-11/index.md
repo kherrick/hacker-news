@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 13:38:00](https://news.ycombinator.com/item?id=44247507) - [S5cmd: Parallel S3 and local filesystem execution tool](https://github.com/peak/s5cmd)
+* [2025-06-11, 13:16:36](https://news.ycombinator.com/item?id=44247292) - [Rewriting Unix Philosophy for the Post-AI Era](https://gizvault.com/archives/unix-philo-for-past-ai-era)
+* [2025-06-11, 12:55:43](https://news.ycombinator.com/item?id=44247119) - [OpenPlanetData – Free Daily Planet OSM PBF and GOL Indexed Snapshots](https://openplanetdata.com)
 * [2025-06-11, 12:44:15](https://news.ycombinator.com/item?id=44247029) - [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
 * [2025-06-11, 12:37:18](https://news.ycombinator.com/item?id=44246977) - [Why common climate messaging backfires](https://phys.org/news/2025-06-common-climate-messaging-backfires.html)
 * [2025-06-11, 12:31:15](https://news.ycombinator.com/item?id=44246920) - [Menstrual tracking app data is gold mine for advertisers that risks women safety](https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report)
