@@ -28,6 +28,7 @@
 * [2025-06-08, 16:41:05](https://news.ycombinator.com/item?id=44217999) - [The printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/)
 * [2025-06-08, 16:21:50](https://news.ycombinator.com/item?id=44217904) - [The race to find GPS alternatives](https://www.technologyreview.com/2025/06/06/1117978/inside-the-race-to-find-gps-alternatives/)
 * [2025-06-08, 16:18:32](https://news.ycombinator.com/item?id=44217876) - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
+* [2025-06-08, 16:02:31](https://news.ycombinator.com/item?id=44217776) - [Struggle for Monarchy on the U.S.-Mexican Border](http://madmonarchist.blogspot.com/2013/02/struggle-for-monarchy-on-us-mexican.html)
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
 * [2025-06-08, 15:51:38](https://news.ycombinator.com/item?id=44217707) - [Futa – A functionally useless AI terminal assistant](https://github.com/nail-e/futa)
 * [2025-06-08, 15:49:59](https://news.ycombinator.com/item?id=44217693) - [Nginx Restic Back End](https://www.grepular.com/Nginx_Restic_Backend)
