@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 21:00:26](https://news.ycombinator.com/item?id=44251755) - [Shaped (YC W22) Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
+* [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Open source TTS by Resemble (claiming they are sota)](https://github.com/resemble-ai/chatterbox)
 * [2025-06-11, 19:44:29](https://news.ycombinator.com/item?id=44251047) - [Research suggests Big Bang may have taken place inside a black hole](https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole)
 * [2025-06-11, 19:11:00](https://news.ycombinator.com/item?id=44250774) - [EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
 * [2025-06-11, 18:49:56](https://news.ycombinator.com/item?id=44250590) - [Spice Data (YC S19) Is Hiring a Junior Software Engineer – Back End (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/WccsImv-junior-software-engineer-backend-new-grad)
