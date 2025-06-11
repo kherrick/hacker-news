@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 14:28:53](https://news.ycombinator.com/item?id=44247998) - [AI at Amazon: A case study of brittleness](https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/)
+* [2025-06-11, 14:25:05](https://news.ycombinator.com/item?id=44247964) - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
+* [2025-06-11, 14:15:54](https://news.ycombinator.com/item?id=44247881) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
+* [2025-06-11, 14:04:50](https://news.ycombinator.com/item?id=44247768) - [Use of GLP-1 RAs is associated with a 2-fold higher risk of Macular Degeneration](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2834964)
 * [2025-06-11, 13:38:00](https://news.ycombinator.com/item?id=44247507) - [S5cmd: Parallel S3 and local filesystem execution tool](https://github.com/peak/s5cmd)
 * [2025-06-11, 13:16:36](https://news.ycombinator.com/item?id=44247292) - [Rewriting Unix Philosophy for the Post-AI Era](https://gizvault.com/archives/unix-philo-for-past-ai-era)
 * [2025-06-11, 12:55:43](https://news.ycombinator.com/item?id=44247119) - [OpenPlanetData – Free Daily Planet OSM PBF and GOL Indexed Snapshots](https://openplanetdata.com)
