@@ -1,22 +1,52 @@
 [
   [
     [
+      "2025-06-11, 14:28:53",
+      "https://news.ycombinator.com/item?id=44247998"
+    ],
+    [
+      "AI at Amazon: A case study of brittleness",
+      "https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 14:25:05",
+      "https://news.ycombinator.com/item?id=44247964"
+    ],
+    [
+      "Show HN: RomM – An open-source, self-hosted ROM manager and player",
+      "https://github.com/rommapp/romm"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 14:15:54",
+      "https://news.ycombinator.com/item?id=44247881"
+    ],
+    [
+      "Bypassing GitHub Actions policies in the dumbest way possible",
+      "https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 14:04:50",
+      "https://news.ycombinator.com/item?id=44247768"
+    ],
+    [
+      "Use of GLP-1 RAs is associated with a 2-fold higher risk of Macular Degeneration",
+      "https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2834964"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 13:38:00",
       "https://news.ycombinator.com/item?id=44247507"
     ],
     [
       "S5cmd: Parallel S3 and local filesystem execution tool",
       "https://github.com/peak/s5cmd"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 13:16:36",
-      "https://news.ycombinator.com/item?id=44247292"
-    ],
-    [
-      "Rewriting Unix Philosophy for the Post-AI Era",
-      "https://gizvault.com/archives/unix-philo-for-past-ai-era"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-06-10, 20:36:55",
-      "https://news.ycombinator.com/item?id=44241202"
-    ],
-    [
-      "Show HN: A “Course” as an MCP Server",
-      "https://mastra.ai/course"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 19:12:17",
       "https://news.ycombinator.com/item?id=44240302"
     ],
@@ -137,16 +157,6 @@
     [
       "Xeneva Operating System",
       "https://github.com/manaskamal/XenevaOS"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 17:55:08",
-      "https://news.ycombinator.com/item?id=44239481"
-    ],
-    [
-      "Low-background Steel: content without AI contamination",
-      "https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html"
     ]
   ],
   [
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2025-06-10, 15:09:30",
-      "https://news.ycombinator.com/item?id=44237769"
-    ],
-    [
-      "Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices",
-      "https://news.ycombinator.com/item?id=44237769"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 14:08:01",
       "https://news.ycombinator.com/item?id=44236997"
     ],
     [
       "Magistral — the first reasoning model by Mistral AI",
       "https://mistral.ai/news/magistral"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 13:43:21",
-      "https://news.ycombinator.com/item?id=44236728"
-    ],
-    [
-      "Mikeal Rogers has died",
-      "https://b.h4x.zip/mikeal/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Lessons from That 1834 Landscape Gardening Guidebook",
       "https://fi-le.net/pueckler/"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 19:27:38",
+      "https://news.ycombinator.com/item?id=44211971"
+    ],
+    [
+      "Plants hear their pollinators, and produce sweet nectar in response",
+      "https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response"
     ]
   ],
   [
