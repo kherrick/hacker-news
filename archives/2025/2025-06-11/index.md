@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 12:44:15](https://news.ycombinator.com/item?id=44247029) - [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
+* [2025-06-11, 12:37:18](https://news.ycombinator.com/item?id=44246977) - [Why common climate messaging backfires](https://phys.org/news/2025-06-common-climate-messaging-backfires.html)
+* [2025-06-11, 12:31:15](https://news.ycombinator.com/item?id=44246920) - [Menstrual tracking app data is gold mine for advertisers that risks women safety](https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report)
 * [2025-06-11, 11:44:12](https://news.ycombinator.com/item?id=44246570) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
 * [2025-06-11, 11:36:47](https://news.ycombinator.com/item?id=44246518) - [Firefox OS's story from a Mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
 * [2025-06-11, 09:43:00](https://news.ycombinator.com/item?id=44245813) - [US ambassador to Israel:US no longer pursuing goal independent Palestinian state](https://www.theguardian.com/us-news/2025/jun/10/mike-huckabee-independent-palestinian-state)
