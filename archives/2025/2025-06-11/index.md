@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 18:49:56](https://news.ycombinator.com/item?id=44250590) - [Spice Data (YC S19) Is Hiring a Junior Software Engineer – Back End (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/WccsImv-junior-software-engineer-backend-new-grad)
+* [2025-06-11, 18:07:04](https://news.ycombinator.com/item?id=44250206) - [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954)
 * [2025-06-11, 17:39:06](https://news.ycombinator.com/item?id=44249932) - [Fervo Energy Drills 15,000', 520 F Geothermal Well in 16 Drilling Days](https://www.businesswire.com/news/home/20250610223846/en/Fervo-Energy-Drills-15000-FT-500F-Geothermal-Well-Pushing-the-Envelope-for-EGS-Deployment)
 * [2025-06-11, 17:02:56](https://news.ycombinator.com/item?id=44249565) - [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
 * [2025-06-11, 16:52:49](https://news.ycombinator.com/item?id=44249467) - [The Beach Boys' Brian Wilson Dies at 82](https://pitchfork.com/news/the-beach-boys-brian-wilson-dies-at-82/)
