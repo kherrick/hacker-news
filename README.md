@@ -5,6 +5,7 @@
 * [2025-06-10, 23:44:05](https://news.ycombinator.com/item?id=44242737) - [Fine-tuning LLMs is a waste of time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
 * [2025-06-10, 21:46:44](https://news.ycombinator.com/item?id=44241832) - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
 * [2025-06-10, 21:17:08](https://news.ycombinator.com/item?id=44241549) - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
+* [2025-06-10, 21:03:27](https://news.ycombinator.com/item?id=44241407) - [Chatbots are replacing Google's search, devastating traffic for some publishers](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
 * [2025-06-10, 20:47:11](https://news.ycombinator.com/item?id=44241278) - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
 * [2025-06-10, 20:36:55](https://news.ycombinator.com/item?id=44241202) - [Show HN: A “Course” as an MCP Server](https://mastra.ai/course)
 * [2025-06-10, 19:55:18](https://news.ycombinator.com/item?id=44240770) - [Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass](https://www.binarly.io/blog/another-crack-in-the-chain-of-trust)
@@ -28,7 +29,6 @@
 * [2025-06-08, 20:45:46](https://news.ycombinator.com/item?id=44219379) - [We’re secretly winning the war on cancer](https://www.vox.com/health/415812/cancer-death-rates-myeloma-immunotherapy-smoking)
 * [2025-06-08, 13:50:41](https://news.ycombinator.com/item?id=44216996) - [A Thousand Tiny Optimisations](https://leejo.github.io/2025/06/08/alttpr/)
 * [2025-06-08, 07:18:50](https://news.ycombinator.com/item?id=44215236) - [Demystifying Debuggers](https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy)
-* [2025-06-07, 19:43:15](https://news.ycombinator.com/item?id=44212083) - [Sophie Germain Prime Project](https://palaiologos.rocks/sophie-germain/)
 * [2025-06-07, 17:04:49](https://news.ycombinator.com/item?id=44210921) - [The librarian immediately attempts to sell you a vuvuzela](https://kaveland.no/posts/2025-06-06-library)
 
 ## [Archives](archives/index.md)
