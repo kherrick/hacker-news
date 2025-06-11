@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 21:28:28](https://news.ycombinator.com/item?id=44252004) - [Unfortunately, Houseplants Don't Purify the Air](https://www.goodhousekeeping.com/health/a63664656/can-houseplants-purify-the-air/)
 * [2025-06-11, 21:00:26](https://news.ycombinator.com/item?id=44251755) - [Shaped (YC W22) Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
 * [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Open source TTS by Resemble (claiming they are sota)](https://github.com/resemble-ai/chatterbox)
 * [2025-06-11, 19:44:29](https://news.ycombinator.com/item?id=44251047) - [Research suggests Big Bang may have taken place inside a black hole](https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole)
