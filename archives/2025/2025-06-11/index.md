@@ -8,6 +8,7 @@
 * [2025-06-11, 11:36:47](https://news.ycombinator.com/item?id=44246518) - [Firefox OS's story from a Mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
 * [2025-06-11, 09:43:00](https://news.ycombinator.com/item?id=44245813) - [US ambassador to Israel:US no longer pursuing goal independent Palestinian state](https://www.theguardian.com/us-news/2025/jun/10/mike-huckabee-independent-palestinian-state)
 * [2025-06-11, 09:25:16](https://news.ycombinator.com/item?id=44245731) - [Steve Jobs would have fired everyone](https://twitter.com/greggertruck/status/1932173476879888556)
+* [2025-06-11, 09:20:51](https://news.ycombinator.com/item?id=44245709) - [Show HN: DIY virtual HDMI monitor using \"AR\" glasses](https://github.com/mgschwan/viture_virtual_display)
 * [2025-06-11, 08:55:47](https://news.ycombinator.com/item?id=44245577) - [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
 * [2025-06-11, 08:42:05](https://news.ycombinator.com/item?id=44245492) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 * [2025-06-11, 07:44:01](https://news.ycombinator.com/item?id=44245166) - [Left-Pad (2024)](https://azerkoculu.com/posts/left-pad)

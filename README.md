@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-11, 11:44:12](https://news.ycombinator.com/item?id=44246570) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
 * [2025-06-11, 11:36:47](https://news.ycombinator.com/item?id=44246518) - [Firefox OS's story from a Mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
+* [2025-06-11, 09:20:51](https://news.ycombinator.com/item?id=44245709) - [Show HN: DIY virtual HDMI monitor using \"AR\" glasses](https://github.com/mgschwan/viture_virtual_display)
 * [2025-06-11, 08:55:47](https://news.ycombinator.com/item?id=44245577) - [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
 * [2025-06-11, 07:44:01](https://news.ycombinator.com/item?id=44245166) - [Left-Pad (2024)](https://azerkoculu.com/posts/left-pad)
 * [2025-06-11, 07:23:45](https://news.ycombinator.com/item?id=44245053) - [AlphaWrite: AI that improves at writing by evolving its own stories](https://tobysimonds.com/research/2025/06/06/AlphaWrite.html)
