@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-11, 06:08:30",
+      "https://news.ycombinator.com/item?id=44244646"
+    ],
+    [
+      "Gnome introducing stronger dependencies on systemd",
+      "https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 00:34:55",
       "https://news.ycombinator.com/item?id=44243050"
     ],
@@ -37,16 +47,6 @@
     [
       "The Gentle Singularity",
       "https://blog.samaltman.com/the-gentle-singularity"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 21:03:27",
-      "https://news.ycombinator.com/item?id=44241407"
-    ],
-    [
-      "Chatbots are replacing Google's search, devastating traffic for some publishers",
-      "https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-06-09, 20:35:42",
-      "https://news.ycombinator.com/item?id=44229167"
-    ],
-    [
-      "New revolutionary device – 24 EEG channels with Raspberry Pi",
-      "https://pieeg.com/news/low-cost-24-channels-brain-computer-interface/"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 16:50:37",
       "https://news.ycombinator.com/item?id=44226406"
     ],
     [
       "Denuvo Analysis",
       "https://connorjaydunn.github.io/blog/posts/denuvo-analysis/"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 00:20:12",
+      "https://news.ycombinator.com/item?id=44220357"
+    ],
+    [
+      "Mementos",
+      "https://www.futilitycloset.com/2025/06/08/mementos-2/"
     ]
   ],
   [
