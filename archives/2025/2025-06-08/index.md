@@ -29,6 +29,7 @@
 * [2025-06-08, 16:00:22](https://news.ycombinator.com/item?id=44217757) - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
 * [2025-06-08, 15:51:38](https://news.ycombinator.com/item?id=44217707) - [Futa – A functionally useless AI terminal assistant](https://github.com/nail-e/futa)
 * [2025-06-08, 15:49:59](https://news.ycombinator.com/item?id=44217693) - [Nginx Restic Back End](https://www.grepular.com/Nginx_Restic_Backend)
+* [2025-06-08, 15:45:39](https://news.ycombinator.com/item?id=44217663) - [Air-dried vs. Kiln-dried Wood](https://christopherschwarz.substack.com/p/air-dried-vs-kiln-dried-wood)
 * [2025-06-08, 15:33:07](https://news.ycombinator.com/item?id=44217590) - [BYD's Five-Minute Charging Puts China in the Lead for EVs](https://spectrum.ieee.org/byd-megawatt-charging)
 * [2025-06-08, 15:18:36](https://news.ycombinator.com/item?id=44217502) - [Show HN: Update to my meta glasses API \"Hey Meta send a message to ChatGPT\"](https://github.com/dcrebbin/meta-vision-api)
 * [2025-06-08, 14:46:21](https://news.ycombinator.com/item?id=44217322) - [Launching the BeOS on Hitachi Flora Prius Systems (1999)](http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html)
