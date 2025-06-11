@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-11, 04:59:41](https://news.ycombinator.com/item?id=44244340) - [What MS-DOS Can Do That Linux Can't](http://webarchive.me/geocities/SiliconValley/2072/dosvslnx.htm)
 * [2025-06-11, 00:34:55](https://news.ycombinator.com/item?id=44243050) - [It's the end of observability as we know it (and I feel fine)](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
 * [2025-06-10, 23:44:05](https://news.ycombinator.com/item?id=44242737) - [Fine-tuning LLMs is a waste of time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
 * [2025-06-10, 21:46:44](https://news.ycombinator.com/item?id=44241832) - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
@@ -19,6 +18,7 @@
 * [2025-06-10, 15:39:57](https://news.ycombinator.com/item?id=44238171) - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
 * [2025-06-10, 15:16:27](https://news.ycombinator.com/item?id=44237881) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:09:30](https://news.ycombinator.com/item?id=44237769) - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
+* [2025-06-10, 15:04:38](https://news.ycombinator.com/item?id=44237700) - [Dubious Math in Infinite Jest (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
 * [2025-06-10, 14:08:01](https://news.ycombinator.com/item?id=44236997) - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 * [2025-06-10, 13:43:21](https://news.ycombinator.com/item?id=44236728) - [Mikeal Rogers has died](https://b.h4x.zip/mikeal/)
 * [2025-06-10, 13:17:01](https://news.ycombinator.com/item?id=44236423) - [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
