@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 07:52:51](https://news.ycombinator.com/item?id=44255116) - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
 * [2025-06-12, 07:22:23](https://news.ycombinator.com/item?id=44254984) - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
 * [2025-06-12, 07:18:18](https://news.ycombinator.com/item?id=44254963) - [Sam Altman's Lies About ChatGPT Are Growing Bolder](https://gizmodo.com/sam-altmans-lies-about-chatgpt-are-growing-bolder-2000614431)
 * [2025-06-12, 05:47:25](https://news.ycombinator.com/item?id=44254610) - [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)

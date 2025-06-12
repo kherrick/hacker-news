@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
 * [2025-06-08, 23:58:15](https://news.ycombinator.com/item?id=44220261) - [Story of Sosumi and the Mac Startup Sound](https://reekes.net/sosumi-story-mac-startup-sound/)
+* [2025-06-08, 23:54:00](https://news.ycombinator.com/item?id=44220245) - [Reflections on Sudoku, or the Impossibility of Systematizing Thought](https://rjp.io/blog/2025-06-07-reflections-on-sudoku)
 * [2025-06-08, 23:38:58](https://news.ycombinator.com/item?id=44220179) - [Riding high in Germany on the world's oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
 * [2025-06-08, 23:25:41](https://news.ycombinator.com/item?id=44220135) - [I Used AI-Powered Calorie Counting Apps, and They Were Even Worse Than Expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
 * [2025-06-08, 23:20:03](https://news.ycombinator.com/item?id=44220110) - [Ask HN: In 15 years, what will a gas station visit look like?](https://news.ycombinator.com/item?id=44220110)

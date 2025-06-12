@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-12, 07:52:51](https://news.ycombinator.com/item?id=44255116) - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
 * [2025-06-12, 07:22:23](https://news.ycombinator.com/item?id=44254984) - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
-* [2025-06-12, 07:18:18](https://news.ycombinator.com/item?id=44254963) - [Sam Altman's Lies About ChatGPT Are Growing Bolder](https://gizmodo.com/sam-altmans-lies-about-chatgpt-are-growing-bolder-2000614431)
 * [2025-06-12, 05:27:41](https://news.ycombinator.com/item?id=44254540) - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
 * [2025-06-12, 05:02:01](https://news.ycombinator.com/item?id=44254439) - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
 * [2025-06-12, 04:45:32](https://news.ycombinator.com/item?id=44254383) - [In case of emergency, break glass](https://morrick.me/archives/10048)
@@ -24,10 +24,10 @@
 * [2025-06-10, 20:15:47](https://news.ycombinator.com/item?id=44240999) - [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
 * [2025-06-10, 12:56:36](https://news.ycombinator.com/item?id=44236241) - [The curious case of shell commands, or how \"this bug is required by POSIX\" (2021)](https://notes.volution.ro/v1/2021/01/notes/502e747f/)
 * [2025-06-10, 01:02:13](https://news.ycombinator.com/item?id=44231386) - [The hunt for Marie Curie's radioactive fingerprints in Paris](https://www.bbc.com/future/article/20250605-the-hunt-for-marie-curies-radioactive-fingerprints-in-paris)
-* [2025-06-09, 19:52:37](https://news.ycombinator.com/item?id=44228690) - [They Travel the World–and Cheat Death–For License Plates](https://www.wsj.com/lifestyle/license-plate-collectors-cars-21c7506e)
 * [2025-06-09, 14:11:49](https://news.ycombinator.com/item?id=44224729) - [How long it takes to know if a job is right for you or not](https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/)
 * [2025-06-09, 05:30:14](https://news.ycombinator.com/item?id=44221655) - [How I Program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-09, 02:07:30](https://news.ycombinator.com/item?id=44220890) - [My Cord-Cutting Adventure](http://brander.ca/cordcut/)
+* [2025-06-08, 23:54:00](https://news.ycombinator.com/item?id=44220245) - [Reflections on Sudoku, or the Impossibility of Systematizing Thought](https://rjp.io/blog/2025-06-07-reflections-on-sudoku)
 * [2025-06-08, 14:51:27](https://news.ycombinator.com/item?id=44217356) - [Rohde and Schwarz AMIQ Modulation Generator Teardown](https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html)
 * [2025-06-07, 19:27:38](https://news.ycombinator.com/item?id=44211971) - [Plants hear their pollinators, and produce sweet nectar in response](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response)
 
