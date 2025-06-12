@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 14:03:06](https://news.ycombinator.com/item?id=44257946) - [The Problem with AI Welfare](https://substack.com/home/post/p-165615548)
 * [2025-06-12, 13:51:15](https://news.ycombinator.com/item?id=44257819) - [VisionOS 26 keeps pushing Apple's newest platform toward the future](https://sixcolors.com/post/2025/06/visionos-26-keeps-pushing-apples-newest-platform-toward-the-future/)
 * [2025-06-12, 13:11:29](https://news.ycombinator.com/item?id=44257400) - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings/)
 * [2025-06-12, 12:59:56](https://news.ycombinator.com/item?id=44257283) - [2025 State of AI Code Quality](https://www.qodo.ai/reports/state-of-ai-code-quality/)
