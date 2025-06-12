@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 18:55:00](https://news.ycombinator.com/item?id=44261618) - [Everything Is Down](https://news.ycombinator.com/item?id=44261618)
+* [2025-06-12, 18:43:06](https://news.ycombinator.com/item?id=44261426) - [Firebase Global Outage](https://status.firebase.google.com/)
 * [2025-06-12, 18:24:01](https://news.ycombinator.com/item?id=44261064) - [Cloudflare Investigating Incident](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
 * [2025-06-12, 18:16:33](https://news.ycombinator.com/item?id=44260903) - [Spaceballs 2 Will See Rick Moranis Return as Dark Helmet](https://www.ign.com/articles/spaceballs-2-plots-a-course-for-2027-with-mel-brooks-in-first-teaser-trailer)
 * [2025-06-12, 18:16:30](https://news.ycombinator.com/item?id=44260900) - [NPM: Issues with package install, package publish, and login](https://status.npmjs.org/incidents/dn5mcp85737y)
 * [2025-06-12, 18:11:07](https://news.ycombinator.com/item?id=44260810) - [GCP Outage](https://status.cloud.google.com/)
+* [2025-06-12, 18:04:49](https://news.ycombinator.com/item?id=44260717) - [Twitch Is Down](https://status.twitch.com)
 * [2025-06-12, 17:59:34](https://news.ycombinator.com/item?id=44260661) - [NASA Is Worth Saving](https://caseyhandmer.wordpress.com/2025/06/12/nasa-is-worth-saving/)
 * [2025-06-12, 17:58:11](https://news.ycombinator.com/item?id=44260649) - [Show HN: ChatToSTL – AI text-to-CAD for 3D printing](https://huggingface.co/spaces/flowfulai/ChatToSTL)
 * [2025-06-12, 17:01:11](https://news.ycombinator.com/item?id=44260017) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer)
