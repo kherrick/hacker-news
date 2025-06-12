@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-12, 07:22:23](https://news.ycombinator.com/item?id=44254984) - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
 * [2025-06-12, 05:27:41](https://news.ycombinator.com/item?id=44254540) - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
 * [2025-06-12, 05:02:01](https://news.ycombinator.com/item?id=44254439) - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
 * [2025-06-12, 04:45:32](https://news.ycombinator.com/item?id=44254383) - [In case of emergency, break glass](https://morrick.me/archives/10048)
@@ -16,7 +17,6 @@
 * [2025-06-11, 14:43:27](https://news.ycombinator.com/item?id=44248165) - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
 * [2025-06-11, 14:25:05](https://news.ycombinator.com/item?id=44247964) - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
 * [2025-06-11, 14:15:54](https://news.ycombinator.com/item?id=44247881) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
-* [2025-06-11, 13:37:31](https://news.ycombinator.com/item?id=44247501) - [DeskHog, an open-source developer toy](https://posthog.com/deskhog)
 * [2025-06-11, 12:44:15](https://news.ycombinator.com/item?id=44247029) - [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
 * [2025-06-11, 11:36:47](https://news.ycombinator.com/item?id=44246518) - [Firefox OS's story from a Mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
 * [2025-06-11, 08:55:47](https://news.ycombinator.com/item?id=44245577) - [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
