@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-12, 14:19:43",
-      "https://news.ycombinator.com/item?id=44258139"
+      "2025-06-12, 14:55:11",
+      "https://news.ycombinator.com/item?id=44258541"
     ],
     [
-      "Waymo rides cost more than Uber or Lyft – and people are paying anyway",
-      "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/"
+      "Becoming an AI-Native Engineer",
+      "https://rfitz.io/blog/becoming-ai-native-engineer/"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 14:26:59",
+      "https://news.ycombinator.com/item?id=44258213"
+    ],
+    [
+      "Seedance 1.0",
+      "https://seed.bytedance.com/en/seedance"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-06-11, 15:25:25",
-      "https://news.ycombinator.com/item?id=44248637"
-    ],
-    [
-      "Drawing on Tradition: Elena Izcue's Peruvian Art in the School",
-      "https://publicdomainreview.org/collection/peruvian-art-in-the-school/"
-    ]
-  ],
-  [
-    [
       "2025-06-11, 14:43:27",
       "https://news.ycombinator.com/item?id=44248165"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2025-06-11, 13:37:31",
-      "https://news.ycombinator.com/item?id=44247501"
-    ],
-    [
-      "DeskHog, an open-source developer toy",
-      "https://posthog.com/deskhog"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 22:56:51",
       "https://news.ycombinator.com/item?id=44242435"
     ],
     [
       "Helion: A modern fast paced Doom FPS engine in C#",
       "https://github.com/Helion-Engine/Helion"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 08:24:44",
+      "https://news.ycombinator.com/item?id=44234080"
+    ],
+    [
+      "Rust compiler performance",
+      "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
     ]
   ],
   [
