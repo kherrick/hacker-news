@@ -7,6 +7,7 @@
 * [2025-06-11, 23:51:54](https://news.ycombinator.com/item?id=44253083) - [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
 * [2025-06-11, 23:49:42](https://news.ycombinator.com/item?id=44253065) - [Unveiling the EndBOX – A microcomputer prototype for EndBASIC](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
 * [2025-06-11, 23:43:00](https://news.ycombinator.com/item?id=44253021) - [SmartAttack: Air-Gap Attack via Smartwatches](https://arxiv.org/abs/2506.08866v1)
+* [2025-06-11, 23:41:00](https://news.ycombinator.com/item?id=44253005) - [The Canadian C++ Conference](https://cppnorth.ca/index.html)
 * [2025-06-11, 23:20:03](https://news.ycombinator.com/item?id=44252858) - [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
 * [2025-06-11, 22:42:31](https://news.ycombinator.com/item?id=44252601) - [Extracting Router Firmware Using SMD Grippers](https://getuliovictor.github.io/posts/Extracting-Router-Firmware-SMD-Grippers/)
 * [2025-06-11, 22:29:44](https://news.ycombinator.com/item?id=44252516) - [Social media use increases depression in preteens, not vice versa](https://medicalxpress.com/news/2025-05-social-media-depression-preteens-vice.html)
