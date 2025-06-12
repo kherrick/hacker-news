@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
+* [2025-06-12, 09:43:10](https://news.ycombinator.com/item?id=44255724) - [Pentagon Has Been Pushing Americans to Believe in UFOs for Decades, New Report](https://gizmodo.com/pentagon-has-been-pushing-americans-to-believe-in-ufos-for-decades-new-report-finds-2000614615)
 * [2025-06-12, 09:22:49](https://news.ycombinator.com/item?id=44255608) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 * [2025-06-12, 09:08:43](https://news.ycombinator.com/item?id=44255527) - [SchemeFlow (YC S24) Is Hiring a Founding Engineer (London) to Speed Up Construction](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack)
 * [2025-06-12, 08:37:22](https://news.ycombinator.com/item?id=44255352) - [Danish Ministry Replaces Windows and Microsoft Office with Linux and LibreOffice](https://www.heise.de/en/news/From-Word-and-Excel-to-LibreOffice-Danish-ministry-says-goodbye-to-Microsoft-10438942.html)
