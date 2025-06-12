@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-12, 03:16:13](https://news.ycombinator.com/item?id=44253993) - [TV Fool: See OTA channels you can receive](https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29)
-* [2025-06-12, 02:33:40](https://news.ycombinator.com/item?id=44253804) - [Amiga 4000T: The Best Amiga in the World](https://forgottencomputer.com/retro/a4000t/)
 * [2025-06-12, 00:37:27](https://news.ycombinator.com/item?id=44253307) - [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
 * [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
 * [2025-06-11, 23:51:54](https://news.ycombinator.com/item?id=44253083) - [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
@@ -16,6 +14,7 @@
 * [2025-06-11, 14:43:27](https://news.ycombinator.com/item?id=44248165) - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
 * [2025-06-11, 14:25:05](https://news.ycombinator.com/item?id=44247964) - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
 * [2025-06-11, 14:15:54](https://news.ycombinator.com/item?id=44247881) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
+* [2025-06-11, 13:37:31](https://news.ycombinator.com/item?id=44247501) - [DeskHog, an open-source developer toy](https://posthog.com/deskhog)
 * [2025-06-11, 12:44:15](https://news.ycombinator.com/item?id=44247029) - [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
 * [2025-06-11, 11:36:47](https://news.ycombinator.com/item?id=44246518) - [Firefox OS's story from a Mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
 * [2025-06-11, 08:55:47](https://news.ycombinator.com/item?id=44245577) - [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
@@ -24,6 +23,7 @@
 * [2025-06-10, 19:12:17](https://news.ycombinator.com/item?id=44240302) - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
 * [2025-06-10, 12:56:36](https://news.ycombinator.com/item?id=44236241) - [The curious case of shell commands, or how \"this bug is required by POSIX\" (2021)](https://notes.volution.ro/v1/2021/01/notes/502e747f/)
 * [2025-06-09, 18:34:42](https://news.ycombinator.com/item?id=44227649) - [Type-based vs. Value-based Reflection](https://brevzin.github.io/c++/2025/06/09/reflection-ts/)
+* [2025-06-09, 14:40:14](https://news.ycombinator.com/item?id=44224977) - [Show HN: Interactive Enigma Machine Simulator](https://enigmasimulator.com)
 * [2025-06-09, 14:11:49](https://news.ycombinator.com/item?id=44224729) - [How long it takes to know if a job is right for you or not](https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/)
 * [2025-06-09, 05:30:14](https://news.ycombinator.com/item?id=44221655) - [How I Program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-09, 02:07:30](https://news.ycombinator.com/item?id=44220890) - [My Cord-Cutting Adventure](http://brander.ca/cordcut/)
