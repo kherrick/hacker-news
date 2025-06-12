@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-12, 16:18:01",
+      "https://news.ycombinator.com/item?id=44259476"
+    ],
+    [
+      "Solving LinkedIn Queens with SMT",
+      "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 16:12:45",
+      "https://news.ycombinator.com/item?id=44259398"
+    ],
+    [
+      "US-backed Israeli company's spyware used to target European journalists",
+      "https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 15:55:54",
       "https://news.ycombinator.com/item?id=44259190"
     ],
     [
       "You can now legally walk with drinks on SF's Valencia St",
       "https://missionlocal.org/2025/06/valencia-drinking-san-francisco/"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 15:49:40",
+      "https://news.ycombinator.com/item?id=44259132"
+    ],
+    [
+      "macOS Tahoe brings a new disk image format",
+      "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Trump's NASA cuts would destroy decades of science and wipe out its future",
       "https://www.latimes.com/business/story/2025-06-09/trumps-nasa-cuts-would-destroy-decades-of-science-and-wipe-out-its-future"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 15:04:59",
+      "https://news.ycombinator.com/item?id=44258670"
+    ],
+    [
+      "iPhone 11 emulation done in QEMU",
+      "https://github.com/ChefKissInc/QEMUAppleSilicon"
     ]
   ],
   [
@@ -111,26 +151,6 @@
   ],
   [
     [
-      "2025-06-12, 08:37:22",
-      "https://news.ycombinator.com/item?id=44255352"
-    ],
-    [
-      "Danish Ministry Replaces Windows and Microsoft Office with Linux and LibreOffice",
-      "https://www.heise.de/en/news/From-Word-and-Excel-to-LibreOffice-Danish-ministry-says-goodbye-to-Microsoft-10438942.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 05:02:01",
-      "https://news.ycombinator.com/item?id=44254439"
-    ],
-    [
-      "Expanding Racks [video]",
-      "https://www.youtube.com/watch?v=iWknov3Xpts"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 00:37:27",
       "https://news.ycombinator.com/item?id=44253307"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-06-11, 14:25:05",
-      "https://news.ycombinator.com/item?id=44247964"
-    ],
-    [
-      "Show HN: RomM – An open-source, self-hosted ROM manager and player",
-      "https://github.com/rommapp/romm"
-    ]
-  ],
-  [
-    [
       "2025-06-11, 14:15:54",
       "https://news.ycombinator.com/item?id=44247881"
     ],
@@ -217,6 +227,16 @@
     [
       "Helion: A modern fast paced Doom FPS engine in C#",
       "https://github.com/Helion-Engine/Helion"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 20:42:19",
+      "https://news.ycombinator.com/item?id=44241242"
+    ],
+    [
+      "First thoughts on o3 pro",
+      "https://www.latent.space/p/o3-pro"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-06-09, 14:11:49",
-      "https://news.ycombinator.com/item?id=44224729"
-    ],
-    [
-      "How long it takes to know if a job is right for you or not",
-      "https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 07:54:59",
       "https://news.ycombinator.com/item?id=44222307"
     ],
@@ -277,16 +287,6 @@
     [
       "Reflections on Sudoku, or the Impossibility of Systematizing Thought",
       "https://rjp.io/blog/2025-06-07-reflections-on-sudoku"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 14:51:27",
-      "https://news.ycombinator.com/item?id=44217356"
-    ],
-    [
-      "Rohde and Schwarz AMIQ Modulation Generator Teardown",
-      "https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html"
     ]
   ],
   [
