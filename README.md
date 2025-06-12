@@ -3,6 +3,7 @@
 * [2025-06-12, 03:16:13](https://news.ycombinator.com/item?id=44253993) - [TV Fool: See OTA channels you can receive](https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29)
 * [2025-06-12, 02:33:40](https://news.ycombinator.com/item?id=44253804) - [Amiga 4000T: The Best Amiga in the World](https://forgottencomputer.com/retro/a4000t/)
 * [2025-06-12, 00:37:27](https://news.ycombinator.com/item?id=44253307) - [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
+* [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
 * [2025-06-11, 23:51:54](https://news.ycombinator.com/item?id=44253083) - [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
 * [2025-06-11, 23:49:42](https://news.ycombinator.com/item?id=44253065) - [Unveiling the EndBOX – A microcomputer prototype for EndBASIC](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
 * [2025-06-11, 23:20:03](https://news.ycombinator.com/item?id=44252858) - [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
@@ -28,7 +29,6 @@
 * [2025-06-09, 02:07:30](https://news.ycombinator.com/item?id=44220890) - [My Cord-Cutting Adventure](http://brander.ca/cordcut/)
 * [2025-06-08, 21:46:28](https://news.ycombinator.com/item?id=44219680) - [Researchers discover evidence in the mystery of America's 'Lost Colony'](https://www.foxnews.com/travel/mystery-americas-lost-colony-may-finally-solved-after-440-years-archaeologists-say)
 * [2025-06-08, 21:08:45](https://news.ycombinator.com/item?id=44219504) - [Bliss – The story behind one of the most famous photographs (2012)](https://amateurphotographer.com/iconic-images/bliss-by-charles-orear-iconic-photograph/)
-* [2025-06-08, 06:01:50](https://news.ycombinator.com/item?id=44214878) - [Characterizing my first attempt at copper-only passives](https://moroso.emarhavil.com/~joshua/2pf-characterization.html)
 * [2025-06-07, 19:27:38](https://news.ycombinator.com/item?id=44211971) - [Plants hear their pollinators, and produce sweet nectar in response](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response)
 
 ## [Archives](archives/index.md)
