@@ -42,6 +42,7 @@
 * [2025-06-08, 14:46:21](https://news.ycombinator.com/item?id=44217322) - [Launching the BeOS on Hitachi Flora Prius Systems (1999)](http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html)
 * [2025-06-08, 13:50:41](https://news.ycombinator.com/item?id=44216996) - [A Thousand Tiny Optimisations](https://leejo.github.io/2025/06/08/alttpr/)
 * [2025-06-08, 12:38:55](https://news.ycombinator.com/item?id=44216630) - [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
+* [2025-06-08, 11:47:44](https://news.ycombinator.com/item?id=44216370) - [Dancing brainwaves: How sound reshapes your brain networks in real time](https://www.sciencedaily.com/releases/2025/06/250602155001.htm)
 * [2025-06-08, 10:52:35](https://news.ycombinator.com/item?id=44216123) - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
 * [2025-06-08, 10:49:35](https://news.ycombinator.com/item?id=44216116) - [I got a remote job for a EU company, I'd find it hard to go back to a US-based](https://www.businessinsider.com/remote-work-european-company-us-work-life-balance-2025-6)
 * [2025-06-08, 10:48:53](https://news.ycombinator.com/item?id=44216113) - [Apple Is on Defense at WWDC](https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence)
