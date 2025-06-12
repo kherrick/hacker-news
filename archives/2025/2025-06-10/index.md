@@ -11,6 +11,7 @@
 * [2025-06-10, 21:17:08](https://news.ycombinator.com/item?id=44241549) - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 * [2025-06-10, 21:03:27](https://news.ycombinator.com/item?id=44241407) - [News Sites Are Getting Crushed by Google's New AI Tools](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
 * [2025-06-10, 20:47:11](https://news.ycombinator.com/item?id=44241278) - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
+* [2025-06-10, 20:42:19](https://news.ycombinator.com/item?id=44241242) - [First thoughts on o3 pro](https://www.latent.space/p/o3-pro)
 * [2025-06-10, 20:36:55](https://news.ycombinator.com/item?id=44241202) - [Show HN: A \"Course\" as an MCP Server](https://mastra.ai/course)
 * [2025-06-10, 20:25:01](https://news.ycombinator.com/item?id=44241089) - [Web-scraping AI bots cause disruption for scientific databases and journals](https://www.nature.com/articles/d41586-025-01661-4)
 * [2025-06-10, 20:15:47](https://news.ycombinator.com/item?id=44240999) - [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
