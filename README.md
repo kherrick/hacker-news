@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-12, 12:59:56](https://news.ycombinator.com/item?id=44257283) - [2025 State of AI Code Quality](https://www.qodo.ai/reports/state-of-ai-code-quality/)
 * [2025-06-12, 12:01:10](https://news.ycombinator.com/item?id=44256701) - [GauntletAI (YC S17): All expenses paid AI training and guaranteed $200k+ job](https://www.gauntletai.com/)
 * [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
-* [2025-06-12, 11:21:16](https://news.ycombinator.com/item?id=44256338) - [My Mac contacted 63 different Apple owned domains in an hour, while not is use](https://appaddict.app/post/my-mac-contacted-63-different-apple-owned-domains-in-one-hour-while-not-is-use)
 * [2025-06-12, 10:57:20](https://news.ycombinator.com/item?id=44256169) - [Brazil's Supreme Court makes social media liable for user content](https://economictimes.indiatimes.com/tech/technology/brazils-supreme-court-justices-agree-to-make-social-media-companies-liable-for-user-content/articleshow/121791147.cms?from=mdr)
 * [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 * [2025-06-12, 09:22:49](https://news.ycombinator.com/item?id=44255608) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
@@ -11,6 +11,7 @@
 * [2025-06-12, 05:02:01](https://news.ycombinator.com/item?id=44254439) - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
 * [2025-06-12, 00:37:27](https://news.ycombinator.com/item?id=44253307) - [Show HN: Eyesite – Experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
 * [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
+* [2025-06-11, 23:49:42](https://news.ycombinator.com/item?id=44253065) - [Unveiling the EndBOX – A microcomputer prototype for EndBASIC](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
 * [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
 * [2025-06-11, 19:44:29](https://news.ycombinator.com/item?id=44251047) - [Research suggests Big Bang may have taken place inside a black hole](https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole)
 * [2025-06-11, 17:02:56](https://news.ycombinator.com/item?id=44249565) - [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
@@ -19,9 +20,9 @@
 * [2025-06-11, 14:25:05](https://news.ycombinator.com/item?id=44247964) - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
 * [2025-06-11, 14:15:54](https://news.ycombinator.com/item?id=44247881) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
 * [2025-06-11, 13:37:31](https://news.ycombinator.com/item?id=44247501) - [DeskHog, an open-source developer toy](https://posthog.com/deskhog)
-* [2025-06-10, 20:15:47](https://news.ycombinator.com/item?id=44240999) - [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
 * [2025-06-10, 12:56:36](https://news.ycombinator.com/item?id=44236241) - [The curious case of shell commands, or how \"this bug is required by POSIX\" (2021)](https://notes.volution.ro/v1/2021/01/notes/502e747f/)
 * [2025-06-10, 01:02:13](https://news.ycombinator.com/item?id=44231386) - [The hunt for Marie Curie's radioactive fingerprints in Paris](https://www.bbc.com/future/article/20250605-the-hunt-for-marie-curies-radioactive-fingerprints-in-paris)
+* [2025-06-09, 22:17:44](https://news.ycombinator.com/item?id=44230157) - [Archaeological evidence of intensive indigenous farming in MI's Upper Peninsula](https://www.science.org/doi/10.1126/science.ads1643)
 * [2025-06-09, 14:11:49](https://news.ycombinator.com/item?id=44224729) - [How long it takes to know if a job is right for you or not](https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/)
 * [2025-06-09, 07:54:59](https://news.ycombinator.com/item?id=44222307) - [Quantum Computation Lecture Notes by Peter Shor](https://math.mit.edu/~shor/435-LN/)
 * [2025-06-09, 02:07:30](https://news.ycombinator.com/item?id=44220890) - [My Cord-Cutting Adventure (2020)](http://brander.ca/cordcut/)
@@ -29,7 +30,6 @@
 * [2025-06-08, 22:15:51](https://news.ycombinator.com/item?id=44219822) - [The Sixties Come Back to Life in \"Everything Is Now\"](https://www.newyorker.com/culture/the-front-row/the-sixties-come-back-to-life-in-everything-is-now)
 * [2025-06-08, 14:51:27](https://news.ycombinator.com/item?id=44217356) - [Rohde and Schwarz AMIQ Modulation Generator Teardown](https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html)
 * [2025-06-08, 11:47:44](https://news.ycombinator.com/item?id=44216370) - [Dancing brainwaves: How sound reshapes your brain networks in real time](https://www.sciencedaily.com/releases/2025/06/250602155001.htm)
-* [2025-06-07, 19:27:38](https://news.ycombinator.com/item?id=44211971) - [Plants hear their pollinators, and produce sweet nectar in response](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response)
 
 ## [Archives](archives/index.md)
 

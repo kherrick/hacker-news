@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 12:59:56](https://news.ycombinator.com/item?id=44257283) - [2025 State of AI Code Quality](https://www.qodo.ai/reports/state-of-ai-code-quality/)
 * [2025-06-12, 12:14:03](https://news.ycombinator.com/item?id=44256844) - [AI coding tools are like that helpful but untrustworthy friend, devs say](https://www.theregister.com/2025/06/12/devs_mostly_welcome_ai_coding/)
 * [2025-06-12, 12:01:10](https://news.ycombinator.com/item?id=44256701) - [GauntletAI (YC S17): All expenses paid AI training and guaranteed $200k+ job](https://www.gauntletai.com/)
 * [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination [ADHD]](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
