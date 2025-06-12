@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 10:34:30](https://news.ycombinator.com/item?id=44256003) - [Altman fluffs superintelligence to save humanity as OpenAI slashes prices](https://www.theregister.com/2025/06/11/openais_sam_altman_superintelligence/)
+* [2025-06-12, 09:50:01](https://news.ycombinator.com/item?id=44255759) - [Ask HN: Minecraft's UI element style (vs. modern flat glass interface)](https://news.ycombinator.com/item?id=44255759)
 * [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 * [2025-06-12, 09:43:10](https://news.ycombinator.com/item?id=44255724) - [Pentagon Has Been Pushing Americans to Believe in UFOs for Decades, New Report](https://gizmodo.com/pentagon-has-been-pushing-americans-to-believe-in-ufos-for-decades-new-report-finds-2000614615)
 * [2025-06-12, 09:22:49](https://news.ycombinator.com/item?id=44255608) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
