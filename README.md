@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-12, 18:55:00](https://news.ycombinator.com/item?id=44261618) - [Everything Is Down](https://news.ycombinator.com/item?id=44261618)
+* [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 18:11:07](https://news.ycombinator.com/item?id=44260810) - [GCP Outage](https://status.cloud.google.com/)
-* [2025-06-12, 17:59:34](https://news.ycombinator.com/item?id=44260661) - [NASA Is Worth Saving](https://caseyhandmer.wordpress.com/2025/06/12/nasa-is-worth-saving/)
 * [2025-06-12, 17:58:11](https://news.ycombinator.com/item?id=44260649) - [Show HN: ChatToSTL – AI text-to-CAD for 3D printing](https://huggingface.co/spaces/flowfulai/ChatToSTL)
 * [2025-06-12, 17:01:11](https://news.ycombinator.com/item?id=44260017) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer)
 * [2025-06-12, 16:53:08](https://news.ycombinator.com/item?id=44259921) - [Google Pixels are no longer the AOSP reference device](https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/)
@@ -29,6 +28,7 @@
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-09, 22:17:44](https://news.ycombinator.com/item?id=44230157) - [Archaeological evidence of intensive indigenous farming in MI's Upper Peninsula](https://www.science.org/doi/10.1126/science.ads1643)
 * [2025-06-09, 07:54:59](https://news.ycombinator.com/item?id=44222307) - [Quantum Computation Lecture Notes (2022)](https://math.mit.edu/~shor/435-LN/)
+* [2025-06-08, 14:51:27](https://news.ycombinator.com/item?id=44217356) - [Rohde and Schwarz AMIQ Modulation Generator Teardown](https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html)
 * [2025-06-08, 11:47:44](https://news.ycombinator.com/item?id=44216370) - [Dancing brainwaves: How sound reshapes your brain networks in real time](https://www.sciencedaily.com/releases/2025/06/250602155001.htm)
 
 ## [Archives](archives/index.md)
