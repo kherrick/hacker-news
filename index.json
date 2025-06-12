@@ -1,22 +1,62 @@
 [
   [
     [
+      "2025-06-12, 18:16:33",
+      "https://news.ycombinator.com/item?id=44260903"
+    ],
+    [
+      "Spaceballs 2 Will See Rick Moranis Return as Dark Helmet",
+      "https://www.ign.com/articles/spaceballs-2-plots-a-course-for-2027-with-mel-brooks-in-first-teaser-trailer"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 18:16:30",
+      "https://news.ycombinator.com/item?id=44260900"
+    ],
+    [
+      "NPM: Issues with package install, package publish, and login",
+      "https://status.npmjs.org/incidents/dn5mcp85737y"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 18:11:07",
+      "https://news.ycombinator.com/item?id=44260810"
+    ],
+    [
+      "GCP Outage",
+      "https://status.cloud.google.com/"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 17:59:34",
+      "https://news.ycombinator.com/item?id=44260661"
+    ],
+    [
+      "NASA Is Worth Saving",
+      "https://caseyhandmer.wordpress.com/2025/06/12/nasa-is-worth-saving/"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 17:58:11",
+      "https://news.ycombinator.com/item?id=44260649"
+    ],
+    [
+      "Show HN: ChatToSTL – AI text-to-CAD for 3D printing",
+      "https://huggingface.co/spaces/flowfulai/ChatToSTL"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 17:01:11",
       "https://news.ycombinator.com/item?id=44260017"
     ],
     [
       "Roame (YC S23) Is Hiring",
       "https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 16:59:24",
-      "https://news.ycombinator.com/item?id=44259985"
-    ],
-    [
-      "China's digging out of a crisis, but America's luck is wearing thin – Ken Rogoff",
-      "https://www.dwarkesh.com/p/ken-rogoff"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2025-06-12, 15:36:54",
-      "https://news.ycombinator.com/item?id=44259001"
-    ],
-    [
-      "Trump's NASA cuts would destroy decades of science and wipe out its future",
-      "https://www.latimes.com/business/story/2025-06-09/trumps-nasa-cuts-would-destroy-decades-of-science-and-wipe-out-its-future"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 15:04:59",
       "https://news.ycombinator.com/item?id=44258670"
     ],
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2025-06-12, 14:55:11",
-      "https://news.ycombinator.com/item?id=44258541"
-    ],
-    [
-      "Becoming an AI-Native Engineer",
-      "https://rfitz.io/blog/becoming-ai-native-engineer/"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 14:26:59",
       "https://news.ycombinator.com/item?id=44258213"
     ],
     [
       "Seedance 1.0",
       "https://seed.bytedance.com/en/seedance"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 14:24:28",
-      "https://news.ycombinator.com/item?id=44258189"
-    ],
-    [
-      "It took longer to get the API key",
-      "https://algarch.com/blog/the-api-keys-took-longer-than-the-code-why-human-processes-are-the-real-bottleneck-in-ai-development"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
       "https://arxiv.org/abs/2504.06932"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 09:21:44",
-      "https://news.ycombinator.com/item?id=44255602"
-    ],
-    [
-      "Air India flight to London crashes in Ahmedabad with more than 240 onboard",
-      "https://www.theguardian.com/world/live/2025/jun/12/air-india-flight-ai171-plane-crash-ahmedabad-india-latest-updates"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-06-11, 14:43:27",
+      "https://news.ycombinator.com/item?id=44248165"
+    ],
+    [
+      "V-JEPA 2 world model and new benchmarks for physical reasoning",
+      "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 22:56:51",
       "https://news.ycombinator.com/item?id=44242435"
     ],
@@ -257,16 +267,6 @@
     [
       "Rust compiler performance",
       "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 01:02:13",
-      "https://news.ycombinator.com/item?id=44231386"
-    ],
-    [
-      "The hunt for Marie Curie's radioactive fingerprints in Paris",
-      "https://www.bbc.com/future/article/20250605-the-hunt-for-marie-curies-radioactive-fingerprints-in-paris"
     ]
   ],
   [
