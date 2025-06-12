@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 15:36:54](https://news.ycombinator.com/item?id=44259001) - [Trump's NASA cuts would destroy decades of science and wipe out its future](https://www.latimes.com/business/story/2025-06-09/trumps-nasa-cuts-would-destroy-decades-of-science-and-wipe-out-its-future)
 * [2025-06-12, 14:55:11](https://news.ycombinator.com/item?id=44258541) - [Becoming an AI-Native Engineer](https://rfitz.io/blog/becoming-ai-native-engineer/)
 * [2025-06-12, 14:26:59](https://news.ycombinator.com/item?id=44258213) - [Seedance 1.0](https://seed.bytedance.com/en/seedance)
 * [2025-06-12, 14:19:43](https://news.ycombinator.com/item?id=44258139) - [Waymo rides cost more than Uber or Lyft – and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
