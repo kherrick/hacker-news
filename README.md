@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-12, 05:47:25](https://news.ycombinator.com/item?id=44254610) - [DNS4EU, an EU-based DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
 * [2025-06-12, 05:27:41](https://news.ycombinator.com/item?id=44254540) - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
 * [2025-06-12, 05:02:01](https://news.ycombinator.com/item?id=44254439) - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
+* [2025-06-12, 04:45:32](https://news.ycombinator.com/item?id=44254383) - [In case of emergency, break glass](https://morrick.me/archives/10048)
 * [2025-06-12, 03:16:13](https://news.ycombinator.com/item?id=44253993) - [TV Fool: See OTA channels you can receive](https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29)
 * [2025-06-12, 00:37:27](https://news.ycombinator.com/item?id=44253307) - [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
 * [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
@@ -28,7 +28,7 @@
 * [2025-06-09, 14:11:49](https://news.ycombinator.com/item?id=44224729) - [How long it takes to know if a job is right for you or not](https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/)
 * [2025-06-09, 05:30:14](https://news.ycombinator.com/item?id=44221655) - [How I Program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-09, 02:07:30](https://news.ycombinator.com/item?id=44220890) - [My Cord-Cutting Adventure](http://brander.ca/cordcut/)
-* [2025-06-09, 01:11:11](https://news.ycombinator.com/item?id=44220602) - [James Florio Turned Patrick Dougherty's Sculptures into Stellar Photography](https://aboutphotography.blog/blog/behind-the-scenes-with-phil-penman-the-making-of-new-york-street-diaries-book-spotlight)
+* [2025-06-08, 14:51:27](https://news.ycombinator.com/item?id=44217356) - [Rohde and Schwarz AMIQ Modulation Generator Teardown](https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html)
 * [2025-06-07, 19:27:38](https://news.ycombinator.com/item?id=44211971) - [Plants hear their pollinators, and produce sweet nectar in response](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response)
 
 ## [Archives](archives/index.md)
