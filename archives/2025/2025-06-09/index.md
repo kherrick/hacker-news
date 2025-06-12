@@ -58,6 +58,7 @@
 * [2025-06-09, 10:02:04](https://news.ycombinator.com/item?id=44222839) - [We came to be ruled by Death Eaters (2014)](https://georgiebc.wordpress.com/2014/12/05/how-we-came-to-be-ruled-by-death-eaters/)
 * [2025-06-09, 10:01:38](https://news.ycombinator.com/item?id=44222836) - [Congress Passes Socialized Medicine and Mandates Health Insurance -In 1798](https://www.forbes.com/sites/rickungar/2011/01/17/congress-passes-socialized-medicine-and-mandates-health-insurance-in-1798/)
 * [2025-06-09, 08:48:56](https://news.ycombinator.com/item?id=44222527) - [So Long, Figma. Thanks for Everything](https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c)
+* [2025-06-09, 07:54:59](https://news.ycombinator.com/item?id=44222307) - [Quantum Computation Lecture Notes by Peter Shor](https://math.mit.edu/~shor/435-LN/)
 * [2025-06-09, 07:53:15](https://news.ycombinator.com/item?id=44222299) - [CoverDrop: A secure messaging system for newsreader apps](https://github.com/guardian/coverdrop)
 * [2025-06-09, 07:16:26](https://news.ycombinator.com/item?id=44222119) - [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
 * [2025-06-09, 07:06:23](https://news.ycombinator.com/item?id=44222074) - [Publish a Python Wheel to GCP Artifact Registry with Poetry](https://sergiolema.dev/2025/06/09/publish-a-python-wheel-to-gcp-artifact-registry-with-poetry/)
