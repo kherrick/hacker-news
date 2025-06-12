@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 18:24:01](https://news.ycombinator.com/item?id=44261064) - [Cloudflare Investigating Incident](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
 * [2025-06-12, 18:16:33](https://news.ycombinator.com/item?id=44260903) - [Spaceballs 2 Will See Rick Moranis Return as Dark Helmet](https://www.ign.com/articles/spaceballs-2-plots-a-course-for-2027-with-mel-brooks-in-first-teaser-trailer)
 * [2025-06-12, 18:16:30](https://news.ycombinator.com/item?id=44260900) - [NPM: Issues with package install, package publish, and login](https://status.npmjs.org/incidents/dn5mcp85737y)
 * [2025-06-12, 18:11:07](https://news.ycombinator.com/item?id=44260810) - [GCP Outage](https://status.cloud.google.com/)
