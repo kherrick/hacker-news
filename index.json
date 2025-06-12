@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-06-12, 18:55:00",
-      "https://news.ycombinator.com/item?id=44261618"
+      "2025-06-12, 19:05:12",
+      "https://news.ycombinator.com/item?id=44261777"
     ],
     [
-      "Everything Is Down",
-      "https://news.ycombinator.com/item?id=44261618"
+      "Frequent reauth doesn't make you more secure",
+      "https://tailscale.com/blog/frequent-reath-security"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "GCP Outage",
       "https://status.cloud.google.com/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 17:59:34",
-      "https://news.ycombinator.com/item?id=44260661"
-    ],
-    [
-      "NASA Is Worth Saving",
-      "https://caseyhandmer.wordpress.com/2025/06/12/nasa-is-worth-saving/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Quantum Computation Lecture Notes (2022)",
       "https://math.mit.edu/~shor/435-LN/"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 14:51:27",
+      "https://news.ycombinator.com/item?id=44217356"
+    ],
+    [
+      "Rohde and Schwarz AMIQ Modulation Generator Teardown",
+      "https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html"
     ]
   ],
   [
