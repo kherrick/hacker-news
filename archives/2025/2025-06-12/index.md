@@ -14,6 +14,7 @@
 * [2025-06-12, 18:04:49](https://news.ycombinator.com/item?id=44260717) - [Twitch Is Down](https://status.twitch.com)
 * [2025-06-12, 17:59:34](https://news.ycombinator.com/item?id=44260661) - [NASA Is Worth Saving](https://caseyhandmer.wordpress.com/2025/06/12/nasa-is-worth-saving/)
 * [2025-06-12, 17:58:11](https://news.ycombinator.com/item?id=44260649) - [Show HN: ChatToSTL – AI text-to-CAD for 3D printing](https://huggingface.co/spaces/flowfulai/ChatToSTL)
+* [2025-06-12, 17:47:46](https://news.ycombinator.com/item?id=44260556) - [Builder.ai did not \"fake AI with 700 engineers\"](https://newsletter.pragmaticengineer.com/p/the-pulse-137)
 * [2025-06-12, 17:01:11](https://news.ycombinator.com/item?id=44260017) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer)
 * [2025-06-12, 16:59:24](https://news.ycombinator.com/item?id=44259985) - [China's digging out of a crisis, but America's luck is wearing thin – Ken Rogoff](https://www.dwarkesh.com/p/ken-rogoff)
 * [2025-06-12, 16:53:08](https://news.ycombinator.com/item?id=44259921) - [Google Pixels are no longer the AOSP reference device](https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/)
