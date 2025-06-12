@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 14:55:11](https://news.ycombinator.com/item?id=44258541) - [Becoming an AI-Native Engineer](https://rfitz.io/blog/becoming-ai-native-engineer/)
+* [2025-06-12, 14:26:59](https://news.ycombinator.com/item?id=44258213) - [Seedance 1.0](https://seed.bytedance.com/en/seedance)
 * [2025-06-12, 14:19:43](https://news.ycombinator.com/item?id=44258139) - [Waymo rides cost more than Uber or Lyft – and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
 * [2025-06-12, 14:03:06](https://news.ycombinator.com/item?id=44257946) - [The Problem with AI Welfare](https://substack.com/home/post/p-165615548)
 * [2025-06-12, 13:51:15](https://news.ycombinator.com/item?id=44257819) - [VisionOS 26 keeps pushing Apple's newest platform toward the future](https://sixcolors.com/post/2025/06/visionos-26-keeps-pushing-apples-newest-platform-toward-the-future/)

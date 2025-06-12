@@ -55,6 +55,7 @@
 * [2025-06-10, 08:56:30](https://news.ycombinator.com/item?id=44234290) - [Denmark: Minister for Digitalization wants to phase out Microsoft](https://nordjyske.dk/nyheder/politik/digitaliseringsminister-vil-udfase-microsoft-i-sit-eget-ministerium/5616096)
 * [2025-06-10, 08:43:01](https://news.ycombinator.com/item?id=44234189) - [How to not use AI to code for you](https://mandaputtra.id/posts/how-to-not-using-ai-to-code/)
 * [2025-06-10, 08:38:11](https://news.ycombinator.com/item?id=44234160) - [Mozilla shuts down even more Firefox services](https://www.neowin.net/news/mozilla-shuts-down-even-more-firefox-services-you-might-still-be-using/)
+* [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-10, 06:51:14](https://news.ycombinator.com/item?id=44233480) - [Europe needs digital sovereignty – and Microsoft has just proven why](https://tuta.com/blog/digital-sovereignty-europe)
 * [2025-06-10, 06:30:03](https://news.ycombinator.com/item?id=44233315) - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
 * [2025-06-10, 06:12:52](https://news.ycombinator.com/item?id=44233188) - [Ada Continues to Climb in June Tiobe Index and PYPL](https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126)
