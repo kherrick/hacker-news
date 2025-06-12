@@ -11,62 +11,12 @@
   ],
   [
     [
-      "2025-06-12, 18:43:06",
-      "https://news.ycombinator.com/item?id=44261426"
-    ],
-    [
-      "Firebase Global Outage",
-      "https://status.firebase.google.com/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 18:24:01",
-      "https://news.ycombinator.com/item?id=44261064"
-    ],
-    [
-      "Cloudflare Investigating Incident",
-      "https://www.cloudflarestatus.com/incidents/25r9t0vz99rp"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 18:16:33",
-      "https://news.ycombinator.com/item?id=44260903"
-    ],
-    [
-      "Spaceballs 2 Will See Rick Moranis Return as Dark Helmet",
-      "https://www.ign.com/articles/spaceballs-2-plots-a-course-for-2027-with-mel-brooks-in-first-teaser-trailer"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 18:16:30",
-      "https://news.ycombinator.com/item?id=44260900"
-    ],
-    [
-      "NPM: Issues with package install, package publish, and login",
-      "https://status.npmjs.org/incidents/dn5mcp85737y"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 18:11:07",
       "https://news.ycombinator.com/item?id=44260810"
     ],
     [
       "GCP Outage",
       "https://status.cloud.google.com/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 18:04:49",
-      "https://news.ycombinator.com/item?id=44260717"
-    ],
-    [
-      "Twitch Is Down",
-      "https://status.twitch.com"
     ]
   ],
   [
@@ -191,16 +141,6 @@
   ],
   [
     [
-      "2025-06-12, 13:11:29",
-      "https://news.ycombinator.com/item?id=44257400"
-    ],
-    [
-      "CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research",
-      "http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings/"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 11:41:04",
       "https://news.ycombinator.com/item?id=44256499"
     ],
@@ -217,6 +157,26 @@
     [
       "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
       "https://arxiv.org/abs/2504.06932"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 09:21:44",
+      "https://news.ycombinator.com/item?id=44255602"
+    ],
+    [
+      "Air India flight to London crashes in Ahmedabad with more than 240 onboard",
+      "https://www.theguardian.com/world/live/2025/jun/12/air-india-flight-ai171-plane-crash-ahmedabad-india-latest-updates"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 00:37:27",
+      "https://news.ycombinator.com/item?id=44253307"
+    ],
+    [
+      "Show HN: Eyesite – Experimental website combining computer vision and web design",
+      "https://blog.andykhau.com/blog/eyesite"
     ]
   ],
   [
@@ -241,12 +201,42 @@
   ],
   [
     [
+      "2025-06-11, 19:44:29",
+      "https://news.ycombinator.com/item?id=44251047"
+    ],
+    [
+      "Research suggests Big Bang may have taken place inside a black hole",
+      "https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 17:02:56",
       "https://news.ycombinator.com/item?id=44249565"
     ],
     [
       "Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js",
       "https://sparkjs.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 14:43:27",
+      "https://news.ycombinator.com/item?id=44248165"
+    ],
+    [
+      "V-JEPA 2 world model and new benchmarks for physical reasoning",
+      "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 14:15:54",
+      "https://news.ycombinator.com/item?id=44247881"
+    ],
+    [
+      "Bypassing GitHub Actions policies in the dumbest way possible",
+      "https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "First thoughts on o3 pro",
       "https://www.latent.space/p/o3-pro"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 08:24:44",
+      "https://news.ycombinator.com/item?id=44234080"
+    ],
+    [
+      "Rust compiler performance",
+      "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
     ]
   ],
   [
