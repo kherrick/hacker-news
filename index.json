@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-12, 00:15:23",
+      "https://news.ycombinator.com/item?id=44253212"
+    ],
+    [
+      "How Microsoft Office Moved from Source Depot to Git",
+      "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 23:51:54",
       "https://news.ycombinator.com/item?id=44253083"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2025-06-11, 23:43:00",
-      "https://news.ycombinator.com/item?id=44253021"
+      "2025-06-11, 23:49:42",
+      "https://news.ycombinator.com/item?id=44253065"
     ],
     [
-      "SmartAttack: Air-Gap Attack via Smartwatches",
-      "https://arxiv.org/abs/2506.08866v1"
+      "Unveiling the EndBOX – A microcomputer prototype for EndBASIC",
+      "https://www.endbasic.dev/2025/06/unveiling-the-endbox.html"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Congratulations on creating the one billionth repository on GitHub",
       "https://github.com/AasishPokhrel/shit/issues/1"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 21:36:06",
-      "https://news.ycombinator.com/item?id=44252070"
-    ],
-    [
-      "Institutional Books: A 242B token dataset from Harvard Library's collections",
-      "https://arxiv.org/abs/2506.08300"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot",
       "https://www.aim.security/lp/aim-labs-echoleak-blogpost"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 18:07:04",
-      "https://news.ycombinator.com/item?id=44250206"
-    ],
-    [
-      "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents",
-      "https://arxiv.org/abs/2505.22954"
     ]
   ],
   [
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2025-06-11, 12:55:43",
-      "https://news.ycombinator.com/item?id=44247119"
-    ],
-    [
-      "OpenPlanetData – Free Daily Planet OSM PBF and GOL Indexed Snapshots",
-      "https://openplanetdata.com"
-    ]
-  ],
-  [
-    [
       "2025-06-11, 12:44:15",
       "https://news.ycombinator.com/item?id=44247029"
     ],
@@ -191,22 +171,12 @@
   ],
   [
     [
-      "2025-06-11, 12:31:15",
-      "https://news.ycombinator.com/item?id=44246920"
+      "2025-06-11, 11:36:47",
+      "https://news.ycombinator.com/item?id=44246518"
     ],
     [
-      "Menstrual tracking app data is gold mine for advertisers that risks women safety",
-      "https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 09:20:51",
-      "https://news.ycombinator.com/item?id=44245709"
-    ],
-    [
-      "Show HN: DIY virtual HDMI monitor using \"AR\" glasses",
-      "https://github.com/mgschwan/viture_virtual_display"
+      "Firefox OS's story from a Mozilla insider not working on the project (2024)",
+      "https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html"
     ]
   ],
   [
@@ -221,12 +191,22 @@
   ],
   [
     [
-      "2025-06-11, 06:53:06",
-      "https://news.ycombinator.com/item?id=44244879"
+      "2025-06-10, 23:44:05",
+      "https://news.ycombinator.com/item?id=44242737"
     ],
     [
-      "Why Koreans ask what year you were born",
-      "https://bryanhogan.com/blog/korean-age"
+      "Fine-tuning LLMs is a waste of time",
+      "https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 20:15:47",
+      "https://news.ycombinator.com/item?id=44240999"
+    ],
+    [
+      "OpenAI o3-pro",
+      "https://help.openai.com/en/articles/9624314-model-release-notes"
     ]
   ],
   [
@@ -241,11 +221,31 @@
   ],
   [
     [
+      "2025-06-10, 12:56:36",
+      "https://news.ycombinator.com/item?id=44236241"
+    ],
+    [
+      "The curious case of shell commands, or how \"this bug is required by POSIX\" (2021)",
+      "https://notes.volution.ro/v1/2021/01/notes/502e747f/"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 18:34:42",
+      "https://news.ycombinator.com/item?id=44227649"
+    ],
+    [
+      "Type-based vs. Value-based Reflection",
+      "https://brevzin.github.io/c++/2025/06/09/reflection-ts/"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 14:11:49",
       "https://news.ycombinator.com/item?id=44224729"
     ],
     [
-      "How Long it takes to know if a Job Is Right for You or Not",
+      "How long it takes to know if a job is right for you or not",
       "https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/"
     ]
   ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-06-08, 21:46:28",
+      "https://news.ycombinator.com/item?id=44219680"
+    ],
+    [
+      "Researchers discover evidence in the mystery of America's 'Lost Colony'",
+      "https://www.foxnews.com/travel/mystery-americas-lost-colony-may-finally-solved-after-440-years-archaeologists-say"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 06:01:50",
       "https://news.ycombinator.com/item?id=44214878"
     ],
     [
       "Characterizing my first attempt at copper-only passives",
       "https://moroso.emarhavil.com/~joshua/2pf-characterization.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 04:41:39",
-      "https://news.ycombinator.com/item?id=44214588"
-    ],
-    [
-      "The Diary of Samuel Pepys",
-      "https://www.historytoday.com/archive/feature/hidden-diary-samuel-pepys"
     ]
   ],
   [
