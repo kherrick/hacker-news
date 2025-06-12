@@ -11,6 +11,7 @@
 * [2025-06-12, 07:22:23](https://news.ycombinator.com/item?id=44254984) - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
 * [2025-06-12, 07:18:18](https://news.ycombinator.com/item?id=44254963) - [Sam Altman's Lies About ChatGPT Are Growing Bolder](https://gizmodo.com/sam-altmans-lies-about-chatgpt-are-growing-bolder-2000614431)
 * [2025-06-12, 05:47:25](https://news.ycombinator.com/item?id=44254610) - [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
+* [2025-06-12, 05:35:28](https://news.ycombinator.com/item?id=44254569) - [Navy backs right to repair after $13B carrier goes half-fed](https://www.theregister.com/2025/06/11/us_navy_repair/)
 * [2025-06-12, 05:27:41](https://news.ycombinator.com/item?id=44254540) - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
 * [2025-06-12, 05:02:01](https://news.ycombinator.com/item?id=44254439) - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
 * [2025-06-12, 04:45:32](https://news.ycombinator.com/item?id=44254383) - [In case of emergency, break glass](https://morrick.me/archives/10048)
