@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 20:26:09](https://news.ycombinator.com/item?id=44262799) - [Humans have nasal respiratory fingerprints](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 18:55:00](https://news.ycombinator.com/item?id=44261618) - [Everything Is Down](https://news.ycombinator.com/item?id=44261618)
 * [2025-06-12, 18:43:06](https://news.ycombinator.com/item?id=44261426) - [Firebase Global Outage](https://status.firebase.google.com/)

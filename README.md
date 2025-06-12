@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-12, 20:26:09](https://news.ycombinator.com/item?id=44262799) - [Humans have nasal respiratory fingerprints](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 18:24:01](https://news.ycombinator.com/item?id=44261064) - [Cloudflare Investigating Incident](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
 * [2025-06-12, 18:11:07](https://news.ycombinator.com/item?id=44260810) - [GCP Outage](https://status.cloud.google.com/)
@@ -25,7 +26,6 @@
 * [2025-06-11, 17:02:56](https://news.ycombinator.com/item?id=44249565) - [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
 * [2025-06-11, 14:43:27](https://news.ycombinator.com/item?id=44248165) - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
 * [2025-06-10, 22:56:51](https://news.ycombinator.com/item?id=44242435) - [Helion: A modern fast paced Doom FPS engine in C#](https://github.com/Helion-Engine/Helion)
-* [2025-06-10, 20:42:19](https://news.ycombinator.com/item?id=44241242) - [First thoughts on o3 pro](https://www.latent.space/p/o3-pro)
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-09, 22:17:44](https://news.ycombinator.com/item?id=44230157) - [Archaeological evidence of intensive indigenous farming in MI's Upper Peninsula](https://www.science.org/doi/10.1126/science.ads1643)
 * [2025-06-09, 07:54:59](https://news.ycombinator.com/item?id=44222307) - [Quantum Computation Lecture Notes (2022)](https://math.mit.edu/~shor/435-LN/)
