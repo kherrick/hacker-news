@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination [ADHD]](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
 * [2025-06-12, 11:21:16](https://news.ycombinator.com/item?id=44256338) - [My Mac Contacted 63 Different Apple Owned Domains in One Hour – While Not Is Use](https://appaddict.app/post/my-mac-contacted-63-different-apple-owned-domains-in-one-hour-while-not-is-use)
 * [2025-06-12, 11:08:03](https://news.ycombinator.com/item?id=44256242) - [First Boeing 787 Dreamliner Crash](https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad)
 * [2025-06-12, 10:34:30](https://news.ycombinator.com/item?id=44256003) - [Altman fluffs superintelligence to save humanity as OpenAI slashes prices](https://www.theregister.com/2025/06/11/openais_sam_altman_superintelligence/)
@@ -14,6 +15,7 @@
 * [2025-06-12, 09:38:56](https://news.ycombinator.com/item?id=44255697) - [A California dairy tried to capture its methane, and it worked](https://phys.org/news/2025-06-california-dairy-capture-methane.html)
 * [2025-06-12, 09:22:49](https://news.ycombinator.com/item?id=44255608) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 * [2025-06-12, 09:21:44](https://news.ycombinator.com/item?id=44255602) - [Air India passenger plane with over 200 onboard crashes near Meghaninagar](https://economictimes.indiatimes.com/news/india/plane-crashes-near-ahmedabad-airport-smoke-seen-emanating-from-adani-airport-premises/articleshow/121798578.cms?from=mdr)
+* [2025-06-12, 09:21:44](https://news.ycombinator.com/item?id=44255602) - [Air India flight to London crashes in Ahmedabad with more than 240 onboard](https://www.theguardian.com/world/live/2025/jun/12/air-india-flight-ai171-plane-crash-ahmedabad-india-latest-updates)
 * [2025-06-12, 09:08:43](https://news.ycombinator.com/item?id=44255527) - [SchemeFlow (YC S24) Is Hiring a Founding Engineer (London) to Speed Up Construction](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack)
 * [2025-06-12, 08:37:22](https://news.ycombinator.com/item?id=44255352) - [Danish Ministry Replaces Windows and Microsoft Office with Linux and LibreOffice](https://www.heise.de/en/news/From-Word-and-Excel-to-LibreOffice-Danish-ministry-says-goodbye-to-Microsoft-10438942.html)
 * [2025-06-12, 07:52:51](https://news.ycombinator.com/item?id=44255116) - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
