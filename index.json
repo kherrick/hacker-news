@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-06-12, 18:24:01",
+      "https://news.ycombinator.com/item?id=44261064"
+    ],
+    [
+      "Cloudflare was down",
+      "https://www.cloudflarestatus.com/incidents/25r9t0vz99rp"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 18:11:07",
       "https://news.ycombinator.com/item?id=44260810"
     ],
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2025-06-12, 17:58:11",
-      "https://news.ycombinator.com/item?id=44260649"
-    ],
-    [
-      "Show HN: ChatToSTL – AI text-to-CAD for 3D printing",
-      "https://huggingface.co/spaces/flowfulai/ChatToSTL"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 17:47:46",
       "https://news.ycombinator.com/item?id=44260556"
     ],
     [
       "Builder.ai did not \"fake AI with 700 engineers\"",
       "https://newsletter.pragmaticengineer.com/p/the-pulse-137"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 16:53:08",
-      "https://news.ycombinator.com/item?id=44259921"
-    ],
-    [
-      "Google Pixels are no longer the AOSP reference device",
-      "https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/"
     ]
   ],
   [
@@ -127,16 +117,6 @@
     [
       "iPhone 11 emulation done in QEMU",
       "https://github.com/ChefKissInc/QEMUAppleSilicon"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 15:03:52",
-      "https://news.ycombinator.com/item?id=44258654"
-    ],
-    [
-      "Why Does My Ripped CD Have Messed Up Track Names? and Why Is One Track Missing?",
-      "https://www.akpain.net/blog/inside-a-cd/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-06-12, 09:22:49",
+      "https://news.ycombinator.com/item?id=44255608"
+    ],
+    [
+      "Agentic Coding Recommendations",
+      "https://lucumr.pocoo.org/2025/6/12/agentic-coding/"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 00:15:23",
       "https://news.ycombinator.com/item?id=44253212"
     ],
@@ -221,32 +211,12 @@
   ],
   [
     [
-      "2025-06-11, 19:44:29",
-      "https://news.ycombinator.com/item?id=44251047"
-    ],
-    [
-      "Research suggests Big Bang may have taken place inside a black hole",
-      "https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole"
-    ]
-  ],
-  [
-    [
       "2025-06-11, 17:02:56",
       "https://news.ycombinator.com/item?id=44249565"
     ],
     [
       "Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js",
       "https://sparkjs.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 14:43:27",
-      "https://news.ycombinator.com/item?id=44248165"
-    ],
-    [
-      "V-JEPA 2 world model and new benchmarks for physical reasoning",
-      "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/"
     ]
   ],
   [
@@ -261,12 +231,32 @@
   ],
   [
     [
+      "2025-06-10, 20:42:19",
+      "https://news.ycombinator.com/item?id=44241242"
+    ],
+    [
+      "First thoughts on o3 pro",
+      "https://www.latent.space/p/o3-pro"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 08:24:44",
       "https://news.ycombinator.com/item?id=44234080"
     ],
     [
       "Rust compiler performance",
       "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 01:02:13",
+      "https://news.ycombinator.com/item?id=44231386"
+    ],
+    [
+      "The hunt for Marie Curie's radioactive fingerprints in Paris",
+      "https://www.bbc.com/future/article/20250605-the-hunt-for-marie-curies-radioactive-fingerprints-in-paris"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Quantum Computation Lecture Notes (2022)",
       "https://math.mit.edu/~shor/435-LN/"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 23:54:00",
+      "https://news.ycombinator.com/item?id=44220245"
+    ],
+    [
+      "Reflections on Sudoku, or the Impossibility of Systematizing Thought",
+      "https://rjp.io/blog/2025-06-07-reflections-on-sudoku"
     ]
   ],
   [
