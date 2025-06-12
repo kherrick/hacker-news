@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-12, 05:27:41](https://news.ycombinator.com/item?id=44254540) - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
 * [2025-06-12, 05:02:01](https://news.ycombinator.com/item?id=44254439) - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
 * [2025-06-12, 03:16:13](https://news.ycombinator.com/item?id=44253993) - [TV Fool: See OTA channels you can receive](https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29)
 * [2025-06-12, 00:37:27](https://news.ycombinator.com/item?id=44253307) - [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
@@ -23,7 +24,6 @@
 * [2025-06-10, 20:15:47](https://news.ycombinator.com/item?id=44240999) - [OpenAI o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes)
 * [2025-06-10, 12:56:36](https://news.ycombinator.com/item?id=44236241) - [The curious case of shell commands, or how \"this bug is required by POSIX\" (2021)](https://notes.volution.ro/v1/2021/01/notes/502e747f/)
 * [2025-06-10, 01:02:13](https://news.ycombinator.com/item?id=44231386) - [The hunt for Marie Curie's radioactive fingerprints in Paris](https://www.bbc.com/future/article/20250605-the-hunt-for-marie-curies-radioactive-fingerprints-in-paris)
-* [2025-06-09, 18:34:42](https://news.ycombinator.com/item?id=44227649) - [Type-based vs. Value-based Reflection](https://brevzin.github.io/c++/2025/06/09/reflection-ts/)
 * [2025-06-09, 14:11:49](https://news.ycombinator.com/item?id=44224729) - [How long it takes to know if a job is right for you or not](https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/)
 * [2025-06-09, 05:30:14](https://news.ycombinator.com/item?id=44221655) - [How I Program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-09, 02:07:30](https://news.ycombinator.com/item?id=44220890) - [My Cord-Cutting Adventure](http://brander.ca/cordcut/)
