@@ -67,4 +67,5 @@
 * [2025-06-10, 03:51:56](https://news.ycombinator.com/item?id=44232296) - [Apple has announced its final version of macOS for Intel](https://tedium.co/2025/06/09/apple-wwdc-intel-mac-support-ending/)
 * [2025-06-10, 01:48:07](https://news.ycombinator.com/item?id=44231649) - [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
 * [2025-06-10, 01:36:39](https://news.ycombinator.com/item?id=44231594) - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
+* [2025-06-10, 01:02:13](https://news.ycombinator.com/item?id=44231386) - [The hunt for Marie Curie's radioactive fingerprints in Paris](https://www.bbc.com/future/article/20250605-the-hunt-for-marie-curies-radioactive-fingerprints-in-paris)
 * [2025-06-10, 00:21:40](https://news.ycombinator.com/item?id=44231151) - [Las Vegas is embracing a simple climate solution: More trees](https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees)
