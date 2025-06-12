@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 17:01:11](https://news.ycombinator.com/item?id=44260017) - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer)
+* [2025-06-12, 16:53:08](https://news.ycombinator.com/item?id=44259921) - [Google Pixels are no longer the AOSP reference device](https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/)
+* [2025-06-12, 16:46:24](https://news.ycombinator.com/item?id=44259844) - [Y Combinator startup Sorcerer raises $3.9M to launch more weather balloons](https://www.axios.com/pro/climate-deals/2025/06/12/sorcerer-seed-weather-balloons)
 * [2025-06-12, 16:18:01](https://news.ycombinator.com/item?id=44259476) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 16:12:45](https://news.ycombinator.com/item?id=44259398) - [US-backed Israeli company's spyware used to target European journalists](https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb)
 * [2025-06-12, 15:55:54](https://news.ycombinator.com/item?id=44259190) - [You can now legally walk with drinks on SF's Valencia St](https://missionlocal.org/2025/06/valencia-drinking-san-francisco/)
