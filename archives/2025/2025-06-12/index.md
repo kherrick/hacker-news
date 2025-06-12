@@ -6,6 +6,7 @@
 
 * [2025-06-12, 22:15:43](https://news.ycombinator.com/item?id=44263780) - [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
 * [2025-06-12, 21:50:08](https://news.ycombinator.com/item?id=44263562) - [The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
+* [2025-06-12, 21:35:48](https://news.ycombinator.com/item?id=44263460) - [A Primer on US Healthcare](https://www.generativevalue.com/p/a-primer-on-us-healthcare)
 * [2025-06-12, 21:00:00](https://news.ycombinator.com/item?id=44263139) - [Roundtable (YC S23) Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
 * [2025-06-12, 20:26:09](https://news.ycombinator.com/item?id=44262799) - [Humans have nasal respiratory fingerprints](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4)
 * [2025-06-12, 20:04:09](https://news.ycombinator.com/item?id=44262537) - [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)

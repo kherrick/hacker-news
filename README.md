@@ -2,6 +2,7 @@
 
 * [2025-06-12, 22:15:43](https://news.ycombinator.com/item?id=44263780) - [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
 * [2025-06-12, 21:50:08](https://news.ycombinator.com/item?id=44263562) - [The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
+* [2025-06-12, 21:35:48](https://news.ycombinator.com/item?id=44263460) - [A Primer on US Healthcare](https://www.generativevalue.com/p/a-primer-on-us-healthcare)
 * [2025-06-12, 21:00:00](https://news.ycombinator.com/item?id=44263139) - [Roundtable (YC S23) Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
 * [2025-06-12, 20:26:09](https://news.ycombinator.com/item?id=44262799) - [Humans have nasal respiratory fingerprints](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4)
 * [2025-06-12, 20:04:09](https://news.ycombinator.com/item?id=44262537) - [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
@@ -27,7 +28,6 @@
 * [2025-06-10, 22:56:51](https://news.ycombinator.com/item?id=44242435) - [Helion: A modern fast paced Doom FPS engine in C#](https://github.com/Helion-Engine/Helion)
 * [2025-06-10, 20:42:19](https://news.ycombinator.com/item?id=44241242) - [First thoughts on o3 pro](https://www.latent.space/p/o3-pro)
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
-* [2025-06-09, 22:17:44](https://news.ycombinator.com/item?id=44230157) - [Archaeological evidence of intensive indigenous farming in MI's Upper Peninsula](https://www.science.org/doi/10.1126/science.ads1643)
 * [2025-06-09, 07:54:59](https://news.ycombinator.com/item?id=44222307) - [Quantum Computation Lecture Notes (2022)](https://math.mit.edu/~shor/435-LN/)
 * [2025-06-08, 11:47:44](https://news.ycombinator.com/item?id=44216370) - [Dancing brainwaves: How sound reshapes your brain networks in real time](https://www.sciencedaily.com/releases/2025/06/250602155001.htm)
 
