@@ -9,6 +9,7 @@
 * [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination [ADHD]](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
 * [2025-06-12, 11:21:16](https://news.ycombinator.com/item?id=44256338) - [My Mac Contacted 63 Different Apple Owned Domains in One Hour – While Not Is Use](https://appaddict.app/post/my-mac-contacted-63-different-apple-owned-domains-in-one-hour-while-not-is-use)
 * [2025-06-12, 11:08:03](https://news.ycombinator.com/item?id=44256242) - [First Boeing 787 Dreamliner Crash](https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad)
+* [2025-06-12, 10:57:20](https://news.ycombinator.com/item?id=44256169) - [Brazil's Supreme Court makes social media liable for user content](https://economictimes.indiatimes.com/tech/technology/brazils-supreme-court-justices-agree-to-make-social-media-companies-liable-for-user-content/articleshow/121791147.cms?from=mdr)
 * [2025-06-12, 10:34:30](https://news.ycombinator.com/item?id=44256003) - [Altman fluffs superintelligence to save humanity as OpenAI slashes prices](https://www.theregister.com/2025/06/11/openais_sam_altman_superintelligence/)
 * [2025-06-12, 10:20:23](https://news.ycombinator.com/item?id=44255911) - [Next.js 15.1 is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 * [2025-06-12, 09:50:01](https://news.ycombinator.com/item?id=44255759) - [Ask HN: Minecraft's UI element style (vs. modern flat glass interface)](https://news.ycombinator.com/item?id=44255759)
