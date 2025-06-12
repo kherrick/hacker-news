@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-12, 11:08:03",
+      "https://news.ycombinator.com/item?id=44256242"
+    ],
+    [
+      "First Boeing 787 Dreamliner Crash",
+      "https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 10:34:30",
       "https://news.ycombinator.com/item?id=44256003"
     ],
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2025-06-12, 09:38:56",
+      "https://news.ycombinator.com/item?id=44255697"
+    ],
+    [
+      "A California dairy tried to capture its methane, and it worked",
+      "https://phys.org/news/2025-06-california-dairy-capture-methane.html"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 09:22:49",
       "https://news.ycombinator.com/item?id=44255608"
     ],
     [
       "Agentic Coding Recommendations",
       "https://lucumr.pocoo.org/2025/6/12/agentic-coding/"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 09:21:44",
+      "https://news.ycombinator.com/item?id=44255602"
+    ],
+    [
+      "Air India passenger plane with over 200 onboard crashes near Meghaninagar",
+      "https://economictimes.indiatimes.com/news/india/plane-crashes-near-ahmedabad-airport-smoke-seen-emanating-from-adani-airport-premises/articleshow/121798578.cms?from=mdr"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2025-06-11, 11:36:47",
-      "https://news.ycombinator.com/item?id=44246518"
-    ],
-    [
-      "Firefox OS's story from a Mozilla insider not working on the project (2024)",
-      "https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 23:44:05",
-      "https://news.ycombinator.com/item?id=44242737"
-    ],
-    [
-      "Fine-tuning LLMs is a waste of time",
-      "https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 20:15:47",
       "https://news.ycombinator.com/item?id=44240999"
     ],
     [
       "OpenAI o3-pro",
       "https://help.openai.com/en/articles/9624314-model-release-notes"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 12:56:36",
-      "https://news.ycombinator.com/item?id=44236241"
-    ],
-    [
-      "The curious case of shell commands, or how \"this bug is required by POSIX\" (2021)",
-      "https://notes.volution.ro/v1/2021/01/notes/502e747f/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=44220890"
     ],
     [
-      "My Cord-Cutting Adventure",
+      "My Cord-Cutting Adventure (2020)",
       "http://brander.ca/cordcut/"
     ]
   ],
