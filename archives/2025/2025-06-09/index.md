@@ -42,6 +42,7 @@
 * [2025-06-09, 14:33:14](https://news.ycombinator.com/item?id=44224915) - [Why Quadratic Funding Is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
 * [2025-06-09, 14:27:30](https://news.ycombinator.com/item?id=44224874) - [Doctors Could Hack the Nervous System with Ultrasound](https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes)
 * [2025-06-09, 14:13:04](https://news.ycombinator.com/item?id=44224745) - [Mushrooms communicate with each other using up to 50 'words', scientist claims](https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study)
+* [2025-06-09, 14:11:49](https://news.ycombinator.com/item?id=44224729) - [How Long it takes to know if a Job Is Right for You or Not](https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/)
 * [2025-06-09, 14:06:51](https://news.ycombinator.com/item?id=44224684) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 13:48:39](https://news.ycombinator.com/item?id=44224508) - [What Is OAuth and How Does It Work?](https://fusionauth.io/articles/oauth/modern-guide-to-oauth)
 * [2025-06-09, 12:41:32](https://news.ycombinator.com/item?id=44223879) - [Ask HN: What cool skill or project interests you, but feels out of reach?](https://news.ycombinator.com/item?id=44223879)
