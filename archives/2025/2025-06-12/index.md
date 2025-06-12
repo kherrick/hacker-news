@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 09:08:43](https://news.ycombinator.com/item?id=44255527) - [SchemeFlow (YC S24) Is Hiring a Founding Engineer (London) to Speed Up Construction](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack)
 * [2025-06-12, 07:52:51](https://news.ycombinator.com/item?id=44255116) - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
 * [2025-06-12, 07:22:23](https://news.ycombinator.com/item?id=44254984) - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
 * [2025-06-12, 07:18:18](https://news.ycombinator.com/item?id=44254963) - [Sam Altman's Lies About ChatGPT Are Growing Bolder](https://gizmodo.com/sam-altmans-lies-about-chatgpt-are-growing-bolder-2000614431)
