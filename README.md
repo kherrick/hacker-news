@@ -2,7 +2,6 @@
 
 * [2025-06-13, 15:14:20](https://news.ycombinator.com/item?id=44269289) - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 15:12:11](https://news.ycombinator.com/item?id=44269270) - [Luxe Game Engine](https://luxeengine.com/)
-* [2025-06-13, 15:08:30](https://news.ycombinator.com/item?id=44269225) - [Ask HN: Is ageism in tech still a problem?](https://news.ycombinator.com/item?id=44269225)
 * [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:20:38](https://news.ycombinator.com/item?id=44268782) - [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
@@ -12,6 +11,7 @@
 * [2025-06-13, 13:21:47](https://news.ycombinator.com/item?id=44268286) - [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
 * [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
 * [2025-06-13, 12:41:20](https://news.ycombinator.com/item?id=44267989) - [Anker is recalling over 1.1M power banks due to fire and burn risks](https://www.theverge.com/news/686084/anker-recall-uscpsc-power-bank-battery-powercore-a1263)
+* [2025-06-13, 12:40:38](https://news.ycombinator.com/item?id=44267985) - [Show HN: Job Compass – AI agents that help you find jobs, not replace you](https://jobcompass.ai/)
 * [2025-06-13, 12:01:11](https://news.ycombinator.com/item?id=44267746) - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
 * [2025-06-13, 11:55:01](https://news.ycombinator.com/item?id=44267705) - [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
