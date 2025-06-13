@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
 * [2025-06-13, 19:44:58](https://news.ycombinator.com/item?id=44271630) - [Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
+* [2025-06-13, 19:03:42](https://news.ycombinator.com/item?id=44271284) - [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
 * [2025-06-13, 18:58:49](https://news.ycombinator.com/item?id=44271217) - [Simulink (Matlab) Copilot](https://github.com/Kaamuli/Bloxi)
 * [2025-06-13, 18:55:54](https://news.ycombinator.com/item?id=44271191) - [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)
 * [2025-06-13, 18:30:47](https://news.ycombinator.com/item?id=44270965) - [Radio pulses detected coming from ice in Antarctica](https://www.psu.edu/news/research/story/strange-radio-pulses-detected-coming-ice-antarctica#)
