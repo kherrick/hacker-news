@@ -21,6 +21,7 @@
 * [2025-06-12, 18:16:33](https://news.ycombinator.com/item?id=44260903) - [Spaceballs 2 Will See Rick Moranis Return as Dark Helmet](https://www.ign.com/articles/spaceballs-2-plots-a-course-for-2027-with-mel-brooks-in-first-teaser-trailer)
 * [2025-06-12, 18:16:30](https://news.ycombinator.com/item?id=44260900) - [NPM: Issues with package install, package publish, and login](https://status.npmjs.org/incidents/dn5mcp85737y)
 * [2025-06-12, 18:11:07](https://news.ycombinator.com/item?id=44260810) - [GCP Outage](https://status.cloud.google.com/)
+* [2025-06-12, 18:07:25](https://news.ycombinator.com/item?id=44260753) - [Shooting the Moon: Art of Lunar Photography (2023)](https://astroimagery.com/astrophotography/shooting-the-moon/)
 * [2025-06-12, 18:04:49](https://news.ycombinator.com/item?id=44260717) - [Twitch Is Down](https://status.twitch.com)
 * [2025-06-12, 17:59:34](https://news.ycombinator.com/item?id=44260661) - [NASA Is Worth Saving](https://caseyhandmer.wordpress.com/2025/06/12/nasa-is-worth-saving/)
 * [2025-06-12, 17:58:11](https://news.ycombinator.com/item?id=44260649) - [Show HN: ChatToSTL – AI text-to-CAD for 3D printing](https://huggingface.co/spaces/flowfulai/ChatToSTL)

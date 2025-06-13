@@ -6,9 +6,11 @@
 
 * [2025-06-13, 12:03:48](https://news.ycombinator.com/item?id=44267763) - [Coming to Apple OSes: A seamless, secure way to import and export passkeys](https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/)
 * [2025-06-13, 12:01:11](https://news.ycombinator.com/item?id=44267746) - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
+* [2025-06-13, 11:55:01](https://news.ycombinator.com/item?id=44267705) - [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
 * [2025-06-13, 10:48:43](https://news.ycombinator.com/item?id=44267371) - [They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html)
 * [2025-06-13, 09:44:13](https://news.ycombinator.com/item?id=44267091) - [The European public DNS that makes your Internet safer](https://www.dns0.eu)
 * [2025-06-13, 09:35:32](https://news.ycombinator.com/item?id=44267060) - [Andrew Ng says vibe coding is a bad name for a real and exhausting job](https://www.businessinsider.com/andrew-ng-vibe-coding-unfortunate-term-exhausting-job-2025-6)
+* [2025-06-13, 09:02:28](https://news.ycombinator.com/item?id=44266927) - [Meta buys Scale AI in a $14.3B deal](https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-13, 05:12:36](https://news.ycombinator.com/item?id=44265869) - [Slow and Steady, This Poem Will Win Your Heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
 * [2025-06-13, 05:08:05](https://news.ycombinator.com/item?id=44265851) - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
