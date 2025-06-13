@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-13, 09:35:32](https://news.ycombinator.com/item?id=44267060) - [Andrew Ng says vibe coding is a bad name for a real and exhausting job](https://www.businessinsider.com/andrew-ng-vibe-coding-unfortunate-term-exhausting-job-2025-6)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-13, 05:12:36](https://news.ycombinator.com/item?id=44265869) - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
 * [2025-06-13, 05:08:05](https://news.ycombinator.com/item?id=44265851) - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
@@ -11,6 +10,7 @@
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-12, 22:15:43](https://news.ycombinator.com/item?id=44263780) - [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
 * [2025-06-12, 21:50:08](https://news.ycombinator.com/item?id=44263562) - [The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
+* [2025-06-12, 21:00:00](https://news.ycombinator.com/item?id=44263139) - [Roundtable (YC S23) Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
 * [2025-06-12, 20:04:09](https://news.ycombinator.com/item?id=44262537) - [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 16:18:01](https://news.ycombinator.com/item?id=44259476) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
