@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-13, 18:58:49",
+      "https://news.ycombinator.com/item?id=44271217"
+    ],
+    [
+      "Simulink (Matlab) Copilot",
+      "https://github.com/Kaamuli/Bloxi"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 18:04:07",
       "https://news.ycombinator.com/item?id=44270717"
     ],
@@ -277,16 +287,6 @@
     [
       "High-speed fluorescence light field tomography of whole freely moving organisms",
       "https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&id=570897"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 08:24:44",
-      "https://news.ycombinator.com/item?id=44234080"
-    ],
-    [
-      "Rust compiler performance",
-      "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
     ]
   ],
   [
