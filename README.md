@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-13, 18:04:07](https://news.ycombinator.com/item?id=44270717) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
 * [2025-06-13, 18:03:30](https://news.ycombinator.com/item?id=44270709) - [I Convinced HP's Board to Buy Palm for $1.2B. I Watched Them Kill It in 49 Days](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
 * [2025-06-13, 17:27:20](https://news.ycombinator.com/item?id=44270434) - [Using computers more freely and safely (2023)](https://akkartik.name/freewheeling/)
 * [2025-06-13, 16:49:46](https://news.ycombinator.com/item?id=44270144) - [When random people give money to random other people (2017)](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/)
@@ -10,7 +11,6 @@
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
 * [2025-06-13, 13:51:22](https://news.ycombinator.com/item?id=44268545) - [Show HN: Qrkey – Offline private key backup on paper](https://github.com/Techwolf12/qrkey)
 * [2025-06-13, 13:42:45](https://news.ycombinator.com/item?id=44268448) - [Ask HN: How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
-* [2025-06-13, 13:27:46](https://news.ycombinator.com/item?id=44268335) - [Design Patterns for Securing LLM Agents Against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)
 * [2025-06-13, 13:21:47](https://news.ycombinator.com/item?id=44268286) - [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
 * [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
 * [2025-06-13, 12:40:38](https://news.ycombinator.com/item?id=44267985) - [Show HN: Job Compass – AI agents that help you find jobs, not replace you](https://jobcompass.ai/)
