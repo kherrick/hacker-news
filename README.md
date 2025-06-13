@@ -11,7 +11,6 @@
 * [2025-06-13, 13:27:46](https://news.ycombinator.com/item?id=44268335) - [Design Patterns for Securing LLM Agents Against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)
 * [2025-06-13, 13:21:47](https://news.ycombinator.com/item?id=44268286) - [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
 * [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
-* [2025-06-13, 12:41:20](https://news.ycombinator.com/item?id=44267989) - [Anker is recalling over 1.1M power banks due to fire and burn risks](https://www.theverge.com/news/686084/anker-recall-uscpsc-power-bank-battery-powercore-a1263)
 * [2025-06-13, 12:40:38](https://news.ycombinator.com/item?id=44267985) - [Show HN: Job Compass – AI agents that help you find jobs, not replace you](https://jobcompass.ai/)
 * [2025-06-13, 12:01:11](https://news.ycombinator.com/item?id=44267746) - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
 * [2025-06-13, 11:55:01](https://news.ycombinator.com/item?id=44267705) - [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
@@ -29,6 +28,7 @@
 * [2025-06-12, 12:06:59](https://news.ycombinator.com/item?id=44256765) - [Show HN: Tritium – The Legal IDE in Rust](https://tritium.legal/preview)
 * [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
 * [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
+* [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 
 ## [Archives](archives/index.md)
