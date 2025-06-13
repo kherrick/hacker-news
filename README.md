@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-13, 02:27:24](https://news.ycombinator.com/item?id=44265233) - [Rendering Crispy Text on the GPU](https://osor.io/text)
+* [2025-06-13, 02:24:54](https://news.ycombinator.com/item?id=44265216) - [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md)
 * [2025-06-13, 02:01:56](https://news.ycombinator.com/item?id=44265105) - [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores)
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-12, 23:42:00](https://news.ycombinator.com/item?id=44264376) - [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
@@ -17,7 +18,6 @@
 * [2025-06-12, 16:12:45](https://news.ycombinator.com/item?id=44259398) - [US-backed Israeli company's spyware used to target European journalists](https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb)
 * [2025-06-12, 15:04:59](https://news.ycombinator.com/item?id=44258670) - [iPhone 11 emulation done in QEMU](https://github.com/ChefKissInc/QEMUAppleSilicon)
 * [2025-06-12, 15:03:52](https://news.ycombinator.com/item?id=44258654) - [Why does my ripped CD have messed up track names? And why is one track missing?](https://www.akpain.net/blog/inside-a-cd/)
-* [2025-06-12, 14:26:59](https://news.ycombinator.com/item?id=44258213) - [Seedance 1.0](https://seed.bytedance.com/en/seedance)
 * [2025-06-12, 13:37:06](https://news.ycombinator.com/item?id=44257655) - [Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)](https://github.com/hunterirving/pico-crossing)
 * [2025-06-12, 13:32:56](https://news.ycombinator.com/item?id=44257609) - [Show HN: McWig – A modal, Vim-like text editor written in Go](https://github.com/firstrow/mcwig)
 * [2025-06-12, 12:06:59](https://news.ycombinator.com/item?id=44256765) - [Show HN: Tritium – The Legal IDE in Rust](https://tritium.legal/preview)
