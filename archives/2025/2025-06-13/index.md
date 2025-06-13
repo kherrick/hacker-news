@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 21:08:31](https://news.ycombinator.com/item?id=44272287) - [Introducing Sulka, the Hardened Yocto Distro](https://ejaaskel.dev/introducing-sulka-the-hardened-yocto-distro/)
 * [2025-06-13, 20:52:34](https://news.ycombinator.com/item?id=44272140) - [Mumps (Programming Language)](https://en.wikipedia.org/wiki/MUMPS)
 * [2025-06-13, 20:31:26](https://news.ycombinator.com/item?id=44271974) - [Anne Wojcicki Wins Bidding for 23andMe](https://www.wsj.com/tech/biotech/anne-wojcicki-wins-bidding-for-23andme-92dcfd5b)
 * [2025-06-13, 19:44:58](https://news.ycombinator.com/item?id=44271630) - [Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
