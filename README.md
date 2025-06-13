@@ -2,6 +2,7 @@
 
 * [2025-06-13, 05:12:36](https://news.ycombinator.com/item?id=44265869) - [Slow and Steady, This Poem Will Win Your Heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
 * [2025-06-13, 05:08:05](https://news.ycombinator.com/item?id=44265851) - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
+* [2025-06-13, 05:04:56](https://news.ycombinator.com/item?id=44265833) - [Zero shot forecasting: finding the right foundation model for O11Y forecasting](https://www.parseable.com/blog/zero-shot-forecasting)
 * [2025-06-13, 02:27:24](https://news.ycombinator.com/item?id=44265233) - [Rendering Crispy Text on the GPU](https://osor.io/text)
 * [2025-06-13, 02:24:54](https://news.ycombinator.com/item?id=44265216) - [Three Algorithms for YSH Syntax Highlighting](https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md)
 * [2025-06-13, 02:01:56](https://news.ycombinator.com/item?id=44265105) - [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores)
@@ -13,7 +14,6 @@
 * [2025-06-12, 21:00:00](https://news.ycombinator.com/item?id=44263139) - [Roundtable (YC S23) Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
 * [2025-06-12, 20:04:09](https://news.ycombinator.com/item?id=44262537) - [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
-* [2025-06-12, 16:46:24](https://news.ycombinator.com/item?id=44259844) - [Sorcerer (YC S24) raises $3.9M to launch more weather balloons](https://www.axios.com/pro/climate-deals/2025/06/12/sorcerer-seed-weather-balloons)
 * [2025-06-12, 16:18:01](https://news.ycombinator.com/item?id=44259476) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 16:12:45](https://news.ycombinator.com/item?id=44259398) - [US-backed Israeli company's spyware used to target European journalists](https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb)
 * [2025-06-12, 15:04:59](https://news.ycombinator.com/item?id=44258670) - [iPhone 11 emulation done in QEMU](https://github.com/ChefKissInc/QEMUAppleSilicon)
