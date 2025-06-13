@@ -8,6 +8,7 @@
 * [2025-06-10, 23:44:05](https://news.ycombinator.com/item?id=44242737) - [Fine-Tuning LLMs Is a Waste of Time](https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste)
 * [2025-06-10, 22:56:51](https://news.ycombinator.com/item?id=44242435) - [Helion: A modern fast paced Doom FPS engine in C#](https://github.com/Helion-Engine/Helion)
 * [2025-06-10, 21:46:44](https://news.ycombinator.com/item?id=44241832) - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
+* [2025-06-10, 21:43:33](https://news.ycombinator.com/item?id=44241797) - [High-speed fluorescence light field tomography of whole freely moving organisms](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&id=570897)
 * [2025-06-10, 21:17:08](https://news.ycombinator.com/item?id=44241549) - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 * [2025-06-10, 21:03:27](https://news.ycombinator.com/item?id=44241407) - [News Sites Are Getting Crushed by Google's New AI Tools](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
 * [2025-06-10, 20:47:11](https://news.ycombinator.com/item?id=44241278) - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
