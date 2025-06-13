@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 16:49:46](https://news.ycombinator.com/item?id=44270144) - [When random people give money to random other people (2017)](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/)
 * [2025-06-13, 15:14:20](https://news.ycombinator.com/item?id=44269289) - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 15:12:11](https://news.ycombinator.com/item?id=44269270) - [Luxe Game Engine](https://luxeengine.com/)
 * [2025-06-13, 15:08:30](https://news.ycombinator.com/item?id=44269225) - [Ask HN: Is ageism in tech still a problem?](https://news.ycombinator.com/item?id=44269225)

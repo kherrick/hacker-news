@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-13, 16:49:46](https://news.ycombinator.com/item?id=44270144) - [When random people give money to random other people (2017)](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/)
 * [2025-06-13, 15:14:20](https://news.ycombinator.com/item?id=44269289) - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 15:12:11](https://news.ycombinator.com/item?id=44269270) - [Luxe Game Engine](https://luxeengine.com/)
 * [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
@@ -19,7 +20,6 @@
 * [2025-06-13, 05:08:05](https://news.ycombinator.com/item?id=44265851) - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
 * [2025-06-13, 05:04:56](https://news.ycombinator.com/item?id=44265833) - [Zero-Shot Forecasting: Our Search for a Time-Series Foundation Model](https://www.parseable.com/blog/zero-shot-forecasting)
 * [2025-06-13, 02:27:24](https://news.ycombinator.com/item?id=44265233) - [Rendering Crispy Text on the GPU](https://osor.io/text)
-* [2025-06-13, 02:24:54](https://news.ycombinator.com/item?id=44265216) - [Three Algorithms for YSH Syntax Highlighting](https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md)
 * [2025-06-13, 02:01:56](https://news.ycombinator.com/item?id=44265105) - [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores)
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-12, 22:15:43](https://news.ycombinator.com/item?id=44263780) - [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
