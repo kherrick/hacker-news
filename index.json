@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-13, 13:09:56",
+      "https://news.ycombinator.com/item?id=44268197"
+    ],
+    [
+      "Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab",
+      "https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 12:01:11",
       "https://news.ycombinator.com/item?id=44267746"
     ],
@@ -27,16 +37,6 @@
     [
       "The European public DNS that makes your Internet safer",
       "https://www.dns0.eu"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 09:02:28",
-      "https://news.ycombinator.com/item?id=44266927"
-    ],
-    [
-      "Meta buys Scale AI in a $14.3B deal",
-      "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-06-10, 20:42:19",
+      "https://news.ycombinator.com/item?id=44241242"
+    ],
+    [
+      "First thoughts on o3 pro",
+      "https://www.latent.space/p/o3-pro"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 08:24:44",
       "https://news.ycombinator.com/item?id=44234080"
     ],
     [
       "Rust compiler performance",
       "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 11:47:44",
-      "https://news.ycombinator.com/item?id=44216370"
-    ],
-    [
-      "Dancing brainwaves: How sound reshapes your brain networks in real time",
-      "https://www.sciencedaily.com/releases/2025/06/250602155001.htm"
     ]
   ]
 ]
