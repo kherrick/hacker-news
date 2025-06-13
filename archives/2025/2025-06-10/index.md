@@ -28,6 +28,7 @@
 * [2025-06-10, 17:10:51](https://news.ycombinator.com/item?id=44239107) - [A Blacklisted American Magician Became a Hero in Brazil](https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a)
 * [2025-06-10, 15:59:42](https://news.ycombinator.com/item?id=44238404) - [JavelinGuard: Low-Cost Transformer Architectures for LLM Security](https://arxiv.org/abs/2506.07330)
 * [2025-06-10, 15:39:57](https://news.ycombinator.com/item?id=44238171) - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
+* [2025-06-10, 15:30:23](https://news.ycombinator.com/item?id=44238072) - [Thiings](https://www.thiings.co/things)
 * [2025-06-10, 15:16:27](https://news.ycombinator.com/item?id=44237881) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:09:30](https://news.ycombinator.com/item?id=44237769) - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
 * [2025-06-10, 15:04:38](https://news.ycombinator.com/item?id=44237700) - [Intentional math errors in David Foster Wallace's work (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)

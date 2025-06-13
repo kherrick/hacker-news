@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
 * [2025-06-13, 18:58:49](https://news.ycombinator.com/item?id=44271217) - [Simulink (Matlab) Copilot](https://github.com/Kaamuli/Bloxi)
+* [2025-06-13, 18:30:47](https://news.ycombinator.com/item?id=44270965) - [Radio pulses detected coming from ice in Antarctica](https://www.psu.edu/news/research/story/strange-radio-pulses-detected-coming-ice-antarctica#)
 * [2025-06-13, 18:04:07](https://news.ycombinator.com/item?id=44270717) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
 * [2025-06-13, 18:03:30](https://news.ycombinator.com/item?id=44270709) - [I Convinced HP's Board to Buy Palm for $1.2B. I Watched Them Kill It in 49 Days](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
 * [2025-06-13, 17:27:20](https://news.ycombinator.com/item?id=44270434) - [Using computers more freely and safely (2023)](https://akkartik.name/freewheeling/)
