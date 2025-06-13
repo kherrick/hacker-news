@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-13, 09:35:32](https://news.ycombinator.com/item?id=44267060) - [Andrew Ng says vibe coding is a bad name for a real and exhausting job](https://www.businessinsider.com/andrew-ng-vibe-coding-unfortunate-term-exhausting-job-2025-6)
+* [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-13, 05:12:36](https://news.ycombinator.com/item?id=44265869) - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
 * [2025-06-13, 05:08:05](https://news.ycombinator.com/item?id=44265851) - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
 * [2025-06-13, 03:31:44](https://news.ycombinator.com/item?id=44265501) - [Show HN: GetHooky – a language-agnostic Git hook manager](https://ezpieco.github.io/GetHooky/)
@@ -24,7 +25,6 @@
 * [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 * [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
 * [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
-* [2025-06-11, 17:02:56](https://news.ycombinator.com/item?id=44249565) - [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
 * [2025-06-10, 22:56:51](https://news.ycombinator.com/item?id=44242435) - [Helion: A modern fast paced Doom FPS engine in C#](https://github.com/Helion-Engine/Helion)
 * [2025-06-10, 20:42:19](https://news.ycombinator.com/item?id=44241242) - [First thoughts on o3 pro](https://www.latent.space/p/o3-pro)
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
