@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-13, 18:58:49](https://news.ycombinator.com/item?id=44271217) - [Simulink (Matlab) Copilot](https://github.com/Kaamuli/Bloxi)
 * [2025-06-13, 18:04:07](https://news.ycombinator.com/item?id=44270717) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
 * [2025-06-13, 18:03:30](https://news.ycombinator.com/item?id=44270709) - [I Convinced HP's Board to Buy Palm for $1.2B. I Watched Them Kill It in 49 Days](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
 * [2025-06-13, 17:27:20](https://news.ycombinator.com/item?id=44270434) - [Using computers more freely and safely (2023)](https://akkartik.name/freewheeling/)
@@ -28,7 +29,6 @@
 * [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
 * [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 * [2025-06-10, 21:43:33](https://news.ycombinator.com/item?id=44241797) - [High-speed fluorescence light field tomography of whole freely moving organisms](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&id=570897)
-* [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-10, 00:04:40](https://news.ycombinator.com/item?id=44231044) - [Subtype Inference by Example](https://blog.polybdenum.com/2020/07/04/subtype-inference-by-example-part-1-introducing-cubiml.html)
 
 ## [Archives](archives/index.md)
