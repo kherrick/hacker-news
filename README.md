@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-13, 23:06:43](https://news.ycombinator.com/item?id=44273067) - [U.S. Army bringing in big tech executives as lieutenant colonels](https://taskandpurpose.com/military-life/army-reserve-lt-col-tech-execs/)
 * [2025-06-13, 22:12:59](https://news.ycombinator.com/item?id=44272773) - [The Emperor's New LLM](https://dayafter.substack.com/p/the-emperors-new-llm)
 * [2025-06-13, 21:53:13](https://news.ycombinator.com/item?id=44272637) - [How the Alzheimer's Research Scandal Set Back Treatment 16 Years (2022)](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
 * [2025-06-13, 21:32:21](https://news.ycombinator.com/item?id=44272467) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
@@ -11,7 +12,6 @@
 * [2025-06-13, 17:27:20](https://news.ycombinator.com/item?id=44270434) - [Using computers more freely and safely (2023)](https://akkartik.name/freewheeling/)
 * [2025-06-13, 16:49:46](https://news.ycombinator.com/item?id=44270144) - [When random people give money to random other people (2017)](https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/)
 * [2025-06-13, 15:14:20](https://news.ycombinator.com/item?id=44269289) - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
-* [2025-06-13, 15:12:11](https://news.ycombinator.com/item?id=44269270) - [Luxe Game Engine](https://luxeengine.com/)
 * [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:20:38](https://news.ycombinator.com/item?id=44268782) - [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
@@ -19,7 +19,6 @@
 * [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta invests $14.3B in Scale AI to kick-start superintelligence lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
 * [2025-06-13, 12:01:11](https://news.ycombinator.com/item?id=44267746) - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-* [2025-06-13, 02:27:24](https://news.ycombinator.com/item?id=44265233) - [Rendering Crispy Text on the GPU](https://osor.io/text)
 * [2025-06-13, 02:01:05](https://news.ycombinator.com/item?id=44265093) - [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
@@ -29,6 +28,7 @@
 * [2025-06-10, 22:19:50](https://news.ycombinator.com/item?id=44242125) - [EDAN: Towards Understanding Memory Parallelism and Latency Sensitivity in HPC [pdf]](https://spcl.inf.ethz.ch/Publications/.pdf/shen-ics-2025-edan.pdf)
 * [2025-06-10, 21:43:33](https://news.ycombinator.com/item?id=44241797) - [High-speed fluorescence light field tomography of whole freely moving organisms](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&id=570897)
 * [2025-06-10, 15:30:23](https://news.ycombinator.com/item?id=44238072) - [Thiings](https://www.thiings.co/things)
+* [2025-06-10, 10:27:50](https://news.ycombinator.com/item?id=44234971) - [RISC-V in AI and HPC Part 1: Per Aspera Ad Astra?](https://www.eetimes.com/risc-v-in-ai-and-hpc-part-1-per-aspera-ad-astra/)
 * [2025-06-07, 11:25:02](https://news.ycombinator.com/item?id=44208938) - [The concurrency trap: How an atomic counter stalled a pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)
 
 ## [Archives](archives/index.md)
