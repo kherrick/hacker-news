@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-13, 14:20:38",
+      "https://news.ycombinator.com/item?id=44268782"
+    ],
+    [
+      "OxCaml - a set of extensions to the OCaml programming language.",
+      "https://oxcaml.org/"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 14:04:35",
       "https://news.ycombinator.com/item?id=44268644"
     ],
@@ -17,6 +27,26 @@
     [
       "Show HN: qrkey - Offline private key backup on paper",
       "https://github.com/Techwolf12/qrkey"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 13:42:45",
+      "https://news.ycombinator.com/item?id=44268448"
+    ],
+    [
+      "Ask HN: How do I give back to people helped me when I was young and had nothing?",
+      "https://news.ycombinator.com/item?id=44268448"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 13:27:46",
+      "https://news.ycombinator.com/item?id=44268335"
+    ],
+    [
+      "Design Patterns for Securing LLM Agents Against Prompt Injections",
+      "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-06-12, 21:50:08",
-      "https://news.ycombinator.com/item?id=44263562"
-    ],
-    [
-      "The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins",
-      "https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 20:04:09",
       "https://news.ycombinator.com/item?id=44262537"
     ],
@@ -207,26 +227,6 @@
     [
       "iPhone 11 emulation done in QEMU",
       "https://github.com/ChefKissInc/QEMUAppleSilicon"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 15:03:52",
-      "https://news.ycombinator.com/item?id=44258654"
-    ],
-    [
-      "Why does my ripped CD have messed up track names? And why is one track missing?",
-      "https://www.akpain.net/blog/inside-a-cd/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 13:37:06",
-      "https://news.ycombinator.com/item?id=44257655"
-    ],
-    [
-      "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
-      "https://github.com/hunterirving/pico-crossing"
     ]
   ],
   [
