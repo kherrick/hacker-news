@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-13, 15:14:20](https://news.ycombinator.com/item?id=44269289) - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
+* [2025-06-13, 15:12:11](https://news.ycombinator.com/item?id=44269270) - [Luxe Game Engine](https://luxeengine.com/)
 * [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:20:38](https://news.ycombinator.com/item?id=44268782) - [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
@@ -23,8 +25,6 @@
 * [2025-06-12, 20:04:09](https://news.ycombinator.com/item?id=44262537) - [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 15:04:59](https://news.ycombinator.com/item?id=44258670) - [iPhone 11 emulation done in QEMU](https://github.com/ChefKissInc/QEMUAppleSilicon)
-* [2025-06-12, 15:03:52](https://news.ycombinator.com/item?id=44258654) - [Why does my ripped CD have messed up track names? And why is one track missing?](https://www.akpain.net/blog/inside-a-cd/)
-* [2025-06-12, 13:32:56](https://news.ycombinator.com/item?id=44257609) - [Show HN: McWig – A modal, Vim-like text editor written in Go](https://github.com/firstrow/mcwig)
 * [2025-06-12, 12:06:59](https://news.ycombinator.com/item?id=44256765) - [Show HN: Tritium – The Legal IDE in Rust](https://tritium.legal/preview)
 * [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
 * [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
