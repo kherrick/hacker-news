@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-13, 14:04:35",
+      "https://news.ycombinator.com/item?id=44268644"
+    ],
+    [
+      "Show HN: Tattoy – a text-based terminal compositor",
+      "https://tattoy.sh"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 13:51:22",
+      "https://news.ycombinator.com/item?id=44268545"
+    ],
+    [
+      "Show HN: qrkey - Offline private key backup on paper",
+      "https://github.com/Techwolf12/qrkey"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 13:21:47",
+      "https://news.ycombinator.com/item?id=44268286"
+    ],
+    [
+      "Geometry from Quantum Temporal Correlations",
+      "https://arxiv.org/abs/2502.13293"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 13:09:56",
       "https://news.ycombinator.com/item?id=44268197"
     ],
@@ -77,16 +107,6 @@
     [
       "Zero-Shot Forecasting: Our Search for a Time-Series Foundation Model",
       "https://www.parseable.com/blog/zero-shot-forecasting"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 03:31:44",
-      "https://news.ycombinator.com/item?id=44265501"
-    ],
-    [
-      "Show HN: GetHooky – a language-agnostic Git hook manager",
-      "https://ezpieco.github.io/GetHooky/"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Shooting the Moon: Art of Lunar Photography (2023)",
       "https://astroimagery.com/astrophotography/shooting-the-moon/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 16:18:01",
-      "https://news.ycombinator.com/item?id=44259476"
-    ],
-    [
-      "Solving LinkedIn Queens with SMT",
-      "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Rust compiler performance",
       "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 11:47:44",
-      "https://news.ycombinator.com/item?id=44216370"
-    ],
-    [
-      "Dancing brainwaves: How sound reshapes your brain networks in real time",
-      "https://www.sciencedaily.com/releases/2025/06/250602155001.htm"
     ]
   ]
 ]
