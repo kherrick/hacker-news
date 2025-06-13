@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 22:12:59](https://news.ycombinator.com/item?id=44272773) - [The Emperor's New LLM](https://dayafter.substack.com/p/the-emperors-new-llm)
 * [2025-06-13, 21:53:13](https://news.ycombinator.com/item?id=44272637) - [How the Alzheimer's Research Scandal Set Back Treatment 16 Years](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
 * [2025-06-13, 21:32:21](https://news.ycombinator.com/item?id=44272467) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
 * [2025-06-13, 21:08:31](https://news.ycombinator.com/item?id=44272287) - [Introducing Sulka, the Hardened Yocto Distro](https://ejaaskel.dev/introducing-sulka-the-hardened-yocto-distro/)

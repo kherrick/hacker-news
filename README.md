@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-13, 21:53:13](https://news.ycombinator.com/item?id=44272637) - [How the Alzheimer's Research Scandal Set Back Treatment 16 Years](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
+* [2025-06-13, 22:12:59](https://news.ycombinator.com/item?id=44272773) - [The Emperor's New LLM](https://dayafter.substack.com/p/the-emperors-new-llm)
+* [2025-06-13, 21:53:13](https://news.ycombinator.com/item?id=44272637) - [How the Alzheimer's Research Scandal Set Back Treatment 16 Years (2022)](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
 * [2025-06-13, 21:32:21](https://news.ycombinator.com/item?id=44272467) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
 * [2025-06-13, 20:52:34](https://news.ycombinator.com/item?id=44272140) - [MUMPS](https://en.wikipedia.org/wiki/MUMPS)
 * [2025-06-13, 19:44:58](https://news.ycombinator.com/item?id=44271630) - [Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
@@ -15,7 +16,6 @@
 * [2025-06-13, 14:20:38](https://news.ycombinator.com/item?id=44268782) - [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
 * [2025-06-13, 13:42:45](https://news.ycombinator.com/item?id=44268448) - [Ask HN: How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
-* [2025-06-13, 13:21:47](https://news.ycombinator.com/item?id=44268286) - [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
 * [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta invests $14.3B in Scale AI to kick-start superintelligence lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
 * [2025-06-13, 12:01:11](https://news.ycombinator.com/item?id=44267746) - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
