@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-13, 12:03:48",
-      "https://news.ycombinator.com/item?id=44267763"
-    ],
-    [
-      "Coming to Apple OSes: A seamless, secure way to import and export passkeys",
-      "https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/"
-    ]
-  ],
-  [
-    [
       "2025-06-13, 12:01:11",
       "https://news.ycombinator.com/item?id=44267746"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2025-06-13, 10:48:43",
-      "https://news.ycombinator.com/item?id=44267371"
+      "2025-06-13, 11:55:01",
+      "https://news.ycombinator.com/item?id=44267705"
     ],
     [
-      "They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling",
-      "https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html"
+      "The Missing Manual for Signals: State Management for Python Developers",
+      "https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/"
     ]
   ],
   [
@@ -37,6 +27,16 @@
     [
       "The European public DNS that makes your Internet safer",
       "https://www.dns0.eu"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 09:02:28",
+      "https://news.ycombinator.com/item?id=44266927"
+    ],
+    [
+      "Meta buys Scale AI in a $14.3B deal",
+      "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Show HN: I wrote a BitTorrent Client from scratch",
       "https://github.com/piyushgupta53/go-torrent-client"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 05:04:56",
+      "https://news.ycombinator.com/item?id=44265833"
+    ],
+    [
+      "Zero-Shot Forecasting: Our Search for a Time-Series Foundation Model",
+      "https://www.parseable.com/blog/zero-shot-forecasting"
     ]
   ],
   [
@@ -157,6 +167,16 @@
     [
       "Frequent reauth doesn't make you more secure",
       "https://tailscale.com/blog/frequent-reath-security"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 18:07:25",
+      "https://news.ycombinator.com/item?id=44260753"
+    ],
+    [
+      "Shooting the Moon: Art of Lunar Photography (2023)",
+      "https://astroimagery.com/astrophotography/shooting-the-moon/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-06-10, 20:42:19",
-      "https://news.ycombinator.com/item?id=44241242"
-    ],
-    [
-      "First thoughts on o3 pro",
-      "https://www.latent.space/p/o3-pro"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 08:24:44",
       "https://news.ycombinator.com/item?id=44234080"
     ],
     [
       "Rust compiler performance",
       "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 07:54:59",
-      "https://news.ycombinator.com/item?id=44222307"
-    ],
-    [
-      "Quantum Computation Lecture Notes (2022)",
-      "https://math.mit.edu/~shor/435-LN/"
     ]
   ],
   [
