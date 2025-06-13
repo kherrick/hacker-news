@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
+* [2025-06-13, 13:51:22](https://news.ycombinator.com/item?id=44268545) - [Show HN: qrkey - Offline private key backup on paper](https://github.com/Techwolf12/qrkey)
+* [2025-06-13, 13:21:47](https://news.ycombinator.com/item?id=44268286) - [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
 * [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
 * [2025-06-13, 12:01:11](https://news.ycombinator.com/item?id=44267746) - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
 * [2025-06-13, 11:55:01](https://news.ycombinator.com/item?id=44267705) - [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
@@ -8,7 +11,6 @@
 * [2025-06-13, 05:12:36](https://news.ycombinator.com/item?id=44265869) - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
 * [2025-06-13, 05:08:05](https://news.ycombinator.com/item?id=44265851) - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
 * [2025-06-13, 05:04:56](https://news.ycombinator.com/item?id=44265833) - [Zero-Shot Forecasting: Our Search for a Time-Series Foundation Model](https://www.parseable.com/blog/zero-shot-forecasting)
-* [2025-06-13, 03:31:44](https://news.ycombinator.com/item?id=44265501) - [Show HN: GetHooky – a language-agnostic Git hook manager](https://ezpieco.github.io/GetHooky/)
 * [2025-06-13, 02:27:24](https://news.ycombinator.com/item?id=44265233) - [Rendering Crispy Text on the GPU](https://osor.io/text)
 * [2025-06-13, 02:24:54](https://news.ycombinator.com/item?id=44265216) - [Three Algorithms for YSH Syntax Highlighting](https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md)
 * [2025-06-13, 02:01:56](https://news.ycombinator.com/item?id=44265105) - [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores)
@@ -18,7 +20,6 @@
 * [2025-06-12, 20:04:09](https://news.ycombinator.com/item?id=44262537) - [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 18:07:25](https://news.ycombinator.com/item?id=44260753) - [Shooting the Moon: Art of Lunar Photography (2023)](https://astroimagery.com/astrophotography/shooting-the-moon/)
-* [2025-06-12, 16:18:01](https://news.ycombinator.com/item?id=44259476) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 15:04:59](https://news.ycombinator.com/item?id=44258670) - [iPhone 11 emulation done in QEMU](https://github.com/ChefKissInc/QEMUAppleSilicon)
 * [2025-06-12, 15:03:52](https://news.ycombinator.com/item?id=44258654) - [Why does my ripped CD have messed up track names? And why is one track missing?](https://www.akpain.net/blog/inside-a-cd/)
 * [2025-06-12, 13:37:06](https://news.ycombinator.com/item?id=44257655) - [Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)](https://github.com/hunterirving/pico-crossing)
@@ -29,7 +30,6 @@
 * [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
 * [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
-* [2025-06-08, 11:47:44](https://news.ycombinator.com/item?id=44216370) - [Dancing brainwaves: How sound reshapes your brain networks in real time](https://www.sciencedaily.com/releases/2025/06/250602155001.htm)
 
 ## [Archives](archives/index.md)
 
