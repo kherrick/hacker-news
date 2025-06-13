@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-13, 12:03:48",
+      "https://news.ycombinator.com/item?id=44267763"
+    ],
+    [
+      "Coming to Apple OSes: A seamless, secure way to import and export passkeys",
+      "https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 12:01:11",
+      "https://news.ycombinator.com/item?id=44267746"
+    ],
+    [
+      "Kyber (YC W23) Is Hiring a Technical Account Manager",
+      "https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 10:48:43",
       "https://news.ycombinator.com/item?id=44267371"
     ],
     [
       "They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling",
       "https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 09:44:13",
+      "https://news.ycombinator.com/item?id=44267091"
+    ],
+    [
+      "The European public DNS that makes your Internet safer",
+      "https://www.dns0.eu"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2025-06-12, 21:00:00",
-      "https://news.ycombinator.com/item?id=44263139"
-    ],
-    [
-      "Roundtable (YC S23) Is Hiring a President / CRO",
-      "https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 20:04:09",
       "https://news.ycombinator.com/item?id=44262537"
     ],
@@ -147,16 +167,6 @@
     [
       "Solving LinkedIn Queens with SMT",
       "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 16:12:45",
-      "https://news.ycombinator.com/item?id=44259398"
-    ],
-    [
-      "US-backed Israeli company's spyware used to target European journalists",
-      "https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Chatterbox TTS",
       "https://github.com/resemble-ai/chatterbox"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 22:56:51",
-      "https://news.ycombinator.com/item?id=44242435"
-    ],
-    [
-      "Helion: A modern fast paced Doom FPS engine in C#",
-      "https://github.com/Helion-Engine/Helion"
     ]
   ],
   [
