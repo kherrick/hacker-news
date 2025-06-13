@@ -13,7 +13,7 @@
 * [2025-06-13, 13:51:22](https://news.ycombinator.com/item?id=44268545) - [Show HN: Qrkey – Offline private key backup on paper](https://github.com/Techwolf12/qrkey)
 * [2025-06-13, 13:42:45](https://news.ycombinator.com/item?id=44268448) - [Ask HN: How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
 * [2025-06-13, 13:21:47](https://news.ycombinator.com/item?id=44268286) - [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
-* [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta invests $14.3B in scale AI to kick-start superintelligence lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
+* [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta invests $14.3B in Scale AI to kick-start superintelligence lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
 * [2025-06-13, 12:40:38](https://news.ycombinator.com/item?id=44267985) - [Show HN: Job Compass – AI agents that help you find jobs, not replace you](https://jobcompass.ai/)
 * [2025-06-13, 12:01:11](https://news.ycombinator.com/item?id=44267746) - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
 * [2025-06-13, 11:55:01](https://news.ycombinator.com/item?id=44267705) - [The Missing Manual for Signals: State Management for Python Developers](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/)
