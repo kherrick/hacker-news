@@ -28,8 +28,8 @@
 * [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 * [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
 * [2025-06-11, 20:23:52](https://news.ycombinator.com/item?id=44251411) - [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
-* [2025-06-10, 20:42:19](https://news.ycombinator.com/item?id=44241242) - [First thoughts on o3 pro](https://www.latent.space/p/o3-pro)
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
+* [2025-06-08, 11:47:44](https://news.ycombinator.com/item?id=44216370) - [Dancing brainwaves: How sound reshapes your brain networks in real time](https://www.sciencedaily.com/releases/2025/06/250602155001.htm)
 
 ## [Archives](archives/index.md)
 
