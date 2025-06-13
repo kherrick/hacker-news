@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-13, 20:52:34](https://news.ycombinator.com/item?id=44272140) - [Mumps (Programming Language)](https://en.wikipedia.org/wiki/MUMPS)
+* [2025-06-13, 20:31:26](https://news.ycombinator.com/item?id=44271974) - [Anne Wojcicki Wins Bidding for 23andMe](https://www.wsj.com/tech/biotech/anne-wojcicki-wins-bidding-for-23andme-92dcfd5b)
 * [2025-06-13, 19:44:58](https://news.ycombinator.com/item?id=44271630) - [Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
 * [2025-06-13, 19:03:42](https://news.ycombinator.com/item?id=44271284) - [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
 * [2025-06-13, 18:58:49](https://news.ycombinator.com/item?id=44271217) - [Simulink (Matlab) Copilot](https://github.com/Kaamuli/Bloxi)
@@ -13,7 +15,6 @@
 * [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:20:38](https://news.ycombinator.com/item?id=44268782) - [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
-* [2025-06-13, 13:51:22](https://news.ycombinator.com/item?id=44268545) - [Show HN: Qrkey – Offline private key backup on paper](https://github.com/Techwolf12/qrkey)
 * [2025-06-13, 13:42:45](https://news.ycombinator.com/item?id=44268448) - [Ask HN: How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
 * [2025-06-13, 13:21:47](https://news.ycombinator.com/item?id=44268286) - [Geometry from Quantum Temporal Correlations](https://arxiv.org/abs/2502.13293)
 * [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta invests $14.3B in Scale AI to kick-start superintelligence lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
@@ -24,7 +25,6 @@
 * [2025-06-12, 22:15:43](https://news.ycombinator.com/item?id=44263780) - [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 15:04:59](https://news.ycombinator.com/item?id=44258670) - [iPhone 11 emulation done in QEMU](https://github.com/ChefKissInc/QEMUAppleSilicon)
-* [2025-06-12, 12:06:59](https://news.ycombinator.com/item?id=44256765) - [Show HN: Tritium – The Legal IDE in Rust](https://tritium.legal/preview)
 * [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
 * [2025-06-11, 00:36:00](https://news.ycombinator.com/item?id=44243059) - [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor)
 * [2025-06-10, 21:43:33](https://news.ycombinator.com/item?id=44241797) - [High-speed fluorescence light field tomography of whole freely moving organisms](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&id=570897)
