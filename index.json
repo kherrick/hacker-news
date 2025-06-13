@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-13, 21:08:31",
+      "https://news.ycombinator.com/item?id=44272287"
+    ],
+    [
+      "Introducing Sulka, the Hardened Yocto Distro",
+      "https://ejaaskel.dev/introducing-sulka-the-hardened-yocto-distro/"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 20:52:34",
       "https://news.ycombinator.com/item?id=44272140"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2025-06-12, 22:15:43",
-      "https://news.ycombinator.com/item?id=44263780"
-    ],
-    [
-      "A Dark Adtech Empire Fed by Fake CAPTCHAs",
-      "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 19:05:12",
       "https://news.ycombinator.com/item?id=44261777"
     ],
     [
       "Frequent reauth doesn't make you more secure",
       "https://tailscale.com/blog/frequent-reath-security"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 15:04:59",
-      "https://news.ycombinator.com/item?id=44258670"
-    ],
-    [
-      "iPhone 11 emulation done in QEMU",
-      "https://github.com/ChefKissInc/QEMUAppleSilicon"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Student discovers fungus predicted by Albert Hoffman",
       "https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 22:19:50",
+      "https://news.ycombinator.com/item?id=44242125"
+    ],
+    [
+      "EDAN: Towards Understanding Memory Parallelism and Latency Sensitivity in HPC [pdf]",
+      "https://spcl.inf.ethz.ch/Publications/.pdf/shen-ics-2025-edan.pdf"
     ]
   ],
   [
