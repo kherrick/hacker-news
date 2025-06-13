@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-06-13, 13:21:47",
+      "https://news.ycombinator.com/item?id=44268286"
+    ],
+    [
+      "Geometry from Quantum Temporal Correlations",
+      "https://arxiv.org/abs/2502.13293"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 13:09:56",
       "https://news.ycombinator.com/item?id=44268197"
     ],
@@ -191,32 +201,22 @@
   ],
   [
     [
+      "2025-06-13, 02:27:24",
+      "https://news.ycombinator.com/item?id=44265233"
+    ],
+    [
+      "Rendering Crispy Text on the GPU",
+      "https://osor.io/text"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 02:01:05",
       "https://news.ycombinator.com/item?id=44265093"
     ],
     [
       "The Claude Bliss Attractor",
       "https://www.astralcodexten.com/p/the-claude-bliss-attractor"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 01:37:17",
-      "https://news.ycombinator.com/item?id=44264958"
-    ],
-    [
-      "Jemalloc Postmortem",
-      "https://jasone.github.io/2025/06/12/jemalloc-postmortem/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 19:05:12",
-      "https://news.ycombinator.com/item?id=44261777"
-    ],
-    [
-      "Frequent reauth doesn't make you more secure",
-      "https://tailscale.com/blog/frequent-reath-security"
     ]
   ],
   [
