@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 21:53:13](https://news.ycombinator.com/item?id=44272637) - [How the Alzheimer's Research Scandal Set Back Treatment 16 Years](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
+* [2025-06-13, 21:32:21](https://news.ycombinator.com/item?id=44272467) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
 * [2025-06-13, 21:08:31](https://news.ycombinator.com/item?id=44272287) - [Introducing Sulka, the Hardened Yocto Distro](https://ejaaskel.dev/introducing-sulka-the-hardened-yocto-distro/)
 * [2025-06-13, 20:52:34](https://news.ycombinator.com/item?id=44272140) - [Mumps (Programming Language)](https://en.wikipedia.org/wiki/MUMPS)
 * [2025-06-13, 20:31:26](https://news.ycombinator.com/item?id=44271974) - [Anne Wojcicki Wins Bidding for 23andMe](https://www.wsj.com/tech/biotech/anne-wojcicki-wins-bidding-for-23andme-92dcfd5b)
@@ -45,5 +47,6 @@
 * [2025-06-13, 02:24:54](https://news.ycombinator.com/item?id=44265216) - [Three Algorithms for YSH Syntax Highlighting](https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md)
 * [2025-06-13, 02:24:54](https://news.ycombinator.com/item?id=44265216) - [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md)
 * [2025-06-13, 02:01:56](https://news.ycombinator.com/item?id=44265105) - [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores)
+* [2025-06-13, 02:01:05](https://news.ycombinator.com/item?id=44265093) - [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-13, 00:05:00](https://news.ycombinator.com/item?id=44264494) - [Major sugar substitute found to impair brain blood vessel cell function](https://medicalxpress.com/news/2025-06-major-sugar-substitute-impair-brain.html)
