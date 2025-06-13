@@ -2,6 +2,7 @@
 
 * [2025-06-13, 15:14:20](https://news.ycombinator.com/item?id=44269289) - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 15:12:11](https://news.ycombinator.com/item?id=44269270) - [Luxe Game Engine](https://luxeengine.com/)
+* [2025-06-13, 15:08:30](https://news.ycombinator.com/item?id=44269225) - [Ask HN: Is ageism in tech still a problem?](https://news.ycombinator.com/item?id=44269225)
 * [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:20:38](https://news.ycombinator.com/item?id=44268782) - [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
@@ -28,7 +29,6 @@
 * [2025-06-12, 12:06:59](https://news.ycombinator.com/item?id=44256765) - [Show HN: Tritium – The Legal IDE in Rust](https://tritium.legal/preview)
 * [2025-06-12, 11:41:04](https://news.ycombinator.com/item?id=44256499) - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
 * [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
-* [2025-06-12, 00:15:23](https://news.ycombinator.com/item?id=44253212) - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 
 ## [Archives](archives/index.md)
