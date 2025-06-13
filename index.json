@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-06-13, 02:27:24",
+      "https://news.ycombinator.com/item?id=44265233"
+    ],
+    [
+      "Rendering Crispy Text on the GPU",
+      "https://osor.io/text"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 02:01:56",
+      "https://news.ycombinator.com/item?id=44265105"
+    ],
+    [
+      "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
+      "https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 01:37:17",
+      "https://news.ycombinator.com/item?id=44264958"
+    ],
+    [
+      "Jemalloc Postmortem",
+      "https://jasone.github.io/2025/06/12/jemalloc-postmortem/"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 23:42:00",
       "https://news.ycombinator.com/item?id=44264376"
     ],
     [
       "The Case for Software Craftsmanship in the Era of Vibes",
       "https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 23:33:25",
-      "https://news.ycombinator.com/item?id=44264325"
-    ],
-    [
-      "Ask HN: Can anybody clarify why OpenAI reasoning now shows non-English thoughts?",
-      "https://news.ycombinator.com/item?id=44264325"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44262528"
     ],
     [
-      "Being Full of Value‑Added Shit",
+      "Being full of value‑added shit",
       "https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/"
     ]
   ],
@@ -91,22 +111,22 @@
   ],
   [
     [
-      "2025-06-12, 18:24:01",
-      "https://news.ycombinator.com/item?id=44261064"
-    ],
-    [
-      "Cloudflare was down",
-      "https://www.cloudflarestatus.com/incidents/25r9t0vz99rp"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 18:11:07",
       "https://news.ycombinator.com/item?id=44260810"
     ],
     [
       "GCP Outage",
       "https://status.cloud.google.com/"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 16:46:24",
+      "https://news.ycombinator.com/item?id=44259844"
+    ],
+    [
+      "Sorcerer (YC S24) raises $3.9M to launch more weather balloons",
+      "https://www.axios.com/pro/climate-deals/2025/06/12/sorcerer-seed-weather-balloons"
     ]
   ],
   [
@@ -127,26 +147,6 @@
     [
       "US-backed Israeli company's spyware used to target European journalists",
       "https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 15:49:40",
-      "https://news.ycombinator.com/item?id=44259132"
-    ],
-    [
-      "macOS Tahoe brings a new disk image format",
-      "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 15:39:57",
-      "https://news.ycombinator.com/item?id=44259039"
-    ],
-    [
-      "Researchers confirm two journalists were hacked with Paragon spyware",
-      "https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=44257609"
     ],
     [
-      "Show HN: Vim-like text editor in go. (LSP, TreeSitter, Themes)",
+      "Show HN: McWig – A modal, Vim-like text editor written in Go",
       "https://github.com/firstrow/mcwig"
     ]
   ],
