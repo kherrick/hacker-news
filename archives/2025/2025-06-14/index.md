@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
 * [2025-06-14, 08:29:47](https://news.ycombinator.com/item?id=44275066) - [Danish department determined to dump Microsoft](https://www.theregister.com/2025/06/13/danish_department_dump_microsoft/)
+* [2025-06-14, 08:21:06](https://news.ycombinator.com/item?id=44275030) - [To fuel AI, US Congress moves to fast-track nuclear plant approvals](https://www.wsj.com/articles/to-feed-power-wolfing-ai-lawmakers-are-embracing-nuclear-a461ab7d)
 * [2025-06-14, 05:46:23](https://news.ycombinator.com/item?id=44274475) - [Builder.ai did not \"fake AI with 700 engineers\"](https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/)
+* [2025-06-14, 05:43:35](https://news.ycombinator.com/item?id=44274458) - [How to Write the Worst Possible Python Code (Humor)](https://effective-programmer.com/how-to-write-the-worst-possible-python-code-8c6e49816e90?sk=d06d4241ce97a51a969fbce67070f8ba)
 * [2025-06-14, 05:41:12](https://news.ycombinator.com/item?id=44274447) - [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
 * [2025-06-14, 05:14:12](https://news.ycombinator.com/item?id=44274338) - [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
 * [2025-06-14, 04:10:56](https://news.ycombinator.com/item?id=44274133) - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)

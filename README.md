@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-14, 08:29:47](https://news.ycombinator.com/item?id=44275066) - [Danish department determined to dump Microsoft](https://www.theregister.com/2025/06/13/danish_department_dump_microsoft/)
+* [2025-06-14, 08:21:06](https://news.ycombinator.com/item?id=44275030) - [To fuel AI, US Congress moves to fast-track nuclear plant approvals](https://www.wsj.com/articles/to-feed-power-wolfing-ai-lawmakers-are-embracing-nuclear-a461ab7d)
+* [2025-06-14, 05:43:35](https://news.ycombinator.com/item?id=44274458) - [How to Write the Worst Possible Python Code (Humor)](https://effective-programmer.com/how-to-write-the-worst-possible-python-code-8c6e49816e90?sk=d06d4241ce97a51a969fbce67070f8ba)
 * [2025-06-14, 05:41:12](https://news.ycombinator.com/item?id=44274447) - [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
 * [2025-06-14, 05:14:12](https://news.ycombinator.com/item?id=44274338) - [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
 * [2025-06-14, 04:10:56](https://news.ycombinator.com/item?id=44274133) - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)
@@ -28,7 +29,6 @@
 * [2025-06-10, 20:07:41](https://news.ycombinator.com/item?id=44240909) - [Slowing the flow of core-dump-related CVEs](https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/)
 * [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
 * [2025-06-10, 09:40:19](https://news.ycombinator.com/item?id=44234626) - [\"The Illusion of Thinking\" – Thoughts on This Important Paper](https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts)
-* [2025-06-10, 08:56:03](https://news.ycombinator.com/item?id=44234286) - [Shaping Light – Volumetric Lighting](https://blog.maximeheckel.com/posts/shaping-light-volumetric-lighting-with-post-processing-and-raymarching/)
 * [2025-06-10, 05:56:23](https://news.ycombinator.com/item?id=44233063) - [TimeGuessr](https://timeguessr.com/)
 
 ## [Archives](archives/index.md)
