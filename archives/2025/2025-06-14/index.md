@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 17:42:00](https://news.ycombinator.com/item?id=44277671) - [Minnesota Lawmaker Assassinated](https://apnews.com/article/minnesota-lawmakers-shot-d7983e1e4f1a7573a487cab1a98cd172)
+* [2025-06-14, 16:44:06](https://news.ycombinator.com/item?id=44277355) - [Self-driving company Waymo's market share in San Francisco exceeds Lyft's](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
 * [2025-06-14, 16:22:41](https://news.ycombinator.com/item?id=44277245) - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
 * [2025-06-14, 16:21:09](https://news.ycombinator.com/item?id=44277238) - [Democratic state politician and husband shot dead in targeted attack](https://www.bbc.com/news/live/cvgv4y99n7rt)
 * [2025-06-14, 15:49:03](https://news.ycombinator.com/item?id=44277089) - [What Is Open Source?](https://werd.io/what-is-open-source/)
