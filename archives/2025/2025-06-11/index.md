@@ -52,6 +52,7 @@
 * [2025-06-11, 09:20:51](https://news.ycombinator.com/item?id=44245709) - [Show HN: DIY virtual HDMI monitor using \"AR\" glasses](https://github.com/mgschwan/viture_virtual_display)
 * [2025-06-11, 08:55:47](https://news.ycombinator.com/item?id=44245577) - [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
 * [2025-06-11, 08:42:05](https://news.ycombinator.com/item?id=44245492) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
+* [2025-06-11, 07:52:37](https://news.ycombinator.com/item?id=44245218) - [God is hungry for Context: First thoughts on o3 pro](https://www.latent.space/p/o3-pro)
 * [2025-06-11, 07:44:01](https://news.ycombinator.com/item?id=44245166) - [Left-Pad (2024)](https://azerkoculu.com/posts/left-pad)
 * [2025-06-11, 07:23:45](https://news.ycombinator.com/item?id=44245053) - [AlphaWrite: AI that improves at writing by evolving its own stories](https://tobysimonds.com/research/2025/06/06/AlphaWrite.html)
 * [2025-06-11, 06:53:06](https://news.ycombinator.com/item?id=44244879) - [Why Koreans ask what year you were born](https://bryanhogan.com/blog/korean-age)
