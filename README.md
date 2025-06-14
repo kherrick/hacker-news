@@ -5,7 +5,7 @@
 * [2025-06-14, 03:41:14](https://news.ycombinator.com/item?id=44274031) - [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger)
 * [2025-06-14, 03:31:18](https://news.ycombinator.com/item?id=44274001) - [SIMD-friendly algorithms for substring searching](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 * [2025-06-14, 02:57:50](https://news.ycombinator.com/item?id=44273900) - [UK unis to cough up to £10M on Java to keep Oracle off their backs](https://www.theregister.com/2025/06/13/jisc_java_oracle/)
-* [2025-06-14, 02:45:03](https://news.ycombinator.com/item?id=44273857) - [Filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
+* [2025-06-14, 02:45:03](https://news.ycombinator.com/item?id=44273857) - [Filedb: Disk-based key-value store inspired by Bitcask](https://github.com/rajivharlalka/filedb)
 * [2025-06-14, 02:00:23](https://news.ycombinator.com/item?id=44273713) - [Rethinking Losses for Diffusion Bridge Samplers](https://arxiv.org/abs/2506.10982)
 * [2025-06-13, 22:40:22](https://news.ycombinator.com/item?id=44272933) - [Endometriosis is an interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
 * [2025-06-13, 22:13:14](https://news.ycombinator.com/item?id=44272776) - [A Study of the Winston Red: The Smithsonian's New Fancy Red Diamond](https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond)
@@ -24,12 +24,12 @@
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The international standard for identifying postal items](https://www.akpain.net/blog/s10-upu/)
 * [2025-06-11, 16:37:09](https://news.ycombinator.com/item?id=44249338) - [Whatever Happened to Sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
-* [2025-06-11, 07:52:37](https://news.ycombinator.com/item?id=44245218) - [God is hungry for Context: First thoughts on o3 pro](https://www.latent.space/p/o3-pro)
 * [2025-06-11, 00:36:00](https://news.ycombinator.com/item?id=44243059) - [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor)
 * [2025-06-10, 22:19:50](https://news.ycombinator.com/item?id=44242125) - [EDAN: Towards Understanding Memory Parallelism and Latency Sensitivity in HPC [pdf]](https://spcl.inf.ethz.ch/Publications/.pdf/shen-ics-2025-edan.pdf)
 * [2025-06-10, 21:43:33](https://news.ycombinator.com/item?id=44241797) - [High-speed fluorescence light field tomography of whole freely moving organisms](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&id=570897)
 * [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
 * [2025-06-10, 08:56:03](https://news.ycombinator.com/item?id=44234286) - [Shaping Light – Volumetric Lighting](https://blog.maximeheckel.com/posts/shaping-light-volumetric-lighting-with-post-processing-and-raymarching/)
+* [2025-06-10, 05:56:23](https://news.ycombinator.com/item?id=44233063) - [TimeGuessr](https://timeguessr.com/)
 
 ## [Archives](archives/index.md)
 
