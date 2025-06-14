@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-14, 08:29:47",
+      "https://news.ycombinator.com/item?id=44275066"
+    ],
+    [
+      "Danish department determined to dump Microsoft",
+      "https://www.theregister.com/2025/06/13/danish_department_dump_microsoft/"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 05:41:12",
       "https://news.ycombinator.com/item?id=44274447"
     ],
@@ -47,16 +57,6 @@
     [
       "SIMD-friendly algorithms for substring searching",
       "http://0x80.pl/notesen/2016-11-28-simd-strfind.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 02:57:50",
-      "https://news.ycombinator.com/item?id=44273900"
-    ],
-    [
-      "UK unis to cough up to £10M on Java to keep Oracle off their backs",
-      "https://www.theregister.com/2025/06/13/jisc_java_oracle/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-06-13, 14:20:38",
-      "https://news.ycombinator.com/item?id=44268782"
-    ],
-    [
-      "OxCaml - a set of extensions to the OCaml programming language.",
-      "https://oxcaml.org/"
-    ]
-  ],
-  [
-    [
       "2025-06-13, 14:04:35",
       "https://news.ycombinator.com/item?id=44268644"
     ],
@@ -251,12 +241,22 @@
   ],
   [
     [
-      "2025-06-10, 21:43:33",
-      "https://news.ycombinator.com/item?id=44241797"
+      "2025-06-10, 20:37:46",
+      "https://news.ycombinator.com/item?id=44241209"
     ],
     [
-      "High-speed fluorescence light field tomography of whole freely moving organisms",
-      "https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&id=570897"
+      "Protecting your code from other people's bugs",
+      "https://doi.org/10.1145/3733699"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 20:07:41",
+      "https://news.ycombinator.com/item?id=44240909"
+    ],
+    [
+      "Slowing the flow of core-dump-related CVEs",
+      "https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/"
     ]
   ],
   [
