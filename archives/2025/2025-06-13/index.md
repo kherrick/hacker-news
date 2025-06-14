@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
 * [2025-06-13, 23:06:43](https://news.ycombinator.com/item?id=44273067) - [U.S. Army bringing in big tech executives as lieutenant colonels](https://taskandpurpose.com/military-life/army-reserve-lt-col-tech-execs/)
+* [2025-06-13, 22:40:22](https://news.ycombinator.com/item?id=44272933) - [Endometriosis is an incredibly interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
 * [2025-06-13, 22:13:14](https://news.ycombinator.com/item?id=44272776) - [A Study of the Winston Red: The Smithsonian's New Fancy Red Diamond](https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond)
 * [2025-06-13, 22:12:59](https://news.ycombinator.com/item?id=44272773) - [The Emperor's New LLM](https://dayafter.substack.com/p/the-emperors-new-llm)
 * [2025-06-13, 21:53:13](https://news.ycombinator.com/item?id=44272637) - [How the Alzheimer's Research Scandal Set Back Treatment 16 Years](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
