@@ -69,5 +69,6 @@
 * [2025-06-11, 05:58:29](https://news.ycombinator.com/item?id=44244595) - [Cray versus Raspberry Pi](https://www.aardvark.co.nz/daily/2025/0611.shtml)
 * [2025-06-11, 05:23:26](https://news.ycombinator.com/item?id=44244450) - [Ask HN: What is the latest on treatment of Metastatic Breast Cancer?](https://news.ycombinator.com/item?id=44244450)
 * [2025-06-11, 04:59:41](https://news.ycombinator.com/item?id=44244340) - [What MS-DOS Can Do That Linux Can't](http://webarchive.me/geocities/SiliconValley/2072/dosvslnx.htm)
+* [2025-06-11, 03:24:48](https://news.ycombinator.com/item?id=44243923) - [Using `make` to compile C programs](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/)
 * [2025-06-11, 00:36:00](https://news.ycombinator.com/item?id=44243059) - [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor)
 * [2025-06-11, 00:34:55](https://news.ycombinator.com/item?id=44243050) - [It's the end of observability as we know it (and I feel fine)](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
