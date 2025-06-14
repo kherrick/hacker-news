@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 11:12:32](https://news.ycombinator.com/item?id=44275643) - [Built an AI that brutally roasts your website designs](https://ugh.design)
+* [2025-06-14, 10:49:03](https://news.ycombinator.com/item?id=44275551) - [Man Killed by Police After Spiraling into ChatGPT-Driven Psychosis](https://futurism.com/man-killed-police-chatgpt)
 * [2025-06-14, 08:29:47](https://news.ycombinator.com/item?id=44275066) - [Danish department determined to dump Microsoft](https://www.theregister.com/2025/06/13/danish_department_dump_microsoft/)
 * [2025-06-14, 08:21:06](https://news.ycombinator.com/item?id=44275030) - [To fuel AI, US Congress moves to fast-track nuclear plant approvals](https://www.wsj.com/articles/to-feed-power-wolfing-ai-lawmakers-are-embracing-nuclear-a461ab7d)
 * [2025-06-14, 07:43:11](https://news.ycombinator.com/item?id=44274883) - [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
