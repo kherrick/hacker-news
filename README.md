@@ -2,7 +2,6 @@
 
 * [2025-06-14, 22:18:46](https://news.ycombinator.com/item?id=44279209) - [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
 * [2025-06-14, 22:12:12](https://news.ycombinator.com/item?id=44279181) - [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
-* [2025-06-14, 20:42:04](https://news.ycombinator.com/item?id=44278689) - [What is systems programming, really? (2018)](https://willcrichton.net/notes/systems-programming/)
 * [2025-06-14, 19:52:38](https://news.ycombinator.com/item?id=44278403) - [Seven replies to the viral Apple reasoning paper and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)
 * [2025-06-14, 16:57:22](https://news.ycombinator.com/item?id=44277431) - [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
 * [2025-06-14, 16:22:41](https://news.ycombinator.com/item?id=44277245) - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
@@ -17,6 +16,7 @@
 * [2025-06-13, 21:32:21](https://news.ycombinator.com/item?id=44272467) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
 * [2025-06-13, 19:03:42](https://news.ycombinator.com/item?id=44271284) - [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
 * [2025-06-13, 16:10:38](https://news.ycombinator.com/item?id=44269822) - [Peano arithmetic is enough, because Peano arithmetic  encodes computation](https://math.stackexchange.com/a/5075056/6708)
+* [2025-06-13, 13:51:42](https://news.ycombinator.com/item?id=44268547) - [The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More](https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360)
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The international standard for identifying postal items](https://www.akpain.net/blog/s10-upu/)
 * [2025-06-12, 14:19:43](https://news.ycombinator.com/item?id=44258139) - [Waymo rides cost more than Uber or Lyft and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
 * [2025-06-12, 13:54:57](https://news.ycombinator.com/item?id=44257862) - [We investigated Amsterdam's attempt to build a 'fair' fraud detection model](https://www.lighthousereports.com/methodology/amsterdam-fairness/)
