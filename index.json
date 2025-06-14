@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-06-14, 11:12:32",
-      "https://news.ycombinator.com/item?id=44275643"
+      "2025-06-14, 12:00:07",
+      "https://news.ycombinator.com/item?id=44275843"
     ],
     [
-      "Built an AI that brutally roasts your website designs",
-      "https://ugh.design"
+      "Solidroad (YC W25) Is Hiring",
+      "https://solidroad.com/careers"
     ]
   ],
   [
     [
-      "2025-06-14, 10:49:03",
-      "https://news.ycombinator.com/item?id=44275551"
+      "2025-06-14, 10:56:52",
+      "https://news.ycombinator.com/item?id=44275575"
     ],
     [
-      "Man Killed by Police After Spiraling into ChatGPT-Driven Psychosis",
-      "https://futurism.com/man-killed-police-chatgpt"
+      "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
+      "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d"
     ]
   ],
   [
@@ -47,26 +47,6 @@
     [
       "Google Cloud Incident Report – 2025-06-13",
       "https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 04:10:56",
-      "https://news.ycombinator.com/item?id=44274133"
-    ],
-    [
-      "Green Tea Garbage Collector",
-      "https://github.com/golang/go/issues/73581"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 03:41:14",
-      "https://news.ycombinator.com/item?id=44274031"
-    ],
-    [
-      "$100 Hamburger",
-      "https://en.wikipedia.org/wiki/$100_hamburger"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2025-06-12, 19:05:12",
+      "https://news.ycombinator.com/item?id=44261777"
+    ],
+    [
+      "Frequent reauth doesn't make you more secure",
+      "https://tailscale.com/blog/frequent-reath-security"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 15:02:23",
       "https://news.ycombinator.com/item?id=44258633"
     ],
@@ -227,6 +217,16 @@
     [
       "Whatever Happened to Sandboxfs?",
       "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 05:58:29",
+      "https://news.ycombinator.com/item?id=44244595"
+    ],
+    [
+      "Cray versus Raspberry Pi",
+      "https://www.aardvark.co.nz/daily/2025/0611.shtml"
     ]
   ],
   [
