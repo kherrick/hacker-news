@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 12:45:39](https://news.ycombinator.com/item?id=44276103) - [\"Exploring the Amiga\" blog series (2018)](https://www.thedigitalcatonline.com/categories/amiga/)
 * [2025-06-14, 12:32:20](https://news.ycombinator.com/item?id=44276041) - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 * [2025-06-14, 12:00:07](https://news.ycombinator.com/item?id=44275843) - [Solidroad (YC W25) Is Hiring](https://solidroad.com/careers)
 * [2025-06-14, 11:12:32](https://news.ycombinator.com/item?id=44275643) - [Built an AI that brutally roasts your website designs](https://ugh.design)

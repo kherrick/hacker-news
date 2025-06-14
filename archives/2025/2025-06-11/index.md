@@ -10,6 +10,7 @@
 * [2025-06-11, 23:41:00](https://news.ycombinator.com/item?id=44253005) - [The Canadian C++ Conference](https://cppnorth.ca/index.html)
 * [2025-06-11, 23:40:10](https://news.ycombinator.com/item?id=44252999) - [Mollusk shell assemblages as a tool for identifying unaltered seagrass beds](https://www.int-res.com/abstracts/meps/v760/meps14839)
 * [2025-06-11, 23:20:03](https://news.ycombinator.com/item?id=44252858) - [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
+* [2025-06-11, 23:00:50](https://news.ycombinator.com/item?id=44252717) - [Solar Orbiter gets world-first views of the Sun's poles](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles)
 * [2025-06-11, 22:42:31](https://news.ycombinator.com/item?id=44252601) - [Extracting Router Firmware Using SMD Grippers](https://getuliovictor.github.io/posts/Extracting-Router-Firmware-SMD-Grippers/)
 * [2025-06-11, 22:29:44](https://news.ycombinator.com/item?id=44252516) - [Social media use increases depression in preteens, not vice versa](https://medicalxpress.com/news/2025-05-social-media-depression-preteens-vice.html)
 * [2025-06-11, 22:14:18](https://news.ycombinator.com/item?id=44252409) - [AI Isn't Magic, It's Maths](https://zerofluff.substack.com/p/ai-isnt-magic-its-maths)
