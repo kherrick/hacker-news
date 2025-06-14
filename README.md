@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-14, 14:12:29](https://news.ycombinator.com/item?id=44276552) - [Ask HN: How do you teach your kids about AI?](https://news.ycombinator.com/item?id=44276552)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 * [2025-06-14, 12:32:20](https://news.ycombinator.com/item?id=44276041) - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 * [2025-06-14, 12:00:07](https://news.ycombinator.com/item?id=44275843) - [Solidroad (YC W25) Is Hiring](https://solidroad.com/careers)
@@ -14,7 +15,6 @@
 * [2025-06-13, 19:03:42](https://news.ycombinator.com/item?id=44271284) - [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943)
 * [2025-06-13, 18:03:30](https://news.ycombinator.com/item?id=44270709) - [I convinced HP's board to buy Palm and watched them kill it](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
 * [2025-06-13, 16:10:38](https://news.ycombinator.com/item?id=44269822) - [Peano arithmetic is enough, because Peano arithmetic  encodes computation](https://math.stackexchange.com/a/5075056/6708)
-* [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 13:51:42](https://news.ycombinator.com/item?id=44268547) - [The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More](https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The international standard for identifying postal items](https://www.akpain.net/blog/s10-upu/)
