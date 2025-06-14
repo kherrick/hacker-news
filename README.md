@@ -20,6 +20,7 @@
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
 * [2025-06-13, 13:51:42](https://news.ycombinator.com/item?id=44268547) - [The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More](https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+* [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The international standard for identifying postal items](https://www.akpain.net/blog/s10-upu/)
 * [2025-06-11, 18:33:36](https://news.ycombinator.com/item?id=44250461) - [How I uncovered a potential ancient Rome wine scam](https://phys.org/news/2025-06-uncovered-potential-ancient-rome-wine.html)
 * [2025-06-11, 16:37:09](https://news.ycombinator.com/item?id=44249338) - [Whatever Happened to Sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
@@ -28,7 +29,6 @@
 * [2025-06-10, 20:07:41](https://news.ycombinator.com/item?id=44240909) - [Slowing the flow of core-dump-related CVEs](https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/)
 * [2025-06-10, 13:31:35](https://news.ycombinator.com/item?id=44236590) - [Paleoproteomic profiling recovers diverse proteins from 200yo human brains](https://phys.org/news/2025-05-paleoproteomic-profiling-recovers-diverse-proteins.html)
 * [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
-* [2025-06-10, 09:40:19](https://news.ycombinator.com/item?id=44234626) - [\"The Illusion of Thinking\" – Thoughts on This Important Paper](https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts)
 * [2025-06-10, 05:56:23](https://news.ycombinator.com/item?id=44233063) - [TimeGuessr](https://timeguessr.com/)
 
 ## [Archives](archives/index.md)
