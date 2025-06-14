@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-14, 17:48:05",
-      "https://news.ycombinator.com/item?id=44277708"
-    ],
-    [
-      "Drones will realize the promise of suicide terrorism",
-      "https://blog.exitgroup.us/p/cheap-drones-will-realize-the-promise"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 16:57:22",
       "https://news.ycombinator.com/item?id=44277431"
     ],
@@ -77,6 +67,16 @@
     [
       "Solidroad (YC W25) Is Hiring",
       "https://solidroad.com/careers"
+    ]
+  ],
+  [
+    [
+      "2025-06-14, 07:20:17",
+      "https://news.ycombinator.com/item?id=44274784"
+    ],
+    [
+      "Strace Tips for Better Debugging",
+      "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-06-13, 08:40:05",
+      "https://news.ycombinator.com/item?id=44266828"
+    ],
+    [
+      "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
+      "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 15:02:23",
       "https://news.ycombinator.com/item?id=44258633"
     ],
@@ -217,16 +227,6 @@
     [
       "Python argparse has a limitation on argument groups that makes me sad",
       "https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseAndNestedGroups"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 16:33:38",
-      "https://news.ycombinator.com/item?id=44249305"
-    ],
-    [
-      "Texting myself the weather every day",
-      "https://bensilverman.co.uk/posts/daily-weather-sms/"
     ]
   ],
   [
