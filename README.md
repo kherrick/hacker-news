@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-14, 02:57:50](https://news.ycombinator.com/item?id=44273900) - [UK unis to cough up to £10M on Java to keep Oracle off their backs](https://www.theregister.com/2025/06/13/jisc_java_oracle/)
-* [2025-06-14, 02:45:06](https://news.ycombinator.com/item?id=44273858) - [DHS is using CBP Home Mobile App to incentivize the voluntary self-deportation](https://www.dhs.gov/cbphome)
+* [2025-06-14, 02:45:58](https://news.ycombinator.com/item?id=44273860) - [Anne Wojcicki to buy back 23andMe and its data for $305M](https://www.cnbc.com/2025/06/13/anne-wojcicki-to-buy-back-23andme-and-its-data-for-305-million.html)
 * [2025-06-14, 02:45:03](https://news.ycombinator.com/item?id=44273857) - [Filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
 * [2025-06-14, 02:22:54](https://news.ycombinator.com/item?id=44273790) - [The Tech Job Meltdown](https://www.professoraxelrod.com/p/the-tech-job-meltdown)
 * [2025-06-14, 02:00:23](https://news.ycombinator.com/item?id=44273713) - [Rethinking Losses for Diffusion Bridge Samplers](https://arxiv.org/abs/2506.10982)
 * [2025-06-13, 22:40:22](https://news.ycombinator.com/item?id=44272933) - [Endometriosis is an incredibly interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
 * [2025-06-13, 22:13:14](https://news.ycombinator.com/item?id=44272776) - [A Study of the Winston Red: The Smithsonian's New Fancy Red Diamond](https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond)
-* [2025-06-13, 21:53:13](https://news.ycombinator.com/item?id=44272637) - [How the Alzheimer's Research Scandal Set Back Treatment 16 Years (2022)](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
 * [2025-06-13, 21:32:21](https://news.ycombinator.com/item?id=44272467) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
 * [2025-06-13, 20:52:34](https://news.ycombinator.com/item?id=44272140) - [MUMPS](https://en.wikipedia.org/wiki/MUMPS)
 * [2025-06-13, 19:44:58](https://news.ycombinator.com/item?id=44271630) - [Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
@@ -28,6 +27,7 @@
 * [2025-06-11, 00:36:00](https://news.ycombinator.com/item?id=44243059) - [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor)
 * [2025-06-10, 22:19:50](https://news.ycombinator.com/item?id=44242125) - [EDAN: Towards Understanding Memory Parallelism and Latency Sensitivity in HPC [pdf]](https://spcl.inf.ethz.ch/Publications/.pdf/shen-ics-2025-edan.pdf)
 * [2025-06-10, 21:43:33](https://news.ycombinator.com/item?id=44241797) - [High-speed fluorescence light field tomography of whole freely moving organisms](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&id=570897)
+* [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
 * [2025-06-10, 10:27:50](https://news.ycombinator.com/item?id=44234971) - [RISC-V in AI and HPC Part 1: Per Aspera Ad Astra?](https://www.eetimes.com/risc-v-in-ai-and-hpc-part-1-per-aspera-ad-astra/)
 * [2025-06-07, 11:25:02](https://news.ycombinator.com/item?id=44208938) - [The concurrency trap: How an atomic counter stalled a pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)
 

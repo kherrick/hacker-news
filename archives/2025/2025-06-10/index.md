@@ -48,6 +48,7 @@
 * [2025-06-10, 12:00:39](https://news.ycombinator.com/item?id=44235716) - [Onlook (YC W25) Is Hiring a a Founding Engineer in SF](https://news.ycombinator.com/item?id=44235716)
 * [2025-06-10, 11:58:22](https://news.ycombinator.com/item?id=44235701) - [Apple Fails to Clear a Low Bar on AI](https://www.wsj.com/tech/ai/apple-ai-strategy-wwdc-challenges-bdae4fb5)
 * [2025-06-10, 11:50:15](https://news.ycombinator.com/item?id=44235628) - [Show HN: High End Color Quantizer](https://github.com/big-nacho/patolette)
+* [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
 * [2025-06-10, 11:29:29](https://news.ycombinator.com/item?id=44235467) - [\"Localhost tracking\" explained. It could cost Meta 32B](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-10, 11:17:31](https://news.ycombinator.com/item?id=44235369) - [How Long Does It Take to Draw a Picture of Every Pub in London?](https://www.nytimes.com/2025/06/10/world/europe/artist-pub-london-wood.html)
 * [2025-06-10, 10:52:29](https://news.ycombinator.com/item?id=44235177) - [WWDC25: macOS Tahoe Breaks Decades of Finder History](https://512pixels.net/2025/06/wwdc25-macos-tahoe-breaks-decades-of-finder-history/)
