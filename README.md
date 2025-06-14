@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-14, 16:22:41](https://news.ycombinator.com/item?id=44277245) - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
-* [2025-06-14, 15:49:03](https://news.ycombinator.com/item?id=44277089) - [What Is Open Source?](https://werd.io/what-is-open-source/)
 * [2025-06-14, 15:43:03](https://news.ycombinator.com/item?id=44277051) - [Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 * [2025-06-14, 12:32:20](https://news.ycombinator.com/item?id=44276041) - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
@@ -25,6 +24,7 @@
 * [2025-06-11, 16:33:38](https://news.ycombinator.com/item?id=44249305) - [Texting myself the weather every day](https://bensilverman.co.uk/posts/daily-weather-sms/)
 * [2025-06-11, 14:03:46](https://news.ycombinator.com/item?id=44247759) - [\"Language and Image Minus Cognition.\" Leif Weatherby on LLMs](https://www.jhiblog.org/2025/06/11/language-and-image-minus-cognition-an-interview-with-leif-weatherby/)
 * [2025-06-11, 00:36:00](https://news.ycombinator.com/item?id=44243059) - [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor)
+* [2025-06-10, 20:37:46](https://news.ycombinator.com/item?id=44241209) - [Protecting your code from other people's bugs](https://doi.org/10.1145/3733699)
 * [2025-06-10, 20:07:41](https://news.ycombinator.com/item?id=44240909) - [Slowing the flow of core-dump-related CVEs](https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/)
 * [2025-06-10, 15:00:54](https://news.ycombinator.com/item?id=44237654) - [Me an' Algernon – grappling with (temporary) cognitive decline](https://tidyfirst.substack.com/p/me-an-algernon)
 * [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
