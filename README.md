@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-14, 16:57:22](https://news.ycombinator.com/item?id=44277431) - [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
-* [2025-06-14, 16:44:06](https://news.ycombinator.com/item?id=44277355) - [Self-driving company Waymo's market share in San Francisco exceeds Lyft's](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
+* [2025-06-14, 16:44:06](https://news.ycombinator.com/item?id=44277355) - [Waymo's market share in San Francisco exceeds Lyft's](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
 * [2025-06-14, 16:22:41](https://news.ycombinator.com/item?id=44277245) - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
 * [2025-06-14, 15:43:03](https://news.ycombinator.com/item?id=44277051) - [Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
