@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-14, 20:42:04",
+      "https://news.ycombinator.com/item?id=44278689"
+    ],
+    [
+      "What is systems programming, really? (2018)",
+      "https://willcrichton.net/notes/systems-programming/"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 19:52:38",
       "https://news.ycombinator.com/item?id=44278403"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-06-13, 08:40:05",
-      "https://news.ycombinator.com/item?id=44266828"
-    ],
-    [
-      "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
-      "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 15:02:23",
       "https://news.ycombinator.com/item?id=44258633"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-06-11, 20:50:53",
-      "https://news.ycombinator.com/item?id=44251677"
-    ],
-    [
-      "Writing a Truth Oracle in Lisp",
-      "https://lambda-cove.net/posts/truth-oracle-lisp/"
-    ]
-  ],
-  [
-    [
       "2025-06-11, 15:56:00",
       "https://news.ycombinator.com/item?id=44248968"
     ],
@@ -247,6 +237,16 @@
     [
       "\"Language and Image Minus Cognition.\" Leif Weatherby on LLMs",
       "https://www.jhiblog.org/2025/06/11/language-and-image-minus-cognition-an-interview-with-leif-weatherby/"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 06:13:49",
+      "https://news.ycombinator.com/item?id=44244675"
+    ],
+    [
+      "Chicken Eyeglasses",
+      "https://en.wikipedia.org/wiki/Chicken_eyeglasses"
     ]
   ],
   [
