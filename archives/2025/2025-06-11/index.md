@@ -11,6 +11,7 @@
 * [2025-06-11, 23:20:03](https://news.ycombinator.com/item?id=44252858) - [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
 * [2025-06-11, 22:42:31](https://news.ycombinator.com/item?id=44252601) - [Extracting Router Firmware Using SMD Grippers](https://getuliovictor.github.io/posts/Extracting-Router-Firmware-SMD-Grippers/)
 * [2025-06-11, 22:29:44](https://news.ycombinator.com/item?id=44252516) - [Social media use increases depression in preteens, not vice versa](https://medicalxpress.com/news/2025-05-social-media-depression-preteens-vice.html)
+* [2025-06-11, 22:14:18](https://news.ycombinator.com/item?id=44252409) - [AI Isn't Magic, It's Maths](https://zerofluff.substack.com/p/ai-isnt-magic-its-maths)
 * [2025-06-11, 22:01:57](https://news.ycombinator.com/item?id=44252311) - [The first big AI disaster is yet to happen](https://www.seangoedecke.com/the-first-big-ai-disaster/)
 * [2025-06-11, 21:37:04](https://news.ycombinator.com/item?id=44252076) - [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
 * [2025-06-11, 21:36:06](https://news.ycombinator.com/item?id=44252070) - [Institutional Books: A 242B token dataset from Harvard Library's collections](https://arxiv.org/abs/2506.08300)
