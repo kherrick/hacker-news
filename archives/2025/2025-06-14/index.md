@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 19:27:53](https://news.ycombinator.com/item?id=44278279) - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
 * [2025-06-14, 18:31:14](https://news.ycombinator.com/item?id=44277899) - [Officials are searching for a 57-year-old man in shooting 2 Minnesota lawmakers](https://apnews.com/article/minnesota-lawmakers-shot-d7983e1e4f1a7573a487cab1a98cd172)
 * [2025-06-14, 17:48:05](https://news.ycombinator.com/item?id=44277708) - [Drones will realize the promise of suicide terrorism](https://blog.exitgroup.us/p/cheap-drones-will-realize-the-promise)
 * [2025-06-14, 17:42:00](https://news.ycombinator.com/item?id=44277671) - [Minnesota Lawmaker Assassinated](https://apnews.com/article/minnesota-lawmakers-shot-d7983e1e4f1a7573a487cab1a98cd172)
