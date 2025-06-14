@@ -31,6 +31,7 @@
 * [2025-06-11, 16:52:49](https://news.ycombinator.com/item?id=44249467) - [The Beach Boys' Brian Wilson Dies at 82](https://pitchfork.com/news/the-beach-boys-brian-wilson-dies-at-82/)
 * [2025-06-11, 16:46:52](https://news.ycombinator.com/item?id=44249418) - [Markdown Ninja: markdown-first CMS for bloggers, minimalists and startups.](https://github.com/bloom42/markdown-ninja)
 * [2025-06-11, 16:46:48](https://news.ycombinator.com/item?id=44249417) - [Dolly Parton's Dollywood Express](https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier)
+* [2025-06-11, 16:38:05](https://news.ycombinator.com/item?id=44249344) - [Python argparse has a limitation on argument groups that makes me sad](https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseAndNestedGroups)
 * [2025-06-11, 16:37:09](https://news.ycombinator.com/item?id=44249338) - [Whatever Happened to Sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
 * [2025-06-11, 16:33:38](https://news.ycombinator.com/item?id=44249305) - [Texting myself the weather every day](https://bensilverman.co.uk/posts/daily-weather-sms/)
 * [2025-06-11, 16:33:35](https://news.ycombinator.com/item?id=44249303) - [Medical Aid in Dying, My Health, and So On](https://blog.the-brannons.com/post/Medical-Aid-in-Dying-My-Health-and-so-on)

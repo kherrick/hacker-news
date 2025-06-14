@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 18:31:14](https://news.ycombinator.com/item?id=44277899) - [Officials are searching for a 57-year-old man in shooting 2 Minnesota lawmakers](https://apnews.com/article/minnesota-lawmakers-shot-d7983e1e4f1a7573a487cab1a98cd172)
+* [2025-06-14, 17:48:05](https://news.ycombinator.com/item?id=44277708) - [Drones will realize the promise of suicide terrorism](https://blog.exitgroup.us/p/cheap-drones-will-realize-the-promise)
 * [2025-06-14, 17:42:00](https://news.ycombinator.com/item?id=44277671) - [Minnesota Lawmaker Assassinated](https://apnews.com/article/minnesota-lawmakers-shot-d7983e1e4f1a7573a487cab1a98cd172)
 * [2025-06-14, 16:44:06](https://news.ycombinator.com/item?id=44277355) - [Self-driving company Waymo's market share in San Francisco exceeds Lyft's](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
 * [2025-06-14, 16:22:41](https://news.ycombinator.com/item?id=44277245) - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
