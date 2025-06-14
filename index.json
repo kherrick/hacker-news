@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-14, 19:27:53",
-      "https://news.ycombinator.com/item?id=44278279"
-    ],
-    [
-      "Anne Wojcicki is taking back control of 23andMe",
-      "https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 16:57:22",
       "https://news.ycombinator.com/item?id=44277431"
     ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2025-06-13, 08:40:05",
+      "https://news.ycombinator.com/item?id=44266828"
+    ],
+    [
+      "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
+      "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 15:02:23",
       "https://news.ycombinator.com/item?id=44258633"
     ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2025-06-11, 16:38:05",
-      "https://news.ycombinator.com/item?id=44249344"
+      "2025-06-11, 20:50:53",
+      "https://news.ycombinator.com/item?id=44251677"
     ],
     [
-      "Python argparse has a limitation on argument groups that makes me sad",
-      "https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseAndNestedGroups"
+      "Writing a Truth Oracle in Lisp",
+      "https://lambda-cove.net/posts/truth-oracle-lisp/"
     ]
   ],
   [
