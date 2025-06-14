@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-14, 07:43:11](https://news.ycombinator.com/item?id=44274883) - [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
 * [2025-06-14, 05:43:35](https://news.ycombinator.com/item?id=44274458) - [How to Write the Worst Possible Python Code (Humor)](https://effective-programmer.com/how-to-write-the-worst-possible-python-code-8c6e49816e90?sk=d06d4241ce97a51a969fbce67070f8ba)
 * [2025-06-14, 05:41:12](https://news.ycombinator.com/item?id=44274447) - [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
@@ -27,7 +28,6 @@
 * [2025-06-10, 20:37:46](https://news.ycombinator.com/item?id=44241209) - [Protecting your code from other people's bugs](https://doi.org/10.1145/3733699)
 * [2025-06-10, 20:07:41](https://news.ycombinator.com/item?id=44240909) - [Slowing the flow of core-dump-related CVEs](https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/)
 * [2025-06-10, 15:00:54](https://news.ycombinator.com/item?id=44237654) - [Me an' Algernon – grappling with (temporary) cognitive decline](https://tidyfirst.substack.com/p/me-an-algernon)
-* [2025-06-10, 13:31:35](https://news.ycombinator.com/item?id=44236590) - [Paleoproteomic profiling recovers diverse proteins from 200yo human brains](https://phys.org/news/2025-05-paleoproteomic-profiling-recovers-diverse-proteins.html)
 * [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
 * [2025-06-10, 05:56:23](https://news.ycombinator.com/item?id=44233063) - [TimeGuessr](https://timeguessr.com/)
 
