@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-14, 12:32:20](https://news.ycombinator.com/item?id=44276041) - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 * [2025-06-14, 12:00:07](https://news.ycombinator.com/item?id=44275843) - [Solidroad (YC W25) Is Hiring](https://solidroad.com/careers)
 * [2025-06-14, 10:56:52](https://news.ycombinator.com/item?id=44275575) - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
 * [2025-06-14, 07:43:11](https://news.ycombinator.com/item?id=44274883) - [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
-* [2025-06-14, 06:13:00](https://news.ycombinator.com/item?id=44274563) - [Google Cloud Incident Report – 2025-06-13](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
 * [2025-06-14, 03:31:18](https://news.ycombinator.com/item?id=44274001) - [SIMD-friendly algorithms for substring searching](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 * [2025-06-14, 02:45:03](https://news.ycombinator.com/item?id=44273857) - [Filedb: Disk-based key-value store inspired by Bitcask](https://github.com/rajivharlalka/filedb)
 * [2025-06-13, 22:40:22](https://news.ycombinator.com/item?id=44272933) - [Endometriosis is an interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
