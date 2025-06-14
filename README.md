@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-14, 18:31:14](https://news.ycombinator.com/item?id=44277899) - [Officials are searching for a 57-year-old man in shooting 2 Minnesota lawmakers](https://apnews.com/article/minnesota-lawmakers-shot-d7983e1e4f1a7573a487cab1a98cd172)
 * [2025-06-14, 17:48:05](https://news.ycombinator.com/item?id=44277708) - [Drones will realize the promise of suicide terrorism](https://blog.exitgroup.us/p/cheap-drones-will-realize-the-promise)
+* [2025-06-14, 16:57:22](https://news.ycombinator.com/item?id=44277431) - [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
 * [2025-06-14, 16:44:06](https://news.ycombinator.com/item?id=44277355) - [Self-driving company Waymo's market share in San Francisco exceeds Lyft's](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
 * [2025-06-14, 16:22:41](https://news.ycombinator.com/item?id=44277245) - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
 * [2025-06-14, 15:43:03](https://news.ycombinator.com/item?id=44277051) - [Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
@@ -19,8 +19,8 @@
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The international standard for identifying postal items](https://www.akpain.net/blog/s10-upu/)
 * [2025-06-12, 14:19:43](https://news.ycombinator.com/item?id=44258139) - [Waymo rides cost more than Uber or Lyft and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
 * [2025-06-12, 09:52:10](https://news.ycombinator.com/item?id=44255770) - [Peeling the Covers Off Germany's Exascale \"Jupiter\" Supercomputer](https://www.nextplatform.com/2025/06/11/peeling-the-covers-off-germanys-exascale-jupiter-supercomputer/)
+* [2025-06-11, 23:40:10](https://news.ycombinator.com/item?id=44252999) - [Mollusk shell assemblages as a tool for identifying unaltered seagrass beds](https://www.int-res.com/abstracts/meps/v760/meps14839)
 * [2025-06-11, 23:00:50](https://news.ycombinator.com/item?id=44252717) - [Solar Orbiter gets world-first views of the Sun's poles](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles)
-* [2025-06-11, 20:50:53](https://news.ycombinator.com/item?id=44251677) - [Writing a Truth Oracle in Lisp](https://lambda-cove.net/posts/truth-oracle-lisp/)
 * [2025-06-11, 16:38:05](https://news.ycombinator.com/item?id=44249344) - [Python argparse has a limitation on argument groups that makes me sad](https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseAndNestedGroups)
 * [2025-06-11, 16:33:38](https://news.ycombinator.com/item?id=44249305) - [Texting myself the weather every day](https://bensilverman.co.uk/posts/daily-weather-sms/)
 * [2025-06-11, 14:03:46](https://news.ycombinator.com/item?id=44247759) - [\"Language and Image Minus Cognition.\" Leif Weatherby on LLMs](https://www.jhiblog.org/2025/06/11/language-and-image-minus-cognition-an-interview-with-leif-weatherby/)
