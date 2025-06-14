@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-14, 16:22:41",
+      "https://news.ycombinator.com/item?id=44277245"
+    ],
+    [
+      "SSHTron: A multiplayer lightcycle game that runs through SSH",
+      "https://github.com/zachlatta/sshtron"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 15:49:03",
       "https://news.ycombinator.com/item?id=44277089"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-06-13, 18:03:30",
-      "https://news.ycombinator.com/item?id=44270709"
-    ],
-    [
-      "I convinced HP's board to buy Palm and watched them kill it",
-      "https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm"
-    ]
-  ],
-  [
-    [
       "2025-06-13, 16:10:38",
       "https://news.ycombinator.com/item?id=44269822"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-06-11, 20:50:53",
+      "https://news.ycombinator.com/item?id=44251677"
+    ],
+    [
+      "Writing a Truth Oracle in Lisp",
+      "https://lambda-cove.net/posts/truth-oracle-lisp/"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 16:37:09",
       "https://news.ycombinator.com/item?id=44249338"
     ],
@@ -237,16 +247,6 @@
     [
       "Student discovers fungus predicted by Albert Hoffman",
       "https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 20:37:46",
-      "https://news.ycombinator.com/item?id=44241209"
-    ],
-    [
-      "Protecting your code from other people's bugs",
-      "https://doi.org/10.1145/3733699"
     ]
   ],
   [
