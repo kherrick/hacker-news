@@ -2,8 +2,8 @@
 
 * [2025-06-14, 07:43:11](https://news.ycombinator.com/item?id=44274883) - [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
+* [2025-06-14, 06:13:00](https://news.ycombinator.com/item?id=44274563) - [Google Cloud Incident Report – 2025-06-13](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
 * [2025-06-14, 05:43:35](https://news.ycombinator.com/item?id=44274458) - [How to Write the Worst Possible Python Code (Humor)](https://effective-programmer.com/how-to-write-the-worst-possible-python-code-8c6e49816e90?sk=d06d4241ce97a51a969fbce67070f8ba)
-* [2025-06-14, 05:41:12](https://news.ycombinator.com/item?id=44274447) - [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
 * [2025-06-14, 05:14:12](https://news.ycombinator.com/item?id=44274338) - [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
 * [2025-06-14, 04:10:56](https://news.ycombinator.com/item?id=44274133) - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)
 * [2025-06-14, 03:41:14](https://news.ycombinator.com/item?id=44274031) - [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger)
