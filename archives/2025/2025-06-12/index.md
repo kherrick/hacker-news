@@ -44,6 +44,7 @@
 * [2025-06-12, 14:24:28](https://news.ycombinator.com/item?id=44258189) - [It took longer to get the API key](https://algarch.com/blog/the-api-keys-took-longer-than-the-code-why-human-processes-are-the-real-bottleneck-in-ai-development)
 * [2025-06-12, 14:19:43](https://news.ycombinator.com/item?id=44258139) - [Waymo rides cost more than Uber or Lyft – and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
 * [2025-06-12, 14:03:06](https://news.ycombinator.com/item?id=44257946) - [The Problem with AI Welfare](https://substack.com/home/post/p-165615548)
+* [2025-06-12, 13:54:57](https://news.ycombinator.com/item?id=44257862) - [We investigated Amsterdam's attempt to build a 'fair' fraud detection model](https://www.lighthousereports.com/methodology/amsterdam-fairness/)
 * [2025-06-12, 13:51:15](https://news.ycombinator.com/item?id=44257819) - [VisionOS 26 keeps pushing Apple's newest platform toward the future](https://sixcolors.com/post/2025/06/visionos-26-keeps-pushing-apples-newest-platform-toward-the-future/)
 * [2025-06-12, 13:37:06](https://news.ycombinator.com/item?id=44257655) - [Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)](https://github.com/hunterirving/pico-crossing)
 * [2025-06-12, 13:32:56](https://news.ycombinator.com/item?id=44257609) - [Show HN: Vim-like text editor in go. (LSP, TreeSitter, Themes)](https://github.com/firstrow/mcwig)
