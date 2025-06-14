@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-14, 16:22:41](https://news.ycombinator.com/item?id=44277245) - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
+* [2025-06-14, 16:21:09](https://news.ycombinator.com/item?id=44277238) - [Democratic state politician and husband shot dead in targeted attack](https://www.bbc.com/news/live/cvgv4y99n7rt)
 * [2025-06-14, 15:49:03](https://news.ycombinator.com/item?id=44277089) - [What Is Open Source?](https://werd.io/what-is-open-source/)
 * [2025-06-14, 15:43:03](https://news.ycombinator.com/item?id=44277051) - [Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
@@ -21,7 +22,6 @@
 * [2025-06-11, 23:40:10](https://news.ycombinator.com/item?id=44252999) - [Mollusk shell assemblages as a tool for identifying unaltered seagrass beds](https://www.int-res.com/abstracts/meps/v760/meps14839)
 * [2025-06-11, 23:00:50](https://news.ycombinator.com/item?id=44252717) - [Solar Orbiter gets world-first views of the Sun's poles](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles)
 * [2025-06-11, 20:50:53](https://news.ycombinator.com/item?id=44251677) - [Writing a Truth Oracle in Lisp](https://lambda-cove.net/posts/truth-oracle-lisp/)
-* [2025-06-11, 16:37:09](https://news.ycombinator.com/item?id=44249338) - [Whatever Happened to Sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
 * [2025-06-11, 16:33:38](https://news.ycombinator.com/item?id=44249305) - [Texting myself the weather every day](https://bensilverman.co.uk/posts/daily-weather-sms/)
 * [2025-06-11, 14:03:46](https://news.ycombinator.com/item?id=44247759) - [\"Language and Image Minus Cognition.\" Leif Weatherby on LLMs](https://www.jhiblog.org/2025/06/11/language-and-image-minus-cognition-an-interview-with-leif-weatherby/)
 * [2025-06-11, 00:36:00](https://news.ycombinator.com/item?id=44243059) - [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
 * [2025-06-14, 16:22:41](https://news.ycombinator.com/item?id=44277245) - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
+* [2025-06-14, 16:21:09](https://news.ycombinator.com/item?id=44277238) - [Democratic state politician and husband shot dead in targeted attack](https://www.bbc.com/news/live/cvgv4y99n7rt)
 * [2025-06-14, 15:49:03](https://news.ycombinator.com/item?id=44277089) - [What Is Open Source?](https://werd.io/what-is-open-source/)
 * [2025-06-14, 15:43:03](https://news.ycombinator.com/item?id=44277051) - [Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 * [2025-06-14, 14:12:29](https://news.ycombinator.com/item?id=44276552) - [Ask HN: How do you teach your kids about AI?](https://news.ycombinator.com/item?id=44276552)
