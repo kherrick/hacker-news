@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 22:18:46](https://news.ycombinator.com/item?id=44279209) - [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
+* [2025-06-14, 22:12:12](https://news.ycombinator.com/item?id=44279181) - [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
 * [2025-06-14, 20:42:04](https://news.ycombinator.com/item?id=44278689) - [What is systems programming, really? (2018)](https://willcrichton.net/notes/systems-programming/)
 * [2025-06-14, 19:52:38](https://news.ycombinator.com/item?id=44278403) - [Seven replies to the viral Apple reasoning paper – and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)
 * [2025-06-14, 19:27:53](https://news.ycombinator.com/item?id=44278279) - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
