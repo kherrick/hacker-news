@@ -36,6 +36,7 @@
 * [2025-06-11, 16:33:38](https://news.ycombinator.com/item?id=44249305) - [Texting myself the weather every day](https://bensilverman.co.uk/posts/daily-weather-sms/)
 * [2025-06-11, 16:33:35](https://news.ycombinator.com/item?id=44249303) - [Medical Aid in Dying, My Health, and So On](https://blog.the-brannons.com/post/Medical-Aid-in-Dying-My-Health-and-so-on)
 * [2025-06-11, 16:21:49](https://news.ycombinator.com/item?id=44249190) - [Ultra Ethernet Specification v1.0 [pdf]](https://ultraethernet.org/wp-content/uploads/sites/20/2025/06/UE-Specification-6.11.25.pdf)
+* [2025-06-11, 15:56:00](https://news.ycombinator.com/item?id=44248968) - [Debunking HDR [video]](https://yedlin.net/DebunkingHDR/index.html)
 * [2025-06-11, 15:25:25](https://news.ycombinator.com/item?id=44248637) - [Drawing on Tradition: Elena Izcue's Peruvian Art in the School](https://publicdomainreview.org/collection/peruvian-art-in-the-school/)
 * [2025-06-11, 14:43:38](https://news.ycombinator.com/item?id=44248167) - [Compiler Explorer Cost Transparency](https://xania.org/202506/compiler-explorer-cost-transparency)
 * [2025-06-11, 14:43:27](https://news.ycombinator.com/item?id=44248165) - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
