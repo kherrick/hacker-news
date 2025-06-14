@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 05:14:12](https://news.ycombinator.com/item?id=44274338) - [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
 * [2025-06-14, 04:10:56](https://news.ycombinator.com/item?id=44274133) - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)
 * [2025-06-14, 03:58:38](https://news.ycombinator.com/item?id=44274090) - [For All That Is Good About Humankind, Ban Smartphones](https://jacobin.com/2025/06/ban-smartphones-tech-society/)
 * [2025-06-14, 03:41:14](https://news.ycombinator.com/item?id=44274031) - [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger)
