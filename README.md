@@ -18,7 +18,6 @@
 * [2025-06-13, 16:10:38](https://news.ycombinator.com/item?id=44269822) - [Peano arithmetic is enough, because Peano arithmetic  encodes computation](https://math.stackexchange.com/a/5075056/6708)
 * [2025-06-13, 15:14:20](https://news.ycombinator.com/item?id=44269289) - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
-* [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
 * [2025-06-13, 13:51:42](https://news.ycombinator.com/item?id=44268547) - [The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More](https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The international standard for identifying postal items](https://www.akpain.net/blog/s10-upu/)
@@ -30,6 +29,7 @@
 * [2025-06-10, 15:00:54](https://news.ycombinator.com/item?id=44237654) - [Me an' Algernon – grappling with (temporary) cognitive decline](https://tidyfirst.substack.com/p/me-an-algernon)
 * [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
 * [2025-06-10, 05:56:23](https://news.ycombinator.com/item?id=44233063) - [TimeGuessr](https://timeguessr.com/)
+* [2025-06-08, 13:36:11](https://news.ycombinator.com/item?id=44216921) - [The Many Sides of Erik Satie](https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/)
 
 ## [Archives](archives/index.md)
 
