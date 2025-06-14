@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 15:43:03](https://news.ycombinator.com/item?id=44277051) - [Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 * [2025-06-14, 14:12:29](https://news.ycombinator.com/item?id=44276552) - [Ask HN: How do you teach your kids about AI?](https://news.ycombinator.com/item?id=44276552)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 * [2025-06-14, 12:45:39](https://news.ycombinator.com/item?id=44276103) - [\"Exploring the Amiga\" blog series (2018)](https://www.thedigitalcatonline.com/categories/amiga/)
