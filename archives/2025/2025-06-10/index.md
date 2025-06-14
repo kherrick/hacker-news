@@ -59,6 +59,7 @@
 * [2025-06-10, 10:27:50](https://news.ycombinator.com/item?id=44234971) - [RISC-V in AI and HPC Part 1: Per Aspera Ad Astra?](https://www.eetimes.com/risc-v-in-ai-and-hpc-part-1-per-aspera-ad-astra/)
 * [2025-06-10, 09:30:44](https://news.ycombinator.com/item?id=44234552) - [The Danish Ministry of Digitalization Is Switching to Linux and LibreOffice](https://politiken.dk/viden/tech/art10437680/Caroline-Stage-udfaser-Microsoft-i-Digitaliseringsministeriet)
 * [2025-06-10, 08:56:30](https://news.ycombinator.com/item?id=44234290) - [Denmark: Minister for Digitalization wants to phase out Microsoft](https://nordjyske.dk/nyheder/politik/digitaliseringsminister-vil-udfase-microsoft-i-sit-eget-ministerium/5616096)
+* [2025-06-10, 08:56:03](https://news.ycombinator.com/item?id=44234286) - [Shaping Light – Volumetric Lighting](https://blog.maximeheckel.com/posts/shaping-light-volumetric-lighting-with-post-processing-and-raymarching/)
 * [2025-06-10, 08:43:01](https://news.ycombinator.com/item?id=44234189) - [How to not use AI to code for you](https://mandaputtra.id/posts/how-to-not-using-ai-to-code/)
 * [2025-06-10, 08:38:11](https://news.ycombinator.com/item?id=44234160) - [Mozilla shuts down even more Firefox services](https://www.neowin.net/news/mozilla-shuts-down-even-more-firefox-services-you-might-still-be-using/)
 * [2025-06-10, 08:24:44](https://news.ycombinator.com/item?id=44234080) - [Rust compiler performance](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
