@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-06-14, 03:58:38",
-      "https://news.ycombinator.com/item?id=44274090"
-    ],
-    [
-      "For All That Is Good About Humankind, Ban Smartphones",
-      "https://jacobin.com/2025/06/ban-smartphones-tech-society/"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 03:41:14",
       "https://news.ycombinator.com/item?id=44274031"
     ],
@@ -37,16 +27,6 @@
     [
       "SIMD-friendly algorithms for substring searching",
       "http://0x80.pl/notesen/2016-11-28-simd-strfind.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 03:26:35",
-      "https://news.ycombinator.com/item?id=44273982"
-    ],
-    [
-      "Building a WordPress MCP Server for Claude: Automating Blog Posts with AI",
-      "https://val.demar.in/2025/06/building-a-wordpress-mcp-server-for-claude-automating-blog-posts-with-ai/"
     ]
   ],
   [
@@ -81,16 +61,6 @@
   ],
   [
     [
-      "2025-06-14, 02:22:54",
-      "https://news.ycombinator.com/item?id=44273790"
-    ],
-    [
-      "The Tech Job Meltdown",
-      "https://www.professoraxelrod.com/p/the-tech-job-meltdown"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 02:00:23",
       "https://news.ycombinator.com/item?id=44273713"
     ],
@@ -105,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44272933"
     ],
     [
-      "Endometriosis is an incredibly interesting disease",
+      "Endometriosis is an interesting disease",
       "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting"
     ]
   ],
@@ -231,12 +201,32 @@
   ],
   [
     [
+      "2025-06-13, 01:37:17",
+      "https://news.ycombinator.com/item?id=44264958"
+    ],
+    [
+      "Jemalloc Postmortem",
+      "https://jasone.github.io/2025/06/12/jemalloc-postmortem/"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 15:02:23",
       "https://news.ycombinator.com/item?id=44258633"
     ],
     [
-      "The International Standard for Identifying Postal Items",
+      "The international standard for identifying postal items",
       "https://www.akpain.net/blog/s10-upu/"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 22:14:18",
+      "https://news.ycombinator.com/item?id=44252409"
+    ],
+    [
+      "AI Isn't Magic, It's Maths",
+      "https://zerofluff.substack.com/p/ai-isnt-magic-its-maths"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Liquid Glass – WWDC25 [video]",
       "https://developer.apple.com/videos/play/wwdc2025/219"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 08:56:03",
+      "https://news.ycombinator.com/item?id=44234286"
+    ],
+    [
+      "Shaping Light – Volumetric Lighting",
+      "https://blog.maximeheckel.com/posts/shaping-light-volumetric-lighting-with-post-processing-and-raymarching/"
     ]
   ]
 ]
