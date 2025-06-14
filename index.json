@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-14, 22:18:46",
+      "https://news.ycombinator.com/item?id=44279209"
+    ],
+    [
+      "Clinical knowledge in LLMs does not translate to human interactions",
+      "https://arxiv.org/pdf/2504.18919"
+    ]
+  ],
+  [
+    [
+      "2025-06-14, 22:12:12",
+      "https://news.ycombinator.com/item?id=44279181"
+    ],
+    [
+      "Infinite Grid of Resistors",
+      "https://www.mathpages.com/home/kmath668/kmath668.htm"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 20:42:04",
       "https://news.ycombinator.com/item?id=44278689"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44278403"
     ],
     [
-      "Seven replies to the viral Apple reasoning paper – and why they fall short",
+      "Seven replies to the viral Apple reasoning paper and why they fall short",
       "https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "Solidroad (YC W25) Is Hiring",
       "https://solidroad.com/careers"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 07:20:17",
-      "https://news.ycombinator.com/item?id=44274784"
-    ],
-    [
-      "Strace Tips for Better Debugging",
-      "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=44247759"
     ],
     [
-      "\"Language and Image Minus Cognition.\" Leif Weatherby on LLMs",
+      "“Language and Image Minus Cognition”: An Interview with Leif Weatherby",
       "https://www.jhiblog.org/2025/06/11/language-and-image-minus-cognition-an-interview-with-leif-weatherby/"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Slowing the flow of core-dump-related CVEs",
       "https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 11:48:47",
-      "https://news.ycombinator.com/item?id=44235612"
-    ],
-    [
-      "Liquid Glass – WWDC25 [video]",
-      "https://developer.apple.com/videos/play/wwdc2025/219"
     ]
   ],
   [
