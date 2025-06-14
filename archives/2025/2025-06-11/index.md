@@ -41,6 +41,7 @@
 * [2025-06-11, 14:25:05](https://news.ycombinator.com/item?id=44247964) - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
 * [2025-06-11, 14:15:54](https://news.ycombinator.com/item?id=44247881) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
 * [2025-06-11, 14:04:50](https://news.ycombinator.com/item?id=44247768) - [Use of GLP-1 RAs is associated with a 2-fold higher risk of Macular Degeneration](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2834964)
+* [2025-06-11, 14:03:46](https://news.ycombinator.com/item?id=44247759) - [\"Language and Image Minus Cognition.\" Leif Weatherby on LLMs](https://www.jhiblog.org/2025/06/11/language-and-image-minus-cognition-an-interview-with-leif-weatherby/)
 * [2025-06-11, 13:38:00](https://news.ycombinator.com/item?id=44247507) - [S5cmd: Parallel S3 and local filesystem execution tool](https://github.com/peak/s5cmd)
 * [2025-06-11, 13:37:31](https://news.ycombinator.com/item?id=44247501) - [DeskHog, an open-source developer toy](https://posthog.com/deskhog)
 * [2025-06-11, 13:16:36](https://news.ycombinator.com/item?id=44247292) - [Rewriting Unix Philosophy for the Post-AI Era](https://gizvault.com/archives/unix-philo-for-past-ai-era)
