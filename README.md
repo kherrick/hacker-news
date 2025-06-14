@@ -21,15 +21,15 @@
 * [2025-06-13, 14:46:15](https://news.ycombinator.com/item?id=44269002) - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:20:38](https://news.ycombinator.com/item?id=44268782) - [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 * [2025-06-13, 14:04:35](https://news.ycombinator.com/item?id=44268644) - [Show HN: Tattoy – a text-based terminal compositor](https://tattoy.sh)
-* [2025-06-13, 13:09:56](https://news.ycombinator.com/item?id=44268197) - [Meta invests $14.3B in Scale AI to kick-start superintelligence lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
+* [2025-06-13, 13:42:45](https://news.ycombinator.com/item?id=44268448) - [Ask HN: How do I give back to people helped me when I was young and had nothing?](https://news.ycombinator.com/item?id=44268448)
 * [2025-06-13, 08:40:05](https://news.ycombinator.com/item?id=44266828) - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The International Standard for Identifying Postal Items](https://www.akpain.net/blog/s10-upu/)
 * [2025-06-11, 16:37:09](https://news.ycombinator.com/item?id=44249338) - [Whatever Happened to Sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
 * [2025-06-11, 07:52:37](https://news.ycombinator.com/item?id=44245218) - [God is hungry for Context: First thoughts on o3 pro](https://www.latent.space/p/o3-pro)
 * [2025-06-11, 00:36:00](https://news.ycombinator.com/item?id=44243059) - [Student discovers fungus predicted by Albert Hoffman](https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor)
+* [2025-06-10, 22:19:50](https://news.ycombinator.com/item?id=44242125) - [EDAN: Towards Understanding Memory Parallelism and Latency Sensitivity in HPC [pdf]](https://spcl.inf.ethz.ch/Publications/.pdf/shen-ics-2025-edan.pdf)
 * [2025-06-10, 21:43:33](https://news.ycombinator.com/item?id=44241797) - [High-speed fluorescence light field tomography of whole freely moving organisms](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-5-674&id=570897)
 * [2025-06-10, 11:48:47](https://news.ycombinator.com/item?id=44235612) - [Liquid Glass – WWDC25 [video]](https://developer.apple.com/videos/play/wwdc2025/219)
-* [2025-06-07, 11:25:02](https://news.ycombinator.com/item?id=44208938) - [The concurrency trap: How an atomic counter stalled a pipeline](https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/)
 
 ## [Archives](archives/index.md)
 
