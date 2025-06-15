@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
+* [2025-06-15, 11:20:45](https://news.ycombinator.com/item?id=44281733) - [Show HN: Tool shows why 1.3B people can't use your website](https://accessibility-lens.lovable.app/)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 11:06:44](https://news.ycombinator.com/item?id=44281679) - [The launch of ChatGPT polluted the world forever](https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/)
 * [2025-06-15, 10:11:05](https://news.ycombinator.com/item?id=44281505) - [Ireland became the Saudi Arabia of siphoned-off global profits](https://www.economist.com/europe/2025/06/12/how-ireland-became-the-saudi-arabia-of-siphoned-off-global-profits)
