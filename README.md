@@ -2,12 +2,12 @@
 
 * [2025-06-15, 20:21:52](https://news.ycombinator.com/item?id=44284723) - [Why it's nearly impossible to buy an original Bob Ross painting](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [2025-06-15, 20:13:54](https://news.ycombinator.com/item?id=44284693) - [IPOChatter: Track Prospective Tech IPOs](https://ipochatter.com)
+* [2025-06-15, 20:05:14](https://news.ycombinator.com/item?id=44284639) - [McKinsey Leans on AI to Make PowerPoints, Draft Proposals](https://www.bloomberg.com/news/articles/2025-06-02/mckinsey-leans-on-ai-to-make-powerpoints-faster-draft-proposals)
 * [2025-06-15, 19:55:29](https://news.ycombinator.com/item?id=44284594) - [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
 * [2025-06-15, 19:55:09](https://news.ycombinator.com/item?id=44284592) - [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
 * [2025-06-15, 19:46:16](https://news.ycombinator.com/item?id=44284544) - [Show HN: Pipo360 – Generate production-ready back end APIs in 60 seconds with AI](https://pipo360.xyz)
 * [2025-06-15, 19:36:32](https://news.ycombinator.com/item?id=44284493) - [Show HN: Seastar – Build and dependency manager for C/C++ with Cargo's features](https://github.com/AI314159/Seastar)
 * [2025-06-15, 19:33:43](https://news.ycombinator.com/item?id=44284466) - [Telephone Exchanges in the UK](https://telephone-exchanges.org.uk/)
-* [2025-06-15, 19:02:17](https://news.ycombinator.com/item?id=44284291) - [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
 * [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
 * [2025-06-15, 16:53:02](https://news.ycombinator.com/item?id=44283354) - [Studio Ghibli marks 40 years, but future looks uncertain](https://www.japantimes.co.jp/culture/2025/06/06/film/ghibli-anniversary-40/)
 * [2025-06-15, 16:36:27](https://news.ycombinator.com/item?id=44283239) - [The experience continues until you stop experiencing it](https://strangemachine.tv/safespace/popov/)
