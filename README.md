@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-15, 02:17:42](https://news.ycombinator.com/item?id=44280113) - [Large language models often know when they are being evaluated](https://arxiv.org/abs/2505.23836)
 * [2025-06-15, 01:29:58](https://news.ycombinator.com/item?id=44279978) - [Sperm are very different from all other cells](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
 * [2025-06-15, 00:56:54](https://news.ycombinator.com/item?id=44279850) - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 * [2025-06-14, 23:40:46](https://news.ycombinator.com/item?id=44279579) - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
@@ -24,6 +23,7 @@
 * [2025-06-12, 13:54:57](https://news.ycombinator.com/item?id=44257862) - [We investigated Amsterdam's attempt to build a 'fair' fraud detection model](https://www.lighthousereports.com/methodology/amsterdam-fairness/)
 * [2025-06-11, 23:00:50](https://news.ycombinator.com/item?id=44252717) - [Solar Orbiter gets world-first views of the Sun's poles](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles)
 * [2025-06-11, 15:56:00](https://news.ycombinator.com/item?id=44248968) - [Debunking HDR [video]](https://yedlin.net/DebunkingHDR/index.html)
+* [2025-06-11, 12:42:50](https://news.ycombinator.com/item?id=44247020) - [CI/CD Observability with OpenTelemetry Step by Step Guide](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
 * [2025-06-11, 10:46:34](https://news.ycombinator.com/item?id=44246187) - [Bioprospectors mine microbial genomes for antibiotic gold](https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06)
 * [2025-06-11, 06:13:49](https://news.ycombinator.com/item?id=44244675) - [Chicken Eyeglasses](https://en.wikipedia.org/wiki/Chicken_eyeglasses)
 * [2025-06-11, 05:58:29](https://news.ycombinator.com/item?id=44244595) - [Cray versus Raspberry Pi](https://www.aardvark.co.nz/daily/2025/0611.shtml)

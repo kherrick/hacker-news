@@ -51,6 +51,7 @@
 * [2025-06-11, 12:56:26](https://news.ycombinator.com/item?id=44247124) - [Mapbox Geospatial MCP Server](https://github.com/mapbox/mcp-server)
 * [2025-06-11, 12:55:43](https://news.ycombinator.com/item?id=44247119) - [OpenPlanetData – Free Daily Planet OSM PBF and GOL Indexed Snapshots](https://openplanetdata.com)
 * [2025-06-11, 12:44:15](https://news.ycombinator.com/item?id=44247029) - [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
+* [2025-06-11, 12:42:50](https://news.ycombinator.com/item?id=44247020) - [CI/CD Observability with OpenTelemetry Step by Step Guide](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
 * [2025-06-11, 12:37:18](https://news.ycombinator.com/item?id=44246977) - [Why common climate messaging backfires](https://phys.org/news/2025-06-common-climate-messaging-backfires.html)
 * [2025-06-11, 12:31:15](https://news.ycombinator.com/item?id=44246920) - [Menstrual tracking app data is gold mine for advertisers that risks women safety](https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report)
 * [2025-06-11, 11:44:12](https://news.ycombinator.com/item?id=44246570) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
