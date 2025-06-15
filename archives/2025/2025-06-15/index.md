@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
+* [2025-06-15, 20:21:52](https://news.ycombinator.com/item?id=44284723) - [Why it's nearly impossible to buy an original Bob Ross painting](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [2025-06-15, 19:36:32](https://news.ycombinator.com/item?id=44284493) - [Show HN: Seastar – Build and dependency manager for C/C++ with Cargo's features](https://github.com/AI314159/Seastar)
 * [2025-06-15, 19:33:43](https://news.ycombinator.com/item?id=44284466) - [Telephone Exchanges in the UK](https://telephone-exchanges.org.uk/)
 * [2025-06-15, 19:02:17](https://news.ycombinator.com/item?id=44284291) - [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)

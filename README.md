@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 20:21:52](https://news.ycombinator.com/item?id=44284723) - [Why it's nearly impossible to buy an original Bob Ross painting](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [2025-06-15, 19:36:32](https://news.ycombinator.com/item?id=44284493) - [Show HN: Seastar – Build and dependency manager for C/C++ with Cargo's features](https://github.com/AI314159/Seastar)
 * [2025-06-15, 19:33:43](https://news.ycombinator.com/item?id=44284466) - [Telephone Exchanges in the UK](https://telephone-exchanges.org.uk/)
 * [2025-06-15, 19:02:17](https://news.ycombinator.com/item?id=44284291) - [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
 * [2025-06-15, 18:02:25](https://news.ycombinator.com/item?id=44283876) - [Show HN: Tikt.com – Remove the \"OK\" from TikTok URL's to Download as MP3 or MP4](https://tikt.com/)
 * [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
+* [2025-06-15, 16:57:47](https://news.ycombinator.com/item?id=44283388) - [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
 * [2025-06-15, 16:53:02](https://news.ycombinator.com/item?id=44283354) - [Studio Ghibli marks 40 years, but future looks uncertain](https://www.japantimes.co.jp/culture/2025/06/06/film/ghibli-anniversary-40/)
 * [2025-06-15, 16:36:27](https://news.ycombinator.com/item?id=44283239) - [The experience continues until you stop experiencing it](https://strangemachine.tv/safespace/popov/)
 * [2025-06-15, 16:16:12](https://news.ycombinator.com/item?id=44283095) - [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
@@ -13,7 +15,6 @@
 * [2025-06-15, 16:02:22](https://news.ycombinator.com/item?id=44283008) - [Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate](https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/)
 * [2025-06-15, 16:00:43](https://news.ycombinator.com/item?id=44282998) - [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
 * [2025-06-15, 15:40:16](https://news.ycombinator.com/item?id=44282868) - [The Skyscraper That Could Have Toppled over in the Wind (1995)](https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center)
-* [2025-06-15, 14:53:40](https://news.ycombinator.com/item?id=44282591) - [Show HN: Container-compose – A Docker-compose like tool for Apple containers](https://github.com/noghartt/container-compose)
 * [2025-06-15, 14:10:37](https://news.ycombinator.com/item?id=44282378) - [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 * [2025-06-15, 13:39:31](https://news.ycombinator.com/item?id=44282232) - [The Keyset](https://dougengelbart.org/content/view/273/)
 * [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
@@ -29,7 +30,6 @@
 * [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [1k year old 3 sisters crop farm found in Northern Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
 * [2025-06-12, 05:51:10](https://news.ycombinator.com/item?id=44254627) - [Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)](https://github.com/SakanaAI/text-to-lora)
 * [2025-06-11, 16:57:24](https://news.ycombinator.com/item?id=44249511) - [How easy is it for a developer to \"sandbox\" a program?](https://kristaps.bsd.lv/devsecflops/)
-* [2025-06-11, 12:42:50](https://news.ycombinator.com/item?id=44247020) - [GitHub CI/CD observability with OpenTelemetry step by step guide](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
 
 ## [Archives](archives/index.md)
 
