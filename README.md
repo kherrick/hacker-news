@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-15, 18:14:36](https://news.ycombinator.com/item?id=44283973) - [Grandson of John Tyler, 10th President of the US, Died Last Month at Age 96](https://www.msn.com/en-us/news/world/the-last-grandson-of-john-tyler-the-u-s-president-who-took-office-in-1841-just-died-at-age-96/ar-AA1G0waB)
+* [2025-06-15, 19:02:17](https://news.ycombinator.com/item?id=44284291) - [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
 * [2025-06-15, 18:02:25](https://news.ycombinator.com/item?id=44283876) - [Show HN: Tikt.com – Remove the \"OK\" from TikTok URL's to Download as MP3 or MP4](https://tikt.com/)
 * [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
 * [2025-06-15, 16:57:47](https://news.ycombinator.com/item?id=44283388) - [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
@@ -13,6 +13,7 @@
 * [2025-06-15, 16:00:43](https://news.ycombinator.com/item?id=44282998) - [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
 * [2025-06-15, 15:40:16](https://news.ycombinator.com/item?id=44282868) - [The Skyscraper That Could Have Toppled over in the Wind (1995)](https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center)
 * [2025-06-15, 14:53:40](https://news.ycombinator.com/item?id=44282591) - [Show HN: Container-compose – A Docker-compose like tool for Apple containers](https://github.com/noghartt/container-compose)
+* [2025-06-15, 14:10:37](https://news.ycombinator.com/item?id=44282378) - [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 * [2025-06-15, 13:39:31](https://news.ycombinator.com/item?id=44282232) - [The Keyset](https://dougengelbart.org/content/view/273/)
 * [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
 * [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
@@ -24,7 +25,6 @@
 * [2025-06-15, 00:56:54](https://news.ycombinator.com/item?id=44279850) - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 * [2025-06-14, 22:12:12](https://news.ycombinator.com/item?id=44279181) - [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
-* [2025-06-14, 05:37:40](https://news.ycombinator.com/item?id=44274433) - [Show HN: I'm a student built an AI to chat with YouTube videos](https://www.wiyomi.com/explore)
 * [2025-06-14, 04:54:58](https://news.ycombinator.com/item?id=44274280) - [SQLite Date and Time Functions (2007)](https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions)
 * [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [1k year old 3 sisters crop farm found in Northern Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
 * [2025-06-12, 05:51:10](https://news.ycombinator.com/item?id=44254627) - [Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)](https://github.com/SakanaAI/text-to-lora)

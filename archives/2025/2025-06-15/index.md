@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
+* [2025-06-15, 19:02:17](https://news.ycombinator.com/item?id=44284291) - [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
 * [2025-06-15, 18:14:36](https://news.ycombinator.com/item?id=44283973) - [Grandson of John Tyler, 10th President of the US, Died Today at Age 96](https://www.msn.com/en-us/news/world/the-last-grandson-of-john-tyler-the-u-s-president-who-took-office-in-1841-just-died-at-age-96/ar-AA1G0waB)
 * [2025-06-15, 18:02:25](https://news.ycombinator.com/item?id=44283876) - [Show HN: Tikt.com – Remove the \"OK\" from TikTok URL's to Download as MP3 or MP4](https://tikt.com/)
 * [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
@@ -22,6 +23,7 @@
 * [2025-06-15, 15:03:24](https://news.ycombinator.com/item?id=44282657) - [Nvidia CEO criticizes Anthropic boss over his statements on AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created)
 * [2025-06-15, 14:53:40](https://news.ycombinator.com/item?id=44282591) - [Show HN: Container-compose – A Docker-compose like tool for Apple containers](https://github.com/noghartt/container-compose)
 * [2025-06-15, 14:11:18](https://news.ycombinator.com/item?id=44282384) - [That 'unsubscribe' button may be a scam](https://www.popsci.com/technology/email-unsubscribe-scam/)
+* [2025-06-15, 14:10:37](https://news.ycombinator.com/item?id=44282378) - [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 * [2025-06-15, 13:39:31](https://news.ycombinator.com/item?id=44282232) - [The Keyset](https://dougengelbart.org/content/view/273/)
 * [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
 * [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
