@@ -2,6 +2,7 @@
 
 * [2025-06-15, 20:21:52](https://news.ycombinator.com/item?id=44284723) - [Why it's nearly impossible to buy an original Bob Ross painting](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [2025-06-15, 20:13:54](https://news.ycombinator.com/item?id=44284693) - [IPOChatter: Track Prospective Tech IPOs](https://ipochatter.com)
+* [2025-06-15, 20:07:27](https://news.ycombinator.com/item?id=44284657) - [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
 * [2025-06-15, 20:05:14](https://news.ycombinator.com/item?id=44284639) - [McKinsey Leans on AI to Make PowerPoints, Draft Proposals](https://www.bloomberg.com/news/articles/2025-06-02/mckinsey-leans-on-ai-to-make-powerpoints-faster-draft-proposals)
 * [2025-06-15, 19:55:29](https://news.ycombinator.com/item?id=44284594) - [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
 * [2025-06-15, 19:55:09](https://news.ycombinator.com/item?id=44284592) - [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
@@ -17,7 +18,6 @@
 * [2025-06-15, 16:02:22](https://news.ycombinator.com/item?id=44283008) - [Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate](https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/)
 * [2025-06-15, 16:00:43](https://news.ycombinator.com/item?id=44282998) - [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
 * [2025-06-15, 15:40:16](https://news.ycombinator.com/item?id=44282868) - [The Skyscraper That Could Have Toppled over in the Wind (1995)](https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center)
-* [2025-06-15, 14:53:40](https://news.ycombinator.com/item?id=44282591) - [Show HN: Container-compose – A Docker-compose like tool for Apple containers](https://github.com/noghartt/container-compose)
 * [2025-06-15, 14:10:37](https://news.ycombinator.com/item?id=44282378) - [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 * [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
 * [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)

@@ -6,6 +6,7 @@
 
 * [2025-06-15, 20:21:52](https://news.ycombinator.com/item?id=44284723) - [Why it's nearly impossible to buy an original Bob Ross painting](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [2025-06-15, 20:13:54](https://news.ycombinator.com/item?id=44284693) - [IPOChatter: Track Prospective Tech IPOs](https://ipochatter.com)
+* [2025-06-15, 20:07:27](https://news.ycombinator.com/item?id=44284657) - [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
 * [2025-06-15, 20:05:14](https://news.ycombinator.com/item?id=44284639) - [McKinsey Leans on AI to Make PowerPoints, Draft Proposals](https://www.bloomberg.com/news/articles/2025-06-02/mckinsey-leans-on-ai-to-make-powerpoints-faster-draft-proposals)
 * [2025-06-15, 20:02:54](https://news.ycombinator.com/item?id=44284626) - [Tell HN: I just made a first ever dollar on my SaaS](https://news.ycombinator.com/item?id=44284626)
 * [2025-06-15, 19:55:29](https://news.ycombinator.com/item?id=44284594) - [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
