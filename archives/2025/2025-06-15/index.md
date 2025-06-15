@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
 * [2025-06-15, 11:06:44](https://news.ycombinator.com/item?id=44281679) - [The launch of ChatGPT polluted the world forever](https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/)
+* [2025-06-15, 10:11:05](https://news.ycombinator.com/item?id=44281505) - [Ireland became the Saudi Arabia of siphoned-off global profits](https://www.economist.com/europe/2025/06/12/how-ireland-became-the-saudi-arabia-of-siphoned-off-global-profits)
 * [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-15, 06:38:37](https://news.ycombinator.com/item?id=44280920) - [Root Cause of the June 12, 2025 Google Cloud Outage](https://twitter.com/0xTib3rius/status/1933702904734429560)
 * [2025-06-15, 05:47:48](https://news.ycombinator.com/item?id=44280796) - [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
