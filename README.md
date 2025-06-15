@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 18:02:25](https://news.ycombinator.com/item?id=44283876) - [Show HN: Tikt.com – Remove the \"OK\" from TikTok URL's to Download as MP3 or MP4](https://tikt.com/)
+* [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
 * [2025-06-15, 16:57:47](https://news.ycombinator.com/item?id=44283388) - [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
 * [2025-06-15, 16:36:27](https://news.ycombinator.com/item?id=44283239) - [The experience continues until you stop experiencing it](https://strangemachine.tv/safespace/popov/)
 * [2025-06-15, 16:16:12](https://news.ycombinator.com/item?id=44283095) - [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
@@ -8,7 +10,6 @@
 * [2025-06-15, 16:02:22](https://news.ycombinator.com/item?id=44283008) - [Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate](https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/)
 * [2025-06-15, 16:00:43](https://news.ycombinator.com/item?id=44282998) - [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
 * [2025-06-15, 15:40:16](https://news.ycombinator.com/item?id=44282868) - [The Skyscraper That Could Have Toppled over in the Wind (1995)](https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center)
-* [2025-06-15, 15:22:35](https://news.ycombinator.com/item?id=44282754) - [Journalists Wary of Travelling to US Due to Palantir Surveillance](https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x)
 * [2025-06-15, 14:53:40](https://news.ycombinator.com/item?id=44282591) - [Show HN: Container-compose – A Docker-compose like tool for Apple containers](https://github.com/noghartt/container-compose)
 * [2025-06-15, 13:39:31](https://news.ycombinator.com/item?id=44282232) - [The Keyset](https://dougengelbart.org/content/view/273/)
 * [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
@@ -25,7 +26,6 @@
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 * [2025-06-14, 06:54:45](https://news.ycombinator.com/item?id=44274696) - [Meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 * [2025-06-14, 04:54:58](https://news.ycombinator.com/item?id=44274280) - [SQLite Date and Time Functions](https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions)
-* [2025-06-12, 19:37:09](https://news.ycombinator.com/item?id=44262227) - [Bits and bobs related to Wireless-Tag's WT32-ETH01 board](https://github.com/egnor/wt32-eth01)
 * [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [1k year old 3 sisters crop farm found in Northern Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
 * [2025-06-12, 05:51:10](https://news.ycombinator.com/item?id=44254627) - [Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)](https://github.com/SakanaAI/text-to-lora)
 * [2025-06-11, 16:57:24](https://news.ycombinator.com/item?id=44249511) - [How easy is it for a developer to \"sandbox\" a program?](https://kristaps.bsd.lv/devsecflops/)
