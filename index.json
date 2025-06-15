@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-06-14, 18:02:41",
-      "https://news.ycombinator.com/item?id=44277764"
-    ],
-    [
-      "Infineon security microcontroller flaw enabled extraction of TPM secret keys",
-      "https://it4sec.substack.com/p/a-flaw-in-infineons-security-microcontrollers"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 15:43:03",
       "https://news.ycombinator.com/item?id=44277051"
     ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=44274001"
     ],
     [
-      "SIMD-friendly algorithms for substring searching (2018)",
+      "SIMD-friendly algorithms for substring searching (2016)",
       "http://0x80.pl/notesen/2016-11-28-simd-strfind.html"
     ]
   ],
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=44260659"
     ],
     [
-      "Have a damaged painting? Restore it in just hours with an AI-generated \"mask\"",
+      "Have a damaged painting? Restore it in just hours with an AI-generated “mask”",
       "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Debunking HDR [video]",
       "https://yedlin.net/DebunkingHDR/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 10:46:34",
+      "https://news.ycombinator.com/item?id=44246187"
+    ],
+    [
+      "Bioprospectors mine microbial genomes for antibiotic gold",
+      "https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06"
     ]
   ],
   [
