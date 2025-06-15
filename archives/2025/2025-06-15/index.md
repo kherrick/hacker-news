@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
+* [2025-06-15, 19:36:32](https://news.ycombinator.com/item?id=44284493) - [Show HN: Seastar – Build and dependency manager for C/C++ with Cargo's features](https://github.com/AI314159/Seastar)
+* [2025-06-15, 19:33:43](https://news.ycombinator.com/item?id=44284466) - [Telephone Exchanges in the UK](https://telephone-exchanges.org.uk/)
 * [2025-06-15, 19:02:17](https://news.ycombinator.com/item?id=44284291) - [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
 * [2025-06-15, 18:57:30](https://news.ycombinator.com/item?id=44284261) - [Apple Completes Migration of Key Service to Swift, Gains 40% Performance Uplift](https://www.infoq.com/news/2025/06/apple-swift-migration/)
 * [2025-06-15, 18:14:36](https://news.ycombinator.com/item?id=44283973) - [Grandson of John Tyler, 10th President of the US, Died Today at Age 96](https://www.msn.com/en-us/news/world/the-last-grandson-of-john-tyler-the-u-s-president-who-took-office-in-1841-just-died-at-age-96/ar-AA1G0waB)
