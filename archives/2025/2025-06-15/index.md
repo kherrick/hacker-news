@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
+* [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
+* [2025-06-15, 05:47:48](https://news.ycombinator.com/item?id=44280796) - [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
 * [2025-06-15, 04:43:52](https://news.ycombinator.com/item?id=44280588) - [The Tech Plutocrats Dreaming of a Right-Wing San Francisco (2024)](https://newrepublic.com/article/178675/garry-tan-tech-san-francisco)
 * [2025-06-15, 02:17:42](https://news.ycombinator.com/item?id=44280113) - [Large Language Models Often Know When They Are Being Evaluated](https://arxiv.org/abs/2505.23836)
 * [2025-06-15, 01:29:58](https://news.ycombinator.com/item?id=44279978) - [Sperm are very different from all other cells](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
