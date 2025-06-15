@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
 * [2025-06-15, 16:16:12](https://news.ycombinator.com/item?id=44283095) - [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
+* [2025-06-15, 16:08:42](https://news.ycombinator.com/item?id=44283047) - [Red Hat Linux in 1998 (2009)](https://linuxgazette.net/165/laycock.html)
 * [2025-06-15, 16:02:22](https://news.ycombinator.com/item?id=44283008) - [Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate](https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/)
+* [2025-06-15, 16:00:43](https://news.ycombinator.com/item?id=44282998) - [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
 * [2025-06-15, 15:22:35](https://news.ycombinator.com/item?id=44282754) - [Journalists Wary of Travelling to US Due to Palantir Surveillance](https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x)
 * [2025-06-15, 15:10:20](https://news.ycombinator.com/item?id=44282693) - [Mrs. Orcutt's Driveway (2005)](https://www.caranddriver.com/features/a15385694/mrs-orcutts-driveway-204-mph-on-a-double-nickel-road-page-1/)
 * [2025-06-15, 15:07:28](https://news.ycombinator.com/item?id=44282678) - [FAA pick has claimed 'commercial' pilot license he doesn't have](https://www.politico.com/news/2025/06/15/trumps-faa-pick-has-claimed-commercial-pilot-license-he-doesnt-have-00406090)
