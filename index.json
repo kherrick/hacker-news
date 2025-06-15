@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-15, 07:07:42",
+      "https://news.ycombinator.com/item?id=44281016"
+    ],
+    [
+      "The Art of Lisp and Writing",
+      "https://www.dreamsongs.com/ArtOfLisp.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 05:47:48",
+      "https://news.ycombinator.com/item?id=44280796"
+    ],
+    [
+      "The Algebra of an Infinite Grid of Resistors",
+      "https://www.mathpages.com/home/kmath669/kmath669.htm"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 01:29:58",
       "https://news.ycombinator.com/item?id=44279978"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-06-12, 13:54:57",
-      "https://news.ycombinator.com/item?id=44257862"
-    ],
-    [
-      "We investigated Amsterdam's attempt to build a 'fair' fraud detection model",
-      "https://www.lighthousereports.com/methodology/amsterdam-fairness/"
-    ]
-  ],
-  [
-    [
       "2025-06-11, 23:00:50",
       "https://news.ycombinator.com/item?id=44252717"
     ],
@@ -267,16 +277,6 @@
     [
       "Cray versus Raspberry Pi",
       "https://www.aardvark.co.nz/daily/2025/0611.shtml"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 20:07:41",
-      "https://news.ycombinator.com/item?id=44240909"
-    ],
-    [
-      "Slowing the flow of core-dump-related CVEs",
-      "https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/"
     ]
   ],
   [
