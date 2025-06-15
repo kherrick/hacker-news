@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-15, 20:21:52",
+      "https://news.ycombinator.com/item?id=44284723"
+    ],
+    [
+      "Why it's nearly impossible to buy an original Bob Ross painting",
+      "https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 19:36:32",
       "https://news.ycombinator.com/item?id=44284493"
     ],
@@ -47,6 +57,16 @@
     [
       "Simplest C++ Callback, from SumatraPDF",
       "https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 16:57:47",
+      "https://news.ycombinator.com/item?id=44283388"
+    ],
+    [
+      "I want to be a Journey Programmer Again",
+      "https://hexhowells.com/posts/journey.html"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "The Skyscraper That Could Have Toppled over in the Wind (1995)",
       "https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 14:53:40",
-      "https://news.ycombinator.com/item?id=44282591"
-    ],
-    [
-      "Show HN: Container-compose – A Docker-compose like tool for Apple containers",
-      "https://github.com/noghartt/container-compose"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How easy is it for a developer to \"sandbox\" a program?",
       "https://kristaps.bsd.lv/devsecflops/"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 12:42:50",
-      "https://news.ycombinator.com/item?id=44247020"
-    ],
-    [
-      "GitHub CI/CD observability with OpenTelemetry step by step guide",
-      "https://signoz.io/blog/cicd-observability-with-opentelemetry/"
     ]
   ]
 ]
