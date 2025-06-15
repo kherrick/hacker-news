@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
+* [2025-06-15, 06:38:37](https://news.ycombinator.com/item?id=44280920) - [Root Cause of the June 12, 2025 Google Cloud Outage](https://twitter.com/0xTib3rius/status/1933702904734429560)
 * [2025-06-15, 05:47:48](https://news.ycombinator.com/item?id=44280796) - [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
-* [2025-06-15, 01:29:58](https://news.ycombinator.com/item?id=44279978) - [Sperm are very different from all other cells](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
 * [2025-06-15, 00:56:54](https://news.ycombinator.com/item?id=44279850) - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 * [2025-06-14, 23:40:46](https://news.ycombinator.com/item?id=44279579) - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
 * [2025-06-14, 22:18:46](https://news.ycombinator.com/item?id=44279209) - [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
