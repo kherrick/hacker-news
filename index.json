@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-06-13, 16:10:38",
-      "https://news.ycombinator.com/item?id=44269822"
-    ],
-    [
-      "Peano arithmetic is enough, because Peano arithmetic  encodes computation",
-      "https://math.stackexchange.com/a/5075056/6708"
-    ]
-  ],
-  [
-    [
       "2025-06-13, 01:37:59",
       "https://news.ycombinator.com/item?id=44264962"
     ],
@@ -277,6 +267,16 @@
     [
       "Cray versus Raspberry Pi",
       "https://www.aardvark.co.nz/daily/2025/0611.shtml"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 20:07:41",
+      "https://news.ycombinator.com/item?id=44240909"
+    ],
+    [
+      "Slowing the flow of core-dump-related CVEs",
+      "https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/"
     ]
   ],
   [
