@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-15, 02:17:42",
-      "https://news.ycombinator.com/item?id=44280113"
-    ],
-    [
-      "Large language models often know when they are being evaluated",
-      "https://arxiv.org/abs/2505.23836"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 01:29:58",
       "https://news.ycombinator.com/item?id=44279978"
     ],
@@ -237,6 +227,16 @@
     [
       "Debunking HDR [video]",
       "https://yedlin.net/DebunkingHDR/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 12:42:50",
+      "https://news.ycombinator.com/item?id=44247020"
+    ],
+    [
+      "CI/CD Observability with OpenTelemetry Step by Step Guide",
+      "https://signoz.io/blog/cicd-observability-with-opentelemetry/"
     ]
   ],
   [
