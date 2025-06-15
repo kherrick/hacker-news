@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
+* [2025-06-15, 18:14:36](https://news.ycombinator.com/item?id=44283973) - [Grandson of John Tyler, 10th President of the US, Died Today at Age 96](https://www.msn.com/en-us/news/world/the-last-grandson-of-john-tyler-the-u-s-president-who-took-office-in-1841-just-died-at-age-96/ar-AA1G0waB)
 * [2025-06-15, 18:02:25](https://news.ycombinator.com/item?id=44283876) - [Show HN: Tikt.com – Remove the \"OK\" from TikTok URL's to Download as MP3 or MP4](https://tikt.com/)
 * [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
 * [2025-06-15, 16:57:47](https://news.ycombinator.com/item?id=44283388) - [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
+* [2025-06-15, 16:53:02](https://news.ycombinator.com/item?id=44283354) - [Studio Ghibli marks 40 years, but future looks uncertain](https://www.japantimes.co.jp/culture/2025/06/06/film/ghibli-anniversary-40/)
 * [2025-06-15, 16:36:27](https://news.ycombinator.com/item?id=44283239) - [The experience continues until you stop experiencing it](https://strangemachine.tv/safespace/popov/)
 * [2025-06-15, 16:16:12](https://news.ycombinator.com/item?id=44283095) - [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
 * [2025-06-15, 16:16:08](https://news.ycombinator.com/item?id=44283093) - [Datalog in miniKanren](https://deosjr.github.io/dynamicland/datalog.html)
