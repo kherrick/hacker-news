@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-15, 20:21:52](https://news.ycombinator.com/item?id=44284723) - [Why it's nearly impossible to buy an original Bob Ross painting](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [2025-06-15, 20:13:54](https://news.ycombinator.com/item?id=44284693) - [IPOChatter: Track Prospective Tech IPOs](https://ipochatter.com)
 * [2025-06-15, 20:07:27](https://news.ycombinator.com/item?id=44284657) - [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
 * [2025-06-15, 20:05:14](https://news.ycombinator.com/item?id=44284639) - [McKinsey Leans on AI to Make PowerPoints, Draft Proposals](https://www.bloomberg.com/news/articles/2025-06-02/mckinsey-leans-on-ai-to-make-powerpoints-faster-draft-proposals)
@@ -25,6 +24,7 @@
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 10:11:41](https://news.ycombinator.com/item?id=44281506) - [Foundations of Computer Vision](https://visionbook.mit.edu)
 * [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing (2003)](https://www.dreamsongs.com/ArtOfLisp.html)
+* [2025-06-14, 05:46:16](https://news.ycombinator.com/item?id=44274474) - [Synthesis of hafnium carbide via one-step selective laser reaction pyrolysis](https://ceramics.onlinelibrary.wiley.com/doi/10.1111/jace.20650)
 * [2025-06-14, 05:38:07](https://news.ycombinator.com/item?id=44274435) - [Cure Dolly's Japanese Grammar Lessons](https://kellenok.github.io/cure-script/)
 * [2025-06-14, 04:54:58](https://news.ycombinator.com/item?id=44274280) - [SQLite Date and Time Functions (2007)](https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions)
 * [2025-06-12, 18:26:43](https://news.ycombinator.com/item?id=44261118) - [First 2D, non-silicon computer developed](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed)

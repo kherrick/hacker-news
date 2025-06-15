@@ -39,6 +39,7 @@
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
 * [2025-06-14, 06:13:00](https://news.ycombinator.com/item?id=44274563) - [Google Cloud Incident Report – 2025-06-13](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
 * [2025-06-14, 05:46:23](https://news.ycombinator.com/item?id=44274475) - [Builder.ai did not \"fake AI with 700 engineers\"](https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/)
+* [2025-06-14, 05:46:16](https://news.ycombinator.com/item?id=44274474) - [Synthesis of hafnium carbide via one-step selective laser reaction pyrolysis](https://ceramics.onlinelibrary.wiley.com/doi/10.1111/jace.20650)
 * [2025-06-14, 05:43:35](https://news.ycombinator.com/item?id=44274458) - [How to Write the Worst Possible Python Code (Humor)](https://effective-programmer.com/how-to-write-the-worst-possible-python-code-8c6e49816e90?sk=d06d4241ce97a51a969fbce67070f8ba)
 * [2025-06-14, 05:41:12](https://news.ycombinator.com/item?id=44274447) - [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
 * [2025-06-14, 05:39:20](https://news.ycombinator.com/item?id=44274440) - [The Talented Ms. Highsmith](https://yalereview.org/article/working-for-patricia-highsmith)
