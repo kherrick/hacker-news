@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-15, 11:20:45](https://news.ycombinator.com/item?id=44281733) - [Show HN: Tool shows why 1.3B people can't use your website](https://accessibility-lens.lovable.app/)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
+* [2025-06-15, 10:54:20](https://news.ycombinator.com/item?id=44281633) - [An origin trial for a new HTML <permission> element](https://developer.chrome.com/blog/permission-element-origin-trial)
+* [2025-06-15, 09:14:09](https://news.ycombinator.com/item?id=44281371) - [Notes on the History of the Map Tile](https://placing.technology/notes-on-the-history-of-the-map-tile)
+* [2025-06-15, 07:52:49](https://news.ycombinator.com/item?id=44281148) - [Tiny-diffusion: A minimal implementation of probabilistic diffusion models](https://github.com/tanelp/tiny-diffusion)
 * [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-15, 05:47:48](https://news.ycombinator.com/item?id=44280796) - [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
 * [2025-06-15, 00:56:54](https://news.ycombinator.com/item?id=44279850) - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
@@ -10,10 +12,10 @@
 * [2025-06-14, 20:51:11](https://news.ycombinator.com/item?id=44278746) - [AMD's AI Future Is Rack Scale 'Helios'](https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios)
 * [2025-06-14, 15:43:03](https://news.ycombinator.com/item?id=44277051) - [Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
-* [2025-06-14, 12:32:20](https://news.ycombinator.com/item?id=44276041) - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 * [2025-06-14, 07:36:18](https://news.ycombinator.com/item?id=44274854) - [How multiplication is defined in Peano arithmetic](http://devlinsangle.blogspot.com/2011/11/how-multiplication-is-really-defined-in.html)
 * [2025-06-14, 06:54:45](https://news.ycombinator.com/item?id=44274696) - [Meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
+* [2025-06-14, 05:39:20](https://news.ycombinator.com/item?id=44274440) - [The Talented Ms. Highsmith](https://yalereview.org/article/working-for-patricia-highsmith)
 * [2025-06-14, 03:31:18](https://news.ycombinator.com/item?id=44274001) - [SIMD-friendly algorithms for substring searching (2016)](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 * [2025-06-13, 22:40:22](https://news.ycombinator.com/item?id=44272933) - [Endometriosis is an interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
 * [2025-06-13, 01:37:59](https://news.ycombinator.com/item?id=44264962) - [Dance Captcha](https://dance-captcha.vercel.app/)
@@ -28,8 +30,6 @@
 * [2025-06-11, 10:46:34](https://news.ycombinator.com/item?id=44246187) - [Bioprospectors mine microbial genomes for antibiotic gold](https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06)
 * [2025-06-11, 06:13:49](https://news.ycombinator.com/item?id=44244675) - [Chicken Eyeglasses](https://en.wikipedia.org/wiki/Chicken_eyeglasses)
 * [2025-06-11, 05:58:29](https://news.ycombinator.com/item?id=44244595) - [Cray versus Raspberry Pi](https://www.aardvark.co.nz/daily/2025/0611.shtml)
-* [2025-06-10, 05:56:23](https://news.ycombinator.com/item?id=44233063) - [TimeGuessr](https://timeguessr.com/)
-* [2025-06-08, 13:36:11](https://news.ycombinator.com/item?id=44216921) - [The Many Sides of Erik Satie](https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/)
 
 ## [Archives](archives/index.md)
 
