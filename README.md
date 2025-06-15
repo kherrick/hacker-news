@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 16:16:12](https://news.ycombinator.com/item?id=44283095) - [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
+* [2025-06-15, 16:02:22](https://news.ycombinator.com/item?id=44283008) - [Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate](https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/)
 * [2025-06-15, 15:22:35](https://news.ycombinator.com/item?id=44282754) - [Journalists Wary of Travelling to US Due to Palantir Surveillance](https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x)
 * [2025-06-15, 15:07:28](https://news.ycombinator.com/item?id=44282678) - [FAA pick has claimed 'commercial' pilot license he doesn't have](https://www.politico.com/news/2025/06/15/trumps-faa-pick-has-claimed-commercial-pilot-license-he-doesnt-have-00406090)
 * [2025-06-15, 15:03:24](https://news.ycombinator.com/item?id=44282657) - [Nvidia CEO criticizes Anthropic boss over his statements on AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created)
@@ -13,14 +15,13 @@
 * [2025-06-15, 10:11:41](https://news.ycombinator.com/item?id=44281506) - [Foundations of Computer Vision](https://visionbook.mit.edu)
 * [2025-06-15, 09:14:09](https://news.ycombinator.com/item?id=44281371) - [Notes on the History of the Map Tile](https://placing.technology/notes-on-the-history-of-the-map-tile)
 * [2025-06-15, 07:52:49](https://news.ycombinator.com/item?id=44281148) - [Tiny-diffusion: A minimal implementation of probabilistic diffusion models](https://github.com/tanelp/tiny-diffusion)
-* [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
+* [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing (2003)](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-15, 00:56:54](https://news.ycombinator.com/item?id=44279850) - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 * [2025-06-14, 22:12:12](https://news.ycombinator.com/item?id=44279181) - [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
 * [2025-06-14, 20:51:11](https://news.ycombinator.com/item?id=44278746) - [AMD's AI Future Is Rack Scale 'Helios'](https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 * [2025-06-14, 06:54:45](https://news.ycombinator.com/item?id=44274696) - [Meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 * [2025-06-14, 05:39:20](https://news.ycombinator.com/item?id=44274440) - [The Talented Ms. Highsmith](https://yalereview.org/article/working-for-patricia-highsmith)
-* [2025-06-12, 20:51:35](https://news.ycombinator.com/item?id=44263062) - [Cloud outage knocks out internet services across the globe](https://www.zdnet.com/article/massive-cloud-outage-knocks-out-internet-services-across-the-globe/)
 * [2025-06-12, 19:37:09](https://news.ycombinator.com/item?id=44262227) - [Bits and bobs related to Wireless-Tag's WT32-ETH01 board](https://github.com/egnor/wt32-eth01)
 * [2025-06-12, 15:04:52](https://news.ycombinator.com/item?id=44258665) - [Breaking My Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
 * [2025-06-12, 14:19:43](https://news.ycombinator.com/item?id=44258139) - [Waymo rides cost more than Uber or Lyft and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
@@ -29,7 +30,6 @@
 * [2025-06-12, 05:51:10](https://news.ycombinator.com/item?id=44254627) - [Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)](https://github.com/SakanaAI/text-to-lora)
 * [2025-06-11, 23:00:50](https://news.ycombinator.com/item?id=44252717) - [Solar Orbiter gets world-first views of the Sun's poles](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles)
 * [2025-06-11, 12:42:50](https://news.ycombinator.com/item?id=44247020) - [CI/CD Observability with OpenTelemetry Step by Step Guide](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
-* [2025-06-11, 06:13:49](https://news.ycombinator.com/item?id=44244675) - [Chicken Eyeglasses](https://en.wikipedia.org/wiki/Chicken_eyeglasses)
 
 ## [Archives](archives/index.md)
 
