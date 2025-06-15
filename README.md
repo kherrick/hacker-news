@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 12:26:55](https://news.ycombinator.com/item?id=44281958) - [Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI](https://github.com/Kuberwastaken/meow)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 10:54:20](https://news.ycombinator.com/item?id=44281633) - [An origin trial for a new HTML <permission> element](https://developer.chrome.com/blog/permission-element-origin-trial)
 * [2025-06-15, 09:14:09](https://news.ycombinator.com/item?id=44281371) - [Notes on the History of the Map Tile](https://placing.technology/notes-on-the-history-of-the-map-tile)
@@ -19,7 +20,6 @@
 * [2025-06-14, 03:31:18](https://news.ycombinator.com/item?id=44274001) - [SIMD-friendly algorithms for substring searching (2016)](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 * [2025-06-13, 22:40:22](https://news.ycombinator.com/item?id=44272933) - [Endometriosis is an interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
 * [2025-06-13, 01:37:59](https://news.ycombinator.com/item?id=44264962) - [Dance Captcha](https://dance-captcha.vercel.app/)
-* [2025-06-12, 17:59:23](https://news.ycombinator.com/item?id=44260659) - [Have a damaged painting? Restore it in just hours with an AI-generated “mask”](https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611)
 * [2025-06-12, 15:04:52](https://news.ycombinator.com/item?id=44258665) - [Breaking My Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
 * [2025-06-12, 14:19:43](https://news.ycombinator.com/item?id=44258139) - [Waymo rides cost more than Uber or Lyft and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
 * [2025-06-12, 08:15:18](https://news.ycombinator.com/item?id=44255232) - [Ruby on Rails Audit Complete](https://ostif.org/ruby-on-rails-audit-complete/)
