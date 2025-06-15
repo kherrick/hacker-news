@@ -73,6 +73,7 @@
 * [2025-06-12, 09:21:44](https://news.ycombinator.com/item?id=44255602) - [Air India flight to London crashes in Ahmedabad with more than 240 onboard](https://www.theguardian.com/world/live/2025/jun/12/air-india-flight-ai171-plane-crash-ahmedabad-india-latest-updates)
 * [2025-06-12, 09:08:43](https://news.ycombinator.com/item?id=44255527) - [SchemeFlow (YC S24) Is Hiring a Founding Engineer (London) to Speed Up Construction](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack)
 * [2025-06-12, 08:37:22](https://news.ycombinator.com/item?id=44255352) - [Danish Ministry Replaces Windows and Microsoft Office with Linux and LibreOffice](https://www.heise.de/en/news/From-Word-and-Excel-to-LibreOffice-Danish-ministry-says-goodbye-to-Microsoft-10438942.html)
+* [2025-06-12, 08:15:18](https://news.ycombinator.com/item?id=44255232) - [Ruby on Rails Audit Complete](https://ostif.org/ruby-on-rails-audit-complete/)
 * [2025-06-12, 07:52:51](https://news.ycombinator.com/item?id=44255116) - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
 * [2025-06-12, 07:22:23](https://news.ycombinator.com/item?id=44254984) - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
 * [2025-06-12, 07:18:18](https://news.ycombinator.com/item?id=44254963) - [Sam Altman's Lies About ChatGPT Are Growing Bolder](https://gizmodo.com/sam-altmans-lies-about-chatgpt-are-growing-bolder-2000614431)
