@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-15, 16:16:12",
+      "https://news.ycombinator.com/item?id=44283095"
+    ],
+    [
+      "Social anxiety disorder-associated gut microbiota increases social fear",
+      "https://www.pnas.org/doi/abs/10.1073/pnas.2308706120"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 16:02:22",
+      "https://news.ycombinator.com/item?id=44283008"
+    ],
+    [
+      "Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate",
+      "https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 15:22:35",
       "https://news.ycombinator.com/item?id=44282754"
     ],
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=44281016"
     ],
     [
-      "The Art of Lisp and Writing",
+      "The Art of Lisp and Writing (2003)",
       "https://www.dreamsongs.com/ArtOfLisp.html"
     ]
   ],
@@ -197,16 +217,6 @@
     [
       "The Talented Ms. Highsmith",
       "https://yalereview.org/article/working-for-patricia-highsmith"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 20:51:35",
-      "https://news.ycombinator.com/item?id=44263062"
-    ],
-    [
-      "Cloud outage knocks out internet services across the globe",
-      "https://www.zdnet.com/article/massive-cloud-outage-knocks-out-internet-services-across-the-globe/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "CI/CD Observability with OpenTelemetry Step by Step Guide",
       "https://signoz.io/blog/cicd-observability-with-opentelemetry/"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 06:13:49",
-      "https://news.ycombinator.com/item?id=44244675"
-    ],
-    [
-      "Chicken Eyeglasses",
-      "https://en.wikipedia.org/wiki/Chicken_eyeglasses"
     ]
   ]
 ]
