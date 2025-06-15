@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
+* [2025-06-15, 15:22:35](https://news.ycombinator.com/item?id=44282754) - [Journalists Wary of Travelling to US Due to Palantir Surveillance](https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x)
+* [2025-06-15, 15:10:20](https://news.ycombinator.com/item?id=44282693) - [Mrs. Orcutt's Driveway (2005)](https://www.caranddriver.com/features/a15385694/mrs-orcutts-driveway-204-mph-on-a-double-nickel-road-page-1/)
 * [2025-06-15, 15:03:24](https://news.ycombinator.com/item?id=44282657) - [Nvidia CEO criticizes Anthropic boss over his statements on AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created)
 * [2025-06-15, 14:11:18](https://news.ycombinator.com/item?id=44282384) - [That 'unsubscribe' button may be a scam](https://www.popsci.com/technology/email-unsubscribe-scam/)
 * [2025-06-15, 13:39:31](https://news.ycombinator.com/item?id=44282232) - [The Keyset](https://dougengelbart.org/content/view/273/)

@@ -14,6 +14,7 @@
 * [2025-06-12, 20:26:09](https://news.ycombinator.com/item?id=44262799) - [Humans have nasal respiratory fingerprints](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4)
 * [2025-06-12, 20:04:09](https://news.ycombinator.com/item?id=44262537) - [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
 * [2025-06-12, 20:03:42](https://news.ycombinator.com/item?id=44262528) - [Being Full of Value‑Added Shit](https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/)
+* [2025-06-12, 19:37:09](https://news.ycombinator.com/item?id=44262227) - [Bits and bobs related to Wireless-Tag's WT32-ETH01 board](https://github.com/egnor/wt32-eth01)
 * [2025-06-12, 19:05:12](https://news.ycombinator.com/item?id=44261777) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 18:55:00](https://news.ycombinator.com/item?id=44261618) - [Everything Is Down](https://news.ycombinator.com/item?id=44261618)
 * [2025-06-12, 18:52:12](https://news.ycombinator.com/item?id=44261577) - [Emulating an iPhone in QEMU (Part 2)](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)
