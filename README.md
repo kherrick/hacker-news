@@ -12,6 +12,7 @@
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 * [2025-06-14, 12:32:20](https://news.ycombinator.com/item?id=44276041) - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 * [2025-06-14, 10:53:13](https://news.ycombinator.com/item?id=44275559) - [How to Build Conscious Machines](https://osf.io/preprints/thesiscommons/wehmg_v1)
+* [2025-06-14, 07:36:18](https://news.ycombinator.com/item?id=44274854) - [How multiplication is defined in Peano arithmetic](http://devlinsangle.blogspot.com/2011/11/how-multiplication-is-really-defined-in.html)
 * [2025-06-14, 06:54:45](https://news.ycombinator.com/item?id=44274696) - [Meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
 * [2025-06-14, 03:31:18](https://news.ycombinator.com/item?id=44274001) - [SIMD-friendly algorithms for substring searching (2016)](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
@@ -27,7 +28,6 @@
 * [2025-06-11, 10:46:34](https://news.ycombinator.com/item?id=44246187) - [Bioprospectors mine microbial genomes for antibiotic gold](https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06)
 * [2025-06-11, 06:13:49](https://news.ycombinator.com/item?id=44244675) - [Chicken Eyeglasses](https://en.wikipedia.org/wiki/Chicken_eyeglasses)
 * [2025-06-11, 05:58:29](https://news.ycombinator.com/item?id=44244595) - [Cray versus Raspberry Pi](https://www.aardvark.co.nz/daily/2025/0611.shtml)
-* [2025-06-10, 20:07:41](https://news.ycombinator.com/item?id=44240909) - [Slowing the flow of core-dump-related CVEs](https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/)
 * [2025-06-10, 05:56:23](https://news.ycombinator.com/item?id=44233063) - [TimeGuessr](https://timeguessr.com/)
 * [2025-06-08, 13:36:11](https://news.ycombinator.com/item?id=44216921) - [The Many Sides of Erik Satie](https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/)
 
