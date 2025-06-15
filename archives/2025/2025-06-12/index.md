@@ -19,6 +19,7 @@
 * [2025-06-12, 18:55:00](https://news.ycombinator.com/item?id=44261618) - [Everything Is Down](https://news.ycombinator.com/item?id=44261618)
 * [2025-06-12, 18:52:12](https://news.ycombinator.com/item?id=44261577) - [Emulating an iPhone in QEMU (Part 2)](https://eshard.com/posts/emulating-ios-14-with-qemu-part2)
 * [2025-06-12, 18:43:06](https://news.ycombinator.com/item?id=44261426) - [Firebase Global Outage](https://status.firebase.google.com/)
+* [2025-06-12, 18:26:43](https://news.ycombinator.com/item?id=44261118) - [First 2D, non-silicon computer developed](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed)
 * [2025-06-12, 18:24:01](https://news.ycombinator.com/item?id=44261064) - [Cloudflare Investigating Incident](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
 * [2025-06-12, 18:19:13](https://news.ycombinator.com/item?id=44260964) - [Wrong ways to use the databases, when the pendulum swung too far](https://www.luu.io/posts/2025-database-pendulum)
 * [2025-06-12, 18:16:33](https://news.ycombinator.com/item?id=44260903) - [Spaceballs 2 Will See Rick Moranis Return as Dark Helmet](https://www.ign.com/articles/spaceballs-2-plots-a-course-for-2027-with-mel-brooks-in-first-teaser-trailer)

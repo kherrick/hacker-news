@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
 * [2025-06-15, 19:02:17](https://news.ycombinator.com/item?id=44284291) - [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
+* [2025-06-15, 18:57:30](https://news.ycombinator.com/item?id=44284261) - [Apple Completes Migration of Key Service to Swift, Gains 40% Performance Uplift](https://www.infoq.com/news/2025/06/apple-swift-migration/)
 * [2025-06-15, 18:14:36](https://news.ycombinator.com/item?id=44283973) - [Grandson of John Tyler, 10th President of the US, Died Today at Age 96](https://www.msn.com/en-us/news/world/the-last-grandson-of-john-tyler-the-u-s-president-who-took-office-in-1841-just-died-at-age-96/ar-AA1G0waB)
 * [2025-06-15, 18:02:25](https://news.ycombinator.com/item?id=44283876) - [Show HN: Tikt.com – Remove the \"OK\" from TikTok URL's to Download as MP3 or MP4](https://tikt.com/)
 * [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
