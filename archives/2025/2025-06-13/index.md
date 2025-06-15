@@ -54,6 +54,7 @@
 * [2025-06-13, 02:24:54](https://news.ycombinator.com/item?id=44265216) - [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md)
 * [2025-06-13, 02:01:56](https://news.ycombinator.com/item?id=44265105) - [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores)
 * [2025-06-13, 02:01:05](https://news.ycombinator.com/item?id=44265093) - [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)
+* [2025-06-13, 01:37:59](https://news.ycombinator.com/item?id=44264962) - [Dance Captcha](https://dance-captcha.vercel.app/)
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-13, 00:05:00](https://news.ycombinator.com/item?id=44264494) - [Major sugar substitute found to impair brain blood vessel cell function](https://medicalxpress.com/news/2025-06-major-sugar-substitute-impair-brain.html)
 * [2025-06-13, 00:02:00](https://news.ycombinator.com/item?id=44264475) - [Flies grow their gyroscopes: Study reveals how flight stabilizers take shape](https://phys.org/news/2025-06-flies-gyroscopes-reveals-flight-stabilizers.html)

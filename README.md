@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-15, 02:17:42](https://news.ycombinator.com/item?id=44280113) - [Large language models often know when they are being evaluated](https://arxiv.org/abs/2505.23836)
 * [2025-06-15, 01:29:58](https://news.ycombinator.com/item?id=44279978) - [Sperm are very different from all other cells](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
 * [2025-06-15, 00:56:54](https://news.ycombinator.com/item?id=44279850) - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 * [2025-06-14, 23:40:46](https://news.ycombinator.com/item?id=44279579) - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
@@ -17,6 +16,7 @@
 * [2025-06-14, 03:31:18](https://news.ycombinator.com/item?id=44274001) - [SIMD-friendly algorithms for substring searching (2018)](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 * [2025-06-13, 22:40:22](https://news.ycombinator.com/item?id=44272933) - [Endometriosis is an interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
 * [2025-06-13, 16:10:38](https://news.ycombinator.com/item?id=44269822) - [Peano arithmetic is enough, because Peano arithmetic  encodes computation](https://math.stackexchange.com/a/5075056/6708)
+* [2025-06-13, 01:37:59](https://news.ycombinator.com/item?id=44264962) - [Dance Captcha](https://dance-captcha.vercel.app/)
 * [2025-06-13, 00:02:00](https://news.ycombinator.com/item?id=44264475) - [Flies grow their gyroscopes: Study reveals how flight stabilizers take shape](https://phys.org/news/2025-06-flies-gyroscopes-reveals-flight-stabilizers.html)
 * [2025-06-12, 18:19:13](https://news.ycombinator.com/item?id=44260964) - [Wrong ways to use the databases, when the pendulum swung too far](https://www.luu.io/posts/2025-database-pendulum)
 * [2025-06-12, 17:59:23](https://news.ycombinator.com/item?id=44260659) - [Have a damaged painting? Restore it in just hours with an AI-generated \"mask\"](https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611)
