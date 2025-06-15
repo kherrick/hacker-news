@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-06-15, 12:26:55",
-      "https://news.ycombinator.com/item?id=44281958"
-    ],
-    [
-      "Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI",
-      "https://github.com/Kuberwastaken/meow"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 11:18:40",
       "https://news.ycombinator.com/item?id=44281727"
     ],
@@ -237,6 +227,16 @@
     [
       "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
       "https://github.com/yousef-rafat/miniDiffusion"
+    ]
+  ],
+  [
+    [
+      "2025-06-14, 06:54:45",
+      "https://news.ycombinator.com/item?id=44274696"
+    ],
+    [
+      "Meta-analysis of three different notions of software complexity",
+      "https://typesanitizer.com/blog/complexity-definitions.html"
     ]
   ],
   [
