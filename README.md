@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 11:06:44](https://news.ycombinator.com/item?id=44281679) - [The launch of ChatGPT polluted the world forever](https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/)
 * [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-15, 06:38:37](https://news.ycombinator.com/item?id=44280920) - [Root Cause of the June 12, 2025 Google Cloud Outage](https://twitter.com/0xTib3rius/status/1933702904734429560)
 * [2025-06-15, 05:47:48](https://news.ycombinator.com/item?id=44280796) - [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
@@ -7,7 +8,6 @@
 * [2025-06-14, 23:40:46](https://news.ycombinator.com/item?id=44279579) - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
 * [2025-06-14, 22:12:12](https://news.ycombinator.com/item?id=44279181) - [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
 * [2025-06-14, 20:51:11](https://news.ycombinator.com/item?id=44278746) - [AMD's AI Future Is Rack Scale 'Helios'](https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios)
-* [2025-06-14, 19:52:38](https://news.ycombinator.com/item?id=44278403) - [Seven replies to the viral Apple reasoning paper and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)
 * [2025-06-14, 15:43:03](https://news.ycombinator.com/item?id=44277051) - [Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 * [2025-06-14, 12:32:20](https://news.ycombinator.com/item?id=44276041) - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
