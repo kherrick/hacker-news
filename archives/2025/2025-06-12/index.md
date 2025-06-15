@@ -67,6 +67,7 @@
 * [2025-06-12, 10:57:20](https://news.ycombinator.com/item?id=44256169) - [Brazil's Supreme Court makes social media liable for user content](https://economictimes.indiatimes.com/tech/technology/brazils-supreme-court-justices-agree-to-make-social-media-companies-liable-for-user-content/articleshow/121791147.cms?from=mdr)
 * [2025-06-12, 10:34:30](https://news.ycombinator.com/item?id=44256003) - [Altman fluffs superintelligence to save humanity as OpenAI slashes prices](https://www.theregister.com/2025/06/11/openais_sam_altman_superintelligence/)
 * [2025-06-12, 10:20:23](https://news.ycombinator.com/item?id=44255911) - [Next.js 15.1 is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
+* [2025-06-12, 10:11:17](https://news.ycombinator.com/item?id=44255867) - [Cyborg Embryos Offer New Insights into Brain Growth](https://spectrum.ieee.org/embryo-electrode-array)
 * [2025-06-12, 09:52:10](https://news.ycombinator.com/item?id=44255770) - [Peeling the Covers Off Germany's Exascale \"Jupiter\" Supercomputer](https://www.nextplatform.com/2025/06/11/peeling-the-covers-off-germanys-exascale-jupiter-supercomputer/)
 * [2025-06-12, 09:50:01](https://news.ycombinator.com/item?id=44255759) - [Ask HN: Minecraft's UI element style (vs. modern flat glass interface)](https://news.ycombinator.com/item?id=44255759)
 * [2025-06-12, 09:43:47](https://news.ycombinator.com/item?id=44255728) - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)

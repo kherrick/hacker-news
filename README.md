@@ -5,7 +5,6 @@
 * [2025-06-15, 20:07:27](https://news.ycombinator.com/item?id=44284657) - [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
 * [2025-06-15, 19:55:29](https://news.ycombinator.com/item?id=44284594) - [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
 * [2025-06-15, 19:55:09](https://news.ycombinator.com/item?id=44284592) - [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
-* [2025-06-15, 19:46:16](https://news.ycombinator.com/item?id=44284544) - [Show HN: Pipo360 – Generate production-ready back end APIs in 60 seconds with AI](https://pipo360.xyz)
 * [2025-06-15, 19:36:32](https://news.ycombinator.com/item?id=44284493) - [Show HN: Seastar – Build and dependency manager for C/C++ with Cargo's features](https://github.com/AI314159/Seastar)
 * [2025-06-15, 19:33:43](https://news.ycombinator.com/item?id=44284466) - [Telephone Exchanges in the UK](https://telephone-exchanges.org.uk/)
 * [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
@@ -29,6 +28,7 @@
 * [2025-06-14, 04:54:58](https://news.ycombinator.com/item?id=44274280) - [SQLite Date and Time Functions (2007)](https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions)
 * [2025-06-12, 18:26:43](https://news.ycombinator.com/item?id=44261118) - [First 2D, non-silicon computer developed](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed)
 * [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [Fields where Native Americans farmed 1000 years ago discovered in Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
+* [2025-06-12, 10:11:17](https://news.ycombinator.com/item?id=44255867) - [Cyborg Embryos Offer New Insights into Brain Growth](https://spectrum.ieee.org/embryo-electrode-array)
 * [2025-06-12, 05:51:10](https://news.ycombinator.com/item?id=44254627) - [Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)](https://github.com/SakanaAI/text-to-lora)
 
 ## [Archives](archives/index.md)
