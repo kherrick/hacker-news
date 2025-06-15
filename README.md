@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 13:39:31](https://news.ycombinator.com/item?id=44282232) - [The Keyset](https://dougengelbart.org/content/view/273/)
+* [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
 * [2025-06-15, 12:40:07](https://news.ycombinator.com/item?id=44282017) - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
 * [2025-06-15, 12:26:55](https://news.ycombinator.com/item?id=44281958) - [Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI](https://github.com/Kuberwastaken/meow)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
@@ -18,7 +20,6 @@
 * [2025-06-14, 06:54:45](https://news.ycombinator.com/item?id=44274696) - [Meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
 * [2025-06-14, 05:39:20](https://news.ycombinator.com/item?id=44274440) - [The Talented Ms. Highsmith](https://yalereview.org/article/working-for-patricia-highsmith)
-* [2025-06-12, 17:59:23](https://news.ycombinator.com/item?id=44260659) - [Have a damaged painting? Restore it in just hours with an AI-generated “mask”](https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611)
 * [2025-06-12, 15:04:52](https://news.ycombinator.com/item?id=44258665) - [Breaking My Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
 * [2025-06-12, 14:19:43](https://news.ycombinator.com/item?id=44258139) - [Waymo rides cost more than Uber or Lyft and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
 * [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [1k year old 3 sisters crop farm found in Northern Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
@@ -29,7 +30,6 @@
 * [2025-06-11, 12:42:50](https://news.ycombinator.com/item?id=44247020) - [CI/CD Observability with OpenTelemetry Step by Step Guide](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
 * [2025-06-11, 10:46:34](https://news.ycombinator.com/item?id=44246187) - [Bioprospectors mine microbial genomes for antibiotic gold](https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06)
 * [2025-06-11, 06:13:49](https://news.ycombinator.com/item?id=44244675) - [Chicken Eyeglasses](https://en.wikipedia.org/wiki/Chicken_eyeglasses)
-* [2025-06-11, 05:58:29](https://news.ycombinator.com/item?id=44244595) - [Cray versus Raspberry Pi](https://www.aardvark.co.nz/daily/2025/0611.shtml)
 
 ## [Archives](archives/index.md)
 
