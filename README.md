@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 23:01:38](https://news.ycombinator.com/item?id=44285521) - [First-Ever Supercritical CO2 Circuit Breaker Debuts](https://spectrum.ieee.org/sf6-gas-replacement)
 * [2025-06-15, 21:21:28](https://news.ycombinator.com/item?id=44285054) - [David Attenborough at 99: 'I will not see how the story ends'](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
 * [2025-06-15, 20:21:52](https://news.ycombinator.com/item?id=44284723) - [It’s nearly impossible to buy an original Bob Ross painting (2021)](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [2025-06-15, 20:07:27](https://news.ycombinator.com/item?id=44284657) - [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
@@ -19,7 +20,6 @@
 * [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
 * [2025-06-15, 12:40:07](https://news.ycombinator.com/item?id=44282017) - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
-* [2025-06-15, 10:54:20](https://news.ycombinator.com/item?id=44281633) - [An origin trial for a new HTML <permission> element (2024)](https://developer.chrome.com/blog/permission-element-origin-trial)
 * [2025-06-15, 10:11:41](https://news.ycombinator.com/item?id=44281506) - [Foundations of Computer Vision](https://visionbook.mit.edu)
 * [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing (2003)](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-14, 05:46:16](https://news.ycombinator.com/item?id=44274474) - [Synthesis of hafnium carbide via one-step selective laser reaction pyrolysis](https://ceramics.onlinelibrary.wiley.com/doi/10.1111/jace.20650)
