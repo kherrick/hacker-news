@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 21:21:28](https://news.ycombinator.com/item?id=44285054) - [David Attenborough at 99: 'I will not see how the story ends'](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
 * [2025-06-15, 20:21:52](https://news.ycombinator.com/item?id=44284723) - [It’s nearly impossible to buy an original Bob Ross painting (2021)](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
-* [2025-06-15, 20:13:54](https://news.ycombinator.com/item?id=44284693) - [IPOChatter: Track Prospective Tech IPOs](https://ipochatter.com)
 * [2025-06-15, 20:07:27](https://news.ycombinator.com/item?id=44284657) - [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
 * [2025-06-15, 19:55:29](https://news.ycombinator.com/item?id=44284594) - [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
 * [2025-06-15, 19:55:09](https://news.ycombinator.com/item?id=44284592) - [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
@@ -28,7 +28,7 @@
 * [2025-06-14, 05:38:07](https://news.ycombinator.com/item?id=44274435) - [Cure Dolly's Japanese Grammar Lessons](https://kellenok.github.io/cure-script/)
 * [2025-06-14, 04:54:58](https://news.ycombinator.com/item?id=44274280) - [SQLite Date and Time Functions (2007)](https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions)
 * [2025-06-12, 18:26:43](https://news.ycombinator.com/item?id=44261118) - [First 2D, non-silicon computer developed](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed)
-* [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [1k year old 3 sisters crop farm found in Northern Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
+* [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [Fields where Native Americans farmed 1000 years ago discovered in Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
 * [2025-06-12, 05:51:10](https://news.ycombinator.com/item?id=44254627) - [Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)](https://github.com/SakanaAI/text-to-lora)
 
 ## [Archives](archives/index.md)
