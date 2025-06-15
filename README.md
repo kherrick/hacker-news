@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 02:17:42](https://news.ycombinator.com/item?id=44280113) - [Large language models often know when they are being evaluated](https://arxiv.org/abs/2505.23836)
 * [2025-06-15, 01:29:58](https://news.ycombinator.com/item?id=44279978) - [Sperm are very different from all other cells](https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm)
 * [2025-06-15, 00:56:54](https://news.ycombinator.com/item?id=44279850) - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 * [2025-06-14, 23:40:46](https://news.ycombinator.com/item?id=44279579) - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
@@ -27,7 +28,6 @@
 * [2025-06-11, 15:56:00](https://news.ycombinator.com/item?id=44248968) - [Debunking HDR [video]](https://yedlin.net/DebunkingHDR/index.html)
 * [2025-06-11, 06:13:49](https://news.ycombinator.com/item?id=44244675) - [Chicken Eyeglasses](https://en.wikipedia.org/wiki/Chicken_eyeglasses)
 * [2025-06-11, 05:58:29](https://news.ycombinator.com/item?id=44244595) - [Cray versus Raspberry Pi](https://www.aardvark.co.nz/daily/2025/0611.shtml)
-* [2025-06-10, 20:07:41](https://news.ycombinator.com/item?id=44240909) - [Slowing the flow of core-dump-related CVEs](https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/)
 * [2025-06-10, 05:56:23](https://news.ycombinator.com/item?id=44233063) - [TimeGuessr](https://timeguessr.com/)
 * [2025-06-08, 13:36:11](https://news.ycombinator.com/item?id=44216921) - [The Many Sides of Erik Satie](https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/)
 
