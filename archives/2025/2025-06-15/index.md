@@ -14,6 +14,7 @@
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 11:06:44](https://news.ycombinator.com/item?id=44281679) - [The launch of ChatGPT polluted the world forever](https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/)
 * [2025-06-15, 10:54:20](https://news.ycombinator.com/item?id=44281633) - [An origin trial for a new HTML <permission> element](https://developer.chrome.com/blog/permission-element-origin-trial)
+* [2025-06-15, 10:11:41](https://news.ycombinator.com/item?id=44281506) - [Foundations of Computer Vision](https://visionbook.mit.edu)
 * [2025-06-15, 10:11:05](https://news.ycombinator.com/item?id=44281505) - [Ireland became the Saudi Arabia of siphoned-off global profits](https://www.economist.com/europe/2025/06/12/how-ireland-became-the-saudi-arabia-of-siphoned-off-global-profits)
 * [2025-06-15, 09:14:09](https://news.ycombinator.com/item?id=44281371) - [Notes on the History of the Map Tile](https://placing.technology/notes-on-the-history-of-the-map-tile)
 * [2025-06-15, 07:52:49](https://news.ycombinator.com/item?id=44281148) - [Tiny-diffusion: A minimal implementation of probabilistic diffusion models](https://github.com/tanelp/tiny-diffusion)
