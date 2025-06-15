@@ -52,6 +52,7 @@
 * [2025-06-12, 13:51:15](https://news.ycombinator.com/item?id=44257819) - [VisionOS 26 keeps pushing Apple's newest platform toward the future](https://sixcolors.com/post/2025/06/visionos-26-keeps-pushing-apples-newest-platform-toward-the-future/)
 * [2025-06-12, 13:37:06](https://news.ycombinator.com/item?id=44257655) - [Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)](https://github.com/hunterirving/pico-crossing)
 * [2025-06-12, 13:32:56](https://news.ycombinator.com/item?id=44257609) - [Show HN: Vim-like text editor in go. (LSP, TreeSitter, Themes)](https://github.com/firstrow/mcwig)
+* [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [1k year old 3 sisters crop farm found in Northern Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
 * [2025-06-12, 13:11:29](https://news.ycombinator.com/item?id=44257400) - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings/)
 * [2025-06-12, 12:59:56](https://news.ycombinator.com/item?id=44257283) - [2025 State of AI Code Quality](https://www.qodo.ai/reports/state-of-ai-code-quality/)
 * [2025-06-12, 12:14:03](https://news.ycombinator.com/item?id=44256844) - [AI coding tools are like that helpful but untrustworthy friend, devs say](https://www.theregister.com/2025/06/12/devs_mostly_welcome_ai_coding/)
