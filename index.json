@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-15, 02:17:42",
-      "https://news.ycombinator.com/item?id=44280113"
-    ],
-    [
-      "Large language models often know when they are being evaluated",
-      "https://arxiv.org/abs/2505.23836"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 01:29:58",
       "https://news.ycombinator.com/item?id=44279978"
     ],
@@ -167,6 +157,16 @@
     [
       "Peano arithmetic is enough, because Peano arithmetic  encodes computation",
       "https://math.stackexchange.com/a/5075056/6708"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 01:37:59",
+      "https://news.ycombinator.com/item?id=44264962"
+    ],
+    [
+      "Dance Captcha",
+      "https://dance-captcha.vercel.app/"
     ]
   ],
   [
