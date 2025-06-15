@@ -39,6 +39,7 @@
 * [2025-06-12, 15:39:57](https://news.ycombinator.com/item?id=44259039) - [Researchers confirm two journalists were hacked with Paragon spyware](https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/)
 * [2025-06-12, 15:36:54](https://news.ycombinator.com/item?id=44259001) - [Trump's NASA cuts would destroy decades of science and wipe out its future](https://www.latimes.com/business/story/2025-06-09/trumps-nasa-cuts-would-destroy-decades-of-science-and-wipe-out-its-future)
 * [2025-06-12, 15:04:59](https://news.ycombinator.com/item?id=44258670) - [iPhone 11 emulation done in QEMU](https://github.com/ChefKissInc/QEMUAppleSilicon)
+* [2025-06-12, 15:04:52](https://news.ycombinator.com/item?id=44258665) - [Breaking My Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
 * [2025-06-12, 15:03:52](https://news.ycombinator.com/item?id=44258654) - [Why Does My Ripped CD Have Messed Up Track Names? and Why Is One Track Missing?](https://www.akpain.net/blog/inside-a-cd/)
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The International Standard for Identifying Postal Items](https://www.akpain.net/blog/s10-upu/)
 * [2025-06-12, 14:55:11](https://news.ycombinator.com/item?id=44258541) - [Becoming an AI-Native Engineer](https://rfitz.io/blog/becoming-ai-native-engineer/)
