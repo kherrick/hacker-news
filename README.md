@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 15:03:24](https://news.ycombinator.com/item?id=44282657) - [Nvidia CEO criticizes Anthropic boss over his statements on AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created)
 * [2025-06-15, 14:11:18](https://news.ycombinator.com/item?id=44282384) - [That 'unsubscribe' button may be a scam](https://www.popsci.com/technology/email-unsubscribe-scam/)
 * [2025-06-15, 13:39:31](https://news.ycombinator.com/item?id=44282232) - [The Keyset](https://dougengelbart.org/content/view/273/)
 * [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
+* [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
 * [2025-06-15, 12:40:07](https://news.ycombinator.com/item?id=44282017) - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
 * [2025-06-15, 12:26:55](https://news.ycombinator.com/item?id=44281958) - [Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI](https://github.com/Kuberwastaken/meow)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
@@ -18,7 +20,6 @@
 * [2025-06-14, 15:43:03](https://news.ycombinator.com/item?id=44277051) - [Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 * [2025-06-14, 06:54:45](https://news.ycombinator.com/item?id=44274696) - [Meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
-* [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances (2024)](https://inria.hal.science/hal-04776866v1)
 * [2025-06-14, 05:39:20](https://news.ycombinator.com/item?id=44274440) - [The Talented Ms. Highsmith](https://yalereview.org/article/working-for-patricia-highsmith)
 * [2025-06-12, 20:51:35](https://news.ycombinator.com/item?id=44263062) - [Cloud outage knocks out internet services across the globe](https://www.zdnet.com/article/massive-cloud-outage-knocks-out-internet-services-across-the-globe/)
 * [2025-06-12, 15:04:52](https://news.ycombinator.com/item?id=44258665) - [Breaking My Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
@@ -28,7 +29,6 @@
 * [2025-06-12, 05:51:10](https://news.ycombinator.com/item?id=44254627) - [Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)](https://github.com/SakanaAI/text-to-lora)
 * [2025-06-11, 23:00:50](https://news.ycombinator.com/item?id=44252717) - [Solar Orbiter gets world-first views of the Sun's poles](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles)
 * [2025-06-11, 12:42:50](https://news.ycombinator.com/item?id=44247020) - [CI/CD Observability with OpenTelemetry Step by Step Guide](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
-* [2025-06-11, 10:46:34](https://news.ycombinator.com/item?id=44246187) - [Bioprospectors mine microbial genomes for antibiotic gold](https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06)
 * [2025-06-11, 06:13:49](https://news.ycombinator.com/item?id=44244675) - [Chicken Eyeglasses](https://en.wikipedia.org/wiki/Chicken_eyeglasses)
 
 ## [Archives](archives/index.md)

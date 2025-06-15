@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
+* [2025-06-15, 15:03:24](https://news.ycombinator.com/item?id=44282657) - [Nvidia CEO criticizes Anthropic boss over his statements on AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created)
 * [2025-06-15, 14:11:18](https://news.ycombinator.com/item?id=44282384) - [That 'unsubscribe' button may be a scam](https://www.popsci.com/technology/email-unsubscribe-scam/)
 * [2025-06-15, 13:39:31](https://news.ycombinator.com/item?id=44282232) - [The Keyset](https://dougengelbart.org/content/view/273/)
 * [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
+* [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
 * [2025-06-15, 12:40:07](https://news.ycombinator.com/item?id=44282017) - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
 * [2025-06-15, 12:33:48](https://news.ycombinator.com/item?id=44281996) - [Show HN: PromptForge – A minimal AI SaaS to generate better GPT prompts](https://forge-ai-interface.lovable.app/)
 * [2025-06-15, 12:26:55](https://news.ycombinator.com/item?id=44281958) - [Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI](https://github.com/Kuberwastaken/meow)
