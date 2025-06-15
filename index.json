@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-15, 18:57:30",
+      "https://news.ycombinator.com/item?id=44284261"
+    ],
+    [
+      "Apple Completes Migration of Key Service to Swift, Gains 40% Performance Uplift",
+      "https://www.infoq.com/news/2025/06/apple-swift-migration/"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 18:02:25",
       "https://news.ycombinator.com/item?id=44283876"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44283047"
     ],
     [
-      "Red Hat Linux in 1998 (2009)",
+      "GNOME and Red Hat Linux eleven years ago (2009)",
       "https://linuxgazette.net/165/laycock.html"
     ]
   ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2025-06-14, 22:12:12",
-      "https://news.ycombinator.com/item?id=44279181"
-    ],
-    [
-      "Infinite Grid of Resistors",
-      "https://www.mathpages.com/home/kmath668/kmath668.htm"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 13:56:46",
-      "https://news.ycombinator.com/item?id=44276476"
-    ],
-    [
-      "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
-      "https://github.com/yousef-rafat/miniDiffusion"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 04:54:58",
       "https://news.ycombinator.com/item?id=44274280"
     ],
     [
       "SQLite Date and Time Functions (2007)",
       "https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions"
+    ]
+  ],
+  [
+    [
+      "2025-06-12, 18:26:43",
+      "https://news.ycombinator.com/item?id=44261118"
+    ],
+    [
+      "First 2D, non-silicon computer developed",
+      "https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed"
     ]
   ],
   [
