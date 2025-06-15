@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-15, 12:40:07](https://news.ycombinator.com/item?id=44282017) - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
 * [2025-06-15, 12:26:55](https://news.ycombinator.com/item?id=44281958) - [Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI](https://github.com/Kuberwastaken/meow)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 10:54:20](https://news.ycombinator.com/item?id=44281633) - [An origin trial for a new HTML <permission> element](https://developer.chrome.com/blog/permission-element-origin-trial)
@@ -17,7 +18,6 @@
 * [2025-06-14, 06:54:45](https://news.ycombinator.com/item?id=44274696) - [Meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
 * [2025-06-14, 05:39:20](https://news.ycombinator.com/item?id=44274440) - [The Talented Ms. Highsmith](https://yalereview.org/article/working-for-patricia-highsmith)
-* [2025-06-14, 03:31:18](https://news.ycombinator.com/item?id=44274001) - [SIMD-friendly algorithms for substring searching (2016)](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 * [2025-06-13, 22:40:22](https://news.ycombinator.com/item?id=44272933) - [Endometriosis is an interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
 * [2025-06-13, 01:37:59](https://news.ycombinator.com/item?id=44264962) - [Dance Captcha](https://dance-captcha.vercel.app/)
 * [2025-06-12, 15:04:52](https://news.ycombinator.com/item?id=44258665) - [Breaking My Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
