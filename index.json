@@ -1,22 +1,42 @@
 [
   [
     [
-      "2025-06-15, 11:20:45",
-      "https://news.ycombinator.com/item?id=44281733"
-    ],
-    [
-      "Show HN: Tool shows why 1.3B people can't use your website",
-      "https://accessibility-lens.lovable.app/"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 11:18:40",
       "https://news.ycombinator.com/item?id=44281727"
     ],
     [
       "Datalog in Rust",
       "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 10:54:20",
+      "https://news.ycombinator.com/item?id=44281633"
+    ],
+    [
+      "An origin trial for a new HTML <permission> element",
+      "https://developer.chrome.com/blog/permission-element-origin-trial"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 09:14:09",
+      "https://news.ycombinator.com/item?id=44281371"
+    ],
+    [
+      "Notes on the History of the Map Tile",
+      "https://placing.technology/notes-on-the-history-of-the-map-tile"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 07:52:49",
+      "https://news.ycombinator.com/item?id=44281148"
+    ],
+    [
+      "Tiny-diffusion: A minimal implementation of probabilistic diffusion models",
+      "https://github.com/tanelp/tiny-diffusion"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-06-14, 12:32:20",
-      "https://news.ycombinator.com/item?id=44276041"
-    ],
-    [
-      "Unsupervised Elicitation of Language Models",
-      "https://arxiv.org/abs/2506.10139"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 07:36:18",
       "https://news.ycombinator.com/item?id=44274854"
     ],
@@ -137,6 +147,16 @@
     [
       "Last fifty years of integer linear programming: Recent practical advances",
       "https://inria.hal.science/hal-04776866v1"
+    ]
+  ],
+  [
+    [
+      "2025-06-14, 05:39:20",
+      "https://news.ycombinator.com/item?id=44274440"
+    ],
+    [
+      "The Talented Ms. Highsmith",
+      "https://yalereview.org/article/working-for-patricia-highsmith"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Cray versus Raspberry Pi",
       "https://www.aardvark.co.nz/daily/2025/0611.shtml"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 05:56:23",
-      "https://news.ycombinator.com/item?id=44233063"
-    ],
-    [
-      "TimeGuessr",
-      "https://timeguessr.com/"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 13:36:11",
-      "https://news.ycombinator.com/item?id=44216921"
-    ],
-    [
-      "The Many Sides of Erik Satie",
-      "https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/"
     ]
   ]
 ]
