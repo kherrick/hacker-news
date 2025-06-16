@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 16:24:33](https://news.ycombinator.com/item?id=44291026) - [The Renegade Richard Foreman](https://yalereview.org/article/jennifer-krasinski-richard-foreman)
+* [2025-06-16, 15:41:44](https://news.ycombinator.com/item?id=44290653) - [Darklang Goes Open Source](https://blog.darklang.com/darklang-goes-open-source/)
 * [2025-06-16, 15:34:48](https://news.ycombinator.com/item?id=44290582) - [Object personification in autism: This paper will be sad if you don't read](https://pubmed.ncbi.nlm.nih.gov/30101594/)
 * [2025-06-16, 15:16:47](https://news.ycombinator.com/item?id=44290413) - [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
+* [2025-06-16, 15:11:48](https://news.ycombinator.com/item?id=44290357) - [Goodbye Dark, Inc. – Welcome Darklang, Inc](https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/)
+* [2025-06-16, 15:09:17](https://news.ycombinator.com/item?id=44290331) - [OpenTelemetry for Go: Measuring overhead costs](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)
 * [2025-06-16, 15:07:42](https://news.ycombinator.com/item?id=44290315) - [ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development](https://arxiv.org/abs/2506.11016)
 * [2025-06-16, 14:49:34](https://news.ycombinator.com/item?id=44290121) - [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
 * [2025-06-16, 14:34:03](https://news.ycombinator.com/item?id=44289944) - [How the first electric grid was built](https://www.worksinprogress.news/p/how-the-worlds-first-electric-grid)
