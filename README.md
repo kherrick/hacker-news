@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-16, 09:39:42](https://news.ycombinator.com/item?id=44287933) - [Trading Bot Keeps Strategies Alive in a 24/7 Market](https://news.ycombinator.com/item?id=44287933)
+* [2025-06-16, 10:06:51](https://news.ycombinator.com/item?id=44288051) - [How the BIC Cristal Ballpoint Pen Became the Most Successful Product in History](https://www.openculture.com/2025/06/how-the-bic-cristal-ballpoint-pen-became-the-most-successful-product-in-history.html)
+* [2025-06-16, 09:58:01](https://news.ycombinator.com/item?id=44288000) - [Tesla blows past stopped school bus and hits kid-sized dummies in FSD tests](https://www.engadget.com/transportation/tesla-blows-past-stopped-school-bus-and-hits-kid-sized-dummies-in-full-self-driving-tests-183756251.html)
 * [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 * [2025-06-16, 05:03:58](https://news.ycombinator.com/item?id=44286748) - [NesDev.org – A community of homebrew game devs for NES and other retro consoles](https://www.nesdev.org/)
 * [2025-06-16, 02:49:58](https://news.ycombinator.com/item?id=44286277) - [Accumulation of cognitive debt when using an AI assistant for essay writing task](https://arxiv.org/abs/2506.08872)
@@ -25,7 +26,6 @@
 * [2025-06-14, 12:09:51](https://news.ycombinator.com/item?id=44275900) - [Solving LinkedIn Queens with APL](https://pitr.ca/2025-06-14-queens)
 * [2025-06-14, 11:23:55](https://news.ycombinator.com/item?id=44275679) - [Lisp-stat: Lisp environment for statistical computing](https://lisp-stat.dev/about/)
 * [2025-06-14, 10:22:06](https://news.ycombinator.com/item?id=44275471) - [Chemical knowledge and reasoning of large language models vs. chemist expertise](https://www.nature.com/articles/s41557-025-01815-x)
-* [2025-06-14, 08:15:31](https://news.ycombinator.com/item?id=44275014) - [Occurences of swearing in the Linux kernel source code over time](https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*)
 * [2025-06-12, 18:26:43](https://news.ycombinator.com/item?id=44261118) - [First 2D, non-silicon computer developed](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed)
 * [2025-06-12, 16:00:19](https://news.ycombinator.com/item?id=44259238) - [Hyperspectral scans of historical pigments and painting reconstructions](https://github.com/rubenwiersma/painting_tools)
 * [2025-06-12, 14:25:14](https://news.ycombinator.com/item?id=44258199) - [Random Walk: A Modern Introduction (2010) [pdf]](https://www.math.uchicago.edu/~lawler/srwbook.pdf)
