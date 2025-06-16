@@ -33,6 +33,7 @@
 * [2025-06-14, 10:53:13](https://news.ycombinator.com/item?id=44275559) - [How to Build Conscious Machines](https://osf.io/preprints/thesiscommons/wehmg_v1)
 * [2025-06-14, 10:49:03](https://news.ycombinator.com/item?id=44275551) - [Man Killed by Police After Spiraling into ChatGPT-Driven Psychosis](https://futurism.com/man-killed-police-chatgpt)
 * [2025-06-14, 10:22:06](https://news.ycombinator.com/item?id=44275471) - [Chemical knowledge and reasoning of large language models vs. chemist expertise](https://www.nature.com/articles/s41557-025-01815-x)
+* [2025-06-14, 08:48:25](https://news.ycombinator.com/item?id=44275134) - [Maya Blue: Unlocking the Mysteries of an Ancient Pigment](https://www.mexicolore.co.uk/maya/home/maya-blue-unlocking-the-mysteries-of-an-ancient-pigment)
 * [2025-06-14, 08:29:47](https://news.ycombinator.com/item?id=44275066) - [Danish department determined to dump Microsoft](https://www.theregister.com/2025/06/13/danish_department_dump_microsoft/)
 * [2025-06-14, 08:21:06](https://news.ycombinator.com/item?id=44275030) - [To fuel AI, US Congress moves to fast-track nuclear plant approvals](https://www.wsj.com/articles/to-feed-power-wolfing-ai-lawmakers-are-embracing-nuclear-a461ab7d)
 * [2025-06-14, 08:15:31](https://news.ycombinator.com/item?id=44275014) - [Occurences of swearing in the Linux kernel source code over time](https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*)
