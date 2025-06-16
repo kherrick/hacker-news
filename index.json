@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-16, 14:49:34",
+      "https://news.ycombinator.com/item?id=44290121"
+    ],
+    [
+      "Show HN: dk – A script runner and cross-compiler, written in OCaml",
+      "https://diskuv.com/dk/help/latest/"
+    ]
+  ],
+  [
+    [
+      "2025-06-16, 14:14:54",
+      "https://news.ycombinator.com/item?id=44289705"
+    ],
+    [
+      "Mathematical Illustrations: A Manual of Geometry and PostScript",
+      "https://personal.math.ubc.ca/~cass/graphics/text/www/"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 13:59:18",
       "https://news.ycombinator.com/item?id=44289554"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-06-15, 19:33:43",
-      "https://news.ycombinator.com/item?id=44284466"
-    ],
-    [
-      "Telephone Exchanges in the UK",
-      "https://telephone-exchanges.org.uk/"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 17:26:38",
       "https://news.ycombinator.com/item?id=44283614"
     ],
@@ -257,16 +267,6 @@
     [
       "Occurences of swearing in the Linux kernel source code over time",
       "https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 04:43:12",
-      "https://news.ycombinator.com/item?id=44274237"
-    ],
-    [
-      "LLM Chat via SSH",
-      "https://github.com/ccbikai/ssh-ai-chat"
     ]
   ],
   [
