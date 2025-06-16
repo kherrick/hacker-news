@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
-* [2025-06-16, 06:14:56](https://news.ycombinator.com/item?id=44287043) - [Nanonets-OCR-s – OCR model transforms documents into structured markdown](https://huggingface.co/nanonets/Nanonets-OCR-s)
 * [2025-06-16, 05:03:58](https://news.ycombinator.com/item?id=44286748) - [NesDev.org – A community of homebrew game devs for NES and other retro consoles](https://www.nesdev.org/)
 * [2025-06-16, 02:49:58](https://news.ycombinator.com/item?id=44286277) - [Accumulation of cognitive debt when using an AI assistant for essay writing task](https://arxiv.org/abs/2506.08872)
 * [2025-06-16, 02:01:50](https://news.ycombinator.com/item?id=44286134) - [The Hewlett-Packard Archive](https://hparchive.com)
+* [2025-06-16, 01:46:42](https://news.ycombinator.com/item?id=44286086) - [Why Claude's Comment Paper Is a Poor Rebuttal](https://victoramartinez.com/posts/why-claudes-comment-paper-is-a-poor-rebuttal/)
 * [2025-06-16, 00:36:41](https://news.ycombinator.com/item?id=44285874) - [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 * [2025-06-16, 00:14:55](https://news.ycombinator.com/item?id=44285781) - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
 * [2025-06-15, 23:01:38](https://news.ycombinator.com/item?id=44285521) - [Reinventing circuit breakers with supercritical CO2](https://spectrum.ieee.org/sf6-gas-replacement)
