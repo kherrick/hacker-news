@@ -46,6 +46,7 @@
 * [2025-06-15, 12:40:07](https://news.ycombinator.com/item?id=44282017) - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
 * [2025-06-15, 12:33:48](https://news.ycombinator.com/item?id=44281996) - [Show HN: PromptForge – A minimal AI SaaS to generate better GPT prompts](https://forge-ai-interface.lovable.app/)
 * [2025-06-15, 12:26:55](https://news.ycombinator.com/item?id=44281958) - [Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI](https://github.com/Kuberwastaken/meow)
+* [2025-06-15, 11:41:53](https://news.ycombinator.com/item?id=44281812) - [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)
 * [2025-06-15, 11:20:45](https://news.ycombinator.com/item?id=44281733) - [Show HN: Tool shows why 1.3B people can't use your website](https://accessibility-lens.lovable.app/)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 11:06:44](https://news.ycombinator.com/item?id=44281679) - [The launch of ChatGPT polluted the world forever](https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/)

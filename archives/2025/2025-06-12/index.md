@@ -47,6 +47,7 @@
 * [2025-06-12, 15:02:23](https://news.ycombinator.com/item?id=44258633) - [The International Standard for Identifying Postal Items](https://www.akpain.net/blog/s10-upu/)
 * [2025-06-12, 14:55:11](https://news.ycombinator.com/item?id=44258541) - [Becoming an AI-Native Engineer](https://rfitz.io/blog/becoming-ai-native-engineer/)
 * [2025-06-12, 14:26:59](https://news.ycombinator.com/item?id=44258213) - [Seedance 1.0](https://seed.bytedance.com/en/seedance)
+* [2025-06-12, 14:25:14](https://news.ycombinator.com/item?id=44258199) - [Random Walk: A Modern Introduction [pdf]](https://www.math.uchicago.edu/~lawler/srwbook.pdf)
 * [2025-06-12, 14:24:28](https://news.ycombinator.com/item?id=44258189) - [It took longer to get the API key](https://algarch.com/blog/the-api-keys-took-longer-than-the-code-why-human-processes-are-the-real-bottleneck-in-ai-development)
 * [2025-06-12, 14:19:43](https://news.ycombinator.com/item?id=44258139) - [Waymo rides cost more than Uber or Lyft – and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
 * [2025-06-12, 14:15:07](https://news.ycombinator.com/item?id=44258083) - [Iconic icons to showcase your skills](https://github.com/YuheshPandian/ICONIC)
