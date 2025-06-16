@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 * [2025-06-16, 06:14:56](https://news.ycombinator.com/item?id=44287043) - [Open-source 3B param model better than Mistral OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
 * [2025-06-16, 05:03:58](https://news.ycombinator.com/item?id=44286748) - [Nesdev.org](https://www.nesdev.org/)
 * [2025-06-16, 02:49:58](https://news.ycombinator.com/item?id=44286277) - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
