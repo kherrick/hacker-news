@@ -58,4 +58,5 @@
 * [2025-06-13, 01:37:59](https://news.ycombinator.com/item?id=44264962) - [Dance Captcha](https://dance-captcha.vercel.app/)
 * [2025-06-13, 01:37:17](https://news.ycombinator.com/item?id=44264958) - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-13, 00:05:00](https://news.ycombinator.com/item?id=44264494) - [Major sugar substitute found to impair brain blood vessel cell function](https://medicalxpress.com/news/2025-06-major-sugar-substitute-impair-brain.html)
+* [2025-06-13, 00:03:13](https://news.ycombinator.com/item?id=44264481) - [Unprecedented optical clock network lays groundwork for redefining the second](https://phys.org/news/2025-06-unprecedented-optical-clock-network-lays.html)
 * [2025-06-13, 00:02:00](https://news.ycombinator.com/item?id=44264475) - [Flies grow their gyroscopes: Study reveals how flight stabilizers take shape](https://phys.org/news/2025-06-flies-gyroscopes-reveals-flight-stabilizers.html)

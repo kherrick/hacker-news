@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 06:14:56](https://news.ycombinator.com/item?id=44287043) - [Open-source 3B param model better than Mistral OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
+* [2025-06-16, 05:03:58](https://news.ycombinator.com/item?id=44286748) - [Nesdev.org](https://www.nesdev.org/)
 * [2025-06-16, 02:49:58](https://news.ycombinator.com/item?id=44286277) - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
 * [2025-06-16, 02:01:50](https://news.ycombinator.com/item?id=44286134) - [The Hewlett-Packard Archive](https://hparchive.com)
 * [2025-06-16, 01:44:58](https://news.ycombinator.com/item?id=44286078) - [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)
