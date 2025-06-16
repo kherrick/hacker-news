@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-06-16, 01:44:58",
+      "https://news.ycombinator.com/item?id=44286078"
+    ],
+    [
+      "Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book",
+      "https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 23:01:38",
       "https://news.ycombinator.com/item?id=44285521"
     ],
     [
-      "First-Ever Supercritical CO2 Circuit Breaker Debuts",
+      "A new high-voltage breaker can clear grid-scale faults without greenhouse gas",
       "https://spectrum.ieee.org/sf6-gas-replacement"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 22:40:40",
+      "https://news.ycombinator.com/item?id=44285440"
+    ],
+    [
+      "DARPA program sets distance record for power beaming",
+      "https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 22:37:12",
+      "https://news.ycombinator.com/item?id=44285426"
+    ],
+    [
+      "Let's Talk About ChatGPT-Induced Spiritual Psychosis",
+      "https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 22:29:34",
+      "https://news.ycombinator.com/item?id=44285392"
+    ],
+    [
+      "KAIST Succeeds in Real-Time CO2 Monitoring Without Batteries or External Power",
+      "https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2025-06-15, 19:36:32",
-      "https://news.ycombinator.com/item?id=44284493"
-    ],
-    [
-      "Show HN: Seastar – Build and dependency manager for C/C++ with Cargo's features",
-      "https://github.com/AI314159/Seastar"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 19:33:43",
       "https://news.ycombinator.com/item?id=44284466"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-06-15, 16:16:12",
-      "https://news.ycombinator.com/item?id=44283095"
-    ],
-    [
-      "Social anxiety disorder-associated gut microbiota increases social fear",
-      "https://www.pnas.org/doi/abs/10.1073/pnas.2308706120"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 16:16:08",
       "https://news.ycombinator.com/item?id=44283093"
     ],
@@ -127,16 +147,6 @@
     [
       "Modifying an HDMI dummy plug's EDID using a Raspberry Pi",
       "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 15:40:16",
-      "https://news.ycombinator.com/item?id=44282868"
-    ],
-    [
-      "A skyscraper that could have toppled over in the wind (1995)",
-      "https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2025-06-14, 11:23:55",
+      "https://news.ycombinator.com/item?id=44275679"
+    ],
+    [
+      "Lisp-stat: Lisp environment for statistical computing",
+      "https://lisp-stat.dev/about/"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 10:22:06",
       "https://news.ycombinator.com/item?id=44275471"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-06-13, 17:02:27",
-      "https://news.ycombinator.com/item?id=44270247"
-    ],
-    [
-      "Show HN: StellarSnap – Explore NASA APODs, simulate orbits, learn astronomy",
-      "https://stellarsnap.space"
-    ]
-  ],
-  [
-    [
       "2025-06-12, 18:26:43",
       "https://news.ycombinator.com/item?id=44261118"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44257422"
     ],
     [
-      "Fields where Native Americans farmed 1000 years ago discovered in Michigan",
+      "Fields where Native Americans farmed a thousand years ago discovered in Michigan",
       "https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Ruby on Rails Audit Complete",
       "https://ostif.org/ruby-on-rails-audit-complete/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 05:51:10",
-      "https://news.ycombinator.com/item?id=44254627"
-    ],
-    [
-      "Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)",
-      "https://github.com/SakanaAI/text-to-lora"
     ]
   ]
 ]
