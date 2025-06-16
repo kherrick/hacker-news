@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-16, 11:40:54",
+      "https://news.ycombinator.com/item?id=44288643"
+    ],
+    [
+      "Show HN: Socket-call – Call socket.io events like normal JavaScript functions",
+      "https://github.com/bperel/socket-call"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 07:38:17",
       "https://news.ycombinator.com/item?id=44287395"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2025-06-16, 02:49:58",
-      "https://news.ycombinator.com/item?id=44286277"
+      "2025-06-16, 06:14:56",
+      "https://news.ycombinator.com/item?id=44287043"
     ],
     [
-      "Accumulation of cognitive debt when using an AI assistant for essay writing task",
-      "https://arxiv.org/abs/2506.08872"
+      "Nanonets-OCR-s – OCR model that transforms documents into structured markdown",
+      "https://huggingface.co/nanonets/Nanonets-OCR-s"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-06-15, 07:07:42",
-      "https://news.ycombinator.com/item?id=44281016"
-    ],
-    [
-      "The Art of Lisp and Writing (2003)",
-      "https://www.dreamsongs.com/ArtOfLisp.html"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 12:09:51",
       "https://news.ycombinator.com/item?id=44275900"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-06-13, 00:03:13",
-      "https://news.ycombinator.com/item?id=44264481"
+      "2025-06-14, 04:43:12",
+      "https://news.ycombinator.com/item?id=44274237"
     ],
     [
-      "Unprecedented optical clock network lays groundwork for redefining the second",
-      "https://phys.org/news/2025-06-unprecedented-optical-clock-network-lays.html"
+      "LLM Chat via SSH",
+      "https://github.com/ccbikai/ssh-ai-chat"
     ]
   ],
   [
