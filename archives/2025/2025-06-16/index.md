@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 18:13:54](https://news.ycombinator.com/item?id=44291963) - [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/)
+* [2025-06-16, 18:07:37](https://news.ycombinator.com/item?id=44291892) - [The Members of the Dull Men's Club](https://www.theguardian.com/society/2025/jun/09/meet-the-members-of-the-dull-mens-club-some-of-them-would-bore-the-ears-off-you)
 * [2025-06-16, 17:38:45](https://news.ycombinator.com/item?id=44291630) - [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)
 * [2025-06-16, 17:02:33](https://news.ycombinator.com/item?id=44291322) - [Japan builds near $700M fund to lure foreign academic talent](https://www.theregister.com/2025/06/16/japan_has_a_yen_for/)
 * [2025-06-16, 16:45:56](https://news.ycombinator.com/item?id=44291189) - [Sincerity Wins the War](https://www.wheresyoured.at/sic/)

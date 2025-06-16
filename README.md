@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-16, 18:13:54](https://news.ycombinator.com/item?id=44291963) - [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/)
+* [2025-06-16, 18:07:37](https://news.ycombinator.com/item?id=44291892) - [The Members of the Dull Men's Club](https://www.theguardian.com/society/2025/jun/09/meet-the-members-of-the-dull-mens-club-some-of-them-would-bore-the-ears-off-you)
 * [2025-06-16, 17:38:45](https://news.ycombinator.com/item?id=44291630) - [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)
 * [2025-06-16, 16:45:56](https://news.ycombinator.com/item?id=44291189) - [Sincerity Wins the War](https://www.wheresyoured.at/sic/)
-* [2025-06-16, 16:24:33](https://news.ycombinator.com/item?id=44291026) - [The Renegade Richard Foreman](https://yalereview.org/article/jennifer-krasinski-richard-foreman)
 * [2025-06-16, 15:41:44](https://news.ycombinator.com/item?id=44290653) - [Darklang Goes Open Source](https://blog.darklang.com/darklang-goes-open-source/)
 * [2025-06-16, 15:34:48](https://news.ycombinator.com/item?id=44290582) - [Object personification in autism: This paper will be sad if you don't read (2018)](https://pubmed.ncbi.nlm.nih.gov/30101594/)
 * [2025-06-16, 15:16:47](https://news.ycombinator.com/item?id=44290413) - [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
@@ -28,7 +29,6 @@
 * [2025-06-14, 11:36:01](https://news.ycombinator.com/item?id=44275737) - [A Framework for Characterizing Emergent Conflict Between Non-Coordinating Agents [pdf]](https://paperclipmaximizer.ai/Unaware_Adversaries.pdf)
 * [2025-06-14, 11:26:38](https://news.ycombinator.com/item?id=44275696) - [Quantum mechanics provide truly random numbers on demand](https://phys.org/news/2025-06-quantum-mechanics-random-demand.html)
 * [2025-06-14, 08:48:25](https://news.ycombinator.com/item?id=44275134) - [Maya Blue: Unlocking the Mysteries of an Ancient Pigment](https://www.mexicolore.co.uk/maya/home/maya-blue-unlocking-the-mysteries-of-an-ancient-pigment)
-* [2025-06-14, 08:29:15](https://news.ycombinator.com/item?id=44275063) - [Mechanisms for Detection and Repair of Puncture Damage in Soft Robotics [pdf]](https://smr.unl.edu/papers/Krings_et_al-2025-ICRA.pdf)
 * [2025-06-14, 08:15:31](https://news.ycombinator.com/item?id=44275014) - [Occurences of swearing in the Linux kernel source code over time](https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*)
 
 ## [Archives](archives/index.md)
