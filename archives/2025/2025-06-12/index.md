@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
 * [2025-06-12, 23:42:00](https://news.ycombinator.com/item?id=44264376) - [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
+* [2025-06-12, 23:38:24](https://news.ycombinator.com/item?id=44264362) - [Being a Force Multiplier](https://substack.com/home/post/p-165651243)
 * [2025-06-12, 23:33:25](https://news.ycombinator.com/item?id=44264325) - [Ask HN: Can anybody clarify why OpenAI reasoning now shows non-English thoughts?](https://news.ycombinator.com/item?id=44264325)
 * [2025-06-12, 22:15:43](https://news.ycombinator.com/item?id=44263780) - [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
 * [2025-06-12, 21:50:08](https://news.ycombinator.com/item?id=44263562) - [The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
