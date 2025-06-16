@@ -24,6 +24,7 @@
 * [2025-06-16, 10:06:51](https://news.ycombinator.com/item?id=44288051) - [How the BIC Cristal Ballpoint Pen Became the Most Successful Product in History](https://www.openculture.com/2025/06/how-the-bic-cristal-ballpoint-pen-became-the-most-successful-product-in-history.html)
 * [2025-06-16, 09:58:01](https://news.ycombinator.com/item?id=44288000) - [Tesla blows past stopped school bus and hits kid-sized dummies in FSD tests](https://www.engadget.com/transportation/tesla-blows-past-stopped-school-bus-and-hits-kid-sized-dummies-in-full-self-driving-tests-183756251.html)
 * [2025-06-16, 09:39:42](https://news.ycombinator.com/item?id=44287933) - [Trading Bot Keeps Strategies Alive in a 24/7 Market](https://news.ycombinator.com/item?id=44287933)
+* [2025-06-16, 08:09:09](https://news.ycombinator.com/item?id=44287545) - [Use Copilot Agent Mode in Visual Studio (Preview)](https://learn.microsoft.com/en-us/visualstudio/ide/copilot-agent-mode?view=vs-2022)
 * [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 * [2025-06-16, 06:14:56](https://news.ycombinator.com/item?id=44287043) - [Open-source 3B param model better than Mistral OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
 * [2025-06-16, 05:03:58](https://news.ycombinator.com/item?id=44286748) - [Nesdev.org](https://www.nesdev.org/)
