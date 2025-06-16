@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 17:38:45](https://news.ycombinator.com/item?id=44291630) - [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)
 * [2025-06-16, 17:02:33](https://news.ycombinator.com/item?id=44291322) - [Japan builds near $700M fund to lure foreign academic talent](https://www.theregister.com/2025/06/16/japan_has_a_yen_for/)
 * [2025-06-16, 16:45:56](https://news.ycombinator.com/item?id=44291189) - [Sincerity Wins the War](https://www.wheresyoured.at/sic/)
 * [2025-06-16, 16:24:33](https://news.ycombinator.com/item?id=44291026) - [The Renegade Richard Foreman](https://yalereview.org/article/jennifer-krasinski-richard-foreman)

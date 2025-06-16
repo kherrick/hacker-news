@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-16, 17:38:45](https://news.ycombinator.com/item?id=44291630) - [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)
 * [2025-06-16, 16:24:33](https://news.ycombinator.com/item?id=44291026) - [The Renegade Richard Foreman](https://yalereview.org/article/jennifer-krasinski-richard-foreman)
 * [2025-06-16, 15:41:44](https://news.ycombinator.com/item?id=44290653) - [Darklang Goes Open Source](https://blog.darklang.com/darklang-goes-open-source/)
 * [2025-06-16, 15:16:47](https://news.ycombinator.com/item?id=44290413) - [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
@@ -19,7 +20,6 @@
 * [2025-06-15, 22:29:34](https://news.ycombinator.com/item?id=44285392) - [Real-time CO2 monitoring without batteries or external power](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450)
 * [2025-06-15, 20:49:18](https://news.ycombinator.com/item?id=44284871) - [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
 * [2025-06-15, 20:07:27](https://news.ycombinator.com/item?id=44284657) - [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
-* [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
 * [2025-06-15, 16:00:43](https://news.ycombinator.com/item?id=44282998) - [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
 * [2025-06-15, 14:10:37](https://news.ycombinator.com/item?id=44282378) - [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 * [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
