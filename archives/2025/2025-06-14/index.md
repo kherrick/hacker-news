@@ -53,6 +53,7 @@
 * [2025-06-14, 05:37:40](https://news.ycombinator.com/item?id=44274433) - [Show HN: I'm a student built an AI to chat with YouTube videos](https://www.wiyomi.com/explore)
 * [2025-06-14, 05:14:12](https://news.ycombinator.com/item?id=44274338) - [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
 * [2025-06-14, 04:54:58](https://news.ycombinator.com/item?id=44274280) - [SQLite Date and Time Functions](https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions)
+* [2025-06-14, 04:43:12](https://news.ycombinator.com/item?id=44274237) - [LLM Chat via SSH](https://github.com/ccbikai/ssh-ai-chat)
 * [2025-06-14, 04:10:56](https://news.ycombinator.com/item?id=44274133) - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)
 * [2025-06-14, 03:58:38](https://news.ycombinator.com/item?id=44274090) - [For All That Is Good About Humankind, Ban Smartphones](https://jacobin.com/2025/06/ban-smartphones-tech-society/)
 * [2025-06-14, 03:41:14](https://news.ycombinator.com/item?id=44274031) - [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger)
