@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
 * [2025-06-15, 23:01:38](https://news.ycombinator.com/item?id=44285521) - [First-Ever Supercritical CO2 Circuit Breaker Debuts](https://spectrum.ieee.org/sf6-gas-replacement)
+* [2025-06-15, 22:40:40](https://news.ycombinator.com/item?id=44285440) - [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
+* [2025-06-15, 22:37:12](https://news.ycombinator.com/item?id=44285426) - [Let's Talk About ChatGPT-Induced Spiritual Psychosis](https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual)
+* [2025-06-15, 22:29:34](https://news.ycombinator.com/item?id=44285392) - [KAIST Succeeds in Real-Time CO2 Monitoring Without Batteries or External Power](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450)
 * [2025-06-15, 21:21:28](https://news.ycombinator.com/item?id=44285054) - [David Attenborough at 99: 'I will not see how the story ends'](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
 * [2025-06-15, 20:21:52](https://news.ycombinator.com/item?id=44284723) - [Why it's nearly impossible to buy an original Bob Ross painting](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [2025-06-15, 20:13:54](https://news.ycombinator.com/item?id=44284693) - [IPOChatter: Track Prospective Tech IPOs](https://ipochatter.com)
