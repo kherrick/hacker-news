@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-16, 20:19:44](https://news.ycombinator.com/item?id=44293044) - [retrobootstrapping rust for some reason](https://graydon2.dreamwidth.org/317484.html)
+* [2025-06-16, 20:19:44](https://news.ycombinator.com/item?id=44293044) - [Retrobootstrapping Rust for some reason](https://graydon2.dreamwidth.org/317484.html)
 * [2025-06-16, 19:19:57](https://news.ycombinator.com/item?id=44292601) - [Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://arxiv.org/abs/2506.01963)
 * [2025-06-16, 18:51:33](https://news.ycombinator.com/item?id=44292342) - [Transparent peer review to be extended to all of Nature's research papers](https://www.nature.com/articles/d41586-025-01880-9)
 * [2025-06-16, 18:27:59](https://news.ycombinator.com/item?id=44292103) - [Show HN: Canine – A Heroku alternative built on Kubernetes](https://github.com/czhu12/canine)
@@ -15,7 +15,7 @@
 * [2025-06-16, 15:09:17](https://news.ycombinator.com/item?id=44290331) - [OpenTelemetry for Go: Measuring overhead costs](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)
 * [2025-06-16, 15:07:42](https://news.ycombinator.com/item?id=44290315) - [ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development](https://arxiv.org/abs/2506.11016)
 * [2025-06-16, 14:49:34](https://news.ycombinator.com/item?id=44290121) - [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
-* [2025-06-16, 14:14:54](https://news.ycombinator.com/item?id=44289705) - [Mathematical Illustrations: A Manual of Geometry and PostScript](https://personal.math.ubc.ca/~cass/graphics/text/www/)
+* [2025-06-16, 13:38:59](https://news.ycombinator.com/item?id=44289412) - [WhatsApp introduces ads in its app](https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html)
 * [2025-06-16, 12:32:02](https://news.ycombinator.com/item?id=44288937) - [Working on databases from prison](https://turso.tech/blog/working-on-databases-from-prison)
 * [2025-06-16, 12:00:18](https://news.ycombinator.com/item?id=44288748) - [Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)](https://infracost.io/join-the-team)
 * [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
