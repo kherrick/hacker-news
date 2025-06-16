@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 13:59:18](https://news.ycombinator.com/item?id=44289554) - [Salesforce study finds LLM agents flunk CRM and confidentiality tests](https://www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/)
 * [2025-06-16, 12:32:02](https://news.ycombinator.com/item?id=44288937) - [Working on databases from prison: How I got here pt. 2](https://turso.tech/blog/working-on-databases-from-prison)
 * [2025-06-16, 12:00:18](https://news.ycombinator.com/item?id=44288748) - [Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)](https://infracost.io/join-the-team)
 * [2025-06-16, 11:40:54](https://news.ycombinator.com/item?id=44288643) - [Show HN: Socket-call – Call socket.io events like normal JavaScript functions](https://github.com/bperel/socket-call)
