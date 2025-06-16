@@ -27,6 +27,7 @@
 * [2025-06-14, 12:32:20](https://news.ycombinator.com/item?id=44276041) - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 * [2025-06-14, 12:09:51](https://news.ycombinator.com/item?id=44275900) - [Solving LinkedIn Queens with APL](https://pitr.ca/2025-06-14-queens)
 * [2025-06-14, 12:00:07](https://news.ycombinator.com/item?id=44275843) - [Solidroad (YC W25) Is Hiring](https://solidroad.com/careers)
+* [2025-06-14, 11:36:01](https://news.ycombinator.com/item?id=44275737) - [A Framework for Characterizing Emergent Conflict Between Non-Coordinating Agents [pdf]](https://paperclipmaximizer.ai/Unaware_Adversaries.pdf)
 * [2025-06-14, 11:23:55](https://news.ycombinator.com/item?id=44275679) - [Lisp-stat: Lisp environment for statistical computing](https://lisp-stat.dev/about/)
 * [2025-06-14, 11:12:32](https://news.ycombinator.com/item?id=44275643) - [Built an AI that brutally roasts your website designs](https://ugh.design)
 * [2025-06-14, 10:56:52](https://news.ycombinator.com/item?id=44275575) - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)

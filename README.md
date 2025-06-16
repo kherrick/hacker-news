@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-16, 12:32:02](https://news.ycombinator.com/item?id=44288937) - [Working on databases from prison: How I got here pt. 2](https://turso.tech/blog/working-on-databases-from-prison)
 * [2025-06-16, 12:00:18](https://news.ycombinator.com/item?id=44288748) - [Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)](https://infracost.io/join-the-team)
 * [2025-06-16, 11:40:54](https://news.ycombinator.com/item?id=44288643) - [Show HN: Socket-call – Call socket.io events like normal JavaScript functions](https://github.com/bperel/socket-call)
 * [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
@@ -7,7 +8,6 @@
 * [2025-06-16, 02:01:50](https://news.ycombinator.com/item?id=44286134) - [The Hewlett-Packard Archive](https://hparchive.com)
 * [2025-06-16, 00:36:41](https://news.ycombinator.com/item?id=44285874) - [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 * [2025-06-16, 00:14:55](https://news.ycombinator.com/item?id=44285781) - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
-* [2025-06-15, 23:01:38](https://news.ycombinator.com/item?id=44285521) - [Reinventing circuit breakers with supercritical CO2](https://spectrum.ieee.org/sf6-gas-replacement)
 * [2025-06-15, 22:40:40](https://news.ycombinator.com/item?id=44285440) - [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
 * [2025-06-15, 22:29:34](https://news.ycombinator.com/item?id=44285392) - [Real-time CO2 monitoring without batteries or external power](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450)
 * [2025-06-15, 20:49:18](https://news.ycombinator.com/item?id=44284871) - [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
@@ -22,7 +22,7 @@
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 10:11:41](https://news.ycombinator.com/item?id=44281506) - [Foundations of Computer Vision (2024)](https://visionbook.mit.edu)
 * [2025-06-14, 12:09:51](https://news.ycombinator.com/item?id=44275900) - [Solving LinkedIn Queens with APL](https://pitr.ca/2025-06-14-queens)
-* [2025-06-14, 11:23:55](https://news.ycombinator.com/item?id=44275679) - [Lisp-stat: Lisp environment for statistical computing](https://lisp-stat.dev/about/)
+* [2025-06-14, 11:36:01](https://news.ycombinator.com/item?id=44275737) - [A Framework for Characterizing Emergent Conflict Between Non-Coordinating Agents [pdf]](https://paperclipmaximizer.ai/Unaware_Adversaries.pdf)
 * [2025-06-14, 10:22:06](https://news.ycombinator.com/item?id=44275471) - [Chemical knowledge and reasoning of large language models vs. chemist expertise](https://www.nature.com/articles/s41557-025-01815-x)
 * [2025-06-14, 08:48:25](https://news.ycombinator.com/item?id=44275134) - [Maya Blue: Unlocking the Mysteries of an Ancient Pigment](https://www.mexicolore.co.uk/maya/home/maya-blue-unlocking-the-mysteries-of-an-ancient-pigment)
 * [2025-06-14, 06:19:00](https://news.ycombinator.com/item?id=44274582) - [The long afterlife of a literary classic](https://thecritic.co.uk/the-long-afterlife-of-a-literary-classic/)
