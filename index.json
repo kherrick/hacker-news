@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-06-16, 14:56:36",
-      "https://news.ycombinator.com/item?id=44290207"
-    ],
-    [
-      "Show HN: Trieve CLI – Terminal-Based LLM Agent Loop with Search Tool for PDFs",
-      "https://github.com/devflowinc/trieve/tree/main/clients/cli"
-    ]
-  ],
-  [
-    [
       "2025-06-16, 14:49:34",
       "https://news.ycombinator.com/item?id=44290121"
     ],
@@ -227,6 +217,16 @@
     [
       "Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format",
       "https://github.com/rorosen/zeekstd"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 20:07:27",
+      "https://news.ycombinator.com/item?id=44284657"
+    ],
+    [
+      "Twin – A Textmode WINdow Environment",
+      "https://github.com/cosmos72/twin"
     ]
   ],
   [
