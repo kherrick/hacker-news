@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 12:00:18](https://news.ycombinator.com/item?id=44288748) - [Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)](https://infracost.io/join-the-team)
 * [2025-06-16, 10:06:51](https://news.ycombinator.com/item?id=44288051) - [How the BIC Cristal Ballpoint Pen Became the Most Successful Product in History](https://www.openculture.com/2025/06/how-the-bic-cristal-ballpoint-pen-became-the-most-successful-product-in-history.html)
 * [2025-06-16, 09:58:01](https://news.ycombinator.com/item?id=44288000) - [Tesla blows past stopped school bus and hits kid-sized dummies in FSD tests](https://www.engadget.com/transportation/tesla-blows-past-stopped-school-bus-and-hits-kid-sized-dummies-in-full-self-driving-tests-183756251.html)
 * [2025-06-16, 09:39:42](https://news.ycombinator.com/item?id=44287933) - [Trading Bot Keeps Strategies Alive in a 24/7 Market](https://news.ycombinator.com/item?id=44287933)
