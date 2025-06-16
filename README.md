@@ -21,7 +21,7 @@
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 10:11:41](https://news.ycombinator.com/item?id=44281506) - [Foundations of Computer Vision](https://visionbook.mit.edu)
 * [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing (2003)](https://www.dreamsongs.com/ArtOfLisp.html)
-* [2025-06-14, 05:46:16](https://news.ycombinator.com/item?id=44274474) - [Synthesis of hafnium carbide via one-step selective laser reaction pyrolysis](https://ceramics.onlinelibrary.wiley.com/doi/10.1111/jace.20650)
+* [2025-06-14, 10:22:06](https://news.ycombinator.com/item?id=44275471) - [Chemical knowledge and reasoning of large language models vs. chemist expertise](https://www.nature.com/articles/s41557-025-01815-x)
 * [2025-06-14, 05:38:07](https://news.ycombinator.com/item?id=44274435) - [Cure Dolly's Japanese Grammar Lessons](https://kellenok.github.io/cure-script/)
 * [2025-06-14, 04:54:58](https://news.ycombinator.com/item?id=44274280) - [SQLite Date and Time Functions (2007)](https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions)
 * [2025-06-13, 17:02:27](https://news.ycombinator.com/item?id=44270247) - [Show HN: StellarSnap – Explore NASA APODs, simulate orbits, learn astronomy](https://stellarsnap.space)
