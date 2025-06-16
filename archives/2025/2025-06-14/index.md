@@ -40,6 +40,7 @@
 * [2025-06-14, 07:36:18](https://news.ycombinator.com/item?id=44274854) - [How multiplication is defined in Peano arithmetic](http://devlinsangle.blogspot.com/2011/11/how-multiplication-is-really-defined-in.html)
 * [2025-06-14, 07:20:17](https://news.ycombinator.com/item?id=44274784) - [Strace Tips for Better Debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/)
 * [2025-06-14, 06:54:45](https://news.ycombinator.com/item?id=44274696) - [Meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
+* [2025-06-14, 06:19:00](https://news.ycombinator.com/item?id=44274582) - [The long afterlife of a literary classic](https://thecritic.co.uk/the-long-afterlife-of-a-literary-classic/)
 * [2025-06-14, 06:15:08](https://news.ycombinator.com/item?id=44274567) - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
 * [2025-06-14, 06:13:00](https://news.ycombinator.com/item?id=44274563) - [Google Cloud Incident Report – 2025-06-13](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
 * [2025-06-14, 05:46:23](https://news.ycombinator.com/item?id=44274475) - [Builder.ai did not \"fake AI with 700 engineers\"](https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/)
