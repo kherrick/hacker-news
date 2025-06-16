@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-16, 02:01:50](https://news.ycombinator.com/item?id=44286134) - [The Hewlett-Packard Archive](https://hparchive.com)
+* [2025-06-16, 00:14:55](https://news.ycombinator.com/item?id=44285781) - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
 * [2025-06-15, 23:01:38](https://news.ycombinator.com/item?id=44285521) - [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement)
 * [2025-06-15, 22:40:40](https://news.ycombinator.com/item?id=44285440) - [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
 * [2025-06-15, 22:37:12](https://news.ycombinator.com/item?id=44285426) - [Let's Talk About ChatGPT-Induced Spiritual Psychosis](https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual)
@@ -21,7 +23,6 @@
 * [2025-06-15, 11:41:53](https://news.ycombinator.com/item?id=44281812) - [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-15, 10:11:41](https://news.ycombinator.com/item?id=44281506) - [Foundations of Computer Vision](https://visionbook.mit.edu)
-* [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing (2003)](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-14, 11:23:55](https://news.ycombinator.com/item?id=44275679) - [Lisp-stat: Lisp environment for statistical computing](https://lisp-stat.dev/about/)
 * [2025-06-14, 10:22:06](https://news.ycombinator.com/item?id=44275471) - [Chemical knowledge and reasoning of large language models vs. chemist expertise](https://www.nature.com/articles/s41557-025-01815-x)
 * [2025-06-14, 05:38:07](https://news.ycombinator.com/item?id=44274435) - [Cure Dolly's Japanese Grammar Lessons](https://kellenok.github.io/cure-script/)
@@ -29,7 +30,6 @@
 * [2025-06-12, 14:25:14](https://news.ycombinator.com/item?id=44258199) - [Random Walk: A Modern Introduction [pdf]](https://www.math.uchicago.edu/~lawler/srwbook.pdf)
 * [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [Fields where Native Americans farmed a thousand years ago discovered in Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
 * [2025-06-12, 10:11:17](https://news.ycombinator.com/item?id=44255867) - [Cyborg Embryos Offer New Insights into Brain Growth](https://spectrum.ieee.org/embryo-electrode-array)
-* [2025-06-12, 08:15:18](https://news.ycombinator.com/item?id=44255232) - [Ruby on Rails Audit Complete](https://ostif.org/ruby-on-rails-audit-complete/)
 
 ## [Archives](archives/index.md)
 
