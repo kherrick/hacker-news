@@ -35,6 +35,7 @@
 * [2025-06-14, 10:22:06](https://news.ycombinator.com/item?id=44275471) - [Chemical knowledge and reasoning of large language models vs. chemist expertise](https://www.nature.com/articles/s41557-025-01815-x)
 * [2025-06-14, 08:29:47](https://news.ycombinator.com/item?id=44275066) - [Danish department determined to dump Microsoft](https://www.theregister.com/2025/06/13/danish_department_dump_microsoft/)
 * [2025-06-14, 08:21:06](https://news.ycombinator.com/item?id=44275030) - [To fuel AI, US Congress moves to fast-track nuclear plant approvals](https://www.wsj.com/articles/to-feed-power-wolfing-ai-lawmakers-are-embracing-nuclear-a461ab7d)
+* [2025-06-14, 08:15:31](https://news.ycombinator.com/item?id=44275014) - [Occurences of swearing in the Linux kernel source code over time](https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*)
 * [2025-06-14, 07:43:11](https://news.ycombinator.com/item?id=44274883) - [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
 * [2025-06-14, 07:36:18](https://news.ycombinator.com/item?id=44274854) - [How multiplication is defined in Peano arithmetic](http://devlinsangle.blogspot.com/2011/11/how-multiplication-is-really-defined-in.html)
 * [2025-06-14, 07:20:17](https://news.ycombinator.com/item?id=44274784) - [Strace Tips for Better Debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/)
