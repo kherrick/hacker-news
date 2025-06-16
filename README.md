@@ -24,10 +24,10 @@
 * [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 * [2025-06-16, 06:14:56](https://news.ycombinator.com/item?id=44287043) - [Nanonets-OCR-s – OCR model that transforms documents into structured markdown](https://huggingface.co/nanonets/Nanonets-OCR-s)
 * [2025-06-16, 00:36:41](https://news.ycombinator.com/item?id=44285874) - [Is gravity just entropy rising? Long-shot idea gets another look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
-* [2025-06-16, 00:14:55](https://news.ycombinator.com/item?id=44285781) - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
 * [2025-06-15, 20:49:18](https://news.ycombinator.com/item?id=44284871) - [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
 * [2025-06-15, 14:10:37](https://news.ycombinator.com/item?id=44282378) - [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 * [2025-06-14, 12:23:09](https://news.ycombinator.com/item?id=44275974) - [Adding public transport data to Transitous](https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html)
+* [2025-06-14, 11:26:38](https://news.ycombinator.com/item?id=44275696) - [Quantum mechanics provide truly random numbers on demand](https://phys.org/news/2025-06-quantum-mechanics-random-demand.html)
 * [2025-06-14, 08:48:25](https://news.ycombinator.com/item?id=44275134) - [Maya Blue: Unlocking the Mysteries of an Ancient Pigment](https://www.mexicolore.co.uk/maya/home/maya-blue-unlocking-the-mysteries-of-an-ancient-pigment)
 * [2025-06-14, 08:15:31](https://news.ycombinator.com/item?id=44275014) - [Occurences of swearing in the Linux kernel source code over time](https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*)
 
