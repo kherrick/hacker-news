@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-06-15, 11:18:40",
+      "https://news.ycombinator.com/item?id=44281727"
+    ],
+    [
+      "Datalog in Rust",
+      "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 12:09:51",
       "https://news.ycombinator.com/item?id=44275900"
     ],
@@ -287,16 +297,6 @@
     [
       "Occurences of swearing in the Linux kernel source code over time",
       "https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 16:00:19",
-      "https://news.ycombinator.com/item?id=44259238"
-    ],
-    [
-      "Hyperspectral scans of historical pigments and painting reconstructions",
-      "https://github.com/rubenwiersma/painting_tools"
     ]
   ]
 ]
