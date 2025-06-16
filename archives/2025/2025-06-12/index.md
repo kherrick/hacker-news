@@ -38,6 +38,7 @@
 * [2025-06-12, 16:46:24](https://news.ycombinator.com/item?id=44259844) - [Y Combinator startup Sorcerer raises $3.9M to launch more weather balloons](https://www.axios.com/pro/climate-deals/2025/06/12/sorcerer-seed-weather-balloons)
 * [2025-06-12, 16:18:01](https://news.ycombinator.com/item?id=44259476) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 16:12:45](https://news.ycombinator.com/item?id=44259398) - [US-backed Israeli company's spyware used to target European journalists](https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb)
+* [2025-06-12, 16:00:19](https://news.ycombinator.com/item?id=44259238) - [Hyperspectral scans of historical pigments and painting reconstructions](https://github.com/rubenwiersma/painting_tools)
 * [2025-06-12, 15:55:54](https://news.ycombinator.com/item?id=44259190) - [You can now legally walk with drinks on SF's Valencia St](https://missionlocal.org/2025/06/valencia-drinking-san-francisco/)
 * [2025-06-12, 15:49:40](https://news.ycombinator.com/item?id=44259132) - [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
 * [2025-06-12, 15:39:57](https://news.ycombinator.com/item?id=44259039) - [Researchers confirm two journalists were hacked with Paragon spyware](https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/)
