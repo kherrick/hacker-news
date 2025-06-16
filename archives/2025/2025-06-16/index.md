@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 09:39:42](https://news.ycombinator.com/item?id=44287933) - [Trading Bot Keeps Strategies Alive in a 24/7 Market](https://news.ycombinator.com/item?id=44287933)
 * [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 * [2025-06-16, 06:14:56](https://news.ycombinator.com/item?id=44287043) - [Open-source 3B param model better than Mistral OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
 * [2025-06-16, 05:03:58](https://news.ycombinator.com/item?id=44286748) - [Nesdev.org](https://www.nesdev.org/)
