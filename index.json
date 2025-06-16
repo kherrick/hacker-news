@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-16, 20:19:44",
+      "https://news.ycombinator.com/item?id=44293044"
+    ],
+    [
+      "retrobootstrapping rust for some reason",
+      "https://graydon2.dreamwidth.org/317484.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-16, 19:19:57",
+      "https://news.ycombinator.com/item?id=44292601"
+    ],
+    [
+      "Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons",
+      "https://arxiv.org/abs/2506.01963"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 18:51:33",
       "https://news.ycombinator.com/item?id=44292342"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-06-15, 22:29:34",
-      "https://news.ycombinator.com/item?id=44285392"
-    ],
-    [
-      "Real-time CO2 monitoring without batteries or external power",
-      "https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 20:49:18",
       "https://news.ycombinator.com/item?id=44284871"
     ],
     [
       "Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format",
       "https://github.com/rorosen/zeekstd"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 20:07:27",
-      "https://news.ycombinator.com/item?id=44284657"
-    ],
-    [
-      "Twin – A Textmode WINdow Environment",
-      "https://github.com/cosmos72/twin"
     ]
   ],
   [
