@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-16, 15:16:47](https://news.ycombinator.com/item?id=44290413) - [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
+* [2025-06-16, 15:07:42](https://news.ycombinator.com/item?id=44290315) - [ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development](https://arxiv.org/abs/2506.11016)
 * [2025-06-16, 14:49:34](https://news.ycombinator.com/item?id=44290121) - [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
 * [2025-06-16, 14:14:54](https://news.ycombinator.com/item?id=44289705) - [Mathematical Illustrations: A Manual of Geometry and PostScript](https://personal.math.ubc.ca/~cass/graphics/text/www/)
 * [2025-06-16, 13:59:18](https://news.ycombinator.com/item?id=44289554) - [Salesforce study finds LLM agents flunk CRM and confidentiality tests](https://www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/)
@@ -19,7 +21,6 @@
 * [2025-06-15, 16:00:43](https://news.ycombinator.com/item?id=44282998) - [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
 * [2025-06-15, 14:10:37](https://news.ycombinator.com/item?id=44282378) - [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 * [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
-* [2025-06-15, 12:40:07](https://news.ycombinator.com/item?id=44282017) - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
 * [2025-06-15, 11:18:40](https://news.ycombinator.com/item?id=44281727) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-14, 12:09:51](https://news.ycombinator.com/item?id=44275900) - [Solving LinkedIn Queens with APL](https://pitr.ca/2025-06-14-queens)
 * [2025-06-14, 11:36:01](https://news.ycombinator.com/item?id=44275737) - [A Framework for Characterizing Emergent Conflict Between Non-Coordinating Agents [pdf]](https://paperclipmaximizer.ai/Unaware_Adversaries.pdf)
@@ -29,7 +30,6 @@
 * [2025-06-14, 08:15:31](https://news.ycombinator.com/item?id=44275014) - [Occurences of swearing in the Linux kernel source code over time](https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*)
 * [2025-06-12, 18:26:43](https://news.ycombinator.com/item?id=44261118) - [First 2D, non-silicon computer developed](https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed)
 * [2025-06-12, 16:00:19](https://news.ycombinator.com/item?id=44259238) - [Hyperspectral scans of historical pigments and painting reconstructions](https://github.com/rubenwiersma/painting_tools)
-* [2025-06-12, 13:13:39](https://news.ycombinator.com/item?id=44257422) - [Fields where Native Americans farmed a thousand years ago discovered in Michigan](https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/)
 
 ## [Archives](archives/index.md)
 

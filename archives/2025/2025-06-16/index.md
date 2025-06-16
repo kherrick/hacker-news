@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 15:16:47](https://news.ycombinator.com/item?id=44290413) - [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
+* [2025-06-16, 15:07:42](https://news.ycombinator.com/item?id=44290315) - [ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development](https://arxiv.org/abs/2506.11016)
 * [2025-06-16, 14:49:34](https://news.ycombinator.com/item?id=44290121) - [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
 * [2025-06-16, 14:14:54](https://news.ycombinator.com/item?id=44289705) - [Mathematical Illustrations: A Manual of Geometry and PostScript](https://personal.math.ubc.ca/~cass/graphics/text/www/)
 * [2025-06-16, 13:59:18](https://news.ycombinator.com/item?id=44289554) - [Salesforce study finds LLM agents flunk CRM and confidentiality tests](https://www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/)
