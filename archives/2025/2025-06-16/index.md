@@ -7,6 +7,7 @@
 * [2025-06-16, 21:00:47](https://news.ycombinator.com/item?id=44293358) - [Blaze (YC S24) Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
 * [2025-06-16, 20:48:43](https://news.ycombinator.com/item?id=44293260) - [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
 * [2025-06-16, 20:33:45](https://news.ycombinator.com/item?id=44293147) - [Show HN: Nexus.js - Fabric.js for 3D](https://punk.cam/lab/nexus)
+* [2025-06-16, 20:31:50](https://news.ycombinator.com/item?id=44293132) - [Denmark tests unmanned robotic sailboat fleet](https://apnews.com/article/denmark-robot-sailboats-baltic-sea-bfa31c98cf7c93320115c0ad0e6908c5)
 * [2025-06-16, 20:19:44](https://news.ycombinator.com/item?id=44293044) - [retrobootstrapping rust for some reason](https://graydon2.dreamwidth.org/317484.html)
 * [2025-06-16, 19:19:57](https://news.ycombinator.com/item?id=44292601) - [Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://arxiv.org/abs/2506.01963)
 * [2025-06-16, 18:51:33](https://news.ycombinator.com/item?id=44292342) - [Transparent peer review to be extended to all of Nature's research papers](https://www.nature.com/articles/d41586-025-01880-9)
