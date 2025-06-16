@@ -15,6 +15,7 @@
 * [2025-06-16, 15:11:48](https://news.ycombinator.com/item?id=44290357) - [Goodbye Dark, Inc. – Welcome Darklang, Inc](https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/)
 * [2025-06-16, 15:09:17](https://news.ycombinator.com/item?id=44290331) - [OpenTelemetry for Go: Measuring overhead costs](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)
 * [2025-06-16, 15:07:42](https://news.ycombinator.com/item?id=44290315) - [ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development](https://arxiv.org/abs/2506.11016)
+* [2025-06-16, 14:56:36](https://news.ycombinator.com/item?id=44290207) - [Show HN: Trieve CLI – Terminal-Based LLM Agent Loop with Search Tool for PDFs](https://github.com/devflowinc/trieve/tree/main/clients/cli)
 * [2025-06-16, 14:49:34](https://news.ycombinator.com/item?id=44290121) - [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
 * [2025-06-16, 14:34:03](https://news.ycombinator.com/item?id=44289944) - [How the first electric grid was built](https://www.worksinprogress.news/p/how-the-worlds-first-electric-grid)
 * [2025-06-16, 14:14:54](https://news.ycombinator.com/item?id=44289705) - [Mathematical Illustrations: A Manual of Geometry and PostScript](https://personal.math.ubc.ca/~cass/graphics/text/www/)
