@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-06-16, 11:01:32",
-      "https://news.ycombinator.com/item?id=44288377"
-    ],
-    [
-      "Snorting the AGI with Claude Code",
-      "https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code"
-    ]
-  ],
-  [
-    [
       "2025-06-16, 06:14:56",
       "https://news.ycombinator.com/item?id=44287043"
     ],
@@ -267,6 +257,16 @@
     [
       "ZX Spectrum graphics magic",
       "https://zxonline.net/zx-spectrum-graphics-magic-the-basics-every-spectrum-fan-should-know/"
+    ]
+  ],
+  [
+    [
+      "2025-06-14, 16:29:35",
+      "https://news.ycombinator.com/item?id=44277284"
+    ],
+    [
+      "Pitfalls of premature closure with LLM assisted coding",
+      "https://www.shayon.dev/post/2025/164/pitfalls-of-premature-closure-with-llm-assisted-coding/"
     ]
   ],
   [
