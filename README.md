@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-17, 10:10:25](https://news.ycombinator.com/item?id=44297437) - [Threat in Your Medicine Cabinet: The FDA's Gamble on America's Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
 * [2025-06-17, 09:53:21](https://news.ycombinator.com/item?id=44297349) - [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
 * [2025-06-17, 08:57:46](https://news.ycombinator.com/item?id=44297045) - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
 * [2025-06-17, 07:58:42](https://news.ycombinator.com/item?id=44296711) - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
@@ -26,7 +27,6 @@
 * [2025-06-15, 19:51:42](https://news.ycombinator.com/item?id=44284569) - [Iron nitride permanent magnets made with DIY ball mill [video]](https://www.youtube.com/watch?v=M6XIgdS1rzs)
 * [2025-06-15, 10:22:34](https://news.ycombinator.com/item?id=44281540) - [ZX Spectrum graphics magic](https://zxonline.net/zx-spectrum-graphics-magic-the-basics-every-spectrum-fan-should-know/)
 * [2025-06-15, 06:41:31](https://news.ycombinator.com/item?id=44280926) - [How you breathe is like a fingerprint that can identify you](https://www.nature.com/articles/d41586-025-01835-0)
-* [2025-06-14, 16:29:35](https://news.ycombinator.com/item?id=44277284) - [Pitfalls of premature closure with LLM assisted coding](https://www.shayon.dev/post/2025/164/pitfalls-of-premature-closure-with-llm-assisted-coding/)
 * [2025-06-13, 23:15:00](https://news.ycombinator.com/item?id=44273105) - [Photon transport through the entire adult human head](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-02/025014/Photon-transport-through-the-entire-adult-human-head/10.1117/1.NPh.12.2.025014.full)
 * [2025-06-13, 13:52:53](https://news.ycombinator.com/item?id=44268559) - [Jacob's Phone Simulator](https://jacobfilipp.com/phone/)
 * [2025-06-13, 13:28:45](https://news.ycombinator.com/item?id=44268345) - [Natural rubber with high resistance to  crack growth](https://www.nature.com/articles/s41893-025-01559-z.epdf?sharing_token=SST16F7yBaUkRDb702ZphtRgN0jAjWel9jnR3ZoTv0P9y52VPdTYScQoHBinE3JzdSvQ1aN3fhS4SSECYXRnvZ77nkrWJA2412S2E-26Il-ncine3ET1t1GzNaX2Oo2cK9GYzFNCrKSRycPCrQKJZ8QvfBeSTNR5d12_ZHLvyYkt26oAnSVTBuopgCE4tHIVPnWtjLZS3OhBz1H2OhtXQMmNFMhf-2lYu5vkTl596uaKjxxqTFBbSZj1phjSIDRELkwyRfUsM77Gu7S0VF_fPvJZAYxvV_2Hduld7MbfF1M4RO8vHe5OtCz383c2iHBjxkZ4gU59FErIjNBnLDPDT79Jaj04hbpqLWqUoVxoYCs%3D)
