@@ -52,5 +52,6 @@
 * [2025-06-16, 02:01:50](https://news.ycombinator.com/item?id=44286134) - [The Hewlett-Packard Archive](https://hparchive.com)
 * [2025-06-16, 01:46:42](https://news.ycombinator.com/item?id=44286086) - [Why Claude's Comment Paper Is a Poor Rebuttal](https://victoramartinez.com/posts/why-claudes-comment-paper-is-a-poor-rebuttal/)
 * [2025-06-16, 01:44:58](https://news.ycombinator.com/item?id=44286078) - [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)
+* [2025-06-16, 01:00:15](https://news.ycombinator.com/item?id=44285956) - [Cmapv2: A high performance, concurrent map](https://github.com/sirgallo/cmapv2)
 * [2025-06-16, 00:36:41](https://news.ycombinator.com/item?id=44285874) - [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 * [2025-06-16, 00:14:55](https://news.ycombinator.com/item?id=44285781) - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)

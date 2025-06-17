@@ -6,9 +6,12 @@
 
 * [2025-06-17, 14:55:32](https://news.ycombinator.com/item?id=44300027) - [The Collapse of Complex Societies](https://matthewbutterick.com/chron/the-collapse-of-complex-societies.html)
 * [2025-06-17, 14:55:23](https://news.ycombinator.com/item?id=44300026) - [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
+* [2025-06-17, 14:51:40](https://news.ycombinator.com/item?id=44299979) - [Now might be the best time to learn software development](https://substack.com/home/post/p-165655726)
+* [2025-06-17, 14:51:10](https://news.ycombinator.com/item?id=44299970) - [Why JPEGs Still Rule the Web After 30 Years](https://spectrum.ieee.org/jpeg-image-format-history)
 * [2025-06-17, 14:47:26](https://news.ycombinator.com/item?id=44299930) - [What I Wish Someone Told Me When I Was Getting into ARIA](https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/)
 * [2025-06-17, 14:01:16](https://news.ycombinator.com/item?id=44299354) - [The Hamburger-Menu Icon Today: Is It Recognizable?](https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/)
 * [2025-06-17, 13:11:33](https://news.ycombinator.com/item?id=44298771) - [Are AI Bots Knocking Cultural Heritage Offline?](https://www.glamelab.org/products/are-ai-bots-knocking-cultural-heritage-offline/)
+* [2025-06-17, 13:08:01](https://news.ycombinator.com/item?id=44298724) - [Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone](https://arxiv.org/abs/2506.02774)
 * [2025-06-17, 13:02:54](https://news.ycombinator.com/item?id=44298656) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-17, 12:34:22](https://news.ycombinator.com/item?id=44298369) - [Linux kernel WireGuard can go 'fast' on decent hardware](https://utcc.utoronto.ca/~cks/space/blog/linux/WireGuardCanGoFast)
 * [2025-06-17, 12:29:51](https://news.ycombinator.com/item?id=44298327) - [Hack the Planet: 90s Hacker Culture vs. Today's AI Devs](https://gizvault.com/archives/hack-the-planet)
