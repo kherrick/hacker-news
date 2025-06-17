@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 12:34:22](https://news.ycombinator.com/item?id=44298369) - [Linux kernel WireGuard can go 'fast' on decent hardware](https://utcc.utoronto.ca/~cks/space/blog/linux/WireGuardCanGoFast)
+* [2025-06-17, 12:29:51](https://news.ycombinator.com/item?id=44298327) - [Hack the Planet: 90s Hacker Culture vs. Today's AI Devs](https://gizvault.com/archives/hack-the-planet)
+* [2025-06-17, 12:00:38](https://news.ycombinator.com/item?id=44298066) - [AI threatens to raid the water reserves of Europe's driest regions](https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/)
+* [2025-06-17, 11:35:24](https://news.ycombinator.com/item?id=44297882) - [Insanity: Locked Out – The Andrew Bailey](https://theandrewbailey.com/article/203/Insanity-Locked-Out.html)
 * [2025-06-17, 10:10:25](https://news.ycombinator.com/item?id=44297437) - [Threat in Your Medicine Cabinet: The FDA's Gamble on America's Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
 * [2025-06-17, 10:09:22](https://news.ycombinator.com/item?id=44297431) - [No Hello](https://nohello.net/en/)
 * [2025-06-17, 09:53:21](https://news.ycombinator.com/item?id=44297349) - [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
