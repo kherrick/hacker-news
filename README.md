@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-17, 12:02:31](https://news.ycombinator.com/item?id=44298081) - [Google aims to reinvent email with Wave (2009)](https://www.cbc.ca/news/canada/how-google-aims-to-reinvent-email-with-wave-1.826825)
-* [2025-06-17, 10:56:26](https://news.ycombinator.com/item?id=44297652) - [\"Microsoft Locked My Account – I Lost 30 Years of Photos and Work\"](https://old.reddit.com/r/pcmasterrace/comments/1ldef4p/microsoft_locked_my_account_i_lost_30_years_of/)
 * [2025-06-17, 10:10:25](https://news.ycombinator.com/item?id=44297437) - [Threat in Your Medicine Cabinet: The FDA's Gamble on America's Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
 * [2025-06-17, 08:57:46](https://news.ycombinator.com/item?id=44297045) - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
 * [2025-06-17, 08:22:00](https://news.ycombinator.com/item?id=44296835) - [NexusMods Changes Hands](https://www.nexusmods.com/news/15301)
@@ -19,6 +18,7 @@
 * [2025-06-16, 20:33:45](https://news.ycombinator.com/item?id=44293147) - [Show HN: Nexus.js - Fabric.js for 3D](https://punk.cam/lab/nexus)
 * [2025-06-16, 18:27:59](https://news.ycombinator.com/item?id=44292103) - [Show HN: Canine – A Heroku alternative built on Kubernetes](https://github.com/czhu12/canine)
 * [2025-06-16, 18:07:37](https://news.ycombinator.com/item?id=44291892) - [Dull Men’s Club](https://www.theguardian.com/society/2025/jun/09/meet-the-members-of-the-dull-mens-club-some-of-them-would-bore-the-ears-off-you)
+* [2025-06-16, 16:46:55](https://news.ycombinator.com/item?id=44291204) - [Open-Source RISC-V: Energy Efficiency of Superscalar, Out-of-Order Execution](https://arxiv.org/abs/2505.24363)
 * [2025-06-16, 15:16:47](https://news.ycombinator.com/item?id=44290413) - [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
 * [2025-06-16, 13:38:59](https://news.ycombinator.com/item?id=44289412) - [WhatsApp introduces ads in its app](https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html)
 * [2025-06-15, 20:50:03](https://news.ycombinator.com/item?id=44284877) - [How Frogger 2’s source code was recovered from a destroyed tape [video]](https://www.youtube.com/watch?v=lvEO4IaEJlw)
