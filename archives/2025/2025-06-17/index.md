@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 19:03:23](https://news.ycombinator.com/item?id=44302650) - [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
+* [2025-06-17, 18:44:14](https://news.ycombinator.com/item?id=44302414) - [Astronomers Just Solved the Mystery of the Universe's Missing Matter](https://gizmodo.com/astronomers-just-solved-the-mystery-of-the-universes-missing-matter-2000616320)
 * [2025-06-17, 18:05:53](https://news.ycombinator.com/item?id=44301998) - [Time Series Forecasting with Graph Transformers](https://kumo.ai/research/time-series-forecasting/)
 * [2025-06-17, 17:50:05](https://news.ycombinator.com/item?id=44301809) - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
 * [2025-06-17, 17:48:53](https://news.ycombinator.com/item?id=44301794) - [Threads is adding Fediverse content to social feeds](https://www.theverge.com/news/688267/threads-fediverse-feed-search)
