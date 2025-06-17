@@ -60,6 +60,7 @@
 * [2025-06-15, 09:14:09](https://news.ycombinator.com/item?id=44281371) - [Notes on the History of the Map Tile](https://placing.technology/notes-on-the-history-of-the-map-tile)
 * [2025-06-15, 07:52:49](https://news.ycombinator.com/item?id=44281148) - [Tiny-diffusion: A minimal implementation of probabilistic diffusion models](https://github.com/tanelp/tiny-diffusion)
 * [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
+* [2025-06-15, 06:41:31](https://news.ycombinator.com/item?id=44280926) - [How you breathe is like a fingerprint that can identify you](https://www.nature.com/articles/d41586-025-01835-0)
 * [2025-06-15, 06:38:37](https://news.ycombinator.com/item?id=44280920) - [Root Cause of the June 12, 2025 Google Cloud Outage](https://twitter.com/0xTib3rius/status/1933702904734429560)
 * [2025-06-15, 05:47:48](https://news.ycombinator.com/item?id=44280796) - [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
 * [2025-06-15, 04:43:52](https://news.ycombinator.com/item?id=44280588) - [The Tech Plutocrats Dreaming of a Right-Wing San Francisco (2024)](https://newrepublic.com/article/178675/garry-tan-tech-san-francisco)
