@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-17, 12:02:31](https://news.ycombinator.com/item?id=44298081) - [Google aims to reinvent email with Wave (2009)](https://www.cbc.ca/news/canada/how-google-aims-to-reinvent-email-with-wave-1.826825)
-* [2025-06-17, 10:10:25](https://news.ycombinator.com/item?id=44297437) - [Threat in Your Medicine Cabinet: The FDA's Gamble on America's Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
+* [2025-06-17, 14:01:16](https://news.ycombinator.com/item?id=44299354) - [The Hamburger-Menu Icon Today: Is It Recognizable?](https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/)
+* [2025-06-17, 13:02:54](https://news.ycombinator.com/item?id=44298656) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-17, 08:57:46](https://news.ycombinator.com/item?id=44297045) - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
-* [2025-06-17, 08:22:00](https://news.ycombinator.com/item?id=44296835) - [NexusMods Changes Hands](https://www.nexusmods.com/news/15301)
 * [2025-06-17, 07:32:07](https://news.ycombinator.com/item?id=44296564) - [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
+* [2025-06-17, 06:33:38](https://news.ycombinator.com/item?id=44296237) - [BMW ConnectedDrive lets me control my returned rental car (Sixt)](https://news.ycombinator.com/item?id=44296237)
 * [2025-06-17, 05:08:55](https://news.ycombinator.com/item?id=44295925) - [Fun with Telnet](https://brandonrozek.com/blog/fun-with-telnet/)
 * [2025-06-17, 04:07:31](https://news.ycombinator.com/item?id=44295667) - [Show HN: I recreated 90s Mode X demoscene effects in JavaScript and Canvas](https://jdfio.com/pages-output/demos/x-mode/)
 * [2025-06-17, 01:25:25](https://news.ycombinator.com/item?id=44294905) - [The Humble Programmer (1972)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
@@ -27,8 +27,8 @@
 * [2025-06-15, 06:41:31](https://news.ycombinator.com/item?id=44280926) - [How you breathe is like a fingerprint that can identify you](https://www.nature.com/articles/d41586-025-01835-0)
 * [2025-06-14, 16:29:35](https://news.ycombinator.com/item?id=44277284) - [Pitfalls of premature closure with LLM assisted coding](https://www.shayon.dev/post/2025/164/pitfalls-of-premature-closure-with-llm-assisted-coding/)
 * [2025-06-14, 16:07:23](https://news.ycombinator.com/item?id=44277179) - [AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge](https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing)
+* [2025-06-14, 14:55:28](https://news.ycombinator.com/item?id=44276778) - [Attempting to Make the Smallest* Electric Motor [video]](https://www.youtube.com/watch?v=6x_NMytSA90)
 * [2025-06-13, 23:15:00](https://news.ycombinator.com/item?id=44273105) - [Photon transport through the entire adult human head](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-02/025014/Photon-transport-through-the-entire-adult-human-head/10.1117/1.NPh.12.2.025014.full)
-* [2025-06-13, 15:04:40](https://news.ycombinator.com/item?id=44269192) - [US Streetlights Are Turning Purple](https://www.scientificamerican.com/article/streetlights-are-mysteriously-turning-purple-heres-why/)
 * [2025-06-13, 13:28:45](https://news.ycombinator.com/item?id=44268345) - [Natural rubber with high resistance to  crack growth](https://www.nature.com/articles/s41893-025-01559-z.epdf?sharing_token=SST16F7yBaUkRDb702ZphtRgN0jAjWel9jnR3ZoTv0P9y52VPdTYScQoHBinE3JzdSvQ1aN3fhS4SSECYXRnvZ77nkrWJA2412S2E-26Il-ncine3ET1t1GzNaX2Oo2cK9GYzFNCrKSRycPCrQKJZ8QvfBeSTNR5d12_ZHLvyYkt26oAnSVTBuopgCE4tHIVPnWtjLZS3OhBz1H2OhtXQMmNFMhf-2lYu5vkTl596uaKjxxqTFBbSZj1phjSIDRELkwyRfUsM77Gu7S0VF_fPvJZAYxvV_2Hduld7MbfF1M4RO8vHe5OtCz383c2iHBjxkZ4gU59FErIjNBnLDPDT79Jaj04hbpqLWqUoVxoYCs%3D)
 
 ## [Archives](archives/index.md)

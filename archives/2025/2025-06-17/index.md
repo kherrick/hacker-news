@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 14:01:16](https://news.ycombinator.com/item?id=44299354) - [The Hamburger-Menu Icon Today: Is It Recognizable?](https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/)
 * [2025-06-17, 13:11:33](https://news.ycombinator.com/item?id=44298771) - [Are AI Bots Knocking Cultural Heritage Offline?](https://www.glamelab.org/products/are-ai-bots-knocking-cultural-heritage-offline/)
+* [2025-06-17, 13:02:54](https://news.ycombinator.com/item?id=44298656) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-17, 12:34:22](https://news.ycombinator.com/item?id=44298369) - [Linux kernel WireGuard can go 'fast' on decent hardware](https://utcc.utoronto.ca/~cks/space/blog/linux/WireGuardCanGoFast)
 * [2025-06-17, 12:29:51](https://news.ycombinator.com/item?id=44298327) - [Hack the Planet: 90s Hacker Culture vs. Today's AI Devs](https://gizvault.com/archives/hack-the-planet)
 * [2025-06-17, 12:02:31](https://news.ycombinator.com/item?id=44298081) - [Google aims to reinvent email with Wave (2009)](https://www.cbc.ca/news/canada/how-google-aims-to-reinvent-email-with-wave-1.826825)
@@ -19,6 +21,7 @@
 * [2025-06-17, 08:22:00](https://news.ycombinator.com/item?id=44296835) - [NexusMods Changes Hands](https://www.nexusmods.com/news/15301)
 * [2025-06-17, 07:58:42](https://news.ycombinator.com/item?id=44296711) - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
 * [2025-06-17, 07:32:07](https://news.ycombinator.com/item?id=44296564) - [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
+* [2025-06-17, 06:33:38](https://news.ycombinator.com/item?id=44296237) - [BMW ConnectedDrive lets me control my returned rental car (Sixt)](https://news.ycombinator.com/item?id=44296237)
 * [2025-06-17, 05:50:01](https://news.ycombinator.com/item?id=44296087) - [Defense Department signs OpenAI for $200M 'frontier AI' pilot project](https://www.theregister.com/2025/06/17/dod_openai_contract/)
 * [2025-06-17, 05:25:24](https://news.ycombinator.com/item?id=44295977) - [She Won. They Didn't Just Change the Machines. They Rewired the Election](https://substack.com/inbox/post/165658733)
 * [2025-06-17, 05:08:55](https://news.ycombinator.com/item?id=44295925) - [Fun with Telnet](https://brandonrozek.com/blog/fun-with-telnet/)
