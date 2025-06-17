@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-17, 19:39:26](https://news.ycombinator.com/item?id=44303021) - [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
+* [2025-06-17, 19:17:05](https://news.ycombinator.com/item?id=44302797) - [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
 * [2025-06-17, 19:12:23](https://news.ycombinator.com/item?id=44302752) - [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
 * [2025-06-17, 19:03:23](https://news.ycombinator.com/item?id=44302650) - [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
 * [2025-06-17, 18:44:14](https://news.ycombinator.com/item?id=44302414) - [Astronomers Just Solved the Mystery of the Universe's Missing Matter](https://gizmodo.com/astronomers-just-solved-the-mystery-of-the-universes-missing-matter-2000616320)
@@ -26,7 +27,6 @@
 * [2025-06-16, 01:00:15](https://news.ycombinator.com/item?id=44285956) - [Cmapv2: A high performance, concurrent map](https://github.com/sirgallo/cmapv2)
 * [2025-06-15, 17:30:07](https://news.ycombinator.com/item?id=44283637) - [Calculating Oil Storage Tank Occupancy with Help of Satellite Imagery](https://medium.com/planet-stories/a-beginners-guide-to-calculating-oil-storage-tank-occupancy-with-help-of-satellite-imagery-e8f387200178)
 * [2025-06-15, 06:41:31](https://news.ycombinator.com/item?id=44280926) - [How you breathe is like a fingerprint that can identify you](https://www.nature.com/articles/d41586-025-01835-0)
-* [2025-06-14, 16:29:35](https://news.ycombinator.com/item?id=44277284) - [Pitfalls of premature closure with LLM assisted coding](https://www.shayon.dev/post/2025/164/pitfalls-of-premature-closure-with-llm-assisted-coding/)
 * [2025-06-14, 16:07:23](https://news.ycombinator.com/item?id=44277179) - [AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge](https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing)
 * [2025-06-14, 14:55:28](https://news.ycombinator.com/item?id=44276778) - [Attempting to Make the Smallest* Electric Motor [video]](https://www.youtube.com/watch?v=6x_NMytSA90)
 * [2025-06-13, 20:04:03](https://news.ycombinator.com/item?id=44271760) - [After millions of years, why are carnivorous plants still so small?](https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/)

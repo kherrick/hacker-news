@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
 * [2025-06-17, 19:39:26](https://news.ycombinator.com/item?id=44303021) - [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
+* [2025-06-17, 19:17:05](https://news.ycombinator.com/item?id=44302797) - [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
 * [2025-06-17, 19:12:23](https://news.ycombinator.com/item?id=44302752) - [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
 * [2025-06-17, 19:03:23](https://news.ycombinator.com/item?id=44302650) - [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
 * [2025-06-17, 18:47:55](https://news.ycombinator.com/item?id=44302461) - [New York City mayoral candidate Brad Lander arrested at immigration court](https://www.theguardian.com/us-news/2025/jun/17/brad-lander-arrested-new-york-city-comptroller)
