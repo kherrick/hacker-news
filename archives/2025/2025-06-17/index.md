@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 22:50:20](https://news.ycombinator.com/item?id=44304860) - [How to use Prometheus to efficiently detect anomalies at scale](https://grafana.com/blog/2024/10/03/how-to-use-prometheus-to-efficiently-detect-anomalies-at-scale/)
 * [2025-06-17, 21:26:14](https://news.ycombinator.com/item?id=44304141) - [Bots are overwhelming websites with their hunger for AI data](https://www.theregister.com/2025/06/17/bot_overwhelming_websites_report/)
+* [2025-06-17, 21:03:26](https://news.ycombinator.com/item?id=44303929) - [Apple: Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-my/122756)
 * [2025-06-17, 21:00:27](https://news.ycombinator.com/item?id=44303901) - [Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
 * [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2025-06-17, 20:24:18](https://news.ycombinator.com/item?id=44303538) - [AI will shrink Amazon's workforce in the coming years, CEO Jassy says](https://www.cnbc.com/2025/06/17/ai-amazon-workforce-jassy.html)
