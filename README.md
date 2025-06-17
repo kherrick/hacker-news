@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-17, 22:50:20](https://news.ycombinator.com/item?id=44304860) - [How to use Prometheus to efficiently detect anomalies at scale](https://grafana.com/blog/2024/10/03/how-to-use-prometheus-to-efficiently-detect-anomalies-at-scale/)
 * [2025-06-17, 21:03:26](https://news.ycombinator.com/item?id=44303929) - [Apple: Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-my/122756)
 * [2025-06-17, 21:00:27](https://news.ycombinator.com/item?id=44303901) - [Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
 * [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
@@ -24,6 +23,7 @@
 * [2025-06-17, 13:02:54](https://news.ycombinator.com/item?id=44298656) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-17, 08:57:46](https://news.ycombinator.com/item?id=44297045) - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
 * [2025-06-15, 15:54:54](https://news.ycombinator.com/item?id=44282953) - [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
+* [2025-06-15, 02:38:49](https://news.ycombinator.com/item?id=44280168) - [Show HN: I made an online Unicode Cuneiform digital clock](https://oisinmoran.com/sumertime)
 * [2025-06-14, 16:07:23](https://news.ycombinator.com/item?id=44277179) - [AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge](https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing)
 * [2025-06-14, 14:53:32](https://news.ycombinator.com/item?id=44276765) - [Tetrachromatic Vision](https://www.bookofjoe.com/2025/05/my-entry-32.html)
 * [2025-06-14, 14:35:10](https://news.ycombinator.com/item?id=44276692) - [A Rural Public Transit Odyssey](https://shagbark.substack.com/p/a-rural-public-transit-odyssey)
