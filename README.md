@@ -7,7 +7,6 @@
 * [2025-06-17, 00:13:00](https://news.ycombinator.com/item?id=44294526) - [The drawbridges come up: the dream of a interconnected context ecosystem is over](https://www.dbreunig.com/2025/06/16/drawbridges-go-up.html)
 * [2025-06-16, 22:31:58](https://news.ycombinator.com/item?id=44293988) - [OpenAI wins $200M U.S. defense contract](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
 * [2025-06-16, 22:22:33](https://news.ycombinator.com/item?id=44293922) - [Battle to eradicate invasive pythons in Florida achieves milestone](https://phys.org/news/2025-06-eradicate-invasive-pythons-florida-stunning.html)
-* [2025-06-16, 22:06:58](https://news.ycombinator.com/item?id=44293837) - [Privacy implications of browsers’ (mis)implementations of Widevine EME (2023)](https://hal.science/hal-04179324v1/document)
 * [2025-06-16, 21:34:09](https://news.ycombinator.com/item?id=44293610) - [What happens when clergy take psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
 * [2025-06-16, 21:00:47](https://news.ycombinator.com/item?id=44293358) - [Blaze (YC S24) Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
 * [2025-06-16, 20:48:43](https://news.ycombinator.com/item?id=44293260) - [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
@@ -28,6 +27,7 @@
 * [2025-06-15, 20:49:18](https://news.ycombinator.com/item?id=44284871) - [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
 * [2025-06-15, 19:51:42](https://news.ycombinator.com/item?id=44284569) - [Iron nitride permanent magnets made with DIY ball mill [video]](https://www.youtube.com/watch?v=M6XIgdS1rzs)
 * [2025-06-15, 10:22:34](https://news.ycombinator.com/item?id=44281540) - [ZX Spectrum graphics magic](https://zxonline.net/zx-spectrum-graphics-magic-the-basics-every-spectrum-fan-should-know/)
+* [2025-06-14, 14:55:53](https://news.ycombinator.com/item?id=44276781) - [Case Study: Mars College](https://supernuclear.substack.com/p/case-study-mars-college)
 * [2025-06-13, 23:15:00](https://news.ycombinator.com/item?id=44273105) - [Photon transport through the entire adult human head](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-02/025014/Photon-transport-through-the-entire-adult-human-head/10.1117/1.NPh.12.2.025014.full)
 * [2025-06-13, 13:28:45](https://news.ycombinator.com/item?id=44268345) - [Natural rubber with high resistance to  crack growth](https://www.nature.com/articles/s41893-025-01559-z.epdf?sharing_token=SST16F7yBaUkRDb702ZphtRgN0jAjWel9jnR3ZoTv0P9y52VPdTYScQoHBinE3JzdSvQ1aN3fhS4SSECYXRnvZ77nkrWJA2412S2E-26Il-ncine3ET1t1GzNaX2Oo2cK9GYzFNCrKSRycPCrQKJZ8QvfBeSTNR5d12_ZHLvyYkt26oAnSVTBuopgCE4tHIVPnWtjLZS3OhBz1H2OhtXQMmNFMhf-2lYu5vkTl596uaKjxxqTFBbSZj1phjSIDRELkwyRfUsM77Gu7S0VF_fPvJZAYxvV_2Hduld7MbfF1M4RO8vHe5OtCz383c2iHBjxkZ4gU59FErIjNBnLDPDT79Jaj04hbpqLWqUoVxoYCs%3D)
 
