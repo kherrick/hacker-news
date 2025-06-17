@@ -31,21 +31,11 @@
   ],
   [
     [
-      "2025-06-17, 20:24:18",
-      "https://news.ycombinator.com/item?id=44303538"
-    ],
-    [
-      "AI will shrink Amazon's workforce in the coming years, CEO Jassy says",
-      "https://www.cnbc.com/2025/06/17/ai-amazon-workforce-jassy.html"
-    ]
-  ],
-  [
-    [
       "2025-06-17, 20:06:54",
       "https://news.ycombinator.com/item?id=44303361"
     ],
     [
-      "Bzip2 crate switches from C to 100% rust",
+      "Bzip2 crate switches from C to 100% Rust",
       "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
     ]
   ],
@@ -75,8 +65,18 @@
       "https://news.ycombinator.com/item?id=44302797"
     ],
     [
-      "Programming Language Design in the Era of LLMs: A Return to Mediocrity?",
+      "LLMs pose an interesting problem for DSL designers",
       "https://kirancodes.me/posts/log-lang-design-llms.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 19:12:23",
+      "https://news.ycombinator.com/item?id=44302752"
+    ],
+    [
+      "Iran asks its people to delete WhatsApp from their devices",
+      "https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1"
     ]
   ],
   [
@@ -131,22 +131,12 @@
   ],
   [
     [
-      "2025-06-17, 17:12:30",
-      "https://news.ycombinator.com/item?id=44301373"
+      "2025-06-17, 17:25:42",
+      "https://news.ycombinator.com/item?id=44301501"
     ],
     [
-      "Guidelines on how to be a scientific sleuth released",
-      "https://osf.io/2kdez/wiki/home/"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 16:54:44",
-      "https://news.ycombinator.com/item?id=44301186"
-    ],
-    [
-      "Miscalculation by Spanish power grid operator REE contributed to blackout",
-      "https://www.reuters.com/business/energy/investigation-into-spains-april-28-blackout-shows-no-evidence-cyberattack-2025-06-17/"
+      "Brad Lander detained by masked federal agents inside immigration court",
+      "https://www.thecity.nyc/2025/06/17/brad-lander-arrest-ice-immigration-court/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Honda conducts successful launch and landing of experimental reusable rocket",
       "https://global.honda/en/topics/2025/c_2025-06-17ceng.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 14:51:40",
+      "https://news.ycombinator.com/item?id=44299979"
+    ],
+    [
+      "Now might be the best time to learn software development",
+      "https://substack.com/home/post/p-165655726"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-06-17, 13:02:54",
+      "https://news.ycombinator.com/item?id=44298656"
+    ],
+    [
+      "Should we design for iffy internet?",
+      "https://bytes.zone/posts/should-we-design-for-iffy-internet/"
+    ]
+  ],
+  [
+    [
       "2025-06-17, 08:57:46",
       "https://news.ycombinator.com/item?id=44297045"
     ],
@@ -231,42 +241,12 @@
   ],
   [
     [
-      "2025-06-16, 21:34:09",
-      "https://news.ycombinator.com/item?id=44293610"
-    ],
-    [
-      "What happens when clergy take psilocybin",
-      "https://nautil.us/clergy-blown-away-by-psilocybin-1217112/"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 17:30:07",
-      "https://news.ycombinator.com/item?id=44283637"
-    ],
-    [
-      "Calculating Oil Storage Tank Occupancy with Help of Satellite Imagery",
-      "https://medium.com/planet-stories/a-beginners-guide-to-calculating-oil-storage-tank-occupancy-with-help-of-satellite-imagery-e8f387200178"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 16:07:23",
       "https://news.ycombinator.com/item?id=44277179"
     ],
     [
       "AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge",
       "https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 14:55:28",
-      "https://news.ycombinator.com/item?id=44276778"
-    ],
-    [
-      "Attempting to Make the Smallest* Electric Motor [video]",
-      "https://www.youtube.com/watch?v=6x_NMytSA90"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-06-14, 13:01:47",
+      "https://news.ycombinator.com/item?id=44276200"
+    ],
+    [
+      "Fujifilm X half: Is it the perfect family camera?",
+      "https://arslan.io/2025/06/14/fujifilm-x-half-is-it-the-perfect-family-camera/"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 20:04:03",
       "https://news.ycombinator.com/item?id=44271760"
     ],
     [
       "After millions of years, why are carnivorous plants still so small?",
       "https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 15:04:40",
+      "https://news.ycombinator.com/item?id=44269192"
+    ],
+    [
+      "US Streetlights Are Turning Purple",
+      "https://www.scientificamerican.com/article/streetlights-are-mysteriously-turning-purple-heres-why/"
     ]
   ]
 ]
