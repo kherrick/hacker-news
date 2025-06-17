@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 16:12:39](https://news.ycombinator.com/item?id=44300768) - [Western Oil: the US/UK-Backed Iranian Coup D'état of 1953](https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat)
+* [2025-06-17, 16:06:05](https://news.ycombinator.com/item?id=44300717) - [We're expanding our Gemini 2.5 family of models](https://blog.google/products/gemini/gemini-2-5-model-family-expands/)
 * [2025-06-17, 15:02:12](https://news.ycombinator.com/item?id=44300102) - [Honda Conducts Successful Launch and Landing of Experimental Reusable Rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
 * [2025-06-17, 14:55:32](https://news.ycombinator.com/item?id=44300027) - [The Collapse of Complex Societies](https://matthewbutterick.com/chron/the-collapse-of-complex-societies.html)
 * [2025-06-17, 14:55:23](https://news.ycombinator.com/item?id=44300026) - [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
@@ -23,6 +25,7 @@
 * [2025-06-17, 10:56:26](https://news.ycombinator.com/item?id=44297652) - [\"Microsoft Locked My Account – I Lost 30 Years of Photos and Work\"](https://old.reddit.com/r/pcmasterrace/comments/1ldef4p/microsoft_locked_my_account_i_lost_30_years_of/)
 * [2025-06-17, 10:10:25](https://news.ycombinator.com/item?id=44297437) - [Threat in Your Medicine Cabinet: The FDA's Gamble on America's Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
 * [2025-06-17, 10:09:22](https://news.ycombinator.com/item?id=44297431) - [No Hello](https://nohello.net/en/)
+* [2025-06-17, 09:58:54](https://news.ycombinator.com/item?id=44297381) - [KiCad and Wayland Support](https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/)
 * [2025-06-17, 09:53:21](https://news.ycombinator.com/item?id=44297349) - [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
 * [2025-06-17, 08:57:46](https://news.ycombinator.com/item?id=44297045) - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
 * [2025-06-17, 08:44:27](https://news.ycombinator.com/item?id=44296972) - [Show HN: FaynoSync Self-Hosted API for Automatic App Updates](https://github.com/ku9nov/faynoSync)
