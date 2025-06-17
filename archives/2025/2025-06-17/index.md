@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 21:00:27](https://news.ycombinator.com/item?id=44303901) - [Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
 * [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2025-06-17, 20:24:18](https://news.ycombinator.com/item?id=44303538) - [AI will shrink Amazon's workforce in the coming years, CEO Jassy says](https://www.cnbc.com/2025/06/17/ai-amazon-workforce-jassy.html)
 * [2025-06-17, 19:40:31](https://news.ycombinator.com/item?id=44303031) - [Texas electricity maximum renewables record](https://www.gridstatus.io/records/ercot?record=Maximum%20Renewables)
@@ -11,6 +12,7 @@
 * [2025-06-17, 19:23:10](https://news.ycombinator.com/item?id=44302870) - [What Google Translate Can Tell Us About Vibecoding](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/)
 * [2025-06-17, 19:17:05](https://news.ycombinator.com/item?id=44302797) - [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
 * [2025-06-17, 19:12:23](https://news.ycombinator.com/item?id=44302752) - [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
+* [2025-06-17, 19:07:42](https://news.ycombinator.com/item?id=44302704) - [From SDR to 'Fake HDR': Mario Kart World on Switch 2](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
 * [2025-06-17, 19:03:23](https://news.ycombinator.com/item?id=44302650) - [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
 * [2025-06-17, 18:51:17](https://news.ycombinator.com/item?id=44302518) - [OpenAI weighs \"nuclear option\" of antitrust complaint against Microsoft](https://arstechnica.com/ai/2025/06/openai-weighs-nuclear-option-of-antitrust-complaint-against-microsoft/)
 * [2025-06-17, 18:47:55](https://news.ycombinator.com/item?id=44302461) - [New York City mayoral candidate Brad Lander arrested at immigration court](https://www.theguardian.com/us-news/2025/jun/17/brad-lander-arrested-new-york-city-comptroller)
