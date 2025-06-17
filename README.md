@@ -2,7 +2,9 @@
 
 * [2025-06-17, 17:00:25](https://news.ycombinator.com/item?id=44301246) - [Celebrated pianist and writer Alfred Brendel dies aged 94](https://www.theguardian.com/music/2025/jun/17/celebrated-pianist-and-writer-alfred-brendel-dies-aged-94)
 * [2025-06-17, 16:54:44](https://news.ycombinator.com/item?id=44301186) - [Miscalculation by Spanish power grid operator REE contributed to blackout](https://www.reuters.com/business/energy/investigation-into-spains-april-28-blackout-shows-no-evidence-cyberattack-2025-06-17/)
+* [2025-06-17, 16:07:23](https://news.ycombinator.com/item?id=44300727) - [Tesla Robotaxi launch is a dangerous game of smoke and mirrors](https://electrek.co/2025/06/16/tesla-robotaxi-launch-dangerous-game-smoke-mirrors/)
 * [2025-06-17, 16:06:05](https://news.ycombinator.com/item?id=44300717) - [We're expanding our Gemini 2.5 family of models](https://blog.google/products/gemini/gemini-2-5-model-family-expands/)
+* [2025-06-17, 15:49:10](https://news.ycombinator.com/item?id=44300554) - [CPU-Based Layout Design for Picker-to-Parts Pallet Warehouses](https://arxiv.org/abs/2506.04266)
 * [2025-06-17, 15:46:59](https://news.ycombinator.com/item?id=44300524) - [Windows 10 EOL](https://solhsa.com/oldernews2025.html#WINDOWS-10-EOL)
 * [2025-06-17, 15:02:12](https://news.ycombinator.com/item?id=44300102) - [Honda Conducts Successful Launch and Landing of Experimental Reusable Rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
 * [2025-06-17, 14:55:23](https://news.ycombinator.com/item?id=44300026) - [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
@@ -13,9 +15,7 @@
 * [2025-06-17, 09:58:54](https://news.ycombinator.com/item?id=44297381) - [KiCad and Wayland Support](https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/)
 * [2025-06-17, 08:57:46](https://news.ycombinator.com/item?id=44297045) - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
 * [2025-06-17, 07:32:07](https://news.ycombinator.com/item?id=44296564) - [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
-* [2025-06-17, 05:08:55](https://news.ycombinator.com/item?id=44295925) - [Fun with Telnet](https://brandonrozek.com/blog/fun-with-telnet/)
 * [2025-06-17, 01:25:25](https://news.ycombinator.com/item?id=44294905) - [The Humble Programmer (1972)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
-* [2025-06-17, 01:16:25](https://news.ycombinator.com/item?id=44294853) - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
 * [2025-06-17, 00:13:00](https://news.ycombinator.com/item?id=44294526) - [The drawbridges come up: the dream of a interconnected context ecosystem is over](https://www.dbreunig.com/2025/06/16/drawbridges-go-up.html)
 * [2025-06-16, 21:34:09](https://news.ycombinator.com/item?id=44293610) - [What happens when clergy take psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
 * [2025-06-16, 20:48:43](https://news.ycombinator.com/item?id=44293260) - [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
@@ -25,11 +25,11 @@
 * [2025-06-16, 01:00:15](https://news.ycombinator.com/item?id=44285956) - [Cmapv2: A high performance, concurrent map](https://github.com/sirgallo/cmapv2)
 * [2025-06-15, 19:51:42](https://news.ycombinator.com/item?id=44284569) - [Iron nitride permanent magnets made with DIY ball mill [video]](https://www.youtube.com/watch?v=M6XIgdS1rzs)
 * [2025-06-15, 06:41:31](https://news.ycombinator.com/item?id=44280926) - [How you breathe is like a fingerprint that can identify you](https://www.nature.com/articles/d41586-025-01835-0)
+* [2025-06-15, 04:50:19](https://news.ycombinator.com/item?id=44280614) - [Oswald the Lucky Rabbit](https://en.wikipedia.org/wiki/Oswald_the_Lucky_Rabbit)
 * [2025-06-14, 16:29:35](https://news.ycombinator.com/item?id=44277284) - [Pitfalls of premature closure with LLM assisted coding](https://www.shayon.dev/post/2025/164/pitfalls-of-premature-closure-with-llm-assisted-coding/)
 * [2025-06-14, 16:07:23](https://news.ycombinator.com/item?id=44277179) - [AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge](https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing)
 * [2025-06-14, 14:55:28](https://news.ycombinator.com/item?id=44276778) - [Attempting to Make the Smallest* Electric Motor [video]](https://www.youtube.com/watch?v=6x_NMytSA90)
 * [2025-06-14, 13:01:47](https://news.ycombinator.com/item?id=44276200) - [Fujifilm X half: Is it the perfect family camera?](https://arslan.io/2025/06/14/fujifilm-x-half-is-it-the-perfect-family-camera/)
-* [2025-06-13, 23:15:00](https://news.ycombinator.com/item?id=44273105) - [Photon transport through the entire adult human head](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-02/025014/Photon-transport-through-the-entire-adult-human-head/10.1117/1.NPh.12.2.025014.full)
 
 ## [Archives](archives/index.md)
 
