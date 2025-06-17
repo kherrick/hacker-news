@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-17, 03:50:22](https://news.ycombinator.com/item?id=44295599) - [William Langewiesche, the 'Steve McQueen of Journalism,' Dies at 70](https://www.nytimes.com/2025/06/16/business/media/william-langewiesche-dead.html)
 * [2025-06-17, 02:03:51](https://news.ycombinator.com/item?id=44295132) - [Finland warms up the world's largest sand battery, the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/)
 * [2025-06-17, 01:25:25](https://news.ycombinator.com/item?id=44294905) - [The Humble Programmer (1972)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
 * [2025-06-17, 01:16:25](https://news.ycombinator.com/item?id=44294853) - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
@@ -26,10 +27,9 @@
 * [2025-06-16, 00:36:41](https://news.ycombinator.com/item?id=44285874) - [Is gravity just entropy rising? Long-shot idea gets another look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 * [2025-06-15, 20:50:03](https://news.ycombinator.com/item?id=44284877) - [How Frogger 2’s source code was recovered from a destroyed tape [video]](https://www.youtube.com/watch?v=lvEO4IaEJlw)
 * [2025-06-15, 20:49:18](https://news.ycombinator.com/item?id=44284871) - [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
+* [2025-06-15, 19:51:42](https://news.ycombinator.com/item?id=44284569) - [Iron nitride permanent magnets made with DIY ball mill [video]](https://www.youtube.com/watch?v=M6XIgdS1rzs)
 * [2025-06-15, 10:22:34](https://news.ycombinator.com/item?id=44281540) - [ZX Spectrum graphics magic](https://zxonline.net/zx-spectrum-graphics-magic-the-basics-every-spectrum-fan-should-know/)
-* [2025-06-14, 12:23:09](https://news.ycombinator.com/item?id=44275974) - [Adding public transport data to Transitous](https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html)
 * [2025-06-13, 15:04:57](https://news.ycombinator.com/item?id=44269198) - [What I talk about when I talk about IRs](https://bernsteinbear.com/blog/irs/)
-* [2025-06-13, 01:57:14](https://news.ycombinator.com/item?id=44265071) - [Identity Assertion Authorization Grant](https://www.ietf.org/archive/id/draft-parecki-oauth-identity-assertion-authz-grant-03.html)
 
 ## [Archives](archives/index.md)
 
