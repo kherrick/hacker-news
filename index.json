@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-17, 22:50:20",
-      "https://news.ycombinator.com/item?id=44304860"
-    ],
-    [
-      "How to use Prometheus to efficiently detect anomalies at scale",
-      "https://grafana.com/blog/2024/10/03/how-to-use-prometheus-to-efficiently-detect-anomalies-at-scale/"
-    ]
-  ],
-  [
-    [
       "2025-06-17, 21:03:26",
       "https://news.ycombinator.com/item?id=44303929"
     ],
@@ -237,6 +227,16 @@
     [
       "3D-printed device splits white noise into an acoustic rainbow without power",
       "https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 02:38:49",
+      "https://news.ycombinator.com/item?id=44280168"
+    ],
+    [
+      "Show HN: I made an online Unicode Cuneiform digital clock",
+      "https://oisinmoran.com/sumertime"
     ]
   ],
   [
