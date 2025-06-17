@@ -10,3 +10,4 @@
 * [2025-06-17, 01:16:25](https://news.ycombinator.com/item?id=44294853) - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
 * [2025-06-17, 01:03:19](https://news.ycombinator.com/item?id=44294776) - [Ask HN: How to Deal with a Bad Manager?](https://news.ycombinator.com/item?id=44294776)
 * [2025-06-17, 00:33:45](https://news.ycombinator.com/item?id=44294633) - [Generative AI coding tools and agents do not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
+* [2025-06-17, 00:13:00](https://news.ycombinator.com/item?id=44294526) - [The drawbridges come up: the dream of a interconnected context ecosystem is over](https://www.dbreunig.com/2025/06/16/drawbridges-go-up.html)
