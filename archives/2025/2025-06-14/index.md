@@ -26,6 +26,7 @@
 * [2025-06-14, 14:55:53](https://news.ycombinator.com/item?id=44276781) - [Case Study: Mars College](https://supernuclear.substack.com/p/case-study-mars-college)
 * [2025-06-14, 14:55:28](https://news.ycombinator.com/item?id=44276778) - [Attempting to Make the Smallest* Electric Motor [video]](https://www.youtube.com/watch?v=6x_NMytSA90)
 * [2025-06-14, 14:53:32](https://news.ycombinator.com/item?id=44276765) - [Tetrachromatic Vision](https://www.bookofjoe.com/2025/05/my-entry-32.html)
+* [2025-06-14, 14:35:10](https://news.ycombinator.com/item?id=44276692) - [A Rural Public Transit Odyssey](https://shagbark.substack.com/p/a-rural-public-transit-odyssey)
 * [2025-06-14, 14:12:29](https://news.ycombinator.com/item?id=44276552) - [Ask HN: How do you teach your kids about AI?](https://news.ycombinator.com/item?id=44276552)
 * [2025-06-14, 13:56:46](https://news.ycombinator.com/item?id=44276476) - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 * [2025-06-14, 13:01:47](https://news.ycombinator.com/item?id=44276200) - [Fujifilm X half: Is it the perfect family camera?](https://arslan.io/2025/06/14/fujifilm-x-half-is-it-the-perfect-family-camera/)
