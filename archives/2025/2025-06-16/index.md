@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
 * [2025-06-16, 22:31:58](https://news.ycombinator.com/item?id=44293988) - [OpenAI wins $200M U.S. defense contract](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
+* [2025-06-16, 22:22:33](https://news.ycombinator.com/item?id=44293922) - [Battle to eradicate invasive pythons in Florida achieves milestone](https://phys.org/news/2025-06-eradicate-invasive-pythons-florida-stunning.html)
 * [2025-06-16, 22:06:58](https://news.ycombinator.com/item?id=44293837) - [DRM Can Watch You Too: Privacy Effects of Browsers' Widevine EME (2023)](https://hal.science/hal-04179324v1/document)
 * [2025-06-16, 21:34:09](https://news.ycombinator.com/item?id=44293610) - [What Happens When Clergy Take Psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
 * [2025-06-16, 21:00:47](https://news.ycombinator.com/item?id=44293358) - [Blaze (YC S24) Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
