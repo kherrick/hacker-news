@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-17, 19:03:23](https://news.ycombinator.com/item?id=44302650) - [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
+* [2025-06-17, 18:47:55](https://news.ycombinator.com/item?id=44302461) - [New York City mayoral candidate Brad Lander arrested at immigration court](https://www.theguardian.com/us-news/2025/jun/17/brad-lander-arrested-new-york-city-comptroller)
 * [2025-06-17, 18:44:14](https://news.ycombinator.com/item?id=44302414) - [Astronomers Just Solved the Mystery of the Universe's Missing Matter](https://gizmodo.com/astronomers-just-solved-the-mystery-of-the-universes-missing-matter-2000616320)
 * [2025-06-17, 18:05:53](https://news.ycombinator.com/item?id=44301998) - [Time Series Forecasting with Graph Transformers](https://kumo.ai/research/time-series-forecasting/)
 * [2025-06-17, 17:50:05](https://news.ycombinator.com/item?id=44301809) - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
@@ -18,7 +19,6 @@
 * [2025-06-17, 14:01:16](https://news.ycombinator.com/item?id=44299354) - [The hamburger-menu icon today: Is it recognizable?](https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/)
 * [2025-06-17, 13:08:01](https://news.ycombinator.com/item?id=44298724) - [Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone](https://arxiv.org/abs/2506.02774)
 * [2025-06-17, 13:02:54](https://news.ycombinator.com/item?id=44298656) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
-* [2025-06-17, 08:57:46](https://news.ycombinator.com/item?id=44297045) - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
 * [2025-06-17, 07:32:07](https://news.ycombinator.com/item?id=44296564) - [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
 * [2025-06-16, 21:34:09](https://news.ycombinator.com/item?id=44293610) - [What happens when clergy take psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
 * [2025-06-16, 20:48:43](https://news.ycombinator.com/item?id=44293260) - [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
