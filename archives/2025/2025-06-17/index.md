@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
 * [2025-06-17, 10:10:25](https://news.ycombinator.com/item?id=44297437) - [Threat in Your Medicine Cabinet: The FDA's Gamble on America's Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
+* [2025-06-17, 10:09:22](https://news.ycombinator.com/item?id=44297431) - [No Hello](https://nohello.net/en/)
 * [2025-06-17, 09:53:21](https://news.ycombinator.com/item?id=44297349) - [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
 * [2025-06-17, 08:57:46](https://news.ycombinator.com/item?id=44297045) - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
 * [2025-06-17, 07:58:42](https://news.ycombinator.com/item?id=44296711) - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
