@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-17, 05:50:01](https://news.ycombinator.com/item?id=44296087) - [Defense Department signs OpenAI for $200M 'frontier AI' pilot project](https://www.theregister.com/2025/06/17/dod_openai_contract/)
 * [2025-06-17, 04:07:31](https://news.ycombinator.com/item?id=44295667) - [Show HN: I recreated 90s Mode X demoscene effects in JavaScript and Canvas](https://jdfio.com/pages-output/demos/x-mode/)
 * [2025-06-17, 01:25:25](https://news.ycombinator.com/item?id=44294905) - [The Humble Programmer (1972)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
 * [2025-06-17, 01:16:25](https://news.ycombinator.com/item?id=44294853) - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
@@ -8,6 +7,7 @@
 * [2025-06-17, 00:13:00](https://news.ycombinator.com/item?id=44294526) - [The drawbridges come up: the dream of a interconnected context ecosystem is over](https://www.dbreunig.com/2025/06/16/drawbridges-go-up.html)
 * [2025-06-16, 22:31:58](https://news.ycombinator.com/item?id=44293988) - [OpenAI wins $200M U.S. defense contract](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
 * [2025-06-16, 22:22:33](https://news.ycombinator.com/item?id=44293922) - [Battle to eradicate invasive pythons in Florida achieves milestone](https://phys.org/news/2025-06-eradicate-invasive-pythons-florida-stunning.html)
+* [2025-06-16, 22:06:58](https://news.ycombinator.com/item?id=44293837) - [Privacy implications of browsers’ (mis)implementations of Widevine EME (2023)](https://hal.science/hal-04179324v1/document)
 * [2025-06-16, 21:34:09](https://news.ycombinator.com/item?id=44293610) - [What happens when clergy take psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
 * [2025-06-16, 21:00:47](https://news.ycombinator.com/item?id=44293358) - [Blaze (YC S24) Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
 * [2025-06-16, 20:48:43](https://news.ycombinator.com/item?id=44293260) - [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
