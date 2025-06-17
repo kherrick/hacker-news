@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 18:05:53](https://news.ycombinator.com/item?id=44301998) - [Time Series Forecasting with Graph Transformers](https://kumo.ai/research/time-series-forecasting/)
+* [2025-06-17, 17:50:05](https://news.ycombinator.com/item?id=44301809) - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
+* [2025-06-17, 17:48:53](https://news.ycombinator.com/item?id=44301794) - [Threads is adding Fediverse content to social feeds](https://www.theverge.com/news/688267/threads-fediverse-feed-search)
+* [2025-06-17, 17:40:19](https://news.ycombinator.com/item?id=44301686) - [Resurrecting a dead torrent tracker and finding 3M peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
+* [2025-06-17, 17:38:02](https://news.ycombinator.com/item?id=44301660) - [AMD's CDNA 4 Architecture Announcement – By Chester Lam](https://chipsandcheese.com/p/amds-cdna-4-architecture-announcement)
 * [2025-06-17, 17:25:42](https://news.ycombinator.com/item?id=44301501) - [ICE arrests NYC Comptroller because he asked to see a warrant](https://www.thecity.nyc/2025/06/17/brad-lander-arrest-ice-immigration-court/)
 * [2025-06-17, 17:12:30](https://news.ycombinator.com/item?id=44301373) - [Guidelines on how to be a scientific sleuth released](https://osf.io/2kdez/wiki/home/)
 * [2025-06-17, 17:00:25](https://news.ycombinator.com/item?id=44301246) - [Celebrated pianist and writer Alfred Brendel dies aged 94](https://www.theguardian.com/music/2025/jun/17/celebrated-pianist-and-writer-alfred-brendel-dies-aged-94)

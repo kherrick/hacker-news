@@ -26,6 +26,7 @@
 * [2025-06-15, 18:57:30](https://news.ycombinator.com/item?id=44284261) - [Apple Completes Migration of Key Service to Swift, Gains 40% Performance Uplift](https://www.infoq.com/news/2025/06/apple-swift-migration/)
 * [2025-06-15, 18:14:36](https://news.ycombinator.com/item?id=44283973) - [Grandson of John Tyler, 10th President of the US, Died Today at Age 96](https://www.msn.com/en-us/news/world/the-last-grandson-of-john-tyler-the-u-s-president-who-took-office-in-1841-just-died-at-age-96/ar-AA1G0waB)
 * [2025-06-15, 18:02:25](https://news.ycombinator.com/item?id=44283876) - [Show HN: Tikt.com – Remove the \"OK\" from TikTok URL's to Download as MP3 or MP4](https://tikt.com/)
+* [2025-06-15, 17:30:07](https://news.ycombinator.com/item?id=44283637) - [Calculating Oil Storage Tank Occupancy with Help of Satellite Imagery](https://medium.com/planet-stories/a-beginners-guide-to-calculating-oil-storage-tank-occupancy-with-help-of-satellite-imagery-e8f387200178)
 * [2025-06-15, 17:26:38](https://news.ycombinator.com/item?id=44283614) - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
 * [2025-06-15, 16:57:47](https://news.ycombinator.com/item?id=44283388) - [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
 * [2025-06-15, 16:53:02](https://news.ycombinator.com/item?id=44283354) - [Studio Ghibli marks 40 years, but future looks uncertain](https://www.japantimes.co.jp/culture/2025/06/06/film/ghibli-anniversary-40/)
