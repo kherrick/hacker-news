@@ -2,7 +2,6 @@
 
 * [2025-06-17, 05:50:01](https://news.ycombinator.com/item?id=44296087) - [Defense Department signs OpenAI for $200M 'frontier AI' pilot project](https://www.theregister.com/2025/06/17/dod_openai_contract/)
 * [2025-06-17, 04:07:31](https://news.ycombinator.com/item?id=44295667) - [Show HN: I recreated 90s Mode X demoscene effects in JavaScript and Canvas](https://jdfio.com/pages-output/demos/x-mode/)
-* [2025-06-17, 03:50:22](https://news.ycombinator.com/item?id=44295599) - [William Langewiesche, the 'Steve McQueen of Journalism,' Dies at 70](https://www.nytimes.com/2025/06/16/business/media/william-langewiesche-dead.html)
 * [2025-06-17, 01:25:25](https://news.ycombinator.com/item?id=44294905) - [The Humble Programmer (1972)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
 * [2025-06-17, 01:16:25](https://news.ycombinator.com/item?id=44294853) - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
 * [2025-06-17, 00:33:45](https://news.ycombinator.com/item?id=44294633) - [Generative AI coding tools and agents do not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
@@ -29,6 +28,7 @@
 * [2025-06-15, 20:49:18](https://news.ycombinator.com/item?id=44284871) - [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
 * [2025-06-15, 19:51:42](https://news.ycombinator.com/item?id=44284569) - [Iron nitride permanent magnets made with DIY ball mill [video]](https://www.youtube.com/watch?v=M6XIgdS1rzs)
 * [2025-06-15, 10:22:34](https://news.ycombinator.com/item?id=44281540) - [ZX Spectrum graphics magic](https://zxonline.net/zx-spectrum-graphics-magic-the-basics-every-spectrum-fan-should-know/)
+* [2025-06-13, 23:15:00](https://news.ycombinator.com/item?id=44273105) - [Photon transport through the entire adult human head](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-02/025014/Photon-transport-through-the-entire-adult-human-head/10.1117/1.NPh.12.2.025014.full)
 * [2025-06-13, 13:28:45](https://news.ycombinator.com/item?id=44268345) - [Natural rubber with high resistance to  crack growth](https://www.nature.com/articles/s41893-025-01559-z.epdf?sharing_token=SST16F7yBaUkRDb702ZphtRgN0jAjWel9jnR3ZoTv0P9y52VPdTYScQoHBinE3JzdSvQ1aN3fhS4SSECYXRnvZ77nkrWJA2412S2E-26Il-ncine3ET1t1GzNaX2Oo2cK9GYzFNCrKSRycPCrQKJZ8QvfBeSTNR5d12_ZHLvyYkt26oAnSVTBuopgCE4tHIVPnWtjLZS3OhBz1H2OhtXQMmNFMhf-2lYu5vkTl596uaKjxxqTFBbSZj1phjSIDRELkwyRfUsM77Gu7S0VF_fPvJZAYxvV_2Hduld7MbfF1M4RO8vHe5OtCz383c2iHBjxkZ4gU59FErIjNBnLDPDT79Jaj04hbpqLWqUoVxoYCs%3D)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 23:15:00](https://news.ycombinator.com/item?id=44273105) - [Photon transport through the entire adult human head](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-02/025014/Photon-transport-through-the-entire-adult-human-head/10.1117/1.NPh.12.2.025014.full)
 * [2025-06-13, 23:06:43](https://news.ycombinator.com/item?id=44273067) - [U.S. Army bringing in big tech executives as lieutenant colonels](https://taskandpurpose.com/military-life/army-reserve-lt-col-tech-execs/)
 * [2025-06-13, 22:40:22](https://news.ycombinator.com/item?id=44272933) - [Endometriosis is an incredibly interesting disease](https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting)
 * [2025-06-13, 22:13:14](https://news.ycombinator.com/item?id=44272776) - [A Study of the Winston Red: The Smithsonian's New Fancy Red Diamond](https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond)
