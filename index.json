@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-17, 01:03:19",
+      "https://news.ycombinator.com/item?id=44294776"
+    ],
+    [
+      "Ask HN: How to Deal with a Bad Manager?",
+      "https://news.ycombinator.com/item?id=44294776"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 00:33:45",
+      "https://news.ycombinator.com/item?id=44294633"
+    ],
+    [
+      "Generative AI coding tools and agents do not work for me",
+      "https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 22:31:58",
       "https://news.ycombinator.com/item?id=44293988"
     ],
     [
       "OpenAI wins $200M U.S. defense contract",
       "https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-16, 22:22:33",
+      "https://news.ycombinator.com/item?id=44293922"
+    ],
+    [
+      "Battle to eradicate invasive pythons in Florida achieves milestone",
+      "https://phys.org/news/2025-06-eradicate-invasive-pythons-florida-stunning.html"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-06-16, 20:31:50",
-      "https://news.ycombinator.com/item?id=44293132"
-    ],
-    [
-      "Denmark tests unmanned robotic sailboat fleet",
-      "https://apnews.com/article/denmark-robot-sailboats-baltic-sea-bfa31c98cf7c93320115c0ad0e6908c5"
-    ]
-  ],
-  [
-    [
       "2025-06-16, 20:19:44",
       "https://news.ycombinator.com/item?id=44293044"
     ],
@@ -111,32 +131,22 @@
   ],
   [
     [
+      "2025-06-16, 18:07:37",
+      "https://news.ycombinator.com/item?id=44291892"
+    ],
+    [
+      "Dull Men’s Club",
+      "https://www.theguardian.com/society/2025/jun/09/meet-the-members-of-the-dull-mens-club-some-of-them-would-bore-the-ears-off-you"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 16:46:55",
       "https://news.ycombinator.com/item?id=44291204"
     ],
     [
       "Open-Source RISC-V: Energy Efficiency of Superscalar, Out-of-Order Execution",
       "https://arxiv.org/abs/2505.24363"
-    ]
-  ],
-  [
-    [
-      "2025-06-16, 16:24:33",
-      "https://news.ycombinator.com/item?id=44291026"
-    ],
-    [
-      "The Renegade Richard Foreman",
-      "https://yalereview.org/article/jennifer-krasinski-richard-foreman"
-    ]
-  ],
-  [
-    [
-      "2025-06-16, 15:41:44",
-      "https://news.ycombinator.com/item?id=44290653"
-    ],
-    [
-      "Darklang Goes Open Source",
-      "https://blog.darklang.com/darklang-goes-open-source/"
     ]
   ],
   [
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2025-06-16, 00:14:55",
-      "https://news.ycombinator.com/item?id=44285781"
-    ],
-    [
-      "Jokes and Humour in the Public Android API",
-      "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 20:49:18",
       "https://news.ycombinator.com/item?id=44284871"
     ],
     [
       "Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format",
       "https://github.com/rorosen/zeekstd"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 14:10:37",
-      "https://news.ycombinator.com/item?id=44282378"
-    ],
-    [
-      "Why SSL was renamed to TLS in late 90s (2014)",
-      "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2025-06-14, 08:48:25",
-      "https://news.ycombinator.com/item?id=44275134"
-    ],
-    [
-      "Maya Blue: Unlocking the Mysteries of an Ancient Pigment",
-      "https://www.mexicolore.co.uk/maya/home/maya-blue-unlocking-the-mysteries-of-an-ancient-pigment"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 08:15:31",
       "https://news.ycombinator.com/item?id=44275014"
     ],
     [
       "Occurences of swearing in the Linux kernel source code over time",
       "https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 15:04:57",
+      "https://news.ycombinator.com/item?id=44269198"
+    ],
+    [
+      "What I talk about when I talk about IRs",
+      "https://bernsteinbear.com/blog/irs/"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 01:57:14",
+      "https://news.ycombinator.com/item?id=44265071"
+    ],
+    [
+      "Identity Assertion Authorization Grant",
+      "https://www.ietf.org/archive/id/draft-parecki-oauth-identity-assertion-authz-grant-03.html"
     ]
   ]
 ]
