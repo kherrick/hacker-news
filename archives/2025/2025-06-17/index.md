@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 07:58:42](https://news.ycombinator.com/item?id=44296711) - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
 * [2025-06-17, 05:50:01](https://news.ycombinator.com/item?id=44296087) - [Defense Department signs OpenAI for $200M 'frontier AI' pilot project](https://www.theregister.com/2025/06/17/dod_openai_contract/)
 * [2025-06-17, 05:25:24](https://news.ycombinator.com/item?id=44295977) - [She Won. They Didn't Just Change the Machines. They Rewired the Election](https://substack.com/inbox/post/165658733)
 * [2025-06-17, 04:07:31](https://news.ycombinator.com/item?id=44295667) - [Show HN: I recreated 90s Mode X demoscene effects in JavaScript and Canvas](https://jdfio.com/pages-output/demos/x-mode/)

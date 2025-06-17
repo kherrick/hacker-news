@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-17, 07:58:42](https://news.ycombinator.com/item?id=44296711) - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
 * [2025-06-17, 04:07:31](https://news.ycombinator.com/item?id=44295667) - [Show HN: I recreated 90s Mode X demoscene effects in JavaScript and Canvas](https://jdfio.com/pages-output/demos/x-mode/)
 * [2025-06-17, 01:25:25](https://news.ycombinator.com/item?id=44294905) - [The Humble Programmer (1972)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
 * [2025-06-17, 01:16:25](https://news.ycombinator.com/item?id=44294853) - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
@@ -11,7 +12,6 @@
 * [2025-06-16, 21:00:47](https://news.ycombinator.com/item?id=44293358) - [Blaze (YC S24) Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
 * [2025-06-16, 20:48:43](https://news.ycombinator.com/item?id=44293260) - [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
 * [2025-06-16, 20:33:45](https://news.ycombinator.com/item?id=44293147) - [Show HN: Nexus.js - Fabric.js for 3D](https://punk.cam/lab/nexus)
-* [2025-06-16, 20:19:44](https://news.ycombinator.com/item?id=44293044) - [Retrobootstrapping Rust for some reason](https://graydon2.dreamwidth.org/317484.html)
 * [2025-06-16, 19:19:57](https://news.ycombinator.com/item?id=44292601) - [Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://arxiv.org/abs/2506.01963)
 * [2025-06-16, 18:27:59](https://news.ycombinator.com/item?id=44292103) - [Show HN: Canine – A Heroku alternative built on Kubernetes](https://github.com/czhu12/canine)
 * [2025-06-16, 18:07:37](https://news.ycombinator.com/item?id=44291892) - [Dull Men’s Club](https://www.theguardian.com/society/2025/jun/09/meet-the-members-of-the-dull-mens-club-some-of-them-would-bore-the-ears-off-you)
