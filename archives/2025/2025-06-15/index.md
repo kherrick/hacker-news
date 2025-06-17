@@ -36,6 +36,7 @@
 * [2025-06-15, 16:08:42](https://news.ycombinator.com/item?id=44283047) - [Red Hat Linux in 1998 (2009)](https://linuxgazette.net/165/laycock.html)
 * [2025-06-15, 16:02:22](https://news.ycombinator.com/item?id=44283008) - [Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate](https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/)
 * [2025-06-15, 16:00:43](https://news.ycombinator.com/item?id=44282998) - [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
+* [2025-06-15, 15:54:54](https://news.ycombinator.com/item?id=44282953) - [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
 * [2025-06-15, 15:40:16](https://news.ycombinator.com/item?id=44282868) - [The Skyscraper That Could Have Toppled over in the Wind (1995)](https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center)
 * [2025-06-15, 15:22:35](https://news.ycombinator.com/item?id=44282754) - [Journalists Wary of Travelling to US Due to Palantir Surveillance](https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x)
 * [2025-06-15, 15:10:20](https://news.ycombinator.com/item?id=44282693) - [Mrs. Orcutt's Driveway (2005)](https://www.caranddriver.com/features/a15385694/mrs-orcutts-driveway-204-mph-on-a-double-nickel-road-page-1/)
