@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-18, 23:11:03](https://news.ycombinator.com/item?id=44314054) - [New US visa rules will force foreign students to unlock social media profiles](https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening)
+* [2025-06-18, 21:21:26](https://news.ycombinator.com/item?id=44313379) - [Bento: A Steam Deck in a Keyboard](https://github.com/lunchbox-computer/bento)
 * [2025-06-18, 20:55:06](https://news.ycombinator.com/item?id=44313206) - [Websites Are Tracking You via Browser Fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
 * [2025-06-18, 17:32:00](https://news.ycombinator.com/item?id=44311781) - [PWM flicker: Invisible light that's harming our health?](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)
 * [2025-06-18, 17:31:25](https://news.ycombinator.com/item?id=44311776) - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
@@ -21,7 +23,6 @@
 * [2025-06-18, 06:53:34](https://news.ycombinator.com/item?id=44307290) - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
 * [2025-06-18, 05:16:12](https://news.ycombinator.com/item?id=44306859) - [Scrappy – Make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 * [2025-06-18, 04:58:53](https://news.ycombinator.com/item?id=44306792) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
-* [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
 * [2025-06-17, 19:39:26](https://news.ycombinator.com/item?id=44303021) - [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
 * [2025-06-17, 07:25:23](https://news.ycombinator.com/item?id=44296523) - [Introduction to the A* Algorithm (2014)](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 * [2025-06-16, 15:34:26](https://news.ycombinator.com/item?id=44290580) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
@@ -29,7 +30,6 @@
 * [2025-06-16, 09:48:30](https://news.ycombinator.com/item?id=44287964) - [The Matrix (1999) Filming Locations – Shot-for-Shot – Sydney, Australia [video]](https://www.youtube.com/watch?v=UVf7rMqnwI0)
 * [2025-06-15, 11:25:57](https://news.ycombinator.com/item?id=44281756) - [A different take on S-expressions](https://gist.github.com/tearflake/569db7fdc8b363b7d320ebfeef8ab503)
 * [2025-06-14, 23:38:56](https://news.ycombinator.com/item?id=44279569) - [Poline – An enigmatic color palette generator using polar coordinates](https://meodai.github.io/poline/)
-* [2025-06-13, 20:04:03](https://news.ycombinator.com/item?id=44271760) - [After millions of years, why are carnivorous plants still so small?](https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/)
 
 ## [Archives](archives/index.md)
 
