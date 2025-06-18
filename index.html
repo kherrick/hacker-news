@@ -129,6 +129,48 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44311217">
+          <h3>
+            <a
+              class="item"
+              href="https://docs.kapa.ai/improving/writing-best-practices"
+              >Writing documentation for AI: best practices</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-18 @ 16:23:46</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44311217"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44310834">
+          <h3>
+            <a
+              class="item"
+              href="https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/"
+              >This AI Agent Should Have Been a SQL Query</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-18 @ 15:38:15</span
+              ><span class="points-container"
+                >Points: <span class="points">39</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44310834"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44310678">
           <h3>
             <a class="item" href="https://github.com/nirw4nna/dsc"
@@ -139,7 +181,7 @@
             <h4>
               <span>2025-06-18 @ 15:20:05</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44310678"
                   >Comments</a
@@ -199,13 +241,87 @@
             <h4>
               <span>2025-06-18 @ 15:09:34</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44310583"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44309891">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/devflowinc/trieve/tree/main/clients/cli"
+              >Show HN: Trieve CLI – Terminal-based LLM agent loop with search
+              tool for PDFs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-18 @ 13:52:15</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44309891"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I built a CLI for uploading documents and querying them with an
+                LLM agent that uses search tools rather than stuffing everything
+                into the context window. I recorded a demo using the CrossFit
+                2025 rulebook that shows how this approach compares to
+                traditional RAG and direct context injection[1].
+              </p>
+              <p>
+                The core insight is that LLMs running in loops with tool access
+                are unreasonably effective at this kind of knowledge retrieval
+                task[2]. Instead of hoping the right chunks make it into your
+                context, the agent can iteratively search, refine queries, and
+                reason about what it finds.
+              </p>
+              <p>The CLI handles the full workflow:</p>
+              <p>```bash</p>
+              <p>trieve upload ./document.pdf</p>
+              <p>trieve ask "What are the key findings?"</p>
+              <p>```</p>
+              <p>
+                You can customize the RAG behavior, check upload status, and the
+                responses stream back with expandable source references. I
+                really enjoy having this workflow available in the terminal and
+                I'm curious if others find this paradigm as compelling as I do.
+              </p>
+              <p>
+                Considering adding more commands and customization options if
+                there's interest. The tool is free for up to 1k document chunks.
+              </p>
+              <p>Source code is on GitHub[3] and available via npm[4].</p>
+              <p>Would love any feedback on the approach or CLI design!</p>
+              <p>
+                [1]:
+                <a href="https://www.youtube.com/watch?v=SAV-esDsRUk"
+                  >https://www.youtube.com/watch?v=SAV-esDsRUk</a
+                >
+                [2]:
+                <a href="https://news.ycombinator.com/item?id=43998472"
+                  >https://news.ycombinator.com/item?id=43998472</a
+                >
+                [3]:
+                <a
+                  href="https://github.com/devflowinc/trieve/blob/main/clients/cli/index.ts"
+                  >https://github.com/devflowinc/trieve/blob/main/clients/cli/i...</a
+                >
+                [4]:
+                <a href="https://www.npmjs.com/package/trieve-cli"
+                  >https://www.npmjs.com/package/trieve-cli</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="44309520">
@@ -220,11 +336,11 @@
             <h4>
               <span>2025-06-18 @ 12:59:58</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44309520"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -240,7 +356,7 @@
             <h4>
               <span>2025-06-18 @ 12:36:47</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44309345"
                   >Comments</a
@@ -252,18 +368,18 @@
         <section id="44309320">
           <h3>
             <a class="item" href="https://github.com/Snouzy/workout-cool"
-              >Workout.cool – Open-source fitness coaching platform</a
+              >Show HN: Workout.cool – Open-source fitness coaching platform</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-06-18 @ 12:33:49</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44309320"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
             <div class="text">
@@ -312,7 +428,7 @@
         <section id="44309110">
           <h3>
             <a class="item" href="https://www.workatastartup.com/companies/jiga"
-              >Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs
+              >Jiga (YC W21) Is Hiring Software Engs to Make Life of Mech Engs
               Easier</a
             >
           </h3>
@@ -337,11 +453,11 @@
             <h4>
               <span>2025-06-18 @ 11:40:05</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44308984"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -356,11 +472,11 @@
             <h4>
               <span>2025-06-18 @ 10:53:59</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44308711"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -375,11 +491,11 @@
             <h4>
               <span>2025-06-18 @ 10:31:44</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44308558"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -396,11 +512,11 @@
             <h4>
               <span>2025-06-18 @ 07:58:18</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44307629"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -416,32 +532,11 @@
             <h4>
               <span>2025-06-18 @ 06:53:34</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44307290"
                   >Comments</a
                 ><span class="descendants">: 59</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44306937">
-          <h3>
-            <a
-              class="item"
-              href="https://vivekn.dev/blog/grokking-nat-and-packet-mangling-in-linux"
-              >Grokking NAT and packet mangling in Linux</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-18 @ 05:40:03</span
-              ><span class="points-container"
-                >Points: <span class="points">34</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44306937"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -456,7 +551,7 @@
             <h4>
               <span>2025-06-18 @ 05:16:12</span
               ><span class="points-container"
-                >Points: <span class="points">344</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44306859"
                   >Comments</a
@@ -469,14 +564,14 @@
           <h3>
             <a class="item" href="https://github.com/SparcLab/OpenSERDES"
               >OpenSERDES – Open Hardware Serializer/Deserializer (SerDes) in
-              Verilog</a
+              Verilog (2020)</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-06-18 @ 03:41:44</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44306462"
                   >Comments</a
@@ -496,11 +591,11 @@
             <h4>
               <span>2025-06-18 @ 02:07:19</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44306041"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
             <div class="text">
@@ -571,11 +666,32 @@
             <h4>
               <span>2025-06-17 @ 20:24:36</span
               ><span class="points-container"
-                >Points: <span class="points">932</span></span
+                >Points: <span class="points">938</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44303542"
                   >Comments</a
-                ><span class="descendants">: 433</span></span
+                ><span class="descendants">: 438</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44303021">
+          <h3>
+            <a
+              class="item"
+              href="https://www.pi.website/research/real_time_chunking"
+              >Real-time action chunking with large models</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-17 @ 19:39:26</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44303021"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -596,7 +712,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44302870"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -617,50 +733,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44301809"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44301686">
-          <h3>
-            <a
-              class="item"
-              href="https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html"
-              >Resurrecting a dead torrent tracker and finding 3M peers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-17 @ 17:40:19</span
-              ><span class="points-container"
-                >Points: <span class="points">601</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44301686"
-                  >Comments</a
-                ><span class="descendants">: 190</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44300717">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.google/products/gemini/gemini-2-5-model-family-expands/"
-              >Making 2.5 Flash and 2.5 Pro GA, and introducing Gemini 2.5
-              Flash-Lite</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-17 @ 16:06:05</span
-              ><span class="points-container"
-                >Points: <span class="points">353</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44300717"
-                  >Comments</a
-                ><span class="descendants">: 202</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -678,11 +751,11 @@
             <h4>
               <span>2025-06-17 @ 15:02:12</span
               ><span class="points-container"
-                >Points: <span class="points">1200</span></span
+                >Points: <span class="points">1206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44300102"
                   >Comments</a
-                ><span class="descendants">: 380</span></span
+                ><span class="descendants">: 382</span></span
               >
             </h4>
           </section>
@@ -697,11 +770,11 @@
             <h4>
               <span>2025-06-17 @ 14:51:40</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">302</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44299979"
                   >Comments</a
-                ><span class="descendants">: 292</span></span
+                ><span class="descendants">: 298</span></span
               >
             </h4>
           </section>
@@ -718,33 +791,11 @@
             <h4>
               <span>2025-06-17 @ 07:25:23</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44296523"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44285875">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nature.com/articles/s41586-025-09032-9"
-              >Preparation of a neutral nitrogen allotrope hexanitrogen
-              C2h-N6</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-16 @ 00:36:56</span
-              ><span class="points-container"
-                >Points: <span class="points">29</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44285875"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -765,7 +816,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44284908"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -783,11 +834,11 @@
             <h4>
               <span>2025-06-15 @ 15:54:54</span
               ><span class="points-container"
-                >Points: <span class="points">208</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44282953"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -804,11 +855,32 @@
             <h4>
               <span>2025-06-15 @ 12:34:44</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44282000"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44281756">
+          <h3>
+            <a
+              class="item"
+              href="https://gist.github.com/tearflake/569db7fdc8b363b7d320ebfeef8ab503"
+              >A different take on S-expressions</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-15 @ 11:25:57</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44281756"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -824,7 +896,7 @@
             <h4>
               <span>2025-06-14 @ 23:38:56</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44279569"
                   >Comments</a
@@ -845,32 +917,11 @@
             <h4>
               <span>2025-06-14 @ 14:22:01</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44276616"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44275714">
-          <h3>
-            <a
-              class="item"
-              href="https://artofproblemsolving.com/wiki/index.php/Proofs_without_words"
-              >Proofs Without Words</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-14 @ 11:31:49</span
-              ><span class="points-container"
-                >Points: <span class="points">91</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44275714"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
