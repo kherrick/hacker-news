@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-18, 17:32:00",
+      "https://news.ycombinator.com/item?id=44311781"
+    ],
+    [
+      "PWM flicker: Invisible light that's harming our health?",
+      "https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 17:31:25",
+      "https://news.ycombinator.com/item?id=44311776"
+    ],
+    [
+      "Yes I Will Read Ulysses Yes",
+      "https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 17:19:31",
+      "https://news.ycombinator.com/item?id=44311682"
+    ],
+    [
+      "Game Hacking – Valve Anti-Cheat (VAC)",
+      "https://codeneverdies.github.io/posts/gh-2/"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 17:00:36",
       "https://news.ycombinator.com/item?id=44311538"
     ],
@@ -111,26 +141,6 @@
   ],
   [
     [
-      "2025-06-18, 12:42:51",
-      "https://news.ycombinator.com/item?id=44309393"
-    ],
-    [
-      "Show HN: Free local security checks for AI coding in VSCode, Cursor and Windsurf",
-      "https://news.ycombinator.com/item?id=44309393"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 12:36:47",
-      "https://news.ycombinator.com/item?id=44309345"
-    ],
-    [
-      "Reasoning by Superposition: A Perspective on Chain of Continuous Thought",
-      "https://arxiv.org/abs/2505.12514"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 12:33:49",
       "https://news.ycombinator.com/item?id=44309320"
     ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=44308711"
     ],
     [
-      "Is There a Half-Life for the Success Rates of AI Agents?",
+      "Is there a half-life for the success rates of AI agents?",
       "https://www.tobyord.com/writing/half-life"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "Locally hosting an internet-connected server",
       "https://mjg59.dreamwidth.org/72095.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 02:07:19",
-      "https://news.ycombinator.com/item?id=44306041"
-    ],
-    [
-      "Show HN: Lstr – A modern, interactive tree command written in Rust",
-      "https://github.com/bgreenwell/lstr"
     ]
   ],
   [
