@@ -16,7 +16,6 @@
 * [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
 * [2025-06-17, 19:23:10](https://news.ycombinator.com/item?id=44302870) - [What Google Translate can tell us about vibecoding](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/)
 * [2025-06-17, 19:17:05](https://news.ycombinator.com/item?id=44302797) - [LLMs pose an interesting problem for DSL designers](https://kirancodes.me/posts/log-lang-design-llms.html)
-* [2025-06-17, 18:05:53](https://news.ycombinator.com/item?id=44301998) - [Time Series Forecasting with Graph Transformers](https://kumo.ai/research/time-series-forecasting/)
 * [2025-06-17, 17:50:05](https://news.ycombinator.com/item?id=44301809) - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
 * [2025-06-17, 17:40:19](https://news.ycombinator.com/item?id=44301686) - [Resurrecting a dead torrent tracker and finding 3M peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
 * [2025-06-17, 16:06:05](https://news.ycombinator.com/item?id=44300717) - [Making 2.5 Flash and 2.5 Pro GA, and introducing Gemini 2.5 Flash-Lite](https://blog.google/products/gemini/gemini-2-5-model-family-expands/)
@@ -28,6 +27,7 @@
 * [2025-06-16, 00:36:56](https://news.ycombinator.com/item?id=44285875) - [Preparation of a neutral nitrogen allotrope hexanitrogen C2h-N6](https://www.nature.com/articles/s41586-025-09032-9)
 * [2025-06-15, 20:55:25](https://news.ycombinator.com/item?id=44284908) - [Munich from a Hamburger's Perspective](https://mertbulan.com/2025/06/14/munich-from-a-hamburgers-perspective/)
 * [2025-06-15, 15:54:54](https://news.ycombinator.com/item?id=44282953) - [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
+* [2025-06-14, 23:38:56](https://news.ycombinator.com/item?id=44279569) - [\"poline\" is an enigmatic color palette generator using polar coordinates](https://meodai.github.io/poline/)
 * [2025-06-14, 14:22:01](https://news.ycombinator.com/item?id=44276616) - [A Straightforward Explanation of the Good Regulator Theorem](https://www.lesswrong.com/posts/JQefBJDHG6Wgffw6T/a-straightforward-explanation-of-the-good-regulator-theorem)
 * [2025-06-14, 11:31:49](https://news.ycombinator.com/item?id=44275714) - [Proofs Without Words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
 

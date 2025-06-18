@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
 * [2025-06-14, 23:40:46](https://news.ycombinator.com/item?id=44279579) - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
+* [2025-06-14, 23:38:56](https://news.ycombinator.com/item?id=44279569) - [\"poline\" is an enigmatic color palette generator using polar coordinates](https://meodai.github.io/poline/)
 * [2025-06-14, 22:18:46](https://news.ycombinator.com/item?id=44279209) - [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
 * [2025-06-14, 22:12:12](https://news.ycombinator.com/item?id=44279181) - [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
 * [2025-06-14, 20:51:11](https://news.ycombinator.com/item?id=44278746) - [AMD's AI Future Is Rack Scale 'Helios'](https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios)
