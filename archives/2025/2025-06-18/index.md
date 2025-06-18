@@ -12,6 +12,7 @@
 * [2025-06-18, 12:36:47](https://news.ycombinator.com/item?id=44309345) - [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
 * [2025-06-18, 12:33:49](https://news.ycombinator.com/item?id=44309320) - [Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 * [2025-06-18, 12:00:50](https://news.ycombinator.com/item?id=44309110) - [Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
+* [2025-06-18, 11:40:05](https://news.ycombinator.com/item?id=44308984) - [The Bethesda Declaration](https://www.science.org/content/blog-post/bethesda-declaration)
 * [2025-06-18, 10:53:59](https://news.ycombinator.com/item?id=44308711) - [Is There a Half-Life for the Success Rates of AI Agents?](https://www.tobyord.com/writing/half-life)
 * [2025-06-18, 10:31:44](https://news.ycombinator.com/item?id=44308558) - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
 * [2025-06-18, 10:18:42](https://news.ycombinator.com/item?id=44308475) - [I'm 16 and Trying to Save Coral Reefs with Open-Source Symbiotic Biotech](https://news.ycombinator.com/item?id=44308475)
