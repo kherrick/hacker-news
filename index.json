@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-06-18, 12:42:51",
-      "https://news.ycombinator.com/item?id=44309393"
-    ],
-    [
-      "Show HN: Free local security checks for AI coding in VSCode, Cursor and Windsurf",
-      "https://news.ycombinator.com/item?id=44309393"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 12:36:47",
       "https://news.ycombinator.com/item?id=44309345"
     ],
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=44306859"
     ],
     [
-      "Scrappy - make little apps for you and your friends",
+      "Scrappy – Make little apps for you and your friends",
       "https://pontus.granstrom.me/scrappy/"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Locally hosting an internet-connected server",
       "https://mjg59.dreamwidth.org/72095.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 02:07:19",
+      "https://news.ycombinator.com/item?id=44306041"
+    ],
+    [
+      "Show HN: Lstr – A modern, interactive tree command written in Rust",
+      "https://github.com/bgreenwell/lstr"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=44296523"
     ],
     [
-      "Introduction to the A* Algorithm",
+      "Introduction to the A* Algorithm (2014)",
       "https://www.redblobgames.com/pathfinding/a-star/introduction.html"
     ]
   ],
