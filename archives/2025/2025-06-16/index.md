@@ -54,5 +54,6 @@
 * [2025-06-16, 01:44:58](https://news.ycombinator.com/item?id=44286078) - [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)
 * [2025-06-16, 01:04:21](https://news.ycombinator.com/item?id=44285975) - [\"Don't Mock What You Don't Own\" in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
 * [2025-06-16, 01:00:15](https://news.ycombinator.com/item?id=44285956) - [Cmapv2: A high performance, concurrent map](https://github.com/sirgallo/cmapv2)
+* [2025-06-16, 00:36:56](https://news.ycombinator.com/item?id=44285875) - [Preparation of a neutral nitrogen allotrope hexanitrogen C2h-N6 – Nature](https://www.nature.com/articles/s41586-025-09032-9)
 * [2025-06-16, 00:36:41](https://news.ycombinator.com/item?id=44285874) - [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 * [2025-06-16, 00:14:55](https://news.ycombinator.com/item?id=44285781) - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
