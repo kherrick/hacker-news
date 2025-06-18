@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 16:23:46](https://news.ycombinator.com/item?id=44311217) - [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices)
+* [2025-06-18, 15:38:15](https://news.ycombinator.com/item?id=44310834) - [This AI Agent Should Have Been a SQL Query](https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/)
 * [2025-06-18, 15:20:05](https://news.ycombinator.com/item?id=44310678) - [Show HN: I built a tensor library from scratch in C++/CUDA](https://github.com/nirw4nna/dsc)
 * [2025-06-18, 15:09:34](https://news.ycombinator.com/item?id=44310583) - [Framework Laptop 12: I'm excited to see what the 2nd generation looks like](https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/)
 * [2025-06-18, 14:01:33](https://news.ycombinator.com/item?id=44309984) - [Show HN: MediaCMS v6 – open-source video platform with trimmer and RBAC](https://github.com/mediacms-io/mediacms)
+* [2025-06-18, 13:52:15](https://news.ycombinator.com/item?id=44309891) - [Show HN: Trieve CLI – Terminal-based LLM agent loop with search tool for PDFs](https://github.com/devflowinc/trieve/tree/main/clients/cli)
 * [2025-06-18, 13:04:59](https://news.ycombinator.com/item?id=44309550) - [Why China is giving away its tech for free](https://www.economist.com/business/2025/06/17/why-china-is-giving-away-its-tech-for-free)
 * [2025-06-18, 12:59:58](https://news.ycombinator.com/item?id=44309520) - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
 * [2025-06-18, 12:36:47](https://news.ycombinator.com/item?id=44309345) - [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
