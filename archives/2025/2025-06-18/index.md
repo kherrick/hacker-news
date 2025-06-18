@@ -6,10 +6,12 @@
 
 * [2025-06-18, 13:04:59](https://news.ycombinator.com/item?id=44309550) - [Why China is giving away its tech for free](https://www.economist.com/business/2025/06/17/why-china-is-giving-away-its-tech-for-free)
 * [2025-06-18, 12:59:58](https://news.ycombinator.com/item?id=44309520) - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
+* [2025-06-18, 12:36:47](https://news.ycombinator.com/item?id=44309345) - [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
 * [2025-06-18, 12:33:49](https://news.ycombinator.com/item?id=44309320) - [Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 * [2025-06-18, 12:00:50](https://news.ycombinator.com/item?id=44309110) - [Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
 * [2025-06-18, 10:53:59](https://news.ycombinator.com/item?id=44308711) - [Is There a Half-Life for the Success Rates of AI Agents?](https://www.tobyord.com/writing/half-life)
 * [2025-06-18, 10:31:44](https://news.ycombinator.com/item?id=44308558) - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
+* [2025-06-18, 10:18:42](https://news.ycombinator.com/item?id=44308475) - [I'm 16 and Trying to Save Coral Reefs with Open-Source Symbiotic Biotech](https://news.ycombinator.com/item?id=44308475)
 * [2025-06-18, 08:53:50](https://news.ycombinator.com/item?id=44308000) - [Sam Altman Says Meta Offered OpenAI Staffers $100M Bonuses](https://www.bloomberg.com/news/articles/2025-06-17/altman-says-meta-offered-openai-staffers-100-million-bonuses)
 * [2025-06-18, 07:58:18](https://news.ycombinator.com/item?id=44307629) - [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)
 * [2025-06-18, 07:01:15](https://news.ycombinator.com/item?id=44307334) - [Show HN: Cpdown – Copy any webpage/YouTube subtitle as clean Markdown(LLM-ready)](https://news.ycombinator.com/from?site=github.com/ysm-dev)
