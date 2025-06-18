@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-06-18, 15:38:15",
-      "https://news.ycombinator.com/item?id=44310834"
-    ],
-    [
-      "Building agents using streaming SQL queries",
-      "https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 15:20:05",
       "https://news.ycombinator.com/item?id=44310678"
     ],
@@ -157,6 +147,16 @@
     [
       "Homomorphically Encrypting CRDTs",
       "https://jakelazaroff.com/words/homomorphically-encrypted-crdts/"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 12:36:47",
+      "https://news.ycombinator.com/item?id=44309345"
+    ],
+    [
+      "Reasoning by Superposition: A Perspective on Chain of Continuous Thought",
+      "https://arxiv.org/abs/2505.12514"
     ]
   ],
   [
