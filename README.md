@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-18, 17:32:00](https://news.ycombinator.com/item?id=44311781) - [The Invisible Light That's Harming Our Health](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)
 * [2025-06-18, 17:31:25](https://news.ycombinator.com/item?id=44311776) - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
 * [2025-06-18, 17:19:31](https://news.ycombinator.com/item?id=44311682) - [Game Hacking – Valve Anti-Cheat (VAC)](https://codeneverdies.github.io/posts/gh-2/)
 * [2025-06-18, 17:00:36](https://news.ycombinator.com/item?id=44311538) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
@@ -26,6 +25,7 @@
 * [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
 * [2025-06-17, 19:39:26](https://news.ycombinator.com/item?id=44303021) - [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
 * [2025-06-17, 07:25:23](https://news.ycombinator.com/item?id=44296523) - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+* [2025-06-16, 19:28:38](https://news.ycombinator.com/item?id=44292652) - [Spherical CNNs (2018)](https://arxiv.org/abs/1801.10130)
 * [2025-06-16, 15:34:26](https://news.ycombinator.com/item?id=44290580) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-15, 11:25:57](https://news.ycombinator.com/item?id=44281756) - [A different take on S-expressions](https://gist.github.com/tearflake/569db7fdc8b363b7d320ebfeef8ab503)
 * [2025-06-14, 23:38:56](https://news.ycombinator.com/item?id=44279569) - [\"poline\" is an enigmatic color palette generator using polar coordinates](https://meodai.github.io/poline/)
