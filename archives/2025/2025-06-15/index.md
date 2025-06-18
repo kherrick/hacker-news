@@ -21,6 +21,7 @@
 * [2025-06-15, 20:02:54](https://news.ycombinator.com/item?id=44284626) - [Tell HN: I just made a first ever dollar on my SaaS](https://news.ycombinator.com/item?id=44284626)
 * [2025-06-15, 19:55:29](https://news.ycombinator.com/item?id=44284594) - [An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers](https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html)
 * [2025-06-15, 19:55:09](https://news.ycombinator.com/item?id=44284592) - [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
+* [2025-06-15, 19:52:41](https://news.ycombinator.com/item?id=44284579) - [The \"standard\" car charger is usually overkill [video]](https://www.youtube.com/watch?v=W96a8svXo14)
 * [2025-06-15, 19:51:42](https://news.ycombinator.com/item?id=44284569) - [Iron nitride permanent magnets made with DIY ball mill [video]](https://www.youtube.com/watch?v=M6XIgdS1rzs)
 * [2025-06-15, 19:46:16](https://news.ycombinator.com/item?id=44284544) - [Show HN: Pipo360 – Generate production-ready back end APIs in 60 seconds with AI](https://pipo360.xyz)
 * [2025-06-15, 19:36:32](https://news.ycombinator.com/item?id=44284493) - [Show HN: Seastar – Build and dependency manager for C/C++ with Cargo's features](https://github.com/AI314159/Seastar)
