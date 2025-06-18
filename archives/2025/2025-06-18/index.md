@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 23:19:17](https://news.ycombinator.com/item?id=44314093) - [Student Visa Applicants Must Set Social-Media Accts to \"Public\" State Dept Says](https://www.wsj.com/politics/policy/student-visa-applicants-must-set-social-media-accounts-to-public-state-department-says-ff71bdd5)
+* [2025-06-18, 23:17:10](https://news.ycombinator.com/item?id=44314085) - [Show HN: Unregistry – \"docker push\" directly to servers without a registry](https://github.com/psviderski/unregistry)
 * [2025-06-18, 23:11:03](https://news.ycombinator.com/item?id=44314054) - [New US visa rules will force foreign students to unlock social media profiles](https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening)
+* [2025-06-18, 22:40:32](https://news.ycombinator.com/item?id=44313901) - [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
+* [2025-06-18, 22:02:21](https://news.ycombinator.com/item?id=44313652) - [A deep-dive explainer on Ink and Switch's BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
 * [2025-06-18, 21:21:26](https://news.ycombinator.com/item?id=44313379) - [Bento: A Steam Deck in a Keyboard](https://github.com/lunchbox-computer/bento)
 * [2025-06-18, 20:55:06](https://news.ycombinator.com/item?id=44313206) - [Websites Are Tracking You via Browser Fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
 * [2025-06-18, 17:32:00](https://news.ycombinator.com/item?id=44311781) - [The Invisible Light That's Harming Our Health](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)
