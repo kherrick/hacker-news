@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-15](index.md)
 
 * [2025-06-15, 23:01:38](https://news.ycombinator.com/item?id=44285521) - [First-Ever Supercritical CO2 Circuit Breaker Debuts](https://spectrum.ieee.org/sf6-gas-replacement)
+* [2025-06-15, 22:45:53](https://news.ycombinator.com/item?id=44285457) - [Strangers in the Middle of a City: The John and Jane Does of L.A. Medical Center](https://www.latimes.com/science/story/2025-06-15/l-a-seeks-help-for-a-patient-with-no-name)
 * [2025-06-15, 22:40:40](https://news.ycombinator.com/item?id=44285440) - [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
 * [2025-06-15, 22:37:12](https://news.ycombinator.com/item?id=44285426) - [Let's Talk About ChatGPT-Induced Spiritual Psychosis](https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual)
 * [2025-06-15, 22:29:34](https://news.ycombinator.com/item?id=44285392) - [KAIST Succeeds in Real-Time CO2 Monitoring Without Batteries or External Power](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450)
