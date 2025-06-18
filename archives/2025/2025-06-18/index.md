@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 12:59:58](https://news.ycombinator.com/item?id=44309520) - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
 * [2025-06-18, 12:00:50](https://news.ycombinator.com/item?id=44309110) - [Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
+* [2025-06-18, 10:53:59](https://news.ycombinator.com/item?id=44308711) - [Is There a Half-Life for the Success Rates of AI Agents?](https://www.tobyord.com/writing/half-life)
 * [2025-06-18, 10:31:44](https://news.ycombinator.com/item?id=44308558) - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
 * [2025-06-18, 08:53:50](https://news.ycombinator.com/item?id=44308000) - [Sam Altman Says Meta Offered OpenAI Staffers $100M Bonuses](https://www.bloomberg.com/news/articles/2025-06-17/altman-says-meta-offered-openai-staffers-100-million-bonuses)
 * [2025-06-18, 07:58:18](https://news.ycombinator.com/item?id=44307629) - [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)
