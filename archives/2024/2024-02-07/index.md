@@ -32,7 +32,7 @@
 * [2024-02-07, 19:31:13](https://news.ycombinator.com/item?id=39293093) - [JavaScript in SVGs](https://www.devdailydigest.tech/javascript-in-svgs/)
 * [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 19:23:21](https://news.ycombinator.com/item?id=39292990) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
-* [2024-02-07, 19:23:01](https://news.ycombinator.com/item?id=39292985) - [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
+* [2024-02-07, 19:23:01](https://news.ycombinator.com/item?id=39292985) - [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://wiki.nixos.org/wiki/Nix-shell_shebang)
 * [2024-02-07, 19:19:02](https://news.ycombinator.com/item?id=39292941) - [A record number of Americans can't afford rent](https://apnews.com/article/affordable-housing-rent-eviction-price-harvard-congress-f5411012e10fa78d0257c137e60c1be3)
 * [2024-02-07, 19:18:14](https://news.ycombinator.com/item?id=39292929) - [Lawsuit Accuses Anna's Archive of Hacking WorldCat, Stealing 2.2 TB Data](https://torrentfreak.com/lawsuit-accuses-annas-archive-of-hacking-worldcat-stealing-2-2-tb-data-240207/)
 * [2024-02-07, 18:59:10](https://news.ycombinator.com/item?id=39292690) - [Neanderthals, modern humans may have co-existed in Europe for at least 10k years](https://theconversation.com/how-long-did-neanderthals-and-modern-humans-co-exist-in-europe-evidence-is-growing-it-may-have-been-at-least-10-000-years-222762)
