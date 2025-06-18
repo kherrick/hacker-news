@@ -11,7 +11,6 @@
 * [2025-06-18, 15:38:15](https://news.ycombinator.com/item?id=44310834) - [Building agents using streaming SQL queries](https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/)
 * [2025-06-18, 15:20:05](https://news.ycombinator.com/item?id=44310678) - [Show HN: I built a tensor library from scratch in C++/CUDA](https://github.com/nirw4nna/dsc)
 * [2025-06-18, 15:09:34](https://news.ycombinator.com/item?id=44310583) - [Framework Laptop 12 review](https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/)
-* [2025-06-18, 13:52:15](https://news.ycombinator.com/item?id=44309891) - [Show HN: Trieve CLI – Terminal-based LLM agent loop with search tool for PDFs](https://github.com/devflowinc/trieve/tree/main/clients/cli)
 * [2025-06-18, 12:59:58](https://news.ycombinator.com/item?id=44309520) - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
 * [2025-06-18, 12:42:51](https://news.ycombinator.com/item?id=44309393) - [Show HN: Free local security checks for AI coding in VSCode, Cursor and Windsurf](https://news.ycombinator.com/item?id=44309393)
 * [2025-06-18, 12:36:47](https://news.ycombinator.com/item?id=44309345) - [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
@@ -28,6 +27,7 @@
 * [2025-06-16, 19:28:38](https://news.ycombinator.com/item?id=44292652) - [Spherical CNNs (2018)](https://arxiv.org/abs/1801.10130)
 * [2025-06-16, 15:34:26](https://news.ycombinator.com/item?id=44290580) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-15, 11:25:57](https://news.ycombinator.com/item?id=44281756) - [A different take on S-expressions](https://gist.github.com/tearflake/569db7fdc8b363b7d320ebfeef8ab503)
+* [2025-06-15, 06:53:25](https://news.ycombinator.com/item?id=44280966) - [Spatializing 6k years of global urbanization from 3700 BC to AD 2000](https://www.nature.com/articles/sdata201634)
 * [2025-06-14, 23:38:56](https://news.ycombinator.com/item?id=44279569) - [\"poline\" is an enigmatic color palette generator using polar coordinates](https://meodai.github.io/poline/)
 * [2025-06-13, 20:04:03](https://news.ycombinator.com/item?id=44271760) - [After millions of years, why are carnivorous plants still so small?](https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/)
 
