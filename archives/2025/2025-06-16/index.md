@@ -42,6 +42,7 @@
 * [2025-06-16, 12:32:02](https://news.ycombinator.com/item?id=44288937) - [Working on databases from prison: How I got here pt. 2](https://turso.tech/blog/working-on-databases-from-prison)
 * [2025-06-16, 12:00:18](https://news.ycombinator.com/item?id=44288748) - [Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)](https://infracost.io/join-the-team)
 * [2025-06-16, 11:40:54](https://news.ycombinator.com/item?id=44288643) - [Show HN: Socket-call – Call socket.io events like normal JavaScript functions](https://github.com/bperel/socket-call)
+* [2025-06-16, 11:10:04](https://news.ycombinator.com/item?id=44288450) - [DropZap World – my falling block game with lasers, released after years of work](https://apps.apple.com/us/app/dropzap-world/id1072858930)
 * [2025-06-16, 11:01:32](https://news.ycombinator.com/item?id=44288377) - [Snorting the AGI with Claude Code](https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code)
 * [2025-06-16, 10:06:51](https://news.ycombinator.com/item?id=44288051) - [How the BIC Cristal Ballpoint Pen Became the Most Successful Product in History](https://www.openculture.com/2025/06/how-the-bic-cristal-ballpoint-pen-became-the-most-successful-product-in-history.html)
 * [2025-06-16, 09:58:01](https://news.ycombinator.com/item?id=44288000) - [Tesla blows past stopped school bus and hits kid-sized dummies in FSD tests](https://www.engadget.com/transportation/tesla-blows-past-stopped-school-bus-and-hits-kid-sized-dummies-in-full-self-driving-tests-183756251.html)
