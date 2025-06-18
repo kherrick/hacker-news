@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 06:55:54](https://news.ycombinator.com/item?id=44307298) - [Benchmark: SnapDOM may be a serious alternative to html2canvas](https://zumerlab.github.io/snapdom/)
 * [2025-06-18, 06:53:34](https://news.ycombinator.com/item?id=44307290) - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
 * [2025-06-18, 06:47:44](https://news.ycombinator.com/item?id=44307257) - [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)
 * [2025-06-18, 06:25:06](https://news.ycombinator.com/item?id=44307140) - [Windows x86-64 System Call Table (XP/2003/Vista/7/8/10/11 and Server)](https://j00ru.vexillium.org/syscalls/nt/64/)
