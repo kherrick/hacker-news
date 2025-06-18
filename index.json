@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-18, 14:01:33",
-      "https://news.ycombinator.com/item?id=44309984"
-    ],
-    [
-      "Show HN: MediaCMS v6 – open-source video platform with trimmer and RBAC",
-      "https://github.com/mediacms-io/mediacms"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 12:59:58",
       "https://news.ycombinator.com/item?id=44309520"
     ],
@@ -157,6 +147,16 @@
     [
       "LLMs pose an interesting problem for DSL designers",
       "https://kirancodes.me/posts/log-lang-design-llms.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 18:05:53",
+      "https://news.ycombinator.com/item?id=44301998"
+    ],
+    [
+      "Time Series Forecasting with Graph Transformers",
+      "https://kumo.ai/research/time-series-forecasting/"
     ]
   ],
   [
