@@ -54,6 +54,7 @@
 * [2025-06-15, 13:23:55](https://news.ycombinator.com/item?id=44282177) - [Canyon.mid](https://canyonmid.com/)
 * [2025-06-15, 13:12:42](https://news.ycombinator.com/item?id=44282143) - [Childhood leukemia: how a deadly cancer became treatable](https://ourworldindata.org/childhood-leukemia-treatment-history)
 * [2025-06-15, 12:40:07](https://news.ycombinator.com/item?id=44282017) - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
+* [2025-06-15, 12:34:44](https://news.ycombinator.com/item?id=44282000) - [Think of a Number](https://xenaproject.wordpress.com/2025/01/20/think-of-a-number/)
 * [2025-06-15, 12:33:48](https://news.ycombinator.com/item?id=44281996) - [Show HN: PromptForge – A minimal AI SaaS to generate better GPT prompts](https://forge-ai-interface.lovable.app/)
 * [2025-06-15, 12:26:55](https://news.ycombinator.com/item?id=44281958) - [Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI](https://github.com/Kuberwastaken/meow)
 * [2025-06-15, 11:41:53](https://news.ycombinator.com/item?id=44281812) - [Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book](https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent)
