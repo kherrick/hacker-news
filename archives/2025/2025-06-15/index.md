@@ -60,6 +60,7 @@
 * [2025-06-15, 10:11:41](https://news.ycombinator.com/item?id=44281506) - [Foundations of Computer Vision](https://visionbook.mit.edu)
 * [2025-06-15, 10:11:05](https://news.ycombinator.com/item?id=44281505) - [Ireland became the Saudi Arabia of siphoned-off global profits](https://www.economist.com/europe/2025/06/12/how-ireland-became-the-saudi-arabia-of-siphoned-off-global-profits)
 * [2025-06-15, 09:14:09](https://news.ycombinator.com/item?id=44281371) - [Notes on the History of the Map Tile](https://placing.technology/notes-on-the-history-of-the-map-tile)
+* [2025-06-15, 08:28:18](https://news.ycombinator.com/item?id=44281238) - [I Wrote a Compiler](https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/)
 * [2025-06-15, 07:52:49](https://news.ycombinator.com/item?id=44281148) - [Tiny-diffusion: A minimal implementation of probabilistic diffusion models](https://github.com/tanelp/tiny-diffusion)
 * [2025-06-15, 07:07:42](https://news.ycombinator.com/item?id=44281016) - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-15, 06:41:31](https://news.ycombinator.com/item?id=44280926) - [How you breathe is like a fingerprint that can identify you](https://www.nature.com/articles/d41586-025-01835-0)
