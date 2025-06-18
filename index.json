@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-06-18, 12:59:58",
+      "https://news.ycombinator.com/item?id=44309520"
+    ],
+    [
+      "Homomorphically Encrypting CRDTs",
+      "https://jakelazaroff.com/words/homomorphically-encrypted-crdts/"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 12:00:50",
       "https://news.ycombinator.com/item?id=44309110"
     ],
     [
       "Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier",
       "https://www.workatastartup.com/companies/jiga"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 10:53:59",
+      "https://news.ycombinator.com/item?id=44308711"
+    ],
+    [
+      "Is There a Half-Life for the Success Rates of AI Agents?",
+      "https://www.tobyord.com/writing/half-life"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "LLMs pose an interesting problem for DSL designers",
       "https://kirancodes.me/posts/log-lang-design-llms.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 19:07:42",
-      "https://news.ycombinator.com/item?id=44302704"
-    ],
-    [
-      "From SDR to 'Fake HDR': Mario Kart World on Switch 2",
-      "https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "I Wrote a Compiler",
       "https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 02:38:49",
-      "https://news.ycombinator.com/item?id=44280168"
-    ],
-    [
-      "Show HN: I made an online Unicode Cuneiform digital clock",
-      "https://oisinmoran.com/sumertime"
     ]
   ],
   [
