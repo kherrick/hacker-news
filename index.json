@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-18, 16:26:35",
+      "https://news.ycombinator.com/item?id=44311241"
+    ],
+    [
+      "The Unreasonable Effectiveness of Fuzzing for Porting Programs",
+      "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 16:23:46",
       "https://news.ycombinator.com/item?id=44311217"
     ],
@@ -287,16 +297,6 @@
     [
       "\"poline\" is an enigmatic color palette generator using polar coordinates",
       "https://meodai.github.io/poline/"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 14:22:01",
-      "https://news.ycombinator.com/item?id=44276616"
-    ],
-    [
-      "A Straightforward Explanation of the Good Regulator Theorem",
-      "https://www.lesswrong.com/posts/JQefBJDHG6Wgffw6T/a-straightforward-explanation-of-the-good-regulator-theorem"
     ]
   ]
 ]
