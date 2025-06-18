@@ -11,6 +11,7 @@
 * [2025-06-15, 22:29:34](https://news.ycombinator.com/item?id=44285392) - [KAIST Succeeds in Real-Time CO2 Monitoring Without Batteries or External Power](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450)
 * [2025-06-15, 21:33:34](https://news.ycombinator.com/item?id=44285120) - [Incant – add magic spells to your code](https://github.com/montyanderson/incant)
 * [2025-06-15, 21:21:28](https://news.ycombinator.com/item?id=44285054) - [David Attenborough at 99: 'I will not see how the story ends'](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
+* [2025-06-15, 20:55:25](https://news.ycombinator.com/item?id=44284908) - [Munich from a Hamburger's Perspective](https://mertbulan.com/2025/06/14/munich-from-a-hamburgers-perspective/)
 * [2025-06-15, 20:53:09](https://news.ycombinator.com/item?id=44284896) - [Archaeologists unearth ancient bread that survived underground for 5k years](https://www.foxnews.com/food-drink/archaeologists-unearth-ancient-bread-survived-underground-5000-years)
 * [2025-06-15, 20:50:03](https://news.ycombinator.com/item?id=44284877) - [How Frogger 2’s source code was recovered from a destroyed tape [video]](https://www.youtube.com/watch?v=lvEO4IaEJlw)
 * [2025-06-15, 20:49:18](https://news.ycombinator.com/item?id=44284871) - [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
