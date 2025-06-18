@@ -2,6 +2,7 @@
 
 * [2025-06-18, 06:53:34](https://news.ycombinator.com/item?id=44307290) - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
 * [2025-06-18, 06:47:44](https://news.ycombinator.com/item?id=44307257) - [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)
+* [2025-06-18, 06:25:06](https://news.ycombinator.com/item?id=44307140) - [Windows x86-64 System Call Table (XP/2003/Vista/7/8/10/11 and Server)](https://j00ru.vexillium.org/syscalls/nt/64/)
 * [2025-06-18, 06:08:02](https://news.ycombinator.com/item?id=44307057) - [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)
 * [2025-06-18, 06:07:47](https://news.ycombinator.com/item?id=44307054) - [Which company would you prefer to join?](https://www.companymatches.com/)
 * [2025-06-18, 05:16:12](https://news.ycombinator.com/item?id=44306859) - [Make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
@@ -23,11 +24,10 @@
 * [2025-06-17, 14:58:14](https://news.ycombinator.com/item?id=44300064) - [Timescale Is Now TigerData](https://www.tigerdata.com/blog/timescale-becomes-tigerdata)
 * [2025-06-17, 14:51:40](https://news.ycombinator.com/item?id=44299979) - [Now might be the best time to learn software development](https://substack.com/home/post/p-165655726)
 * [2025-06-17, 14:51:10](https://news.ycombinator.com/item?id=44299970) - [Why JPEGs still rule the web (2024)](https://spectrum.ieee.org/jpeg-image-format-history)
+* [2025-06-16, 01:04:21](https://news.ycombinator.com/item?id=44285975) - [\"Don't Mock What You Don't Own\" in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
 * [2025-06-15, 22:45:53](https://news.ycombinator.com/item?id=44285457) - [Strangers in the Middle of a City: The John and Jane Does of L.A. Medical Center](https://www.latimes.com/science/story/2025-06-15/l-a-seeks-help-for-a-patient-with-no-name)
-* [2025-06-15, 21:33:34](https://news.ycombinator.com/item?id=44285120) - [Incant – add magic spells to your code](https://github.com/montyanderson/incant)
 * [2025-06-15, 15:54:54](https://news.ycombinator.com/item?id=44282953) - [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
 * [2025-06-15, 08:28:18](https://news.ycombinator.com/item?id=44281238) - [I Wrote a Compiler](https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/)
-* [2025-06-15, 03:14:22](https://news.ycombinator.com/item?id=44280271) - [The Travel Writer's Dilemma: Share, or Gatekeep?](https://www.nytimes.com/2025/06/10/travel/travel-writing-secret-discoveries.html)
 * [2025-06-15, 02:38:49](https://news.ycombinator.com/item?id=44280168) - [Show HN: I made an online Unicode Cuneiform digital clock](https://oisinmoran.com/sumertime)
 * [2025-06-14, 11:31:49](https://news.ycombinator.com/item?id=44275714) - [Proofs Without Words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
 
