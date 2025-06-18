@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-18, 20:55:06](https://news.ycombinator.com/item?id=44313206) - [Websites Are Tracking You via Browser Fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
 * [2025-06-18, 17:32:00](https://news.ycombinator.com/item?id=44311781) - [PWM flicker: Invisible light that's harming our health?](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)
 * [2025-06-18, 17:31:25](https://news.ycombinator.com/item?id=44311776) - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
 * [2025-06-18, 17:19:31](https://news.ycombinator.com/item?id=44311682) - [Game Hacking – Valve Anti-Cheat (VAC)](https://codeneverdies.github.io/posts/gh-2/)
@@ -13,7 +14,6 @@
 * [2025-06-18, 15:09:34](https://news.ycombinator.com/item?id=44310583) - [Framework Laptop 12 review](https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/)
 * [2025-06-18, 13:52:15](https://news.ycombinator.com/item?id=44309891) - [Show HN: Trieve CLI – Terminal-based LLM agent loop with search tool for PDFs](https://github.com/devflowinc/trieve/tree/main/clients/cli)
 * [2025-06-18, 12:59:58](https://news.ycombinator.com/item?id=44309520) - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
-* [2025-06-18, 12:42:51](https://news.ycombinator.com/item?id=44309393) - [Show HN: Free local security checks for AI coding in VSCode, Cursor and Windsurf](https://news.ycombinator.com/item?id=44309393)
 * [2025-06-18, 12:33:49](https://news.ycombinator.com/item?id=44309320) - [Show HN: Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 * [2025-06-18, 10:53:59](https://news.ycombinator.com/item?id=44308711) - [Is there a half-life for the success rates of AI agents?](https://www.tobyord.com/writing/half-life)
 * [2025-06-18, 10:31:44](https://news.ycombinator.com/item?id=44308558) - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
