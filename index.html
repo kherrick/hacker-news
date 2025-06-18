@@ -129,6 +129,102 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44306041">
+          <h3>
+            <a class="item" href="https://github.com/bgreenwell/lstr"
+              >Show HN: Lstr – A modern, interactive tree command written in
+              Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-18 @ 02:07:19</span
+              ><span class="points-container"
+                >Points: <span class="points">51</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44306041"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>(First time poster!)</p>
+              <p>
+                I'm the author of `lstr`. I've always loved the classic Linux
+                `tree` command for its simplicity, but I often found myself
+                wanting more modern features like interactivity and Git
+                integration. So, I decided to build my own version in Rust with
+                a philosophy of being fast, minimalist, and interactive. It was
+                also an excuse to help learn more about Rust\!
+              </p>
+              <p>Here's a quick look at the interactive mode:</p>
+              <p>
+                <a
+                  href="https://raw.githubusercontent.com/bgreenwell/lstr/main/assets/lstr-demo.gif"
+                  >https://raw.githubusercontent.com/bgreenwell/lstr/main/asset...</a
+                >
+              </p>
+              <p>
+                I've just released v0.2.0 with some features I think this
+                community might find useful:
+              </p>
+              <p></p>
+              <pre><code>  * **Interactive TUI Mode:** You can launch it with `lstr interactive`. It allows for keyboard-driven navigation, expanding/collapsing directories, and opening files in your default editor.
+  * **Git Status Integration:** Using the `-G` flag, `lstr` will show the Git status of every file and directory right in the tree output.
+  * **Shell Integration:** This is my favorite feature. In interactive mode, you can press `Ctrl+s` to quit and have `lstr` print the selected path to stdout. This lets you pipe it into other commands or use it as a visual `cd`. For example, you can add this function to your `.bashrc`/`.zshrc`:
+    ```bash
+    lcd() {
+        local selected_path
+        selected_path="$(lstr interactive -gG)"
+        if [[ -n "$selected_path" &amp;&amp; -d "$selected_path" ]]; then
+            cd "$selected_path"
+        fi
+    }
+    ```
+    Then just run `lcd` to visually pick a directory and jump to it.
+</code></pre>
+              It also supports file-type icons (via Nerd Fonts), file sizes,
+              permissions, and respects your `.gitignore`.
+              <p>
+                The project is open-source and I would love to get your
+                feedback.
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/bgreenwell/lstr"
+                  >https://github.com/bgreenwell/lstr</a
+                >
+              </p>
+              <p>
+                Crates.io:
+                <a href="https://crates.io/crates/lstr"
+                  >https://crates.io/crates/lstr</a
+                >
+              </p>
+              <p>Thanks for checking it out!</p>
+            </div>
+          </section>
+        </section>
+        <section id="44305636">
+          <h3>
+            <a class="item" href="https://github.com/botingw/rulebook-ai"
+              >Show HN: Rulebook AI – rules and memory manager for AI coding
+              IDEs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-18 @ 00:56:42</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44305636"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44305271">
           <h3>
             <a class="item" href="https://dineshdesai.info/dv/photos.html"
@@ -139,11 +235,11 @@
             <h4>
               <span>2025-06-17 @ 23:56:32</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44305271"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -176,11 +272,11 @@
             <h4>
               <span>2025-06-17 @ 20:24:36</span
               ><span class="points-container"
-                >Points: <span class="points">555</span></span
+                >Points: <span class="points">577</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44303542"
                   >Comments</a
-                ><span class="descendants">: 207</span></span
+                ><span class="descendants">: 212</span></span
               >
             </h4>
           </section>
@@ -197,11 +293,11 @@
             <h4>
               <span>2025-06-17 @ 20:06:54</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44303361"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -211,18 +307,18 @@
             <a
               class="item"
               href="https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/"
-              >What Google Translate Can Tell Us About Vibecoding</a
+              >What Google Translate can tell us about vibecoding</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-06-17 @ 19:23:10</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44302870"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -239,11 +335,11 @@
             <h4>
               <span>2025-06-17 @ 19:17:05</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44302797"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -260,11 +356,32 @@
             <h4>
               <span>2025-06-17 @ 19:12:23</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44302752"
                   >Comments</a
-                ><span class="descendants">: 291</span></span
+                ><span class="descendants">: 296</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44302704">
+          <h3>
+            <a
+              class="item"
+              href="https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/"
+              >From SDR to 'Fake HDR': Mario Kart World on Switch 2</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-17 @ 19:07:42</span
+              ><span class="points-container"
+                >Points: <span class="points">59</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44302704"
+                  >Comments</a
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -281,11 +398,11 @@
             <h4>
               <span>2025-06-17 @ 18:05:53</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44301998"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -302,11 +419,11 @@
             <h4>
               <span>2025-06-17 @ 17:50:05</span
               ><span class="points-container"
-                >Points: <span class="points">290</span></span
+                >Points: <span class="points">298</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44301809"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -323,11 +440,11 @@
             <h4>
               <span>2025-06-17 @ 17:40:19</span
               ><span class="points-container"
-                >Points: <span class="points">401</span></span
+                >Points: <span class="points">407</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44301686"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -344,7 +461,7 @@
             <h4>
               <span>2025-06-17 @ 17:38:02</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44301660"
                   >Comments</a
@@ -366,11 +483,11 @@
             <h4>
               <span>2025-06-17 @ 16:06:05</span
               ><span class="points-container"
-                >Points: <span class="points">282</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44300717"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 171</span></span
               >
             </h4>
           </section>
@@ -388,11 +505,32 @@
             <h4>
               <span>2025-06-17 @ 15:02:12</span
               ><span class="points-container"
-                >Points: <span class="points">873</span></span
+                >Points: <span class="points">889</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44300102"
                   >Comments</a
-                ><span class="descendants">: 257</span></span
+                ><span class="descendants">: 264</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44300064">
+          <h3>
+            <a
+              class="item"
+              href="https://www.tigerdata.com/blog/timescale-becomes-tigerdata"
+              >Timescale Is Now TigerData</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-17 @ 14:58:14</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44300064"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -407,11 +545,11 @@
             <h4>
               <span>2025-06-17 @ 14:51:40</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44299979"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -428,11 +566,11 @@
             <h4>
               <span>2025-06-17 @ 14:51:10</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44299970"
                   >Comments</a
-                ><span class="descendants">: 255</span></span
+                ><span class="descendants">: 259</span></span
               >
             </h4>
           </section>
@@ -449,31 +587,11 @@
             <h4>
               <span>2025-06-17 @ 14:01:16</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44299354"
                   >Comments</a
                 ><span class="descendants">: 135</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44298724">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2506.02774"
-              >Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your
-              Phone</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-17 @ 13:08:01</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44298724"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -490,74 +608,33 @@
             <h4>
               <span>2025-06-17 @ 13:02:54</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44298656"
                   >Comments</a
-                ><span class="descendants">: 160</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44297381">
+        <section id="44285457">
           <h3>
             <a
               class="item"
-              href="https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/"
-              >KiCad and Wayland Support</a
+              href="https://www.latimes.com/science/story/2025-06-15/l-a-seeks-help-for-a-patient-with-no-name"
+              >Strangers in the Middle of a City: The John and Jane Does of L.A.
+              Medical Center</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-06-17 @ 09:58:54</span
+              <span>2025-06-15 @ 22:45:53</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44297381"
+                ><a href="https://news.ycombinator.com/item?id=44285457"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44297045">
-          <h3>
-            <a
-              class="item"
-              href="https://www.worksinprogress.news/p/the-magic-of-through-running"
-              >The magic of through running</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-17 @ 08:57:46</span
-              ><span class="points-container"
-                >Points: <span class="points">167</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44297045"
-                  >Comments</a
-                ><span class="descendants">: 109</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44293610">
-          <h3>
-            <a
-              class="item"
-              href="https://nautil.us/clergy-blown-away-by-psilocybin-1217112/"
-              >What happens when clergy take psilocybin</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-16 @ 21:34:09</span
-              ><span class="points-container"
-                >Points: <span class="points">335</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44293610"
-                  >Comments</a
-                ><span class="descendants">: 498</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -575,11 +652,11 @@
             <h4>
               <span>2025-06-15 @ 15:54:54</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44282953"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -596,7 +673,7 @@
             <h4>
               <span>2025-06-15 @ 08:28:18</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44281238"
                   >Comments</a
@@ -615,11 +692,11 @@
             <h4>
               <span>2025-06-15 @ 02:38:49</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44280168"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
             <div class="text">
@@ -640,7 +717,7 @@
             <h4>
               <span>2025-06-14 @ 16:07:23</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44277179"
                   >Comments</a
@@ -661,7 +738,7 @@
             <h4>
               <span>2025-06-14 @ 14:53:32</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44276765"
                   >Comments</a
@@ -682,7 +759,7 @@
             <h4>
               <span>2025-06-14 @ 13:01:47</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44276200"
                   >Comments</a
@@ -703,11 +780,11 @@
             <h4>
               <span>2025-06-14 @ 11:31:49</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44275714"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -725,32 +802,11 @@
             <h4>
               <span>2025-06-13 @ 20:04:03</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44271760"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44269192">
-          <h3>
-            <a
-              class="item"
-              href="https://www.scientificamerican.com/article/streetlights-are-mysteriously-turning-purple-heres-why/"
-              >US Streetlights Are Turning Purple</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-13 @ 15:04:40</span
-              ><span class="points-container"
-                >Points: <span class="points">73</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44269192"
-                  >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
