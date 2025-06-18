@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-06-18, 23:19:17",
+      "https://news.ycombinator.com/item?id=44314093"
+    ],
+    [
+      "Student Visa Applicants Must Set Social-Media Accts to \"Public\" State Dept Says",
+      "https://www.wsj.com/politics/policy/student-visa-applicants-must-set-social-media-accounts-to-public-state-department-says-ff71bdd5"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 23:17:10",
+      "https://news.ycombinator.com/item?id=44314085"
+    ],
+    [
+      "Show HN: Unregistry – \"docker push\" directly to servers without a registry",
+      "https://github.com/psviderski/unregistry"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 23:11:03",
       "https://news.ycombinator.com/item?id=44314054"
     ],
     [
       "New US visa rules will force foreign students to unlock social media profiles",
       "https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 22:40:32",
+      "https://news.ycombinator.com/item?id=44313901"
+    ],
+    [
+      "Fang, the CLI Starter Kit",
+      "https://github.com/charmbracelet/fang"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 22:02:21",
+      "https://news.ycombinator.com/item?id=44313652"
+    ],
+    [
+      "A deep-dive explainer on Ink and Switch's BeeKEM protocol",
+      "https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "Websites Are Tracking You via Browser Fingerprinting",
       "https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 17:32:00",
-      "https://news.ycombinator.com/item?id=44311781"
-    ],
-    [
-      "PWM flicker: Invisible light that's harming our health?",
-      "https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521"
     ]
   ],
   [
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2025-06-18, 13:52:15",
-      "https://news.ycombinator.com/item?id=44309891"
-    ],
-    [
-      "Show HN: Trieve CLI – Terminal-based LLM agent loop with search tool for PDFs",
-      "https://github.com/devflowinc/trieve/tree/main/clients/cli"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 12:59:58",
       "https://news.ycombinator.com/item?id=44309520"
     ],
     [
       "Homomorphically Encrypting CRDTs",
       "https://jakelazaroff.com/words/homomorphically-encrypted-crdts/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 12:36:47",
-      "https://news.ycombinator.com/item?id=44309345"
-    ],
-    [
-      "Reasoning by Superposition: A Perspective on Chain of Continuous Thought",
-      "https://arxiv.org/abs/2505.12514"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-06-17, 19:39:26",
-      "https://news.ycombinator.com/item?id=44303021"
+      "2025-06-17, 15:03:02",
+      "https://news.ycombinator.com/item?id=44300111"
     ],
     [
-      "Real-time action chunking with large models",
-      "https://www.pi.website/research/real_time_chunking"
+      "Icons of Aviation History: Boeing X-29",
+      "https://lflank.wordpress.com/2025/06/17/icons-of-aviation-history-boeing-x-29/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Introduction to the A* Algorithm (2014)",
       "https://www.redblobgames.com/pathfinding/a-star/introduction.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-16, 15:34:26",
-      "https://news.ycombinator.com/item?id=44290580"
-    ],
-    [
-      "Should we design for iffy internet?",
-      "https://bytes.zone/posts/should-we-design-for-iffy-internet/"
     ]
   ],
   [
