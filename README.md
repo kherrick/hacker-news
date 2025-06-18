@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-18, 06:08:02](https://news.ycombinator.com/item?id=44307057) - [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)
 * [2025-06-18, 05:16:12](https://news.ycombinator.com/item?id=44306859) - [Make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 * [2025-06-18, 04:58:53](https://news.ycombinator.com/item?id=44306792) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
 * [2025-06-18, 03:41:44](https://news.ycombinator.com/item?id=44306462) - [OpenSERDES – Open Hardware Serializer/Deserializer (SerDes) in Verilog](https://github.com/SparcLab/OpenSERDES)
@@ -10,7 +11,6 @@
 * [2025-06-17, 20:06:54](https://news.ycombinator.com/item?id=44303361) - [Bzip2 crate switches from C to 100% Rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
 * [2025-06-17, 19:23:10](https://news.ycombinator.com/item?id=44302870) - [What Google Translate can tell us about vibecoding](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/)
 * [2025-06-17, 19:17:05](https://news.ycombinator.com/item?id=44302797) - [LLMs pose an interesting problem for DSL designers](https://kirancodes.me/posts/log-lang-design-llms.html)
-* [2025-06-17, 19:12:23](https://news.ycombinator.com/item?id=44302752) - [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
 * [2025-06-17, 19:07:42](https://news.ycombinator.com/item?id=44302704) - [From SDR to 'Fake HDR': Mario Kart World on Switch 2](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
 * [2025-06-17, 18:05:53](https://news.ycombinator.com/item?id=44301998) - [Time Series Forecasting with Graph Transformers](https://kumo.ai/research/time-series-forecasting/)
 * [2025-06-17, 17:50:05](https://news.ycombinator.com/item?id=44301809) - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
