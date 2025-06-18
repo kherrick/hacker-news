@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-18, 17:00:36",
+      "https://news.ycombinator.com/item?id=44311538"
+    ],
+    [
+      "Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer",
+      "https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 16:40:03",
+      "https://news.ycombinator.com/item?id=44311363"
+    ],
+    [
+      "The Great Decoupling (Or Why Your Clicks Are Down and Impressions Up)",
+      "https://ahrefs.com/blog/the-great-decoupling/"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 16:26:35",
       "https://news.ycombinator.com/item?id=44311241"
     ],
@@ -21,11 +41,21 @@
   ],
   [
     [
+      "2025-06-18, 15:40:12",
+      "https://news.ycombinator.com/item?id=44310851"
+    ],
+    [
+      "Revisiting Minsky's Society of Mind in 2025",
+      "https://suthakamal.substack.com/p/revisiting-minskys-society-of-mind"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 15:38:15",
       "https://news.ycombinator.com/item?id=44310834"
     ],
     [
-      "This AI Agent Should Have Been a SQL Query",
+      "Building agents using streaming SQL queries",
       "https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/"
     ]
   ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44310583"
     ],
     [
-      "Framework Laptop 12: I'm excited to see what the 2nd generation looks like",
+      "Framework Laptop 12 review",
       "https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/"
     ]
   ],
@@ -87,26 +117,6 @@
     [
       "Show HN: Workout.cool – Open-source fitness coaching platform",
       "https://github.com/Snouzy/workout-cool"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 12:00:50",
-      "https://news.ycombinator.com/item?id=44309110"
-    ],
-    [
-      "Jiga (YC W21) Is Hiring Software Engs to Make Life of Mech Engs Easier",
-      "https://www.workatastartup.com/companies/jiga"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 11:40:05",
-      "https://news.ycombinator.com/item?id=44308984"
-    ],
-    [
-      "The Bethesda Declaration",
-      "https://www.science.org/content/blog-post/bethesda-declaration"
     ]
   ],
   [
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2025-06-18, 03:41:44",
-      "https://news.ycombinator.com/item?id=44306462"
+      "2025-06-18, 04:58:53",
+      "https://news.ycombinator.com/item?id=44306792"
     ],
     [
-      "OpenSERDES – Open Hardware Serializer/Deserializer (SerDes) in Verilog (2020)",
-      "https://github.com/SparcLab/OpenSERDES"
+      "Locally hosting an internet-connected server",
+      "https://mjg59.dreamwidth.org/72095.html"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-06-17, 14:51:40",
-      "https://news.ycombinator.com/item?id=44299979"
-    ],
-    [
-      "Now might be the best time to learn software development",
-      "https://substack.com/home/post/p-165655726"
-    ]
-  ],
-  [
-    [
       "2025-06-17, 07:25:23",
       "https://news.ycombinator.com/item?id=44296523"
     ],
@@ -257,16 +257,6 @@
     [
       "Munich from a Hamburger's Perspective",
       "https://mertbulan.com/2025/06/14/munich-from-a-hamburgers-perspective/"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 15:54:54",
-      "https://news.ycombinator.com/item?id=44282953"
-    ],
-    [
-      "3D-printed device splits white noise into an acoustic rainbow without power",
-      "https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "\"poline\" is an enigmatic color palette generator using polar coordinates",
       "https://meodai.github.io/poline/"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 20:04:03",
+      "https://news.ycombinator.com/item?id=44271760"
+    ],
+    [
+      "After millions of years, why are carnivorous plants still so small?",
+      "https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/"
     ]
   ]
 ]
