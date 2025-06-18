@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-18, 07:01:15](https://news.ycombinator.com/item?id=44307334) - [Show HN: Cpdown – Copy any webpage/YouTube subtitle as clean Markdown(LLM-ready)](https://news.ycombinator.com/from?site=github.com/ysm-dev)
 * [2025-06-18, 06:55:54](https://news.ycombinator.com/item?id=44307298) - [Benchmark: SnapDOM may be a serious alternative to html2canvas](https://zumerlab.github.io/snapdom/)
 * [2025-06-18, 06:53:34](https://news.ycombinator.com/item?id=44307290) - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
-* [2025-06-18, 06:47:44](https://news.ycombinator.com/item?id=44307257) - [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)
 * [2025-06-18, 06:25:06](https://news.ycombinator.com/item?id=44307140) - [Windows x86-64 System Call Table (XP/2003/Vista/7/8/10/11 and Server)](https://j00ru.vexillium.org/syscalls/nt/64/)
-* [2025-06-18, 06:08:02](https://news.ycombinator.com/item?id=44307057) - [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)
 * [2025-06-18, 06:07:47](https://news.ycombinator.com/item?id=44307054) - [Which company would you prefer to join?](https://www.companymatches.com/)
 * [2025-06-18, 05:16:12](https://news.ycombinator.com/item?id=44306859) - [Make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 * [2025-06-18, 04:58:53](https://news.ycombinator.com/item?id=44306792) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
@@ -29,6 +28,7 @@
 * [2025-06-15, 15:54:54](https://news.ycombinator.com/item?id=44282953) - [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
 * [2025-06-15, 08:28:18](https://news.ycombinator.com/item?id=44281238) - [I Wrote a Compiler](https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/)
 * [2025-06-15, 02:38:49](https://news.ycombinator.com/item?id=44280168) - [Show HN: I made an online Unicode Cuneiform digital clock](https://oisinmoran.com/sumertime)
+* [2025-06-14, 14:22:01](https://news.ycombinator.com/item?id=44276616) - [A Straightforward Explanation of the Good Regulator Theorem](https://www.lesswrong.com/posts/JQefBJDHG6Wgffw6T/a-straightforward-explanation-of-the-good-regulator-theorem)
 * [2025-06-14, 11:31:49](https://news.ycombinator.com/item?id=44275714) - [Proofs Without Words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
 
 ## [Archives](archives/index.md)
