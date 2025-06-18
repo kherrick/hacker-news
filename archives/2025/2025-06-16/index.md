@@ -27,6 +27,7 @@
 * [2025-06-16, 15:41:44](https://news.ycombinator.com/item?id=44290653) - [Darklang Goes Open Source](https://blog.darklang.com/darklang-goes-open-source/)
 * [2025-06-16, 15:36:25](https://news.ycombinator.com/item?id=44290597) - [Income Inequality Depresses Support for Higher Minimum Wages [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001772.pdf)
 * [2025-06-16, 15:34:48](https://news.ycombinator.com/item?id=44290582) - [Object personification in autism: This paper will be sad if you don't read](https://pubmed.ncbi.nlm.nih.gov/30101594/)
+* [2025-06-16, 15:34:26](https://news.ycombinator.com/item?id=44290580) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-16, 15:16:47](https://news.ycombinator.com/item?id=44290413) - [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
 * [2025-06-16, 15:11:48](https://news.ycombinator.com/item?id=44290357) - [Goodbye Dark, Inc. – Welcome Darklang, Inc](https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/)
 * [2025-06-16, 15:09:17](https://news.ycombinator.com/item?id=44290331) - [OpenTelemetry for Go: Measuring overhead costs](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)

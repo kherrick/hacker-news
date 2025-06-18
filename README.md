@@ -25,7 +25,7 @@
 * [2025-06-17, 17:50:05](https://news.ycombinator.com/item?id=44301809) - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
 * [2025-06-17, 15:02:12](https://news.ycombinator.com/item?id=44300102) - [Honda conducts successful launch and landing of experimental reusable rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
 * [2025-06-17, 07:25:23](https://news.ycombinator.com/item?id=44296523) - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
-* [2025-06-15, 20:55:25](https://news.ycombinator.com/item?id=44284908) - [Munich from a Hamburger's Perspective](https://mertbulan.com/2025/06/14/munich-from-a-hamburgers-perspective/)
+* [2025-06-16, 15:34:26](https://news.ycombinator.com/item?id=44290580) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-15, 12:34:44](https://news.ycombinator.com/item?id=44282000) - [Think of a Number](https://xenaproject.wordpress.com/2025/01/20/think-of-a-number/)
 * [2025-06-15, 11:25:57](https://news.ycombinator.com/item?id=44281756) - [A different take on S-expressions](https://gist.github.com/tearflake/569db7fdc8b363b7d320ebfeef8ab503)
 * [2025-06-14, 23:38:56](https://news.ycombinator.com/item?id=44279569) - [\"poline\" is an enigmatic color palette generator using polar coordinates](https://meodai.github.io/poline/)
