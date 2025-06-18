@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-18, 15:20:05",
+      "https://news.ycombinator.com/item?id=44310678"
+    ],
+    [
+      "Show HN: I built a tensor library from scratch in C++/CUDA",
+      "https://github.com/nirw4nna/dsc"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 15:09:34",
+      "https://news.ycombinator.com/item?id=44310583"
+    ],
+    [
+      "Framework Laptop 12: I'm excited to see what the 2nd generation looks like",
+      "https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 12:59:58",
       "https://news.ycombinator.com/item?id=44309520"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-06-17, 18:05:53",
-      "https://news.ycombinator.com/item?id=44301998"
-    ],
-    [
-      "Time Series Forecasting with Graph Transformers",
-      "https://kumo.ai/research/time-series-forecasting/"
-    ]
-  ],
-  [
-    [
       "2025-06-17, 17:50:05",
       "https://news.ycombinator.com/item?id=44301809"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2025-06-17, 14:58:14",
-      "https://news.ycombinator.com/item?id=44300064"
-    ],
-    [
-      "Timescale Is Now TigerData",
-      "https://www.tigerdata.com/blog/timescale-becomes-tigerdata"
-    ]
-  ],
-  [
-    [
       "2025-06-17, 14:51:40",
       "https://news.ycombinator.com/item?id=44299979"
     ],
     [
       "Now might be the best time to learn software development",
       "https://substack.com/home/post/p-165655726"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 14:51:10",
-      "https://news.ycombinator.com/item?id=44299970"
-    ],
-    [
-      "Why JPEGs still rule the web (2024)",
-      "https://spectrum.ieee.org/jpeg-image-format-history"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "3D-printed device splits white noise into an acoustic rainbow without power",
       "https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 12:34:44",
+      "https://news.ycombinator.com/item?id=44282000"
+    ],
+    [
+      "Think of a Number",
+      "https://xenaproject.wordpress.com/2025/01/20/think-of-a-number/"
     ]
   ],
   [
