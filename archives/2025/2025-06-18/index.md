@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 14:01:33](https://news.ycombinator.com/item?id=44309984) - [Show HN: MediaCMS v6 – open-source video platform with trimmer and RBAC](https://github.com/mediacms-io/mediacms)
 * [2025-06-18, 13:04:59](https://news.ycombinator.com/item?id=44309550) - [Why China is giving away its tech for free](https://www.economist.com/business/2025/06/17/why-china-is-giving-away-its-tech-for-free)
 * [2025-06-18, 12:59:58](https://news.ycombinator.com/item?id=44309520) - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
 * [2025-06-18, 12:36:47](https://news.ycombinator.com/item?id=44309345) - [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
@@ -21,6 +22,7 @@
 * [2025-06-18, 06:25:06](https://news.ycombinator.com/item?id=44307140) - [Windows x86-64 System Call Table (XP/2003/Vista/7/8/10/11 and Server)](https://j00ru.vexillium.org/syscalls/nt/64/)
 * [2025-06-18, 06:08:02](https://news.ycombinator.com/item?id=44307057) - [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)
 * [2025-06-18, 06:07:47](https://news.ycombinator.com/item?id=44307054) - [Which company would you prefer to join?](https://www.companymatches.com/)
+* [2025-06-18, 05:40:03](https://news.ycombinator.com/item?id=44306937) - [Grokking NAT and packet mangling in Linux](https://vivekn.dev/blog/grokking-nat-and-packet-mangling-in-linux)
 * [2025-06-18, 05:25:36](https://news.ycombinator.com/item?id=44306892) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 * [2025-06-18, 05:16:12](https://news.ycombinator.com/item?id=44306859) - [Make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 * [2025-06-18, 04:58:53](https://news.ycombinator.com/item?id=44306792) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
