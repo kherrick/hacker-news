@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-18, 17:31:25](https://news.ycombinator.com/item?id=44311776) - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
+* [2025-06-18, 17:19:31](https://news.ycombinator.com/item?id=44311682) - [Game Hacking – Valve Anti-Cheat (VAC)](https://codeneverdies.github.io/posts/gh-2/)
 * [2025-06-18, 17:00:36](https://news.ycombinator.com/item?id=44311538) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
-* [2025-06-18, 16:40:03](https://news.ycombinator.com/item?id=44311363) - [The Great Decoupling (Or Why Your Clicks Are Down and Impressions Up)](https://ahrefs.com/blog/the-great-decoupling/)
 * [2025-06-18, 16:26:35](https://news.ycombinator.com/item?id=44311241) - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 * [2025-06-18, 16:23:46](https://news.ycombinator.com/item?id=44311217) - [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices)
 * [2025-06-18, 15:40:12](https://news.ycombinator.com/item?id=44310851) - [Revisiting Minsky's Society of Mind in 2025](https://suthakamal.substack.com/p/revisiting-minskys-society-of-mind)
@@ -21,7 +22,6 @@
 * [2025-06-18, 02:07:19](https://news.ycombinator.com/item?id=44306041) - [Show HN: Lstr – A modern, interactive tree command written in Rust](https://github.com/bgreenwell/lstr)
 * [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
 * [2025-06-17, 19:39:26](https://news.ycombinator.com/item?id=44303021) - [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
-* [2025-06-17, 19:23:10](https://news.ycombinator.com/item?id=44302870) - [What Google Translate can tell us about vibecoding](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/)
 * [2025-06-17, 17:50:05](https://news.ycombinator.com/item?id=44301809) - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
 * [2025-06-17, 15:02:12](https://news.ycombinator.com/item?id=44300102) - [Honda conducts successful launch and landing of experimental reusable rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
 * [2025-06-17, 07:25:23](https://news.ycombinator.com/item?id=44296523) - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)

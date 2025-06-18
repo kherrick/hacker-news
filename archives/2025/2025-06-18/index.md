@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 17:31:25](https://news.ycombinator.com/item?id=44311776) - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
+* [2025-06-18, 17:19:31](https://news.ycombinator.com/item?id=44311682) - [Game Hacking – Valve Anti-Cheat (VAC)](https://codeneverdies.github.io/posts/gh-2/)
 * [2025-06-18, 17:00:36](https://news.ycombinator.com/item?id=44311538) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
 * [2025-06-18, 16:40:03](https://news.ycombinator.com/item?id=44311363) - [The Great Decoupling (Or Why Your Clicks Are Down and Impressions Up)](https://ahrefs.com/blog/the-great-decoupling/)
 * [2025-06-18, 16:26:35](https://news.ycombinator.com/item?id=44311241) - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
