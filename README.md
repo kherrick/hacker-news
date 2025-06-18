@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-18, 03:41:44](https://news.ycombinator.com/item?id=44306462) - [OpenSERDES – Open Hardware Serializer/Deserializer (SerDes) in Verilog](https://github.com/SparcLab/OpenSERDES)
 * [2025-06-18, 02:07:19](https://news.ycombinator.com/item?id=44306041) - [Show HN: Lstr – A modern, interactive tree command written in Rust](https://github.com/bgreenwell/lstr)
 * [2025-06-18, 00:56:42](https://news.ycombinator.com/item?id=44305636) - [Show HN: Rulebook AI – rules and memory manager for AI coding IDEs](https://github.com/botingw/rulebook-ai)
 * [2025-06-17, 23:56:32](https://news.ycombinator.com/item?id=44305271) - [Dinesh's Mid-Summer Death Valley Walk (1998)](https://dineshdesai.info/dv/photos.html)
@@ -26,7 +27,6 @@
 * [2025-06-15, 15:54:54](https://news.ycombinator.com/item?id=44282953) - [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
 * [2025-06-15, 08:28:18](https://news.ycombinator.com/item?id=44281238) - [I Wrote a Compiler](https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/)
 * [2025-06-15, 02:38:49](https://news.ycombinator.com/item?id=44280168) - [Show HN: I made an online Unicode Cuneiform digital clock](https://oisinmoran.com/sumertime)
-* [2025-06-14, 16:07:23](https://news.ycombinator.com/item?id=44277179) - [AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge](https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing)
 * [2025-06-14, 14:53:32](https://news.ycombinator.com/item?id=44276765) - [Tetrachromatic Vision](https://www.bookofjoe.com/2025/05/my-entry-32.html)
 * [2025-06-14, 11:31:49](https://news.ycombinator.com/item?id=44275714) - [Proofs Without Words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
 * [2025-06-13, 20:04:03](https://news.ycombinator.com/item?id=44271760) - [After millions of years, why are carnivorous plants still so small?](https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/)
