@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-06-18, 13:52:15",
+      "https://news.ycombinator.com/item?id=44309891"
+    ],
+    [
+      "Show HN: Trieve CLI – Terminal-based LLM agent loop with search tool for PDFs",
+      "https://github.com/devflowinc/trieve/tree/main/clients/cli"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 12:59:58",
       "https://news.ycombinator.com/item?id=44309520"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-06-18, 02:07:19",
-      "https://news.ycombinator.com/item?id=44306041"
-    ],
-    [
-      "Show HN: Lstr – A modern, interactive tree command written in Rust",
-      "https://github.com/bgreenwell/lstr"
-    ]
-  ],
-  [
-    [
       "2025-06-17, 20:24:36",
       "https://news.ycombinator.com/item?id=44303542"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44279569"
     ],
     [
-      "\"poline\" is an enigmatic color palette generator using polar coordinates",
+      "Poline – An enigmatic color palette generator using polar coordinates",
       "https://meodai.github.io/poline/"
     ]
   ],
