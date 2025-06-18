@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 10:31:44](https://news.ycombinator.com/item?id=44308558) - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
 * [2025-06-18, 08:53:50](https://news.ycombinator.com/item?id=44308000) - [Sam Altman Says Meta Offered OpenAI Staffers $100M Bonuses](https://www.bloomberg.com/news/articles/2025-06-17/altman-says-meta-offered-openai-staffers-100-million-bonuses)
 * [2025-06-18, 07:58:18](https://news.ycombinator.com/item?id=44307629) - [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)
 * [2025-06-18, 07:01:15](https://news.ycombinator.com/item?id=44307334) - [Show HN: Cpdown – Copy any webpage/YouTube subtitle as clean Markdown(LLM-ready)](https://news.ycombinator.com/from?site=github.com/ysm-dev)
