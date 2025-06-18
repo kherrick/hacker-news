@@ -27,9 +27,9 @@
 * [2025-06-15, 20:53:09](https://news.ycombinator.com/item?id=44284896) - [Archaeologists unearth ancient bread that survived underground for 5k years](https://www.foxnews.com/food-drink/archaeologists-unearth-ancient-bread-survived-underground-5000-years)
 * [2025-06-15, 15:54:54](https://news.ycombinator.com/item?id=44282953) - [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
 * [2025-06-15, 08:28:18](https://news.ycombinator.com/item?id=44281238) - [I Wrote a Compiler](https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/)
+* [2025-06-15, 03:14:22](https://news.ycombinator.com/item?id=44280271) - [The Travel Writer's Dilemma: Share, or Gatekeep?](https://www.nytimes.com/2025/06/10/travel/travel-writing-secret-discoveries.html)
 * [2025-06-15, 02:38:49](https://news.ycombinator.com/item?id=44280168) - [Show HN: I made an online Unicode Cuneiform digital clock](https://oisinmoran.com/sumertime)
 * [2025-06-14, 11:31:49](https://news.ycombinator.com/item?id=44275714) - [Proofs Without Words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
-* [2025-06-13, 20:04:03](https://news.ycombinator.com/item?id=44271760) - [After millions of years, why are carnivorous plants still so small?](https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/)
 
 ## [Archives](archives/index.md)
 
