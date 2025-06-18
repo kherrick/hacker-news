@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 17:32:00](https://news.ycombinator.com/item?id=44311781) - [The Invisible Light That's Harming Our Health](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)
 * [2025-06-18, 17:31:25](https://news.ycombinator.com/item?id=44311776) - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
 * [2025-06-18, 17:19:31](https://news.ycombinator.com/item?id=44311682) - [Game Hacking – Valve Anti-Cheat (VAC)](https://codeneverdies.github.io/posts/gh-2/)
 * [2025-06-18, 17:00:36](https://news.ycombinator.com/item?id=44311538) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
+* [2025-06-18, 16:56:18](https://news.ycombinator.com/item?id=44311509) - [Andrej Karpathy's YC AI SUS talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)
 * [2025-06-18, 16:40:03](https://news.ycombinator.com/item?id=44311363) - [The Great Decoupling (Or Why Your Clicks Are Down and Impressions Up)](https://ahrefs.com/blog/the-great-decoupling/)
 * [2025-06-18, 16:26:35](https://news.ycombinator.com/item?id=44311241) - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 * [2025-06-18, 16:23:46](https://news.ycombinator.com/item?id=44311217) - [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices)
+* [2025-06-18, 15:49:53](https://news.ycombinator.com/item?id=44310944) - [My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server](https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/)
 * [2025-06-18, 15:40:12](https://news.ycombinator.com/item?id=44310851) - [Revisiting Minsky's Society of Mind in 2025](https://suthakamal.substack.com/p/revisiting-minskys-society-of-mind)
 * [2025-06-18, 15:38:15](https://news.ycombinator.com/item?id=44310834) - [This AI Agent Should Have Been a SQL Query](https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/)
 * [2025-06-18, 15:20:05](https://news.ycombinator.com/item?id=44310678) - [Show HN: I built a tensor library from scratch in C++/CUDA](https://github.com/nirw4nna/dsc)
@@ -18,6 +21,7 @@
 * [2025-06-18, 13:52:15](https://news.ycombinator.com/item?id=44309891) - [Show HN: Trieve CLI – Terminal-based LLM agent loop with search tool for PDFs](https://github.com/devflowinc/trieve/tree/main/clients/cli)
 * [2025-06-18, 13:04:59](https://news.ycombinator.com/item?id=44309550) - [Why China is giving away its tech for free](https://www.economist.com/business/2025/06/17/why-china-is-giving-away-its-tech-for-free)
 * [2025-06-18, 12:59:58](https://news.ycombinator.com/item?id=44309520) - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
+* [2025-06-18, 12:42:51](https://news.ycombinator.com/item?id=44309393) - [Show HN: Free local security checks for AI coding in VSCode, Cursor and Windsurf](https://news.ycombinator.com/item?id=44309393)
 * [2025-06-18, 12:36:47](https://news.ycombinator.com/item?id=44309345) - [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
 * [2025-06-18, 12:33:49](https://news.ycombinator.com/item?id=44309320) - [Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 * [2025-06-18, 12:00:50](https://news.ycombinator.com/item?id=44309110) - [Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
