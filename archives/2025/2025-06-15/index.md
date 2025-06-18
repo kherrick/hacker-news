@@ -9,6 +9,7 @@
 * [2025-06-15, 22:40:40](https://news.ycombinator.com/item?id=44285440) - [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
 * [2025-06-15, 22:37:12](https://news.ycombinator.com/item?id=44285426) - [Let's Talk About ChatGPT-Induced Spiritual Psychosis](https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual)
 * [2025-06-15, 22:29:34](https://news.ycombinator.com/item?id=44285392) - [KAIST Succeeds in Real-Time CO2 Monitoring Without Batteries or External Power](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450)
+* [2025-06-15, 21:33:34](https://news.ycombinator.com/item?id=44285120) - [Incant – add magic spells to your code](https://github.com/montyanderson/incant)
 * [2025-06-15, 21:21:28](https://news.ycombinator.com/item?id=44285054) - [David Attenborough at 99: 'I will not see how the story ends'](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
 * [2025-06-15, 20:50:03](https://news.ycombinator.com/item?id=44284877) - [How Frogger 2’s source code was recovered from a destroyed tape [video]](https://www.youtube.com/watch?v=lvEO4IaEJlw)
 * [2025-06-15, 20:49:18](https://news.ycombinator.com/item?id=44284871) - [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
