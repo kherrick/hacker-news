@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-18, 17:31:25](https://news.ycombinator.com/item?id=44311776) - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
-* [2025-06-18, 17:19:31](https://news.ycombinator.com/item?id=44311682) - [Game Hacking – Valve Anti-Cheat (VAC)](https://codeneverdies.github.io/posts/gh-2/)
 * [2025-06-18, 17:00:36](https://news.ycombinator.com/item?id=44311538) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
 * [2025-06-18, 16:56:18](https://news.ycombinator.com/item?id=44311509) - [Andrej Karpathy's YC AI SUS talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)
 * [2025-06-18, 16:26:35](https://news.ycombinator.com/item?id=44311241) - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
@@ -21,6 +20,7 @@
 * [2025-06-18, 06:53:34](https://news.ycombinator.com/item?id=44307290) - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
 * [2025-06-18, 05:16:12](https://news.ycombinator.com/item?id=44306859) - [Scrappy - make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 * [2025-06-18, 04:58:53](https://news.ycombinator.com/item?id=44306792) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
+* [2025-06-18, 02:07:19](https://news.ycombinator.com/item?id=44306041) - [Show HN: Lstr – A modern, interactive tree command written in Rust](https://github.com/bgreenwell/lstr)
 * [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
 * [2025-06-17, 19:39:26](https://news.ycombinator.com/item?id=44303021) - [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
 * [2025-06-17, 07:25:23](https://news.ycombinator.com/item?id=44296523) - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
