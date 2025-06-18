@@ -23,7 +23,7 @@
 * [2025-06-17, 14:58:14](https://news.ycombinator.com/item?id=44300064) - [Timescale Is Now TigerData](https://www.tigerdata.com/blog/timescale-becomes-tigerdata)
 * [2025-06-17, 14:51:40](https://news.ycombinator.com/item?id=44299979) - [Now might be the best time to learn software development](https://substack.com/home/post/p-165655726)
 * [2025-06-17, 14:51:10](https://news.ycombinator.com/item?id=44299970) - [Why JPEGs still rule the web (2024)](https://spectrum.ieee.org/jpeg-image-format-history)
-* [2025-06-16, 00:36:56](https://news.ycombinator.com/item?id=44285875) - [Preparation of a neutral nitrogen allotrope hexanitrogen C2h-N6 – Nature](https://www.nature.com/articles/s41586-025-09032-9)
+* [2025-06-16, 00:36:56](https://news.ycombinator.com/item?id=44285875) - [Preparation of a neutral nitrogen allotrope hexanitrogen C2h-N6](https://www.nature.com/articles/s41586-025-09032-9)
 * [2025-06-15, 22:45:53](https://news.ycombinator.com/item?id=44285457) - [Strangers in the Middle of a City: The John and Jane Does of L.A. Medical Center](https://www.latimes.com/science/story/2025-06-15/l-a-seeks-help-for-a-patient-with-no-name)
 * [2025-06-15, 15:54:54](https://news.ycombinator.com/item?id=44282953) - [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
 * [2025-06-15, 08:28:18](https://news.ycombinator.com/item?id=44281238) - [I Wrote a Compiler](https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/)
