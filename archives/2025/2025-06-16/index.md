@@ -54,6 +54,7 @@
 * [2025-06-16, 08:12:42](https://news.ycombinator.com/item?id=44287566) - [Show HN: Gifty – A real-world gift hunt you play with your feet](https://gifty-en.vercel.app/)
 * [2025-06-16, 08:09:09](https://news.ycombinator.com/item?id=44287545) - [Use Copilot Agent Mode in Visual Studio (Preview)](https://learn.microsoft.com/en-us/visualstudio/ide/copilot-agent-mode?view=vs-2022)
 * [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
+* [2025-06-16, 07:02:40](https://news.ycombinator.com/item?id=44287248) - [Getting Started Strudel](https://strudel.cc/workshop/getting-started/)
 * [2025-06-16, 06:14:56](https://news.ycombinator.com/item?id=44287043) - [Open-source 3B param model better than Mistral OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
 * [2025-06-16, 06:10:22](https://news.ycombinator.com/item?id=44287019) - [USDA Pomological Watercolors](https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST:MAIN&collectionId=81279629860007426)
 * [2025-06-16, 05:03:58](https://news.ycombinator.com/item?id=44286748) - [Nesdev.org](https://www.nesdev.org/)
