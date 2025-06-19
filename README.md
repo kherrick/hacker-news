@@ -7,7 +7,7 @@
 * [2025-06-19, 17:03:33](https://news.ycombinator.com/item?id=44320497) - [Why do we need DNSSEC?](https://howdnssec.works/why-do-we-need-dnssec/)
 * [2025-06-19, 17:00:39](https://news.ycombinator.com/item?id=44320460) - [Flowspace (YC S17) Is Hiring Software Engineers](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II)
 * [2025-06-19, 16:22:31](https://news.ycombinator.com/item?id=44320099) - [June 2025 C2PA News](https://www.tbray.org/ongoing/When/202x/2025/06/17/More-C2PA)
-* [2025-06-19, 16:11:46](https://news.ycombinator.com/item?id=44320001) - [How OpenElections Uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
+* [2025-06-19, 16:11:46](https://news.ycombinator.com/item?id=44320001) - [How OpenElections uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
 * [2025-06-19, 15:27:44](https://news.ycombinator.com/item?id=44319585) - [Geochronology supports LGM age for human tracks at White Sands, New Mexico](https://www.science.org/doi/10.1126/sciadv.adv4951)
 * [2025-06-19, 14:42:03](https://news.ycombinator.com/item?id=44319144) - [Posit floating point numbers: thin triangles and other tricks (2019)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
 * [2025-06-19, 14:13:15](https://news.ycombinator.com/item?id=44318874) - [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
