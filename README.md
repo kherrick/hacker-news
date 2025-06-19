@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-19, 20:15:15](https://news.ycombinator.com/item?id=44322153) - [Estrogen: A Trip Report](https://smoothbrains.net/posts/2025-06-15-estrogen.html)
 * [2025-06-19, 19:20:54](https://news.ycombinator.com/item?id=44321672) - [Compiling LLMs into a MegaKernel: A Path to Low-Latency Inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
 * [2025-06-19, 17:41:59](https://news.ycombinator.com/item?id=44320851) - [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/)
 * [2025-06-19, 17:32:21](https://news.ycombinator.com/item?id=44320772) - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
@@ -27,7 +28,6 @@
 * [2025-06-17, 11:15:25](https://news.ycombinator.com/item?id=44297761) - [We Can Just Measure Things](https://lucumr.pocoo.org/2025/6/17/measuring/)
 * [2025-06-17, 10:57:09](https://news.ycombinator.com/item?id=44297656) - [Testing a Robust Netcode with Godot](https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html)
 * [2025-06-16, 17:45:49](https://news.ycombinator.com/item?id=44291681) - [Show HN: TrendFi – I built AI trading signals that self-optimize](https://trend.fi)
-* [2025-06-16, 09:38:00](https://news.ycombinator.com/item?id=44287926) - [Researchers are now vacuuming DNA from the air](https://www.sciencedaily.com/releases/2025/06/250603114822.htm)
 * [2025-06-16, 07:02:40](https://news.ycombinator.com/item?id=44287248) - [Getting Started Strudel](https://strudel.cc/workshop/getting-started/)
 * [2025-06-15, 20:55:25](https://news.ycombinator.com/item?id=44284908) - [Munich from a Hamburger's perspective](https://mertbulan.com/2025/06/14/munich-from-a-hamburgers-perspective/)
 
