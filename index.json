@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-19, 08:41:34",
-      "https://news.ycombinator.com/item?id=44316665"
-    ],
-    [
-      "Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone",
-      "https://linmob.net/liberux-nexx-an-interview-with-liberux/"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 04:49:32",
       "https://news.ycombinator.com/item?id=44315529"
     ],
@@ -207,6 +197,16 @@
     [
       "Revisiting Minsky's Society of Mind in 2025",
       "https://suthakamal.substack.com/p/revisiting-minskys-society-of-mind"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 15:20:05",
+      "https://news.ycombinator.com/item?id=44310678"
+    ],
+    [
+      "Show HN: I built a tensor library from scratch in C++/CUDA",
+      "https://github.com/nirw4nna/dsc"
     ]
   ],
   [
