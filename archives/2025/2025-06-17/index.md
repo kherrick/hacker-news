@@ -62,6 +62,7 @@
 * [2025-06-17, 12:00:38](https://news.ycombinator.com/item?id=44298066) - [AI threatens to raid the water reserves of Europe's driest regions](https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/)
 * [2025-06-17, 11:35:24](https://news.ycombinator.com/item?id=44297882) - [Insanity: Locked Out – The Andrew Bailey](https://theandrewbailey.com/article/203/Insanity-Locked-Out.html)
 * [2025-06-17, 11:15:25](https://news.ycombinator.com/item?id=44297761) - [We Can Just Measure Things](https://lucumr.pocoo.org/2025/6/17/measuring/)
+* [2025-06-17, 10:57:09](https://news.ycombinator.com/item?id=44297656) - [Testing a Robust Netcode with Godot](https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html)
 * [2025-06-17, 10:56:26](https://news.ycombinator.com/item?id=44297652) - [\"Microsoft Locked My Account – I Lost 30 Years of Photos and Work\"](https://old.reddit.com/r/pcmasterrace/comments/1ldef4p/microsoft_locked_my_account_i_lost_30_years_of/)
 * [2025-06-17, 10:10:25](https://news.ycombinator.com/item?id=44297437) - [Threat in Your Medicine Cabinet: The FDA's Gamble on America's Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
 * [2025-06-17, 10:09:22](https://news.ycombinator.com/item?id=44297431) - [No Hello](https://nohello.net/en/)
