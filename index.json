@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-19, 13:38:57",
+      "https://news.ycombinator.com/item?id=44318588"
+    ],
+    [
+      "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
+      "https://github.com/krustowski/rou2exOS"
+    ]
+  ],
+  [
+    [
       "2025-06-19, 09:46:43",
       "https://news.ycombinator.com/item?id=44317012"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2025-06-18, 22:40:32",
-      "https://news.ycombinator.com/item?id=44313901"
-    ],
-    [
-      "Fang, the CLI Starter Kit",
-      "https://github.com/charmbracelet/fang"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 21:45:46",
       "https://news.ycombinator.com/item?id=44313550"
     ],
@@ -157,16 +157,6 @@
     [
       "PWM flicker: Invisible light that's harming our health?",
       "https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 17:19:31",
-      "https://news.ycombinator.com/item?id=44311682"
-    ],
-    [
-      "Game Hacking – Valve Anti-Cheat (VAC)",
-      "https://codeneverdies.github.io/posts/gh-2/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "A Visual Guide to Genome Editors",
       "https://www.asimov.press/p/a-visual-guide-to-genome-editors"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 12:03:01",
+      "https://news.ycombinator.com/item?id=44298087"
+    ],
+    [
+      "Finding Dead Websites",
+      "https://www.marginalia.nu/log/a_122_dead_websites/"
     ]
   ],
   [
