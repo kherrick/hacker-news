@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 23:59:47](https://news.ycombinator.com/item?id=44314289) - [MCP Specification – version 2025-06-18 changes](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
 * [2025-06-18, 23:19:17](https://news.ycombinator.com/item?id=44314093) - [Student Visa Applicants Must Set Social-Media Accts to \"Public\" State Dept Says](https://www.wsj.com/politics/policy/student-visa-applicants-must-set-social-media-accounts-to-public-state-department-says-ff71bdd5)
 * [2025-06-18, 23:17:10](https://news.ycombinator.com/item?id=44314085) - [Show HN: Unregistry – \"docker push\" directly to servers without a registry](https://github.com/psviderski/unregistry)
 * [2025-06-18, 23:11:03](https://news.ycombinator.com/item?id=44314054) - [New US visa rules will force foreign students to unlock social media profiles](https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening)
 * [2025-06-18, 22:40:32](https://news.ycombinator.com/item?id=44313901) - [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
 * [2025-06-18, 22:02:21](https://news.ycombinator.com/item?id=44313652) - [A deep-dive explainer on Ink and Switch's BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
+* [2025-06-18, 21:45:46](https://news.ycombinator.com/item?id=44313550) - [The Missing 11th of the Month](https://drhagen.com/blog/the-missing-11th-of-the-month/)
 * [2025-06-18, 21:21:26](https://news.ycombinator.com/item?id=44313379) - [Bento: A Steam Deck in a Keyboard](https://github.com/lunchbox-computer/bento)
+* [2025-06-18, 21:08:22](https://news.ycombinator.com/item?id=44313292) - [Calling Go from Elixir with a CNode in Crystal](https://relistan.com/calling-go-from-elixir-with-a-cnode)
 * [2025-06-18, 20:55:06](https://news.ycombinator.com/item?id=44313206) - [Websites Are Tracking You via Browser Fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
 * [2025-06-18, 17:32:00](https://news.ycombinator.com/item?id=44311781) - [The Invisible Light That's Harming Our Health](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)
 * [2025-06-18, 17:31:25](https://news.ycombinator.com/item?id=44311776) - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
