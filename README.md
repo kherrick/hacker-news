@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-19, 10:22:06](https://news.ycombinator.com/item?id=44317180) - [Guess I'm a Rationalist Now](https://scottaaronson.blog/?p=8908)
-* [2025-06-19, 09:54:32](https://news.ycombinator.com/item?id=44317041) - [A Deep Dive into OpenAPI](https://www.deployhq.com/blog/unlocking-seamless-development-and-collaboration-a-deep-dive-into-openapi)
 * [2025-06-19, 09:46:43](https://news.ycombinator.com/item?id=44317012) - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
 * [2025-06-19, 09:31:14](https://news.ycombinator.com/item?id=44316920) - [Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
 * [2025-06-19, 09:29:28](https://news.ycombinator.com/item?id=44316909) - [From LLM to AI Agent: What's the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
@@ -12,6 +10,7 @@
 * [2025-06-19, 00:33:21](https://news.ycombinator.com/item?id=44314423) - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * [2025-06-18, 23:59:47](https://news.ycombinator.com/item?id=44314289) - [MCP Specification – version 2025-06-18 changes](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
 * [2025-06-18, 23:17:10](https://news.ycombinator.com/item?id=44314085) - [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
+* [2025-06-18, 22:40:32](https://news.ycombinator.com/item?id=44313901) - [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
 * [2025-06-18, 21:45:46](https://news.ycombinator.com/item?id=44313550) - [The Missing 11th of the Month](https://drhagen.com/blog/the-missing-11th-of-the-month/)
 * [2025-06-18, 21:21:26](https://news.ycombinator.com/item?id=44313379) - [Bento: A Steam Deck in a Keyboard](https://github.com/lunchbox-computer/bento)
 * [2025-06-18, 20:55:06](https://news.ycombinator.com/item?id=44313206) - [Websites are tracking you via browser fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
@@ -22,6 +21,7 @@
 * [2025-06-18, 15:49:53](https://news.ycombinator.com/item?id=44310944) - [My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server](https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/)
 * [2025-06-18, 12:59:58](https://news.ycombinator.com/item?id=44309520) - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
 * [2025-06-18, 12:33:49](https://news.ycombinator.com/item?id=44309320) - [Show HN: Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
+* [2025-06-17, 19:52:17](https://news.ycombinator.com/item?id=44303194) - [Painting with Math: A Gentle Study of Raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
 * [2025-06-17, 15:49:10](https://news.ycombinator.com/item?id=44300554) - [CPU-Based Layout Design for Picker-to-Parts Pallet Warehouses](https://arxiv.org/abs/2506.04266)
 * [2025-06-17, 13:51:20](https://news.ycombinator.com/item?id=44299233) - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
 * [2025-06-17, 02:53:55](https://news.ycombinator.com/item?id=44295333) - [Law as Rhetoric, Rhetoric as Law: The Arts of Cultural and Communal Life (1985) [pdf]](https://www.lwionline.org/sites/default/files/2016-09/v5%20White.pdf)
