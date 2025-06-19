@@ -34,6 +34,7 @@
 * [2025-06-17, 17:12:30](https://news.ycombinator.com/item?id=44301373) - [Guidelines on how to be a scientific sleuth released](https://osf.io/2kdez/wiki/home/)
 * [2025-06-17, 17:00:25](https://news.ycombinator.com/item?id=44301246) - [Celebrated pianist and writer Alfred Brendel dies aged 94](https://www.theguardian.com/music/2025/jun/17/celebrated-pianist-and-writer-alfred-brendel-dies-aged-94)
 * [2025-06-17, 16:54:44](https://news.ycombinator.com/item?id=44301186) - [Miscalculation by Spanish power grid operator REE contributed to blackout](https://www.reuters.com/business/energy/investigation-into-spains-april-28-blackout-shows-no-evidence-cyberattack-2025-06-17/)
+* [2025-06-17, 16:20:59](https://news.ycombinator.com/item?id=44300854) - [Show HN: RM2000 Tape Recorder, an audio sampler for macOS](https://rm2000.app)
 * [2025-06-17, 16:12:39](https://news.ycombinator.com/item?id=44300768) - [Western Oil: the US/UK-Backed Iranian Coup D'état of 1953](https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat)
 * [2025-06-17, 16:07:23](https://news.ycombinator.com/item?id=44300727) - [Tesla Robotaxi launch is a dangerous game of smoke and mirrors](https://electrek.co/2025/06/16/tesla-robotaxi-launch-dangerous-game-smoke-mirrors/)
 * [2025-06-17, 16:06:05](https://news.ycombinator.com/item?id=44300717) - [We're expanding our Gemini 2.5 family of models](https://blog.google/products/gemini/gemini-2-5-model-family-expands/)
