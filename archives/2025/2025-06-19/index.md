@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 10:22:06](https://news.ycombinator.com/item?id=44317180) - [Guess I'm a Rationalist Now](https://scottaaronson.blog/?p=8908)
+* [2025-06-19, 09:54:32](https://news.ycombinator.com/item?id=44317041) - [A Deep Dive into OpenAPI](https://www.deployhq.com/blog/unlocking-seamless-development-and-collaboration-a-deep-dive-into-openapi)
 * [2025-06-19, 09:46:43](https://news.ycombinator.com/item?id=44317012) - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
 * [2025-06-19, 09:31:14](https://news.ycombinator.com/item?id=44316920) - [Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
 * [2025-06-19, 09:29:28](https://news.ycombinator.com/item?id=44316909) - [From LLM to AI Agent: What's the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
