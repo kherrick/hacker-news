@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-19, 17:41:59",
+      "https://news.ycombinator.com/item?id=44320851"
+    ],
+    [
+      "Juneteenth in Photos",
+      "https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 17:36:41",
+      "https://news.ycombinator.com/item?id=44320806"
+    ],
+    [
+      "In Praise of \"Normal\" Engineers",
+      "https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/"
+    ]
+  ],
+  [
+    [
       "2025-06-19, 17:32:21",
       "https://news.ycombinator.com/item?id=44320772"
     ],
@@ -17,6 +37,16 @@
     [
       "Homegrown Closures for Uxn",
       "https://krzysckh.org/b/Homegrown-closures-for-uxn.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 17:03:33",
+      "https://news.ycombinator.com/item?id=44320497"
+    ],
+    [
+      "Why do we need DNSSEC?",
+      "https://howdnssec.works/why-do-we-need-dnssec/"
     ]
   ],
   [
@@ -91,12 +121,32 @@
   ],
   [
     [
+      "2025-06-19, 13:14:32",
+      "https://news.ycombinator.com/item?id=44318420"
+    ],
+    [
+      "End of 10: Upgrade your old Windows 10 computer to Linux",
+      "https://endof10.org/"
+    ]
+  ],
+  [
+    [
       "2025-06-19, 13:01:16",
       "https://news.ycombinator.com/item?id=44318305"
     ],
     [
       "The Scheme That Broke the Texas Lottery",
       "https://www.newyorker.com/news/letter-from-the-southwest/the-scheme-that-broke-the-texas-lottery"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 12:00:54",
+      "https://news.ycombinator.com/item?id=44317825"
+    ],
+    [
+      "What would a Kubernetes 2.0 look like",
+      "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2025-06-19, 02:42:15",
-      "https://news.ycombinator.com/item?id=44314977"
-    ],
-    [
-      "The Zed Debugger Is Here",
-      "https://zed.dev/blog/debugger"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 00:33:21",
       "https://news.ycombinator.com/item?id=44314423"
     ],
@@ -171,36 +211,6 @@
   ],
   [
     [
-      "2025-06-18, 21:45:46",
-      "https://news.ycombinator.com/item?id=44313550"
-    ],
-    [
-      "The Missing 11th of the Month (2015)",
-      "https://drhagen.com/blog/the-missing-11th-of-the-month/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 21:21:26",
-      "https://news.ycombinator.com/item?id=44313379"
-    ],
-    [
-      "Bento: A Steam Deck in a Keyboard",
-      "https://github.com/lunchbox-computer/bento"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 16:26:35",
-      "https://news.ycombinator.com/item?id=44311241"
-    ],
-    [
-      "The unreasonable effectiveness of fuzzing for porting programs",
-      "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 15:49:53",
       "https://news.ycombinator.com/item?id=44310944"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2025-06-18, 12:33:49",
-      "https://news.ycombinator.com/item?id=44309320"
+      "2025-06-17, 17:56:04",
+      "https://news.ycombinator.com/item?id=44301875"
     ],
     [
-      "Show HN: Workout.cool – Open-source fitness coaching platform",
-      "https://github.com/Snouzy/workout-cool"
+      "Public/protected/private is an unnecessary feature",
+      "https://catern.com/private.html"
     ]
   ],
   [
     [
-      "2025-06-17, 19:52:17",
-      "https://news.ycombinator.com/item?id=44303194"
+      "2025-06-17, 13:51:20",
+      "https://news.ycombinator.com/item?id=44299233"
     ],
     [
-      "Painting with Math: A Gentle Study of Raymarching (2023)",
-      "https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 13:03:48",
-      "https://news.ycombinator.com/item?id=44298673"
-    ],
-    [
-      "A Visual Guide to Genome Editors",
-      "https://www.asimov.press/p/a-visual-guide-to-genome-editors"
+      "Visual History of the Latin Alphabet",
+      "https://uclab.fh-potsdam.de/arete/en"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-06-16, 13:23:05",
-      "https://news.ycombinator.com/item?id=44289276"
-    ],
-    [
-      "3D printable 6\" f/5 compact travel telescope model",
-      "https://www.printables.com/model/1325533-smallest-telescope-kit-for-150750"
-    ]
-  ],
-  [
-    [
       "2025-06-16, 09:38:00",
       "https://news.ycombinator.com/item?id=44287926"
     ],
@@ -297,6 +287,16 @@
     [
       "Getting Started Strudel",
       "https://strudel.cc/workshop/getting-started/"
+    ]
+  ],
+  [
+    [
+      "2025-06-15, 20:55:25",
+      "https://news.ycombinator.com/item?id=44284908"
+    ],
+    [
+      "Munich from a Hamburger's perspective",
+      "https://mertbulan.com/2025/06/14/munich-from-a-hamburgers-perspective/"
     ]
   ]
 ]
