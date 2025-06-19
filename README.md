@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-19, 15:27:44](https://news.ycombinator.com/item?id=44319585) - [Geochronology supports LGM age for human tracks at White Sands, New Mexico](https://www.science.org/doi/10.1126/sciadv.adv4951)
 * [2025-06-19, 14:42:03](https://news.ycombinator.com/item?id=44319144) - [Posit floating point numbers: thin triangles and other tricks (2019)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
 * [2025-06-19, 14:13:15](https://news.ycombinator.com/item?id=44318874) - [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
 * [2025-06-19, 13:38:57](https://news.ycombinator.com/item?id=44318588) - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
@@ -24,7 +25,6 @@
 * [2025-06-18, 15:43:01](https://news.ycombinator.com/item?id=44310877) - [Show HN: I made an app that lets you save audio to your Cameral Roll](https://justsendrecord.com)
 * [2025-06-18, 12:33:49](https://news.ycombinator.com/item?id=44309320) - [Show HN: Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 * [2025-06-17, 19:52:17](https://news.ycombinator.com/item?id=44303194) - [Painting with Math: A Gentle Study of Raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
-* [2025-06-17, 15:49:10](https://news.ycombinator.com/item?id=44300554) - [CPU-Based Layout Design for Picker-to-Parts Pallet Warehouses](https://arxiv.org/abs/2506.04266)
 * [2025-06-17, 13:03:48](https://news.ycombinator.com/item?id=44298673) - [A Visual Guide to Genome Editors](https://www.asimov.press/p/a-visual-guide-to-genome-editors)
 * [2025-06-17, 12:03:01](https://news.ycombinator.com/item?id=44298087) - [Finding Dead Websites](https://www.marginalia.nu/log/a_122_dead_websites/)
 * [2025-06-16, 13:23:05](https://news.ycombinator.com/item?id=44289276) - [3D printable 6\" f/5 compact travel telescope model](https://www.printables.com/model/1325533-smallest-telescope-kit-for-150750)
