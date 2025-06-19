@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 17:41:59](https://news.ycombinator.com/item?id=44320851) - [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/)
+* [2025-06-19, 17:36:41](https://news.ycombinator.com/item?id=44320806) - [In Praise of \"Normal\" Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
 * [2025-06-19, 17:32:21](https://news.ycombinator.com/item?id=44320772) - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
 * [2025-06-19, 17:29:35](https://news.ycombinator.com/item?id=44320747) - [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
+* [2025-06-19, 17:03:33](https://news.ycombinator.com/item?id=44320497) - [Why do we need DNSSEC?](https://howdnssec.works/why-do-we-need-dnssec/)
 * [2025-06-19, 17:00:39](https://news.ycombinator.com/item?id=44320460) - [Flowspace (YC S17) Is Hiring Software Engineers](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II)
 * [2025-06-19, 16:22:31](https://news.ycombinator.com/item?id=44320099) - [June 2025 C2PA News](https://www.tbray.org/ongoing/When/202x/2025/06/17/More-C2PA)
 * [2025-06-19, 16:11:46](https://news.ycombinator.com/item?id=44320001) - [How OpenElections Uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
