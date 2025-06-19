@@ -51,6 +51,7 @@
 * [2025-06-17, 13:11:33](https://news.ycombinator.com/item?id=44298771) - [Are AI Bots Knocking Cultural Heritage Offline?](https://www.glamelab.org/products/are-ai-bots-knocking-cultural-heritage-offline/)
 * [2025-06-17, 13:08:01](https://news.ycombinator.com/item?id=44298724) - [Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone](https://arxiv.org/abs/2506.02774)
 * [2025-06-17, 13:04:22](https://news.ycombinator.com/item?id=44298681) - [Toxic Proteins for Drug Discovery](https://www.asimov.press/p/toxic-proteins)
+* [2025-06-17, 13:03:48](https://news.ycombinator.com/item?id=44298673) - [A Visual Guide to Genome Editors](https://www.asimov.press/p/a-visual-guide-to-genome-editors)
 * [2025-06-17, 13:02:54](https://news.ycombinator.com/item?id=44298656) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-17, 12:34:22](https://news.ycombinator.com/item?id=44298369) - [Linux kernel WireGuard can go 'fast' on decent hardware](https://utcc.utoronto.ca/~cks/space/blog/linux/WireGuardCanGoFast)
 * [2025-06-17, 12:29:51](https://news.ycombinator.com/item?id=44298327) - [Hack the Planet: 90s Hacker Culture vs. Today's AI Devs](https://gizvault.com/archives/hack-the-planet)
