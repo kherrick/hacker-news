@@ -27,6 +27,7 @@
 * [2025-06-17, 17:56:04](https://news.ycombinator.com/item?id=44301875) - [Public/protected/private is an unnecessary feature](https://catern.com/private.html)
 * [2025-06-17, 17:50:05](https://news.ycombinator.com/item?id=44301809) - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
 * [2025-06-17, 17:48:53](https://news.ycombinator.com/item?id=44301794) - [Threads is adding Fediverse content to social feeds](https://www.theverge.com/news/688267/threads-fediverse-feed-search)
+* [2025-06-17, 17:46:40](https://news.ycombinator.com/item?id=44301765) - [Star Quakes and Monster Shock Waves](https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves)
 * [2025-06-17, 17:40:19](https://news.ycombinator.com/item?id=44301686) - [Resurrecting a dead torrent tracker and finding 3M peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
 * [2025-06-17, 17:38:02](https://news.ycombinator.com/item?id=44301660) - [AMD's CDNA 4 Architecture Announcement – By Chester Lam](https://chipsandcheese.com/p/amds-cdna-4-architecture-announcement)
 * [2025-06-17, 17:25:42](https://news.ycombinator.com/item?id=44301501) - [ICE arrests NYC Comptroller because he asked to see a warrant](https://www.thecity.nyc/2025/06/17/brad-lander-arrest-ice-immigration-court/)
