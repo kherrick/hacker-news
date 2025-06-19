@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-06-18, 23:19:17",
-      "https://news.ycombinator.com/item?id=44314093"
+      "2025-06-19, 00:33:21",
+      "https://news.ycombinator.com/item?id=44314423"
     ],
     [
-      "Student Visa Applicants Must Set Social-Media Accts to \"Public\" State Dept Says",
-      "https://www.wsj.com/politics/policy/student-visa-applicants-must-set-social-media-accounts-to-public-state-department-says-ff71bdd5"
+      "Andrej Karpathy: Software in the era of AI [video]",
+      "https://www.youtube.com/watch?v=LCEmiRjPEtQ"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 00:19:58",
+      "https://news.ycombinator.com/item?id=44314372"
+    ],
+    [
+      "It's true, \"we\" don't care about accessibility on Linux",
+      "https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 23:59:47",
+      "https://news.ycombinator.com/item?id=44314289"
+    ],
+    [
+      "MCP Specification – version 2025-06-18 changes",
+      "https://modelcontextprotocol.io/specification/2025-06-18/changelog"
     ]
   ],
   [
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=44314085"
     ],
     [
-      "Show HN: Unregistry – \"docker push\" directly to servers without a registry",
+      "Show HN: Unregistry – “docker push” directly to servers without a registry",
       "https://github.com/psviderski/unregistry"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 23:11:03",
-      "https://news.ycombinator.com/item?id=44314054"
-    ],
-    [
-      "New US visa rules will force foreign students to unlock social media profiles",
-      "https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening"
     ]
   ],
   [
@@ -51,12 +61,32 @@
   ],
   [
     [
+      "2025-06-18, 21:45:46",
+      "https://news.ycombinator.com/item?id=44313550"
+    ],
+    [
+      "The Missing 11th of the Month",
+      "https://drhagen.com/blog/the-missing-11th-of-the-month/"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 21:21:26",
       "https://news.ycombinator.com/item?id=44313379"
     ],
     [
       "Bento: A Steam Deck in a Keyboard",
       "https://github.com/lunchbox-computer/bento"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 21:08:22",
+      "https://news.ycombinator.com/item?id=44313292"
+    ],
+    [
+      "Calling Go from Elixir with a CNode in Crystal",
+      "https://relistan.com/calling-go-from-elixir-with-a-cnode"
     ]
   ],
   [
@@ -201,52 +231,12 @@
   ],
   [
     [
-      "2025-06-18, 07:58:18",
-      "https://news.ycombinator.com/item?id=44307629"
+      "2025-06-17, 19:39:26",
+      "https://news.ycombinator.com/item?id=44303021"
     ],
     [
-      "I counted all of the yurts in Mongolia using machine learning",
-      "https://monroeclinton.com/counting-all-yurts-in-mongolia/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 06:53:34",
-      "https://news.ycombinator.com/item?id=44307290"
-    ],
-    [
-      "MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model",
-      "https://github.com/MiniMax-AI/MiniMax-M1"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 05:16:12",
-      "https://news.ycombinator.com/item?id=44306859"
-    ],
-    [
-      "Scrappy – Make little apps for you and your friends",
-      "https://pontus.granstrom.me/scrappy/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 04:58:53",
-      "https://news.ycombinator.com/item?id=44306792"
-    ],
-    [
-      "Locally hosting an internet-connected server",
-      "https://mjg59.dreamwidth.org/72095.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 15:03:02",
-      "https://news.ycombinator.com/item?id=44300111"
-    ],
-    [
-      "Icons of Aviation History: Boeing X-29",
-      "https://lflank.wordpress.com/2025/06/17/icons-of-aviation-history-boeing-x-29/"
+      "Real-time action chunking with large models",
+      "https://www.pi.website/research/real_time_chunking"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-06-16, 10:25:22",
+      "https://news.ycombinator.com/item?id=44288154"
+    ],
+    [
+      "Citizen science illuminates the nature of city lights",
+      "https://www.nature.com/articles/s44284-025-00239-5"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 09:48:30",
       "https://news.ycombinator.com/item?id=44287964"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-06-15, 11:25:57",
-      "https://news.ycombinator.com/item?id=44281756"
+      "2025-06-16, 06:10:22",
+      "https://news.ycombinator.com/item?id=44287019"
     ],
     [
-      "A different take on S-expressions",
-      "https://gist.github.com/tearflake/569db7fdc8b363b7d320ebfeef8ab503"
+      "USDA Pomological Watercolors",
+      "https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST:MAIN&collectionId=81279629860007426"
     ]
   ],
   [
