@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 13:38:57](https://news.ycombinator.com/item?id=44318588) - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
 * [2025-06-19, 11:43:58](https://news.ycombinator.com/item?id=44317709) - [Brain activity much lower when using AI chatbots, MIT boffins find](https://www.theregister.com/2025/06/18/is_ai_changing_our_brains/)
 * [2025-06-19, 11:37:30](https://news.ycombinator.com/item?id=44317663) - [How Close to Black Mirror Are We?](https://www.howclosetoblackmirror.com/)
 * [2025-06-19, 10:22:06](https://news.ycombinator.com/item?id=44317180) - [Guess I'm a Rationalist Now](https://scottaaronson.blog/?p=8908)
