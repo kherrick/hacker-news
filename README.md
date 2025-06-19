@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-19, 04:49:32](https://news.ycombinator.com/item?id=44315529) - [SpaceX Starship 36 Anomaly](https://twitter.com/NASASpaceflight/status/1935548909805601020)
-* [2025-06-19, 04:18:31](https://news.ycombinator.com/item?id=44315400) - [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
 * [2025-06-19, 04:02:27](https://news.ycombinator.com/item?id=44315321) - [Elliptic Curves as Art](https://elliptic-curves.art/)
 * [2025-06-19, 03:27:39](https://news.ycombinator.com/item?id=44315185) - [Dr. Demento Announces Retirement After 55-Year Radio Career](https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/)
 * [2025-06-19, 02:42:15](https://news.ycombinator.com/item?id=44314977) - [The Zed Debugger Is Here](https://zed.dev/blog/debugger)
@@ -17,7 +16,6 @@
 * [2025-06-18, 20:55:06](https://news.ycombinator.com/item?id=44313206) - [Websites are tracking you via browser fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
 * [2025-06-18, 17:31:25](https://news.ycombinator.com/item?id=44311776) - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
 * [2025-06-18, 17:19:31](https://news.ycombinator.com/item?id=44311682) - [Game Hacking – Valve Anti-Cheat (VAC)](https://codeneverdies.github.io/posts/gh-2/)
-* [2025-06-18, 17:00:36](https://news.ycombinator.com/item?id=44311538) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
 * [2025-06-18, 16:26:35](https://news.ycombinator.com/item?id=44311241) - [The unreasonable effectiveness of fuzzing for porting programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 * [2025-06-18, 16:23:46](https://news.ycombinator.com/item?id=44311217) - [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices)
 * [2025-06-18, 15:49:53](https://news.ycombinator.com/item?id=44310944) - [My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server](https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/)
@@ -27,8 +25,10 @@
 * [2025-06-18, 12:33:49](https://news.ycombinator.com/item?id=44309320) - [Show HN: Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 * [2025-06-17, 13:51:20](https://news.ycombinator.com/item?id=44299233) - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
 * [2025-06-17, 04:56:37](https://news.ycombinator.com/item?id=44295878) - [Polyhedra Viewer](https://polyhedra.tessera.li/)
+* [2025-06-16, 12:32:59](https://news.ycombinator.com/item?id=44288941) - [Show HN: VS Code extension to share code snippets instantly](https://snippetshare.dev)
 * [2025-06-16, 10:25:22](https://news.ycombinator.com/item?id=44288154) - [Citizen science illuminates the nature of city lights](https://www.nature.com/articles/s44284-025-00239-5)
 * [2025-06-16, 09:48:30](https://news.ycombinator.com/item?id=44287964) - [The Matrix (1999) Filming Locations – Shot-for-Shot – Sydney, Australia [video]](https://www.youtube.com/watch?v=UVf7rMqnwI0)
+* [2025-06-16, 06:10:22](https://news.ycombinator.com/item?id=44287019) - [USDA Pomological Watercolors](https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST:MAIN&collectionId=81279629860007426)
 * [2025-06-14, 23:38:56](https://news.ycombinator.com/item?id=44279569) - [Poline – An enigmatic color palette generator using polar coordinates](https://meodai.github.io/poline/)
 
 ## [Archives](archives/index.md)
