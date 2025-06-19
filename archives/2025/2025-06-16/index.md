@@ -16,6 +16,7 @@
 * [2025-06-16, 20:12:53](https://news.ycombinator.com/item?id=44292989) - [OpenAI and Microsoft Tensions Are Reaching a Boiling Point](https://www.wsj.com/tech/ai/openai-and-microsoft-tensions-are-reaching-a-boiling-point-4981c44f)
 * [2025-06-16, 19:28:38](https://news.ycombinator.com/item?id=44292652) - [Spherical CNNs (2018)](https://arxiv.org/abs/1801.10130)
 * [2025-06-16, 19:19:57](https://news.ycombinator.com/item?id=44292601) - [Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://arxiv.org/abs/2506.01963)
+* [2025-06-16, 19:05:14](https://news.ycombinator.com/item?id=44292460) - [String Interpolation in C++ Using Glaze Stencil/Mustache](https://stephenberry.github.io/glaze/stencil-mustache/)
 * [2025-06-16, 18:51:33](https://news.ycombinator.com/item?id=44292342) - [Transparent peer review to be extended to all of Nature's research papers](https://www.nature.com/articles/d41586-025-01880-9)
 * [2025-06-16, 18:27:59](https://news.ycombinator.com/item?id=44292103) - [Show HN: Canine – A Heroku alternative built on Kubernetes](https://github.com/czhu12/canine)
 * [2025-06-16, 18:13:54](https://news.ycombinator.com/item?id=44291963) - [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/)
