@@ -46,6 +46,7 @@
 * [2025-06-17, 14:49:50](https://news.ycombinator.com/item?id=44299947) - [O3 Turns Pro](https://thezvi.substack.com/p/o3-turns-pro)
 * [2025-06-17, 14:47:26](https://news.ycombinator.com/item?id=44299930) - [What I Wish Someone Told Me When I Was Getting into ARIA](https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/)
 * [2025-06-17, 14:01:16](https://news.ycombinator.com/item?id=44299354) - [The Hamburger-Menu Icon Today: Is It Recognizable?](https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/)
+* [2025-06-17, 13:51:20](https://news.ycombinator.com/item?id=44299233) - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
 * [2025-06-17, 13:11:33](https://news.ycombinator.com/item?id=44298771) - [Are AI Bots Knocking Cultural Heritage Offline?](https://www.glamelab.org/products/are-ai-bots-knocking-cultural-heritage-offline/)
 * [2025-06-17, 13:08:01](https://news.ycombinator.com/item?id=44298724) - [Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone](https://arxiv.org/abs/2506.02774)
 * [2025-06-17, 13:02:54](https://news.ycombinator.com/item?id=44298656) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
