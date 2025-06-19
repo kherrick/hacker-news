@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-19, 08:41:34](https://news.ycombinator.com/item?id=44316665) - [Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone](https://linmob.net/liberux-nexx-an-interview-with-liberux/)
 * [2025-06-19, 04:49:32](https://news.ycombinator.com/item?id=44315529) - [SpaceX Starship 36 Anomaly](https://twitter.com/NASASpaceflight/status/1935548909805601020)
 * [2025-06-19, 04:02:27](https://news.ycombinator.com/item?id=44315321) - [Elliptic Curves as Art](https://elliptic-curves.art/)
 * [2025-06-19, 03:27:39](https://news.ycombinator.com/item?id=44315185) - [Dr. Demento Announces Retirement After 55-Year Radio Career](https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/)
@@ -28,7 +29,6 @@
 * [2025-06-16, 12:32:59](https://news.ycombinator.com/item?id=44288941) - [Show HN: VS Code extension to share code snippets instantly](https://snippetshare.dev)
 * [2025-06-16, 10:25:22](https://news.ycombinator.com/item?id=44288154) - [Citizen science illuminates the nature of city lights](https://www.nature.com/articles/s44284-025-00239-5)
 * [2025-06-16, 09:48:30](https://news.ycombinator.com/item?id=44287964) - [The Matrix (1999) Filming Locations – Shot-for-Shot – Sydney, Australia [video]](https://www.youtube.com/watch?v=UVf7rMqnwI0)
-* [2025-06-16, 08:12:42](https://news.ycombinator.com/item?id=44287566) - [Show HN: Gifty – A real-world gift hunt you play with your feet](https://gifty-en.vercel.app/)
 * [2025-06-14, 23:38:56](https://news.ycombinator.com/item?id=44279569) - [Poline – An enigmatic color palette generator using polar coordinates](https://meodai.github.io/poline/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 08:41:34](https://news.ycombinator.com/item?id=44316665) - [Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone](https://linmob.net/liberux-nexx-an-interview-with-liberux/)
 * [2025-06-19, 04:49:32](https://news.ycombinator.com/item?id=44315529) - [SpaceX Starship 36 Anomaly](https://twitter.com/NASASpaceflight/status/1935548909805601020)
 * [2025-06-19, 04:20:52](https://news.ycombinator.com/item?id=44315409) - [Death to WYSIWYG!](https://ratfactor.com/htmlwarden/death-to-wysiwyg)
 * [2025-06-19, 04:18:31](https://news.ycombinator.com/item?id=44315400) - [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
