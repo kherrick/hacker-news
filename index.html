@@ -129,6 +129,87 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44314093">
+          <h3>
+            <a
+              class="item"
+              href="https://www.wsj.com/politics/policy/student-visa-applicants-must-set-social-media-accounts-to-public-state-department-says-ff71bdd5"
+              >Student Visa Applicants Must Set Social-Media Accts to "Public"
+              State Dept Says</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-18 @ 23:19:17</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44314093"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44314085">
+          <h3>
+            <a class="item" href="https://github.com/psviderski/unregistry"
+              >Show HN: Unregistry – "docker push" directly to servers without a
+              registry</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-18 @ 23:17:10</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44314085"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                In certain cases, using a full-fledged external (or even local)
+                registry is annoying overhead. And if you think about it,
+                there's already a form of registry present on any of your
+                Docker-enabled hosts — the Docker's own image storage.
+              </p>
+              <p>
+                So I built Unregistry [1] that exposes Docker's (containerd)
+                image storage through a standard registry API. It adds a `docker
+                pussh` command that pushes images directly to remote Docker
+                daemons over SSH. It transfers only the missing layers, making
+                it fast and efficient.
+              </p>
+              <p></p>
+              <pre><code>  docker pussh myapp:latest user@server
+</code></pre>
+              Under the hood, it starts a temporary unregistry container on the
+              remote host, pushes to it through an SSH tunnel, and cleans up
+              when done.
+              <p>
+                I've built it as a byproduct while working on Uncloud [2], a
+                tool for deploying containers across a network of Docker hosts,
+                and figured it'd be useful as a standalone project.
+              </p>
+              <p>Would love to hear your thoughts and use cases!</p>
+              <p>
+                [1]:
+                <a href="https://github.com/psviderski/unregistry"
+                  >https://github.com/psviderski/unregistry</a
+                >
+              </p>
+              <p>
+                [2]:
+                <a href="https://github.com/psviderski/uncloud"
+                  >https://github.com/psviderski/uncloud</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="44314054">
           <h3>
             <a
@@ -142,11 +223,51 @@
             <h4>
               <span>2025-06-18 @ 23:11:03</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44314054"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 31</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44313901">
+          <h3>
+            <a class="item" href="https://github.com/charmbracelet/fang"
+              >Fang, the CLI Starter Kit</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-18 @ 22:40:32</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44313901"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44313652">
+          <h3>
+            <a
+              class="item"
+              href="https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/"
+              >A deep-dive explainer on Ink and Switch's BeeKEM protocol</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-18 @ 22:02:21</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44313652"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -161,7 +282,7 @@
             <h4>
               <span>2025-06-18 @ 21:21:26</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44313379"
                   >Comments</a
@@ -182,32 +303,11 @@
             <h4>
               <span>2025-06-18 @ 20:55:06</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44313206"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44311781">
-          <h3>
-            <a
-              class="item"
-              href="https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521"
-              >PWM flicker: Invisible light that's harming our health?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-18 @ 17:32:00</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44311781"
-                  >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -224,11 +324,11 @@
             <h4>
               <span>2025-06-18 @ 17:31:25</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44311776"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -243,11 +343,11 @@
             <h4>
               <span>2025-06-18 @ 17:19:31</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44311682"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -286,7 +386,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44311241"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -303,7 +403,7 @@
             <h4>
               <span>2025-06-18 @ 16:23:46</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44311217"
                   >Comments</a
@@ -325,7 +425,7 @@
             <h4>
               <span>2025-06-18 @ 15:49:53</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44310944"
                   >Comments</a
@@ -346,32 +446,11 @@
             <h4>
               <span>2025-06-18 @ 15:40:12</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44310851"
                   >Comments</a
                 ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44310834">
-          <h3>
-            <a
-              class="item"
-              href="https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/"
-              >Building agents using streaming SQL queries</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-18 @ 15:38:15</span
-              ><span class="points-container"
-                >Points: <span class="points">85</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44310834"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -445,87 +524,13 @@
             <h4>
               <span>2025-06-18 @ 15:09:34</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44310583"
                   >Comments</a
-                ><span class="descendants">: 250</span></span
+                ><span class="descendants">: 251</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44309891">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/devflowinc/trieve/tree/main/clients/cli"
-              >Show HN: Trieve CLI – Terminal-based LLM agent loop with search
-              tool for PDFs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-18 @ 13:52:15</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44309891"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I built a CLI for uploading documents and querying them with an
-                LLM agent that uses search tools rather than stuffing everything
-                into the context window. I recorded a demo using the CrossFit
-                2025 rulebook that shows how this approach compares to
-                traditional RAG and direct context injection[1].
-              </p>
-              <p>
-                The core insight is that LLMs running in loops with tool access
-                are unreasonably effective at this kind of knowledge retrieval
-                task[2]. Instead of hoping the right chunks make it into your
-                context, the agent can iteratively search, refine queries, and
-                reason about what it finds.
-              </p>
-              <p>The CLI handles the full workflow:</p>
-              <p>```bash</p>
-              <p>trieve upload ./document.pdf</p>
-              <p>trieve ask "What are the key findings?"</p>
-              <p>```</p>
-              <p>
-                You can customize the RAG behavior, check upload status, and the
-                responses stream back with expandable source references. I
-                really enjoy having this workflow available in the terminal and
-                I'm curious if others find this paradigm as compelling as I do.
-              </p>
-              <p>
-                Considering adding more commands and customization options if
-                there's interest. The tool is free for up to 1k document chunks.
-              </p>
-              <p>Source code is on GitHub[3] and available via npm[4].</p>
-              <p>Would love any feedback on the approach or CLI design!</p>
-              <p>
-                [1]:
-                <a href="https://www.youtube.com/watch?v=SAV-esDsRUk"
-                  >https://www.youtube.com/watch?v=SAV-esDsRUk</a
-                >
-                [2]:
-                <a href="https://news.ycombinator.com/item?id=43998472"
-                  >https://news.ycombinator.com/item?id=43998472</a
-                >
-                [3]:
-                <a
-                  href="https://github.com/devflowinc/trieve/blob/main/clients/cli/index.ts"
-                  >https://github.com/devflowinc/trieve/blob/main/clients/cli/i...</a
-                >
-                [4]:
-                <a href="https://www.npmjs.com/package/trieve-cli"
-                  >https://www.npmjs.com/package/trieve-cli</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="44309520">
@@ -540,7 +545,7 @@
             <h4>
               <span>2025-06-18 @ 12:59:58</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44309520"
                   >Comments</a
@@ -563,7 +568,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44309320"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
             <div class="text">
@@ -623,7 +628,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44308711"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -642,7 +647,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44308558"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -663,7 +668,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44307629"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -679,7 +684,7 @@
             <h4>
               <span>2025-06-18 @ 06:53:34</span
               ><span class="points-container"
-                >Points: <span class="points">319</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44307290"
                   >Comments</a
@@ -698,7 +703,7 @@
             <h4>
               <span>2025-06-18 @ 05:16:12</span
               ><span class="points-container"
-                >Points: <span class="points">410</span></span
+                >Points: <span class="points">411</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44306859"
                   >Comments</a
@@ -726,23 +731,23 @@
             </h4>
           </section>
         </section>
-        <section id="44303021">
+        <section id="44300111">
           <h3>
             <a
               class="item"
-              href="https://www.pi.website/research/real_time_chunking"
-              >Real-time action chunking with large models</a
+              href="https://lflank.wordpress.com/2025/06/17/icons-of-aviation-history-boeing-x-29/"
+              >Icons of Aviation History: Boeing X-29</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-06-17 @ 19:39:26</span
+              <span>2025-06-17 @ 15:03:02</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44303021"
+                ><a href="https://news.ycombinator.com/item?id=44300111"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -768,27 +773,6 @@
             </h4>
           </section>
         </section>
-        <section id="44290580">
-          <h3>
-            <a
-              class="item"
-              href="https://bytes.zone/posts/should-we-design-for-iffy-internet/"
-              >Should we design for iffy internet?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-16 @ 15:34:26</span
-              ><span class="points-container"
-                >Points: <span class="points">53</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44290580"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44288450">
           <h3>
             <a
@@ -802,11 +786,11 @@
             <h4>
               <span>2025-06-16 @ 11:10:04</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44288450"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -822,7 +806,7 @@
             <h4>
               <span>2025-06-16 @ 09:48:30</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44287964"
                   >Comments</a
@@ -843,7 +827,7 @@
             <h4>
               <span>2025-06-15 @ 11:25:57</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44281756"
                   >Comments</a
