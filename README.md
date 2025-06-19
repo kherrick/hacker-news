@@ -28,7 +28,7 @@
 * [2025-06-16, 12:32:59](https://news.ycombinator.com/item?id=44288941) - [Show HN: VS Code extension to share code snippets instantly](https://snippetshare.dev)
 * [2025-06-16, 10:25:22](https://news.ycombinator.com/item?id=44288154) - [Citizen science illuminates the nature of city lights](https://www.nature.com/articles/s44284-025-00239-5)
 * [2025-06-16, 09:48:30](https://news.ycombinator.com/item?id=44287964) - [The Matrix (1999) Filming Locations – Shot-for-Shot – Sydney, Australia [video]](https://www.youtube.com/watch?v=UVf7rMqnwI0)
-* [2025-06-16, 06:10:22](https://news.ycombinator.com/item?id=44287019) - [USDA Pomological Watercolors](https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST:MAIN&collectionId=81279629860007426)
+* [2025-06-16, 08:12:42](https://news.ycombinator.com/item?id=44287566) - [Show HN: Gifty – A real-world gift hunt you play with your feet](https://gifty-en.vercel.app/)
 * [2025-06-14, 23:38:56](https://news.ycombinator.com/item?id=44279569) - [Poline – An enigmatic color palette generator using polar coordinates](https://meodai.github.io/poline/)
 
 ## [Archives](archives/index.md)

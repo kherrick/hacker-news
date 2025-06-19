@@ -51,6 +51,7 @@
 * [2025-06-16, 09:58:01](https://news.ycombinator.com/item?id=44288000) - [Tesla blows past stopped school bus and hits kid-sized dummies in FSD tests](https://www.engadget.com/transportation/tesla-blows-past-stopped-school-bus-and-hits-kid-sized-dummies-in-full-self-driving-tests-183756251.html)
 * [2025-06-16, 09:48:30](https://news.ycombinator.com/item?id=44287964) - [The Matrix (1999) Filming Locations – Shot-for-Shot – Sydney, Australia [video]](https://www.youtube.com/watch?v=UVf7rMqnwI0)
 * [2025-06-16, 09:39:42](https://news.ycombinator.com/item?id=44287933) - [Trading Bot Keeps Strategies Alive in a 24/7 Market](https://news.ycombinator.com/item?id=44287933)
+* [2025-06-16, 08:12:42](https://news.ycombinator.com/item?id=44287566) - [Show HN: Gifty – A real-world gift hunt you play with your feet](https://gifty-en.vercel.app/)
 * [2025-06-16, 08:09:09](https://news.ycombinator.com/item?id=44287545) - [Use Copilot Agent Mode in Visual Studio (Preview)](https://learn.microsoft.com/en-us/visualstudio/ide/copilot-agent-mode?view=vs-2022)
 * [2025-06-16, 07:38:17](https://news.ycombinator.com/item?id=44287395) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 * [2025-06-16, 06:14:56](https://news.ycombinator.com/item?id=44287043) - [Open-source 3B param model better than Mistral OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
