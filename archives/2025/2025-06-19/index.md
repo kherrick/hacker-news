@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 17:00:39](https://news.ycombinator.com/item?id=44320460) - [Flowspace (YC S17) Is Hiring Software Engineers](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II)
 * [2025-06-19, 16:22:31](https://news.ycombinator.com/item?id=44320099) - [June 2025 C2PA News](https://www.tbray.org/ongoing/When/202x/2025/06/17/More-C2PA)
 * [2025-06-19, 16:11:46](https://news.ycombinator.com/item?id=44320001) - [How OpenElections Uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
 * [2025-06-19, 15:44:00](https://news.ycombinator.com/item?id=44319716) - [Google is using YouTube videos to train its AI video generator](https://www.cnbc.com/2025/06/19/google-youtube-ai-training-veo-3.html)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-19, 17:00:39](https://news.ycombinator.com/item?id=44320460) - [Flowspace (YC S17) Is Hiring Software Engineers](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II)
 * [2025-06-19, 16:22:31](https://news.ycombinator.com/item?id=44320099) - [June 2025 C2PA News](https://www.tbray.org/ongoing/When/202x/2025/06/17/More-C2PA)
 * [2025-06-19, 16:11:46](https://news.ycombinator.com/item?id=44320001) - [How OpenElections Uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
 * [2025-06-19, 15:44:00](https://news.ycombinator.com/item?id=44319716) - [Google is using YouTube videos to train its AI video generator](https://www.cnbc.com/2025/06/19/google-youtube-ai-training-veo-3.html)
@@ -11,7 +12,6 @@
 * [2025-06-19, 13:01:16](https://news.ycombinator.com/item?id=44318305) - [The Scheme That Broke the Texas Lottery](https://www.newyorker.com/news/letter-from-the-southwest/the-scheme-that-broke-the-texas-lottery)
 * [2025-06-19, 10:22:06](https://news.ycombinator.com/item?id=44317180) - [Guess I'm a Rationalist Now](https://scottaaronson.blog/?p=8908)
 * [2025-06-19, 09:46:43](https://news.ycombinator.com/item?id=44317012) - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
-* [2025-06-19, 09:31:14](https://news.ycombinator.com/item?id=44316920) - [Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
 * [2025-06-19, 09:29:28](https://news.ycombinator.com/item?id=44316909) - [From LLM to AI Agent: What's the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
 * [2025-06-19, 04:02:27](https://news.ycombinator.com/item?id=44315321) - [Elliptic Curves as Art](https://elliptic-curves.art/)
 * [2025-06-19, 02:42:15](https://news.ycombinator.com/item?id=44314977) - [The Zed Debugger Is Here](https://zed.dev/blog/debugger)
@@ -19,7 +19,7 @@
 * [2025-06-18, 23:17:10](https://news.ycombinator.com/item?id=44314085) - [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
 * [2025-06-18, 21:45:46](https://news.ycombinator.com/item?id=44313550) - [The Missing 11th of the Month (2015)](https://drhagen.com/blog/the-missing-11th-of-the-month/)
 * [2025-06-18, 21:21:26](https://news.ycombinator.com/item?id=44313379) - [Bento: A Steam Deck in a Keyboard](https://github.com/lunchbox-computer/bento)
-* [2025-06-18, 20:40:45](https://news.ycombinator.com/item?id=44313107) - [In-Memory C++ Leap in Blockchain Analysis](https://caudena.com/the-in-memory-c-leap-in-blockchain-analysis/)
+* [2025-06-18, 16:26:35](https://news.ycombinator.com/item?id=44311241) - [The unreasonable effectiveness of fuzzing for porting programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 * [2025-06-18, 15:49:53](https://news.ycombinator.com/item?id=44310944) - [My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server](https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/)
 * [2025-06-18, 12:33:49](https://news.ycombinator.com/item?id=44309320) - [Show HN: Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 * [2025-06-17, 19:52:17](https://news.ycombinator.com/item?id=44303194) - [Painting with Math: A Gentle Study of Raymarching (2023)](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
