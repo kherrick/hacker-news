@@ -26,7 +26,7 @@
 * [2025-06-17, 17:46:40](https://news.ycombinator.com/item?id=44301765) - [Star Quakes and Monster Shock Waves](https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves)
 * [2025-06-17, 16:20:59](https://news.ycombinator.com/item?id=44300854) - [Show HN: RM2000 Tape Recorder, an audio sampler for macOS](https://rm2000.app)
 * [2025-06-17, 13:51:20](https://news.ycombinator.com/item?id=44299233) - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
-* [2025-06-17, 07:50:00](https://news.ycombinator.com/item?id=44296659) - [A real fixed-point decimal crate in Rust](https://github.com/WuBingzheng/primitive_fixed_point_decimal)
+* [2025-06-17, 04:18:38](https://news.ycombinator.com/item?id=44295725) - [Virtual Cells](https://udara.io/science/virtual-cells/)
 * [2025-06-16, 17:41:27](https://news.ycombinator.com/item?id=44291642) - [Extracting memorized pieces of books from open-weight language models](https://arxiv.org/abs/2505.12546)
 * [2025-06-16, 11:33:45](https://news.ycombinator.com/item?id=44288595) - [Octobass](https://www.atlasobscura.com/places/octobass)
 * [2025-06-16, 09:38:00](https://news.ycombinator.com/item?id=44287926) - [DNA floating in the air tracks wildlife, viruses, even drugs](https://www.sciencedaily.com/releases/2025/06/250603114822.htm)
