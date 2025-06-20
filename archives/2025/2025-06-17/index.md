@@ -7,6 +7,7 @@
 * [2025-06-17, 23:56:32](https://news.ycombinator.com/item?id=44305271) - [Dinesh's Mid-Summer Death Valley Walk (1998)](https://dineshdesai.info/dv/photos.html)
 * [2025-06-17, 22:50:20](https://news.ycombinator.com/item?id=44304860) - [How to use Prometheus to efficiently detect anomalies at scale](https://grafana.com/blog/2024/10/03/how-to-use-prometheus-to-efficiently-detect-anomalies-at-scale/)
 * [2025-06-17, 22:24:18](https://news.ycombinator.com/item?id=44304634) - [He '70s Performance Artist Who Became a Hero to 'Garbage Men'](https://www.nytimes.com/2025/06/14/nyregion/maintenance-artist-mierle-laderman-ukeles.html)
+* [2025-06-17, 22:22:03](https://news.ycombinator.com/item?id=44304607) - [A Python-first data lakehouse](https://www.bauplanlabs.com/blog/everything-as-python)
 * [2025-06-17, 21:26:14](https://news.ycombinator.com/item?id=44304141) - [Bots are overwhelming websites with their hunger for AI data](https://www.theregister.com/2025/06/17/bot_overwhelming_websites_report/)
 * [2025-06-17, 21:22:23](https://news.ycombinator.com/item?id=44304107) - [The Right Chemistry: How Jean Harlow became a 'platinum blond' (2020)](https://montrealgazette.com/opinion/columnists/article249177.html)
 * [2025-06-17, 21:03:26](https://news.ycombinator.com/item?id=44303929) - [Apple: Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-my/122756)
