@@ -58,6 +58,7 @@
 * [2025-06-17, 13:02:54](https://news.ycombinator.com/item?id=44298656) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-17, 12:34:22](https://news.ycombinator.com/item?id=44298369) - [Linux kernel WireGuard can go 'fast' on decent hardware](https://utcc.utoronto.ca/~cks/space/blog/linux/WireGuardCanGoFast)
 * [2025-06-17, 12:29:51](https://news.ycombinator.com/item?id=44298327) - [Hack the Planet: 90s Hacker Culture vs. Today's AI Devs](https://gizvault.com/archives/hack-the-planet)
+* [2025-06-17, 12:17:02](https://news.ycombinator.com/item?id=44298211) - [What newspaper are you paying for these days?](https://news.ycombinator.com/item?id=44298211)
 * [2025-06-17, 12:03:01](https://news.ycombinator.com/item?id=44298087) - [Finding Dead Websites](https://www.marginalia.nu/log/a_122_dead_websites/)
 * [2025-06-17, 12:02:31](https://news.ycombinator.com/item?id=44298081) - [Google aims to reinvent email with Wave (2009)](https://www.cbc.ca/news/canada/how-google-aims-to-reinvent-email-with-wave-1.826825)
 * [2025-06-17, 12:00:38](https://news.ycombinator.com/item?id=44298066) - [AI threatens to raid the water reserves of Europe's driest regions](https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/)
