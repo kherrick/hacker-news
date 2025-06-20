@@ -46,6 +46,7 @@
 * [2025-06-18, 10:18:42](https://news.ycombinator.com/item?id=44308475) - [I'm 16 and Trying to Save Coral Reefs with Open-Source Symbiotic Biotech](https://news.ycombinator.com/item?id=44308475)
 * [2025-06-18, 08:53:50](https://news.ycombinator.com/item?id=44308000) - [Sam Altman Says Meta Offered OpenAI Staffers $100M Bonuses](https://www.bloomberg.com/news/articles/2025-06-17/altman-says-meta-offered-openai-staffers-100-million-bonuses)
 * [2025-06-18, 07:58:18](https://news.ycombinator.com/item?id=44307629) - [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)
+* [2025-06-18, 07:25:16](https://news.ycombinator.com/item?id=44307445) - [Ancient termite poo reveals 120M-year-old secrets of Australia's forests](https://phys.org/news/2025-06-ancient-termite-poo-reveals-million.html)
 * [2025-06-18, 07:01:15](https://news.ycombinator.com/item?id=44307334) - [Show HN: Cpdown – Copy any webpage/YouTube subtitle as clean Markdown(LLM-ready)](https://news.ycombinator.com/from?site=github.com/ysm-dev)
 * [2025-06-18, 06:55:54](https://news.ycombinator.com/item?id=44307298) - [Benchmark: SnapDOM may be a serious alternative to html2canvas](https://zumerlab.github.io/snapdom/)
 * [2025-06-18, 06:53:34](https://news.ycombinator.com/item?id=44307290) - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
