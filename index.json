@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-20, 20:04:01",
+      "https://news.ycombinator.com/item?id=44331518"
+    ],
+    [
+      "Show HN: Inspect and extract files from MSI installers directly in your browser",
+      "https://pymsi.readthedocs.io/en/latest/msi_viewer.html"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 19:20:13",
       "https://news.ycombinator.com/item?id=44331045"
     ],
@@ -11,32 +21,22 @@
   ],
   [
     [
-      "2025-06-20, 18:57:22",
-      "https://news.ycombinator.com/item?id=44330815"
+      "2025-06-20, 18:37:53",
+      "https://news.ycombinator.com/item?id=44330613"
     ],
     [
-      "Ask HN: How can we keep (part of) the web human?",
-      "https://news.ycombinator.com/item?id=44330815"
+      "Career advice, or something like it",
+      "https://brooker.co.za/blog/2025/06/20/career.html"
     ]
   ],
   [
     [
-      "2025-06-20, 18:51:17",
-      "https://news.ycombinator.com/item?id=44330755"
+      "2025-06-20, 18:29:46",
+      "https://news.ycombinator.com/item?id=44330532"
     ],
     [
-      "Malicious AI swarms can threaten democracy",
-      "https://osf.io/preprints/osf/qm9yk_v2"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 18:34:21",
-      "https://news.ycombinator.com/item?id=44330585"
-    ],
-    [
-      "Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack",
-      "https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/"
+      "Microsoft is blocking Google Chrome through its family safety feature",
+      "https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature"
     ]
   ],
   [
@@ -47,26 +47,6 @@
     [
       "New dating for White Sands footprints confirms controversial theory",
       "https://arstechnica.com/science/2025/06/study-confirms-white-sands-footprints-are-23000-years-old/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 18:19:30",
-      "https://news.ycombinator.com/item?id=44330422"
-    ],
-    [
-      "Microsoft Is Deleting Old Drivers from Windows Update and It Might Break Your PC",
-      "https://nerds.xyz/2025/06/microsoft-driver-removal-windows-update-legacy-hardware-breaking/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 17:37:14",
-      "https://news.ycombinator.com/item?id=44330014"
-    ],
-    [
-      "Billions of login credentials have been leaked online",
-      "https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed"
     ]
   ],
   [
@@ -121,6 +101,16 @@
   ],
   [
     [
+      "2025-06-20, 15:04:31",
+      "https://news.ycombinator.com/item?id=44328405"
+    ],
+    [
+      "Show HN: SecureBuild – Zero-CVE Images That Pay OSS Projects",
+      "https://securebuild.com"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 14:57:04",
       "https://news.ycombinator.com/item?id=44328326"
     ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=44327759"
     ],
     [
-      "Minimal auto-differentiation engine in Rust (for educational purposes)",
+      "Minimal auto-differentiation engine in Rust",
       "https://github.com/e3ntity/nanograd"
     ]
   ],
@@ -167,6 +157,16 @@
     [
       "Klong: A Simple Array Language",
       "https://t3x.org/klong/"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 11:08:18",
+      "https://news.ycombinator.com/item?id=44326620"
+    ],
+    [
+      "Show HN: SnapQL – Desktop app to query Postgres with AI",
+      "https://github.com/NickTikhonov/snap-ql"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2025-06-19, 23:17:39",
-      "https://news.ycombinator.com/item?id=44323389"
+      "2025-06-19, 00:33:21",
+      "https://news.ycombinator.com/item?id=44314423"
     ],
     [
-      "Giant, all-seeing telescope is set to revolutionize astronomy",
-      "https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy"
+      "Andrej Karpathy: Software in the era of AI [video]",
+      "https://www.youtube.com/watch?v=LCEmiRjPEtQ"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-06-17, 09:13:20",
-      "https://news.ycombinator.com/item?id=44297141"
+      "2025-06-17, 14:28:30",
+      "https://news.ycombinator.com/item?id=44299680"
     ],
     [
-      "A deep-dive explainer on Ink and Switch's BeeKEM protocol",
-      "https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/"
+      "Verified Dynamic Programming with Σ-types in Lean",
+      "https://tannerduve.github.io/blog/memoization-sigma/"
     ]
   ],
   [
