@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-20, 12:02:02",
+      "https://news.ycombinator.com/item?id=44326890"
+    ],
+    [
+      "Fast Rust Builds (2021)",
+      "https://matklad.github.io/2021/09/04/fast-rust-builds.html"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 11:27:48",
       "https://news.ycombinator.com/item?id=44326721"
     ],
     [
       "Our crisis is not loneliness but human beings becoming invisible",
       "https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 10:56:39",
+      "https://news.ycombinator.com/item?id=44326545"
+    ],
+    [
+      "Wayland Is Growing Up. and Now We Don't Have a Choice",
+      "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 10:34:48",
+      "https://news.ycombinator.com/item?id=44326407"
+    ],
+    [
+      "My A11 Journey",
+      "https://mjg59.dreamwidth.org/72379.html"
     ]
   ],
   [
@@ -21,32 +51,12 @@
   ],
   [
     [
-      "2025-06-20, 08:07:34",
-      "https://news.ycombinator.com/item?id=44325617"
-    ],
-    [
-      "I will do anything to end homelessness except build more homes",
-      "https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 08:05:55",
       "https://news.ycombinator.com/item?id=44325611"
     ],
     [
       "Learn Makefiles",
       "https://makefiletutorial.com/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 08:02:22",
-      "https://news.ycombinator.com/item?id=44325596"
-    ],
-    [
-      "Break Up Big Tech: Civil Society Declaration",
-      "https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-06-19, 10:22:06",
-      "https://news.ycombinator.com/item?id=44317180"
-    ],
-    [
-      "Guess I'm a Rationalist Now",
-      "https://scottaaronson.blog/?p=8908"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 00:33:21",
       "https://news.ycombinator.com/item?id=44314423"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=44304634"
     ],
     [
-      "He '70s Performance Artist Who Became a Hero to 'Garbage Men'",
+      "A '70s performance artist who became a hero to 'garbage men'",
       "https://www.nytimes.com/2025/06/14/nyregion/maintenance-artist-mierle-laderman-ukeles.html"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=44295725"
     ],
     [
-      "Virtual Cells",
+      "Virtual cells",
       "https://udara.io/science/virtual-cells/"
     ]
   ],
