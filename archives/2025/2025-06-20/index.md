@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 12:02:02](https://news.ycombinator.com/item?id=44326890) - [Fast Rust Builds (2021)](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
 * [2025-06-20, 11:27:48](https://news.ycombinator.com/item?id=44326721) - [Our crisis is not loneliness but human beings becoming invisible](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
+* [2025-06-20, 10:56:39](https://news.ycombinator.com/item?id=44326545) - [Wayland Is Growing Up. and Now We Don't Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
+* [2025-06-20, 10:34:48](https://news.ycombinator.com/item?id=44326407) - [My A11 Journey](https://mjg59.dreamwidth.org/72379.html)
 * [2025-06-20, 10:32:21](https://news.ycombinator.com/item?id=44326388) - [How would a passing gravitational wave look or feel?](https://physics.stackexchange.com/questions/338912/how-would-a-passing-gravitational-wave-look-or-feel)
 * [2025-06-20, 08:07:34](https://news.ycombinator.com/item?id=44325617) - [I Will Do Anything to End Homelessness Except Build More Homes](https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes)
 * [2025-06-20, 08:05:55](https://news.ycombinator.com/item?id=44325611) - [Learn Makefiles](https://makefiletutorial.com/)
