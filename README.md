@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-20, 15:23:29](https://news.ycombinator.com/item?id=44328598) - [Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/)
 * [2025-06-20, 15:03:23](https://news.ycombinator.com/item?id=44328389) - [Malware-Laced GitHub Repos Found Masquerading as Developer Tools](https://klarrio.com/klarrio-discovers-large-scale-malware-network-on-github/)
 * [2025-06-20, 15:02:07](https://news.ycombinator.com/item?id=44328373) - [Rise in 'alert fatigue' risks phone users disabling news notifications](https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
+* [2025-06-20, 14:26:49](https://news.ycombinator.com/item?id=44328032) - [Congestion pricing in Manhattan is a predictable success](https://www.economist.com/united-states/2025/06/19/congestion-pricing-in-manhattan-is-a-predictable-success)
 * [2025-06-20, 13:53:34](https://news.ycombinator.com/item?id=44327759) - [Minimal auto-differentiation engine in Rust (for educational purposes)](https://github.com/e3ntity/nanograd)
 * [2025-06-20, 13:21:31](https://news.ycombinator.com/item?id=44327501) - [NASA Scientists Find Ties Between Earth's Oxygen and Magnetic Field](https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/)
 * [2025-06-20, 13:17:02](https://news.ycombinator.com/item?id=44327468) - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
@@ -14,7 +16,6 @@
 * [2025-06-20, 03:03:05](https://news.ycombinator.com/item?id=44324378) - [Show HN: Ts-SSH – SSH over Tailscale without running the daemon](https://github.com/derekg/ts-ssh)
 * [2025-06-20, 01:56:16](https://news.ycombinator.com/item?id=44324084) - [Asterinas: A new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
 * [2025-06-20, 01:06:12](https://news.ycombinator.com/item?id=44323904) - [Open source can't coordinate?](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
-* [2025-06-19, 23:21:40](https://news.ycombinator.com/item?id=44323411) - [Sunsonic 986-II – A Thai Famicom clone with keyboard and mini CRT built-in](https://mastodon.gamedev.place/@pikuma/114711138512697712)
 * [2025-06-19, 23:17:39](https://news.ycombinator.com/item?id=44323389) - [Giant, all-seeing telescope is set to revolutionize astronomy](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy)
 * [2025-06-19, 22:49:49](https://news.ycombinator.com/item?id=44323253) - [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
 * [2025-06-19, 22:18:45](https://news.ycombinator.com/item?id=44323045) - [Literate programming tool for any language](https://github.com/zyedidia/Literate)
@@ -29,7 +30,6 @@
 * [2025-06-16, 20:09:17](https://news.ycombinator.com/item?id=44292965) - [The Ecosystem Dynamics That Can Make or Break an Invasion](https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/)
 * [2025-06-16, 16:28:10](https://news.ycombinator.com/item?id=44291052) - [A Brief, Incomplete, and Mostly Wrong History of Robotics](https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong)
 * [2025-06-16, 16:20:32](https://news.ycombinator.com/item?id=44290992) - [College baseball, venture capital, and the long maybe](https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/)
-* [2025-06-16, 11:33:45](https://news.ycombinator.com/item?id=44288595) - [Octobass](https://www.atlasobscura.com/places/octobass)
 
 ## [Archives](archives/index.md)
 
