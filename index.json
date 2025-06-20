@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44332699"
     ],
     [
-      "AbsenceBench: Language Models Can't Tell What's Missing",
+      "AbsenceBench: Language models can't tell what's missing",
       "https://arxiv.org/abs/2506.11440"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Wiki Radio: The thrilling sound of random Wikipedia",
       "https://www.monkeon.co.uk/wikiradio/"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 20:42:22",
+      "https://news.ycombinator.com/item?id=44331898"
+    ],
+    [
+      "BYD begins testing solid-state EV batteries in the Seal",
+      "https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44331125"
     ],
     [
-      "It's True: The Jaws Shark Is Public Domain",
+      "The JAWS shark is public domain",
       "https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/"
     ]
   ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2025-06-20, 18:23:38",
-      "https://news.ycombinator.com/item?id=44330462"
+      "2025-06-20, 17:01:35",
+      "https://news.ycombinator.com/item?id=44329712"
     ],
     [
-      "New dating for White Sands footprints confirms controversial theory",
-      "https://arstechnica.com/science/2025/06/study-confirms-white-sands-footprints-are-23000-years-old/"
+      "YouTube's new anti-adblock measures",
+      "https://iter.ca/post/yt-adblock/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-06-20, 15:51:59",
-      "https://news.ycombinator.com/item?id=44328904"
-    ],
-    [
-      "How to Design Programs 2nd Ed (2024)",
-      "https://htdp.org"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 15:23:29",
       "https://news.ycombinator.com/item?id=44328598"
     ],
@@ -177,16 +177,6 @@
     [
       "Phoenix.new – Remote AI Runtime for Phoenix",
       "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 14:35:50",
-      "https://news.ycombinator.com/item?id=44328114"
-    ],
-    [
-      "Show HN: I Built a Site That Curates Weird YouTube Rabbit Holes Daily",
-      "https://yourabbit.com"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-06-18, 12:15:56",
+      "https://news.ycombinator.com/item?id=44309208"
+    ],
+    [
+      "Proba-3's first artificial solar eclipse",
+      "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 07:25:16",
       "https://news.ycombinator.com/item?id=44307445"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44299680"
     ],
     [
-      "Verified Dynamic Programming with Σ-types in Lean",
+      "Verified dynamic programming with Σ-types in Lean",
       "https://tannerduve.github.io/blog/memoization-sigma/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=44291052"
     ],
     [
-      "A Brief, Incomplete, and Mostly Wrong History of Robotics",
+      "A brief, incomplete, and mostly wrong history of robotics",
       "https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong"
     ]
   ]
