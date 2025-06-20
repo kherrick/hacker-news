@@ -129,6 +129,82 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44331518">
+          <h3>
+            <a
+              class="item"
+              href="https://pymsi.readthedocs.io/en/latest/msi_viewer.html"
+              >Show HN: Inspect and extract files from MSI installers directly
+              in your browser</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-20 @ 20:04:01</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44331518"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I'm excited to share a small web app I built that allows you to
+                view and extract the contents of Windows MSI installers directly
+                in your browser. It's essentially a web-based "lessmsi" powered
+                by Pyodide.
+              </p>
+              <p>
+                You can try it out at:
+                <a href="https://pymsi.readthedocs.io/en/latest/msi_viewer.html"
+                  >https://pymsi.readthedocs.io/en/latest/msi_viewer.html</a
+                >
+              </p>
+              <p>
+                My motivation for building this was from part of my day job -- I
+                often get Windows MSI installers and need to extract files while
+                preserving the relative directory structure and filenames, as
+                they would appear after a full installation. The existing tools
+                I found were good but limited in which platforms they support:
+                lessmsi works great on Windows, while msitools works for
+                Linux/macOS. Neither is a truly cross-platform solution that
+                works on any major OS.
+              </p>
+              <p>
+                So we developed pymsi (a pure Python library, available on
+                GitHub at
+                <a href="https://github.com/nightlark/pymsi"
+                  >https://github.com/nightlark/pymsi</a
+                >) to handle reading and extracting MSI files from Python. Then
+                I realized that since pymsi has no native dependencies, it could
+                potentially run in a web browser using Pyodide. After a bit of
+                "vibe coding" and fixing some "hallucinated" functions/classes
+                that don't exist in pymsi, the result was this client-side web
+                app.
+              </p>
+              <p>
+                If you need an MSI file to experiment with, older versions of
+                PowerToys included the installer in .msi form, such as this one:
+                <a
+                  href="https://github.com/microsoft/PowerToys/releases/download/v0.21.1/PowerToysSetup-0.21.1-x64.msi"
+                  >https://github.com/microsoft/PowerToys/releases/download/v0....</a
+                >
+              </p>
+              <p>
+                Note that the underlying pymsi library hasn't been extensively
+                tested against a bunch of MSI installers yet, so there might
+                still be lingering bugs. If you come across any issues, please
+                don't hesitate to report them in on the GitHub repository (<a
+                  href="https://github.com/nightlark/pymsi/issues"
+                  >https://github.com/nightlark/pymsi/issues</a
+                >).
+              </p>
+              <p>I'd love to hear your feedback and answer any questions!</p>
+            </div>
+          </section>
+        </section>
         <section id="44331045">
           <h3>
             <a
@@ -141,85 +217,54 @@
             <h4>
               <span>2025-06-20 @ 19:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44331045"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44330815">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=44330815"
-              >Ask HN: How can we keep (part of) the web human?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-20 @ 18:57:22</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44330815"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                It feels like every time I do a web search, more and more of the
-                results are AI generated nonsense.
-              </p>
-              <p>
-                I'm worried that it's going to become much more difficult to
-                find the human-generated content.
-              </p>
-              <p>
-                How can we keep a part of the web human? Any ideas? (I'm not
-                keen on Sam Altman’s eyeball-scanning Orb being the "solution.")
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="44330755">
-          <h3>
-            <a class="item" href="https://osf.io/preprints/osf/qm9yk_v2"
-              >Malicious AI swarms can threaten democracy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-20 @ 18:51:17</span
-              ><span class="points-container"
-                >Points: <span class="points">91</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44330755"
-                  >Comments</a
-                ><span class="descendants">: 96</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44330585">
+        <section id="44330613">
           <h3>
             <a
               class="item"
-              href="https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/"
-              >Defending the Internet: how Cloudflare blocked a monumental 7.3
-              Tbps DDoS attack</a
+              href="https://brooker.co.za/blog/2025/06/20/career.html"
+              >Career advice, or something like it</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-06-20 @ 18:34:21</span
+              <span>2025-06-20 @ 18:37:53</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44330585"
+                ><a href="https://news.ycombinator.com/item?id=44330613"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44330532">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature"
+              >Microsoft is blocking Google Chrome through its family safety
+              feature</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-20 @ 18:29:46</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44330532"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -237,54 +282,11 @@
             <h4>
               <span>2025-06-20 @ 18:23:38</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44330462"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44330422">
-          <h3>
-            <a
-              class="item"
-              href="https://nerds.xyz/2025/06/microsoft-driver-removal-windows-update-legacy-hardware-breaking/"
-              >Microsoft Is Deleting Old Drivers from Windows Update and It
-              Might Break Your PC</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-20 @ 18:19:30</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44330422"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44330014">
-          <h3>
-            <a
-              class="item"
-              href="https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed"
-              >Billions of login credentials have been leaked online</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-20 @ 17:37:14</span
-              ><span class="points-container"
-                >Points: <span class="points">43</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44330014"
-                  >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -299,11 +301,11 @@
             <h4>
               <span>2025-06-20 @ 16:54:12</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44329640"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -318,11 +320,11 @@
             <h4>
               <span>2025-06-20 @ 16:35:55</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44329457"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
             <div class="text">
@@ -422,7 +424,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44329449"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -437,7 +439,7 @@
             <h4>
               <span>2025-06-20 @ 15:51:59</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44328904"
                   >Comments</a
@@ -459,13 +461,74 @@
             <h4>
               <span>2025-06-20 @ 15:23:29</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44328598"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44328405">
+          <h3>
+            <a class="item" href="https://securebuild.com"
+              >Show HN: SecureBuild – Zero-CVE Images That Pay OSS Projects</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-20 @ 15:04:31</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44328405"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://securebuild.com">https://securebuild.com</a> — a
+              new way for open source projects and maintainers to earn revenue
+              by partnering with and endorsing our Zero-CVE container images of
+              their project.
+              <p>
+                We’ve spent the last decade at Replicated (<a
+                  href="https://news.ycombinator.com/item?id=9841243"
+                  >https://news.ycombinator.com/item?id=9841243</a
+                >) helping commercial and open source software vendors securely
+                distribute their apps to enterprise environments. During that
+                time, we saw firsthand how hard it is for maintainers to fund
+                their work, and how increasingly demanding enterprises have
+                become when it comes to demonstrable security and scanning.
+              </p>
+              <p>
+                SecureBuild is our attempt to bridge that gap. Built on top of
+                Wolfi (<a href="https://news.ycombinator.com/item?id=36489847"
+                  >https://news.ycombinator.com/item?id=36489847</a
+                >), we provide Zero-CVE container images with tight SLAs, full
+                SBOMs, etc, but we route 70% of direct subscription revenue back
+                to the open source projects that create them.
+              </p>
+              <p>
+                We’re especially interested in partnering with open source
+                maintainers who want to make their projects more secure and
+                sustainable without changing licenses. We handle builds,
+                hosting, sales, patching, and customer delivery.
+              </p>
+              <p>
+                I'm Grant (<a
+                  href="https://news.ycombinator.com/user?id=grantmiller"
+                  >https://news.ycombinator.com/user?id=grantmiller</a
+                >), co-founder of Replicated &amp; co-creator of SecureBuild,
+                working with my co-founder Marc Campbell (<a
+                  href="https://news.ycombinator.com/user?id=marcc"
+                  >https://news.ycombinator.com/user?id=marcc</a
+                >). We hope this can be part of a broader push toward a more
+                secure, economically sustainable future for open source.
+              </p>
+              <p>Happy to answer questions and share more details!</p>
+            </div>
           </section>
         </section>
         <section id="44328326">
@@ -480,11 +543,11 @@
             <h4>
               <span>2025-06-20 @ 14:57:04</span
               ><span class="points-container"
-                >Points: <span class="points">272</span></span
+                >Points: <span class="points">284</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44328326"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -501,11 +564,11 @@
             <h4>
               <span>2025-06-20 @ 14:26:49</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44328032"
                   >Comments</a
-                ><span class="descendants">: 349</span></span
+                ><span class="descendants">: 362</span></span
               >
             </h4>
           </section>
@@ -513,15 +576,14 @@
         <section id="44327759">
           <h3>
             <a class="item" href="https://github.com/e3ntity/nanograd"
-              >Minimal auto-differentiation engine in Rust (for educational
-              purposes)</a
+              >Minimal auto-differentiation engine in Rust</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-06-20 @ 13:53:34</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44327759"
                   >Comments</a
@@ -542,11 +604,11 @@
             <h4>
               <span>2025-06-20 @ 13:17:02</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44327468"
                   >Comments</a
-                ><span class="descendants">: 246</span></span
+                ><span class="descendants">: 257</span></span
               >
             </h4>
             <div class="text">
@@ -567,13 +629,40 @@
             <h4>
               <span>2025-06-20 @ 12:44:09</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44327173"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="44326620">
+          <h3>
+            <a class="item" href="https://github.com/NickTikhonov/snap-ql"
+              >Show HN: SnapQL – Desktop app to query Postgres with AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-20 @ 11:08:18</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44326620"
+                  >Comments</a
+                ><span class="descendants">: 44</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Everything runs locally — your OpenAI API key, your data, and
+                your queries — so it's secure and private. Just connect your DB,
+                describe what you want, and SnapQL writes and runs the SQL for
+                you.
+              </p>
+            </div>
           </section>
         </section>
         <section id="44326145">
@@ -589,11 +678,11 @@
             <h4>
               <span>2025-06-20 @ 09:52:50</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44326145"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -625,11 +714,11 @@
             <h4>
               <span>2025-06-20 @ 03:55:03</span
               ><span class="points-container"
-                >Points: <span class="points">391</span></span
+                >Points: <span class="points">395</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44324592"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -646,32 +735,30 @@
             <h4>
               <span>2025-06-20 @ 01:56:16</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44324084"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44323389">
+        <section id="44314423">
           <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy"
-              >Giant, all-seeing telescope is set to revolutionize astronomy</a
+            <a class="item" href="https://www.youtube.com/watch?v=LCEmiRjPEtQ"
+              >Andrej Karpathy: Software in the era of AI [video]</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-06-19 @ 23:17:39</span
+              <span>2025-06-19 @ 00:33:21</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">1352</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44323389"
+                ><a href="https://news.ycombinator.com/item?id=44314423"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 739</span></span
               >
             </h4>
           </section>
@@ -689,7 +776,7 @@
             <h4>
               <span>2025-06-18 @ 19:08:57</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44312501"
                   >Comments</a
@@ -710,7 +797,7 @@
             <h4>
               <span>2025-06-17 @ 22:22:03</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44304607"
                   >Comments</a
@@ -732,7 +819,7 @@
             <h4>
               <span>2025-06-17 @ 19:56:40</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44303246"
                   >Comments</a
@@ -751,7 +838,7 @@
             <h4>
               <span>2025-06-17 @ 19:37:49</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44303011"
                   >Comments</a
@@ -776,28 +863,28 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44300641"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44297141">
+        <section id="44299680">
           <h3>
             <a
               class="item"
-              href="https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/"
-              >A deep-dive explainer on Ink and Switch's BeeKEM protocol</a
+              href="https://tannerduve.github.io/blog/memoization-sigma/"
+              >Verified Dynamic Programming with Σ-types in Lean</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-06-17 @ 09:13:20</span
+              <span>2025-06-17 @ 14:28:30</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44297141"
+                ><a href="https://news.ycombinator.com/item?id=44299680"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -814,11 +901,11 @@
             <h4>
               <span>2025-06-16 @ 16:28:10</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44291052"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -835,11 +922,11 @@
             <h4>
               <span>2025-06-16 @ 16:20:32</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44290992"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
