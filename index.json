@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-20, 20:42:22",
-      "https://news.ycombinator.com/item?id=44331898"
+      "2025-06-20, 21:18:42",
+      "https://news.ycombinator.com/item?id=44332206"
     ],
     [
-      "BYD is testing solid-state batteries in its Seal sedan with ~1200 miles of range",
-      "https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/"
+      "Libraries are under-used. LLMs make this problem worse",
+      "https://makefizz.buzz/posts/libraries-llms"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 21:15:15",
+      "https://news.ycombinator.com/item?id=44332170"
+    ],
+    [
+      "Wiki Radio: The thrilling sound of random Wikipedia",
+      "https://www.monkeon.co.uk/wikiradio/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Show HN: Inspect and extract files from MSI installers directly in your browser",
       "https://pymsi.readthedocs.io/en/latest/msi_viewer.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 19:51:45",
+      "https://news.ycombinator.com/item?id=44331362"
+    ],
+    [
+      "Harper – an open-source alternative to Grammarly",
+      "https://writewithharper.com"
     ]
   ],
   [
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2025-06-20, 14:35:50",
+      "https://news.ycombinator.com/item?id=44328114"
+    ],
+    [
+      "Show HN: I Built a Site That Curates Weird YouTube Rabbit Holes Daily",
+      "https://yourabbit.com"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 13:53:34",
       "https://news.ycombinator.com/item?id=44327759"
     ],
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2025-06-20, 07:00:18",
-      "https://news.ycombinator.com/item?id=44325362"
-    ],
-    [
-      "Qfex (YC X25) – Back End Engineer for a 24/7 Stock Exchange",
-      "https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 03:55:03",
-      "https://news.ycombinator.com/item?id=44324592"
-    ],
-    [
-      "Hurl: Run and test HTTP requests with plain text",
-      "https://github.com/Orange-OpenSource/hurl"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 01:56:16",
       "https://news.ycombinator.com/item?id=44324084"
     ],
@@ -247,16 +257,6 @@
     [
       "An analysis of recent multithreading improvements for a smoother game",
       "https://dev.arma3.com/post/oprep-performance-optimizations-in-220"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 19:37:49",
-      "https://news.ycombinator.com/item?id=44303011"
-    ],
-    [
-      "Reworking Memory Management in CRuby [pdf]",
-      "https://blog.peterzhu.ca/assets/ismm_2025.pdf"
     ]
   ],
   [
