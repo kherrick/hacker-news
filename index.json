@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-06-20, 01:27:16",
+      "https://news.ycombinator.com/item?id=44323982"
+    ],
+    [
+      "Show HN: ATAC, an event verification platform evidence based",
+      "https://atac.seraum.com"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 01:07:43",
+      "https://news.ycombinator.com/item?id=44323914"
+    ],
+    [
+      "FedFlix — Public Domain Stock Footage Library",
+      "https://public.resource.org/ntis.gov/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 01:06:12",
+      "https://news.ycombinator.com/item?id=44323904"
+    ],
+    [
+      "Open Source Can't Coordinate",
+      "https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 00:16:57",
+      "https://news.ycombinator.com/item?id=44323719"
+    ],
+    [
+      "Infinite Mac OS X",
+      "https://blog.persistent.info/2025/03/infinite-mac-os-x.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 23:21:40",
+      "https://news.ycombinator.com/item?id=44323411"
+    ],
+    [
+      "Sunsonic 986-II. A Thai Famicom clone with keyboard and mini CRT built-in",
+      "https://mastodon.gamedev.place/@pikuma/114711138512697712"
+    ]
+  ],
+  [
+    [
       "2025-06-19, 22:49:49",
       "https://news.ycombinator.com/item?id=44323253"
     ],
@@ -31,16 +81,6 @@
   ],
   [
     [
-      "2025-06-19, 17:41:59",
-      "https://news.ycombinator.com/item?id=44320851"
-    ],
-    [
-      "Juneteenth in Photos",
-      "https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 17:32:21",
       "https://news.ycombinator.com/item?id=44320772"
     ],
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2025-06-19, 17:03:33",
-      "https://news.ycombinator.com/item?id=44320497"
-    ],
-    [
-      "Why do we need DNSSEC?",
-      "https://howdnssec.works/why-do-we-need-dnssec/"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 17:00:39",
       "https://news.ycombinator.com/item?id=44320460"
     ],
@@ -81,42 +111,12 @@
   ],
   [
     [
-      "2025-06-19, 16:22:31",
-      "https://news.ycombinator.com/item?id=44320099"
-    ],
-    [
-      "June 2025 C2PA News",
-      "https://www.tbray.org/ongoing/When/202x/2025/06/17/More-C2PA"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 16:11:46",
       "https://news.ycombinator.com/item?id=44320001"
     ],
     [
       "How OpenElections uses LLMs",
       "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-19, 15:27:44",
-      "https://news.ycombinator.com/item?id=44319585"
-    ],
-    [
-      "Geochronology supports LGM age for human tracks at White Sands, New Mexico",
-      "https://www.science.org/doi/10.1126/sciadv.adv4951"
-    ]
-  ],
-  [
-    [
-      "2025-06-19, 14:42:03",
-      "https://news.ycombinator.com/item?id=44319144"
-    ],
-    [
-      "Posit floating point numbers: thin triangles and other tricks (2019)",
-      "http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html"
     ]
   ],
   [
@@ -171,26 +171,6 @@
   ],
   [
     [
-      "2025-06-19, 09:29:28",
-      "https://news.ycombinator.com/item?id=44316909"
-    ],
-    [
-      "From LLM to AI Agent: What's the Real Journey Behind AI System Development?",
-      "https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent"
-    ]
-  ],
-  [
-    [
-      "2025-06-19, 04:02:27",
-      "https://news.ycombinator.com/item?id=44315321"
-    ],
-    [
-      "Elliptic Curves as Art",
-      "https://elliptic-curves.art/"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 00:33:21",
       "https://news.ycombinator.com/item?id=44314423"
     ],
@@ -207,6 +187,16 @@
     [
       "Show HN: Unregistry – “docker push” directly to servers without a registry",
       "https://github.com/psviderski/unregistry"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 17:56:04",
+      "https://news.ycombinator.com/item?id=44301875"
+    ],
+    [
+      "Public/protected/private is an unnecessary feature",
+      "https://catern.com/private.html"
     ]
   ],
   [
@@ -241,6 +231,26 @@
   ],
   [
     [
+      "2025-06-17, 12:17:02",
+      "https://news.ycombinator.com/item?id=44298211"
+    ],
+    [
+      "What newspaper are you paying for these days?",
+      "https://news.ycombinator.com/item?id=44298211"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 11:15:25",
+      "https://news.ycombinator.com/item?id=44297761"
+    ],
+    [
+      "We Can Just Measure Things",
+      "https://lucumr.pocoo.org/2025/6/17/measuring/"
+    ]
+  ],
+  [
+    [
       "2025-06-17, 10:57:09",
       "https://news.ycombinator.com/item?id=44297656"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2025-06-16, 11:33:45",
+      "https://news.ycombinator.com/item?id=44288595"
+    ],
+    [
+      "Octobass",
+      "https://www.atlasobscura.com/places/octobass"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 09:38:00",
       "https://news.ycombinator.com/item?id=44287926"
     ],
     [
       "DNA floating in the air tracks wildlife, viruses, even drugs",
       "https://www.sciencedaily.com/releases/2025/06/250603114822.htm"
-    ]
-  ],
-  [
-    [
-      "2025-06-16, 07:02:40",
-      "https://news.ycombinator.com/item?id=44287248"
-    ],
-    [
-      "Getting Started Strudel",
-      "https://strudel.cc/workshop/getting-started/"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 20:55:25",
-      "https://news.ycombinator.com/item?id=44284908"
-    ],
-    [
-      "Munich from a Hamburger's perspective",
-      "https://mertbulan.com/2025/06/14/munich-from-a-hamburgers-perspective/"
     ]
   ]
 ]
