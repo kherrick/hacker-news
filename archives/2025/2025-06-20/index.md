@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 13:21:31](https://news.ycombinator.com/item?id=44327501) - [NASA Scientists Find Ties Between Earth's Oxygen and Magnetic Field](https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/)
+* [2025-06-20, 12:52:42](https://news.ycombinator.com/item?id=44327241) - [AI is going to hack Jira](https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira)
+* [2025-06-20, 12:14:31](https://news.ycombinator.com/item?id=44326965) - [Makefile Style Guide](https://clarkgrubb.com/makefile-style-guide)
 * [2025-06-20, 12:02:02](https://news.ycombinator.com/item?id=44326890) - [Fast Rust Builds (2021)](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
 * [2025-06-20, 11:27:48](https://news.ycombinator.com/item?id=44326721) - [Our crisis is not loneliness but human beings becoming invisible](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
 * [2025-06-20, 10:56:39](https://news.ycombinator.com/item?id=44326545) - [Wayland Is Growing Up. and Now We Don't Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
 * [2025-06-20, 10:34:48](https://news.ycombinator.com/item?id=44326407) - [My A11 Journey](https://mjg59.dreamwidth.org/72379.html)
 * [2025-06-20, 10:32:21](https://news.ycombinator.com/item?id=44326388) - [How would a passing gravitational wave look or feel?](https://physics.stackexchange.com/questions/338912/how-would-a-passing-gravitational-wave-look-or-feel)
+* [2025-06-20, 09:52:50](https://news.ycombinator.com/item?id=44326145) - [Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor](https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor)
 * [2025-06-20, 08:07:34](https://news.ycombinator.com/item?id=44325617) - [I Will Do Anything to End Homelessness Except Build More Homes](https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes)
 * [2025-06-20, 08:05:55](https://news.ycombinator.com/item?id=44325611) - [Learn Makefiles](https://makefiletutorial.com/)
 * [2025-06-20, 08:02:22](https://news.ycombinator.com/item?id=44325596) - [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
