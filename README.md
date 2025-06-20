@@ -16,7 +16,6 @@
 * [2025-06-19, 22:49:49](https://news.ycombinator.com/item?id=44323253) - [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
 * [2025-06-19, 22:18:45](https://news.ycombinator.com/item?id=44323045) - [Literate programming tool for any language](https://github.com/zyedidia/Literate)
 * [2025-06-19, 19:20:54](https://news.ycombinator.com/item?id=44321672) - [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
-* [2025-06-19, 17:32:21](https://news.ycombinator.com/item?id=44320772) - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
 * [2025-06-19, 16:11:46](https://news.ycombinator.com/item?id=44320001) - [How OpenElections uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
 * [2025-06-19, 14:13:15](https://news.ycombinator.com/item?id=44318874) - [Curved-Crease Sculpture](https://erikdemaine.org/curved/)
 * [2025-06-19, 13:38:57](https://news.ycombinator.com/item?id=44318588) - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
@@ -28,6 +27,7 @@
 * [2025-06-17, 12:33:44](https://news.ycombinator.com/item?id=44298360) - [Pipelined State Machine Corruption](https://flak.tedunangst.com/post/pipelined-state-machine-corruption)
 * [2025-06-17, 04:18:38](https://news.ycombinator.com/item?id=44295725) - [Virtual Cells](https://udara.io/science/virtual-cells/)
 * [2025-06-17, 01:58:59](https://news.ycombinator.com/item?id=44295096) - [Show HN: Sexprs – Lisp dialect written in Rust](https://github.com/gabrielfalcao/sexprs)
+* [2025-06-16, 20:09:17](https://news.ycombinator.com/item?id=44292965) - [The Ecosystem Dynamics That Can Make or Break an Invasion](https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/)
 * [2025-06-16, 11:33:45](https://news.ycombinator.com/item?id=44288595) - [Octobass](https://www.atlasobscura.com/places/octobass)
 * [2025-06-16, 09:38:00](https://news.ycombinator.com/item?id=44287926) - [DNA floating in the air tracks wildlife, viruses, even drugs](https://www.sciencedaily.com/releases/2025/06/250603114822.htm)
 

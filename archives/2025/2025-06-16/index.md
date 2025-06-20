@@ -14,6 +14,7 @@
 * [2025-06-16, 20:31:50](https://news.ycombinator.com/item?id=44293132) - [Denmark tests unmanned robotic sailboat fleet](https://apnews.com/article/denmark-robot-sailboats-baltic-sea-bfa31c98cf7c93320115c0ad0e6908c5)
 * [2025-06-16, 20:19:44](https://news.ycombinator.com/item?id=44293044) - [retrobootstrapping rust for some reason](https://graydon2.dreamwidth.org/317484.html)
 * [2025-06-16, 20:12:53](https://news.ycombinator.com/item?id=44292989) - [OpenAI and Microsoft Tensions Are Reaching a Boiling Point](https://www.wsj.com/tech/ai/openai-and-microsoft-tensions-are-reaching-a-boiling-point-4981c44f)
+* [2025-06-16, 20:09:17](https://news.ycombinator.com/item?id=44292965) - [The Ecosystem Dynamics That Can Make or Break an Invasion](https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/)
 * [2025-06-16, 19:28:38](https://news.ycombinator.com/item?id=44292652) - [Spherical CNNs (2018)](https://arxiv.org/abs/1801.10130)
 * [2025-06-16, 19:19:57](https://news.ycombinator.com/item?id=44292601) - [Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://arxiv.org/abs/2506.01963)
 * [2025-06-16, 19:05:14](https://news.ycombinator.com/item?id=44292460) - [String Interpolation in C++ Using Glaze Stencil/Mustache](https://stephenberry.github.io/glaze/stencil-mustache/)
