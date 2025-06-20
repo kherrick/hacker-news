@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 * [2025-06-20, 17:53:28](https://news.ycombinator.com/item?id=44330155) - [US Army Appoints Palantir, Meta, OpenAI Execs as Lt. Colonels](https://thegrayzone.com/2025/06/18/palantir-execs-appointed-colonels/)
+* [2025-06-20, 17:37:14](https://news.ycombinator.com/item?id=44330014) - [Billions of login credentials have been leaked online](https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed)
 * [2025-06-20, 17:01:35](https://news.ycombinator.com/item?id=44329712) - [YouTube's new anti-adblock measures](https://iter.ca/post/yt-adblock/)
 * [2025-06-20, 16:54:12](https://news.ycombinator.com/item?id=44329640) - [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 * [2025-06-20, 16:35:55](https://news.ycombinator.com/item?id=44329457) - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
