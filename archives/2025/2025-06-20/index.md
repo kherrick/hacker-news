@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 20:04:01](https://news.ycombinator.com/item?id=44331518) - [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
 * [2025-06-20, 19:20:13](https://news.ycombinator.com/item?id=44331045) - [EU Eyes Ditching Microsoft Azure for France's OVHcloud](https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/)
 * [2025-06-20, 18:57:22](https://news.ycombinator.com/item?id=44330815) - [Ask HN: How can we keep (part of) the web human?](https://news.ycombinator.com/item?id=44330815)
 * [2025-06-20, 18:51:17](https://news.ycombinator.com/item?id=44330755) - [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)
+* [2025-06-20, 18:37:53](https://news.ycombinator.com/item?id=44330613) - [Career advice, or something like it](https://brooker.co.za/blog/2025/06/20/career.html)
 * [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
+* [2025-06-20, 18:29:46](https://news.ycombinator.com/item?id=44330532) - [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
 * [2025-06-20, 18:23:38](https://news.ycombinator.com/item?id=44330462) - [New dating for White Sands footprints confirms controversial theory](https://arstechnica.com/science/2025/06/study-confirms-white-sands-footprints-are-23000-years-old/)
 * [2025-06-20, 18:19:30](https://news.ycombinator.com/item?id=44330422) - [Microsoft Is Deleting Old Drivers from Windows Update and It Might Break Your PC](https://nerds.xyz/2025/06/microsoft-driver-removal-windows-update-legacy-hardware-breaking/)
 * [2025-06-20, 17:53:28](https://news.ycombinator.com/item?id=44330155) - [US Army Appoints Palantir, Meta, OpenAI Execs as Lt. Colonels](https://thegrayzone.com/2025/06/18/palantir-execs-appointed-colonels/)

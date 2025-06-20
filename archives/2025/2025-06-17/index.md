@@ -56,6 +56,7 @@
 * [2025-06-17, 14:50:44](https://news.ycombinator.com/item?id=44299962) - [Chimpanzees yawn when observing an Android yawn](https://www.nature.com/articles/s41598-025-98639-z)
 * [2025-06-17, 14:49:50](https://news.ycombinator.com/item?id=44299947) - [O3 Turns Pro](https://thezvi.substack.com/p/o3-turns-pro)
 * [2025-06-17, 14:47:26](https://news.ycombinator.com/item?id=44299930) - [What I Wish Someone Told Me When I Was Getting into ARIA](https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/)
+* [2025-06-17, 14:28:30](https://news.ycombinator.com/item?id=44299680) - [Verified Dynamic Programming with Σ-types in Lean](https://tannerduve.github.io/blog/memoization-sigma/)
 * [2025-06-17, 14:01:16](https://news.ycombinator.com/item?id=44299354) - [The Hamburger-Menu Icon Today: Is It Recognizable?](https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/)
 * [2025-06-17, 13:51:20](https://news.ycombinator.com/item?id=44299233) - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
 * [2025-06-17, 13:11:33](https://news.ycombinator.com/item?id=44298771) - [Are AI Bots Knocking Cultural Heritage Offline?](https://www.glamelab.org/products/are-ai-bots-knocking-cultural-heritage-offline/)
