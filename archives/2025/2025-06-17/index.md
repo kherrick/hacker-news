@@ -74,6 +74,7 @@
 * [2025-06-17, 08:44:27](https://news.ycombinator.com/item?id=44296972) - [Show HN: FaynoSync Self-Hosted API for Automatic App Updates](https://github.com/ku9nov/faynoSync)
 * [2025-06-17, 08:22:00](https://news.ycombinator.com/item?id=44296835) - [NexusMods Changes Hands](https://www.nexusmods.com/news/15301)
 * [2025-06-17, 07:58:42](https://news.ycombinator.com/item?id=44296711) - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
+* [2025-06-17, 07:50:00](https://news.ycombinator.com/item?id=44296659) - [A real fixed-point decimal crate in Rust](https://github.com/WuBingzheng/primitive_fixed_point_decimal)
 * [2025-06-17, 07:32:07](https://news.ycombinator.com/item?id=44296564) - [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
 * [2025-06-17, 07:25:23](https://news.ycombinator.com/item?id=44296523) - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 * [2025-06-17, 06:33:38](https://news.ycombinator.com/item?id=44296237) - [BMW ConnectedDrive lets me control my returned rental car (Sixt)](https://news.ycombinator.com/item?id=44296237)
