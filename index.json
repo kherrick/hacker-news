@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-06-20, 10:34:48",
-      "https://news.ycombinator.com/item?id=44326407"
-    ],
-    [
-      "My A11y Journey",
-      "https://mjg59.dreamwidth.org/72379.html"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 09:52:50",
       "https://news.ycombinator.com/item?id=44326145"
     ],
@@ -187,6 +177,16 @@
     [
       "Compiling LLMs into a MegaKernel: A path to low-latency inference",
       "https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 13:38:57",
+      "https://news.ycombinator.com/item?id=44318588"
+    ],
+    [
+      "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
+      "https://github.com/krustowski/rou2exOS"
     ]
   ],
   [
