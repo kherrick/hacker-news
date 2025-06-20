@@ -10,6 +10,7 @@
 * [2025-06-20, 15:51:02](https://news.ycombinator.com/item?id=44328894) - [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/)
 * [2025-06-20, 15:47:21](https://news.ycombinator.com/item?id=44328855) - [HCP Vault Secrets End of Life](https://support.hashicorp.com/hc/en-us/articles/41802449287955-HCP-Vault-Secrets-End-Of-Life)
 * [2025-06-20, 15:23:29](https://news.ycombinator.com/item?id=44328598) - [Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/)
+* [2025-06-20, 15:04:31](https://news.ycombinator.com/item?id=44328405) - [Show HN: SecureBuild – Zero-CVE Images That Pay OSS Projects](https://securebuild.com)
 * [2025-06-20, 15:03:23](https://news.ycombinator.com/item?id=44328389) - [Malware-Laced GitHub Repos Found Masquerading as Developer Tools](https://klarrio.com/klarrio-discovers-large-scale-malware-network-on-github/)
 * [2025-06-20, 15:02:07](https://news.ycombinator.com/item?id=44328373) - [Rise in 'alert fatigue' risks phone users disabling news notifications](https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
