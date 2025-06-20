@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-06-20, 08:05:55",
+      "https://news.ycombinator.com/item?id=44325611"
+    ],
+    [
+      "Learn Makefiles",
+      "https://makefiletutorial.com/"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 08:02:22",
       "https://news.ycombinator.com/item?id=44325596"
     ],
     [
       "Break Up Big Tech: Civil Society Declaration – People vs. Big Tech",
       "https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 07:52:00",
+      "https://news.ycombinator.com/item?id=44325563"
+    ],
+    [
+      "JavaScript broke the web (and called it progress)",
+      "https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "FedFlix — Public Domain Stock Footage Library",
       "https://public.resource.org/ntis.gov/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 01:06:12",
-      "https://news.ycombinator.com/item?id=44323904"
-    ],
-    [
-      "Open source can't coordinate",
-      "https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-06-19, 09:46:43",
-      "https://news.ycombinator.com/item?id=44317012"
-    ],
-    [
-      "Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs",
-      "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 00:33:21",
       "https://news.ycombinator.com/item?id=44314423"
     ],
@@ -237,6 +237,16 @@
     [
       "ELIZA Reanimated: Restoring the Mother of All Chatbots",
       "https://www.computer.org/csdl/magazine/an/2025/02/11030922/27sQDLuL7Uc"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 14:50:44",
+      "https://news.ycombinator.com/item?id=44299962"
+    ],
+    [
+      "Chimpanzees yawn when observing an Android yawn",
+      "https://www.nature.com/articles/s41598-025-98639-z"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Show HN: Sexprs – Lisp dialect written in Rust",
       "https://github.com/gabrielfalcao/sexprs"
-    ]
-  ],
-  [
-    [
-      "2025-06-16, 17:41:27",
-      "https://news.ycombinator.com/item?id=44291642"
-    ],
-    [
-      "Extracting memorized pieces of books from open-weight language models",
-      "https://arxiv.org/abs/2505.12546"
     ]
   ],
   [
