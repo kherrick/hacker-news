@@ -57,6 +57,7 @@
 * [2025-06-17, 13:03:48](https://news.ycombinator.com/item?id=44298673) - [A Visual Guide to Genome Editors](https://www.asimov.press/p/a-visual-guide-to-genome-editors)
 * [2025-06-17, 13:02:54](https://news.ycombinator.com/item?id=44298656) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-17, 12:34:22](https://news.ycombinator.com/item?id=44298369) - [Linux kernel WireGuard can go 'fast' on decent hardware](https://utcc.utoronto.ca/~cks/space/blog/linux/WireGuardCanGoFast)
+* [2025-06-17, 12:33:44](https://news.ycombinator.com/item?id=44298360) - [Pipelined State Machine Corruption](https://flak.tedunangst.com/post/pipelined-state-machine-corruption)
 * [2025-06-17, 12:29:51](https://news.ycombinator.com/item?id=44298327) - [Hack the Planet: 90s Hacker Culture vs. Today's AI Devs](https://gizvault.com/archives/hack-the-planet)
 * [2025-06-17, 12:17:02](https://news.ycombinator.com/item?id=44298211) - [What newspaper are you paying for these days?](https://news.ycombinator.com/item?id=44298211)
 * [2025-06-17, 12:03:01](https://news.ycombinator.com/item?id=44298087) - [Finding Dead Websites](https://www.marginalia.nu/log/a_122_dead_websites/)
