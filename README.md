@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-20, 08:07:34](https://news.ycombinator.com/item?id=44325617) - [I Will Do Anything to End Homelessness Except Build More Homes](https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes)
+* [2025-06-20, 10:32:21](https://news.ycombinator.com/item?id=44326388) - [How would a passing gravitational wave look or feel?](https://physics.stackexchange.com/questions/338912/how-would-a-passing-gravitational-wave-look-or-feel)
 * [2025-06-20, 08:05:55](https://news.ycombinator.com/item?id=44325611) - [Learn Makefiles](https://makefiletutorial.com/)
 * [2025-06-20, 08:02:22](https://news.ycombinator.com/item?id=44325596) - [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
 * [2025-06-20, 07:52:00](https://news.ycombinator.com/item?id=44325563) - [JavaScript broke the web (and called it progress)](https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/)
