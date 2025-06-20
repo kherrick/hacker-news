@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-20, 20:04:01](https://news.ycombinator.com/item?id=44331518) - [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
+* [2025-06-20, 19:28:50](https://news.ycombinator.com/item?id=44331125) - [It's True: The Jaws Shark Is Public Domain](https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/)
 * [2025-06-20, 19:20:13](https://news.ycombinator.com/item?id=44331045) - [EU Eyes Ditching Microsoft Azure for France's OVHcloud](https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/)
 * [2025-06-20, 18:37:53](https://news.ycombinator.com/item?id=44330613) - [Career advice, or something like it](https://brooker.co.za/blog/2025/06/20/career.html)
-* [2025-06-20, 18:29:46](https://news.ycombinator.com/item?id=44330532) - [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
 * [2025-06-20, 18:23:38](https://news.ycombinator.com/item?id=44330462) - [New dating for White Sands footprints confirms controversial theory](https://arstechnica.com/science/2025/06/study-confirms-white-sands-footprints-are-23000-years-old/)
 * [2025-06-20, 16:54:12](https://news.ycombinator.com/item?id=44329640) - [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 * [2025-06-20, 16:35:55](https://news.ycombinator.com/item?id=44329457) - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)

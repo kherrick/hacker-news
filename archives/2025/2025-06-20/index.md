@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
 * [2025-06-20, 20:04:01](https://news.ycombinator.com/item?id=44331518) - [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
+* [2025-06-20, 19:28:50](https://news.ycombinator.com/item?id=44331125) - [It's True: The Jaws Shark Is Public Domain](https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/)
 * [2025-06-20, 19:20:13](https://news.ycombinator.com/item?id=44331045) - [EU Eyes Ditching Microsoft Azure for France's OVHcloud](https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/)
 * [2025-06-20, 18:57:22](https://news.ycombinator.com/item?id=44330815) - [Ask HN: How can we keep (part of) the web human?](https://news.ycombinator.com/item?id=44330815)
 * [2025-06-20, 18:51:17](https://news.ycombinator.com/item?id=44330755) - [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)
