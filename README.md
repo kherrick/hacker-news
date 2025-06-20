@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-20, 10:32:21](https://news.ycombinator.com/item?id=44326388) - [How would a passing gravitational wave look or feel?](https://physics.stackexchange.com/questions/338912/how-would-a-passing-gravitational-wave-look-or-feel)
+* [2025-06-20, 08:07:34](https://news.ycombinator.com/item?id=44325617) - [I will do anything to end homelessness except build more homes](https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes)
 * [2025-06-20, 08:05:55](https://news.ycombinator.com/item?id=44325611) - [Learn Makefiles](https://makefiletutorial.com/)
 * [2025-06-20, 08:02:22](https://news.ycombinator.com/item?id=44325596) - [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
 * [2025-06-20, 07:00:18](https://news.ycombinator.com/item?id=44325362) - [Qfex (YC X25) – Founding Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
@@ -29,7 +30,6 @@
 * [2025-06-17, 01:58:59](https://news.ycombinator.com/item?id=44295096) - [Show HN: Sexprs – Lisp dialect written in Rust](https://github.com/gabrielfalcao/sexprs)
 * [2025-06-16, 20:09:17](https://news.ycombinator.com/item?id=44292965) - [The Ecosystem Dynamics That Can Make or Break an Invasion](https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/)
 * [2025-06-16, 11:33:45](https://news.ycombinator.com/item?id=44288595) - [Octobass](https://www.atlasobscura.com/places/octobass)
-* [2025-06-16, 09:38:00](https://news.ycombinator.com/item?id=44287926) - [DNA floating in the air tracks wildlife, viruses, even drugs](https://www.sciencedaily.com/releases/2025/06/250603114822.htm)
 
 ## [Archives](archives/index.md)
 
