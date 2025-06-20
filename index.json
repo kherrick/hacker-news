@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-20, 13:17:02",
+      "https://news.ycombinator.com/item?id=44327468"
+    ],
+    [
+      "Meta announces Oakley smart glasses",
+      "https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 12:52:42",
       "https://news.ycombinator.com/item?id=44327241"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2025-06-20, 12:14:31",
-      "https://news.ycombinator.com/item?id=44326965"
+      "2025-06-20, 12:36:44",
+      "https://news.ycombinator.com/item?id=44327109"
     ],
     [
-      "Makefile Style Guide",
-      "https://clarkgrubb.com/makefile-style-guide"
+      "BBC threatens AI firm with legal action over unauthorised content use",
+      "https://www.bbc.co.uk/news/articles/cy7ndgylzzmo"
     ]
   ],
   [
     [
-      "2025-06-20, 10:56:39",
-      "https://news.ycombinator.com/item?id=44326545"
+      "2025-06-20, 11:08:18",
+      "https://news.ycombinator.com/item?id=44326620"
     ],
     [
-      "Wayland Is Growing Up. and Now We Don't Have a Choice",
-      "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/"
+      "Show HN: SnapQL – Desktop app to query Postgres with AI",
+      "https://github.com/NickTikhonov/snap-ql"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2025-06-20, 03:03:05",
+      "https://news.ycombinator.com/item?id=44324378"
+    ],
+    [
+      "Show HN: Ts-SSH – SSH over Tailscale without running the daemon",
+      "https://github.com/derekg/ts-ssh"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 01:56:16",
       "https://news.ycombinator.com/item?id=44324084"
     ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=44323389"
     ],
     [
-      "Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy",
+      "Giant, all-seeing telescope is set to revolutionize astronomy",
       "https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-06-19, 13:38:57",
-      "https://news.ycombinator.com/item?id=44318588"
-    ],
-    [
-      "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
-      "https://github.com/krustowski/rou2exOS"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 00:33:21",
       "https://news.ycombinator.com/item?id=44314423"
     ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=44304107"
     ],
     [
-      "The Right Chemistry: How Jean Harlow became a 'platinum blond' (2020)",
+      "The Right Chemistry: How Jean Harlow became a ‘platinum blond’ (2020)",
       "https://montrealgazette.com/opinion/columnists/article249177.html"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Virtual cells",
       "https://udara.io/science/virtual-cells/"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 01:58:59",
-      "https://news.ycombinator.com/item?id=44295096"
-    ],
-    [
-      "Show HN: Sexprs – Lisp dialect written in Rust",
-      "https://github.com/gabrielfalcao/sexprs"
     ]
   ],
   [
