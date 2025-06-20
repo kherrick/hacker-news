@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-20, 22:26:52](https://news.ycombinator.com/item?id=44332699) - [AbsenceBench: Language Models Can't Tell What's Missing](https://arxiv.org/abs/2506.11440)
 * [2025-06-20, 21:18:42](https://news.ycombinator.com/item?id=44332206) - [Libraries are under-used. LLMs make this problem worse](https://makefizz.buzz/posts/libraries-llms)
 * [2025-06-20, 21:15:15](https://news.ycombinator.com/item?id=44332170) - [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
 * [2025-06-20, 20:04:01](https://news.ycombinator.com/item?id=44331518) - [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
@@ -22,7 +23,6 @@
 * [2025-06-20, 12:44:09](https://news.ycombinator.com/item?id=44327173) - [Klong: A Simple Array Language](https://t3x.org/klong/)
 * [2025-06-20, 11:08:18](https://news.ycombinator.com/item?id=44326620) - [Show HN: SnapQL – Desktop app to query Postgres with AI](https://github.com/NickTikhonov/snap-ql)
 * [2025-06-20, 09:52:50](https://news.ycombinator.com/item?id=44326145) - [Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor (2018)](https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor)
-* [2025-06-19, 00:33:21](https://news.ycombinator.com/item?id=44314423) - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * [2025-06-18, 19:08:57](https://news.ycombinator.com/item?id=44312501) - [Dancing Naked on the Head of a Pin: The Early History of Microphotography](https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin)
 * [2025-06-18, 07:25:16](https://news.ycombinator.com/item?id=44307445) - [Ancient termite poo reveals 120M-year-old secrets of Australia's forests](https://phys.org/news/2025-06-ancient-termite-poo-reveals-million.html)
 * [2025-06-17, 22:22:03](https://news.ycombinator.com/item?id=44304607) - [A Python-first data lakehouse](https://www.bauplanlabs.com/blog/everything-as-python)
