@@ -48,6 +48,7 @@
 * [2025-06-17, 15:46:59](https://news.ycombinator.com/item?id=44300524) - [Windows 10 EOL](https://solhsa.com/oldernews2025.html#WINDOWS-10-EOL)
 * [2025-06-17, 15:03:02](https://news.ycombinator.com/item?id=44300111) - [Icons of Aviation History: Boeing X-29](https://lflank.wordpress.com/2025/06/17/icons-of-aviation-history-boeing-x-29/)
 * [2025-06-17, 15:02:12](https://news.ycombinator.com/item?id=44300102) - [Honda Conducts Successful Launch and Landing of Experimental Reusable Rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
+* [2025-06-17, 15:01:14](https://news.ycombinator.com/item?id=44300095) - [Finding Peter Putnam](https://nautil.us/finding-peter-putnam-1218035/)
 * [2025-06-17, 14:58:14](https://news.ycombinator.com/item?id=44300064) - [Timescale Is Now TigerData](https://www.tigerdata.com/blog/timescale-becomes-tigerdata)
 * [2025-06-17, 14:55:32](https://news.ycombinator.com/item?id=44300027) - [The Collapse of Complex Societies](https://matthewbutterick.com/chron/the-collapse-of-complex-societies.html)
 * [2025-06-17, 14:55:23](https://news.ycombinator.com/item?id=44300026) - [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
