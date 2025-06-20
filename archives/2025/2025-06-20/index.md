@@ -8,6 +8,7 @@
 * [2025-06-20, 13:17:02](https://news.ycombinator.com/item?id=44327468) - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
 * [2025-06-20, 12:52:42](https://news.ycombinator.com/item?id=44327241) - [AI is going to hack Jira](https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira)
 * [2025-06-20, 12:36:44](https://news.ycombinator.com/item?id=44327109) - [BBC threatens AI firm with legal action over unauthorised content use](https://www.bbc.co.uk/news/articles/cy7ndgylzzmo)
+* [2025-06-20, 12:20:17](https://news.ycombinator.com/item?id=44326997) - [Telegram founder Durov says his 100 children will receive share of his estate](https://www.cnn.com/2025/06/20/tech/durov-100-children-inheritance-scli-intl)
 * [2025-06-20, 12:14:31](https://news.ycombinator.com/item?id=44326965) - [Makefile Style Guide](https://clarkgrubb.com/makefile-style-guide)
 * [2025-06-20, 12:02:02](https://news.ycombinator.com/item?id=44326890) - [Fast Rust Builds (2021)](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
 * [2025-06-20, 11:27:48](https://news.ycombinator.com/item?id=44326721) - [Our crisis is not loneliness but human beings becoming invisible](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
