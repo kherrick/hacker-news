@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-20, 08:07:34](https://news.ycombinator.com/item?id=44325617) - [I Will Do Anything to End Homelessness Except Build More Homes](https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes)
 * [2025-06-20, 08:02:22](https://news.ycombinator.com/item?id=44325596) - [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
 * [2025-06-20, 07:00:18](https://news.ycombinator.com/item?id=44325362) - [Qfex (YC X25) – Founding Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
 * [2025-06-20, 05:06:57](https://news.ycombinator.com/item?id=44324897) - [Cannabis scientists are trying to find a predictable, reliable product (2020)](https://www.nytimes.com/2020/04/01/magazine/cannabis-science.html)
@@ -15,7 +16,6 @@
 * [2025-06-19, 22:18:45](https://news.ycombinator.com/item?id=44323045) - [Literate programming tool for any language](https://github.com/zyedidia/Literate)
 * [2025-06-19, 19:20:54](https://news.ycombinator.com/item?id=44321672) - [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
 * [2025-06-19, 17:32:21](https://news.ycombinator.com/item?id=44320772) - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
-* [2025-06-19, 17:29:35](https://news.ycombinator.com/item?id=44320747) - [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
 * [2025-06-19, 16:11:46](https://news.ycombinator.com/item?id=44320001) - [How OpenElections uses LLMs](https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html)
 * [2025-06-19, 14:13:15](https://news.ycombinator.com/item?id=44318874) - [Curved-Crease Sculpture](https://erikdemaine.org/curved/)
 * [2025-06-19, 13:38:57](https://news.ycombinator.com/item?id=44318588) - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
