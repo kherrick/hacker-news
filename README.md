@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-20, 08:02:22](https://news.ycombinator.com/item?id=44325596) - [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
 * [2025-06-20, 07:00:18](https://news.ycombinator.com/item?id=44325362) - [Qfex (YC X25) – Founding Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
 * [2025-06-20, 05:06:57](https://news.ycombinator.com/item?id=44324897) - [Cannabis scientists are trying to find a predictable, reliable product (2020)](https://www.nytimes.com/2020/04/01/magazine/cannabis-science.html)
 * [2025-06-20, 03:55:03](https://news.ycombinator.com/item?id=44324592) - [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
@@ -23,7 +24,6 @@
 * [2025-06-19, 09:46:43](https://news.ycombinator.com/item?id=44317012) - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
 * [2025-06-19, 00:33:21](https://news.ycombinator.com/item?id=44314423) - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * [2025-06-17, 15:57:15](https://news.ycombinator.com/item?id=44300641) - [ELIZA Reanimated: Restoring the Mother of All Chatbots](https://www.computer.org/csdl/magazine/an/2025/02/11030922/27sQDLuL7Uc)
-* [2025-06-17, 13:51:20](https://news.ycombinator.com/item?id=44299233) - [Visual History of the Latin Alphabet](https://uclab.fh-potsdam.de/arete/en)
 * [2025-06-17, 12:33:44](https://news.ycombinator.com/item?id=44298360) - [Pipelined State Machine Corruption](https://flak.tedunangst.com/post/pipelined-state-machine-corruption)
 * [2025-06-17, 04:18:38](https://news.ycombinator.com/item?id=44295725) - [Virtual Cells](https://udara.io/science/virtual-cells/)
 * [2025-06-17, 01:58:59](https://news.ycombinator.com/item?id=44295096) - [Show HN: Sexprs – Lisp dialect written in Rust](https://github.com/gabrielfalcao/sexprs)
