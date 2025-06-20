@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-20, 14:53:02](https://news.ycombinator.com/item?id=44328282) - [Wanted: New Instruments to Fund BBNs](https://www.freaktakes.com/p/wanted-new-instruments-to-fund-bbns)
 * [2025-06-20, 13:21:31](https://news.ycombinator.com/item?id=44327501) - [NASA Scientists Find Ties Between Earth's Oxygen and Magnetic Field](https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/)
-* [2025-06-20, 13:17:02](https://news.ycombinator.com/item?id=44327468) - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
 * [2025-06-20, 12:52:42](https://news.ycombinator.com/item?id=44327241) - [AI is going to hack Jira](https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira)
 * [2025-06-20, 12:20:17](https://news.ycombinator.com/item?id=44326997) - [Telegram founder Durov says his 100 children will receive share of his estate](https://www.cnn.com/2025/06/20/tech/durov-100-children-inheritance-scli-intl)
 * [2025-06-20, 11:08:18](https://news.ycombinator.com/item?id=44326620) - [Show HN: SnapQL – Desktop app to query Postgres with AI](https://github.com/NickTikhonov/snap-ql)
