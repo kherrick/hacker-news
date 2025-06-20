@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 15:03:23](https://news.ycombinator.com/item?id=44328389) - [Malware-Laced GitHub Repos Found Masquerading as Developer Tools](https://klarrio.com/klarrio-discovers-large-scale-malware-network-on-github/)
+* [2025-06-20, 15:02:07](https://news.ycombinator.com/item?id=44328373) - [Rise in 'alert fatigue' risks phone users disabling news notifications](https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 14:53:02](https://news.ycombinator.com/item?id=44328282) - [Wanted: New Instruments to Fund BBNs](https://www.freaktakes.com/p/wanted-new-instruments-to-fund-bbns)
 * [2025-06-20, 13:53:34](https://news.ycombinator.com/item?id=44327759) - [Minimal auto-differentiation engine in Rust (for educational purposes)](https://github.com/e3ntity/nanograd)
