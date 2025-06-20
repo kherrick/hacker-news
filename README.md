@@ -7,7 +7,6 @@
 * [2025-06-20, 11:08:18](https://news.ycombinator.com/item?id=44326620) - [Show HN: SnapQL – Desktop app to query Postgres with AI](https://github.com/NickTikhonov/snap-ql)
 * [2025-06-20, 10:34:48](https://news.ycombinator.com/item?id=44326407) - [My A11y Journey](https://mjg59.dreamwidth.org/72379.html)
 * [2025-06-20, 09:52:50](https://news.ycombinator.com/item?id=44326145) - [Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor](https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor)
-* [2025-06-20, 08:05:55](https://news.ycombinator.com/item?id=44325611) - [Learn Makefiles](https://makefiletutorial.com/)
 * [2025-06-20, 07:00:18](https://news.ycombinator.com/item?id=44325362) - [Qfex (YC X25) – Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
 * [2025-06-20, 03:55:03](https://news.ycombinator.com/item?id=44324592) - [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
 * [2025-06-20, 03:22:59](https://news.ycombinator.com/item?id=44324457) - [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
@@ -28,6 +27,7 @@
 * [2025-06-17, 12:33:44](https://news.ycombinator.com/item?id=44298360) - [Pipelined State Machine Corruption](https://flak.tedunangst.com/post/pipelined-state-machine-corruption)
 * [2025-06-17, 04:18:38](https://news.ycombinator.com/item?id=44295725) - [Virtual cells](https://udara.io/science/virtual-cells/)
 * [2025-06-16, 20:09:17](https://news.ycombinator.com/item?id=44292965) - [The Ecosystem Dynamics That Can Make or Break an Invasion](https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/)
+* [2025-06-16, 16:28:10](https://news.ycombinator.com/item?id=44291052) - [A Brief, Incomplete, and Mostly Wrong History of Robotics](https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong)
 * [2025-06-16, 16:20:32](https://news.ycombinator.com/item?id=44290992) - [College baseball, venture capital, and the long maybe](https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/)
 * [2025-06-16, 11:33:45](https://news.ycombinator.com/item?id=44288595) - [Octobass](https://www.atlasobscura.com/places/octobass)
 

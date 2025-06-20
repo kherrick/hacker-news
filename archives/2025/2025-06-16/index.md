@@ -28,6 +28,7 @@
 * [2025-06-16, 17:02:33](https://news.ycombinator.com/item?id=44291322) - [Japan builds near $700M fund to lure foreign academic talent](https://www.theregister.com/2025/06/16/japan_has_a_yen_for/)
 * [2025-06-16, 16:46:55](https://news.ycombinator.com/item?id=44291204) - [Open-Source RISC-V: Energy Efficiency of Superscalar, Out-of-Order Execution](https://arxiv.org/abs/2505.24363)
 * [2025-06-16, 16:45:56](https://news.ycombinator.com/item?id=44291189) - [Sincerity Wins the War](https://www.wheresyoured.at/sic/)
+* [2025-06-16, 16:28:10](https://news.ycombinator.com/item?id=44291052) - [A Brief, Incomplete, and Mostly Wrong History of Robotics](https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong)
 * [2025-06-16, 16:24:33](https://news.ycombinator.com/item?id=44291026) - [The Renegade Richard Foreman](https://yalereview.org/article/jennifer-krasinski-richard-foreman)
 * [2025-06-16, 16:20:32](https://news.ycombinator.com/item?id=44290992) - [College Baseball, Venture Capital, and the Long Maybe](https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/)
 * [2025-06-16, 15:41:44](https://news.ycombinator.com/item?id=44290653) - [Darklang Goes Open Source](https://blog.darklang.com/darklang-goes-open-source/)
