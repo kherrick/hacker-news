@@ -38,6 +38,7 @@
 * [2025-06-17, 16:12:39](https://news.ycombinator.com/item?id=44300768) - [Western Oil: the US/UK-Backed Iranian Coup D'état of 1953](https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat)
 * [2025-06-17, 16:07:23](https://news.ycombinator.com/item?id=44300727) - [Tesla Robotaxi launch is a dangerous game of smoke and mirrors](https://electrek.co/2025/06/16/tesla-robotaxi-launch-dangerous-game-smoke-mirrors/)
 * [2025-06-17, 16:06:05](https://news.ycombinator.com/item?id=44300717) - [We're expanding our Gemini 2.5 family of models](https://blog.google/products/gemini/gemini-2-5-model-family-expands/)
+* [2025-06-17, 15:57:15](https://news.ycombinator.com/item?id=44300641) - [ELIZA Reanimated: Restoring the Mother of All Chatbots](https://www.computer.org/csdl/magazine/an/2025/02/11030922/27sQDLuL7Uc)
 * [2025-06-17, 15:49:10](https://news.ycombinator.com/item?id=44300554) - [CPU-Based Layout Design for Picker-to-Parts Pallet Warehouses](https://arxiv.org/abs/2506.04266)
 * [2025-06-17, 15:46:59](https://news.ycombinator.com/item?id=44300524) - [Windows 10 EOL](https://solhsa.com/oldernews2025.html#WINDOWS-10-EOL)
 * [2025-06-17, 15:03:02](https://news.ycombinator.com/item?id=44300111) - [Icons of Aviation History: Boeing X-29](https://lflank.wordpress.com/2025/06/17/icons-of-aviation-history-boeing-x-29/)
