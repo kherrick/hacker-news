@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-20, 15:03:23",
+      "https://news.ycombinator.com/item?id=44328389"
+    ],
+    [
+      "Malware-Laced GitHub Repos Found Masquerading as Developer Tools",
+      "https://klarrio.com/klarrio-discovers-large-scale-malware-network-on-github/"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 15:02:07",
+      "https://news.ycombinator.com/item?id=44328373"
+    ],
+    [
+      "Rise in 'alert fatigue' risks phone users disabling news notifications",
+      "https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 14:57:04",
       "https://news.ycombinator.com/item?id=44328326"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2025-06-20, 12:52:42",
-      "https://news.ycombinator.com/item?id=44327241"
-    ],
-    [
-      "AI is going to hack Jira",
-      "https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 12:44:09",
       "https://news.ycombinator.com/item?id=44327173"
     ],
     [
       "Klong: A Simple Array Language",
       "https://t3x.org/klong/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 12:20:17",
-      "https://news.ycombinator.com/item?id=44326997"
-    ],
-    [
-      "Telegram founder Durov says his 100 children will receive share of his estate",
-      "https://www.cnn.com/2025/06/20/tech/durov-100-children-inheritance-scli-intl"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=44323904"
     ],
     [
-      "Open source can't coordinate",
+      "Open source can't coordinate?",
       "https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html"
     ]
   ],
