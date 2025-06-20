@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 21:18:42](https://news.ycombinator.com/item?id=44332206) - [Libraries are under-used. LLMs make this problem worse](https://makefizz.buzz/posts/libraries-llms)
+* [2025-06-20, 21:15:15](https://news.ycombinator.com/item?id=44332170) - [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
 * [2025-06-20, 20:42:22](https://news.ycombinator.com/item?id=44331898) - [BYD is testing solid-state batteries in its Seal sedan with ~1200 miles of range](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
 * [2025-06-20, 20:04:01](https://news.ycombinator.com/item?id=44331518) - [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
+* [2025-06-20, 19:51:45](https://news.ycombinator.com/item?id=44331362) - [Harper – an open-source alternative to Grammarly](https://writewithharper.com)
 * [2025-06-20, 19:28:50](https://news.ycombinator.com/item?id=44331125) - [It's True: The Jaws Shark Is Public Domain](https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/)
 * [2025-06-20, 19:20:13](https://news.ycombinator.com/item?id=44331045) - [EU Eyes Ditching Microsoft Azure for France's OVHcloud](https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/)
 * [2025-06-20, 19:00:55](https://news.ycombinator.com/item?id=44330850) - [Jürgen Schmidhuber：the Father of Generative AI Without Turing Award](http://www.jazzyear.com/article_info.html?id=1352)
@@ -32,6 +35,7 @@
 * [2025-06-20, 15:02:07](https://news.ycombinator.com/item?id=44328373) - [Rise in 'alert fatigue' risks phone users disabling news notifications](https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 14:53:02](https://news.ycombinator.com/item?id=44328282) - [Wanted: New Instruments to Fund BBNs](https://www.freaktakes.com/p/wanted-new-instruments-to-fund-bbns)
+* [2025-06-20, 14:35:50](https://news.ycombinator.com/item?id=44328114) - [Show HN: I Built a Site That Curates Weird YouTube Rabbit Holes Daily](https://yourabbit.com)
 * [2025-06-20, 14:26:49](https://news.ycombinator.com/item?id=44328032) - [Congestion pricing in Manhattan is a predictable success](https://www.economist.com/united-states/2025/06/19/congestion-pricing-in-manhattan-is-a-predictable-success)
 * [2025-06-20, 13:53:34](https://news.ycombinator.com/item?id=44327759) - [Minimal auto-differentiation engine in Rust (for educational purposes)](https://github.com/e3ntity/nanograd)
 * [2025-06-20, 13:21:31](https://news.ycombinator.com/item?id=44327501) - [NASA Scientists Find Ties Between Earth's Oxygen and Magnetic Field](https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/)
