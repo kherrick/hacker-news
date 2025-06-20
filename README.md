@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-20, 22:26:52](https://news.ycombinator.com/item?id=44332699) - [AbsenceBench: Language Models Can't Tell What's Missing](https://arxiv.org/abs/2506.11440)
+* [2025-06-20, 21:20:46](https://news.ycombinator.com/item?id=44332221) - [AMD's Freshly-Baked MI350: An Interview with the Chief Architect](https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview)
 * [2025-06-20, 21:18:42](https://news.ycombinator.com/item?id=44332206) - [Libraries are under-used. LLMs make this problem worse](https://makefizz.buzz/posts/libraries-llms)
 * [2025-06-20, 21:15:15](https://news.ycombinator.com/item?id=44332170) - [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
 * [2025-06-20, 20:04:01](https://news.ycombinator.com/item?id=44331518) - [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
@@ -9,7 +10,6 @@
 * [2025-06-20, 19:28:50](https://news.ycombinator.com/item?id=44331125) - [It's True: The Jaws Shark Is Public Domain](https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/)
 * [2025-06-20, 19:00:55](https://news.ycombinator.com/item?id=44330850) - [Jürgen Schmidhuber：the Father of Generative AI Without Turing Award](http://www.jazzyear.com/article_info.html?id=1352)
 * [2025-06-20, 18:37:53](https://news.ycombinator.com/item?id=44330613) - [Career advice, or something like it](https://brooker.co.za/blog/2025/06/20/career.html)
-* [2025-06-20, 18:29:46](https://news.ycombinator.com/item?id=44330532) - [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
 * [2025-06-20, 18:23:38](https://news.ycombinator.com/item?id=44330462) - [New dating for White Sands footprints confirms controversial theory](https://arstechnica.com/science/2025/06/study-confirms-white-sands-footprints-are-23000-years-old/)
 * [2025-06-20, 16:54:12](https://news.ycombinator.com/item?id=44329640) - [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 * [2025-06-20, 16:50:14](https://news.ycombinator.com/item?id=44329600) - [Alpha Centauri](https://www.filfre.net/2025/06/alpha-centauri/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
 * [2025-06-20, 22:26:52](https://news.ycombinator.com/item?id=44332699) - [AbsenceBench: Language Models Can't Tell What's Missing](https://arxiv.org/abs/2506.11440)
+* [2025-06-20, 21:20:46](https://news.ycombinator.com/item?id=44332221) - [AMD's Freshly-Baked MI350: An Interview with the Chief Architect](https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview)
 * [2025-06-20, 21:18:42](https://news.ycombinator.com/item?id=44332206) - [Libraries are under-used. LLMs make this problem worse](https://makefizz.buzz/posts/libraries-llms)
 * [2025-06-20, 21:15:15](https://news.ycombinator.com/item?id=44332170) - [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
 * [2025-06-20, 20:42:22](https://news.ycombinator.com/item?id=44331898) - [BYD is testing solid-state batteries in its Seal sedan with ~1200 miles of range](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
