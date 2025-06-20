@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 17:53:28](https://news.ycombinator.com/item?id=44330155) - [US Army Appoints Palantir, Meta, OpenAI Execs as Lt. Colonels](https://thegrayzone.com/2025/06/18/palantir-execs-appointed-colonels/)
 * [2025-06-20, 17:01:35](https://news.ycombinator.com/item?id=44329712) - [YouTube's new anti-adblock measures](https://iter.ca/post/yt-adblock/)
+* [2025-06-20, 16:54:12](https://news.ycombinator.com/item?id=44329640) - [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 * [2025-06-20, 16:35:55](https://news.ycombinator.com/item?id=44329457) - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
 * [2025-06-20, 16:35:05](https://news.ycombinator.com/item?id=44329449) - [Cracovians: The Twisted Twins of Matrices](https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/)
 * [2025-06-20, 15:51:59](https://news.ycombinator.com/item?id=44328904) - [How to Design Programs 2nd Ed (2024)](https://htdp.org)

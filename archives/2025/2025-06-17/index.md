@@ -15,6 +15,7 @@
 * [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2025-06-17, 20:24:18](https://news.ycombinator.com/item?id=44303538) - [AI will shrink Amazon's workforce in the coming years, CEO Jassy says](https://www.cnbc.com/2025/06/17/ai-amazon-workforce-jassy.html)
 * [2025-06-17, 20:06:54](https://news.ycombinator.com/item?id=44303361) - [Bzip2 crate switches from C to 100% rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
+* [2025-06-17, 19:56:40](https://news.ycombinator.com/item?id=44303246) - [An analysis of recent multithreading improvements for a smoother game](https://dev.arma3.com/post/oprep-performance-optimizations-in-220)
 * [2025-06-17, 19:52:17](https://news.ycombinator.com/item?id=44303194) - [Painting with Math: A Gentle Study of Raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
 * [2025-06-17, 19:40:31](https://news.ycombinator.com/item?id=44303031) - [Texas electricity maximum renewables record](https://www.gridstatus.io/records/ercot?record=Maximum%20Renewables)
 * [2025-06-17, 19:39:26](https://news.ycombinator.com/item?id=44303021) - [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
