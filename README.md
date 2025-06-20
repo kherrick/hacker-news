@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-20, 20:42:22](https://news.ycombinator.com/item?id=44331898) - [BYD is testing solid-state batteries in its Seal sedan with ~1200 miles of range](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
 * [2025-06-20, 20:04:01](https://news.ycombinator.com/item?id=44331518) - [Show HN: Inspect and extract files from MSI installers directly in your browser](https://pymsi.readthedocs.io/en/latest/msi_viewer.html)
 * [2025-06-20, 19:28:50](https://news.ycombinator.com/item?id=44331125) - [It's True: The Jaws Shark Is Public Domain](https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/)
 * [2025-06-20, 19:20:13](https://news.ycombinator.com/item?id=44331045) - [EU Eyes Ditching Microsoft Azure for France's OVHcloud](https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/)
@@ -13,7 +14,6 @@
 * [2025-06-20, 15:51:59](https://news.ycombinator.com/item?id=44328904) - [How to Design Programs 2nd Ed (2024)](https://htdp.org)
 * [2025-06-20, 15:23:29](https://news.ycombinator.com/item?id=44328598) - [Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
-* [2025-06-20, 14:26:49](https://news.ycombinator.com/item?id=44328032) - [Congestion pricing in Manhattan is a predictable success](https://www.economist.com/united-states/2025/06/19/congestion-pricing-in-manhattan-is-a-predictable-success)
 * [2025-06-20, 13:53:34](https://news.ycombinator.com/item?id=44327759) - [Minimal auto-differentiation engine in Rust](https://github.com/e3ntity/nanograd)
 * [2025-06-20, 13:17:02](https://news.ycombinator.com/item?id=44327468) - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
 * [2025-06-20, 12:44:09](https://news.ycombinator.com/item?id=44327173) - [Klong: A Simple Array Language](https://t3x.org/klong/)
