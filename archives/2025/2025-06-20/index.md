@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 18:57:22](https://news.ycombinator.com/item?id=44330815) - [Ask HN: How can we keep (part of) the web human?](https://news.ycombinator.com/item?id=44330815)
 * [2025-06-20, 18:51:17](https://news.ycombinator.com/item?id=44330755) - [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)
 * [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 * [2025-06-20, 17:53:28](https://news.ycombinator.com/item?id=44330155) - [US Army Appoints Palantir, Meta, OpenAI Execs as Lt. Colonels](https://thegrayzone.com/2025/06/18/palantir-execs-appointed-colonels/)

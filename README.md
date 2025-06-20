@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-20, 18:57:22](https://news.ycombinator.com/item?id=44330815) - [Ask HN: How can we keep (part of) the web human?](https://news.ycombinator.com/item?id=44330815)
 * [2025-06-20, 18:51:17](https://news.ycombinator.com/item?id=44330755) - [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)
 * [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
-* [2025-06-20, 17:53:28](https://news.ycombinator.com/item?id=44330155) - [US Army Appoints Palantir, Meta, OpenAI Execs as Lt. Colonels](https://thegrayzone.com/2025/06/18/palantir-execs-appointed-colonels/)
 * [2025-06-20, 17:37:14](https://news.ycombinator.com/item?id=44330014) - [Billions of login credentials have been leaked online](https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed)
 * [2025-06-20, 16:54:12](https://news.ycombinator.com/item?id=44329640) - [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 * [2025-06-20, 16:35:55](https://news.ycombinator.com/item?id=44329457) - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
@@ -24,10 +24,10 @@
 * [2025-06-19, 19:20:54](https://news.ycombinator.com/item?id=44321672) - [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
 * [2025-06-18, 19:08:57](https://news.ycombinator.com/item?id=44312501) - [Dancing Naked on the Head of a Pin: The Early History of Microphotography](https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin)
 * [2025-06-17, 22:22:03](https://news.ycombinator.com/item?id=44304607) - [A Python-first data lakehouse](https://www.bauplanlabs.com/blog/everything-as-python)
+* [2025-06-17, 21:22:23](https://news.ycombinator.com/item?id=44304107) - [The Right Chemistry: How Jean Harlow became a ‘platinum blond’ (2020)](https://montrealgazette.com/opinion/columnists/article249177.html)
 * [2025-06-17, 19:56:40](https://news.ycombinator.com/item?id=44303246) - [An analysis of recent multithreading improvements for a smoother game](https://dev.arma3.com/post/oprep-performance-optimizations-in-220)
 * [2025-06-17, 19:37:49](https://news.ycombinator.com/item?id=44303011) - [Reworking Memory Management in CRuby [pdf]](https://blog.peterzhu.ca/assets/ismm_2025.pdf)
 * [2025-06-17, 15:57:15](https://news.ycombinator.com/item?id=44300641) - [ELIZA Reanimated: Restoring the Mother of All Chatbots](https://www.computer.org/csdl/magazine/an/2025/02/11030922/27sQDLuL7Uc)
-* [2025-06-17, 09:13:20](https://news.ycombinator.com/item?id=44297141) - [A deep-dive explainer on Ink and Switch's BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
 * [2025-06-16, 16:28:10](https://news.ycombinator.com/item?id=44291052) - [A Brief, Incomplete, and Mostly Wrong History of Robotics](https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong)
 * [2025-06-16, 16:20:32](https://news.ycombinator.com/item?id=44290992) - [College baseball, venture capital, and the long maybe](https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/)
 
