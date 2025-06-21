@@ -54,6 +54,7 @@
 * [2025-06-18, 10:18:42](https://news.ycombinator.com/item?id=44308475) - [I'm 16 and Trying to Save Coral Reefs with Open-Source Symbiotic Biotech](https://news.ycombinator.com/item?id=44308475)
 * [2025-06-18, 09:56:28](https://news.ycombinator.com/item?id=44308328) - [P-Hacking in Startups](https://briefer.cloud/blog/posts/p-hacking/)
 * [2025-06-18, 08:53:50](https://news.ycombinator.com/item?id=44308000) - [Sam Altman Says Meta Offered OpenAI Staffers $100M Bonuses](https://www.bloomberg.com/news/articles/2025-06-17/altman-says-meta-offered-openai-staffers-100-million-bonuses)
+* [2025-06-18, 08:50:30](https://news.ycombinator.com/item?id=44307976) - [Show HN: Luna Rail – treating night trains as a spatial optimization problem](https://luna-rail.com/en/home-2)
 * [2025-06-18, 08:49:42](https://news.ycombinator.com/item?id=44307972) - [Chromium Switching from Ninja to Siso](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
 * [2025-06-18, 08:37:12](https://news.ycombinator.com/item?id=44307892) - [No More Shading Languages: Compiling C++ to Vulkan Shaders [pdf]](https://xol.io/random/vcc-paper.pdf)
 * [2025-06-18, 07:58:18](https://news.ycombinator.com/item?id=44307629) - [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)

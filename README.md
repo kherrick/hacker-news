@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-21, 20:19:14](https://news.ycombinator.com/item?id=44340461) - [Researchers using the same data and hypothesis arrive at different conclusions (2022)](https://www.pnas.org/doi/10.1073/pnas.2203150119)
+* [2025-06-21, 23:20:29](https://news.ycombinator.com/item?id=44341462) - [Publishing a Docker Container for MS Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry)
 * [2025-06-21, 20:08:30](https://news.ycombinator.com/item?id=44340386) - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
 * [2025-06-21, 19:25:45](https://news.ycombinator.com/item?id=44340081) - [Show HN: To-Userscript: Chrome Extension to Userscript Converter](https://github.com/Explosion-Scratch/to-userscript)
 * [2025-06-21, 18:21:27](https://news.ycombinator.com/item?id=44339596) - [AI is ushering in a 'tiny team' era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
@@ -27,8 +27,8 @@
 * [2025-06-18, 12:13:15](https://news.ycombinator.com/item?id=44309191) - [Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge](https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/)
 * [2025-06-18, 11:35:12](https://news.ycombinator.com/item?id=44308953) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-18, 09:56:28](https://news.ycombinator.com/item?id=44308328) - [P-Hacking in Startups](https://briefer.cloud/blog/posts/p-hacking/)
+* [2025-06-18, 08:50:30](https://news.ycombinator.com/item?id=44307976) - [Show HN: Luna Rail – treating night trains as a spatial optimization problem](https://luna-rail.com/en/home-2)
 * [2025-06-18, 05:25:36](https://news.ycombinator.com/item?id=44306892) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
-* [2025-06-17, 20:46:35](https://news.ycombinator.com/item?id=44303767) - [Captain Cook's missing ship found after sinking 250 years ago](https://www.independent.co.uk/news/science/captain-cook-missing-ship-found-hms-endeavour-b2771322.html)
 * [2025-06-17, 13:03:36](https://news.ycombinator.com/item?id=44298666) - [Life as Slime](https://www.asimov.press/p/slime)
 
 ## [Archives](archives/index.md)
