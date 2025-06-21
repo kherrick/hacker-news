@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-20, 23:28:14",
-      "https://news.ycombinator.com/item?id=44333077"
+      "2025-06-21, 00:21:25",
+      "https://news.ycombinator.com/item?id=44333388"
     ],
     [
-      "AtomicOS – A security-first OS with real crypto and deterministic language",
-      "https://github.com/ipenas-cl/AtomicOs"
+      "Learn You Galois Fields for Great Good (00)",
+      "https://xorvoid.com/galois_fields_for_great_good_00.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 23:30:07",
+      "https://news.ycombinator.com/item?id=44333085"
+    ],
+    [
+      "Fix \"pulsing\" sensation when charging MacBook",
+      "https://old.reddit.com/r/apple/comments/1lgaw7m/psa_if_when_charging_your_macbook_you_get_a/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-06-20, 13:53:34",
-      "https://news.ycombinator.com/item?id=44327759"
-    ],
-    [
-      "Minimal auto-differentiation engine in Rust",
-      "https://github.com/e3ntity/nanograd"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 12:44:09",
       "https://news.ycombinator.com/item?id=44327173"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-06-18, 07:25:16",
-      "https://news.ycombinator.com/item?id=44307445"
-    ],
-    [
-      "Ancient termite poo reveals 120M-year-old secrets of Australia's forests",
-      "https://phys.org/news/2025-06-ancient-termite-poo-reveals-million.html"
-    ]
-  ],
-  [
-    [
       "2025-06-17, 22:22:03",
       "https://news.ycombinator.com/item?id=44304607"
     ],
     [
       "A Python-first data lakehouse",
       "https://www.bauplanlabs.com/blog/everything-as-python"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 19:56:40",
+      "https://news.ycombinator.com/item?id=44303246"
+    ],
+    [
+      "An analysis of recent multithreading improvements for a smoother game",
+      "https://dev.arma3.com/post/oprep-performance-optimizations-in-220"
     ]
   ],
   [
