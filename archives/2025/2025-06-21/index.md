@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 20:08:30](https://news.ycombinator.com/item?id=44340386) - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
 * [2025-06-21, 18:47:32](https://news.ycombinator.com/item?id=44339793) - [Legendary Sound Blaster ISA sound card gets a driver update 30 years later](https://www.tomshardware.com/pc-components/sound-cards/legendary-sound-blaster-isa-sound-card-gets-a-driver-update-30-years-later-patch-squashes-first-bug-report-after-25-years)
 * [2025-06-21, 18:21:27](https://news.ycombinator.com/item?id=44339596) - [AI Is Ushering in the 'Tiny Team' Era in Silicon Valley](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 * [2025-06-21, 17:32:40](https://news.ycombinator.com/item?id=44339227) - [Hyprland Premium](https://account.hypr.land/pricing)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
 * [2025-06-18, 23:59:47](https://news.ycombinator.com/item?id=44314289) - [MCP Specification – version 2025-06-18 changes](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
+* [2025-06-18, 23:49:18](https://news.ycombinator.com/item?id=44314234) - [Compact Representations for Arrays in Lua [pdf]](https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059)
 * [2025-06-18, 23:19:17](https://news.ycombinator.com/item?id=44314093) - [Student Visa Applicants Must Set Social-Media Accts to \"Public\" State Dept Says](https://www.wsj.com/politics/policy/student-visa-applicants-must-set-social-media-accounts-to-public-state-department-says-ff71bdd5)
 * [2025-06-18, 23:17:10](https://news.ycombinator.com/item?id=44314085) - [Show HN: Unregistry – \"docker push\" directly to servers without a registry](https://github.com/psviderski/unregistry)
 * [2025-06-18, 23:11:03](https://news.ycombinator.com/item?id=44314054) - [New US visa rules will force foreign students to unlock social media profiles](https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening)
