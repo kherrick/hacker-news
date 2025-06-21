@@ -2,9 +2,7 @@
 
 * [2025-06-21, 17:01:50](https://news.ycombinator.com/item?id=44339043) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-06-21, 16:02:24](https://news.ycombinator.com/item?id=44338562) - [Tell HN: Beware confidentiality agreements that act as lifetime non competes](https://news.ycombinator.com/item?id=44338562)
-* [2025-06-21, 15:01:54](https://news.ycombinator.com/item?id=44338122) - [US Congress is making more than 250M acres of public lands available for sale](https://www.wilderness.org/articles/blog/congress-making-more-250-million-acres-public-lands-available-sale)
 * [2025-06-21, 14:57:07](https://news.ycombinator.com/item?id=44338089) - [Behind the scenes: Redpanda Cloud's response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
-* [2025-06-21, 12:56:57](https://news.ycombinator.com/item?id=44337225) - [Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic](https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/)
 * [2025-06-21, 12:06:15](https://news.ycombinator.com/item?id=44336915) - [Microsoft suspended the email account of an ICC prosecutor at The Hague](https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html)
 * [2025-06-21, 10:39:21](https://news.ycombinator.com/item?id=44336381) - [Show HN: MMOndrian](https://mmondrian.com/)
 * [2025-06-21, 09:23:21](https://news.ycombinator.com/item?id=44336015) - [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
@@ -23,13 +21,15 @@
 * [2025-06-20, 16:35:55](https://news.ycombinator.com/item?id=44329457) - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
 * [2025-06-20, 15:23:29](https://news.ycombinator.com/item?id=44328598) - [Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
-* [2025-06-19, 16:59:08](https://news.ycombinator.com/item?id=44320440) - [The Art of Bijective Combinatorics](https://www.viennot.org/abjc.html)
+* [2025-06-19, 00:02:20](https://news.ycombinator.com/item?id=44314305) - [The Nyanja new PC-Engine/TurboGrafx 16-bit console game in development](https://sarupro.itch.io/thenyanja)
+* [2025-06-18, 15:56:46](https://news.ycombinator.com/item?id=44310996) - [Fundamental Problems of Lisp, the Cons Cell (2024)](http://xahlee.info/comp/lisp_cons_problem.html)
 * [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
 * [2025-06-18, 11:35:12](https://news.ycombinator.com/item?id=44308953) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-18, 05:25:36](https://news.ycombinator.com/item?id=44306892) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 * [2025-06-17, 20:46:35](https://news.ycombinator.com/item?id=44303767) - [Captain Cook's missing ship found after sinking 250 years ago](https://www.independent.co.uk/news/science/captain-cook-missing-ship-found-hms-endeavour-b2771322.html)
 * [2025-06-17, 19:01:13](https://news.ycombinator.com/item?id=44302623) - [Show HN: lambda-nat-proxy – Serverless proxy using Lambda and UDP NAT punching](https://github.com/dan-v/lambda-nat-proxy)
 * [2025-06-17, 13:03:36](https://news.ycombinator.com/item?id=44298666) - [Life as Slime](https://www.asimov.press/p/slime)
+* [2025-06-16, 16:20:32](https://news.ycombinator.com/item?id=44290992) - [College baseball, venture capital, and the long maybe](https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/)
 
 ## [Archives](archives/index.md)
 
