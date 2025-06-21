@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-21, 20:08:30",
+      "https://news.ycombinator.com/item?id=44340386"
+    ],
+    [
+      "LaborBerlin: State-of-the-Art 16mm Projector",
+      "https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 18:21:27",
       "https://news.ycombinator.com/item?id=44339596"
     ],
@@ -67,16 +77,6 @@
     [
       "Behind the scenes: Redpanda Cloud's response to the GCP outage",
       "https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 13:12:46",
-      "https://news.ycombinator.com/item?id=44337348"
-    ],
-    [
-      "Show HN: OSAI-Browser – A P2P Browser for Web3 and HTML Games",
-      "https://news.ycombinator.com/item?id=44337348"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-06-18, 23:49:18",
+      "https://news.ycombinator.com/item?id=44314234"
+    ],
+    [
+      "Compact Representations for Arrays in Lua [pdf]",
+      "https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 15:29:30",
       "https://news.ycombinator.com/item?id=44310763"
     ],
@@ -247,16 +257,6 @@
     [
       "Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge",
       "https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 11:35:12",
-      "https://news.ycombinator.com/item?id=44308953"
-    ],
-    [
-      "Unexpected security footguns in Go's parsers",
-      "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/"
     ]
   ],
   [
