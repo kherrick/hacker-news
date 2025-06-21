@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-06-21, 08:43:59",
-      "https://news.ycombinator.com/item?id=44335823"
-    ],
-    [
-      "War Powers Resolution",
-      "https://en.wikipedia.org/wiki/War_Powers_Resolution"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 07:39:28",
       "https://news.ycombinator.com/item?id=44335519"
     ],
@@ -287,6 +277,16 @@
     [
       "Chromium Switching from Ninja to Siso",
       "https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 14:28:30",
+      "https://news.ycombinator.com/item?id=44299680"
+    ],
+    [
+      "Verified dynamic programming with Σ-types in Lean",
+      "https://tannerduve.github.io/blog/memoization-sigma/"
     ]
   ],
   [
