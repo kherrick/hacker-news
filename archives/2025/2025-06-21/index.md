@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 14:14:54](https://news.ycombinator.com/item?id=44337764) - [Long Covid destroys teenage lungs in ways doctors never saw](https://rollingout.com/2025/06/03/long-covid-destroys-teenage-lungs/)
 * [2025-06-21, 13:18:09](https://news.ycombinator.com/item?id=44337383) - [A White Nationalist Wrote a Law Paper Promoting Racist Views. Won Him an Award](https://www.nytimes.com/2025/06/21/us/white-supremacist-university-of-florida-paper.html)
 * [2025-06-21, 12:56:57](https://news.ycombinator.com/item?id=44337225) - [Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic](https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/)
 * [2025-06-21, 09:23:21](https://news.ycombinator.com/item?id=44336015) - [ClickHouse scales beyond 100 petabytes of logs](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
