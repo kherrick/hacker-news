@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-21, 06:23:01](https://news.ycombinator.com/item?id=44335038) - [Sega mistakenly reveals sales numbers popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
+* [2025-06-21, 06:23:01](https://news.ycombinator.com/item?id=44335038) - [Sega mistakenly reveals sales numbers of popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
 * [2025-06-21, 06:07:48](https://news.ycombinator.com/item?id=44334963) - [People instantly decide whether to trust a product based on design](https://www.andrewcoyle.com/blog/beauty-is-objective)
 * [2025-06-21, 05:21:49](https://news.ycombinator.com/item?id=44334743) - [Signal – An Ethical Replacement for WhatsApp](https://greenstarsproject.org/2025/06/15/signal-an-ethical-replacement-for-whatsapp/)
 * [2025-06-21, 04:19:56](https://news.ycombinator.com/item?id=44334472) - [The Cult of Personality and Its Consequences](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences)
