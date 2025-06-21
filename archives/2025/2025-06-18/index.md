@@ -42,6 +42,7 @@
 * [2025-06-18, 12:15:56](https://news.ycombinator.com/item?id=44309208) - [Proba-3's first artificial solar eclipse](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse)
 * [2025-06-18, 12:00:50](https://news.ycombinator.com/item?id=44309110) - [Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
 * [2025-06-18, 11:40:05](https://news.ycombinator.com/item?id=44308984) - [The Bethesda Declaration](https://www.science.org/content/blog-post/bethesda-declaration)
+* [2025-06-18, 11:35:12](https://news.ycombinator.com/item?id=44308953) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-18, 10:53:59](https://news.ycombinator.com/item?id=44308711) - [Is There a Half-Life for the Success Rates of AI Agents?](https://www.tobyord.com/writing/half-life)
 * [2025-06-18, 10:31:44](https://news.ycombinator.com/item?id=44308558) - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
 * [2025-06-18, 10:18:42](https://news.ycombinator.com/item?id=44308475) - [I'm 16 and Trying to Save Coral Reefs with Open-Source Symbiotic Biotech](https://news.ycombinator.com/item?id=44308475)
