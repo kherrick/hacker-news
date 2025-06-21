@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-06-21, 14:57:07",
-      "https://news.ycombinator.com/item?id=44338089"
-    ],
-    [
-      "Behind the scenes: Redpanda Cloud's response to the GCP outage",
-      "https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 12:06:15",
       "https://news.ycombinator.com/item?id=44336915"
     ],
@@ -287,6 +277,16 @@
     [
       "Captain Cook's missing ship found after sinking 250 years ago",
       "https://www.independent.co.uk/news/science/captain-cook-missing-ship-found-hms-endeavour-b2771322.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 19:01:13",
+      "https://news.ycombinator.com/item?id=44302623"
+    ],
+    [
+      "Show HN: lambda-nat-proxy – Serverless proxy using Lambda and UDP NAT punching",
+      "https://github.com/dan-v/lambda-nat-proxy"
     ]
   ],
   [
