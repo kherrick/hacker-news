@@ -29,6 +29,7 @@
 * [2025-06-19, 12:00:54](https://news.ycombinator.com/item?id=44317825) - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 * [2025-06-19, 11:43:58](https://news.ycombinator.com/item?id=44317709) - [Brain activity much lower when using AI chatbots, MIT boffins find](https://www.theregister.com/2025/06/18/is_ai_changing_our_brains/)
 * [2025-06-19, 11:37:30](https://news.ycombinator.com/item?id=44317663) - [How Close to Black Mirror Are We?](https://www.howclosetoblackmirror.com/)
+* [2025-06-19, 10:40:01](https://news.ycombinator.com/item?id=44317291) - [Show HN: A color name API that maps hex to the closest human-readable name](https://meodai.github.io/color-name-api/)
 * [2025-06-19, 10:22:06](https://news.ycombinator.com/item?id=44317180) - [Guess I'm a Rationalist Now](https://scottaaronson.blog/?p=8908)
 * [2025-06-19, 09:54:32](https://news.ycombinator.com/item?id=44317041) - [A Deep Dive into OpenAPI](https://www.deployhq.com/blog/unlocking-seamless-development-and-collaboration-a-deep-dive-into-openapi)
 * [2025-06-19, 09:46:43](https://news.ycombinator.com/item?id=44317012) - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
