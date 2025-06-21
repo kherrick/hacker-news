@@ -62,6 +62,7 @@
 * [2025-06-18, 05:25:36](https://news.ycombinator.com/item?id=44306892) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 * [2025-06-18, 05:16:12](https://news.ycombinator.com/item?id=44306859) - [Make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 * [2025-06-18, 04:58:53](https://news.ycombinator.com/item?id=44306792) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
+* [2025-06-18, 04:19:20](https://news.ycombinator.com/item?id=44306624) - [Every Google &udm=? in the world (2024)](https://serpapi.com/blog/every-google-udm-in-the-world/)
 * [2025-06-18, 03:41:44](https://news.ycombinator.com/item?id=44306462) - [OpenSERDES – Open Hardware Serializer/Deserializer (SerDes) in Verilog](https://github.com/SparcLab/OpenSERDES)
 * [2025-06-18, 02:07:19](https://news.ycombinator.com/item?id=44306041) - [Show HN: Lstr – A modern, interactive tree command written in Rust](https://github.com/bgreenwell/lstr)
 * [2025-06-18, 00:56:42](https://news.ycombinator.com/item?id=44305636) - [Show HN: Rulebook AI – rules and memory manager for AI coding IDEs](https://github.com/botingw/rulebook-ai)
