@@ -39,6 +39,7 @@
 * [2025-06-19, 04:20:52](https://news.ycombinator.com/item?id=44315409) - [Death to WYSIWYG!](https://ratfactor.com/htmlwarden/death-to-wysiwyg)
 * [2025-06-19, 04:18:31](https://news.ycombinator.com/item?id=44315400) - [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
 * [2025-06-19, 04:02:27](https://news.ycombinator.com/item?id=44315321) - [Elliptic Curves as Art](https://elliptic-curves.art/)
+* [2025-06-19, 03:28:29](https://news.ycombinator.com/item?id=44315188) - [Mathematicians Hunting Prime Numbers Discover Infinite New Pattern](https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/)
 * [2025-06-19, 03:27:39](https://news.ycombinator.com/item?id=44315185) - [Dr. Demento Announces Retirement After 55-Year Radio Career](https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/)
 * [2025-06-19, 02:42:15](https://news.ycombinator.com/item?id=44314977) - [The Zed Debugger Is Here](https://zed.dev/blog/debugger)
 * [2025-06-19, 01:50:47](https://news.ycombinator.com/item?id=44314759) - [TI to invest $60B to manufacture foundational semiconductors in the U.S.](https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html)
