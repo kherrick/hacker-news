@@ -26,6 +26,7 @@
 * [2025-06-17, 19:12:23](https://news.ycombinator.com/item?id=44302752) - [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
 * [2025-06-17, 19:07:42](https://news.ycombinator.com/item?id=44302704) - [From SDR to 'Fake HDR': Mario Kart World on Switch 2](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
 * [2025-06-17, 19:03:23](https://news.ycombinator.com/item?id=44302650) - [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
+* [2025-06-17, 19:01:13](https://news.ycombinator.com/item?id=44302623) - [Show HN: lambda-nat-proxy – Serverless proxy using Lambda and UDP NAT punching](https://github.com/dan-v/lambda-nat-proxy)
 * [2025-06-17, 18:51:17](https://news.ycombinator.com/item?id=44302518) - [OpenAI weighs \"nuclear option\" of antitrust complaint against Microsoft](https://arstechnica.com/ai/2025/06/openai-weighs-nuclear-option-of-antitrust-complaint-against-microsoft/)
 * [2025-06-17, 18:47:55](https://news.ycombinator.com/item?id=44302461) - [New York City mayoral candidate Brad Lander arrested at immigration court](https://www.theguardian.com/us-news/2025/jun/17/brad-lander-arrested-new-york-city-comptroller)
 * [2025-06-17, 18:44:14](https://news.ycombinator.com/item?id=44302414) - [Astronomers Just Solved the Mystery of the Universe's Missing Matter](https://gizmodo.com/astronomers-just-solved-the-mystery-of-the-universes-missing-matter-2000616320)
