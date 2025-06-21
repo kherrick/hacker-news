@@ -31,6 +31,7 @@
 * [2025-06-18, 15:43:01](https://news.ycombinator.com/item?id=44310877) - [Show HN: I made an app that lets you save audio to your Cameral Roll](https://justsendrecord.com)
 * [2025-06-18, 15:40:12](https://news.ycombinator.com/item?id=44310851) - [Revisiting Minsky's Society of Mind in 2025](https://suthakamal.substack.com/p/revisiting-minskys-society-of-mind)
 * [2025-06-18, 15:38:15](https://news.ycombinator.com/item?id=44310834) - [This AI Agent Should Have Been a SQL Query](https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/)
+* [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
 * [2025-06-18, 15:20:05](https://news.ycombinator.com/item?id=44310678) - [Show HN: I built a tensor library from scratch in C++/CUDA](https://github.com/nirw4nna/dsc)
 * [2025-06-18, 15:09:34](https://news.ycombinator.com/item?id=44310583) - [Framework Laptop 12: I'm excited to see what the 2nd generation looks like](https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/)
 * [2025-06-18, 14:01:33](https://news.ycombinator.com/item?id=44309984) - [Show HN: MediaCMS v6 – open-source video platform with trimmer and RBAC](https://github.com/mediacms-io/mediacms)
