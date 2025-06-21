@@ -2,8 +2,6 @@
 
 * [2025-06-21, 06:23:01](https://news.ycombinator.com/item?id=44335038) - [Sega mistakenly reveals sales numbers of popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
 * [2025-06-21, 06:07:48](https://news.ycombinator.com/item?id=44334963) - [People instantly decide whether to trust a product based on design](https://www.andrewcoyle.com/blog/beauty-is-objective)
-* [2025-06-21, 05:21:49](https://news.ycombinator.com/item?id=44334743) - [Signal – An Ethical Replacement for WhatsApp](https://greenstarsproject.org/2025/06/15/signal-an-ethical-replacement-for-whatsapp/)
-* [2025-06-21, 04:19:56](https://news.ycombinator.com/item?id=44334472) - [The Cult of Personality and Its Consequences](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences)
 * [2025-06-21, 04:04:56](https://news.ycombinator.com/item?id=44334403) - [Augmented Vertex Block Descent (AVBD)](https://graphics.cs.utah.edu/research/projects/avbd/)
 * [2025-06-21, 03:06:42](https://news.ycombinator.com/item?id=44334167) - [Samsung Embeds IronSource Spyware App on Phones Across WANA](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/)
 * [2025-06-21, 02:19:47](https://news.ycombinator.com/item?id=44333960) - [Tiny Undervalued Hardware Companions (2024)](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
@@ -25,7 +23,9 @@
 * [2025-06-19, 12:11:34](https://news.ycombinator.com/item?id=44317900) - [Rose-Gold-Tinted Liquid Glasses](https://lmnt.me/blog/rose-gold-tinted-liquid-glasses.html)
 * [2025-06-19, 10:40:01](https://news.ycombinator.com/item?id=44317291) - [Show HN: A color name API that maps hex to the closest human-readable name](https://meodai.github.io/color-name-api/)
 * [2025-06-19, 03:28:29](https://news.ycombinator.com/item?id=44315188) - [Mathematicians Hunting Prime Numbers Discover Infinite New Pattern](https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/)
+* [2025-06-18, 19:08:57](https://news.ycombinator.com/item?id=44312501) - [Dancing Naked on the Head of a Pin: The Early History of Microphotography](https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin)
 * [2025-06-18, 08:49:42](https://news.ycombinator.com/item?id=44307972) - [Chromium Switching from Ninja to Siso](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
+* [2025-06-18, 04:19:20](https://news.ycombinator.com/item?id=44306624) - [Every Google &udm=? in the world (2024)](https://serpapi.com/blog/every-google-udm-in-the-world/)
 * [2025-06-17, 22:22:03](https://news.ycombinator.com/item?id=44304607) - [A Python-first data lakehouse](https://www.bauplanlabs.com/blog/everything-as-python)
 * [2025-06-17, 14:28:30](https://news.ycombinator.com/item?id=44299680) - [Verified dynamic programming with Σ-types in Lean](https://tannerduve.github.io/blog/memoization-sigma/)
 * [2025-06-16, 16:28:10](https://news.ycombinator.com/item?id=44291052) - [A brief, incomplete, and mostly wrong history of robotics](https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong)
