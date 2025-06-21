@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 22:28:48](https://news.ycombinator.com/item?id=44341199) - [I went for 1,200 jobs but got only two interviews](https://www.bbc.co.uk/news/articles/c9397lre3lyo)
 * [2025-06-21, 21:16:44](https://news.ycombinator.com/item?id=44340790) - [Apple typewriter ban memo](http://writingball.blogspot.com/2020/02/the-infamous-apple-typewriter-memo-is.html)
 * [2025-06-21, 20:19:14](https://news.ycombinator.com/item?id=44340461) - [Researchers using the same data and hypothesis arrive at different conclusions](https://www.pnas.org/doi/10.1073/pnas.2203150119)
 * [2025-06-21, 20:17:26](https://news.ycombinator.com/item?id=44340452) - [You say 'silo' as if it were a bad thing](https://hollisrobbinsanecdotal.substack.com/p/you-say-silo-as-if-it-were-a-bad)
 * [2025-06-21, 20:08:30](https://news.ycombinator.com/item?id=44340386) - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
+* [2025-06-21, 19:25:45](https://news.ycombinator.com/item?id=44340081) - [Show HN: To-Userscript: Chrome Extension to Userscript Converter](https://github.com/Explosion-Scratch/to-userscript)
 * [2025-06-21, 18:47:32](https://news.ycombinator.com/item?id=44339793) - [Legendary Sound Blaster ISA sound card gets a driver update 30 years later](https://www.tomshardware.com/pc-components/sound-cards/legendary-sound-blaster-isa-sound-card-gets-a-driver-update-30-years-later-patch-squashes-first-bug-report-after-25-years)
 * [2025-06-21, 18:21:27](https://news.ycombinator.com/item?id=44339596) - [AI Is Ushering in the 'Tiny Team' Era in Silicon Valley](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 * [2025-06-21, 17:32:40](https://news.ycombinator.com/item?id=44339227) - [Hyprland Premium](https://account.hypr.land/pricing)
