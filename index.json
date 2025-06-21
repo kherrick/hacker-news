@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-06-21, 03:06:42",
+      "https://news.ycombinator.com/item?id=44334167"
+    ],
+    [
+      "Samsung Embeds IronSource Spyware App on Phones Across WANA",
+      "https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 02:19:47",
+      "https://news.ycombinator.com/item?id=44333960"
+    ],
+    [
+      "Tiny Undervalued Hardware Companions (2024)",
+      "https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 02:13:47",
+      "https://news.ycombinator.com/item?id=44333921"
+    ],
+    [
+      "Texas Sheriffs Crack Bitcoin ATM with Power Tools to Retrieve $32,000",
+      "https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 00:21:25",
       "https://news.ycombinator.com/item?id=44333388"
     ],
     [
       "Learn You Galois Fields for Great Good (00)",
       "https://xorvoid.com/galois_fields_for_great_good_00.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 23:30:07",
-      "https://news.ycombinator.com/item?id=44333085"
-    ],
-    [
-      "Fix \"pulsing\" sensation when charging MacBook",
-      "https://old.reddit.com/r/apple/comments/1lgaw7m/psa_if_when_charging_your_macbook_you_get_a/"
     ]
   ],
   [
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2025-06-20, 12:44:09",
-      "https://news.ycombinator.com/item?id=44327173"
-    ],
-    [
-      "Klong: A Simple Array Language",
-      "https://t3x.org/klong/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 11:08:18",
-      "https://news.ycombinator.com/item?id=44326620"
-    ],
-    [
-      "Show HN: SnapQL – Desktop app to query Postgres with AI",
-      "https://github.com/NickTikhonov/snap-ql"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 09:52:50",
       "https://news.ycombinator.com/item?id=44326145"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-06-18, 07:14:28",
+      "https://news.ycombinator.com/item?id=44307388"
+    ],
+    [
+      "I Dropped the Production Database on a Friday Night",
+      "https://vince.beehiiv.com/p/how-i-dropped-the-production-database-on-a-friday-night"
+    ]
+  ],
+  [
+    [
       "2025-06-17, 22:22:03",
       "https://news.ycombinator.com/item?id=44304607"
     ],
     [
       "A Python-first data lakehouse",
       "https://www.bauplanlabs.com/blog/everything-as-python"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 19:56:40",
-      "https://news.ycombinator.com/item?id=44303246"
-    ],
-    [
-      "An analysis of recent multithreading improvements for a smoother game",
-      "https://dev.arma3.com/post/oprep-performance-optimizations-in-220"
     ]
   ],
   [
