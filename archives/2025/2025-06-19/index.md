@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 23:48:20](https://news.ycombinator.com/item?id=44323562) - [Axolotls May Hold the Key to Regrowing Limbs](https://www.smithsonianmag.com/smart-news/axolotls-may-hold-the-key-to-regrowing-limbs-and-scientists-are-unraveling-their-secrets-to-help-humans-do-the-same-180986781/)
 * [2025-06-19, 23:21:40](https://news.ycombinator.com/item?id=44323411) - [Sunsonic 986-II. A Thai Famicom clone with keyboard and mini CRT built-in](https://mastodon.gamedev.place/@pikuma/114711138512697712)
 * [2025-06-19, 23:17:39](https://news.ycombinator.com/item?id=44323389) - [Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy)
 * [2025-06-19, 22:49:49](https://news.ycombinator.com/item?id=44323253) - [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
