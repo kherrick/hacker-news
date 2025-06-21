@@ -2,7 +2,6 @@
 
 * [2025-06-21, 12:56:57](https://news.ycombinator.com/item?id=44337225) - [Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic](https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/)
 * [2025-06-21, 09:23:21](https://news.ycombinator.com/item?id=44336015) - [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
-* [2025-06-21, 09:02:29](https://news.ycombinator.com/item?id=44335920) - [Show HN: We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible](https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc)
 * [2025-06-21, 09:00:01](https://news.ycombinator.com/item?id=44335907) - [Cosmoe: BeOS Class Library on Top of Wayland](https://cosmoe.org/index.html)
 * [2025-06-21, 07:39:28](https://news.ycombinator.com/item?id=44335519) - [Agentic Misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment)
 * [2025-06-21, 07:38:42](https://news.ycombinator.com/item?id=44335517) - [A new blood type discovered in France: \"Gwada negative\", a global exception](https://entrevue.fr/en/un-groupe-sanguin-inedit-decouvert-en-france-gwada-negatif-une-exception-mondiale/)
@@ -22,6 +21,7 @@
 * [2025-06-20, 15:23:29](https://news.ycombinator.com/item?id=44328598) - [Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-19, 22:23:52](https://news.ycombinator.com/item?id=44323083) - [On memes, mimetic desire, and why it's always that deep](https://caitlynclark.substack.com/p/deeping-it-manifesto)
+* [2025-06-19, 13:47:17](https://news.ycombinator.com/item?id=44318655) - [Show HN: EchoStream – A Local AI Agent That Lives on Your iPhone](https://news.ycombinator.com/item?id=44318655)
 * [2025-06-19, 10:40:01](https://news.ycombinator.com/item?id=44317291) - [Show HN: A color name API that maps hex to the closest human-readable name](https://meodai.github.io/color-name-api/)
 * [2025-06-19, 03:28:29](https://news.ycombinator.com/item?id=44315188) - [Mathematicians hunting prime numbers discover infinite new pattern](https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/)
 * [2025-06-18, 11:35:12](https://news.ycombinator.com/item?id=44308953) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)

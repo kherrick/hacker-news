@@ -23,6 +23,7 @@
 * [2025-06-19, 15:27:44](https://news.ycombinator.com/item?id=44319585) - [Geochronology supports LGM age for human tracks at White Sands, New Mexico](https://www.science.org/doi/10.1126/sciadv.adv4951)
 * [2025-06-19, 14:42:03](https://news.ycombinator.com/item?id=44319144) - [Posit floating point numbers: thin triangles and other tricks (2019)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
 * [2025-06-19, 14:13:15](https://news.ycombinator.com/item?id=44318874) - [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
+* [2025-06-19, 13:47:17](https://news.ycombinator.com/item?id=44318655) - [Show HN: EchoStream – A Local AI Agent That Lives on Your iPhone](https://news.ycombinator.com/item?id=44318655)
 * [2025-06-19, 13:38:57](https://news.ycombinator.com/item?id=44318588) - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
 * [2025-06-19, 13:14:32](https://news.ycombinator.com/item?id=44318420) - [Microsoft wants you to buy a new computer. Make your current one secure again?](https://endof10.org/)
 * [2025-06-19, 13:01:16](https://news.ycombinator.com/item?id=44318305) - [The Scheme That Broke the Texas Lottery](https://www.newyorker.com/news/letter-from-the-southwest/the-scheme-that-broke-the-texas-lottery)
