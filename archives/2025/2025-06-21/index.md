@@ -9,6 +9,7 @@
 * [2025-06-21, 08:43:59](https://news.ycombinator.com/item?id=44335823) - [War Powers Resolution](https://en.wikipedia.org/wiki/War_Powers_Resolution)
 * [2025-06-21, 08:10:50](https://news.ycombinator.com/item?id=44335664) - [uBlock Origin Lite Beta for Safari iOS](https://testflight.apple.com/join/JjTcThrV)
 * [2025-06-21, 07:39:28](https://news.ycombinator.com/item?id=44335519) - [Agentic Misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment)
+* [2025-06-21, 07:38:42](https://news.ycombinator.com/item?id=44335517) - [A new blood type discovered in France: \"Gwada negative\", a global exception](https://entrevue.fr/en/un-groupe-sanguin-inedit-decouvert-en-france-gwada-negatif-une-exception-mondiale/)
 * [2025-06-21, 06:29:00](https://news.ycombinator.com/item?id=44335065) - [Delta Chat is a decentralized and secure messenger app](https://delta.chat/en/)
 * [2025-06-21, 06:23:01](https://news.ycombinator.com/item?id=44335038) - [Sega mistakenly reveals sales numbers popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
 * [2025-06-21, 06:07:48](https://news.ycombinator.com/item?id=44334963) - [People instantly decide whether to trust a product based on design](https://www.andrewcoyle.com/blog/beauty-is-objective)
