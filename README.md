@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-21, 22:28:48](https://news.ycombinator.com/item?id=44341199) - [I went for 1,200 jobs but got only two interviews](https://www.bbc.co.uk/news/articles/c9397lre3lyo)
 * [2025-06-21, 21:16:44](https://news.ycombinator.com/item?id=44340790) - [Apple typewriter ban memo](http://writingball.blogspot.com/2020/02/the-infamous-apple-typewriter-memo-is.html)
 * [2025-06-21, 20:19:14](https://news.ycombinator.com/item?id=44340461) - [Researchers using the same data and hypothesis arrive at different conclusions](https://www.pnas.org/doi/10.1073/pnas.2203150119)
 * [2025-06-21, 20:08:30](https://news.ycombinator.com/item?id=44340386) - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
@@ -27,6 +26,7 @@
 * [2025-06-18, 16:43:26](https://news.ycombinator.com/item?id=44311393) - [The Brute Squad](https://sourcegraph.com/blog/the-brute-squad)
 * [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
 * [2025-06-18, 12:13:15](https://news.ycombinator.com/item?id=44309191) - [Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge](https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/)
+* [2025-06-18, 11:35:12](https://news.ycombinator.com/item?id=44308953) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-18, 05:25:36](https://news.ycombinator.com/item?id=44306892) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 * [2025-06-17, 20:46:35](https://news.ycombinator.com/item?id=44303767) - [Captain Cook's missing ship found after sinking 250 years ago](https://www.independent.co.uk/news/science/captain-cook-missing-ship-found-hms-endeavour-b2771322.html)
 * [2025-06-17, 13:03:36](https://news.ycombinator.com/item?id=44298666) - [Life as Slime](https://www.asimov.press/p/slime)
