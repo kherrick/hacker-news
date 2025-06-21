@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-06-19, 10:40:01",
+      "https://news.ycombinator.com/item?id=44317291"
+    ],
+    [
+      "Show HN: A color name API that maps hex to the closest human-readable name",
+      "https://meodai.github.io/color-name-api/"
+    ]
+  ],
+  [
+    [
       "2025-06-19, 03:28:29",
       "https://news.ycombinator.com/item?id=44315188"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2025-06-18, 08:37:12",
-      "https://news.ycombinator.com/item?id=44307892"
+      "2025-06-17, 22:22:03",
+      "https://news.ycombinator.com/item?id=44304607"
     ],
     [
-      "No More Shading Languages: Compiling C++ to Vulkan Shaders [pdf]",
-      "https://xol.io/random/vcc-paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 04:19:20",
-      "https://news.ycombinator.com/item?id=44306624"
-    ],
-    [
-      "Every Google &udm=? in the world (2024)",
-      "https://serpapi.com/blog/every-google-udm-in-the-world/"
+      "A Python-first data lakehouse",
+      "https://www.bauplanlabs.com/blog/everything-as-python"
     ]
   ],
   [
