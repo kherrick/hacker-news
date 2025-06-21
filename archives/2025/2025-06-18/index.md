@@ -24,6 +24,7 @@
 * [2025-06-18, 17:00:36](https://news.ycombinator.com/item?id=44311538) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
 * [2025-06-18, 16:56:18](https://news.ycombinator.com/item?id=44311509) - [Andrej Karpathy's YC AI SUS talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)
 * [2025-06-18, 16:44:53](https://news.ycombinator.com/item?id=44311404) - [Show HN: Delve, an open source (AGPL) enterprise-grade data analytics platform](https://github.com/iLoveTux/delve)
+* [2025-06-18, 16:43:26](https://news.ycombinator.com/item?id=44311393) - [The Brute Squad](https://sourcegraph.com/blog/the-brute-squad)
 * [2025-06-18, 16:40:03](https://news.ycombinator.com/item?id=44311363) - [The Great Decoupling (Or Why Your Clicks Are Down and Impressions Up)](https://ahrefs.com/blog/the-great-decoupling/)
 * [2025-06-18, 16:26:35](https://news.ycombinator.com/item?id=44311241) - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 * [2025-06-18, 16:23:46](https://news.ycombinator.com/item?id=44311217) - [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices)
