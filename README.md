@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-21, 07:39:28](https://news.ycombinator.com/item?id=44335519) - [Agentic Misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment)
 * [2025-06-21, 06:23:01](https://news.ycombinator.com/item?id=44335038) - [Sega mistakenly reveals sales numbers of popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
 * [2025-06-21, 06:07:48](https://news.ycombinator.com/item?id=44334963) - [People instantly decide whether to trust a product based on design](https://www.andrewcoyle.com/blog/beauty-is-objective)
 * [2025-06-21, 04:04:56](https://news.ycombinator.com/item?id=44334403) - [Augmented Vertex Block Descent (AVBD)](https://graphics.cs.utah.edu/research/projects/avbd/)
@@ -25,7 +26,6 @@
 * [2025-06-19, 03:28:29](https://news.ycombinator.com/item?id=44315188) - [Mathematicians Hunting Prime Numbers Discover Infinite New Pattern](https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/)
 * [2025-06-18, 11:35:12](https://news.ycombinator.com/item?id=44308953) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-18, 08:49:42](https://news.ycombinator.com/item?id=44307972) - [Chromium Switching from Ninja to Siso](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
-* [2025-06-18, 04:19:20](https://news.ycombinator.com/item?id=44306624) - [Every Google &udm=? in the world (2024)](https://serpapi.com/blog/every-google-udm-in-the-world/)
 * [2025-06-17, 22:22:03](https://news.ycombinator.com/item?id=44304607) - [A Python-first data lakehouse](https://www.bauplanlabs.com/blog/everything-as-python)
 * [2025-06-17, 14:28:30](https://news.ycombinator.com/item?id=44299680) - [Verified dynamic programming with Σ-types in Lean](https://tannerduve.github.io/blog/memoization-sigma/)
 * [2025-06-16, 16:28:10](https://news.ycombinator.com/item?id=44291052) - [A brief, incomplete, and mostly wrong history of robotics](https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong)
