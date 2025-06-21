@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-21, 09:02:29](https://news.ycombinator.com/item?id=44335920) - [Show HN: We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible](https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc)
-* [2025-06-21, 08:43:59](https://news.ycombinator.com/item?id=44335823) - [War Powers Resolution](https://en.wikipedia.org/wiki/War_Powers_Resolution)
 * [2025-06-21, 07:39:28](https://news.ycombinator.com/item?id=44335519) - [Agentic Misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment)
 * [2025-06-21, 06:29:00](https://news.ycombinator.com/item?id=44335065) - [Delta Chat is a decentralized and secure messenger app](https://delta.chat/en/)
 * [2025-06-21, 06:23:01](https://news.ycombinator.com/item?id=44335038) - [Sega mistakenly reveals sales numbers of popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
@@ -29,6 +28,7 @@
 * [2025-06-19, 03:28:29](https://news.ycombinator.com/item?id=44315188) - [Mathematicians Hunting Prime Numbers Discover Infinite New Pattern](https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/)
 * [2025-06-18, 11:35:12](https://news.ycombinator.com/item?id=44308953) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-18, 08:49:42](https://news.ycombinator.com/item?id=44307972) - [Chromium Switching from Ninja to Siso](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
+* [2025-06-17, 14:28:30](https://news.ycombinator.com/item?id=44299680) - [Verified dynamic programming with Σ-types in Lean](https://tannerduve.github.io/blog/memoization-sigma/)
 * [2025-06-16, 16:20:32](https://news.ycombinator.com/item?id=44290992) - [College baseball, venture capital, and the long maybe](https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/)
 
 ## [Archives](archives/index.md)
