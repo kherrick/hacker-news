@@ -12,6 +12,7 @@
 * [2025-06-17, 21:22:23](https://news.ycombinator.com/item?id=44304107) - [The Right Chemistry: How Jean Harlow became a 'platinum blond' (2020)](https://montrealgazette.com/opinion/columnists/article249177.html)
 * [2025-06-17, 21:03:26](https://news.ycombinator.com/item?id=44303929) - [Apple: Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-my/122756)
 * [2025-06-17, 21:00:27](https://news.ycombinator.com/item?id=44303901) - [Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
+* [2025-06-17, 20:46:35](https://news.ycombinator.com/item?id=44303767) - [Captain Cook's missing ship found after sinking 250 years ago](https://www.independent.co.uk/news/science/captain-cook-missing-ship-found-hms-endeavour-b2771322.html)
 * [2025-06-17, 20:24:36](https://news.ycombinator.com/item?id=44303542) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2025-06-17, 20:24:18](https://news.ycombinator.com/item?id=44303538) - [AI will shrink Amazon's workforce in the coming years, CEO Jassy says](https://www.cnbc.com/2025/06/17/ai-amazon-workforce-jassy.html)
 * [2025-06-17, 20:06:54](https://news.ycombinator.com/item?id=44303361) - [Bzip2 crate switches from C to 100% rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
