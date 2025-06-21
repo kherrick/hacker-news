@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-21, 22:28:48",
-      "https://news.ycombinator.com/item?id=44341199"
-    ],
-    [
-      "I went for 1,200 jobs but got only two interviews",
-      "https://www.bbc.co.uk/news/articles/c9397lre3lyo"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 21:16:44",
       "https://news.ycombinator.com/item?id=44340790"
     ],
@@ -267,6 +257,16 @@
     [
       "Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge",
       "https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 11:35:12",
+      "https://news.ycombinator.com/item?id=44308953"
+    ],
+    [
+      "Unexpected security footguns in Go's parsers",
+      "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/"
     ]
   ],
   [
