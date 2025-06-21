@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2025-06-21, 15:01:54",
-      "https://news.ycombinator.com/item?id=44338122"
-    ],
-    [
-      "US Congress is making more than 250M acres of public lands available for sale",
-      "https://www.wilderness.org/articles/blog/congress-making-more-250-million-acres-public-lands-available-sale"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 14:57:07",
       "https://news.ycombinator.com/item?id=44338089"
     ],
     [
       "Behind the scenes: Redpanda Cloud's response to the GCP outage",
       "https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 12:56:57",
-      "https://news.ycombinator.com/item?id=44337225"
-    ],
-    [
-      "Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic",
-      "https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/"
     ]
   ],
   [
@@ -231,12 +211,22 @@
   ],
   [
     [
-      "2025-06-19, 16:59:08",
-      "https://news.ycombinator.com/item?id=44320440"
+      "2025-06-19, 00:02:20",
+      "https://news.ycombinator.com/item?id=44314305"
     ],
     [
-      "The Art of Bijective Combinatorics",
-      "https://www.viennot.org/abjc.html"
+      "The Nyanja new PC-Engine/TurboGrafx 16-bit console game in development",
+      "https://sarupro.itch.io/thenyanja"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 15:56:46",
+      "https://news.ycombinator.com/item?id=44310996"
+    ],
+    [
+      "Fundamental Problems of Lisp, the Cons Cell (2024)",
+      "http://xahlee.info/comp/lisp_cons_problem.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Life as Slime",
       "https://www.asimov.press/p/slime"
+    ]
+  ],
+  [
+    [
+      "2025-06-16, 16:20:32",
+      "https://news.ycombinator.com/item?id=44290992"
+    ],
+    [
+      "College baseball, venture capital, and the long maybe",
+      "https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/"
     ]
   ]
 ]
