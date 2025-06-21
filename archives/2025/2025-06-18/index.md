@@ -43,6 +43,7 @@
 * [2025-06-18, 12:42:51](https://news.ycombinator.com/item?id=44309393) - [Show HN: Free local security checks for AI coding in VSCode, Cursor and Windsurf](https://news.ycombinator.com/item?id=44309393)
 * [2025-06-18, 12:36:47](https://news.ycombinator.com/item?id=44309345) - [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
 * [2025-06-18, 12:33:49](https://news.ycombinator.com/item?id=44309320) - [Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
+* [2025-06-18, 12:27:51](https://news.ycombinator.com/item?id=44309279) - [Compiler for the B Programming Language](https://github.com/tsoding/b)
 * [2025-06-18, 12:15:56](https://news.ycombinator.com/item?id=44309208) - [Proba-3's first artificial solar eclipse](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse)
 * [2025-06-18, 12:13:15](https://news.ycombinator.com/item?id=44309191) - [Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge](https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/)
 * [2025-06-18, 12:00:50](https://news.ycombinator.com/item?id=44309110) - [Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
