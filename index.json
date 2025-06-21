@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-21, 21:16:44",
+      "https://news.ycombinator.com/item?id=44340790"
+    ],
+    [
+      "Apple typewriter ban memo",
+      "http://writingball.blogspot.com/2020/02/the-infamous-apple-typewriter-memo-is.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 20:19:14",
+      "https://news.ycombinator.com/item?id=44340461"
+    ],
+    [
+      "Researchers using the same data and hypothesis arrive at different conclusions",
+      "https://www.pnas.org/doi/10.1073/pnas.2203150119"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 20:08:30",
       "https://news.ycombinator.com/item?id=44340386"
     ],
@@ -97,16 +117,6 @@
     [
       "Scaling our observability platform by embracing wide events and replacing OTel",
       "https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 09:00:01",
-      "https://news.ycombinator.com/item?id=44335907"
-    ],
-    [
-      "Cosmoe: BeOS Class Library on Top of Wayland",
-      "https://cosmoe.org/index.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Captain Cook's missing ship found after sinking 250 years ago",
       "https://www.independent.co.uk/news/science/captain-cook-missing-ship-found-hms-endeavour-b2771322.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 19:01:13",
-      "https://news.ycombinator.com/item?id=44302623"
-    ],
-    [
-      "Show HN: lambda-nat-proxy – Serverless proxy using Lambda and UDP NAT punching",
-      "https://github.com/dan-v/lambda-nat-proxy"
     ]
   ],
   [
