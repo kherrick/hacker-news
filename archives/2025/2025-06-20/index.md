@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 23:46:50](https://news.ycombinator.com/item?id=44333187) - [Plastic bag bans and fees reduce harmful bag litter on shorelines](https://www.science.org/doi/10.1126/science.adp9274)
 * [2025-06-20, 23:30:07](https://news.ycombinator.com/item?id=44333085) - [Fix \"pulsing\" sensation when charging MacBook](https://old.reddit.com/r/apple/comments/1lgaw7m/psa_if_when_charging_your_macbook_you_get_a/)
 * [2025-06-20, 23:28:14](https://news.ycombinator.com/item?id=44333077) - [AtomicOS – A security-first OS with real crypto and deterministic language](https://github.com/ipenas-cl/AtomicOs)
 * [2025-06-20, 23:01:34](https://news.ycombinator.com/item?id=44332912) - [Drinks in glass bottles contain more microplastics than those in other container](https://www.anses.fr/en/content/drinks-glass-bottles-contain-more-microplastics-those-other-containers)
