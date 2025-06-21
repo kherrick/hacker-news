@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-06-21, 02:19:47",
+      "https://news.ycombinator.com/item?id=44333960"
+    ],
+    [
+      "Tiny Undervalued Hardware Companions (2024)",
+      "https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 23:46:50",
       "https://news.ycombinator.com/item?id=44333187"
     ],
@@ -247,16 +257,6 @@
     [
       "Unexpected security footguns in Go's parsers",
       "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 06:50:11",
-      "https://news.ycombinator.com/item?id=44307275"
-    ],
-    [
-      "The Unreasonable Effectiveness of Fuzzing for Porting Programs",
-      "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing"
     ]
   ],
   [
