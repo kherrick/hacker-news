@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 09:02:29](https://news.ycombinator.com/item?id=44335920) - [Show HN: We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible](https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc)
 * [2025-06-21, 08:43:59](https://news.ycombinator.com/item?id=44335823) - [War Powers Resolution](https://en.wikipedia.org/wiki/War_Powers_Resolution)
 * [2025-06-21, 07:39:28](https://news.ycombinator.com/item?id=44335519) - [Agentic Misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment)
 * [2025-06-21, 06:29:00](https://news.ycombinator.com/item?id=44335065) - [Delta Chat is a decentralized and secure messenger app](https://delta.chat/en/)
