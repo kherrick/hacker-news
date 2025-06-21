@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-21, 18:47:32",
-      "https://news.ycombinator.com/item?id=44339793"
-    ],
-    [
-      "Legendary Sound Blaster ISA sound card gets a driver update 30 years later",
-      "https://www.tomshardware.com/pc-components/sound-cards/legendary-sound-blaster-isa-sound-card-gets-a-driver-update-30-years-later-patch-squashes-first-bug-report-after-25-years"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 18:21:27",
       "https://news.ycombinator.com/item?id=44339596"
     ],
@@ -57,6 +47,16 @@
     [
       "Balatro for the Nintendo E-Reader",
       "https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 16:39:42",
+      "https://news.ycombinator.com/item?id=44338862"
+    ],
+    [
+      "ARIA, the UK's Bet to Build Scientific Revolutions",
+      "https://www.asimov.press/p/aria"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-06-20, 16:35:55",
-      "https://news.ycombinator.com/item?id=44329457"
-    ],
-    [
-      "Show HN: Nxtscape – an open-source agentic browser",
-      "https://github.com/nxtscape/nxtscape"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 15:23:29",
       "https://news.ycombinator.com/item?id=44328598"
     ],
@@ -287,6 +277,16 @@
     [
       "Captain Cook's missing ship found after sinking 250 years ago",
       "https://www.independent.co.uk/news/science/captain-cook-missing-ship-found-hms-endeavour-b2771322.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 19:01:13",
+      "https://news.ycombinator.com/item?id=44302623"
+    ],
+    [
+      "Show HN: lambda-nat-proxy – Serverless proxy using Lambda and UDP NAT punching",
+      "https://github.com/dan-v/lambda-nat-proxy"
     ]
   ],
   [
