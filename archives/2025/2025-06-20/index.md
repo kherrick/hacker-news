@@ -72,5 +72,6 @@
 * [2025-06-20, 01:56:16](https://news.ycombinator.com/item?id=44324084) - [Asterinas: A new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
 * [2025-06-20, 01:27:16](https://news.ycombinator.com/item?id=44323982) - [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
 * [2025-06-20, 01:07:43](https://news.ycombinator.com/item?id=44323914) - [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
+* [2025-06-20, 01:06:13](https://news.ycombinator.com/item?id=44323905) - [Finally, a Makefile formatter (50 years overdue)](https://github.com/EbodShojaei/bake)
 * [2025-06-20, 01:06:12](https://news.ycombinator.com/item?id=44323904) - [Open Source Can't Coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
 * [2025-06-20, 00:16:57](https://news.ycombinator.com/item?id=44323719) - [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
