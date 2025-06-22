@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-22, 20:39:06](https://news.ycombinator.com/item?id=44350097) - [GOP tax bill would sell off USPS's brand-new EVs](https://www.washingtonpost.com/business/2025/06/21/trump-usps-trucks-taxes/)
 * [2025-06-22, 20:37:37](https://news.ycombinator.com/item?id=44350086) - [Sam x Jony page on OpenAI is deleted](https://twitter.com/flowersslop/status/1936876451145351364)
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
 * [2025-06-22, 20:04:33](https://news.ycombinator.com/item?id=44349845) - [Why do all browsers' user agents start with \"Mozilla/\"? (2008)](https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla)
@@ -29,6 +28,7 @@
 * [2025-06-18, 23:43:25](https://news.ycombinator.com/item?id=44314203) - [Largest Wildlife Bridge Spanning 10 Lanes of CA 101 Is Nearly Complete](https://www.thedrive.com/news/worlds-largest-wildlife-bridge-spanning-10-lanes-of-101-freeway-is-nearly-complete)
 * [2025-06-18, 22:16:53](https://news.ycombinator.com/item?id=44313739) - [How to negotiate your salary package](https://www.complexsystemspodcast.com/episodes/how-to-negotiate-your-salary-package/)
 * [2025-06-18, 16:13:49](https://news.ycombinator.com/item?id=44311141) - [Low-Temperature Additive Manufacturing of Glass](https://www.ll.mit.edu/research-and-development/advanced-technology/microsystems-prototyping-foundry/low-temperature)
+* [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – Easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
 * [2025-06-18, 09:56:28](https://news.ycombinator.com/item?id=44308328) - [P-Hacking in Startups](https://briefer.cloud/blog/posts/p-hacking/)
 
 ## [Archives](archives/index.md)
