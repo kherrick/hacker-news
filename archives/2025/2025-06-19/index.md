@@ -33,6 +33,7 @@
 * [2025-06-19, 13:38:57](https://news.ycombinator.com/item?id=44318588) - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
 * [2025-06-19, 13:14:32](https://news.ycombinator.com/item?id=44318420) - [Microsoft wants you to buy a new computer. Make your current one secure again?](https://endof10.org/)
 * [2025-06-19, 13:01:16](https://news.ycombinator.com/item?id=44318305) - [The Scheme That Broke the Texas Lottery](https://www.newyorker.com/news/letter-from-the-southwest/the-scheme-that-broke-the-texas-lottery)
+* [2025-06-19, 12:33:21](https://news.ycombinator.com/item?id=44318050) - [There's Gold in the Hills](https://longreads.com/2025/06/12/blm-land-enduring-wild-josh-jackson/)
 * [2025-06-19, 12:11:34](https://news.ycombinator.com/item?id=44317900) - [Rose-Gold-Tinted Liquid Glasses](https://lmnt.me/blog/rose-gold-tinted-liquid-glasses.html)
 * [2025-06-19, 12:00:54](https://news.ycombinator.com/item?id=44317825) - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 * [2025-06-19, 11:43:58](https://news.ycombinator.com/item?id=44317709) - [Brain activity much lower when using AI chatbots, MIT boffins find](https://www.theregister.com/2025/06/18/is_ai_changing_our_brains/)
