@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-22, 05:05:07](https://news.ycombinator.com/item?id=44343840) - [Linux on the Behringer X32 [video]](https://www.youtube.com/watch?v=6CfLC5xVy90)
 * [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU (Tensor Processing Unit) Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 * [2025-06-22, 02:17:51](https://news.ycombinator.com/item?id=44342731) - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
 * [2025-06-22, 00:00:16](https://news.ycombinator.com/item?id=44341639) - [U.S. bombs Iranian nuclear sites](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
@@ -7,7 +8,6 @@
 * [2025-06-21, 18:21:27](https://news.ycombinator.com/item?id=44339596) - [AI is ushering in a 'tiny team' era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 * [2025-06-21, 17:09:35](https://news.ycombinator.com/item?id=44339076) - [AllTracker: Efficient Dense Point Tracking at High Resolution](https://alltracker.github.io/)
 * [2025-06-21, 17:01:50](https://news.ycombinator.com/item?id=44339043) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-* [2025-06-21, 16:59:47](https://news.ycombinator.com/item?id=44339025) - [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
 * [2025-06-21, 16:02:24](https://news.ycombinator.com/item?id=44338562) - [Tell HN: Beware confidentiality agreements that act as lifetime non competes](https://news.ycombinator.com/item?id=44338562)
 * [2025-06-21, 10:39:21](https://news.ycombinator.com/item?id=44336381) - [Show HN: MMOndrian](https://mmondrian.com/)
 * [2025-06-21, 09:23:21](https://news.ycombinator.com/item?id=44336015) - [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)

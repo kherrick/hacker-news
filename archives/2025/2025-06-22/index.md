@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
+* [2025-06-22, 05:05:07](https://news.ycombinator.com/item?id=44343840) - [Linux on the Behringer X32 [video]](https://www.youtube.com/watch?v=6CfLC5xVy90)
 * [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 * [2025-06-22, 02:17:51](https://news.ycombinator.com/item?id=44342731) - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
 * [2025-06-22, 00:12:29](https://news.ycombinator.com/item?id=44341678) - [U.S. strikes Iran's nuclear facilities](https://www.axios.com/2025/06/21/us-strike-iran-nuclear-israel-trump)
