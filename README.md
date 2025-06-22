@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-22, 07:07:18](https://news.ycombinator.com/item?id=44344601) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 * [2025-06-22, 05:05:07](https://news.ycombinator.com/item?id=44343840) - [Linux on the Behringer X32 [video]](https://www.youtube.com/watch?v=6CfLC5xVy90)
 * [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU (Tensor Processing Unit) Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 * [2025-06-22, 02:17:51](https://news.ycombinator.com/item?id=44342731) - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
@@ -8,7 +9,6 @@
 * [2025-06-21, 18:21:27](https://news.ycombinator.com/item?id=44339596) - [AI is ushering in a 'tiny team' era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 * [2025-06-21, 17:09:35](https://news.ycombinator.com/item?id=44339076) - [AllTracker: Efficient Dense Point Tracking at High Resolution](https://alltracker.github.io/)
 * [2025-06-21, 16:02:24](https://news.ycombinator.com/item?id=44338562) - [Tell HN: Beware confidentiality agreements that act as lifetime non competes](https://news.ycombinator.com/item?id=44338562)
-* [2025-06-21, 10:39:21](https://news.ycombinator.com/item?id=44336381) - [Show HN: MMOndrian](https://mmondrian.com/)
 * [2025-06-21, 09:23:21](https://news.ycombinator.com/item?id=44336015) - [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
 * [2025-06-21, 08:10:50](https://news.ycombinator.com/item?id=44335664) - [uBlock Origin Lite Beta for Safari iOS](https://testflight.apple.com/join/JjTcThrV)
 * [2025-06-21, 07:38:42](https://news.ycombinator.com/item?id=44335517) - ['Gwada negative': French scientists find new blood type in woman](https://www.lemonde.fr/en/science/article/2025/06/21/gwada-negative-french-scientists-find-new-blood-type-in-woman_6742577_10.html)
@@ -20,7 +20,7 @@
 * [2025-06-19, 16:58:50](https://news.ycombinator.com/item?id=44320435) - [Debunking NIST's calculation of the Kyber-512 security level (2023)](https://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2025-06-18, 23:49:18](https://news.ycombinator.com/item?id=44314234) - [Compact Representations for Arrays in Lua [pdf]](https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059)
 * [2025-06-18, 18:52:24](https://news.ycombinator.com/item?id=44312363) - [Remote MCP Support in Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
-* [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
+* [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – Easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
 * [2025-06-18, 13:29:31](https://news.ycombinator.com/item?id=44309734) - [The bad boy of bar charts: William Playfair (2023)](https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html)
 * [2025-06-18, 12:27:51](https://news.ycombinator.com/item?id=44309279) - [Compiler for the B Programming Language](https://github.com/tsoding/b)
 * [2025-06-18, 12:13:15](https://news.ycombinator.com/item?id=44309191) - [Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge](https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/)
