@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
+* [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU (Tensor Processing Unit) Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 * [2025-06-22, 02:17:51](https://news.ycombinator.com/item?id=44342731) - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
 * [2025-06-22, 00:00:16](https://news.ycombinator.com/item?id=44341639) - [U.S. has bombed Fordo nuclear plant in attack on Iran](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
 * [2025-06-21, 20:08:30](https://news.ycombinator.com/item?id=44340386) - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
