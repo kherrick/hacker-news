@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-06-21, 23:20:29",
-      "https://news.ycombinator.com/item?id=44341462"
+      "2025-06-22, 00:12:29",
+      "https://news.ycombinator.com/item?id=44341678"
     ],
     [
-      "Publishing a Docker Container for MS Edit to the GitHub Container Registry",
-      "https://til.simonwillison.net/github/container-registry"
+      "U.S. strikes Iran's nuclear facilities",
+      "https://www.axios.com/2025/06/21/us-strike-iran-nuclear-israel-trump"
+    ]
+  ],
+  [
+    [
+      "2025-06-22, 00:10:48",
+      "https://news.ycombinator.com/item?id=44341676"
+    ],
+    [
+      "Don't Read This If You Have a Security Clearance (2023)",
+      "https://www.theatlantic.com/ideas/archive/2023/05/leaked-documents-security-clearance-defense/674031/"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 23:43:59",
+      "https://news.ycombinator.com/item?id=44341564"
+    ],
+    [
+      "See Jane 128 by Arktronics run (ft. Magic Desk, 3-Plus-1 and the Thomson MO5)",
+      "http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 22:44:28",
+      "https://news.ycombinator.com/item?id=44341281"
+    ],
+    [
+      "Requiem for a Solar Plant",
+      "https://7goldfish.com/articles/Requiem_for_a_solar_plant.php"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "LaborBerlin: State-of-the-Art 16mm Projector",
       "https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 19:25:45",
-      "https://news.ycombinator.com/item?id=44340081"
-    ],
-    [
-      "Show HN: To-Userscript: Chrome Extension to Userscript Converter",
-      "https://github.com/Explosion-Scratch/to-userscript"
     ]
   ],
   [
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2025-06-21, 04:04:56",
-      "https://news.ycombinator.com/item?id=44334403"
-    ],
-    [
-      "Augmented Vertex Block Descent (AVBD)",
-      "https://graphics.cs.utah.edu/research/projects/avbd/"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 03:06:42",
       "https://news.ycombinator.com/item?id=44334167"
     ],
     [
       "Samsung embeds IronSource spyware app on phones across WANA",
       "https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 23:46:50",
-      "https://news.ycombinator.com/item?id=44333187"
-    ],
-    [
-      "Plastic bag bans and fees reduce harmful bag litter on shorelines",
-      "https://www.science.org/doi/10.1126/science.adp9274"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2025-06-18, 16:43:26",
-      "https://news.ycombinator.com/item?id=44311393"
-    ],
-    [
-      "The Brute Squad",
-      "https://sourcegraph.com/blog/the-brute-squad"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 15:29:30",
       "https://news.ycombinator.com/item?id=44310763"
     ],
     [
       "Airpass – easily overcome WiFi time limits",
       "https://airpass.tiagoalves.me/"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 13:29:31",
+      "https://news.ycombinator.com/item?id=44309734"
+    ],
+    [
+      "The bad boy of bar charts: William Playfair",
+      "https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-06-18, 08:02:32",
+      "https://news.ycombinator.com/item?id=44307667"
+    ],
+    [
+      "Type Inference Zoo",
+      "https://zoo.cuichen.cc/"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 05:25:36",
       "https://news.ycombinator.com/item?id=44306892"
     ],
     [
       "Using Microsoft's New CLI Text Editor on Ubuntu",
       "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 13:03:36",
-      "https://news.ycombinator.com/item?id=44298666"
-    ],
-    [
-      "Life as Slime",
-      "https://www.asimov.press/p/slime"
     ]
   ]
 ]
