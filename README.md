@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-22, 22:56:30](https://news.ycombinator.com/item?id=44350982) - [Founding engineers wanted. hard problems. long hours. wealth and honor on success](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24)
 * [2025-06-22, 21:50:27](https://news.ycombinator.com/item?id=44350597) - [Children in England growing up 'sedentary, scrolling and alone', say experts](https://www.theguardian.com/society/2025/jun/11/children-sedentary-scrolling-alone-lack-of-play-england)
-* [2025-06-22, 21:25:01](https://news.ycombinator.com/item?id=44350414) - [CTO's at Meta, Open AI, Palantir Became Lieutenant Colonels in the Army](https://americancitizen2025.substack.com/p/ctos-at-meta-open-ai-palantir-became)
 * [2025-06-22, 21:12:01](https://news.ycombinator.com/item?id=44350322) - [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
-* [2025-06-22, 20:39:06](https://news.ycombinator.com/item?id=44350097) - [GOP omnibus bill would sell off USPS's EVs](https://www.washingtonpost.com/business/2025/06/21/trump-usps-trucks-taxes/)
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
 * [2025-06-22, 20:19:39](https://news.ycombinator.com/item?id=44349949) - [FreeBSD Kernel Modules Pkg(8) Repositories](https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/)
 * [2025-06-22, 20:04:33](https://news.ycombinator.com/item?id=44349845) - [Why do all browsers' user agents start with \"Mozilla/\"? (2008)](https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla)
@@ -20,6 +19,7 @@
 * [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 * [2025-06-22, 02:17:51](https://news.ycombinator.com/item?id=44342731) - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
 * [2025-06-20, 19:36:18](https://news.ycombinator.com/item?id=44331201) - [Kilauea volcano errupts, lava more than 1k feet high [video]](https://www.youtube.com/watch?v=oG5zz9Sjw3E)
+* [2025-06-20, 15:36:25](https://news.ycombinator.com/item?id=44328732) - [Dynamic YAML with Python computed properties for fusing API workflows and SQL](https://sequor.dev/)
 * [2025-06-20, 01:06:13](https://news.ycombinator.com/item?id=44323905) - [Mbake – A Makefile formatter and linter, that only took 50 years](https://github.com/EbodShojaei/bake)
 * [2025-06-19, 16:43:17](https://news.ycombinator.com/item?id=44320285) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-19, 12:33:21](https://news.ycombinator.com/item?id=44318050) - [There's Gold in the Hills](https://longreads.com/2025/06/12/blm-land-enduring-wild-josh-jackson/)
@@ -29,7 +29,7 @@
 * [2025-06-18, 18:52:24](https://news.ycombinator.com/item?id=44312363) - [Remote MCP Support in Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
 * [2025-06-18, 16:13:49](https://news.ycombinator.com/item?id=44311141) - [Low-Temperature Additive Manufacturing of Glass](https://www.ll.mit.edu/research-and-development/advanced-technology/microsystems-prototyping-foundry/low-temperature)
 * [2025-06-18, 09:56:28](https://news.ycombinator.com/item?id=44308328) - [P-Hacking in Startups](https://briefer.cloud/blog/posts/p-hacking/)
-* [2025-06-18, 08:50:30](https://news.ycombinator.com/item?id=44307976) - [Show HN: Luna Rail – treating night trains as a spatial optimization problem](https://luna-rail.com/en/home-2)
+* [2025-06-18, 08:50:30](https://news.ycombinator.com/item?id=44307976) - [Show HN: Luna Rail – Treating night trains as a spatial optimization problem](https://luna-rail.com/en/home-2)
 
 ## [Archives](archives/index.md)
 

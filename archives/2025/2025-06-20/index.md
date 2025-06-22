@@ -37,6 +37,7 @@
 * [2025-06-20, 15:51:59](https://news.ycombinator.com/item?id=44328904) - [How to Design Programs 2nd Ed (2024)](https://htdp.org)
 * [2025-06-20, 15:51:02](https://news.ycombinator.com/item?id=44328894) - [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/)
 * [2025-06-20, 15:47:21](https://news.ycombinator.com/item?id=44328855) - [HCP Vault Secrets End of Life](https://support.hashicorp.com/hc/en-us/articles/41802449287955-HCP-Vault-Secrets-End-Of-Life)
+* [2025-06-20, 15:36:25](https://news.ycombinator.com/item?id=44328732) - [Dynamic YAML with Python computed properties for fusing API workflows and SQL](https://sequor.dev/)
 * [2025-06-20, 15:23:29](https://news.ycombinator.com/item?id=44328598) - [Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/)
 * [2025-06-20, 15:04:31](https://news.ycombinator.com/item?id=44328405) - [Show HN: SecureBuild – Zero-CVE Images That Pay OSS Projects](https://securebuild.com)
 * [2025-06-20, 15:03:23](https://news.ycombinator.com/item?id=44328389) - [Malware-Laced GitHub Repos Found Masquerading as Developer Tools](https://klarrio.com/klarrio-discovers-large-scale-malware-network-on-github/)
