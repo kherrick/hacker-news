@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44344246"
     ],
     [
-      "A web extension to redirects YouTube, X, etc. to privacy-friendly front ends",
+      "LibRedirect – Redirects popular sites to alternative privacy-friendly frontends",
       "https://libredirect.github.io"
     ]
   ],
@@ -155,8 +155,18 @@
       "https://news.ycombinator.com/item?id=44323905"
     ],
     [
-      "Finally, a Makefile formatter (50 years overdue)",
+      "Mbake – A Makefile formatter and linter, that only took 50 years",
       "https://github.com/EbodShojaei/bake"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 10:33:44",
+      "https://news.ycombinator.com/item?id=44317242"
+    ],
+    [
+      "Show HN: I'm building an app to replace Overleaf and Notion",
+      "https://news.ycombinator.com/item?id=44317242"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The bad boy of bar charts: William Playfair (2023)",
       "https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 12:27:51",
-      "https://news.ycombinator.com/item?id=44309279"
-    ],
-    [
-      "Compiler for the B Programming Language",
-      "https://github.com/tsoding/b"
     ]
   ],
   [
