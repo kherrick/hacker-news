@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-22, 07:07:18",
+      "https://news.ycombinator.com/item?id=44344601"
+    ],
+    [
+      "Announcing the Clippy feature freeze",
+      "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/"
+    ]
+  ],
+  [
+    [
       "2025-06-22, 05:05:07",
       "https://news.ycombinator.com/item?id=44343840"
     ],
@@ -77,16 +87,6 @@
     [
       "Tell HN: Beware confidentiality agreements that act as lifetime non competes",
       "https://news.ycombinator.com/item?id=44338562"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 10:39:21",
-      "https://news.ycombinator.com/item?id=44336381"
-    ],
-    [
-      "Show HN: MMOndrian",
-      "https://mmondrian.com/"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=44310763"
     ],
     [
-      "Airpass – easily overcome WiFi time limits",
+      "Airpass – Easily overcome WiFi time limits",
       "https://airpass.tiagoalves.me/"
     ]
   ],
