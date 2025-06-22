@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
+* [2025-06-22, 21:33:32](https://news.ycombinator.com/item?id=44350476) - [USAF B-2 Spirit Bombers Have Beds](https://simpleflying.com/usaf-b-2-spirit-bombers-beds/)
 * [2025-06-22, 20:39:06](https://news.ycombinator.com/item?id=44350097) - [GOP tax bill would sell off USPS's brand-new EVs](https://www.washingtonpost.com/business/2025/06/21/trump-usps-trucks-taxes/)
 * [2025-06-22, 20:37:37](https://news.ycombinator.com/item?id=44350086) - [Sam x Jony page on OpenAI is deleted](https://twitter.com/flowersslop/status/1936876451145351364)
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
+* [2025-06-22, 20:19:39](https://news.ycombinator.com/item?id=44349949) - [FreeBSD Kernel Modules Pkg(8) Repositories](https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/)
 * [2025-06-22, 20:04:33](https://news.ycombinator.com/item?id=44349845) - [Why do all browsers' user agents start with \"Mozilla/\"?](https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla)
 * [2025-06-22, 19:37:59](https://news.ycombinator.com/item?id=44349662) - [What would happen if you tried to land on a gas giant?](https://www.popsci.com/science/can-we-land-on-jupiter-saturn/)
 * [2025-06-22, 19:36:55](https://news.ycombinator.com/item?id=44349655) - [Lawrence Yun on the State of U.S. Housing Market](https://www.c-span.org/program/washington-journal/lawrence-yun-on-the-state-of-us-housing-market/661482)

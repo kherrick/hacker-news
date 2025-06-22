@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-22, 21:33:32](https://news.ycombinator.com/item?id=44350476) - [USAF B-2 Spirit Bombers Have Beds](https://simpleflying.com/usaf-b-2-spirit-bombers-beds/)
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
+* [2025-06-22, 20:19:39](https://news.ycombinator.com/item?id=44349949) - [FreeBSD Kernel Modules Pkg(8) Repositories](https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/)
 * [2025-06-22, 20:04:33](https://news.ycombinator.com/item?id=44349845) - [Why do all browsers' user agents start with \"Mozilla/\"? (2008)](https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla)
 * [2025-06-22, 19:37:59](https://news.ycombinator.com/item?id=44349662) - [What would happen if you tried to land on a gas giant?](https://www.popsci.com/science/can-we-land-on-jupiter-saturn/)
 * [2025-06-22, 18:37:56](https://news.ycombinator.com/item?id=44349223) - [Let's Talk About Writing in Tech](https://www.gmoniava.com/blog/lets-talk-about-writing-in-tech)
@@ -19,7 +21,6 @@
 * [2025-06-21, 20:08:30](https://news.ycombinator.com/item?id=44340386) - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
 * [2025-06-21, 08:10:50](https://news.ycombinator.com/item?id=44335664) - [uBlock Origin Lite Beta for Safari iOS](https://testflight.apple.com/join/JjTcThrV)
 * [2025-06-20, 19:36:18](https://news.ycombinator.com/item?id=44331201) - [Kilauea volcano errupts, lava more than 1k feet high [video]](https://www.youtube.com/watch?v=oG5zz9Sjw3E)
-* [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 01:06:13](https://news.ycombinator.com/item?id=44323905) - [Mbake – A Makefile formatter and linter, that only took 50 years](https://github.com/EbodShojaei/bake)
 * [2025-06-19, 16:43:17](https://news.ycombinator.com/item?id=44320285) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-19, 12:33:21](https://news.ycombinator.com/item?id=44318050) - [There's Gold in the Hills](https://longreads.com/2025/06/12/blm-land-enduring-wild-josh-jackson/)
@@ -28,7 +29,6 @@
 * [2025-06-18, 23:43:25](https://news.ycombinator.com/item?id=44314203) - [Largest Wildlife Bridge Spanning 10 Lanes of CA 101 Is Nearly Complete](https://www.thedrive.com/news/worlds-largest-wildlife-bridge-spanning-10-lanes-of-101-freeway-is-nearly-complete)
 * [2025-06-18, 22:16:53](https://news.ycombinator.com/item?id=44313739) - [How to negotiate your salary package](https://www.complexsystemspodcast.com/episodes/how-to-negotiate-your-salary-package/)
 * [2025-06-18, 16:13:49](https://news.ycombinator.com/item?id=44311141) - [Low-Temperature Additive Manufacturing of Glass](https://www.ll.mit.edu/research-and-development/advanced-technology/microsystems-prototyping-foundry/low-temperature)
-* [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – Easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
 * [2025-06-18, 09:56:28](https://news.ycombinator.com/item?id=44308328) - [P-Hacking in Startups](https://briefer.cloud/blog/posts/p-hacking/)
 
 ## [Archives](archives/index.md)
