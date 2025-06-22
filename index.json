@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-22, 17:33:04",
+      "https://news.ycombinator.com/item?id=44348649"
+    ],
+    [
+      "Show HN: A Tool to Summarize Kenya's Parliament with Rust, Whisper, and LLMs",
+      "https://github.com/c12i/bunge-bits"
+    ]
+  ],
+  [
+    [
       "2025-06-22, 17:06:51",
       "https://news.ycombinator.com/item?id=44348448"
     ],
@@ -127,16 +137,6 @@
     [
       "LaborBerlin: State-of-the-Art 16mm Projector",
       "https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 09:23:21",
-      "https://news.ycombinator.com/item?id=44336015"
-    ],
-    [
-      "Scaling our observability platform by embracing wide events and replacing OTel",
-      "https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel"
     ]
   ],
   [
