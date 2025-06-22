@@ -19,6 +19,7 @@
 * [2025-06-20, 19:36:18](https://news.ycombinator.com/item?id=44331201) - [Kilauea volcano errupts, lava more than 1k feet high [video]](https://www.youtube.com/watch?v=oG5zz9Sjw3E)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 01:06:13](https://news.ycombinator.com/item?id=44323905) - [Mbake – A Makefile formatter and linter, that only took 50 years](https://github.com/EbodShojaei/bake)
+* [2025-06-19, 16:43:17](https://news.ycombinator.com/item?id=44320285) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-19, 14:44:57](https://news.ycombinator.com/item?id=44319166) - [The Great Egg Heist](https://www.washingtonpost.com/investigations/interactive/2025/eggs-prices-gouging-cal-maine-investigation/)
 * [2025-06-19, 13:56:10](https://news.ycombinator.com/item?id=44318728) - [Load Test GlassFlow for ClickHouse: Real-Time Dedup at Scale](https://www.glassflow.dev/blog/load-test-glass-flow-for-click-house-real-time-deduplication-at-scale)
 * [2025-06-19, 06:20:41](https://news.ycombinator.com/item?id=44315968) - [Allocators Are Monkeys with Typewriters](https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/)
@@ -29,7 +30,6 @@
 * [2025-06-18, 12:13:15](https://news.ycombinator.com/item?id=44309191) - [Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge](https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/)
 * [2025-06-18, 09:56:28](https://news.ycombinator.com/item?id=44308328) - [P-Hacking in Startups](https://briefer.cloud/blog/posts/p-hacking/)
 * [2025-06-18, 08:02:32](https://news.ycombinator.com/item?id=44307667) - [Type Inference Zoo](https://zoo.cuichen.cc/)
-* [2025-06-18, 05:25:36](https://news.ycombinator.com/item?id=44306892) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 
 ## [Archives](archives/index.md)
 
