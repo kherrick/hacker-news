@@ -18,7 +18,7 @@
 * [2025-06-20, 01:06:13](https://news.ycombinator.com/item?id=44323905) - [Finally, a Makefile formatter (50 years overdue)](https://github.com/EbodShojaei/bake)
 * [2025-06-18, 23:49:18](https://news.ycombinator.com/item?id=44314234) - [Compact Representations for Arrays in Lua [pdf]](https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059)
 * [2025-06-18, 22:14:18](https://news.ycombinator.com/item?id=44313722) - [When Humans Learned to Live Everywhere](https://www.nytimes.com/2025/06/18/science/ancient-human-adaptation-environments.html)
-* [2025-06-18, 19:27:51](https://news.ycombinator.com/item?id=44312645) - [What Is the Most Realistic Submarine Movie Ever Made? [U.S. Naval Institute]](https://www.usni.org/magazines/proceedings/2019/october/what-most-realistic-submarine-movie-ever-made)
+* [2025-06-18, 19:27:51](https://news.ycombinator.com/item?id=44312645) - [What is the most realistic submarine movie? (2019)](https://www.usni.org/magazines/proceedings/2019/october/what-most-realistic-submarine-movie-ever-made)
 * [2025-06-18, 18:52:24](https://news.ycombinator.com/item?id=44312363) - [Remote MCP Support in Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
 * [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – Easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
 * [2025-06-18, 13:29:31](https://news.ycombinator.com/item?id=44309734) - [The bad boy of bar charts: William Playfair (2023)](https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html)
