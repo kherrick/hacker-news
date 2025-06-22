@@ -8,6 +8,7 @@
 * [2025-06-22, 12:43:42](https://news.ycombinator.com/item?id=44346450) - [Using an $8 smart outlet to avoid brainrot](https://www.neilchen.co/blog/kasa)
 * [2025-06-22, 11:52:27](https://news.ycombinator.com/item?id=44346120) - [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
 * [2025-06-22, 10:27:23](https://news.ycombinator.com/item?id=44345670) - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
+* [2025-06-22, 09:40:15](https://news.ycombinator.com/item?id=44345451) - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887)
 * [2025-06-22, 09:14:35](https://news.ycombinator.com/item?id=44345334) - [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 * [2025-06-22, 07:54:12](https://news.ycombinator.com/item?id=44344873) - [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/)
 * [2025-06-22, 07:10:25](https://news.ycombinator.com/item?id=44344624) - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
