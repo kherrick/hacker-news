@@ -46,6 +46,7 @@
 * [2025-06-19, 09:29:28](https://news.ycombinator.com/item?id=44316909) - [From LLM to AI Agent: What's the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
 * [2025-06-19, 08:44:57](https://news.ycombinator.com/item?id=44316678) - [Polylogarithm Values at a Golden Ratio-Based Argument](https://zenodo.org/records/15696357)
 * [2025-06-19, 08:41:34](https://news.ycombinator.com/item?id=44316665) - [Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone](https://linmob.net/liberux-nexx-an-interview-with-liberux/)
+* [2025-06-19, 06:42:58](https://news.ycombinator.com/item?id=44316093) - [We’ve had a Denisovan skull since the 1930s—only nobody knew](https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/)
 * [2025-06-19, 06:20:41](https://news.ycombinator.com/item?id=44315968) - [Allocators Are Monkeys with Typewriters](https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/)
 * [2025-06-19, 04:49:32](https://news.ycombinator.com/item?id=44315529) - [SpaceX Starship 36 Anomaly](https://twitter.com/NASASpaceflight/status/1935548909805601020)
 * [2025-06-19, 04:27:54](https://news.ycombinator.com/item?id=44315443) - [Triaging security issues reported by third parties](https://gitlab.gnome.org/GNOME/libxml2/-/issues/913)
