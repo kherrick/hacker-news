@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 23:43:59](https://news.ycombinator.com/item?id=44341564) - [See Jane 128 by Arktronics run (ft. Magic Desk, 3-Plus-1 and the Thomson MO5)](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
 * [2025-06-21, 23:20:29](https://news.ycombinator.com/item?id=44341462) - [Publishing a Docker Container for MS Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry)
+* [2025-06-21, 22:44:28](https://news.ycombinator.com/item?id=44341281) - [Requiem for a Solar Plant](https://7goldfish.com/articles/Requiem_for_a_solar_plant.php)
 * [2025-06-21, 22:28:48](https://news.ycombinator.com/item?id=44341199) - [I went for 1,200 jobs but got only two interviews](https://www.bbc.co.uk/news/articles/c9397lre3lyo)
 * [2025-06-21, 21:16:44](https://news.ycombinator.com/item?id=44340790) - [Apple typewriter ban memo](http://writingball.blogspot.com/2020/02/the-infamous-apple-typewriter-memo-is.html)
 * [2025-06-21, 20:19:14](https://news.ycombinator.com/item?id=44340461) - [Researchers using the same data and hypothesis arrive at different conclusions](https://www.pnas.org/doi/10.1073/pnas.2203150119)
