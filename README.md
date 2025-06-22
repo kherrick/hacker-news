@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The Cultural Decline of Literary Fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 * [2025-06-22, 14:56:44](https://news.ycombinator.com/item?id=44347425) - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
 * [2025-06-22, 12:52:27](https://news.ycombinator.com/item?id=44346529) - [Harry Brearley, the creator of stainless steel (2016)](https://nautil.us/the-father-of-modern-metal-235939/)
 * [2025-06-22, 09:40:15](https://news.ycombinator.com/item?id=44345451) - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887)
 * [2025-06-22, 09:14:35](https://news.ycombinator.com/item?id=44345334) - [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 * [2025-06-22, 07:27:27](https://news.ycombinator.com/item?id=44344708) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
-* [2025-06-22, 07:10:25](https://news.ycombinator.com/item?id=44344624) - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
 * [2025-06-22, 06:07:48](https://news.ycombinator.com/item?id=44344246) - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
 * [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 * [2025-06-22, 02:17:51](https://news.ycombinator.com/item?id=44342731) - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
