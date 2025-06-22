@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-22, 11:52:27](https://news.ycombinator.com/item?id=44346120) - [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
 * [2025-06-22, 10:27:23](https://news.ycombinator.com/item?id=44345670) - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
-* [2025-06-22, 07:54:12](https://news.ycombinator.com/item?id=44344873) - [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/)
 * [2025-06-22, 07:07:18](https://news.ycombinator.com/item?id=44344601) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 * [2025-06-22, 06:07:48](https://news.ycombinator.com/item?id=44344246) - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
 * [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
@@ -19,6 +19,7 @@
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 01:06:13](https://news.ycombinator.com/item?id=44323905) - [Mbake – A Makefile formatter and linter, that only took 50 years](https://github.com/EbodShojaei/bake)
 * [2025-06-19, 10:33:44](https://news.ycombinator.com/item?id=44317242) - [Show HN: I'm building an app to replace Overleaf and Notion](https://news.ycombinator.com/item?id=44317242)
+* [2025-06-18, 23:43:25](https://news.ycombinator.com/item?id=44314203) - [Largest Wildlife Bridge Spanning 10 Lanes of CA 101 Is Nearly Complete](https://www.thedrive.com/news/worlds-largest-wildlife-bridge-spanning-10-lanes-of-101-freeway-is-nearly-complete)
 * [2025-06-18, 22:14:18](https://news.ycombinator.com/item?id=44313722) - [When Humans Learned to Live Everywhere](https://www.nytimes.com/2025/06/18/science/ancient-human-adaptation-environments.html)
 * [2025-06-18, 19:27:51](https://news.ycombinator.com/item?id=44312645) - [What is the most realistic submarine movie? (2019)](https://www.usni.org/magazines/proceedings/2019/october/what-most-realistic-submarine-movie-ever-made)
 * [2025-06-18, 18:52:24](https://news.ycombinator.com/item?id=44312363) - [Remote MCP Support in Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
@@ -27,7 +28,6 @@
 * [2025-06-18, 12:13:15](https://news.ycombinator.com/item?id=44309191) - [Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge](https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/)
 * [2025-06-18, 11:35:12](https://news.ycombinator.com/item?id=44308953) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-18, 09:56:28](https://news.ycombinator.com/item?id=44308328) - [P-Hacking in Startups](https://briefer.cloud/blog/posts/p-hacking/)
-* [2025-06-18, 08:50:30](https://news.ycombinator.com/item?id=44307976) - [Show HN: Luna Rail – treating night trains as a spatial optimization problem](https://luna-rail.com/en/home-2)
 * [2025-06-18, 08:02:32](https://news.ycombinator.com/item?id=44307667) - [Type Inference Zoo](https://zoo.cuichen.cc/)
 * [2025-06-18, 05:25:36](https://news.ycombinator.com/item?id=44306892) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 
