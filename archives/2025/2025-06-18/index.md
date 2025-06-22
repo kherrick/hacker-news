@@ -17,6 +17,7 @@
 * [2025-06-18, 21:08:22](https://news.ycombinator.com/item?id=44313292) - [Calling Go from Elixir with a CNode in Crystal](https://relistan.com/calling-go-from-elixir-with-a-cnode)
 * [2025-06-18, 20:55:06](https://news.ycombinator.com/item?id=44313206) - [Websites Are Tracking You via Browser Fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
 * [2025-06-18, 20:40:45](https://news.ycombinator.com/item?id=44313107) - [In-Memory C++ Leap in Blockchain Analysis](https://caudena.com/the-in-memory-c-leap-in-blockchain-analysis/)
+* [2025-06-18, 19:27:51](https://news.ycombinator.com/item?id=44312645) - [What Is the Most Realistic Submarine Movie Ever Made? [U.S. Naval Institute]](https://www.usni.org/magazines/proceedings/2019/october/what-most-realistic-submarine-movie-ever-made)
 * [2025-06-18, 19:08:57](https://news.ycombinator.com/item?id=44312501) - [Dancing Naked on the Head of a Pin: The Early History of Microphotography](https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin)
 * [2025-06-18, 18:52:24](https://news.ycombinator.com/item?id=44312363) - [Remote MCP Support in Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
 * [2025-06-18, 18:25:11](https://news.ycombinator.com/item?id=44312175) - [Cross-Compilation Toolchains for Linux](https://toolchains.bootlin.com/)
