@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-22, 20:04:33](https://news.ycombinator.com/item?id=44349845) - [Why do all browsers' user agents start with \"Mozilla/\"?](https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla)
 * [2025-06-22, 19:37:59](https://news.ycombinator.com/item?id=44349662) - [What would happen if you tried to land on a gas giant?](https://www.popsci.com/science/can-we-land-on-jupiter-saturn/)
-* [2025-06-22, 19:36:55](https://news.ycombinator.com/item?id=44349655) - [Lawrence Yun on the State of U.S. Housing Market](https://www.c-span.org/program/washington-journal/lawrence-yun-on-the-state-of-us-housing-market/661482)
 * [2025-06-22, 18:37:56](https://news.ycombinator.com/item?id=44349223) - [Let's Talk About Writing in Tech](https://www.gmoniava.com/blog/lets-talk-about-writing-in-tech)
 * [2025-06-22, 18:25:13](https://news.ycombinator.com/item?id=44349117) - [Show HN: Turn a paper's DOI into its full reference list (BibTeX/RIS, etc.)](https://references.mireklzicar.com)
 * [2025-06-22, 17:33:04](https://news.ycombinator.com/item?id=44348649) - [Show HN: A Tool to Summarize Kenya's Parliament with Rust, Whisper, and LLMs](https://github.com/c12i/bunge-bits)
