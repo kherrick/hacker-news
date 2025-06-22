@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-22, 17:33:04](https://news.ycombinator.com/item?id=44348649) - [Show HN: A Tool to Summarize Kenya's Parliament with Rust, Whisper, and LLMs](https://github.com/c12i/bunge-bits)
 * [2025-06-22, 17:06:51](https://news.ycombinator.com/item?id=44348448) - [Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI](https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971)
 * [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The Cultural Decline of Literary Fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 * [2025-06-22, 14:56:44](https://news.ycombinator.com/item?id=44347425) - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
@@ -13,7 +14,6 @@
 * [2025-06-22, 00:00:16](https://news.ycombinator.com/item?id=44341639) - [U.S. bombs Iranian nuclear sites](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
 * [2025-06-21, 22:44:28](https://news.ycombinator.com/item?id=44341281) - [Requiem for a Solar Plant](https://7goldfish.com/articles/Requiem_for_a_solar_plant.php)
 * [2025-06-21, 20:08:30](https://news.ycombinator.com/item?id=44340386) - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
-* [2025-06-21, 09:23:21](https://news.ycombinator.com/item?id=44336015) - [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
 * [2025-06-21, 08:10:50](https://news.ycombinator.com/item?id=44335664) - [uBlock Origin Lite Beta for Safari iOS](https://testflight.apple.com/join/JjTcThrV)
 * [2025-06-21, 06:29:00](https://news.ycombinator.com/item?id=44335065) - [Delta Chat is a decentralized and secure messenger app](https://delta.chat/en/)
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)

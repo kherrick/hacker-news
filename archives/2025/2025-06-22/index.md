@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
+* [2025-06-22, 17:33:04](https://news.ycombinator.com/item?id=44348649) - [Show HN: A Tool to Summarize Kenya's Parliament with Rust, Whisper, and LLMs](https://github.com/c12i/bunge-bits)
 * [2025-06-22, 17:06:51](https://news.ycombinator.com/item?id=44348448) - [Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI](https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971)
 * [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The Cultural Decline of Literary Fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 * [2025-06-22, 14:56:44](https://news.ycombinator.com/item?id=44347425) - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
