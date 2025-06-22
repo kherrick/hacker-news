@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-22, 02:51:03",
+      "https://news.ycombinator.com/item?id=44342977"
+    ],
+    [
+      "TPU Deep Dive",
+      "https://henryhmko.github.io/posts/tpu/tpu.html"
+    ]
+  ],
+  [
+    [
       "2025-06-22, 02:17:51",
       "https://news.ycombinator.com/item?id=44342731"
     ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2025-06-21, 23:43:59",
-      "https://news.ycombinator.com/item?id=44341564"
-    ],
-    [
-      "See Jane 128 by Arktronics run (ft. Magic Desk, 3-Plus-1 and the Thomson MO5)",
-      "http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 20:08:30",
       "https://news.ycombinator.com/item?id=44340386"
     ],
     [
       "LaborBerlin: State-of-the-Art 16mm Projector",
       "https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 19:25:45",
-      "https://news.ycombinator.com/item?id=44340081"
-    ],
-    [
-      "Show HN: To-Userscript: Chrome Extension to Userscript Converter",
-      "https://github.com/Explosion-Scratch/to-userscript"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-06-18, 18:25:11",
+      "https://news.ycombinator.com/item?id=44312175"
+    ],
+    [
+      "Cross-Compilation Toolchains for Linux",
+      "https://toolchains.bootlin.com/"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 15:29:30",
       "https://news.ycombinator.com/item?id=44310763"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=44309734"
     ],
     [
-      "The bad boy of bar charts: William Playfair",
+      "The bad boy of bar charts: William Playfair (2023)",
       "https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html"
     ]
   ],
