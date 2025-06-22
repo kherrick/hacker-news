@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-22, 12:52:27](https://news.ycombinator.com/item?id=44346529) - [The Father of Modern Metal](https://nautil.us/the-father-of-modern-metal-235939/)
+* [2025-06-22, 12:52:27](https://news.ycombinator.com/item?id=44346529) - [Harry Brearley, the creator of stainless steel (2016)](https://nautil.us/the-father-of-modern-metal-235939/)
+* [2025-06-22, 12:43:42](https://news.ycombinator.com/item?id=44346450) - [Using an $8 smart outlet to avoid brainrot](https://www.neilchen.co/blog/kasa)
 * [2025-06-22, 09:14:35](https://news.ycombinator.com/item?id=44345334) - [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 * [2025-06-22, 07:10:01](https://news.ycombinator.com/item?id=44344621) - [Avoiding the Global Lobotomy](https://www.jdemeta.net/p/avoiding-the-global-lobotomy)
 * [2025-06-22, 06:07:48](https://news.ycombinator.com/item?id=44344246) - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
@@ -20,7 +21,6 @@
 * [2025-06-19, 10:33:44](https://news.ycombinator.com/item?id=44317242) - [Show HN: I'm building an app to replace Overleaf and Notion](https://news.ycombinator.com/item?id=44317242)
 * [2025-06-18, 23:43:25](https://news.ycombinator.com/item?id=44314203) - [Largest Wildlife Bridge Spanning 10 Lanes of CA 101 Is Nearly Complete](https://www.thedrive.com/news/worlds-largest-wildlife-bridge-spanning-10-lanes-of-101-freeway-is-nearly-complete)
 * [2025-06-18, 22:14:18](https://news.ycombinator.com/item?id=44313722) - [When Humans Learned to Live Everywhere](https://www.nytimes.com/2025/06/18/science/ancient-human-adaptation-environments.html)
-* [2025-06-18, 19:27:51](https://news.ycombinator.com/item?id=44312645) - [What is the most realistic submarine movie? (2019)](https://www.usni.org/magazines/proceedings/2019/october/what-most-realistic-submarine-movie-ever-made)
 * [2025-06-18, 18:52:24](https://news.ycombinator.com/item?id=44312363) - [Remote MCP Support in Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)
 * [2025-06-18, 16:13:49](https://news.ycombinator.com/item?id=44311141) - [Low-Temperature Additive Manufacturing of Glass](https://www.ll.mit.edu/research-and-development/advanced-technology/microsystems-prototyping-foundry/low-temperature)
 * [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – Easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
