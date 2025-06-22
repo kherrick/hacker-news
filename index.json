@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-06-19, 16:43:17",
+      "https://news.ycombinator.com/item?id=44320285"
+    ],
+    [
+      "2048 with only 64 bits of state",
+      "https://github.com/izabera/bitwise-challenge-2048"
+    ]
+  ],
+  [
+    [
       "2025-06-19, 14:44:57",
       "https://news.ycombinator.com/item?id=44319166"
     ],
@@ -287,16 +297,6 @@
     [
       "Type Inference Zoo",
       "https://zoo.cuichen.cc/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 05:25:36",
-      "https://news.ycombinator.com/item?id=44306892"
-    ],
-    [
-      "Using Microsoft's New CLI Text Editor on Ubuntu",
-      "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu"
     ]
   ]
 ]
