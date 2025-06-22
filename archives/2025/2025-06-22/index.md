@@ -12,6 +12,7 @@
 * [2025-06-22, 09:40:15](https://news.ycombinator.com/item?id=44345451) - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887)
 * [2025-06-22, 09:14:35](https://news.ycombinator.com/item?id=44345334) - [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 * [2025-06-22, 07:54:12](https://news.ycombinator.com/item?id=44344873) - [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/)
+* [2025-06-22, 07:27:27](https://news.ycombinator.com/item?id=44344708) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2025-06-22, 07:10:25](https://news.ycombinator.com/item?id=44344624) - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
 * [2025-06-22, 07:10:01](https://news.ycombinator.com/item?id=44344621) - [Avoiding the Global Lobotomy](https://www.jdemeta.net/p/avoiding-the-global-lobotomy)
 * [2025-06-22, 07:07:18](https://news.ycombinator.com/item?id=44344601) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
