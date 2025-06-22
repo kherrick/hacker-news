@@ -20,7 +20,6 @@
 * [2025-06-19, 16:58:50](https://news.ycombinator.com/item?id=44320435) - [Debunking NIST's calculation of the Kyber-512 security level (2023)](https://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2025-06-19, 00:02:20](https://news.ycombinator.com/item?id=44314305) - [The Nyanja new PC-Engine/TurboGrafx 16-bit console game in development](https://sarupro.itch.io/thenyanja)
 * [2025-06-18, 23:49:18](https://news.ycombinator.com/item?id=44314234) - [Compact Representations for Arrays in Lua [pdf]](https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059)
-* [2025-06-18, 18:25:11](https://news.ycombinator.com/item?id=44312175) - [Cross-Compilation Toolchains for Linux](https://toolchains.bootlin.com/)
 * [2025-06-18, 15:29:30](https://news.ycombinator.com/item?id=44310763) - [Airpass – easily overcome WiFi time limits](https://airpass.tiagoalves.me/)
 * [2025-06-18, 13:29:31](https://news.ycombinator.com/item?id=44309734) - [The bad boy of bar charts: William Playfair (2023)](https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html)
 * [2025-06-18, 12:27:51](https://news.ycombinator.com/item?id=44309279) - [Compiler for the B Programming Language](https://github.com/tsoding/b)
@@ -29,6 +28,7 @@
 * [2025-06-18, 09:56:28](https://news.ycombinator.com/item?id=44308328) - [P-Hacking in Startups](https://briefer.cloud/blog/posts/p-hacking/)
 * [2025-06-18, 08:50:30](https://news.ycombinator.com/item?id=44307976) - [Show HN: Luna Rail – treating night trains as a spatial optimization problem](https://luna-rail.com/en/home-2)
 * [2025-06-18, 08:02:32](https://news.ycombinator.com/item?id=44307667) - [Type Inference Zoo](https://zoo.cuichen.cc/)
+* [2025-06-18, 07:45:22](https://news.ycombinator.com/item?id=44307552) - [P2piano: A P2P collaboration space for the musically inclined](https://p2piano.com/)
 * [2025-06-18, 05:25:36](https://news.ycombinator.com/item?id=44306892) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 
 ## [Archives](archives/index.md)

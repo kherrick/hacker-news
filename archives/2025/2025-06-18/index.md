@@ -61,6 +61,7 @@
 * [2025-06-18, 08:37:12](https://news.ycombinator.com/item?id=44307892) - [No More Shading Languages: Compiling C++ to Vulkan Shaders [pdf]](https://xol.io/random/vcc-paper.pdf)
 * [2025-06-18, 08:02:32](https://news.ycombinator.com/item?id=44307667) - [Type Inference Zoo](https://zoo.cuichen.cc/)
 * [2025-06-18, 07:58:18](https://news.ycombinator.com/item?id=44307629) - [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)
+* [2025-06-18, 07:45:22](https://news.ycombinator.com/item?id=44307552) - [P2piano: A P2P collaboration space for the musically inclined](https://p2piano.com/)
 * [2025-06-18, 07:25:16](https://news.ycombinator.com/item?id=44307445) - [Ancient termite poo reveals 120M-year-old secrets of Australia's forests](https://phys.org/news/2025-06-ancient-termite-poo-reveals-million.html)
 * [2025-06-18, 07:14:28](https://news.ycombinator.com/item?id=44307388) - [I Dropped the Production Database on a Friday Night](https://vince.beehiiv.com/p/how-i-dropped-the-production-database-on-a-friday-night)
 * [2025-06-18, 07:01:15](https://news.ycombinator.com/item?id=44307334) - [Show HN: Cpdown – Copy any webpage/YouTube subtitle as clean Markdown(LLM-ready)](https://news.ycombinator.com/from?site=github.com/ysm-dev)
