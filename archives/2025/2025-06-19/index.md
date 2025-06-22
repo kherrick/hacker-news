@@ -45,6 +45,7 @@
 * [2025-06-19, 09:29:28](https://news.ycombinator.com/item?id=44316909) - [From LLM to AI Agent: What's the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
 * [2025-06-19, 08:44:57](https://news.ycombinator.com/item?id=44316678) - [Polylogarithm Values at a Golden Ratio-Based Argument](https://zenodo.org/records/15696357)
 * [2025-06-19, 08:41:34](https://news.ycombinator.com/item?id=44316665) - [Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone](https://linmob.net/liberux-nexx-an-interview-with-liberux/)
+* [2025-06-19, 06:20:41](https://news.ycombinator.com/item?id=44315968) - [Allocators Are Monkeys with Typewriters](https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/)
 * [2025-06-19, 04:49:32](https://news.ycombinator.com/item?id=44315529) - [SpaceX Starship 36 Anomaly](https://twitter.com/NASASpaceflight/status/1935548909805601020)
 * [2025-06-19, 04:20:52](https://news.ycombinator.com/item?id=44315409) - [Death to WYSIWYG!](https://ratfactor.com/htmlwarden/death-to-wysiwyg)
 * [2025-06-19, 04:18:31](https://news.ycombinator.com/item?id=44315400) - [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
