@@ -33,6 +33,7 @@
 * [2025-06-18, 16:40:03](https://news.ycombinator.com/item?id=44311363) - [The Great Decoupling (Or Why Your Clicks Are Down and Impressions Up)](https://ahrefs.com/blog/the-great-decoupling/)
 * [2025-06-18, 16:26:35](https://news.ycombinator.com/item?id=44311241) - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 * [2025-06-18, 16:23:46](https://news.ycombinator.com/item?id=44311217) - [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices)
+* [2025-06-18, 16:13:49](https://news.ycombinator.com/item?id=44311141) - [Low-Temperature Additive Manufacturing of Glass](https://www.ll.mit.edu/research-and-development/advanced-technology/microsystems-prototyping-foundry/low-temperature)
 * [2025-06-18, 15:56:46](https://news.ycombinator.com/item?id=44310996) - [Fundamental Problems of Lisp, the Cons Cell (2024)](http://xahlee.info/comp/lisp_cons_problem.html)
 * [2025-06-18, 15:49:53](https://news.ycombinator.com/item?id=44310944) - [My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server](https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/)
 * [2025-06-18, 15:43:01](https://news.ycombinator.com/item?id=44310877) - [Show HN: I made an app that lets you save audio to your Cameral Roll](https://justsendrecord.com)

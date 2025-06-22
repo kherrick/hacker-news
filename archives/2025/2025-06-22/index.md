@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
+* [2025-06-22, 12:52:27](https://news.ycombinator.com/item?id=44346529) - [The Father of Modern Metal](https://nautil.us/the-father-of-modern-metal-235939/)
 * [2025-06-22, 11:52:27](https://news.ycombinator.com/item?id=44346120) - [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
 * [2025-06-22, 10:27:23](https://news.ycombinator.com/item?id=44345670) - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
+* [2025-06-22, 09:14:35](https://news.ycombinator.com/item?id=44345334) - [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 * [2025-06-22, 07:54:12](https://news.ycombinator.com/item?id=44344873) - [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/)
 * [2025-06-22, 07:10:25](https://news.ycombinator.com/item?id=44344624) - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
+* [2025-06-22, 07:10:01](https://news.ycombinator.com/item?id=44344621) - [Avoiding the Global Lobotomy](https://www.jdemeta.net/p/avoiding-the-global-lobotomy)
 * [2025-06-22, 07:07:18](https://news.ycombinator.com/item?id=44344601) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 * [2025-06-22, 06:07:48](https://news.ycombinator.com/item?id=44344246) - [A web extension to redirects YouTube, X, etc. to privacy-friendly front ends](https://libredirect.github.io)
 * [2025-06-22, 05:05:07](https://news.ycombinator.com/item?id=44343840) - [Linux on the Behringer X32 [video]](https://www.youtube.com/watch?v=6CfLC5xVy90)
