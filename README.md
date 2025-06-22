@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-22, 07:10:25](https://news.ycombinator.com/item?id=44344624) - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
+* [2025-06-22, 07:54:12](https://news.ycombinator.com/item?id=44344873) - [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/)
 * [2025-06-22, 07:07:18](https://news.ycombinator.com/item?id=44344601) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 * [2025-06-22, 06:07:48](https://news.ycombinator.com/item?id=44344246) - [A web extension to redirects YouTube, X, etc. to privacy-friendly front ends](https://libredirect.github.io)
 * [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
