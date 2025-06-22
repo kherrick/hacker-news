@@ -40,6 +40,7 @@
 * [2025-06-19, 09:46:43](https://news.ycombinator.com/item?id=44317012) - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
 * [2025-06-19, 09:31:14](https://news.ycombinator.com/item?id=44316920) - [Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
 * [2025-06-19, 09:29:28](https://news.ycombinator.com/item?id=44316909) - [From LLM to AI Agent: What's the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
+* [2025-06-19, 08:44:57](https://news.ycombinator.com/item?id=44316678) - [Polylogarithm Values at a Golden Ratio-Based Argument](https://zenodo.org/records/15696357)
 * [2025-06-19, 08:41:34](https://news.ycombinator.com/item?id=44316665) - [Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone](https://linmob.net/liberux-nexx-an-interview-with-liberux/)
 * [2025-06-19, 04:49:32](https://news.ycombinator.com/item?id=44315529) - [SpaceX Starship 36 Anomaly](https://twitter.com/NASASpaceflight/status/1935548909805601020)
 * [2025-06-19, 04:20:52](https://news.ycombinator.com/item?id=44315409) - [Death to WYSIWYG!](https://ratfactor.com/htmlwarden/death-to-wysiwyg)
