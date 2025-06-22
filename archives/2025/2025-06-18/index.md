@@ -10,6 +10,7 @@
 * [2025-06-18, 23:17:10](https://news.ycombinator.com/item?id=44314085) - [Show HN: Unregistry – \"docker push\" directly to servers without a registry](https://github.com/psviderski/unregistry)
 * [2025-06-18, 23:11:03](https://news.ycombinator.com/item?id=44314054) - [New US visa rules will force foreign students to unlock social media profiles](https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening)
 * [2025-06-18, 22:40:32](https://news.ycombinator.com/item?id=44313901) - [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
+* [2025-06-18, 22:14:18](https://news.ycombinator.com/item?id=44313722) - [When Humans Learned to Live Everywhere](https://www.nytimes.com/2025/06/18/science/ancient-human-adaptation-environments.html)
 * [2025-06-18, 22:02:21](https://news.ycombinator.com/item?id=44313652) - [A deep-dive explainer on Ink and Switch's BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
 * [2025-06-18, 21:45:46](https://news.ycombinator.com/item?id=44313550) - [The Missing 11th of the Month](https://drhagen.com/blog/the-missing-11th-of-the-month/)
 * [2025-06-18, 21:21:26](https://news.ycombinator.com/item?id=44313379) - [Bento: A Steam Deck in a Keyboard](https://github.com/lunchbox-computer/bento)

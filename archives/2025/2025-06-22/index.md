@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
+* [2025-06-22, 07:10:25](https://news.ycombinator.com/item?id=44344624) - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
 * [2025-06-22, 07:07:18](https://news.ycombinator.com/item?id=44344601) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 * [2025-06-22, 05:05:07](https://news.ycombinator.com/item?id=44343840) - [Linux on the Behringer X32 [video]](https://www.youtube.com/watch?v=6CfLC5xVy90)
 * [2025-06-22, 02:51:03](https://news.ycombinator.com/item?id=44342977) - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
