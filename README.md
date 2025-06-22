@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-22, 22:56:30](https://news.ycombinator.com/item?id=44350982) - [Kastle (S24) is hiring engineers](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24)
+* [2025-06-22, 22:56:30](https://news.ycombinator.com/item?id=44350982) - [Kastle (S24) is hiring an engineer](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24)
 * [2025-06-22, 21:50:27](https://news.ycombinator.com/item?id=44350597) - [Children in England growing up 'sedentary, scrolling and alone', say experts](https://www.theguardian.com/society/2025/jun/11/children-sedentary-scrolling-alone-lack-of-play-england)
 * [2025-06-22, 21:28:54](https://news.ycombinator.com/item?id=44350450) - [Radio Garden](https://radio.garden/?2025)
 * [2025-06-22, 21:12:01](https://news.ycombinator.com/item?id=44350322) - [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
