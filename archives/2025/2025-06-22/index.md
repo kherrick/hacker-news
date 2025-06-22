@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
+* [2025-06-22, 19:37:59](https://news.ycombinator.com/item?id=44349662) - [What would happen if you tried to land on a gas giant?](https://www.popsci.com/science/can-we-land-on-jupiter-saturn/)
+* [2025-06-22, 19:36:55](https://news.ycombinator.com/item?id=44349655) - [Lawrence Yun on the State of U.S. Housing Market](https://www.c-span.org/program/washington-journal/lawrence-yun-on-the-state-of-us-housing-market/661482)
 * [2025-06-22, 18:37:56](https://news.ycombinator.com/item?id=44349223) - [Let's Talk About Writing in Tech](https://www.gmoniava.com/blog/lets-talk-about-writing-in-tech)
+* [2025-06-22, 18:25:13](https://news.ycombinator.com/item?id=44349117) - [Show HN: Turn a paper's DOI into its full reference list (BibTeX/RIS, etc.)](https://references.mireklzicar.com)
 * [2025-06-22, 17:51:55](https://news.ycombinator.com/item?id=44348813) - [AGI is Mathematically Impossible 2: When Entropy Returns](https://philarchive.org/archive/SCHAIM-14)
 * [2025-06-22, 17:33:04](https://news.ycombinator.com/item?id=44348649) - [Show HN: A Tool to Summarize Kenya's Parliament with Rust, Whisper, and LLMs](https://github.com/c12i/bunge-bits)
 * [2025-06-22, 17:21:52](https://news.ycombinator.com/item?id=44348565) - [Discover C++26's compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
