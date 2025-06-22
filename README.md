@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-22, 10:27:23](https://news.ycombinator.com/item?id=44345670) - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
 * [2025-06-22, 07:54:12](https://news.ycombinator.com/item?id=44344873) - [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/)
 * [2025-06-22, 07:07:18](https://news.ycombinator.com/item?id=44344601) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 * [2025-06-22, 06:07:48](https://news.ycombinator.com/item?id=44344246) - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
@@ -17,7 +18,6 @@
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 01:06:13](https://news.ycombinator.com/item?id=44323905) - [Mbake – A Makefile formatter and linter, that only took 50 years](https://github.com/EbodShojaei/bake)
 * [2025-06-19, 10:33:44](https://news.ycombinator.com/item?id=44317242) - [Show HN: I'm building an app to replace Overleaf and Notion](https://news.ycombinator.com/item?id=44317242)
-* [2025-06-18, 23:49:18](https://news.ycombinator.com/item?id=44314234) - [Compact Representations for Arrays in Lua [pdf]](https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059)
 * [2025-06-18, 22:14:18](https://news.ycombinator.com/item?id=44313722) - [When Humans Learned to Live Everywhere](https://www.nytimes.com/2025/06/18/science/ancient-human-adaptation-environments.html)
 * [2025-06-18, 19:27:51](https://news.ycombinator.com/item?id=44312645) - [What is the most realistic submarine movie? (2019)](https://www.usni.org/magazines/proceedings/2019/october/what-most-realistic-submarine-movie-ever-made)
 * [2025-06-18, 18:52:24](https://news.ycombinator.com/item?id=44312363) - [Remote MCP Support in Claude Code](https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367)

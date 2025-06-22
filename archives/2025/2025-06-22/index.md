@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
+* [2025-06-22, 10:27:23](https://news.ycombinator.com/item?id=44345670) - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
 * [2025-06-22, 07:54:12](https://news.ycombinator.com/item?id=44344873) - [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/)
 * [2025-06-22, 07:10:25](https://news.ycombinator.com/item?id=44344624) - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
 * [2025-06-22, 07:07:18](https://news.ycombinator.com/item?id=44344601) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
