@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-06-22, 20:39:06",
+      "https://news.ycombinator.com/item?id=44350097"
+    ],
+    [
+      "GOP tax bill would sell off USPS's brand-new EVs",
+      "https://www.washingtonpost.com/business/2025/06/21/trump-usps-trucks-taxes/"
+    ]
+  ],
+  [
+    [
       "2025-06-22, 20:04:33",
       "https://news.ycombinator.com/item?id=44349845"
     ],
     [
-      "Why do all browsers' user agents start with \"Mozilla/\"?",
+      "Why do all browsers' user agents start with \"Mozilla/\"? (2008)",
       "https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla"
     ]
   ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-06-19, 13:56:10",
-      "https://news.ycombinator.com/item?id=44318728"
+      "2025-06-19, 06:42:58",
+      "https://news.ycombinator.com/item?id=44316093"
     ],
     [
-      "Load Test GlassFlow for ClickHouse: Real-Time Dedup at Scale",
-      "https://www.glassflow.dev/blog/load-test-glass-flow-for-click-house-real-time-deduplication-at-scale"
+      "We’ve had a Denisovan skull since the 1930s—only nobody knew",
+      "https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "P-Hacking in Startups",
       "https://briefer.cloud/blog/posts/p-hacking/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 08:02:32",
-      "https://news.ycombinator.com/item?id=44307667"
-    ],
-    [
-      "Type Inference Zoo",
-      "https://zoo.cuichen.cc/"
     ]
   ]
 ]
