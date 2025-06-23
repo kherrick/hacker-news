@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-06-23, 09:10:00",
+      "https://news.ycombinator.com/item?id=44353775"
+    ],
+    [
+      "EU rules for durable, energy-efficient and repairable smartphones and tablets",
+      "https://single-market-economy.ec.europa.eu/news/new-eu-rules-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying-2025-06-20_en"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 08:07:26",
       "https://news.ycombinator.com/item?id=44353490"
     ],
     [
       "Claude Code for VSCode",
       "https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 07:52:45",
+      "https://news.ycombinator.com/item?id=44353422"
+    ],
+    [
+      "The role of the University is to resist AI",
+      "https://danmcquillan.org/cpct_seminar.html"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Spectroscopic Classification of ASASSN-25cm as a Classical Nova",
       "https://www.astronomerstelegram.org/?read=17228"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 05:10:44",
-      "https://news.ycombinator.com/item?id=44352615"
-    ],
-    [
-      "Nano-Vllm: lightweight vLLM implementation built from scratch",
-      "https://github.com/GeeeekExplorer/nano-vllm"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Python can run Mojo now",
       "https://koaning.io/posts/giving-mojo-a-spin/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 16:45:52",
-      "https://news.ycombinator.com/item?id=44329556"
-    ],
-    [
-      "2048 in bash with only 64 bits of state",
-      "https://github.com/izabera/bitwise-challenge-2048"
     ]
   ],
   [
