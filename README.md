@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-23, 03:50:24](https://news.ycombinator.com/item?id=44352311) - [The X Window System didn't immediately have X terminals](https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate)
 * [2025-06-23, 03:34:23](https://news.ycombinator.com/item?id=44352254) - [Tesla launches robotaxi rides in Austin](https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/)
 * [2025-06-23, 01:47:00](https://news.ycombinator.com/item?id=44351817) - [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate)
 * [2025-06-23, 01:43:11](https://news.ycombinator.com/item?id=44351798) - [Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364)
@@ -25,7 +26,6 @@
 * [2025-06-21, 07:51:19](https://news.ycombinator.com/item?id=44335583) - [2025 Alonzo Church Award: Paul Blain Levy for Call-by-Push-Value (CBPV)](https://siglog.org/winner-of-the-2025-alonzo-church-award/)
 * [2025-06-20, 23:40:14](https://news.ycombinator.com/item?id=44333155) - [Cross-Account and Cross-Region Backups with AWS Backup (and Friends)](https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/)
 * [2025-06-20, 19:46:33](https://news.ycombinator.com/item?id=44331316) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
-* [2025-06-20, 19:36:18](https://news.ycombinator.com/item?id=44331201) - [Kilauea volcano errupts, lava more than 1k feet high [video]](https://www.youtube.com/watch?v=oG5zz9Sjw3E)
 * [2025-06-20, 13:27:21](https://news.ycombinator.com/item?id=44327554) - [Adobe Project Indigo is a new photo app from former Pixel camera engineers](https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html)
 * [2025-06-19, 16:43:17](https://news.ycombinator.com/item?id=44320285) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-19, 06:42:58](https://news.ycombinator.com/item?id=44316093) - [We’ve had a Denisovan skull since the 1930s—only nobody knew](https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/)
