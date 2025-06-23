@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-23, 18:18:11](https://news.ycombinator.com/item?id=44358524) - [Judge denies creating \"mass surveillance program\" harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
 * [2025-06-23, 16:27:25](https://news.ycombinator.com/item?id=44357411) - [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
 * [2025-06-23, 16:24:05](https://news.ycombinator.com/item?id=44357378) - [NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System](https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454)
 * [2025-06-23, 15:30:33](https://news.ycombinator.com/item?id=44356799) - [Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
@@ -27,7 +28,6 @@
 * [2025-06-20, 09:56:06](https://news.ycombinator.com/item?id=44326175) - [Homotopy Equivalences](https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/)
 * [2025-06-20, 09:05:20](https://news.ycombinator.com/item?id=44325861) - [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
 * [2025-06-20, 08:21:04](https://news.ycombinator.com/item?id=44325673) - [Scroll snapping, state queries, monster hunter, and gamification](https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification)
-* [2025-06-20, 03:55:33](https://news.ycombinator.com/item?id=44324596) - [Tell me about your favorite tree (a slow-web proposal)](https://nannnsss.omg.lol/2025/tell-me-about-your-favorite-tree/)
 * [2025-06-19, 23:40:36](https://news.ycombinator.com/item?id=44323528) - [Rivulet: An esolang inspired by calligraphy && code [video]](https://media.ccc.de/v/gpn23-35-rivulet-an-esolang-inspired-by-calligraphy-and-other-experiments-in-natural-language-code)
 * [2025-06-19, 17:40:05](https://news.ycombinator.com/item?id=44320832) - [Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300](https://samsorensen.blot.im/cataphracts-design-diary-1)
 

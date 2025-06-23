@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 18:18:11](https://news.ycombinator.com/item?id=44358524) - [Judge denies creating \"mass surveillance program\" harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
 * [2025-06-23, 17:04:43](https://news.ycombinator.com/item?id=44357779) - [Officials Concede They Don't Know the Fate of Iran's Uranium Stockpile](https://www.nytimes.com/2025/06/22/us/politics/iran-uranium-stockpile-whereabouts.html)
 * [2025-06-23, 16:27:25](https://news.ycombinator.com/item?id=44357411) - [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
 * [2025-06-23, 16:24:05](https://news.ycombinator.com/item?id=44357378) - [NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System](https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454)
