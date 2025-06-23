@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 20:16:33",
+      "https://news.ycombinator.com/item?id=44359619"
+    ],
+    [
+      "Discord Is Threatening to Shutdown BotGhost",
+      "https://update.botghost.com/"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 19:34:22",
       "https://news.ycombinator.com/item?id=44359229"
     ],
@@ -167,16 +177,6 @@
     [
       "RaptorCast: Designing a Messaging Layer",
       "https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 05:10:44",
-      "https://news.ycombinator.com/item?id=44352615"
-    ],
-    [
-      "Nano-Vllm: lightweight vLLM implementation built from scratch",
-      "https://github.com/GeeeekExplorer/nano-vllm"
     ]
   ],
   [
