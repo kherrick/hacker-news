@@ -47,6 +47,7 @@
 * [2025-06-21, 06:07:48](https://news.ycombinator.com/item?id=44334963) - [People instantly decide whether to trust a product based on design](https://www.andrewcoyle.com/blog/beauty-is-objective)
 * [2025-06-21, 06:06:24](https://news.ycombinator.com/item?id=44334958) - [Apple Executives Have Held Internal Talks About Buying AI Startup Perplexity](https://www.bloomberg.com/news/articles/2025-06-20/apple-executives-have-held-internal-talks-about-buying-ai-startup-perplexity)
 * [2025-06-21, 05:21:49](https://news.ycombinator.com/item?id=44334743) - [Signal – An Ethical Replacement for WhatsApp](https://greenstarsproject.org/2025/06/15/signal-an-ethical-replacement-for-whatsapp/)
+* [2025-06-21, 04:41:03](https://news.ycombinator.com/item?id=44334564) - [BYOK – Bring Your Own Keyboard](https://byok.io)
 * [2025-06-21, 04:19:56](https://news.ycombinator.com/item?id=44334472) - [The Cult of Personality and Its Consequences](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences)
 * [2025-06-21, 04:08:34](https://news.ycombinator.com/item?id=44334419) - [Ocarina of Time Randomizer](https://ootrandomizer.com/)
 * [2025-06-21, 04:04:56](https://news.ycombinator.com/item?id=44334403) - [Augmented Vertex Block Descent (AVBD)](https://graphics.cs.utah.edu/research/projects/avbd/)
