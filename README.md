@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-23, 22:22:47](https://news.ycombinator.com/item?id=44360806) - [Skip the exit interview when you leave your job](https://blog.petdance.com/2017/03/31/skip-the-exit-interview-when-you-leave-your-job/)
+* [2025-06-23, 23:34:04](https://news.ycombinator.com/item?id=44361308) - [Scientists use bacteria to turn plastic waste into paracetamol](https://www.theguardian.com/science/2025/jun/23/scientists-use-e-coli-bacteria-to-turn-plastic-waste-into-paracetamol-painkiller)
+* [2025-06-23, 23:08:11](https://news.ycombinator.com/item?id=44361130) - [How many PhDs does world need? Doctoral graduates outnumber academia jobs](https://www.nature.com/articles/d41586-025-01855-w)
 * [2025-06-23, 20:50:32](https://news.ycombinator.com/item?id=44359938) - [GitHub CEO: manual coding remains key despite AI boom](https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom)
 * [2025-06-23, 19:34:22](https://news.ycombinator.com/item?id=44359229) - [Environmental Impacts of Artificial Intelligence](https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence)
 * [2025-06-23, 19:02:17](https://news.ycombinator.com/item?id=44358944) - [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
-* [2025-06-23, 18:51:51](https://news.ycombinator.com/item?id=44358829) - [A deep critique of AI 2027's bad timeline models](https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models)
 * [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358668) - [2025 Iberia Blackout Report [pdf]](https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28)
 * [2025-06-23, 18:18:11](https://news.ycombinator.com/item?id=44358524) - [Judge denies creating “mass surveillance program” harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
 * [2025-06-23, 16:27:25](https://news.ycombinator.com/item?id=44357411) - [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)

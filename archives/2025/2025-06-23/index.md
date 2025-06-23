@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 23:34:04](https://news.ycombinator.com/item?id=44361308) - [Scientists use bacteria to turn plastic waste into paracetamol](https://www.theguardian.com/science/2025/jun/23/scientists-use-e-coli-bacteria-to-turn-plastic-waste-into-paracetamol-painkiller)
+* [2025-06-23, 23:08:11](https://news.ycombinator.com/item?id=44361130) - [How many PhDs does world need? Doctoral graduates outnumber academia jobs](https://www.nature.com/articles/d41586-025-01855-w)
 * [2025-06-23, 22:22:47](https://news.ycombinator.com/item?id=44360806) - [Skip the exit interview when you leave your job](https://blog.petdance.com/2017/03/31/skip-the-exit-interview-when-you-leave-your-job/)
 * [2025-06-23, 20:50:32](https://news.ycombinator.com/item?id=44359938) - [GitHub CEO: manual coding remains key despite AI boom](https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom)
 * [2025-06-23, 20:16:33](https://news.ycombinator.com/item?id=44359619) - [Discord Is Threatening to Shutdown BotGhost](https://update.botghost.com/)
