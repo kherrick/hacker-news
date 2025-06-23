@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 10:39:13",
+      "https://news.ycombinator.com/item?id=44354250"
+    ],
+    [
+      "Where is Iran's uranium? Questions remain over stash of enriched material",
+      "https://www.ft.com/content/12a864cc-eeb8-4725-aed8-5ddff9ac588e"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 09:10:00",
       "https://news.ycombinator.com/item?id=44353775"
     ],
@@ -37,6 +47,16 @@
     [
       "Spectroscopic Classification of ASASSN-25cm as a Classical Nova",
       "https://www.astronomerstelegram.org/?read=17228"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 05:10:44",
+      "https://news.ycombinator.com/item?id=44352615"
+    ],
+    [
+      "Nano-Vllm: lightweight vLLM implementation built from scratch",
+      "https://github.com/GeeeekExplorer/nano-vllm"
     ]
   ],
   [
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=44349761"
     ],
     [
-      "Interview with Francine Prose on early-1970s San Francisco [audio]",
+      "Interview with Francine Prose [audio]",
       "https://www.laphamsquarterly.org/content/episode-3-francine-prose"
     ]
   ],
@@ -197,16 +217,6 @@
     [
       "Mechanical Watch: Exploded View",
       "https://fellerts.no/projects/epoch.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 07:51:19",
-      "https://news.ycombinator.com/item?id=44335583"
-    ],
-    [
-      "2025 Alonzo Church Award: Paul Blain Levy for Call-by-Push-Value (CBPV)",
-      "https://siglog.org/winner-of-the-2025-alonzo-church-award/"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-06-20, 13:27:21",
-      "https://news.ycombinator.com/item?id=44327554"
+      "2025-06-20, 09:56:06",
+      "https://news.ycombinator.com/item?id=44326175"
     ],
     [
-      "Adobe Project Indigo is a new photo app from former Pixel camera engineers",
-      "https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html"
+      "(Weak) Homotopy Equivalences",
+      "https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "2048 with only 64 bits of state",
       "https://github.com/izabera/bitwise-challenge-2048"
-    ]
-  ],
-  [
-    [
-      "2025-06-19, 06:42:58",
-      "https://news.ycombinator.com/item?id=44316093"
-    ],
-    [
-      "We’ve had a Denisovan skull since the 1930s, only nobody knew",
-      "https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/"
     ]
   ]
 ]
