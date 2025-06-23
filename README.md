@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-23, 20:16:33](https://news.ycombinator.com/item?id=44359619) - [Discord Is Threatening to Shutdown BotGhost](https://update.botghost.com/)
 * [2025-06-23, 19:34:22](https://news.ycombinator.com/item?id=44359229) - [Environmental Impacts of Artificial Intelligence](https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence)
 * [2025-06-23, 19:02:17](https://news.ycombinator.com/item?id=44358944) - [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
 * [2025-06-23, 18:51:51](https://news.ycombinator.com/item?id=44358829) - [A deep critique of AI 2027's bad timeline models](https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models)
@@ -17,7 +18,6 @@
 * [2025-06-23, 14:46:03](https://news.ycombinator.com/item?id=44356346) - [Making TRAMP go Brrrr](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
 * [2025-06-23, 14:37:05](https://news.ycombinator.com/item?id=44356248) - [Backyard Coffee and Jazz in Kyoto](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
 * [2025-06-23, 06:46:33](https://news.ycombinator.com/item?id=44353098) - [RaptorCast: Designing a Messaging Layer](https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer)
-* [2025-06-23, 05:10:44](https://news.ycombinator.com/item?id=44352615) - [Nano-Vllm: lightweight vLLM implementation built from scratch](https://github.com/GeeeekExplorer/nano-vllm)
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
 * [2025-06-21, 23:32:47](https://news.ycombinator.com/item?id=44341515) - [Transparent Ambition: on translucent user interfaces](https://take.surf/2025/06/19/transparent-ambition)
 * [2025-06-21, 15:29:35](https://news.ycombinator.com/item?id=44338309) - [First methane-powered sea spiders found crawling on the ocean floor](https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species)
