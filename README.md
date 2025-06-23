@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-23, 11:38:39](https://news.ycombinator.com/item?id=44354684) - [The Gender Attractiveness Gap](https://www.biorxiv.org/content/10.1101/2025.05.21.655261v1)
 * [2025-06-23, 11:21:47](https://news.ycombinator.com/item?id=44354543) - [Germany and Italy pressed to bring $245B of gold home from US](https://www.ft.com/content/e39390cc-ea02-4197-843a-1e4c242422cc)
 * [2025-06-23, 08:07:26](https://news.ycombinator.com/item?id=44353490) - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 * [2025-06-23, 07:01:20](https://news.ycombinator.com/item?id=44353182) - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
@@ -19,7 +20,6 @@
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
 * [2025-06-22, 19:51:44](https://news.ycombinator.com/item?id=44349761) - [Interview with Francine Prose [audio]](https://www.laphamsquarterly.org/content/episode-3-francine-prose)
 * [2025-06-22, 19:18:41](https://news.ycombinator.com/item?id=44349525) - [Klein Bottle Amazon Brand Hijacking (2021)](https://www.kleinbottle.com/Amazon_Brand_Hijacking.html)
-* [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The cultural decline of literary fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 * [2025-06-22, 14:56:44](https://news.ycombinator.com/item?id=44347425) - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
 * [2025-06-20, 23:40:14](https://news.ycombinator.com/item?id=44333155) - [Cross-Account and Cross-Region Backups with AWS Backup (and Friends)](https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/)
 * [2025-06-20, 23:39:26](https://news.ycombinator.com/item?id=44333149) - [Verlet Integration and Cloth Physics Simulation (2022)](https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation)

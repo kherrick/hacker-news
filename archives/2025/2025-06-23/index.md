@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 11:38:39](https://news.ycombinator.com/item?id=44354684) - [The Gender Attractiveness Gap](https://www.biorxiv.org/content/10.1101/2025.05.21.655261v1)
 * [2025-06-23, 11:21:47](https://news.ycombinator.com/item?id=44354543) - [Germany and Italy pressed to bring $245B of gold home from US](https://www.ft.com/content/e39390cc-ea02-4197-843a-1e4c242422cc)
 * [2025-06-23, 10:47:36](https://news.ycombinator.com/item?id=44354298) - [US embassy wants 'every social media username of past five years' for new visas](https://www.thejournal.ie/us-visa-changes-6740830-Jun2025/)
 * [2025-06-23, 10:39:13](https://news.ycombinator.com/item?id=44354250) - [Where is Iran's uranium? Questions remain over stash of enriched material](https://www.ft.com/content/12a864cc-eeb8-4725-aed8-5ddff9ac588e)
