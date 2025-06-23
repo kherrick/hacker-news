@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-23, 07:01:20](https://news.ycombinator.com/item?id=44353182) - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
 * [2025-06-23, 06:54:03](https://news.ycombinator.com/item?id=44353137) - [A New Nova Just Appeared in the Night Sky – You Can See It with the Naked Eye](https://www.iflscience.com/unexpected-nova-just-appeared-in-the-night-sky-and-you-can-see-it-with-the-naked-eye-79708)
 * [2025-06-23, 04:23:06](https://news.ycombinator.com/item?id=44352430) - [LeetCode for System Design](https://leetsys.dev)
 * [2025-06-23, 03:54:06](https://news.ycombinator.com/item?id=44352329) - [Show HN: Ariadne – A Rust implementation of aperiodic cryptography](https://codeberg.org/CipherNomad/Ariadne)
@@ -17,7 +18,6 @@
 * [2025-06-22, 19:51:44](https://news.ycombinator.com/item?id=44349761) - [Interview with Francine Prose on early-1970s San Francisco [audio]](https://www.laphamsquarterly.org/content/episode-3-francine-prose)
 * [2025-06-22, 19:18:41](https://news.ycombinator.com/item?id=44349525) - [Klein Bottle Amazon Brand Hijacking (2021)](https://www.kleinbottle.com/Amazon_Brand_Hijacking.html)
 * [2025-06-22, 17:51:55](https://news.ycombinator.com/item?id=44348813) - [AGI is Mathematically Impossible 2: When Entropy Returns](https://philarchive.org/archive/SCHAIM-14)
-* [2025-06-22, 17:06:51](https://news.ycombinator.com/item?id=44348448) - [Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI](https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971)
 * [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The cultural decline of literary fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 * [2025-06-22, 14:56:44](https://news.ycombinator.com/item?id=44347425) - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
 * [2025-06-21, 07:51:19](https://news.ycombinator.com/item?id=44335583) - [2025 Alonzo Church Award: Paul Blain Levy for Call-by-Push-Value (CBPV)](https://siglog.org/winner-of-the-2025-alonzo-church-award/)
