@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 20:50:32](https://news.ycombinator.com/item?id=44359938) - [GitHub CEO: manual coding remains key despite AI boom](https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom)
 * [2025-06-23, 20:16:33](https://news.ycombinator.com/item?id=44359619) - [Discord Is Threatening to Shutdown BotGhost](https://update.botghost.com/)
 * [2025-06-23, 19:34:22](https://news.ycombinator.com/item?id=44359229) - [Environmental Impacts of Artificial Intelligence](https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence)
 * [2025-06-23, 19:24:58](https://news.ycombinator.com/item?id=44359148) - [Tesla Robotaxi Videos Show Speeding, Driving into Wrong Lane](https://www.bloomberg.com/news/articles/2025-06-23/tesla-robotaxi-videos-show-speeding-driving-into-wrong-lane)
