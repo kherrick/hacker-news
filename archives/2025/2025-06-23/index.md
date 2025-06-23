@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 08:07:26](https://news.ycombinator.com/item?id=44353490) - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 * [2025-06-23, 07:50:29](https://news.ycombinator.com/item?id=44353408) - [OpenAI and Jony Ive's \"io\" brand has disappeared](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
 * [2025-06-23, 07:01:20](https://news.ycombinator.com/item?id=44353182) - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
 * [2025-06-23, 06:54:03](https://news.ycombinator.com/item?id=44353137) - [Spectroscopic Classification of ASASSN-25cm as a Classical Nova](https://www.astronomerstelegram.org/?read=17228)

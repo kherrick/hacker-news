@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-23, 08:07:26](https://news.ycombinator.com/item?id=44353490) - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 * [2025-06-23, 07:50:29](https://news.ycombinator.com/item?id=44353408) - [OpenAI and Jony Ive's \"io\" brand has disappeared](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
 * [2025-06-23, 07:01:20](https://news.ycombinator.com/item?id=44353182) - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
 * [2025-06-23, 06:54:03](https://news.ycombinator.com/item?id=44353137) - [Spectroscopic Classification of ASASSN-25cm as a Classical Nova](https://www.astronomerstelegram.org/?read=17228)
-* [2025-06-23, 06:02:13](https://news.ycombinator.com/item?id=44352831) - [Show HN: Windowfied](https://news.ycombinator.com/item?id=44352831)
 * [2025-06-23, 05:10:44](https://news.ycombinator.com/item?id=44352615) - [Nano-Vllm: lightweight vLLM implementation built from scratch](https://github.com/GeeeekExplorer/nano-vllm)
 * [2025-06-23, 03:54:06](https://news.ycombinator.com/item?id=44352329) - [Show HN: Ariadne – A Rust implementation of aperiodic cryptography](https://codeberg.org/CipherNomad/Ariadne)
 * [2025-06-23, 03:50:24](https://news.ycombinator.com/item?id=44352311) - [The X Window System didn't immediately have X terminals](https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate)
@@ -26,9 +26,9 @@
 * [2025-06-20, 23:40:14](https://news.ycombinator.com/item?id=44333155) - [Cross-Account and Cross-Region Backups with AWS Backup (and Friends)](https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/)
 * [2025-06-20, 23:39:26](https://news.ycombinator.com/item?id=44333149) - [Verlet Integration and Cloth Physics Simulation](https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation)
 * [2025-06-20, 19:46:33](https://news.ycombinator.com/item?id=44331316) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
+* [2025-06-20, 16:45:52](https://news.ycombinator.com/item?id=44329556) - [2048 in bash with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-20, 14:52:23](https://news.ycombinator.com/item?id=44328275) - [The Tandy Corporation](https://www.abortretry.fail/p/the-tandy-corporation-part-1)
 * [2025-06-20, 09:05:20](https://news.ycombinator.com/item?id=44325861) - [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
-* [2025-06-20, 02:52:38](https://news.ycombinator.com/item?id=44324319) - [Encounters with Reality on Christine Rosen's the Extinction of Experience](https://thepointmag.com/criticism/encounters-with-reality/)
 * [2025-06-19, 16:43:17](https://news.ycombinator.com/item?id=44320285) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 
 ## [Archives](archives/index.md)

@@ -35,6 +35,7 @@
 * [2025-06-20, 17:01:35](https://news.ycombinator.com/item?id=44329712) - [YouTube's new anti-adblock measures](https://iter.ca/post/yt-adblock/)
 * [2025-06-20, 16:54:12](https://news.ycombinator.com/item?id=44329640) - [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 * [2025-06-20, 16:50:14](https://news.ycombinator.com/item?id=44329600) - [Alpha Centauri](https://www.filfre.net/2025/06/alpha-centauri/)
+* [2025-06-20, 16:45:52](https://news.ycombinator.com/item?id=44329556) - [2048 in bash with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-20, 16:35:55](https://news.ycombinator.com/item?id=44329457) - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
 * [2025-06-20, 16:35:05](https://news.ycombinator.com/item?id=44329449) - [Cracovians: The Twisted Twins of Matrices](https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/)
 * [2025-06-20, 15:51:59](https://news.ycombinator.com/item?id=44328904) - [How to Design Programs 2nd Ed (2024)](https://htdp.org)
