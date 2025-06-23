@@ -2,7 +2,6 @@
 
 * [2025-06-23, 09:10:00](https://news.ycombinator.com/item?id=44353775) - [EU rules for durable, energy-efficient and repairable smartphones and tablets](https://single-market-economy.ec.europa.eu/news/new-eu-rules-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying-2025-06-20_en)
 * [2025-06-23, 08:07:26](https://news.ycombinator.com/item?id=44353490) - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
-* [2025-06-23, 07:52:45](https://news.ycombinator.com/item?id=44353422) - [The role of the University is to resist AI](https://danmcquillan.org/cpct_seminar.html)
 * [2025-06-23, 07:01:20](https://news.ycombinator.com/item?id=44353182) - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
 * [2025-06-23, 06:54:03](https://news.ycombinator.com/item?id=44353137) - [Spectroscopic Classification of ASASSN-25cm as a Classical Nova](https://www.astronomerstelegram.org/?read=17228)
 * [2025-06-23, 03:54:06](https://news.ycombinator.com/item?id=44352329) - [Show HN: Ariadne – A Rust implementation of aperiodic cryptography](https://codeberg.org/CipherNomad/Ariadne)
@@ -19,7 +18,6 @@
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
 * [2025-06-22, 19:51:44](https://news.ycombinator.com/item?id=44349761) - [Interview with Francine Prose on early-1970s San Francisco [audio]](https://www.laphamsquarterly.org/content/episode-3-francine-prose)
 * [2025-06-22, 19:18:41](https://news.ycombinator.com/item?id=44349525) - [Klein Bottle Amazon Brand Hijacking (2021)](https://www.kleinbottle.com/Amazon_Brand_Hijacking.html)
-* [2025-06-22, 17:51:55](https://news.ycombinator.com/item?id=44348813) - [AGI is Mathematically Impossible 2: When Entropy Returns](https://philarchive.org/archive/SCHAIM-14)
 * [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The cultural decline of literary fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 * [2025-06-22, 14:56:44](https://news.ycombinator.com/item?id=44347425) - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
 * [2025-06-21, 07:51:19](https://news.ycombinator.com/item?id=44335583) - [2025 Alonzo Church Award: Paul Blain Levy for Call-by-Push-Value (CBPV)](https://siglog.org/winner-of-the-2025-alonzo-church-award/)
@@ -27,7 +25,9 @@
 * [2025-06-20, 23:39:26](https://news.ycombinator.com/item?id=44333149) - [Verlet Integration and Cloth Physics Simulation](https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation)
 * [2025-06-20, 19:46:33](https://news.ycombinator.com/item?id=44331316) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
 * [2025-06-20, 14:52:23](https://news.ycombinator.com/item?id=44328275) - [The Tandy Corporation](https://www.abortretry.fail/p/the-tandy-corporation-part-1)
+* [2025-06-20, 13:27:21](https://news.ycombinator.com/item?id=44327554) - [Adobe Project Indigo is a new photo app from former Pixel camera engineers](https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html)
 * [2025-06-20, 09:05:20](https://news.ycombinator.com/item?id=44325861) - [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
+* [2025-06-19, 17:40:05](https://news.ycombinator.com/item?id=44320832) - [Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300](https://samsorensen.blot.im/cataphracts-design-diary-1)
 * [2025-06-19, 16:43:17](https://news.ycombinator.com/item?id=44320285) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-19, 06:42:58](https://news.ycombinator.com/item?id=44316093) - [We’ve had a Denisovan skull since the 1930s, only nobody knew](https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/)
 

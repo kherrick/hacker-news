@@ -13,6 +13,7 @@
 * [2025-06-19, 20:15:15](https://news.ycombinator.com/item?id=44322153) - [Estrogen: A Trip Report](https://smoothbrains.net/posts/2025-06-15-estrogen.html)
 * [2025-06-19, 19:20:54](https://news.ycombinator.com/item?id=44321672) - [Compiling LLMs into a MegaKernel: A Path to Low-Latency Inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
 * [2025-06-19, 17:41:59](https://news.ycombinator.com/item?id=44320851) - [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/)
+* [2025-06-19, 17:40:05](https://news.ycombinator.com/item?id=44320832) - [Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300](https://samsorensen.blot.im/cataphracts-design-diary-1)
 * [2025-06-19, 17:36:41](https://news.ycombinator.com/item?id=44320806) - [In Praise of \"Normal\" Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
 * [2025-06-19, 17:32:21](https://news.ycombinator.com/item?id=44320772) - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
 * [2025-06-19, 17:29:35](https://news.ycombinator.com/item?id=44320747) - [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
