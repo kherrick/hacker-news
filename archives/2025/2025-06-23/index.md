@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 15:04:41](https://news.ycombinator.com/item?id=44356549) - [DHEA-S hormone linked to shorter lifespan in men, but not women](https://medicalxpress.com/news/2025-06-dhea-hormone-linked-shorter-lifespan.html)
+* [2025-06-23, 14:46:03](https://news.ycombinator.com/item?id=44356346) - [Making Tramp Go Brrr](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
 * [2025-06-23, 14:37:05](https://news.ycombinator.com/item?id=44356248) - [Backyard Coffee and Jazz in Kyoto, Japan](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
 * [2025-06-23, 14:12:08](https://news.ycombinator.com/item?id=44355985) - [2B people don't have safe drinking water: what does this mean for them?](https://ourworldindata.org/what-no-safe-water-means)
 * [2025-06-23, 13:43:22](https://news.ycombinator.com/item?id=44355750) - [Gov. Greg Abbott vetoes THC ban](https://www.texastribune.org/2025/06/22/texas-thc-ban-bill-greg-abbott-veto-senate-bill-3/)
