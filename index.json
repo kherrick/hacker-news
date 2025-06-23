@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 17:04:43",
+      "https://news.ycombinator.com/item?id=44357779"
+    ],
+    [
+      "Officials Concede They Don't Know the Fate of Iran's Uranium Stockpile",
+      "https://www.nytimes.com/2025/06/22/us/politics/iran-uranium-stockpile-whereabouts.html"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 16:24:05",
       "https://news.ycombinator.com/item?id=44357378"
     ],
@@ -37,6 +47,16 @@
     [
       "WhatsApp banned on House staffers' devices",
       "https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 15:09:21",
+      "https://news.ycombinator.com/item?id=44356597"
+    ],
+    [
+      "Interesting Bits of Postgres Grammar",
+      "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "The X Window System didn't immediately have X terminals",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 01:47:00",
-      "https://news.ycombinator.com/item?id=44351817"
-    ],
-    [
-      "Polystate: Composable Finite State Machines",
-      "https://github.com/sdzx-1/polystate"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Scroll snapping, state queries, monster hunter, and gamification",
       "https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 03:59:17",
-      "https://news.ycombinator.com/item?id=44324616"
-    ],
-    [
-      "Show HN: Turbine – 16-bit CPU Architecture and Emulator built in C",
-      "https://www.errorcodezero.dev/blog/building-my-own-cpu-isa-and-virtual-machine/"
     ]
   ],
   [
