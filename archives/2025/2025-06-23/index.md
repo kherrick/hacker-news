@@ -7,6 +7,7 @@
 * [2025-06-23, 15:16:56](https://news.ycombinator.com/item?id=44356676) - [WhatsApp banned on House staffers' devices](https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app)
 * [2025-06-23, 15:12:14](https://news.ycombinator.com/item?id=44356625) - [The AI lifestyle subsidy is going to end](https://digitalseams.com/blog/the-ai-lifestyle-subsidy-is-going-to-end)
 * [2025-06-23, 15:04:41](https://news.ycombinator.com/item?id=44356549) - [DHEA-S hormone linked to shorter lifespan in men, but not women](https://medicalxpress.com/news/2025-06-dhea-hormone-linked-shorter-lifespan.html)
+* [2025-06-23, 14:52:22](https://news.ycombinator.com/item?id=44356422) - [Ask HN: How to Get Rid of Gemini?](https://news.ycombinator.com/item?id=44356422)
 * [2025-06-23, 14:46:03](https://news.ycombinator.com/item?id=44356346) - [Making Tramp Go Brrr](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
 * [2025-06-23, 14:37:05](https://news.ycombinator.com/item?id=44356248) - [Backyard Coffee and Jazz in Kyoto, Japan](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
 * [2025-06-23, 14:12:08](https://news.ycombinator.com/item?id=44355985) - [2B people don't have safe drinking water: what does this mean for them?](https://ourworldindata.org/what-no-safe-water-means)
