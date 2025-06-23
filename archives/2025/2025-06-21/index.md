@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
 * [2025-06-21, 23:43:59](https://news.ycombinator.com/item?id=44341564) - [See Jane 128 by Arktronics run (ft. Magic Desk, 3-Plus-1 and the Thomson MO5)](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
+* [2025-06-21, 23:32:47](https://news.ycombinator.com/item?id=44341515) - [Transparent Ambition: on translucent user interfaces](https://take.surf/2025/06/19/transparent-ambition)
 * [2025-06-21, 23:20:29](https://news.ycombinator.com/item?id=44341462) - [Publishing a Docker Container for MS Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry)
 * [2025-06-21, 22:44:28](https://news.ycombinator.com/item?id=44341281) - [Requiem for a Solar Plant](https://7goldfish.com/articles/Requiem_for_a_solar_plant.php)
 * [2025-06-21, 22:28:48](https://news.ycombinator.com/item?id=44341199) - [I went for 1,200 jobs but got only two interviews](https://www.bbc.co.uk/news/articles/c9397lre3lyo)

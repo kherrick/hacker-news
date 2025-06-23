@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 15:30:33](https://news.ycombinator.com/item?id=44356799) - [Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
+* [2025-06-23, 15:29:51](https://news.ycombinator.com/item?id=44356788) - [Fairphone 6 is switching to a new design that's even more sustainable](https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design)
 * [2025-06-23, 15:16:56](https://news.ycombinator.com/item?id=44356676) - [WhatsApp banned on House staffers' devices](https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app)
 * [2025-06-23, 15:12:14](https://news.ycombinator.com/item?id=44356625) - [The AI lifestyle subsidy is going to end](https://digitalseams.com/blog/the-ai-lifestyle-subsidy-is-going-to-end)
 * [2025-06-23, 15:04:41](https://news.ycombinator.com/item?id=44356549) - [DHEA-S hormone linked to shorter lifespan in men, but not women](https://medicalxpress.com/news/2025-06-dhea-hormone-linked-shorter-lifespan.html)
