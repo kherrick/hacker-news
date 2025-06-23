@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 13:06:45](https://news.ycombinator.com/item?id=44355434) - [New York to Build One of First U.S. Nuclear-Power Plants in Generation](https://www.wsj.com/business/energy-oil/new-york-to-build-one-of-first-u-s-nuclear-power-plants-in-generation-271cfd33)
 * [2025-06-23, 11:38:39](https://news.ycombinator.com/item?id=44354684) - [The Gender Attractiveness Gap](https://www.biorxiv.org/content/10.1101/2025.05.21.655261v1)
 * [2025-06-23, 11:21:47](https://news.ycombinator.com/item?id=44354543) - [Germany and Italy pressed to bring $245B of gold home from US](https://www.ft.com/content/e39390cc-ea02-4197-843a-1e4c242422cc)
 * [2025-06-23, 10:47:36](https://news.ycombinator.com/item?id=44354298) - [US embassy wants 'every social media username of past five years' for new visas](https://www.thejournal.ie/us-visa-changes-6740830-Jun2025/)
@@ -16,6 +17,7 @@
 * [2025-06-23, 07:01:20](https://news.ycombinator.com/item?id=44353182) - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
 * [2025-06-23, 06:54:03](https://news.ycombinator.com/item?id=44353137) - [Spectroscopic Classification of ASASSN-25cm as a Classical Nova](https://www.astronomerstelegram.org/?read=17228)
 * [2025-06-23, 06:54:03](https://news.ycombinator.com/item?id=44353137) - [A New Nova Just Appeared in the Night Sky – You Can See It with the Naked Eye](https://www.iflscience.com/unexpected-nova-just-appeared-in-the-night-sky-and-you-can-see-it-with-the-naked-eye-79708)
+* [2025-06-23, 06:46:33](https://news.ycombinator.com/item?id=44353098) - [RaptorCast: Designing a Messaging Layer](https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer)
 * [2025-06-23, 06:02:13](https://news.ycombinator.com/item?id=44352831) - [Show HN: Windowfied](https://news.ycombinator.com/item?id=44352831)
 * [2025-06-23, 05:10:44](https://news.ycombinator.com/item?id=44352615) - [Nano-Vllm: lightweight vLLM implementation built from scratch](https://github.com/GeeeekExplorer/nano-vllm)
 * [2025-06-23, 04:23:06](https://news.ycombinator.com/item?id=44352430) - [LeetCode for System Design](https://leetsys.dev)
