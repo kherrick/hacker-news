@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-23, 19:24:58](https://news.ycombinator.com/item?id=44359148) - [Tesla Robotaxi Videos Show Speeding, Driving into Wrong Lane](https://www.bloomberg.com/news/articles/2025-06-23/tesla-robotaxi-videos-show-speeding-driving-into-wrong-lane)
-* [2025-06-23, 19:22:44](https://news.ycombinator.com/item?id=44359131) - [Muntz Metal](https://en.wikipedia.org/wiki/Muntz_metal)
 * [2025-06-23, 19:02:17](https://news.ycombinator.com/item?id=44358944) - [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
 * [2025-06-23, 18:51:51](https://news.ycombinator.com/item?id=44358829) - [A deep critique of AI 2027's bad timeline models](https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models)
+* [2025-06-23, 18:37:47](https://news.ycombinator.com/item?id=44358697) - [Ford Will Keep Battery Factory Even If Republicans Ax Tax Break](https://www.nytimes.com/2025/06/23/business/ford-battery-factory-electric-vehicles.html)
 * [2025-06-23, 18:18:11](https://news.ycombinator.com/item?id=44358524) - [Judge denies creating \"mass surveillance program\" harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
 * [2025-06-23, 16:27:25](https://news.ycombinator.com/item?id=44357411) - [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
 * [2025-06-23, 16:24:05](https://news.ycombinator.com/item?id=44357378) - [NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System](https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454)
+* [2025-06-23, 15:41:00](https://news.ycombinator.com/item?id=44356890) - [Vera C. Rubin Observatory first images](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 * [2025-06-23, 15:40:51](https://news.ycombinator.com/item?id=44356888) - [\"The Last of Us Part II\" Seattle Locations Tour](https://docs.google.com/document/d/1gfFoe2xVoS9GzmmcbGUjTVVtss1Jwh4Yi-73C6Trn-I/edit?usp=sharing)
 * [2025-06-23, 15:30:33](https://news.ycombinator.com/item?id=44356799) - [Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
 * [2025-06-23, 15:16:56](https://news.ycombinator.com/item?id=44356676) - [WhatsApp banned on House staffers' devices](https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app)
@@ -28,7 +29,6 @@
 * [2025-06-20, 13:53:25](https://news.ycombinator.com/item?id=44327756) - [Minimal Boolean Formulas](https://research.swtch.com/boolean)
 * [2025-06-20, 09:56:06](https://news.ycombinator.com/item?id=44326175) - [Homotopy Equivalences](https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/)
 * [2025-06-20, 09:05:20](https://news.ycombinator.com/item?id=44325861) - [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
-* [2025-06-19, 23:40:36](https://news.ycombinator.com/item?id=44323528) - [Rivulet: An esolang inspired by calligraphy && code [video]](https://media.ccc.de/v/gpn23-35-rivulet-an-esolang-inspired-by-calligraphy-and-other-experiments-in-natural-language-code)
 * [2025-06-19, 17:40:05](https://news.ycombinator.com/item?id=44320832) - [Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300](https://samsorensen.blot.im/cataphracts-design-diary-1)
 
 ## [Archives](archives/index.md)
