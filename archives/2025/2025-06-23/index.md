@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
 * [2025-06-23, 04:23:06](https://news.ycombinator.com/item?id=44352430) - [LeetCode for System Design](https://leetsys.dev)
+* [2025-06-23, 03:54:06](https://news.ycombinator.com/item?id=44352329) - [Show HN: Ariadne – A Rust implementation of aperiodic cryptography](https://codeberg.org/CipherNomad/Ariadne)
 * [2025-06-23, 03:50:24](https://news.ycombinator.com/item?id=44352311) - [The X Window System didn't immediately have X terminals](https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate)
 * [2025-06-23, 03:34:23](https://news.ycombinator.com/item?id=44352254) - [Tesla launches robotaxi rides in Austin](https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/)
 * [2025-06-23, 02:01:41](https://news.ycombinator.com/item?id=44351881) - [If you're building a JavaScript library and need logging, you would love LogTape](https://hackers.pub/@hongminhee/2025/logtape-for-libraries)

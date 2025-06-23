@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-23, 04:23:06](https://news.ycombinator.com/item?id=44352430) - [LeetCode for System Design](https://leetsys.dev)
+* [2025-06-23, 03:54:06](https://news.ycombinator.com/item?id=44352329) - [Show HN: Ariadne – A Rust implementation of aperiodic cryptography](https://codeberg.org/CipherNomad/Ariadne)
 * [2025-06-23, 03:50:24](https://news.ycombinator.com/item?id=44352311) - [The X Window System didn't immediately have X terminals](https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate)
-* [2025-06-23, 02:01:41](https://news.ycombinator.com/item?id=44351881) - [If you're building a JavaScript library and need logging, you would love LogTape](https://hackers.pub/@hongminhee/2025/logtape-for-libraries)
 * [2025-06-23, 01:47:00](https://news.ycombinator.com/item?id=44351817) - [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate)
 * [2025-06-23, 01:43:11](https://news.ycombinator.com/item?id=44351798) - [Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364)
 * [2025-06-23, 01:00:00](https://news.ycombinator.com/item?id=44351580) - [Optifye.ai (YC W25) – Founding Back End Engineer](https://news.ycombinator.com/item?id=44351580)
