@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 10:39:13](https://news.ycombinator.com/item?id=44354250) - [Where is Iran's uranium? Questions remain over stash of enriched material](https://www.ft.com/content/12a864cc-eeb8-4725-aed8-5ddff9ac588e)
 * [2025-06-23, 09:10:00](https://news.ycombinator.com/item?id=44353775) - [EU rules for durable, energy-efficient and repairable smartphones and tablets](https://single-market-economy.ec.europa.eu/news/new-eu-rules-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying-2025-06-20_en)
 * [2025-06-23, 08:07:26](https://news.ycombinator.com/item?id=44353490) - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 * [2025-06-23, 07:52:45](https://news.ycombinator.com/item?id=44353422) - [The role of the University is to resist AI](https://danmcquillan.org/cpct_seminar.html)
