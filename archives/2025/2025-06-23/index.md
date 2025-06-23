@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 19:34:22](https://news.ycombinator.com/item?id=44359229) - [Environmental Impacts of Artificial Intelligence](https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence)
 * [2025-06-23, 19:24:58](https://news.ycombinator.com/item?id=44359148) - [Tesla Robotaxi Videos Show Speeding, Driving into Wrong Lane](https://www.bloomberg.com/news/articles/2025-06-23/tesla-robotaxi-videos-show-speeding-driving-into-wrong-lane)
 * [2025-06-23, 19:22:44](https://news.ycombinator.com/item?id=44359131) - [Muntz Metal](https://en.wikipedia.org/wiki/Muntz_metal)
 * [2025-06-23, 19:02:17](https://news.ycombinator.com/item?id=44358944) - [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
 * [2025-06-23, 18:51:51](https://news.ycombinator.com/item?id=44358829) - [A deep critique of AI 2027's bad timeline models](https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models)
 * [2025-06-23, 18:37:47](https://news.ycombinator.com/item?id=44358697) - [Ford Will Keep Battery Factory Even If Republicans Ax Tax Break](https://www.nytimes.com/2025/06/23/business/ford-battery-factory-electric-vehicles.html)
+* [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358668) - [2025 Iberia Blackout Report](https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28)
 * [2025-06-23, 18:18:11](https://news.ycombinator.com/item?id=44358524) - [Judge denies creating \"mass surveillance program\" harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
 * [2025-06-23, 17:04:43](https://news.ycombinator.com/item?id=44357779) - [Officials Concede They Don't Know the Fate of Iran's Uranium Stockpile](https://www.nytimes.com/2025/06/22/us/politics/iran-uranium-stockpile-whereabouts.html)
 * [2025-06-23, 16:27:25](https://news.ycombinator.com/item?id=44357411) - [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)

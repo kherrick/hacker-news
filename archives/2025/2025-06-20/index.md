@@ -59,6 +59,7 @@
 * [2025-06-20, 13:21:31](https://news.ycombinator.com/item?id=44327501) - [NASA Scientists Find Ties Between Earth's Oxygen and Magnetic Field](https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/)
 * [2025-06-20, 13:17:02](https://news.ycombinator.com/item?id=44327468) - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
 * [2025-06-20, 12:52:42](https://news.ycombinator.com/item?id=44327241) - [AI is going to hack Jira](https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira)
+* [2025-06-20, 12:47:53](https://news.ycombinator.com/item?id=44327204) - [I ported pigz from Unix to Windows](https://blog.kowalczyk.info/article/4/how-i-ported-pigz-from-unix-to-windows.html)
 * [2025-06-20, 12:44:09](https://news.ycombinator.com/item?id=44327173) - [Klong: A Simple Array Language](https://t3x.org/klong/)
 * [2025-06-20, 12:36:44](https://news.ycombinator.com/item?id=44327109) - [BBC threatens AI firm with legal action over unauthorised content use](https://www.bbc.co.uk/news/articles/cy7ndgylzzmo)
 * [2025-06-20, 12:20:17](https://news.ycombinator.com/item?id=44326997) - [Telegram founder Durov says his 100 children will receive share of his estate](https://www.cnn.com/2025/06/20/tech/durov-100-children-inheritance-scli-intl)
