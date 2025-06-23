@@ -9,6 +9,7 @@
 * [2025-06-20, 23:39:26](https://news.ycombinator.com/item?id=44333149) - [Verlet Integration and Cloth Physics Simulation](https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation)
 * [2025-06-20, 23:30:07](https://news.ycombinator.com/item?id=44333085) - [Fix \"pulsing\" sensation when charging MacBook](https://old.reddit.com/r/apple/comments/1lgaw7m/psa_if_when_charging_your_macbook_you_get_a/)
 * [2025-06-20, 23:28:14](https://news.ycombinator.com/item?id=44333077) - [AtomicOS – A security-first OS with real crypto and deterministic language](https://github.com/ipenas-cl/AtomicOs)
+* [2025-06-20, 23:19:52](https://news.ycombinator.com/item?id=44333033) - [The FPGA Turns 40!](https://www.adiuvoengineering.com/post/the-fpga-turns-40)
 * [2025-06-20, 23:01:34](https://news.ycombinator.com/item?id=44332912) - [Drinks in glass bottles contain more microplastics than those in other container](https://www.anses.fr/en/content/drinks-glass-bottles-contain-more-microplastics-those-other-containers)
 * [2025-06-20, 22:26:52](https://news.ycombinator.com/item?id=44332699) - [AbsenceBench: Language Models Can't Tell What's Missing](https://arxiv.org/abs/2506.11440)
 * [2025-06-20, 21:20:46](https://news.ycombinator.com/item?id=44332221) - [AMD's Freshly-Baked MI350: An Interview with the Chief Architect](https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview)
