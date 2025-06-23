@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-23, 19:24:58",
+      "https://news.ycombinator.com/item?id=44359148"
+    ],
+    [
+      "Tesla Robotaxi Videos Show Speeding, Driving into Wrong Lane",
+      "https://www.bloomberg.com/news/articles/2025-06-23/tesla-robotaxi-videos-show-speeding-driving-into-wrong-lane"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 19:22:44",
+      "https://news.ycombinator.com/item?id=44359131"
+    ],
+    [
+      "Muntz Metal",
+      "https://en.wikipedia.org/wiki/Muntz_metal"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 19:02:17",
       "https://news.ycombinator.com/item?id=44358944"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-06-23, 12:40:24",
-      "https://news.ycombinator.com/item?id=44355187"
-    ],
-    [
-      "How to store Go pointers from assembly",
-      "https://mazzo.li/posts/go-asm-pointers.html"
-    ]
-  ],
-  [
-    [
       "2025-06-23, 06:46:33",
       "https://news.ycombinator.com/item?id=44353098"
     ],
@@ -147,16 +157,6 @@
     [
       "Nano-Vllm: lightweight vLLM implementation built from scratch",
       "https://github.com/GeeeekExplorer/nano-vllm"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 23:12:50",
-      "https://news.ycombinator.com/item?id=44351068"
-    ],
-    [
-      "Finding a billion factorials in 60 ms with SIMD",
-      "https://codeforces.com/blog/entry/143279"
     ]
   ],
   [
