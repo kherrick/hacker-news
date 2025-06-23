@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-23, 10:47:36](https://news.ycombinator.com/item?id=44354298) - [US embassy wants 'every social media username of past five years' for new visas](https://www.thejournal.ie/us-visa-changes-6740830-Jun2025/)
+* [2025-06-23, 11:21:47](https://news.ycombinator.com/item?id=44354543) - [Germany and Italy pressed to bring $245B of gold home from US](https://www.ft.com/content/e39390cc-ea02-4197-843a-1e4c242422cc)
 * [2025-06-23, 08:07:26](https://news.ycombinator.com/item?id=44353490) - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 * [2025-06-23, 07:01:20](https://news.ycombinator.com/item?id=44353182) - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
 * [2025-06-23, 06:54:03](https://news.ycombinator.com/item?id=44353137) - [Spectroscopic Classification of ASASSN-25cm as a Classical Nova](https://www.astronomerstelegram.org/?read=17228)
@@ -25,7 +25,7 @@
 * [2025-06-20, 23:39:26](https://news.ycombinator.com/item?id=44333149) - [Verlet Integration and Cloth Physics Simulation (2022)](https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation)
 * [2025-06-20, 19:46:33](https://news.ycombinator.com/item?id=44331316) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
 * [2025-06-20, 14:52:23](https://news.ycombinator.com/item?id=44328275) - [The Tandy Corporation](https://www.abortretry.fail/p/the-tandy-corporation-part-1)
-* [2025-06-20, 09:56:06](https://news.ycombinator.com/item?id=44326175) - [(Weak) Homotopy Equivalences](https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/)
+* [2025-06-20, 09:56:06](https://news.ycombinator.com/item?id=44326175) - [Homotopy Equivalences](https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/)
 * [2025-06-20, 09:05:20](https://news.ycombinator.com/item?id=44325861) - [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
 * [2025-06-20, 08:21:04](https://news.ycombinator.com/item?id=44325673) - [Scroll snapping, state queries, monster hunter, and gamification](https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification)
 * [2025-06-19, 17:40:05](https://news.ycombinator.com/item?id=44320832) - [Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300](https://samsorensen.blot.im/cataphracts-design-diary-1)
