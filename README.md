@@ -13,12 +13,11 @@
 * [2025-06-23, 00:42:34](https://news.ycombinator.com/item?id=44351487) - [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/)
 * [2025-06-22, 23:12:50](https://news.ycombinator.com/item?id=44351068) - [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
 * [2025-06-22, 23:03:00](https://news.ycombinator.com/item?id=44351028) - [Show HN: Lego Island Playable in the Browser](https://isle.pizza)
-* [2025-06-22, 22:55:58](https://news.ycombinator.com/item?id=44350978) - [Hawaii Highways](http://www.hawaiihighways.com/)
 * [2025-06-22, 21:28:54](https://news.ycombinator.com/item?id=44350450) - [Radio Garden](https://radio.garden/?2025)
 * [2025-06-22, 21:12:01](https://news.ycombinator.com/item?id=44350322) - [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
-* [2025-06-22, 19:51:44](https://news.ycombinator.com/item?id=44349761) - [Interview with Francine Prose [audio]](https://www.laphamsquarterly.org/content/episode-3-francine-prose)
 * [2025-06-22, 19:18:41](https://news.ycombinator.com/item?id=44349525) - [Klein Bottle Amazon Brand Hijacking (2021)](https://www.kleinbottle.com/Amazon_Brand_Hijacking.html)
+* [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The cultural decline of literary fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 * [2025-06-22, 14:56:44](https://news.ycombinator.com/item?id=44347425) - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
 * [2025-06-20, 23:39:26](https://news.ycombinator.com/item?id=44333149) - [Verlet Integration and Cloth Physics Simulation (2022)](https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation)
 * [2025-06-20, 19:46:33](https://news.ycombinator.com/item?id=44331316) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
@@ -30,6 +29,7 @@
 * [2025-06-20, 03:55:33](https://news.ycombinator.com/item?id=44324596) - [Tell me about your favorite tree (a slow-web proposal)](https://nannnsss.omg.lol/2025/tell-me-about-your-favorite-tree/)
 * [2025-06-19, 17:40:05](https://news.ycombinator.com/item?id=44320832) - [Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300](https://samsorensen.blot.im/cataphracts-design-diary-1)
 * [2025-06-19, 16:43:17](https://news.ycombinator.com/item?id=44320285) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
+* [2025-06-19, 13:47:17](https://news.ycombinator.com/item?id=44318655) - [Show HN: EchoStream – A Local AI Agent That Lives on Your iPhone](https://news.ycombinator.com/item?id=44318655)
 
 ## [Archives](archives/index.md)
 
