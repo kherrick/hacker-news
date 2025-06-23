@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 13:18:21](https://news.ycombinator.com/item?id=44355539) - [Backlash to artificial dye grows as Kraft ditches coloring for Kool-Aid, Jell-O](https://www.washingtonpost.com/business/2025/06/17/kraft-heinz-artificial-food-dyes-us-products/)
 * [2025-06-23, 13:06:45](https://news.ycombinator.com/item?id=44355434) - [New York to Build One of First U.S. Nuclear-Power Plants in Generation](https://www.wsj.com/business/energy-oil/new-york-to-build-one-of-first-u-s-nuclear-power-plants-in-generation-271cfd33)
 * [2025-06-23, 11:38:39](https://news.ycombinator.com/item?id=44354684) - [The Gender Attractiveness Gap](https://www.biorxiv.org/content/10.1101/2025.05.21.655261v1)
 * [2025-06-23, 11:21:47](https://news.ycombinator.com/item?id=44354543) - [Germany and Italy pressed to bring $245B of gold home from US](https://www.ft.com/content/e39390cc-ea02-4197-843a-1e4c242422cc)
