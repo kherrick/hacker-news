@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-06-23, 07:50:29",
-      "https://news.ycombinator.com/item?id=44353408"
-    ],
-    [
-      "OpenAI and Jony Ive's \"io\" brand has disappeared",
-      "https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware"
-    ]
-  ],
-  [
-    [
       "2025-06-23, 07:01:20",
       "https://news.ycombinator.com/item?id=44353182"
     ],
@@ -297,6 +287,16 @@
     [
       "2048 with only 64 bits of state",
       "https://github.com/izabera/bitwise-challenge-2048"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 06:42:58",
+      "https://news.ycombinator.com/item?id=44316093"
+    ],
+    [
+      "We’ve had a Denisovan skull since the 1930s, only nobody knew",
+      "https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/"
     ]
   ]
 ]
