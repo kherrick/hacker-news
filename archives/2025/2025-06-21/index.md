@@ -35,6 +35,7 @@
 * [2025-06-21, 09:00:01](https://news.ycombinator.com/item?id=44335907) - [Cosmoe: BeOS Class Library on Top of Wayland](https://cosmoe.org/index.html)
 * [2025-06-21, 08:43:59](https://news.ycombinator.com/item?id=44335823) - [War Powers Resolution](https://en.wikipedia.org/wiki/War_Powers_Resolution)
 * [2025-06-21, 08:10:50](https://news.ycombinator.com/item?id=44335664) - [uBlock Origin Lite Beta for Safari iOS](https://testflight.apple.com/join/JjTcThrV)
+* [2025-06-21, 07:51:19](https://news.ycombinator.com/item?id=44335583) - [2025 Alonzo Church Award: Paul Blain Levy for Call-by-Push-Value (CBPV)](https://siglog.org/winner-of-the-2025-alonzo-church-award/)
 * [2025-06-21, 07:39:28](https://news.ycombinator.com/item?id=44335519) - [Agentic Misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment)
 * [2025-06-21, 07:38:42](https://news.ycombinator.com/item?id=44335517) - [A new blood type discovered in France: \"Gwada negative\", a global exception](https://www.lemonde.fr/en/science/article/2025/06/21/gwada-negative-french-scientists-find-new-blood-type-in-woman_6742577_10.html)
 * [2025-06-21, 07:38:42](https://news.ycombinator.com/item?id=44335517) - [A new blood type discovered in France: \"Gwada negative\", a global exception](https://entrevue.fr/en/un-groupe-sanguin-inedit-decouvert-en-france-gwada-negatif-une-exception-mondiale/)

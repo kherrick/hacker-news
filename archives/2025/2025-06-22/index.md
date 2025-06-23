@@ -11,6 +11,7 @@
 * [2025-06-22, 21:50:27](https://news.ycombinator.com/item?id=44350597) - [Children in England growing up 'sedentary, scrolling and alone', say experts](https://www.theguardian.com/society/2025/jun/11/children-sedentary-scrolling-alone-lack-of-play-england)
 * [2025-06-22, 21:33:32](https://news.ycombinator.com/item?id=44350476) - [USAF B-2 Spirit Bombers Have Beds](https://simpleflying.com/usaf-b-2-spirit-bombers-beds/)
 * [2025-06-22, 21:28:54](https://news.ycombinator.com/item?id=44350450) - [Radio Garden](https://radio.garden/?2025)
+* [2025-06-22, 21:28:42](https://news.ycombinator.com/item?id=44350448) - [Bluetooth Jammer](https://github.com/EmenstaNougat/ESP32-BlueJammer)
 * [2025-06-22, 21:25:01](https://news.ycombinator.com/item?id=44350414) - [CTO's at Meta, Open AI, Palantir Became Lieutenant Colonels in the Army](https://americancitizen2025.substack.com/p/ctos-at-meta-open-ai-palantir-became)
 * [2025-06-22, 21:18:29](https://news.ycombinator.com/item?id=44350367) - [The Void IDE, Open-Source Alternative to Cursor, Released in Beta](https://www.infoq.com/news/2025/06/void-ide-beta-release/)
 * [2025-06-22, 21:12:01](https://news.ycombinator.com/item?id=44350322) - [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
