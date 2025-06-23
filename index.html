@@ -129,27 +129,6 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="44354684">
-          <h3>
-            <a
-              class="item"
-              href="https://www.biorxiv.org/content/10.1101/2025.05.21.655261v1"
-              >The Gender Attractiveness Gap</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-23 @ 11:38:39</span
-              ><span class="points-container"
-                >Points: <span class="points">30</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44354684"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="44354543">
           <h3>
             <a
@@ -162,11 +141,32 @@
             <h4>
               <span>2025-06-23 @ 11:21:47</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44354543"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 149</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44353760">
+          <h3>
+            <a
+              class="item"
+              href="http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html"
+              >Real-world performance comparison of ebtree/cebtree/rbtree</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-23 @ 09:07:29</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44353760"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -183,11 +183,11 @@
             <h4>
               <span>2025-06-23 @ 08:07:26</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44353490"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -205,11 +205,11 @@
             <h4>
               <span>2025-06-23 @ 07:01:20</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44353182"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -227,7 +227,7 @@
             <h4>
               <span>2025-06-23 @ 06:54:03</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44353137"
                   >Comments</a
@@ -252,76 +252,13 @@
             <h4>
               <span>2025-06-23 @ 05:10:44</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44352615"
                   >Comments</a
                 ><span class="descendants">: 8</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44352329">
-          <h3>
-            <a class="item" href="https://codeberg.org/CipherNomad/Ariadne"
-              >Show HN: Ariadne – A Rust implementation of aperiodic
-              cryptography</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-23 @ 03:54:06</span
-              ><span class="points-container"
-                >Points: <span class="points">30</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44352329"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                The Ariadne Protocol is our exploration of a different
-                cryptographic model. The work began with an observation of
-                primitives like the Lion transform, which use a static,
-                hardcoded sequence of operations. This led us to ask: What if
-                the cryptographic "program" wasn't a constant, but a dynamic,
-                history-dependent variable?
-              </p>
-              <p>
-                Our first step was a "Cryptographic Virtual Machine" that took
-                an explicit list of operations (a "Path"). This worked, but
-                required sharing the Path object—an explicit dependency that
-                needed to be managed.
-              </p>
-              <p>
-                The Ariadne Protocol is the maturation of that idea. It
-                eliminates the explicit Path by making it implicit and emergent.
-              </p>
-              <p>The core design is:</p>
-              <p>
-                The Labyrinth: A large, deterministically-generated binary tree
-                of cryptographic rounds.
-              </p>
-              <p>
-                The Thread: The secret path taken through the Labyrinth. This
-                path is not stored or transmitted. It's rediscovered for each
-                block of data by computing a keyed hash of the CVM's secret
-                state and the public ciphertext chunk: hash(key, state, chunk).
-              </p>
-              <p>
-                This makes the cipher aperiodic: because the state ratchets
-                forward after every block, the sequence of operations is
-                guaranteed to never repeat. It also creates inherent tamper
-                evidence—any modification to the ciphertext "snaps the thread"
-                and turns subsequent output into noise.
-              </p>
-              <p>
-                This is experimental, unaudited alpha software. We are
-                publishing it under CC0 because we believe foundational work
-                like this should be an unrestricted public good.
-              </p>
-            </div>
           </section>
         </section>
         <section id="44352311">
@@ -336,11 +273,11 @@
             <h4>
               <span>2025-06-23 @ 03:50:24</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44352311"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -375,11 +312,11 @@
             <h4>
               <span>2025-06-23 @ 01:43:11</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44351798"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -444,11 +381,11 @@
             <h4>
               <span>2025-06-23 @ 00:42:34</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44351487"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -463,7 +400,7 @@
             <h4>
               <span>2025-06-22 @ 23:12:50</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44351068"
                   >Comments</a
@@ -482,11 +419,11 @@
             <h4>
               <span>2025-06-22 @ 23:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44351028"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -501,7 +438,7 @@
             <h4>
               <span>2025-06-22 @ 22:55:58</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44350978"
                   >Comments</a
@@ -518,11 +455,11 @@
             <h4>
               <span>2025-06-22 @ 21:28:54</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44350450"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -539,11 +476,11 @@
             <h4>
               <span>2025-06-22 @ 21:12:01</span
               ><span class="points-container"
-                >Points: <span class="points">399</span></span
+                >Points: <span class="points">418</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44350322"
                   >Comments</a
-                ><span class="descendants">: 243</span></span
+                ><span class="descendants">: 254</span></span
               >
             </h4>
           </section>
@@ -561,11 +498,11 @@
             <h4>
               <span>2025-06-22 @ 20:26:08</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44350002"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -603,11 +540,11 @@
             <h4>
               <span>2025-06-22 @ 19:18:41</span
               ><span class="points-container"
-                >Points: <span class="points">274</span></span
+                >Points: <span class="points">288</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44349525"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -622,33 +559,11 @@
             <h4>
               <span>2025-06-22 @ 14:56:44</span
               ><span class="points-container"
-                >Points: <span class="points">971</span></span
+                >Points: <span class="points">996</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44347425"
                   >Comments</a
                 ><span class="descendants">: 114</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44333155">
-          <h3>
-            <a
-              class="item"
-              href="https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/"
-              >Cross-Account and Cross-Region Backups with AWS Backup (and
-              Friends)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-20 @ 23:40:14</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44333155"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -665,7 +580,7 @@
             <h4>
               <span>2025-06-20 @ 23:39:26</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44333149"
                   >Comments</a
@@ -684,11 +599,11 @@
             <h4>
               <span>2025-06-20 @ 19:46:33</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44331316"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 102</span></span
               >
             </h4>
           </section>
@@ -705,11 +620,11 @@
             <h4>
               <span>2025-06-20 @ 14:52:23</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44328275"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -726,11 +641,11 @@
             <h4>
               <span>2025-06-20 @ 09:56:06</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44326175"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -748,11 +663,11 @@
             <h4>
               <span>2025-06-20 @ 09:05:20</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44325861"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -770,11 +685,59 @@
             <h4>
               <span>2025-06-20 @ 08:21:04</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44325673"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44324616">
+          <h3>
+            <a
+              class="item"
+              href="https://www.errorcodezero.dev/blog/building-my-own-cpu-isa-and-virtual-machine/"
+              >Show HN: Turbine – 16-bit CPU Architecture and Emulator built in
+              C</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-20 @ 03:59:17</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44324616"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/errorcodezero/turbine"
+                >https://github.com/errorcodezero/turbine</a
+              >
+            </div>
+          </section>
+        </section>
+        <section id="44324596">
+          <h3>
+            <a
+              class="item"
+              href="https://nannnsss.omg.lol/2025/tell-me-about-your-favorite-tree/"
+              >Tell me about your favorite tree (a slow-web proposal)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-20 @ 03:55:33</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44324596"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -792,11 +755,11 @@
             <h4>
               <span>2025-06-19 @ 17:40:05</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44320832"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -813,7 +776,7 @@
             <h4>
               <span>2025-06-19 @ 16:43:17</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44320285"
                   >Comments</a
