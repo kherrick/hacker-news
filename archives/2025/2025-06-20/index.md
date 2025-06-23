@@ -49,6 +49,7 @@
 * [2025-06-20, 14:57:04](https://news.ycombinator.com/item?id=44328326) - [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 14:53:02](https://news.ycombinator.com/item?id=44328282) - [Wanted: New Instruments to Fund BBNs](https://www.freaktakes.com/p/wanted-new-instruments-to-fund-bbns)
 * [2025-06-20, 14:52:23](https://news.ycombinator.com/item?id=44328275) - [The Tandy Corporation, Part 1](https://www.abortretry.fail/p/the-tandy-corporation-part-1)
+* [2025-06-20, 14:44:18](https://news.ycombinator.com/item?id=44328191) - [Rocknix is an immutable Linux distribution for handheld gaming devices](https://rocknix.org/)
 * [2025-06-20, 14:35:50](https://news.ycombinator.com/item?id=44328114) - [Show HN: I Built a Site That Curates Weird YouTube Rabbit Holes Daily](https://yourabbit.com)
 * [2025-06-20, 14:26:49](https://news.ycombinator.com/item?id=44328032) - [Congestion pricing in Manhattan is a predictable success](https://www.economist.com/united-states/2025/06/19/congestion-pricing-in-manhattan-is-a-predictable-success)
 * [2025-06-20, 13:53:34](https://news.ycombinator.com/item?id=44327759) - [Minimal auto-differentiation engine in Rust (for educational purposes)](https://github.com/e3ntity/nanograd)
