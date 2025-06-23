@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 14:12:08",
+      "https://news.ycombinator.com/item?id=44355985"
+    ],
+    [
+      "2B people don't have safe drinking water: what does this mean for them?",
+      "https://ourworldindata.org/what-no-safe-water-means"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 13:18:21",
       "https://news.ycombinator.com/item?id=44355539"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-06-23, 12:40:24",
+      "https://news.ycombinator.com/item?id=44355187"
+    ],
+    [
+      "How to store Go pointers from assembly",
+      "https://mazzo.li/posts/go-asm-pointers.html"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 11:21:47",
       "https://news.ycombinator.com/item?id=44354543"
     ],
@@ -37,26 +57,6 @@
     [
       "Claude Code for VSCode",
       "https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 07:01:20",
-      "https://news.ycombinator.com/item?id=44353182"
-    ],
-    [
-      "Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%",
-      "https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 06:54:03",
-      "https://news.ycombinator.com/item?id=44353137"
-    ],
-    [
-      "Spectroscopic Classification of ASASSN-25cm as a Classical Nova",
-      "https://www.astronomerstelegram.org/?read=17228"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-06-20, 14:44:18",
+      "https://news.ycombinator.com/item?id=44328191"
+    ],
+    [
+      "Rocknix is an immutable Linux distribution for handheld gaming devices",
+      "https://rocknix.org/"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 09:56:06",
       "https://news.ycombinator.com/item?id=44326175"
     ],
@@ -277,16 +287,6 @@
     [
       "Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300",
       "https://samsorensen.blot.im/cataphracts-design-diary-1"
-    ]
-  ],
-  [
-    [
-      "2025-06-19, 16:43:17",
-      "https://news.ycombinator.com/item?id=44320285"
-    ],
-    [
-      "2048 with only 64 bits of state",
-      "https://github.com/izabera/bitwise-challenge-2048"
     ]
   ],
   [
