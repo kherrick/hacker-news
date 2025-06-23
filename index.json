@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-23, 17:04:43",
-      "https://news.ycombinator.com/item?id=44357779"
-    ],
-    [
-      "Officials Concede They Don't Know the Fate of Iran's Uranium Stockpile",
-      "https://www.nytimes.com/2025/06/22/us/politics/iran-uranium-stockpile-whereabouts.html"
-    ]
-  ],
-  [
-    [
       "2025-06-23, 16:27:25",
       "https://news.ycombinator.com/item?id=44357411"
     ],
@@ -37,16 +27,6 @@
     [
       "Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast",
       "https://news.ycombinator.com/item?id=44356799"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 15:29:51",
-      "https://news.ycombinator.com/item?id=44356788"
-    ],
-    [
-      "Fairphone 6 is switching to a new design that's even more sustainable",
-      "https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2025-06-23, 01:47:00",
+      "https://news.ycombinator.com/item?id=44351817"
+    ],
+    [
+      "Polystate: Composable Finite State Machines",
+      "https://github.com/sdzx-1/polystate"
+    ]
+  ],
+  [
+    [
       "2025-06-22, 23:12:50",
       "https://news.ycombinator.com/item?id=44351068"
     ],
@@ -267,6 +257,16 @@
     [
       "New Linux udisks flaw lets attackers get root on major Linux distros",
       "https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 08:21:04",
+      "https://news.ycombinator.com/item?id=44325673"
+    ],
+    [
+      "Scroll snapping, state queries, monster hunter, and gamification",
+      "https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification"
     ]
   ],
   [
