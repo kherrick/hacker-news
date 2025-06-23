@@ -76,6 +76,8 @@
 * [2025-06-20, 07:52:00](https://news.ycombinator.com/item?id=44325563) - [JavaScript broke the web (and called it progress)](https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/)
 * [2025-06-20, 07:00:18](https://news.ycombinator.com/item?id=44325362) - [Qfex (YC X25) – Founding Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
 * [2025-06-20, 05:06:57](https://news.ycombinator.com/item?id=44324897) - [Cannabis scientists are trying to find a predictable, reliable product (2020)](https://www.nytimes.com/2020/04/01/magazine/cannabis-science.html)
+* [2025-06-20, 03:59:17](https://news.ycombinator.com/item?id=44324616) - [Show HN: Turbine – 16-bit CPU Architecture and Emulator built in C](https://www.errorcodezero.dev/blog/building-my-own-cpu-isa-and-virtual-machine/)
+* [2025-06-20, 03:55:33](https://news.ycombinator.com/item?id=44324596) - [Tell me about your favorite tree (a slow-web proposal)](https://nannnsss.omg.lol/2025/tell-me-about-your-favorite-tree/)
 * [2025-06-20, 03:55:03](https://news.ycombinator.com/item?id=44324592) - [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
 * [2025-06-20, 03:44:45](https://news.ycombinator.com/item?id=44324547) - [Missing Matter in Universe Found](https://www.caltech.edu/about/news/missing-matter-in-universe-found)
 * [2025-06-20, 03:22:59](https://news.ycombinator.com/item?id=44324457) - [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
