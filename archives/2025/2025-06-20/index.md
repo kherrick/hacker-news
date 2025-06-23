@@ -75,6 +75,7 @@
 * [2025-06-20, 03:44:45](https://news.ycombinator.com/item?id=44324547) - [Missing Matter in Universe Found](https://www.caltech.edu/about/news/missing-matter-in-universe-found)
 * [2025-06-20, 03:22:59](https://news.ycombinator.com/item?id=44324457) - [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
 * [2025-06-20, 03:03:05](https://news.ycombinator.com/item?id=44324378) - [Show HN: Ts-SSH – SSH over Tailscale without running the daemon](https://github.com/derekg/ts-ssh)
+* [2025-06-20, 02:52:38](https://news.ycombinator.com/item?id=44324319) - [Encounters with Reality on Christine Rosen's the Extinction of Experience](https://thepointmag.com/criticism/encounters-with-reality/)
 * [2025-06-20, 01:56:16](https://news.ycombinator.com/item?id=44324084) - [Asterinas: A new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
 * [2025-06-20, 01:27:16](https://news.ycombinator.com/item?id=44323982) - [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
 * [2025-06-20, 01:07:43](https://news.ycombinator.com/item?id=44323914) - [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
