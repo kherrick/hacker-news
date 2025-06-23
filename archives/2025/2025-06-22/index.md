@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
+* [2025-06-22, 23:12:50](https://news.ycombinator.com/item?id=44351068) - [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
 * [2025-06-22, 22:56:30](https://news.ycombinator.com/item?id=44350982) - [Founding engineers wanted. hard problems. long hours. wealth and honor on success](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24)
+* [2025-06-22, 22:55:58](https://news.ycombinator.com/item?id=44350978) - [Hawaii Highways](http://www.hawaiihighways.com/)
 * [2025-06-22, 22:16:58](https://news.ycombinator.com/item?id=44350760) - [Air India crash points to systemic problems at Boeing that CEO Ortberg must fix](https://leehamnews.com/2025/06/15/five-for-five-air-india-crash-points-to-systemic-problems-at-boeing-ceo-ortberg-must-fix/)
 * [2025-06-22, 21:50:27](https://news.ycombinator.com/item?id=44350597) - [Children in England growing up 'sedentary, scrolling and alone', say experts](https://www.theguardian.com/society/2025/jun/11/children-sedentary-scrolling-alone-lack-of-play-england)
 * [2025-06-22, 21:33:32](https://news.ycombinator.com/item?id=44350476) - [USAF B-2 Spirit Bombers Have Beds](https://simpleflying.com/usaf-b-2-spirit-bombers-beds/)
@@ -12,6 +14,7 @@
 * [2025-06-22, 21:25:01](https://news.ycombinator.com/item?id=44350414) - [CTO's at Meta, Open AI, Palantir Became Lieutenant Colonels in the Army](https://americancitizen2025.substack.com/p/ctos-at-meta-open-ai-palantir-became)
 * [2025-06-22, 21:18:29](https://news.ycombinator.com/item?id=44350367) - [The Void IDE, Open-Source Alternative to Cursor, Released in Beta](https://www.infoq.com/news/2025/06/void-ide-beta-release/)
 * [2025-06-22, 21:12:01](https://news.ycombinator.com/item?id=44350322) - [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
+* [2025-06-22, 21:07:47](https://news.ycombinator.com/item?id=44350294) - [Otus Lisp](https://yuriy-chumak.github.io/ol/)
 * [2025-06-22, 20:39:06](https://news.ycombinator.com/item?id=44350097) - [GOP tax bill would sell off USPS's brand-new EVs](https://www.washingtonpost.com/business/2025/06/21/trump-usps-trucks-taxes/)
 * [2025-06-22, 20:37:37](https://news.ycombinator.com/item?id=44350086) - [Sam x Jony page on OpenAI is deleted](https://twitter.com/flowersslop/status/1936876451145351364)
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
