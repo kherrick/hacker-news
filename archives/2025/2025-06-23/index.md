@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 16:24:05](https://news.ycombinator.com/item?id=44357378) - [NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System](https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454)
 * [2025-06-23, 15:30:33](https://news.ycombinator.com/item?id=44356799) - [Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
 * [2025-06-23, 15:29:51](https://news.ycombinator.com/item?id=44356788) - [Fairphone 6 is switching to a new design that's even more sustainable](https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design)
 * [2025-06-23, 15:16:56](https://news.ycombinator.com/item?id=44356676) - [WhatsApp banned on House staffers' devices](https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app)
