@@ -71,6 +71,7 @@
 * [2025-06-20, 10:56:39](https://news.ycombinator.com/item?id=44326545) - [Wayland Is Growing Up. and Now We Don't Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
 * [2025-06-20, 10:34:48](https://news.ycombinator.com/item?id=44326407) - [My A11 Journey](https://mjg59.dreamwidth.org/72379.html)
 * [2025-06-20, 10:32:21](https://news.ycombinator.com/item?id=44326388) - [How would a passing gravitational wave look or feel?](https://physics.stackexchange.com/questions/338912/how-would-a-passing-gravitational-wave-look-or-feel)
+* [2025-06-20, 10:31:09](https://news.ycombinator.com/item?id=44326382) - [A Deep Dive into Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html)
 * [2025-06-20, 09:56:06](https://news.ycombinator.com/item?id=44326175) - [(Weak) Homotopy Equivalences](https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/)
 * [2025-06-20, 09:52:50](https://news.ycombinator.com/item?id=44326145) - [Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor](https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor)
 * [2025-06-20, 09:05:20](https://news.ycombinator.com/item?id=44325861) - [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
