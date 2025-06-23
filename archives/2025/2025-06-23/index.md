@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 14:37:05](https://news.ycombinator.com/item?id=44356248) - [Backyard Coffee and Jazz in Kyoto, Japan](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
 * [2025-06-23, 14:12:08](https://news.ycombinator.com/item?id=44355985) - [2B people don't have safe drinking water: what does this mean for them?](https://ourworldindata.org/what-no-safe-water-means)
 * [2025-06-23, 13:43:22](https://news.ycombinator.com/item?id=44355750) - [Gov. Greg Abbott vetoes THC ban](https://www.texastribune.org/2025/06/22/texas-thc-ban-bill-greg-abbott-veto-senate-bill-3/)
 * [2025-06-23, 13:18:21](https://news.ycombinator.com/item?id=44355539) - [Backlash to artificial dye grows as Kraft ditches coloring for Kool-Aid, Jell-O](https://www.washingtonpost.com/business/2025/06/17/kraft-heinz-artificial-food-dyes-us-products/)

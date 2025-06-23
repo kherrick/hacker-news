@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-23, 14:37:05](https://news.ycombinator.com/item?id=44356248) - [Backyard Coffee and Jazz in Kyoto, Japan](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
 * [2025-06-23, 14:12:08](https://news.ycombinator.com/item?id=44355985) - [2B people don't have safe drinking water: what does this mean for them?](https://ourworldindata.org/what-no-safe-water-means)
 * [2025-06-23, 13:43:22](https://news.ycombinator.com/item?id=44355750) - [Gov. Greg Abbott vetoes THC ban](https://www.texastribune.org/2025/06/22/texas-thc-ban-bill-greg-abbott-veto-senate-bill-3/)
 * [2025-06-23, 13:18:21](https://news.ycombinator.com/item?id=44355539) - [Backlash to artificial dye grows as Kraft ditches coloring for Kool-Aid, Jell-O](https://www.washingtonpost.com/business/2025/06/17/kraft-heinz-artificial-food-dyes-us-products/)
 * [2025-06-23, 12:40:24](https://news.ycombinator.com/item?id=44355187) - [How to store Go pointers from assembly](https://mazzo.li/posts/go-asm-pointers.html)
-* [2025-06-23, 11:21:47](https://news.ycombinator.com/item?id=44354543) - [Germany and Italy pressed to bring $245B of gold home from US](https://www.ft.com/content/e39390cc-ea02-4197-843a-1e4c242422cc)
 * [2025-06-23, 08:07:26](https://news.ycombinator.com/item?id=44353490) - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 * [2025-06-23, 06:46:33](https://news.ycombinator.com/item?id=44353098) - [RaptorCast: Designing a Messaging Layer](https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer)
 * [2025-06-23, 05:10:44](https://news.ycombinator.com/item?id=44352615) - [Nano-Vllm: lightweight vLLM implementation built from scratch](https://github.com/GeeeekExplorer/nano-vllm)
