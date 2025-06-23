@@ -1,22 +1,42 @@
 [
   [
     [
-      "2025-06-22, 22:56:30",
-      "https://news.ycombinator.com/item?id=44350982"
+      "2025-06-23, 01:00:00",
+      "https://news.ycombinator.com/item?id=44351580"
     ],
     [
-      "Kastle (S24) is hiring an engineer",
-      "https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24"
+      "Optifye.ai (YC W25) – Founding Back End Engineer",
+      "https://news.ycombinator.com/item?id=44351580"
     ]
   ],
   [
     [
-      "2025-06-22, 21:50:27",
-      "https://news.ycombinator.com/item?id=44350597"
+      "2025-06-23, 00:17:24",
+      "https://news.ycombinator.com/item?id=44351341"
     ],
     [
-      "Children in England growing up 'sedentary, scrolling and alone', say experts",
-      "https://www.theguardian.com/society/2025/jun/11/children-sedentary-scrolling-alone-lack-of-play-england"
+      "10 out of 12 people cured in Type 1 Diabetes Study",
+      "https://www.nejm.org/doi/full/10.1056/NEJMoa2506549"
+    ]
+  ],
+  [
+    [
+      "2025-06-22, 23:12:50",
+      "https://news.ycombinator.com/item?id=44351068"
+    ],
+    [
+      "Finding a billion factorials in 60 ms with SIMD",
+      "https://codeforces.com/blog/entry/143279"
+    ]
+  ],
+  [
+    [
+      "2025-06-22, 22:55:58",
+      "https://news.ycombinator.com/item?id=44350978"
+    ],
+    [
+      "Hawaii Highways",
+      "http://www.hawaiihighways.com/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "I wrote my PhD Thesis in Typst",
       "https://fransskarman.com/phd_thesis_in_typst.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-22, 21:07:47",
+      "https://news.ycombinator.com/item?id=44350294"
+    ],
+    [
+      "Otus Lisp",
+      "https://yuriy-chumak.github.io/ol/"
     ]
   ],
   [
@@ -75,18 +105,8 @@
       "https://news.ycombinator.com/item?id=44349761"
     ],
     [
-      "San Francisco before the Tech industry",
+      "Interview with Francine Prose on early-1970s San Francisco [audio]",
       "https://www.laphamsquarterly.org/content/episode-3-francine-prose"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 19:37:59",
-      "https://news.ycombinator.com/item?id=44349662"
-    ],
-    [
-      "What would happen if you tried to land on a gas giant?",
-      "https://www.popsci.com/science/can-we-land-on-jupiter-saturn/"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=44349525"
     ],
     [
-      "Klein Bottle Amazon Brand Hijacking",
+      "Klein Bottle Amazon Brand Hijacking (2021)",
       "https://www.kleinbottle.com/Amazon_Brand_Hijacking.html"
     ]
   ],
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2025-06-22, 02:17:51",
-      "https://news.ycombinator.com/item?id=44342731"
+      "2025-06-20, 23:40:14",
+      "https://news.ycombinator.com/item?id=44333155"
     ],
     [
-      "Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth",
-      "https://github.com/lfnoise/sapf"
+      "Cross-Account and Cross-Region Backups with AWS Backup (and Friends)",
+      "https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/"
     ]
   ],
   [
@@ -211,6 +231,16 @@
   ],
   [
     [
+      "2025-06-20, 13:27:21",
+      "https://news.ycombinator.com/item?id=44327554"
+    ],
+    [
+      "Adobe Project Indigo is a new photo app from former Pixel camera engineers",
+      "https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 01:06:13",
       "https://news.ycombinator.com/item?id=44323905"
     ],
@@ -227,16 +257,6 @@
     [
       "2048 with only 64 bits of state",
       "https://github.com/izabera/bitwise-challenge-2048"
-    ]
-  ],
-  [
-    [
-      "2025-06-19, 12:33:21",
-      "https://news.ycombinator.com/item?id=44318050"
-    ],
-    [
-      "There's Gold in the Hills",
-      "https://longreads.com/2025/06/12/blm-land-enduring-wild-josh-jackson/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-06-18, 18:52:24",
-      "https://news.ycombinator.com/item?id=44312363"
-    ],
-    [
-      "Remote MCP Support in Claude Code",
-      "https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 16:13:49",
       "https://news.ycombinator.com/item?id=44311141"
     ],
     [
       "Low-Temperature Additive Manufacturing of Glass",
       "https://www.ll.mit.edu/research-and-development/advanced-technology/microsystems-prototyping-foundry/low-temperature"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 08:50:30",
-      "https://news.ycombinator.com/item?id=44307976"
-    ],
-    [
-      "Show HN: Luna Rail – Treating night trains as a spatial optimization problem",
-      "https://luna-rail.com/en/home-2"
     ]
   ]
 ]
