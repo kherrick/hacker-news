@@ -38,6 +38,7 @@
 * [2025-06-20, 16:45:52](https://news.ycombinator.com/item?id=44329556) - [2048 in bash with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-20, 16:35:55](https://news.ycombinator.com/item?id=44329457) - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
 * [2025-06-20, 16:35:05](https://news.ycombinator.com/item?id=44329449) - [Cracovians: The Twisted Twins of Matrices](https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/)
+* [2025-06-20, 16:07:51](https://news.ycombinator.com/item?id=44329102) - [Show HN: Pickaxe – a TypeScript library for building AI agents](https://github.com/hatchet-dev/pickaxe)
 * [2025-06-20, 15:51:59](https://news.ycombinator.com/item?id=44328904) - [How to Design Programs 2nd Ed (2024)](https://htdp.org)
 * [2025-06-20, 15:51:02](https://news.ycombinator.com/item?id=44328894) - [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/)
 * [2025-06-20, 15:47:21](https://news.ycombinator.com/item?id=44328855) - [HCP Vault Secrets End of Life](https://support.hashicorp.com/hc/en-us/articles/41802449287955-HCP-Vault-Secrets-End-Of-Life)
