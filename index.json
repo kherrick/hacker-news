@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 04:23:06",
+      "https://news.ycombinator.com/item?id=44352430"
+    ],
+    [
+      "LeetCode for System Design",
+      "https://leetsys.dev"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 03:50:24",
       "https://news.ycombinator.com/item?id=44352311"
     ],
@@ -17,6 +27,16 @@
     [
       "Tesla launches robotaxi rides in Austin",
       "https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 02:01:41",
+      "https://news.ycombinator.com/item?id=44351881"
+    ],
+    [
+      "If you're building a JavaScript library and need logging, you would love LogTape",
+      "https://hackers.pub/@hongminhee/2025/logtape-for-libraries"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Using Wave Function Collapse to solve puzzle map generation at scale",
       "https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 00:11:00",
-      "https://news.ycombinator.com/item?id=44351310"
-    ],
-    [
-      "CF-Shield – An open source tool to protect any website with Cloudflare",
-      "https://github.com/Sakura-sx/cf-shield"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-06-22, 17:06:51",
-      "https://news.ycombinator.com/item?id=44348448"
-    ],
-    [
-      "Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI",
-      "https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971"
-    ]
-  ],
-  [
-    [
       "2025-06-22, 16:00:09",
       "https://news.ycombinator.com/item?id=44347973"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-06-21, 16:52:35",
-      "https://news.ycombinator.com/item?id=44338976"
-    ],
-    [
-      "French 'merveilleux-scientifique' fiction reframed reality",
-      "https://aeon.co/essays/how-french-merveilleux-scientifique-fiction-reframed-reality"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 07:51:19",
       "https://news.ycombinator.com/item?id=44335583"
     ],
@@ -257,6 +247,16 @@
     [
       "Python can run Mojo now",
       "https://koaning.io/posts/giving-mojo-a-spin/"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 14:52:23",
+      "https://news.ycombinator.com/item?id=44328275"
+    ],
+    [
+      "The Tandy Corporation, Part 1",
+      "https://www.abortretry.fail/p/the-tandy-corporation-part-1"
     ]
   ],
   [
