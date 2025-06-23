@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
 * [2025-06-22, 23:12:50](https://news.ycombinator.com/item?id=44351068) - [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
+* [2025-06-22, 23:03:00](https://news.ycombinator.com/item?id=44351028) - [Show HN: Lego Island Playable in the Browser](https://isle.pizza)
 * [2025-06-22, 22:56:30](https://news.ycombinator.com/item?id=44350982) - [Founding engineers wanted. hard problems. long hours. wealth and honor on success](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24)
 * [2025-06-22, 22:55:58](https://news.ycombinator.com/item?id=44350978) - [Hawaii Highways](http://www.hawaiihighways.com/)
 * [2025-06-22, 22:16:58](https://news.ycombinator.com/item?id=44350760) - [Air India crash points to systemic problems at Boeing that CEO Ortberg must fix](https://leehamnews.com/2025/06/15/five-for-five-air-india-crash-points-to-systemic-problems-at-boeing-ceo-ortberg-must-fix/)
