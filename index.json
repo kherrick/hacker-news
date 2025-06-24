@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-24, 09:03:03",
+      "https://news.ycombinator.com/item?id=44364186"
+    ],
+    [
+      "Atuin – Magical Shell History",
+      "https://atuin.sh"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 07:29:08",
       "https://news.ycombinator.com/item?id=44363696"
     ],
@@ -87,16 +97,6 @@
     [
       "U.S. Chemical Safety Board could be eliminated",
       "https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 20:50:32",
-      "https://news.ycombinator.com/item?id=44359938"
-    ],
-    [
-      "GitHub CEO: manual coding remains key despite AI boom",
-      "https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom"
     ]
   ],
   [
@@ -201,26 +201,6 @@
   ],
   [
     [
-      "2025-06-21, 11:06:18",
-      "https://news.ycombinator.com/item?id=44336540"
-    ],
-    [
-      "The Tandy Corporation, Part 1 – By Bradford Morgan White",
-      "https://www.abortretry.fail/p/the-tandy-corporation-part-1"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 04:08:34",
-      "https://news.ycombinator.com/item?id=44334419"
-    ],
-    [
-      "Ocarina of Time Randomizer",
-      "https://ootrandomizer.com/"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 23:19:52",
       "https://news.ycombinator.com/item?id=44333033"
     ],
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2025-06-20, 16:38:28",
+      "https://news.ycombinator.com/item?id=44329490"
+    ],
+    [
+      "Removal of unwanted drivers from Windows Update",
+      "https://techcommunity.microsoft.com/blog/hardwaredevcenter/removal-of-unwanted-drivers-from-windows-update/4425647"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 15:21:26",
       "https://news.ycombinator.com/item?id=44328575"
     ],
     [
       "Is Mathematics Mostly Chaos or Mostly Order?",
       "https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 14:44:18",
+      "https://news.ycombinator.com/item?id=44328191"
+    ],
+    [
+      "Rocknix is an immutable Linux distribution for handheld gaming devices",
+      "https://rocknix.org/"
     ]
   ],
   [
