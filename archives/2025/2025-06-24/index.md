@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 18:58:32](https://news.ycombinator.com/item?id=44369646) - [Forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
+* [2025-06-24, 18:55:14](https://news.ycombinator.com/item?id=44369587) - [Bridging Cinematic Principles and Generative AI for Automated Film Generation](https://arxiv.org/abs/2506.18899)
 * [2025-06-24, 18:41:26](https://news.ycombinator.com/item?id=44369388) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
+* [2025-06-24, 18:31:15](https://news.ycombinator.com/item?id=44369227) - [My \"Are you presuming most people are stupid?\" test](https://andymasley.substack.com/p/my-are-you-presuming-most-people)
 * [2025-06-24, 18:21:13](https://news.ycombinator.com/item?id=44369140) - [Man 'refused entry into US' as border control catch him with bald JD Vance meme](https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059)
 * [2025-06-24, 17:51:41](https://news.ycombinator.com/item?id=44368854) - [iPhone customers upset by Apple Wallet ad pushing F1 movie](https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/)
+* [2025-06-24, 17:22:25](https://news.ycombinator.com/item?id=44368531) - [Project Agorá – Tokenisation of Wholesale Central Bank Money](https://www.bis.org/about/bisih/topics/fmis/agora.htm)
 * [2025-06-24, 17:00:25](https://news.ycombinator.com/item?id=44368315) - [Expand.ai (YC S24) is hiring a founding engineer](https://news.ycombinator.com/item?id=44368315)
 * [2025-06-24, 16:57:51](https://news.ycombinator.com/item?id=44368285) - [Nvidia's RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM](https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7)
 * [2025-06-24, 16:52:05](https://news.ycombinator.com/item?id=44368217) - [SFStreets: History of San Francisco Place Names](http://sfstreets.noahveltman.com/)
