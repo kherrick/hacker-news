@@ -2,9 +2,8 @@
 
 * [2025-06-24, 07:29:08](https://news.ycombinator.com/item?id=44363696) - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
 * [2025-06-24, 06:04:21](https://news.ycombinator.com/item?id=44363262) - [Tell HN: Meta developer account suspended](https://news.ycombinator.com/item?id=44363262)
-* [2025-06-24, 05:24:55](https://news.ycombinator.com/item?id=44363072) - [Harvard hired researcher to uncover slavery ties, fires him for finding slaves](https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved)
+* [2025-06-24, 05:34:24](https://news.ycombinator.com/item?id=44363106) - [The NO FAKES Act Has Changed – and It's So Much Worse](https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse)
 * [2025-06-24, 02:13:02](https://news.ycombinator.com/item?id=44362272) - [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
-* [2025-06-24, 02:11:03](https://news.ycombinator.com/item?id=44362263) - [Breakthrough cancer test predicts whether chemotherapy will work](https://www.telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/)
 * [2025-06-24, 01:54:12](https://news.ycombinator.com/item?id=44362165) - [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
 * [2025-06-24, 00:01:16](https://news.ycombinator.com/item?id=44361480) - [Marble Blast](https://marbleblast.vaniverse.io/)
 * [2025-06-24, 00:00:47](https://news.ycombinator.com/item?id=44361475) - [Show HN: Comparator - I built a free, open-source app to compare job offers](https://comparator-one.vercel.app/)
@@ -27,6 +26,7 @@
 * [2025-06-20, 14:44:18](https://news.ycombinator.com/item?id=44328191) - [Rocknix is an immutable Linux distribution for handheld gaming devices](https://rocknix.org/)
 * [2025-06-20, 13:58:04](https://news.ycombinator.com/item?id=44327792) - [QuEra Quantum System Leverages Neutral Atoms to Compute](https://www.nextplatform.com/2025/06/20/quera-quantum-system-leverages-neutral-atoms-to-compute/)
 * [2025-06-20, 13:53:25](https://news.ycombinator.com/item?id=44327756) - [Minimal Boolean Formulas (2011)](https://research.swtch.com/boolean)
+* [2025-06-20, 13:26:18](https://news.ycombinator.com/item?id=44327546) - [ASUSpicious Flaw – Users' Information Exposed Since 2022](https://mrbruh.com/asus_p2/)
 * [2025-06-20, 12:47:53](https://news.ycombinator.com/item?id=44327204) - [I ported pigz from Unix to Windows](https://blog.kowalczyk.info/article/4/how-i-ported-pigz-from-unix-to-windows.html)
 * [2025-06-20, 12:43:07](https://news.ycombinator.com/item?id=44327163) - ['Dragon prince' dinosaur discovery 'rewrites' T.rex family tree](https://www.bbc.com/news/articles/cy8dzv3vp5jo)
 * [2025-06-20, 10:31:09](https://news.ycombinator.com/item?id=44326382) - [A Deep Dive into Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html)
