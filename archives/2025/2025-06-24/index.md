@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 20:01:42](https://news.ycombinator.com/item?id=44370426) - [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
+* [2025-06-24, 19:55:53](https://news.ycombinator.com/item?id=44370370) - [The Economics Behind \"Basic Economy\" – A Masterclass in Price Discrimination](https://blog.getjetback.com/the-economics-behind-basic-economy-a-masterclass-in-price-discrimination/)
+* [2025-06-24, 19:44:53](https://news.ycombinator.com/item?id=44370249) - [Analyzing a Critique of the AI 2027 Timeline Forecasts](https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027)
 * [2025-06-24, 19:04:21](https://news.ycombinator.com/item?id=44369735) - [Early US Intel assessment suggests strikes on Iran did not destroy nuclear sites](https://www.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites)
 * [2025-06-24, 18:58:32](https://news.ycombinator.com/item?id=44369646) - [Forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
+* [2025-06-24, 18:58:11](https://news.ycombinator.com/item?id=44369642) - [Subsecond: A runtime hotpatching engine for Rust hot-reloading](https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html)
 * [2025-06-24, 18:55:14](https://news.ycombinator.com/item?id=44369587) - [Bridging Cinematic Principles and Generative AI for Automated Film Generation](https://arxiv.org/abs/2506.18899)
 * [2025-06-24, 18:41:26](https://news.ycombinator.com/item?id=44369388) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 18:31:15](https://news.ycombinator.com/item?id=44369227) - [My \"Are you presuming most people are stupid?\" test](https://andymasley.substack.com/p/my-are-you-presuming-most-people)
@@ -18,6 +22,7 @@
 * [2025-06-24, 16:35:33](https://news.ycombinator.com/item?id=44368015) - [4Real-Video-V2: Feedforward Reconstruction for 4D Scene Generation](https://snap-research.github.io/4Real-Video-V2/)
 * [2025-06-24, 16:22:14](https://news.ycombinator.com/item?id=44367850) - [Judge sides with Anthropic over training AI on books without authors' permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
 * [2025-06-24, 16:13:56](https://news.ycombinator.com/item?id=44367761) - [Airbnb and Vrbo are going downhill like a hippo on a water slide](https://www.washingtonpost.com/opinions/2025/06/19/vacation-rentals-airbnb-vrbo/)
+* [2025-06-24, 16:02:02](https://news.ycombinator.com/item?id=44367638) - [ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry](https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry)
 * [2025-06-24, 15:53:12](https://news.ycombinator.com/item?id=44367548) - [The best Hacker on HackerOne is now an AI](https://xbow.com/blog/top-1-how-xbow-did-it/)
 * [2025-06-24, 15:52:47](https://news.ycombinator.com/item?id=44367539) - [C compiler for Web Assembly (c4wa)](https://github.com/kign/c4wa)
 * [2025-06-24, 15:52:07](https://news.ycombinator.com/item?id=44367529) - [US safety regulators contact Tesla over erratic robotaxis](https://www.bbc.com/news/articles/cg75zv4gny2o)
