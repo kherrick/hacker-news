@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-24, 20:07:51](https://news.ycombinator.com/item?id=44370494) - [The German automotive industry wants to develop open-source software together](https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding)
+* [2025-06-24, 20:05:21](https://news.ycombinator.com/item?id=44370464) - [Biocide overdose blunder suspected in A321 dual-engine incident](https://www.flightglobal.com/safety/biocide-overdose-blunder-suspected-in-a321-dual-engine-incident/138004.article)
 * [2025-06-24, 20:01:42](https://news.ycombinator.com/item?id=44370426) - [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
 * [2025-06-24, 19:55:53](https://news.ycombinator.com/item?id=44370370) - [The Economics Behind \"Basic Economy\" – A Masterclass in Price Discrimination](https://blog.getjetback.com/the-economics-behind-basic-economy-a-masterclass-in-price-discrimination/)
 * [2025-06-24, 19:44:53](https://news.ycombinator.com/item?id=44370249) - [Analyzing a Critique of the AI 2027 Timeline Forecasts](https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027)
-* [2025-06-24, 19:04:21](https://news.ycombinator.com/item?id=44369735) - [Early US Intel assessment suggests strikes on Iran did not destroy nuclear sites](https://www.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites)
 * [2025-06-24, 18:58:32](https://news.ycombinator.com/item?id=44369646) - [Forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
 * [2025-06-24, 18:58:11](https://news.ycombinator.com/item?id=44369642) - [Subsecond: A runtime hotpatching engine for Rust hot-reloading](https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html)
 * [2025-06-24, 18:55:14](https://news.ycombinator.com/item?id=44369587) - [Bridging Cinematic Principles and Generative AI for Automated Film Generation](https://arxiv.org/abs/2506.18899)
@@ -25,10 +25,10 @@
 * [2025-06-24, 12:15:12](https://news.ycombinator.com/item?id=44365320) - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-24, 11:11:52](https://news.ycombinator.com/item?id=44364874) - [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
 * [2025-06-24, 10:10:42](https://news.ycombinator.com/item?id=44364541) - [Circular Microcomputers embedded and powered by repurposed smartphone components](https://citronics.eu/)
+* [2025-06-24, 09:46:27](https://news.ycombinator.com/item?id=44364406) - [Switching Pip to Uv in a Dockerized Flask / Django App](https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app)
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
 * [2025-06-21, 16:48:02](https://news.ycombinator.com/item?id=44338933) - [Mapping LLMs over excel saved my passion for game dev](https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev)
 * [2025-06-21, 16:30:40](https://news.ycombinator.com/item?id=44338793) - [MCP is eating the world](https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay)
-* [2025-06-21, 14:24:49](https://news.ycombinator.com/item?id=44337839) - [Higher: Favourite Haskell type classes for Rust (2023)](https://github.com/bodil/higher)
 * [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [How Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 
 ## [Archives](archives/index.md)
