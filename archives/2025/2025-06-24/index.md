@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
 * [2025-06-24, 17:00:25](https://news.ycombinator.com/item?id=44368315) - [Expand.ai (YC S24) is hiring a founding engineer](https://news.ycombinator.com/item?id=44368315)
+* [2025-06-24, 16:57:51](https://news.ycombinator.com/item?id=44368285) - [Nvidia's RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM](https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7)
 * [2025-06-24, 16:52:05](https://news.ycombinator.com/item?id=44368217) - [SFStreets: History of San Francisco Place Names](http://sfstreets.noahveltman.com/)
 * [2025-06-24, 16:35:33](https://news.ycombinator.com/item?id=44368015) - [4Real-Video-V2: Feedforward Reconstruction for 4D Scene Generation](https://snap-research.github.io/4Real-Video-V2/)
 * [2025-06-24, 16:22:14](https://news.ycombinator.com/item?id=44367850) - [Judge sides with Anthropic over training AI on books without authors' permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
 * [2025-06-24, 16:13:56](https://news.ycombinator.com/item?id=44367761) - [Airbnb and Vrbo are going downhill like a hippo on a water slide](https://www.washingtonpost.com/opinions/2025/06/19/vacation-rentals-airbnb-vrbo/)
+* [2025-06-24, 15:53:12](https://news.ycombinator.com/item?id=44367548) - [The best Hacker on HackerOne is now an AI](https://xbow.com/blog/top-1-how-xbow-did-it/)
 * [2025-06-24, 15:52:47](https://news.ycombinator.com/item?id=44367539) - [C compiler for Web Assembly (c4wa)](https://github.com/kign/c4wa)
 * [2025-06-24, 15:52:07](https://news.ycombinator.com/item?id=44367529) - [US safety regulators contact Tesla over erratic robotaxis](https://www.bbc.com/news/articles/cg75zv4gny2o)
 * [2025-06-24, 15:09:12](https://news.ycombinator.com/item?id=44367084) - [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
