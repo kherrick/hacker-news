@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-06-24, 01:44:24",
-      "https://news.ycombinator.com/item?id=44362094"
+      "2025-06-24, 02:11:03",
+      "https://news.ycombinator.com/item?id=44362263"
     ],
     [
-      "Tesla Robotaxi drops rider in the middle of the intersection and just sits there",
-      "https://twitter.com/ValueAnalyst1/status/1937241884570566991"
+      "Breakthrough cancer test predicts whether chemotherapy will work",
+      "https://www.telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/"
     ]
   ],
   [
     [
-      "2025-06-24, 00:52:12",
-      "https://news.ycombinator.com/item?id=44361795"
+      "2025-06-24, 01:54:12",
+      "https://news.ycombinator.com/item?id=44362165"
     ],
     [
-      "Marijuana is associated with higher risk of heart attack and stroke",
-      "https://www.nytimes.com/2025/06/19/well/marijuana-heart-health-risks.html"
+      "Excalidraw+ Is Now SoC 2 Certified",
+      "https://plus.excalidraw.com/blog/excalidraw-soc2"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Show HN: Comparator - I built a free, open-source app to compare job offers",
       "https://comparator-one.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 23:53:20",
-      "https://news.ycombinator.com/item?id=44361430"
-    ],
-    [
-      "U.S. Chemical Safety Board Could be Eliminated",
-      "https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated"
     ]
   ],
   [
@@ -107,16 +97,6 @@
     [
       "uv: An extremely fast Python package and project manager, written in Rust",
       "https://github.com/astral-sh/uv"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 16:24:05",
-      "https://news.ycombinator.com/item?id=44357378"
-    ],
-    [
-      "NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System",
-      "https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454"
     ]
   ],
   [
@@ -241,12 +221,22 @@
   ],
   [
     [
-      "2025-06-20, 16:07:51",
-      "https://news.ycombinator.com/item?id=44329102"
+      "2025-06-20, 17:32:43",
+      "https://news.ycombinator.com/item?id=44329964"
     ],
     [
-      "Show HN: Pickaxe – A TypeScript library for building AI agents",
-      "https://github.com/hatchet-dev/pickaxe"
+      "I Solved a 7-Day Calculation Problem in a Weekend",
+      "https://medium.com/@jithinsankar.nk/how-i-solved-a-7-day-calculation-problem-in-a-weekend-3fb1a54f2518"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 15:21:26",
+      "https://news.ycombinator.com/item?id=44328575"
+    ],
+    [
+      "Is Mathematics Mostly Chaos or Mostly Order?",
+      "https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Deep Dive into Solid Queue for Ruby on Rails",
       "https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 17:40:05",
+      "https://news.ycombinator.com/item?id=44320832"
+    ],
+    [
+      "Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300",
+      "https://samsorensen.blot.im/cataphracts-design-diary-1"
     ]
   ]
 ]
