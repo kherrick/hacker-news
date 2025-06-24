@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 15:52:47](https://news.ycombinator.com/item?id=44367539) - [C compiler for Web Assembly (c4wa)](https://github.com/kign/c4wa)
+* [2025-06-24, 15:52:07](https://news.ycombinator.com/item?id=44367529) - [US safety regulators contact Tesla over erratic robotaxis](https://www.bbc.com/news/articles/cg75zv4gny2o)
 * [2025-06-24, 15:09:12](https://news.ycombinator.com/item?id=44367084) - [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
 * [2025-06-24, 15:07:49](https://news.ycombinator.com/item?id=44367071) - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
 * [2025-06-24, 14:59:38](https://news.ycombinator.com/item?id=44366987) - [New Firefox Add-On Policies](https://blog.mozilla.org/addons/2025/06/23/updated-add-on-policies-simplified-clarified/)
