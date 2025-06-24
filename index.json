@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-24, 12:21:51",
-      "https://news.ycombinator.com/item?id=44365381"
-    ],
-    [
-      "Microsoft's big lie: Your computer is fine, and you don't need to buy a new one",
-      "https://technical.ly/civic-news/windows-11-upgrade-myth-old-pcs-still-work/"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 12:06:29",
       "https://news.ycombinator.com/item?id=44365246"
     ],
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2025-06-24, 09:11:32",
+      "https://news.ycombinator.com/item?id=44364216"
+    ],
+    [
+      "Retrieval Augmented Generation Based on SQLite",
+      "https://github.com/ggozad/haiku.rag"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 07:29:08",
       "https://news.ycombinator.com/item?id=44363696"
     ],
@@ -117,6 +117,16 @@
     [
       "FICO to incorporate buy-now-pay-later loans into credit scores",
       "https://www.axios.com/2025/06/23/fico-credit-scores-bnpl-buy-now-pay-later"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 00:01:16",
+      "https://news.ycombinator.com/item?id=44361480"
+    ],
+    [
+      "Marble Blast",
+      "https://marbleblast.vaniverse.io/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-06-21, 04:45:57",
-      "https://news.ycombinator.com/item?id=44334589"
+      "2025-06-21, 12:33:01",
+      "https://news.ycombinator.com/item?id=44337088"
     ],
     [
-      "Of Course ML Has Monads (2011)",
-      "https://existentialtype.wordpress.com/2011/05/01/of-course-ml-has-monads/"
+      "Developing a Retro-Roguelike Game for Multiple Platforms in C",
+      "https://retrogamecoders.com/roguelike-multiplatform/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Touring the Zig-EM code-scape (2024)",
       "https://zigem.openem.org/post-003/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 16:38:28",
-      "https://news.ycombinator.com/item?id=44329490"
-    ],
-    [
-      "Removal of unwanted drivers from Windows Update",
-      "https://techcommunity.microsoft.com/blog/hardwaredevcenter/removal-of-unwanted-drivers-from-windows-update/4425647"
     ]
   ],
   [
