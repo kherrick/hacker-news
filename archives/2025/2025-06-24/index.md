@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 21:18:45](https://news.ycombinator.com/item?id=44371169) - [National Archives to restrict public access starting July 7](https://www.archives.gov/college-park)
 * [2025-06-24, 20:07:51](https://news.ycombinator.com/item?id=44370494) - [The German automotive industry wants to develop open-source software together](https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding)
 * [2025-06-24, 20:05:21](https://news.ycombinator.com/item?id=44370464) - [Biocide overdose blunder suspected in A321 dual-engine incident](https://www.flightglobal.com/safety/biocide-overdose-blunder-suspected-in-a321-dual-engine-incident/138004.article)
 * [2025-06-24, 20:01:42](https://news.ycombinator.com/item?id=44370426) - [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-24, 21:18:45](https://news.ycombinator.com/item?id=44371169) - [National Archives to restrict public access starting July 7](https://www.archives.gov/college-park)
 * [2025-06-24, 20:07:51](https://news.ycombinator.com/item?id=44370494) - [The German automotive industry wants to develop open-source software together](https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding)
 * [2025-06-24, 20:01:42](https://news.ycombinator.com/item?id=44370426) - [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
 * [2025-06-24, 19:44:53](https://news.ycombinator.com/item?id=44370249) - [Analyzing a Critique of the AI 2027 Timeline Forecasts](https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027)
@@ -23,7 +24,6 @@
 * [2025-06-24, 12:15:12](https://news.ycombinator.com/item?id=44365320) - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-24, 11:11:52](https://news.ycombinator.com/item?id=44364874) - [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
 * [2025-06-24, 10:10:42](https://news.ycombinator.com/item?id=44364541) - [Circular Microcomputers embedded and powered by repurposed smartphone components](https://citronics.eu/)
-* [2025-06-24, 00:03:56](https://news.ycombinator.com/item?id=44361494) - [FICO to incorporate buy-now-pay-later loans into credit scores](https://www.axios.com/2025/06/23/fico-credit-scores-bnpl-buy-now-pay-later)
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
 * [2025-06-22, 05:00:29](https://news.ycombinator.com/item?id=44343810) - [World Curling tightens sweeping rules, bans firmer broom foams ahead of Olympics](https://www.cbc.ca/sports/olympics/winter/curling/world-curling-broom-ban-1.7566638)
 * [2025-06-21, 16:48:02](https://news.ycombinator.com/item?id=44338933) - [Mapping LLMs over excel saved my passion for game dev](https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev)
