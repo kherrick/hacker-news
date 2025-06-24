@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-06-24, 10:57:51",
-      "https://news.ycombinator.com/item?id=44364788"
-    ],
-    [
-      "Central Park hits temp record last seen in 1888",
-      "https://www.cnn.com/2025/06/23/weather/heat-dome-midwest-east-coast-climate"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 10:33:24",
       "https://news.ycombinator.com/item?id=44364667"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2025-06-24, 00:00:47",
+      "https://news.ycombinator.com/item?id=44361475"
+    ],
+    [
+      "Show HN: Comparator - I built a free, open-source app to compare job offers",
+      "https://comparator-one.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 16:25:48",
       "https://news.ycombinator.com/item?id=44357391"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-06-21, 12:33:01",
+      "https://news.ycombinator.com/item?id=44337088"
+    ],
+    [
+      "Developing a Retro-Roguelike Game for Multiple Platforms in C",
+      "https://retrogamecoders.com/roguelike-multiplatform/"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 23:19:52",
       "https://news.ycombinator.com/item?id=44333033"
     ],
@@ -287,16 +297,6 @@
     [
       "'Dragon prince' dinosaur discovery 'rewrites' T.rex family tree",
       "https://www.bbc.com/news/articles/cy8dzv3vp5jo"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 10:31:09",
-      "https://news.ycombinator.com/item?id=44326382"
-    ],
-    [
-      "A Deep Dive into Solid Queue for Ruby on Rails",
-      "https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html"
     ]
   ]
 ]
