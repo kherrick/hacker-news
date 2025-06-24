@@ -29,6 +29,7 @@
 * [2025-06-21, 15:01:54](https://news.ycombinator.com/item?id=44338122) - [US Congress is making more than 250M acres of public lands available for sale](https://www.wilderness.org/articles/blog/congress-making-more-250-million-acres-public-lands-available-sale)
 * [2025-06-21, 14:57:07](https://news.ycombinator.com/item?id=44338089) - [Behind the scenes: Redpanda Cloud's response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
 * [2025-06-21, 14:46:22](https://news.ycombinator.com/item?id=44338001) - [Astronomers locate universe's 'missing' matter in the largest cosmic structures](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
+* [2025-06-21, 14:24:49](https://news.ycombinator.com/item?id=44337839) - [Higher: Favourite Haskell type classes for Rust (2023)](https://github.com/bodil/higher)
 * [2025-06-21, 14:14:54](https://news.ycombinator.com/item?id=44337764) - [Long Covid destroys teenage lungs in ways doctors never saw](https://rollingout.com/2025/06/03/long-covid-destroys-teenage-lungs/)
 * [2025-06-21, 13:18:09](https://news.ycombinator.com/item?id=44337383) - [A White Nationalist Wrote a Law Paper Promoting Racist Views. Won Him an Award](https://www.nytimes.com/2025/06/21/us/white-supremacist-university-of-florida-paper.html)
 * [2025-06-21, 13:12:46](https://news.ycombinator.com/item?id=44337348) - [Show HN: OSAI-Browser – A P2P Browser for Web3 and HTML Games](https://news.ycombinator.com/item?id=44337348)
