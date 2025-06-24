@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 13:30:37](https://news.ycombinator.com/item?id=44366069) - [Newborns have elevated levels of a biomarker for Alzheimer's](https://medicalxpress.com/news/2025-06-newborns-elevated-biomarker-alzheimer.html)
 * [2025-06-24, 12:21:51](https://news.ycombinator.com/item?id=44365381) - [Microsoft's big lie: Your computer is fine, and you don't need to buy a new one](https://technical.ly/civic-news/windows-11-upgrade-myth-old-pcs-still-work/)
+* [2025-06-24, 12:15:12](https://news.ycombinator.com/item?id=44365320) - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-24, 12:06:29](https://news.ycombinator.com/item?id=44365246) - [SourceHut moves business operations from US to Europe](https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282)
 * [2025-06-24, 11:11:52](https://news.ycombinator.com/item?id=44364874) - [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
 * [2025-06-24, 10:57:51](https://news.ycombinator.com/item?id=44364788) - [Central Park hits temp record last seen in 1888](https://www.cnn.com/2025/06/23/weather/heat-dome-midwest-east-coast-climate)
