@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-24, 14:03:41](https://news.ycombinator.com/item?id=44366395) - [Show HN: Oasis – an open-source, 3D-printed smart terrarium](https://github.com/justbuchanan/oasis)
-* [2025-06-24, 13:30:37](https://news.ycombinator.com/item?id=44366069) - [Newborns have elevated levels of a biomarker for Alzheimer's](https://medicalxpress.com/news/2025-06-newborns-elevated-biomarker-alzheimer.html)
 * [2025-06-24, 13:06:45](https://news.ycombinator.com/item?id=44365806) - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
 * [2025-06-24, 12:15:12](https://news.ycombinator.com/item?id=44365320) - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-24, 12:06:29](https://news.ycombinator.com/item?id=44365246) - [SourceHut moves business operations from US to Europe](https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282)
@@ -29,6 +28,7 @@
 * [2025-06-20, 20:34:28](https://news.ycombinator.com/item?id=44331827) - [Svalboard: Datahand Lives](https://svalboard.com/)
 * [2025-06-20, 15:21:26](https://news.ycombinator.com/item?id=44328575) - [Is mathematics mostly chaos or mostly order?](https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/)
 * [2025-06-20, 14:14:05](https://news.ycombinator.com/item?id=44327942) - [Amoeba: A distributed operating system for the 1990s (1990) [pdf]](https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf)
+* [2025-06-20, 13:26:18](https://news.ycombinator.com/item?id=44327546) - [ASUSpicious Flaw – Users' Information Exposed Since 2022](https://mrbruh.com/asus_p2/)
 * [2025-06-20, 12:43:07](https://news.ycombinator.com/item?id=44327163) - ['Dragon prince' dinosaur discovery 'rewrites' T.rex family tree](https://www.bbc.com/news/articles/cy8dzv3vp5jo)
 
 ## [Archives](archives/index.md)
