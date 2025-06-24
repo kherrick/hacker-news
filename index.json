@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-06-24, 16:35:33",
-      "https://news.ycombinator.com/item?id=44368015"
+      "2025-06-24, 16:52:05",
+      "https://news.ycombinator.com/item?id=44368217"
     ],
     [
-      "4Real-Video-V2: Feedforward Reconstruction for 4D Scene Generation",
-      "https://snap-research.github.io/4Real-Video-V2/"
+      "SFStreets: History of San Francisco Place Names",
+      "http://sfstreets.noahveltman.com/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Judge sides with Anthropic over training AI on books without authors' permission",
       "https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 16:13:56",
+      "https://news.ycombinator.com/item?id=44367761"
+    ],
+    [
+      "Airbnb and Vrbo are going downhill like a hippo on a water slide",
+      "https://www.washingtonpost.com/opinions/2025/06/19/vacation-rentals-airbnb-vrbo/"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2025-06-23, 16:25:48",
-      "https://news.ycombinator.com/item?id=44357391"
-    ],
-    [
-      "Show HN: Weather Watching",
-      "https://walzr.com/weather-watching"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 15:41:00",
-      "https://news.ycombinator.com/item?id=44356890"
-    ],
-    [
-      "Vera C. Rubin Observatory first images",
-      "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest"
-    ]
-  ],
-  [
-    [
       "2025-06-23, 06:39:20",
       "https://news.ycombinator.com/item?id=44353055"
     ],
@@ -247,6 +237,16 @@
     [
       "MCP is eating the world",
       "https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 14:24:49",
+      "https://news.ycombinator.com/item?id=44337839"
+    ],
+    [
+      "Higher: Favourite Haskell type classes for Rust (2023)",
+      "https://github.com/bodil/higher"
     ]
   ],
   [
