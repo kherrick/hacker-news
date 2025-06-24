@@ -26,6 +26,7 @@
 * [2025-06-20, 19:00:55](https://news.ycombinator.com/item?id=44330850) - [Jürgen Schmidhuber：the Father of Generative AI Without Turing Award](http://www.jazzyear.com/article_info.html?id=1352)
 * [2025-06-20, 18:57:22](https://news.ycombinator.com/item?id=44330815) - [Ask HN: How can we keep (part of) the web human?](https://news.ycombinator.com/item?id=44330815)
 * [2025-06-20, 18:51:17](https://news.ycombinator.com/item?id=44330755) - [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)
+* [2025-06-20, 18:41:47](https://news.ycombinator.com/item?id=44330647) - [Touring the Zig•EM code-scape (2024)](https://zigem.openem.org/post-003/)
 * [2025-06-20, 18:37:53](https://news.ycombinator.com/item?id=44330613) - [Career advice, or something like it](https://brooker.co.za/blog/2025/06/20/career.html)
 * [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 * [2025-06-20, 18:29:46](https://news.ycombinator.com/item?id=44330532) - [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
