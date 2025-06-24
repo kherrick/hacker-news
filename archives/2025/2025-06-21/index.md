@@ -31,6 +31,7 @@
 * [2025-06-21, 15:29:35](https://news.ycombinator.com/item?id=44338309) - [First methane-powered sea spiders found crawling on the ocean floor](https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species)
 * [2025-06-21, 15:03:45](https://news.ycombinator.com/item?id=44338134) - [PyTorch Reshaping with None](https://blog.detorch.xyz/post/2025-06-21-pytorch-reshaping-with-none.md)
 * [2025-06-21, 15:01:54](https://news.ycombinator.com/item?id=44338122) - [US Congress is making more than 250M acres of public lands available for sale](https://www.wilderness.org/articles/blog/congress-making-more-250-million-acres-public-lands-available-sale)
+* [2025-06-21, 15:01:15](https://news.ycombinator.com/item?id=44338119) - [The Mathematics of Juggling [video]](https://www.youtube.com/watch?v=0FSWzr5kjhg)
 * [2025-06-21, 14:57:07](https://news.ycombinator.com/item?id=44338089) - [Behind the scenes: Redpanda Cloud's response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
 * [2025-06-21, 14:46:22](https://news.ycombinator.com/item?id=44338001) - [Astronomers locate universe's 'missing' matter in the largest cosmic structures](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
 * [2025-06-21, 14:24:49](https://news.ycombinator.com/item?id=44337839) - [Higher: Favourite Haskell type classes for Rust (2023)](https://github.com/bodil/higher)

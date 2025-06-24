@@ -23,12 +23,12 @@
 * [2025-06-24, 12:48:48](https://news.ycombinator.com/item?id=44365620) - [Show HN: Autumn – Open-source infra over Stripe](https://github.com/useautumn/autumn)
 * [2025-06-24, 12:15:12](https://news.ycombinator.com/item?id=44365320) - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-24, 11:11:52](https://news.ycombinator.com/item?id=44364874) - [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
-* [2025-06-24, 10:10:42](https://news.ycombinator.com/item?id=44364541) - [Circular Microcomputers embedded and powered by repurposed smartphone components](https://citronics.eu/)
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
 * [2025-06-22, 05:00:29](https://news.ycombinator.com/item?id=44343810) - [World Curling tightens sweeping rules, bans firmer broom foams ahead of Olympics](https://www.cbc.ca/sports/olympics/winter/curling/world-curling-broom-ban-1.7566638)
 * [2025-06-21, 16:48:02](https://news.ycombinator.com/item?id=44338933) - [Mapping LLMs over excel saved my passion for game dev](https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev)
 * [2025-06-21, 16:30:40](https://news.ycombinator.com/item?id=44338793) - [MCP is eating the world](https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay)
 * [2025-06-21, 15:03:45](https://news.ycombinator.com/item?id=44338134) - [PyTorch Reshaping with None](https://blog.detorch.xyz/post/2025-06-21-pytorch-reshaping-with-none.md)
+* [2025-06-21, 15:01:15](https://news.ycombinator.com/item?id=44338119) - [The Mathematics of Juggling [video]](https://www.youtube.com/watch?v=0FSWzr5kjhg)
 * [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [How Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 
 ## [Archives](archives/index.md)
