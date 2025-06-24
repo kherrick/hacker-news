@@ -20,6 +20,7 @@
 * [2025-06-23, 18:18:11](https://news.ycombinator.com/item?id=44358524) - [Judge denies creating \"mass surveillance program\" harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
 * [2025-06-23, 17:04:43](https://news.ycombinator.com/item?id=44357779) - [Officials Concede They Don't Know the Fate of Iran's Uranium Stockpile](https://www.nytimes.com/2025/06/22/us/politics/iran-uranium-stockpile-whereabouts.html)
 * [2025-06-23, 16:27:25](https://news.ycombinator.com/item?id=44357411) - [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
+* [2025-06-23, 16:25:48](https://news.ycombinator.com/item?id=44357391) - [Show HN: Weather Watching](https://walzr.com/weather-watching)
 * [2025-06-23, 16:24:05](https://news.ycombinator.com/item?id=44357378) - [NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System](https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454)
 * [2025-06-23, 15:41:00](https://news.ycombinator.com/item?id=44356890) - [Vera C. Rubin Observatory first images](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 * [2025-06-23, 15:40:51](https://news.ycombinator.com/item?id=44356888) - [\"The Last of Us Part II\" Seattle Locations Tour](https://docs.google.com/document/d/1gfFoe2xVoS9GzmmcbGUjTVVtss1Jwh4Yi-73C6Trn-I/edit?usp=sharing)
