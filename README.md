@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-24, 10:57:51](https://news.ycombinator.com/item?id=44364788) - [Central Park hits temp record last seen in 1888](https://www.cnn.com/2025/06/23/weather/heat-dome-midwest-east-coast-climate)
+* [2025-06-24, 10:33:24](https://news.ycombinator.com/item?id=44364667) - [A Mysterious Website I Stumbled Upon](https://www.sbnation.com/a/17776-football)
 * [2025-06-24, 10:08:11](https://news.ycombinator.com/item?id=44364526) - [Microplastics shed by food packaging are contaminating our food, study finds](https://www.cnn.com/2025/06/24/health/microplastics-food-packaging-study-wellness)
 * [2025-06-24, 09:46:27](https://news.ycombinator.com/item?id=44364406) - [Switching Pip to Uv in a Dockerized Flask / Django App](https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app)
 * [2025-06-24, 07:29:08](https://news.ycombinator.com/item?id=44363696) - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
@@ -11,7 +12,6 @@
 * [2025-06-24, 00:01:16](https://news.ycombinator.com/item?id=44361480) - [Marble Blast](https://marbleblast.vaniverse.io/)
 * [2025-06-24, 00:00:47](https://news.ycombinator.com/item?id=44361475) - [Show HN: Comparator - I built a free, open-source app to compare job offers](https://comparator-one.vercel.app/)
 * [2025-06-23, 23:53:20](https://news.ycombinator.com/item?id=44361430) - [U.S. Chemical Safety Board could be eliminated](https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated)
-* [2025-06-23, 19:02:17](https://news.ycombinator.com/item?id=44358944) - [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
 * [2025-06-23, 16:25:48](https://news.ycombinator.com/item?id=44357391) - [Show HN: Weather Watching](https://walzr.com/weather-watching)
 * [2025-06-23, 15:41:00](https://news.ycombinator.com/item?id=44356890) - [Vera C. Rubin Observatory first images](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 * [2025-06-23, 15:30:33](https://news.ycombinator.com/item?id=44356799) - [Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
