@@ -31,6 +31,7 @@
 * [2025-06-21, 13:18:09](https://news.ycombinator.com/item?id=44337383) - [A White Nationalist Wrote a Law Paper Promoting Racist Views. Won Him an Award](https://www.nytimes.com/2025/06/21/us/white-supremacist-university-of-florida-paper.html)
 * [2025-06-21, 13:12:46](https://news.ycombinator.com/item?id=44337348) - [Show HN: OSAI-Browser – A P2P Browser for Web3 and HTML Games](https://news.ycombinator.com/item?id=44337348)
 * [2025-06-21, 12:56:57](https://news.ycombinator.com/item?id=44337225) - [Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic](https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/)
+* [2025-06-21, 12:33:01](https://news.ycombinator.com/item?id=44337088) - [Developing a Retro-Roguelike Game for Multiple Platforms in C](https://retrogamecoders.com/roguelike-multiplatform/)
 * [2025-06-21, 12:06:15](https://news.ycombinator.com/item?id=44336915) - [Microsoft suspended the email account of an ICC prosecutor at The Hague](https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html)
 * [2025-06-21, 10:39:21](https://news.ycombinator.com/item?id=44336381) - [Show HN: MMOndrian](https://mmondrian.com/)
 * [2025-06-21, 09:23:21](https://news.ycombinator.com/item?id=44336015) - [ClickHouse scales beyond 100 petabytes of logs](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
