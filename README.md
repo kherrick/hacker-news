@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-24, 17:00:25](https://news.ycombinator.com/item?id=44368315) - [Expand.ai (YC S24) is hiring a founding engineer](https://news.ycombinator.com/item?id=44368315)
+* [2025-06-24, 16:35:33](https://news.ycombinator.com/item?id=44368015) - [4Real-Video-V2: Feedforward Reconstruction for 4D Scene Generation](https://snap-research.github.io/4Real-Video-V2/)
 * [2025-06-24, 16:22:14](https://news.ycombinator.com/item?id=44367850) - [Judge sides with Anthropic over training AI on books without authors' permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
-* [2025-06-24, 15:52:07](https://news.ycombinator.com/item?id=44367529) - [US safety regulators contact Tesla over erratic robotaxis](https://www.bbc.com/news/articles/cg75zv4gny2o)
 * [2025-06-24, 15:09:12](https://news.ycombinator.com/item?id=44367084) - [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
 * [2025-06-24, 15:07:49](https://news.ycombinator.com/item?id=44367071) - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
 * [2025-06-24, 14:59:38](https://news.ycombinator.com/item?id=44366987) - [New Firefox Add-On Policies](https://blog.mozilla.org/addons/2025/06/23/updated-add-on-policies-simplified-clarified/)
@@ -28,7 +29,6 @@
 * [2025-06-20, 20:34:28](https://news.ycombinator.com/item?id=44331827) - [Svalboard: Datahand Lives](https://svalboard.com/)
 * [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [How Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 * [2025-06-20, 16:55:39](https://news.ycombinator.com/item?id=44329658) - [Breaking WebAuthn, FIDO2, and Forging Passkeys](https://www.nullpt.rs/forging-passkeys)
-* [2025-06-20, 15:21:26](https://news.ycombinator.com/item?id=44328575) - [Is mathematics mostly chaos or mostly order?](https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/)
 * [2025-06-20, 14:14:05](https://news.ycombinator.com/item?id=44327942) - [Amoeba: A distributed operating system for the 1990s (1990) [pdf]](https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf)
 
 ## [Archives](archives/index.md)

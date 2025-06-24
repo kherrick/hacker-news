@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 17:00:25](https://news.ycombinator.com/item?id=44368315) - [Expand.ai (YC S24) is hiring a founding engineer](https://news.ycombinator.com/item?id=44368315)
+* [2025-06-24, 16:35:33](https://news.ycombinator.com/item?id=44368015) - [4Real-Video-V2: Feedforward Reconstruction for 4D Scene Generation](https://snap-research.github.io/4Real-Video-V2/)
 * [2025-06-24, 16:22:14](https://news.ycombinator.com/item?id=44367850) - [Judge sides with Anthropic over training AI on books without authors' permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
 * [2025-06-24, 15:52:47](https://news.ycombinator.com/item?id=44367539) - [C compiler for Web Assembly (c4wa)](https://github.com/kign/c4wa)
 * [2025-06-24, 15:52:07](https://news.ycombinator.com/item?id=44367529) - [US safety regulators contact Tesla over erratic robotaxis](https://www.bbc.com/news/articles/cg75zv4gny2o)
