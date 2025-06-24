@@ -4,7 +4,6 @@
 * [2025-06-24, 12:15:12](https://news.ycombinator.com/item?id=44365320) - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-24, 12:06:29](https://news.ycombinator.com/item?id=44365246) - [SourceHut moves business operations from US to Europe](https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282)
 * [2025-06-24, 11:11:52](https://news.ycombinator.com/item?id=44364874) - [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
-* [2025-06-24, 10:57:51](https://news.ycombinator.com/item?id=44364788) - [Central Park hits temp record last seen in 1888](https://www.cnn.com/2025/06/23/weather/heat-dome-midwest-east-coast-climate)
 * [2025-06-24, 10:33:24](https://news.ycombinator.com/item?id=44364667) - [A Mysterious Website I Stumbled Upon](https://www.sbnation.com/a/17776-football)
 * [2025-06-24, 10:10:42](https://news.ycombinator.com/item?id=44364541) - [Circular Microcomputers embedded and powered by repurposed smartphone components](https://citronics.eu/)
 * [2025-06-24, 10:08:11](https://news.ycombinator.com/item?id=44364526) - [Microplastics shed by food packaging are contaminating our food, study finds](https://www.cnn.com/2025/06/24/health/microplastics-food-packaging-study-wellness)
@@ -15,6 +14,7 @@
 * [2025-06-24, 02:13:02](https://news.ycombinator.com/item?id=44362272) - [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
 * [2025-06-24, 00:03:56](https://news.ycombinator.com/item?id=44361494) - [FICO to incorporate buy-now-pay-later loans into credit scores](https://www.axios.com/2025/06/23/fico-credit-scores-bnpl-buy-now-pay-later)
 * [2025-06-24, 00:01:16](https://news.ycombinator.com/item?id=44361480) - [Marble Blast](https://marbleblast.vaniverse.io/)
+* [2025-06-24, 00:00:47](https://news.ycombinator.com/item?id=44361475) - [Show HN: Comparator - I built a free, open-source app to compare job offers](https://comparator-one.vercel.app/)
 * [2025-06-23, 16:25:48](https://news.ycombinator.com/item?id=44357391) - [Show HN: Weather Watching](https://walzr.com/weather-watching)
 * [2025-06-23, 15:41:00](https://news.ycombinator.com/item?id=44356890) - [Vera C. Rubin Observatory first images](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 * [2025-06-23, 15:29:51](https://news.ycombinator.com/item?id=44356788) - [Fairphone 6 is switching to a new design that's even more sustainable](https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design)
@@ -22,6 +22,7 @@
 * [2025-06-23, 14:37:05](https://news.ycombinator.com/item?id=44356248) - [Backyard Coffee and Jazz in Kyoto](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
 * [2025-06-21, 15:29:35](https://news.ycombinator.com/item?id=44338309) - [First methane-powered sea spiders found crawling on the ocean floor](https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species)
+* [2025-06-21, 12:33:01](https://news.ycombinator.com/item?id=44337088) - [Developing a Retro-Roguelike Game for Multiple Platforms in C](https://retrogamecoders.com/roguelike-multiplatform/)
 * [2025-06-20, 23:19:52](https://news.ycombinator.com/item?id=44333033) - [The FPGA turns 40](https://www.adiuvoengineering.com/post/the-fpga-turns-40)
 * [2025-06-20, 21:53:29](https://news.ycombinator.com/item?id=44332459) - [Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic](https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/)
 * [2025-06-20, 20:34:28](https://news.ycombinator.com/item?id=44331827) - [Svalboard: Datahand Lives](https://svalboard.com/)
@@ -29,7 +30,6 @@
 * [2025-06-20, 15:21:26](https://news.ycombinator.com/item?id=44328575) - [Is mathematics mostly chaos or mostly order?](https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/)
 * [2025-06-20, 14:14:05](https://news.ycombinator.com/item?id=44327942) - [Amoeba: A distributed operating system for the 1990s (1990) [pdf]](https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf)
 * [2025-06-20, 12:43:07](https://news.ycombinator.com/item?id=44327163) - ['Dragon prince' dinosaur discovery 'rewrites' T.rex family tree](https://www.bbc.com/news/articles/cy8dzv3vp5jo)
-* [2025-06-20, 10:31:09](https://news.ycombinator.com/item?id=44326382) - [A Deep Dive into Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html)
 
 ## [Archives](archives/index.md)
 
