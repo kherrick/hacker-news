@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-24, 20:05:21",
+      "https://news.ycombinator.com/item?id=44370464"
+    ],
+    [
+      "Biocide overdose blunder suspected in A321 dual-engine incident",
+      "https://www.flightglobal.com/safety/biocide-overdose-blunder-suspected-in-a321-dual-engine-incident/138004.article"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 20:01:42",
       "https://news.ycombinator.com/item?id=44370426"
     ],
@@ -37,16 +47,6 @@
     [
       "Analyzing a Critique of the AI 2027 Timeline Forecasts",
       "https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 19:04:21",
-      "https://news.ycombinator.com/item?id=44369735"
-    ],
-    [
-      "Early US Intel assessment suggests strikes on Iran did not destroy nuclear sites",
-      "https://www.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-06-24, 09:46:27",
+      "https://news.ycombinator.com/item?id=44364406"
+    ],
+    [
+      "Switching Pip to Uv in a Dockerized Flask / Django App",
+      "https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 06:39:20",
       "https://news.ycombinator.com/item?id=44353055"
     ],
@@ -277,16 +287,6 @@
     [
       "MCP is eating the world",
       "https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 14:24:49",
-      "https://news.ycombinator.com/item?id=44337839"
-    ],
-    [
-      "Higher: Favourite Haskell type classes for Rust (2023)",
-      "https://github.com/bodil/higher"
     ]
   ],
   [
