@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-24, 16:57:51",
+      "https://news.ycombinator.com/item?id=44368285"
+    ],
+    [
+      "Nvidia's RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM",
+      "https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 16:52:05",
       "https://news.ycombinator.com/item?id=44368217"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2025-06-24, 16:22:14",
-      "https://news.ycombinator.com/item?id=44367850"
-    ],
-    [
-      "Judge sides with Anthropic over training AI on books without authors' permission",
-      "https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 16:13:56",
       "https://news.ycombinator.com/item?id=44367761"
     ],
     [
       "Airbnb and Vrbo are going downhill like a hippo on a water slide",
       "https://www.washingtonpost.com/opinions/2025/06/19/vacation-rentals-airbnb-vrbo/"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 15:53:12",
+      "https://news.ycombinator.com/item?id=44367548"
+    ],
+    [
+      "The best Hacker on HackerOne is now an AI",
+      "https://xbow.com/blog/top-1-how-xbow-did-it/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Breaking WebAuthn, FIDO2, and Forging Passkeys",
       "https://www.nullpt.rs/forging-passkeys"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 14:14:05",
-      "https://news.ycombinator.com/item?id=44327942"
-    ],
-    [
-      "Amoeba: A distributed operating system for the 1990s (1990) [pdf]",
-      "https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf"
     ]
   ]
 ]
