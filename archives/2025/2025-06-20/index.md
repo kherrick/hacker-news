@@ -62,6 +62,7 @@
 * [2025-06-20, 12:52:42](https://news.ycombinator.com/item?id=44327241) - [AI is going to hack Jira](https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira)
 * [2025-06-20, 12:47:53](https://news.ycombinator.com/item?id=44327204) - [I ported pigz from Unix to Windows](https://blog.kowalczyk.info/article/4/how-i-ported-pigz-from-unix-to-windows.html)
 * [2025-06-20, 12:44:09](https://news.ycombinator.com/item?id=44327173) - [Klong: A Simple Array Language](https://t3x.org/klong/)
+* [2025-06-20, 12:43:07](https://news.ycombinator.com/item?id=44327163) - ['Dragon prince' dinosaur discovery 'rewrites' T.rex family tree](https://www.bbc.com/news/articles/cy8dzv3vp5jo)
 * [2025-06-20, 12:36:44](https://news.ycombinator.com/item?id=44327109) - [BBC threatens AI firm with legal action over unauthorised content use](https://www.bbc.co.uk/news/articles/cy7ndgylzzmo)
 * [2025-06-20, 12:20:17](https://news.ycombinator.com/item?id=44326997) - [Telegram founder Durov says his 100 children will receive share of his estate](https://www.cnn.com/2025/06/20/tech/durov-100-children-inheritance-scli-intl)
 * [2025-06-20, 12:14:31](https://news.ycombinator.com/item?id=44326965) - [Makefile Style Guide](https://clarkgrubb.com/makefile-style-guide)
