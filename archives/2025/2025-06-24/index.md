@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 18:21:13](https://news.ycombinator.com/item?id=44369140) - [Man 'refused entry into US' as border control catch him with bald JD Vance meme](https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059)
+* [2025-06-24, 17:51:41](https://news.ycombinator.com/item?id=44368854) - [iPhone customers upset by Apple Wallet ad pushing F1 movie](https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/)
 * [2025-06-24, 17:00:25](https://news.ycombinator.com/item?id=44368315) - [Expand.ai (YC S24) is hiring a founding engineer](https://news.ycombinator.com/item?id=44368315)
 * [2025-06-24, 16:57:51](https://news.ycombinator.com/item?id=44368285) - [Nvidia's RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM](https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7)
 * [2025-06-24, 16:52:05](https://news.ycombinator.com/item?id=44368217) - [SFStreets: History of San Francisco Place Names](http://sfstreets.noahveltman.com/)
