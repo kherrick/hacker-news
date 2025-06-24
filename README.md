@@ -21,7 +21,7 @@
 * [2025-06-21, 12:33:01](https://news.ycombinator.com/item?id=44337088) - [Developing a Retro-Roguelike Game for Multiple Platforms in C](https://retrogamecoders.com/roguelike-multiplatform/)
 * [2025-06-21, 04:08:34](https://news.ycombinator.com/item?id=44334419) - [Ocarina of Time Randomizer](https://ootrandomizer.com/)
 * [2025-06-20, 23:19:52](https://news.ycombinator.com/item?id=44333033) - [The FPGA turns 40](https://www.adiuvoengineering.com/post/the-fpga-turns-40)
-* [2025-06-20, 18:41:47](https://news.ycombinator.com/item?id=44330647) - [Touring the Zig•EM code-scape (2024)](https://zigem.openem.org/post-003/)
+* [2025-06-20, 18:41:47](https://news.ycombinator.com/item?id=44330647) - [Touring the Zig-EM code-scape (2024)](https://zigem.openem.org/post-003/)
 * [2025-06-20, 17:32:43](https://news.ycombinator.com/item?id=44329964) - [I Solved a 7-Day Calculation Problem in a Weekend](https://medium.com/@jithinsankar.nk/how-i-solved-a-7-day-calculation-problem-in-a-weekend-3fb1a54f2518)
 * [2025-06-20, 15:21:26](https://news.ycombinator.com/item?id=44328575) - [Is Mathematics Mostly Chaos or Mostly Order?](https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/)
 * [2025-06-20, 14:44:18](https://news.ycombinator.com/item?id=44328191) - [Rocknix is an immutable Linux distribution for handheld gaming devices](https://rocknix.org/)
