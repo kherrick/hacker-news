@@ -19,6 +19,7 @@
 * [2025-06-21, 18:47:32](https://news.ycombinator.com/item?id=44339793) - [Legendary Sound Blaster ISA sound card gets a driver update 30 years later](https://www.tomshardware.com/pc-components/sound-cards/legendary-sound-blaster-isa-sound-card-gets-a-driver-update-30-years-later-patch-squashes-first-bug-report-after-25-years)
 * [2025-06-21, 18:21:27](https://news.ycombinator.com/item?id=44339596) - [AI Is Ushering in the 'Tiny Team' Era in Silicon Valley](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 * [2025-06-21, 17:32:40](https://news.ycombinator.com/item?id=44339227) - [Hyprland Premium](https://account.hypr.land/pricing)
+* [2025-06-21, 17:16:06](https://news.ycombinator.com/item?id=44339123) - [East German cities offer free stays to fight depopulation](https://www.dw.com/en/east-german-cities-offer-free-stays-to-fight-depopulation/a-72981797)
 * [2025-06-21, 17:09:35](https://news.ycombinator.com/item?id=44339076) - [AllTracker: Efficient Dense Point Tracking at High Resolution](https://alltracker.github.io/)
 * [2025-06-21, 17:01:50](https://news.ycombinator.com/item?id=44339043) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-06-21, 16:59:47](https://news.ycombinator.com/item?id=44339025) - [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
