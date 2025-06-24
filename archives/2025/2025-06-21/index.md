@@ -9,6 +9,7 @@
 * [2025-06-21, 23:20:29](https://news.ycombinator.com/item?id=44341462) - [Publishing a Docker Container for MS Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry)
 * [2025-06-21, 22:44:28](https://news.ycombinator.com/item?id=44341281) - [Requiem for a Solar Plant](https://7goldfish.com/articles/Requiem_for_a_solar_plant.php)
 * [2025-06-21, 22:28:48](https://news.ycombinator.com/item?id=44341199) - [I went for 1,200 jobs but got only two interviews](https://www.bbc.co.uk/news/articles/c9397lre3lyo)
+* [2025-06-21, 21:45:47](https://news.ycombinator.com/item?id=44340962) - [Honeywell H316 Kitchen Computer (2023)](https://kbd.news/Honeywell-H316-kitchen-computer-1940.html)
 * [2025-06-21, 21:16:44](https://news.ycombinator.com/item?id=44340790) - [Apple typewriter ban memo](http://writingball.blogspot.com/2020/02/the-infamous-apple-typewriter-memo-is.html)
 * [2025-06-21, 20:19:14](https://news.ycombinator.com/item?id=44340461) - [Researchers using the same data and hypothesis arrive at different conclusions](https://www.pnas.org/doi/10.1073/pnas.2203150119)
 * [2025-06-21, 20:17:26](https://news.ycombinator.com/item?id=44340452) - [You say 'silo' as if it were a bad thing](https://hollisrobbinsanecdotal.substack.com/p/you-say-silo-as-if-it-were-a-bad)

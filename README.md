@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-24, 15:52:47](https://news.ycombinator.com/item?id=44367539) - [C compiler for Web Assembly (c4wa)](https://github.com/kign/c4wa)
+* [2025-06-24, 16:22:14](https://news.ycombinator.com/item?id=44367850) - [Judge sides with Anthropic over training AI on books without authors' permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
 * [2025-06-24, 15:52:07](https://news.ycombinator.com/item?id=44367529) - [US safety regulators contact Tesla over erratic robotaxis](https://www.bbc.com/news/articles/cg75zv4gny2o)
 * [2025-06-24, 15:09:12](https://news.ycombinator.com/item?id=44367084) - [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
 * [2025-06-24, 15:07:49](https://news.ycombinator.com/item?id=44367071) - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
@@ -22,9 +22,9 @@
 * [2025-06-23, 16:25:48](https://news.ycombinator.com/item?id=44357391) - [Show HN: Weather Watching](https://walzr.com/weather-watching)
 * [2025-06-23, 15:41:00](https://news.ycombinator.com/item?id=44356890) - [Vera C. Rubin Observatory first images](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
+* [2025-06-21, 21:45:47](https://news.ycombinator.com/item?id=44340962) - [Honeywell H316 Kitchen Computer (2023)](https://kbd.news/Honeywell-H316-kitchen-computer-1940.html)
 * [2025-06-21, 16:30:40](https://news.ycombinator.com/item?id=44338793) - [MCP is eating the world](https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay)
 * [2025-06-21, 08:18:39](https://news.ycombinator.com/item?id=44335701) - [A brief history of hardware epidemics](https://eclecticlight.co/2025/06/21/a-brief-history-of-hardware-epidemics/)
-* [2025-06-20, 23:19:52](https://news.ycombinator.com/item?id=44333033) - [The FPGA turns 40](https://www.adiuvoengineering.com/post/the-fpga-turns-40)
 * [2025-06-20, 20:34:28](https://news.ycombinator.com/item?id=44331827) - [Svalboard: Datahand Lives](https://svalboard.com/)
 * [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [How Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 * [2025-06-20, 16:55:39](https://news.ycombinator.com/item?id=44329658) - [Breaking WebAuthn, FIDO2, and Forging Passkeys](https://www.nullpt.rs/forging-passkeys)
