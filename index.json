@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44363106"
     ],
     [
-      "The NO FAKES Act Has Changed – and It's So Much Worse",
+      "The NO FAKES act has changed, and it's worse",
       "https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse"
     ]
   ],
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-06-24, 00:03:56",
+      "https://news.ycombinator.com/item?id=44361494"
+    ],
+    [
+      "FICO to incorporate buy-now-pay-later loans into credit scores",
+      "https://www.axios.com/2025/06/23/fico-credit-scores-bnpl-buy-now-pay-later"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 00:01:16",
       "https://news.ycombinator.com/item?id=44361480"
     ],
@@ -71,32 +81,42 @@
   ],
   [
     [
+      "2025-06-23, 23:53:20",
+      "https://news.ycombinator.com/item?id=44361430"
+    ],
+    [
+      "U.S. Chemical Safety Board could be eliminated",
+      "https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 20:50:32",
+      "https://news.ycombinator.com/item?id=44359938"
+    ],
+    [
+      "GitHub CEO: manual coding remains key despite AI boom",
+      "https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 20:16:33",
+      "https://news.ycombinator.com/item?id=44359619"
+    ],
+    [
+      "Discord Is Threatening to Shutdown BotGhost",
+      "https://update.botghost.com/"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 19:02:17",
       "https://news.ycombinator.com/item?id=44358944"
     ],
     [
       "Resurrecting flip phone typing as a Linux driver",
       "https://github.com/FoxMoss/libt9"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 18:34:36",
-      "https://news.ycombinator.com/item?id=44358668"
-    ],
-    [
-      "2025 Iberia Blackout Report [pdf]",
-      "https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 16:27:25",
-      "https://news.ycombinator.com/item?id=44357411"
-    ],
-    [
-      "uv: An extremely fast Python package and project manager, written in Rust",
-      "https://github.com/astral-sh/uv"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-06-20, 14:44:18",
-      "https://news.ycombinator.com/item?id=44328191"
-    ],
-    [
-      "Rocknix is an immutable Linux distribution for handheld gaming devices",
-      "https://rocknix.org/"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 13:58:04",
       "https://news.ycombinator.com/item?id=44327792"
     ],
     [
       "QuEra Quantum System Leverages Neutral Atoms to Compute",
       "https://www.nextplatform.com/2025/06/20/quera-quantum-system-leverages-neutral-atoms-to-compute/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 13:53:25",
-      "https://news.ycombinator.com/item?id=44327756"
-    ],
-    [
-      "Minimal Boolean Formulas (2011)",
-      "https://research.swtch.com/boolean"
     ]
   ],
   [
