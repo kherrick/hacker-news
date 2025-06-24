@@ -39,6 +39,7 @@
 * [2025-06-20, 16:54:12](https://news.ycombinator.com/item?id=44329640) - [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 * [2025-06-20, 16:50:14](https://news.ycombinator.com/item?id=44329600) - [Alpha Centauri](https://www.filfre.net/2025/06/alpha-centauri/)
 * [2025-06-20, 16:45:52](https://news.ycombinator.com/item?id=44329556) - [2048 in bash with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
+* [2025-06-20, 16:38:28](https://news.ycombinator.com/item?id=44329490) - [Removal of unwanted drivers from Windows Update](https://techcommunity.microsoft.com/blog/hardwaredevcenter/removal-of-unwanted-drivers-from-windows-update/4425647)
 * [2025-06-20, 16:35:55](https://news.ycombinator.com/item?id=44329457) - [Show HN: Nxtscape – an open-source agentic browser](https://github.com/nxtscape/nxtscape)
 * [2025-06-20, 16:35:05](https://news.ycombinator.com/item?id=44329449) - [Cracovians: The Twisted Twins of Matrices](https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/)
 * [2025-06-20, 16:07:51](https://news.ycombinator.com/item?id=44329102) - [Show HN: Pickaxe – a TypeScript library for building AI agents](https://github.com/hatchet-dev/pickaxe)
