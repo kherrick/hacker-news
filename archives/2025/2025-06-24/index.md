@@ -7,6 +7,7 @@
 * [2025-06-24, 15:09:12](https://news.ycombinator.com/item?id=44367084) - [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
 * [2025-06-24, 15:07:49](https://news.ycombinator.com/item?id=44367071) - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
 * [2025-06-24, 14:59:38](https://news.ycombinator.com/item?id=44366987) - [New Firefox Add-On Policies](https://blog.mozilla.org/addons/2025/06/23/updated-add-on-policies-simplified-clarified/)
+* [2025-06-24, 14:30:50](https://news.ycombinator.com/item?id=44366679) - [The United States has lower life expectancy than most similarly wealthy nations](https://www.nature.com/articles/d41586-025-01969-1)
 * [2025-06-24, 14:18:11](https://news.ycombinator.com/item?id=44366548) - [PlasticList – Plastic Levels in Foods](https://www.plasticlist.org/)
 * [2025-06-24, 14:14:03](https://news.ycombinator.com/item?id=44366494) - [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
 * [2025-06-24, 14:05:10](https://news.ycombinator.com/item?id=44366409) - [Gemini Robotics On-Device brings AI to local robotic devices](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)
