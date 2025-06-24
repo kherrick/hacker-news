@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-24, 18:41:26](https://news.ycombinator.com/item?id=44369388) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 18:21:13](https://news.ycombinator.com/item?id=44369140) - [Man 'refused entry into US' as border control catch him with bald JD Vance meme](https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059)
 * [2025-06-24, 17:51:41](https://news.ycombinator.com/item?id=44368854) - [iPhone customers upset by Apple Wallet ad pushing F1 movie](https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/)
 * [2025-06-24, 17:00:25](https://news.ycombinator.com/item?id=44368315) - [Expand.ai (YC S24) is hiring a founding engineer](https://news.ycombinator.com/item?id=44368315)
@@ -21,7 +22,6 @@
 * [2025-06-24, 09:46:27](https://news.ycombinator.com/item?id=44364406) - [Switching Pip to Uv in a Dockerized Flask / Django App](https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app)
 * [2025-06-24, 09:11:32](https://news.ycombinator.com/item?id=44364216) - [Retrieval Augmented Generation Based on SQLite](https://github.com/ggozad/haiku.rag)
 * [2025-06-24, 07:29:08](https://news.ycombinator.com/item?id=44363696) - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
-* [2025-06-24, 02:13:02](https://news.ycombinator.com/item?id=44362272) - [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
 * [2025-06-24, 00:03:56](https://news.ycombinator.com/item?id=44361494) - [FICO to incorporate buy-now-pay-later loans into credit scores](https://www.axios.com/2025/06/23/fico-credit-scores-bnpl-buy-now-pay-later)
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
 * [2025-06-21, 22:45:11](https://news.ycombinator.com/item?id=44341285) - [Non-uniform finite-element meshes defined by ray dynamics for Helmholtz problems](https://arxiv.org/abs/2506.15630)
