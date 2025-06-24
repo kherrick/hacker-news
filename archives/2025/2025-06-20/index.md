@@ -38,6 +38,7 @@
 * [2025-06-20, 17:37:14](https://news.ycombinator.com/item?id=44330014) - [Billions of login credentials have been leaked online](https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed)
 * [2025-06-20, 17:32:43](https://news.ycombinator.com/item?id=44329964) - [I Solved a 7-Day Calculation Problem in a Weekend](https://medium.com/@jithinsankar.nk/how-i-solved-a-7-day-calculation-problem-in-a-weekend-3fb1a54f2518)
 * [2025-06-20, 17:01:35](https://news.ycombinator.com/item?id=44329712) - [YouTube's new anti-adblock measures](https://iter.ca/post/yt-adblock/)
+* [2025-06-20, 16:55:39](https://news.ycombinator.com/item?id=44329658) - [Breaking WebAuthn, FIDO2, and Forging Passkeys](https://www.nullpt.rs/forging-passkeys)
 * [2025-06-20, 16:54:12](https://news.ycombinator.com/item?id=44329640) - [Tuxracer.js play Tux Racer in the browser](https://github.com/ebbejan/tux-racer-js)
 * [2025-06-20, 16:50:14](https://news.ycombinator.com/item?id=44329600) - [Alpha Centauri](https://www.filfre.net/2025/06/alpha-centauri/)
 * [2025-06-20, 16:45:52](https://news.ycombinator.com/item?id=44329556) - [2048 in bash with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)

@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 15:09:12](https://news.ycombinator.com/item?id=44367084) - [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy)
+* [2025-06-24, 15:07:49](https://news.ycombinator.com/item?id=44367071) - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
+* [2025-06-24, 14:59:38](https://news.ycombinator.com/item?id=44366987) - [New Firefox Add-On Policies](https://blog.mozilla.org/addons/2025/06/23/updated-add-on-policies-simplified-clarified/)
 * [2025-06-24, 14:18:11](https://news.ycombinator.com/item?id=44366548) - [PlasticList – Plastic Levels in Foods](https://www.plasticlist.org/)
 * [2025-06-24, 14:14:03](https://news.ycombinator.com/item?id=44366494) - [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
 * [2025-06-24, 14:05:10](https://news.ycombinator.com/item?id=44366409) - [Gemini Robotics On-Device brings AI to local robotic devices](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)
 * [2025-06-24, 14:03:41](https://news.ycombinator.com/item?id=44366395) - [Show HN: Oasis – an open-source, 3D-printed smart terrarium](https://github.com/justbuchanan/oasis)
 * [2025-06-24, 13:30:37](https://news.ycombinator.com/item?id=44366069) - [Newborns have elevated levels of a biomarker for Alzheimer's](https://medicalxpress.com/news/2025-06-newborns-elevated-biomarker-alzheimer.html)
 * [2025-06-24, 13:06:45](https://news.ycombinator.com/item?id=44365806) - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
+* [2025-06-24, 12:48:48](https://news.ycombinator.com/item?id=44365620) - [Show HN: Autumn – Open-source infra over Stripe](https://github.com/useautumn/autumn)
 * [2025-06-24, 12:21:51](https://news.ycombinator.com/item?id=44365381) - [Microsoft's big lie: Your computer is fine, and you don't need to buy a new one](https://technical.ly/civic-news/windows-11-upgrade-myth-old-pcs-still-work/)
 * [2025-06-24, 12:15:12](https://news.ycombinator.com/item?id=44365320) - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-24, 12:06:29](https://news.ycombinator.com/item?id=44365246) - [SourceHut moves business operations from US to Europe](https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282)
