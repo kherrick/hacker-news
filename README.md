@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-24, 05:21:48](https://news.ycombinator.com/item?id=44363054) - [Microsoft confirms Windows 11 automatic deletions of System Restore points](https://www.forbes.com/sites/davidphelan/2025/06/23/microsoft-confirms-windows-11-automatic-deletions-take-action-now-to-protect-yourself/)
 * [2025-06-24, 02:13:02](https://news.ycombinator.com/item?id=44362272) - [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
 * [2025-06-24, 02:11:03](https://news.ycombinator.com/item?id=44362263) - [Breakthrough cancer test predicts whether chemotherapy will work](https://www.telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/)
 * [2025-06-24, 01:54:12](https://news.ycombinator.com/item?id=44362165) - [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
@@ -29,7 +30,6 @@
 * [2025-06-20, 12:47:53](https://news.ycombinator.com/item?id=44327204) - [I ported pigz from Unix to Windows](https://blog.kowalczyk.info/article/4/how-i-ported-pigz-from-unix-to-windows.html)
 * [2025-06-20, 12:43:07](https://news.ycombinator.com/item?id=44327163) - ['Dragon prince' dinosaur discovery 'rewrites' T.rex family tree](https://www.bbc.com/news/articles/cy8dzv3vp5jo)
 * [2025-06-20, 10:31:09](https://news.ycombinator.com/item?id=44326382) - [A Deep Dive into Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html)
-* [2025-06-19, 17:40:05](https://news.ycombinator.com/item?id=44320832) - [Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300](https://samsorensen.blot.im/cataphracts-design-diary-1)
 
 ## [Archives](archives/index.md)
 
