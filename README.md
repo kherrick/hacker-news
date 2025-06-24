@@ -29,7 +29,7 @@
 * [2025-06-21, 08:18:39](https://news.ycombinator.com/item?id=44335701) - [A brief history of hardware epidemics](https://eclecticlight.co/2025/06/21/a-brief-history-of-hardware-epidemics/)
 * [2025-06-20, 20:34:28](https://news.ycombinator.com/item?id=44331827) - [Svalboard: Datahand Lives](https://svalboard.com/)
 * [2025-06-20, 18:34:21](https://news.ycombinator.com/item?id=44330585) - [How Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
-* [2025-06-20, 16:55:39](https://news.ycombinator.com/item?id=44329658) - [Breaking WebAuthn, FIDO2, and Forging Passkeys](https://www.nullpt.rs/forging-passkeys)
+* [2025-06-20, 14:14:05](https://news.ycombinator.com/item?id=44327942) - [Amoeba: A distributed operating system for the 1990s (1990) [pdf]](https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf)
 
 ## [Archives](archives/index.md)
 
