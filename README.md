@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-24, 09:46:27](https://news.ycombinator.com/item?id=44364406) - [Switching Pip to Uv in a Dockerized Flask / Django App](https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app)
 * [2025-06-24, 09:03:03](https://news.ycombinator.com/item?id=44364186) - [Atuin – Magical Shell History](https://atuin.sh)
 * [2025-06-24, 07:29:08](https://news.ycombinator.com/item?id=44363696) - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
 * [2025-06-24, 06:04:21](https://news.ycombinator.com/item?id=44363262) - [Tell HN: Meta developer account suspended](https://news.ycombinator.com/item?id=44363262)
@@ -13,7 +14,6 @@
 * [2025-06-23, 20:16:33](https://news.ycombinator.com/item?id=44359619) - [Discord Is Threatening to Shutdown BotGhost](https://update.botghost.com/)
 * [2025-06-23, 19:02:17](https://news.ycombinator.com/item?id=44358944) - [Resurrecting flip phone typing as a Linux driver](https://github.com/FoxMoss/libt9)
 * [2025-06-23, 15:41:00](https://news.ycombinator.com/item?id=44356890) - [Vera C. Rubin Observatory first images](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
-* [2025-06-23, 15:40:51](https://news.ycombinator.com/item?id=44356888) - [The Last of Us Part II – Seattle Locations Tour](https://docs.google.com/document/d/1gfFoe2xVoS9GzmmcbGUjTVVtss1Jwh4Yi-73C6Trn-I/edit?usp=sharing)
 * [2025-06-23, 15:30:33](https://news.ycombinator.com/item?id=44356799) - [Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
 * [2025-06-23, 15:29:51](https://news.ycombinator.com/item?id=44356788) - [Fairphone 6 is switching to a new design that's even more sustainable](https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design)
 * [2025-06-23, 15:14:29](https://news.ycombinator.com/item?id=44356646) - [How I use my terminal](https://jyn.dev/how-i-use-my-terminal/)
@@ -25,9 +25,9 @@
 * [2025-06-20, 18:41:47](https://news.ycombinator.com/item?id=44330647) - [Touring the Zig-EM code-scape (2024)](https://zigem.openem.org/post-003/)
 * [2025-06-20, 16:38:28](https://news.ycombinator.com/item?id=44329490) - [Removal of unwanted drivers from Windows Update](https://techcommunity.microsoft.com/blog/hardwaredevcenter/removal-of-unwanted-drivers-from-windows-update/4425647)
 * [2025-06-20, 15:21:26](https://news.ycombinator.com/item?id=44328575) - [Is Mathematics Mostly Chaos or Mostly Order?](https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/)
+* [2025-06-20, 14:14:05](https://news.ycombinator.com/item?id=44327942) - [Amoeba: A distributed operating system for the 1990s (1990) [pdf]](https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf)
 * [2025-06-20, 13:58:04](https://news.ycombinator.com/item?id=44327792) - [QuEra Quantum System Leverages Neutral Atoms to Compute](https://www.nextplatform.com/2025/06/20/quera-quantum-system-leverages-neutral-atoms-to-compute/)
 * [2025-06-20, 13:26:18](https://news.ycombinator.com/item?id=44327546) - [ASUSpicious Flaw – Users' Information Exposed Since 2022](https://mrbruh.com/asus_p2/)
-* [2025-06-20, 12:47:53](https://news.ycombinator.com/item?id=44327204) - [I ported pigz from Unix to Windows](https://blog.kowalczyk.info/article/4/how-i-ported-pigz-from-unix-to-windows.html)
 * [2025-06-20, 12:43:07](https://news.ycombinator.com/item?id=44327163) - ['Dragon prince' dinosaur discovery 'rewrites' T.rex family tree](https://www.bbc.com/news/articles/cy8dzv3vp5jo)
 * [2025-06-20, 10:31:09](https://news.ycombinator.com/item?id=44326382) - [A Deep Dive into Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html)
 

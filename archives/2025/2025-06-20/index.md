@@ -58,6 +58,7 @@
 * [2025-06-20, 14:44:18](https://news.ycombinator.com/item?id=44328191) - [Rocknix is an immutable Linux distribution for handheld gaming devices](https://rocknix.org/)
 * [2025-06-20, 14:35:50](https://news.ycombinator.com/item?id=44328114) - [Show HN: I Built a Site That Curates Weird YouTube Rabbit Holes Daily](https://yourabbit.com)
 * [2025-06-20, 14:26:49](https://news.ycombinator.com/item?id=44328032) - [Congestion pricing in Manhattan is a predictable success](https://www.economist.com/united-states/2025/06/19/congestion-pricing-in-manhattan-is-a-predictable-success)
+* [2025-06-20, 14:14:05](https://news.ycombinator.com/item?id=44327942) - [Amoeba: A distributed operating system for the 1990s (1990) [pdf]](https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf)
 * [2025-06-20, 13:58:04](https://news.ycombinator.com/item?id=44327792) - [QuEra Quantum System Leverages Neutral Atoms to Compute](https://www.nextplatform.com/2025/06/20/quera-quantum-system-leverages-neutral-atoms-to-compute/)
 * [2025-06-20, 13:53:34](https://news.ycombinator.com/item?id=44327759) - [Minimal auto-differentiation engine in Rust (for educational purposes)](https://github.com/e3ntity/nanograd)
 * [2025-06-20, 13:53:25](https://news.ycombinator.com/item?id=44327756) - [Minimal Boolean Formulas](https://research.swtch.com/boolean)
