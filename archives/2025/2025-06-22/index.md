@@ -28,6 +28,7 @@
 * [2025-06-22, 19:18:41](https://news.ycombinator.com/item?id=44349525) - [Klein Bottle Amazon Brand Hijacking](https://www.kleinbottle.com/Amazon_Brand_Hijacking.html)
 * [2025-06-22, 18:37:56](https://news.ycombinator.com/item?id=44349223) - [Let's Talk About Writing in Tech](https://www.gmoniava.com/blog/lets-talk-about-writing-in-tech)
 * [2025-06-22, 18:25:13](https://news.ycombinator.com/item?id=44349117) - [Show HN: Turn a paper's DOI into its full reference list (BibTeX/RIS, etc.)](https://references.mireklzicar.com)
+* [2025-06-22, 17:56:14](https://news.ycombinator.com/item?id=44348862) - [The Jumping Frenchmen of Maine](https://www.amusingplanet.com/2025/06/the-jumping-frenchmen-of-maine.html)
 * [2025-06-22, 17:51:55](https://news.ycombinator.com/item?id=44348813) - [AGI is Mathematically Impossible 2: When Entropy Returns](https://philarchive.org/archive/SCHAIM-14)
 * [2025-06-22, 17:33:04](https://news.ycombinator.com/item?id=44348649) - [Show HN: A Tool to Summarize Kenya's Parliament with Rust, Whisper, and LLMs](https://github.com/c12i/bunge-bits)
 * [2025-06-22, 17:21:52](https://news.ycombinator.com/item?id=44348565) - [Discover C++26's compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
