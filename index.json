@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-24, 18:21:13",
+      "https://news.ycombinator.com/item?id=44369140"
+    ],
+    [
+      "Man 'refused entry into US' as border control catch him with bald JD Vance meme",
+      "https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 17:51:41",
+      "https://news.ycombinator.com/item?id=44368854"
+    ],
+    [
+      "iPhone customers upset by Apple Wallet ad pushing F1 movie",
+      "https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 17:00:25",
       "https://news.ycombinator.com/item?id=44368315"
     ],
@@ -25,18 +45,18 @@
       "https://news.ycombinator.com/item?id=44368217"
     ],
     [
-      "SFStreets: History of San Francisco Place Names",
+      "SFStreets: History of San Francisco place names",
       "http://sfstreets.noahveltman.com/"
     ]
   ],
   [
     [
-      "2025-06-24, 16:13:56",
-      "https://news.ycombinator.com/item?id=44367761"
+      "2025-06-24, 16:22:14",
+      "https://news.ycombinator.com/item?id=44367850"
     ],
     [
-      "Airbnb and Vrbo are going downhill like a hippo on a water slide",
-      "https://www.washingtonpost.com/opinions/2025/06/19/vacation-rentals-airbnb-vrbo/"
+      "A federal judge sides with Anthropic in lawsuit over training AI on books",
+      "https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Nordic Semiconductor Acquires Memfault",
       "https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 14:59:38",
-      "https://news.ycombinator.com/item?id=44366987"
-    ],
-    [
-      "New Firefox Add-On Policies",
-      "https://blog.mozilla.org/addons/2025/06/23/updated-add-on-policies-simplified-clarified/"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2025-06-21, 22:45:11",
+      "https://news.ycombinator.com/item?id=44341285"
+    ],
+    [
+      "Non-uniform finite-element meshes defined by ray dynamics for Helmholtz problems",
+      "https://arxiv.org/abs/2506.15630"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 21:45:47",
       "https://news.ycombinator.com/item?id=44340962"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-06-20, 20:34:28",
-      "https://news.ycombinator.com/item?id=44331827"
-    ],
-    [
-      "Svalboard: Datahand Lives",
-      "https://svalboard.com/"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 18:34:21",
       "https://news.ycombinator.com/item?id=44330585"
     ],
     [
       "How Cloudflare blocked a monumental 7.3 Tbps DDoS attack",
       "https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 14:14:05",
-      "https://news.ycombinator.com/item?id=44327942"
-    ],
-    [
-      "Amoeba: A distributed operating system for the 1990s (1990) [pdf]",
-      "https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf"
     ]
   ]
 ]
