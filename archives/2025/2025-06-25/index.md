@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 13:11:15](https://news.ycombinator.com/item?id=44376928) - [Second study finds Uber used opaque algorithm to dramatically boost profits](https://www.theguardian.com/technology/2025/jun/25/second-study-finds-uber-used-opaque-algorithm-to-dramatically-boost-profits)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 * [2025-06-25, 12:19:13](https://news.ycombinator.com/item?id=44376428) - [CareerBuilder and Monster job boards, file for bankruptcy](https://www.reuters.com/legal/litigation/careerbuilder-monster-which-once-dominated-online-job-boards-file-bankruptcy-2025-06-24/)
 * [2025-06-25, 12:15:34](https://news.ycombinator.com/item?id=44376398) - [Kid gamers to adult gamblers? Investigation of childhood gaming and YA gambling](https://www.tandfonline.com/doi/full/10.1080/14459795.2025.2488867)
+* [2025-06-25, 12:10:21](https://news.ycombinator.com/item?id=44376362) - [Third places and neighborhood entrepreneurship (2024)](https://www.nber.org/papers/w32604)
 * [2025-06-25, 12:10:21](https://news.ycombinator.com/item?id=44376362) - [Third places and neighborhood enterpenuership: Evidence from Starbucks cafes](https://thetreeoflife.cc/demo)
 * [2025-06-25, 12:09:39](https://news.ycombinator.com/item?id=44376353) - [Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC](https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/)
 * [2025-06-25, 12:00:12](https://news.ycombinator.com/item?id=44376274) - [Yarn (YC W24) is hiring engineers in NYC](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer)
