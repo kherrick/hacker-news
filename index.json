@@ -81,21 +81,11 @@
   ],
   [
     [
-      "2025-06-25, 19:36:50",
-      "https://news.ycombinator.com/item?id=44381091"
-    ],
-    [
-      "Show HN: PLJS – JavaScript for Postgres",
-      "https://news.ycombinator.com/item?id=44381091"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 19:20:23",
       "https://news.ycombinator.com/item?id=44380955"
     ],
     [
-      "Coccinelle for Rust Progress Report",
+      "Coccinelle for Rust progress report",
       "https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/"
     ]
   ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2025-06-25, 16:35:56",
+      "https://news.ycombinator.com/item?id=44379191"
+    ],
+    [
+      "Interstellar Flight: Perspectives and Patience",
+      "https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 16:34:51",
       "https://news.ycombinator.com/item?id=44379173"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-06-25, 13:43:59",
-      "https://news.ycombinator.com/item?id=44377274"
+      "2025-06-25, 14:05:13",
+      "https://news.ycombinator.com/item?id=44377495"
     ],
     [
-      "Deep Down the Rabbit Hole: Bash, OverlayFS, and a 30-Year-Old Surprise",
-      "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/"
+      "Is Lovable getting monetization wrong?",
+      "https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=44376989"
     ],
     [
-      "OpenAI Charges by the Minute, So Make the Minutes Shorter",
+      "OpenAI charges by the minute, so speed up your audio",
       "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/"
     ]
   ],
@@ -227,16 +227,6 @@
     [
       "Gemini CLI",
       "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 12:10:21",
-      "https://news.ycombinator.com/item?id=44376362"
-    ],
-    [
-      "Third places and neighborhood entrepreneurship (2024)",
-      "https://www.nber.org/papers/w32604"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "A new PNG spec",
       "https://www.programmax.net/articles/png-is-back/"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 18:02:33",
+      "https://news.ycombinator.com/item?id=44358390"
+    ],
+    [
+      "PicoGUS gets CD-ROM emulation",
+      "https://github.com/polpo/picogus/releases/tag/v3.0.0"
     ]
   ],
   [
