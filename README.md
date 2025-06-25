@@ -10,7 +10,6 @@
 * [2025-06-25, 13:12:46](https://news.ycombinator.com/item?id=44376939) - [Brit politicians question Fujitsu's continued role in public sector contracts](https://www.theregister.com/2025/06/25/fujitsu_public_sector_contracts/)
 * [2025-06-25, 13:11:15](https://news.ycombinator.com/item?id=44376928) - [Second study finds Uber used opaque algorithm to dramatically boost profits](https://www.theguardian.com/technology/2025/jun/25/second-study-finds-uber-used-opaque-algorithm-to-dramatically-boost-profits)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
-* [2025-06-25, 12:19:13](https://news.ycombinator.com/item?id=44376428) - [CareerBuilder and Monster job boards, file for bankruptcy](https://www.reuters.com/legal/litigation/careerbuilder-monster-which-once-dominated-online-job-boards-file-bankruptcy-2025-06-24/)
 * [2025-06-25, 12:10:21](https://news.ycombinator.com/item?id=44376362) - [Third places and neighborhood entrepreneurship (2024)](https://www.nber.org/papers/w32604)
 * [2025-06-25, 12:09:39](https://news.ycombinator.com/item?id=44376353) - [Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC](https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/)
 * [2025-06-25, 12:00:12](https://news.ycombinator.com/item?id=44376274) - [Yarn (YC W24) is hiring engineers in NYC](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer)
@@ -28,6 +27,7 @@
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-23, 07:45:07](https://news.ycombinator.com/item?id=44353383) - [Thoughts on Asunción, Paraguay](https://cpsi.media/p/thoughts-on-asuncion-paraguay)
 * [2025-06-22, 23:56:47](https://news.ycombinator.com/item?id=44351261) - [A Dictionary of the Language of Myst's D'ni](http://www.eldalamberon.com/dni_dict.htm)
+* [2025-06-22, 20:44:31](https://news.ycombinator.com/item?id=44350135) - [Cracking the Mondrian Code (2017)](https://www.thebeliever.net/logger/cracking-the-mondrian-code/)
 * [2025-06-22, 03:34:16](https://news.ycombinator.com/item?id=44343293) - [The probability of a hash collision (2022)](https://kevingal.com/blog/collisions.html)
 * [2025-06-21, 15:13:00](https://news.ycombinator.com/item?id=44338182) - [Bill Atkinson: Polaroids Showing the Evolution of the Lisa GUI [video]](https://www.youtube.com/watch?v=Qg0mHFcB510)
 

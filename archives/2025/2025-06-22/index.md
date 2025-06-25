@@ -18,6 +18,7 @@
 * [2025-06-22, 21:18:29](https://news.ycombinator.com/item?id=44350367) - [The Void IDE, Open-Source Alternative to Cursor, Released in Beta](https://www.infoq.com/news/2025/06/void-ide-beta-release/)
 * [2025-06-22, 21:12:01](https://news.ycombinator.com/item?id=44350322) - [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
 * [2025-06-22, 21:07:47](https://news.ycombinator.com/item?id=44350294) - [Otus Lisp](https://yuriy-chumak.github.io/ol/)
+* [2025-06-22, 20:44:31](https://news.ycombinator.com/item?id=44350135) - [Cracking the Mondrian Code (2017)](https://www.thebeliever.net/logger/cracking-the-mondrian-code/)
 * [2025-06-22, 20:39:06](https://news.ycombinator.com/item?id=44350097) - [GOP tax bill would sell off USPS's brand-new EVs](https://www.washingtonpost.com/business/2025/06/21/trump-usps-trucks-taxes/)
 * [2025-06-22, 20:37:37](https://news.ycombinator.com/item?id=44350086) - [Sam x Jony page on OpenAI is deleted](https://twitter.com/flowersslop/status/1936876451145351364)
 * [2025-06-22, 20:26:08](https://news.ycombinator.com/item?id=44350002) - [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
