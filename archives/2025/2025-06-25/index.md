@@ -9,6 +9,7 @@
 * [2025-06-25, 03:54:43](https://news.ycombinator.com/item?id=44373504) - [PNG Is Back](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-25, 03:05:56](https://news.ycombinator.com/item?id=44373319) - [PicoEMP: low-cost Electromagnetic Fault Injection (EMFI) tool](https://github.com/newaetech/chipshouter-picoemp)
 * [2025-06-25, 02:46:38](https://news.ycombinator.com/item?id=44373222) - [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
+* [2025-06-25, 01:42:23](https://news.ycombinator.com/item?id=44372940) - [Scientists have created healthy, fertile mice with two fathers](https://www.economist.com/science-and-technology/2025/06/24/scientists-have-created-healthy-fertile-mice-with-two-fathers)
 * [2025-06-25, 01:31:02](https://news.ycombinator.com/item?id=44372881) - [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app/)
 * [2025-06-25, 01:10:33](https://news.ycombinator.com/item?id=44372767) - [Sorry, macOS Tahoe Beta 2 Still Does the Finder Icon Dirty](https://512pixels.net/2025/06/finder-icon-fixed/)
 * [2025-06-25, 00:39:20](https://news.ycombinator.com/item?id=44372585) - [Hacking TLD EPP registry servers (2023)](https://hackcompute.com/hacking-epp-servers/)
