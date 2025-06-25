@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 07:33:59](https://news.ycombinator.com/item?id=44374574) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-25, 06:59:29](https://news.ycombinator.com/item?id=44374353) - [AI more likely to create 'yes-men on servers' than any scientific breakthroughs](https://fortune.com/2025/06/20/hugging-face-thomas-wolf-ai-yes-men-on-servers-no-scientific-breakthroughs/)
 * [2025-06-25, 05:41:02](https://news.ycombinator.com/item?id=44373950) - [Assembly Theory of Time](https://faculty.ucr.edu/~legneref/Assembly%20Theory.htm)
 * [2025-06-25, 04:59:50](https://news.ycombinator.com/item?id=44373754) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli/)
