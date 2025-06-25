@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 19:17:27](https://news.ycombinator.com/item?id=44380927) - [Newly Built San Francisco Condo Tower Lands on Fanny/Freddy Mortgage Blacklist](https://sfstandard.com/2025/06/24/san-francisco-condo-tower-lands-on-mortgage-blacklist/)
+* [2025-06-25, 18:45:12](https://news.ycombinator.com/item?id=44380610) - [California's Corporate Cover-Up Act Is a Privacy Nightmare](https://www.eff.org/deeplinks/2025/06/californias-corporate-cover-act-privacy-nightmare)
 * [2025-06-25, 17:27:35](https://news.ycombinator.com/item?id=44379792) - [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
 * [2025-06-25, 17:15:45](https://news.ycombinator.com/item?id=44379688) - [DeepSpeech Is Discontinued](https://github.com/mozilla/DeepSpeech)
 * [2025-06-25, 17:14:35](https://news.ycombinator.com/item?id=44379673) - [Build and Host AI-Powered Apps with Claude – No Deployment Needed](https://www.anthropic.com/news/claude-powered-artifacts)
