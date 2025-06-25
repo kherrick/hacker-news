@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
 * [2025-06-25, 17:27:35](https://news.ycombinator.com/item?id=44379792) - [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
+* [2025-06-25, 17:15:45](https://news.ycombinator.com/item?id=44379688) - [DeepSpeech Is Discontinued](https://github.com/mozilla/DeepSpeech)
 * [2025-06-25, 17:14:35](https://news.ycombinator.com/item?id=44379673) - [Build and Host AI-Powered Apps with Claude – No Deployment Needed](https://www.anthropic.com/news/claude-powered-artifacts)
 * [2025-06-25, 17:14:29](https://news.ycombinator.com/item?id=44379670) - [America's Prison Population Is in Serious Decline](https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/)
 * [2025-06-25, 17:09:42](https://news.ycombinator.com/item?id=44379620) - [Microsoft opens a free tier for Windows 10 extended updates](https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/)
