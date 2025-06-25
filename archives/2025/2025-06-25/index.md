@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 10:29:58](https://news.ycombinator.com/item?id=44375655) - [Sourcehut Moving to Europe](https://news.ycombinator.com/item?id=44375655)
 * [2025-06-25, 09:58:48](https://news.ycombinator.com/item?id=44375451) - [The Fairphone (Gen. 6)](https://shop.fairphone.com/the-fairphone-gen-6)
 * [2025-06-25, 09:05:12](https://news.ycombinator.com/item?id=44375121) - [Lyon Drops Microsoft to Boost Digital Sovereignty](https://digitrendz.blog/newswire/business/19813/lyon-drops-microsoft-office-to-boost-digital-sovereignty/)
 * [2025-06-25, 08:02:51](https://news.ycombinator.com/item?id=44374748) - [Web Translator API](https://developer.mozilla.org/en-US/docs/Web/API/Translator)

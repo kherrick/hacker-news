@@ -29,6 +29,7 @@
 * [2025-06-21, 16:30:40](https://news.ycombinator.com/item?id=44338793) - [MCP is eating the world](https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay)
 * [2025-06-21, 16:02:24](https://news.ycombinator.com/item?id=44338562) - [Tell HN: Beware confidentiality agreements that act as lifetime non competes](https://news.ycombinator.com/item?id=44338562)
 * [2025-06-21, 15:29:35](https://news.ycombinator.com/item?id=44338309) - [First methane-powered sea spiders found crawling on the ocean floor](https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species)
+* [2025-06-21, 15:13:00](https://news.ycombinator.com/item?id=44338182) - [Bill Atkinson: Polaroids Showing the Evolution of the Lisa GUI [video]](https://www.youtube.com/watch?v=Qg0mHFcB510)
 * [2025-06-21, 15:03:45](https://news.ycombinator.com/item?id=44338134) - [PyTorch Reshaping with None](https://blog.detorch.xyz/post/2025-06-21-pytorch-reshaping-with-none.md)
 * [2025-06-21, 15:01:54](https://news.ycombinator.com/item?id=44338122) - [US Congress is making more than 250M acres of public lands available for sale](https://www.wilderness.org/articles/blog/congress-making-more-250-million-acres-public-lands-available-sale)
 * [2025-06-21, 15:01:15](https://news.ycombinator.com/item?id=44338119) - [The Mathematics of Juggling [video]](https://www.youtube.com/watch?v=0FSWzr5kjhg)

@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-25, 10:29:58](https://news.ycombinator.com/item?id=44375655) - [Sourcehut Moving to Europe](https://news.ycombinator.com/item?id=44375655)
 * [2025-06-25, 09:58:48](https://news.ycombinator.com/item?id=44375451) - [The Fairphone (Gen. 6)](https://shop.fairphone.com/the-fairphone-gen-6)
 * [2025-06-25, 09:05:12](https://news.ycombinator.com/item?id=44375121) - [Lyon Drops Microsoft to Boost Digital Sovereignty](https://digitrendz.blog/newswire/business/19813/lyon-drops-microsoft-office-to-boost-digital-sovereignty/)
 * [2025-06-25, 08:02:51](https://news.ycombinator.com/item?id=44374748) - [Web Translator API](https://developer.mozilla.org/en-US/docs/Web/API/Translator)
 * [2025-06-25, 07:33:59](https://news.ycombinator.com/item?id=44374574) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-25, 05:41:02](https://news.ycombinator.com/item?id=44373950) - [Assembly Theory of Time](https://faculty.ucr.edu/~legneref/Assembly%20Theory.htm)
 * [2025-06-25, 03:54:43](https://news.ycombinator.com/item?id=44373504) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
-* [2025-06-25, 03:05:56](https://news.ycombinator.com/item?id=44373319) - [PicoEMP – A low-cost Electromagnetic Fault Injection (EMFI) tool](https://github.com/newaetech/chipshouter-picoemp)
 * [2025-06-25, 02:46:38](https://news.ycombinator.com/item?id=44373222) - [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
-* [2025-06-25, 01:31:02](https://news.ycombinator.com/item?id=44372881) - [Build an iOS app on Linux or Windows](https://xtool.sh/tutorials/xtool/first-app/)
 * [2025-06-25, 00:28:12](https://news.ycombinator.com/item?id=44372528) - [Managing time when time doesn't exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
 * [2025-06-25, 00:13:27](https://news.ycombinator.com/item?id=44372424) - [Thnickels](https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e)
 * [2025-06-25, 00:07:04](https://news.ycombinator.com/item?id=44372380) - [Microsoft Edit](https://github.com/microsoft/edit)
@@ -30,6 +29,7 @@
 * [2025-06-22, 11:01:02](https://news.ycombinator.com/item?id=44345845) - [Battery-electric \"Infinity Train\" will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
 * [2025-06-22, 03:34:16](https://news.ycombinator.com/item?id=44343293) - [The probability of a hash collision (2022)](https://kevingal.com/blog/collisions.html)
 * [2025-06-21, 16:30:40](https://news.ycombinator.com/item?id=44338793) - [MCP is eating the world](https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay)
+* [2025-06-21, 15:13:00](https://news.ycombinator.com/item?id=44338182) - [Bill Atkinson: Polaroids Showing the Evolution of the Lisa GUI [video]](https://www.youtube.com/watch?v=Qg0mHFcB510)
 
 ## [Archives](archives/index.md)
 
