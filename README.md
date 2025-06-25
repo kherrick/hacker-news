@@ -2,7 +2,6 @@
 
 * [2025-06-25, 06:59:29](https://news.ycombinator.com/item?id=44374353) - [AI more likely to create 'yes-men on servers' than any scientific breakthroughs](https://fortune.com/2025/06/20/hugging-face-thomas-wolf-ai-yes-men-on-servers-no-scientific-breakthroughs/)
 * [2025-06-25, 05:41:02](https://news.ycombinator.com/item?id=44373950) - [Assembly Theory of Time](https://faculty.ucr.edu/~legneref/Assembly%20Theory.htm)
-* [2025-06-25, 04:53:15](https://news.ycombinator.com/item?id=44373724) - [Ask HN: What useful AI tools do you use every day?](https://news.ycombinator.com/item?id=44373724)
 * [2025-06-25, 03:54:43](https://news.ycombinator.com/item?id=44373504) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-25, 03:05:56](https://news.ycombinator.com/item?id=44373319) - [PicoEMP: low-cost Electromagnetic Fault Injection (EMFI) tool](https://github.com/newaetech/chipshouter-picoemp)
 * [2025-06-25, 02:46:38](https://news.ycombinator.com/item?id=44373222) - [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
@@ -27,6 +26,7 @@
 * [2025-06-23, 07:45:07](https://news.ycombinator.com/item?id=44353383) - [Thoughts on Asunción, Paraguay](https://cpsi.media/p/thoughts-on-asuncion-paraguay)
 * [2025-06-22, 15:02:23](https://news.ycombinator.com/item?id=44347464) - [Playing First Contact in Eclipse, a 3-Day Sci-Fi Larp](https://mssv.net/2025/06/15/playing-first-contact-in-eclipse-a-spectacular-3-day-sci-fi-larp/)
 * [2025-06-22, 14:39:55](https://news.ycombinator.com/item?id=44347294) - [Canal Boat Simulator](https://jacobfilipp.com/boat/)
+* [2025-06-22, 13:15:13](https://news.ycombinator.com/item?id=44346692) - [Japan Adventures: A Designer's Perspective](https://www.tombihn.com/blogs/main/tokyo-adventures-a-designers-perspective)
 * [2025-06-22, 03:34:16](https://news.ycombinator.com/item?id=44343293) - [The Probability of a Hash Collision](https://kevingal.com/blog/collisions.html)
 * [2025-06-21, 16:48:02](https://news.ycombinator.com/item?id=44338933) - [Mapping LLMs over excel saved my passion for game dev](https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev)
 * [2025-06-21, 16:30:40](https://news.ycombinator.com/item?id=44338793) - [MCP is eating the world](https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay)
