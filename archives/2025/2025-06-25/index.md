@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 09:05:12](https://news.ycombinator.com/item?id=44375121) - [Lyon Drops Microsoft to Boost Digital Sovereignty](https://digitrendz.blog/newswire/business/19813/lyon-drops-microsoft-office-to-boost-digital-sovereignty/)
 * [2025-06-25, 08:02:51](https://news.ycombinator.com/item?id=44374748) - [Web Translator API](https://developer.mozilla.org/en-US/docs/Web/API/Translator)
 * [2025-06-25, 07:33:59](https://news.ycombinator.com/item?id=44374574) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-25, 06:59:29](https://news.ycombinator.com/item?id=44374353) - [AI more likely to create 'yes-men on servers' than any scientific breakthroughs](https://fortune.com/2025/06/20/hugging-face-thomas-wolf-ai-yes-men-on-servers-no-scientific-breakthroughs/)
