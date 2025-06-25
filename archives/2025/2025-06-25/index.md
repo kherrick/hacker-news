@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
 * [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A New Pyramid-Like Shape Always Lands the Same Side Up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
+* [2025-06-25, 19:54:39](https://news.ycombinator.com/item?id=44381260) - [Do We Need Another Green Revolution?](https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution)
 * [2025-06-25, 19:53:13](https://news.ycombinator.com/item?id=44381252) - [Negative Two-Thousand Lines of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 * [2025-06-25, 19:48:14](https://news.ycombinator.com/item?id=44381204) - [Federal judge rules copyrighted books are fair use for AI training](https://www.nbcnews.com/tech/tech-news/federal-judge-rules-copyrighted-books-are-fair-use-ai-training-rcna214766)
 * [2025-06-25, 19:44:03](https://news.ycombinator.com/item?id=44381176) - [NYC's Upset Election Was Drawn Along an Odd Line: Car Ownership](https://www.jalopnik.com/1895759/nyc-mayor-election-zohran-mamdani-won-non-car-owners/)
 * [2025-06-25, 19:42:57](https://news.ycombinator.com/item?id=44381168) - [The Offline Club](https://www.theoffline-club.com)
 * [2025-06-25, 19:41:22](https://news.ycombinator.com/item?id=44381157) - [How Swiss direct democracy works](https://www.swissinfo.ch/eng/swiss-democracy/how-swiss-direct-democracy-works/89073820)
+* [2025-06-25, 19:40:10](https://news.ycombinator.com/item?id=44381144) - [Games run faster on SteamOS than Windows 11, Ars testing finds](https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/)
 * [2025-06-25, 19:39:23](https://news.ycombinator.com/item?id=44381131) - [A Classical RAM Design That Mimics Quantum Collapse and Entanglement\"](https://www.qsymbolic.com)
 * [2025-06-25, 19:20:23](https://news.ycombinator.com/item?id=44380955) - [Coccinelle for Rust Progress Report](https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/)
 * [2025-06-25, 19:17:27](https://news.ycombinator.com/item?id=44380927) - [Newly Built San Francisco Condo Tower Lands on Fanny/Freddy Mortgage Blacklist](https://sfstandard.com/2025/06/24/san-francisco-condo-tower-lands-on-mortgage-blacklist/)
