@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 20:08:26](https://news.ycombinator.com/item?id=44381358) - [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
+* [2025-06-25, 20:01:22](https://news.ycombinator.com/item?id=44381302) - [Broken by Design: Systemd](https://ewontfix.com/14/)
 * [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A New Pyramid-Like Shape Always Lands the Same Side Up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
+* [2025-06-25, 20:00:38](https://news.ycombinator.com/item?id=44381292) - [Building a Monostable Tetrahedron](https://arxiv.org/abs/2506.19244)
 * [2025-06-25, 19:54:39](https://news.ycombinator.com/item?id=44381260) - [Do We Need Another Green Revolution?](https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution)
 * [2025-06-25, 19:53:13](https://news.ycombinator.com/item?id=44381252) - [Negative Two-Thousand Lines of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 * [2025-06-25, 19:48:14](https://news.ycombinator.com/item?id=44381204) - [Federal judge rules copyrighted books are fair use for AI training](https://www.nbcnews.com/tech/tech-news/federal-judge-rules-copyrighted-books-are-fair-use-ai-training-rcna214766)
