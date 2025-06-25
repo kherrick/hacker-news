@@ -42,6 +42,7 @@
 * [2025-06-24, 14:03:41](https://news.ycombinator.com/item?id=44366395) - [Show HN: Oasis – an open-source, 3D-printed smart terrarium](https://github.com/justbuchanan/oasis)
 * [2025-06-24, 13:30:37](https://news.ycombinator.com/item?id=44366069) - [Newborns have elevated levels of a biomarker for Alzheimer's](https://medicalxpress.com/news/2025-06-newborns-elevated-biomarker-alzheimer.html)
 * [2025-06-24, 13:06:45](https://news.ycombinator.com/item?id=44365806) - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
+* [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-24, 12:48:48](https://news.ycombinator.com/item?id=44365620) - [Show HN: Autumn – Open-source infra over Stripe](https://github.com/useautumn/autumn)
 * [2025-06-24, 12:21:51](https://news.ycombinator.com/item?id=44365381) - [Microsoft's big lie: Your computer is fine, and you don't need to buy a new one](https://technical.ly/civic-news/windows-11-upgrade-myth-old-pcs-still-work/)
 * [2025-06-24, 12:15:12](https://news.ycombinator.com/item?id=44365320) - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)

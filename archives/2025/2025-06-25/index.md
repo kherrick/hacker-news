@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 13:39:41](https://news.ycombinator.com/item?id=44377231) - [HDMI 2.2 will support 16K video at 60Hz](https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k)
+* [2025-06-25, 13:29:32](https://news.ycombinator.com/item?id=44377104) - [Foreign Scammers Use U.S. Banks to Fleece Americans](https://www.propublica.org/article/pig-butchering-scam-cybercrime-us-banks-money-laundering)
 * [2025-06-25, 13:11:15](https://news.ycombinator.com/item?id=44376928) - [Second study finds Uber used opaque algorithm to dramatically boost profits](https://www.theguardian.com/technology/2025/jun/25/second-study-finds-uber-used-opaque-algorithm-to-dramatically-boost-profits)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+* [2025-06-25, 12:30:42](https://news.ycombinator.com/item?id=44376530) - [Disposable E-Cigarettes More Toxic Than Traditional Cigarettes](https://www.ucdavis.edu/news/disposable-e-cigarettes-more-toxic-traditional-cigarettes)
 * [2025-06-25, 12:19:13](https://news.ycombinator.com/item?id=44376428) - [CareerBuilder and Monster job boards, file for bankruptcy](https://www.reuters.com/legal/litigation/careerbuilder-monster-which-once-dominated-online-job-boards-file-bankruptcy-2025-06-24/)
 * [2025-06-25, 12:15:34](https://news.ycombinator.com/item?id=44376398) - [Kid gamers to adult gamblers? Investigation of childhood gaming and YA gambling](https://www.tandfonline.com/doi/full/10.1080/14459795.2025.2488867)
 * [2025-06-25, 12:10:21](https://news.ycombinator.com/item?id=44376362) - [Third places and neighborhood entrepreneurship (2024)](https://www.nber.org/papers/w32604)
