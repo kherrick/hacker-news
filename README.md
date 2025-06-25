@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-25, 15:12:35](https://news.ycombinator.com/item?id=44378271) - [Ask HN: Anyone Using Augmented Reality, VR, Glasses, Helmets etc. in Industry?](https://news.ycombinator.com/item?id=44378271)
 * [2025-06-25, 15:00:00](https://news.ycombinator.com/item?id=44378127) - [Bot or Human? Creating the Invisible Turing Test for the Internet](https://research.roundtable.ai/proof-of-human/)
 * [2025-06-25, 14:22:44](https://news.ycombinator.com/item?id=44377666) - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 * [2025-06-25, 14:17:40](https://news.ycombinator.com/item?id=44377625) - [Framework Laptop 12 press reviews are live and Framework Laptop 13 in-stock](https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock)
 * [2025-06-25, 14:05:13](https://news.ycombinator.com/item?id=44377495) - [Is Lovable getting monetization wrong?](https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut)
-* [2025-06-25, 14:04:36](https://news.ycombinator.com/item?id=44377489) - [NSF getting kicked out of headquarters by HUD](https://www.bloomberg.com/news/articles/2025-06-25/hud-plans-to-move-operations-from-washington-to-virginia)
 * [2025-06-25, 13:29:32](https://news.ycombinator.com/item?id=44377104) - [Foreign Scammers Use U.S. Banks to Fleece Americans](https://www.propublica.org/article/pig-butchering-scam-cybercrime-us-banks-money-laundering)
 * [2025-06-25, 13:17:25](https://news.ycombinator.com/item?id=44376989) - [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
 * [2025-06-25, 13:12:46](https://news.ycombinator.com/item?id=44376939) - [Brit politicians question Fujitsu's continued role in public sector contracts](https://www.theregister.com/2025/06/25/fujitsu_public_sector_contracts/)
