@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-25, 21:42:38](https://news.ycombinator.com/item?id=44382073) - [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
 * [2025-06-25, 20:08:26](https://news.ycombinator.com/item?id=44381358) - [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
 * [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 * [2025-06-25, 20:00:38](https://news.ycombinator.com/item?id=44381292) - [Building a Monostable Tetrahedron](https://arxiv.org/abs/2506.19244)
@@ -26,6 +25,7 @@
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-25, 07:33:59](https://news.ycombinator.com/item?id=44374574) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
+* [2025-06-23, 12:41:34](https://news.ycombinator.com/item?id=44355198) - [Deep Research as a Swim Coach](https://suthakamal.substack.com/p/swimming-with-an-ai-coach)
 * [2025-06-23, 11:58:06](https://news.ycombinator.com/item?id=44354852) - [Primitive Kolmogorov complexity is computable](https://lewish.io/posts/primitive-kolmogorov-complexity-is-computable)
 * [2025-06-23, 10:20:17](https://news.ycombinator.com/item?id=44354141) - [Yet another insignificant programming notes](https://chua.bitbucket.io)
 * [2025-06-23, 07:14:09](https://news.ycombinator.com/item?id=44353241) - [LLM Hallucinations in Practical Code Generation](https://dl.acm.org/doi/10.1145/3728894)
