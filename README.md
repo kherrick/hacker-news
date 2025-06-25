@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-25, 19:48:14](https://news.ycombinator.com/item?id=44381204) - [Federal judge rules copyrighted books are fair use for AI training](https://www.nbcnews.com/tech/tech-news/federal-judge-rules-copyrighted-books-are-fair-use-ai-training-rcna214766)
+* [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A New Pyramid-Like Shape Always Lands the Same Side Up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
+* [2025-06-25, 19:53:13](https://news.ycombinator.com/item?id=44381252) - [Negative Two-Thousand Lines of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 * [2025-06-25, 19:44:03](https://news.ycombinator.com/item?id=44381176) - [NYC's Upset Election Was Drawn Along an Odd Line: Car Ownership](https://www.jalopnik.com/1895759/nyc-mayor-election-zohran-mamdani-won-non-car-owners/)
-* [2025-06-25, 19:41:22](https://news.ycombinator.com/item?id=44381157) - [How Swiss direct democracy works](https://www.swissinfo.ch/eng/swiss-democracy/how-swiss-direct-democracy-works/89073820)
+* [2025-06-25, 19:42:57](https://news.ycombinator.com/item?id=44381168) - [The Offline Club](https://www.theoffline-club.com)
+* [2025-06-25, 19:39:23](https://news.ycombinator.com/item?id=44381131) - [A Classical RAM Design That Mimics Quantum Collapse and Entanglement\"](https://www.qsymbolic.com)
+* [2025-06-25, 19:20:23](https://news.ycombinator.com/item?id=44380955) - [Coccinelle for Rust Progress Report](https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/)
 * [2025-06-25, 19:10:47](https://news.ycombinator.com/item?id=44380872) - [Tomatoes in the Galápagos are quietly de-evolving](https://phys.org/news/2025-06-tomatoes-galpagos-quietly-de-evolving.html)
 * [2025-06-25, 18:45:12](https://news.ycombinator.com/item?id=44380610) - [California's Corporate Cover-Up Act Is a Privacy Nightmare](https://www.eff.org/deeplinks/2025/06/californias-corporate-cover-act-privacy-nightmare)
 * [2025-06-25, 17:27:35](https://news.ycombinator.com/item?id=44379792) - [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
@@ -19,8 +22,6 @@
 * [2025-06-25, 13:17:25](https://news.ycombinator.com/item?id=44376989) - [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-25, 12:10:21](https://news.ycombinator.com/item?id=44376362) - [Third places and neighborhood entrepreneurship (2024)](https://www.nber.org/papers/w32604)
-* [2025-06-25, 12:09:39](https://news.ycombinator.com/item?id=44376353) - [Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC](https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/)
-* [2025-06-25, 10:49:56](https://news.ycombinator.com/item?id=44375761) - [Show HN: Scream to Unlock – Blocks social media until you scream “I'm a loser”](https://news.ycombinator.com/item?id=44375761)
 * [2025-06-25, 07:33:59](https://news.ycombinator.com/item?id=44374574) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-25, 00:13:27](https://news.ycombinator.com/item?id=44372424) - [Thnickels](https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e)
 * [2025-06-25, 00:07:04](https://news.ycombinator.com/item?id=44372380) - [Microsoft Edit](https://github.com/microsoft/edit)
@@ -29,7 +30,6 @@
 * [2025-06-23, 07:14:09](https://news.ycombinator.com/item?id=44353241) - [LLM Hallucinations in Practical Code Generation](https://dl.acm.org/doi/10.1145/3728894)
 * [2025-06-23, 04:36:13](https://news.ycombinator.com/item?id=44352476) - [I built an app to backup Live Photos from iPhone to external hard drives](https://news.ycombinator.com/item?id=44352476)
 * [2025-06-22, 10:29:42](https://news.ycombinator.com/item?id=44345681) - [Writing a basic Linux device driver when you know nothing about Linux drivers](https://crescentro.se/posts/writing-drivers/)
-* [2025-06-21, 15:13:00](https://news.ycombinator.com/item?id=44338182) - [Bill Atkinson: Polaroids Showing the Evolution of the Lisa GUI [video]](https://www.youtube.com/watch?v=Qg0mHFcB510)
 
 ## [Archives](archives/index.md)
 
