@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 04:59:50](https://news.ycombinator.com/item?id=44373754) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli/)
 * [2025-06-25, 03:59:18](https://news.ycombinator.com/item?id=44373524) - [How renewables are saving Texans billions](https://www.theclimatebrink.com/p/how-renewables-are-saving-texans)
 * [2025-06-25, 03:54:43](https://news.ycombinator.com/item?id=44373504) - [PNG Is Back](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-25, 03:05:56](https://news.ycombinator.com/item?id=44373319) - [PicoEMP: low-cost Electromagnetic Fault Injection (EMFI) tool](https://github.com/newaetech/chipshouter-picoemp)
