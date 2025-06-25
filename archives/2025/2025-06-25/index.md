@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 15:33:20](https://news.ycombinator.com/item?id=44378486) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
+* [2025-06-25, 15:29:42](https://news.ycombinator.com/item?id=44378444) - [Information has been permanently deleted, for small values of permanently](https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308)
 * [2025-06-25, 15:12:35](https://news.ycombinator.com/item?id=44378271) - [Ask HN: Anyone Using Augmented Reality, VR, Glasses, Helmets etc. in Industry?](https://news.ycombinator.com/item?id=44378271)
+* [2025-06-25, 15:10:52](https://news.ycombinator.com/item?id=44378254) - [Show HN: Elelem, a tool-calling CLI for Ollama and DeepSeek in C](https://codeberg.org/politebot/elelem)
 * [2025-06-25, 15:00:00](https://news.ycombinator.com/item?id=44378127) - [Bot or Human? Creating the Invisible Turing Test for the Internet](https://research.roundtable.ai/proof-of-human/)
 * [2025-06-25, 14:22:44](https://news.ycombinator.com/item?id=44377666) - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 * [2025-06-25, 14:17:40](https://news.ycombinator.com/item?id=44377625) - [Framework Laptop 12 press reviews are live and Framework Laptop 13 in-stock](https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock)
 * [2025-06-25, 14:05:13](https://news.ycombinator.com/item?id=44377495) - [Is Lovable getting monetization wrong?](https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut)
 * [2025-06-25, 14:04:36](https://news.ycombinator.com/item?id=44377489) - [NSF getting kicked out of headquarters by HUD](https://www.bloomberg.com/news/articles/2025-06-25/hud-plans-to-move-operations-from-washington-to-virginia)
+* [2025-06-25, 13:43:59](https://news.ycombinator.com/item?id=44377274) - [Deep Down the Rabbit Hole: Bash, OverlayFS, and a 30-Year-Old Surprise](https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/)
 * [2025-06-25, 13:39:41](https://news.ycombinator.com/item?id=44377231) - [HDMI 2.2 will support 16K video at 60Hz](https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k)
 * [2025-06-25, 13:29:32](https://news.ycombinator.com/item?id=44377104) - [Foreign Scammers Use U.S. Banks to Fleece Americans](https://www.propublica.org/article/pig-butchering-scam-cybercrime-us-banks-money-laundering)
 * [2025-06-25, 13:21:56](https://news.ycombinator.com/item?id=44377031) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
