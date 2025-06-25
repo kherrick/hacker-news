@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-25, 07:33:59",
+      "https://news.ycombinator.com/item?id=44374574"
+    ],
+    [
+      "Reading NFC Passport Chips in Linux",
+      "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 06:59:29",
       "https://news.ycombinator.com/item?id=44374353"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-06-25, 04:53:15",
+      "https://news.ycombinator.com/item?id=44373724"
+    ],
+    [
+      "Ask HN: What useful AI tools do you use every day?",
+      "https://news.ycombinator.com/item?id=44373724"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 03:54:43",
       "https://news.ycombinator.com/item?id=44373504"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44373319"
     ],
     [
-      "PicoEMP: low-cost Electromagnetic Fault Injection (EMFI) tool",
+      "PicoEMP – A low-cost Electromagnetic Fault Injection (EMFI) tool",
       "https://github.com/newaetech/chipshouter-picoemp"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-06-24, 12:48:48",
-      "https://news.ycombinator.com/item?id=44365620"
-    ],
-    [
-      "Show HN: Autumn – Open-source infra over Stripe",
-      "https://github.com/useautumn/autumn"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 12:15:12",
       "https://news.ycombinator.com/item?id=44365320"
     ],
@@ -277,16 +287,6 @@
     [
       "The Probability of a Hash Collision",
       "https://kevingal.com/blog/collisions.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 16:48:02",
-      "https://news.ycombinator.com/item?id=44338933"
-    ],
-    [
-      "Mapping LLMs over excel saved my passion for game dev",
-      "https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev"
     ]
   ],
   [
