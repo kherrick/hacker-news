@@ -1,12 +1,52 @@
 [
   [
     [
-      "2025-06-24, 23:35:13",
-      "https://news.ycombinator.com/item?id=44372215"
+      "2025-06-25, 01:10:33",
+      "https://news.ycombinator.com/item?id=44372767"
     ],
     [
-      "Berkshire Hathaway Now Pays 5% of All Corporate Income Taxes in America",
-      "https://www.barchart.com/story/news/33003534/warren-buffetts-berkshire-hathaway-now-pays-5-of-all-corporate-income-taxes-in-america"
+      "Sorry, macOS Tahoe Beta 2 Still Does the Finder Icon Dirty",
+      "https://512pixels.net/2025/06/finder-icon-fixed/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 00:39:20",
+      "https://news.ycombinator.com/item?id=44372585"
+    ],
+    [
+      "Hacking TLD EPP registry servers (2023)",
+      "https://hackcompute.com/hacking-epp-servers/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 00:28:12",
+      "https://news.ycombinator.com/item?id=44372528"
+    ],
+    [
+      "Managing Time When Time Doesn't Exist",
+      "https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 00:07:04",
+      "https://news.ycombinator.com/item?id=44372380"
+    ],
+    [
+      "Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust",
+      "https://github.com/microsoft/edit"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 23:26:19",
+      "https://news.ycombinator.com/item?id=44372162"
+    ],
+    [
+      "Mid-sized cities outperform major metros at turning economic growth into patents",
+      "https://www.governance.fyi/p/booms-not-busts-drives-innovation"
     ]
   ],
   [
@@ -25,18 +65,8 @@
       "https://news.ycombinator.com/item?id=44371169"
     ],
     [
-      "National Archives to restrict public access starting July 7",
+      "National Archives at College Park, MD, will become a restricted federal facility",
       "https://www.archives.gov/college-park"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 20:07:51",
-      "https://news.ycombinator.com/item?id=44370494"
-    ],
-    [
-      "The German automotive industry wants to develop open-source software together",
-      "https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding"
     ]
   ],
   [
@@ -175,7 +205,7 @@
       "https://news.ycombinator.com/item?id=44366395"
     ],
     [
-      "Show HN: Oasis – an open-source, 3D-printed smart terrarium",
+      "Show HN: Oasis – An open-source, 3D-printed smart terrarium",
       "https://github.com/justbuchanan/oasis"
     ]
   ],
@@ -241,6 +271,16 @@
   ],
   [
     [
+      "2025-06-22, 14:39:55",
+      "https://news.ycombinator.com/item?id=44347294"
+    ],
+    [
+      "Canal Boat Simulator",
+      "https://jacobfilipp.com/boat/"
+    ]
+  ],
+  [
+    [
       "2025-06-22, 05:00:29",
       "https://news.ycombinator.com/item?id=44343810"
     ],
@@ -257,46 +297,6 @@
     [
       "Mapping LLMs over excel saved my passion for game dev",
       "https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 16:30:40",
-      "https://news.ycombinator.com/item?id=44338793"
-    ],
-    [
-      "MCP is eating the world",
-      "https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 15:03:45",
-      "https://news.ycombinator.com/item?id=44338134"
-    ],
-    [
-      "PyTorch Reshaping with None",
-      "https://blog.detorch.xyz/post/2025-06-21-pytorch-reshaping-with-none.md"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 15:01:15",
-      "https://news.ycombinator.com/item?id=44338119"
-    ],
-    [
-      "The Mathematics of Juggling [video]",
-      "https://www.youtube.com/watch?v=0FSWzr5kjhg"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 18:34:21",
-      "https://news.ycombinator.com/item?id=44330585"
-    ],
-    [
-      "How Cloudflare blocked a monumental 7.3 Tbps DDoS attack",
-      "https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/"
     ]
   ]
 ]
