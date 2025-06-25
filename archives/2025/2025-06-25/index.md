@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 17:14:29](https://news.ycombinator.com/item?id=44379670) - [America's Prison Population Is in Serious Decline](https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/)
+* [2025-06-25, 17:09:42](https://news.ycombinator.com/item?id=44379620) - [Microsoft opens a free tier for Windows 10 extended updates](https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/)
 * [2025-06-25, 17:00:41](https://news.ycombinator.com/item?id=44379509) - [FurtherAI (YC W24) Is Hiring for Software and AI Roles](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-06-25, 16:35:56](https://news.ycombinator.com/item?id=44379191) - [Interstellar Flight: Perspectives and Patience](https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/)
 * [2025-06-25, 16:21:45](https://news.ycombinator.com/item?id=44379034) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
