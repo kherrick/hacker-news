@@ -56,6 +56,7 @@
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
 * [2025-06-23, 06:02:13](https://news.ycombinator.com/item?id=44352831) - [Show HN: Windowfied](https://news.ycombinator.com/item?id=44352831)
 * [2025-06-23, 05:10:44](https://news.ycombinator.com/item?id=44352615) - [Nano-Vllm: lightweight vLLM implementation built from scratch](https://github.com/GeeeekExplorer/nano-vllm)
+* [2025-06-23, 04:36:13](https://news.ycombinator.com/item?id=44352476) - [I built an app to backup Live Photos from iPhone to external hard drives](https://news.ycombinator.com/item?id=44352476)
 * [2025-06-23, 04:23:06](https://news.ycombinator.com/item?id=44352430) - [LeetCode for System Design](https://leetsys.dev)
 * [2025-06-23, 03:54:06](https://news.ycombinator.com/item?id=44352329) - [Show HN: Ariadne – A Rust implementation of aperiodic cryptography](https://codeberg.org/CipherNomad/Ariadne)
 * [2025-06-23, 03:50:24](https://news.ycombinator.com/item?id=44352311) - [The X Window System didn't immediately have X terminals](https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate)

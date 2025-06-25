@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 17:27:35](https://news.ycombinator.com/item?id=44379792) - [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
+* [2025-06-25, 17:14:35](https://news.ycombinator.com/item?id=44379673) - [Build and Host AI-Powered Apps with Claude – No Deployment Needed](https://www.anthropic.com/news/claude-powered-artifacts)
 * [2025-06-25, 17:14:29](https://news.ycombinator.com/item?id=44379670) - [America's Prison Population Is in Serious Decline](https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/)
 * [2025-06-25, 17:09:42](https://news.ycombinator.com/item?id=44379620) - [Microsoft opens a free tier for Windows 10 extended updates](https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/)
+* [2025-06-25, 17:08:44](https://news.ycombinator.com/item?id=44379606) - [What Problems to Solve – By Richard Feynman](http://genius.cat-v.org/richard-feynman/writtings/letters/problems)
 * [2025-06-25, 17:00:41](https://news.ycombinator.com/item?id=44379509) - [FurtherAI (YC W24) Is Hiring for Software and AI Roles](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-06-25, 16:35:56](https://news.ycombinator.com/item?id=44379191) - [Interstellar Flight: Perspectives and Patience](https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/)
+* [2025-06-25, 16:34:51](https://news.ycombinator.com/item?id=44379173) - [Iroh: A library to establish direct connection between peers](https://github.com/n0-computer/iroh)
 * [2025-06-25, 16:21:45](https://news.ycombinator.com/item?id=44379034) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
 * [2025-06-25, 15:33:20](https://news.ycombinator.com/item?id=44378486) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
 * [2025-06-25, 15:29:42](https://news.ycombinator.com/item?id=44378444) - [Information has been permanently deleted, for small values of permanently](https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308)
