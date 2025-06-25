@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-25, 19:17:27",
+      "https://news.ycombinator.com/item?id=44380927"
+    ],
+    [
+      "Newly Built San Francisco Condo Tower Lands on Fanny/Freddy Mortgage Blacklist",
+      "https://sfstandard.com/2025/06/24/san-francisco-condo-tower-lands-on-mortgage-blacklist/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 18:45:12",
+      "https://news.ycombinator.com/item?id=44380610"
+    ],
+    [
+      "California's Corporate Cover-Up Act Is a Privacy Nightmare",
+      "https://www.eff.org/deeplinks/2025/06/californias-corporate-cover-act-privacy-nightmare"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 17:27:35",
       "https://news.ycombinator.com/item?id=44379792"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44379688"
     ],
     [
-      "DeepSpeech Is Discontinued",
+      "DeepSpeech Is Discontinued (2020)",
       "https://github.com/mozilla/DeepSpeech"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Bot or human? Creating an invisible Turing test for the internet",
       "https://research.roundtable.ai/proof-of-human/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 14:05:13",
-      "https://news.ycombinator.com/item?id=44377495"
-    ],
-    [
-      "Is Lovable getting monetization wrong?",
-      "https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-06-24, 15:53:12",
-      "https://news.ycombinator.com/item?id=44367548"
-    ],
-    [
-      "XBOW, an autonomous penetration tester, has reached the top spot on HackerOne",
-      "https://xbow.com/blog/top-1-how-xbow-did-it/"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 13:01:17",
       "https://news.ycombinator.com/item?id=44365754"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-06-23, 07:45:07",
-      "https://news.ycombinator.com/item?id=44353383"
+      "2025-06-23, 07:14:09",
+      "https://news.ycombinator.com/item?id=44353241"
     ],
     [
-      "Thoughts on Asunción, Paraguay",
-      "https://cpsi.media/p/thoughts-on-asuncion-paraguay"
+      "LLM Hallucinations in Practical Code Generation",
+      "https://dl.acm.org/doi/10.1145/3728894"
     ]
   ],
   [
