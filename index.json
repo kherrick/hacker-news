@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44381252"
     ],
     [
-      "Negative Two-Thousand Lines of Code",
+      "-2000 Lines of code",
       "https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "Games run faster on SteamOS than Windows 11, Ars testing finds",
       "https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 19:39:23",
+      "https://news.ycombinator.com/item?id=44381131"
+    ],
+    [
+      "A Classical RAM Design That Mimics Quantum Collapse and Entanglement\"",
+      "https://www.qsymbolic.com"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "A new PNG spec",
       "https://www.programmax.net/articles/png-is-back/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 18:02:33",
-      "https://news.ycombinator.com/item?id=44358390"
-    ],
-    [
-      "PicoGUS gets CD-ROM emulation",
-      "https://github.com/polpo/picogus/releases/tag/v3.0.0"
     ]
   ],
   [
