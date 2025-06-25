@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-25, 11:23:24](https://news.ycombinator.com/item?id=44375986) - [Denmark Switches from Microsoft to LibreOffice and Linux](https://digitrendz.blog/newswire/business/15438/denmark-switches-from-microsoft-to-libreoffice-and-linux/)
 * [2025-06-25, 10:58:52](https://news.ycombinator.com/item?id=44375822) - [Jane Street Boss Says He Was Duped into Funding AK-47s for Coup](https://www.bloomberg.com/news/articles/2025-06-25/jane-street-s-rob-granieri-says-he-was-duped-into-funding-south-sudan-coup-plot)
+* [2025-06-25, 10:02:26](https://news.ycombinator.com/item?id=44375476) - [Bunker Busters probably failed to penetrate Iranian concrete](https://www.popularmechanics.com/military/weapons/a65172594/ultra-strong-concrete-stops-bunker-busting-bombs/)
 * [2025-06-25, 09:58:48](https://news.ycombinator.com/item?id=44375451) - [The Fairphone (Gen. 6)](https://shop.fairphone.com/the-fairphone-gen-6)
 * [2025-06-25, 09:05:12](https://news.ycombinator.com/item?id=44375121) - [Lyon Drops Microsoft to Boost Digital Sovereignty](https://digitrendz.blog/newswire/business/19813/lyon-drops-microsoft-office-to-boost-digital-sovereignty/)
 * [2025-06-25, 08:02:51](https://news.ycombinator.com/item?id=44374748) - [Web Translator API](https://developer.mozilla.org/en-US/docs/Web/API/Translator)
