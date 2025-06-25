@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 19:48:14](https://news.ycombinator.com/item?id=44381204) - [Federal judge rules copyrighted books are fair use for AI training](https://www.nbcnews.com/tech/tech-news/federal-judge-rules-copyrighted-books-are-fair-use-ai-training-rcna214766)
+* [2025-06-25, 19:44:03](https://news.ycombinator.com/item?id=44381176) - [NYC's Upset Election Was Drawn Along an Odd Line: Car Ownership](https://www.jalopnik.com/1895759/nyc-mayor-election-zohran-mamdani-won-non-car-owners/)
+* [2025-06-25, 19:41:22](https://news.ycombinator.com/item?id=44381157) - [How Swiss direct democracy works](https://www.swissinfo.ch/eng/swiss-democracy/how-swiss-direct-democracy-works/89073820)
 * [2025-06-25, 19:17:27](https://news.ycombinator.com/item?id=44380927) - [Newly Built San Francisco Condo Tower Lands on Fanny/Freddy Mortgage Blacklist](https://sfstandard.com/2025/06/24/san-francisco-condo-tower-lands-on-mortgage-blacklist/)
+* [2025-06-25, 19:10:47](https://news.ycombinator.com/item?id=44380872) - [Tomatoes in the Galápagos are quietly de-evolving](https://phys.org/news/2025-06-tomatoes-galpagos-quietly-de-evolving.html)
 * [2025-06-25, 18:45:12](https://news.ycombinator.com/item?id=44380610) - [California's Corporate Cover-Up Act Is a Privacy Nightmare](https://www.eff.org/deeplinks/2025/06/californias-corporate-cover-act-privacy-nightmare)
 * [2025-06-25, 17:27:35](https://news.ycombinator.com/item?id=44379792) - [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
 * [2025-06-25, 17:15:45](https://news.ycombinator.com/item?id=44379688) - [DeepSpeech Is Discontinued](https://github.com/mozilla/DeepSpeech)
