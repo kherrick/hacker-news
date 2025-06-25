@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-25, 15:00:00",
+      "https://news.ycombinator.com/item?id=44378127"
+    ],
+    [
+      "Bot or Human? Creating the Invisible Turing Test for the Internet",
+      "https://research.roundtable.ai/proof-of-human/"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 14:22:44",
       "https://news.ycombinator.com/item?id=44377666"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2025-06-25, 00:28:12",
+      "https://news.ycombinator.com/item?id=44372528"
+    ],
+    [
+      "Managing time when time doesn't exist",
+      "https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 00:13:27",
       "https://news.ycombinator.com/item?id=44372424"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2025-06-24, 20:01:42",
-      "https://news.ycombinator.com/item?id=44370426"
-    ],
-    [
-      "How to Think About Time in Programming",
-      "https://shanrauf.com/archive/how-to-think-about-time-in-programming"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 18:58:32",
       "https://news.ycombinator.com/item?id=44369646"
     ],
     [
       "Ancient X11 scaling technology",
       "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 18:58:11",
-      "https://news.ycombinator.com/item?id=44369642"
-    ],
-    [
-      "Subsecond: A runtime hotpatching engine for Rust hot-reloading",
-      "https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html"
     ]
   ],
   [
