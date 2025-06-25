@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-24, 23:35:13](https://news.ycombinator.com/item?id=44372215) - [Berkshire Hathaway Now Pays 5% of All Corporate Income Taxes in America](https://www.barchart.com/story/news/33003534/warren-buffetts-berkshire-hathaway-now-pays-5-of-all-corporate-income-taxes-in-america)
 * [2025-06-24, 22:32:54](https://news.ycombinator.com/item?id=44371740) - [Show HN: VSCan - Detect Malicious VSCode Extensions](https://vscan.dev/)
 * [2025-06-24, 21:18:45](https://news.ycombinator.com/item?id=44371169) - [National Archives to restrict public access starting July 7](https://www.archives.gov/college-park)
 * [2025-06-24, 20:07:51](https://news.ycombinator.com/item?id=44370494) - [The German automotive industry wants to develop open-source software together](https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding)
@@ -9,7 +10,6 @@
 * [2025-06-24, 18:58:11](https://news.ycombinator.com/item?id=44369642) - [Subsecond: A runtime hotpatching engine for Rust hot-reloading](https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html)
 * [2025-06-24, 18:41:26](https://news.ycombinator.com/item?id=44369388) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 17:00:25](https://news.ycombinator.com/item?id=44368315) - [Expand.ai (YC S24) is hiring a founding engineer](https://news.ycombinator.com/item?id=44368315)
-* [2025-06-24, 16:52:05](https://news.ycombinator.com/item?id=44368217) - [SFStreets: History of San Francisco place names](http://sfstreets.noahveltman.com/)
 * [2025-06-24, 16:02:02](https://news.ycombinator.com/item?id=44367638) - [ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry](https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry)
 * [2025-06-24, 15:53:12](https://news.ycombinator.com/item?id=44367548) - [XBOW, an autonomous penetration tester, has reached the top spot on HackerOne](https://xbow.com/blog/top-1-how-xbow-did-it/)
 * [2025-06-24, 15:09:12](https://news.ycombinator.com/item?id=44367084) - [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
