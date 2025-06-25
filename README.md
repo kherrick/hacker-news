@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-25, 03:05:56](https://news.ycombinator.com/item?id=44373319) - [PicoEMP: low-cost Electromagnetic Fault Injection (EMFI) tool](https://github.com/newaetech/chipshouter-picoemp)
 * [2025-06-25, 02:46:38](https://news.ycombinator.com/item?id=44373222) - [Few Americans pay for news when they encounter paywalls](https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/)
 * [2025-06-25, 01:31:02](https://news.ycombinator.com/item?id=44372881) - [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app/)
-* [2025-06-25, 00:39:20](https://news.ycombinator.com/item?id=44372585) - [Hacking TLD EPP registry servers (2023)](https://hackcompute.com/hacking-epp-servers/)
 * [2025-06-25, 00:28:12](https://news.ycombinator.com/item?id=44372528) - [Managing time when time doesn't exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
 * [2025-06-25, 00:13:27](https://news.ycombinator.com/item?id=44372424) - [Thick Nickels](https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e)
 * [2025-06-25, 00:07:04](https://news.ycombinator.com/item?id=44372380) - [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit)
@@ -17,7 +17,6 @@
 * [2025-06-24, 16:02:02](https://news.ycombinator.com/item?id=44367638) - [ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry](https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry)
 * [2025-06-24, 15:53:12](https://news.ycombinator.com/item?id=44367548) - [XBOW, an autonomous penetration tester, has reached the top spot on HackerOne](https://xbow.com/blog/top-1-how-xbow-did-it/)
 * [2025-06-24, 15:09:12](https://news.ycombinator.com/item?id=44367084) - [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
-* [2025-06-24, 15:07:49](https://news.ycombinator.com/item?id=44367071) - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
 * [2025-06-24, 14:18:11](https://news.ycombinator.com/item?id=44366548) - [PlasticList – Plastic Levels in Foods](https://www.plasticlist.org/)
 * [2025-06-24, 14:14:03](https://news.ycombinator.com/item?id=44366494) - [The bitter lesson is coming for tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
 * [2025-06-24, 14:05:10](https://news.ycombinator.com/item?id=44366409) - [Gemini Robotics On-Device brings AI to local robotic devices](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)
@@ -28,6 +27,7 @@
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
 * [2025-06-22, 18:56:53](https://news.ycombinator.com/item?id=44349379) - [Advanced Python Function Debugging with MCP Integration](https://github.com/kordless/gnosis-mystic)
 * [2025-06-22, 17:56:14](https://news.ycombinator.com/item?id=44348862) - [The Jumping Frenchmen of Maine](https://www.amusingplanet.com/2025/06/the-jumping-frenchmen-of-maine.html)
+* [2025-06-22, 15:02:23](https://news.ycombinator.com/item?id=44347464) - [Playing First Contact in Eclipse, a 3-Day Sci-Fi Larp](https://mssv.net/2025/06/15/playing-first-contact-in-eclipse-a-spectacular-3-day-sci-fi-larp/)
 * [2025-06-22, 14:39:55](https://news.ycombinator.com/item?id=44347294) - [Canal Boat Simulator](https://jacobfilipp.com/boat/)
 * [2025-06-21, 16:48:02](https://news.ycombinator.com/item?id=44338933) - [Mapping LLMs over excel saved my passion for game dev](https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev)
 
