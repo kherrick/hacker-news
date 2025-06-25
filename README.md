@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-25, 08:02:51](https://news.ycombinator.com/item?id=44374748) - [Web Translator API](https://developer.mozilla.org/en-US/docs/Web/API/Translator)
 * [2025-06-25, 07:33:59](https://news.ycombinator.com/item?id=44374574) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-25, 05:41:02](https://news.ycombinator.com/item?id=44373950) - [Assembly Theory of Time](https://faculty.ucr.edu/~legneref/Assembly%20Theory.htm)
 * [2025-06-25, 03:54:43](https://news.ycombinator.com/item?id=44373504) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
@@ -28,7 +29,6 @@
 * [2025-06-22, 13:15:13](https://news.ycombinator.com/item?id=44346692) - [Japan Adventures: A Designer's Perspective](https://www.tombihn.com/blogs/main/tokyo-adventures-a-designers-perspective)
 * [2025-06-22, 11:01:02](https://news.ycombinator.com/item?id=44345845) - [Battery-electric \"Infinity Train\" will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
 * [2025-06-22, 03:34:16](https://news.ycombinator.com/item?id=44343293) - [The probability of a hash collision (2022)](https://kevingal.com/blog/collisions.html)
-* [2025-06-21, 16:48:02](https://news.ycombinator.com/item?id=44338933) - [Mapping LLMs over excel saved my passion for game dev](https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev)
 * [2025-06-21, 16:30:40](https://news.ycombinator.com/item?id=44338793) - [MCP is eating the world](https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay)
 
 ## [Archives](archives/index.md)
