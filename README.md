@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-25, 16:21:45](https://news.ycombinator.com/item?id=44379034) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
 * [2025-06-25, 15:33:20](https://news.ycombinator.com/item?id=44378486) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
 * [2025-06-25, 15:29:42](https://news.ycombinator.com/item?id=44378444) - [Information has been permanently deleted, for small values of permanently](https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308)
 * [2025-06-25, 15:12:35](https://news.ycombinator.com/item?id=44378271) - [Ask HN: Anyone Using Augmented Reality, VR, Glasses, Helmets etc. in Industry?](https://news.ycombinator.com/item?id=44378271)
@@ -11,7 +12,6 @@
 * [2025-06-25, 13:43:59](https://news.ycombinator.com/item?id=44377274) - [Deep Down the Rabbit Hole: Bash, OverlayFS, and a 30-Year-Old Surprise](https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/)
 * [2025-06-25, 13:29:32](https://news.ycombinator.com/item?id=44377104) - [Foreign Scammers Use U.S. Banks to Fleece Americans](https://www.propublica.org/article/pig-butchering-scam-cybercrime-us-banks-money-laundering)
 * [2025-06-25, 13:17:25](https://news.ycombinator.com/item?id=44376989) - [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
-* [2025-06-25, 13:12:46](https://news.ycombinator.com/item?id=44376939) - [Brit politicians question Fujitsu's continued role in public sector contracts](https://www.theregister.com/2025/06/25/fujitsu_public_sector_contracts/)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-25, 12:10:21](https://news.ycombinator.com/item?id=44376362) - [Third places and neighborhood entrepreneurship (2024)](https://www.nber.org/papers/w32604)
 * [2025-06-25, 12:09:39](https://news.ycombinator.com/item?id=44376353) - [Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC](https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/)
@@ -23,11 +23,11 @@
 * [2025-06-25, 00:07:04](https://news.ycombinator.com/item?id=44372380) - [Microsoft Edit](https://github.com/microsoft/edit)
 * [2025-06-24, 18:41:26](https://news.ycombinator.com/item?id=44369388) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 16:02:02](https://news.ycombinator.com/item?id=44367638) - [ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry](https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry)
-* [2025-06-24, 15:53:12](https://news.ycombinator.com/item?id=44367548) - [XBOW, an autonomous penetration tester, has reached the top spot on HackerOne](https://xbow.com/blog/top-1-how-xbow-did-it/)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-23, 07:45:07](https://news.ycombinator.com/item?id=44353383) - [Thoughts on Asunción, Paraguay](https://cpsi.media/p/thoughts-on-asuncion-paraguay)
 * [2025-06-22, 23:56:47](https://news.ycombinator.com/item?id=44351261) - [A Dictionary of the Language of Myst's D'ni](http://www.eldalamberon.com/dni_dict.htm)
 * [2025-06-22, 20:44:31](https://news.ycombinator.com/item?id=44350135) - [Cracking the Mondrian Code (2017)](https://www.thebeliever.net/logger/cracking-the-mondrian-code/)
+* [2025-06-22, 11:36:55](https://news.ycombinator.com/item?id=44346045) - [Was laid off from Microsoft after 23 years, and I'm still going into the office](https://www.businessinsider.com/show-up-microsoft-office-layoffs-23-year-career-2025-6)
 * [2025-06-22, 03:34:16](https://news.ycombinator.com/item?id=44343293) - [The probability of a hash collision (2022)](https://kevingal.com/blog/collisions.html)
 * [2025-06-21, 15:13:00](https://news.ycombinator.com/item?id=44338182) - [Bill Atkinson: Polaroids Showing the Evolution of the Lisa GUI [video]](https://www.youtube.com/watch?v=Qg0mHFcB510)
 

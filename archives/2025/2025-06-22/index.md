@@ -45,6 +45,7 @@
 * [2025-06-22, 12:52:27](https://news.ycombinator.com/item?id=44346529) - [The Father of Modern Metal](https://nautil.us/the-father-of-modern-metal-235939/)
 * [2025-06-22, 12:43:42](https://news.ycombinator.com/item?id=44346450) - [Using an $8 smart outlet to avoid brainrot](https://www.neilchen.co/blog/kasa)
 * [2025-06-22, 11:52:27](https://news.ycombinator.com/item?id=44346120) - [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
+* [2025-06-22, 11:36:55](https://news.ycombinator.com/item?id=44346045) - [Was laid off from Microsoft after 23 years, and I'm still going into the office](https://www.businessinsider.com/show-up-microsoft-office-layoffs-23-year-career-2025-6)
 * [2025-06-22, 11:01:02](https://news.ycombinator.com/item?id=44345845) - [Battery-electric \"Infinity Train\" will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
 * [2025-06-22, 10:27:23](https://news.ycombinator.com/item?id=44345670) - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
 * [2025-06-22, 09:40:15](https://news.ycombinator.com/item?id=44345451) - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887)
