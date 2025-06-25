@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 15:00:00](https://news.ycombinator.com/item?id=44378127) - [Bot or Human? Creating the Invisible Turing Test for the Internet](https://research.roundtable.ai/proof-of-human/)
 * [2025-06-25, 14:22:44](https://news.ycombinator.com/item?id=44377666) - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 * [2025-06-25, 14:17:40](https://news.ycombinator.com/item?id=44377625) - [Framework Laptop 12 press reviews are live and Framework Laptop 13 in-stock](https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock)
 * [2025-06-25, 14:05:13](https://news.ycombinator.com/item?id=44377495) - [Is Lovable getting monetization wrong?](https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut)
