@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-06-25, 19:39:23",
-      "https://news.ycombinator.com/item?id=44381131"
-    ],
-    [
-      "A Classical RAM Design That Mimics Quantum Collapse and Entanglement\"",
-      "https://www.qsymbolic.com"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 19:36:55",
       "https://news.ycombinator.com/item?id=44381093"
     ],
@@ -87,6 +77,16 @@
     [
       "Coccinelle for Rust progress report",
       "https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 18:07:02",
+      "https://news.ycombinator.com/item?id=44380185"
+    ],
+    [
+      "Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
+      "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-06-23, 11:58:06",
+      "https://news.ycombinator.com/item?id=44354852"
+    ],
+    [
+      "Primitive Kolmogorov complexity is computable",
+      "https://lewish.io/posts/primitive-kolmogorov-complexity-is-computable"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 10:20:17",
       "https://news.ycombinator.com/item?id=44354141"
     ],
@@ -277,16 +287,6 @@
     [
       "LLM Hallucinations in Practical Code Generation",
       "https://dl.acm.org/doi/10.1145/3728894"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 04:36:13",
-      "https://news.ycombinator.com/item?id=44352476"
-    ],
-    [
-      "I built an app to backup Live Photos from iPhone to external hard drives",
-      "https://news.ycombinator.com/item?id=44352476"
     ]
   ],
   [
