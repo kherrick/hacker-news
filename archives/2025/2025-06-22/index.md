@@ -47,6 +47,7 @@
 * [2025-06-22, 11:52:27](https://news.ycombinator.com/item?id=44346120) - [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
 * [2025-06-22, 11:36:55](https://news.ycombinator.com/item?id=44346045) - [Was laid off from Microsoft after 23 years, and I'm still going into the office](https://www.businessinsider.com/show-up-microsoft-office-layoffs-23-year-career-2025-6)
 * [2025-06-22, 11:01:02](https://news.ycombinator.com/item?id=44345845) - [Battery-electric \"Infinity Train\" will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
+* [2025-06-22, 10:29:42](https://news.ycombinator.com/item?id=44345681) - [Writing a basic Linux device driver when you know nothing about Linux drivers](https://crescentro.se/posts/writing-drivers/)
 * [2025-06-22, 10:27:23](https://news.ycombinator.com/item?id=44345670) - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
 * [2025-06-22, 09:40:15](https://news.ycombinator.com/item?id=44345451) - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887)
 * [2025-06-22, 09:14:35](https://news.ycombinator.com/item?id=44345334) - [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
