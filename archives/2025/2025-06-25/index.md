@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 17:00:41](https://news.ycombinator.com/item?id=44379509) - [FurtherAI (YC W24) Is Hiring for Software and AI Roles](https://www.ycombinator.com/companies/furtherai/jobs)
+* [2025-06-25, 16:35:56](https://news.ycombinator.com/item?id=44379191) - [Interstellar Flight: Perspectives and Patience](https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/)
 * [2025-06-25, 16:21:45](https://news.ycombinator.com/item?id=44379034) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
 * [2025-06-25, 15:33:20](https://news.ycombinator.com/item?id=44378486) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
 * [2025-06-25, 15:29:42](https://news.ycombinator.com/item?id=44378444) - [Information has been permanently deleted, for small values of permanently](https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308)
