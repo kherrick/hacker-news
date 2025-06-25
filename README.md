@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-25, 22:51:12](https://news.ycombinator.com/item?id=44382519) - [Why AGI Is Impossible](https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790)
 * [2025-06-25, 20:08:26](https://news.ycombinator.com/item?id=44381358) - [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
 * [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 * [2025-06-25, 20:00:38](https://news.ycombinator.com/item?id=44381292) - [Building a Monostable Tetrahedron](https://arxiv.org/abs/2506.19244)
@@ -23,7 +24,6 @@
 * [2025-06-25, 14:05:13](https://news.ycombinator.com/item?id=44377495) - [Is Lovable getting monetization wrong?](https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut)
 * [2025-06-25, 13:17:25](https://news.ycombinator.com/item?id=44376989) - [OpenAI charges by the minute, so speed up your audio](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
-* [2025-06-25, 07:33:59](https://news.ycombinator.com/item?id=44374574) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-23, 12:41:34](https://news.ycombinator.com/item?id=44355198) - [Deep Research as a Swim Coach](https://suthakamal.substack.com/p/swimming-with-an-ai-coach)
 * [2025-06-23, 11:58:06](https://news.ycombinator.com/item?id=44354852) - [Primitive Kolmogorov complexity is computable](https://lewish.io/posts/primitive-kolmogorov-complexity-is-computable)

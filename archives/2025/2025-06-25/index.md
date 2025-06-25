@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 22:51:12](https://news.ycombinator.com/item?id=44382519) - [Why AGI Is Impossible](https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790)
 * [2025-06-25, 21:42:38](https://news.ycombinator.com/item?id=44382073) - [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
 * [2025-06-25, 20:08:26](https://news.ycombinator.com/item?id=44381358) - [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
 * [2025-06-25, 20:01:22](https://news.ycombinator.com/item?id=44381302) - [Broken by Design: Systemd](https://ewontfix.com/14/)
