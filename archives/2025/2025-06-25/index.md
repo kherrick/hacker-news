@@ -16,6 +16,8 @@
 * [2025-06-25, 19:41:22](https://news.ycombinator.com/item?id=44381157) - [How Swiss direct democracy works](https://www.swissinfo.ch/eng/swiss-democracy/how-swiss-direct-democracy-works/89073820)
 * [2025-06-25, 19:40:10](https://news.ycombinator.com/item?id=44381144) - [Games run faster on SteamOS than Windows 11, Ars testing finds](https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/)
 * [2025-06-25, 19:39:23](https://news.ycombinator.com/item?id=44381131) - [A Classical RAM Design That Mimics Quantum Collapse and Entanglement\"](https://www.qsymbolic.com)
+* [2025-06-25, 19:36:55](https://news.ycombinator.com/item?id=44381093) - [Libxml2's \"no security embargoes\" policy](https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/)
+* [2025-06-25, 19:36:50](https://news.ycombinator.com/item?id=44381091) - [Show HN: PLJS – JavaScript for Postgres](https://news.ycombinator.com/item?id=44381091)
 * [2025-06-25, 19:20:23](https://news.ycombinator.com/item?id=44380955) - [Coccinelle for Rust Progress Report](https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/)
 * [2025-06-25, 19:17:27](https://news.ycombinator.com/item?id=44380927) - [Newly Built San Francisco Condo Tower Lands on Fanny/Freddy Mortgage Blacklist](https://sfstandard.com/2025/06/24/san-francisco-condo-tower-lands-on-mortgage-blacklist/)
 * [2025-06-25, 19:10:47](https://news.ycombinator.com/item?id=44380872) - [Tomatoes in the Galápagos are quietly de-evolving](https://phys.org/news/2025-06-tomatoes-galpagos-quietly-de-evolving.html)
