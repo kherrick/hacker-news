@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-25, 19:48:14",
-      "https://news.ycombinator.com/item?id=44381204"
+      "2025-06-25, 20:01:07",
+      "https://news.ycombinator.com/item?id=44381297"
     ],
     [
-      "Federal judge rules copyrighted books are fair use for AI training",
-      "https://www.nbcnews.com/tech/tech-news/federal-judge-rules-copyrighted-books-are-fair-use-ai-training-rcna214766"
+      "A New Pyramid-Like Shape Always Lands the Same Side Up",
+      "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 19:53:13",
+      "https://news.ycombinator.com/item?id=44381252"
+    ],
+    [
+      "Negative Two-Thousand Lines of Code",
+      "https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt"
     ]
   ],
   [
@@ -21,12 +31,32 @@
   ],
   [
     [
-      "2025-06-25, 19:41:22",
-      "https://news.ycombinator.com/item?id=44381157"
+      "2025-06-25, 19:42:57",
+      "https://news.ycombinator.com/item?id=44381168"
     ],
     [
-      "How Swiss direct democracy works",
-      "https://www.swissinfo.ch/eng/swiss-democracy/how-swiss-direct-democracy-works/89073820"
+      "The Offline Club",
+      "https://www.theoffline-club.com"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 19:39:23",
+      "https://news.ycombinator.com/item?id=44381131"
+    ],
+    [
+      "A Classical RAM Design That Mimics Quantum Collapse and Entanglement\"",
+      "https://www.qsymbolic.com"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 19:20:23",
+      "https://news.ycombinator.com/item?id=44380955"
+    ],
+    [
+      "Coccinelle for Rust Progress Report",
+      "https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2025-06-25, 12:09:39",
-      "https://news.ycombinator.com/item?id=44376353"
-    ],
-    [
-      "Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC",
-      "https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 10:49:56",
-      "https://news.ycombinator.com/item?id=44375761"
-    ],
-    [
-      "Show HN: Scream to Unlock – Blocks social media until you scream “I'm a loser”",
-      "https://news.ycombinator.com/item?id=44375761"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 07:33:59",
       "https://news.ycombinator.com/item?id=44374574"
     ],
@@ -287,16 +297,6 @@
     [
       "Writing a basic Linux device driver when you know nothing about Linux drivers",
       "https://crescentro.se/posts/writing-drivers/"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 15:13:00",
-      "https://news.ycombinator.com/item?id=44338182"
-    ],
-    [
-      "Bill Atkinson: Polaroids Showing the Evolution of the Lisa GUI [video]",
-      "https://www.youtube.com/watch?v=Qg0mHFcB510"
     ]
   ]
 ]
