@@ -19,6 +19,7 @@
 * [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358668) - [2025 Iberia Blackout Report](https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28)
 * [2025-06-23, 18:18:11](https://news.ycombinator.com/item?id=44358524) - [Judge denies creating \"mass surveillance program\" harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
 * [2025-06-23, 18:02:33](https://news.ycombinator.com/item?id=44358390) - [PicoGUS gets CD-ROM emulation](https://github.com/polpo/picogus/releases/tag/v3.0.0)
+* [2025-06-23, 17:38:08](https://news.ycombinator.com/item?id=44358148) - [Ambient Garden](https://ambient.garden)
 * [2025-06-23, 17:04:43](https://news.ycombinator.com/item?id=44357779) - [Officials Concede They Don't Know the Fate of Iran's Uranium Stockpile](https://www.nytimes.com/2025/06/22/us/politics/iran-uranium-stockpile-whereabouts.html)
 * [2025-06-23, 16:27:25](https://news.ycombinator.com/item?id=44357411) - [uv: An extremely fast Python package and project manager, written in Rust](https://github.com/astral-sh/uv)
 * [2025-06-23, 16:25:48](https://news.ycombinator.com/item?id=44357391) - [Show HN: Weather Watching](https://walzr.com/weather-watching)
