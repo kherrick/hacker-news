@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-25, 04:59:50",
-      "https://news.ycombinator.com/item?id=44373754"
-    ],
-    [
-      "Gemini CLI: your open-source AI agent",
-      "https://blog.google/technology/developers/introducing-gemini-cli/"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 03:59:18",
       "https://news.ycombinator.com/item?id=44373524"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44373504"
     ],
     [
-      "PNG Is Back",
+      "PNG is back",
       "https://www.programmax.net/articles/png-is-back/"
     ]
   ],
@@ -37,6 +27,16 @@
     [
       "PicoEMP: low-cost Electromagnetic Fault Injection (EMFI) tool",
       "https://github.com/newaetech/chipshouter-picoemp"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 02:46:38",
+      "https://news.ycombinator.com/item?id=44373222"
+    ],
+    [
+      "Few Americans pay for news when they encounter paywalls",
+      "https://www.pewresearch.org/short-reads/2025/06/24/few-americans-pay-for-news-when-they-encounter-paywalls/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust",
       "https://github.com/microsoft/edit"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 23:26:19",
-      "https://news.ycombinator.com/item?id=44372162"
-    ],
-    [
-      "Mid-sized cities outperform major metros at turning economic growth into patents",
-      "https://www.governance.fyi/p/booms-not-busts-drives-innovation"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2025-06-23, 06:39:20",
-      "https://news.ycombinator.com/item?id=44353055"
+      "2025-06-23, 07:45:07",
+      "https://news.ycombinator.com/item?id=44353383"
     ],
     [
-      "Timdle – Place historical events in chronological order",
-      "https://www.timdle.com/"
+      "Thoughts on Asunción, Paraguay",
+      "https://cpsi.media/p/thoughts-on-asuncion-paraguay"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Mapping LLMs over excel saved my passion for game dev",
       "https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 16:30:40",
+      "https://news.ycombinator.com/item?id=44338793"
+    ],
+    [
+      "MCP is eating the world",
+      "https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay"
     ]
   ]
 ]
