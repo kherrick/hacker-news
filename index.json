@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-06-25, 15:33:20",
+      "https://news.ycombinator.com/item?id=44378486"
+    ],
+    [
+      "Web Embeddable Common Lisp",
+      "https://turtleware.eu/static/paste/wecl-test-gl/main.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 15:29:42",
+      "https://news.ycombinator.com/item?id=44378444"
+    ],
+    [
+      "Information has been permanently deleted, for small values of permanently",
+      "https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 15:12:35",
       "https://news.ycombinator.com/item?id=44378271"
     ],
     [
       "Ask HN: Anyone Using Augmented Reality, VR, Glasses, Helmets etc. in Industry?",
       "https://news.ycombinator.com/item?id=44378271"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 15:10:52",
+      "https://news.ycombinator.com/item?id=44378254"
+    ],
+    [
+      "Show HN: Elelem, a tool-calling CLI for Ollama and DeepSeek in C",
+      "https://codeberg.org/politebot/elelem"
     ]
   ],
   [
@@ -51,6 +81,16 @@
   ],
   [
     [
+      "2025-06-25, 13:43:59",
+      "https://news.ycombinator.com/item?id=44377274"
+    ],
+    [
+      "Deep Down the Rabbit Hole: Bash, OverlayFS, and a 30-Year-Old Surprise",
+      "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 13:29:32",
       "https://news.ycombinator.com/item?id=44377104"
     ],
@@ -77,16 +117,6 @@
     [
       "Brit politicians question Fujitsu's continued role in public sector contracts",
       "https://www.theregister.com/2025/06/25/fujitsu_public_sector_contracts/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 13:11:15",
-      "https://news.ycombinator.com/item?id=44376928"
-    ],
-    [
-      "Second study finds Uber used opaque algorithm to dramatically boost profits",
-      "https://www.theguardian.com/technology/2025/jun/25/second-study-finds-uber-used-opaque-algorithm-to-dramatically-boost-profits"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-06-25, 00:28:12",
-      "https://news.ycombinator.com/item?id=44372528"
-    ],
-    [
-      "Managing time when time doesn't exist",
-      "https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 00:13:27",
       "https://news.ycombinator.com/item?id=44372424"
     ],
@@ -187,26 +207,6 @@
     [
       "Microsoft Edit",
       "https://github.com/microsoft/edit"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 18:58:32",
-      "https://news.ycombinator.com/item?id=44369646"
-    ],
-    [
-      "Ancient X11 scaling technology",
-      "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 18:58:11",
-      "https://news.ycombinator.com/item?id=44369642"
-    ],
-    [
-      "Subsecond: A runtime hotpatching engine for Rust hot-reloading",
-      "https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html"
     ]
   ],
   [
