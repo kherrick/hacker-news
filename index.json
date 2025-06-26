@@ -1,12 +1,52 @@
 [
   [
     [
-      "2025-06-26, 19:47:18",
-      "https://news.ycombinator.com/item?id=44390628"
+      "2025-06-26, 20:01:28",
+      "https://news.ycombinator.com/item?id=44390740"
     ],
     [
-      "Philadelphia Transit System Votes to Cut Service by 45%, Hike Fares",
-      "https://www.bloomberg.com/news/articles/2025-06-26/philly-transit-system-votes-to-cut-service-by-45-hike-fares"
+      "Matrix v1.15 Release",
+      "https://matrix.org/blog/2025/06/26/matrix-v1.15-release/"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 19:54:08",
+      "https://news.ycombinator.com/item?id=44390668"
+    ],
+    [
+      "Apple announces sweeping App Store changes in the EU",
+      "https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 19:41:35",
+      "https://news.ycombinator.com/item?id=44390576"
+    ],
+    [
+      "AI Is Dehumanization Technology",
+      "https://thedabbler.patatas.ca/pages/ai-is-dehumanization-technology.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 19:36:11",
+      "https://news.ycombinator.com/item?id=44390527"
+    ],
+    [
+      "Memory Safety Is Merely Table Stakes",
+      "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 19:29:32",
+      "https://news.ycombinator.com/item?id=44390488"
+    ],
+    [
+      "\"Why is the Rust compiler so slow?\"",
+      "https://sharnoff.io/blog/why-rust-compiler-slow"
     ]
   ],
   [
@@ -37,6 +77,16 @@
     [
       "Lateralized sleeping positions in domestic cats",
       "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 18:30:56",
+      "https://news.ycombinator.com/item?id=44390005"
+    ],
+    [
+      "Show HN: Magnitude – open-source AI browser automation framework",
+      "https://github.com/magnitudedev/magnitude"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2025-06-26, 14:05:44",
-      "https://news.ycombinator.com/item?id=44387563"
-    ],
-    [
-      "I built an ADHD app with interactive coping tools, noise mixer and self-test",
-      "https://www.adhdhelp.app/en"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 12:45:04",
       "https://news.ycombinator.com/item?id=44386887"
     ],
@@ -157,16 +197,6 @@
     [
       "Snow - Classic Macintosh emulator",
       "https://snowemu.com/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 06:07:49",
-      "https://news.ycombinator.com/item?id=44384610"
-    ],
-    [
-      "LLM code generation may lead to an erosion of trust",
-      "https://jaysthoughts.com/aithoughts1"
     ]
   ],
   [
@@ -207,26 +237,6 @@
     [
       "Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
       "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 17:08:44",
-      "https://news.ycombinator.com/item?id=44379606"
-    ],
-    [
-      "What Problems to Solve (1966)",
-      "http://genius.cat-v.org/richard-feynman/writtings/letters/problems"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 13:17:25",
-      "https://news.ycombinator.com/item?id=44376989"
-    ],
-    [
-      "OpenAI charges by the minute, so speed up your audio",
-      "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Tiny orange beads found by Apollo astronauts reveal Moon's explosive past",
       "https://www.sciencedaily.com/releases/2025/06/250616040233.htm"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 17:01:10",
-      "https://news.ycombinator.com/item?id=44348415"
-    ],
-    [
-      "Structured Output with LangChain and Llamafile",
-      "https://blog.brakmic.com/structured-output-with-langchain-and-llamafile/"
     ]
   ],
   [
