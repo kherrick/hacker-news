@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 19:47:18](https://news.ycombinator.com/item?id=44390628) - [Philadelphia Transit System Votes to Cut Service by 45%, Hike Fares](https://www.bloomberg.com/news/articles/2025-06-26/philly-transit-system-votes-to-cut-service-by-45-hike-fares)
+* [2025-06-26, 19:23:40](https://news.ycombinator.com/item?id=44390454) - [US economy shrank 0.5% in the first quarter, worse than earlier estimates](https://apnews.com/article/economy-tariffs-trump-gdp-shrink-86d1f15e66c646ac4ce88ffc0a956942)
 * [2025-06-26, 18:43:37](https://news.ycombinator.com/item?id=44390113) - [SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones)
 * [2025-06-26, 18:38:47](https://news.ycombinator.com/item?id=44390072) - [Lateralized sleeping positions in domestic cats](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue)
 * [2025-06-26, 17:36:04](https://news.ycombinator.com/item?id=44389497) - [Shifts in diatom and dinoflagellate biomass in the North Atlantic over 6 decades](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323675)

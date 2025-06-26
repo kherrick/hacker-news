@@ -59,6 +59,7 @@
 * [2025-06-23, 10:02:10](https://news.ycombinator.com/item?id=44354032) - [Modeling the World in 280 Characters](https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/)
 * [2025-06-23, 09:10:00](https://news.ycombinator.com/item?id=44353775) - [EU rules for durable, energy-efficient and repairable smartphones and tablets](https://single-market-economy.ec.europa.eu/news/new-eu-rules-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying-2025-06-20_en)
 * [2025-06-23, 09:07:29](https://news.ycombinator.com/item?id=44353760) - [Real-world performance comparison of ebtree/cebtree/rbtree](http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html)
+* [2025-06-23, 08:27:03](https://news.ycombinator.com/item?id=44353576) - [Typr – TUI typing test with a word selection algorithm inspired by keybr](https://github.com/Sakura-sx/typr)
 * [2025-06-23, 08:07:26](https://news.ycombinator.com/item?id=44353490) - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 * [2025-06-23, 07:52:45](https://news.ycombinator.com/item?id=44353422) - [The role of the University is to resist AI](https://danmcquillan.org/cpct_seminar.html)
 * [2025-06-23, 07:50:29](https://news.ycombinator.com/item?id=44353408) - [OpenAI and Jony Ive's \"io\" brand has disappeared](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
