@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 23:04:30](https://news.ycombinator.com/item?id=44392304) - [Save your disk, write files directly into RAM with /dev/shm](https://hiandrewquinn.github.io/til-site/posts/save-your-disk-write-files-directly-into-ram-with-dev-shm/)
 * [2025-06-26, 21:35:58](https://news.ycombinator.com/item?id=44391711) - [Senators reintroduce App Store bill to rein in 'gatekeeper power'](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)
 * [2025-06-26, 20:54:02](https://news.ycombinator.com/item?id=44391247) - [A.I. Is Homogenizing Our Thoughts](https://www.newyorker.com/culture/infinite-scroll/ai-is-homogenizing-our-thoughts)
 * [2025-06-26, 20:26:33](https://news.ycombinator.com/item?id=44390962) - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
