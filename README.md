@@ -24,7 +24,7 @@
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-23, 22:03:29](https://news.ycombinator.com/item?id=44360651) - [Getting by on the Generosity of Strangers in Japan](https://theworld.org/stories/2025/06/20/out-of-eden-walk-getting-by-on-the-generosity-of-strangers)
-* [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358667) - [Howdy – Windows Hello style facial authentication for Linux](https://github.com/boltgolt/howdy)
+* [2025-06-23, 21:01:57](https://news.ycombinator.com/item?id=44360038) - ['Sticky thinking' hampers decisions in depression](https://www.bps.org.uk/research-digest/sticky-thinking-hampers-decisions-depression)
 * [2025-06-23, 17:38:08](https://news.ycombinator.com/item?id=44358148) - [Ambient Garden](https://ambient.garden)
 * [2025-06-23, 15:45:39](https://news.ycombinator.com/item?id=44356938) - [GIF export in Snipping Tool begins rolling out to Windows Insiders](https://blogs.windows.com/windows-insider/2025/06/19/gif-export-in-snipping-tool-begins-rolling-out-to-windows-insiders/)
 * [2025-06-23, 10:02:10](https://news.ycombinator.com/item?id=44354032) - [Modeling the World in 280 Characters](https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/)
