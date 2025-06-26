@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-06-25, 23:26:55",
-      "https://news.ycombinator.com/item?id=44382752"
-    ],
-    [
-      "Define policy forbidding use of AI code generators",
-      "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 20:01:07",
       "https://news.ycombinator.com/item?id=44381297"
     ],
@@ -217,6 +207,16 @@
     [
       "OpenAI charges by the minute, so speed up your audio",
       "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 06:15:11",
+      "https://news.ycombinator.com/item?id=44374114"
+    ],
+    [
+      "Some bits on malloc(0) in C being allowed to return NULL",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/CZeroSizeMallocSomeNotes"
     ]
   ],
   [
