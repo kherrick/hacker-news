@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-26, 07:00:43](https://news.ycombinator.com/item?id=44384913) - [AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus)
+* [2025-06-26, 06:07:49](https://news.ycombinator.com/item?id=44384610) - [LLM code generation may lead to an erosion of trust](https://jaysthoughts.com/aithoughts1)
 * [2025-06-26, 02:41:34](https://news.ycombinator.com/item?id=44383779) - [Games That Weren't: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
 * [2025-06-25, 23:41:16](https://news.ycombinator.com/item?id=44382834) - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 * [2025-06-25, 23:26:55](https://news.ycombinator.com/item?id=44382752) - [Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
@@ -28,7 +29,6 @@
 * [2025-06-23, 10:02:10](https://news.ycombinator.com/item?id=44354032) - [Modeling the World in 280 Characters](https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/)
 * [2025-06-23, 06:46:33](https://news.ycombinator.com/item?id=44353098) - [RaptorCast: Designing a Messaging Layer](https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer)
 * [2025-06-22, 22:00:00](https://news.ycombinator.com/item?id=44350655) - [The Art of Hanakami, or Flower-Petal Folding](https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding)
-* [2025-06-22, 14:53:59](https://news.ycombinator.com/item?id=44347399) - [Earths largest camera:3B pixel images](https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html)
 * [2025-06-22, 10:29:42](https://news.ycombinator.com/item?id=44345681) - [Writing a basic Linux device driver when you know nothing about Linux drivers](https://crescentro.se/posts/writing-drivers/)
 
 ## [Archives](archives/index.md)
