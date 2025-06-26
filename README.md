@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-26, 21:35:58](https://news.ycombinator.com/item?id=44391711) - [Senators reintroduce App Store bill to rein in 'gatekeeper power'](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)
 * [2025-06-26, 20:26:33](https://news.ycombinator.com/item?id=44390962) - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
 * [2025-06-26, 20:22:54](https://news.ycombinator.com/item?id=44390915) - [Robots that learn](https://openai.com/index/robots-that-learn/)
 * [2025-06-26, 20:06:28](https://news.ycombinator.com/item?id=44390781) - [Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+](https://angadh.com/space-data-centers-1)
@@ -29,7 +30,6 @@
 * [2025-06-23, 13:04:26](https://news.ycombinator.com/item?id=44355409) - [The Business of Betting on Catastrophe](https://thereader.mitpress.mit.edu/the-business-of-betting-on-catastrophe/)
 * [2025-06-23, 08:27:03](https://news.ycombinator.com/item?id=44353576) - [Typr – TUI typing test with a word selection algorithm inspired by keybr](https://github.com/Sakura-sx/typr)
 * [2025-06-23, 06:26:19](https://news.ycombinator.com/item?id=44352990) - [Low Overhead Allocation Sampling in a Garbage Collected Virtual Machine](https://arxiv.org/abs/2506.16883)
-* [2025-06-22, 10:29:42](https://news.ycombinator.com/item?id=44345681) - [Writing a basic Linux device driver when you know nothing about Linux drivers](https://crescentro.se/posts/writing-drivers/)
 
 ## [Archives](archives/index.md)
 
