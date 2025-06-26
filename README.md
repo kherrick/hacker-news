@@ -2,6 +2,7 @@
 
 * [2025-06-26, 09:45:21](https://news.ycombinator.com/item?id=44385742) - [Apptainer: Application Containers for Linux](https://apptainer.org/)
 * [2025-06-26, 09:16:53](https://news.ycombinator.com/item?id=44385612) - [The first non-opoid painkiller](https://www.worksinprogress.news/p/the-first-non-opioid-painkiller)
+* [2025-06-26, 09:08:00](https://news.ycombinator.com/item?id=44385562) - [A brand new 68k Mac emulator dropped last night](https://oldbytes.space/@smallsco/114747196289375530)
 * [2025-06-26, 07:00:43](https://news.ycombinator.com/item?id=44384913) - [AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus)
 * [2025-06-26, 06:07:49](https://news.ycombinator.com/item?id=44384610) - [LLM code generation may lead to an erosion of trust](https://jaysthoughts.com/aithoughts1)
 * [2025-06-26, 02:41:34](https://news.ycombinator.com/item?id=44383779) - [Games That Weren't: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
@@ -18,7 +19,6 @@
 * [2025-06-25, 17:08:44](https://news.ycombinator.com/item?id=44379606) - [What Problems to Solve (1966)](http://genius.cat-v.org/richard-feynman/writtings/letters/problems)
 * [2025-06-25, 16:34:51](https://news.ycombinator.com/item?id=44379173) - [Iroh: A library to establish direct connection between peers](https://github.com/n0-computer/iroh)
 * [2025-06-25, 16:21:45](https://news.ycombinator.com/item?id=44379034) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
-* [2025-06-25, 15:33:20](https://news.ycombinator.com/item?id=44378486) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
 * [2025-06-25, 13:17:25](https://news.ycombinator.com/item?id=44376989) - [OpenAI charges by the minute, so speed up your audio](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
