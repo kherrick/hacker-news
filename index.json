@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-26, 20:22:54",
+      "https://news.ycombinator.com/item?id=44390915"
+    ],
+    [
+      "Robots That Learn – OpenAI",
+      "https://openai.com/index/robots-that-learn/"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 20:06:28",
+      "https://news.ycombinator.com/item?id=44390781"
+    ],
+    [
+      "Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+",
+      "https://angadh.com/space-data-centers-1"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 20:01:28",
       "https://news.ycombinator.com/item?id=44390740"
     ],
@@ -57,6 +77,16 @@
     [
       "US economy shrank 0.5% in the first quarter, worse than earlier estimates",
       "https://apnews.com/article/economy-tariffs-trump-gdp-shrink-86d1f15e66c646ac4ce88ffc0a956942"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 19:23:28",
+      "https://news.ycombinator.com/item?id=44390452"
+    ],
+    [
+      "The time is right for a DOM templating API",
+      "https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-06-26, 09:08:00",
-      "https://news.ycombinator.com/item?id=44385562"
-    ],
-    [
-      "Snow - Classic Macintosh emulator",
-      "https://snowemu.com/"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 23:41:16",
       "https://news.ycombinator.com/item?id=44382834"
     ],
@@ -227,16 +247,6 @@
     [
       "-2000 Lines of code",
       "https://www.folklore.org/Negative_2000_Lines_Of_Code.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 18:07:02",
-      "https://news.ycombinator.com/item?id=44380185"
-    ],
-    [
-      "Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
-      "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Tiny orange beads found by Apollo astronauts reveal Moon's explosive past",
       "https://www.sciencedaily.com/releases/2025/06/250616040233.htm"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 10:29:42",
-      "https://news.ycombinator.com/item?id=44345681"
-    ],
-    [
-      "Writing a basic Linux device driver when you know nothing about Linux drivers",
-      "https://crescentro.se/posts/writing-drivers/"
     ]
   ]
 ]
