@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-26, 09:16:53",
+      "https://news.ycombinator.com/item?id=44385612"
+    ],
+    [
+      "The first non-opoid painkiller",
+      "https://www.worksinprogress.news/p/the-first-non-opioid-painkiller"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 07:00:43",
       "https://news.ycombinator.com/item?id=44384913"
     ],
@@ -47,16 +57,6 @@
     [
       "Define policy forbidding use of AI code generators",
       "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 20:08:26",
-      "https://news.ycombinator.com/item?id=44381358"
-    ],
-    [
-      "Microsoft Dependency Has Risks",
-      "https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-06-23, 11:34:26",
-      "https://news.ycombinator.com/item?id=44354643"
-    ],
-    [
-      "Build a Sentence-Level Text-to-Speech Reader in JavaScript",
-      "https://jsdev.space/tts-sentence-reader/"
-    ]
-  ],
-  [
-    [
       "2025-06-23, 10:02:10",
       "https://news.ycombinator.com/item?id=44354032"
     ],
@@ -287,6 +277,16 @@
     [
       "The Art of Hanakami, or Flower-Petal Folding",
       "https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding"
+    ]
+  ],
+  [
+    [
+      "2025-06-22, 17:01:10",
+      "https://news.ycombinator.com/item?id=44348415"
+    ],
+    [
+      "Structured Output with LangChain and Llamafile",
+      "https://blog.brakmic.com/structured-output-with-langchain-and-llamafile/"
     ]
   ],
   [
