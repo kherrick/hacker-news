@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-26, 06:07:49](https://news.ycombinator.com/item?id=44384610) - [Yes, I will judge you for using AI](https://jaysthoughts.com/aithoughts1)
+* [2025-06-26, 02:41:34](https://news.ycombinator.com/item?id=44383779) - [Games That Weren't: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
 * [2025-06-25, 23:41:16](https://news.ycombinator.com/item?id=44382834) - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 * [2025-06-25, 23:26:55](https://news.ycombinator.com/item?id=44382752) - [Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 * [2025-06-25, 22:59:23](https://news.ycombinator.com/item?id=44382582) - [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
@@ -8,7 +10,6 @@
 * [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 * [2025-06-25, 19:53:13](https://news.ycombinator.com/item?id=44381252) - [-2000 Lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
 * [2025-06-25, 19:42:57](https://news.ycombinator.com/item?id=44381168) - [The Offline Club](https://www.theoffline-club.com)
-* [2025-06-25, 19:40:10](https://news.ycombinator.com/item?id=44381144) - [Games run faster on SteamOS than Windows 11, Ars testing finds](https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/)
 * [2025-06-25, 19:36:55](https://news.ycombinator.com/item?id=44381093) - [Libxml2's \"no security embargoes\" policy](https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/)
 * [2025-06-25, 18:07:02](https://news.ycombinator.com/item?id=44380185) - [Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC](https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/)
 * [2025-06-25, 17:27:35](https://news.ycombinator.com/item?id=44379792) - [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
@@ -20,7 +21,6 @@
 * [2025-06-25, 16:34:51](https://news.ycombinator.com/item?id=44379173) - [Iroh: A library to establish direct connection between peers](https://github.com/n0-computer/iroh)
 * [2025-06-25, 16:21:45](https://news.ycombinator.com/item?id=44379034) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
 * [2025-06-25, 15:33:20](https://news.ycombinator.com/item?id=44378486) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
-* [2025-06-25, 15:00:00](https://news.ycombinator.com/item?id=44378127) - [Bot or human? Creating an invisible Turing test for the internet](https://research.roundtable.ai/proof-of-human/)
 * [2025-06-25, 13:17:25](https://news.ycombinator.com/item?id=44376989) - [OpenAI charges by the minute, so speed up your audio](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
