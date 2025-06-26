@@ -40,6 +40,7 @@
 * [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The Cultural Decline of Literary Fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 * [2025-06-22, 15:02:23](https://news.ycombinator.com/item?id=44347464) - [Playing First Contact in Eclipse, a 3-Day Sci-Fi Larp](https://mssv.net/2025/06/15/playing-first-contact-in-eclipse-a-spectacular-3-day-sci-fi-larp/)
 * [2025-06-22, 14:56:44](https://news.ycombinator.com/item?id=44347425) - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
+* [2025-06-22, 14:53:59](https://news.ycombinator.com/item?id=44347399) - [Earths largest camera:3B pixel images](https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html)
 * [2025-06-22, 14:39:55](https://news.ycombinator.com/item?id=44347294) - [Canal Boat Simulator](https://jacobfilipp.com/boat/)
 * [2025-06-22, 13:15:13](https://news.ycombinator.com/item?id=44346692) - [Japan Adventures: A Designer's Perspective](https://www.tombihn.com/blogs/main/tokyo-adventures-a-designers-perspective)
 * [2025-06-22, 12:52:27](https://news.ycombinator.com/item?id=44346529) - [The Father of Modern Metal](https://nautil.us/the-father-of-modern-metal-235939/)

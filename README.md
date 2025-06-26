@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-25, 23:41:16](https://news.ycombinator.com/item?id=44382834) - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 * [2025-06-25, 23:26:55](https://news.ycombinator.com/item?id=44382752) - [QEMU: Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 * [2025-06-25, 22:59:23](https://news.ycombinator.com/item?id=44382582) - [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
 * [2025-06-25, 22:31:58](https://news.ycombinator.com/item?id=44382367) - [IBM's Dmitry Krotov wants to crack the 'physics' of memory](https://research.ibm.com/blog/dmitry-krotov-ai-physics)
@@ -26,9 +27,8 @@
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-23, 17:38:08](https://news.ycombinator.com/item?id=44358148) - [Ambient Garden](https://ambient.garden)
-* [2025-06-23, 12:41:34](https://news.ycombinator.com/item?id=44355198) - [Deep Research as a Swim Coach](https://suthakamal.substack.com/p/swimming-with-an-ai-coach)
-* [2025-06-23, 11:58:06](https://news.ycombinator.com/item?id=44354852) - [Primitive Kolmogorov complexity is computable](https://lewish.io/posts/primitive-kolmogorov-complexity-is-computable)
 * [2025-06-23, 07:14:09](https://news.ycombinator.com/item?id=44353241) - [LLM Hallucinations in Practical Code Generation](https://dl.acm.org/doi/10.1145/3728894)
+* [2025-06-22, 14:53:59](https://news.ycombinator.com/item?id=44347399) - [Earths largest camera:3B pixel images](https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html)
 * [2025-06-22, 10:29:42](https://news.ycombinator.com/item?id=44345681) - [Writing a basic Linux device driver when you know nothing about Linux drivers](https://crescentro.se/posts/writing-drivers/)
 
 ## [Archives](archives/index.md)

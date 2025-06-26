@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 23:41:16](https://news.ycombinator.com/item?id=44382834) - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 * [2025-06-25, 23:26:55](https://news.ycombinator.com/item?id=44382752) - [QEMU: Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 * [2025-06-25, 22:59:23](https://news.ycombinator.com/item?id=44382582) - [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
 * [2025-06-25, 22:51:12](https://news.ycombinator.com/item?id=44382519) - [Why AGI Is Impossible](https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790)
