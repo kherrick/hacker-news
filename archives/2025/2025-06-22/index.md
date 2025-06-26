@@ -10,6 +10,7 @@
 * [2025-06-22, 22:56:30](https://news.ycombinator.com/item?id=44350982) - [Founding engineers wanted. hard problems. long hours. wealth and honor on success](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24)
 * [2025-06-22, 22:55:58](https://news.ycombinator.com/item?id=44350978) - [Hawaii Highways](http://www.hawaiihighways.com/)
 * [2025-06-22, 22:16:58](https://news.ycombinator.com/item?id=44350760) - [Air India crash points to systemic problems at Boeing that CEO Ortberg must fix](https://leehamnews.com/2025/06/15/five-for-five-air-india-crash-points-to-systemic-problems-at-boeing-ceo-ortberg-must-fix/)
+* [2025-06-22, 22:09:36](https://news.ycombinator.com/item?id=44350717) - [Tiny orange beads found by Apollo astronauts reveal Moon's explosive past](https://www.sciencedaily.com/releases/2025/06/250616040233.htm)
 * [2025-06-22, 22:00:00](https://news.ycombinator.com/item?id=44350655) - [The Art of Hanakami, or Flower-Petal Folding](https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding)
 * [2025-06-22, 21:50:27](https://news.ycombinator.com/item?id=44350597) - [Children in England growing up 'sedentary, scrolling and alone', say experts](https://www.theguardian.com/society/2025/jun/11/children-sedentary-scrolling-alone-lack-of-play-england)
 * [2025-06-22, 21:36:06](https://news.ycombinator.com/item?id=44350495) - [Edward Burra's tour of the 20th century](https://www.newstatesman.com/culture/2025/06/the-english-painters-relish-for-subcultures-took-him-across-genres-and-continents)
