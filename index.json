@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44382752"
     ],
     [
-      "QEMU: Define policy forbidding use of AI code generators",
+      "Define policy forbidding use of AI code generators",
       "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
     ]
   ],
@@ -31,22 +31,22 @@
   ],
   [
     [
-      "2025-06-25, 22:31:58",
-      "https://news.ycombinator.com/item?id=44382367"
-    ],
-    [
-      "IBM's Dmitry Krotov wants to crack the 'physics' of memory",
-      "https://research.ibm.com/blog/dmitry-krotov-ai-physics"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 21:42:38",
       "https://news.ycombinator.com/item?id=44382073"
     ],
     [
       "CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey",
       "https://karimsayedre.github.io/RTIOW.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 20:08:26",
+      "https://news.ycombinator.com/item?id=44381358"
+    ],
+    [
+      "Microsoft Dependency Has Risks",
+      "https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Libxml2's \"no security embargoes\" policy",
       "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 18:07:02",
+      "https://news.ycombinator.com/item?id=44380185"
+    ],
+    [
+      "Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
+      "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-06-25, 14:05:13",
-      "https://news.ycombinator.com/item?id=44377495"
-    ],
-    [
-      "Is Lovable getting monetization wrong?",
-      "https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 13:17:25",
       "https://news.ycombinator.com/item?id=44376989"
     ],
@@ -227,6 +227,16 @@
     [
       "Gemini CLI",
       "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 10:35:58",
+      "https://news.ycombinator.com/item?id=44375696"
+    ],
+    [
+      "Experience Making a 1-minute AI movie with my 7-year old daughter",
+      "https://drsandor.net/ai/minecraft/"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-06-23, 07:14:09",
-      "https://news.ycombinator.com/item?id=44353241"
+      "2025-06-23, 12:16:30",
+      "https://news.ycombinator.com/item?id=44355003"
     ],
     [
-      "LLM Hallucinations in Practical Code Generation",
-      "https://dl.acm.org/doi/10.1145/3728894"
+      "Introduction to error handling strategies in Go",
+      "https://go-monk.beehiiv.com/p/error-handling"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The Art of Hanakami, or Flower-Petal Folding",
       "https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 21:36:06",
-      "https://news.ycombinator.com/item?id=44350495"
-    ],
-    [
-      "Edward Burra's tour of the 20th century",
-      "https://www.newstatesman.com/culture/2025/06/the-english-painters-relish-for-subcultures-took-him-across-genres-and-continents"
     ]
   ],
   [
