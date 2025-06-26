@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 14:32:28](https://news.ycombinator.com/item?id=44387828) - [Launch HN: Issen (YC F24) – personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
 * [2025-06-26, 13:41:57](https://news.ycombinator.com/item?id=44387321) - [AI Improves at Improving Itself Using an Evolutionary Trick](https://spectrum.ieee.org/evolutionary-ai)
 * [2025-06-26, 12:45:04](https://news.ycombinator.com/item?id=44386887) - [Learnings from Building AI Agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
 * [2025-06-26, 12:11:52](https://news.ycombinator.com/item?id=44386637) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
+* [2025-06-26, 11:29:55](https://news.ycombinator.com/item?id=44386328) - [CC Signals: A New Social Contract for the Age of AI](https://creativecommons.org/2025/06/25/introducing-cc-signals-a-new-social-contract-for-the-age-of-ai/)
 * [2025-06-26, 11:01:18](https://news.ycombinator.com/item?id=44386149) - [Mixed DPI in X11](https://wok.oblomov.eu/tecnologia/mixed-dpi-x11/)
 * [2025-06-26, 11:01:12](https://news.ycombinator.com/item?id=44386148) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
 * [2025-06-26, 10:29:34](https://news.ycombinator.com/item?id=44385981) - [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
