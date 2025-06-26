@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-06-26, 11:01:18",
-      "https://news.ycombinator.com/item?id=44386149"
-    ],
-    [
-      "Mixed DPI in X11",
-      "https://wok.oblomov.eu/tecnologia/mixed-dpi-x11/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 11:01:12",
-      "https://news.ycombinator.com/item?id=44386148"
-    ],
-    [
-      "Ticket-Driven Development: The Fastest Way to Go Nowhere",
-      "https://thecynical.dev/posts/ticket-driven-development/"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 09:45:21",
       "https://news.ycombinator.com/item?id=44385742"
     ],
@@ -45,8 +25,8 @@
       "https://news.ycombinator.com/item?id=44385562"
     ],
     [
-      "A brand new 68k Mac emulator dropped last night",
-      "https://oldbytes.space/@smallsco/114747196289375530"
+      "Snow - Classic Macintosh emulator",
+      "https://snowemu.com/"
     ]
   ],
   [
@@ -67,16 +47,6 @@
     [
       "LLM code generation may lead to an erosion of trust",
       "https://jaysthoughts.com/aithoughts1"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 02:41:34",
-      "https://news.ycombinator.com/item?id=44383779"
-    ],
-    [
-      "Games That Weren't: Preserving Cancelled and Unreleased Video Game History",
-      "https://www.gamesthatwerent.com/"
     ]
   ],
   [
@@ -131,16 +101,6 @@
   ],
   [
     [
-      "2025-06-25, 19:36:55",
-      "https://news.ycombinator.com/item?id=44381093"
-    ],
-    [
-      "Libxml2's \"no security embargoes\" policy",
-      "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 18:07:02",
       "https://news.ycombinator.com/item?id=44380185"
     ],
@@ -191,12 +151,32 @@
   ],
   [
     [
-      "2025-06-25, 16:21:45",
-      "https://news.ycombinator.com/item?id=44379034"
+      "2025-06-25, 16:35:56",
+      "https://news.ycombinator.com/item?id=44379191"
     ],
     [
-      "Getting ready to issue IP address certificates",
-      "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777"
+      "Interstellar Flight: Perspectives and Patience",
+      "https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 16:34:51",
+      "https://news.ycombinator.com/item?id=44379173"
+    ],
+    [
+      "Iroh: A library to establish direct connection between peers",
+      "https://github.com/n0-computer/iroh"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 15:33:20",
+      "https://news.ycombinator.com/item?id=44378486"
+    ],
+    [
+      "Web Embeddable Common Lisp",
+      "https://turtleware.eu/static/paste/wecl-test-gl/main.html"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2025-06-23, 18:34:36",
+      "https://news.ycombinator.com/item?id=44358667"
+    ],
+    [
+      "Howdy – Windows Hello style facial authentication for Linux",
+      "https://github.com/boltgolt/howdy"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 17:38:08",
       "https://news.ycombinator.com/item?id=44358148"
     ],
@@ -287,6 +277,16 @@
     [
       "The Art of Hanakami, or Flower-Petal Folding",
       "https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding"
+    ]
+  ],
+  [
+    [
+      "2025-06-22, 17:01:10",
+      "https://news.ycombinator.com/item?id=44348415"
+    ],
+    [
+      "Structured Output with LangChain and Llamafile",
+      "https://blog.brakmic.com/structured-output-with-langchain-and-llamafile/"
     ]
   ],
   [
