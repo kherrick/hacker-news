@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-26, 06:07:49](https://news.ycombinator.com/item?id=44384610) - [Yes, I will judge you for using AI](https://jaysthoughts.com/aithoughts1)
 * [2025-06-26, 02:41:34](https://news.ycombinator.com/item?id=44383779) - [Games That Weren't: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
 * [2025-06-25, 23:41:16](https://news.ycombinator.com/item?id=44382834) - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 * [2025-06-25, 23:26:55](https://news.ycombinator.com/item?id=44382752) - [Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
@@ -24,6 +23,7 @@
 * [2025-06-25, 13:17:25](https://news.ycombinator.com/item?id=44376989) - [OpenAI charges by the minute, so speed up your audio](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
+* [2025-06-23, 22:03:29](https://news.ycombinator.com/item?id=44360651) - [Getting by on the Generosity of Strangers in Japan](https://theworld.org/stories/2025/06/20/out-of-eden-walk-getting-by-on-the-generosity-of-strangers)
 * [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358667) - [Howdy – Windows Hello style facial authentication for Linux](https://github.com/boltgolt/howdy)
 * [2025-06-23, 17:38:08](https://news.ycombinator.com/item?id=44358148) - [Ambient Garden](https://ambient.garden)
 * [2025-06-23, 11:34:26](https://news.ycombinator.com/item?id=44354643) - [Build a Sentence-Level Text-to-Speech Reader in JavaScript](https://jsdev.space/tts-sentence-reader/)
