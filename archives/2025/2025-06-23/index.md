@@ -70,6 +70,7 @@
 * [2025-06-23, 06:54:03](https://news.ycombinator.com/item?id=44353137) - [A New Nova Just Appeared in the Night Sky – You Can See It with the Naked Eye](https://www.iflscience.com/unexpected-nova-just-appeared-in-the-night-sky-and-you-can-see-it-with-the-naked-eye-79708)
 * [2025-06-23, 06:46:33](https://news.ycombinator.com/item?id=44353098) - [RaptorCast: Designing a Messaging Layer](https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer)
 * [2025-06-23, 06:39:20](https://news.ycombinator.com/item?id=44353055) - [Timdle – Place historical events in chronological order](https://www.timdle.com/)
+* [2025-06-23, 06:26:19](https://news.ycombinator.com/item?id=44352990) - [Low Overhead Allocation Sampling in a Garbage Collected Virtual Machine](https://arxiv.org/abs/2506.16883)
 * [2025-06-23, 06:02:13](https://news.ycombinator.com/item?id=44352831) - [Show HN: Windowfied](https://news.ycombinator.com/item?id=44352831)
 * [2025-06-23, 05:10:44](https://news.ycombinator.com/item?id=44352615) - [Nano-Vllm: lightweight vLLM implementation built from scratch](https://github.com/GeeeekExplorer/nano-vllm)
 * [2025-06-23, 04:36:13](https://news.ycombinator.com/item?id=44352476) - [I built an app to backup Live Photos from iPhone to external hard drives](https://news.ycombinator.com/item?id=44352476)
