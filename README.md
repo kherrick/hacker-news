@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-26, 15:33:10](https://news.ycombinator.com/item?id=44388395) - [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
 * [2025-06-26, 15:31:58](https://news.ycombinator.com/item?id=44388387) - [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
 * [2025-06-26, 14:58:32](https://news.ycombinator.com/item?id=44388093) - [Show HN: I built an AI dataset generator](https://github.com/metabase/dataset-generator)
 * [2025-06-26, 14:32:28](https://news.ycombinator.com/item?id=44387828) - [Launch HN: Issen (YC F24) – personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
@@ -15,7 +16,6 @@
 * [2025-06-25, 23:26:55](https://news.ycombinator.com/item?id=44382752) - [Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 * [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 * [2025-06-25, 19:53:13](https://news.ycombinator.com/item?id=44381252) - [-2000 Lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
-* [2025-06-25, 19:42:57](https://news.ycombinator.com/item?id=44381168) - [The Offline Club](https://www.theoffline-club.com)
 * [2025-06-25, 18:07:02](https://news.ycombinator.com/item?id=44380185) - [Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC](https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/)
 * [2025-06-25, 17:14:35](https://news.ycombinator.com/item?id=44379673) - [Build and Host AI-Powered Apps with Claude – No Deployment Needed](https://www.anthropic.com/news/claude-powered-artifacts)
 * [2025-06-25, 17:14:29](https://news.ycombinator.com/item?id=44379670) - [America’s incarceration rate is in decline](https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/)
