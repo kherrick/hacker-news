@@ -39,6 +39,7 @@
 * [2025-06-22, 17:21:52](https://news.ycombinator.com/item?id=44348565) - [Discover C++26's compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
 * [2025-06-22, 17:12:22](https://news.ycombinator.com/item?id=44348493) - [How to Think about Parallel Programming: Not! [video] (2021)](https://www.infoq.com/presentations/Thinking-Parallel-Programming/)
 * [2025-06-22, 17:06:51](https://news.ycombinator.com/item?id=44348448) - [Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI](https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971)
+* [2025-06-22, 17:01:10](https://news.ycombinator.com/item?id=44348415) - [Structured Output with LangChain and Llamafile](https://blog.brakmic.com/structured-output-with-langchain-and-llamafile/)
 * [2025-06-22, 16:00:09](https://news.ycombinator.com/item?id=44347973) - [The Cultural Decline of Literary Fiction](https://oyyy.substack.com/p/the-cultural-decline-of-literary)
 * [2025-06-22, 15:02:23](https://news.ycombinator.com/item?id=44347464) - [Playing First Contact in Eclipse, a 3-Day Sci-Fi Larp](https://mssv.net/2025/06/15/playing-first-contact-in-eclipse-a-spectacular-3-day-sci-fi-larp/)
 * [2025-06-22, 14:56:44](https://news.ycombinator.com/item?id=44347425) - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
