@@ -31,12 +31,42 @@
   ],
   [
     [
+      "2025-06-26, 14:40:00",
+      "https://news.ycombinator.com/item?id=44387904"
+    ],
+    [
+      "Access BMC UART on Supermicro X11SSH",
+      "https://github.com/zarhus/zarhusbmc/discussions/3"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 14:32:28",
       "https://news.ycombinator.com/item?id=44387828"
     ],
     [
       "Launch HN: Issen (YC F24) – Personal AI language tutor",
       "https://news.ycombinator.com/item?id=44387828"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 14:16:00",
+      "https://news.ycombinator.com/item?id=44387659"
+    ],
+    [
+      "Google DeepMind Releases AlphaGenome",
+      "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 14:05:44",
+      "https://news.ycombinator.com/item?id=44387563"
+    ],
+    [
+      "I built an ADHD app with interactive coping tools, noise mixer and self-test",
+      "https://www.adhdhelp.app/en"
     ]
   ],
   [
@@ -67,26 +97,6 @@
     [
       "Muvera: Making multi-vector retrieval as fast as single-vector search",
       "https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 09:45:21",
-      "https://news.ycombinator.com/item?id=44385742"
-    ],
-    [
-      "Apptainer: Application Containers for Linux",
-      "https://apptainer.org/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 09:16:53",
-      "https://news.ycombinator.com/item?id=44385612"
-    ],
-    [
-      "The first non-opoid painkiller",
-      "https://www.worksinprogress.news/p/the-first-non-opioid-painkiller"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
       "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 17:27:35",
-      "https://news.ycombinator.com/item?id=44379792"
-    ],
-    [
-      "MCP in LM Studio",
-      "https://lmstudio.ai/blog/lmstudio-v0.3.17"
     ]
   ],
   [
