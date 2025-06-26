@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-26, 17:19:46](https://news.ycombinator.com/item?id=44389337) - [As AI kills search traffic, Google launches Offerwall to boost publisher revenue](https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/)
+* [2025-06-26, 18:43:37](https://news.ycombinator.com/item?id=44390113) - [SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones)
+* [2025-06-26, 18:38:47](https://news.ycombinator.com/item?id=44390072) - [Lateralized sleeping positions in domestic cats](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue)
 * [2025-06-26, 17:03:43](https://news.ycombinator.com/item?id=44389202) - [Introducing Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 * [2025-06-26, 15:33:10](https://news.ycombinator.com/item?id=44388395) - [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
 * [2025-06-26, 15:31:58](https://news.ycombinator.com/item?id=44388387) - [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
@@ -12,7 +13,6 @@
 * [2025-06-26, 12:45:04](https://news.ycombinator.com/item?id=44386887) - [Learnings from building AI agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
 * [2025-06-26, 10:29:34](https://news.ycombinator.com/item?id=44385981) - [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
 * [2025-06-26, 09:08:00](https://news.ycombinator.com/item?id=44385562) - [Snow - Classic Macintosh emulator](https://snowemu.com/)
-* [2025-06-26, 07:00:43](https://news.ycombinator.com/item?id=44384913) - [AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus)
 * [2025-06-26, 06:07:49](https://news.ycombinator.com/item?id=44384610) - [LLM code generation may lead to an erosion of trust](https://jaysthoughts.com/aithoughts1)
 * [2025-06-25, 23:41:16](https://news.ycombinator.com/item?id=44382834) - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 * [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
