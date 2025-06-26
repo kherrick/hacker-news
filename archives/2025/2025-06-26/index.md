@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
 * [2025-06-26, 20:54:02](https://news.ycombinator.com/item?id=44391247) - [A.I. Is Homogenizing Our Thoughts](https://www.newyorker.com/culture/infinite-scroll/ai-is-homogenizing-our-thoughts)
+* [2025-06-26, 20:26:33](https://news.ycombinator.com/item?id=44390962) - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
 * [2025-06-26, 20:22:54](https://news.ycombinator.com/item?id=44390915) - [Robots That Learn – OpenAI](https://openai.com/index/robots-that-learn/)
 * [2025-06-26, 20:06:28](https://news.ycombinator.com/item?id=44390781) - [Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+](https://angadh.com/space-data-centers-1)
 * [2025-06-26, 20:01:28](https://news.ycombinator.com/item?id=44390740) - [Matrix v1.15 Release](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
@@ -12,6 +13,7 @@
 * [2025-06-26, 19:47:18](https://news.ycombinator.com/item?id=44390628) - [Philadelphia Transit System Votes to Cut Service by 45%, Hike Fares](https://www.bloomberg.com/news/articles/2025-06-26/philly-transit-system-votes-to-cut-service-by-45-hike-fares)
 * [2025-06-26, 19:41:35](https://news.ycombinator.com/item?id=44390576) - [AI Is Dehumanization Technology](https://thedabbler.patatas.ca/pages/ai-is-dehumanization-technology.html)
 * [2025-06-26, 19:36:11](https://news.ycombinator.com/item?id=44390527) - [Memory Safety Is Merely Table Stakes](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
+* [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
 * [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [\"Why is the Rust compiler so slow?\"](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 19:23:40](https://news.ycombinator.com/item?id=44390454) - [US economy shrank 0.5% in the first quarter, worse than earlier estimates](https://apnews.com/article/economy-tariffs-trump-gdp-shrink-86d1f15e66c646ac4ce88ffc0a956942)
 * [2025-06-26, 19:23:28](https://news.ycombinator.com/item?id=44390452) - [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
