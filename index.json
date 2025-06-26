@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-26, 17:03:43",
+      "https://news.ycombinator.com/item?id=44389202"
+    ],
+    [
+      "Introducing Gemma 3n",
+      "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 15:33:10",
       "https://news.ycombinator.com/item?id=44388395"
     ],
@@ -227,16 +237,6 @@
     [
       "Real-world performance comparison of ebtree/cebtree/rbtree",
       "http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 18:34:36",
-      "https://news.ycombinator.com/item?id=44358667"
-    ],
-    [
-      "Howdy – Windows Hello style facial authentication for Linux",
-      "https://github.com/boltgolt/howdy"
     ]
   ],
   [
