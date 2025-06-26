@@ -31,6 +31,7 @@
 * [2025-06-22, 19:36:55](https://news.ycombinator.com/item?id=44349655) - [Lawrence Yun on the State of U.S. Housing Market](https://www.c-span.org/program/washington-journal/lawrence-yun-on-the-state-of-us-housing-market/661482)
 * [2025-06-22, 19:18:41](https://news.ycombinator.com/item?id=44349525) - [Klein Bottle Amazon Brand Hijacking](https://www.kleinbottle.com/Amazon_Brand_Hijacking.html)
 * [2025-06-22, 18:56:53](https://news.ycombinator.com/item?id=44349379) - [Advanced Python Function Debugging with MCP Integration](https://github.com/kordless/gnosis-mystic)
+* [2025-06-22, 18:51:17](https://news.ycombinator.com/item?id=44349332) - [What makes comprehensible input comprehensible?](https://cij-analysis.streamlit.app)
 * [2025-06-22, 18:37:56](https://news.ycombinator.com/item?id=44349223) - [Let's Talk About Writing in Tech](https://www.gmoniava.com/blog/lets-talk-about-writing-in-tech)
 * [2025-06-22, 18:25:13](https://news.ycombinator.com/item?id=44349117) - [Show HN: Turn a paper's DOI into its full reference list (BibTeX/RIS, etc.)](https://references.mireklzicar.com)
 * [2025-06-22, 17:56:14](https://news.ycombinator.com/item?id=44348862) - [The Jumping Frenchmen of Maine](https://www.amusingplanet.com/2025/06/the-jumping-frenchmen-of-maine.html)

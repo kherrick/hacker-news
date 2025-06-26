@@ -25,9 +25,9 @@
 * [2025-06-23, 21:01:57](https://news.ycombinator.com/item?id=44360038) - ['Sticky thinking' hampers decisions in depression](https://www.bps.org.uk/research-digest/sticky-thinking-hampers-decisions-depression)
 * [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358667) - [Howdy – Windows Hello style facial authentication for Linux](https://github.com/boltgolt/howdy)
 * [2025-06-23, 17:38:08](https://news.ycombinator.com/item?id=44358148) - [Ambient Garden](https://ambient.garden)
-* [2025-06-23, 15:45:39](https://news.ycombinator.com/item?id=44356938) - [GIF export in Snipping Tool begins rolling out to Windows Insiders](https://blogs.windows.com/windows-insider/2025/06/19/gif-export-in-snipping-tool-begins-rolling-out-to-windows-insiders/)
 * [2025-06-23, 10:02:10](https://news.ycombinator.com/item?id=44354032) - [Modeling the World in 280 Characters](https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/)
 * [2025-06-22, 22:00:00](https://news.ycombinator.com/item?id=44350655) - [The Art of Hanakami, or Flower-Petal Folding](https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding)
+* [2025-06-22, 18:51:17](https://news.ycombinator.com/item?id=44349332) - [What makes comprehensible input comprehensible?](https://cij-analysis.streamlit.app)
 * [2025-06-22, 17:01:10](https://news.ycombinator.com/item?id=44348415) - [Structured Output with LangChain and Llamafile](https://blog.brakmic.com/structured-output-with-langchain-and-llamafile/)
 * [2025-06-22, 10:29:42](https://news.ycombinator.com/item?id=44345681) - [Writing a basic Linux device driver when you know nothing about Linux drivers](https://crescentro.se/posts/writing-drivers/)
 
