@@ -69,6 +69,7 @@
 * [2025-06-25, 11:23:24](https://news.ycombinator.com/item?id=44375986) - [Denmark Switches from Microsoft to LibreOffice and Linux](https://digitrendz.blog/newswire/business/15438/denmark-switches-from-microsoft-to-libreoffice-and-linux/)
 * [2025-06-25, 10:58:52](https://news.ycombinator.com/item?id=44375822) - [Jane Street Boss Says He Was Duped into Funding AK-47s for Coup](https://www.bloomberg.com/news/articles/2025-06-25/jane-street-s-rob-granieri-says-he-was-duped-into-funding-south-sudan-coup-plot)
 * [2025-06-25, 10:49:56](https://news.ycombinator.com/item?id=44375761) - [Show HN: I built a tool that blocks social media until you scream \"I'm a loser\"](https://news.ycombinator.com/item?id=44375761)
+* [2025-06-25, 10:35:58](https://news.ycombinator.com/item?id=44375696) - [Experience Making a 1-minute AI movie with my 7-year old daughter](https://drsandor.net/ai/minecraft/)
 * [2025-06-25, 10:29:58](https://news.ycombinator.com/item?id=44375655) - [Sourcehut Moving to Europe](https://news.ycombinator.com/item?id=44375655)
 * [2025-06-25, 10:02:26](https://news.ycombinator.com/item?id=44375476) - [Bunker Busters probably failed to penetrate Iranian concrete](https://www.popularmechanics.com/military/weapons/a65172594/ultra-strong-concrete-stops-bunker-busting-bombs/)
 * [2025-06-25, 09:58:48](https://news.ycombinator.com/item?id=44375451) - [The Fairphone (Gen. 6)](https://shop.fairphone.com/the-fairphone-gen-6)
