@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-26, 13:41:57](https://news.ycombinator.com/item?id=44387321) - [AI Improves at Improving Itself Using an Evolutionary Trick](https://spectrum.ieee.org/evolutionary-ai)
 * [2025-06-26, 12:45:04](https://news.ycombinator.com/item?id=44386887) - [Learnings from Building AI Agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
 * [2025-06-26, 10:29:34](https://news.ycombinator.com/item?id=44385981) - [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
 * [2025-06-26, 09:45:21](https://news.ycombinator.com/item?id=44385742) - [Apptainer: Application Containers for Linux](https://apptainer.org/)
@@ -21,7 +22,6 @@
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-24, 13:01:17](https://news.ycombinator.com/item?id=44365754) - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-24, 00:27:51](https://news.ycombinator.com/item?id=44361633) - [Real-world performance comparison of ebtree/cebtree/rbtree](http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html)
-* [2025-06-23, 22:03:29](https://news.ycombinator.com/item?id=44360651) - [Getting by on the Generosity of Strangers in Japan](https://theworld.org/stories/2025/06/20/out-of-eden-walk-getting-by-on-the-generosity-of-strangers)
 * [2025-06-23, 21:01:57](https://news.ycombinator.com/item?id=44360038) - ['Sticky thinking' hampers decisions in depression](https://www.bps.org.uk/research-digest/sticky-thinking-hampers-decisions-depression)
 * [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358667) - [Howdy – Windows Hello style facial authentication for Linux](https://github.com/boltgolt/howdy)
 * [2025-06-23, 17:38:08](https://news.ycombinator.com/item?id=44358148) - [Ambient Garden](https://ambient.garden)
