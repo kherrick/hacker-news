@@ -22,12 +22,12 @@
 * [2025-06-26, 14:16:00](https://news.ycombinator.com/item?id=44387659) - [Google DeepMind Releases AlphaGenome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
 * [2025-06-26, 12:45:04](https://news.ycombinator.com/item?id=44386887) - [Learnings from building AI agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
 * [2025-06-26, 10:29:34](https://news.ycombinator.com/item?id=44385981) - [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
+* [2025-06-26, 09:08:00](https://news.ycombinator.com/item?id=44385562) - [Snow - Classic Macintosh emulator](https://snowemu.com/)
 * [2025-06-25, 23:41:16](https://news.ycombinator.com/item?id=44382834) - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 * [2025-06-25, 20:01:07](https://news.ycombinator.com/item?id=44381297) - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 * [2025-06-25, 19:53:13](https://news.ycombinator.com/item?id=44381252) - [-2000 Lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
 * [2025-06-23, 17:38:08](https://news.ycombinator.com/item?id=44358148) - [Ambient Garden](https://ambient.garden)
 * [2025-06-23, 13:04:26](https://news.ycombinator.com/item?id=44355409) - [The Business of Betting on Catastrophe](https://thereader.mitpress.mit.edu/the-business-of-betting-on-catastrophe/)
-* [2025-06-23, 10:02:10](https://news.ycombinator.com/item?id=44354032) - [Modeling the World in 280 Characters](https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/)
 * [2025-06-23, 08:27:03](https://news.ycombinator.com/item?id=44353576) - [Typr – TUI typing test with a word selection algorithm inspired by keybr](https://github.com/Sakura-sx/typr)
 * [2025-06-22, 22:09:36](https://news.ycombinator.com/item?id=44350717) - [Tiny orange beads found by Apollo astronauts reveal Moon's explosive past](https://www.sciencedaily.com/releases/2025/06/250616040233.htm)
 
