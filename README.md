@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-26, 13:41:57](https://news.ycombinator.com/item?id=44387321) - [AI Improves at Improving Itself Using an Evolutionary Trick](https://spectrum.ieee.org/evolutionary-ai)
-* [2025-06-26, 12:45:04](https://news.ycombinator.com/item?id=44386887) - [Learnings from Building AI Agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
+* [2025-06-26, 12:45:04](https://news.ycombinator.com/item?id=44386887) - [Learnings from building AI agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
+* [2025-06-26, 12:11:52](https://news.ycombinator.com/item?id=44386637) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 10:29:34](https://news.ycombinator.com/item?id=44385981) - [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
 * [2025-06-26, 09:45:21](https://news.ycombinator.com/item?id=44385742) - [Apptainer: Application Containers for Linux](https://apptainer.org/)
 * [2025-06-26, 09:16:53](https://news.ycombinator.com/item?id=44385612) - [The first non-opoid painkiller](https://www.worksinprogress.news/p/the-first-non-opioid-painkiller)
