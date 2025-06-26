@@ -2,6 +2,7 @@
 
 * [2025-06-26, 18:43:37](https://news.ycombinator.com/item?id=44390113) - [SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones)
 * [2025-06-26, 18:38:47](https://news.ycombinator.com/item?id=44390072) - [Lateralized sleeping positions in domestic cats](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue)
+* [2025-06-26, 17:36:04](https://news.ycombinator.com/item?id=44389497) - [Shifts in diatom and dinoflagellate biomass in the North Atlantic over 6 decades](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323675)
 * [2025-06-26, 17:03:43](https://news.ycombinator.com/item?id=44389202) - [Introducing Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 * [2025-06-26, 15:33:10](https://news.ycombinator.com/item?id=44388395) - [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
 * [2025-06-26, 15:31:58](https://news.ycombinator.com/item?id=44388387) - [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
@@ -27,7 +28,6 @@
 * [2025-06-23, 13:04:26](https://news.ycombinator.com/item?id=44355409) - [The Business of Betting on Catastrophe](https://thereader.mitpress.mit.edu/the-business-of-betting-on-catastrophe/)
 * [2025-06-23, 10:02:10](https://news.ycombinator.com/item?id=44354032) - [Modeling the World in 280 Characters](https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/)
 * [2025-06-22, 22:09:36](https://news.ycombinator.com/item?id=44350717) - [Tiny orange beads found by Apollo astronauts reveal Moon's explosive past](https://www.sciencedaily.com/releases/2025/06/250616040233.htm)
-* [2025-06-22, 18:51:17](https://news.ycombinator.com/item?id=44349332) - [What makes comprehensible input comprehensible?](https://cij-analysis.streamlit.app)
 * [2025-06-22, 17:01:10](https://news.ycombinator.com/item?id=44348415) - [Structured Output with LangChain and Llamafile](https://blog.brakmic.com/structured-output-with-langchain-and-llamafile/)
 * [2025-06-22, 10:29:42](https://news.ycombinator.com/item?id=44345681) - [Writing a basic Linux device driver when you know nothing about Linux drivers](https://crescentro.se/posts/writing-drivers/)
 
