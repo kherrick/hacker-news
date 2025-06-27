@@ -40,6 +40,7 @@
 * [2025-06-23, 15:12:14](https://news.ycombinator.com/item?id=44356625) - [The AI lifestyle subsidy is going to end](https://digitalseams.com/blog/the-ai-lifestyle-subsidy-is-going-to-end)
 * [2025-06-23, 15:09:21](https://news.ycombinator.com/item?id=44356597) - [Interesting Bits of Postgres Grammar](https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/)
 * [2025-06-23, 15:04:41](https://news.ycombinator.com/item?id=44356549) - [DHEA-S hormone linked to shorter lifespan in men, but not women](https://medicalxpress.com/news/2025-06-dhea-hormone-linked-shorter-lifespan.html)
+* [2025-06-23, 14:56:02](https://news.ycombinator.com/item?id=44356456) - [Sailing the fjords like the Vikings yields unexpected insights](https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/)
 * [2025-06-23, 14:52:22](https://news.ycombinator.com/item?id=44356422) - [Ask HN: How to Get Rid of Gemini?](https://news.ycombinator.com/item?id=44356422)
 * [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
 * [2025-06-23, 14:46:03](https://news.ycombinator.com/item?id=44356346) - [Making Tramp Go Brrr](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
