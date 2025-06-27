@@ -44,6 +44,7 @@
 * [2025-06-23, 14:52:22](https://news.ycombinator.com/item?id=44356422) - [Ask HN: How to Get Rid of Gemini?](https://news.ycombinator.com/item?id=44356422)
 * [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
 * [2025-06-23, 14:46:03](https://news.ycombinator.com/item?id=44356346) - [Making Tramp Go Brrr](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
+* [2025-06-23, 14:42:22](https://news.ycombinator.com/item?id=44356307) - ['Peak flower power era': The story of first ever Glastonbury Festival in 1970](https://www.bbc.com/culture/article/20250620-the-story-of-the-first-ever-glastonbury-festival-in-1970)
 * [2025-06-23, 14:37:05](https://news.ycombinator.com/item?id=44356248) - [Backyard Coffee and Jazz in Kyoto, Japan](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
 * [2025-06-23, 14:12:08](https://news.ycombinator.com/item?id=44355985) - [2B people don't have safe drinking water: what does this mean for them?](https://ourworldindata.org/what-no-safe-water-means)
 * [2025-06-23, 14:03:44](https://news.ycombinator.com/item?id=44355923) - [What Happens When Hertz's AI Scanner Finds Damage on Your Rental](https://www.thedrive.com/news/this-is-what-happens-when-hertzs-ai-scanner-finds-damage-on-your-rental)
