@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 21:24:38](https://news.ycombinator.com/item?id=44400378) - [Supreme Court overturns 5th Circuit ruling that upended Universal Service Fund](https://arstechnica.com/tech-policy/2025/06/supreme-court-saves-universal-service-fund-rules-fcc-fee-is-not-illegal-tax/)
 * [2025-06-27, 21:01:03](https://news.ycombinator.com/item?id=44400190) - [Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team)
 * [2025-06-27, 20:50:10](https://news.ycombinator.com/item?id=44400105) - [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
 * [2025-06-27, 20:40:19](https://news.ycombinator.com/item?id=44400045) - [NASA's Future SLS Booster Failed Its First Test [video]](https://www.youtube.com/watch?v=F85bTJLdaTo)
@@ -15,6 +16,7 @@
 * [2025-06-27, 18:49:57](https://news.ycombinator.com/item?id=44399234) - [SymbolicAI: A neuro-symbolic perspective on LLMs](https://github.com/ExtensityAI/symbolicai)
 * [2025-06-27, 18:45:05](https://news.ycombinator.com/item?id=44399193) - [nimbme – Nim bare-metal environment](https://github.com/mikra01/nimbme)
 * [2025-06-27, 18:43:41](https://news.ycombinator.com/item?id=44399186) - [New Process Uses Microbes to Create Valuable Materials from Urine](https://newscenter.lbl.gov/2025/06/17/new-process-uses-microbes-to-create-valuable-materials-from-urine/)
+* [2025-06-27, 17:44:32](https://news.ycombinator.com/item?id=44398756) - [James Webb Space Telescope Reveals Its First Direct Image of an Exoplanet](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/)
 * [2025-06-27, 17:38:08](https://news.ycombinator.com/item?id=44398710) - [US Supreme Court limits federal judges' power to block Trump orders](https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus)
 * [2025-06-27, 17:02:17](https://news.ycombinator.com/item?id=44398390) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 17:00:16](https://news.ycombinator.com/item?id=44398370) - [Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
