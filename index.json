@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44393817"
     ],
     [
-      "XSLT",
+      "XSLT – Native, zero-config build system for the Web",
       "https://github.com/pacocoursey/xslt"
     ]
   ],
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-06-27, 01:55:23",
+      "https://news.ycombinator.com/item?id=44393135"
+    ],
+    [
+      "The AI-Powered Cursor for Spreadsheets",
+      "https://excalai.com/"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 20:26:33",
       "https://news.ycombinator.com/item?id=44390962"
     ],
@@ -91,22 +101,22 @@
   ],
   [
     [
-      "2025-06-26, 20:01:28",
-      "https://news.ycombinator.com/item?id=44390740"
-    ],
-    [
-      "Matrix v1.15",
-      "https://matrix.org/blog/2025/06/26/matrix-v1.15-release/"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 19:31:29",
       "https://news.ycombinator.com/item?id=44390501"
     ],
     [
       "Alternative Layout System",
       "https://alternativelayoutsystem.com/scripts/#same-sizer"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 19:29:32",
+      "https://news.ycombinator.com/item?id=44390488"
+    ],
+    [
+      "“Why is the Rust compiler so slow?”",
+      "https://sharnoff.io/blog/why-rust-compiler-slow"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Dickinson's Dresses on the Moon",
       "https://www.theparisreview.org/blog/2025/06/20/dickinsons-dresses-on-the-moon/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 09:30:02",
-      "https://news.ycombinator.com/item?id=44353868"
-    ],
-    [
-      "Fault Tolerant Llama training",
-      "https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/"
     ]
   ],
   [
