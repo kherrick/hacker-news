@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-27, 06:55:48",
-      "https://news.ycombinator.com/item?id=44394333"
-    ],
-    [
-      "UK to buy F-35As that can't be refueled from RAF tankers",
-      "https://www.theregister.com/2025/06/26/uk_f_35a_refuel_hitch/"
-    ]
-  ],
-  [
-    [
       "2025-06-27, 06:14:06",
       "https://news.ycombinator.com/item?id=44394114"
     ],
@@ -247,6 +237,16 @@
     [
       "Apple Research unearthed forgotten AI technique and using it to generate images",
       "https://9to5mac.com/2025/06/23/apple-ai-image-model-research-tarflow-starflow/"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 18:10:19",
+      "https://news.ycombinator.com/item?id=44358448"
+    ],
+    [
+      "Calculating the Fibonacci numbers on GPU",
+      "https://veitner.bearblog.dev/calculating-the-fibonacci-numbers-on-gpu/"
     ]
   ],
   [
