@@ -9,6 +9,7 @@
 * [2025-06-27, 13:03:10](https://news.ycombinator.com/item?id=44396487) - [The Effect of Noise on Sleep](https://www.empirical.health/blog/effect-of-noise-on-sleep/)
 * [2025-06-27, 11:10:54](https://news.ycombinator.com/item?id=44395810) - [Show HN: PILF, The ultimate solution to catastrophic oblivion on AI models](https://github.com/dmf-archive/PILF)
 * [2025-06-27, 11:09:42](https://news.ycombinator.com/item?id=44395799) - [My Lights Run on Bash – Tomasz Kramkowski](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
+* [2025-06-27, 11:06:43](https://news.ycombinator.com/item?id=44395782) - [Copilot Chat in VS Code is now open source](https://github.com/microsoft/vscode-copilot-chat)
 * [2025-06-27, 08:28:28](https://news.ycombinator.com/item?id=44394929) - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
 * [2025-06-27, 07:05:58](https://news.ycombinator.com/item?id=44394386) - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
 * [2025-06-27, 06:29:51](https://news.ycombinator.com/item?id=44394201) - [Blazing Matrix Products](https://panadestein.github.io/blog/posts/mp.html)
@@ -28,7 +29,6 @@
 * [2025-06-23, 19:13:38](https://news.ycombinator.com/item?id=44359045) - [Moonbase Alpha: That time NASA made a meme video game](https://www.spacebar.news/moonbase-alpha-nasa-video-game/)
 * [2025-06-23, 18:10:19](https://news.ycombinator.com/item?id=44358448) - [Calculating the Fibonacci numbers on GPU](https://veitner.bearblog.dev/calculating-the-fibonacci-numbers-on-gpu/)
 * [2025-06-23, 14:56:02](https://news.ycombinator.com/item?id=44356456) - [Sailing the fjords like the Vikings yields unexpected insights](https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/)
-* [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
 * [2025-06-23, 14:25:56](https://news.ycombinator.com/item?id=44356130) - [Whitesmiths C compiler: One of the earliest commercial C compilers available](https://github.com/hansake/Whitesmiths-C-compiler)
 
 ## [Archives](archives/index.md)
