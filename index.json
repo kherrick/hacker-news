@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-27, 08:28:28",
+      "https://news.ycombinator.com/item?id=44394929"
+    ],
+    [
+      "Show HN: Zenta – Mindfulness for Terminal Users",
+      "https://github.com/e6a5/zenta"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 07:05:58",
+      "https://news.ycombinator.com/item?id=44394386"
+    ],
+    [
+      "PJ5 TTL CPU",
+      "https://pj5cpu.wordpress.com/"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 06:29:51",
+      "https://news.ycombinator.com/item?id=44394201"
+    ],
+    [
+      "Blazing Matrix Products",
+      "https://panadestein.github.io/blog/posts/mp.html"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 06:14:06",
       "https://news.ycombinator.com/item?id=44394114"
     ],
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2025-06-26, 17:03:43",
-      "https://news.ycombinator.com/item?id=44389202"
-    ],
-    [
-      "Introducing Gemma 3n",
-      "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 15:33:10",
       "https://news.ycombinator.com/item?id=44388395"
     ],
     [
       "A Review of Aerospike Nozzles: Current Trends in Aerospace Applications",
       "https://www.mdpi.com/2226-4310/12/6/519"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 14:58:32",
-      "https://news.ycombinator.com/item?id=44388093"
-    ],
-    [
-      "Show HN: I built an AI dataset generator",
-      "https://github.com/metabase/dataset-generator"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "'Peak flower power era': The story of first ever Glastonbury Festival in 1970",
       "https://www.bbc.com/culture/article/20250620-the-story-of-the-first-ever-glastonbury-festival-in-1970"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 09:30:02",
-      "https://news.ycombinator.com/item?id=44353868"
-    ],
-    [
-      "Fault Tolerant Llama training",
-      "https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/"
     ]
   ],
   [
