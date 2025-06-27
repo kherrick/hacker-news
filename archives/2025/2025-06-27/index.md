@@ -10,6 +10,7 @@
 * [2025-06-27, 20:50:10](https://news.ycombinator.com/item?id=44400105) - [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
 * [2025-06-27, 20:40:19](https://news.ycombinator.com/item?id=44400045) - [NASA's Future SLS Booster Failed Its First Test [video]](https://www.youtube.com/watch?v=F85bTJLdaTo)
 * [2025-06-27, 20:39:52](https://news.ycombinator.com/item?id=44400042) - [Android phones could soon warn you of \"Stingrays\" snooping on your communicatio](https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/)
+* [2025-06-27, 20:36:51](https://news.ycombinator.com/item?id=44400025) - [Learn OCaml – Exercises](https://ocaml-sf.org/learn-ocaml-public/#activity=exercises)
 * [2025-06-27, 20:12:00](https://news.ycombinator.com/item?id=44399854) - [A Brief History of Children Sent Through the Mail](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
 * [2025-06-27, 19:55:26](https://news.ycombinator.com/item?id=44399757) - [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
 * [2025-06-27, 19:42:21](https://news.ycombinator.com/item?id=44399666) - [Show HN: Shouldiuse.dev – Software dependency health checker](https://shouldiuse.dev/)
