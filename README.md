@@ -16,6 +16,7 @@
 * [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
 * [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [“Why is the Rust compiler so slow?”](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 19:23:28](https://news.ycombinator.com/item?id=44390452) - [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
+* [2025-06-26, 18:43:37](https://news.ycombinator.com/item?id=44390113) - [SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones)
 * [2025-06-26, 18:30:56](https://news.ycombinator.com/item?id=44390005) - [Show HN: Magnitude – Open-source AI browser automation framework](https://github.com/magnitudedev/magnitude)
 * [2025-06-26, 14:32:28](https://news.ycombinator.com/item?id=44387828) - [Launch HN: Issen (YC F24) – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
 * [2025-06-26, 14:16:00](https://news.ycombinator.com/item?id=44387659) - [AlphaGenome: AI for better understanding the genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
@@ -29,7 +30,6 @@
 * [2025-06-23, 18:10:19](https://news.ycombinator.com/item?id=44358448) - [Calculating the Fibonacci numbers on GPU](https://veitner.bearblog.dev/calculating-the-fibonacci-numbers-on-gpu/)
 * [2025-06-23, 14:56:02](https://news.ycombinator.com/item?id=44356456) - [Sailing the fjords like the Vikings yields unexpected insights](https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/)
 * [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
-* [2025-06-23, 08:27:03](https://news.ycombinator.com/item?id=44353576) - [Typr – TUI typing test with a word selection algorithm inspired by keybr](https://github.com/Sakura-sx/typr)
 
 ## [Archives](archives/index.md)
 
