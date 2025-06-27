@@ -10,6 +10,7 @@
 * [2025-06-23, 22:22:47](https://news.ycombinator.com/item?id=44360806) - [Skip the exit interview when you leave your job](https://blog.petdance.com/2017/03/31/skip-the-exit-interview-when-you-leave-your-job/)
 * [2025-06-23, 22:03:29](https://news.ycombinator.com/item?id=44360651) - [Getting by on the Generosity of Strangers in Japan](https://theworld.org/stories/2025/06/20/out-of-eden-walk-getting-by-on-the-generosity-of-strangers)
 * [2025-06-23, 22:01:27](https://news.ycombinator.com/item?id=44360630) - [Collections: Nitpicking Gladiator's Iconic Opening Battle, Part I](https://acoup.blog/2025/06/06/collections-nitpicking-gladiators-iconic-opening-battle-part-i/)
+* [2025-06-23, 21:53:29](https://news.ycombinator.com/item?id=44360558) - [Bogong moths use a stellar compass for long-distance navigation at night](https://www.nature.com/articles/s41586-025-09135-3)
 * [2025-06-23, 21:01:57](https://news.ycombinator.com/item?id=44360038) - ['Sticky thinking' hampers decisions in depression](https://www.bps.org.uk/research-digest/sticky-thinking-hampers-decisions-depression)
 * [2025-06-23, 20:50:32](https://news.ycombinator.com/item?id=44359938) - [GitHub CEO: manual coding remains key despite AI boom](https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom)
 * [2025-06-23, 20:16:33](https://news.ycombinator.com/item?id=44359619) - [Discord Is Threatening to Shutdown BotGhost](https://update.botghost.com/)
