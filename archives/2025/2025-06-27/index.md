@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
+* [2025-06-27, 13:03:10](https://news.ycombinator.com/item?id=44396487) - [The Effect of Noise on Sleep](https://www.empirical.health/blog/effect-of-noise-on-sleep/)
+* [2025-06-27, 12:39:53](https://news.ycombinator.com/item?id=44396342) - [The Power and Beauty of Incrementalism](https://supernuclear.substack.com/p/the-power-and-beauty-of-incrementalism)
 * [2025-06-27, 12:33:25](https://news.ycombinator.com/item?id=44396303) - [Show HN: A Python Language Server, Mypy-compatible](https://zubanls.com/)
 * [2025-06-27, 12:33:03](https://news.ycombinator.com/item?id=44396299) - [Creating a pan-European legal entity, the right way](https://klinger.io/posts/eu-inc)
 * [2025-06-27, 10:30:08](https://news.ycombinator.com/item?id=44395602) - [New IQ research shows why smarter people make better decisions](https://phys.org/news/2025-06-iq-smarter-people-decisions.html)
