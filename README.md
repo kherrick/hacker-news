@@ -16,7 +16,6 @@
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 05:00:41](https://news.ycombinator.com/item?id=44393817) - [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
 * [2025-06-27, 02:02:22](https://news.ycombinator.com/item?id=44393160) - [A lumberjack created more than 200 sculptures in Wisconsin's Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
-* [2025-06-26, 20:26:33](https://news.ycombinator.com/item?id=44390962) - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
 * [2025-06-26, 20:06:28](https://news.ycombinator.com/item?id=44390781) - [Starcloud can’t put a data centre in space at $8.2M in one Starship](https://angadh.com/space-data-centers-1)
 * [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
 * [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [Why is the Rust compiler so slow?](https://sharnoff.io/blog/why-rust-compiler-slow)
@@ -29,6 +28,7 @@
 * [2025-06-23, 19:13:38](https://news.ycombinator.com/item?id=44359045) - [Moonbase Alpha: That time NASA made a meme video game](https://www.spacebar.news/moonbase-alpha-nasa-video-game/)
 * [2025-06-23, 18:10:19](https://news.ycombinator.com/item?id=44358448) - [Calculating the Fibonacci numbers on GPU](https://veitner.bearblog.dev/calculating-the-fibonacci-numbers-on-gpu/)
 * [2025-06-23, 14:56:02](https://news.ycombinator.com/item?id=44356456) - [Sailing the fjords like the Vikings yields unexpected insights](https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/)
+* [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
 * [2025-06-23, 14:25:56](https://news.ycombinator.com/item?id=44356130) - [Whitesmiths C compiler: One of the earliest commercial C compilers available](https://github.com/hansake/Whitesmiths-C-compiler)
 
 ## [Archives](archives/index.md)
