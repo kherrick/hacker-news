@@ -15,3 +15,4 @@
 * [2025-06-27, 02:55:52](https://news.ycombinator.com/item?id=44393349) - [Judge rejects Meta's claim that torrenting is \"irrelevant\" in AI copyright case](https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/)
 * [2025-06-27, 02:44:07](https://news.ycombinator.com/item?id=44393304) - [Ask HN: Is anyone else just done with the industry?](https://news.ycombinator.com/item?id=44393304)
 * [2025-06-27, 02:02:22](https://news.ycombinator.com/item?id=44393160) - [A lumberjack created more than 200 sculptures in Wisconsin's Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
+* [2025-06-27, 01:55:23](https://news.ycombinator.com/item?id=44393135) - [The AI-Powered Cursor for Spreadsheets](https://excalai.com/)
