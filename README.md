@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-27, 06:55:48](https://news.ycombinator.com/item?id=44394333) - [UK to buy F-35As that can't be refueled from RAF tankers](https://www.theregister.com/2025/06/26/uk_f_35a_refuel_hitch/)
 * [2025-06-27, 06:14:06](https://news.ycombinator.com/item?id=44394114) - [Uv and Ray: Pain-Free Python Dependencies in Clusters](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
 * [2025-06-27, 06:07:05](https://news.ycombinator.com/item?id=44394085) - [Timeline of US Class I Railroads Since 1977](https://en.wikipedia.org/wiki/Timeline_of_Class_I_railroads_(1977%E2%80%93present))
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
@@ -25,6 +24,7 @@
 * [2025-06-23, 22:01:27](https://news.ycombinator.com/item?id=44360630) - [Collections: Nitpicking Gladiator's Iconic Opening Battle, Part I](https://acoup.blog/2025/06/06/collections-nitpicking-gladiators-iconic-opening-battle-part-i/)
 * [2025-06-23, 21:53:29](https://news.ycombinator.com/item?id=44360558) - [Bogong moths use a stellar compass for long-distance navigation at night](https://www.nature.com/articles/s41586-025-09135-3)
 * [2025-06-23, 18:19:47](https://news.ycombinator.com/item?id=44358535) - [Apple Research unearthed forgotten AI technique and using it to generate images](https://9to5mac.com/2025/06/23/apple-ai-image-model-research-tarflow-starflow/)
+* [2025-06-23, 18:10:19](https://news.ycombinator.com/item?id=44358448) - [Calculating the Fibonacci numbers on GPU](https://veitner.bearblog.dev/calculating-the-fibonacci-numbers-on-gpu/)
 * [2025-06-23, 14:56:02](https://news.ycombinator.com/item?id=44356456) - [Sailing the fjords like the Vikings yields unexpected insights](https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/)
 * [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
 * [2025-06-23, 14:42:22](https://news.ycombinator.com/item?id=44356307) - ['Peak flower power era': The story of first ever Glastonbury Festival in 1970](https://www.bbc.com/culture/article/20250620-the-story-of-the-first-ever-glastonbury-festival-in-1970)
