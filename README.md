@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-27, 17:00:16](https://news.ycombinator.com/item?id=44398370) - [Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
 * [2025-06-27, 15:08:26](https://news.ycombinator.com/item?id=44397367) - [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-27, 14:42:04](https://news.ycombinator.com/item?id=44397168) - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
 * [2025-06-27, 14:35:04](https://news.ycombinator.com/item?id=44397124) - [Qwen VLo: From \"Understanding\" the World to \"Depicting\" It](https://qwenlm.github.io/blog/qwen-vlo/)
@@ -21,7 +22,6 @@
 * [2025-06-26, 19:23:28](https://news.ycombinator.com/item?id=44390452) - [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
 * [2025-06-26, 14:32:28](https://news.ycombinator.com/item?id=44387828) - [Launch HN: Issen (YC F24) – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
 * [2025-06-26, 14:16:00](https://news.ycombinator.com/item?id=44387659) - [AlphaGenome: AI for better understanding the genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
-* [2025-06-26, 09:08:00](https://news.ycombinator.com/item?id=44385562) - [Snow - Classic Macintosh emulator](https://snowemu.com/)
 * [2025-06-24, 00:33:00](https://news.ycombinator.com/item?id=44361681) - [VA Tech scientists are building a better fog harp](https://arstechnica.com/science/2025/06/these-va-tech-scientists-are-building-a-better-fog-harp/)
 * [2025-06-23, 23:31:13](https://news.ycombinator.com/item?id=44361288) - [I Switched from Flutter and Rust to Rust and Egui](https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/)
 * [2025-06-23, 20:00:24](https://news.ycombinator.com/item?id=44359454) - [A Lisp adventure on the calm waters of the dead C (2021)](https://mihaiolteanu.me/language-abstractions)
