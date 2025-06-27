@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-27, 08:28:28](https://news.ycombinator.com/item?id=44394929) - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
+* [2025-06-27, 07:05:58](https://news.ycombinator.com/item?id=44394386) - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
+* [2025-06-27, 06:29:51](https://news.ycombinator.com/item?id=44394201) - [Blazing Matrix Products](https://panadestein.github.io/blog/posts/mp.html)
 * [2025-06-27, 06:14:06](https://news.ycombinator.com/item?id=44394114) - [Uv and Ray: Pain-Free Python Dependencies in Clusters](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
 * [2025-06-27, 06:07:05](https://news.ycombinator.com/item?id=44394085) - [Timeline of US Class I Railroads Since 1977](https://en.wikipedia.org/wiki/Timeline_of_Class_I_railroads_(1977%E2%80%93present))
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
@@ -13,9 +16,7 @@
 * [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [“Why is the Rust compiler so slow?”](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 19:23:28](https://news.ycombinator.com/item?id=44390452) - [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
 * [2025-06-26, 18:30:56](https://news.ycombinator.com/item?id=44390005) - [Show HN: Magnitude – Open-source AI browser automation framework](https://github.com/magnitudedev/magnitude)
-* [2025-06-26, 17:03:43](https://news.ycombinator.com/item?id=44389202) - [Introducing Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 * [2025-06-26, 15:33:10](https://news.ycombinator.com/item?id=44388395) - [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
-* [2025-06-26, 14:58:32](https://news.ycombinator.com/item?id=44388093) - [Show HN: I built an AI dataset generator](https://github.com/metabase/dataset-generator)
 * [2025-06-26, 14:32:28](https://news.ycombinator.com/item?id=44387828) - [Launch HN: Issen (YC F24) – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
 * [2025-06-26, 14:16:00](https://news.ycombinator.com/item?id=44387659) - [AlphaGenome: AI for better understanding the genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
 * [2025-06-26, 09:08:00](https://news.ycombinator.com/item?id=44385562) - [Snow - Classic Macintosh emulator](https://snowemu.com/)
@@ -28,7 +29,6 @@
 * [2025-06-23, 14:56:02](https://news.ycombinator.com/item?id=44356456) - [Sailing the fjords like the Vikings yields unexpected insights](https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/)
 * [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
 * [2025-06-23, 14:42:22](https://news.ycombinator.com/item?id=44356307) - ['Peak flower power era': The story of first ever Glastonbury Festival in 1970](https://www.bbc.com/culture/article/20250620-the-story-of-the-first-ever-glastonbury-festival-in-1970)
-* [2025-06-23, 09:30:02](https://news.ycombinator.com/item?id=44353868) - [Fault Tolerant Llama training](https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/)
 * [2025-06-23, 08:27:03](https://news.ycombinator.com/item?id=44353576) - [Typr – TUI typing test with a word selection algorithm inspired by keybr](https://github.com/Sakura-sx/typr)
 
 ## [Archives](archives/index.md)

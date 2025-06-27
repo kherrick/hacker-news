@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 08:28:28](https://news.ycombinator.com/item?id=44394929) - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
+* [2025-06-27, 07:05:58](https://news.ycombinator.com/item?id=44394386) - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
 * [2025-06-27, 06:55:48](https://news.ycombinator.com/item?id=44394333) - [UK to buy F-35As that can't be refueled from RAF tankers](https://www.theregister.com/2025/06/26/uk_f_35a_refuel_hitch/)
 * [2025-06-27, 06:47:29](https://news.ycombinator.com/item?id=44394282) - [New EU rules on digital accessibility to come into force](https://www.rte.ie/news/technology/2025/0627/1520552-digital-accessibility/)
+* [2025-06-27, 06:29:51](https://news.ycombinator.com/item?id=44394201) - [Blazing Matrix Products](https://panadestein.github.io/blog/posts/mp.html)
 * [2025-06-27, 06:14:06](https://news.ycombinator.com/item?id=44394114) - [Uv and Ray: Pain-Free Python Dependencies in Clusters](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
 * [2025-06-27, 06:07:05](https://news.ycombinator.com/item?id=44394085) - [Timeline of US Class I Railroads Since 1977](https://en.wikipedia.org/wiki/Timeline_of_Class_I_railroads_(1977%E2%80%93present))
 * [2025-06-27, 06:05:15](https://news.ycombinator.com/item?id=44394070) - [Apple Just Patented an Image Sensor with 20 Stops of Dynamic Range](https://ymcinema.com/2025/06/25/apple-just-patented-an-image-sensor-with-20-stops-of-dynamic-range/)
