@@ -21,6 +21,7 @@
 * [2025-06-23, 18:37:47](https://news.ycombinator.com/item?id=44358697) - [Ford Will Keep Battery Factory Even If Republicans Ax Tax Break](https://www.nytimes.com/2025/06/23/business/ford-battery-factory-electric-vehicles.html)
 * [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358668) - [2025 Iberia Blackout Report](https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28)
 * [2025-06-23, 18:34:36](https://news.ycombinator.com/item?id=44358667) - [Howdy – Windows Hello style facial authentication for Linux](https://github.com/boltgolt/howdy)
+* [2025-06-23, 18:19:47](https://news.ycombinator.com/item?id=44358535) - [Apple Research unearthed forgotten AI technique and using it to generate images](https://9to5mac.com/2025/06/23/apple-ai-image-model-research-tarflow-starflow/)
 * [2025-06-23, 18:18:11](https://news.ycombinator.com/item?id=44358524) - [Judge denies creating \"mass surveillance program\" harming all ChatGPT users](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/)
 * [2025-06-23, 18:02:33](https://news.ycombinator.com/item?id=44358390) - [PicoGUS gets CD-ROM emulation](https://github.com/polpo/picogus/releases/tag/v3.0.0)
 * [2025-06-23, 17:38:08](https://news.ycombinator.com/item?id=44358148) - [Ambient Garden](https://ambient.garden)
