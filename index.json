@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-27, 05:00:41",
+      "https://news.ycombinator.com/item?id=44393817"
+    ],
+    [
+      "XSLT",
+      "https://github.com/pacocoursey/xslt"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 04:39:02",
+      "https://news.ycombinator.com/item?id=44393749"
+    ],
+    [
+      "Denmark to tackle deepfakes by giving people copyright to their own features",
+      "https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 03:51:26",
       "https://news.ycombinator.com/item?id=44393547"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44393349"
     ],
     [
-      "Judge rejects Meta's claim that torrenting is \"irrelevant\" in AI copyright case",
+      "Judge rejects Meta's claim that torrenting is “irrelevant” in AI copyright case",
       "https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "Kea 3.0, our first LTS version",
       "https://www.isc.org/blogs/kea-3-0/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 20:06:28",
-      "https://news.ycombinator.com/item?id=44390781"
-    ],
-    [
-      "Starcloud can’t put a data centre in space at $8.2M in one Starship",
-      "https://angadh.com/space-data-centers-1"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Show HN: Magnitude – Open-source AI browser automation framework",
       "https://github.com/magnitudedev/magnitude"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 17:36:04",
-      "https://news.ycombinator.com/item?id=44389497"
-    ],
-    [
-      "Shifts in diatom and dinoflagellate biomass in the North Atlantic over 6 decades",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323675"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-06-23, 21:53:29",
+      "https://news.ycombinator.com/item?id=44360558"
+    ],
+    [
+      "Bogong moths use a stellar compass for long-distance navigation at night",
+      "https://www.nature.com/articles/s41586-025-09135-3"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 18:19:47",
       "https://news.ycombinator.com/item?id=44358535"
     ],
@@ -287,16 +297,6 @@
     [
       "Typr – TUI typing test with a word selection algorithm inspired by keybr",
       "https://github.com/Sakura-sx/typr"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 10:29:42",
-      "https://news.ycombinator.com/item?id=44345681"
-    ],
-    [
-      "Writing a basic Linux device driver when you know nothing about Linux drivers",
-      "https://crescentro.se/posts/writing-drivers/"
     ]
   ]
 ]
