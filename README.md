@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-27, 06:47:29](https://news.ycombinator.com/item?id=44394282) - [New EU rules on digital accessibility to come into force](https://www.rte.ie/news/technology/2025/0627/1520552-digital-accessibility/)
 * [2025-06-27, 06:14:06](https://news.ycombinator.com/item?id=44394114) - [Uv and Ray: Pain-Free Python Dependencies in Clusters](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
 * [2025-06-27, 06:01:37](https://news.ycombinator.com/item?id=44394051) - [Show HN: Sick of emailing yourself stuff? me too](https://github.com/sirbread/sink)
 * [2025-06-27, 05:00:41](https://news.ycombinator.com/item?id=44393817) - [XSLT](https://github.com/pacocoursey/xslt)
@@ -7,7 +8,6 @@
 * [2025-06-27, 03:51:26](https://news.ycombinator.com/item?id=44393547) - [Biomolecular shifts occur in our 40s and 60s (2024)](https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html)
 * [2025-06-27, 02:55:52](https://news.ycombinator.com/item?id=44393349) - [Judge rejects Meta's claim that torrenting is “irrelevant” in AI copyright case](https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/)
 * [2025-06-27, 02:02:22](https://news.ycombinator.com/item?id=44393160) - [A lumberjack created more than 200 sculptures in Wisconsin's Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
-* [2025-06-26, 21:20:27](https://news.ycombinator.com/item?id=44391535) - [Show HN: PRSS Site Creator – Create Blogs and Websites from Your Desktop](https://prss.co/)
 * [2025-06-26, 20:26:33](https://news.ycombinator.com/item?id=44390962) - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
 * [2025-06-26, 20:01:28](https://news.ycombinator.com/item?id=44390740) - [Matrix v1.15](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
 * [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
