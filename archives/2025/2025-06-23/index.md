@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
 * [2025-06-23, 23:53:20](https://news.ycombinator.com/item?id=44361430) - [U.S. Chemical Safety Board Could be Eliminated](https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated)
+* [2025-06-23, 23:35:54](https://news.ycombinator.com/item?id=44361326) - [One Architect's Quest to Save Mumbai's Heritage from Disappearing](https://www.bloomberg.com/news/features/2025-06-18/architect-abha-narain-lambah-on-conserving-gateway-of-india-mumbai-heritage)
 * [2025-06-23, 23:34:04](https://news.ycombinator.com/item?id=44361308) - [Scientists use bacteria to turn plastic waste into paracetamol](https://www.theguardian.com/science/2025/jun/23/scientists-use-e-coli-bacteria-to-turn-plastic-waste-into-paracetamol-painkiller)
 * [2025-06-23, 23:31:13](https://news.ycombinator.com/item?id=44361288) - [I Switched from Flutter and Rust to Rust and Egui](https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/)
 * [2025-06-23, 23:08:11](https://news.ycombinator.com/item?id=44361130) - [How many PhDs does world need? Doctoral graduates outnumber academia jobs](https://www.nature.com/articles/d41586-025-01855-w)
