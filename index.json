@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-06-26, 20:06:28",
+      "https://news.ycombinator.com/item?id=44390781"
+    ],
+    [
+      "Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+",
+      "https://angadh.com/space-data-centers-1"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 20:01:28",
       "https://news.ycombinator.com/item?id=44390740"
     ],
@@ -77,16 +87,6 @@
     [
       "\"Why is the Rust compiler so slow?\"",
       "https://sharnoff.io/blog/why-rust-compiler-slow"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 19:23:40",
-      "https://news.ycombinator.com/item?id=44390454"
-    ],
-    [
-      "US economy shrank 0.5% in the first quarter, worse than earlier estimates",
-      "https://apnews.com/article/economy-tariffs-trump-gdp-shrink-86d1f15e66c646ac4ce88ffc0a956942"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-06-23, 09:30:02",
+      "https://news.ycombinator.com/item?id=44353868"
+    ],
+    [
+      "Fault Tolerant Llama training – PyTorch blog",
+      "https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 08:27:03",
       "https://news.ycombinator.com/item?id=44353576"
     ],
     [
       "Typr – TUI typing test with a word selection algorithm inspired by keybr",
       "https://github.com/Sakura-sx/typr"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 10:29:42",
-      "https://news.ycombinator.com/item?id=44345681"
-    ],
-    [
-      "Writing a basic Linux device driver when you know nothing about Linux drivers",
-      "https://crescentro.se/posts/writing-drivers/"
     ]
   ]
 ]
