@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-27, 17:38:08](https://news.ycombinator.com/item?id=44398710) - [US Supreme Court limits federal judges' power to block Trump orders](https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus)
 * [2025-06-27, 17:02:17](https://news.ycombinator.com/item?id=44398390) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 17:00:16](https://news.ycombinator.com/item?id=44398370) - [Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
 * [2025-06-27, 16:09:14](https://news.ycombinator.com/item?id=44397923) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
@@ -15,7 +16,6 @@
 * [2025-06-27, 06:01:37](https://news.ycombinator.com/item?id=44394051) - [Show HN: Sink – Sync any directory with any device on your local network](https://github.com/sirbread/sink)
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 05:00:41](https://news.ycombinator.com/item?id=44393817) - [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
-* [2025-06-27, 02:02:22](https://news.ycombinator.com/item?id=44393160) - [A lumberjack created more than 200 sculptures in Wisconsin's Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
 * [2025-06-26, 20:06:28](https://news.ycombinator.com/item?id=44390781) - [Starcloud can’t put a data centre in space at $8.2M in one Starship](https://angadh.com/space-data-centers-1)
 * [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
 * [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [Why is the Rust compiler so slow?](https://sharnoff.io/blog/why-rust-compiler-slow)

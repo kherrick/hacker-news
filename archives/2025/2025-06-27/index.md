@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 17:38:08](https://news.ycombinator.com/item?id=44398710) - [US Supreme Court limits federal judges' power to block Trump orders](https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus)
 * [2025-06-27, 17:02:17](https://news.ycombinator.com/item?id=44398390) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 17:00:16](https://news.ycombinator.com/item?id=44398370) - [Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
 * [2025-06-27, 16:09:14](https://news.ycombinator.com/item?id=44397923) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
