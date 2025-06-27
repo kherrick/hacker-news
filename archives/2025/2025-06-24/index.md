@@ -62,6 +62,7 @@
 * [2025-06-24, 05:34:24](https://news.ycombinator.com/item?id=44363106) - [The NO FAKES Act Has Changed – and It's So Much Worse](https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse)
 * [2025-06-24, 05:24:55](https://news.ycombinator.com/item?id=44363072) - [Harvard hired researcher to uncover slavery ties, fires him for finding slaves](https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved)
 * [2025-06-24, 05:21:48](https://news.ycombinator.com/item?id=44363054) - [Microsoft confirms Windows 11 automatic deletions of System Restore points](https://www.forbes.com/sites/davidphelan/2025/06/23/microsoft-confirms-windows-11-automatic-deletions-take-action-now-to-protect-yourself/)
+* [2025-06-24, 03:27:48](https://news.ycombinator.com/item?id=44362628) - [A New Kind of Computer (April 2025)](https://lightmatter.co/blog/a-new-kind-of-computer/)
 * [2025-06-24, 02:13:02](https://news.ycombinator.com/item?id=44362272) - [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
 * [2025-06-24, 02:11:03](https://news.ycombinator.com/item?id=44362263) - [Breakthrough cancer test predicts whether chemotherapy will work](https://www.telegraph.co.uk/news/2025/06/23/cancer-test-predicts-whether-chemotherapy-will-work/)
 * [2025-06-24, 01:54:12](https://news.ycombinator.com/item?id=44362165) - [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
