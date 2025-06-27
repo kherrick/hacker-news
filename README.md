@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-27, 20:12:00](https://news.ycombinator.com/item?id=44399854) - [A Brief History of Children Sent Through the Mail](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
 * [2025-06-27, 19:55:26](https://news.ycombinator.com/item?id=44399757) - [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
+* [2025-06-27, 17:38:08](https://news.ycombinator.com/item?id=44398710) - [US Supreme Court limits federal judges' power to block Trump orders](https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus)
 * [2025-06-27, 17:02:17](https://news.ycombinator.com/item?id=44398390) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 17:00:16](https://news.ycombinator.com/item?id=44398370) - [Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
 * [2025-06-27, 16:09:14](https://news.ycombinator.com/item?id=44397923) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
@@ -12,7 +14,6 @@
 * [2025-06-27, 11:06:43](https://news.ycombinator.com/item?id=44395782) - [Copilot Chat in VS Code is now open source](https://github.com/microsoft/vscode-copilot-chat)
 * [2025-06-27, 08:28:28](https://news.ycombinator.com/item?id=44394929) - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
 * [2025-06-27, 07:05:58](https://news.ycombinator.com/item?id=44394386) - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
-* [2025-06-27, 06:29:51](https://news.ycombinator.com/item?id=44394201) - [Blazing Matrix Products](https://panadestein.github.io/blog/posts/mp.html)
 * [2025-06-27, 06:01:37](https://news.ycombinator.com/item?id=44394051) - [Show HN: Sink – Sync any directory with any device on your local network](https://github.com/sirbread/sink)
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 05:00:41](https://news.ycombinator.com/item?id=44393817) - [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
@@ -27,7 +28,6 @@
 * [2025-06-23, 23:35:54](https://news.ycombinator.com/item?id=44361326) - [One Architect's Quest to Save Mumbai's Heritage from Disappearing](https://www.bloomberg.com/news/features/2025-06-18/architect-abha-narain-lambah-on-conserving-gateway-of-india-mumbai-heritage)
 * [2025-06-23, 23:31:13](https://news.ycombinator.com/item?id=44361288) - [I Switched from Flutter and Rust to Rust and Egui](https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/)
 * [2025-06-23, 20:00:24](https://news.ycombinator.com/item?id=44359454) - [A Lisp adventure on the calm waters of the dead C (2021)](https://mihaiolteanu.me/language-abstractions)
-* [2025-06-23, 18:10:19](https://news.ycombinator.com/item?id=44358448) - [Calculating the Fibonacci numbers on GPU](https://veitner.bearblog.dev/calculating-the-fibonacci-numbers-on-gpu/)
 * [2025-06-23, 14:56:02](https://news.ycombinator.com/item?id=44356456) - [Sailing the fjords like the Vikings yields unexpected insights](https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/)
 * [2025-06-23, 14:25:56](https://news.ycombinator.com/item?id=44356130) - [Whitesmiths C compiler: One of the earliest commercial C compilers available](https://github.com/hansake/Whitesmiths-C-compiler)
 
