@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-27, 21:33:43](https://news.ycombinator.com/item?id=44400441) - [Tesla has been ordered to stop \"deceptive practices\" about driving ability](https://www.latintimes.com/tesla-ordered-stop-deceptive-practices-cars-self-driving-capabilities-france-face-thousands-585563)
 * [2025-06-27, 21:01:03](https://news.ycombinator.com/item?id=44400190) - [Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team)
 * [2025-06-27, 20:50:10](https://news.ycombinator.com/item?id=44400105) - [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
 * [2025-06-27, 20:12:00](https://news.ycombinator.com/item?id=44399854) - [A Brief History of Children Sent Through the Mail](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
@@ -24,7 +25,6 @@
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 00:27:26](https://news.ycombinator.com/item?id=44392776) - [Slightly better named character reference tokenization than Chrome, Safari, FF](https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/)
 * [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
-* [2025-06-24, 13:38:17](https://news.ycombinator.com/item?id=44366142) - [Show HN: I built Hispi, an app to design custom jewellery](https://hispi.app)
 * [2025-06-24, 12:23:48](https://news.ycombinator.com/item?id=44365404) - [Glass nanostructures reflect nearly all visible light, challenging assumptions](https://phys.org/news/2025-06-glass-nanostructures-visible-photonics-assumptions.html)
 * [2025-06-24, 08:19:49](https://news.ycombinator.com/item?id=44363948) - [Show HN: Do you know RGB?](https://maxwellito.github.io/do-you-know-rgb/)
 * [2025-06-24, 03:27:48](https://news.ycombinator.com/item?id=44362628) - [A New Kind of Computer (April 2025)](https://lightmatter.co/blog/a-new-kind-of-computer/)

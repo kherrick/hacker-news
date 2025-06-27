@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 21:33:43](https://news.ycombinator.com/item?id=44400441) - [Tesla has been ordered to stop \"deceptive practices\" about driving ability](https://www.latintimes.com/tesla-ordered-stop-deceptive-practices-cars-self-driving-capabilities-france-face-thousands-585563)
 * [2025-06-27, 21:24:38](https://news.ycombinator.com/item?id=44400378) - [Supreme Court overturns 5th Circuit ruling that upended Universal Service Fund](https://arstechnica.com/tech-policy/2025/06/supreme-court-saves-universal-service-fund-rules-fcc-fee-is-not-illegal-tax/)
 * [2025-06-27, 21:01:03](https://news.ycombinator.com/item?id=44400190) - [Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team)
 * [2025-06-27, 20:50:10](https://news.ycombinator.com/item?id=44400105) - [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
