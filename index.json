@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-27, 14:35:04",
+      "https://news.ycombinator.com/item?id=44397124"
+    ],
+    [
+      "Qwen VLo: From \"Understanding\" the World to \"Depicting\" It",
+      "https://qwenlm.github.io/blog/qwen-vlo/"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 13:06:54",
       "https://news.ycombinator.com/item?id=44396518"
     ],
@@ -27,6 +37,26 @@
     [
       "The Power and Beauty of Incrementalism",
       "https://supernuclear.substack.com/p/the-power-and-beauty-of-incrementalism"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 11:10:54",
+      "https://news.ycombinator.com/item?id=44395810"
+    ],
+    [
+      "Show HN: PILF, The ultimate solution to catastrophic oblivion on AI models",
+      "https://github.com/dmf-archive/PILF"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 11:09:42",
+      "https://news.ycombinator.com/item?id=44395799"
+    ],
+    [
+      "My Lights Run on Bash – Tomasz Kramkowski",
+      "https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-06-26, 18:11:30",
-      "https://news.ycombinator.com/item?id=44389816"
-    ],
-    [
-      "E.A. Spitzka's Studies of Exceptional and Deviant Brains (2024)",
-      "https://www.huntington.org/verso/ea-spitzkas-studies-exceptional-and-deviant-brains"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 14:32:28",
       "https://news.ycombinator.com/item?id=44387828"
     ],
@@ -217,16 +237,6 @@
     [
       "I Switched from Flutter and Rust to Rust and Egui",
       "https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 21:53:29",
-      "https://news.ycombinator.com/item?id=44360558"
-    ],
-    [
-      "Bogong moths use a stellar compass for long-distance navigation at night",
-      "https://www.nature.com/articles/s41586-025-09135-3"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Whitesmiths C compiler: One of the earliest commercial C compilers available",
       "https://github.com/hansake/Whitesmiths-C-compiler"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 08:27:03",
-      "https://news.ycombinator.com/item?id=44353576"
-    ],
-    [
-      "Typr – TUI typing test with a word selection algorithm inspired by keybr",
-      "https://github.com/Sakura-sx/typr"
     ]
   ]
 ]
