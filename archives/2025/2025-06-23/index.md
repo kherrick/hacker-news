@@ -6,6 +6,7 @@
 
 * [2025-06-23, 23:53:20](https://news.ycombinator.com/item?id=44361430) - [U.S. Chemical Safety Board Could be Eliminated](https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated)
 * [2025-06-23, 23:34:04](https://news.ycombinator.com/item?id=44361308) - [Scientists use bacteria to turn plastic waste into paracetamol](https://www.theguardian.com/science/2025/jun/23/scientists-use-e-coli-bacteria-to-turn-plastic-waste-into-paracetamol-painkiller)
+* [2025-06-23, 23:31:13](https://news.ycombinator.com/item?id=44361288) - [I Switched from Flutter and Rust to Rust and Egui](https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/)
 * [2025-06-23, 23:08:11](https://news.ycombinator.com/item?id=44361130) - [How many PhDs does world need? Doctoral graduates outnumber academia jobs](https://www.nature.com/articles/d41586-025-01855-w)
 * [2025-06-23, 22:22:47](https://news.ycombinator.com/item?id=44360806) - [Skip the exit interview when you leave your job](https://blog.petdance.com/2017/03/31/skip-the-exit-interview-when-you-leave-your-job/)
 * [2025-06-23, 22:03:29](https://news.ycombinator.com/item?id=44360651) - [Getting by on the Generosity of Strangers in Japan](https://theworld.org/stories/2025/06/20/out-of-eden-walk-getting-by-on-the-generosity-of-strangers)
