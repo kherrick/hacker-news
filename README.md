@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-27, 21:24:38](https://news.ycombinator.com/item?id=44400378) - [Supreme Court overturns 5th Circuit ruling that upended Universal Service Fund](https://arstechnica.com/tech-policy/2025/06/supreme-court-saves-universal-service-fund-rules-fcc-fee-is-not-illegal-tax/)
 * [2025-06-27, 21:01:03](https://news.ycombinator.com/item?id=44400190) - [Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team)
 * [2025-06-27, 20:50:10](https://news.ycombinator.com/item?id=44400105) - [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
 * [2025-06-27, 20:12:00](https://news.ycombinator.com/item?id=44399854) - [A Brief History of Children Sent Through the Mail](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
@@ -19,6 +18,7 @@
 * [2025-06-27, 14:35:04](https://news.ycombinator.com/item?id=44397124) - [Qwen VLo: From \"Understanding\" the World to \"Depicting\" It](https://qwenlm.github.io/blog/qwen-vlo/)
 * [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 * [2025-06-27, 11:06:43](https://news.ycombinator.com/item?id=44395782) - [Copilot Chat in VS Code is now open source](https://github.com/microsoft/vscode-copilot-chat)
+* [2025-06-27, 08:28:28](https://news.ycombinator.com/item?id=44394929) - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
 * [2025-06-27, 07:05:58](https://news.ycombinator.com/item?id=44394386) - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
 * [2025-06-27, 06:01:37](https://news.ycombinator.com/item?id=44394051) - [Show HN: Sink – Sync any directory with any device on your local network](https://github.com/sirbread/sink)
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
