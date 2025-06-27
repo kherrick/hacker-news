@@ -159,7 +159,7 @@
             <h4>
               <span>2025-06-27 @ 20:50:10</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44400105"
                   >Comments</a
@@ -180,7 +180,7 @@
             <h4>
               <span>2025-06-27 @ 20:36:51</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44400025"
                   >Comments</a
@@ -201,11 +201,11 @@
             <h4>
               <span>2025-06-27 @ 20:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44399854"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -222,111 +222,13 @@
             <h4>
               <span>2025-06-27 @ 19:55:26</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44399757"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44399666">
-          <h3>
-            <a class="item" href="https://shouldiuse.dev/"
-              >Show HN: Shouldiuse.dev – Software dependency health checker</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-27 @ 19:42:21</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44399666"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Whether we like it or not – we are adding dependencies sooner or
-                later. And it's arguably good practice to check a new dependency
-                beforehand: Is it maintained? By whom? How many issues does it
-                have and how many of those are bugs? Are they being fixed?
-                What's on the roadmap? What's the release frequency and how
-                often do APIs break?
-              </p>
-              <p>
-                One of our favorite solutions that already exist to answer such
-                questions is the OpenSSF Scorecard project (<a
-                  href="https://github.com/ossf/scorecard"
-                  >https://github.com/ossf/scorecard</a
-                >) – we use this ourselves and can only recommend it.
-              </p>
-              <p>
-                We built shouldiuse.dev around it to make results accessible as
-                a website, and used the opportunity to dive deep into heavily
-                LLM-assisted coding for the first time in a professional
-                project.
-              </p>
-              <p>
-                Three people (devs and non-devs) each started vibe-coding an
-                initial prototypes, one using v0, one using lovable and one
-                using Cursor. At first blown away by how fast we were able to
-                generate these and how great there were looking, we soon ran
-                into issues merging different ideas as there were multiple
-                different web frameworks and versions flying around. The most
-                work on the frontend definitely went into getting the details
-                and small adaptions right.
-              </p>
-              <p>
-                In parallel, on the backend we started to write a Go application
-                that uses the ossf/scorecard library to do a lot of the checks
-                we want. To also play around with AI on that end, we
-                intentionally made heavy use of Copilot and tried around with
-                different models and prompts. We also added more metrics to the
-                dependency check that we gather via GitHub API, and finally
-                generate textual summaries via OpenAI.
-              </p>
-              <p>
-                The Prompt to generate a final textual recommendation consists
-                of:
-              </p>
-              <p>
-                * A header stating the role, capabilities and limitations, and
-                the expected response format (JSON and no lists/bullet points) –
-                We also tell it to be critical, objective and give short and
-                concise answers. * The result of the scorecard check *
-                Additional community-related data * The questions that are being
-                shown in the FAQ section – The answers to those are also
-                generated by the LLM.
-              </p>
-              <p>
-                Since such a check involves heavy use of the GitHub API, we
-                require users to input a GitHub personal access token when
-                requesting a check. The first time a repository is checked on
-                shouldiuse.dev it will take a few seconds, but then the results
-                are stored in a postgres for faster retrieval later on.
-              </p>
-              <p>
-                For now it only works for public GitHub repos, but we might add
-                other platforms if there is interest.
-              </p>
-              <p>
-                We also added a remote MCP server with built-in authentication,
-                so you can directly access <i>shouldiuse</i> from your IDE and
-                automatically check new dependencies anytime a coding assistant
-                introduces one to ensure that only safe dependencies are added
-                to the project.
-              </p>
-              <p>
-                What started as a fun internal experiment quickly surprised us
-                with how useful it turned out to be. We didn’t plan to release
-                it publicly, but we think might be useful for other devs and
-                therefore we wanted to share it here. Any feedback is welcome!
-              </p>
-            </div>
           </section>
         </section>
         <section id="44399234">
@@ -339,11 +241,11 @@
             <h4>
               <span>2025-06-27 @ 18:49:57</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44399234"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -358,7 +260,7 @@
             <h4>
               <span>2025-06-27 @ 18:45:05</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44399193"
                   >Comments</a
@@ -380,7 +282,7 @@
             <h4>
               <span>2025-06-27 @ 18:43:41</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44399186"
                   >Comments</a
@@ -402,11 +304,11 @@
             <h4>
               <span>2025-06-27 @ 17:44:32</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44398756"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -424,11 +326,11 @@
             <h4>
               <span>2025-06-27 @ 17:38:08</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44398710"
                   >Comments</a
-                ><span class="descendants">: 327</span></span
+                ><span class="descendants">: 343</span></span
               >
             </h4>
           </section>
@@ -445,11 +347,11 @@
             <h4>
               <span>2025-06-27 @ 17:02:17</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44398390"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -467,11 +369,11 @@
             <h4>
               <span>2025-06-27 @ 16:09:14</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44397923"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -488,7 +390,7 @@
             <h4>
               <span>2025-06-27 @ 15:08:26</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44397367"
                   >Comments</a
@@ -513,7 +415,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44397168"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -528,11 +430,11 @@
             <h4>
               <span>2025-06-27 @ 14:35:04</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44397124"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -548,7 +450,7 @@
             <h4>
               <span>2025-06-27 @ 13:06:54</span
               ><span class="points-container"
-                >Points: <span class="points">919</span></span
+                >Points: <span class="points">926</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44396518"
                   >Comments</a
@@ -588,7 +490,7 @@
             <h4>
               <span>2025-06-27 @ 11:06:43</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">141</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44395782"
                   >Comments</a
@@ -607,7 +509,7 @@
             <h4>
               <span>2025-06-27 @ 08:28:28</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44394929"
                   >Comments</a
@@ -624,7 +526,7 @@
             <h4>
               <span>2025-06-27 @ 07:05:58</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44394386"
                   >Comments</a
@@ -644,11 +546,11 @@
             <h4>
               <span>2025-06-27 @ 06:01:37</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44394051"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
             <div class="text">
@@ -689,7 +591,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44393942"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -707,11 +609,11 @@
             <h4>
               <span>2025-06-27 @ 00:27:26</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44392776"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -728,11 +630,32 @@
             <h4>
               <span>2025-06-26 @ 19:31:29</span
               ><span class="points-container"
-                >Points: <span class="points">351</span></span
+                >Points: <span class="points">352</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44390501"
                   >Comments</a
                 ><span class="descendants">: 60</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44390452">
+          <h3>
+            <a
+              class="item"
+              href="https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/"
+              >The time is right for a DOM templating API</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-26 @ 19:23:28</span
+              ><span class="points-container"
+                >Points: <span class="points">199</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44390452"
+                  >Comments</a
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -772,11 +695,11 @@
             <h4>
               <span>2025-06-24 @ 12:23:48</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44365404"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -791,11 +714,11 @@
             <h4>
               <span>2025-06-24 @ 08:19:49</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44363948"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -833,7 +756,7 @@
             <h4>
               <span>2025-06-23 @ 14:56:02</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44356456"
                   >Comments</a
