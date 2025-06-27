@@ -129,6 +129,24 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44400190">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team"
+              >Spark AI (YC W24) is hiring a full-stack engineer in SF (founding
+              team)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-27 @ 21:01:03</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44400105">
           <h3>
             <a
@@ -141,7 +159,7 @@
             <h4>
               <span>2025-06-27 @ 20:50:10</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44400105"
                   >Comments</a
@@ -162,11 +180,11 @@
             <h4>
               <span>2025-06-27 @ 20:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44399854"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -183,9 +201,128 @@
             <h4>
               <span>2025-06-27 @ 19:55:26</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44399757"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44399666">
+          <h3>
+            <a class="item" href="https://shouldiuse.dev/"
+              >Show HN: Shouldiuse.dev – Software dependency health checker</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-27 @ 19:42:21</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44399666"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Whether we like it or not – we are adding dependencies sooner or
+                later. And it's arguably good practice to check a new dependency
+                beforehand: Is it maintained? By whom? How many issues does it
+                have and how many of those are bugs? Are they being fixed?
+                What's on the roadmap? What's the release frequency and how
+                often do APIs break?
+              </p>
+              <p>
+                One of our favorite solutions that already exist to answer such
+                questions is the OpenSSF Scorecard project (<a
+                  href="https://github.com/ossf/scorecard"
+                  >https://github.com/ossf/scorecard</a
+                >) – we use this ourselves and can only recommend it.
+              </p>
+              <p>
+                We built shouldiuse.dev around it to make results accessible as
+                a website, and used the opportunity to dive deep into heavily
+                LLM-assisted coding for the first time in a professional
+                project.
+              </p>
+              <p>
+                Three people (devs and non-devs) each started vibe-coding an
+                initial prototypes, one using v0, one using lovable and one
+                using Cursor. At first blown away by how fast we were able to
+                generate these and how great there were looking, we soon ran
+                into issues merging different ideas as there were multiple
+                different web frameworks and versions flying around. The most
+                work on the frontend definitely went into getting the details
+                and small adaptions right.
+              </p>
+              <p>
+                In parallel, on the backend we started to write a Go application
+                that uses the ossf/scorecard library to do a lot of the checks
+                we want. To also play around with AI on that end, we
+                intentionally made heavy use of Copilot and tried around with
+                different models and prompts. We also added more metrics to the
+                dependency check that we gather via GitHub API, and finally
+                generate textual summaries via OpenAI.
+              </p>
+              <p>
+                The Prompt to generate a final textual recommendation consists
+                of:
+              </p>
+              <p>
+                * A header stating the role, capabilities and limitations, and
+                the expected response format (JSON and no lists/bullet points) –
+                We also tell it to be critical, objective and give short and
+                concise answers. * The result of the scorecard check *
+                Additional community-related data * The questions that are being
+                shown in the FAQ section – The answers to those are also
+                generated by the LLM.
+              </p>
+              <p>
+                Since such a check involves heavy use of the GitHub API, we
+                require users to input a GitHub personal access token when
+                requesting a check. The first time a repository is checked on
+                shouldiuse.dev it will take a few seconds, but then the results
+                are stored in a postgres for faster retrieval later on.
+              </p>
+              <p>
+                For now it only works for public GitHub repos, but we might add
+                other platforms if there is interest.
+              </p>
+              <p>
+                We also added a remote MCP server with built-in authentication,
+                so you can directly access <i>shouldiuse</i> from your IDE and
+                automatically check new dependencies anytime a coding assistant
+                introduces one to ensure that only safe dependencies are added
+                to the project.
+              </p>
+              <p>
+                What started as a fun internal experiment quickly surprised us
+                with how useful it turned out to be. We didn’t plan to release
+                it publicly, but we think might be useful for other devs and
+                therefore we wanted to share it here. Any feedback is welcome!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44399416">
+          <h3>
+            <a
+              class="item"
+              href="https://hugovk.dev/blog/2025/run-coverage-on-tests/"
+              >Run Coverage on Tests</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-27 @ 19:10:50</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44399416"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
@@ -202,7 +339,7 @@
             <h4>
               <span>2025-06-27 @ 18:49:57</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44399234"
                   >Comments</a
@@ -221,7 +358,7 @@
             <h4>
               <span>2025-06-27 @ 18:45:05</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44399193"
                   >Comments</a
@@ -265,11 +402,11 @@
             <h4>
               <span>2025-06-27 @ 17:38:08</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44398710"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -286,27 +423,11 @@
             <h4>
               <span>2025-06-27 @ 17:02:17</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44398390"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44398370">
-          <h3>
-            <a class="item" href="https://bitmovin.com/careers/7943569002/"
-              >Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in
-              Denver</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-27 @ 17:00:16</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -324,11 +445,11 @@
             <h4>
               <span>2025-06-27 @ 16:09:14</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44397923"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -345,11 +466,11 @@
             <h4>
               <span>2025-06-27 @ 15:08:26</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44397367"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -366,7 +487,7 @@
             <h4>
               <span>2025-06-27 @ 14:42:04</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44397168"
                   >Comments</a
@@ -385,7 +506,7 @@
             <h4>
               <span>2025-06-27 @ 14:35:04</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44397124"
                   >Comments</a
@@ -405,11 +526,11 @@
             <h4>
               <span>2025-06-27 @ 13:06:54</span
               ><span class="points-container"
-                >Points: <span class="points">865</span></span
+                >Points: <span class="points">878</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44396518"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
             <div class="text">
@@ -449,7 +570,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44395799"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -466,11 +587,11 @@
             <h4>
               <span>2025-06-27 @ 11:06:43</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44395782"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -485,11 +606,11 @@
             <h4>
               <span>2025-06-27 @ 08:28:28</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44394929"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -502,7 +623,7 @@
             <h4>
               <span>2025-06-27 @ 07:05:58</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44394386"
                   >Comments</a
@@ -563,30 +684,11 @@
             <h4>
               <span>2025-06-27 @ 05:31:56</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44393942"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44393817">
-          <h3>
-            <a class="item" href="https://github.com/pacocoursey/xslt"
-              >XSLT – Native, zero-config build system for the Web</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-27 @ 05:00:41</span
-              ><span class="points-container"
-                >Points: <span class="points">369</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44393817"
-                  >Comments</a
-                ><span class="descendants">: 302</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -604,7 +706,7 @@
             <h4>
               <span>2025-06-27 @ 00:27:26</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44392776"
                   >Comments</a
@@ -629,49 +731,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44390501"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44390488">
-          <h3>
-            <a
-              class="item"
-              href="https://sharnoff.io/blog/why-rust-compiler-slow"
-              >Why is the Rust compiler so slow?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-26 @ 19:29:32</span
-              ><span class="points-container"
-                >Points: <span class="points">269</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44390488"
-                  >Comments</a
-                ><span class="descendants">: 355</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44390452">
-          <h3>
-            <a
-              class="item"
-              href="https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/"
-              >The time is right for a DOM templating API</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-26 @ 19:23:28</span
-              ><span class="points-container"
-                >Points: <span class="points">198</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44390452"
-                  >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -686,11 +746,11 @@
             <h4>
               <span>2025-06-24 @ 13:38:17</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44366142"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -700,6 +760,28 @@
               Jewellery Quarter but I think just designing a ring is pretty
               nice.
             </div>
+          </section>
+        </section>
+        <section id="44365404">
+          <h3>
+            <a
+              class="item"
+              href="https://phys.org/news/2025-06-glass-nanostructures-visible-photonics-assumptions.html"
+              >Glass nanostructures reflect nearly all visible light,
+              challenging assumptions</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-06-24 @ 12:23:48</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44365404"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="44363948">
@@ -712,11 +794,11 @@
             <h4>
               <span>2025-06-24 @ 08:19:49</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44363948"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -733,7 +815,7 @@
             <h4>
               <span>2025-06-24 @ 03:27:48</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44362628"
                   >Comments</a
@@ -754,7 +836,7 @@
             <h4>
               <span>2025-06-23 @ 14:56:02</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44356456"
                   >Comments</a
@@ -776,7 +858,7 @@
             <h4>
               <span>2025-06-23 @ 14:25:56</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44356130"
                   >Comments</a
