@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-06-26, 23:04:30",
-      "https://news.ycombinator.com/item?id=44392304"
+      "2025-06-27, 02:02:22",
+      "https://news.ycombinator.com/item?id=44393160"
     ],
     [
-      "Save your disk, write files directly into RAM with /dev/shm",
-      "https://hiandrewquinn.github.io/til-site/posts/save-your-disk-write-files-directly-into-ram-with-dev-shm/"
+      "A lumberjack created more than 200 sculptures in Wisconsin's Northwoods",
+      "https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/"
     ]
   ],
   [
     [
-      "2025-06-26, 21:35:58",
-      "https://news.ycombinator.com/item?id=44391711"
+      "2025-06-26, 23:00:11",
+      "https://news.ycombinator.com/item?id=44392274"
     ],
     [
-      "Senators reintroduce App Store bill to rein in 'gatekeeper power'",
-      "https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/"
+      "Thomas Aquinas – The world is divine",
+      "https://ralphammer.com/thomas-aquinas-the-world-is-divine/"
     ]
   ],
   [
@@ -31,21 +31,11 @@
   ],
   [
     [
-      "2025-06-26, 20:22:54",
-      "https://news.ycombinator.com/item?id=44390915"
-    ],
-    [
-      "Robots that learn",
-      "https://openai.com/index/robots-that-learn/"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 20:06:28",
       "https://news.ycombinator.com/item?id=44390781"
     ],
     [
-      "Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+",
+      "Starcloud can’t put a data centre in space at $8.2M in one Starship",
       "https://angadh.com/space-data-centers-1"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44390488"
     ],
     [
-      "\"Why is the Rust compiler so slow?\"",
+      "“Why is the Rust compiler so slow?”",
       "https://sharnoff.io/blog/why-rust-compiler-slow"
     ]
   ],
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2025-06-26, 14:40:00",
-      "https://news.ycombinator.com/item?id=44387904"
-    ],
-    [
-      "Access BMC UART on Supermicro X11SSH",
-      "https://github.com/zarhus/zarhusbmc/discussions/3"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 14:32:28",
       "https://news.ycombinator.com/item?id=44387828"
     ],
@@ -197,16 +177,6 @@
     [
       "AlphaGenome: AI for better understanding the genome",
       "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 10:29:34",
-      "https://news.ycombinator.com/item?id=44385981"
-    ],
-    [
-      "Muvera: Making multi-vector retrieval as fast as single-vector search",
-      "https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/"
     ]
   ],
   [
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2025-06-23, 22:01:27",
+      "https://news.ycombinator.com/item?id=44360630"
+    ],
+    [
+      "Collections: Nitpicking Gladiator's Iconic Opening Battle, Part I",
+      "https://acoup.blog/2025/06/06/collections-nitpicking-gladiators-iconic-opening-battle-part-i/"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 17:38:08",
       "https://news.ycombinator.com/item?id=44358148"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2025-06-23, 13:15:43",
+      "https://news.ycombinator.com/item?id=44355518"
+    ],
+    [
+      "Dickinson's Dresses on the Moon",
+      "https://www.theparisreview.org/blog/2025/06/20/dickinsons-dresses-on-the-moon/"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 13:04:26",
       "https://news.ycombinator.com/item?id=44355409"
     ],
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=44353868"
     ],
     [
-      "Fault Tolerant Llama training – PyTorch blog",
+      "Fault Tolerant Llama training",
       "https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Typr – TUI typing test with a word selection algorithm inspired by keybr",
       "https://github.com/Sakura-sx/typr"
+    ]
+  ],
+  [
+    [
+      "2025-06-22, 10:29:42",
+      "https://news.ycombinator.com/item?id=44345681"
+    ],
+    [
+      "Writing a basic Linux device driver when you know nothing about Linux drivers",
+      "https://crescentro.se/posts/writing-drivers/"
     ]
   ]
 ]
