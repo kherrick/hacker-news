@@ -55,6 +55,7 @@
 * [2025-06-24, 09:46:27](https://news.ycombinator.com/item?id=44364406) - [Switching Pip to Uv in a Dockerized Flask / Django App](https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app)
 * [2025-06-24, 09:11:32](https://news.ycombinator.com/item?id=44364216) - [Retrieval Augmented Generation Based on SQLite](https://github.com/ggozad/haiku.rag)
 * [2025-06-24, 09:03:03](https://news.ycombinator.com/item?id=44364186) - [Atuin – Magical Shell History](https://atuin.sh)
+* [2025-06-24, 08:19:49](https://news.ycombinator.com/item?id=44363948) - [Show HN: Do You Know RGB?](https://maxwellito.github.io/do-you-know-rgb/)
 * [2025-06-24, 07:29:08](https://news.ycombinator.com/item?id=44363696) - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
 * [2025-06-24, 06:04:21](https://news.ycombinator.com/item?id=44363262) - [Tell HN: Meta developer account suspended](https://news.ycombinator.com/item?id=44363262)
 * [2025-06-24, 05:34:24](https://news.ycombinator.com/item?id=44363106) - [The NO FAKES Act Has Changed – and It's So Much Worse](https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse)
