@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 14:35:04](https://news.ycombinator.com/item?id=44397124) - [Qwen VLo: From \"Understanding\" the World to \"Depicting\" It](https://qwenlm.github.io/blog/qwen-vlo/)
 * [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 * [2025-06-27, 13:03:10](https://news.ycombinator.com/item?id=44396487) - [The Effect of Noise on Sleep](https://www.empirical.health/blog/effect-of-noise-on-sleep/)
 * [2025-06-27, 12:39:53](https://news.ycombinator.com/item?id=44396342) - [The Power and Beauty of Incrementalism](https://supernuclear.substack.com/p/the-power-and-beauty-of-incrementalism)
 * [2025-06-27, 12:33:25](https://news.ycombinator.com/item?id=44396303) - [Show HN: A Python Language Server, Mypy-compatible](https://zubanls.com/)
 * [2025-06-27, 12:33:03](https://news.ycombinator.com/item?id=44396299) - [Creating a pan-European legal entity, the right way](https://klinger.io/posts/eu-inc)
+* [2025-06-27, 11:10:54](https://news.ycombinator.com/item?id=44395810) - [Show HN: PILF, The ultimate solution to catastrophic oblivion on AI models](https://github.com/dmf-archive/PILF)
+* [2025-06-27, 11:09:42](https://news.ycombinator.com/item?id=44395799) - [My Lights Run on Bash – Tomasz Kramkowski](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
 * [2025-06-27, 10:30:08](https://news.ycombinator.com/item?id=44395602) - [New IQ research shows why smarter people make better decisions](https://phys.org/news/2025-06-iq-smarter-people-decisions.html)
 * [2025-06-27, 10:15:03](https://news.ycombinator.com/item?id=44395523) - [Echo Chamber: A Context-Poisoning Jailbreak That Bypasses LLM Guardrails](https://neuraltrust.ai/blog/echo-chamber-context-poisoning-jailbreak)
 * [2025-06-27, 09:45:55](https://news.ycombinator.com/item?id=44395359) - [Life Expectancy in Europe Compared to the US](https://old.reddit.com/r/dataisbeautiful/comments/1lih4a0/oc_life_expectancy_in_europe_compared_to_the_us/)
