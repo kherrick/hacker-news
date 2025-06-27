@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-27, 09:45:55",
-      "https://news.ycombinator.com/item?id=44395359"
+      "2025-06-27, 10:30:08",
+      "https://news.ycombinator.com/item?id=44395602"
     ],
     [
-      "Life Expectancy in Europe Compared to the US",
-      "https://old.reddit.com/r/dataisbeautiful/comments/1lih4a0/oc_life_expectancy_in_europe_compared_to_the_us/"
+      "New IQ research shows why smarter people make better decisions",
+      "https://phys.org/news/2025-06-iq-smarter-people-decisions.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 10:15:03",
+      "https://news.ycombinator.com/item?id=44395523"
+    ],
+    [
+      "Echo Chamber: A Context-Poisoning Jailbreak That Bypasses LLM Guardrails",
+      "https://neuraltrust.ai/blog/echo-chamber-context-poisoning-jailbreak"
     ]
   ],
   [
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-06-27, 06:30:44",
+      "https://news.ycombinator.com/item?id=44394208"
+    ],
+    [
+      "Apple Will Transition from the CTF to the CTC for EU Businesses",
+      "https://developer.apple.com/news/?id=awedznci"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 06:29:51",
       "https://news.ycombinator.com/item?id=44394201"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2025-06-27, 06:14:06",
-      "https://news.ycombinator.com/item?id=44394114"
+      "2025-06-27, 06:07:05",
+      "https://news.ycombinator.com/item?id=44394085"
     ],
     [
-      "Uv and Ray: Pain-Free Python Dependencies in Clusters",
-      "https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters"
+      "Timeline of US Class I Railroads Since 1977",
+      "https://en.wikipedia.org/wiki/Timeline_of_Class_I_railroads_(1977%E2%80%93present)"
     ]
   ],
   [
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2025-06-26, 17:03:43",
-      "https://news.ycombinator.com/item?id=44389202"
-    ],
-    [
-      "Introducing Gemma 3n",
-      "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 15:33:10",
-      "https://news.ycombinator.com/item?id=44388395"
-    ],
-    [
-      "A Review of Aerospike Nozzles: Current Trends in Aerospace Applications",
-      "https://www.mdpi.com/2226-4310/12/6/519"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 14:32:28",
       "https://news.ycombinator.com/item?id=44387828"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-06-23, 19:13:38",
+      "https://news.ycombinator.com/item?id=44359045"
+    ],
+    [
+      "Moonbase Alpha: That time NASA made a meme video game",
+      "https://www.spacebar.news/moonbase-alpha-nasa-video-game/"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 18:10:19",
       "https://news.ycombinator.com/item?id=44358448"
     ],
@@ -277,16 +287,6 @@
     [
       "How much slower is random access, really?",
       "https://samestep.com/blog/random-access/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 14:42:22",
-      "https://news.ycombinator.com/item?id=44356307"
-    ],
-    [
-      "'Peak flower power era': The story of first ever Glastonbury Festival in 1970",
-      "https://www.bbc.com/culture/article/20250620-the-story-of-the-first-ever-glastonbury-festival-in-1970"
     ]
   ],
   [
