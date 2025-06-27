@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-06-27, 20:12:00",
+      "https://news.ycombinator.com/item?id=44399854"
+    ],
+    [
+      "A Brief History of Children Sent Through the Mail",
+      "https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 19:55:26",
       "https://news.ycombinator.com/item?id=44399757"
     ],
     [
       "Structuring Arrays with Algebraic Shapes",
       "https://dl.acm.org/doi/abs/10.1145/3736112.3736141"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 17:38:08",
+      "https://news.ycombinator.com/item?id=44398710"
+    ],
+    [
+      "US Supreme Court limits federal judges' power to block Trump orders",
+      "https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "PJ5 TTL CPU",
       "https://pj5cpu.wordpress.com/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 06:29:51",
-      "https://news.ycombinator.com/item?id=44394201"
-    ],
-    [
-      "Blazing Matrix Products",
-      "https://panadestein.github.io/blog/posts/mp.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "A Lisp adventure on the calm waters of the dead C (2021)",
       "https://mihaiolteanu.me/language-abstractions"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 18:10:19",
-      "https://news.ycombinator.com/item?id=44358448"
-    ],
-    [
-      "Calculating the Fibonacci numbers on GPU",
-      "https://veitner.bearblog.dev/calculating-the-fibonacci-numbers-on-gpu/"
     ]
   ],
   [
