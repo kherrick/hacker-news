@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 20:50:10](https://news.ycombinator.com/item?id=44400105) - [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
 * [2025-06-27, 20:40:19](https://news.ycombinator.com/item?id=44400045) - [NASA's Future SLS Booster Failed Its First Test [video]](https://www.youtube.com/watch?v=F85bTJLdaTo)
 * [2025-06-27, 20:39:52](https://news.ycombinator.com/item?id=44400042) - [Android phones could soon warn you of \"Stingrays\" snooping on your communicatio](https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/)
 * [2025-06-27, 20:12:00](https://news.ycombinator.com/item?id=44399854) - [A Brief History of Children Sent Through the Mail](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
 * [2025-06-27, 19:55:26](https://news.ycombinator.com/item?id=44399757) - [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
+* [2025-06-27, 18:49:57](https://news.ycombinator.com/item?id=44399234) - [SymbolicAI: A neuro-symbolic perspective on LLMs](https://github.com/ExtensityAI/symbolicai)
+* [2025-06-27, 18:45:05](https://news.ycombinator.com/item?id=44399193) - [nimbme – Nim bare-metal environment](https://github.com/mikra01/nimbme)
+* [2025-06-27, 18:43:41](https://news.ycombinator.com/item?id=44399186) - [New Process Uses Microbes to Create Valuable Materials from Urine](https://newscenter.lbl.gov/2025/06/17/new-process-uses-microbes-to-create-valuable-materials-from-urine/)
 * [2025-06-27, 17:38:08](https://news.ycombinator.com/item?id=44398710) - [US Supreme Court limits federal judges' power to block Trump orders](https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus)
 * [2025-06-27, 17:02:17](https://news.ycombinator.com/item?id=44398390) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 17:00:16](https://news.ycombinator.com/item?id=44398370) - [Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
