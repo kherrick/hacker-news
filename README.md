@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-27, 06:14:06](https://news.ycombinator.com/item?id=44394114) - [Uv and Ray: Pain-Free Python Dependencies in Clusters](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
-* [2025-06-27, 06:05:15](https://news.ycombinator.com/item?id=44394070) - [Apple Just Patented an Image Sensor with 20 Stops of Dynamic Range](https://ymcinema.com/2025/06/25/apple-just-patented-an-image-sensor-with-20-stops-of-dynamic-range/)
 * [2025-06-27, 06:01:37](https://news.ycombinator.com/item?id=44394051) - [Show HN: Sick of emailing yourself stuff? me too](https://github.com/sirbread/sink)
 * [2025-06-27, 05:00:41](https://news.ycombinator.com/item?id=44393817) - [XSLT](https://github.com/pacocoursey/xslt)
 * [2025-06-27, 04:39:02](https://news.ycombinator.com/item?id=44393749) - [Denmark to tackle deepfakes by giving people copyright to their own features](https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence)
@@ -21,6 +20,7 @@
 * [2025-06-26, 14:32:28](https://news.ycombinator.com/item?id=44387828) - [Launch HN: Issen (YC F24) – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
 * [2025-06-26, 14:16:00](https://news.ycombinator.com/item?id=44387659) - [AlphaGenome: AI for better understanding the genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
 * [2025-06-26, 09:08:00](https://news.ycombinator.com/item?id=44385562) - [Snow - Classic Macintosh emulator](https://snowemu.com/)
+* [2025-06-24, 00:33:00](https://news.ycombinator.com/item?id=44361681) - [VA Tech scientists are building a better fog harp](https://arstechnica.com/science/2025/06/these-va-tech-scientists-are-building-a-better-fog-harp/)
 * [2025-06-23, 22:01:27](https://news.ycombinator.com/item?id=44360630) - [Collections: Nitpicking Gladiator's Iconic Opening Battle, Part I](https://acoup.blog/2025/06/06/collections-nitpicking-gladiators-iconic-opening-battle-part-i/)
 * [2025-06-23, 21:53:29](https://news.ycombinator.com/item?id=44360558) - [Bogong moths use a stellar compass for long-distance navigation at night](https://www.nature.com/articles/s41586-025-09135-3)
 * [2025-06-23, 18:19:47](https://news.ycombinator.com/item?id=44358535) - [Apple Research unearthed forgotten AI technique and using it to generate images](https://9to5mac.com/2025/06/23/apple-ai-image-model-research-tarflow-starflow/)

@@ -65,6 +65,7 @@
 * [2025-06-24, 01:54:12](https://news.ycombinator.com/item?id=44362165) - [Excalidraw+ Is Now SoC 2 Certified](https://plus.excalidraw.com/blog/excalidraw-soc2)
 * [2025-06-24, 01:44:24](https://news.ycombinator.com/item?id=44362094) - [Tesla Robotaxi drops rider in the middle of the intersection and just sits there](https://twitter.com/ValueAnalyst1/status/1937241884570566991)
 * [2025-06-24, 00:52:12](https://news.ycombinator.com/item?id=44361795) - [Marijuana is associated with higher risk of heart attack and stroke](https://www.nytimes.com/2025/06/19/well/marijuana-heart-health-risks.html)
+* [2025-06-24, 00:33:00](https://news.ycombinator.com/item?id=44361681) - [VA Tech scientists are building a better fog harp](https://arstechnica.com/science/2025/06/these-va-tech-scientists-are-building-a-better-fog-harp/)
 * [2025-06-24, 00:27:51](https://news.ycombinator.com/item?id=44361633) - [Real-world performance comparison of ebtree/cebtree/rbtree](http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html)
 * [2025-06-24, 00:03:56](https://news.ycombinator.com/item?id=44361494) - [FICO to incorporate buy-now-pay-later loans into credit scores](https://www.axios.com/2025/06/23/fico-credit-scores-bnpl-buy-now-pay-later)
 * [2025-06-24, 00:01:16](https://news.ycombinator.com/item?id=44361480) - [Marble Blast](https://marbleblast.vaniverse.io/)
