@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-27, 09:45:55](https://news.ycombinator.com/item?id=44395359) - [Life Expectancy in Europe Compared to the US](https://old.reddit.com/r/dataisbeautiful/comments/1lih4a0/oc_life_expectancy_in_europe_compared_to_the_us/)
-* [2025-06-27, 08:29:52](https://news.ycombinator.com/item?id=44394935) - [You Don't Own the Word \"Freedom\"](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
 * [2025-06-27, 08:28:28](https://news.ycombinator.com/item?id=44394929) - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
 * [2025-06-27, 07:05:58](https://news.ycombinator.com/item?id=44394386) - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
 * [2025-06-27, 06:29:51](https://news.ycombinator.com/item?id=44394201) - [Blazing Matrix Products](https://panadestein.github.io/blog/posts/mp.html)
@@ -16,6 +15,7 @@
 * [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [“Why is the Rust compiler so slow?”](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 19:23:28](https://news.ycombinator.com/item?id=44390452) - [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
 * [2025-06-26, 18:30:56](https://news.ycombinator.com/item?id=44390005) - [Show HN: Magnitude – Open-source AI browser automation framework](https://github.com/magnitudedev/magnitude)
+* [2025-06-26, 17:03:43](https://news.ycombinator.com/item?id=44389202) - [Introducing Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 * [2025-06-26, 15:33:10](https://news.ycombinator.com/item?id=44388395) - [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
 * [2025-06-26, 14:32:28](https://news.ycombinator.com/item?id=44387828) - [Launch HN: Issen (YC F24) – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
 * [2025-06-26, 14:16:00](https://news.ycombinator.com/item?id=44387659) - [AlphaGenome: AI for better understanding the genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
