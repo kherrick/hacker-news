@@ -21,6 +21,7 @@
 * [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
 * [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [Why is the Rust compiler so slow?](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 19:23:28](https://news.ycombinator.com/item?id=44390452) - [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
+* [2025-06-24, 13:38:17](https://news.ycombinator.com/item?id=44366142) - [Show HN: I built Hispi, an app to design custom jewellery](https://hispi.app)
 * [2025-06-24, 08:19:49](https://news.ycombinator.com/item?id=44363948) - [Show HN: Do You Know RGB?](https://maxwellito.github.io/do-you-know-rgb/)
 * [2025-06-24, 00:33:00](https://news.ycombinator.com/item?id=44361681) - [VA Tech scientists are building a better fog harp](https://arstechnica.com/science/2025/06/these-va-tech-scientists-are-building-a-better-fog-harp/)
 * [2025-06-23, 23:35:54](https://news.ycombinator.com/item?id=44361326) - [One Architect's Quest to Save Mumbai's Heritage from Disappearing](https://www.bloomberg.com/news/features/2025-06-18/architect-abha-narain-lambah-on-conserving-gateway-of-india-mumbai-heritage)
@@ -28,7 +29,6 @@
 * [2025-06-23, 20:00:24](https://news.ycombinator.com/item?id=44359454) - [A Lisp adventure on the calm waters of the dead C (2021)](https://mihaiolteanu.me/language-abstractions)
 * [2025-06-23, 18:10:19](https://news.ycombinator.com/item?id=44358448) - [Calculating the Fibonacci numbers on GPU](https://veitner.bearblog.dev/calculating-the-fibonacci-numbers-on-gpu/)
 * [2025-06-23, 14:56:02](https://news.ycombinator.com/item?id=44356456) - [Sailing the fjords like the Vikings yields unexpected insights](https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/)
-* [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
 * [2025-06-23, 14:25:56](https://news.ycombinator.com/item?id=44356130) - [Whitesmiths C compiler: One of the earliest commercial C compilers available](https://github.com/hansake/Whitesmiths-C-compiler)
 
 ## [Archives](archives/index.md)
