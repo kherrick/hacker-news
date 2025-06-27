@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-27, 21:01:03",
+      "https://news.ycombinator.com/item?id=44400190"
+    ],
+    [
+      "Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)",
+      "https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 20:50:10",
       "https://news.ycombinator.com/item?id=44400105"
     ],
@@ -27,6 +37,26 @@
     [
       "Structuring Arrays with Algebraic Shapes",
       "https://dl.acm.org/doi/abs/10.1145/3736112.3736141"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 19:42:21",
+      "https://news.ycombinator.com/item?id=44399666"
+    ],
+    [
+      "Show HN: Shouldiuse.dev – Software dependency health checker",
+      "https://shouldiuse.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 19:10:50",
+      "https://news.ycombinator.com/item?id=44399416"
+    ],
+    [
+      "Run Coverage on Tests",
+      "https://hugovk.dev/blog/2025/run-coverage-on-tests/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Transmitting data via ultrasound without any special equipment",
       "https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 17:00:16",
-      "https://news.ycombinator.com/item?id=44398370"
-    ],
-    [
-      "Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver",
-      "https://bitmovin.com/careers/7943569002/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-06-27, 05:00:41",
-      "https://news.ycombinator.com/item?id=44393817"
-    ],
-    [
-      "XSLT – Native, zero-config build system for the Web",
-      "https://github.com/pacocoursey/xslt"
-    ]
-  ],
-  [
-    [
       "2025-06-27, 00:27:26",
       "https://news.ycombinator.com/item?id=44392776"
     ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2025-06-26, 19:29:32",
-      "https://news.ycombinator.com/item?id=44390488"
-    ],
-    [
-      "Why is the Rust compiler so slow?",
-      "https://sharnoff.io/blog/why-rust-compiler-slow"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 19:23:28",
-      "https://news.ycombinator.com/item?id=44390452"
-    ],
-    [
-      "The time is right for a DOM templating API",
-      "https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 13:38:17",
       "https://news.ycombinator.com/item?id=44366142"
     ],
     [
       "Show HN: I built Hispi, an app to design custom jewellery",
       "https://hispi.app"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 12:23:48",
+      "https://news.ycombinator.com/item?id=44365404"
+    ],
+    [
+      "Glass nanostructures reflect nearly all visible light, challenging assumptions",
+      "https://phys.org/news/2025-06-glass-nanostructures-visible-photonics-assumptions.html"
     ]
   ],
   [
