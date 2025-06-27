@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-06-27, 20:40:19",
-      "https://news.ycombinator.com/item?id=44400045"
+      "2025-06-27, 20:50:10",
+      "https://news.ycombinator.com/item?id=44400105"
     ],
     [
-      "NASA's Future SLS Booster Failed Its First Test [video]",
-      "https://www.youtube.com/watch?v=F85bTJLdaTo"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 20:39:52",
-      "https://news.ycombinator.com/item?id=44400042"
-    ],
-    [
-      "Android phones could soon warn you of \"Stingrays\" snooping on your communicatio",
-      "https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/"
+      "Normalizing Flows Are Capable Generative Models",
+      "https://machinelearning.apple.com/research/normalizing-flows"
     ]
   ],
   [
@@ -37,6 +27,36 @@
     [
       "Structuring Arrays with Algebraic Shapes",
       "https://dl.acm.org/doi/abs/10.1145/3736112.3736141"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 18:49:57",
+      "https://news.ycombinator.com/item?id=44399234"
+    ],
+    [
+      "SymbolicAI: A neuro-symbolic perspective on LLMs",
+      "https://github.com/ExtensityAI/symbolicai"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 18:45:05",
+      "https://news.ycombinator.com/item?id=44399193"
+    ],
+    [
+      "nimbme – Nim bare-metal environment",
+      "https://github.com/mikra01/nimbme"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 18:43:41",
+      "https://news.ycombinator.com/item?id=44399186"
+    ],
+    [
+      "New Process Uses Microbes to Create Valuable Materials from Urine",
+      "https://newscenter.lbl.gov/2025/06/17/new-process-uses-microbes-to-create-valuable-materials-from-urine/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-06-26, 20:06:28",
-      "https://news.ycombinator.com/item?id=44390781"
-    ],
-    [
-      "Starcloud can’t put a data centre in space at $8.2M in one Starship",
-      "https://angadh.com/space-data-centers-1"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 19:31:29",
       "https://news.ycombinator.com/item?id=44390501"
     ],
@@ -267,16 +277,6 @@
     [
       "A New Kind of Computer (April 2025)",
       "https://lightmatter.co/blog/a-new-kind-of-computer/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 23:31:13",
-      "https://news.ycombinator.com/item?id=44361288"
-    ],
-    [
-      "I Switched from Flutter and Rust to Rust and Egui",
-      "https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/"
     ]
   ],
   [
