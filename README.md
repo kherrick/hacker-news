@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-27, 03:51:26](https://news.ycombinator.com/item?id=44393547) - [Biomolecular shifts occur in our 40s and 60s](https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html)
+* [2025-06-27, 03:51:26](https://news.ycombinator.com/item?id=44393547) - [Biomolecular shifts occur in our 40s and 60s (2024)](https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html)
 * [2025-06-27, 03:19:02](https://news.ycombinator.com/item?id=44393418) - [Some thoughts on my first YC Demo Day](https://billchambers.me/articles/yc-demo-day-spring-25/)
+* [2025-06-27, 02:55:52](https://news.ycombinator.com/item?id=44393349) - [Judge rejects Meta's claim that torrenting is \"irrelevant\" in AI copyright case](https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/)
 * [2025-06-27, 02:02:22](https://news.ycombinator.com/item?id=44393160) - [A lumberjack created more than 200 sculptures in Wisconsin's Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
 * [2025-06-26, 21:20:27](https://news.ycombinator.com/item?id=44391535) - [Show HN: PRSS Site Creator – Create Blogs and Websites from Your Desktop](https://prss.co/)
 * [2025-06-26, 20:26:33](https://news.ycombinator.com/item?id=44390962) - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
@@ -26,7 +27,6 @@
 * [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
 * [2025-06-23, 14:42:22](https://news.ycombinator.com/item?id=44356307) - ['Peak flower power era': The story of first ever Glastonbury Festival in 1970](https://www.bbc.com/culture/article/20250620-the-story-of-the-first-ever-glastonbury-festival-in-1970)
 * [2025-06-23, 13:15:43](https://news.ycombinator.com/item?id=44355518) - [Dickinson's Dresses on the Moon](https://www.theparisreview.org/blog/2025/06/20/dickinsons-dresses-on-the-moon/)
-* [2025-06-23, 13:04:26](https://news.ycombinator.com/item?id=44355409) - [The Business of Betting on Catastrophe](https://thereader.mitpress.mit.edu/the-business-of-betting-on-catastrophe/)
 * [2025-06-23, 09:30:02](https://news.ycombinator.com/item?id=44353868) - [Fault Tolerant Llama training](https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/)
 * [2025-06-23, 08:27:03](https://news.ycombinator.com/item?id=44353576) - [Typr – TUI typing test with a word selection algorithm inspired by keybr](https://github.com/Sakura-sx/typr)
 * [2025-06-22, 10:29:42](https://news.ycombinator.com/item?id=44345681) - [Writing a basic Linux device driver when you know nothing about Linux drivers](https://crescentro.se/posts/writing-drivers/)
