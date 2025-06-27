@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-27, 17:02:17](https://news.ycombinator.com/item?id=44398390) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 17:00:16](https://news.ycombinator.com/item?id=44398370) - [Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
 * [2025-06-27, 15:08:26](https://news.ycombinator.com/item?id=44397367) - [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-27, 14:42:04](https://news.ycombinator.com/item?id=44397168) - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
 * [2025-06-27, 14:35:04](https://news.ycombinator.com/item?id=44397124) - [Qwen VLo: From \"Understanding\" the World to \"Depicting\" It](https://qwenlm.github.io/blog/qwen-vlo/)
 * [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 * [2025-06-27, 13:03:10](https://news.ycombinator.com/item?id=44396487) - [The Effect of Noise on Sleep](https://www.empirical.health/blog/effect-of-noise-on-sleep/)
-* [2025-06-27, 12:39:53](https://news.ycombinator.com/item?id=44396342) - [The Power and Beauty of Incrementalism](https://supernuclear.substack.com/p/the-power-and-beauty-of-incrementalism)
 * [2025-06-27, 11:10:54](https://news.ycombinator.com/item?id=44395810) - [Show HN: PILF, The ultimate solution to catastrophic oblivion on AI models](https://github.com/dmf-archive/PILF)
 * [2025-06-27, 11:09:42](https://news.ycombinator.com/item?id=44395799) - [My Lights Run on Bash – Tomasz Kramkowski](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
 * [2025-06-27, 08:28:28](https://news.ycombinator.com/item?id=44394929) - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
