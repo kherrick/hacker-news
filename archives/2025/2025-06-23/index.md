@@ -59,6 +59,7 @@
 * [2025-06-23, 10:39:13](https://news.ycombinator.com/item?id=44354250) - [Where is Iran's uranium? Questions remain over stash of enriched material](https://www.ft.com/content/12a864cc-eeb8-4725-aed8-5ddff9ac588e)
 * [2025-06-23, 10:20:17](https://news.ycombinator.com/item?id=44354141) - [Yet another insignificant programming notes](https://chua.bitbucket.io)
 * [2025-06-23, 10:02:10](https://news.ycombinator.com/item?id=44354032) - [Modeling the World in 280 Characters](https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/)
+* [2025-06-23, 09:30:02](https://news.ycombinator.com/item?id=44353868) - [Fault Tolerant Llama training – PyTorch blog](https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/)
 * [2025-06-23, 09:10:00](https://news.ycombinator.com/item?id=44353775) - [EU rules for durable, energy-efficient and repairable smartphones and tablets](https://single-market-economy.ec.europa.eu/news/new-eu-rules-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying-2025-06-20_en)
 * [2025-06-23, 09:07:29](https://news.ycombinator.com/item?id=44353760) - [Real-world performance comparison of ebtree/cebtree/rbtree](http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html)
 * [2025-06-23, 08:27:03](https://news.ycombinator.com/item?id=44353576) - [Typr – TUI typing test with a word selection algorithm inspired by keybr](https://github.com/Sakura-sx/typr)

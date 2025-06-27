@@ -4,11 +4,11 @@
 * [2025-06-26, 21:35:58](https://news.ycombinator.com/item?id=44391711) - [Senators reintroduce App Store bill to rein in 'gatekeeper power'](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)
 * [2025-06-26, 20:26:33](https://news.ycombinator.com/item?id=44390962) - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
 * [2025-06-26, 20:22:54](https://news.ycombinator.com/item?id=44390915) - [Robots that learn](https://openai.com/index/robots-that-learn/)
+* [2025-06-26, 20:06:28](https://news.ycombinator.com/item?id=44390781) - [Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+](https://angadh.com/space-data-centers-1)
 * [2025-06-26, 20:01:28](https://news.ycombinator.com/item?id=44390740) - [Matrix v1.15](https://matrix.org/blog/2025/06/26/matrix-v1.15-release/)
 * [2025-06-26, 19:36:11](https://news.ycombinator.com/item?id=44390527) - [Memory safety is table stakes](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
 * [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
 * [2025-06-26, 19:29:32](https://news.ycombinator.com/item?id=44390488) - [\"Why is the Rust compiler so slow?\"](https://sharnoff.io/blog/why-rust-compiler-slow)
-* [2025-06-26, 19:23:40](https://news.ycombinator.com/item?id=44390454) - [US economy shrank 0.5% in the first quarter, worse than earlier estimates](https://apnews.com/article/economy-tariffs-trump-gdp-shrink-86d1f15e66c646ac4ce88ffc0a956942)
 * [2025-06-26, 19:23:28](https://news.ycombinator.com/item?id=44390452) - [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
 * [2025-06-26, 18:43:37](https://news.ycombinator.com/item?id=44390113) - [SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones)
 * [2025-06-26, 18:38:47](https://news.ycombinator.com/item?id=44390072) - [Lateralized sleeping positions in domestic cats](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue)
@@ -28,8 +28,8 @@
 * [2025-06-23, 15:50:56](https://news.ycombinator.com/item?id=44357005) - [“My Malformed Bones” – Harry Crews’s Counterlives](https://harpers.org/archive/2025/07/my-malformed-bones-charlie-lee-harry-crews/)
 * [2025-06-23, 14:49:31](https://news.ycombinator.com/item?id=44356385) - [How much slower is random access, really?](https://samestep.com/blog/random-access/)
 * [2025-06-23, 13:04:26](https://news.ycombinator.com/item?id=44355409) - [The Business of Betting on Catastrophe](https://thereader.mitpress.mit.edu/the-business-of-betting-on-catastrophe/)
+* [2025-06-23, 09:30:02](https://news.ycombinator.com/item?id=44353868) - [Fault Tolerant Llama training – PyTorch blog](https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/)
 * [2025-06-23, 08:27:03](https://news.ycombinator.com/item?id=44353576) - [Typr – TUI typing test with a word selection algorithm inspired by keybr](https://github.com/Sakura-sx/typr)
-* [2025-06-22, 10:29:42](https://news.ycombinator.com/item?id=44345681) - [Writing a basic Linux device driver when you know nothing about Linux drivers](https://crescentro.se/posts/writing-drivers/)
 
 ## [Archives](archives/index.md)
 
