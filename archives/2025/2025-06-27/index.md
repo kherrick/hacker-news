@@ -6,6 +6,7 @@
 
 * [2025-06-27, 17:02:17](https://news.ycombinator.com/item?id=44398390) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 17:00:16](https://news.ycombinator.com/item?id=44398370) - [Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver](https://bitmovin.com/careers/7943569002/)
+* [2025-06-27, 16:09:14](https://news.ycombinator.com/item?id=44397923) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
 * [2025-06-27, 15:55:59](https://news.ycombinator.com/item?id=44397799) - [US Supreme Court Upholds Texas Porn ID Law](https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/)
 * [2025-06-27, 15:08:26](https://news.ycombinator.com/item?id=44397367) - [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-27, 14:42:04](https://news.ycombinator.com/item?id=44397168) - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
