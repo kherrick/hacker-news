@@ -49,6 +49,7 @@
 * [2025-06-25, 15:00:00](https://news.ycombinator.com/item?id=44378127) - [Bot or Human? Creating the Invisible Turing Test for the Internet](https://research.roundtable.ai/proof-of-human/)
 * [2025-06-25, 14:22:44](https://news.ycombinator.com/item?id=44377666) - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 * [2025-06-25, 14:17:40](https://news.ycombinator.com/item?id=44377625) - [Framework Laptop 12 press reviews are live and Framework Laptop 13 in-stock](https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock)
+* [2025-06-25, 14:14:49](https://news.ycombinator.com/item?id=44377589) - [AlphaGenome: AI for Better Understanding the Genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
 * [2025-06-25, 14:05:13](https://news.ycombinator.com/item?id=44377495) - [Is Lovable getting monetization wrong?](https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut)
 * [2025-06-25, 14:04:36](https://news.ycombinator.com/item?id=44377489) - [NSF getting kicked out of headquarters by HUD](https://www.bloomberg.com/news/articles/2025-06-25/hud-plans-to-move-operations-from-washington-to-virginia)
 * [2025-06-25, 13:43:59](https://news.ycombinator.com/item?id=44377274) - [Deep Down the Rabbit Hole: Bash, OverlayFS, and a 30-Year-Old Surprise](https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/)

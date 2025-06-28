@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-28, 07:58:04](https://news.ycombinator.com/item?id=44402985) - [DR Congo and Rawanda signs a peace deal](https://www.bbc.com/news/articles/c1e0ggw7d43o)
 * [2025-06-28, 05:42:30](https://news.ycombinator.com/item?id=44402508) - [Dubai Reality Check: An Indian VC's Year of Truth](https://www.dealflowiq.com/p/dubai-reality-check-an-indian-vcs)
-* [2025-06-28, 05:27:29](https://news.ycombinator.com/item?id=44402470) - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
+* [2025-06-28, 05:27:29](https://news.ycombinator.com/item?id=44402470) - [I deleted my second brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
 * [2025-06-28, 00:08:28](https://news.ycombinator.com/item?id=44401406) - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
 * [2025-06-27, 23:45:03](https://news.ycombinator.com/item?id=44401303) - [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
 * [2025-06-27, 22:07:11](https://news.ycombinator.com/item?id=44400698) - [Theoretical Analysis of Positional Encodings in Transformer Models](https://arxiv.org/abs/2506.06398)
@@ -20,16 +21,15 @@
 * [2025-06-27, 14:42:04](https://news.ycombinator.com/item?id=44397168) - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
 * [2025-06-27, 14:35:04](https://news.ycombinator.com/item?id=44397124) - [Qwen VLo: From “Understanding” the World to “Depicting” It](https://qwenlm.github.io/blog/qwen-vlo/)
 * [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
+* [2025-06-27, 08:27:15](https://news.ycombinator.com/item?id=44394916) - [DeepSeek R2 launch stalled as CEO balks at progress](https://www.reuters.com/world/china/deepseek-r2-launch-stalled-ceo-balks-progress-information-reports-2025-06-26/)
 * [2025-06-25, 19:21:38](https://news.ycombinator.com/item?id=44380964) - [The Original Macintosh: Calculator Construction Set](https://www.folklore.org/Calculator_Construction_Set.html)
 * [2025-06-25, 18:35:25](https://news.ycombinator.com/item?id=44380500) - [NLNet: 62 new projects contribute to digital commons](https://nlnet.nl/news/2025/20250624-announcement-grants-CommonsFund.html)
+* [2025-06-25, 14:14:49](https://news.ycombinator.com/item?id=44377589) - [AlphaGenome: AI for Better Understanding the Genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
 * [2025-06-24, 15:52:47](https://news.ycombinator.com/item?id=44367539) - [c4wa – C compiler for Web Assembly](https://github.com/kign/c4wa)
 * [2025-06-24, 15:01:07](https://news.ycombinator.com/item?id=44367004) - [bootc-image-builder: Build your entire OS from a Containerfile](https://github.com/osbuild/bootc-image-builder)
 * [2025-06-24, 14:52:05](https://news.ycombinator.com/item?id=44366904) - [LLMs bring new nature of abstraction – up and sideways](https://martinfowler.com/articles/2025-nature-abstraction.html)
 * [2025-06-24, 14:29:59](https://news.ycombinator.com/item?id=44366670) - [Reinforcement learning, explained with a minimum of math and jargon](https://www.understandingai.org/p/reinforcement-learning-explained)
 * [2025-06-24, 13:49:35](https://news.ycombinator.com/item?id=44366246) - [London's Largest Ancient Roman Fresco Is “Most Difficult Jigsaw Puzzle”](https://www.thisiscolossal.com/2025/06/mola-liberty-roman-fresco/)
-* [2025-06-24, 08:19:49](https://news.ycombinator.com/item?id=44363948) - [Show HN: Do you know RGB?](https://maxwellito.github.io/do-you-know-rgb/)
-* [2025-06-24, 07:49:43](https://news.ycombinator.com/item?id=44363804) - [Does a Focus on Royalty Obscure British History?](https://www.historytoday.com/archive/head-head/does-focus-royalty-obscure-british-history)
-* [2025-06-23, 14:25:56](https://news.ycombinator.com/item?id=44356130) - [Whitesmiths C compiler: One of the earliest commercial C compilers available](https://github.com/hansake/Whitesmiths-C-compiler)
 
 ## [Archives](archives/index.md)
 

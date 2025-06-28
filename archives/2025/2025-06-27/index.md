@@ -45,6 +45,7 @@
 * [2025-06-27, 09:45:55](https://news.ycombinator.com/item?id=44395359) - [Life Expectancy in Europe Compared to the US](https://old.reddit.com/r/dataisbeautiful/comments/1lih4a0/oc_life_expectancy_in_europe_compared_to_the_us/)
 * [2025-06-27, 08:29:52](https://news.ycombinator.com/item?id=44394935) - [You Don't Own the Word \"Freedom\"](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
 * [2025-06-27, 08:28:28](https://news.ycombinator.com/item?id=44394929) - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
+* [2025-06-27, 08:27:15](https://news.ycombinator.com/item?id=44394916) - [DeepSeek R2 launch stalled as CEO balks at progress](https://www.reuters.com/world/china/deepseek-r2-launch-stalled-ceo-balks-progress-information-reports-2025-06-26/)
 * [2025-06-27, 07:05:58](https://news.ycombinator.com/item?id=44394386) - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
 * [2025-06-27, 06:55:48](https://news.ycombinator.com/item?id=44394333) - [UK to buy F-35As that can't be refueled from RAF tankers](https://www.theregister.com/2025/06/26/uk_f_35a_refuel_hitch/)
 * [2025-06-27, 06:47:29](https://news.ycombinator.com/item?id=44394282) - [New EU rules on digital accessibility to come into force](https://www.rte.ie/news/technology/2025/0627/1520552-digital-accessibility/)
