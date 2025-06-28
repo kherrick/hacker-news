@@ -8,6 +8,8 @@
 * [2025-06-28, 16:53:56](https://news.ycombinator.com/item?id=44406171) - [BusyBeaver(6) Is Quite Large](https://scottaaronson.blog/?p=8972)
 * [2025-06-28, 16:41:04](https://news.ycombinator.com/item?id=44406057) - [Why is every successful tech founder an Ivy League graduate](https://news.ycombinator.com/item?id=44406057)
 * [2025-06-28, 16:29:32](https://news.ycombinator.com/item?id=44405953) - [Jane Street's sneaky retention tactic](https://www.economist.com/finance-and-economics/2025/06/26/jane-streets-sneaky-retention-tactic)
+* [2025-06-28, 16:16:12](https://news.ycombinator.com/item?id=44405812) - [What makes Europe better than America?](https://www.thefp.com/p/what-makes-europe-better-than-america)
+* [2025-06-28, 16:06:15](https://news.ycombinator.com/item?id=44405728) - [Arrests of scientists over smuggled samples add to US border anxiety](https://www.nature.com/articles/d41586-025-01958-4)
 * [2025-06-28, 15:46:31](https://news.ycombinator.com/item?id=44405550) - [Ask HN: From the MIT study, is it smarter to resign than to use forced AI?](https://news.ycombinator.com/item?id=44405550)
 * [2025-06-28, 15:37:15](https://news.ycombinator.com/item?id=44405464) - [People Are Being Involuntarily Committed After Spiraling into ChatGPT Psychosis](https://futurism.com/commitment-jail-chatgpt-psychosis)
 * [2025-06-28, 15:23:48](https://news.ycombinator.com/item?id=44405342) - [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
