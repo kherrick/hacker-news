@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 13:33:10](https://news.ycombinator.com/item?id=44404601) - [Antitrust defies politics' law of gravity](https://pluralistic.net/2025/06/28/mamdani/#trustbusting)
 * [2025-06-28, 12:32:37](https://news.ycombinator.com/item?id=44404231) - [Texas brothers buy abandoned Boeing 727 for $10k](https://www.popsci.com/diy/texas-brothers-buy-abandoned-boeing-727/)
 * [2025-06-28, 12:20:08](https://news.ycombinator.com/item?id=44404164) - [We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
 * [2025-06-28, 12:00:47](https://news.ycombinator.com/item?id=44404045) - [Lago (Open-Source Usage Based Billing) is hiring for 10 roles](https://www.ycombinator.com/companies/lago/jobs)

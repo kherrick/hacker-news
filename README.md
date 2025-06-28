@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-28, 13:33:10](https://news.ycombinator.com/item?id=44404601) - [Antitrust defies politics' law of gravity](https://pluralistic.net/2025/06/28/mamdani/#trustbusting)
 * [2025-06-28, 12:20:08](https://news.ycombinator.com/item?id=44404164) - [We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
 * [2025-06-28, 12:00:47](https://news.ycombinator.com/item?id=44404045) - [Lago (Open-Source Usage Based Billing) is hiring for ten roles](https://www.ycombinator.com/companies/lago/jobs)
 * [2025-06-28, 10:27:24](https://news.ycombinator.com/item?id=44403639) - [Finding Peter Putnam: The forgotten janitor who discovered the logic of the mind](https://nautil.us/finding-peter-putnam-1218035/)
 * [2025-06-28, 10:19:44](https://news.ycombinator.com/item?id=44403594) - [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
 * [2025-06-28, 09:32:43](https://news.ycombinator.com/item?id=44403383) - [History of Cycling Maps](https://cyclemaps.blogspot.com/)
-* [2025-06-28, 07:36:20](https://news.ycombinator.com/item?id=44402896) - [IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
 * [2025-06-28, 05:27:29](https://news.ycombinator.com/item?id=44402470) - [I deleted my second brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
 * [2025-06-28, 05:09:28](https://news.ycombinator.com/item?id=44402421) - [An Introduction to Tribalism for the Modern World That Has Forgotten It](https://sustainableviews.substack.com/p/an-introduction-to-tribalism-for)
 * [2025-06-28, 00:08:28](https://news.ycombinator.com/item?id=44401406) - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
