@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-28, 21:29:23",
-      "https://news.ycombinator.com/item?id=44408325"
+      "2025-06-28, 22:08:25",
+      "https://news.ycombinator.com/item?id=44408564"
     ],
     [
-      "Microsoft tried dogfooding Copilot with .NET, but got only hallucinations",
-      "https://news.ycombinator.com/item?id=44408325"
+      "Reproducible Builds",
+      "https://en.wikipedia.org/wiki/Reproducible_builds"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 22:06:31",
+      "https://news.ycombinator.com/item?id=44408552"
+    ],
+    [
+      "The Death of the Middle-Class Musician",
+      "https://thewalrus.ca/the-death-of-the-middle-class-musician/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Show HN: AGL a toy language that compiles to Go",
       "https://github.com/alaingilbert/agl"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 12:41:06",
-      "https://news.ycombinator.com/item?id=44376616"
-    ],
-    [
-      "Verifiably Correct Lifting of Position-Independent x86-64 Binaries (2024)",
-      "https://dl.acm.org/doi/10.1145/3658644.3690244"
     ]
   ],
   [
