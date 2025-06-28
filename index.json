@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-28, 19:04:04",
+      "https://news.ycombinator.com/item?id=44407245"
+    ],
+    [
+      "2025 ARRL Field Day",
+      "https://www.arrl.org/field-day"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 18:52:00",
+      "https://news.ycombinator.com/item?id=44407139"
+    ],
+    [
+      "JavaScript Trademark Update",
+      "https://deno.com/blog/deno-v-oracle4"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 18:42:05",
+      "https://news.ycombinator.com/item?id=44407058"
+    ],
+    [
+      "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
+      "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1"
+    ]
+  ],
+  [
+    [
       "2025-06-28, 18:10:50",
       "https://news.ycombinator.com/item?id=44406837"
     ],
@@ -47,16 +77,6 @@
     [
       "No One Is in Charge at the US Copyright Office",
       "https://www.wired.com/story/us-copyright-office-chaos-doge/"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 16:55:31",
-      "https://news.ycombinator.com/item?id=44406186"
-    ],
-    [
-      "Republican governors oppose 10-year moratorium on state AI laws in GOP tax bill",
-      "https://www.politico.com/live-updates/2025/06/27/congress/gop-govs-urge-thune-to-nix-ai-moratorium-00430083"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-06-28, 08:45:05",
-      "https://news.ycombinator.com/item?id=44403195"
-    ],
-    [
-      "Untangling Lifetimes: The Arena Allocator",
-      "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 05:27:29",
       "https://news.ycombinator.com/item?id=44402470"
     ],
     [
       "I deleted my second brain",
       "https://www.joanwestenberg.com/p/i-deleted-my-second-brain"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 20:50:10",
-      "https://news.ycombinator.com/item?id=44400105"
-    ],
-    [
-      "Normalizing Flows Are Capable Generative Models",
-      "https://machinelearning.apple.com/research/normalizing-flows"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-06-24, 23:09:18",
+      "https://news.ycombinator.com/item?id=44372041"
+    ],
+    [
+      "Why the moon shimmers with shiny glass beads",
+      "https://phys.org/news/2025-06-moon-shimmers-shiny-glass-beads.html"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 16:18:07",
       "https://news.ycombinator.com/item?id=44367811"
     ],
     [
       "Lossless LLM 3x Throughput Increase by LMCache",
       "https://github.com/LMCache/LMCache"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 14:29:59",
-      "https://news.ycombinator.com/item?id=44366670"
-    ],
-    [
-      "Reinforcement learning, explained with a minimum of math and jargon",
-      "https://www.understandingai.org/p/reinforcement-learning-explained"
     ]
   ],
   [
