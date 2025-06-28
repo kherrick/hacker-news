@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
 * [2025-06-28, 12:32:37](https://news.ycombinator.com/item?id=44404231) - [Texas brothers buy abandoned Boeing 727 for $10k](https://www.popsci.com/diy/texas-brothers-buy-abandoned-boeing-727/)
+* [2025-06-28, 12:20:08](https://news.ycombinator.com/item?id=44404164) - [We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
 * [2025-06-28, 12:00:47](https://news.ycombinator.com/item?id=44404045) - [Lago (Open-Source Usage Based Billing) is hiring for 10 roles](https://www.ycombinator.com/companies/lago/jobs)
 * [2025-06-28, 11:14:38](https://news.ycombinator.com/item?id=44403841) - [Swarms of robots could go up your nose, melt the mucus and clean your sinuses](https://www.zmescience.com/future/swarms-of-tiny-robots-could-go-up-your-nose-melt-the-mucus-and-clean-your-sinuses/)
 * [2025-06-28, 10:27:24](https://news.ycombinator.com/item?id=44403639) - [Finding Peter Putnam: The forgotten janitor who discovered the logic of the mind](https://nautil.us/finding-peter-putnam-1218035/)
