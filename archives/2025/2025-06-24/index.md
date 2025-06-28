@@ -28,6 +28,7 @@
 * [2025-06-24, 16:35:33](https://news.ycombinator.com/item?id=44368015) - [4Real-Video-V2: Feedforward Reconstruction for 4D Scene Generation](https://snap-research.github.io/4Real-Video-V2/)
 * [2025-06-24, 16:22:14](https://news.ycombinator.com/item?id=44367850) - [Judge sides with Anthropic over training AI on books without authors' permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
 * [2025-06-24, 16:13:56](https://news.ycombinator.com/item?id=44367761) - [Airbnb and Vrbo are going downhill like a hippo on a water slide](https://www.washingtonpost.com/opinions/2025/06/19/vacation-rentals-airbnb-vrbo/)
+* [2025-06-24, 16:02:18](https://news.ycombinator.com/item?id=44367640) - [Show HN: La Touche Musicale PianoConvert](https://latouchemusicale.com/en/apps/pianoconvert/)
 * [2025-06-24, 16:02:02](https://news.ycombinator.com/item?id=44367638) - [ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry](https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry)
 * [2025-06-24, 15:53:12](https://news.ycombinator.com/item?id=44367548) - [The best Hacker on HackerOne is now an AI](https://xbow.com/blog/top-1-how-xbow-did-it/)
 * [2025-06-24, 15:52:47](https://news.ycombinator.com/item?id=44367539) - [C compiler for Web Assembly (c4wa)](https://github.com/kign/c4wa)

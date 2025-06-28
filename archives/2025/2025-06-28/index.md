@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 08:09:30](https://news.ycombinator.com/item?id=44403026) - [We need to talk about Saudi Arabia](https://www.architectsjournal.co.uk/news/opinion/we-need-to-talk-about-saudi-arabia)
 * [2025-06-28, 07:58:04](https://news.ycombinator.com/item?id=44402985) - [DR Congo and Rawanda signs a peace deal](https://www.bbc.com/news/articles/c1e0ggw7d43o)
 * [2025-06-28, 07:36:20](https://news.ycombinator.com/item?id=44402896) - [IDF Soldiers Confess: Ordered to Shoot Unarmed Gazans at Aid Site](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
 * [2025-06-28, 06:26:50](https://news.ycombinator.com/item?id=44402665) - [Hurricane Forecasters Lose Crucial Satellite Data, with Serious Implications](https://www.scientificamerican.com/article/weather-forecasters-lose-crucial-hurricane-detection-microwave-satellite/)
