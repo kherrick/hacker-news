@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-28, 22:08:25](https://news.ycombinator.com/item?id=44408564) - [Reproducible Builds](https://en.wikipedia.org/wiki/Reproducible_builds)
-* [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
 * [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
 * [2025-06-28, 19:56:52](https://news.ycombinator.com/item?id=44407661) - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 * [2025-06-28, 19:54:05](https://news.ycombinator.com/item?id=44407640) - [The Great Illusion: When We Believed BeOS Would Save the World](https://www.desktoponfire.com/haiku_inc/782/the-great-illusion-when-we-believed-beos-would-save-the-world-and-maybe-it-was-right/)
@@ -27,6 +26,7 @@
 * [2025-06-25, 15:36:38](https://news.ycombinator.com/item?id=44378517) - [Show HN: AGL a toy language that compiles to Go](https://github.com/alaingilbert/agl)
 * [2025-06-25, 12:23:24](https://news.ycombinator.com/item?id=44376471) - [After successfully entering Earth's atmosphere, a European spacecraft is lost](https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/)
 * [2025-06-25, 10:55:14](https://news.ycombinator.com/item?id=44375795) - [LLMs Bring New Nature of Abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html)
+* [2025-06-25, 08:15:26](https://news.ycombinator.com/item?id=44374827) - [A literary magazine accessible only via telnet](https://news.ycombinator.com/item?id=44374827)
 * [2025-06-25, 05:47:27](https://news.ycombinator.com/item?id=44373976) - [Evaluating Long-Context Question and Answer Systems](https://eugeneyan.com/writing/qa-evals/)
 * [2025-06-24, 23:09:18](https://news.ycombinator.com/item?id=44372041) - [Why the moon shimmers with shiny glass beads](https://phys.org/news/2025-06-moon-shimmers-shiny-glass-beads.html)
 * [2025-06-24, 16:18:07](https://news.ycombinator.com/item?id=44367811) - [Lossless LLM 3x Throughput Increase by LMCache](https://github.com/LMCache/LMCache)
