@@ -21,7 +21,7 @@
 * [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 00:27:26](https://news.ycombinator.com/item?id=44392776) - [Slightly better named character reference tokenization than Chrome, Safari, FF](https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/)
-* [2025-06-26, 19:31:29](https://news.ycombinator.com/item?id=44390501) - [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
+* [2025-06-25, 19:21:38](https://news.ycombinator.com/item?id=44380964) - [The Original Macintosh: Calculator Construction Set](https://www.folklore.org/Calculator_Construction_Set.html)
 * [2025-06-24, 15:52:47](https://news.ycombinator.com/item?id=44367539) - [C compiler for Web Assembly (c4wa)](https://github.com/kign/c4wa)
 * [2025-06-24, 15:01:07](https://news.ycombinator.com/item?id=44367004) - [bootc-image-builder: Build your entire OS from a Containerfile](https://github.com/osbuild/bootc-image-builder)
 * [2025-06-24, 14:29:59](https://news.ycombinator.com/item?id=44366670) - [Reinforcement learning, explained with a minimum of math and jargon](https://www.understandingai.org/p/reinforcement-learning-explained)

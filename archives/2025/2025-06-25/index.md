@@ -25,6 +25,7 @@
 * [2025-06-25, 19:39:23](https://news.ycombinator.com/item?id=44381131) - [A Classical RAM Design That Mimics Quantum Collapse and Entanglement\"](https://www.qsymbolic.com)
 * [2025-06-25, 19:36:55](https://news.ycombinator.com/item?id=44381093) - [Libxml2's \"no security embargoes\" policy](https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/)
 * [2025-06-25, 19:36:50](https://news.ycombinator.com/item?id=44381091) - [Show HN: PLJS – JavaScript for Postgres](https://news.ycombinator.com/item?id=44381091)
+* [2025-06-25, 19:21:38](https://news.ycombinator.com/item?id=44380964) - [The Original Macintosh: Calculator Construction Set](https://www.folklore.org/Calculator_Construction_Set.html)
 * [2025-06-25, 19:20:23](https://news.ycombinator.com/item?id=44380955) - [Coccinelle for Rust Progress Report](https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/)
 * [2025-06-25, 19:17:27](https://news.ycombinator.com/item?id=44380927) - [Newly Built San Francisco Condo Tower Lands on Fanny/Freddy Mortgage Blacklist](https://sfstandard.com/2025/06/24/san-francisco-condo-tower-lands-on-mortgage-blacklist/)
 * [2025-06-25, 19:10:47](https://news.ycombinator.com/item?id=44380872) - [Tomatoes in the Galápagos are quietly de-evolving](https://phys.org/news/2025-06-tomatoes-galpagos-quietly-de-evolving.html)
