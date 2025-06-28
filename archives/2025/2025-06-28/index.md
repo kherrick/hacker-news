@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
 * [2025-06-28, 19:56:52](https://news.ycombinator.com/item?id=44407661) - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 * [2025-06-28, 19:14:50](https://news.ycombinator.com/item?id=44407350) - [AI fakes duel over impeach ment of Vice-President in Phillipines](https://factcheck.afp.com/doc.afp.com.63ZF9CP)
 * [2025-06-28, 19:04:04](https://news.ycombinator.com/item?id=44407245) - [2025 ARRL Field Day](https://www.arrl.org/field-day)
