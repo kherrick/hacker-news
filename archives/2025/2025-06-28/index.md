@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 15:46:31](https://news.ycombinator.com/item?id=44405550) - [Ask HN: From the MIT study, is it smarter to resign than to use forced AI?](https://news.ycombinator.com/item?id=44405550)
 * [2025-06-28, 15:37:15](https://news.ycombinator.com/item?id=44405464) - [People Are Being Involuntarily Committed After Spiraling into ChatGPT Psychosis](https://futurism.com/commitment-jail-chatgpt-psychosis)
 * [2025-06-28, 15:23:48](https://news.ycombinator.com/item?id=44405342) - [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
 * [2025-06-28, 14:46:20](https://news.ycombinator.com/item?id=44405067) - [Ask HN: What are you actually using LLMs for in production?](https://news.ycombinator.com/item?id=44405067)
