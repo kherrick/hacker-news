@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-28, 18:10:50](https://news.ycombinator.com/item?id=44406837) - [Use Plain Text Email](https://useplaintext.email/)
 * [2025-06-28, 17:59:26](https://news.ycombinator.com/item?id=44406750) - [US Justice Department settles antitrust case for HPE's $14B takeover of Juniper](https://www.reuters.com/business/us-doj-settles-antitrust-case-hpes-14-billion-takeover-juniper-2025-06-28/)
 * [2025-06-28, 17:59:11](https://news.ycombinator.com/item?id=44406749) - [BYU study: Why some people choose not to use artificial intelligence](https://news.byu.edu/intellect/byu-study-finds-the-real-reasons-why-some-people-choose-not-to-use-artificial-intelligence)
 * [2025-06-28, 17:36:16](https://news.ycombinator.com/item?id=44406549) - [Boeing uses potatoes to test wi-fi (2012)](https://www.bbc.com/news/technology-20813441)
 * [2025-06-28, 17:20:17](https://news.ycombinator.com/item?id=44406400) - [No One Is in Charge at the US Copyright Office](https://www.wired.com/story/us-copyright-office-chaos-doge/)
-* [2025-06-28, 17:15:27](https://news.ycombinator.com/item?id=44406360) - [Lima Site 85: How a CIA Helicopter Defended a Secret U.S. Radar Facility](https://www.aviacionline.com/lima-site-85-how-a-cia-helicopter-defended-a-secret-us-radar-facility)
 * [2025-06-28, 16:55:31](https://news.ycombinator.com/item?id=44406186) - [Republican governors oppose 10-year moratorium on state AI laws in GOP tax bill](https://www.politico.com/live-updates/2025/06/27/congress/gop-govs-urge-thune-to-nix-ai-moratorium-00430083)
 * [2025-06-28, 16:53:56](https://news.ycombinator.com/item?id=44406171) - [BusyBeaver(6) Is Quite Large](https://scottaaronson.blog/?p=8972)
 * [2025-06-28, 16:50:19](https://news.ycombinator.com/item?id=44406140) - [Is being bilingual good for your brain?](https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain)
