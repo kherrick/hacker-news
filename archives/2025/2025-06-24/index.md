@@ -60,6 +60,7 @@
 * [2025-06-24, 09:11:32](https://news.ycombinator.com/item?id=44364216) - [Retrieval Augmented Generation Based on SQLite](https://github.com/ggozad/haiku.rag)
 * [2025-06-24, 09:03:03](https://news.ycombinator.com/item?id=44364186) - [Atuin – Magical Shell History](https://atuin.sh)
 * [2025-06-24, 08:19:49](https://news.ycombinator.com/item?id=44363948) - [Show HN: Do You Know RGB?](https://maxwellito.github.io/do-you-know-rgb/)
+* [2025-06-24, 07:49:43](https://news.ycombinator.com/item?id=44363804) - [Does a Focus on Royalty Obscure British History?](https://www.historytoday.com/archive/head-head/does-focus-royalty-obscure-british-history)
 * [2025-06-24, 07:29:08](https://news.ycombinator.com/item?id=44363696) - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
 * [2025-06-24, 06:04:21](https://news.ycombinator.com/item?id=44363262) - [Tell HN: Meta developer account suspended](https://news.ycombinator.com/item?id=44363262)
 * [2025-06-24, 05:52:26](https://news.ycombinator.com/item?id=44363196) - [Ask HN: How do you learn Spanish guitar?](https://news.ycombinator.com/item?id=44363196)
