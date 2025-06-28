@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 10:19:44](https://news.ycombinator.com/item?id=44403594) - [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
 * [2025-06-28, 09:32:43](https://news.ycombinator.com/item?id=44403383) - [History of Cycling Maps](https://cyclemaps.blogspot.com/)
 * [2025-06-28, 09:13:00](https://news.ycombinator.com/item?id=44403295) - [Missing Heritability: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/missing-heritability-much-more-than)
 * [2025-06-28, 08:09:30](https://news.ycombinator.com/item?id=44403026) - [We need to talk about Saudi Arabia](https://www.architectsjournal.co.uk/news/opinion/we-need-to-talk-about-saudi-arabia)
