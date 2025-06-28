@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 07:36:20](https://news.ycombinator.com/item?id=44402896) - [IDF Soldiers Confess: Ordered to Shoot Unarmed Gazans at Aid Site](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
 * [2025-06-28, 06:26:50](https://news.ycombinator.com/item?id=44402665) - [Hurricane Forecasters Lose Crucial Satellite Data, with Serious Implications](https://www.scientificamerican.com/article/weather-forecasters-lose-crucial-hurricane-detection-microwave-satellite/)
 * [2025-06-28, 05:59:57](https://news.ycombinator.com/item?id=44402570) - [Quantum Physics Is on the Wrong Track, Says Breakthrough Prize Winner](https://www.scientificamerican.com/article/breakthrough-prize-winner-gerard-t-hooft-says-quantum-mechanics-is-nonsense/)
 * [2025-06-28, 05:42:30](https://news.ycombinator.com/item?id=44402508) - [Dubai Reality Check: An Indian VC's Year of Truth](https://www.dealflowiq.com/p/dubai-reality-check-an-indian-vcs)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-28, 07:36:20](https://news.ycombinator.com/item?id=44402896) - [IDF Soldiers Confess: Ordered to Shoot Unarmed Gazans at Aid Site](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
 * [2025-06-28, 05:42:30](https://news.ycombinator.com/item?id=44402508) - [Dubai Reality Check: An Indian VC's Year of Truth](https://www.dealflowiq.com/p/dubai-reality-check-an-indian-vcs)
 * [2025-06-28, 05:27:29](https://news.ycombinator.com/item?id=44402470) - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
 * [2025-06-28, 00:08:28](https://news.ycombinator.com/item?id=44401406) - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
@@ -29,7 +30,6 @@
 * [2025-06-24, 13:49:35](https://news.ycombinator.com/item?id=44366246) - [London's Largest Ancient Roman Fresco Is “Most Difficult Jigsaw Puzzle”](https://www.thisiscolossal.com/2025/06/mola-liberty-roman-fresco/)
 * [2025-06-24, 08:19:49](https://news.ycombinator.com/item?id=44363948) - [Show HN: Do you know RGB?](https://maxwellito.github.io/do-you-know-rgb/)
 * [2025-06-24, 07:49:43](https://news.ycombinator.com/item?id=44363804) - [Does a Focus on Royalty Obscure British History?](https://www.historytoday.com/archive/head-head/does-focus-royalty-obscure-british-history)
-* [2025-06-24, 03:27:48](https://news.ycombinator.com/item?id=44362628) - [A New Kind of Computer (April 2025)](https://lightmatter.co/blog/a-new-kind-of-computer/)
 
 ## [Archives](archives/index.md)
 
