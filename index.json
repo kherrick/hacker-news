@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-06-28, 15:46:31",
-      "https://news.ycombinator.com/item?id=44405550"
+      "2025-06-28, 16:55:31",
+      "https://news.ycombinator.com/item?id=44406186"
     ],
     [
-      "Ask HN: From the MIT study, is it smarter to resign than to use forced AI?",
-      "https://news.ycombinator.com/item?id=44405550"
+      "Republican governors oppose 10-year moratorium on state AI laws in GOP tax bill",
+      "https://www.politico.com/live-updates/2025/06/27/congress/gop-govs-urge-thune-to-nix-ai-moratorium-00430083"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 16:53:56",
+      "https://news.ycombinator.com/item?id=44406171"
+    ],
+    [
+      "BusyBeaver(6) Is Quite Large",
+      "https://scottaaronson.blog/?p=8972"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 16:29:32",
+      "https://news.ycombinator.com/item?id=44405953"
+    ],
+    [
+      "Jane Street's sneaky retention tactic",
+      "https://www.economist.com/finance-and-economics/2025/06/26/jane-streets-sneaky-retention-tactic"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2025-06-27, 20:12:00",
-      "https://news.ycombinator.com/item?id=44399854"
-    ],
-    [
-      "A brief history of children sent through the mail (2016)",
-      "https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/"
-    ]
-  ],
-  [
-    [
       "2025-06-27, 17:44:32",
       "https://news.ycombinator.com/item?id=44398756"
     ],
     [
       "JWST reveals its first direct image discovery of an exoplanet",
       "https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 15:08:26",
-      "https://news.ycombinator.com/item?id=44397367"
-    ],
-    [
-      "Weird Expressions in Rust",
-      "https://www.wakunguma.com/blog/rust-weird-expr"
     ]
   ],
   [
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2025-06-27, 08:27:15",
-      "https://news.ycombinator.com/item?id=44394916"
-    ],
-    [
-      "DeepSeek R2 launch stalled as CEO balks at progress",
-      "https://www.reuters.com/world/china/deepseek-r2-launch-stalled-ceo-balks-progress-information-reports-2025-06-26/"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 16:11:40",
       "https://news.ycombinator.com/item?id=44378916"
     ],
     [
       "C++ Seeding Surprises (2015)",
       "https://www.pcg-random.org/posts/cpp-seeding-surprises.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 12:41:06",
+      "https://news.ycombinator.com/item?id=44376616"
+    ],
+    [
+      "Verifiably Correct Lifting of Position-Independent x86-64 Binaries (2024)",
+      "https://dl.acm.org/doi/10.1145/3658644.3690244"
     ]
   ],
   [
