@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-06-28, 01:34:36",
-      "https://news.ycombinator.com/item?id=44401729"
-    ],
-    [
-      "Programming as Theory Building: Why Senior Developers Are More Valuable",
-      "https://cekrem.github.io/posts/programming-as-theory-building-naur/"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 00:08:28",
       "https://news.ycombinator.com/item?id=44401406"
     ],
@@ -137,6 +127,16 @@
     [
       "SymbolicAI: A neuro-symbolic perspective on LLMs",
       "https://github.com/ExtensityAI/symbolicai"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 18:45:05",
+      "https://news.ycombinator.com/item?id=44399193"
+    ],
+    [
+      "nimbme – Nim bare-metal environment",
+      "https://github.com/mikra01/nimbme"
     ]
   ],
   [
