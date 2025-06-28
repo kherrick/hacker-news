@@ -2,6 +2,7 @@
 
 * [2025-06-28, 09:32:43](https://news.ycombinator.com/item?id=44403383) - [History of Cycling Maps](https://cyclemaps.blogspot.com/)
 * [2025-06-28, 09:13:00](https://news.ycombinator.com/item?id=44403295) - [Missing Heritability: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/missing-heritability-much-more-than)
+* [2025-06-28, 08:09:30](https://news.ycombinator.com/item?id=44403026) - [We need to talk about Saudi Arabia](https://www.architectsjournal.co.uk/news/opinion/we-need-to-talk-about-saudi-arabia)
 * [2025-06-28, 07:36:20](https://news.ycombinator.com/item?id=44402896) - [IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
 * [2025-06-28, 05:27:29](https://news.ycombinator.com/item?id=44402470) - [I deleted my second brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
 * [2025-06-28, 05:09:28](https://news.ycombinator.com/item?id=44402421) - [An Introduction to Tribalism for the Modern World That Has Forgotten It](https://sustainableviews.substack.com/p/an-introduction-to-tribalism-for)
@@ -13,7 +14,6 @@
 * [2025-06-27, 20:12:00](https://news.ycombinator.com/item?id=44399854) - [A brief history of children sent through the mail (2016)](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
 * [2025-06-27, 19:55:26](https://news.ycombinator.com/item?id=44399757) - [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
 * [2025-06-27, 18:49:57](https://news.ycombinator.com/item?id=44399234) - [SymbolicAI: A neuro-symbolic perspective on LLMs](https://github.com/ExtensityAI/symbolicai)
-* [2025-06-27, 18:45:05](https://news.ycombinator.com/item?id=44399193) - [nimbme – Nim bare-metal environment](https://github.com/mikra01/nimbme)
 * [2025-06-27, 17:44:32](https://news.ycombinator.com/item?id=44398756) - [James Webb Space Telescope reveals its first direct image of an exoplanet](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/)
 * [2025-06-27, 17:02:17](https://news.ycombinator.com/item?id=44398390) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 15:08:26](https://news.ycombinator.com/item?id=44397367) - [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
