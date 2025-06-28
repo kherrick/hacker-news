@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 19:14:50](https://news.ycombinator.com/item?id=44407350) - [AI fakes duel over impeach ment of Vice-President in Phillipines](https://factcheck.afp.com/doc.afp.com.63ZF9CP)
 * [2025-06-28, 19:04:04](https://news.ycombinator.com/item?id=44407245) - [2025 ARRL Field Day](https://www.arrl.org/field-day)
 * [2025-06-28, 18:52:00](https://news.ycombinator.com/item?id=44407139) - [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
 * [2025-06-28, 18:42:05](https://news.ycombinator.com/item?id=44407058) - [Life of an inference request (vLLM V1): How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
 * [2025-06-28, 18:10:50](https://news.ycombinator.com/item?id=44406837) - [Use Plain Text Email](https://useplaintext.email/)
+* [2025-06-28, 18:01:43](https://news.ycombinator.com/item?id=44406768) - [NovaCustom – Framework Laptop alternative focusing on privacy](https://novacustom.com/)
 * [2025-06-28, 17:59:26](https://news.ycombinator.com/item?id=44406750) - [US Justice Department settles antitrust case for HPE's $14B takeover of Juniper](https://www.reuters.com/business/us-doj-settles-antitrust-case-hpes-14-billion-takeover-juniper-2025-06-28/)
 * [2025-06-28, 17:59:11](https://news.ycombinator.com/item?id=44406749) - [BYU study: Why some people choose not to use artificial intelligence](https://news.byu.edu/intellect/byu-study-finds-the-real-reasons-why-some-people-choose-not-to-use-artificial-intelligence)
 * [2025-06-28, 17:36:16](https://news.ycombinator.com/item?id=44406549) - [Boeing uses potatoes to test wi-fi](https://www.bbc.com/news/technology-20813441)
