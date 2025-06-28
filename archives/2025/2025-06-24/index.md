@@ -36,6 +36,7 @@
 * [2025-06-24, 15:07:49](https://news.ycombinator.com/item?id=44367071) - [Nordic Semiconductor Acquires Memfault](https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault)
 * [2025-06-24, 15:01:07](https://news.ycombinator.com/item?id=44367004) - [bootc-image-builder: Build your entire OS from a Containerfile](https://github.com/osbuild/bootc-image-builder)
 * [2025-06-24, 14:59:38](https://news.ycombinator.com/item?id=44366987) - [New Firefox Add-On Policies](https://blog.mozilla.org/addons/2025/06/23/updated-add-on-policies-simplified-clarified/)
+* [2025-06-24, 14:52:05](https://news.ycombinator.com/item?id=44366904) - [LLMs bring new nature of abstraction – up and sideways](https://martinfowler.com/articles/2025-nature-abstraction.html)
 * [2025-06-24, 14:30:50](https://news.ycombinator.com/item?id=44366679) - [The United States has lower life expectancy than most similarly wealthy nations](https://www.nature.com/articles/d41586-025-01969-1)
 * [2025-06-24, 14:29:59](https://news.ycombinator.com/item?id=44366670) - [Reinforcement learning, explained with a minimum of math and jargon](https://www.understandingai.org/p/reinforcement-learning-explained)
 * [2025-06-24, 14:18:11](https://news.ycombinator.com/item?id=44366548) - [PlasticList – Plastic Levels in Foods](https://www.plasticlist.org/)

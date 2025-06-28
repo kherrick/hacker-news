@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-28, 06:26:50](https://news.ycombinator.com/item?id=44402665) - [Hurricane Forecasters Lose Crucial Satellite Data, with Serious Implications](https://www.scientificamerican.com/article/weather-forecasters-lose-crucial-hurricane-detection-microwave-satellite/)
-* [2025-06-28, 05:59:57](https://news.ycombinator.com/item?id=44402570) - [Quantum Physics Is on the Wrong Track, Says Breakthrough Prize Winner](https://www.scientificamerican.com/article/breakthrough-prize-winner-gerard-t-hooft-says-quantum-mechanics-is-nonsense/)
 * [2025-06-28, 05:42:30](https://news.ycombinator.com/item?id=44402508) - [Dubai Reality Check: An Indian VC's Year of Truth](https://www.dealflowiq.com/p/dubai-reality-check-an-indian-vcs)
 * [2025-06-28, 05:27:29](https://news.ycombinator.com/item?id=44402470) - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
 * [2025-06-28, 00:08:28](https://news.ycombinator.com/item?id=44401406) - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
@@ -26,6 +25,7 @@
 * [2025-06-25, 18:35:25](https://news.ycombinator.com/item?id=44380500) - [NLNet: 62 new projects contribute to digital commons](https://nlnet.nl/news/2025/20250624-announcement-grants-CommonsFund.html)
 * [2025-06-24, 15:52:47](https://news.ycombinator.com/item?id=44367539) - [c4wa – C compiler for Web Assembly](https://github.com/kign/c4wa)
 * [2025-06-24, 15:01:07](https://news.ycombinator.com/item?id=44367004) - [bootc-image-builder: Build your entire OS from a Containerfile](https://github.com/osbuild/bootc-image-builder)
+* [2025-06-24, 14:52:05](https://news.ycombinator.com/item?id=44366904) - [LLMs bring new nature of abstraction – up and sideways](https://martinfowler.com/articles/2025-nature-abstraction.html)
 * [2025-06-24, 14:29:59](https://news.ycombinator.com/item?id=44366670) - [Reinforcement learning, explained with a minimum of math and jargon](https://www.understandingai.org/p/reinforcement-learning-explained)
 * [2025-06-24, 13:49:35](https://news.ycombinator.com/item?id=44366246) - [London's Largest Ancient Roman Fresco Is “Most Difficult Jigsaw Puzzle”](https://www.thisiscolossal.com/2025/06/mola-liberty-roman-fresco/)
 * [2025-06-24, 08:19:49](https://news.ycombinator.com/item?id=44363948) - [Show HN: Do you know RGB?](https://maxwellito.github.io/do-you-know-rgb/)
