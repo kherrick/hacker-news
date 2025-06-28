@@ -13,6 +13,7 @@
 * [2025-06-24, 20:01:42](https://news.ycombinator.com/item?id=44370426) - [How to Think About Time in Programming](https://shanrauf.com/archive/how-to-think-about-time-in-programming)
 * [2025-06-24, 19:55:53](https://news.ycombinator.com/item?id=44370370) - [The Economics Behind \"Basic Economy\" – A Masterclass in Price Discrimination](https://blog.getjetback.com/the-economics-behind-basic-economy-a-masterclass-in-price-discrimination/)
 * [2025-06-24, 19:44:53](https://news.ycombinator.com/item?id=44370249) - [Analyzing a Critique of the AI 2027 Timeline Forecasts](https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027)
+* [2025-06-24, 19:10:34](https://news.ycombinator.com/item?id=44369810) - [Korean students seek 'digital undertakers' amid US visa social media screening](https://www.koreaherald.com/article/10515737)
 * [2025-06-24, 19:04:21](https://news.ycombinator.com/item?id=44369735) - [Early US Intel assessment suggests strikes on Iran did not destroy nuclear sites](https://www.cnn.com/2025/06/24/politics/intel-assessment-us-strikes-iran-nuclear-sites)
 * [2025-06-24, 18:58:32](https://news.ycombinator.com/item?id=44369646) - [Forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
 * [2025-06-24, 18:58:11](https://news.ycombinator.com/item?id=44369642) - [Subsecond: A runtime hotpatching engine for Rust hot-reloading](https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html)
