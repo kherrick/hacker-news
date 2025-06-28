@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-28, 21:29:23",
+      "https://news.ycombinator.com/item?id=44408325"
+    ],
+    [
+      "Microsoft tried dogfooding Copilot with .NET, but got only hallucinations",
+      "https://news.ycombinator.com/item?id=44408325"
+    ]
+  ],
+  [
+    [
       "2025-06-28, 21:22:14",
       "https://news.ycombinator.com/item?id=44408286"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-06-28, 19:14:50",
-      "https://news.ycombinator.com/item?id=44407350"
-    ],
-    [
-      "AI fakes duel over impeachment of Vice-President in Phillipines",
-      "https://factcheck.afp.com/doc.afp.com.63ZF9CP"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 19:04:04",
       "https://news.ycombinator.com/item?id=44407245"
     ],
@@ -67,16 +67,6 @@
     [
       "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
       "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 18:10:50",
-      "https://news.ycombinator.com/item?id=44406837"
-    ],
-    [
-      "Use Plain Text Email",
-      "https://useplaintext.email/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Verifiably Correct Lifting of Position-Independent x86-64 Binaries (2024)",
       "https://dl.acm.org/doi/10.1145/3658644.3690244"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 12:23:24",
+      "https://news.ycombinator.com/item?id=44376471"
+    ],
+    [
+      "After successfully entering Earth's atmosphere, a European spacecraft is lost",
+      "https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/"
     ]
   ],
   [
