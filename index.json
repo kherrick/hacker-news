@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-28, 14:05:47",
+      "https://news.ycombinator.com/item?id=44404782"
+    ],
+    [
+      "Facebook is asking to use Meta AI on photos in your camera roll you haven't yet",
+      "https://techcrunch.com/2025/06/27/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared/"
+    ]
+  ],
+  [
+    [
       "2025-06-28, 13:33:10",
       "https://news.ycombinator.com/item?id=44404601"
     ],
@@ -57,6 +67,16 @@
     [
       "History of Cycling Maps",
       "https://cyclemaps.blogspot.com/"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 08:45:05",
+      "https://news.ycombinator.com/item?id=44403195"
+    ],
+    [
+      "Untangling Lifetimes: The Arena Allocator",
+      "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
     ]
   ],
   [
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2025-06-25, 19:21:38",
-      "https://news.ycombinator.com/item?id=44380964"
+      "2025-06-25, 16:11:40",
+      "https://news.ycombinator.com/item?id=44378916"
     ],
     [
-      "The Original Macintosh: Calculator Construction Set",
-      "https://www.folklore.org/Calculator_Construction_Set.html"
+      "C++ Seeding Surprises (2015)",
+      "https://www.pcg-random.org/posts/cpp-seeding-surprises.html"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-06-24, 19:10:34",
-      "https://news.ycombinator.com/item?id=44369810"
-    ],
-    [
-      "Korean students seek 'digital undertakers' amid US visa social media screening",
-      "https://www.koreaherald.com/article/10515737"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 16:18:07",
       "https://news.ycombinator.com/item?id=44367811"
     ],
     [
       "Lossless LLM 3x Throughput Increase by LMCache",
       "https://github.com/LMCache/LMCache"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 15:52:47",
-      "https://news.ycombinator.com/item?id=44367539"
-    ],
-    [
-      "c4wa – C compiler for Web Assembly",
-      "https://github.com/kign/c4wa"
     ]
   ],
   [
