@@ -25,7 +25,7 @@
 * [2025-06-27, 17:44:32](https://news.ycombinator.com/item?id=44398756) - [JWST reveals its first direct image discovery of an exoplanet](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/)
 * [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 * [2025-06-25, 12:41:06](https://news.ycombinator.com/item?id=44376616) - [Verifiably Correct Lifting of Position-Independent x86-64 Binaries (2024)](https://dl.acm.org/doi/10.1145/3658644.3690244)
-* [2025-06-25, 11:34:38](https://news.ycombinator.com/item?id=44376075) - [Show HN: A Go service that exposes a FIFO message queue in RAM](https://github.com/raiyanyahya/zapq)
+* [2025-06-25, 12:23:24](https://news.ycombinator.com/item?id=44376471) - [After successfully entering Earth's atmosphere, a European spacecraft is lost](https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/)
 * [2025-06-25, 10:55:14](https://news.ycombinator.com/item?id=44375795) - [LLMs Bring New Nature of Abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html)
 * [2025-06-25, 05:47:27](https://news.ycombinator.com/item?id=44373976) - [Evaluating Long-Context Question and Answer Systems](https://eugeneyan.com/writing/qa-evals/)
 * [2025-06-24, 16:18:07](https://news.ycombinator.com/item?id=44367811) - [Lossless LLM 3x Throughput Increase by LMCache](https://github.com/LMCache/LMCache)
