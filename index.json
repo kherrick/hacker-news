@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-06-28, 05:59:57",
-      "https://news.ycombinator.com/item?id=44402570"
-    ],
-    [
-      "Quantum Physics Is on the Wrong Track, Says Breakthrough Prize Winner",
-      "https://www.scientificamerican.com/article/breakthrough-prize-winner-gerard-t-hooft-says-quantum-mechanics-is-nonsense/"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 05:42:30",
       "https://news.ycombinator.com/item?id=44402508"
     ],
@@ -257,6 +247,16 @@
     [
       "bootc-image-builder: Build your entire OS from a Containerfile",
       "https://github.com/osbuild/bootc-image-builder"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 14:52:05",
+      "https://news.ycombinator.com/item?id=44366904"
+    ],
+    [
+      "LLMs bring new nature of abstraction – up and sideways",
+      "https://martinfowler.com/articles/2025-nature-abstraction.html"
     ]
   ],
   [
