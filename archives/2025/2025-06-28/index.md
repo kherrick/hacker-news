@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 12:00:47](https://news.ycombinator.com/item?id=44404045) - [Lago (Open-Source Usage Based Billing) is hiring for 10 roles](https://www.ycombinator.com/companies/lago/jobs)
 * [2025-06-28, 11:14:38](https://news.ycombinator.com/item?id=44403841) - [Swarms of robots could go up your nose, melt the mucus and clean your sinuses](https://www.zmescience.com/future/swarms-of-tiny-robots-could-go-up-your-nose-melt-the-mucus-and-clean-your-sinuses/)
 * [2025-06-28, 10:19:44](https://news.ycombinator.com/item?id=44403594) - [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
 * [2025-06-28, 09:32:43](https://news.ycombinator.com/item?id=44403383) - [History of Cycling Maps](https://cyclemaps.blogspot.com/)
