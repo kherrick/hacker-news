@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
 * [2025-06-28, 17:59:26](https://news.ycombinator.com/item?id=44406750) - [US Justice Department settles antitrust case for HPE's $14B takeover of Juniper](https://www.reuters.com/business/us-doj-settles-antitrust-case-hpes-14-billion-takeover-juniper-2025-06-28/)
+* [2025-06-28, 17:59:11](https://news.ycombinator.com/item?id=44406749) - [BYU study: Why some people choose not to use artificial intelligence](https://news.byu.edu/intellect/byu-study-finds-the-real-reasons-why-some-people-choose-not-to-use-artificial-intelligence)
 * [2025-06-28, 17:36:16](https://news.ycombinator.com/item?id=44406549) - [Boeing uses potatoes to test wi-fi](https://www.bbc.com/news/technology-20813441)
 * [2025-06-28, 17:20:17](https://news.ycombinator.com/item?id=44406400) - [No One Is in Charge at the US Copyright Office](https://www.wired.com/story/us-copyright-office-chaos-doge/)
 * [2025-06-28, 17:15:27](https://news.ycombinator.com/item?id=44406360) - [Lima Site 85: How a CIA Helicopter Defended a Secret U.S. Radar Facility](https://www.aviacionline.com/lima-site-85-how-a-cia-helicopter-defended-a-secret-us-radar-facility)
