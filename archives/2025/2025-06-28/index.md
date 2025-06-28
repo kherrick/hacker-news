@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 16:55:31](https://news.ycombinator.com/item?id=44406186) - [Republican governors oppose 10-year moratorium on state AI laws in GOP tax bill](https://www.politico.com/live-updates/2025/06/27/congress/gop-govs-urge-thune-to-nix-ai-moratorium-00430083)
+* [2025-06-28, 16:53:56](https://news.ycombinator.com/item?id=44406171) - [BusyBeaver(6) Is Quite Large](https://scottaaronson.blog/?p=8972)
+* [2025-06-28, 16:29:32](https://news.ycombinator.com/item?id=44405953) - [Jane Street's sneaky retention tactic](https://www.economist.com/finance-and-economics/2025/06/26/jane-streets-sneaky-retention-tactic)
 * [2025-06-28, 15:46:31](https://news.ycombinator.com/item?id=44405550) - [Ask HN: From the MIT study, is it smarter to resign than to use forced AI?](https://news.ycombinator.com/item?id=44405550)
 * [2025-06-28, 15:37:15](https://news.ycombinator.com/item?id=44405464) - [People Are Being Involuntarily Committed After Spiraling into ChatGPT Psychosis](https://futurism.com/commitment-jail-chatgpt-psychosis)
 * [2025-06-28, 15:23:48](https://news.ycombinator.com/item?id=44405342) - [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)

@@ -62,6 +62,7 @@
 * [2025-06-25, 13:11:15](https://news.ycombinator.com/item?id=44376928) - [Second study finds Uber used opaque algorithm to dramatically boost profits](https://www.theguardian.com/technology/2025/jun/25/second-study-finds-uber-used-opaque-algorithm-to-dramatically-boost-profits)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 * [2025-06-25, 13:10:46](https://news.ycombinator.com/item?id=44376919) - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+* [2025-06-25, 12:41:06](https://news.ycombinator.com/item?id=44376616) - [Verifiably Correct Lifting of Position-Independent x86-64 Binaries (2024)](https://dl.acm.org/doi/10.1145/3658644.3690244)
 * [2025-06-25, 12:30:42](https://news.ycombinator.com/item?id=44376530) - [Disposable E-Cigarettes More Toxic Than Traditional Cigarettes](https://www.ucdavis.edu/news/disposable-e-cigarettes-more-toxic-traditional-cigarettes)
 * [2025-06-25, 12:23:24](https://news.ycombinator.com/item?id=44376471) - [After successfully entering Earth's atmosphere, a European spacecraft is lost](https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/)
 * [2025-06-25, 12:19:13](https://news.ycombinator.com/item?id=44376428) - [CareerBuilder and Monster job boards, file for bankruptcy](https://www.reuters.com/legal/litigation/careerbuilder-monster-which-once-dominated-online-job-boards-file-bankruptcy-2025-06-24/)
