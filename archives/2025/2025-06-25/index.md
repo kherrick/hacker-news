@@ -43,6 +43,7 @@
 * [2025-06-25, 16:34:51](https://news.ycombinator.com/item?id=44379173) - [Iroh: A library to establish direct connection between peers](https://github.com/n0-computer/iroh)
 * [2025-06-25, 16:21:45](https://news.ycombinator.com/item?id=44379034) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
 * [2025-06-25, 16:11:40](https://news.ycombinator.com/item?id=44378916) - [C++ Seeding Surprises (2015)](https://www.pcg-random.org/posts/cpp-seeding-surprises.html)
+* [2025-06-25, 15:36:38](https://news.ycombinator.com/item?id=44378517) - [Show HN: AGL a toy language that compiles to Go](https://github.com/alaingilbert/agl)
 * [2025-06-25, 15:33:20](https://news.ycombinator.com/item?id=44378486) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
 * [2025-06-25, 15:29:42](https://news.ycombinator.com/item?id=44378444) - [Information has been permanently deleted, for small values of permanently](https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308)
 * [2025-06-25, 15:12:35](https://news.ycombinator.com/item?id=44378271) - [Ask HN: Anyone Using Augmented Reality, VR, Glasses, Helmets etc. in Industry?](https://news.ycombinator.com/item?id=44378271)

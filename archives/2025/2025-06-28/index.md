@@ -9,6 +9,7 @@
 * [2025-06-28, 19:04:04](https://news.ycombinator.com/item?id=44407245) - [2025 ARRL Field Day](https://www.arrl.org/field-day)
 * [2025-06-28, 18:52:00](https://news.ycombinator.com/item?id=44407139) - [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
 * [2025-06-28, 18:42:05](https://news.ycombinator.com/item?id=44407058) - [Life of an inference request (vLLM V1): How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
+* [2025-06-28, 18:37:59](https://news.ycombinator.com/item?id=44407029) - [Sinaloa cartel used phone data and surveillance cameras to find FBI informants](https://www.reuters.com/world/americas/sinaloa-cartel-hacked-phones-surveillance-cameras-find-fbi-informants-doj-says-2025-06-27/)
 * [2025-06-28, 18:16:58](https://news.ycombinator.com/item?id=44406881) - [Meta Spends $14B to Hire a Single Guy](https://theahura.substack.com/p/tech-things-meta-spends-14b-to-hire)
 * [2025-06-28, 18:10:50](https://news.ycombinator.com/item?id=44406837) - [Use Plain Text Email](https://useplaintext.email/)
 * [2025-06-28, 18:01:43](https://news.ycombinator.com/item?id=44406768) - [NovaCustom – Framework Laptop alternative focusing on privacy](https://novacustom.com/)
