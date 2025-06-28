@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-28, 12:00:47",
+      "https://news.ycombinator.com/item?id=44404045"
+    ],
+    [
+      "Lago (Open-Source Usage Based Billing) is hiring for 10 roles",
+      "https://www.ycombinator.com/companies/lago/jobs"
+    ]
+  ],
+  [
+    [
       "2025-06-28, 11:14:38",
       "https://news.ycombinator.com/item?id=44403841"
     ],
@@ -107,16 +117,6 @@
     [
       "A brief history of children sent through the mail (2016)",
       "https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 19:55:26",
-      "https://news.ycombinator.com/item?id=44399757"
-    ],
-    [
-      "Structuring Arrays with Algebraic Shapes",
-      "https://dl.acm.org/doi/abs/10.1145/3736112.3736141"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2025-06-24, 16:18:07",
+      "https://news.ycombinator.com/item?id=44367811"
+    ],
+    [
+      "Lossless LLM 3x Throughput Increase by LMCache",
+      "https://github.com/LMCache/LMCache"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 15:52:47",
       "https://news.ycombinator.com/item?id=44367539"
     ],
     [
       "c4wa – C compiler for Web Assembly",
       "https://github.com/kign/c4wa"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 15:01:07",
-      "https://news.ycombinator.com/item?id=44367004"
-    ],
-    [
-      "bootc-image-builder: Build your entire OS from a Containerfile",
-      "https://github.com/osbuild/bootc-image-builder"
     ]
   ],
   [
