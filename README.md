@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-28, 17:36:16](https://news.ycombinator.com/item?id=44406549) - [Boeing uses potatoes to test wi-fi](https://www.bbc.com/news/technology-20813441)
+* [2025-06-28, 17:20:17](https://news.ycombinator.com/item?id=44406400) - [No One Is in Charge at the US Copyright Office](https://www.wired.com/story/us-copyright-office-chaos-doge/)
+* [2025-06-28, 17:15:27](https://news.ycombinator.com/item?id=44406360) - [Lima Site 85: How a CIA Helicopter Defended a Secret U.S. Radar Facility](https://www.aviacionline.com/lima-site-85-how-a-cia-helicopter-defended-a-secret-us-radar-facility)
 * [2025-06-28, 16:55:31](https://news.ycombinator.com/item?id=44406186) - [Republican governors oppose 10-year moratorium on state AI laws in GOP tax bill](https://www.politico.com/live-updates/2025/06/27/congress/gop-govs-urge-thune-to-nix-ai-moratorium-00430083)
 * [2025-06-28, 16:53:56](https://news.ycombinator.com/item?id=44406171) - [BusyBeaver(6) Is Quite Large](https://scottaaronson.blog/?p=8972)
 * [2025-06-28, 16:29:32](https://news.ycombinator.com/item?id=44405953) - [Jane Street's sneaky retention tactic](https://www.economist.com/finance-and-economics/2025/06/26/jane-streets-sneaky-retention-tactic)
-* [2025-06-28, 16:16:12](https://news.ycombinator.com/item?id=44405812) - [What makes Europe better than America?](https://www.thefp.com/p/what-makes-europe-better-than-america)
 * [2025-06-28, 16:06:15](https://news.ycombinator.com/item?id=44405728) - [Arrests of scientists over smuggled samples add to US border anxiety](https://www.nature.com/articles/d41586-025-01958-4)
 * [2025-06-28, 15:23:48](https://news.ycombinator.com/item?id=44405342) - [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
 * [2025-06-28, 14:45:43](https://news.ycombinator.com/item?id=44405057) - [Addictions Are Being Engineered](https://masonyarbrough.substack.com/p/engineered-addictions)
@@ -15,7 +17,6 @@
 * [2025-06-28, 10:19:44](https://news.ycombinator.com/item?id=44403594) - [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
 * [2025-06-28, 09:32:43](https://news.ycombinator.com/item?id=44403383) - [History of Cycling Maps](https://cyclemaps.blogspot.com/)
 * [2025-06-28, 08:45:05](https://news.ycombinator.com/item?id=44403195) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
-* [2025-06-28, 07:36:20](https://news.ycombinator.com/item?id=44402896) - [IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
 * [2025-06-28, 05:27:29](https://news.ycombinator.com/item?id=44402470) - [I deleted my second brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
 * [2025-06-27, 20:50:10](https://news.ycombinator.com/item?id=44400105) - [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
 * [2025-06-27, 17:44:32](https://news.ycombinator.com/item?id=44398756) - [JWST reveals its first direct image discovery of an exoplanet](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/)
@@ -28,7 +29,6 @@
 * [2025-06-24, 16:18:07](https://news.ycombinator.com/item?id=44367811) - [Lossless LLM 3x Throughput Increase by LMCache](https://github.com/LMCache/LMCache)
 * [2025-06-24, 14:29:59](https://news.ycombinator.com/item?id=44366670) - [Reinforcement learning, explained with a minimum of math and jargon](https://www.understandingai.org/p/reinforcement-learning-explained)
 * [2025-06-24, 13:49:35](https://news.ycombinator.com/item?id=44366246) - [London's largest ancient Roman fresco is “most difficult jigsaw puzzle”](https://www.thisiscolossal.com/2025/06/mola-liberty-roman-fresco/)
-* [2025-06-24, 13:29:35](https://news.ycombinator.com/item?id=44366057) - [A short history of web bots and bot detection techniques](https://sinja.io/blog/bot-or-not)
 * [2025-06-22, 11:56:03](https://news.ycombinator.com/item?id=44346141) - [Engineer creates ad block for the real world with augmented reality glasses](https://www.tomshardware.com/maker-stem/engineer-creates-ad-block-for-the-real-world-with-augmented-reality-glasses-no-more-products-or-branding-in-your-everyday-life)
 
 ## [Archives](archives/index.md)
