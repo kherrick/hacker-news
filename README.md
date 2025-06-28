@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
-* [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
+* [2025-06-28, 21:55:47](https://news.ycombinator.com/item?id=44408484) - [Exploring Trichromacy through Maxwell's Color Experiment (2023)](https://maxwell.kohterai.com/)
 * [2025-06-28, 19:56:52](https://news.ycombinator.com/item?id=44407661) - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 * [2025-06-28, 19:54:05](https://news.ycombinator.com/item?id=44407640) - [The Great Illusion: When We Believed BeOS Would Save the World](https://www.desktoponfire.com/haiku_inc/782/the-great-illusion-when-we-believed-beos-would-save-the-world-and-maybe-it-was-right/)
 * [2025-06-28, 19:04:04](https://news.ycombinator.com/item?id=44407245) - [2025 ARRL Field Day](https://www.arrl.org/field-day)
