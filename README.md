@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-28, 15:37:15](https://news.ycombinator.com/item?id=44405464) - [People Are Being Involuntarily Committed After Spiraling into ChatGPT Psychosis](https://futurism.com/commitment-jail-chatgpt-psychosis)
 * [2025-06-28, 15:23:48](https://news.ycombinator.com/item?id=44405342) - [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
 * [2025-06-28, 14:46:20](https://news.ycombinator.com/item?id=44405067) - [Ask HN: What are you actually using LLMs for in production?](https://news.ycombinator.com/item?id=44405067)
 * [2025-06-28, 14:22:10](https://news.ycombinator.com/item?id=44404905) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
@@ -7,7 +8,6 @@
 * [2025-06-28, 12:32:02](https://news.ycombinator.com/item?id=44404224) - [ZeQLplus: Terminal SQLite Database Browser](https://github.com/ZetloStudio/ZeQLplus)
 * [2025-06-28, 12:20:08](https://news.ycombinator.com/item?id=44404164) - [We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
 * [2025-06-28, 12:00:47](https://news.ycombinator.com/item?id=44404045) - [Lago (Open-Source Usage Based Billing) is hiring for ten roles](https://www.ycombinator.com/companies/lago/jobs)
-* [2025-06-28, 10:27:24](https://news.ycombinator.com/item?id=44403639) - [Finding Peter Putnam: The forgotten janitor who discovered the logic of the mind](https://nautil.us/finding-peter-putnam-1218035/)
 * [2025-06-28, 10:19:44](https://news.ycombinator.com/item?id=44403594) - [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
 * [2025-06-28, 09:32:43](https://news.ycombinator.com/item?id=44403383) - [History of Cycling Maps](https://cyclemaps.blogspot.com/)
 * [2025-06-28, 08:45:05](https://news.ycombinator.com/item?id=44403195) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
