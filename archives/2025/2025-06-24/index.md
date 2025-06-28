@@ -6,6 +6,7 @@
 
 * [2025-06-24, 23:35:13](https://news.ycombinator.com/item?id=44372215) - [Berkshire Hathaway Now Pays 5% of All Corporate Income Taxes in America](https://www.barchart.com/story/news/33003534/warren-buffetts-berkshire-hathaway-now-pays-5-of-all-corporate-income-taxes-in-america)
 * [2025-06-24, 23:26:19](https://news.ycombinator.com/item?id=44372162) - [Mid-sized cities outperform major metros at turning economic growth into patents](https://www.governance.fyi/p/booms-not-busts-drives-innovation)
+* [2025-06-24, 23:09:18](https://news.ycombinator.com/item?id=44372041) - [Why the moon shimmers with shiny glass beads](https://phys.org/news/2025-06-moon-shimmers-shiny-glass-beads.html)
 * [2025-06-24, 22:32:54](https://news.ycombinator.com/item?id=44371740) - [Show HN: VSCan - Detect Malicious VSCode Extensions](https://vscan.dev/)
 * [2025-06-24, 21:18:45](https://news.ycombinator.com/item?id=44371169) - [National Archives to restrict public access starting July 7](https://www.archives.gov/college-park)
 * [2025-06-24, 20:07:51](https://news.ycombinator.com/item?id=44370494) - [The German automotive industry wants to develop open-source software together](https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding)
