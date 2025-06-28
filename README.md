@@ -28,8 +28,8 @@
 * [2025-06-25, 12:23:24](https://news.ycombinator.com/item?id=44376471) - [After successfully entering Earth's atmosphere, a European spacecraft is lost](https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/)
 * [2025-06-25, 08:15:26](https://news.ycombinator.com/item?id=44374827) - [A literary magazine accessible only via telnet](https://news.ycombinator.com/item?id=44374827)
 * [2025-06-25, 05:47:27](https://news.ycombinator.com/item?id=44373976) - [Evaluating Long-Context Question and Answer Systems](https://eugeneyan.com/writing/qa-evals/)
+* [2025-06-25, 04:13:43](https://news.ycombinator.com/item?id=44373562) - [Community Is Motivation on Tap](https://alanwu.xyz/posts/community/)
 * [2025-06-24, 23:09:18](https://news.ycombinator.com/item?id=44372041) - [Why the moon shimmers with shiny glass beads](https://phys.org/news/2025-06-moon-shimmers-shiny-glass-beads.html)
-* [2025-06-24, 16:18:07](https://news.ycombinator.com/item?id=44367811) - [Lossless LLM 3x Throughput Increase by LMCache](https://github.com/LMCache/LMCache)
 
 ## [Archives](archives/index.md)
 
