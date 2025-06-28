@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-28](index.md)
 
+* [2025-06-28, 06:26:50](https://news.ycombinator.com/item?id=44402665) - [Hurricane Forecasters Lose Crucial Satellite Data, with Serious Implications](https://www.scientificamerican.com/article/weather-forecasters-lose-crucial-hurricane-detection-microwave-satellite/)
 * [2025-06-28, 05:42:30](https://news.ycombinator.com/item?id=44402508) - [Dubai Reality Check: An Indian VC's Year of Truth](https://www.dealflowiq.com/p/dubai-reality-check-an-indian-vcs)
 * [2025-06-28, 05:27:29](https://news.ycombinator.com/item?id=44402470) - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
 * [2025-06-28, 04:54:44](https://news.ycombinator.com/item?id=44402380) - [Why Does Kars4Kids Sends Most of Its Money to One Town in New Jersey? (2023)](https://www.mossplanet.news/p/why-does-kars4kids-sends-most-of)
