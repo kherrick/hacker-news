@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 23:45:03](https://news.ycombinator.com/item?id=44401303) - [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
+* [2025-06-27, 22:07:11](https://news.ycombinator.com/item?id=44400698) - [Theoretical Analysis of Positional Encodings in Transformer Models](https://arxiv.org/abs/2506.06398)
 * [2025-06-27, 22:07:03](https://news.ycombinator.com/item?id=44400697) - [Rust in the Linux kernel: part 2](https://lwn.net/SubscriberLink/1025232/fbb2d90d084368e3/)
 * [2025-06-27, 21:33:43](https://news.ycombinator.com/item?id=44400441) - [Tesla has been ordered to stop \"deceptive practices\" about driving ability](https://www.latintimes.com/tesla-ordered-stop-deceptive-practices-cars-self-driving-capabilities-france-face-thousands-585563)
 * [2025-06-27, 21:33:36](https://news.ycombinator.com/item?id=44400440) - [The Journey of Bypassing Ubuntu's Unprivileged Namespace Restriction](https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html)

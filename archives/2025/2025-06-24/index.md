@@ -62,6 +62,7 @@
 * [2025-06-24, 08:19:49](https://news.ycombinator.com/item?id=44363948) - [Show HN: Do You Know RGB?](https://maxwellito.github.io/do-you-know-rgb/)
 * [2025-06-24, 07:29:08](https://news.ycombinator.com/item?id=44363696) - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
 * [2025-06-24, 06:04:21](https://news.ycombinator.com/item?id=44363262) - [Tell HN: Meta developer account suspended](https://news.ycombinator.com/item?id=44363262)
+* [2025-06-24, 05:52:26](https://news.ycombinator.com/item?id=44363196) - [Ask HN: How do you learn Spanish guitar?](https://news.ycombinator.com/item?id=44363196)
 * [2025-06-24, 05:34:24](https://news.ycombinator.com/item?id=44363106) - [The NO FAKES Act Has Changed – and It's So Much Worse](https://www.eff.org/deeplinks/2025/06/no-fakes-act-has-changed-and-its-so-much-worse)
 * [2025-06-24, 05:24:55](https://news.ycombinator.com/item?id=44363072) - [Harvard hired researcher to uncover slavery ties, fires him for finding slaves](https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved)
 * [2025-06-24, 05:21:48](https://news.ycombinator.com/item?id=44363054) - [Microsoft confirms Windows 11 automatic deletions of System Restore points](https://www.forbes.com/sites/davidphelan/2025/06/23/microsoft-confirms-windows-11-automatic-deletions-take-action-now-to-protect-yourself/)
