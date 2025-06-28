@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-28, 11:14:38](https://news.ycombinator.com/item?id=44403841) - [Swarms of robots could go up your nose, melt the mucus and clean your sinuses](https://www.zmescience.com/future/swarms-of-tiny-robots-could-go-up-your-nose-melt-the-mucus-and-clean-your-sinuses/)
 * [2025-06-28, 10:19:44](https://news.ycombinator.com/item?id=44403594) - [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
 * [2025-06-28, 09:32:43](https://news.ycombinator.com/item?id=44403383) - [History of Cycling Maps](https://cyclemaps.blogspot.com/)
 * [2025-06-28, 07:36:20](https://news.ycombinator.com/item?id=44402896) - [IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
@@ -7,7 +8,6 @@
 * [2025-06-28, 05:09:28](https://news.ycombinator.com/item?id=44402421) - [An Introduction to Tribalism for the Modern World That Has Forgotten It](https://sustainableviews.substack.com/p/an-introduction-to-tribalism-for)
 * [2025-06-28, 00:08:28](https://news.ycombinator.com/item?id=44401406) - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
 * [2025-06-27, 23:45:03](https://news.ycombinator.com/item?id=44401303) - [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
-* [2025-06-27, 21:01:03](https://news.ycombinator.com/item?id=44400190) - [Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team)
 * [2025-06-27, 20:50:10](https://news.ycombinator.com/item?id=44400105) - [Normalizing Flows Are Capable Generative Models](https://machinelearning.apple.com/research/normalizing-flows)
 * [2025-06-27, 20:36:51](https://news.ycombinator.com/item?id=44400025) - [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public/#activity=exercises)
 * [2025-06-27, 20:12:00](https://news.ycombinator.com/item?id=44399854) - [A brief history of children sent through the mail (2016)](https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/)
