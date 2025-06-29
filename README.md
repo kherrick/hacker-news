@@ -17,7 +17,6 @@
 * [2025-06-28, 16:55:01](https://news.ycombinator.com/item?id=44406178) - [An Indoor Beehive in My Bedroom Wall](https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/)
 * [2025-06-28, 16:53:56](https://news.ycombinator.com/item?id=44406171) - [BusyBeaver(6) Is Quite Large](https://scottaaronson.blog/?p=8972)
 * [2025-06-28, 16:50:19](https://news.ycombinator.com/item?id=44406140) - [Is being bilingual good for your brain?](https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain)
-* [2025-06-28, 15:23:48](https://news.ycombinator.com/item?id=44405342) - [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
 * [2025-06-28, 14:45:43](https://news.ycombinator.com/item?id=44405057) - [Engineered Addictions](https://masonyarbrough.substack.com/p/engineered-addictions)
 * [2025-06-28, 14:22:10](https://news.ycombinator.com/item?id=44404905) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 * [2025-06-28, 14:18:18](https://news.ycombinator.com/item?id=44404876) - [Sirius: A GPU-native SQL engine](https://github.com/sirius-db/sirius)
@@ -28,6 +27,7 @@
 * [2025-06-26, 06:24:52](https://news.ycombinator.com/item?id=44384693) - [The European wood pigeon helped me appreciate its omnipresent city cousins](https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html)
 * [2025-06-26, 00:18:13](https://news.ycombinator.com/item?id=44383050) - [Abusing copyright strings to trick SW into thinking it's running competitor's PC](https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299)
 * [2025-06-25, 22:37:53](https://news.ycombinator.com/item?id=44382419) - [Improving River Simulation](https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html)
+* [2025-06-25, 19:54:57](https://news.ycombinator.com/item?id=44381265) - [Bazzite would shut down if Fedora goes ahead with removing 32-bit](https://www.gamingonlinux.com/2025/06/bazzite-would-shut-down-if-fedora-goes-ahead-with-removing-32-bit/)
 * [2025-06-25, 08:59:12](https://news.ycombinator.com/item?id=44375075) - [Sequence and first differences together list all positive numbers exactly once](https://oeis.org/A005228)
 * [2025-06-25, 04:13:43](https://news.ycombinator.com/item?id=44373562) - [Community Is Motivation on Tap](https://alanwu.xyz/posts/community/)
 
