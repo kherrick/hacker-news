@@ -20,6 +20,7 @@
 * [2025-06-28, 18:42:05](https://news.ycombinator.com/item?id=44407058) - [Life of an inference request (vLLM V1): How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
 * [2025-06-28, 16:55:01](https://news.ycombinator.com/item?id=44406178) - [An Indoor Beehive in My Bedroom Wall](https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/)
 * [2025-06-28, 16:53:56](https://news.ycombinator.com/item?id=44406171) - [BusyBeaver(6) Is Quite Large](https://scottaaronson.blog/?p=8972)
+* [2025-06-28, 16:50:19](https://news.ycombinator.com/item?id=44406140) - [Is being bilingual good for your brain?](https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain)
 * [2025-06-28, 14:45:43](https://news.ycombinator.com/item?id=44405057) - [Engineered Addictions](https://masonyarbrough.substack.com/p/engineered-addictions)
 * [2025-06-28, 14:22:10](https://news.ycombinator.com/item?id=44404905) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 * [2025-06-28, 12:20:08](https://news.ycombinator.com/item?id=44404164) - [We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
@@ -29,7 +30,6 @@
 * [2025-06-25, 22:29:29](https://news.ycombinator.com/item?id=44382356) - [Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log](https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html)
 * [2025-06-25, 18:49:43](https://news.ycombinator.com/item?id=44380655) - [What LLMs Know About Their Users](https://www.schneier.com/)
 * [2025-06-25, 08:59:12](https://news.ycombinator.com/item?id=44375075) - [Sequence and first differences together list all positive numbers exactly once](https://oeis.org/A005228)
-* [2025-06-25, 04:13:43](https://news.ycombinator.com/item?id=44373562) - [Community Is Motivation on Tap](https://alanwu.xyz/posts/community/)
 
 ## [Archives](archives/index.md)
 
