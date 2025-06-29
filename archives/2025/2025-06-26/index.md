@@ -52,3 +52,4 @@
 * [2025-06-26, 06:24:52](https://news.ycombinator.com/item?id=44384693) - [The European wood pigeon helped me appreciate its omnipresent city cousins](https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html)
 * [2025-06-26, 06:07:49](https://news.ycombinator.com/item?id=44384610) - [Yes, I will judge you for using AI](https://jaysthoughts.com/aithoughts1)
 * [2025-06-26, 02:41:34](https://news.ycombinator.com/item?id=44383779) - [Games That Weren't: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
+* [2025-06-26, 01:13:29](https://news.ycombinator.com/item?id=44383341) - [Show HN: SVG Lined Tile Generator](https://adpreese.github.io/svg-lined-tiles/)

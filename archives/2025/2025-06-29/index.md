@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 03:48:36](https://news.ycombinator.com/item?id=44410217) - [Against AI: An Open Letter from Writers to Publishers](https://lithub.com/against-ai-an-open-letter-from-writers-to-publishers/)
 * [2025-06-29, 03:34:02](https://news.ycombinator.com/item?id=44410159) - [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/)
 * [2025-06-29, 01:12:32](https://news.ycombinator.com/item?id=44409555) - [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
 * [2025-06-29, 00:43:54](https://news.ycombinator.com/item?id=44409405) - [Generative AI's crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
