@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 18:36:58](https://news.ycombinator.com/item?id=44415289) - [Tell HN: (dictionary|thesaurus).reference.com is now a spam site](https://news.ycombinator.com/item?id=44415289)
+* [2025-06-29, 18:29:55](https://news.ycombinator.com/item?id=44415233) - [Many ransomware strains will abort if they detect a Russian keyboard installed](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 * [2025-06-29, 18:18:51](https://news.ycombinator.com/item?id=44415145) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
 * [2025-06-29, 17:56:21](https://news.ycombinator.com/item?id=44414987) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 17:44:00](https://news.ycombinator.com/item?id=44414895) - [Budapest Pride Parade Was Bigger Than Ever, Despite Orban's Ban](https://www.nytimes.com/2025/06/28/world/europe/hungary-orban-gay-pride.html)
