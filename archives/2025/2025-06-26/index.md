@@ -33,6 +33,7 @@
 * [2025-06-26, 15:31:58](https://news.ycombinator.com/item?id=44388387) - [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
 * [2025-06-26, 15:25:25](https://news.ycombinator.com/item?id=44388324) - [Tennis Scorigami](https://www.tennis-scorigami.com/)
 * [2025-06-26, 14:58:32](https://news.ycombinator.com/item?id=44388093) - [Show HN: I built an AI dataset generator](https://github.com/metabase/dataset-generator)
+* [2025-06-26, 14:40:55](https://news.ycombinator.com/item?id=44387923) - [Show HN: Rust ↦ WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art](https://github.com/gametorch/image_to_pixel_art_wasm)
 * [2025-06-26, 14:40:00](https://news.ycombinator.com/item?id=44387904) - [Access BMC UART on Supermicro X11SSH](https://github.com/zarhus/zarhusbmc/discussions/3)
 * [2025-06-26, 14:32:28](https://news.ycombinator.com/item?id=44387828) - [Launch HN: Issen (YC F24) – personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
 * [2025-06-26, 14:16:00](https://news.ycombinator.com/item?id=44387659) - [Google DeepMind Releases AlphaGenome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
