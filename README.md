@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-29, 14:30:34](https://news.ycombinator.com/item?id=44413463) - [YouTube: Robotic translation annoys users and cannot be turned off](https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html)
+* [2025-06-29, 14:45:10](https://news.ycombinator.com/item?id=44413574) - [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
 * [2025-06-29, 13:55:18](https://news.ycombinator.com/item?id=44413185) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 * [2025-06-29, 13:55:07](https://news.ycombinator.com/item?id=44413184) - [Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow](https://github.com/Miladxsar23/smartstepper)
 * [2025-06-29, 13:41:09](https://news.ycombinator.com/item?id=44413083) - [Performance Debugging with LLVM-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
@@ -25,8 +25,8 @@
 * [2025-06-28, 12:20:08](https://news.ycombinator.com/item?id=44404164) - [We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
 * [2025-06-26, 12:15:44](https://news.ycombinator.com/item?id=44386670) - [What UI first distinguished radio buttons from checkboxes with circles/squares?](https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar)
 * [2025-06-26, 00:24:20](https://news.ycombinator.com/item?id=44383086) - [Show HN: A different kind of AI Video generation](https://news.ycombinator.com/item?id=44383086)
-* [2025-06-26, 00:18:13](https://news.ycombinator.com/item?id=44383050) - [Abusing copyright strings to trick SW into thinking it's running competitor's PC](https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299)
 * [2025-06-25, 22:37:53](https://news.ycombinator.com/item?id=44382419) - [Improving River Simulation](https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html)
+* [2025-06-25, 22:29:29](https://news.ycombinator.com/item?id=44382356) - [Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log](https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html)
 * [2025-06-25, 18:49:43](https://news.ycombinator.com/item?id=44380655) - [What LLMs Know About Their Users](https://www.schneier.com/)
 * [2025-06-25, 08:59:12](https://news.ycombinator.com/item?id=44375075) - [Sequence and first differences together list all positive numbers exactly once](https://oeis.org/A005228)
 * [2025-06-25, 04:13:43](https://news.ycombinator.com/item?id=44373562) - [Community Is Motivation on Tap](https://alanwu.xyz/posts/community/)

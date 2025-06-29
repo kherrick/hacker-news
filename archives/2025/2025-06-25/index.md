@@ -11,6 +11,7 @@
 * [2025-06-25, 22:51:12](https://news.ycombinator.com/item?id=44382519) - [Why AGI Is Impossible](https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790)
 * [2025-06-25, 22:37:53](https://news.ycombinator.com/item?id=44382419) - [Improving River Simulation](https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html)
 * [2025-06-25, 22:31:58](https://news.ycombinator.com/item?id=44382367) - [IBM's Dmitry Krotov wants to crack the 'physics' of memory](https://research.ibm.com/blog/dmitry-krotov-ai-physics)
+* [2025-06-25, 22:29:29](https://news.ycombinator.com/item?id=44382356) - [Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log](https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html)
 * [2025-06-25, 21:42:38](https://news.ycombinator.com/item?id=44382073) - [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
 * [2025-06-25, 20:08:26](https://news.ycombinator.com/item?id=44381358) - [Microsoft Dependency Has Risks](https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks)
 * [2025-06-25, 20:01:22](https://news.ycombinator.com/item?id=44381302) - [Broken by Design: Systemd](https://ewontfix.com/14/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 14:45:10](https://news.ycombinator.com/item?id=44413574) - [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
 * [2025-06-29, 14:30:34](https://news.ycombinator.com/item?id=44413463) - [YouTube: Robotic translation annoys users and cannot be turned off](https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html)
 * [2025-06-29, 13:55:18](https://news.ycombinator.com/item?id=44413185) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 * [2025-06-29, 13:55:07](https://news.ycombinator.com/item?id=44413184) - [Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow](https://github.com/Miladxsar23/smartstepper)
