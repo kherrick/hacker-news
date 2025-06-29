@@ -5,7 +5,7 @@
 * [2025-06-29, 20:28:25](https://news.ycombinator.com/item?id=44416157) - [Error handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
 * [2025-06-29, 18:52:02](https://news.ycombinator.com/item?id=44415388) - [Unhooking from Amazon Ebooks](https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks)
-* [2025-06-29, 18:29:55](https://news.ycombinator.com/item?id=44415233) - [Many ransomware strains will abort if they detect a Russian keyboard installed](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
+* [2025-06-29, 18:29:55](https://news.ycombinator.com/item?id=44415233) - [Many ransomware strains will abort if they detect a Russian keyboard installed (2021)](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 * [2025-06-29, 17:56:21](https://news.ycombinator.com/item?id=44414987) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 17:39:08](https://news.ycombinator.com/item?id=44414853) - [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)
 * [2025-06-29, 17:38:31](https://news.ycombinator.com/item?id=44414848) - [Show HN: Sharpe Ratio Calculation Tool](https://www.fundratios.com/)
