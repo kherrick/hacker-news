@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-29, 21:13:48",
+      "https://news.ycombinator.com/item?id=44416470"
+    ],
+    [
+      "EU to ban carry-on baggage fees",
+      "https://www.bbc.com/travel/article/20250627-the-big-change-affecting-european-travel"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 20:48:00",
       "https://news.ycombinator.com/item?id=44416304"
     ],
@@ -27,6 +37,16 @@
     [
       "Ask HN: What Are You Working On? (June 2025)",
       "https://news.ycombinator.com/item?id=44416093"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 18:52:02",
+      "https://news.ycombinator.com/item?id=44415388"
+    ],
+    [
+      "Unhooking from Amazon Ebooks",
+      "https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-06-28, 22:06:31",
-      "https://news.ycombinator.com/item?id=44408552"
-    ],
-    [
-      "The Death of the Middle-Class Musician",
-      "https://thewalrus.ca/the-death-of-the-middle-class-musician/"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 21:22:14",
       "https://news.ycombinator.com/item?id=44408286"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-06-28, 14:45:43",
-      "https://news.ycombinator.com/item?id=44405057"
+      "2025-06-27, 15:57:45",
+      "https://news.ycombinator.com/item?id=44397809"
     ],
     [
-      "Engineered Addictions",
-      "https://masonyarbrough.substack.com/p/engineered-addictions"
+      "Most ints are not floats",
+      "https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Brad Woods Digital Garden",
       "https://garden.bradwoods.io"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 14:40:55",
-      "https://news.ycombinator.com/item?id=44387923"
-    ],
-    [
-      "Show HN: Rust -> WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art",
-      "https://github.com/gametorch/image_to_pixel_art_wasm"
     ]
   ],
   [
