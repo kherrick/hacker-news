@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-29, 17:20:16",
+      "https://news.ycombinator.com/item?id=44414719"
+    ],
+    [
+      "Personal care products disrupt the human oxidation field",
+      "https://www.science.org/doi/10.1126/sciadv.ads7908"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 15:19:19",
+      "https://news.ycombinator.com/item?id=44413809"
+    ],
+    [
+      "4-10x faster in-process pub/sub for Go",
+      "https://github.com/kelindar/event"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 14:45:10",
       "https://news.ycombinator.com/item?id=44413574"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2025-06-28, 19:04:04",
-      "https://news.ycombinator.com/item?id=44407245"
-    ],
-    [
-      "2025 ARRL Field Day",
-      "https://www.arrl.org/field-day"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 18:52:00",
       "https://news.ycombinator.com/item?id=44407139"
     ],
     [
       "JavaScript Trademark Update",
       "https://deno.com/blog/deno-v-oracle4"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 18:42:05",
-      "https://news.ycombinator.com/item?id=44407058"
-    ],
-    [
-      "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
-      "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1"
     ]
   ],
   [
