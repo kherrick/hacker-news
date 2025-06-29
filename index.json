@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-29, 11:56:09",
+      "https://news.ycombinator.com/item?id=44412370"
+    ],
+    [
+      "Bloom Filters by Example",
+      "https://llimllib.github.io/bloomfilter-tutorial/"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 11:24:17",
       "https://news.ycombinator.com/item?id=44412207"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-06-29, 11:06:32",
-      "https://news.ycombinator.com/item?id=44412120"
+      "2025-06-29, 10:59:26",
+      "https://news.ycombinator.com/item?id=44412080"
     ],
     [
-      "Toyota RAV4 topples Tesla Model Y as best-selling car",
-      "https://www.carexpert.com.au/car-news/toyota-rav4-topples-tesla-model-y-as-worlds-best-selling-car"
+      "Implementing fast TCP fingerprinting with eBPF",
+      "https://halb.it/posts/ebpf-fingerprinting-1/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44411273"
     ],
     [
-      "Using the internet without IPv4 connectivity",
+      "Using the Internet without IPv4 connectivity",
       "https://jamesmcm.github.io/blog/no-ipv4/"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "How to Leave the House",
       "https://buttondown.com/monteiro/archive/how-to-leave-the-house/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 15:25:25",
-      "https://news.ycombinator.com/item?id=44388324"
-    ],
-    [
-      "Tennis Scorigami",
-      "https://www.tennis-scorigami.com/"
     ]
   ],
   [
