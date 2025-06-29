@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-29, 07:54:52](https://news.ycombinator.com/item?id=44411114) - [Google Gemini is about to control your messages and calls, even if you say no](https://www.laptopmag.com/ai/gemini-phone-access-update)
-* [2025-06-29, 07:48:03](https://news.ycombinator.com/item?id=44411083) - [Calling white middle-aged women Karen 'borders on racism'](https://www.thetimes.com/uk/law/article/calling-white-middle-aged-women-karen-borders-on-racism-b6wccb9g6)
 * [2025-06-29, 07:45:56](https://news.ycombinator.com/item?id=44411069) - [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 * [2025-06-29, 07:07:03](https://news.ycombinator.com/item?id=44410900) - [The Unsustainability of Moore's Law](https://bzolang.blog/p/the-unsustainability-of-moores-law)
 * [2025-06-29, 06:53:48](https://news.ycombinator.com/item?id=44410843) - [It's Known as 'The List'–and It's a Secret File of AI Geniuses](https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc)
@@ -21,6 +20,7 @@
 * [2025-06-28, 14:22:10](https://news.ycombinator.com/item?id=44404905) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 * [2025-06-28, 14:18:18](https://news.ycombinator.com/item?id=44404876) - [Sirius: A GPU-native SQL engine](https://github.com/sirius-db/sirius)
 * [2025-06-28, 12:20:08](https://news.ycombinator.com/item?id=44404164) - [We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
+* [2025-06-28, 10:27:24](https://news.ycombinator.com/item?id=44403639) - [Finding Peter Putnam](https://nautil.us/finding-peter-putnam-1218035/)
 * [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 * [2025-06-26, 22:27:11](https://news.ycombinator.com/item?id=44392104) - [The Perils of 'Design Thinking'](https://www.theatlantic.com/books/archive/2025/06/invention-of-design-maggie-gram-book-review/683302/)
 * [2025-06-26, 15:25:25](https://news.ycombinator.com/item?id=44388324) - [Tennis Scorigami](https://www.tennis-scorigami.com/)
