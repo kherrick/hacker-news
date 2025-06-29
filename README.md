@@ -26,7 +26,7 @@
 * [2025-06-26, 15:25:25](https://news.ycombinator.com/item?id=44388324) - [Tennis Scorigami](https://www.tennis-scorigami.com/)
 * [2025-06-26, 06:24:52](https://news.ycombinator.com/item?id=44384693) - [The European wood pigeon helped me appreciate its omnipresent city cousins](https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html)
 * [2025-06-26, 01:13:29](https://news.ycombinator.com/item?id=44383341) - [Show HN: SVG Lined Tile Generator](https://adpreese.github.io/svg-lined-tiles/)
-* [2025-06-25, 22:58:20](https://news.ycombinator.com/item?id=44382576) - [Infrastructure at Roblox](https://corp.roblox.com/newsroom/2025/06/roblox-infrastructure-supporting-record-breaking-games)
+* [2025-06-25, 22:37:53](https://news.ycombinator.com/item?id=44382419) - [Improving River Simulation](https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html)
 * [2025-06-25, 15:36:38](https://news.ycombinator.com/item?id=44378517) - [Show HN: AGL a toy language that compiles to Go](https://github.com/alaingilbert/agl)
 * [2025-06-25, 15:10:49](https://news.ycombinator.com/item?id=44378253) - [Gradient Descent Visualiser](https://uclaacm.github.io/gradient-descent-visualiser/)
 * [2025-06-25, 04:13:43](https://news.ycombinator.com/item?id=44373562) - [Community Is Motivation on Tap](https://alanwu.xyz/posts/community/)
