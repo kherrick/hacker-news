@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-29, 08:23:40",
+      "https://news.ycombinator.com/item?id=44411273"
+    ],
+    [
+      "Using the Internet without IPv4 connectivity",
+      "https://jamesmcm.github.io/blog/no-ipv4/"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 07:54:52",
       "https://news.ycombinator.com/item?id=44411114"
     ],
@@ -31,12 +41,32 @@
   ],
   [
     [
+      "2025-06-29, 07:02:04",
+      "https://news.ycombinator.com/item?id=44410878"
+    ],
+    [
+      "G7 agrees to exempt U.S. multinationals from global minimum tax",
+      "https://www.thehindu.com/news/international/g7-agrees-to-exempt-us-multinationals-from-global-minimum-tax/article69749671.ece"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 06:53:48",
       "https://news.ycombinator.com/item?id=44410843"
     ],
     [
       "It's Known as 'The List'–and It's a Secret File of AI Geniuses",
       "https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 06:47:01",
+      "https://news.ycombinator.com/item?id=44410822"
+    ],
+    [
+      "Magnetic Tape Storage Technology: usage, history, and future outlook",
+      "https://dl.acm.org/doi/10.1145/3708997"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2025-06-28, 14:18:18",
-      "https://news.ycombinator.com/item?id=44404876"
-    ],
-    [
-      "Sirius: A GPU-native SQL engine",
-      "https://github.com/sirius-db/sirius"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 12:20:08",
       "https://news.ycombinator.com/item?id=44404164"
     ],
     [
       "We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler (2020)",
       "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 10:27:24",
-      "https://news.ycombinator.com/item?id=44403639"
-    ],
-    [
-      "Finding Peter Putnam",
-      "https://nautil.us/finding-peter-putnam-1218035/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Bazzite would shut down if Fedora goes ahead with removing 32-bit",
       "https://www.gamingonlinux.com/2025/06/bazzite-would-shut-down-if-fedora-goes-ahead-with-removing-32-bit/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 15:36:38",
-      "https://news.ycombinator.com/item?id=44378517"
-    ],
-    [
-      "Show HN: AGL a toy language that compiles to Go",
-      "https://github.com/alaingilbert/agl"
     ]
   ],
   [
