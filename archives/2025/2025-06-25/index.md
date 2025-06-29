@@ -32,6 +32,7 @@
 * [2025-06-25, 19:20:23](https://news.ycombinator.com/item?id=44380955) - [Coccinelle for Rust Progress Report](https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/)
 * [2025-06-25, 19:17:27](https://news.ycombinator.com/item?id=44380927) - [Newly Built San Francisco Condo Tower Lands on Fanny/Freddy Mortgage Blacklist](https://sfstandard.com/2025/06/24/san-francisco-condo-tower-lands-on-mortgage-blacklist/)
 * [2025-06-25, 19:10:47](https://news.ycombinator.com/item?id=44380872) - [Tomatoes in the Galápagos are quietly de-evolving](https://phys.org/news/2025-06-tomatoes-galpagos-quietly-de-evolving.html)
+* [2025-06-25, 18:49:43](https://news.ycombinator.com/item?id=44380655) - [What LLMs Know About Their Users](https://www.schneier.com/)
 * [2025-06-25, 18:45:12](https://news.ycombinator.com/item?id=44380610) - [California's Corporate Cover-Up Act Is a Privacy Nightmare](https://www.eff.org/deeplinks/2025/06/californias-corporate-cover-act-privacy-nightmare)
 * [2025-06-25, 18:35:25](https://news.ycombinator.com/item?id=44380500) - [NLNet: 62 new projects contribute to digital commons](https://nlnet.nl/news/2025/20250624-announcement-grants-CommonsFund.html)
 * [2025-06-25, 18:07:02](https://news.ycombinator.com/item?id=44380185) - [Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC](https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/)
