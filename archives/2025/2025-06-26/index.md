@@ -42,6 +42,7 @@
 * [2025-06-26, 12:15:44](https://news.ycombinator.com/item?id=44386670) - [What UI first distinguished radio buttons from checkboxes with circles/squares?](https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar)
 * [2025-06-26, 12:11:52](https://news.ycombinator.com/item?id=44386637) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 11:29:55](https://news.ycombinator.com/item?id=44386328) - [CC Signals: A New Social Contract for the Age of AI](https://creativecommons.org/2025/06/25/introducing-cc-signals-a-new-social-contract-for-the-age-of-ai/)
+* [2025-06-26, 11:17:12](https://news.ycombinator.com/item?id=44386236) - [Revisiting Knuth's \"Premature Optimization\" Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 * [2025-06-26, 11:01:18](https://news.ycombinator.com/item?id=44386149) - [Mixed DPI in X11](https://wok.oblomov.eu/tecnologia/mixed-dpi-x11/)
 * [2025-06-26, 11:01:12](https://news.ycombinator.com/item?id=44386148) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
 * [2025-06-26, 10:29:34](https://news.ycombinator.com/item?id=44385981) - [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
