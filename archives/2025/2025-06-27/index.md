@@ -64,5 +64,6 @@
 * [2025-06-27, 02:44:07](https://news.ycombinator.com/item?id=44393304) - [Ask HN: Is anyone else just done with the industry?](https://news.ycombinator.com/item?id=44393304)
 * [2025-06-27, 02:02:22](https://news.ycombinator.com/item?id=44393160) - [A lumberjack created more than 200 sculptures in Wisconsin's Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
 * [2025-06-27, 01:55:23](https://news.ycombinator.com/item?id=44393135) - [The AI-Powered Cursor for Spreadsheets](https://excalai.com/)
+* [2025-06-27, 00:39:05](https://news.ycombinator.com/item?id=44392840) - [How to Leave the House](https://buttondown.com/monteiro/archive/how-to-leave-the-house/)
 * [2025-06-27, 00:29:02](https://news.ycombinator.com/item?id=44392783) - [Welsh publisher brings Tolkien classic in Celtic languages together](https://nation.cymru/culture/welsh-publisher-brings-tolkien-classic-in-celtic-languages-together/)
 * [2025-06-27, 00:27:26](https://news.ycombinator.com/item?id=44392776) - [Slightly better named character reference tokenization than Chrome, Safari, FF](https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/)

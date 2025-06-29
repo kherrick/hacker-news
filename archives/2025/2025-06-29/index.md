@@ -6,6 +6,8 @@
 
 * [2025-06-29, 11:52:03](https://news.ycombinator.com/item?id=44412349) - [AI agents get office tasks wrong around 70% of time, and many aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
 * [2025-06-29, 11:41:55](https://news.ycombinator.com/item?id=44412296) - [On the capacity, performance, and reliability of microSD cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
+* [2025-06-29, 11:24:17](https://news.ycombinator.com/item?id=44412207) - [Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok](https://github.com/octelium/octelium)
+* [2025-06-29, 11:06:32](https://news.ycombinator.com/item?id=44412120) - [Toyota RAV4 topples Tesla Model Y as best-selling car](https://www.carexpert.com.au/car-news/toyota-rav4-topples-tesla-model-y-as-worlds-best-selling-car)
 * [2025-06-29, 10:48:13](https://news.ycombinator.com/item?id=44412009) - [Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station](https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/)
 * [2025-06-29, 09:28:57](https://news.ycombinator.com/item?id=44411577) - [Did Lead Poisoning Create a Generation of Serial Killers?](https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers)
 * [2025-06-29, 08:23:40](https://news.ycombinator.com/item?id=44411273) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
