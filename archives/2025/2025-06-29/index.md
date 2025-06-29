@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 19:18:57](https://news.ycombinator.com/item?id=44415563) - [The Asymmetry of Destruction](https://passingtime.substack.com/p/the-asymmetry-of-destruction)
+* [2025-06-29, 19:16:18](https://news.ycombinator.com/item?id=44415544) - [CEOs say AI is just a tool to help workers, but our jobs are already on the line](https://gizmodo.com/ceos-are-quietly-telling-us-the-truth-ai-is-replacing-you-2000621907)
+* [2025-06-29, 18:52:02](https://news.ycombinator.com/item?id=44415388) - [Unhooking from Amazon Ebooks](https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks)
 * [2025-06-29, 18:36:58](https://news.ycombinator.com/item?id=44415289) - [Tell HN: (dictionary|thesaurus).reference.com is now a spam site](https://news.ycombinator.com/item?id=44415289)
 * [2025-06-29, 18:29:55](https://news.ycombinator.com/item?id=44415233) - [Many ransomware strains will abort if they detect a Russian keyboard installed](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 * [2025-06-29, 18:18:51](https://news.ycombinator.com/item?id=44415145) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
 * [2025-06-29, 17:56:21](https://news.ycombinator.com/item?id=44414987) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 17:44:00](https://news.ycombinator.com/item?id=44414895) - [Budapest Pride Parade Was Bigger Than Ever, Despite Orban's Ban](https://www.nytimes.com/2025/06/28/world/europe/hungary-orban-gay-pride.html)
 * [2025-06-29, 17:39:08](https://news.ycombinator.com/item?id=44414853) - [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)
+* [2025-06-29, 17:38:31](https://news.ycombinator.com/item?id=44414848) - [Show HN: Sharpe Ratio Calculation Tool](https://www.fundratios.com/)
 * [2025-06-29, 17:21:35](https://news.ycombinator.com/item?id=44414729) - [Public Lands Sell-Off Is Struck from the GOP Policy Bill](https://www.nytimes.com/2025/06/28/climate/public-lands-sell-off-dropped-mike-lee.html)
 * [2025-06-29, 17:20:16](https://news.ycombinator.com/item?id=44414719) - [Personal care products disrupt the human oxidation field](https://www.science.org/doi/10.1126/sciadv.ads7908)
 * [2025-06-29, 17:18:03](https://news.ycombinator.com/item?id=44414700) - [America's Coming Smoke Epidemic](https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/)
