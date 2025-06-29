@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-29, 03:48:36](https://news.ycombinator.com/item?id=44410217) - [Against AI: An Open Letter from Writers to Publishers](https://lithub.com/against-ai-an-open-letter-from-writers-to-publishers/)
 * [2025-06-29, 01:12:32](https://news.ycombinator.com/item?id=44409555) - [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
 * [2025-06-29, 00:43:54](https://news.ycombinator.com/item?id=44409405) - [Generative AI's crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
 * [2025-06-29, 00:40:13](https://news.ycombinator.com/item?id=44409391) - [Blackwell: Nvidia's GPU](https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu)
@@ -8,6 +7,7 @@
 * [2025-06-28, 23:01:15](https://news.ycombinator.com/item?id=44408872) - [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 * [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
 * [2025-06-28, 21:52:24](https://news.ycombinator.com/item?id=44408459) - [Group of investors represented by YouTuber Perifractic buys Commodore](https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html)
+* [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
 * [2025-06-28, 19:56:52](https://news.ycombinator.com/item?id=44407661) - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 * [2025-06-28, 19:04:04](https://news.ycombinator.com/item?id=44407245) - [2025 ARRL Field Day](https://www.arrl.org/field-day)
 * [2025-06-28, 18:52:00](https://news.ycombinator.com/item?id=44407139) - [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
