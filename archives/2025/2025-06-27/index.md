@@ -62,6 +62,7 @@
 * [2025-06-27, 05:27:25](https://news.ycombinator.com/item?id=44393920) - [Brad Woods Digital Garden](https://garden.bradwoods.io)
 * [2025-06-27, 05:00:41](https://news.ycombinator.com/item?id=44393817) - [XSLT](https://github.com/pacocoursey/xslt)
 * [2025-06-27, 04:39:02](https://news.ycombinator.com/item?id=44393749) - [Denmark to tackle deepfakes by giving people copyright to their own features](https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence)
+* [2025-06-27, 04:16:01](https://news.ycombinator.com/item?id=44393657) - [Raymond Laflamme (1960-2025)](https://scottaaronson.blog/?p=8949)
 * [2025-06-27, 03:51:26](https://news.ycombinator.com/item?id=44393547) - [Biomolecular shifts occur in our 40s and 60s](https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html)
 * [2025-06-27, 03:19:02](https://news.ycombinator.com/item?id=44393418) - [Some thoughts on my first YC Demo Day](https://billchambers.me/articles/yc-demo-day-spring-25/)
 * [2025-06-27, 02:55:52](https://news.ycombinator.com/item?id=44393349) - [Judge rejects Meta's claim that torrenting is \"irrelevant\" in AI copyright case](https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/)
