@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-06-29, 16:22:13",
+      "https://news.ycombinator.com/item?id=44414261"
+    ],
+    [
+      "Europe's First Exascale Supercomputer Powers Up",
+      "https://spectrum.ieee.org/jupiter-exascale-supercomputer-europe"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 15:33:57",
       "https://news.ycombinator.com/item?id=44413921"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2025-06-29, 06:47:01",
+      "https://news.ycombinator.com/item?id=44410822"
+    ],
+    [
+      "Magnetic Tape Storage Technology: usage, history, and future outlook",
+      "https://dl.acm.org/doi/10.1145/3708997"
+    ]
+  ],
+  [
+    [
       "2025-06-28, 23:01:15",
       "https://news.ycombinator.com/item?id=44408872"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-06-28, 12:20:08",
-      "https://news.ycombinator.com/item?id=44404164"
-    ],
-    [
-      "We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)",
-      "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
-    ]
-  ],
-  [
-    [
       "2025-06-27, 12:54:59",
       "https://news.ycombinator.com/item?id=44396436"
     ],
@@ -247,16 +257,6 @@
     [
       "Why Go Rocks for Building a Lua Interpreter",
       "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 00:24:20",
-      "https://news.ycombinator.com/item?id=44383086"
-    ],
-    [
-      "Show HN: A different kind of AI Video generation",
-      "https://news.ycombinator.com/item?id=44383086"
     ]
   ],
   [
