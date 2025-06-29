@@ -20,7 +20,7 @@
 * [2025-06-28, 23:01:15](https://news.ycombinator.com/item?id=44408872) - [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 * [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
 * [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia is the price we pay for minds poised near the edge of a cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
-* [2025-06-28, 16:53:56](https://news.ycombinator.com/item?id=44406171) - [BusyBeaver(6) Is Quite Large](https://scottaaronson.blog/?p=8972)
+* [2025-06-28, 18:52:00](https://news.ycombinator.com/item?id=44407139) - [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
 * [2025-06-28, 14:45:43](https://news.ycombinator.com/item?id=44405057) - [Engineered Addictions](https://masonyarbrough.substack.com/p/engineered-addictions)
 * [2025-06-27, 15:57:45](https://news.ycombinator.com/item?id=44397809) - [Most ints are not floats](https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/)
 * [2025-06-27, 05:27:25](https://news.ycombinator.com/item?id=44393920) - [Brad Woods Digital Garden](https://garden.bradwoods.io)
