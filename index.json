@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-06-29, 17:44:00",
-      "https://news.ycombinator.com/item?id=44414895"
+      "2025-06-29, 17:56:21",
+      "https://news.ycombinator.com/item?id=44414987"
     ],
     [
-      "Budapest Pride Parade Was Bigger Than Ever, Despite Orban's Ban",
-      "https://www.nytimes.com/2025/06/28/world/europe/hungary-orban-gay-pride.html"
+      "Tools I love: mise(-en-place)",
+      "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/"
     ]
   ],
   [
     [
-      "2025-06-29, 17:21:35",
-      "https://news.ycombinator.com/item?id=44414729"
+      "2025-06-29, 17:39:08",
+      "https://news.ycombinator.com/item?id=44414853"
     ],
     [
-      "Public Lands Sell-Off Is Struck from the GOP Policy Bill",
-      "https://www.nytimes.com/2025/06/28/climate/public-lands-sell-off-dropped-mike-lee.html"
+      "Loss of key US satellite data could send hurricane forecasting back 'decades'",
+      "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "America's Coming Smoke Epidemic",
       "https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 15:33:57",
+      "https://news.ycombinator.com/item?id=44413921"
+    ],
+    [
+      "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
+      "https://llmapitest.com/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "I made my VM think it has a CPU fan",
       "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 13:55:07",
-      "https://news.ycombinator.com/item?id=44413184"
-    ],
-    [
-      "Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow",
-      "https://github.com/Miladxsar23/smartstepper"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "The Unsustainability of Moore's Law",
       "https://bzolang.blog/p/the-unsustainability-of-moores-law"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 06:47:01",
-      "https://news.ycombinator.com/item?id=44410822"
-    ],
-    [
-      "Magnetic Tape Storage Technology: usage, history, and future outlook",
-      "https://dl.acm.org/doi/10.1145/3708997"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)",
       "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 12:54:59",
+      "https://news.ycombinator.com/item?id=44396436"
+    ],
+    [
+      "Web Numbers",
+      "https://ar.al/2025/06/25/web-numbers/"
     ]
   ],
   [
