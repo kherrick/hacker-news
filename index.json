@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-29, 13:55:18",
+      "https://news.ycombinator.com/item?id=44413185"
+    ],
+    [
+      "I made my VM think it has a CPU fan",
+      "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 13:55:07",
+      "https://news.ycombinator.com/item?id=44413184"
+    ],
+    [
+      "Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow",
+      "https://github.com/Miladxsar23/smartstepper"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 13:41:09",
+      "https://news.ycombinator.com/item?id=44413083"
+    ],
+    [
+      "Performance Debugging with LLVM-mca: Simulating the CPU",
+      "https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 11:56:09",
       "https://news.ycombinator.com/item?id=44412370"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2025-06-28, 14:18:18",
-      "https://news.ycombinator.com/item?id=44404876"
-    ],
-    [
-      "Sirius: A GPU-native SQL engine",
-      "https://github.com/sirius-db/sirius"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 12:20:08",
       "https://news.ycombinator.com/item?id=44404164"
     ],
     [
       "We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)",
       "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 10:27:24",
-      "https://news.ycombinator.com/item?id=44403639"
-    ],
-    [
-      "Finding Peter Putnam",
-      "https://nautil.us/finding-peter-putnam-1218035/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "What UI first distinguished radio buttons from checkboxes with circles/squares?",
       "https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 06:24:52",
-      "https://news.ycombinator.com/item?id=44384693"
-    ],
-    [
-      "The European wood pigeon helped me appreciate its omnipresent city cousins",
-      "https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-06-25, 19:54:57",
-      "https://news.ycombinator.com/item?id=44381265"
+      "2025-06-25, 18:49:43",
+      "https://news.ycombinator.com/item?id=44380655"
     ],
     [
-      "Bazzite would shut down if Fedora goes ahead with removing 32-bit",
-      "https://www.gamingonlinux.com/2025/06/bazzite-would-shut-down-if-fedora-goes-ahead-with-removing-32-bit/"
+      "What LLMs Know About Their Users",
+      "https://www.schneier.com/"
     ]
   ],
   [
