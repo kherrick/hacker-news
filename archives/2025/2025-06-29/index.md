@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 18:18:51](https://news.ycombinator.com/item?id=44415145) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
 * [2025-06-29, 17:56:21](https://news.ycombinator.com/item?id=44414987) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 17:44:00](https://news.ycombinator.com/item?id=44414895) - [Budapest Pride Parade Was Bigger Than Ever, Despite Orban's Ban](https://www.nytimes.com/2025/06/28/world/europe/hungary-orban-gay-pride.html)
 * [2025-06-29, 17:39:08](https://news.ycombinator.com/item?id=44414853) - [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)

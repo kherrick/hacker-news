@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-29, 18:18:51](https://news.ycombinator.com/item?id=44415145) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
 * [2025-06-29, 17:56:21](https://news.ycombinator.com/item?id=44414987) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 17:39:08](https://news.ycombinator.com/item?id=44414853) - [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)
 * [2025-06-29, 17:20:16](https://news.ycombinator.com/item?id=44414719) - [Personal care products disrupt the human oxidation field](https://www.science.org/doi/10.1126/sciadv.ads7908)
@@ -15,7 +16,6 @@
 * [2025-06-29, 08:23:40](https://news.ycombinator.com/item?id=44411273) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 * [2025-06-29, 07:45:56](https://news.ycombinator.com/item?id=44411069) - [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 * [2025-06-29, 07:07:03](https://news.ycombinator.com/item?id=44410900) - [The Unsustainability of Moore's Law](https://bzolang.blog/p/the-unsustainability-of-moores-law)
-* [2025-06-29, 06:47:01](https://news.ycombinator.com/item?id=44410822) - [Magnetic Tape Storage Technology: usage, history, and future outlook](https://dl.acm.org/doi/10.1145/3708997)
 * [2025-06-28, 23:01:15](https://news.ycombinator.com/item?id=44408872) - [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 * [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
 * [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia is the price we pay for minds poised near the edge of a cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
