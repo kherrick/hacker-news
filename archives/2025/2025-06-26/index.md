@@ -53,6 +53,7 @@
 * [2025-06-26, 07:00:43](https://news.ycombinator.com/item?id=44384913) - [AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus)
 * [2025-06-26, 06:24:52](https://news.ycombinator.com/item?id=44384693) - [The European wood pigeon helped me appreciate its omnipresent city cousins](https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html)
 * [2025-06-26, 06:07:49](https://news.ycombinator.com/item?id=44384610) - [Yes, I will judge you for using AI](https://jaysthoughts.com/aithoughts1)
+* [2025-06-26, 05:28:01](https://news.ycombinator.com/item?id=44384425) - [Why Go Rocks for Building a Lua Interpreter](https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/)
 * [2025-06-26, 02:41:34](https://news.ycombinator.com/item?id=44383779) - [Games That Weren't: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
 * [2025-06-26, 01:13:29](https://news.ycombinator.com/item?id=44383341) - [Show HN: SVG Lined Tile Generator](https://adpreese.github.io/svg-lined-tiles/)
 * [2025-06-26, 00:24:20](https://news.ycombinator.com/item?id=44383086) - [Show HN: A different kind of AI Video generation](https://news.ycombinator.com/item?id=44383086)
