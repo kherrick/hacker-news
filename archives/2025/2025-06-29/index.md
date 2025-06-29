@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 16:25:33](https://news.ycombinator.com/item?id=44414286) - [Ok now this is just ridiculous](https://mastodon.social/@czeins/114739403773350112)
+* [2025-06-29, 16:08:53](https://news.ycombinator.com/item?id=44414171) - [We accidentally solved robotics by watching 1M hours of YouTube](https://ksagar.bearblog.dev/vjepa/)
 * [2025-06-29, 15:09:01](https://news.ycombinator.com/item?id=44413750) - [The Consciousness Gradient: When Machines Begin to Wonder](https://v1tali.com/ai-consciousness)
 * [2025-06-29, 14:45:10](https://news.ycombinator.com/item?id=44413574) - [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
 * [2025-06-29, 14:30:34](https://news.ycombinator.com/item?id=44413463) - [YouTube: Robotic translation annoys users and cannot be turned off](https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html)
