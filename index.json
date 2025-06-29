@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-06-28, 22:06:31",
-      "https://news.ycombinator.com/item?id=44408552"
-    ],
-    [
-      "The Death of the Middle-Class Musician",
-      "https://thewalrus.ca/the-death-of-the-middle-class-musician/"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 21:22:14",
       "https://news.ycombinator.com/item?id=44408286"
     ],
@@ -241,12 +231,32 @@
   ],
   [
     [
+      "2025-06-27, 05:48:22",
+      "https://news.ycombinator.com/item?id=44393998"
+    ],
+    [
+      "Modelling API rate limits as diophantine inequalities",
+      "https://vivekn.dev/blog/rate-limit-diophantine"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 05:27:25",
       "https://news.ycombinator.com/item?id=44393920"
     ],
     [
       "Brad Woods Digital Garden",
       "https://garden.bradwoods.io"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 14:40:55",
+      "https://news.ycombinator.com/item?id=44387923"
+    ],
+    [
+      "Show HN: Rust -> WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art",
+      "https://github.com/gametorch/image_to_pixel_art_wasm"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log",
       "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 08:59:12",
-      "https://news.ycombinator.com/item?id=44375075"
-    ],
-    [
-      "Sequence and first differences together list all positive numbers exactly once",
-      "https://oeis.org/A005228"
     ]
   ]
 ]
