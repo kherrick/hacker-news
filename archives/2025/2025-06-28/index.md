@@ -9,6 +9,7 @@
 * [2025-06-28, 22:08:25](https://news.ycombinator.com/item?id=44408564) - [Reproducible Builds](https://en.wikipedia.org/wiki/Reproducible_builds)
 * [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
 * [2025-06-28, 21:55:47](https://news.ycombinator.com/item?id=44408484) - [Exploring Trichromacy through Maxwell's Color Experiment (2023)](https://maxwell.kohterai.com/)
+* [2025-06-28, 21:52:24](https://news.ycombinator.com/item?id=44408459) - [Group of investors represented by YouTuber Perifractic buys Commodore](https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html)
 * [2025-06-28, 21:29:23](https://news.ycombinator.com/item?id=44408325) - [Microsoft tried dogfooding Copilot with .NET, but got only hallucinations](https://news.ycombinator.com/item?id=44408325)
 * [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
 * [2025-06-28, 19:56:52](https://news.ycombinator.com/item?id=44407661) - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)

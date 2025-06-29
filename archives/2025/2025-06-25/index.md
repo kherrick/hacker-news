@@ -7,6 +7,7 @@
 * [2025-06-25, 23:41:16](https://news.ycombinator.com/item?id=44382834) - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
 * [2025-06-25, 23:26:55](https://news.ycombinator.com/item?id=44382752) - [QEMU: Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 * [2025-06-25, 22:59:23](https://news.ycombinator.com/item?id=44382582) - [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
+* [2025-06-25, 22:58:20](https://news.ycombinator.com/item?id=44382576) - [Roblox's back end scales to 30M concurrent players and over 21M for a experience](https://corp.roblox.com/newsroom/2025/06/roblox-infrastructure-supporting-record-breaking-games)
 * [2025-06-25, 22:51:12](https://news.ycombinator.com/item?id=44382519) - [Why AGI Is Impossible](https://claude.ai/public/artifacts/445500b7-bb6b-4bf3-be9a-0fa4ee64c790)
 * [2025-06-25, 22:31:58](https://news.ycombinator.com/item?id=44382367) - [IBM's Dmitry Krotov wants to crack the 'physics' of memory](https://research.ibm.com/blog/dmitry-krotov-ai-physics)
 * [2025-06-25, 21:42:38](https://news.ycombinator.com/item?id=44382073) - [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
