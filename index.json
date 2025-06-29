@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-29, 01:12:32",
+      "https://news.ycombinator.com/item?id=44409555"
+    ],
+    [
+      "Universal pre-training by iterated random computation",
+      "https://arxiv.org/abs/2506.20057"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 00:43:54",
+      "https://news.ycombinator.com/item?id=44409405"
+    ],
+    [
+      "Generative AI's crippling failure to induce robust models of the world",
+      "https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 00:38:37",
       "https://news.ycombinator.com/item?id=44409386"
     ],
@@ -21,21 +41,11 @@
   ],
   [
     [
-      "2025-06-28, 23:53:40",
-      "https://news.ycombinator.com/item?id=44409175"
-    ],
-    [
-      "US Defense Department will stop providing satellite weather data",
-      "https://text.npr.org/nx-s1-5446120"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 23:01:15",
       "https://news.ycombinator.com/item?id=44408872"
     ],
     [
-      "Solving `UK Passport Application` with Haskell",
+      "Solving `Passport Application` with Haskell",
       "https://jameshaydon.github.io/passport/"
     ]
   ],
@@ -47,6 +57,36 @@
     [
       "The Death of the Middle-Class Musician",
       "https://thewalrus.ca/the-death-of-the-middle-class-musician/"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 21:55:47",
+      "https://news.ycombinator.com/item?id=44408484"
+    ],
+    [
+      "Exploring Trichromacy through Maxwell's Color Experiment (2023)",
+      "https://maxwell.kohterai.com/"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 21:52:24",
+      "https://news.ycombinator.com/item?id=44408459"
+    ],
+    [
+      "Group of investors represented by YouTuber Perifractic buys Commodore",
+      "https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 21:22:14",
+      "https://news.ycombinator.com/item?id=44408286"
+    ],
+    [
+      "Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff",
+      "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay"
     ]
   ],
   [
@@ -87,16 +127,6 @@
     [
       "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
       "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 18:01:43",
-      "https://news.ycombinator.com/item?id=44406768"
-    ],
-    [
-      "NovaCustom – Framework Laptop alternative focusing on privacy",
-      "https://novacustom.com/"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2025-06-28, 12:32:02",
-      "https://news.ycombinator.com/item?id=44404224"
-    ],
-    [
-      "ZeQLplus: Terminal SQLite Database Browser",
-      "https://github.com/ZetloStudio/ZeQLplus"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 12:20:08",
       "https://news.ycombinator.com/item?id=44404164"
     ],
     [
       "We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler (2020)",
       "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 12:00:47",
-      "https://news.ycombinator.com/item?id=44404045"
-    ],
-    [
-      "Lago (Open-Source Usage Based Billing) is hiring for ten roles",
-      "https://www.ycombinator.com/companies/lago/jobs"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-06-28, 07:36:20",
-      "https://news.ycombinator.com/item?id=44402896"
-    ],
-    [
-      "IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites",
-      "https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000"
-    ]
-  ],
-  [
-    [
       "2025-06-27, 13:06:54",
       "https://news.ycombinator.com/item?id=44396518"
     ],
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2025-06-25, 16:46:20",
-      "https://news.ycombinator.com/item?id=44379327"
+      "2025-06-26, 15:25:25",
+      "https://news.ycombinator.com/item?id=44388324"
     ],
     [
-      "The Book Cover Trend of Text on Old Paintings",
-      "https://www.nytimes.com/2025/06/21/books/review/book-cover-trends.html"
+      "Tennis Scorigami",
+      "https://www.tennis-scorigami.com/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 22:58:20",
+      "https://news.ycombinator.com/item?id=44382576"
+    ],
+    [
+      "Roblox's back end scales to 30M concurrent players and over 21M for a experience",
+      "https://corp.roblox.com/newsroom/2025/06/roblox-infrastructure-supporting-record-breaking-games"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "A literary magazine accessible only via telnet",
       "https://news.ycombinator.com/item?id=44374827"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 05:47:27",
-      "https://news.ycombinator.com/item?id=44373976"
-    ],
-    [
-      "Evaluating Long-Context Question and Answer Systems",
-      "https://eugeneyan.com/writing/qa-evals/"
     ]
   ],
   [
