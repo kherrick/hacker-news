@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 17:44:00](https://news.ycombinator.com/item?id=44414895) - [Budapest Pride Parade Was Bigger Than Ever, Despite Orban's Ban](https://www.nytimes.com/2025/06/28/world/europe/hungary-orban-gay-pride.html)
+* [2025-06-29, 17:21:35](https://news.ycombinator.com/item?id=44414729) - [Public Lands Sell-Off Is Struck from the GOP Policy Bill](https://www.nytimes.com/2025/06/28/climate/public-lands-sell-off-dropped-mike-lee.html)
 * [2025-06-29, 17:20:16](https://news.ycombinator.com/item?id=44414719) - [Personal care products disrupt the human oxidation field](https://www.science.org/doi/10.1126/sciadv.ads7908)
+* [2025-06-29, 17:18:03](https://news.ycombinator.com/item?id=44414700) - [America's Coming Smoke Epidemic](https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/)
 * [2025-06-29, 16:25:33](https://news.ycombinator.com/item?id=44414286) - [Ok now this is just ridiculous](https://mastodon.social/@czeins/114739403773350112)
 * [2025-06-29, 16:08:53](https://news.ycombinator.com/item?id=44414171) - [We accidentally solved robotics by watching 1M hours of YouTube](https://ksagar.bearblog.dev/vjepa/)
 * [2025-06-29, 16:08:37](https://news.ycombinator.com/item?id=44414169) - [Beyond the Hook: A Technical Deep Dive into Modern Phishing Methodologies](https://blog.quarkslab.com/./technical-dive-into-modern-phishing.html)
