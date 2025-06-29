@@ -2,12 +2,12 @@
 
 * [2025-06-29, 06:53:48](https://news.ycombinator.com/item?id=44410843) - [It's Known as 'The List'–and It's a Secret File of AI Geniuses](https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc)
 * [2025-06-29, 01:12:32](https://news.ycombinator.com/item?id=44409555) - [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
-* [2025-06-29, 00:43:54](https://news.ycombinator.com/item?id=44409405) - [Generative AI's crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
 * [2025-06-29, 00:40:13](https://news.ycombinator.com/item?id=44409391) - [Blackwell: Nvidia's GPU](https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu)
 * [2025-06-29, 00:02:32](https://news.ycombinator.com/item?id=44409211) - [Refurb weekend: Gremlin Blasto arcade board](http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html)
 * [2025-06-28, 23:01:15](https://news.ycombinator.com/item?id=44408872) - [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 * [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
 * [2025-06-28, 21:52:24](https://news.ycombinator.com/item?id=44408459) - [Group of investors represented by YouTuber Perifractic buys Commodore](https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html)
+* [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
 * [2025-06-28, 19:04:04](https://news.ycombinator.com/item?id=44407245) - [2025 ARRL Field Day](https://www.arrl.org/field-day)
 * [2025-06-28, 18:52:00](https://news.ycombinator.com/item?id=44407139) - [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
 * [2025-06-28, 18:42:05](https://news.ycombinator.com/item?id=44407058) - [Life of an inference request (vLLM V1): How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
