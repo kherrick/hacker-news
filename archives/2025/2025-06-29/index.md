@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 23:35:16](https://news.ycombinator.com/item?id=44417629) - [The End of US Democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)
 * [2025-06-29, 23:23:09](https://news.ycombinator.com/item?id=44417549) - [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
 * [2025-06-29, 22:22:30](https://news.ycombinator.com/item?id=44417090) - [Bitcoin's Security Budget Issue: Problems, Solutions and Myths Debunked](https://budget.day/)
 * [2025-06-29, 21:53:59](https://news.ycombinator.com/item?id=44416805) - [Honda Joins Space Race by Launching Successful Reusable Rocket](https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/)

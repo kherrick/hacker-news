@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-29, 23:35:16](https://news.ycombinator.com/item?id=44417629) - [The End of US Democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)
 * [2025-06-29, 23:23:09](https://news.ycombinator.com/item?id=44417549) - [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
 * [2025-06-29, 22:22:30](https://news.ycombinator.com/item?id=44417090) - [Bitcoin's Security Budget Issue: Problems, Solutions and Myths Debunked](https://budget.day/)
 * [2025-06-29, 21:53:59](https://news.ycombinator.com/item?id=44416805) - [Honda Joins Space Race by Launching Successful Reusable Rocket](https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/)
@@ -22,7 +23,6 @@
 * [2025-06-29, 10:59:26](https://news.ycombinator.com/item?id=44412080) - [Implementing fast TCP fingerprinting with eBPF](https://halb.it/posts/ebpf-fingerprinting-1/)
 * [2025-06-29, 08:23:40](https://news.ycombinator.com/item?id=44411273) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 * [2025-06-29, 07:45:56](https://news.ycombinator.com/item?id=44411069) - [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
-* [2025-06-28, 23:01:15](https://news.ycombinator.com/item?id=44408872) - [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 * [2025-06-27, 05:48:22](https://news.ycombinator.com/item?id=44393998) - [Modelling API rate limits as diophantine inequalities](https://vivekn.dev/blog/rate-limit-diophantine)
 * [2025-06-27, 05:27:25](https://news.ycombinator.com/item?id=44393920) - [Brad Woods Digital Garden](https://garden.bradwoods.io)
 * [2025-06-27, 04:16:01](https://news.ycombinator.com/item?id=44393657) - [Raymond Laflamme (1960-2025)](https://scottaaronson.blog/?p=8949)
