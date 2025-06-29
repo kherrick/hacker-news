@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-29, 20:28:25",
+      "https://news.ycombinator.com/item?id=44416157"
+    ],
+    [
+      "Error Handling in Rust",
+      "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 18:29:55",
       "https://news.ycombinator.com/item?id=44415233"
     ],
@@ -217,16 +227,6 @@
     [
       "Most ints are not floats",
       "https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 12:54:59",
-      "https://news.ycombinator.com/item?id=44396436"
-    ],
-    [
-      "Web Numbers",
-      "https://ar.al/2025/06/25/web-numbers/"
     ]
   ],
   [
