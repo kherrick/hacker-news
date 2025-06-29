@@ -39,6 +39,7 @@
 * [2025-06-26, 14:05:44](https://news.ycombinator.com/item?id=44387563) - [I built an ADHD app with interactive coping tools, noise mixer and self-test](https://www.adhdhelp.app/en)
 * [2025-06-26, 13:41:57](https://news.ycombinator.com/item?id=44387321) - [AI Improves at Improving Itself Using an Evolutionary Trick](https://spectrum.ieee.org/evolutionary-ai)
 * [2025-06-26, 12:45:04](https://news.ycombinator.com/item?id=44386887) - [Learnings from Building AI Agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
+* [2025-06-26, 12:15:44](https://news.ycombinator.com/item?id=44386670) - [What UI first distinguished radio buttons from checkboxes with circles/squares?](https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar)
 * [2025-06-26, 12:11:52](https://news.ycombinator.com/item?id=44386637) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 11:29:55](https://news.ycombinator.com/item?id=44386328) - [CC Signals: A New Social Contract for the Age of AI](https://creativecommons.org/2025/06/25/introducing-cc-signals-a-new-social-contract-for-the-age-of-ai/)
 * [2025-06-26, 11:01:18](https://news.ycombinator.com/item?id=44386149) - [Mixed DPI in X11](https://wok.oblomov.eu/tecnologia/mixed-dpi-x11/)
