@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
 * [2025-06-29, 08:23:40](https://news.ycombinator.com/item?id=44411273) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
+* [2025-06-29, 08:09:08](https://news.ycombinator.com/item?id=44411185) - [AI slop security reports submitted to curl](https://gist.github.com/bagder/07f7581f6e3d78ef37dfbfc81fd1d1cd)
 * [2025-06-29, 07:54:52](https://news.ycombinator.com/item?id=44411114) - [Google Gemini is about to control your messages and calls, even if you say no](https://www.laptopmag.com/ai/gemini-phone-access-update)
 * [2025-06-29, 07:48:03](https://news.ycombinator.com/item?id=44411083) - [Calling white middle-aged women Karen 'borders on racism'](https://www.thetimes.com/uk/law/article/calling-white-middle-aged-women-karen-borders-on-racism-b6wccb9g6)
 * [2025-06-29, 07:45:56](https://news.ycombinator.com/item?id=44411069) - [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
