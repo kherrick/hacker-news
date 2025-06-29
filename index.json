@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44416157"
     ],
     [
-      "Error Handling in Rust",
+      "Error handling in Rust",
       "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html"
     ]
   ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-06-26, 14:40:55",
+      "https://news.ycombinator.com/item?id=44387923"
+    ],
+    [
+      "Show HN: Rust ↦ WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art",
+      "https://github.com/gametorch/image_to_pixel_art_wasm"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 11:17:12",
       "https://news.ycombinator.com/item?id=44386236"
     ],
@@ -277,16 +287,6 @@
     [
       "Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log",
       "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 18:49:43",
-      "https://news.ycombinator.com/item?id=44380655"
-    ],
-    [
-      "What LLMs Know About Their Users",
-      "https://www.schneier.com/"
     ]
   ],
   [
