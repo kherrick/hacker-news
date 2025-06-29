@@ -11,6 +11,7 @@
 * [2025-06-29, 17:20:16](https://news.ycombinator.com/item?id=44414719) - [Personal care products disrupt the human oxidation field](https://www.science.org/doi/10.1126/sciadv.ads7908)
 * [2025-06-29, 17:18:03](https://news.ycombinator.com/item?id=44414700) - [America's Coming Smoke Epidemic](https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/)
 * [2025-06-29, 16:25:33](https://news.ycombinator.com/item?id=44414286) - [Ok now this is just ridiculous](https://mastodon.social/@czeins/114739403773350112)
+* [2025-06-29, 16:22:13](https://news.ycombinator.com/item?id=44414261) - [Europe's First Exascale Supercomputer Powers Up](https://spectrum.ieee.org/jupiter-exascale-supercomputer-europe)
 * [2025-06-29, 16:08:53](https://news.ycombinator.com/item?id=44414171) - [We accidentally solved robotics by watching 1M hours of YouTube](https://ksagar.bearblog.dev/vjepa/)
 * [2025-06-29, 16:08:37](https://news.ycombinator.com/item?id=44414169) - [Beyond the Hook: A Technical Deep Dive into Modern Phishing Methodologies](https://blog.quarkslab.com/./technical-dive-into-modern-phishing.html)
 * [2025-06-29, 15:33:57](https://news.ycombinator.com/item?id=44413921) - [Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)](https://llmapitest.com/)
