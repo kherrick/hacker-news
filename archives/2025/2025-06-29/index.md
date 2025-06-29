@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 21:50:28](https://news.ycombinator.com/item?id=44416780) - [Tesla sales drop for fifth month in a row in Europe](https://abcnews.go.com/Business/wireStory/europeans-angry-musk-buying-cars-tesla-sales-drop-123203026)
+* [2025-06-29, 21:48:12](https://news.ycombinator.com/item?id=44416761) - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
 * [2025-06-29, 21:13:48](https://news.ycombinator.com/item?id=44416470) - [EU to ban carry-on baggage fees](https://www.bbc.com/travel/article/20250627-the-big-change-affecting-european-travel)
 * [2025-06-29, 20:48:00](https://news.ycombinator.com/item?id=44416304) - [ZeroRISC Gets $10M Funding, Says Open-Source Silicon Security Inevitable](https://www.eetimes.com/zerorisc-gets-10-million-funding-says-open-source-silicon-security-inevitable/)
 * [2025-06-29, 20:28:25](https://news.ycombinator.com/item?id=44416157) - [Error Handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
