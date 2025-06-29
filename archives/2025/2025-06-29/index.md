@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 20:28:25](https://news.ycombinator.com/item?id=44416157) - [Error Handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 19:18:57](https://news.ycombinator.com/item?id=44415563) - [The Asymmetry of Destruction](https://passingtime.substack.com/p/the-asymmetry-of-destruction)
 * [2025-06-29, 19:16:18](https://news.ycombinator.com/item?id=44415544) - [CEOs say AI is just a tool to help workers, but our jobs are already on the line](https://gizmodo.com/ceos-are-quietly-telling-us-the-truth-ai-is-replacing-you-2000621907)
 * [2025-06-29, 18:52:02](https://news.ycombinator.com/item?id=44415388) - [Unhooking from Amazon Ebooks](https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks)

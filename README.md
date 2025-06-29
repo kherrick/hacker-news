@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-29, 20:28:25](https://news.ycombinator.com/item?id=44416157) - [Error Handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 18:29:55](https://news.ycombinator.com/item?id=44415233) - [Many ransomware strains will abort if they detect a Russian keyboard installed](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 * [2025-06-29, 17:56:21](https://news.ycombinator.com/item?id=44414987) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 17:39:08](https://news.ycombinator.com/item?id=44414853) - [Loss of key US satellite data could send hurricane forecasting back 'decades'](https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate)
@@ -22,7 +23,6 @@
 * [2025-06-28, 16:53:56](https://news.ycombinator.com/item?id=44406171) - [BusyBeaver(6) Is Quite Large](https://scottaaronson.blog/?p=8972)
 * [2025-06-28, 14:45:43](https://news.ycombinator.com/item?id=44405057) - [Engineered Addictions](https://masonyarbrough.substack.com/p/engineered-addictions)
 * [2025-06-27, 15:57:45](https://news.ycombinator.com/item?id=44397809) - [Most ints are not floats](https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/)
-* [2025-06-27, 12:54:59](https://news.ycombinator.com/item?id=44396436) - [Web Numbers](https://ar.al/2025/06/25/web-numbers/)
 * [2025-06-27, 05:27:25](https://news.ycombinator.com/item?id=44393920) - [Brad Woods Digital Garden](https://garden.bradwoods.io)
 * [2025-06-26, 11:17:12](https://news.ycombinator.com/item?id=44386236) - [Revisiting Knuth's \"Premature Optimization\" Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 * [2025-06-26, 05:28:01](https://news.ycombinator.com/item?id=44384425) - [Why Go Rocks for Building a Lua Interpreter](https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/)
