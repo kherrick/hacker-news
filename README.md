@@ -21,15 +21,15 @@
 * [2025-06-29, 08:23:40](https://news.ycombinator.com/item?id=44411273) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 * [2025-06-29, 07:45:56](https://news.ycombinator.com/item?id=44411069) - [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 * [2025-06-28, 23:01:15](https://news.ycombinator.com/item?id=44408872) - [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
-* [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
 * [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia is the price we pay for minds poised near the edge of a cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
 * [2025-06-27, 15:57:45](https://news.ycombinator.com/item?id=44397809) - [Most ints are not floats](https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/)
+* [2025-06-27, 05:48:22](https://news.ycombinator.com/item?id=44393998) - [Modelling API rate limits as diophantine inequalities](https://vivekn.dev/blog/rate-limit-diophantine)
 * [2025-06-27, 05:27:25](https://news.ycombinator.com/item?id=44393920) - [Brad Woods Digital Garden](https://garden.bradwoods.io)
+* [2025-06-26, 14:40:55](https://news.ycombinator.com/item?id=44387923) - [Show HN: Rust -> WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art](https://github.com/gametorch/image_to_pixel_art_wasm)
 * [2025-06-26, 11:17:12](https://news.ycombinator.com/item?id=44386236) - [Revisiting Knuth's \"Premature Optimization\" Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 * [2025-06-26, 10:58:38](https://news.ycombinator.com/item?id=44386132) - [Show HN: Summle – A little maths Game](https://summle.net)
 * [2025-06-26, 05:28:01](https://news.ycombinator.com/item?id=44384425) - [Why Go Rocks for Building a Lua Interpreter](https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/)
 * [2025-06-25, 22:29:29](https://news.ycombinator.com/item?id=44382356) - [Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log](https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html)
-* [2025-06-25, 08:59:12](https://news.ycombinator.com/item?id=44375075) - [Sequence and first differences together list all positive numbers exactly once](https://oeis.org/A005228)
 
 ## [Archives](archives/index.md)
 

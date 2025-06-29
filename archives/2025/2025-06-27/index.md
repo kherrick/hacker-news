@@ -57,6 +57,7 @@
 * [2025-06-27, 06:07:05](https://news.ycombinator.com/item?id=44394085) - [Timeline of US Class I Railroads Since 1977](https://en.wikipedia.org/wiki/Timeline_of_Class_I_railroads_(1977%E2%80%93present))
 * [2025-06-27, 06:05:15](https://news.ycombinator.com/item?id=44394070) - [Apple Just Patented an Image Sensor with 20 Stops of Dynamic Range](https://ymcinema.com/2025/06/25/apple-just-patented-an-image-sensor-with-20-stops-of-dynamic-range/)
 * [2025-06-27, 06:01:37](https://news.ycombinator.com/item?id=44394051) - [Show HN: Sick of emailing yourself stuff? me too](https://github.com/sirbread/sink)
+* [2025-06-27, 05:48:22](https://news.ycombinator.com/item?id=44393998) - [Modelling API rate limits as diophantine inequalities](https://vivekn.dev/blog/rate-limit-diophantine)
 * [2025-06-27, 05:31:56](https://news.ycombinator.com/item?id=44393942) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 05:27:25](https://news.ycombinator.com/item?id=44393920) - [Brad Woods Digital Garden](https://garden.bradwoods.io)
 * [2025-06-27, 05:00:41](https://news.ycombinator.com/item?id=44393817) - [XSLT](https://github.com/pacocoursey/xslt)
