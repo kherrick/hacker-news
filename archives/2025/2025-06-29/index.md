@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 07:54:52](https://news.ycombinator.com/item?id=44411114) - [Google Gemini is about to control your messages and calls, even if you say no](https://www.laptopmag.com/ai/gemini-phone-access-update)
+* [2025-06-29, 07:48:03](https://news.ycombinator.com/item?id=44411083) - [Calling white middle-aged women Karen 'borders on racism'](https://www.thetimes.com/uk/law/article/calling-white-middle-aged-women-karen-borders-on-racism-b6wccb9g6)
+* [2025-06-29, 07:45:56](https://news.ycombinator.com/item?id=44411069) - [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
+* [2025-06-29, 07:07:03](https://news.ycombinator.com/item?id=44410900) - [The Unsustainability of Moore's Law](https://bzolang.blog/p/the-unsustainability-of-moores-law)
 * [2025-06-29, 06:53:48](https://news.ycombinator.com/item?id=44410843) - [It's Known as 'The List'–and It's a Secret File of AI Geniuses](https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc)
 * [2025-06-29, 05:44:13](https://news.ycombinator.com/item?id=44410616) - [Brave creates new TLD on the blockchain](https://brave.com/blog/brave-tld/)
 * [2025-06-29, 03:48:36](https://news.ycombinator.com/item?id=44410217) - [Against AI: An Open Letter from Writers to Publishers](https://lithub.com/against-ai-an-open-letter-from-writers-to-publishers/)
