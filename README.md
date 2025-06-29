@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-29, 21:50:28](https://news.ycombinator.com/item?id=44416780) - [Tesla sales drop for fifth month in a row in Europe](https://abcnews.go.com/Business/wireStory/europeans-angry-musk-buying-cars-tesla-sales-drop-123203026)
+* [2025-06-29, 21:53:59](https://news.ycombinator.com/item?id=44416805) - [Honda Joins Space Race by Launching Successful Reusable Rocket](https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/)
 * [2025-06-29, 21:48:12](https://news.ycombinator.com/item?id=44416761) - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
+* [2025-06-29, 21:30:02](https://news.ycombinator.com/item?id=44416589) - [Reverse Engineering the Microchip CLB](http://mcp-clb.markomo.me/)
 * [2025-06-29, 20:48:00](https://news.ycombinator.com/item?id=44416304) - [ZeroRISC Gets $10M Funding, Says Open-Source Silicon Security Inevitable](https://www.eetimes.com/zerorisc-gets-10-million-funding-says-open-source-silicon-security-inevitable/)
 * [2025-06-29, 20:28:25](https://news.ycombinator.com/item?id=44416157) - [Error handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
@@ -22,7 +23,6 @@
 * [2025-06-29, 07:45:56](https://news.ycombinator.com/item?id=44411069) - [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 * [2025-06-28, 23:01:15](https://news.ycombinator.com/item?id=44408872) - [Solving `Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 * [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia is the price we pay for minds poised near the edge of a cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
-* [2025-06-27, 15:57:45](https://news.ycombinator.com/item?id=44397809) - [Most ints are not floats](https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/)
 * [2025-06-27, 05:48:22](https://news.ycombinator.com/item?id=44393998) - [Modelling API rate limits as diophantine inequalities](https://vivekn.dev/blog/rate-limit-diophantine)
 * [2025-06-27, 05:27:25](https://news.ycombinator.com/item?id=44393920) - [Brad Woods Digital Garden](https://garden.bradwoods.io)
 * [2025-06-26, 14:40:55](https://news.ycombinator.com/item?id=44387923) - [Show HN: Rust -> WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art](https://github.com/gametorch/image_to_pixel_art_wasm)
