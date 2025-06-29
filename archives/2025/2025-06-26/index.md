@@ -46,6 +46,7 @@
 * [2025-06-26, 11:17:12](https://news.ycombinator.com/item?id=44386236) - [Revisiting Knuth's \"Premature Optimization\" Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 * [2025-06-26, 11:01:18](https://news.ycombinator.com/item?id=44386149) - [Mixed DPI in X11](https://wok.oblomov.eu/tecnologia/mixed-dpi-x11/)
 * [2025-06-26, 11:01:12](https://news.ycombinator.com/item?id=44386148) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
+* [2025-06-26, 10:58:38](https://news.ycombinator.com/item?id=44386132) - [Show HN: Summle – A little maths Game](https://summle.net)
 * [2025-06-26, 10:29:34](https://news.ycombinator.com/item?id=44385981) - [Muvera: Making multi-vector retrieval as fast as single-vector search](https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/)
 * [2025-06-26, 10:11:51](https://news.ycombinator.com/item?id=44385892) - [I Fought in Ukraine and Here's Why FPV Drones Kind of Suck](https://warontherocks.com/2025/06/i-fought-in-ukraine-and-heres-why-fpv-drones-kind-of-suck/)
 * [2025-06-26, 09:45:21](https://news.ycombinator.com/item?id=44385742) - [Apptainer: Application Containers for Linux](https://apptainer.org/)
