@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-06-29, 10:48:13](https://news.ycombinator.com/item?id=44412009) - [Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station](https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/)
-* [2025-06-29, 09:28:57](https://news.ycombinator.com/item?id=44411577) - [Did lead poisoning create a generation of serial killers?](https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers)
+* [2025-06-29, 11:52:03](https://news.ycombinator.com/item?id=44412349) - [AI agents get office tasks wrong around 70% of time, and many aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
+* [2025-06-29, 11:41:55](https://news.ycombinator.com/item?id=44412296) - [On the capacity, performance, and reliability of microSD cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
+* [2025-06-29, 09:28:57](https://news.ycombinator.com/item?id=44411577) - [Murderland: Crime and Bloodlust in the Time of Serial Killers](https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers)
 * [2025-06-29, 08:23:40](https://news.ycombinator.com/item?id=44411273) - [Using the internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 * [2025-06-29, 07:45:56](https://news.ycombinator.com/item?id=44411069) - [More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad)
 * [2025-06-29, 07:07:03](https://news.ycombinator.com/item?id=44410900) - [The Unsustainability of Moore's Law](https://bzolang.blog/p/the-unsustainability-of-moores-law)
@@ -21,7 +22,6 @@
 * [2025-06-28, 14:22:10](https://news.ycombinator.com/item?id=44404905) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 * [2025-06-28, 14:18:18](https://news.ycombinator.com/item?id=44404876) - [Sirius: A GPU-native SQL engine](https://github.com/sirius-db/sirius)
 * [2025-06-28, 12:20:08](https://news.ycombinator.com/item?id=44404164) - [We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
-* [2025-06-26, 22:27:11](https://news.ycombinator.com/item?id=44392104) - [The Perils of 'Design Thinking'](https://www.theatlantic.com/books/archive/2025/06/invention-of-design-maggie-gram-book-review/683302/)
 * [2025-06-26, 12:15:44](https://news.ycombinator.com/item?id=44386670) - [What UI first distinguished radio buttons from checkboxes with circles/squares?](https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar)
 * [2025-06-26, 06:24:52](https://news.ycombinator.com/item?id=44384693) - [The European wood pigeon helped me appreciate its omnipresent city cousins](https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html)
 * [2025-06-26, 00:24:20](https://news.ycombinator.com/item?id=44383086) - [Show HN: A different kind of AI Video generation](https://news.ycombinator.com/item?id=44383086)
