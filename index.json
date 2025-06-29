@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-06-29, 16:08:53",
-      "https://news.ycombinator.com/item?id=44414171"
-    ],
-    [
-      "We accidentally solved robotics by watching 1M hours of YouTube",
-      "https://ksagar.bearblog.dev/vjepa/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 16:08:37",
-      "https://news.ycombinator.com/item?id=44414169"
-    ],
-    [
-      "Beyond the Hook: A Technical Deep Dive into Modern Phishing Methodologies",
-      "https://blog.quarkslab.com/./technical-dive-into-modern-phishing.html"
-    ]
-  ],
-  [
-    [
       "2025-06-29, 14:45:10",
       "https://news.ycombinator.com/item?id=44413574"
     ],
@@ -37,6 +17,16 @@
     [
       "I made my VM think it has a CPU fan",
       "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 13:55:07",
+      "https://news.ycombinator.com/item?id=44413184"
+    ],
+    [
+      "Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow",
+      "https://github.com/Miladxsar23/smartstepper"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "What UI first distinguished radio buttons from checkboxes with circles/squares?",
       "https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 05:28:01",
+      "https://news.ycombinator.com/item?id=44384425"
+    ],
+    [
+      "Why Go Rocks for Building a Lua Interpreter",
+      "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
     ]
   ],
   [
