@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 22:45:57](https://news.ycombinator.com/item?id=44428731) - [AI is Anti-Human (and assorted qualifications)](https://njump.me/naddr1qqxnzde58yerxv3exycrsdpjqgsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsrqsqqqa28nmz2vk)
 * [2025-06-30, 22:23:43](https://news.ycombinator.com/item?id=44428569) - [I got an ambulance ride, CT scan and ER care in Brazil. My bill: $0](https://www.washingtonpost.com/world/2025/06/29/brazil-health-care-sus-hospitals/)
 * [2025-06-30, 22:18:01](https://news.ycombinator.com/item?id=44428518) - [Corruption Database – DJT](https://github.com/codeddarkness/taco_pardons)
 * [2025-06-30, 22:04:53](https://news.ycombinator.com/item?id=44428399) - [Bell Labs DSP Pioneer Jim Boddie Leaves Lasting Legacy](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)

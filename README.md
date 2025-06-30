@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-30, 22:45:57](https://news.ycombinator.com/item?id=44428731) - [AI is Anti-Human (and assorted qualifications)](https://njump.me/naddr1qqxnzde58yerxv3exycrsdpjqgsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsrqsqqqa28nmz2vk)
 * [2025-06-30, 22:18:01](https://news.ycombinator.com/item?id=44428518) - [Corruption Database – DJT](https://github.com/codeddarkness/taco_pardons)
 * [2025-06-30, 22:04:53](https://news.ycombinator.com/item?id=44428399) - [Bell Labs DSP Pioneer Jim Boddie Leaves Lasting Legacy](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
 * [2025-06-30, 21:11:30](https://news.ycombinator.com/item?id=44427929) - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
@@ -27,7 +28,6 @@
 * [2025-06-28, 18:15:10](https://news.ycombinator.com/item?id=44406866) - [Making a $20 smart boombox [video]](https://www.youtube.com/watch?v=P3XCPywlXBI)
 * [2025-06-28, 16:27:58](https://news.ycombinator.com/item?id=44405937) - [Jacobi Ellipsoid](https://en.wikipedia.org/wiki/Jacobi_ellipsoid)
 * [2025-06-28, 06:11:38](https://news.ycombinator.com/item?id=44402618) - [Creating fair dice from random objects](https://arstechnica.com/science/2025/05/your-next-gaming-dice-could-be-shaped-like-a-dragon-or-armadillo/)
-* [2025-06-28, 02:46:18](https://news.ycombinator.com/item?id=44402010) - [Ask HN: 80s electronics book club; anyone remember this illustrator?](https://news.ycombinator.com/item?id=44402010)
 * [2025-06-27, 20:02:15](https://news.ycombinator.com/item?id=44399792) - [Researching LED Displays for the Time Circuits](https://www.partsnotincluded.com/researching-time-circuit-led-displays/)
 * [2025-06-27, 17:50:44](https://news.ycombinator.com/item?id=44398809) - [The Plot of the Phantom, a text adventure that took 40 years to finish](https://scottandrew.com/blog/2025/06/you-can-now-play-plot-of-the-phantom-the-text-adventure-game/)
 
