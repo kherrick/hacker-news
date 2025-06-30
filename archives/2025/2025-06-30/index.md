@@ -5,9 +5,13 @@
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
 * [2025-06-30, 22:23:43](https://news.ycombinator.com/item?id=44428569) - [I got an ambulance ride, CT scan and ER care in Brazil. My bill: $0](https://www.washingtonpost.com/world/2025/06/29/brazil-health-care-sus-hospitals/)
+* [2025-06-30, 22:18:01](https://news.ycombinator.com/item?id=44428518) - [Corruption Database – DJT](https://github.com/codeddarkness/taco_pardons)
+* [2025-06-30, 22:04:53](https://news.ycombinator.com/item?id=44428399) - [Bell Labs DSP Pioneer Jim Boddie Leaves Lasting Legacy](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
 * [2025-06-30, 21:11:30](https://news.ycombinator.com/item?id=44427929) - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
 * [2025-06-30, 20:53:55](https://news.ycombinator.com/item?id=44427757) - [The New Skill in AI Is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering)
 * [2025-06-30, 20:24:53](https://news.ycombinator.com/item?id=44427452) - [CertMate – SSL Certificate Management System](https://github.com/fabriziosalmi/certmate)
+* [2025-06-30, 20:06:11](https://news.ycombinator.com/item?id=44427278) - [My Database Is My Application: Rethinking Webhook Logic with DuckDB and SQL](https://www.hey.earth/posts/duckdb-webhook-gateway)
+* [2025-06-30, 19:54:11](https://news.ycombinator.com/item?id=44427147) - [Price of rice in Japan falls below ¥4k per 5 kilograms](https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/)
 * [2025-06-30, 19:29:50](https://news.ycombinator.com/item?id=44426972) - ['Generali' sign atop insurer's skyscraper offices collapses in Milan](https://www.reuters.com/en/generali-sign-atop-insurers-skyscraper-offices-collapses-milan-2025-06-30/)
 * [2025-06-30, 19:19:52](https://news.ycombinator.com/item?id=44426864) - [The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
 * [2025-06-30, 19:17:11](https://news.ycombinator.com/item?id=44426845) - [End of an Era](https://www.erasmatazz.com/personal/self/end-of-an-era.html)
