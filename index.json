@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-30, 08:47:54",
+      "https://news.ycombinator.com/item?id=44420943"
+    ],
+    [
+      "Thousands in Norway told they had won life-changing sums in lottery error",
+      "https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 06:13:10",
       "https://news.ycombinator.com/item?id=44419986"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-06-29, 22:43:08",
-      "https://news.ycombinator.com/item?id=44417276"
-    ],
-    [
-      "ICE test train reaches speeds of up to 405.0 km/h",
-      "https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/ICE-Testzug-faehrt-bis-zu-405-0-km-h-und-sammelt-wichtige-Erkenntnisse-fuer-den-Hochgeschwindigkeitsverkehr-13428394"
-    ]
-  ],
-  [
-    [
       "2025-06-29, 22:22:32",
       "https://news.ycombinator.com/item?id=44417091"
     ],
@@ -117,16 +117,6 @@
     [
       "Anticheat Update Tracking",
       "https://not-matthias.github.io/posts/anticheat-update-tracking/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 20:28:25",
-      "https://news.ycombinator.com/item?id=44416157"
-    ],
-    [
-      "Error handling in Rust",
-      "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-06-27, 05:48:22",
+      "https://news.ycombinator.com/item?id=44393998"
+    ],
+    [
+      "Modelling API rate limits as diophantine inequalities",
+      "https://vivekn.dev/blog/rate-limit-diophantine"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 02:45:02",
       "https://news.ycombinator.com/item?id=44393307"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=44389622"
     ],
     [
-      "The Book of Shaders",
+      "The Book of Shaders (2015)",
       "https://thebookofshaders.com/"
     ]
   ],
