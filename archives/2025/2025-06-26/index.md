@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 23:28:36](https://news.ycombinator.com/item?id=44392459) - [Show HN: I built a daily sunlight tracker](https://www.lumehealth.io/products)
 * [2025-06-26, 23:04:30](https://news.ycombinator.com/item?id=44392304) - [Save your disk, write files directly into RAM with /dev/shm](https://hiandrewquinn.github.io/til-site/posts/save-your-disk-write-files-directly-into-ram-with-dev-shm/)
 * [2025-06-26, 23:00:11](https://news.ycombinator.com/item?id=44392274) - [Thomas Aquinas – The world is divine](https://ralphammer.com/thomas-aquinas-the-world-is-divine/)
 * [2025-06-26, 22:27:11](https://news.ycombinator.com/item?id=44392104) - [The Perils of 'Design Thinking'](https://www.theatlantic.com/books/archive/2025/06/invention-of-design-maggie-gram-book-review/683302/)
