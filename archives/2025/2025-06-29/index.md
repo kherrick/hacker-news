@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 23:51:57](https://news.ycombinator.com/item?id=44417725) - [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
 * [2025-06-29, 23:35:16](https://news.ycombinator.com/item?id=44417629) - [The End of US Democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)
 * [2025-06-29, 23:23:09](https://news.ycombinator.com/item?id=44417549) - [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
+* [2025-06-29, 23:03:07](https://news.ycombinator.com/item?id=44417417) - [Commodore acquired for a 'low seven figure' price – CEO from retro community](https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community)
+* [2025-06-29, 22:22:32](https://news.ycombinator.com/item?id=44417091) - [Finding a former Australian prime minister’s passport number on Instagram (2020)](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
 * [2025-06-29, 22:22:30](https://news.ycombinator.com/item?id=44417090) - [Bitcoin's Security Budget Issue: Problems, Solutions and Myths Debunked](https://budget.day/)
 * [2025-06-29, 21:53:59](https://news.ycombinator.com/item?id=44416805) - [Honda Joins Space Race by Launching Successful Reusable Rocket](https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/)
 * [2025-06-29, 21:50:28](https://news.ycombinator.com/item?id=44416780) - [Tesla sales drop for fifth month in a row in Europe](https://abcnews.go.com/Business/wireStory/europeans-angry-musk-buying-cars-tesla-sales-drop-123203026)
@@ -13,6 +16,7 @@
 * [2025-06-29, 21:43:50](https://news.ycombinator.com/item?id=44416710) - [China Dominates 44% of Visible Fishing Activity Worldwide](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/)
 * [2025-06-29, 21:30:02](https://news.ycombinator.com/item?id=44416589) - [Reverse Engineering the Microchip CLB](http://mcp-clb.markomo.me/)
 * [2025-06-29, 21:13:48](https://news.ycombinator.com/item?id=44416470) - [EU to ban carry-on baggage fees](https://www.bbc.com/travel/article/20250627-the-big-change-affecting-european-travel)
+* [2025-06-29, 21:06:57](https://news.ycombinator.com/item?id=44416421) - [Anticheat Update Tracking](https://not-matthias.github.io/posts/anticheat-update-tracking/)
 * [2025-06-29, 20:48:00](https://news.ycombinator.com/item?id=44416304) - [ZeroRISC Gets $10M Funding, Says Open-Source Silicon Security Inevitable](https://www.eetimes.com/zerorisc-gets-10-million-funding-says-open-source-silicon-security-inevitable/)
 * [2025-06-29, 20:28:25](https://news.ycombinator.com/item?id=44416157) - [Error Handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
@@ -33,6 +37,7 @@
 * [2025-06-29, 16:22:13](https://news.ycombinator.com/item?id=44414261) - [Europe's First Exascale Supercomputer Powers Up](https://spectrum.ieee.org/jupiter-exascale-supercomputer-europe)
 * [2025-06-29, 16:08:53](https://news.ycombinator.com/item?id=44414171) - [We accidentally solved robotics by watching 1M hours of YouTube](https://ksagar.bearblog.dev/vjepa/)
 * [2025-06-29, 16:08:37](https://news.ycombinator.com/item?id=44414169) - [Beyond the Hook: A Technical Deep Dive into Modern Phishing Methodologies](https://blog.quarkslab.com/./technical-dive-into-modern-phishing.html)
+* [2025-06-29, 15:59:56](https://news.ycombinator.com/item?id=44414115) - [The $25k car is going extinct?](https://media.hubspot.com/why-the-25000-car-is-going-extinct)
 * [2025-06-29, 15:33:57](https://news.ycombinator.com/item?id=44413921) - [Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)](https://llmapitest.com/)
 * [2025-06-29, 15:19:19](https://news.ycombinator.com/item?id=44413809) - [4-10x faster in-process pub/sub for Go](https://github.com/kelindar/event)
 * [2025-06-29, 15:09:01](https://news.ycombinator.com/item?id=44413750) - [The Consciousness Gradient: When Machines Begin to Wonder](https://v1tali.com/ai-consciousness)
