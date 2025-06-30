@@ -25,7 +25,7 @@
 * [2025-06-27, 13:59:28](https://news.ycombinator.com/item?id=44396867) - [New Proof Dramatically Compresses Space Needed for Computation](https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/)
 * [2025-06-27, 11:51:22](https://news.ycombinator.com/item?id=44396034) - [Does Form Shape Function?](https://www.quantamagazine.org/does-form-really-shape-function-20250612/)
 * [2025-06-27, 02:45:02](https://news.ycombinator.com/item?id=44393307) - [Touching the back wall of the Apple store](https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/)
-* [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [Amber insect fossils reveal \"zombie\" fungi likely lived alongside dinosaurs](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
+* [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [A glob of 99M-year-old amber trapped a zombie fungus erupting from a fly](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
 * [2025-06-26, 19:20:52](https://news.ycombinator.com/item?id=44390440) - [Ultrasound toothbrush promises painless checks for hidden gum problems](https://phys.org/news/2025-06-ultrasound-toothbrush-painless-hidden-gum.html)
 * [2025-06-26, 18:22:05](https://news.ycombinator.com/item?id=44389926) - [Building untrusted container images safely at scale](https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely)
 * [2025-06-26, 17:48:03](https://news.ycombinator.com/item?id=44389622) - [The Book of Shaders (2015)](https://thebookofshaders.com/)
