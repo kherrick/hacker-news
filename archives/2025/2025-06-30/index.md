@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
 * [2025-06-30, 15:01:12](https://news.ycombinator.com/item?id=44424194) - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
+* [2025-06-30, 14:42:43](https://news.ycombinator.com/item?id=44423965) - [Ubuntu: Introducing Debcrafters](https://discourse.ubuntu.com/t/introducing-debcrafters/63674)
 * [2025-06-30, 14:30:42](https://news.ycombinator.com/item?id=44423812) - [How urea forms spontaneously](https://ethz.ch/en/news-and-events/eth-news/news/2025/06/how-urea-forms-spontaneously.html)
 * [2025-06-30, 13:52:50](https://news.ycombinator.com/item?id=44423285) - [Congress might block state AI laws for a decade](https://techcrunch.com/2025/06/27/congress-might-block-state-ai-laws-for-a-decade-heres-what-it-means/)
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
