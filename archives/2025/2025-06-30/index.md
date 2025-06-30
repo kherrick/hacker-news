@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
+* [2025-06-30, 11:38:54](https://news.ycombinator.com/item?id=44422040) - [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)
+* [2025-06-30, 11:07:57](https://news.ycombinator.com/item?id=44421804) - [What Happens After A.I. Destroys College Writing?](https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper)
 * [2025-06-30, 11:07:56](https://news.ycombinator.com/item?id=44421803) - [Gartner Predicts over 40% of Agentic AI Projects Will Be Canceled by End of 2027](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027)
 * [2025-06-30, 11:03:39](https://news.ycombinator.com/item?id=44421784) - [A rare asteroid flyby will happen soon, but NASA may be left on the sidelines](https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/)
 * [2025-06-30, 11:02:56](https://news.ycombinator.com/item?id=44421778) - [Huawei Patents 3,000km Solid-State Battery with 5-Minute Charge](https://carnewschina.com/2025/06/18/huaweis-3000km-solid-state-battery-patent-with-5-minute-charge-ignites-industry-race/)
@@ -12,6 +14,7 @@
 * [2025-06-30, 10:59:25](https://news.ycombinator.com/item?id=44421749) - [GOP Bill Adds Surprise Tax That Could Cripple Wind and Solar Power](https://www.nytimes.com/2025/06/29/climate/gop-bill-adds-surprise-tax-that-could-cripple-wind-and-solar-power.html)
 * [2025-06-30, 10:52:31](https://news.ycombinator.com/item?id=44421694) - [OpenTyrian2000 – multi platform SDL3 version of Tyrian 2000 released](https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3)
 * [2025-06-30, 09:58:18](https://news.ycombinator.com/item?id=44421384) - [Positive link between cannabis use and 'Major Adverse Cardiovascular Events'](https://heart.bmj.com/content/early/2025/06/10/heartjnl-2024-325429)
+* [2025-06-30, 09:35:35](https://news.ycombinator.com/item?id=44421254) - [If AI Lets Us Do More in Less Time–Why Not Shorten the Workweek?](https://sfg.media/en/a/if-ai-lets-us-do-more-in-less-time/)
 * [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-30, 08:47:54](https://news.ycombinator.com/item?id=44420943) - [Thousands in Norway told they had won life-changing sums in lottery error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error)
 * [2025-06-30, 06:13:10](https://news.ycombinator.com/item?id=44419986) - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
