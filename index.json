@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-30, 01:53:47",
-      "https://news.ycombinator.com/item?id=44418424"
+      "2025-06-30, 02:59:52",
+      "https://news.ycombinator.com/item?id=44418840"
     ],
     [
-      "My home servers are not a homelab",
-      "https://blog.nradk.com/posts/homelab/"
+      "NativeJIT: A C++ expression –> x64 JIT",
+      "https://github.com/BitFunnel/NativeJIT"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 02:09:30",
+      "https://news.ycombinator.com/item?id=44418520"
+    ],
+    [
+      "Continuous Glucose Monitoring",
+      "https://www.imperialviolet.org/2025/06/29/cgm.html"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Commodore acquired for a 'low seven figure' price – CEO from retro community",
       "https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 22:43:08",
+      "https://news.ycombinator.com/item?id=44417276"
+    ],
+    [
+      "ICE test train reaches speeds of up to 405.0 km/h",
+      "https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/ICE-Testzug-faehrt-bis-zu-405-0-km-h-und-sammelt-wichtige-Erkenntnisse-fuer-den-Hochgeschwindigkeitsverkehr-13428394"
     ]
   ],
   [
@@ -211,42 +231,12 @@
   ],
   [
     [
-      "2025-06-29, 11:56:09",
-      "https://news.ycombinator.com/item?id=44412370"
-    ],
-    [
-      "Bloom Filters by Example",
-      "https://llimllib.github.io/bloomfilter-tutorial/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 11:24:17",
-      "https://news.ycombinator.com/item?id=44412207"
-    ],
-    [
-      "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
-      "https://github.com/octelium/octelium"
-    ]
-  ],
-  [
-    [
       "2025-06-27, 05:48:22",
       "https://news.ycombinator.com/item?id=44393998"
     ],
     [
       "Modelling API rate limits as diophantine inequalities",
       "https://vivekn.dev/blog/rate-limit-diophantine"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 04:16:01",
-      "https://news.ycombinator.com/item?id=44393657"
-    ],
-    [
-      "Raymond Laflamme (1960-2025)",
-      "https://scottaaronson.blog/?p=8949"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Amber insect fossils reveal \"zombie\" fungi likely lived alongside dinosaurs",
       "https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 18:22:05",
+      "https://news.ycombinator.com/item?id=44389926"
+    ],
+    [
+      "Building untrusted container images safely at scale",
+      "https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely"
     ]
   ],
   [
