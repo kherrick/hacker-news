@@ -8,6 +8,7 @@
 * [2025-06-26, 23:00:11](https://news.ycombinator.com/item?id=44392274) - [Thomas Aquinas – The world is divine](https://ralphammer.com/thomas-aquinas-the-world-is-divine/)
 * [2025-06-26, 22:27:11](https://news.ycombinator.com/item?id=44392104) - [The Perils of 'Design Thinking'](https://www.theatlantic.com/books/archive/2025/06/invention-of-design-maggie-gram-book-review/683302/)
 * [2025-06-26, 21:35:58](https://news.ycombinator.com/item?id=44391711) - [Senators reintroduce App Store bill to rein in 'gatekeeper power'](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)
+* [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [Amber insect fossils reveal \"zombie\" fungi likely lived alongside dinosaurs](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
 * [2025-06-26, 21:20:27](https://news.ycombinator.com/item?id=44391535) - [Show HN: PRSS Site Creator – Create Blogs and Websites from Your Desktop](https://prss.co/)
 * [2025-06-26, 20:54:02](https://news.ycombinator.com/item?id=44391247) - [A.I. Is Homogenizing Our Thoughts](https://www.newyorker.com/culture/infinite-scroll/ai-is-homogenizing-our-thoughts)
 * [2025-06-26, 20:26:33](https://news.ycombinator.com/item?id=44390962) - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
