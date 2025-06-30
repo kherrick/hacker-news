@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 13:52:50](https://news.ycombinator.com/item?id=44423285) - [Congress might block state AI laws for a decade](https://techcrunch.com/2025/06/27/congress-might-block-state-ai-laws-for-a-decade-heres-what-it-means/)
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
 * [2025-06-30, 11:38:54](https://news.ycombinator.com/item?id=44422040) - [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)
 * [2025-06-30, 11:07:57](https://news.ycombinator.com/item?id=44421804) - [What Happens After A.I. Destroys College Writing?](https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper)

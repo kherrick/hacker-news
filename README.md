@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-30, 13:52:50](https://news.ycombinator.com/item?id=44423285) - [Congress might block state AI laws for a decade](https://techcrunch.com/2025/06/27/congress-might-block-state-ai-laws-for-a-decade-heres-what-it-means/)
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
 * [2025-06-30, 11:38:54](https://news.ycombinator.com/item?id=44422040) - [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)
 * [2025-06-30, 11:07:57](https://news.ycombinator.com/item?id=44421804) - [What Happens After A.I. Destroys College Writing?](https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper)
 * [2025-06-30, 11:02:55](https://news.ycombinator.com/item?id=44421776) - [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
-* [2025-06-30, 09:58:18](https://news.ycombinator.com/item?id=44421384) - [Positive link between cannabis use and 'Major Adverse Cardiovascular Events'](https://heart.bmj.com/content/early/2025/06/10/heartjnl-2024-325429)
-* [2025-06-30, 09:35:35](https://news.ycombinator.com/item?id=44421254) - [If AI Lets Us Do More in Less Time–Why Not Shorten the Workweek?](https://sfg.media/en/a/if-ai-lets-us-do-more-in-less-time/)
 * [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-30, 06:13:10](https://news.ycombinator.com/item?id=44419986) - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
 * [2025-06-30, 03:37:21](https://news.ycombinator.com/item?id=44419091) - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
@@ -29,6 +28,7 @@
 * [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [A glob of 99M-year-old amber trapped a zombie fungus erupting from a fly](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
 * [2025-06-26, 19:20:52](https://news.ycombinator.com/item?id=44390440) - [Ultrasound toothbrush promises painless checks for hidden gum problems](https://phys.org/news/2025-06-ultrasound-toothbrush-painless-hidden-gum.html)
 * [2025-06-26, 18:22:05](https://news.ycombinator.com/item?id=44389926) - [Building untrusted container images safely at scale](https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely)
+* [2025-06-26, 17:48:03](https://news.ycombinator.com/item?id=44389622) - [The Book of Shaders (2015)](https://thebookofshaders.com/)
 * [2025-06-26, 11:17:12](https://news.ycombinator.com/item?id=44386236) - [Revisiting Knuth's “Premature Optimization” Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 
 ## [Archives](archives/index.md)
