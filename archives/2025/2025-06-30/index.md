@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
 * [2025-06-30, 18:34:27](https://news.ycombinator.com/item?id=44426428) - [The JTAG in your Qualcomm/Snapdragon device's USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
+* [2025-06-30, 18:31:09](https://news.ycombinator.com/item?id=44426399) - [Datadog's $65M/year customer mystery solved](https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/)
 * [2025-06-30, 18:28:12](https://news.ycombinator.com/item?id=44426374) - [OpenTelemetry Is Great, but Who the Hell Is Going to Pay for It?](https://www.adatosystems.com/2025/02/10/who-the-hell-is-going-to-pay-for-this/)
 * [2025-06-30, 18:10:50](https://news.ycombinator.com/item?id=44426233) - [Ask HN: What's the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
 * [2025-06-30, 18:03:26](https://news.ycombinator.com/item?id=44426171) - [They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder](https://kevinboone.me/dtc-700.html)
