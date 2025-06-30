@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 22:23:43](https://news.ycombinator.com/item?id=44428569) - [I got an ambulance ride, CT scan and ER care in Brazil. My bill: $0](https://www.washingtonpost.com/world/2025/06/29/brazil-health-care-sus-hospitals/)
 * [2025-06-30, 21:11:30](https://news.ycombinator.com/item?id=44427929) - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
 * [2025-06-30, 20:53:55](https://news.ycombinator.com/item?id=44427757) - [The New Skill in AI Is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering)
 * [2025-06-30, 20:24:53](https://news.ycombinator.com/item?id=44427452) - [CertMate – SSL Certificate Management System](https://github.com/fabriziosalmi/certmate)
