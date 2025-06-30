@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-30, 17:22:12](https://news.ycombinator.com/item?id=44425771) - [Why are lefties more creative? Turns out, they're not](https://phys.org/news/2025-06-lefties-creative-theyre.html)
 * [2025-06-30, 17:00:57](https://news.ycombinator.com/item?id=44425537) - [14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative](https://14.ai/careers)
 * [2025-06-30, 16:55:20](https://news.ycombinator.com/item?id=44425461) - [I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
 * [2025-06-30, 16:38:43](https://news.ycombinator.com/item?id=44425253) - [A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carmax-used-pcs)
@@ -16,7 +17,6 @@
 * [2025-06-30, 11:02:55](https://news.ycombinator.com/item?id=44421776) - [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
 * [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-30, 03:37:21](https://news.ycombinator.com/item?id=44419091) - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
-* [2025-06-29, 21:48:12](https://news.ycombinator.com/item?id=44416761) - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
 * [2025-06-29, 20:35:17](https://news.ycombinator.com/item?id=44416221) - [Asynchronous Error Handling Is Hard](https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
 * [2025-06-29, 13:55:18](https://news.ycombinator.com/item?id=44413185) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)

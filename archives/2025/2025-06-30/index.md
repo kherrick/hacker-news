@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 17:22:12](https://news.ycombinator.com/item?id=44425771) - [Why are lefties more creative? Turns out, they're not](https://phys.org/news/2025-06-lefties-creative-theyre.html)
 * [2025-06-30, 17:00:57](https://news.ycombinator.com/item?id=44425537) - [14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative](https://14.ai/careers)
 * [2025-06-30, 16:55:20](https://news.ycombinator.com/item?id=44425461) - [I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
 * [2025-06-30, 16:38:43](https://news.ycombinator.com/item?id=44425253) - [A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carmax-used-pcs)
