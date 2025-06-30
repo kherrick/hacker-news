@@ -8,6 +8,7 @@
 * [2025-06-30, 19:19:52](https://news.ycombinator.com/item?id=44426864) - [The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
 * [2025-06-30, 19:03:50](https://news.ycombinator.com/item?id=44426726) - [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
 * [2025-06-30, 18:56:40](https://news.ycombinator.com/item?id=44426643) - [Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal](https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt)
+* [2025-06-30, 18:38:47](https://news.ycombinator.com/item?id=44426476) - [Show HN: We're two coffee nerds who built an AI app to track beans and recipes](https://beanbook.app)
 * [2025-06-30, 18:34:27](https://news.ycombinator.com/item?id=44426428) - [The JTAG in your Qualcomm/Snapdragon device's USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
 * [2025-06-30, 18:31:09](https://news.ycombinator.com/item?id=44426399) - [Datadog's $65M/year customer mystery solved](https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/)
 * [2025-06-30, 18:28:12](https://news.ycombinator.com/item?id=44426374) - [OpenTelemetry Is Great, but Who the Hell Is Going to Pay for It?](https://www.adatosystems.com/2025/02/10/who-the-hell-is-going-to-pay-for-this/)

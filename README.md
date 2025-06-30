@@ -2,7 +2,8 @@
 
 * [2025-06-30, 19:19:52](https://news.ycombinator.com/item?id=44426864) - [The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
 * [2025-06-30, 19:03:50](https://news.ycombinator.com/item?id=44426726) - [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
-* [2025-06-30, 18:34:27](https://news.ycombinator.com/item?id=44426428) - [The JTAG in your Qualcomm/Snapdragon device's USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
+* [2025-06-30, 18:38:47](https://news.ycombinator.com/item?id=44426476) - [Show HN: We're two coffee nerds who built an AI app to track beans and recipes](https://beanbook.app)
+* [2025-06-30, 18:34:27](https://news.ycombinator.com/item?id=44426428) - [The hidden JTAG in your Qualcomm/Snapdragon device’s USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
 * [2025-06-30, 18:31:09](https://news.ycombinator.com/item?id=44426399) - [Datadog's $65M/year customer mystery solved](https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/)
 * [2025-06-30, 18:10:50](https://news.ycombinator.com/item?id=44426233) - [Ask HN: What's the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
 * [2025-06-30, 18:03:26](https://news.ycombinator.com/item?id=44426171) - [They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder](https://kevinboone.me/dtc-700.html)
@@ -23,7 +24,6 @@
 * [2025-06-30, 03:37:21](https://news.ycombinator.com/item?id=44419091) - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
 * [2025-06-29, 20:35:17](https://news.ycombinator.com/item?id=44416221) - [Asynchronous Error Handling Is Hard](https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
-* [2025-06-29, 13:55:18](https://news.ycombinator.com/item?id=44413185) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 * [2025-06-28, 16:27:58](https://news.ycombinator.com/item?id=44405937) - [Jacobi Ellipsoid](https://en.wikipedia.org/wiki/Jacobi_ellipsoid)
 * [2025-06-28, 02:46:18](https://news.ycombinator.com/item?id=44402010) - [Ask HN: 80s electronics book club; anyone remember this illustrator?](https://news.ycombinator.com/item?id=44402010)
 * [2025-06-27, 20:02:15](https://news.ycombinator.com/item?id=44399792) - [Researching LED Displays for the Time Circuits](https://www.partsnotincluded.com/researching-time-circuit-led-displays/)
