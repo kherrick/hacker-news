@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 11:03:39](https://news.ycombinator.com/item?id=44421784) - [A rare asteroid flyby will happen soon, but NASA may be left on the sidelines](https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/)
+* [2025-06-30, 11:02:56](https://news.ycombinator.com/item?id=44421778) - [Huawei Patents 3,000km Solid-State Battery with 5-Minute Charge](https://carnewschina.com/2025/06/18/huaweis-3000km-solid-state-battery-patent-with-5-minute-charge-ignites-industry-race/)
+* [2025-06-30, 10:52:31](https://news.ycombinator.com/item?id=44421694) - [OpenTyrian2000 – multi platform SDL3 version of Tyrian 2000 released](https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3)
+* [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-30, 08:47:54](https://news.ycombinator.com/item?id=44420943) - [Thousands in Norway told they had won life-changing sums in lottery error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error)
 * [2025-06-30, 06:13:10](https://news.ycombinator.com/item?id=44419986) - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
 * [2025-06-30, 05:29:10](https://news.ycombinator.com/item?id=44419753) - [That Dropped Call with Customer Service? It Was on Purpose](https://www.theatlantic.com/ideas/archive/2025/06/customer-service-sludge/683340/)
