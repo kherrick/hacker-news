@@ -19,6 +19,7 @@
 * [2025-06-29, 21:13:48](https://news.ycombinator.com/item?id=44416470) - [EU to ban carry-on baggage fees](https://www.bbc.com/travel/article/20250627-the-big-change-affecting-european-travel)
 * [2025-06-29, 21:06:57](https://news.ycombinator.com/item?id=44416421) - [Anticheat Update Tracking](https://not-matthias.github.io/posts/anticheat-update-tracking/)
 * [2025-06-29, 20:48:00](https://news.ycombinator.com/item?id=44416304) - [ZeroRISC Gets $10M Funding, Says Open-Source Silicon Security Inevitable](https://www.eetimes.com/zerorisc-gets-10-million-funding-says-open-source-silicon-security-inevitable/)
+* [2025-06-29, 20:35:17](https://news.ycombinator.com/item?id=44416221) - [Asynchronous Error Handling Is Hard](https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard)
 * [2025-06-29, 20:28:25](https://news.ycombinator.com/item?id=44416157) - [Error Handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
 * [2025-06-29, 19:18:57](https://news.ycombinator.com/item?id=44415563) - [The Asymmetry of Destruction](https://passingtime.substack.com/p/the-asymmetry-of-destruction)

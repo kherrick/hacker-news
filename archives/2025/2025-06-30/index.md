@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
 * [2025-06-30, 17:00:57](https://news.ycombinator.com/item?id=44425537) - [14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative](https://14.ai/careers)
+* [2025-06-30, 16:55:20](https://news.ycombinator.com/item?id=44425461) - [I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
+* [2025-06-30, 16:38:43](https://news.ycombinator.com/item?id=44425253) - [A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carmax-used-pcs)
 * [2025-06-30, 16:27:56](https://news.ycombinator.com/item?id=44425125) - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
 * [2025-06-30, 16:15:29](https://news.ycombinator.com/item?id=44424996) - [Scribble-based forecasting and AI 2027](https://dynomight.net/scribbles/)
 * [2025-06-30, 15:48:45](https://news.ycombinator.com/item?id=44424712) - [The Academic Pipeline Stall: Why Industry Must Stand for Academia – ACM Sigops](https://www.sigops.org/2025/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
