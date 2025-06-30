@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-30, 19:29:50",
+      "https://news.ycombinator.com/item?id=44426972"
+    ],
+    [
+      "'Generali' sign atop insurer's skyscraper offices collapses in Milan",
+      "https://www.reuters.com/en/generali-sign-atop-insurers-skyscraper-offices-collapses-milan-2025-06-30/"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 18:56:40",
+      "https://news.ycombinator.com/item?id=44426643"
+    ],
+    [
+      "Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal",
+      "https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 18:34:27",
       "https://news.ycombinator.com/item?id=44426428"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2025-06-30, 18:28:12",
-      "https://news.ycombinator.com/item?id=44426374"
+      "2025-06-30, 18:31:09",
+      "https://news.ycombinator.com/item?id=44426399"
     ],
     [
-      "OpenTelemetry Is Great, but Who the Hell Is Going to Pay for It?",
-      "https://www.adatosystems.com/2025/02/10/who-the-hell-is-going-to-pay-for-this/"
+      "Datadog's $65M/year customer mystery solved",
+      "https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44425461"
     ],
     [
-      "I Write Type Safe Generic Data Structures in C",
+      "I write type-safe generic data structures in C",
       "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/"
     ]
   ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-06-27, 22:00:49",
-      "https://news.ycombinator.com/item?id=44400646"
-    ],
-    [
-      "Shadow of a Doubt",
-      "https://harpers.org/archive/2025/07/shadow-of-a-doubt-ocd-andrew-kay/"
-    ]
-  ],
-  [
-    [
       "2025-06-27, 20:02:15",
       "https://news.ycombinator.com/item?id=44399792"
     ],
@@ -287,16 +297,6 @@
     [
       "New proof dramatically compresses space needed for computation",
       "https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 21:25:45",
-      "https://news.ycombinator.com/item?id=44391590"
-    ],
-    [
-      "A glob of 99M-year-old amber trapped a zombie fungus erupting from a fly",
-      "https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil"
     ]
   ]
 ]
