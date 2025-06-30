@@ -24,6 +24,7 @@
 * [2025-06-27, 18:49:57](https://news.ycombinator.com/item?id=44399234) - [SymbolicAI: A neuro-symbolic perspective on LLMs](https://github.com/ExtensityAI/symbolicai)
 * [2025-06-27, 18:45:05](https://news.ycombinator.com/item?id=44399193) - [nimbme – Nim bare-metal environment](https://github.com/mikra01/nimbme)
 * [2025-06-27, 18:43:41](https://news.ycombinator.com/item?id=44399186) - [New Process Uses Microbes to Create Valuable Materials from Urine](https://newscenter.lbl.gov/2025/06/17/new-process-uses-microbes-to-create-valuable-materials-from-urine/)
+* [2025-06-27, 18:34:53](https://news.ycombinator.com/item?id=44399123) - [Show HN: Open-Source International Space Station Tracker ESP32/Arduino for $20](https://github.com/GuitarML/SpaceStationTracker)
 * [2025-06-27, 17:50:44](https://news.ycombinator.com/item?id=44398809) - [Play \"The Plot of the Phantom\" the text adventure that took 40 years to finish](https://scottandrew.com/blog/2025/06/you-can-now-play-plot-of-the-phantom-the-text-adventure-game/)
 * [2025-06-27, 17:44:32](https://news.ycombinator.com/item?id=44398756) - [James Webb Space Telescope Reveals Its First Direct Image of an Exoplanet](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/)
 * [2025-06-27, 17:38:08](https://news.ycombinator.com/item?id=44398710) - [US Supreme Court limits federal judges' power to block Trump orders](https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus)

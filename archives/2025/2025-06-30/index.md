@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 14:30:42](https://news.ycombinator.com/item?id=44423812) - [How urea forms spontaneously](https://ethz.ch/en/news-and-events/eth-news/news/2025/06/how-urea-forms-spontaneously.html)
 * [2025-06-30, 13:52:50](https://news.ycombinator.com/item?id=44423285) - [Congress might block state AI laws for a decade](https://techcrunch.com/2025/06/27/congress-might-block-state-ai-laws-for-a-decade-heres-what-it-means/)
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
 * [2025-06-30, 11:38:54](https://news.ycombinator.com/item?id=44422040) - [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)
+* [2025-06-30, 11:30:23](https://news.ycombinator.com/item?id=44421978) - [Printegrated Circuits: Merging 3D Printing and Electronics](https://spectrum.ieee.org/3d-printing-smart-objects)
 * [2025-06-30, 11:07:57](https://news.ycombinator.com/item?id=44421804) - [What Happens After A.I. Destroys College Writing?](https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper)
 * [2025-06-30, 11:07:56](https://news.ycombinator.com/item?id=44421803) - [Gartner Predicts over 40% of Agentic AI Projects Will Be Canceled by End of 2027](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027)
 * [2025-06-30, 11:03:39](https://news.ycombinator.com/item?id=44421784) - [A rare asteroid flyby will happen soon, but NASA may be left on the sidelines](https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/)
