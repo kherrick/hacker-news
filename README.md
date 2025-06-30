@@ -2,8 +2,6 @@
 
 * [2025-06-30, 11:07:56](https://news.ycombinator.com/item?id=44421803) - [Gartner Predicts over 40% of Agentic AI Projects Will Be Canceled by End of 2027](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027)
 * [2025-06-30, 11:03:39](https://news.ycombinator.com/item?id=44421784) - [A rare asteroid flyby will happen soon, but NASA may be left on the sidelines](https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/)
-* [2025-06-30, 11:02:56](https://news.ycombinator.com/item?id=44421778) - [Huawei Patents 3,000km Solid-State Battery with 5-Minute Charge](https://carnewschina.com/2025/06/18/huaweis-3000km-solid-state-battery-patent-with-5-minute-charge-ignites-industry-race/)
-* [2025-06-30, 10:59:25](https://news.ycombinator.com/item?id=44421749) - [GOP Bill Adds Surprise Tax That Could Cripple Wind and Solar Power](https://www.nytimes.com/2025/06/29/climate/gop-bill-adds-surprise-tax-that-could-cripple-wind-and-solar-power.html)
 * [2025-06-30, 10:52:31](https://news.ycombinator.com/item?id=44421694) - [OpenTyrian2000 – multi platform SDL3 version of Tyrian 2000 released](https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3)
 * [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-30, 08:47:54](https://news.ycombinator.com/item?id=44420943) - [Thousands in Norway told they had won life-changing sums in lottery error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error)
@@ -16,6 +14,7 @@
 * [2025-06-29, 21:48:12](https://news.ycombinator.com/item?id=44416761) - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
 * [2025-06-29, 21:06:57](https://news.ycombinator.com/item?id=44416421) - [Anticheat Update Tracking](https://not-matthias.github.io/posts/anticheat-update-tracking/)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
+* [2025-06-29, 18:29:55](https://news.ycombinator.com/item?id=44415233) - [Many ransomware strains will abort if they detect a Russian keyboard installed (2021)](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 * [2025-06-29, 16:08:53](https://news.ycombinator.com/item?id=44414171) - [We accidentally solved robotics by watching 1M hours of YouTube](https://ksagar.bearblog.dev/vjepa/)
 * [2025-06-29, 15:59:56](https://news.ycombinator.com/item?id=44414115) - [The $25k car is going extinct?](https://media.hubspot.com/why-the-25000-car-is-going-extinct)
 * [2025-06-29, 15:19:19](https://news.ycombinator.com/item?id=44413809) - [Event – Fast, In-Process Event Dispatcher](https://github.com/kelindar/event)
@@ -28,6 +27,7 @@
 * [2025-06-27, 01:03:33](https://news.ycombinator.com/item?id=44392948) - [Microsoft is moving antivirus providers out of the Windows kernel](https://www.theverge.com/news/692637/microsoft-windows-kernel-antivirus-changes)
 * [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [A glob of 99M-year-old amber trapped a zombie fungus erupting from a fly](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
 * [2025-06-26, 19:20:52](https://news.ycombinator.com/item?id=44390440) - [Ultrasound toothbrush promises painless checks for hidden gum problems](https://phys.org/news/2025-06-ultrasound-toothbrush-painless-hidden-gum.html)
+* [2025-06-26, 18:22:05](https://news.ycombinator.com/item?id=44389926) - [Building untrusted container images safely at scale](https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely)
 * [2025-06-26, 17:48:03](https://news.ycombinator.com/item?id=44389622) - [The Book of Shaders (2015)](https://thebookofshaders.com/)
 * [2025-06-26, 11:17:12](https://news.ycombinator.com/item?id=44386236) - [Revisiting Knuth's \"Premature Optimization\" Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 
