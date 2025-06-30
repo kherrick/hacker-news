@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2025-06-30, 16:27:56",
-      "https://news.ycombinator.com/item?id=44425125"
+      "2025-06-30, 16:55:20",
+      "https://news.ycombinator.com/item?id=44425461"
     ],
     [
-      "The role of the University is to resist AI",
-      "https://www.danmcquillan.org/cpct_seminar.html"
+      "I Write Type Safe Generic Data Structures in C",
+      "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 16:38:43",
+      "https://news.ycombinator.com/item?id=44425253"
+    ],
+    [
+      "A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life",
+      "https://spectrum.ieee.org/carmax-used-pcs"
     ]
   ],
   [
@@ -161,22 +171,22 @@
   ],
   [
     [
+      "2025-06-29, 20:35:17",
+      "https://news.ycombinator.com/item?id=44416221"
+    ],
+    [
+      "Asynchronous Error Handling Is Hard",
+      "https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 20:21:28",
       "https://news.ycombinator.com/item?id=44416093"
     ],
     [
       "Ask HN: What Are You Working On? (June 2025)",
       "https://news.ycombinator.com/item?id=44416093"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 15:19:19",
-      "https://news.ycombinator.com/item?id=44413809"
-    ],
-    [
-      "Event – Fast, In-Process Event Dispatcher",
-      "https://github.com/kelindar/event"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Cross-Compiling Common Lisp for Windows",
       "https://www.fosskers.ca/en/blog/cl-windows"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 23:54:29",
-      "https://news.ycombinator.com/item?id=44401350"
-    ],
-    [
-      "Jane Austen's Boldest Novel Is Also Her Least Understood",
-      "https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html"
     ]
   ],
   [
