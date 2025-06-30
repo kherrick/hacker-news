@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-06-30, 21:11:30",
+      "https://news.ycombinator.com/item?id=44427929"
+    ],
+    [
+      "Entropy of a Mixture",
+      "https://cgad.ski/blog/entropy-of-a-mixture.html"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 20:53:55",
       "https://news.ycombinator.com/item?id=44427757"
     ],
     [
       "The New Skill in AI Is Not Prompting, It's Context Engineering",
       "https://www.philschmid.de/context-engineering"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 20:24:53",
+      "https://news.ycombinator.com/item?id=44427452"
+    ],
+    [
+      "CertMate – SSL Certificate Management System",
+      "https://github.com/fabriziosalmi/certmate"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-06-30, 16:15:29",
-      "https://news.ycombinator.com/item?id=44424996"
-    ],
-    [
-      "Scribble-based forecasting and AI 2027",
-      "https://dynomight.net/scribbles/"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 15:06:14",
       "https://news.ycombinator.com/item?id=44424256"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-06-30, 03:37:21",
-      "https://news.ycombinator.com/item?id=44419091"
-    ],
-    [
-      "Gridfinity: The modular, open-source grid storage system",
-      "https://gridfinity.xyz/"
-    ]
-  ],
-  [
-    [
       "2025-06-29, 20:35:17",
       "https://news.ycombinator.com/item?id=44416221"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-06-28, 06:11:38",
+      "https://news.ycombinator.com/item?id=44402618"
+    ],
+    [
+      "Creating fair dice from random objects",
+      "https://arstechnica.com/science/2025/05/your-next-gaming-dice-could-be-shaped-like-a-dragon-or-armadillo/"
+    ]
+  ],
+  [
+    [
       "2025-06-28, 02:46:18",
       "https://news.ycombinator.com/item?id=44402010"
     ],
@@ -267,16 +277,6 @@
     [
       "Researching LED Displays for the Time Circuits",
       "https://www.partsnotincluded.com/researching-time-circuit-led-displays/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 18:34:53",
-      "https://news.ycombinator.com/item?id=44399123"
-    ],
-    [
-      "Show HN: Open-Source International Space Station Tracker ESP32/Arduino for $20",
-      "https://github.com/GuitarML/SpaceStationTracker"
     ]
   ],
   [
