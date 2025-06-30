@@ -9,6 +9,7 @@
 * [2025-06-30, 22:18:01](https://news.ycombinator.com/item?id=44428518) - [Corruption Database – DJT](https://github.com/codeddarkness/taco_pardons)
 * [2025-06-30, 22:04:53](https://news.ycombinator.com/item?id=44428399) - [Bell Labs DSP Pioneer Jim Boddie Leaves Lasting Legacy](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
 * [2025-06-30, 21:11:30](https://news.ycombinator.com/item?id=44427929) - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
+* [2025-06-30, 20:55:47](https://news.ycombinator.com/item?id=44427774) - [Brazil's Supreme Court clears way to hold social media liable for user content](https://apnews.com/article/brazil-supreme-court-social-media-ruling-324b9d79caa9f9e063da8a4993e382e1)
 * [2025-06-30, 20:53:55](https://news.ycombinator.com/item?id=44427757) - [The New Skill in AI Is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering)
 * [2025-06-30, 20:24:53](https://news.ycombinator.com/item?id=44427452) - [CertMate – SSL Certificate Management System](https://github.com/fabriziosalmi/certmate)
 * [2025-06-30, 20:06:11](https://news.ycombinator.com/item?id=44427278) - [My Database Is My Application: Rethinking Webhook Logic with DuckDB and SQL](https://www.hey.earth/posts/duckdb-webhook-gateway)
