@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-06-30, 01:53:47",
+      "https://news.ycombinator.com/item?id=44418424"
+    ],
+    [
+      "My home servers are not a homelab",
+      "https://blog.nradk.com/posts/homelab/"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 00:58:54",
+      "https://news.ycombinator.com/item?id=44418105"
+    ],
+    [
+      "The Chan-Zuckerbergs stopped funding social causes",
+      "https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 00:45:36",
+      "https://news.ycombinator.com/item?id=44418036"
+    ],
+    [
+      "Use keyword-only arguments in Python dataclasses",
+      "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 00:12:52",
+      "https://news.ycombinator.com/item?id=44417846"
+    ],
+    [
+      "Manifold: An open-source tool to run AI models for 90% less",
+      "https://github.com/Esrbwt1/manifold"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 23:51:57",
       "https://news.ycombinator.com/item?id=44417725"
     ],
@@ -37,16 +77,6 @@
     [
       "Finding a former Australian prime minister’s passport number on Instagram (2020)",
       "https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 22:22:30",
-      "https://news.ycombinator.com/item?id=44417090"
-    ],
-    [
-      "Bitcoin's Security Budget Issue: Problems, Solutions and Myths Debunked",
-      "https://budget.day/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-06-29, 15:33:57",
-      "https://news.ycombinator.com/item?id=44413921"
-    ],
-    [
-      "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
-      "https://llmapitest.com/"
-    ]
-  ],
-  [
-    [
       "2025-06-29, 15:19:19",
       "https://news.ycombinator.com/item?id=44413809"
     ],
@@ -211,36 +231,6 @@
   ],
   [
     [
-      "2025-06-29, 08:23:40",
-      "https://news.ycombinator.com/item?id=44411273"
-    ],
-    [
-      "Using the Internet without IPv4 connectivity",
-      "https://jamesmcm.github.io/blog/no-ipv4/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 07:45:56",
-      "https://news.ycombinator.com/item?id=44411069"
-    ],
-    [
-      "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
-      "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 07:07:03",
-      "https://news.ycombinator.com/item?id=44410900"
-    ],
-    [
-      "The Unsustainability of Moore's Law",
-      "https://bzolang.blog/p/the-unsustainability-of-moores-law"
-    ]
-  ],
-  [
-    [
       "2025-06-27, 05:48:22",
       "https://news.ycombinator.com/item?id=44393998"
     ],
@@ -257,6 +247,26 @@
     [
       "Raymond Laflamme (1960-2025)",
       "https://scottaaronson.blog/?p=8949"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 02:45:02",
+      "https://news.ycombinator.com/item?id=44393307"
+    ],
+    [
+      "Touching the back wall of the Apple store",
+      "https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 21:25:45",
+      "https://news.ycombinator.com/item?id=44391590"
+    ],
+    [
+      "Amber insect fossils reveal \"zombie\" fungi likely lived alongside dinosaurs",
+      "https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Revisiting Knuth's \"Premature Optimization\" Paper",
       "https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 06:22:01",
-      "https://news.ycombinator.com/item?id=44384679"
-    ],
-    [
-      "Oldest boomerang doesn't come back",
-      "https://www.bbc.co.uk/news/articles/cren818q5x1o"
     ]
   ]
 ]
