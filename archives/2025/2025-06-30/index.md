@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
 * [2025-06-30, 19:29:50](https://news.ycombinator.com/item?id=44426972) - ['Generali' sign atop insurer's skyscraper offices collapses in Milan](https://www.reuters.com/en/generali-sign-atop-insurers-skyscraper-offices-collapses-milan-2025-06-30/)
+* [2025-06-30, 19:19:52](https://news.ycombinator.com/item?id=44426864) - [The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
 * [2025-06-30, 19:03:50](https://news.ycombinator.com/item?id=44426726) - [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
 * [2025-06-30, 18:56:40](https://news.ycombinator.com/item?id=44426643) - [Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal](https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt)
 * [2025-06-30, 18:34:27](https://news.ycombinator.com/item?id=44426428) - [The JTAG in your Qualcomm/Snapdragon device's USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
