@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
 * [2025-06-30, 16:27:56](https://news.ycombinator.com/item?id=44425125) - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
+* [2025-06-30, 16:15:29](https://news.ycombinator.com/item?id=44424996) - [Scribble-based forecasting and AI 2027](https://dynomight.net/scribbles/)
 * [2025-06-30, 15:48:45](https://news.ycombinator.com/item?id=44424712) - [The Academic Pipeline Stall: Why Industry Must Stand for Academia – ACM Sigops](https://www.sigops.org/2025/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
+* [2025-06-30, 15:06:14](https://news.ycombinator.com/item?id=44424256) - [Auth for B2B SaaS: it's not like auth for consumer software](https://tesseral.com/blog/b2b-auth-isnt-that-similar-to-b2c-auth)
 * [2025-06-30, 15:01:12](https://news.ycombinator.com/item?id=44424194) - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
+* [2025-06-30, 14:43:46](https://news.ycombinator.com/item?id=44423983) - [There Are No New Ideas in AI Only New Datasets](https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only)
 * [2025-06-30, 14:42:43](https://news.ycombinator.com/item?id=44423965) - [Ubuntu: Introducing Debcrafters](https://discourse.ubuntu.com/t/introducing-debcrafters/63674)
 * [2025-06-30, 14:30:42](https://news.ycombinator.com/item?id=44423812) - [How urea forms spontaneously](https://ethz.ch/en/news-and-events/eth-news/news/2025/06/how-urea-forms-spontaneously.html)
 * [2025-06-30, 13:52:50](https://news.ycombinator.com/item?id=44423285) - [Congress might block state AI laws for a decade](https://techcrunch.com/2025/06/27/congress-might-block-state-ai-laws-for-a-decade-heres-what-it-means/)
