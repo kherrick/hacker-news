@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-30, 22:23:43",
-      "https://news.ycombinator.com/item?id=44428569"
+      "2025-06-30, 22:18:01",
+      "https://news.ycombinator.com/item?id=44428518"
     ],
     [
-      "I got an ambulance ride, CT scan and ER care in Brazil. My bill: $0",
-      "https://www.washingtonpost.com/world/2025/06/29/brazil-health-care-sus-hospitals/"
+      "Corruption Database – DJT",
+      "https://github.com/codeddarkness/taco_pardons"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 22:04:53",
+      "https://news.ycombinator.com/item?id=44428399"
+    ],
+    [
+      "Bell Labs DSP Pioneer Jim Boddie Leaves Lasting Legacy",
+      "https://spectrum.ieee.org/dsp-pioneer-jim-boddie"
     ]
   ],
   [
@@ -37,6 +47,26 @@
     [
       "CertMate – SSL Certificate Management System",
       "https://github.com/fabriziosalmi/certmate"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 20:06:11",
+      "https://news.ycombinator.com/item?id=44427278"
+    ],
+    [
+      "My Database Is My Application: Rethinking Webhook Logic with DuckDB and SQL",
+      "https://www.hey.earth/posts/duckdb-webhook-gateway"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 19:54:11",
+      "https://news.ycombinator.com/item?id=44427147"
+    ],
+    [
+      "Price of rice in Japan falls below ¥4k per 5 kilograms",
+      "https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/"
     ]
   ],
   [
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2025-06-30, 12:19:45",
-      "https://news.ycombinator.com/item?id=44422356"
-    ],
-    [
-      "Reverse Engineering Vercel's BotID",
-      "https://www.nullpt.rs/reversing-botid"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 11:30:23",
-      "https://news.ycombinator.com/item?id=44421978"
-    ],
-    [
-      "Printegrated Circuits: Merging 3D Printing and Electronics",
-      "https://spectrum.ieee.org/3d-printing-smart-objects"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 11:02:55",
       "https://news.ycombinator.com/item?id=44421776"
     ],
@@ -287,16 +297,6 @@
     [
       "The Plot of the Phantom, a text adventure that took 40 years to finish",
       "https://scottandrew.com/blog/2025/06/you-can-now-play-plot-of-the-phantom-the-text-adventure-game/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 13:59:28",
-      "https://news.ycombinator.com/item?id=44396867"
-    ],
-    [
-      "New proof dramatically compresses space needed for computation",
-      "https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/"
     ]
   ]
 ]
