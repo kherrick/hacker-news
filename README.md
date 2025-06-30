@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-30, 06:13:10](https://news.ycombinator.com/item?id=44419986) - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
 * [2025-06-30, 05:29:10](https://news.ycombinator.com/item?id=44419753) - [That Dropped Call with Customer Service? It Was on Purpose](https://www.theatlantic.com/ideas/archive/2025/06/customer-service-sludge/683340/)
 * [2025-06-30, 04:49:39](https://news.ycombinator.com/item?id=44419496) - [LetsEncrypt – Expiration Notification Service Has Ended](https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/)
 * [2025-06-30, 04:38:49](https://news.ycombinator.com/item?id=44419446) - [Bought an Ampere Altra System](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
@@ -8,7 +9,6 @@
 * [2025-06-30, 02:35:23](https://news.ycombinator.com/item?id=44418692) - [LLM's Illusion of Alignment](https://www.systemicmisalignment.com/)
 * [2025-06-30, 02:09:30](https://news.ycombinator.com/item?id=44418520) - [Continuous Glucose Monitoring](https://www.imperialviolet.org/2025/06/29/cgm.html)
 * [2025-06-30, 00:45:36](https://news.ycombinator.com/item?id=44418036) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
-* [2025-06-29, 23:51:57](https://news.ycombinator.com/item?id=44417725) - [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
 * [2025-06-29, 23:23:09](https://news.ycombinator.com/item?id=44417549) - [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
 * [2025-06-29, 22:43:08](https://news.ycombinator.com/item?id=44417276) - [ICE test train reaches speeds of up to 405.0 km/h](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/ICE-Testzug-faehrt-bis-zu-405-0-km-h-und-sammelt-wichtige-Erkenntnisse-fuer-den-Hochgeschwindigkeitsverkehr-13428394)
 * [2025-06-29, 22:22:32](https://news.ycombinator.com/item?id=44417091) - [Finding a former Australian prime minister’s passport number on Instagram (2020)](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
@@ -23,7 +23,7 @@
 * [2025-06-29, 14:45:10](https://news.ycombinator.com/item?id=44413574) - [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
 * [2025-06-29, 13:55:18](https://news.ycombinator.com/item?id=44413185) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 * [2025-06-27, 23:54:29](https://news.ycombinator.com/item?id=44401350) - [Jane Austen's Boldest Novel Is Also Her Least Understood](https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html)
-* [2025-06-27, 05:48:22](https://news.ycombinator.com/item?id=44393998) - [Modelling API rate limits as diophantine inequalities](https://vivekn.dev/blog/rate-limit-diophantine)
+* [2025-06-27, 15:28:14](https://news.ycombinator.com/item?id=44397546) - [To the Postbox](https://literaryreview.co.uk/to-the-postbox)
 * [2025-06-27, 02:45:02](https://news.ycombinator.com/item?id=44393307) - [Touching the back wall of the Apple store](https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/)
 * [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [Amber insect fossils reveal \"zombie\" fungi likely lived alongside dinosaurs](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
 * [2025-06-26, 19:20:52](https://news.ycombinator.com/item?id=44390440) - [Ultrasound toothbrush promises painless checks for hidden gum problems](https://phys.org/news/2025-06-ultrasound-toothbrush-painless-hidden-gum.html)

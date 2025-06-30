@@ -30,6 +30,7 @@
 * [2025-06-27, 16:09:14](https://news.ycombinator.com/item?id=44397923) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
 * [2025-06-27, 15:57:45](https://news.ycombinator.com/item?id=44397809) - [Most ints are not floats](https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/)
 * [2025-06-27, 15:55:59](https://news.ycombinator.com/item?id=44397799) - [US Supreme Court Upholds Texas Porn ID Law](https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/)
+* [2025-06-27, 15:28:14](https://news.ycombinator.com/item?id=44397546) - [To the Postbox](https://literaryreview.co.uk/to-the-postbox)
 * [2025-06-27, 15:08:26](https://news.ycombinator.com/item?id=44397367) - [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-27, 14:42:04](https://news.ycombinator.com/item?id=44397168) - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
 * [2025-06-27, 14:35:04](https://news.ycombinator.com/item?id=44397124) - [Qwen VLo: From \"Understanding\" the World to \"Depicting\" It](https://qwenlm.github.io/blog/qwen-vlo/)
