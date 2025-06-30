@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-06-30, 11:03:39",
+      "https://news.ycombinator.com/item?id=44421784"
+    ],
+    [
+      "A rare asteroid flyby will happen soon, but NASA may be left on the sidelines",
+      "https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 11:02:56",
+      "https://news.ycombinator.com/item?id=44421778"
+    ],
+    [
+      "Huawei Patents 3,000km Solid-State Battery with 5-Minute Charge",
+      "https://carnewschina.com/2025/06/18/huaweis-3000km-solid-state-battery-patent-with-5-minute-charge-ignites-industry-race/"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 10:52:31",
+      "https://news.ycombinator.com/item?id=44421694"
+    ],
+    [
+      "OpenTyrian2000 – multi platform SDL3 version of Tyrian 2000 released",
+      "https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 09:25:14",
+      "https://news.ycombinator.com/item?id=44421185"
+    ],
+    [
+      "The provenance memory model for C",
+      "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 08:47:54",
       "https://news.ycombinator.com/item?id=44420943"
     ],
@@ -61,42 +101,12 @@
   ],
   [
     [
-      "2025-06-30, 02:35:23",
-      "https://news.ycombinator.com/item?id=44418692"
-    ],
-    [
-      "LLM's Illusion of Alignment",
-      "https://www.systemicmisalignment.com/"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 00:45:36",
       "https://news.ycombinator.com/item?id=44418036"
     ],
     [
       "Use keyword-only arguments in Python dataclasses",
       "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 23:23:09",
-      "https://news.ycombinator.com/item?id=44417549"
-    ],
-    [
-      "Nearly 20% of cancer drugs defective in four African nations",
-      "https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 22:22:32",
-      "https://news.ycombinator.com/item?id=44417091"
-    ],
-    [
-      "Finding a former Australian prime minister’s passport number on Instagram (2020)",
-      "https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-06-29, 18:29:55",
-      "https://news.ycombinator.com/item?id=44415233"
-    ],
-    [
-      "Many ransomware strains will abort if they detect a Russian keyboard installed (2021)",
-      "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/"
-    ]
-  ],
-  [
-    [
       "2025-06-29, 16:08:53",
       "https://news.ycombinator.com/item?id=44414171"
     ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-06-29, 14:45:10",
-      "https://news.ycombinator.com/item?id=44413574"
-    ],
-    [
-      "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
-      "https://interlisp.org/documentation/young-ccece2025.pdf"
-    ]
-  ],
-  [
-    [
       "2025-06-29, 13:55:18",
       "https://news.ycombinator.com/item?id=44413185"
     ],
@@ -207,6 +197,16 @@
     [
       "Jane Austen's Boldest Novel Is Also Her Least Understood",
       "https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 15:28:14",
+      "https://news.ycombinator.com/item?id=44397546"
+    ],
+    [
+      "To the Postbox",
+      "https://literaryreview.co.uk/to-the-postbox"
     ]
   ],
   [
