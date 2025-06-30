@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-30, 01:53:47](https://news.ycombinator.com/item?id=44418424) - [My home servers are not a homelab](https://blog.nradk.com/posts/homelab/)
+* [2025-06-30, 01:17:54](https://news.ycombinator.com/item?id=44418222) - [Ask HN: Is the header CSS broken for you?](https://news.ycombinator.com/item?id=44418222)
 * [2025-06-30, 00:58:54](https://news.ycombinator.com/item?id=44418105) - [The Chan-Zuckerbergs stopped funding social causes](https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/)
 * [2025-06-30, 00:45:36](https://news.ycombinator.com/item?id=44418036) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
-* [2025-06-30, 00:12:52](https://news.ycombinator.com/item?id=44417846) - [Manifold: An open-source tool to run AI models for 90% less](https://github.com/Esrbwt1/manifold)
 * [2025-06-29, 23:51:57](https://news.ycombinator.com/item?id=44417725) - [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
 * [2025-06-29, 23:23:09](https://news.ycombinator.com/item?id=44417549) - [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
 * [2025-06-29, 23:03:07](https://news.ycombinator.com/item?id=44417417) - [Commodore acquired for a 'low seven figure' price – CEO from retro community](https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community)
