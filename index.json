@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-06-30, 11:38:54",
+      "https://news.ycombinator.com/item?id=44422040"
+    ],
+    [
+      "Entry-level jobs down by a third since launch of ChatGPT",
+      "https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 11:07:57",
+      "https://news.ycombinator.com/item?id=44421804"
+    ],
+    [
+      "What Happens After A.I. Destroys College Writing?",
+      "https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 11:02:55",
       "https://news.ycombinator.com/item?id=44421776"
     ],
@@ -27,6 +47,16 @@
     [
       "Positive link between cannabis use and 'Major Adverse Cardiovascular Events'",
       "https://heart.bmj.com/content/early/2025/06/10/heartjnl-2024-325429"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 09:35:35",
+      "https://news.ycombinator.com/item?id=44421254"
+    ],
+    [
+      "If AI Lets Us Do More in Less Time–Why Not Shorten the Workweek?",
+      "https://sfg.media/en/a/if-ai-lets-us-do-more-in-less-time/"
     ]
   ],
   [
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2025-06-30, 04:49:39",
-      "https://news.ycombinator.com/item?id=44419496"
-    ],
-    [
-      "LetsEncrypt – Expiration Notification Service Has Ended",
-      "https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 03:37:21",
       "https://news.ycombinator.com/item?id=44419091"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44418840"
     ],
     [
-      "NativeJIT: A C++ expression –> x64 JIT",
+      "NativeJIT: A C++ expression –> x64 JIT (2018)",
       "https://github.com/BitFunnel/NativeJIT"
     ]
   ],
@@ -87,16 +107,6 @@
     [
       "Use keyword-only arguments in Python dataclasses",
       "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 23:23:09",
-      "https://news.ycombinator.com/item?id=44417549"
-    ],
-    [
-      "Nearly 20% of cancer drugs defective in four African nations",
-      "https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2025-06-27, 15:19:57",
+      "https://news.ycombinator.com/item?id=44397482"
+    ],
+    [
+      "So you want to serialize some DER?",
+      "https://alexgaynor.net/2025/jun/20/serialize-some-der/"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 13:59:28",
       "https://news.ycombinator.com/item?id=44396867"
     ],
@@ -227,16 +247,6 @@
     [
       "Does Form Shape Function?",
       "https://www.quantamagazine.org/does-form-really-shape-function-20250612/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 02:45:02",
-      "https://news.ycombinator.com/item?id=44393307"
-    ],
-    [
-      "Touching the back wall of the Apple store",
-      "https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/"
     ]
   ],
   [
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2025-06-26, 17:48:03",
-      "https://news.ycombinator.com/item?id=44389622"
-    ],
-    [
-      "The Book of Shaders (2015)",
-      "https://thebookofshaders.com/"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 11:17:12",
       "https://news.ycombinator.com/item?id=44386236"
     ],
     [
-      "Revisiting Knuth's \"Premature Optimization\" Paper",
+      "Revisiting Knuth's “Premature Optimization” Paper",
       "https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/"
     ]
   ]
