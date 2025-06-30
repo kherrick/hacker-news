@@ -43,6 +43,7 @@
 * [2025-06-27, 12:39:53](https://news.ycombinator.com/item?id=44396342) - [The Power and Beauty of Incrementalism](https://supernuclear.substack.com/p/the-power-and-beauty-of-incrementalism)
 * [2025-06-27, 12:33:25](https://news.ycombinator.com/item?id=44396303) - [Show HN: A Python Language Server, Mypy-compatible](https://zubanls.com/)
 * [2025-06-27, 12:33:03](https://news.ycombinator.com/item?id=44396299) - [Creating a pan-European legal entity, the right way](https://klinger.io/posts/eu-inc)
+* [2025-06-27, 11:51:22](https://news.ycombinator.com/item?id=44396034) - [Does Form Shape Function?](https://www.quantamagazine.org/does-form-really-shape-function-20250612/)
 * [2025-06-27, 11:10:54](https://news.ycombinator.com/item?id=44395810) - [Show HN: PILF, The ultimate solution to catastrophic oblivion on AI models](https://github.com/dmf-archive/PILF)
 * [2025-06-27, 11:09:42](https://news.ycombinator.com/item?id=44395799) - [My Lights Run on Bash – Tomasz Kramkowski](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
 * [2025-06-27, 11:06:43](https://news.ycombinator.com/item?id=44395782) - [Copilot Chat in VS Code is now open source](https://github.com/microsoft/vscode-copilot-chat)
