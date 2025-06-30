@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-30, 05:29:10](https://news.ycombinator.com/item?id=44419753) - [That Dropped Call with Customer Service? It Was on Purpose](https://www.theatlantic.com/ideas/archive/2025/06/customer-service-sludge/683340/)
+* [2025-06-30, 04:49:39](https://news.ycombinator.com/item?id=44419496) - [LetsEncrypt – Expiration Notification Service Has Ended](https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/)
 * [2025-06-30, 04:38:49](https://news.ycombinator.com/item?id=44419446) - [Bought an Ampere Altra System](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
 * [2025-06-30, 03:37:21](https://news.ycombinator.com/item?id=44419091) - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
 * [2025-06-30, 02:59:52](https://news.ycombinator.com/item?id=44418840) - [NativeJIT: A C++ expression –> x64 JIT](https://github.com/BitFunnel/NativeJIT)
@@ -12,7 +13,6 @@
 * [2025-06-29, 22:43:08](https://news.ycombinator.com/item?id=44417276) - [ICE test train reaches speeds of up to 405.0 km/h](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/ICE-Testzug-faehrt-bis-zu-405-0-km-h-und-sammelt-wichtige-Erkenntnisse-fuer-den-Hochgeschwindigkeitsverkehr-13428394)
 * [2025-06-29, 22:22:32](https://news.ycombinator.com/item?id=44417091) - [Finding a former Australian prime minister’s passport number on Instagram (2020)](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
 * [2025-06-29, 21:48:12](https://news.ycombinator.com/item?id=44416761) - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
-* [2025-06-29, 21:30:02](https://news.ycombinator.com/item?id=44416589) - [Reverse Engineering the Microchip CLB](http://mcp-clb.markomo.me/)
 * [2025-06-29, 21:06:57](https://news.ycombinator.com/item?id=44416421) - [Anticheat Update Tracking](https://not-matthias.github.io/posts/anticheat-update-tracking/)
 * [2025-06-29, 20:28:25](https://news.ycombinator.com/item?id=44416157) - [Error handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
