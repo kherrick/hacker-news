@@ -26,6 +26,7 @@
 * [2025-06-26, 18:43:37](https://news.ycombinator.com/item?id=44390113) - [SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones)
 * [2025-06-26, 18:38:47](https://news.ycombinator.com/item?id=44390072) - [Lateralized sleeping positions in domestic cats](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue)
 * [2025-06-26, 18:30:56](https://news.ycombinator.com/item?id=44390005) - [Show HN: Magnitude – open-source AI browser automation framework](https://github.com/magnitudedev/magnitude)
+* [2025-06-26, 18:22:05](https://news.ycombinator.com/item?id=44389926) - [Building untrusted container images safely at scale](https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely)
 * [2025-06-26, 18:11:30](https://news.ycombinator.com/item?id=44389816) - [E.A. Spitzka's Studies of Exceptional and Deviant Brains (2024)](https://www.huntington.org/verso/ea-spitzkas-studies-exceptional-and-deviant-brains)
 * [2025-06-26, 17:48:03](https://news.ycombinator.com/item?id=44389622) - [The Book of Shaders](https://thebookofshaders.com/)
 * [2025-06-26, 17:36:04](https://news.ycombinator.com/item?id=44389497) - [Shifts in diatom and dinoflagellate biomass in the North Atlantic over 6 decades](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323675)
