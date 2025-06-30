@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-30, 06:13:10](https://news.ycombinator.com/item?id=44419986) - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
-* [2025-06-30, 05:29:10](https://news.ycombinator.com/item?id=44419753) - [That Dropped Call with Customer Service? It Was on Purpose](https://www.theatlantic.com/ideas/archive/2025/06/customer-service-sludge/683340/)
 * [2025-06-30, 04:49:39](https://news.ycombinator.com/item?id=44419496) - [LetsEncrypt – Expiration Notification Service Has Ended](https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/)
 * [2025-06-30, 04:38:49](https://news.ycombinator.com/item?id=44419446) - [Bought an Ampere Altra System](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
 * [2025-06-30, 03:37:21](https://news.ycombinator.com/item?id=44419091) - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
@@ -22,6 +21,7 @@
 * [2025-06-29, 15:19:19](https://news.ycombinator.com/item?id=44413809) - [4-10x faster in-process pub/sub for Go](https://github.com/kelindar/event)
 * [2025-06-29, 14:45:10](https://news.ycombinator.com/item?id=44413574) - [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
 * [2025-06-29, 13:55:18](https://news.ycombinator.com/item?id=44413185) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
+* [2025-06-27, 23:55:22](https://news.ycombinator.com/item?id=44401358) - [Cross-Compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
 * [2025-06-27, 23:54:29](https://news.ycombinator.com/item?id=44401350) - [Jane Austen's Boldest Novel Is Also Her Least Understood](https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html)
 * [2025-06-27, 15:28:14](https://news.ycombinator.com/item?id=44397546) - [To the Postbox](https://literaryreview.co.uk/to-the-postbox)
 * [2025-06-27, 02:45:02](https://news.ycombinator.com/item?id=44393307) - [Touching the back wall of the Apple store](https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/)
