@@ -36,6 +36,7 @@
 * [2025-06-27, 14:42:04](https://news.ycombinator.com/item?id=44397168) - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
 * [2025-06-27, 14:35:04](https://news.ycombinator.com/item?id=44397124) - [Qwen VLo: From \"Understanding\" the World to \"Depicting\" It](https://qwenlm.github.io/blog/qwen-vlo/)
 * [2025-06-27, 14:16:58](https://news.ycombinator.com/item?id=44396977) - [The Monster Inside ChatGPT](https://www.wsj.com/opinion/the-monster-inside-chatgpt-safety-training-ai-alignment-796ac9d3)
+* [2025-06-27, 13:59:28](https://news.ycombinator.com/item?id=44396867) - [New Proof Dramatically Compresses Space Needed for Computation](https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/)
 * [2025-06-27, 13:06:54](https://news.ycombinator.com/item?id=44396518) - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 * [2025-06-27, 13:03:10](https://news.ycombinator.com/item?id=44396487) - [The Effect of Noise on Sleep](https://www.empirical.health/blog/effect-of-noise-on-sleep/)
 * [2025-06-27, 12:54:59](https://news.ycombinator.com/item?id=44396436) - [Web Numbers](https://ar.al/2025/06/25/web-numbers/)
