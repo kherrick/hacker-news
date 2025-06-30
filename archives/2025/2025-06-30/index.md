@@ -8,6 +8,7 @@
 * [2025-06-30, 04:38:49](https://news.ycombinator.com/item?id=44419446) - [Bought an Ampere Altra System](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
 * [2025-06-30, 03:37:21](https://news.ycombinator.com/item?id=44419091) - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
 * [2025-06-30, 02:59:52](https://news.ycombinator.com/item?id=44418840) - [NativeJIT: A C++ expression –> x64 JIT](https://github.com/BitFunnel/NativeJIT)
+* [2025-06-30, 02:35:23](https://news.ycombinator.com/item?id=44418692) - [LLM's Illusion of Alignment](https://www.systemicmisalignment.com/)
 * [2025-06-30, 02:09:30](https://news.ycombinator.com/item?id=44418520) - [Continuous Glucose Monitoring](https://www.imperialviolet.org/2025/06/29/cgm.html)
 * [2025-06-30, 01:53:47](https://news.ycombinator.com/item?id=44418424) - [My home servers are not a homelab](https://blog.nradk.com/posts/homelab/)
 * [2025-06-30, 01:17:54](https://news.ycombinator.com/item?id=44418222) - [Ask HN: Is the header CSS broken for you?](https://news.ycombinator.com/item?id=44418222)
