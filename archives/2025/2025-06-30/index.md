@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 21:11:30](https://news.ycombinator.com/item?id=44427929) - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
 * [2025-06-30, 20:53:55](https://news.ycombinator.com/item?id=44427757) - [The New Skill in AI Is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering)
+* [2025-06-30, 20:24:53](https://news.ycombinator.com/item?id=44427452) - [CertMate – SSL Certificate Management System](https://github.com/fabriziosalmi/certmate)
 * [2025-06-30, 19:29:50](https://news.ycombinator.com/item?id=44426972) - ['Generali' sign atop insurer's skyscraper offices collapses in Milan](https://www.reuters.com/en/generali-sign-atop-insurers-skyscraper-offices-collapses-milan-2025-06-30/)
 * [2025-06-30, 19:19:52](https://news.ycombinator.com/item?id=44426864) - [The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
 * [2025-06-30, 19:17:11](https://news.ycombinator.com/item?id=44426845) - [End of an Era](https://www.erasmatazz.com/personal/self/end-of-an-era.html)
