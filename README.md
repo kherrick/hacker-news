@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-06-30, 18:34:27](https://news.ycombinator.com/item?id=44426428) - [The JTAG in your Qualcomm/Snapdragon device's USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
-* [2025-06-30, 18:31:09](https://news.ycombinator.com/item?id=44426399) - [Datadog's $65M/year customer mystery solved](https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/)
 * [2025-06-30, 18:28:12](https://news.ycombinator.com/item?id=44426374) - [OpenTelemetry Is Great, but Who the Hell Is Going to Pay for It?](https://www.adatosystems.com/2025/02/10/who-the-hell-is-going-to-pay-for-this/)
 * [2025-06-30, 18:10:50](https://news.ycombinator.com/item?id=44426233) - [Ask HN: What's the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
 * [2025-06-30, 18:03:26](https://news.ycombinator.com/item?id=44426171) - [They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder](https://kevinboone.me/dtc-700.html)
@@ -14,7 +13,6 @@
 * [2025-06-30, 15:01:12](https://news.ycombinator.com/item?id=44424194) - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
 * [2025-06-30, 14:43:46](https://news.ycombinator.com/item?id=44423983) - [There Are No New Ideas in AI Only New Datasets](https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only)
 * [2025-06-30, 13:51:17](https://news.ycombinator.com/item?id=44423263) - [Cloud-forming isoprene & terpenes from crops may drastically improve climate](https://www.smithsonianmag.com/science-nature/scientists-are-just-beginning-to-understand-how-life-makes-clouds-and-their-discoveries-may-drastically-improve-climate-science-180986872/)
-* [2025-06-30, 13:08:24](https://news.ycombinator.com/item?id=44422836) - [Helix: A Modern, High-Performance Language](https://github.com/helixlang/helix-lang)
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
 * [2025-06-30, 12:19:45](https://news.ycombinator.com/item?id=44422356) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 * [2025-06-30, 11:30:23](https://news.ycombinator.com/item?id=44421978) - [Printegrated Circuits: Merging 3D Printing and Electronics](https://spectrum.ieee.org/3d-printing-smart-objects)
@@ -24,12 +22,14 @@
 * [2025-06-29, 20:35:17](https://news.ycombinator.com/item?id=44416221) - [Asynchronous Error Handling Is Hard](https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
 * [2025-06-29, 13:55:18](https://news.ycombinator.com/item?id=44413185) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
+* [2025-06-28, 02:46:18](https://news.ycombinator.com/item?id=44402010) - [Ask HN: 80s electronics book club; anyone remember this illustrator?](https://news.ycombinator.com/item?id=44402010)
 * [2025-06-27, 22:00:49](https://news.ycombinator.com/item?id=44400646) - [Shadow of a Doubt](https://harpers.org/archive/2025/07/shadow-of-a-doubt-ocd-andrew-kay/)
 * [2025-06-27, 20:02:15](https://news.ycombinator.com/item?id=44399792) - [Researching LED Displays for the Time Circuits](https://www.partsnotincluded.com/researching-time-circuit-led-displays/)
 * [2025-06-27, 18:34:53](https://news.ycombinator.com/item?id=44399123) - [Show HN: Open-Source International Space Station Tracker ESP32/Arduino for $20](https://github.com/GuitarML/SpaceStationTracker)
 * [2025-06-27, 17:50:44](https://news.ycombinator.com/item?id=44398809) - [The Plot of the Phantom, a text adventure that took 40 years to finish](https://scottandrew.com/blog/2025/06/you-can-now-play-plot-of-the-phantom-the-text-adventure-game/)
 * [2025-06-27, 17:42:10](https://news.ycombinator.com/item?id=44398743) - [Data Centers, Temperature, and Power](https://www.backblaze.com/blog/data-centers-temperature-and-power/)
 * [2025-06-27, 13:59:28](https://news.ycombinator.com/item?id=44396867) - [New proof dramatically compresses space needed for computation](https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/)
+* [2025-06-26, 21:25:45](https://news.ycombinator.com/item?id=44391590) - [A glob of 99M-year-old amber trapped a zombie fungus erupting from a fly](https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil)
 
 ## [Archives](archives/index.md)
 
