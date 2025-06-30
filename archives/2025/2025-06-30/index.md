@@ -7,6 +7,8 @@
 * [2025-06-30, 18:28:12](https://news.ycombinator.com/item?id=44426374) - [OpenTelemetry Is Great, but Who the Hell Is Going to Pay for It?](https://www.adatosystems.com/2025/02/10/who-the-hell-is-going-to-pay-for-this/)
 * [2025-06-30, 18:10:50](https://news.ycombinator.com/item?id=44426233) - [Ask HN: What's the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
 * [2025-06-30, 18:03:26](https://news.ycombinator.com/item?id=44426171) - [They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder](https://kevinboone.me/dtc-700.html)
+* [2025-06-30, 18:00:40](https://news.ycombinator.com/item?id=44426144) - [Why We Should Care About This War over the Future of Money](https://gizmodo.com/why-you-should-care-about-this-war-over-the-future-of-money-2000622009)
+* [2025-06-30, 17:58:38](https://news.ycombinator.com/item?id=44426128) - [Proton joins suit against Apple for predatory practices](https://proton.me/blog/apple-lawsuit)
 * [2025-06-30, 17:58:17](https://news.ycombinator.com/item?id=44426124) - [Operation Gold Rush, largest health care fraud bust in U.S. history](https://www.washingtonpost.com/health/2025/06/30/health-care-fraud-bust-largest-in-us-history/)
 * [2025-06-30, 17:47:25](https://news.ycombinator.com/item?id=44426027) - [Therapy dogs: stop crafting loopholes to fair, reasonable laws](https://dirtamericana.com/2025/04/therapy-dogs-business-interior-violations/)
 * [2025-06-30, 17:22:12](https://news.ycombinator.com/item?id=44425771) - [Why are lefties more creative? Turns out, they're not](https://phys.org/news/2025-06-lefties-creative-theyre.html)
