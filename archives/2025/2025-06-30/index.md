@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 15:01:12](https://news.ycombinator.com/item?id=44424194) - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
 * [2025-06-30, 14:30:42](https://news.ycombinator.com/item?id=44423812) - [How urea forms spontaneously](https://ethz.ch/en/news-and-events/eth-news/news/2025/06/how-urea-forms-spontaneously.html)
 * [2025-06-30, 13:52:50](https://news.ycombinator.com/item?id=44423285) - [Congress might block state AI laws for a decade](https://techcrunch.com/2025/06/27/congress-might-block-state-ai-laws-for-a-decade-heres-what-it-means/)
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
+* [2025-06-30, 12:19:45](https://news.ycombinator.com/item?id=44422356) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 * [2025-06-30, 11:38:54](https://news.ycombinator.com/item?id=44422040) - [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)
 * [2025-06-30, 11:30:23](https://news.ycombinator.com/item?id=44421978) - [Printegrated Circuits: Merging 3D Printing and Electronics](https://spectrum.ieee.org/3d-printing-smart-objects)
 * [2025-06-30, 11:07:57](https://news.ycombinator.com/item?id=44421804) - [What Happens After A.I. Destroys College Writing?](https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper)
