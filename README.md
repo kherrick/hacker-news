@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-06-30, 15:48:45](https://news.ycombinator.com/item?id=44424712) - [The Academic Pipeline Stall: Why Industry Must Stand for Academia – ACM Sigops](https://www.sigops.org/2025/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
 * [2025-06-30, 15:01:12](https://news.ycombinator.com/item?id=44424194) - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
 * [2025-06-30, 14:42:43](https://news.ycombinator.com/item?id=44423965) - [Ubuntu: Introducing Debcrafters](https://discourse.ubuntu.com/t/introducing-debcrafters/63674)
 * [2025-06-30, 14:30:42](https://news.ycombinator.com/item?id=44423812) - [How urea forms spontaneously](https://ethz.ch/en/news-and-events/eth-news/news/2025/06/how-urea-forms-spontaneously.html)
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
 * [2025-06-30, 12:19:45](https://news.ycombinator.com/item?id=44422356) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
-* [2025-06-30, 11:38:54](https://news.ycombinator.com/item?id=44422040) - [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)
 * [2025-06-30, 11:30:23](https://news.ycombinator.com/item?id=44421978) - [Printegrated Circuits: Merging 3D Printing and Electronics](https://spectrum.ieee.org/3d-printing-smart-objects)
 * [2025-06-30, 11:02:55](https://news.ycombinator.com/item?id=44421776) - [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
 * [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
