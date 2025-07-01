@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-01, 15:41:38](https://news.ycombinator.com/item?id=44435038) - [LibreOffice takes aim at Microsoft Office with free guides to help users switch](https://www.neowin.net/news/libreoffice-takes-aim-at-microsoft-office-with-free-guides-to-help-users-switch/)
-* [2025-07-01, 15:41:30](https://news.ycombinator.com/item?id=44435037) - [TikTok moderators in Turkey fight trauma, burnout, union-busting](https://restofworld.org/2025/tiktok-moderators-turkey/)
+* [2025-07-01, 15:35:50](https://news.ycombinator.com/item?id=44434970) - [Drug cartel hacked FBI official's phone to track and kill informants](https://arstechnica.com/security/2025/06/mexican-drug-cartel-hacked-fbi-officials-phone-to-track-informant-report-says/)
+* [2025-07-01, 15:31:45](https://news.ycombinator.com/item?id=44434938) - [HN Slop: AI Startup Ideas from Hacker News](https://www.josh.ing/hn-slop)
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434576) - [Ask HN: Who is hiring? (July 2025)](https://news.ycombinator.com/item?id=44434576)
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434575) - [Ask HN: Freelancer? Seeking freelancer? (July 2025)](https://news.ycombinator.com/item?id=44434575)
 * [2025-07-01, 14:08:11](https://news.ycombinator.com/item?id=44434062) - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
