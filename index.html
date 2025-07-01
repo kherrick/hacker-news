@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44432444">
+          <h3>
+            <a
+              class="item"
+              href="https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html"
+              >The average chess players of Bletchley Park and AI research in
+              Britain</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-01 @ 10:31:12</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44432444"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44432385">
           <h3>
             <a
@@ -141,11 +163,142 @@
             <h4>
               <span>2025-07-01 @ 10:20:27</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44432385"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 101</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44432322">
+          <h3>
+            <a class="item" href="https://github.com/topling/toplingdb"
+              >Show HN: ToplingDB - A Persistent Key-Value Store for External
+              Storage</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-01 @ 10:07:59</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44432322"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                ToplingDB is forked from RocksDB, where we have replaced almost
+                all components with more efficient alternatives(db_bench shows
+                ToplingDB is about ~8x faster than RocksDB):
+              </p>
+              <p>
+                * MemTable: SkipList is replaced by CSPP(Crash Safe Parallel
+                Patricia trie), which is 8x faster.
+              </p>
+              <p>
+                * SST: BlockBasedTable is replaced by ToplingZipTable,
+                implemented by searchable compression algo, it is very small and
+                fast, typically less than 1μs per lookup:
+              </p>
+              <p></p>
+              <pre><code>  * Keys/Indexes are compressed   using NestLoudsTrie(a multi-layer nesting LOUDS succinct trie).
+
+  * Values in a SST are compressed   together with better zip ratio than zstd, and can unzip by a single value at 1GB/sec.
+
+  * BlockCache is no longer needed, double caching(BlockCache &amp; PageCache) is avoided
+</code></pre>
+              Other hotspots are also improved:
+              <p>
+                * Flush MemTable to L0 is omited, greatly reducing write amp and
+                is very friendly for large(GB) MemTable
+              </p>
+              <p></p>
+              <pre><code>  * MemTable   serves as the index of Key to "value position in WAL log"
+
+  * Since WAL file content almost always in page cache, thus value content can be efficiently accessed by mmap
+
+  * When Flush happens, MemTable is dumpped as an SST and WAL is treated as a blob file
+
+    * CSPP MemTable use integer index instead of physical pointers, thus in-memory format is exactly same with in-file format
+</code></pre>
+              * Prefix cache for searching candidate SSTs and prefix cache for
+              scanning by iterators
+              <p></p>
+              <pre><code>  * Caching fixed len key prefix into an array, binary search it as an uint array
+</code></pre>
+              * Distributed compaction(superior replacement to rocksdb remote
+              compaction)
+              <p></p>
+              <pre><code>  * Gracefully support MergeOperator, CompactionFilter, PropertiesCollector...
+
+  * Out of the box, development efforts are significantly reduced
+
+  * Very easy to share compaction service on spot instances for many DB nodes
+</code></pre>
+              Useful Bonus Feature:
+              <p>* Config by json/yaml: can config almost all features</p>
+              <p>
+                * Optional embeded WebView: show db structures in web browser,
+                refreshing pages like animation
+              </p>
+              <p>* Online update db configs by http</p>
+              <p>
+                MySQL integration, ToplingDB has integrated into MySQL by
+                MyTopling, which is forked from MyRocks with great improvements,
+                like improvements of ToplingDB on RocksDB:
+              </p>
+              <p>
+                * WBWI(WriteBatchWithIndex): like MemTable, SkipList is replace
+                with CSPP, 20x faster(speedup is more than MemTable).
+              </p>
+              <p>* LockManager &amp; LockTracker: 10x faster</p>
+              <p>* Encoding &amp; Decoding: 5x faster</p>
+              <p>* Others ....</p>
+              <p>
+                MyRocks has many disadvantages compared to InnoDB, while
+                MyTopling outperforms InnoDB at almost all aspect - excluding
+                feature differences.
+              </p>
+              <p>
+                We have create ~100 PRs for RocksDB, in which ~40 were accepted.
+                Our PRs are mostly "small" changes, since big changes are not
+                likely accepted.
+              </p>
+              <p>
+                ToplingDB has been deployed in numerous production environments.
+              </p>
+              <p>
+                Welcome every one using ToplingDB &amp; MyTopling, and discuss
+                in
+                <a href="https://github.com/topling/toplingdb/discussions"
+                  >https://github.com/topling/toplingdb/discussions</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44431873">
+          <h3>
+            <a
+              class="item"
+              href="https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/"
+              >Researchers Uncover Hidden Ingredients Behind AI Creativity</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-01 @ 08:40:37</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44431873"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -178,11 +331,11 @@
             <h4>
               <span>2025-07-01 @ 06:29:57</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44431178"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -200,11 +353,11 @@
             <h4>
               <span>2025-07-01 @ 05:52:40</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44430984"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -219,7 +372,7 @@
             <h4>
               <span>2025-07-01 @ 03:33:49</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44430311"
                   >Comments</a
@@ -239,11 +392,11 @@
             <h4>
               <span>2025-07-01 @ 00:58:22</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44429531"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -260,11 +413,11 @@
             <h4>
               <span>2025-07-01 @ 00:01:15</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">260</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44429225"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -282,11 +435,11 @@
             <h4>
               <span>2025-06-30 @ 23:53:42</span
               ><span class="points-container"
-                >Points: <span class="points">299</span></span
+                >Points: <span class="points">317</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44429182"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -302,7 +455,7 @@
             <h4>
               <span>2025-06-30 @ 22:37:06</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44428674"
                   >Comments</a
@@ -322,7 +475,7 @@
             <h4>
               <span>2025-06-30 @ 22:08:59</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44428438"
                   >Comments</a
@@ -350,11 +503,11 @@
             <h4>
               <span>2025-06-30 @ 20:53:55</span
               ><span class="points-container"
-                >Points: <span class="points">674</span></span
+                >Points: <span class="points">689</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44427757"
                   >Comments</a
-                ><span class="descendants">: 372</span></span
+                ><span class="descendants">: 387</span></span
               >
             </h4>
           </section>
@@ -372,11 +525,11 @@
             <h4>
               <span>2025-06-30 @ 19:19:52</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44426864"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -393,7 +546,7 @@
             <h4>
               <span>2025-06-30 @ 19:17:11</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44426845"
                   >Comments</a
@@ -414,11 +567,11 @@
             <h4>
               <span>2025-06-30 @ 19:03:50</span
               ><span class="points-container"
-                >Points: <span class="points">563</span></span
+                >Points: <span class="points">573</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44426726"
                   >Comments</a
-                ><span class="descendants">: 378</span></span
+                ><span class="descendants">: 384</span></span
               >
             </h4>
           </section>
@@ -435,7 +588,7 @@
             <h4>
               <span>2025-06-30 @ 18:34:27</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44426428"
                   >Comments</a
@@ -454,11 +607,11 @@
             <h4>
               <span>2025-06-30 @ 18:03:26</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44426171"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -474,11 +627,11 @@
             <h4>
               <span>2025-06-30 @ 17:58:38</span
               ><span class="points-container"
-                >Points: <span class="points">436</span></span
+                >Points: <span class="points">450</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44426128"
                   >Comments</a
-                ><span class="descendants">: 454</span></span
+                ><span class="descendants">: 465</span></span
               >
             </h4>
           </section>
@@ -495,11 +648,11 @@
             <h4>
               <span>2025-06-30 @ 16:55:20</span
               ><span class="points-container"
-                >Points: <span class="points">341</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44425461"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -534,11 +687,11 @@
             <h4>
               <span>2025-06-30 @ 15:01:12</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44424194"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -555,11 +708,11 @@
             <h4>
               <span>2025-06-30 @ 14:43:46</span
               ><span class="points-container"
-                >Points: <span class="points">435</span></span
+                >Points: <span class="points">442</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44423983"
                   >Comments</a
-                ><span class="descendants">: 235</span></span
+                ><span class="descendants">: 236</span></span
               >
             </h4>
           </section>
@@ -574,11 +727,11 @@
             <h4>
               <span>2025-06-29 @ 20:21:28</span
               ><span class="points-container"
-                >Points: <span class="points">402</span></span
+                >Points: <span class="points">405</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44416093"
                   >Comments</a
-                ><span class="descendants">: 1252</span></span
+                ><span class="descendants">: 1265</span></span
               >
             </h4>
             <div class="text">
@@ -599,32 +752,11 @@
             <h4>
               <span>2025-06-29 @ 20:10:54</span
               ><span class="points-container"
-                >Points: <span class="points">369</span></span
+                >Points: <span class="points">380</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44416009"
                   >Comments</a
-                ><span class="descendants">: 278</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44411894">
-          <h3>
-            <a
-              class="item"
-              href="https://mssv.net/2025/01/26/experimental-playgrounds/"
-              >Experimental Playgrounds</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-29 @ 10:27:35</span
-              ><span class="points-container"
-                >Points: <span class="points">5</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44411894"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 283</span></span
               >
             </h4>
           </section>
@@ -641,11 +773,11 @@
             <h4>
               <span>2025-06-29 @ 01:00:11</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44409488"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -662,30 +794,11 @@
             <h4>
               <span>2025-06-28 @ 20:01:54</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44407708"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44405423">
-          <h3>
-            <a class="item" href="https://celso.io/posts/2025/06/28/toastrack/"
-              >Restoring a ZX Spectrum+ Toastrack</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-28 @ 15:33:53</span
-              ><span class="points-container"
-                >Points: <span class="points">72</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44405423"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -702,11 +815,11 @@
             <h4>
               <span>2025-06-28 @ 14:12:10</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44404831"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -723,32 +836,11 @@
             <h4>
               <span>2025-06-28 @ 11:49:35</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44403988"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44396620">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.arduino.cc/2025/06/07/this-robotic-tongue-drummer-bangs-out-all-the-ambient-hits/"
-              >Robotic tongue drummer bangs out all the ambient hits</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-06-27 @ 13:23:25</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44396620"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
