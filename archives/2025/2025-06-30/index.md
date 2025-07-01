@@ -10,6 +10,7 @@
 * [2025-06-30, 22:37:06](https://news.ycombinator.com/item?id=44428674) - [GPEmu: A GPU Emulator for Rapid, Low-Cost Deep Learning Prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
 * [2025-06-30, 22:23:43](https://news.ycombinator.com/item?id=44428569) - [I got an ambulance ride, CT scan and ER care in Brazil. My bill: $0](https://www.washingtonpost.com/world/2025/06/29/brazil-health-care-sus-hospitals/)
 * [2025-06-30, 22:18:01](https://news.ycombinator.com/item?id=44428518) - [Corruption Database – DJT](https://github.com/codeddarkness/taco_pardons)
+* [2025-06-30, 22:08:59](https://news.ycombinator.com/item?id=44428438) - [Show HN: A continuation of IRS Direct File that can be self-hosted](https://github.com/openfiletax/openfile)
 * [2025-06-30, 22:04:53](https://news.ycombinator.com/item?id=44428399) - [Bell Labs DSP Pioneer Jim Boddie Leaves Lasting Legacy](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
 * [2025-06-30, 21:11:30](https://news.ycombinator.com/item?id=44427929) - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
 * [2025-06-30, 20:55:47](https://news.ycombinator.com/item?id=44427774) - [Brazil's Supreme Court clears way to hold social media liable for user content](https://apnews.com/article/brazil-supreme-court-social-media-ruling-324b9d79caa9f9e063da8a4993e382e1)
