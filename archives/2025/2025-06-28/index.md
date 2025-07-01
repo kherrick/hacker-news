@@ -41,6 +41,7 @@
 * [2025-06-28, 16:27:58](https://news.ycombinator.com/item?id=44405937) - [Jacobi Ellipsoid](https://en.wikipedia.org/wiki/Jacobi_ellipsoid)
 * [2025-06-28, 16:16:12](https://news.ycombinator.com/item?id=44405812) - [What makes Europe better than America?](https://www.thefp.com/p/what-makes-europe-better-than-america)
 * [2025-06-28, 16:06:15](https://news.ycombinator.com/item?id=44405728) - [Arrests of scientists over smuggled samples add to US border anxiety](https://www.nature.com/articles/d41586-025-01958-4)
+* [2025-06-28, 15:48:11](https://news.ycombinator.com/item?id=44405565) - [First-Class Models: The Missing Productivity Revolution](https://frest.substack.com/p/first-class-models-the-missing-productivity)
 * [2025-06-28, 15:46:31](https://news.ycombinator.com/item?id=44405550) - [Ask HN: From the MIT study, is it smarter to resign than to use forced AI?](https://news.ycombinator.com/item?id=44405550)
 * [2025-06-28, 15:37:15](https://news.ycombinator.com/item?id=44405464) - [People Are Being Involuntarily Committed After Spiraling into ChatGPT Psychosis](https://futurism.com/commitment-jail-chatgpt-psychosis)
 * [2025-06-28, 15:33:53](https://news.ycombinator.com/item?id=44405423) - [Restoring a ZX Spectrum+ Toastrack](https://celso.io/posts/2025/06/28/toastrack/)

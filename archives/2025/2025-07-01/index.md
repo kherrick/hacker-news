@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 12:49:42](https://news.ycombinator.com/item?id=44433409) - [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
 * [2025-07-01, 10:31:12](https://news.ycombinator.com/item?id=44432444) - [The average chess players of Bletchley Park and AI research in Britain](https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html)
 * [2025-07-01, 10:20:27](https://news.ycombinator.com/item?id=44432385) - [Cloudflare introduces pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [2025-07-01, 10:07:59](https://news.ycombinator.com/item?id=44432322) - [Show HN: ToplingDB - A Persistent Key-Value Store for External Storage](https://github.com/topling/toplingdb)
