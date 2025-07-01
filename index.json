@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-01, 20:32:52",
+      "https://news.ycombinator.com/item?id=44437758"
+    ],
+    [
+      "The Roman Roads Research Association",
+      "https://www.romanroads.org/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 20:03:58",
+      "https://news.ycombinator.com/item?id=44437539"
+    ],
+    [
+      "The Hidden Engineering of Liquid Dampers in Skyscrapers",
+      "https://practical.engineering/blog/2025/7/1/the-hidden-engineering-of-liquid-dampers-in-skyscrapers"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 19:39:14",
       "https://news.ycombinator.com/item?id=44437316"
     ],
@@ -67,16 +87,6 @@
     [
       "Cua (YC X25) is hiring an engineer",
       "https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 16:50:19",
-      "https://news.ycombinator.com/item?id=44435786"
-    ],
-    [
-      "MicroPython on M68k Mac",
-      "https://social.afront.org/@stylus/114749858767978151"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing",
       "https://arxiv.org/abs/2506.17732"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 14:00:30",
-      "https://news.ycombinator.com/item?id=44433994"
-    ],
-    [
-      "Grammarly acquires Superhuman",
-      "https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-06-28, 21:55:47",
-      "https://news.ycombinator.com/item?id=44408484"
+      "2025-06-29, 00:19:13",
+      "https://news.ycombinator.com/item?id=44409276"
     ],
     [
-      "Exploring Trichromacy through Maxwell's Color Experiment (2023)",
-      "https://maxwell.kohterai.com/"
+      "Muxio: Rust layered stream and RPC toolkit",
+      "https://crates.io/crates/muxio"
     ]
   ],
   [
