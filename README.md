@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-01, 21:12:51](https://news.ycombinator.com/item?id=44438053) - [Ask HN: Anyone is an \"AI Engineer\"? What does your job tasks include?](https://news.ycombinator.com/item?id=44438053)
 * [2025-07-01, 20:32:52](https://news.ycombinator.com/item?id=44437758) - [The Roman Roads Research Association](https://www.romanroads.org/)
 * [2025-07-01, 20:03:58](https://news.ycombinator.com/item?id=44437539) - [The Hidden Engineering of Liquid Dampers in Skyscrapers](https://practical.engineering/blog/2025/7/1/the-hidden-engineering-of-liquid-dampers-in-skyscrapers)
 * [2025-07-01, 19:39:14](https://news.ycombinator.com/item?id=44437316) - [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
@@ -25,7 +26,6 @@
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
 * [2025-06-29, 15:39:16](https://news.ycombinator.com/item?id=44413957) - [All Good Editors Are Pirates: In Memory of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/all-good-editors-are-pirates)
 * [2025-06-29, 12:14:57](https://news.ycombinator.com/item?id=44412480) - [Swearing as a Response to Pain: Assessing Effects of Novel Swear Words](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full)
-* [2025-06-29, 05:17:43](https://news.ycombinator.com/item?id=44410538) - [Slouching Towards Sensemaking](https://karanchawla.io/2025/06/29/sensemaking)
 * [2025-06-29, 00:19:13](https://news.ycombinator.com/item?id=44409276) - [Muxio: Rust layered stream and RPC toolkit](https://crates.io/crates/muxio)
 * [2025-06-28, 11:49:35](https://news.ycombinator.com/item?id=44403988) - [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
 * [2025-06-28, 10:07:38](https://news.ycombinator.com/item?id=44403547) - [Graph Theory Applications in Video Games](https://utk.claranguyen.me/talks.php?id=videogames)
