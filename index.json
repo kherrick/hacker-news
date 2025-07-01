@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-01, 10:31:12",
+      "https://news.ycombinator.com/item?id=44432444"
+    ],
+    [
+      "The average chess players of Bletchley Park and AI research in Britain",
+      "https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 10:20:27",
       "https://news.ycombinator.com/item?id=44432385"
     ],
     [
       "Cloudflare to introduce pay-per-crawl for AI bots",
       "https://blog.cloudflare.com/introducing-pay-per-crawl/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 10:07:59",
+      "https://news.ycombinator.com/item?id=44432322"
+    ],
+    [
+      "Show HN: ToplingDB - A Persistent Key-Value Store for External Storage",
+      "https://github.com/topling/toplingdb"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 08:40:37",
+      "https://news.ycombinator.com/item?id=44431873"
+    ],
+    [
+      "Researchers Uncover Hidden Ingredients Behind AI Creativity",
+      "https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2025-06-29, 10:27:35",
-      "https://news.ycombinator.com/item?id=44411894"
-    ],
-    [
-      "Experimental Playgrounds",
-      "https://mssv.net/2025/01/26/experimental-playgrounds/"
-    ]
-  ],
-  [
-    [
       "2025-06-29, 01:00:11",
       "https://news.ycombinator.com/item?id=44409488"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-06-28, 15:33:53",
-      "https://news.ycombinator.com/item?id=44405423"
-    ],
-    [
-      "Restoring a ZX Spectrum+ Toastrack",
-      "https://celso.io/posts/2025/06/28/toastrack/"
-    ]
-  ],
-  [
-    [
       "2025-06-28, 14:12:10",
       "https://news.ycombinator.com/item?id=44404831"
     ],
@@ -287,16 +297,6 @@
     [
       "I built something that changed my friend group's social fabric",
       "https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 13:23:25",
-      "https://news.ycombinator.com/item?id=44396620"
-    ],
-    [
-      "Robotic tongue drummer bangs out all the ambient hits",
-      "https://blog.arduino.cc/2025/06/07/this-robotic-tongue-drummer-bangs-out-all-the-ambient-hits/"
     ]
   ]
 ]
