@@ -15,6 +15,7 @@
 * [2025-07-01, 16:50:19](https://news.ycombinator.com/item?id=44435786) - [MicroPython on M68k Mac](https://social.afront.org/@stylus/114749858767978151)
 * [2025-07-01, 16:43:19](https://news.ycombinator.com/item?id=44435716) - [Code⇄GUI bidirectional editing via LSP](https://jamesbvaughan.com/bidirectional-editing/)
 * [2025-07-01, 16:31:02](https://news.ycombinator.com/item?id=44435572) - [Benchmarking Postgres](https://planetscale.com/blog/benchmarking-postgres)
+* [2025-07-01, 16:24:24](https://news.ycombinator.com/item?id=44435500) - [Show HN: Core – open source memory graph for LLMs – shareable, user owned](https://github.com/RedPlanetHQ/core)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
 * [2025-07-01, 15:57:23](https://news.ycombinator.com/item?id=44435211) - [Show HN: HackerNewt - Breadth-first exploring HN client for iOS](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
 * [2025-07-01, 15:41:38](https://news.ycombinator.com/item?id=44435038) - [LibreOffice takes aim at Microsoft Office with free guides to help users switch](https://www.neowin.net/news/libreoffice-takes-aim-at-microsoft-office-with-free-guides-to-help-users-switch/)
