@@ -6,6 +6,7 @@
 
 * [2025-07-01, 21:14:29](https://news.ycombinator.com/item?id=44438065) - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
 * [2025-07-01, 21:12:51](https://news.ycombinator.com/item?id=44438053) - [Ask HN: Anyone is an \"AI Engineer\"? What does your job tasks include?](https://news.ycombinator.com/item?id=44438053)
+* [2025-07-01, 20:59:05](https://news.ycombinator.com/item?id=44437948) - [Effectiveness of trees in reducing temperature & outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
 * [2025-07-01, 20:32:52](https://news.ycombinator.com/item?id=44437758) - [The Roman Roads Research Association](https://www.romanroads.org/)
 * [2025-07-01, 20:03:58](https://news.ycombinator.com/item?id=44437539) - [The Hidden Engineering of Liquid Dampers in Skyscrapers](https://practical.engineering/blog/2025/7/1/the-hidden-engineering-of-liquid-dampers-in-skyscrapers)
 * [2025-07-01, 19:39:14](https://news.ycombinator.com/item?id=44437316) - [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)

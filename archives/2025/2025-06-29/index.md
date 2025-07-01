@@ -42,6 +42,7 @@
 * [2025-06-29, 16:08:37](https://news.ycombinator.com/item?id=44414169) - [Beyond the Hook: A Technical Deep Dive into Modern Phishing Methodologies](https://blog.quarkslab.com/./technical-dive-into-modern-phishing.html)
 * [2025-06-29, 15:59:56](https://news.ycombinator.com/item?id=44414115) - [The $25k car is going extinct?](https://media.hubspot.com/why-the-25000-car-is-going-extinct)
 * [2025-06-29, 15:39:16](https://news.ycombinator.com/item?id=44413957) - [All Good Editors Are Pirates: In Memory of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/all-good-editors-are-pirates)
+* [2025-06-29, 15:37:09](https://news.ycombinator.com/item?id=44413945) - [The Palette of the Medieval North](https://www.nature.com/articles/s40494-025-01599-w)
 * [2025-06-29, 15:33:57](https://news.ycombinator.com/item?id=44413921) - [Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)](https://llmapitest.com/)
 * [2025-06-29, 15:19:19](https://news.ycombinator.com/item?id=44413809) - [4-10x faster in-process pub/sub for Go](https://github.com/kelindar/event)
 * [2025-06-29, 15:09:01](https://news.ycombinator.com/item?id=44413750) - [The Consciousness Gradient: When Machines Begin to Wonder](https://v1tali.com/ai-consciousness)
