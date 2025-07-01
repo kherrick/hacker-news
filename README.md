@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-01, 06:48:50](https://news.ycombinator.com/item?id=44431251) - [Ask HN: Is your company forcing use of AI?](https://news.ycombinator.com/item?id=44431251)
 * [2025-07-01, 05:52:40](https://news.ycombinator.com/item?id=44430984) - [Aging-Related Inflammation Is Not Universal Across Human Populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
 * [2025-07-01, 03:33:49](https://news.ycombinator.com/item?id=44430311) - [Small language models are the future of agentic AI](https://arxiv.org/abs/2506.02153)
 * [2025-07-01, 03:27:09](https://news.ycombinator.com/item?id=44430286) - [Nimtable: Open-source web UI to browse and manage Apache Iceberg tables](https://github.com/nimtable/nimtable)
@@ -29,7 +30,6 @@
 * [2025-06-28, 22:15:42](https://news.ycombinator.com/item?id=44408615) - [Automatic build number incrementing in Xcode](https://blog.gingerbeardman.com/2025/06/28/automatic-build-number-incrementing-in-xcode/)
 * [2025-06-28, 20:01:54](https://news.ycombinator.com/item?id=44407708) - [People Keep Inventing Prolly Trees](https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/)
 * [2025-06-28, 15:33:53](https://news.ycombinator.com/item?id=44405423) - [Restoring a ZX Spectrum+ Toastrack](https://celso.io/posts/2025/06/28/toastrack/)
-* [2025-06-27, 15:19:57](https://news.ycombinator.com/item?id=44397482) - [So you want to serialize some DER?](https://alexgaynor.net/2025/jun/20/serialize-some-der/)
 
 ## [Archives](archives/index.md)
 
