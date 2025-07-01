@@ -6,6 +6,7 @@
 
 * [2025-06-28, 23:53:40](https://news.ycombinator.com/item?id=44409175) - [US Defense Department will stop providing satellite weather data](https://text.npr.org/nx-s1-5446120)
 * [2025-06-28, 23:01:15](https://news.ycombinator.com/item?id=44408872) - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
+* [2025-06-28, 22:15:42](https://news.ycombinator.com/item?id=44408615) - [Automatic build number incrementing in Xcode](https://blog.gingerbeardman.com/2025/06/28/automatic-build-number-incrementing-in-xcode/)
 * [2025-06-28, 22:08:25](https://news.ycombinator.com/item?id=44408564) - [Reproducible Builds](https://en.wikipedia.org/wiki/Reproducible_builds)
 * [2025-06-28, 22:06:31](https://news.ycombinator.com/item?id=44408552) - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
 * [2025-06-28, 21:55:47](https://news.ycombinator.com/item?id=44408484) - [Exploring Trichromacy through Maxwell's Color Experiment (2023)](https://maxwell.kohterai.com/)

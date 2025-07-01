@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
 * [2025-07-01, 04:20:25](https://news.ycombinator.com/item?id=44430561) - [DeepSeek App Faces Ban in Germany for Illegal Transfer of User Data](https://www.searchenginejournal.com/deepseek-app-faces-ban-in-germany-for-illegal-transfer-of-user-data/550172/)
+* [2025-07-01, 03:33:49](https://news.ycombinator.com/item?id=44430311) - [Small Language Models Are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
 * [2025-07-01, 03:27:09](https://news.ycombinator.com/item?id=44430286) - [Nimtable: Open-source web UI to browse and manage Apache Iceberg tables](https://github.com/nimtable/nimtable)
 * [2025-07-01, 03:19:29](https://news.ycombinator.com/item?id=44430263) - [Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits](https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/)
 * [2025-07-01, 01:25:07](https://news.ycombinator.com/item?id=44429695) - [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
