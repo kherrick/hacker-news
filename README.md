@@ -11,7 +11,6 @@
 * [2025-06-30, 22:37:06](https://news.ycombinator.com/item?id=44428674) - [GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
 * [2025-06-30, 22:08:59](https://news.ycombinator.com/item?id=44428438) - [Show HN: A continuation of IRS Direct File that can be self-hosted](https://github.com/openfiletax/openfile)
 * [2025-06-30, 22:04:53](https://news.ycombinator.com/item?id=44428399) - [Jim Boddie codeveloped the first successful DSP at Bell Labs](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
-* [2025-06-30, 21:11:30](https://news.ycombinator.com/item?id=44427929) - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
 * [2025-06-30, 20:53:55](https://news.ycombinator.com/item?id=44427757) - [The new skill in AI is not prompting, it's context engineering](https://www.philschmid.de/context-engineering)
 * [2025-06-30, 19:19:52](https://news.ycombinator.com/item?id=44426864) - [The original LZEXE (A.K.A. Kosinski) compressor source code has been released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
 * [2025-06-30, 19:17:11](https://news.ycombinator.com/item?id=44426845) - [End of an Era](https://www.erasmatazz.com/personal/self/end-of-an-era.html)
@@ -29,7 +28,8 @@
 * [2025-06-28, 18:06:01](https://news.ycombinator.com/item?id=44406799) - [Getting weather data from my Acurite sensors was shockingly easy](https://www.jeffgeerling.com/blog/2025/getting-weather-data-my-acurite-sensors-was-shockingly-easy)
 * [2025-06-28, 15:33:53](https://news.ycombinator.com/item?id=44405423) - [Restoring a ZX Spectrum+ Toastrack](https://celso.io/posts/2025/06/28/toastrack/)
 * [2025-06-28, 14:12:10](https://news.ycombinator.com/item?id=44404831) - [Abstraction boundaries are optimization boundaries](https://blog.snork.dev/posts/abstraction-boundaries-are-optimization-boundaries.html)
-* [2025-06-27, 15:19:57](https://news.ycombinator.com/item?id=44397482) - [So you want to serialize some DER?](https://alexgaynor.net/2025/jun/20/serialize-some-der/)
+* [2025-06-28, 11:49:35](https://news.ycombinator.com/item?id=44403988) - [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
+* [2025-06-27, 16:35:26](https://news.ycombinator.com/item?id=44398173) - [Transparent Electronics](https://www.are.na/james-hicks/transparent-electronics)
 
 ## [Archives](archives/index.md)
 
