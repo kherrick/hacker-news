@@ -72,6 +72,7 @@
 * [2025-06-29, 03:34:02](https://news.ycombinator.com/item?id=44410159) - [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/)
 * [2025-06-29, 03:28:10](https://news.ycombinator.com/item?id=44410135) - [Harvest Move – A game that requires careful movement](https://jslegend.itch.io/harvest-move)
 * [2025-06-29, 01:12:32](https://news.ycombinator.com/item?id=44409555) - [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
+* [2025-06-29, 01:00:11](https://news.ycombinator.com/item?id=44409488) - [Genetic Code Enables Zebrafish to Mend Damaged Organs](https://www.caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs)
 * [2025-06-29, 00:43:54](https://news.ycombinator.com/item?id=44409405) - [Generative AI's crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
 * [2025-06-29, 00:40:13](https://news.ycombinator.com/item?id=44409391) - [Blackwell: Nvidia's GPU](https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu)
 * [2025-06-29, 00:38:37](https://news.ycombinator.com/item?id=44409386) - [Satellites keep breaking up in space. Insurance won't cover them](https://www.space.com/space-exploration/satellites/satellites-keep-breaking-up-in-space-insurance-wont-cover-them)
