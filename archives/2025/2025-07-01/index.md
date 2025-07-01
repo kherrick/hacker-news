@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 16:31:02](https://news.ycombinator.com/item?id=44435572) - [Benchmarking Postgres](https://planetscale.com/blog/benchmarking-postgres)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
 * [2025-07-01, 15:57:23](https://news.ycombinator.com/item?id=44435211) - [Show HN: HackerNewt - Breadth-first exploring HN client for iOS](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
 * [2025-07-01, 15:41:38](https://news.ycombinator.com/item?id=44435038) - [LibreOffice takes aim at Microsoft Office with free guides to help users switch](https://www.neowin.net/news/libreoffice-takes-aim-at-microsoft-office-with-free-guides-to-help-users-switch/)
