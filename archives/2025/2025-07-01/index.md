@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 18:36:40](https://news.ycombinator.com/item?id=44436838) - [1KB JavaScript Demoscene Challenge Just Launched](https://news.ycombinator.com/item?id=44436838)
 * [2025-07-01, 18:08:38](https://news.ycombinator.com/item?id=44436579) - [Sam Altman Slams Meta's AI Talent Poaching: 'Missionaries Will Beat Mercenaries'](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
 * [2025-07-01, 18:07:09](https://news.ycombinator.com/item?id=44436555) - [The Hoyle State (2021)](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
 * [2025-07-01, 17:40:57](https://news.ycombinator.com/item?id=44436290) - [What should a native DOM templating API look like?](https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like/)
@@ -22,6 +23,7 @@
 * [2025-07-01, 15:08:29](https://news.ycombinator.com/item?id=44434667) - [PlanetScale for Postgres](https://planetscale.com/blog/planetscale-for-postgres)
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434576) - [Ask HN: Who is hiring? (July 2025)](https://news.ycombinator.com/item?id=44434576)
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434575) - [Ask HN: Freelancer? Seeking freelancer? (July 2025)](https://news.ycombinator.com/item?id=44434575)
+* [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434574) - [Ask HN: Who wants to be hired? (July 2025)](https://news.ycombinator.com/item?id=44434574)
 * [2025-07-01, 14:41:48](https://news.ycombinator.com/item?id=44434355) - [I am not a supplier (2022)](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [2025-07-01, 14:08:11](https://news.ycombinator.com/item?id=44434062) - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
 * [2025-07-01, 14:00:30](https://news.ycombinator.com/item?id=44433994) - [Grammarly acquires Superhuman](https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/)
