@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 10:20:27](https://news.ycombinator.com/item?id=44432385) - [Cloudflare introduces pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
 * [2025-07-01, 06:48:50](https://news.ycombinator.com/item?id=44431251) - [Ask HN: Is your company forcing use of AI?](https://news.ycombinator.com/item?id=44431251)
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
