@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-01, 16:31:02",
+      "https://news.ycombinator.com/item?id=44435572"
+    ],
+    [
+      "Benchmarking Postgres",
+      "https://planetscale.com/blog/benchmarking-postgres"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 16:22:55",
       "https://news.ycombinator.com/item?id=44435484"
     ],
@@ -27,16 +37,6 @@
     [
       "Ask HN: Who is hiring? (July 2025)",
       "https://news.ycombinator.com/item?id=44434576"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 15:01:36",
-      "https://news.ycombinator.com/item?id=44434575"
-    ],
-    [
-      "Ask HN: Freelancer? Seeking freelancer? (July 2025)",
-      "https://news.ycombinator.com/item?id=44434575"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-07-01, 10:35:23",
-      "https://news.ycombinator.com/item?id=44432467"
-    ],
-    [
-      "Scientists identify culprit behind biggest-ever U.S. honey bee die-off",
-      "https://www.science.org/content/article/scientists-identify-culprit-behind-biggest-ever-u-s-honeybee-die"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 10:31:12",
       "https://news.ycombinator.com/item?id=44432444"
     ],
@@ -147,6 +137,16 @@
     [
       "Cloudflare to introduce pay-per-crawl for AI bots",
       "https://blog.cloudflare.com/introducing-pay-per-crawl/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 10:07:59",
+      "https://news.ycombinator.com/item?id=44432322"
+    ],
+    [
+      "Show HN: ToplingDB - A Persistent Key-Value Store for External Storage",
+      "https://github.com/topling/toplingdb"
     ]
   ],
   [
