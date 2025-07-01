@@ -19,7 +19,6 @@
 * [2025-06-30, 22:37:06](https://news.ycombinator.com/item?id=44428674) - [GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
 * [2025-06-30, 22:08:59](https://news.ycombinator.com/item?id=44428438) - [Show HN: A continuation of IRS Direct File that can be self-hosted](https://github.com/openfiletax/openfile)
 * [2025-06-30, 20:53:55](https://news.ycombinator.com/item?id=44427757) - [The new skill in AI is not prompting, it's context engineering](https://www.philschmid.de/context-engineering)
-* [2025-06-30, 19:17:11](https://news.ycombinator.com/item?id=44426845) - [End of an Era](https://www.erasmatazz.com/personal/self/end-of-an-era.html)
 * [2025-06-30, 19:03:50](https://news.ycombinator.com/item?id=44426726) - [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
 * [2025-06-30, 18:34:27](https://news.ycombinator.com/item?id=44426428) - [The hidden JTAG in a Qualcomm/Snapdragon device’s USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
 * [2025-06-30, 17:58:38](https://news.ycombinator.com/item?id=44426128) - [Proton joins suit against Apple for practices that harm developers and consumers](https://proton.me/blog/apple-lawsuit)
@@ -30,6 +29,7 @@
 * [2025-06-28, 15:48:11](https://news.ycombinator.com/item?id=44405565) - [First-Class Models: The Missing Productivity Revolution](https://frest.substack.com/p/first-class-models-the-missing-productivity)
 * [2025-06-28, 14:12:10](https://news.ycombinator.com/item?id=44404831) - [Abstraction boundaries are optimization boundaries](https://blog.snork.dev/posts/abstraction-boundaries-are-optimization-boundaries.html)
 * [2025-06-28, 11:49:35](https://news.ycombinator.com/item?id=44403988) - [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
+* [2025-06-27, 20:08:24](https://news.ycombinator.com/item?id=44399838) - [Simulations reveal the secret to strengthening carbon fiber](https://www.ornl.gov/news/simulations-reveal-secret-strengthening-carbon-fiber)
 
 ## [Archives](archives/index.md)
 
