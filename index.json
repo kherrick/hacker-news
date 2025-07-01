@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-01, 14:08:11",
+      "https://news.ycombinator.com/item?id=44434062"
+    ],
+    [
+      "Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing",
+      "https://arxiv.org/abs/2506.17732"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 14:00:30",
+      "https://news.ycombinator.com/item?id=44433994"
+    ],
+    [
+      "Grammarly acquires Superhuman",
+      "https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 13:41:15",
       "https://news.ycombinator.com/item?id=44433843"
     ],
@@ -21,12 +41,42 @@
   ],
   [
     [
+      "2025-07-01, 12:52:50",
+      "https://news.ycombinator.com/item?id=44433429"
+    ],
+    [
+      "Show HN: I built the tool I wished existed for moving Stripe between countries",
+      "https://www.stripemove.com/"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 12:49:42",
       "https://news.ycombinator.com/item?id=44433409"
     ],
     [
       "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
       "https://simedw.com/2025/06/23/introducing-spegel/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 12:47:06",
+      "https://news.ycombinator.com/item?id=44433386"
+    ],
+    [
+      "Show HN: Jobs by Referral: Find jobs in your LinkedIn network",
+      "https://jobsbyreferral.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 12:27:31",
+      "https://news.ycombinator.com/item?id=44433222"
+    ],
+    [
+      "RP2350pc Open Source Hardware all in one computer",
+      "https://olimex.wordpress.com/2025/07/01/rp2350pc-open-source-hardware-all-in-one-computer-with-rp2350b-8mb-psram-16mb-flash-four-usb-host-dvi-hdmi-output-and-audio-codec-for-retro-computer-emulation-and-education/"
     ]
   ],
   [
@@ -61,26 +111,6 @@
   ],
   [
     [
-      "2025-07-01, 09:17:41",
-      "https://news.ycombinator.com/item?id=44432058"
-    ],
-    [
-      "Pbf2sqlite: Reading OpenStreetMap into a SQLite Database",
-      "https://github.com/osmzoso/pbf2sqlite"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 08:40:37",
-      "https://news.ycombinator.com/item?id=44431873"
-    ],
-    [
-      "Researchers Uncover Hidden Ingredients Behind AI Creativity",
-      "https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 07:01:07",
       "https://news.ycombinator.com/item?id=44431314"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-07-01, 05:52:40",
-      "https://news.ycombinator.com/item?id=44430984"
-    ],
-    [
-      "Aging-related inflammation is not universal across human populations",
-      "https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 00:58:22",
       "https://news.ycombinator.com/item?id=44429531"
     ],
@@ -127,16 +147,6 @@
     [
       "Claude Code now supports hooks",
       "https://docs.anthropic.com/en/docs/claude-code/hooks"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 23:53:42",
-      "https://news.ycombinator.com/item?id=44429182"
-    ],
-    [
-      "Melbourne man discovers extensive model train network underneath house",
-      "https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-06-30, 14:43:46",
-      "https://news.ycombinator.com/item?id=44423983"
+      "2025-06-29, 07:14:27",
+      "https://news.ycombinator.com/item?id=44410925"
     ],
     [
-      "There are no new ideas in AI, only new datasets",
-      "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only"
+      "Embabel Agent Framework for the JVM",
+      "https://github.com/embabel/embabel-agent"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Genetic code enables zebrafish to mend damaged organs",
       "https://www.caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 20:01:54",
-      "https://news.ycombinator.com/item?id=44407708"
-    ],
-    [
-      "People Keep Inventing Prolly Trees",
-      "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/"
     ]
   ],
   [
