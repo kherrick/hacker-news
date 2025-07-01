@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-01, 10:31:12](https://news.ycombinator.com/item?id=44432444) - [The average chess players of Bletchley Park and AI research in Britain](https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html)
 * [2025-07-01, 10:20:27](https://news.ycombinator.com/item?id=44432385) - [Cloudflare to introduce pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
+* [2025-07-01, 10:07:59](https://news.ycombinator.com/item?id=44432322) - [Show HN: ToplingDB - A Persistent Key-Value Store for External Storage](https://github.com/topling/toplingdb)
+* [2025-07-01, 08:40:37](https://news.ycombinator.com/item?id=44431873) - [Researchers Uncover Hidden Ingredients Behind AI Creativity](https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/)
 * [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
 * [2025-07-01, 05:52:40](https://news.ycombinator.com/item?id=44430984) - [Aging-related inflammation is not universal across human populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
@@ -23,13 +26,10 @@
 * [2025-06-30, 14:43:46](https://news.ycombinator.com/item?id=44423983) - [There are no new ideas in AI, only new datasets](https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
 * [2025-06-29, 20:10:54](https://news.ycombinator.com/item?id=44416009) - [YouTube No Translation](https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/)
-* [2025-06-29, 10:27:35](https://news.ycombinator.com/item?id=44411894) - [Experimental Playgrounds](https://mssv.net/2025/01/26/experimental-playgrounds/)
 * [2025-06-29, 01:00:11](https://news.ycombinator.com/item?id=44409488) - [Genetic code enables zebrafish to mend damaged organs](https://www.caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs)
 * [2025-06-28, 20:01:54](https://news.ycombinator.com/item?id=44407708) - [People Keep Inventing Prolly Trees](https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/)
-* [2025-06-28, 15:33:53](https://news.ycombinator.com/item?id=44405423) - [Restoring a ZX Spectrum+ Toastrack](https://celso.io/posts/2025/06/28/toastrack/)
 * [2025-06-28, 14:12:10](https://news.ycombinator.com/item?id=44404831) - [Abstraction boundaries are optimization boundaries](https://blog.snork.dev/posts/abstraction-boundaries-are-optimization-boundaries.html)
 * [2025-06-28, 11:49:35](https://news.ycombinator.com/item?id=44403988) - [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
-* [2025-06-27, 13:23:25](https://news.ycombinator.com/item?id=44396620) - [Robotic tongue drummer bangs out all the ambient hits](https://blog.arduino.cc/2025/06/07/this-robotic-tongue-drummer-bangs-out-all-the-ambient-hits/)
 
 ## [Archives](archives/index.md)
 
