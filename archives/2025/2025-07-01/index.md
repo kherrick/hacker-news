@@ -10,6 +10,7 @@
 * [2025-07-01, 10:31:12](https://news.ycombinator.com/item?id=44432444) - [The average chess players of Bletchley Park and AI research in Britain](https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html)
 * [2025-07-01, 10:20:27](https://news.ycombinator.com/item?id=44432385) - [Cloudflare introduces pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [2025-07-01, 10:07:59](https://news.ycombinator.com/item?id=44432322) - [Show HN: ToplingDB - A Persistent Key-Value Store for External Storage](https://github.com/topling/toplingdb)
+* [2025-07-01, 09:17:41](https://news.ycombinator.com/item?id=44432058) - [Pbf2sqlite: Reading OpenStreetMap into a SQLite Database](https://github.com/osmzoso/pbf2sqlite)
 * [2025-07-01, 08:53:02](https://news.ycombinator.com/item?id=44431943) - [Show HN: I Built a Paul Graham AI Advisor for Founders and Hackers](https://paulgraham.resurrect.space)
 * [2025-07-01, 08:40:37](https://news.ycombinator.com/item?id=44431873) - [Researchers Uncover Hidden Ingredients Behind AI Creativity](https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/)
 * [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
