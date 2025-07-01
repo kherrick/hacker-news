@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-01, 17:11:40](https://news.ycombinator.com/item?id=44436006) - [Sliding Window Technique Visualizer](https://sliding-window-visualizer-bryanneumann.replit.app/)
 * [2025-07-01, 17:00:30](https://news.ycombinator.com/item?id=44435910) - [Cua (YC X25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
 * [2025-07-01, 15:57:23](https://news.ycombinator.com/item?id=44435211) - [Show HN: HackerNewt - Breadth-first exploring HN client for iOS](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
@@ -18,7 +19,6 @@
 * [2025-07-01, 00:01:15](https://news.ycombinator.com/item?id=44429225) - [Claude Code now supports hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
 * [2025-06-30, 22:08:59](https://news.ycombinator.com/item?id=44428438) - [Show HN: A continuation of IRS Direct File that can be self-hosted](https://github.com/openfiletax/openfile)
 * [2025-06-30, 20:53:55](https://news.ycombinator.com/item?id=44427757) - [The new skill in AI is not prompting, it's context engineering](https://www.philschmid.de/context-engineering)
-* [2025-06-30, 19:03:50](https://news.ycombinator.com/item?id=44426726) - [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
 * [2025-06-30, 18:34:27](https://news.ycombinator.com/item?id=44426428) - [The hidden JTAG in a Qualcomm/Snapdragon device’s USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
 * [2025-06-30, 17:58:38](https://news.ycombinator.com/item?id=44426128) - [Proton joins suit against Apple for practices that harm developers and consumers](https://proton.me/blog/apple-lawsuit)
 * [2025-06-30, 16:55:20](https://news.ycombinator.com/item?id=44425461) - [I write type-safe generic data structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
