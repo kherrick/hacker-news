@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2025-07-01, 08:53:02",
-      "https://news.ycombinator.com/item?id=44431943"
-    ],
-    [
-      "Show HN: I Built a Paul Graham AI Advisor for Founders and Hackers",
-      "https://paulgraham.resurrect.space"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 07:01:07",
       "https://news.ycombinator.com/item?id=44431314"
     ],
     [
       "Noloco (YC S21) Is Hiring a Founders Associate in Barcelona",
       "https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 06:29:57",
+      "https://news.ycombinator.com/item?id=44431178"
+    ],
+    [
+      "OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine",
+      "https://github.com/stan-smith/OpenFLOW"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Small language models are the future of agentic AI",
       "https://arxiv.org/abs/2506.02153"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 03:27:09",
+      "https://news.ycombinator.com/item?id=44430286"
+    ],
+    [
+      "Nimtable: Open-source web UI to browse and manage Apache Iceberg tables",
+      "https://github.com/nimtable/nimtable"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "People Keep Inventing Prolly Trees",
       "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 18:06:01",
-      "https://news.ycombinator.com/item?id=44406799"
-    ],
-    [
-      "Getting weather data from my Acurite sensors was shockingly easy",
-      "https://www.jeffgeerling.com/blog/2025/getting-weather-data-my-acurite-sensors-was-shockingly-easy"
     ]
   ],
   [
