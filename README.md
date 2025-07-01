@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-01, 23:30:35](https://news.ycombinator.com/item?id=44438900) - [Using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
+* [2025-07-01, 23:29:28](https://news.ycombinator.com/item?id=44438890) - [America's Hot Garbage Problem](https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills)
 * [2025-07-01, 21:14:29](https://news.ycombinator.com/item?id=44438065) - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
 * [2025-07-01, 20:59:05](https://news.ycombinator.com/item?id=44437948) - [Effectiveness of trees in reducing temperature & outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
 * [2025-07-01, 20:32:52](https://news.ycombinator.com/item?id=44437758) - [The Roman Roads Research Association](https://www.romanroads.org/)
@@ -18,7 +19,6 @@
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434574) - [Ask HN: Who wants to be hired? (July 2025)](https://news.ycombinator.com/item?id=44434574)
 * [2025-07-01, 14:08:11](https://news.ycombinator.com/item?id=44434062) - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
 * [2025-07-01, 13:46:56](https://news.ycombinator.com/item?id=44433899) - [Experience converting a mathematical software package to C++20 modules [PDF]](https://arxiv.org/abs/2506.21654)
-* [2025-07-01, 12:52:50](https://news.ycombinator.com/item?id=44433429) - [Show HN: I built the tool I wished existed for moving Stripe between countries](https://www.stripemove.com/)
 * [2025-07-01, 12:49:42](https://news.ycombinator.com/item?id=44433409) - [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
 * [2025-07-01, 12:47:06](https://news.ycombinator.com/item?id=44433386) - [Show HN: Jobs by Referral: Find jobs in your LinkedIn network](https://jobsbyreferral.com/)
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
