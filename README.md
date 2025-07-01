@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-01, 01:25:07](https://news.ycombinator.com/item?id=44429695) - [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
 * [2025-07-01, 00:01:15](https://news.ycombinator.com/item?id=44429225) - [Claude Code now supports Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
 * [2025-06-30, 23:53:42](https://news.ycombinator.com/item?id=44429182) - [Melbourne man discovers extensive model train network underneath house](https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8)
+* [2025-06-30, 23:43:37](https://news.ycombinator.com/item?id=44429116) - [Show HN: Local LLM Notepad – run a GPT-style model from a USB stick](https://github.com/runzhouye/Local_LLM_Notepad)
 * [2025-06-30, 22:37:06](https://news.ycombinator.com/item?id=44428674) - [GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
 * [2025-06-30, 22:04:53](https://news.ycombinator.com/item?id=44428399) - [Jim Boddie codeveloped the first successful DSP at Bell Labs](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
 * [2025-06-30, 21:11:30](https://news.ycombinator.com/item?id=44427929) - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
@@ -22,14 +24,12 @@
 * [2025-06-30, 14:43:46](https://news.ycombinator.com/item?id=44423983) - [There are no new ideas in AI only new datasets](https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only)
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
 * [2025-06-30, 11:02:55](https://news.ycombinator.com/item?id=44421776) - [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
-* [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-29, 20:21:28](https://news.ycombinator.com/item?id=44416093) - [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
+* [2025-06-29, 20:10:54](https://news.ycombinator.com/item?id=44416009) - [YouTube No Translation](https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/)
+* [2025-06-29, 03:28:10](https://news.ycombinator.com/item?id=44410135) - [Harvest Move – A game that requires careful movement](https://jslegend.itch.io/harvest-move)
 * [2025-06-28, 20:01:54](https://news.ycombinator.com/item?id=44407708) - [People Keep Inventing Prolly Trees](https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/)
-* [2025-06-28, 16:27:58](https://news.ycombinator.com/item?id=44405937) - [Jacobi Ellipsoid](https://en.wikipedia.org/wiki/Jacobi_ellipsoid)
-* [2025-06-28, 08:28:37](https://news.ycombinator.com/item?id=44403117) - [Beneath the canopy: Pioneering satellite reveals rainforests' hidden worlds](https://www.bbc.co.uk/news/resources/idt-d7353b50-0fea-46ba-8495-ae9e25192cfe)
 * [2025-06-28, 06:11:38](https://news.ycombinator.com/item?id=44402618) - [Creating fair dice from random objects](https://arstechnica.com/science/2025/05/your-next-gaming-dice-could-be-shaped-like-a-dragon-or-armadillo/)
 * [2025-06-27, 17:50:44](https://news.ycombinator.com/item?id=44398809) - [The Plot of the Phantom, a text adventure that took 40 years to finish](https://scottandrew.com/blog/2025/06/you-can-now-play-plot-of-the-phantom-the-text-adventure-game/)
-* [2025-06-27, 13:59:28](https://news.ycombinator.com/item?id=44396867) - [New proof dramatically compresses space needed for computation](https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/)
 
 ## [Archives](archives/index.md)
 

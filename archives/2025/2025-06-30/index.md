@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
 * [2025-06-30, 23:53:42](https://news.ycombinator.com/item?id=44429182) - [Melbourne man discovers extensive model train network underneath house](https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8)
+* [2025-06-30, 23:43:37](https://news.ycombinator.com/item?id=44429116) - [Show HN: Local LLM Notepad – run a GPT-style model from a USB stick](https://github.com/runzhouye/Local_LLM_Notepad)
 * [2025-06-30, 22:45:57](https://news.ycombinator.com/item?id=44428731) - [AI is Anti-Human (and assorted qualifications)](https://njump.me/naddr1qqxnzde58yerxv3exycrsdpjqgsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsrqsqqqa28nmz2vk)
 * [2025-06-30, 22:37:06](https://news.ycombinator.com/item?id=44428674) - [GPEmu: A GPU Emulator for Rapid, Low-Cost Deep Learning Prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
 * [2025-06-30, 22:23:43](https://news.ycombinator.com/item?id=44428569) - [I got an ambulance ride, CT scan and ER care in Brazil. My bill: $0](https://www.washingtonpost.com/world/2025/06/29/brazil-health-care-sus-hospitals/)
