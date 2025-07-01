@@ -63,6 +63,7 @@
 * [2025-06-28, 11:14:38](https://news.ycombinator.com/item?id=44403841) - [Swarms of robots could go up your nose, melt the mucus and clean your sinuses](https://www.zmescience.com/future/swarms-of-tiny-robots-could-go-up-your-nose-melt-the-mucus-and-clean-your-sinuses/)
 * [2025-06-28, 10:27:24](https://news.ycombinator.com/item?id=44403639) - [Finding Peter Putnam: The forgotten janitor who discovered the logic of the mind](https://nautil.us/finding-peter-putnam-1218035/)
 * [2025-06-28, 10:19:44](https://news.ycombinator.com/item?id=44403594) - [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
+* [2025-06-28, 10:07:38](https://news.ycombinator.com/item?id=44403547) - [Graph Theory Applications in Video Games](https://utk.claranguyen.me/talks.php?id=videogames)
 * [2025-06-28, 09:32:43](https://news.ycombinator.com/item?id=44403383) - [History of Cycling Maps](https://cyclemaps.blogspot.com/)
 * [2025-06-28, 09:13:00](https://news.ycombinator.com/item?id=44403295) - [Missing Heritability: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/missing-heritability-much-more-than)
 * [2025-06-28, 08:45:05](https://news.ycombinator.com/item?id=44403195) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
