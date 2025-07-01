@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 13:41:15](https://news.ycombinator.com/item?id=44433843) - [Aesop in Words of One Syllable](https://blog.pgdp.net/2025/07/01/aesop-in-words-of-one-syllable/)
+* [2025-07-01, 12:53:33](https://news.ycombinator.com/item?id=44433433) - [Waste into Construction Materials: Geopolymers from Recycled Sources](https://www.mdpi.com/2313-4321/10/3/118)
 * [2025-07-01, 12:49:42](https://news.ycombinator.com/item?id=44433409) - [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
 * [2025-07-01, 10:31:12](https://news.ycombinator.com/item?id=44432444) - [The average chess players of Bletchley Park and AI research in Britain](https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html)
 * [2025-07-01, 10:20:27](https://news.ycombinator.com/item?id=44432385) - [Cloudflare introduces pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
