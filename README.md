@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-01, 14:41:48](https://news.ycombinator.com/item?id=44434355) - [I am not a supplier (2022)](https://www.softwaremaxims.com/blog/not-a-supplier)
+* [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434575) - [Ask HN: Freelancer? Seeking freelancer? (July 2025)](https://news.ycombinator.com/item?id=44434575)
 * [2025-07-01, 14:08:11](https://news.ycombinator.com/item?id=44434062) - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
 * [2025-07-01, 14:00:30](https://news.ycombinator.com/item?id=44433994) - [Grammarly acquires Superhuman](https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/)
+* [2025-07-01, 13:46:56](https://news.ycombinator.com/item?id=44433899) - [Experience converting a mathematical software package to C++20 modules [PDF]](https://arxiv.org/abs/2506.21654)
 * [2025-07-01, 13:41:15](https://news.ycombinator.com/item?id=44433843) - [Aesop in Words of One Syllable](https://blog.pgdp.net/2025/07/01/aesop-in-words-of-one-syllable/)
-* [2025-07-01, 12:53:33](https://news.ycombinator.com/item?id=44433433) - [Waste into Construction Materials: Geopolymers from Recycled Sources](https://www.mdpi.com/2313-4321/10/3/118)
 * [2025-07-01, 12:52:50](https://news.ycombinator.com/item?id=44433429) - [Show HN: I built the tool I wished existed for moving Stripe between countries](https://www.stripemove.com/)
 * [2025-07-01, 12:49:42](https://news.ycombinator.com/item?id=44433409) - [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
 * [2025-07-01, 12:47:06](https://news.ycombinator.com/item?id=44433386) - [Show HN: Jobs by Referral: Find jobs in your LinkedIn network](https://jobsbyreferral.com/)
@@ -16,7 +16,6 @@
 * [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) is hiring a founder's associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
 * [2025-07-01, 00:01:15](https://news.ycombinator.com/item?id=44429225) - [Claude Code now supports hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
-* [2025-06-30, 22:37:06](https://news.ycombinator.com/item?id=44428674) - [GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
 * [2025-06-30, 22:08:59](https://news.ycombinator.com/item?id=44428438) - [Show HN: A continuation of IRS Direct File that can be self-hosted](https://github.com/openfiletax/openfile)
 * [2025-06-30, 20:53:55](https://news.ycombinator.com/item?id=44427757) - [The new skill in AI is not prompting, it's context engineering](https://www.philschmid.de/context-engineering)
 * [2025-06-30, 19:03:50](https://news.ycombinator.com/item?id=44426726) - [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
@@ -30,6 +29,7 @@
 * [2025-06-28, 14:12:10](https://news.ycombinator.com/item?id=44404831) - [Abstraction boundaries are optimization boundaries](https://blog.snork.dev/posts/abstraction-boundaries-are-optimization-boundaries.html)
 * [2025-06-28, 11:49:35](https://news.ycombinator.com/item?id=44403988) - [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
 * [2025-06-27, 20:08:24](https://news.ycombinator.com/item?id=44399838) - [Simulations reveal the secret to strengthening carbon fiber](https://www.ornl.gov/news/simulations-reveal-secret-strengthening-carbon-fiber)
+* [2025-06-27, 16:09:09](https://news.ycombinator.com/item?id=44397921) - [When Did Nature Burst into Vivid Color?](https://www.quantamagazine.org/when-did-nature-burst-into-vivid-color-20250627/)
 
 ## [Archives](archives/index.md)
 
