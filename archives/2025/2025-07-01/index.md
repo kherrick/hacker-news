@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 14:08:11](https://news.ycombinator.com/item?id=44434062) - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
+* [2025-07-01, 14:00:30](https://news.ycombinator.com/item?id=44433994) - [Grammarly acquires Superhuman](https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/)
 * [2025-07-01, 13:41:15](https://news.ycombinator.com/item?id=44433843) - [Aesop in Words of One Syllable](https://blog.pgdp.net/2025/07/01/aesop-in-words-of-one-syllable/)
 * [2025-07-01, 12:53:33](https://news.ycombinator.com/item?id=44433433) - [Waste into Construction Materials: Geopolymers from Recycled Sources](https://www.mdpi.com/2313-4321/10/3/118)
+* [2025-07-01, 12:52:50](https://news.ycombinator.com/item?id=44433429) - [Show HN: I built the tool I wished existed for moving Stripe between countries](https://www.stripemove.com/)
 * [2025-07-01, 12:49:42](https://news.ycombinator.com/item?id=44433409) - [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
+* [2025-07-01, 12:47:06](https://news.ycombinator.com/item?id=44433386) - [Show HN: Jobs by Referral: Find jobs in your LinkedIn network](https://jobsbyreferral.com/)
+* [2025-07-01, 12:27:31](https://news.ycombinator.com/item?id=44433222) - [RP2350pc Open Source Hardware all in one computer](https://olimex.wordpress.com/2025/07/01/rp2350pc-open-source-hardware-all-in-one-computer-with-rp2350b-8mb-psram-16mb-flash-four-usb-host-dvi-hdmi-output-and-audio-codec-for-retro-computer-emulation-and-education/)
 * [2025-07-01, 10:31:12](https://news.ycombinator.com/item?id=44432444) - [The average chess players of Bletchley Park and AI research in Britain](https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html)
 * [2025-07-01, 10:20:27](https://news.ycombinator.com/item?id=44432385) - [Cloudflare introduces pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [2025-07-01, 10:07:59](https://news.ycombinator.com/item?id=44432322) - [Show HN: ToplingDB - A Persistent Key-Value Store for External Storage](https://github.com/topling/toplingdb)
