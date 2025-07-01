@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-01, 14:41:48](https://news.ycombinator.com/item?id=44434355) - [I am not a supplier (2022)](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [2025-07-01, 14:08:11](https://news.ycombinator.com/item?id=44434062) - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
 * [2025-07-01, 14:00:30](https://news.ycombinator.com/item?id=44433994) - [Grammarly acquires Superhuman](https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/)
 * [2025-07-01, 13:41:15](https://news.ycombinator.com/item?id=44433843) - [Aesop in Words of One Syllable](https://blog.pgdp.net/2025/07/01/aesop-in-words-of-one-syllable/)
@@ -14,7 +15,6 @@
 * [2025-07-01, 10:07:59](https://news.ycombinator.com/item?id=44432322) - [Show HN: ToplingDB - A Persistent Key-Value Store for External Storage](https://github.com/topling/toplingdb)
 * [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) is hiring a founder's associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
-* [2025-07-01, 00:58:22](https://news.ycombinator.com/item?id=44429531) - [Pluto is a unique dialect of Lua with a focus on general-purpose programming](https://github.com/PlutoLang/Pluto)
 * [2025-07-01, 00:01:15](https://news.ycombinator.com/item?id=44429225) - [Claude Code now supports hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
 * [2025-06-30, 22:37:06](https://news.ycombinator.com/item?id=44428674) - [GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
 * [2025-06-30, 22:08:59](https://news.ycombinator.com/item?id=44428438) - [Show HN: A continuation of IRS Direct File that can be self-hosted](https://github.com/openfiletax/openfile)

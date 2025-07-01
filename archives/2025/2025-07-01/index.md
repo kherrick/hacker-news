@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 14:41:48](https://news.ycombinator.com/item?id=44434355) - [I am not a supplier (2022)](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [2025-07-01, 14:08:11](https://news.ycombinator.com/item?id=44434062) - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
 * [2025-07-01, 14:00:30](https://news.ycombinator.com/item?id=44433994) - [Grammarly acquires Superhuman](https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/)
 * [2025-07-01, 13:41:15](https://news.ycombinator.com/item?id=44433843) - [Aesop in Words of One Syllable](https://blog.pgdp.net/2025/07/01/aesop-in-words-of-one-syllable/)
