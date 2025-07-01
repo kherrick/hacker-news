@@ -73,6 +73,7 @@
 * [2025-06-29, 06:53:48](https://news.ycombinator.com/item?id=44410843) - [It's Known as 'The List'–and It's a Secret File of AI Geniuses](https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc)
 * [2025-06-29, 06:47:01](https://news.ycombinator.com/item?id=44410822) - [Magnetic Tape Storage Technology: usage, history, and future outlook](https://dl.acm.org/doi/10.1145/3708997)
 * [2025-06-29, 05:44:13](https://news.ycombinator.com/item?id=44410616) - [Brave creates new TLD on the blockchain](https://brave.com/blog/brave-tld/)
+* [2025-06-29, 05:17:43](https://news.ycombinator.com/item?id=44410538) - [Slouching Towards Sensemaking](https://karanchawla.io/2025/06/29/sensemaking)
 * [2025-06-29, 03:48:36](https://news.ycombinator.com/item?id=44410217) - [Against AI: An Open Letter from Writers to Publishers](https://lithub.com/against-ai-an-open-letter-from-writers-to-publishers/)
 * [2025-06-29, 03:34:02](https://news.ycombinator.com/item?id=44410159) - [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/)
 * [2025-06-29, 03:28:10](https://news.ycombinator.com/item?id=44410135) - [Harvest Move – A game that requires careful movement](https://jslegend.itch.io/harvest-move)
