@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-01, 10:20:27](https://news.ycombinator.com/item?id=44432385) - [Cloudflare introduces pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
+* [2025-07-01, 08:53:02](https://news.ycombinator.com/item?id=44431943) - [Show HN: I Built a Paul Graham AI Advisor for Founders and Hackers](https://paulgraham.resurrect.space)
 * [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
-* [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
 * [2025-07-01, 05:52:40](https://news.ycombinator.com/item?id=44430984) - [Aging-related inflammation is not universal across human populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
 * [2025-07-01, 03:33:49](https://news.ycombinator.com/item?id=44430311) - [Small language models are the future of agentic AI](https://arxiv.org/abs/2506.02153)
 * [2025-07-01, 00:58:22](https://news.ycombinator.com/item?id=44429531) - [Pluto is a unique dialect of Lua with a focus on general-purpose programming](https://github.com/PlutoLang/Pluto)
