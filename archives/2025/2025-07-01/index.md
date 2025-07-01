@@ -8,6 +8,7 @@
 * [2025-07-01, 18:08:38](https://news.ycombinator.com/item?id=44436579) - [Sam Altman Slams Meta's AI Talent Poaching: 'Missionaries Will Beat Mercenaries'](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
 * [2025-07-01, 18:07:09](https://news.ycombinator.com/item?id=44436555) - [The Hoyle State (2021)](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
 * [2025-07-01, 17:40:57](https://news.ycombinator.com/item?id=44436290) - [What should a native DOM templating API look like?](https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like/)
+* [2025-07-01, 17:13:11](https://news.ycombinator.com/item?id=44436031) - [Show HN: Arch-Router – 1.5B model for LLM routing by preferences, not benchmarks](https://news.ycombinator.com/item?id=44436031)
 * [2025-07-01, 17:11:40](https://news.ycombinator.com/item?id=44436006) - [Sliding Window Technique Visualizer](https://sliding-window-visualizer-bryanneumann.replit.app/)
 * [2025-07-01, 17:01:26](https://news.ycombinator.com/item?id=44435917) - [Amazon Is on the Cusp of Using More Robots Than Humans in Its Warehouses](https://www.wsj.com/tech/amazon-warehouse-robots-automation-942b814f)
 * [2025-07-01, 17:00:30](https://news.ycombinator.com/item?id=44435910) - [Cua (YC X25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25)
