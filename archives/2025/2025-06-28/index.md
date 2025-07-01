@@ -46,6 +46,7 @@
 * [2025-06-28, 14:45:43](https://news.ycombinator.com/item?id=44405057) - [Addictions Are Being Engineered](https://masonyarbrough.substack.com/p/engineered-addictions)
 * [2025-06-28, 14:34:41](https://news.ycombinator.com/item?id=44404999) - [The Coming Storm: How Mediterranean Water Collapse Could Reshape Britain](https://fromtheprism.com/mediterranean-water-crisis-britain.html)
 * [2025-06-28, 14:22:10](https://news.ycombinator.com/item?id=44404905) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
+* [2025-06-28, 14:21:06](https://news.ycombinator.com/item?id=44404897) - [Publishing Pepys](https://literaryreview.co.uk/publishing-pepys)
 * [2025-06-28, 14:18:18](https://news.ycombinator.com/item?id=44404876) - [Sirius: A GPU-native SQL engine](https://github.com/sirius-db/sirius)
 * [2025-06-28, 14:05:47](https://news.ycombinator.com/item?id=44404782) - [Facebook is asking to use Meta AI on photos in your camera roll you haven't yet](https://techcrunch.com/2025/06/27/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared/)
 * [2025-06-28, 13:33:10](https://news.ycombinator.com/item?id=44404601) - [Antitrust defies politics' law of gravity](https://pluralistic.net/2025/06/28/mamdani/#trustbusting)
