@@ -24,6 +24,7 @@
 * [2025-06-28, 18:16:58](https://news.ycombinator.com/item?id=44406881) - [Meta Spends $14B to Hire a Single Guy](https://theahura.substack.com/p/tech-things-meta-spends-14b-to-hire)
 * [2025-06-28, 18:15:10](https://news.ycombinator.com/item?id=44406866) - [Making a $20 smart boombox [video]](https://www.youtube.com/watch?v=P3XCPywlXBI)
 * [2025-06-28, 18:10:50](https://news.ycombinator.com/item?id=44406837) - [Use Plain Text Email](https://useplaintext.email/)
+* [2025-06-28, 18:06:01](https://news.ycombinator.com/item?id=44406799) - [Getting weather data from my Acurite sensors was shockingly easy](https://www.jeffgeerling.com/blog/2025/getting-weather-data-my-acurite-sensors-was-shockingly-easy)
 * [2025-06-28, 18:01:43](https://news.ycombinator.com/item?id=44406768) - [NovaCustom – Framework Laptop alternative focusing on privacy](https://novacustom.com/)
 * [2025-06-28, 17:59:26](https://news.ycombinator.com/item?id=44406750) - [US Justice Department settles antitrust case for HPE's $14B takeover of Juniper](https://www.reuters.com/business/us-doj-settles-antitrust-case-hpes-14-billion-takeover-juniper-2025-06-28/)
 * [2025-06-28, 17:59:11](https://news.ycombinator.com/item?id=44406749) - [BYU study: Why some people choose not to use artificial intelligence](https://news.byu.edu/intellect/byu-study-finds-the-real-reasons-why-some-people-choose-not-to-use-artificial-intelligence)
