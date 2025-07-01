@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 18:07:09](https://news.ycombinator.com/item?id=44436555) - [The Hoyle State (2021)](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
+* [2025-07-01, 17:40:57](https://news.ycombinator.com/item?id=44436290) - [What should a native DOM templating API look like?](https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like/)
 * [2025-07-01, 17:11:40](https://news.ycombinator.com/item?id=44436006) - [Sliding Window Technique Visualizer](https://sliding-window-visualizer-bryanneumann.replit.app/)
+* [2025-07-01, 17:01:26](https://news.ycombinator.com/item?id=44435917) - [Amazon Is on the Cusp of Using More Robots Than Humans in Its Warehouses](https://www.wsj.com/tech/amazon-warehouse-robots-automation-942b814f)
 * [2025-07-01, 17:00:30](https://news.ycombinator.com/item?id=44435910) - [Cua (YC X25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25)
 * [2025-07-01, 16:31:02](https://news.ycombinator.com/item?id=44435572) - [Benchmarking Postgres](https://planetscale.com/blog/benchmarking-postgres)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
@@ -13,6 +16,7 @@
 * [2025-07-01, 15:41:30](https://news.ycombinator.com/item?id=44435037) - [TikTok moderators in Turkey fight trauma, burnout, union-busting](https://restofworld.org/2025/tiktok-moderators-turkey/)
 * [2025-07-01, 15:35:50](https://news.ycombinator.com/item?id=44434970) - [Drug cartel hacked FBI official's phone to track and kill informants](https://arstechnica.com/security/2025/06/mexican-drug-cartel-hacked-fbi-officials-phone-to-track-informant-report-says/)
 * [2025-07-01, 15:31:45](https://news.ycombinator.com/item?id=44434938) - [HN Slop: AI Startup Ideas from Hacker News](https://www.josh.ing/hn-slop)
+* [2025-07-01, 15:08:29](https://news.ycombinator.com/item?id=44434667) - [PlanetScale for Postgres](https://planetscale.com/blog/planetscale-for-postgres)
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434576) - [Ask HN: Who is hiring? (July 2025)](https://news.ycombinator.com/item?id=44434576)
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434575) - [Ask HN: Freelancer? Seeking freelancer? (July 2025)](https://news.ycombinator.com/item?id=44434575)
 * [2025-07-01, 14:41:48](https://news.ycombinator.com/item?id=44434355) - [I am not a supplier (2022)](https://www.softwaremaxims.com/blog/not-a-supplier)
