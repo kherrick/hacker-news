@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
 * [2025-07-01, 06:48:50](https://news.ycombinator.com/item?id=44431251) - [Ask HN: Is your company forcing use of AI?](https://news.ycombinator.com/item?id=44431251)
 * [2025-07-01, 05:52:40](https://news.ycombinator.com/item?id=44430984) - [Aging-Related Inflammation Is Not Universal Across Human Populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
 * [2025-07-01, 04:20:25](https://news.ycombinator.com/item?id=44430561) - [DeepSeek App Faces Ban in Germany for Illegal Transfer of User Data](https://www.searchenginejournal.com/deepseek-app-faces-ban-in-germany-for-illegal-transfer-of-user-data/550172/)
