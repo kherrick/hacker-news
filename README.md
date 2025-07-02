@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-02, 10:29:48](https://news.ycombinator.com/item?id=44442014) - [Intrasexually competitive women advise other women to cut off more hair](https://www.sciencedirect.com/science/article/pii/S019188692300329X)
 * [2025-07-02, 10:03:38](https://news.ycombinator.com/item?id=44441855) - [Spain and Brazil push global action to tax the super-rich and curb inequality](https://news.un.org/en/story/2025/07/1165146)
 * [2025-07-02, 09:05:43](https://news.ycombinator.com/item?id=44441530) - [Ask HN: Why there is no demand for my SaaS when competition is killing it?](https://news.ycombinator.com/item?id=44441530)
 * [2025-07-02, 07:36:41](https://news.ycombinator.com/item?id=44441089) - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
@@ -25,6 +24,7 @@
 * [2025-06-29, 13:03:12](https://news.ycombinator.com/item?id=44412808) - [The Titanic's Best Lifeboat](https://99percentinvisible.org/episode/632-the-titanics-best-lifeboat/)
 * [2025-06-29, 12:52:42](https://news.ycombinator.com/item?id=44412726) - [Show HN: A modern C++20 AI SDK (GPT‑4o, Claude 3.5, tool‑calling)](https://news.ycombinator.com/item?id=44412726)
 * [2025-06-29, 12:16:14](https://news.ycombinator.com/item?id=44412488) - [A neural brain implant provides near instantaneous speech](https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/)
+* [2025-06-29, 12:14:57](https://news.ycombinator.com/item?id=44412480) - [Swearing as a Response to Pain: Assessing Effects of Novel Swear Words](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full)
 * [2025-06-29, 10:11:55](https://news.ycombinator.com/item?id=44411825) - [PortablE](https://cshandley.co.uk/portable/)
 * [2025-06-28, 17:20:34](https://news.ycombinator.com/item?id=44406401) - [Soldier's wrist purse discovered at Roman legionary camp](https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513)
 * [2025-06-28, 13:07:19](https://news.ycombinator.com/item?id=44404447) - [Show HN: I made a 2D game engine in Dart](https://bullseye2d.org/)
