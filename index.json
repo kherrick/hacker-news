@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-02, 15:11:27",
+      "https://news.ycombinator.com/item?id=44444722"
+    ],
+    [
+      "Firefox 120 to Firefox 141 Web Browser Benchmarks",
+      "https://www.phoronix.com/review/firefox-benchmarks-120-141"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 14:57:06",
+      "https://news.ycombinator.com/item?id=44444556"
+    ],
+    [
+      "Ruby on Rails: The Open-Source Blueprint",
+      "https://blog.codeminer42.com/ruby-on-rails-the-open-source-blueprint/"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 14:06:43",
       "https://news.ycombinator.com/item?id=44443919"
     ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44443109"
     ],
     [
-      "Why I'm Dialing Back My LLM Usage",
+      "I'm dialing back my LLM usage",
       "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-07-02, 08:18:22",
-      "https://news.ycombinator.com/item?id=44441279"
-    ],
-    [
-      "More assorted notes on Liquid Glass",
-      "https://morrick.me/archives/10068"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 07:36:41",
       "https://news.ycombinator.com/item?id=44441089"
     ],
@@ -147,16 +157,6 @@
     [
       "Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory",
       "https://arxiv.org/abs/2503.01800"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 20:32:52",
-      "https://news.ycombinator.com/item?id=44437758"
-    ],
-    [
-      "The Roman Roads Research Association",
-      "https://www.romanroads.org/"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-07-01, 14:08:11",
-      "https://news.ycombinator.com/item?id=44434062"
-    ],
-    [
-      "Feasibility study of a mission to Sedna – Nuclear propulsion and solar sailing",
-      "https://arxiv.org/abs/2506.17732"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 12:49:42",
       "https://news.ycombinator.com/item?id=44433409"
     ],
     [
       "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
       "https://simedw.com/2025/06/23/introducing-spegel/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 08:25:49",
+      "https://news.ycombinator.com/item?id=44431786"
+    ],
+    [
+      "Automatically Rewrite Container Image References in Kubernetes",
+      "https://github.com/flemzord/mutating-registry-webhook"
     ]
   ],
   [
