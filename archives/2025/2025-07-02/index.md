@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Hack IKKO \"AI powered\" earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
+* [2025-07-02, 13:53:39](https://news.ycombinator.com/item?id=44443758) - [The first American 'scientific refugees' arrive in France](https://www.politico.eu/article/meet-first-academic-refugees-fleeing-us-france-science-program/)
+* [2025-07-02, 13:39:09](https://news.ycombinator.com/item?id=44443602) - [Tesla reports 14% decline in deliveries, marking second year-over-year drop](https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html)
 * [2025-07-02, 13:28:56](https://news.ycombinator.com/item?id=44443480) - [Cloudflare Introduces Default Blocking of A.I. Data Scrapers](https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html)
 * [2025-07-02, 12:00:35](https://news.ycombinator.com/item?id=44442676) - [Recurse Center (YC S10) Is Hiring a Career Facilitator](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080)
 * [2025-07-02, 11:39:12](https://news.ycombinator.com/item?id=44442473) - [Don't use \"click here\" as link text – W3C](https://www.w3.org/QA/Tips/noClickHere)
