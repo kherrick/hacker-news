@@ -11,22 +11,32 @@
   ],
   [
     [
-      "2025-07-02, 13:53:39",
-      "https://news.ycombinator.com/item?id=44443758"
+      "2025-07-02, 13:59:55",
+      "https://news.ycombinator.com/item?id=44443832"
     ],
     [
-      "The first American 'scientific refugees' arrive in France",
-      "https://www.politico.eu/article/meet-first-academic-refugees-fleeing-us-france-science-program/"
+      "Azure API vulnerability and roles misconfiguration compromise corporate networks",
+      "https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks"
     ]
   ],
   [
     [
-      "2025-07-02, 13:39:09",
-      "https://news.ycombinator.com/item?id=44443602"
+      "2025-07-02, 13:40:33",
+      "https://news.ycombinator.com/item?id=44443622"
     ],
     [
-      "Tesla reports 14% decline in deliveries, marking second year-over-year drop",
-      "https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html"
+      "Private sector lost 33k jobs, badly missing expectations of 100k increase",
+      "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 13:29:37",
+      "https://news.ycombinator.com/item?id=44443492"
+    ],
+    [
+      "What I learned gathering nootropic ratings",
+      "https://troof.blog/posts/nootropics/"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2025-07-02, 10:31:37",
-      "https://news.ycombinator.com/item?id=44442022"
-    ],
-    [
-      "Jack Welch, the Man Who Broke Capitalism (2022)",
-      "https://www.forbes.com/sites/kylewestaway/2022/05/31/jack-welch-the-man-who-broke-capitalism/"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 08:18:22",
       "https://news.ycombinator.com/item?id=44441279"
     ],
@@ -137,6 +137,16 @@
     [
       "Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory",
       "https://arxiv.org/abs/2503.01800"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 20:32:52",
+      "https://news.ycombinator.com/item?id=44437758"
+    ],
+    [
+      "The Roman Roads Research Association",
+      "https://www.romanroads.org/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
       "https://simedw.com/2025/06/23/introducing-spegel/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 13:41:09",
-      "https://news.ycombinator.com/item?id=44413083"
-    ],
-    [
-      "Performance Debugging with LLVM-mca: Simulating the CPU",
-      "https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/"
     ]
   ],
   [
