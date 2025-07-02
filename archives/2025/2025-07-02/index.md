@@ -13,6 +13,7 @@
 * [2025-07-02, 18:05:17](https://news.ycombinator.com/item?id=44446916) - [AI note takers are flooding Zoom calls as workers opt to skip meetings](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
 * [2025-07-02, 17:29:55](https://news.ycombinator.com/item?id=44446477) - [MindsDB (YC W20) Is Hiring for an AI Solutions Engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
 * [2025-07-02, 16:45:32](https://news.ycombinator.com/item?id=44445880) - [Stop Killing Games](https://www.stopkillinggames.com/)
+* [2025-07-02, 16:45:28](https://news.ycombinator.com/item?id=44445877) - [Features of D That I Love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
 * [2025-07-02, 16:26:37](https://news.ycombinator.com/item?id=44445646) - [ICEBlock, an app for anonymously reporting ICE sightings](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
 * [2025-07-02, 16:10:46](https://news.ycombinator.com/item?id=44445458) - [Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
 * [2025-07-02, 15:56:44](https://news.ycombinator.com/item?id=44445297) - [Content Independence Day: no AI crawl without compensation](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)
