@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 21:18:32](https://news.ycombinator.com/item?id=44448954) - [Physicists Start to Pin Down How Stars Forge Heavy Atoms](https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/)
 * [2025-07-02, 21:10:13](https://news.ycombinator.com/item?id=44448868) - [Websites hosting major US climate reports taken down](https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8)
 * [2025-07-02, 20:28:34](https://news.ycombinator.com/item?id=44448461) - [How did Soham Parekh get so many jobs?](https://news.ycombinator.com/item?id=44448461)
 * [2025-07-02, 19:38:14](https://news.ycombinator.com/item?id=44447927) - [Tesla's energy storage business gets sucked into the company's downward spiral](https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/)
