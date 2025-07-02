@@ -55,6 +55,7 @@
 * [2025-06-29, 13:55:18](https://news.ycombinator.com/item?id=44413185) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 * [2025-06-29, 13:55:07](https://news.ycombinator.com/item?id=44413184) - [Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow](https://github.com/Miladxsar23/smartstepper)
 * [2025-06-29, 13:41:09](https://news.ycombinator.com/item?id=44413083) - [Performance Debugging with LLVM-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
+* [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
 * [2025-06-29, 13:39:52](https://news.ycombinator.com/item?id=44413069) - [Europe approves first saliva-based contraceptive – no pill required](https://thenextweb.com/news/europe-approves-first-saliva-based-contraceptive-no-pill-required)
 * [2025-06-29, 13:03:12](https://news.ycombinator.com/item?id=44412808) - [The Titanic's Best Lifeboat](https://99percentinvisible.org/episode/632-the-titanics-best-lifeboat/)
 * [2025-06-29, 12:52:42](https://news.ycombinator.com/item?id=44412726) - [Show HN: A modern C++20 AI SDK (GPT‑4o, Claude 3.5, tool‑calling)](https://news.ycombinator.com/item?id=44412726)
