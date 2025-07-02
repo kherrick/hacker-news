@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-02, 21:10:13](https://news.ycombinator.com/item?id=44448868) - [Websites hosting major US climate reports taken down](https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8)
 * [2025-07-02, 19:38:14](https://news.ycombinator.com/item?id=44447927) - [Tesla's energy storage business gets sucked into the company's downward spiral](https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/)
 * [2025-07-02, 18:51:34](https://news.ycombinator.com/item?id=44447429) - [Evolution of Minimum Viable Product](https://raspasov.posthaven.com/evolution-of-minimum-viable-product)
 * [2025-07-02, 18:31:20](https://news.ycombinator.com/item?id=44447220) - [Law360 mandates reporters use AI \"bias\" detection on all stories](https://www.niemanlab.org/2025/07/law360-mandates-reporters-use-ai-bias-detection-on-all-stories/)
@@ -16,7 +17,6 @@
 * [2025-07-02, 11:39:12](https://news.ycombinator.com/item?id=44442473) - [Don’t use “click here” as link text (2001)](https://www.w3.org/QA/Tips/noClickHere)
 * [2025-07-02, 11:00:07](https://news.ycombinator.com/item?id=44442189) - [Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands](https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands)
 * [2025-07-02, 10:39:38](https://news.ycombinator.com/item?id=44442072) - [How large are large language models?](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
-* [2025-07-02, 08:18:22](https://news.ycombinator.com/item?id=44441279) - [More assorted notes on Liquid Glass](https://morrick.me/archives/10068)
 * [2025-07-02, 07:36:41](https://news.ycombinator.com/item?id=44441089) - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
 * [2025-07-01, 11:05:43](https://news.ycombinator.com/item?id=44432644) - [Finding and understanding bugs in C compilers [pdf] (2011)](https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
@@ -28,7 +28,7 @@
 * [2025-06-29, 17:07:05](https://news.ycombinator.com/item?id=44414630) - [The Evolution of Caching Libraries in Go](https://maypok86.github.io/otter/blog/cache-evolution/)
 * [2025-06-29, 14:10:57](https://news.ycombinator.com/item?id=44413308) - [Efficient set-membership filters and dictionaries based on SAT](https://github.com/NationalSecurityAgency/XORSATFilter)
 * [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
-* [2025-06-29, 12:16:14](https://news.ycombinator.com/item?id=44412488) - [A proof-of-concept neural brain implant providing speech](https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/)
+* [2025-06-29, 12:18:59](https://news.ycombinator.com/item?id=44412499) - [BCPL (2022)](https://www.cl.cam.ac.uk/~mr10/BCPL.html)
 * [2025-06-29, 09:03:20](https://news.ycombinator.com/item?id=44411445) - [WebAssembly Troubles part 4: Microwasm (2019)](http://troubles.md/microwasm/)
 
 ## [Archives](archives/index.md)
