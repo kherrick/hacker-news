@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-02, 19:04:49](https://news.ycombinator.com/item?id=44447573) - [The Bleach Community Is Ready for RFK Jr. To Make Their Dreams Come True](https://www.wired.com/story/chlorine-dioxide-bleach-mms-autism-rfk-fda-warning/)
 * [2025-07-02, 18:51:34](https://news.ycombinator.com/item?id=44447429) - [Evolution of Minimum Viable Product](https://raspasov.posthaven.com/evolution-of-minimum-viable-product)
 * [2025-07-02, 18:31:20](https://news.ycombinator.com/item?id=44447220) - [Law360 mandates reporters use AI \"bias\" detection on all stories](https://www.niemanlab.org/2025/07/law360-mandates-reporters-use-ai-bias-detection-on-all-stories/)
 * [2025-07-02, 18:05:20](https://news.ycombinator.com/item?id=44446917) - [Couchers is officially out of Beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
@@ -7,8 +8,6 @@
 * [2025-07-02, 17:29:55](https://news.ycombinator.com/item?id=44446477) - [MindsDB (YC W20) is hiring an AI solutions engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
 * [2025-07-02, 16:10:46](https://news.ycombinator.com/item?id=44445458) - [Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
 * [2025-07-02, 15:51:03](https://news.ycombinator.com/item?id=44445238) - [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
-* [2025-07-02, 15:47:32](https://news.ycombinator.com/item?id=44445180) - [ICEBlock climbs to the top of the App Store charts after officials slam it](https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html)
-* [2025-07-02, 15:33:09](https://news.ycombinator.com/item?id=44444987) - [Double is winding down](https://double.finance/blog/wind_down)
 * [2025-07-02, 15:03:09](https://news.ycombinator.com/item?id=44444626) - [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients)
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Exploiting the IKKO Activebuds \"AI powered\" earbuds](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 13:59:55](https://news.ycombinator.com/item?id=44443832) - [Azure API vulnerability and roles misconfiguration compromise corporate networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
@@ -30,6 +29,7 @@
 * [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
 * [2025-06-29, 12:16:14](https://news.ycombinator.com/item?id=44412488) - [A proof-of-concept neural brain implant providing speech](https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/)
 * [2025-06-29, 09:03:20](https://news.ycombinator.com/item?id=44411445) - [WebAssembly Troubles part 4: Microwasm (2019)](http://troubles.md/microwasm/)
+* [2025-06-29, 08:19:59](https://news.ycombinator.com/item?id=44411252) - [Chatbot Flow Editor – Visual tool for designing conversation flows](https://github.com/enumura1/chatbot-flow-editor)
 
 ## [Archives](archives/index.md)
 
