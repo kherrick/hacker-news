@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-02, 18:05:20",
+      "https://news.ycombinator.com/item?id=44446917"
+    ],
+    [
+      "Couchers is officially out of Beta",
+      "https://couchers.org/blog/2025/07/01/releasing-couchers-v1"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 17:29:55",
       "https://news.ycombinator.com/item?id=44446477"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-07-02, 10:51:16",
-      "https://news.ycombinator.com/item?id=44442134"
-    ],
-    [
-      "They tried Made in the USA – it was too expensive for their customers",
-      "https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 10:39:38",
       "https://news.ycombinator.com/item?id=44442072"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-06-29, 14:10:57",
+      "https://news.ycombinator.com/item?id=44413308"
+    ],
+    [
+      "Efficient set-membership filters and dictionaries based on SAT",
+      "https://github.com/NationalSecurityAgency/XORSATFilter"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 13:40:19",
       "https://news.ycombinator.com/item?id=44413076"
     ],
@@ -287,16 +297,6 @@
     [
       "IntyBASIC: A Basic Compiler for Intellivision",
       "https://nanochess.org/intybasic.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 12:33:44",
-      "https://news.ycombinator.com/item?id=44404243"
-    ],
-    [
-      "Why Do Swallows Fly to the Korean DMZ?",
-      "https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/"
     ]
   ]
 ]
