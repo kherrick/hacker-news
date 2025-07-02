@@ -28,8 +28,8 @@
 * [2025-06-29, 14:10:57](https://news.ycombinator.com/item?id=44413308) - [Efficient set-membership filters and dictionaries based on SAT](https://github.com/NationalSecurityAgency/XORSATFilter)
 * [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
 * [2025-06-29, 12:16:14](https://news.ycombinator.com/item?id=44412488) - [A proof-of-concept neural brain implant providing speech](https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/)
+* [2025-06-29, 09:03:20](https://news.ycombinator.com/item?id=44411445) - [WebAssembly Troubles part 4: Microwasm (2019)](http://troubles.md/microwasm/)
 * [2025-06-29, 08:19:59](https://news.ycombinator.com/item?id=44411252) - [Chatbot Flow Editor – Visual tool for designing conversation flows](https://github.com/enumura1/chatbot-flow-editor)
-* [2025-06-29, 05:17:21](https://news.ycombinator.com/item?id=44410537) - [IntyBASIC: A Basic Compiler for Intellivision](https://nanochess.org/intybasic.html)
 
 ## [Archives](archives/index.md)
 

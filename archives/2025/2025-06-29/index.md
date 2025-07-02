@@ -74,6 +74,7 @@
 * [2025-06-29, 10:11:55](https://news.ycombinator.com/item?id=44411825) - [PortablE](https://cshandley.co.uk/portable/)
 * [2025-06-29, 09:30:09](https://news.ycombinator.com/item?id=44411586) - [Show HN: A local secrets manager with easy backup](https://github.com/raiyanyahya/yacs)
 * [2025-06-29, 09:28:57](https://news.ycombinator.com/item?id=44411577) - [Did Lead Poisoning Create a Generation of Serial Killers?](https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers)
+* [2025-06-29, 09:03:20](https://news.ycombinator.com/item?id=44411445) - [WebAssembly Troubles part 4: Microwasm (2019)](http://troubles.md/microwasm/)
 * [2025-06-29, 08:23:40](https://news.ycombinator.com/item?id=44411273) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 * [2025-06-29, 08:19:59](https://news.ycombinator.com/item?id=44411252) - [Chatbot Flow Editor – Visual tool for designing conversation flows](https://github.com/enumura1/chatbot-flow-editor)
 * [2025-06-29, 08:09:08](https://news.ycombinator.com/item?id=44411185) - [AI slop security reports submitted to curl](https://gist.github.com/bagder/07f7581f6e3d78ef37dfbfc81fd1d1cd)
