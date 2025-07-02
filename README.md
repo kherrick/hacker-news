@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-02, 16:45:32](https://news.ycombinator.com/item?id=44445880) - [Stop Killing Games](https://www.stopkillinggames.com/)
 * [2025-07-02, 16:26:37](https://news.ycombinator.com/item?id=44445646) - [ICEBlock, an app for anonymously reporting ICE sightings](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
 * [2025-07-02, 16:10:46](https://news.ycombinator.com/item?id=44445458) - [Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
 * [2025-07-02, 15:56:44](https://news.ycombinator.com/item?id=44445297) - [Content Independence Day: no AI crawl without compensation](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)
 * [2025-07-02, 15:51:03](https://news.ycombinator.com/item?id=44445238) - [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
 * [2025-07-02, 15:47:32](https://news.ycombinator.com/item?id=44445180) - [ICEBlock climbs to the top of the App Store charts after officials slam it](https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html)
-* [2025-07-02, 15:38:04](https://news.ycombinator.com/item?id=44445042) - [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)
 * [2025-07-02, 15:33:09](https://news.ycombinator.com/item?id=44444987) - [Double Is Winding Down](https://double.finance/blog/wind_down)
 * [2025-07-02, 15:11:27](https://news.ycombinator.com/item?id=44444722) - [Firefox 120 to Firefox 141 Web Browser Benchmarks](https://www.phoronix.com/review/firefox-benchmarks-120-141)
 * [2025-07-02, 15:03:09](https://news.ycombinator.com/item?id=44444626) - [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients)
