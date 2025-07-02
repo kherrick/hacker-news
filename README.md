@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-02, 04:56:15](https://news.ycombinator.com/item?id=44440362) - [Why Big Tech Turned Against Democrats – and Democracy](https://paulkrugman.substack.com/p/why-big-tech-turned-against-democrats)
 * [2025-07-02, 04:27:48](https://news.ycombinator.com/item?id=44440262) - [When we die do we still have any of the original cells from our birth?](https://www.quora.com/When-we-die-do-we-still-have-any-of-the-original-cells-from-our-birth)
 * [2025-07-02, 00:31:48](https://news.ycombinator.com/item?id=44439242) - [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800)
 * [2025-07-01, 23:59:26](https://news.ycombinator.com/item?id=44439058) - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
@@ -28,7 +29,6 @@
 * [2025-06-28, 17:20:34](https://news.ycombinator.com/item?id=44406401) - [Soldier's wrist purse discovered at Roman legionary camp](https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513)
 * [2025-06-28, 13:07:19](https://news.ycombinator.com/item?id=44404447) - [Show HN: I made a 2D game engine in Dart](https://bullseye2d.org/)
 * [2025-06-28, 12:33:44](https://news.ycombinator.com/item?id=44404243) - [Why Do Swallows Fly to the Korean DMZ?](https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/)
-* [2025-06-28, 11:49:35](https://news.ycombinator.com/item?id=44403988) - [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
 * [2025-06-28, 10:07:38](https://news.ycombinator.com/item?id=44403547) - [Graph Theory Applications in Video Games](https://utk.claranguyen.me/talks.php?id=videogames)
 
 ## [Archives](archives/index.md)
