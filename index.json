@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-02, 16:26:37",
+      "https://news.ycombinator.com/item?id=44445646"
+    ],
+    [
+      "ICEBlock, an app for anonymously reporting ICE sightings",
+      "https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 15:56:44",
+      "https://news.ycombinator.com/item?id=44445297"
+    ],
+    [
+      "Content Independence Day: no AI crawl without compensation",
+      "https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 15:51:03",
+      "https://news.ycombinator.com/item?id=44445238"
+    ],
+    [
+      "Show HN: CSS generator for a high-def glass effect",
+      "https://glass3d.dev/"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 15:47:32",
       "https://news.ycombinator.com/item?id=44445180"
     ],
@@ -17,6 +47,16 @@
     [
       "Show HN: I built an AI comic generator with consistent characters",
       "https://www.glimora.ai"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 15:33:09",
+      "https://news.ycombinator.com/item?id=44444987"
+    ],
+    [
+      "Double Is Winding Down",
+      "https://double.finance/blog/wind_down"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44443919"
     ],
     [
-      "Hack IKKO \"AI powered\" earbuds to run DOOM, stole OpenAI API key, customer data",
+      "Exploiting the IKKO Activebuds \"AI powered\" earbuds",
       "https://blog.mgdproductions.com/ikko-activebuds/"
     ]
   ],
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2025-07-01, 16:43:19",
-      "https://news.ycombinator.com/item?id=44435716"
-    ],
-    [
-      "Code-GUI bidirectional editing via LSP",
-      "https://jamesbvaughan.com/bidirectional-editing/"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 16:22:55",
       "https://news.ycombinator.com/item?id=44435484"
     ],
@@ -231,22 +261,12 @@
   ],
   [
     [
-      "2025-07-01, 12:49:42",
-      "https://news.ycombinator.com/item?id=44433409"
+      "2025-06-29, 17:53:42",
+      "https://news.ycombinator.com/item?id=44414965"
     ],
     [
-      "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
-      "https://simedw.com/2025/06/23/introducing-spegel/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 08:25:49",
-      "https://news.ycombinator.com/item?id=44431786"
-    ],
-    [
-      "Automatically Rewrite Container Image References in Kubernetes",
-      "https://github.com/flemzord/mutating-registry-webhook"
+      "A List Is a Monad",
+      "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "IntyBASIC: A Basic Compiler for Intellivision",
       "https://nanochess.org/intybasic.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 17:20:34",
-      "https://news.ycombinator.com/item?id=44406401"
-    ],
-    [
-      "Soldier’s wrist purse discovered at Roman legionary camp",
-      "https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 12:33:44",
-      "https://news.ycombinator.com/item?id=44404243"
-    ],
-    [
-      "Why Do Swallows Fly to the Korean DMZ?",
-      "https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/"
     ]
   ]
 ]
