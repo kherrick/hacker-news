@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 11:00:07](https://news.ycombinator.com/item?id=44442189) - [Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands](https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands)
+* [2025-07-02, 10:51:16](https://news.ycombinator.com/item?id=44442134) - [They tried Made in the USA – it was too expensive for their customers](https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/)
+* [2025-07-02, 10:39:38](https://news.ycombinator.com/item?id=44442072) - [How large are large language models? (2025)](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
+* [2025-07-02, 10:31:37](https://news.ycombinator.com/item?id=44442022) - [Jack Welch, the Man Who Broke Capitalism (2022)](https://www.forbes.com/sites/kylewestaway/2022/05/31/jack-welch-the-man-who-broke-capitalism/)
+* [2025-07-02, 10:31:26](https://news.ycombinator.com/item?id=44442020) - [Gemini mirrored the user. Claude said \"I love you.\" We recorded the drift](https://drive.proton.me/urls/QZQ6QN5AVM#xp94MAFlT8gD)
 * [2025-07-02, 10:29:48](https://news.ycombinator.com/item?id=44442014) - [Intrasexually competitive women advise other women to cut off more hair](https://www.sciencedirect.com/science/article/pii/S019188692300329X)
 * [2025-07-02, 10:03:38](https://news.ycombinator.com/item?id=44441855) - [Spain and Brazil push global action to tax the super-rich and curb inequality](https://news.un.org/en/story/2025/07/1165146)
 * [2025-07-02, 09:05:43](https://news.ycombinator.com/item?id=44441530) - [Ask HN: Why there is no demand for my SaaS when competition is killing it?](https://news.ycombinator.com/item?id=44441530)
