@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-02, 04:27:48](https://news.ycombinator.com/item?id=44440262) - [When we die do we still have any of the original cells from our birth?](https://www.quora.com/When-we-die-do-we-still-have-any-of-the-original-cells-from-our-birth)
 * [2025-07-02, 00:31:48](https://news.ycombinator.com/item?id=44439242) - [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800)
 * [2025-07-01, 23:59:26](https://news.ycombinator.com/item?id=44439058) - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
 * [2025-07-01, 21:14:29](https://news.ycombinator.com/item?id=44438065) - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
@@ -7,7 +8,7 @@
 * [2025-07-01, 20:32:52](https://news.ycombinator.com/item?id=44437758) - [The Roman Roads Research Association](https://www.romanroads.org/)
 * [2025-07-01, 20:26:35](https://news.ycombinator.com/item?id=44437712) - [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/)
 * [2025-07-01, 19:39:14](https://news.ycombinator.com/item?id=44437316) - [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
-* [2025-07-01, 19:00:24](https://news.ycombinator.com/item?id=44437015) - [The wanton destruction of a creative-tech era](https://blog.greg.technology/2025/06/30/fastly.html)
+* [2025-07-01, 18:08:38](https://news.ycombinator.com/item?id=44436579) - [Sam Altman Slams Meta's AI Talent Poaching: 'Missionaries Will Beat Mercenaries'](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
 * [2025-07-01, 18:07:09](https://news.ycombinator.com/item?id=44436555) - [The Hoyle State (2021)](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
 * [2025-07-01, 17:00:30](https://news.ycombinator.com/item?id=44435910) - [Cua (YC X25) is hiring an engineer](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25)
 * [2025-07-01, 16:43:19](https://news.ycombinator.com/item?id=44435716) - [Code⇄GUI bidirectional editing via LSP](https://jamesbvaughan.com/bidirectional-editing/)
@@ -21,7 +22,6 @@
 * [2025-07-01, 12:49:42](https://news.ycombinator.com/item?id=44433409) - [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
 * [2025-07-01, 12:47:06](https://news.ycombinator.com/item?id=44433386) - [Show HN: Jobs by Referral: Find jobs in your LinkedIn network](https://jobsbyreferral.com/)
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
-* [2025-06-29, 15:39:16](https://news.ycombinator.com/item?id=44413957) - [All Good Editors Are Pirates: In Memory of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/all-good-editors-are-pirates)
 * [2025-06-29, 15:29:43](https://news.ycombinator.com/item?id=44413895) - [Voyage of Magellan – Epilogue: Sailor of Eternal Fame](https://analog-antiquarian.net/2025/06/27/epilogue-sailor-of-eternal-fame/)
 * [2025-06-29, 14:30:31](https://news.ycombinator.com/item?id=44413461) - [Victory Shoot: Hanemono in Toy Form](https://nicole.express/2025/victory-at-what-cost.html)
 * [2025-06-29, 12:14:57](https://news.ycombinator.com/item?id=44412480) - [Swearing as a Response to Pain: Assessing Effects of Novel Swear Words](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full)
