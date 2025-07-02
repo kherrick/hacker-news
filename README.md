@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-02, 15:47:32](https://news.ycombinator.com/item?id=44445180) - [ICEBlock climbs to the top of the App Store charts after officials slam it](https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html)
+* [2025-07-02, 15:38:04](https://news.ycombinator.com/item?id=44445042) - [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)
 * [2025-07-02, 15:11:27](https://news.ycombinator.com/item?id=44444722) - [Firefox 120 to Firefox 141 Web Browser Benchmarks](https://www.phoronix.com/review/firefox-benchmarks-120-141)
 * [2025-07-02, 15:03:09](https://news.ycombinator.com/item?id=44444626) - [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients)
-* [2025-07-02, 14:57:06](https://news.ycombinator.com/item?id=44444556) - [Ruby on Rails: The Open-Source Blueprint](https://blog.codeminer42.com/ruby-on-rails-the-open-source-blueprint/)
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Hack IKKO \"AI powered\" earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 13:59:55](https://news.ycombinator.com/item?id=44443832) - [Azure API vulnerability and roles misconfiguration compromise corporate networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
 * [2025-07-02, 13:40:33](https://news.ycombinator.com/item?id=44443622) - [Private sector lost 33k jobs, badly missing expectations of 100k increase](https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html)
@@ -22,7 +23,6 @@
 * [2025-07-01, 18:08:38](https://news.ycombinator.com/item?id=44436579) - [Sam Altman Slams Meta’s AI Talent Poaching: 'Missionaries Will Beat Mercenaries'](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
 * [2025-07-01, 16:43:19](https://news.ycombinator.com/item?id=44435716) - [Code-GUI bidirectional editing via LSP](https://jamesbvaughan.com/bidirectional-editing/)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
-* [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434576) - [Ask HN: Who is hiring? (July 2025)](https://news.ycombinator.com/item?id=44434576)
 * [2025-07-01, 12:49:42](https://news.ycombinator.com/item?id=44433409) - [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
 * [2025-07-01, 08:25:49](https://news.ycombinator.com/item?id=44431786) - [Automatically Rewrite Container Image References in Kubernetes](https://github.com/flemzord/mutating-registry-webhook)
 * [2025-06-29, 12:16:14](https://news.ycombinator.com/item?id=44412488) - [A proof-of-concept neural brain implant providing speech](https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/)
