@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-02, 18:05:20](https://news.ycombinator.com/item?id=44446917) - [Couchers is officially out of Beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
 * [2025-07-02, 17:29:55](https://news.ycombinator.com/item?id=44446477) - [MindsDB (YC W20) Is Hiring for an AI Solutions Engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
 * [2025-07-02, 16:45:32](https://news.ycombinator.com/item?id=44445880) - [Stop Killing Games](https://www.stopkillinggames.com/)
 * [2025-07-02, 16:10:46](https://news.ycombinator.com/item?id=44445458) - [Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
@@ -16,7 +17,6 @@
 * [2025-07-02, 12:48:22](https://news.ycombinator.com/item?id=44443109) - [I'm dialing back my LLM usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)
 * [2025-07-02, 11:39:12](https://news.ycombinator.com/item?id=44442473) - [Don’t use “click here” as link text (2001)](https://www.w3.org/QA/Tips/noClickHere)
 * [2025-07-02, 11:00:07](https://news.ycombinator.com/item?id=44442189) - [Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands](https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands)
-* [2025-07-02, 10:51:16](https://news.ycombinator.com/item?id=44442134) - [They tried Made in the USA – it was too expensive for their customers](https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/)
 * [2025-07-02, 10:39:38](https://news.ycombinator.com/item?id=44442072) - [How large are large language models?](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
 * [2025-07-02, 07:36:41](https://news.ycombinator.com/item?id=44441089) - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
 * [2025-07-02, 00:31:48](https://news.ycombinator.com/item?id=44439242) - [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800)
@@ -25,11 +25,11 @@
 * [2025-07-01, 18:08:38](https://news.ycombinator.com/item?id=44436579) - [Sam Altman Slams Meta’s AI Talent Poaching: 'Missionaries Will Beat Mercenaries'](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
 * [2025-06-29, 17:53:42](https://news.ycombinator.com/item?id=44414965) - [A List Is a Monad](https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/)
+* [2025-06-29, 14:10:57](https://news.ycombinator.com/item?id=44413308) - [Efficient set-membership filters and dictionaries based on SAT](https://github.com/NationalSecurityAgency/XORSATFilter)
 * [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
 * [2025-06-29, 12:16:14](https://news.ycombinator.com/item?id=44412488) - [A proof-of-concept neural brain implant providing speech](https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/)
 * [2025-06-29, 08:19:59](https://news.ycombinator.com/item?id=44411252) - [Chatbot Flow Editor – Visual tool for designing conversation flows](https://github.com/enumura1/chatbot-flow-editor)
 * [2025-06-29, 05:17:21](https://news.ycombinator.com/item?id=44410537) - [IntyBASIC: A Basic Compiler for Intellivision](https://nanochess.org/intybasic.html)
-* [2025-06-28, 12:33:44](https://news.ycombinator.com/item?id=44404243) - [Why Do Swallows Fly to the Korean DMZ?](https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/)
 
 ## [Archives](archives/index.md)
 
