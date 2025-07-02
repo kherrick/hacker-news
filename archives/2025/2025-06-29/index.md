@@ -68,6 +68,7 @@
 * [2025-06-29, 10:59:26](https://news.ycombinator.com/item?id=44412080) - [Implementing fast TCP fingerprinting with eBPF](https://halb.it/posts/ebpf-fingerprinting-1/)
 * [2025-06-29, 10:48:13](https://news.ycombinator.com/item?id=44412009) - [Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station](https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/)
 * [2025-06-29, 10:27:35](https://news.ycombinator.com/item?id=44411894) - [Experimental Playgrounds](https://mssv.net/2025/01/26/experimental-playgrounds/)
+* [2025-06-29, 10:11:55](https://news.ycombinator.com/item?id=44411825) - [PortablE](https://cshandley.co.uk/portable/)
 * [2025-06-29, 09:30:09](https://news.ycombinator.com/item?id=44411586) - [Show HN: A local secrets manager with easy backup](https://github.com/raiyanyahya/yacs)
 * [2025-06-29, 09:28:57](https://news.ycombinator.com/item?id=44411577) - [Did Lead Poisoning Create a Generation of Serial Killers?](https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers)
 * [2025-06-29, 08:23:40](https://news.ycombinator.com/item?id=44411273) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
