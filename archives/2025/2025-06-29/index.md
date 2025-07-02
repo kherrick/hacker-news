@@ -61,6 +61,7 @@
 * [2025-06-29, 11:41:55](https://news.ycombinator.com/item?id=44412296) - [On the capacity, performance, and reliability of microSD cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
 * [2025-06-29, 11:24:17](https://news.ycombinator.com/item?id=44412207) - [Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok](https://github.com/octelium/octelium)
 * [2025-06-29, 11:06:32](https://news.ycombinator.com/item?id=44412120) - [Toyota RAV4 topples Tesla Model Y as best-selling car](https://www.carexpert.com.au/car-news/toyota-rav4-topples-tesla-model-y-as-worlds-best-selling-car)
+* [2025-06-29, 11:03:50](https://news.ycombinator.com/item?id=44412109) - [Teaching feed readers about YouTube subscriptions](https://lectio.news/)
 * [2025-06-29, 10:59:26](https://news.ycombinator.com/item?id=44412080) - [Implementing fast TCP fingerprinting with eBPF](https://halb.it/posts/ebpf-fingerprinting-1/)
 * [2025-06-29, 10:48:13](https://news.ycombinator.com/item?id=44412009) - [Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station](https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/)
 * [2025-06-29, 10:27:35](https://news.ycombinator.com/item?id=44411894) - [Experimental Playgrounds](https://mssv.net/2025/01/26/experimental-playgrounds/)
