@@ -12,7 +12,6 @@
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Exploiting the IKKO Activebuds \"AI powered\" earbuds](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 13:59:55](https://news.ycombinator.com/item?id=44443832) - [Azure API vulnerability and roles misconfiguration compromise corporate networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
 * [2025-07-02, 13:40:33](https://news.ycombinator.com/item?id=44443622) - [Private sector lost 33k jobs, badly missing expectations of 100k increase](https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html)
-* [2025-07-02, 13:29:37](https://news.ycombinator.com/item?id=44443492) - [What I learned gathering nootropic ratings](https://troof.blog/posts/nootropics/)
 * [2025-07-02, 13:28:56](https://news.ycombinator.com/item?id=44443480) - [Cloudflare Introduces Default Blocking of A.I. Data Scrapers](https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html)
 * [2025-07-02, 12:48:22](https://news.ycombinator.com/item?id=44443109) - [I'm dialing back my LLM usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)
 * [2025-07-02, 11:39:12](https://news.ycombinator.com/item?id=44442473) - [Don’t use “click here” as link text (2001)](https://www.w3.org/QA/Tips/noClickHere)
@@ -30,6 +29,7 @@
 * [2025-06-29, 12:16:14](https://news.ycombinator.com/item?id=44412488) - [A proof-of-concept neural brain implant providing speech](https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/)
 * [2025-06-29, 08:19:59](https://news.ycombinator.com/item?id=44411252) - [Chatbot Flow Editor – Visual tool for designing conversation flows](https://github.com/enumura1/chatbot-flow-editor)
 * [2025-06-29, 05:17:21](https://news.ycombinator.com/item?id=44410537) - [IntyBASIC: A Basic Compiler for Intellivision](https://nanochess.org/intybasic.html)
+* [2025-06-28, 12:33:44](https://news.ycombinator.com/item?id=44404243) - [Why Do Swallows Fly to the Korean DMZ?](https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/)
 
 ## [Archives](archives/index.md)
 
