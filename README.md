@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-02, 19:38:14](https://news.ycombinator.com/item?id=44447927) - [Tesla's energy storage business gets sucked into the company's downward spiral](https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/)
 * [2025-07-02, 18:51:34](https://news.ycombinator.com/item?id=44447429) - [Evolution of Minimum Viable Product](https://raspasov.posthaven.com/evolution-of-minimum-viable-product)
 * [2025-07-02, 18:31:20](https://news.ycombinator.com/item?id=44447220) - [Law360 mandates reporters use AI \"bias\" detection on all stories](https://www.niemanlab.org/2025/07/law360-mandates-reporters-use-ai-bias-detection-on-all-stories/)
 * [2025-07-02, 18:05:20](https://news.ycombinator.com/item?id=44446917) - [Couchers is officially out of beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
@@ -18,8 +19,7 @@
 * [2025-07-02, 10:39:38](https://news.ycombinator.com/item?id=44442072) - [How large are large language models?](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
 * [2025-07-02, 08:18:22](https://news.ycombinator.com/item?id=44441279) - [More assorted notes on Liquid Glass](https://morrick.me/archives/10068)
 * [2025-07-02, 07:36:41](https://news.ycombinator.com/item?id=44441089) - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
-* [2025-07-01, 20:26:35](https://news.ycombinator.com/item?id=44437712) - [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/)
-* [2025-07-01, 19:39:14](https://news.ycombinator.com/item?id=44437316) - [Figma files for proposed IPO](https://www.figma.com/blog/s1-public/)
+* [2025-07-01, 11:05:43](https://news.ycombinator.com/item?id=44432644) - [Finding and understanding bugs in C compilers [pdf]](https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
 * [2025-07-01, 09:35:05](https://news.ycombinator.com/item?id=44432142) - [Escher's art and computer science](https://github.com/gritzko/librdx/blob/master/blog/escher.md)
 * [2025-07-01, 07:55:53](https://news.ycombinator.com/item?id=44431638) - [Evidence of a 12,800-year-old shallow airburst depression in Louisiana](https://www.scienceopen.com/hosted-document?doi=10.14293/ACI.2025.0004)
