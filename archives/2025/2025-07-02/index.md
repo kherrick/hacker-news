@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Hack IKKO \"AI powered\" earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
+* [2025-07-02, 13:59:55](https://news.ycombinator.com/item?id=44443832) - [Azure API vulnerability and roles misconfiguration compromise corporate networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
 * [2025-07-02, 13:53:39](https://news.ycombinator.com/item?id=44443758) - [The first American 'scientific refugees' arrive in France](https://www.politico.eu/article/meet-first-academic-refugees-fleeing-us-france-science-program/)
+* [2025-07-02, 13:40:33](https://news.ycombinator.com/item?id=44443622) - [Private sector lost 33k jobs, badly missing expectations of 100k increase](https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html)
 * [2025-07-02, 13:39:09](https://news.ycombinator.com/item?id=44443602) - [Tesla reports 14% decline in deliveries, marking second year-over-year drop](https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html)
+* [2025-07-02, 13:29:37](https://news.ycombinator.com/item?id=44443492) - [What I learned gathering nootropic ratings](https://troof.blog/posts/nootropics/)
 * [2025-07-02, 13:28:56](https://news.ycombinator.com/item?id=44443480) - [Cloudflare Introduces Default Blocking of A.I. Data Scrapers](https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html)
 * [2025-07-02, 13:26:44](https://news.ycombinator.com/item?id=44443452) - [Microsoft to Cut 9k Workers in Second Wave of Major Layoffs](https://www.bloomberg.com/news/articles/2025-07-02/microsoft-to-cut-9-000-workers-in-second-wave-of-major-layoffs)
 * [2025-07-02, 12:00:35](https://news.ycombinator.com/item?id=44442676) - [Recurse Center (YC S10) Is Hiring a Career Facilitator](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080)
