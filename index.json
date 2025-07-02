@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-07-02, 12:00:35",
+      "https://news.ycombinator.com/item?id=44442676"
+    ],
+    [
+      "Recurse Center (YC S10) Is Hiring a Career Facilitator",
+      "https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 11:39:12",
+      "https://news.ycombinator.com/item?id=44442473"
+    ],
+    [
+      "Don't use \"click here\" as link text – W3C",
+      "https://www.w3.org/QA/Tips/noClickHere"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 11:04:45",
+      "https://news.ycombinator.com/item?id=44442219"
+    ],
+    [
+      "Math.Pow(-1, 2) == -1 in Windows 11 Insider build",
+      "https://github.com/dotnet/runtime/issues/117233"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 11:00:07",
       "https://news.ycombinator.com/item?id=44442189"
     ],
     [
       "Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands",
       "https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 10:51:16",
-      "https://news.ycombinator.com/item?id=44442134"
-    ],
-    [
-      "They tried Made in the USA – it was too expensive for their customers",
-      "https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Jack Welch, the Man Who Broke Capitalism (2022)",
       "https://www.forbes.com/sites/kylewestaway/2022/05/31/jack-welch-the-man-who-broke-capitalism/"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 10:03:38",
-      "https://news.ycombinator.com/item?id=44441855"
-    ],
-    [
-      "Spain and Brazil push global action to tax the super-rich and curb inequality",
-      "https://news.un.org/en/story/2025/07/1165146"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-07-01, 13:46:56",
-      "https://news.ycombinator.com/item?id=44433899"
-    ],
-    [
-      "Converting a large mathematical software package written in C++ to C++20 modules",
-      "https://arxiv.org/abs/2506.21654"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 12:49:42",
       "https://news.ycombinator.com/item?id=44433409"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2025-07-01, 12:47:06",
-      "https://news.ycombinator.com/item?id=44433386"
-    ],
-    [
-      "Show HN: Jobs by Referral: Find jobs in your LinkedIn network",
-      "https://jobsbyreferral.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 06:29:57",
       "https://news.ycombinator.com/item?id=44431178"
     ],
     [
       "OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine",
       "https://github.com/stan-smith/OpenFLOW"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 13:41:09",
+      "https://news.ycombinator.com/item?id=44413083"
+    ],
+    [
+      "Performance Debugging with LLVM-mca: Simulating the CPU",
+      "https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/"
     ]
   ],
   [
