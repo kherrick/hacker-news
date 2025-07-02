@@ -13,6 +13,7 @@
 * [2025-06-28, 21:52:24](https://news.ycombinator.com/item?id=44408459) - [Group of investors represented by YouTuber Perifractic buys Commodore](https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html)
 * [2025-06-28, 21:29:23](https://news.ycombinator.com/item?id=44408325) - [Microsoft tried dogfooding Copilot with .NET, but got only hallucinations](https://news.ycombinator.com/item?id=44408325)
 * [2025-06-28, 21:22:14](https://news.ycombinator.com/item?id=44408286) - [Schizophrenia Is the Price We Pay for Minds Poised Near the Edge of a Cliff](https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay)
+* [2025-06-28, 20:59:01](https://news.ycombinator.com/item?id=44408152) - [A Medical-History Museum Contends with Its Collection of Human Remains](https://www.newyorker.com/magazine/2025/06/30/a-medical-history-museum-contends-with-its-collection-of-human-remains)
 * [2025-06-28, 20:01:54](https://news.ycombinator.com/item?id=44407708) - [People Keep Inventing Prolly Trees](https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/)
 * [2025-06-28, 19:56:52](https://news.ycombinator.com/item?id=44407661) - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 * [2025-06-28, 19:54:05](https://news.ycombinator.com/item?id=44407640) - [The Great Illusion: When We Believed BeOS Would Save the World](https://www.desktoponfire.com/haiku_inc/782/the-great-illusion-when-we-believed-beos-would-save-the-world-and-maybe-it-was-right/)
