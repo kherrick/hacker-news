@@ -44,6 +44,7 @@
 * [2025-06-29, 15:39:16](https://news.ycombinator.com/item?id=44413957) - [All Good Editors Are Pirates: In Memory of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/all-good-editors-are-pirates)
 * [2025-06-29, 15:37:09](https://news.ycombinator.com/item?id=44413945) - [The Palette of the Medieval North](https://www.nature.com/articles/s40494-025-01599-w)
 * [2025-06-29, 15:33:57](https://news.ycombinator.com/item?id=44413921) - [Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)](https://llmapitest.com/)
+* [2025-06-29, 15:29:43](https://news.ycombinator.com/item?id=44413895) - [Voyage of Magellan – Epilogue: Sailor of Eternal Fame](https://analog-antiquarian.net/2025/06/27/epilogue-sailor-of-eternal-fame/)
 * [2025-06-29, 15:19:19](https://news.ycombinator.com/item?id=44413809) - [4-10x faster in-process pub/sub for Go](https://github.com/kelindar/event)
 * [2025-06-29, 15:09:01](https://news.ycombinator.com/item?id=44413750) - [The Consciousness Gradient: When Machines Begin to Wonder](https://v1tali.com/ai-consciousness)
 * [2025-06-29, 14:48:34](https://news.ycombinator.com/item?id=44413600) - [LLM Memory](https://grantslatton.com/llm-memory)

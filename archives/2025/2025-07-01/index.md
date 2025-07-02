@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 23:59:26](https://news.ycombinator.com/item?id=44439058) - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
 * [2025-07-01, 23:30:35](https://news.ycombinator.com/item?id=44438900) - [Using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
 * [2025-07-01, 23:29:28](https://news.ycombinator.com/item?id=44438890) - [America's Hot Garbage Problem](https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills)
 * [2025-07-01, 21:14:29](https://news.ycombinator.com/item?id=44438065) - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)

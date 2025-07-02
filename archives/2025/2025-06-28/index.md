@@ -56,6 +56,7 @@
 * [2025-06-28, 14:12:10](https://news.ycombinator.com/item?id=44404831) - [Abstraction boundaries are optimization boundaries](https://blog.snork.dev/posts/abstraction-boundaries-are-optimization-boundaries.html)
 * [2025-06-28, 14:05:47](https://news.ycombinator.com/item?id=44404782) - [Facebook is asking to use Meta AI on photos in your camera roll you haven't yet](https://techcrunch.com/2025/06/27/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared/)
 * [2025-06-28, 13:33:10](https://news.ycombinator.com/item?id=44404601) - [Antitrust defies politics' law of gravity](https://pluralistic.net/2025/06/28/mamdani/#trustbusting)
+* [2025-06-28, 13:07:19](https://news.ycombinator.com/item?id=44404447) - [Show HN: I made a 2D game engine in Dart](https://bullseye2d.org/)
 * [2025-06-28, 12:32:37](https://news.ycombinator.com/item?id=44404231) - [Texas brothers buy abandoned Boeing 727 for $10k](https://www.popsci.com/diy/texas-brothers-buy-abandoned-boeing-727/)
 * [2025-06-28, 12:32:02](https://news.ycombinator.com/item?id=44404224) - [ZeQLplus: Terminal SQLite Database Browser](https://github.com/ZetloStudio/ZeQLplus)
 * [2025-06-28, 12:20:08](https://news.ycombinator.com/item?id=44404164) - [We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
