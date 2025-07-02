@@ -15,6 +15,7 @@
 * [2025-06-29, 21:50:28](https://news.ycombinator.com/item?id=44416780) - [Tesla sales drop for fifth month in a row in Europe](https://abcnews.go.com/Business/wireStory/europeans-angry-musk-buying-cars-tesla-sales-drop-123203026)
 * [2025-06-29, 21:48:12](https://news.ycombinator.com/item?id=44416761) - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
 * [2025-06-29, 21:43:50](https://news.ycombinator.com/item?id=44416710) - [China Dominates 44% of Visible Fishing Activity Worldwide](https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/)
+* [2025-06-29, 21:33:55](https://news.ycombinator.com/item?id=44416620) - [The Unseen Fury of Solar Storms](https://www.noemamag.com/the-unseen-fury-of-solar-storms/)
 * [2025-06-29, 21:30:02](https://news.ycombinator.com/item?id=44416589) - [Reverse Engineering the Microchip CLB](http://mcp-clb.markomo.me/)
 * [2025-06-29, 21:13:48](https://news.ycombinator.com/item?id=44416470) - [EU to ban carry-on baggage fees](https://www.bbc.com/travel/article/20250627-the-big-change-affecting-european-travel)
 * [2025-06-29, 21:06:57](https://news.ycombinator.com/item?id=44416421) - [Anticheat Update Tracking](https://not-matthias.github.io/posts/anticheat-update-tracking/)

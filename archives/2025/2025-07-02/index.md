@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 20:28:34](https://news.ycombinator.com/item?id=44448461) - [How did Soham Parekh get so many jobs?](https://news.ycombinator.com/item?id=44448461)
 * [2025-07-02, 19:38:14](https://news.ycombinator.com/item?id=44447927) - [Tesla's energy storage business gets sucked into the company's downward spiral](https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/)
 * [2025-07-02, 19:04:49](https://news.ycombinator.com/item?id=44447573) - [The Bleach Community Is Ready for RFK Jr. To Make Their Dreams Come True](https://www.wired.com/story/chlorine-dioxide-bleach-mms-autism-rfk-fda-warning/)
 * [2025-07-02, 18:51:34](https://news.ycombinator.com/item?id=44447429) - [Evolution of Minimum Viable Product](https://raspasov.posthaven.com/evolution-of-minimum-viable-product)
