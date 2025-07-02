@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
 * [2025-07-02, 15:11:27](https://news.ycombinator.com/item?id=44444722) - [Firefox 120 to Firefox 141 Web Browser Benchmarks](https://www.phoronix.com/review/firefox-benchmarks-120-141)
+* [2025-07-02, 15:03:09](https://news.ycombinator.com/item?id=44444626) - [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients)
 * [2025-07-02, 14:57:06](https://news.ycombinator.com/item?id=44444556) - [Ruby on Rails: The Open-Source Blueprint](https://blog.codeminer42.com/ruby-on-rails-the-open-source-blueprint/)
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Hack IKKO \"AI powered\" earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 13:59:55](https://news.ycombinator.com/item?id=44443832) - [Azure API vulnerability and roles misconfiguration compromise corporate networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
