@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2025-07-01, 23:30:35",
-      "https://news.ycombinator.com/item?id=44438900"
-    ],
-    [
-      "Using Sun Ray thin clients in 2025",
-      "https://catstret.ch/202506/sun-ray-shenanigans/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 23:29:28",
-      "https://news.ycombinator.com/item?id=44438890"
-    ],
-    [
-      "America's Hot Garbage Problem",
-      "https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 21:14:29",
       "https://news.ycombinator.com/item?id=44438065"
     ],
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2025-07-01, 15:57:23",
+      "https://news.ycombinator.com/item?id=44435211"
+    ],
+    [
+      "Show HN: HackerNewt – Breadth-first exploring HN client for iOS",
+      "https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 15:01:36",
       "https://news.ycombinator.com/item?id=44434576"
     ],
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=44433899"
     ],
     [
-      "Experience converting a mathematical software package to C++20 modules [PDF]",
+      "Converting a large mathematical software package written in C++ to C++20 modules",
       "https://arxiv.org/abs/2506.21654"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "Swearing as a Response to Pain: Assessing Effects of Novel Swear Words",
       "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 09:30:09",
+      "https://news.ycombinator.com/item?id=44411586"
+    ],
+    [
+      "Show HN: A local secrets manager with easy backup",
+      "https://github.com/raiyanyahya/yacs"
     ]
   ],
   [
