@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-01, 23:59:26",
+      "https://news.ycombinator.com/item?id=44439058"
+    ],
+    [
+      "Australians to face age checks from search engines",
+      "https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 23:30:35",
       "https://news.ycombinator.com/item?id=44438900"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44437948"
     ],
     [
-      "Effectiveness of trees in reducing temperature & outdoor heat exposure in Vegas",
+      "Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas",
       "https://iopscience.iop.org/article/10.1088/2752-5295/ade17d"
     ]
   ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-07-01, 15:57:23",
-      "https://news.ycombinator.com/item?id=44435211"
-    ],
-    [
-      "Show HN: HackerNewt - Breadth-first exploring HN client for iOS",
-      "https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 15:01:36",
       "https://news.ycombinator.com/item?id=44434576"
     ],
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2025-06-29, 15:37:09",
-      "https://news.ycombinator.com/item?id=44413945"
+      "2025-06-29, 15:29:43",
+      "https://news.ycombinator.com/item?id=44413895"
     ],
     [
-      "The Palette of the Medieval North",
-      "https://www.nature.com/articles/s40494-025-01599-w"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 12:14:57",
-      "https://news.ycombinator.com/item?id=44412480"
-    ],
-    [
-      "Swearing as a Response to Pain: Assessing Effects of Novel Swear Words",
-      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full"
+      "Voyage of Magellan – Epilogue: Sailor of Eternal Fame",
+      "https://analog-antiquarian.net/2025/06/27/epilogue-sailor-of-eternal-fame/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Soldier's wrist purse discovered at Roman legionary camp",
       "https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513"
+    ]
+  ],
+  [
+    [
+      "2025-06-28, 13:07:19",
+      "https://news.ycombinator.com/item?id=44404447"
+    ],
+    [
+      "Show HN: I made a 2D game engine in Dart",
+      "https://bullseye2d.org/"
     ]
   ],
   [
