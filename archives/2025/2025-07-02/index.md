@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 13:28:56](https://news.ycombinator.com/item?id=44443480) - [Cloudflare Introduces Default Blocking of A.I. Data Scrapers](https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html)
 * [2025-07-02, 12:00:35](https://news.ycombinator.com/item?id=44442676) - [Recurse Center (YC S10) Is Hiring a Career Facilitator](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080)
 * [2025-07-02, 11:39:12](https://news.ycombinator.com/item?id=44442473) - [Don't use \"click here\" as link text – W3C](https://www.w3.org/QA/Tips/noClickHere)
 * [2025-07-02, 11:04:45](https://news.ycombinator.com/item?id=44442219) - [Math.Pow(-1, 2) == -1 in Windows 11 Insider build](https://github.com/dotnet/runtime/issues/117233)
@@ -15,6 +16,7 @@
 * [2025-07-02, 10:29:48](https://news.ycombinator.com/item?id=44442014) - [Intrasexually competitive women advise other women to cut off more hair](https://www.sciencedirect.com/science/article/pii/S019188692300329X)
 * [2025-07-02, 10:03:38](https://news.ycombinator.com/item?id=44441855) - [Spain and Brazil push global action to tax the super-rich and curb inequality](https://news.un.org/en/story/2025/07/1165146)
 * [2025-07-02, 09:05:43](https://news.ycombinator.com/item?id=44441530) - [Ask HN: Why there is no demand for my SaaS when competition is killing it?](https://news.ycombinator.com/item?id=44441530)
+* [2025-07-02, 08:18:22](https://news.ycombinator.com/item?id=44441279) - [More assorted notes on Liquid Glass](https://morrick.me/archives/10068)
 * [2025-07-02, 07:36:41](https://news.ycombinator.com/item?id=44441089) - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
 * [2025-07-02, 05:42:23](https://news.ycombinator.com/item?id=44440556) - [Hydrogen sulphide gas restricts SARS-CoV-2 replication in host cells](https://iisc.ac.in/hydrogen-sulphide-gas-restricts-sars-cov-2-replication-in-host-cells/)
 * [2025-07-02, 05:31:08](https://news.ycombinator.com/item?id=44440509) - [Mandelbrot in x86 Assembly by Claude](https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/)
