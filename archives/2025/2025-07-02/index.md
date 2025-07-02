@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 18:51:34](https://news.ycombinator.com/item?id=44447429) - [Evolution of Minimum Viable Product](https://raspasov.posthaven.com/evolution-of-minimum-viable-product)
 * [2025-07-02, 18:48:19](https://news.ycombinator.com/item?id=44447399) - [Tesla's Global Vehicle Deliveries Plunged in Second Quarter](https://www.wsj.com/business/autos/tesla-sales-q2-2025-e2087c11)
+* [2025-07-02, 18:31:20](https://news.ycombinator.com/item?id=44447220) - [Law360 mandates reporters use AI \"bias\" detection on all stories](https://www.niemanlab.org/2025/07/law360-mandates-reporters-use-ai-bias-detection-on-all-stories/)
 * [2025-07-02, 18:05:20](https://news.ycombinator.com/item?id=44446917) - [Couchers is officially out of Beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
 * [2025-07-02, 18:05:17](https://news.ycombinator.com/item?id=44446916) - [AI note takers are flooding Zoom calls as workers opt to skip meetings](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
 * [2025-07-02, 17:29:55](https://news.ycombinator.com/item?id=44446477) - [MindsDB (YC W20) Is Hiring for an AI Solutions Engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
