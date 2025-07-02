@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-02, 00:31:48](https://news.ycombinator.com/item?id=44439242) - [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800)
 * [2025-07-01, 23:59:26](https://news.ycombinator.com/item?id=44439058) - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
 * [2025-07-01, 23:30:35](https://news.ycombinator.com/item?id=44438900) - [Using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
 * [2025-07-01, 23:29:28](https://news.ycombinator.com/item?id=44438890) - [America's Hot Garbage Problem](https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills)
@@ -7,7 +8,6 @@
 * [2025-07-01, 20:59:05](https://news.ycombinator.com/item?id=44437948) - [Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
 * [2025-07-01, 20:32:52](https://news.ycombinator.com/item?id=44437758) - [The Roman Roads Research Association](https://www.romanroads.org/)
 * [2025-07-01, 20:26:35](https://news.ycombinator.com/item?id=44437712) - [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/)
-* [2025-07-01, 20:03:58](https://news.ycombinator.com/item?id=44437539) - [The Hidden Engineering of Liquid Dampers in Skyscrapers](https://practical.engineering/blog/2025/7/1/the-hidden-engineering-of-liquid-dampers-in-skyscrapers)
 * [2025-07-01, 19:39:14](https://news.ycombinator.com/item?id=44437316) - [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
 * [2025-07-01, 19:00:24](https://news.ycombinator.com/item?id=44437015) - [The wanton destruction of a creative-tech era](https://blog.greg.technology/2025/06/30/fastly.html)
 * [2025-07-01, 18:07:09](https://news.ycombinator.com/item?id=44436555) - [The Hoyle State (2021)](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
@@ -24,12 +24,12 @@
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
 * [2025-06-29, 15:39:16](https://news.ycombinator.com/item?id=44413957) - [All Good Editors Are Pirates: In Memory of Lewis H. Lapham](https://www.laphamsquarterly.org/roundtable/all-good-editors-are-pirates)
 * [2025-06-29, 15:29:43](https://news.ycombinator.com/item?id=44413895) - [Voyage of Magellan – Epilogue: Sailor of Eternal Fame](https://analog-antiquarian.net/2025/06/27/epilogue-sailor-of-eternal-fame/)
-* [2025-06-29, 00:19:13](https://news.ycombinator.com/item?id=44409276) - [Muxio: Rust layered stream and RPC toolkit](https://crates.io/crates/muxio)
+* [2025-06-29, 12:14:57](https://news.ycombinator.com/item?id=44412480) - [Swearing as a Response to Pain: Assessing Effects of Novel Swear Words](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full)
 * [2025-06-28, 17:20:34](https://news.ycombinator.com/item?id=44406401) - [Soldier's wrist purse discovered at Roman legionary camp](https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513)
 * [2025-06-28, 13:07:19](https://news.ycombinator.com/item?id=44404447) - [Show HN: I made a 2D game engine in Dart](https://bullseye2d.org/)
+* [2025-06-28, 12:33:44](https://news.ycombinator.com/item?id=44404243) - [Why Do Swallows Fly to the Korean DMZ?](https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/)
 * [2025-06-28, 11:49:35](https://news.ycombinator.com/item?id=44403988) - [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
 * [2025-06-28, 10:07:38](https://news.ycombinator.com/item?id=44403547) - [Graph Theory Applications in Video Games](https://utk.claranguyen.me/talks.php?id=videogames)
-* [2025-06-27, 16:09:09](https://news.ycombinator.com/item?id=44397921) - [When Did Nature Burst into Vivid Color?](https://www.quantamagazine.org/when-did-nature-burst-into-vivid-color-20250627/)
 
 ## [Archives](archives/index.md)
 
