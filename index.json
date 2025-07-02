@@ -1,22 +1,62 @@
 [
   [
     [
+      "2025-07-02, 11:00:07",
+      "https://news.ycombinator.com/item?id=44442189"
+    ],
+    [
+      "Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands",
+      "https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 10:51:16",
+      "https://news.ycombinator.com/item?id=44442134"
+    ],
+    [
+      "They tried Made in the USA – it was too expensive for their customers",
+      "https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 10:39:38",
+      "https://news.ycombinator.com/item?id=44442072"
+    ],
+    [
+      "How large are large language models? (2025)",
+      "https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 10:31:37",
+      "https://news.ycombinator.com/item?id=44442022"
+    ],
+    [
+      "Jack Welch, the Man Who Broke Capitalism (2022)",
+      "https://www.forbes.com/sites/kylewestaway/2022/05/31/jack-welch-the-man-who-broke-capitalism/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 10:31:26",
+      "https://news.ycombinator.com/item?id=44442020"
+    ],
+    [
+      "Gemini mirrored the user. Claude said \"I love you.\" We recorded the drift",
+      "https://drive.proton.me/urls/QZQ6QN5AVM#xp94MAFlT8gD"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 10:03:38",
       "https://news.ycombinator.com/item?id=44441855"
     ],
     [
       "Spain and Brazil push global action to tax the super-rich and curb inequality",
       "https://news.un.org/en/story/2025/07/1165146"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 09:05:43",
-      "https://news.ycombinator.com/item?id=44441530"
-    ],
-    [
-      "Ask HN: Why there is no demand for my SaaS when competition is killing it?",
-      "https://news.ycombinator.com/item?id=44441530"
     ]
   ],
   [
@@ -31,32 +71,12 @@
   ],
   [
     [
-      "2025-07-02, 05:31:08",
-      "https://news.ycombinator.com/item?id=44440509"
-    ],
-    [
-      "Mandelbrot in x86 Assembly by Claude",
-      "https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 00:31:48",
       "https://news.ycombinator.com/item?id=44439242"
     ],
     [
       "Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory",
       "https://arxiv.org/abs/2503.01800"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 21:14:29",
-      "https://news.ycombinator.com/item?id=44438065"
-    ],
-    [
-      "Building a Personal AI Factory",
-      "https://www.john-rush.com/posts/ai-20250701.html"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-06-29, 12:14:57",
-      "https://news.ycombinator.com/item?id=44412480"
-    ],
-    [
-      "Swearing as a Response to Pain: Assessing Effects of Novel Swear Words",
-      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full"
-    ]
-  ],
-  [
-    [
       "2025-06-29, 10:11:55",
       "https://news.ycombinator.com/item?id=44411825"
     ],
@@ -287,16 +297,6 @@
     [
       "Why Do Swallows Fly to the Korean DMZ?",
       "https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 10:07:38",
-      "https://news.ycombinator.com/item?id=44403547"
-    ],
-    [
-      "Graph Theory Applications in Video Games",
-      "https://utk.claranguyen.me/talks.php?id=videogames"
     ]
   ]
 ]
