@@ -54,6 +54,7 @@
 * [2025-07-01, 09:17:41](https://news.ycombinator.com/item?id=44432058) - [Pbf2sqlite: Reading OpenStreetMap into a SQLite Database](https://github.com/osmzoso/pbf2sqlite)
 * [2025-07-01, 08:53:02](https://news.ycombinator.com/item?id=44431943) - [Show HN: I Built a Paul Graham AI Advisor for Founders and Hackers](https://paulgraham.resurrect.space)
 * [2025-07-01, 08:40:37](https://news.ycombinator.com/item?id=44431873) - [Researchers Uncover Hidden Ingredients Behind AI Creativity](https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/)
+* [2025-07-01, 08:25:49](https://news.ycombinator.com/item?id=44431786) - [Automatically Rewrite Container Image References in Kubernetes](https://github.com/flemzord/mutating-registry-webhook)
 * [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
 * [2025-07-01, 06:48:50](https://news.ycombinator.com/item?id=44431251) - [Ask HN: Is your company forcing use of AI?](https://news.ycombinator.com/item?id=44431251)
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
