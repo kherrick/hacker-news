@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
 * [2025-07-02, 16:26:37](https://news.ycombinator.com/item?id=44445646) - [ICEBlock, an app for anonymously reporting ICE sightings](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
+* [2025-07-02, 16:10:46](https://news.ycombinator.com/item?id=44445458) - [Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
 * [2025-07-02, 15:56:44](https://news.ycombinator.com/item?id=44445297) - [Content Independence Day: no AI crawl without compensation](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)
 * [2025-07-02, 15:51:03](https://news.ycombinator.com/item?id=44445238) - [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
 * [2025-07-02, 15:47:32](https://news.ycombinator.com/item?id=44445180) - [ICEBlock climbs to the top of the App Store charts after officials slam it](https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html)
