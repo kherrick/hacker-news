@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-07-02, 19:04:49",
-      "https://news.ycombinator.com/item?id=44447573"
-    ],
-    [
-      "The Bleach Community Is Ready for RFK Jr. To Make Their Dreams Come True",
-      "https://www.wired.com/story/chlorine-dioxide-bleach-mms-autism-rfk-fda-warning/"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 18:51:34",
       "https://news.ycombinator.com/item?id=44447429"
     ],
@@ -35,18 +25,8 @@
       "https://news.ycombinator.com/item?id=44446917"
     ],
     [
-      "Couchers is officially out of Beta",
+      "Couchers is officially out of beta",
       "https://couchers.org/blog/2025/07/01/releasing-couchers-v1"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 18:05:17",
-      "https://news.ycombinator.com/item?id=44446916"
-    ],
-    [
-      "AI note takers are flooding Zoom calls as workers opt to skip meetings",
-      "https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/"
     ]
   ],
   [
@@ -221,12 +201,42 @@
   ],
   [
     [
-      "2025-07-01, 16:22:55",
-      "https://news.ycombinator.com/item?id=44435484"
+      "2025-07-01, 10:53:21",
+      "https://news.ycombinator.com/item?id=44432571"
     ],
     [
-      "The Fed says this is a cube of $1M. They're off by half a million",
-      "https://calvin.sh/blog/fed-lie/"
+      "ASCIIMoon: The moon's phase live in ASCII art",
+      "https://asciimoon.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 09:35:05",
+      "https://news.ycombinator.com/item?id=44432142"
+    ],
+    [
+      "Escher's art and computer science",
+      "https://github.com/gritzko/librdx/blob/master/blog/escher.md"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 07:55:53",
+      "https://news.ycombinator.com/item?id=44431638"
+    ],
+    [
+      "Evidence of a 12,800-year-old shallow airburst depression in Louisiana",
+      "https://www.scienceopen.com/hosted-document?doi=10.14293/ACI.2025.0004"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 05:41:10",
+      "https://news.ycombinator.com/item?id=44430932"
+    ],
+    [
+      "Reuleaux Kinematic Mechanisms Collection",
+      "https://digital.library.cornell.edu/collections/kmoddl"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "WebAssembly Troubles part 4: Microwasm (2019)",
       "http://troubles.md/microwasm/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 08:19:59",
-      "https://news.ycombinator.com/item?id=44411252"
-    ],
-    [
-      "Chatbot Flow Editor – Visual tool for designing conversation flows",
-      "https://github.com/enumura1/chatbot-flow-editor"
     ]
   ]
 ]
