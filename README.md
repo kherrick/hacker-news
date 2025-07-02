@@ -25,11 +25,11 @@
 * [2025-07-01, 19:39:14](https://news.ycombinator.com/item?id=44437316) - [Figma files for proposed IPO](https://www.figma.com/blog/s1-public/)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
 * [2025-06-29, 17:53:42](https://news.ycombinator.com/item?id=44414965) - [A list is a monad](https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/)
+* [2025-06-29, 17:07:05](https://news.ycombinator.com/item?id=44414630) - [The Evolution of Caching Libraries in Go](https://maypok86.github.io/otter/blog/cache-evolution/)
 * [2025-06-29, 14:10:57](https://news.ycombinator.com/item?id=44413308) - [Efficient set-membership filters and dictionaries based on SAT](https://github.com/NationalSecurityAgency/XORSATFilter)
 * [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
 * [2025-06-29, 12:16:14](https://news.ycombinator.com/item?id=44412488) - [A proof-of-concept neural brain implant providing speech](https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/)
 * [2025-06-29, 09:03:20](https://news.ycombinator.com/item?id=44411445) - [WebAssembly Troubles part 4: Microwasm (2019)](http://troubles.md/microwasm/)
-* [2025-06-29, 08:19:59](https://news.ycombinator.com/item?id=44411252) - [Chatbot Flow Editor – Visual tool for designing conversation flows](https://github.com/enumura1/chatbot-flow-editor)
 
 ## [Archives](archives/index.md)
 

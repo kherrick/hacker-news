@@ -37,6 +37,7 @@
 * [2025-06-29, 17:21:35](https://news.ycombinator.com/item?id=44414729) - [Public Lands Sell-Off Is Struck from the GOP Policy Bill](https://www.nytimes.com/2025/06/28/climate/public-lands-sell-off-dropped-mike-lee.html)
 * [2025-06-29, 17:20:16](https://news.ycombinator.com/item?id=44414719) - [Personal care products disrupt the human oxidation field](https://www.science.org/doi/10.1126/sciadv.ads7908)
 * [2025-06-29, 17:18:03](https://news.ycombinator.com/item?id=44414700) - [America's Coming Smoke Epidemic](https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/)
+* [2025-06-29, 17:07:05](https://news.ycombinator.com/item?id=44414630) - [The Evolution of Caching Libraries in Go](https://maypok86.github.io/otter/blog/cache-evolution/)
 * [2025-06-29, 16:25:33](https://news.ycombinator.com/item?id=44414286) - [Ok now this is just ridiculous](https://mastodon.social/@czeins/114739403773350112)
 * [2025-06-29, 16:22:13](https://news.ycombinator.com/item?id=44414261) - [Europe's First Exascale Supercomputer Powers Up](https://spectrum.ieee.org/jupiter-exascale-supercomputer-europe)
 * [2025-06-29, 16:08:53](https://news.ycombinator.com/item?id=44414171) - [We accidentally solved robotics by watching 1M hours of YouTube](https://ksagar.bearblog.dev/vjepa/)
