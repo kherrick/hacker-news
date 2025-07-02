@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-02, 07:36:41](https://news.ycombinator.com/item?id=44441089) - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
+* [2025-07-02, 05:31:08](https://news.ycombinator.com/item?id=44440509) - [Mandelbrot in x86 Assembly by Claude](https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/)
 * [2025-07-02, 00:31:48](https://news.ycombinator.com/item?id=44439242) - [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800)
 * [2025-07-01, 23:59:26](https://news.ycombinator.com/item?id=44439058) - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
 * [2025-07-01, 21:14:29](https://news.ycombinator.com/item?id=44438065) - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
@@ -11,7 +12,6 @@
 * [2025-07-01, 18:08:38](https://news.ycombinator.com/item?id=44436579) - [Sam Altman Slams Meta's AI Talent Poaching: 'Missionaries Will Beat Mercenaries'](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
 * [2025-07-01, 18:07:09](https://news.ycombinator.com/item?id=44436555) - [The Hoyle State (2021)](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
 * [2025-07-01, 16:43:19](https://news.ycombinator.com/item?id=44435716) - [Code-GUI bidirectional editing via LSP](https://jamesbvaughan.com/bidirectional-editing/)
-* [2025-07-01, 16:24:24](https://news.ycombinator.com/item?id=44435500) - [Show HN: Core – open source memory graph for LLMs – shareable, user owned](https://github.com/RedPlanetHQ/core)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
 * [2025-07-01, 15:31:45](https://news.ycombinator.com/item?id=44434938) - [HN Slop: AI startup ideas generated from Hacker News](https://www.josh.ing/hn-slop)
 * [2025-07-01, 15:01:36](https://news.ycombinator.com/item?id=44434576) - [Ask HN: Who is hiring? (July 2025)](https://news.ycombinator.com/item?id=44434576)
