@@ -55,6 +55,7 @@
 * [2025-06-29, 13:55:07](https://news.ycombinator.com/item?id=44413184) - [Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow](https://github.com/Miladxsar23/smartstepper)
 * [2025-06-29, 13:41:09](https://news.ycombinator.com/item?id=44413083) - [Performance Debugging with LLVM-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
 * [2025-06-29, 13:39:52](https://news.ycombinator.com/item?id=44413069) - [Europe approves first saliva-based contraceptive – no pill required](https://thenextweb.com/news/europe-approves-first-saliva-based-contraceptive-no-pill-required)
+* [2025-06-29, 12:52:42](https://news.ycombinator.com/item?id=44412726) - [Show HN: A modern C++20 AI SDK (GPT‑4o, Claude 3.5, tool‑calling)](https://news.ycombinator.com/item?id=44412726)
 * [2025-06-29, 12:14:57](https://news.ycombinator.com/item?id=44412480) - [Swearing as a Response to Pain: Assessing Effects of Novel Swear Words](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00723/full)
 * [2025-06-29, 11:56:09](https://news.ycombinator.com/item?id=44412370) - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
 * [2025-06-29, 11:52:03](https://news.ycombinator.com/item?id=44412349) - [AI agents get office tasks wrong around 70% of time, and many aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
