@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-02, 13:28:56",
+      "https://news.ycombinator.com/item?id=44443480"
+    ],
+    [
+      "Cloudflare Introduces Default Blocking of A.I. Data Scrapers",
+      "https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 12:00:35",
       "https://news.ycombinator.com/item?id=44442676"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44442473"
     ],
     [
-      "Don't use \"click here\" as link text – W3C (2010)",
+      "Don’t use “click here” as link text (2001)",
       "https://www.w3.org/QA/Tips/noClickHere"
     ]
   ],
@@ -41,11 +51,21 @@
   ],
   [
     [
+      "2025-07-02, 10:51:16",
+      "https://news.ycombinator.com/item?id=44442134"
+    ],
+    [
+      "They tried Made in the USA – it was too expensive for their customers",
+      "https://www.reuters.com/business/they-tried-made-usa-it-was-too-expensive-their-customers-2025-07-02/"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 10:39:38",
       "https://news.ycombinator.com/item?id=44442072"
     ],
     [
-      "How large are large language models? (2025)",
+      "How large are large language models?",
       "https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e"
     ]
   ],
@@ -57,6 +77,16 @@
     [
       "Jack Welch, the Man Who Broke Capitalism (2022)",
       "https://www.forbes.com/sites/kylewestaway/2022/05/31/jack-welch-the-man-who-broke-capitalism/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 08:18:22",
+      "https://news.ycombinator.com/item?id=44441279"
+    ],
+    [
+      "More assorted notes on Liquid Glass",
+      "https://morrick.me/archives/10068"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory",
       "https://arxiv.org/abs/2503.01800"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 20:59:05",
-      "https://news.ycombinator.com/item?id=44437948"
-    ],
-    [
-      "Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas",
-      "https://iopscience.iop.org/article/10.1088/2752-5295/ade17d"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-07-01, 13:46:56",
-      "https://news.ycombinator.com/item?id=44433899"
-    ],
-    [
-      "Converting a large mathematical software package written in C++ to C++20 modules",
-      "https://arxiv.org/abs/2506.21654"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 12:49:42",
       "https://news.ycombinator.com/item?id=44433409"
     ],
     [
       "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
       "https://simedw.com/2025/06/23/introducing-spegel/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 12:47:06",
-      "https://news.ycombinator.com/item?id=44433386"
-    ],
-    [
-      "Show HN: Jobs by Referral: Find jobs in your LinkedIn network",
-      "https://jobsbyreferral.com/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-06-29, 04:57:50",
-      "https://news.ycombinator.com/item?id=44410464"
+      "2025-06-29, 08:19:59",
+      "https://news.ycombinator.com/item?id=44411252"
     ],
     [
-      "Off with Their Heads: Illustrations of Blemmyes (ca. 1175–1724)",
-      "https://publicdomainreview.org/collection/blemmyes/"
+      "Chatbot Flow Editor – Visual tool for designing conversation flows",
+      "https://github.com/enumura1/chatbot-flow-editor"
     ]
   ],
   [
