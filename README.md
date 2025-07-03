@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-03, 06:44:19](https://news.ycombinator.com/item?id=44452317) - [I scanned all of GitHub's \"oops commits\" for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
-* [2025-07-03, 06:15:09](https://news.ycombinator.com/item?id=44452140) - [We reimagined Transformer architectures inspired by nature's hidden structures](https://ieeexplore.ieee.org/document/10754699)
+* [2025-07-03, 06:08:24](https://news.ycombinator.com/item?id=44452109) - [Abrego Garcia Was Beaten and Tortured in El Salvador Prison, Lawyers Say](https://www.nytimes.com/2025/07/02/us/politics/kilmar-abrego-garcia-el-salvador-trump-deportation.html)
 * [2025-07-03, 04:21:58](https://news.ycombinator.com/item?id=44451602) - [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [2025-07-03, 02:05:23](https://news.ycombinator.com/item?id=44450937) - [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
@@ -21,7 +21,7 @@
 * [2025-07-02, 15:03:09](https://news.ycombinator.com/item?id=44444626) - [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients)
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Exploiting the IKKO Activebuds “AI powered” earbuds (2024)](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 11:39:12](https://news.ycombinator.com/item?id=44442473) - [Don’t use “click here” as link text (2001)](https://www.w3.org/QA/Tips/noClickHere)
-* [2025-07-01, 14:29:32](https://news.ycombinator.com/item?id=44434245) - [Conversations with a Hit Man](https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/)
+* [2025-07-01, 14:29:32](https://news.ycombinator.com/item?id=44434245) - [Conversations with a hit man about a notorious cold case](https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
 * [2025-06-30, 19:31:32](https://news.ycombinator.com/item?id=44426985) - [Next month, saved passwords will no longer be in Microsoft’s Authenticator app](https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/)
