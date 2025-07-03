@@ -7,6 +7,7 @@
 * [2025-07-01, 23:59:26](https://news.ycombinator.com/item?id=44439058) - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
 * [2025-07-01, 23:30:35](https://news.ycombinator.com/item?id=44438900) - [Using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
 * [2025-07-01, 23:29:28](https://news.ycombinator.com/item?id=44438890) - [America's Hot Garbage Problem](https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills)
+* [2025-07-01, 22:09:58](https://news.ycombinator.com/item?id=44438412) - [I'm a physicist by trade, not by training, and that matters](https://csferrie.medium.com/im-a-physicist-by-trade-not-by-training-and-that-matters-70cd0e66b2c8)
 * [2025-07-01, 21:14:29](https://news.ycombinator.com/item?id=44438065) - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
 * [2025-07-01, 21:12:51](https://news.ycombinator.com/item?id=44438053) - [Ask HN: Anyone is an \"AI Engineer\"? What does your job tasks include?](https://news.ycombinator.com/item?id=44438053)
 * [2025-07-01, 20:59:05](https://news.ycombinator.com/item?id=44437948) - [Effectiveness of trees in reducing temperature & outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
