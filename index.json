@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-03, 14:17:19",
+      "https://news.ycombinator.com/item?id=44455320"
+    ],
+    [
+      "Locality of Behaviour (2020)",
+      "https://htmx.org/essays/locality-of-behaviour/"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 13:18:59",
       "https://news.ycombinator.com/item?id=44454758"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-06-30, 19:31:32",
-      "https://news.ycombinator.com/item?id=44426985"
-    ],
-    [
-      "Next month, saved passwords will no longer be in Microsoft’s Authenticator app",
-      "https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 18:02:06",
       "https://news.ycombinator.com/item?id=44426153"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-06-30, 11:04:53",
-      "https://news.ycombinator.com/item?id=44421788"
+      "2025-06-30, 09:10:23",
+      "https://news.ycombinator.com/item?id=44421094"
     ],
     [
-      "Serenading Cells with Audible Sound Alters Gene Activity",
-      "https://www.scientificamerican.com/article/cells-can-hear-sounds-and-respond-genetically/"
+      "What's the difference between named functions and arrow functions in JavaScript?",
+      "https://jrsinclair.com/articles/2025/whats-the-difference-between-named-functions-and-arrow-functions/"
     ]
   ]
 ]
