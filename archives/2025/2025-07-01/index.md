@@ -53,6 +53,7 @@
 * [2025-07-01, 12:47:06](https://news.ycombinator.com/item?id=44433386) - [Show HN: Jobs by Referral: Find jobs in your LinkedIn network](https://jobsbyreferral.com/)
 * [2025-07-01, 12:27:31](https://news.ycombinator.com/item?id=44433222) - [RP2350pc Open Source Hardware all in one computer](https://olimex.wordpress.com/2025/07/01/rp2350pc-open-source-hardware-all-in-one-computer-with-rp2350b-8mb-psram-16mb-flash-four-usb-host-dvi-hdmi-output-and-audio-codec-for-retro-computer-emulation-and-education/)
 * [2025-07-01, 12:26:51](https://news.ycombinator.com/item?id=44433218) - [Spending Too Much Money on a Coding Agent](https://allenpike.com/2025/coding-agents)
+* [2025-07-01, 11:39:58](https://news.ycombinator.com/item?id=44432884) - [ViscaCamLink – Camera control application for PTZ cameras](https://github.com/misorrek/ViscaCamLink)
 * [2025-07-01, 11:05:43](https://news.ycombinator.com/item?id=44432644) - [Finding and understanding bugs in C compilers [pdf]](https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
 * [2025-07-01, 10:35:23](https://news.ycombinator.com/item?id=44432467) - [Scientists identify culprit behind biggest-ever U.S. honey bee die-off](https://www.science.org/content/article/scientists-identify-culprit-behind-biggest-ever-u-s-honeybee-die)
