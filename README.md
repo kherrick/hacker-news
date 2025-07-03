@@ -23,11 +23,11 @@
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [2025-07-01, 16:05:36](https://news.ycombinator.com/item?id=44435309) - [Copper is Faster than Fiber (2017) [pdf]](https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
-* [2025-07-01, 11:39:58](https://news.ycombinator.com/item?id=44432884) - [ViscaCamLink – Camera control application for PTZ cameras](https://github.com/misorrek/ViscaCamLink)
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an abstraction, not an optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-07-01, 10:12:50](https://news.ycombinator.com/item?id=44432351) - [An Algorithm for a Better Bookshelf](https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/)
 * [2025-07-01, 08:32:19](https://news.ycombinator.com/item?id=44431828) - [Ubuntu 25.10 Raises RISC-V Profile Requirements](https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support)
 * [2025-07-01, 02:48:16](https://news.ycombinator.com/item?id=44430117) - [About AI Evals](https://hamel.dev/blog/posts/evals-faq/)
+* [2025-06-30, 23:55:37](https://news.ycombinator.com/item?id=44429192) - [Importance of context management in AI NPCs](https://walterfreedom.com/post.html?id=ai-context-management)
 * [2025-06-30, 18:02:06](https://news.ycombinator.com/item?id=44426153) - [Alice's Adventures in a Differentiable Wonderland](https://arxiv.org/abs/2404.17625)
 * [2025-06-30, 08:10:27](https://news.ycombinator.com/item?id=44420711) - [Show HN: I rewrote my notepad calculator as a local-first app with CRDT syncing](https://numpad.io)
 
