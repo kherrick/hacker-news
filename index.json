@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2025-07-03, 16:38:02",
+      "https://news.ycombinator.com/item?id=44456827"
+    ],
+    [
+      "Postcard is now open source",
+      "https://www.contraption.co/postcard-open-source/"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 16:34:51",
+      "https://news.ycombinator.com/item?id=44456779"
+    ],
+    [
+      "AV1@Scale: Film Grain Synthesis, The Awakening",
+      "https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 15:59:26",
+      "https://news.ycombinator.com/item?id=44456389"
+    ],
+    [
+      "EBAF – eBPF Based Ad Firewall",
+      "https://github.com/Kazedaa/eBAF"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 15:58:32",
       "https://news.ycombinator.com/item?id=44456379"
     ],
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2025-07-03, 00:06:16",
-      "https://news.ycombinator.com/item?id=44450182"
-    ],
-    [
-      "Gmailtail – Command-line tool to monitor Gmail messages and output them as JSON",
-      "https://github.com/c4pt0r/gmailtail"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 18:05:17",
-      "https://news.ycombinator.com/item?id=44446916"
-    ],
-    [
-      "AI note takers are flooding Zoom calls as workers opt to skip meetings",
-      "https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 14:06:43",
       "https://news.ycombinator.com/item?id=44443919"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-07-01, 10:53:21",
-      "https://news.ycombinator.com/item?id=44432571"
+      "2025-07-01, 11:39:58",
+      "https://news.ycombinator.com/item?id=44432884"
     ],
     [
-      "ASCIIMoon: The moon's phase live in ASCII art",
-      "https://asciimoon.com/"
+      "ViscaCamLink – Camera control application for PTZ cameras",
+      "https://github.com/misorrek/ViscaCamLink"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "That XOR Trick (2020)",
       "https://florian.github.io//xor-trick/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 14:51:38",
-      "https://news.ycombinator.com/item?id=44424087"
-    ],
-    [
-      "Nano-engineered thermoelectrics enable scalable, compressor-free cooling",
-      "https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling"
     ]
   ]
 ]
