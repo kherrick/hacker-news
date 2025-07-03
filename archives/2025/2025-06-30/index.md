@@ -68,6 +68,7 @@
 * [2025-06-30, 09:58:18](https://news.ycombinator.com/item?id=44421384) - [Positive link between cannabis use and 'Major Adverse Cardiovascular Events'](https://heart.bmj.com/content/early/2025/06/10/heartjnl-2024-325429)
 * [2025-06-30, 09:35:35](https://news.ycombinator.com/item?id=44421254) - [If AI Lets Us Do More in Less Time–Why Not Shorten the Workweek?](https://sfg.media/en/a/if-ai-lets-us-do-more-in-less-time/)
 * [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
+* [2025-06-30, 09:10:23](https://news.ycombinator.com/item?id=44421094) - [What's the difference between named functions and arrow functions in JavaScript?](https://jrsinclair.com/articles/2025/whats-the-difference-between-named-functions-and-arrow-functions/)
 * [2025-06-30, 08:47:54](https://news.ycombinator.com/item?id=44420943) - [Thousands in Norway told they had won life-changing sums in lottery error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error)
 * [2025-06-30, 06:13:10](https://news.ycombinator.com/item?id=44419986) - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
 * [2025-06-30, 05:29:10](https://news.ycombinator.com/item?id=44419753) - [That Dropped Call with Customer Service? It Was on Purpose](https://www.theatlantic.com/ideas/archive/2025/06/customer-service-sludge/683340/)

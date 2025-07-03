@@ -18,7 +18,6 @@
 * [2025-07-02, 15:51:03](https://news.ycombinator.com/item?id=44445238) - [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
 * [2025-07-02, 15:03:09](https://news.ycombinator.com/item?id=44444626) - [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients)
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Exploiting the IKKO Activebuds “AI powered” earbuds (2024)](https://blog.mgdproductions.com/ikko-activebuds/)
-* [2025-07-02, 11:39:12](https://news.ycombinator.com/item?id=44442473) - [Don’t use “click here” as link text (2001)](https://www.w3.org/QA/Tips/noClickHere)
 * [2025-07-01, 14:29:32](https://news.ycombinator.com/item?id=44434245) - [Conversations with a hit man about a notorious cold case](https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
@@ -28,6 +27,7 @@
 * [2025-06-30, 15:52:22](https://news.ycombinator.com/item?id=44424747) - [There's no such thing as a tree (phylogenetically) (2021)](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
 * [2025-06-30, 14:51:38](https://news.ycombinator.com/item?id=44424087) - [Nano-engineered thermoelectrics enable scalable, compressor-free cooling](https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling)
 * [2025-06-30, 11:04:53](https://news.ycombinator.com/item?id=44421788) - [Serenading Cells with Audible Sound Alters Gene Activity](https://www.scientificamerican.com/article/cells-can-hear-sounds-and-respond-genetically/)
+* [2025-06-30, 09:10:23](https://news.ycombinator.com/item?id=44421094) - [What's the difference between named functions and arrow functions in JavaScript?](https://jrsinclair.com/articles/2025/whats-the-difference-between-named-functions-and-arrow-functions/)
 * [2025-06-29, 17:07:05](https://news.ycombinator.com/item?id=44414630) - [The Evolution of Caching Libraries in Go](https://maypok86.github.io/otter/blog/cache-evolution/)
 * [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
 
