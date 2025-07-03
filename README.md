@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-03, 16:44:18](https://news.ycombinator.com/item?id=44456904) - [Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
 * [2025-07-03, 15:58:32](https://news.ycombinator.com/item?id=44456379) - [Encoding Jake Gyllenhaal into one million checkboxes (2024)](https://ednamode.xyz/blogs/2.html)
 * [2025-07-03, 15:35:34](https://news.ycombinator.com/item?id=44456135) - [Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase](https://github.com/zserge/pennybase)
 * [2025-07-03, 15:25:30](https://news.ycombinator.com/item?id=44456027) - [Parallelizing SHA256 Calculation on FPGA](https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/)
@@ -18,7 +19,6 @@
 * [2025-07-03, 00:24:46](https://news.ycombinator.com/item?id=44450304) - [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
 * [2025-07-03, 00:06:16](https://news.ycombinator.com/item?id=44450182) - [Gmailtail – Command-line tool to monitor Gmail messages and output them as JSON](https://github.com/c4pt0r/gmailtail)
 * [2025-07-02, 18:05:17](https://news.ycombinator.com/item?id=44446916) - [AI note takers are flooding Zoom calls as workers opt to skip meetings](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
-* [2025-07-02, 15:51:03](https://news.ycombinator.com/item?id=44445238) - [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Exploiting the IKKO Activebuds “AI powered” earbuds (2024)](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-01, 16:05:36](https://news.ycombinator.com/item?id=44435309) - [Copper is Faster than Fiber (2017) [pdf]](https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
