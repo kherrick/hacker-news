@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-03, 15:03:14",
+      "https://news.ycombinator.com/item?id=44455787"
+    ],
+    [
+      "Introducing tmux-rs",
+      "https://richardscollin.github.io/tmux-rs/"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 14:17:19",
       "https://news.ycombinator.com/item?id=44455320"
     ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2025-07-01, 12:26:51",
+      "https://news.ycombinator.com/item?id=44433218"
+    ],
+    [
+      "Spending Too Much Money on a Coding Agent",
+      "https://allenpike.com/2025/coding-agents"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 10:53:21",
       "https://news.ycombinator.com/item?id=44432571"
     ],
@@ -277,26 +297,6 @@
     [
       "Nano-engineered thermoelectrics enable scalable, compressor-free cooling",
       "https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 12:57:58",
-      "https://news.ycombinator.com/item?id=44422722"
-    ],
-    [
-      "The story of Max, a real programmer",
-      "https://incoherency.co.uk/blog/stories/the-story-of-max.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 09:10:23",
-      "https://news.ycombinator.com/item?id=44421094"
-    ],
-    [
-      "What's the difference between named functions and arrow functions in JavaScript?",
-      "https://jrsinclair.com/articles/2025/whats-the-difference-between-named-functions-and-arrow-functions/"
     ]
   ]
 ]
