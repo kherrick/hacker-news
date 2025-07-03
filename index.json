@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-07-01, 16:05:36",
-      "https://news.ycombinator.com/item?id=44435309"
-    ],
-    [
-      "Copper is Faster than Fiber (2017) [pdf]",
-      "https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 14:00:33",
       "https://news.ycombinator.com/item?id=44433996"
     ],
@@ -247,6 +237,16 @@
     [
       "ViscaCamLink – Camera control application for PTZ cameras",
       "https://github.com/misorrek/ViscaCamLink"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 10:42:46",
+      "https://news.ycombinator.com/item?id=44432506"
+    ],
+    [
+      "Caching is an Abstraction, not an Optimization",
+      "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/"
     ]
   ],
   [
