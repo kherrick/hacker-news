@@ -19,6 +19,7 @@
 * [2025-06-30, 20:06:11](https://news.ycombinator.com/item?id=44427278) - [My Database Is My Application: Rethinking Webhook Logic with DuckDB and SQL](https://www.hey.earth/posts/duckdb-webhook-gateway)
 * [2025-06-30, 19:54:11](https://news.ycombinator.com/item?id=44427147) - [Price of rice in Japan falls below ¥4k per 5 kilograms](https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/)
 * [2025-06-30, 19:52:19](https://news.ycombinator.com/item?id=44427134) - [Public Signal Backups Testing](https://community.signalusers.org/t/public-signal-backups-testing/69984)
+* [2025-06-30, 19:31:32](https://news.ycombinator.com/item?id=44426985) - [Next month, saved passwords will no longer be in Microsoft’s Authenticator app](https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/)
 * [2025-06-30, 19:29:50](https://news.ycombinator.com/item?id=44426972) - ['Generali' sign atop insurer's skyscraper offices collapses in Milan](https://www.reuters.com/en/generali-sign-atop-insurers-skyscraper-offices-collapses-milan-2025-06-30/)
 * [2025-06-30, 19:19:52](https://news.ycombinator.com/item?id=44426864) - [The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released](https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/)
 * [2025-06-30, 19:17:11](https://news.ycombinator.com/item?id=44426845) - [End of an Era](https://www.erasmatazz.com/personal/self/end-of-an-era.html)
