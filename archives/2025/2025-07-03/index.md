@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 09:53:03](https://news.ycombinator.com/item?id=44453371) - [Building Linux kernel on macOS natively](https://seiya.me/blog/building-linux-on-macos-natively)
 * [2025-07-03, 06:44:19](https://news.ycombinator.com/item?id=44452317) - [I Scanned All of GitHub's \"Oops Commits\" for Leaked Secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
 * [2025-07-03, 06:15:09](https://news.ycombinator.com/item?id=44452140) - [We reimagined Transformer architectures inspired by nature's hidden structures](https://ieeexplore.ieee.org/document/10754699)
 * [2025-07-03, 06:08:24](https://news.ycombinator.com/item?id=44452109) - [Abrego Garcia Was Beaten and Tortured in El Salvador Prison, Lawyers Say](https://www.nytimes.com/2025/07/02/us/politics/kilmar-abrego-garcia-el-salvador-trump-deportation.html)

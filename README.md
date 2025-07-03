@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-03, 09:53:03](https://news.ycombinator.com/item?id=44453371) - [Building Linux kernel on macOS natively](https://seiya.me/blog/building-linux-on-macos-natively)
 * [2025-07-03, 06:44:19](https://news.ycombinator.com/item?id=44452317) - [I scanned all of GitHub's \"oops commits\" for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
 * [2025-07-03, 04:21:58](https://news.ycombinator.com/item?id=44451602) - [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
@@ -25,7 +26,6 @@
 * [2025-07-01, 01:43:57](https://news.ycombinator.com/item?id=44429789) - [Writing Code Was Never the Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [2025-06-30, 19:31:32](https://news.ycombinator.com/item?id=44426985) - [Next month, saved passwords will no longer be in Microsoft’s Authenticator app](https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/)
 * [2025-06-30, 17:32:41](https://news.ycombinator.com/item?id=44425880) - [That XOR Trick (2020)](https://florian.github.io//xor-trick/)
-* [2025-06-30, 15:52:22](https://news.ycombinator.com/item?id=44424747) - [There's no such thing as a tree (phylogenetically) (2021)](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
 * [2025-06-30, 14:51:38](https://news.ycombinator.com/item?id=44424087) - [Nano-engineered thermoelectrics enable scalable, compressor-free cooling](https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling)
 * [2025-06-30, 11:04:53](https://news.ycombinator.com/item?id=44421788) - [Serenading Cells with Audible Sound Alters Gene Activity](https://www.scientificamerican.com/article/cells-can-hear-sounds-and-respond-genetically/)
 * [2025-06-30, 09:10:23](https://news.ycombinator.com/item?id=44421094) - [What's the difference between named functions and arrow functions in JavaScript?](https://jrsinclair.com/articles/2025/whats-the-difference-between-named-functions-and-arrow-functions/)
