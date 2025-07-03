@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-03, 17:36:13",
+      "https://news.ycombinator.com/item?id=44457390"
+    ],
+    [
+      "Opening up ‘Zero-Knowledge Proof’ technology",
+      "https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 17:15:56",
       "https://news.ycombinator.com/item?id=44457215"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-07-03, 14:04:27",
-      "https://news.ycombinator.com/item?id=44455218"
-    ],
-    [
-      "Doom Didn't Kill the Amiga (2024)",
-      "https://www.datagubbe.se/afb/"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 13:44:55",
       "https://news.ycombinator.com/item?id=44455022"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-07-03, 01:07:04",
-      "https://news.ycombinator.com/item?id=44450575"
-    ],
-    [
-      "Trans-Taiga Road (2004)",
-      "https://www.jamesbayroad.com/ttr/index.html"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 00:24:46",
       "https://news.ycombinator.com/item?id=44450304"
     ],
@@ -257,6 +247,16 @@
     [
       "ViscaCamLink – Camera control application for PTZ cameras",
       "https://github.com/misorrek/ViscaCamLink"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 09:17:41",
+      "https://news.ycombinator.com/item?id=44432058"
+    ],
+    [
+      "Pbf2sqlite: Reading OpenStreetMap into a SQLite Database",
+      "https://github.com/osmzoso/pbf2sqlite"
     ]
   ],
   [
