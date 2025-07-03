@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-07-03, 20:40:25",
+      "https://news.ycombinator.com/item?id=44458986"
+    ],
+    [
+      "Yurei – Open source social media researcher powered by Exa AI API and YouTube v3",
+      "https://github.com/KasPeR0990/yurei-app"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 20:28:57",
       "https://news.ycombinator.com/item?id=44458890"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-07-01, 11:39:58",
-      "https://news.ycombinator.com/item?id=44432884"
-    ],
-    [
-      "ViscaCamLink – Camera control application for PTZ cameras",
-      "https://github.com/misorrek/ViscaCamLink"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 10:42:46",
       "https://news.ycombinator.com/item?id=44432506"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-06-30, 17:32:41",
-      "https://news.ycombinator.com/item?id=44425880"
-    ],
-    [
-      "That XOR Trick (2020)",
-      "https://florian.github.io//xor-trick/"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 17:24:03",
       "https://news.ycombinator.com/item?id=44425786"
     ],
     [
       "A Molecule with a Ring to It",
       "https://www.nature.com/articles/nchem.2136.epdf?sharing_token=hRx0lE9vx6IFSD8RNjlkt9RgN0jAjWel9jnR3ZoTv0NkK8XuUq3ovPVrg0CNW6qYCGw36QcUXFlo2avOxUtCSNAsbMSBPX8wFBlZv8P860KSW4WO92WlnMeaFn-hvLogqvIMMh4rfXEfTbGiPDApjw%3D%3D"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 08:10:27",
+      "https://news.ycombinator.com/item?id=44420711"
+    ],
+    [
+      "Show HN: I rewrote my notepad calculator as a local-first app with CRDT syncing",
+      "https://numpad.io"
     ]
   ]
 ]
