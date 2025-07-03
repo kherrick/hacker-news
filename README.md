@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Third Interstellar Object Discovered](https://minorplanetcenter.net/mpec/K25/K25N12.html)
+* [2025-07-03, 02:05:23](https://news.ycombinator.com/item?id=44450937) - [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
 * [2025-07-03, 01:45:27](https://news.ycombinator.com/item?id=44450812) - [The uncertain future of coding careers and why I'm still hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
 * [2025-07-03, 01:07:04](https://news.ycombinator.com/item?id=44450575) - [Trans-Taiga Road (2004)](https://www.jamesbayroad.com/ttr/index.html)
 * [2025-07-03, 00:24:46](https://news.ycombinator.com/item?id=44450304) - [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
@@ -17,9 +19,7 @@
 * [2025-07-02, 15:51:03](https://news.ycombinator.com/item?id=44445238) - [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
 * [2025-07-02, 15:03:09](https://news.ycombinator.com/item?id=44444626) - [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients)
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Exploiting the IKKO Activebuds “AI powered” earbuds (2024)](https://blog.mgdproductions.com/ikko-activebuds/)
-* [2025-07-02, 13:40:33](https://news.ycombinator.com/item?id=44443622) - [Private sector lost 33k jobs, badly missing expectations of 100k increase](https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html)
 * [2025-07-02, 11:39:12](https://news.ycombinator.com/item?id=44442473) - [Don’t use “click here” as link text (2001)](https://www.w3.org/QA/Tips/noClickHere)
-* [2025-07-02, 08:18:22](https://news.ycombinator.com/item?id=44441279) - [More assorted notes on Liquid Glass](https://morrick.me/archives/10068)
 * [2025-07-01, 14:29:32](https://news.ycombinator.com/item?id=44434245) - [Conversations with a Hit Man](https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
