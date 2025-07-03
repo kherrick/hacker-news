@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-07-01, 01:43:57",
+      "https://news.ycombinator.com/item?id=44429789"
+    ],
+    [
+      "Writing Code Was Never the Bottleneck",
+      "https://ordep.dev/posts/writing-code-was-never-the-bottleneck"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 19:31:32",
       "https://news.ycombinator.com/item?id=44426985"
     ],
@@ -287,16 +297,6 @@
     [
       "The Evolution of Caching Libraries in Go",
       "https://maypok86.github.io/otter/blog/cache-evolution/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 13:40:19",
-      "https://news.ycombinator.com/item?id=44413076"
-    ],
-    [
-      "The Zen of Quakerism (2016)",
-      "https://www.friendsjournal.org/the-zen-of-quakerism/"
     ]
   ]
 ]
