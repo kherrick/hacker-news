@@ -19,6 +19,7 @@
 * [2025-07-03, 14:05:05](https://news.ycombinator.com/item?id=44455222) - [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
 * [2025-07-03, 13:44:55](https://news.ycombinator.com/item?id=44455022) - [Where is my von Braun wheel?](https://angadh.com/wherevonbraunwheel)
 * [2025-07-03, 12:27:51](https://news.ycombinator.com/item?id=44454305) - [Show HN: HomeBrew HN – Generate personal context for content ranking](https://www.hackernews.coffee/)
+* [2025-07-03, 10:51:18](https://news.ycombinator.com/item?id=44453688) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [2025-07-01, 16:05:36](https://news.ycombinator.com/item?id=44435309) - [Copper is Faster than Fiber (2017) [pdf]](https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
@@ -28,7 +29,6 @@
 * [2025-07-01, 08:32:19](https://news.ycombinator.com/item?id=44431828) - [Ubuntu 25.10 Raises RISC-V Profile Requirements](https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support)
 * [2025-07-01, 02:48:16](https://news.ycombinator.com/item?id=44430117) - [About AI Evals](https://hamel.dev/blog/posts/evals-faq/)
 * [2025-06-30, 18:02:06](https://news.ycombinator.com/item?id=44426153) - [Alice's Adventures in a Differentiable Wonderland](https://arxiv.org/abs/2404.17625)
-* [2025-06-30, 17:24:03](https://news.ycombinator.com/item?id=44425786) - [A Molecule with a Ring to It](https://www.nature.com/articles/nchem.2136.epdf?sharing_token=hRx0lE9vx6IFSD8RNjlkt9RgN0jAjWel9jnR3ZoTv0NkK8XuUq3ovPVrg0CNW6qYCGw36QcUXFlo2avOxUtCSNAsbMSBPX8wFBlZv8P860KSW4WO92WlnMeaFn-hvLogqvIMMh4rfXEfTbGiPDApjw%3D%3D)
 * [2025-06-30, 08:10:27](https://news.ycombinator.com/item?id=44420711) - [Show HN: I rewrote my notepad calculator as a local-first app with CRDT syncing](https://numpad.io)
 
 ## [Archives](archives/index.md)
