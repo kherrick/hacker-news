@@ -23,13 +23,13 @@
 * [2025-07-01, 14:29:32](https://news.ycombinator.com/item?id=44434245) - [Conversations with a hit man about a notorious cold case](https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
+* [2025-07-01, 01:43:57](https://news.ycombinator.com/item?id=44429789) - [Writing Code Was Never the Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [2025-06-30, 19:31:32](https://news.ycombinator.com/item?id=44426985) - [Next month, saved passwords will no longer be in Microsoft’s Authenticator app](https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/)
 * [2025-06-30, 17:32:41](https://news.ycombinator.com/item?id=44425880) - [That XOR Trick (2020)](https://florian.github.io//xor-trick/)
 * [2025-06-30, 15:52:22](https://news.ycombinator.com/item?id=44424747) - [There's no such thing as a tree (phylogenetically) (2021)](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
 * [2025-06-30, 14:51:38](https://news.ycombinator.com/item?id=44424087) - [Nano-engineered thermoelectrics enable scalable, compressor-free cooling](https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling)
 * [2025-06-30, 11:04:53](https://news.ycombinator.com/item?id=44421788) - [Serenading Cells with Audible Sound Alters Gene Activity](https://www.scientificamerican.com/article/cells-can-hear-sounds-and-respond-genetically/)
 * [2025-06-29, 17:07:05](https://news.ycombinator.com/item?id=44414630) - [The Evolution of Caching Libraries in Go](https://maypok86.github.io/otter/blog/cache-evolution/)
-* [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
 
 ## [Archives](archives/index.md)
 
