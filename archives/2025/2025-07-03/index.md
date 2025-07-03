@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 22:17:10](https://news.ycombinator.com/item?id=44459608) - [Michael Madsen Has Died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
 * [2025-07-03, 21:01:06](https://news.ycombinator.com/item?id=44459146) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-07-03, 20:40:25](https://news.ycombinator.com/item?id=44458986) - [A simple opensource social media researcher powered by exa ai api and youtube v](https://github.com/KasPeR0990/yurei-app)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
