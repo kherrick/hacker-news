@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-07-03, 12:05:44",
+      "https://news.ycombinator.com/item?id=44454147"
+    ],
+    [
+      "How Microsoft became a hub for Israeli intelligence",
+      "https://thegrayzone.com/2025/05/23/microsoft-hub-israeli-intel/"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 12:00:28",
+      "https://news.ycombinator.com/item?id=44454114"
+    ],
+    [
+      "Kyber (YC W23) Is Hiring Enterprise BDRs",
+      "https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 11:27:12",
+      "https://news.ycombinator.com/item?id=44453888"
+    ],
+    [
+      "CoMaps: New OSM based navigation app",
+      "https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 10:51:18",
+      "https://news.ycombinator.com/item?id=44453688"
+    ],
+    [
+      "Tools: Code Is All You Need",
+      "https://lucumr.pocoo.org/2025/7/3/tools/"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 09:53:03",
       "https://news.ycombinator.com/item?id=44453371"
     ],
     [
       "Building Linux kernel on macOS natively",
       "https://seiya.me/blog/building-linux-on-macos-natively"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 09:43:37",
+      "https://news.ycombinator.com/item?id=44453317"
+    ],
+    [
+      "How I keep up with AI progress (and why you must too)",
+      "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/"
     ]
   ],
   [
@@ -81,26 +131,6 @@
   ],
   [
     [
-      "2025-07-03, 00:02:43",
-      "https://news.ycombinator.com/item?id=44450160"
-    ],
-    [
-      "What to build instead of AI agents",
-      "https://decodingml.substack.com/p/stop-building-ai-agents"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 21:10:13",
-      "https://news.ycombinator.com/item?id=44448868"
-    ],
-    [
-      "Websites hosting major US climate reports taken down",
-      "https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 20:28:39",
       "https://news.ycombinator.com/item?id=44448462"
     ],
@@ -157,16 +187,6 @@
     [
       "ICEBlock, an app for anonymously reporting ICE sightings, goes viral",
       "https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 16:10:46",
-      "https://news.ycombinator.com/item?id=44445458"
-    ],
-    [
-      "Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD",
-      "https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-06-30, 11:04:53",
-      "https://news.ycombinator.com/item?id=44421788"
+      "2025-06-30, 12:57:58",
+      "https://news.ycombinator.com/item?id=44422722"
     ],
     [
-      "Serenading Cells with Audible Sound Alters Gene Activity",
-      "https://www.scientificamerican.com/article/cells-can-hear-sounds-and-respond-genetically/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 09:10:23",
-      "https://news.ycombinator.com/item?id=44421094"
-    ],
-    [
-      "What's the difference between named functions and arrow functions in JavaScript?",
-      "https://jrsinclair.com/articles/2025/whats-the-difference-between-named-functions-and-arrow-functions/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 17:07:05",
-      "https://news.ycombinator.com/item?id=44414630"
-    ],
-    [
-      "The Evolution of Caching Libraries in Go",
-      "https://maypok86.github.io/otter/blog/cache-evolution/"
+      "Max, a Real Programmer",
+      "https://incoherency.co.uk/blog/stories/the-story-of-max.html"
     ]
   ]
 ]
