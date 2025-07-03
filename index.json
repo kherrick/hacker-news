@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-07-03, 20:40:25",
-      "https://news.ycombinator.com/item?id=44458986"
-    ],
-    [
-      "Yurei – Open source social media researcher powered by Exa AI API and YouTube v3",
-      "https://github.com/KasPeR0990/yurei-app"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 20:28:57",
       "https://news.ycombinator.com/item?id=44458890"
     ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2025-07-03, 15:25:30",
+      "https://news.ycombinator.com/item?id=44456027"
+    ],
+    [
+      "Parallelizing SHA256 Calculation on FPGA",
+      "https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 15:19:20",
       "https://news.ycombinator.com/item?id=44455950"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-07-03, 10:51:18",
-      "https://news.ycombinator.com/item?id=44453688"
-    ],
-    [
-      "Tools: Code Is All You Need",
-      "https://lucumr.pocoo.org/2025/7/3/tools/"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 03:19:24",
       "https://news.ycombinator.com/item?id=44451329"
     ],
@@ -227,6 +217,16 @@
     [
       "Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]",
       "https://www.youtube.com/watch?v=_PioN-CpOP0"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 11:39:58",
+      "https://news.ycombinator.com/item?id=44432884"
+    ],
+    [
+      "ViscaCamLink – Camera control application for PTZ cameras",
+      "https://github.com/misorrek/ViscaCamLink"
     ]
   ],
   [
