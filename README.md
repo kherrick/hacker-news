@@ -26,7 +26,7 @@
 * [2025-07-01, 09:35:05](https://news.ycombinator.com/item?id=44432142) - [Escher's art and computer science](https://github.com/gritzko/librdx/blob/master/blog/escher.md)
 * [2025-06-30, 19:31:32](https://news.ycombinator.com/item?id=44426985) - [Next month, saved passwords will no longer be in Microsoft’s Authenticator app](https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/)
 * [2025-06-30, 17:32:41](https://news.ycombinator.com/item?id=44425880) - [That XOR Trick (2020)](https://florian.github.io//xor-trick/)
-* [2025-06-30, 14:51:38](https://news.ycombinator.com/item?id=44424087) - [More Efficient Thermoelectric Cooling](https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling)
+* [2025-06-30, 14:51:38](https://news.ycombinator.com/item?id=44424087) - [Nano-engineered thermoelectrics enable scalable, compressor-free cooling](https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling)
 * [2025-06-29, 17:53:42](https://news.ycombinator.com/item?id=44414965) - [A list is a monad](https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/)
 * [2025-06-29, 17:07:05](https://news.ycombinator.com/item?id=44414630) - [The Evolution of Caching Libraries in Go](https://maypok86.github.io/otter/blog/cache-evolution/)
 * [2025-06-29, 13:40:19](https://news.ycombinator.com/item?id=44413076) - [The Zen of Quakerism (2016)](https://www.friendsjournal.org/the-zen-of-quakerism/)
