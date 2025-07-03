@@ -60,6 +60,7 @@
 * [2025-07-01, 10:35:23](https://news.ycombinator.com/item?id=44432467) - [Scientists identify culprit behind biggest-ever U.S. honey bee die-off](https://www.science.org/content/article/scientists-identify-culprit-behind-biggest-ever-u-s-honeybee-die)
 * [2025-07-01, 10:31:12](https://news.ycombinator.com/item?id=44432444) - [The average chess players of Bletchley Park and AI research in Britain](https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html)
 * [2025-07-01, 10:20:27](https://news.ycombinator.com/item?id=44432385) - [Cloudflare introduces pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
+* [2025-07-01, 10:12:50](https://news.ycombinator.com/item?id=44432351) - [An Algorithm for a Better Bookshelf](https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/)
 * [2025-07-01, 10:07:59](https://news.ycombinator.com/item?id=44432322) - [Show HN: ToplingDB - A Persistent Key-Value Store for External Storage](https://github.com/topling/toplingdb)
 * [2025-07-01, 09:35:05](https://news.ycombinator.com/item?id=44432142) - [Escher's art and computer science](https://github.com/gritzko/librdx/blob/master/blog/escher.md)
 * [2025-07-01, 09:17:41](https://news.ycombinator.com/item?id=44432058) - [Pbf2sqlite: Reading OpenStreetMap into a SQLite Database](https://github.com/osmzoso/pbf2sqlite)
