@@ -40,6 +40,7 @@
 * [2025-07-01, 14:41:48](https://news.ycombinator.com/item?id=44434355) - [I am not a supplier (2022)](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [2025-07-01, 14:29:32](https://news.ycombinator.com/item?id=44434245) - [Conversations with a Hit Man](https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/)
 * [2025-07-01, 14:08:11](https://news.ycombinator.com/item?id=44434062) - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
+* [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 14:00:30](https://news.ycombinator.com/item?id=44433994) - [Grammarly acquires Superhuman](https://www.reuters.com/business/grammarly-acquires-email-startup-superhuman-ai-platform-push-2025-07-01/)
 * [2025-07-01, 13:46:56](https://news.ycombinator.com/item?id=44433899) - [Experience converting a mathematical software package to C++20 modules [PDF]](https://arxiv.org/abs/2506.21654)
 * [2025-07-01, 13:41:15](https://news.ycombinator.com/item?id=44433843) - [Aesop in Words of One Syllable](https://blog.pgdp.net/2025/07/01/aesop-in-words-of-one-syllable/)
