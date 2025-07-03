@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 14:17:19](https://news.ycombinator.com/item?id=44455320) - [Locality of Behaviour (2020)](https://htmx.org/essays/locality-of-behaviour/)
 * [2025-07-03, 13:18:59](https://news.ycombinator.com/item?id=44454758) - [Head in the Clouds](https://www.commonwealmagazine.org/head-clouds)
 * [2025-07-03, 12:27:51](https://news.ycombinator.com/item?id=44454305) - [Show HN: HomeBrew HN – generate personal context for content ranking](https://www.hackernews.coffee/)
 * [2025-07-03, 12:05:44](https://news.ycombinator.com/item?id=44454147) - [How Microsoft became a hub for Israeli intelligence](https://thegrayzone.com/2025/05/23/microsoft-hub-israeli-intel/)
