@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-03, 15:35:34",
+      "https://news.ycombinator.com/item?id=44456135"
+    ],
+    [
+      "Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase",
+      "https://github.com/zserge/pennybase"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 15:25:30",
+      "https://news.ycombinator.com/item?id=44456027"
+    ],
+    [
+      "Parallelizing SHA256 Calculation on FPGA",
+      "https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 15:03:14",
       "https://news.ycombinator.com/item?id=44455787"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-07-02, 18:34:42",
-      "https://news.ycombinator.com/item?id=44447259"
-    ],
-    [
-      "A Higgs-Bugson in the Linux Kernel",
-      "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 18:05:20",
       "https://news.ycombinator.com/item?id=44446917"
     ],
@@ -167,16 +177,6 @@
     [
       "AI note takers are flooding Zoom calls as workers opt to skip meetings",
       "https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 16:45:28",
-      "https://news.ycombinator.com/item?id=44445877"
-    ],
-    [
-      "Features of D That I Love",
-      "https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-07-01, 14:29:32",
-      "https://news.ycombinator.com/item?id=44434245"
+      "2025-07-01, 16:05:36",
+      "https://news.ycombinator.com/item?id=44435309"
     ],
     [
-      "Conversations with a hit man",
-      "https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/"
+      "Copper is Faster than Fiber (2017) [pdf]",
+      "https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf"
     ]
   ],
   [
