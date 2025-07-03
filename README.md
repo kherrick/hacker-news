@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-03, 17:15:56](https://news.ycombinator.com/item?id=44457215) - [Stalking the Statistically Improbable Restaurant with Data](https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/)
 * [2025-07-03, 16:44:18](https://news.ycombinator.com/item?id=44456904) - [Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
 * [2025-07-03, 16:38:02](https://news.ycombinator.com/item?id=44456827) - [Postcard is now open source](https://www.contraption.co/postcard-open-source/)
 * [2025-07-03, 16:34:51](https://news.ycombinator.com/item?id=44456779) - [AV1@Scale: Film Grain Synthesis, The Awakening](https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b)
@@ -26,7 +27,6 @@
 * [2025-07-01, 12:26:51](https://news.ycombinator.com/item?id=44433218) - [Spending Too Much Money on a Coding Agent](https://allenpike.com/2025/coding-agents)
 * [2025-07-01, 11:39:58](https://news.ycombinator.com/item?id=44432884) - [ViscaCamLink – Camera control application for PTZ cameras](https://github.com/misorrek/ViscaCamLink)
 * [2025-07-01, 02:48:16](https://news.ycombinator.com/item?id=44430117) - [About AI Evals](https://hamel.dev/blog/posts/evals-faq/)
-* [2025-07-01, 01:43:57](https://news.ycombinator.com/item?id=44429789) - [Writing Code Was Never the Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [2025-06-30, 23:55:37](https://news.ycombinator.com/item?id=44429192) - [Importance of context management in AI NPCs](https://walterfreedom.com/post.html?id=ai-context-management)
 * [2025-06-30, 18:02:06](https://news.ycombinator.com/item?id=44426153) - [Alice's Adventures in a Differentiable Wonderland](https://arxiv.org/abs/2404.17625)
 * [2025-06-30, 17:32:41](https://news.ycombinator.com/item?id=44425880) - [That XOR Trick (2020)](https://florian.github.io//xor-trick/)
