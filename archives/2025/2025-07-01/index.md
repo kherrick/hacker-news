@@ -73,6 +73,7 @@
 * [2025-07-01, 03:27:09](https://news.ycombinator.com/item?id=44430286) - [Nimtable: Open-source web UI to browse and manage Apache Iceberg tables](https://github.com/nimtable/nimtable)
 * [2025-07-01, 03:19:29](https://news.ycombinator.com/item?id=44430263) - [Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits](https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/)
 * [2025-07-01, 02:59:28](https://news.ycombinator.com/item?id=44430162) - [The \"personal computer\" model scales better than the \"terminal\" model](https://utcc.utoronto.ca/~cks/space/blog/tech/ScalingTerminalsVsPCs)
+* [2025-07-01, 02:48:16](https://news.ycombinator.com/item?id=44430117) - [Frequently Asked Questions (and Answers) About AI Evals – Hamel's Blog](https://hamel.dev/blog/posts/evals-faq/)
 * [2025-07-01, 01:43:57](https://news.ycombinator.com/item?id=44429789) - [Writing Code Was Never the Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [2025-07-01, 01:25:07](https://news.ycombinator.com/item?id=44429695) - [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
 * [2025-07-01, 00:58:22](https://news.ycombinator.com/item?id=44429531) - [Pluto is a unique dialect of Lua with a focus on general-purpose programming](https://github.com/PlutoLang/Pluto)
