@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 12:05:44](https://news.ycombinator.com/item?id=44454147) - [How Microsoft became a hub for Israeli intelligence](https://thegrayzone.com/2025/05/23/microsoft-hub-israeli-intel/)
+* [2025-07-03, 12:00:28](https://news.ycombinator.com/item?id=44454114) - [Kyber (YC W23) Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
+* [2025-07-03, 11:27:12](https://news.ycombinator.com/item?id=44453888) - [CoMaps: New OSM based navigation app](https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/)
+* [2025-07-03, 10:51:18](https://news.ycombinator.com/item?id=44453688) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 * [2025-07-03, 09:53:03](https://news.ycombinator.com/item?id=44453371) - [Building Linux kernel on macOS natively](https://seiya.me/blog/building-linux-on-macos-natively)
+* [2025-07-03, 09:43:37](https://news.ycombinator.com/item?id=44453317) - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
 * [2025-07-03, 06:44:19](https://news.ycombinator.com/item?id=44452317) - [I Scanned All of GitHub's \"Oops Commits\" for Leaked Secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
 * [2025-07-03, 06:15:09](https://news.ycombinator.com/item?id=44452140) - [We reimagined Transformer architectures inspired by nature's hidden structures](https://ieeexplore.ieee.org/document/10754699)
 * [2025-07-03, 06:08:24](https://news.ycombinator.com/item?id=44452109) - [Abrego Garcia Was Beaten and Tortured in El Salvador Prison, Lawyers Say](https://www.nytimes.com/2025/07/02/us/politics/kilmar-abrego-garcia-el-salvador-trump-deportation.html)
