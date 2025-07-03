@@ -29,6 +29,7 @@
 * [2025-07-01, 16:31:02](https://news.ycombinator.com/item?id=44435572) - [Benchmarking Postgres](https://planetscale.com/blog/benchmarking-postgres)
 * [2025-07-01, 16:24:24](https://news.ycombinator.com/item?id=44435500) - [Show HN: Core – open source memory graph for LLMs – shareable, user owned](https://github.com/RedPlanetHQ/core)
 * [2025-07-01, 16:22:55](https://news.ycombinator.com/item?id=44435484) - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
+* [2025-07-01, 16:05:36](https://news.ycombinator.com/item?id=44435309) - [Copper is Faster than Fiber (2017) [pdf]](https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf)
 * [2025-07-01, 15:57:23](https://news.ycombinator.com/item?id=44435211) - [Show HN: HackerNewt - Breadth-first exploring HN client for iOS](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
 * [2025-07-01, 15:41:38](https://news.ycombinator.com/item?id=44435038) - [LibreOffice takes aim at Microsoft Office with free guides to help users switch](https://www.neowin.net/news/libreoffice-takes-aim-at-microsoft-office-with-free-guides-to-help-users-switch/)
 * [2025-07-01, 15:41:30](https://news.ycombinator.com/item?id=44435037) - [TikTok moderators in Turkey fight trauma, burnout, union-busting](https://restofworld.org/2025/tiktok-moderators-turkey/)
