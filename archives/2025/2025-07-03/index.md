@@ -16,6 +16,7 @@
 * [2025-07-03, 15:35:34](https://news.ycombinator.com/item?id=44456135) - [Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase](https://github.com/zserge/pennybase)
 * [2025-07-03, 15:25:30](https://news.ycombinator.com/item?id=44456027) - [Parallelizing SHA256 Calculation on FPGA](https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/)
 * [2025-07-03, 15:19:20](https://news.ycombinator.com/item?id=44455950) - [AI for Scientific Search](https://arxiv.org/abs/2507.01903)
+* [2025-07-03, 15:18:01](https://news.ycombinator.com/item?id=44455933) - [Flounder Mode – Kevin Kelly on a different way to do great work](https://joincolossus.com/article/flounder-mode/)
 * [2025-07-03, 15:03:14](https://news.ycombinator.com/item?id=44455787) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:17:19](https://news.ycombinator.com/item?id=44455320) - [Locality of Behaviour (2020)](https://htmx.org/essays/locality-of-behaviour/)
 * [2025-07-03, 14:05:05](https://news.ycombinator.com/item?id=44455222) - [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
