@@ -31,6 +31,7 @@
 * [2025-06-30, 18:28:12](https://news.ycombinator.com/item?id=44426374) - [OpenTelemetry Is Great, but Who the Hell Is Going to Pay for It?](https://www.adatosystems.com/2025/02/10/who-the-hell-is-going-to-pay-for-this/)
 * [2025-06-30, 18:10:50](https://news.ycombinator.com/item?id=44426233) - [Ask HN: What's the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
 * [2025-06-30, 18:03:26](https://news.ycombinator.com/item?id=44426171) - [They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder](https://kevinboone.me/dtc-700.html)
+* [2025-06-30, 18:02:06](https://news.ycombinator.com/item?id=44426153) - [Alice's Adventures in a Differentiable Wonderland](https://arxiv.org/abs/2404.17625)
 * [2025-06-30, 18:00:40](https://news.ycombinator.com/item?id=44426144) - [Why We Should Care About This War over the Future of Money](https://gizmodo.com/why-you-should-care-about-this-war-over-the-future-of-money-2000622009)
 * [2025-06-30, 17:58:38](https://news.ycombinator.com/item?id=44426128) - [Proton joins suit against Apple for predatory practices](https://proton.me/blog/apple-lawsuit)
 * [2025-06-30, 17:58:17](https://news.ycombinator.com/item?id=44426124) - [Operation Gold Rush, largest health care fraud bust in U.S. history](https://www.washingtonpost.com/health/2025/06/30/health-care-fraud-bust-largest-in-us-history/)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 12:27:51](https://news.ycombinator.com/item?id=44454305) - [Show HN: HomeBrew HN – generate personal context for content ranking](https://www.hackernews.coffee/)
 * [2025-07-03, 12:05:44](https://news.ycombinator.com/item?id=44454147) - [How Microsoft became a hub for Israeli intelligence](https://thegrayzone.com/2025/05/23/microsoft-hub-israeli-intel/)
 * [2025-07-03, 12:00:28](https://news.ycombinator.com/item?id=44454114) - [Kyber (YC W23) Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
+* [2025-07-03, 11:51:33](https://news.ycombinator.com/item?id=44454061) - [The uv build back end is now stable](https://docs.astral.sh/uv/concepts/build-backend/)
 * [2025-07-03, 11:27:12](https://news.ycombinator.com/item?id=44453888) - [CoMaps: New OSM based navigation app](https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/)
 * [2025-07-03, 10:51:18](https://news.ycombinator.com/item?id=44453688) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 * [2025-07-03, 09:53:03](https://news.ycombinator.com/item?id=44453371) - [Building Linux kernel on macOS natively](https://seiya.me/blog/building-linux-on-macos-natively)
