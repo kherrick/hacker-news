@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-03, 17:42:11](https://news.ycombinator.com/item?id=44457446) - [Mysterious life form found on ship that docked in Cleveland](https://www.cleveland.com/news/2025/07/mysterious-life-form-found-on-ship-that-docked-in-cleveland.html)
 * [2025-07-03, 17:36:13](https://news.ycombinator.com/item?id=44457390) - [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 * [2025-07-03, 17:34:05](https://news.ycombinator.com/item?id=44457371) - [The End of Moore's Law for AI? Gemini Flash Offers a Warning](https://sutro.sh/blog/the-end-of-moore-s-law-for-ai-gemini-flash-offers-a-warning)
 * [2025-07-03, 17:15:56](https://news.ycombinator.com/item?id=44457215) - [Stalking the Statistically Improbable Restaurant with Data](https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/)
@@ -13,7 +14,6 @@
 * [2025-07-03, 15:03:14](https://news.ycombinator.com/item?id=44455787) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:17:19](https://news.ycombinator.com/item?id=44455320) - [Locality of Behaviour (2020)](https://htmx.org/essays/locality-of-behaviour/)
 * [2025-07-03, 14:05:05](https://news.ycombinator.com/item?id=44455222) - [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
-* [2025-07-03, 13:18:59](https://news.ycombinator.com/item?id=44454758) - [Head in the Clouds](https://www.commonwealmagazine.org/head-clouds)
 * [2025-07-03, 12:27:51](https://news.ycombinator.com/item?id=44454305) - [Show HN: HomeBrew HN – generate personal context for content ranking](https://www.hackernews.coffee/)
 * [2025-07-03, 12:00:28](https://news.ycombinator.com/item?id=44454114) - [Kyber (YC W23) Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
 * [2025-07-03, 10:51:18](https://news.ycombinator.com/item?id=44453688) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
