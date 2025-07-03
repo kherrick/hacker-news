@@ -34,6 +34,7 @@
 * [2025-06-30, 17:58:38](https://news.ycombinator.com/item?id=44426128) - [Proton joins suit against Apple for predatory practices](https://proton.me/blog/apple-lawsuit)
 * [2025-06-30, 17:58:17](https://news.ycombinator.com/item?id=44426124) - [Operation Gold Rush, largest health care fraud bust in U.S. history](https://www.washingtonpost.com/health/2025/06/30/health-care-fraud-bust-largest-in-us-history/)
 * [2025-06-30, 17:47:25](https://news.ycombinator.com/item?id=44426027) - [Therapy dogs: stop crafting loopholes to fair, reasonable laws](https://dirtamericana.com/2025/04/therapy-dogs-business-interior-violations/)
+* [2025-06-30, 17:32:41](https://news.ycombinator.com/item?id=44425880) - [That XOR Trick (2020)](https://florian.github.io//xor-trick/)
 * [2025-06-30, 17:22:12](https://news.ycombinator.com/item?id=44425771) - [Why are lefties more creative? Turns out, they're not](https://phys.org/news/2025-06-lefties-creative-theyre.html)
 * [2025-06-30, 17:00:57](https://news.ycombinator.com/item?id=44425537) - [14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative](https://14.ai/careers)
 * [2025-06-30, 16:55:20](https://news.ycombinator.com/item?id=44425461) - [I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)

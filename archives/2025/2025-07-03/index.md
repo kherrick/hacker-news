@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-07-03](index.md)
+
+* [2025-07-03, 00:02:43](https://news.ycombinator.com/item?id=44450160) - [What to build instead of AI agents](https://decodingml.substack.com/p/stop-building-ai-agents)
