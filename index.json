@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-07-03, 02:05:23",
-      "https://news.ycombinator.com/item?id=44450937"
-    ],
-    [
-      "LLMs as Compilers",
-      "https://resync-games.com/blog/engineering/llms-as-compiler"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 01:45:27",
       "https://news.ycombinator.com/item?id=44450812"
     ],
@@ -297,6 +287,16 @@
     [
       "The Evolution of Caching Libraries in Go",
       "https://maypok86.github.io/otter/blog/cache-evolution/"
+    ]
+  ],
+  [
+    [
+      "2025-06-29, 13:40:19",
+      "https://news.ycombinator.com/item?id=44413076"
+    ],
+    [
+      "The Zen of Quakerism (2016)",
+      "https://www.friendsjournal.org/the-zen-of-quakerism/"
     ]
   ]
 ]
