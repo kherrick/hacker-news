@@ -2,6 +2,7 @@
 
 * [2025-07-03, 22:17:10](https://news.ycombinator.com/item?id=44459608) - [Michael Madsen Has Died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
 * [2025-07-03, 21:01:06](https://news.ycombinator.com/item?id=44459146) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+* [2025-07-03, 20:40:25](https://news.ycombinator.com/item?id=44458986) - [Yurei – Open source social media researcher powered by Exa AI API and YouTube v3](https://github.com/KasPeR0990/yurei-app)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 20:27:01](https://news.ycombinator.com/item?id=44458877) - [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
 * [2025-07-03, 17:36:13](https://news.ycombinator.com/item?id=44457390) - [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
@@ -22,14 +23,13 @@
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [2025-07-01, 16:05:36](https://news.ycombinator.com/item?id=44435309) - [Copper is Faster than Fiber (2017) [pdf]](https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
-* [2025-07-01, 11:39:58](https://news.ycombinator.com/item?id=44432884) - [ViscaCamLink – Camera control application for PTZ cameras](https://github.com/misorrek/ViscaCamLink)
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an abstraction, not an optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-07-01, 10:12:50](https://news.ycombinator.com/item?id=44432351) - [An Algorithm for a Better Bookshelf](https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/)
 * [2025-07-01, 08:32:19](https://news.ycombinator.com/item?id=44431828) - [Ubuntu 25.10 Raises RISC-V Profile Requirements](https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support)
 * [2025-07-01, 02:48:16](https://news.ycombinator.com/item?id=44430117) - [About AI Evals](https://hamel.dev/blog/posts/evals-faq/)
 * [2025-06-30, 18:02:06](https://news.ycombinator.com/item?id=44426153) - [Alice's Adventures in a Differentiable Wonderland](https://arxiv.org/abs/2404.17625)
-* [2025-06-30, 17:32:41](https://news.ycombinator.com/item?id=44425880) - [That XOR Trick (2020)](https://florian.github.io//xor-trick/)
 * [2025-06-30, 17:24:03](https://news.ycombinator.com/item?id=44425786) - [A Molecule with a Ring to It](https://www.nature.com/articles/nchem.2136.epdf?sharing_token=hRx0lE9vx6IFSD8RNjlkt9RgN0jAjWel9jnR3ZoTv0NkK8XuUq3ovPVrg0CNW6qYCGw36QcUXFlo2avOxUtCSNAsbMSBPX8wFBlZv8P860KSW4WO92WlnMeaFn-hvLogqvIMMh4rfXEfTbGiPDApjw%3D%3D)
+* [2025-06-30, 08:10:27](https://news.ycombinator.com/item?id=44420711) - [Show HN: I rewrote my notepad calculator as a local-first app with CRDT syncing](https://numpad.io)
 
 ## [Archives](archives/index.md)
 
