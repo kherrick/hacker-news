@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44450812"
     ],
     [
-      "The Uncertain Future of Coding Careers and Why I'm Still Hopeful",
+      "The uncertain future of coding careers and why I'm still hopeful",
       "https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44450575"
     ],
     [
-      "Trans-Taiga Road:The farthest you can get from a town on a road in North America",
+      "Trans-Taiga Road (2004)",
       "https://www.jamesbayroad.com/ttr/index.html"
     ]
   ],
@@ -191,12 +191,32 @@
   ],
   [
     [
+      "2025-07-02, 08:18:22",
+      "https://news.ycombinator.com/item?id=44441279"
+    ],
+    [
+      "More assorted notes on Liquid Glass",
+      "https://morrick.me/archives/10068"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 14:29:32",
       "https://news.ycombinator.com/item?id=44434245"
     ],
     [
       "Conversations with a Hit Man",
       "https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 14:00:33",
+      "https://news.ycombinator.com/item?id=44433996"
+    ],
+    [
+      "Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]",
+      "https://www.youtube.com/watch?v=_PioN-CpOP0"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "Escher's art and computer science",
       "https://github.com/gritzko/librdx/blob/master/blog/escher.md"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 07:55:53",
-      "https://news.ycombinator.com/item?id=44431638"
-    ],
-    [
-      "Evidence of a 12,800-year-old shallow airburst depression in Louisiana",
-      "https://www.scienceopen.com/hosted-document?doi=10.14293/ACI.2025.0004"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Evolution of Caching Libraries in Go",
       "https://maypok86.github.io/otter/blog/cache-evolution/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 14:10:57",
-      "https://news.ycombinator.com/item?id=44413308"
-    ],
-    [
-      "Efficient set-membership filters and dictionaries based on SAT",
-      "https://github.com/NationalSecurityAgency/XORSATFilter"
     ]
   ],
   [
