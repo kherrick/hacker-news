@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-03, 06:44:19",
+      "https://news.ycombinator.com/item?id=44452317"
+    ],
+    [
+      "I Scanned All of GitHub's \"Oops Commits\" for Leaked Secrets",
+      "https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 06:15:09",
+      "https://news.ycombinator.com/item?id=44452140"
+    ],
+    [
+      "We reimagined Transformer architectures inspired by nature's hidden structures",
+      "https://ieeexplore.ieee.org/document/10754699"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 04:21:58",
+      "https://news.ycombinator.com/item?id=44451602"
+    ],
+    [
+      "Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup",
+      "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 03:19:24",
       "https://news.ycombinator.com/item?id=44451329"
     ],
@@ -17,16 +47,6 @@
     [
       "LLMs as Compilers",
       "https://resync-games.com/blog/engineering/llms-as-compiler"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 01:45:27",
-      "https://news.ycombinator.com/item?id=44450812"
-    ],
-    [
-      "The uncertain future of coding careers and why I'm still hopeful",
-      "https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-07-02, 17:29:55",
-      "https://news.ycombinator.com/item?id=44446477"
-    ],
-    [
-      "MindsDB (YC W20) is hiring an AI solutions engineer",
-      "https://job-boards.greenhouse.io/mindsdb/jobs/4770283007"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 16:45:28",
       "https://news.ycombinator.com/item?id=44445877"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2025-07-02, 11:39:12",
+      "https://news.ycombinator.com/item?id=44442473"
+    ],
+    [
+      "Don’t use “click here” as link text (2001)",
+      "https://www.w3.org/QA/Tips/noClickHere"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 22:09:58",
       "https://news.ycombinator.com/item?id=44438412"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-07-01, 09:35:05",
-      "https://news.ycombinator.com/item?id=44432142"
-    ],
-    [
-      "Escher's art and computer science",
-      "https://github.com/gritzko/librdx/blob/master/blog/escher.md"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 19:31:32",
       "https://news.ycombinator.com/item?id=44426985"
     ],
@@ -267,16 +277,6 @@
     [
       "Nano-engineered thermoelectrics enable scalable, compressor-free cooling",
       "https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 17:53:42",
-      "https://news.ycombinator.com/item?id=44414965"
-    ],
-    [
-      "A list is a monad",
-      "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/"
     ]
   ],
   [
