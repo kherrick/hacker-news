@@ -42,6 +42,7 @@
 * [2025-06-30, 16:38:43](https://news.ycombinator.com/item?id=44425253) - [A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life](https://spectrum.ieee.org/carmax-used-pcs)
 * [2025-06-30, 16:27:56](https://news.ycombinator.com/item?id=44425125) - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
 * [2025-06-30, 16:15:29](https://news.ycombinator.com/item?id=44424996) - [Scribble-based forecasting and AI 2027](https://dynomight.net/scribbles/)
+* [2025-06-30, 15:52:22](https://news.ycombinator.com/item?id=44424747) - [There's no such thing as a tree (phylogenetically) (2021)](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
 * [2025-06-30, 15:48:45](https://news.ycombinator.com/item?id=44424712) - [The Academic Pipeline Stall: Why Industry Must Stand for Academia – ACM Sigops](https://www.sigops.org/2025/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
 * [2025-06-30, 15:06:14](https://news.ycombinator.com/item?id=44424256) - [Auth for B2B SaaS: it's not like auth for consumer software](https://tesseral.com/blog/b2b-auth-isnt-that-similar-to-b2c-auth)
 * [2025-06-30, 15:01:12](https://news.ycombinator.com/item?id=44424194) - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
