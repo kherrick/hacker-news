@@ -3,7 +3,6 @@
 * [2025-07-03, 13:18:59](https://news.ycombinator.com/item?id=44454758) - [Head in the Clouds](https://www.commonwealmagazine.org/head-clouds)
 * [2025-07-03, 12:27:51](https://news.ycombinator.com/item?id=44454305) - [Show HN: HomeBrew HN – generate personal context for content ranking](https://www.hackernews.coffee/)
 * [2025-07-03, 12:00:28](https://news.ycombinator.com/item?id=44454114) - [Kyber (YC W23) Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
-* [2025-07-03, 11:51:33](https://news.ycombinator.com/item?id=44454061) - [The uv build back end is now stable](https://docs.astral.sh/uv/concepts/build-backend/)
 * [2025-07-03, 11:27:12](https://news.ycombinator.com/item?id=44453888) - [CoMaps: New OSM based navigation app](https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/)
 * [2025-07-03, 10:51:18](https://news.ycombinator.com/item?id=44453688) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 * [2025-07-03, 04:21:58](https://news.ycombinator.com/item?id=44451602) - [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
@@ -17,7 +16,7 @@
 * [2025-07-02, 18:05:20](https://news.ycombinator.com/item?id=44446917) - [Couchers is officially out of beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
 * [2025-07-02, 18:05:17](https://news.ycombinator.com/item?id=44446916) - [AI note takers are flooding Zoom calls as workers opt to skip meetings](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
 * [2025-07-02, 16:45:28](https://news.ycombinator.com/item?id=44445877) - [Features of D That I Love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
-* [2025-07-02, 16:26:37](https://news.ycombinator.com/item?id=44445646) - [ICEBlock, an app for anonymously reporting ICE sightings, goes viral](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
+* [2025-07-02, 16:10:46](https://news.ycombinator.com/item?id=44445458) - [Sony's Mark Cerny Has Worked on \"Big Chunks of RDNA 5\" with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
 * [2025-07-02, 15:51:03](https://news.ycombinator.com/item?id=44445238) - [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Exploiting the IKKO Activebuds “AI powered” earbuds (2024)](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-01, 14:29:32](https://news.ycombinator.com/item?id=44434245) - [Conversations with a hit man](https://magazine.atavist.com/confessions-of-a-hit-man-larry-thompson-jim-leslie-george-dartois-louisiana-shreveport-cold-case/)
@@ -30,6 +29,7 @@
 * [2025-06-30, 17:32:41](https://news.ycombinator.com/item?id=44425880) - [That XOR Trick (2020)](https://florian.github.io//xor-trick/)
 * [2025-06-30, 14:51:38](https://news.ycombinator.com/item?id=44424087) - [Nano-engineered thermoelectrics enable scalable, compressor-free cooling](https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling)
 * [2025-06-30, 12:57:58](https://news.ycombinator.com/item?id=44422722) - [Max, a Real Programmer](https://incoherency.co.uk/blog/stories/the-story-of-max.html)
+* [2025-06-30, 11:04:53](https://news.ycombinator.com/item?id=44421788) - [Serenading Cells with Audible Sound Alters Gene Activity](https://www.scientificamerican.com/article/cells-can-hear-sounds-and-respond-genetically/)
 
 ## [Archives](archives/index.md)
 
