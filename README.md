@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 17:42:11](https://news.ycombinator.com/item?id=44457446) - [Mysterious life form found on ship that docked in Cleveland](https://www.cleveland.com/news/2025/07/mysterious-life-form-found-on-ship-that-docked-in-cleveland.html)
 * [2025-07-03, 17:36:13](https://news.ycombinator.com/item?id=44457390) - [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 * [2025-07-03, 17:34:05](https://news.ycombinator.com/item?id=44457371) - [The End of Moore's Law for AI? Gemini Flash Offers a Warning](https://sutro.sh/blog/the-end-of-moore-s-law-for-ai-gemini-flash-offers-a-warning)
@@ -19,7 +20,6 @@
 * [2025-07-03, 12:00:28](https://news.ycombinator.com/item?id=44454114) - [Kyber (YC W23) Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
 * [2025-07-03, 10:51:18](https://news.ycombinator.com/item?id=44453688) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
-* [2025-07-03, 00:24:46](https://news.ycombinator.com/item?id=44450304) - [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 12:26:51](https://news.ycombinator.com/item?id=44433218) - [Spending Too Much Money on a Coding Agent](https://allenpike.com/2025/coding-agents)
 * [2025-07-01, 11:39:58](https://news.ycombinator.com/item?id=44432884) - [ViscaCamLink – Camera control application for PTZ cameras](https://github.com/misorrek/ViscaCamLink)
