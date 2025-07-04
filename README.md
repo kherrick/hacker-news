@@ -20,7 +20,7 @@
 * [2025-07-03, 15:03:14](https://news.ycombinator.com/item?id=44455787) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:05:05](https://news.ycombinator.com/item?id=44455222) - [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
 * [2025-07-03, 13:44:55](https://news.ycombinator.com/item?id=44455022) - [Where is my von Braun wheel?](https://angadh.com/wherevonbraunwheel)
-* [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
+* [2025-07-01, 20:49:53](https://news.ycombinator.com/item?id=44437885) - [Batteries and Buildings](https://mtende.blog/batteries-vs-no-batteries)
 * [2025-07-01, 12:10:42](https://news.ycombinator.com/item?id=44433078) - [Raphael discovery emerges from Vatican museum restoration](https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624)
 * [2025-07-01, 10:56:20](https://news.ycombinator.com/item?id=44432596) - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an abstraction, not an optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
