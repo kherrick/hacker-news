@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
 * [2025-07-04, 18:43:06](https://news.ycombinator.com/item?id=44466896) - [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)
+* [2025-07-04, 18:41:37](https://news.ycombinator.com/item?id=44466888) - [Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B](https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f)
 * [2025-07-04, 18:33:45](https://news.ycombinator.com/item?id=44466838) - [Air Pollution May Contribute to Development of Lung Cancer in Never-Smokers](https://today.ucsd.edu/story/air-pollution-may-contribute-to-development-of-lung-cancer-in-never-smokers-new-study-finds)
 * [2025-07-04, 18:31:54](https://news.ycombinator.com/item?id=44466826) - [ChatGPT creates phisher's paradise by serving the wrong URLs for major companies](https://www.theregister.com/2025/07/03/ai_phishing_websites/)
 * [2025-07-04, 18:18:46](https://news.ycombinator.com/item?id=44466751) - [LLMs caused drastic vocabulary shift in biomedical publications](https://www.science.org/doi/10.1126/sciadv.adt3813)
