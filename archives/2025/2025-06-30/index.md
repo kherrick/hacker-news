@@ -17,6 +17,7 @@
 * [2025-06-30, 21:11:30](https://news.ycombinator.com/item?id=44427929) - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
 * [2025-06-30, 20:55:47](https://news.ycombinator.com/item?id=44427774) - [Brazil's Supreme Court clears way to hold social media liable for user content](https://apnews.com/article/brazil-supreme-court-social-media-ruling-324b9d79caa9f9e063da8a4993e382e1)
 * [2025-06-30, 20:53:55](https://news.ycombinator.com/item?id=44427757) - [The New Skill in AI Is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering)
+* [2025-06-30, 20:47:28](https://news.ycombinator.com/item?id=44427688) - [Developing with GitHub Copilot Agent Mode and MCP](https://austen.info/blog/github-copilot-agent-mcp/)
 * [2025-06-30, 20:24:53](https://news.ycombinator.com/item?id=44427452) - [CertMate – SSL Certificate Management System](https://github.com/fabriziosalmi/certmate)
 * [2025-06-30, 20:06:11](https://news.ycombinator.com/item?id=44427278) - [My Database Is My Application: Rethinking Webhook Logic with DuckDB and SQL](https://www.hey.earth/posts/duckdb-webhook-gateway)
 * [2025-06-30, 19:54:11](https://news.ycombinator.com/item?id=44427147) - [Price of rice in Japan falls below ¥4k per 5 kilograms](https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/)
