@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 21:00:13](https://news.ycombinator.com/item?id=44467852) - [Continue (YC S23) is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs)
+* [2025-07-04, 20:49:07](https://news.ycombinator.com/item?id=44467780) - [America Is Killing Its Chance to Find Alien Life](https://www.theatlantic.com/science/archive/2025/07/nasa-observatory-funding-trump-alien-life/683427/)
 * [2025-07-04, 19:45:08](https://news.ycombinator.com/item?id=44467312) - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
 * [2025-07-04, 19:40:02](https://news.ycombinator.com/item?id=44467279) - [Show HN: AirBending – hand gesture based macOS app MIDI controller](https://www.nanassound.com/products/software/airbending)
 * [2025-07-04, 18:43:06](https://news.ycombinator.com/item?id=44466896) - [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)

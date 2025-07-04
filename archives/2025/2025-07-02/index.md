@@ -20,6 +20,7 @@
 * [2025-07-02, 18:05:20](https://news.ycombinator.com/item?id=44446917) - [Couchers is officially out of Beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
 * [2025-07-02, 18:05:17](https://news.ycombinator.com/item?id=44446916) - [AI note takers are flooding Zoom calls as workers opt to skip meetings](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/)
 * [2025-07-02, 17:29:55](https://news.ycombinator.com/item?id=44446477) - [MindsDB (YC W20) Is Hiring for an AI Solutions Engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
+* [2025-07-02, 17:16:20](https://news.ycombinator.com/item?id=44446280) - [VLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
 * [2025-07-02, 16:45:32](https://news.ycombinator.com/item?id=44445880) - [Stop Killing Games](https://www.stopkillinggames.com/)
 * [2025-07-02, 16:45:28](https://news.ycombinator.com/item?id=44445877) - [Features of D That I Love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
 * [2025-07-02, 16:26:37](https://news.ycombinator.com/item?id=44445646) - [ICEBlock, an app for anonymously reporting ICE sightings](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
