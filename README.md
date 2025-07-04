@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-04, 06:47:04](https://news.ycombinator.com/item?id=44461775) - [The US dollar is on track for its worst year in modern history](https://www.semafor.com/article/07/03/2025/the-us-dollar-is-on-track-for-its-worst-year-in-modern-history)
-* [2025-07-04, 06:25:11](https://news.ycombinator.com/item?id=44461666) - [What is going on in Unix with errno's limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
+* [2025-07-04, 05:54:08](https://news.ycombinator.com/item?id=44461523) - [One Billion Cells – Another Multiplayer Demo with Clojure](https://cells.andersmurphy.com/)
 * [2025-07-04, 05:19:38](https://news.ycombinator.com/item?id=44461341) - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
 * [2025-07-04, 04:52:03](https://news.ycombinator.com/item?id=44461222) - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
 * [2025-07-04, 04:48:32](https://news.ycombinator.com/item?id=44461208) - [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
@@ -17,7 +17,6 @@
 * [2025-07-03, 16:38:02](https://news.ycombinator.com/item?id=44456827) - [Postcard is now open source](https://www.contraption.co/postcard-open-source/)
 * [2025-07-03, 16:34:51](https://news.ycombinator.com/item?id=44456779) - [AV1@Scale: Film Grain Synthesis, The Awakening](https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b)
 * [2025-07-03, 15:35:34](https://news.ycombinator.com/item?id=44456135) - [Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase](https://github.com/zserge/pennybase)
-* [2025-07-03, 15:19:20](https://news.ycombinator.com/item?id=44455950) - [AI for Scientific Search](https://arxiv.org/abs/2507.01903)
 * [2025-07-03, 15:18:01](https://news.ycombinator.com/item?id=44455933) - [Flounder Mode – Kevin Kelly on a different way to do great work](https://joincolossus.com/article/flounder-mode/)
 * [2025-07-03, 15:03:14](https://news.ycombinator.com/item?id=44455787) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:05:05](https://news.ycombinator.com/item?id=44455222) - [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
@@ -28,6 +27,7 @@
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an abstraction, not an optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-07-01, 10:12:50](https://news.ycombinator.com/item?id=44432351) - [An Algorithm for a Better Bookshelf](https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/)
 * [2025-07-01, 08:32:19](https://news.ycombinator.com/item?id=44431828) - [Ubuntu 25.10 Raises RISC-V Profile Requirements](https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support)
+* [2025-07-01, 07:48:56](https://news.ycombinator.com/item?id=44431601) - [Alternative Blanket Implementations for a Single Rust Trait](https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/)
 * [2025-06-30, 12:53:11](https://news.ycombinator.com/item?id=44422662) - [How AI on Microcontrollers Actually Works: Operators and Kernels](https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/)
 * [2025-06-30, 10:15:52](https://news.ycombinator.com/item?id=44421490) - [Manipulating trapped air bubbles in ice for message storage in cold regions](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8)
 

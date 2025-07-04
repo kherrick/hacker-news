@@ -6,6 +6,7 @@
 
 * [2025-07-04, 06:47:04](https://news.ycombinator.com/item?id=44461775) - [The US dollar is on track for its worst year in modern history](https://www.semafor.com/article/07/03/2025/the-us-dollar-is-on-track-for-its-worst-year-in-modern-history)
 * [2025-07-04, 06:25:11](https://news.ycombinator.com/item?id=44461666) - [What is going on in Unix with errno's limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
+* [2025-07-04, 05:54:08](https://news.ycombinator.com/item?id=44461523) - [One Billion Cells – Another Multiplayer Demo with Clojure](https://cells.andersmurphy.com/)
 * [2025-07-04, 05:26:58](https://news.ycombinator.com/item?id=44461368) - [Google says \"not a security vulnerability\", quickly fixes without attribution](https://groups.google.com/g/certificate-transparency/c/u8SsXgSFbz4/m/CThyzj-QBAAJ)
 * [2025-07-04, 05:19:38](https://news.ycombinator.com/item?id=44461341) - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
 * [2025-07-04, 04:52:03](https://news.ycombinator.com/item?id=44461222) - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
