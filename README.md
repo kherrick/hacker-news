@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-04, 02:04:55](https://news.ycombinator.com/item?id=44460552) - [My open source project was stolen and relicensed by a YC company](https://twitter.com/soham_btw/status/1940952786491027886)
+* [2025-07-04, 02:04:55](https://news.ycombinator.com/item?id=44460552) - [My open source project was relicensed by a YC company [license updated]](https://twitter.com/soham_btw/status/1940952786491027886)
 * [2025-07-03, 23:31:03](https://news.ycombinator.com/item?id=44459980) - [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
 * [2025-07-03, 22:17:10](https://news.ycombinator.com/item?id=44459608) - [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
 * [2025-07-03, 21:01:06](https://news.ycombinator.com/item?id=44459146) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
@@ -13,7 +13,6 @@
 * [2025-07-03, 16:34:51](https://news.ycombinator.com/item?id=44456779) - [AV1@Scale: Film Grain Synthesis, The Awakening](https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b)
 * [2025-07-03, 15:58:32](https://news.ycombinator.com/item?id=44456379) - [Encoding Jake Gyllenhaal into one million checkboxes (2024)](https://ednamode.xyz/blogs/2.html)
 * [2025-07-03, 15:35:34](https://news.ycombinator.com/item?id=44456135) - [Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase](https://github.com/zserge/pennybase)
-* [2025-07-03, 15:25:30](https://news.ycombinator.com/item?id=44456027) - [Parallelizing SHA256 Calculation on FPGA](https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/)
 * [2025-07-03, 15:19:20](https://news.ycombinator.com/item?id=44455950) - [AI for Scientific Search](https://arxiv.org/abs/2507.01903)
 * [2025-07-03, 15:18:01](https://news.ycombinator.com/item?id=44455933) - [Flounder Mode – Kevin Kelly on a different way to do great work](https://joincolossus.com/article/flounder-mode/)
 * [2025-07-03, 15:03:14](https://news.ycombinator.com/item?id=44455787) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
@@ -28,6 +27,7 @@
 * [2025-07-01, 08:32:19](https://news.ycombinator.com/item?id=44431828) - [Ubuntu 25.10 Raises RISC-V Profile Requirements](https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support)
 * [2025-07-01, 02:48:16](https://news.ycombinator.com/item?id=44430117) - [About AI Evals](https://hamel.dev/blog/posts/evals-faq/)
 * [2025-06-30, 18:02:06](https://news.ycombinator.com/item?id=44426153) - [Alice's Adventures in a Differentiable Wonderland](https://arxiv.org/abs/2404.17625)
+* [2025-06-30, 13:44:12](https://news.ycombinator.com/item?id=44423194) - [(Experiment) Colocating agent instructions with eng docs](https://technicalwriting.dev/ai/agents/colocate.html)
 * [2025-06-30, 10:15:52](https://news.ycombinator.com/item?id=44421490) - [Manipulating trapped air bubbles in ice for message storage in cold regions](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8)
 * [2025-06-30, 08:10:27](https://news.ycombinator.com/item?id=44420711) - [Show HN: I rewrote my notepad calculator as a local-first app with CRDT syncing](https://numpad.io)
 
