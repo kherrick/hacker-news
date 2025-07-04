@@ -2,7 +2,6 @@
 
 * [2025-07-04, 19:45:08](https://news.ycombinator.com/item?id=44467312) - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
 * [2025-07-04, 19:40:02](https://news.ycombinator.com/item?id=44467279) - [Show HN: AirBending – hand gesture based macOS app MIDI controller](https://www.nanassound.com/products/software/airbending)
-* [2025-07-04, 18:43:06](https://news.ycombinator.com/item?id=44466896) - [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)
 * [2025-07-04, 18:41:37](https://news.ycombinator.com/item?id=44466888) - [Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B](https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f)
 * [2025-07-04, 18:33:45](https://news.ycombinator.com/item?id=44466838) - [Air Pollution May Contribute to Development of Lung Cancer in Never-Smokers](https://today.ucsd.edu/story/air-pollution-may-contribute-to-development-of-lung-cancer-in-never-smokers-new-study-finds)
 * [2025-07-04, 18:31:54](https://news.ycombinator.com/item?id=44466826) - [ChatGPT creates phisher's paradise by serving the wrong URLs for major companies](https://www.theregister.com/2025/07/03/ai_phishing_websites/)
@@ -24,10 +23,11 @@
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 * [2025-07-04, 04:11:19](https://news.ycombinator.com/item?id=44461067) - [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
-* [2025-07-01, 12:12:56](https://news.ycombinator.com/item?id=44433094) - [In a milestone for Manhattan, a pair of coyotes has made Central Park their home](https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/)
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
 * [2025-07-01, 11:36:39](https://news.ycombinator.com/item?id=44432857) - [OpenDrop – electro-wetting technology to control small droplets of liquids](https://gaudishop.ch/index.php/product-category/opendrop/)
 * [2025-07-01, 08:28:16](https://news.ycombinator.com/item?id=44431805) - [``Free as Air, Free as Water, Free as Knowledge'' (1992)](http://bactra.org/Sterling/Free_as_the_Air_Free_as_Water_Free_as_Knowledge.html)
+* [2025-07-01, 07:11:01](https://news.ycombinator.com/item?id=44431372) - [Show HN: A cross-platform terminal emulator written in Java](https://github.com/sebkur/forceterm)
+* [2025-07-01, 06:40:08](https://news.ycombinator.com/item?id=44431226) - [Logging Shell Commands in BusyBox? Yes, You Can Now](http://carminatialessandro.blogspot.com/2025/06/logging-shell-commands-in-busybox-yes.html)
 * [2025-06-30, 23:26:06](https://news.ycombinator.com/item?id=44428997) - [Killer whales groom each other with pieces of kelp](https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp)
 * [2025-06-30, 22:48:24](https://news.ycombinator.com/item?id=44428746) - [The Novelty of the Arpanet](https://twobithistory.org/2021/02/07/arpanet.html)
 
