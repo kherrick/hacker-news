@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
 * [2025-07-04, 14:51:58](https://news.ycombinator.com/item?id=44465076) - [Is Anybody Using This Private Key](https://isanybodyusingthisprivatekey.com/)
 * [2025-07-04, 14:13:25](https://news.ycombinator.com/item?id=44464756) - [We're Not Innovating, We're Just Forgetting Slower](https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower)
 * [2025-07-04, 13:58:49](https://news.ycombinator.com/item?id=44464647) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
@@ -27,7 +28,6 @@
 * [2025-07-01, 12:10:42](https://news.ycombinator.com/item?id=44433078) - [Raphael discovery emerges from Vatican museum restoration](https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624)
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
 * [2025-07-01, 11:42:04](https://news.ycombinator.com/item?id=44432900) - [phkmalloc](https://phk.freebsd.dk/sagas/phkmalloc/)
-* [2025-07-01, 10:56:20](https://news.ycombinator.com/item?id=44432596) - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [2025-07-01, 07:11:01](https://news.ycombinator.com/item?id=44431372) - [Show HN: A cross-platform terminal emulator written in Java](https://github.com/sebkur/forceterm)
 * [2025-06-30, 23:26:06](https://news.ycombinator.com/item?id=44428997) - [Killer whales groom each other with pieces of kelp](https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp)
 
