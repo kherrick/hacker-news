@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-07-03, 17:15:56",
-      "https://news.ycombinator.com/item?id=44457215"
-    ],
-    [
-      "Stalking the Statistically Improbable Restaurant with Data",
-      "https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 16:44:18",
       "https://news.ycombinator.com/item?id=44456904"
     ],
@@ -287,6 +277,16 @@
     [
       "Experiment: Colocating agent instructions with eng docs",
       "https://technicalwriting.dev/ai/agents/colocate.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 12:53:11",
+      "https://news.ycombinator.com/item?id=44422662"
+    ],
+    [
+      "How AI on Microcontrollers Actually Works: Operators and Kernels",
+      "https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/"
     ]
   ],
   [
