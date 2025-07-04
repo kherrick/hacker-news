@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 06:25:11](https://news.ycombinator.com/item?id=44461666) - [What is going on in Unix with errno's limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
+* [2025-07-04, 05:26:58](https://news.ycombinator.com/item?id=44461368) - [Google says \"not a security vulnerability\", quickly fixes without attribution](https://groups.google.com/g/certificate-transparency/c/u8SsXgSFbz4/m/CThyzj-QBAAJ)
 * [2025-07-04, 05:19:38](https://news.ycombinator.com/item?id=44461341) - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
 * [2025-07-04, 04:52:03](https://news.ycombinator.com/item?id=44461222) - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
 * [2025-07-04, 04:48:32](https://news.ycombinator.com/item?id=44461208) - [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
