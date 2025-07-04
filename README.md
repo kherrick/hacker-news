@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-04, 21:38:04](https://news.ycombinator.com/item?id=44468058) - [Prompting LLMs is not engineering](https://dmitriid.com/prompting-llms-is-not-engineering)
 * [2025-07-04, 21:16:57](https://news.ycombinator.com/item?id=44467949) - [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
 * [2025-07-04, 21:00:13](https://news.ycombinator.com/item?id=44467852) - [Continue (YC S23) is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs)
 * [2025-07-04, 19:45:08](https://news.ycombinator.com/item?id=44467312) - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
@@ -27,7 +28,6 @@
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
 * [2025-07-01, 11:36:39](https://news.ycombinator.com/item?id=44432857) - [OpenDrop – electro-wetting technology to control small droplets of liquids](https://gaudishop.ch/index.php/product-category/opendrop/)
 * [2025-07-01, 08:28:16](https://news.ycombinator.com/item?id=44431805) - [``Free as Air, Free as Water, Free as Knowledge'' (1992)](http://bactra.org/Sterling/Free_as_the_Air_Free_as_Water_Free_as_Knowledge.html)
-* [2025-07-01, 07:11:01](https://news.ycombinator.com/item?id=44431372) - [Show HN: A cross-platform terminal emulator written in Java](https://github.com/sebkur/forceterm)
 * [2025-06-30, 23:26:06](https://news.ycombinator.com/item?id=44428997) - [Killer whales groom each other with pieces of kelp](https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp)
 * [2025-06-30, 22:48:24](https://news.ycombinator.com/item?id=44428746) - [The Novelty of the Arpanet](https://twobithistory.org/2021/02/07/arpanet.html)
 
