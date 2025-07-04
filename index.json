@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-07-04, 06:25:11",
-      "https://news.ycombinator.com/item?id=44461666"
+      "2025-07-04, 05:54:08",
+      "https://news.ycombinator.com/item?id=44461523"
     ],
     [
-      "What is going on in Unix with errno's limited nature",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited"
+      "One Billion Cells – Another Multiplayer Demo with Clojure",
+      "https://cells.andersmurphy.com/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-07-03, 15:19:20",
-      "https://news.ycombinator.com/item?id=44455950"
-    ],
-    [
-      "AI for Scientific Search",
-      "https://arxiv.org/abs/2507.01903"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 15:18:01",
       "https://news.ycombinator.com/item?id=44455933"
     ],
@@ -277,6 +267,16 @@
     [
       "Ubuntu 25.10 Raises RISC-V Profile Requirements",
       "https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 07:48:56",
+      "https://news.ycombinator.com/item?id=44431601"
+    ],
+    [
+      "Alternative Blanket Implementations for a Single Rust Trait",
+      "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/"
     ]
   ],
   [
