@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 07:40:42](https://news.ycombinator.com/item?id=44462124) - [As a Labrador swam by me out to sea his owner said I hope he doesn't meet a seal](https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/)
+* [2025-07-04, 07:18:38](https://news.ycombinator.com/item?id=44461976) - [When Your Exit Strategy Dream Is My Customer Nightmare](https://my-notes.dragas.net/2025/07/04/your-exit-strategy-dream-is-my-customer-nightmare/)
 * [2025-07-04, 06:47:04](https://news.ycombinator.com/item?id=44461775) - [The US dollar is on track for its worst year in modern history](https://www.semafor.com/article/07/03/2025/the-us-dollar-is-on-track-for-its-worst-year-in-modern-history)
 * [2025-07-04, 06:25:11](https://news.ycombinator.com/item?id=44461666) - [What is going on in Unix with errno's limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
 * [2025-07-04, 05:54:08](https://news.ycombinator.com/item?id=44461523) - [One Billion Cells – Another Multiplayer Demo with Clojure](https://cells.andersmurphy.com/)
