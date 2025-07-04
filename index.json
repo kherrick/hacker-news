@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-07-04, 06:47:04",
+      "https://news.ycombinator.com/item?id=44461775"
+    ],
+    [
+      "The US dollar is on track for its worst year in modern history",
+      "https://www.semafor.com/article/07/03/2025/the-us-dollar-is-on-track-for-its-worst-year-in-modern-history"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 06:25:11",
       "https://news.ycombinator.com/item?id=44461666"
     ],
     [
       "What is going on in Unix with errno's limited nature",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 05:26:58",
-      "https://news.ycombinator.com/item?id=44461368"
-    ],
-    [
-      "Google says \"not a security vulnerability\", quickly fixes without attribution",
-      "https://groups.google.com/g/certificate-transparency/c/u8SsXgSFbz4/m/CThyzj-QBAAJ"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-07-01, 12:10:42",
+      "https://news.ycombinator.com/item?id=44433078"
+    ],
+    [
+      "Raphael Discovery Emerges from Vatican Museum Restoration",
+      "https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 10:56:20",
       "https://news.ycombinator.com/item?id=44432596"
     ],
@@ -267,16 +277,6 @@
     [
       "Ubuntu 25.10 Raises RISC-V Profile Requirements",
       "https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 13:44:12",
-      "https://news.ycombinator.com/item?id=44423194"
-    ],
-    [
-      "Experiment: Colocating agent instructions with eng docs",
-      "https://technicalwriting.dev/ai/agents/colocate.html"
     ]
   ],
   [
