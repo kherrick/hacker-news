@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 12:00:53](https://news.ycombinator.com/item?id=44463773) - [Enhanced Radar (YC W25) is hiring a founding engineer](https://news.ycombinator.com/item?id=44463773)
+* [2025-07-04, 11:48:12](https://news.ycombinator.com/item?id=44463698) - [Show HN: Fast Thermodynamic Calculations in Python](https://dlr-institute-of-future-fuels.github.io/gaspype/)
+* [2025-07-04, 11:39:00](https://news.ycombinator.com/item?id=44463631) - [How to render a mesh gradient using RBF interpolation](https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link)
+* [2025-07-04, 09:43:04](https://news.ycombinator.com/item?id=44462947) - [Larry (Cat)](https://en.wikipedia.org/wiki/Larry_(cat))
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 * [2025-07-04, 08:57:58](https://news.ycombinator.com/item?id=44462615) - [Man goes viral after working for four startups at the same time](https://www.nbcnews.com/tech/internet/man-goes-viral-working-four-startups-time-rcna216890)
 * [2025-07-04, 08:17:28](https://news.ycombinator.com/item?id=44462361) - [Show HN: Soham Agent – Write cold emails like Soham Parekh](https://buildthatidea.com/sohamagent/6c604d4f-caac-475f-b489-d568210f905a)
