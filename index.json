@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44460552"
     ],
     [
-      "My open source project was stolen and relicensed by a YC company",
+      "My open source project was relicensed by a YC company [license updated]",
       "https://twitter.com/soham_btw/status/1940952786491027886"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase",
       "https://github.com/zserge/pennybase"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 15:25:30",
-      "https://news.ycombinator.com/item?id=44456027"
-    ],
-    [
-      "Parallelizing SHA256 Calculation on FPGA",
-      "https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Alice's Adventures in a Differentiable Wonderland",
       "https://arxiv.org/abs/2404.17625"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 13:44:12",
+      "https://news.ycombinator.com/item?id=44423194"
+    ],
+    [
+      "(Experiment) Colocating agent instructions with eng docs",
+      "https://technicalwriting.dev/ai/agents/colocate.html"
     ]
   ],
   [
