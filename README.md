@@ -2,11 +2,11 @@
 
 * [2025-07-04, 04:52:03](https://news.ycombinator.com/item?id=44461222) - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
 * [2025-07-04, 04:48:32](https://news.ycombinator.com/item?id=44461208) - [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
-* [2025-07-04, 04:36:25](https://news.ycombinator.com/item?id=44461158) - [White House claims expansive power to nullify TikTok ban and other laws](https://www.nytimes.com/2025/07/03/us/politics/trump-bondi-tiktok-executive-power.html)
+* [2025-07-04, 04:11:19](https://news.ycombinator.com/item?id=44461067) - [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
 * [2025-07-04, 03:55:47](https://news.ycombinator.com/item?id=44461015) - [LooksMapping](https://looksmapping.com/)
 * [2025-07-04, 03:48:21](https://news.ycombinator.com/item?id=44460991) - [Electronic Arts Leadership Are Out of Their Goddamned Minds](https://aftermath.site/ea-dice-battlefield-battle-royale-free-to-play-f2p)
+* [2025-07-04, 02:04:55](https://news.ycombinator.com/item?id=44460552) - [My open source project was relicensed by a YC company [license updated]](https://twitter.com/soham_btw/status/1940952786491027886)
 * [2025-07-03, 23:31:03](https://news.ycombinator.com/item?id=44459980) - [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
-* [2025-07-03, 22:17:10](https://news.ycombinator.com/item?id=44459608) - [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
 * [2025-07-03, 21:01:06](https://news.ycombinator.com/item?id=44459146) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 20:27:01](https://news.ycombinator.com/item?id=44458877) - [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
