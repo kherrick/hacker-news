@@ -55,6 +55,7 @@
 * [2025-07-01, 12:26:51](https://news.ycombinator.com/item?id=44433218) - [Spending Too Much Money on a Coding Agent](https://allenpike.com/2025/coding-agents)
 * [2025-07-01, 11:39:58](https://news.ycombinator.com/item?id=44432884) - [ViscaCamLink – Camera control application for PTZ cameras](https://github.com/misorrek/ViscaCamLink)
 * [2025-07-01, 11:05:43](https://news.ycombinator.com/item?id=44432644) - [Finding and understanding bugs in C compilers [pdf]](https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf)
+* [2025-07-01, 10:56:20](https://news.ycombinator.com/item?id=44432596) - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an Abstraction, not an Optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-07-01, 10:35:23](https://news.ycombinator.com/item?id=44432467) - [Scientists identify culprit behind biggest-ever U.S. honey bee die-off](https://www.science.org/content/article/scientists-identify-culprit-behind-biggest-ever-u-s-honeybee-die)

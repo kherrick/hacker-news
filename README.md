@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-04, 04:36:25](https://news.ycombinator.com/item?id=44461158) - [White House claims expansive power to nullify TikTok ban and other laws](https://www.nytimes.com/2025/07/03/us/politics/trump-bondi-tiktok-executive-power.html)
 * [2025-07-04, 03:48:21](https://news.ycombinator.com/item?id=44460991) - [Electronic Arts Leadership Are Out of Their Goddamned Minds](https://aftermath.site/ea-dice-battlefield-battle-royale-free-to-play-f2p)
 * [2025-07-03, 23:31:03](https://news.ycombinator.com/item?id=44459980) - [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
 * [2025-07-03, 22:17:10](https://news.ycombinator.com/item?id=44459608) - [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
@@ -20,14 +21,13 @@
 * [2025-07-03, 13:44:55](https://news.ycombinator.com/item?id=44455022) - [Where is my von Braun wheel?](https://angadh.com/wherevonbraunwheel)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
+* [2025-07-01, 10:56:20](https://news.ycombinator.com/item?id=44432596) - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an abstraction, not an optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-07-01, 10:31:54](https://news.ycombinator.com/item?id=44432451) - [Sound Chip, whisper me your secrets [video]](https://media.ccc.de/v/gpn23-302-sound-chip-whisper-me-your-secrets-)
 * [2025-07-01, 10:12:50](https://news.ycombinator.com/item?id=44432351) - [An Algorithm for a Better Bookshelf](https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/)
-* [2025-07-01, 09:16:43](https://news.ycombinator.com/item?id=44432055) - [You are what you launch: how software became a lifestyle brand](https://omeru.bearblog.dev/lifestyle/)
 * [2025-07-01, 08:32:19](https://news.ycombinator.com/item?id=44431828) - [Ubuntu 25.10 Raises RISC-V Profile Requirements](https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support)
 * [2025-07-01, 02:48:16](https://news.ycombinator.com/item?id=44430117) - [About AI Evals](https://hamel.dev/blog/posts/evals-faq/)
-* [2025-06-30, 18:02:06](https://news.ycombinator.com/item?id=44426153) - [Alice's Adventures in a Differentiable Wonderland](https://arxiv.org/abs/2404.17625)
-* [2025-06-30, 13:44:12](https://news.ycombinator.com/item?id=44423194) - [(Experiment) Colocating agent instructions with eng docs](https://technicalwriting.dev/ai/agents/colocate.html)
+* [2025-06-30, 13:44:12](https://news.ycombinator.com/item?id=44423194) - [Experiment: Colocating agent instructions with eng docs](https://technicalwriting.dev/ai/agents/colocate.html)
 * [2025-06-30, 10:15:52](https://news.ycombinator.com/item?id=44421490) - [Manipulating trapped air bubbles in ice for message storage in cold regions](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8)
 * [2025-06-30, 08:10:27](https://news.ycombinator.com/item?id=44420711) - [Show HN: I rewrote my notepad calculator as a local-first app with CRDT syncing](https://numpad.io)
 
