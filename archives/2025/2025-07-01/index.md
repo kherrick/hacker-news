@@ -77,6 +77,7 @@
 * [2025-07-01, 08:25:49](https://news.ycombinator.com/item?id=44431786) - [Automatically Rewrite Container Image References in Kubernetes](https://github.com/flemzord/mutating-registry-webhook)
 * [2025-07-01, 07:55:53](https://news.ycombinator.com/item?id=44431638) - [Evidence of a 12,800-year-old shallow airburst depression in Louisiana](https://www.scienceopen.com/hosted-document?doi=10.14293/ACI.2025.0004)
 * [2025-07-01, 07:48:56](https://news.ycombinator.com/item?id=44431601) - [Alternative Blanket Implementations for a Single Rust Trait](https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/)
+* [2025-07-01, 07:11:01](https://news.ycombinator.com/item?id=44431372) - [Show HN: A cross-platform terminal emulator written in Java](https://github.com/sebkur/forceterm)
 * [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
 * [2025-07-01, 06:48:50](https://news.ycombinator.com/item?id=44431251) - [Ask HN: Is your company forcing use of AI?](https://news.ycombinator.com/item?id=44431251)
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
