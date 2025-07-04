@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-07-04, 18:31:54",
+      "https://news.ycombinator.com/item?id=44466826"
+    ],
+    [
+      "ChatGPT creates phisher's paradise by serving the wrong URLs for major companies",
+      "https://www.theregister.com/2025/07/03/ai_phishing_websites/"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 18:18:46",
+      "https://news.ycombinator.com/item?id=44466751"
+    ],
+    [
+      "LLMs caused drastic vocabulary shift in biomedical publications",
+      "https://www.science.org/doi/10.1126/sciadv.adt3813"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 18:12:25",
+      "https://news.ycombinator.com/item?id=44466697"
+    ],
+    [
+      "How to Incapacitate Google Tag Manager and Why You Should (2022)",
+      "https://backlit.neocities.org/incapacitate-google-tag-manager"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 17:00:18",
       "https://news.ycombinator.com/item?id=44466121"
     ],
     [
       "UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance",
       "https://up.codes/careers?utm_source=HN"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 16:42:57",
+      "https://news.ycombinator.com/item?id=44465980"
+    ],
+    [
+      "Gremllm",
+      "https://github.com/awwaiid/gremllm"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "Compression Dictionary Transport",
       "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 14:13:25",
-      "https://news.ycombinator.com/item?id=44464756"
-    ],
-    [
-      "We're Not Innovating, We're Just Forgetting Slower",
-      "https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower"
     ]
   ],
   [
@@ -141,6 +171,16 @@
   ],
   [
     [
+      "2025-07-04, 11:42:35",
+      "https://news.ycombinator.com/item?id=44463654"
+    ],
+    [
+      "A Rust-TypeScript integration",
+      "https://github.com/beeeeep54/rust-typescript"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 11:24:42",
       "https://news.ycombinator.com/item?id=44463536"
     ],
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2025-07-04, 03:55:47",
-      "https://news.ycombinator.com/item?id=44461015"
-    ],
-    [
-      "LooksMapping",
-      "https://looksmapping.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 20:28:57",
       "https://news.ycombinator.com/item?id=44458890"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2025-07-03, 16:44:18",
-      "https://news.ycombinator.com/item?id=44456904"
-    ],
-    [
-      "Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots",
-      "https://news.ycombinator.com/item?id=44456904"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 12:12:56",
       "https://news.ycombinator.com/item?id=44433094"
     ],
     [
-      "In a Milestone for Manhattan, a Pair of Coyotes Has Made Central Park Their Home",
+      "In a milestone for Manhattan, a pair of coyotes has made Central Park their home",
       "https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 12:10:42",
-      "https://news.ycombinator.com/item?id=44433078"
-    ],
-    [
-      "Raphael discovery emerges from Vatican museum restoration",
-      "https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Lens: Lenses, Folds and Traversals",
       "https://hackage.haskell.org/package/lens"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 11:42:04",
-      "https://news.ycombinator.com/item?id=44432900"
-    ],
-    [
-      "phkmalloc",
-      "https://phk.freebsd.dk/sagas/phkmalloc/"
     ]
   ],
   [
