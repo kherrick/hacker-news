@@ -58,6 +58,7 @@
 * [2025-06-30, 13:44:12](https://news.ycombinator.com/item?id=44423194) - [(Experiment) Colocating agent instructions with eng docs](https://technicalwriting.dev/ai/agents/colocate.html)
 * [2025-06-30, 13:08:24](https://news.ycombinator.com/item?id=44422836) - [Helix: A Modern, High-Performance Language](https://github.com/helixlang/helix-lang)
 * [2025-06-30, 12:57:58](https://news.ycombinator.com/item?id=44422722) - [Max, a Real Programmer](https://incoherency.co.uk/blog/stories/the-story-of-max.html)
+* [2025-06-30, 12:53:11](https://news.ycombinator.com/item?id=44422662) - [How AI on Microcontrollers Actually Works: Operators and Kernels](https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/)
 * [2025-06-30, 12:33:58](https://news.ycombinator.com/item?id=44422480) - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
 * [2025-06-30, 12:19:45](https://news.ycombinator.com/item?id=44422356) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 * [2025-06-30, 11:38:54](https://news.ycombinator.com/item?id=44422040) - [Entry-level jobs down by a third since launch of ChatGPT](https://www.personneltoday.com/hr/fall-in-entry-level-jobs-linked-to-rise-of-ai-tools/)
