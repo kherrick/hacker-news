@@ -81,6 +81,7 @@
 * [2025-07-01, 07:11:01](https://news.ycombinator.com/item?id=44431372) - [Show HN: A cross-platform terminal emulator written in Java](https://github.com/sebkur/forceterm)
 * [2025-07-01, 07:01:07](https://news.ycombinator.com/item?id=44431314) - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
 * [2025-07-01, 06:48:50](https://news.ycombinator.com/item?id=44431251) - [Ask HN: Is your company forcing use of AI?](https://news.ycombinator.com/item?id=44431251)
+* [2025-07-01, 06:40:08](https://news.ycombinator.com/item?id=44431226) - [Logging Shell Commands in BusyBox? Yes, You Can Now](http://carminatialessandro.blogspot.com/2025/06/logging-shell-commands-in-busybox-yes.html)
 * [2025-07-01, 06:29:57](https://news.ycombinator.com/item?id=44431178) - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
 * [2025-07-01, 05:52:40](https://news.ycombinator.com/item?id=44430984) - [Aging-Related Inflammation Is Not Universal Across Human Populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
 * [2025-07-01, 05:41:10](https://news.ycombinator.com/item?id=44430932) - [Reuleaux Kinematic Mechanisms Collection](https://digital.library.cornell.edu/collections/kmoddl)

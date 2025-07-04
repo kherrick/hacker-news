@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 17:00:18](https://news.ycombinator.com/item?id=44466121) - [UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance](https://up.codes/careers?utm_source=HN)
+* [2025-07-04, 16:44:57](https://news.ycombinator.com/item?id=44465996) - [Japan requires name change after marriage – big effects on female scientists](https://www.nature.com/articles/d41586-025-02081-0)
 * [2025-07-04, 16:19:08](https://news.ycombinator.com/item?id=44465791) - [Military leaders aghast as Zuck crashes classified Oval Office meeting](https://www.independent.co.uk/news/world/americas/us-politics/trump-oval-office-mark-zuckerberg-security-b2781215.html)
+* [2025-07-04, 16:10:13](https://news.ycombinator.com/item?id=44465731) - [EverQuest](https://www.filfre.net/2025/07/everquest/)
 * [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
 * [2025-07-04, 15:07:33](https://news.ycombinator.com/item?id=44465206) - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
 * [2025-07-04, 14:51:58](https://news.ycombinator.com/item?id=44465076) - [Is Anybody Using This Private Key](https://isanybodyusingthisprivatekey.com/)
