@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-04, 15:07:33",
+      "https://news.ycombinator.com/item?id=44465206"
+    ],
+    [
+      "Compression Dictionary Transport",
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 14:51:58",
       "https://news.ycombinator.com/item?id=44465076"
     ],
@@ -27,16 +37,6 @@
     [
       "We're Not Innovating, We're Just Forgetting Slower",
       "https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 13:58:49",
-      "https://news.ycombinator.com/item?id=44464647"
-    ],
-    [
-      "I want to leave tech: what do I do?",
-      "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-07-04, 11:42:35",
-      "https://news.ycombinator.com/item?id=44463654"
-    ],
-    [
-      "A Rust-TypeScript integration",
-      "https://github.com/beeeeep54/rust-typescript"
-    ]
-  ],
-  [
-    [
       "2025-07-04, 11:24:42",
       "https://news.ycombinator.com/item?id=44463536"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2025-07-03, 16:34:51",
-      "https://news.ycombinator.com/item?id=44456779"
-    ],
-    [
-      "AV1@Scale: Film Grain Synthesis, The Awakening",
-      "https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 15:18:01",
       "https://news.ycombinator.com/item?id=44455933"
     ],
@@ -247,6 +227,16 @@
     [
       "Introducing tmux-rs",
       "https://richardscollin.github.io/tmux-rs/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 12:12:56",
+      "https://news.ycombinator.com/item?id=44433094"
+    ],
+    [
+      "In a Milestone for Manhattan, a Pair of Coyotes Has Made Central Park Their Home",
+      "https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "phkmalloc",
       "https://phk.freebsd.dk/sagas/phkmalloc/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 10:56:20",
+      "https://news.ycombinator.com/item?id=44432596"
+    ],
+    [
+      "Context Engineering for Agents",
+      "https://rlancemartin.github.io/2025/06/23/context_engineering/"
     ]
   ],
   [
