@@ -69,6 +69,7 @@
 * [2025-06-30, 11:02:55](https://news.ycombinator.com/item?id=44421776) - [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
 * [2025-06-30, 10:59:25](https://news.ycombinator.com/item?id=44421749) - [GOP Bill Adds Surprise Tax That Could Cripple Wind and Solar Power](https://www.nytimes.com/2025/06/29/climate/gop-bill-adds-surprise-tax-that-could-cripple-wind-and-solar-power.html)
 * [2025-06-30, 10:52:31](https://news.ycombinator.com/item?id=44421694) - [OpenTyrian2000 – multi platform SDL3 version of Tyrian 2000 released](https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3)
+* [2025-06-30, 10:15:52](https://news.ycombinator.com/item?id=44421490) - [Manipulating trapped air bubbles in ice for message storage in cold regions](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8)
 * [2025-06-30, 09:58:18](https://news.ycombinator.com/item?id=44421384) - [Positive link between cannabis use and 'Major Adverse Cardiovascular Events'](https://heart.bmj.com/content/early/2025/06/10/heartjnl-2024-325429)
 * [2025-06-30, 09:35:35](https://news.ycombinator.com/item?id=44421254) - [If AI Lets Us Do More in Less Time–Why Not Shorten the Workweek?](https://sfg.media/en/a/if-ai-lets-us-do-more-in-less-time/)
 * [2025-06-30, 09:25:14](https://news.ycombinator.com/item?id=44421185) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
