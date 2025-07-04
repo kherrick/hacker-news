@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
 * [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
+* [2025-07-04, 15:07:33](https://news.ycombinator.com/item?id=44465206) - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
 * [2025-07-04, 14:51:58](https://news.ycombinator.com/item?id=44465076) - [Is Anybody Using This Private Key](https://isanybodyusingthisprivatekey.com/)
 * [2025-07-04, 14:13:25](https://news.ycombinator.com/item?id=44464756) - [We're Not Innovating, We're Just Forgetting Slower](https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower)
 * [2025-07-04, 13:58:49](https://news.ycombinator.com/item?id=44464647) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
