@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-07-04, 13:16:09",
+      "https://news.ycombinator.com/item?id=44464272"
+    ],
+    [
+      "Serving 200M requests per day with a CGI-bin",
+      "https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 12:50:04",
+      "https://news.ycombinator.com/item?id=44464068"
+    ],
+    [
+      "Why I Left My Tech Job to Work on Chronic Pain",
+      "https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 12:34:49",
       "https://news.ycombinator.com/item?id=44463967"
     ],
     [
-      "Show HN: I vibe coded a tower defense game and documented the whole process",
+      "Show HN: I AI coded a tower defense game and documented the whole process",
       "https://github.com/maciej-trebacz/tower-of-time-game"
     ]
   ],
@@ -81,11 +101,21 @@
   ],
   [
     [
+      "2025-07-04, 11:24:42",
+      "https://news.ycombinator.com/item?id=44463536"
+    ],
+    [
+      "Can Large Language Models Play Text Games Well?",
+      "https://arxiv.org/abs/2304.02868"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 09:43:04",
       "https://news.ycombinator.com/item?id=44462947"
     ],
     [
-      "Larry (Cat)",
+      "Larry (cat)",
       "https://en.wikipedia.org/wiki/Larry_(cat)"
     ]
   ],
@@ -111,22 +141,12 @@
   ],
   [
     [
-      "2025-07-04, 05:54:08",
-      "https://news.ycombinator.com/item?id=44461523"
+      "2025-07-04, 03:55:47",
+      "https://news.ycombinator.com/item?id=44461015"
     ],
     [
-      "One Billion Cells – Another Multiplayer Demo with Clojure",
-      "https://cells.andersmurphy.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 04:48:32",
-      "https://news.ycombinator.com/item?id=44461208"
-    ],
-    [
-      "The Rise of Whatever",
-      "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/"
+      "LooksMapping",
+      "https://looksmapping.com/"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "AV1@Scale: Film Grain Synthesis, The Awakening",
       "https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 15:35:34",
-      "https://news.ycombinator.com/item?id=44456135"
-    ],
-    [
-      "Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase",
-      "https://github.com/zserge/pennybase"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How often is the query plan optimal?",
       "https://vondra.me/posts/how-often-is-the-query-plan-optimal/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 12:53:11",
-      "https://news.ycombinator.com/item?id=44422662"
-    ],
-    [
-      "How AI on Microcontrollers Works: Operators and Kernels",
-      "https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/"
     ]
   ]
 ]
