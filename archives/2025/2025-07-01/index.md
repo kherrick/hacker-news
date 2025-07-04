@@ -59,6 +59,7 @@
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
 * [2025-07-01, 11:42:04](https://news.ycombinator.com/item?id=44432900) - [phkmalloc](https://phk.freebsd.dk/sagas/phkmalloc/)
 * [2025-07-01, 11:39:58](https://news.ycombinator.com/item?id=44432884) - [ViscaCamLink – Camera control application for PTZ cameras](https://github.com/misorrek/ViscaCamLink)
+* [2025-07-01, 11:36:39](https://news.ycombinator.com/item?id=44432857) - [OpenDrop – electro-wetting technology to control small droplets of liquids](https://gaudishop.ch/index.php/product-category/opendrop/)
 * [2025-07-01, 11:05:43](https://news.ycombinator.com/item?id=44432644) - [Finding and understanding bugs in C compilers [pdf]](https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf)
 * [2025-07-01, 10:56:20](https://news.ycombinator.com/item?id=44432596) - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
