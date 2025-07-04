@@ -64,6 +64,7 @@
 * [2025-07-01, 10:07:59](https://news.ycombinator.com/item?id=44432322) - [Show HN: ToplingDB - A Persistent Key-Value Store for External Storage](https://github.com/topling/toplingdb)
 * [2025-07-01, 09:35:05](https://news.ycombinator.com/item?id=44432142) - [Escher's art and computer science](https://github.com/gritzko/librdx/blob/master/blog/escher.md)
 * [2025-07-01, 09:17:41](https://news.ycombinator.com/item?id=44432058) - [Pbf2sqlite: Reading OpenStreetMap into a SQLite Database](https://github.com/osmzoso/pbf2sqlite)
+* [2025-07-01, 09:16:43](https://news.ycombinator.com/item?id=44432055) - [You are what you launch: how software became a lifestyle brand](https://omeru.bearblog.dev/lifestyle/)
 * [2025-07-01, 08:53:02](https://news.ycombinator.com/item?id=44431943) - [Show HN: I Built a Paul Graham AI Advisor for Founders and Hackers](https://paulgraham.resurrect.space)
 * [2025-07-01, 08:40:37](https://news.ycombinator.com/item?id=44431873) - [Researchers Uncover Hidden Ingredients Behind AI Creativity](https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/)
 * [2025-07-01, 08:32:19](https://news.ycombinator.com/item?id=44431828) - [Ubuntu 25.10 Raises RISC-V Profile Requirements](https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support)
