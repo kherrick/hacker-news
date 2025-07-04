@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-04, 18:43:06](https://news.ycombinator.com/item?id=44466896) - [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)
 * [2025-07-04, 18:31:54](https://news.ycombinator.com/item?id=44466826) - [ChatGPT creates phisher's paradise by serving the wrong URLs for major companies](https://www.theregister.com/2025/07/03/ai_phishing_websites/)
 * [2025-07-04, 18:18:46](https://news.ycombinator.com/item?id=44466751) - [LLMs caused drastic vocabulary shift in biomedical publications](https://www.science.org/doi/10.1126/sciadv.adt3813)
 * [2025-07-04, 18:12:25](https://news.ycombinator.com/item?id=44466697) - [How to Incapacitate Google Tag Manager and Why You Should (2022)](https://backlit.neocities.org/incapacitate-google-tag-manager)
 * [2025-07-04, 17:00:18](https://news.ycombinator.com/item?id=44466121) - [UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance](https://up.codes/careers?utm_source=HN)
-* [2025-07-04, 16:42:57](https://news.ycombinator.com/item?id=44465980) - [Gremllm](https://github.com/awwaiid/gremllm)
 * [2025-07-04, 16:10:13](https://news.ycombinator.com/item?id=44465731) - [EverQuest](https://www.filfre.net/2025/07/everquest/)
 * [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
 * [2025-07-04, 15:07:33](https://news.ycombinator.com/item?id=44465206) - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
@@ -28,8 +28,8 @@
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
 * [2025-07-01, 08:28:16](https://news.ycombinator.com/item?id=44431805) - [``Free as Air, Free as Water, Free as Knowledge'' (1992)](http://bactra.org/Sterling/Free_as_the_Air_Free_as_Water_Free_as_Knowledge.html)
 * [2025-07-01, 07:11:01](https://news.ycombinator.com/item?id=44431372) - [Show HN: A cross-platform terminal emulator written in Java](https://github.com/sebkur/forceterm)
-* [2025-07-01, 06:40:08](https://news.ycombinator.com/item?id=44431226) - [Logging Shell Commands in BusyBox? Yes, You Can Now](http://carminatialessandro.blogspot.com/2025/06/logging-shell-commands-in-busybox-yes.html)
 * [2025-06-30, 23:26:06](https://news.ycombinator.com/item?id=44428997) - [Killer whales groom each other with pieces of kelp](https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp)
+* [2025-06-30, 22:48:24](https://news.ycombinator.com/item?id=44428746) - [The Novelty of the Arpanet](https://twobithistory.org/2021/02/07/arpanet.html)
 
 ## [Archives](archives/index.md)
 
