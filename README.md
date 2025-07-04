@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-04, 22:58:40](https://news.ycombinator.com/item?id=44468641) - [Who is Soham Parekh, the serial moonlighter Silicon Valley can't stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
+* [2025-07-04, 22:20:48](https://news.ycombinator.com/item?id=44468375) - [Ask HN: Worth leaving position over push to adopt vibe coding?](https://news.ycombinator.com/item?id=44468375)
 * [2025-07-04, 21:58:25](https://news.ycombinator.com/item?id=44468175) - [Nvidia Is Full of Shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:38:04](https://news.ycombinator.com/item?id=44468058) - [Prompting LLMs is not engineering](https://dmitriid.com/prompting-llms-is-not-engineering)
 * [2025-07-04, 21:16:57](https://news.ycombinator.com/item?id=44467949) - [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
@@ -19,17 +21,15 @@
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
 * [2025-07-04, 12:08:24](https://news.ycombinator.com/item?id=44463813) - [Is an Intel N100 or N150 a better value than a Raspberry Pi?](https://www.jeffgeerling.com/blog/2025/intel-n100-better-value-raspberry-pi)
-* [2025-07-04, 11:55:57](https://news.ycombinator.com/item?id=44463747) - [Show HN: BunkerWeb – the open-source and cloud-native WAF](https://docs.bunkerweb.io/latest/)
-* [2025-07-04, 11:24:42](https://news.ycombinator.com/item?id=44463536) - [Can Large Language Models Play Text Games Well?](https://arxiv.org/abs/2304.02868)
 * [2025-07-04, 09:43:04](https://news.ycombinator.com/item?id=44462947) - [Larry (cat)](https://en.wikipedia.org/wiki/Larry_(cat))
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 * [2025-07-04, 04:11:19](https://news.ycombinator.com/item?id=44461067) - [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 14:02:16](https://news.ycombinator.com/item?id=44455196) - [Robots move Shanghai city block [video]](https://www.youtube.com/watch?v=7ZccC9BnT8k)
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
+* [2025-07-01, 12:03:17](https://news.ycombinator.com/item?id=44433024) - [Chasing Lost Languages](https://nautil.us/chasing-lost-languages-1221167/)
 * [2025-07-01, 11:36:39](https://news.ycombinator.com/item?id=44432857) - [OpenDrop – Electro-wetting technology to control small droplets of liquids](https://gaudishop.ch/index.php/product-category/opendrop/)
 * [2025-07-01, 08:28:16](https://news.ycombinator.com/item?id=44431805) - [Free as Air, Free as Water, Free as Knowledge (1992)](http://bactra.org/Sterling/Free_as_the_Air_Free_as_Water_Free_as_Knowledge.html)
-* [2025-06-30, 22:48:24](https://news.ycombinator.com/item?id=44428746) - [The Novelty of the Arpanet](https://twobithistory.org/2021/02/07/arpanet.html)
 
 ## [Archives](archives/index.md)
 

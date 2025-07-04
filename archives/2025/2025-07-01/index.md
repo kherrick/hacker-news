@@ -57,6 +57,7 @@
 * [2025-07-01, 12:12:56](https://news.ycombinator.com/item?id=44433094) - [In a Milestone for Manhattan, a Pair of Coyotes Has Made Central Park Their Home](https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/)
 * [2025-07-01, 12:10:42](https://news.ycombinator.com/item?id=44433078) - [Raphael Discovery Emerges from Vatican Museum Restoration](https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624)
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
+* [2025-07-01, 12:03:17](https://news.ycombinator.com/item?id=44433024) - [Chasing Lost Languages](https://nautil.us/chasing-lost-languages-1221167/)
 * [2025-07-01, 11:42:04](https://news.ycombinator.com/item?id=44432900) - [phkmalloc](https://phk.freebsd.dk/sagas/phkmalloc/)
 * [2025-07-01, 11:39:58](https://news.ycombinator.com/item?id=44432884) - [ViscaCamLink – Camera control application for PTZ cameras](https://github.com/misorrek/ViscaCamLink)
 * [2025-07-01, 11:36:39](https://news.ycombinator.com/item?id=44432857) - [OpenDrop – electro-wetting technology to control small droplets of liquids](https://gaudishop.ch/index.php/product-category/opendrop/)
