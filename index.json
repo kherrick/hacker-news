@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-04, 13:58:49",
+      "https://news.ycombinator.com/item?id=44464647"
+    ],
+    [
+      "I want to leave tech: what do I do?",
+      "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 13:16:09",
       "https://news.ycombinator.com/item?id=44464272"
     ],
@@ -27,16 +37,6 @@
     [
       "Show HN: I AI coded a tower defense game and documented the whole process",
       "https://github.com/maciej-trebacz/tower-of-time-game"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 12:33:07",
-      "https://news.ycombinator.com/item?id=44463959"
-    ],
-    [
-      "Is there a no-AI audience?",
-      "https://thatshubham.com/blog/ai"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-07-04, 04:11:19",
+      "https://news.ycombinator.com/item?id=44461067"
+    ],
+    [
+      "Zig breaking change – initial Writergate",
+      "https://github.com/ziglang/zig/pull/24329"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 03:55:47",
       "https://news.ycombinator.com/item?id=44461015"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-07-01, 20:49:53",
-      "https://news.ycombinator.com/item?id=44437885"
-    ],
-    [
-      "Batteries and Buildings",
-      "https://mtende.blog/batteries-vs-no-batteries"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 12:10:42",
       "https://news.ycombinator.com/item?id=44433078"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-07-01, 11:42:04",
+      "https://news.ycombinator.com/item?id=44432900"
+    ],
+    [
+      "phkmalloc",
+      "https://phk.freebsd.dk/sagas/phkmalloc/"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 10:56:20",
       "https://news.ycombinator.com/item?id=44432596"
     ],
     [
       "Context Engineering for Agents",
       "https://rlancemartin.github.io/2025/06/23/context_engineering/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 07:48:56",
-      "https://news.ycombinator.com/item?id=44431601"
-    ],
-    [
-      "Alternative Blanket Implementations for a Single Rust Trait",
-      "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/"
     ]
   ],
   [
