@@ -25,10 +25,10 @@
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 * [2025-07-04, 04:11:19](https://news.ycombinator.com/item?id=44461067) - [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
-* [2025-07-02, 17:16:20](https://news.ycombinator.com/item?id=44446280) - [VLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
+* [2025-07-03, 14:02:16](https://news.ycombinator.com/item?id=44455196) - [Robots move Shanghai city block [video]](https://www.youtube.com/watch?v=7ZccC9BnT8k)
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
 * [2025-07-01, 11:36:39](https://news.ycombinator.com/item?id=44432857) - [OpenDrop – electro-wetting technology to control small droplets of liquids](https://gaudishop.ch/index.php/product-category/opendrop/)
-* [2025-07-01, 08:28:16](https://news.ycombinator.com/item?id=44431805) - [``Free as Air, Free as Water, Free as Knowledge'' (1992)](http://bactra.org/Sterling/Free_as_the_Air_Free_as_Water_Free_as_Knowledge.html)
+* [2025-07-01, 08:28:16](https://news.ycombinator.com/item?id=44431805) - [Free as Air, Free as Water, Free as Knowledge (1992)](http://bactra.org/Sterling/Free_as_the_Air_Free_as_Water_Free_as_Knowledge.html)
 * [2025-06-30, 22:48:24](https://news.ycombinator.com/item?id=44428746) - [The Novelty of the Arpanet](https://twobithistory.org/2021/02/07/arpanet.html)
 
 ## [Archives](archives/index.md)
