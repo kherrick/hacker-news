@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-04, 08:57:58](https://news.ycombinator.com/item?id=44462615) - [Man goes viral after working for four startups at the same time](https://www.nbcnews.com/tech/internet/man-goes-viral-working-four-startups-time-rcna216890)
-* [2025-07-04, 08:17:28](https://news.ycombinator.com/item?id=44462361) - [Show HN: Soham Agent – Write cold emails like Soham Parekh](https://buildthatidea.com/sohamagent/6c604d4f-caac-475f-b489-d568210f905a)
 * [2025-07-04, 07:40:42](https://news.ycombinator.com/item?id=44462124) - [As a Labrador swam by me out to sea his owner said I hope he doesn't meet a seal](https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/)
 * [2025-07-04, 07:18:38](https://news.ycombinator.com/item?id=44461976) - [When Your Exit Strategy Dream Is My Customer Nightmare](https://my-notes.dragas.net/2025/07/04/your-exit-strategy-dream-is-my-customer-nightmare/)
 * [2025-07-04, 05:54:08](https://news.ycombinator.com/item?id=44461523) - [One Billion Cells – Another Multiplayer Demo with Clojure](https://cells.andersmurphy.com/)
@@ -22,6 +21,7 @@
 * [2025-07-03, 15:03:14](https://news.ycombinator.com/item?id=44455787) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:05:05](https://news.ycombinator.com/item?id=44455222) - [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
 * [2025-07-03, 13:44:55](https://news.ycombinator.com/item?id=44455022) - [Where is my von Braun wheel?](https://angadh.com/wherevonbraunwheel)
+* [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 12:10:42](https://news.ycombinator.com/item?id=44433078) - [Raphael Discovery Emerges from Vatican Museum Restoration](https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624)
 * [2025-07-01, 10:56:20](https://news.ycombinator.com/item?id=44432596) - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an abstraction, not an optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
