@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-04, 05:19:38](https://news.ycombinator.com/item?id=44461341) - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
 * [2025-07-04, 04:52:03](https://news.ycombinator.com/item?id=44461222) - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
 * [2025-07-04, 04:48:32](https://news.ycombinator.com/item?id=44461208) - [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
 * [2025-07-04, 04:11:19](https://news.ycombinator.com/item?id=44461067) - [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
@@ -22,7 +23,6 @@
 * [2025-07-03, 15:03:14](https://news.ycombinator.com/item?id=44455787) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:05:05](https://news.ycombinator.com/item?id=44455222) - [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
 * [2025-07-03, 13:44:55](https://news.ycombinator.com/item?id=44455022) - [Where is my von Braun wheel?](https://angadh.com/wherevonbraunwheel)
-* [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [2025-07-01, 14:00:33](https://news.ycombinator.com/item?id=44433996) - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [2025-07-01, 10:56:20](https://news.ycombinator.com/item?id=44432596) - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an abstraction, not an optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
