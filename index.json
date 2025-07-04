@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-04, 21:00:13",
+      "https://news.ycombinator.com/item?id=44467852"
+    ],
+    [
+      "Continue (YC S23) is hiring software engineers in San Francisco",
+      "https://www.ycombinator.com/companies/continue/jobs"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 20:49:07",
+      "https://news.ycombinator.com/item?id=44467780"
+    ],
+    [
+      "America Is Killing Its Chance to Find Alien Life",
+      "https://www.theatlantic.com/science/archive/2025/07/nasa-observatory-funding-trump-alien-life/683427/"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 19:45:08",
       "https://news.ycombinator.com/item?id=44467312"
     ],
@@ -17,16 +37,6 @@
     [
       "Show HN: AirBending – hand gesture based macOS app MIDI controller",
       "https://www.nanassound.com/products/software/airbending"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 18:41:37",
-      "https://news.ycombinator.com/item?id=44466888"
-    ],
-    [
-      "Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B",
-      "https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "How to Incapacitate Google Tag Manager and Why You Should (2022)",
       "https://backlit.neocities.org/incapacitate-google-tag-manager"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 17:00:18",
-      "https://news.ycombinator.com/item?id=44466121"
-    ],
-    [
-      "UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance",
-      "https://up.codes/careers?utm_source=HN"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-07-02, 17:16:20",
+      "https://news.ycombinator.com/item?id=44446280"
+    ],
+    [
+      "VLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention",
+      "https://blog.vllm.ai/2023/06/20/vllm.html"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 12:08:46",
       "https://news.ycombinator.com/item?id=44433062"
     ],
@@ -267,16 +277,6 @@
     [
       "Show HN: A cross-platform terminal emulator written in Java",
       "https://github.com/sebkur/forceterm"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 06:40:08",
-      "https://news.ycombinator.com/item?id=44431226"
-    ],
-    [
-      "Logging Shell Commands in BusyBox? Yes, You Can Now",
-      "http://carminatialessandro.blogspot.com/2025/06/logging-shell-commands-in-busybox-yes.html"
     ]
   ],
   [
