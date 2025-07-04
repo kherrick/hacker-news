@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-04, 08:57:58",
-      "https://news.ycombinator.com/item?id=44462615"
+      "2025-07-04, 09:34:56",
+      "https://news.ycombinator.com/item?id=44462896"
     ],
     [
-      "Man goes viral after working for four startups at the same time",
-      "https://www.nbcnews.com/tech/internet/man-goes-viral-working-four-startups-time-rcna216890"
+      "Writing a Game Boy Emulator in OCaml",
+      "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 07:47:15",
+      "https://news.ycombinator.com/item?id=44462174"
+    ],
+    [
+      "DRM Panic QR code generator",
+      "https://rust-for-linux.com/drm-panic-qr-code-generator"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "The Rise of Whatever",
       "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 04:11:19",
-      "https://news.ycombinator.com/item?id=44461067"
-    ],
-    [
-      "Zig breaking change – initial Writergate",
-      "https://github.com/ziglang/zig/pull/24329"
     ]
   ],
   [
