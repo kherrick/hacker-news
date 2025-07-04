@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-07-04, 12:00:53",
+      "https://news.ycombinator.com/item?id=44463773"
+    ],
+    [
+      "Enhanced Radar (YC W25) is hiring a founding engineer",
+      "https://news.ycombinator.com/item?id=44463773"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 11:48:12",
+      "https://news.ycombinator.com/item?id=44463698"
+    ],
+    [
+      "Show HN: Fast Thermodynamic Calculations in Python",
+      "https://dlr-institute-of-future-fuels.github.io/gaspype/"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 11:39:00",
+      "https://news.ycombinator.com/item?id=44463631"
+    ],
+    [
+      "How to render a mesh gradient using RBF interpolation",
+      "https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 09:43:04",
+      "https://news.ycombinator.com/item?id=44462947"
+    ],
+    [
+      "Larry (Cat)",
+      "https://en.wikipedia.org/wiki/Larry_(cat)"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 09:34:56",
       "https://news.ycombinator.com/item?id=44462896"
     ],
@@ -21,16 +61,6 @@
   ],
   [
     [
-      "2025-07-04, 07:40:42",
-      "https://news.ycombinator.com/item?id=44462124"
-    ],
-    [
-      "As a Labrador swam by me out to sea his owner said I hope he doesn't meet a seal",
-      "https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/"
-    ]
-  ],
-  [
-    [
       "2025-07-04, 05:54:08",
       "https://news.ycombinator.com/item?id=44461523"
     ],
@@ -47,16 +77,6 @@
     [
       "WASM Agents: AI agents running in the browser",
       "https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 04:52:03",
-      "https://news.ycombinator.com/item?id=44461222"
-    ],
-    [
-      "Major reversal in ocean circulation detected in the Southern Ocean",
-      "https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-07-03, 21:01:06",
-      "https://news.ycombinator.com/item?id=44459146"
-    ],
-    [
-      "Converge (YC S23) well-capitalized New York startup seeks product developers",
-      "https://www.runconverge.com/careers"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 20:28:57",
       "https://news.ycombinator.com/item?id=44458890"
     ],
@@ -117,16 +127,6 @@
     [
       "High-Fidelity Simultaneous Speech-to-Speech Translation",
       "https://arxiv.org/abs/2502.03382"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 17:36:13",
-      "https://news.ycombinator.com/item?id=44457390"
-    ],
-    [
-      "Opening up ‘Zero-Knowledge Proof’ technology",
-      "https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-06-30, 15:19:27",
+      "https://news.ycombinator.com/item?id=44424405"
+    ],
+    [
+      "How often is the query plan optimal?",
+      "https://vondra.me/posts/how-often-is-the-query-plan-optimal/"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 12:53:11",
       "https://news.ycombinator.com/item?id=44422662"
     ],
     [
       "How AI on Microcontrollers Works: Operators and Kernels",
       "https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 10:15:52",
-      "https://news.ycombinator.com/item?id=44421490"
-    ],
-    [
-      "Manipulating trapped air bubbles in ice for message storage in cold regions",
-      "https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8"
     ]
   ]
 ]
