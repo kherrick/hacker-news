@@ -9,6 +9,7 @@
 * [2025-07-04, 21:58:25](https://news.ycombinator.com/item?id=44468175) - [Nvidia Is Full of Shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:38:04](https://news.ycombinator.com/item?id=44468058) - [Prompting LLMs is not engineering](https://dmitriid.com/prompting-llms-is-not-engineering)
 * [2025-07-04, 21:16:57](https://news.ycombinator.com/item?id=44467949) - [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
+* [2025-07-04, 21:11:53](https://news.ycombinator.com/item?id=44467914) - [The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?](https://www.datagubbe.se/amix/)
 * [2025-07-04, 21:11:24](https://news.ycombinator.com/item?id=44467912) - [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
 * [2025-07-04, 21:00:13](https://news.ycombinator.com/item?id=44467852) - [Continue (YC S23) is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs)
 * [2025-07-04, 20:49:07](https://news.ycombinator.com/item?id=44467780) - [America Is Killing Its Chance to Find Alien Life](https://www.theatlantic.com/science/archive/2025/07/nasa-observatory-funding-trump-alien-life/683427/)
