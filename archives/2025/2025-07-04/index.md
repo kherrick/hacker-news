@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 06:47:04](https://news.ycombinator.com/item?id=44461775) - [The US dollar is on track for its worst year in modern history](https://www.semafor.com/article/07/03/2025/the-us-dollar-is-on-track-for-its-worst-year-in-modern-history)
 * [2025-07-04, 06:25:11](https://news.ycombinator.com/item?id=44461666) - [What is going on in Unix with errno's limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
 * [2025-07-04, 05:26:58](https://news.ycombinator.com/item?id=44461368) - [Google says \"not a security vulnerability\", quickly fixes without attribution](https://groups.google.com/g/certificate-transparency/c/u8SsXgSFbz4/m/CThyzj-QBAAJ)
 * [2025-07-04, 05:19:38](https://news.ycombinator.com/item?id=44461341) - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
