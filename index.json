@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-04, 18:33:45",
+      "https://news.ycombinator.com/item?id=44466838"
+    ],
+    [
+      "Air Pollution May Contribute to Development of Lung Cancer in Never-Smokers",
+      "https://today.ucsd.edu/story/air-pollution-may-contribute-to-development-of-lung-cancer-in-never-smokers-new-study-finds"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 18:31:54",
       "https://news.ycombinator.com/item?id=44466826"
     ],
@@ -47,6 +57,16 @@
     [
       "UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance",
       "https://up.codes/careers?utm_source=HN"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 16:42:57",
+      "https://news.ycombinator.com/item?id=44465980"
+    ],
+    [
+      "Gremllm",
+      "https://github.com/awwaiid/gremllm"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-07-04, 13:16:09",
-      "https://news.ycombinator.com/item?id=44464272"
-    ],
-    [
-      "Serving 200M requests per day with a CGI-bin",
-      "https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/"
-    ]
-  ],
-  [
-    [
       "2025-07-04, 12:50:04",
       "https://news.ycombinator.com/item?id=44464068"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-07-04, 11:48:12",
-      "https://news.ycombinator.com/item?id=44463698"
-    ],
-    [
-      "Show HN: Fast Thermodynamic Calculations in Python",
-      "https://dlr-institute-of-future-fuels.github.io/gaspype/"
-    ]
-  ],
-  [
-    [
       "2025-07-04, 11:42:35",
       "https://news.ycombinator.com/item?id=44463654"
     ],
@@ -207,16 +207,6 @@
     [
       "Writing a Game Boy Emulator in OCaml",
       "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 07:47:15",
-      "https://news.ycombinator.com/item?id=44462174"
-    ],
-    [
-      "DRM Panic QR code generator",
-      "https://rust-for-linux.com/drm-panic-qr-code-generator"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Show HN: A cross-platform terminal emulator written in Java",
       "https://github.com/sebkur/forceterm"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 06:40:08",
+      "https://news.ycombinator.com/item?id=44431226"
+    ],
+    [
+      "Logging Shell Commands in BusyBox? Yes, You Can Now",
+      "http://carminatialessandro.blogspot.com/2025/06/logging-shell-commands-in-busybox-yes.html"
     ]
   ],
   [
