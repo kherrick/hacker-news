@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-04, 04:52:03",
+      "https://news.ycombinator.com/item?id=44461222"
+    ],
+    [
+      "Major reversal in ocean circulation detected in the Southern Ocean",
+      "https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 04:48:32",
+      "https://news.ycombinator.com/item?id=44461208"
+    ],
+    [
+      "The Rise of Whatever",
+      "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 04:36:25",
       "https://news.ycombinator.com/item?id=44461158"
     ],
     [
       "White House claims expansive power to nullify TikTok ban and other laws",
       "https://www.nytimes.com/2025/07/03/us/politics/trump-bondi-tiktok-executive-power.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 03:55:47",
+      "https://news.ycombinator.com/item?id=44461015"
+    ],
+    [
+      "LooksMapping",
+      "https://looksmapping.com/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2025-07-01, 10:31:54",
-      "https://news.ycombinator.com/item?id=44432451"
-    ],
-    [
-      "Sound Chip, whisper me your secrets [video]",
-      "https://media.ccc.de/v/gpn23-302-sound-chip-whisper-me-your-secrets-"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 10:12:50",
       "https://news.ycombinator.com/item?id=44432351"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-07-01, 02:48:16",
-      "https://news.ycombinator.com/item?id=44430117"
-    ],
-    [
-      "About AI Evals",
-      "https://hamel.dev/blog/posts/evals-faq/"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 13:44:12",
       "https://news.ycombinator.com/item?id=44423194"
     ],
@@ -287,16 +297,6 @@
     [
       "Manipulating trapped air bubbles in ice for message storage in cold regions",
       "https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 08:10:27",
-      "https://news.ycombinator.com/item?id=44420711"
-    ],
-    [
-      "Show HN: I rewrote my notepad calculator as a local-first app with CRDT syncing",
-      "https://numpad.io"
     ]
   ]
 ]
