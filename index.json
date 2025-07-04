@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-04, 14:51:58",
+      "https://news.ycombinator.com/item?id=44465076"
+    ],
+    [
+      "Is Anybody Using This Private Key",
+      "https://isanybodyusingthisprivatekey.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 14:13:25",
+      "https://news.ycombinator.com/item?id=44464756"
+    ],
+    [
+      "We're Not Innovating, We're Just Forgetting Slower",
+      "https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 13:58:49",
       "https://news.ycombinator.com/item?id=44464647"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-07-03, 14:05:05",
-      "https://news.ycombinator.com/item?id=44455222"
-    ],
-    [
-      "Peasant Railgun",
-      "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 12:10:42",
       "https://news.ycombinator.com/item?id=44433078"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2025-07-01, 07:11:01",
+      "https://news.ycombinator.com/item?id=44431372"
+    ],
+    [
+      "Show HN: A cross-platform terminal emulator written in Java",
+      "https://github.com/sebkur/forceterm"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 23:26:06",
       "https://news.ycombinator.com/item?id=44428997"
     ],
     [
       "Killer whales groom each other with pieces of kelp",
       "https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 20:47:28",
-      "https://news.ycombinator.com/item?id=44427688"
-    ],
-    [
-      "Developing with GitHub Copilot Agent Mode and MCP",
-      "https://austen.info/blog/github-copilot-agent-mcp/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 15:19:27",
-      "https://news.ycombinator.com/item?id=44424405"
-    ],
-    [
-      "How often is the query plan optimal?",
-      "https://vondra.me/posts/how-often-is-the-query-plan-optimal/"
     ]
   ]
 ]
