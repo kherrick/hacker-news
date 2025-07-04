@@ -58,6 +58,7 @@
 * [2025-07-01, 10:53:21](https://news.ycombinator.com/item?id=44432571) - [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
 * [2025-07-01, 10:42:46](https://news.ycombinator.com/item?id=44432506) - [Caching is an Abstraction, not an Optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-07-01, 10:35:23](https://news.ycombinator.com/item?id=44432467) - [Scientists identify culprit behind biggest-ever U.S. honey bee die-off](https://www.science.org/content/article/scientists-identify-culprit-behind-biggest-ever-u-s-honeybee-die)
+* [2025-07-01, 10:31:54](https://news.ycombinator.com/item?id=44432451) - [Sound Chip, whisper me your secrets [video]](https://media.ccc.de/v/gpn23-302-sound-chip-whisper-me-your-secrets-)
 * [2025-07-01, 10:31:12](https://news.ycombinator.com/item?id=44432444) - [The average chess players of Bletchley Park and AI research in Britain](https://blogs.bl.uk/science/2025/06/the-average-chess-players-of-bletchley-park-and-ai-research-in-britain.html)
 * [2025-07-01, 10:20:27](https://news.ycombinator.com/item?id=44432385) - [Cloudflare introduces pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [2025-07-01, 10:12:50](https://news.ycombinator.com/item?id=44432351) - [An Algorithm for a Better Bookshelf](https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/)
