@@ -75,6 +75,7 @@
 * [2025-07-01, 08:53:02](https://news.ycombinator.com/item?id=44431943) - [Show HN: I Built a Paul Graham AI Advisor for Founders and Hackers](https://paulgraham.resurrect.space)
 * [2025-07-01, 08:40:37](https://news.ycombinator.com/item?id=44431873) - [Researchers Uncover Hidden Ingredients Behind AI Creativity](https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/)
 * [2025-07-01, 08:32:19](https://news.ycombinator.com/item?id=44431828) - [Ubuntu 25.10 Raises RISC-V Profile Requirements](https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support)
+* [2025-07-01, 08:28:16](https://news.ycombinator.com/item?id=44431805) - [``Free as Air, Free as Water, Free as Knowledge'' (1992)](http://bactra.org/Sterling/Free_as_the_Air_Free_as_Water_Free_as_Knowledge.html)
 * [2025-07-01, 08:25:49](https://news.ycombinator.com/item?id=44431786) - [Automatically Rewrite Container Image References in Kubernetes](https://github.com/flemzord/mutating-registry-webhook)
 * [2025-07-01, 07:55:53](https://news.ycombinator.com/item?id=44431638) - [Evidence of a 12,800-year-old shallow airburst depression in Louisiana](https://www.scienceopen.com/hosted-document?doi=10.14293/ACI.2025.0004)
 * [2025-07-01, 07:48:56](https://news.ycombinator.com/item?id=44431601) - [Alternative Blanket Implementations for a Single Rust Trait](https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/)
