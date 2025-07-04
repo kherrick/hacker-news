@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 13:58:49](https://news.ycombinator.com/item?id=44464647) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
 * [2025-07-04, 13:16:09](https://news.ycombinator.com/item?id=44464272) - [Serving 200M requests per day with a CGI-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I Left My Tech Job to Work on Chronic Pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I vibe coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)

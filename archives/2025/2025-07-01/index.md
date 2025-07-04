@@ -56,6 +56,7 @@
 * [2025-07-01, 12:26:51](https://news.ycombinator.com/item?id=44433218) - [Spending Too Much Money on a Coding Agent](https://allenpike.com/2025/coding-agents)
 * [2025-07-01, 12:10:42](https://news.ycombinator.com/item?id=44433078) - [Raphael Discovery Emerges from Vatican Museum Restoration](https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624)
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
+* [2025-07-01, 11:42:04](https://news.ycombinator.com/item?id=44432900) - [phkmalloc](https://phk.freebsd.dk/sagas/phkmalloc/)
 * [2025-07-01, 11:39:58](https://news.ycombinator.com/item?id=44432884) - [ViscaCamLink – Camera control application for PTZ cameras](https://github.com/misorrek/ViscaCamLink)
 * [2025-07-01, 11:05:43](https://news.ycombinator.com/item?id=44432644) - [Finding and understanding bugs in C compilers [pdf]](https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf)
 * [2025-07-01, 10:56:20](https://news.ycombinator.com/item?id=44432596) - [Context Engineering for Agents](https://rlancemartin.github.io/2025/06/23/context_engineering/)
