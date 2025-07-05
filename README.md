@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-05, 11:08:03](https://news.ycombinator.com/item?id=44471861) - [Cars' Forward Blind Zones Are Worse Now Than 25 Years Ago](https://www.caranddriver.com/news/a65219830/car-blind-zones-study-iihs/)
 * [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [I'm Losing All Trust in the AI Industry](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
 * [2025-07-05, 07:00:29](https://news.ycombinator.com/item?id=44470656) - [Telli (YC F24) Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
@@ -15,6 +14,7 @@
 * [2025-07-04, 18:12:25](https://news.ycombinator.com/item?id=44466697) - [Incapacitating Google Tag Manager (2022)](https://backlit.neocities.org/incapacitate-google-tag-manager)
 * [2025-07-04, 16:10:13](https://news.ycombinator.com/item?id=44465731) - [EverQuest](https://www.filfre.net/2025/07/everquest/)
 * [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
+* [2025-07-04, 13:58:03](https://news.ycombinator.com/item?id=44464641) - [Kepler.gl](https://kepler.gl/)
 * [2025-07-04, 13:32:10](https://news.ycombinator.com/item?id=44464396) - [Bcachefs may be headed out of the kernel](https://lwn.net/Articles/1027289/)
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
