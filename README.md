@@ -2,7 +2,7 @@
 
 * [2025-07-05, 16:13:49](https://news.ycombinator.com/item?id=44473711) - [ApplePay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
 * [2025-07-05, 16:11:05](https://news.ycombinator.com/item?id=44473694) - [Cops in [Spain] think everyone using a Google Pixel must be a drug dealer](https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
-* [2025-07-05, 16:08:29](https://news.ycombinator.com/item?id=44473677) - [Goodbye to All That – My Resignation from the FBI](https://www.lawfaremedia.org/article/goodbye-to-all-that)
+* [2025-07-05, 15:54:49](https://news.ycombinator.com/item?id=44473590) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
 * [2025-07-05, 15:27:37](https://news.ycombinator.com/item?id=44473409) - [Heart attacks aren't as fatal as they used to be](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
 * [2025-07-05, 15:15:47](https://news.ycombinator.com/item?id=44473319) - ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers)
 * [2025-07-05, 14:45:39](https://news.ycombinator.com/item?id=44473135) - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/essay/local-first/)
