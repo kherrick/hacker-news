@@ -47,6 +47,7 @@
 * [2025-07-02, 13:28:56](https://news.ycombinator.com/item?id=44443480) - [Cloudflare Introduces Default Blocking of A.I. Data Scrapers](https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html)
 * [2025-07-02, 13:26:44](https://news.ycombinator.com/item?id=44443452) - [Microsoft to Cut 9k Workers in Second Wave of Major Layoffs](https://www.bloomberg.com/news/articles/2025-07-02/microsoft-to-cut-9-000-workers-in-second-wave-of-major-layoffs)
 * [2025-07-02, 12:48:22](https://news.ycombinator.com/item?id=44443109) - [Why I'm Dialing Back My LLM Usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)
+* [2025-07-02, 12:01:59](https://news.ycombinator.com/item?id=44442691) - [Yet Another Zip Trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 12:00:35](https://news.ycombinator.com/item?id=44442676) - [Recurse Center (YC S10) Is Hiring a Career Facilitator](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080)
 * [2025-07-02, 11:39:12](https://news.ycombinator.com/item?id=44442473) - [Don't use \"click here\" as link text – W3C](https://www.w3.org/QA/Tips/noClickHere)
 * [2025-07-02, 11:27:07](https://news.ycombinator.com/item?id=44442396) - [Build Systems à la Carte (2018) [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf)
