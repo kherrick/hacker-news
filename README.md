@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-05, 17:43:01](https://news.ycombinator.com/item?id=44474297) - [Seine reopens to Paris swimmers after century-long ban](https://www.lemonde.fr/en/france/article/2025/07/05/seine-reopens-to-paris-swimmers-after-century-long-ban_6743058_7.html)
 * [2025-07-05, 16:42:19](https://news.ycombinator.com/item?id=44473888) - [Speeding up PostgreSQL dump/restore snapshots](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
 * [2025-07-05, 16:11:05](https://news.ycombinator.com/item?id=44473694) - [Cops in [Spain] think everyone using a Google Pixel must be a drug dealer](https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
 * [2025-07-05, 15:54:49](https://news.ycombinator.com/item?id=44473590) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
@@ -15,7 +16,6 @@
 * [2025-07-05, 07:00:29](https://news.ycombinator.com/item?id=44470656) - [Telli (YC F24) Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
 * [2025-07-05, 02:40:30](https://news.ycombinator.com/item?id=44469727) - [ADXL345 (2024)](https://www.tinytransistors.net/2024/08/25/adxl345/)
 * [2025-07-05, 00:24:00](https://news.ycombinator.com/item?id=44469124) - [OBBB signed: Reinstates immediate expensing for U.S.-based R&D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
-* [2025-07-04, 21:58:25](https://news.ycombinator.com/item?id=44468175) - [Nvidia won, we all lost](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:11:24](https://news.ycombinator.com/item?id=44467912) - [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
 * [2025-07-04, 18:12:25](https://news.ycombinator.com/item?id=44466697) - [Incapacitating Google Tag Manager (2022)](https://backlit.neocities.org/incapacitate-google-tag-manager)
 * [2025-07-04, 16:10:13](https://news.ycombinator.com/item?id=44465731) - [EverQuest](https://www.filfre.net/2025/07/everquest/)

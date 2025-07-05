@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 17:43:01](https://news.ycombinator.com/item?id=44474297) - [Seine reopens to Paris swimmers after century-long ban](https://www.lemonde.fr/en/france/article/2025/07/05/seine-reopens-to-paris-swimmers-after-century-long-ban_6743058_7.html)
 * [2025-07-05, 16:42:19](https://news.ycombinator.com/item?id=44473888) - [Speeding up PostgreSQL dump/restore snapshots](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
 * [2025-07-05, 16:13:49](https://news.ycombinator.com/item?id=44473711) - [ApplePay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
 * [2025-07-05, 16:11:05](https://news.ycombinator.com/item?id=44473694) - [Cops in [Spain] think everyone using a Google Pixel must be a drug dealer](https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
