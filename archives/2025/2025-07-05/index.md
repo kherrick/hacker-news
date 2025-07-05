@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 23:10:03](https://news.ycombinator.com/item?id=44476297) - [Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
+* [2025-07-05, 22:56:18](https://news.ycombinator.com/item?id=44476225) - [RFK's proposal to let bird flu spread through poultry](https://www.livescience.com/health/flu/rfks-proposal-to-let-bird-flu-spread-through-poultry-could-set-us-up-for-a-pandemic-experts-warn)
 * [2025-07-05, 22:41:46](https://news.ycombinator.com/item?id=44476166) - [Operators, Not Users and Programmers](https://jyn.dev/operators-not-users-and-programmers/)
+* [2025-07-05, 22:35:05](https://news.ycombinator.com/item?id=44476137) - [7-Zip 25.00](https://github.com/ip7z/7zip/releases/tag/25.00)
 * [2025-07-05, 21:13:55](https://news.ycombinator.com/item?id=44475600) - [WinUAE 6.0.0 Amiga Emulator](https://www.winuae.net/)
 * [2025-07-05, 20:52:46](https://news.ycombinator.com/item?id=44475453) - [Optimizing Tool Selection for LLM Workflows with Differentiable Programming](https://viksit.substack.com/p/optimizing-tool-selection-for-llm)
 * [2025-07-05, 20:36:53](https://news.ycombinator.com/item?id=44475352) - [Holding Cellphone while driving is illegal, California court rules](https://www.latimes.com/california/story/2025-06-05/holding-your-cell-to-navigate-while-driving-is-illegal-court-says)
