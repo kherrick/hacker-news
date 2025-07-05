@@ -13,7 +13,6 @@
 * [2025-07-04, 19:45:08](https://news.ycombinator.com/item?id=44467312) - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
 * [2025-07-04, 19:40:02](https://news.ycombinator.com/item?id=44467279) - [Show HN: AirBending – Hand gesture based macOS app MIDI controller](https://www.nanassound.com/products/software/airbending)
 * [2025-07-04, 18:41:37](https://news.ycombinator.com/item?id=44466888) - [Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B](https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f)
-* [2025-07-04, 18:31:54](https://news.ycombinator.com/item?id=44466826) - [ChatGPT creates phisher's paradise by serving the wrong URLs for major companies](https://www.theregister.com/2025/07/03/ai_phishing_websites/)
 * [2025-07-04, 18:12:25](https://news.ycombinator.com/item?id=44466697) - [How to Incapacitate Google Tag Manager and Why You Should (2022)](https://backlit.neocities.org/incapacitate-google-tag-manager)
 * [2025-07-04, 16:10:13](https://news.ycombinator.com/item?id=44465731) - [EverQuest](https://www.filfre.net/2025/07/everquest/)
 * [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
@@ -24,12 +23,13 @@
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
 * [2025-07-04, 09:43:04](https://news.ycombinator.com/item?id=44462947) - [Larry (cat)](https://en.wikipedia.org/wiki/Larry_(cat))
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
-* [2025-07-04, 04:11:19](https://news.ycombinator.com/item?id=44461067) - [Zig breaking change – Initial Writergate](https://github.com/ziglang/zig/pull/24329)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 14:02:16](https://news.ycombinator.com/item?id=44455196) - [Robots move Shanghai city block [video]](https://www.youtube.com/watch?v=7ZccC9BnT8k)
 * [2025-07-03, 13:54:15](https://news.ycombinator.com/item?id=44455124) - [Baba Is Eval](https://fi-le.net/baba/)
+* [2025-07-02, 22:28:02](https://news.ycombinator.com/item?id=44449509) - [The History of Electronic Music in 476 Tracks (1937–2001)](https://www.openculture.com/2025/06/the-history-of-electronic-music-in-476-tracks.html)
 * [2025-07-02, 15:08:34](https://news.ycombinator.com/item?id=44444686) - [Learn to love the moat of low status](https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status)
 * [2025-07-02, 06:58:55](https://news.ycombinator.com/item?id=44440898) - [Vortex (Véhicule Orbital Réutilisable de Transport Et D'Exploration)](https://www.dassault-aviation.com/en/space/aerospace-vehicles/vortex-vehicule-orbital-reutilisable-de-transport-et-dexploration/)
+* [2025-07-01, 12:12:56](https://news.ycombinator.com/item?id=44433094) - [In a milestone for Manhattan, a pair of coyotes has made Central Park their home](https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/)
 
 ## [Archives](archives/index.md)
 
