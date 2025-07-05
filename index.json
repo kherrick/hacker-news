@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44469124"
     ],
     [
-      "OBBB signed: reinstates immediate expensing for U.S.-based R&D",
+      "OBBB signed: Reinstates immediate expensing for U.S.-based R&D",
       "https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature"
     ]
   ],
@@ -21,22 +21,12 @@
   ],
   [
     [
-      "2025-07-04, 22:58:40",
-      "https://news.ycombinator.com/item?id=44468641"
+      "2025-07-04, 22:21:17",
+      "https://news.ycombinator.com/item?id=44468380"
     ],
     [
-      "Who is Soham Parekh, the serial moonlighter Silicon Valley can't stop hiring?",
-      "https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 22:35:20",
-      "https://news.ycombinator.com/item?id=44468489"
-    ],
-    [
-      "Homotopies in multiway (nondeterministic) rewriting systems as n-fold categories",
-      "https://arxiv.org/abs/2105.10822"
+      "Show HN: Tinykv – Minimal file-backed key-value store for Rust",
+      "https://crates.io/crates/tinykv"
     ]
   ],
   [
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44468175"
     ],
     [
-      "Nvidia Is Full of Shit",
+      "Nvidia is full of shit",
       "https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/"
     ]
   ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2025-07-04, 20:16:10",
+      "https://news.ycombinator.com/item?id=44467539"
+    ],
+    [
+      "Open Source and FPGA Maker Board for Networking",
+      "https://privateisland.tech/betsy"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 19:45:08",
       "https://news.ycombinator.com/item?id=44467312"
     ],
@@ -105,8 +105,18 @@
       "https://news.ycombinator.com/item?id=44467279"
     ],
     [
-      "Show HN: AirBending – hand gesture based macOS app MIDI controller",
+      "Show HN: AirBending – Hand gesture based macOS app MIDI controller",
       "https://www.nanassound.com/products/software/airbending"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 18:41:37",
+      "https://news.ycombinator.com/item?id=44466888"
+    ],
+    [
+      "Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B",
+      "https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=44461067"
     ],
     [
-      "Zig breaking change – initial Writergate",
+      "Zig breaking change – Initial Writergate",
       "https://github.com/ziglang/zig/pull/24329"
     ]
   ],
@@ -261,32 +271,22 @@
   ],
   [
     [
+      "2025-07-02, 15:08:34",
+      "https://news.ycombinator.com/item?id=44444686"
+    ],
+    [
+      "Learn to love the moat of low status",
+      "https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 13:01:59",
       "https://news.ycombinator.com/item?id=44433500"
     ],
     [
       "Show HN: Flint – Write code your way while ensuring remote consistency",
       "https://github.com/capsulescodes/flint"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 12:08:46",
-      "https://news.ycombinator.com/item?id=44433062"
-    ],
-    [
-      "Lens: Lenses, Folds and Traversals",
-      "https://hackage.haskell.org/package/lens"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 12:03:17",
-      "https://news.ycombinator.com/item?id=44433024"
-    ],
-    [
-      "Chasing Lost Languages",
-      "https://nautil.us/chasing-lost-languages-1221167/"
     ]
   ],
   [
