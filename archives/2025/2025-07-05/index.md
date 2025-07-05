@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 16:08:29](https://news.ycombinator.com/item?id=44473677) - [Goodbye to All That – My Resignation from the FBI](https://www.lawfaremedia.org/article/goodbye-to-all-that)
+* [2025-07-05, 16:01:34](https://news.ycombinator.com/item?id=44473638) - [The \"Big Beautiful Bill\" destroys science, freedom, equality, and democracy](https://news.immunologic.org/p/rip-america-or-at-least-the-american)
 * [2025-07-05, 15:30:56](https://news.ycombinator.com/item?id=44473436) - [How U.S. Tourists Are Dealing with a New Animosity Overseas](https://www.wsj.com/lifestyle/travel/american-international-travel-tips-0a70af73)
+* [2025-07-05, 15:27:37](https://news.ycombinator.com/item?id=44473409) - [Heart attacks aren't as fatal as they used to be](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
 * [2025-07-05, 15:15:47](https://news.ycombinator.com/item?id=44473319) - ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers)
 * [2025-07-05, 14:45:39](https://news.ycombinator.com/item?id=44473135) - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/essay/local-first/)
 * [2025-07-05, 14:39:28](https://news.ycombinator.com/item?id=44473098) - [Musk and co should ask AI what defines intelligence. They may learn something](https://observer.co.uk/news/columnists/article/musk-and-co-should-ask-an-ai-what-defines-intelligence-they-may-learn-something)

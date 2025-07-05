@@ -8,6 +8,7 @@
 * [2025-07-03, 22:17:10](https://news.ycombinator.com/item?id=44459608) - [Michael Madsen Has Died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
 * [2025-07-03, 21:01:06](https://news.ycombinator.com/item?id=44459146) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-07-03, 20:40:25](https://news.ycombinator.com/item?id=44458986) - [A simple opensource social media researcher powered by exa ai api and youtube v](https://github.com/KasPeR0990/yurei-app)
+* [2025-07-03, 20:31:17](https://news.ycombinator.com/item?id=44458914) - [Just Ask for Generalization](https://evjang.com/2021/10/23/generalization.html)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 20:27:01](https://news.ycombinator.com/item?id=44458877) - [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
 * [2025-07-03, 18:00:21](https://news.ycombinator.com/item?id=44457623) - [Will Scaling Solve Robotics?](https://nishanthjkumar.com/blog/2023/Will-Scaling-Solve-Robotics-Perspectives-from-CoRL-2023/)
