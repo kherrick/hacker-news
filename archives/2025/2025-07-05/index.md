@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 16:13:49](https://news.ycombinator.com/item?id=44473711) - [ApplePay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
+* [2025-07-05, 16:11:05](https://news.ycombinator.com/item?id=44473694) - [Cops in [Spain] think everyone using a Google Pixel must be a drug dealer](https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
 * [2025-07-05, 16:08:29](https://news.ycombinator.com/item?id=44473677) - [Goodbye to All That – My Resignation from the FBI](https://www.lawfaremedia.org/article/goodbye-to-all-that)
 * [2025-07-05, 16:01:34](https://news.ycombinator.com/item?id=44473638) - [The \"Big Beautiful Bill\" destroys science, freedom, equality, and democracy](https://news.immunologic.org/p/rip-america-or-at-least-the-american)
 * [2025-07-05, 15:30:56](https://news.ycombinator.com/item?id=44473436) - [How U.S. Tourists Are Dealing with a New Animosity Overseas](https://www.wsj.com/lifestyle/travel/american-international-travel-tips-0a70af73)
