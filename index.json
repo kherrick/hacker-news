@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-05, 02:40:30",
+      "https://news.ycombinator.com/item?id=44469727"
+    ],
+    [
+      "ADXL345 Die Analysis",
+      "https://www.tinytransistors.net/2024/08/25/adxl345/"
+    ]
+  ],
+  [
+    [
       "2025-07-05, 00:24:00",
       "https://news.ycombinator.com/item?id=44469124"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-07-04, 04:11:19",
-      "https://news.ycombinator.com/item?id=44461067"
-    ],
-    [
-      "Zig breaking change – Initial Writergate",
-      "https://github.com/ziglang/zig/pull/24329"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 20:28:57",
       "https://news.ycombinator.com/item?id=44458890"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-07-03, 13:54:15",
+      "https://news.ycombinator.com/item?id=44455124"
+    ],
+    [
+      "Baba Is Eval",
+      "https://fi-le.net/baba/"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 15:08:34",
       "https://news.ycombinator.com/item?id=44444686"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Flint – Write code your way while ensuring remote consistency",
       "https://github.com/capsulescodes/flint"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 10:00:33",
-      "https://news.ycombinator.com/item?id=44432272"
-    ],
-    [
-      "Version Control for AI Coding",
-      "https://branching.app"
     ]
   ]
 ]
