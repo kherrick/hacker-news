@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-05, 18:28:31](https://news.ycombinator.com/item?id=44474573) - [AI winter is well on its way (2018)](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)
 * [2025-07-05, 17:43:01](https://news.ycombinator.com/item?id=44474297) - [Seine reopens to Paris swimmers after century-long ban](https://www.lemonde.fr/en/france/article/2025/07/05/seine-reopens-to-paris-swimmers-after-century-long-ban_6743058_7.html)
 * [2025-07-05, 16:42:19](https://news.ycombinator.com/item?id=44473888) - [Speeding up PostgreSQL dump/restore snapshots](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
-* [2025-07-05, 16:11:05](https://news.ycombinator.com/item?id=44473694) - [Cops in [Spain] think everyone using a Google Pixel must be a drug dealer](https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
 * [2025-07-05, 15:54:49](https://news.ycombinator.com/item?id=44473590) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
 * [2025-07-05, 15:27:37](https://news.ycombinator.com/item?id=44473409) - [Heart attacks aren't as fatal as they used to be](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
 * [2025-07-05, 15:15:47](https://news.ycombinator.com/item?id=44473319) - ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers)
