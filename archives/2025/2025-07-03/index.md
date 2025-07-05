@@ -40,6 +40,7 @@
 * [2025-07-03, 12:00:28](https://news.ycombinator.com/item?id=44454114) - [Kyber (YC W23) Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
 * [2025-07-03, 11:51:33](https://news.ycombinator.com/item?id=44454061) - [The uv build back end is now stable](https://docs.astral.sh/uv/concepts/build-backend/)
 * [2025-07-03, 11:27:12](https://news.ycombinator.com/item?id=44453888) - [CoMaps: New OSM based navigation app](https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/)
+* [2025-07-03, 11:11:57](https://news.ycombinator.com/item?id=44453814) - [Parametric shape optimization with differentiable FEM simulation](https://docs.pasteurlabs.ai/projects/tesseract-jax/latest/examples/fem-shapeopt/demo.html)
 * [2025-07-03, 10:51:18](https://news.ycombinator.com/item?id=44453688) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 * [2025-07-03, 09:53:03](https://news.ycombinator.com/item?id=44453371) - [Building Linux kernel on macOS natively](https://seiya.me/blog/building-linux-on-macos-natively)
 * [2025-07-03, 09:43:37](https://news.ycombinator.com/item?id=44453317) - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
