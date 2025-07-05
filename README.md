@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-05, 16:13:49](https://news.ycombinator.com/item?id=44473711) - [ApplePay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
 * [2025-07-05, 16:11:05](https://news.ycombinator.com/item?id=44473694) - [Cops in [Spain] think everyone using a Google Pixel must be a drug dealer](https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
 * [2025-07-05, 15:54:49](https://news.ycombinator.com/item?id=44473590) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
 * [2025-07-05, 15:27:37](https://news.ycombinator.com/item?id=44473409) - [Heart attacks aren't as fatal as they used to be](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
@@ -29,6 +28,7 @@
 * [2025-07-02, 15:08:34](https://news.ycombinator.com/item?id=44444686) - [The Moat of Low Status](https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status)
 * [2025-07-02, 11:27:07](https://news.ycombinator.com/item?id=44442396) - [Build Systems à la Carte (2018) [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf)
 * [2025-07-02, 07:14:19](https://news.ycombinator.com/item?id=44440968) - [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
+* [2025-07-02, 03:06:46](https://news.ycombinator.com/item?id=44439915) - [Optimizing typography of insect labels using free fonts and free software (2012) [pdf]](https://www.akentsoc.org/doc/Bowser_ML_2012.pdf)
 * [2025-07-01, 12:12:56](https://news.ycombinator.com/item?id=44433094) - [In a milestone for Manhattan, a pair of coyotes has made Central Park their home](https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/)
 
 ## [Archives](archives/index.md)
