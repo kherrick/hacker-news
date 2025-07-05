@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-05, 02:57:17](https://news.ycombinator.com/item?id=44469798) - [Amiga Linux (1993)](https://groups.google.com/g/comp.sys.amiga.emulations/c/xUgrpylQOXk)
 * [2025-07-05, 02:40:30](https://news.ycombinator.com/item?id=44469727) - [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
 * [2025-07-05, 02:23:35](https://news.ycombinator.com/item?id=44469650) - [Why AO3 Was Down](https://www.reddit.com/r/AO3/s/67nQid89MW)
 * [2025-07-05, 00:24:00](https://news.ycombinator.com/item?id=44469124) - [OBBB signed: Reinstates immediate expensing for U.S.-based R&D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
@@ -16,7 +17,6 @@
 * [2025-07-04, 18:12:25](https://news.ycombinator.com/item?id=44466697) - [How to Incapacitate Google Tag Manager and Why You Should (2022)](https://backlit.neocities.org/incapacitate-google-tag-manager)
 * [2025-07-04, 16:10:13](https://news.ycombinator.com/item?id=44465731) - [EverQuest](https://www.filfre.net/2025/07/everquest/)
 * [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
-* [2025-07-04, 15:07:33](https://news.ycombinator.com/item?id=44465206) - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
 * [2025-07-04, 13:58:03](https://news.ycombinator.com/item?id=44464641) - [Kepler.gl](https://kepler.gl/)
 * [2025-07-04, 13:32:10](https://news.ycombinator.com/item?id=44464396) - [Bcachefs may be headed out of the kernel](https://lwn.net/Articles/1027289/)
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
