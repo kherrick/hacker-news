@@ -4,10 +4,9 @@
 * [2025-07-05, 18:21:21](https://news.ycombinator.com/item?id=44474531) - [How to not pay your taxes legally, apparently](https://mrsteinberg.com/how-to-not-pay-your-taxes-legally-apparently/)
 * [2025-07-05, 17:43:01](https://news.ycombinator.com/item?id=44474297) - [Seine reopens to Paris swimmers after century-long ban](https://www.lemonde.fr/en/france/article/2025/07/05/seine-reopens-to-paris-swimmers-after-century-long-ban_6743058_7.html)
 * [2025-07-05, 16:42:19](https://news.ycombinator.com/item?id=44473888) - [Speeding up PostgreSQL dump/restore snapshots](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
-* [2025-07-05, 15:54:49](https://news.ycombinator.com/item?id=44473590) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
 * [2025-07-05, 15:25:41](https://news.ycombinator.com/item?id=44473400) - [macOS Icon History](https://basicappleguy.com/basicappleblog/macos-icon-history)
 * [2025-07-05, 15:15:47](https://news.ycombinator.com/item?id=44473319) - ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers)
-* [2025-07-05, 14:45:39](https://news.ycombinator.com/item?id=44473135) - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/essay/local-first/)
+* [2025-07-05, 14:45:39](https://news.ycombinator.com/item?id=44473135) - [Local-first software (2019)](https://www.inkandswitch.com/essay/local-first/)
 * [2025-07-05, 14:21:14](https://news.ycombinator.com/item?id=44472992) - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 * [2025-07-05, 11:14:40](https://news.ycombinator.com/item?id=44471896) - [QSBS Limits Raised](https://www.mintz.com/insights-center/viewpoints/2906/2025-06-25-qsbs-benefits-expanded-under-senate-finance-proposal)
 * [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [Problems the AI industry is not addressing adequately](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
@@ -22,7 +21,7 @@
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
 * [2025-07-03, 20:31:17](https://news.ycombinator.com/item?id=44458914) - [Just Ask for Generalization](https://evjang.com/2021/10/23/generalization.html)
 * [2025-07-03, 14:43:57](https://news.ycombinator.com/item?id=44455591) - [Is It Cake? How Our Brain Deciphers Materials](https://nautil.us/is-it-cake-how-our-brain-deciphers-materials-1222193/)
-* [2025-07-03, 05:38:04](https://news.ycombinator.com/item?id=44451949) - [Numerical Electromagnics Code (NEM)](https://www.nec2.org/)
+* [2025-07-03, 06:07:34](https://news.ycombinator.com/item?id=44452106) - [N-Back – A Minimal, Adaptive Dual N-Back Game for Brain Training](https://n-back.net)
 * [2025-07-02, 22:28:02](https://news.ycombinator.com/item?id=44449509) - [The History of Electronic Music in 476 Tracks (1937–2001)](https://www.openculture.com/2025/06/the-history-of-electronic-music-in-476-tracks.html)
 * [2025-07-02, 19:24:18](https://news.ycombinator.com/item?id=44447797) - [Atomic \"Bomb\" Ring from KiX (1947)](https://toytales.ca/atomic-bomb-ring-from-kix-1947/)
 * [2025-07-02, 15:08:34](https://news.ycombinator.com/item?id=44444686) - [The Moat of Low Status](https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status)
@@ -30,6 +29,7 @@
 * [2025-07-02, 11:27:07](https://news.ycombinator.com/item?id=44442396) - [Build Systems à la Carte (2018) [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf)
 * [2025-07-02, 07:14:19](https://news.ycombinator.com/item?id=44440968) - [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
 * [2025-07-02, 03:06:46](https://news.ycombinator.com/item?id=44439915) - [Optimizing typography of insect labels using free fonts and free software (2012) [pdf]](https://www.akentsoc.org/doc/Bowser_ML_2012.pdf)
+* [2025-07-01, 12:12:56](https://news.ycombinator.com/item?id=44433094) - [In a milestone for Manhattan, a pair of coyotes has made Central Park their home](https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/)
 
 ## [Archives](archives/index.md)
 
