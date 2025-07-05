@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-05, 11:38:58](https://news.ycombinator.com/item?id=44472024) - [What 'Project Hail Mary' teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
+* [2025-07-05, 11:01:56](https://news.ycombinator.com/item?id=44471832) - [What I learned building an AI coding agent for a year](https://jamesgrugett.com/p/what-i-learned-building-an-ai-coding)
 * [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [Problems the AI industry is not addressing adequately](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
 * [2025-07-05, 10:11:42](https://news.ycombinator.com/item?id=44471576) - [Go, PET, Let Hen - Curious adventures in (Commodore) BASIC tokenizing](https://www.masswerk.at/nowgobang/2025/go-pet-let-hen)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
@@ -8,7 +9,6 @@
 * [2025-07-05, 07:00:29](https://news.ycombinator.com/item?id=44470656) - [Telli (YC F24) Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
 * [2025-07-05, 06:14:52](https://news.ycombinator.com/item?id=44470464) - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
 * [2025-07-05, 02:40:30](https://news.ycombinator.com/item?id=44469727) - [ADXL345 (2024)](https://www.tinytransistors.net/2024/08/25/adxl345/)
-* [2025-07-04, 23:57:21](https://news.ycombinator.com/item?id=44468999) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
 * [2025-07-04, 21:58:25](https://news.ycombinator.com/item?id=44468175) - [Nvidia won, we all lost](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:11:24](https://news.ycombinator.com/item?id=44467912) - [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
 * [2025-07-04, 19:45:08](https://news.ycombinator.com/item?id=44467312) - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
