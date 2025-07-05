@@ -62,6 +62,7 @@
 * [2025-07-02, 08:18:22](https://news.ycombinator.com/item?id=44441279) - [More assorted notes on Liquid Glass](https://morrick.me/archives/10068)
 * [2025-07-02, 07:36:41](https://news.ycombinator.com/item?id=44441089) - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
 * [2025-07-02, 07:14:19](https://news.ycombinator.com/item?id=44440968) - [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
+* [2025-07-02, 07:09:43](https://news.ycombinator.com/item?id=44440948) - [Solve high degree polynomials using Geode numbers](https://www.tandfonline.com/doi/full/10.1080/00029890.2025.2460966)
 * [2025-07-02, 06:58:55](https://news.ycombinator.com/item?id=44440898) - [Vortex (Véhicule Orbital Réutilisable de Transport Et D'Exploration)](https://www.dassault-aviation.com/en/space/aerospace-vehicles/vortex-vehicule-orbital-reutilisable-de-transport-et-dexploration/)
 * [2025-07-02, 05:42:23](https://news.ycombinator.com/item?id=44440556) - [Hydrogen sulphide gas restricts SARS-CoV-2 replication in host cells](https://iisc.ac.in/hydrogen-sulphide-gas-restricts-sars-cov-2-replication-in-host-cells/)
 * [2025-07-02, 05:31:08](https://news.ycombinator.com/item?id=44440509) - [Mandelbrot in x86 Assembly by Claude](https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/)
