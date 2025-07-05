@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [I'm Losing All Trust in the AI Industry](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
+* [2025-07-05, 11:40:26](https://news.ycombinator.com/item?id=44472034) - [Large Language Models Are Improving Exponentially](https://spectrum.ieee.org/large-language-model-performance)
+* [2025-07-05, 10:11:42](https://news.ycombinator.com/item?id=44471576) - [Go, PET, Let Hen - Curious adventures in (Commodore) BASIC tokenizing](https://www.masswerk.at/nowgobang/2025/go-pet-let-hen)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
+* [2025-07-05, 08:43:41](https://news.ycombinator.com/item?id=44471150) - [Gecode is an open source C++ toolkit for developing constraint-based systems](https://www.gecode.org/)
 * [2025-07-05, 07:00:29](https://news.ycombinator.com/item?id=44470656) - [Telli (YC F24) Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
 * [2025-07-05, 06:14:52](https://news.ycombinator.com/item?id=44470464) - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
 * [2025-07-05, 02:40:30](https://news.ycombinator.com/item?id=44469727) - [ADXL345 (2024)](https://www.tinytransistors.net/2024/08/25/adxl345/)
@@ -14,11 +16,9 @@
 * [2025-07-04, 18:12:25](https://news.ycombinator.com/item?id=44466697) - [Incapacitating Google Tag Manager (2022)](https://backlit.neocities.org/incapacitate-google-tag-manager)
 * [2025-07-04, 16:10:13](https://news.ycombinator.com/item?id=44465731) - [EverQuest](https://www.filfre.net/2025/07/everquest/)
 * [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
-* [2025-07-04, 13:58:03](https://news.ycombinator.com/item?id=44464641) - [Kepler.gl](https://kepler.gl/)
 * [2025-07-04, 13:32:10](https://news.ycombinator.com/item?id=44464396) - [Bcachefs may be headed out of the kernel](https://lwn.net/Articles/1027289/)
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
-* [2025-07-04, 09:43:04](https://news.ycombinator.com/item?id=44462947) - [Larry (cat)](https://en.wikipedia.org/wiki/Larry_(cat))
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml (2022)](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 17:59:30](https://news.ycombinator.com/item?id=44457612) - [Impact of PCIe 5.0 Bandwidth on GPU Content Creation and LLM Performance](https://www.pugetsystems.com/labs/articles/impact-of-pcie-5-0-bandwidth-on-gpu-content-creation-performance/)
@@ -28,8 +28,8 @@
 * [2025-07-02, 22:28:02](https://news.ycombinator.com/item?id=44449509) - [The History of Electronic Music in 476 Tracks (1937–2001)](https://www.openculture.com/2025/06/the-history-of-electronic-music-in-476-tracks.html)
 * [2025-07-02, 15:08:34](https://news.ycombinator.com/item?id=44444686) - [Learn to love the moat of low status](https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status)
 * [2025-07-01, 19:00:17](https://news.ycombinator.com/item?id=44437014) - [Scientists capture slow-motion earthquake in action](https://phys.org/news/2025-06-scientists-capture-motion-earthquake-action.html)
+* [2025-07-01, 12:21:10](https://news.ycombinator.com/item?id=44433159) - [You're All CTO Now](https://jamie.ideasasylum.com/2025/07/01/you%27re-all-cto-now)
 * [2025-07-01, 12:12:56](https://news.ycombinator.com/item?id=44433094) - [In a milestone for Manhattan, a pair of coyotes has made Central Park their home](https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/)
-* [2025-07-01, 11:41:08](https://news.ycombinator.com/item?id=44432895) - [How AI on Microcontrollers Works: Operators and Kernels](https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/)
 
 ## [Archives](archives/index.md)
 

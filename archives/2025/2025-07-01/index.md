@@ -56,6 +56,7 @@
 * [2025-07-01, 12:47:06](https://news.ycombinator.com/item?id=44433386) - [Show HN: Jobs by Referral: Find jobs in your LinkedIn network](https://jobsbyreferral.com/)
 * [2025-07-01, 12:27:31](https://news.ycombinator.com/item?id=44433222) - [RP2350pc Open Source Hardware all in one computer](https://olimex.wordpress.com/2025/07/01/rp2350pc-open-source-hardware-all-in-one-computer-with-rp2350b-8mb-psram-16mb-flash-four-usb-host-dvi-hdmi-output-and-audio-codec-for-retro-computer-emulation-and-education/)
 * [2025-07-01, 12:26:51](https://news.ycombinator.com/item?id=44433218) - [Spending Too Much Money on a Coding Agent](https://allenpike.com/2025/coding-agents)
+* [2025-07-01, 12:21:10](https://news.ycombinator.com/item?id=44433159) - [You're All CTO Now](https://jamie.ideasasylum.com/2025/07/01/you%27re-all-cto-now)
 * [2025-07-01, 12:12:56](https://news.ycombinator.com/item?id=44433094) - [In a Milestone for Manhattan, a Pair of Coyotes Has Made Central Park Their Home](https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/)
 * [2025-07-01, 12:10:42](https://news.ycombinator.com/item?id=44433078) - [Raphael Discovery Emerges from Vatican Museum Restoration](https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624)
 * [2025-07-01, 12:08:46](https://news.ycombinator.com/item?id=44433062) - [Lens: Lenses, Folds and Traversals](https://hackage.haskell.org/package/lens)
