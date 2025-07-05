@@ -7,6 +7,7 @@
 * [2025-07-05, 08:54:40](https://news.ycombinator.com/item?id=44471195) - [The only time HN is this interested in Bitcoin is when there's a bubble (2017)](https://incoherency.co.uk/blog/stories/hacker-news-bitcoin.html)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
 * [2025-07-05, 08:49:45](https://news.ycombinator.com/item?id=44471175) - [Making My Own Hacktoberfest T-Shirts](https://shkspr.mobi/blog/2025/07/making-my-own-hacktoberfest-t-shirts/)
+* [2025-07-05, 07:35:53](https://news.ycombinator.com/item?id=44470803) - [French City of Lyon Kicks Out Microsoft](https://news.itsfoss.com/french-city-replaces-microsoft/)
 * [2025-07-05, 07:22:18](https://news.ycombinator.com/item?id=44470746) - [A new, 200% faster DeepSeek R1-0528 variant appears from German lab](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)
 * [2025-07-05, 07:00:29](https://news.ycombinator.com/item?id=44470656) - [Telli (YC F24) Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
 * [2025-07-05, 06:54:42](https://news.ycombinator.com/item?id=44470632) - [You will own nothing and be happy (Stop Killing Games)](https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0)
