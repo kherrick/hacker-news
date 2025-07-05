@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-05, 02:40:30](https://news.ycombinator.com/item?id=44469727) - [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
 * [2025-07-05, 00:24:00](https://news.ycombinator.com/item?id=44469124) - [OBBB signed: Reinstates immediate expensing for U.S.-based R&D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
 * [2025-07-04, 23:57:21](https://news.ycombinator.com/item?id=44468999) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
 * [2025-07-04, 22:21:17](https://news.ycombinator.com/item?id=44468380) - [Show HN: Tinykv – Minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
@@ -24,12 +25,11 @@
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
 * [2025-07-04, 09:43:04](https://news.ycombinator.com/item?id=44462947) - [Larry (cat)](https://en.wikipedia.org/wiki/Larry_(cat))
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
-* [2025-07-04, 04:11:19](https://news.ycombinator.com/item?id=44461067) - [Zig breaking change – Initial Writergate](https://github.com/ziglang/zig/pull/24329)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 14:02:16](https://news.ycombinator.com/item?id=44455196) - [Robots move Shanghai city block [video]](https://www.youtube.com/watch?v=7ZccC9BnT8k)
+* [2025-07-03, 13:54:15](https://news.ycombinator.com/item?id=44455124) - [Baba Is Eval](https://fi-le.net/baba/)
 * [2025-07-02, 15:08:34](https://news.ycombinator.com/item?id=44444686) - [Learn to love the moat of low status](https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status)
 * [2025-07-01, 13:01:59](https://news.ycombinator.com/item?id=44433500) - [Show HN: Flint – Write code your way while ensuring remote consistency](https://github.com/capsulescodes/flint)
-* [2025-07-01, 10:00:33](https://news.ycombinator.com/item?id=44432272) - [Version Control for AI Coding](https://branching.app)
 
 ## [Archives](archives/index.md)
 
