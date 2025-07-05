@@ -2,6 +2,7 @@
 
 * [2025-07-05, 14:21:14](https://news.ycombinator.com/item?id=44472992) - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 * [2025-07-05, 11:38:58](https://news.ycombinator.com/item?id=44472024) - [What 'Project Hail Mary' teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
+* [2025-07-05, 11:14:40](https://news.ycombinator.com/item?id=44471896) - [QSBS Limits Raised](https://www.mintz.com/insights-center/viewpoints/2906/2025-06-25-qsbs-benefits-expanded-under-senate-finance-proposal)
 * [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [Problems the AI industry is not addressing adequately](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
 * [2025-07-05, 10:11:42](https://news.ycombinator.com/item?id=44471576) - [Go, PET, Let Hen - Curious adventures in (Commodore) BASIC tokenizing](https://www.masswerk.at/nowgobang/2025/go-pet-let-hen)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
@@ -18,7 +19,6 @@
 * [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
-* [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml (2022)](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 18:00:21](https://news.ycombinator.com/item?id=44457623) - [Will Scaling Solve Robotics?](https://nishanthjkumar.com/blog/2023/Will-Scaling-Solve-Robotics-Perspectives-from-CoRL-2023/)
 * [2025-07-03, 14:02:16](https://news.ycombinator.com/item?id=44455196) - [Robots move Shanghai city block [video]](https://www.youtube.com/watch?v=7ZccC9BnT8k)

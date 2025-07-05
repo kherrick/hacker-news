@@ -8,6 +8,7 @@
 * [2025-07-05, 13:48:33](https://news.ycombinator.com/item?id=44472794) - [The EU wants to decrypt your private data by 2030](https://www.techradar.com/vpn/vpn-privacy-security/the-eu-wants-to-decrypt-your-private-data-by-2030)
 * [2025-07-05, 11:40:26](https://news.ycombinator.com/item?id=44472034) - [Large Language Models Are Improving Exponentially](https://spectrum.ieee.org/large-language-model-performance)
 * [2025-07-05, 11:38:58](https://news.ycombinator.com/item?id=44472024) - [What 'Project Hail Mary' teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
+* [2025-07-05, 11:14:40](https://news.ycombinator.com/item?id=44471896) - [QSBS Limits Raised](https://www.mintz.com/insights-center/viewpoints/2906/2025-06-25-qsbs-benefits-expanded-under-senate-finance-proposal)
 * [2025-07-05, 11:08:03](https://news.ycombinator.com/item?id=44471861) - [Cars' Forward Blind Zones Are Worse Now Than 25 Years Ago](https://www.caranddriver.com/news/a65219830/car-blind-zones-study-iihs/)
 * [2025-07-05, 11:01:56](https://news.ycombinator.com/item?id=44471832) - [What I learned building an AI coding agent for a year](https://jamesgrugett.com/p/what-i-learned-building-an-ai-coding)
 * [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [I'm Losing All Trust in the AI Industry](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
