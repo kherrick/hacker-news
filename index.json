@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-07-05, 08:49:45",
-      "https://news.ycombinator.com/item?id=44471175"
-    ],
-    [
-      "Making My Own Hacktoberfest T-Shirts",
-      "https://shkspr.mobi/blog/2025/07/making-my-own-hacktoberfest-t-shirts/"
-    ]
-  ],
-  [
-    [
       "2025-07-05, 07:35:53",
       "https://news.ycombinator.com/item?id=44470803"
     ],
@@ -71,32 +61,12 @@
   ],
   [
     [
-      "2025-07-05, 06:54:42",
-      "https://news.ycombinator.com/item?id=44470632"
-    ],
-    [
-      "You will own nothing and be happy (Stop Killing Games)",
-      "https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0"
-    ]
-  ],
-  [
-    [
       "2025-07-05, 06:14:52",
       "https://news.ycombinator.com/item?id=44470464"
     ],
     [
       "The messy reality of SIMD (vector) functions",
       "https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 02:57:17",
-      "https://news.ycombinator.com/item?id=44469798"
-    ],
-    [
-      "Amiga Linux (1993)",
-      "https://groups.google.com/g/comp.sys.amiga.emulations/c/xUgrpylQOXk"
     ]
   ],
   [
@@ -141,12 +111,32 @@
   ],
   [
     [
+      "2025-07-04, 21:11:53",
+      "https://news.ycombinator.com/item?id=44467914"
+    ],
+    [
+      "The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?",
+      "https://www.datagubbe.se/amix/"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 21:11:24",
       "https://news.ycombinator.com/item?id=44467912"
     ],
     [
       "Being too ambitious is a clever form of self-sabotage",
       "https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 19:45:08",
+      "https://news.ycombinator.com/item?id=44467312"
+    ],
+    [
+      "The story behind Caesar salad",
+      "https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2025-07-04, 09:34:56",
+      "https://news.ycombinator.com/item?id=44462896"
+    ],
+    [
+      "Writing a Game Boy Emulator in OCaml (2022)",
+      "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 17:59:30",
       "https://news.ycombinator.com/item?id=44457612"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-07-01, 09:49:26",
-      "https://news.ycombinator.com/item?id=44432215"
+      "2025-07-01, 11:41:08",
+      "https://news.ycombinator.com/item?id=44432895"
     ],
     [
-      "Show HN: Semcheck – AI Tool for checking implementation follows spec",
-      "https://github.com/rejot-dev/semcheck"
+      "How AI on Microcontrollers Works: Operators and Kernels",
+      "https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/"
     ]
   ]
 ]
