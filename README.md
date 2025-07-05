@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-05, 11:08:03](https://news.ycombinator.com/item?id=44471861) - [Cars' Forward Blind Zones Are Worse Now Than 25 Years Ago](https://www.caranddriver.com/news/a65219830/car-blind-zones-study-iihs/)
 * [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [I'm Losing All Trust in the AI Industry](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
-* [2025-07-05, 07:35:53](https://news.ycombinator.com/item?id=44470803) - [French City of Lyon Kicks Out Microsoft](https://news.itsfoss.com/french-city-replaces-microsoft/)
 * [2025-07-05, 07:00:29](https://news.ycombinator.com/item?id=44470656) - [Telli (YC F24) Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
 * [2025-07-05, 06:14:52](https://news.ycombinator.com/item?id=44470464) - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
 * [2025-07-05, 02:40:30](https://news.ycombinator.com/item?id=44469727) - [ADXL345 (2024)](https://www.tinytransistors.net/2024/08/25/adxl345/)

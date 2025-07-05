@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 11:08:03](https://news.ycombinator.com/item?id=44471861) - [Cars' Forward Blind Zones Are Worse Now Than 25 Years Ago](https://www.caranddriver.com/news/a65219830/car-blind-zones-study-iihs/)
 * [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [I'm Losing All Trust in the AI Industry](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
 * [2025-07-05, 08:54:40](https://news.ycombinator.com/item?id=44471195) - [The only time HN is this interested in Bitcoin is when there's a bubble (2017)](https://incoherency.co.uk/blog/stories/hacker-news-bitcoin.html)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
