@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-05, 10:33:18",
-      "https://news.ycombinator.com/item?id=44471695"
+      "2025-07-05, 11:40:26",
+      "https://news.ycombinator.com/item?id=44472034"
     ],
     [
-      "I'm Losing All Trust in the AI Industry",
-      "https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry"
+      "Large Language Models Are Improving Exponentially",
+      "https://spectrum.ieee.org/large-language-model-performance"
+    ]
+  ],
+  [
+    [
+      "2025-07-05, 10:11:42",
+      "https://news.ycombinator.com/item?id=44471576"
+    ],
+    [
+      "Go, PET, Let Hen - Curious adventures in (Commodore) BASIC tokenizing",
+      "https://www.masswerk.at/nowgobang/2025/go-pet-let-hen"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "A 37-year-old wanting to learn computer science",
       "https://initcoder.com/posts/37-year-old-learning-cs/"
+    ]
+  ],
+  [
+    [
+      "2025-07-05, 08:43:41",
+      "https://news.ycombinator.com/item?id=44471150"
+    ],
+    [
+      "Gecode is an open source C++ toolkit for developing constraint-based systems",
+      "https://www.gecode.org/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-07-04, 13:58:03",
-      "https://news.ycombinator.com/item?id=44464641"
-    ],
-    [
-      "Kepler.gl",
-      "https://kepler.gl/"
-    ]
-  ],
-  [
-    [
       "2025-07-04, 13:32:10",
       "https://news.ycombinator.com/item?id=44464396"
     ],
@@ -177,16 +187,6 @@
     [
       "Show HN: I AI-coded a tower defense game and documented the whole process",
       "https://github.com/maciej-trebacz/tower-of-time-game"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 09:43:04",
-      "https://news.ycombinator.com/item?id=44462947"
-    ],
-    [
-      "Larry (cat)",
-      "https://en.wikipedia.org/wiki/Larry_(cat)"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-07-01, 12:21:10",
+      "https://news.ycombinator.com/item?id=44433159"
+    ],
+    [
+      "You're All CTO Now",
+      "https://jamie.ideasasylum.com/2025/07/01/you%27re-all-cto-now"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 12:12:56",
       "https://news.ycombinator.com/item?id=44433094"
     ],
     [
       "In a milestone for Manhattan, a pair of coyotes has made Central Park their home",
       "https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 11:41:08",
-      "https://news.ycombinator.com/item?id=44432895"
-    ],
-    [
-      "How AI on Microcontrollers Works: Operators and Kernels",
-      "https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/"
     ]
   ]
 ]
