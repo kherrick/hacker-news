@@ -2,6 +2,7 @@
 
 * [2025-07-05, 07:22:18](https://news.ycombinator.com/item?id=44470746) - [A new, faster DeepSeek R1-0528 variant appears from German lab](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)
 * [2025-07-05, 07:00:29](https://news.ycombinator.com/item?id=44470656) - [Telli (YC F24) Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
+* [2025-07-05, 06:54:42](https://news.ycombinator.com/item?id=44470632) - [You will own nothing and be happy (Stop Killing Games)](https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0)
 * [2025-07-05, 06:14:52](https://news.ycombinator.com/item?id=44470464) - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
 * [2025-07-05, 04:49:50](https://news.ycombinator.com/item?id=44470148) - [Clarifying our pricing](https://cursor.com/en/blog/june-2025-pricing)
 * [2025-07-05, 02:57:17](https://news.ycombinator.com/item?id=44469798) - [Amiga Linux (1993)](https://groups.google.com/g/comp.sys.amiga.emulations/c/xUgrpylQOXk)
@@ -21,8 +22,6 @@
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
 * [2025-07-04, 09:43:04](https://news.ycombinator.com/item?id=44462947) - [Larry (cat)](https://en.wikipedia.org/wiki/Larry_(cat))
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml (2022)](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
-* [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
-* [2025-07-03, 14:02:16](https://news.ycombinator.com/item?id=44455196) - [Robots move Shanghai city block [video]](https://www.youtube.com/watch?v=7ZccC9BnT8k)
 * [2025-07-03, 13:54:15](https://news.ycombinator.com/item?id=44455124) - [Baba Is Eval](https://fi-le.net/baba/)
 * [2025-07-03, 06:07:34](https://news.ycombinator.com/item?id=44452106) - [N-Back – A Minimal, Adaptive Dual N-Back Game for Brain Training](https://n-back.net)
 * [2025-07-02, 22:28:02](https://news.ycombinator.com/item?id=44449509) - [The History of Electronic Music in 476 Tracks (1937–2001)](https://www.openculture.com/2025/06/the-history-of-electronic-music-in-476-tracks.html)
@@ -30,6 +29,7 @@
 * [2025-07-02, 15:08:34](https://news.ycombinator.com/item?id=44444686) - [Learn to love the moat of low status](https://usefulfictions.substack.com/p/learn-to-love-the-moat-of-low-status)
 * [2025-07-01, 19:00:17](https://news.ycombinator.com/item?id=44437014) - [Scientists capture slow-motion earthquake in action](https://phys.org/news/2025-06-scientists-capture-motion-earthquake-action.html)
 * [2025-07-01, 12:12:56](https://news.ycombinator.com/item?id=44433094) - [In a milestone for Manhattan, a pair of coyotes has made Central Park their home](https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/)
+* [2025-07-01, 09:49:26](https://news.ycombinator.com/item?id=44432215) - [Show HN: Semcheck – AI Tool for checking implementation follows spec](https://github.com/rejot-dev/semcheck)
 
 ## [Archives](archives/index.md)
 
