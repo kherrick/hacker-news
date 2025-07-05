@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-05, 15:30:56](https://news.ycombinator.com/item?id=44473436) - [How U.S. Tourists Are Dealing with a New Animosity Overseas](https://www.wsj.com/lifestyle/travel/american-international-travel-tips-0a70af73)
 * [2025-07-05, 15:15:47](https://news.ycombinator.com/item?id=44473319) - ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers)
 * [2025-07-05, 14:45:39](https://news.ycombinator.com/item?id=44473135) - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/essay/local-first/)
 * [2025-07-05, 14:33:00](https://news.ycombinator.com/item?id=44473063) - [Happy Birthday, GamingOnLinux – 16 years today](https://www.gamingonlinux.com/2025/07/happy-birthday-gamingonlinux-16-years-today/)
@@ -20,7 +21,6 @@
 * [2025-07-04, 15:21:51](https://news.ycombinator.com/item?id=44465319) - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
-* [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 13:54:15](https://news.ycombinator.com/item?id=44455124) - [Baba Is Eval](https://fi-le.net/baba/)
 * [2025-07-03, 06:07:34](https://news.ycombinator.com/item?id=44452106) - [N-Back – A Minimal, Adaptive Dual N-Back Game for Brain Training](https://n-back.net)
 * [2025-07-03, 05:38:04](https://news.ycombinator.com/item?id=44451949) - [Numerical Electromagnics Code (NEM)](https://www.nec2.org/)
