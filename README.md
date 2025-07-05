@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-05, 15:15:47](https://news.ycombinator.com/item?id=44473319) - ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers)
 * [2025-07-05, 14:45:39](https://news.ycombinator.com/item?id=44473135) - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/essay/local-first/)
+* [2025-07-05, 14:33:00](https://news.ycombinator.com/item?id=44473063) - [Happy Birthday, GamingOnLinux – 16 years today](https://www.gamingonlinux.com/2025/07/happy-birthday-gamingonlinux-16-years-today/)
 * [2025-07-05, 14:21:14](https://news.ycombinator.com/item?id=44472992) - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
-* [2025-07-05, 11:38:58](https://news.ycombinator.com/item?id=44472024) - [What 'Project Hail Mary' teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
 * [2025-07-05, 11:14:40](https://news.ycombinator.com/item?id=44471896) - [QSBS Limits Raised](https://www.mintz.com/insights-center/viewpoints/2906/2025-06-25-qsbs-benefits-expanded-under-senate-finance-proposal)
 * [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [Problems the AI industry is not addressing adequately](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
 * [2025-07-05, 10:11:42](https://news.ycombinator.com/item?id=44471576) - [Go, PET, Let Hen - Curious adventures in (Commodore) BASIC tokenizing](https://www.masswerk.at/nowgobang/2025/go-pet-let-hen)
@@ -20,7 +21,6 @@
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
-* [2025-07-03, 18:00:21](https://news.ycombinator.com/item?id=44457623) - [Will Scaling Solve Robotics?](https://nishanthjkumar.com/blog/2023/Will-Scaling-Solve-Robotics-Perspectives-from-CoRL-2023/)
 * [2025-07-03, 13:54:15](https://news.ycombinator.com/item?id=44455124) - [Baba Is Eval](https://fi-le.net/baba/)
 * [2025-07-03, 06:07:34](https://news.ycombinator.com/item?id=44452106) - [N-Back – A Minimal, Adaptive Dual N-Back Game for Brain Training](https://n-back.net)
 * [2025-07-03, 05:38:04](https://news.ycombinator.com/item?id=44451949) - [Numerical Electromagnics Code (NEM)](https://www.nec2.org/)
