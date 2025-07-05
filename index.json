@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-07-05, 06:14:52",
+      "https://news.ycombinator.com/item?id=44470464"
+    ],
+    [
+      "The messy reality of SIMD (vector) functions",
+      "https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/"
+    ]
+  ],
+  [
+    [
       "2025-07-05, 04:49:50",
       "https://news.ycombinator.com/item?id=44470148"
     ],
@@ -37,6 +47,16 @@
     [
       "Amiga Linux (1993)",
       "https://groups.google.com/g/comp.sys.amiga.emulations/c/xUgrpylQOXk"
+    ]
+  ],
+  [
+    [
+      "2025-07-05, 02:40:30",
+      "https://news.ycombinator.com/item?id=44469727"
+    ],
+    [
+      "ADXL345 Die Analysis",
+      "https://www.tinytransistors.net/2024/08/25/adxl345/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-07-04, 13:32:10",
-      "https://news.ycombinator.com/item?id=44464396"
-    ],
-    [
-      "Bcachefs may be headed out of the kernel",
-      "https://lwn.net/Articles/1027289/"
-    ]
-  ],
-  [
-    [
       "2025-07-04, 12:50:04",
       "https://news.ycombinator.com/item?id=44464068"
     ],
@@ -207,16 +217,6 @@
     [
       "Writing a Game Boy Emulator in OCaml",
       "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 20:28:57",
-      "https://news.ycombinator.com/item?id=44458890"
-    ],
-    [
-      "Wind Knitting Factory",
-      "https://www.merelkarhof.nl/work/wind-knitting-factory"
     ]
   ],
   [
