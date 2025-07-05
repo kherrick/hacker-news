@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2025-07-05, 18:45:50",
-      "https://news.ycombinator.com/item?id=44474663"
+      "2025-07-05, 19:00:34",
+      "https://news.ycombinator.com/item?id=44474759"
     ],
     [
-      "A new law in Sweden makes it illegal to buy custom adult content",
-      "https://www.euronews.com/next/2025/06/22/takes-away-our-safest-option-adult-creators-react-to-law-banning-online-sex-purchases-in-s"
+      "Cod Have Been Shrinking for Decades, Scientists Say They've Solved Mystery",
+      "https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/"
     ]
   ],
   [
@@ -141,11 +141,21 @@
   ],
   [
     [
+      "2025-07-05, 08:52:24",
+      "https://news.ycombinator.com/item?id=44471190"
+    ],
+    [
+      "A 37-year-old wanting to learn computer science",
+      "https://initcoder.com/posts/37-year-old-learning-cs/"
+    ]
+  ],
+  [
+    [
       "2025-07-05, 08:43:41",
       "https://news.ycombinator.com/item?id=44471150"
     ],
     [
-      "Gecode is an open source C++ toolkit for developing constraint-based systems",
+      "Gecode is an open source C++ toolkit for developing constraint-based systems (2019)",
       "https://www.gecode.org/"
     ]
   ],
@@ -191,31 +201,11 @@
   ],
   [
     [
-      "2025-07-04, 15:21:51",
-      "https://news.ycombinator.com/item?id=44465319"
-    ],
-    [
-      "Mini NASes marry NVMe to Intel's efficient chip",
-      "https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 12:50:04",
-      "https://news.ycombinator.com/item?id=44464068"
-    ],
-    [
-      "Why I left my tech job to work on chronic pain",
-      "https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 20:31:17",
       "https://news.ycombinator.com/item?id=44458914"
     ],
     [
-      "Just Ask for Generalization",
+      "Just Ask for Generalization (2021)",
       "https://evjang.com/2021/10/23/generalization.html"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Is It Cake? How Our Brain Deciphers Materials",
       "https://nautil.us/is-it-cake-how-our-brain-deciphers-materials-1222193/"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 11:11:57",
+      "https://news.ycombinator.com/item?id=44453814"
+    ],
+    [
+      "Parametric shape optimization with differentiable FEM simulation",
+      "https://docs.pasteurlabs.ai/projects/tesseract-jax/latest/examples/fem-shapeopt/demo.html"
     ]
   ],
   [
