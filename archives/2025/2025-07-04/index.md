@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 23:57:21](https://news.ycombinator.com/item?id=44468999) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
 * [2025-07-04, 22:58:40](https://news.ycombinator.com/item?id=44468641) - [Who is Soham Parekh, the serial moonlighter Silicon Valley can't stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
+* [2025-07-04, 22:35:20](https://news.ycombinator.com/item?id=44468489) - [Homotopies in multiway (nondeterministic) rewriting systems as n-fold categories](https://arxiv.org/abs/2105.10822)
 * [2025-07-04, 22:20:48](https://news.ycombinator.com/item?id=44468375) - [Ask HN: Worth leaving position over push to adopt vibe coding?](https://news.ycombinator.com/item?id=44468375)
 * [2025-07-04, 21:58:25](https://news.ycombinator.com/item?id=44468175) - [Nvidia Is Full of Shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:38:04](https://news.ycombinator.com/item?id=44468058) - [Prompting LLMs is not engineering](https://dmitriid.com/prompting-llms-is-not-engineering)
