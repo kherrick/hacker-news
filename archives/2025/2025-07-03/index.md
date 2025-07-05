@@ -45,6 +45,7 @@
 * [2025-07-03, 06:15:09](https://news.ycombinator.com/item?id=44452140) - [We reimagined Transformer architectures inspired by nature's hidden structures](https://ieeexplore.ieee.org/document/10754699)
 * [2025-07-03, 06:08:24](https://news.ycombinator.com/item?id=44452109) - [Abrego Garcia Was Beaten and Tortured in El Salvador Prison, Lawyers Say](https://www.nytimes.com/2025/07/02/us/politics/kilmar-abrego-garcia-el-salvador-trump-deportation.html)
 * [2025-07-03, 06:07:34](https://news.ycombinator.com/item?id=44452106) - [N-Back – A Minimal, Adaptive Dual N-Back Game for Brain Training](https://n-back.net)
+* [2025-07-03, 05:38:04](https://news.ycombinator.com/item?id=44451949) - [Numerical Electromagnics Code (NEM)](https://www.nec2.org/)
 * [2025-07-03, 04:21:58](https://news.ycombinator.com/item?id=44451602) - [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Third Interstellar Object Discovered](https://minorplanetcenter.net/mpec/K25/K25N12.html)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
