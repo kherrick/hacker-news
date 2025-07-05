@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 08:54:40](https://news.ycombinator.com/item?id=44471195) - [The only time HN is this interested in Bitcoin is when there's a bubble (2017)](https://incoherency.co.uk/blog/stories/hacker-news-bitcoin.html)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
 * [2025-07-05, 08:49:45](https://news.ycombinator.com/item?id=44471175) - [Making My Own Hacktoberfest T-Shirts](https://shkspr.mobi/blog/2025/07/making-my-own-hacktoberfest-t-shirts/)
 * [2025-07-05, 07:22:18](https://news.ycombinator.com/item?id=44470746) - [A new, 200% faster DeepSeek R1-0528 variant appears from German lab](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)

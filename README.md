@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-05, 08:54:40](https://news.ycombinator.com/item?id=44471195) - [The only time HN is this interested in Bitcoin is when there's a bubble (2017)](https://incoherency.co.uk/blog/stories/hacker-news-bitcoin.html)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
 * [2025-07-05, 08:49:45](https://news.ycombinator.com/item?id=44471175) - [Making My Own Hacktoberfest T-Shirts](https://shkspr.mobi/blog/2025/07/making-my-own-hacktoberfest-t-shirts/)
 * [2025-07-05, 07:22:18](https://news.ycombinator.com/item?id=44470746) - [A new, faster DeepSeek R1-0528 variant appears from German lab](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)
@@ -22,7 +23,6 @@
 * [2025-07-04, 12:34:49](https://news.ycombinator.com/item?id=44463967) - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
 * [2025-07-04, 09:43:04](https://news.ycombinator.com/item?id=44462947) - [Larry (cat)](https://en.wikipedia.org/wiki/Larry_(cat))
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml (2022)](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
-* [2025-07-03, 14:02:16](https://news.ycombinator.com/item?id=44455196) - [Robots move Shanghai city block [video]](https://www.youtube.com/watch?v=7ZccC9BnT8k)
 * [2025-07-03, 13:54:15](https://news.ycombinator.com/item?id=44455124) - [Baba Is Eval](https://fi-le.net/baba/)
 * [2025-07-03, 06:07:34](https://news.ycombinator.com/item?id=44452106) - [N-Back – A Minimal, Adaptive Dual N-Back Game for Brain Training](https://n-back.net)
 * [2025-07-02, 22:28:02](https://news.ycombinator.com/item?id=44449509) - [The History of Electronic Music in 476 Tracks (1937–2001)](https://www.openculture.com/2025/06/the-history-of-electronic-music-in-476-tracks.html)
