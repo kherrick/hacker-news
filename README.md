@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-05, 21:13:55](https://news.ycombinator.com/item?id=44475600) - [WinUAE 6.0.0 Amiga Emulator](https://www.winuae.net/)
+* [2025-07-05, 21:13:55](https://news.ycombinator.com/item?id=44475600) - [WinUAE 6 Amiga Emulator](https://www.winuae.net/)
 * [2025-07-05, 20:52:46](https://news.ycombinator.com/item?id=44475453) - [Optimizing Tool Selection for LLM Workflows with Differentiable Programming](https://viksit.substack.com/p/optimizing-tool-selection-for-llm)
 * [2025-07-05, 20:28:15](https://news.ycombinator.com/item?id=44475297) - [The Prime Reasons to Avoid Amazon](https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon)
 * [2025-07-05, 19:21:51](https://news.ycombinator.com/item?id=44474894) - [Pet ownership and cognitive functioning in later adulthood across pet types](https://www.nature.com/articles/s41598-025-03727-9)
