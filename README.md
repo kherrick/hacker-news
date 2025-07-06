@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-06, 19:12:20](https://news.ycombinator.com/item?id=44483192) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
 * [2025-07-06, 18:53:09](https://news.ycombinator.com/item?id=44483081) - [Luigi Lineri, the Man Who Collects and Categorizes Stones (2024)](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
 * [2025-07-06, 18:52:22](https://news.ycombinator.com/item?id=44483077) - [Micro Common Lisp](https://t3x.org/mcl/index.html)
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
@@ -27,7 +28,6 @@
 * [2025-07-05, 11:43:53](https://news.ycombinator.com/item?id=44472057) - [1945 TV Console Showed Two Programs at Once](https://spectrum.ieee.org/dumont-duoscopic-tv-set)
 * [2025-07-04, 19:56:15](https://news.ycombinator.com/item?id=44467383) - [How to get started with Old English poetry](https://www.deadlanguagesociety.com/p/old-english-poetry)
 * [2025-07-04, 10:35:04](https://news.ycombinator.com/item?id=44463249) - [More than 1 in 5 Show HN posts are now AI-related, get > half the votes/comments](https://ryanfarley.co/ai-show-hn-data/)
-* [2025-07-03, 19:43:59](https://news.ycombinator.com/item?id=44458532) - [Development of a transputer ISA board](https://nanochess.org/transputer_board.html)
 * [2025-07-03, 08:58:09](https://news.ycombinator.com/item?id=44453038) - [Take Two: Eshell](http://yummymelon.com/devnull/take-two-eshell.html)
 * [2025-07-02, 19:18:50](https://news.ycombinator.com/item?id=44447742) - [Meet Bionode](https://microship.com/meet-bionode/)
 
