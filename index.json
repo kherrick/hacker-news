@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-07-06, 14:55:36",
-      "https://news.ycombinator.com/item?id=44481286"
+      "2025-07-06, 15:15:51",
+      "https://news.ycombinator.com/item?id=44481441"
     ],
     [
-      "Building a Mac app with Claude code",
-      "https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code"
+      "Hannah Cairo has solved the Mizohata-Takeuchi conjecture",
+      "https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-07-03, 22:10:39",
-      "https://news.ycombinator.com/item?id=44459583"
-    ],
-    [
-      "Serial SPI RAM Emulation on Raspberry Pi Pico RP2040 MCU",
-      "https://github.com/MichaelBell/spi-ram-emu"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 19:43:59",
       "https://news.ycombinator.com/item?id=44458532"
     ],
@@ -277,6 +267,16 @@
     [
       "ClojureScript from First Principles [video]",
       "https://www.youtube.com/watch?v=An-ImWVppNQ"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 16:10:59",
+      "https://news.ycombinator.com/item?id=44445462"
+    ],
+    [
+      "On latency, measurement, and optimization in algorithmic trading systems",
+      "https://www.architect.co/posts/how-fast-is-it-really"
     ]
   ],
   [
