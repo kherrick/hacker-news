@@ -29,7 +29,7 @@
 * [2025-07-04, 19:56:15](https://news.ycombinator.com/item?id=44467383) - [How to get started with Old English poetry](https://www.deadlanguagesociety.com/p/old-english-poetry)
 * [2025-07-04, 10:35:04](https://news.ycombinator.com/item?id=44463249) - [More than 1 in 5 Show HN posts are now AI-related, get > half the votes/comments](https://ryanfarley.co/ai-show-hn-data/)
 * [2025-07-03, 08:58:09](https://news.ycombinator.com/item?id=44453038) - [Take Two: Eshell](http://yummymelon.com/devnull/take-two-eshell.html)
-* [2025-07-02, 19:18:50](https://news.ycombinator.com/item?id=44447742) - [Meet Bionode](https://microship.com/meet-bionode/)
+* [2025-07-03, 04:04:49](https://news.ycombinator.com/item?id=44451532) - [Can we test it? Yes, was can [video]](https://www.youtube.com/watch?v=MqC3tudPH6w)
 
 ## [Archives](archives/index.md)
 
