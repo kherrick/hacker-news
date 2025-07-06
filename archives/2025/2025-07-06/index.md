@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 20:45:20](https://news.ycombinator.com/item?id=44483897) - [I don't think AGI is right around the corner](https://www.dwarkesh.com/p/timelines-june-2025)
+* [2025-07-06, 19:55:30](https://news.ycombinator.com/item?id=44483530) - [Backlog.md – CLI that auto-generates task files (took my Claude success to 95 %)](https://github.com/MrLesk/Backlog.md)
 * [2025-07-06, 19:50:02](https://news.ycombinator.com/item?id=44483485) - [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
 * [2025-07-06, 19:47:25](https://news.ycombinator.com/item?id=44483461) - [Belgium Is Unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
 * [2025-07-06, 19:12:20](https://news.ycombinator.com/item?id=44483192) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
