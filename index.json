@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-07-06, 01:56:56",
+      "https://news.ycombinator.com/item?id=44477151"
+    ],
+    [
+      "A Canadian's AI hoax duped the media and propelled a 'band' to success",
+      "https://www.cbc.ca/news/entertainment/ai-band-hoax-velvet-sundown-1.7575874"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 00:32:18",
+      "https://news.ycombinator.com/item?id=44476716"
+    ],
+    [
+      "Serving 200M requests per day with a CGI-bin",
+      "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/"
+    ]
+  ],
+  [
+    [
       "2025-07-05, 23:10:03",
       "https://news.ycombinator.com/item?id=44476297"
     ],
     [
       "Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability",
       "https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 22:56:18",
-      "https://news.ycombinator.com/item?id=44476225"
-    ],
-    [
-      "RFK's proposal to let bird flu spread through poultry",
-      "https://www.livescience.com/health/flu/rfks-proposal-to-let-bird-flu-spread-through-poultry-could-set-us-up-for-a-pandemic-experts-warn"
     ]
   ],
   [
@@ -51,6 +61,26 @@
   ],
   [
     [
+      "2025-07-05, 22:25:22",
+      "https://news.ycombinator.com/item?id=44476084"
+    ],
+    [
+      "The Right Way to Embed an LLM in a Group Chat",
+      "https://blog.tripjam.app/the-right-way-to-embed-an-llm-in-a-group-chat/"
+    ]
+  ],
+  [
+    [
+      "2025-07-05, 21:19:50",
+      "https://news.ycombinator.com/item?id=44475634"
+    ],
+    [
+      "Techno-Feudalism and the Rise of AGI: A Future Without Economic Rights?",
+      "https://arxiv.org/abs/2503.14283"
+    ]
+  ],
+  [
+    [
       "2025-07-05, 21:13:55",
       "https://news.ycombinator.com/item?id=44475600"
     ],
@@ -77,26 +107,6 @@
     [
       "Optimizing Tool Selection for LLM Workflows with Differentiable Programming",
       "https://viksit.substack.com/p/optimizing-tool-selection-for-llm"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 20:28:15",
-      "https://news.ycombinator.com/item?id=44475297"
-    ],
-    [
-      "The Prime Reasons to Avoid Amazon",
-      "https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 19:21:51",
-      "https://news.ycombinator.com/item?id=44474894"
-    ],
-    [
-      "Pet ownership and cognitive functioning in later adulthood across pet types",
-      "https://www.nature.com/articles/s41598-025-03727-9"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2025-07-04, 21:11:24",
-      "https://news.ycombinator.com/item?id=44467912"
-    ],
-    [
-      "Being too ambitious is a clever form of self-sabotage",
-      "https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 14:43:57",
-      "https://news.ycombinator.com/item?id=44455591"
-    ],
-    [
-      "Is It Cake? How Our Brain Deciphers Materials",
-      "https://nautil.us/is-it-cake-how-our-brain-deciphers-materials-1222193/"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 11:11:57",
       "https://news.ycombinator.com/item?id=44453814"
     ],
@@ -231,12 +221,42 @@
   ],
   [
     [
+      "2025-07-02, 21:03:13",
+      "https://news.ycombinator.com/item?id=44448802"
+    ],
+    [
+      "ClojureScript from First Principles – David Nolen [video]",
+      "https://www.youtube.com/watch?v=An-ImWVppNQ"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 19:24:18",
       "https://news.ycombinator.com/item?id=44447797"
     ],
     [
       "Atomic \"Bomb\" Ring from KiX (1947)",
       "https://toytales.ca/atomic-bomb-ring-from-kix-1947/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 16:10:59",
+      "https://news.ycombinator.com/item?id=44445462"
+    ],
+    [
+      "Fast Code Is Easy. Measuring It Is Hard",
+      "https://www.architect.co/posts/how-fast-is-it-really"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 15:26:49",
+      "https://news.ycombinator.com/item?id=44444916"
+    ],
+    [
+      "The Hell of Tetra Master",
+      "https://xvw.lol/en/articles/tetra-master.html"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-07-02, 11:27:07",
-      "https://news.ycombinator.com/item?id=44442396"
-    ],
-    [
-      "Build Systems à la Carte (2018) [pdf]",
-      "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 07:14:19",
       "https://news.ycombinator.com/item?id=44440968"
     ],
@@ -287,16 +297,6 @@
     [
       "Solve high degree polynomials using Geode numbers",
       "https://www.tandfonline.com/doi/full/10.1080/00029890.2025.2460966"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 03:06:46",
-      "https://news.ycombinator.com/item?id=44439915"
-    ],
-    [
-      "Optimizing typography of insect labels using free fonts and free software (2012) [pdf]",
-      "https://www.akentsoc.org/doc/Bowser_ML_2012.pdf"
     ]
   ]
 ]
