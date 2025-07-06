@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
+* [2025-07-06, 17:40:16](https://news.ycombinator.com/item?id=44482611) - [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)
+* [2025-07-06, 17:29:36](https://news.ycombinator.com/item?id=44482522) - ['Shit in, shit out', AI is coming for agriculture, but farmers aren’t convinced](https://theconversation.com/shit-in-shit-out-ai-is-coming-for-agriculture-but-farmers-arent-convinced-259997)
 * [2025-07-06, 17:12:45](https://news.ycombinator.com/item?id=44482405) - [Collatz's Ant and Σ(n)](https://gbragafibra.github.io/2025/07/06/collatz_ant5.html)
 * [2025-07-06, 17:00:02](https://news.ycombinator.com/item?id=44482301) - [Metriport (YC S22) is hiring engineers to improve healthcare data exchange](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer)
 * [2025-07-06, 16:26:33](https://news.ycombinator.com/item?id=44482051) - [Huawei cloned Qwen and DeepSeek models, claimed as own](https://dilemmaworks.substack.com/p/whistleblower-huawei-cloned-and-renamed)
@@ -22,9 +24,7 @@
 * [2025-07-05, 22:32:28](https://news.ycombinator.com/item?id=44476115) - [What a Hacker Stole from Me](https://mynoise.net/blog.php)
 * [2025-07-05, 21:06:41](https://news.ycombinator.com/item?id=44475537) - [How to Network as an Introvert](https://aginfer.bearblog.dev/how-to-network-as-an-introvert/)
 * [2025-07-05, 19:00:34](https://news.ycombinator.com/item?id=44474759) - [Eastern Baltic cod grow much smaller than they did due to overfishing](https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/)
-* [2025-07-05, 15:25:41](https://news.ycombinator.com/item?id=44473400) - [macOS Icon History](https://basicappleguy.com/basicappleblog/macos-icon-history)
 * [2025-07-05, 14:45:39](https://news.ycombinator.com/item?id=44473135) - [Local-first software (2019)](https://www.inkandswitch.com/essay/local-first/)
-* [2025-07-05, 14:21:14](https://news.ycombinator.com/item?id=44472992) - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 * [2025-07-05, 11:43:53](https://news.ycombinator.com/item?id=44472057) - [1945 TV Console Showed Two Programs at Once](https://spectrum.ieee.org/dumont-duoscopic-tv-set)
 * [2025-07-04, 19:56:15](https://news.ycombinator.com/item?id=44467383) - [How to get started with Old English poetry](https://www.deadlanguagesociety.com/p/old-english-poetry)
 * [2025-07-03, 19:43:59](https://news.ycombinator.com/item?id=44458532) - [Development of a transputer ISA board](https://nanochess.org/transputer_board.html)

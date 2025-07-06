@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
+* [2025-07-06, 17:40:16](https://news.ycombinator.com/item?id=44482611) - [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)
+* [2025-07-06, 17:29:36](https://news.ycombinator.com/item?id=44482522) - ['Shit in, shit out', AI is coming for agriculture, but farmers aren’t convinced](https://theconversation.com/shit-in-shit-out-ai-is-coming-for-agriculture-but-farmers-arent-convinced-259997)
 * [2025-07-06, 17:12:45](https://news.ycombinator.com/item?id=44482405) - [Collatz's Ant and Σ(n)](https://gbragafibra.github.io/2025/07/06/collatz_ant5.html)
 * [2025-07-06, 17:00:02](https://news.ycombinator.com/item?id=44482301) - [Metriport (YC S22) is hiring engineers to improve healthcare data exchange](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer)
 * [2025-07-06, 16:26:33](https://news.ycombinator.com/item?id=44482051) - [Whistleblower: Huawei cloned Qwen and DeepSeek models, claimed as own](https://dilemmaworks.substack.com/p/whistleblower-huawei-cloned-and-renamed)
