@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-06, 21:46:02](https://news.ycombinator.com/item?id=44484363) - [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
 * [2025-07-06, 20:45:20](https://news.ycombinator.com/item?id=44483897) - [I don't think AGI is right around the corner](https://www.dwarkesh.com/p/timelines-june-2025)
 * [2025-07-06, 19:55:30](https://news.ycombinator.com/item?id=44483530) - [Backlog.md – CLI that auto-generates task files (took my Claude success to 95 %)](https://github.com/MrLesk/Backlog.md)
 * [2025-07-06, 19:50:02](https://news.ycombinator.com/item?id=44483485) - [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
@@ -14,7 +15,6 @@
 * [2025-07-06, 16:46:01](https://news.ycombinator.com/item?id=44482194) - [Async Queue – One of my favorite programming interview questions](https://davidgomes.com/async-queue-interview-ai/)
 * [2025-07-06, 15:18:35](https://news.ycombinator.com/item?id=44481464) - [Functions Are Vectors (2023)](https://thenumb.at/Functions-are-Vectors/)
 * [2025-07-06, 15:15:51](https://news.ycombinator.com/item?id=44481441) - [Hannah Cairo: 17-year-old teen refutes a math conjecture proposed 40 years ago](https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html)
-* [2025-07-06, 14:48:37](https://news.ycombinator.com/item?id=44481235) - [Claude Code Pro Limit? Hack It While You Sleep](https://github.com/terryso/claude-auto-resume)
 * [2025-07-06, 14:33:34](https://news.ycombinator.com/item?id=44481135) - [Toys/Lag: Jerk Monitor](https://nothing.pcarrier.com/posts/lag/)
 * [2025-07-06, 14:23:12](https://news.ycombinator.com/item?id=44481066) - [Reinforcement Learning from Human Feedback (RLHF) in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
 * [2025-07-06, 14:03:51](https://news.ycombinator.com/item?id=44480916) - [Jane Street barred from Indian markets as regulator freezes $566 million](https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html)
