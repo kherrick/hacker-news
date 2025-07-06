@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-06, 15:18:35",
+      "https://news.ycombinator.com/item?id=44481464"
+    ],
+    [
+      "Functions Are Vectors (2023)",
+      "https://thenumb.at/Functions-are-Vectors/"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 14:33:34",
       "https://news.ycombinator.com/item?id=44481135"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-07-06, 03:31:21",
-      "https://news.ycombinator.com/item?id=44477601"
-    ],
-    [
-      "Colombia seizes first unmanned narco-submarine with Starlink antenna",
-      "https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 02:29:04",
       "https://news.ycombinator.com/item?id=44477331"
     ],
@@ -127,16 +127,6 @@
     [
       "What a Hacker Stole from Me",
       "https://mynoise.net/blog.php"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 21:19:50",
-      "https://news.ycombinator.com/item?id=44475634"
-    ],
-    [
-      "Techno-feudalism and the rise of AGI: A future without economic rights?",
-      "https://arxiv.org/abs/2503.14283"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Europe's first geostationary sounder satellite is launched",
       "https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 22:10:39",
+      "https://news.ycombinator.com/item?id=44459583"
+    ],
+    [
+      "Serial SPI RAM Emulation on Raspberry Pi Pico RP2040 MCU",
+      "https://github.com/MichaelBell/spi-ram-emu"
     ]
   ],
   [
