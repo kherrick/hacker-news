@@ -34,6 +34,7 @@
 * [2025-07-02, 15:51:03](https://news.ycombinator.com/item?id=44445238) - [Show HN: CSS generator for a high-def glass effect](https://glass3d.dev/)
 * [2025-07-02, 15:50:43](https://news.ycombinator.com/item?id=44445227) - [I convinced my K8s team to go AWS serverless. Spoiler, they didn't](https://medium.com/@dnsearching/how-i-convinced-my-k8s-team-to-go-aws-serverless-5104e880e7a4)
 * [2025-07-02, 15:47:32](https://news.ycombinator.com/item?id=44445180) - [ICEBlock climbs to the top of the App Store charts after officials slam it](https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html)
+* [2025-07-02, 15:41:41](https://news.ycombinator.com/item?id=44445091) - [Show HN: I made Logic gates using CSS if() function](https://yongsk0066.github.io/css_if_logic_gate/)
 * [2025-07-02, 15:38:04](https://news.ycombinator.com/item?id=44445042) - [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)
 * [2025-07-02, 15:33:09](https://news.ycombinator.com/item?id=44444987) - [Double Is Winding Down](https://double.finance/blog/wind_down)
 * [2025-07-02, 15:26:49](https://news.ycombinator.com/item?id=44444916) - [The Hell of Tetra Master](https://xvw.lol/en/articles/tetra-master.html)
