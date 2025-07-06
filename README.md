@@ -23,11 +23,11 @@
 * [2025-07-05, 14:21:14](https://news.ycombinator.com/item?id=44472992) - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 * [2025-07-03, 19:43:59](https://news.ycombinator.com/item?id=44458532) - [Development of a transputer ISA board](https://nanochess.org/transputer_board.html)
 * [2025-07-03, 17:52:05](https://news.ycombinator.com/item?id=44457549) - [Why the simplest desktop agent abstraction wins](https://www.bytebot.ai/blog/designing-bytebot-why-the-simplest-desktop-agent-abstraction-wins)
+* [2025-07-03, 15:11:56](https://news.ycombinator.com/item?id=44455867) - [The ancient invention that ignited game play (2021)](https://www.bbc.com/future/article/20210318-the-ancient-invention-that-ignited-game-play)
 * [2025-07-02, 21:03:13](https://news.ycombinator.com/item?id=44448802) - [ClojureScript from First Principles [video]](https://www.youtube.com/watch?v=An-ImWVppNQ)
 * [2025-07-02, 19:24:18](https://news.ycombinator.com/item?id=44447797) - [Atomic \"Bomb\" Ring from KiX (1947)](https://toytales.ca/atomic-bomb-ring-from-kix-1947/)
 * [2025-07-02, 18:32:33](https://news.ycombinator.com/item?id=44447233) - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/)
 * [2025-07-02, 16:10:59](https://news.ycombinator.com/item?id=44445462) - [Fast Code Is Easy. Measuring It Is Hard](https://www.architect.co/posts/how-fast-is-it-really)
-* [2025-07-02, 15:07:19](https://news.ycombinator.com/item?id=44444673) - [Haskell, Reverse Polish Notation, and Parsing](https://mattwills.bearblog.dev/haskell-postfix/)
 * [2025-07-02, 12:01:59](https://news.ycombinator.com/item?id=44442691) - [Yet Another Zip Trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 07:14:19](https://news.ycombinator.com/item?id=44440968) - [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
 
