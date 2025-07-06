@@ -11,6 +11,7 @@
 * [2025-07-03, 20:31:17](https://news.ycombinator.com/item?id=44458914) - [Just Ask for Generalization](https://evjang.com/2021/10/23/generalization.html)
 * [2025-07-03, 20:28:57](https://news.ycombinator.com/item?id=44458890) - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 * [2025-07-03, 20:27:01](https://news.ycombinator.com/item?id=44458877) - [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
+* [2025-07-03, 19:43:59](https://news.ycombinator.com/item?id=44458532) - [Development of a transputer ISA board](https://nanochess.org/transputer_board.html)
 * [2025-07-03, 18:00:21](https://news.ycombinator.com/item?id=44457623) - [Will Scaling Solve Robotics?](https://nishanthjkumar.com/blog/2023/Will-Scaling-Solve-Robotics-Perspectives-from-CoRL-2023/)
 * [2025-07-03, 17:59:30](https://news.ycombinator.com/item?id=44457612) - [Impact of PCIe 5.0 Bandwidth on GPU Content Creation and LLM Performance](https://www.pugetsystems.com/labs/articles/impact-of-pcie-5-0-bandwidth-on-gpu-content-creation-performance/)
 * [2025-07-03, 17:52:05](https://news.ycombinator.com/item?id=44457549) - [Why the simplest desktop agent abstraction wins](https://www.bytebot.ai/blog/designing-bytebot-why-the-simplest-desktop-agent-abstraction-wins)

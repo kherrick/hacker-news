@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 05:54:58](https://news.ycombinator.com/item?id=44478171) - [Laser-wielding device is like an anti-aircraft system for mosquitoes](https://newatlas.com/around-the-home/photon-matrix-laser-mosquitoes/)
+* [2025-07-06, 05:36:32](https://news.ycombinator.com/item?id=44478115) - [Are We the Baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
 * [2025-07-06, 05:27:42](https://news.ycombinator.com/item?id=44478083) - [Game publishers respond to Stop Killing Games claim it curtails developer choice](https://www.pcgamer.com/gaming-industry/european-game-publisher-group-responds-to-stop-killing-games-claims-these-proposals-would-curtail-developer-choice/)
 * [2025-07-06, 04:11:53](https://news.ycombinator.com/item?id=44477768) - [July 5, 1687: When Newton Explained Why You Don't Float Away](https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/)
 * [2025-07-06, 03:47:02](https://news.ycombinator.com/item?id=44477660) - [Chasing Hobbies over Achievement Boosts Happiness (2023)](https://neurosciencenews.com/hedonism-happiness-achievement-23923/)
@@ -12,6 +14,7 @@
 * [2025-07-06, 03:11:16](https://news.ycombinator.com/item?id=44477512) - [Zuck's Haul: Tracking Meta's AI Talent Acquisitions](https://zuckshaul.com)
 * [2025-07-06, 03:07:39](https://news.ycombinator.com/item?id=44477500) - [Injection Rejection (2006)](https://thedailywtf.com/articles/Injection_Rejection)
 * [2025-07-06, 02:54:41](https://news.ycombinator.com/item?id=44477452) - [Basically Everyone Should Be Avoiding Docker](https://lukesmith.xyz/articles/everyone-should-be-avoiding-docker/)
+* [2025-07-06, 02:47:35](https://news.ycombinator.com/item?id=44477417) - [Show HN: News Alert ，Real-time global news monitoring with keyword alerts](https://newsalert.im/)
 * [2025-07-06, 02:29:04](https://news.ycombinator.com/item?id=44477331) - [Volvo delivers 5,000th electric semi with little fanfare](https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/)
 * [2025-07-06, 02:11:48](https://news.ycombinator.com/item?id=44477235) - [Volunteer finds Holy Grail of abolitionist-era Baptist documents](https://www.bostonherald.com/2025/07/03/baptist-anti-slavery-scroll/)
 * [2025-07-06, 01:56:56](https://news.ycombinator.com/item?id=44477151) - [A Canadian's AI hoax duped the media and propelled a 'band' to success](https://www.cbc.ca/news/entertainment/ai-band-hoax-velvet-sundown-1.7575874)
