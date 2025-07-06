@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-06, 06:19:41](https://news.ycombinator.com/item?id=44478279) - [The Force-Feeding of AI on an Unwilling Public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
 * [2025-07-06, 05:54:58](https://news.ycombinator.com/item?id=44478171) - [Laser-wielding device is like an anti-aircraft system for mosquitoes](https://newatlas.com/around-the-home/photon-matrix-laser-mosquitoes/)
 * [2025-07-06, 05:36:32](https://news.ycombinator.com/item?id=44478115) - [Are We the Baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
 * [2025-07-06, 05:27:42](https://news.ycombinator.com/item?id=44478083) - [Game publishers respond to Stop Killing Games claim it curtails developer choice](https://www.pcgamer.com/gaming-industry/european-game-publisher-group-responds-to-stop-killing-games-claims-these-proposals-would-curtail-developer-choice/)
@@ -9,7 +10,6 @@
 * [2025-07-06, 03:07:39](https://news.ycombinator.com/item?id=44477500) - [Injection Rejection (2006)](https://thedailywtf.com/articles/Injection_Rejection)
 * [2025-07-06, 02:47:35](https://news.ycombinator.com/item?id=44477417) - [Show HN: News Alert ，Real-time global news monitoring with keyword alerts](https://newsalert.im/)
 * [2025-07-06, 02:29:04](https://news.ycombinator.com/item?id=44477331) - [Volvo delivers 5,000th electric semi with little fanfare](https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/)
-* [2025-07-06, 02:11:48](https://news.ycombinator.com/item?id=44477235) - [Volunteer finds Holy Grail of abolitionist-era Baptist documents](https://www.bostonherald.com/2025/07/03/baptist-anti-slavery-scroll/)
 * [2025-07-06, 00:32:18](https://news.ycombinator.com/item?id=44476716) - [Serving 200M requests per day with a CGI-bin](https://simonwillison.net/2025/Jul/5/cgi-bin-performance/)
 * [2025-07-05, 23:10:03](https://news.ycombinator.com/item?id=44476297) - [Hidden interface controls are affecting usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
 * [2025-07-05, 22:32:28](https://news.ycombinator.com/item?id=44476115) - [What a Hacker Stole from Me](https://mynoise.net/blog.php)
