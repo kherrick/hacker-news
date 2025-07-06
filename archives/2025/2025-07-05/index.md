@@ -9,6 +9,8 @@
 * [2025-07-05, 22:41:46](https://news.ycombinator.com/item?id=44476166) - [Operators, Not Users and Programmers](https://jyn.dev/operators-not-users-and-programmers/)
 * [2025-07-05, 22:35:05](https://news.ycombinator.com/item?id=44476137) - [7-Zip 25.00](https://github.com/ip7z/7zip/releases/tag/25.00)
 * [2025-07-05, 22:32:28](https://news.ycombinator.com/item?id=44476115) - [What a Hacker Stole from Me](https://mynoise.net/blog.php)
+* [2025-07-05, 22:25:22](https://news.ycombinator.com/item?id=44476084) - [The Right Way to Embed an LLM in a Group Chat](https://blog.tripjam.app/the-right-way-to-embed-an-llm-in-a-group-chat/)
+* [2025-07-05, 21:19:50](https://news.ycombinator.com/item?id=44475634) - [Techno-Feudalism and the Rise of AGI: A Future Without Economic Rights?](https://arxiv.org/abs/2503.14283)
 * [2025-07-05, 21:13:55](https://news.ycombinator.com/item?id=44475600) - [WinUAE 6.0.0 Amiga Emulator](https://www.winuae.net/)
 * [2025-07-05, 21:06:41](https://news.ycombinator.com/item?id=44475537) - [How to Network as an Introvert](https://aginfer.bearblog.dev/how-to-network-as-an-introvert/)
 * [2025-07-05, 20:52:46](https://news.ycombinator.com/item?id=44475453) - [Optimizing Tool Selection for LLM Workflows with Differentiable Programming](https://viksit.substack.com/p/optimizing-tool-selection-for-llm)
