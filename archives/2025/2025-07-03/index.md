@@ -6,6 +6,7 @@
 
 * [2025-07-03, 23:31:03](https://news.ycombinator.com/item?id=44459980) - [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
 * [2025-07-03, 22:17:10](https://news.ycombinator.com/item?id=44459608) - [Michael Madsen Has Died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
+* [2025-07-03, 22:10:39](https://news.ycombinator.com/item?id=44459583) - [Serial SPI RAM Emulation on Raspberry Pi Pico RP2040 MCU](https://github.com/MichaelBell/spi-ram-emu)
 * [2025-07-03, 21:01:06](https://news.ycombinator.com/item?id=44459146) - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 * [2025-07-03, 20:40:25](https://news.ycombinator.com/item?id=44458986) - [A simple opensource social media researcher powered by exa ai api and youtube v](https://github.com/KasPeR0990/yurei-app)
 * [2025-07-03, 20:31:17](https://news.ycombinator.com/item?id=44458914) - [Just Ask for Generalization](https://evjang.com/2021/10/23/generalization.html)
