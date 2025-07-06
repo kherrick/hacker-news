@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-06, 19:50:02](https://news.ycombinator.com/item?id=44483485) - [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
-* [2025-07-06, 19:12:20](https://news.ycombinator.com/item?id=44483192) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
+* [2025-07-06, 18:53:09](https://news.ycombinator.com/item?id=44483081) - [Luigi Lineri, the Man Who Collects and Categorizes Stones (2024)](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
 * [2025-07-06, 17:54:27](https://news.ycombinator.com/item?id=44482710) - [Show HN: Simple wrapper for Chrome's built-in local LLM (Gemini Nano)](https://github.com/kstonekuan/simple-chromium-ai)
 * [2025-07-06, 17:54:27](https://news.ycombinator.com/item?id=44482709) - [Lessons from 863 episodes of This American Life](https://indarktrees.com/misc/tal/)
