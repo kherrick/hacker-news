@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 19:50:02](https://news.ycombinator.com/item?id=44483485) - [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
 * [2025-07-06, 19:47:25](https://news.ycombinator.com/item?id=44483461) - [Belgium Is Unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
 * [2025-07-06, 19:12:20](https://news.ycombinator.com/item?id=44483192) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
 * [2025-07-06, 18:53:09](https://news.ycombinator.com/item?id=44483081) - [Luigi Lineri, the Man Who Collects and Categorizes Stones (2024)](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
@@ -16,6 +17,7 @@
 * [2025-07-06, 17:26:47](https://news.ycombinator.com/item?id=44482504) - [opencode: AI coding agent, built for the terminal](https://github.com/sst/opencode)
 * [2025-07-06, 17:12:45](https://news.ycombinator.com/item?id=44482405) - [Collatz's Ant and Σ(n)](https://gbragafibra.github.io/2025/07/06/collatz_ant5.html)
 * [2025-07-06, 17:00:02](https://news.ycombinator.com/item?id=44482301) - [Metriport (YC S22) is hiring engineers to improve healthcare data exchange](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer)
+* [2025-07-06, 16:46:01](https://news.ycombinator.com/item?id=44482194) - [Async Queue – One of my favorite programming interview questions](https://davidgomes.com/async-queue-interview-ai/)
 * [2025-07-06, 16:26:33](https://news.ycombinator.com/item?id=44482051) - [Whistleblower: Huawei cloned Qwen and DeepSeek models, claimed as own](https://dilemmaworks.substack.com/p/whistleblower-huawei-cloned-and-renamed)
 * [2025-07-06, 16:13:48](https://news.ycombinator.com/item?id=44481964) - [ChatGPT is pushing people towards mania, psychosis and death](https://www.the-independent.com/tech/chatgpt-psychosis-ai-therapy-chatbot-b2781202.html)
 * [2025-07-06, 15:18:35](https://news.ycombinator.com/item?id=44481464) - [Functions Are Vectors (2023)](https://thenumb.at/Functions-are-Vectors/)
@@ -32,6 +34,7 @@
 * [2025-07-06, 12:39:57](https://news.ycombinator.com/item?id=44480284) - [Stop killing games and the industry response](https://blog.kronis.dev/blog/stop-killing-games)
 * [2025-07-06, 12:35:14](https://news.ycombinator.com/item?id=44480242) - [Six months into congestion pricing, more cars are off the road](https://ny1.com/nyc/all-boroughs/traffic_and_transit/2025/07/05/six-months-into-congestion-pricing--more-cars-are-off-the-road--report-says)
 * [2025-07-06, 12:32:46](https://news.ycombinator.com/item?id=44480223) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
+* [2025-07-06, 12:20:43](https://news.ycombinator.com/item?id=44480135) - [The weed-smoking, Labubu-loving, hackathon king of SF](https://sfstandard.com/2025/07/05/rene-turcios-hackathon-labubu-vibe-coding-chatgpt/)
 * [2025-07-06, 10:35:28](https://news.ycombinator.com/item?id=44479485) - [Show HN: BreakerMachines – Modern Circuit Breaker for Rails with Async Support](https://github.com/seuros/breaker_machines)
 * [2025-07-06, 09:40:48](https://news.ycombinator.com/item?id=44479210) - [Ask HN: If AGI were invented tomorrow which countries would fare better?](https://news.ycombinator.com/item?id=44479210)
 * [2025-07-06, 09:03:50](https://news.ycombinator.com/item?id=44479029) - [MI5 piled falsehood on falsehood in court in the case of an abusive spy who](https://www.bbc.com/news/articles/c3w4nwdwywno)
