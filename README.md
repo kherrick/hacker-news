@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-06, 12:49:31](https://news.ycombinator.com/item?id=44480363) - [The most otherworldly, mysterious forms of lightning on Earth](https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms)
 * [2025-07-06, 12:35:14](https://news.ycombinator.com/item?id=44480242) - [Six months into congestion pricing, more cars are off the road](https://ny1.com/nyc/all-boroughs/traffic_and_transit/2025/07/05/six-months-into-congestion-pricing--more-cars-are-off-the-road--report-says)
 * [2025-07-06, 12:32:46](https://news.ycombinator.com/item?id=44480223) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-06, 10:35:28](https://news.ycombinator.com/item?id=44479485) - [Show HN: BreakerMachines – Modern Circuit Breaker for Rails with Async Support](https://github.com/seuros/breaker_machines)
@@ -27,6 +26,7 @@
 * [2025-07-03, 04:04:49](https://news.ycombinator.com/item?id=44451532) - [Can we test it? Yes, was can [video]](https://www.youtube.com/watch?v=MqC3tudPH6w)
 * [2025-07-03, 02:48:23](https://news.ycombinator.com/item?id=44451160) - [Four integers are enough to write a Snake Game](https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game)
 * [2025-07-02, 21:03:13](https://news.ycombinator.com/item?id=44448802) - [ClojureScript from First Principles [video]](https://www.youtube.com/watch?v=An-ImWVppNQ)
+* [2025-07-02, 18:32:33](https://news.ycombinator.com/item?id=44447233) - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/)
 * [2025-07-02, 16:10:59](https://news.ycombinator.com/item?id=44445462) - [On latency, measurement, and optimization in algorithmic trading systems](https://www.architect.co/posts/how-fast-is-it-really)
 * [2025-07-02, 15:41:41](https://news.ycombinator.com/item?id=44445091) - [Show HN: I made Logic gates using CSS if() function](https://yongsk0066.github.io/css_if_logic_gate/)
 * [2025-07-02, 12:01:59](https://news.ycombinator.com/item?id=44442691) - [Yet Another Zip Trick](https://hackarcana.com/article/yet-another-zip-trick)
