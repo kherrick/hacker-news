@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 03:47:02](https://news.ycombinator.com/item?id=44477660) - [Chasing Hobbies over Achievement Boosts Happiness (2023)](https://neurosciencenews.com/hedonism-happiness-achievement-23923/)
+* [2025-07-06, 03:43:16](https://news.ycombinator.com/item?id=44477648) - [As Floods Hit, Key Roles Were Vacant at Weather Service Offices in Texas](https://www.nytimes.com/2025/07/05/us/politics/texas-floods-warnings-vacancies.html)
+* [2025-07-06, 03:31:21](https://news.ycombinator.com/item?id=44477601) - [Colombia seizes first unmanned narco-submarine with Starlink antenna](https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink)
 * [2025-07-06, 03:07:39](https://news.ycombinator.com/item?id=44477500) - [Injection Rejection (2006)](https://thedailywtf.com/articles/Injection_Rejection)
+* [2025-07-06, 02:54:41](https://news.ycombinator.com/item?id=44477452) - [Basically Everyone Should Be Avoiding Docker](https://lukesmith.xyz/articles/everyone-should-be-avoiding-docker/)
+* [2025-07-06, 02:29:04](https://news.ycombinator.com/item?id=44477331) - [Volvo delivers 5,000th electric semi with little fanfare](https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/)
 * [2025-07-06, 02:11:48](https://news.ycombinator.com/item?id=44477235) - [Volunteer finds Holy Grail of abolitionist-era Baptist documents](https://www.bostonherald.com/2025/07/03/baptist-anti-slavery-scroll/)
 * [2025-07-06, 01:56:56](https://news.ycombinator.com/item?id=44477151) - [A Canadian's AI hoax duped the media and propelled a 'band' to success](https://www.cbc.ca/news/entertainment/ai-band-hoax-velvet-sundown-1.7575874)
 * [2025-07-06, 00:53:12](https://news.ycombinator.com/item?id=44476822) - [Ask HN: Advice for Starting a Hacker Space?](https://news.ycombinator.com/item?id=44476822)
