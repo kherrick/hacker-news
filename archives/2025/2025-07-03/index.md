@@ -55,6 +55,7 @@
 * [2025-07-03, 06:07:34](https://news.ycombinator.com/item?id=44452106) - [N-Back – A Minimal, Adaptive Dual N-Back Game for Brain Training](https://n-back.net)
 * [2025-07-03, 05:38:04](https://news.ycombinator.com/item?id=44451949) - [Numerical Electromagnics Code (NEM)](https://www.nec2.org/)
 * [2025-07-03, 04:21:58](https://news.ycombinator.com/item?id=44451602) - [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
+* [2025-07-03, 04:04:49](https://news.ycombinator.com/item?id=44451532) - [Nothing's Untestable](https://antithesis.com/blog/2025/bugbash_2025/mitchell_hashimoto/)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Third Interstellar Object Discovered](https://minorplanetcenter.net/mpec/K25/K25N12.html)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [2025-07-03, 02:05:23](https://news.ycombinator.com/item?id=44450937) - [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
