@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 19:47:25](https://news.ycombinator.com/item?id=44483461) - [Belgium Is Unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
 * [2025-07-06, 19:12:20](https://news.ycombinator.com/item?id=44483192) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
 * [2025-07-06, 18:53:09](https://news.ycombinator.com/item?id=44483081) - [Luigi Lineri, the Man Who Collects and Categorizes Stones (2024)](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
 * [2025-07-06, 18:52:22](https://news.ycombinator.com/item?id=44483077) - [Micro Common Lisp](https://t3x.org/mcl/index.html)
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
+* [2025-07-06, 17:54:27](https://news.ycombinator.com/item?id=44482710) - [Show HN: Simple wrapper for Chrome's built-in local LLM (Gemini Nano)](https://github.com/kstonekuan/simple-chromium-ai)
 * [2025-07-06, 17:54:27](https://news.ycombinator.com/item?id=44482709) - [Lessons from 863 episodes of This American Life](https://indarktrees.com/misc/tal/)
 * [2025-07-06, 17:40:16](https://news.ycombinator.com/item?id=44482611) - [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)
 * [2025-07-06, 17:29:36](https://news.ycombinator.com/item?id=44482522) - ['Shit in, shit out', AI is coming for agriculture, but farmers aren’t convinced](https://theconversation.com/shit-in-shit-out-ai-is-coming-for-agriculture-but-farmers-arent-convinced-259997)
@@ -23,6 +25,7 @@
 * [2025-07-06, 14:48:37](https://news.ycombinator.com/item?id=44481235) - [Claude Code Pro Limit? Hack It While You Sleep](https://github.com/terryso/claude-auto-resume)
 * [2025-07-06, 14:33:34](https://news.ycombinator.com/item?id=44481135) - [Toys/Lag: Jerk Monitor](https://nothing.pcarrier.com/posts/lag/)
 * [2025-07-06, 14:23:12](https://news.ycombinator.com/item?id=44481066) - [Reinforcement Learning from Human Feedback (RLHF) in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
+* [2025-07-06, 14:03:51](https://news.ycombinator.com/item?id=44480916) - [Jane Street barred from Indian markets as regulator freezes $566 million](https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html)
 * [2025-07-06, 13:31:51](https://news.ycombinator.com/item?id=44480667) - [Two and a Half Years in GameDev](https://smyachenkov.com/posts/two-and-half-years-in-gamedev/)
 * [2025-07-06, 12:53:13](https://news.ycombinator.com/item?id=44480400) - [Overclocking LLM Reasoning: Monitoring and Controlling LLM Thinking Path Lengths](https://royeisen.github.io/OverclockingLLMReasoning-paper/)
 * [2025-07-06, 12:49:31](https://news.ycombinator.com/item?id=44480363) - [The most otherworldly, mysterious forms of lightning on Earth](https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms)
