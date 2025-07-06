@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 18:53:09](https://news.ycombinator.com/item?id=44483081) - [Luigi Lineri, the Man Who Collects and Categorizes Stones (2024)](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
+* [2025-07-06, 18:52:22](https://news.ycombinator.com/item?id=44483077) - [Micro Common Lisp](https://t3x.org/mcl/index.html)
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
+* [2025-07-06, 17:54:27](https://news.ycombinator.com/item?id=44482709) - [Lessons from 863 episodes of This American Life](https://indarktrees.com/misc/tal/)
 * [2025-07-06, 17:40:16](https://news.ycombinator.com/item?id=44482611) - [Cool People [pdf]](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)
 * [2025-07-06, 17:29:36](https://news.ycombinator.com/item?id=44482522) - ['Shit in, shit out', AI is coming for agriculture, but farmers aren’t convinced](https://theconversation.com/shit-in-shit-out-ai-is-coming-for-agriculture-but-farmers-arent-convinced-259997)
 * [2025-07-06, 17:12:45](https://news.ycombinator.com/item?id=44482405) - [Collatz's Ant and Σ(n)](https://gbragafibra.github.io/2025/07/06/collatz_ant5.html)
