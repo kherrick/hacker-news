@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 09:03:50](https://news.ycombinator.com/item?id=44479029) - [MI5 piled falsehood on falsehood in court in the case of an abusive spy who](https://www.bbc.com/news/articles/c3w4nwdwywno)
 * [2025-07-06, 08:03:15](https://news.ycombinator.com/item?id=44478737) - [Triffin Dilemma: How the US Genius Act Could Trigger a 'Digital Nixon Shock](https://www.haebom.dev/archive?tl=en&post=943zqpmqrk14g2wnvy87)
 * [2025-07-06, 06:19:41](https://news.ycombinator.com/item?id=44478279) - [The Force-Feeding of AI on an Unwilling Public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
 * [2025-07-06, 05:54:58](https://news.ycombinator.com/item?id=44478171) - [Laser-wielding device is like an anti-aircraft system for mosquitoes](https://newatlas.com/around-the-home/photon-matrix-laser-mosquitoes/)

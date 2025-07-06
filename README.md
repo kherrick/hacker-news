@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-06, 09:03:50](https://news.ycombinator.com/item?id=44479029) - [MI5 piled falsehood on falsehood in court in the case of an abusive spy who](https://www.bbc.com/news/articles/c3w4nwdwywno)
 * [2025-07-06, 08:03:15](https://news.ycombinator.com/item?id=44478737) - [Triffin Dilemma: How the US Genius Act Could Trigger a 'Digital Nixon Shock](https://www.haebom.dev/archive?tl=en&post=943zqpmqrk14g2wnvy87)
-* [2025-07-06, 06:19:41](https://news.ycombinator.com/item?id=44478279) - [The Force-Feeding of AI on an Unwilling Public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
 * [2025-07-06, 05:54:58](https://news.ycombinator.com/item?id=44478171) - [Laser-wielding device is like an anti-aircraft system for mosquitoes](https://newatlas.com/around-the-home/photon-matrix-laser-mosquitoes/)
 * [2025-07-06, 05:36:32](https://news.ycombinator.com/item?id=44478115) - [Are We the Baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
 * [2025-07-06, 04:11:53](https://news.ycombinator.com/item?id=44477768) - [July 5, 1687: When Newton explained why you don't float away](https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/)
-* [2025-07-06, 03:31:21](https://news.ycombinator.com/item?id=44477601) - [Colombia seizes first unmanned narco-submarine with Starlink antenna](https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink)
 * [2025-07-06, 03:07:39](https://news.ycombinator.com/item?id=44477500) - [Injection Rejection (2006)](https://thedailywtf.com/articles/Injection_Rejection)
-* [2025-07-06, 02:47:35](https://news.ycombinator.com/item?id=44477417) - [Show HN: News Alert ，Real-time global news monitoring with keyword alerts](https://newsalert.im/)
+* [2025-07-06, 02:47:35](https://news.ycombinator.com/item?id=44477417) - [Show HN: News Alert - Real-time global news monitoring with keyword alerts](https://newsalert.im/)
 * [2025-07-06, 02:29:04](https://news.ycombinator.com/item?id=44477331) - [Volvo delivers 5,000th electric semi with little fanfare](https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/)
 * [2025-07-06, 00:32:18](https://news.ycombinator.com/item?id=44476716) - [Serving 200M requests per day with a CGI-bin](https://simonwillison.net/2025/Jul/5/cgi-bin-performance/)
 * [2025-07-05, 23:10:03](https://news.ycombinator.com/item?id=44476297) - [Hidden interface controls that affect usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
@@ -28,6 +27,7 @@
 * [2025-07-02, 19:24:18](https://news.ycombinator.com/item?id=44447797) - [Atomic \"Bomb\" Ring from KiX (1947)](https://toytales.ca/atomic-bomb-ring-from-kix-1947/)
 * [2025-07-02, 18:32:33](https://news.ycombinator.com/item?id=44447233) - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/)
 * [2025-07-02, 16:10:59](https://news.ycombinator.com/item?id=44445462) - [Fast Code Is Easy. Measuring It Is Hard](https://www.architect.co/posts/how-fast-is-it-really)
+* [2025-07-02, 13:48:11](https://news.ycombinator.com/item?id=44443695) - [\"Swiss Cheese\" Failure Model](https://www.bookofjoe.com/2025/07/swiss-cheese-failure-model.html)
 * [2025-07-02, 12:01:59](https://news.ycombinator.com/item?id=44442691) - [Yet Another Zip Trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 07:14:19](https://news.ycombinator.com/item?id=44440968) - [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
 

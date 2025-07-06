@@ -45,6 +45,7 @@
 * [2025-07-02, 14:06:43](https://news.ycombinator.com/item?id=44443919) - [Hack IKKO \"AI powered\" earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 13:59:55](https://news.ycombinator.com/item?id=44443832) - [Azure API vulnerability and roles misconfiguration compromise corporate networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
 * [2025-07-02, 13:53:39](https://news.ycombinator.com/item?id=44443758) - [The first American 'scientific refugees' arrive in France](https://www.politico.eu/article/meet-first-academic-refugees-fleeing-us-france-science-program/)
+* [2025-07-02, 13:48:11](https://news.ycombinator.com/item?id=44443695) - [\"Swiss Cheese\" Failure Model](https://www.bookofjoe.com/2025/07/swiss-cheese-failure-model.html)
 * [2025-07-02, 13:40:33](https://news.ycombinator.com/item?id=44443622) - [Private sector lost 33k jobs, badly missing expectations of 100k increase](https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html)
 * [2025-07-02, 13:39:09](https://news.ycombinator.com/item?id=44443602) - [Tesla reports 14% decline in deliveries, marking second year-over-year drop](https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html)
 * [2025-07-02, 13:29:37](https://news.ycombinator.com/item?id=44443492) - [What I learned gathering nootropic ratings](https://troof.blog/posts/nootropics/)
