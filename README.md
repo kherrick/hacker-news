@@ -8,6 +8,7 @@
 * [2025-07-06, 06:19:41](https://news.ycombinator.com/item?id=44478279) - [The force-feeding of AI features on an unwilling public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
 * [2025-07-06, 05:36:32](https://news.ycombinator.com/item?id=44478115) - [Are we the baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
 * [2025-07-06, 04:11:53](https://news.ycombinator.com/item?id=44477768) - [July 5, 1687: When Newton explained why you don't float away](https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/)
+* [2025-07-06, 03:31:21](https://news.ycombinator.com/item?id=44477601) - [Colombia seizes first unmanned narco-submarine with Starlink antenna](https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink)
 * [2025-07-06, 02:29:04](https://news.ycombinator.com/item?id=44477331) - [Volvo delivers 5,000th electric semi](https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/)
 * [2025-07-06, 00:32:18](https://news.ycombinator.com/item?id=44476716) - [Serving 200M requests per day with a CGI-bin](https://simonwillison.net/2025/Jul/5/cgi-bin-performance/)
 * [2025-07-05, 23:10:03](https://news.ycombinator.com/item?id=44476297) - [Hidden interface controls that affect usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
@@ -28,7 +29,6 @@
 * [2025-07-02, 21:03:13](https://news.ycombinator.com/item?id=44448802) - [ClojureScript from First Principles [video]](https://www.youtube.com/watch?v=An-ImWVppNQ)
 * [2025-07-02, 16:10:59](https://news.ycombinator.com/item?id=44445462) - [On latency, measurement, and optimization in algorithmic trading systems](https://www.architect.co/posts/how-fast-is-it-really)
 * [2025-07-02, 15:41:41](https://news.ycombinator.com/item?id=44445091) - [Show HN: I made Logic gates using CSS if() function](https://yongsk0066.github.io/css_if_logic_gate/)
-* [2025-07-02, 13:48:11](https://news.ycombinator.com/item?id=44443695) - [\"Swiss Cheese\" Failure Model](https://www.bookofjoe.com/2025/07/swiss-cheese-failure-model.html)
 * [2025-07-02, 12:01:59](https://news.ycombinator.com/item?id=44442691) - [Yet Another Zip Trick](https://hackarcana.com/article/yet-another-zip-trick)
 
 ## [Archives](archives/index.md)
