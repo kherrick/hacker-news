@@ -38,6 +38,7 @@
 * [2025-07-05, 14:33:00](https://news.ycombinator.com/item?id=44473063) - [Happy Birthday, GamingOnLinux – 16 years today](https://www.gamingonlinux.com/2025/07/happy-birthday-gamingonlinux-16-years-today/)
 * [2025-07-05, 14:21:14](https://news.ycombinator.com/item?id=44472992) - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 * [2025-07-05, 13:48:33](https://news.ycombinator.com/item?id=44472794) - [The EU wants to decrypt your private data by 2030](https://www.techradar.com/vpn/vpn-privacy-security/the-eu-wants-to-decrypt-your-private-data-by-2030)
+* [2025-07-05, 11:43:53](https://news.ycombinator.com/item?id=44472057) - [1945 TV Console Showed Two Programs at Once](https://spectrum.ieee.org/dumont-duoscopic-tv-set)
 * [2025-07-05, 11:40:26](https://news.ycombinator.com/item?id=44472034) - [Large Language Models Are Improving Exponentially](https://spectrum.ieee.org/large-language-model-performance)
 * [2025-07-05, 11:38:58](https://news.ycombinator.com/item?id=44472024) - [What 'Project Hail Mary' teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
 * [2025-07-05, 11:14:40](https://news.ycombinator.com/item?id=44471896) - [QSBS Limits Raised](https://www.mintz.com/insights-center/viewpoints/2906/2025-06-25-qsbs-benefits-expanded-under-senate-finance-proposal)
