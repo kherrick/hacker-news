@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-07-05, 16:42:19",
+      "https://news.ycombinator.com/item?id=44473888"
+    ],
+    [
+      "Speeding up PostgreSQL dump/restore snapshots",
+      "https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql"
+    ]
+  ],
+  [
+    [
       "2025-07-05, 15:25:41",
       "https://news.ycombinator.com/item?id=44473400"
     ],
@@ -247,16 +257,6 @@
     [
       "Take Two: Eshell",
       "http://yummymelon.com/devnull/take-two-eshell.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 04:04:49",
-      "https://news.ycombinator.com/item?id=44451532"
-    ],
-    [
-      "Can we test it? Yes, was can [video]",
-      "https://www.youtube.com/watch?v=MqC3tudPH6w"
     ]
   ],
   [
