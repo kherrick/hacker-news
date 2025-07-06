@@ -59,6 +59,7 @@
 * [2025-07-03, 04:04:49](https://news.ycombinator.com/item?id=44451532) - [Can we test it? Yes, was can [video]](https://www.youtube.com/watch?v=MqC3tudPH6w)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Third Interstellar Object Discovered](https://minorplanetcenter.net/mpec/K25/K25N12.html)
 * [2025-07-03, 03:19:24](https://news.ycombinator.com/item?id=44451329) - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
+* [2025-07-03, 02:48:23](https://news.ycombinator.com/item?id=44451160) - [Four integers are enough to write a Snake Game](https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game)
 * [2025-07-03, 02:05:23](https://news.ycombinator.com/item?id=44450937) - [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
 * [2025-07-03, 01:45:27](https://news.ycombinator.com/item?id=44450812) - [The Uncertain Future of Coding Careers and Why I'm Still Hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
 * [2025-07-03, 01:07:04](https://news.ycombinator.com/item?id=44450575) - [Trans-Taiga Road:The farthest you can get from a town on a road in North America](https://www.jamesbayroad.com/ttr/index.html)

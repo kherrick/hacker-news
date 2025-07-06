@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-06, 09:03:50](https://news.ycombinator.com/item?id=44479029) - [MI5’s falsehoods in the case of neo-Nazi spy who abused women](https://www.bbc.com/news/articles/c3w4nwdwywno)
-* [2025-07-06, 08:59:49](https://news.ycombinator.com/item?id=44479009) - [New study offers clues about what makes someone cool](https://www.nytimes.com/2025/06/30/well/mind/cool-people-traits-study.html)
+* [2025-07-06, 09:40:48](https://news.ycombinator.com/item?id=44479210) - [Ask HN: If AGI were invented tomorrow which countries would fare better?](https://news.ycombinator.com/item?id=44479210)
 * [2025-07-06, 08:26:10](https://news.ycombinator.com/item?id=44478861) - [Overthinking GIS (2024)](https://scottsexton.co/post/overthinking_gis/)
 * [2025-07-06, 06:19:41](https://news.ycombinator.com/item?id=44478279) - [The Force-Feeding of AI on an Unwilling Public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
 * [2025-07-06, 05:36:32](https://news.ycombinator.com/item?id=44478115) - [Are we the baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
@@ -23,6 +22,7 @@
 * [2025-07-03, 19:43:59](https://news.ycombinator.com/item?id=44458532) - [Development of a transputer ISA board](https://nanochess.org/transputer_board.html)
 * [2025-07-03, 08:58:09](https://news.ycombinator.com/item?id=44453038) - [Take Two: Eshell](http://yummymelon.com/devnull/take-two-eshell.html)
 * [2025-07-03, 04:04:49](https://news.ycombinator.com/item?id=44451532) - [Can we test it? Yes, was can [video]](https://www.youtube.com/watch?v=MqC3tudPH6w)
+* [2025-07-03, 02:48:23](https://news.ycombinator.com/item?id=44451160) - [Four integers are enough to write a Snake Game](https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game)
 * [2025-07-02, 21:03:13](https://news.ycombinator.com/item?id=44448802) - [ClojureScript from First Principles [video]](https://www.youtube.com/watch?v=An-ImWVppNQ)
 * [2025-07-02, 18:32:33](https://news.ycombinator.com/item?id=44447233) - [Show HN: a community for collaborating on sideprojects](https://relentlessly.no/)
 * [2025-07-02, 16:10:59](https://news.ycombinator.com/item?id=44445462) - [On latency, measurement, and optimization in algorithmic trading systems](https://www.architect.co/posts/how-fast-is-it-really)
