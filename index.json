@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-06, 18:53:09",
+      "https://news.ycombinator.com/item?id=44483081"
+    ],
+    [
+      "Luigi Lineri, the Man Who Collects and Categorizes Stones (2024)",
+      "https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 18:52:22",
+      "https://news.ycombinator.com/item?id=44483077"
+    ],
+    [
+      "Micro Common Lisp",
+      "https://t3x.org/mcl/index.html"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 18:32:55",
       "https://news.ycombinator.com/item?id=44482965"
     ],
     [
       "Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics",
       "https://alpha.lisagui.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 17:54:27",
+      "https://news.ycombinator.com/item?id=44482709"
+    ],
+    [
+      "Lessons from 863 episodes of This American Life",
+      "https://indarktrees.com/misc/tal/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Metriport (YC S22) is hiring engineers to improve healthcare data exchange",
       "https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 16:26:33",
-      "https://news.ycombinator.com/item?id=44482051"
-    ],
-    [
-      "Huawei cloned Qwen and DeepSeek models, claimed as own",
-      "https://dilemmaworks.substack.com/p/whistleblower-huawei-cloned-and-renamed"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Reinforcement Learning from Human Feedback (RLHF) in Notebooks",
       "https://github.com/ash80/RLHF_in_notebooks"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 13:31:51",
-      "https://news.ycombinator.com/item?id=44480667"
-    ],
-    [
-      "Two and a Half Years in GameDev",
-      "https://smyachenkov.com/posts/two-and-half-years-in-gamedev/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Eastern Baltic cod grow much smaller than they did due to overfishing",
       "https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 14:45:39",
-      "https://news.ycombinator.com/item?id=44473135"
-    ],
-    [
-      "Local-first software (2019)",
-      "https://www.inkandswitch.com/essay/local-first/"
     ]
   ],
   [
