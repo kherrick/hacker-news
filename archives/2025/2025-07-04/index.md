@@ -38,6 +38,7 @@
 * [2025-07-04, 14:13:25](https://news.ycombinator.com/item?id=44464756) - [We're Not Innovating, We're Just Forgetting Slower](https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower)
 * [2025-07-04, 13:58:49](https://news.ycombinator.com/item?id=44464647) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
 * [2025-07-04, 13:58:03](https://news.ycombinator.com/item?id=44464641) - [Kepler.gl](https://kepler.gl/)
+* [2025-07-04, 13:48:19](https://news.ycombinator.com/item?id=44464536) - [Lessons from creating my first text adventure](https://entropicthoughts.com/lessons-from-creating-first-text-adventure)
 * [2025-07-04, 13:32:10](https://news.ycombinator.com/item?id=44464396) - [Bcachefs may be headed out of the kernel](https://lwn.net/Articles/1027289/)
 * [2025-07-04, 13:16:09](https://news.ycombinator.com/item?id=44464272) - [Serving 200M requests per day with a CGI-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
 * [2025-07-04, 12:50:04](https://news.ycombinator.com/item?id=44464068) - [Why I Left My Tech Job to Work on Chronic Pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
