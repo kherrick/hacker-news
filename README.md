@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-06, 15:18:35](https://news.ycombinator.com/item?id=44481464) - [Functions Are Vectors (2023)](https://thenumb.at/Functions-are-Vectors/)
+* [2025-07-06, 14:55:36](https://news.ycombinator.com/item?id=44481286) - [Building a Mac app with Claude code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)
 * [2025-07-06, 14:33:34](https://news.ycombinator.com/item?id=44481135) - [Toys/Lag: Jerk Monitor](https://nothing.pcarrier.com/posts/lag/)
 * [2025-07-06, 14:23:12](https://news.ycombinator.com/item?id=44481066) - [Reinforcement Learning from Human Feedback (RLHF) in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
 * [2025-07-06, 13:31:51](https://news.ycombinator.com/item?id=44480667) - [Two and a Half Years in GameDev](https://smyachenkov.com/posts/two-and-half-years-in-gamedev/)
@@ -27,7 +28,6 @@
 * [2025-07-03, 04:04:49](https://news.ycombinator.com/item?id=44451532) - [Can we test it? Yes, was can [video]](https://www.youtube.com/watch?v=MqC3tudPH6w)
 * [2025-07-02, 23:33:43](https://news.ycombinator.com/item?id=44449970) - [The War on the Walkman](https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-the-walkman)
 * [2025-07-02, 21:03:13](https://news.ycombinator.com/item?id=44448802) - [ClojureScript from First Principles [video]](https://www.youtube.com/watch?v=An-ImWVppNQ)
-* [2025-07-02, 16:10:59](https://news.ycombinator.com/item?id=44445462) - [On latency, measurement, and optimization in algorithmic trading systems](https://www.architect.co/posts/how-fast-is-it-really)
 * [2025-07-02, 15:41:41](https://news.ycombinator.com/item?id=44445091) - [Show HN: I made Logic gates using CSS if() function](https://yongsk0066.github.io/css_if_logic_gate/)
 * [2025-07-02, 12:01:59](https://news.ycombinator.com/item?id=44442691) - [Yet Another Zip Trick](https://hackarcana.com/article/yet-another-zip-trick)
 
