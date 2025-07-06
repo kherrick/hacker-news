@@ -40,6 +40,7 @@
 * [2025-07-03, 13:44:55](https://news.ycombinator.com/item?id=44455022) - [Where is my von Braun wheel?](https://angadh.com/wherevonbraunwheel)
 * [2025-07-03, 13:18:59](https://news.ycombinator.com/item?id=44454758) - [Head in the Clouds](https://www.commonwealmagazine.org/head-clouds)
 * [2025-07-03, 12:27:51](https://news.ycombinator.com/item?id=44454305) - [Show HN: HomeBrew HN – generate personal context for content ranking](https://www.hackernews.coffee/)
+* [2025-07-03, 12:27:11](https://news.ycombinator.com/item?id=44454300) - [The Mystery of People Who Speak Languages](https://www.newyorker.com/magazine/2018/09/03/the-mystery-of-people-who-speak-dozens-of-languages)
 * [2025-07-03, 12:05:44](https://news.ycombinator.com/item?id=44454147) - [How Microsoft became a hub for Israeli intelligence](https://thegrayzone.com/2025/05/23/microsoft-hub-israeli-intel/)
 * [2025-07-03, 12:00:28](https://news.ycombinator.com/item?id=44454114) - [Kyber (YC W23) Is Hiring Enterprise BDRs](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative)
 * [2025-07-03, 11:51:33](https://news.ycombinator.com/item?id=44454061) - [The uv build back end is now stable](https://docs.astral.sh/uv/concepts/build-backend/)
