@@ -20,6 +20,7 @@
 * [2025-07-03, 16:44:18](https://news.ycombinator.com/item?id=44456904) - [Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
 * [2025-07-03, 16:38:02](https://news.ycombinator.com/item?id=44456827) - [Postcard is now open source](https://www.contraption.co/postcard-open-source/)
 * [2025-07-03, 16:34:51](https://news.ycombinator.com/item?id=44456779) - [AV1@Scale: Film Grain Synthesis, The Awakening](https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b)
+* [2025-07-03, 16:08:54](https://news.ycombinator.com/item?id=44456500) - [Hugging Your Cactus](https://www.hugyourcactus.com/2023/01/11/intro-to-hugging-your-cactus/)
 * [2025-07-03, 15:59:26](https://news.ycombinator.com/item?id=44456389) - [EBAF – eBPF Based Ad Firewall](https://github.com/Kazedaa/eBAF)
 * [2025-07-03, 15:58:32](https://news.ycombinator.com/item?id=44456379) - [Encoding Jake Gyllenhaal into one million checkboxes (2024)](https://ednamode.xyz/blogs/2.html)
 * [2025-07-03, 15:35:34](https://news.ycombinator.com/item?id=44456135) - [Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase](https://github.com/zserge/pennybase)
