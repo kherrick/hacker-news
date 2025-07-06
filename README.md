@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-06, 19:50:02](https://news.ycombinator.com/item?id=44483485) - [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
+* [2025-07-06, 19:12:20](https://news.ycombinator.com/item?id=44483192) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
 * [2025-07-06, 18:53:09](https://news.ycombinator.com/item?id=44483081) - [Luigi Lineri, the Man Who Collects and Categorizes Stones (2024)](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
 * [2025-07-06, 17:54:27](https://news.ycombinator.com/item?id=44482710) - [Show HN: Simple wrapper for Chrome's built-in local LLM (Gemini Nano)](https://github.com/kstonekuan/simple-chromium-ai)
@@ -19,7 +20,6 @@
 * [2025-07-06, 14:03:51](https://news.ycombinator.com/item?id=44480916) - [Jane Street barred from Indian markets as regulator freezes $566 million](https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html)
 * [2025-07-06, 12:53:13](https://news.ycombinator.com/item?id=44480400) - [Overclocking LLM Reasoning: Monitoring and Controlling LLM Thinking Path Lengths](https://royeisen.github.io/OverclockingLLMReasoning-paper/)
 * [2025-07-06, 12:32:46](https://news.ycombinator.com/item?id=44480223) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
-* [2025-07-06, 12:20:43](https://news.ycombinator.com/item?id=44480135) - [The weed-smoking, Labubu-loving, hackathon king of SF](https://sfstandard.com/2025/07/05/rene-turcios-hackathon-labubu-vibe-coding-chatgpt/)
 * [2025-07-06, 08:26:10](https://news.ycombinator.com/item?id=44478861) - [Overthinking GIS (2024)](https://scottsexton.co/post/overthinking_gis/)
 * [2025-07-06, 04:11:53](https://news.ycombinator.com/item?id=44477768) - [July 5, 1687: When Newton explained why you don't float away](https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/)
 * [2025-07-06, 00:32:18](https://news.ycombinator.com/item?id=44476716) - [Serving 200M requests per day with a CGI-bin](https://simonwillison.net/2025/Jul/5/cgi-bin-performance/)
