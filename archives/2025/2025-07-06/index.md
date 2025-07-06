@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 13:31:51](https://news.ycombinator.com/item?id=44480667) - [Two and a Half Years in GameDev](https://smyachenkov.com/posts/two-and-half-years-in-gamedev/)
 * [2025-07-06, 12:49:31](https://news.ycombinator.com/item?id=44480363) - [The most otherworldly, mysterious forms of lightning on Earth](https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms)
 * [2025-07-06, 12:35:14](https://news.ycombinator.com/item?id=44480242) - [Six months into congestion pricing, more cars are off the road](https://ny1.com/nyc/all-boroughs/traffic_and_transit/2025/07/05/six-months-into-congestion-pricing--more-cars-are-off-the-road--report-says)
 * [2025-07-06, 12:32:46](https://news.ycombinator.com/item?id=44480223) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
