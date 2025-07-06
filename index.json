@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-06, 18:32:55",
+      "https://news.ycombinator.com/item?id=44482965"
+    ],
+    [
+      "Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics",
+      "https://alpha.lisagui.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 17:12:45",
+      "https://news.ycombinator.com/item?id=44482405"
+    ],
+    [
+      "Collatz's Ant and Σ(n)",
+      "https://gbragafibra.github.io/2025/07/06/collatz_ant5.html"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 17:00:02",
       "https://news.ycombinator.com/item?id=44482301"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-07-05, 16:42:19",
-      "https://news.ycombinator.com/item?id=44473888"
-    ],
-    [
-      "Speeding up PostgreSQL dump/restore snapshots",
-      "https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql"
-    ]
-  ],
-  [
-    [
       "2025-07-05, 15:25:41",
       "https://news.ycombinator.com/item?id=44473400"
     ],
@@ -237,6 +247,16 @@
     [
       "Europe's first geostationary sounder satellite is launched",
       "https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched"
+    ]
+  ],
+  [
+    [
+      "2025-07-05, 11:43:53",
+      "https://news.ycombinator.com/item?id=44472057"
+    ],
+    [
+      "1945 TV Console Showed Two Programs at Once",
+      "https://spectrum.ieee.org/dumont-duoscopic-tv-set"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-07-02, 21:03:13",
-      "https://news.ycombinator.com/item?id=44448802"
-    ],
-    [
-      "ClojureScript from First Principles [video]",
-      "https://www.youtube.com/watch?v=An-ImWVppNQ"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 19:18:50",
       "https://news.ycombinator.com/item?id=44447742"
     ],
     [
       "Meet Bionode",
       "https://microship.com/meet-bionode/"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 15:41:41",
-      "https://news.ycombinator.com/item?id=44445091"
-    ],
-    [
-      "Show HN: I made Logic gates using CSS if() function",
-      "https://yongsk0066.github.io/css_if_logic_gate/"
     ]
   ]
 ]
