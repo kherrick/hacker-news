@@ -13,6 +13,7 @@
 * [2025-07-03, 20:27:01](https://news.ycombinator.com/item?id=44458877) - [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
 * [2025-07-03, 18:00:21](https://news.ycombinator.com/item?id=44457623) - [Will Scaling Solve Robotics?](https://nishanthjkumar.com/blog/2023/Will-Scaling-Solve-Robotics-Perspectives-from-CoRL-2023/)
 * [2025-07-03, 17:59:30](https://news.ycombinator.com/item?id=44457612) - [Impact of PCIe 5.0 Bandwidth on GPU Content Creation and LLM Performance](https://www.pugetsystems.com/labs/articles/impact-of-pcie-5-0-bandwidth-on-gpu-content-creation-performance/)
+* [2025-07-03, 17:52:05](https://news.ycombinator.com/item?id=44457549) - [Why the simplest desktop agent abstraction wins](https://www.bytebot.ai/blog/designing-bytebot-why-the-simplest-desktop-agent-abstraction-wins)
 * [2025-07-03, 17:42:11](https://news.ycombinator.com/item?id=44457446) - [Mysterious life form found on ship that docked in Cleveland](https://www.cleveland.com/news/2025/07/mysterious-life-form-found-on-ship-that-docked-in-cleveland.html)
 * [2025-07-03, 17:36:13](https://news.ycombinator.com/item?id=44457390) - [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 * [2025-07-03, 17:34:05](https://news.ycombinator.com/item?id=44457371) - [The End of Moore's Law for AI? Gemini Flash Offers a Warning](https://sutro.sh/blog/the-end-of-moore-s-law-for-ai-gemini-flash-offers-a-warning)

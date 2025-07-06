@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-06, 04:11:53](https://news.ycombinator.com/item?id=44477768) - [July 5, 1687: When Newton Explained Why You Don't Float Away](https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/)
 * [2025-07-06, 03:47:02](https://news.ycombinator.com/item?id=44477660) - [Chasing Hobbies over Achievement Boosts Happiness (2023)](https://neurosciencenews.com/hedonism-happiness-achievement-23923/)
-* [2025-07-06, 03:43:16](https://news.ycombinator.com/item?id=44477648) - [As Floods Hit, Key Roles Were Vacant at Weather Service Offices in Texas](https://www.nytimes.com/2025/07/05/us/politics/texas-floods-warnings-vacancies.html)
 * [2025-07-06, 03:31:21](https://news.ycombinator.com/item?id=44477601) - [Colombia seizes first unmanned narco-submarine with Starlink antenna](https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink)
 * [2025-07-06, 03:07:39](https://news.ycombinator.com/item?id=44477500) - [Injection Rejection (2006)](https://thedailywtf.com/articles/Injection_Rejection)
 * [2025-07-06, 02:54:41](https://news.ycombinator.com/item?id=44477452) - [Basically Everyone Should Be Avoiding Docker](https://lukesmith.xyz/articles/everyone-should-be-avoiding-docker/)
@@ -22,7 +22,7 @@
 * [2025-07-05, 14:45:39](https://news.ycombinator.com/item?id=44473135) - [Local-first software (2019)](https://www.inkandswitch.com/essay/local-first/)
 * [2025-07-05, 14:21:14](https://news.ycombinator.com/item?id=44472992) - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 * [2025-07-05, 11:38:58](https://news.ycombinator.com/item?id=44472024) - [What 'Project Hail Mary' teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
-* [2025-07-05, 08:43:41](https://news.ycombinator.com/item?id=44471150) - [Gecode is an open source C++ toolkit for developing constraint-based systems (2019)](https://www.gecode.org/)
+* [2025-07-03, 17:52:05](https://news.ycombinator.com/item?id=44457549) - [Why the simplest desktop agent abstraction wins](https://www.bytebot.ai/blog/designing-bytebot-why-the-simplest-desktop-agent-abstraction-wins)
 * [2025-07-03, 16:08:54](https://news.ycombinator.com/item?id=44456500) - [Hugging Your Cactus](https://www.hugyourcactus.com/2023/01/11/intro-to-hugging-your-cactus/)
 * [2025-07-02, 21:03:13](https://news.ycombinator.com/item?id=44448802) - [ClojureScript from First Principles [video]](https://www.youtube.com/watch?v=An-ImWVppNQ)
 * [2025-07-02, 19:24:18](https://news.ycombinator.com/item?id=44447797) - [Atomic \"Bomb\" Ring from KiX (1947)](https://toytales.ca/atomic-bomb-ring-from-kix-1947/)
