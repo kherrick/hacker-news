@@ -10,6 +10,7 @@
 * [2025-07-06, 21:46:02](https://news.ycombinator.com/item?id=44484363) - [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
 * [2025-07-06, 21:27:28](https://news.ycombinator.com/item?id=44484207) - [LLMs should not replace therapists](https://arxiv.org/abs/2504.18412)
 * [2025-07-06, 21:18:26](https://news.ycombinator.com/item?id=44484137) - [Why English doesn't use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
+* [2025-07-06, 21:09:42](https://news.ycombinator.com/item?id=44484074) - [Crypto 101 – Introductory course on cryptography](https://www.crypto101.io/)
 * [2025-07-06, 20:45:20](https://news.ycombinator.com/item?id=44483897) - [I don't think AGI is right around the corner](https://www.dwarkesh.com/p/timelines-june-2025)
 * [2025-07-06, 19:55:30](https://news.ycombinator.com/item?id=44483530) - [Backlog.md – CLI that auto-generates task files (took my Claude success to 95 %)](https://github.com/MrLesk/Backlog.md)
 * [2025-07-06, 19:50:02](https://news.ycombinator.com/item?id=44483485) - [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
