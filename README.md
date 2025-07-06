@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-06, 17:00:02](https://news.ycombinator.com/item?id=44482301) - [Metriport (YC S22) is hiring engineers to improve healthcare data exchange](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer)
-* [2025-07-06, 16:26:33](https://news.ycombinator.com/item?id=44482051) - [Huawei cloned Qwen and DeepSeek models, claimed as own](https://dilemmaworks.substack.com/p/whistleblower-huawei-cloned-and-renamed)
 * [2025-07-06, 15:18:35](https://news.ycombinator.com/item?id=44481464) - [Functions Are Vectors (2023)](https://thenumb.at/Functions-are-Vectors/)
 * [2025-07-06, 15:15:51](https://news.ycombinator.com/item?id=44481441) - [Hannah Cairo has solved the Mizohata-Takeuchi conjecture](https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html)
 * [2025-07-06, 14:55:36](https://news.ycombinator.com/item?id=44481286) - [Building a Mac app with Claude code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)
@@ -10,6 +9,7 @@
 * [2025-07-06, 14:33:34](https://news.ycombinator.com/item?id=44481135) - [Toys/Lag: Jerk Monitor](https://nothing.pcarrier.com/posts/lag/)
 * [2025-07-06, 14:23:12](https://news.ycombinator.com/item?id=44481066) - [Reinforcement Learning from Human Feedback (RLHF) in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
 * [2025-07-06, 13:31:51](https://news.ycombinator.com/item?id=44480667) - [Two and a Half Years in GameDev](https://smyachenkov.com/posts/two-and-half-years-in-gamedev/)
+* [2025-07-06, 12:53:13](https://news.ycombinator.com/item?id=44480400) - [Overclocking LLM Reasoning: Monitoring and Controlling LLM Thinking Path Lengths](https://royeisen.github.io/OverclockingLLMReasoning-paper/)
 * [2025-07-06, 12:32:46](https://news.ycombinator.com/item?id=44480223) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-06, 08:26:10](https://news.ycombinator.com/item?id=44478861) - [Overthinking GIS (2024)](https://scottsexton.co/post/overthinking_gis/)
 * [2025-07-06, 06:19:41](https://news.ycombinator.com/item?id=44478279) - [The force-feeding of AI features on an unwilling public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)

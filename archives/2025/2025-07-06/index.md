@@ -15,6 +15,7 @@
 * [2025-07-06, 14:33:34](https://news.ycombinator.com/item?id=44481135) - [Toys/Lag: Jerk Monitor](https://nothing.pcarrier.com/posts/lag/)
 * [2025-07-06, 14:23:12](https://news.ycombinator.com/item?id=44481066) - [Reinforcement Learning from Human Feedback (RLHF) in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
 * [2025-07-06, 13:31:51](https://news.ycombinator.com/item?id=44480667) - [Two and a Half Years in GameDev](https://smyachenkov.com/posts/two-and-half-years-in-gamedev/)
+* [2025-07-06, 12:53:13](https://news.ycombinator.com/item?id=44480400) - [Overclocking LLM Reasoning: Monitoring and Controlling LLM Thinking Path Lengths](https://royeisen.github.io/OverclockingLLMReasoning-paper/)
 * [2025-07-06, 12:49:31](https://news.ycombinator.com/item?id=44480363) - [The most otherworldly, mysterious forms of lightning on Earth](https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms)
 * [2025-07-06, 12:39:57](https://news.ycombinator.com/item?id=44480284) - [Stop killing games and the industry response](https://blog.kronis.dev/blog/stop-killing-games)
 * [2025-07-06, 12:35:14](https://news.ycombinator.com/item?id=44480242) - [Six months into congestion pricing, more cars are off the road](https://ny1.com/nyc/all-boroughs/traffic_and_transit/2025/07/05/six-months-into-congestion-pricing--more-cars-are-off-the-road--report-says)
