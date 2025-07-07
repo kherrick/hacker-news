@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-07, 10:44:04](https://news.ycombinator.com/item?id=44488810) - [Ask HN: Any resources for finding non-smart appliances?](https://news.ycombinator.com/item?id=44488810)
 * [2025-07-07, 09:43:57](https://news.ycombinator.com/item?id=44488480) - [XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
 * [2025-07-07, 09:20:38](https://news.ycombinator.com/item?id=44488331) - [Anthropic downloaded over 7M pirated books to train Claude, a judge said](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 * [2025-07-07, 08:44:26](https://news.ycombinator.com/item?id=44488107) - [Deno 2.4](https://deno.com/blog/v2.4)
@@ -20,7 +21,6 @@
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
 * [2025-07-06, 17:26:47](https://news.ycombinator.com/item?id=44482504) - [Opencode: AI coding agent, built for the terminal](https://github.com/sst/opencode)
 * [2025-07-06, 16:46:01](https://news.ycombinator.com/item?id=44482194) - [Async Queue – One of my favorite programming interview questions](https://davidgomes.com/async-queue-interview-ai/)
-* [2025-07-06, 15:18:35](https://news.ycombinator.com/item?id=44481464) - [Functions Are Vectors (2023)](https://thenumb.at/Functions-are-Vectors/)
 * [2025-07-06, 12:32:46](https://news.ycombinator.com/item?id=44480223) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-04, 20:58:53](https://news.ycombinator.com/item?id=44467838) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
 * [2025-07-04, 09:59:43](https://news.ycombinator.com/item?id=44463063) - [The first time I was almost fired from Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
