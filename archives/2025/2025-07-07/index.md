@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 05:39:17](https://news.ycombinator.com/item?id=44487110) - [I Ported SAP to a 1976 CPU. It Wasn't That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
 * [2025-07-07, 04:40:49](https://news.ycombinator.com/item?id=44486818) - ['Improved' Grok Criticizes Democrats and Hollywood's 'Jewish Executives'](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
 * [2025-07-07, 03:52:40](https://news.ycombinator.com/item?id=44486599) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 * [2025-07-07, 03:41:32](https://news.ycombinator.com/item?id=44486541) - [The Era of Full Stack Chip Designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
