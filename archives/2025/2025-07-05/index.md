@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
 * [2025-07-05, 23:28:30](https://news.ycombinator.com/item?id=44476382) - [Solving Wordle with uv's dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
+* [2025-07-05, 23:19:28](https://news.ycombinator.com/item?id=44476339) - [Show HN: From Photos to Positions: Prototyping VLM-Based Indoor Maps](https://arjo129.github.io/blog/5-7-2025-From-Photos-To-Positions-Prototyping.html)
 * [2025-07-05, 23:10:03](https://news.ycombinator.com/item?id=44476297) - [Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
 * [2025-07-05, 22:56:18](https://news.ycombinator.com/item?id=44476225) - [RFK's proposal to let bird flu spread through poultry](https://www.livescience.com/health/flu/rfks-proposal-to-let-bird-flu-spread-through-poultry-could-set-us-up-for-a-pandemic-experts-warn)
 * [2025-07-05, 22:41:46](https://news.ycombinator.com/item?id=44476166) - [Operators, Not Users and Programmers](https://jyn.dev/operators-not-users-and-programmers/)

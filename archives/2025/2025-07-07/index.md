@@ -7,6 +7,7 @@
 * [2025-07-07, 17:07:05](https://news.ycombinator.com/item?id=44492405) - [Show HN: Ossia score – a sequencer for audio-visual artists](https://github.com/ossia/score)
 * [2025-07-07, 16:16:49](https://news.ycombinator.com/item?id=44491860) - [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
 * [2025-07-07, 16:15:52](https://news.ycombinator.com/item?id=44491855) - [Show HN: Unlearning Comparator, a visual tool to compare machine unlearning](https://gnueaj.github.io/Machine-Unlearning-Comparator/)
+* [2025-07-07, 16:00:05](https://news.ycombinator.com/item?id=44491697) - [The Harvey Edwards Archive](https://www.harveyedwards-archive.com)
 * [2025-07-07, 15:37:28](https://news.ycombinator.com/item?id=44491460) - [tinymcp: Let LLMs control embedded devices via the Model Context Protocol](https://github.com/golioth/tinymcp)
 * [2025-07-07, 15:23:57](https://news.ycombinator.com/item?id=44491333) - [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
 * [2025-07-07, 14:58:09](https://news.ycombinator.com/item?id=44491071) - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
