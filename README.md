@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-07, 09:43:57](https://news.ycombinator.com/item?id=44488480) - [XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
 * [2025-07-07, 08:44:26](https://news.ycombinator.com/item?id=44488107) - [Deno 2.4](https://deno.com/blog/v2.4)
 * [2025-07-07, 08:40:00](https://news.ycombinator.com/item?id=44488072) - [Poland's clean energy usage overtakes coal for first time](https://www.ft.com/content/ae920241-597e-49d9-a4b9-bfdfa9deabb6)
-* [2025-07-07, 03:41:32](https://news.ycombinator.com/item?id=44486541) - [The era of full stack chip designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
 * [2025-07-07, 02:36:57](https://news.ycombinator.com/item?id=44486235) - [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
 * [2025-07-07, 00:57:25](https://news.ycombinator.com/item?id=44485649) - [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
 * [2025-07-07, 00:05:46](https://news.ycombinator.com/item?id=44485342) - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
@@ -14,7 +14,7 @@
 * [2025-07-06, 21:46:02](https://news.ycombinator.com/item?id=44484363) - [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
 * [2025-07-06, 21:27:28](https://news.ycombinator.com/item?id=44484207) - [LLMs should not replace therapists](https://arxiv.org/abs/2504.18412)
 * [2025-07-06, 21:18:26](https://news.ycombinator.com/item?id=44484137) - [Why English doesn't use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
-* [2025-07-06, 21:09:42](https://news.ycombinator.com/item?id=44484074) - [Crypto 101 – Introductory course on cryptography](https://www.crypto101.io/)
+* [2025-07-06, 21:09:42](https://news.ycombinator.com/item?id=44484074) - [Crypto 101 – Introductory course on cryptography (2017)](https://www.crypto101.io/)
 * [2025-07-06, 21:01:51](https://news.ycombinator.com/item?id=44484026) - [Thesis: Interesting work is less amenable to the use of AI](https://remark.ing/rob/rob/Thesis-interesting-work-ie)
 * [2025-07-06, 19:55:30](https://news.ycombinator.com/item?id=44483530) - [Backlog.md – Markdown‑native Task Manager and Kanban visualizer for any Git repo](https://github.com/MrLesk/Backlog.md)
 * [2025-07-06, 19:50:02](https://news.ycombinator.com/item?id=44483485) - [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 09:43:57](https://news.ycombinator.com/item?id=44488480) - [XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
 * [2025-07-07, 08:44:26](https://news.ycombinator.com/item?id=44488107) - [Deno 2.4](https://deno.com/blog/v2.4)
 * [2025-07-07, 08:40:00](https://news.ycombinator.com/item?id=44488072) - [Poland's clean energy usage overtakes coal for first time](https://www.ft.com/content/ae920241-597e-49d9-a4b9-bfdfa9deabb6)
 * [2025-07-07, 05:39:17](https://news.ycombinator.com/item?id=44487110) - [I Ported SAP to a 1976 CPU. It Wasn't That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
