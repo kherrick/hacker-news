@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New Sphere-Packing Record Stems from an Unexpected Source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
-* [2025-07-07, 17:58:04](https://news.ycombinator.com/item?id=44492986) - [My first verified (imperative) program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
+* [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
+* [2025-07-07, 17:58:04](https://news.ycombinator.com/item?id=44492986) - [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 * [2025-07-07, 17:07:05](https://news.ycombinator.com/item?id=44492405) - [Show HN: Ossia score – a sequencer for audio-visual artists](https://github.com/ossia/score)
 * [2025-07-07, 16:16:49](https://news.ycombinator.com/item?id=44491860) - [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
 * [2025-07-07, 16:15:52](https://news.ycombinator.com/item?id=44491855) - [Show HN: Unlearning Comparator, a visual tool to compare machine unlearning](https://gnueaj.github.io/Machine-Unlearning-Comparator/)
@@ -13,7 +13,7 @@
 * [2025-07-07, 14:40:45](https://news.ycombinator.com/item?id=44490863) - [Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863)
 * [2025-07-07, 13:52:51](https://news.ycombinator.com/item?id=44490386) - [CPU-X: CPU-Z for Linux](https://thetumultuousunicornofdarkness.github.io/CPU-X/)
 * [2025-07-07, 12:44:19](https://news.ycombinator.com/item?id=44489803) - [I used o3 to profile myself from my saved Pocket links](https://noperator.dev/posts/o3-pocket-profile/)
-* [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
+* [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-fast language models based on diffusion](https://arxiv.org/abs/2506.17298)
 * [2025-07-07, 09:20:38](https://news.ycombinator.com/item?id=44488331) - [Anthropic cut up millions of used books, and downloaded 7M pirated ones – judge](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 * [2025-07-07, 00:05:46](https://news.ycombinator.com/item?id=44485342) - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 * [2025-07-06, 22:26:44](https://news.ycombinator.com/item?id=44484682) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
