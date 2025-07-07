@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-07, 23:38:44](https://news.ycombinator.com/item?id=44495664) - [ICE Using Border Facial Recognition Tech to ID Protesters and Activists in US](https://www.techdirt.com/2025/07/07/ice-using-repurposed-border-facial-recognition-tech-to-id-protesters-activists-and-migrants-on-us-streets/)
 * [2025-07-07, 22:11:58](https://news.ycombinator.com/item?id=44495154) - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
 * [2025-07-07, 20:36:54](https://news.ycombinator.com/item?id=44494430) - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
 * [2025-07-07, 19:07:13](https://news.ycombinator.com/item?id=44493640) - [Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs](https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html)
@@ -17,7 +18,6 @@
 * [2025-07-07, 09:20:38](https://news.ycombinator.com/item?id=44488331) - [Anthropic cut up millions of used books, and downloaded 7M pirated ones – judge](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 * [2025-07-07, 00:05:46](https://news.ycombinator.com/item?id=44485342) - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 * [2025-07-06, 22:26:44](https://news.ycombinator.com/item?id=44484682) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
-* [2025-07-06, 21:18:26](https://news.ycombinator.com/item?id=44484137) - [Why English doesn't use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
 * [2025-07-06, 10:38:27](https://news.ycombinator.com/item?id=44479502) - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
 * [2025-07-05, 23:28:30](https://news.ycombinator.com/item?id=44476382) - [Solving Wordle with uv's dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
