@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-07-07, 16:00:05",
+      "https://news.ycombinator.com/item?id=44491697"
+    ],
+    [
+      "The Harvey Edwards Archive",
+      "https://www.harveyedwards-archive.com"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 15:37:28",
       "https://news.ycombinator.com/item?id=44491460"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-07-07, 13:41:55",
-      "https://news.ycombinator.com/item?id=44490299"
-    ],
-    [
-      "Showh HN: Microjax – JAX in two classes and six functions",
-      "https://github.com/joelburget/microjax"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 12:44:19",
       "https://news.ycombinator.com/item?id=44489803"
     ],
@@ -147,16 +147,6 @@
     [
       "Mercury: Ultra-Fast Language Models Based on Diffusion",
       "https://arxiv.org/abs/2506.17298"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 12:15:17",
-      "https://news.ycombinator.com/item?id=44489552"
-    ],
-    [
-      "AI Cameras Change Driver Behavior at Intersections",
-      "https://spectrum.ieee.org/ai-intersection-monitoring"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Solving Wordle with uv's dependency resolver",
       "https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/"
+    ]
+  ],
+  [
+    [
+      "2025-07-05, 23:19:28",
+      "https://news.ycombinator.com/item?id=44476339"
+    ],
+    [
+      "Show HN: From Photos to Positions: Prototyping VLM-Based Indoor Maps",
+      "https://arjo129.github.io/blog/5-7-2025-From-Photos-To-Positions-Prototyping.html"
     ]
   ],
   [
