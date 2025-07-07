@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-07, 14:13:56",
+      "https://news.ycombinator.com/item?id=44490588"
+    ],
+    [
+      "Show HN: NYC Subway Simulator and Route Designer",
+      "https://buildmytransit.nyc"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 13:41:55",
       "https://news.ycombinator.com/item?id=44490299"
     ],
     [
-      "Showh HN: Microjax - Jax in two classes and six functions",
+      "Showh HN: Microjax – JAX in two classes and six functions",
       "https://github.com/joelburget/microjax"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 12:44:19",
+      "https://news.ycombinator.com/item?id=44489803"
+    ],
+    [
+      "I used o3 to profile myself from my saved Pocket links",
+      "https://noperator.dev/posts/o3-pocket-profile/"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44488331"
     ],
     [
-      "Anthropic downloaded over 7M pirated books to train Claude, a judge said",
+      "Anthropic cut up millions of used books, and downloaded 7M pirated ones – judge",
       "https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6"
     ]
   ],
@@ -47,16 +67,6 @@
     [
       "Bitchat – A decentralized messaging app that works over Bluetooth mesh networks",
       "https://github.com/jackjackbits/bitchat"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 23:49:52",
-      "https://news.ycombinator.com/item?id=44485241"
-    ],
-    [
-      "Swedish Campground (2004)",
-      "https://www.folklore.org/Swedish_Campground.html"
     ]
   ],
   [
@@ -121,26 +131,6 @@
   ],
   [
     [
-      "2025-07-06, 19:55:30",
-      "https://news.ycombinator.com/item?id=44483530"
-    ],
-    [
-      "Backlog.md – Markdown‑native Task Manager and Kanban visualizer for any Git repo",
-      "https://github.com/MrLesk/Backlog.md"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 19:50:02",
-      "https://news.ycombinator.com/item?id=44483485"
-    ],
-    [
-      "I extracted the safety filters from Apple Intelligence models",
-      "https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 18:32:55",
       "https://news.ycombinator.com/item?id=44482965"
     ],
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2025-07-06, 15:18:35",
-      "https://news.ycombinator.com/item?id=44481464"
-    ],
-    [
-      "Functions Are Vectors (2023)",
-      "https://thenumb.at/Functions-are-Vectors/"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 12:32:46",
       "https://news.ycombinator.com/item?id=44480223"
     ],
@@ -201,12 +181,32 @@
   ],
   [
     [
+      "2025-07-05, 23:28:30",
+      "https://news.ycombinator.com/item?id=44476382"
+    ],
+    [
+      "Solving Wordle with uv's dependency resolver",
+      "https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 23:28:48",
       "https://news.ycombinator.com/item?id=44468833"
     ],
     [
       "The Cat's Meat Man: Feeding Felines in Victorian London",
       "https://publicdomainreview.org/essay/the-cats-meat-man/"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 23:15:18",
+      "https://news.ycombinator.com/item?id=44468753"
+    ],
+    [
+      "Lightfastness Testing of Colored Pencils",
+      "https://sarahrenaeclark.com/lightfast-testing-pencils/"
     ]
   ],
   [
