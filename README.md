@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-07, 20:18:30](https://news.ycombinator.com/item?id=44494255) - [How did X-Rays gain mass adoption?](https://www.aditharun.com/p/how-did-x-rays-gain-mass-adoption)
-* [2025-07-07, 20:03:16](https://news.ycombinator.com/item?id=44494117) - [The 'ChatGPT Moment' in Robotics and Beyond](https://paritoshmohan.substack.com/p/the-chatgpt-moment-in-robotics-and)
 * [2025-07-07, 19:07:13](https://news.ycombinator.com/item?id=44493640) - [Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs](https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html)
 * [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
 * [2025-07-07, 17:58:04](https://news.ycombinator.com/item?id=44492986) - [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
@@ -29,6 +28,7 @@
 * [2025-07-04, 11:04:41](https://news.ycombinator.com/item?id=44463429) - [The chemical secrets that help keep honey fresh for so long](https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long)
 * [2025-07-04, 04:16:12](https://news.ycombinator.com/item?id=44461082) - [Hymn to Babylon, missing for a millennium, has been discovered](https://phys.org/news/2025-07-hymn-babylon-millennium.html)
 * [2025-07-04, 01:45:15](https://news.ycombinator.com/item?id=44460498) - [Neanderthals operated prehistoric “fat factory” on German lakeshore](https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/)
+* [2025-07-03, 14:07:48](https://news.ycombinator.com/item?id=44455240) - [Cpparinfer: A C++23 implementation of the parinfer algorithm](https://gitlab.com/w0utert/cpparinfer)
 * [2025-07-03, 14:00:16](https://news.ycombinator.com/item?id=44455175) - [François Chollet: The Arc Prize and How We Get to AGI [video]](https://www.youtube.com/watch?v=5QcCeSsNRks)
 
 ## [Archives](archives/index.md)
