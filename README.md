@@ -22,14 +22,14 @@
 * [2025-07-06, 14:03:51](https://news.ycombinator.com/item?id=44480916) - [Jane Street barred from Indian markets as regulator freezes $566 million](https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html)
 * [2025-07-06, 12:53:13](https://news.ycombinator.com/item?id=44480400) - [Overclocking LLM Reasoning: Monitoring and Controlling LLM Thinking Path Lengths](https://royeisen.github.io/OverclockingLLMReasoning-paper/)
 * [2025-07-06, 12:32:46](https://news.ycombinator.com/item?id=44480223) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
+* [2025-07-06, 08:26:10](https://news.ycombinator.com/item?id=44478861) - [Overthinking GIS (2024)](https://scottsexton.co/post/overthinking_gis/)
 * [2025-07-06, 00:47:42](https://news.ycombinator.com/item?id=44476799) - [Mirage: First AI-Native UGC Game Engine Powered by Real-Time World Model](https://blog.dynamicslab.ai)
-* [2025-07-06, 00:32:18](https://news.ycombinator.com/item?id=44476716) - [Serving 200M requests per day with a CGI-bin](https://simonwillison.net/2025/Jul/5/cgi-bin-performance/)
-* [2025-07-05, 23:10:03](https://news.ycombinator.com/item?id=44476297) - [Hidden interface controls that affect usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
 * [2025-07-05, 11:43:53](https://news.ycombinator.com/item?id=44472057) - [1945 TV Console Showed Two Programs at Once](https://spectrum.ieee.org/dumont-duoscopic-tv-set)
 * [2025-07-04, 15:35:32](https://news.ycombinator.com/item?id=44465434) - [Paper Shaders: Zero-dependency canvas shaders](https://github.com/paper-design/shaders)
 * [2025-07-04, 13:48:19](https://news.ycombinator.com/item?id=44464536) - [Lessons from creating my first text adventure](https://entropicthoughts.com/lessons-from-creating-first-text-adventure)
 * [2025-07-04, 10:35:04](https://news.ycombinator.com/item?id=44463249) - [More than 1 in 5 Show HN posts are now AI-related, get > half the votes/comments](https://ryanfarley.co/ai-show-hn-data/)
 * [2025-07-03, 15:29:26](https://news.ycombinator.com/item?id=44456073) - [Corrected UTF-8 (2022)](https://www.owlfolio.org/development/corrected-utf-8/)
+* [2025-07-03, 04:04:49](https://news.ycombinator.com/item?id=44451532) - [Can we test it? Yes, was can [video]](https://www.youtube.com/watch?v=MqC3tudPH6w)
 
 ## [Archives](archives/index.md)
 
