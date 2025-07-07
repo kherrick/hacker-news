@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-07-07, 20:03:16",
-      "https://news.ycombinator.com/item?id=44494117"
-    ],
-    [
-      "The 'ChatGPT Moment' in Robotics and Beyond",
-      "https://paritoshmohan.substack.com/p/the-chatgpt-moment-in-robotics-and"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 19:07:13",
       "https://news.ycombinator.com/item?id=44493640"
     ],
@@ -287,6 +277,16 @@
     [
       "Neanderthals operated prehistoric “fat factory” on German lakeshore",
       "https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 14:07:48",
+      "https://news.ycombinator.com/item?id=44455240"
+    ],
+    [
+      "Cpparinfer: A C++23 implementation of the parinfer algorithm",
+      "https://gitlab.com/w0utert/cpparinfer"
     ]
   ],
   [
