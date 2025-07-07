@@ -26,10 +26,10 @@
 * [2025-07-06, 14:03:51](https://news.ycombinator.com/item?id=44480916) - [Jane Street barred from Indian markets as regulator freezes $566M](https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html)
 * [2025-07-06, 12:32:46](https://news.ycombinator.com/item?id=44480223) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-04, 20:58:53](https://news.ycombinator.com/item?id=44467838) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
-* [2025-07-04, 13:48:19](https://news.ycombinator.com/item?id=44464536) - [Lessons from creating my first text adventure](https://entropicthoughts.com/lessons-from-creating-first-text-adventure)
 * [2025-07-04, 09:59:43](https://news.ycombinator.com/item?id=44463063) - [The first time I was almost fired from Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
 * [2025-07-04, 01:45:15](https://news.ycombinator.com/item?id=44460498) - [Neanderthals operated prehistoric “fat factory” on German lakeshore](https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/)
 * [2025-07-03, 23:12:07](https://news.ycombinator.com/item?id=44459877) - [Uncommon Uses of Python in Commonly Used Libraries (2022)](https://eugeneyan.com/writing/uncommon-python/)
+* [2025-07-03, 16:43:40](https://news.ycombinator.com/item?id=44456896) - [Portability of Tar Features](https://mgorny.pl/articles/portability-of-tar-features.html)
 
 ## [Archives](archives/index.md)
 
