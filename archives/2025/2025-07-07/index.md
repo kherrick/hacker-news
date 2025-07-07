@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 20:18:30](https://news.ycombinator.com/item?id=44494255) - [How did X-Rays gain mass adoption?](https://www.aditharun.com/p/how-did-x-rays-gain-mass-adoption)
+* [2025-07-07, 20:03:16](https://news.ycombinator.com/item?id=44494117) - [The 'ChatGPT Moment' in Robotics and Beyond](https://paritoshmohan.substack.com/p/the-chatgpt-moment-in-robotics-and)
 * [2025-07-07, 19:07:13](https://news.ycombinator.com/item?id=44493640) - [Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs](https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html)
 * [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New Sphere-Packing Record Stems from an Unexpected Source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
 * [2025-07-07, 17:58:04](https://news.ycombinator.com/item?id=44492986) - [My first verified (imperative) program](https://markushimmel.de/blog/my-first-verified-imperative-program/)

@@ -59,6 +59,7 @@
 * [2025-07-04, 11:42:35](https://news.ycombinator.com/item?id=44463654) - [A Rust-TypeScript integration](https://github.com/beeeeep54/rust-typescript)
 * [2025-07-04, 11:39:00](https://news.ycombinator.com/item?id=44463631) - [How to render a mesh gradient using RBF interpolation](https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link)
 * [2025-07-04, 11:24:42](https://news.ycombinator.com/item?id=44463536) - [Can Large Language Models Play Text Games Well?](https://arxiv.org/abs/2304.02868)
+* [2025-07-04, 11:04:41](https://news.ycombinator.com/item?id=44463429) - [The chemical secrets that help keep honey fresh for so long](https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long)
 * [2025-07-04, 10:35:04](https://news.ycombinator.com/item?id=44463249) - [More than 1 in 5 Show HN posts are now AI-related, get > half the votes/comments](https://ryanfarley.co/ai-show-hn-data/)
 * [2025-07-04, 09:59:43](https://news.ycombinator.com/item?id=44463063) - [The First Time I Was Almost Fired from Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
 * [2025-07-04, 09:43:04](https://news.ycombinator.com/item?id=44462947) - [Larry (Cat)](https://en.wikipedia.org/wiki/Larry_(cat))
