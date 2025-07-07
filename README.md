@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-07, 05:39:17](https://news.ycombinator.com/item?id=44487110) - [I Ported SAP to a 1976 CPU. It Wasn't That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
-* [2025-07-07, 03:41:32](https://news.ycombinator.com/item?id=44486541) - [The era of full stack chip designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
 * [2025-07-07, 02:36:57](https://news.ycombinator.com/item?id=44486235) - [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
 * [2025-07-07, 00:57:25](https://news.ycombinator.com/item?id=44485649) - [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
 * [2025-07-07, 00:05:46](https://news.ycombinator.com/item?id=44485342) - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 * [2025-07-07, 00:04:36](https://news.ycombinator.com/item?id=44485336) - [There's a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)
+* [2025-07-06, 23:55:24](https://news.ycombinator.com/item?id=44485286) - [Show HN: Modernized file manager and program manager from Windows 3.x](https://github.com/brianluft/heirloom)
 * [2025-07-06, 23:49:52](https://news.ycombinator.com/item?id=44485241) - [Swedish Campground (2004)](https://www.folklore.org/Swedish_Campground.html)
 * [2025-07-06, 22:27:39](https://news.ycombinator.com/item?id=44484688) - [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
 * [2025-07-06, 22:26:44](https://news.ycombinator.com/item?id=44484682) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
