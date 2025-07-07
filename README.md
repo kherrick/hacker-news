@@ -25,7 +25,7 @@
 * [2025-07-05, 18:15:13](https://news.ycombinator.com/item?id=44474485) - [Artist in Residence on a Satellite](http://global.cafa.edu.cn/infoDetail/1/324)
 * [2025-07-05, 08:02:56](https://news.ycombinator.com/item?id=44470942) - [The Miyawaki Method of micro-forestry](https://www.futureecologies.net/listen/fe-6-5-the-method)
 * [2025-07-04, 23:15:18](https://news.ycombinator.com/item?id=44468753) - [Lightfastness Testing of Colored Pencils](https://sarahrenaeclark.com/lightfast-testing-pencils/)
-* [2025-07-04, 17:03:31](https://news.ycombinator.com/item?id=44466143) - [Charles Babbage and deciphering codes (1864)](https://mathshistory.st-andrews.ac.uk/Extras/Babbage_deciphering/)
+* [2025-07-04, 20:58:53](https://news.ycombinator.com/item?id=44467838) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
 * [2025-07-04, 11:04:41](https://news.ycombinator.com/item?id=44463429) - [The chemical secrets that help keep honey fresh for so long](https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long)
 * [2025-07-04, 04:16:12](https://news.ycombinator.com/item?id=44461082) - [Hymn to Babylon, missing for a millennium, has been discovered](https://phys.org/news/2025-07-hymn-babylon-millennium.html)
 * [2025-07-04, 01:45:15](https://news.ycombinator.com/item?id=44460498) - [Neanderthals operated prehistoric “fat factory” on German lakeshore](https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/)
