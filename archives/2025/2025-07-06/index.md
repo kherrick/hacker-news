@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 23:49:52](https://news.ycombinator.com/item?id=44485241) - [Swedish Campground: \"There are too many Apples on the screen!\"](https://www.folklore.org/Swedish_Campground.html)
+* [2025-07-06, 23:12:05](https://news.ycombinator.com/item?id=44484994) - [Centaur: A Controversial Leap Towards Simulating Human Cognition](https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/)
+* [2025-07-06, 22:54:21](https://news.ycombinator.com/item?id=44484874) - [The Broken Microsoft Pact: Layoffs and Performance Management](https://danielsada.tech/blog/microsoft-pact/)
 * [2025-07-06, 22:27:39](https://news.ycombinator.com/item?id=44484688) - [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
 * [2025-07-06, 22:26:44](https://news.ycombinator.com/item?id=44484682) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 * [2025-07-06, 22:16:37](https://news.ycombinator.com/item?id=44484595) - [Nobody has a personality anymore: we are products with labels](https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore)
