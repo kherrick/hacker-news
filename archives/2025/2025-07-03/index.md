@@ -39,6 +39,7 @@
 * [2025-07-03, 15:03:14](https://news.ycombinator.com/item?id=44455787) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:43:57](https://news.ycombinator.com/item?id=44455591) - [Is It Cake? How Our Brain Deciphers Materials](https://nautil.us/is-it-cake-how-our-brain-deciphers-materials-1222193/)
 * [2025-07-03, 14:17:19](https://news.ycombinator.com/item?id=44455320) - [Locality of Behaviour (2020)](https://htmx.org/essays/locality-of-behaviour/)
+* [2025-07-03, 14:07:48](https://news.ycombinator.com/item?id=44455240) - [Cpparinfer: A C++23 implementation of the parinfer algorithm](https://gitlab.com/w0utert/cpparinfer)
 * [2025-07-03, 14:05:05](https://news.ycombinator.com/item?id=44455222) - [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
 * [2025-07-03, 14:04:27](https://news.ycombinator.com/item?id=44455218) - [Doom Didn't Kill the Amiga (2024)](https://www.datagubbe.se/afb/)
 * [2025-07-03, 14:02:16](https://news.ycombinator.com/item?id=44455196) - [Robots move Shanghai city block [video]](https://www.youtube.com/watch?v=7ZccC9BnT8k)

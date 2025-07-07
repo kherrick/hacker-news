@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
 * [2025-07-07, 12:43:16](https://news.ycombinator.com/item?id=44489797) - [New Quantum Paradox Clarifies Where Our Views of Reality Go Wrong](https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/)
+* [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
 * [2025-07-07, 10:44:04](https://news.ycombinator.com/item?id=44488810) - [Ask HN: Any resources for finding non-smart appliances?](https://news.ycombinator.com/item?id=44488810)
 * [2025-07-07, 09:43:57](https://news.ycombinator.com/item?id=44488480) - [XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
 * [2025-07-07, 09:20:38](https://news.ycombinator.com/item?id=44488331) - [Anthropic downloaded over 7M pirated books to train Claude, a judge said](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)

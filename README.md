@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-07, 12:43:16](https://news.ycombinator.com/item?id=44489797) - [New Quantum Paradox Clarifies Where Our Views of Reality Go Wrong](https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/)
-* [2025-07-07, 03:41:32](https://news.ycombinator.com/item?id=44486541) - [The era of full stack chip designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
+* [2025-07-07, 12:43:16](https://news.ycombinator.com/item?id=44489797) - [New quantum paradox clarifies where our views of reality go wrong (2018)](https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/)
+* [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
+* [2025-07-07, 09:20:38](https://news.ycombinator.com/item?id=44488331) - [Anthropic downloaded over 7M pirated books to train Claude, a judge said](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 * [2025-07-07, 02:36:57](https://news.ycombinator.com/item?id=44486235) - [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
-* [2025-07-07, 00:57:25](https://news.ycombinator.com/item?id=44485649) - [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
 * [2025-07-07, 00:05:46](https://news.ycombinator.com/item?id=44485342) - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 * [2025-07-06, 23:49:52](https://news.ycombinator.com/item?id=44485241) - [Swedish Campground (2004)](https://www.folklore.org/Swedish_Campground.html)
 * [2025-07-06, 22:27:39](https://news.ycombinator.com/item?id=44484688) - [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
@@ -28,7 +28,7 @@
 * [2025-07-04, 01:45:15](https://news.ycombinator.com/item?id=44460498) - [Neanderthals operated prehistoric “fat factory” on German lakeshore](https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/)
 * [2025-07-03, 23:12:07](https://news.ycombinator.com/item?id=44459877) - [Uncommon Uses of Python in Commonly Used Libraries (2022)](https://eugeneyan.com/writing/uncommon-python/)
 * [2025-07-03, 20:29:45](https://news.ycombinator.com/item?id=44458896) - [What every programmer should know about how CPUs work [video]](https://www.youtube.com/watch?v=-HNpim5x-IE)
-* [2025-07-03, 16:43:40](https://news.ycombinator.com/item?id=44456896) - [Portability of Tar Features](https://mgorny.pl/articles/portability-of-tar-features.html)
+* [2025-07-03, 14:07:48](https://news.ycombinator.com/item?id=44455240) - [Cpparinfer: A C++23 implementation of the parinfer algorithm](https://gitlab.com/w0utert/cpparinfer)
 * [2025-07-03, 14:00:16](https://news.ycombinator.com/item?id=44455175) - [François Chollet: The Arc Prize and How We Get to AGI [video]](https://www.youtube.com/watch?v=5QcCeSsNRks)
 
 ## [Archives](archives/index.md)
