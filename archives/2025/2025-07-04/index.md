@@ -15,6 +15,7 @@
 * [2025-07-04, 21:11:53](https://news.ycombinator.com/item?id=44467914) - [The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?](https://www.datagubbe.se/amix/)
 * [2025-07-04, 21:11:24](https://news.ycombinator.com/item?id=44467912) - [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
 * [2025-07-04, 21:00:13](https://news.ycombinator.com/item?id=44467852) - [Continue (YC S23) is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs)
+* [2025-07-04, 20:58:53](https://news.ycombinator.com/item?id=44467838) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
 * [2025-07-04, 20:49:07](https://news.ycombinator.com/item?id=44467780) - [America Is Killing Its Chance to Find Alien Life](https://www.theatlantic.com/science/archive/2025/07/nasa-observatory-funding-trump-alien-life/683427/)
 * [2025-07-04, 20:16:10](https://news.ycombinator.com/item?id=44467539) - [Open Source and FPGA Maker Board for Networking](https://privateisland.tech/betsy)
 * [2025-07-04, 19:56:15](https://news.ycombinator.com/item?id=44467383) - [How to get started with Old English poetry](https://www.deadlanguagesociety.com/p/old-english-poetry)
