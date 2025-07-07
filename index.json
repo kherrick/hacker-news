@@ -1,22 +1,62 @@
 [
   [
     [
+      "2025-07-07, 00:05:46",
+      "https://news.ycombinator.com/item?id=44485342"
+    ],
+    [
+      "Bitchat – A decentralized messaging app that works over Bluetooth mesh networks",
+      "https://github.com/jackjackbits/bitchat"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 00:04:36",
+      "https://news.ycombinator.com/item?id=44485336"
+    ],
+    [
+      "There's a COMPUTER inside my DS flashcart [video]",
+      "https://www.youtube.com/watch?v=uq0pJmd7GAA"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 23:49:52",
+      "https://news.ycombinator.com/item?id=44485241"
+    ],
+    [
+      "Swedish Campground: \"There are too many Apples on the screen!\"",
+      "https://www.folklore.org/Swedish_Campground.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 23:12:05",
+      "https://news.ycombinator.com/item?id=44484994"
+    ],
+    [
+      "Centaur: A Controversial Leap Towards Simulating Human Cognition",
+      "https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 22:54:21",
+      "https://news.ycombinator.com/item?id=44484874"
+    ],
+    [
+      "The Broken Microsoft Pact: Layoffs and Performance Management",
+      "https://danielsada.tech/blog/microsoft-pact/"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 22:27:39",
       "https://news.ycombinator.com/item?id=44484688"
     ],
     [
       "Intel's Lion Cove P-Core and Gaming Workloads",
       "https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 22:26:44",
-      "https://news.ycombinator.com/item?id=44484682"
-    ],
-    [
-      "A non-anthropomorphized view of LLMs",
-      "http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "Building the Rust Compiler with GCC",
       "https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 21:27:28",
-      "https://news.ycombinator.com/item?id=44484207"
-    ],
-    [
-      "LLMs should not replace therapists",
-      "https://arxiv.org/abs/2504.18412"
     ]
   ],
   [
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=44483530"
     ],
     [
-      "Backlog.md – CLI that auto-generates task files (took my Claude success to 95 %)",
+      "Backlog.md – Markdown‑native Task Manager and Kanban visualizer for any Git repo",
       "https://github.com/MrLesk/Backlog.md"
     ]
   ],
@@ -107,16 +137,6 @@
     [
       "Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics",
       "https://alpha.lisagui.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 17:40:16",
-      "https://news.ycombinator.com/item?id=44482611"
-    ],
-    [
-      "Cool People [pdf]",
-      "https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-07-06, 12:53:13",
-      "https://news.ycombinator.com/item?id=44480400"
-    ],
-    [
-      "Overclocking LLM Reasoning: Monitoring and Controlling LLM Thinking Path Lengths",
-      "https://royeisen.github.io/OverclockingLLMReasoning-paper/"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 12:32:46",
       "https://news.ycombinator.com/item?id=44480223"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2025-07-06, 08:26:10",
-      "https://news.ycombinator.com/item?id=44478861"
-    ],
-    [
-      "Overthinking GIS (2024)",
-      "https://scottsexton.co/post/overthinking_gis/"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 00:47:42",
       "https://news.ycombinator.com/item?id=44476799"
     ],
     [
-      "Mirage: First AI-Native UGC Game Engine Powered by Real-Time World Model",
+      "Mirage: AI-native UGC game engine powered by real-time world model",
       "https://blog.dynamicslab.ai"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 11:43:53",
-      "https://news.ycombinator.com/item?id=44472057"
-    ],
-    [
-      "1945 TV Console Showed Two Programs at Once",
-      "https://spectrum.ieee.org/dumont-duoscopic-tv-set"
     ]
   ],
   [
@@ -275,8 +265,28 @@
       "https://news.ycombinator.com/item?id=44463249"
     ],
     [
-      "More than 1 in 5 Show HN posts are now AI-related, get > half the votes/comments",
+      "Data on AI-related Show HN posts",
       "https://ryanfarley.co/ai-show-hn-data/"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 05:12:55",
+      "https://news.ycombinator.com/item?id=44461305"
+    ],
+    [
+      "Evaluating the factuality of verifiable claims in long-form text generation",
+      "https://aclanthology.org/2024.findings-emnlp.552/"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 16:55:37",
+      "https://news.ycombinator.com/item?id=44457027"
+    ],
+    [
+      "Curzio Malaparte's Shock Tactics",
+      "https://www.newyorker.com/books/under-review/curzio-malapartes-shock-tactics"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Corrected UTF-8 (2022)",
       "https://www.owlfolio.org/development/corrected-utf-8/"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 04:04:49",
-      "https://news.ycombinator.com/item?id=44451532"
-    ],
-    [
-      "Can we test it? Yes, was can [video]",
-      "https://www.youtube.com/watch?v=MqC3tudPH6w"
     ]
   ]
 ]
