@@ -221,32 +221,22 @@
   ],
   [
     [
+      "2025-07-06, 08:26:10",
+      "https://news.ycombinator.com/item?id=44478861"
+    ],
+    [
+      "Overthinking GIS (2024)",
+      "https://scottsexton.co/post/overthinking_gis/"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 00:47:42",
       "https://news.ycombinator.com/item?id=44476799"
     ],
     [
       "Mirage: First AI-Native UGC Game Engine Powered by Real-Time World Model",
       "https://blog.dynamicslab.ai"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 00:32:18",
-      "https://news.ycombinator.com/item?id=44476716"
-    ],
-    [
-      "Serving 200M requests per day with a CGI-bin",
-      "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 23:10:03",
-      "https://news.ycombinator.com/item?id=44476297"
-    ],
-    [
-      "Hidden interface controls that affect usability",
-      "https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Corrected UTF-8 (2022)",
       "https://www.owlfolio.org/development/corrected-utf-8/"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 04:04:49",
+      "https://news.ycombinator.com/item?id=44451532"
+    ],
+    [
+      "Can we test it? Yes, was can [video]",
+      "https://www.youtube.com/watch?v=MqC3tudPH6w"
     ]
   ]
 ]
