@@ -59,6 +59,7 @@
 * [2025-07-04, 09:59:43](https://news.ycombinator.com/item?id=44463063) - [The First Time I Was Almost Fired from Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
 * [2025-07-04, 09:43:04](https://news.ycombinator.com/item?id=44462947) - [Larry (Cat)](https://en.wikipedia.org/wiki/Larry_(cat))
 * [2025-07-04, 09:34:56](https://news.ycombinator.com/item?id=44462896) - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
+* [2025-07-04, 09:19:31](https://news.ycombinator.com/item?id=44462770) - [Fictional K-pop bands zoom to top of US music charts](https://www.bbc.com/news/articles/clyl1zyv1y2o)
 * [2025-07-04, 08:57:58](https://news.ycombinator.com/item?id=44462615) - [Man goes viral after working for four startups at the same time](https://www.nbcnews.com/tech/internet/man-goes-viral-working-four-startups-time-rcna216890)
 * [2025-07-04, 08:17:28](https://news.ycombinator.com/item?id=44462361) - [Show HN: Soham Agent – Write cold emails like Soham Parekh](https://buildthatidea.com/sohamagent/6c604d4f-caac-475f-b489-d568210f905a)
 * [2025-07-04, 07:47:15](https://news.ycombinator.com/item?id=44462174) - [DRM Panic QR code generator](https://rust-for-linux.com/drm-panic-qr-code-generator)
