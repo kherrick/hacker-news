@@ -42,6 +42,7 @@
 * [2025-07-03, 14:05:05](https://news.ycombinator.com/item?id=44455222) - [Peasant Railgun](https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/)
 * [2025-07-03, 14:04:27](https://news.ycombinator.com/item?id=44455218) - [Doom Didn't Kill the Amiga (2024)](https://www.datagubbe.se/afb/)
 * [2025-07-03, 14:02:16](https://news.ycombinator.com/item?id=44455196) - [Robots move Shanghai city block [video]](https://www.youtube.com/watch?v=7ZccC9BnT8k)
+* [2025-07-03, 14:00:16](https://news.ycombinator.com/item?id=44455175) - [François Chollet: The Arc Prize and How We Get to AGI [video]](https://www.youtube.com/watch?v=5QcCeSsNRks)
 * [2025-07-03, 13:54:15](https://news.ycombinator.com/item?id=44455124) - [Baba Is Eval](https://fi-le.net/baba/)
 * [2025-07-03, 13:44:55](https://news.ycombinator.com/item?id=44455022) - [Where is my von Braun wheel?](https://angadh.com/wherevonbraunwheel)
 * [2025-07-03, 13:18:59](https://news.ycombinator.com/item?id=44454758) - [Head in the Clouds](https://www.commonwealmagazine.org/head-clouds)
