@@ -11,6 +11,7 @@
 * [2025-07-04, 22:21:17](https://news.ycombinator.com/item?id=44468380) - [Show HN: Tinykv – Minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
 * [2025-07-04, 22:20:48](https://news.ycombinator.com/item?id=44468375) - [Ask HN: Worth leaving position over push to adopt vibe coding?](https://news.ycombinator.com/item?id=44468375)
 * [2025-07-04, 21:58:25](https://news.ycombinator.com/item?id=44468175) - [Nvidia Is Full of Shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
+* [2025-07-04, 21:49:03](https://news.ycombinator.com/item?id=44468114) - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
 * [2025-07-04, 21:38:04](https://news.ycombinator.com/item?id=44468058) - [Prompting LLMs is not engineering](https://dmitriid.com/prompting-llms-is-not-engineering)
 * [2025-07-04, 21:16:57](https://news.ycombinator.com/item?id=44467949) - [Everything around LLMs is still magical and wishful thinking](https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking)
 * [2025-07-04, 21:11:53](https://news.ycombinator.com/item?id=44467914) - [The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?](https://www.datagubbe.se/amix/)
