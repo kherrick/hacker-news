@@ -23,6 +23,7 @@
 * [2025-07-05, 18:45:50](https://news.ycombinator.com/item?id=44474663) - [A new law in Sweden makes it illegal to buy custom adult content](https://www.euronews.com/next/2025/06/22/takes-away-our-safest-option-adult-creators-react-to-law-banning-online-sex-purchases-in-s)
 * [2025-07-05, 18:28:31](https://news.ycombinator.com/item?id=44474573) - [AI winter is well on its way (2018)](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)
 * [2025-07-05, 18:21:21](https://news.ycombinator.com/item?id=44474531) - [How to not pay your taxes legally, apparently](https://mrsteinberg.com/how-to-not-pay-your-taxes-legally-apparently/)
+* [2025-07-05, 18:15:13](https://news.ycombinator.com/item?id=44474485) - [Artist in Residence on a Satellite](http://global.cafa.edu.cn/infoDetail/1/324)
 * [2025-07-05, 17:43:01](https://news.ycombinator.com/item?id=44474297) - [Seine reopens to Paris swimmers after century-long ban](https://www.lemonde.fr/en/france/article/2025/07/05/seine-reopens-to-paris-swimmers-after-century-long-ban_6743058_7.html)
 * [2025-07-05, 16:42:19](https://news.ycombinator.com/item?id=44473888) - [Speeding up PostgreSQL dump/restore snapshots](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
 * [2025-07-05, 16:38:41](https://news.ycombinator.com/item?id=44473871) - [The Calculator-on-a-Chip (2015)](http://www.vintagecalculators.com/html/the_calculator-on-a-chip.html)

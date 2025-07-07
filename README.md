@@ -2,7 +2,6 @@
 
 * [2025-07-07, 22:11:58](https://news.ycombinator.com/item?id=44495154) - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
 * [2025-07-07, 20:36:54](https://news.ycombinator.com/item?id=44494430) - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
-* [2025-07-07, 20:18:30](https://news.ycombinator.com/item?id=44494255) - [How did X-Rays gain mass adoption?](https://www.aditharun.com/p/how-did-x-rays-gain-mass-adoption)
 * [2025-07-07, 19:07:13](https://news.ycombinator.com/item?id=44493640) - [Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs](https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html)
 * [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
 * [2025-07-07, 17:58:04](https://news.ycombinator.com/item?id=44492986) - [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
@@ -22,6 +21,7 @@
 * [2025-07-06, 10:38:27](https://news.ycombinator.com/item?id=44479502) - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
 * [2025-07-05, 23:28:30](https://news.ycombinator.com/item?id=44476382) - [Solving Wordle with uv's dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
 * [2025-07-05, 23:19:28](https://news.ycombinator.com/item?id=44476339) - [Show HN: From Photos to Positions: Prototyping VLM-Based Indoor Maps](https://arjo129.github.io/blog/5-7-2025-From-Photos-To-Positions-Prototyping.html)
+* [2025-07-05, 18:15:13](https://news.ycombinator.com/item?id=44474485) - [Artist in Residence on a Satellite](http://global.cafa.edu.cn/infoDetail/1/324)
 * [2025-07-05, 08:02:56](https://news.ycombinator.com/item?id=44470942) - [The Miyawaki Method of micro-forestry](https://www.futureecologies.net/listen/fe-6-5-the-method)
 * [2025-07-04, 23:15:18](https://news.ycombinator.com/item?id=44468753) - [Lightfastness Testing of Colored Pencils](https://sarahrenaeclark.com/lightfast-testing-pencils/)
 * [2025-07-04, 20:58:53](https://news.ycombinator.com/item?id=44467838) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
