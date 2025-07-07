@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-07, 03:52:40",
-      "https://news.ycombinator.com/item?id=44486599"
+      "2025-07-07, 03:41:32",
+      "https://news.ycombinator.com/item?id=44486541"
     ],
     [
-      "Ziglings: Learn Zig by fixing broken programs",
-      "https://codeberg.org/ziglings/exercises"
+      "The Era of Full Stack Chip Designers",
+      "https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-07-06, 22:26:44",
+      "https://news.ycombinator.com/item?id=44484682"
+    ],
+    [
+      "A non-anthropomorphized view of LLMs",
+      "http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 22:16:37",
       "https://news.ycombinator.com/item?id=44484595"
     ],
@@ -107,6 +117,26 @@
     [
       "Building the Rust Compiler with GCC",
       "https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 21:27:28",
+      "https://news.ycombinator.com/item?id=44484207"
+    ],
+    [
+      "LLMs should not replace therapists",
+      "https://arxiv.org/abs/2504.18412"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 21:18:26",
+      "https://news.ycombinator.com/item?id=44484137"
+    ],
+    [
+      "Why English doesn't use accents",
+      "https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-07-06, 17:29:36",
-      "https://news.ycombinator.com/item?id=44482522"
-    ],
-    [
-      "AI is coming for agriculture, but farmers aren’t convinced",
-      "https://theconversation.com/shit-in-shit-out-ai-is-coming-for-agriculture-but-farmers-arent-convinced-259997"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 17:26:47",
       "https://news.ycombinator.com/item?id=44482504"
     ],
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2025-07-06, 17:00:02",
-      "https://news.ycombinator.com/item?id=44482301"
+      "2025-07-06, 16:46:01",
+      "https://news.ycombinator.com/item?id=44482194"
     ],
     [
-      "Metriport (YC S22) is hiring engineers to improve healthcare data exchange",
-      "https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer"
+      "Async Queue – One of my favorite programming interview questions",
+      "https://davidgomes.com/async-queue-interview-ai/"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "Functions Are Vectors (2023)",
       "https://thenumb.at/Functions-are-Vectors/"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 14:48:37",
-      "https://news.ycombinator.com/item?id=44481235"
-    ],
-    [
-      "Claude Code Pro Limit? Hack It While You Sleep",
-      "https://github.com/terryso/claude-auto-resume"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-07-04, 16:12:57",
-      "https://news.ycombinator.com/item?id=44465757"
-    ],
-    [
-      "The Private Agent Memory Fallacy",
-      "https://blog.getzep.com/the-ai-memory-wallet-fallacy/"
-    ]
-  ],
-  [
-    [
       "2025-07-04, 13:48:19",
       "https://news.ycombinator.com/item?id=44464536"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-07-04, 01:45:15",
+      "https://news.ycombinator.com/item?id=44460498"
+    ],
+    [
+      "Neanderthals operated prehistoric “fat factory” on German lakeshore",
+      "https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 23:12:07",
       "https://news.ycombinator.com/item?id=44459877"
     ],
     [
       "Uncommon Uses of Python in Commonly Used Libraries (2022)",
       "https://eugeneyan.com/writing/uncommon-python/"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 23:33:43",
-      "https://news.ycombinator.com/item?id=44449970"
-    ],
-    [
-      "The War on the Walkman",
-      "https://newsletter.pessimistsarchive.org/p/the-forgotten-war-on-the-walkman"
     ]
   ]
 ]
