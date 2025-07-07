@@ -52,6 +52,7 @@
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
 * [2025-07-05, 08:49:45](https://news.ycombinator.com/item?id=44471175) - [Making My Own Hacktoberfest T-Shirts](https://shkspr.mobi/blog/2025/07/making-my-own-hacktoberfest-t-shirts/)
 * [2025-07-05, 08:43:41](https://news.ycombinator.com/item?id=44471150) - [Gecode is an open source C++ toolkit for developing constraint-based systems](https://www.gecode.org/)
+* [2025-07-05, 08:02:56](https://news.ycombinator.com/item?id=44470942) - [The Miyawaki Method of micro-forestry](https://www.futureecologies.net/listen/fe-6-5-the-method)
 * [2025-07-05, 07:35:53](https://news.ycombinator.com/item?id=44470803) - [French City of Lyon Kicks Out Microsoft](https://news.itsfoss.com/french-city-replaces-microsoft/)
 * [2025-07-05, 07:22:18](https://news.ycombinator.com/item?id=44470746) - [A new, 200% faster DeepSeek R1-0528 variant appears from German lab](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)
 * [2025-07-05, 07:00:29](https://news.ycombinator.com/item?id=44470656) - [Telli (YC F24) Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)

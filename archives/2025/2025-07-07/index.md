@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New Sphere-Packing Record Stems from an Unexpected Source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
+* [2025-07-07, 17:58:04](https://news.ycombinator.com/item?id=44492986) - [My first verified (imperative) program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 * [2025-07-07, 17:41:39](https://news.ycombinator.com/item?id=44492792) - [Bridgefy SDK – Make your mobile app work without the Internet](https://bridgefy.me/sdk/)
 * [2025-07-07, 17:07:05](https://news.ycombinator.com/item?id=44492405) - [Show HN: Ossia score – a sequencer for audio-visual artists](https://github.com/ossia/score)
 * [2025-07-07, 16:16:49](https://news.ycombinator.com/item?id=44491860) - [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
