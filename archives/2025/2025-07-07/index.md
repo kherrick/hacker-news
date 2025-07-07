@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 16:16:49](https://news.ycombinator.com/item?id=44491860) - [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
+* [2025-07-07, 16:15:52](https://news.ycombinator.com/item?id=44491855) - [Show HN: Unlearning Comparator, a visual tool to compare machine unlearning](https://gnueaj.github.io/Machine-Unlearning-Comparator/)
+* [2025-07-07, 15:37:28](https://news.ycombinator.com/item?id=44491460) - [tinymcp: Let LLMs control embedded devices via the Model Context Protocol](https://github.com/golioth/tinymcp)
 * [2025-07-07, 15:23:57](https://news.ycombinator.com/item?id=44491333) - [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
 * [2025-07-07, 14:58:09](https://news.ycombinator.com/item?id=44491071) - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
 * [2025-07-07, 14:45:15](https://news.ycombinator.com/item?id=44490911) - [Dyson, techno-centric design and social consumption](https://2earth.github.io/website/20250707.html)
@@ -11,10 +14,12 @@
 * [2025-07-07, 14:42:12](https://news.ycombinator.com/item?id=44490883) - [Tuning the Prusa Core One](https://arachnoid.com/3D_Printing_Prusa_Core_One/)
 * [2025-07-07, 14:40:45](https://news.ycombinator.com/item?id=44490863) - [Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863)
 * [2025-07-07, 14:13:56](https://news.ycombinator.com/item?id=44490588) - [Show HN: NYC Subway Simulator and Route Designer](https://buildmytransit.nyc)
+* [2025-07-07, 13:52:51](https://news.ycombinator.com/item?id=44490386) - [CPU-X: CPU-Z for Linux](https://thetumultuousunicornofdarkness.github.io/CPU-X/)
 * [2025-07-07, 13:41:55](https://news.ycombinator.com/item?id=44490299) - [Showh HN: Microjax - Jax in two classes and six functions](https://github.com/joelburget/microjax)
 * [2025-07-07, 12:44:19](https://news.ycombinator.com/item?id=44489803) - [o3 used my saved Pocket links to profile me](https://noperator.dev/posts/o3-pocket-profile/)
 * [2025-07-07, 12:43:16](https://news.ycombinator.com/item?id=44489797) - [New Quantum Paradox Clarifies Where Our Views of Reality Go Wrong](https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/)
 * [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
+* [2025-07-07, 12:15:17](https://news.ycombinator.com/item?id=44489552) - [AI Cameras Change Driver Behavior at Intersections](https://spectrum.ieee.org/ai-intersection-monitoring)
 * [2025-07-07, 10:44:04](https://news.ycombinator.com/item?id=44488810) - [Ask HN: Any resources for finding non-smart appliances?](https://news.ycombinator.com/item?id=44488810)
 * [2025-07-07, 09:43:57](https://news.ycombinator.com/item?id=44488480) - [XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
 * [2025-07-07, 09:20:38](https://news.ycombinator.com/item?id=44488331) - [Anthropic downloaded over 7M pirated books to train Claude, a judge said](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
