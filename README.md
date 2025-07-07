@@ -2,6 +2,8 @@
 
 * [2025-07-07, 15:23:57](https://news.ycombinator.com/item?id=44491333) - [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
 * [2025-07-07, 14:58:09](https://news.ycombinator.com/item?id=44491071) - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
+* [2025-07-07, 14:45:15](https://news.ycombinator.com/item?id=44490911) - [Dyson, techno-centric design and social consumption](https://2earth.github.io/website/20250707.html)
+* [2025-07-07, 14:44:28](https://news.ycombinator.com/item?id=44490900) - [Show HN: Integrated System for Enhancing VIC Output](https://github.com/Bloodmosher/ISEVIC)
 * [2025-07-07, 14:42:12](https://news.ycombinator.com/item?id=44490883) - [Tuning the Prusa Core One](https://arachnoid.com/3D_Printing_Prusa_Core_One/)
 * [2025-07-07, 14:40:45](https://news.ycombinator.com/item?id=44490863) - [Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863)
 * [2025-07-07, 14:13:56](https://news.ycombinator.com/item?id=44490588) - [Show HN: NYC Subway Simulator and Route Designer](https://buildmytransit.nyc)
@@ -17,7 +19,6 @@
 * [2025-07-06, 21:18:26](https://news.ycombinator.com/item?id=44484137) - [Why English doesn't use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
 * [2025-07-06, 21:01:51](https://news.ycombinator.com/item?id=44484026) - [Thesis: Interesting work is less amenable to the use of AI](https://remark.ing/rob/rob/Thesis-interesting-work-ie)
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
-* [2025-07-06, 17:26:47](https://news.ycombinator.com/item?id=44482504) - [Opencode: AI coding agent, built for the terminal](https://github.com/sst/opencode)
 * [2025-07-06, 16:46:01](https://news.ycombinator.com/item?id=44482194) - [Async Queue – One of my favorite programming interview questions](https://davidgomes.com/async-queue-interview-ai/)
 * [2025-07-06, 10:38:27](https://news.ycombinator.com/item?id=44479502) - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
 * [2025-07-05, 23:28:30](https://news.ycombinator.com/item?id=44476382) - [Solving Wordle with uv's dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
@@ -27,7 +28,6 @@
 * [2025-07-04, 20:58:53](https://news.ycombinator.com/item?id=44467838) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
 * [2025-07-04, 04:16:12](https://news.ycombinator.com/item?id=44461082) - [Hymn to Babylon, missing for a millennium, has been discovered](https://phys.org/news/2025-07-hymn-babylon-millennium.html)
 * [2025-07-04, 01:45:15](https://news.ycombinator.com/item?id=44460498) - [Neanderthals operated prehistoric “fat factory” on German lakeshore](https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/)
-* [2025-07-03, 20:29:45](https://news.ycombinator.com/item?id=44458896) - [What every programmer should know about how CPUs work [video]](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-07-03, 14:07:48](https://news.ycombinator.com/item?id=44455240) - [Cpparinfer: A C++23 implementation of the parinfer algorithm](https://gitlab.com/w0utert/cpparinfer)
 * [2025-07-03, 14:00:16](https://news.ycombinator.com/item?id=44455175) - [François Chollet: The Arc Prize and How We Get to AGI [video]](https://www.youtube.com/watch?v=5QcCeSsNRks)
 
