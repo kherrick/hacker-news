@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 13:41:55](https://news.ycombinator.com/item?id=44490299) - [Showh HN: Microjax - Jax in two classes and six functions](https://github.com/joelburget/microjax)
+* [2025-07-07, 12:44:19](https://news.ycombinator.com/item?id=44489803) - [o3 used my saved Pocket links to profile me](https://noperator.dev/posts/o3-pocket-profile/)
 * [2025-07-07, 12:43:16](https://news.ycombinator.com/item?id=44489797) - [New Quantum Paradox Clarifies Where Our Views of Reality Go Wrong](https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/)
 * [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
 * [2025-07-07, 10:44:04](https://news.ycombinator.com/item?id=44488810) - [Ask HN: Any resources for finding non-smart appliances?](https://news.ycombinator.com/item?id=44488810)
