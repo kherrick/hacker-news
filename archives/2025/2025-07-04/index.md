@@ -22,6 +22,7 @@
 * [2025-07-04, 20:49:07](https://news.ycombinator.com/item?id=44467780) - [America Is Killing Its Chance to Find Alien Life](https://www.theatlantic.com/science/archive/2025/07/nasa-observatory-funding-trump-alien-life/683427/)
 * [2025-07-04, 20:16:10](https://news.ycombinator.com/item?id=44467539) - [Open Source and FPGA Maker Board for Networking](https://privateisland.tech/betsy)
 * [2025-07-04, 19:56:15](https://news.ycombinator.com/item?id=44467383) - [How to get started with Old English poetry](https://www.deadlanguagesociety.com/p/old-english-poetry)
+* [2025-07-04, 19:55:27](https://news.ycombinator.com/item?id=44467379) - [Why are there no good dinosaur films?](https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films)
 * [2025-07-04, 19:45:08](https://news.ycombinator.com/item?id=44467312) - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
 * [2025-07-04, 19:40:02](https://news.ycombinator.com/item?id=44467279) - [Show HN: AirBending – hand gesture based macOS app MIDI controller](https://www.nanassound.com/products/software/airbending)
 * [2025-07-04, 18:44:20](https://news.ycombinator.com/item?id=44466903) - [Valve conquered PC gaming – what comes next?](https://www.ft.com/content/f4a13716-838a-43da-853b-7c31ac17192c)
