@@ -77,3 +77,4 @@
 * [2025-07-04, 03:55:47](https://news.ycombinator.com/item?id=44461015) - [LooksMapping](https://looksmapping.com/)
 * [2025-07-04, 03:48:21](https://news.ycombinator.com/item?id=44460991) - [Electronic Arts Leadership Are Out of Their Goddamned Minds](https://aftermath.site/ea-dice-battlefield-battle-royale-free-to-play-f2p)
 * [2025-07-04, 02:04:55](https://news.ycombinator.com/item?id=44460552) - [My open source project was stolen and relicensed by a YC company](https://twitter.com/soham_btw/status/1940952786491027886)
+* [2025-07-04, 01:45:15](https://news.ycombinator.com/item?id=44460498) - [Neanderthals operated prehistoric “fat factory” on German lakeshore](https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/)
