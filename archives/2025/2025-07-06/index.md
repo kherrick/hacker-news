@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 23:55:24](https://news.ycombinator.com/item?id=44485286) - [Show HN: Modernized File Manager and Program Manager from Windows 3.x](https://github.com/brianluft/heirloom)
 * [2025-07-06, 23:49:52](https://news.ycombinator.com/item?id=44485241) - [Swedish Campground: \"There are too many Apples on the screen!\"](https://www.folklore.org/Swedish_Campground.html)
 * [2025-07-06, 23:12:05](https://news.ycombinator.com/item?id=44484994) - [Centaur: A Controversial Leap Towards Simulating Human Cognition](https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/)
 * [2025-07-06, 22:54:21](https://news.ycombinator.com/item?id=44484874) - [The Broken Microsoft Pact: Layoffs and Performance Management](https://danielsada.tech/blog/microsoft-pact/)
