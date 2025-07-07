@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-07, 04:40:49](https://news.ycombinator.com/item?id=44486818) - ['Improved' Grok Criticizes Democrats and Hollywood's 'Jewish Executives'](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
 * [2025-07-07, 03:52:40](https://news.ycombinator.com/item?id=44486599) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 * [2025-07-07, 02:36:57](https://news.ycombinator.com/item?id=44486235) - [High Performance Image Sensor Processing Using FPGA [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
 * [2025-07-07, 00:57:25](https://news.ycombinator.com/item?id=44485649) - [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
@@ -28,7 +29,6 @@
 * [2025-07-04, 13:48:19](https://news.ycombinator.com/item?id=44464536) - [Lessons from creating my first text adventure](https://entropicthoughts.com/lessons-from-creating-first-text-adventure)
 * [2025-07-04, 10:35:04](https://news.ycombinator.com/item?id=44463249) - [Data on AI-related Show HN posts](https://ryanfarley.co/ai-show-hn-data/)
 * [2025-07-04, 09:59:43](https://news.ycombinator.com/item?id=44463063) - [The First Time I Was Almost Fired from Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
-* [2025-07-04, 05:12:55](https://news.ycombinator.com/item?id=44461305) - [Evaluating the factuality of verifiable claims in long-form text generation](https://aclanthology.org/2024.findings-emnlp.552/)
 * [2025-07-03, 23:12:07](https://news.ycombinator.com/item?id=44459877) - [Uncommon Uses of Python in Commonly Used Libraries (2022)](https://eugeneyan.com/writing/uncommon-python/)
 
 ## [Archives](archives/index.md)

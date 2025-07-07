@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 04:40:49](https://news.ycombinator.com/item?id=44486818) - ['Improved' Grok Criticizes Democrats and Hollywood's 'Jewish Executives'](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
 * [2025-07-07, 03:52:40](https://news.ycombinator.com/item?id=44486599) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 * [2025-07-07, 03:31:33](https://news.ycombinator.com/item?id=44486499) - [Why Austin Is Falling Out of Favor for Tech Workers](https://www.wsj.com/podcasts/tech-news-briefing/why-austin-is-falling-out-of-favor-for-tech-workers/8bc9e026-76ef-46c8-933e-ec6901b3eb38)
 * [2025-07-07, 03:29:50](https://news.ycombinator.com/item?id=44486490) - [Southern Ocean Circulation Reversed](https://iefworld.org/SMOCreversal2025)
