@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-07, 17:07:05](https://news.ycombinator.com/item?id=44492405) - [Show HN: Ossia score – a sequencer for audio-visual artists](https://github.com/ossia/score)
 * [2025-07-07, 16:16:49](https://news.ycombinator.com/item?id=44491860) - [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
 * [2025-07-07, 16:15:52](https://news.ycombinator.com/item?id=44491855) - [Show HN: Unlearning Comparator, a visual tool to compare machine unlearning](https://gnueaj.github.io/Machine-Unlearning-Comparator/)
 * [2025-07-07, 15:37:28](https://news.ycombinator.com/item?id=44491460) - [tinymcp: Let LLMs control embedded devices via the Model Context Protocol](https://github.com/golioth/tinymcp)
@@ -17,7 +18,6 @@
 * [2025-07-07, 12:15:17](https://news.ycombinator.com/item?id=44489552) - [AI Cameras Change Driver Behavior at Intersections](https://spectrum.ieee.org/ai-intersection-monitoring)
 * [2025-07-07, 09:20:38](https://news.ycombinator.com/item?id=44488331) - [Anthropic cut up millions of used books, and downloaded 7M pirated ones – judge](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 * [2025-07-07, 00:05:46](https://news.ycombinator.com/item?id=44485342) - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
-* [2025-07-06, 22:27:39](https://news.ycombinator.com/item?id=44484688) - [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
 * [2025-07-06, 22:26:44](https://news.ycombinator.com/item?id=44484682) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 * [2025-07-06, 21:18:26](https://news.ycombinator.com/item?id=44484137) - [Why English doesn't use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
