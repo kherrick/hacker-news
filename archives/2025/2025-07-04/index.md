@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
 * [2025-07-04, 23:57:21](https://news.ycombinator.com/item?id=44468999) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
+* [2025-07-04, 23:28:48](https://news.ycombinator.com/item?id=44468833) - [The Cat's Meat Man: Feeding Felines in Victorian London](https://publicdomainreview.org/essay/the-cats-meat-man/)
 * [2025-07-04, 22:58:40](https://news.ycombinator.com/item?id=44468641) - [Who is Soham Parekh, the serial moonlighter Silicon Valley can't stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
 * [2025-07-04, 22:35:20](https://news.ycombinator.com/item?id=44468489) - [Homotopies in multiway (nondeterministic) rewriting systems as n-fold categories](https://arxiv.org/abs/2105.10822)
 * [2025-07-04, 22:21:17](https://news.ycombinator.com/item?id=44468380) - [Show HN: Tinykv – Minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
