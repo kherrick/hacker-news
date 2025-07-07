@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-07, 13:41:55](https://news.ycombinator.com/item?id=44490299) - [Showh HN: Microjax - Jax in two classes and six functions](https://github.com/joelburget/microjax)
-* [2025-07-07, 12:44:19](https://news.ycombinator.com/item?id=44489803) - [o3 used my saved Pocket links to profile me](https://noperator.dev/posts/o3-pocket-profile/)
-* [2025-07-07, 12:43:16](https://news.ycombinator.com/item?id=44489797) - [New quantum paradox clarifies where our views of reality go wrong (2018)](https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/)
 * [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
+* [2025-07-07, 09:20:38](https://news.ycombinator.com/item?id=44488331) - [Anthropic downloaded over 7M pirated books to train Claude, a judge said](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 * [2025-07-07, 02:36:57](https://news.ycombinator.com/item?id=44486235) - [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
 * [2025-07-07, 00:05:46](https://news.ycombinator.com/item?id=44485342) - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
 * [2025-07-06, 23:49:52](https://news.ycombinator.com/item?id=44485241) - [Swedish Campground (2004)](https://www.folklore.org/Swedish_Campground.html)
@@ -18,6 +17,7 @@
 * [2025-07-06, 18:32:55](https://news.ycombinator.com/item?id=44482965) - [Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
 * [2025-07-06, 17:26:47](https://news.ycombinator.com/item?id=44482504) - [Opencode: AI coding agent, built for the terminal](https://github.com/sst/opencode)
 * [2025-07-06, 16:46:01](https://news.ycombinator.com/item?id=44482194) - [Async Queue – One of my favorite programming interview questions](https://davidgomes.com/async-queue-interview-ai/)
+* [2025-07-06, 15:18:35](https://news.ycombinator.com/item?id=44481464) - [Functions Are Vectors (2023)](https://thenumb.at/Functions-are-Vectors/)
 * [2025-07-06, 12:32:46](https://news.ycombinator.com/item?id=44480223) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-06, 10:38:27](https://news.ycombinator.com/item?id=44479502) - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
 * [2025-07-04, 23:28:48](https://news.ycombinator.com/item?id=44468833) - [The Cat's Meat Man: Feeding Felines in Victorian London](https://publicdomainreview.org/essay/the-cats-meat-man/)
