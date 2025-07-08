@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 14:29:46](https://news.ycombinator.com/item?id=44500340) - [Show HN: Trying to eat better? I built a nutrional assistant](https://chat.eko-bazaar.com/)
 * [2025-07-08, 14:27:23](https://news.ycombinator.com/item?id=44500315) - [TSA to end shoes-off policy for airport security screening](https://abcnews.go.com/US/tsa-end-shoes-off-policy-airport-security-screening/story?id=123556295)
 * [2025-07-08, 14:01:42](https://news.ycombinator.com/item?id=44500066) - [Show HN: I built a tool to solve window management once and for all](https://aboveaverageuser.com/smartswitcher)
 * [2025-07-08, 12:00:53](https://news.ycombinator.com/item?id=44499183) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-08, 14:27:23](https://news.ycombinator.com/item?id=44500315) - [TSA to end shoes-off policy for airport security screening](https://abcnews.go.com/US/tsa-end-shoes-off-policy-airport-security-screening/story?id=123556295)
+* [2025-07-08, 14:29:46](https://news.ycombinator.com/item?id=44500340) - [Show HN: Trying to eat better? I built a nutrional assistant](https://chat.eko-bazaar.com/)
 * [2025-07-08, 14:01:42](https://news.ycombinator.com/item?id=44500066) - [Show HN: I built a tool to solve window management once and for all](https://aboveaverageuser.com/smartswitcher)
 * [2025-07-08, 12:00:53](https://news.ycombinator.com/item?id=44499183) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)
 * [2025-07-08, 08:57:01](https://news.ycombinator.com/item?id=44498296) - [Show HN: OffChess – Offline chess puzzles app](https://offchess.com)
@@ -14,6 +14,7 @@
 * [2025-07-07, 12:44:19](https://news.ycombinator.com/item?id=44489803) - [I used o3 to profile myself from my saved Pocket links](https://noperator.dev/posts/o3-pocket-profile/)
 * [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-fast language models based on diffusion](https://arxiv.org/abs/2506.17298)
 * [2025-07-06, 10:38:27](https://news.ycombinator.com/item?id=44479502) - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
+* [2025-07-05, 23:28:30](https://news.ycombinator.com/item?id=44476382) - [Solving Wordle with uv's dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
 * [2025-07-05, 22:15:08](https://news.ycombinator.com/item?id=44476023) - [Reflections on 2 years of CPython's JIT Compiler: The good, the bad, the ugly](https://fidget-spinner.github.io/posts/jit-reflections.html)
 * [2025-07-05, 12:13:50](https://news.ycombinator.com/item?id=44472246) - [Berry Script: lightweight embedded scripting language for microcontrollers](https://berry-lang.github.io/)
 * [2025-07-05, 11:44:05](https://news.ycombinator.com/item?id=44472062) - [Apple just released a weirdly interesting coding language model](https://9to5mac.com/2025/07/04/apple-just-released-a-weirdly-interesting-coding-language-model/)
@@ -23,7 +24,6 @@
 * [2025-07-04, 23:15:18](https://news.ycombinator.com/item?id=44468753) - [Lightfastness Testing of Colored Pencils](https://sarahrenaeclark.com/lightfast-testing-pencils/)
 * [2025-07-04, 23:10:11](https://news.ycombinator.com/item?id=44468718) - [What Microchip doesn't (officially) tell you about the VSC8512](https://serd.es/2025/07/04/Switch-project-pt3.html)
 * [2025-07-04, 21:32:16](https://news.ycombinator.com/item?id=44468022) - [Memstop: Use LD_PRELOAD to delay process execution when low on memory](https://github.com/surban/memstop)
-* [2025-07-04, 20:31:59](https://news.ycombinator.com/item?id=44467657) - [# [derive(Clone)] Is Broken](https://rgbcu.be/blog/derive-broken/)
 * [2025-07-04, 19:55:27](https://news.ycombinator.com/item?id=44467379) - [Why are there no good dinosaur films?](https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films)
 * [2025-07-04, 16:49:27](https://news.ycombinator.com/item?id=44466030) - [Can an email go 500 miles in 2025?](https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025)
 * [2025-07-04, 13:57:19](https://news.ycombinator.com/item?id=44464628) - [Epanet-JS](https://macwright.com/2025/07/03/epanet-placemark)
