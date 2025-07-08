@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 19:02:43](https://news.ycombinator.com/item?id=44502957) - [TSA expected to phase out shoe removal policy at airport security](https://www.tennessean.com/story/travel/2025/07/08/tsa-shoe-removal-policy-tennessee-airports-phase-out/84506399007/)
+* [2025-07-08, 18:48:06](https://news.ycombinator.com/item?id=44502850) - [Fast cryptographically safe GUID generator for Go](https://github.com/sdrapkin/guid)
+* [2025-07-08, 18:34:08](https://news.ycombinator.com/item?id=44502722) - [Brainwash '72 [video]](https://archive.org/details/Brainwash72)
 * [2025-07-08, 18:10:46](https://news.ycombinator.com/item?id=44502527) - [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
 * [2025-07-08, 18:03:20](https://news.ycombinator.com/item?id=44502463) - [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
 * [2025-07-08, 17:52:28](https://news.ycombinator.com/item?id=44502366) - [LLM-Ready Training Dataset for Apple's Foundation Models (iOS 26)](https://rileyhealth.gumroad.com/l/bwoqe)
