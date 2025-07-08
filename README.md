@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-08, 16:37:23](https://news.ycombinator.com/item?id=44501655) - [Junior Roles Aren't Going Away](https://iamcharliegraham.substack.com/p/junior-roles-arent-going-away)
 * [2025-07-08, 16:13:40](https://news.ycombinator.com/item?id=44501413) - [Smollm3: Smol, multilingual, long-context reasoner LLM](https://huggingface.co/blog/smollm3)
 * [2025-07-08, 16:11:20](https://news.ycombinator.com/item?id=44501379) - [Google can now read your WhatsApp messages](https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/)
 * [2025-07-08, 15:42:34](https://news.ycombinator.com/item?id=44501076) - [Show HN: Sumble – knowledge graph for GTM data – query tech stack, key projects](https://sumble.com)
@@ -21,6 +20,7 @@
 * [2025-07-05, 12:13:50](https://news.ycombinator.com/item?id=44472246) - [Berry Script: lightweight embedded scripting language for microcontrollers](https://berry-lang.github.io/)
 * [2025-07-05, 11:40:43](https://news.ycombinator.com/item?id=44472036) - [On The Meaning of Ritual](https://alicemaz.substack.com/p/on-the-meaning-of-ritual)
 * [2025-07-05, 09:34:13](https://news.ycombinator.com/item?id=44471388) - [Exploring Coroutines in PHP](https://doeken.org/blog/coroutines-in-php)
+* [2025-07-05, 09:06:14](https://news.ycombinator.com/item?id=44471251) - [CU Randomness Beacon](https://random.colorado.edu/)
 * [2025-07-05, 08:02:56](https://news.ycombinator.com/item?id=44470942) - [The Miyawaki Method of micro-forestry](https://www.futureecologies.net/listen/fe-6-5-the-method)
 * [2025-07-04, 23:10:11](https://news.ycombinator.com/item?id=44468718) - [What Microchip doesn't (officially) tell you about the VSC8512](https://serd.es/2025/07/04/Switch-project-pt3.html)
 * [2025-07-04, 21:32:16](https://news.ycombinator.com/item?id=44468022) - [Memstop: Use LD_PRELOAD to delay process execution when low on memory](https://github.com/surban/memstop)
