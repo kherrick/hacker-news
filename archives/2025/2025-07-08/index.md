@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 18:10:46](https://news.ycombinator.com/item?id=44502527) - [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
+* [2025-07-08, 18:03:20](https://news.ycombinator.com/item?id=44502463) - [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
 * [2025-07-08, 17:48:29](https://news.ycombinator.com/item?id=44502330) - [CVE-2025-48384: Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
+* [2025-07-08, 17:46:55](https://news.ycombinator.com/item?id=44502318) - [Supabase MCP leaks your entire SQL Database, a lethal trifecta attack](https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/)
 * [2025-07-08, 17:44:35](https://news.ycombinator.com/item?id=44502298) - [Radium – The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [2025-07-08, 16:57:18](https://news.ycombinator.com/item?id=44501821) - [GlobalFoundries to Acquire MIPS](https://mips.com/press-releases/gf-mips/)
 * [2025-07-08, 16:49:12](https://news.ycombinator.com/item?id=44501743) - [AnyBlox: A Framework for Self-Decoding Datasets [pdf]](https://gienieczko.com/anyblox-paper)
@@ -19,6 +22,7 @@
 * [2025-07-08, 14:27:23](https://news.ycombinator.com/item?id=44500315) - [TSA to end shoes-off policy for airport security screening](https://abcnews.go.com/US/tsa-end-shoes-off-policy-airport-security-screening/story?id=123556295)
 * [2025-07-08, 14:01:42](https://news.ycombinator.com/item?id=44500066) - [Show HN: I built a tool to solve window management once and for all](https://aboveaverageuser.com/smartswitcher)
 * [2025-07-08, 13:41:43](https://news.ycombinator.com/item?id=44499873) - [Blind to Disruption – The CEOs Who Missed the Future](https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/)
+* [2025-07-08, 13:40:12](https://news.ycombinator.com/item?id=44499860) - [NuxtLabs is joining Vercel](https://nuxtlabs.com/)
 * [2025-07-08, 12:00:53](https://news.ycombinator.com/item?id=44499183) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)
 * [2025-07-08, 11:35:27](https://news.ycombinator.com/item?id=44499057) - [Firefox is fine. The people running it are not](https://www.theregister.com/2025/07/08/firefox_isnt_dead/)
 * [2025-07-08, 10:01:39](https://news.ycombinator.com/item?id=44498594) - [The Texas Flooding Tragedy: Could It Have Been Avoided?](https://cliffmass.blogspot.com/2025/07/the-texas-flooding-tragedy-could-it.html)
