@@ -28,6 +28,7 @@
 * [2025-07-07, 14:42:12](https://news.ycombinator.com/item?id=44490883) - [Tuning the Prusa Core One](https://arachnoid.com/3D_Printing_Prusa_Core_One/)
 * [2025-07-07, 14:40:45](https://news.ycombinator.com/item?id=44490863) - [Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec](https://news.ycombinator.com/item?id=44490863)
 * [2025-07-07, 14:13:56](https://news.ycombinator.com/item?id=44490588) - [Show HN: NYC Subway Simulator and Route Designer](https://buildmytransit.nyc)
+* [2025-07-07, 14:03:24](https://news.ycombinator.com/item?id=44490490) - [The Day You Became a Better Writer (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 * [2025-07-07, 13:52:51](https://news.ycombinator.com/item?id=44490386) - [CPU-X: CPU-Z for Linux](https://thetumultuousunicornofdarkness.github.io/CPU-X/)
 * [2025-07-07, 13:41:55](https://news.ycombinator.com/item?id=44490299) - [Showh HN: Microjax - Jax in two classes and six functions](https://github.com/joelburget/microjax)
 * [2025-07-07, 12:44:19](https://news.ycombinator.com/item?id=44489803) - [o3 used my saved Pocket links to profile me](https://noperator.dev/posts/o3-pocket-profile/)
