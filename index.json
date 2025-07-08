@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-07-08, 14:29:46",
-      "https://news.ycombinator.com/item?id=44500340"
+      "2025-07-08, 15:18:49",
+      "https://news.ycombinator.com/item?id=44500840"
     ],
     [
-      "Show HN: Trying to eat better? I built a nutrional assistant",
-      "https://chat.eko-bazaar.com/"
+      "Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing",
+      "https://www.jukeboxhq.com/"
     ]
   ],
   [
     [
-      "2025-07-08, 14:01:42",
-      "https://news.ycombinator.com/item?id=44500066"
+      "2025-07-08, 13:41:43",
+      "https://news.ycombinator.com/item?id=44499873"
     ],
     [
-      "Show HN: I built a tool to solve window management once and for all",
-      "https://aboveaverageuser.com/smartswitcher"
+      "Blind to Disruption – The CEOs Who Missed the Future",
+      "https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-07-08, 08:34:43",
-      "https://news.ycombinator.com/item?id=44498190"
-    ],
-    [
-      "WebAssembly: Yes, but for What?",
-      "https://queue.acm.org/detail.cfm?id=3746171"
-    ]
-  ],
-  [
-    [
       "2025-07-08, 01:44:59",
       "https://news.ycombinator.com/item?id=44496229"
     ],
@@ -71,6 +61,16 @@
   ],
   [
     [
+      "2025-07-07, 20:36:54",
+      "https://news.ycombinator.com/item?id=44494430"
+    ],
+    [
+      "Running a Certificate Transparency log",
+      "https://words.filippo.io/run-sunlight/"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 18:19:13",
       "https://news.ycombinator.com/item?id=44493196"
     ],
@@ -81,22 +81,22 @@
   ],
   [
     [
+      "2025-07-07, 17:58:04",
+      "https://news.ycombinator.com/item?id=44492986"
+    ],
+    [
+      "My first verified imperative program",
+      "https://markushimmel.de/blog/my-first-verified-imperative-program/"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 14:58:09",
       "https://news.ycombinator.com/item?id=44491071"
     ],
     [
       "Adding a feature because ChatGPT incorrectly thinks it exists",
       "https://www.holovaty.com/writing/chatgpt-fake-feature/"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 14:40:45",
-      "https://news.ycombinator.com/item?id=44490863"
-    ],
-    [
-      "Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec",
-      "https://news.ycombinator.com/item?id=44490863"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=44476023"
     ],
     [
-      "Reflections on 2 years of CPython's JIT Compiler: The good, the bad, the ugly",
+      "Reflections on 2 years of CPython's JIT Compiler",
       "https://fidget-spinner.github.io/posts/jit-reflections.html"
     ]
   ],
@@ -167,16 +167,6 @@
     [
       "Berry Script: lightweight embedded scripting language for microcontrollers",
       "https://berry-lang.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 11:44:05",
-      "https://news.ycombinator.com/item?id=44472062"
-    ],
-    [
-      "Apple just released a weirdly interesting coding language model",
-      "https://9to5mac.com/2025/07/04/apple-just-released-a-weirdly-interesting-coding-language-model/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Memstop: Use LD_PRELOAD to delay process execution when low on memory",
       "https://github.com/surban/memstop"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 20:31:59",
+      "https://news.ycombinator.com/item?id=44467657"
+    ],
+    [
+      "# [derive(Clone)] Is Broken",
+      "https://rgbcu.be/blog/derive-broken/"
     ]
   ],
   [
