@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-08, 07:40:08](https://news.ycombinator.com/item?id=44497935) - [The New York Times wants your private ChatGPT history – even the deleted parts](https://thehill.com/opinion/technology/5383530-chatgpt-users-privacy-collateral-damage/)
 * [2025-07-08, 07:22:21](https://news.ycombinator.com/item?id=44497844) - [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
 * [2025-07-08, 01:44:59](https://news.ycombinator.com/item?id=44496229) - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 * [2025-07-07, 22:11:58](https://news.ycombinator.com/item?id=44495154) - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
@@ -16,6 +15,7 @@
 * [2025-07-05, 23:28:30](https://news.ycombinator.com/item?id=44476382) - [Solving Wordle with uv's dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
 * [2025-07-05, 19:25:43](https://news.ycombinator.com/item?id=44474919) - [The Two Towers MUD](https://t2tmud.org/)
 * [2025-07-05, 12:13:50](https://news.ycombinator.com/item?id=44472246) - [Berry Script: lightweight embedded scripting language for microcontrollers](https://berry-lang.github.io/)
+* [2025-07-05, 09:34:13](https://news.ycombinator.com/item?id=44471388) - [Exploring Coroutines in PHP](https://doeken.org/blog/coroutines-in-php)
 * [2025-07-05, 09:06:14](https://news.ycombinator.com/item?id=44471251) - [CU Randomness Beacon](https://random.colorado.edu/)
 * [2025-07-05, 08:02:56](https://news.ycombinator.com/item?id=44470942) - [The Miyawaki Method of micro-forestry](https://www.futureecologies.net/listen/fe-6-5-the-method)
 * [2025-07-05, 00:52:38](https://news.ycombinator.com/item?id=44469254) - [Integrated photonic source of Gottesman–Kitaev–Preskill qubits](https://www.nature.com/articles/s41586-025-09044-5)

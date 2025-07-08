@@ -51,6 +51,7 @@
 * [2025-07-05, 11:01:56](https://news.ycombinator.com/item?id=44471832) - [What I learned building an AI coding agent for a year](https://jamesgrugett.com/p/what-i-learned-building-an-ai-coding)
 * [2025-07-05, 10:33:18](https://news.ycombinator.com/item?id=44471695) - [I'm Losing All Trust in the AI Industry](https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry)
 * [2025-07-05, 10:11:42](https://news.ycombinator.com/item?id=44471576) - [Go, PET, Let Hen - Curious adventures in (Commodore) BASIC tokenizing](https://www.masswerk.at/nowgobang/2025/go-pet-let-hen)
+* [2025-07-05, 09:34:13](https://news.ycombinator.com/item?id=44471388) - [Exploring Coroutines in PHP](https://doeken.org/blog/coroutines-in-php)
 * [2025-07-05, 09:06:14](https://news.ycombinator.com/item?id=44471251) - [CU Randomness Beacon](https://random.colorado.edu/)
 * [2025-07-05, 08:54:40](https://news.ycombinator.com/item?id=44471195) - [The only time HN is this interested in Bitcoin is when there's a bubble (2017)](https://incoherency.co.uk/blog/stories/hacker-news-bitcoin.html)
 * [2025-07-05, 08:52:24](https://news.ycombinator.com/item?id=44471190) - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
