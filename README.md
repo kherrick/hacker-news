@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-08, 12:00:53](https://news.ycombinator.com/item?id=44499183) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)
+* [2025-07-08, 10:01:39](https://news.ycombinator.com/item?id=44498594) - [The Texas Flooding Tragedy: Could It Have Been Avoided?](https://cliffmass.blogspot.com/2025/07/the-texas-flooding-tragedy-could-it.html)
 * [2025-07-08, 08:57:01](https://news.ycombinator.com/item?id=44498296) - [Show HN: OffChess – 100k+ Offline, Ad-Free Chess Puzzles App](https://offchess.com)
 * [2025-07-08, 07:57:25](https://news.ycombinator.com/item?id=44498022) - [Is it possible to play doom on an oscilloscope using only lissajous figures?](https://forums.sufficientvelocity.com/threads/is-it-possible-to-play-doom-on-an-analog-oscilloscope-using-only-lissajous-figures.126232/)
 * [2025-07-08, 01:44:59](https://news.ycombinator.com/item?id=44496229) - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
@@ -17,7 +19,6 @@
 * [2025-07-05, 12:13:50](https://news.ycombinator.com/item?id=44472246) - [Berry Script: lightweight embedded scripting language for microcontrollers](https://berry-lang.github.io/)
 * [2025-07-05, 11:44:05](https://news.ycombinator.com/item?id=44472062) - [Apple just released a weirdly interesting coding language model](https://9to5mac.com/2025/07/04/apple-just-released-a-weirdly-interesting-coding-language-model/)
 * [2025-07-05, 09:34:13](https://news.ycombinator.com/item?id=44471388) - [Exploring Coroutines in PHP](https://doeken.org/blog/coroutines-in-php)
-* [2025-07-05, 09:25:50](https://news.ycombinator.com/item?id=44471336) - [BharatMLStack – Realtime Inference, MLOps](https://github.com/Meesho/BharatMLStack)
 * [2025-07-05, 09:06:14](https://news.ycombinator.com/item?id=44471251) - [CU Randomness Beacon](https://random.colorado.edu/)
 * [2025-07-05, 08:02:56](https://news.ycombinator.com/item?id=44470942) - [The Miyawaki Method of micro-forestry](https://www.futureecologies.net/listen/fe-6-5-the-method)
 * [2025-07-05, 00:52:38](https://news.ycombinator.com/item?id=44469254) - [Integrated photonic source of Gottesman–Kitaev–Preskill qubits](https://www.nature.com/articles/s41586-025-09044-5)
@@ -28,7 +29,6 @@
 * [2025-07-04, 13:57:19](https://news.ycombinator.com/item?id=44464628) - [Epanet-JS](https://macwright.com/2025/07/03/epanet-placemark)
 * [2025-07-04, 11:04:41](https://news.ycombinator.com/item?id=44463429) - [The chemical secrets that help keep honey fresh for so long](https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long)
 * [2025-07-04, 06:25:11](https://news.ycombinator.com/item?id=44461666) - [What is going on in Unix with errno's limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
-* [2025-07-04, 04:16:12](https://news.ycombinator.com/item?id=44461082) - [Hymn to Babylon, missing for a millennium, has been discovered](https://phys.org/news/2025-07-hymn-babylon-millennium.html)
 * [2025-07-03, 14:00:16](https://news.ycombinator.com/item?id=44455175) - [François Chollet: The Arc Prize and How We Get to AGI [video]](https://www.youtube.com/watch?v=5QcCeSsNRks)
 
 ## [Archives](archives/index.md)
