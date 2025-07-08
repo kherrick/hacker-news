@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-08, 12:00:53](https://news.ycombinator.com/item?id=44499183) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)
-* [2025-07-08, 10:01:39](https://news.ycombinator.com/item?id=44498594) - [The Texas Flooding Tragedy: Could It Have Been Avoided?](https://cliffmass.blogspot.com/2025/07/the-texas-flooding-tragedy-could-it.html)
 * [2025-07-08, 08:57:01](https://news.ycombinator.com/item?id=44498296) - [Show HN: OffChess – 100k+ Offline, Ad-Free Chess Puzzles App](https://offchess.com)
+* [2025-07-08, 08:34:43](https://news.ycombinator.com/item?id=44498190) - [WebAssembly: Yes, but for What?](https://queue.acm.org/detail.cfm?id=3746171)
 * [2025-07-08, 07:57:25](https://news.ycombinator.com/item?id=44498022) - [Is it possible to play doom on an oscilloscope using only lissajous figures?](https://forums.sufficientvelocity.com/threads/is-it-possible-to-play-doom-on-an-analog-oscilloscope-using-only-lissajous-figures.126232/)
 * [2025-07-08, 01:44:59](https://news.ycombinator.com/item?id=44496229) - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 * [2025-07-07, 22:11:58](https://news.ycombinator.com/item?id=44495154) - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
@@ -14,7 +14,7 @@
 * [2025-07-07, 12:44:19](https://news.ycombinator.com/item?id=44489803) - [I used o3 to profile myself from my saved Pocket links](https://noperator.dev/posts/o3-pocket-profile/)
 * [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-fast language models based on diffusion](https://arxiv.org/abs/2506.17298)
 * [2025-07-06, 10:38:27](https://news.ycombinator.com/item?id=44479502) - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
-* [2025-07-05, 23:28:30](https://news.ycombinator.com/item?id=44476382) - [Solving Wordle with uv's dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
+* [2025-07-05, 22:15:08](https://news.ycombinator.com/item?id=44476023) - [Reflections on 2 years of CPython's JIT Compiler: The good, the bad, the ugly](https://fidget-spinner.github.io/posts/jit-reflections.html)
 * [2025-07-05, 19:25:43](https://news.ycombinator.com/item?id=44474919) - [The Two Towers MUD](https://t2tmud.org/)
 * [2025-07-05, 12:13:50](https://news.ycombinator.com/item?id=44472246) - [Berry Script: lightweight embedded scripting language for microcontrollers](https://berry-lang.github.io/)
 * [2025-07-05, 11:44:05](https://news.ycombinator.com/item?id=44472062) - [Apple just released a weirdly interesting coding language model](https://9to5mac.com/2025/07/04/apple-just-released-a-weirdly-interesting-coding-language-model/)
