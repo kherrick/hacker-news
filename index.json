@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-08, 14:27:23",
-      "https://news.ycombinator.com/item?id=44500315"
+      "2025-07-08, 14:29:46",
+      "https://news.ycombinator.com/item?id=44500340"
     ],
     [
-      "TSA to end shoes-off policy for airport security screening",
-      "https://abcnews.go.com/US/tsa-end-shoes-off-policy-airport-security-screening/story?id=123556295"
+      "Show HN: Trying to eat better? I built a nutrional assistant",
+      "https://chat.eko-bazaar.com/"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-07-05, 23:28:30",
+      "https://news.ycombinator.com/item?id=44476382"
+    ],
+    [
+      "Solving Wordle with uv's dependency resolver",
+      "https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/"
+    ]
+  ],
+  [
+    [
       "2025-07-05, 22:15:08",
       "https://news.ycombinator.com/item?id=44476023"
     ],
@@ -227,16 +237,6 @@
     [
       "Memstop: Use LD_PRELOAD to delay process execution when low on memory",
       "https://github.com/surban/memstop"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 20:31:59",
-      "https://news.ycombinator.com/item?id=44467657"
-    ],
-    [
-      "# [derive(Clone)] Is Broken",
-      "https://rgbcu.be/blog/derive-broken/"
     ]
   ],
   [
