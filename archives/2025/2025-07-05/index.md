@@ -18,6 +18,7 @@
 * [2025-07-05, 20:52:46](https://news.ycombinator.com/item?id=44475453) - [Optimizing Tool Selection for LLM Workflows with Differentiable Programming](https://viksit.substack.com/p/optimizing-tool-selection-for-llm)
 * [2025-07-05, 20:36:53](https://news.ycombinator.com/item?id=44475352) - [Holding Cellphone while driving is illegal, California court rules](https://www.latimes.com/california/story/2025-06-05/holding-your-cell-to-navigate-while-driving-is-illegal-court-says)
 * [2025-07-05, 20:28:15](https://news.ycombinator.com/item?id=44475297) - [The Prime Reasons to Avoid Amazon](https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon)
+* [2025-07-05, 19:25:43](https://news.ycombinator.com/item?id=44474919) - [The Two Towers MUD](https://t2tmud.org/)
 * [2025-07-05, 19:21:51](https://news.ycombinator.com/item?id=44474894) - [Pet ownership and cognitive functioning in later adulthood across pet types](https://www.nature.com/articles/s41598-025-03727-9)
 * [2025-07-05, 19:00:34](https://news.ycombinator.com/item?id=44474759) - [Cod Have Been Shrinking for Decades, Scientists Say They've Solved Mystery](https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/)
 * [2025-07-05, 18:45:50](https://news.ycombinator.com/item?id=44474663) - [A new law in Sweden makes it illegal to buy custom adult content](https://www.euronews.com/next/2025/06/22/takes-away-our-safest-option-adult-creators-react-to-law-banning-online-sex-purchases-in-s)
