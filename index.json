@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-08, 17:48:29",
+      "https://news.ycombinator.com/item?id=44502330"
+    ],
+    [
+      "CVE-2025-48384: Breaking Git with a carriage return and cloning RCE",
+      "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 17:44:35",
+      "https://news.ycombinator.com/item?id=44502298"
+    ],
+    [
+      "Radium – The Music Editor",
+      "http://users.notam02.no/~kjetism/radium/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 16:57:18",
       "https://news.ycombinator.com/item?id=44501821"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-07-07, 14:58:09",
-      "https://news.ycombinator.com/item?id=44491071"
-    ],
-    [
-      "Adding a feature because ChatGPT incorrectly thinks it exists",
-      "https://www.holovaty.com/writing/chatgpt-fake-feature/"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 12:44:19",
       "https://news.ycombinator.com/item?id=44489803"
     ],
@@ -197,16 +207,6 @@
     [
       "On The Meaning of Ritual",
       "https://alicemaz.substack.com/p/on-the-meaning-of-ritual"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 09:34:13",
-      "https://news.ycombinator.com/item?id=44471388"
-    ],
-    [
-      "Exploring Coroutines in PHP",
-      "https://doeken.org/blog/coroutines-in-php"
     ]
   ],
   [
