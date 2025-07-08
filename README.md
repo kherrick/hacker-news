@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-08, 19:02:43](https://news.ycombinator.com/item?id=44502957) - [TSA expected to phase out shoe removal policy at airport security](https://www.tennessean.com/story/travel/2025/07/08/tsa-shoe-removal-policy-tennessee-airports-phase-out/84506399007/)
 * [2025-07-08, 18:48:06](https://news.ycombinator.com/item?id=44502850) - [Fast cryptographically safe GUID generator for Go](https://github.com/sdrapkin/guid)
 * [2025-07-08, 18:34:08](https://news.ycombinator.com/item?id=44502722) - [Brainwash '72 [video]](https://archive.org/details/Brainwash72)
 * [2025-07-08, 18:10:46](https://news.ycombinator.com/item?id=44502527) - [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
@@ -11,6 +10,7 @@
 * [2025-07-08, 16:57:18](https://news.ycombinator.com/item?id=44501821) - [GlobalFoundries to Acquire MIPS](https://mips.com/press-releases/gf-mips/)
 * [2025-07-08, 16:13:40](https://news.ycombinator.com/item?id=44501413) - [Smollm3: Smol, multilingual, long-context reasoner LLM](https://huggingface.co/blog/smollm3)
 * [2025-07-08, 16:11:20](https://news.ycombinator.com/item?id=44501379) - [Google can now read your WhatsApp messages](https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/)
+* [2025-07-08, 15:42:34](https://news.ycombinator.com/item?id=44501076) - [Show HN: Sumble – knowledge graph for GTM data – query tech stack, key projects](https://sumble.com)
 * [2025-07-08, 15:18:49](https://news.ycombinator.com/item?id=44500840) - [Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing](https://www.jukeboxhq.com/)
 * [2025-07-08, 14:01:42](https://news.ycombinator.com/item?id=44500066) - [Show HN: I built a tool to solve window management](https://aboveaverageuser.com/smartswitcher)
 * [2025-07-08, 13:40:12](https://news.ycombinator.com/item?id=44499860) - [NuxtLabs is joining Vercel](https://nuxtlabs.com/)
