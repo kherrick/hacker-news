@@ -37,6 +37,7 @@
 * [2025-07-03, 15:18:01](https://news.ycombinator.com/item?id=44455933) - [Flounder Mode – Kevin Kelly on a different way to do great work](https://joincolossus.com/article/flounder-mode/)
 * [2025-07-03, 15:11:56](https://news.ycombinator.com/item?id=44455867) - [The ancient invention that ignited game play (2021)](https://www.bbc.com/future/article/20210318-the-ancient-invention-that-ignited-game-play)
 * [2025-07-03, 15:03:14](https://news.ycombinator.com/item?id=44455787) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
+* [2025-07-03, 14:56:00](https://news.ycombinator.com/item?id=44455707) - [Taking over 60k spyware user accounts with SQL injection](https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/)
 * [2025-07-03, 14:43:57](https://news.ycombinator.com/item?id=44455591) - [Is It Cake? How Our Brain Deciphers Materials](https://nautil.us/is-it-cake-how-our-brain-deciphers-materials-1222193/)
 * [2025-07-03, 14:17:19](https://news.ycombinator.com/item?id=44455320) - [Locality of Behaviour (2020)](https://htmx.org/essays/locality-of-behaviour/)
 * [2025-07-03, 14:07:48](https://news.ycombinator.com/item?id=44455240) - [Cpparinfer: A C++23 implementation of the parinfer algorithm](https://gitlab.com/w0utert/cpparinfer)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 15:42:34](https://news.ycombinator.com/item?id=44501076) - [Show HN: Sumble – knowledge graph for GTM data – query tech stack, key projects](https://sumble.com)
+* [2025-07-08, 15:37:56](https://news.ycombinator.com/item?id=44501034) - [Zorin OS](https://zorin.com/os/)
 * [2025-07-08, 15:24:57](https://news.ycombinator.com/item?id=44500897) - [Cloudflare: We Will Get Google to Provide a Way to Block AI Overviews](https://www.seroundtable.com/cloudflare-block-google-ai-overviews-39718.html)
 * [2025-07-08, 15:18:49](https://news.ycombinator.com/item?id=44500840) - [Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing](https://www.jukeboxhq.com/)
 * [2025-07-08, 14:29:46](https://news.ycombinator.com/item?id=44500340) - [Show HN: Trying to eat better? I built a nutrional assistant](https://chat.eko-bazaar.com/)
@@ -14,6 +16,7 @@
 * [2025-07-08, 10:01:39](https://news.ycombinator.com/item?id=44498594) - [The Texas Flooding Tragedy: Could It Have Been Avoided?](https://cliffmass.blogspot.com/2025/07/the-texas-flooding-tragedy-could-it.html)
 * [2025-07-08, 08:57:01](https://news.ycombinator.com/item?id=44498296) - [Show HN: OffChess – 100k+ Offline, Ad-Free Chess Puzzles App](https://offchess.com)
 * [2025-07-08, 08:34:43](https://news.ycombinator.com/item?id=44498190) - [WebAssembly: Yes, but for What?](https://queue.acm.org/detail.cfm?id=3746171)
+* [2025-07-08, 08:23:05](https://news.ycombinator.com/item?id=44498133) - [TIL you can make \"GIFs\" with SVGs for GitHub README.md files](https://koaning.io/posts/svg-gifs/)
 * [2025-07-08, 07:57:25](https://news.ycombinator.com/item?id=44498022) - [Is it possible to play doom on an oscilloscope using only lissajous figures?](https://forums.sufficientvelocity.com/threads/is-it-possible-to-play-doom-on-an-analog-oscilloscope-using-only-lissajous-figures.126232/)
 * [2025-07-08, 07:40:08](https://news.ycombinator.com/item?id=44497935) - [The New York Times wants your private ChatGPT history – even the deleted parts](https://thehill.com/opinion/technology/5383530-chatgpt-users-privacy-collateral-damage/)
 * [2025-07-08, 07:22:21](https://news.ycombinator.com/item?id=44497844) - [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
