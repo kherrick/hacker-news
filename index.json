@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44502330"
     ],
     [
-      "CVE-2025-48384: Breaking Git with a carriage return and cloning RCE",
+      "Breaking Git with a carriage return and cloning RCE",
       "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44502298"
     ],
     [
-      "Radium – The Music Editor",
+      "Radium Music Editor",
       "http://users.notam02.no/~kjetism/radium/"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "Google can now read your WhatsApp messages",
       "https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 15:42:34",
-      "https://news.ycombinator.com/item?id=44501076"
-    ],
-    [
-      "Show HN: Sumble – knowledge graph for GTM data – query tech stack, key projects",
-      "https://sumble.com"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Mercury: Ultra-fast language models based on diffusion",
       "https://arxiv.org/abs/2506.17298"
+    ]
+  ],
+  [
+    [
+      "2025-07-05, 21:12:01",
+      "https://news.ycombinator.com/item?id=44475579"
+    ],
+    [
+      "Inertial forces (indirect terms) in problems with a central body",
+      "https://astro.theoj.org/article/141682-on-inertial-forces-indirect-terms-in-problems-with-a-central-body"
     ]
   ],
   [
