@@ -43,6 +43,7 @@
 * [2025-07-05, 14:21:14](https://news.ycombinator.com/item?id=44472992) - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 * [2025-07-05, 13:48:33](https://news.ycombinator.com/item?id=44472794) - [The EU wants to decrypt your private data by 2030](https://www.techradar.com/vpn/vpn-privacy-security/the-eu-wants-to-decrypt-your-private-data-by-2030)
 * [2025-07-05, 12:13:50](https://news.ycombinator.com/item?id=44472246) - [Berry Script: lightweight embedded scripting language for microcontrollers](https://berry-lang.github.io/)
+* [2025-07-05, 11:44:05](https://news.ycombinator.com/item?id=44472062) - [Apple just released a weirdly interesting coding language model](https://9to5mac.com/2025/07/04/apple-just-released-a-weirdly-interesting-coding-language-model/)
 * [2025-07-05, 11:43:53](https://news.ycombinator.com/item?id=44472057) - [1945 TV Console Showed Two Programs at Once](https://spectrum.ieee.org/dumont-duoscopic-tv-set)
 * [2025-07-05, 11:40:26](https://news.ycombinator.com/item?id=44472034) - [Large Language Models Are Improving Exponentially](https://spectrum.ieee.org/large-language-model-performance)
 * [2025-07-05, 11:38:58](https://news.ycombinator.com/item?id=44472024) - [What 'Project Hail Mary' teaches us about the PlanetScale vs. Neon debate](https://blog.alexoglou.com/posts/database-decisions/)
