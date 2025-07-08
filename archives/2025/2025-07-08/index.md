@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 19:12:06](https://news.ycombinator.com/item?id=44503056) - [The Tradeoffs of SSMs and Transformers](https://goombalab.github.io/blog/2025/tradeoffs/)
 * [2025-07-08, 19:02:43](https://news.ycombinator.com/item?id=44502957) - [TSA expected to phase out shoe removal policy at airport security](https://www.tennessean.com/story/travel/2025/07/08/tsa-shoe-removal-policy-tennessee-airports-phase-out/84506399007/)
 * [2025-07-08, 18:48:06](https://news.ycombinator.com/item?id=44502850) - [Fast cryptographically safe GUID generator for Go](https://github.com/sdrapkin/guid)
 * [2025-07-08, 18:34:08](https://news.ycombinator.com/item?id=44502722) - [Brainwash '72 [video]](https://archive.org/details/Brainwash72)
@@ -12,6 +13,7 @@
 * [2025-07-08, 17:52:28](https://news.ycombinator.com/item?id=44502366) - [LLM-Ready Training Dataset for Apple's Foundation Models (iOS 26)](https://rileyhealth.gumroad.com/l/bwoqe)
 * [2025-07-08, 17:48:29](https://news.ycombinator.com/item?id=44502330) - [CVE-2025-48384: Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
 * [2025-07-08, 17:46:55](https://news.ycombinator.com/item?id=44502318) - [Supabase MCP leaks your entire SQL Database, a lethal trifecta attack](https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/)
+* [2025-07-08, 17:46:55](https://news.ycombinator.com/item?id=44502318) - [Supabase MCP can leak your entire SQL database](https://www.generalanalysis.com/blog/supabase-mcp-blog)
 * [2025-07-08, 17:44:35](https://news.ycombinator.com/item?id=44502298) - [Radium – The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [2025-07-08, 17:42:10](https://news.ycombinator.com/item?id=44502271) - [Show HN: A rain Pomodoro with brown noise, ASMR, and Middle Eastern music](https://forgetoolz.com/rain-pomodoro)
 * [2025-07-08, 16:57:18](https://news.ycombinator.com/item?id=44501821) - [GlobalFoundries to Acquire MIPS](https://mips.com/press-releases/gf-mips/)
