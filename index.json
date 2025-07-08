@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-07-07, 17:58:04",
-      "https://news.ycombinator.com/item?id=44492986"
-    ],
-    [
-      "My first verified imperative program",
-      "https://markushimmel.de/blog/my-first-verified-imperative-program/"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 14:58:09",
       "https://news.ycombinator.com/item?id=44491071"
     ],
@@ -237,6 +227,16 @@
     [
       "# [derive(Clone)] Is Broken",
       "https://rgbcu.be/blog/derive-broken/"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 20:25:43",
+      "https://news.ycombinator.com/item?id=44467607"
+    ],
+    [
+      "A compact bitset implementation used in Ocarina of Time save files",
+      "https://github.com/jb55/oot_bitset"
     ]
   ],
   [
