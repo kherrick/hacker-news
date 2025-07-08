@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-08, 15:42:34",
+      "https://news.ycombinator.com/item?id=44501076"
+    ],
+    [
+      "Show HN: Sumble – knowledge graph for GTM data – query tech stack, key projects",
+      "https://sumble.com"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 15:37:56",
+      "https://news.ycombinator.com/item?id=44501034"
+    ],
+    [
+      "Zorin OS",
+      "https://zorin.com/os/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 15:24:57",
       "https://news.ycombinator.com/item?id=44500897"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2025-07-08, 15:18:49",
-      "https://news.ycombinator.com/item?id=44500840"
+      "2025-07-08, 14:01:42",
+      "https://news.ycombinator.com/item?id=44500066"
     ],
     [
-      "Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing",
-      "https://www.jukeboxhq.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 13:41:43",
-      "https://news.ycombinator.com/item?id=44499873"
-    ],
-    [
-      "Blind to Disruption – The CEOs Who Missed the Future",
-      "https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/"
+      "Show HN: I built a tool to solve window management",
+      "https://aboveaverageuser.com/smartswitcher"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Show HN: OffChess – Offline chess puzzles app",
       "https://offchess.com"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 08:23:05",
+      "https://news.ycombinator.com/item?id=44498133"
+    ],
+    [
+      "TIL you can make \"GIFs\" with SVGs for GitHub README.md files",
+      "https://koaning.io/posts/svg-gifs/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-07-07, 14:13:56",
-      "https://news.ycombinator.com/item?id=44490588"
-    ],
-    [
-      "Show HN: NYC Subway Simulator and Route Designer",
-      "https://buildmytransit.nyc"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 12:44:19",
       "https://news.ycombinator.com/item?id=44489803"
     ],
@@ -137,16 +147,6 @@
     [
       "When Figma starts designing us",
       "https://designsystems.international/ideas/when-figma-starts-designing-us/"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 23:28:30",
-      "https://news.ycombinator.com/item?id=44476382"
-    ],
-    [
-      "Solving Wordle with uv's dependency resolver",
-      "https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-07-04, 06:25:11",
-      "https://news.ycombinator.com/item?id=44461666"
+      "2025-07-03, 14:56:00",
+      "https://news.ycombinator.com/item?id=44455707"
     ],
     [
-      "What is going on in Unix with errno's limited nature",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited"
+      "Taking over 60k spyware user accounts with SQL injection",
+      "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/"
     ]
   ],
   [
