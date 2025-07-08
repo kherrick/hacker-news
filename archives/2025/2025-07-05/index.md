@@ -43,6 +43,7 @@
 * [2025-07-05, 14:39:28](https://news.ycombinator.com/item?id=44473098) - [Musk and co should ask AI what defines intelligence. They may learn something](https://observer.co.uk/news/columnists/article/musk-and-co-should-ask-an-ai-what-defines-intelligence-they-may-learn-something)
 * [2025-07-05, 14:33:00](https://news.ycombinator.com/item?id=44473063) - [Happy Birthday, GamingOnLinux – 16 years today](https://www.gamingonlinux.com/2025/07/happy-birthday-gamingonlinux-16-years-today/)
 * [2025-07-05, 14:21:14](https://news.ycombinator.com/item?id=44472992) - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
+* [2025-07-05, 14:02:07](https://news.ycombinator.com/item?id=44472877) - [How to Save a Dog](https://www.newyorker.com/news/the-weekend-essay/how-to-save-a-dog)
 * [2025-07-05, 13:52:31](https://news.ycombinator.com/item?id=44472812) - [Ceramic: A cross-platform and open-source 2D framework in Haxe](https://ceramic-engine.com/)
 * [2025-07-05, 13:48:33](https://news.ycombinator.com/item?id=44472794) - [The EU wants to decrypt your private data by 2030](https://www.techradar.com/vpn/vpn-privacy-security/the-eu-wants-to-decrypt-your-private-data-by-2030)
 * [2025-07-05, 13:18:39](https://news.ycombinator.com/item?id=44472613) - [Plants monitor the integrity of their barrier by sensing gas diffusion](https://www.nature.com/articles/s41586-025-09223-4)
