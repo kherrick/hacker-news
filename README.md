@@ -2,6 +2,7 @@
 
 * [2025-07-08, 18:10:46](https://news.ycombinator.com/item?id=44502527) - [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
 * [2025-07-08, 18:03:20](https://news.ycombinator.com/item?id=44502463) - [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
+* [2025-07-08, 17:52:28](https://news.ycombinator.com/item?id=44502366) - [LLM-Ready Training Dataset for Apple's Foundation Models (iOS 26)](https://rileyhealth.gumroad.com/l/bwoqe)
 * [2025-07-08, 17:48:29](https://news.ycombinator.com/item?id=44502330) - [CVE-2025-48384: Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
 * [2025-07-08, 17:46:55](https://news.ycombinator.com/item?id=44502318) - [Supabase MCP leaks your entire SQL Database, a lethal trifecta attack](https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/)
 * [2025-07-08, 17:44:35](https://news.ycombinator.com/item?id=44502298) - [Radium – The Music Editor](http://users.notam02.no/~kjetism/radium/)
@@ -24,7 +25,6 @@
 * [2025-07-05, 12:13:50](https://news.ycombinator.com/item?id=44472246) - [Berry Script: lightweight embedded scripting language for microcontrollers](https://berry-lang.github.io/)
 * [2025-07-05, 11:40:43](https://news.ycombinator.com/item?id=44472036) - [On The Meaning of Ritual](https://alicemaz.substack.com/p/on-the-meaning-of-ritual)
 * [2025-07-05, 06:08:36](https://news.ycombinator.com/item?id=44470447) - [Particle Lenia Deluxe Edition](https://www.craftlinks.art/Notebook/particle-lenia/)
-* [2025-07-04, 23:10:11](https://news.ycombinator.com/item?id=44468718) - [What Microchip doesn't (officially) tell you about the VSC8512](https://serd.es/2025/07/04/Switch-project-pt3.html)
 * [2025-07-04, 21:32:16](https://news.ycombinator.com/item?id=44468022) - [Memstop: Use LD_PRELOAD to delay process execution when low on memory](https://github.com/surban/memstop)
 * [2025-07-04, 20:25:43](https://news.ycombinator.com/item?id=44467607) - [A compact bitset implementation used in Ocarina of Time save files](https://github.com/jb55/oot_bitset)
 * [2025-07-04, 16:49:27](https://news.ycombinator.com/item?id=44466030) - [Can an email go 500 miles in 2025?](https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025)
