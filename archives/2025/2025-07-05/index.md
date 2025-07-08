@@ -15,6 +15,7 @@
 * [2025-07-05, 22:15:08](https://news.ycombinator.com/item?id=44476023) - [Reflections on 2 years of CPython's JIT Compiler: The good, the bad, the ugly](https://fidget-spinner.github.io/posts/jit-reflections.html)
 * [2025-07-05, 21:19:50](https://news.ycombinator.com/item?id=44475634) - [Techno-Feudalism and the Rise of AGI: A Future Without Economic Rights?](https://arxiv.org/abs/2503.14283)
 * [2025-07-05, 21:13:55](https://news.ycombinator.com/item?id=44475600) - [WinUAE 6.0.0 Amiga Emulator](https://www.winuae.net/)
+* [2025-07-05, 21:12:01](https://news.ycombinator.com/item?id=44475579) - [Inertial forces (indirect terms) in problems with a central body](https://astro.theoj.org/article/141682-on-inertial-forces-indirect-terms-in-problems-with-a-central-body)
 * [2025-07-05, 21:06:41](https://news.ycombinator.com/item?id=44475537) - [How to Network as an Introvert](https://aginfer.bearblog.dev/how-to-network-as-an-introvert/)
 * [2025-07-05, 20:52:46](https://news.ycombinator.com/item?id=44475453) - [Optimizing Tool Selection for LLM Workflows with Differentiable Programming](https://viksit.substack.com/p/optimizing-tool-selection-for-llm)
 * [2025-07-05, 20:36:53](https://news.ycombinator.com/item?id=44475352) - [Holding Cellphone while driving is illegal, California court rules](https://www.latimes.com/california/story/2025-06-05/holding-your-cell-to-navigate-while-driving-is-illegal-court-says)
