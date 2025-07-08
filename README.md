@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-08, 22:37:21](https://news.ycombinator.com/item?id=44504676) - [Xenharmlib: A music theory library that supports non-western harmonic systems](https://xenharmlib.readthedocs.io/en/latest/)
 * [2025-07-08, 20:50:04](https://news.ycombinator.com/item?id=44503952) - [Ask HN: What are some cool or underrated tech companies based in Canada?](https://news.ycombinator.com/item?id=44503952)
 * [2025-07-08, 19:30:49](https://news.ycombinator.com/item?id=44503221) - [Show HN: OpenAPI mocks that don't suck – realistic test data, quick setup](https://beeceptor.com/openapi-mock-server/)
 * [2025-07-08, 19:12:06](https://news.ycombinator.com/item?id=44503056) - [The Tradeoffs of SSMs and Transformers](https://goombalab.github.io/blog/2025/tradeoffs/)
@@ -24,7 +25,6 @@
 * [2025-07-05, 21:12:01](https://news.ycombinator.com/item?id=44475579) - [Inertial forces (indirect terms) in problems with a central body](https://astro.theoj.org/article/141682-on-inertial-forces-indirect-terms-in-problems-with-a-central-body)
 * [2025-07-05, 13:52:31](https://news.ycombinator.com/item?id=44472812) - [Ceramic: A cross-platform and open-source 2D framework in Haxe](https://ceramic-engine.com/)
 * [2025-07-05, 13:18:39](https://news.ycombinator.com/item?id=44472613) - [Plants monitor the integrity of their barrier by sensing gas diffusion](https://www.nature.com/articles/s41586-025-09223-4)
-* [2025-07-05, 12:13:50](https://news.ycombinator.com/item?id=44472246) - [Berry Script: lightweight embedded scripting language for microcontrollers](https://berry-lang.github.io/)
 * [2025-07-05, 11:40:43](https://news.ycombinator.com/item?id=44472036) - [On The Meaning of Ritual](https://alicemaz.substack.com/p/on-the-meaning-of-ritual)
 * [2025-07-05, 06:08:36](https://news.ycombinator.com/item?id=44470447) - [Particle Lenia Deluxe Edition](https://www.craftlinks.art/Notebook/particle-lenia/)
 * [2025-07-04, 16:49:27](https://news.ycombinator.com/item?id=44466030) - [Can an email go 500 miles in 2025?](https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025)

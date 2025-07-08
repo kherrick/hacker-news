@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 22:37:21](https://news.ycombinator.com/item?id=44504676) - [Xenharmlib: A music theory library that supports non-western harmonic systems](https://xenharmlib.readthedocs.io/en/latest/)
 * [2025-07-08, 20:50:04](https://news.ycombinator.com/item?id=44503952) - [Ask HN: What are some cool or underrated tech companies based in Canada?](https://news.ycombinator.com/item?id=44503952)
 * [2025-07-08, 19:30:49](https://news.ycombinator.com/item?id=44503221) - [Show HN: OpenAPI mocks that don't suck – realistic test data, quick setup](https://beeceptor.com/openapi-mock-server/)
 * [2025-07-08, 19:12:06](https://news.ycombinator.com/item?id=44503056) - [The Tradeoffs of SSMs and Transformers](https://goombalab.github.io/blog/2025/tradeoffs/)
