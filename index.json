@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-08, 18:10:46",
+      "https://news.ycombinator.com/item?id=44502527"
+    ],
+    [
+      "Dynamical origin of Theia, the last giant impactor on Earth",
+      "https://arxiv.org/abs/2507.01826"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 18:03:20",
+      "https://news.ycombinator.com/item?id=44502463"
+    ],
+    [
+      "Brut: A New Web Framework for Ruby",
+      "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 17:48:29",
       "https://news.ycombinator.com/item?id=44502330"
     ],
     [
       "CVE-2025-48384: Breaking Git with a carriage return and cloning RCE",
       "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 17:46:55",
+      "https://news.ycombinator.com/item?id=44502318"
+    ],
+    [
+      "Supabase MCP leaks your entire SQL Database, a lethal trifecta attack",
+      "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "GlobalFoundries to Acquire MIPS",
       "https://mips.com/press-releases/gf-mips/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 16:49:12",
-      "https://news.ycombinator.com/item?id=44501743"
-    ],
-    [
-      "AnyBlox: A Framework for Self-Decoding Datasets [pdf]",
-      "https://gienieczko.com/anyblox-paper"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Show HN: I built a tool to solve window management",
       "https://aboveaverageuser.com/smartswitcher"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 13:40:12",
+      "https://news.ycombinator.com/item?id=44499860"
+    ],
+    [
+      "NuxtLabs is joining Vercel",
+      "https://nuxtlabs.com/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-07-07, 20:36:54",
-      "https://news.ycombinator.com/item?id=44494430"
-    ],
-    [
-      "Running a Certificate Transparency log",
-      "https://words.filippo.io/run-sunlight/"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 18:19:13",
       "https://news.ycombinator.com/item?id=44493196"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-07-05, 08:02:56",
-      "https://news.ycombinator.com/item?id=44470942"
-    ],
-    [
-      "The Miyawaki Method of micro-forestry",
-      "https://www.futureecologies.net/listen/fe-6-5-the-method"
-    ]
-  ],
-  [
-    [
       "2025-07-05, 06:08:36",
       "https://news.ycombinator.com/item?id=44470447"
     ],
@@ -257,16 +267,6 @@
     [
       "A compact bitset implementation used in Ocarina of Time save files",
       "https://github.com/jb55/oot_bitset"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 19:55:27",
-      "https://news.ycombinator.com/item?id=44467379"
-    ],
-    [
-      "Why are there no good dinosaur films?",
-      "https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films"
     ]
   ],
   [
