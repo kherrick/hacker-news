@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-08, 22:37:21",
+      "https://news.ycombinator.com/item?id=44504676"
+    ],
+    [
+      "Xenharmlib: A music theory library that supports non-western harmonic systems",
+      "https://xenharmlib.readthedocs.io/en/latest/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 20:50:04",
       "https://news.ycombinator.com/item?id=44503952"
     ],
@@ -237,16 +247,6 @@
     [
       "Plants monitor the integrity of their barrier by sensing gas diffusion",
       "https://www.nature.com/articles/s41586-025-09223-4"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 12:13:50",
-      "https://news.ycombinator.com/item?id=44472246"
-    ],
-    [
-      "Berry Script: lightweight embedded scripting language for microcontrollers",
-      "https://berry-lang.github.io/"
     ]
   ],
   [
