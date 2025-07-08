@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-08, 19:12:06",
+      "https://news.ycombinator.com/item?id=44503056"
+    ],
+    [
+      "The Tradeoffs of SSMs and Transformers",
+      "https://goombalab.github.io/blog/2025/tradeoffs/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 18:48:06",
       "https://news.ycombinator.com/item?id=44502850"
     ],
@@ -55,8 +65,8 @@
       "https://news.ycombinator.com/item?id=44502318"
     ],
     [
-      "Supabase MCP can leak an entire SQL Database, a lethal trifecta attack",
-      "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/"
+      "Supabase MCP can leak your entire SQL database",
+      "https://www.generalanalysis.com/blog/supabase-mcp-blog"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-07-08, 15:42:34",
+      "https://news.ycombinator.com/item?id=44501076"
+    ],
+    [
+      "Show HN: Sumble – knowledge graph for GTM data – query tech stack, key projects",
+      "https://sumble.com"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 15:18:49",
       "https://news.ycombinator.com/item?id=44500840"
     ],
@@ -127,16 +147,6 @@
     [
       "Show HN: I built a tool to solve window management",
       "https://aboveaverageuser.com/smartswitcher"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 13:40:12",
-      "https://news.ycombinator.com/item?id=44499860"
-    ],
-    [
-      "NuxtLabs is joining Vercel",
-      "https://nuxtlabs.com/"
     ]
   ],
   [
@@ -167,6 +177,16 @@
     [
       "TIL you can make \"GIFs\" with SVGs for GitHub README.md files",
       "https://koaning.io/posts/svg-gifs/"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 22:58:45",
+      "https://news.ycombinator.com/item?id=44495428"
+    ],
+    [
+      "Bootstrapping a side project into a profitable seven-figure business",
+      "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Particle Lenia Deluxe Edition",
       "https://www.craftlinks.art/Notebook/particle-lenia/"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 21:32:16",
-      "https://news.ycombinator.com/item?id=44468022"
-    ],
-    [
-      "Memstop: Use LD_PRELOAD to delay process execution when low on memory",
-      "https://github.com/surban/memstop"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 20:25:43",
-      "https://news.ycombinator.com/item?id=44467607"
-    ],
-    [
-      "A compact bitset implementation used in Ocarina of Time save files",
-      "https://github.com/jb55/oot_bitset"
     ]
   ],
   [
