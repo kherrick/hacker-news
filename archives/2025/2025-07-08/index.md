@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 20:50:04](https://news.ycombinator.com/item?id=44503952) - [Ask HN: What are some cool or underrated tech companies based in Canada?](https://news.ycombinator.com/item?id=44503952)
 * [2025-07-08, 19:12:06](https://news.ycombinator.com/item?id=44503056) - [The Tradeoffs of SSMs and Transformers](https://goombalab.github.io/blog/2025/tradeoffs/)
 * [2025-07-08, 19:02:43](https://news.ycombinator.com/item?id=44502957) - [TSA expected to phase out shoe removal policy at airport security](https://www.tennessean.com/story/travel/2025/07/08/tsa-shoe-removal-policy-tennessee-airports-phase-out/84506399007/)
 * [2025-07-08, 18:48:06](https://news.ycombinator.com/item?id=44502850) - [Fast cryptographically safe GUID generator for Go](https://github.com/sdrapkin/guid)
