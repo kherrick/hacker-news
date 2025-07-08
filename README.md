@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-08, 08:57:01](https://news.ycombinator.com/item?id=44498296) - [Show HN: OffChess – 100k+ Offline, Ad-Free Chess Puzzles App](https://offchess.com)
-* [2025-07-08, 07:22:21](https://news.ycombinator.com/item?id=44497844) - [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
 * [2025-07-08, 01:44:59](https://news.ycombinator.com/item?id=44496229) - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 * [2025-07-07, 22:11:58](https://news.ycombinator.com/item?id=44495154) - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
 * [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
@@ -22,6 +21,7 @@
 * [2025-07-05, 00:52:38](https://news.ycombinator.com/item?id=44469254) - [Integrated photonic source of Gottesman–Kitaev–Preskill qubits](https://www.nature.com/articles/s41586-025-09044-5)
 * [2025-07-04, 23:15:18](https://news.ycombinator.com/item?id=44468753) - [Lightfastness Testing of Colored Pencils](https://sarahrenaeclark.com/lightfast-testing-pencils/)
 * [2025-07-04, 23:10:11](https://news.ycombinator.com/item?id=44468718) - [What Microchip doesn't (officially) tell you about the VSC8512](https://serd.es/2025/07/04/Switch-project-pt3.html)
+* [2025-07-04, 20:56:17](https://news.ycombinator.com/item?id=44467826) - [Analysing Roman itineraries using GIS tooling](https://link.springer.com/article/10.1007/s12520-025-02175-w)
 * [2025-07-04, 20:31:59](https://news.ycombinator.com/item?id=44467657) - [# [derive(Clone)] Is Broken](https://rgbcu.be/blog/derive-broken/)
 * [2025-07-04, 19:55:27](https://news.ycombinator.com/item?id=44467379) - [Why are there no good dinosaur films?](https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films)
 * [2025-07-04, 16:48:34](https://news.ycombinator.com/item?id=44466025) - [Man of Glass: Boccaccio: A Biography](https://literaryreview.co.uk/man-of-glass)
