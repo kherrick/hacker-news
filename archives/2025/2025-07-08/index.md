@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 07:40:08](https://news.ycombinator.com/item?id=44497935) - [The New York Times wants your private ChatGPT history – even the deleted parts](https://thehill.com/opinion/technology/5383530-chatgpt-users-privacy-collateral-damage/)
 * [2025-07-08, 07:22:21](https://news.ycombinator.com/item?id=44497844) - [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
 * [2025-07-08, 02:45:57](https://news.ycombinator.com/item?id=44496502) - [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
 * [2025-07-08, 02:18:01](https://news.ycombinator.com/item?id=44496391) - [BBC staff: we're forced to do pro-Israel PR](https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel)
