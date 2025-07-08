@@ -37,6 +37,7 @@
 * [2025-07-04, 18:12:25](https://news.ycombinator.com/item?id=44466697) - [How to Incapacitate Google Tag Manager and Why You Should (2022)](https://backlit.neocities.org/incapacitate-google-tag-manager)
 * [2025-07-04, 17:03:31](https://news.ycombinator.com/item?id=44466143) - [Charles Babbage and deciphering codes (1864)](https://mathshistory.st-andrews.ac.uk/Extras/Babbage_deciphering/)
 * [2025-07-04, 17:00:18](https://news.ycombinator.com/item?id=44466121) - [UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance](https://up.codes/careers?utm_source=HN)
+* [2025-07-04, 16:48:34](https://news.ycombinator.com/item?id=44466025) - [Man of Glass: Boccaccio: A Biography](https://literaryreview.co.uk/man-of-glass)
 * [2025-07-04, 16:44:57](https://news.ycombinator.com/item?id=44465996) - [Japan requires name change after marriage – big effects on female scientists](https://www.nature.com/articles/d41586-025-02081-0)
 * [2025-07-04, 16:42:57](https://news.ycombinator.com/item?id=44465980) - [Gremllm](https://github.com/awwaiid/gremllm)
 * [2025-07-04, 16:19:08](https://news.ycombinator.com/item?id=44465791) - [Military leaders aghast as Zuck crashes classified Oval Office meeting](https://www.independent.co.uk/news/world/americas/us-politics/trump-oval-office-mark-zuckerberg-security-b2781215.html)

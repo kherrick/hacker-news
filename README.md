@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-08, 07:22:21](https://news.ycombinator.com/item?id=44497844) - [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
 * [2025-07-08, 02:45:57](https://news.ycombinator.com/item?id=44496502) - [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
 * [2025-07-08, 01:44:59](https://news.ycombinator.com/item?id=44496229) - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 * [2025-07-07, 22:11:58](https://news.ycombinator.com/item?id=44495154) - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
@@ -12,7 +13,6 @@
 * [2025-07-07, 14:13:56](https://news.ycombinator.com/item?id=44490588) - [Show HN: NYC Subway Simulator and Route Designer](https://buildmytransit.nyc)
 * [2025-07-07, 12:44:19](https://news.ycombinator.com/item?id=44489803) - [I used o3 to profile myself from my saved Pocket links](https://noperator.dev/posts/o3-pocket-profile/)
 * [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-fast language models based on diffusion](https://arxiv.org/abs/2506.17298)
-* [2025-07-06, 21:18:26](https://news.ycombinator.com/item?id=44484137) - [Why English doesn't use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
 * [2025-07-06, 10:38:27](https://news.ycombinator.com/item?id=44479502) - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
 * [2025-07-05, 23:28:30](https://news.ycombinator.com/item?id=44476382) - [Solving Wordle with uv's dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
 * [2025-07-05, 19:25:43](https://news.ycombinator.com/item?id=44474919) - [The Two Towers MUD](https://t2tmud.org/)
@@ -24,11 +24,11 @@
 * [2025-07-04, 20:56:17](https://news.ycombinator.com/item?id=44467826) - [Analysing Roman itineraries using GIS tooling](https://link.springer.com/article/10.1007/s12520-025-02175-w)
 * [2025-07-04, 20:31:59](https://news.ycombinator.com/item?id=44467657) - [# [derive(Clone)] Is Broken](https://rgbcu.be/blog/derive-broken/)
 * [2025-07-04, 19:55:27](https://news.ycombinator.com/item?id=44467379) - [Why are there no good dinosaur films?](https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films)
+* [2025-07-04, 16:48:34](https://news.ycombinator.com/item?id=44466025) - [Man of Glass: Boccaccio: A Biography](https://literaryreview.co.uk/man-of-glass)
 * [2025-07-04, 13:57:19](https://news.ycombinator.com/item?id=44464628) - [Epanet-JS](https://macwright.com/2025/07/03/epanet-placemark)
 * [2025-07-04, 11:04:41](https://news.ycombinator.com/item?id=44463429) - [The chemical secrets that help keep honey fresh for so long](https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long)
 * [2025-07-04, 06:25:11](https://news.ycombinator.com/item?id=44461666) - [What is going on in Unix with errno's limited nature](https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited)
 * [2025-07-04, 04:16:12](https://news.ycombinator.com/item?id=44461082) - [Hymn to Babylon, missing for a millennium, has been discovered](https://phys.org/news/2025-07-hymn-babylon-millennium.html)
-* [2025-07-04, 01:45:15](https://news.ycombinator.com/item?id=44460498) - [Neanderthals operated prehistoric “fat factory” on German lakeshore](https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/)
 * [2025-07-03, 14:00:16](https://news.ycombinator.com/item?id=44455175) - [François Chollet: The Arc Prize and How We Get to AGI [video]](https://www.youtube.com/watch?v=5QcCeSsNRks)
 
 ## [Archives](archives/index.md)
