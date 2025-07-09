@@ -63,6 +63,7 @@
 * [2025-07-06, 05:54:58](https://news.ycombinator.com/item?id=44478171) - [Laser-wielding device is like an anti-aircraft system for mosquitoes](https://newatlas.com/around-the-home/photon-matrix-laser-mosquitoes/)
 * [2025-07-06, 05:36:32](https://news.ycombinator.com/item?id=44478115) - [Are We the Baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
 * [2025-07-06, 05:27:42](https://news.ycombinator.com/item?id=44478083) - [Game publishers respond to Stop Killing Games claim it curtails developer choice](https://www.pcgamer.com/gaming-industry/european-game-publisher-group-responds-to-stop-killing-games-claims-these-proposals-would-curtail-developer-choice/)
+* [2025-07-06, 04:33:36](https://news.ycombinator.com/item?id=44477870) - [The Capacity, Performance, and Reliability of MicroSD Cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
 * [2025-07-06, 04:11:53](https://news.ycombinator.com/item?id=44477768) - [July 5, 1687: When Newton Explained Why You Don't Float Away](https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/)
 * [2025-07-06, 03:47:02](https://news.ycombinator.com/item?id=44477660) - [Chasing Hobbies over Achievement Boosts Happiness (2023)](https://neurosciencenews.com/hedonism-happiness-achievement-23923/)
 * [2025-07-06, 03:43:16](https://news.ycombinator.com/item?id=44477648) - [As Floods Hit, Key Roles Were Vacant at Weather Service Offices in Texas](https://www.nytimes.com/2025/07/05/us/politics/texas-floods-warnings-vacancies.html)

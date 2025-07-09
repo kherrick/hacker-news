@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-09, 09:13:10](https://news.ycombinator.com/item?id=44507830) - [ESIM Security](https://security-explorations.com/esim-security.html)
 * [2025-07-09, 07:48:03](https://news.ycombinator.com/item?id=44507301) - [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
 * [2025-07-09, 07:38:29](https://news.ycombinator.com/item?id=44507244) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
 * [2025-07-09, 07:29:52](https://news.ycombinator.com/item?id=44507200) - [Bug Stories](https://500mile.email/)
 * [2025-07-09, 07:24:13](https://news.ycombinator.com/item?id=44507166) - [SUSE launches new European digital sovereignty service to meet surging demand](https://www.zdnet.com/article/suse-launches-new-european-digital-sovereignty-support-service-to-meet-surging-demand/)
 * [2025-07-09, 07:07:44](https://news.ycombinator.com/item?id=44507084) - [Show HN: I rewrote an outdated React Native map clustering library](https://github.com/suwi-lanji/rn-maps-clustering)
-* [2025-07-09, 07:04:36](https://news.ycombinator.com/item?id=44507076) - [Most RESTful APIs Aren't RESTful](https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html)
 * [2025-07-09, 07:02:33](https://news.ycombinator.com/item?id=44507061) - [Springer Nature book on machine learning is full of made-up citations](https://retractionwatch.com/2025/06/30/springer-nature-book-on-machine-learning-is-full-of-made-up-citations/)
 * [2025-07-09, 05:49:52](https://news.ycombinator.com/item?id=44506696) - [Helm local code execution via a malicious chart – CVE-2025-53547](https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm)
-* [2025-07-09, 03:34:37](https://news.ycombinator.com/item?id=44506117) - [Where can I see Hokusai's Great Wave today?](https://greatwavetoday.com/)
 * [2025-07-09, 02:37:28](https://news.ycombinator.com/item?id=44505876) - [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
 * [2025-07-09, 02:27:39](https://news.ycombinator.com/item?id=44505816) - [iPod Linux – Linux for Your iPod (2017)](http://www.ipodlinux.org/)
 * [2025-07-09, 01:45:55](https://news.ycombinator.com/item?id=44505610) - [Libpostal: C library for parsing/normalizing street addresses around the world](https://github.com/openvenues/libpostal)
@@ -29,6 +28,7 @@
 * [2025-07-07, 11:52:10](https://news.ycombinator.com/item?id=44489359) - [7-Zip for Windows can now use more than 64 CPU threads for compression](https://www.7-zip.org/history.txt)
 * [2025-07-07, 10:33:14](https://news.ycombinator.com/item?id=44488742) - [I'm Building LLM for Satellite Data EarthGPT.app](https://www.earthgpt.app/)
 * [2025-07-07, 03:05:32](https://news.ycombinator.com/item?id=44486368) - [Surfing on a Matchbox (1999)](http://news.bbc.co.uk/2/hi/science/nature/276762.stm)
+* [2025-07-06, 04:33:36](https://news.ycombinator.com/item?id=44477870) - [The Capacity, Performance, and Reliability of MicroSD Cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
 * [2025-07-03, 14:56:00](https://news.ycombinator.com/item?id=44455707) - [Taking over 60k spyware user accounts with SQL injection](https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/)
 
 ## [Archives](archives/index.md)
