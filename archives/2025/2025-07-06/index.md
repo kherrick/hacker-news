@@ -34,6 +34,7 @@
 * [2025-07-06, 17:12:45](https://news.ycombinator.com/item?id=44482405) - [Collatz's Ant and Σ(n)](https://gbragafibra.github.io/2025/07/06/collatz_ant5.html)
 * [2025-07-06, 17:00:02](https://news.ycombinator.com/item?id=44482301) - [Metriport (YC S22) is hiring engineers to improve healthcare data exchange](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer)
 * [2025-07-06, 16:56:42](https://news.ycombinator.com/item?id=44482273) - [Jank Programming Language](https://jank-lang.org/)
+* [2025-07-06, 16:53:41](https://news.ycombinator.com/item?id=44482245) - [TaIrTe₄ photodetectors show promise for sensitive room-temperature THz sensing](https://phys.org/news/2025-07-tairte-photodetectors-highly-sensitive-room.html)
 * [2025-07-06, 16:46:01](https://news.ycombinator.com/item?id=44482194) - [Async Queue – One of my favorite programming interview questions](https://davidgomes.com/async-queue-interview-ai/)
 * [2025-07-06, 16:26:33](https://news.ycombinator.com/item?id=44482051) - [Whistleblower: Huawei cloned Qwen and DeepSeek models, claimed as own](https://dilemmaworks.substack.com/p/whistleblower-huawei-cloned-and-renamed)
 * [2025-07-06, 16:17:47](https://news.ycombinator.com/item?id=44482001) - [At the frontier between two lives–the evolutionary origins of pregnancy](https://phys.org/news/2025-07-frontier-evolutionary-pregnancy.html)

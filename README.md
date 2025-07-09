@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-09, 19:20:08](https://news.ycombinator.com/item?id=44513843) - [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
 * [2025-07-09, 19:14:02](https://news.ycombinator.com/item?id=44513769) - [Perplexity Comet](https://comet.perplexity.ai/?a=b)
 * [2025-07-09, 18:04:14](https://news.ycombinator.com/item?id=44513083) - [Desktop Publishing Tools That Didn't Make It](https://tedium.co/2022/10/12/forgotten-desktop-publishing-tools-history/)
 * [2025-07-09, 17:34:09](https://news.ycombinator.com/item?id=44512763) - [Show HN: FlopperZiro – A DIY open-source Flipper Zero clone](https://github.com/lraton/FlopperZiro)
@@ -11,7 +12,6 @@
 * [2025-07-09, 14:40:24](https://news.ycombinator.com/item?id=44510600) - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
 * [2025-07-09, 14:12:16](https://news.ycombinator.com/item?id=44510282) - [A fast 3D collision detection algorithm](https://cairno.substack.com/p/improvements-to-the-separating-axis)
 * [2025-07-09, 11:52:29](https://news.ycombinator.com/item?id=44508866) - [Using MPC for Anonymous and Private DNA Analysis](https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/)
-* [2025-07-09, 09:42:17](https://news.ycombinator.com/item?id=44507971) - [IKEA ditches Zigbee for Thread going all in on Matter smart homes](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
 * [2025-07-09, 09:13:10](https://news.ycombinator.com/item?id=44507830) - [ESIM Security](https://security-explorations.com/esim-security.html)
 * [2025-07-09, 07:38:29](https://news.ycombinator.com/item?id=44507244) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
 * [2025-07-09, 07:04:36](https://news.ycombinator.com/item?id=44507076) - [Most RESTful APIs aren't really RESTful](https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html)
@@ -26,8 +26,8 @@
 * [2025-07-07, 11:52:10](https://news.ycombinator.com/item?id=44489359) - [7-Zip for Windows can now use more than 64 CPU threads for compression](https://www.7-zip.org/history.txt)
 * [2025-07-07, 06:58:10](https://news.ycombinator.com/item?id=44487451) - [Archaeologists unveil 3,500-year-old city in Peru](https://www.bbc.co.uk/news/articles/c07dmx38kyeo)
 * [2025-07-07, 05:39:17](https://news.ycombinator.com/item?id=44487110) - [I Ported SAP to a 1976 CPU. It Wasn't That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
-* [2025-07-07, 04:04:24](https://news.ycombinator.com/item?id=44486651) - [Splice: Cable Harness Design Made Simple](https://splice-cad.com)
 * [2025-07-06, 16:56:42](https://news.ycombinator.com/item?id=44482273) - [Jank Programming Language](https://jank-lang.org/)
+* [2025-07-06, 16:53:41](https://news.ycombinator.com/item?id=44482245) - [TaIrTe₄ photodetectors show promise for sensitive room-temperature THz sensing](https://phys.org/news/2025-07-tairte-photodetectors-highly-sensitive-room.html)
 * [2025-07-06, 09:58:26](https://news.ycombinator.com/item?id=44479302) - [Ruby 3.4 frozen string literals: What Rails developers need to know](https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/)
 * [2025-07-06, 00:57:57](https://news.ycombinator.com/item?id=44476848) - [A Emoji Reverse Polish Notation Calculator Written in COBOL](https://github.com/ghuntley/cobol-emoji-rpn-calculator)
 
