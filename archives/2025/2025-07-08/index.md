@@ -36,6 +36,7 @@
 * [2025-07-08, 13:40:12](https://news.ycombinator.com/item?id=44499860) - [NuxtLabs is joining Vercel](https://nuxtlabs.com/)
 * [2025-07-08, 12:00:53](https://news.ycombinator.com/item?id=44499183) - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)
 * [2025-07-08, 11:35:27](https://news.ycombinator.com/item?id=44499057) - [Firefox is fine. The people running it are not](https://www.theregister.com/2025/07/08/firefox_isnt_dead/)
+* [2025-07-08, 10:40:03](https://news.ycombinator.com/item?id=44498766) - [Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left](https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443)
 * [2025-07-08, 10:01:39](https://news.ycombinator.com/item?id=44498594) - [The Texas Flooding Tragedy: Could It Have Been Avoided?](https://cliffmass.blogspot.com/2025/07/the-texas-flooding-tragedy-could-it.html)
 * [2025-07-08, 08:57:01](https://news.ycombinator.com/item?id=44498296) - [Show HN: OffChess – 100k+ Offline, Ad-Free Chess Puzzles App](https://offchess.com)
 * [2025-07-08, 08:34:43](https://news.ycombinator.com/item?id=44498190) - [WebAssembly: Yes, but for What?](https://queue.acm.org/detail.cfm?id=3746171)
