@@ -54,6 +54,7 @@
 * [2025-07-06, 12:20:43](https://news.ycombinator.com/item?id=44480135) - [The weed-smoking, Labubu-loving, hackathon king of SF](https://sfstandard.com/2025/07/05/rene-turcios-hackathon-labubu-vibe-coding-chatgpt/)
 * [2025-07-06, 10:38:27](https://news.ycombinator.com/item?id=44479502) - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
 * [2025-07-06, 10:35:28](https://news.ycombinator.com/item?id=44479485) - [Show HN: BreakerMachines – Modern Circuit Breaker for Rails with Async Support](https://github.com/seuros/breaker_machines)
+* [2025-07-06, 09:58:26](https://news.ycombinator.com/item?id=44479302) - [Ruby 3.4 Frozen String Literals: What Rails Developers Need to Know](https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/)
 * [2025-07-06, 09:40:48](https://news.ycombinator.com/item?id=44479210) - [Ask HN: If AGI were invented tomorrow which countries would fare better?](https://news.ycombinator.com/item?id=44479210)
 * [2025-07-06, 09:03:50](https://news.ycombinator.com/item?id=44479029) - [MI5 piled falsehood on falsehood in court in the case of an abusive spy who](https://www.bbc.com/news/articles/c3w4nwdwywno)
 * [2025-07-06, 08:59:49](https://news.ycombinator.com/item?id=44479009) - [What Makes Someone Cool? A New Study Offers Clues](https://www.nytimes.com/2025/06/30/well/mind/cool-people-traits-study.html)
