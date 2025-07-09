@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-09, 20:29:47](https://news.ycombinator.com/item?id=44514437) - [A Null Pointer Exception Brought Down Mighty Google;7 Hours of Downtime](https://www.getpanto.ai/blogs/09-07-2025/how-a-null-pointer-exception-brought-down-mighty-google-7-hours-of-downtime-explained)
 * [2025-07-09, 19:20:08](https://news.ycombinator.com/item?id=44513843) - [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
 * [2025-07-09, 19:16:55](https://news.ycombinator.com/item?id=44513801) - [Let Kids Be Loud](https://www.afterbabel.com/p/let-kids-be-loud)
-* [2025-07-09, 19:14:02](https://news.ycombinator.com/item?id=44513769) - [Perplexity Comet](https://comet.perplexity.ai/?a=b)
 * [2025-07-09, 19:11:46](https://news.ycombinator.com/item?id=44513750) - [Google fails to dismiss wiretapping claims on SJ, settles with app users](https://news.ycombinator.com/item?id=44513750)
 * [2025-07-09, 18:04:14](https://news.ycombinator.com/item?id=44513083) - [Desktop Publishing Tools That Didn't Make It (2022)](https://tedium.co/2022/10/12/forgotten-desktop-publishing-tools-history/)
 * [2025-07-09, 17:34:09](https://news.ycombinator.com/item?id=44512763) - [Show HN: FlopperZiro – A DIY open-source Flipper Zero clone](https://github.com/lraton/FlopperZiro)
@@ -22,12 +22,12 @@
 * [2025-07-08, 22:42:39](https://news.ycombinator.com/item?id=44504699) - [US Court nullifies FTC requirement for click-to-cancel](https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/)
 * [2025-07-08, 10:40:03](https://news.ycombinator.com/item?id=44498766) - [Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left](https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443)
 * [2025-07-07, 22:58:45](https://news.ycombinator.com/item?id=44495428) - [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
-* [2025-07-07, 14:39:18](https://news.ycombinator.com/item?id=44490848) - [Galiliean-invariant cosmological hydrodynamical simulations on a moving mesh](https://wwwmpa.mpa-garching.mpg.de/~volker/arepo/)
 * [2025-07-07, 11:52:10](https://news.ycombinator.com/item?id=44489359) - [7-Zip for Windows can now use more than 64 CPU threads for compression](https://www.7-zip.org/history.txt)
 * [2025-07-07, 06:58:10](https://news.ycombinator.com/item?id=44487451) - [Archaeologists unveil 3,500-year-old city in Peru](https://www.bbc.co.uk/news/articles/c07dmx38kyeo)
 * [2025-07-07, 05:39:17](https://news.ycombinator.com/item?id=44487110) - [I Ported SAP to a 1976 CPU. It Wasn't That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
 * [2025-07-06, 16:56:42](https://news.ycombinator.com/item?id=44482273) - [Jank Programming Language](https://jank-lang.org/)
 * [2025-07-06, 16:53:41](https://news.ycombinator.com/item?id=44482245) - [TaIrTe₄ photodetectors show promise for sensitive room-temperature THz sensing](https://phys.org/news/2025-07-tairte-photodetectors-highly-sensitive-room.html)
+* [2025-07-06, 12:49:31](https://news.ycombinator.com/item?id=44480363) - [The most otherworldly, mysterious forms of lightning on Earth](https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms)
 * [2025-07-06, 09:58:26](https://news.ycombinator.com/item?id=44479302) - [Ruby 3.4 frozen string literals: What Rails developers need to know](https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/)
 * [2025-07-06, 00:57:57](https://news.ycombinator.com/item?id=44476848) - [A Emoji Reverse Polish Notation Calculator Written in COBOL](https://github.com/ghuntley/cobol-emoji-rpn-calculator)
 
