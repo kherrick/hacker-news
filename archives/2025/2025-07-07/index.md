@@ -36,6 +36,7 @@
 * [2025-07-07, 12:43:16](https://news.ycombinator.com/item?id=44489797) - [New Quantum Paradox Clarifies Where Our Views of Reality Go Wrong](https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/)
 * [2025-07-07, 12:31:08](https://news.ycombinator.com/item?id=44489690) - [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
 * [2025-07-07, 12:15:17](https://news.ycombinator.com/item?id=44489552) - [AI Cameras Change Driver Behavior at Intersections](https://spectrum.ieee.org/ai-intersection-monitoring)
+* [2025-07-07, 11:52:10](https://news.ycombinator.com/item?id=44489359) - [7-Zip for Windows can now use more than 64 CPU threads for compression](https://www.7-zip.org/history.txt)
 * [2025-07-07, 10:44:04](https://news.ycombinator.com/item?id=44488810) - [Ask HN: Any resources for finding non-smart appliances?](https://news.ycombinator.com/item?id=44488810)
 * [2025-07-07, 10:33:14](https://news.ycombinator.com/item?id=44488742) - [I'm Building LLM for Satellite Data EarthGPT.app](https://www.earthgpt.app/)
 * [2025-07-07, 09:43:57](https://news.ycombinator.com/item?id=44488480) - [XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
