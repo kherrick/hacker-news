@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 14:40:24](https://news.ycombinator.com/item?id=44510600) - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
+* [2025-07-09, 14:39:02](https://news.ycombinator.com/item?id=44510584) - [Florida is letting companies make it harder for highly paid workers to swap jobs](https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7)
 * [2025-07-09, 14:14:46](https://news.ycombinator.com/item?id=44510320) - [Hugging Face just launched a $299 robot that could disrupt the robotics industry](https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/)
+* [2025-07-09, 14:12:16](https://news.ycombinator.com/item?id=44510282) - [A fast 3D collision detection algorithm](https://cairno.substack.com/p/improvements-to-the-separating-axis)
 * [2025-07-09, 12:31:56](https://news.ycombinator.com/item?id=44509254) - [4.6B Years On, the Sun Is Having a Moment](https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment)
 * [2025-07-09, 11:52:29](https://news.ycombinator.com/item?id=44508866) - [Using MPC for Anonymous and Private DNA Analysis](https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/)
 * [2025-07-09, 11:49:21](https://news.ycombinator.com/item?id=44508837) - [Million Times Million](https://susam.net/million-times-million.html)
@@ -14,6 +17,7 @@
 * [2025-07-09, 09:18:06](https://news.ycombinator.com/item?id=44507854) - [Astro is a return to the fundamentals of the web](https://websmith.studio/blog/astro-is-a-developers-dream/)
 * [2025-07-09, 09:13:10](https://news.ycombinator.com/item?id=44507830) - [ESIM Security](https://security-explorations.com/esim-security.html)
 * [2025-07-09, 08:47:21](https://news.ycombinator.com/item?id=44507673) - [The MCP hype is a distraction. AI Agents should just build their own tools](https://www.rtrvr.ai/blog/on-the-fly-toolgen)
+* [2025-07-09, 08:07:54](https://news.ycombinator.com/item?id=44507411) - [Systemd has been a complete, utter, unmitigated success](https://blog.tjll.net/the-systemd-revolution-has-been-a-success/)
 * [2025-07-09, 08:00:32](https://news.ycombinator.com/item?id=44507369) - [Show HN: Dev atrophy test – Can you still code without AI?](https://news.ycombinator.com/item?id=44507369)
 * [2025-07-09, 07:48:03](https://news.ycombinator.com/item?id=44507301) - [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
 * [2025-07-09, 07:44:25](https://news.ycombinator.com/item?id=44507284) - [PHP 8.5 alpha 1 is available for download](https://www.php.net/archive/2025.php)
