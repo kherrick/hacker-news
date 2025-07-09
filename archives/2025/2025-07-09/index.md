@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 07:48:03](https://news.ycombinator.com/item?id=44507301) - [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
+* [2025-07-09, 07:38:29](https://news.ycombinator.com/item?id=44507244) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
+* [2025-07-09, 07:29:52](https://news.ycombinator.com/item?id=44507200) - [Bug Stories](https://500mile.email/)
+* [2025-07-09, 07:26:09](https://news.ycombinator.com/item?id=44507180) - [Grow a Garden Calculator](https://growagardencalculators.net/)
+* [2025-07-09, 07:24:24](https://news.ycombinator.com/item?id=44507169) - [I Deleted My Steam Account After 20 Years](https://gist.github.com/Kaldaien/c66bf3dca62a5ac63785714f686e60ad)
+* [2025-07-09, 07:07:44](https://news.ycombinator.com/item?id=44507084) - [Show HN: I rewrote an outdated React Native map clustering library](https://github.com/suwi-lanji/rn-maps-clustering)
 * [2025-07-09, 07:04:36](https://news.ycombinator.com/item?id=44507076) - [Most RESTful APIs Aren't RESTful](https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html)
+* [2025-07-09, 07:02:33](https://news.ycombinator.com/item?id=44507061) - [Springer Nature book on machine learning is full of made-up citations](https://retractionwatch.com/2025/06/30/springer-nature-book-on-machine-learning-is-full-of-made-up-citations/)
 * [2025-07-09, 05:49:52](https://news.ycombinator.com/item?id=44506696) - [Helm local code execution via a malicious chart – CVE-2025-53547](https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm)
 * [2025-07-09, 04:39:44](https://news.ycombinator.com/item?id=44506397) - [Comparing the Climate and Productivity Impacts of a Shrinking Population](https://www.nber.org/papers/w33932)
 * [2025-07-09, 04:04:45](https://news.ycombinator.com/item?id=44506251) - [Phrase origin: Why do we \"call\" functions?](https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/)
