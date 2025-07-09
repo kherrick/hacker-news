@@ -47,6 +47,7 @@
 * [2025-07-07, 03:41:32](https://news.ycombinator.com/item?id=44486541) - [The Era of Full Stack Chip Designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
 * [2025-07-07, 03:31:33](https://news.ycombinator.com/item?id=44486499) - [Why Austin Is Falling Out of Favor for Tech Workers](https://www.wsj.com/podcasts/tech-news-briefing/why-austin-is-falling-out-of-favor-for-tech-workers/8bc9e026-76ef-46c8-933e-ec6901b3eb38)
 * [2025-07-07, 03:29:50](https://news.ycombinator.com/item?id=44486490) - [Southern Ocean Circulation Reversed](https://iefworld.org/SMOCreversal2025)
+* [2025-07-07, 03:05:32](https://news.ycombinator.com/item?id=44486368) - [Surfing on a Matchbox (1999)](http://news.bbc.co.uk/2/hi/science/nature/276762.stm)
 * [2025-07-07, 02:36:57](https://news.ycombinator.com/item?id=44486235) - [High Performance Image Sensor Processing Using FPGA [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
 * [2025-07-07, 02:33:29](https://news.ycombinator.com/item?id=44486208) - [America has two labor markets now](https://www.axios.com/2025/07/06/unemployment-job-market-education-health-care)
 * [2025-07-07, 02:30:49](https://news.ycombinator.com/item?id=44486193) - [Web3 Onboarding Was a Flop – and Thank Goodness](https://tomhadley.link/blog/web3-onboarding-flop)
