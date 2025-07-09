@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-09, 14:52:04",
+      "https://news.ycombinator.com/item?id=44510731"
+    ],
+    [
+      "X Chief Says She Is Leaving the Social Media Platform",
+      "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 14:40:24",
       "https://news.ycombinator.com/item?id=44510600"
     ],
@@ -147,16 +157,6 @@
     [
       "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
       "https://github.com/CyberTimon/RapidRAW"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 01:45:55",
-      "https://news.ycombinator.com/item?id=44505610"
-    ],
-    [
-      "Libpostal: C library for parsing/normalizing street addresses around the world",
-      "https://github.com/openvenues/libpostal"
     ]
   ],
   [
