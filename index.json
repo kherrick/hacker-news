@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-07-09, 09:29:16",
-      "https://news.ycombinator.com/item?id=44507919"
-    ],
-    [
-      "From AI to Agents to Agencies",
-      "https://blog.nishantsoni.com/p/from-ai-to-agents-to-agencies-the"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 09:18:06",
       "https://news.ycombinator.com/item?id=44507854"
     ],
@@ -31,16 +21,6 @@
   ],
   [
     [
-      "2025-07-09, 08:47:21",
-      "https://news.ycombinator.com/item?id=44507673"
-    ],
-    [
-      "The MCP hype is a distraction. AI Agents should just build their own tools",
-      "https://www.rtrvr.ai/blog/on-the-fly-toolgen"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 08:00:32",
       "https://news.ycombinator.com/item?id=44507369"
     ],
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44507301"
     ],
     [
-      "AI, Power and Sociolinguistics [pdf]",
+      "AI, power and sociolinguistics (2024)",
       "https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf"
     ]
   ],
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=44505816"
     ],
     [
-      "iPod Linux – Linux for Your iPod (2017)",
+      "iPod Linux (2017)",
       "http://www.ipodlinux.org/"
     ]
   ],
@@ -187,6 +167,16 @@
     [
       "US Court nullifies FTC requirement for click-to-cancel",
       "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 18:10:46",
+      "https://news.ycombinator.com/item?id=44502527"
+    ],
+    [
+      "Dynamical origin of Theia, the last giant impactor on Earth",
+      "https://arxiv.org/abs/2507.01826"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "I'm Building LLM for Satellite Data EarthGPT.app",
       "https://www.earthgpt.app/"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 09:58:26",
+      "https://news.ycombinator.com/item?id=44479302"
+    ],
+    [
+      "Ruby 3.4 Frozen String Literals: What Rails Developers Need to Know",
+      "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/"
     ]
   ],
   [
