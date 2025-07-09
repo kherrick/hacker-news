@@ -49,6 +49,7 @@
 * [2025-07-07, 06:58:10](https://news.ycombinator.com/item?id=44487451) - [Archaeologists unveil 3,500-year-old city in Peru](https://www.bbc.co.uk/news/articles/c07dmx38kyeo)
 * [2025-07-07, 05:39:17](https://news.ycombinator.com/item?id=44487110) - [I Ported SAP to a 1976 CPU. It Wasn't That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
 * [2025-07-07, 04:40:49](https://news.ycombinator.com/item?id=44486818) - ['Improved' Grok Criticizes Democrats and Hollywood's 'Jewish Executives'](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
+* [2025-07-07, 04:04:24](https://news.ycombinator.com/item?id=44486651) - [Splice: Cable Harness Design Made Simple](https://splice-cad.com)
 * [2025-07-07, 03:52:40](https://news.ycombinator.com/item?id=44486599) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 * [2025-07-07, 03:41:32](https://news.ycombinator.com/item?id=44486541) - [The Era of Full Stack Chip Designers](https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers)
 * [2025-07-07, 03:31:33](https://news.ycombinator.com/item?id=44486499) - [Why Austin Is Falling Out of Favor for Tech Workers](https://www.wsj.com/podcasts/tech-news-briefing/why-austin-is-falling-out-of-favor-for-tech-workers/8bc9e026-76ef-46c8-933e-ec6901b3eb38)
