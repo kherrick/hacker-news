@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-09, 04:04:45](https://news.ycombinator.com/item?id=44506251) - [Phrase origin: Why do we \"call\" functions?](https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/)
 * [2025-07-09, 02:37:28](https://news.ycombinator.com/item?id=44505876) - [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
 * [2025-07-09, 01:59:31](https://news.ycombinator.com/item?id=44505675) - [US court strikes down 'click-to-cancel' rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)
 * [2025-07-09, 01:45:55](https://news.ycombinator.com/item?id=44505610) - [Libpostal: C library for parsing/normalizing street addresses around the world](https://github.com/openvenues/libpostal)
@@ -20,7 +21,6 @@
 * [2025-07-08, 13:41:43](https://news.ycombinator.com/item?id=44499873) - [Blind to Disruption – The CEOs Who Missed the Future](https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/)
 * [2025-07-08, 08:57:01](https://news.ycombinator.com/item?id=44498296) - [Show HN: OffChess – Offline chess puzzles app](https://offchess.com)
 * [2025-07-07, 22:58:45](https://news.ycombinator.com/item?id=44495428) - [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
-* [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
 * [2025-07-07, 14:03:24](https://news.ycombinator.com/item?id=44490490) - [Rules of good writing (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 * [2025-07-07, 13:31:24](https://news.ycombinator.com/item?id=44490213) - [Ptar: Replacing .tgz for petabyte-scale S3 archives](https://plakar.io/posts/2025-06-30/technical-deep-dive-into-.ptar-replacing-.tgz-for-petabyte-scale-s3-archives/)
 * [2025-07-07, 03:05:32](https://news.ycombinator.com/item?id=44486368) - [Surfing on a Matchbox (1999)](http://news.bbc.co.uk/2/hi/science/nature/276762.stm)
