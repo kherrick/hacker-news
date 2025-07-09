@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-07-09, 11:29:46",
-      "https://news.ycombinator.com/item?id=44508699"
+      "2025-07-09, 12:31:56",
+      "https://news.ycombinator.com/item?id=44509254"
     ],
     [
-      "Why I don't ride the AI Hype Train",
-      "https://mertbulan.com/2025/06/26/why-i-dont-ride-the-ai-hype-train/"
+      "4.6B Years On, the Sun Is Having a Moment",
+      "https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 11:52:29",
+      "https://news.ycombinator.com/item?id=44508866"
+    ],
+    [
+      "Using MPC for Anonymous and Private DNA Analysis",
+      "https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 11:49:21",
+      "https://news.ycombinator.com/item?id=44508837"
+    ],
+    [
+      "Million Times Million",
+      "https://susam.net/million-times-million.html"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "ESIM Security",
       "https://security-explorations.com/esim-security.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 08:00:32",
-      "https://news.ycombinator.com/item?id=44507369"
-    ],
-    [
-      "Show HN: Dev atrophy test – Can you still code without AI?",
-      "https://news.ycombinator.com/item?id=44507369"
     ]
   ],
   [
@@ -101,22 +111,22 @@
   ],
   [
     [
-      "2025-07-09, 07:02:33",
-      "https://news.ycombinator.com/item?id=44507061"
-    ],
-    [
-      "Springer Nature book on machine learning is full of made-up citations",
-      "https://retractionwatch.com/2025/06/30/springer-nature-book-on-machine-learning-is-full-of-made-up-citations/"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 05:49:52",
       "https://news.ycombinator.com/item?id=44506696"
     ],
     [
       "Helm local code execution via a malicious chart",
       "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 04:04:45",
+      "https://news.ycombinator.com/item?id=44506251"
+    ],
+    [
+      "Phrase origin: Why do we \"call\" functions?",
+      "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
       "https://github.com/CyberTimon/RapidRAW"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 02:27:39",
-      "https://news.ycombinator.com/item?id=44505816"
-    ],
-    [
-      "iPod Linux (2017)",
-      "http://www.ipodlinux.org/"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "US Court nullifies FTC requirement for click-to-cancel",
       "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 18:03:20",
-      "https://news.ycombinator.com/item?id=44502463"
-    ],
-    [
-      "Brut: A New Web Framework for Ruby",
-      "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html"
     ]
   ],
   [
@@ -241,12 +231,32 @@
   ],
   [
     [
+      "2025-07-08, 10:40:03",
+      "https://news.ycombinator.com/item?id=44498766"
+    ],
+    [
+      "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
+      "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 22:58:45",
       "https://news.ycombinator.com/item?id=44495428"
     ],
     [
       "Bootstrapping a side project into a profitable seven-figure business",
       "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 18:16:36",
+      "https://news.ycombinator.com/item?id=44493174"
+    ],
+    [
+      "Serving a half billion requests per day with Rust and CGI",
+      "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Ruby 3.4 frozen string literals: What Rails developers need to know",
       "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 04:33:36",
-      "https://news.ycombinator.com/item?id=44477870"
-    ],
-    [
-      "The Capacity, Performance, and Reliability of MicroSD Cards",
-      "https://www.bahjeez.com/the-great-microsd-card-survey/"
     ]
   ],
   [
