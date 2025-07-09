@@ -22,12 +22,12 @@
 * [2025-07-08, 17:46:55](https://news.ycombinator.com/item?id=44502318) - [Supabase MCP can leak your entire SQL database](https://www.generalanalysis.com/blog/supabase-mcp-blog)
 * [2025-07-08, 17:44:35](https://news.ycombinator.com/item?id=44502298) - [Radium Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [2025-07-08, 16:13:40](https://news.ycombinator.com/item?id=44501413) - [Smollm3: Smol, multilingual, long-context reasoner LLM](https://huggingface.co/blog/smollm3)
-* [2025-07-08, 15:37:56](https://news.ycombinator.com/item?id=44501034) - [Zorin OS](https://zorin.com/os/)
 * [2025-07-08, 10:40:03](https://news.ycombinator.com/item?id=44498766) - [Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left](https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443)
 * [2025-07-07, 22:58:45](https://news.ycombinator.com/item?id=44495428) - [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
 * [2025-07-07, 18:16:36](https://news.ycombinator.com/item?id=44493174) - [Serving a half billion requests per day with Rust and CGI](https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/)
 * [2025-07-07, 11:52:10](https://news.ycombinator.com/item?id=44489359) - [7-Zip for Windows can now use more than 64 CPU threads for compression](https://www.7-zip.org/history.txt)
 * [2025-07-07, 10:33:14](https://news.ycombinator.com/item?id=44488742) - [I'm Building LLM for Satellite Data EarthGPT.app](https://www.earthgpt.app/)
+* [2025-07-07, 05:39:17](https://news.ycombinator.com/item?id=44487110) - [I Ported SAP to a 1976 CPU. It Wasn't That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
 * [2025-07-06, 09:58:26](https://news.ycombinator.com/item?id=44479302) - [Ruby 3.4 frozen string literals: What Rails developers need to know](https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/)
 * [2025-07-05, 18:37:00](https://news.ycombinator.com/item?id=44474620) - [Proposal: GUI-first, text-based mechanical CAD inspired by software engineering](https://news.ycombinator.com/item?id=44474620)
 
