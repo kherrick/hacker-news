@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 22:15:56](https://news.ycombinator.com/item?id=44515251) - [Delete WhatsApp and Install Signal](https://andrewsteele.co.uk/blog/2025/07/delete-whatsapp-install-signal/)
 * [2025-07-09, 21:54:53](https://news.ycombinator.com/item?id=44515101) - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
 * [2025-07-09, 21:34:30](https://news.ycombinator.com/item?id=44514946) - [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
 * [2025-07-09, 21:06:38](https://news.ycombinator.com/item?id=44514753) - [Show HN: MCP server for searching and downloading documents from Anna's Archive](https://github.com/iosifache/annas-mcp)
