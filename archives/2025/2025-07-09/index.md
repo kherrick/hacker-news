@@ -9,6 +9,7 @@
 * [2025-07-09, 04:04:45](https://news.ycombinator.com/item?id=44506251) - [Phrase origin: Why do we \"call\" functions?](https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/)
 * [2025-07-09, 03:34:37](https://news.ycombinator.com/item?id=44506117) - [Where can I see Hokusai's Great Wave today?](https://greatwavetoday.com/)
 * [2025-07-09, 02:37:28](https://news.ycombinator.com/item?id=44505876) - [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
+* [2025-07-09, 02:27:39](https://news.ycombinator.com/item?id=44505816) - [iPod Linux – Linux for Your iPod](http://www.ipodlinux.org/)
 * [2025-07-09, 01:59:31](https://news.ycombinator.com/item?id=44505675) - [US court strikes down 'click-to-cancel' rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)
 * [2025-07-09, 01:45:55](https://news.ycombinator.com/item?id=44505610) - [Libpostal: C library for parsing/normalizing street addresses around the world](https://github.com/openvenues/libpostal)
 * [2025-07-09, 00:56:29](https://news.ycombinator.com/item?id=44505359) - [Swahili on the Road](https://www.historytoday.com/archive/behind-times/swahili-road)
