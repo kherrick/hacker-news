@@ -129,6 +129,192 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44507301">
+          <h3>
+            <a
+              class="item"
+              href="https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf"
+              >AI, Power and Sociolinguistics [pdf]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-09 @ 07:48:03</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44507301"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44507244">
+          <h3>
+            <a
+              class="item"
+              href="https://www.robinsloan.com/lab/what-are-we-even-doing-here/"
+              >Is the doc bot docs, or not?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-09 @ 07:38:29</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44507244"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44507200">
+          <h3><a class="item" href="https://500mile.email/">Bug Stories</a></h3>
+          <section>
+            <h4>
+              <span>2025-07-09 @ 07:29:52</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44507200"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44507180">
+          <h3>
+            <a class="item" href="https://growagardencalculators.net/"
+              >Grow a Garden Calculator</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-09 @ 07:26:09</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44507180"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44507169">
+          <h3>
+            <a
+              class="item"
+              href="https://gist.github.com/Kaldaien/c66bf3dca62a5ac63785714f686e60ad"
+              >I Deleted My Steam Account After 20 Years</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-09 @ 07:24:24</span
+              ><span class="points-container"
+                >Points: <span class="points">50</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44507169"
+                  >Comments</a
+                ><span class="descendants">: 42</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44507084">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/suwi-lanji/rn-maps-clustering"
+              >Show HN: I rewrote an outdated React Native map clustering
+              library</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-09 @ 07:07:44</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44507084"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I'm a long-time lurker and wanted to share a project I just
+                finished building.
+              </p>
+              <p>
+                Like many React Native developers, I needed to add marker
+                clustering to a map in my app. The most popular library for
+                this, react-native-maps-clustering, was fantastic in its day but
+                has become outdated and no longer works with modern versions of
+                Expo, React Native, and their dependencies.
+              </p>
+              <p>
+                After hitting a wall of compatibility issues, I decided to take
+                on the challenge of rewriting it from the ground up, focusing on
+                a modern toolchain and a better developer experience.
+              </p>
+              <p>
+                The journey was a lot more challenging than I anticipated. It
+                turned into a deep dive into solving dependency hell with
+                different versions of @types/react, wrestling with build tool
+                configurations for pnpm, bob, and ESLint, and ensuring
+                everything was strictly typed with TypeScript. It felt like a
+                classic case of yak shaving, but I was determined to create a
+                solution that "just works" for developers today.
+              </p>
+              <p>
+                The result is RN Super Cluster, a performant, fully-typed, and
+                easy-to-use clustering library for react-native-maps.
+              </p>
+              <p>
+                What it does: It provides a &lt;ClusteredMapView /&gt; component
+                that you can use as a drop-in replacement for the standard
+                &lt;MapView /&gt;. Any &lt;Marker /&gt; components you place
+                inside will be automatically clustered.
+              </p>
+              <p>Key Features:</p>
+              <p></p>
+              <pre><code>    Modern &amp; Maintained: Built with a modern toolchain and designed to be actively maintained.
+
+    Fully-Typed: Written entirely in TypeScript to prevent common errors and improve autocompletion.
+
+    High-Performance: Uses supercluster under the hood for extremely fast geospatial clustering.
+
+    Spiderfier: At the maximum zoom level, overlapping markers automatically "spiderfy" (spread out on a spiral) so they can be individually tapped.
+
+    Customizable: You can provide your own custom components for rendering clusters, and callbacks for handling press events.
+</code></pre>
+              This was a passion project born out of necessity, and I hope it
+              can save other React Native developers the headaches I went
+              through.
+              <p>
+                I would love to get your feedback, and contributions are more
+                than welcome!
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/suwi-lanji/rn-maps-clustering"
+                  >https://github.com/suwi-lanji/rn-maps-clustering</a
+                >
+                NPM:
+                <a href="https://www.npmjs.com/package/rn-maps-clustering"
+                  >https://www.npmjs.com/package/rn-maps-clustering</a
+                >
+              </p>
+              <p>Thanks for checking it out!</p>
+            </div>
+          </section>
+        </section>
         <section id="44507076">
           <h3>
             <a
@@ -141,11 +327,33 @@
             <h4>
               <span>2025-07-09 @ 07:04:36</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44507076"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44507061">
+          <h3>
+            <a
+              class="item"
+              href="https://retractionwatch.com/2025/06/30/springer-nature-book-on-machine-learning-is-full-of-made-up-citations/"
+              >Springer Nature book on machine learning is full of made-up
+              citations</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-09 @ 07:02:33</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44507061"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -163,31 +371,11 @@
             <h4>
               <span>2025-07-09 @ 05:49:52</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44506696"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44506397">
-          <h3>
-            <a class="item" href="https://www.nber.org/papers/w33932"
-              >Comparing the Climate and Productivity Impacts of a Shrinking
-              Population</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-09 @ 04:39:44</span
-              ><span class="points-container"
-                >Points: <span class="points">16</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44506397"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -202,11 +390,11 @@
             <h4>
               <span>2025-07-09 @ 03:34:37</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44506117"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -222,11 +410,11 @@
             <h4>
               <span>2025-07-09 @ 02:37:28</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44505876"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -241,11 +429,11 @@
             <h4>
               <span>2025-07-09 @ 02:27:39</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44505816"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -261,7 +449,7 @@
             <h4>
               <span>2025-07-09 @ 01:45:55</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44505610"
                   >Comments</a
@@ -282,7 +470,7 @@
             <h4>
               <span>2025-07-09 @ 00:56:29</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44505359"
                   >Comments</a
@@ -301,32 +489,11 @@
             <h4>
               <span>2025-07-09 @ 00:14:19</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44505171"
                   >Comments</a
                 ><span class="descendants">: 15</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44505165">
-          <h3>
-            <a
-              class="item"
-              href="https://www.dolthub.com/blog/2024-06-25-polymorphic-associations/"
-              >Choosing a Database Schema for Polymorphic Data (2024)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-09 @ 00:13:21</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44505165"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -343,11 +510,11 @@
             <h4>
               <span>2025-07-08 @ 22:42:39</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44504699"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -382,11 +549,11 @@
             <h4>
               <span>2025-07-08 @ 18:10:46</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44502527"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -403,11 +570,11 @@
             <h4>
               <span>2025-07-08 @ 18:03:20</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44502463"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -424,11 +591,11 @@
             <h4>
               <span>2025-07-08 @ 17:48:29</span
               ><span class="points-container"
-                >Points: <span class="points">311</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44502330"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -445,11 +612,11 @@
             <h4>
               <span>2025-07-08 @ 17:46:55</span
               ><span class="points-container"
-                >Points: <span class="points">691</span></span
+                >Points: <span class="points">695</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44502318"
                   >Comments</a
-                ><span class="descendants">: 353</span></span
+                ><span class="descendants">: 355</span></span
               >
             </h4>
           </section>
@@ -464,30 +631,11 @@
             <h4>
               <span>2025-07-08 @ 17:44:35</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44502298"
                   >Comments</a
                 ><span class="descendants">: 43</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44501821">
-          <h3>
-            <a class="item" href="https://mips.com/press-releases/gf-mips/"
-              >GlobalFoundries to Acquire MIPS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-08 @ 16:57:18</span
-              ><span class="points-container"
-                >Points: <span class="points">204</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44501821"
-                  >Comments</a
-                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -502,11 +650,11 @@
             <h4>
               <span>2025-07-08 @ 16:13:40</span
               ><span class="points-container"
-                >Points: <span class="points">286</span></span
+                >Points: <span class="points">287</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44501413"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -525,7 +673,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44498296"
                   >Comments</a
-                ><span class="descendants">: 140</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
             <div class="text">
@@ -583,11 +731,11 @@
             <h4>
               <span>2025-07-07 @ 22:58:45</span
               ><span class="points-container"
-                >Points: <span class="points">489</span></span
+                >Points: <span class="points">501</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44495428"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -604,11 +752,11 @@
             <h4>
               <span>2025-07-07 @ 16:47:34</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44492175"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -624,11 +772,11 @@
             <h4>
               <span>2025-07-07 @ 11:52:10</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44489359"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -643,11 +791,11 @@
             <h4>
               <span>2025-07-07 @ 10:33:14</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44488742"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -668,91 +816,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44486368"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44484557">
-          <h3>
-            <a
-              class="item"
-              href="https://www.newscientist.com/article/2486823-new-horizons-images-enable-first-test-of-interstellar-navigation/"
-              >New Horizons images enable first test of interstellar
-              navigation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-06 @ 22:12:09</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44484557"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44472812">
-          <h3>
-            <a class="item" href="https://ceramic-engine.com/"
-              >Ceramic: A cross-platform and open-source 2D framework in Haxe</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-05 @ 13:52:31</span
-              ><span class="points-container"
-                >Points: <span class="points">77</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44472812"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44472613">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nature.com/articles/s41586-025-09223-4"
-              >Plants monitor the integrity of their barrier by sensing gas
-              diffusion</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-05 @ 13:18:39</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44472613"
-                  >Comments</a
-                ><span class="descendants">: 37</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44466030">
-          <h3>
-            <a
-              class="item"
-              href="https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025"
-              >Can an email go 500 miles in 2025?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-04 @ 16:49:27</span
-              ><span class="points-container"
-                >Points: <span class="points">293</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44466030"
-                  >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -769,7 +833,7 @@
             <h4>
               <span>2025-07-03 @ 14:56:00</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44455707"
                   >Comments</a
