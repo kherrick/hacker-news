@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 22:37:17](https://news.ycombinator.com/item?id=44515403) - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
+* [2025-07-09, 22:36:26](https://news.ycombinator.com/item?id=44515398) - [Vim Fugitive in Action (2021)](https://dzx.fr/blog/introduction-to-vim-fugitive/)
 * [2025-07-09, 22:15:56](https://news.ycombinator.com/item?id=44515251) - [Delete WhatsApp and Install Signal](https://andrewsteele.co.uk/blog/2025/07/delete-whatsapp-install-signal/)
 * [2025-07-09, 21:54:53](https://news.ycombinator.com/item?id=44515101) - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
+* [2025-07-09, 21:53:19](https://news.ycombinator.com/item?id=44515087) - [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
 * [2025-07-09, 21:44:22](https://news.ycombinator.com/item?id=44515023) - [White Noise – secure and private messenger](https://www.whitenoise.chat/)
 * [2025-07-09, 21:34:30](https://news.ycombinator.com/item?id=44514946) - [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
 * [2025-07-09, 21:24:28](https://news.ycombinator.com/item?id=44514877) - [Memory-Level Parallelism: Apple M2 vs. Apple M4](https://lemire.me/blog/2025/07/09/memory-level-parallelism-apple-m2-vs-apple-m4/)
