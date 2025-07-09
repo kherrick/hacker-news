@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-09, 14:14:46",
+      "https://news.ycombinator.com/item?id=44510320"
+    ],
+    [
+      "Hugging Face just launched a $299 robot that could disrupt the robotics industry",
+      "https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 11:52:29",
       "https://news.ycombinator.com/item?id=44508866"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-07-08, 18:03:20",
-      "https://news.ycombinator.com/item?id=44502463"
-    ],
-    [
-      "Brut: A New Web Framework for Ruby",
-      "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html"
-    ]
-  ],
-  [
-    [
       "2025-07-08, 17:48:29",
       "https://news.ycombinator.com/item?id=44502330"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-07-05, 18:37:00",
-      "https://news.ycombinator.com/item?id=44474620"
+      "2025-07-06, 00:57:57",
+      "https://news.ycombinator.com/item?id=44476848"
     ],
     [
-      "Proposal: GUI-first, text-based mechanical CAD inspired by software engineering",
-      "https://news.ycombinator.com/item?id=44474620"
+      "A Emoji Reverse Polish Notation Calculator Written in COBOL",
+      "https://github.com/ghuntley/cobol-emoji-rpn-calculator"
     ]
   ]
 ]
