@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-09, 22:15:56",
-      "https://news.ycombinator.com/item?id=44515251"
+      "2025-07-09, 22:37:17",
+      "https://news.ycombinator.com/item?id=44515403"
     ],
     [
-      "Why you should delete WhatsApp and install Signal",
-      "https://andrewsteele.co.uk/blog/2025/07/delete-whatsapp-install-signal/"
+      "MCP-B: A Protocol for AI Browser Automation",
+      "https://mcp-b.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 22:36:26",
+      "https://news.ycombinator.com/item?id=44515398"
+    ],
+    [
+      "Vim Fugitive in Action (2021)",
+      "https://dzx.fr/blog/introduction-to-vim-fugitive/"
     ]
   ],
   [
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2025-07-09, 21:53:19",
+      "https://news.ycombinator.com/item?id=44515087"
+    ],
+    [
+      "Multi-Region Row Level Security in CockroachDB",
+      "https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 21:44:22",
       "https://news.ycombinator.com/item?id=44515023"
     ],
     [
       "White Noise – secure and private messenger",
       "https://www.whitenoise.chat/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 21:34:30",
-      "https://news.ycombinator.com/item?id=44514946"
-    ],
-    [
-      "HyAB k-means for color quantization",
-      "https://30fps.net/pages/hyab-kmeans/"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44514550"
     ],
     [
-      "The Death of Partying in the USA and Why It Matters",
+      "The Death of Partying in the USA",
       "https://www.derekthompson.org/p/the-death-of-partying-in-the-usaand"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Most RESTful APIs aren't really RESTful",
       "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 05:49:52",
-      "https://news.ycombinator.com/item?id=44506696"
-    ],
-    [
-      "Helm local code execution via a malicious chart",
-      "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm"
     ]
   ],
   [
