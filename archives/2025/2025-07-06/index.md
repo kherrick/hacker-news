@@ -34,6 +34,7 @@
 * [2025-07-06, 17:00:02](https://news.ycombinator.com/item?id=44482301) - [Metriport (YC S22) is hiring engineers to improve healthcare data exchange](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer)
 * [2025-07-06, 16:46:01](https://news.ycombinator.com/item?id=44482194) - [Async Queue – One of my favorite programming interview questions](https://davidgomes.com/async-queue-interview-ai/)
 * [2025-07-06, 16:26:33](https://news.ycombinator.com/item?id=44482051) - [Whistleblower: Huawei cloned Qwen and DeepSeek models, claimed as own](https://dilemmaworks.substack.com/p/whistleblower-huawei-cloned-and-renamed)
+* [2025-07-06, 16:17:47](https://news.ycombinator.com/item?id=44482001) - [At the frontier between two lives–the evolutionary origins of pregnancy](https://phys.org/news/2025-07-frontier-evolutionary-pregnancy.html)
 * [2025-07-06, 16:13:48](https://news.ycombinator.com/item?id=44481964) - [ChatGPT is pushing people towards mania, psychosis and death](https://www.the-independent.com/tech/chatgpt-psychosis-ai-therapy-chatbot-b2781202.html)
 * [2025-07-06, 15:18:35](https://news.ycombinator.com/item?id=44481464) - [Functions Are Vectors (2023)](https://thenumb.at/Functions-are-Vectors/)
 * [2025-07-06, 15:15:51](https://news.ycombinator.com/item?id=44481441) - [Hannah Cairo has solved the Mizohata-Takeuchi conjecture](https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html)
