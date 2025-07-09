@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 19:14:02](https://news.ycombinator.com/item?id=44513769) - [Perplexity Comet](https://comet.perplexity.ai/?a=b)
+* [2025-07-09, 18:04:14](https://news.ycombinator.com/item?id=44513083) - [Desktop Publishing Tools That Didn't Make It](https://tedium.co/2022/10/12/forgotten-desktop-publishing-tools-history/)
 * [2025-07-09, 17:34:09](https://news.ycombinator.com/item?id=44512763) - [Show HN: FlopperZiro – A DIY open-source Flipper Zero clone](https://github.com/lraton/FlopperZiro)
 * [2025-07-09, 17:26:50](https://news.ycombinator.com/item?id=44512684) - [Evolution Mail Users Easily Trackable](https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable)
 * [2025-07-09, 17:08:54](https://news.ycombinator.com/item?id=44512470) - [Configuring Split Horizon DNS with Pi-Hole and Tailscale](https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html)
