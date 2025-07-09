@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-09, 19:20:08",
+      "https://news.ycombinator.com/item?id=44513843"
+    ],
+    [
+      "Biomni: A General-Purpose Biomedical AI Agent",
+      "https://github.com/snap-stanford/Biomni"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 19:14:02",
       "https://news.ycombinator.com/item?id=44513769"
     ],
@@ -107,16 +117,6 @@
     [
       "Using MPC for Anonymous and Private DNA Analysis",
       "https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 09:42:17",
-      "https://news.ycombinator.com/item?id=44507971"
-    ],
-    [
-      "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
-      "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-07-07, 04:04:24",
-      "https://news.ycombinator.com/item?id=44486651"
-    ],
-    [
-      "Splice: Cable Harness Design Made Simple",
-      "https://splice-cad.com"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 16:56:42",
       "https://news.ycombinator.com/item?id=44482273"
     ],
     [
       "Jank Programming Language",
       "https://jank-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 16:53:41",
+      "https://news.ycombinator.com/item?id=44482245"
+    ],
+    [
+      "TaIrTe₄ photodetectors show promise for sensitive room-temperature THz sensing",
+      "https://phys.org/news/2025-07-tairte-photodetectors-highly-sensitive-room.html"
     ]
   ],
   [
