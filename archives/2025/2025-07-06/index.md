@@ -11,6 +11,7 @@
 * [2025-07-06, 22:27:39](https://news.ycombinator.com/item?id=44484688) - [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
 * [2025-07-06, 22:26:44](https://news.ycombinator.com/item?id=44484682) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 * [2025-07-06, 22:16:37](https://news.ycombinator.com/item?id=44484595) - [Nobody has a personality anymore: we are products with labels](https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore)
+* [2025-07-06, 22:12:09](https://news.ycombinator.com/item?id=44484557) - [New Horizons images enable first test of interstellar navigation](https://www.newscientist.com/article/2486823-new-horizons-images-enable-first-test-of-interstellar-navigation/)
 * [2025-07-06, 21:46:02](https://news.ycombinator.com/item?id=44484363) - [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
 * [2025-07-06, 21:27:28](https://news.ycombinator.com/item?id=44484207) - [LLMs should not replace therapists](https://arxiv.org/abs/2504.18412)
 * [2025-07-06, 21:18:26](https://news.ycombinator.com/item?id=44484137) - [Why English doesn't use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
