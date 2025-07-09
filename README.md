@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-09, 20:45:19](https://news.ycombinator.com/item?id=44514559) - [QRS: Epsilon Wrangling](https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling)
 * [2025-07-09, 19:20:08](https://news.ycombinator.com/item?id=44513843) - [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
 * [2025-07-09, 19:16:55](https://news.ycombinator.com/item?id=44513801) - [Let Kids Be Loud](https://www.afterbabel.com/p/let-kids-be-loud)
 * [2025-07-09, 19:11:46](https://news.ycombinator.com/item?id=44513750) - [Google fails to dismiss wiretapping claims on SJ, settles with app users](https://news.ycombinator.com/item?id=44513750)
@@ -21,7 +22,6 @@
 * [2025-07-08, 22:42:39](https://news.ycombinator.com/item?id=44504699) - [US Court nullifies FTC requirement for click-to-cancel](https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/)
 * [2025-07-08, 10:40:03](https://news.ycombinator.com/item?id=44498766) - [Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left](https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443)
 * [2025-07-07, 22:58:45](https://news.ycombinator.com/item?id=44495428) - [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
-* [2025-07-07, 14:39:18](https://news.ycombinator.com/item?id=44490848) - [Galiliean-invariant cosmological hydrodynamical simulations on a moving mesh](https://wwwmpa.mpa-garching.mpg.de/~volker/arepo/)
 * [2025-07-07, 11:52:10](https://news.ycombinator.com/item?id=44489359) - [7-Zip for Windows can now use more than 64 CPU threads for compression](https://www.7-zip.org/history.txt)
 * [2025-07-07, 06:58:10](https://news.ycombinator.com/item?id=44487451) - [Archaeologists unveil 3,500-year-old city in Peru](https://www.bbc.co.uk/news/articles/c07dmx38kyeo)
 * [2025-07-07, 05:39:17](https://news.ycombinator.com/item?id=44487110) - [I Ported SAP to a 1976 CPU. It Wasn't That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
