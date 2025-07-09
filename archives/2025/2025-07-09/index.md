@@ -11,6 +11,7 @@
 * [2025-07-09, 14:14:46](https://news.ycombinator.com/item?id=44510320) - [Hugging Face just launched a $299 robot that could disrupt the robotics industry](https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/)
 * [2025-07-09, 14:12:16](https://news.ycombinator.com/item?id=44510282) - [A fast 3D collision detection algorithm](https://cairno.substack.com/p/improvements-to-the-separating-axis)
 * [2025-07-09, 13:45:54](https://news.ycombinator.com/item?id=44509988) - [Nvidia Becomes First Company to Reach $4T Market Cap](https://www.cnbc.com/2025/07/09/nvidia-4-trillion.html)
+* [2025-07-09, 13:26:25](https://news.ycombinator.com/item?id=44509790) - [Jurisdiction Is Nearly Irrelevant to the Security of Encrypted Messaging Apps](https://soatok.blog/2025/07/09/jurisdiction-is-nearly-irrelevant-to-the-security-of-encrypted-messaging-apps/)
 * [2025-07-09, 12:31:56](https://news.ycombinator.com/item?id=44509254) - [4.6B Years On, the Sun Is Having a Moment](https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment)
 * [2025-07-09, 11:52:29](https://news.ycombinator.com/item?id=44508866) - [Using MPC for Anonymous and Private DNA Analysis](https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/)
 * [2025-07-09, 11:49:21](https://news.ycombinator.com/item?id=44508837) - [Million Times Million](https://susam.net/million-times-million.html)
