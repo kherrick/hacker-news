@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 21:34:30](https://news.ycombinator.com/item?id=44514946) - [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
 * [2025-07-09, 21:06:38](https://news.ycombinator.com/item?id=44514753) - [Show HN: MCP server for searching and downloading documents from Anna's Archive](https://github.com/iosifache/annas-mcp)
 * [2025-07-09, 20:45:19](https://news.ycombinator.com/item?id=44514559) - [QRS: Epsilon Wrangling](https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling)
 * [2025-07-09, 20:29:47](https://news.ycombinator.com/item?id=44514437) - [A Null Pointer Exception Brought Down Mighty Google;7 Hours of Downtime](https://www.getpanto.ai/blogs/09-07-2025/how-a-null-pointer-exception-brought-down-mighty-google-7-hours-of-downtime-explained)
+* [2025-07-09, 19:31:46](https://news.ycombinator.com/item?id=44513940) - [Would You Like an IDOR With That? Leaking 64m McDonald's Job Applications](https://ian.sh/mcdonalds)
 * [2025-07-09, 19:20:08](https://news.ycombinator.com/item?id=44513843) - [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
 * [2025-07-09, 19:16:55](https://news.ycombinator.com/item?id=44513801) - [Let Kids Be Loud](https://www.afterbabel.com/p/let-kids-be-loud)
 * [2025-07-09, 19:14:02](https://news.ycombinator.com/item?id=44513769) - [Perplexity Comet](https://comet.perplexity.ai/?a=b)
