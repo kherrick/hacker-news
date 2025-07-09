@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-09, 14:40:24",
+      "https://news.ycombinator.com/item?id=44510600"
+    ],
+    [
+      "Tree Borrows",
+      "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 14:39:02",
+      "https://news.ycombinator.com/item?id=44510584"
+    ],
+    [
+      "Florida is letting companies make it harder for highly paid workers to swap jobs",
+      "https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 14:14:46",
       "https://news.ycombinator.com/item?id=44510320"
     ],
     [
       "Hugging Face just launched a $299 robot that could disrupt the robotics industry",
       "https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 14:12:16",
+      "https://news.ycombinator.com/item?id=44510282"
+    ],
+    [
+      "A fast 3D collision detection algorithm",
+      "https://cairno.substack.com/p/improvements-to-the-separating-axis"
     ]
   ],
   [
@@ -51,42 +81,22 @@
   ],
   [
     [
+      "2025-07-09, 08:07:54",
+      "https://news.ycombinator.com/item?id=44507411"
+    ],
+    [
+      "Systemd has been a complete, utter, unmitigated success",
+      "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 07:38:29",
       "https://news.ycombinator.com/item?id=44507244"
     ],
     [
       "Is the doc bot docs, or not?",
       "https://www.robinsloan.com/lab/what-are-we-even-doing-here/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 07:29:52",
-      "https://news.ycombinator.com/item?id=44507200"
-    ],
-    [
-      "Bug Stories",
-      "https://500mile.email/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 07:24:13",
-      "https://news.ycombinator.com/item?id=44507166"
-    ],
-    [
-      "SUSE launches new European digital sovereignty service to meet surging demand",
-      "https://www.zdnet.com/article/suse-launches-new-european-digital-sovereignty-support-service-to-meet-surging-demand/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 07:07:44",
-      "https://news.ycombinator.com/item?id=44507084"
-    ],
-    [
-      "Show HN: I rewrote an outdated React Native map clustering library",
-      "https://github.com/suwi-lanji/rn-maps-clustering"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Supabase MCP can leak your entire SQL database",
       "https://www.generalanalysis.com/blog/supabase-mcp-blog"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 17:44:35",
-      "https://news.ycombinator.com/item?id=44502298"
-    ],
-    [
-      "Radium Music Editor",
-      "http://users.notam02.no/~kjetism/radium/"
     ]
   ],
   [
