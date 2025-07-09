@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 09:29:16](https://news.ycombinator.com/item?id=44507919) - [From AI to Agents to Agencies](https://blog.nishantsoni.com/p/from-ai-to-agents-to-agencies-the)
 * [2025-07-09, 09:18:06](https://news.ycombinator.com/item?id=44507854) - [Astro is a return to the fundamentals of the web](https://websmith.studio/blog/astro-is-a-developers-dream/)
 * [2025-07-09, 09:13:10](https://news.ycombinator.com/item?id=44507830) - [ESIM Security](https://security-explorations.com/esim-security.html)
+* [2025-07-09, 08:47:21](https://news.ycombinator.com/item?id=44507673) - [The MCP hype is a distraction. AI Agents should just build their own tools](https://www.rtrvr.ai/blog/on-the-fly-toolgen)
+* [2025-07-09, 08:00:32](https://news.ycombinator.com/item?id=44507369) - [Show HN: Dev atrophy test – Can you still code without AI?](https://news.ycombinator.com/item?id=44507369)
 * [2025-07-09, 07:48:03](https://news.ycombinator.com/item?id=44507301) - [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
 * [2025-07-09, 07:44:25](https://news.ycombinator.com/item?id=44507284) - [PHP 8.5 alpha 1 is available for download](https://www.php.net/archive/2025.php)
 * [2025-07-09, 07:38:29](https://news.ycombinator.com/item?id=44507244) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
