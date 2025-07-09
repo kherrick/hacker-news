@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-09, 11:29:46](https://news.ycombinator.com/item?id=44508699) - [Why I don't ride the AI Hype Train](https://mertbulan.com/2025/06/26/why-i-dont-ride-the-ai-hype-train/)
 * [2025-07-09, 09:42:17](https://news.ycombinator.com/item?id=44507971) - [IKEA ditches Zigbee for Thread going all in on Matter smart homes](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
 * [2025-07-09, 09:18:06](https://news.ycombinator.com/item?id=44507854) - [Astro is a return to the fundamentals of the web](https://websmith.studio/blog/astro-is-a-developers-dream/)
 * [2025-07-09, 09:13:10](https://news.ycombinator.com/item?id=44507830) - [ESIM Security](https://security-explorations.com/esim-security.html)
@@ -22,14 +23,13 @@
 * [2025-07-08, 17:46:55](https://news.ycombinator.com/item?id=44502318) - [Supabase MCP can leak your entire SQL database](https://www.generalanalysis.com/blog/supabase-mcp-blog)
 * [2025-07-08, 17:44:35](https://news.ycombinator.com/item?id=44502298) - [Radium Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [2025-07-08, 16:13:40](https://news.ycombinator.com/item?id=44501413) - [Smollm3: Smol, multilingual, long-context reasoner LLM](https://huggingface.co/blog/smollm3)
-* [2025-07-08, 08:57:01](https://news.ycombinator.com/item?id=44498296) - [Show HN: OffChess – Offline chess puzzles app](https://offchess.com)
+* [2025-07-08, 15:37:56](https://news.ycombinator.com/item?id=44501034) - [Zorin OS](https://zorin.com/os/)
 * [2025-07-07, 22:58:45](https://news.ycombinator.com/item?id=44495428) - [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
 * [2025-07-07, 11:52:10](https://news.ycombinator.com/item?id=44489359) - [7-Zip for Windows can now use more than 64 CPU threads for compression](https://www.7-zip.org/history.txt)
 * [2025-07-07, 10:33:14](https://news.ycombinator.com/item?id=44488742) - [I'm Building LLM for Satellite Data EarthGPT.app](https://www.earthgpt.app/)
 * [2025-07-06, 09:58:26](https://news.ycombinator.com/item?id=44479302) - [Ruby 3.4 frozen string literals: What Rails developers need to know](https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/)
 * [2025-07-06, 04:33:36](https://news.ycombinator.com/item?id=44477870) - [The Capacity, Performance, and Reliability of MicroSD Cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
 * [2025-07-05, 18:37:00](https://news.ycombinator.com/item?id=44474620) - [Proposal: GUI-first, text-based mechanical CAD inspired by software engineering](https://news.ycombinator.com/item?id=44474620)
-* [2025-07-03, 14:56:00](https://news.ycombinator.com/item?id=44455707) - [Taking over 60k spyware user accounts with SQL injection](https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/)
 
 ## [Archives](archives/index.md)
 
