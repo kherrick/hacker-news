@@ -6,7 +6,9 @@
 
 * [2025-07-09, 22:15:56](https://news.ycombinator.com/item?id=44515251) - [Delete WhatsApp and Install Signal](https://andrewsteele.co.uk/blog/2025/07/delete-whatsapp-install-signal/)
 * [2025-07-09, 21:54:53](https://news.ycombinator.com/item?id=44515101) - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
+* [2025-07-09, 21:44:22](https://news.ycombinator.com/item?id=44515023) - [White Noise – secure and private messenger](https://www.whitenoise.chat/)
 * [2025-07-09, 21:34:30](https://news.ycombinator.com/item?id=44514946) - [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
+* [2025-07-09, 21:24:28](https://news.ycombinator.com/item?id=44514877) - [Memory-Level Parallelism: Apple M2 vs. Apple M4](https://lemire.me/blog/2025/07/09/memory-level-parallelism-apple-m2-vs-apple-m4/)
 * [2025-07-09, 21:06:38](https://news.ycombinator.com/item?id=44514753) - [Show HN: MCP server for searching and downloading documents from Anna's Archive](https://github.com/iosifache/annas-mcp)
 * [2025-07-09, 20:45:19](https://news.ycombinator.com/item?id=44514559) - [QRS: Epsilon Wrangling](https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling)
 * [2025-07-09, 20:43:43](https://news.ycombinator.com/item?id=44514550) - [The Death of Partying in the USA and Why It Matters](https://www.derekthompson.org/p/the-death-of-partying-in-the-usaand)
