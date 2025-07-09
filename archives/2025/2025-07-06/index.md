@@ -17,6 +17,7 @@
 * [2025-07-06, 21:18:26](https://news.ycombinator.com/item?id=44484137) - [Why English doesn't use accents](https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents)
 * [2025-07-06, 21:09:42](https://news.ycombinator.com/item?id=44484074) - [Crypto 101 – Introductory course on cryptography](https://www.crypto101.io/)
 * [2025-07-06, 21:01:51](https://news.ycombinator.com/item?id=44484026) - [Thesis: Interesting work is less amenable to the use of AI](https://remark.ing/rob/rob/Thesis-interesting-work-ie)
+* [2025-07-06, 20:48:03](https://news.ycombinator.com/item?id=44483917) - [The Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
 * [2025-07-06, 20:45:20](https://news.ycombinator.com/item?id=44483897) - [I don't think AGI is right around the corner](https://www.dwarkesh.com/p/timelines-june-2025)
 * [2025-07-06, 19:55:30](https://news.ycombinator.com/item?id=44483530) - [Backlog.md – CLI that auto-generates task files (took my Claude success to 95 %)](https://github.com/MrLesk/Backlog.md)
 * [2025-07-06, 19:50:02](https://news.ycombinator.com/item?id=44483485) - [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)

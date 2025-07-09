@@ -4,7 +4,6 @@
 * [2025-07-09, 07:38:29](https://news.ycombinator.com/item?id=44507244) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
 * [2025-07-09, 07:29:52](https://news.ycombinator.com/item?id=44507200) - [Bug Stories](https://500mile.email/)
 * [2025-07-09, 07:26:09](https://news.ycombinator.com/item?id=44507180) - [Grow a Garden Calculator](https://growagardencalculators.net/)
-* [2025-07-09, 07:24:24](https://news.ycombinator.com/item?id=44507169) - [I Deleted My Steam Account After 20 Years](https://gist.github.com/Kaldaien/c66bf3dca62a5ac63785714f686e60ad)
 * [2025-07-09, 07:07:44](https://news.ycombinator.com/item?id=44507084) - [Show HN: I rewrote an outdated React Native map clustering library](https://github.com/suwi-lanji/rn-maps-clustering)
 * [2025-07-09, 07:04:36](https://news.ycombinator.com/item?id=44507076) - [Most RESTful APIs Aren't RESTful](https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html)
 * [2025-07-09, 07:02:33](https://news.ycombinator.com/item?id=44507061) - [Springer Nature book on machine learning is full of made-up citations](https://retractionwatch.com/2025/06/30/springer-nature-book-on-machine-learning-is-full-of-made-up-citations/)
@@ -29,6 +28,7 @@
 * [2025-07-07, 11:52:10](https://news.ycombinator.com/item?id=44489359) - [7-Zip for Windows can now use more than 64 CPU threads for compression](https://www.7-zip.org/history.txt)
 * [2025-07-07, 10:33:14](https://news.ycombinator.com/item?id=44488742) - [I'm Building LLM for Satellite Data EarthGPT.app](https://www.earthgpt.app/)
 * [2025-07-07, 03:05:32](https://news.ycombinator.com/item?id=44486368) - [Surfing on a Matchbox (1999)](http://news.bbc.co.uk/2/hi/science/nature/276762.stm)
+* [2025-07-06, 20:48:03](https://news.ycombinator.com/item?id=44483917) - [The Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
 * [2025-07-03, 14:56:00](https://news.ycombinator.com/item?id=44455707) - [Taking over 60k spyware user accounts with SQL injection](https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/)
 
 ## [Archives](archives/index.md)
