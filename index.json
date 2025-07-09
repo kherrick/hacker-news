@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-07-09, 03:34:37",
+      "https://news.ycombinator.com/item?id=44506117"
+    ],
+    [
+      "Where can I see Hokusai's Great Wave today?",
+      "https://greatwavetoday.com/"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 02:37:28",
       "https://news.ycombinator.com/item?id=44505876"
     ],
@@ -137,16 +147,6 @@
     [
       "Libpostal: C library for parsing/normalizing street addresses around the world",
       "https://github.com/openvenues/libpostal"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 00:56:29",
-      "https://news.ycombinator.com/item?id=44505359"
-    ],
-    [
-      "Swahili on the Road",
-      "https://www.historytoday.com/archive/behind-times/swahili-road"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=44479302"
     ],
     [
-      "Ruby 3.4 Frozen String Literals: What Rails Developers Need to Know",
+      "Ruby 3.4 frozen string literals: What Rails developers need to know",
       "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/"
     ]
   ],
