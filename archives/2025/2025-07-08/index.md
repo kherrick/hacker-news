@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 22:42:39](https://news.ycombinator.com/item?id=44504699) - [US Court nullifies FTC requirement for click-to-cancel](https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/)
 * [2025-07-08, 22:37:21](https://news.ycombinator.com/item?id=44504676) - [Xenharmlib: A music theory library that supports non-western harmonic systems](https://xenharmlib.readthedocs.io/en/latest/)
 * [2025-07-08, 20:50:04](https://news.ycombinator.com/item?id=44503952) - [Ask HN: What are some cool or underrated tech companies based in Canada?](https://news.ycombinator.com/item?id=44503952)
 * [2025-07-08, 19:30:49](https://news.ycombinator.com/item?id=44503221) - [Show HN: OpenAPI mocks that don't suck – realistic test data, quick setup](https://beeceptor.com/openapi-mock-server/)
