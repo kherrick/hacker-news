@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-07-09, 16:58:50",
-      "https://news.ycombinator.com/item?id=44512336"
+      "2025-07-09, 17:34:09",
+      "https://news.ycombinator.com/item?id=44512763"
     ],
     [
-      "Knowing Steam players are hoarders explains why you give Valve that 30%",
-      "https://www.pcgamer.com/gaming-industry/knowing-steam-players-are-hoarders-explains-why-you-give-valve-that-30-percent-analyst-tells-devs-you-get-access-to-a-bunch-of-drunken-sailors-who-spend-money-irresponsibly/"
+      "Show HN: FlopperZiro – A DIY open-source Flipper Zero clone",
+      "https://github.com/lraton/FlopperZiro"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 17:26:50",
+      "https://news.ycombinator.com/item?id=44512684"
+    ],
+    [
+      "Evolution Mail Users Easily Trackable",
+      "https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 17:00:36",
+      "https://news.ycombinator.com/item?id=44512368"
+    ],
+    [
+      "\"Just Fucking Ship It\" (Or: On Vibecoding)",
+      "https://coal.sh/blog/pandu_bad"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 16:10:52",
+      "https://news.ycombinator.com/item?id=44511770"
+    ],
+    [
+      "The Architecture Behind Lovable and Bolt",
+      "https://www.beam.cloud/blog/agentic-apps"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "A fast 3D collision detection algorithm",
       "https://cairno.substack.com/p/improvements-to-the-separating-axis"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 13:45:54",
-      "https://news.ycombinator.com/item?id=44509988"
-    ],
-    [
-      "Nvidia Becomes First Company to Reach $4T Market Cap",
-      "https://www.cnbc.com/2025/07/09/nvidia-4-trillion.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-07-08, 17:46:55",
-      "https://news.ycombinator.com/item?id=44502318"
-    ],
-    [
-      "Supabase MCP can leak your entire SQL database",
-      "https://www.generalanalysis.com/blog/supabase-mcp-blog"
-    ]
-  ],
-  [
-    [
       "2025-07-08, 16:13:40",
       "https://news.ycombinator.com/item?id=44501413"
     ],
@@ -237,16 +247,6 @@
     [
       "7-Zip for Windows can now use more than 64 CPU threads for compression",
       "https://www.7-zip.org/history.txt"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 10:33:14",
-      "https://news.ycombinator.com/item?id=44488742"
-    ],
-    [
-      "I'm Building LLM for Satellite Data EarthGPT.app",
-      "https://www.earthgpt.app/"
     ]
   ],
   [
