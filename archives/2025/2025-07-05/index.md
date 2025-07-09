@@ -24,6 +24,7 @@
 * [2025-07-05, 19:21:51](https://news.ycombinator.com/item?id=44474894) - [Pet ownership and cognitive functioning in later adulthood across pet types](https://www.nature.com/articles/s41598-025-03727-9)
 * [2025-07-05, 19:00:34](https://news.ycombinator.com/item?id=44474759) - [Cod Have Been Shrinking for Decades, Scientists Say They've Solved Mystery](https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/)
 * [2025-07-05, 18:45:50](https://news.ycombinator.com/item?id=44474663) - [A new law in Sweden makes it illegal to buy custom adult content](https://www.euronews.com/next/2025/06/22/takes-away-our-safest-option-adult-creators-react-to-law-banning-online-sex-purchases-in-s)
+* [2025-07-05, 18:37:00](https://news.ycombinator.com/item?id=44474620) - [Proposal: GUI-first, text-based mechanical CAD inspired by software engineering](https://news.ycombinator.com/item?id=44474620)
 * [2025-07-05, 18:28:31](https://news.ycombinator.com/item?id=44474573) - [AI winter is well on its way (2018)](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)
 * [2025-07-05, 18:21:21](https://news.ycombinator.com/item?id=44474531) - [How to not pay your taxes legally, apparently](https://mrsteinberg.com/how-to-not-pay-your-taxes-legally-apparently/)
 * [2025-07-05, 18:15:13](https://news.ycombinator.com/item?id=44474485) - [Artist in Residence on a Satellite](http://global.cafa.edu.cn/infoDetail/1/324)

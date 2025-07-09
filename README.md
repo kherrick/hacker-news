@@ -17,7 +17,6 @@
 * [2025-07-09, 00:56:29](https://news.ycombinator.com/item?id=44505359) - [Swahili on the Road](https://www.historytoday.com/archive/behind-times/swahili-road)
 * [2025-07-09, 00:14:19](https://news.ycombinator.com/item?id=44505171) - [Frame of preference A history of Mac settings, 1984–2004](https://aresluna.org/frame-of-preference/)
 * [2025-07-08, 22:42:39](https://news.ycombinator.com/item?id=44504699) - [US Court nullifies FTC requirement for click-to-cancel](https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/)
-* [2025-07-08, 18:10:46](https://news.ycombinator.com/item?id=44502527) - [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
 * [2025-07-08, 18:03:20](https://news.ycombinator.com/item?id=44502463) - [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
 * [2025-07-08, 17:48:29](https://news.ycombinator.com/item?id=44502330) - [Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
 * [2025-07-08, 17:46:55](https://news.ycombinator.com/item?id=44502318) - [Supabase MCP can leak your entire SQL database](https://www.generalanalysis.com/blog/supabase-mcp-blog)
@@ -29,6 +28,7 @@
 * [2025-07-07, 10:33:14](https://news.ycombinator.com/item?id=44488742) - [I'm Building LLM for Satellite Data EarthGPT.app](https://www.earthgpt.app/)
 * [2025-07-06, 09:58:26](https://news.ycombinator.com/item?id=44479302) - [Ruby 3.4 Frozen String Literals: What Rails Developers Need to Know](https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/)
 * [2025-07-06, 04:33:36](https://news.ycombinator.com/item?id=44477870) - [The Capacity, Performance, and Reliability of MicroSD Cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
+* [2025-07-05, 18:37:00](https://news.ycombinator.com/item?id=44474620) - [Proposal: GUI-first, text-based mechanical CAD inspired by software engineering](https://news.ycombinator.com/item?id=44474620)
 * [2025-07-03, 14:56:00](https://news.ycombinator.com/item?id=44455707) - [Taking over 60k spyware user accounts with SQL injection](https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/)
 
 ## [Archives](archives/index.md)
