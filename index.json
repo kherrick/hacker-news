@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-09, 09:13:10",
+      "https://news.ycombinator.com/item?id=44507830"
+    ],
+    [
+      "ESIM Security",
+      "https://security-explorations.com/esim-security.html"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 07:48:03",
       "https://news.ycombinator.com/item?id=44507301"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-07-09, 07:04:36",
-      "https://news.ycombinator.com/item?id=44507076"
-    ],
-    [
-      "Most RESTful APIs Aren't RESTful",
-      "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 07:02:33",
       "https://news.ycombinator.com/item?id=44507061"
     ],
@@ -77,16 +77,6 @@
     [
       "Helm local code execution via a malicious chart – CVE-2025-53547",
       "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 03:34:37",
-      "https://news.ycombinator.com/item?id=44506117"
-    ],
-    [
-      "Where can I see Hokusai's Great Wave today?",
-      "https://greatwavetoday.com/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Surfing on a Matchbox (1999)",
       "http://news.bbc.co.uk/2/hi/science/nature/276762.stm"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 04:33:36",
+      "https://news.ycombinator.com/item?id=44477870"
+    ],
+    [
+      "The Capacity, Performance, and Reliability of MicroSD Cards",
+      "https://www.bahjeez.com/the-great-microsd-card-survey/"
     ]
   ],
   [
