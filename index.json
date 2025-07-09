@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-07-09, 13:26:25",
-      "https://news.ycombinator.com/item?id=44509790"
-    ],
-    [
-      "Jurisdiction Is Nearly Irrelevant to the Security of Encrypted Messaging Apps",
-      "https://soatok.blog/2025/07/09/jurisdiction-is-nearly-irrelevant-to-the-security-of-encrypted-messaging-apps/"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 11:52:29",
       "https://news.ycombinator.com/item?id=44508866"
     ],
@@ -187,6 +177,16 @@
     [
       "Breaking Git with a carriage return and cloning RCE",
       "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 17:46:55",
+      "https://news.ycombinator.com/item?id=44502318"
+    ],
+    [
+      "Supabase MCP can leak your entire SQL database",
+      "https://www.generalanalysis.com/blog/supabase-mcp-blog"
     ]
   ],
   [
