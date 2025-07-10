@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 22:48:16](https://news.ycombinator.com/item?id=44515495) - [I used to prefer permissive licenses and now favor copyleft](https://vitalik.eth.limo/general/2025/07/07/copyleft.html)
 * [2025-07-09, 22:37:17](https://news.ycombinator.com/item?id=44515403) - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
 * [2025-07-09, 22:36:26](https://news.ycombinator.com/item?id=44515398) - [Vim Fugitive in Action (2021)](https://dzx.fr/blog/introduction-to-vim-fugitive/)
 * [2025-07-09, 22:17:31](https://news.ycombinator.com/item?id=44515266) - [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
