@@ -18,6 +18,7 @@
 * [2025-07-07, 19:07:13](https://news.ycombinator.com/item?id=44493640) - [Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs](https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html)
 * [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New Sphere-Packing Record Stems from an Unexpected Source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
 * [2025-07-07, 18:16:36](https://news.ycombinator.com/item?id=44493174) - [Serving a half billion requests per day with Rust and CGI](https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/)
+* [2025-07-07, 18:13:20](https://news.ycombinator.com/item?id=44493146) - [Yamlfmt: An extensible command line tool or library to format YAML files](https://github.com/google/yamlfmt)
 * [2025-07-07, 17:58:04](https://news.ycombinator.com/item?id=44492986) - [My first verified (imperative) program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 * [2025-07-07, 17:41:39](https://news.ycombinator.com/item?id=44492792) - [Bridgefy SDK – Make your mobile app work without the Internet](https://bridgefy.me/sdk/)
 * [2025-07-07, 17:33:03](https://news.ycombinator.com/item?id=44492695) - [An ambitious vision of a city built from lava](https://www.cnn.com/2025/07/03/style/lava-material-architecture-venice-biennale)
