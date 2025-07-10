@@ -44,6 +44,7 @@
 * [2025-07-08, 07:57:25](https://news.ycombinator.com/item?id=44498022) - [Is it possible to play doom on an oscilloscope using only lissajous figures?](https://forums.sufficientvelocity.com/threads/is-it-possible-to-play-doom-on-an-analog-oscilloscope-using-only-lissajous-figures.126232/)
 * [2025-07-08, 07:40:08](https://news.ycombinator.com/item?id=44497935) - [The New York Times wants your private ChatGPT history – even the deleted parts](https://thehill.com/opinion/technology/5383530-chatgpt-users-privacy-collateral-damage/)
 * [2025-07-08, 07:22:21](https://news.ycombinator.com/item?id=44497844) - [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
+* [2025-07-08, 02:55:04](https://news.ycombinator.com/item?id=44496537) - [Analyzing Database Trends Through 1.8M Hacker News Headlines](https://camelai.com/blog/hn-database-hype/)
 * [2025-07-08, 02:45:57](https://news.ycombinator.com/item?id=44496502) - [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
 * [2025-07-08, 02:37:00](https://news.ycombinator.com/item?id=44496461) - [Radiocarbon dating reveals Rapa Nui not as isolated as previously thought](https://phys.org/news/2025-06-radiocarbon-dating-reveals-rapa-nui.html)
 * [2025-07-08, 02:18:01](https://news.ycombinator.com/item?id=44496391) - [BBC staff: we're forced to do pro-Israel PR](https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel)
