@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-07-10, 19:48:48",
-      "https://news.ycombinator.com/item?id=44524749"
-    ],
-    [
-      "U.S. will review social media for foreign student visa applications",
-      "https://www.npr.org/2025/06/19/g-s1-73572/us-resumes-visas-foreign-students-access-social-media"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 19:43:44",
       "https://news.ycombinator.com/item?id=44524707"
     ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=44522772"
     ],
     [
-      "Measuring the Impact of AI on Experienced Open-Source Developer Productivity",
+      "Measuring the impact of AI on experienced open-source developer productivity",
       "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
     ]
   ],
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=44520419"
     ],
     [
-      "FOKS: The Federated Open Key Service",
+      "FOKS: Federated Open Key Service",
       "https://foks.pub/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Regarding Prollyferation: Followup to \"People Keep Inventing Prolly Trees\"",
       "https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 14:05:06",
+      "https://news.ycombinator.com/item?id=44490510"
+    ],
+    [
+      "Postgres LISTEN/NOTIFY does not scale",
+      "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"
     ]
   ],
   [
