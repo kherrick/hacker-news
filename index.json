@@ -1,46 +1,6 @@
 [
   [
     [
-      "2025-07-10, 13:13:32",
-      "https://news.ycombinator.com/item?id=44520635"
-    ],
-    [
-      "Millions of tonnes of nanoplastics are polluting the ocean",
-      "https://www.nature.com/articles/d41586-025-02162-0"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 12:54:24",
-      "https://news.ycombinator.com/item?id=44520466"
-    ],
-    [
-      "ChatGPT Guessing Game Leads to Users Extracting Free Windows OS Keys and More",
-      "https://0din.ai/blog/chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 12:52:55",
-      "https://news.ycombinator.com/item?id=44520447"
-    ],
-    [
-      "AI is turning Apple into a \"loser\"",
-      "https://www.axios.com/2025/07/10/ai-apple-stock-market"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 12:36:06",
-      "https://news.ycombinator.com/item?id=44520297"
-    ],
-    [
-      "The Birth-Rate Crisis Isn't as Bad as You've Heard–It's Worse",
-      "https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 12:35:21",
       "https://news.ycombinator.com/item?id=44520292"
     ],
@@ -87,6 +47,16 @@
     [
       "Show HN: Typeform was too expensive so I built my own forms",
       "https://www.ikiform.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 04:02:01",
+      "https://news.ycombinator.com/item?id=44517055"
+    ],
+    [
+      "Grok 4 Launch [video]",
+      "https://twitter.com/xai/status/1943158495588815072"
     ]
   ],
   [
@@ -161,6 +131,16 @@
   ],
   [
     [
+      "2025-07-09, 17:08:54",
+      "https://news.ycombinator.com/item?id=44512470"
+    ],
+    [
+      "Configuring Split Horizon DNS with Pi-Hole and Tailscale",
+      "https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 14:52:04",
       "https://news.ycombinator.com/item?id=44510731"
     ],
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-07-08, 22:37:21",
+      "https://news.ycombinator.com/item?id=44504676"
+    ],
+    [
+      "Xenharmlib: A music theory library that supports non-western harmonic systems",
+      "https://xenharmlib.readthedocs.io/en/latest/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 02:37:00",
       "https://news.ycombinator.com/item?id=44496461"
     ],
@@ -217,6 +207,16 @@
     [
       "Bootstrapping a side project into a profitable seven-figure business",
       "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 21:46:47",
+      "https://news.ycombinator.com/item?id=44494997"
+    ],
+    [
+      "Koala: A benchmark suite for performance-oriented shell-optimization research",
+      "https://github.com/kbensh/koala"
     ]
   ],
   [
