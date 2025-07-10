@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-07-10, 21:35:25",
-      "https://news.ycombinator.com/item?id=44525873"
-    ],
-    [
-      "The FBI Is Using Polygraphs to Test Officials' Loyalty",
-      "https://www.nytimes.com/2025/07/10/us/politics/fbi-polygraph-kash-patel.html"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 20:51:45",
       "https://news.ycombinator.com/item?id=44525468"
     ],
@@ -77,16 +67,6 @@
     [
       "Belkin ending support for older Wemo products",
       "https://www.belkin.com/support-article/?articleNum=335419"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 18:13:14",
-      "https://news.ycombinator.com/item?id=44523885"
-    ],
-    [
-      "Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack",
-      "https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2025-07-10, 09:48:09",
+      "https://news.ycombinator.com/item?id=44519175"
+    ],
+    [
+      "How to prove false statements: Practical attacks on Fiat-Shamir",
+      "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 09:27:02",
       "https://news.ycombinator.com/item?id=44519034"
     ],
@@ -267,6 +257,16 @@
     [
       "Regarding Prollyferation: Followup to \"People Keep Inventing Prolly Trees\"",
       "https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 18:13:20",
+      "https://news.ycombinator.com/item?id=44493146"
+    ],
+    [
+      "Yamlfmt: An extensible command line tool or library to format YAML files",
+      "https://github.com/google/yamlfmt"
     ]
   ],
   [
