@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-10, 03:05:46",
+      "https://news.ycombinator.com/item?id=44516793"
+    ],
+    [
+      "A Virginia public library is fighting off a takeover by private equity",
+      "https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 01:10:08",
+      "https://news.ycombinator.com/item?id=44516288"
+    ],
+    [
+      "Show HN: I built a playground to showcase what Flux Kontext is good at",
+      "https://fluxkontextlab.com"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 22:37:17",
       "https://news.ycombinator.com/item?id=44515403"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-07-09, 15:28:58",
-      "https://news.ycombinator.com/item?id=44511282"
-    ],
-    [
-      "Nuclear Waste Reprocessing Gains Momentum in the U.S.",
-      "https://spectrum.ieee.org/nuclear-waste-reprocessing-transmutation"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 14:52:04",
       "https://news.ycombinator.com/item?id=44510731"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-07-09, 05:49:52",
-      "https://news.ycombinator.com/item?id=44506696"
-    ],
-    [
-      "Helm local code execution via a malicious chart",
-      "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 04:04:45",
       "https://news.ycombinator.com/item?id=44506251"
     ],
@@ -181,22 +181,12 @@
   ],
   [
     [
-      "2025-07-09, 02:37:28",
-      "https://news.ycombinator.com/item?id=44505876"
+      "2025-07-08, 22:37:21",
+      "https://news.ycombinator.com/item?id=44504676"
     ],
     [
-      "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
-      "https://github.com/CyberTimon/RapidRAW"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 10:40:03",
-      "https://news.ycombinator.com/item?id=44498766"
-    ],
-    [
-      "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
-      "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443"
+      "Xenharmlib: A music theory library that supports non-western harmonic systems",
+      "https://xenharmlib.readthedocs.io/en/latest/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Archaeologists unveil 3,500-year-old city in Peru",
       "https://www.bbc.co.uk/news/articles/c07dmx38kyeo"
+    ]
+  ],
+  [
+    [
+      "2025-07-06, 22:15:03",
+      "https://news.ycombinator.com/item?id=44484579"
+    ],
+    [
+      "Code and Trust: Vibrators to Pacemakers",
+      "https://punkx.org/jackdoe/code-and-trust.html"
     ]
   ],
   [
