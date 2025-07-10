@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 18:32:05](https://news.ycombinator.com/item?id=44524063) - [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
 * [2025-07-10, 18:13:14](https://news.ycombinator.com/item?id=44523885) - [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
 * [2025-07-10, 18:03:22](https://news.ycombinator.com/item?id=44523777) - [EU rules ask tech giants to publicly track how, when AI models go off the rails](https://arstechnica.com/tech-policy/2025/07/everything-tech-giants-will-hate-about-the-eus-new-ai-rules/)
 * [2025-07-10, 17:58:59](https://news.ycombinator.com/item?id=44523722) - [George Orwell Diaries 1938-1942](https://orwelldiaries.wordpress.com/page/2/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-10, 18:32:05](https://news.ycombinator.com/item?id=44524063) - [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
 * [2025-07-10, 18:13:14](https://news.ycombinator.com/item?id=44523885) - [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
 * [2025-07-10, 18:03:22](https://news.ycombinator.com/item?id=44523777) - [EU rules ask tech giants to publicly track how, when AI models go off the rails](https://arstechnica.com/tech-policy/2025/07/everything-tech-giants-will-hate-about-the-eus-new-ai-rules/)
 * [2025-07-10, 17:58:59](https://news.ycombinator.com/item?id=44523722) - [George Orwell Diaries 1938-1942](https://orwelldiaries.wordpress.com/page/2/)
@@ -19,7 +20,6 @@
 * [2025-07-10, 09:48:09](https://news.ycombinator.com/item?id=44519175) - [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-10, 09:27:02](https://news.ycombinator.com/item?id=44519034) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 * [2025-07-10, 09:02:51](https://news.ycombinator.com/item?id=44518898) - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
-* [2025-07-10, 04:02:01](https://news.ycombinator.com/item?id=44517055) - [Grok 4 Launch [video]](https://twitter.com/xai/status/1943158495588815072)
 * [2025-07-09, 22:37:17](https://news.ycombinator.com/item?id=44515403) - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
 * [2025-07-09, 21:54:53](https://news.ycombinator.com/item?id=44515101) - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
 * [2025-07-09, 21:06:38](https://news.ycombinator.com/item?id=44514753) - [Show HN: MCP server for searching and downloading documents from Anna's Archive](https://github.com/iosifache/annas-mcp)
