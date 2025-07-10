@@ -6,6 +6,7 @@
 
 * [2025-07-09, 22:37:17](https://news.ycombinator.com/item?id=44515403) - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
 * [2025-07-09, 22:36:26](https://news.ycombinator.com/item?id=44515398) - [Vim Fugitive in Action (2021)](https://dzx.fr/blog/introduction-to-vim-fugitive/)
+* [2025-07-09, 22:17:31](https://news.ycombinator.com/item?id=44515266) - [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
 * [2025-07-09, 22:15:56](https://news.ycombinator.com/item?id=44515251) - [Delete WhatsApp and Install Signal](https://andrewsteele.co.uk/blog/2025/07/delete-whatsapp-install-signal/)
 * [2025-07-09, 21:54:53](https://news.ycombinator.com/item?id=44515101) - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
 * [2025-07-09, 21:53:19](https://news.ycombinator.com/item?id=44515087) - [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
