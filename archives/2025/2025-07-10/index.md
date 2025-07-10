@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 17:42:54](https://news.ycombinator.com/item?id=44523523) - [Launch HN: Leaping (YC W25) – Self-Improving Voice AI](https://news.ycombinator.com/item?id=44523523)
+* [2025-07-10, 17:04:00](https://news.ycombinator.com/item?id=44523094) - [Show HN: asyncmcp – Run MCP over async transport via AWS SNS+SQS](https://github.com/bh-rat/asyncmcp)
 * [2025-07-10, 16:29:18](https://news.ycombinator.com/item?id=44522772) - [Measuring the Impact of AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 16:16:03](https://news.ycombinator.com/item?id=44522627) - [Bribe or community benefit? Sweeteners for renewables need to be done right](https://theconversation.com/bribe-or-community-benefit-sweeteners-smoothing-the-way-for-renewables-projects-need-to-be-done-right-258903)
 * [2025-07-10, 16:10:51](https://news.ycombinator.com/item?id=44522579) - [Seven Engineers Suspended After $2.3M Bridge Includes 90-Degree Turn](https://www.vice.com/en/article/7-engineers-suspended-after-2-3-million-bridge-includes-bizarre-90-degree-turn/)

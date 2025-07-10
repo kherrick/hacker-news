@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-10, 17:42:54](https://news.ycombinator.com/item?id=44523523) - [Launch HN: Leaping (YC W25) – Self-Improving Voice AI](https://news.ycombinator.com/item?id=44523523)
+* [2025-07-10, 17:04:00](https://news.ycombinator.com/item?id=44523094) - [Show HN: asyncmcp – Run MCP over async transport via AWS SNS+SQS](https://github.com/bh-rat/asyncmcp)
 * [2025-07-10, 16:29:18](https://news.ycombinator.com/item?id=44522772) - [Measuring the Impact of AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 16:10:51](https://news.ycombinator.com/item?id=44522579) - [Seven Engineers Suspended After $2.3M Bridge Includes 90-Degree Turn](https://www.vice.com/en/article/7-engineers-suspended-after-2-3-million-bridge-includes-bizarre-90-degree-turn/)
 * [2025-07-10, 16:02:40](https://news.ycombinator.com/item?id=44522505) - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
@@ -28,8 +30,6 @@
 * [2025-07-07, 13:44:18](https://news.ycombinator.com/item?id=44490321) - [State of the Art: Economic Development Through the Lens of Paintings](https://www.nber.org/papers/w33976)
 * [2025-07-07, 06:27:24](https://news.ycombinator.com/item?id=44487316) - [Author of William the Conqueror's 'Medieval Big Data' Project Revealed](https://www.ox.ac.uk/news/2025-07-02-author-william-conqueror-s-medieval-big-data-project-revealed)
 * [2025-07-07, 06:06:46](https://news.ycombinator.com/item?id=44487221) - [Show HN: CXXStateTree – A modern C++ library for hierarchical state machines](https://github.com/ZigRazor/CXXStateTree)
-* [2025-07-06, 21:50:52](https://news.ycombinator.com/item?id=44484409) - [The Origin of the Research University](https://asteriskmag.com/issues/10/the-origin-of-the-research-university)
-* [2025-07-06, 16:56:42](https://news.ycombinator.com/item?id=44482273) - [The jank programming language](https://jank-lang.org/)
 
 ## [Archives](archives/index.md)
 
