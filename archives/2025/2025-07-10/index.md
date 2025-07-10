@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 19:49:47](https://news.ycombinator.com/item?id=44524757) - [Holographic memory storage and information processing in Quantum Brain Dynamics](https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule)
+* [2025-07-10, 19:48:48](https://news.ycombinator.com/item?id=44524749) - [U.S. will review social media for foreign student visa applications](https://www.npr.org/2025/06/19/g-s1-73572/us-resumes-visas-foreign-students-access-social-media)
+* [2025-07-10, 19:43:44](https://news.ycombinator.com/item?id=44524707) - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
+* [2025-07-10, 19:23:10](https://news.ycombinator.com/item?id=44524571) - [Working with the UK Government to Protect Children Online](https://bsky.social/about/blog/07-10-2025-age-assurance)
 * [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
+* [2025-07-10, 19:10:28](https://news.ycombinator.com/item?id=44524430) - [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
 * [2025-07-10, 18:32:05](https://news.ycombinator.com/item?id=44524063) - [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
 * [2025-07-10, 18:13:14](https://news.ycombinator.com/item?id=44523885) - [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
 * [2025-07-10, 18:03:22](https://news.ycombinator.com/item?id=44523777) - [EU rules ask tech giants to publicly track how, when AI models go off the rails](https://arstechnica.com/tech-policy/2025/07/everything-tech-giants-will-hate-about-the-eus-new-ai-rules/)
