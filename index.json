@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-07-10, 09:27:02",
+      "https://news.ycombinator.com/item?id=44519034"
+    ],
+    [
+      "Optimizing a Math Expression Parser in Rust",
+      "https://rpallas.xyz/math-parser/"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 07:24:30",
       "https://news.ycombinator.com/item?id=44518269"
     ],
     [
-      "\"Ripples They Cause in the World\"",
+      "Matt Trout has died",
       "https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/"
     ]
   ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-07-10, 01:10:08",
-      "https://news.ycombinator.com/item?id=44516288"
-    ],
-    [
-      "Show HN: I built a playground to showcase what Flux Kontext is good at",
-      "https://fluxkontextlab.com"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 22:37:17",
       "https://news.ycombinator.com/item?id=44515403"
     ],
@@ -77,16 +77,6 @@
     [
       "A Typology of Canadianisms",
       "https://dchp.arts.ubc.ca/how-to-use"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 21:34:30",
-      "https://news.ycombinator.com/item?id=44514946"
-    ],
-    [
-      "HyAB k-means for color quantization",
-      "https://30fps.net/pages/hyab-kmeans/"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Bootstrapping a side project into a profitable seven-figure business",
       "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 19:18:08",
+      "https://news.ycombinator.com/item?id=44493730"
+    ],
+    [
+      "From Task to Table: How I Got to the Korean Burger",
+      "https://medium.com/@chrisveleris/from-task-to-table-how-i-finally-got-to-the-korean-burger-01245a14d491"
     ]
   ],
   [
