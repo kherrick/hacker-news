@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-10, 17:42:54",
+      "https://news.ycombinator.com/item?id=44523523"
+    ],
+    [
+      "Launch HN: Leaping (YC W25) – Self-Improving Voice AI",
+      "https://news.ycombinator.com/item?id=44523523"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 17:04:00",
+      "https://news.ycombinator.com/item?id=44523094"
+    ],
+    [
+      "Show HN: asyncmcp – Run MCP over async transport via AWS SNS+SQS",
+      "https://github.com/bh-rat/asyncmcp"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 16:29:18",
       "https://news.ycombinator.com/item?id=44522772"
     ],
@@ -277,26 +297,6 @@
     [
       "Show HN: CXXStateTree – A modern C++ library for hierarchical state machines",
       "https://github.com/ZigRazor/CXXStateTree"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 21:50:52",
-      "https://news.ycombinator.com/item?id=44484409"
-    ],
-    [
-      "The Origin of the Research University",
-      "https://asteriskmag.com/issues/10/the-origin-of-the-research-university"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 16:56:42",
-      "https://news.ycombinator.com/item?id=44482273"
-    ],
-    [
-      "The jank programming language",
-      "https://jank-lang.org/"
     ]
   ]
 ]
