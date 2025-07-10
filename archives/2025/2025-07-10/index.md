@@ -18,6 +18,7 @@
 * [2025-07-10, 17:56:41](https://news.ycombinator.com/item?id=44523686) - [US utilities plot big rise in electricity rates as data centre demand booms](https://www.ft.com/content/c5f20c78-7931-492f-9153-675f3046e245)
 * [2025-07-10, 17:44:13](https://news.ycombinator.com/item?id=44523539) - [Retail cyber attacks: NCA arrest four for attacks on M&S, Co-op and Harrods](https://www.nationalcrimeagency.gov.uk/news/retail-cyber-attacks-nca-arrest-four-for-attacks-on-m-s-co-op-and-harrods)
 * [2025-07-10, 17:42:54](https://news.ycombinator.com/item?id=44523523) - [Launch HN: Leaping (YC W25) – Self-Improving Voice AI](https://news.ycombinator.com/item?id=44523523)
+* [2025-07-10, 17:33:07](https://news.ycombinator.com/item?id=44523409) - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/)
 * [2025-07-10, 17:04:00](https://news.ycombinator.com/item?id=44523094) - [Show HN: asyncmcp – Run MCP over async transport via AWS SNS+SQS](https://github.com/bh-rat/asyncmcp)
 * [2025-07-10, 16:29:18](https://news.ycombinator.com/item?id=44522772) - [Measuring the Impact of AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 16:16:03](https://news.ycombinator.com/item?id=44522627) - [Bribe or community benefit? Sweeteners for renewables need to be done right](https://theconversation.com/bribe-or-community-benefit-sweeteners-smoothing-the-way-for-renewables-projects-need-to-be-done-right-258903)

@@ -54,6 +54,7 @@
 * [2025-07-07, 11:52:10](https://news.ycombinator.com/item?id=44489359) - [7-Zip for Windows can now use more than 64 CPU threads for compression](https://www.7-zip.org/history.txt)
 * [2025-07-07, 10:44:04](https://news.ycombinator.com/item?id=44488810) - [Ask HN: Any resources for finding non-smart appliances?](https://news.ycombinator.com/item?id=44488810)
 * [2025-07-07, 10:33:14](https://news.ycombinator.com/item?id=44488742) - [I'm Building LLM for Satellite Data EarthGPT.app](https://www.earthgpt.app/)
+* [2025-07-07, 10:29:56](https://news.ycombinator.com/item?id=44488731) - [Radiocarbon dating reveals Rapa Nui not as isolated as previously thought](https://phys.org/news/2025-06-radiocarbon-dating-reveals-rapa-nui.html)
 * [2025-07-07, 09:43:57](https://news.ycombinator.com/item?id=44488480) - [XAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
 * [2025-07-07, 09:20:38](https://news.ycombinator.com/item?id=44488331) - [Anthropic downloaded over 7M pirated books to train Claude, a judge said](https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6)
 * [2025-07-07, 08:44:26](https://news.ycombinator.com/item?id=44488107) - [Deno 2.4](https://deno.com/blog/v2.4)
