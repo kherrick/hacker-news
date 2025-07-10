@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 20:51:45](https://news.ycombinator.com/item?id=44525468) - [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
 * [2025-07-10, 19:49:47](https://news.ycombinator.com/item?id=44524757) - [Holographic memory storage and information processing in Quantum Brain Dynamics](https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule)
 * [2025-07-10, 19:48:48](https://news.ycombinator.com/item?id=44524749) - [U.S. will review social media for foreign student visa applications](https://www.npr.org/2025/06/19/g-s1-73572/us-resumes-visas-foreign-students-access-social-media)
 * [2025-07-10, 19:43:44](https://news.ycombinator.com/item?id=44524707) - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)

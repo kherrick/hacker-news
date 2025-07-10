@@ -45,6 +45,7 @@
 * [2025-07-07, 14:03:24](https://news.ycombinator.com/item?id=44490490) - [The Day You Became a Better Writer (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 * [2025-07-07, 13:52:51](https://news.ycombinator.com/item?id=44490386) - [CPU-X: CPU-Z for Linux](https://thetumultuousunicornofdarkness.github.io/CPU-X/)
 * [2025-07-07, 13:44:18](https://news.ycombinator.com/item?id=44490321) - [State of the Art: Economic Development Through the Lens of Paintings](https://www.nber.org/papers/w33976)
+* [2025-07-07, 13:43:22](https://news.ycombinator.com/item?id=44490308) - [The ChompSaw: A Benchtop Power Tool That's Safe for Kids to Use](https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use)
 * [2025-07-07, 13:41:55](https://news.ycombinator.com/item?id=44490299) - [Showh HN: Microjax - Jax in two classes and six functions](https://github.com/joelburget/microjax)
 * [2025-07-07, 13:31:24](https://news.ycombinator.com/item?id=44490213) - [Ptar: Replacing .tgz for petabyte-scale S3 archives](https://plakar.io/posts/2025-06-30/technical-deep-dive-into-.ptar-replacing-.tgz-for-petabyte-scale-s3-archives/)
 * [2025-07-07, 12:44:19](https://news.ycombinator.com/item?id=44489803) - [o3 used my saved Pocket links to profile me](https://noperator.dev/posts/o3-pocket-profile/)

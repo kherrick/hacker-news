@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-10, 20:51:45](https://news.ycombinator.com/item?id=44525468) - [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
 * [2025-07-10, 19:49:47](https://news.ycombinator.com/item?id=44524757) - [Holographic memory storage and information processing in Quantum Brain Dynamics](https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule)
-* [2025-07-10, 19:43:44](https://news.ycombinator.com/item?id=44524707) - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
 * [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
 * [2025-07-10, 19:10:28](https://news.ycombinator.com/item?id=44524430) - [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
 * [2025-07-10, 18:32:05](https://news.ycombinator.com/item?id=44524063) - [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
 * [2025-07-10, 18:13:14](https://news.ycombinator.com/item?id=44523885) - [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
-* [2025-07-10, 18:08:42](https://news.ycombinator.com/item?id=44523830) - [Exploiting a 20 years old NTFS Vulnerability](https://swarm.ptsecurity.com/buried-in-the-log-exploiting-a-20-years-old-ntfs-vulnerability/)
 * [2025-07-10, 17:58:59](https://news.ycombinator.com/item?id=44523722) - [Orwell Diaries 1938-1942](https://orwelldiaries.wordpress.com/page/2/)
 * [2025-07-10, 17:44:13](https://news.ycombinator.com/item?id=44523539) - [Retail cyber attacks: NCA arrest four for attacks on M&S, Co-op and Harrods](https://www.nationalcrimeagency.gov.uk/news/retail-cyber-attacks-nca-arrest-four-for-attacks-on-m-s-co-op-and-harrods)
 * [2025-07-10, 17:42:54](https://news.ycombinator.com/item?id=44523523) - [Launch HN: Leaping (YC W25) – Self-Improving Voice AI](https://news.ycombinator.com/item?id=44523523)
@@ -28,6 +27,7 @@
 * [2025-07-08, 00:14:24](https://news.ycombinator.com/item?id=44495807) - [Bear-Sized Giant Beavers Once Roamed North America](https://www.smithsonianmag.com/smart-news/bear-sized-giant-beaver-once-roamed-north-america-and-theyre-now-the-official-state-fossil-of-minnesota-180986937/)
 * [2025-07-07, 21:24:53](https://news.ycombinator.com/item?id=44494813) - [Regarding Prollyferation: Followup to \"People Keep Inventing Prolly Trees\"](https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/)
 * [2025-07-07, 14:05:06](https://news.ycombinator.com/item?id=44490510) - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale)
+* [2025-07-07, 13:43:22](https://news.ycombinator.com/item?id=44490308) - [The ChompSaw: A Benchtop Power Tool That's Safe for Kids to Use](https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use)
 * [2025-07-07, 10:29:56](https://news.ycombinator.com/item?id=44488731) - [Radiocarbon dating reveals Rapa Nui not as isolated as previously thought](https://phys.org/news/2025-06-radiocarbon-dating-reveals-rapa-nui.html)
 * [2025-07-07, 06:06:46](https://news.ycombinator.com/item?id=44487221) - [Show HN: CXXStateTree – A modern C++ library for hierarchical state machines](https://github.com/ZigRazor/CXXStateTree)
 
