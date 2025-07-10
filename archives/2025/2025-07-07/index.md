@@ -7,6 +7,7 @@
 * [2025-07-07, 23:38:44](https://news.ycombinator.com/item?id=44495664) - [ICE Using Border Facial Recognition Tech to ID Protesters and Activists in US](https://www.techdirt.com/2025/07/07/ice-using-repurposed-border-facial-recognition-tech-to-id-protesters-activists-and-migrants-on-us-streets/)
 * [2025-07-07, 22:58:45](https://news.ycombinator.com/item?id=44495428) - [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
 * [2025-07-07, 22:11:58](https://news.ycombinator.com/item?id=44495154) - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
+* [2025-07-07, 21:46:47](https://news.ycombinator.com/item?id=44494997) - [Koala: A benchmark suite for performance-oriented shell-optimization research](https://github.com/kbensh/koala)
 * [2025-07-07, 21:39:17](https://news.ycombinator.com/item?id=44494941) - [China is increasingly a home to major brands](https://musgrave.substack.com/p/oh-no-i-betrayed-america)
 * [2025-07-07, 21:37:28](https://news.ycombinator.com/item?id=44494923) - [Mini robots detect and fix water pipe leaks without digging](https://www.foxnews.com/tech/mini-robots-detect-fix-water-pipe-leaks-without-digging)
 * [2025-07-07, 20:36:54](https://news.ycombinator.com/item?id=44494430) - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
