@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-07-10, 18:32:05",
-      "https://news.ycombinator.com/item?id=44524063"
-    ],
-    [
-      "Belkin ending support for older Wemo products",
-      "https://www.belkin.com/support-article/?articleNum=335419"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 17:58:59",
       "https://news.ycombinator.com/item?id=44523722"
     ],
@@ -107,6 +97,16 @@
     [
       "Show HN: Open source alternative to Perplexity Comet",
       "https://www.browseros.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 17:04:00",
+      "https://news.ycombinator.com/item?id=44523094"
+    ],
+    [
+      "Show HN: asyncmcp – Run MCP over async transport via AWS SNS+SQS",
+      "https://github.com/bh-rat/asyncmcp"
     ]
   ],
   [
