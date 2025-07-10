@@ -3,7 +3,7 @@
 * [2025-07-10, 09:48:09](https://news.ycombinator.com/item?id=44519175) - [Computer Scientists Figure Out How to Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-10, 09:27:02](https://news.ycombinator.com/item?id=44519034) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 * [2025-07-10, 09:02:51](https://news.ycombinator.com/item?id=44518898) - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
-* [2025-07-10, 05:06:05](https://news.ycombinator.com/item?id=44517424) - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
+* [2025-07-10, 07:55:01](https://news.ycombinator.com/item?id=44518473) - [Kite – News App by Kagi](https://kite.kagi.com/)
 * [2025-07-10, 04:02:01](https://news.ycombinator.com/item?id=44517055) - [Grok 4 Launch [video]](https://twitter.com/xai/status/1943158495588815072)
 * [2025-07-09, 22:37:17](https://news.ycombinator.com/item?id=44515403) - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
 * [2025-07-09, 22:17:31](https://news.ycombinator.com/item?id=44515266) - [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)

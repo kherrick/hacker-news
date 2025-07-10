@@ -7,6 +7,7 @@
 * [2025-07-10, 09:48:09](https://news.ycombinator.com/item?id=44519175) - [Computer Scientists Figure Out How to Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-10, 09:27:02](https://news.ycombinator.com/item?id=44519034) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 * [2025-07-10, 09:02:51](https://news.ycombinator.com/item?id=44518898) - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
+* [2025-07-10, 07:55:01](https://news.ycombinator.com/item?id=44518473) - [Kite – News App by Kagi](https://kite.kagi.com/)
 * [2025-07-10, 07:24:30](https://news.ycombinator.com/item?id=44518269) - [\"Ripples They Cause in the World\"](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 * [2025-07-10, 06:28:41](https://news.ycombinator.com/item?id=44517927) - [I made a parody of enterprise AI chatbots](https://github.com/muratcanozdemir/chatgpt-parody)
 * [2025-07-10, 05:06:05](https://news.ycombinator.com/item?id=44517424) - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
