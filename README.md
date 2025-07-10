@@ -24,12 +24,12 @@
 * [2025-07-10, 09:02:51](https://news.ycombinator.com/item?id=44518898) - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
 * [2025-07-10, 07:24:30](https://news.ycombinator.com/item?id=44518269) - [Matt Trout has died](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 * [2025-07-08, 02:55:04](https://news.ycombinator.com/item?id=44496537) - [Analyzing database trends through 1.8M Hacker News headlines](https://camelai.com/blog/hn-database-hype/)
-* [2025-07-08, 00:14:24](https://news.ycombinator.com/item?id=44495807) - [Bear-Sized Giant Beavers Once Roamed North America](https://www.smithsonianmag.com/smart-news/bear-sized-giant-beaver-once-roamed-north-america-and-theyre-now-the-official-state-fossil-of-minnesota-180986937/)
 * [2025-07-07, 21:24:53](https://news.ycombinator.com/item?id=44494813) - [Regarding Prollyferation: Followup to \"People Keep Inventing Prolly Trees\"](https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/)
 * [2025-07-07, 18:13:20](https://news.ycombinator.com/item?id=44493146) - [Yamlfmt: An extensible command line tool or library to format YAML files](https://github.com/google/yamlfmt)
 * [2025-07-07, 14:05:06](https://news.ycombinator.com/item?id=44490510) - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale)
 * [2025-07-07, 13:43:22](https://news.ycombinator.com/item?id=44490308) - [The ChompSaw: A Benchtop Power Tool That's Safe for Kids to Use](https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use)
 * [2025-07-07, 10:29:56](https://news.ycombinator.com/item?id=44488731) - [Radiocarbon dating reveals Rapa Nui not as isolated as previously thought](https://phys.org/news/2025-06-radiocarbon-dating-reveals-rapa-nui.html)
+* [2025-07-07, 06:06:46](https://news.ycombinator.com/item?id=44487221) - [Show HN: CXXStateTree – A modern C++ library for hierarchical state machines](https://github.com/ZigRazor/CXXStateTree)
 
 ## [Archives](archives/index.md)
 
