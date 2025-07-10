@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-07-10, 19:49:47",
+      "https://news.ycombinator.com/item?id=44524757"
+    ],
+    [
+      "Holographic memory storage and information processing in Quantum Brain Dynamics",
+      "https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 19:48:48",
+      "https://news.ycombinator.com/item?id=44524749"
+    ],
+    [
+      "U.S. will review social media for foreign student visa applications",
+      "https://www.npr.org/2025/06/19/g-s1-73572/us-resumes-visas-foreign-students-access-social-media"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 19:43:44",
+      "https://news.ycombinator.com/item?id=44524707"
+    ],
+    [
+      "Grok 4",
+      "https://simonwillison.net/2025/Jul/10/grok-4/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 19:23:10",
+      "https://news.ycombinator.com/item?id=44524571"
+    ],
+    [
+      "Working with the UK Government to Protect Children Online",
+      "https://bsky.social/about/blog/07-10-2025-age-assurance"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 19:20:59",
       "https://news.ycombinator.com/item?id=44524544"
     ],
     [
       "Show HN: Cactus – Ollama for Smartphones",
       "https://news.ycombinator.com/item?id=44524544"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 19:10:28",
+      "https://news.ycombinator.com/item?id=44524430"
+    ],
+    [
+      "eBPF: Connecting with Container Runtimes",
+      "https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/"
     ]
   ],
   [
@@ -45,7 +95,7 @@
       "https://news.ycombinator.com/item?id=44523722"
     ],
     [
-      "George Orwell Diaries 1938-1942",
+      "Orwell Diaries 1938-1942",
       "https://orwelldiaries.wordpress.com/page/2/"
     ]
   ],
@@ -57,16 +107,6 @@
     [
       "Bitchat - P2P Chat on Bluetooth (no Internet, phone number, etc.)",
       "https://github.com/permissionlesstech/bitchat"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 17:56:41",
-      "https://news.ycombinator.com/item?id=44523686"
-    ],
-    [
-      "US utilities plot big rise in electricity rates as data centre demand booms",
-      "https://www.ft.com/content/c5f20c78-7931-492f-9153-675f3046e245"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2025-07-10, 09:48:09",
-      "https://news.ycombinator.com/item?id=44519175"
-    ],
-    [
-      "How to prove false statements: Practical attacks on Fiat-Shamir",
-      "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 09:27:02",
       "https://news.ycombinator.com/item?id=44519034"
     ],
@@ -221,22 +251,12 @@
   ],
   [
     [
-      "2025-07-09, 21:54:53",
-      "https://news.ycombinator.com/item?id=44515101"
+      "2025-07-10, 07:24:30",
+      "https://news.ycombinator.com/item?id=44518269"
     ],
     [
-      "A Typology of Canadianisms",
-      "https://dchp.arts.ubc.ca/how-to-use"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 20:43:43",
-      "https://news.ycombinator.com/item?id=44514550"
-    ],
-    [
-      "The death of partying in the USA",
-      "https://www.derekthompson.org/p/the-death-of-partying-in-the-usaand"
+      "Matt Trout has died",
+      "https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-07-07, 21:37:28",
-      "https://news.ycombinator.com/item?id=44494923"
-    ],
-    [
-      "Mini robots detect and fix water pipe leaks without digging",
-      "https://www.foxnews.com/tech/mini-robots-detect-fix-water-pipe-leaks-without-digging"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 21:24:53",
       "https://news.ycombinator.com/item?id=44494813"
     ],
     [
       "Regarding Prollyferation: Followup to \"People Keep Inventing Prolly Trees\"",
       "https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 17:01:56",
-      "https://news.ycombinator.com/item?id=44492345"
-    ],
-    [
-      "Automatically Packaging a Haskell Library as a Swift Binary XCFramework",
-      "https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html"
     ]
   ],
   [
