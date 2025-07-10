@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-10, 12:12:05",
+      "https://news.ycombinator.com/item?id=44520105"
+    ],
+    [
+      "YouTube prepares crackdown on mass-produced videos as concern over AI slop grows",
+      "https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 11:12:53",
+      "https://news.ycombinator.com/item?id=44519665"
+    ],
+    [
+      "Browser extensions turn nearly 1M browsers into website-scraping bots",
+      "https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 11:10:49",
       "https://news.ycombinator.com/item?id=44519651"
     ],
     [
       "At last, a use case for AI agents with sky-high ROI: Stealing crypto",
       "https://www.theregister.com/2025/07/10/ai_agents_automatically_steal_cryptocurrency/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 10:59:06",
+      "https://news.ycombinator.com/item?id=44519596"
+    ],
+    [
+      "Magic .env files built for sharing: Human-first, AI-friendly",
+      "https://varlock.dev/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-07-09, 17:08:54",
-      "https://news.ycombinator.com/item?id=44512470"
-    ],
-    [
-      "Configuring Split Horizon DNS with Pi-Hole and Tailscale",
-      "https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 14:52:04",
       "https://news.ycombinator.com/item?id=44510731"
     ],
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2025-07-07, 21:37:28",
+      "https://news.ycombinator.com/item?id=44494923"
+    ],
+    [
+      "Mini robots detect and fix water pipe leaks without digging",
+      "https://www.foxnews.com/tech/mini-robots-detect-fix-water-pipe-leaks-without-digging"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 17:31:00",
       "https://news.ycombinator.com/item?id=44492682"
     ],
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2025-07-06, 22:15:03",
-      "https://news.ycombinator.com/item?id=44484579"
-    ],
-    [
-      "Code and Trust: Vibrators to Pacemakers",
-      "https://punkx.org/jackdoe/code-and-trust.html"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 21:50:52",
       "https://news.ycombinator.com/item?id=44484409"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-07-06, 12:49:31",
-      "https://news.ycombinator.com/item?id=44480363"
-    ],
-    [
-      "The most otherworldly, mysterious forms of lightning on Earth",
-      "https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 10:35:28",
       "https://news.ycombinator.com/item?id=44479485"
     ],
     [
       "Show HN: BreakerMachines – Modern Circuit Breaker for Rails with Async Support",
       "https://github.com/seuros/breaker_machines"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 09:58:26",
-      "https://news.ycombinator.com/item?id=44479302"
-    ],
-    [
-      "Ruby 3.4 frozen string literals: What Rails developers need to know",
-      "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/"
     ]
   ]
 ]
