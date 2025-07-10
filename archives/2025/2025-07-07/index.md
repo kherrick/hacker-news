@@ -57,6 +57,7 @@
 * [2025-07-07, 08:40:00](https://news.ycombinator.com/item?id=44488072) - [Poland's clean energy usage overtakes coal for first time](https://www.ft.com/content/ae920241-597e-49d9-a4b9-bfdfa9deabb6)
 * [2025-07-07, 06:58:10](https://news.ycombinator.com/item?id=44487451) - [Archaeologists unveil 3,500-year-old city in Peru](https://www.bbc.co.uk/news/articles/c07dmx38kyeo)
 * [2025-07-07, 06:27:24](https://news.ycombinator.com/item?id=44487316) - [Author of William the Conqueror's 'Medieval Big Data' Project Revealed](https://www.ox.ac.uk/news/2025-07-02-author-william-conqueror-s-medieval-big-data-project-revealed)
+* [2025-07-07, 06:06:46](https://news.ycombinator.com/item?id=44487221) - [Show HN: CXXStateTree – A modern C++ library for hierarchical state machines](https://github.com/ZigRazor/CXXStateTree)
 * [2025-07-07, 05:39:17](https://news.ycombinator.com/item?id=44487110) - [I Ported SAP to a 1976 CPU. It Wasn't That Slow](https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md)
 * [2025-07-07, 04:40:49](https://news.ycombinator.com/item?id=44486818) - ['Improved' Grok Criticizes Democrats and Hollywood's 'Jewish Executives'](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
 * [2025-07-07, 04:04:24](https://news.ycombinator.com/item?id=44486651) - [Splice: Cable Harness Design Made Simple](https://splice-cad.com)
