@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-10, 14:45:33",
-      "https://news.ycombinator.com/item?id=44521686"
+      "2025-07-10, 14:55:42",
+      "https://news.ycombinator.com/item?id=44521814"
     ],
     [
-      "AI slows down some experienced software developers, study finds",
-      "https://www.reuters.com/business/ai-slows-down-some-experienced-software-developers-study-finds-2025-07-10/"
+      "Executed Chinese prisoners likely used in UK exhibition (2021)",
+      "https://www.theartnewspaper.com/2021/01/25/executed-chinese-prisoners-likely-used-in-uk-exhibition"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 14:02:04",
+      "https://news.ycombinator.com/item?id=44521224"
+    ],
+    [
+      "Flix – A powerful effect-oriented programming language",
+      "https://flix.dev/"
     ]
   ],
   [
@@ -57,6 +67,26 @@
     [
       "Show HN: Typeform was too expensive so I built my own forms",
       "https://www.ikiform.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 07:42:58",
+      "https://news.ycombinator.com/item?id=44518381"
+    ],
+    [
+      "Large-scale DNA study maps 37,000 years of human disease history",
+      "https://www.cam.ac.uk/research/news/large-scale-dna-study-maps-37000-years-of-human-disease-history"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 01:15:58",
+      "https://news.ycombinator.com/item?id=44516317"
+    ],
+    [
+      "The case for building operator interfaces before AI agents",
+      "https://www.henrypray.com/writings/the-only-saas-feature-you-should-be-building"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-07-08, 22:37:21",
-      "https://news.ycombinator.com/item?id=44504676"
-    ],
-    [
-      "Xenharmlib: A music theory library that supports non-western harmonic systems",
-      "https://xenharmlib.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
       "2025-07-08, 02:37:00",
       "https://news.ycombinator.com/item?id=44496461"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-07-07, 15:44:51",
-      "https://news.ycombinator.com/item?id=44491545"
-    ],
-    [
-      "Evaluating the Effectiveness of Memory Safety Sanitizers",
-      "https://www.computer.org/csdl/proceedings-article/sp/2025/223600a088/21TfesaEHTy"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 06:58:10",
       "https://news.ycombinator.com/item?id=44487451"
     ],
@@ -287,16 +297,6 @@
     [
       "The jank programming language",
       "https://jank-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 10:35:28",
-      "https://news.ycombinator.com/item?id=44479485"
-    ],
-    [
-      "Show HN: BreakerMachines – Modern Circuit Breaker for Rails with Async Support",
-      "https://github.com/seuros/breaker_machines"
     ]
   ]
 ]
