@@ -11,6 +11,7 @@
 * [2025-07-06, 22:27:39](https://news.ycombinator.com/item?id=44484688) - [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
 * [2025-07-06, 22:26:44](https://news.ycombinator.com/item?id=44484682) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 * [2025-07-06, 22:16:37](https://news.ycombinator.com/item?id=44484595) - [Nobody has a personality anymore: we are products with labels](https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore)
+* [2025-07-06, 22:15:03](https://news.ycombinator.com/item?id=44484579) - [Code and Trust: Vibrators to Pacemakers](https://punkx.org/jackdoe/code-and-trust.html)
 * [2025-07-06, 22:12:09](https://news.ycombinator.com/item?id=44484557) - [New Horizons images enable first test of interstellar navigation](https://www.newscientist.com/article/2486823-new-horizons-images-enable-first-test-of-interstellar-navigation/)
 * [2025-07-06, 21:50:52](https://news.ycombinator.com/item?id=44484409) - [The Origin of the Research University](https://asteriskmag.com/issues/10/the-origin-of-the-research-university)
 * [2025-07-06, 21:46:02](https://news.ycombinator.com/item?id=44484363) - [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
