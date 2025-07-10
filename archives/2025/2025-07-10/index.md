@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 13:51:30](https://news.ycombinator.com/item?id=44521094) - [Could a Paper Plane Thrown from the ISS Survive the Flight?](https://www.sciencealert.com/could-a-paper-plane-thrown-from-the-international-space-station-survive-the-flight)
 * [2025-07-10, 13:13:32](https://news.ycombinator.com/item?id=44520635) - [Millions of tonnes of nanoplastics are polluting the ocean](https://www.nature.com/articles/d41586-025-02162-0)
 * [2025-07-10, 12:54:24](https://news.ycombinator.com/item?id=44520466) - [ChatGPT Guessing Game Leads to Users Extracting Free Windows OS Keys and More](https://0din.ai/blog/chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more)
 * [2025-07-10, 12:52:55](https://news.ycombinator.com/item?id=44520447) - [AI is turning Apple into a \"loser\"](https://www.axios.com/2025/07/10/ai-apple-stock-market)
@@ -17,6 +18,7 @@
 * [2025-07-10, 09:27:02](https://news.ycombinator.com/item?id=44519034) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 * [2025-07-10, 09:02:51](https://news.ycombinator.com/item?id=44518898) - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
 * [2025-07-10, 07:55:01](https://news.ycombinator.com/item?id=44518473) - [Kite – News App by Kagi](https://kite.kagi.com/)
+* [2025-07-10, 07:42:58](https://news.ycombinator.com/item?id=44518381) - [Large-scale DNA study maps 37,000 years of human disease history](https://www.cam.ac.uk/research/news/large-scale-dna-study-maps-37000-years-of-human-disease-history)
 * [2025-07-10, 07:24:30](https://news.ycombinator.com/item?id=44518269) - [\"Ripples They Cause in the World\"](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 * [2025-07-10, 06:28:41](https://news.ycombinator.com/item?id=44517927) - [I made a parody of enterprise AI chatbots](https://github.com/muratcanozdemir/chatgpt-parody)
 * [2025-07-10, 05:06:05](https://news.ycombinator.com/item?id=44517424) - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
