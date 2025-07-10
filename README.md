@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-10, 07:24:30](https://news.ycombinator.com/item?id=44518269) - [\"Ripples They Cause in the World\"](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 * [2025-07-10, 05:06:05](https://news.ycombinator.com/item?id=44517424) - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
 * [2025-07-10, 01:10:08](https://news.ycombinator.com/item?id=44516288) - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
 * [2025-07-09, 22:48:16](https://news.ycombinator.com/item?id=44515495) - [I used to prefer permissive licenses and now favor copyleft](https://vitalik.eth.limo/general/2025/07/07/copyleft.html)
@@ -26,7 +27,6 @@
 * [2025-07-06, 21:50:52](https://news.ycombinator.com/item?id=44484409) - [The Origin of the Research University](https://asteriskmag.com/issues/10/the-origin-of-the-research-university)
 * [2025-07-06, 16:56:42](https://news.ycombinator.com/item?id=44482273) - [The jank programming language](https://jank-lang.org/)
 * [2025-07-06, 15:34:04](https://news.ycombinator.com/item?id=44481627) - [Understand CPU Branch Instructions Better](https://chrisfeilbach.com/2025/07/05/understand-cpu-branch-instructions-better/)
-* [2025-07-06, 13:56:04](https://news.ycombinator.com/item?id=44480852) - [Making Explainable Minesweeper](https://sublevelgames.github.io/blogs/2025-07-06-making-explainable-minesweeper/)
 * [2025-07-06, 12:49:31](https://news.ycombinator.com/item?id=44480363) - [The most otherworldly, mysterious forms of lightning on Earth](https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms)
 * [2025-07-06, 10:35:28](https://news.ycombinator.com/item?id=44479485) - [Show HN: BreakerMachines – Modern Circuit Breaker for Rails with Async Support](https://github.com/seuros/breaker_machines)
 * [2025-07-06, 09:58:26](https://news.ycombinator.com/item?id=44479302) - [Ruby 3.4 frozen string literals: What Rails developers need to know](https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/)
