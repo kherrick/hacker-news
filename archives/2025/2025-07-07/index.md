@@ -41,6 +41,7 @@
 * [2025-07-07, 14:39:18](https://news.ycombinator.com/item?id=44490848) - [Galiliean-invariant cosmological hydrodynamical simulations on a moving mesh](https://wwwmpa.mpa-garching.mpg.de/~volker/arepo/)
 * [2025-07-07, 14:35:53](https://news.ycombinator.com/item?id=44490815) - [Cmdk – CD anywhere and open anything in your terminal](https://github.com/mieubrisse/cmdk)
 * [2025-07-07, 14:13:56](https://news.ycombinator.com/item?id=44490588) - [Show HN: NYC Subway Simulator and Route Designer](https://buildmytransit.nyc)
+* [2025-07-07, 14:05:06](https://news.ycombinator.com/item?id=44490510) - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale)
 * [2025-07-07, 14:03:24](https://news.ycombinator.com/item?id=44490490) - [The Day You Became a Better Writer (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 * [2025-07-07, 13:52:51](https://news.ycombinator.com/item?id=44490386) - [CPU-X: CPU-Z for Linux](https://thetumultuousunicornofdarkness.github.io/CPU-X/)
 * [2025-07-07, 13:44:18](https://news.ycombinator.com/item?id=44490321) - [State of the Art: Economic Development Through the Lens of Paintings](https://www.nber.org/papers/w33976)
