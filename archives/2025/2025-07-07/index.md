@@ -11,6 +11,7 @@
 * [2025-07-07, 20:36:54](https://news.ycombinator.com/item?id=44494430) - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
 * [2025-07-07, 20:18:30](https://news.ycombinator.com/item?id=44494255) - [How did X-Rays gain mass adoption?](https://www.aditharun.com/p/how-did-x-rays-gain-mass-adoption)
 * [2025-07-07, 20:03:16](https://news.ycombinator.com/item?id=44494117) - [The 'ChatGPT Moment' in Robotics and Beyond](https://paritoshmohan.substack.com/p/the-chatgpt-moment-in-robotics-and)
+* [2025-07-07, 19:18:08](https://news.ycombinator.com/item?id=44493730) - [From Task to Table: How I Got to the Korean Burger](https://medium.com/@chrisveleris/from-task-to-table-how-i-finally-got-to-the-korean-burger-01245a14d491)
 * [2025-07-07, 19:07:13](https://news.ycombinator.com/item?id=44493640) - [Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs](https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html)
 * [2025-07-07, 18:19:13](https://news.ycombinator.com/item?id=44493196) - [New Sphere-Packing Record Stems from an Unexpected Source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
 * [2025-07-07, 18:16:36](https://news.ycombinator.com/item?id=44493174) - [Serving a half billion requests per day with Rust and CGI](https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/)
