@@ -17,6 +17,7 @@
 * [2025-07-07, 17:58:04](https://news.ycombinator.com/item?id=44492986) - [My first verified (imperative) program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 * [2025-07-07, 17:41:39](https://news.ycombinator.com/item?id=44492792) - [Bridgefy SDK – Make your mobile app work without the Internet](https://bridgefy.me/sdk/)
 * [2025-07-07, 17:33:03](https://news.ycombinator.com/item?id=44492695) - [An ambitious vision of a city built from lava](https://www.cnn.com/2025/07/03/style/lava-material-architecture-venice-biennale)
+* [2025-07-07, 17:31:00](https://news.ycombinator.com/item?id=44492682) - [Thunderbird 140 \"Eclipse\"](https://blog.thunderbird.net/2025/07/welcome-to-thunderbird-140-eclipse/)
 * [2025-07-07, 17:07:05](https://news.ycombinator.com/item?id=44492405) - [Show HN: Ossia score – a sequencer for audio-visual artists](https://github.com/ossia/score)
 * [2025-07-07, 16:56:48](https://news.ycombinator.com/item?id=44492290) - [Generic Interfaces](https://go.dev/blog/generic-interfaces)
 * [2025-07-07, 16:47:34](https://news.ycombinator.com/item?id=44492175) - [Introduction to Indian English](https://www.oed.com/discover/introduction-to-indian-english/)
