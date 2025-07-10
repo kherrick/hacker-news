@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 14:55:42](https://news.ycombinator.com/item?id=44521814) - [Executed Chinese prisoners likely used in UK exhibition (2021)](https://www.theartnewspaper.com/2021/01/25/executed-chinese-prisoners-likely-used-in-uk-exhibition)
 * [2025-07-10, 14:45:33](https://news.ycombinator.com/item?id=44521686) - [AI slows down some experienced software developers, study finds](https://www.reuters.com/business/ai-slows-down-some-experienced-software-developers-study-finds-2025-07-10/)
+* [2025-07-10, 14:02:04](https://news.ycombinator.com/item?id=44521224) - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
 * [2025-07-10, 13:51:30](https://news.ycombinator.com/item?id=44521094) - [Could a Paper Plane Thrown from the ISS Survive the Flight?](https://www.sciencealert.com/could-a-paper-plane-thrown-from-the-international-space-station-survive-the-flight)
 * [2025-07-10, 13:13:32](https://news.ycombinator.com/item?id=44520635) - [Millions of tonnes of nanoplastics are polluting the ocean](https://www.nature.com/articles/d41586-025-02162-0)
 * [2025-07-10, 12:54:24](https://news.ycombinator.com/item?id=44520466) - [ChatGPT Guessing Game Leads to Users Extracting Free Windows OS Keys and More](https://0din.ai/blog/chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more)
@@ -27,4 +29,5 @@
 * [2025-07-10, 03:05:46](https://news.ycombinator.com/item?id=44516793) - [A Virginia public library is fighting off a takeover by private equity](https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/)
 * [2025-07-10, 02:51:53](https://news.ycombinator.com/item?id=44516734) - [El Salvador Tells UN That US Has \"Exclusive\" Jurisdiction over Detainees](https://www.techdirt.com/2025/07/09/el-salvador-throws-doj-under-the-bus-tells-un-that-us-has-exclusive-jurisdiction-over-renditioned-detainees/)
 * [2025-07-10, 02:34:51](https://news.ycombinator.com/item?id=44516674) - [A lightweight Cloudflare Dynamic DNS shell script](https://github.com/fernvenue/cloudflare-ddns)
+* [2025-07-10, 01:15:58](https://news.ycombinator.com/item?id=44516317) - [The case for building operator interfaces before AI agents](https://www.henrypray.com/writings/the-only-saas-feature-you-should-be-building)
 * [2025-07-10, 01:10:08](https://news.ycombinator.com/item?id=44516288) - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
