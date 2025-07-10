@@ -20,7 +20,7 @@
 * [2025-07-08, 02:37:00](https://news.ycombinator.com/item?id=44496461) - [Radiocarbon dating reveals Rapa Nui not as isolated as previously thought](https://phys.org/news/2025-06-radiocarbon-dating-reveals-rapa-nui.html)
 * [2025-07-07, 22:58:45](https://news.ycombinator.com/item?id=44495428) - [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
 * [2025-07-07, 19:18:08](https://news.ycombinator.com/item?id=44493730) - [From Task to Table: How I Got to the Korean Burger](https://medium.com/@chrisveleris/from-task-to-table-how-i-finally-got-to-the-korean-burger-01245a14d491)
-* [2025-07-07, 17:31:00](https://news.ycombinator.com/item?id=44492682) - [Thunderbird 140 \"Eclipse\"](https://blog.thunderbird.net/2025/07/welcome-to-thunderbird-140-eclipse/)
+* [2025-07-07, 17:31:00](https://news.ycombinator.com/item?id=44492682) - [Thunderbird 140 “Eclipse”](https://blog.thunderbird.net/2025/07/welcome-to-thunderbird-140-eclipse/)
 * [2025-07-07, 15:44:51](https://news.ycombinator.com/item?id=44491545) - [Evaluating the Effectiveness of Memory Safety Sanitizers](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a088/21TfesaEHTy)
 * [2025-07-07, 14:35:53](https://news.ycombinator.com/item?id=44490815) - [Cmdk – CD anywhere and open anything in your terminal](https://github.com/mieubrisse/cmdk)
 * [2025-07-07, 06:58:10](https://news.ycombinator.com/item?id=44487451) - [Archaeologists unveil 3,500-year-old city in Peru](https://www.bbc.co.uk/news/articles/c07dmx38kyeo)
