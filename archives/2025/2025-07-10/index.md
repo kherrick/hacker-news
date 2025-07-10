@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 23:38:11](https://news.ycombinator.com/item?id=44526912) - [Not So Fast: AI Coding Tools Can Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 * [2025-07-10, 22:09:43](https://news.ycombinator.com/item?id=44526220) - [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)
 * [2025-07-10, 21:35:25](https://news.ycombinator.com/item?id=44525873) - [The FBI Is Using Polygraphs to Test Officials' Loyalty](https://www.nytimes.com/2025/07/10/us/politics/fbi-polygraph-kash-patel.html)
 * [2025-07-10, 20:51:45](https://news.ycombinator.com/item?id=44525468) - [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)

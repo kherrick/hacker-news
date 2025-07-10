@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-10, 23:38:11](https://news.ycombinator.com/item?id=44526912) - [Not So Fast: AI Coding Tools Can Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 * [2025-07-10, 22:09:43](https://news.ycombinator.com/item?id=44526220) - [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)
 * [2025-07-10, 20:51:45](https://news.ycombinator.com/item?id=44525468) - [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
-* [2025-07-10, 19:49:47](https://news.ycombinator.com/item?id=44524757) - [Optical and Acoustic Super-Radiance via a Microtubule (2024)](https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule)
 * [2025-07-10, 19:43:44](https://news.ycombinator.com/item?id=44524707) - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
 * [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
 * [2025-07-10, 19:10:28](https://news.ycombinator.com/item?id=44524430) - [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
