@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-07-10, 02:34:51",
-      "https://news.ycombinator.com/item?id=44516674"
-    ],
-    [
-      "A lightweight Cloudflare Dynamic DNS shell script",
-      "https://github.com/fernvenue/cloudflare-ddns"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 01:10:08",
       "https://news.ycombinator.com/item?id=44516288"
     ],
@@ -67,6 +57,16 @@
     [
       "A Typology of Canadianisms",
       "https://dchp.arts.ubc.ca/how-to-use"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 21:53:19",
+      "https://news.ycombinator.com/item?id=44515087"
+    ],
+    [
+      "Multi-Region Row Level Security in CockroachDB",
+      "https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-07-09, 04:04:45",
-      "https://news.ycombinator.com/item?id=44506251"
-    ],
-    [
-      "Phrase origin: Why do we \"call\" functions?",
-      "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/"
-    ]
-  ],
-  [
-    [
       "2025-07-08, 22:37:21",
       "https://news.ycombinator.com/item?id=44504676"
     ],
@@ -207,6 +197,16 @@
     [
       "Bootstrapping a side project into a profitable seven-figure business",
       "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 16:56:48",
+      "https://news.ycombinator.com/item?id=44492290"
+    ],
+    [
+      "Generic Interfaces",
+      "https://go.dev/blog/generic-interfaces"
     ]
   ],
   [
