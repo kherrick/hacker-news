@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 13:13:32](https://news.ycombinator.com/item?id=44520635) - [Millions of tonnes of nanoplastics are polluting the ocean](https://www.nature.com/articles/d41586-025-02162-0)
+* [2025-07-10, 12:54:24](https://news.ycombinator.com/item?id=44520466) - [ChatGPT Guessing Game Leads to Users Extracting Free Windows OS Keys and More](https://0din.ai/blog/chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more)
+* [2025-07-10, 12:52:55](https://news.ycombinator.com/item?id=44520447) - [AI is turning Apple into a \"loser\"](https://www.axios.com/2025/07/10/ai-apple-stock-market)
+* [2025-07-10, 12:36:06](https://news.ycombinator.com/item?id=44520297) - [The Birth-Rate Crisis Isn't as Bad as You've Heard–It's Worse](https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/)
+* [2025-07-10, 12:35:21](https://news.ycombinator.com/item?id=44520292) - [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
 * [2025-07-10, 12:12:05](https://news.ycombinator.com/item?id=44520105) - [YouTube prepares crackdown on mass-produced videos as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/)
 * [2025-07-10, 11:12:53](https://news.ycombinator.com/item?id=44519665) - [Browser extensions turn nearly 1M browsers into website-scraping bots](https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/)
 * [2025-07-10, 11:10:49](https://news.ycombinator.com/item?id=44519651) - [At last, a use case for AI agents with sky-high ROI: Stealing crypto](https://www.theregister.com/2025/07/10/ai_agents_automatically_steal_cryptocurrency/)
