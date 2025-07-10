@@ -7,6 +7,7 @@
 * [2025-07-10, 16:29:18](https://news.ycombinator.com/item?id=44522772) - [Measuring the Impact of AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 16:16:03](https://news.ycombinator.com/item?id=44522627) - [Bribe or community benefit? Sweeteners for renewables need to be done right](https://theconversation.com/bribe-or-community-benefit-sweeteners-smoothing-the-way-for-renewables-projects-need-to-be-done-right-258903)
 * [2025-07-10, 16:10:51](https://news.ycombinator.com/item?id=44522579) - [Seven Engineers Suspended After $2.3M Bridge Includes 90-Degree Turn](https://www.vice.com/en/article/7-engineers-suspended-after-2-3-million-bridge-includes-bizarre-90-degree-turn/)
+* [2025-07-10, 16:02:40](https://news.ycombinator.com/item?id=44522505) - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [2025-07-10, 15:08:55](https://news.ycombinator.com/item?id=44521923) - [X's CEO is out after failing at basically everything she claimed she wanted](https://www.theverge.com/twitter/703606/x-ceo-linda-yaccarino-elon-musk-out-step-down-twitter)
 * [2025-07-10, 15:01:42](https://news.ycombinator.com/item?id=44521871) - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
 * [2025-07-10, 14:55:42](https://news.ycombinator.com/item?id=44521814) - [Executed Chinese prisoners likely used in UK exhibition (2021)](https://www.theartnewspaper.com/2021/01/25/executed-chinese-prisoners-likely-used-in-uk-exhibition)

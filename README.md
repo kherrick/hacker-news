@@ -2,6 +2,7 @@
 
 * [2025-07-10, 16:29:18](https://news.ycombinator.com/item?id=44522772) - [Measuring the Impact of AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 16:10:51](https://news.ycombinator.com/item?id=44522579) - [Seven Engineers Suspended After $2.3M Bridge Includes 90-Degree Turn](https://www.vice.com/en/article/7-engineers-suspended-after-2-3-million-bridge-includes-bizarre-90-degree-turn/)
+* [2025-07-10, 16:02:40](https://news.ycombinator.com/item?id=44522505) - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [2025-07-10, 15:01:42](https://news.ycombinator.com/item?id=44521871) - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
 * [2025-07-10, 14:23:46](https://news.ycombinator.com/item?id=44521457) - [Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
 * [2025-07-10, 14:02:04](https://news.ycombinator.com/item?id=44521224) - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
@@ -18,7 +19,6 @@
 * [2025-07-09, 20:43:43](https://news.ycombinator.com/item?id=44514550) - [The death of partying in the USA](https://www.derekthompson.org/p/the-death-of-partying-in-the-usaand)
 * [2025-07-09, 17:34:09](https://news.ycombinator.com/item?id=44512763) - [Show HN: FlopperZiro – A DIY open-source Flipper Zero clone](https://github.com/lraton/FlopperZiro)
 * [2025-07-09, 15:05:50](https://news.ycombinator.com/item?id=44510913) - [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/)
-* [2025-07-09, 14:52:04](https://news.ycombinator.com/item?id=44510731) - [Linda Yaccarino is leaving X](https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html)
 * [2025-07-09, 14:40:24](https://news.ycombinator.com/item?id=44510600) - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
 * [2025-07-09, 12:31:56](https://news.ycombinator.com/item?id=44509254) - [Solar power has begun to transform the world’s energy system](https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment)
 * [2025-07-08, 02:55:04](https://news.ycombinator.com/item?id=44496537) - [Analyzing database trends through 1.8M Hacker News headlines](https://camelai.com/blog/hn-database-hype/)
