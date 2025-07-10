@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-10, 22:09:43",
+      "https://news.ycombinator.com/item?id=44526220"
+    ],
+    [
+      "An open letter from educators who refuse the call to adopt GenAI in education",
+      "https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 21:35:25",
       "https://news.ycombinator.com/item?id=44525873"
     ],
@@ -27,6 +37,16 @@
     [
       "Optical and Acoustic Super-Radiance via a Microtubule (2024)",
       "https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 19:43:44",
+      "https://news.ycombinator.com/item?id=44524707"
+    ],
+    [
+      "Grok 4",
+      "https://simonwillison.net/2025/Jul/10/grok-4/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Show HN: Open source alternative to Perplexity Comet",
       "https://www.browseros.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 17:04:00",
-      "https://news.ycombinator.com/item?id=44523094"
-    ],
-    [
-      "Show HN: asyncmcp – Run MCP over async transport via AWS SNS+SQS",
-      "https://github.com/bh-rat/asyncmcp"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Radiocarbon dating reveals Rapa Nui not as isolated as previously thought",
       "https://phys.org/news/2025-06-radiocarbon-dating-reveals-rapa-nui.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 06:06:46",
-      "https://news.ycombinator.com/item?id=44487221"
-    ],
-    [
-      "Show HN: CXXStateTree – A modern C++ library for hierarchical state machines",
-      "https://github.com/ZigRazor/CXXStateTree"
     ]
   ]
 ]
