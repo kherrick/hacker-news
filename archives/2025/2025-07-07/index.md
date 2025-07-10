@@ -10,6 +10,7 @@
 * [2025-07-07, 21:46:47](https://news.ycombinator.com/item?id=44494997) - [Koala: A benchmark suite for performance-oriented shell-optimization research](https://github.com/kbensh/koala)
 * [2025-07-07, 21:39:17](https://news.ycombinator.com/item?id=44494941) - [China is increasingly a home to major brands](https://musgrave.substack.com/p/oh-no-i-betrayed-america)
 * [2025-07-07, 21:37:28](https://news.ycombinator.com/item?id=44494923) - [Mini robots detect and fix water pipe leaks without digging](https://www.foxnews.com/tech/mini-robots-detect-fix-water-pipe-leaks-without-digging)
+* [2025-07-07, 21:24:53](https://news.ycombinator.com/item?id=44494813) - [Regarding Prollyferation: Followup to \"People Keep Inventing Prolly Trees\"](https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/)
 * [2025-07-07, 20:36:54](https://news.ycombinator.com/item?id=44494430) - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
 * [2025-07-07, 20:18:30](https://news.ycombinator.com/item?id=44494255) - [How did X-Rays gain mass adoption?](https://www.aditharun.com/p/how-did-x-rays-gain-mass-adoption)
 * [2025-07-07, 20:03:16](https://news.ycombinator.com/item?id=44494117) - [The 'ChatGPT Moment' in Robotics and Beyond](https://paritoshmohan.substack.com/p/the-chatgpt-moment-in-robotics-and)
