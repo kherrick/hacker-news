@@ -8,6 +8,7 @@
 * [2025-07-11, 20:51:56](https://news.ycombinator.com/item?id=44536691) - [Air India Flight 171 Accident Preliminary Report [pdf]](https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf)
 * [2025-07-11, 20:38:46](https://news.ycombinator.com/item?id=44536572) - [Dutch Childcare Benefits Scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal)
 * [2025-07-11, 19:55:39](https://news.ycombinator.com/item?id=44536248) - [I'm more proud of these 128 kilobytes than anything I've built since](https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18)
+* [2025-07-11, 19:24:24](https://news.ycombinator.com/item?id=44535977) - [Introduction to Digital Filters](https://ccrma.stanford.edu/~jos/filters/)
 * [2025-07-11, 19:18:45](https://news.ycombinator.com/item?id=44535934) - [Belkin shows tech firms getting too comfortable with bricking customers' stuff](https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/)
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
 * [2025-07-11, 18:41:14](https://news.ycombinator.com/item?id=44535604) - [Google nerfs Pixel 6a batteries following fire hazard](https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/)
