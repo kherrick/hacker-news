@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 13:53:39](https://news.ycombinator.com/item?id=44532174) - [We're Light-Years Away from True Artificial Intelligence, Says Martha Wells](https://www.scientificamerican.com/article/were-light-years-away-from-true-artificial-intelligence-says-murderbot/)
 * [2025-07-11, 13:19:02](https://news.ycombinator.com/item?id=44531811) - [It's Time to Let Go of 'African American'](https://archive.li/jkk4S)
 * [2025-07-11, 13:14:21](https://news.ycombinator.com/item?id=44531764) - [Some arguments against a land value tax](https://www.lesswrong.com/posts/CCuJotfcaoXf8FYcy/some-arguments-against-a-land-value-tax)
 * [2025-07-11, 13:07:03](https://news.ycombinator.com/item?id=44531707) - [Overtourism in Japan, and How It Hurts Small Businesses](https://craigmod.com/ridgeline/210/)
