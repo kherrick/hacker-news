@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 11:03:59](https://news.ycombinator.com/item?id=44530767) - [Bill Atkinson's Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 * [2025-07-11, 10:36:26](https://news.ycombinator.com/item?id=44530581) - [FP8 is ~100 tflops faster when the kernel name has \"cutlass\" in it](https://twitter.com/cis_female/status/1943069934332055912)
 * [2025-07-11, 10:03:11](https://news.ycombinator.com/item?id=44530375) - [At Amazon's Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
 * [2025-07-11, 08:51:17](https://news.ycombinator.com/item?id=44529812) - [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/)

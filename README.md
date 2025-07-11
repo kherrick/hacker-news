@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-11, 11:03:59](https://news.ycombinator.com/item?id=44530767) - [Bill Atkinson's Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 * [2025-07-11, 10:36:26](https://news.ycombinator.com/item?id=44530581) - [FP8 is ~100 tflops faster when the kernel name has \"cutlass\" in it](https://twitter.com/cis_female/status/1943069934332055912)
 * [2025-07-11, 10:03:11](https://news.ycombinator.com/item?id=44530375) - [At Amazon's Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
@@ -12,7 +13,6 @@
 * [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://github.com/cactus-compute/cactus)
 * [2025-07-10, 17:58:59](https://news.ycombinator.com/item?id=44523722) - [Orwell Diaries 1938-1942](https://orwelldiaries.wordpress.com/page/2/)
 * [2025-07-10, 17:33:07](https://news.ycombinator.com/item?id=44523409) - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/)
-* [2025-07-10, 16:29:18](https://news.ycombinator.com/item?id=44522772) - [Measuring the impact of AI on experienced open-source developer productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 16:02:40](https://news.ycombinator.com/item?id=44522505) - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [2025-07-10, 15:25:56](https://news.ycombinator.com/item?id=44522076) - [What is Realtalk’s relationship to AI? (2024)](https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI)
 * [2025-07-10, 15:01:42](https://news.ycombinator.com/item?id=44521871) - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
