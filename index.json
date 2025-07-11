@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-07-11, 08:42:45",
-      "https://news.ycombinator.com/item?id=44529747"
-    ],
-    [
-      "Slack's 57MB 404 page",
-      "https://a.slack.com/archives/b/c"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 06:49:12",
       "https://news.ycombinator.com/item?id=44529061"
     ],
@@ -187,6 +177,16 @@
     [
       "Flix – A powerful effect-oriented programming language",
       "https://flix.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 12:51:19",
+      "https://news.ycombinator.com/item?id=44520438"
+    ],
+    [
+      "Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs",
+      "https://github.com/afnanenayet/diffsitter"
     ]
   ],
   [
