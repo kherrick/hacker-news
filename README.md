@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-11, 21:35:31](https://news.ycombinator.com/item?id=44536988) - [OpenAI's Windsurf deal is off – and its CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
 * [2025-07-11, 21:01:21](https://news.ycombinator.com/item?id=44536748) - [Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV)](https://careers.activeloop.ai/)
 * [2025-07-11, 20:51:56](https://news.ycombinator.com/item?id=44536691) - [Air India Flight 171 Accident Preliminary Report [pdf]](https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf)
 * [2025-07-11, 19:55:39](https://news.ycombinator.com/item?id=44536248) - [I'm more proud of these 128 kilobytes than anything I've built since](https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18)
@@ -11,7 +12,6 @@
 * [2025-07-11, 16:19:13](https://news.ycombinator.com/item?id=44533982) - [Pa. House passes 'click-to-cancel' subscription bills](https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html)
 * [2025-07-11, 16:09:04](https://news.ycombinator.com/item?id=44533843) - [In a First, Solar Was Europe's Biggest Source of Power Last Month](https://e360.yale.edu/digest/solar-biggest-power-source-europe-june-2025)
 * [2025-07-11, 15:43:20](https://news.ycombinator.com/item?id=44533464) - [Astronomers race to study interstellar interloper](https://www.science.org/content/article/astronomers-race-study-interstellar-interloper)
-* [2025-07-11, 15:38:58](https://news.ycombinator.com/item?id=44533403) - [Kimi K2](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
 * [2025-07-11, 15:33:17](https://news.ycombinator.com/item?id=44533337) - [Lead pigment in turmeric is the culprit in a global poisoning mystery (2024)](https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh)
 * [2025-07-11, 15:08:52](https://news.ycombinator.com/item?id=44533004) - [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
 * [2025-07-11, 14:06:07](https://news.ycombinator.com/item?id=44532306) - [Upgrading an M4 Pro Mac mini's storage for half the price](https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price)

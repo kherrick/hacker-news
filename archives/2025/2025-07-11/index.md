@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 21:35:31](https://news.ycombinator.com/item?id=44536988) - [OpenAI's Windsurf deal is off – and its CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
 * [2025-07-11, 21:01:21](https://news.ycombinator.com/item?id=44536748) - [Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV)](https://careers.activeloop.ai/)
 * [2025-07-11, 20:51:56](https://news.ycombinator.com/item?id=44536691) - [Air India Flight 171 Accident Preliminary Report [pdf]](https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf)
 * [2025-07-11, 20:38:46](https://news.ycombinator.com/item?id=44536572) - [Dutch Childcare Benefits Scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal)
