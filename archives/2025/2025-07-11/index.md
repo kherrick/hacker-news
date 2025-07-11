@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 13:19:02](https://news.ycombinator.com/item?id=44531811) - [It's Time to Let Go of 'African American'](https://archive.li/jkk4S)
+* [2025-07-11, 13:07:03](https://news.ycombinator.com/item?id=44531707) - [Overtourism in Japan, and How It Hurts Small Businesses](https://craigmod.com/ridgeline/210/)
+* [2025-07-11, 13:06:32](https://news.ycombinator.com/item?id=44531697) - [AI Agent Benchmarks Are Broken](https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken)
+* [2025-07-11, 13:00:41](https://news.ycombinator.com/item?id=44531635) - [Things I learned from 5 years at Vercel](https://leerob.com/vercel)
 * [2025-07-11, 12:52:15](https://news.ycombinator.com/item?id=44531561) - ['Click-to-cancel' rule is blocked](https://apnews.com/article/ftc-click-to-cancel-30db2be07fdcb8aefd0d4835abdb116a)
 * [2025-07-11, 11:56:19](https://news.ycombinator.com/item?id=44531120) - [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
 * [2025-07-11, 11:28:11](https://news.ycombinator.com/item?id=44530922) - [Recovering from AI Addiction](https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/)
