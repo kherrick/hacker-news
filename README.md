@@ -6,7 +6,7 @@
 * [2025-07-11, 00:22:43](https://news.ycombinator.com/item?id=44527190) - [Grok: Searching X for \"From:Elonmusk (Israel or Palestine or Hamas or Gaza)\"](https://simonwillison.net/2025/Jul/11/grok-musk/)
 * [2025-07-10, 23:38:11](https://news.ycombinator.com/item?id=44526912) - [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 * [2025-07-10, 21:50:43](https://news.ycombinator.com/item?id=44526015) - [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
-* [2025-07-10, 19:43:44](https://news.ycombinator.com/item?id=44524707) - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
+* [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://github.com/cactus-compute/cactus)
 * [2025-07-10, 19:10:28](https://news.ycombinator.com/item?id=44524430) - [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
 * [2025-07-10, 17:58:59](https://news.ycombinator.com/item?id=44523722) - [Orwell Diaries 1938-1942](https://orwelldiaries.wordpress.com/page/2/)
 * [2025-07-10, 17:42:54](https://news.ycombinator.com/item?id=44523523) - [Launch HN: Leaping (YC W25) – Self-Improving Voice AI](https://news.ycombinator.com/item?id=44523523)
