@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 06:32:07](https://news.ycombinator.com/item?id=44528966) - [GenAI Processors: Build powerful and flexible Gemini applications](https://developers.googleblog.com/en/genai-processors/)
+* [2025-07-11, 06:27:19](https://news.ycombinator.com/item?id=44528943) - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
 * [2025-07-11, 04:57:59](https://news.ycombinator.com/item?id=44528536) - [SEO Is Dead. Long Live Geo](https://substack.gauravvohra.com/p/search-is-dead-long-live-llms-winning-in-the-era-of-llms-ai-overviews-and-geo)
 * [2025-07-11, 04:36:11](https://news.ycombinator.com/item?id=44528428) - [America's fastest-growing suburbs are about to get expensive](https://www.vox.com/future-perfect/417892/suburbs-sunbelt-housing-affordability-yimby)
 * [2025-07-11, 03:43:23](https://news.ycombinator.com/item?id=44528204) - [Australia is quietly introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
