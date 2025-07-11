@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 15:12:17](https://news.ycombinator.com/item?id=44533055) - [Top DNS domains seen on the Quad9 recursive resolver array each day](https://github.com/Quad9DNS/quad9-domains-top500)
 * [2025-07-11, 15:08:52](https://news.ycombinator.com/item?id=44533004) - [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
 * [2025-07-11, 15:00:36](https://news.ycombinator.com/item?id=44532913) - [I'm Done with Social Media](https://www.carolinecrampton.com/im-done-with-social-media/)
 * [2025-07-11, 14:06:07](https://news.ycombinator.com/item?id=44532306) - [Upgrading an M4 Pro Mac mini's storage for half the price](https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price)
@@ -13,6 +14,7 @@
 * [2025-07-11, 13:07:03](https://news.ycombinator.com/item?id=44531707) - [Overtourism in Japan, and How It Hurts Small Businesses](https://craigmod.com/ridgeline/210/)
 * [2025-07-11, 13:06:32](https://news.ycombinator.com/item?id=44531697) - [AI Agent Benchmarks Are Broken](https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken)
 * [2025-07-11, 13:00:41](https://news.ycombinator.com/item?id=44531635) - [Things I learned from 5 years at Vercel](https://leerob.com/vercel)
+* [2025-07-11, 12:53:27](https://news.ycombinator.com/item?id=44531569) - [Repaste Your MacBook (But Don't)](https://christianselig.com/2025/07/repaste-macbook/)
 * [2025-07-11, 12:52:15](https://news.ycombinator.com/item?id=44531561) - ['Click-to-cancel' rule is blocked](https://apnews.com/article/ftc-click-to-cancel-30db2be07fdcb8aefd0d4835abdb116a)
 * [2025-07-11, 12:34:16](https://news.ycombinator.com/item?id=44531412) - [Silicon Valley, 1991](https://old.reddit.com/r/wallstreetbets/comments/1lwy2nq/silicon_valley_1991/)
 * [2025-07-11, 11:56:19](https://news.ycombinator.com/item?id=44531120) - [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
