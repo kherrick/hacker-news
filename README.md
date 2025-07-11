@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-11, 03:43:23](https://news.ycombinator.com/item?id=44528204) - [Australia is quietly introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
+* [2025-07-11, 03:41:12](https://news.ycombinator.com/item?id=44528193) - [The Lumina Probiotic May Cause Blindness in the Same Way as Methanol](https://substack.com/home/post/p-168042147)
 * [2025-07-11, 01:14:49](https://news.ycombinator.com/item?id=44527484) - [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
-* [2025-07-11, 01:02:10](https://news.ycombinator.com/item?id=44527415) - ['Autofocus' specs promise sharp vision, near or far](https://www.bbc.com/news/articles/cj6r06d7xdjo)
 * [2025-07-10, 23:38:11](https://news.ycombinator.com/item?id=44526912) - [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 * [2025-07-10, 23:28:31](https://news.ycombinator.com/item?id=44526852) - [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
 * [2025-07-10, 21:50:43](https://news.ycombinator.com/item?id=44526015) - [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
@@ -19,7 +20,6 @@
 * [2025-07-10, 12:51:19](https://news.ycombinator.com/item?id=44520438) - [Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs](https://github.com/afnanenayet/diffsitter)
 * [2025-07-10, 12:49:21](https://news.ycombinator.com/item?id=44520419) - [FOKS: Federated Open Key Service](https://foks.pub/)
 * [2025-07-10, 12:35:21](https://news.ycombinator.com/item?id=44520292) - [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
-* [2025-07-10, 09:48:09](https://news.ycombinator.com/item?id=44519175) - [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-10, 07:24:30](https://news.ycombinator.com/item?id=44518269) - [Matt Trout has died](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 * [2025-07-09, 07:05:17](https://news.ycombinator.com/item?id=44507078) - [Series of posts on HTTP status codes](https://evertpot.com/http/)
 * [2025-07-09, 03:51:27](https://news.ycombinator.com/item?id=44506188) - [Apple-1 Computer, handmade by Steve Jobs [video]](https://www.youtube.com/watch?v=XdBKuBhdZwg)
