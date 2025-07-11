@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-11, 15:38:58](https://news.ycombinator.com/item?id=44533403) - [Kimi K2](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
+* [2025-07-11, 15:20:56](https://news.ycombinator.com/item?id=44533172) - [Conspiracy theorists unaware their beliefs are on the fringe](https://news.cornell.edu/stories/2025/06/conspiracy-theorists-unaware-their-beliefs-are-fringe)
 * [2025-07-11, 15:12:17](https://news.ycombinator.com/item?id=44533055) - [Top DNS domains seen on the Quad9 recursive resolver array each day](https://github.com/Quad9DNS/quad9-domains-top500)
 * [2025-07-11, 15:08:52](https://news.ycombinator.com/item?id=44533004) - [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
 * [2025-07-11, 15:00:36](https://news.ycombinator.com/item?id=44532913) - [I'm Done with Social Media](https://www.carolinecrampton.com/im-done-with-social-media/)
@@ -12,7 +14,6 @@
 * [2025-07-11, 11:28:11](https://news.ycombinator.com/item?id=44530922) - [Recovering from AI Addiction](https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/)
 * [2025-07-11, 11:03:59](https://news.ycombinator.com/item?id=44530767) - [Bill Atkinson's Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 * [2025-07-11, 10:36:26](https://news.ycombinator.com/item?id=44530581) - [FP8 is ~100 tflops faster when the kernel name has \"cutlass\" in it](https://twitter.com/cis_female/status/1943069934332055912)
-* [2025-07-11, 10:03:11](https://news.ycombinator.com/item?id=44530375) - [At Amazon's biggest data center, everything is supersized for AI](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [2025-07-11, 06:27:19](https://news.ycombinator.com/item?id=44528943) - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
 * [2025-07-11, 02:40:32](https://news.ycombinator.com/item?id=44527947) - [LLM Inference Handbook](https://bentoml.com/llm/)
@@ -20,7 +21,6 @@
 * [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://github.com/cactus-compute/cactus)
 * [2025-07-10, 16:02:40](https://news.ycombinator.com/item?id=44522505) - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [2025-07-10, 15:25:56](https://news.ycombinator.com/item?id=44522076) - [What is Realtalk’s relationship to AI? (2024)](https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI)
-* [2025-07-10, 15:01:42](https://news.ycombinator.com/item?id=44521871) - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
 * [2025-07-10, 14:23:46](https://news.ycombinator.com/item?id=44521457) - [Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
 * [2025-07-10, 14:02:04](https://news.ycombinator.com/item?id=44521224) - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
 * [2025-07-10, 12:49:21](https://news.ycombinator.com/item?id=44520419) - [FOKS: Federated Open Key Service](https://foks.pub/)

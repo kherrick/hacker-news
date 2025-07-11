@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 15:38:58](https://news.ycombinator.com/item?id=44533403) - [Kimi K2](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
+* [2025-07-11, 15:20:56](https://news.ycombinator.com/item?id=44533172) - [Conspiracy theorists unaware their beliefs are on the fringe](https://news.cornell.edu/stories/2025/06/conspiracy-theorists-unaware-their-beliefs-are-fringe)
 * [2025-07-11, 15:12:17](https://news.ycombinator.com/item?id=44533055) - [Top DNS domains seen on the Quad9 recursive resolver array each day](https://github.com/Quad9DNS/quad9-domains-top500)
 * [2025-07-11, 15:08:52](https://news.ycombinator.com/item?id=44533004) - [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
 * [2025-07-11, 15:00:36](https://news.ycombinator.com/item?id=44532913) - [I'm Done with Social Media](https://www.carolinecrampton.com/im-done-with-social-media/)
