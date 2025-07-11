@@ -2,7 +2,6 @@
 
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [2025-07-11, 06:27:19](https://news.ycombinator.com/item?id=44528943) - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
-* [2025-07-11, 03:43:23](https://news.ycombinator.com/item?id=44528204) - [Australia is introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
 * [2025-07-11, 02:40:32](https://news.ycombinator.com/item?id=44527947) - [LLM Inference Handbook](https://bentoml.com/llm/)
 * [2025-07-11, 00:22:43](https://news.ycombinator.com/item?id=44527190) - [Grok: Searching X for \"From:Elonmusk (Israel or Palestine or Hamas or Gaza)\"](https://simonwillison.net/2025/Jul/11/grok-musk/)
 * [2025-07-10, 23:38:11](https://news.ycombinator.com/item?id=44526912) - [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
@@ -22,6 +21,7 @@
 * [2025-07-10, 12:49:21](https://news.ycombinator.com/item?id=44520419) - [FOKS: Federated Open Key Service](https://foks.pub/)
 * [2025-07-10, 07:24:30](https://news.ycombinator.com/item?id=44518269) - [Matt Trout has died](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 * [2025-07-10, 01:10:08](https://news.ycombinator.com/item?id=44516288) - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
+* [2025-07-09, 11:17:26](https://news.ycombinator.com/item?id=44508601) - [Btrfs Allocator Hints](https://lwn.net/ml/all/cover.1747070147.git.anand.jain@oracle.com/)
 * [2025-07-09, 07:05:17](https://news.ycombinator.com/item?id=44507078) - [Series of posts on HTTP status codes (2018)](https://evertpot.com/http/)
 * [2025-07-09, 03:51:27](https://news.ycombinator.com/item?id=44506188) - [Apple-1 Computer, handmade by Jobs and Woz [video]](https://www.youtube.com/watch?v=XdBKuBhdZwg)
 * [2025-07-08, 02:55:04](https://news.ycombinator.com/item?id=44496537) - [Analyzing database trends through 1.8M Hacker News headlines](https://camelai.com/blog/hn-database-hype/)

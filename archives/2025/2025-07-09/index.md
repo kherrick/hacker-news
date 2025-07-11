@@ -44,6 +44,7 @@
 * [2025-07-09, 11:52:29](https://news.ycombinator.com/item?id=44508866) - [Using MPC for Anonymous and Private DNA Analysis](https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/)
 * [2025-07-09, 11:49:21](https://news.ycombinator.com/item?id=44508837) - [Million Times Million](https://susam.net/million-times-million.html)
 * [2025-07-09, 11:29:46](https://news.ycombinator.com/item?id=44508699) - [Why I don't ride the AI Hype Train](https://mertbulan.com/2025/06/26/why-i-dont-ride-the-ai-hype-train/)
+* [2025-07-09, 11:17:26](https://news.ycombinator.com/item?id=44508601) - [Btrfs Allocator Hints](https://lwn.net/ml/all/cover.1747070147.git.anand.jain@oracle.com/)
 * [2025-07-09, 09:42:17](https://news.ycombinator.com/item?id=44507971) - [IKEA ditches Zigbee for Thread going all in on Matter smart homes](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
 * [2025-07-09, 09:29:16](https://news.ycombinator.com/item?id=44507919) - [From AI to Agents to Agencies](https://blog.nishantsoni.com/p/from-ai-to-agents-to-agencies-the)
 * [2025-07-09, 09:18:06](https://news.ycombinator.com/item?id=44507854) - [Astro is a return to the fundamentals of the web](https://websmith.studio/blog/astro-is-a-developers-dream/)
