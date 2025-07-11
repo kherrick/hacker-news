@@ -12,6 +12,7 @@
 * [2025-07-09, 21:54:53](https://news.ycombinator.com/item?id=44515101) - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
 * [2025-07-09, 21:53:19](https://news.ycombinator.com/item?id=44515087) - [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
 * [2025-07-09, 21:44:22](https://news.ycombinator.com/item?id=44515023) - [White Noise – secure and private messenger](https://www.whitenoise.chat/)
+* [2025-07-09, 21:34:36](https://news.ycombinator.com/item?id=44514947) - [Allen G. Hassenfeld, former CEO of Hasbro, dies at 76](https://abcnews.go.com/Business/wireStory/allen-hassenfeld-former-ceo-hasbro-family-founded-iconic-123624319)
 * [2025-07-09, 21:34:30](https://news.ycombinator.com/item?id=44514946) - [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
 * [2025-07-09, 21:24:28](https://news.ycombinator.com/item?id=44514877) - [Memory-Level Parallelism: Apple M2 vs. Apple M4](https://lemire.me/blog/2025/07/09/memory-level-parallelism-apple-m2-vs-apple-m4/)
 * [2025-07-09, 21:06:38](https://news.ycombinator.com/item?id=44514753) - [Show HN: MCP server for searching and downloading documents from Anna's Archive](https://github.com/iosifache/annas-mcp)
