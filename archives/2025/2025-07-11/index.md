@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 10:36:26](https://news.ycombinator.com/item?id=44530581) - [FP8 is ~100 tflops faster when the kernel name has \"cutlass\" in it](https://twitter.com/cis_female/status/1943069934332055912)
 * [2025-07-11, 08:51:17](https://news.ycombinator.com/item?id=44529812) - [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/)
 * [2025-07-11, 08:42:45](https://news.ycombinator.com/item?id=44529747) - [Slack's 57MB 404 page](https://a.slack.com/archives/b/c)
 * [2025-07-11, 07:56:04](https://news.ycombinator.com/item?id=44529456) - [Why Is Fertility So Low in High Income Countries? (NBER)](https://www.nber.org/papers/w33989)
@@ -12,6 +13,7 @@
 * [2025-07-11, 06:27:19](https://news.ycombinator.com/item?id=44528943) - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
 * [2025-07-11, 06:08:30](https://news.ycombinator.com/item?id=44528851) - [An almost catastrophic OpenZFS bug and the humans that made it](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
 * [2025-07-11, 04:57:59](https://news.ycombinator.com/item?id=44528536) - [SEO Is Dead. Long Live Geo](https://substack.gauravvohra.com/p/search-is-dead-long-live-llms-winning-in-the-era-of-llms-ai-overviews-and-geo)
+* [2025-07-11, 04:51:51](https://news.ycombinator.com/item?id=44528509) - [The day someone created 184 billion Bitcoin (2020)](https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator)
 * [2025-07-11, 04:36:11](https://news.ycombinator.com/item?id=44528428) - [America's fastest-growing suburbs are about to get expensive](https://www.vox.com/future-perfect/417892/suburbs-sunbelt-housing-affordability-yimby)
 * [2025-07-11, 03:43:23](https://news.ycombinator.com/item?id=44528204) - [Australia is quietly introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
 * [2025-07-11, 03:41:12](https://news.ycombinator.com/item?id=44528193) - [The Lumina Probiotic May Cause Blindness in the Same Way as Methanol](https://substack.com/home/post/p-168042147)
