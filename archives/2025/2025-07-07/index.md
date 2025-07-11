@@ -32,6 +32,7 @@
 * [2025-07-07, 16:24:19](https://news.ycombinator.com/item?id=44491938) - [Show HN: I Got Tired of Calculator Sites, So I Built My Own](https://news.ycombinator.com/item?id=44491938)
 * [2025-07-07, 16:16:49](https://news.ycombinator.com/item?id=44491860) - [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
 * [2025-07-07, 16:15:52](https://news.ycombinator.com/item?id=44491855) - [Show HN: Unlearning Comparator, a visual tool to compare machine unlearning](https://gnueaj.github.io/Machine-Unlearning-Comparator/)
+* [2025-07-07, 16:01:13](https://news.ycombinator.com/item?id=44491709) - [Show HN: Interactive pinout for the Raspberry Pi Pico 2](https://pico2.pinout.xyz)
 * [2025-07-07, 16:00:05](https://news.ycombinator.com/item?id=44491697) - [The Harvey Edwards Archive](https://www.harveyedwards-archive.com)
 * [2025-07-07, 15:44:51](https://news.ycombinator.com/item?id=44491545) - [Evaluating the Effectiveness of Memory Safety Sanitizers](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a088/21TfesaEHTy)
 * [2025-07-07, 15:37:28](https://news.ycombinator.com/item?id=44491460) - [tinymcp: Let LLMs control embedded devices via the Model Context Protocol](https://github.com/golioth/tinymcp)
