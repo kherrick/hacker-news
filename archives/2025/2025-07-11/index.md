@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 17:47:36](https://news.ycombinator.com/item?id=44535078) - [Show HN: RULER – Easily apply RL to any agent](https://openpipe.ai/blog/ruler)
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-11, 16:28:05](https://news.ycombinator.com/item?id=44534104) - [U.S. abandons hunt for signal of cosmic inflation](https://www.science.org/content/article/u-s-abandons-hunt-signal-cosmic-inflation)
 * [2025-07-11, 16:19:13](https://news.ycombinator.com/item?id=44533982) - [Pa. House passes 'click-to-cancel' subscription bills](https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html)
