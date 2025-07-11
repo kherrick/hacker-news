@@ -35,6 +35,7 @@
 * [2025-07-07, 15:44:51](https://news.ycombinator.com/item?id=44491545) - [Evaluating the Effectiveness of Memory Safety Sanitizers](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a088/21TfesaEHTy)
 * [2025-07-07, 15:37:28](https://news.ycombinator.com/item?id=44491460) - [tinymcp: Let LLMs control embedded devices via the Model Context Protocol](https://github.com/golioth/tinymcp)
 * [2025-07-07, 15:23:57](https://news.ycombinator.com/item?id=44491333) - [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
+* [2025-07-07, 15:12:47](https://news.ycombinator.com/item?id=44491226) - [Foundations of Search: A Perspective from Computer Science (2012) [pdf]](https://staffwww.dcs.shef.ac.uk/people/J.Marshall/publications/SFR09_16%20Marshall%20&%20Neumann_PP.pdf)
 * [2025-07-07, 14:58:09](https://news.ycombinator.com/item?id=44491071) - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
 * [2025-07-07, 14:45:15](https://news.ycombinator.com/item?id=44490911) - [Dyson, techno-centric design and social consumption](https://2earth.github.io/website/20250707.html)
 * [2025-07-07, 14:44:28](https://news.ycombinator.com/item?id=44490900) - [Show HN: Integrated System for Enhancing VIC Output](https://github.com/Bloodmosher/ISEVIC)
