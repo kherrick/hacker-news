@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 16:28:05](https://news.ycombinator.com/item?id=44534104) - [U.S. abandons hunt for signal of cosmic inflation](https://www.science.org/content/article/u-s-abandons-hunt-signal-cosmic-inflation)
+* [2025-07-11, 16:19:13](https://news.ycombinator.com/item?id=44533982) - [Pa. House passes 'click-to-cancel' subscription bills](https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html)
+* [2025-07-11, 16:09:04](https://news.ycombinator.com/item?id=44533843) - [In a First, Solar Was Europe's Biggest Source of Power Last Month](https://e360.yale.edu/digest/solar-biggest-power-source-europe-june-2025)
+* [2025-07-11, 15:43:20](https://news.ycombinator.com/item?id=44533464) - [Astronomers race to study interstellar interloper](https://www.science.org/content/article/astronomers-race-study-interstellar-interloper)
 * [2025-07-11, 15:38:58](https://news.ycombinator.com/item?id=44533403) - [Kimi K2](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
+* [2025-07-11, 15:33:17](https://news.ycombinator.com/item?id=44533337) - [Turmeric is the culprit in a global lead poisoning mystery](https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh)
 * [2025-07-11, 15:20:56](https://news.ycombinator.com/item?id=44533172) - [Conspiracy theorists unaware their beliefs are on the fringe](https://news.cornell.edu/stories/2025/06/conspiracy-theorists-unaware-their-beliefs-are-fringe)
 * [2025-07-11, 15:12:17](https://news.ycombinator.com/item?id=44533055) - [Top DNS domains seen on the Quad9 recursive resolver array each day](https://github.com/Quad9DNS/quad9-domains-top500)
 * [2025-07-11, 15:08:52](https://news.ycombinator.com/item?id=44533004) - [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
