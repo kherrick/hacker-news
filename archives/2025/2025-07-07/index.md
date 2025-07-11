@@ -27,6 +27,7 @@
 * [2025-07-07, 17:01:56](https://news.ycombinator.com/item?id=44492345) - [Automatically Packaging a Haskell Library as a Swift Binary XCFramework](https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html)
 * [2025-07-07, 16:56:48](https://news.ycombinator.com/item?id=44492290) - [Generic Interfaces](https://go.dev/blog/generic-interfaces)
 * [2025-07-07, 16:47:34](https://news.ycombinator.com/item?id=44492175) - [Introduction to Indian English](https://www.oed.com/discover/introduction-to-indian-english/)
+* [2025-07-07, 16:30:18](https://news.ycombinator.com/item?id=44492014) - [Batch Mode in the Gemini API: Process More for Less](https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/)
 * [2025-07-07, 16:24:19](https://news.ycombinator.com/item?id=44491938) - [Show HN: I Got Tired of Calculator Sites, So I Built My Own](https://news.ycombinator.com/item?id=44491938)
 * [2025-07-07, 16:16:49](https://news.ycombinator.com/item?id=44491860) - [SUS Lang: The SUS Hardware Description Language](https://sus-lang.org/)
 * [2025-07-07, 16:15:52](https://news.ycombinator.com/item?id=44491855) - [Show HN: Unlearning Comparator, a visual tool to compare machine unlearning](https://gnueaj.github.io/Machine-Unlearning-Comparator/)

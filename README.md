@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-10, 23:38:11](https://news.ycombinator.com/item?id=44526912) - [Not So Fast: AI Coding Tools Can Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
-* [2025-07-10, 22:09:43](https://news.ycombinator.com/item?id=44526220) - [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)
+* [2025-07-10, 23:28:31](https://news.ycombinator.com/item?id=44526852) - [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
 * [2025-07-10, 20:51:45](https://news.ycombinator.com/item?id=44525468) - [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
 * [2025-07-10, 19:43:44](https://news.ycombinator.com/item?id=44524707) - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
 * [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
@@ -26,10 +26,10 @@
 * [2025-07-08, 02:55:04](https://news.ycombinator.com/item?id=44496537) - [Analyzing database trends through 1.8M Hacker News headlines](https://camelai.com/blog/hn-database-hype/)
 * [2025-07-07, 21:24:53](https://news.ycombinator.com/item?id=44494813) - [Regarding Prollyferation: Followup to \"People Keep Inventing Prolly Trees\"](https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/)
 * [2025-07-07, 18:13:20](https://news.ycombinator.com/item?id=44493146) - [Yamlfmt: An extensible command line tool or library to format YAML files](https://github.com/google/yamlfmt)
+* [2025-07-07, 16:30:18](https://news.ycombinator.com/item?id=44492014) - [Batch Mode in the Gemini API: Process More for Less](https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/)
 * [2025-07-07, 14:05:06](https://news.ycombinator.com/item?id=44490510) - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale)
 * [2025-07-07, 13:43:22](https://news.ycombinator.com/item?id=44490308) - [The ChompSaw: A Benchtop Power Tool That's Safe for Kids to Use](https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use)
 * [2025-07-07, 10:29:56](https://news.ycombinator.com/item?id=44488731) - [Radiocarbon dating reveals Rapa Nui not as isolated as previously thought](https://phys.org/news/2025-06-radiocarbon-dating-reveals-rapa-nui.html)
-* [2025-07-07, 06:06:46](https://news.ycombinator.com/item?id=44487221) - [Show HN: CXXStateTree – A modern C++ library for hierarchical state machines](https://github.com/ZigRazor/CXXStateTree)
 
 ## [Archives](archives/index.md)
 
