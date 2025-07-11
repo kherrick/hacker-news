@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-07-11, 18:41:14",
-      "https://news.ycombinator.com/item?id=44535604"
-    ],
-    [
-      "Google nerfs Pixel 6a batteries following fire hazard",
-      "https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 17:47:36",
       "https://news.ycombinator.com/item?id=44535078"
     ],
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2025-07-11, 15:08:52",
-      "https://news.ycombinator.com/item?id=44533004"
-    ],
-    [
-      "Show HN: Vibe Kanban – Kanban board to manage your AI coding agents",
-      "https://github.com/BloopAI/vibe-kanban"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 14:06:07",
       "https://news.ycombinator.com/item?id=44532306"
     ],
@@ -207,6 +187,16 @@
     [
       "Bill Atkinson's psychedelic user interface",
       "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill"
+    ]
+  ],
+  [
+    [
+      "2025-07-11, 06:49:12",
+      "https://news.ycombinator.com/item?id=44529061"
+    ],
+    [
+      "Apple vs the Law",
+      "https://formularsumo.co.uk/blog/2025/apple-vs-the-law/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-07-09, 11:49:21",
+      "https://news.ycombinator.com/item?id=44508837"
+    ],
+    [
+      "Million Times Million",
+      "https://susam.net/million-times-million.html"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 21:33:50",
       "https://news.ycombinator.com/item?id=44504250"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-07-07, 14:05:06",
-      "https://news.ycombinator.com/item?id=44490510"
+      "2025-07-08, 16:05:03",
+      "https://news.ycombinator.com/item?id=44501287"
     ],
     [
-      "Postgres LISTEN/NOTIFY does not scale",
-      "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"
+      "Dict Unpacking in Python",
+      "https://github.com/asottile/dict-unpacking-at-home"
     ]
   ],
   [
