@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-11, 08:51:17](https://news.ycombinator.com/item?id=44529812) - [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/)
-* [2025-07-11, 08:42:45](https://news.ycombinator.com/item?id=44529747) - [Slack's 57MB 404 page](https://a.slack.com/archives/b/c)
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [2025-07-11, 06:27:19](https://news.ycombinator.com/item?id=44528943) - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
 * [2025-07-11, 06:08:30](https://news.ycombinator.com/item?id=44528851) - [An almost catastrophic OpenZFS bug and the humans that made it](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
@@ -19,6 +18,7 @@
 * [2025-07-10, 15:01:42](https://news.ycombinator.com/item?id=44521871) - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
 * [2025-07-10, 14:23:46](https://news.ycombinator.com/item?id=44521457) - [Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
 * [2025-07-10, 14:02:04](https://news.ycombinator.com/item?id=44521224) - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
+* [2025-07-10, 12:51:19](https://news.ycombinator.com/item?id=44520438) - [Diffsitter – A Tree-sitter based AST difftool to get meaningful semantic diffs](https://github.com/afnanenayet/diffsitter)
 * [2025-07-10, 12:49:21](https://news.ycombinator.com/item?id=44520419) - [FOKS: Federated Open Key Service](https://foks.pub/)
 * [2025-07-10, 01:10:08](https://news.ycombinator.com/item?id=44516288) - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
 * [2025-07-09, 11:17:26](https://news.ycombinator.com/item?id=44508601) - [Btrfs Allocator Hints](https://lwn.net/ml/all/cover.1747070147.git.anand.jain@oracle.com/)
