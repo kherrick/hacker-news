@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-11, 16:28:05](https://news.ycombinator.com/item?id=44534104) - [U.S. abandons hunt for signal of cosmic inflation](https://www.science.org/content/article/u-s-abandons-hunt-signal-cosmic-inflation)
 * [2025-07-11, 16:19:13](https://news.ycombinator.com/item?id=44533982) - [Pa. House passes 'click-to-cancel' subscription bills](https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html)
 * [2025-07-11, 16:09:04](https://news.ycombinator.com/item?id=44533843) - [In a First, Solar Was Europe's Biggest Source of Power Last Month](https://e360.yale.edu/digest/solar-biggest-power-source-europe-june-2025)
 * [2025-07-11, 15:43:20](https://news.ycombinator.com/item?id=44533464) - [Astronomers race to study interstellar interloper](https://www.science.org/content/article/astronomers-race-study-interstellar-interloper)
@@ -23,6 +22,7 @@
 * [2025-07-11, 04:51:51](https://news.ycombinator.com/item?id=44528509) - [The day someone created 184 billion Bitcoin (2020)](https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator)
 * [2025-07-11, 02:40:32](https://news.ycombinator.com/item?id=44527947) - [LLM Inference Handbook](https://bentoml.com/llm/)
 * [2025-07-10, 21:50:43](https://news.ycombinator.com/item?id=44526015) - [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
+* [2025-07-10, 15:25:56](https://news.ycombinator.com/item?id=44522076) - [What is Realtalk’s relationship to AI? (2024)](https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI)
 * [2025-07-10, 14:23:46](https://news.ycombinator.com/item?id=44521457) - [Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
 * [2025-07-10, 14:02:08](https://news.ycombinator.com/item?id=44521225) - [Andrew Ng: Building Faster with AI [video]](https://www.youtube.com/watch?v=RNJCfif1dPY)
 * [2025-07-09, 11:17:26](https://news.ycombinator.com/item?id=44508601) - [Btrfs Allocator Hints](https://lwn.net/ml/all/cover.1747070147.git.anand.jain@oracle.com/)
