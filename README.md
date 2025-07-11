@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-11, 07:56:04](https://news.ycombinator.com/item?id=44529456) - [Why Is Fertility So Low in High Income Countries? (NBER)](https://www.nber.org/papers/w33989)
+* [2025-07-11, 08:51:17](https://news.ycombinator.com/item?id=44529812) - [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/)
+* [2025-07-11, 08:42:45](https://news.ycombinator.com/item?id=44529747) - [Slack's 57MB 404 page](https://a.slack.com/archives/b/c)
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [2025-07-11, 06:27:19](https://news.ycombinator.com/item?id=44528943) - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
 * [2025-07-11, 06:08:30](https://news.ycombinator.com/item?id=44528851) - [An almost catastrophic OpenZFS bug and the humans that made it](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
@@ -27,7 +28,6 @@
 * [2025-07-07, 21:29:31](https://news.ycombinator.com/item?id=44494852) - [The Wet History of Media in the Bathroom](https://thereader.mitpress.mit.edu/the-wet-history-of-media-in-the-bathroom/)
 * [2025-07-07, 16:30:18](https://news.ycombinator.com/item?id=44492014) - [Batch Mode in the Gemini API: Process More for Less](https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/)
 * [2025-07-07, 16:01:13](https://news.ycombinator.com/item?id=44491709) - [Show HN: Interactive pinout for the Raspberry Pi Pico 2](https://pico2.pinout.xyz)
-* [2025-07-07, 15:12:47](https://news.ycombinator.com/item?id=44491226) - [Foundations of Search: A Perspective from Computer Science (2012) [pdf]](https://staffwww.dcs.shef.ac.uk/people/J.Marshall/publications/SFR09_16%20Marshall%20&%20Neumann_PP.pdf)
 * [2025-07-07, 14:05:06](https://news.ycombinator.com/item?id=44490510) - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale)
 * [2025-07-07, 13:43:22](https://news.ycombinator.com/item?id=44490308) - [The ChompSaw: A Benchtop Power Tool That's Safe for Kids to Use](https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use)
 
