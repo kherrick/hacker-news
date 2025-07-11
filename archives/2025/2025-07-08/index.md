@@ -26,6 +26,7 @@
 * [2025-07-08, 16:37:23](https://news.ycombinator.com/item?id=44501655) - [Junior Roles Aren't Going Away](https://iamcharliegraham.substack.com/p/junior-roles-arent-going-away)
 * [2025-07-08, 16:13:40](https://news.ycombinator.com/item?id=44501413) - [Smollm3: Smol, multilingual, long-context reasoner LLM](https://huggingface.co/blog/smollm3)
 * [2025-07-08, 16:11:20](https://news.ycombinator.com/item?id=44501379) - [Google can now read your WhatsApp messages](https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/)
+* [2025-07-08, 16:05:03](https://news.ycombinator.com/item?id=44501287) - [Dict Unpacking in Python](https://github.com/asottile/dict-unpacking-at-home)
 * [2025-07-08, 15:42:34](https://news.ycombinator.com/item?id=44501076) - [Show HN: Sumble – knowledge graph for GTM data – query tech stack, key projects](https://sumble.com)
 * [2025-07-08, 15:37:56](https://news.ycombinator.com/item?id=44501034) - [Zorin OS](https://zorin.com/os/)
 * [2025-07-08, 15:24:57](https://news.ycombinator.com/item?id=44500897) - [Cloudflare: We Will Get Google to Provide a Way to Block AI Overviews](https://www.seroundtable.com/cloudflare-block-google-ai-overviews-39718.html)
