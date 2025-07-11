@@ -10,6 +10,7 @@
 * [2025-07-07, 21:46:47](https://news.ycombinator.com/item?id=44494997) - [Koala: A benchmark suite for performance-oriented shell-optimization research](https://github.com/kbensh/koala)
 * [2025-07-07, 21:39:17](https://news.ycombinator.com/item?id=44494941) - [China is increasingly a home to major brands](https://musgrave.substack.com/p/oh-no-i-betrayed-america)
 * [2025-07-07, 21:37:28](https://news.ycombinator.com/item?id=44494923) - [Mini robots detect and fix water pipe leaks without digging](https://www.foxnews.com/tech/mini-robots-detect-fix-water-pipe-leaks-without-digging)
+* [2025-07-07, 21:29:31](https://news.ycombinator.com/item?id=44494852) - [The Wet History of Media in the Bathroom](https://thereader.mitpress.mit.edu/the-wet-history-of-media-in-the-bathroom/)
 * [2025-07-07, 21:24:53](https://news.ycombinator.com/item?id=44494813) - [Regarding Prollyferation: Followup to \"People Keep Inventing Prolly Trees\"](https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/)
 * [2025-07-07, 20:53:01](https://news.ycombinator.com/item?id=44494566) - [Researchers create 3D interactive digital room from simple video](https://news.cornell.edu/stories/2025/06/researchers-create-3d-interactive-digital-room-simple-video)
 * [2025-07-07, 20:36:54](https://news.ycombinator.com/item?id=44494430) - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
