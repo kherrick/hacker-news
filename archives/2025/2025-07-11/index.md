@@ -10,6 +10,7 @@
 * [2025-07-11, 13:06:32](https://news.ycombinator.com/item?id=44531697) - [AI Agent Benchmarks Are Broken](https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken)
 * [2025-07-11, 13:00:41](https://news.ycombinator.com/item?id=44531635) - [Things I learned from 5 years at Vercel](https://leerob.com/vercel)
 * [2025-07-11, 12:52:15](https://news.ycombinator.com/item?id=44531561) - ['Click-to-cancel' rule is blocked](https://apnews.com/article/ftc-click-to-cancel-30db2be07fdcb8aefd0d4835abdb116a)
+* [2025-07-11, 12:34:16](https://news.ycombinator.com/item?id=44531412) - [Silicon Valley, 1991](https://old.reddit.com/r/wallstreetbets/comments/1lwy2nq/silicon_valley_1991/)
 * [2025-07-11, 11:56:19](https://news.ycombinator.com/item?id=44531120) - [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
 * [2025-07-11, 11:28:11](https://news.ycombinator.com/item?id=44530922) - [Recovering from AI Addiction](https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/)
 * [2025-07-11, 11:10:25](https://news.ycombinator.com/item?id=44530807) - [Using Sound Waves to Put Out Fire: Story of Two George Mason University Students](https://wowparrot.com/using-sound-waves-to-put-out-fire/)
