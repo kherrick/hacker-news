@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 21:01:21](https://news.ycombinator.com/item?id=44536748) - [Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV)](https://careers.activeloop.ai/)
+* [2025-07-11, 20:38:46](https://news.ycombinator.com/item?id=44536572) - [Dutch Childcare Benefits Scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal)
 * [2025-07-11, 19:55:39](https://news.ycombinator.com/item?id=44536248) - [I'm more proud of these 128 kilobytes than anything I've built since](https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18)
 * [2025-07-11, 19:18:45](https://news.ycombinator.com/item?id=44535934) - [Belkin shows tech firms getting too comfortable with bricking customers' stuff](https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/)
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
