@@ -79,3 +79,4 @@
 * [2025-07-09, 00:44:51](https://news.ycombinator.com/item?id=44505308) - [Bulgaria to join euro area on 1 January 2026](https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html)
 * [2025-07-09, 00:14:19](https://news.ycombinator.com/item?id=44505171) - [Frame of preference A history of Mac settings, 1984–2004](https://aresluna.org/frame-of-preference/)
 * [2025-07-09, 00:13:21](https://news.ycombinator.com/item?id=44505165) - [Choosing a Database Schema for Polymorphic Data (2024)](https://www.dolthub.com/blog/2024-06-25-polymorphic-associations/)
+* [2025-07-09, 00:03:29](https://news.ycombinator.com/item?id=44505121) - [Fundamentals of Garbage Collection](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
