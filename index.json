@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-07-12, 02:05:48",
-      "https://news.ycombinator.com/item?id=44538693"
-    ],
-    [
-      "Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]",
-      "https://eprint.iacr.org/2025/1237.pdf"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 22:57:25",
       "https://news.ycombinator.com/item?id=44537631"
     ],
@@ -237,6 +227,16 @@
     [
       "Jank is C++",
       "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 20:45:19",
+      "https://news.ycombinator.com/item?id=44514559"
+    ],
+    [
+      "QRS: Epsilon Wrangling",
+      "https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling"
     ]
   ],
   [
