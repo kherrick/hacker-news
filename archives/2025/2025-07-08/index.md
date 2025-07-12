@@ -31,6 +31,7 @@
 * [2025-07-08, 15:37:56](https://news.ycombinator.com/item?id=44501034) - [Zorin OS](https://zorin.com/os/)
 * [2025-07-08, 15:24:57](https://news.ycombinator.com/item?id=44500897) - [Cloudflare: We Will Get Google to Provide a Way to Block AI Overviews](https://www.seroundtable.com/cloudflare-block-google-ai-overviews-39718.html)
 * [2025-07-08, 15:18:49](https://news.ycombinator.com/item?id=44500840) - [Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing](https://www.jukeboxhq.com/)
+* [2025-07-08, 14:32:36](https://news.ycombinator.com/item?id=44500362) - [Show HN: I built a toy music controller for my 5yo with a coding agent](https://github.com/jeffmccune/sonoserve)
 * [2025-07-08, 14:29:46](https://news.ycombinator.com/item?id=44500340) - [Show HN: Trying to eat better? I built a nutrional assistant](https://chat.eko-bazaar.com/)
 * [2025-07-08, 14:27:23](https://news.ycombinator.com/item?id=44500315) - [TSA to end shoes-off policy for airport security screening](https://abcnews.go.com/US/tsa-end-shoes-off-policy-airport-security-screening/story?id=123556295)
 * [2025-07-08, 14:01:42](https://news.ycombinator.com/item?id=44500066) - [Show HN: I built a tool to solve window management once and for all](https://aboveaverageuser.com/smartswitcher)

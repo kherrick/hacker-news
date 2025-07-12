@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-12, 05:01:19](https://news.ycombinator.com/item?id=44539433) - [Psilocybin Shows Promise as Anti-Aging Therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/)
-* [2025-07-12, 04:39:29](https://news.ycombinator.com/item?id=44539347) - [Threads is nearing X's daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
 * [2025-07-12, 04:05:01](https://news.ycombinator.com/item?id=44539204) - [America's largest power grid is struggling to meet demand from AI](https://www.reuters.com/sustainability/boards-policy-regulation/americas-largest-power-grid-is-struggling-meet-demand-ai-2025-07-09/)
 * [2025-07-12, 02:05:48](https://news.ycombinator.com/item?id=44538693) - [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
 * [2025-07-12, 01:07:33](https://news.ycombinator.com/item?id=44538413) - [OpenAI delays launch of open weights model](https://twitter.com/sama/status/1943837550369812814)
@@ -15,9 +14,9 @@
 * [2025-07-11, 20:23:18](https://news.ycombinator.com/item?id=44536459) - [Preliminary report into Air India crash released](https://www.bbc.co.uk/news/live/cx20p2x9093t)
 * [2025-07-11, 19:24:24](https://news.ycombinator.com/item?id=44535977) - [Introduction to Digital Filters](https://ccrma.stanford.edu/~jos/filters/)
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
+* [2025-07-11, 17:47:36](https://news.ycombinator.com/item?id=44535078) - [Show HN: RULER – Easily apply RL to any agent](https://openpipe.ai/blog/ruler)
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-11, 15:43:20](https://news.ycombinator.com/item?id=44533464) - [Astronomers race to study interstellar interloper](https://www.science.org/content/article/astronomers-race-study-interstellar-interloper)
-* [2025-07-11, 15:33:17](https://news.ycombinator.com/item?id=44533337) - [Lead pigment in turmeric is the culprit in a global poisoning mystery (2024)](https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh)
 * [2025-07-11, 14:06:07](https://news.ycombinator.com/item?id=44532306) - [Upgrading an M4 Pro Mac mini's storage for half the price](https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price)
 * [2025-07-11, 12:53:27](https://news.ycombinator.com/item?id=44531569) - [Repaste Your MacBook](https://christianselig.com/2025/07/repaste-macbook/)
 * [2025-07-11, 11:56:19](https://news.ycombinator.com/item?id=44531120) - [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
@@ -28,6 +27,7 @@
 * [2025-07-09, 00:03:29](https://news.ycombinator.com/item?id=44505121) - [Fundamentals of Garbage Collection](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
 * [2025-07-08, 21:33:50](https://news.ycombinator.com/item?id=44504250) - [Monorail – Turn CSS animations into interactive SVG graphs](https://muffinman.io/monorail/)
 * [2025-07-08, 16:05:03](https://news.ycombinator.com/item?id=44501287) - [Dict Unpacking in Python](https://github.com/asottile/dict-unpacking-at-home)
+* [2025-07-08, 14:32:36](https://news.ycombinator.com/item?id=44500362) - [Show HN: I built a toy music controller for my 5yo with a coding agent](https://github.com/jeffmccune/sonoserve)
 * [2025-07-08, 07:49:39](https://news.ycombinator.com/item?id=44497981) - [Reverse Proxy Deep Dive](https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5)
 * [2025-07-08, 07:14:02](https://news.ycombinator.com/item?id=44497808) - [Leveraging Elixir's hot code loading capabilities to modularize a monolithic app](https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/)
 
