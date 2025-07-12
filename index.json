@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-12, 17:43:53",
+      "https://news.ycombinator.com/item?id=44543660"
+    ],
+    [
+      "What Manifest V3 Means for Brave Shields and the Use of Extensions in Brave",
+      "https://brave.com/blog/brave-shields-manifest-v3/"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 17:36:15",
       "https://news.ycombinator.com/item?id=44543590"
     ],
     [
       "Grok 4 Heavy Protects it's System prompt",
       "https://simonwillison.net/2025/Jul/12/grok-4-heavy/"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 17:26:24",
+      "https://news.ycombinator.com/item?id=44543508"
+    ],
+    [
+      "Kimi k2 largest open source SOTA model?",
+      "https://github.com/MoonshotAI/Kimi-K2"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions",
       "https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 16:26:30",
-      "https://news.ycombinator.com/item?id=44543113"
-    ],
-    [
-      "XAI seeks up to $200B valuation in next fundraising",
-      "https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-07-09, 14:50:30",
-      "https://news.ycombinator.com/item?id=44510717"
+      "2025-07-09, 09:59:48",
+      "https://news.ycombinator.com/item?id=44508068"
     ],
     [
-      "Only on Nantucket: The Curious Case of the \"Stolen\" Mercedes",
-      "https://nantucketcurrent.com/news/only-on-nantucket-the-curious-case-of-the"
+      "Context Engineering Guide",
+      "https://nlp.elvissaravia.com/p/context-engineering-guide"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Making a Speedrun Timer in D",
       "https://bradley.chatha.dev/blog/linux-speedrun-timer-dlang/post/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 16:05:03",
-      "https://news.ycombinator.com/item?id=44501287"
-    ],
-    [
-      "Dict Unpacking in Python",
-      "https://github.com/asottile/dict-unpacking-at-home"
     ]
   ],
   [
