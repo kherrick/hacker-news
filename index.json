@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-12, 19:06:09",
+      "https://news.ycombinator.com/item?id=44544266"
+    ],
+    [
+      "Bypassing Google's big anti-adblock update",
+      "https://0x44.xyz/blog/web-request-blocking/"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 18:21:33",
       "https://news.ycombinator.com/item?id=44543913"
     ],
@@ -37,6 +47,16 @@
     [
       "Arizona resident dies from the plague less than 24 hours after showing symptoms",
       "https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 16:45:45",
+      "https://news.ycombinator.com/item?id=44543240"
+    ],
+    [
+      "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
+      "https://inventwithpython.com/blog/lost-av-chapter.html"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-07-10, 14:02:08",
-      "https://news.ycombinator.com/item?id=44521225"
-    ],
-    [
-      "Andrew Ng: Building Faster with AI [video]",
-      "https://www.youtube.com/watch?v=RNJCfif1dPY"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 09:59:48",
       "https://news.ycombinator.com/item?id=44508068"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2025-07-09, 01:12:15",
+      "https://news.ycombinator.com/item?id=44505445"
+    ],
+    [
+      "Watchfiles: Simple, modern and fast file watching for Python, written in Rust",
+      "https://github.com/samuelcolvin/watchfiles"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 00:03:29",
       "https://news.ycombinator.com/item?id=44505121"
     ],
     [
       "Fundamentals of garbage collection (2023)",
       "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 17:20:05",
-      "https://news.ycombinator.com/item?id=44502052"
-    ],
-    [
-      "Building Watson: An Overview of the DeepQA Project (2010)",
-      "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2303"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "First malaria treatment for babies approved for use",
       "https://www.bbc.com/news/articles/c89e872jdjxo"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 07:14:02",
-      "https://news.ycombinator.com/item?id=44497808"
-    ],
-    [
-      "Leveraging Elixir's hot code loading capabilities to modularize a monolithic app",
-      "https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/"
     ]
   ]
 ]
