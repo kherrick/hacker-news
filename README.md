@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-12, 04:05:01](https://news.ycombinator.com/item?id=44539204) - [America's largest power grid is struggling to meet demand from AI](https://www.reuters.com/sustainability/boards-policy-regulation/americas-largest-power-grid-is-struggling-meet-demand-ai-2025-07-09/)
 * [2025-07-12, 02:57:13](https://news.ycombinator.com/item?id=44538923) - [FEMA Didn’t Answer Thousands of Calls From Flood Survivors](https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html)
 * [2025-07-12, 02:05:48](https://news.ycombinator.com/item?id=44538693) - [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
 * [2025-07-12, 01:07:33](https://news.ycombinator.com/item?id=44538413) - [OpenAI delays launch of open weights model](https://twitter.com/sama/status/1943837550369812814)
@@ -23,13 +24,12 @@
 * [2025-07-11, 11:56:19](https://news.ycombinator.com/item?id=44531120) - [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
 * [2025-07-11, 11:03:59](https://news.ycombinator.com/item?id=44530767) - [Bill Atkinson's psychedelic user interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
+* [2025-07-11, 02:40:32](https://news.ycombinator.com/item?id=44527947) - [LLM Inference Handbook](https://bentoml.com/llm/)
 * [2025-07-10, 14:02:08](https://news.ycombinator.com/item?id=44521225) - [Andrew Ng: Building Faster with AI [video]](https://www.youtube.com/watch?v=RNJCfif1dPY)
-* [2025-07-09, 23:59:02](https://news.ycombinator.com/item?id=44515923) - [Computer Scientists Figure Out How to Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-09, 00:03:29](https://news.ycombinator.com/item?id=44505121) - [Fundamentals of Garbage Collection](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
 * [2025-07-08, 21:33:50](https://news.ycombinator.com/item?id=44504250) - [Monorail – Turn CSS animations into interactive SVG graphs](https://muffinman.io/monorail/)
 * [2025-07-08, 16:05:03](https://news.ycombinator.com/item?id=44501287) - [Dict Unpacking in Python](https://github.com/asottile/dict-unpacking-at-home)
 * [2025-07-08, 07:14:02](https://news.ycombinator.com/item?id=44497808) - [Leveraging Elixir's hot code loading capabilities to modularize a monolithic app](https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/)
-* [2025-07-08, 03:37:50](https://news.ycombinator.com/item?id=44496814) - [2-4 wire converters / hybrids (2009)](https://sound-au.com/appnotes/an010.htm)
 
 ## [Archives](archives/index.md)
 
