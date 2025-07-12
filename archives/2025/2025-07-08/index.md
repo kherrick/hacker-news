@@ -22,6 +22,7 @@
 * [2025-07-08, 17:46:55](https://news.ycombinator.com/item?id=44502318) - [Supabase MCP can leak your entire SQL database](https://www.generalanalysis.com/blog/supabase-mcp-blog)
 * [2025-07-08, 17:44:35](https://news.ycombinator.com/item?id=44502298) - [Radium – The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [2025-07-08, 17:42:10](https://news.ycombinator.com/item?id=44502271) - [Show HN: A rain Pomodoro with brown noise, ASMR, and Middle Eastern music](https://forgetoolz.com/rain-pomodoro)
+* [2025-07-08, 17:20:05](https://news.ycombinator.com/item?id=44502052) - [Building Watson: An Overview of the DeepQA Project (2010)](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2303)
 * [2025-07-08, 16:57:18](https://news.ycombinator.com/item?id=44501821) - [GlobalFoundries to Acquire MIPS](https://mips.com/press-releases/gf-mips/)
 * [2025-07-08, 16:49:12](https://news.ycombinator.com/item?id=44501743) - [AnyBlox: A Framework for Self-Decoding Datasets [pdf]](https://gienieczko.com/anyblox-paper)
 * [2025-07-08, 16:37:23](https://news.ycombinator.com/item?id=44501655) - [Junior Roles Aren't Going Away](https://iamcharliegraham.substack.com/p/junior-roles-arent-going-away)
