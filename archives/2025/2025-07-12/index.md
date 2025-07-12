@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 22:48:14](https://news.ycombinator.com/item?id=44545858) - [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
 * [2025-07-12, 22:42:56](https://news.ycombinator.com/item?id=44545823) - [He became the first Black mayor of a town. A white minority locked him out](https://www.theguardian.com/us-news/2023/aug/26/black-mayor-alabama-town-locked-out)
 * [2025-07-12, 19:38:25](https://news.ycombinator.com/item?id=44544518) - [Nodegram](https://nodegram.org/)
 * [2025-07-12, 19:22:40](https://news.ycombinator.com/item?id=44544388) - ['Starter packs' have played a central role in Bluesky's rapid growth](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp)

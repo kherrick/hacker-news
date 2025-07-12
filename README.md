@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-12, 22:48:14](https://news.ycombinator.com/item?id=44545858) - [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
 * [2025-07-12, 19:22:40](https://news.ycombinator.com/item?id=44544388) - ['Starter packs' have played a central role in Bluesky's rapid growth](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp)
 * [2025-07-12, 19:06:09](https://news.ycombinator.com/item?id=44544266) - [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 * [2025-07-12, 18:21:33](https://news.ycombinator.com/item?id=44543913) - [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
@@ -11,7 +12,6 @@
 * [2025-07-12, 16:31:03](https://news.ycombinator.com/item?id=44543150) - [Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions](https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/)
 * [2025-07-12, 15:47:26](https://news.ycombinator.com/item?id=44542880) - [Vibe-Coding a PCB – surprisingly good](https://atomic14.substack.com/p/vibe-coding-a-pcb-surprisingly-good)
 * [2025-07-12, 15:07:46](https://news.ycombinator.com/item?id=44542578) - [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
-* [2025-07-12, 14:07:12](https://news.ycombinator.com/item?id=44542170) - [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)
 * [2025-07-12, 12:25:28](https://news.ycombinator.com/item?id=44541576) - [The fish kick may be the fastest subsurface swim stroke yet (2015)](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
 * [2025-07-12, 12:23:33](https://news.ycombinator.com/item?id=44541565) - [Working through 'Writing A C Compiler'](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 * [2025-07-12, 12:00:11](https://news.ycombinator.com/item?id=44541458) - [Sieve (YC X25) is hiring researchers to build large video datasets for AI labs](https://sievedata.com/about/jobs)
