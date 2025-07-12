@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 18:14:37](https://news.ycombinator.com/item?id=44543865) - [Supreme Court's Ruling Practically Wipes Out Free Speech for Sex Writing Online](https://ellsberg.substack.com/p/free-speech)
 * [2025-07-12, 17:43:53](https://news.ycombinator.com/item?id=44543660) - [What Manifest V3 Means for Brave Shields and the Use of Extensions in Brave](https://brave.com/blog/brave-shields-manifest-v3/)
 * [2025-07-12, 17:36:15](https://news.ycombinator.com/item?id=44543590) - [Grok 4 Heavy Protects it's System prompt](https://simonwillison.net/2025/Jul/12/grok-4-heavy/)
 * [2025-07-12, 17:26:24](https://news.ycombinator.com/item?id=44543508) - [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
