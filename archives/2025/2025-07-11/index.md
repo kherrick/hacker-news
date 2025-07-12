@@ -6,6 +6,7 @@
 
 * [2025-07-11, 22:57:25](https://news.ycombinator.com/item?id=44537631) - [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
 * [2025-07-11, 22:43:13](https://news.ycombinator.com/item?id=44537525) - [The Biggest-Ever Digital Camera Is This Cosmologist's Magnum Opus](https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711/)
+* [2025-07-11, 22:24:16](https://news.ycombinator.com/item?id=44537373) - [Measuring power network frequency using junk you have in your closet](https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/)
 * [2025-07-11, 21:50:51](https://news.ycombinator.com/item?id=44537113) - [A software conference that advocates for quality](https://bettersoftwareconference.com/)
 * [2025-07-11, 21:48:45](https://news.ycombinator.com/item?id=44537093) - ['123456' password exposed chats for 64M McDonald's job applicants](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/)
 * [2025-07-11, 21:35:31](https://news.ycombinator.com/item?id=44536988) - [OpenAI's Windsurf deal is off – and its CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
