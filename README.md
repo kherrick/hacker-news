@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-12, 05:01:19](https://news.ycombinator.com/item?id=44539433) - [Psilocybin Shows Promise as Anti-Aging Therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/)
+* [2025-07-12, 04:39:29](https://news.ycombinator.com/item?id=44539347) - [Threads is nearing X's daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
 * [2025-07-12, 04:05:01](https://news.ycombinator.com/item?id=44539204) - [America's largest power grid is struggling to meet demand from AI](https://www.reuters.com/sustainability/boards-policy-regulation/americas-largest-power-grid-is-struggling-meet-demand-ai-2025-07-09/)
 * [2025-07-12, 02:05:48](https://news.ycombinator.com/item?id=44538693) - [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
 * [2025-07-12, 01:07:33](https://news.ycombinator.com/item?id=44538413) - [OpenAI delays launch of open weights model](https://twitter.com/sama/status/1943837550369812814)
@@ -14,7 +15,6 @@
 * [2025-07-11, 20:23:18](https://news.ycombinator.com/item?id=44536459) - [Preliminary report into Air India crash released](https://www.bbc.co.uk/news/live/cx20p2x9093t)
 * [2025-07-11, 19:24:24](https://news.ycombinator.com/item?id=44535977) - [Introduction to Digital Filters](https://ccrma.stanford.edu/~jos/filters/)
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
-* [2025-07-11, 17:47:36](https://news.ycombinator.com/item?id=44535078) - [Show HN: RULER – Easily apply RL to any agent](https://openpipe.ai/blog/ruler)
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-11, 15:43:20](https://news.ycombinator.com/item?id=44533464) - [Astronomers race to study interstellar interloper](https://www.science.org/content/article/astronomers-race-study-interstellar-interloper)
 * [2025-07-11, 15:33:17](https://news.ycombinator.com/item?id=44533337) - [Lead pigment in turmeric is the culprit in a global poisoning mystery (2024)](https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh)
