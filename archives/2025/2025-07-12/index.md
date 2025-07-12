@@ -9,6 +9,7 @@
 * [2025-07-12, 16:31:03](https://news.ycombinator.com/item?id=44543150) - [Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions](https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/)
 * [2025-07-12, 16:26:30](https://news.ycombinator.com/item?id=44543113) - [XAI seeks up to $200B valuation in next fundraising](https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68)
 * [2025-07-12, 16:22:45](https://news.ycombinator.com/item?id=44543092) - [No limit to ChatGPT searches 'remarkable' given environmental impact](https://www.independent.co.uk/climate-change/news/tim-peake-chatgpt-ceo-british-chichester-b2787894.html)
+* [2025-07-12, 15:47:26](https://news.ycombinator.com/item?id=44542880) - [Vibe-Coding a PCB – surprisingly good](https://atomic14.substack.com/p/vibe-coding-a-pcb-surprisingly-good)
 * [2025-07-12, 15:07:46](https://news.ycombinator.com/item?id=44542578) - [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
 * [2025-07-12, 14:07:12](https://news.ycombinator.com/item?id=44542170) - [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)
 * [2025-07-12, 13:44:49](https://news.ycombinator.com/item?id=44542029) - [Grok 4 will always snitch on you and email the feds if it suspects wrongdoing](https://www.neowin.net/news/grok-4-will-always-snitch-on-you-and-email-the-feds-if-it-suspects-wrongdoing-report-says/)
