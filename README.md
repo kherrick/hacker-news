@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-12, 04:24:19](https://news.ycombinator.com/item?id=44539294) - [Before Tragedy, Texas Repeatedly Rejected Pleas for Flood Alarm Funding](https://www.nytimes.com/2025/07/10/us/politics/texas-flood-alarm-system.html)
 * [2025-07-12, 04:05:01](https://news.ycombinator.com/item?id=44539204) - [America's largest power grid is struggling to meet demand from AI](https://www.reuters.com/sustainability/boards-policy-regulation/americas-largest-power-grid-is-struggling-meet-demand-ai-2025-07-09/)
 * [2025-07-12, 02:57:13](https://news.ycombinator.com/item?id=44538923) - [FEMA Didn’t Answer Thousands of Calls From Flood Survivors](https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html)
 * [2025-07-12, 02:05:48](https://news.ycombinator.com/item?id=44538693) - [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
@@ -10,6 +9,7 @@
 * [2025-07-11, 22:57:25](https://news.ycombinator.com/item?id=44537631) - [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
 * [2025-07-11, 22:24:16](https://news.ycombinator.com/item?id=44537373) - [Measuring power network frequency using junk you have in your closet](https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/)
 * [2025-07-11, 21:50:51](https://news.ycombinator.com/item?id=44537113) - [A software conference that advocates for quality](https://bettersoftwareconference.com/)
+* [2025-07-11, 21:48:45](https://news.ycombinator.com/item?id=44537093) - ['123456' password exposed chats for 64M McDonald's job applicants](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/)
 * [2025-07-11, 21:35:31](https://news.ycombinator.com/item?id=44536988) - [OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
 * [2025-07-11, 21:01:21](https://news.ycombinator.com/item?id=44536748) - [Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV)](https://careers.activeloop.ai/)
 * [2025-07-11, 20:23:18](https://news.ycombinator.com/item?id=44536459) - [Preliminary report into Air India crash released](https://www.bbc.co.uk/news/live/cx20p2x9093t)
