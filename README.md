@@ -24,11 +24,11 @@
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [Jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-10, 14:02:08](https://news.ycombinator.com/item?id=44521225) - [Andrew Ng: Building Faster with AI [video]](https://www.youtube.com/watch?v=RNJCfif1dPY)
 * [2025-07-09, 09:59:48](https://news.ycombinator.com/item?id=44508068) - [Context Engineering Guide](https://nlp.elvissaravia.com/p/context-engineering-guide)
+* [2025-07-09, 09:08:34](https://news.ycombinator.com/item?id=44507799) - [Exposing a web service with Cloudflare Tunnel](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/)
 * [2025-07-09, 00:03:29](https://news.ycombinator.com/item?id=44505121) - [Fundamentals of garbage collection (2023)](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
 * [2025-07-08, 17:20:05](https://news.ycombinator.com/item?id=44502052) - [Building Watson: An Overview of the DeepQA Project (2010)](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2303)
 * [2025-07-08, 16:14:02](https://news.ycombinator.com/item?id=44501417) - [Making a Speedrun Timer in D](https://bradley.chatha.dev/blog/linux-speedrun-timer-dlang/post/)
 * [2025-07-08, 15:16:33](https://news.ycombinator.com/item?id=44500815) - [First malaria treatment for babies approved for use](https://www.bbc.com/news/articles/c89e872jdjxo)
-* [2025-07-08, 07:49:39](https://news.ycombinator.com/item?id=44497981) - [Reverse proxy deep dive](https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5)
 * [2025-07-08, 07:14:02](https://news.ycombinator.com/item?id=44497808) - [Leveraging Elixir's hot code loading capabilities to modularize a monolithic app](https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/)
 
 ## [Archives](archives/index.md)
