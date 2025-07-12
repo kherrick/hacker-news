@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-12, 19:38:25](https://news.ycombinator.com/item?id=44544518) - [Nodegram](https://nodegram.org/)
 * [2025-07-12, 19:22:40](https://news.ycombinator.com/item?id=44544388) - ['Starter packs' have played a central role in Bluesky's rapid growth](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp)
 * [2025-07-12, 19:06:09](https://news.ycombinator.com/item?id=44544266) - [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 * [2025-07-12, 18:21:33](https://news.ycombinator.com/item?id=44543913) - [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
@@ -23,6 +22,7 @@
 * [2025-07-11, 21:35:31](https://news.ycombinator.com/item?id=44536988) - [OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
 * [2025-07-11, 20:23:18](https://news.ycombinator.com/item?id=44536459) - [Preliminary report into Air India crash released](https://www.bbc.co.uk/news/live/cx20p2x9093t)
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
+* [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [Jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-10, 00:22:17](https://news.ycombinator.com/item?id=44516055) - [Dépanneurs](https://walkmontreal.com/curiosities/depanneurs/)
 * [2025-07-09, 20:45:19](https://news.ycombinator.com/item?id=44514559) - [QRS: Epsilon Wrangling](https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling)
 * [2025-07-09, 11:33:09](https://news.ycombinator.com/item?id=44508726) - [Show HN: Pyhoff – Connect Python ML Models to Beckhoff/WAGO IO Hardware](https://github.com/Nonannet/pyhoff)
