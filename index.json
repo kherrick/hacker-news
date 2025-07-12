@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-07-12, 13:44:49",
+      "https://news.ycombinator.com/item?id=44542029"
+    ],
+    [
+      "Grok 4 will always snitch on you and email the feds if it suspects wrongdoing",
+      "https://www.neowin.net/news/grok-4-will-always-snitch-on-you-and-email-the-feds-if-it-suspects-wrongdoing-report-says/"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 13:15:08",
+      "https://news.ycombinator.com/item?id=44541863"
+    ],
+    [
+      "Maine police caught lying about using AI to alter drug bust photo",
+      "https://boingboing.net/2025/07/02/maine-police-caught-lying-about-using-ai-to-alter-drug-bust-photo.html"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 12:25:28",
       "https://news.ycombinator.com/item?id=44541576"
     ],
     [
-      "Is This New Swim Stroke the Fastest Yet?",
+      "The fish kick may be the fastest subsurface swim stroke yet (2015)",
       "https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44539879"
     ],
     [
-      "Malware Found in Official GravityForms Plugin Indicating Supply Chain Breach",
+      "Malware found in official gravityforms plugin indicating supply chain breach",
       "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Faking a JPEG",
       "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 22:24:16",
-      "https://news.ycombinator.com/item?id=44537373"
-    ],
-    [
-      "Measuring power network frequency using junk you have in your closet",
-      "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "jank is C++",
       "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 15:43:20",
-      "https://news.ycombinator.com/item?id=44533464"
-    ],
-    [
-      "Astronomers race to study interstellar interloper",
-      "https://www.science.org/content/article/astronomers-race-study-interstellar-interloper"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2025-07-09, 13:50:06",
+      "https://news.ycombinator.com/item?id=44510038"
+    ],
+    [
+      "Increasing the Fidelity of Qubit Operations",
+      "https://www.nature.com/articles/s41467-025-61126-0"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 00:03:29",
       "https://news.ycombinator.com/item?id=44505121"
     ],
     [
       "Fundamentals of garbage collection (2023)",
       "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 21:33:50",
-      "https://news.ycombinator.com/item?id=44504250"
-    ],
-    [
-      "Monorail – Turn CSS animations into interactive SVG graphs",
-      "https://muffinman.io/monorail/"
     ]
   ],
   [
