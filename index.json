@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-07-12, 19:38:25",
+      "https://news.ycombinator.com/item?id=44544518"
+    ],
+    [
+      "Nodegram",
+      "https://nodegram.org/"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 19:22:40",
       "https://news.ycombinator.com/item?id=44544388"
     ],
     [
       "'Starter packs' have played a central role in Bluesky's rapid growth",
       "https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 19:20:31",
-      "https://news.ycombinator.com/item?id=44544367"
-    ],
-    [
-      "I Messed Up My Google PM Vibe Coding Interview",
-      "https://old.reddit.com/r/ProductManagement/comments/1lw9r9h/i_messed_up_my_google_pm_vibe_coding_interview/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=44543865"
     ],
     [
-      "Supreme Court's Ruling Practically Wipes Out Free Speech for Sex Writing Online",
+      "Supreme Court's ruling practically wipes out free speech for sex writing online",
       "https://ellsberg.substack.com/p/free-speech"
     ]
   ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-07-12, 08:14:02",
+      "https://news.ycombinator.com/item?id=44540241"
+    ],
+    [
+      "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
+      "https://jsdate.wtf"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 06:41:59",
       "https://news.ycombinator.com/item?id=44539879"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-07-11, 17:22:01",
-      "https://news.ycombinator.com/item?id=44534787"
+      "2025-07-10, 00:22:17",
+      "https://news.ycombinator.com/item?id=44516055"
     ],
     [
-      "Jank is C++",
-      "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/"
+      "Dépanneurs",
+      "https://walkmontreal.com/curiosities/depanneurs/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Exposing a web service with Cloudflare Tunnel (2022)",
       "https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 00:03:29",
-      "https://news.ycombinator.com/item?id=44505121"
-    ],
-    [
-      "Fundamentals of garbage collection (2023)",
-      "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals"
     ]
   ],
   [
