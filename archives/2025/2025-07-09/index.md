@@ -73,6 +73,7 @@
 * [2025-07-09, 04:04:45](https://news.ycombinator.com/item?id=44506251) - [Phrase origin: Why do we \"call\" functions?](https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/)
 * [2025-07-09, 03:51:27](https://news.ycombinator.com/item?id=44506188) - [Apple-1 Computer, handmade by Steve Jobs [video]](https://www.youtube.com/watch?v=XdBKuBhdZwg)
 * [2025-07-09, 03:34:37](https://news.ycombinator.com/item?id=44506117) - [Where can I see Hokusai's Great Wave today?](https://greatwavetoday.com/)
+* [2025-07-09, 03:04:37](https://news.ycombinator.com/item?id=44506012) - [Infinite Mac Construction Set](https://blog.persistent.info/2025/07/infinite-mac-embedding.html)
 * [2025-07-09, 02:37:28](https://news.ycombinator.com/item?id=44505876) - [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
 * [2025-07-09, 02:27:39](https://news.ycombinator.com/item?id=44505816) - [iPod Linux – Linux for Your iPod](http://www.ipodlinux.org/)
 * [2025-07-09, 01:59:31](https://news.ycombinator.com/item?id=44505675) - [US court strikes down 'click-to-cancel' rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)
