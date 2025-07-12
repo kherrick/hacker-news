@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-07-12, 18:21:33",
+      "https://news.ycombinator.com/item?id=44543913"
+    ],
+    [
+      "A better Ghidra MCP server – GhidrAssistMCP",
+      "https://github.com/jtang613/GhidrAssistMCP"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 18:14:37",
       "https://news.ycombinator.com/item?id=44543865"
     ],
     [
       "Supreme Court's Ruling Practically Wipes Out Free Speech for Sex Writing Online",
       "https://ellsberg.substack.com/p/free-speech"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 17:36:15",
-      "https://news.ycombinator.com/item?id=44543590"
-    ],
-    [
-      "Grok 4 Heavy Protects it's System prompt",
-      "https://simonwillison.net/2025/Jul/12/grok-4-heavy/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-07-09, 01:12:15",
-      "https://news.ycombinator.com/item?id=44505445"
-    ],
-    [
-      "Watchfiles: Simple, modern and fast file watching for Python, written in Rust",
-      "https://github.com/samuelcolvin/watchfiles"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 00:03:29",
       "https://news.ycombinator.com/item?id=44505121"
     ],
@@ -287,6 +277,16 @@
     [
       "First malaria treatment for babies approved for use",
       "https://www.bbc.com/news/articles/c89e872jdjxo"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 07:49:39",
+      "https://news.ycombinator.com/item?id=44497981"
+    ],
+    [
+      "Reverse proxy deep dive",
+      "https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5"
     ]
   ],
   [
