@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 07:29:48](https://news.ycombinator.com/item?id=44540052) - [Bad Actors Are Grooming LLMs to Produce Falsehoods](https://americansunlight.substack.com/cp/168074209)
+* [2025-07-12, 06:41:59](https://news.ycombinator.com/item?id=44539879) - [Malware Found in Official GravityForms Plugin Indicating Supply Chain Breach](https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/)
 * [2025-07-12, 05:01:19](https://news.ycombinator.com/item?id=44539433) - [Psilocybin Shows Promise as Anti-Aging Therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/)
 * [2025-07-12, 04:39:29](https://news.ycombinator.com/item?id=44539347) - [Threads is nearing X's daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
 * [2025-07-12, 04:36:30](https://news.ycombinator.com/item?id=44539338) - [Linux Containers – Incus](https://linuxcontainers.org/incus/)
