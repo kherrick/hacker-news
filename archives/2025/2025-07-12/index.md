@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 16:32:12](https://news.ycombinator.com/item?id=44543156) - [Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++](https://github.com/efecan0/binaryrpc-framework)
 * [2025-07-12, 16:26:30](https://news.ycombinator.com/item?id=44543113) - [XAI seeks up to $200B valuation in next fundraising](https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68)
 * [2025-07-12, 15:07:46](https://news.ycombinator.com/item?id=44542578) - [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
 * [2025-07-12, 14:07:12](https://news.ycombinator.com/item?id=44542170) - [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)

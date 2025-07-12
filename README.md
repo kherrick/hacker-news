@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-12, 16:32:12](https://news.ycombinator.com/item?id=44543156) - [Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++](https://github.com/efecan0/binaryrpc-framework)
 * [2025-07-12, 16:26:30](https://news.ycombinator.com/item?id=44543113) - [XAI seeks up to $200B valuation in next fundraising](https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68)
 * [2025-07-12, 15:07:46](https://news.ycombinator.com/item?id=44542578) - [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
 * [2025-07-12, 14:07:12](https://news.ycombinator.com/item?id=44542170) - [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)
@@ -19,7 +20,6 @@
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-11, 14:06:07](https://news.ycombinator.com/item?id=44532306) - [Upgrading an M4 Pro Mac mini's storage for half the price](https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price)
-* [2025-07-11, 12:53:27](https://news.ycombinator.com/item?id=44531569) - [Repasting a MacBook](https://christianselig.com/2025/07/repaste-macbook/)
 * [2025-07-11, 11:03:59](https://news.ycombinator.com/item?id=44530767) - [Bill Atkinson's psychedelic user interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 * [2025-07-10, 14:02:08](https://news.ycombinator.com/item?id=44521225) - [Andrew Ng: Building Faster with AI [video]](https://www.youtube.com/watch?v=RNJCfif1dPY)
 * [2025-07-09, 14:50:30](https://news.ycombinator.com/item?id=44510717) - [Only on Nantucket: The Curious Case of the \"Stolen\" Mercedes](https://nantucketcurrent.com/news/only-on-nantucket-the-curious-case-of-the)
