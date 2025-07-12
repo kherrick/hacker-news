@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 10:14:01](https://news.ycombinator.com/item?id=44540876) - [OpenAI to release web browser in challenge to Google Chrome](https://www.cnbc.com/2025/07/09/openai-to-release-web-browser-in-challenge-to-google-chrome.html)
+* [2025-07-12, 10:10:53](https://news.ycombinator.com/item?id=44540858) - [ICANN fumes as AFRINIC offers no explanation for annulled election](https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/)
 * [2025-07-12, 08:45:15](https://news.ycombinator.com/item?id=44540402) - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
 * [2025-07-12, 08:14:02](https://news.ycombinator.com/item?id=44540241) - [New Date(\"WTF\") – How well do you know JavaScript's Date class?](https://jsdate.wtf)
 * [2025-07-12, 07:29:48](https://news.ycombinator.com/item?id=44540052) - [Bad Actors Are Grooming LLMs to Produce Falsehoods](https://americansunlight.substack.com/cp/168074209)
