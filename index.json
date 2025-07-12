@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-07-12, 02:57:13",
+      "https://news.ycombinator.com/item?id=44538923"
+    ],
+    [
+      "FEMA Didn’t Answer Thousands of Calls From Flood Survivors",
+      "https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 02:05:48",
+      "https://news.ycombinator.com/item?id=44538693"
+    ],
+    [
+      "Cheeky Computer Scientist replicates Quantum Factoring record with a dog [pdf]",
+      "https://eprint.iacr.org/2025/1237.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 01:28:55",
+      "https://news.ycombinator.com/item?id=44538517"
+    ],
+    [
+      "Tell HN: uBlock Origin on Chrome is finally gone",
+      "https://news.ycombinator.com/item?id=44538517"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 01:07:33",
+      "https://news.ycombinator.com/item?id=44538413"
+    ],
+    [
+      "Sam Altman delays open weights model release",
+      "https://twitter.com/sama/status/1943837550369812814"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 00:31:46",
       "https://news.ycombinator.com/item?id=44538212"
     ],
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2025-07-11, 22:43:13",
-      "https://news.ycombinator.com/item?id=44537525"
+      "2025-07-11, 22:24:16",
+      "https://news.ycombinator.com/item?id=44537373"
     ],
     [
-      "The Biggest-Ever Digital Camera Is This Cosmologist's Magnum Opus",
-      "https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711/"
+      "Measuring power network frequency using junk you have in your closet",
+      "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2025-07-11, 16:09:04",
-      "https://news.ycombinator.com/item?id=44533843"
-    ],
-    [
-      "In a First, Solar Was Europe's Biggest Source of Power Last Month",
-      "https://e360.yale.edu/digest/solar-biggest-power-source-europe-june-2025"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 15:43:20",
       "https://news.ycombinator.com/item?id=44533464"
     ],
@@ -157,16 +187,6 @@
     [
       "Lead pigment in turmeric is the culprit in a global poisoning mystery (2024)",
       "https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 15:00:36",
-      "https://news.ycombinator.com/item?id=44532913"
-    ],
-    [
-      "I'm done with social media – Or: why I have a blog now",
-      "https://www.carolinecrampton.com/im-done-with-social-media/"
     ]
   ],
   [
@@ -221,42 +241,22 @@
   ],
   [
     [
-      "2025-07-11, 06:27:19",
-      "https://news.ycombinator.com/item?id=44528943"
-    ],
-    [
-      "OpenFront: Realtime Risk-like multiplayer game in the browser",
-      "https://openfront.io/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 02:40:32",
-      "https://news.ycombinator.com/item?id=44527947"
-    ],
-    [
-      "LLM Inference Handbook",
-      "https://bentoml.com/llm/"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 21:50:43",
-      "https://news.ycombinator.com/item?id=44526015"
-    ],
-    [
-      "Show HN: Pangolin – Open source alternative to Cloudflare Tunnels",
-      "https://github.com/fosrl/pangolin"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 14:02:08",
       "https://news.ycombinator.com/item?id=44521225"
     ],
     [
       "Andrew Ng: Building Faster with AI [video]",
       "https://www.youtube.com/watch?v=RNJCfif1dPY"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 23:59:02",
+      "https://news.ycombinator.com/item?id=44515923"
+    ],
+    [
+      "Computer Scientists Figure Out How to Prove Lies",
+      "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-07-08, 13:12:43",
-      "https://news.ycombinator.com/item?id=44499642"
+      "2025-07-08, 07:14:02",
+      "https://news.ycombinator.com/item?id=44497808"
     ],
     [
-      "DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Gen",
-      "https://arxiv.org/abs/2506.20639"
+      "Leveraging Elixir's hot code loading capabilities to modularize a monolithic app",
+      "https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/"
     ]
   ],
   [
