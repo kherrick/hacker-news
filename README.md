@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-12, 19:06:09](https://news.ycombinator.com/item?id=44544266) - [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 * [2025-07-12, 18:21:33](https://news.ycombinator.com/item?id=44543913) - [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
 * [2025-07-12, 18:14:37](https://news.ycombinator.com/item?id=44543865) - [Supreme Court's Ruling Practically Wipes Out Free Speech for Sex Writing Online](https://ellsberg.substack.com/p/free-speech)
 * [2025-07-12, 17:26:24](https://news.ycombinator.com/item?id=44543508) - [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
 * [2025-07-12, 17:05:14](https://news.ycombinator.com/item?id=44543368) - [Arizona resident dies from the plague less than 24 hours after showing symptoms](https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html)
+* [2025-07-12, 16:45:45](https://news.ycombinator.com/item?id=44543240) - [Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python](https://inventwithpython.com/blog/lost-av-chapter.html)
 * [2025-07-12, 16:32:12](https://news.ycombinator.com/item?id=44543156) - [Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++](https://github.com/efecan0/binaryrpc-framework)
 * [2025-07-12, 16:31:03](https://news.ycombinator.com/item?id=44543150) - [Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions](https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/)
 * [2025-07-12, 15:47:26](https://news.ycombinator.com/item?id=44542880) - [Vibe-Coding a PCB – surprisingly good](https://atomic14.substack.com/p/vibe-coding-a-pcb-surprisingly-good)
@@ -22,14 +24,12 @@
 * [2025-07-11, 20:23:18](https://news.ycombinator.com/item?id=44536459) - [Preliminary report into Air India crash released](https://www.bbc.co.uk/news/live/cx20p2x9093t)
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [Jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
-* [2025-07-10, 14:02:08](https://news.ycombinator.com/item?id=44521225) - [Andrew Ng: Building Faster with AI [video]](https://www.youtube.com/watch?v=RNJCfif1dPY)
 * [2025-07-09, 09:59:48](https://news.ycombinator.com/item?id=44508068) - [Context Engineering Guide](https://nlp.elvissaravia.com/p/context-engineering-guide)
 * [2025-07-09, 09:08:34](https://news.ycombinator.com/item?id=44507799) - [Exposing a web service with Cloudflare Tunnel](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/)
+* [2025-07-09, 01:12:15](https://news.ycombinator.com/item?id=44505445) - [Watchfiles: Simple, modern and fast file watching for Python, written in Rust](https://github.com/samuelcolvin/watchfiles)
 * [2025-07-09, 00:03:29](https://news.ycombinator.com/item?id=44505121) - [Fundamentals of garbage collection (2023)](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
-* [2025-07-08, 17:20:05](https://news.ycombinator.com/item?id=44502052) - [Building Watson: An Overview of the DeepQA Project (2010)](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2303)
 * [2025-07-08, 16:14:02](https://news.ycombinator.com/item?id=44501417) - [Making a Speedrun Timer in D](https://bradley.chatha.dev/blog/linux-speedrun-timer-dlang/post/)
 * [2025-07-08, 15:16:33](https://news.ycombinator.com/item?id=44500815) - [First malaria treatment for babies approved for use](https://www.bbc.com/news/articles/c89e872jdjxo)
-* [2025-07-08, 07:14:02](https://news.ycombinator.com/item?id=44497808) - [Leveraging Elixir's hot code loading capabilities to modularize a monolithic app](https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/)
 
 ## [Archives](archives/index.md)
 

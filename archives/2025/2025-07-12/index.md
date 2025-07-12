@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 19:06:09](https://news.ycombinator.com/item?id=44544266) - [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 * [2025-07-12, 18:21:33](https://news.ycombinator.com/item?id=44543913) - [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
 * [2025-07-12, 18:14:37](https://news.ycombinator.com/item?id=44543865) - [Supreme Court's Ruling Practically Wipes Out Free Speech for Sex Writing Online](https://ellsberg.substack.com/p/free-speech)
 * [2025-07-12, 17:43:53](https://news.ycombinator.com/item?id=44543660) - [What Manifest V3 Means for Brave Shields and the Use of Extensions in Brave](https://brave.com/blog/brave-shields-manifest-v3/)
 * [2025-07-12, 17:36:15](https://news.ycombinator.com/item?id=44543590) - [Grok 4 Heavy Protects it's System prompt](https://simonwillison.net/2025/Jul/12/grok-4-heavy/)
 * [2025-07-12, 17:26:24](https://news.ycombinator.com/item?id=44543508) - [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
 * [2025-07-12, 17:05:14](https://news.ycombinator.com/item?id=44543368) - [Arizona resident dies from the plague less than 24 hours after showing symptoms](https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html)
+* [2025-07-12, 16:45:45](https://news.ycombinator.com/item?id=44543240) - [Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python](https://inventwithpython.com/blog/lost-av-chapter.html)
 * [2025-07-12, 16:32:12](https://news.ycombinator.com/item?id=44543156) - [Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++](https://github.com/efecan0/binaryrpc-framework)
 * [2025-07-12, 16:31:03](https://news.ycombinator.com/item?id=44543150) - [Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions](https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/)
 * [2025-07-12, 16:26:30](https://news.ycombinator.com/item?id=44543113) - [XAI seeks up to $200B valuation in next fundraising](https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68)
