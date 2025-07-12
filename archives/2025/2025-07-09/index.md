@@ -44,6 +44,7 @@
 * [2025-07-09, 14:15:43](https://news.ycombinator.com/item?id=44510331) - [That white guy who can't get a job at Tim Hortons? He's AI](https://www.cbc.ca/news/ai-generated-fake-marketing-1.7578772)
 * [2025-07-09, 14:14:46](https://news.ycombinator.com/item?id=44510320) - [Hugging Face just launched a $299 robot that could disrupt the robotics industry](https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/)
 * [2025-07-09, 14:12:16](https://news.ycombinator.com/item?id=44510282) - [A fast 3D collision detection algorithm](https://cairno.substack.com/p/improvements-to-the-separating-axis)
+* [2025-07-09, 13:50:06](https://news.ycombinator.com/item?id=44510038) - [Increasing the Fidelity of Qubit Operations](https://www.nature.com/articles/s41467-025-61126-0)
 * [2025-07-09, 13:45:54](https://news.ycombinator.com/item?id=44509988) - [Nvidia Becomes First Company to Reach $4T Market Cap](https://www.cnbc.com/2025/07/09/nvidia-4-trillion.html)
 * [2025-07-09, 13:26:25](https://news.ycombinator.com/item?id=44509790) - [Jurisdiction Is Nearly Irrelevant to the Security of Encrypted Messaging Apps](https://soatok.blog/2025/07/09/jurisdiction-is-nearly-irrelevant-to-the-security-of-encrypted-messaging-apps/)
 * [2025-07-09, 12:31:56](https://news.ycombinator.com/item?id=44509254) - [4.6B Years On, the Sun Is Having a Moment](https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment)
