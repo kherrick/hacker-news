@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=44538693"
     ],
     [
-      "Cheeky Computer Scientist replicates Quantum Factoring record with a dog [pdf]",
+      "Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]",
       "https://eprint.iacr.org/2025/1237.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 01:28:55",
-      "https://news.ycombinator.com/item?id=44538517"
-    ],
-    [
-      "Tell HN: uBlock Origin on Chrome is finally gone",
-      "https://news.ycombinator.com/item?id=44538517"
     ]
   ],
   [
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44538413"
     ],
     [
-      "Sam Altman delays open weights model release",
+      "OpenAI delays launch of open weights model",
       "https://twitter.com/sama/status/1943837550369812814"
     ]
   ],
@@ -47,6 +37,16 @@
     [
       "HDD Clicker generates HDD clicking sounds, based on HDD Led activity",
       "https://www.serdashop.com/HDDClicker"
+    ]
+  ],
+  [
+    [
+      "2025-07-11, 23:16:28",
+      "https://news.ycombinator.com/item?id=44537768"
+    ],
+    [
+      "AWS Free Tier Changes on July 15, 2025",
+      "https://freetier.co/articles/aws-free-tier-changes-july-15-2025"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-07-11, 16:19:13",
-      "https://news.ycombinator.com/item?id=44533982"
-    ],
-    [
-      "Pa. House passes 'click-to-cancel' subscription bills",
-      "https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 15:43:20",
       "https://news.ycombinator.com/item?id=44533464"
     ],
@@ -257,6 +247,16 @@
     [
       "Computer Scientists Figure Out How to Prove Lies",
       "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 00:03:29",
+      "https://news.ycombinator.com/item?id=44505121"
+    ],
+    [
+      "Fundamentals of Garbage Collection",
+      "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals"
     ]
   ],
   [
