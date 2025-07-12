@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-12, 04:24:19",
+      "https://news.ycombinator.com/item?id=44539294"
+    ],
+    [
+      "Before Tragedy, Texas Repeatedly Rejected Pleas for Flood Alarm Funding",
+      "https://www.nytimes.com/2025/07/10/us/politics/texas-flood-alarm-system.html"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 04:05:01",
       "https://news.ycombinator.com/item?id=44539204"
     ],
@@ -87,16 +97,6 @@
     [
       "A software conference that advocates for quality",
       "https://bettersoftwareconference.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 21:48:45",
-      "https://news.ycombinator.com/item?id=44537093"
-    ],
-    [
-      "'123456' password exposed chats for 64M McDonald's job applicants",
-      "https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-07-11, 02:40:32",
-      "https://news.ycombinator.com/item?id=44527947"
-    ],
-    [
-      "LLM Inference Handbook",
-      "https://bentoml.com/llm/"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 14:02:08",
       "https://news.ycombinator.com/item?id=44521225"
     ],
@@ -287,6 +277,16 @@
     [
       "Dict Unpacking in Python",
       "https://github.com/asottile/dict-unpacking-at-home"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 07:49:39",
+      "https://news.ycombinator.com/item?id=44497981"
+    ],
+    [
+      "Reverse Proxy Deep Dive",
+      "https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5"
     ]
   ],
   [
