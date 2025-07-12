@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-12, 05:01:19](https://news.ycombinator.com/item?id=44539433) - [Psilocybin Shows Promise as Anti-Aging Therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/)
 * [2025-07-12, 04:05:01](https://news.ycombinator.com/item?id=44539204) - [America's largest power grid is struggling to meet demand from AI](https://www.reuters.com/sustainability/boards-policy-regulation/americas-largest-power-grid-is-struggling-meet-demand-ai-2025-07-09/)
 * [2025-07-12, 02:05:48](https://news.ycombinator.com/item?id=44538693) - [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
 * [2025-07-12, 01:07:33](https://news.ycombinator.com/item?id=44538413) - [OpenAI delays launch of open weights model](https://twitter.com/sama/status/1943837550369812814)
@@ -22,7 +23,6 @@
 * [2025-07-11, 11:56:19](https://news.ycombinator.com/item?id=44531120) - [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
 * [2025-07-11, 11:03:59](https://news.ycombinator.com/item?id=44530767) - [Bill Atkinson's psychedelic user interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
-* [2025-07-11, 02:40:32](https://news.ycombinator.com/item?id=44527947) - [LLM Inference Handbook](https://bentoml.com/llm/)
 * [2025-07-10, 14:02:08](https://news.ycombinator.com/item?id=44521225) - [Andrew Ng: Building Faster with AI [video]](https://www.youtube.com/watch?v=RNJCfif1dPY)
 * [2025-07-09, 16:06:03](https://news.ycombinator.com/item?id=44511722) - [Rice rebels: Research reveals grain's brewing benefits](https://phys.org/news/2025-06-rice-rebels-reveals-grain-brewing.html)
 * [2025-07-09, 00:03:29](https://news.ycombinator.com/item?id=44505121) - [Fundamentals of Garbage Collection](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
