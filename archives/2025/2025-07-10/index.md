@@ -66,3 +66,4 @@
 * [2025-07-10, 02:34:51](https://news.ycombinator.com/item?id=44516674) - [A lightweight Cloudflare Dynamic DNS shell script](https://github.com/fernvenue/cloudflare-ddns)
 * [2025-07-10, 01:15:58](https://news.ycombinator.com/item?id=44516317) - [The case for building operator interfaces before AI agents](https://www.henrypray.com/writings/the-only-saas-feature-you-should-be-building)
 * [2025-07-10, 01:10:08](https://news.ycombinator.com/item?id=44516288) - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
+* [2025-07-10, 00:22:17](https://news.ycombinator.com/item?id=44516055) - [Dépanneurs](https://walkmontreal.com/curiosities/depanneurs/)

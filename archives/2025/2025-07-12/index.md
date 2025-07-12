@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 19:38:25](https://news.ycombinator.com/item?id=44544518) - [Nodegram](https://nodegram.org/)
 * [2025-07-12, 19:22:40](https://news.ycombinator.com/item?id=44544388) - ['Starter packs' have played a central role in Bluesky's rapid growth](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp)
 * [2025-07-12, 19:20:31](https://news.ycombinator.com/item?id=44544367) - [I Messed Up My Google PM Vibe Coding Interview](https://old.reddit.com/r/ProductManagement/comments/1lw9r9h/i_messed_up_my_google_pm_vibe_coding_interview/)
 * [2025-07-12, 19:06:09](https://news.ycombinator.com/item?id=44544266) - [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
