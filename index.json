@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-12, 17:05:14",
+      "https://news.ycombinator.com/item?id=44543368"
+    ],
+    [
+      "Arizona resident dies from the plague less than 24 hours after showing symptoms",
+      "https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 16:32:12",
       "https://news.ycombinator.com/item?id=44543156"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-07-12, 16:31:03",
+      "https://news.ycombinator.com/item?id=44543150"
+    ],
+    [
+      "Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions",
+      "https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 16:26:30",
       "https://news.ycombinator.com/item?id=44543113"
     ],
     [
       "XAI seeks up to $200B valuation in next fundraising",
       "https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 16:22:45",
+      "https://news.ycombinator.com/item?id=44543092"
+    ],
+    [
+      "No limit to ChatGPT searches 'remarkable' given environmental impact",
+      "https://www.independent.co.uk/climate-change/news/tim-peake-chatgpt-ceo-british-chichester-b2787894.html"
     ]
   ],
   [
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2025-07-12, 04:36:30",
-      "https://news.ycombinator.com/item?id=44539338"
-    ],
-    [
-      "Incus – Next-generation system container, application container, and VM manager",
-      "https://linuxcontainers.org/incus/"
-    ]
-  ],
-  [
-    [
       "2025-07-12, 02:05:48",
       "https://news.ycombinator.com/item?id=44538693"
     ],
     [
       "Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]",
       "https://eprint.iacr.org/2025/1237.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 01:07:33",
-      "https://news.ycombinator.com/item?id=44538413"
-    ],
-    [
-      "OpenAI delays launch of open-weight model",
-      "https://twitter.com/sama/status/1943837550369812814"
     ]
   ],
   [
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2025-07-11, 14:06:07",
-      "https://news.ycombinator.com/item?id=44532306"
-    ],
-    [
-      "Upgrading an M4 Pro Mac mini's storage for half the price",
-      "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 11:03:59",
-      "https://news.ycombinator.com/item?id=44530767"
-    ],
-    [
-      "Bill Atkinson's psychedelic user interface",
-      "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 14:02:08",
       "https://news.ycombinator.com/item?id=44521225"
     ],
@@ -227,6 +217,16 @@
     [
       "Only on Nantucket: The Curious Case of the \"Stolen\" Mercedes",
       "https://nantucketcurrent.com/news/only-on-nantucket-the-curious-case-of-the"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 01:12:15",
+      "https://news.ycombinator.com/item?id=44505445"
+    ],
+    [
+      "Watchfiles: Simple, modern and fast file watching for Python, written in Rust",
+      "https://github.com/samuelcolvin/watchfiles"
     ]
   ],
   [
