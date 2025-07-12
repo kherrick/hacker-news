@@ -50,6 +50,7 @@
 * [2025-07-09, 12:31:56](https://news.ycombinator.com/item?id=44509254) - [4.6B Years On, the Sun Is Having a Moment](https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment)
 * [2025-07-09, 11:52:29](https://news.ycombinator.com/item?id=44508866) - [Using MPC for Anonymous and Private DNA Analysis](https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/)
 * [2025-07-09, 11:49:21](https://news.ycombinator.com/item?id=44508837) - [Million Times Million](https://susam.net/million-times-million.html)
+* [2025-07-09, 11:33:09](https://news.ycombinator.com/item?id=44508726) - [Show HN: Pyhoff – Connect Python ML Models to Beckhoff/WAGO IO Hardware](https://github.com/Nonannet/pyhoff)
 * [2025-07-09, 11:29:46](https://news.ycombinator.com/item?id=44508699) - [Why I don't ride the AI Hype Train](https://mertbulan.com/2025/06/26/why-i-dont-ride-the-ai-hype-train/)
 * [2025-07-09, 11:17:26](https://news.ycombinator.com/item?id=44508601) - [Btrfs Allocator Hints](https://lwn.net/ml/all/cover.1747070147.git.anand.jain@oracle.com/)
 * [2025-07-09, 09:59:48](https://news.ycombinator.com/item?id=44508068) - [Context Engineering Guide](https://nlp.elvissaravia.com/p/context-engineering-guide)
