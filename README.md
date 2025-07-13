@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-13, 20:23:37](https://news.ycombinator.com/item?id=44553389) - [Five Companies Now Control over 90% of the Global Food Delivery Market](https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90)
+* [2025-07-13, 20:23:37](https://news.ycombinator.com/item?id=44553389) - [Five companies now control over 90% of the restaurant food delivery market](https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90)
 * [2025-07-13, 19:58:24](https://news.ycombinator.com/item?id=44553157) - [Holographic ribbon aims to oust magnetic tape with 50-year life span and 200TB](https://www.tomshardware.com/pc-components/storage/holographic-ribbon-aims-to-oust-magnetic-tape-with-50-year-life-span-and-200tb-capacity-per-cartridge-holomem-says-optical-ribbon-based-carts-work-with-some-components-of-existing-systems-reducing-fricition)
 * [2025-07-13, 19:39:53](https://news.ycombinator.com/item?id=44552966) - [OpenICE: Open-Source US Immigration Detention Dashboard](https://www.openice.org/)
 * [2025-07-13, 19:16:07](https://news.ycombinator.com/item?id=44552730) - [The Gottorf Globe and its reconstruction](https://gottorfer-globus.de/en/the-gottorf-globe)
@@ -10,8 +10,8 @@
 * [2025-07-13, 17:18:20](https://news.ycombinator.com/item?id=44551913) - [Does Showing Seconds in the System Tray Use More Power?](https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power)
 * [2025-07-13, 17:00:57](https://news.ycombinator.com/item?id=44551784) - [Infisical (YC W23) Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
 * [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
-* [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A Technical Look at Iran's Internet Shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
-* [2025-07-13, 14:09:06](https://news.ycombinator.com/item?id=44550572) - [How does a screen even work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
+* [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A technical look at Iran's internet shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
+* [2025-07-13, 14:09:06](https://news.ycombinator.com/item?id=44550572) - [How does a screen work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
 * [2025-07-13, 13:48:49](https://news.ycombinator.com/item?id=44550450) - [Local Chatbot RAG with FreeBSD Knowledge](https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/)
 * [2025-07-13, 13:03:13](https://news.ycombinator.com/item?id=44550157) - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
 * [2025-07-13, 10:25:18](https://news.ycombinator.com/item?id=44549145) - [The Decipherment of the Dhofari Script](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
