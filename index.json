@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 02:47:00",
+      "https://news.ycombinator.com/item?id=44547089"
+    ],
+    [
+      "Edward Burtynsky's monumental chronicle of the human impact on the planet",
+      "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 01:12:37",
       "https://news.ycombinator.com/item?id=44546640"
     ],
@@ -27,16 +37,6 @@
     [
       "Zig's New Async I/O",
       "https://kristoff.it/blog/zig-new-async-io/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 22:48:14",
-      "https://news.ycombinator.com/item?id=44545858"
-    ],
-    [
-      "Light exposure at night predicts incidence of cardiovascular diseases",
-      "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Kimi k2 largest open source SOTA model?",
       "https://github.com/MoonshotAI/Kimi-K2"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 17:05:14",
-      "https://news.ycombinator.com/item?id=44543368"
-    ],
-    [
-      "Arizona resident dies from the plague less than 24 hours after showing symptoms",
-      "https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Chrome's hidden X-Browser-Validation header reverse engineered",
       "https://github.com/dsekz/chrome-x-browser-validation-header"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 12:26:32",
+      "https://news.ycombinator.com/item?id=44520218"
+    ],
+    [
+      "Programming Affordances That Invite Mistakes",
+      "https://thetechenabler.substack.com/p/programming-affordance-when-a-languages"
     ]
   ],
   [
