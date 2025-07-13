@@ -27,7 +27,7 @@
 * [2025-07-10, 11:59:35](https://news.ycombinator.com/item?id=44520000) - [HNSW as abstract data structure: video intro to Redis vector sets](https://www.youtube.com/watch?v=kVApsFUeuEA)
 * [2025-07-09, 22:32:41](https://news.ycombinator.com/item?id=44515379) - [Capturing the International Space Station (2022)](https://cosmicbackground.io/blogs/learn-about-how-these-are-captured/capturing-the-international-space-station)
 * [2025-07-09, 22:10:37](https://news.ycombinator.com/item?id=44515210) - [Two-step system makes plastic from carbon dioxide, water and electricity](https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html)
-* [2025-07-09, 11:14:14](https://news.ycombinator.com/item?id=44508580) - [Second Variety, by Philip K. Dick (1953)](https://www.gutenberg.org/files/32032/32032-h/32032-h.htm)
+* [2025-07-09, 16:59:30](https://news.ycombinator.com/item?id=44512350) - [The upcoming GPT-3 moment for RL](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/)
 * [2025-07-09, 09:33:57](https://news.ycombinator.com/item?id=44507931) - [Experimental imperative-style music sequence generator engine](https://github.com/renoise/pattrns)
 * [2025-07-09, 08:07:23](https://news.ycombinator.com/item?id=44507405) - [Parse, Don't Validate (For C)](https://www.lelanthran.com/chap13/content.html)
 
