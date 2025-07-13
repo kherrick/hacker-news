@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-13, 19:58:24",
+      "https://news.ycombinator.com/item?id=44553157"
+    ],
+    [
+      "Holographic ribbon aims to oust magnetic tape with 50-year life span and 200TB",
+      "https://www.tomshardware.com/pc-components/storage/holographic-ribbon-aims-to-oust-magnetic-tape-with-50-year-life-span-and-200tb-capacity-per-cartridge-holomem-says-optical-ribbon-based-carts-work-with-some-components-of-existing-systems-reducing-fricition"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 19:39:53",
       "https://news.ycombinator.com/item?id=44552966"
     ],
     [
       "OpenICE: Open-Source US Immigration Detention Dashboard",
       "https://www.openice.org/"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 19:16:07",
+      "https://news.ycombinator.com/item?id=44552730"
+    ],
+    [
+      "The Gottorf Globe and its reconstruction",
+      "https://gottorfer-globus.de/en/the-gottorf-globe"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-07-13, 02:47:00",
-      "https://news.ycombinator.com/item?id=44547089"
-    ],
-    [
-      "Edward Burtynsky's monumental chronicle of the human impact on the planet",
-      "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 01:12:37",
       "https://news.ycombinator.com/item?id=44546640"
     ],
@@ -207,16 +217,6 @@
     [
       "Bypassing Google's big anti-adblock update",
       "https://0x44.xyz/blog/web-request-blocking/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 15:11:24",
-      "https://news.ycombinator.com/item?id=44533044"
-    ],
-    [
-      "Switching to Claude Code and VSCode Inside Docker",
-      "https://timsh.org/claude-inside-docker/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-07-10, 09:00:39",
+      "https://news.ycombinator.com/item?id=44518879"
+    ],
+    [
+      "Experience the Ultimate Sand Blast Block Puzzle – Play Now",
+      "https://sand-blast-block-puzzle.com"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 05:39:46",
       "https://news.ycombinator.com/item?id=44517649"
     ],
@@ -287,16 +297,6 @@
     [
       "The upcoming GPT-3 moment for RL",
       "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 08:07:23",
-      "https://news.ycombinator.com/item?id=44507405"
-    ],
-    [
-      "Parse, Don’t Validate – Some C Safety Tips",
-      "https://www.lelanthran.com/chap13/content.html"
     ]
   ]
 ]
