@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 20:44:32",
+      "https://news.ycombinator.com/item?id=44553574"
+    ],
+    [
+      "Are a few people ruining the internet for the rest of us?",
+      "https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 20:23:37",
       "https://news.ycombinator.com/item?id=44553389"
     ],
@@ -17,16 +27,6 @@
     [
       "Holographic ribbon aims to oust magnetic tape with 50-year life span and 200TB",
       "https://www.tomshardware.com/pc-components/storage/holographic-ribbon-aims-to-oust-magnetic-tape-with-50-year-life-span-and-200tb-capacity-per-cartridge-holomem-says-optical-ribbon-based-carts-work-with-some-components-of-existing-systems-reducing-fricition"
-    ]
-  ],
-  [
-    [
-      "2025-07-13, 19:39:53",
-      "https://news.ycombinator.com/item?id=44552966"
-    ],
-    [
-      "OpenICE: Open-Source US Immigration Detention Dashboard",
-      "https://www.openice.org/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44551913"
     ],
     [
-      "Does Showing Seconds in the System Tray Use More Power?",
+      "Does showing seconds in the system tray actually use more power?",
       "https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-07-13, 15:30:29",
+      "https://news.ycombinator.com/item?id=44551109"
+    ],
+    [
+      "Fine dining restaurants researching guests to make their dinner unforgettable",
+      "https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 14:09:06",
       "https://news.ycombinator.com/item?id=44550572"
     ],
@@ -141,22 +151,22 @@
   ],
   [
     [
+      "2025-07-13, 12:06:34",
+      "https://news.ycombinator.com/item?id=44549762"
+    ],
+    [
+      "The North Korean fake IT worker problem is ubiquitous",
+      "https://www.theregister.com/2025/07/13/fake_it_worker_problem/"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 10:25:18",
       "https://news.ycombinator.com/item?id=44549145"
     ],
     [
       "The Decipherment of the Dhofari Script",
       "https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered"
-    ]
-  ],
-  [
-    [
-      "2025-07-13, 10:23:38",
-      "https://news.ycombinator.com/item?id=44549134"
-    ],
-    [
-      "Gaming cancer: How citizen science games could help cure disease",
-      "https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/"
     ]
   ],
   [
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2025-07-13, 08:38:52",
-      "https://news.ycombinator.com/item?id=44548610"
+      "2025-07-13, 08:16:02",
+      "https://news.ycombinator.com/item?id=44548503"
     ],
     [
-      "Let me pay for Firefox",
-      "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297"
+      "Lua beats MicroPython for embedded devs",
+      "https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs"
     ]
   ],
   [
@@ -191,22 +201,12 @@
   ],
   [
     [
-      "2025-07-13, 01:12:37",
-      "https://news.ycombinator.com/item?id=44546640"
+      "2025-07-13, 02:47:00",
+      "https://news.ycombinator.com/item?id=44547089"
     ],
     [
-      "Hacking Coroutines into C",
-      "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 23:03:41",
-      "https://news.ycombinator.com/item?id=44545949"
-    ],
-    [
-      "Zig's New Async I/O",
-      "https://kristoff.it/blog/zig-new-async-io/"
+      "Edward Burtynsky's monumental chronicle of the human impact on the planet",
+      "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-07-11, 02:00:10",
-      "https://news.ycombinator.com/item?id=44527739"
+      "2025-07-11, 14:27:42",
+      "https://news.ycombinator.com/item?id=44532527"
     ],
     [
-      "Chrome's hidden X-Browser-Validation header reverse engineered",
-      "https://github.com/dsekz/chrome-x-browser-validation-header"
+      "C3 solved memory lifetimes with scopes",
+      "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "How to scale RL to 10^26 FLOPs",
       "https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 13:54:53",
+      "https://news.ycombinator.com/item?id=44521138"
+    ],
+    [
+      "Boxtype–Devlog (Part 1)",
+      "https://inconvergent.net/2025/boxtype-devlog/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The upcoming GPT-3 moment for RL",
       "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 08:07:23",
-      "https://news.ycombinator.com/item?id=44507405"
-    ],
-    [
-      "Parse, Don’t Validate – Some C Safety Tips",
-      "https://www.lelanthran.com/chap13/content.html"
     ]
   ]
 ]
