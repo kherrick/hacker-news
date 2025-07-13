@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 19:58:24](https://news.ycombinator.com/item?id=44553157) - [Holographic ribbon aims to oust magnetic tape with 50-year life span and 200TB](https://www.tomshardware.com/pc-components/storage/holographic-ribbon-aims-to-oust-magnetic-tape-with-50-year-life-span-and-200tb-capacity-per-cartridge-holomem-says-optical-ribbon-based-carts-work-with-some-components-of-existing-systems-reducing-fricition)
 * [2025-07-13, 19:39:53](https://news.ycombinator.com/item?id=44552966) - [OpenICE: Open-Source US Immigration Detention Dashboard](https://www.openice.org/)
+* [2025-07-13, 19:16:07](https://news.ycombinator.com/item?id=44552730) - [The Gottorf Globe and its reconstruction](https://gottorfer-globus.de/en/the-gottorf-globe)
 * [2025-07-13, 19:00:44](https://news.ycombinator.com/item?id=44552611) - [Amazon CEO says AI agents will soon reduce company's corporate workforce](https://www.cbsnews.com/news/amazon-ceo-generative-ai-corporate-workforce/)
 * [2025-07-13, 18:31:47](https://news.ycombinator.com/item?id=44552414) - [GLP-1s Are Breaking Life Insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
 * [2025-07-13, 18:28:14](https://news.ycombinator.com/item?id=44552389) - ['Europe Must Ban American Big Tech and Create a European Silicon Valley'](https://www.tilburguniversity.edu/magazine/overview/europe-must-ban-american-big-tech-and-create-a-european-silicon-valley)

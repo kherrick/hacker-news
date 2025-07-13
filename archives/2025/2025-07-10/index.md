@@ -60,6 +60,7 @@
 * [2025-07-10, 09:48:09](https://news.ycombinator.com/item?id=44519175) - [Computer Scientists Figure Out How to Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-10, 09:27:02](https://news.ycombinator.com/item?id=44519034) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 * [2025-07-10, 09:02:51](https://news.ycombinator.com/item?id=44518898) - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
+* [2025-07-10, 09:00:39](https://news.ycombinator.com/item?id=44518879) - [Experience the Ultimate Sand Blast Block Puzzle – Play Now](https://sand-blast-block-puzzle.com)
 * [2025-07-10, 07:55:01](https://news.ycombinator.com/item?id=44518473) - [Kite – News App by Kagi](https://kite.kagi.com/)
 * [2025-07-10, 07:42:58](https://news.ycombinator.com/item?id=44518381) - [Large-scale DNA study maps 37,000 years of human disease history](https://www.cam.ac.uk/research/news/large-scale-dna-study-maps-37000-years-of-human-disease-history)
 * [2025-07-10, 07:24:30](https://news.ycombinator.com/item?id=44518269) - [\"Ripples They Cause in the World\"](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
