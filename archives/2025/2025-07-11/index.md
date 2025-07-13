@@ -54,6 +54,7 @@
 * [2025-07-11, 08:51:17](https://news.ycombinator.com/item?id=44529812) - [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/)
 * [2025-07-11, 08:42:45](https://news.ycombinator.com/item?id=44529747) - [Slack's 57MB 404 page](https://a.slack.com/archives/b/c)
 * [2025-07-11, 07:56:04](https://news.ycombinator.com/item?id=44529456) - [Why Is Fertility So Low in High Income Countries? (NBER)](https://www.nber.org/papers/w33989)
+* [2025-07-11, 07:27:47](https://news.ycombinator.com/item?id=44529274) - [C++: Maps on Chains](http://bannalia.blogspot.com/2025/07/maps-on-chains.html)
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [2025-07-11, 06:32:07](https://news.ycombinator.com/item?id=44528966) - [GenAI Processors: Build powerful and flexible Gemini applications](https://developers.googleblog.com/en/genai-processors/)
 * [2025-07-11, 06:27:19](https://news.ycombinator.com/item?id=44528943) - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
