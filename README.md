@@ -2,8 +2,6 @@
 
 * [2025-07-13, 01:25:53](https://news.ycombinator.com/item?id=44546707) - [A.I. Is Making Sure You Pay for That Ding on Your Rental Car](https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html)
 * [2025-07-13, 01:12:37](https://news.ycombinator.com/item?id=44546640) - [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
-* [2025-07-13, 01:02:35](https://news.ycombinator.com/item?id=44546583) - [Banned Filipino fishermen documentary can be seen in NZ](https://www.rnz.co.nz/life/screens/movies/banned-filipino-fishermen-documentary-can-be-seen-in-nz)
-* [2025-07-13, 00:51:58](https://news.ycombinator.com/item?id=44546533) - [Startup just hit a big milestone for green steel production](https://www.technologyreview.com/2025/03/12/1113130/green-steel-boston-metal/)
 * [2025-07-13, 00:29:21](https://news.ycombinator.com/item?id=44546422) - [MoonPay executives may have sent $250k to Nigerian scammer](https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests)
 * [2025-07-12, 23:03:41](https://news.ycombinator.com/item?id=44545949) - [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
 * [2025-07-12, 22:48:14](https://news.ycombinator.com/item?id=44545858) - [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
@@ -25,6 +23,8 @@
 * [2025-07-11, 22:57:25](https://news.ycombinator.com/item?id=44537631) - [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
 * [2025-07-11, 21:35:31](https://news.ycombinator.com/item?id=44536988) - [OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
 * [2025-07-11, 20:23:18](https://news.ycombinator.com/item?id=44536459) - [Preliminary report into Air India crash released](https://www.bbc.co.uk/news/live/cx20p2x9093t)
+* [2025-07-11, 15:11:24](https://news.ycombinator.com/item?id=44533044) - [Switching to Claude Code and VSCode Inside Docker](https://timsh.org/claude-inside-docker/)
+* [2025-07-11, 02:00:10](https://news.ycombinator.com/item?id=44527739) - [Chrome's hidden X-Browser-Validation header reverse engineered](https://github.com/dsekz/chrome-x-browser-validation-header)
 * [2025-07-10, 11:59:35](https://news.ycombinator.com/item?id=44520000) - [HNSW as abstract data structure: video intro to Redis vector sets](https://www.youtube.com/watch?v=kVApsFUeuEA)
 * [2025-07-09, 22:10:37](https://news.ycombinator.com/item?id=44515210) - [Two-step system makes plastic from carbon dioxide, water and electricity](https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html)
 * [2025-07-09, 11:14:14](https://news.ycombinator.com/item?id=44508580) - [Second Variety, by Philip K. Dick (1953)](https://www.gutenberg.org/files/32032/32032-h/32032-h.htm)
