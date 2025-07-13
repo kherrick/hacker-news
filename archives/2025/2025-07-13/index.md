@@ -6,6 +6,7 @@
 
 * [2025-07-13, 19:00:44](https://news.ycombinator.com/item?id=44552611) - [Amazon CEO says AI agents will soon reduce company's corporate workforce](https://www.cbsnews.com/news/amazon-ceo-generative-ai-corporate-workforce/)
 * [2025-07-13, 18:31:47](https://news.ycombinator.com/item?id=44552414) - [GLP-1s Are Breaking Life Insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
+* [2025-07-13, 18:28:14](https://news.ycombinator.com/item?id=44552389) - ['Europe Must Ban American Big Tech and Create a European Silicon Valley'](https://www.tilburguniversity.edu/magazine/overview/europe-must-ban-american-big-tech-and-create-a-european-silicon-valley)
 * [2025-07-13, 18:24:53](https://news.ycombinator.com/item?id=44552362) - [Hungary's oldest library fighting to save 100k books from a beetle infestation](https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539)
 * [2025-07-13, 18:05:15](https://news.ycombinator.com/item?id=44552222) - [Strap In, Vision Pro Owners](https://spiral.spyglass.org/p/strap-in-vision-pro-owners)
 * [2025-07-13, 17:47:08](https://news.ycombinator.com/item?id=44552095) - [Most people who buy games on Steam never play them](https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/)
