@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 23:21:21](https://news.ycombinator.com/item?id=44554713) - [Investors bought 27% of US homes in Q1, as traditional buyers struggle to afford](https://abcnews.go.com/Business/wireStory/investors-snap-growing-share-us-homes-traditional-buyers-123560969)
 * [2025-07-13, 22:22:15](https://news.ycombinator.com/item?id=44554307) - [Let's Learn x86-64 Assembly Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
 * [2025-07-13, 21:35:32](https://news.ycombinator.com/item?id=44553949) - [Traditional Chinese Medicine Has Not Been Vindicated by Science](https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science)
 * [2025-07-13, 21:08:47](https://news.ycombinator.com/item?id=44553752) - [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
