@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 13:12:20](https://news.ycombinator.com/item?id=44550210) - [Who Goes MAGA?](https://www.techdirt.com/2025/07/08/who-goes-maga/)
 * [2025-07-13, 12:34:33](https://news.ycombinator.com/item?id=44549953) - [Ursula K. Le Guin: Still Battling the Powers That Be](https://www.wired.com/2012/07/geeks-guide-ursula-k-le-guin/)
 * [2025-07-13, 12:06:34](https://news.ycombinator.com/item?id=44549762) - [You have a fake North Korean IT worker problem](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
 * [2025-07-13, 11:15:12](https://news.ycombinator.com/item?id=44549436) - [AI coding tools make developers slower but they think they're faster study finds](https://www.theregister.com/2025/07/11/ai_code_tools_slow_down/)

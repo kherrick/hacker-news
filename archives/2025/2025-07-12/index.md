@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 23:55:39](https://news.ycombinator.com/item?id=44546265) - [Show HN: ArchGW – an intelligent edge and service proxy for agents](https://news.ycombinator.com/item?id=44546265)
 * [2025-07-12, 23:03:41](https://news.ycombinator.com/item?id=44545949) - [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
 * [2025-07-12, 22:48:14](https://news.ycombinator.com/item?id=44545858) - [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
 * [2025-07-12, 22:42:56](https://news.ycombinator.com/item?id=44545823) - [He became the first Black mayor of a town. A white minority locked him out](https://www.theguardian.com/us-news/2023/aug/26/black-mayor-alabama-town-locked-out)
