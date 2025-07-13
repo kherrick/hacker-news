@@ -48,6 +48,7 @@
 * [2025-07-10, 12:49:21](https://news.ycombinator.com/item?id=44520419) - [FOKS: The Federated Open Key Service](https://foks.pub/)
 * [2025-07-10, 12:36:06](https://news.ycombinator.com/item?id=44520297) - [The Birth-Rate Crisis Isn't as Bad as You've Heard–It's Worse](https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/)
 * [2025-07-10, 12:35:21](https://news.ycombinator.com/item?id=44520292) - [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
+* [2025-07-10, 12:26:32](https://news.ycombinator.com/item?id=44520218) - [Programming Affordances That Invite Mistakes](https://thetechenabler.substack.com/p/programming-affordance-when-a-languages)
 * [2025-07-10, 12:12:05](https://news.ycombinator.com/item?id=44520105) - [YouTube prepares crackdown on mass-produced videos as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/)
 * [2025-07-10, 11:59:35](https://news.ycombinator.com/item?id=44520000) - [HNSW as abstract data structure: video intro to Redis vector sets](https://www.youtube.com/watch?v=kVApsFUeuEA)
 * [2025-07-10, 11:12:53](https://news.ycombinator.com/item?id=44519665) - [Browser extensions turn nearly 1M browsers into website-scraping bots](https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/)
