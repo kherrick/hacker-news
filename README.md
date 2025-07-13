@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-13, 13:03:13](https://news.ycombinator.com/item?id=44550157) - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
 * [2025-07-13, 12:06:34](https://news.ycombinator.com/item?id=44549762) - [The North Korean fake IT worker problem is ubiquitous](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
 * [2025-07-13, 10:25:18](https://news.ycombinator.com/item?id=44549145) - [The Decipherment of the Dhofari Script](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
 * [2025-07-13, 10:23:38](https://news.ycombinator.com/item?id=44549134) - [Gaming cancer: How citizen science games could help cure disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
@@ -16,7 +17,6 @@
 * [2025-07-12, 16:45:45](https://news.ycombinator.com/item?id=44543240) - [Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python](https://inventwithpython.com/blog/lost-av-chapter.html)
 * [2025-07-12, 12:25:28](https://news.ycombinator.com/item?id=44541576) - [The fish kick may be the fastest subsurface swim stroke yet (2015)](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
 * [2025-07-12, 08:45:15](https://news.ycombinator.com/item?id=44540402) - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
-* [2025-07-12, 08:14:02](https://news.ycombinator.com/item?id=44540241) - [New Date(\"wtf\") – How well do you know JavaScript's Date class?](https://jsdate.wtf)
 * [2025-07-11, 15:38:58](https://news.ycombinator.com/item?id=44533403) - [Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
 * [2025-07-11, 15:11:24](https://news.ycombinator.com/item?id=44533044) - [Switching to Claude Code and VSCode Inside Docker](https://timsh.org/claude-inside-docker/)
 * [2025-07-11, 14:27:42](https://news.ycombinator.com/item?id=44532527) - [Forget borrow checkers: C3 solved memory lifetimes with scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
