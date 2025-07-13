@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-13, 15:30:29](https://news.ycombinator.com/item?id=44551109) - [Bay Area restaurants are vetting your social media before you even walk in](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
+* [2025-07-13, 17:00:57](https://news.ycombinator.com/item?id=44551784) - [Infisical (YC W23) Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
+* [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
 * [2025-07-13, 14:09:06](https://news.ycombinator.com/item?id=44550572) - [How does a screen even work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
 * [2025-07-13, 13:48:49](https://news.ycombinator.com/item?id=44550450) - [Local Chatbot RAG with FreeBSD Knowledge](https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/)
 * [2025-07-13, 13:03:13](https://news.ycombinator.com/item?id=44550157) - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
@@ -19,7 +20,6 @@
 * [2025-07-12, 16:45:45](https://news.ycombinator.com/item?id=44543240) - [Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python](https://inventwithpython.com/blog/lost-av-chapter.html)
 * [2025-07-11, 17:23:57](https://news.ycombinator.com/item?id=44534809) - [A Mental Model for C++ Coroutine](https://uvdn7.github.io/cpp-coro/)
 * [2025-07-11, 15:11:24](https://news.ycombinator.com/item?id=44533044) - [Switching to Claude Code and VSCode Inside Docker](https://timsh.org/claude-inside-docker/)
-* [2025-07-11, 14:27:42](https://news.ycombinator.com/item?id=44532527) - [Forget borrow checkers: C3 solved memory lifetimes with scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
 * [2025-07-11, 07:27:47](https://news.ycombinator.com/item?id=44529274) - [C++: Maps on Chains](http://bannalia.blogspot.com/2025/07/maps-on-chains.html)
 * [2025-07-11, 02:00:10](https://news.ycombinator.com/item?id=44527739) - [Chrome's hidden X-Browser-Validation header reverse engineered](https://github.com/dsekz/chrome-x-browser-validation-header)
 * [2025-07-11, 00:21:16](https://news.ycombinator.com/item?id=44527172) - [Axon's Draft One AI Police Report Generator Is Designed to Defy Transparency](https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency)
