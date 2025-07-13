@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-13, 18:31:47](https://news.ycombinator.com/item?id=44552414) - [GLP-1s Are Breaking Life Insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
+* [2025-07-13, 18:24:53](https://news.ycombinator.com/item?id=44552362) - [Hungary's oldest library fighting to save 100k books from a beetle infestation](https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539)
 * [2025-07-13, 18:05:15](https://news.ycombinator.com/item?id=44552222) - [Strap In, Vision Pro Owners](https://spiral.spyglass.org/p/strap-in-vision-pro-owners)
+* [2025-07-13, 17:47:08](https://news.ycombinator.com/item?id=44552095) - [Most people who buy games on Steam never play them](https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/)
 * [2025-07-13, 17:18:20](https://news.ycombinator.com/item?id=44551913) - [Does Showing Seconds in the System Tray Use More Power?](https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power)
-* [2025-07-13, 17:08:16](https://news.ycombinator.com/item?id=44551842) - ['I felt pure, unconditional love': the people who marry their AI chatbots](https://www.theguardian.com/tv-and-radio/2025/jul/12/i-felt-pure-unconditional-love-the-people-who-marry-their-ai-chatbots)
 * [2025-07-13, 17:00:57](https://news.ycombinator.com/item?id=44551784) - [Infisical (YC W23) Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
 * [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
 * [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A Technical Look at Iran's Internet Shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
@@ -28,8 +30,6 @@
 * [2025-07-10, 05:39:46](https://news.ycombinator.com/item?id=44517649) - [The Robot Sculptors of Italy](https://www.bloomberg.com/features/2025-robot-sculptors-marble/)
 * [2025-07-09, 23:32:53](https://news.ycombinator.com/item?id=44515783) - [Notes on Graham's ANSI Common Lisp (2024)](https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html)
 * [2025-07-09, 16:59:30](https://news.ycombinator.com/item?id=44512350) - [The upcoming GPT-3 moment for RL](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/)
-* [2025-07-09, 09:33:57](https://news.ycombinator.com/item?id=44507931) - [Experimental imperative-style music sequence generator engine](https://github.com/renoise/pattrns)
-* [2025-07-09, 08:07:23](https://news.ycombinator.com/item?id=44507405) - [Parse, Don’t Validate – Some C Safety Tips](https://www.lelanthran.com/chap13/content.html)
 
 ## [Archives](archives/index.md)
 
