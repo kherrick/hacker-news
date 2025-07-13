@@ -16,6 +16,7 @@
 * [2025-07-13, 17:18:20](https://news.ycombinator.com/item?id=44551913) - [Does Showing Seconds in the System Tray Use More Power?](https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power)
 * [2025-07-13, 17:08:16](https://news.ycombinator.com/item?id=44551842) - ['I felt pure, unconditional love': the people who marry their AI chatbots](https://www.theguardian.com/tv-and-radio/2025/jul/12/i-felt-pure-unconditional-love-the-people-who-marry-their-ai-chatbots)
 * [2025-07-13, 17:00:57](https://news.ycombinator.com/item?id=44551784) - [Infisical (YC W23) Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
+* [2025-07-13, 16:59:59](https://news.ycombinator.com/item?id=44551777) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
 * [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
 * [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A Technical Look at Iran's Internet Shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
 * [2025-07-13, 15:30:29](https://news.ycombinator.com/item?id=44551109) - [Bay Area restaurants are vetting your social media before you even walk in](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
