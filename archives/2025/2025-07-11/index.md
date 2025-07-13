@@ -21,6 +21,7 @@
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
 * [2025-07-11, 18:41:14](https://news.ycombinator.com/item?id=44535604) - [Google nerfs Pixel 6a batteries following fire hazard](https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/)
 * [2025-07-11, 17:47:36](https://news.ycombinator.com/item?id=44535078) - [Show HN: RULER – Easily apply RL to any agent](https://openpipe.ai/blog/ruler)
+* [2025-07-11, 17:23:57](https://news.ycombinator.com/item?id=44534809) - [A Mental Model for C++ Coroutine](https://uvdn7.github.io/cpp-coro/)
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-11, 16:28:05](https://news.ycombinator.com/item?id=44534104) - [U.S. abandons hunt for signal of cosmic inflation](https://www.science.org/content/article/u-s-abandons-hunt-signal-cosmic-inflation)
 * [2025-07-11, 16:19:13](https://news.ycombinator.com/item?id=44533982) - [Pa. House passes 'click-to-cancel' subscription bills](https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html)

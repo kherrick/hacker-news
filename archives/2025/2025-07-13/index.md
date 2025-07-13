@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 15:07:51](https://news.ycombinator.com/item?id=44550964) - [Iranian official claims Israel used 'occult and supernatural spirits' during war](https://www.jpost.com/middle-east/iran-news/article-860798)
 * [2025-07-13, 13:12:20](https://news.ycombinator.com/item?id=44550210) - [Who Goes MAGA?](https://www.techdirt.com/2025/07/08/who-goes-maga/)
 * [2025-07-13, 13:03:13](https://news.ycombinator.com/item?id=44550157) - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
 * [2025-07-13, 12:34:33](https://news.ycombinator.com/item?id=44549953) - [Ursula K. Le Guin: Still Battling the Powers That Be](https://www.wired.com/2012/07/geeks-guide-ursula-k-le-guin/)
