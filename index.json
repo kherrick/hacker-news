@@ -1,22 +1,32 @@
 [
   [
     [
-      "2025-07-13, 11:07:32",
-      "https://news.ycombinator.com/item?id=44549411"
+      "2025-07-13, 12:34:33",
+      "https://news.ycombinator.com/item?id=44549953"
     ],
     [
-      "Drones Are Key to Winning Wars Now. The U.S. Makes Hardly Any",
-      "https://www.nytimes.com/2025/07/13/business/drones-us-military-manufacturing-lags.html"
+      "Ursula K. Le Guin: Still Battling the Powers That Be",
+      "https://www.wired.com/2012/07/geeks-guide-ursula-k-le-guin/"
     ]
   ],
   [
     [
-      "2025-07-13, 10:36:28",
-      "https://news.ycombinator.com/item?id=44549209"
+      "2025-07-13, 12:06:34",
+      "https://news.ycombinator.com/item?id=44549762"
     ],
     [
-      "Show HN: I built an LLM chat app because we shouldn't need 10 AI subscriptions",
-      "https://prismharmony.com/chat"
+      "You have a fake North Korean IT worker problem",
+      "https://www.theregister.com/2025/07/13/fake_it_worker_problem/"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 10:25:18",
+      "https://news.ycombinator.com/item?id=44549145"
+    ],
+    [
+      "Mysterious pre-Islamic script from Oman finally deciphered",
+      "https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Let Me Pay for Firefox",
       "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 08:16:02",
+      "https://news.ycombinator.com/item?id=44548503"
+    ],
+    [
+      "Why Lua Beats MicroPython for Serious Embedded Devs",
+      "https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs"
     ]
   ],
   [
@@ -107,26 +127,6 @@
     [
       "Bypassing Google's big anti-adblock update",
       "https://0x44.xyz/blog/web-request-blocking/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 18:21:33",
-      "https://news.ycombinator.com/item?id=44543913"
-    ],
-    [
-      "A better Ghidra MCP server – GhidrAssistMCP",
-      "https://github.com/jtang613/GhidrAssistMCP"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 17:41:44",
-      "https://news.ycombinator.com/item?id=44543638"
-    ],
-    [
-      "Show HN: I made a JSFiddle-style playground to test and share prompts fast",
-      "https://langfa.st/"
     ]
   ],
   [
