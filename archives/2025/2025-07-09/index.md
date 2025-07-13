@@ -57,6 +57,7 @@
 * [2025-07-09, 11:14:14](https://news.ycombinator.com/item?id=44508580) - [Second Variety, by Philip K. Dick](https://www.gutenberg.org/files/32032/32032-h/32032-h.htm)
 * [2025-07-09, 09:59:48](https://news.ycombinator.com/item?id=44508068) - [Context Engineering Guide](https://nlp.elvissaravia.com/p/context-engineering-guide)
 * [2025-07-09, 09:42:17](https://news.ycombinator.com/item?id=44507971) - [IKEA ditches Zigbee for Thread going all in on Matter smart homes](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
+* [2025-07-09, 09:33:57](https://news.ycombinator.com/item?id=44507931) - [Experimental imperative-style music sequence generator engine](https://github.com/renoise/pattrns)
 * [2025-07-09, 09:29:16](https://news.ycombinator.com/item?id=44507919) - [From AI to Agents to Agencies](https://blog.nishantsoni.com/p/from-ai-to-agents-to-agencies-the)
 * [2025-07-09, 09:18:06](https://news.ycombinator.com/item?id=44507854) - [Astro is a return to the fundamentals of the web](https://websmith.studio/blog/astro-is-a-developers-dream/)
 * [2025-07-09, 09:13:10](https://news.ycombinator.com/item?id=44507830) - [ESIM Security](https://security-explorations.com/esim-security.html)

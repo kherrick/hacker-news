@@ -7,6 +7,7 @@
 * [2025-07-12, 23:03:41](https://news.ycombinator.com/item?id=44545949) - [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
 * [2025-07-12, 22:48:14](https://news.ycombinator.com/item?id=44545858) - [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
 * [2025-07-12, 22:42:56](https://news.ycombinator.com/item?id=44545823) - [He became the first Black mayor of a town. A white minority locked him out](https://www.theguardian.com/us-news/2023/aug/26/black-mayor-alabama-town-locked-out)
+* [2025-07-12, 20:25:18](https://news.ycombinator.com/item?id=44544862) - [Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/aeron-io/aeron)
 * [2025-07-12, 19:38:25](https://news.ycombinator.com/item?id=44544518) - [Nodegram](https://nodegram.org/)
 * [2025-07-12, 19:22:40](https://news.ycombinator.com/item?id=44544388) - ['Starter packs' have played a central role in Bluesky's rapid growth](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp)
 * [2025-07-12, 19:20:31](https://news.ycombinator.com/item?id=44544367) - [I Messed Up My Google PM Vibe Coding Interview](https://old.reddit.com/r/ProductManagement/comments/1lw9r9h/i_messed_up_my_google_pm_vibe_coding_interview/)

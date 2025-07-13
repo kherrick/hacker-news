@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 04:33:44](https://news.ycombinator.com/item?id=44547538) - [Nuclear Explosion for Carbon Sequestration](https://arxiv.org/abs/2501.06623)
 * [2025-07-13, 04:12:57](https://news.ycombinator.com/item?id=44547433) - [New Windows 11 build adds self-healing \"quick machine recovery\" feature](https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/)
 * [2025-07-13, 02:47:00](https://news.ycombinator.com/item?id=44547089) - [Edward Burtynsky's monumental chronicle of the human impact on the planet](https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale)
 * [2025-07-13, 01:25:53](https://news.ycombinator.com/item?id=44546707) - [A.I. Is Making Sure You Pay for That Ding on Your Rental Car](https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html)
