@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-13, 18:05:15",
+      "https://news.ycombinator.com/item?id=44552222"
+    ],
+    [
+      "Strap In, Vision Pro Owners",
+      "https://spiral.spyglass.org/p/strap-in-vision-pro-owners"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 17:18:20",
       "https://news.ycombinator.com/item?id=44551913"
     ],
     [
       "Does Showing Seconds in the System Tray Use More Power?",
       "https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 17:08:16",
+      "https://news.ycombinator.com/item?id=44551842"
+    ],
+    [
+      "'I felt pure, unconditional love': the people who marry their AI chatbots",
+      "https://www.theguardian.com/tv-and-radio/2025/jul/12/i-felt-pure-unconditional-love-the-people-who-marry-their-ai-chatbots"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Show HN: A Raycast-compatible launcher for Linux",
       "https://github.com/ByteAtATime/raycast-linux"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 16:45:02",
+      "https://news.ycombinator.com/item?id=44551652"
+    ],
+    [
+      "A Technical Look at Iran's Internet Shutdowns",
+      "https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown"
     ]
   ],
   [
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2025-07-13, 02:47:00",
-      "https://news.ycombinator.com/item?id=44547089"
-    ],
-    [
-      "Edward Burtynsky's monumental chronicle of the human impact on the planet",
-      "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 01:12:37",
       "https://news.ycombinator.com/item?id=44546640"
     ],
     [
       "Hacking Coroutines into C",
       "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 23:55:39",
-      "https://news.ycombinator.com/item?id=44546265"
-    ],
-    [
-      "Show HN: ArchGW – an intelligent edge and service proxy for agents",
-      "https://news.ycombinator.com/item?id=44546265"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-07-12, 16:45:45",
-      "https://news.ycombinator.com/item?id=44543240"
-    ],
-    [
-      "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
-      "https://inventwithpython.com/blog/lost-av-chapter.html"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 17:23:57",
       "https://news.ycombinator.com/item?id=44534809"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-07-11, 07:27:47",
-      "https://news.ycombinator.com/item?id=44529274"
-    ],
-    [
-      "C++: Maps on Chains",
-      "http://bannalia.blogspot.com/2025/07/maps-on-chains.html"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 02:00:10",
       "https://news.ycombinator.com/item?id=44527739"
     ],
@@ -227,6 +217,16 @@
     [
       "Axon's Draft One AI Police Report Generator Is Designed to Defy Transparency",
       "https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 14:28:04",
+      "https://news.ycombinator.com/item?id=44521500"
+    ],
+    [
+      "Multi-Player Durable Stream Playground",
+      "https://s2.dev/playground"
     ]
   ],
   [
