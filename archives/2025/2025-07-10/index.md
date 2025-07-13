@@ -51,6 +51,7 @@
 * [2025-07-10, 12:26:32](https://news.ycombinator.com/item?id=44520218) - [Programming Affordances That Invite Mistakes](https://thetechenabler.substack.com/p/programming-affordance-when-a-languages)
 * [2025-07-10, 12:12:05](https://news.ycombinator.com/item?id=44520105) - [YouTube prepares crackdown on mass-produced videos as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/)
 * [2025-07-10, 11:59:35](https://news.ycombinator.com/item?id=44520000) - [HNSW as abstract data structure: video intro to Redis vector sets](https://www.youtube.com/watch?v=kVApsFUeuEA)
+* [2025-07-10, 11:28:04](https://news.ycombinator.com/item?id=44519776) - [Monitoring My Homelab, Simply](https://b.tuxes.uk/simple-homelab-monitoring.html)
 * [2025-07-10, 11:12:53](https://news.ycombinator.com/item?id=44519665) - [Browser extensions turn nearly 1M browsers into website-scraping bots](https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/)
 * [2025-07-10, 11:10:49](https://news.ycombinator.com/item?id=44519651) - [At last, a use case for AI agents with sky-high ROI: Stealing crypto](https://www.theregister.com/2025/07/10/ai_agents_automatically_steal_cryptocurrency/)
 * [2025-07-10, 10:59:06](https://news.ycombinator.com/item?id=44519596) - [Magic .env files built for sharing: Human-first, AI-friendly](https://varlock.dev/)
