@@ -1,21 +1,11 @@
 [
   [
     [
-      "2025-07-13, 13:12:20",
-      "https://news.ycombinator.com/item?id=44550210"
-    ],
-    [
-      "Who Goes MAGA?",
-      "https://www.techdirt.com/2025/07/08/who-goes-maga/"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 12:06:34",
       "https://news.ycombinator.com/item?id=44549762"
     ],
     [
-      "You have a fake North Korean IT worker problem",
+      "The North Korean fake IT worker problem is ubiquitous",
       "https://www.theregister.com/2025/07/13/fake_it_worker_problem/"
     ]
   ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44549145"
     ],
     [
-      "Mysterious pre-Islamic script from Oman finally deciphered",
+      "The Decipherment of the Dhofari Script",
       "https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44548503"
     ],
     [
-      "Why Lua Beats MicroPython for Serious Embedded Devs",
+      "Lua beats MicroPython for serious embedded devs",
       "https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs"
     ]
   ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2025-07-12, 08:14:02",
+      "https://news.ycombinator.com/item?id=44540241"
+    ],
+    [
+      "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
+      "https://jsdate.wtf"
+    ]
+  ],
+  [
+    [
       "2025-07-11, 15:38:58",
       "https://news.ycombinator.com/item?id=44533403"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=44520000"
     ],
     [
-      "HNSW as abstract data structure: video intro to Redis vector sets",
+      "HNSW as abstract data structure: video intro to Redis vector sets [video]",
       "https://www.youtube.com/watch?v=kVApsFUeuEA"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=44515783"
     ],
     [
-      "Notes on Graham's ANSI Common Lisp",
+      "Notes on Graham's ANSI Common Lisp (2024)",
       "https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=44507405"
     ],
     [
-      "Parse, Don't Validate (For C)",
+      "Parse, Don’t Validate – Some C Safety Tips",
       "https://www.lelanthran.com/chap13/content.html"
     ]
   ]
