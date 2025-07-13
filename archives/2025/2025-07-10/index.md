@@ -61,6 +61,7 @@
 * [2025-07-10, 07:55:01](https://news.ycombinator.com/item?id=44518473) - [Kite – News App by Kagi](https://kite.kagi.com/)
 * [2025-07-10, 07:42:58](https://news.ycombinator.com/item?id=44518381) - [Large-scale DNA study maps 37,000 years of human disease history](https://www.cam.ac.uk/research/news/large-scale-dna-study-maps-37000-years-of-human-disease-history)
 * [2025-07-10, 07:24:30](https://news.ycombinator.com/item?id=44518269) - [\"Ripples They Cause in the World\"](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
+* [2025-07-10, 06:53:06](https://news.ycombinator.com/item?id=44518078) - [The Polyhedral Perspective](https://publicdomainreview.org/essay/polyhedral-perspective/)
 * [2025-07-10, 06:28:41](https://news.ycombinator.com/item?id=44517927) - [I made a parody of enterprise AI chatbots](https://github.com/muratcanozdemir/chatgpt-parody)
 * [2025-07-10, 05:39:46](https://news.ycombinator.com/item?id=44517649) - [The Robot Sculptors of Italy](https://www.bloomberg.com/features/2025-robot-sculptors-marble/)
 * [2025-07-10, 05:06:05](https://news.ycombinator.com/item?id=44517424) - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
