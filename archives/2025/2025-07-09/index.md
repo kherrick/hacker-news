@@ -33,6 +33,7 @@
 * [2025-07-09, 17:26:50](https://news.ycombinator.com/item?id=44512684) - [Evolution Mail Users Easily Trackable](https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable)
 * [2025-07-09, 17:08:54](https://news.ycombinator.com/item?id=44512470) - [Configuring Split Horizon DNS with Pi-Hole and Tailscale](https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html)
 * [2025-07-09, 17:00:36](https://news.ycombinator.com/item?id=44512368) - [\"Just Fucking Ship It\" (Or: On Vibecoding)](https://coal.sh/blog/pandu_bad)
+* [2025-07-09, 16:59:30](https://news.ycombinator.com/item?id=44512350) - [The upcoming GPT-3 moment for RL](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/)
 * [2025-07-09, 16:58:50](https://news.ycombinator.com/item?id=44512336) - [Knowing Steam players are hoarders explains why you give Valve that 30%](https://www.pcgamer.com/gaming-industry/knowing-steam-players-are-hoarders-explains-why-you-give-valve-that-30-percent-analyst-tells-devs-you-get-access-to-a-bunch-of-drunken-sailors-who-spend-money-irresponsibly/)
 * [2025-07-09, 16:10:52](https://news.ycombinator.com/item?id=44511770) - [The Architecture Behind Lovable and Bolt](https://www.beam.cloud/blog/agentic-apps)
 * [2025-07-09, 16:06:03](https://news.ycombinator.com/item?id=44511722) - [Rice rebels: Research reveals grain's brewing benefits](https://phys.org/news/2025-06-rice-rebels-reveals-grain-brewing.html)
