@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 19:00:44",
+      "https://news.ycombinator.com/item?id=44552611"
+    ],
+    [
+      "Amazon CEO says AI agents will soon reduce company's corporate workforce",
+      "https://www.cbsnews.com/news/amazon-ceo-generative-ai-corporate-workforce/"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 18:31:47",
       "https://news.ycombinator.com/item?id=44552414"
     ],
@@ -67,6 +77,16 @@
     [
       "A Technical Look at Iran's Internet Shutdowns",
       "https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 15:17:41",
+      "https://news.ycombinator.com/item?id=44551026"
+    ],
+    [
+      "What are we missing out on when we think Transformer is unreasonable in biology?",
+      "https://dmf-archive.github.io/docs/posts/form-follows-function-2/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-07-11, 17:23:57",
-      "https://news.ycombinator.com/item?id=44534809"
-    ],
-    [
-      "A Mental Model for C++ Coroutine",
-      "https://uvdn7.github.io/cpp-coro/"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 15:11:24",
       "https://news.ycombinator.com/item?id=44533044"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-07-10, 14:28:04",
-      "https://news.ycombinator.com/item?id=44521500"
+      "2025-07-10, 20:47:34",
+      "https://news.ycombinator.com/item?id=44525405"
     ],
     [
-      "Multi-Player Durable Stream Playground",
-      "https://s2.dev/playground"
+      "How to scale RL to 10^26 FLOPs",
+      "https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Monitoring My Homelab, Simply",
       "https://b.tuxes.uk/simple-homelab-monitoring.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 06:53:06",
-      "https://news.ycombinator.com/item?id=44518078"
-    ],
-    [
-      "The Polyhedral Perspective",
-      "https://publicdomainreview.org/essay/polyhedral-perspective/"
     ]
   ],
   [
