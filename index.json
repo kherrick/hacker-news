@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2025-07-13, 01:02:35",
-      "https://news.ycombinator.com/item?id=44546583"
-    ],
-    [
-      "Banned Filipino fishermen documentary can be seen in NZ",
-      "https://www.rnz.co.nz/life/screens/movies/banned-filipino-fishermen-documentary-can-be-seen-in-nz"
-    ]
-  ],
-  [
-    [
-      "2025-07-13, 00:51:58",
-      "https://news.ycombinator.com/item?id=44546533"
-    ],
-    [
-      "Startup just hit a big milestone for green steel production",
-      "https://www.technologyreview.com/2025/03/12/1113130/green-steel-boston-metal/"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 00:29:21",
       "https://news.ycombinator.com/item?id=44546422"
     ],
@@ -247,6 +227,26 @@
     [
       "Preliminary report into Air India crash released",
       "https://www.bbc.co.uk/news/live/cx20p2x9093t"
+    ]
+  ],
+  [
+    [
+      "2025-07-11, 15:11:24",
+      "https://news.ycombinator.com/item?id=44533044"
+    ],
+    [
+      "Switching to Claude Code and VSCode Inside Docker",
+      "https://timsh.org/claude-inside-docker/"
+    ]
+  ],
+  [
+    [
+      "2025-07-11, 02:00:10",
+      "https://news.ycombinator.com/item?id=44527739"
+    ],
+    [
+      "Chrome's hidden X-Browser-Validation header reverse engineered",
+      "https://github.com/dsekz/chrome-x-browser-validation-header"
     ]
   ],
   [
