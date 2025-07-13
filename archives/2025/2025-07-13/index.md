@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 11:15:12](https://news.ycombinator.com/item?id=44549436) - [AI coding tools make developers slower but they think they're faster study finds](https://www.theregister.com/2025/07/11/ai_code_tools_slow_down/)
+* [2025-07-13, 11:07:32](https://news.ycombinator.com/item?id=44549411) - [Drones Are Key to Winning Wars Now. The U.S. Makes Hardly Any](https://www.nytimes.com/2025/07/13/business/drones-us-military-manufacturing-lags.html)
+* [2025-07-13, 10:36:28](https://news.ycombinator.com/item?id=44549209) - [Show HN: I built an LLM chat app because we shouldn't need 10 AI subscriptions](https://prismharmony.com/chat)
 * [2025-07-13, 10:23:38](https://news.ycombinator.com/item?id=44549134) - [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
 * [2025-07-13, 09:10:34](https://news.ycombinator.com/item?id=44548752) - [AGI Is Mathematically Impossible (3): Kolmogorov Complexity](https://news.ycombinator.com/item?id=44548752)
 * [2025-07-13, 08:38:52](https://news.ycombinator.com/item?id=44548610) - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
