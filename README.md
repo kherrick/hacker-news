@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-13, 15:07:51](https://news.ycombinator.com/item?id=44550964) - [Iranian official claims Israel used 'occult and supernatural spirits' during war](https://www.jpost.com/middle-east/iran-news/article-860798)
 * [2025-07-13, 13:03:13](https://news.ycombinator.com/item?id=44550157) - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
 * [2025-07-13, 12:06:34](https://news.ycombinator.com/item?id=44549762) - [The North Korean fake IT worker problem is ubiquitous](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
 * [2025-07-13, 10:25:18](https://news.ycombinator.com/item?id=44549145) - [The Decipherment of the Dhofari Script](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
@@ -16,6 +15,7 @@
 * [2025-07-12, 20:25:18](https://news.ycombinator.com/item?id=44544862) - [Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/aeron-io/aeron)
 * [2025-07-12, 19:06:09](https://news.ycombinator.com/item?id=44544266) - [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 * [2025-07-12, 16:45:45](https://news.ycombinator.com/item?id=44543240) - [Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python](https://inventwithpython.com/blog/lost-av-chapter.html)
+* [2025-07-12, 12:25:28](https://news.ycombinator.com/item?id=44541576) - [The fish kick may be the fastest subsurface swim stroke yet (2015)](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
 * [2025-07-12, 08:45:15](https://news.ycombinator.com/item?id=44540402) - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
 * [2025-07-11, 17:23:57](https://news.ycombinator.com/item?id=44534809) - [A Mental Model for C++ Coroutine](https://uvdn7.github.io/cpp-coro/)
 * [2025-07-11, 15:38:58](https://news.ycombinator.com/item?id=44533403) - [Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
