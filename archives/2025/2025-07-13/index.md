@@ -12,6 +12,7 @@
 * [2025-07-13, 20:44:32](https://news.ycombinator.com/item?id=44553574) - [Are a few people ruining the internet for the rest of us?](https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us)
 * [2025-07-13, 20:23:37](https://news.ycombinator.com/item?id=44553389) - [Five Companies Now Control over 90% of the Global Food Delivery Market](https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90)
 * [2025-07-13, 20:22:00](https://news.ycombinator.com/item?id=44553379) - [Ask HN: How much of OpenAI code is written by AI?](https://news.ycombinator.com/item?id=44553379)
+* [2025-07-13, 20:09:34](https://news.ycombinator.com/item?id=44553257) - [Hypercapitalism and the AI Talent Wars](https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent)
 * [2025-07-13, 19:58:24](https://news.ycombinator.com/item?id=44553157) - [Holographic ribbon aims to oust magnetic tape with 50-year life span and 200TB](https://www.tomshardware.com/pc-components/storage/holographic-ribbon-aims-to-oust-magnetic-tape-with-50-year-life-span-and-200tb-capacity-per-cartridge-holomem-says-optical-ribbon-based-carts-work-with-some-components-of-existing-systems-reducing-fricition)
 * [2025-07-13, 19:39:53](https://news.ycombinator.com/item?id=44552966) - [OpenICE: Open-Source US Immigration Detention Dashboard](https://www.openice.org/)
 * [2025-07-13, 19:16:07](https://news.ycombinator.com/item?id=44552730) - [The Gottorf Globe and its reconstruction](https://gottorfer-globus.de/en/the-gottorf-globe)
