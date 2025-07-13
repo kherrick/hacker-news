@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 23:03:41](https://news.ycombinator.com/item?id=44545949) - [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
 * [2025-07-12, 22:48:14](https://news.ycombinator.com/item?id=44545858) - [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
 * [2025-07-12, 22:42:56](https://news.ycombinator.com/item?id=44545823) - [He became the first Black mayor of a town. A white minority locked him out](https://www.theguardian.com/us-news/2023/aug/26/black-mayor-alabama-town-locked-out)
 * [2025-07-12, 19:38:25](https://news.ycombinator.com/item?id=44544518) - [Nodegram](https://nodegram.org/)
@@ -13,6 +14,7 @@
 * [2025-07-12, 18:21:33](https://news.ycombinator.com/item?id=44543913) - [A better Ghidra MCP server – GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
 * [2025-07-12, 18:14:37](https://news.ycombinator.com/item?id=44543865) - [Supreme Court's Ruling Practically Wipes Out Free Speech for Sex Writing Online](https://ellsberg.substack.com/p/free-speech)
 * [2025-07-12, 17:43:53](https://news.ycombinator.com/item?id=44543660) - [What Manifest V3 Means for Brave Shields and the Use of Extensions in Brave](https://brave.com/blog/brave-shields-manifest-v3/)
+* [2025-07-12, 17:41:44](https://news.ycombinator.com/item?id=44543638) - [Show HN: I made a JSFiddle-style playground to test and share prompts fast](https://langfa.st/)
 * [2025-07-12, 17:36:15](https://news.ycombinator.com/item?id=44543590) - [Grok 4 Heavy Protects it's System prompt](https://simonwillison.net/2025/Jul/12/grok-4-heavy/)
 * [2025-07-12, 17:26:24](https://news.ycombinator.com/item?id=44543508) - [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
 * [2025-07-12, 17:05:14](https://news.ycombinator.com/item?id=44543368) - [Arizona resident dies from the plague less than 24 hours after showing symptoms](https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html)
