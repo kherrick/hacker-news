@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 18:05:15](https://news.ycombinator.com/item?id=44552222) - [Strap In, Vision Pro Owners](https://spiral.spyglass.org/p/strap-in-vision-pro-owners)
 * [2025-07-13, 17:18:20](https://news.ycombinator.com/item?id=44551913) - [Does Showing Seconds in the System Tray Use More Power?](https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power)
 * [2025-07-13, 17:08:16](https://news.ycombinator.com/item?id=44551842) - ['I felt pure, unconditional love': the people who marry their AI chatbots](https://www.theguardian.com/tv-and-radio/2025/jul/12/i-felt-pure-unconditional-love-the-people-who-marry-their-ai-chatbots)
 * [2025-07-13, 17:00:57](https://news.ycombinator.com/item?id=44551784) - [Infisical (YC W23) Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
 * [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
+* [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A Technical Look at Iran's Internet Shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
 * [2025-07-13, 15:30:29](https://news.ycombinator.com/item?id=44551109) - [Bay Area restaurants are vetting your social media before you even walk in](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
 * [2025-07-13, 15:07:51](https://news.ycombinator.com/item?id=44550964) - [Iranian official claims Israel used 'occult and supernatural spirits' during war](https://www.jpost.com/middle-east/iran-news/article-860798)
 * [2025-07-13, 14:09:06](https://news.ycombinator.com/item?id=44550572) - [How does a screen even work?](https://www.makingsoftware.com/chapters/how-a-screen-works)

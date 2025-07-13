@@ -37,6 +37,7 @@
 * [2025-07-10, 15:01:42](https://news.ycombinator.com/item?id=44521871) - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
 * [2025-07-10, 14:55:42](https://news.ycombinator.com/item?id=44521814) - [Executed Chinese prisoners likely used in UK exhibition (2021)](https://www.theartnewspaper.com/2021/01/25/executed-chinese-prisoners-likely-used-in-uk-exhibition)
 * [2025-07-10, 14:45:33](https://news.ycombinator.com/item?id=44521686) - [AI slows down some experienced software developers, study finds](https://www.reuters.com/business/ai-slows-down-some-experienced-software-developers-study-finds-2025-07-10/)
+* [2025-07-10, 14:28:04](https://news.ycombinator.com/item?id=44521500) - [Multi-Player Durable Stream Playground](https://s2.dev/playground)
 * [2025-07-10, 14:23:46](https://news.ycombinator.com/item?id=44521457) - [Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
 * [2025-07-10, 14:02:08](https://news.ycombinator.com/item?id=44521225) - [Andrew Ng: Building Faster with AI [video]](https://www.youtube.com/watch?v=RNJCfif1dPY)
 * [2025-07-10, 14:02:04](https://news.ycombinator.com/item?id=44521224) - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
