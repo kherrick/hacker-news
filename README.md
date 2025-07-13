@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-13, 01:25:53](https://news.ycombinator.com/item?id=44546707) - [A.I. Is Making Sure You Pay for That Ding on Your Rental Car](https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html)
 * [2025-07-13, 01:12:37](https://news.ycombinator.com/item?id=44546640) - [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
 * [2025-07-13, 00:29:21](https://news.ycombinator.com/item?id=44546422) - [MoonPay executives may have sent $250k to Nigerian scammer](https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests)
 * [2025-07-12, 23:03:41](https://news.ycombinator.com/item?id=44545949) - [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
@@ -29,6 +28,7 @@
 * [2025-07-09, 22:10:37](https://news.ycombinator.com/item?id=44515210) - [Two-step system makes plastic from carbon dioxide, water and electricity](https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html)
 * [2025-07-09, 11:14:14](https://news.ycombinator.com/item?id=44508580) - [Second Variety, by Philip K. Dick (1953)](https://www.gutenberg.org/files/32032/32032-h/32032-h.htm)
 * [2025-07-09, 09:08:34](https://news.ycombinator.com/item?id=44507799) - [Exposing a web service with Cloudflare Tunnel (2022)](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/)
+* [2025-07-09, 08:07:23](https://news.ycombinator.com/item?id=44507405) - [Parse, Don't Validate (For C)](https://www.lelanthran.com/chap13/content.html)
 * [2025-07-08, 15:16:33](https://news.ycombinator.com/item?id=44500815) - [First malaria treatment for babies approved for use](https://www.bbc.com/news/articles/c89e872jdjxo)
 
 ## [Archives](archives/index.md)

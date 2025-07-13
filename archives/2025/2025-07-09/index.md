@@ -63,6 +63,7 @@
 * [2025-07-09, 09:08:34](https://news.ycombinator.com/item?id=44507799) - [Exposing a web service with Cloudflare Tunnel](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/)
 * [2025-07-09, 08:47:21](https://news.ycombinator.com/item?id=44507673) - [The MCP hype is a distraction. AI Agents should just build their own tools](https://www.rtrvr.ai/blog/on-the-fly-toolgen)
 * [2025-07-09, 08:07:54](https://news.ycombinator.com/item?id=44507411) - [Systemd has been a complete, utter, unmitigated success](https://blog.tjll.net/the-systemd-revolution-has-been-a-success/)
+* [2025-07-09, 08:07:23](https://news.ycombinator.com/item?id=44507405) - [Parse, Don't Validate (For C)](https://www.lelanthran.com/chap13/content.html)
 * [2025-07-09, 08:00:32](https://news.ycombinator.com/item?id=44507369) - [Show HN: Dev atrophy test – Can you still code without AI?](https://news.ycombinator.com/item?id=44507369)
 * [2025-07-09, 07:48:03](https://news.ycombinator.com/item?id=44507301) - [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
 * [2025-07-09, 07:44:25](https://news.ycombinator.com/item?id=44507284) - [PHP 8.5 alpha 1 is available for download](https://www.php.net/archive/2025.php)
