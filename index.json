@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-07-13, 18:05:15",
-      "https://news.ycombinator.com/item?id=44552222"
-    ],
-    [
-      "Strap In, Vision Pro Owners",
-      "https://spiral.spyglass.org/p/strap-in-vision-pro-owners"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 17:47:08",
       "https://news.ycombinator.com/item?id=44552095"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2025-07-13, 02:47:00",
+      "https://news.ycombinator.com/item?id=44547089"
+    ],
+    [
+      "Edward Burtynsky's monumental chronicle of the human impact on the planet",
+      "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 01:12:37",
       "https://news.ycombinator.com/item?id=44546640"
     ],
@@ -177,16 +177,6 @@
     [
       "Zig's New Async I/O",
       "https://kristoff.it/blog/zig-new-async-io/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 20:25:18",
-      "https://news.ycombinator.com/item?id=44544862"
-    ],
-    [
-      "Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
-      "https://github.com/aeron-io/aeron"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The upcoming GPT-3 moment for RL",
       "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 08:07:23",
+      "https://news.ycombinator.com/item?id=44507405"
+    ],
+    [
+      "Parse, Don’t Validate – Some C Safety Tips",
+      "https://www.lelanthran.com/chap13/content.html"
     ]
   ]
 ]
