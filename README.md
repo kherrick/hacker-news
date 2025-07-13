@@ -2,7 +2,6 @@
 
 * [2025-07-13, 18:31:47](https://news.ycombinator.com/item?id=44552414) - [GLP-1s Are Breaking Life Insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
 * [2025-07-13, 18:24:53](https://news.ycombinator.com/item?id=44552362) - [Hungary's oldest library fighting to save 100k books from a beetle infestation](https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539)
-* [2025-07-13, 18:05:15](https://news.ycombinator.com/item?id=44552222) - [Strap In, Vision Pro Owners](https://spiral.spyglass.org/p/strap-in-vision-pro-owners)
 * [2025-07-13, 17:47:08](https://news.ycombinator.com/item?id=44552095) - [Most people who buy games on Steam never play them](https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/)
 * [2025-07-13, 17:18:20](https://news.ycombinator.com/item?id=44551913) - [Does Showing Seconds in the System Tray Use More Power?](https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power)
 * [2025-07-13, 17:00:57](https://news.ycombinator.com/item?id=44551784) - [Infisical (YC W23) Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
@@ -16,9 +15,9 @@
 * [2025-07-13, 09:44:47](https://news.ycombinator.com/item?id=44548906) - [Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b)
 * [2025-07-13, 08:38:52](https://news.ycombinator.com/item?id=44548610) - [Let me pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
 * [2025-07-13, 07:48:44](https://news.ycombinator.com/item?id=44548353) - [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
+* [2025-07-13, 02:47:00](https://news.ycombinator.com/item?id=44547089) - [Edward Burtynsky's monumental chronicle of the human impact on the planet](https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale)
 * [2025-07-13, 01:12:37](https://news.ycombinator.com/item?id=44546640) - [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
 * [2025-07-12, 23:03:41](https://news.ycombinator.com/item?id=44545949) - [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
-* [2025-07-12, 20:25:18](https://news.ycombinator.com/item?id=44544862) - [Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/aeron-io/aeron)
 * [2025-07-12, 19:06:09](https://news.ycombinator.com/item?id=44544266) - [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 * [2025-07-11, 17:23:57](https://news.ycombinator.com/item?id=44534809) - [A Mental Model for C++ Coroutine](https://uvdn7.github.io/cpp-coro/)
 * [2025-07-11, 15:11:24](https://news.ycombinator.com/item?id=44533044) - [Switching to Claude Code and VSCode Inside Docker](https://timsh.org/claude-inside-docker/)
@@ -30,6 +29,7 @@
 * [2025-07-10, 05:39:46](https://news.ycombinator.com/item?id=44517649) - [The Robot Sculptors of Italy](https://www.bloomberg.com/features/2025-robot-sculptors-marble/)
 * [2025-07-09, 23:32:53](https://news.ycombinator.com/item?id=44515783) - [Notes on Graham's ANSI Common Lisp (2024)](https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html)
 * [2025-07-09, 16:59:30](https://news.ycombinator.com/item?id=44512350) - [The upcoming GPT-3 moment for RL](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/)
+* [2025-07-09, 08:07:23](https://news.ycombinator.com/item?id=44507405) - [Parse, Don’t Validate – Some C Safety Tips](https://www.lelanthran.com/chap13/content.html)
 
 ## [Archives](archives/index.md)
 
