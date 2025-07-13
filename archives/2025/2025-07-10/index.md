@@ -42,6 +42,7 @@
 * [2025-07-10, 14:23:46](https://news.ycombinator.com/item?id=44521457) - [Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
 * [2025-07-10, 14:02:08](https://news.ycombinator.com/item?id=44521225) - [Andrew Ng: Building Faster with AI [video]](https://www.youtube.com/watch?v=RNJCfif1dPY)
 * [2025-07-10, 14:02:04](https://news.ycombinator.com/item?id=44521224) - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
+* [2025-07-10, 13:54:53](https://news.ycombinator.com/item?id=44521138) - [Boxtype–Devlog (Part 1)](https://inconvergent.net/2025/boxtype-devlog/)
 * [2025-07-10, 13:51:30](https://news.ycombinator.com/item?id=44521094) - [Could a Paper Plane Thrown from the ISS Survive the Flight?](https://www.sciencealert.com/could-a-paper-plane-thrown-from-the-international-space-station-survive-the-flight)
 * [2025-07-10, 13:13:32](https://news.ycombinator.com/item?id=44520635) - [Millions of tonnes of nanoplastics are polluting the ocean](https://www.nature.com/articles/d41586-025-02162-0)
 * [2025-07-10, 12:54:24](https://news.ycombinator.com/item?id=44520466) - [ChatGPT Guessing Game Leads to Users Extracting Free Windows OS Keys and More](https://0din.ai/blog/chatgpt-guessing-game-leads-to-users-extracting-free-windows-os-keys-more)
