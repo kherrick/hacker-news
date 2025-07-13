@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 04:33:44",
+      "https://news.ycombinator.com/item?id=44547538"
+    ],
+    [
+      "Nuclear Explosion for Carbon Sequestration",
+      "https://arxiv.org/abs/2501.06623"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 04:12:57",
       "https://news.ycombinator.com/item?id=44547433"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-07-13, 00:29:21",
-      "https://news.ycombinator.com/item?id=44546422"
-    ],
-    [
-      "MoonPay executives may have sent $250k to Nigerian scammer",
-      "https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests"
-    ]
-  ],
-  [
-    [
       "2025-07-12, 23:03:41",
       "https://news.ycombinator.com/item?id=44545949"
     ],
@@ -57,6 +57,16 @@
     [
       "Light exposure at night predicts incidence of cardiovascular diseases",
       "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 20:25:18",
+      "https://news.ycombinator.com/item?id=44544862"
+    ],
+    [
+      "Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+      "https://github.com/aeron-io/aeron"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-07-11, 21:35:31",
-      "https://news.ycombinator.com/item?id=44536988"
-    ],
-    [
-      "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
-      "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 15:11:24",
       "https://news.ycombinator.com/item?id=44533044"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-07-09, 09:33:57",
+      "https://news.ycombinator.com/item?id=44507931"
+    ],
+    [
+      "Experimental imperative-style music sequence generator engine",
+      "https://github.com/renoise/pattrns"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 09:08:34",
       "https://news.ycombinator.com/item?id=44507799"
     ],
@@ -287,16 +297,6 @@
     [
       "Parse, Don't Validate (For C)",
       "https://www.lelanthran.com/chap13/content.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 15:16:33",
-      "https://news.ycombinator.com/item?id=44500815"
-    ],
-    [
-      "First malaria treatment for babies approved for use",
-      "https://www.bbc.com/news/articles/c89e872jdjxo"
     ]
   ]
 ]
