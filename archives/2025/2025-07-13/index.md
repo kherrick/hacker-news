@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 21:35:32](https://news.ycombinator.com/item?id=44553949) - [Traditional Chinese Medicine Has Not Been Vindicated by Science](https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science)
 * [2025-07-13, 21:08:47](https://news.ycombinator.com/item?id=44553752) - [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 * [2025-07-13, 21:08:14](https://news.ycombinator.com/item?id=44553747) - [APKLab: Android Reverse-Engineering Workbench for VS Code](https://github.com/APKLab/APKLab)
 * [2025-07-13, 20:44:32](https://news.ycombinator.com/item?id=44553574) - [Are a few people ruining the internet for the rest of us?](https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us)
