@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-07-13, 09:44:47",
+      "https://news.ycombinator.com/item?id=44548906"
+    ],
+    [
+      "Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI",
+      "https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 08:38:52",
       "https://news.ycombinator.com/item?id=44548610"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-07-12, 12:23:33",
-      "https://news.ycombinator.com/item?id=44541565"
-    ],
-    [
-      "Working through 'Writing A C Compiler'",
-      "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/"
-    ]
-  ],
-  [
-    [
       "2025-07-12, 08:45:15",
       "https://news.ycombinator.com/item?id=44540402"
     ],
@@ -167,16 +167,6 @@
     [
       "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
       "https://jsdate.wtf"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 06:41:59",
-      "https://news.ycombinator.com/item?id=44539879"
-    ],
-    [
-      "Malware found in official gravityforms plugin indicating supply chain breach",
-      "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "HNSW as abstract data structure: video intro to Redis vector sets",
       "https://www.youtube.com/watch?v=kVApsFUeuEA"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 23:32:53",
+      "https://news.ycombinator.com/item?id=44515783"
+    ],
+    [
+      "Notes on Graham's ANSI Common Lisp",
+      "https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html"
     ]
   ],
   [
