@@ -70,3 +70,4 @@
 * [2025-07-11, 01:14:49](https://news.ycombinator.com/item?id=44527484) - [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
 * [2025-07-11, 01:02:10](https://news.ycombinator.com/item?id=44527415) - ['Autofocus' specs promise sharp vision, near or far](https://www.bbc.com/news/articles/cj6r06d7xdjo)
 * [2025-07-11, 00:22:43](https://news.ycombinator.com/item?id=44527190) - [Grok: Searching X for \"From:Elonmusk (Israel or Palestine or Hamas or Gaza)\"](https://simonwillison.net/2025/Jul/11/grok-musk/)
+* [2025-07-11, 00:21:16](https://news.ycombinator.com/item?id=44527172) - [Axon's Draft One AI Police Report Generator Is Designed to Defy Transparency](https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency)

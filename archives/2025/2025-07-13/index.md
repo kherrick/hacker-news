@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 10:23:38](https://news.ycombinator.com/item?id=44549134) - [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
 * [2025-07-13, 09:10:34](https://news.ycombinator.com/item?id=44548752) - [AGI Is Mathematically Impossible (3): Kolmogorov Complexity](https://news.ycombinator.com/item?id=44548752)
 * [2025-07-13, 08:38:52](https://news.ycombinator.com/item?id=44548610) - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
 * [2025-07-13, 08:19:04](https://news.ycombinator.com/item?id=44548519) - [ISRO successfully conducts hot tests of Gaganyaan propulsion system](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece)
