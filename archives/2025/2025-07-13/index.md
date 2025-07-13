@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 08:38:52](https://news.ycombinator.com/item?id=44548610) - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
 * [2025-07-13, 08:19:04](https://news.ycombinator.com/item?id=44548519) - [ISRO successfully conducts hot tests of Gaganyaan propulsion system](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece)
 * [2025-07-13, 07:48:44](https://news.ycombinator.com/item?id=44548353) - [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
 * [2025-07-13, 06:37:48](https://news.ycombinator.com/item?id=44548022) - [Hill Space: Neural nets that do perfect arithmetic (to 10⁻¹⁶ precision)](https://hillspace.justindujardin.com/)
