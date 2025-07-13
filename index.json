@@ -1,22 +1,72 @@
 [
   [
     [
+      "2025-07-13, 01:25:53",
+      "https://news.ycombinator.com/item?id=44546707"
+    ],
+    [
+      "A.I. Is Making Sure You Pay for That Ding on Your Rental Car",
+      "https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 01:12:37",
+      "https://news.ycombinator.com/item?id=44546640"
+    ],
+    [
+      "Hacking Coroutines into C",
+      "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 01:02:35",
+      "https://news.ycombinator.com/item?id=44546583"
+    ],
+    [
+      "Banned Filipino fishermen documentary can be seen in NZ",
+      "https://www.rnz.co.nz/life/screens/movies/banned-filipino-fishermen-documentary-can-be-seen-in-nz"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 00:51:58",
+      "https://news.ycombinator.com/item?id=44546533"
+    ],
+    [
+      "Startup just hit a big milestone for green steel production",
+      "https://www.technologyreview.com/2025/03/12/1113130/green-steel-boston-metal/"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 00:29:21",
+      "https://news.ycombinator.com/item?id=44546422"
+    ],
+    [
+      "MoonPay executives may have sent $250k to Nigerian scammer",
+      "https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 23:03:41",
+      "https://news.ycombinator.com/item?id=44545949"
+    ],
+    [
+      "Zig's New Async I/O",
+      "https://kristoff.it/blog/zig-new-async-io/"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 22:48:14",
       "https://news.ycombinator.com/item?id=44545858"
     ],
     [
       "Light exposure at night predicts incidence of cardiovascular diseases",
       "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 19:22:40",
-      "https://news.ycombinator.com/item?id=44544388"
-    ],
-    [
-      "'Starter packs' have played a central role in Bluesky's rapid growth",
-      "https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp"
     ]
   ],
   [
@@ -51,6 +101,16 @@
   ],
   [
     [
+      "2025-07-12, 17:41:44",
+      "https://news.ycombinator.com/item?id=44543638"
+    ],
+    [
+      "Show HN: I made a JSFiddle-style playground to test and share prompts fast",
+      "https://langfa.st/"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 17:26:24",
       "https://news.ycombinator.com/item?id=44543508"
     ],
@@ -77,16 +137,6 @@
     [
       "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
       "https://inventwithpython.com/blog/lost-av-chapter.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 16:32:12",
-      "https://news.ycombinator.com/item?id=44543156"
-    ],
-    [
-      "Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++",
-      "https://github.com/efecan0/binaryrpc-framework"
     ]
   ],
   [
@@ -137,16 +187,6 @@
     [
       "Working through 'Writing A C Compiler'",
       "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 12:00:11",
-      "https://news.ycombinator.com/item?id=44541458"
-    ],
-    [
-      "Sieve (YC X25) is hiring researchers to build large video datasets for AI labs",
-      "https://sievedata.com/about/jobs"
     ]
   ],
   [
@@ -211,42 +251,22 @@
   ],
   [
     [
-      "2025-07-11, 18:45:10",
-      "https://news.ycombinator.com/item?id=44535637"
+      "2025-07-10, 11:59:35",
+      "https://news.ycombinator.com/item?id=44520000"
     ],
     [
-      "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html"
+      "HNSW as abstract data structure: video intro to Redis vector sets",
+      "https://www.youtube.com/watch?v=kVApsFUeuEA"
     ]
   ],
   [
     [
-      "2025-07-10, 00:22:17",
-      "https://news.ycombinator.com/item?id=44516055"
+      "2025-07-09, 22:10:37",
+      "https://news.ycombinator.com/item?id=44515210"
     ],
     [
-      "Dépanneurs",
-      "https://walkmontreal.com/curiosities/depanneurs/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 20:45:19",
-      "https://news.ycombinator.com/item?id=44514559"
-    ],
-    [
-      "QRS: Epsilon Wrangling",
-      "https://www.tbray.org/ongoing/When/202x/2025/07/07/Epsilon-Wrangling"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 11:33:09",
-      "https://news.ycombinator.com/item?id=44508726"
-    ],
-    [
-      "Show HN: Pyhoff – Connect Python ML Models to Beckhoff/WAGO IO Hardware",
-      "https://github.com/Nonannet/pyhoff"
+      "Two-step system makes plastic from carbon dioxide, water and electricity",
+      "https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html"
     ]
   ],
   [
@@ -255,18 +275,8 @@
       "https://news.ycombinator.com/item?id=44508580"
     ],
     [
-      "Second Variety, by Philip K. Dick",
+      "Second Variety, by Philip K. Dick (1953)",
       "https://www.gutenberg.org/files/32032/32032-h/32032-h.htm"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 09:59:48",
-      "https://news.ycombinator.com/item?id=44508068"
-    ],
-    [
-      "Context Engineering Guide",
-      "https://nlp.elvissaravia.com/p/context-engineering-guide"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Exposing a web service with Cloudflare Tunnel (2022)",
       "https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 16:14:02",
-      "https://news.ycombinator.com/item?id=44501417"
-    ],
-    [
-      "Making a Speedrun Timer in D",
-      "https://bradley.chatha.dev/blog/linux-speedrun-timer-dlang/post/"
     ]
   ],
   [
