@@ -54,6 +54,7 @@
 * [2025-07-11, 11:03:59](https://news.ycombinator.com/item?id=44530767) - [Bill Atkinson's Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
 * [2025-07-11, 10:36:26](https://news.ycombinator.com/item?id=44530581) - [FP8 is ~100 tflops faster when the kernel name has \"cutlass\" in it](https://twitter.com/cis_female/status/1943069934332055912)
 * [2025-07-11, 10:03:11](https://news.ycombinator.com/item?id=44530375) - [At Amazon's Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
+* [2025-07-11, 09:45:56](https://news.ycombinator.com/item?id=44530250) - [Bold Mission to Hunt for Aliens on Venus Is Happening](https://gizmodo.com/a-bold-mission-to-hunt-for-aliens-on-venus-is-actually-happening-2000627704)
 * [2025-07-11, 09:35:55](https://news.ycombinator.com/item?id=44530179) - [Tandy Corporation, Part 3 Becoming IBM Compatible](https://www.abortretry.fail/p/tandy-corporation-part-3)
 * [2025-07-11, 08:51:17](https://news.ycombinator.com/item?id=44529812) - [Woman takes 10x dose of turmeric, gets hospitalized for liver damage](https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/)
 * [2025-07-11, 08:42:45](https://news.ycombinator.com/item?id=44529747) - [Slack's 57MB 404 page](https://a.slack.com/archives/b/c)

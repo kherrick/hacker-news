@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 12:38:18](https://news.ycombinator.com/item?id=44559469) - [Why recycling solar panels is harder than you might think](https://theconversation.com/why-recycling-solar-panels-is-harder-than-you-might-think-an-electrical-engineer-explains-259115)
 * [2025-07-14, 11:02:37](https://news.ycombinator.com/item?id=44558665) - [Death by a Thousand Slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 * [2025-07-14, 11:00:21](https://news.ycombinator.com/item?id=44558646) - [Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles](https://www.jstor.org/stable/26169128)
+* [2025-07-14, 10:06:45](https://news.ycombinator.com/item?id=44558252) - [Interview with Google's Android leader Sameer Samat](https://www.techradar.com/phones/android/i-think-you-see-the-future-first-on-android-googles-android-leader-sameer-samat)
 * [2025-07-14, 10:03:59](https://news.ycombinator.com/item?id=44558235) - [Google is tracking you even when you use DuckDuckGo](https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go)
 * [2025-07-14, 09:30:37](https://news.ycombinator.com/item?id=44558034) - [East Asian air cleanup likely contributed to acceleration in global warming](https://www.nature.com/articles/s43247-025-02527-3)
 * [2025-07-14, 09:13:49](https://news.ycombinator.com/item?id=44557916) - [Bitcoin passes $120k milestone as US Congress readies for 'crypto week'](https://www.ft.com/content/1d4c5942-7190-45e1-9167-a5eacfd93982)
