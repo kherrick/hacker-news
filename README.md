@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-14, 18:19:45](https://news.ycombinator.com/item?id=44563470) - [Inequality, decay of democratic institutions linked to accelerated ageing](https://www.nature.com/articles/d41586-025-02181-x)
 * [2025-07-14, 18:11:25](https://news.ycombinator.com/item?id=44563364) - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
 * [2025-07-14, 17:01:54](https://news.ycombinator.com/item?id=44562488) - [Meticulous (YC S21) is hiring in UK to redefine software dev](https://tinyurl.com/join-meticulous)
@@ -21,6 +20,7 @@
 * [2025-07-14, 09:30:37](https://news.ycombinator.com/item?id=44558034) - [East Asian aerosol cleanup has likely contributed to global warming](https://www.nature.com/articles/s43247-025-02527-3)
 * [2025-07-14, 05:12:18](https://news.ycombinator.com/item?id=44556684) - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 * [2025-07-13, 22:22:15](https://news.ycombinator.com/item?id=44554307) - [Let's Learn x86-64 Assembly (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
+* [2025-07-13, 18:44:56](https://news.ycombinator.com/item?id=44552500) - [Happy 20th Birthday, Django](https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/)
 * [2025-07-11, 18:17:22](https://news.ycombinator.com/item?id=44535378) - [Six Game Devs Speak to Computer Games Mag (1984)](https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games)
 * [2025-07-11, 18:00:01](https://news.ycombinator.com/item?id=44535202) - [Replicube: 3D shader puzzle game, online demo](https://replicube.xyz/staging/)
 * [2025-07-11, 17:30:53](https://news.ycombinator.com/item?id=44534890) - [It took 45 years, but spreadsheet legend Mitch Kapor finally got his MIT degree](https://www.bostonglobe.com/2025/06/24/business/mitch-kapor-mit-degree-bill-aulet/)
