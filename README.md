@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-14, 10:03:59](https://news.ycombinator.com/item?id=44558235) - [Google is tracking you even when you use DuckDuckGo](https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go)
 * [2025-07-14, 09:30:37](https://news.ycombinator.com/item?id=44558034) - [East Asian air cleanup likely contributed to acceleration in global warming](https://www.nature.com/articles/s43247-025-02527-3)
 * [2025-07-14, 09:13:49](https://news.ycombinator.com/item?id=44557916) - [Bitcoin passes $120k milestone as US Congress readies for 'crypto week'](https://www.ft.com/content/1d4c5942-7190-45e1-9167-a5eacfd93982)
 * [2025-07-14, 08:43:50](https://news.ycombinator.com/item?id=44557757) - [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
@@ -13,7 +14,6 @@
 * [2025-07-13, 22:22:15](https://news.ycombinator.com/item?id=44554307) - [Let's Learn x86-64 Assembly (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
 * [2025-07-13, 21:08:47](https://news.ycombinator.com/item?id=44553752) - [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 * [2025-07-13, 21:08:14](https://news.ycombinator.com/item?id=44553747) - [APKLab: Android Reverse-Engineering Workbench for VS Code](https://github.com/APKLab/APKLab)
-* [2025-07-13, 20:23:37](https://news.ycombinator.com/item?id=44553389) - [Five companies now control over 90% of the restaurant food delivery market](https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90)
 * [2025-07-13, 20:09:34](https://news.ycombinator.com/item?id=44553257) - [Hypercapitalism and the AI talent wars](https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent)
 * [2025-07-13, 18:31:47](https://news.ycombinator.com/item?id=44552414) - [GLP-1s are breaking life insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
 * [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
