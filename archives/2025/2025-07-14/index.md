@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 14:08:44](https://news.ycombinator.com/item?id=44560489) - [Show HN: TechBro Generator – Generate Satirical TechBro Posts](https://techbrogenerator.netlify.app/)
 * [2025-07-14, 12:38:18](https://news.ycombinator.com/item?id=44559469) - [Why recycling solar panels is harder than you might think](https://theconversation.com/why-recycling-solar-panels-is-harder-than-you-might-think-an-electrical-engineer-explains-259115)
 * [2025-07-14, 11:02:37](https://news.ycombinator.com/item?id=44558665) - [Death by a Thousand Slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 * [2025-07-14, 11:00:21](https://news.ycombinator.com/item?id=44558646) - [Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles](https://www.jstor.org/stable/26169128)
