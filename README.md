@@ -2,7 +2,6 @@
 
 * [2025-07-14, 05:12:18](https://news.ycombinator.com/item?id=44556684) - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 * [2025-07-14, 04:16:29](https://news.ycombinator.com/item?id=44556406) - [Myanmar’s proliferating scam centers](https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/)
-* [2025-07-14, 02:17:06](https://news.ycombinator.com/item?id=44555836) - [Stellantis declares bankruptcy in China, with $1B in debts](https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/)
 * [2025-07-14, 02:10:54](https://news.ycombinator.com/item?id=44555804) - [James Webb, Hubble space telescopes face reduction in operations](https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/)
 * [2025-07-14, 00:55:06](https://news.ycombinator.com/item?id=44555317) - [The Scourge of Arial (2001)](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/)
 * [2025-07-14, 00:38:20](https://news.ycombinator.com/item?id=44555220) - [Black hole merger challenges our understanding of black hole formation](https://gizmodo.com/astronomers-detect-a-black-hole-merger-thats-so-massive-it-shouldnt-exist-2000628197)
@@ -22,6 +21,7 @@
 * [2025-07-13, 12:06:34](https://news.ycombinator.com/item?id=44549762) - [The North Korean fake IT worker problem is ubiquitous](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
 * [2025-07-12, 23:55:39](https://news.ycombinator.com/item?id=44546265) - [Show HN: ArchGW – An intelligent edge and service proxy for agents](https://github.com/katanemo/archgw/)
 * [2025-07-11, 14:27:42](https://news.ycombinator.com/item?id=44532527) - [C3 solved memory lifetimes with scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
+* [2025-07-10, 23:08:14](https://news.ycombinator.com/item?id=44526728) - [Binding Application in Idris](https://andrevidela.com/blog/2025/binding-application/)
 * [2025-07-10, 20:47:34](https://news.ycombinator.com/item?id=44525405) - [How to scale RL to 10^26 FLOPs](https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops)
 * [2025-07-10, 17:30:33](https://news.ycombinator.com/item?id=44523372) - [Burning a Magnesium NeXT Cube (1993)](https://simson.net/ref/1993/cubefire.html)
 * [2025-07-10, 16:21:13](https://news.ycombinator.com/item?id=44522683) - [Show HN: Ten years of running every day, visualized](https://nodaysoff.run)
