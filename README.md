@@ -3,7 +3,7 @@
 * [2025-07-14, 22:28:08](https://news.ycombinator.com/item?id=44566034) - [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
 * [2025-07-14, 22:04:33](https://news.ycombinator.com/item?id=44565836) - [Tell HN: 1.1.1.1 Appears to Be Down](https://news.ycombinator.com/item?id=44565836)
 * [2025-07-14, 21:40:30](https://news.ycombinator.com/item?id=44565668) - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
-* [2025-07-14, 21:37:27](https://news.ycombinator.com/item?id=44565647) - [PHP License Update](https://wiki.php.net/rfc/php_license_update)
+* [2025-07-14, 21:37:27](https://news.ycombinator.com/item?id=44565647) - [RFC: PHP license update](https://wiki.php.net/rfc/php_license_update)
 * [2025-07-14, 21:16:19](https://news.ycombinator.com/item?id=44565416) - [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
 * [2025-07-14, 20:42:29](https://news.ycombinator.com/item?id=44565004) - [Show HN: The HTML Maze – Escape an eerie labyrinth built with HTML pages](https://htmlmaze.com/)
 * [2025-07-14, 20:06:51](https://news.ycombinator.com/item?id=44564656) - [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
@@ -22,7 +22,6 @@
 * [2025-07-14, 14:24:40](https://news.ycombinator.com/item?id=44560662) - [Kiro: A new agentic IDE](https://kiro.dev/blog/introducing-kiro/)
 * [2025-07-14, 11:00:21](https://news.ycombinator.com/item?id=44558646) - [Impacts of adding PV solar system to internal combustion engine vehicles](https://www.jstor.org/stable/26169128)
 * [2025-07-14, 09:30:37](https://news.ycombinator.com/item?id=44558034) - [East Asian aerosol cleanup has likely contributed to global warming](https://www.nature.com/articles/s43247-025-02527-3)
-* [2025-07-14, 05:12:18](https://news.ycombinator.com/item?id=44556684) - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 * [2025-07-11, 18:00:01](https://news.ycombinator.com/item?id=44535202) - [Replicube: 3D shader puzzle game, online demo](https://replicube.xyz/staging/)
 * [2025-07-11, 17:30:53](https://news.ycombinator.com/item?id=44534890) - [It took 45 years, but spreadsheet legend Mitch Kapor finally got his MIT degree](https://www.bostonglobe.com/2025/06/24/business/mitch-kapor-mit-degree-bill-aulet/)
 * [2025-07-11, 14:44:54](https://news.ycombinator.com/item?id=44532718) - [The Corset X-Rays of Dr Ludovic O'Followell (1908)](https://publicdomainreview.org/collection/the-corset-x-rays-of-dr-ludovic-o-followell-1908/)
@@ -30,6 +29,7 @@
 * [2025-07-11, 09:35:55](https://news.ycombinator.com/item?id=44530179) - [Tandy Corporation, Part 3 Becoming IBM Compatible](https://www.abortretry.fail/p/tandy-corporation-part-3)
 * [2025-07-10, 22:20:18](https://news.ycombinator.com/item?id=44526322) - [Show HN: Bedrock – An 8-bit computing system for running programs anywhere](https://benbridle.com/projects/bedrock.html)
 * [2025-07-10, 18:12:21](https://news.ycombinator.com/item?id=44523876) - [Lossless Float Image Compression](https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/)
+* [2025-07-10, 10:41:58](https://news.ycombinator.com/item?id=44519470) - [A Century of Quantum Mechanics](https://home.cern/news/news/physics/century-quantum-mechanics)
 
 ## [Archives](archives/index.md)
 
