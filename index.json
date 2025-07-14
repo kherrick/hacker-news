@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-07-13, 13:03:13",
-      "https://news.ycombinator.com/item?id=44550157"
-    ],
-    [
-      "Show HN: Learn LLMs LeetCode Style",
-      "https://github.com/Exorust/TorchLeet"
-    ]
-  ],
-  [
-    [
       "2025-07-12, 23:55:39",
       "https://news.ycombinator.com/item?id=44546265"
     ],
@@ -207,6 +197,16 @@
     [
       "C3 solved memory lifetimes with scopes",
       "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
+    ]
+  ],
+  [
+    [
+      "2025-07-11, 01:22:12",
+      "https://news.ycombinator.com/item?id=44527525"
+    ],
+    [
+      "Concurrent Programming with Harmony",
+      "https://harmony.cs.cornell.edu/book/"
     ]
   ],
   [
