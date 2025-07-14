@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 21:27:04](https://news.ycombinator.com/item?id=44565548) - [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
 * [2025-07-14, 21:16:19](https://news.ycombinator.com/item?id=44565416) - [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
+* [2025-07-14, 20:42:29](https://news.ycombinator.com/item?id=44565004) - [Show HN: The HTML Maze - Escape an eerie labyrinth built with HTML pages](https://htmlmaze.com/)
 * [2025-07-14, 20:38:19](https://news.ycombinator.com/item?id=44564963) - [Anthropic signs a $200mm deal with the Department of Defense](https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations)
 * [2025-07-14, 20:34:34](https://news.ycombinator.com/item?id=44564941) - [Grok 4 Heavy ($300/mo) returns its surname and no other text: \"Hitler\"](https://twitter.com/goodside/status/1944266466875826617)
 * [2025-07-14, 20:24:03](https://news.ycombinator.com/item?id=44564844) - [M.2 SSD Can Self-Destruct by Giving Itself a Burst of Voltage](https://uk.pcmag.com/storage/159074/this-m2-ssd-can-self-destruct-by-giving-itself-a-burst-of-voltage)

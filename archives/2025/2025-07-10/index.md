@@ -7,6 +7,7 @@
 * [2025-07-10, 23:38:11](https://news.ycombinator.com/item?id=44526912) - [Not So Fast: AI Coding Tools Can Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 * [2025-07-10, 23:28:31](https://news.ycombinator.com/item?id=44526852) - [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
 * [2025-07-10, 23:08:14](https://news.ycombinator.com/item?id=44526728) - [Binding Application in Idris](https://andrevidela.com/blog/2025/binding-application/)
+* [2025-07-10, 22:20:18](https://news.ycombinator.com/item?id=44526322) - [Show HN: Bedrock – An 8-bit computing system for running programs anywhere](https://benbridle.com/projects/bedrock.html)
 * [2025-07-10, 22:09:43](https://news.ycombinator.com/item?id=44526220) - [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)
 * [2025-07-10, 21:50:43](https://news.ycombinator.com/item?id=44526015) - [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
 * [2025-07-10, 21:35:25](https://news.ycombinator.com/item?id=44525873) - [The FBI Is Using Polygraphs to Test Officials' Loyalty](https://www.nytimes.com/2025/07/10/us/politics/fbi-polygraph-kash-patel.html)
