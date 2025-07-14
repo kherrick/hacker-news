@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 23:46:12](https://news.ycombinator.com/item?id=44554865) - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
 * [2025-07-13, 23:21:21](https://news.ycombinator.com/item?id=44554713) - [Investors bought 27% of US homes in Q1, as traditional buyers struggle to afford](https://abcnews.go.com/Business/wireStory/investors-snap-growing-share-us-homes-traditional-buyers-123560969)
 * [2025-07-13, 22:22:15](https://news.ycombinator.com/item?id=44554307) - [Let's Learn x86-64 Assembly Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
 * [2025-07-13, 21:35:32](https://news.ycombinator.com/item?id=44553949) - [Traditional Chinese Medicine Has Not Been Vindicated by Science](https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science)
 * [2025-07-13, 21:08:47](https://news.ycombinator.com/item?id=44553752) - [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 * [2025-07-13, 21:08:14](https://news.ycombinator.com/item?id=44553747) - [APKLab: Android Reverse-Engineering Workbench for VS Code](https://github.com/APKLab/APKLab)
 * [2025-07-13, 20:44:32](https://news.ycombinator.com/item?id=44553574) - [Are a few people ruining the internet for the rest of us?](https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us)
+* [2025-07-13, 20:35:17](https://news.ycombinator.com/item?id=44553479) - [Programming Language Theory has a public relations problem](https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/)
 * [2025-07-13, 20:23:37](https://news.ycombinator.com/item?id=44553389) - [Five Companies Now Control over 90% of the Global Food Delivery Market](https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90)
 * [2025-07-13, 20:22:00](https://news.ycombinator.com/item?id=44553379) - [Ask HN: How much of OpenAI code is written by AI?](https://news.ycombinator.com/item?id=44553379)
 * [2025-07-13, 20:09:34](https://news.ycombinator.com/item?id=44553257) - [Hypercapitalism and the AI Talent Wars](https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent)
