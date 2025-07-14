@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
 * [2025-07-14, 20:06:51](https://news.ycombinator.com/item?id=44564656) - [LIGO Detects Most Massive Black Hole Merger to Date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
+* [2025-07-14, 20:01:58](https://news.ycombinator.com/item?id=44564593) - [Immigration raids leave crops unharvested and California farms at risk](https://www.japantimes.co.jp/business/2025/07/01/markets/immigration-raids-california-farms/)
 * [2025-07-14, 19:54:26](https://news.ycombinator.com/item?id=44564531) - [NeuralOS: An Operating System Powered by Neural Networks](https://neural-os.com/)
 * [2025-07-14, 18:19:45](https://news.ycombinator.com/item?id=44563470) - [Inequality, decay of democratic institutions linked to accelerated ageing](https://www.nature.com/articles/d41586-025-02181-x)
 * [2025-07-14, 18:11:25](https://news.ycombinator.com/item?id=44563364) - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
