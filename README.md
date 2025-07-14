@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-14, 22:28:08](https://news.ycombinator.com/item?id=44566034) - [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
 * [2025-07-14, 22:04:33](https://news.ycombinator.com/item?id=44565836) - [Tell HN: 1.1.1.1 Appears to Be Down](https://news.ycombinator.com/item?id=44565836)
 * [2025-07-14, 21:40:30](https://news.ycombinator.com/item?id=44565668) - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
 * [2025-07-14, 21:37:27](https://news.ycombinator.com/item?id=44565647) - [PHP License Update](https://wiki.php.net/rfc/php_license_update)
@@ -29,7 +30,6 @@
 * [2025-07-11, 09:35:55](https://news.ycombinator.com/item?id=44530179) - [Tandy Corporation, Part 3 Becoming IBM Compatible](https://www.abortretry.fail/p/tandy-corporation-part-3)
 * [2025-07-10, 22:20:18](https://news.ycombinator.com/item?id=44526322) - [Show HN: Bedrock – An 8-bit computing system for running programs anywhere](https://benbridle.com/projects/bedrock.html)
 * [2025-07-10, 18:12:21](https://news.ycombinator.com/item?id=44523876) - [Lossless Float Image Compression](https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/)
-* [2025-07-10, 10:41:58](https://news.ycombinator.com/item?id=44519470) - [A Century of Quantum Mechanics](https://home.cern/news/news/physics/century-quantum-mechanics)
 
 ## [Archives](archives/index.md)
 
