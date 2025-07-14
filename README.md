@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-14, 17:01:54](https://news.ycombinator.com/item?id=44562488) - [Meticulous (YC S21) is hiring in UK to redefine software dev,£100k-300k and equity](https://tinyurl.com/join-meticulous)
 * [2025-07-14, 16:29:02](https://news.ycombinator.com/item?id=44562036) - [Embedding User-Defined Indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
 * [2025-07-14, 16:09:14](https://news.ycombinator.com/item?id=44561818) - [Japanese Grandparents Create Life-Size Totoro with Bus Stop for Grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/)
 * [2025-07-14, 16:02:36](https://news.ycombinator.com/item?id=44561736) - [Data Brokers Are Selling Your Flight Information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice)
@@ -10,7 +11,6 @@
 * [2025-07-14, 15:24:57](https://news.ycombinator.com/item?id=44561284) - [GM, LG to upgrade Tennessee plant to make low-cost EV batteries](https://www.cnbc.com/2025/07/14/gm-lg-ultium-spring-hill-tennessee-plant-ev-batteries.html)
 * [2025-07-14, 15:07:31](https://news.ycombinator.com/item?id=44561104) - [Lightning Detector Circuits](https://techlib.com/electronics/lightningnew.htm)
 * [2025-07-14, 15:02:43](https://news.ycombinator.com/item?id=44561060) - [You Are in a Box](https://jyn.dev/you-are-in-a-box/)
-* [2025-07-14, 14:47:54](https://news.ycombinator.com/item?id=44560913) - [Lenovo Legion Go S: Windows 11 vs. SteamOS Performance, and General Availability](https://boilingsteam.com/lenovo-legion-go-s-windows-vs-steam-os-performance/)
 * [2025-07-14, 14:42:54](https://news.ycombinator.com/item?id=44560871) - [Strategies for Fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
 * [2025-07-14, 14:32:08](https://news.ycombinator.com/item?id=44560740) - [AI slows down open source developers. Peter Naur can teach us why](https://johnwhiles.com/posts/mental-models-vs-ai-tools)
 * [2025-07-14, 14:24:40](https://news.ycombinator.com/item?id=44560662) - [AWS launches Kiro, its Cursor clone](https://kiro.dev/blog/introducing-kiro/)
