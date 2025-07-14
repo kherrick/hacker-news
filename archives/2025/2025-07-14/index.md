@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
 * [2025-07-14, 18:19:45](https://news.ycombinator.com/item?id=44563470) - [Inequality, decay of democratic institutions linked to accelerated ageing](https://www.nature.com/articles/d41586-025-02181-x)
+* [2025-07-14, 18:11:25](https://news.ycombinator.com/item?id=44563364) - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
 * [2025-07-14, 18:04:54](https://news.ycombinator.com/item?id=44563290) - [Cognition (Devin AI) to Acquire Windsurf](https://twitter.com/cognition_labs/status/1944819486538023138)
 * [2025-07-14, 17:01:54](https://news.ycombinator.com/item?id=44562488) - [Meticulous (YC S21) is hiring in UK to redefine software dev,£100k-300k and equity](https://tinyurl.com/join-meticulous)
