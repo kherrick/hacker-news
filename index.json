@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-14, 16:29:02",
+      "https://news.ycombinator.com/item?id=44562036"
+    ],
+    [
+      "Embedding User-Defined Indexes in Apache Parquet",
+      "https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 16:09:14",
       "https://news.ycombinator.com/item?id=44561818"
     ],
@@ -37,16 +47,6 @@
     [
       "Two guys hated using Comcast, so they built their own fiber ISP",
       "https://arstechnica.com/tech-policy/2025/07/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp/"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 15:37:56",
-      "https://news.ycombinator.com/item?id=44561431"
-    ],
-    [
-      "What happens when a brand built for sport loses some of its focus?",
-      "https://doinghandstands.substack.com/p/the-recovery-run"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-07-13, 21:08:47",
-      "https://news.ycombinator.com/item?id=44553752"
-    ],
-    [
-      "OpenCut: The open-source CapCut alternative",
-      "https://github.com/OpenCut-app/OpenCut"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 20:09:34",
       "https://news.ycombinator.com/item?id=44553257"
     ],
@@ -237,6 +227,16 @@
     [
       "Six Game Devs Speak to Computer Games Mag (1984)",
       "https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games"
+    ]
+  ],
+  [
+    [
+      "2025-07-11, 17:30:53",
+      "https://news.ycombinator.com/item?id=44534890"
+    ],
+    [
+      "It took 45 years, but spreadsheet legend Mitch Kapor finally got his MIT degree",
+      "https://www.bostonglobe.com/2025/06/24/business/mitch-kapor-mit-degree-bill-aulet/"
     ]
   ],
   [
