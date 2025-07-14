@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-14, 11:02:37](https://news.ycombinator.com/item?id=44558665) - [Death by a Thousand Slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 * [2025-07-14, 10:03:59](https://news.ycombinator.com/item?id=44558235) - [Google is tracking you even when you use DuckDuckGo](https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go)
 * [2025-07-14, 09:30:37](https://news.ycombinator.com/item?id=44558034) - [East Asian air cleanup likely contributed to acceleration in global warming](https://www.nature.com/articles/s43247-025-02527-3)
-* [2025-07-14, 09:13:49](https://news.ycombinator.com/item?id=44557916) - [Bitcoin passes $120k milestone as US Congress readies for 'crypto week'](https://www.ft.com/content/1d4c5942-7190-45e1-9167-a5eacfd93982)
 * [2025-07-14, 08:43:50](https://news.ycombinator.com/item?id=44557757) - [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
 * [2025-07-14, 07:27:02](https://news.ycombinator.com/item?id=44557348) - [Apple's Browser Engine Ban Persists, Even Under the DMA](https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/)
 * [2025-07-14, 06:41:51](https://news.ycombinator.com/item?id=44557115) - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
