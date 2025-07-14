@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
 * [2025-07-14, 20:38:19](https://news.ycombinator.com/item?id=44564963) - [Anthropic signs a $200mm deal with the Department of Defense](https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations)
+* [2025-07-14, 20:34:34](https://news.ycombinator.com/item?id=44564941) - [Grok 4 Heavy ($300/mo) returns its surname and no other text: \"Hitler\"](https://twitter.com/goodside/status/1944266466875826617)
 * [2025-07-14, 20:24:03](https://news.ycombinator.com/item?id=44564844) - [M.2 SSD Can Self-Destruct by Giving Itself a Burst of Voltage](https://uk.pcmag.com/storage/159074/this-m2-ssd-can-self-destruct-by-giving-itself-a-burst-of-voltage)
 * [2025-07-14, 20:06:51](https://news.ycombinator.com/item?id=44564656) - [LIGO Detects Most Massive Black Hole Merger to Date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
 * [2025-07-14, 20:01:58](https://news.ycombinator.com/item?id=44564593) - [Immigration raids leave crops unharvested and California farms at risk](https://www.japantimes.co.jp/business/2025/07/01/markets/immigration-raids-california-farms/)
 * [2025-07-14, 19:54:26](https://news.ycombinator.com/item?id=44564531) - [NeuralOS: An Operating System Powered by Neural Networks](https://neural-os.com/)
+* [2025-07-14, 19:25:15](https://news.ycombinator.com/item?id=44564248) - [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
 * [2025-07-14, 18:19:45](https://news.ycombinator.com/item?id=44563470) - [Inequality, decay of democratic institutions linked to accelerated ageing](https://www.nature.com/articles/d41586-025-02181-x)
 * [2025-07-14, 18:11:25](https://news.ycombinator.com/item?id=44563364) - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
