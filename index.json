@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-14, 15:30:31",
+      "https://news.ycombinator.com/item?id=44561354"
+    ],
+    [
+      "Building Modular Rails Applications: A Deep Dive into Rails Engines",
+      "https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 15:24:57",
+      "https://news.ycombinator.com/item?id=44561284"
+    ],
+    [
+      "GM, LG to upgrade Tennessee plant to make low-cost EV batteries",
+      "https://www.cnbc.com/2025/07/14/gm-lg-ultium-spring-hill-tennessee-plant-ev-batteries.html"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 15:07:31",
       "https://news.ycombinator.com/item?id=44561104"
     ],
@@ -41,12 +61,22 @@
   ],
   [
     [
-      "2025-07-14, 11:12:18",
-      "https://news.ycombinator.com/item?id=44558755"
+      "2025-07-14, 14:32:08",
+      "https://news.ycombinator.com/item?id=44560740"
     ],
     [
-      "HoloMem's drop-in holographic tape drive for LTO tape libraries",
-      "https://blocksandfiles.com/2025/07/12/holomems-drop-in-holographic-tape-cartridge-for-lto-tape-libraries/"
+      "AI slows down open source developers. Peter Naur can teach us why",
+      "https://johnwhiles.com/posts/mental-models-vs-ai-tools"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 14:24:40",
+      "https://news.ycombinator.com/item?id=44560662"
+    ],
+    [
+      "AWS launches Kiro, its Cursor clone",
+      "https://kiro.dev/blog/introducing-kiro/"
     ]
   ],
   [
@@ -181,22 +211,12 @@
   ],
   [
     [
-      "2025-07-11, 14:27:42",
-      "https://news.ycombinator.com/item?id=44532527"
+      "2025-07-11, 18:17:22",
+      "https://news.ycombinator.com/item?id=44535378"
     ],
     [
-      "C3 solved memory lifetimes with scopes",
-      "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 09:45:56",
-      "https://news.ycombinator.com/item?id=44530250"
-    ],
-    [
-      "Bold Mission to Hunt for Aliens on Venus Is Happening",
-      "https://gizmodo.com/a-bold-mission-to-hunt-for-aliens-on-venus-is-actually-happening-2000627704"
+      "Six Game Devs Speak to Computer Games Mag (1984)",
+      "https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-07-10, 13:32:49",
-      "https://news.ycombinator.com/item?id=44520855"
-    ],
-    [
-      "Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser",
-      "https://vidmix.app/ffmpeg-in-plain-english/"
-    ]
-  ],
-  [
-    [
       "2025-07-10, 10:30:42",
       "https://news.ycombinator.com/item?id=44519395"
     ],
     [
       "The underground cathedral protecting Tokyo from floods (2018)",
       "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 16:59:30",
-      "https://news.ycombinator.com/item?id=44512350"
-    ],
-    [
-      "The upcoming GPT-3 moment for RL",
-      "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/"
     ]
   ]
 ]
