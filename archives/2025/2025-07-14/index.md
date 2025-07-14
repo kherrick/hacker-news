@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 15:07:31](https://news.ycombinator.com/item?id=44561104) - [Lightning Detector Circuits](https://techlib.com/electronics/lightningnew.htm)
+* [2025-07-14, 15:02:43](https://news.ycombinator.com/item?id=44561060) - [You Are in a Box](https://jyn.dev/you-are-in-a-box/)
+* [2025-07-14, 14:47:54](https://news.ycombinator.com/item?id=44560913) - [Lenovo Legion Go S: Windows 11 vs. SteamOS Performance, and General Availability](https://boilingsteam.com/lenovo-legion-go-s-windows-vs-steam-os-performance/)
+* [2025-07-14, 14:42:54](https://news.ycombinator.com/item?id=44560871) - [Strategies for Fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
 * [2025-07-14, 14:08:44](https://news.ycombinator.com/item?id=44560489) - [Show HN: TechBro Generator – Generate Satirical TechBro Posts](https://techbrogenerator.netlify.app/)
 * [2025-07-14, 12:38:18](https://news.ycombinator.com/item?id=44559469) - [Why recycling solar panels is harder than you might think](https://theconversation.com/why-recycling-solar-panels-is-harder-than-you-might-think-an-electrical-engineer-explains-259115)
+* [2025-07-14, 11:12:18](https://news.ycombinator.com/item?id=44558755) - [HoloMem's drop-in holographic tape drive for LTO tape libraries](https://blocksandfiles.com/2025/07/12/holomems-drop-in-holographic-tape-cartridge-for-lto-tape-libraries/)
 * [2025-07-14, 11:02:37](https://news.ycombinator.com/item?id=44558665) - [Death by a Thousand Slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 * [2025-07-14, 11:00:21](https://news.ycombinator.com/item?id=44558646) - [Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles](https://www.jstor.org/stable/26169128)
 * [2025-07-14, 10:06:45](https://news.ycombinator.com/item?id=44558252) - [Interview with Google's Android leader Sameer Samat](https://www.techradar.com/phones/android/i-think-you-see-the-future-first-on-android-googles-android-leader-sameer-samat)
