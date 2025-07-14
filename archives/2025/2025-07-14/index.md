@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 22:04:33](https://news.ycombinator.com/item?id=44565836) - [Tell HN: 1.1.1.1 Appears to Be Down](https://news.ycombinator.com/item?id=44565836)
+* [2025-07-14, 21:40:30](https://news.ycombinator.com/item?id=44565668) - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
+* [2025-07-14, 21:37:27](https://news.ycombinator.com/item?id=44565647) - [PHP License Update](https://wiki.php.net/rfc/php_license_update)
 * [2025-07-14, 21:27:04](https://news.ycombinator.com/item?id=44565548) - [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
 * [2025-07-14, 21:16:19](https://news.ycombinator.com/item?id=44565416) - [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
 * [2025-07-14, 20:42:29](https://news.ycombinator.com/item?id=44565004) - [Show HN: The HTML Maze - Escape an eerie labyrinth built with HTML pages](https://htmlmaze.com/)
