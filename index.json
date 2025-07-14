@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-14, 20:01:58",
+      "https://news.ycombinator.com/item?id=44564593"
+    ],
+    [
+      "Immigration raids leave crops unharvested and California farms at risk",
+      "https://www.japantimes.co.jp/business/2025/07/01/markets/immigration-raids-california-farms/"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 19:54:26",
       "https://news.ycombinator.com/item?id=44564531"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-07-14, 16:00:34",
-      "https://news.ycombinator.com/item?id=44561716"
-    ],
-    [
-      "Oakland cops gave ICE license plate data; SFPD also illegally shared with feds",
-      "https://sfstandard.com/2025/07/14/oakland-san-francisco-ice-license-plate-readers/"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 15:45:32",
       "https://news.ycombinator.com/item?id=44561520"
     ],
@@ -157,16 +157,6 @@
     [
       "Strategies for Fast Lexers",
       "https://xnacly.me/posts/2025/fast-lexer-strategies/"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 14:32:08",
-      "https://news.ycombinator.com/item?id=44560740"
-    ],
-    [
-      "AI slows down open source developers. Peter Naur can teach us why",
-      "https://johnwhiles.com/posts/mental-models-vs-ai-tools"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The Corset X-Rays of Dr Ludovic O'Followell (1908)",
       "https://publicdomainreview.org/collection/the-corset-x-rays-of-dr-ludovic-o-followell-1908/"
+    ]
+  ],
+  [
+    [
+      "2025-07-11, 10:26:32",
+      "https://news.ycombinator.com/item?id=44530518"
+    ],
+    [
+      "SQLite async connection pool for high-performance",
+      "https://github.com/slaily/aiosqlitepool"
     ]
   ],
   [
