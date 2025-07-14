@@ -18,6 +18,7 @@
 * [2025-07-10, 19:23:10](https://news.ycombinator.com/item?id=44524571) - [Working with the UK Government to Protect Children Online](https://bsky.social/about/blog/07-10-2025-age-assurance)
 * [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
 * [2025-07-10, 19:20:59](https://news.ycombinator.com/item?id=44524544) - [Show HN: Cactus – Ollama for Smartphones](https://github.com/cactus-compute/cactus)
+* [2025-07-10, 19:19:58](https://news.ycombinator.com/item?id=44524537) - [Lasagna Battery Cell](https://amazingribs.com/more-technique-and-science/more-cooking-science/reactive-pans/)
 * [2025-07-10, 19:10:28](https://news.ycombinator.com/item?id=44524430) - [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
 * [2025-07-10, 18:32:05](https://news.ycombinator.com/item?id=44524063) - [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
 * [2025-07-10, 18:13:14](https://news.ycombinator.com/item?id=44523885) - [Millions of Cars Exposed to Remote Hacking via PerfektBlue Attack](https://www.securityweek.com/millions-of-cars-exposed-to-remote-hacking-via-perfektblue-attack/)
