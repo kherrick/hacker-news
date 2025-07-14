@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 16:29:02](https://news.ycombinator.com/item?id=44562036) - [Embedding User-Defined Indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
 * [2025-07-14, 16:09:14](https://news.ycombinator.com/item?id=44561818) - [Japanese Grandparents Create Life-Size Totoro with Bus Stop for Grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/)
 * [2025-07-14, 16:02:36](https://news.ycombinator.com/item?id=44561736) - [Data Brokers Are Selling Your Flight Information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice)
 * [2025-07-14, 16:00:34](https://news.ycombinator.com/item?id=44561716) - [Oakland cops gave ICE license plate data; SFPD also illegally shared with feds](https://sfstandard.com/2025/07/14/oakland-san-francisco-ice-license-plate-readers/)

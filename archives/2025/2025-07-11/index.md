@@ -22,6 +22,7 @@
 * [2025-07-11, 18:41:14](https://news.ycombinator.com/item?id=44535604) - [Google nerfs Pixel 6a batteries following fire hazard](https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/)
 * [2025-07-11, 18:17:22](https://news.ycombinator.com/item?id=44535378) - [Six Game Devs Speak to Computer Games Mag (1984)](https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games)
 * [2025-07-11, 17:47:36](https://news.ycombinator.com/item?id=44535078) - [Show HN: RULER – Easily apply RL to any agent](https://openpipe.ai/blog/ruler)
+* [2025-07-11, 17:30:53](https://news.ycombinator.com/item?id=44534890) - [It took 45 years, but spreadsheet legend Mitch Kapor finally got his MIT degree](https://www.bostonglobe.com/2025/06/24/business/mitch-kapor-mit-degree-bill-aulet/)
 * [2025-07-11, 17:23:57](https://news.ycombinator.com/item?id=44534809) - [A Mental Model for C++ Coroutine](https://uvdn7.github.io/cpp-coro/)
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-11, 16:28:05](https://news.ycombinator.com/item?id=44534104) - [U.S. abandons hunt for signal of cosmic inflation](https://www.science.org/content/article/u-s-abandons-hunt-signal-cosmic-inflation)
