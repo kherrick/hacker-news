@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-14, 22:28:08](https://news.ycombinator.com/item?id=44566034) - [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
-* [2025-07-14, 22:04:33](https://news.ycombinator.com/item?id=44565836) - [Tell HN: 1.1.1.1 Appears to Be Down](https://news.ycombinator.com/item?id=44565836)
 * [2025-07-14, 21:40:30](https://news.ycombinator.com/item?id=44565668) - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
 * [2025-07-14, 21:37:27](https://news.ycombinator.com/item?id=44565647) - [RFC: PHP license update](https://wiki.php.net/rfc/php_license_update)
 * [2025-07-14, 21:16:19](https://news.ycombinator.com/item?id=44565416) - [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
@@ -17,6 +16,7 @@
 * [2025-07-14, 16:02:36](https://news.ycombinator.com/item?id=44561736) - [Data brokers are selling flight information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice)
 * [2025-07-14, 15:45:32](https://news.ycombinator.com/item?id=44561520) - [Two guys hated using Comcast, so they built their own fiber ISP](https://arstechnica.com/tech-policy/2025/07/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp/)
 * [2025-07-14, 15:30:31](https://news.ycombinator.com/item?id=44561354) - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
+* [2025-07-14, 15:28:36](https://news.ycombinator.com/item?id=44561328) - [Why random selection is necessary to create stable meritocratic institutions](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy)
 * [2025-07-14, 15:07:31](https://news.ycombinator.com/item?id=44561104) - [Lightning Detector Circuits](https://techlib.com/electronics/lightningnew.htm)
 * [2025-07-14, 14:42:54](https://news.ycombinator.com/item?id=44560871) - [Strategies for Fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
 * [2025-07-14, 14:24:40](https://news.ycombinator.com/item?id=44560662) - [Kiro: A new agentic IDE](https://kiro.dev/blog/introducing-kiro/)
