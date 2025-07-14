@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-14, 09:30:37](https://news.ycombinator.com/item?id=44558034) - [East Asian air cleanup likely contributed to acceleration in global warming](https://www.nature.com/articles/s43247-025-02527-3)
+* [2025-07-14, 09:13:49](https://news.ycombinator.com/item?id=44557916) - [Bitcoin passes $120k milestone as US Congress readies for 'crypto week'](https://www.ft.com/content/1d4c5942-7190-45e1-9167-a5eacfd93982)
 * [2025-07-14, 08:43:50](https://news.ycombinator.com/item?id=44557757) - [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
 * [2025-07-14, 07:27:02](https://news.ycombinator.com/item?id=44557348) - [Apple's Browser Engine Ban Persists, Even Under the DMA](https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/)
 * [2025-07-14, 06:41:51](https://news.ycombinator.com/item?id=44557115) - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
@@ -16,9 +18,7 @@
 * [2025-07-13, 18:31:47](https://news.ycombinator.com/item?id=44552414) - [GLP-1s are breaking life insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
 * [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
 * [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A technical look at Iran's internet shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
-* [2025-07-13, 15:30:29](https://news.ycombinator.com/item?id=44551109) - [Fine dining restaurants researching guests to make their dinner unforgettable](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
 * [2025-07-13, 14:09:06](https://news.ycombinator.com/item?id=44550572) - [How does a screen work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
-* [2025-07-13, 13:03:13](https://news.ycombinator.com/item?id=44550157) - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
 * [2025-07-12, 23:55:39](https://news.ycombinator.com/item?id=44546265) - [Show HN: ArchGW – An intelligent edge and service proxy for agents](https://github.com/katanemo/archgw/)
 * [2025-07-11, 14:27:42](https://news.ycombinator.com/item?id=44532527) - [C3 solved memory lifetimes with scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
 * [2025-07-11, 01:22:12](https://news.ycombinator.com/item?id=44527525) - [Concurrent Programming with Harmony](https://harmony.cs.cornell.edu/book/)
