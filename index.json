@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-07-14, 20:38:19",
-      "https://news.ycombinator.com/item?id=44564963"
+      "2025-07-14, 20:34:34",
+      "https://news.ycombinator.com/item?id=44564941"
     ],
     [
-      "Anthropic signs a $200mm deal with the Department of Defense",
-      "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 20:24:03",
-      "https://news.ycombinator.com/item?id=44564844"
-    ],
-    [
-      "M.2 SSD Can Self-Destruct by Giving Itself a Burst of Voltage",
-      "https://uk.pcmag.com/storage/159074/this-m2-ssd-can-self-destruct-by-giving-itself-a-burst-of-voltage"
+      "Grok 4 Heavy ($300/mo) returns its surname and no other text: \"Hitler\"",
+      "https://twitter.com/goodside/status/1944266466875826617"
     ]
   ],
   [
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=44564656"
     ],
     [
-      "LIGO Detects Most Massive Black Hole Merger to Date",
+      "LIGO detects most massive black hole merger to date",
       "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date"
     ]
   ],
@@ -35,8 +25,18 @@
       "https://news.ycombinator.com/item?id=44564531"
     ],
     [
-      "NeuralOS: An Operating System Powered by Neural Networks",
+      "NeuralOS: An operating system powered by neural networks",
       "https://neural-os.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 19:25:15",
+      "https://news.ycombinator.com/item?id=44564248"
+    ],
+    [
+      "Context Rot: How increasing input tokens impacts LLM performance",
+      "https://research.trychroma.com/context-rot"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-07-14, 14:32:08",
+      "https://news.ycombinator.com/item?id=44560740"
+    ],
+    [
+      "AI slows down open source developers. Peter Naur can teach us why",
+      "https://johnwhiles.com/posts/mental-models-vs-ai-tools"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 14:24:40",
       "https://news.ycombinator.com/item?id=44560662"
     ],
@@ -277,16 +287,6 @@
     [
       "Lossless Float Image Compression",
       "https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 16:21:13",
-      "https://news.ycombinator.com/item?id=44522683"
-    ],
-    [
-      "Show HN: Ten years of running every day, visualized",
-      "https://nodaysoff.run"
     ]
   ],
   [
