@@ -67,6 +67,7 @@
 * [2025-07-10, 10:59:06](https://news.ycombinator.com/item?id=44519596) - [Magic .env files built for sharing: Human-first, AI-friendly](https://varlock.dev/)
 * [2025-07-10, 10:41:58](https://news.ycombinator.com/item?id=44519470) - [A Century of Quantum Mechanics](https://home.cern/news/news/physics/century-quantum-mechanics)
 * [2025-07-10, 10:30:42](https://news.ycombinator.com/item?id=44519395) - [The underground cathedral protecting Tokyo from floods](https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods)
+* [2025-07-10, 10:02:51](https://news.ycombinator.com/item?id=44519267) - [Show HN: Built a desktop app to organize photos locally with duplicate detection](https://organizer.flipfocus.nl/)
 * [2025-07-10, 09:48:09](https://news.ycombinator.com/item?id=44519175) - [Computer Scientists Figure Out How to Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-10, 09:27:02](https://news.ycombinator.com/item?id=44519034) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 * [2025-07-10, 09:02:51](https://news.ycombinator.com/item?id=44518898) - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
