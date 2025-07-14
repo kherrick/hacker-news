@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-14, 08:43:50](https://news.ycombinator.com/item?id=44557757) - [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
 * [2025-07-14, 07:27:02](https://news.ycombinator.com/item?id=44557348) - [Apple's Browser Engine Ban Persists, Even Under the DMA](https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/)
 * [2025-07-14, 06:41:51](https://news.ycombinator.com/item?id=44557115) - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 * [2025-07-14, 05:12:18](https://news.ycombinator.com/item?id=44556684) - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
@@ -13,7 +14,6 @@
 * [2025-07-13, 20:23:37](https://news.ycombinator.com/item?id=44553389) - [Five companies now control over 90% of the restaurant food delivery market](https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90)
 * [2025-07-13, 20:09:34](https://news.ycombinator.com/item?id=44553257) - [Hypercapitalism and the AI talent wars](https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent)
 * [2025-07-13, 18:31:47](https://news.ycombinator.com/item?id=44552414) - [GLP-1s are breaking life insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
-* [2025-07-13, 17:00:57](https://news.ycombinator.com/item?id=44551784) - [Infisical (YC W23) Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations)
 * [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
 * [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A technical look at Iran's internet shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
 * [2025-07-13, 15:30:29](https://news.ycombinator.com/item?id=44551109) - [Fine dining restaurants researching guests to make their dinner unforgettable](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
