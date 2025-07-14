@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 07:27:02](https://news.ycombinator.com/item?id=44557348) - [Apple's Browser Engine Ban Persists, Even Under the DMA](https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/)
+* [2025-07-14, 06:41:51](https://news.ycombinator.com/item?id=44557115) - [I Build Software Quickly](https://evanhahn.com/how-i-build-software-quickly/)
 * [2025-07-14, 05:47:06](https://news.ycombinator.com/item?id=44556845) - [O3 and Grok 4 Accidentally Vindicated Neurosymbolic AI](https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated)
 * [2025-07-14, 05:12:18](https://news.ycombinator.com/item?id=44556684) - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 * [2025-07-14, 04:16:29](https://news.ycombinator.com/item?id=44556406) - [Myanmar's proliferating scam centers. These 'prisons' have three features](https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/)
