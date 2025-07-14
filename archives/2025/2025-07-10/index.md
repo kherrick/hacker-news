@@ -28,6 +28,7 @@
 * [2025-07-10, 17:44:13](https://news.ycombinator.com/item?id=44523539) - [Retail cyber attacks: NCA arrest four for attacks on M&S, Co-op and Harrods](https://www.nationalcrimeagency.gov.uk/news/retail-cyber-attacks-nca-arrest-four-for-attacks-on-m-s-co-op-and-harrods)
 * [2025-07-10, 17:42:54](https://news.ycombinator.com/item?id=44523523) - [Launch HN: Leaping (YC W25) – Self-Improving Voice AI](https://news.ycombinator.com/item?id=44523523)
 * [2025-07-10, 17:33:07](https://news.ycombinator.com/item?id=44523409) - [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/)
+* [2025-07-10, 17:30:33](https://news.ycombinator.com/item?id=44523372) - [Burning a Magnesium NeXT Cube (1993)](https://simson.net/ref/1993/cubefire.html)
 * [2025-07-10, 17:14:06](https://news.ycombinator.com/item?id=44523189) - [LLMs show cultural theory was right about the death of the author](https://www.programmablemutter.com/p/cultural-theory-was-right-about-the)
 * [2025-07-10, 17:04:00](https://news.ycombinator.com/item?id=44523094) - [Show HN: asyncmcp – Run MCP over async transport via AWS SNS+SQS](https://github.com/bh-rat/asyncmcp)
 * [2025-07-10, 16:29:18](https://news.ycombinator.com/item?id=44522772) - [Measuring the Impact of AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)

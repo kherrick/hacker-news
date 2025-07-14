@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-14, 05:47:06](https://news.ycombinator.com/item?id=44556845) - [O3 and Grok 4 Accidentally Vindicated Neurosymbolic AI](https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated)
 * [2025-07-14, 05:12:18](https://news.ycombinator.com/item?id=44556684) - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 * [2025-07-14, 04:16:29](https://news.ycombinator.com/item?id=44556406) - [Myanmar’s proliferating scam centers](https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/)
 * [2025-07-14, 02:17:06](https://news.ycombinator.com/item?id=44555836) - [Stellantis declares bankruptcy in China, with $1B in debts](https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/)
@@ -23,6 +22,7 @@
 * [2025-07-12, 23:55:39](https://news.ycombinator.com/item?id=44546265) - [Show HN: ArchGW – An intelligent edge and service proxy for agents](https://github.com/katanemo/archgw/)
 * [2025-07-11, 14:27:42](https://news.ycombinator.com/item?id=44532527) - [C3 solved memory lifetimes with scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
 * [2025-07-10, 20:47:34](https://news.ycombinator.com/item?id=44525405) - [How to scale RL to 10^26 FLOPs](https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops)
+* [2025-07-10, 17:30:33](https://news.ycombinator.com/item?id=44523372) - [Burning a Magnesium NeXT Cube (1993)](https://simson.net/ref/1993/cubefire.html)
 * [2025-07-10, 16:21:13](https://news.ycombinator.com/item?id=44522683) - [Show HN: Ten years of running every day, visualized](https://nodaysoff.run)
 * [2025-07-10, 13:52:27](https://news.ycombinator.com/item?id=44521108) - [Chimpfluencers Stick Grass in Their Ears and Butts in Latest Viral Trend](https://www.sciencealert.com/chimpfluencers-are-sticking-grass-in-their-ears-and-butts-in-latest-viral-trend)
 * [2025-07-10, 13:32:49](https://news.ycombinator.com/item?id=44520855) - [Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser](https://vidmix.app/ffmpeg-in-plain-english/)
