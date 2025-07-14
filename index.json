@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-07-14, 02:17:06",
-      "https://news.ycombinator.com/item?id=44555836"
-    ],
-    [
-      "Stellantis declares bankruptcy in China, with $1B in debts",
-      "https://www.italpassion.fr/en/stellantis/stellantis-declares-bankruptcy-in-china-with-1-billion-in-debts/"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 02:10:54",
       "https://news.ycombinator.com/item?id=44555804"
     ],
@@ -217,6 +207,16 @@
     [
       "C3 solved memory lifetimes with scopes",
       "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 23:08:14",
+      "https://news.ycombinator.com/item?id=44526728"
+    ],
+    [
+      "Binding Application in Idris",
+      "https://andrevidela.com/blog/2025/binding-application/"
     ]
   ],
   [
