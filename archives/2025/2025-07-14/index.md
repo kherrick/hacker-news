@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 15:30:31](https://news.ycombinator.com/item?id=44561354) - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
+* [2025-07-14, 15:24:57](https://news.ycombinator.com/item?id=44561284) - [GM, LG to upgrade Tennessee plant to make low-cost EV batteries](https://www.cnbc.com/2025/07/14/gm-lg-ultium-spring-hill-tennessee-plant-ev-batteries.html)
 * [2025-07-14, 15:07:31](https://news.ycombinator.com/item?id=44561104) - [Lightning Detector Circuits](https://techlib.com/electronics/lightningnew.htm)
 * [2025-07-14, 15:02:43](https://news.ycombinator.com/item?id=44561060) - [You Are in a Box](https://jyn.dev/you-are-in-a-box/)
 * [2025-07-14, 14:47:54](https://news.ycombinator.com/item?id=44560913) - [Lenovo Legion Go S: Windows 11 vs. SteamOS Performance, and General Availability](https://boilingsteam.com/lenovo-legion-go-s-windows-vs-steam-os-performance/)
 * [2025-07-14, 14:42:54](https://news.ycombinator.com/item?id=44560871) - [Strategies for Fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
+* [2025-07-14, 14:32:08](https://news.ycombinator.com/item?id=44560740) - [AI slows down open source developers. Peter Naur can teach us why](https://johnwhiles.com/posts/mental-models-vs-ai-tools)
+* [2025-07-14, 14:24:40](https://news.ycombinator.com/item?id=44560662) - [AWS launches Kiro, its Cursor clone](https://kiro.dev/blog/introducing-kiro/)
 * [2025-07-14, 14:08:44](https://news.ycombinator.com/item?id=44560489) - [Show HN: TechBro Generator – Generate Satirical TechBro Posts](https://techbrogenerator.netlify.app/)
 * [2025-07-14, 12:38:18](https://news.ycombinator.com/item?id=44559469) - [Why recycling solar panels is harder than you might think](https://theconversation.com/why-recycling-solar-panels-is-harder-than-you-might-think-an-electrical-engineer-explains-259115)
 * [2025-07-14, 11:12:18](https://news.ycombinator.com/item?id=44558755) - [HoloMem's drop-in holographic tape drive for LTO tape libraries](https://blocksandfiles.com/2025/07/12/holomems-drop-in-holographic-tape-cartridge-for-lto-tape-libraries/)

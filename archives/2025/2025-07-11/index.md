@@ -20,6 +20,7 @@
 * [2025-07-11, 19:18:45](https://news.ycombinator.com/item?id=44535934) - [Belkin shows tech firms getting too comfortable with bricking customers' stuff](https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/)
 * [2025-07-11, 18:45:10](https://news.ycombinator.com/item?id=44535637) - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
 * [2025-07-11, 18:41:14](https://news.ycombinator.com/item?id=44535604) - [Google nerfs Pixel 6a batteries following fire hazard](https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/)
+* [2025-07-11, 18:17:22](https://news.ycombinator.com/item?id=44535378) - [Six Game Devs Speak to Computer Games Mag (1984)](https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games)
 * [2025-07-11, 17:47:36](https://news.ycombinator.com/item?id=44535078) - [Show HN: RULER – Easily apply RL to any agent](https://openpipe.ai/blog/ruler)
 * [2025-07-11, 17:23:57](https://news.ycombinator.com/item?id=44534809) - [A Mental Model for C++ Coroutine](https://uvdn7.github.io/cpp-coro/)
 * [2025-07-11, 17:22:01](https://news.ycombinator.com/item?id=44534787) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
