@@ -43,6 +43,7 @@
 * [2025-07-11, 13:14:21](https://news.ycombinator.com/item?id=44531764) - [Some arguments against a land value tax](https://www.lesswrong.com/posts/CCuJotfcaoXf8FYcy/some-arguments-against-a-land-value-tax)
 * [2025-07-11, 13:07:03](https://news.ycombinator.com/item?id=44531707) - [Overtourism in Japan, and How It Hurts Small Businesses](https://craigmod.com/ridgeline/210/)
 * [2025-07-11, 13:06:32](https://news.ycombinator.com/item?id=44531697) - [AI Agent Benchmarks Are Broken](https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken)
+* [2025-07-11, 13:01:07](https://news.ycombinator.com/item?id=44531642) - [How secure is your Bitcoin wallet's mnemonic seed phrase?](https://bennet.org/blog/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
 * [2025-07-11, 13:00:41](https://news.ycombinator.com/item?id=44531635) - [Things I learned from 5 years at Vercel](https://leerob.com/vercel)
 * [2025-07-11, 12:53:27](https://news.ycombinator.com/item?id=44531569) - [Repaste Your MacBook (But Don't)](https://christianselig.com/2025/07/repaste-macbook/)
 * [2025-07-11, 12:52:15](https://news.ycombinator.com/item?id=44531561) - ['Click-to-cancel' rule is blocked](https://apnews.com/article/ftc-click-to-cancel-30db2be07fdcb8aefd0d4835abdb116a)
