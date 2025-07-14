@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 23:46:12",
+      "https://news.ycombinator.com/item?id=44554865"
+    ],
+    [
+      "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs",
+      "https://arxiv.org/abs/2502.17424"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 23:21:21",
       "https://news.ycombinator.com/item?id=44554713"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44554307"
     ],
     [
-      "Let's Learn x86-64 Assembly Part 0 – Setup and First Steps",
+      "Let's Learn x86-64 Assembly (2020)",
       "https://gpfault.net/posts/asm-tut-0.txt.html"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=44553949"
     ],
     [
-      "Traditional Chinese Medicine Has Not Been Vindicated by Science",
+      "Big Data was used to see if TCM was scientific (2023)",
       "https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science"
     ]
   ],
@@ -47,6 +57,16 @@
     [
       "APKLab: Android Reverse-Engineering Workbench for VS Code",
       "https://github.com/APKLab/APKLab"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 20:35:17",
+      "https://news.ycombinator.com/item?id=44553479"
+    ],
+    [
+      "Programming Language Theory has a public relations problem",
+      "https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/"
     ]
   ],
   [
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2025-07-13, 09:44:47",
-      "https://news.ycombinator.com/item?id=44548906"
-    ],
-    [
-      "Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI",
-      "https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b"
-    ]
-  ],
-  [
-    [
-      "2025-07-13, 07:48:44",
-      "https://news.ycombinator.com/item?id=44548353"
-    ],
-    [
-      "Reading Neuromancer for the first time in 2025",
-      "https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 14:27:42",
       "https://news.ycombinator.com/item?id=44532527"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=44527172"
     ],
     [
-      "Axon's Draft One AI Police Report Generator Is Designed to Defy Transparency",
+      "Axon’s Draft One is designed to defy transparency",
       "https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency"
     ]
   ],
@@ -247,6 +247,26 @@
     [
       "How to scale RL to 10^26 FLOPs",
       "https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 16:21:13",
+      "https://news.ycombinator.com/item?id=44522683"
+    ],
+    [
+      "Show HN: Ten years of running every day, visualized",
+      "https://nodaysoff.run"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 13:32:49",
+      "https://news.ycombinator.com/item?id=44520855"
+    ],
+    [
+      "Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser",
+      "https://vidmix.app/ffmpeg-in-plain-english/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "The underground cathedral protecting Tokyo from floods (2018)",
       "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 05:39:46",
-      "https://news.ycombinator.com/item?id=44517649"
-    ],
-    [
-      "The Robot Sculptors of Italy",
-      "https://www.bloomberg.com/features/2025-robot-sculptors-marble/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 23:32:53",
-      "https://news.ycombinator.com/item?id=44515783"
-    ],
-    [
-      "Notes on Graham's ANSI Common Lisp (2024)",
-      "https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html"
     ]
   ],
   [
