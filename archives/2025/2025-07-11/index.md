@@ -38,6 +38,7 @@
 * [2025-07-11, 15:08:52](https://news.ycombinator.com/item?id=44533004) - [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
 * [2025-07-11, 15:00:36](https://news.ycombinator.com/item?id=44532913) - [I'm Done with Social Media](https://www.carolinecrampton.com/im-done-with-social-media/)
 * [2025-07-11, 14:49:11](https://news.ycombinator.com/item?id=44532771) - [Walking every street in New York City](https://imjustwalkin.com/)
+* [2025-07-11, 14:44:54](https://news.ycombinator.com/item?id=44532718) - [The Corset X-Rays of Dr Ludovic O'Followell (1908)](https://publicdomainreview.org/collection/the-corset-x-rays-of-dr-ludovic-o-followell-1908/)
 * [2025-07-11, 14:41:47](https://news.ycombinator.com/item?id=44532674) - [Bayeux Tapestry Will Return to the U.K. In 950 Years](https://news.artnet.com/art-world/bayeux-tapestry-british-museum-loan-2665313)
 * [2025-07-11, 14:27:42](https://news.ycombinator.com/item?id=44532527) - [Forget borrow checkers: C3 solved memory lifetimes with scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
 * [2025-07-11, 14:06:07](https://news.ycombinator.com/item?id=44532306) - [Upgrading an M4 Pro Mac mini's storage for half the price](https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price)
