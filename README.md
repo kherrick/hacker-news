@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-14, 20:38:19](https://news.ycombinator.com/item?id=44564963) - [Anthropic signs a $200mm deal with the Department of Defense](https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations)
+* [2025-07-14, 20:24:03](https://news.ycombinator.com/item?id=44564844) - [M.2 SSD Can Self-Destruct by Giving Itself a Burst of Voltage](https://uk.pcmag.com/storage/159074/this-m2-ssd-can-self-destruct-by-giving-itself-a-burst-of-voltage)
 * [2025-07-14, 20:06:51](https://news.ycombinator.com/item?id=44564656) - [LIGO Detects Most Massive Black Hole Merger to Date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
-* [2025-07-14, 20:01:58](https://news.ycombinator.com/item?id=44564593) - [Immigration raids leave crops unharvested and California farms at risk](https://www.japantimes.co.jp/business/2025/07/01/markets/immigration-raids-california-farms/)
 * [2025-07-14, 19:54:26](https://news.ycombinator.com/item?id=44564531) - [NeuralOS: An Operating System Powered by Neural Networks](https://neural-os.com/)
 * [2025-07-14, 18:11:25](https://news.ycombinator.com/item?id=44563364) - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
@@ -12,7 +13,6 @@
 * [2025-07-14, 15:45:32](https://news.ycombinator.com/item?id=44561520) - [Two guys hated using Comcast, so they built their own fiber ISP](https://arstechnica.com/tech-policy/2025/07/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp/)
 * [2025-07-14, 15:30:31](https://news.ycombinator.com/item?id=44561354) - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
 * [2025-07-14, 15:28:36](https://news.ycombinator.com/item?id=44561328) - [Why random selection is necessary to create stable meritocratic institutions](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy)
-* [2025-07-14, 15:24:57](https://news.ycombinator.com/item?id=44561284) - [GM, LG to upgrade Tennessee plant to make low-cost EV batteries](https://www.cnbc.com/2025/07/14/gm-lg-ultium-spring-hill-tennessee-plant-ev-batteries.html)
 * [2025-07-14, 15:07:31](https://news.ycombinator.com/item?id=44561104) - [Lightning Detector Circuits](https://techlib.com/electronics/lightningnew.htm)
 * [2025-07-14, 15:02:43](https://news.ycombinator.com/item?id=44561060) - [You Are in a Box](https://jyn.dev/you-are-in-a-box/)
 * [2025-07-14, 14:42:54](https://news.ycombinator.com/item?id=44560871) - [Strategies for Fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)

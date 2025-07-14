@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 20:38:19](https://news.ycombinator.com/item?id=44564963) - [Anthropic signs a $200mm deal with the Department of Defense](https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations)
+* [2025-07-14, 20:24:03](https://news.ycombinator.com/item?id=44564844) - [M.2 SSD Can Self-Destruct by Giving Itself a Burst of Voltage](https://uk.pcmag.com/storage/159074/this-m2-ssd-can-self-destruct-by-giving-itself-a-burst-of-voltage)
 * [2025-07-14, 20:06:51](https://news.ycombinator.com/item?id=44564656) - [LIGO Detects Most Massive Black Hole Merger to Date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
 * [2025-07-14, 20:01:58](https://news.ycombinator.com/item?id=44564593) - [Immigration raids leave crops unharvested and California farms at risk](https://www.japantimes.co.jp/business/2025/07/01/markets/immigration-raids-california-farms/)
 * [2025-07-14, 19:54:26](https://news.ycombinator.com/item?id=44564531) - [NeuralOS: An Operating System Powered by Neural Networks](https://neural-os.com/)
