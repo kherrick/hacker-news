@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-14, 18:04:54](https://news.ycombinator.com/item?id=44563290) - [Cognition (Devin AI) to Acquire Windsurf](https://twitter.com/cognition_labs/status/1944819486538023138)
 * [2025-07-14, 17:01:54](https://news.ycombinator.com/item?id=44562488) - [Meticulous (YC S21) is hiring in UK to redefine software dev,£100k-300k and equity](https://tinyurl.com/join-meticulous)
 * [2025-07-14, 16:29:02](https://news.ycombinator.com/item?id=44562036) - [Embedding User-Defined Indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
 * [2025-07-14, 16:09:14](https://news.ycombinator.com/item?id=44561818) - [Japanese Grandparents Create Life-Size Totoro with Bus Stop for Grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/)
@@ -19,7 +20,6 @@
 * [2025-07-14, 05:12:18](https://news.ycombinator.com/item?id=44556684) - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 * [2025-07-13, 23:46:12](https://news.ycombinator.com/item?id=44554865) - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
 * [2025-07-13, 22:22:15](https://news.ycombinator.com/item?id=44554307) - [Let's Learn x86-64 Assembly (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
-* [2025-07-13, 20:09:34](https://news.ycombinator.com/item?id=44553257) - [Hypercapitalism and the AI talent wars](https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent)
 * [2025-07-13, 18:44:56](https://news.ycombinator.com/item?id=44552500) - [Happy 20th Birthday, Django](https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/)
 * [2025-07-13, 14:09:06](https://news.ycombinator.com/item?id=44550572) - [How does a screen work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
 * [2025-07-11, 18:17:22](https://news.ycombinator.com/item?id=44535378) - [Six Game Devs Speak to Computer Games Mag (1984)](https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games)
