@@ -31,22 +31,22 @@
   ],
   [
     [
-      "2025-07-15, 03:43:57",
-      "https://news.ycombinator.com/item?id=44567650"
-    ],
-    [
-      "Show HN: CallFS – S3-style object store in one Go binary (MIT)",
-      "https://github.com/ebogdum/callfs"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 01:50:12",
       "https://news.ycombinator.com/item?id=44567134"
     ],
     [
       "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
       "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 01:24:45",
+      "https://news.ycombinator.com/item?id=44567008"
+    ],
+    [
+      "Doge Denizen Marko Elez Leaked API Key for XAI",
+      "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-07-14, 18:11:25",
+      "https://news.ycombinator.com/item?id=44563364"
+    ],
+    [
+      "Cidco MailStation as a Z80 Development Platform (2019)",
+      "https://jcs.org/2019/05/03/mailstation"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 18:07:15",
       "https://news.ycombinator.com/item?id=44563324"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-07-14, 09:30:37",
-      "https://news.ycombinator.com/item?id=44558034"
-    ],
-    [
-      "East Asian aerosol cleanup has likely contributed to global warming",
-      "https://www.nature.com/articles/s43247-025-02527-3"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 18:44:56",
       "https://news.ycombinator.com/item?id=44552500"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=44550722"
     ],
     [
-      "Bringing Virtualization to the x86 Architecture with the Original VMware Workst [pdf]",
+      "VMware Workstation: Bringing Virtualization to the x86 Architecture [pdf] (2012)",
       "https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf"
     ]
   ],
