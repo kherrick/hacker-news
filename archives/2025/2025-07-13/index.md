@@ -58,6 +58,7 @@
 * [2025-07-13, 09:10:34](https://news.ycombinator.com/item?id=44548752) - [AGI Is Mathematically Impossible (3): Kolmogorov Complexity](https://news.ycombinator.com/item?id=44548752)
 * [2025-07-13, 09:02:20](https://news.ycombinator.com/item?id=44548712) - [SCP-055 is an \"antimeme\" – it erases itself from memory when observed](https://scp-wiki.wikidot.com/scp-055)
 * [2025-07-13, 08:41:51](https://news.ycombinator.com/item?id=44548630) - [Show HN: VS Code extension to edit the filesystem like a text buffer](https://github.com/ahrm/voil)
+* [2025-07-13, 08:39:47](https://news.ycombinator.com/item?id=44548620) - [Lorem Gibson](http://loremgibson.com/)
 * [2025-07-13, 08:38:52](https://news.ycombinator.com/item?id=44548610) - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
 * [2025-07-13, 08:19:04](https://news.ycombinator.com/item?id=44548519) - [ISRO successfully conducts hot tests of Gaganyaan propulsion system](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece)
 * [2025-07-13, 08:16:02](https://news.ycombinator.com/item?id=44548503) - [Why Lua Beats MicroPython for Serious Embedded Devs](https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs)
