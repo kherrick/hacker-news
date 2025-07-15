@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 19:35:15](https://news.ycombinator.com/item?id=44574990) - [Hierarchical Modeling (H-Nets)](https://cartesia.ai/blog/hierarchical-modeling)
 * [2025-07-15, 19:16:59](https://news.ycombinator.com/item?id=44574815) - [Helix Editor Release 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
 * [2025-07-15, 18:46:56](https://news.ycombinator.com/item?id=44574517) - [AI coding may not be helping as much as you think](https://garymarcus.substack.com/p/breaking-news-ai-coding-may-not-be)
 * [2025-07-15, 18:45:43](https://news.ycombinator.com/item?id=44574506) - [Meta shareholders look to haul CEO Mark Zuckerberg, Sheryl Sandberg to court](https://nypost.com/2025/07/15/business/meta-shareholders-aim-to-haul-ceo-mark-zuckerberg-sheryl-sandberg-to-court/)
@@ -12,6 +13,7 @@
 * [2025-07-15, 18:14:51](https://news.ycombinator.com/item?id=44574204) - [Mistralai/Voxtral-Mini-3B-2507 · Hugging Face](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507)
 * [2025-07-15, 18:05:21](https://news.ycombinator.com/item?id=44574095) - [Encrypting Files with Passkeys and Age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-15, 17:48:35](https://news.ycombinator.com/item?id=44573887) - [Designing for the Eye: Optical Corrections in Architecture and Typography](https://www.nubero.ch/blog/015/)
+* [2025-07-15, 17:43:45](https://news.ycombinator.com/item?id=44573840) - [Why my p(doom) has risen, dramatically](https://garymarcus.substack.com/p/why-my-pdoom-has-risen-dramatically)
 * [2025-07-15, 17:40:18](https://news.ycombinator.com/item?id=44573799) - [Open-source framework for real-time AI voice](https://github.com/videosdk-live/agents)
 * [2025-07-15, 17:35:42](https://news.ycombinator.com/item?id=44573752) - [KDE's official Android TV alternative is back from the dead](https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/)
 * [2025-07-15, 17:19:57](https://news.ycombinator.com/item?id=44573574) - [Mira Murati's AI startup Thinking Machines raises $2B in A16Z-led round](https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/)
