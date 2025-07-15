@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
 * [2025-07-15, 22:54:19](https://news.ycombinator.com/item?id=44576762) - [Huawei's star AI model was built on burnout and plagiarism](https://the-open-source-ward.ghost.io/the-pangu-illusion-how-huaweis-star-ai-model-was-built-on-burnout-betrayal-and-open-source-theft/)
+* [2025-07-15, 22:07:47](https://news.ycombinator.com/item?id=44576352) - [My Family and the Flood: A Firsthand Account](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
 * [2025-07-15, 22:03:50](https://news.ycombinator.com/item?id=44576312) - [AI ate code, now it wants cashflows. Is this finance's Copilot moment?\"](https://www.anthropic.com/news/claude-for-financial-services)
 * [2025-07-15, 21:29:16](https://news.ycombinator.com/item?id=44575998) - [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
 * [2025-07-15, 21:03:50](https://news.ycombinator.com/item?id=44575794) - [Where's Firefox Going Next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
 * [2025-07-15, 20:42:49](https://news.ycombinator.com/item?id=44575607) - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
+* [2025-07-15, 20:32:20](https://news.ycombinator.com/item?id=44575522) - [What is going on with US weather radar today?](https://atlas.niu.edu/analysis/radar/midwest/?C=N;O=D)
 * [2025-07-15, 19:35:15](https://news.ycombinator.com/item?id=44574990) - [Hierarchical Modeling (H-Nets)](https://cartesia.ai/blog/hierarchical-modeling)
 * [2025-07-15, 19:27:19](https://news.ycombinator.com/item?id=44574905) - [Human Stigmergy: The world is my task list](https://aethermug.com/posts/human-stigmergy)
 * [2025-07-15, 19:23:07](https://news.ycombinator.com/item?id=44574864) - [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
