@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-15, 10:03:30](https://news.ycombinator.com/item?id=44569619) - [Code highlighting with Cursor AI used for $500k theft](https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/)
+* [2025-07-15, 08:09:19](https://news.ycombinator.com/item?id=44569024) - [Show HN: Minesweeper game I built to be real-time Multiplayer](https://www.minesweeperpro.com/?v=2.1)
 * [2025-07-15, 04:43:08](https://news.ycombinator.com/item?id=44567888) - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 * [2025-07-15, 04:40:10](https://news.ycombinator.com/item?id=44567871) - [Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
@@ -14,7 +15,6 @@
 * [2025-07-14, 19:54:26](https://news.ycombinator.com/item?id=44564531) - [NeuralOS: An operating system powered by neural networks](https://neural-os.com/)
 * [2025-07-14, 19:25:15](https://news.ycombinator.com/item?id=44564248) - [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
-* [2025-07-14, 16:29:02](https://news.ycombinator.com/item?id=44562036) - [Embedding user-defined indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
 * [2025-07-14, 15:30:31](https://news.ycombinator.com/item?id=44561354) - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
 * [2025-07-14, 14:42:54](https://news.ycombinator.com/item?id=44560871) - [Strategies for Fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
 * [2025-07-14, 14:24:40](https://news.ycombinator.com/item?id=44560662) - [Kiro: A new agentic IDE](https://kiro.dev/blog/introducing-kiro/)
