@@ -25,11 +25,11 @@
 * [2025-07-14, 20:06:51](https://news.ycombinator.com/item?id=44564656) - [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
 * [2025-07-13, 15:41:30](https://news.ycombinator.com/item?id=44551203) - [A quick look at unprivileged sandboxing](https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html)
-* [2025-07-13, 11:38:18](https://news.ycombinator.com/item?id=44549549) - [Show HN: I built this to talk Danish to my girlfriend – works with any language](https://menerdu.vercel.app/)
 * [2025-07-13, 08:39:47](https://news.ycombinator.com/item?id=44548620) - [Lorem Gibson](http://loremgibson.com/)
 * [2025-07-13, 00:06:20](https://news.ycombinator.com/item?id=44546321) - [Petabit-class transmission over > 1000 km using standard 19-core optical fiber](https://www.nict.go.jp/en/press/2025/05/29-1.html)
 * [2025-07-12, 20:50:56](https://news.ycombinator.com/item?id=44545050) - [Most (ly Dead) Influential Programming Languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/)
 * [2025-07-12, 14:42:04](https://news.ycombinator.com/item?id=44542408) - [Mel, Annotated](https://users.cs.utah.edu/~elb/folklore/mel-annotated/mel-annotated.html)
+* [2025-07-11, 16:02:13](https://news.ycombinator.com/item?id=44533759) - [VHS, VCDs, and Laserdiscs in Southeast Asia](https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/)
 
 ## [Archives](archives/index.md)
 
