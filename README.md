@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-15, 16:21:08](https://news.ycombinator.com/item?id=44572792) - [Marc Andreessen Is a Traitor](https://www.liberalcurrents.com/marc-andreessen-is-a-traitor/)
 * [2025-07-15, 15:56:47](https://news.ycombinator.com/item?id=44572499) - [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
 * [2025-07-15, 15:46:41](https://news.ycombinator.com/item?id=44572377) - [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
 * [2025-07-15, 15:37:15](https://news.ycombinator.com/item?id=44572273) - [Adding lookbehinds to rust-lang/regex](https://systemf.epfl.ch/blog/rust-regex-lookbehinds/)
@@ -16,6 +15,7 @@
 * [2025-07-15, 03:52:38](https://news.ycombinator.com/item?id=44567683) - [Literalism plaguing today’s movies](https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies)
 * [2025-07-14, 21:40:30](https://news.ycombinator.com/item?id=44565668) - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
 * [2025-07-14, 20:06:51](https://news.ycombinator.com/item?id=44564656) - [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
+* [2025-07-14, 19:54:26](https://news.ycombinator.com/item?id=44564531) - [NeuralOS: An operating system powered by neural networks](https://neural-os.com/)
 * [2025-07-14, 19:25:15](https://news.ycombinator.com/item?id=44564248) - [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
 * [2025-07-14, 15:28:36](https://news.ycombinator.com/item?id=44561328) - [Random selection is necessary to create stable meritocratic institutions](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy)
@@ -23,7 +23,7 @@
 * [2025-07-13, 11:38:18](https://news.ycombinator.com/item?id=44549549) - [Show HN: I built this to talk Danish to my girlfriend – works with any language](https://menerdu.vercel.app/)
 * [2025-07-13, 11:32:51](https://news.ycombinator.com/item?id=44549517) - [Micro Adventure – Space Attack (online emulator)](https://auri-microadventure.azurewebsites.net/)
 * [2025-07-13, 05:05:54](https://news.ycombinator.com/item?id=44547686) - [The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale](https://arxiv.org/abs/2506.05987)
-* [2025-07-12, 22:24:57](https://news.ycombinator.com/item?id=44545695) - [I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor](https://thewalrus.ca/empress-of-ireland-survivor-mystery/)
+* [2025-07-13, 00:06:20](https://news.ycombinator.com/item?id=44546321) - [Petabit-class transmission over > 1000 km using standard 19-core optical fiber](https://www.nict.go.jp/en/press/2025/05/29-1.html)
 * [2025-07-12, 17:09:08](https://news.ycombinator.com/item?id=44543388) - [\"English Translators of Homer\": A Review](https://whatisthequestion.wordpress.com/2025/07/12/english-translators-of-homer-by-simeon-underwood/)
 * [2025-07-11, 17:23:55](https://news.ycombinator.com/item?id=44534807) - [Win, lose, or draw: trends in English football match results](https://blog.engora.com/2025/06/english-football-data.html)
 * [2025-07-11, 16:02:13](https://news.ycombinator.com/item?id=44533759) - [VHS, VCDs, and Laserdiscs in Southeast Asia](https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/)
