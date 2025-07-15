@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-07-15, 21:29:16",
-      "https://news.ycombinator.com/item?id=44575998"
-    ],
-    [
-      "US Government announces $200M Grok contract a week after 'MechaHitler'",
-      "https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 21:03:50",
       "https://news.ycombinator.com/item?id=44575794"
     ],
     [
       "Where's Firefox Going Next?",
       "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 20:42:49",
+      "https://news.ycombinator.com/item?id=44575607"
+    ],
+    [
+      "The FIPS 140-3 Go Cryptographic Module",
+      "https://go.dev/blog/fips140"
     ]
   ],
   [
@@ -77,26 +77,6 @@
     [
       "Show HN: Beyond Z²+C, Plot Any Fractal",
       "https://www.juliascope.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 18:14:51",
-      "https://news.ycombinator.com/item?id=44574204"
-    ],
-    [
-      "Voxtral-Mini-3B-2507 – Open source speech understanding model",
-      "https://huggingface.co/mistralai/Voxtral-Mini-3B-2507"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 18:05:21",
-      "https://news.ycombinator.com/item?id=44574095"
-    ],
-    [
-      "Encrypting Files with Passkeys and Age",
-      "https://words.filippo.io/passkey-encryption/"
     ]
   ],
   [
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=44572499"
     ],
     [
-      "NIST Ion Clock Sets New Record for Most Accurate Clock in the World",
+      "NIST ion clock sets new record for most accurate clock",
       "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world"
     ]
   ],
@@ -181,22 +161,22 @@
   ],
   [
     [
-      "2025-07-15, 15:37:15",
-      "https://news.ycombinator.com/item?id=44572273"
-    ],
-    [
-      "Adding lookbehinds to rust-lang/regex",
-      "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 15:06:44",
       "https://news.ycombinator.com/item?id=44571917"
     ],
     [
       "Blender 4.5 LTS Released",
       "https://www.blender.org/download/releases/4-5/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 14:47:02",
+      "https://news.ycombinator.com/item?id=44571692"
+    ],
+    [
+      "Voxtral – Frontier open source speech understanding models",
+      "https://mistral.ai/news/voxtral"
     ]
   ],
   [
@@ -237,6 +217,16 @@
     [
       "Literalism plaguing today’s movies",
       "https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 16:31:37",
+      "https://news.ycombinator.com/item?id=44562084"
+    ],
+    [
+      "Encrypting files with passkeys and age",
+      "https://words.filippo.io/passkey-encryption/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Story of Mel, A Real Programmer, Annotated (1996)",
       "https://users.cs.utah.edu/~elb/folklore/mel-annotated/mel-annotated.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 14:06:30",
+      "https://news.ycombinator.com/item?id=44542164"
+    ],
+    [
+      "How Culture Is Made",
+      "https://www.metalabel.com/studio/release-strategies/how-culture-is-made"
     ]
   ]
 ]
