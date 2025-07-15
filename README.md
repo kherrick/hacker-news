@@ -7,9 +7,9 @@
 * [2025-07-15, 19:13:42](https://news.ycombinator.com/item?id=44574786) - [Underwriting Superintelligence](https://underwriting-superintelligence.com/)
 * [2025-07-15, 18:45:43](https://news.ycombinator.com/item?id=44574506) - [Meta shareholders look to haul CEO Mark Zuckerberg, Sheryl Sandberg to court](https://nypost.com/2025/07/15/business/meta-shareholders-aim-to-haul-ceo-mark-zuckerberg-sheryl-sandberg-to-court/)
 * [2025-07-15, 18:24:51](https://news.ycombinator.com/item?id=44574318) - [Show HN: Beyond Z²+C, Plot Any Fractal](https://www.juliascope.com/)
+* [2025-07-15, 18:14:51](https://news.ycombinator.com/item?id=44574204) - [Mistralai/Voxtral-Mini-3B-2507 · Hugging Face](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507)
 * [2025-07-15, 18:05:21](https://news.ycombinator.com/item?id=44574095) - [Encrypting Files with Passkeys and Age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-15, 17:48:35](https://news.ycombinator.com/item?id=44573887) - [Designing for the Eye: Optical Corrections in Architecture and Typography](https://www.nubero.ch/blog/015/)
-* [2025-07-15, 17:43:45](https://news.ycombinator.com/item?id=44573840) - [Why my p(doom) has risen, dramatically](https://garymarcus.substack.com/p/why-my-pdoom-has-risen-dramatically)
 * [2025-07-15, 17:35:42](https://news.ycombinator.com/item?id=44573752) - [KDE's official Roku/Android TV alternative is back from the dead](https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/)
 * [2025-07-15, 17:05:39](https://news.ycombinator.com/item?id=44573409) - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/)
 * [2025-07-15, 17:00:04](https://news.ycombinator.com/item?id=44573320) - [CoinTracker (YC W18) is hiring to solve crypto taxes and accounting (remote)](https://news.ycombinator.com/item?id=44573320)
@@ -29,7 +29,7 @@
 * [2025-07-13, 08:39:47](https://news.ycombinator.com/item?id=44548620) - [Lorem Gibson](http://loremgibson.com/)
 * [2025-07-13, 00:06:20](https://news.ycombinator.com/item?id=44546321) - [Petabit-class transmission over > 1000 km using standard 19-core optical fiber](https://www.nict.go.jp/en/press/2025/05/29-1.html)
 * [2025-07-12, 20:50:56](https://news.ycombinator.com/item?id=44545050) - [Most (ly Dead) Influential Programming Languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/)
-* [2025-07-11, 16:02:13](https://news.ycombinator.com/item?id=44533759) - [VHS, VCDs, and Laserdiscs in Southeast Asia](https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/)
+* [2025-07-12, 14:42:04](https://news.ycombinator.com/item?id=44542408) - [Mel, Annotated](https://users.cs.utah.edu/~elb/folklore/mel-annotated/mel-annotated.html)
 
 ## [Archives](archives/index.md)
 
