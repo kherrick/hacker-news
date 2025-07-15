@@ -58,6 +58,7 @@
 * [2025-07-13, 09:44:47](https://news.ycombinator.com/item?id=44548906) - [Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b)
 * [2025-07-13, 09:10:34](https://news.ycombinator.com/item?id=44548752) - [AGI Is Mathematically Impossible (3): Kolmogorov Complexity](https://news.ycombinator.com/item?id=44548752)
 * [2025-07-13, 09:02:20](https://news.ycombinator.com/item?id=44548712) - [SCP-055 is an \"antimeme\" – it erases itself from memory when observed](https://scp-wiki.wikidot.com/scp-055)
+* [2025-07-13, 08:59:42](https://news.ycombinator.com/item?id=44548701) - [What Was Cyberpunk? In Memoriam: 1980-2020 (2020)](https://forums.insertcredit.com/t/what-was-cyberpunk-in-memoriam-1980-2020/1721)
 * [2025-07-13, 08:41:51](https://news.ycombinator.com/item?id=44548630) - [Show HN: VS Code extension to edit the filesystem like a text buffer](https://github.com/ahrm/voil)
 * [2025-07-13, 08:39:47](https://news.ycombinator.com/item?id=44548620) - [Lorem Gibson](http://loremgibson.com/)
 * [2025-07-13, 08:38:52](https://news.ycombinator.com/item?id=44548610) - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
