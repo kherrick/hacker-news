@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 16:21:08](https://news.ycombinator.com/item?id=44572792) - [Marc Andreessen Is a Traitor](https://www.liberalcurrents.com/marc-andreessen-is-a-traitor/)
 * [2025-07-15, 15:59:04](https://news.ycombinator.com/item?id=44572527) - [What Caused the 'Baby Boom'? What Would It Take to Have Another?](https://www.derekthompson.org/p/what-caused-the-baby-boom-what-would)
 * [2025-07-15, 15:56:47](https://news.ycombinator.com/item?id=44572499) - [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
 * [2025-07-15, 15:52:10](https://news.ycombinator.com/item?id=44572432) - [The IRS Is Building a System to Share Taxpayers' Data with ICE](https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations)
+* [2025-07-15, 15:46:41](https://news.ycombinator.com/item?id=44572377) - [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
 * [2025-07-15, 15:37:15](https://news.ycombinator.com/item?id=44572273) - [Adding lookbehinds to rust-lang/regex](https://systemf.epfl.ch/blog/rust-regex-lookbehinds/)
 * [2025-07-15, 15:17:16](https://news.ycombinator.com/item?id=44572043) - [Ask HN: What's Your Useful Local LLM Stack?](https://news.ycombinator.com/item?id=44572043)
 * [2025-07-15, 15:15:20](https://news.ycombinator.com/item?id=44572028) - [Kubernetes Solves Its Biggest Problem: Managing Databases](https://thenewstack.io/kubernetes-finally-solves-its-biggest-problem-managing-databases/)
