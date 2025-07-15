@@ -46,6 +46,7 @@
 * [2025-07-13, 11:15:12](https://news.ycombinator.com/item?id=44549436) - [AI coding tools make developers slower but they think they're faster study finds](https://www.theregister.com/2025/07/11/ai_code_tools_slow_down/)
 * [2025-07-13, 11:07:32](https://news.ycombinator.com/item?id=44549411) - [Drones Are Key to Winning Wars Now. The U.S. Makes Hardly Any](https://www.nytimes.com/2025/07/13/business/drones-us-military-manufacturing-lags.html)
 * [2025-07-13, 10:36:28](https://news.ycombinator.com/item?id=44549209) - [Show HN: I built an LLM chat app because we shouldn't need 10 AI subscriptions](https://prismharmony.com/chat)
+* [2025-07-13, 10:26:47](https://news.ycombinator.com/item?id=44549154) - [Happy 20th Birthday Django](https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/)
 * [2025-07-13, 10:25:18](https://news.ycombinator.com/item?id=44549145) - [Mysterious pre-Islamic script from Oman finally deciphered](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
 * [2025-07-13, 10:23:38](https://news.ycombinator.com/item?id=44549134) - [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
 * [2025-07-13, 09:44:47](https://news.ycombinator.com/item?id=44548906) - [Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b)
