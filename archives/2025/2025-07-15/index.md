@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 19:16:59](https://news.ycombinator.com/item?id=44574815) - [Helix Editor Release 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
 * [2025-07-15, 18:46:56](https://news.ycombinator.com/item?id=44574517) - [AI coding may not be helping as much as you think](https://garymarcus.substack.com/p/breaking-news-ai-coding-may-not-be)
 * [2025-07-15, 18:45:43](https://news.ycombinator.com/item?id=44574506) - [Meta shareholders look to haul CEO Mark Zuckerberg, Sheryl Sandberg to court](https://nypost.com/2025/07/15/business/meta-shareholders-aim-to-haul-ceo-mark-zuckerberg-sheryl-sandberg-to-court/)
 * [2025-07-15, 18:31:56](https://news.ycombinator.com/item?id=44574382) - [Meta announces new data centers, gobble up millions of gallons of water per day](https://www.engadget.com/ai/meta-announces-huge-new-data-centers-but-they-could-gobble-up-millions-of-gallons-of-water-per-day-174000478.html)
