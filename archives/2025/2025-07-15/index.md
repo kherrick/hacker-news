@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 15:15:20](https://news.ycombinator.com/item?id=44572028) - [Kubernetes Solves Its Biggest Problem: Managing Databases](https://thenewstack.io/kubernetes-finally-solves-its-biggest-problem-managing-databases/)
+* [2025-07-15, 15:09:20](https://news.ycombinator.com/item?id=44571954) - [Secret changes to major U.S. health datasets raise alarms](https://www.psypost.org/secret-changes-to-major-u-s-health-datasets-raise-alarms/)
 * [2025-07-15, 14:51:17](https://news.ycombinator.com/item?id=44571740) - [Ask HN: Is it time to fork HN into AI/LLM and \"Everything else/other?\"](https://news.ycombinator.com/item?id=44571740)
 * [2025-07-15, 14:33:55](https://news.ycombinator.com/item?id=44571563) - [Cloudflare Starts Blocking Pirate Sites for UK Users](https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/)
 * [2025-07-15, 13:23:34](https://news.ycombinator.com/item?id=44570886) - [The Moving Assembly Line Turns 100](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
