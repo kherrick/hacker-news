@@ -6,6 +6,7 @@
 
 * [2025-07-15, 19:35:15](https://news.ycombinator.com/item?id=44574990) - [Hierarchical Modeling (H-Nets)](https://cartesia.ai/blog/hierarchical-modeling)
 * [2025-07-15, 19:27:19](https://news.ycombinator.com/item?id=44574905) - [Human Stigmergy: The world is my task list](https://aethermug.com/posts/human-stigmergy)
+* [2025-07-15, 19:23:07](https://news.ycombinator.com/item?id=44574864) - [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
 * [2025-07-15, 19:16:59](https://news.ycombinator.com/item?id=44574815) - [Helix Editor Release 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
 * [2025-07-15, 19:13:42](https://news.ycombinator.com/item?id=44574786) - [Underwriting Superintelligence](https://underwriting-superintelligence.com/)
 * [2025-07-15, 18:46:56](https://news.ycombinator.com/item?id=44574517) - [AI coding may not be helping as much as you think](https://garymarcus.substack.com/p/breaking-news-ai-coding-may-not-be)
