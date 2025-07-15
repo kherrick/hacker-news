@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 22:03:50](https://news.ycombinator.com/item?id=44576312) - [AI ate code, now it wants cashflows. Is this finance's Copilot moment?\"](https://www.anthropic.com/news/claude-for-financial-services)
 * [2025-07-15, 21:29:16](https://news.ycombinator.com/item?id=44575998) - [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
 * [2025-07-15, 21:03:50](https://news.ycombinator.com/item?id=44575794) - [Where's Firefox Going Next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
 * [2025-07-15, 20:42:49](https://news.ycombinator.com/item?id=44575607) - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
