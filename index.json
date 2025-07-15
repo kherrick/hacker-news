@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-07-15, 03:52:38",
-      "https://news.ycombinator.com/item?id=44567683"
-    ],
-    [
-      "Literalism plaguing today’s movies",
-      "https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 03:43:57",
       "https://news.ycombinator.com/item?id=44567650"
     ],
@@ -47,6 +37,16 @@
     [
       "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
       "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 01:22:49",
+      "https://news.ycombinator.com/item?id=44566996"
+    ],
+    [
+      "AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]",
+      "https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-07-14, 18:11:25",
-      "https://news.ycombinator.com/item?id=44563364"
-    ],
-    [
-      "Cidco MailStation as a Z80 Development Platform (2019)",
-      "https://jcs.org/2019/05/03/mailstation"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 18:07:15",
       "https://news.ycombinator.com/item?id=44563324"
     ],
@@ -247,6 +237,16 @@
     [
       "Happy 20th Birthday Django",
       "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 08:41:51",
+      "https://news.ycombinator.com/item?id=44548630"
+    ],
+    [
+      "Show HN: VS Code extension to edit the filesystem like a text buffer",
+      "https://github.com/ahrm/voil"
     ]
   ],
   [
