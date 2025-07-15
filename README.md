@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-15, 09:01:40](https://news.ycombinator.com/item?id=44569296) - [Field Notes on Shipping with Claude Code](https://www.lesswrong.com/posts/dxiConBZTd33sFaRC/field-notes-from-shipping-real-code-with-claude)
 * [2025-07-15, 04:43:08](https://news.ycombinator.com/item?id=44567888) - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 * [2025-07-15, 04:40:10](https://news.ycombinator.com/item?id=44567871) - [Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-15, 01:50:12](https://news.ycombinator.com/item?id=44567134) - [C++ Coroutines Advanced: Converting std:future to asio:awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/)
-* [2025-07-15, 01:24:45](https://news.ycombinator.com/item?id=44567008) - [Doge Denizen Marko Elez Leaked API Key for XAI](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/)
 * [2025-07-15, 00:27:21](https://news.ycombinator.com/item?id=44566714) - [The Collapse of the FDA](https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html)
 * [2025-07-14, 22:28:08](https://news.ycombinator.com/item?id=44566034) - [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
 * [2025-07-14, 21:40:30](https://news.ycombinator.com/item?id=44565668) - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
