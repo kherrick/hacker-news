@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 17:19:57](https://news.ycombinator.com/item?id=44573574) - [Mira Murati's AI startup Thinking Machines raises $2B in A16Z-led round](https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/)
+* [2025-07-15, 17:05:39](https://news.ycombinator.com/item?id=44573409) - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/)
 * [2025-07-15, 17:00:23](https://news.ycombinator.com/item?id=44573326) - [Nearly 3 out of 4 Oracle Java users say they've been audited in the past 3 years](https://www.theregister.com/2025/07/15/oracle_java_users_audited/)
 * [2025-07-15, 17:00:04](https://news.ycombinator.com/item?id=44573320) - [CoinTracker (YC W18) is hiring to solve crypto taxes and accounting (remote)](https://news.ycombinator.com/item?id=44573320)
+* [2025-07-15, 16:59:54](https://news.ycombinator.com/item?id=44573317) - [Why the Real Computer Revolution Never Happened – Alan Kay and Anjan Katta [video]](https://www.youtube.com/watch?v=MbEZ-DC0L-g)
 * [2025-07-15, 16:49:06](https://news.ycombinator.com/item?id=44573195) - [Reflections on OpenAI](https://calv.info/openai-reflections)
 * [2025-07-15, 16:21:08](https://news.ycombinator.com/item?id=44572792) - [Marc Andreessen Is a Traitor](https://www.liberalcurrents.com/marc-andreessen-is-a-traitor/)
 * [2025-07-15, 15:59:04](https://news.ycombinator.com/item?id=44572527) - [What Caused the 'Baby Boom'? What Would It Take to Have Another?](https://www.derekthompson.org/p/what-caused-the-baby-boom-what-would)
