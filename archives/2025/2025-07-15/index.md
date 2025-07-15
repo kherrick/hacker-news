@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 12:00:48](https://news.ycombinator.com/item?id=44570251) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 * [2025-07-15, 10:03:30](https://news.ycombinator.com/item?id=44569619) - [Code highlighting with Cursor AI used for $500k theft](https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/)
 * [2025-07-15, 09:01:40](https://news.ycombinator.com/item?id=44569296) - [Field Notes on Shipping with Claude Code](https://www.lesswrong.com/posts/dxiConBZTd33sFaRC/field-notes-from-shipping-real-code-with-claude)
 * [2025-07-15, 08:09:19](https://news.ycombinator.com/item?id=44569024) - [Show HN: Minesweeper game I built to be real-time Multiplayer](https://www.minesweeperpro.com/?v=2.1)
 * [2025-07-15, 07:28:41](https://news.ycombinator.com/item?id=44568819) - [Train Brakes Can Be Hacked over Radio–and the Industry Knew for 20 Years](https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/)
+* [2025-07-15, 04:52:14](https://news.ycombinator.com/item?id=44567925) - [Belgian CVD is deeply broken](https://devae.re/posts/belgian-cvd-is-deeply-broken/)
 * [2025-07-15, 04:43:08](https://news.ycombinator.com/item?id=44567888) - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 * [2025-07-15, 04:40:10](https://news.ycombinator.com/item?id=44567871) - [Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [AI inevitabilism is a framing device designed to remove your freedom of choice](https://tomrenner.com/posts/llm-inevitabilism/)
