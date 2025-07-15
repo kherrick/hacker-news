@@ -129,46 +129,174 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="44572028">
+        <section id="44572527">
           <h3>
             <a
               class="item"
-              href="https://thenewstack.io/kubernetes-finally-solves-its-biggest-problem-managing-databases/"
-              >Kubernetes Solves Its Biggest Problem: Managing Databases</a
+              href="https://www.derekthompson.org/p/what-caused-the-baby-boom-what-would"
+              >What Caused the 'Baby Boom'? What Would It Take to Have
+              Another?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-07-15 @ 15:15:20</span
+              <span>2025-07-15 @ 15:59:04</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44572028"
+                ><a href="https://news.ycombinator.com/item?id=44572527"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44571954">
+        <section id="44572499">
           <h3>
             <a
               class="item"
-              href="https://www.psypost.org/secret-changes-to-major-u-s-health-datasets-raise-alarms/"
-              >Secret changes to major U.S. health datasets raise alarms</a
+              href="https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world"
+              >NIST Ion Clock Sets New Record for Most Accurate Clock in the
+              World</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-07-15 @ 15:09:20</span
+              <span>2025-07-15 @ 15:56:47</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44571954"
+                ><a href="https://news.ycombinator.com/item?id=44572499"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44572432">
+          <h3>
+            <a
+              class="item"
+              href="https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations"
+              >The IRS Is Building a System to Share Taxpayers' Data with ICE</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-15 @ 15:52:10</span
+              ><span class="points-container"
+                >Points: <span class="points">58</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44572432"
+                  >Comments</a
+                ><span class="descendants">: 68</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44572273">
+          <h3>
+            <a
+              class="item"
+              href="https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
+              >Adding lookbehinds to rust-lang/regex</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-15 @ 15:37:15</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44572273"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44572043">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=44572043"
+              >Ask HN: What's Your Useful Local LLM Stack?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-15 @ 15:17:16</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44572043"
                   >Comments</a
                 ><span class="descendants">: 5</span></span
               >
             </h4>
+            <div class="text">
+              <p>What does your actually useful local LLM stack look like?</p>
+              <p>
+                I’m looking for something that provides you with real value —
+                not just a sexy demo.
+              </p>
+              <p>---</p>
+              <p>
+                After a recent internet outage, I realized I need a local LLM
+                setup as a backup — not just for experimentation and fun.
+              </p>
+              <p>My daily (remote) LLM stack:</p>
+              <p></p>
+              <pre><code>  - Claude Max ($100/mo): My go-to for pair programming. Heavy user of both the Claude web and desktop clients.
+
+  - Windsurf Pro ($15/mo): Love the multi-line autocomplete and how it uses clipboard/context awareness.
+
+  - ChatGPT Plus ($20/mo): My rubber duck, editor, and ideation partner. I use it for everything except code.
+</code></pre>
+              Here’s what I’ve cobbled together for my local stack so far:
+              <p>Tools</p>
+              <p></p>
+              <pre><code>  - Ollama: for running models locally
+
+  - Aider: Claude-code-style CLI interface
+
+  - VSCode w/ continue.dev extension: local chat &amp; autocomplete
+</code></pre>
+              Models
+              <p></p>
+              <pre><code>  - Chat: llama3.1:latest
+
+  - Autocomplete: Qwen2.5 Coder 1.5B
+
+  - Coding/Editing: deepseek-coder-v2:16b
+</code></pre>
+              Things I’m not worried about:
+              <p></p>
+              <pre><code>  - CPU/Memory (running on an M1 MacBook)
+
+  - Cost (within reason)
+
+  - Data privacy / being trained on (not trying to start a philosophical debate here)
+</code></pre>
+              I am worried about:
+              <p></p>
+              <pre><code>  - Actual usefulness (i.e. “vibes”)
+
+  - Ease of use (tools that fit with my muscle memory)
+
+  - Correctness (not benchmarks)
+
+  - Latency &amp; speed
+</code></pre>
+              Right now: I’ve got it working. I could make a slick demo. But
+              it’s not actually useful yet.
+              <p>---</p>
+              <p>Who I am</p>
+              <p></p>
+              <pre><code>  - CTO of a small startup (5 amazing engineers)
+
+  - 20 years of coding (since I was 13)
+
+  - Ex-big tech</code></pre>
+            </div>
           </section>
         </section>
         <section id="44571917">
@@ -183,11 +311,11 @@
             <h4>
               <span>2025-07-15 @ 15:06:44</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44571917"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -204,11 +332,11 @@
             <h4>
               <span>2025-07-15 @ 14:33:55</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44571563"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -225,7 +353,7 @@
             <h4>
               <span>2025-07-15 @ 13:23:34</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44570886"
                   >Comments</a
@@ -261,11 +389,11 @@
             <h4>
               <span>2025-07-15 @ 11:29:02</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44570048"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -288,7 +416,7 @@
             <h4>
               <span>2025-07-15 @ 04:43:08</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44567888"
                   >Comments</a
@@ -309,11 +437,11 @@
             <h4>
               <span>2025-07-15 @ 04:35:35</span
               ><span class="points-container"
-                >Points: <span class="points">1189</span></span
+                >Points: <span class="points">1231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44567857"
                   >Comments</a
-                ><span class="descendants">: 1034</span></span
+                ><span class="descendants">: 1073</span></span
               >
             </h4>
           </section>
@@ -330,33 +458,11 @@
             <h4>
               <span>2025-07-15 @ 03:52:38</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44567683"
                   >Comments</a
-                ><span class="descendants">: 210</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44566996">
-          <h3>
-            <a
-              class="item"
-              href="https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf"
-              >AWS Lambda Silent Crash – A Platform Failure, Not an Application
-              Bug [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-15 @ 01:22:49</span
-              ><span class="points-container"
-                >Points: <span class="points">101</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44566996"
-                  >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 225</span></span
               >
             </h4>
           </section>
@@ -371,7 +477,7 @@
             <h4>
               <span>2025-07-14 @ 21:40:30</span
               ><span class="points-container"
-                >Points: <span class="points">476</span></span
+                >Points: <span class="points">485</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44565668"
                   >Comments</a
@@ -392,30 +498,11 @@
             <h4>
               <span>2025-07-14 @ 20:06:51</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">326</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44564656"
                   >Comments</a
-                ><span class="descendants">: 168</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44564531">
-          <h3>
-            <a class="item" href="https://neural-os.com/"
-              >NeuralOS: An operating system powered by neural networks</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-14 @ 19:54:26</span
-              ><span class="points-container"
-                >Points: <span class="points">178</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44564531"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 169</span></span
               >
             </h4>
           </section>
@@ -431,11 +518,11 @@
             <h4>
               <span>2025-07-14 @ 19:25:15</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44564248"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
             <div class="text">
@@ -470,11 +557,11 @@
             <h4>
               <span>2025-07-14 @ 18:07:15</span
               ><span class="points-container"
-                >Points: <span class="points">463</span></span
+                >Points: <span class="points">467</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44563324"
                   >Comments</a
-                ><span class="descendants">: 380</span></span
+                ><span class="descendants">: 384</span></span
               >
             </h4>
           </section>
@@ -492,11 +579,11 @@
             <h4>
               <span>2025-07-14 @ 15:28:36</span
               ><span class="points-container"
-                >Points: <span class="points">302</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44561328"
                   >Comments</a
-                ><span class="descendants">: 250</span></span
+                ><span class="descendants">: 252</span></span
               >
             </h4>
           </section>
@@ -511,54 +598,11 @@
             <h4>
               <span>2025-07-14 @ 14:24:40</span
               ><span class="points-container"
-                >Points: <span class="points">946</span></span
+                >Points: <span class="points">952</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44560662"
                   >Comments</a
-                ><span class="descendants">: 399</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44552500">
-          <h3>
-            <a
-              class="item"
-              href="https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/"
-              >Happy 20th Birthday, Django</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-13 @ 18:44:56</span
-              ><span class="points-container"
-                >Points: <span class="points">546</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44552500"
-                  >Comments</a
-                ><span class="descendants">: 166</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44550722">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf"
-              >VMware Workstation: Bringing Virtualization to the x86
-              Architecture (2012) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-13 @ 14:33:18</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44550722"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 400</span></span
               >
             </h4>
           </section>
@@ -574,11 +618,11 @@
             <h4>
               <span>2025-07-13 @ 11:38:18</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44549549"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
             <div class="text">
@@ -622,11 +666,31 @@
             <h4>
               <span>2025-07-13 @ 11:32:51</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44549517"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44548712">
+          <h3>
+            <a class="item" href="https://scp-wiki.wikidot.com/scp-055"
+              >SCP-055 is an "antimeme" – it erases itself from memory when
+              observed</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-13 @ 09:02:20</span
+              ><span class="points-container"
+                >Points: <span class="points">54</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44548712"
+                  >Comments</a
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -642,11 +706,11 @@
             <h4>
               <span>2025-07-13 @ 05:05:54</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44547686"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -664,11 +728,11 @@
             <h4>
               <span>2025-07-12 @ 22:24:57</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44545695"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -685,11 +749,11 @@
             <h4>
               <span>2025-07-12 @ 17:09:08</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44543388"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -710,7 +774,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44534807"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -727,11 +791,11 @@
             <h4>
               <span>2025-07-11 @ 16:02:13</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44533759"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -746,11 +810,11 @@
             <h4>
               <span>2025-07-11 @ 10:26:32</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44530518"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -768,7 +832,7 @@
             <h4>
               <span>2025-07-11 @ 07:04:10</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44529150"
                   >Comments</a
@@ -788,11 +852,11 @@
             <h4>
               <span>2025-07-10 @ 22:20:18</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44526322"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
             <div class="text">
