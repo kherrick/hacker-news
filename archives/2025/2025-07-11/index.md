@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
 * [2025-07-11, 23:16:28](https://news.ycombinator.com/item?id=44537768) - [AWS Free Tier Changes on July 15, 2025](https://freetier.co/articles/aws-free-tier-changes-july-15-2025)
+* [2025-07-11, 23:15:31](https://news.ycombinator.com/item?id=44537760) - [Cache Benchmarks](https://github.com/tidwall/cache-benchmarks)
 * [2025-07-11, 22:57:25](https://news.ycombinator.com/item?id=44537631) - [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
 * [2025-07-11, 22:43:13](https://news.ycombinator.com/item?id=44537525) - [The Biggest-Ever Digital Camera Is This Cosmologist's Magnum Opus](https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711/)
 * [2025-07-11, 22:24:16](https://news.ycombinator.com/item?id=44537373) - [Measuring power network frequency using junk you have in your closet](https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/)
