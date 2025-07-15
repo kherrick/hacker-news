@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-15, 07:28:41](https://news.ycombinator.com/item?id=44568819) - [A vulnerability that can be exploited to tamper with a train’s brakes](https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/)
 * [2025-07-15, 04:43:08](https://news.ycombinator.com/item?id=44567888) - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 * [2025-07-15, 04:40:10](https://news.ycombinator.com/item?id=44567871) - [Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
@@ -26,6 +25,7 @@
 * [2025-07-13, 14:33:18](https://news.ycombinator.com/item?id=44550722) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workst [pdf]](https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf)
 * [2025-07-13, 08:41:51](https://news.ycombinator.com/item?id=44548630) - [Show HN: VS Code extension to edit the filesystem like a text buffer](https://github.com/ahrm/voil)
 * [2025-07-12, 22:24:57](https://news.ycombinator.com/item?id=44545695) - [I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor](https://thewalrus.ca/empress-of-ireland-survivor-mystery/)
+* [2025-07-11, 23:15:31](https://news.ycombinator.com/item?id=44537760) - [Cache Benchmarks](https://github.com/tidwall/cache-benchmarks)
 * [2025-07-11, 18:00:01](https://news.ycombinator.com/item?id=44535202) - [Replicube: 3D shader puzzle game, online demo](https://replicube.xyz/staging/)
 * [2025-07-11, 10:26:32](https://news.ycombinator.com/item?id=44530518) - [SQLite async connection pool for high-performance](https://github.com/slaily/aiosqlitepool)
 * [2025-07-11, 07:04:10](https://news.ycombinator.com/item?id=44529150) - [Transition to using 16 KB page sizes for Android apps and games](https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html)
