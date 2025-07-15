@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-07-15, 18:14:51",
+      "https://news.ycombinator.com/item?id=44574204"
+    ],
+    [
+      "Mistralai/Voxtral-Mini-3B-2507 · Hugging Face",
+      "https://huggingface.co/mistralai/Voxtral-Mini-3B-2507"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 17:48:35",
+      "https://news.ycombinator.com/item?id=44573887"
+    ],
+    [
+      "Designing for the Eye: Optical Corrections in Architecture and Typography",
+      "https://www.nubero.ch/blog/015/"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 17:40:18",
       "https://news.ycombinator.com/item?id=44573799"
     ],
     [
       "Open-source framework for real-time AI voice",
       "https://github.com/videosdk-live/agents"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 17:35:42",
+      "https://news.ycombinator.com/item?id=44573752"
+    ],
+    [
+      "KDE's official Android TV alternative is back from the dead",
+      "https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-07-15, 04:43:08",
-      "https://news.ycombinator.com/item?id=44567888"
-    ],
-    [
-      "When Sigterm Does Nothing: A Postgres Mystery",
-      "https://clickhouse.com/blog/sigterm-postgres-mystery"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 04:35:35",
       "https://news.ycombinator.com/item?id=44567857"
     ],
@@ -167,6 +187,16 @@
     [
       "Literalism plaguing today’s movies",
       "https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 00:34:40",
+      "https://news.ycombinator.com/item?id=44566748"
+    ],
+    [
+      "Protecting my attention at the dopamine carnival",
+      "https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival"
     ]
   ],
   [
@@ -197,16 +227,6 @@
     [
       "Cognition (Devin AI) to Acquire Windsurf",
       "https://cognition.ai/blog/windsurf"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 15:28:36",
-      "https://news.ycombinator.com/item?id=44561328"
-    ],
-    [
-      "Random selection is necessary to create stable meritocratic institutions",
-      "https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-07-11, 17:23:55",
-      "https://news.ycombinator.com/item?id=44534807"
-    ],
-    [
-      "Win, lose, or draw: trends in English football match results",
-      "https://blog.engora.com/2025/06/english-football-data.html"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 16:02:13",
       "https://news.ycombinator.com/item?id=44533759"
     ],
     [
       "VHS, VCDs, and Laserdiscs in Southeast Asia",
       "https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 10:26:32",
-      "https://news.ycombinator.com/item?id=44530518"
-    ],
-    [
-      "SQLite async connection pool for high-performance",
-      "https://github.com/slaily/aiosqlitepool"
     ]
   ]
 ]
