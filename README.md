@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-15, 13:23:34](https://news.ycombinator.com/item?id=44570886) - [The Moving Assembly Line Turns 100](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
+* [2025-07-15, 13:23:34](https://news.ycombinator.com/item?id=44570886) - [The Moving Assembly Line Turns 100 (2013)](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
 * [2025-07-15, 12:18:16](https://news.ycombinator.com/item?id=44570363) - [A Little-Known Microsoft Program Could Expose the Defense Department to Hackers](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers)
 * [2025-07-15, 12:00:48](https://news.ycombinator.com/item?id=44570251) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 * [2025-07-15, 04:43:08](https://news.ycombinator.com/item?id=44567888) - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
@@ -14,6 +14,7 @@
 * [2025-07-14, 19:54:26](https://news.ycombinator.com/item?id=44564531) - [NeuralOS: An operating system powered by neural networks](https://neural-os.com/)
 * [2025-07-14, 19:25:15](https://news.ycombinator.com/item?id=44564248) - [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
+* [2025-07-14, 15:30:31](https://news.ycombinator.com/item?id=44561354) - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
 * [2025-07-14, 15:28:36](https://news.ycombinator.com/item?id=44561328) - [Random selection is necessary to create stable meritocratic institutions](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy)
 * [2025-07-14, 14:42:54](https://news.ycombinator.com/item?id=44560871) - [Strategies for Fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
 * [2025-07-14, 14:24:40](https://news.ycombinator.com/item?id=44560662) - [Kiro: A new agentic IDE](https://kiro.dev/blog/introducing-kiro/)
@@ -21,7 +22,6 @@
 * [2025-07-13, 14:33:18](https://news.ycombinator.com/item?id=44550722) - [VMware Workstation: Bringing Virtualization to the x86 Architecture (2012) [pdf]](https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf)
 * [2025-07-13, 11:38:18](https://news.ycombinator.com/item?id=44549549) - [Show HN: I built this to talk Danish to my girlfriend – works with any language](https://menerdu.vercel.app/)
 * [2025-07-13, 11:32:51](https://news.ycombinator.com/item?id=44549517) - [Micro Adventure – Space Attack (online emulator)](https://auri-microadventure.azurewebsites.net/)
-* [2025-07-13, 08:41:51](https://news.ycombinator.com/item?id=44548630) - [Show HN: VS Code extension to edit the filesystem like a text buffer](https://github.com/ahrm/voil)
 * [2025-07-13, 05:05:54](https://news.ycombinator.com/item?id=44547686) - [The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale](https://arxiv.org/abs/2506.05987)
 * [2025-07-12, 22:24:57](https://news.ycombinator.com/item?id=44545695) - [I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor](https://thewalrus.ca/empress-of-ireland-survivor-mystery/)
 * [2025-07-11, 18:00:01](https://news.ycombinator.com/item?id=44535202) - [Replicube: 3D shader puzzle game, online demo](https://replicube.xyz/staging/)
