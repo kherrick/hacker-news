@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-07-15, 01:24:45",
+      "https://news.ycombinator.com/item?id=44567008"
+    ],
+    [
+      "Doge Denizen Marko Elez Leaked API Key for XAI",
+      "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 01:22:49",
+      "https://news.ycombinator.com/item?id=44566996"
+    ],
+    [
+      "AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]",
+      "https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 00:34:40",
+      "https://news.ycombinator.com/item?id=44566748"
+    ],
+    [
+      "Protecting My Attention at the Dopamine Carnival",
+      "https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 00:27:21",
+      "https://news.ycombinator.com/item?id=44566714"
+    ],
+    [
+      "The Collapse of the FDA",
+      "https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 22:28:08",
       "https://news.ycombinator.com/item?id=44566034"
     ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2025-07-14, 15:45:32",
-      "https://news.ycombinator.com/item?id=44561520"
-    ],
-    [
-      "Two guys hated using Comcast, so they built their own fiber ISP",
-      "https://arstechnica.com/tech-policy/2025/07/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp/"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 15:30:31",
       "https://news.ycombinator.com/item?id=44561354"
     ],
@@ -201,22 +231,22 @@
   ],
   [
     [
-      "2025-07-14, 11:00:21",
-      "https://news.ycombinator.com/item?id=44558646"
-    ],
-    [
-      "Impacts of adding PV solar system to internal combustion engine vehicles",
-      "https://www.jstor.org/stable/26169128"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 09:30:37",
       "https://news.ycombinator.com/item?id=44558034"
     ],
     [
       "East Asian aerosol cleanup has likely contributed to global warming",
       "https://www.nature.com/articles/s43247-025-02527-3"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 22:24:57",
+      "https://news.ycombinator.com/item?id=44545695"
+    ],
+    [
+      "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
+      "https://thewalrus.ca/empress-of-ireland-survivor-mystery/"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2025-07-11, 17:30:53",
-      "https://news.ycombinator.com/item?id=44534890"
-    ],
-    [
-      "It took 45 years, but spreadsheet legend Mitch Kapor finally got his MIT degree",
-      "https://www.bostonglobe.com/2025/06/24/business/mitch-kapor-mit-degree-bill-aulet/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 14:44:54",
-      "https://news.ycombinator.com/item?id=44532718"
-    ],
-    [
-      "The Corset X-Rays of Dr Ludovic O'Followell (1908)",
-      "https://publicdomainreview.org/collection/the-corset-x-rays-of-dr-ludovic-o-followell-1908/"
-    ]
-  ],
-  [
-    [
       "2025-07-11, 10:26:32",
       "https://news.ycombinator.com/item?id=44530518"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2025-07-11, 09:35:55",
-      "https://news.ycombinator.com/item?id=44530179"
+      "2025-07-11, 07:04:10",
+      "https://news.ycombinator.com/item?id=44529150"
     ],
     [
-      "Tandy Corporation, Part 3 Becoming IBM Compatible",
-      "https://www.abortretry.fail/p/tandy-corporation-part-3"
+      "Transition to using 16 KB page sizes for Android apps and games",
+      "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Bedrock – An 8-bit computing system for running programs anywhere",
       "https://benbridle.com/projects/bedrock.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 18:12:21",
-      "https://news.ycombinator.com/item?id=44523876"
-    ],
-    [
-      "Lossless Float Image Compression",
-      "https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/"
     ]
   ]
 ]
