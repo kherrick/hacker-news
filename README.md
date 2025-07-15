@@ -2,6 +2,7 @@
 
 * [2025-07-15, 15:15:20](https://news.ycombinator.com/item?id=44572028) - [Kubernetes Solves Its Biggest Problem: Managing Databases](https://thenewstack.io/kubernetes-finally-solves-its-biggest-problem-managing-databases/)
 * [2025-07-15, 15:09:20](https://news.ycombinator.com/item?id=44571954) - [Secret changes to major U.S. health datasets raise alarms](https://www.psypost.org/secret-changes-to-major-u-s-health-datasets-raise-alarms/)
+* [2025-07-15, 15:06:44](https://news.ycombinator.com/item?id=44571917) - [Blender 4.5 LTS Released](https://www.blender.org/download/releases/4-5/)
 * [2025-07-15, 14:33:55](https://news.ycombinator.com/item?id=44571563) - [Cloudflare Starts Blocking Pirate Sites for UK Users](https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/)
 * [2025-07-15, 13:23:34](https://news.ycombinator.com/item?id=44570886) - [The Moving Assembly Line Turns 100 (2013)](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
 * [2025-07-15, 12:00:48](https://news.ycombinator.com/item?id=44570251) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
@@ -24,7 +25,6 @@
 * [2025-07-13, 05:05:54](https://news.ycombinator.com/item?id=44547686) - [The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale](https://arxiv.org/abs/2506.05987)
 * [2025-07-12, 22:24:57](https://news.ycombinator.com/item?id=44545695) - [I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor](https://thewalrus.ca/empress-of-ireland-survivor-mystery/)
 * [2025-07-12, 17:09:08](https://news.ycombinator.com/item?id=44543388) - [\"English Translators of Homer\": A Review](https://whatisthequestion.wordpress.com/2025/07/12/english-translators-of-homer-by-simeon-underwood/)
-* [2025-07-11, 18:00:01](https://news.ycombinator.com/item?id=44535202) - [Replicube: 3D shader puzzle game, online demo](https://replicube.xyz/staging/)
 * [2025-07-11, 17:23:55](https://news.ycombinator.com/item?id=44534807) - [Win, lose, or draw: trends in English football match results](https://blog.engora.com/2025/06/english-football-data.html)
 * [2025-07-11, 16:02:13](https://news.ycombinator.com/item?id=44533759) - [VHS, VCDs, and Laserdiscs in Southeast Asia](https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/)
 * [2025-07-11, 10:26:32](https://news.ycombinator.com/item?id=44530518) - [SQLite async connection pool for high-performance](https://github.com/slaily/aiosqlitepool)
