@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-15, 10:03:30](https://news.ycombinator.com/item?id=44569619) - [Code highlighting with Cursor AI used for $500k theft](https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/)
-* [2025-07-15, 08:09:19](https://news.ycombinator.com/item?id=44569024) - [Show HN: Minesweeper game I built to be real-time Multiplayer](https://www.minesweeperpro.com/?v=2.1)
 * [2025-07-15, 04:43:08](https://news.ycombinator.com/item?id=44567888) - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 * [2025-07-15, 04:40:10](https://news.ycombinator.com/item?id=44567871) - [Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
@@ -25,6 +24,7 @@
 * [2025-07-13, 05:05:54](https://news.ycombinator.com/item?id=44547686) - [The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale](https://arxiv.org/abs/2506.05987)
 * [2025-07-12, 22:24:57](https://news.ycombinator.com/item?id=44545695) - [I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor](https://thewalrus.ca/empress-of-ireland-survivor-mystery/)
 * [2025-07-12, 16:24:10](https://news.ycombinator.com/item?id=44543098) - [I used Suno AI to cover my own demo album](https://app.mindthis.io/@yt/how-i-used-suno-ai-to-cover-my-own-demo-album)
+* [2025-07-12, 14:06:26](https://news.ycombinator.com/item?id=44542163) - [Show HN: Cogency – Cognitive Architecture for AI Agents](https://github.com/iteebz/cogency)
 * [2025-07-11, 23:15:31](https://news.ycombinator.com/item?id=44537760) - [Cache Benchmarks](https://github.com/tidwall/cache-benchmarks)
 * [2025-07-11, 18:00:01](https://news.ycombinator.com/item?id=44535202) - [Replicube: 3D shader puzzle game, online demo](https://replicube.xyz/staging/)
 * [2025-07-11, 16:02:13](https://news.ycombinator.com/item?id=44533759) - [VHS, VCDs, and Laserdiscs in Southeast Asia](https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/)

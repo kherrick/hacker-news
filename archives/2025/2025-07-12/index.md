@@ -31,6 +31,7 @@
 * [2025-07-12, 15:47:26](https://news.ycombinator.com/item?id=44542880) - [Vibe-Coding a PCB – surprisingly good](https://atomic14.substack.com/p/vibe-coding-a-pcb-surprisingly-good)
 * [2025-07-12, 15:07:46](https://news.ycombinator.com/item?id=44542578) - [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
 * [2025-07-12, 14:07:12](https://news.ycombinator.com/item?id=44542170) - [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)
+* [2025-07-12, 14:06:26](https://news.ycombinator.com/item?id=44542163) - [Show HN: Cogency – Cognitive Architecture for AI Agents](https://github.com/iteebz/cogency)
 * [2025-07-12, 13:44:49](https://news.ycombinator.com/item?id=44542029) - [Grok 4 will always snitch on you and email the feds if it suspects wrongdoing](https://www.neowin.net/news/grok-4-will-always-snitch-on-you-and-email-the-feds-if-it-suspects-wrongdoing-report-says/)
 * [2025-07-12, 13:15:08](https://news.ycombinator.com/item?id=44541863) - [Maine police caught lying about using AI to alter drug bust photo](https://boingboing.net/2025/07/02/maine-police-caught-lying-about-using-ai-to-alter-drug-bust-photo.html)
 * [2025-07-12, 12:25:28](https://news.ycombinator.com/item?id=44541576) - [Is This New Swim Stroke the Fastest Yet?](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
