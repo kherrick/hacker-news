@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-15, 13:23:34](https://news.ycombinator.com/item?id=44570886) - [The Moving Assembly Line Turns 100 (2013)](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
-* [2025-07-15, 12:18:16](https://news.ycombinator.com/item?id=44570363) - [A Little-Known Microsoft Program Could Expose the Defense Department to Hackers](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers)
 * [2025-07-15, 12:00:48](https://news.ycombinator.com/item?id=44570251) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
 * [2025-07-15, 11:29:02](https://news.ycombinator.com/item?id=44570048) - [Show HN: We made our own inference engine for Apple Silicon](https://github.com/trymirai/uzu)
 * [2025-07-15, 04:43:08](https://news.ycombinator.com/item?id=44567888) - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
@@ -24,6 +23,7 @@
 * [2025-07-13, 11:32:51](https://news.ycombinator.com/item?id=44549517) - [Micro Adventure – Space Attack (online emulator)](https://auri-microadventure.azurewebsites.net/)
 * [2025-07-13, 05:05:54](https://news.ycombinator.com/item?id=44547686) - [The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale](https://arxiv.org/abs/2506.05987)
 * [2025-07-12, 22:24:57](https://news.ycombinator.com/item?id=44545695) - [I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor](https://thewalrus.ca/empress-of-ireland-survivor-mystery/)
+* [2025-07-12, 17:09:08](https://news.ycombinator.com/item?id=44543388) - [\"English Translators of Homer\": A Review](https://whatisthequestion.wordpress.com/2025/07/12/english-translators-of-homer-by-simeon-underwood/)
 * [2025-07-11, 18:00:01](https://news.ycombinator.com/item?id=44535202) - [Replicube: 3D shader puzzle game, online demo](https://replicube.xyz/staging/)
 * [2025-07-11, 17:23:55](https://news.ycombinator.com/item?id=44534807) - [Win, lose, or draw: trends in English football match results](https://blog.engora.com/2025/06/english-football-data.html)
 * [2025-07-11, 16:02:13](https://news.ycombinator.com/item?id=44533759) - [VHS, VCDs, and Laserdiscs in Southeast Asia](https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/)

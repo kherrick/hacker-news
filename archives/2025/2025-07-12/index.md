@@ -21,6 +21,7 @@
 * [2025-07-12, 17:41:44](https://news.ycombinator.com/item?id=44543638) - [Show HN: I made a JSFiddle-style playground to test and share prompts fast](https://langfa.st/)
 * [2025-07-12, 17:36:15](https://news.ycombinator.com/item?id=44543590) - [Grok 4 Heavy Protects it's System prompt](https://simonwillison.net/2025/Jul/12/grok-4-heavy/)
 * [2025-07-12, 17:26:24](https://news.ycombinator.com/item?id=44543508) - [Kimi k2 largest open source SOTA model?](https://github.com/MoonshotAI/Kimi-K2)
+* [2025-07-12, 17:09:08](https://news.ycombinator.com/item?id=44543388) - [\"English Translators of Homer\": A Review](https://whatisthequestion.wordpress.com/2025/07/12/english-translators-of-homer-by-simeon-underwood/)
 * [2025-07-12, 17:05:14](https://news.ycombinator.com/item?id=44543368) - [Arizona resident dies from the plague less than 24 hours after showing symptoms](https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html)
 * [2025-07-12, 16:45:45](https://news.ycombinator.com/item?id=44543240) - [Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python](https://inventwithpython.com/blog/lost-av-chapter.html)
 * [2025-07-12, 16:32:12](https://news.ycombinator.com/item?id=44543156) - [Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++](https://github.com/efecan0/binaryrpc-framework)
