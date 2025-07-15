@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-15, 21:03:50",
+      "https://news.ycombinator.com/item?id=44575794"
+    ],
+    [
+      "Where's Firefox Going Next?",
+      "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 19:35:15",
       "https://news.ycombinator.com/item?id=44574990"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44574204"
     ],
     [
-      "Mistralai/Voxtral-Mini-3B-2507 · Hugging Face",
+      "Voxtral-Mini-3B-2507 – Open source speech understanding model",
       "https://huggingface.co/mistralai/Voxtral-Mini-3B-2507"
     ]
   ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2025-07-15, 15:59:04",
+      "https://news.ycombinator.com/item?id=44572527"
+    ],
+    [
+      "What caused the 'baby boom'? What would it take to have another?",
+      "https://www.derekthompson.org/p/what-caused-the-baby-boom-what-would"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 15:56:47",
       "https://news.ycombinator.com/item?id=44572499"
     ],
@@ -171,12 +191,12 @@
   ],
   [
     [
-      "2025-07-15, 12:18:16",
-      "https://news.ycombinator.com/item?id=44570363"
+      "2025-07-15, 14:33:55",
+      "https://news.ycombinator.com/item?id=44571563"
     ],
     [
-      "A little-known Microsoft program could expose the defense department to hackers",
-      "https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers"
+      "Cloudflare starts blocking pirate sites for UK users",
+      "https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/"
     ]
   ],
   [
@@ -211,36 +231,6 @@
   ],
   [
     [
-      "2025-07-14, 21:40:30",
-      "https://news.ycombinator.com/item?id=44565668"
-    ],
-    [
-      "Apple's MLX adding CUDA support",
-      "https://github.com/ml-explore/mlx/pull/1983"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 20:06:51",
-      "https://news.ycombinator.com/item?id=44564656"
-    ],
-    [
-      "LIGO detects most massive black hole merger to date",
-      "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 18:07:15",
-      "https://news.ycombinator.com/item?id=44563324"
-    ],
-    [
-      "Cognition (Devin AI) to Acquire Windsurf",
-      "https://cognition.ai/blog/windsurf"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 18:38:06",
       "https://news.ycombinator.com/item?id=44552455"
     ],
@@ -257,6 +247,16 @@
     [
       "A quick look at unprivileged sandboxing",
       "https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 09:02:20",
+      "https://news.ycombinator.com/item?id=44548712"
+    ],
+    [
+      "SCP-055 is an \"antimeme\" – it erases itself from memory when observed",
+      "https://scp-wiki.wikidot.com/scp-055"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=44542408"
     ],
     [
-      "Mel, Annotated",
+      "The Story of Mel, A Real Programmer, Annotated (1996)",
       "https://users.cs.utah.edu/~elb/folklore/mel-annotated/mel-annotated.html"
     ]
   ]
