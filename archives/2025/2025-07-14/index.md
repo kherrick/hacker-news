@@ -24,6 +24,7 @@
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
 * [2025-07-14, 18:04:54](https://news.ycombinator.com/item?id=44563290) - [Cognition (Devin AI) to Acquire Windsurf](https://twitter.com/cognition_labs/status/1944819486538023138)
 * [2025-07-14, 17:01:54](https://news.ycombinator.com/item?id=44562488) - [Meticulous (YC S21) is hiring in UK to redefine software dev,£100k-300k and equity](https://tinyurl.com/join-meticulous)
+* [2025-07-14, 16:31:37](https://news.ycombinator.com/item?id=44562084) - [Encrypting files with passkeys and age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-14, 16:29:02](https://news.ycombinator.com/item?id=44562036) - [Embedding User-Defined Indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
 * [2025-07-14, 16:09:14](https://news.ycombinator.com/item?id=44561818) - [Japanese Grandparents Create Life-Size Totoro with Bus Stop for Grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/)
 * [2025-07-14, 16:02:36](https://news.ycombinator.com/item?id=44561736) - [Data Brokers Are Selling Your Flight Information to CBP and ICE](https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice)

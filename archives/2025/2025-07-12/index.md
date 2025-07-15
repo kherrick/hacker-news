@@ -34,6 +34,7 @@
 * [2025-07-12, 15:07:46](https://news.ycombinator.com/item?id=44542578) - [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
 * [2025-07-12, 14:42:04](https://news.ycombinator.com/item?id=44542408) - [Mel, Annotated](https://users.cs.utah.edu/~elb/folklore/mel-annotated/mel-annotated.html)
 * [2025-07-12, 14:07:12](https://news.ycombinator.com/item?id=44542170) - [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)
+* [2025-07-12, 14:06:30](https://news.ycombinator.com/item?id=44542164) - [How Culture Is Made](https://www.metalabel.com/studio/release-strategies/how-culture-is-made)
 * [2025-07-12, 14:06:26](https://news.ycombinator.com/item?id=44542163) - [Show HN: Cogency – Cognitive Architecture for AI Agents](https://github.com/iteebz/cogency)
 * [2025-07-12, 13:44:49](https://news.ycombinator.com/item?id=44542029) - [Grok 4 will always snitch on you and email the feds if it suspects wrongdoing](https://www.neowin.net/news/grok-4-will-always-snitch-on-you-and-email-the-feds-if-it-suspects-wrongdoing-report-says/)
 * [2025-07-12, 13:15:08](https://news.ycombinator.com/item?id=44541863) - [Maine police caught lying about using AI to alter drug bust photo](https://boingboing.net/2025/07/02/maine-police-caught-lying-about-using-ai-to-alter-drug-bust-photo.html)

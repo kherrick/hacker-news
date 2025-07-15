@@ -6,6 +6,7 @@
 
 * [2025-07-15, 21:29:16](https://news.ycombinator.com/item?id=44575998) - [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
 * [2025-07-15, 21:03:50](https://news.ycombinator.com/item?id=44575794) - [Where's Firefox Going Next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
+* [2025-07-15, 20:42:49](https://news.ycombinator.com/item?id=44575607) - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
 * [2025-07-15, 19:35:15](https://news.ycombinator.com/item?id=44574990) - [Hierarchical Modeling (H-Nets)](https://cartesia.ai/blog/hierarchical-modeling)
 * [2025-07-15, 19:27:19](https://news.ycombinator.com/item?id=44574905) - [Human Stigmergy: The world is my task list](https://aethermug.com/posts/human-stigmergy)
 * [2025-07-15, 19:23:07](https://news.ycombinator.com/item?id=44574864) - [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
@@ -38,6 +39,7 @@
 * [2025-07-15, 15:09:20](https://news.ycombinator.com/item?id=44571954) - [Secret changes to major U.S. health datasets raise alarms](https://www.psypost.org/secret-changes-to-major-u-s-health-datasets-raise-alarms/)
 * [2025-07-15, 15:06:44](https://news.ycombinator.com/item?id=44571917) - [Blender 4.5 LTS Released](https://www.blender.org/download/releases/4-5/)
 * [2025-07-15, 14:51:17](https://news.ycombinator.com/item?id=44571740) - [Ask HN: Is it time to fork HN into AI/LLM and \"Everything else/other?\"](https://news.ycombinator.com/item?id=44571740)
+* [2025-07-15, 14:47:02](https://news.ycombinator.com/item?id=44571692) - [Voxtral – Frontier open source speech understanding models](https://mistral.ai/news/voxtral)
 * [2025-07-15, 14:33:55](https://news.ycombinator.com/item?id=44571563) - [Cloudflare Starts Blocking Pirate Sites for UK Users](https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/)
 * [2025-07-15, 13:23:34](https://news.ycombinator.com/item?id=44570886) - [The Moving Assembly Line Turns 100](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
 * [2025-07-15, 12:40:51](https://news.ycombinator.com/item?id=44570535) - [Speedrun](https://www.educationprogress.org/p/speedrun)
