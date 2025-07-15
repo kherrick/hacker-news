@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-15, 07:28:41](https://news.ycombinator.com/item?id=44568819) - [Train Brakes Can Be Hacked over Radio–and the Industry Knew for 20 Years](https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/)
+* [2025-07-15, 07:28:41](https://news.ycombinator.com/item?id=44568819) - [A vulnerability that can be exploited to tamper with a train’s brakes](https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/)
 * [2025-07-15, 04:43:08](https://news.ycombinator.com/item?id=44567888) - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 * [2025-07-15, 04:40:10](https://news.ycombinator.com/item?id=44567871) - [Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
@@ -23,7 +23,7 @@
 * [2025-07-14, 09:30:37](https://news.ycombinator.com/item?id=44558034) - [East Asian aerosol cleanup has likely contributed to global warming](https://www.nature.com/articles/s43247-025-02527-3)
 * [2025-07-13, 18:44:56](https://news.ycombinator.com/item?id=44552500) - [Happy 20th Birthday, Django](https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/)
 * [2025-07-13, 18:32:46](https://news.ycombinator.com/item?id=44552419) - [Clashes between web and X11 colors in the CSS color scheme](https://en.wikipedia.org/wiki/X11_color_names)
-* [2025-07-13, 14:33:18](https://news.ycombinator.com/item?id=44550722) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workst [pdf]](http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf)
+* [2025-07-13, 14:33:18](https://news.ycombinator.com/item?id=44550722) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workst [pdf]](https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf)
 * [2025-07-13, 08:41:51](https://news.ycombinator.com/item?id=44548630) - [Show HN: VS Code extension to edit the filesystem like a text buffer](https://github.com/ahrm/voil)
 * [2025-07-12, 22:24:57](https://news.ycombinator.com/item?id=44545695) - [I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor](https://thewalrus.ca/empress-of-ireland-survivor-mystery/)
 * [2025-07-11, 18:00:01](https://news.ycombinator.com/item?id=44535202) - [Replicube: 3D shader puzzle game, online demo](https://replicube.xyz/staging/)
