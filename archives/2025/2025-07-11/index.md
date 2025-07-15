@@ -66,6 +66,7 @@
 * [2025-07-11, 08:28:53](https://news.ycombinator.com/item?id=44529645) - [Self-imposed ban – a lightweight bash script to block commands](https://github.com/alex-moon/ban)
 * [2025-07-11, 07:56:04](https://news.ycombinator.com/item?id=44529456) - [Why Is Fertility So Low in High Income Countries? (NBER)](https://www.nber.org/papers/w33989)
 * [2025-07-11, 07:27:47](https://news.ycombinator.com/item?id=44529274) - [C++: Maps on Chains](http://bannalia.blogspot.com/2025/07/maps-on-chains.html)
+* [2025-07-11, 07:04:10](https://news.ycombinator.com/item?id=44529150) - [Transition to using 16 KB page sizes for Android apps and games](https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html)
 * [2025-07-11, 06:49:12](https://news.ycombinator.com/item?id=44529061) - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [2025-07-11, 06:32:07](https://news.ycombinator.com/item?id=44528966) - [GenAI Processors: Build powerful and flexible Gemini applications](https://developers.googleblog.com/en/genai-processors/)
 * [2025-07-11, 06:27:19](https://news.ycombinator.com/item?id=44528943) - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
