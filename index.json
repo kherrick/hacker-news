@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-15, 04:40:10",
+      "https://news.ycombinator.com/item?id=44567871"
+    ],
+    [
+      "Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri",
+      "https://www.ycombinator.com/companies/martin/jobs/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 04:35:35",
+      "https://news.ycombinator.com/item?id=44567857"
+    ],
+    [
+      "AI inevitabilism is a framing device designed to remove your freedom of choice",
+      "https://tomrenner.com/posts/llm-inevitabilism/"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 03:52:38",
       "https://news.ycombinator.com/item?id=44567683"
     ],
@@ -27,16 +47,6 @@
     [
       "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
       "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 01:22:49",
-      "https://news.ycombinator.com/item?id=44566996"
-    ],
-    [
-      "AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]",
-      "https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-07-14, 20:42:29",
-      "https://news.ycombinator.com/item?id=44565004"
-    ],
-    [
-      "Show HN: The HTML Maze – Escape an eerie labyrinth built with HTML pages",
-      "https://htmlmaze.com/"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 20:06:51",
       "https://news.ycombinator.com/item?id=44564656"
     ],
@@ -167,16 +167,6 @@
     [
       "Cognition (Devin AI) to Acquire Windsurf",
       "https://cognition.ai/blog/windsurf"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 17:01:54",
-      "https://news.ycombinator.com/item?id=44562488"
-    ],
-    [
-      "Meticulous (YC S21) is hiring in UK to redefine software dev",
-      "https://tinyurl.com/join-meticulous"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Clashes between web and X11 colors in the CSS color scheme",
       "https://en.wikipedia.org/wiki/X11_color_names"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 10:26:47",
+      "https://news.ycombinator.com/item?id=44549154"
+    ],
+    [
+      "Happy 20th Birthday Django",
+      "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/"
     ]
   ],
   [
