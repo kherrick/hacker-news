@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-07-15, 01:22:49",
-      "https://news.ycombinator.com/item?id=44566996"
-    ],
-    [
-      "AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]",
-      "https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 00:27:21",
       "https://news.ycombinator.com/item?id=44566714"
     ],
@@ -157,6 +147,16 @@
     [
       "Embedding user-defined indexes in Apache Parquet",
       "https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 16:09:14",
+      "https://news.ycombinator.com/item?id=44561818"
+    ],
+    [
+      "Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)",
+      "https://mymodernmet.com/totoro-sculpture-bus-stop/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-07-11, 16:02:13",
+      "https://news.ycombinator.com/item?id=44533759"
+    ],
+    [
+      "VHS, VCDs, and Laserdiscs in Southeast Asia",
+      "https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/"
+    ]
+  ],
+  [
+    [
       "2025-07-11, 10:26:32",
       "https://news.ycombinator.com/item?id=44530518"
     ],
     [
       "SQLite async connection pool for high-performance",
       "https://github.com/slaily/aiosqlitepool"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 07:04:10",
-      "https://news.ycombinator.com/item?id=44529150"
-    ],
-    [
-      "Transition to using 16 KB page sizes for Android apps and games",
-      "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html"
     ]
   ],
   [
