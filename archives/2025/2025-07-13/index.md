@@ -20,6 +20,7 @@
 * [2025-07-13, 19:16:07](https://news.ycombinator.com/item?id=44552730) - [The Gottorf Globe and its reconstruction](https://gottorfer-globus.de/en/the-gottorf-globe)
 * [2025-07-13, 19:00:44](https://news.ycombinator.com/item?id=44552611) - [Amazon CEO says AI agents will soon reduce company's corporate workforce](https://www.cbsnews.com/news/amazon-ceo-generative-ai-corporate-workforce/)
 * [2025-07-13, 18:44:56](https://news.ycombinator.com/item?id=44552500) - [Happy 20th Birthday, Django](https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/)
+* [2025-07-13, 18:38:06](https://news.ycombinator.com/item?id=44552455) - [o3 and Grok 4 accidentally vindicate neurosymbolic AI](https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated)
 * [2025-07-13, 18:32:46](https://news.ycombinator.com/item?id=44552419) - [Clashes between web and X11 colors in the CSS color scheme](https://en.wikipedia.org/wiki/X11_color_names)
 * [2025-07-13, 18:31:47](https://news.ycombinator.com/item?id=44552414) - [GLP-1s Are Breaking Life Insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
 * [2025-07-13, 18:28:14](https://news.ycombinator.com/item?id=44552389) - ['Europe Must Ban American Big Tech and Create a European Silicon Valley'](https://www.tilburguniversity.edu/magazine/overview/europe-must-ban-american-big-tech-and-create-a-european-silicon-valley)
