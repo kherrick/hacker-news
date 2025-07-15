@@ -37,6 +37,7 @@
 * [2025-07-13, 15:30:29](https://news.ycombinator.com/item?id=44551109) - [Bay Area restaurants are vetting your social media before you even walk in](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
 * [2025-07-13, 15:17:41](https://news.ycombinator.com/item?id=44551026) - [What are we missing out on when we think Transformer is unreasonable in biology?](https://dmf-archive.github.io/docs/posts/form-follows-function-2/)
 * [2025-07-13, 15:07:51](https://news.ycombinator.com/item?id=44550964) - [Iranian official claims Israel used 'occult and supernatural spirits' during war](https://www.jpost.com/middle-east/iran-news/article-860798)
+* [2025-07-13, 14:33:18](https://news.ycombinator.com/item?id=44550722) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workst [pdf]](http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf)
 * [2025-07-13, 14:09:06](https://news.ycombinator.com/item?id=44550572) - [How does a screen even work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
 * [2025-07-13, 13:48:49](https://news.ycombinator.com/item?id=44550450) - [Local Chatbot RAG with FreeBSD Knowledge](https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/)
 * [2025-07-13, 13:12:20](https://news.ycombinator.com/item?id=44550210) - [Who Goes MAGA?](https://www.techdirt.com/2025/07/08/who-goes-maga/)
