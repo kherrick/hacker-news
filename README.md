@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-15, 17:40:18](https://news.ycombinator.com/item?id=44573799) - [Open-source framework for real-time AI voice](https://github.com/videosdk-live/agents)
 * [2025-07-15, 17:19:57](https://news.ycombinator.com/item?id=44573574) - [Mira Murati's AI startup Thinking Machines raises $2B in A16Z-led round](https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/)
 * [2025-07-15, 17:05:39](https://news.ycombinator.com/item?id=44573409) - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/)
 * [2025-07-15, 17:00:23](https://news.ycombinator.com/item?id=44573326) - [Nearly 3 out of 4 Oracle Java users say they've been audited in the past 3 years](https://www.theregister.com/2025/07/15/oracle_java_users_audited/)
@@ -18,10 +19,10 @@
 * [2025-07-15, 03:52:38](https://news.ycombinator.com/item?id=44567683) - [Literalism plaguing today’s movies](https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies)
 * [2025-07-14, 21:40:30](https://news.ycombinator.com/item?id=44565668) - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
 * [2025-07-14, 20:06:51](https://news.ycombinator.com/item?id=44564656) - [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
-* [2025-07-14, 19:25:15](https://news.ycombinator.com/item?id=44564248) - [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
 * [2025-07-14, 15:28:36](https://news.ycombinator.com/item?id=44561328) - [Random selection is necessary to create stable meritocratic institutions](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy)
 * [2025-07-14, 14:24:40](https://news.ycombinator.com/item?id=44560662) - [Kiro: A new agentic IDE](https://kiro.dev/blog/introducing-kiro/)
+* [2025-07-13, 15:41:30](https://news.ycombinator.com/item?id=44551203) - [A quick look at unprivileged sandboxing](https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html)
 * [2025-07-13, 11:38:18](https://news.ycombinator.com/item?id=44549549) - [Show HN: I built this to talk Danish to my girlfriend – works with any language](https://menerdu.vercel.app/)
 * [2025-07-13, 11:32:51](https://news.ycombinator.com/item?id=44549517) - [Micro Adventure – Space Attack (online emulator)](https://auri-microadventure.azurewebsites.net/)
 * [2025-07-13, 00:06:20](https://news.ycombinator.com/item?id=44546321) - [Petabit-class transmission over > 1000 km using standard 19-core optical fiber](https://www.nict.go.jp/en/press/2025/05/29-1.html)
@@ -29,7 +30,6 @@
 * [2025-07-11, 17:23:55](https://news.ycombinator.com/item?id=44534807) - [Win, lose, or draw: trends in English football match results](https://blog.engora.com/2025/06/english-football-data.html)
 * [2025-07-11, 16:02:13](https://news.ycombinator.com/item?id=44533759) - [VHS, VCDs, and Laserdiscs in Southeast Asia](https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/)
 * [2025-07-11, 10:26:32](https://news.ycombinator.com/item?id=44530518) - [SQLite async connection pool for high-performance](https://github.com/slaily/aiosqlitepool)
-* [2025-07-10, 22:20:18](https://news.ycombinator.com/item?id=44526322) - [Show HN: Bedrock – An 8-bit computing system for running programs anywhere](https://benbridle.com/projects/bedrock.html)
 
 ## [Archives](archives/index.md)
 

@@ -34,6 +34,7 @@
 * [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A Technical Look at Iran's Internet Shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
 * [2025-07-13, 16:44:56](https://news.ycombinator.com/item?id=44551648) - [Prompt Engineering: From Zero to Hero](https://promptz2h.com/)
 * [2025-07-13, 15:57:34](https://news.ycombinator.com/item?id=44551318) - [Zig's new I/O: function coloring is inevitable?](https://blog.ivnj.org/post/function-coloring-is-inevitable)
+* [2025-07-13, 15:41:30](https://news.ycombinator.com/item?id=44551203) - [A quick look at unprivileged sandboxing](https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html)
 * [2025-07-13, 15:30:29](https://news.ycombinator.com/item?id=44551109) - [Bay Area restaurants are vetting your social media before you even walk in](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
 * [2025-07-13, 15:17:41](https://news.ycombinator.com/item?id=44551026) - [What are we missing out on when we think Transformer is unreasonable in biology?](https://dmf-archive.github.io/docs/posts/form-follows-function-2/)
 * [2025-07-13, 15:07:51](https://news.ycombinator.com/item?id=44550964) - [Iranian official claims Israel used 'occult and supernatural spirits' during war](https://www.jpost.com/middle-east/iran-news/article-860798)
