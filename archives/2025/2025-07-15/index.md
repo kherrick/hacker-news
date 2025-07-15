@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 18:14:51](https://news.ycombinator.com/item?id=44574204) - [Mistralai/Voxtral-Mini-3B-2507 · Hugging Face](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507)
+* [2025-07-15, 17:48:35](https://news.ycombinator.com/item?id=44573887) - [Designing for the Eye: Optical Corrections in Architecture and Typography](https://www.nubero.ch/blog/015/)
 * [2025-07-15, 17:40:18](https://news.ycombinator.com/item?id=44573799) - [Open-source framework for real-time AI voice](https://github.com/videosdk-live/agents)
+* [2025-07-15, 17:35:42](https://news.ycombinator.com/item?id=44573752) - [KDE's official Android TV alternative is back from the dead](https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/)
 * [2025-07-15, 17:19:57](https://news.ycombinator.com/item?id=44573574) - [Mira Murati's AI startup Thinking Machines raises $2B in A16Z-led round](https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/)
 * [2025-07-15, 17:05:39](https://news.ycombinator.com/item?id=44573409) - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/)
 * [2025-07-15, 17:00:23](https://news.ycombinator.com/item?id=44573326) - [Nearly 3 out of 4 Oracle Java users say they've been audited in the past 3 years](https://www.theregister.com/2025/07/15/oracle_java_users_audited/)
