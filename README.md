@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-15, 21:29:16](https://news.ycombinator.com/item?id=44575998) - [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
 * [2025-07-15, 21:03:50](https://news.ycombinator.com/item?id=44575794) - [Where's Firefox Going Next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
 * [2025-07-15, 19:35:15](https://news.ycombinator.com/item?id=44574990) - [Hierarchical Modeling (H-Nets)](https://cartesia.ai/blog/hierarchical-modeling)
 * [2025-07-15, 19:27:19](https://news.ycombinator.com/item?id=44574905) - [Human Stigmergy: The world is my task list](https://aethermug.com/posts/human-stigmergy)
@@ -24,7 +25,6 @@
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-15, 03:52:38](https://news.ycombinator.com/item?id=44567683) - [Literalism plaguing today’s movies](https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies)
 * [2025-07-13, 18:38:06](https://news.ycombinator.com/item?id=44552455) - [o3 and Grok 4 accidentally vindicate neurosymbolic AI](https://garymarcus.substack.com/p/how-o3-and-grok-4-accidentally-vindicated)
-* [2025-07-13, 15:41:30](https://news.ycombinator.com/item?id=44551203) - [A quick look at unprivileged sandboxing](https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html)
 * [2025-07-13, 09:02:20](https://news.ycombinator.com/item?id=44548712) - [SCP-055 is an \"antimeme\" – it erases itself from memory when observed](https://scp-wiki.wikidot.com/scp-055)
 * [2025-07-13, 08:39:47](https://news.ycombinator.com/item?id=44548620) - [Lorem Gibson](http://loremgibson.com/)
 * [2025-07-13, 00:06:20](https://news.ycombinator.com/item?id=44546321) - [Petabit-class transmission over > 1000 km using standard 19-core optical fiber](https://www.nict.go.jp/en/press/2025/05/29-1.html)
