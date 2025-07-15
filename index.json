@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-15, 01:24:45",
-      "https://news.ycombinator.com/item?id=44567008"
+      "2025-07-15, 03:27:16",
+      "https://news.ycombinator.com/item?id=44567599"
     ],
     [
-      "Doge Denizen Marko Elez Leaked API Key for XAI",
-      "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/"
+      "The Israeli Plot to Extinguish the Journalists Documenting Genocide",
+      "https://theintercept.com/2025/07/03/israel-palestine-journalists-killing-gaza/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 01:50:12",
+      "https://news.ycombinator.com/item?id=44567134"
+    ],
+    [
+      "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
+      "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-07-14, 16:02:36",
-      "https://news.ycombinator.com/item?id=44561736"
-    ],
-    [
-      "Data brokers are selling flight information to CBP and ICE",
-      "https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 15:30:31",
       "https://news.ycombinator.com/item?id=44561354"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2025-07-13, 18:32:46",
+      "https://news.ycombinator.com/item?id=44552419"
+    ],
+    [
+      "Clashes between web and X11 colors in the CSS color scheme",
+      "https://en.wikipedia.org/wiki/X11_color_names"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 22:24:57",
       "https://news.ycombinator.com/item?id=44545695"
     ],
     [
       "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
       "https://thewalrus.ca/empress-of-ireland-survivor-mystery/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 04:18:50",
-      "https://news.ycombinator.com/item?id=44539268"
-    ],
-    [
-      "Predicting Competitive Pokémon VGC Leads Using Latent Semantic Analysis",
-      "https://jgeekstudies.org/2025/07/11/predicting-competitive-pokemon-vgc-leads-using-latent-semantic-analysis-a-data-driven-approach-to-team-matchups/"
     ]
   ],
   [
