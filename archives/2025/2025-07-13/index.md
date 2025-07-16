@@ -52,6 +52,7 @@
 * [2025-07-13, 11:38:18](https://news.ycombinator.com/item?id=44549549) - [Show HN: I built this to talk Danish to my girlfriend – works with any language](https://menerdu.vercel.app/)
 * [2025-07-13, 11:32:51](https://news.ycombinator.com/item?id=44549517) - [Micro Adventure – Space Attack (online emulator)](https://auri-microadventure.azurewebsites.net/)
 * [2025-07-13, 11:15:12](https://news.ycombinator.com/item?id=44549436) - [AI coding tools make developers slower but they think they're faster study finds](https://www.theregister.com/2025/07/11/ai_code_tools_slow_down/)
+* [2025-07-13, 11:07:53](https://news.ycombinator.com/item?id=44549413) - [Thunderbird: Fluent Windows 11 Design](https://github.com/Deathbyteacup/fluentbird)
 * [2025-07-13, 11:07:32](https://news.ycombinator.com/item?id=44549411) - [Drones Are Key to Winning Wars Now. The U.S. Makes Hardly Any](https://www.nytimes.com/2025/07/13/business/drones-us-military-manufacturing-lags.html)
 * [2025-07-13, 10:36:28](https://news.ycombinator.com/item?id=44549209) - [Show HN: I built an LLM chat app because we shouldn't need 10 AI subscriptions](https://prismharmony.com/chat)
 * [2025-07-13, 10:26:47](https://news.ycombinator.com/item?id=44549154) - [Happy 20th Birthday Django](https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/)
