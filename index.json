@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=44583565"
     ],
     [
-      "Mill: A Better Build Tool for Java, Scala, & Kotlin",
+      "Mill: A better build tool for Java, Scala, and Kotlin",
       "https://mill-build.org/mill/index.html"
     ]
   ],
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-07-16, 14:55:31",
+      "https://news.ycombinator.com/item?id=44583014"
+    ],
+    [
+      "Show HN: An MCP server that gives LLMs temporal awareness and time calculation",
+      "https://github.com/jlumbroso/passage-of-time-mcp"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 14:39:55",
       "https://news.ycombinator.com/item?id=44582855"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44582662"
     ],
     [
-      "Show HN: Improving RAG with chess Elo scores",
+      "Show HN: Improving search ranking with chess Elo scores",
       "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores"
     ]
   ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-07-15, 15:56:47",
-      "https://news.ycombinator.com/item?id=44572499"
-    ],
-    [
-      "NIST ion clock sets new record for most accurate clock",
-      "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 15:46:41",
       "https://news.ycombinator.com/item?id=44572377"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-07-14, 22:00:08",
-      "https://news.ycombinator.com/item?id=44565806"
-    ],
-    [
-      "Roman dodecahedron: 12-sided object has baffled archaeologists for centuries",
-      "https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 16:02:19",
       "https://news.ycombinator.com/item?id=44551359"
     ],
     [
       "Show HN: BloomSearch – Keyword search with hierarchical bloom filters",
       "https://github.com/danthegoodman1/bloomsearch"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 12:22:33",
+      "https://news.ycombinator.com/item?id=44549880"
+    ],
+    [
+      "In-depth system walkthrough: cloud-based VOD",
+      "https://app.ilograph.com/demo.ilograph.AWS%2520Video-On-Demand/Workflow"
     ]
   ],
   [
