@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-16, 19:45:24](https://news.ycombinator.com/item?id=44586064) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 19:44:09](https://news.ycombinator.com/item?id=44586053) - [US Importers Sued for 'Greenwashing' Mexican Avocados](https://civileats.com/2025/07/09/u-s-importers-sued-for-greenwashing-mexican-avocados/)
 * [2025-07-16, 19:08:39](https://news.ycombinator.com/item?id=44585755) - [Intel's retreat is unlike anything it's done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
 * [2025-07-16, 18:43:35](https://news.ycombinator.com/item?id=44585543) - [Signs of Autism Could Be Encoded in the Way You Walk](https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk)
@@ -25,7 +26,6 @@
 * [2025-07-15, 16:49:06](https://news.ycombinator.com/item?id=44573195) - [Reflections on OpenAI](https://calv.info/openai-reflections)
 * [2025-07-15, 06:44:57](https://news.ycombinator.com/item?id=44568529) - [Show HN: Timep – a next-gen profiler and flamegraph-generator for bash code](https://github.com/jkool702/timep)
 * [2025-07-13, 16:02:19](https://news.ycombinator.com/item?id=44551359) - [Show HN: BloomSearch – Keyword search with hierarchical bloom filters](https://github.com/danthegoodman1/bloomsearch)
-* [2025-07-13, 11:07:53](https://news.ycombinator.com/item?id=44549413) - [Thunderbird: Fluent Windows 11 Design](https://github.com/Deathbyteacup/fluentbird)
 * [2025-07-13, 10:16:48](https://news.ycombinator.com/item?id=44549089) - [What's happening to reading?](https://www.newyorker.com/culture/open-questions/whats-happening-to-reading)
 * [2025-07-13, 08:05:37](https://news.ycombinator.com/item?id=44548449) - [Atopile – Design circuit boards with code](https://atopile.io/atopile/introduction)
 * [2025-07-13, 02:52:13](https://news.ycombinator.com/item?id=44547105) - [Show HN: 0xDEAD//Type – A Fast-Paced Typing Shooter with Retro Vibes](https://0xdeadtype.theden.sh/)
