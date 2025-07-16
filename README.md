@@ -4,7 +4,7 @@
 * [2025-07-16, 21:44:03](https://news.ycombinator.com/item?id=44587121) - [Tsunami warning issued in Southern Alaska after 7.3 magnitude earthquake](https://www.tsunami.gov/)
 * [2025-07-16, 21:33:21](https://news.ycombinator.com/item?id=44587018) - [Tin Can – The landline, reinvented for kids](https://tincan.kids/)
 * [2025-07-16, 21:01:09](https://news.ycombinator.com/item?id=44586723) - [I want an iPhone Mini-sized Android phone (2022)](https://smallandroidphone.com/)
-* [2025-07-16, 20:22:57](https://news.ycombinator.com/item?id=44586427) - [A Recap on May/June Stability at Neon](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
+* [2025-07-16, 20:22:57](https://news.ycombinator.com/item?id=44586427) - [A recap on May/June stability](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
 * [2025-07-16, 20:13:07](https://news.ycombinator.com/item?id=44586328) - [Young graduates are facing an employment crisis](https://www.wsj.com/economy/jobs/jobs-unemployment-rise-young-people-ce4704d8)
 * [2025-07-16, 19:45:24](https://news.ycombinator.com/item?id=44586064) - [Artisanal handcrafted Git repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 18:38:45](https://news.ycombinator.com/item?id=44585495) - [PyPI Prohibits inbox.ru email domain registrations](https://blog.pypi.org/posts/2025-06-15-prohibiting-inbox-ru-emails/)
