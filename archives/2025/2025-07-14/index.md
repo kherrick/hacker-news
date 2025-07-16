@@ -19,6 +19,7 @@
 * [2025-07-14, 20:01:58](https://news.ycombinator.com/item?id=44564593) - [Immigration raids leave crops unharvested and California farms at risk](https://www.japantimes.co.jp/business/2025/07/01/markets/immigration-raids-california-farms/)
 * [2025-07-14, 19:54:26](https://news.ycombinator.com/item?id=44564531) - [NeuralOS: An Operating System Powered by Neural Networks](https://neural-os.com/)
 * [2025-07-14, 19:25:15](https://news.ycombinator.com/item?id=44564248) - [Context Rot: How increasing input tokens impacts LLM performance](https://research.trychroma.com/context-rot)
+* [2025-07-14, 19:14:51](https://news.ycombinator.com/item?id=44564155) - [High-resolution imaging method details nerves across a mouse’s body](https://www.nature.com/articles/d41586-025-02156-y)
 * [2025-07-14, 18:19:45](https://news.ycombinator.com/item?id=44563470) - [Inequality, decay of democratic institutions linked to accelerated ageing](https://www.nature.com/articles/d41586-025-02181-x)
 * [2025-07-14, 18:11:25](https://news.ycombinator.com/item?id=44563364) - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
 * [2025-07-14, 18:07:15](https://news.ycombinator.com/item?id=44563324) - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
