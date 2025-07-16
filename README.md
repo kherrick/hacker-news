@@ -24,7 +24,7 @@
 * [2025-07-15, 11:42:46](https://news.ycombinator.com/item?id=44570130) - [A Rust shaped hole](https://mnvr.in/rust)
 * [2025-07-14, 22:00:08](https://news.ycombinator.com/item?id=44565806) - [Roman dodecahedron: 12-sided object has baffled archaeologists for centuries](https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries)
 * [2025-07-14, 20:42:29](https://news.ycombinator.com/item?id=44565004) - [Show HN: The HTML Maze – Escape an eerie labyrinth built with HTML pages](https://htmlmaze.com/)
-* [2025-07-14, 13:40:11](https://news.ycombinator.com/item?id=44560123) - [From Engineer to Manager: A Practical Guide to Your First Months in Leadership](https://humansinsystems.com/blog/new-manager-essentials-a-practical-guide-to-your-first-months)
+* [2025-07-14, 13:40:11](https://news.ycombinator.com/item?id=44560123) - [From engineer to manager: A practical guide to your first months in leadership](https://humansinsystems.com/blog/new-manager-essentials-a-practical-guide-to-your-first-months)
 * [2025-07-13, 16:02:19](https://news.ycombinator.com/item?id=44551359) - [Show HN: BloomSearch – Keyword search with hierarchical Bloom filters](https://github.com/danthegoodman1/bloomsearch)
 * [2025-07-13, 10:16:48](https://news.ycombinator.com/item?id=44549089) - [What's happening to reading?](https://www.newyorker.com/culture/open-questions/whats-happening-to-reading)
 * [2025-07-13, 08:05:37](https://news.ycombinator.com/item?id=44548449) - [Atopile – Design circuit boards with code](https://atopile.io/atopile/introduction)
