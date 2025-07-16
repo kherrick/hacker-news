@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-16, 17:09:36",
+      "https://news.ycombinator.com/item?id=44584603"
+    ],
+    [
+      "KDB-X: KX releases FREE Commercial KDB license",
+      "https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 17:00:47",
       "https://news.ycombinator.com/item?id=44584497"
     ],
@@ -111,21 +121,11 @@
   ],
   [
     [
-      "2025-07-16, 10:37:08",
-      "https://news.ycombinator.com/item?id=44580682"
-    ],
-    [
-      "Linux Reaches 5% Desktop Market Share in USA",
-      "https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 09:15:28",
       "https://news.ycombinator.com/item?id=44580257"
     ],
     [
-      "AWS open-sourced Postgres active-active replication extension",
+      "Pgactive: Postgres active-active replication extension",
       "https://github.com/aws/pgactive"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=44579717"
     ],
     [
-      "I'm Switching to Python and Actually Liking It",
+      "Switching to Python and actually liking it",
       "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html"
     ]
   ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=44573750"
     ],
     [
-      "How I Lost My Backpack with Passports and Laptop",
+      "How I lost my backpack with passports and laptop",
       "https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports"
     ]
   ],
