@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 18:43:35](https://news.ycombinator.com/item?id=44585543) - [Signs of Autism Could Be Encoded in the Way You Walk](https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk)
 * [2025-07-16, 17:47:08](https://news.ycombinator.com/item?id=44585002) - [How and where will agents ship software?](https://www.instantdb.com/essays/agents)
 * [2025-07-16, 17:09:36](https://news.ycombinator.com/item?id=44584603) - [KDB-X: KX releases FREE Commercial KDB license](https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose)
 * [2025-07-16, 17:00:47](https://news.ycombinator.com/item?id=44584497) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
