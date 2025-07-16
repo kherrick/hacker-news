@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-07-16, 00:05:45",
+      "https://news.ycombinator.com/item?id=44577268"
+    ],
+    [
+      "GPUHammer: Rowhammer attacks on GPU memories are practical",
+      "https://gpuhammer.com/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 23:50:02",
+      "https://news.ycombinator.com/item?id=44577171"
+    ],
+    [
+      "Unlike ChatGPT, Anthropic has doubled down on Artifacts",
+      "https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 23:29:54",
+      "https://news.ycombinator.com/item?id=44577018"
+    ],
+    [
+      "OpenAI – vulnerability responsible disclosure",
+      "https://requilence.any.org/open-ai-vulnerability-responsible-disclosure"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 22:07:47",
       "https://news.ycombinator.com/item?id=44576352"
     ],
     [
-      "My Family and the Flood: A Firsthand Account",
+      "My Family and the Flood",
       "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/"
     ]
   ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=44575794"
     ],
     [
-      "Where's Firefox Going Next?",
+      "Where's Firefox going next?",
       "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094"
     ]
   ],
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2025-07-15, 20:32:20",
-      "https://news.ycombinator.com/item?id=44575522"
-    ],
-    [
-      "What is going on with US weather radar today?",
-      "https://atlas.niu.edu/analysis/radar/midwest/?C=N;O=D"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 19:35:15",
       "https://news.ycombinator.com/item?id=44574990"
     ],
     [
       "Hierarchical Modeling (H-Nets)",
       "https://cartesia.ai/blog/hierarchical-modeling"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 19:27:19",
-      "https://news.ycombinator.com/item?id=44574905"
-    ],
-    [
-      "Human Stigmergy: The world is my task list",
-      "https://aethermug.com/posts/human-stigmergy"
     ]
   ],
   [
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2025-07-15, 17:35:42",
-      "https://news.ycombinator.com/item?id=44573752"
+      "2025-07-15, 17:19:57",
+      "https://news.ycombinator.com/item?id=44573574"
     ],
     [
-      "KDE's official Roku/Android TV alternative is back from the dead",
-      "https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/"
+      "Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding",
+      "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-07-15, 15:59:04",
-      "https://news.ycombinator.com/item?id=44572527"
-    ],
-    [
-      "What caused the 'baby boom'? What would it take to have another?",
-      "https://www.derekthompson.org/p/what-caused-the-baby-boom-what-would"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 15:56:47",
       "https://news.ycombinator.com/item?id=44572499"
     ],
@@ -181,32 +181,12 @@
   ],
   [
     [
-      "2025-07-15, 15:06:44",
-      "https://news.ycombinator.com/item?id=44571917"
-    ],
-    [
-      "Blender 4.5 LTS",
-      "https://www.blender.org/download/releases/4-5/"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 14:47:02",
       "https://news.ycombinator.com/item?id=44571692"
     ],
     [
       "Voxtral – Frontier open source speech understanding models",
       "https://mistral.ai/news/voxtral"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 11:29:02",
-      "https://news.ycombinator.com/item?id=44570048"
-    ],
-    [
-      "Show HN: We made our own inference engine for Apple Silicon",
-      "https://github.com/trymirai/uzu"
     ]
   ],
   [
@@ -221,32 +201,12 @@
   ],
   [
     [
-      "2025-07-15, 03:52:38",
-      "https://news.ycombinator.com/item?id=44567683"
-    ],
-    [
-      "The new literalism plaguing today’s movies",
-      "https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 16:31:37",
       "https://news.ycombinator.com/item?id=44562084"
     ],
     [
       "Encrypting files with passkeys and age",
       "https://words.filippo.io/passkey-encryption/"
-    ]
-  ],
-  [
-    [
-      "2025-07-13, 15:41:30",
-      "https://news.ycombinator.com/item?id=44551203"
-    ],
-    [
-      "A quick look at unprivileged sandboxing",
-      "https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html"
     ]
   ],
   [
@@ -281,6 +241,26 @@
   ],
   [
     [
+      "2025-07-12, 21:45:20",
+      "https://news.ycombinator.com/item?id=44545463"
+    ],
+    [
+      "Easy dynamic dispatch using GLIBC Hardware Capabilities",
+      "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 20:50:56",
+      "https://news.ycombinator.com/item?id=44545050"
+    ],
+    [
+      "Mostly dead influential programming languages (2020)",
+      "https://www.hillelwayne.com/post/influential-dead-languages/"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 14:42:04",
       "https://news.ycombinator.com/item?id=44542408"
     ],
@@ -297,6 +277,26 @@
     [
       "How Culture Is Made",
       "https://www.metalabel.com/studio/release-strategies/how-culture-is-made"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 12:09:40",
+      "https://news.ycombinator.com/item?id=44541509"
+    ],
+    [
+      "Is there a literacy crisis?",
+      "https://www.vox.com/culture/419070/childhood-literacy-college-students-reading-crisis-ai"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 10:56:24",
+      "https://news.ycombinator.com/item?id=44541088"
+    ],
+    [
+      "Running a million-board chess MMO in a single process",
+      "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/"
     ]
   ]
 ]
