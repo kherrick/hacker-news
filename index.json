@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-16, 14:55:31",
+      "https://news.ycombinator.com/item?id=44583014"
+    ],
+    [
+      "Show HN: I gave Claude a sundial and it built a calendar",
+      "https://github.com/jlumbroso/passage-of-time-mcp"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 14:17:54",
+      "https://news.ycombinator.com/item?id=44582662"
+    ],
+    [
+      "Show HN: Improving RAG with Chess Elo Scores? (YC W25)",
+      "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 13:46:28",
+      "https://news.ycombinator.com/item?id=44582349"
+    ],
+    [
+      "Denver's Deepest Dinosaur",
+      "https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 12:39:51",
       "https://news.ycombinator.com/item?id=44581631"
     ],
@@ -51,6 +81,16 @@
   ],
   [
     [
+      "2025-07-16, 07:44:32",
+      "https://news.ycombinator.com/item?id=44579717"
+    ],
+    [
+      "I'm Switching to Python and Actually Liking It",
+      "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 06:32:47",
       "https://news.ycombinator.com/item?id=44579317"
     ],
@@ -61,12 +101,12 @@
   ],
   [
     [
-      "2025-07-16, 05:30:52",
-      "https://news.ycombinator.com/item?id=44578997"
+      "2025-07-16, 06:22:33",
+      "https://news.ycombinator.com/item?id=44579265"
     ],
     [
-      "Nextflow: System for creating scalable, portable, reproducible workflows",
-      "https://github.com/nextflow-io/nextflow"
+      "Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY",
+      "https://blog.pupred.com/blog/puttyvsbitvise/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-07-15, 23:50:02",
-      "https://news.ycombinator.com/item?id=44577171"
-    ],
-    [
-      "Unlike ChatGPT, Anthropic has doubled down on Artifacts",
-      "https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 22:07:47",
       "https://news.ycombinator.com/item?id=44576352"
     ],
@@ -147,16 +177,6 @@
     [
       "Where's Firefox going next?",
       "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 20:42:49",
-      "https://news.ycombinator.com/item?id=44575607"
-    ],
-    [
-      "The FIPS 140-3 Go Cryptographic Module",
-      "https://go.dev/blog/fips140"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-07-13, 16:59:59",
-      "https://news.ycombinator.com/item?id=44551777"
-    ],
-    [
-      "Algorithms for making interesting organic simulations",
-      "https://bleuje.com/physarum-explanation/"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 15:08:23",
       "https://news.ycombinator.com/item?id=44550967"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2025-07-13, 08:05:37",
-      "https://news.ycombinator.com/item?id=44548449"
+      "2025-07-13, 10:16:48",
+      "https://news.ycombinator.com/item?id=44549089"
     ],
     [
-      "Atopile – design circuit boards fast – with code",
-      "https://atopile.io/atopile/introduction"
+      "What's Happening to Reading?",
+      "https://www.newyorker.com/culture/open-questions/whats-happening-to-reading"
     ]
   ],
   [
     [
-      "2025-07-12, 20:50:56",
-      "https://news.ycombinator.com/item?id=44545050"
+      "2025-07-13, 08:05:37",
+      "https://news.ycombinator.com/item?id=44548449"
     ],
     [
-      "Mostly dead influential programming languages (2020)",
-      "https://www.hillelwayne.com/post/influential-dead-languages/"
+      "Atopile – Design circuit boards with code",
+      "https://atopile.io/atopile/introduction"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Documenting what you're willing to support (and not)",
       "https://rachelbythebay.com/w/2025/07/07/support/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 14:42:04",
-      "https://news.ycombinator.com/item?id=44542408"
-    ],
-    [
-      "The Story of Mel, A Real Programmer, Annotated (1996)",
-      "https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000"
     ]
   ],
   [
