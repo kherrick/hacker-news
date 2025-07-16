@@ -41,6 +41,7 @@
 * [2025-07-12, 14:06:26](https://news.ycombinator.com/item?id=44542163) - [Show HN: Cogency – Cognitive Architecture for AI Agents](https://github.com/iteebz/cogency)
 * [2025-07-12, 13:44:49](https://news.ycombinator.com/item?id=44542029) - [Grok 4 will always snitch on you and email the feds if it suspects wrongdoing](https://www.neowin.net/news/grok-4-will-always-snitch-on-you-and-email-the-feds-if-it-suspects-wrongdoing-report-says/)
 * [2025-07-12, 13:15:08](https://news.ycombinator.com/item?id=44541863) - [Maine police caught lying about using AI to alter drug bust photo](https://boingboing.net/2025/07/02/maine-police-caught-lying-about-using-ai-to-alter-drug-bust-photo.html)
+* [2025-07-12, 12:43:12](https://news.ycombinator.com/item?id=44541662) - [MARS.EXE → COM (2021)](https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/)
 * [2025-07-12, 12:25:28](https://news.ycombinator.com/item?id=44541576) - [Is This New Swim Stroke the Fastest Yet?](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
 * [2025-07-12, 12:23:33](https://news.ycombinator.com/item?id=44541565) - [Working through 'Writing A C Compiler'](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 * [2025-07-12, 12:09:40](https://news.ycombinator.com/item?id=44541509) - [Is there a literacy crisis?](https://www.vox.com/culture/419070/childhood-literacy-college-students-reading-crisis-ai)

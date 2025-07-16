@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-16, 08:18:34](https://news.ycombinator.com/item?id=44579902) - [Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer](https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/)
-* [2025-07-16, 07:44:32](https://news.ycombinator.com/item?id=44579717) - [I'm Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
 * [2025-07-16, 06:32:47](https://news.ycombinator.com/item?id=44579317) - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
 * [2025-07-16, 06:22:33](https://news.ycombinator.com/item?id=44579265) - [Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY](https://blog.pupred.com/blog/puttyvsbitvise/)
 * [2025-07-16, 05:30:52](https://news.ycombinator.com/item?id=44578997) - [Nextflow: System for creating scalable, portable, reproducible workflows](https://github.com/nextflow-io/nextflow)
@@ -21,6 +20,7 @@
 * [2025-07-15, 16:49:06](https://news.ycombinator.com/item?id=44573195) - [Reflections on OpenAI](https://calv.info/openai-reflections)
 * [2025-07-15, 15:56:47](https://news.ycombinator.com/item?id=44572499) - [NIST ion clock sets new record for most accurate clock](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
 * [2025-07-15, 15:46:41](https://news.ycombinator.com/item?id=44572377) - [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
+* [2025-07-15, 14:47:02](https://news.ycombinator.com/item?id=44571692) - [Voxtral – Frontier open source speech understanding models](https://mistral.ai/news/voxtral)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-13, 16:59:59](https://news.ycombinator.com/item?id=44551777) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
 * [2025-07-13, 15:35:49](https://news.ycombinator.com/item?id=44551157) - [The beauty entrepreneur who made the Jheri curl a sensation](https://thehustle.co/originals/the-beauty-entrepreneur-who-made-the-jheri-curl-a-sensation)
@@ -28,8 +28,8 @@
 * [2025-07-12, 20:50:56](https://news.ycombinator.com/item?id=44545050) - [Mostly dead influential programming languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/)
 * [2025-07-12, 17:08:57](https://news.ycombinator.com/item?id=44543386) - [Documenting what you're willing to support (and not)](https://rachelbythebay.com/w/2025/07/07/support/)
 * [2025-07-12, 14:42:04](https://news.ycombinator.com/item?id=44542408) - [The Story of Mel, A Real Programmer, Annotated (1996)](https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000)
+* [2025-07-12, 12:43:12](https://news.ycombinator.com/item?id=44541662) - [MARS.EXE → COM (2021)](https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/)
 * [2025-07-12, 10:56:24](https://news.ycombinator.com/item?id=44541088) - [Running a million-board chess MMO in a single process](https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/)
-* [2025-07-12, 09:47:30](https://news.ycombinator.com/item?id=44540724) - [Show HN: Reviving a 20 year old OS X App](https://andrewshaw.nl/blog/reviving-genius)
 
 ## [Archives](archives/index.md)
 
