@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 14:55:31](https://news.ycombinator.com/item?id=44583014) - [Show HN: I gave Claude a sundial and it built a calendar](https://github.com/jlumbroso/passage-of-time-mcp)
+* [2025-07-16, 14:17:54](https://news.ycombinator.com/item?id=44582662) - [Show HN: Improving RAG with Chess Elo Scores? (YC W25)](https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores)
+* [2025-07-16, 13:46:28](https://news.ycombinator.com/item?id=44582349) - [Denver's Deepest Dinosaur](https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur)
 * [2025-07-16, 12:39:51](https://news.ycombinator.com/item?id=44581631) - [Cppyy: Automatic Python-C++ Bindings](https://cppyy.readthedocs.io/en/latest/)
 * [2025-07-16, 12:02:21](https://news.ycombinator.com/item?id=44581257) - [Gauntlet AI (YC S17): All expenses paid training in AI and $200k+job](https://www.crossover.com/jobs/5597/gauntlet-ai/ai-challenger/apply)
 * [2025-07-16, 11:42:17](https://news.ycombinator.com/item?id=44581098) - [Show HN: DataRamen, a Fast SQL Explorer with Automatic Joins and Data Navigation](https://dataramen.xyz/)

@@ -58,6 +58,7 @@
 * [2025-07-13, 10:26:47](https://news.ycombinator.com/item?id=44549154) - [Happy 20th Birthday Django](https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/)
 * [2025-07-13, 10:25:18](https://news.ycombinator.com/item?id=44549145) - [Mysterious pre-Islamic script from Oman finally deciphered](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
 * [2025-07-13, 10:23:38](https://news.ycombinator.com/item?id=44549134) - [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
+* [2025-07-13, 10:16:48](https://news.ycombinator.com/item?id=44549089) - [What's Happening to Reading?](https://www.newyorker.com/culture/open-questions/whats-happening-to-reading)
 * [2025-07-13, 09:44:47](https://news.ycombinator.com/item?id=44548906) - [Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b)
 * [2025-07-13, 09:10:34](https://news.ycombinator.com/item?id=44548752) - [AGI Is Mathematically Impossible (3): Kolmogorov Complexity](https://news.ycombinator.com/item?id=44548752)
 * [2025-07-13, 09:02:20](https://news.ycombinator.com/item?id=44548712) - [SCP-055 is an \"antimeme\" – it erases itself from memory when observed](https://scp-wiki.wikidot.com/scp-055)
