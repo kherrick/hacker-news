@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-16, 08:18:34](https://news.ycombinator.com/item?id=44579902) - [Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer](https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/)
 * [2025-07-16, 07:44:32](https://news.ycombinator.com/item?id=44579717) - [I'm Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
 * [2025-07-16, 06:32:47](https://news.ycombinator.com/item?id=44579317) - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
 * [2025-07-16, 06:22:33](https://news.ycombinator.com/item?id=44579265) - [Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY](https://blog.pupred.com/blog/puttyvsbitvise/)
@@ -21,7 +22,6 @@
 * [2025-07-15, 15:56:47](https://news.ycombinator.com/item?id=44572499) - [NIST ion clock sets new record for most accurate clock](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
 * [2025-07-15, 15:46:41](https://news.ycombinator.com/item?id=44572377) - [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
-* [2025-07-14, 19:14:51](https://news.ycombinator.com/item?id=44564155) - [High-resolution imaging method details nerves across a mouse’s body](https://www.nature.com/articles/d41586-025-02156-y)
 * [2025-07-14, 16:31:37](https://news.ycombinator.com/item?id=44562084) - [Encrypting files with passkeys and age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-13, 16:59:59](https://news.ycombinator.com/item?id=44551777) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
 * [2025-07-13, 08:39:47](https://news.ycombinator.com/item?id=44548620) - [Lorem Gibson](http://loremgibson.com/)
