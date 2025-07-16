@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-16, 21:33:21",
+      "https://news.ycombinator.com/item?id=44587018"
+    ],
+    [
+      "Tin Can – The Landline, Reinvented for Kids",
+      "https://tincan.kids/"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 20:22:57",
       "https://news.ycombinator.com/item?id=44586427"
     ],
     [
       "A Recap on May/June Stability at Neon",
       "https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 20:13:07",
+      "https://news.ycombinator.com/item?id=44586328"
+    ],
+    [
+      "Young graduates are facing an employment crisis",
+      "https://www.wsj.com/economy/jobs/jobs-unemployment-rise-young-people-ce4704d8"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-07-16, 17:09:36",
-      "https://news.ycombinator.com/item?id=44584603"
-    ],
-    [
-      "KX Community Edition",
-      "https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 17:00:47",
       "https://news.ycombinator.com/item?id=44584497"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2025-07-16, 15:45:14",
+      "https://news.ycombinator.com/item?id=44583565"
+    ],
+    [
+      "Mill: A better build tool for Java, Scala, and Kotlin",
+      "https://mill-build.org/mill/index.html"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 15:17:12",
       "https://news.ycombinator.com/item?id=44583224"
     ],
@@ -97,16 +117,6 @@
     [
       "Altermagnets: The first new type of magnet in nearly a century",
       "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 14:55:31",
-      "https://news.ycombinator.com/item?id=44583014"
-    ],
-    [
-      "Show HN: An MCP server that gives LLMs temporal awareness and time calculation",
-      "https://github.com/jlumbroso/passage-of-time-mcp"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2025-07-16, 02:22:02",
-      "https://news.ycombinator.com/item?id=44578070"
-    ],
-    [
-      "LLM Daydreaming",
-      "https://gwern.net/ai-daydreaming"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 00:05:45",
       "https://news.ycombinator.com/item?id=44577268"
     ],
     [
       "GPUHammer: Rowhammer attacks on GPU memories are practical",
       "https://gpuhammer.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 21:03:50",
-      "https://news.ycombinator.com/item?id=44575794"
-    ],
-    [
-      "Where's Firefox going next?",
-      "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Scanned piano rolls database",
       "http://www.pianorollmusic.org/rolldatabase.php"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 17:41:06",
+      "https://news.ycombinator.com/item?id=44543630"
+    ],
+    [
+      "Pascal's Scams (2012)",
+      "http://unenumerated.blogspot.com/2012/07/pascals-scams.html"
     ]
   ],
   [
