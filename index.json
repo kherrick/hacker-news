@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-16, 06:32:47",
+      "https://news.ycombinator.com/item?id=44579317"
+    ],
+    [
+      "Shipping WebGPU on Windows in Firefox 141",
+      "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 06:22:33",
       "https://news.ycombinator.com/item?id=44579265"
     ],
     [
       "Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY",
       "https://blog.pupred.com/blog/puttyvsbitvise/"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 05:30:52",
+      "https://news.ycombinator.com/item?id=44578997"
+    ],
+    [
+      "Nextflow: System for creating scalable, portable, reproducible workflows",
+      "https://github.com/nextflow-io/nextflow"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "The FIPS 140-3 Go Cryptographic Module",
       "https://go.dev/blog/fips140"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 19:35:15",
-      "https://news.ycombinator.com/item?id=44574990"
-    ],
-    [
-      "Hierarchical Modeling (H-Nets)",
-      "https://cartesia.ai/blog/hierarchical-modeling"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Lorem Gibson",
       "http://loremgibson.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 21:45:20",
-      "https://news.ycombinator.com/item?id=44545463"
-    ],
-    [
-      "Easy dynamic dispatch using GLIBC Hardware Capabilities",
-      "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/"
     ]
   ],
   [
