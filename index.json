@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-16, 20:22:57",
+      "https://news.ycombinator.com/item?id=44586427"
+    ],
+    [
+      "A Recap on May/June Stability at Neon",
+      "https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 20:13:07",
       "https://news.ycombinator.com/item?id=44586328"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-07-16, 18:43:35",
-      "https://news.ycombinator.com/item?id=44585543"
-    ],
-    [
-      "Signs of Autism Could Be Encoded in the Way You Walk",
-      "https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 18:38:45",
       "https://news.ycombinator.com/item?id=44585495"
     ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=44584603"
     ],
     [
-      "KDB-X: KX releases FREE Commercial KDB license",
+      "KX Community Edition",
       "https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=44584497"
     ],
     [
-      "Weave (YC W25) is hiring a founding AI engineer",
+      "Weave (YC W25) is hiring an AI engineer",
       "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "Altermagnets: The first new type of magnet in nearly a century",
       "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 14:55:31",
+      "https://news.ycombinator.com/item?id=44583014"
+    ],
+    [
+      "Show HN: An MCP server that gives LLMs temporal awareness and time calculation",
+      "https://github.com/jlumbroso/passage-of-time-mcp"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-07-16, 02:22:02",
-      "https://news.ycombinator.com/item?id=44578070"
-    ],
-    [
-      "LLM Daydreaming",
-      "https://gwern.net/ai-daydreaming"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 00:05:45",
       "https://news.ycombinator.com/item?id=44577268"
     ],
@@ -227,16 +227,6 @@
     [
       "How I lost my backpack with passports and laptop",
       "https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 16:49:06",
-      "https://news.ycombinator.com/item?id=44573195"
-    ],
-    [
-      "Reflections on OpenAI",
-      "https://calv.info/openai-reflections"
     ]
   ],
   [
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=44547105"
     ],
     [
-      "Show HN: 0xDEAD//Type – A Fast-Paced Typing Shooter with Retro Vibes",
+      "Show HN: 0xdead//type – A fast-paced typing shooter with retro vibes",
       "https://0xdeadtype.theden.sh/"
+    ]
+  ],
+  [
+    [
+      "2025-07-12, 22:27:28",
+      "https://news.ycombinator.com/item?id=44545708"
+    ],
+    [
+      "Scanned Piano Rolls Database",
+      "http://www.pianorollmusic.org/rolldatabase.php"
     ]
   ],
   [
