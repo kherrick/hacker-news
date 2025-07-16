@@ -34,6 +34,7 @@
 * [2025-07-13, 16:57:48](https://news.ycombinator.com/item?id=44551762) - [Show HN: A Raycast-compatible launcher for Linux](https://github.com/ByteAtATime/raycast-linux)
 * [2025-07-13, 16:45:02](https://news.ycombinator.com/item?id=44551652) - [A Technical Look at Iran's Internet Shutdowns](https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown)
 * [2025-07-13, 16:44:56](https://news.ycombinator.com/item?id=44551648) - [Prompt Engineering: From Zero to Hero](https://promptz2h.com/)
+* [2025-07-13, 16:02:19](https://news.ycombinator.com/item?id=44551359) - [Show HN: BloomSearch – Keyword search with hierarchical bloom filters](https://github.com/danthegoodman1/bloomsearch)
 * [2025-07-13, 15:57:34](https://news.ycombinator.com/item?id=44551318) - [Zig's new I/O: function coloring is inevitable?](https://blog.ivnj.org/post/function-coloring-is-inevitable)
 * [2025-07-13, 15:41:30](https://news.ycombinator.com/item?id=44551203) - [A quick look at unprivileged sandboxing](https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html)
 * [2025-07-13, 15:35:49](https://news.ycombinator.com/item?id=44551157) - [The beauty entrepreneur who made the Jheri curl a sensation](https://thehustle.co/originals/the-beauty-entrepreneur-who-made-the-jheri-curl-a-sensation)
