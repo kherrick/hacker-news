@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-07-16, 03:09:55",
+      "https://news.ycombinator.com/item?id=44578308"
+    ],
+    [
+      "Plasma Bigscreen – open-source user interface for TV",
+      "https://plasma-bigscreen.org"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 02:56:53",
+      "https://news.ycombinator.com/item?id=44578255"
+    ],
+    [
+      "Congress moves to reject bulk of White House's proposed NASA cuts",
+      "https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 02:37:37",
+      "https://news.ycombinator.com/item?id=44578143"
+    ],
+    [
+      "Six Years of Gemini",
+      "https://geminiprotocol.net/news/2025_06_20.gmi"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 00:05:45",
       "https://news.ycombinator.com/item?id=44577268"
     ],
     [
       "GPUHammer: Rowhammer attacks on GPU memories are practical",
       "https://gpuhammer.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 23:50:02",
-      "https://news.ycombinator.com/item?id=44577171"
-    ],
-    [
-      "Unlike ChatGPT, Anthropic has doubled down on Artifacts",
-      "https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Hazel: A live functional programming environment with typed holes",
       "https://github.com/hazelgrove/hazel"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 19:16:59",
-      "https://news.ycombinator.com/item?id=44574815"
-    ],
-    [
-      "Helix Editor 25.07",
-      "https://helix-editor.com/news/release-25-07-highlights/"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2025-07-13, 08:59:42",
-      "https://news.ycombinator.com/item?id=44548701"
+      "2025-07-13, 11:38:18",
+      "https://news.ycombinator.com/item?id=44549549"
     ],
     [
-      "What Was Cyberpunk? In Memoriam: 1980-2020 (2020)",
-      "https://forums.insertcredit.com/t/what-was-cyberpunk-in-memoriam-1980-2020/1721"
+      "Show HN: I built this to talk Danish to my girlfriend – works with any language",
+      "https://menerdu.vercel.app/"
     ]
   ],
   [
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2025-07-12, 14:06:30",
-      "https://news.ycombinator.com/item?id=44542164"
-    ],
-    [
-      "How Culture Is Made",
-      "https://www.metalabel.com/studio/release-strategies/how-culture-is-made"
-    ]
-  ],
-  [
-    [
       "2025-07-12, 12:09:40",
       "https://news.ycombinator.com/item?id=44541509"
     ],
     [
-      "Is there a literacy crisis?",
+      "How bad are childhood literacy rates?",
       "https://www.vox.com/culture/419070/childhood-literacy-college-students-reading-crisis-ai"
     ]
   ],
