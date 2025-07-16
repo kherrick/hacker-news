@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-07-16, 12:39:51](https://news.ycombinator.com/item?id=44581631) - [cppyy: Automatic Python-C++ Bindings](https://cppyy.readthedocs.io/en/latest/)
-* [2025-07-16, 12:02:21](https://news.ycombinator.com/item?id=44581257) - [Gauntlet AI (YC S17): All expenses paid training in AI and $200k+job](https://www.crossover.com/jobs/5597/gauntlet-ai/ai-challenger/apply)
 * [2025-07-16, 11:42:17](https://news.ycombinator.com/item?id=44581098) - [Show HN: DataRamen, a Fast SQL Explorer with Automatic Joins and Data Navigation](https://dataramen.xyz/)
 * [2025-07-16, 10:37:08](https://news.ycombinator.com/item?id=44580682) - [Linux Reaches 5% Desktop Market Share in USA](https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/)
 * [2025-07-16, 09:15:28](https://news.ycombinator.com/item?id=44580257) - [AWS open-sourced Postgres active-active replication extension](https://github.com/aws/pgactive)
@@ -24,6 +23,7 @@
 * [2025-07-13, 15:35:49](https://news.ycombinator.com/item?id=44551157) - [The beauty entrepreneur who made the Jheri curl a sensation](https://thehustle.co/originals/the-beauty-entrepreneur-who-made-the-jheri-curl-a-sensation)
 * [2025-07-13, 15:08:23](https://news.ycombinator.com/item?id=44550967) - [Pixel Piranhas](https://rybakov.com/blog/pixel_piranhas/)
 * [2025-07-13, 11:07:53](https://news.ycombinator.com/item?id=44549413) - [Thunderbird: Fluent Windows 11 Design](https://github.com/Deathbyteacup/fluentbird)
+* [2025-07-13, 08:05:37](https://news.ycombinator.com/item?id=44548449) - [Atopile – design circuit boards fast – with code](https://atopile.io/atopile/introduction)
 * [2025-07-12, 20:50:56](https://news.ycombinator.com/item?id=44545050) - [Mostly dead influential programming languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/)
 * [2025-07-12, 17:41:06](https://news.ycombinator.com/item?id=44543630) - [Pascal's Scams (2012)](http://unenumerated.blogspot.com/2012/07/pascals-scams.html)
 * [2025-07-12, 17:08:57](https://news.ycombinator.com/item?id=44543386) - [Documenting what you're willing to support (and not)](https://rachelbythebay.com/w/2025/07/07/support/)
