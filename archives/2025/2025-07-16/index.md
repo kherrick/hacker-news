@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 17:00:47](https://news.ycombinator.com/item?id=44584497) - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
 * [2025-07-16, 16:14:20](https://news.ycombinator.com/item?id=44583982) - [Mkosi – Build Bespoke OS Images](https://mkosi.systemd.io/)
 * [2025-07-16, 15:50:06](https://news.ycombinator.com/item?id=44583619) - [The Italian towns selling houses for €1](https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1)
 * [2025-07-16, 15:45:14](https://news.ycombinator.com/item?id=44583565) - [Mill: A Better Build Tool for Java, Scala, & Kotlin](https://mill-build.org/mill/index.html)
