@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 21:33:21](https://news.ycombinator.com/item?id=44587018) - [Tin Can – The Landline, Reinvented for Kids](https://tincan.kids/)
 * [2025-07-16, 20:22:57](https://news.ycombinator.com/item?id=44586427) - [A Recap on May/June Stability at Neon](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
 * [2025-07-16, 20:13:07](https://news.ycombinator.com/item?id=44586328) - [Young Graduates Are Facing an Employment Crisis](https://www.wsj.com/economy/jobs/jobs-unemployment-rise-young-people-ce4704d8)
 * [2025-07-16, 19:45:24](https://news.ycombinator.com/item?id=44586064) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
