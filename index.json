@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-16, 18:38:45",
+      "https://news.ycombinator.com/item?id=44585495"
+    ],
+    [
+      "PyPI Prohibits inbox.ru email domain registrations",
+      "https://blog.pypi.org/posts/2025-06-15-prohibiting-inbox-ru-emails/"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 17:47:08",
       "https://news.ycombinator.com/item?id=44585002"
     ],
@@ -107,16 +117,6 @@
     [
       "Show HN: Improving search ranking with chess Elo scores",
       "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 11:42:17",
-      "https://news.ycombinator.com/item?id=44581098"
-    ],
-    [
-      "Show HN: DataRamen, a Fast SQL Explorer with Automatic Joins and Data Navigation",
-      "https://dataramen.xyz/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2025-07-15, 11:42:46",
-      "https://news.ycombinator.com/item?id=44570130"
+      "2025-07-15, 06:44:57",
+      "https://news.ycombinator.com/item?id=44568529"
     ],
     [
-      "A Rust Shaped Hole",
-      "https://mnvr.in/rust"
+      "Show HN: Timep – a next-gen profiler and flamegraph-generator for bash code",
+      "https://github.com/jkool702/timep"
     ]
   ],
   [
