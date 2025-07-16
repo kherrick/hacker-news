@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 06:32:47](https://news.ycombinator.com/item?id=44579317) - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
 * [2025-07-16, 06:22:33](https://news.ycombinator.com/item?id=44579265) - [Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY](https://blog.pupred.com/blog/puttyvsbitvise/)
+* [2025-07-16, 05:30:52](https://news.ycombinator.com/item?id=44578997) - [Nextflow: System for creating scalable, portable, reproducible workflows](https://github.com/nextflow-io/nextflow)
 * [2025-07-16, 04:45:53](https://news.ycombinator.com/item?id=44578761) - [These states are America's worst for quality of life in 2025](https://www.cnbc.com/2025/07/14/americas-worst-places-quality-of-life-top-states-for-business.html)
 * [2025-07-16, 04:03:04](https://news.ycombinator.com/item?id=44578558) - [Run LLM Agents as Microservices with One-Click Deployment](https://agentainer.io/)
 * [2025-07-16, 03:50:00](https://news.ycombinator.com/item?id=44578510) - [Tilck: A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
