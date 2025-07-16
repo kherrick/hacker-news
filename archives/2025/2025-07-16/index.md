@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 19:44:09](https://news.ycombinator.com/item?id=44586053) - [US Importers Sued for 'Greenwashing' Mexican Avocados](https://civileats.com/2025/07/09/u-s-importers-sued-for-greenwashing-mexican-avocados/)
+* [2025-07-16, 19:08:39](https://news.ycombinator.com/item?id=44585755) - [Intel's retreat is unlike anything it's done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
 * [2025-07-16, 18:43:35](https://news.ycombinator.com/item?id=44585543) - [Signs of Autism Could Be Encoded in the Way You Walk](https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk)
 * [2025-07-16, 18:38:45](https://news.ycombinator.com/item?id=44585495) - [PyPI Prohibits inbox.ru email domain registrations](https://blog.pypi.org/posts/2025-06-15-prohibiting-inbox-ru-emails/)
 * [2025-07-16, 17:47:08](https://news.ycombinator.com/item?id=44585002) - [How and where will agents ship software?](https://www.instantdb.com/essays/agents)
