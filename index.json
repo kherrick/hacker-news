@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=44587018"
     ],
     [
-      "Tin Can – The Landline, Reinvented for Kids",
+      "Tin Can – The landline, reinvented for kids",
       "https://tincan.kids/"
     ]
   ],
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-07-16, 19:08:39",
-      "https://news.ycombinator.com/item?id=44585755"
-    ],
-    [
-      "Intel's retreat is unlike anything it's done before in Oregon",
-      "https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 18:38:45",
       "https://news.ycombinator.com/item?id=44585495"
     ],
@@ -77,6 +67,16 @@
     [
       "Weave (YC W25) is hiring an AI engineer",
       "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 16:48:48",
+      "https://news.ycombinator.com/item?id=44584372"
+    ],
+    [
+      "Ex-Waymo engineers launch Bedrock Robotics to automate construction",
+      "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=44551359"
     ],
     [
-      "Show HN: BloomSearch – Keyword search with hierarchical bloom filters",
+      "Show HN: BloomSearch – Keyword search with hierarchical Bloom filters",
       "https://github.com/danthegoodman1/bloomsearch"
     ]
   ],
