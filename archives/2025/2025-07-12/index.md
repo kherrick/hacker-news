@@ -9,6 +9,7 @@
 * [2025-07-12, 23:03:41](https://news.ycombinator.com/item?id=44545949) - [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
 * [2025-07-12, 22:48:14](https://news.ycombinator.com/item?id=44545858) - [Light exposure at night predicts incidence of cardiovascular diseases](https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1)
 * [2025-07-12, 22:42:56](https://news.ycombinator.com/item?id=44545823) - [He became the first Black mayor of a town. A white minority locked him out](https://www.theguardian.com/us-news/2023/aug/26/black-mayor-alabama-town-locked-out)
+* [2025-07-12, 22:27:28](https://news.ycombinator.com/item?id=44545708) - [Scanned Piano Rolls Database](http://www.pianorollmusic.org/rolldatabase.php)
 * [2025-07-12, 22:24:57](https://news.ycombinator.com/item?id=44545695) - [I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor](https://thewalrus.ca/empress-of-ireland-survivor-mystery/)
 * [2025-07-12, 21:45:20](https://news.ycombinator.com/item?id=44545463) - [Easy dynamic dispatch using GLIBC Hardware Capabilities](https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/)
 * [2025-07-12, 20:50:56](https://news.ycombinator.com/item?id=44545050) - [Most (ly Dead) Influential Programming Languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/)
