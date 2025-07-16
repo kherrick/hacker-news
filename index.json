@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-16, 15:11:54",
+      "https://news.ycombinator.com/item?id=44583171"
+    ],
+    [
+      "Altermagnets: The first new type of magnet in nearly a century",
+      "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 14:55:31",
       "https://news.ycombinator.com/item?id=44583014"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2025-07-16, 14:39:55",
+      "https://news.ycombinator.com/item?id=44582855"
+    ],
+    [
+      "Chain of thought monitorability: A new and fragile opportunity for AI safety",
+      "https://arxiv.org/abs/2507.11473"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 14:17:54",
       "https://news.ycombinator.com/item?id=44582662"
     ],
     [
-      "Show HN: Improving RAG with Chess Elo Scores? (YC W25)",
+      "Show HN: Improving RAG with chess Elo scores",
       "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores"
     ]
   ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-07-16, 06:22:33",
-      "https://news.ycombinator.com/item?id=44579265"
-    ],
-    [
-      "Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY",
-      "https://blog.pupred.com/blog/puttyvsbitvise/"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 03:50:00",
       "https://news.ycombinator.com/item?id=44578510"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-07-15, 22:07:47",
-      "https://news.ycombinator.com/item?id=44576352"
-    ],
-    [
-      "My Family and the Flood",
-      "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 21:03:50",
       "https://news.ycombinator.com/item?id=44575794"
     ],
@@ -217,6 +217,16 @@
     [
       "Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL",
       "https://www.matthieulc.com/posts/shoggoth-mini"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 16:02:19",
+      "https://news.ycombinator.com/item?id=44551359"
+    ],
+    [
+      "Show HN: BloomSearch – Keyword search with hierarchical bloom filters",
+      "https://github.com/danthegoodman1/bloomsearch"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "MARS.EXE → COM (2021)",
       "https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 10:56:24",
-      "https://news.ycombinator.com/item?id=44541088"
-    ],
-    [
-      "Running a million-board chess MMO in a single process",
-      "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/"
     ]
   ]
 ]
