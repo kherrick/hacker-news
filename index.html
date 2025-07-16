@@ -129,6 +129,143 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="44583014">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/jlumbroso/passage-of-time-mcp"
+              >Show HN: I gave Claude a sundial and it built a calendar</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-16 @ 14:55:31</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44583014"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Most MCP demos wire LLMs to external data stores. That’s useful,
+                but MCP is also a chance to give models <i>perception</i> —
+                extra senses beyond the prompt text.
+              </p>
+              <p>
+                Six functions (`current_datetime`, `time_difference`,
+                `timestamp_context`, etc.) give Claude/GPT real temporal
+                awareness: It can spot pauses, reason about rhythms, and even
+                label a chat’s “three‑act structure”. Runs locally in &lt;60 s
+                (Python) or via a hosted demo.
+              </p>
+              <p>
+                If time works, what else could we surface? - Location / movement
+                (GPS, speed, “I’m on a train”) - Weather (rainy evening vs clear
+                morning) - Device state (battery low, poor bandwidth) - Ambient
+                modality (user is dictating on mobile vs typing at desk) -
+                Calendar context (meeting starts in 5 min) - Biometric cues
+                (heart‑rate spikes while coding)
+              </p>
+              <p>
+                Curious what other signals people think would unlock better
+                collaboration.
+              </p>
+              <p>
+                Full back story:
+                <a
+                  href="https://medium.com/@jeremie.lumbroso/teaching-ai-the-significance-of-the-passage-of-time-yes-that-one-106ad7d20957"
+                  >https://medium.com/@jeremie.lumbroso/teaching-ai-the-signifi...</a
+                >
+              </p>
+              <p>
+                Happy to discuss MCP patterns, tool discovery, or future
+                “senses”. Feedback and PRs welcome!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="44582662">
+          <h3>
+            <a
+              class="item"
+              href="https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores"
+              >Show HN: Improving RAG with Chess Elo Scores? (YC W25)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-16 @ 14:17:54</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44582662"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I'm Ghita, co-founder of ZeroEntropy (YC W25). We build high
+                accuracy search infrastructure for RAG and AI Agents.
+              </p>
+              <p>
+                We just released two new state-of-the-art rerankers zerank-1,
+                and zerank-1-small. One of them is fully open-source under
+                Apache 2.0.
+              </p>
+              <p>
+                We trained those models using a novel Elo score inspired
+                pipeline which we describe in detail in the blog attached. In a
+                nutshell, here is an outline of the training steps: * Collect
+                soft preferences between pairs of documents using an ensemble of
+                LLMs. * Fit an ELO-style rating system (Bradley-Terry) to turn
+                pairwise comparisons into absolute per-document scores. *
+                Normalize relevance scores across queries using a bias
+                correction step, modeled using cross-query comparisons and
+                solved with MLE.
+              </p>
+              <p>
+                You can try the models either through our API (<a
+                  href="https://docs.zeroentropy.dev/models"
+                  >https://docs.zeroentropy.dev/models</a
+                >), or via HuggingFace (<a
+                  href="https://huggingface.co/zeroentropy/zerank-1-small"
+                  >https://huggingface.co/zeroentropy/zerank-1-small</a
+                >).
+              </p>
+              <p>
+                We would love this community's feedback on the models, and the
+                training approach. A full technical report is also going to be
+                released soon.
+              </p>
+              <p>Thank you!</p>
+            </div>
+          </section>
+        </section>
+        <section id="44582349">
+          <h3>
+            <a
+              class="item"
+              href="https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur"
+              >Denver's Deepest Dinosaur</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-16 @ 13:46:28</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44582349"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="44581631">
           <h3>
             <a class="item" href="https://cppyy.readthedocs.io/en/latest/"
@@ -139,11 +276,11 @@
             <h4>
               <span>2025-07-16 @ 12:39:51</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44581631"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -159,11 +296,11 @@
             <h4>
               <span>2025-07-16 @ 11:42:17</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44581098"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
             <div class="text">
@@ -228,11 +365,11 @@
             <h4>
               <span>2025-07-16 @ 10:37:08</span
               ><span class="points-container"
-                >Points: <span class="points">675</span></span
+                >Points: <span class="points">711</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44580682"
                   >Comments</a
-                ><span class="descendants">: 357</span></span
+                ><span class="descendants">: 390</span></span
               >
             </h4>
           </section>
@@ -247,11 +384,11 @@
             <h4>
               <span>2025-07-16 @ 09:15:28</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44580257"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -269,11 +406,32 @@
             <h4>
               <span>2025-07-16 @ 08:18:34</span
               ><span class="points-container"
-                >Points: <span class="points">367</span></span
+                >Points: <span class="points">381</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44579902"
                   >Comments</a
-                ><span class="descendants">: 237</span></span
+                ><span class="descendants">: 249</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44579717">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html"
+              >I'm Switching to Python and Actually Liking It</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-16 @ 07:44:32</span
+              ><span class="points-container"
+                >Points: <span class="points">99</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44579717"
+                  >Comments</a
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -290,31 +448,31 @@
             <h4>
               <span>2025-07-16 @ 06:32:47</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44579317"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="44578997">
+        <section id="44579265">
           <h3>
-            <a class="item" href="https://github.com/nextflow-io/nextflow"
-              >Nextflow: System for creating scalable, portable, reproducible
-              workflows</a
+            <a class="item" href="https://blog.pupred.com/blog/puttyvsbitvise/"
+              >Hijacking Trust? Bitvise Under Fire for Controlling Domain of
+              FOSS Project PuTTY</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-07-16 @ 05:30:52</span
+              <span>2025-07-16 @ 06:22:33</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44578997"
+                ><a href="https://news.ycombinator.com/item?id=44579265"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -329,7 +487,7 @@
             <h4>
               <span>2025-07-16 @ 03:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">216</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44578510"
                   >Comments</a
@@ -350,11 +508,11 @@
             <h4>
               <span>2025-07-16 @ 03:44:39</span
               ><span class="points-container"
-                >Points: <span class="points">381</span></span
+                >Points: <span class="points">391</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44578490"
                   >Comments</a
-                ><span class="descendants">: 231</span></span
+                ><span class="descendants">: 238</span></span
               >
             </h4>
           </section>
@@ -371,11 +529,11 @@
             <h4>
               <span>2025-07-16 @ 02:37:37</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44578143"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -390,11 +548,11 @@
             <h4>
               <span>2025-07-16 @ 02:22:02</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44578070"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -409,32 +567,11 @@
             <h4>
               <span>2025-07-16 @ 00:05:45</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44577268"
                   >Comments</a
                 ><span class="descendants">: 74</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44577171">
-          <h3>
-            <a
-              class="item"
-              href="https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt"
-              >Unlike ChatGPT, Anthropic has doubled down on Artifacts</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-15 @ 23:50:02</span
-              ><span class="points-container"
-                >Points: <span class="points">73</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44577171"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -451,11 +588,11 @@
             <h4>
               <span>2025-07-15 @ 22:07:47</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44576352"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -472,30 +609,11 @@
             <h4>
               <span>2025-07-15 @ 21:03:50</span
               ><span class="points-container"
-                >Points: <span class="points">274</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44575794"
                   >Comments</a
-                ><span class="descendants">: 424</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44575607">
-          <h3>
-            <a class="item" href="https://go.dev/blog/fips140"
-              >The FIPS 140-3 Go Cryptographic Module</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-15 @ 20:42:49</span
-              ><span class="points-container"
-                >Points: <span class="points">178</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44575607"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 436</span></span
               >
             </h4>
           </section>
@@ -512,11 +630,11 @@
             <h4>
               <span>2025-07-15 @ 17:05:39</span
               ><span class="points-container"
-                >Points: <span class="points">408</span></span
+                >Points: <span class="points">412</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44573409"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -531,11 +649,11 @@
             <h4>
               <span>2025-07-15 @ 16:49:06</span
               ><span class="points-container"
-                >Points: <span class="points">621</span></span
+                >Points: <span class="points">629</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44573195"
                   >Comments</a
-                ><span class="descendants">: 337</span></span
+                ><span class="descendants">: 339</span></span
               >
             </h4>
           </section>
@@ -552,11 +670,11 @@
             <h4>
               <span>2025-07-15 @ 15:56:47</span
               ><span class="points-container"
-                >Points: <span class="points">328</span></span
+                >Points: <span class="points">331</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44572499"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -574,30 +692,11 @@
             <h4>
               <span>2025-07-15 @ 15:46:41</span
               ><span class="points-container"
-                >Points: <span class="points">533</span></span
+                >Points: <span class="points">536</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44572377"
                   >Comments</a
                 ><span class="descendants">: 101</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44551777">
-          <h3>
-            <a class="item" href="https://bleuje.com/physarum-explanation/"
-              >Algorithms for making interesting organic simulations</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-13 @ 16:59:59</span
-              ><span class="points-container"
-                >Points: <span class="points">121</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44551777"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -612,7 +711,7 @@
             <h4>
               <span>2025-07-13 @ 15:08:23</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44550967"
                   >Comments</a
@@ -631,11 +730,32 @@
             <h4>
               <span>2025-07-13 @ 11:07:53</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44549413"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 83</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="44549089">
+          <h3>
+            <a
+              class="item"
+              href="https://www.newyorker.com/culture/open-questions/whats-happening-to-reading"
+              >What's Happening to Reading?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-07-13 @ 10:16:48</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=44549089"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -643,39 +763,18 @@
         <section id="44548449">
           <h3>
             <a class="item" href="https://atopile.io/atopile/introduction"
-              >Atopile – design circuit boards fast – with code</a
+              >Atopile – Design circuit boards with code</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-07-13 @ 08:05:37</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44548449"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="44545050">
-          <h3>
-            <a
-              class="item"
-              href="https://www.hillelwayne.com/post/influential-dead-languages/"
-              >Mostly dead influential programming languages (2020)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-12 @ 20:50:56</span
-              ><span class="points-container"
-                >Points: <span class="points">218</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44545050"
-                  >Comments</a
-                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -692,11 +791,11 @@
             <h4>
               <span>2025-07-12 @ 17:41:06</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44543630"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -713,40 +812,13 @@
             <h4>
               <span>2025-07-12 @ 17:08:57</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44543386"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="44542408">
-          <h3>
-            <a
-              class="item"
-              href="https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000"
-              >The Story of Mel, A Real Programmer, Annotated (1996)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-07-12 @ 14:42:04</span
-              ><span class="points-container"
-                >Points: <span class="points">129</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=44542408"
-                  >Comments</a
-                ><span class="descendants">: 37</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://users.cs.utah.edu/~elb/folklore/mel-annotated/node2.html"
-                >https://users.cs.utah.edu/~elb/folklore/mel-annotated/node2....</a
-              >.
-            </div>
           </section>
         </section>
         <section id="44541662">
@@ -759,11 +831,11 @@
             <h4>
               <span>2025-07-12 @ 12:43:12</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44541662"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -780,7 +852,7 @@
             <h4>
               <span>2025-07-12 @ 10:56:24</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=44541088"
                   >Comments</a
