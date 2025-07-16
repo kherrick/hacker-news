@@ -43,6 +43,7 @@
 * [2025-07-14, 14:32:08](https://news.ycombinator.com/item?id=44560740) - [AI slows down open source developers. Peter Naur can teach us why](https://johnwhiles.com/posts/mental-models-vs-ai-tools)
 * [2025-07-14, 14:24:40](https://news.ycombinator.com/item?id=44560662) - [AWS launches Kiro, its Cursor clone](https://kiro.dev/blog/introducing-kiro/)
 * [2025-07-14, 14:08:44](https://news.ycombinator.com/item?id=44560489) - [Show HN: TechBro Generator – Generate Satirical TechBro Posts](https://techbrogenerator.netlify.app/)
+* [2025-07-14, 13:40:11](https://news.ycombinator.com/item?id=44560123) - [From Engineer to Manager: A Practical Guide to Your First Months in Leadership](https://humansinsystems.com/blog/new-manager-essentials-a-practical-guide-to-your-first-months)
 * [2025-07-14, 12:38:18](https://news.ycombinator.com/item?id=44559469) - [Why recycling solar panels is harder than you might think](https://theconversation.com/why-recycling-solar-panels-is-harder-than-you-might-think-an-electrical-engineer-explains-259115)
 * [2025-07-14, 11:12:18](https://news.ycombinator.com/item?id=44558755) - [HoloMem's drop-in holographic tape drive for LTO tape libraries](https://blocksandfiles.com/2025/07/12/holomems-drop-in-holographic-tape-cartridge-for-lto-tape-libraries/)
 * [2025-07-14, 11:02:37](https://news.ycombinator.com/item?id=44558665) - [Death by a Thousand Slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
