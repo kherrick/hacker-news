@@ -2,7 +2,6 @@
 
 * [2025-07-16, 08:18:34](https://news.ycombinator.com/item?id=44579902) - [Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer](https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/)
 * [2025-07-16, 06:32:47](https://news.ycombinator.com/item?id=44579317) - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
-* [2025-07-16, 06:22:33](https://news.ycombinator.com/item?id=44579265) - [Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY](https://blog.pupred.com/blog/puttyvsbitvise/)
 * [2025-07-16, 05:30:52](https://news.ycombinator.com/item?id=44578997) - [Nextflow: System for creating scalable, portable, reproducible workflows](https://github.com/nextflow-io/nextflow)
 * [2025-07-16, 03:50:00](https://news.ycombinator.com/item?id=44578510) - [Tilck: A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
 * [2025-07-16, 03:44:39](https://news.ycombinator.com/item?id=44578490) - [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
@@ -22,6 +21,7 @@
 * [2025-07-15, 15:46:41](https://news.ycombinator.com/item?id=44572377) - [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
 * [2025-07-15, 14:47:02](https://news.ycombinator.com/item?id=44571692) - [Voxtral – Frontier open source speech understanding models](https://mistral.ai/news/voxtral)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
+* [2025-07-14, 16:31:37](https://news.ycombinator.com/item?id=44562084) - [Encrypting files with passkeys and age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-13, 16:59:59](https://news.ycombinator.com/item?id=44551777) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
 * [2025-07-13, 15:35:49](https://news.ycombinator.com/item?id=44551157) - [The beauty entrepreneur who made the Jheri curl a sensation](https://thehustle.co/originals/the-beauty-entrepreneur-who-made-the-jheri-curl-a-sensation)
 * [2025-07-13, 08:39:47](https://news.ycombinator.com/item?id=44548620) - [Lorem Gibson](http://loremgibson.com/)
