@@ -52,6 +52,7 @@
 * [2025-07-15, 12:40:51](https://news.ycombinator.com/item?id=44570535) - [Speedrun](https://www.educationprogress.org/p/speedrun)
 * [2025-07-15, 12:18:16](https://news.ycombinator.com/item?id=44570363) - [A Little-Known Microsoft Program Could Expose the Defense Department to Hackers](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers)
 * [2025-07-15, 12:00:48](https://news.ycombinator.com/item?id=44570251) - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
+* [2025-07-15, 11:42:46](https://news.ycombinator.com/item?id=44570130) - [A Rust Shaped Hole](https://mnvr.in/rust)
 * [2025-07-15, 11:29:02](https://news.ycombinator.com/item?id=44570048) - [Show HN: We made our own inference engine for Apple Silicon](https://github.com/trymirai/uzu)
 * [2025-07-15, 10:03:30](https://news.ycombinator.com/item?id=44569619) - [Code highlighting with Cursor AI used for $500k theft](https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/)
 * [2025-07-15, 09:01:40](https://news.ycombinator.com/item?id=44569296) - [Field Notes on Shipping with Claude Code](https://www.lesswrong.com/posts/dxiConBZTd33sFaRC/field-notes-from-shipping-real-code-with-claude)
