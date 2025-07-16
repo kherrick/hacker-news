@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-16, 03:09:55](https://news.ycombinator.com/item?id=44578308) - [Plasma Bigscreen – open-source user interface for TV](https://plasma-bigscreen.org)
+* [2025-07-16, 04:03:04](https://news.ycombinator.com/item?id=44578558) - [Run LLM Agents as Microservices with One-Click Deployment](https://agentainer.io/)
 * [2025-07-16, 02:56:53](https://news.ycombinator.com/item?id=44578255) - [Congress moves to reject bulk of White House's proposed NASA cuts](https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/)
 * [2025-07-16, 02:37:37](https://news.ycombinator.com/item?id=44578143) - [Six Years of Gemini](https://geminiprotocol.net/news/2025_06_20.gmi)
 * [2025-07-16, 00:05:45](https://news.ycombinator.com/item?id=44577268) - [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/)
@@ -13,6 +13,7 @@
 * [2025-07-15, 19:23:07](https://news.ycombinator.com/item?id=44574864) - [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
 * [2025-07-15, 18:24:51](https://news.ycombinator.com/item?id=44574318) - [Show HN: Beyond Z²+C, Plot Any Fractal](https://www.juliascope.com/)
 * [2025-07-15, 17:48:35](https://news.ycombinator.com/item?id=44573887) - [Designing for the Eye: Optical corrections in architecture and typography](https://www.nubero.ch/blog/015/)
+* [2025-07-15, 17:35:42](https://news.ycombinator.com/item?id=44573752) - [Plasma Bigscreen rises from the dead with a better UI](https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/)
 * [2025-07-15, 17:19:57](https://news.ycombinator.com/item?id=44573574) - [Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding](https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/)
 * [2025-07-15, 17:05:39](https://news.ycombinator.com/item?id=44573409) - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/)
 * [2025-07-15, 17:00:04](https://news.ycombinator.com/item?id=44573320) - [CoinTracker (YC W18) is hiring to solve crypto taxes and accounting (remote)](https://news.ycombinator.com/item?id=44573320)
@@ -22,14 +23,13 @@
 * [2025-07-15, 14:47:02](https://news.ycombinator.com/item?id=44571692) - [Voxtral – Frontier open source speech understanding models](https://mistral.ai/news/voxtral)
 * [2025-07-15, 04:35:35](https://news.ycombinator.com/item?id=44567857) - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-14, 16:31:37](https://news.ycombinator.com/item?id=44562084) - [Encrypting files with passkeys and age](https://words.filippo.io/passkey-encryption/)
-* [2025-07-13, 11:38:18](https://news.ycombinator.com/item?id=44549549) - [Show HN: I built this to talk Danish to my girlfriend – works with any language](https://menerdu.vercel.app/)
 * [2025-07-13, 08:39:47](https://news.ycombinator.com/item?id=44548620) - [Lorem Gibson](http://loremgibson.com/)
 * [2025-07-13, 00:06:20](https://news.ycombinator.com/item?id=44546321) - [Petabit-class transmission over > 1000 km using standard 19-core optical fiber](https://www.nict.go.jp/en/press/2025/05/29-1.html)
 * [2025-07-12, 21:45:20](https://news.ycombinator.com/item?id=44545463) - [Easy dynamic dispatch using GLIBC Hardware Capabilities](https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/)
 * [2025-07-12, 20:50:56](https://news.ycombinator.com/item?id=44545050) - [Mostly dead influential programming languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/)
 * [2025-07-12, 14:42:04](https://news.ycombinator.com/item?id=44542408) - [The Story of Mel, A Real Programmer, Annotated (1996)](https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000)
-* [2025-07-12, 12:09:40](https://news.ycombinator.com/item?id=44541509) - [How bad are childhood literacy rates?](https://www.vox.com/culture/419070/childhood-literacy-college-students-reading-crisis-ai)
 * [2025-07-12, 10:56:24](https://news.ycombinator.com/item?id=44541088) - [Running a million-board chess MMO in a single process](https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/)
+* [2025-07-12, 09:47:30](https://news.ycombinator.com/item?id=44540724) - [Show HN: Reviving a 20 year old OS X App](https://andrewshaw.nl/blog/reviving-genius)
 
 ## [Archives](archives/index.md)
 
