@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 23:50:02](https://news.ycombinator.com/item?id=44577171) - [Unlike ChatGPT, Anthropic has doubled down on Artifacts](https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt)
+* [2025-07-15, 23:29:54](https://news.ycombinator.com/item?id=44577018) - [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
 * [2025-07-15, 22:54:19](https://news.ycombinator.com/item?id=44576762) - [Huawei's star AI model was built on burnout and plagiarism](https://the-open-source-ward.ghost.io/the-pangu-illusion-how-huaweis-star-ai-model-was-built-on-burnout-betrayal-and-open-source-theft/)
 * [2025-07-15, 22:07:47](https://news.ycombinator.com/item?id=44576352) - [My Family and the Flood: A Firsthand Account](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
 * [2025-07-15, 22:03:50](https://news.ycombinator.com/item?id=44576312) - [AI ate code, now it wants cashflows. Is this finance's Copilot moment?\"](https://www.anthropic.com/news/claude-for-financial-services)
