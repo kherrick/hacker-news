@@ -10,7 +10,7 @@
 * [2025-07-16, 14:55:31](https://news.ycombinator.com/item?id=44583014) - [Show HN: An MCP server that gives LLMs temporal awareness and time calculation](https://github.com/jlumbroso/passage-of-time-mcp)
 * [2025-07-16, 14:39:55](https://news.ycombinator.com/item?id=44582855) - [Chain of thought monitorability: A new and fragile opportunity for AI safety](https://arxiv.org/abs/2507.11473)
 * [2025-07-16, 14:17:54](https://news.ycombinator.com/item?id=44582662) - [Show HN: Improving search ranking with chess Elo scores](https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores)
-* [2025-07-16, 12:39:51](https://news.ycombinator.com/item?id=44581631) - [cppyy: Automatic Python-C++ Bindings](https://cppyy.readthedocs.io/en/latest/)
+* [2025-07-16, 13:46:28](https://news.ycombinator.com/item?id=44582349) - [Denver's Deepest Dinosaur](https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur)
 * [2025-07-16, 11:42:17](https://news.ycombinator.com/item?id=44581098) - [Show HN: DataRamen, a Fast SQL Explorer with Automatic Joins and Data Navigation](https://dataramen.xyz/)
 * [2025-07-16, 09:15:28](https://news.ycombinator.com/item?id=44580257) - [Pgactive: Postgres active-active replication extension](https://github.com/aws/pgactive)
 * [2025-07-16, 08:18:34](https://news.ycombinator.com/item?id=44579902) - [Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer](https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/)
