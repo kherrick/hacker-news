@@ -74,6 +74,7 @@
 * [2025-07-13, 01:25:53](https://news.ycombinator.com/item?id=44546707) - [A.I. Is Making Sure You Pay for That Ding on Your Rental Car](https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html)
 * [2025-07-13, 01:12:37](https://news.ycombinator.com/item?id=44546640) - [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
 * [2025-07-13, 01:02:35](https://news.ycombinator.com/item?id=44546583) - [Banned Filipino fishermen documentary can be seen in NZ](https://www.rnz.co.nz/life/screens/movies/banned-filipino-fishermen-documentary-can-be-seen-in-nz)
+* [2025-07-13, 01:00:04](https://news.ycombinator.com/item?id=44546567) - [The Symbol Grounding Problem (1990)](https://arxiv.org/html/cs/9906002)
 * [2025-07-13, 00:51:58](https://news.ycombinator.com/item?id=44546533) - [Startup just hit a big milestone for green steel production](https://www.technologyreview.com/2025/03/12/1113130/green-steel-boston-metal/)
 * [2025-07-13, 00:29:21](https://news.ycombinator.com/item?id=44546422) - [MoonPay executives may have sent $250k to Nigerian scammer](https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests)
 * [2025-07-13, 00:06:20](https://news.ycombinator.com/item?id=44546321) - [Petabit-class transmission over > 1000 km using standard 19-core optical fiber](https://www.nict.go.jp/en/press/2025/05/29-1.html)
