@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 10:37:08](https://news.ycombinator.com/item?id=44580682) - [Linux Reaches 5% Desktop Market Share in USA](https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/)
 * [2025-07-16, 08:18:34](https://news.ycombinator.com/item?id=44579902) - [Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer](https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/)
 * [2025-07-16, 07:44:32](https://news.ycombinator.com/item?id=44579717) - [I'm Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
 * [2025-07-16, 06:32:47](https://news.ycombinator.com/item?id=44579317) - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)

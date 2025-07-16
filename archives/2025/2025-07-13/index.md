@@ -39,6 +39,7 @@
 * [2025-07-13, 15:35:49](https://news.ycombinator.com/item?id=44551157) - [The beauty entrepreneur who made the Jheri curl a sensation](https://thehustle.co/originals/the-beauty-entrepreneur-who-made-the-jheri-curl-a-sensation)
 * [2025-07-13, 15:30:29](https://news.ycombinator.com/item?id=44551109) - [Bay Area restaurants are vetting your social media before you even walk in](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
 * [2025-07-13, 15:17:41](https://news.ycombinator.com/item?id=44551026) - [What are we missing out on when we think Transformer is unreasonable in biology?](https://dmf-archive.github.io/docs/posts/form-follows-function-2/)
+* [2025-07-13, 15:08:23](https://news.ycombinator.com/item?id=44550967) - [Pixel Piranhas](https://rybakov.com/blog/pixel_piranhas/)
 * [2025-07-13, 15:07:51](https://news.ycombinator.com/item?id=44550964) - [Iranian official claims Israel used 'occult and supernatural spirits' during war](https://www.jpost.com/middle-east/iran-news/article-860798)
 * [2025-07-13, 14:33:18](https://news.ycombinator.com/item?id=44550722) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workst [pdf]](https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf)
 * [2025-07-13, 14:33:18](https://news.ycombinator.com/item?id=44550722) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workst [pdf]](http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf)
