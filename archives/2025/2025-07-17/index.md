@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 12:08:38](https://news.ycombinator.com/item?id=44592413) - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
+* [2025-07-17, 12:04:53](https://news.ycombinator.com/item?id=44592377) - [My Bank Keeps on Undermining Anti-Phishing Education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
+* [2025-07-17, 12:00:26](https://news.ycombinator.com/item?id=44592344) - [Rejoy Health (YC W21) Is Hiring](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer)
+* [2025-07-17, 11:19:53](https://news.ycombinator.com/item?id=44592006) - [N8n vs. node-red, which to use for AI workloads](https://daniel-payne-keldan-systems.medium.com/n8n-vs-node-red-485e8382b971)
 * [2025-07-17, 11:17:08](https://news.ycombinator.com/item?id=44591988) - [YouTuber faces jail time for showing off Android-based gaming handhelds](https://arstechnica.com/gadgets/2025/07/youtuber-faces-jail-time-for-showing-off-android-based-gaming-handhelds/)
 * [2025-07-17, 11:00:55](https://news.ycombinator.com/item?id=44591884) - [The limits of our personal experience and the value of statistics](https://ourworldindata.org/limits-personal-experience)
 * [2025-07-17, 10:49:58](https://news.ycombinator.com/item?id=44591820) - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
+* [2025-07-17, 10:42:02](https://news.ycombinator.com/item?id=44591768) - [The AI bubble today is bigger than the IT bubble in the 1990s](https://www.apolloacademy.com/ai-bubble-today-is-bigger-than-the-it-bubble-in-the-1990s/)
 * [2025-07-17, 10:40:04](https://news.ycombinator.com/item?id=44591752) - [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
 * [2025-07-17, 10:27:11](https://news.ycombinator.com/item?id=44591689) - [Voting age to be lowered to 16 by next general election](https://www.bbc.co.uk/news/articles/c628ep4j5kno)
 * [2025-07-17, 10:13:15](https://news.ycombinator.com/item?id=44591622) - [Economists made a model of the U.S. economy. Our debt crashed the model](https://www.marketplace.org/story/2025/07/14/how-our-debt-crashed-a-model-of-the-us-economy)
