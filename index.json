@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-17, 06:32:42",
+      "https://news.ycombinator.com/item?id=44590350"
+    ],
+    [
+      "Code Execution Through Email: How I Used Claude to Hack Itself",
+      "https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 06:05:19",
       "https://news.ycombinator.com/item?id=44590189"
     ],
@@ -27,16 +37,6 @@
     [
       "Original Xbox Hacks: The A20 CPU Gate (2021)",
       "https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 01:12:33",
-      "https://news.ycombinator.com/item?id=44588699"
-    ],
-    [
-      "Show HN: Cobble – A hard daily word game",
-      "https://wilf.live/cobble/"
     ]
   ],
   [
@@ -201,22 +201,12 @@
   ],
   [
     [
-      "2025-07-16, 07:44:32",
-      "https://news.ycombinator.com/item?id=44579717"
+      "2025-07-16, 03:50:00",
+      "https://news.ycombinator.com/item?id=44578510"
     ],
     [
-      "I'm switching to Python and actually liking it",
-      "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 06:32:47",
-      "https://news.ycombinator.com/item?id=44579317"
-    ],
-    [
-      "Shipping WebGPU on Windows in Firefox 141",
-      "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/"
+      "Tilck: A tiny Linux-compatible kernel",
+      "https://github.com/vvaltchev/tilck"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Roman dodecahedron: 12-sided object has baffled archaeologists for centuries",
       "https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 21:08:16",
+      "https://news.ycombinator.com/item?id=44565319"
+    ],
+    [
+      "A bionic knee integrated into tissue can restore natural movement",
+      "https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710"
     ]
   ],
   [
