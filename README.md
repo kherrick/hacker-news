@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-07-17, 17:15:54](https://news.ycombinator.com/item?id=44595635) - [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
+* [2025-07-17, 17:36:11](https://news.ycombinator.com/item?id=44595898) - [15,000+ AI-generated fake podcasts](https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams)
 * [2025-07-17, 17:01:47](https://news.ycombinator.com/item?id=44595492) - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
-* [2025-07-17, 16:53:51](https://news.ycombinator.com/item?id=44595406) - [AI tools slowed down experienced devs by 19%, study finds](https://leaddev.com/velocity/ai-doesnt-make-devs-as-productive-as-they-think-study-finds)
 * [2025-07-17, 16:21:16](https://news.ycombinator.com/item?id=44595008) - [Molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)
 * [2025-07-17, 15:59:54](https://news.ycombinator.com/item?id=44594790) - [Tell HN: Notion Desktop is monitoring your audio and network](https://news.ycombinator.com/item?id=44594790)
 * [2025-07-17, 15:33:22](https://news.ycombinator.com/item?id=44594475) - [How I Use Kagi](https://flamedfury.com/posts/how-i-use-kagi/)
@@ -23,6 +22,7 @@
 * [2025-07-16, 19:08:39](https://news.ycombinator.com/item?id=44585755) - [Intel's retreat is unlike anything it's done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
 * [2025-07-16, 16:48:48](https://news.ycombinator.com/item?id=44584372) - [Ex-Waymo engineers launch Bedrock Robotics to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
 * [2025-07-16, 15:11:54](https://news.ycombinator.com/item?id=44583171) - [Altermagnets: The first new type of magnet in nearly a century](https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
+* [2025-07-16, 09:15:28](https://news.ycombinator.com/item?id=44580257) - [Pgactive: Postgres active-active replication extension](https://github.com/aws/pgactive)
 * [2025-07-15, 11:03:53](https://news.ycombinator.com/item?id=44569894) - [When Is Tech Not Hype? Tulips, Toilets, Trains – and Tabs](https://ajmoon.com/posts/when-is-tech-not-hype-tulips-toilets-trains-and-tabs)
 * [2025-07-15, 08:21:40](https://news.ycombinator.com/item?id=44569095) - [Inside the box: Everything I did with an Arduino starter kit](https://lopespm.com/hardware/2025/07/15/arduino.html)
 * [2025-07-14, 14:50:17](https://news.ycombinator.com/item?id=44560943) - [Doing Hard Things](https://parv.bearblog.dev/kayaking/)

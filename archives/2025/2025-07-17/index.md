@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 17:36:11](https://news.ycombinator.com/item?id=44595898) - [15,000+ AI-generated fake podcasts](https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams)
 * [2025-07-17, 17:15:54](https://news.ycombinator.com/item?id=44595635) - [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
 * [2025-07-17, 17:01:47](https://news.ycombinator.com/item?id=44595492) - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
 * [2025-07-17, 16:53:51](https://news.ycombinator.com/item?id=44595406) - [AI tools slowed down experienced devs by 19%, study finds](https://leaddev.com/velocity/ai-doesnt-make-devs-as-productive-as-they-think-study-finds)
