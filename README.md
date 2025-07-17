@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-17, 08:34:40](https://news.ycombinator.com/item?id=44591062) - [Open, free, and ignored: the afterlife of Symbian](https://www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/)
 * [2025-07-17, 06:32:42](https://news.ycombinator.com/item?id=44590350) - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
 * [2025-07-17, 06:05:19](https://news.ycombinator.com/item?id=44590189) - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
 * [2025-07-17, 04:58:40](https://news.ycombinator.com/item?id=44589833) - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
@@ -24,10 +25,9 @@
 * [2025-07-15, 08:21:40](https://news.ycombinator.com/item?id=44569095) - [Inside the box: Everything I did with an Arduino starter kit](https://lopespm.com/hardware/2025/07/15/arduino.html)
 * [2025-07-14, 22:00:08](https://news.ycombinator.com/item?id=44565806) - [Roman dodecahedron: 12-sided object has baffled archaeologists for centuries](https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries)
 * [2025-07-14, 21:08:16](https://news.ycombinator.com/item?id=44565319) - [A bionic knee integrated into tissue can restore natural movement](https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710)
+* [2025-07-14, 14:01:44](https://news.ycombinator.com/item?id=44560390) - [ESA's Moonlight programme: Pioneering the path for lunar exploration](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration)
 * [2025-07-14, 12:28:44](https://news.ycombinator.com/item?id=44559375) - [Task Runner Census 2025](https://aleyan.com/blog/2025-task-runners-census/)
 * [2025-07-14, 10:14:02](https://news.ycombinator.com/item?id=44558289) - [Blue Pencil no. 18–Some history about Arial](https://www.paulshawletterdesign.com/2011/09/blue-pencil-no-18%e2%80%94some-history-about-arial/)
-* [2025-07-13, 12:52:18](https://news.ycombinator.com/item?id=44550079) - [What I'm working on – at work and on the side – aswin's blog](https://aswinc.blog/blog/work-2/)
-* [2025-07-13, 10:16:48](https://news.ycombinator.com/item?id=44549089) - [What's happening to reading?](https://www.newyorker.com/culture/open-questions/whats-happening-to-reading)
 * [2025-07-13, 02:52:13](https://news.ycombinator.com/item?id=44547105) - [Show HN: 0xDEAD//TYPE – A fast-paced typing shooter with retro vibes](https://0xdeadtype.theden.sh/)
 * [2025-07-12, 22:27:28](https://news.ycombinator.com/item?id=44545708) - [Scanned piano rolls database](http://www.pianorollmusic.org/rolldatabase.php)
 
