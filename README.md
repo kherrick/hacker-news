@@ -6,7 +6,7 @@
 * [2025-07-17, 11:19:53](https://news.ycombinator.com/item?id=44592006) - [N8n vs. node-red, which to use for AI workloads](https://daniel-payne-keldan-systems.medium.com/n8n-vs-node-red-485e8382b971)
 * [2025-07-17, 11:17:08](https://news.ycombinator.com/item?id=44591988) - [Retro gaming YouTuber Once Were Nerd sued and raided by the Italian government](https://www.androidauthority.com/once-were-nerd-youtuber-copyright-lawsuit-3577995/)
 * [2025-07-17, 10:49:58](https://news.ycombinator.com/item?id=44591820) - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
-* [2025-07-17, 10:42:02](https://news.ycombinator.com/item?id=44591768) - [The AI bubble today is bigger than the IT bubble in the 1990s](https://www.apolloacademy.com/ai-bubble-today-is-bigger-than-the-it-bubble-in-the-1990s/)
+* [2025-07-17, 10:44:17](https://news.ycombinator.com/item?id=44591785) - [Voting age to be lowered to 16 in UK by next general election](https://www.theguardian.com/politics/2025/jul/17/voting-age-to-be-lowered-to-16-in-england-and-northern-ireland)
 * [2025-07-17, 09:36:58](https://news.ycombinator.com/item?id=44591445) - [FOSS4G Europe 2025 live streaming](https://2025.europe.foss4g.org/livestream/)
 * [2025-07-17, 07:27:42](https://news.ycombinator.com/item?id=44590678) - [NINA: Rebuilding the original AIM, AOL Desktop, Yahoo and ICQ platforms](https://nina.chat/)
 * [2025-07-17, 06:32:42](https://news.ycombinator.com/item?id=44590350) - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
