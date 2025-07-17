@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 20:14:22](https://news.ycombinator.com/item?id=44597668) - [Ask HN: What Pocket alternatives did you move in to?](https://news.ycombinator.com/item?id=44597668)
 * [2025-07-17, 19:46:00](https://news.ycombinator.com/item?id=44597370) - [Smarter, workspace-aware code completions for C++ in VS Code](https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code/)
+* [2025-07-17, 19:30:28](https://news.ycombinator.com/item?id=44597192) - [Nintendo Switch 2 account bans continue: warning after buying old copy of Bayo 3](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-account-bans-continue-content-creator-with-over-a-million-subs-issues-warning-after-buying-an-old-copy-of-bayo-3-on-ebay)
 * [2025-07-17, 19:09:16](https://news.ycombinator.com/item?id=44596963) - [The Patterns of Elites Who Conceal Their Assets Offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
 * [2025-07-17, 18:59:41](https://news.ycombinator.com/item?id=44596845) - [Extreme skydiver Baumgartner dies in paragliding accident](https://www.dw.com/en/extreme-skydiver-baumgartner-dies-in-paragliding-accident/a-73317216)
 * [2025-07-17, 18:51:53](https://news.ycombinator.com/item?id=44596735) - [The AI Replaces Labour Myth](https://aimode.substack.com/p/the-ai-replaces-services-myth)
@@ -18,6 +20,7 @@
 * [2025-07-17, 17:29:46](https://news.ycombinator.com/item?id=44595824) - [Run TypeScript code without worrying about configuration](https://tsx.is/)
 * [2025-07-17, 17:28:49](https://news.ycombinator.com/item?id=44595811) - [All AI Models Might be The Same](https://blog.jxmo.io/p/there-is-only-one-model)
 * [2025-07-17, 17:27:44](https://news.ycombinator.com/item?id=44595799) - [NYC's office-to-residential conversions could create 17,000 new homes](https://www.6sqft.com/nycs-first-wave-of-office-to-residential-conversions-could-create-over-17000-new-homes-report-says/)
+* [2025-07-17, 17:20:42](https://news.ycombinator.com/item?id=44595697) - [3D-printed living lung tissue](https://news.ok.ubc.ca/2025/07/15/ubco-researchers-create-3d-printed-living-lung-tissue/)
 * [2025-07-17, 17:15:54](https://news.ycombinator.com/item?id=44595635) - [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
 * [2025-07-17, 17:03:48](https://news.ycombinator.com/item?id=44595516) - [The (Unfinished) PDE Coffee Table Book](https://people.maths.ox.ac.uk/trefethen/pdectb.html)
 * [2025-07-17, 17:01:47](https://news.ycombinator.com/item?id=44595492) - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
