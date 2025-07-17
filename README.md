@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-17, 10:13:15](https://news.ycombinator.com/item?id=44591622) - [Economists made a model of the U.S. economy. Our debt crashed the model](https://www.marketplace.org/story/2025/07/14/how-our-debt-crashed-a-model-of-the-us-economy)
 * [2025-07-17, 10:05:23](https://news.ycombinator.com/item?id=44591585) - [New battery has life so long you may never have to recharge](https://www.neowin.net/news/this-amazing-new-battery-has-life-so-long-you-may-never-have-to-recharge/)
 * [2025-07-17, 09:36:58](https://news.ycombinator.com/item?id=44591445) - [FOSS4G Europe 2025 Live Streaming](https://2025.europe.foss4g.org/livestream/)
 * [2025-07-17, 08:34:40](https://news.ycombinator.com/item?id=44591062) - [Open, free, and ignored: the afterlife of Symbian](https://www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/)
@@ -27,8 +28,7 @@
 * [2025-07-14, 21:08:16](https://news.ycombinator.com/item?id=44565319) - [A bionic knee integrated into tissue can restore natural movement](https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710)
 * [2025-07-14, 14:01:44](https://news.ycombinator.com/item?id=44560390) - [ESA's Moonlight programme: Pioneering the path for lunar exploration](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration)
 * [2025-07-14, 13:38:00](https://news.ycombinator.com/item?id=44560103) - [A Tale of Two Red-Bearded Visionaries](https://nemanjatrifunovic.substack.com/p/a-tale-of-two-red-bearded-visionaries)
-* [2025-07-14, 12:28:44](https://news.ycombinator.com/item?id=44559375) - [Task Runner Census 2025](https://aleyan.com/blog/2025-task-runners-census/)
-* [2025-07-14, 10:14:02](https://news.ycombinator.com/item?id=44558289) - [Blue Pencil no. 18–Some history about Arial](https://www.paulshawletterdesign.com/2011/09/blue-pencil-no-18%e2%80%94some-history-about-arial/)
+* [2025-07-13, 02:52:13](https://news.ycombinator.com/item?id=44547105) - [Show HN: 0xDEAD//TYPE – A fast-paced typing shooter with retro vibes](https://0xdeadtype.theden.sh/)
 * [2025-07-12, 22:27:28](https://news.ycombinator.com/item?id=44545708) - [Scanned piano rolls database](http://www.pianorollmusic.org/rolldatabase.php)
 
 ## [Archives](archives/index.md)
