@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-07-17, 18:14:41",
+      "https://news.ycombinator.com/item?id=44596327"
+    ],
+    [
+      "First Come First Served: The Impact of File Position on Code Review",
+      "https://arxiv.org/abs/2208.04259"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 18:09:59",
       "https://news.ycombinator.com/item?id=44596275"
     ],
@@ -41,12 +51,32 @@
   ],
   [
     [
-      "2025-07-17, 17:27:44",
-      "https://news.ycombinator.com/item?id=44595799"
+      "2025-07-17, 18:03:55",
+      "https://news.ycombinator.com/item?id=44596209"
     ],
     [
-      "NYC's office-to-residential conversions could create 17,000 new homes",
-      "https://www.6sqft.com/nycs-first-wave-of-office-to-residential-conversions-could-create-over-17000-new-homes-report-says/"
+      "Vibe Check: OpenAI Enters the Browser Wars with ChatGPT Agent",
+      "https://every.to/vibe-check/vibe-check-openai-enters-the-browser-wars-with-chatgpt-agent"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 17:29:46",
+      "https://news.ycombinator.com/item?id=44595824"
+    ],
+    [
+      "Run TypeScript code without worrying about configuration",
+      "https://tsx.is/"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 17:28:49",
+      "https://news.ycombinator.com/item?id=44595811"
+    ],
+    [
+      "All AI Models Might be The Same",
+      "https://blog.jxmo.io/p/there-is-only-one-model"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-07-17, 00:35:57",
-      "https://news.ycombinator.com/item?id=44588437"
-    ],
-    [
-      "I was wrong about robots.txt",
-      "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 21:01:09",
       "https://news.ycombinator.com/item?id=44586723"
     ],
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2025-07-16, 20:34:18",
-      "https://news.ycombinator.com/item?id=44586530"
-    ],
-    [
-      "Metaflow: Build, Manage and Deploy AI/ML Systems",
-      "https://github.com/Netflix/metaflow"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 19:08:39",
-      "https://news.ycombinator.com/item?id=44585755"
-    ],
-    [
-      "Intel's retreat is unlike anything it's done before in Oregon",
-      "https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 16:48:48",
       "https://news.ycombinator.com/item?id=44584372"
     ],
     [
       "Ex-Waymo engineers launch Bedrock Robotics to automate construction",
       "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 15:11:54",
-      "https://news.ycombinator.com/item?id=44583171"
-    ],
-    [
-      "Altermagnets: The first new type of magnet in nearly a century",
-      "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Archaeologists Discover Tomb of First King of Caracol",
       "https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 03:57:02",
+      "https://news.ycombinator.com/item?id=44556318"
+    ],
+    [
+      "Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C",
+      "https://github.com/sammycage/plutofilter"
     ]
   ],
   [
