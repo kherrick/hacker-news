@@ -12,6 +12,7 @@
 * [2025-07-14, 21:33:16](https://news.ycombinator.com/item?id=44565603) - [Dog Walk: Blender Studio's official game project](https://blenderstudio.itch.io/dogwalk)
 * [2025-07-14, 21:27:04](https://news.ycombinator.com/item?id=44565548) - [US Government announces $200M Grok contract a week after 'MechaHitler'](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
 * [2025-07-14, 21:16:19](https://news.ycombinator.com/item?id=44565416) - [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
+* [2025-07-14, 21:08:16](https://news.ycombinator.com/item?id=44565319) - [A bionic knee integrated into tissue can restore natural movement](https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710)
 * [2025-07-14, 20:42:29](https://news.ycombinator.com/item?id=44565004) - [Show HN: The HTML Maze - Escape an eerie labyrinth built with HTML pages](https://htmlmaze.com/)
 * [2025-07-14, 20:38:19](https://news.ycombinator.com/item?id=44564963) - [Anthropic signs a $200mm deal with the Department of Defense](https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations)
 * [2025-07-14, 20:34:34](https://news.ycombinator.com/item?id=44564941) - [Grok 4 Heavy ($300/mo) returns its surname and no other text: \"Hitler\"](https://twitter.com/goodside/status/1944266466875826617)
