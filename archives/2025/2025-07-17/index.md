@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 12:58:37](https://news.ycombinator.com/item?id=44592866) - [The rise of AI as a threat to the S&P 500 [pdf]](https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf)
 * [2025-07-17, 12:08:38](https://news.ycombinator.com/item?id=44592413) - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
 * [2025-07-17, 12:04:53](https://news.ycombinator.com/item?id=44592377) - [My Bank Keeps on Undermining Anti-Phishing Education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
 * [2025-07-17, 12:00:26](https://news.ycombinator.com/item?id=44592344) - [Rejoy Health (YC W21) Is Hiring](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer)
