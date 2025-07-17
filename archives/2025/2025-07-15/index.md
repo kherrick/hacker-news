@@ -35,6 +35,7 @@
 * [2025-07-15, 17:00:04](https://news.ycombinator.com/item?id=44573320) - [CoinTracker (YC W18) is hiring to solve crypto taxes and accounting (remote)](https://news.ycombinator.com/item?id=44573320)
 * [2025-07-15, 16:59:54](https://news.ycombinator.com/item?id=44573317) - [Why the Real Computer Revolution Never Happened – Alan Kay and Anjan Katta [video]](https://www.youtube.com/watch?v=MbEZ-DC0L-g)
 * [2025-07-15, 16:49:06](https://news.ycombinator.com/item?id=44573195) - [Reflections on OpenAI](https://calv.info/openai-reflections)
+* [2025-07-15, 16:48:53](https://news.ycombinator.com/item?id=44573193) - [What's going on with gene therapies? (Part one)](https://nehalslearnings.substack.com/p/whats-going-on-with-gene-therapies)
 * [2025-07-15, 16:33:24](https://news.ycombinator.com/item?id=44572954) - [The 1960s schools experiment that created a whole new alphabet](https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell)
 * [2025-07-15, 16:21:08](https://news.ycombinator.com/item?id=44572792) - [Marc Andreessen Is a Traitor](https://www.liberalcurrents.com/marc-andreessen-is-a-traitor/)
 * [2025-07-15, 15:59:04](https://news.ycombinator.com/item?id=44572527) - [What Caused the 'Baby Boom'? What Would It Take to Have Another?](https://www.derekthompson.org/p/what-caused-the-baby-boom-what-would)

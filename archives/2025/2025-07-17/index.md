@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 18:16:54](https://news.ycombinator.com/item?id=44596355) - [Delta moves to eliminate set prices, use AI to set your personal ticket price](https://fortune.com/2025/07/16/delta-moves-toward-eliminating-set-prices-in-favor-of-ai-that-determines-how-much-you-personally-will-pay-for-a-ticket/)
 * [2025-07-17, 17:36:11](https://news.ycombinator.com/item?id=44595898) - [15,000+ AI-generated fake podcasts](https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams)
 * [2025-07-17, 17:27:44](https://news.ycombinator.com/item?id=44595799) - [NYC's office-to-residential conversions could create 17,000 new homes](https://www.6sqft.com/nycs-first-wave-of-office-to-residential-conversions-could-create-over-17000-new-homes-report-says/)
 * [2025-07-17, 17:15:54](https://news.ycombinator.com/item?id=44595635) - [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
@@ -16,6 +17,7 @@
 * [2025-07-17, 15:25:57](https://news.ycombinator.com/item?id=44594389) - [You're not a founder, you're a gig worker](https://news.ycombinator.com/item?id=44594389)
 * [2025-07-17, 15:00:18](https://news.ycombinator.com/item?id=44594156) - [Mistral Releases Deep Research, Voice, Projects in Le Chat](https://mistral.ai/news/le-chat-dives-deep)
 * [2025-07-17, 14:59:11](https://news.ycombinator.com/item?id=44594140) - [FDA Authorizes Juul E-Cigarettes](https://www.wsj.com/business/fda-authorizes-juul-e-cigarettes-6ad37963)
+* [2025-07-17, 14:53:42](https://news.ycombinator.com/item?id=44594080) - [Chrome's SSL Bypass Cheatcode](https://thomascountz.com/2025/07/17/chromes-ssl-bypass-cheatcode)
 * [2025-07-17, 14:43:00](https://news.ycombinator.com/item?id=44593972) - [Self-Taught Engineers Often Outperform](https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform)
 * [2025-07-17, 12:58:37](https://news.ycombinator.com/item?id=44592866) - [The rise of AI as a threat to the S&P 500 [pdf]](https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf)
 * [2025-07-17, 12:08:38](https://news.ycombinator.com/item?id=44592413) - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
