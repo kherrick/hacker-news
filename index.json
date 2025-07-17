@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-17, 17:01:47",
+      "https://news.ycombinator.com/item?id=44595492"
+    ],
+    [
+      "ChatGPT agent: bridging research and action",
+      "https://openai.com/index/introducing-chatgpt-agent/"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 16:21:16",
       "https://news.ycombinator.com/item?id=44595008"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-07-17, 16:20:50",
-      "https://news.ycombinator.com/item?id=44595003"
+      "2025-07-17, 15:59:54",
+      "https://news.ycombinator.com/item?id=44594790"
     ],
     [
-      "Ask HN: What are your current programming pet peeves?",
-      "https://news.ycombinator.com/item?id=44595003"
+      "Tell HN: Notion Desktop is monitoring your audio and network",
+      "https://news.ycombinator.com/item?id=44594790"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-07-16, 09:15:28",
-      "https://news.ycombinator.com/item?id=44580257"
-    ],
-    [
-      "Pgactive: Postgres active-active replication extension",
-      "https://github.com/aws/pgactive"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 08:21:40",
       "https://news.ycombinator.com/item?id=44569095"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-07-14, 13:38:00",
-      "https://news.ycombinator.com/item?id=44560103"
-    ],
-    [
-      "A Tale of Two Red-Bearded Visionaries",
-      "https://nemanjatrifunovic.substack.com/p/a-tale-of-two-red-bearded-visionaries"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 06:21:28",
       "https://news.ycombinator.com/item?id=44556997"
     ],
@@ -297,6 +287,16 @@
     [
       "Lighthouse of Alexandria Rises Again as Giant Blocks Resurface After 2000 Years",
       "https://greekreporter.com/2025/07/01/lighthouse-alexandria-giant-blocks-resurface/"
+    ]
+  ],
+  [
+    [
+      "2025-07-13, 17:30:38",
+      "https://news.ycombinator.com/item?id=44551990"
+    ],
+    [
+      "BB(6) Is Hard (Antihydra) (2024)",
+      "https://www.sligocki.com//2024/07/06/bb-6-2-is-hard.html"
     ]
   ]
 ]
