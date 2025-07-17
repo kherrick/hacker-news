@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-17, 23:10:38](https://news.ycombinator.com/item?id=44599334) - [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds)
 * [2025-07-17, 22:53:09](https://news.ycombinator.com/item?id=44599194) - [People kept working, became healthier while on basic income: report](https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729)
 * [2025-07-17, 21:38:14](https://news.ycombinator.com/item?id=44598534) - [Don't Fall for AI: Reasons for Writers to Reject Slop](https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/)
 * [2025-07-17, 21:09:51](https://news.ycombinator.com/item?id=44598254) - [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
@@ -23,9 +24,8 @@
 * [2025-07-15, 16:48:53](https://news.ycombinator.com/item?id=44573193) - [What's going on with gene therapies?](https://nehalslearnings.substack.com/p/whats-going-on-with-gene-therapies)
 * [2025-07-15, 09:47:20](https://news.ycombinator.com/item?id=44569540) - [Game of trees hub](https://gothub.org/)
 * [2025-07-14, 23:01:26](https://news.ycombinator.com/item?id=44566312) - [Delaunay Mesh Generation (2012)](https://people.eecs.berkeley.edu/~jrs/meshbook.html)
-* [2025-07-14, 18:37:57](https://news.ycombinator.com/item?id=44563711) - [Creating an Autonomous System for Fun and Profit](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
+* [2025-07-14, 18:37:57](https://news.ycombinator.com/item?id=44563711) - [Creating an autonomous system for fun and profit (2017)](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2025-07-14, 14:50:17](https://news.ycombinator.com/item?id=44560943) - [On doing hard things](https://parv.bearblog.dev/kayaking/)
-* [2025-07-14, 14:01:44](https://news.ycombinator.com/item?id=44560390) - [ESA’s Moonlight programme: Pioneering the path for lunar exploration (2024)](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration)
 * [2025-07-14, 06:21:28](https://news.ycombinator.com/item?id=44556997) - [Archaeologists discover tomb of first king of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
 * [2025-07-14, 03:57:02](https://news.ycombinator.com/item?id=44556318) - [Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C](https://github.com/sammycage/plutofilter)
 * [2025-07-14, 02:36:19](https://news.ycombinator.com/item?id=44555924) - [Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)](https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html)
