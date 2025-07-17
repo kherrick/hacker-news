@@ -36,6 +36,7 @@
 * [2025-07-14, 15:37:56](https://news.ycombinator.com/item?id=44561431) - [What happens when a brand built for sport loses some of its focus?](https://doinghandstands.substack.com/p/the-recovery-run)
 * [2025-07-14, 15:30:31](https://news.ycombinator.com/item?id=44561354) - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
 * [2025-07-14, 15:28:36](https://news.ycombinator.com/item?id=44561328) - [Why random selection is necessary to create stable meritocratic institutions](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy)
+* [2025-07-14, 15:26:10](https://news.ycombinator.com/item?id=44561300) - [Where the Horses Swim: On Barbados' Pebbles Beach, Racehorses Train in the Ocean](https://www.thedial.world/articles/news/issue-30/horse-racing-barbados)
 * [2025-07-14, 15:24:57](https://news.ycombinator.com/item?id=44561284) - [GM, LG to upgrade Tennessee plant to make low-cost EV batteries](https://www.cnbc.com/2025/07/14/gm-lg-ultium-spring-hill-tennessee-plant-ev-batteries.html)
 * [2025-07-14, 15:07:31](https://news.ycombinator.com/item?id=44561104) - [Lightning Detector Circuits](https://techlib.com/electronics/lightningnew.htm)
 * [2025-07-14, 15:02:43](https://news.ycombinator.com/item?id=44561060) - [You Are in a Box](https://jyn.dev/you-are-in-a-box/)
