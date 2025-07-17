@@ -47,6 +47,7 @@
 * [2025-07-14, 14:08:44](https://news.ycombinator.com/item?id=44560489) - [Show HN: TechBro Generator – Generate Satirical TechBro Posts](https://techbrogenerator.netlify.app/)
 * [2025-07-14, 13:40:11](https://news.ycombinator.com/item?id=44560123) - [From Engineer to Manager: A Practical Guide to Your First Months in Leadership](https://humansinsystems.com/blog/new-manager-essentials-a-practical-guide-to-your-first-months)
 * [2025-07-14, 12:38:18](https://news.ycombinator.com/item?id=44559469) - [Why recycling solar panels is harder than you might think](https://theconversation.com/why-recycling-solar-panels-is-harder-than-you-might-think-an-electrical-engineer-explains-259115)
+* [2025-07-14, 12:28:44](https://news.ycombinator.com/item?id=44559375) - [Task Runner Census 2025](https://aleyan.com/blog/2025-task-runners-census/)
 * [2025-07-14, 11:12:18](https://news.ycombinator.com/item?id=44558755) - [HoloMem's drop-in holographic tape drive for LTO tape libraries](https://blocksandfiles.com/2025/07/12/holomems-drop-in-holographic-tape-cartridge-for-lto-tape-libraries/)
 * [2025-07-14, 11:02:37](https://news.ycombinator.com/item?id=44558665) - [Death by a Thousand Slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 * [2025-07-14, 11:00:21](https://news.ycombinator.com/item?id=44558646) - [Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles](https://www.jstor.org/stable/26169128)
