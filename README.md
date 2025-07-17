@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-17, 18:18:13](https://news.ycombinator.com/item?id=44596371) - [Sen. Warren on Mamdani: He's willing to try new ideas to bring down costs for NY [video]](https://www.youtube.com/watch?v=MWrDi3acZcg)
 * [2025-07-17, 18:16:54](https://news.ycombinator.com/item?id=44596355) - [Delta moves to eliminate set prices, use AI to set your personal ticket price](https://fortune.com/2025/07/16/delta-moves-toward-eliminating-set-prices-in-favor-of-ai-that-determines-how-much-you-personally-will-pay-for-a-ticket/)
 * [2025-07-17, 17:27:44](https://news.ycombinator.com/item?id=44595799) - [NYC's office-to-residential conversions could create 17,000 new homes](https://www.6sqft.com/nycs-first-wave-of-office-to-residential-conversions-could-create-over-17000-new-homes-report-says/)
 * [2025-07-17, 17:01:47](https://news.ycombinator.com/item?id=44595492) - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
@@ -18,7 +19,6 @@
 * [2025-07-17, 00:35:57](https://news.ycombinator.com/item?id=44588437) - [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
 * [2025-07-16, 21:01:09](https://news.ycombinator.com/item?id=44586723) - [I want an iPhone Mini-sized Android phone (2022)](https://smallandroidphone.com/)
 * [2025-07-16, 20:34:18](https://news.ycombinator.com/item?id=44586530) - [Metaflow: Build, Manage and Deploy AI/ML Systems](https://github.com/Netflix/metaflow)
-* [2025-07-16, 19:45:24](https://news.ycombinator.com/item?id=44586064) - [Artisanal handcrafted Git repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 19:08:39](https://news.ycombinator.com/item?id=44585755) - [Intel's retreat is unlike anything it's done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
 * [2025-07-16, 16:48:48](https://news.ycombinator.com/item?id=44584372) - [Ex-Waymo engineers launch Bedrock Robotics to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
 * [2025-07-16, 15:11:54](https://news.ycombinator.com/item?id=44583171) - [Altermagnets: The first new type of magnet in nearly a century](https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
