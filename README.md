@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-07-17, 21:09:51](https://news.ycombinator.com/item?id=44598254) - [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 * [2025-07-17, 20:41:22](https://news.ycombinator.com/item?id=44597966) - [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
 * [2025-07-17, 20:14:22](https://news.ycombinator.com/item?id=44597668) - [Ask HN: What Pocket alternatives did you move to?](https://news.ycombinator.com/item?id=44597668)
 * [2025-07-17, 19:30:28](https://news.ycombinator.com/item?id=44597192) - [Nintendo Switch 2 account bans continue: warning after buying old copy of Bayo 3](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-account-bans-continue-content-creator-with-over-a-million-subs-issues-warning-after-buying-an-old-copy-of-bayo-3-on-ebay)
@@ -10,9 +11,8 @@
 * [2025-07-17, 18:09:59](https://news.ycombinator.com/item?id=44596275) - [Apple Intelligence Foundation Language Models Tech Report 2025](https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025)
 * [2025-07-17, 17:29:46](https://news.ycombinator.com/item?id=44595824) - [Run TypeScript code without worrying about configuration](https://tsx.is/)
 * [2025-07-17, 17:28:49](https://news.ycombinator.com/item?id=44595811) - [All AI models might be the same](https://blog.jxmo.io/p/there-is-only-one-model)
-* [2025-07-17, 17:03:48](https://news.ycombinator.com/item?id=44595516) - [The (Unfinished) PDE Coffee Table Book](https://people.maths.ox.ac.uk/trefethen/pdectb.html)
+* [2025-07-17, 17:20:42](https://news.ycombinator.com/item?id=44595697) - [3D-printed living lung tissue](https://news.ok.ubc.ca/2025/07/15/ubco-researchers-create-3d-printed-living-lung-tissue/)
 * [2025-07-17, 17:01:47](https://news.ycombinator.com/item?id=44595492) - [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
-* [2025-07-17, 16:21:16](https://news.ycombinator.com/item?id=44595008) - [Molecule produced by gut bacteria causes atherosclerosis](https://english.elpais.com/health/2025-07-17/revolution-in-medicine-a-molecule-produced-by-gut-bacteria-causes-atherosclerosis-responsible-for-millions-of-deaths.html)
 * [2025-07-17, 15:33:22](https://news.ycombinator.com/item?id=44594475) - [How I Use Kagi](https://flamedfury.com/posts/how-i-use-kagi/)
 * [2025-07-17, 15:00:18](https://news.ycombinator.com/item?id=44594156) - [Mistral Releases Deep Research, Voice, Projects in Le Chat](https://mistral.ai/news/le-chat-dives-deep)
 * [2025-07-17, 14:53:42](https://news.ycombinator.com/item?id=44594080) - [Chrome's SSL Bypass Cheatcode](https://thomascountz.com/2025/07/17/chromes-ssl-bypass-cheatcode)

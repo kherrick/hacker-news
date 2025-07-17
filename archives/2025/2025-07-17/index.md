@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 21:09:51](https://news.ycombinator.com/item?id=44598254) - [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 * [2025-07-17, 20:41:22](https://news.ycombinator.com/item?id=44597966) - [Running TypeScript Natively in Node.js](https://nodejs.org/en/learn/typescript/run-natively)
 * [2025-07-17, 20:14:22](https://news.ycombinator.com/item?id=44597668) - [Ask HN: What Pocket alternatives did you move in to?](https://news.ycombinator.com/item?id=44597668)
 * [2025-07-17, 19:46:00](https://news.ycombinator.com/item?id=44597370) - [Smarter, workspace-aware code completions for C++ in VS Code](https://devblogs.microsoft.com/cppblog/smarter-workspace-aware-code-completions-for-c-in-vs-code/)
