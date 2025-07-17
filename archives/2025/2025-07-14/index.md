@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 23:01:26](https://news.ycombinator.com/item?id=44566312) - [Delaunay Mesh Generation (2012)](https://people.eecs.berkeley.edu/~jrs/meshbook.html)
 * [2025-07-14, 22:28:08](https://news.ycombinator.com/item?id=44566034) - [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
 * [2025-07-14, 22:04:33](https://news.ycombinator.com/item?id=44565836) - [Tell HN: 1.1.1.1 Appears to Be Down](https://news.ycombinator.com/item?id=44565836)
 * [2025-07-14, 22:00:08](https://news.ycombinator.com/item?id=44565806) - [Roman dodecahedron: 12-sided object has baffled archaeologists for centuries](https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries)

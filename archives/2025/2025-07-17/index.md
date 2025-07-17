@@ -42,6 +42,7 @@
 * [2025-07-17, 12:08:38](https://news.ycombinator.com/item?id=44592413) - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
 * [2025-07-17, 12:04:53](https://news.ycombinator.com/item?id=44592377) - [My Bank Keeps on Undermining Anti-Phishing Education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
 * [2025-07-17, 12:00:26](https://news.ycombinator.com/item?id=44592344) - [Rejoy Health (YC W21) Is Hiring](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer)
+* [2025-07-17, 11:56:33](https://news.ycombinator.com/item?id=44592303) - [Show HN: Easy alternative to giflib – header-only decoder in C](https://github.com/Ferki-git-creator/TurboStitchGIF-HeaderOnly-Fast-ZeroAllocation-PlatformIndependent-Embedded-C-GIF-Decoder)
 * [2025-07-17, 11:19:53](https://news.ycombinator.com/item?id=44592006) - [N8n vs. node-red, which to use for AI workloads](https://daniel-payne-keldan-systems.medium.com/n8n-vs-node-red-485e8382b971)
 * [2025-07-17, 11:17:08](https://news.ycombinator.com/item?id=44591988) - [YouTuber faces jail time for showing off Android-based gaming handhelds](https://arstechnica.com/gadgets/2025/07/youtuber-faces-jail-time-for-showing-off-android-based-gaming-handhelds/)
 * [2025-07-17, 11:17:08](https://news.ycombinator.com/item?id=44591988) - [Retro gaming YouTuber Once Were Nerd sued and raided by the Italian government](https://www.androidauthority.com/once-were-nerd-youtuber-copyright-lawsuit-3577995/)
