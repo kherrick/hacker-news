@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 07:16:34](https://news.ycombinator.com/item?id=44590617) - [TikTok, AliExpress and WeChat ignore your GDPR rights](https://noyb.eu/en/how-tiktok-aliexpress-wechat-ignore-your-gdpr-rights)
 * [2025-07-17, 06:32:42](https://news.ycombinator.com/item?id=44590350) - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
 * [2025-07-17, 06:05:19](https://news.ycombinator.com/item?id=44590189) - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
 * [2025-07-17, 04:58:40](https://news.ycombinator.com/item?id=44589833) - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
