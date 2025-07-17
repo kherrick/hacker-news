@@ -22,7 +22,7 @@
 * [2025-07-17, 00:16:17](https://news.ycombinator.com/item?id=44588319) - [Perfume reviews](https://gwern.net/blog/2025/perfume)
 * [2025-07-15, 16:48:53](https://news.ycombinator.com/item?id=44573193) - [What's going on with gene therapies?](https://nehalslearnings.substack.com/p/whats-going-on-with-gene-therapies)
 * [2025-07-15, 11:03:53](https://news.ycombinator.com/item?id=44569894) - [When is tech not hype? Tulips, toilets, trains and tabs](https://ajmoon.com/posts/when-is-tech-not-hype-tulips-toilets-trains-and-tabs)
-* [2025-07-15, 09:47:20](https://news.ycombinator.com/item?id=44569540) - [Game of Trees Hub](https://gothub.org/)
+* [2025-07-15, 09:47:20](https://news.ycombinator.com/item?id=44569540) - [Game of trees hub](https://gothub.org/)
 * [2025-07-14, 16:39:57](https://news.ycombinator.com/item?id=44562168) - [Show HN: Google Maps can't map a story – MapScroll does, from one prompt](https://www.mapscroll.ai/)
 * [2025-07-14, 14:50:17](https://news.ycombinator.com/item?id=44560943) - [On doing hard things](https://parv.bearblog.dev/kayaking/)
 * [2025-07-14, 14:01:44](https://news.ycombinator.com/item?id=44560390) - [ESA’s Moonlight programme: Pioneering the path for lunar exploration (2024)](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration)
